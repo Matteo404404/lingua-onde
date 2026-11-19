@@ -1,0 +1,662 @@
+course: fr
+
+== 4 A1
+title: Au café
+title.it: Al bar
+title.en: At the café
+title.es: En el café
+
+dialogue:
+- Bonjour ! Vous désirez ?
+  it: Buongiorno! Cosa vi porto (voi desiderate)?
+  en: Good morning! What would you like (you desire)?
+  es: ¡Buenos días! ¿Qué desean (ustedes desean)?
+- Un café, s'il vous plaît. Et toi, Léa, qu'est-ce que tu prends ?
+  it: Un caffè, per favore. E tu, Léa, cosa prendi (che cos'è che tu prendi)?
+  en: A coffee, please. And you, Léa, what are you having (what is it that you take)?
+  es: Un café, por favor. ¿Y tú, Léa, qué tomas (qué es lo que tú tomas)?
+- Un thé, s'il vous plaît. Le matin, je ne bois pas de café.
+  it: Un tè, per favore. La mattina (il mattino) non bevo caffè (non bevo di caffè).
+  en: A tea, please. I don't drink coffee in the morning (the morning, I not drink of coffee).
+  es: Un té, por favor. Por la mañana (la mañana) no bebo café (no bebo de café).
+- Ah bon ? Moi, je bois trois cafés par jour !
+  it: Ah sì (ah buono)? Io bevo tre caffè al giorno (per giorno)!
+  en: Really (ah good)? I drink three coffees a day (per day)!
+  es: ¿Ah, sí (ah bueno)? ¡Yo bebo tres cafés al día (por día)!
+- Trois ? C'est beaucoup ! Tu travailles aujourd'hui ?
+  it: Tre? Sono tanti (è molto)! Lavori oggi?
+  en: Three? That's a lot (it's much)! Are you working today (you work today)?
+  es: ¿Tres? ¡Es mucho! ¿Trabajas hoy?
+- Non, aujourd'hui, j'étudie à la maison. Et toi ?
+  it: No, oggi studio a casa (alla casa). E tu?
+  en: No, today I'm studying at home (I study at the house). And you?
+  es: No, hoy estudio en casa (en la casa). ¿Y tú?
+- Moi, je travaille dans une librairie. Je commence à dix heures.
+  it: Io lavoro in una libreria. Comincio alle dieci (a dieci ore).
+  en: I work in a bookshop. I start at ten (at ten hours).
+  es: Yo trabajo en una librería. Empiezo a las diez (a diez horas).
+- Et il est quelle heure maintenant ?
+  it: E che ore sono adesso (ed è quale ora adesso)?
+  en: And what time is it now (and it is which hour now)?
+  es: ¿Y qué hora es ahora (y es cuál hora ahora)?
+- Il est neuf heures et demie. Ça va, j'ai le temps !
+  it: Sono le nove e mezza (è nove ore e mezza). Va bene, ho tempo (ho il tempo)!
+  en: It's half past nine (it is nine hours and half). It's fine, I have time (the time)!
+  es: Son las nueve y media (es nueve horas y media). ¡Vale, tengo tiempo (tengo el tiempo)!
+
+notes.it:
+1. Qu'est-ce que tu prends ? (che cosa prendi?): prendre si usa per cibi e
+   bevande, come il nostro "prendere": je prends, tu prends, il prend. Qu'est-ce
+   que (letteralmente "che cos'è che") apre una domanda: qu'est-ce que tu
+   étudies ?
+2. Je ne bois pas de café (non bevo caffè): la negazione ha due pezzi, ne prima
+   del verbo e pas dopo. Dopo la negazione un, une, des, du e de la si riducono
+   a de: je bois du café, ma je ne bois pas de café.
+3. Il est neuf heures (sono le nove, letteralmente "è nove ore"): l'ora si dice
+   sempre al singolare con il est. Et demie vuol dire "e mezza". I numeri da sei
+   a dieci: six, sept, huit, neuf, dix. In neuf heures la f si pronuncia v.
+4. Le matin (la mattina): con le parti del giorno l'articolo indica
+   un'abitudine. À la maison significa "a casa". La librairie è proprio la
+   libreria; la biblioteca si dice invece la bibliothèque.
+5. In Francia un café è un espresso, spesso un po' più lungo del nostro; per
+   avere il latte si ordina un café crème, o semplicemente un crème. Ah bon ?
+   (ah sì? davvero?) esprime sorpresa.
+notes.en:
+1. Qu'est-ce que tu prends ? (what are you having?): prendre, "to take", is the
+   usual verb for food and drink: je prends, tu prends, il prend. Qu'est-ce que
+   (literally "what is it that") opens a question: qu'est-ce que tu étudies ?
+2. Je ne bois pas de café (I don't drink coffee): the negation has two parts, ne
+   before the verb and pas after it. After a negation, un, une, des, du and de
+   la become de, so je bois du café turns into je ne bois pas de café.
+3. Il est neuf heures (it's nine o'clock, literally "it is nine hours"): the
+   time always starts with il est. Et demie means "half past". Numbers six to
+   ten are six, sept, huit, neuf, dix. In neuf heures the f sounds like a v.
+4. False friend: une librairie is a bookshop, not a library; a library is une
+   bibliothèque. Le matin (in the morning) takes the article because it is a
+   habit, and à la maison means "at home".
+5. In France un café is an espresso, often a little longer than an Italian one;
+   with milk you order un café crème, or just un crème. Ah bon ? (really?) shows
+   surprise.
+notes.es:
+1. Qu'est-ce que tu prends ? (¿qué tomas?): prendre, "tomar", es el verbo
+   habitual para comidas y bebidas: je prends, tu prends, il prend. Qu'est-ce
+   que (literalmente "qué es lo que") abre una pregunta: qu'est-ce que tu
+   étudies ?
+2. Je ne bois pas de café (no bebo café): la negación tiene dos partes, ne antes
+   del verbo y pas después. Tras una negación, un, une, des, du y de la se
+   convierten en de, así que je bois du café pasa a je ne bois pas de café.
+3. Il est neuf heures (son las nueve, literalmente "es nueve horas"): la hora se
+   dice siempre en singular con il est. Et demie significa "y media". Los
+   números del seis al diez son six, sept, huit, neuf, dix. En neuf heures la f
+   se pronuncia como una v francesa, es decir, como una f sonora.
+4. La librairie es la librería, como en español; la biblioteca se dice la
+   bibliothèque. Le matin (por la mañana) lleva artículo porque habla de una
+   costumbre, y à la maison significa "en casa".
+5. En Francia un café es un expreso, a menudo algo más largo que el italiano;
+   con leche se pide un café crème, o simplemente un crème. Ah bon ? (¿ah, sí?,
+   ¿de verdad?) expresa sorpresa.
+
+ex1:
+- Qu'est-ce que tu prends, Marco ?
+  it: Cosa prendi, Marco?
+  en: What are you having, Marco?
+  es: ¿Qué tomas, Marco?
+- Je ne bois pas de thé.
+  it: Non bevo tè.
+  en: I don't drink tea.
+  es: No bebo té.
+- Il est dix heures et demie.
+  it: Sono le dieci e mezza.
+  en: It's half past ten.
+  es: Son las diez y media.
+- Léa travaille dans une librairie.
+  it: Léa lavora in una libreria.
+  en: Léa works in a bookshop.
+  es: Léa trabaja en una librería.
+
+ex2:
+- Le [matin], je ne [bois] pas de café.
+  it: La mattina non bevo caffè.
+  en: In the morning I don't drink coffee.
+  es: Por la mañana no bebo café.
+- Il [est] quelle [heure] ?
+  it: Che ore sono?
+  en: What time is it?
+  es: ¿Qué hora es?
+- Je [commence] à huit heures.
+  it: Comincio alle otto.
+  en: I start at eight.
+  es: Empiezo a las ocho.
+- Moi, je [prends] un [thé].
+  it: Io prendo un tè.
+  en: I'll have a tea.
+  es: Yo tomo un té.
+
+== 5 A1
+title: Une photo de famille
+title.it: Una foto di famiglia
+title.en: A family photo
+title.es: Una foto de familia
+
+dialogue:
+- C'est qui, sur la photo ?
+  it: Chi è, nella foto (è chi, sulla foto)?
+  en: Who's that in the photo (it's who, on the photo)?
+  es: ¿Quién es, en la foto (es quién, sobre la foto)?
+- C'est ma famille. Voilà mon père, ma mère et mon frère Hugo.
+  it: È la mia famiglia. Ecco mio padre, mia madre e mio fratello Hugo.
+  en: It's my family. Here are my father, my mother and my brother Hugo.
+  es: Es mi familia. Aquí están mi padre, mi madre y mi hermano Hugo.
+- Il a quel âge, Hugo ?
+  it: Quanti anni ha, Hugo (lui ha quale età)?
+  en: How old is Hugo (he has which age, Hugo)?
+  es: ¿Cuántos años tiene Hugo (él tiene qué edad, Hugo)?
+- Il a vingt-six ans. Il est cuisinier dans un restaurant, ici à Paris.
+  it: Ha ventisei anni. Fa il cuoco (è cuoco) in un ristorante, qui a Parigi.
+  en: He's twenty-six (he has twenty-six years). He's a cook (he is cook) in a restaurant, here in Paris.
+  es: Tiene veintiséis años. Es cocinero en un restaurante, aquí en París.
+- Et tes parents ? Ils habitent à Paris aussi ?
+  it: E i tuoi genitori? Abitano anche loro a Parigi (abitano a Parigi anche)?
+  en: And your parents? Do they live in Paris too (they live in Paris also)?
+  es: ¿Y tus padres? ¿Viven también en París (viven en París también)?
+- Non, à Rouen, en Normandie. Et toi, tu as des frères et sœurs ?
+  it: No, a Rouen, in Normandia. E tu, hai fratelli (dei fratelli e sorelle)?
+  en: No, in Rouen, in Normandy. And you, do you have any brothers or sisters (some brothers and sisters)?
+  es: No, en Ruan, en Normandía. ¿Y tú, tienes hermanos (unos hermanos y hermanas)?
+- Oui, une petite sœur, Chiara. Elle a seize ans et elle habite à Bologne avec mes parents.
+  it: Sì, una sorella minore (una piccola sorella), Chiara. Ha sedici anni e abita a Bologna con i miei genitori.
+  en: Yes, a younger sister (a little sister), Chiara. She's sixteen and she lives in Bologna with my parents.
+  es: Sí, una hermana menor (una pequeña hermana), Chiara. Tiene dieciséis años y vive en Bolonia con mis padres.
+- Seize ans ! Elle parle français ?
+  it: Sedici anni! Parla francese?
+  en: Sixteen! Does she speak French (she speaks French)?
+  es: ¡Dieciséis años! ¿Habla francés?
+- Un peu. Elle étudie le français au lycée.
+  it: Un po'. Studia francese (il francese) al liceo.
+  en: A little. She's learning French (she studies the French) at secondary school (at the lycée).
+  es: Un poco. Estudia francés (el francés) en el instituto (en el liceo).
+
+notes.it:
+1. Mon père, ma mère, mes parents: il possessivo concorda con la cosa posseduta
+   (mon al maschile, ma al femminile, mes al plurale) e non vuole mai
+   l'articolo: mes parents, "i miei genitori". Allo stesso modo ton, ta, tes
+   (tuo) e son, sa, ses (suo).
+2. Il a vingt-six ans (ha ventisei anni): l'età si dice con avoir, come in
+   italiano, e la parola ans non si può omettere: elle a seize ans.
+3. I numeri da 11 a 16 hanno una forma propria: onze, douze, treize, quatorze,
+   quinze, seize. Poi si somma: dix-sept, dix-huit, dix-neuf, vingt, vingt et
+   un, vingt-deux... Si dice vingt et un con et, ma vingt-deux con il trattino.
+4. Il est cuisinier (fa il cuoco): con être il mestiere non vuole articolo, come
+   in italiano. Tu as des frères et sœurs ? è il modo normale di chiedere se
+   qualcuno ha fratelli o sorelle.
+5. Pronuncia: peu ha la stessa vocale di deux, una e con le labbra arrotondate;
+   in sœur lo stesso suono è un po' più aperto. Le lycée corrisponde agli ultimi
+   tre anni delle superiori, dai 15 ai 18 anni.
+notes.en:
+1. Mon père, ma mère, mes parents: the possessive agrees with the thing owned,
+   not with the owner: mon (masculine), ma (feminine), mes (plural). Likewise
+   ton, ta, tes (your) and son, sa, ses, which mean both "his" and "her", so sa
+   mère is his mother or her mother.
+2. Il a vingt-six ans (he's twenty-six, literally "he has twenty-six years"):
+   French gives your age with avoir, "to have", and the word ans cannot be
+   dropped, as in elle a seize ans.
+3. Numbers 11 to 16 have their own words: onze, douze, treize, quatorze, quinze,
+   seize. Then you add: dix-sept, dix-huit, dix-neuf, vingt, vingt et un,
+   vingt-deux... Note vingt et un with et, but vingt-deux with a hyphen.
+4. Il est cuisinier (he's a cook): after être, jobs take no article. Tu as des
+   frères et sœurs ? is the everyday way to ask about brothers and sisters.
+5. Pronunciation: peu has the same rounded vowel as deux; in sœur it is a little
+   more open, close to the vowel of "fur". Le lycée is upper secondary school,
+   the last three years, from about 15 to 18.
+notes.es:
+1. Mon père, ma mère, mes parents: el posesivo concuerda con lo poseído, mon en
+   masculino, ma en femenino y mes en plural. Igual con ton, ta, tes (tu, tus) y
+   con son, sa, ses (su, sus).
+2. Il a vingt-six ans (tiene veintiséis años): la edad se dice con avoir
+   (tener), como en español, y la palabra ans no se puede omitir, como en elle a
+   seize ans.
+3. Los números del 11 al 16 tienen forma propia: onze, douze, treize, quatorze,
+   quinze, seize. Después se suma: dix-sept, dix-huit, dix-neuf, vingt, vingt et
+   un, vingt-deux... Se dice vingt et un con et, pero vingt-deux con guion.
+4. Il est cuisinier (es cocinero): con être, la profesión va sin artículo, como
+   en español. Tu as des frères et sœurs ? es la forma normal de preguntar si
+   alguien tiene hermanos.
+5. Pronunciación: peu tiene la misma vocal que deux, una e con los labios
+   redondeados; en sœur el mismo sonido es algo más abierto. Le lycée son los
+   tres últimos cursos de secundaria, de los 15 a los 18 años.
+
+ex1:
+- Mon frère a dix-huit ans.
+  it: Mio fratello ha diciotto anni.
+  en: My brother is eighteen.
+  es: Mi hermano tiene dieciocho años.
+- Tes parents habitent à Rouen ?
+  it: I tuoi genitori abitano a Rouen?
+  en: Do your parents live in Rouen?
+  es: ¿Tus padres viven en Ruan?
+- Ma sœur est cuisinière.
+  it: Mia sorella fa la cuoca.
+  en: My sister is a cook.
+  es: Mi hermana es cocinera.
+- Elle parle un peu français.
+  it: Parla un po' di francese (un po' francese).
+  en: She speaks a little French.
+  es: Habla un poco de francés (un poco francés).
+
+ex2:
+- Il [a] quel [âge] ?
+  it: Quanti anni ha?
+  en: How old is he?
+  es: ¿Cuántos años tiene?
+- Voilà [ma] mère et [mon] père.
+  it: Ecco mia madre e mio padre.
+  en: Here are my mother and my father.
+  es: Aquí están mi madre y mi padre.
+- J'ai une petite [sœur].
+  it: Ho una sorella minore.
+  en: I have a younger sister.
+  es: Tengo una hermana menor.
+- Elle a [seize] [ans].
+  it: Ha sedici anni.
+  en: She's sixteen.
+  es: Tiene dieciséis años.
+
+== 6 A1
+title: Où est la pharmacie ?
+title.it: Dov'è la farmacia?
+title.en: Where's the chemist's?
+title.es: ¿Dónde está la farmacia?
+
+dialogue:
+- Bonjour, Madame Girard ! Excusez-moi, il y a une pharmacie près d'ici ?
+  it: Buongiorno, signora Girard! Mi scusi, c'è una farmacia qui vicino (vicino di qui)?
+  en: Good morning, Madame Girard! Excuse me, is there a chemist's near here (near of here)?
+  es: ¡Buenos días, señora Girard! Disculpe, ¿hay una farmacia cerca de aquí?
+- Oui, ce n'est pas loin. Vous allez tout droit, puis vous tournez à droite au feu.
+  it: Sì, non è lontano. Vada sempre dritto (voi andate tutto dritto), poi giri a destra al semaforo (al fuoco).
+  en: Yes, it isn't far. You go straight on (all straight), then you turn right at the traffic lights (at the fire).
+  es: Sí, no está lejos. Siga todo recto (usted va todo recto) y luego gire a la derecha en el semáforo (en el fuego).
+- À droite au feu... C'est à côté de la boulangerie ?
+  it: A destra al semaforo... È accanto alla panetteria?
+  en: Right at the lights... Is it next to the bakery?
+  es: A la derecha en el semáforo... ¿Está al lado de la panadería?
+- Non, en face de la banque. Elle est ouverte jusqu'à dix-neuf heures.
+  it: No, di fronte alla banca (in faccia della banca). È aperta fino alle diciannove (fino a diciannove ore).
+  en: No, opposite the bank (in face of the bank). It's open until 7 p.m. (until nineteen hours).
+  es: No, enfrente del banco (en cara del banco). Está abierta hasta las diecinueve (hasta diecinueve horas).
+- Merci ! Et pour faire les courses, il y a un supermarché ?
+  it: Grazie! E per fare la spesa (fare le corse), c'è un supermercato?
+  en: Thanks! And to do the shopping (to do the errands), is there a supermarket?
+  es: ¡Gracias! Y para hacer la compra (hacer las carreras), ¿hay un supermercado?
+- Oui, à côté de la poste. Mais moi, le dimanche, je vais au marché.
+  it: Sì, accanto alla posta. Ma io la domenica (il domenica) vado al mercato.
+  en: Yes, next to the post office. But on Sundays (the Sunday) I go to the market.
+  es: Sí, al lado de Correos. Pero yo los domingos (el domingo) voy al mercado.
+- Au marché ? J'adore les marchés !
+  it: Al mercato? Adoro i mercati!
+  en: To the market? I love markets (I adore the markets)!
+  es: ¿Al mercado? ¡Me encantan los mercados (adoro los mercados)!
+- Alors, venez avec moi dimanche ! À huit heures, devant l'immeuble.
+  it: Allora venga con me (venite con me) domenica! Alle otto, davanti al palazzo.
+  en: Then come with me on Sunday! At eight, in front of the building.
+  es: ¡Entonces venga conmigo el domingo! A las ocho, delante del edificio.
+- D'accord ! À dimanche, madame !
+  it: D'accordo! A domenica, signora!
+  en: OK! See you on Sunday (to Sunday), madam!
+  es: ¡De acuerdo! ¡Hasta el domingo (a domingo), señora!
+
+notes.it:
+1. Per indicare la strada: tout droit (sempre dritto), à droite (a destra), à
+   gauche (a sinistra), au feu (al semaforo). Le feu è il fuoco, ma anche il
+   semaforo. Non confondere tout droit (dritto) con à droite (a destra).
+2. Près de (vicino a), à côté de (accanto a) ed en face de (di fronte a) sono
+   seguiti da de, che con le diventa du (en face du café) e con les diventa des.
+   In elle est ouverte, elle è la farmacia, perché la pharmacie è femminile.
+3. Aller (andare) è irregolare: je vais, tu vas, il va, nous allons, vous allez,
+   ils vont. Per dare indicazioni si usa spesso il presente (vous allez, vous
+   tournez); all'imperativo si toglie il pronome: venez avec moi !
+4. Le dimanche, con l'articolo, vuol dire "ogni domenica"; dimanche da solo è
+   "domenica", cioè la prossima. I giorni sono lundi, mardi, mercredi, jeudi,
+   vendredi, samedi, dimanche, sempre con la minuscola.
+5. Falsi amici: faire les courses è "fare la spesa" (une course è anche una
+   corsa) e l'immeuble è il palazzo, il condominio. Gli orari ufficiali usano le
+   24 ore, quindi dix-neuf heures sono le sette di sera.
+notes.en:
+1. Directions: tout droit (straight on), à droite (right), à gauche (left), au
+   feu (at the traffic lights). Le feu is fire, but also a traffic light. Don't
+   mix up tout droit (straight on) and à droite (on the right).
+2. Près de (near), à côté de (next to) and en face de (opposite) are followed by
+   de, which joins le to make du (en face du café) and les to make des. In elle
+   est ouverte, elle is the chemist's, because la pharmacie is feminine.
+3. Aller (to go) is irregular: je vais, tu vas, il va, nous allons, vous allez,
+   ils vont. Directions are often given in the present (vous allez, vous
+   tournez); in the imperative the pronoun is dropped, as in venez avec moi !
+4. Le dimanche, with the article, means "on Sundays, every Sunday"; dimanche
+   alone means "this Sunday". The days are lundi, mardi, mercredi, jeudi,
+   vendredi, samedi, dimanche, always lower case.
+5. Faire les courses means "to do the shopping" (une course is also a race or an
+   errand), and l'immeuble is a block of flats. Opening hours use the 24-hour
+   clock, so dix-neuf heures is 7 p.m.
+notes.es:
+1. Para indicar el camino: tout droit (todo recto), à droite (a la derecha), à
+   gauche (a la izquierda), au feu (en el semáforo). Le feu es el fuego, pero
+   también el semáforo. No confundas tout droit (recto) con à droite (a la
+   derecha).
+2. Près de (cerca de), à côté de (al lado de) y en face de (enfrente de) llevan
+   de, que con le forma du (en face du café) y con les forma des. En elle est
+   ouverte, elle es la farmacia, porque pharmacie es una palabra femenina.
+   También banque es femenina, aunque en español banco es masculino.
+3. Aller (ir) es irregular: je vais, tu vas, il va, nous allons, vous allez, ils
+   vont. Para dar indicaciones se usa a menudo el presente (vous allez, vous
+   tournez); en el imperativo se quita el pronombre, como en venez avec moi !
+4. Le dimanche, con artículo, significa "los domingos, cada domingo"; dimanche
+   solo es "este domingo". Los días son lundi, mardi, mercredi, jeudi, vendredi,
+   samedi, dimanche, siempre con minúscula, como en español.
+5. Falsos amigos: faire les courses es "hacer la compra" (une course es también
+   una carrera) y l'immeuble es el edificio de viviendas, no cualquier inmueble.
+   Los horarios usan las 24 horas, así que dix-neuf heures son las siete de la
+   tarde.
+
+ex1:
+- La banque est en face de la poste.
+  it: La banca è di fronte alla posta.
+  en: The bank is opposite the post office.
+  es: El banco está enfrente de Correos.
+- Vous tournez à gauche au feu.
+  it: Al semaforo giri a sinistra.
+  en: You turn left at the lights.
+  es: En el semáforo gire a la izquierda.
+- Le samedi, je fais les courses.
+  it: Il sabato faccio la spesa.
+  en: On Saturdays I do the shopping.
+  es: Los sábados hago la compra.
+- Le supermarché est ouvert jusqu'à vingt heures.
+  it: Il supermercato è aperto fino alle venti.
+  en: The supermarket is open until 8 p.m.
+  es: El supermercado está abierto hasta las veinte horas.
+
+ex2:
+- Vous allez tout [droit].
+  it: Vada sempre dritto.
+  en: You go straight on.
+  es: Siga todo recto.
+- C'est à [côté] de la boulangerie.
+  it: È accanto alla panetteria.
+  en: It's next to the bakery.
+  es: Está al lado de la panadería.
+- Le [dimanche], je [vais] au marché.
+  it: La domenica vado al mercato.
+  en: On Sundays I go to the market.
+  es: Los domingos voy al mercado.
+- La pharmacie est [ouverte] jusqu'à dix-neuf [heures].
+  it: La farmacia è aperta fino alle diciannove.
+  en: The chemist's is open until 7 p.m.
+  es: La farmacia está abierta hasta las diecinueve horas.
+
+== 7 A1
+title: Le frère de Léa
+title.it: Il fratello di Léa
+title.en: Léa's brother
+title.es: El hermano de Léa
+
+dialogue:
+- Marco, je te présente mon frère, Hugo.
+  it: Marco, ti presento mio fratello, Hugo.
+  en: Marco, this is my brother, Hugo (I present to you my brother).
+  es: Marco, te presento a mi hermano, Hugo.
+- Enchanté, Marco ! Tu es italien, c'est ça ?
+  it: Piacere, Marco! Sei italiano, giusto (è questo)?
+  en: Nice to meet you, Marco! You're Italian, right (it's that)?
+  es: ¡Encantado, Marco! Eres italiano, ¿verdad (es eso)?
+- Oui, de Bologne. J'habite à Paris depuis trois semaines et j'aime beaucoup mon quartier.
+  it: Sì, di Bologna. Abito a Parigi da tre settimane e il mio quartiere mi piace molto (amo molto il mio quartiere).
+  en: Yes, from Bologna. I've been living in Paris for three weeks (I live in Paris since three weeks) and I really like my neighbourhood.
+  es: Sí, de Bolonia. Vivo en París desde hace tres semanas (desde tres semanas) y me gusta mucho mi barrio (amo mucho mi barrio).
+- Bon, qu'est-ce que vous prenez ? Aujourd'hui, c'est moi qui invite !
+  it: Bene, cosa prendete? Oggi offro io (sono io che invito)!
+  en: Right (good), what are you having? Today it's on me (it's me who invites)!
+  es: Bueno, ¿qué tomáis? ¡Hoy invito yo (soy yo quien invita)!
+- Merci ! Pour moi, un café et un croissant.
+  it: Grazie! Per me un caffè e un croissant.
+  en: Thanks! A coffee and a croissant for me.
+  es: ¡Gracias! Para mí, un café y un cruasán.
+- Moi aussi. Le matin, je ne bois pas de café, mais l'après-midi, oui !
+  it: Anch'io. La mattina non bevo caffè, ma il pomeriggio sì!
+  en: Me too. In the morning I don't drink coffee, but in the afternoon I do (yes)!
+  es: Yo también. Por la mañana no bebo café, ¡pero por la tarde sí!
+- Il est quelle heure ? Ce soir, je travaille au restaurant.
+  it: Che ore sono? Stasera (questa sera) lavoro al ristorante.
+  en: What time is it? This evening I'm working (I work) at the restaurant.
+  es: ¿Qué hora es? Esta noche trabajo en el restaurante.
+- Il est seulement quatre heures et quart. Tu as le temps !
+  it: Sono solo le quattro e un quarto. Hai tempo (hai il tempo)!
+  en: It's only a quarter past four (four hours and quarter). You've got time (you have the time)!
+  es: Solo son las cuatro y cuarto. ¡Tienes tiempo (tienes el tiempo)!
+
+notes.it:
+1. Ripasso dei verbi in -er (habiter, aimer, travailler, étudier, commencer):
+   j'habite, tu habites, il/elle habite, nous habitons, vous habitez, ils/elles
+   habitent. Le forme habite, habites e habitent si pronunciano allo stesso
+   modo.
+2. I verbi irregolari visti finora sono être (je suis, tu es, il est, nous
+   sommes, vous êtes, ils sont), avoir (j'ai, tu as, il a), aller (je vais, tu
+   vas, il va), prendre (je prends, vous prenez), boire (je bois) e faire (je
+   fais, ça fait).
+3. Gli articoli sono le, la, l', les e un, une, des; du e de la indicano una
+   quantità non precisa (du café, de la monnaie). À + le = au, de + le = du.
+   Dopo ne... pas resta solo de: pas de café.
+4. Per le domande basta l'intonazione (tu travailles aujourd'hui ?), oppure si
+   usano qu'est-ce que (qu'est-ce que vous prenez ?) e le parole interrogative
+   où, combien, quel e quelle (quel âge, quelle heure). C'est ça ? in fondo alla
+   frase vuol dire "giusto?".
+5. Tu e vous: Hugo dice vous a Léa e Marco perché sono in due. C'est moi qui
+   invite (offro io, letteralmente "sono io che invito") mette in rilievo la
+   persona. Per presentare qualcuno si dice je te présente... e si risponde
+   enchanté o enchantée.
+notes.en:
+1. Review of -er verbs (habiter, aimer, travailler, étudier, commencer):
+   j'habite, tu habites, il/elle habite, nous habitons, vous habitez, ils/elles
+   habitent. Habite, habites and habitent all sound the same.
+2. The irregular verbs met so far are être (je suis, tu es, il est, nous sommes,
+   vous êtes, ils sont), avoir (j'ai, tu as, il a), aller (je vais, tu vas, il
+   va), prendre (je prends, vous prenez), boire (je bois) and faire (je fais, ça
+   fait).
+3. The articles are le, la, l', les and un, une, des; du and de la mean "some"
+   (du café, de la monnaie). À + le = au, de + le = du. After ne... pas only de
+   is left, as in pas de café.
+4. To ask a question, rising intonation is enough (tu travailles aujourd'hui ?),
+   or you use qu'est-ce que (qu'est-ce que vous prenez ?) and the question words
+   où, combien, quel and quelle (quel âge, quelle heure). C'est ça ? at the end
+   means "right?".
+5. Tu and vous: Hugo says vous to Léa and Marco because there are two of them.
+   C'est moi qui invite (it's on me, literally "it's me who invites") stresses
+   the person. To introduce someone you say je te présente..., and the answer is
+   enchanté or enchantée.
+notes.es:
+1. Repaso de los verbos en -er (habiter, aimer, travailler, étudier, commencer):
+   j'habite, tu habites, il/elle habite, nous habitons, vous habitez, ils/elles
+   habitent. Habite, habites y habitent se pronuncian igual.
+2. Los verbos irregulares vistos hasta ahora son être (je suis, tu es, il est,
+   nous sommes, vous êtes, ils sont), avoir (j'ai, tu as, il a), aller (je vais,
+   tu vas, il va), prendre (je prends, vous prenez), boire (je bois) y faire (je
+   fais, ça fait).
+3. Los artículos son le, la, l', les y un, une, des; du y de la indican una
+   cantidad imprecisa (du café, de la monnaie). À + le = au, de + le = du. Tras
+   ne... pas solo queda de, como en pas de café.
+4. Para preguntar basta la entonación (tu travailles aujourd'hui ?), o se usan
+   qu'est-ce que (qu'est-ce que vous prenez ?) y las palabras interrogativas où,
+   combien, quel y quelle (quel âge, quelle heure). C'est ça ? al final de la
+   frase significa "¿verdad?".
+5. Tu y vous: Hugo dice vous a Léa y a Marco porque son dos personas. C'est moi
+   qui invite (invito yo, literalmente "soy yo quien invita") destaca a la
+   persona. Para presentar a alguien se dice je te présente..., y se responde
+   enchanté o enchantée.
+
+ex1:
+- Je te présente ma sœur.
+  it: Ti presento mia sorella.
+  en: This is my sister.
+  es: Te presento a mi hermana.
+- Qu'est-ce que vous prenez ?
+  it: Cosa prendete?
+  en: What are you having?
+  es: ¿Qué tomáis?
+- Hugo travaille dans un restaurant depuis deux ans.
+  it: Hugo lavora in un ristorante da due anni.
+  en: Hugo has been working in a restaurant for two years.
+  es: Hugo trabaja en un restaurante desde hace dos años.
+- Il est onze heures et quart.
+  it: Sono le undici e un quarto.
+  en: It's a quarter past eleven.
+  es: Son las once y cuarto.
+
+ex2:
+- C'est [moi] qui [invite] !
+  it: Offro io!
+  en: It's on me!
+  es: ¡Invito yo!
+- Le matin, je ne bois [pas] de [thé].
+  it: La mattina non bevo tè.
+  en: In the morning I don't drink tea.
+  es: Por la mañana no bebo té.
+- J'[habite] à Paris [depuis] trois semaines.
+  it: Abito a Parigi da tre settimane.
+  en: I've been living in Paris for three weeks.
+  es: Vivo en París desde hace tres semanas.
+- Tu [as] le [temps] !
+  it: Hai tempo!
+  en: You've got time!
+  es: ¡Tienes tiempo!
+
+== 8 A1
+title: Un dîner chez Marco
+title.it: Una cena da Marco
+title.en: Dinner at Marco's
+title.es: Una cena en casa de Marco
+
+dialogue:
+- Léa, tu es libre vendredi soir ?
+  it: Léa, sei libera venerdì sera?
+  en: Léa, are you free on Friday evening?
+  es: Léa, ¿estás libre el viernes por la noche?
+- Oui, pourquoi ?
+  it: Sì, perché?
+  en: Yes, why?
+  es: Sí, ¿por qué?
+- Je fais un petit dîner chez moi. Tu viens avec Hugo ?
+  it: Faccio una cenetta (una piccola cena) a casa mia (presso me). Vieni con Hugo?
+  en: I'm having a little dinner party (I make a small dinner) at my place (at me). Will you come with Hugo (you come with Hugo)?
+  es: Hago una cenita (una pequeña cena) en mi casa (en casa de mí). ¿Vienes con Hugo?
+- Volontiers ! Qu'est-ce que tu prépares ?
+  it: Volentieri! Cosa prepari?
+  en: Gladly! What are you making (what is it that you prepare)?
+  es: ¡Con mucho gusto! ¿Qué preparas?
+- Des lasagnes, avec la recette de ma grand-mère. Mais Hugo est cuisinier... J'ai un peu peur !
+  it: Le lasagne (delle lasagne), con la ricetta di mia nonna. Ma Hugo fa il cuoco... Ho un po' paura!
+  en: Lasagne (some lasagnes), with my grandmother's recipe. But Hugo is a cook... I'm a bit scared (I have a little fear)!
+  es: Lasaña (unas lasañas), con la receta de mi abuela. Pero Hugo es cocinero... ¡Me da un poco de miedo (tengo un poco miedo)!
+- Mais non, il est très sympa ! Et nous apportons le dessert : une tarte aux pommes.
+  it: Ma no, è molto simpatico! E noi portiamo il dolce: una torta di mele (alle mele).
+  en: Not at all (but no), he's really nice! And we'll bring (we bring) dessert: an apple tart (tart to-the apples).
+  es: ¡Que no, es muy simpático! Y nosotros llevamos el postre: una tarta de manzana (a las manzanas).
+- Super ! J'habite au 12, rue des Tilleuls, au troisième étage, à gauche.
+  it: Fantastico! Abito al 12 di rue des Tilleuls (via dei Tigli), al terzo piano, a sinistra.
+  en: Great! I live at 12 rue des Tilleuls (street of the lime trees), on the third floor, on the left.
+  es: ¡Genial! Vivo en el 12 de la rue des Tilleuls (calle de los Tilos), en el tercer piso, a la izquierda.
+- Et il y a un code pour entrer ?
+  it: E c'è un codice per entrare?
+  en: And is there a code to get in (for to enter)?
+  es: ¿Y hay un código para entrar?
+- Oui, c'est quatre, huit, un, sept. À vendredi, à vingt heures !
+  it: Sì, è quattro, otto, uno, sette. A venerdì, alle otto di sera (alle venti ore)!
+  en: Yes, it's four, eight, one, seven. See you on Friday (to Friday), at eight p.m. (at twenty hours)!
+  es: Sí, es cuatro, ocho, uno, siete. ¡Hasta el viernes (a viernes), a las ocho de la tarde (a las veinte horas)!
+
+notes.it:
+1. Chez moi (a casa mia, da me): chez + persona indica la casa di qualcuno, come
+   chez toi, chez Hugo, chez mes parents. Si usa anche per i negozi: chez le
+   boulanger, dal fornaio.
+2. Venir (venire) è irregolare: je viens, tu viens, il vient, nous venons, vous
+   venez, ils viennent. Come in italiano, il presente serve anche per un
+   programma vicino: vendredi, je fais un dîner.
+3. J'ai un peu peur (ho un po' paura): molte espressioni usano avoir, come in
+   italiano. Avoir peur, avoir le temps, avoir faim (avere fame), avoir soif
+   (avere sete), avoir vingt ans.
+4. Une tarte aux pommes (una torta di mele): con à + articolo si indica
+   l'ingrediente che dà il gusto, come aux pommes o au chocolat. Sympa è la
+   forma breve e familiare di sympathique.
+5. A Parigi il portone dei palazzi si apre spesso con un codice (le digicode),
+   che si dà agli ospiti insieme al piano. A una cena a casa arrivare con dieci
+   o quindici minuti di ritardo è considerato educato; al ristorante, invece, si
+   arriva puntuali.
+notes.en:
+1. Chez moi (at my place): chez + a person means someone's home, as in chez toi,
+   chez Hugo, chez mes parents. It also works for shops: chez le boulanger, at
+   the baker's.
+2. Venir (to come) is irregular: je viens, tu viens, il vient, nous venons, vous
+   venez, ils viennent. The present can also describe a near plan: vendredi, je
+   fais un dîner (I'm having a dinner party on Friday).
+3. J'ai un peu peur (I'm a bit scared, literally "I have a little fear"): many
+   French expressions use avoir where English uses "to be". Avoir peur (to be
+   afraid), avoir faim (to be hungry), avoir soif (to be thirsty), avoir vingt
+   ans (to be twenty).
+4. Une tarte aux pommes (an apple tart): à + article gives the main flavour, as
+   in aux pommes or au chocolat. Sympa, short for sympathique, means "nice,
+   friendly", not "sympathetic".
+5. In Paris the street door often opens with a code (le digicode), which you
+   give to guests along with the floor. For dinner at someone's home, arriving
+   ten or fifteen minutes late is considered polite; at a restaurant you arrive
+   on time.
+notes.es:
+1. Chez moi (en mi casa): chez + persona indica la casa de alguien, como en chez
+   toi, chez Hugo, chez mes parents. También sirve para las tiendas: chez le
+   boulanger, en la panadería.
+2. Venir (venir) es irregular: je viens, tu viens, il vient, nous venons, vous
+   venez, ils viennent. Como en español, el presente sirve también para un plan
+   cercano, como en vendredi, je fais un dîner.
+3. J'ai un peu peur (tengo un poco de miedo): muchas expresiones usan avoir
+   donde el español usa tener. Avoir peur (tener miedo), avoir faim (tener
+   hambre), avoir soif (tener sed), avoir vingt ans (tener veinte años).
+4. Une tarte aux pommes (una tarta de manzana): à + artículo indica el
+   ingrediente que da el sabor, como aux pommes o au chocolat. Sympa es la forma
+   corta y familiar de sympathique.
+5. En París el portal de los edificios se abre a menudo con un código (le
+   digicode), que se da a los invitados junto con el piso. En una cena en casa,
+   llegar con diez o quince minutos de retraso se considera educado; al
+   restaurante, en cambio, se llega puntual.
+
+ex1:
+- Tu viens chez moi samedi ?
+  it: Vieni da me sabato?
+  en: Are you coming to my place on Saturday?
+  es: ¿Vienes a mi casa el sábado?
+- Nous apportons le dessert.
+  it: Il dolce lo portiamo noi.
+  en: We'll bring dessert.
+  es: Nosotros llevamos el postre.
+- J'ai un peu peur.
+  it: Ho un po' paura.
+  en: I'm a bit scared.
+  es: Tengo un poco de miedo.
+- Hugo fait une tarte aux pommes.
+  it: Hugo fa una torta di mele.
+  en: Hugo is making an apple tart.
+  es: Hugo hace una tarta de manzana.
+
+ex2:
+- Tu es [libre] vendredi [soir] ?
+  it: Sei libera venerdì sera?
+  en: Are you free on Friday evening?
+  es: ¿Estás libre el viernes por la noche?
+- Je fais un dîner [chez] [moi].
+  it: Faccio una cena a casa mia.
+  en: I'm having a dinner party at my place.
+  es: Hago una cena en mi casa.
+- Qu'est-ce que tu [prépares] ?
+  it: Cosa prepari?
+  en: What are you making?
+  es: ¿Qué preparas?
+- J'habite au [troisième] étage, à [gauche].
+  it: Abito al terzo piano, a sinistra.
+  en: I live on the third floor, on the left.
+  es: Vivo en el tercer piso, a la izquierda.

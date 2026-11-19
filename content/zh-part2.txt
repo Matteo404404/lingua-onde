@@ -1,0 +1,766 @@
+course: zh
+
+== 4 A1
+title: 我的家
+title.it: La mia famiglia
+title.en: My family
+title.es: Mi familia
+
+dialogue:
+- 马可，这是你家人的照片吗？
+  pron: Mǎkě, zhè shì nǐ jiārén de zhàopiàn ma?
+  it: Marco, questa è una foto della tua famiglia (questo essere tu famiglia-persona de foto ma)?
+  en: Marco, is this a photo of your family (this be you family-person de photo ma)?
+  es: Marco, ¿esta es una foto de tu familia (esto ser tú familia-persona de foto ma)?
+- 对。这是我爸爸，这是我妈妈。
+  pron: Duì. Zhè shì wǒ bàba, zhè shì wǒ māma.
+  it: Sì (giusto). Questo è mio papà (io papà), questa è mia mamma.
+  en: Yes (right). This is my dad (I dad), this is my mum.
+  es: Sí (correcto). Este es mi papá (yo papá), esta es mi mamá.
+- 你家有几口人？
+  pron: Nǐ jiā yǒu jǐ kǒu rén?
+  it: Quanti siete in famiglia (tu casa avere quante bocca persona)?
+  en: How many people are there in your family (you home have how-many mouth person)?
+  es: ¿Cuántos sois en tu familia (tú casa tener cuántas boca persona)?
+- 五口人：爸爸、妈妈、一个哥哥、一个妹妹和我。
+  pron: Wǔ kǒu rén: bàba, māma, yí ge gēge, yí ge mèimei hé wǒ.
+  it: Cinque (cinque bocca persona): papà, mamma, un fratello maggiore, una sorella minore e io.
+  en: Five (five mouth person): Dad, Mum, an older brother, a younger sister and me.
+  es: Cinco (cinco boca persona): papá, mamá, un hermano mayor, una hermana menor y yo.
+- 你哥哥也是学生吗？
+  pron: Nǐ gēge yě shì xuésheng ma?
+  it: Anche tuo fratello è studente (tu fratello-maggiore anche essere studente ma)?
+  en: Is your brother a student too (you older-brother also be student ma)?
+  es: ¿Tu hermano también es estudiante (tú hermano-mayor también ser estudiante ma)?
+- 不是，他是医生。我妹妹十岁，她很可爱。你有兄弟姐妹吗？
+  pron: Bú shì, tā shì yīshēng. Wǒ mèimei shí suì, tā hěn kě'ài. Nǐ yǒu xiōngdì jiěmèi ma?
+  it: No, è medico. Mia sorella ha dieci anni (io sorella-minore dieci anno), è molto carina. E tu, hai fratelli o sorelle (tu avere fratelli sorelle ma)?
+  en: No, he's a doctor. My sister is ten (I younger-sister ten year), she's very cute. Do you have any brothers or sisters (you have brothers sisters ma)?
+  es: No, es médico. Mi hermana tiene diez años (yo hermana-menor diez año), es un encanto (muy adorable). ¿Y tú tienes hermanos (tú tener hermanos hermanas ma)?
+- 没有，我家只有三口人。我爸爸妈妈都是老师。你想家吗？
+  pron: Méiyǒu, wǒ jiā zhǐ yǒu sān kǒu rén. Wǒ bàba māma dōu shì lǎoshī. Nǐ xiǎng jiā ma?
+  it: No, in famiglia siamo solo in tre (io casa solo avere tre bocca persona). Papà e mamma sono tutti e due insegnanti (tutti essere insegnante). Ti manca casa (tu pensare casa ma)?
+  en: No, there are only three of us (I home only have three mouth person). My dad and mum are both teachers (all be teacher). Do you miss home (you think home ma)?
+  es: No, en mi familia solo somos tres (yo casa solo tener tres boca persona). Mi papá y mi mamá son profesores los dos (todos ser profesor). ¿Echas de menos tu casa (tú pensar casa ma)?
+- 很想！可是在北京我有很多好朋友。
+  pron: Hěn xiǎng! Kěshì zài Běijīng wǒ yǒu hěn duō hǎo péngyou.
+  it: Tanto (molto pensare)! Ma a Pechino ho tanti buoni amici.
+  en: A lot (very think)! But in Beijing I have lots of good friends.
+  es: ¡Mucho (muy pensar)! Pero en Pekín tengo muchos buenos amigos.
+
+notes.it:
+1. 几 jǐ "quanti" si usa quando ci si aspetta un numero piccolo,
+   你家有几口人？ "quanti siete in famiglia?". 口 kǒu "bocca" è il
+   classificatore dei membri della famiglia; 个 ge è il classificatore più
+   generico, 一个哥哥. Davanti a 个, che in origine ha il quarto tono, 一 si
+   legge yí.
+2. Il cinese distingue fratelli e sorelle per età, 哥哥 gēge "fratello
+   maggiore", 弟弟 dìdi "fratello minore", 姐姐 jiějie "sorella maggiore",
+   妹妹 mèimei "sorella minore"; 兄弟姐妹 li comprende tutti. Con i
+   familiari 的 si omette, 我爸爸 "mio papà", 你哥哥 "tuo fratello".
+3. 都 dōu "tutti, entrambi" e 只 zhǐ "solo" stanno sempre davanti al verbo,
+   我爸爸妈妈都是老师, 我家只有三口人. 和 hé "e" unisce soltanto nomi,
+   爸爸、妈妈和我; la virgola inclinata 、 separa gli elementi di un elenco.
+4. Per l'età non serve 是, 我妹妹十岁 "mia sorella ha dieci anni", proprio
+   come per i prezzi (二十块, lezione 3). I numeri da uno a dieci sono
+   一 yī, 二 èr, 三 sān, 四 sì, 五 wǔ, 六 liù, 七 qī, 八 bā, 九 jiǔ, 十 shí.
+5. 家 jiā vuol dire sia "casa" sia "famiglia". 想 xiǎng, che nella lezione 3
+   significava "volere", qui vuol dire "sentire la mancanza", 想家 "avere
+   nostalgia di casa".
+notes.en:
+1. 几 jǐ "how many" is used when a small number is expected,
+   你家有几口人？ "how many are there in your family?". 口 kǒu "mouth" is
+   the measure word for family members; 个 ge is the most general measure
+   word, 一个哥哥. Before 个, originally a fourth tone, 一 is read yí.
+2. Chinese tells brothers and sisters apart by age, 哥哥 gēge "older
+   brother", 弟弟 dìdi "younger brother", 姐姐 jiějie "older sister",
+   妹妹 mèimei "younger sister"; 兄弟姐妹 covers them all. With family
+   members 的 is dropped, 我爸爸 "my dad", 你哥哥 "your brother".
+3. 都 dōu "all, both" and 只 zhǐ "only" always come before the verb,
+   我爸爸妈妈都是老师, 我家只有三口人. 和 hé "and" links nouns only,
+   爸爸、妈妈和我; the slanted comma 、 separates the items of a list.
+4. Ages need no 是, 我妹妹十岁 "my sister is ten", just like prices
+   (二十块, lesson 3). The numbers from one to ten are 一 yī, 二 èr,
+   三 sān, 四 sì, 五 wǔ, 六 liù, 七 qī, 八 bā, 九 jiǔ, 十 shí.
+5. 家 jiā means both "home" and "family". 想 xiǎng, which meant "to want"
+   in lesson 3, here means "to miss", 想家 "to be homesick".
+notes.es:
+1. 几 jǐ "cuántos" se usa cuando se espera un número pequeño,
+   你家有几口人？ "¿cuántos sois en tu familia?". 口 kǒu "boca" es el
+   clasificador de los miembros de la familia; 个 ge es el clasificador más
+   general, 一个哥哥. Delante de 个, que en origen tiene cuarto tono, 一 se
+   lee yí.
+2. El chino distingue a los hermanos por la edad, 哥哥 gēge "hermano
+   mayor", 弟弟 dìdi "hermano menor", 姐姐 jiějie "hermana mayor",
+   妹妹 mèimei "hermana menor"; 兄弟姐妹 los incluye a todos. Con los
+   familiares se omite 的, 我爸爸 "mi papá", 你哥哥 "tu hermano".
+3. 都 dōu "todos, los dos" y 只 zhǐ "solo" van siempre delante del verbo,
+   我爸爸妈妈都是老师, 我家只有三口人. 和 hé "y" une solo nombres,
+   爸爸、妈妈和我; la coma inclinada 、 separa los elementos de una lista.
+4. La edad no necesita 是, 我妹妹十岁 "mi hermana tiene diez años", igual
+   que los precios (二十块, lección 3). Los números del uno al diez son
+   一 yī, 二 èr, 三 sān, 四 sì, 五 wǔ, 六 liù, 七 qī, 八 bā, 九 jiǔ, 十 shí.
+5. 家 jiā significa "casa" y también "familia". 想 xiǎng, que en la
+   lección 3 significaba "querer", aquí significa "echar de menos",
+   想家 "añorar la casa".
+
+ex1:
+- 我有一个姐姐。
+  pron: Wǒ yǒu yí ge jiějie.
+  it: Ho una sorella maggiore.
+  en: I have an older sister.
+  es: Tengo una hermana mayor.
+- 王丽的妈妈是老师。
+  pron: Wáng Lì de māma shì lǎoshī.
+  it: La mamma di Wang Li è insegnante.
+  en: Wang Li's mum is a teacher.
+  es: La mamá de Wang Li es profesora.
+- 你妹妹几岁？
+  pron: Nǐ mèimei jǐ suì?
+  it: Quanti anni ha tua sorella?
+  en: How old is your little sister?
+  es: ¿Cuántos años tiene tu hermana pequeña?
+- 我们都喜欢喝茶。
+  pron: Wǒmen dōu xǐhuan hē chá.
+  it: A tutti noi piace bere il tè.
+  en: We all like drinking tea.
+  es: A todos nosotros nos gusta beber té.
+
+ex2:
+- 你家有[几]口人？
+  pron: Nǐ jiā yǒu jǐ kǒu rén?
+  it: Quanti siete in famiglia?
+  en: How many people are there in your family?
+  es: ¿Cuántos sois en tu familia?
+- 我有一[个]哥哥和一个[妹妹]。
+  pron: Wǒ yǒu yí ge gēge hé yí ge mèimei.
+  it: Ho un fratello maggiore e una sorella minore.
+  en: I have an older brother and a younger sister.
+  es: Tengo un hermano mayor y una hermana menor.
+- 我爸爸妈妈[都]是北京人。
+  pron: Wǒ bàba māma dōu shì Běijīngrén.
+  it: Mio papà e mia mamma sono tutti e due di Pechino.
+  en: My dad and mum are both from Beijing.
+  es: Mi papá y mi mamá son los dos de Pekín.
+- 我妹妹八[岁]。
+  pron: Wǒ mèimei bā suì.
+  it: Mia sorella ha otto anni.
+  en: My little sister is eight.
+  es: Mi hermana pequeña tiene ocho años.
+
+== 5 A1
+title: 现在几点？
+title.it: Che ore sono?
+title.en: What time is it?
+title.es: ¿Qué hora es?
+
+dialogue:
+- 王丽，现在几点？
+  pron: Wáng Lì, xiànzài jǐ diǎn?
+  it: Wang Li, che ore sono (adesso quanti punto)?
+  en: Wang Li, what time is it (now how-many point)?
+  es: Wang Li, ¿qué hora es (ahora cuántos punto)?
+- 九点半。你有课吗？
+  pron: Jiǔ diǎn bàn. Nǐ yǒu kè ma?
+  it: Le nove e mezza (nove punto mezzo). Hai lezione (tu avere lezione ma)?
+  en: Half past nine (nine point half). Do you have a class (you have class ma)?
+  es: Las nueve y media (nueve punto medio). ¿Tienes clase (tú tener clase ma)?
+- 有，十点我有中文课。今天星期几？
+  pron: Yǒu, shí diǎn wǒ yǒu Zhōngwén kè. Jīntiān xīngqī jǐ?
+  it: Sì (avere), alle dieci ho lezione di cinese. Che giorno è oggi (oggi settimana quanti)?
+  en: Yes (have), at ten I have a Chinese class. What day is it today (today week how-many)?
+  es: Sí (tener), a las diez tengo clase de chino. ¿Qué día es hoy (hoy semana cuántos)?
+- 今天星期三。张老师的课有意思吗？
+  pron: Jīntiān xīngqīsān. Zhāng lǎoshī de kè yǒu yìsi ma?
+  it: Oggi è mercoledì (oggi settimana-tre). Le lezioni della professoressa Zhang sono interessanti (avere significato ma)?
+  en: Today is Wednesday (today week-three). Are Ms Zhang's classes interesting (have meaning ma)?
+  es: Hoy es miércoles (hoy semana-tres). ¿Son interesantes las clases de la profesora Zhang (tener sentido ma)?
+- 很有意思！可是我每天都很忙。
+  pron: Hěn yǒu yìsi! Kěshì wǒ měitiān dōu hěn máng.
+  it: Molto interessanti! Ma tutti i giorni sono molto impegnato (io ogni-giorno tutti molto occupato).
+  en: Very interesting! But I'm very busy every day (I every-day all very busy).
+  es: ¡Muy interesantes! Pero todos los días estoy muy ocupado (yo cada-día todos muy ocupado).
+- 星期六你忙不忙？我们一起去吃烤鸭，好吗？
+  pron: Xīngqīliù nǐ máng bu máng? Wǒmen yìqǐ qù chī kǎoyā, hǎo ma?
+  it: Sabato sei impegnato (sabato tu occupato non occupato)? Andiamo insieme a mangiare l'anatra laccata (noi insieme andare mangiare anatra-arrosto), va bene?
+  en: Are you busy on Saturday (Saturday you busy not busy)? Shall we go and eat roast duck together (we together go eat roast-duck), OK?
+  es: ¿Estás ocupado el sábado (sábado tú ocupado no ocupado)? Vamos juntos a comer pato laqueado (nosotros juntos ir comer pato-asado), ¿vale?
+- 星期六我不忙。几点见？
+  pron: Xīngqīliù wǒ bù máng. Jǐ diǎn jiàn?
+  it: Sabato non sono impegnato. A che ora ci vediamo (quanti punto vedere)?
+  en: I'm not busy on Saturday. What time shall we meet (how-many point see)?
+  es: El sábado no estoy ocupado. ¿A qué hora nos vemos (cuántos punto ver)?
+- 晚上六点，在茶馆见。
+  pron: Wǎnshang liù diǎn, zài cháguǎn jiàn.
+  it: Alle sei di sera (sera sei punto), ci vediamo alla casa del tè (a casa-del-tè vedere).
+  en: Six in the evening (evening six point), see you at the teahouse (at teahouse see).
+  es: A las seis de la tarde (noche seis punto), nos vemos en la casa de té (en casa-de-té ver).
+- 好，星期六见！
+  pron: Hǎo, xīngqīliù jiàn!
+  it: Va bene, a sabato (sabato vedere)!
+  en: OK, see you on Saturday (Saturday see)!
+  es: Vale, ¡hasta el sábado (sábado ver)!
+
+notes.it:
+1. 几点 jǐ diǎn "che ore" (quanti punto). 点 diǎn indica l'ora e 半 bàn
+   "mezza", 九点半 "le nove e mezza". Le espressioni di tempo vanno prima
+   del verbo, all'inizio della frase o subito dopo il soggetto, mai in
+   fondo, 十点我有课 o 我十点有课. Si va dal più grande al più piccolo,
+   星期六晚上六点 "sabato alle sei di sera".
+2. I giorni della settimana sono 星期 xīngqī "settimana" + un numero, da
+   星期一 "lunedì" a 星期六 "sabato"; la domenica è 星期天 xīngqītiān (o
+   星期日). "Che giorno è?" si dice 星期几？ Come l'età, anche la data può
+   fare a meno di 是, 今天星期三.
+3. Domanda affermativo-negativa. Si ripete il verbo o l'aggettivo con 不 in
+   mezzo, 你忙不忙？ = 你忙吗？; qui 不 perde il tono, bu. Con questa forma
+   non si usa 吗. 好吗？ in fondo a una proposta significa "va bene?".
+4. 去 qù + verbo indica lo scopo, 去吃烤鸭 "andare a mangiare l'anatra".
+   一起 yìqǐ "insieme" sta davanti al verbo. 见 jiàn "vedere, incontrarsi"
+   serve per salutarsi, 星期六见 "a sabato".
+5. 有意思 yǒu yìsi "interessante" (avere significato). 每天 měitiān "ogni
+   giorno" va di solito con 都, 每天都很忙. 烤鸭 kǎoyā, l'anatra laccata
+   alla pechinese, è il piatto più famoso della città.
+notes.en:
+1. 几点 jǐ diǎn "what time" (how-many point). 点 diǎn marks the hour and
+   半 bàn "half", 九点半 "half past nine". Time words come before the
+   verb, at the start of the sentence or just after the subject, never at
+   the end, 十点我有课 or 我十点有课. They run from big to small,
+   星期六晚上六点 "Saturday at six in the evening".
+2. The days of the week are 星期 xīngqī "week" + a number, from 星期一
+   "Monday" to 星期六 "Saturday"; Sunday is 星期天 xīngqītiān (or 星期日).
+   "What day is it?" is 星期几？ Like ages, dates can do without 是,
+   今天星期三.
+3. Yes-no questions can also repeat the verb or adjective with 不 in
+   between, 你忙不忙？ = 你忙吗？; here 不 loses its tone, bu. This form
+   never takes 吗. 好吗？ after a suggestion means "OK?".
+4. 去 qù + verb gives the purpose, 去吃烤鸭 "go and eat roast duck".
+   一起 yìqǐ "together" stands before the verb. 见 jiàn "to see, to meet"
+   makes goodbyes, 星期六见 "see you on Saturday".
+5. 有意思 yǒu yìsi "interesting" (have meaning). 每天 měitiān "every day"
+   usually goes with 都, 每天都很忙. 烤鸭 kǎoyā, Beijing roast duck, is the
+   city's most famous dish.
+notes.es:
+1. 几点 jǐ diǎn "qué hora" (cuántos punto). 点 diǎn indica la hora y 半 bàn
+   "media", 九点半 "las nueve y media". Las expresiones de tiempo van
+   delante del verbo, al principio de la frase o justo después del sujeto,
+   nunca al final, 十点我有课 o 我十点有课. Van de lo más grande a lo más
+   pequeño, 星期六晚上六点 "el sábado a las seis de la tarde".
+2. Los días de la semana son 星期 xīngqī "semana" + un número, de 星期一
+   "lunes" a 星期六 "sábado"; el domingo es 星期天 xīngqītiān (o 星期日).
+   "¿Qué día es?" se dice 星期几？ Como la edad, la fecha puede prescindir
+   de 是, 今天星期三.
+3. Pregunta afirmativo-negativa. Se repite el verbo o el adjetivo con 不 en
+   medio, 你忙不忙？ = 你忙吗？; aquí 不 pierde el tono, bu. Con esta forma
+   no se usa 吗. 好吗？ al final de una propuesta significa "¿vale?".
+4. 去 qù + verbo indica la finalidad, 去吃烤鸭 "ir a comer pato laqueado".
+   一起 yìqǐ "juntos" va delante del verbo. 见 jiàn "ver, encontrarse"
+   sirve para despedirse, 星期六见 "hasta el sábado".
+5. 有意思 yǒu yìsi "interesante" (tener sentido). 每天 měitiān "cada día"
+   suele ir con 都, 每天都很忙. 烤鸭 kǎoyā, el pato laqueado de Pekín, es
+   el plato más famoso de la ciudad.
+
+ex1:
+- 现在十点半。
+  pron: Xiànzài shí diǎn bàn.
+  it: Ora sono le dieci e mezza.
+  en: It's half past ten now.
+  es: Ahora son las diez y media.
+- 星期天你忙吗？
+  pron: Xīngqītiān nǐ máng ma?
+  it: Domenica sei impegnato?
+  en: Are you busy on Sunday?
+  es: ¿Estás ocupado el domingo?
+- 我们一起去喝茶，好吗？
+  pron: Wǒmen yìqǐ qù hē chá, hǎo ma?
+  it: Andiamo insieme a bere un tè, va bene?
+  en: Shall we go for tea together?
+  es: Vamos juntos a tomar un té, ¿vale?
+- 王丽每天都喝绿茶。
+  pron: Wáng Lì měitiān dōu hē lǜchá.
+  it: Wang Li beve tè verde tutti i giorni.
+  en: Wang Li drinks green tea every day.
+  es: Wang Li bebe té verde todos los días.
+
+ex2:
+- 现在[几][点]？
+  pron: Xiànzài jǐ diǎn?
+  it: Che ore sono?
+  en: What time is it?
+  es: ¿Qué hora es?
+- 今天[星期]六。
+  pron: Jīntiān xīngqīliù.
+  it: Oggi è sabato.
+  en: Today is Saturday.
+  es: Hoy es sábado.
+- 你忙[不]忙？
+  pron: Nǐ máng bu máng?
+  it: Sei impegnato?
+  en: Are you busy?
+  es: ¿Estás ocupado?
+- 晚上七点在茶馆[见]！
+  pron: Wǎnshang qī diǎn zài cháguǎn jiàn!
+  it: Ci vediamo alle sette di sera alla casa del tè!
+  en: See you at seven in the evening at the teahouse!
+  es: ¡Nos vemos a las siete de la tarde en la casa de té!
+
+== 6 A1
+title: 吃烤鸭
+title.it: L'anatra laccata
+title.en: Eating roast duck
+title.es: A comer pato laqueado
+
+dialogue:
+- 你们好！这是菜单。你们吃什么？
+  pron: Nǐmen hǎo! Zhè shì càidān. Nǐmen chī shénme?
+  it: Buonasera (voi bene)! Ecco il menù (questo essere menù). Che cosa prendete (voi mangiare che cosa)?
+  en: Good evening (you-all good)! Here's the menu (this be menu). What will you have (you-all eat what)?
+  es: ¡Buenas noches (vosotros bien)! Aquí tienen la carta (esto ser menú). ¿Qué van a comer (vosotros comer qué)?
+- 我想吃烤鸭！王丽，我们要半只，好吗？
+  pron: Wǒ xiǎng chī kǎoyā! Wáng Lì, wǒmen yào bàn zhī, hǎo ma?
+  it: Vorrei l'anatra laccata (io volere mangiare anatra-arrosto)! Wang Li, ne prendiamo mezza (noi volere mezza zhi), va bene?
+  en: I'd like roast duck (I want eat roast-duck)! Wang Li, shall we have half a duck (we want half zhi), OK?
+  es: ¡Quiero pato laqueado (yo querer comer pato-asado)! Wang Li, ¿pedimos medio (nosotros querer medio zhi), vale?
+- 好。服务员，我们要半只烤鸭和两碗米饭。
+  pron: Hǎo. Fúwùyuán, wǒmen yào bàn zhī kǎoyā hé liǎng wǎn mǐfàn.
+  it: D'accordo. Cameriere, prendiamo mezza anatra laccata e due ciotole di riso (due ciotola riso-cotto).
+  en: OK. Waiter, we'll have half a roast duck and two bowls of rice (two bowl cooked-rice).
+  es: Vale. Camarero, queremos medio pato laqueado y dos cuencos de arroz (dos cuenco arroz-cocido).
+- 喝什么？我们有茶，也有啤酒。
+  pron: Hē shénme? Wǒmen yǒu chá, yě yǒu píjiǔ.
+  it: Da bere (bere che cosa)? Abbiamo il tè e anche la birra.
+  en: Anything to drink (drink what)? We have tea, and beer too.
+  es: ¿Para beber (beber qué)? Tenemos té y también cerveza.
+- 我要一瓶啤酒。王丽，你喝茶还是喝啤酒？
+  pron: Wǒ yào yì píng píjiǔ. Wáng Lì, nǐ hē chá háishi hē píjiǔ?
+  it: Io prendo una birra (io volere una bottiglia birra). Wang Li, tu bevi tè o birra (tu bere tè oppure bere birra)?
+  en: I'll have a beer (I want one bottle beer). Wang Li, are you having tea or beer (you drink tea or drink beer)?
+  es: Yo quiero una cerveza (yo querer una botella cerveza). Wang Li, ¿tú bebes té o cerveza (tú beber té o beber cerveza)?
+- 我喝茶。马可，你会用筷子吗？
+  pron: Wǒ hē chá. Mǎkě, nǐ huì yòng kuàizi ma?
+  it: Io bevo tè. Marco, sai usare le bacchette (tu sapere usare bacchette ma)?
+  en: I'll have tea. Marco, can you use chopsticks (you know-how use chopsticks ma)?
+  es: Yo bebo té. Marco, ¿sabes usar los palillos (tú saber usar palillos ma)?
+- 会一点儿。烤鸭真好吃！
+  pron: Huì yìdiǎnr. Kǎoyā zhēn hǎochī!
+  it: Un pochino (sapere un-po'). L'anatra è proprio buona (anatra davvero buona-da-mangiare)!
+  en: A little (know-how a-bit). The duck is really delicious (duck truly good-to-eat)!
+  es: Un poquito (saber un-poco). ¡El pato está riquísimo (pato de-verdad bueno-de-comer)!
+- 服务员，买单！
+  pron: Fúwùyuán, mǎidān!
+  it: Cameriere, il conto (comprare-conto)!
+  en: Waiter, the bill please (buy-bill)!
+  es: Camarero, ¡la cuenta (comprar-cuenta)!
+- 不，不，今天我请你！
+  pron: Bù, bù, jīntiān wǒ qǐng nǐ!
+  it: No, no, oggi offro io (oggi io invitare te)!
+  en: No, no, today it's my treat (today I invite you)!
+  es: No, no, ¡hoy invito yo (hoy yo invitar a-ti)!
+
+notes.it:
+1. 要 yào "volere, prendere" serve per ordinare, 我要一瓶啤酒 "prendo una
+   birra". È più diretto di 想 xiǎng "vorrei" (lezione 3); al ristorante si
+   sentono tutti e due.
+2. Altri classificatori. 只 zhī si usa per gli animali, e quindi per
+   l'anatra, 碗 wǎn vuol dire "ciotola", 瓶 píng "bottiglia", accanto a
+   杯 bēi "tazza, bicchiere" della lezione 3. 半 bàn "mezzo" va davanti al
+   classificatore, 半只烤鸭 "mezza anatra", ma dopo l'ora, 九点半.
+3. 还是 háishi "oppure" forma le domande a scelta, 你喝茶还是喝啤酒？ Non
+   vuole 吗, perché chi risponde sceglie una delle due cose, 我喝茶.
+4. 会 huì "sapere (fare)" indica un'abilità imparata, 会用筷子 "saper usare
+   le bacchette". 一点儿 yìdiǎnr "un po'" segue il verbo, 会一点儿. 真 zhēn
+   "davvero" rafforza l'aggettivo, 真好吃. 好吃 hǎochī "buono" (bello da
+   mangiare) si dice del cibo; per le bevande si usa 好喝 hǎohē.
+5. 买单 mǎidān "il conto!", alla lettera "comprare il conto", viene dal
+   cantonese; a Pechino si dice anche 结账 jiézhàng. Come nella lezione 3,
+   gli amici fanno a gara per pagare, 不，不，今天我请你！
+notes.en:
+1. 要 yào "to want, to take" is used for ordering, 我要一瓶啤酒 "I'll have
+   a beer". It is more direct than 想 xiǎng "would like" (lesson 3); in a
+   restaurant you hear both.
+2. More measure words. 只 zhī is for animals, and so for the duck, 碗 wǎn
+   means "bowl", 瓶 píng "bottle", alongside 杯 bēi "cup, glass" from
+   lesson 3. 半 bàn "half" goes before the measure word, 半只烤鸭 "half a
+   duck", but after the hour, 九点半.
+3. 还是 háishi "or" makes choice questions, 你喝茶还是喝啤酒？ It never
+   takes 吗, because the answer picks one of the two, 我喝茶.
+4. 会 huì "can, know how to" marks a learned skill, 会用筷子 "can use
+   chopsticks". 一点儿 yìdiǎnr "a little" follows the verb, 会一点儿.
+   真 zhēn "really" strengthens an adjective, 真好吃. 好吃 hǎochī "tasty"
+   (good to eat) is said of food; for drinks it is 好喝 hǎohē.
+5. 买单 mǎidān "the bill!", literally "buy the bill", comes from
+   Cantonese; in Beijing people also say 结账 jiézhàng. As in lesson 3,
+   friends compete to pay, 不，不，今天我请你！
+notes.es:
+1. 要 yào "querer, tomar" sirve para pedir, 我要一瓶啤酒 "quiero una
+   cerveza". Es más directo que 想 xiǎng "querría" (lección 3); en el
+   restaurante se oyen los dos.
+2. Más clasificadores. 只 zhī se usa para los animales, y por tanto para el
+   pato, 碗 wǎn significa "cuenco", 瓶 píng "botella", junto a 杯 bēi
+   "taza, vaso" de la lección 3. 半 bàn "medio" va delante del
+   clasificador, 半只烤鸭 "medio pato", pero detrás de la hora, 九点半.
+3. 还是 háishi "o" forma las preguntas de elección, 你喝茶还是喝啤酒？ No
+   lleva 吗, porque quien responde elige una de las dos cosas, 我喝茶.
+4. 会 huì "saber (hacer)" indica una habilidad aprendida, 会用筷子 "saber
+   usar los palillos". 一点儿 yìdiǎnr "un poco" va detrás del verbo,
+   会一点儿. 真 zhēn "de verdad" refuerza el adjetivo, 真好吃. 好吃 hǎochī
+   "rico" (bueno de comer) se dice de la comida; para las bebidas se usa
+   好喝 hǎohē.
+5. 买单 mǎidān "¡la cuenta!", literalmente "comprar la cuenta", viene del
+   cantonés; en Pekín también se dice 结账 jiézhàng. Como en la lección 3,
+   los amigos compiten por pagar, 不，不，今天我请你！
+
+ex1:
+- 你要米饭吗？
+  pron: Nǐ yào mǐfàn ma?
+  it: Vuoi del riso?
+  en: Would you like some rice?
+  es: ¿Quieres arroz?
+- 王丽会用筷子。
+  pron: Wáng Lì huì yòng kuàizi.
+  it: Wang Li sa usare le bacchette.
+  en: Wang Li can use chopsticks.
+  es: Wang Li sabe usar los palillos.
+- 马可喝啤酒，王丽喝茶。
+  pron: Mǎkě hē píjiǔ, Wáng Lì hē chá.
+  it: Marco beve birra, Wang Li beve tè.
+  en: Marco drinks beer, Wang Li drinks tea.
+  es: Marco bebe cerveza, Wang Li bebe té.
+- 这儿的烤鸭真好吃！
+  pron: Zhèr de kǎoyā zhēn hǎochī!
+  it: L'anatra laccata di qui è davvero buona!
+  en: The roast duck here is really delicious!
+  es: ¡El pato laqueado de aquí está riquísimo!
+
+ex2:
+- 我[要]一[瓶]啤酒。
+  pron: Wǒ yào yì píng píjiǔ.
+  it: Prendo una bottiglia di birra.
+  en: I'll have a bottle of beer.
+  es: Quiero una botella de cerveza.
+- 你喝绿茶[还是]喝咖啡？
+  pron: Nǐ hē lǜchá háishi hē kāfēi?
+  it: Bevi tè verde o caffè?
+  en: Are you having green tea or coffee?
+  es: ¿Tomas té verde o café?
+- 马可[会]用[筷子]。
+  pron: Mǎkě huì yòng kuàizi.
+  it: Marco sa usare le bacchette.
+  en: Marco can use chopsticks.
+  es: Marco sabe usar los palillos.
+- 服务员，[买单]！
+  pron: Fúwùyuán, mǎidān!
+  it: Cameriere, il conto!
+  en: Waiter, the bill please!
+  es: Camarero, ¡la cuenta!
+
+== 7 A1
+title: 张老师的问题
+title.it: Le domande della professoressa Zhang
+title.en: Ms Zhang's questions
+title.es: Las preguntas de la profesora Zhang
+
+dialogue:
+- 马可，你好！你也喜欢这个茶馆吗？
+  pron: Mǎkě, nǐ hǎo! Nǐ yě xǐhuan zhège cháguǎn ma?
+  it: Ciao, Marco! Piace anche a te questa casa del tè (tu anche piacere questo-ge casa-del-tè ma)?
+  en: Hello, Marco! Do you like this teahouse too (you also like this-ge teahouse ma)?
+  es: ¡Hola, Marco! ¿A ti también te gusta esta casa de té (tú también gustar este-ge casa-de-té ma)?
+- 张老师好！很喜欢。我每个星期天都在这儿喝茶。
+  pron: Zhāng lǎoshī hǎo! Hěn xǐhuan. Wǒ měi ge xīngqītiān dōu zài zhèr hē chá.
+  it: Buongiorno, professoressa (Zhang maestro bene)! Mi piace molto. Ogni domenica bevo il tè qui (io ogni ge domenica tutti a qui bere tè).
+  en: Hello, Ms Zhang (Zhang teacher good)! I like it a lot. I drink tea here every Sunday (I every ge Sunday all at here drink tea).
+  es: ¡Buenos días, profesora (Zhang maestro bien)! Me gusta mucho. Todos los domingos tomo té aquí (yo cada ge domingo todos en aquí beber té).
+- 你的中文很好！你在北京有中国朋友吗？
+  pron: Nǐ de Zhōngwén hěn hǎo! Nǐ zài Běijīng yǒu Zhōngguó péngyou ma?
+  it: Il tuo cinese è molto buono! A Pechino hai amici cinesi?
+  en: Your Chinese is very good! Do you have Chinese friends in Beijing?
+  es: ¡Tu chino es muy bueno! ¿Tienes amigos chinos en Pekín?
+- 有很多。王丽是我的好朋友，可是她今天很忙。
+  pron: Yǒu hěn duō. Wáng Lì shì wǒ de hǎo péngyou, kěshì tā jīntiān hěn máng.
+  it: Ne ho tanti (avere molto molti). Wang Li è una mia cara amica, ma oggi è molto impegnata.
+  en: Lots (have very many). Wang Li is a good friend of mine, but she's very busy today.
+  es: Muchos (tener muy muchos). Wang Li es una buena amiga mía, pero hoy está muy ocupada.
+- 你家有几口人？他们都在意大利吗？
+  pron: Nǐ jiā yǒu jǐ kǒu rén? Tāmen dōu zài Yìdàlì ma?
+  it: Quanti siete in famiglia? Sono tutti in Italia (loro tutti trovarsi Italia ma)?
+  en: How many are there in your family? Are they all in Italy (they all be-at Italy ma)?
+  es: ¿Cuántos sois en tu familia? ¿Están todos en Italia (ellos todos estar-en Italia ma)?
+- 五口人。爸爸、妈妈、哥哥和妹妹都在罗马。我很想他们。
+  pron: Wǔ kǒu rén. Bàba, māma, gēge hé mèimei dōu zài Luómǎ. Wǒ hěn xiǎng tāmen.
+  it: Cinque. Papà, mamma, mio fratello e mia sorella sono tutti a Roma. Mi mancano molto (io molto pensare loro).
+  en: Five. Dad, Mum, my brother and my sister are all in Rome. I miss them a lot (I very think them).
+  es: Cinco. Papá, mamá, mi hermano y mi hermana están todos en Roma. Los echo mucho de menos (yo muy pensar ellos).
+- 你喜欢吃中国菜吗？会用筷子吗？
+  pron: Nǐ xǐhuan chī Zhōngguó cài ma? Huì yòng kuàizi ma?
+  it: Ti piace la cucina cinese (tu piacere mangiare Cina piatto ma)? Sai usare le bacchette?
+  en: Do you like Chinese food (you like eat China dish ma)? Can you use chopsticks?
+  es: ¿Te gusta la comida china (tú gustar comer China plato ma)? ¿Sabes usar los palillos?
+- 很喜欢！北京烤鸭真好吃。我也会用筷子！
+  pron: Hěn xǐhuan! Běijīng kǎoyā zhēn hǎochī. Wǒ yě huì yòng kuàizi!
+  it: Mi piace molto! L'anatra laccata di Pechino è davvero buona. E so anche usare le bacchette!
+  en: I love it! Beijing roast duck is really delicious. And I can use chopsticks too!
+  es: ¡Me gusta mucho! El pato laqueado de Pekín está riquísimo. ¡Y también sé usar los palillos!
+- 很好！服务员，两杯绿茶！今天我请你。
+  pron: Hěn hǎo! Fúwùyuán, liǎng bēi lǜchá! Jīntiān wǒ qǐng nǐ.
+  it: Benissimo! Cameriere, due tè verdi! Oggi offro io.
+  en: Very good! Waiter, two green teas! Today it's my treat.
+  es: ¡Muy bien! Camarero, ¡dos tés verdes! Hoy invito yo.
+
+notes.it:
+1. L'ordine delle parole è fisso, soggetto, tempo, luogo, verbo e
+   complemento, 我每个星期天都在这儿喝茶. I verbi non cambiano mai, né per
+   persona né per tempo; il "quando" lo dicono parole come 今天, 星期天,
+   三点.
+2. Le domande. 吗 in fondo per il sì o no, la forma 忙不忙, le parole
+   interrogative al posto della risposta (什么, 几, 多少), 还是 per
+   scegliere, 呢 per rimandare la domanda, 你呢？
+3. La negazione. 不 bù nega 是, gli aggettivi e quasi tutti i verbi, 不是,
+   不忙, 不喝; 有 si nega solo con 没, 没有.
+4. Numero, classificatore, nome, 一个哥哥, 五口人, 两杯绿茶, 半只烤鸭;
+   davanti al classificatore "due" si dice 两. Anche 这个 zhège "questo"
+   vuole il classificatore, 这个茶馆. 的 indica il possesso, 你的中文, ma
+   cade con i familiari, 我爸爸, 我妹妹.
+5. 在 zài ha due usi. Davanti a un verbo dice dove si svolge l'azione,
+   在这儿喝茶 "bere il tè qui"; da solo è un verbo, "trovarsi",
+   他们都在罗马 "sono tutti a Roma". Gli avverbi 也, 都, 很, 只 stanno sempre
+   davanti al verbo o all'aggettivo, mai davanti al soggetto. 他们 tāmen
+   "loro" è il plurale di 他 e 她, come 我们 e 你们.
+notes.en:
+1. Word order is fixed, subject, time, place, verb and object,
+   我每个星期天都在这儿喝茶. Verbs never change, neither for person nor
+   for tense; words like 今天, 星期天, 三点 say when.
+2. Questions. 吗 at the end for yes or no, the form 忙不忙, question words
+   in the place of the answer (什么, 几, 多少), 还是 to choose, 呢 to
+   bounce the question back, 你呢？
+3. Negation. 不 bù negates 是, adjectives and almost all verbs, 不是,
+   不忙, 不喝; 有 is negated only with 没, 没有.
+4. Number, measure word, noun, 一个哥哥, 五口人, 两杯绿茶, 半只烤鸭;
+   before a measure word "two" is 两. 这个 zhège "this" needs a measure
+   word too, 这个茶馆. 的 marks possession, 你的中文, but is dropped with
+   family, 我爸爸, 我妹妹.
+5. 在 zài has two uses. Before a verb it says where the action happens,
+   在这儿喝茶 "drink tea here"; on its own it is a verb, "to be (at)",
+   他们都在罗马 "they're all in Rome". The adverbs 也, 都, 很, 只 always
+   stand before the verb or adjective, never before the subject. 他们
+   tāmen "they" is the plural of 他 and 她, like 我们 and 你们.
+notes.es:
+1. El orden de las palabras es fijo, sujeto, tiempo, lugar, verbo y
+   complemento, 我每个星期天都在这儿喝茶. Los verbos no cambian nunca, ni
+   por persona ni por tiempo; el "cuándo" lo dicen palabras como 今天,
+   星期天, 三点.
+2. Las preguntas. 吗 al final para el sí o no, la forma 忙不忙, las
+   palabras interrogativas en el lugar de la respuesta (什么, 几, 多少),
+   还是 para elegir, 呢 para devolver la pregunta, 你呢？
+3. La negación. 不 bù niega 是, los adjetivos y casi todos los verbos,
+   不是, 不忙, 不喝; 有 se niega solo con 没, 没有.
+4. Número, clasificador, nombre, 一个哥哥, 五口人, 两杯绿茶, 半只烤鸭;
+   delante del clasificador "dos" es 两. También 这个 zhège "este" lleva
+   clasificador, 这个茶馆. 的 indica posesión, 你的中文, pero desaparece
+   con los familiares, 我爸爸, 我妹妹.
+5. 在 zài tiene dos usos. Delante de un verbo dice dónde ocurre la acción,
+   在这儿喝茶 "tomar té aquí"; solo es un verbo, "estar (en)",
+   他们都在罗马 "están todos en Roma". Los adverbios 也, 都, 很, 只 van
+   siempre delante del verbo o del adjetivo, nunca delante del sujeto.
+   他们 tāmen "ellos" es el plural de 他 y 她, como 我们 y 你们.
+
+ex1:
+- 我每天都在茶馆喝茶。
+  pron: Wǒ měitiān dōu zài cháguǎn hē chá.
+  it: Bevo il tè alla casa del tè tutti i giorni.
+  en: I drink tea at the teahouse every day.
+  es: Tomo té en la casa de té todos los días.
+- 张老师的家人都在上海。
+  pron: Zhāng lǎoshī de jiārén dōu zài Shànghǎi.
+  it: I familiari della professoressa Zhang sono tutti a Shanghai.
+  en: Ms Zhang's family are all in Shanghai.
+  es: La familia de la profesora Zhang está toda en Shanghái.
+- 你喜欢吃中国菜还是意大利菜？
+  pron: Nǐ xǐhuan chī Zhōngguó cài háishi Yìdàlì cài?
+  it: Ti piace la cucina cinese o quella italiana?
+  en: Do you like Chinese food or Italian food?
+  es: ¿Te gusta la comida china o la italiana?
+- 星期天我不忙。
+  pron: Xīngqītiān wǒ bù máng.
+  it: Domenica non sono impegnato.
+  en: I'm not busy on Sunday.
+  es: El domingo no estoy ocupado.
+
+ex2:
+- 我[每]个星期天[都]在这儿。
+  pron: Wǒ měi ge xīngqītiān dōu zài zhèr.
+  it: Ogni domenica sono qui.
+  en: I'm here every Sunday.
+  es: Todos los domingos estoy aquí.
+- 他们[都][在]罗马。
+  pron: Tāmen dōu zài Luómǎ.
+  it: Sono tutti a Roma.
+  en: They're all in Rome.
+  es: Están todos en Roma.
+- 我[没有]哥哥，我有一个[妹妹]。
+  pron: Wǒ méiyǒu gēge, wǒ yǒu yí ge mèimei.
+  it: Non ho un fratello maggiore, ho una sorella minore.
+  en: I don't have an older brother, I have a younger sister.
+  es: No tengo hermano mayor, tengo una hermana menor.
+- 一[杯]绿茶[多少]钱？
+  pron: Yì bēi lǜchá duōshao qián?
+  it: Quanto costa una tazza di tè verde?
+  en: How much is a cup of green tea?
+  es: ¿Cuánto cuesta una taza de té verde?
+
+== 8 A1
+title: 超市在哪儿？
+title.it: Dov'è il supermercato?
+title.en: Where's the supermarket?
+title.es: ¿Dónde está el supermercado?
+
+dialogue:
+- 马可，这个周末我们去长城吧！
+  pron: Mǎkě, zhège zhōumò wǒmen qù Chángchéng ba!
+  it: Marco, questo fine settimana andiamo alla Grande Muraglia (questo-ge fine-settimana noi andare Lunga Muraglia ba)!
+  en: Marco, let's go to the Great Wall this weekend (this-ge weekend we go Long Wall ba)!
+  es: Marco, ¡este fin de semana vamos a la Gran Muralla (este-ge fin-de-semana nosotros ir Larga Muralla ba)!
+- 好啊！长城远不远？
+  pron: Hǎo a! Chángchéng yuǎn bu yuǎn?
+  it: Volentieri (bene a)! La Muraglia è lontana (Lunga Muraglia lontano non lontano)?
+  en: Great (good a)! Is the Great Wall far (Long Wall far not far)?
+  es: ¡Estupendo (bien a)! ¿Está lejos la Gran Muralla (Larga Muralla lejos no lejos)?
+- 有一点儿远，坐车一个小时。我们要买水和苹果。
+  pron: Yǒu yìdiǎnr yuǎn, zuò chē yí ge xiǎoshí. Wǒmen yào mǎi shuǐ hé píngguǒ.
+  it: È un po' lontana (avere un-po' lontano), un'ora di autobus (sedere veicolo un ge ora). Dobbiamo comprare acqua e mele.
+  en: It's a bit far (have a-bit far), an hour by bus (sit vehicle one ge hour). We need to buy water and apples.
+  es: Está un poco lejos (tener un-poco lejos), una hora en autobús (sentarse vehículo un ge hora). Tenemos que comprar agua y manzanas.
+- 好。超市在哪儿？
+  pron: Hǎo. Chāoshì zài nǎr?
+  it: Va bene. Dov'è il supermercato (supermercato trovarsi dove)?
+  en: OK. Where's the supermarket (supermarket be-at where)?
+  es: Vale. ¿Dónde está el supermercado (supermercado estar-en dónde)?
+- 在茶馆的左边。我们一起去吧。
+  pron: Zài cháguǎn de zuǒbian. Wǒmen yìqǐ qù ba.
+  it: A sinistra della casa del tè (trovarsi casa-del-tè de sinistra-lato). Andiamoci insieme (noi insieme andare ba).
+  en: To the left of the teahouse (be-at teahouse de left-side). Let's go together (we together go ba).
+  es: A la izquierda de la casa de té (estar-en casa-de-té de izquierda-lado). Vamos juntos (nosotros juntos ir ba).
+- 请问，苹果多少钱一斤？
+  pron: Qǐngwèn, píngguǒ duōshao qián yì jīn?
+  it: Scusi (prego chiedere), quanto costano le mele al mezzo chilo (mela quanto denaro un jin)?
+  en: Excuse me (please ask), how much are the apples per jin (apple how-much money one jin)?
+  es: Perdone (por-favor preguntar), ¿a cuánto están las manzanas el medio kilo (manzana cuánto dinero un jin)?
+- 五块一斤。你要几斤？
+  pron: Wǔ kuài yì jīn. Nǐ yào jǐ jīn?
+  it: Cinque yuan al jin (cinque pezzo un jin). Quanti jin ne vuole (tu volere quanti jin)?
+  en: Five yuan a jin (five piece one jin). How many jin would you like (you want how-many jin)?
+  es: Cinco yuanes el jin (cinco pedazo un jin). ¿Cuántos jin quiere (tú querer cuántos jin)?
+- 两斤。还要四瓶水。
+  pron: Liǎng jīn. Hái yào sì píng shuǐ.
+  it: Due jin. E anche quattro bottiglie d'acqua (ancora volere quattro bottiglia acqua).
+  en: Two jin. And four bottles of water as well (also want four bottle water).
+  es: Dos jin. Y también cuatro botellas de agua (además querer cuatro botella agua).
+- 一共十八块。
+  pron: Yígòng shíbā kuài.
+  it: In tutto diciotto yuan (in-tutto diciotto pezzo).
+  en: Eighteen yuan altogether (altogether eighteen piece).
+  es: En total, dieciocho yuanes (en-total dieciocho pedazo).
+
+notes.it:
+1. 吧 ba in fondo alla frase fa una proposta, 我们去长城吧！ "andiamo alla
+   Grande Muraglia!", 我们一起去吧 "andiamoci insieme". 好啊 hǎo a
+   "volentieri!" accetta con entusiasmo.
+2. 在 zài + luogo dice dove si trova qualcosa, 超市在哪儿？ 哪儿 nǎr "dove"
+   è la forma di Pechino di 哪里 nǎli. Le parole di posizione seguono il
+   punto di riferimento, 茶馆的左边 "a sinistra della casa del tè";
+   左边 zuǒbian sinistra, 右边 yòubian destra, 前边 qiánbian davanti,
+   后边 hòubian dietro.
+3. Al mercato si chiede 多少钱一斤？ "quanto al jin?". 斤 jīn, mezzo chilo,
+   è l'unità di peso di frutta e verdura; 五块一斤 "cinque yuan al jin".
+   一共 yígòng "in tutto" introduce il totale. Da undici a novantanove i
+   numeri si compongono, 十八 "dieci-otto", 二十 "due-dieci".
+4. 要 yào qui significa "dovere, avere bisogno di", 我们要买水 "dobbiamo
+   comprare l'acqua"; nella lezione 6 voleva dire "volere, prendere".
+   还 hái "inoltre, anche" va davanti al verbo, 还要四瓶水.
+5. 有一点儿 yǒu yìdiǎnr + aggettivo, "un po' (troppo)", si usa per
+   qualcosa di poco gradito, 有一点儿远 "è un po' lontano". 坐车 zuò chē
+   "prendere l'autobus" (sedere veicolo). 请问 qǐngwèn "scusi" (prego
+   chiedere) apre una domanda a uno sconosciuto.
+notes.en:
+1. 吧 ba at the end of a sentence makes a suggestion, 我们去长城吧！
+   "let's go to the Great Wall!", 我们一起去吧 "let's go together".
+   好啊 hǎo a "great!" accepts it warmly.
+2. 在 zài + place says where something is, 超市在哪儿？ 哪儿 nǎr "where"
+   is the Beijing form of 哪里 nǎli. Position words follow the landmark,
+   茶馆的左边 "to the left of the teahouse"; 左边 zuǒbian left,
+   右边 yòubian right, 前边 qiánbian in front, 后边 hòubian behind.
+3. At the market you ask 多少钱一斤？ "how much a jin?". 斤 jīn, half a
+   kilo, is the unit for fruit and vegetables; 五块一斤 "five yuan a jin".
+   一共 yígòng "altogether" introduces the total. Numbers from eleven to
+   ninety-nine are built up, 十八 "ten-eight", 二十 "two-ten".
+4. 要 yào here means "to need to, to have to", 我们要买水 "we need to buy
+   water"; in lesson 6 it meant "to want, to take". 还 hái "also, as well"
+   goes before the verb, 还要四瓶水.
+5. 有一点儿 yǒu yìdiǎnr + adjective, "a bit (too)", is used for something
+   unwelcome, 有一点儿远 "it's a bit far". 坐车 zuò chē "to take the bus"
+   (sit vehicle). 请问 qǐngwèn "excuse me" (please ask) opens a question
+   to a stranger.
+notes.es:
+1. 吧 ba al final de la frase hace una propuesta, 我们去长城吧！ "¡vamos a
+   la Gran Muralla!", 我们一起去吧 "vamos juntos". 好啊 hǎo a
+   "¡estupendo!" acepta con entusiasmo.
+2. 在 zài + lugar dice dónde está algo, 超市在哪儿？ 哪儿 nǎr "dónde" es
+   la forma de Pekín de 哪里 nǎli. Las palabras de posición van detrás del
+   punto de referencia, 茶馆的左边 "a la izquierda de la casa de té";
+   左边 zuǒbian izquierda, 右边 yòubian derecha, 前边 qiánbian delante,
+   后边 hòubian detrás.
+3. En el mercado se pregunta 多少钱一斤？ "¿a cuánto el jin?". 斤 jīn, medio
+   kilo, es la unidad de peso de la fruta y la verdura; 五块一斤 "cinco
+   yuanes el jin". 一共 yígòng "en total" introduce la suma. Del once al
+   noventa y nueve los números se componen, 十八 "diez-ocho", 二十
+   "dos-diez".
+4. 要 yào aquí significa "tener que, necesitar", 我们要买水 "tenemos que
+   comprar agua"; en la lección 6 significaba "querer, tomar". 还 hái
+   "además, también" va delante del verbo, 还要四瓶水.
+5. 有一点儿 yǒu yìdiǎnr + adjetivo, "un poco (demasiado)", se usa para algo
+   poco grato, 有一点儿远 "está un poco lejos". 坐车 zuò chē "ir en
+   autobús" (sentarse vehículo). 请问 qǐngwèn "perdone" (por favor
+   preguntar) abre una pregunta a un desconocido.
+
+ex1:
+- 茶馆在哪儿？
+  pron: Cháguǎn zài nǎr?
+  it: Dov'è la casa del tè?
+  en: Where is the teahouse?
+  es: ¿Dónde está la casa de té?
+- 星期六我们去吃烤鸭吧！
+  pron: Xīngqīliù wǒmen qù chī kǎoyā ba!
+  it: Sabato andiamo a mangiare l'anatra laccata!
+  en: Let's go for roast duck on Saturday!
+  es: ¡El sábado vamos a comer pato laqueado!
+- 苹果三块一斤。
+  pron: Píngguǒ sān kuài yì jīn.
+  it: Le mele costano tre yuan al jin.
+  en: Apples are three yuan a jin.
+  es: Las manzanas están a tres yuanes el jin.
+- 超市在茶馆的右边。
+  pron: Chāoshì zài cháguǎn de yòubian.
+  it: Il supermercato è a destra della casa del tè.
+  en: The supermarket is to the right of the teahouse.
+  es: El supermercado está a la derecha de la casa de té.
+
+ex2:
+- 请问，超市在[哪儿]？
+  pron: Qǐngwèn, chāoshì zài nǎr?
+  it: Scusi, dov'è il supermercato?
+  en: Excuse me, where's the supermarket?
+  es: Perdone, ¿dónde está el supermercado?
+- 我们一起去长城[吧]！
+  pron: Wǒmen yìqǐ qù Chángchéng ba!
+  it: Andiamo insieme alla Grande Muraglia!
+  en: Let's go to the Great Wall together!
+  es: ¡Vamos juntos a la Gran Muralla!
+- 苹果多少钱一[斤]？
+  pron: Píngguǒ duōshao qián yì jīn?
+  it: Quanto costano le mele al jin?
+  en: How much are the apples per jin?
+  es: ¿A cuánto están las manzanas el jin?
+- [一共]二十块。
+  pron: Yígòng èrshí kuài.
+  it: In tutto venti yuan.
+  en: Twenty yuan altogether.
+  es: En total, veinte yuanes.

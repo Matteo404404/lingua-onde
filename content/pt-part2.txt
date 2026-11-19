@@ -1,0 +1,743 @@
+course: pt
+
+== 4 A1
+title: Na feira
+title.it: Al mercato rionale
+title.en: At the street market
+title.es: En el mercadillo
+
+dialogue:
+- Giulia! Você por aqui? Bom dia, querida!
+  it: Giulia! Anche tu qui (tu per qui)? Buongiorno, cara!
+  en: Giulia! Fancy seeing you here (you around here)? Good morning, dear!
+  es: ¡Giulia! ¿Tú por aquí? ¡Buenos días, cariño (querida)!
+- Bom dia, Dona Lurdes! Quero comprar frutas, mas não sei o nome de nada.
+  it: Buongiorno, Dona Lurdes! Voglio comprare un po' di frutta (frutte), ma non so il nome di niente.
+  en: Good morning, Dona Lurdes! I want to buy some fruit (fruits), but I don't know what anything is called (I not know the name of nothing).
+  es: ¡Buenos días, Dona Lurdes! Quiero comprar fruta (frutas), pero no sé el nombre de nada.
+- É fácil. Olha: esta é a manga, este é o mamão e aquele ali é o maracujá.
+  it: È facile. Guarda: questo è il mango (questa è la manga), questa è la papaia (questo è il mamão) e quello lì è il frutto della passione (il maracujá).
+  en: It's easy. Look: this is the mango, this is the papaya (the mamão) and that one there is the passion fruit (the maracujá).
+  es: Es fácil. Mira: este es el mango (esta es la manga), esta es la papaya (este es el mamão) y aquel de allí es el maracuyá.
+- Bom dia, freguesa! Quer provar? A manga está uma delícia!
+  it: Buongiorno, signora (cliente)! Vuole assaggiare (provare)? Il mango è una delizia (sta una delizia)!
+  en: Morning, madam (customer)! Would you like a taste (want to try)? The mango is delicious (is a delight)!
+  es: ¡Buenos días, guapa (parroquiana)! ¿Quiere probar? ¡El mango está riquísimo (está una delicia)!
+- Hum, que delícia! Quanto custa o quilo?
+  it: Mmm, che buono (che delizia)! Quanto costa al chilo (il chilo)?
+  en: Mmm, delicious (what a delight)! How much is a kilo (how much costs the kilo)?
+  es: ¡Mmm, qué rico (qué delicia)! ¿Cuánto cuesta el kilo?
+- Oito reais o quilo. Dois quilos por quinze!
+  it: Otto reais al chilo (il chilo). Due chili per quindici!
+  en: Eight reais a kilo (the kilo). Two kilos for fifteen!
+  es: Ocho reales el kilo. ¡Dos kilos por quince!
+- Então eu levo dois quilos. E meio quilo de maracujá, por favor.
+  it: Allora ne prendo (io porto) due chili. E mezzo chilo di frutto della passione, per favore.
+  en: Then I'll take (I take) two kilos. And half a kilo of passion fruit, please.
+  es: Entonces me llevo (yo llevo) dos kilos. Y medio kilo de maracuyá, por favor.
+- Agora vamos comer um pastel com caldo de cana. É tradição!
+  it: Adesso mangiamo (andiamo mangiare) un pastel con un succo di canna (brodo di canna). È tradizione!
+  en: Now let's have (we go eat) a pastel with sugar cane juice (cane broth). It's tradition!
+  es: Ahora vamos a comer un pastel con zumo de caña (caldo de caña). ¡Es tradición!
+- Combinado! Mas hoje eu pago, tá?
+  it: D'accordo (combinato)! Ma oggi pago io, va bene (sta)?
+  en: Deal (agreed)! But today I'm paying (I pay), OK (is)?
+  es: ¡Hecho (combinado)! Pero hoy pago yo, ¿vale (está)?
+
+notes.it:
+1. La feira livre è il mercato all'aperto brasiliano: ogni giorno della
+   settimana si monta in una strada diversa del quartiere. I venditori
+   (feirantes) chiamano i clienti freguês, freguesa e fanno assaggiare la
+   frutta. Il pastel (sfoglia sottile fritta e ripiena) con il caldo de cana
+   (succo di canna da zucchero spremuto al momento) è lo spuntino classico
+   della feira.
+2. Esta é a manga, este é o mamão, aquele ali é o maracujá: i dimostrativi
+   concordano con il nome (este, esta = questo, questa; aquele, aquela =
+   quello, quella). Nel parlato brasiliano esse, essa prende spesso il posto di
+   este, esta. Per le cose senza nome: isto, isso, aquilo (o que é isso? =
+   cos'è?).
+3. Quero, sei, levo, custa: presente indicativo. Con você il verbo va alla
+   terza persona, come con ele, ela: você quer, ela quer. I verbi in -ar come
+   levar fanno eu levo, você leva, nós levamos, vocês levam. Querer (quero,
+   quer) e saber (sei, sabe) sono irregolari.
+4. Falsi amici: il pastel non è un pastello (che si dice lápis de cor) ma una
+   sfoglia fritta; provar = assaggiare, provare; levar = prendere, portare via
+   (non "levare", che si dice tirar); manga vuol dire mango ma anche manica.
+   Tá? (da está bem?) alla fine della frase = va bene?
+5. Pronuncia: in quasi tutto il Brasile la r all'inizio della parola e la rr si
+   pronunciano come una h aspirata: reais suona quasi "heais", Rafael "Hafael".
+   La m finale non si pronuncia come m, ma rende nasale la vocale: bom, um,
+   também.
+notes.en:
+1. The feira livre is Brazil's open-air street market: each day of the week it
+   sets up in a different street of the neighbourhood. The stallholders
+   (feirantes) call their customers freguês, freguesa and let you taste the
+   fruit. A pastel (a thin fried pastry with a filling) with caldo de cana
+   (freshly pressed sugar cane juice) is the classic feira snack.
+2. Esta é a manga, este é o mamão, aquele ali é o maracujá: demonstratives agree
+   with the noun (este, esta = this; aquele, aquela = that). In spoken
+   Brazilian Portuguese esse, essa often replace este, esta. For things without
+   a name: isto, isso, aquilo (o que é isso? = what's that?).
+3. Quero, sei, levo, custa: present tense. With você the verb is in the third
+   person, as with ele, ela: você quer, ela quer. Verbs in -ar like levar go eu
+   levo, você leva, nós levamos, vocês levam. Querer (quero, quer) and saber
+   (sei, sabe) are irregular.
+4. False friends: a pastel is not a pastel colour or crayon but a fried pastry;
+   provar = to taste, to try (not "to prove"); levar = to take; manga means
+   mango, but also sleeve. Tá? (from está bem?) at the end of a sentence = OK?
+5. Pronunciation: in most of Brazil an r at the start of a word and rr sound
+   like an English h: reais sounds roughly like "heh-ICE", Rafael like
+   "Hafael". A final m isn't pronounced as m but makes the vowel nasal: bom,
+   um, também.
+notes.es:
+1. La feira livre es el mercadillo al aire libre de Brasil: cada día de la
+   semana se monta en una calle distinta del barrio. Los vendedores
+   (feirantes) llaman a los clientes freguês, freguesa (parroquiano,
+   parroquiana) y dejan probar la fruta. El pastel (una empanadilla fina y
+   frita) con caldo de cana (zumo de caña de azúcar recién exprimido) es el
+   tentempié clásico de la feira.
+2. Esta é a manga, este é o mamão, aquele ali é o maracujá: los demostrativos
+   concuerdan con el nombre, como en español (este, esta; aquele, aquela =
+   aquel, aquella). En el habla de Brasil esse, essa sustituye a menudo a este,
+   esta. Para las cosas sin nombre: isto, isso, aquilo (esto, eso, aquello).
+3. Quero, sei, levo, custa: presente. Con você el verbo va en tercera persona,
+   como con ele, ela: você quer, ela quer. Ojo: el portugués no diptonga como
+   el español: quero = quiero, custa = cuesta. Querer y saber son irregulares
+   (eu sei = yo sé).
+4. Falsos amigos: pastel no es una tarta (que se dice bolo), sino una
+   empanadilla frita; provar = probar; levar = llevar, llevarse; manga es el
+   mango, pero también la manga de una camisa. Tá? (de está bem?) al final de
+   la frase = ¿vale?
+5. Pronunciación: en casi todo Brasil la r a principio de palabra y la rr
+   suenan como una jota suave, aspirada: reais suena casi "jeáis", Rafael
+   "Jafael". La m final no se pronuncia como m, sino que nasaliza la vocal:
+   bom, um, também.
+
+ex1:
+- Quanto custa o quilo de manga?
+  it: Quanto costa un chilo di mango?
+  en: How much is a kilo of mangoes?
+  es: ¿Cuánto cuesta el kilo de mango?
+- Eu levo meio quilo de maracujá.
+  it: Prendo mezzo chilo di frutto della passione.
+  en: I'll take half a kilo of passion fruit.
+  es: Me llevo medio kilo de maracuyá.
+- Aquele ali é o mamão?
+  it: Quella lì è la papaia (quello lì è il mamão)?
+  en: Is that one there the papaya?
+  es: ¿Aquella de allí es la papaya (aquel de allí es el mamão)?
+- Hoje eu pago o pastel, tá?
+  it: Oggi il pastel lo pago io, va bene?
+  en: I'm paying for the pastel today, OK?
+  es: Hoy pago yo el pastel, ¿vale?
+
+ex2:
+- [Quanto] [custa] o quilo?
+  it: Quanto costa al chilo?
+  en: How much is it a kilo?
+  es: ¿Cuánto cuesta el kilo?
+- [Esta] é a manga e [este] é o mamão.
+  it: Questo è il mango e questa è la papaia.
+  en: This is the mango and this is the papaya.
+  es: Este es el mango y esta es la papaya.
+- Quer [provar], [freguesa]?
+  it: Vuole assaggiare, signora?
+  en: Would you like a taste, madam?
+  es: ¿Quiere probar, guapa?
+- Então eu [levo] dois [quilos].
+  it: Allora ne prendo due chili.
+  en: Then I'll take two kilos.
+  es: Entonces me llevo dos kilos.
+
+== 5 A1
+title: Fotos de família
+title.it: Foto di famiglia
+title.en: Family photos
+title.es: Fotos de familia
+
+dialogue:
+- Rafael, quem são essas pessoas na foto?
+  it: Rafael, chi sono queste persone nella foto?
+  en: Rafael, who are these people in the photo?
+  es: Rafael, ¿quiénes son esas personas de la foto (en la foto)?
+- É a minha família. Esta é a minha mãe, este é o meu pai e esta aqui é a minha irmã, a Camila.
+  it: È la mia famiglia. Questa è mia madre (la mia madre), questo è mio padre e questa qui è mia sorella, Camila (la Camila).
+  en: It's my family. This is my mother (the my mother), this is my father and this one here is my sister, Camila (the Camila).
+  es: Es mi familia (la mi familia). Esta es mi madre, este es mi padre y esta de aquí es mi hermana, Camila (la Camila).
+- Que bonita! Quantos anos ela tem?
+  it: Che carina (che bella)! Quanti anni ha?
+  en: She's lovely (how pretty)! How old is she (how many years does she have)?
+  es: ¡Qué guapa (qué bonita)! ¿Cuántos años tiene?
+- Dezenove. Ela é a caçula da família.
+  it: Diciannove. È la più piccola (la caçula) della famiglia.
+  en: Nineteen. She's the baby (the caçula) of the family.
+  es: Diecinueve. Es la pequeña (la caçula) de la familia.
+- E esse menino fofo?
+  it: E questo bambino così carino (questo bambino soffice)?
+  en: And this cute little boy (this fluffy boy)?
+  es: ¿Y este niño tan mono (este niño blandito)?
+- É o Pedro, o filho do meu irmão. Ele tem cinco anos e é muito levado!
+  it: È Pedro (il Pedro), il figlio di mio fratello. Ha cinque anni ed è una vera peste (è molto levado)!
+  en: That's Pedro (the Pedro), my brother's son (the son of my brother). He's five and really naughty!
+  es: Es Pedro (el Pedro), el hijo de mi hermano. ¡Tiene cinco años y es muy travieso!
+- Eu também tenho um irmão, o Luca. Ele mora em Milão, e os meus pais, em Turim.
+  it: Anch'io ho un fratello, Luca (il Luca). Abita a Milano, e i miei genitori (padri) a Torino.
+  en: I have a brother too, Luca (the Luca). He lives in Milan, and my parents in Turin.
+  es: Yo también tengo un hermano, Luca (el Luca). Él vive en Milán, y mis padres, en Turín.
+- Você sente saudade deles?
+  it: Ti mancano (senti saudade di loro)?
+  en: Do you miss them (do you feel saudade of them)?
+  es: ¿Los echas de menos (sientes saudade de ellos)?
+- Muita! Mas a gente se fala todo dia pelo celular.
+  it: Tantissimo (molta)! Ma ci sentiamo (la gente si parla) tutti i giorni al cellulare (per il cellulare).
+  en: Loads (much)! But we talk (the people talks itself) every day on the phone (through the cell phone).
+  es: ¡Muchísimo (mucha)! Pero hablamos (la gente se habla) todos los días por el móvil (por el celular).
+
+notes.it:
+1. A minha mãe, o meu pai, os meus pais: il possessivo concorda con la cosa
+   posseduta (meu irmão, minha irmã, meus pais, minhas irmãs). In Brasile
+   l'articolo davanti al possessivo è facoltativo (minha mãe o a minha mãe), in
+   Portogallo si usa quasi sempre. Attenzione: con i nomi di parentela
+   l'italiano toglie l'articolo (mia madre), il portoghese spesso lo tiene.
+2. Quantos anos ela tem? / Ela tem dezenove anos: l'età si dice con ter, come
+   in italiano con avere. I numeri da 11 a 20: onze, doze, treze, catorze (o
+   quatorze), quinze, dezesseis, dezessete, dezoito, dezenove, vinte. In
+   Portogallo si scrive dezasseis, dezassete, dezanove.
+3. Saudade è la parola portoghese più famosa: la nostalgia di una persona, di
+   un luogo o di un tempo lontani, con un po' di dolcezza. Si dice sentir
+   saudade de o estar com saudade de: estou com saudade de você = mi manchi.
+   Deles = de + eles (di loro).
+4. Falsi amici: pais = genitori (e país, con l'accento, è "paese"); parentes =
+   parenti, cioè tutti i familiari; menino, menina = bambino, bambina; levado =
+   vivace, birichino; fofo (letteralmente "soffice") = carino, tenero. Caçula,
+   il figlio più piccolo, è una parola di origine africana.
+5. A gente se fala = ci sentiamo: a gente (la gente) è il "noi" quotidiano del
+   Brasile e vuole il verbo alla terza persona singolare. Il celular è il
+   cellulare; in Portogallo si dice telemóvel.
+notes.en:
+1. A minha mãe, o meu pai, os meus pais: possessives agree with the thing
+   owned (meu irmão, minha irmã, meus pais, minhas irmãs). In Brazil the
+   article before a possessive is optional (minha mãe or a minha mãe); in
+   Portugal it is almost always there.
+2. Quantos anos ela tem? / Ela tem dezenove anos: age is expressed with ter
+   (literally "she has nineteen years"). Numbers 11 to 20: onze, doze, treze,
+   catorze (or quatorze), quinze, dezesseis, dezessete, dezoito, dezenove,
+   vinte. In Portugal they are spelt dezasseis, dezassete, dezanove.
+3. Saudade is the most famous Portuguese word: a longing for a person, a place
+   or a time that is far away, with a touch of sweetness. You say sentir
+   saudade de or estar com saudade de: estou com saudade de você = I miss you.
+   Deles = de + eles (of them).
+4. False friends: pais = parents, while parentes = relatives, not parents (and
+   país, with an accent, is "country"); menino, menina = boy, girl; levado =
+   naughty; fofo (literally "soft, fluffy") = cute, sweet. Caçula, the youngest
+   child, is a word of African origin.
+5. A gente se fala = we talk: a gente (the people) is the everyday Brazilian
+   "we", with the verb in the third person singular. Celular is a mobile
+   phone; in Portugal it's a telemóvel.
+notes.es:
+1. A minha mãe, o meu pai, os meus pais: el posesivo concuerda con lo poseído
+   (meu irmão, minha irmã, meus pais, minhas irmãs). En Brasil el artículo
+   delante del posesivo es opcional (minha mãe o a minha mãe); en Portugal se
+   pone casi siempre. En español nunca se usa: mi madre.
+2. Quantos anos ela tem? / Ela tem dezenove anos: la edad se dice con ter,
+   igual que con tener. Los números del 11 al 20: onze, doze, treze, catorze
+   (o quatorze), quinze, dezesseis, dezessete, dezoito, dezenove, vinte. En
+   Portugal se escribe dezasseis, dezassete, dezanove.
+3. Saudade es la palabra portuguesa más famosa: la añoranza de una persona,
+   un lugar o un tiempo lejanos, con un punto de dulzura. Se dice sentir
+   saudade de o estar com saudade de: estou com saudade de você = te echo de
+   menos. Deles = de + eles (de ellos).
+4. Falsos amigos: fofo en portugués es un elogio (mono, tierno), mientras que
+   en español fofo significa blando, flácido; pais = padres (y país, con
+   tilde, es "país"); parentes = parientes; menino, menina = niño, niña;
+   levado = travieso. Caçula, el hijo menor, es una palabra de origen
+   africano.
+5. A gente se fala = hablamos, nos llamamos: a gente (la gente) es el
+   "nosotros" cotidiano de Brasil, con el verbo en tercera persona del
+   singular. Celular = móvil; en Portugal se dice telemóvel.
+
+ex1:
+- Esta é a minha irmã, a Camila.
+  it: Questa è mia sorella, Camila.
+  en: This is my sister, Camila.
+  es: Esta es mi hermana, Camila.
+- Quantos anos o Pedro tem?
+  it: Quanti anni ha Pedro?
+  en: How old is Pedro?
+  es: ¿Cuántos años tiene Pedro?
+- Os meus pais moram em Turim.
+  it: I miei genitori abitano a Torino.
+  en: My parents live in Turin.
+  es: Mis padres viven en Turín.
+- Eu sinto muita saudade da minha família.
+  it: Mi manca molto la mia famiglia (sento molta saudade della mia famiglia).
+  en: I miss my family a lot (I feel much saudade of my family).
+  es: Echo mucho de menos a mi familia (siento mucha saudade de mi familia).
+
+ex2:
+- Ela [tem] dezenove [anos].
+  it: Ha diciannove anni.
+  en: She's nineteen.
+  es: Tiene diecinueve años.
+- O Pedro é o [filho] do meu [irmão].
+  it: Pedro è il figlio di mio fratello.
+  en: Pedro is my brother's son.
+  es: Pedro es el hijo de mi hermano.
+- Você [sente] [saudade] deles?
+  it: Ti mancano?
+  en: Do you miss them?
+  es: ¿Los echas de menos?
+- A gente se [fala] todo [dia].
+  it: Ci sentiamo tutti i giorni.
+  en: We talk every day.
+  es: Hablamos todos los días.
+
+== 6 A1
+title: O apartamento da Giulia
+title.it: L'appartamento di Giulia
+title.en: Giulia's flat
+title.es: El piso de Giulia
+
+dialogue:
+- Dona Giulia, o Seu Rafael está aqui na portaria. Pode subir?
+  it: Signora Giulia (Dona Giulia), il signor Rafael (il Seu Rafael) è qui in portineria. Può salire?
+  en: Ms Giulia (Dona Giulia), Mr Rafael (the Seu Rafael) is here at the front desk. Can he come up?
+  es: Doña Giulia, el señor Rafael (el Seu Rafael) está aquí en la portería. ¿Puede subir?
+- Pode, sim. Obrigada, Seu Zé!
+  it: Sì, certo (può, sì). Grazie, signor Zé!
+  en: Yes, he can (can, yes). Thanks, Seu Zé!
+  es: Sí, que suba (puede, sí). ¡Gracias, señor Zé!
+- Oi, Giulia! Olha, um bolo de fubá da Dona Lurdes para a casa nova.
+  it: Ciao, Giulia! Guarda, una torta di farina di mais (un bolo de fubá) di Dona Lurdes per la casa nuova.
+  en: Hi, Giulia! Look, a cornmeal cake (a bolo de fubá) from Dona Lurdes for your new home (the new house).
+  es: ¡Hola, Giulia! Mira, un bizcocho de harina de maíz (un bolo de fubá) de Dona Lurdes para la casa nueva.
+- Que gentil! Entra, fica à vontade.
+  it: Che gentile! Entra, fai come se fossi a casa tua (resta a volontà).
+  en: How kind! Come in, make yourself at home (stay at will).
+  es: ¡Qué amable (qué gentil)! Pasa (entra), ponte cómodo (quédate a voluntad).
+- Nossa, que apartamento lindo! E que vista!
+  it: Caspita (Nostra), che appartamento bellissimo! E che vista!
+  en: Wow (our), what a beautiful flat! And what a view!
+  es: ¡Madre mía (nuestra), qué piso tan bonito! ¡Y qué vistas!
+- Obrigada! É pequeno: tem sala, cozinha, um quarto e um banheiro. Mas a varanda é ótima.
+  it: Grazie! È piccolo: ha soggiorno (sala), cucina, una camera da letto e un bagno. Ma il balcone è ottimo.
+  en: Thanks! It's small: it has a living room, a kitchen, a bedroom and a bathroom. But the balcony is great.
+  es: ¡Gracias! Es pequeño: tiene salón, cocina, un dormitorio y un baño. Pero el balcón (la varanda) es estupendo.
+- Em que andar você mora?
+  it: A che piano abiti?
+  en: Which floor do you live on?
+  es: ¿En qué planta vives?
+- No décimo quinto. Daqui dá para ver a Avenida Paulista!
+  it: Al quindicesimo. Da qui si vede (dà per vedere) l'Avenida Paulista!
+  en: On the fifteenth. From here you can see (it gives to see) Avenida Paulista!
+  es: En el decimoquinto. ¡Desde aquí se ve (da para ver) la Avenida Paulista!
+- Que sorte! Do meu, só dá para ver o ponto de ônibus.
+  it: Che fortuna! Dal mio si vede solo la fermata dell'autobus.
+  en: Lucky you (what luck)! From mine you can only see the bus stop.
+  es: ¡Qué suerte! Desde el mío solo se ve la parada del autobús.
+
+notes.it:
+1. Nei condomini brasiliani c'è quasi sempre un porteiro nella portaria:
+   annuncia le visite al citofono (interfone) e chiede se possono salire. Zé è
+   il diminutivo di José. Seu davanti al nome (Seu Rafael, Seu Zé) è il titolo
+   che abbiamo visto insieme a Dona; non va confuso con il possessivo seu, sua
+   (tuo, suo).
+2. Fica à vontade (letteralmente "resta a volontà") = fai come se fossi a casa
+   tua, mettiti comodo. Entra, fica: nel Brasile parlato l'imperativo informale
+   ha la stessa forma della terza persona del presente (ele entra, ele fica).
+   Que gentil! = che gentile!
+3. Nossa! (da Nossa Senhora, "Nostra Signora") è l'esclamazione di stupore più
+   brasiliana che ci sia: caspita, accidenti. Que apartamento lindo!, que
+   vista!, que sorte!: que + nome (+ aggettivo) per le esclamazioni. Lindo =
+   bellissimo.
+4. Falsi amici: quarto = camera da letto (oltre che "quarto" come numero);
+   banheiro = bagno (non bagnino); sala = soggiorno; andar = piano di un
+   edificio, oltre che "camminare"; varanda = balcone, terrazzino. Il bolo è la
+   torta; il fubá è la farina di mais.
+5. Dá para ver (letteralmente "dà per vedere") = si vede, si può vedere: dá
+   para + infinito dice che una cosa è possibile. Ordinali: primeiro, segundo,
+   terceiro, quarto, quinto... décimo, décimo quinto. In Brasile il piano terra
+   è il térreo.
+notes.en:
+1. Brazilian apartment buildings almost always have a porteiro (doorman) at
+   the portaria (front desk): he announces visitors on the intercom (interfone)
+   and asks whether they can come up. Zé is short for José. Seu before a first
+   name (Seu Rafael, Seu Zé) is the title we saw alongside Dona; don't confuse
+   it with the possessive seu, sua (your).
+2. Fica à vontade (literally "stay at will") = make yourself at home.
+   Entra, fica: in spoken Brazilian Portuguese the informal imperative looks
+   like the third person of the present (ele entra, ele fica). Que gentil! =
+   how kind!
+3. Nossa! (from Nossa Senhora, "Our Lady") is the most Brazilian exclamation
+   of surprise: wow, gosh. Que apartamento lindo!, que vista!, que sorte!: que
+   + noun (+ adjective) makes an exclamation. Lindo = beautiful.
+4. False friends: quarto = bedroom (besides "fourth"); banheiro = bathroom;
+   sala = living room; andar = floor of a building, as well as "to walk";
+   varanda = balcony, not only a veranda. A bolo is a cake; fubá is cornmeal.
+5. Dá para ver (literally "it gives to see") = you can see: dá para +
+   infinitive says something is possible. Ordinals: primeiro, segundo,
+   terceiro, quarto, quinto... décimo, décimo quinto. In Brazil the ground
+   floor is the térreo.
+notes.es:
+1. En los edificios de Brasil casi siempre hay un porteiro (portero) en
+   la portaria: anuncia las visitas por el interfono (interfone) y pregunta si
+   pueden subir. Zé es el diminutivo de José, como nuestro Pepe. Seu delante
+   del nombre (Seu Rafael, Seu Zé) es el título que vimos junto a Dona; no hay
+   que confundirlo con el posesivo seu, sua (tu, su).
+2. Fica à vontade (literalmente "quédate a voluntad") = ponte cómodo, estás en
+   tu casa. Entra, fica: en el Brasil hablado el imperativo informal tiene la
+   misma forma que la tercera persona del presente (ele entra, ele fica),
+   igual que nuestro "entra" o "pasa". Que gentil! = ¡qué amable!
+3. Nossa! (de Nossa Senhora, "Nuestra Señora") es la exclamación de sorpresa
+   más brasileña: ¡madre mía!, ¡anda! Que apartamento lindo!, que vista!, que
+   sorte!: que + nombre (+ adjetivo), sin el "tan" del español (¡qué piso tan
+   bonito!). Lindo = precioso.
+4. Falsos amigos: quarto = dormitorio (y también "cuarto" como número; el
+   cuarto de baño es o banheiro); sala = salón; andar = planta, piso de un
+   edificio, además de "andar, caminar"; apartamento = piso; varanda = balcón,
+   terraza. Un bolo es un bizcocho o una tarta; el fubá es la harina de maíz.
+5. Dá para ver (literalmente "da para ver") = se ve, se puede ver: dá para +
+   infinitivo indica que algo es posible. Ordinales: primeiro, segundo,
+   terceiro, quarto, quinto... décimo, décimo quinto. En Brasil la planta baja
+   es el térreo.
+
+ex1:
+- O meu apartamento tem dois quartos e uma varanda.
+  it: Il mio appartamento ha due camere da letto e un balcone.
+  en: My flat has two bedrooms and a balcony.
+  es: Mi piso tiene dos dormitorios y un balcón.
+- Em que andar mora a Dona Lurdes?
+  it: A che piano abita Dona Lurdes?
+  en: Which floor does Dona Lurdes live on?
+  es: ¿En qué planta vive Dona Lurdes?
+- Que gentil! Obrigada pelo bolo.
+  it: Che gentile! Grazie per la torta.
+  en: How kind! Thanks for the cake.
+  es: ¡Qué amable! Gracias por el bizcocho.
+- Da minha varanda dá para ver o parque.
+  it: Dal mio balcone si vede il parco.
+  en: You can see the park from my balcony.
+  es: Desde mi balcón se ve el parque.
+
+ex2:
+- [Em] que [andar] você mora?
+  it: A che piano abiti?
+  en: Which floor do you live on?
+  es: ¿En qué planta vives?
+- O apartamento tem sala, [cozinha] e um [banheiro].
+  it: L'appartamento ha soggiorno, cucina e un bagno.
+  en: The flat has a living room, a kitchen and a bathroom.
+  es: El piso tiene salón, cocina y un baño.
+- Entra, fica à [vontade]!
+  it: Entra, fai come se fossi a casa tua!
+  en: Come in, make yourself at home!
+  es: ¡Pasa, ponte cómodo!
+- [Nossa], que vista [linda]!
+  it: Caspita, che vista stupenda!
+  en: Wow, what a beautiful view!
+  es: ¡Madre mía, qué vista tan bonita!
+
+== 7 A1
+title: O estagiário novo
+title.it: Il nuovo stagista
+title.en: The new intern
+title.es: El becario nuevo
+
+dialogue:
+- Oi! Você é o estagiário novo? Eu sou a Giulia, a arquiteta italiana.
+  it: Ciao! Sei il nuovo stagista? Io sono Giulia (la Giulia), l'architetta italiana.
+  en: Hi! Are you the new intern? I'm Giulia (the Giulia), the Italian architect.
+  es: ¡Hola! ¿Eres el becario nuevo? Yo soy Giulia (la Giulia), la arquitecta italiana.
+- Muito prazer! Eu sou o Bruno, de Curitiba. Desculpa, tem uma padaria boa aqui perto?
+  it: Piacere (molto piacere)! Io sono Bruno (il Bruno), di Curitiba. Scusa, c'è (ha) una buona panetteria qui vicino?
+  en: Pleased to meet you (much pleasure)! I'm Bruno (the Bruno), from Curitiba. Sorry, is there (has) a good bakery near here?
+  es: ¡Encantado (mucho placer)! Yo soy Bruno (el Bruno), de Curitiba. Perdona, ¿hay (tiene) una panadería buena aquí cerca?
+- Tem, sim: a padaria da Dona Lurdes. Você sai do prédio, vira à direita e é logo ali, na esquina.
+  it: Sì, c'è (ha, sì): la panetteria di Dona Lurdes. Esci dal palazzo, giri a destra ed è proprio lì (subito lì), all'angolo.
+  en: Yes, there is (has, yes): Dona Lurdes's bakery. You come out of the building, turn right and it's just there (soon there), on the corner.
+  es: Sí, hay (tiene, sí): la panadería de Dona Lurdes. Sales del edificio, giras a la derecha y está justo ahí (luego ahí), en la esquina.
+- E o que é bom lá?
+  it: E cosa c'è di buono lì (cosa è buono là)?
+  en: And what's good there?
+  es: ¿Y qué está bueno allí (qué es bueno allá)?
+- Tudo! O pão de queijo está sempre quentinho e o cafezinho é uma delícia.
+  it: Tutto! Il pão de queijo è sempre bello caldo (caldino) e il caffè (caffettino) è una delizia.
+  en: Everything! The cheese bread is always nice and warm (warm-little) and the coffee (little coffee) is delicious (a delight).
+  es: ¡Todo! El pão de queijo siempre está calentito y el cafecito es una delicia.
+- Quanto custa um pão de queijo com cafezinho?
+  it: Quanto costa un pão de queijo con un caffè?
+  en: How much is a cheese bread with a coffee?
+  es: ¿Cuánto cuesta un pão de queijo con un cafecito?
+- Uns dez reais. E a Dona Lurdes aceita Pix, viu?
+  it: Una decina di reais (alcuni dieci reais). E Dona Lurdes accetta il Pix, eh (hai visto)?
+  en: About ten reais (some ten reais). And Dona Lurdes takes Pix, OK (saw)?
+  es: Unos diez reales. Y Dona Lurdes acepta Pix, ¿eh (viste)?
+- Obrigado, Giulia! Você fala muito bem português.
+  it: Grazie (obbligato), Giulia! Parli molto bene il portoghese.
+  en: Thanks (obliged), Giulia! You speak Portuguese very well.
+  es: ¡Gracias (obligado), Giulia! Hablas muy bien portugués.
+- Imagina! Mas São Paulo já é um pouco a minha casa.
+  it: Ma figurati (immagina)! Però San Paolo è già un po' casa mia (la mia casa).
+  en: Not at all (imagine)! But São Paulo already feels a bit like home (is a little my house).
+  es: ¡Qué va (imagina)! Pero São Paulo ya es un poco mi casa (la mi casa).
+
+notes.it:
+1. Articoli: o, a, os, as e um, uma, uns, umas (uns dez reais = una decina di
+   reais). Si fondono con le preposizioni: de + o = do, de + a = da (do prédio,
+   da Dona Lurdes), em + o = no, em + a = na (na esquina), a + o = ao, a + a =
+   à (ao escritório, à direita), por + o = pelo (pelo celular).
+2. Presente regolare: falar fa eu falo, você/ele/ela/a gente fala, nós falamos,
+   vocês/eles/elas falam. I verbi in -er e in -ir cambiano la vocale: eu como,
+   você come, nós comemos, vocês comem; eu abro, você abre, nós abrimos, vocês
+   abrem. Visto che você e a gente vogliono la terza persona, nel parlato
+   brasiliano bastano poche forme: falo, fala, falamos, falam.
+3. Irregolari visti finora: ser (sou, é, somos, são), estar (estou, está,
+   estamos, estão), ter (tenho, tem, temos, têm), ir (vou, vai, vamos, vão),
+   querer (quero, quer), saber (sei, sabe). Ser dice che cos'è una cosa (o
+   cafezinho é uma delícia), estar come sta adesso (o pão está quentinho),
+   ficar dove si trova un luogo (a padaria fica na esquina), tem che una cosa
+   c'è (tem uma padaria?).
+4. Domande: quem?, o que?, onde?, de onde?, quanto?, quantos?, em que andar?
+   L'ordine delle parole spesso non cambia, basta l'intonazione: você mora
+   perto? Per dire sì si ripete il verbo (Tem, sim; Moro, sim). Il não va
+   davanti al verbo: não sei.
+5. Pronuncia, ripasso: vocali nasali (pão, bom, também); e finale letta i (de,
+   onde), con d e t che davanti a questo suono diventano "gi" e "ci"; o finale
+   letta u (tudo); r iniziale e rr come una h aspirata (Rafael, reais). Nel
+   parlato você diventa spesso cê.
+notes.en:
+1. Articles: o, a, os, as (the) and um, uma, uns, umas (a, some: uns dez reais
+   = about ten reais). They merge with prepositions: de + o = do, de + a = da
+   (do prédio, da Dona Lurdes), em + o = no, em + a = na (na esquina), a + o =
+   ao, a + a = à (ao escritório, à direita), por + o = pelo (pelo celular).
+2. Regular present tense: falar gives eu falo, você/ele/ela/a gente fala, nós
+   falamos, vocês/eles/elas falam. Verbs in -er and -ir change the vowel: eu
+   como, você come, nós comemos, vocês comem; eu abro, você abre, nós abrimos,
+   vocês abrem. Since você and a gente take the third person, everyday
+   Brazilian speech needs only a few forms: falo, fala, falamos, falam.
+3. Irregular verbs so far: ser (sou, é, somos, são), estar (estou, está,
+   estamos, estão), ter (tenho, tem, temos, têm), ir (vou, vai, vamos, vão),
+   querer (quero, quer), saber (sei, sabe). Ser says what something is (o
+   cafezinho é uma delícia), estar how it is right now (o pão está quentinho),
+   ficar where a place is (a padaria fica na esquina), tem that something
+   exists (tem uma padaria?).
+4. Questions: quem?, o que?, onde?, de onde?, quanto?, quantos?, em que
+   andar? The word order often stays the same and only the intonation changes:
+   você mora perto? To say yes, repeat the verb (Tem, sim; Moro, sim). Não
+   goes before the verb: não sei.
+5. Pronunciation review: nasal vowels (pão, bom, também); final e read as i
+   (de, onde), with d and t before that sound becoming "j" and "ch"; final o
+   read as u (tudo); initial r and rr like an English h (Rafael, reais). In
+   speech você often shrinks to cê.
+notes.es:
+1. Artículos: o, a, os, as (el, la, los, las) y um, uma, uns, umas (uns dez
+   reais = unos diez reales). Se funden con las preposiciones mucho más que
+   en español: de + o = do, de + a = da (do prédio, da Dona Lurdes), em + o =
+   no, em + a = na (na esquina), a + o = ao, a + a = à (ao escritório, à
+   direita), por + o = pelo (pelo celular).
+2. Presente regular: falar da eu falo, você/ele/ela/a gente fala, nós falamos,
+   vocês/eles/elas falam. Los verbos en -er y en -ir cambian la vocal: eu
+   como, você come, nós comemos, vocês comem; eu abro, você abre, nós abrimos,
+   vocês abrem. Como você y a gente llevan la tercera persona, en el habla de
+   Brasil bastan pocas formas: falo, fala, falamos, falam.
+3. Irregulares vistos hasta ahora: ser (sou, é, somos, são), estar (estou,
+   está, estamos, estão), ter (tenho, tem, temos, têm), ir (vou, vai, vamos,
+   vão), querer (quero, quer), saber (sei, sabe). Como en español, ser dice
+   qué es algo (o cafezinho é uma delícia) y estar cómo está ahora (o pão está
+   quentinho); ficar dice dónde queda un lugar (a padaria fica na esquina) y
+   tem, que algo existe (tem uma padaria? = ¿hay una panadería?).
+4. Preguntas: quem?, o que?, onde?, de onde?, quanto?, quantos?, em que
+   andar? En portugués no hay signos de apertura y el orden de las palabras a
+   menudo no cambia: basta la entonación (você mora perto?). Para decir que sí
+   se repite el verbo (Tem, sim; Moro, sim). Não va delante del verbo: não
+   sei.
+5. Pronunciación, repaso: vocales nasales (pão, bom, também); e final leída
+   como i (de, onde), con t y d que delante de ese sonido suenan casi como
+   "ch" y "dy"; o final leída como u (tudo); r inicial y rr como una jota
+   suave (Rafael, reais). En el habla, você se reduce a menudo a cê.
+
+ex1:
+- Desculpa, onde fica a estação de metrô?
+  it: Scusa, dov'è la stazione della metro?
+  en: Excuse me, where's the metro station?
+  es: Perdona, ¿dónde está la estación de metro?
+- Quantos anos você tem e de onde você é?
+  it: Quanti anni hai e di dove sei?
+  en: How old are you and where are you from?
+  es: ¿Cuántos años tienes y de dónde eres?
+- Na feira tem frutas muito boas.
+  it: Al mercato c'è della frutta molto buona.
+  en: There's some very good fruit at the street market.
+  es: En el mercadillo hay fruta muy buena.
+- Você sai do prédio e vira à esquerda.
+  it: Esci dal palazzo e giri a sinistra.
+  en: You come out of the building and turn left.
+  es: Sales del edificio y giras a la izquierda.
+
+ex2:
+- Eu [sou] italiana e [moro] em São Paulo.
+  it: Sono italiana e abito a San Paolo.
+  en: I'm Italian and I live in São Paulo.
+  es: Soy italiana y vivo en São Paulo.
+- O pão de queijo [está] quentinho e o café [é] uma delícia.
+  it: Il pão de queijo è bello caldo e il caffè è una delizia.
+  en: The cheese bread is nice and warm and the coffee is delicious.
+  es: El pão de queijo está calentito y el café es una delicia.
+- A padaria [fica] na [esquina].
+  it: La panetteria è all'angolo.
+  en: The bakery is on the corner.
+  es: La panadería está en la esquina.
+- [Tem] uma estação de metrô perto [do] escritório?
+  it: C'è una stazione della metro vicino all'ufficio?
+  en: Is there a metro station near the office?
+  es: ¿Hay una estación de metro cerca de la oficina?
+
+== 8 A1
+title: Planos para sábado
+title.it: Programmi per sabato
+title.en: Plans for Saturday
+title.es: Planes para el sábado
+
+dialogue:
+- Rafael, que horas são?
+  it: Rafael, che ore sono?
+  en: Rafael, what time is it (what hours are)?
+  es: Rafael, ¿qué hora es (qué horas son)?
+- São seis e meia. É sexta-feira, Giulia: vai para casa!
+  it: Sono le sei e mezza (sono sei e mezza). È venerdì, Giulia: vai a casa!
+  en: It's half past six (are six and half). It's Friday, Giulia: go home!
+  es: Son las seis y media (son seis y media). Es viernes, Giulia: ¡vete a casa (ve para casa)!
+- Já vou, já vou. E amanhã, você tem planos?
+  it: Arrivo, arrivo (già vado, già vado). E domani hai programmi?
+  en: I'm going, I'm going (already I go). And tomorrow, have you got any plans?
+  es: Ya voy, ya voy. ¿Y mañana tienes planes?
+- A gente vai ao Ibirapuera andar de bicicleta. Quer ir com a gente?
+  it: Andiamo (la gente va) all'Ibirapuera a fare un giro in bicicletta (andare di bicicletta). Vuoi venire con noi (con la gente)?
+  en: We're going (the people goes) to Ibirapuera to ride bikes (walk of bicycle). Do you want to come with us (with the people)?
+  es: Vamos (la gente va) a Ibirapuera a montar en bici (andar de bicicleta). ¿Quieres venir con nosotros (con la gente)?
+- Quero, claro! A que horas?
+  it: Sì, certo (voglio, chiaro)! A che ora?
+  en: Yes, of course (I want, clear)! What time?
+  es: ¡Sí, claro (quiero, claro)! ¿A qué hora?
+- Às duas da tarde, no portão três. Do seu apartamento dá para ir de ônibus.
+  it: Alle due del pomeriggio, al cancello tre. Da casa tua (dal tuo appartamento) ci puoi andare (dà per andare) in autobus.
+  en: At two in the afternoon, at gate three. From your flat you can go (it gives to go) by bus.
+  es: A las dos de la tarde, en la puerta tres. Desde tu piso se puede ir (da para ir) en autobús.
+- Combinado. Eu levo água e umas frutas da feira.
+  it: D'accordo (combinato). Porto io (io porto) l'acqua e un po' di frutta (alcune frutte) del mercato.
+  en: Deal (agreed). I'll bring (I bring) water and some fruit from the street market.
+  es: Hecho (combinado). Yo llevo agua y algo de fruta (unas frutas) del mercadillo.
+- Ótimo! E não esquece o protetor solar, viu? O sol aqui é forte.
+  it: Ottimo! E non dimenticare la crema solare (il protettore solare), eh (hai visto)? Qui il sole è forte.
+  en: Great! And don't forget the sunscreen (solar protector), OK (saw)? The sun here is strong.
+  es: ¡Estupendo! Y no te olvides del protector solar, ¿eh (viste)? Aquí el sol pega fuerte (el sol aquí es fuerte).
+- Pode deixar! Até amanhã!
+  it: Contaci (puoi lasciare)! A domani!
+  en: Will do (you can leave it)! See you tomorrow!
+  es: ¡Déjalo de mi cuenta (puedes dejar)! ¡Hasta mañana!
+
+notes.it:
+1. I giorni: segunda-feira (lunedì), terça-feira, quarta-feira, quinta-feira,
+   sexta-feira, sábado, domingo. Vengono dal latino della Chiesa, che contava
+   i giorni a partire dalla domenica. Nel parlato si dice solo segunda,
+   terça, sexta: na sexta = venerdì. Feira è la stessa parola del mercato
+   della lezione 4, dal latino feria, "giorno di festa".
+2. L'ora: que horas são? São seis e meia; é uma hora; é meio-dia. A che ora?
+   Às duas (a + as), à uma. Da manhã, da tarde, da noite = del mattino, del
+   pomeriggio, della sera. Curiosità: quando dettano un numero di telefono, i
+   brasiliani dicono meia per il 6 (da meia dúzia, mezza dozzina).
+3. Já vou (letteralmente "già vado") = arrivo, sto andando. Pode deixar!
+   (letteralmente "puoi lasciare") = ci penso io, contaci. Combinado! =
+   d'accordo, affare fatto. A gente vai = andiamo, con il verbo alla terza
+   persona singolare.
+4. Vai para casa!, não esquece!: nel Brasile parlato l'imperativo con você ha
+   le stesse forme del presente (vai, esquece); nella lingua curata si dice vá,
+   não esqueça. Ir + infinito va senza a: vamos comer = mangiamo, andiamo a
+   mangiare. Esquecer = dimenticare; levar = portare con sé (eu levo água =
+   l'acqua la porto io).
+5. L'Ibirapuera è il grande parco di San Paolo, con molti ingressi numerati
+   (portões). Nel fine settimana i paulistani ci vanno a correre, ad andare in
+   bicicletta e a fare picnic. La città è vicinissima al
+   Tropico del Capricorno: il sole è forte anche d'inverno.
+notes.en:
+1. Days of the week: segunda-feira (Monday), terça-feira, quarta-feira,
+   quinta-feira, sexta-feira, sábado, domingo. They come from Church Latin,
+   which numbered the days starting from Sunday. In speech people just say
+   segunda, terça, sexta: na sexta = on Friday. Feira is the same word as the
+   street market in lesson 4, from Latin feria, "feast day".
+2. Telling the time: que horas são? São seis e meia; é uma hora; é meio-dia.
+   At what time? Às duas (a + as), à uma. Da manhã, da tarde, da noite = in
+   the morning, in the afternoon, in the evening. Fun fact: when reading out a
+   phone number, Brazilians say meia for 6 (from meia dúzia, half a dozen).
+3. Já vou (literally "already I go") = I'm coming, I'm off. Pode deixar!
+   (literally "you can leave") = leave it to me, will do. Combinado! = deal,
+   agreed. A gente vai = we're going, with the verb in the third person
+   singular.
+4. Vai para casa!, não esquece!: in spoken Brazilian Portuguese the imperative
+   with você uses the present-tense forms (vai, esquece); careful speech says
+   vá, não esqueça. Ir + infinitive takes no a: vamos comer = let's eat.
+   Esquecer = to forget; levar = to bring along (eu levo água = I'll bring
+   water).
+5. Ibirapuera is São Paulo's big park, with many numbered gates (portões). At
+   weekends paulistanos go there to run, cycle and have picnics. The city lies
+   very close to the Tropic of Capricorn, so the sun is strong even in winter.
+notes.es:
+1. Los días: segunda-feira (lunes), terça-feira, quarta-feira, quinta-feira,
+   sexta-feira, sábado, domingo. Vienen del latín de la Iglesia, que numeraba
+   los días a partir del domingo. En el habla se dice solo segunda,
+   terça, sexta: na sexta = el viernes. Feira es la misma palabra que el
+   mercadillo de la lección 4, del latín feria, "día de fiesta", como nuestra
+   feria.
+2. La hora: que horas são? (literalmente "¿qué horas son?") São seis e meia;
+   é uma hora; é meio-dia. Às duas (a + as), à uma = a las dos, a la una. Da
+   manhã, da tarde, da noite = de la mañana, de la tarde, de la noche. Como
+   curiosidad, al dictar un número de teléfono en Brasil se dice meia para el
+   6 (de meia dúzia, media docena).
+3. Já vou = ya voy, igual que en español. Pode deixar! (literalmente "puedes
+   dejar") = déjalo de mi cuenta, hecho. Combinado! = ¡hecho!, ¡trato hecho!
+   En a gente vai (vamos) el verbo va en tercera persona del singular.
+4. Vai para casa!, não esquece!: en el Brasil hablado el imperativo con você
+   usa las formas del presente (vai, esquece); en la lengua cuidada se dice
+   vá, não esqueça. Ir + infinitivo va sin a: vamos comer = vamos a comer. Y
+   esquecer = olvidar se usa en Brasil sin preposición: não esquece o
+   protetor = no te olvides del protector.
+5. Ibirapuera es el gran parque de São Paulo, con muchas entradas numeradas
+   (portões). Los fines de semana los paulistanos van a correr, a montar en
+   bici y a hacer pícnics. La ciudad está muy cerca del trópico de
+   Capricornio, así que el sol pega fuerte incluso en invierno.
+
+ex1:
+- Que horas são? São duas e meia.
+  it: Che ore sono? Sono le due e mezza.
+  en: What time is it? It's half past two.
+  es: ¿Qué hora es? Son las dos y media.
+- Na sexta-feira eu saio do escritório às seis.
+  it: Venerdì esco dall'ufficio alle sei.
+  en: On Friday I leave the office at six.
+  es: El viernes salgo de la oficina a las seis.
+- Você quer ir ao parque com a gente?
+  it: Vuoi venire al parco con noi?
+  en: Do you want to come to the park with us?
+  es: ¿Quieres venir al parque con nosotros?
+- Amanhã é sábado e eu não tenho planos.
+  it: Domani è sabato e non ho programmi.
+  en: Tomorrow is Saturday and I haven't got any plans.
+  es: Mañana es sábado y no tengo planes.
+
+ex2:
+- [Que] [horas] são?
+  it: Che ore sono?
+  en: What time is it?
+  es: ¿Qué hora es?
+- Às duas da [tarde], no [portão] três.
+  it: Alle due del pomeriggio, al cancello tre.
+  en: At two in the afternoon, at gate three.
+  es: A las dos de la tarde, en la puerta tres.
+- Quer ir [com] a [gente]?
+  it: Vuoi venire con noi?
+  en: Do you want to come with us?
+  es: ¿Quieres venir con nosotros?
+- Não [esquece] o protetor [solar]!
+  it: Non dimenticare la crema solare!
+  en: Don't forget the sunscreen!
+  es: ¡No te olvides del protector solar!

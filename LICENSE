@@ -1,0 +1,29 @@
+Lingua Onde personal-use license
+
+Copyright (c) 2026 Matteo
+
+This project is for private learning. You may download it, build it, run it,
+and change it for yourself. You may keep those changes on your own machine.
+
+You may not:
+
+- sell the app, the lessons, or a changed version of either
+- charge for access to it
+- put it into a product or service that is paid, commercial, or run for a business
+- use it as a company tool, including inside a business
+- host it as a service for other people
+
+You may share the unmodified source for other people's private learning, with
+this license file kept in the copy. Your own changes stay private.
+
+The lessons were written for this app. They are not taken from a published
+course book. Do not add those books, their recordings, or their product name
+to this project.
+
+The font file assets/NotoSans-Regular.ttf is Noto Sans. It stays under the
+SIL Open Font License in assets/NotoSans-OFL.txt. That license is separate
+from this one. Piper voices are not included here. The app downloads them
+from their public release when you ask it to, and those voices keep their
+own license.
+
+This project is provided as is, with no warranty.

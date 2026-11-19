@@ -1,0 +1,1149 @@
+# Portuguese (Brazil), with notes on European Portuguese. Cast: Giulia (architect from
+# Turin, new in São Paulo), Rafael (her colleague), Dona Lurdes (runs the bakery on the
+# corner), Tiago (Rafael's cousin from Lisbon, from lesson 51).
+course: pt
+name: Portuguese (Brazil) – from first words to mastery
+name.it: Portoghese (Brasile) – dalle prime parole alla padronanza
+name.en: Portuguese (Brazil) – from first words to mastery
+name.es: Portugués (Brasil) – de las primeras palabras al dominio
+
+== 1 A1
+title: Primeiro dia
+title.it: Il primo giorno
+title.en: The first day
+title.es: El primer día
+
+dialogue:
+- Oi! Você é a arquiteta nova?
+  it: Ciao! Sei (lei è) la nuova architetta?
+  en: Hi! Are you the new architect?
+  es: ¡Hola! ¿Eres (usted es) la nueva arquitecta?
+- Sou, sim. Meu nome é Giulia. Muito prazer!
+  it: Sì, sono io (sono, sì). Mi chiamo Giulia (il mio nome è Giulia). Piacere (molto piacere)!
+  en: Yes, I am (am, yes). My name is Giulia. Pleased to meet you (much pleasure)!
+  es: Sí, soy yo (soy, sí). Me llamo Giulia (mi nombre es Giulia). ¡Encantada (mucho placer)!
+- O prazer é meu. Eu sou o Rafael. Tudo bem?
+  it: Il piacere è mio. Io sono Rafael (il Rafael). Tutto bene?
+  en: The pleasure is mine. I'm Rafael (the Rafael). How are you (all well)?
+  es: El placer es mío. Yo soy Rafael (el Rafael). ¿Qué tal (todo bien)?
+- Tudo bem, e você? Desculpa, eu ainda falo pouco português.
+  it: Tutto bene, e tu? Scusa, parlo ancora poco portoghese.
+  en: All good, and you? Sorry, I still speak very little Portuguese.
+  es: Todo bien, ¿y tú? Perdona, todavía hablo poco portugués.
+- Imagina! Você fala muito bem. De onde você é?
+  it: Ma figurati (immagina)! Parli molto bene. Di dove sei?
+  en: Not at all (imagine)! You speak very well. Where are you from (from where are you)?
+  es: ¡Qué va (imagina)! Hablas muy bien. ¿De dónde eres?
+- Sou italiana, de Turim. E você, é daqui de São Paulo?
+  it: Sono italiana, di Torino. E tu, sei di qui, di San Paolo?
+  en: I'm Italian, from Turin. And you, are you from here, from São Paulo?
+  es: Soy italiana, de Turín. ¿Y tú eres de aquí, de São Paulo?
+- Sou, sim. Sou paulistano. Bem-vinda ao escritório!
+  it: Sì (sono, sì). Sono di San Paolo (paulistano). Benvenuta in ufficio!
+  en: Yes (am, yes). I'm a São Paulo native (paulistano). Welcome to the office!
+  es: Sí (soy, sí). Soy de São Paulo (paulistano). ¡Bienvenida a la oficina!
+- Obrigada, Rafael! Que bom estar aqui.
+  it: Grazie (obbligata), Rafael! Che bello essere qui.
+  en: Thank you (obliged), Rafael! It's great (how good) to be here.
+  es: ¡Gracias (obligada), Rafael! Qué bien (qué bueno) estar aquí.
+
+notes.it:
+1. Você è il "tu" del Brasile di tutti i giorni, ma il verbo va alla terza
+   persona, come con il nostro "lei": você fala, você é. Deriva da vossa mercê
+   ("vostra grazia"). In Portogallo l'informale è tu con la seconda persona (tu
+   falas), e você può suonare distaccato.
+2. Obrigada / obrigado: il "grazie" concorda con chi parla. Giulia dice obrigada,
+   Rafael direbbe obrigado (come il vecchio "obbligato" italiano). Anche bem-vinda
+   concorda; a un uomo si dice bem-vindo.
+3. Sou, sim: in portoghese si risponde spesso ripetendo il verbo invece di dire
+   solo sim (Você é...? Sou.). Imagina! = figurati, ma no.
+4. O Rafael, a Giulia: in Brasile, soprattutto a San Paolo, e in Portogallo si
+   mette spesso l'articolo davanti ai nomi, come nell'italiano del Nord ("la
+   Giulia"). Paulistano = della città di San Paolo; paulista = dello stato.
+5. Pronuncia: in gran parte del Brasile d e t davanti al suono i (e la e
+   finale si legge i) diventano come "gi" e "ci": de suona "gi", onde quasi
+   "ondgi". La o finale non accentata suona u (tudo = "tudu") e muito ha un
+   suono nasale anche senza n ("muintu").
+notes.en:
+1. Você is the everyday "you" in Brazil, but the verb goes in the third person,
+   like Italian "lei": você fala, você é. It comes from vossa mercê ("your
+   grace"). In Portugal the informal form is tu with the second person (tu falas),
+   and você can sound distant.
+2. Obrigada / obrigado: "thank you" agrees with the speaker (it means "obliged").
+   Giulia says obrigada, Rafael would say obrigado. Bem-vinda agrees too; to a man
+   you say bem-vindo.
+3. Sou, sim: Portuguese speakers often say yes by repeating the verb rather than
+   just sim (Você é...? Sou.). Imagina! = not at all, don't mention it.
+4. O Rafael, a Giulia: in Brazil, especially in São Paulo, and in Portugal people
+   often put the article before first names, as in northern Italian speech ("la
+   Giulia"). Paulistano = from São Paulo city; paulista = from the state.
+5. Pronunciation: in most of Brazil d and t before an i sound (and a final e
+   is read as i) sound like "j" and "ch": de sounds like "jee", onde roughly like
+   "ondjee". An unstressed final o sounds like u (tudo = "toodoo"), and muito has
+   a nasal sound even without an n ("mweentoo").
+notes.es:
+1. Você es el "tú" cotidiano de Brasil, pero el verbo va en tercera persona,
+   como con nuestro "usted": você fala, você é. Viene de vossa mercê ("vuestra
+   merced"), igual que usted. En Portugal la forma informal es tu con la
+   segunda persona (tu falas), y você puede sonar distante.
+2. Obrigada / obrigado: el "gracias" concuerda con quien habla (significa
+   "obligado", como el antiguo "muy obligado" español). Giulia dice obrigada,
+   Rafael diría obrigado. Bem-vinda también concuerda; a un hombre se le dice
+   bem-vindo.
+3. Sou, sim: en portugués se responde a menudo repitiendo el verbo en lugar
+   de decir solo sim (Você é...? Sou.). Imagina! = ¡qué va!, ¡no hay de qué!
+4. O Rafael, a Giulia: en Brasil, sobre todo en São Paulo, y en Portugal se
+   pone a menudo el artículo delante del nombre de pila, como en el habla
+   coloquial de muchas zonas de España ("la Giulia"). Paulistano = de la
+   ciudad de São Paulo; paulista = del estado.
+5. Pronunciación: en gran parte de Brasil, t y d delante de un sonido i (y la
+   e final se lee i) suenan como la ch de "chico" y como una "y" fuerte, casi
+   "dy": de suena casi "dyi", onde casi "óndyi". La o final átona suena u
+   (tudo = "tudu") y muito tiene un sonido nasal aunque no lleve n
+   ("muintu").
+
+ex1:
+- Muito prazer, eu sou a Giulia.
+  it: Piacere, io sono Giulia.
+  en: Pleased to meet you, I'm Giulia.
+  es: Encantada, soy Giulia.
+- Você é de Turim?
+  it: Sei di Torino?
+  en: Are you from Turin?
+  es: ¿Eres de Turín?
+- Eu falo um pouco de português.
+  it: Parlo un po' di portoghese.
+  en: I speak a little Portuguese.
+  es: Hablo un poco de portugués.
+- O Rafael é paulistano.
+  it: Rafael è di San Paolo.
+  en: Rafael is from São Paulo.
+  es: Rafael es de São Paulo.
+
+ex2:
+- [Muito] [prazer]! Meu nome é Rafael.
+  it: Piacere! Mi chiamo Rafael.
+  en: Pleased to meet you! My name is Rafael.
+  es: ¡Encantado! Me llamo Rafael.
+- De [onde] você [é]?
+  it: Di dove sei?
+  en: Where are you from?
+  es: ¿De dónde eres?
+- [Obrigada]! Que bom estar [aqui].
+  it: Grazie! Che bello essere qui.
+  en: Thank you! It's great to be here.
+  es: ¡Gracias! Qué bien estar aquí.
+- [Tudo] [bem], e você?
+  it: Tutto bene, e tu?
+  en: All good, and you?
+  es: Todo bien, ¿y tú?
+
+== 2 A1
+title: Na padaria da Dona Lurdes
+title.it: Alla panetteria di Dona Lurdes
+title.en: At Dona Lurdes's bakery
+title.es: En la panadería de Dona Lurdes
+
+dialogue:
+- Bom dia, Dona Lurdes! Esta é a Giulia, minha colega nova.
+  it: Buongiorno, Dona Lurdes! Questa è Giulia, la mia nuova collega.
+  en: Good morning, Dona Lurdes! This is Giulia, my new colleague.
+  es: ¡Buenos días, Dona Lurdes! Esta es Giulia, mi nueva compañera.
+- Bom dia, querida! Seja bem-vinda. O que vai ser?
+  it: Buongiorno, cara! Benvenuta (sia benvenuta). Cosa prendi (cosa va a essere)?
+  en: Good morning, dear! Welcome (be welcome). What'll it be (what goes to be)?
+  es: ¡Buenos días, cariño! Bienvenida (sea bienvenida). ¿Qué te pongo (qué va a ser)?
+- Um pão de queijo e um cafezinho, por favor.
+  it: Un pão de queijo (pane di formaggio) e un caffè (caffettino), per favore.
+  en: A cheese bread (bread of cheese) and a small coffee (little coffee), please.
+  es: Un pão de queijo (pan de queso) y un café corto (cafecito), por favor.
+- E para mim, um pão na chapa e um suco de laranja.
+  it: E per me, un panino tostato sulla piastra (pane sulla piastra) e una spremuta d'arancia (succo di arancia).
+  en: And for me, a griddle-toasted roll (bread on the griddle) and an orange juice.
+  es: Y para mí, un panecillo tostado a la plancha (pan en la plancha) y un zumo de naranja.
+- Que delícia, está quentinho! Quanto é?
+  it: Che buono (che delizia), è bello caldo (caldino)! Quant'è?
+  en: Delicious (what a delight), it's nice and warm (warm-little)! How much is it?
+  es: ¡Qué rico (qué delicia), está calentito! ¿Cuánto es?
+- Dá vinte e oito e cinquenta. Pode ser no Pix?
+  it: Fanno (dà) ventotto e cinquanta. Va bene con il Pix (può essere nel Pix)?
+  en: That comes to (gives) twenty-eight fifty. Is Pix OK (can be on the Pix)?
+  es: Son (da) veintiocho con cincuenta. ¿Puede ser con Pix (puede ser en el Pix)?
+- Ainda não tenho Pix. Pode ser em dinheiro?
+  it: Non ho ancora il Pix. Va bene in contanti (può essere in denaro)?
+  en: I don't have Pix yet. Is cash OK (can be in money)?
+  es: Todavía no tengo Pix. ¿Puede ser en efectivo (en dinero)?
+- Claro, querida. Obrigada e volte sempre!
+  it: Certo, cara. Grazie e torna a trovarci (torna sempre)!
+  en: Of course, dear. Thank you and come again (return always)!
+  es: Claro, cariño. ¡Gracias y vuelve pronto (vuelva siempre)!
+
+notes.it:
+1. Pão de queijo, cafezinho, pão na chapa: classici della padaria, il
+   bar-panetteria brasiliano. Il pão de queijo viene dal Minas Gerais ed è fatto
+   con fecola di manioca e formaggio; il cafezinho è un caffè piccolo, spesso già
+   zuccherato, simbolo di ospitalità; il pão na chapa è un panino imburrato e
+   tostato sulla piastra, tipico di San Paolo.
+2. Diminutivi in -inho/-inha: cafezinho, quentinho. Non indicano solo la
+   dimensione ma anche affetto o piacere (quentinho = bello caldo). In Brasile si
+   sentono ovunque.
+3. Quanto é? / Dá vinte e oito e cinquenta: dar si usa per il totale, come il
+   nostro "fa". La moneta è il real (plurale reais). Il Pix è il sistema di
+   pagamento istantaneo con cui in Brasile si paga tutto, anche un caffè.
+4. Dona + nome: titolo rispettoso e affettuoso per una signora (Dona Lurdes); per
+   un uomo si dice Seu (da senhor), come in Seu João. Si usa con il nome, mai con
+   il cognome.
+5. Falso amico: volte sempre viene da voltar = tornare, mentre "voltare" si dice
+   virar. Pronuncia: ão (pão, não) è un dittongo nasale, quasi un "aun" detto con
+   il naso.
+notes.en:
+1. Pão de queijo, cafezinho, pão na chapa: classics of the padaria, the Brazilian
+   bakery-café. Pão de queijo comes from Minas Gerais and is made with cassava
+   starch and cheese; a cafezinho is a small coffee, often served already sweet, a
+   symbol of hospitality; pão na chapa is a buttered roll toasted on the griddle,
+   typical of São Paulo.
+2. Diminutives in -inho/-inha: cafezinho, quentinho. They show affection or
+   pleasure as well as size (quentinho = nice and warm). In Brazil you hear them
+   everywhere.
+3. Quanto é? / Dá vinte e oito e cinquenta: dar is used for a total ("it comes
+   to"). The currency is the real (plural reais). Pix is the instant payment
+   system Brazilians use for everything, even a coffee.
+4. Dona + first name: a respectful, warm title for a woman (Dona Lurdes); for a
+   man it's Seu (from senhor), as in Seu João. It goes with the first name, never
+   the surname.
+5. False friend for Italians: volte sempre comes from voltar = to come back, while
+   Italian "voltare" (to turn) is virar. Pronunciation: ão (pão, não) is a nasal
+   diphthong, roughly "ow" said through the nose.
+notes.es:
+1. Pão de queijo, cafezinho, pão na chapa: clásicos de la padaria, la
+   panadería-cafetería brasileña. El pão de queijo viene de Minas Gerais y se
+   hace con almidón de mandioca y queso; el cafezinho es un café pequeño, a
+   menudo ya azucarado, símbolo de hospitalidad; el pão na chapa es un
+   panecillo con mantequilla tostado a la plancha, típico de São Paulo.
+2. Diminutivos en -inho/-inha: cafezinho, quentinho. No indican solo tamaño,
+   sino también cariño o gusto (quentinho = calentito), como nuestro -ito. En
+   Brasil se oyen por todas partes.
+3. Quanto é? / Dá vinte e oito e cinquenta: dar se usa para el total, como
+   nuestro "son" o "sale a". La moneda es el real (plural reais). El Pix es el
+   sistema de pago instantáneo con el que en Brasil se paga todo, incluso un
+   café.
+4. Dona + nombre: tratamiento respetuoso y cariñoso para una señora (Dona
+   Lurdes), como nuestro "doña"; a un hombre se le dice Seu (de senhor), como
+   en Seu João. Se usa con el nombre de pila, nunca con el apellido.
+5. Falso amigo: volte sempre viene de voltar = volver, mientras que
+   "voltear, dar la vuelta" se dice virar. Pronunciación: ão (pão, não) es un
+   diptongo nasal, casi un "aun" dicho por la nariz.
+
+ex1:
+- Um cafezinho e um pão de queijo, por favor.
+  it: Un caffè e un pão de queijo, per favore.
+  en: A small coffee and a cheese bread, please.
+  es: Un café corto y un pão de queijo, por favor.
+- Quanto é o suco de laranja?
+  it: Quant'è la spremuta d'arancia?
+  en: How much is the orange juice?
+  es: ¿Cuánto es el zumo de naranja?
+- A Dona Lurdes é muito simpática.
+  it: Dona Lurdes è molto simpatica.
+  en: Dona Lurdes is very friendly.
+  es: Dona Lurdes es muy simpática.
+- Ainda não tenho conta no banco.
+  it: Non ho ancora un conto in banca.
+  en: I don't have a bank account yet.
+  es: Todavía no tengo cuenta en el banco.
+
+ex2:
+- O que vai [ser]?
+  it: Cosa prendi?
+  en: What'll it be?
+  es: ¿Qué te pongo?
+- [Para] mim, um pão na [chapa].
+  it: Per me, un panino tostato sulla piastra.
+  en: For me, a griddle-toasted roll.
+  es: Para mí, un panecillo tostado a la plancha.
+- [Pode] ser em [dinheiro]?
+  it: Va bene in contanti?
+  en: Is cash OK?
+  es: ¿Puede ser en efectivo?
+- Obrigada e [volte] [sempre]!
+  it: Grazie e torna a trovarci!
+  en: Thank you and come again!
+  es: ¡Gracias y vuelve pronto!
+
+== 3 A1
+title: Onde fica o metrô?
+title.it: Dov'è la metropolitana?
+title.en: Where's the metro?
+title.es: ¿Dónde está el metro?
+
+dialogue:
+- Rafael, tem uma estação de metrô perto daqui?
+  it: Rafael, c'è (ha) una stazione della metro qui vicino (vicino di qui)?
+  en: Rafael, is there (has) a metro station near here (near of-here)?
+  es: Rafael, ¿hay (tiene) una estación de metro cerca de aquí?
+- Tem, sim. Fica a duas quadras da padaria. Você vai a pé?
+  it: Sì, c'è (ha, sì). Si trova (resta) a due isolati dalla panetteria. Ci vai a piedi?
+  en: Yes, there is (has, yes). It's (it stays) two blocks from the bakery. Are you walking (going on foot)?
+  es: Sí, hay (tiene, sí). Está (queda) a dos manzanas de la panadería. ¿Vas andando (vas a pie)?
+- Vou, sim. Eu moro perto da Avenida Paulista, não é longe.
+  it: Sì (vado, sì). Abito vicino all'Avenida Paulista, non è lontano.
+  en: Yes (I go, yes). I live near Avenida Paulista, it isn't far.
+  es: Sí (voy, sí). Vivo cerca de la Avenida Paulista, no está lejos (no es lejos).
+- Então é fácil: você sai da padaria, vira à direita e segue reto.
+  it: Allora è facile: esci dalla panetteria, giri a destra e vai sempre dritto (segui dritto).
+  en: Then it's easy: you come out of the bakery, turn right and keep straight on (follow straight).
+  es: Entonces es fácil: sales de la panadería, giras a la derecha y sigues todo recto (sigues recto).
+- E depois?
+  it: E poi?
+  en: And then?
+  es: ¿Y después?
+- Depois tem um banco na esquina. A estação fica do lado, à esquerda.
+  it: Poi c'è (ha) una banca all'angolo. La stazione è lì accanto (resta del lato), a sinistra.
+  en: Then there's (has) a bank on the corner. The station is right next to it (stays at-the side), on the left.
+  es: Después hay (tiene) un banco en la esquina. La estación está justo al lado (queda del lado), a la izquierda.
+- Perfeito, obrigada! Até amanhã.
+  it: Perfetto, grazie! A domani (fino a domani).
+  en: Perfect, thanks! See you tomorrow (until tomorrow).
+  es: ¡Perfecto, gracias! Hasta mañana.
+- Até amanhã! Ah, e às seis o metrô fica lotado, viu?
+  it: A domani! Ah, e alle sei la metro diventa (resta) strapiena, eh (hai visto)?
+  en: See you tomorrow! Oh, and at six the metro gets (stays) packed, OK (saw)?
+  es: ¡Hasta mañana! Ah, y a las seis el metro se pone (queda) a tope, ¿vale (viste)?
+
+notes.it:
+1. Onde fica...? / Fica a duas quadras: ficar significa "trovarsi" per i luoghi
+   fissi, ma anche "diventare" (o metrô fica lotado) e "restare". La quadra è
+   l'isolato; in Portogallo si dice quarteirão.
+2. Tem uma estação? / Tem, sim: nel Brasile parlato tem prende il posto di há per
+   dire "c'è, ci sono". In Portogallo e nello scritto formale si usa há (há um
+   banco na esquina).
+3. Falsi amici: eu moro = abito (morar = abitare, mentre "morire" si dice morrer);
+   esquina = angolo della strada, da non confondere con esquerda = sinistra; banco
+   = banca, ma anche panchina.
+4. À direita, à esquerda: à è la fusione di a + a (preposizione e articolo), e
+   l'accento grave la segnala. Seguir reto = andare sempre dritto (in Portogallo
+   seguir em frente).
+5. Viu? alla fine della frase (letteralmente "hai visto?") è come il nostro "eh?"
+   o "mi raccomando" e addolcisce un consiglio. Então = allora.
+notes.en:
+1. Onde fica...? / Fica a duas quadras: ficar means "to be located" for fixed
+   places, but also "to become" (o metrô fica lotado) and "to stay". A quadra is a
+   city block; in Portugal it's a quarteirão.
+2. Tem uma estação? / Tem, sim: in spoken Brazilian Portuguese tem replaces há for
+   "there is, there are". In Portugal and in formal writing you use há (há um
+   banco na esquina).
+3. False friends for Italians: eu moro = I live (morar = to live, while Italian
+   "morire", to die, is morrer); esquina = street corner, not to be confused with
+   esquerda = left; banco = bank, but also bench.
+4. À direita, à esquerda: à is a + a (preposition and article) merged, and the
+   grave accent marks it. Seguir reto = to go straight on (in Portugal seguir em
+   frente).
+5. Viu? at the end of a sentence (literally "saw?") works like "OK?" or "mind you"
+   and softens a piece of advice. Então = so, then.
+notes.es:
+1. Onde fica...? / Fica a duas quadras: ficar significa "estar situado" para
+   los lugares fijos, como nuestro "queda a dos manzanas", pero también
+   "ponerse, volverse" (o metrô fica lotado) y "quedarse". La quadra es la
+   manzana; en Portugal se dice quarteirão.
+2. Tem uma estação? / Tem, sim: en el portugués hablado de Brasil tem ocupa el
+   lugar de há para decir "hay". En Portugal y en la escritura formal se usa
+   há (há um banco na esquina), pariente de nuestro "hay".
+3. Falsos amigos y parecidos: eu moro = vivo (morar = vivir, residir; "morir"
+   se dice morrer); esquina significa lo mismo que en español, pero no hay
+   que confundirla con esquerda = izquierda; banco, como en español, es tanto
+   el del dinero como el de sentarse.
+4. À direita, à esquerda: à es la fusión de a + a (preposición y artículo),
+   como nuestro "al" pero en femenino, y el acento grave la señala. Seguir
+   reto = seguir todo recto (en Portugal seguir em frente).
+5. Viu? al final de la frase (literalmente "¿viste?") funciona como nuestro
+   "¿eh?" o "¿vale?" y suaviza un consejo. Então = entonces.
+
+ex1:
+- A padaria fica perto do metrô.
+  it: La panetteria è vicino alla metro.
+  en: The bakery is near the metro.
+  es: La panadería está cerca del metro.
+- Eu moro a três quadras daqui.
+  it: Abito a tre isolati da qui.
+  en: I live three blocks from here.
+  es: Vivo a tres manzanas de aquí.
+- Tem um banco na esquina?
+  it: C'è una banca all'angolo?
+  en: Is there a bank on the corner?
+  es: ¿Hay un banco en la esquina?
+- Você vira à esquerda e segue reto.
+  it: Giri a sinistra e vai sempre dritto.
+  en: You turn left and go straight on.
+  es: Giras a la izquierda y sigues todo recto.
+
+ex2:
+- Onde [fica] a estação?
+  it: Dov'è la stazione?
+  en: Where's the station?
+  es: ¿Dónde está la estación?
+- [Tem] uma padaria na [esquina].
+  it: C'è una panetteria all'angolo.
+  en: There's a bakery on the corner.
+  es: Hay una panadería en la esquina.
+- Eu [moro] perto da Avenida Paulista, não é [longe].
+  it: Abito vicino all'Avenida Paulista, non è lontano.
+  en: I live near Avenida Paulista, it isn't far.
+  es: Vivo cerca de la Avenida Paulista, no está lejos.
+- Você vira à [direita] e segue [reto].
+  it: Giri a destra e vai sempre dritto.
+  en: You turn right and go straight on.
+  es: Giras a la derecha y sigues todo recto.
+
+== 26 A2
+title: Planos para o feriadão
+title.it: Programmi per il ponte
+title.en: Plans for the long weekend
+title.es: Planes para el puente
+
+dialogue:
+- E aí, Giulia, como foi o fim de semana?
+  it: Allora (e lì), Giulia, com'è andato (come fu) il fine settimana?
+  en: So (and there), Giulia, how was the weekend?
+  es: Bueno (y ahí), Giulia, ¿qué tal el fin de semana (cómo fue)?
+- Foi ótimo! No sábado fui ao Ibirapuera e andei de bicicleta a tarde toda.
+  it: È stato ottimo! Sabato sono andata all'Ibirapuera e sono andata in bicicletta (andai di bicicletta) tutto il pomeriggio.
+  en: It was great! On Saturday I went to Ibirapuera and rode a bike (walked of bicycle) all afternoon.
+  es: ¡Fue estupendo (fue óptimo)! El sábado fui a Ibirapuera y monté en bici (anduve de bicicleta) toda la tarde.
+- E no domingo?
+  it: E domenica?
+  en: And on Sunday?
+  es: ¿Y el domingo?
+- No domingo choveu muito, então fiquei em casa e assisti a uma série.
+  it: Domenica è piovuto (piovve) molto, quindi sono rimasta a casa e ho guardato (assistetti a) una serie.
+  en: On Sunday it rained a lot, so I stayed home and watched (assisted at) a series.
+  es: El domingo llovió mucho, así que me quedé en casa y vi (asistí a) una serie.
+- Que pena! Olha, no feriadão a gente vai para Ubatuba. Quer ir com a gente?
+  it: Che peccato (che pena)! Senti (guarda), per il ponte andiamo (la gente va) a Ubatuba. Vuoi venire con noi (con la gente)?
+  en: What a shame (what pity)! Listen (look), for the long weekend we're going (the people goes) to Ubatuba. Do you want to come with us (with the people)?
+  es: ¡Qué pena! Mira, en el puente nos vamos (la gente va) a Ubatuba. ¿Quieres venir con nosotros (con la gente)?
+- Quero, claro! Mas eu nunca fui ao litoral paulista. Como é?
+  it: Sì, certo (voglio, chiaro)! Ma non sono mai stata (non fui mai) sulla costa paulista. Com'è?
+  en: Yes, of course (I want, clear)! But I've never been (never went) to the São Paulo coast. What's it like (how is it)?
+  es: ¡Sí, claro (quiero, claro)! Pero nunca he estado (nunca fui) en la costa paulista. ¿Cómo es?
+- É lindo. Quando eu era criança, a minha família passava todo verão lá.
+  it: È bellissimo. Quando ero bambino, la mia famiglia passava lì ogni estate.
+  en: It's beautiful. When I was a child, my family used to spend (spent) every summer there.
+  es: Es precioso (es lindo). Cuando era niño, mi familia pasaba allí todos los veranos (todo verano).
+- Vocês vão de carro?
+  it: Andate in macchina (di carro)?
+  en: Are you going by car (of car)?
+  es: ¿Vais en coche (de carro)?
+- Vamos, sim. Vamos sair na sexta bem cedinho, por causa do trânsito.
+  it: Sì (andiamo, sì). Partiremo (andiamo a uscire) venerdì prestissimo (bene prestino), per via del traffico.
+  en: Yes (we go, yes). We're going to leave on Friday really early (well early-little), because of the traffic.
+  es: Sí (vamos, sí). Vamos a salir el viernes muy tempranito (bien tempranito), por el tráfico.
+
+notes.it:
+1. Fui, andei, choveu, fiquei, assisti: pretérito perfeito, il passato semplice
+   per le azioni concluse. Il portoghese lo usa dove l'italiano usa il
+   passato prossimo: fui ao Ibirapuera = sono andata all'Ibirapuera. Fui è il
+   passato sia di ir sia di ser (foi ótimo = è stato ottimo).
+2. Eu era criança, a família passava: l'imperfeito descrive lo sfondo e le
+   abitudini, come il nostro imperfetto. Nunca fui = non sono mai stata.
+   Attenzione, tenho ido non vuol dire "sono andato" ma "ultimamente ci vado
+   spesso".
+3. A gente vai = noi andiamo: a gente (letteralmente "la gente") è il "noi" di
+   tutti i giorni in Brasile, con il verbo alla terza persona singolare. Vamos
+   sair = partiremo: ir + infinito è il modo più comune di parlare del futuro.
+4. Falsi amici: que pena! = che peccato!; trânsito = traffico; feriado = giorno
+   festivo (le ferie sono férias) e feriadão = ponte lungo; andar de bicicleta =
+   andare in bicicletta. Nel parlato si dice anche assisti uma série, senza a.
+5. Cultura: l'Ibirapuera è il grande parco di San Paolo; Ubatuba è una località di
+   mare sulla costa nord dello stato. Nei feriadões le strade verso il litorale
+   sono intasate, per questo si parte bem cedinho, prestissimo.
+notes.en:
+1. Fui, andei, choveu, fiquei, assisti: pretérito perfeito, the simple past for
+   finished actions. Portuguese uses it where Italian uses the passato prossimo:
+   fui ao Ibirapuera = sono andata all'Ibirapuera. Fui is the past of both ir and
+   ser (foi ótimo = it was great).
+2. Eu era criança, a família passava: the imperfeito describes background and
+   habits, like the Italian imperfetto. Nunca fui = I've never been. Careful, tenho
+   ido doesn't mean "I have gone" but "I've been going a lot lately".
+3. A gente vai = we're going: a gente (literally "the people") is the everyday
+   "we" in Brazil, with the verb in the third person singular. Vamos sair =
+   we'll leave: ir + infinitive is the most common way to talk about the future.
+4. False friends for Italians: que pena! = what a shame! (Italian "che pena" is
+   closer to "how pitiful"); trânsito = traffic; feriado = public holiday
+   (holidays are férias) and feriadão = long weekend; andar de bicicleta = to ride
+   a bike. In speech people also say assisti uma série, without a.
+5. Culture: Ibirapuera is São Paulo's big park; Ubatuba is a beach town on the
+   north coast of the state. On long weekends the roads to the coast are jammed,
+   which is why people leave bem cedinho, really early.
+notes.es:
+1. Fui, andei, choveu, fiquei, assisti: pretérito perfeito, el pasado simple
+   para las acciones terminadas. El portugués lo usa incluso donde en España
+   se diría "he ido": hoje fui ao parque = hoy he ido al parque. Fui es el
+   pasado tanto de ir como de ser, igual que en español (foi ótimo = fue
+   estupendo).
+2. Eu era criança, a família passava: el imperfeito describe el fondo y las
+   costumbres, como nuestro imperfecto. Nunca fui = nunca he estado. Cuidado:
+   tenho ido no significa "he ido", sino "últimamente voy a menudo".
+3. A gente vai = vamos (nosotros): a gente (literalmente "la gente") es el
+   "nosotros" cotidiano en Brasil, con el verbo en tercera persona del
+   singular. Vamos sair = vamos a salir: ir + infinitivo es la forma más
+   común de hablar del futuro, y en portugués va sin a (vamos sair, no vamos
+   a sair).
+4. Vocabulario: que pena! = ¡qué pena!, como en español; trânsito = tráfico;
+   feriado = día festivo (las vacaciones son férias) y feriadão = puente;
+   andar de bicicleta = montar en bici. Falso amigo: assistir a uma série =
+   ver una serie, no "asistir"; en el habla también se dice assisti uma
+   série, sin a.
+5. Cultura: Ibirapuera es el gran parque de São Paulo; Ubatuba es una
+   localidad de playa en la costa norte del estado. En los feriadões las
+   carreteras hacia el litoral se atascan; por eso se sale bem cedinho,
+   tempranísimo.
+
+ex1:
+- No sábado eu fiquei em casa porque choveu.
+  it: Sabato sono rimasta a casa perché è piovuto.
+  en: On Saturday I stayed home because it rained.
+  es: El sábado me quedé en casa porque llovió.
+- Quando eu era criança, andava de bicicleta todo dia.
+  it: Quando ero bambino, andavo in bicicletta tutti i giorni.
+  en: When I was a child, I rode my bike every day.
+  es: Cuando era niño, montaba en bici todos los días.
+- A gente vai sair cedo por causa do trânsito.
+  it: Partiremo presto per via del traffico.
+  en: We're going to leave early because of the traffic.
+  es: Vamos a salir temprano por el tráfico.
+- Você já foi a Ubatuba?
+  it: Sei mai stata a Ubatuba?
+  en: Have you ever been to Ubatuba?
+  es: ¿Has estado alguna vez en Ubatuba?
+
+ex2:
+- Como [foi] o fim de semana?
+  it: Com'è andato il fine settimana?
+  en: How was the weekend?
+  es: ¿Qué tal el fin de semana?
+- No domingo [choveu] e eu [fiquei] em casa.
+  it: Domenica è piovuto e sono rimasta a casa.
+  en: On Sunday it rained and I stayed home.
+  es: El domingo llovió y me quedé en casa.
+- Quando eu [era] criança, [passava] o verão na praia.
+  it: Quando ero bambino, passavo l'estate al mare.
+  en: When I was a child, I used to spend the summer at the beach.
+  es: Cuando era niño, pasaba el verano en la playa.
+- No feriadão a [gente] [vai] para o litoral.
+  it: Per il ponte andiamo al mare.
+  en: For the long weekend we're going to the coast.
+  es: En el puente nos vamos a la costa.
+
+== 51 B1
+title: Lisboa ou São Paulo?
+title.it: Lisbona o San Paolo?
+title.en: Lisbon or São Paulo?
+title.es: ¿Lisboa o São Paulo?
+
+dialogue:
+- Gente, preciso da opinião de vocês: me ofereceram um projeto de dois anos em Lisboa.
+  it: Ragazzi, ho bisogno del vostro parere: mi hanno offerto un progetto di due anni a Lisbona.
+  en: Guys, I need your opinion: I've been offered a two-year project in Lisbon.
+  es: Chicos, necesito vuestra opinión: me han ofrecido un proyecto de dos años en Lisboa.
+- Que boa notícia! Acho que deves aceitar. Lisboa é uma cidade espetacular, e eu mostro-te tudo.
+  it: Che bella notizia! Secondo me dovresti accettare. Lisbona è una città spettacolare, e ti faccio vedere tutto io.
+  en: What great news! I think you should accept. Lisbon is a spectacular city, and I'll show you everything.
+  es: ¡Qué buena noticia! Creo que deberías aceptar. Lisboa es una ciudad espectacular, y yo te la enseño entera.
+- Calma, Tiago. Não acho que ela deva decidir com pressa.
+  it: Calma, Tiago. Non credo che debba decidere in fretta.
+  en: Easy, Tiago. I don't think she should decide in a hurry.
+  es: Calma, Tiago. No creo que deba decidir con prisas.
+- Concordo. Embora a proposta seja ótima, aqui eu já me sinto em casa.
+  it: Sono d'accordo. Sebbene la proposta sia ottima, qui mi sento già a casa.
+  en: I agree. Even though the offer is great, I already feel at home here.
+  es: Estoy de acuerdo. Aunque la propuesta sea estupenda, aquí ya me siento como en casa.
+- Pois, mas o ordenado em euros faz toda a diferença, não achas?
+  it: Già, ma lo stipendio in euro fa tutta la differenza, non credi?
+  en: Sure, but a salary in euros makes all the difference, don't you think?
+  es: Ya, pero un sueldo en euros lo cambia todo, ¿no crees?
+- Depende. Para mim, o mais importante é que ela esteja feliz no trabalho.
+  it: Dipende. Per me, la cosa più importante è che lei sia felice nel lavoro.
+  en: It depends. For me, what matters most is that she's happy in her job.
+  es: Depende. Para mí, lo más importante es que ella esté contenta en el trabajo.
+- Ó primo, tu só dizes isso porque não queres que ela se vá embora...
+  it: Eh, cugino, tu dici così solo perché non vuoi che se ne vada...
+  en: Come on, cousin, you're only saying that because you don't want her to leave...
+  es: Venga, primo, tú solo dices eso porque no quieres que se vaya...
+- Que nada! Tomara que ela fique, claro, mas a decisão é dela.
+  it: Macché! Spero proprio che resti, certo, ma la decisione è sua.
+  en: Nonsense! I do hope she stays, of course, but it's her decision.
+  es: ¡Qué va! Ojalá se quede, claro, pero la decisión es suya.
+- Vou fazer assim: quando eu tiver mais detalhes, eu decido. Talvez eles aceitem que eu trabalhe metade do tempo daqui.
+  it: Farò così: quando avrò più dettagli, deciderò. Magari accettano che io lavori metà del tempo da qui.
+  en: Here's what I'll do: when I have more details, I'll decide. Maybe they'll agree to me working half the time from here.
+  es: Voy a hacer una cosa: cuando tenga más detalles, decidiré. Quizá acepten que trabaje la mitad del tiempo desde aquí.
+- Boa ideia. Enquanto isso, mais três cafezinhos, Dona Lurdes!
+  it: Buona idea. Nel frattempo, altri tre caffè, Dona Lurdes!
+  en: Good idea. Meanwhile, three more coffees, Dona Lurdes!
+  es: Buena idea. Mientras tanto, ¡tres cafés más, Dona Lurdes!
+
+notes.it:
+1. Acho que você deve / Não acho que ela deva: come in spagnolo, i verbi di
+   opinione vogliono l'indicativo quando sono affermativi e il congiuntivo quando
+   sono negativi, mentre l'italiano usa il congiuntivo in entrambi i casi ("credo
+   che debba").
+2. Il congiuntivo presente segue anche embora (sebbene), é importante que, tomara
+   que (speriamo che) e talvez (forse) quando precede il verbo: embora a proposta
+   seja ótima, tomara que ela fique, talvez eles aceitem.
+3. Quando eu tiver mais detalhes: è il congiuntivo futuro, una particolarità del
+   portoghese. Dopo quando e se, per un fatto futuro, si usa questo tempo, mentre
+   l'italiano usa il futuro (quando avrò). Si forma dalla terza persona plurale
+   del passato: tiveram dà tiver, fizeram dà fizer.
+4. Tiago parla portoghese europeo: deves, tu dizes, não queres, não achas? (tu con
+   la seconda persona); mostro-te, con il pronome dopo il verbo (in Brasile eu te
+   mostro); ir-se embora riflessivo (que ela se vá embora, in Brasile que ela vá
+   embora); ordenado per salário; pois per dire "già, certo".
+5. Ir embora = andarsene; que nada! = macché, ma figurati; in a decisão é
+   dela, dela (di lei) è più chiaro di sua, che in Brasile si riferisce
+   soprattutto a você. Quanto alla pronuncia, a Lisbona le vocali non accentate quasi
+   spariscono e la s finale suona come "sc"; per un italiano il brasiliano, più
+   aperto, all'inizio è più facile.
+notes.en:
+1. Acho que você deve / Não acho que ela deva: as in Spanish, verbs of opinion
+   take the indicative when affirmative and the subjunctive when negative, while
+   Italian uses the subjunctive in both cases ("credo che debba").
+2. The present subjunctive also follows embora (although), é importante que,
+   tomara que (let's hope) and talvez (maybe) when it comes before the verb:
+   embora a proposta seja ótima, tomara que ela fique, talvez eles aceitem.
+3. Quando eu tiver mais detalhes: this is the future subjunctive, a Portuguese
+   speciality. After quando and se, for a future event, Portuguese uses this
+   tense, while Italian uses the future (quando avrò). It is built from the third
+   person plural of the past: tiveram gives tiver, fizeram gives fizer.
+4. Tiago speaks European Portuguese: deves, tu dizes, não queres, não achas? (tu
+   with the second person); mostro-te, with the pronoun after the verb (Brazil
+   says eu te mostro); reflexive ir-se embora (que ela se vá embora, in Brazil que
+   ela vá embora); ordenado for salário; pois meaning "right, sure".
+5. Ir embora = to leave, go away; que nada! = nonsense, not at all; in a
+   decisão é dela, dela (hers) is clearer than sua, which in Brazil mostly refers
+   to você. As for pronunciation, in Lisbon unstressed vowels almost disappear
+   and a final s sounds like "sh"; for an Italian, the more open Brazilian sound
+   is easier at first.
+notes.es:
+1. Acho que você deve / Não acho que ela deva: igual que en español, los
+   verbos de opinión llevan indicativo cuando son afirmativos y subjuntivo
+   cuando son negativos (creo que debe, no creo que deba). Aquí el portugués
+   te lo pone fácil.
+2. El presente de subjuntivo sigue también a embora (aunque), é importante
+   que, tomara que (ojalá) y talvez (quizá) cuando va delante del verbo:
+   embora a proposta seja ótima, tomara que ela fique, talvez eles aceitem.
+   Atención, embora pide siempre subjuntivo, también para hechos reales.
+3. Quando eu tiver mais detalhes: es el futuro de subjuntivo, una
+   particularidad del portugués. Tras quando y se, para un hecho futuro, se
+   usa este tiempo, mientras que el español usa el presente (cuando tenga,
+   si tengo). Se forma a partir de la tercera persona del plural del pasado:
+   tiveram da tiver, fizeram da fizer. El español antiguo también lo tenía
+   (cuando tuviere), y hoy sobrevive en los textos legales.
+4. Tiago habla portugués europeo: deves, tu dizes, não queres, não achas? (tu
+   con la segunda persona, como nuestro tú); mostro-te, con el pronombre
+   detrás del verbo (en Brasil eu te mostro); ir-se embora reflexivo (que ela
+   se vá embora, en Brasil que ela vá embora); ordenado por salário; pois
+   para decir "ya, claro".
+5. Ir embora = irse, marcharse; que nada! = ¡qué va!; en a decisão é dela,
+   dela (de ella) es más claro que sua, que en Brasil se refiere sobre todo a
+   você. En cuanto a la pronunciación, en Lisboa las vocales átonas casi
+   desaparecen y la s final suena como "sh"; para un hispanohablante, el
+   brasileño, más abierto, resulta más fácil al principio.
+
+ex1:
+- Não acho que seja uma boa ideia.
+  it: Non credo che sia una buona idea.
+  en: I don't think it's a good idea.
+  es: No creo que sea una buena idea.
+- Tomara que faça sol no fim de semana.
+  it: Speriamo che nel fine settimana ci sia il sole.
+  en: Let's hope it's sunny at the weekend.
+  es: Ojalá haga sol el fin de semana.
+- Quando você tiver tempo, me liga.
+  it: Quando avrai tempo, chiamami.
+  en: When you have time, give me a call.
+  es: Cuando tengas tiempo, llámame.
+- Embora eu goste de Lisboa, prefiro ficar em São Paulo.
+  it: Sebbene Lisbona mi piaccia, preferisco restare a San Paolo.
+  en: Although I like Lisbon, I'd rather stay in São Paulo.
+  es: Aunque me gusta Lisboa, prefiero quedarme en São Paulo.
+
+ex2:
+- Não acho que ela [deva] decidir com [pressa].
+  it: Non credo che debba decidere in fretta.
+  en: I don't think she should decide in a hurry.
+  es: No creo que deba decidir con prisas.
+- [Tomara] que ela [fique].
+  it: Speriamo che resti.
+  en: Let's hope she stays.
+  es: Ojalá se quede.
+- Quando eu [tiver] mais detalhes, eu [decido].
+  it: Quando avrò più dettagli, deciderò.
+  en: When I have more details, I'll decide.
+  es: Cuando tenga más detalles, decidiré.
+- O mais importante é que você [esteja] feliz.
+  it: La cosa più importante è che tu sia felice.
+  en: What matters most is that you're happy.
+  es: Lo más importante es que estés feliz.
+
+== 76 B2
+title: O casarão do Bixiga
+title.it: La vecchia villa del Bixiga
+title.en: The old mansion in Bixiga
+title.es: La vieja casona del Bixiga
+
+dialogue:
+- Senhor Otávio, com todo o respeito, demolir o casarão seria um erro, inclusive do ponto de vista comercial.
+  it: Signor Otávio, con tutto il rispetto, demolire la villa sarebbe un errore, anche dal punto di vista commerciale.
+  en: Mr Otávio, with all due respect, demolishing the old house would be a mistake, even from a commercial point of view.
+  es: Señor Otávio, con todo respeto, derribar la casona sería un error, incluso desde el punto de vista comercial.
+- A senhora me desculpe, mas eu não vou pagar o pato por um prédio caindo aos pedaços.
+  it: Mi scusi, signora, ma non sarò io a rimetterci per un edificio che cade a pezzi.
+  en: Forgive me, madam, but I'm not going to be the one who pays for a building that's falling to pieces.
+  es: Perdone, señora, pero no voy a pagar yo el pato por un edificio que se cae a pedazos.
+- Entendo a sua preocupação. No entanto, se restaurarmos a fachada, o empreendimento ganha valor e o senhor evita uma briga com o bairro.
+  it: Capisco la sua preoccupazione. Tuttavia, se restauriamo la facciata, il progetto acquista valore e lei evita uno scontro con il quartiere.
+  en: I understand your concern. However, if we restore the façade, the development gains value and you avoid a fight with the neighbourhood.
+  es: Entiendo su preocupación. Sin embargo, si restauramos la fachada, la promoción gana valor y usted se ahorra un enfrentamiento con el barrio.
+- Briga? Os vizinhos que se virem. Eu comprei o terreno, não a opinião deles.
+  it: Scontro? I vicini si arrangino. Io ho comprato il terreno, non la loro opinione.
+  en: A fight? The neighbours can fend for themselves. I bought the land, not their opinion.
+  es: ¿Enfrentamiento? Que se las apañen los vecinos. Yo compré el terreno, no su opinión.
+- Com licença, senhor Otávio, só um detalhe: o imóvel está em processo de tombamento.
+  it: Mi scusi, signor Otávio, solo un dettaglio: per l'immobile è in corso la procedura di vincolo storico.
+  en: Excuse me, Mr Otávio, just one detail: the building is in the process of being listed as a heritage site.
+  es: Disculpe, señor Otávio, solo un detalle: el inmueble está en proceso de catalogación como patrimonio protegido.
+- Como é que é? E vocês só me falam isso agora?
+  it: Come sarebbe a dire? E me lo dite solo adesso?
+  en: Come again? And you're only telling me this now?
+  es: ¿Cómo es eso? ¿Y me lo dicen ahora?
+- Nós avisamos no relatório do mês passado, na página doze. Talvez o senhor não tenha lido.
+  it: L'abbiamo segnalato nella relazione del mese scorso, a pagina dodici. Forse lei non l'ha letta.
+  en: We flagged it in last month's report, on page twelve. Perhaps you didn't read it.
+  es: Lo avisamos en el informe del mes pasado, en la página doce. Quizá usted no lo haya leído.
+- Tá bom, tá bom. Não adianta chorar o leite derramado. O que vocês sugerem?
+  it: Va bene, va bene. È inutile piangere sul latte versato. Cosa suggerite?
+  en: All right, all right. No use crying over spilt milk. What do you suggest?
+  es: Está bien, está bien. De nada sirve llorar sobre la leche derramada. ¿Qué proponen?
+- Manter a fachada, construir atrás e abrir o térreo para o comércio do bairro. Todo mundo sai ganhando.
+  it: Mantenere la facciata, costruire dietro e aprire il piano terra ai negozi del quartiere. Ci guadagnano tutti.
+  en: Keep the façade, build behind it and open the ground floor to local shops. Everybody wins.
+  es: Mantener la fachada, construir detrás y abrir la planta baja a los comercios del barrio. Todo el mundo sale ganando.
+- Vou pensar. Mas não vou ficar em cima do muro por muito tempo: quero uma proposta até sexta.
+  it: Ci penserò. Ma non resterò a lungo alla finestra: voglio una proposta entro venerdì.
+  en: I'll think about it. But I won't sit on the fence for long: I want a proposal by Friday.
+  es: Lo pensaré. Pero no voy a nadar entre dos aguas mucho tiempo: quiero una propuesta para el viernes.
+
+notes.it:
+1. Registro: Giulia usa o senhor, a senhora con la terza persona, attenuatori
+   (com todo o respeito, no entanto) e il condizionale (seria um erro). Otávio,
+   man mano che si irrita, scivola nel colloquiale: que se virem, como é que é?,
+   tá bom (= está bom).
+2. Modi di dire: pagar o pato (pagare l'anatra) = pagare per colpe altrui,
+   rimetterci; chorar o leite derramado = piangere sul latte versato; ficar em
+   cima do muro (stare sopra il muro) = non prendere posizione; sair ganhando =
+   uscirne vincitori; virar-se = arrangiarsi.
+3. Se restaurarmos: congiuntivo futuro dopo se, per una condizione futura
+   possibile (l'italiano usa il presente o il futuro). In talvez o senhor não
+   tenha lido, talvez + congiuntivo passato è un modo cortese di dare la colpa
+   a qualcuno.
+4. Falsi amici: tombamento = vincolo di tutela del patrimonio (da tombar,
+   registrare nell'inventario, come nella Torre do Tombo, l'archivio storico di
+   Lisbona), niente a che vedere con "tomba", che si dice túmulo; briga = lite,
+   rissa (non la "briga" di "darsi la briga"); relatório = relazione scritta;
+   térreo = piano terra.
+5. Cultura: il Bixiga (ufficialmente Bela Vista) è lo storico quartiere italiano
+   di San Paolo, pieno di casarões, vecchie case signorili, e di cantine e
+   pizzerie. Empreendimento è la parola dei costruttori per un progetto
+   immobiliare.
+notes.en:
+1. Register: Giulia uses o senhor, a senhora with the third person, softeners
+   (com todo o respeito, no entanto) and the conditional (seria um erro). Otávio,
+   as he gets annoyed, slides into colloquial speech: que se virem, como é que é?,
+   tá bom (= está bom).
+2. Idioms: pagar o pato (to pay the duck) = to take the blame or the loss for
+   others; chorar o leite derramado = to cry over spilt milk; ficar em cima do
+   muro (to stay on top of the wall) = to sit on the fence; sair ganhando = to
+   come out ahead; virar-se = to fend for yourself.
+3. Se restaurarmos: future subjunctive after se, for a possible future condition
+   (Italian uses the present or the future). Talvez o senhor não tenha lido:
+   talvez + perfect subjunctive, a polite way to put the blame on someone.
+4. False friends for Italians: tombamento = heritage listing (from tombar, to
+   record in an inventory, as in the Torre do Tombo, Lisbon's national archive),
+   nothing to do with Italian "tomba", grave, which is túmulo; briga = quarrel,
+   fight (not the Italian "briga", bother); relatório = written report; térreo =
+   ground floor.
+5. Culture: Bixiga (officially Bela Vista) is São Paulo's historic Italian
+   neighbourhood, full of casarões, old mansions, and of cantinas and pizzerias.
+   Empreendimento is the developers' word for a real estate project.
+notes.es:
+1. Registro: Giulia usa o senhor, a senhora con la tercera persona, como
+   nuestro usted, atenuadores (com todo o respeito, no entanto) y el
+   condicional (seria um erro). Otávio, a medida que se irrita, se desliza
+   hacia lo coloquial: que se virem, como é que é?, tá bom (= está bom).
+2. Expresiones: pagar o pato = pagar el pato, igual que en español; chorar o
+   leite derramado = llorar sobre la leche derramada (a lo hecho, pecho);
+   ficar em cima do muro (quedarse encima del muro) = no mojarse, nadar entre
+   dos aguas; sair ganhando = salir ganando; virar-se = apañárselas.
+3. Se restaurarmos: futuro de subjuntivo tras se, para una condición futura
+   posible (el español usa el presente de indicativo: si restauramos). En
+   talvez o senhor não tenha lido, talvez + pretérito perfecto de subjuntivo
+   (quizá no lo haya leído) es una manera cortés de echarle la culpa a
+   alguien.
+4. Falsos amigos: tombamento = catalogación como patrimonio protegido (de
+   tombar, registrar en un inventario, como en la Torre do Tombo, el archivo
+   histórico de Lisboa), nada que ver con "tumbar" ni con "tumba", que se
+   dice túmulo; briga = pelea, riña; relatório = informe escrito, no
+   "relato"; prédio = edificio, no "predio"; térreo = planta baja.
+5. Cultura: el Bixiga (oficialmente Bela Vista) es el histórico barrio
+   italiano de São Paulo, lleno de casarões, viejas casonas señoriales, y de
+   cantinas y pizzerías. Empreendimento es la palabra de los constructores
+   para una promoción inmobiliaria.
+
+ex1:
+- Com todo o respeito, o senhor está enganado.
+  it: Con tutto il rispetto, lei si sbaglia.
+  en: With all due respect, you're mistaken.
+  es: Con todo respeto, usted se equivoca.
+- Não adianta chorar o leite derramado.
+  it: È inutile piangere sul latte versato.
+  en: There's no use crying over spilt milk.
+  es: De nada sirve llorar sobre la leche derramada.
+- Se vocês restaurarem o prédio, todo mundo sai ganhando.
+  it: Se restaurate l'edificio, ci guadagnano tutti.
+  en: If you restore the building, everybody wins.
+  es: Si restauráis el edificio, todo el mundo sale ganando.
+- Ele sempre fica em cima do muro.
+  it: Lui non prende mai posizione.
+  en: He always sits on the fence.
+  es: Él siempre nada entre dos aguas.
+
+ex2:
+- Eu não vou [pagar] o [pato].
+  it: Non sarò io a rimetterci.
+  en: I'm not going to be the one who pays for it.
+  es: Yo no voy a pagar el pato.
+- O imóvel está em processo de [tombamento].
+  it: Per l'immobile è in corso la procedura di vincolo storico.
+  en: The building is in the process of being listed.
+  es: El inmueble está en proceso de catalogación como patrimonio protegido.
+- Se [restaurarmos] a [fachada], o prédio ganha valor.
+  it: Se restauriamo la facciata, l'edificio acquista valore.
+  en: If we restore the façade, the building gains value.
+  es: Si restauramos la fachada, el edificio gana valor.
+- Talvez o senhor não [tenha] [lido] o relatório.
+  it: Forse lei non ha letto la relazione.
+  en: Perhaps you haven't read the report.
+  es: Quizá usted no haya leído el informe.
+
+== 151 C1
+title: Na boca do povo
+title.it: Sulla bocca di tutti
+title.en: The talk of the town
+title.es: En boca de todos
+
+dialogue:
+- Olha a manchete: “Casarão centenário do Bixiga escapa da demolição após mobilização de moradores”.
+  it: Guarda il titolo: “Villa centenaria del Bixiga scampa alla demolizione dopo la mobilitazione dei residenti”.
+  en: Look at the headline: “Century-old Bixiga mansion escapes demolition after residents mobilise”.
+  es: Mira el titular: «Casona centenaria del Bixiga se salva de la demolición tras la movilización de los vecinos».
+- “Segundo apurou a reportagem, a incorporadora desistiu do projeto original e estuda preservar a fachada.”
+  it: “Secondo quanto appurato dalla redazione, l'impresa immobiliare ha rinunciato al progetto originale e sta valutando di preservare la facciata.”
+  en: “The developer, our reporters have learned, has dropped the original project and is considering preserving the façade.”
+  es: «Según ha podido saber este periódico, la promotora ha renunciado al proyecto original y estudia conservar la fachada.»
+- “Procurada, a empresa não se manifestou até o fechamento desta edição.”
+  it: “Contattata, l'azienda non ha rilasciato commenti fino alla chiusura di questa edizione.”
+  en: “When contacted, the company had not commented by the time this edition went to press.”
+  es: «Consultada por este periódico, la empresa no había hecho declaraciones al cierre de esta edición.»
+- Típico. Se a gente não tivesse feito barulho, o casarão já estaria no chão.
+  it: Tipico. Se non avessimo fatto chiasso, la villa sarebbe già rasa al suolo.
+  en: Typical. If we hadn't kicked up a fuss, the old house would already be rubble.
+  es: Típico. Si no hubiéramos hecho ruido, la casona ya estaría en el suelo.
+- E se o Otávio tivesse lido o relatório, teria economizado um bom dinheiro.
+  it: E se Otávio avesse letto la relazione, avrebbe risparmiato un bel po' di soldi.
+  en: And if Otávio had read the report, he'd have saved himself a fair bit of money.
+  es: Y si Otávio hubiera leído el informe, se habría ahorrado un buen pellizco.
+- Ih, meu celular. Alô? Sou eu mesma. Pois não, pode falar.
+  it: Oh, il mio cellulare. Pronto? Sono io. Certo, prego, mi dica.
+  en: Oh, my phone. Hello? Speaking. Certainly, go ahead.
+  es: Uy, mi móvil. ¿Diga? Sí, soy yo. Claro, dígame.
+- Uma entrevista ao vivo? Agradeço muito o convite. Eu poderia falar amanhã de manhã, caso seja conveniente para a rádio.
+  it: Un'intervista in diretta? La ringrazio molto per l'invito. Potrei parlare domani mattina, qualora vada bene per la radio.
+  en: A live interview? Thank you very much for the invitation. I could talk tomorrow morning, if that suits the station.
+  es: ¿Una entrevista en directo? Le agradezco mucho la invitación. Podría hablar mañana por la mañana, en caso de que a la emisora le venga bien.
+- Combinado, então: às nove em ponto. Obrigada e tenha um bom dia.
+  it: D'accordo, allora: alle nove in punto. Grazie e buona giornata.
+  en: Agreed, then: nine o'clock sharp. Thank you and have a good day.
+  es: Quedamos así, entonces: a las nueve en punto. Gracias y que tenga un buen día.
+- Gente, vou dar entrevista na rádio! Se eu soubesse que ia ficar famosa, não tinha saído de moletom velho na foto do jornal...
+  it: Ragazzi, mi intervistano alla radio! Se avessi saputo che sarei diventata famosa, non sarei finita sul giornale con quella felpa vecchia...
+  en: Guys, I'm going to be on the radio! If I'd known I was going to be famous, I wouldn't have been in the newspaper photo in an old hoodie...
+  es: ¡Chicos, voy a salir en la radio! Si llego a saber que me iba a hacer famosa, no salgo con una sudadera vieja en la foto del periódico...
+- Deixa de ser boba, menina. Agora você é a italiana mais famosa do Bixiga.
+  it: Non fare la sciocca, ragazza mia. Adesso sei l'italiana più famosa del Bixiga.
+  en: Don't be silly, girl. You're now the most famous Italian in Bixiga.
+  es: No seas boba, niña. Ahora eres la italiana más famosa del Bixiga.
+- Calma lá, Dona Lurdes. No Bixiga a concorrência é pesada: aqui até a padroeira é italiana.
+  it: Piano, Dona Lurdes. Al Bixiga la concorrenza è agguerrita: qui persino la santa patrona è italiana.
+  en: Steady on, Dona Lurdes. The competition in Bixiga is fierce: here even the patron saint is Italian.
+  es: Para el carro, Dona Lurdes. En el Bixiga hay mucha competencia: aquí hasta la patrona es italiana.
+
+notes.it:
+1. Linguaggio giornalistico: segundo apurou a reportagem (secondo quanto appurato
+   dai nostri giornalisti) e procurada, a empresa não se manifestou até o
+   fechamento desta edição sono formule fisse della stampa brasiliana. I titoli
+   usano il presente (escapa) e omettono gli articoli, come quelli italiani;
+   incorporadora = impresa che sviluppa e vende un progetto immobiliare.
+2. Ipotesi: se a gente não tivesse feito barulho, o casarão já estaria no chão
+   unisce una condizione passata e una conseguenza presente; se tivesse lido,
+   teria economizado è l'irrealtà nel passato. Nel parlato il condizionale viene
+   spesso sostituito dall'imperfetto (não tinha saído = não teria saído) e il
+   congiuntivo imperfetto copre anche il passato (se eu soubesse).
+3. Al telefono e nel cambio di registro: Alô? (in Portogallo Estou? o Sim?), sou
+   eu mesma = sono io; pois não = certo, prego (non è una negazione); caso +
+   congiuntivo = qualora. Subito dopo Giulia torna al tono amichevole con Gente,
+   vou dar entrevista!
+4. Sfumature colloquiali: deixa de ser boba = non fare la sciocca (deixa è
+   l'imperativo di tu, usato con você nel parlato); menina = ragazza, detto con
+   affetto anche a una donna adulta; calma lá! = piano, aspetta un attimo; fazer
+   barulho = fare chiasso, protestare.
+5. Cultura: estar na boca do povo = essere sulla bocca di tutti. La patrona del
+   Bixiga, Nossa Senhora Achiropita, arrivò con gli immigrati calabresi di Rossano,
+   e la sua festa di agosto è una delle feste di strada più grandi della città.
+notes.en:
+1. Press language: segundo apurou a reportagem (as our reporters have learned)
+   and procurada, a empresa não se manifestou até o fechamento desta edição are
+   set formulas of the Brazilian press. Headlines use the present (escapa) and
+   drop articles, as in Italian; incorporadora = a company that develops and
+   sells a real estate project.
+2. Hypotheses: se a gente não tivesse feito barulho, o casarão já estaria no chão
+   combines a past condition with a present result; se tivesse lido, teria
+   economizado is the unreal past. In speech the conditional is often replaced by
+   the imperfect (não tinha saído = não teria saído) and the imperfect
+   subjunctive also covers the past (se eu soubesse).
+3. On the phone, and switching register: Alô? (in Portugal Estou? or Sim?), sou eu
+   mesma = speaking; pois não = certainly, how can I help (not a negative!); caso
+   + subjunctive = in case, should. Straight afterwards Giulia goes back to a
+   friendly tone with Gente, vou dar entrevista!
+4. Colloquial nuance: deixa de ser boba = don't be silly (deixa is the tu
+   imperative, used with você in speech); menina = girl, said affectionately even
+   to a grown woman; calma lá! = hold on, steady on; fazer barulho = to make a
+   fuss, to protest.
+5. Culture: estar na boca do povo = to be the talk of the town. Bixiga's patron
+   saint, Nossa Senhora Achiropita, came with Calabrian immigrants from Rossano,
+   and her August festival is one of the city's biggest street parties.
+notes.es:
+1. Lenguaje periodístico: segundo apurou a reportagem (según ha podido saber
+   este periódico) y procurada, a empresa não se manifestou até o fechamento
+   desta edição (consultada, la empresa no había hecho declaraciones al
+   cierre de esta edición) son fórmulas fijas de la prensa brasileña. Los
+   titulares usan el presente (escapa) y omiten los artículos, como los
+   españoles; incorporadora = empresa que promueve y vende un proyecto
+   inmobiliario, una promotora.
+2. Hipótesis: se a gente não tivesse feito barulho, o casarão já estaria no
+   chão une una condición pasada y una consecuencia presente; se tivesse
+   lido, teria economizado es la irrealidad en el pasado (si hubiera leído,
+   habría ahorrado). En el habla el condicional se sustituye a menudo por el
+   imperfecto (não tinha saído = não teria saído) y el imperfecto de
+   subjuntivo cubre también el pasado (se eu soubesse), algo parecido a
+   nuestro coloquial "si lo llego a saber, no salgo".
+3. Al teléfono y al cambiar de registro: Alô? (en Portugal Estou? o Sim?,
+   como nuestro ¿Diga? o ¿Sí?), sou eu mesma = soy yo; pois não = claro,
+   dígame (¡no es una negación!); caso + subjuntivo = en caso de que. Justo
+   después Giulia vuelve al tono amistoso con Gente, vou dar entrevista!
+4. Matices coloquiales: deixa de ser boba = no seas boba (deixa es el
+   imperativo de tu, usado con você en el habla); menina = niña, chica, dicho
+   con cariño incluso a una mujer adulta, como nuestro "niña"; calma lá! =
+   ¡para el carro!, ¡un momento!; fazer barulho = hacer ruido, armar jaleo,
+   protestar.
+5. Cultura: estar na boca do povo = estar en boca de todos. La patrona del
+   Bixiga, Nossa Senhora Achiropita, llegó con los inmigrantes calabreses de
+   Rossano, y su fiesta de agosto es una de las fiestas callejeras más
+   grandes de la ciudad.
+
+ex1:
+- Se eu tivesse sabido antes, teria ligado para você.
+  it: Se l'avessi saputo prima, ti avrei chiamato.
+  en: If I'd known earlier, I'd have called you.
+  es: Si lo hubiera sabido antes, te habría llamado.
+- Procurada, a prefeitura não se manifestou.
+  it: Contattato, il comune non ha rilasciato commenti.
+  en: When contacted, city hall did not comment.
+  es: Consultado, el ayuntamiento no hizo declaraciones.
+- Caso seja possível, eu gostaria de remarcar a reunião.
+  it: Qualora fosse possibile, vorrei spostare la riunione.
+  en: If possible, I'd like to reschedule the meeting.
+  es: En caso de que sea posible, me gustaría cambiar la fecha de la reunión.
+- Pois não, em que posso ajudar?
+  it: Prego, in cosa posso esserle utile?
+  en: Certainly, how can I help you?
+  es: Dígame, ¿en qué puedo ayudarle?
+
+ex2:
+- Se a gente não [tivesse] feito barulho, o casarão já [estaria] no chão.
+  it: Se non avessimo fatto chiasso, la villa sarebbe già rasa al suolo.
+  en: If we hadn't kicked up a fuss, the old house would already be rubble.
+  es: Si no hubiéramos hecho ruido, la casona ya estaría en el suelo.
+- Segundo [apurou] a [reportagem], a empresa desistiu.
+  it: Secondo quanto appurato dalla redazione, l'azienda ha rinunciato.
+  en: Our reporters have learned that the company has given up.
+  es: Según ha podido saber este periódico, la empresa ha renunciado.
+- A empresa não se [manifestou] até o [fechamento] desta edição.
+  it: L'azienda non ha rilasciato commenti fino alla chiusura di questa edizione.
+  en: The company had not commented by the time this edition went to press.
+  es: La empresa no había hecho declaraciones al cierre de esta edición.
+- [Caso] [seja] conveniente, posso falar amanhã.
+  it: Qualora vada bene, posso parlare domani.
+  en: If it's convenient, I can talk tomorrow.
+  es: En caso de que le venga bien, puedo hablar mañana.
+
+== 201 C2
+title: Saudade: modo de usar
+title.it: Saudade: istruzioni per l'uso
+title.en: Saudade: a user's guide
+title.es: Saudade: instrucciones de uso
+
+dialogue:
+- Dizem que saudade é a palavra mais intraduzível do mundo, o que não impede os brasileiros de tentarem explicá-la a todo estrangeiro que aparece no bar.
+  it: Si dice che saudade sia la parola più intraducibile del mondo, il che non impedisce ai brasiliani di provare a spiegarla a ogni straniero che capita al bar.
+  en: They say saudade is the most untranslatable word in the world, which doesn't stop Brazilians from trying to explain it to every foreigner who turns up at the bar.
+  es: Dicen que saudade es la palabra más intraducible del mundo, lo cual no impide que los brasileños intenten explicársela a todo extranjero que aparece por el bar.
+- Eu mesma, quando cheguei a São Paulo, achava que era só nostalgia com uma assessoria de imprensa melhor.
+  it: Io stessa, quando sono arrivata a San Paolo, pensavo che fosse solo nostalgia con un ufficio stampa migliore.
+  en: When I arrived in São Paulo, I myself thought it was just nostalgia with a better press office.
+  es: Yo misma, cuando llegué a São Paulo, pensaba que era solo nostalgia con un gabinete de prensa mejor.
+- Precisei de três anos, dois feriadões no litoral e um casarão quase demolido para entender que a saudade não olha só para trás.
+  it: Mi ci sono voluti tre anni, due ponti al mare e una villa quasi demolita per capire che la saudade non guarda solo indietro.
+  en: It took me three years, two long weekends on the coast and an almost demolished mansion to understand that saudade doesn't only look back.
+  es: Necesité tres años, dos puentes en la costa y una casona casi demolida para entender que la saudade no solo mira hacia atrás.
+- Sente-se saudade do que se perdeu, claro, mas também do que ainda está aqui e já sabemos que vai mudar: a padaria às sete da manhã, o cheiro do pão na chapa, a voz da Dona Lurdes a chamar-me querida.
+  it: Si prova saudade per ciò che si è perso, certo, ma anche per ciò che è ancora qui e che, lo sappiamo già, cambierà: la panetteria alle sette del mattino, il profumo del pão na chapa, la voce di Dona Lurdes che mi chiama «querida».
+  en: You feel saudade for what has been lost, of course, but also for what is still here and we already know will change: the bakery at seven in the morning, the smell of pão na chapa, Dona Lurdes's voice calling me "querida".
+  es: Se siente saudade de lo que se ha perdido, claro, pero también de lo que aún está aquí y ya sabemos que va a cambiar: la panadería a las siete de la mañana, el olor del pão na chapa, la voz de Dona Lurdes llamándome «querida».
+- Repare que escrevi “a chamar-me”, e não “me chamando de”: dois anos dividida entre Lisboa e São Paulo, e a minha sintaxe já não sabe de que lado do Atlântico mora.
+  it: Si noti che ho scritto «a chamar-me» e non «me chamando de»: due anni divisa tra Lisbona e San Paolo, e la mia sintassi non sa più su quale sponda dell'Atlantico abita.
+  en: Note that I wrote "a chamar-me" and not "me chamando de": two years split between Lisbon and São Paulo, and my syntax no longer knows which side of the Atlantic it lives on.
+  es: Fíjese en que escribí «a chamar-me» y no «me chamando de»: dos años dividida entre Lisboa y São Paulo, y mi sintaxis ya no sabe en qué orilla del Atlántico vive.
+- Em Lisboa, o Tiago diz que eu falo “português com açúcar”; em São Paulo, o Rafael jura que já engulo as vogais como uma alfacinha.
+  it: A Lisbona Tiago dice che parlo «portoghese con lo zucchero»; a San Paolo Rafael giura che ormai mi mangio le vocali come una lisbonese doc.
+  en: In Lisbon, Tiago says I speak "Portuguese with sugar"; in São Paulo, Rafael swears I already swallow my vowels like a born-and-bred Lisboner.
+  es: En Lisboa, Tiago dice que hablo «portugués con azúcar»; en São Paulo, Rafael jura que ya me como las vocales como una lisboeta de pura cepa.
+- Nenhum dos dois tem razão, e os dois têm toda a razão, que é como costumam ser as coisas entre primos.
+  it: Nessuno dei due ha ragione, ed entrambi hanno perfettamente ragione, che è come di solito vanno le cose tra cugini.
+  en: Neither of them is right, and both are absolutely right, which is how things usually are between cousins.
+  es: Ninguno de los dos tiene razón, y los dos tienen toda la razón, que es como suelen ser las cosas entre primos.
+- Quanto a mim, aprendi que uma língua estrangeira não se domina: negocia-se com ela, dia após dia, como com um senhorio teimoso ou uma paixão tardia.
+  it: Quanto a me, ho imparato che una lingua straniera non si domina: ci si negozia, giorno dopo giorno, come con un padrone di casa testardo o con un amore tardivo.
+  en: As for me, I've learned that a foreign language isn't mastered: it's negotiated with, day after day, like a stubborn landlord or a late-blooming passion.
+  es: En cuanto a mí, he aprendido que una lengua extranjera no se domina: se negocia con ella, día tras día, como con un casero testarudo o una pasión tardía.
+- E, se um dia eu voltar para Turim de vez, já sei o que vai me acontecer: vou ter saudade até do trânsito da Marginal.
+  it: E se un giorno tornerò a Torino per sempre, so già cosa mi succederà: avrò nostalgia perfino del traffico della Marginal.
+  en: And if one day I go back to Turin for good, I already know what will happen to me: I'll miss even the traffic on the Marginal.
+  es: Y si algún día vuelvo a Turín para siempre, ya sé lo que me va a pasar: echaré de menos hasta el tráfico de la Marginal.
+- Talvez seja isso, afinal, a saudade: o recibo que a vida nos entrega para provar que valeu a pena.
+  it: Forse è proprio questo, in fondo, la saudade: la ricevuta che la vita ci consegna per dimostrare che ne è valsa la pena.
+  en: Perhaps that's what saudade is, after all: the receipt life hands us to prove it was worth it.
+  es: Quizá sea eso, al fin y al cabo, la saudade: el recibo que nos entrega la vida para demostrar que mereció la pena.
+
+notes.it:
+1. Infinito personale: o que não impede os brasileiros de tentarem explicá-la. Il
+   portoghese può coniugare l'infinito (tentarem = che loro provino) per dargli un
+   soggetto proprio, cosa che l'italiano e lo spagnolo non fanno.
+2. Varietà a confronto: a chamar-me querida (Portogallo: a + infinito per
+   l'azione in corso, pronome dopo il verbo, chamar senza de) contro me chamando
+   de querida (Brasile: gerundio, pronome prima, chamar de). Alfacinha
+   ("lattughina") è il soprannome degli abitanti di Lisbona; con português com
+   açúcar Tiago scherza sulla parlata brasiliana, più aperta e musicale.
+3. Ironia e registro: nostalgia com uma assessoria de imprensa melhor e nenhum dos
+   dois tem razão, e os dois têm toda a razão giocano con i luoghi comuni. Nello
+   scritto curato anche in Brasile si trova il pronome dopo il verbo a inizio
+   frase (sente-se saudade, negocia-se com ela), mentre a voce si direbbe se sente.
+4. Saudade, dal latino solitas (solitudine), è il sentimento di un'assenza amata.
+   Si dice sentir saudade de, ter saudade de, estar com saudade de; in Portogallo
+   spesso al plurale (ter saudades). Tenho saudade de você è il nostro "mi manchi".
+5. Espressioni: de vez = per sempre, definitivamente; valer a pena = valerne la
+   pena; la Marginal (Tietê o Pinheiros) è la superstrada lungo i fiumi di San
+   Paolo, simbolo degli ingorghi; senhorio = padrone di casa, parola più comune in
+   Portogallo (in Brasile si dice spesso proprietário).
+notes.en:
+1. Personal infinitive: o que não impede os brasileiros de tentarem explicá-la.
+   Portuguese can conjugate the infinitive (tentarem = them trying) to give it a
+   subject of its own, something Italian and Spanish cannot do.
+2. Varieties side by side: a chamar-me querida (Portugal: a + infinitive for an
+   ongoing action, pronoun after the verb, chamar without de) versus me chamando
+   de querida (Brazil: gerund, pronoun before, chamar de). Alfacinha ("little
+   lettuce") is the nickname for people from Lisbon; with português com açúcar
+   Tiago teases the Brazilian accent, more open and musical.
+3. Irony and register: nostalgia com uma assessoria de imprensa melhor and nenhum
+   dos dois tem razão, e os dois têm toda a razão play with clichés. In careful
+   writing, Brazilians too put the pronoun after the verb at the start of a
+   clause (sente-se saudade, negocia-se com ela), while in speech they'd say se
+   sente.
+4. Saudade, from Latin solitas (solitude), is the feeling of a beloved absence.
+   You say sentir saudade de, ter saudade de, estar com saudade de; in Portugal
+   often in the plural (ter saudades). Tenho saudade de você is the Italian "mi
+   manchi", I miss you.
+5. Expressions: de vez = for good; valer a pena = to be worth it; the Marginal
+   (Tietê or Pinheiros) is the riverside expressway of São Paulo, a byword for
+   traffic jams; senhorio = landlord, a word more common in Portugal (Brazilians
+   often say proprietário).
+notes.es:
+1. Infinitivo personal: o que não impede os brasileiros de tentarem
+   explicá-la. El portugués puede conjugar el infinitivo (tentarem = que
+   ellos intenten) para darle un sujeto propio, algo que ni el español ni el
+   italiano pueden hacer; nosotros necesitamos una subordinada: que los
+   brasileños intenten.
+2. Variedades frente a frente: a chamar-me querida (Portugal: a + infinitivo
+   para la acción en curso, pronombre detrás del verbo, chamar sin de) frente
+   a me chamando de querida (Brasil: gerundio, pronombre delante, chamar de).
+   Alfacinha ("lechuguita") es el apodo de los lisboetas; con português com
+   açúcar Tiago bromea sobre el acento brasileño, más abierto y musical.
+3. Ironía y registro: nostalgia com uma assessoria de imprensa melhor y
+   nenhum dos dois tem razão, e os dois têm toda a razão juegan con los
+   tópicos. En la escritura cuidada, también en Brasil se pone el pronombre
+   detrás del verbo a principio de frase (sente-se saudade, negocia-se com
+   ela), mientras que hablando se diría se sente.
+4. Saudade, del latín solitas (soledad), es el sentimiento de una ausencia
+   querida; la palabra existe también en gallego. Se dice sentir saudade de,
+   ter saudade de, estar com saudade de; en Portugal, a menudo en plural (ter
+   saudades). Tenho saudade de você es nuestro "te echo de menos".
+5. Expresiones: de vez = para siempre, definitivamente; valer a pena =
+   merecer la pena; la Marginal (Tietê o Pinheiros) es la autovía que bordea
+   los ríos de São Paulo, sinónimo de atascos; senhorio = casero, dueño del
+   piso, palabra más común en Portugal (en Brasil se dice a menudo
+   proprietário).
+
+ex1:
+- É bom os alunos chegarem cedo.
+  it: È bene che gli studenti arrivino presto.
+  en: It's good for the students to arrive early.
+  es: Es bueno que los alumnos lleguen pronto.
+- Tenho saudade da padaria e do pão na chapa.
+  it: Mi mancano la panetteria e il pão na chapa.
+  en: I miss the bakery and the pão na chapa.
+  es: Echo de menos la panadería y el pão na chapa.
+- Se um dia eu voltar para Turim de vez, vou sentir falta de tudo isso.
+  it: Se un giorno tornerò a Torino per sempre, mi mancherà tutto questo.
+  en: If one day I go back to Turin for good, I'll miss all this.
+  es: Si algún día vuelvo a Turín para siempre, echaré de menos todo esto.
+- Valeu a pena ficar mais um ano em São Paulo.
+  it: È valsa la pena restare un altro anno a San Paolo.
+  en: It was worth staying another year in São Paulo.
+  es: Mereció la pena quedarse un año más en São Paulo.
+
+ex2:
+- Isso não impede os brasileiros de [tentarem] explicá-la.
+  it: Questo non impedisce ai brasiliani di provare a spiegarla.
+  en: That doesn't stop Brazilians from trying to explain it.
+  es: Eso no impide que los brasileños intenten explicarla.
+- A voz da Dona Lurdes [me] [chamando] de querida.
+  it: La voce di Dona Lurdes che mi chiama «querida».
+  en: Dona Lurdes's voice calling me "querida".
+  es: La voz de Dona Lurdes llamándome «querida».
+- Uma língua estrangeira não se [domina]: negocia-se com ela, [dia] após dia.
+  it: Una lingua straniera non si domina: ci si negozia, giorno dopo giorno.
+  en: A foreign language isn't mastered: it's negotiated with, day after day.
+  es: Una lengua extranjera no se domina: se negocia con ella, día tras día.
+- Talvez seja isso a saudade: a prova de que [valeu] a [pena].
+  it: Forse la saudade è proprio questo: la prova che ne è valsa la pena.
+  en: Perhaps that's what saudade is: proof that it was worth it.
+  es: Quizá sea eso la saudade: la prueba de que mereció la pena.

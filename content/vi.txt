@@ -1,0 +1,1258 @@
+course: vi
+name: Vietnamese – from first words to mastery
+name.it: Vietnamita – dalle prime parole alla padronanza
+name.en: Vietnamese – from first words to mastery
+name.es: Vietnamita – de las primeras palabras al dominio
+
+== 1 A1
+title: Em là người Ý
+title.it: Sono italiano
+title.en: I'm Italian
+title.es: Soy italiano
+
+dialogue:
+- Chào chị! Em tên là Luca.
+  it: Buongiorno (salutare sorella-maggiore)! Mi chiamo Luca (fratello-minore nome essere Luca).
+  en: Hello (greet elder-sister)! My name is Luca (younger-sibling name be Luca).
+  es: ¡Hola (saludar hermana-mayor)! Me llamo Luca (hermano-menor nombre ser Luca).
+- Chào em! Chị là Lan. Em là người Mỹ à?
+  it: Ciao (salutare fratello-minore)! Io sono Lan (sorella-maggiore essere Lan). Sei americano, vero (fratello-minore essere persona America à)?
+  en: Hi (greet younger-sibling)! I'm Lan (elder-sister be Lan). You're American, are you (younger-sibling be person America à)?
+  es: ¡Hola (saludar hermano-menor)! Yo soy Lan (hermana-mayor ser Lan). Eres americano, ¿no (hermano-menor ser persona América à)?
+- Không, em không phải là người Mỹ. Em là người Ý.
+  it: No, non sono americano (fratello-minore non giusto essere persona America). Sono italiano (persona Italia).
+  en: No, I'm not American (younger-sibling not right be person America). I'm Italian (person Italy).
+  es: No, no soy americano (hermano-menor no correcto ser persona América). Soy italiano (persona Italia).
+- Ồ, người Ý! Em có mệt không?
+  it: Oh, italiano! Sei stanco (fratello-minore avere stanco non)?
+  en: Oh, Italian! Are you tired (younger-sibling have tired not)?
+  es: ¡Oh, italiano! ¿Estás cansado (hermano-menor tener cansado no)?
+- Dạ, em hơi mệt. Còn chị, chị có khỏe không?
+  it: Sì (dạ), sono un po' stanco. E tu (còn sorella-maggiore), stai bene (sorella-maggiore avere sano non)?
+  en: Yes (dạ), I'm a bit tired. And you (còn elder-sister), are you well (elder-sister have healthy not)?
+  es: Sí (dạ), estoy un poco cansado. ¿Y tú (còn hermana-mayor), estás bien (hermana-mayor tener sano no)?
+- Chị khỏe, cảm ơn em. Đây là bố chị, bác Hùng.
+  it: Sto bene (sorella-maggiore sano), grazie (ringraziare fratello-minore). Questo è mio padre (padre sorella-maggiore), il signor Hùng (zio Hùng).
+  en: I'm fine (elder-sister healthy), thanks (thank younger-sibling). This is my father (father elder-sister), Mr Hùng (uncle Hùng).
+  es: Estoy bien (hermana-mayor sano), gracias (agradecer hermano-menor). Este es mi padre (padre hermana-mayor), el señor Hùng (tío Hùng).
+- Cháu chào bác ạ! Cháu là Luca.
+  it: Buongiorno, signore (nipote salutare zio ạ)! Sono Luca (nipote essere Luca).
+  en: Good morning, sir (nephew greet uncle ạ)! I'm Luca (nephew be Luca).
+  es: ¡Buenos días, señor (sobrino saludar tío ạ)! Soy Luca (sobrino ser Luca).
+- Chào cháu! Bác là chủ nhà.
+  it: Ciao (salutare nipote)! Sono il padrone di casa (zio essere padrone casa).
+  en: Hello (greet nephew)! I'm the landlord (uncle be owner house).
+  es: ¡Hola (saludar sobrino)! Soy el dueño de la casa (tío ser dueño casa).
+
+notes.it:
+1. Il vietnamita del Nord ha sei toni, e il segno sulla vocale cambia il
+   significato della parola. Nel dialogo ci sono tutti e sei: Lan (ngang,
+   piano, senza segno), là (huyền, basso e discendente), có (sắc, alto e
+   ascendente), khỏe (hỏi, scende e poi risale), Mỹ (ngã, sale con
+   un'interruzione della voce), chị (nặng, basso, breve e trattenuto). Al Sud
+   hỏi e ngã si confondono, e i toni diventano cinque.
+2. Non esistono un "io" e un "tu" neutri: si usano parole di parentela scelte
+   in base all'età. Luca è più giovane di Lan, quindi dice em ("fratello
+   minore") per sé e chị ("sorella maggiore") per lei; Lan fa il contrario.
+   Con un uomo dell'età dei genitori si usano bác ("zio") e cháu ("nipote").
+   Anh ("fratello maggiore") vale per un uomo poco più grande.
+3. là collega due nomi (Chị là Lan) e non cambia mai forma. Si nega con
+   không phải là, alla lettera "non è giusto che sia", em không phải là người
+   Mỹ. Nelle domande sì/no si mette có ... không intorno all'aggettivo o al
+   verbo, Em có mệt không? La particella à in fondo chiede conferma con un
+   pizzico di sorpresa.
+4. Dạ all'inizio e ạ alla fine della frase sono segni di rispetto verso chi è
+   più grande, Dạ, em hơi mệt; Cháu chào bác ạ! Al Nord "sì" si dice anche
+   vâng, al Sud quasi sempre dạ. Còn ... ? rimanda la domanda all'altro, come
+   "e tu?".
+5. người ("persona") + paese indica la nazionalità, người Ý, người Mỹ, người
+   Việt. Ý e Mỹ sono parole sino-vietnamite, lette dai caratteri cinesi 意 e
+   美 usati per "Italia" e "America". Bố è il padre al Nord; al Sud si dice
+   ba.
+notes.en:
+1. Northern Vietnamese has six tones, and the mark on the vowel changes the
+   meaning of the word. All six appear in the dialogue: Lan (ngang, level, no
+   mark), là (huyền, low and falling), có (sắc, high and rising), khỏe (hỏi,
+   dipping then rising), Mỹ (ngã, rising with a break in the voice), chị
+   (nặng, low, short and tight). In the South hỏi and ngã merge, leaving five
+   tones.
+2. There is no neutral "I" and "you": speakers use kinship words chosen by
+   age. Luca is younger than Lan, so he calls himself em ("younger sibling")
+   and her chị ("elder sister"); Lan does the reverse. With a man of your
+   parents' generation you use bác ("uncle") and cháu ("nephew, niece").
+   Anh ("elder brother") is for a man a little older than you.
+3. là links two nouns (Chị là Lan) and never changes form. Its negative is
+   không phải là, literally "it is not right that ... is", em không phải là
+   người Mỹ. Yes/no questions wrap có ... không around the adjective or verb,
+   Em có mệt không? The particle à at the end asks for confirmation with a
+   touch of surprise.
+4. Dạ at the start and ạ at the end of a sentence show respect to someone
+   older, Dạ, em hơi mệt; Cháu chào bác ạ! In the North "yes" is also vâng,
+   in the South almost always dạ. Còn ... ? turns the question back, like
+   "and you?".
+5. người ("person") + country gives the nationality, người Ý, người Mỹ,
+   người Việt. Ý and Mỹ are Sino-Vietnamese words, read from the Chinese
+   characters 意 and 美 used for "Italy" and "America". Bố is "father" in the
+   North; the South says ba.
+notes.es:
+1. El vietnamita del Norte tiene seis tonos, y la marca sobre la vocal cambia
+   el significado de la palabra. En el diálogo aparecen los seis: Lan (ngang,
+   llano, sin marca), là (huyền, bajo y descendente), có (sắc, alto y
+   ascendente), khỏe (hỏi, baja y vuelve a subir), Mỹ (ngã, sube con un corte
+   en la voz), chị (nặng, bajo, breve y tenso). En el Sur hỏi y ngã se
+   confunden, y quedan cinco tonos.
+2. No existen un "yo" y un "tú" neutros: se usan palabras de parentesco
+   elegidas según la edad. Luca es más joven que Lan, así que dice em
+   ("hermano menor") para sí mismo y chị ("hermana mayor") para ella; Lan
+   hace lo contrario. Con un hombre de la edad de tus padres se usan bác
+   ("tío") y cháu ("sobrino"). Anh ("hermano mayor") sirve para un hombre
+   algo mayor que tú.
+3. là une dos sustantivos (Chị là Lan) y nunca cambia de forma. Se niega con
+   không phải là, literalmente "no es correcto que sea", em không phải là
+   người Mỹ. Las preguntas de sí o no rodean el adjetivo o el verbo con
+   có ... không, Em có mệt không? La partícula à al final pide confirmación
+   con un toque de sorpresa.
+4. Dạ al principio y ạ al final de la frase muestran respeto hacia alguien
+   mayor, Dạ, em hơi mệt; Cháu chào bác ạ! En el Norte "sí" también se dice
+   vâng; en el Sur casi siempre dạ. Còn ... ? devuelve la pregunta, como
+   "¿y tú?".
+5. người ("persona") + país indica la nacionalidad, người Ý, người Mỹ, người
+   Việt. Ý y Mỹ son palabras sinovietnamitas, leídas de los caracteres chinos
+   意 y 美 que se usan para "Italia" y "América". Bố es "padre" en el Norte;
+   en el Sur se dice ba.
+
+ex1:
+- Chị Lan là người Việt.
+  it: Lan è vietnamita (sorella-maggiore Lan essere persona Vietnam).
+  en: Lan is Vietnamese (elder-sister Lan be person Vietnam).
+  es: Lan es vietnamita (hermana-mayor Lan ser persona Vietnam).
+- Bác có khỏe không ạ?
+  it: Come sta, signore (zio avere sano non ạ)?
+  en: How are you, sir (uncle have healthy not ạ)?
+  es: ¿Cómo está usted, señor (tío tener sano no ạ)?
+- Em không phải là người Ý.
+  it: Non sono italiano.
+  en: I'm not Italian.
+  es: No soy italiano.
+- Đây là Luca, người Ý.
+  it: Questo è Luca, un italiano.
+  en: This is Luca, an Italian.
+  es: Este es Luca, un italiano.
+
+ex2:
+- Em [tên] là Luca.
+  it: Mi chiamo Luca.
+  en: My name is Luca.
+  es: Me llamo Luca.
+- Chị [có] mệt [không]?
+  it: Sei stanca?
+  en: Are you tired?
+  es: ¿Estás cansada?
+- Em [không phải] là người Mỹ.
+  it: Non sono americano.
+  en: I'm not American.
+  es: No soy americano.
+- [Cháu] chào bác [ạ]!
+  it: Buongiorno, signore!
+  en: Good morning, sir!
+  es: ¡Buenos días, señor!
+
+== 2 A1
+title: Anh bao nhiêu tuổi?
+title.it: Quanti anni hai?
+title.en: How old are you?
+title.es: ¿Cuántos años tienes?
+
+dialogue:
+- Luca ơi, đây là Minh, em họ chị.
+  it: Luca (Luca ơi), questo è Minh, mio cugino (fratello-minore parente sorella-maggiore).
+  en: Luca (Luca ơi), this is Minh, my cousin (younger-sibling kin elder-sister).
+  es: Luca (Luca ơi), este es Minh, mi primo (hermano-menor pariente hermana-mayor).
+- Em chào anh! Anh bao nhiêu tuổi ạ?
+  it: Ciao (fratello-minore salutare fratello-maggiore)! Quanti anni hai (fratello-maggiore quanto età ạ)?
+  en: Hello (younger-sibling greet elder-brother)! How old are you (elder-brother how-many age ạ)?
+  es: ¡Hola (hermano-menor saludar hermano-mayor)! ¿Cuántos años tienes (hermano-mayor cuánto edad ạ)?
+- Anh hai mươi tám tuổi. Còn em?
+  it: Ho ventotto anni (fratello-maggiore due dieci otto età). E tu?
+  en: I'm twenty-eight (elder-brother two ten eight age). And you?
+  es: Tengo veintiocho años (hermano-mayor dos diez ocho edad). ¿Y tú?
+- Em hai mươi tuổi. Em là sinh viên.
+  it: Ho vent'anni (fratello-minore due dieci età). Sono uno studente universitario.
+  en: I'm twenty (younger-sibling two ten age). I'm a university student.
+  es: Tengo veinte años (hermano-menor dos diez edad). Soy estudiante universitario.
+- Em học gì?
+  it: Che cosa studi (fratello-minore studiare che-cosa)?
+  en: What do you study (younger-sibling study what)?
+  es: ¿Qué estudias (hermano-menor estudiar qué)?
+- Em học tiếng Anh và tiếng Ý. Anh có nói tiếng Việt không?
+  it: Studio inglese e italiano (lingua Inghilterra e lingua Italia). Parli vietnamita (fratello-maggiore avere parlare lingua Vietnam non)?
+  en: I study English and Italian (language England and language Italy). Do you speak Vietnamese (elder-brother have speak language Vietnam not)?
+  es: Estudio inglés e italiano (lengua Inglaterra y lengua Italia). ¿Hablas vietnamita (hermano-mayor tener hablar lengua Vietnam no)?
+- Anh nói một chút thôi. Tiếng Việt khó quá!
+  it: Solo un pochino (fratello-maggiore parlare un-po' soltanto). Il vietnamita è difficilissimo (lingua Vietnam difficile troppo)!
+  en: Just a little (elder-brother speak a-bit only). Vietnamese is so hard (language Vietnam hard too)!
+  es: Solo un poquito (hermano-mayor hablar un-poco nada-más). ¡El vietnamita es dificilísimo (lengua Vietnam difícil demasiado)!
+- Không khó đâu anh! Em dạy anh tiếng Việt, anh dạy em tiếng Ý nhé.
+  it: Ma no, non è difficile (non difficile affatto fratello-maggiore)! Io ti insegno il vietnamita e tu mi insegni l'italiano, va bene (nhé)?
+  en: It's not hard at all (not hard đâu elder-brother)! I'll teach you Vietnamese and you teach me Italian, OK (nhé)?
+  es: ¡Qué va, no es difícil (no difícil đâu hermano-mayor)! Yo te enseño vietnamita y tú me enseñas italiano, ¿vale (nhé)?
+
+notes.it:
+1. ơi dopo un nome serve a chiamare qualcuno, come "ehi", Luca ơi, Bác ơi.
+   I numeri da 1 a 10 sono một, hai, ba, bốn, năm, sáu, bảy, tám, chín,
+   mười. Le decine si formano con mươi, che perde il tono discendente di
+   mười, hai mươi "venti", hai mươi tám "ventotto".
+2. Chiedere l'età appena conosciuti è normale, perché decide i pronomi. Minh
+   è più giovane, quindi chiama Luca anh ("fratello maggiore") e dice em per
+   sé. Luca, che con Lan diceva em, con Minh dice anh. La stessa persona
+   cambia la parola per "io" a seconda di chi ha davanti.
+3. Davanti a un aggettivo o a un'età non si usa là, Em hai mươi tuổi, Tiếng
+   Việt khó quá. Gli aggettivi funzionano come verbi. quá dopo un aggettivo
+   significa "tanto, troppo" e rende la frase esclamativa.
+4. tiếng vuol dire "suono, voce" e anche "lingua", tiếng Việt, tiếng Ý. Anh
+   di tiếng Anh è la sillaba sino-vietnamita 英 che indica l'Inghilterra, e
+   si scrive proprio come anh "fratello maggiore". Em họ è un cugino più
+   giovane, alla lettera "fratello minore del casato".
+5. Le particelle finali danno il tono alla frase. thôi "soltanto, e basta";
+   không ... đâu nega con decisione ma in modo amichevole, "ma no, per
+   niente"; nhé propone qualcosa con gentilezza, "va bene?". Al Sud al posto
+   di nhé si dice nha.
+notes.en:
+1. ơi after a name calls someone, like "hey", Luca ơi, Bác ơi. The numbers
+   from 1 to 10 are một, hai, ba, bốn, năm, sáu, bảy, tám, chín, mười. Tens
+   are made with mươi, which loses the falling tone of mười, hai mươi
+   "twenty", hai mươi tám "twenty-eight".
+2. Asking someone's age when you first meet is normal, because it settles
+   the pronouns. Minh is younger, so he calls Luca anh ("elder brother") and
+   himself em. Luca, who said em with Lan, says anh with Minh. The same
+   person changes his word for "I" depending on who is in front of him.
+3. là is not used before an adjective or an age, Em hai mươi tuổi, Tiếng
+   Việt khó quá. Adjectives work like verbs. quá after an adjective means
+   "so, too" and makes the sentence an exclamation.
+4. tiếng means "sound, voice" and also "language", tiếng Việt, tiếng Ý. The
+   Anh of tiếng Anh is the Sino-Vietnamese syllable 英 for England, spelled
+   exactly like anh "elder brother". Em họ is a younger cousin, literally
+   "younger sibling of the clan".
+5. Final particles set the tone of a sentence. thôi "only, that's all";
+   không ... đâu denies firmly but kindly, "not at all"; nhé makes a friendly
+   suggestion, "OK?". In the South nha replaces nhé.
+notes.es:
+1. ơi después de un nombre sirve para llamar a alguien, como "oye", Luca ơi,
+   Bác ơi. Los números del 1 al 10 son một, hai, ba, bốn, năm, sáu, bảy,
+   tám, chín, mười. Las decenas se forman con mươi, que pierde el tono
+   descendente de mười, hai mươi "veinte", hai mươi tám "veintiocho".
+2. Preguntar la edad al conocer a alguien es normal, porque decide los
+   pronombres. Minh es más joven, así que llama a Luca anh ("hermano mayor")
+   y dice em para sí mismo. Luca, que con Lan decía em, con Minh dice anh.
+   La misma persona cambia la palabra para "yo" según quién tenga delante.
+3. Delante de un adjetivo o de una edad no se usa là, Em hai mươi tuổi,
+   Tiếng Việt khó quá. Los adjetivos funcionan como verbos. quá después de
+   un adjetivo significa "tan, demasiado" y da a la frase un tono
+   exclamativo.
+4. tiếng significa "sonido, voz" y también "lengua", tiếng Việt, tiếng Ý. El
+   Anh de tiếng Anh es la sílaba sinovietnamita 英 que designa Inglaterra, y
+   se escribe igual que anh "hermano mayor". Em họ es un primo más joven,
+   literalmente "hermano menor del linaje".
+5. Las partículas finales dan el tono a la frase. thôi "solo, nada más";
+   không ... đâu niega con firmeza pero con amabilidad, "qué va, para nada";
+   nhé propone algo con suavidad, "¿vale?". En el Sur se dice nha en lugar
+   de nhé.
+
+ex1:
+- Chị Lan bao nhiêu tuổi?
+  it: Quanti anni ha Lan (sorella-maggiore Lan quanto età)?
+  en: How old is Lan (elder-sister Lan how-many age)?
+  es: ¿Cuántos años tiene Lan (hermana-mayor Lan cuánto edad)?
+- Minh là sinh viên, Minh học tiếng Ý.
+  it: Minh è uno studente, studia italiano.
+  en: Minh is a student, he studies Italian.
+  es: Minh es estudiante, estudia italiano.
+- Em nói tiếng Anh một chút thôi.
+  it: Parlo solo un po' di inglese.
+  en: I only speak a little English.
+  es: Solo hablo un poco de inglés.
+- Tiếng Ý có khó không?
+  it: L'italiano è difficile (lingua Italia avere difficile non)?
+  en: Is Italian hard (language Italy have hard not)?
+  es: ¿Es difícil el italiano (lengua Italia tener difícil no)?
+
+ex2:
+- Anh [bao nhiêu] tuổi?
+  it: Quanti anni hai?
+  en: How old are you?
+  es: ¿Cuántos años tienes?
+- Em [học] tiếng Việt.
+  it: Studio vietnamita.
+  en: I study Vietnamese.
+  es: Estudio vietnamita.
+- Tiếng Việt [khó] [quá]!
+  it: Il vietnamita è difficilissimo!
+  en: Vietnamese is so hard!
+  es: ¡El vietnamita es dificilísimo!
+- Luca [ơi], đây là Minh.
+  it: Luca, questo è Minh.
+  en: Luca, this is Minh.
+  es: Luca, este es Minh.
+
+== 3 A1
+title: Đi ăn phở
+title.it: A mangiare il phở
+title.en: Out for phở
+title.es: A comer phở
+
+dialogue:
+- Anh Luca ơi, anh có đói không? Mình đi ăn phở nhé!
+  it: Luca (fratello-maggiore Luca ơi), hai fame (avere affamato non)? Andiamo a mangiare il phở (noi andare mangiare phở nhé)!
+  en: Luca (elder-brother Luca ơi), are you hungry (have hungry not)? Let's go and eat phở (we go eat phở nhé)!
+  es: Luca (hermano-mayor Luca ơi), ¿tienes hambre (tener hambriento no)? ¡Vamos a comer phở (nosotros ir comer phở nhé)!
+- Ừ, anh đói lắm! Nhưng ăn ở đâu?
+  it: Sì (ừ), ho una fame da lupi (fratello-maggiore affamato molto)! Ma dove (mangiare a dove)?
+  en: Yeah (ừ), I'm starving (elder-brother hungry very)! But where (eat at where)?
+  es: Sí (ừ), ¡tengo muchísima hambre (hermano-mayor hambriento mucho)! Pero ¿dónde (comer en dónde)?
+- Ngay ở đây, ở nhà bác Hùng! Phở bác Hùng ngon lắm.
+  it: Proprio qui, dal signor Hùng (a casa zio Hùng)! Il phở del signor Hùng è buonissimo (phở zio Hùng buono molto).
+  en: Right here, at Mr Hùng's (at house uncle Hùng)! Mr Hùng's phở is delicious (phở uncle Hùng tasty very).
+  es: ¡Aquí mismo, en casa del señor Hùng (en casa tío Hùng)! El phở del señor Hùng está riquísimo (phở tío Hùng sabroso mucho).
+- Chào hai cháu! Hai cháu ăn gì?
+  it: Salve, ragazzi (salutare due nipote)! Che cosa mangiate (due nipote mangiare che-cosa)?
+  en: Hello, you two (greet two nephew)! What will you have (two nephew eat what)?
+  es: ¡Hola, chicos (saludar dos sobrino)! ¿Qué vais a comer (dos sobrino comer qué)?
+- Bác ơi, cho cháu một bát phở bò ạ.
+  it: Per me una scodella di phở al manzo, per favore (zio ơi, dare nipote una scodella phở manzo ạ).
+  en: A bowl of beef phở for me, please (uncle ơi, give nephew one bowl phở beef ạ).
+  es: Para mí un tazón de phở de ternera, por favor (tío ơi, dar sobrino un tazón phở ternera ạ).
+- Cháu cũng thế ạ. Anh uống trà đá nhé?
+  it: Anche per me (nipote anche così ạ). Prendi un tè col ghiaccio (fratello-maggiore bere tè ghiaccio nhé)?
+  en: Same for me (nephew also so ạ). Will you have iced tea (elder-brother drink tea ice nhé)?
+  es: Lo mismo para mí (sobrino también así ạ). ¿Tomas un té con hielo (hermano-mayor beber té hielo nhé)?
+- Trà đá là gì?
+  it: Che cos'è il trà đá (tè ghiaccio essere che-cosa)?
+  en: What's trà đá (tea ice be what)?
+  es: ¿Qué es el trà đá (té hielo ser qué)?
+- Là trà xanh với đá, anh ạ. Rẻ mà ngon lắm!
+  it: È tè verde con ghiaccio (essere tè verde con ghiaccio, fratello-maggiore ạ). Costa poco ed è buonissimo (economico eppure buono molto)!
+  en: It's green tea with ice (be tea green with ice, elder-brother ạ). Cheap and really good (cheap yet tasty very)!
+  es: Es té verde con hielo (ser té verde con hielo, hermano-mayor ạ). ¡Barato y riquísimo (barato pero sabroso mucho)!
+
+notes.it:
+1. Cho cháu ... ạ, alla lettera "dai al nipote", è il modo normale di
+   ordinare o chiedere qualcosa. Il pronome cambia a seconda di chi serve,
+   cho cháu con una persona anziana, cho em con un cameriere giovane, cho tôi
+   in modo neutro. La scodella si chiama bát al Nord e tô al Sud.
+2. Pronuncia. ph si legge f, phở. A Hanoi d, gi e r suonano tutte come una z
+   dolce, la s di "rosa" detta al Nord, quindi gì suona "zì"; al Sud d e gi
+   sono quasi una i, "yì". đ con la barra è invece una d piena e decisa,
+   đói, đá, đâu.
+3. lắm e rất significano entrambi "molto", rất prima dell'aggettivo e lắm
+   dopo, rất ngon = ngon lắm. Mình qui è un "noi" che include chi ascolta,
+   tipico delle proposte tra amici, Mình đi ăn phở nhé!
+4. cũng "anche" sta sempre davanti al verbo o all'aggettivo, Cháu cũng thế
+   "anch'io" (nipote anche così). Le parole interrogative restano dove andrà
+   la risposta, Trà đá là gì? Là trà xanh với đá. In Rẻ mà ngon "economico
+   eppure buono", mà unisce due qualità con una punta di sorpresa.
+5. Il phở bò (manzo) e il phở gà (pollo) sono la colazione classica di
+   Hanoi. Il trà đá si beve seduti su sgabellini di plastica sul
+   marciapiede. Trà e chè vengono entrambe dal cinese 茶 "tè"; al Nord chè
+   indica anche il tè, mentre al Sud indica solo un dolce al cucchiaio.
+notes.en:
+1. Cho cháu ... ạ, literally "give the nephew", is the normal way to order
+   or ask for something. The pronoun changes with the person serving you,
+   cho cháu to an older person, cho em to a young waiter, cho tôi neutral.
+   The bowl is bát in the North and tô in the South.
+2. Pronunciation. ph is an f, phở. In Hanoi d, gi and r all sound like a
+   buzzing z, as in "zoo", so gì sounds like "zì"; in the South d and gi are
+   close to y, "yì". đ with a bar is a full, firm d, đói, đá, đâu.
+3. lắm and rất both mean "very", rất before the adjective and lắm after it,
+   rất ngon = ngon lắm. Mình here is a "we" that includes the listener,
+   typical of friendly suggestions, Mình đi ăn phở nhé!
+4. cũng "also" always comes before the verb or adjective, Cháu cũng thế "me
+   too" (nephew also so). Question words stay where the answer will go, Trà
+   đá là gì? Là trà xanh với đá. In Rẻ mà ngon "cheap yet tasty", mà joins
+   two qualities with a hint of surprise.
+5. Beef phở (phở bò) and chicken phở (phở gà) are the classic Hanoi
+   breakfast. Trà đá is drunk on low plastic stools on the pavement. Trà and
+   chè both come from the Chinese 茶 "tea"; in the North chè also means tea,
+   while in the South it only means a sweet dessert.
+notes.es:
+1. Cho cháu ... ạ, literalmente "da al sobrino", es la forma normal de pedir
+   algo. El pronombre cambia según quién te atienda, cho cháu con una
+   persona mayor, cho em con un camarero joven, cho tôi de forma neutra. El
+   tazón se llama bát en el Norte y tô en el Sur.
+2. Pronunciación. ph se lee f, phở. En Hanói d, gi y r suenan las tres como
+   una z zumbante, la z inglesa de "zoo", así que gì suena "zì"; en el Sur d
+   y gi son casi una y, "yì". đ con barra es, en cambio, una d plena y
+   firme, đói, đá, đâu.
+3. lắm y rất significan los dos "muy", rất delante del adjetivo y lắm
+   detrás, rất ngon = ngon lắm. Mình es aquí un "nosotros" que incluye a
+   quien escucha, típico de las propuestas entre amigos, Mình đi ăn phở nhé!
+4. cũng "también" va siempre delante del verbo o del adjetivo, Cháu cũng thế
+   "yo también" (sobrino también así). Las palabras interrogativas se quedan
+   donde irá la respuesta, Trà đá là gì? Là trà xanh với đá. En Rẻ mà ngon
+   "barato y encima rico", mà une dos cualidades con un punto de sorpresa.
+5. El phở bò (ternera) y el phở gà (pollo) son el desayuno clásico de Hanói.
+   El trà đá se toma sentado en taburetes de plástico en la acera. Trà y chè
+   vienen ambas del chino 茶 "té"; en el Norte chè también significa té,
+   mientras que en el Sur solo designa un postre dulce.
+
+ex1:
+- Bác ơi, cho cháu hai bát phở gà ạ.
+  it: Signore, due scodelle di phở al pollo, per favore (zio ơi, dare nipote due scodella phở pollo ạ).
+  en: Two bowls of chicken phở, please, sir (uncle ơi, give nephew two bowl phở chicken ạ).
+  es: Señor, dos tazones de phở de pollo, por favor (tío ơi, dar sobrino dos tazón phở pollo ạ).
+- Chị Lan cũng đói lắm.
+  it: Anche Lan ha molta fame.
+  en: Lan is very hungry too.
+  es: Lan también tiene mucha hambre.
+- Trà đá ở đây rẻ mà ngon.
+  it: Qui il tè col ghiaccio costa poco ed è buono.
+  en: The iced tea here is cheap and good.
+  es: Aquí el té con hielo es barato y bueno.
+- Mình đi uống trà đá nhé!
+  it: Andiamo a bere un tè col ghiaccio!
+  en: Let's go for an iced tea!
+  es: ¡Vamos a tomar un té con hielo!
+
+ex2:
+- Anh [có] đói [không]?
+  it: Hai fame?
+  en: Are you hungry?
+  es: ¿Tienes hambre?
+- [Cho] cháu một [bát] phở bò ạ.
+  it: Per me una scodella di phở al manzo, per favore.
+  en: A bowl of beef phở for me, please.
+  es: Para mí un tazón de phở de ternera, por favor.
+- Cháu [cũng] thế ạ.
+  it: Anche per me.
+  en: Same for me.
+  es: Lo mismo para mí.
+- Trà đá là [gì]?
+  it: Che cos'è il trà đá?
+  en: What's trà đá?
+  es: ¿Qué es el trà đá?
+
+== 26 A2
+title: Đắt quá!
+title.it: Troppo caro!
+title.en: Too expensive!
+title.es: ¡Qué caro!
+
+dialogue:
+- Luca ơi, cháu đang làm gì đấy?
+  it: Luca, che cosa stai facendo (nipote in-corso fare che-cosa đấy)?
+  en: Luca, what are you doing (nephew in-progress do what đấy)?
+  es: Luca, ¿qué estás haciendo (sobrino en-curso hacer qué đấy)?
+- Dạ, cháu đang rửa hoa quả. Sáng nay cháu đã đi chợ Đồng Xuân.
+  it: Sto lavando la frutta (nipote in-corso lavare fiore-frutto). Stamattina sono andato al mercato di Đồng Xuân (mattina questa nipote già andare mercato Đồng Xuân).
+  en: I'm washing the fruit (nephew in-progress wash flower-fruit). This morning I went to Đồng Xuân market (morning this nephew already go market Đồng Xuân).
+  es: Estoy lavando la fruta (sobrino en-curso lavar flor-fruto). Esta mañana he ido al mercado de Đồng Xuân (mañana esta sobrino ya ir mercado Đồng Xuân).
+- Giỏi quá! Cháu mua những gì?
+  it: Bravo (bravo troppo)! Che cosa hai comprato (nipote comprare quali cose)?
+  en: Well done (clever too)! What did you buy (nephew buy which things)?
+  es: ¡Muy bien (hábil demasiado)! ¿Qué has comprado (sobrino comprar cuáles cosas)?
+- Cháu mua một cân xoài, năm quả chuối và hai cái áo phông.
+  it: Ho comprato un chilo di manghi (nipote comprare un chilo mango), cinque banane (cinque frutto banana) e due magliette (due oggetto maglia).
+  en: I bought a kilo of mangoes (nephew buy one kilo mango), five bananas (five fruit banana) and two T-shirts (two thing shirt).
+  es: He comprado un kilo de mangos (sobrino comprar un kilo mango), cinco plátanos (cinco fruto plátano) y dos camisetas (dos objeto camisa).
+- Thế một cân xoài bao nhiêu tiền?
+  it: E quanto costa un chilo di manghi (allora un chilo mango quanto denaro)?
+  en: So how much is a kilo of mangoes (so one kilo mango how-much money)?
+  es: ¿Y cuánto cuesta un kilo de mangos (entonces un kilo mango cuánto dinero)?
+- Tám mươi nghìn ạ. Còn hai cái áo là ba trăm nghìn.
+  it: Ottantamila (otto dieci mille ạ). E le due magliette trecentomila (due oggetto maglia essere tre cento mille).
+  en: Eighty thousand (eight ten thousand ạ). And the two T-shirts were three hundred thousand (two thing shirt be three hundred thousand).
+  es: Ochenta mil (ocho diez mil ạ). Y las dos camisetas, trescientos mil (dos objeto camisa ser tres cien mil).
+- Trời ơi, đắt quá! Bình thường xoài chỉ ba mươi lăm nghìn một cân thôi.
+  it: Santo cielo (cielo oh), troppo caro! Di solito il mango costa solo trentacinquemila al chilo (normale mango solo tre dieci cinque mille un chilo soltanto).
+  en: Good heavens (heaven oh), that's far too expensive! Mangoes are usually only thirty-five thousand a kilo (normal mango only three ten five thousand one kilo only).
+  es: ¡Madre mía (cielo oh), qué caro! Normalmente el mango cuesta solo treinta y cinco mil el kilo (normal mango solo tres diez cinco mil un kilo nada-más).
+- Bố chị nói đúng đấy. Lần sau chị sẽ đi chợ với em. Chị mặc cả giỏi lắm!
+  it: Mio padre ha ragione (padre sorella-maggiore dire giusto đấy). La prossima volta vengo al mercato con te (volta dopo sorella-maggiore futuro andare mercato con fratello-minore). Sono bravissima a contrattare (sorella-maggiore contrattare brava molto)!
+  en: My dad's right (father elder-sister say right đấy). Next time I'll go to the market with you (time after elder-sister will go market with younger-sibling). I'm very good at haggling (elder-sister haggle clever very)!
+  es: Mi padre tiene razón (padre hermana-mayor decir correcto đấy). La próxima vez voy al mercado contigo (vez después hermana-mayor futuro ir mercado con hermano-menor). ¡Regateo muy bien (hermana-mayor regatear hábil mucho)!
+- Vâng, cảm ơn chị. Mà hai cái áo này nhỏ quá, em mặc không vừa!
+  it: Sì, grazie. Però queste due magliette sono troppo piccole, non mi stanno (fratello-minore indossare non adatto)!
+  en: Yes, thank you. But these two T-shirts are too small, they don't fit me (younger-sibling wear not fit)!
+  es: Sí, gracias. Pero estas dos camisetas son demasiado pequeñas, ¡no me quedan bien (hermano-menor llevar no ajustar)!
+
+notes.it:
+1. Il verbo non cambia mai; il tempo, se serve, si indica con una parola
+   davanti. đã per il passato (cháu đã đi chợ), đang per l'azione in corso
+   (cháu đang rửa hoa quả), sẽ per il futuro (chị sẽ đi chợ với em). Se il
+   momento è già chiaro si tralasciano, Sáng nay cháu đi chợ è altrettanto
+   corretto.
+2. Tra il numero e il nome ci vuole un classificatore, come in "tre fette di
+   pane". quả si usa per frutti e cose tonde (năm quả chuối), cái per quasi
+   tutti gli oggetti (hai cái áo), con per gli animali (một con gà). những
+   davanti al nome segna il plurale, những gì "quali cose". Al Sud quả
+   diventa trái.
+3. I numeri. Dopo mười e mươi, năm "cinque" diventa lăm (mười lăm 15, ba
+   mươi lăm 35), e dopo mươi, một "uno" diventa mốt (hai mươi mốt 21). trăm
+   "cento", nghìn "mille", triệu "milione". I prezzi in đồng sono cifre
+   molto alte, perciò nel parlato si lascia spesso cadere nghìn, tám mươi
+   "ottanta (mila)", e sui cartellini si scrive 80k.
+4. Pronuncia di Hanoi. tr e ch suonano uguali (trời, chợ), e così s e x
+   (sáng, xoài), entrambe come una s. Molti parlanti del Centro e del Sud le
+   distinguono ancora. Trời ơi! "o cielo!" esprime stupore o disappunto.
+5. Parole del Nord e del Sud. đắt / mắc "caro", cân / ký "chilo", hoa quả /
+   trái cây "frutta", áo phông / áo thun "maglietta", nghìn / ngàn "mille".
+   Contrattare (mặc cả) è normale al mercato, non al supermercato. Đồng
+   Xuân è il grande mercato coperto del Quartiere Vecchio.
+notes.en:
+1. The verb never changes; time is shown, when needed, by a word in front.
+   đã for the past (cháu đã đi chợ), đang for an action in progress (cháu
+   đang rửa hoa quả), sẽ for the future (chị sẽ đi chợ với em). When the
+   time is already clear they are dropped, Sáng nay cháu đi chợ is just as
+   correct.
+2. A classifier goes between a number and a noun, as in "three slices of
+   bread". quả is for fruit and round things (năm quả chuối), cái for most
+   objects (hai cái áo), con for animals (một con gà). những before a noun
+   marks the plural, những gì "which things". In the South quả becomes trái.
+3. Numbers. After mười and mươi, năm "five" becomes lăm (mười lăm 15, ba
+   mươi lăm 35), and after mươi, một "one" becomes mốt (hai mươi mốt 21).
+   trăm "hundred", nghìn "thousand", triệu "million". Prices in đồng are big
+   numbers, so speech often drops nghìn, tám mươi "eighty (thousand)", and
+   price tags often read 80k.
+4. Hanoi pronunciation. tr and ch sound the same (trời, chợ), and so do s
+   and x (sáng, xoài), both like an s. Many speakers in the Centre and South
+   still keep them apart. Trời ơi! "oh heaven!" expresses surprise or
+   dismay.
+5. North and South words. đắt / mắc "expensive", cân / ký "kilo", hoa quả /
+   trái cây "fruit", áo phông / áo thun "T-shirt", nghìn / ngàn "thousand".
+   Haggling (mặc cả) is normal at markets, not in supermarkets. Đồng Xuân is
+   the big covered market of the Old Quarter.
+notes.es:
+1. El verbo nunca cambia; el tiempo, si hace falta, se indica con una
+   palabra delante. đã para el pasado (cháu đã đi chợ), đang para la acción
+   en curso (cháu đang rửa hoa quả), sẽ para el futuro (chị sẽ đi chợ với
+   em). Si el momento ya está claro se omiten, Sáng nay cháu đi chợ es igual
+   de correcto.
+2. Entre el número y el sustantivo hace falta un clasificador, como en "tres
+   rebanadas de pan". quả se usa para frutas y cosas redondas (năm quả
+   chuối), cái para casi todos los objetos (hai cái áo), con para los
+   animales (một con gà). những delante del sustantivo marca el plural,
+   những gì "qué cosas". En el Sur quả se convierte en trái.
+3. Los números. Después de mười y mươi, năm "cinco" pasa a lăm (mười lăm 15,
+   ba mươi lăm 35), y después de mươi, một "uno" pasa a mốt (hai mươi mốt
+   21). trăm "cien", nghìn "mil", triệu "millón". Los precios en đồng son
+   cifras altas, así que al hablar se suele omitir nghìn, tám mươi "ochenta
+   (mil)", y en las etiquetas se escribe 80k.
+4. Pronunciación de Hanói. tr y ch suenan igual (trời, chợ), y lo mismo s y
+   x (sáng, xoài), ambas como una s. Muchos hablantes del Centro y del Sur
+   todavía las distinguen. Trời ơi! "¡oh cielo!" expresa sorpresa o disgusto.
+5. Palabras del Norte y del Sur. đắt / mắc "caro", cân / ký "kilo", hoa quả
+   / trái cây "fruta", áo phông / áo thun "camiseta", nghìn / ngàn "mil".
+   Regatear (mặc cả) es normal en el mercado, no en el supermercado. Đồng
+   Xuân es el gran mercado cubierto del Barrio Antiguo.
+
+ex1:
+- Chị Lan đang đi chợ.
+  it: Lan sta andando al mercato (sorella-maggiore Lan in-corso andare mercato).
+  en: Lan is going to the market (elder-sister Lan in-progress go market).
+  es: Lan está yendo al mercado (hermana-mayor Lan en-curso ir mercado).
+- Ngày mai em sẽ mua hai quả xoài.
+  it: Domani comprerò due manghi (due frutto mango).
+  en: Tomorrow I'll buy two mangoes (two fruit mango).
+  es: Mañana compraré dos mangos (dos fruto mango).
+- Một cân chuối bao nhiêu tiền?
+  it: Quanto costa un chilo di banane?
+  en: How much is a kilo of bananas?
+  es: ¿Cuánto cuesta un kilo de plátanos?
+- Cái áo phông này đắt quá!
+  it: Questa maglietta è troppo cara!
+  en: This T-shirt is far too expensive!
+  es: ¡Qué cara es esta camiseta!
+
+ex2:
+- Cháu [đang] rửa hoa quả.
+  it: Sto lavando la frutta.
+  en: I'm washing the fruit.
+  es: Estoy lavando la fruta.
+- Cháu mua năm [quả] chuối và hai [cái] áo.
+  it: Ho comprato cinque banane e due magliette.
+  en: I bought five bananas and two shirts.
+  es: He comprado cinco plátanos y dos camisetas.
+- Lần sau chị [sẽ] đi chợ với em.
+  it: La prossima volta vengo al mercato con te.
+  en: Next time I'll go to the market with you.
+  es: La próxima vez voy al mercado contigo.
+- Xoài chỉ ba [mươi] lăm [nghìn] một cân thôi.
+  it: Il mango costa solo trentacinquemila al chilo.
+  en: Mangoes are only thirty-five thousand a kilo.
+  es: El mango cuesta solo treinta y cinco mil el kilo.
+
+== 51 B1
+title: Tin vui, tin buồn
+title.it: Buone e cattive notizie
+title.en: Good news, bad news
+title.es: Buenas y malas noticias
+
+dialogue:
+- Anh Luca, sao hôm nay trông anh buồn thế?
+  it: Luca, come mai oggi sei così giù?
+  en: Luca, why do you look so down today?
+  es: Luca, ¿por qué estás tan triste hoy?
+- Hôm qua anh bị công an phạt vì quên đội mũ bảo hiểm.
+  it: Ieri la polizia mi ha fatto la multa perché avevo dimenticato di mettere il casco.
+  en: Yesterday the police fined me because I forgot to wear my helmet.
+  es: Ayer me multó la policía porque se me olvidó ponerme el casco.
+- Thôi, anh đừng buồn nữa. Em có tin vui đây: em được nhận học bổng sang Ý học thạc sĩ!
+  it: Dai, non essere triste. Ho una bella notizia: ho vinto una borsa di studio per fare la magistrale in Italia!
+  en: Come on, cheer up. I've got good news: I've been awarded a scholarship to do a master's in Italy!
+  es: Venga, no estés triste. Tengo una buena noticia: ¡me han dado una beca para hacer un máster en Italia!
+- Tuyệt quá! Em sẽ học ở đâu, Milano hay Bologna?
+  it: Fantastico! Dove studierai, a Milano o a Bologna?
+  en: Fantastic! Where will you study, Milan or Bologna?
+  es: ¡Genial! ¿Dónde vas a estudiar, en Milán o en Bolonia?
+- Em chưa quyết định. Theo anh, thành phố nào tốt hơn?
+  it: Non ho ancora deciso. Secondo te, quale città è meglio?
+  en: I haven't decided yet. In your opinion, which city is better?
+  es: Todavía no lo he decidido. En tu opinión, ¿qué ciudad es mejor?
+- Anh nghĩ là Milano hiện đại hơn và có nhiều việc làm hơn. Nhưng Bologna ấm cúng hơn, còn đồ ăn ở đó thì ngon nhất nước Ý!
+  it: Secondo me Milano è più moderna e offre più lavoro. Però Bologna è più accogliente, e quanto a cibo è la migliore d'Italia!
+  en: I think Milan is more modern and has more jobs. But Bologna is cosier, and as for the food there, it's the best in Italy!
+  es: Creo que Milán es más moderna y tiene más trabajo. Pero Bolonia es más acogedora, ¡y en cuanto a comida es la mejor de Italia!
+- Thế còn tiền thuê nhà? Ở Bologna có đắt bằng ở Milano không?
+  it: E l'affitto? A Bologna è caro come a Milano?
+  en: And what about rent? Is Bologna as expensive as Milan?
+  es: ¿Y el alquiler? ¿En Bolonia es tan caro como en Milán?
+- Không đắt bằng, nhưng cũng không rẻ đâu. Sinh viên ở đó tìm phòng khó lắm.
+  it: Non così caro, ma neanche economico. Lì per gli studenti trovare una stanza è difficilissimo.
+  en: Not as expensive, but not cheap either. Students there find it really hard to get a room.
+  es: No tanto, pero tampoco es barato. Allí a los estudiantes les cuesta mucho encontrar habitación.
+- Thế thì em chọn Bologna. Với em, ăn ngon quan trọng hơn tất cả!
+  it: Allora scelgo Bologna. Per me mangiare bene conta più di tutto!
+  en: Then I'll pick Bologna. For me, good food matters more than anything!
+  es: Entonces elijo Bolonia. ¡Para mí comer bien importa más que nada!
+- Em nói y như người Ý ấy! Nhưng anh nghĩ em nên học nấu phở trước khi đi, vì ở Bologna không ai nấu phở ngon bằng bác Hùng đâu.
+  it: Parli proprio come un italiano! Però secondo me dovresti imparare a cucinare il phở prima di partire, perché a Bologna nessuno lo fa buono come il signor Hùng.
+  en: You sound just like an Italian! But I think you should learn to cook phở before you go, because nobody in Bologna makes it as well as Mr Hùng.
+  es: ¡Hablas igual que un italiano! Pero creo que deberías aprender a cocinar phở antes de irte, porque en Bolonia nadie lo hace tan rico como el señor Hùng.
+
+notes.it:
+1. được e bị davanti a un verbo creano una specie di passivo, ma con un
+   giudizio. được si usa quando al soggetto capita qualcosa di positivo (em
+   được nhận học bổng "ho ricevuto una borsa di studio"), bị quando gli
+   capita qualcosa di sgradito (anh bị công an phạt "sono stato multato
+   dalla polizia"). Chi compie l'azione si mette subito dopo, bị công an
+   phạt.
+2. Il comparativo è aggettivo + hơn (+ secondo termine), Milano hiện đại hơn,
+   nhiều việc làm hơn "più lavoro". L'uguaglianza si esprime con bằng, không
+   đắt bằng "non così caro", không ai nấu phở ngon bằng bác Hùng "nessuno fa
+   il phở buono come Hùng". Il superlativo è aggettivo + nhất, ngon nhất
+   nước Ý.
+3. Per dare un'opinione si dice Theo anh ... "secondo te", Anh nghĩ là ...
+   "penso che", Anh thấy ... "trovo che"; nên dà un consiglio, em nên học
+   nấu phở "dovresti imparare". In Bologna ấm cúng hơn, còn đồ ăn ở đó thì
+   ngon nhất, còn introduce un nuovo argomento e thì lo separa da ciò che se
+   ne dice.
+4. Il lessico astratto è in gran parte sino-vietnamita, cioè letto da
+   caratteri cinesi. học bổng 學俸 "borsa di studio", thạc sĩ 碩士 "master",
+   hiện đại 現代 "moderno", quyết định 決定 "decidere", công an 公安
+   "polizia", bảo hiểm 保險 "protezione". Il mũ bảo hiểm, alla lettera
+   "cappello di protezione", al Sud si chiama nón bảo hiểm.
+5. In moto il casco è obbligatorio dal 2007 e i controlli sono frequenti.
+   Sao ... thế? "come mai?" mostra anche partecipazione. Al Nord si dice thế,
+   thế thì "allora", al Sud vậy, vậy thì. Em nói y như người Ý ấy! "parli
+   proprio come un italiano" scherza su un amore per il cibo che i due paesi
+   condividono.
+notes.en:
+1. được and bị before a verb make a kind of passive, but with a judgement.
+   được is used when something good happens to the subject (em được nhận học
+   bổng "I've been given a scholarship"), bị when something unpleasant does
+   (anh bị công an phạt "I was fined by the police"). The doer comes right
+   after, bị công an phạt.
+2. The comparative is adjective + hơn (+ the other term), Milano hiện đại
+   hơn, nhiều việc làm hơn "more jobs". Equality uses bằng, không đắt bằng
+   "not as expensive", không ai nấu phở ngon bằng bác Hùng "nobody makes phở
+   as good as Mr Hùng". The superlative is adjective + nhất, ngon nhất nước
+   Ý.
+3. To give an opinion, say Theo anh ... "in your view", Anh nghĩ là ... "I
+   think that", Anh thấy ... "I find that"; nên gives advice, em nên học nấu
+   phở "you should learn". In Bologna ấm cúng hơn, còn đồ ăn ở đó thì ngon
+   nhất, còn brings in a new topic and thì separates it from what is said
+   about it.
+4. Abstract vocabulary is largely Sino-Vietnamese, read from Chinese
+   characters. học bổng 學俸 "scholarship", thạc sĩ 碩士 "master's degree",
+   hiện đại 現代 "modern", quyết định 決定 "decide", công an 公安 "police",
+   bảo hiểm 保險 "protection". The mũ bảo hiểm, literally "protection hat",
+   is called nón bảo hiểm in the South.
+5. Motorbike helmets have been compulsory since 2007 and checks are
+   frequent. Sao ... thế? "how come?" also shows concern. The North says
+   thế, thế thì "then", the South vậy, vậy thì. Em nói y như người Ý ấy!
+   "you sound just like an Italian" jokes about a love of food the two
+   countries share.
+notes.es:
+1. được y bị delante de un verbo forman una especie de pasiva, pero con un
+   juicio. được se usa cuando al sujeto le pasa algo bueno (em được nhận học
+   bổng "me han dado una beca"), bị cuando le pasa algo desagradable (anh bị
+   công an phạt "me ha multado la policía"). Quien realiza la acción va
+   justo después, bị công an phạt.
+2. El comparativo es adjetivo + hơn (+ segundo término), Milano hiện đại
+   hơn, nhiều việc làm hơn "más trabajo". La igualdad se expresa con bằng,
+   không đắt bằng "no tan caro", không ai nấu phở ngon bằng bác Hùng "nadie
+   hace el phở tan rico como Hùng". El superlativo es adjetivo + nhất, ngon
+   nhất nước Ý.
+3. Para dar una opinión se dice Theo anh ... "en tu opinión", Anh nghĩ là
+   ... "creo que", Anh thấy ... "me parece que"; nên da un consejo, em nên
+   học nấu phở "deberías aprender". En Bologna ấm cúng hơn, còn đồ ăn ở đó
+   thì ngon nhất, còn introduce un tema nuevo y thì lo separa de lo que se
+   dice de él.
+4. El léxico abstracto es en gran parte sinovietnamita, es decir, leído de
+   caracteres chinos. học bổng 學俸 "beca", thạc sĩ 碩士 "máster", hiện đại
+   現代 "moderno", quyết định 決定 "decidir", công an 公安 "policía", bảo
+   hiểm 保險 "protección". El mũ bảo hiểm, literalmente "gorro de
+   protección", en el Sur se llama nón bảo hiểm.
+5. En moto el casco es obligatorio desde 2007 y los controles son
+   frecuentes. Sao ... thế? "¿cómo es que...?" muestra también interés por el
+   otro. En el Norte se dice thế, thế thì "entonces"; en el Sur vậy, vậy
+   thì. Em nói y như người Ý ấy! "hablas igual que un italiano" bromea sobre
+   el amor por la comida que comparten los dos países.
+
+ex1:
+- Vào mùa đông, Hà Nội lạnh hơn Sài Gòn nhiều.
+  it: In inverno Hanoi è molto più fredda di Saigon.
+  en: In winter Hanoi is much colder than Saigon.
+  es: En invierno Hanói es mucho más fría que Saigón.
+- Hôm qua em được cô giáo khen.
+  it: Ieri la professoressa mi ha fatto i complimenti.
+  en: Yesterday the teacher praised me.
+  es: Ayer la profesora me felicitó.
+- Theo chị, phở gà có ngon bằng phở bò không?
+  it: Secondo te il phở al pollo è buono come quello al manzo?
+  en: In your opinion, is chicken phở as good as beef phở?
+  es: En tu opinión, ¿el phở de pollo está tan rico como el de ternera?
+- Anh ấy bị mất ví ở chợ Đồng Xuân.
+  it: Ha perso il portafoglio al mercato di Đồng Xuân.
+  en: He lost his wallet at Đồng Xuân market.
+  es: Perdió la cartera en el mercado de Đồng Xuân.
+
+ex2:
+- Anh [bị] công an phạt vì quên đội mũ bảo hiểm.
+  it: La polizia mi ha multato perché avevo dimenticato il casco.
+  en: I was fined by the police for forgetting my helmet.
+  es: Me multó la policía por olvidarme el casco.
+- Em [được] nhận học bổng sang Ý.
+  it: Ho ricevuto una borsa di studio per andare in Italia.
+  en: I've been given a scholarship to go to Italy.
+  es: Me han dado una beca para ir a Italia.
+- Ở Bologna không đắt [bằng] ở Milano.
+  it: A Bologna non è caro come a Milano.
+  en: Bologna isn't as expensive as Milan.
+  es: En Bolonia no es tan caro como en Milán.
+- [Theo] anh, thành phố nào tốt [hơn]?
+  it: Secondo te, quale città è meglio?
+  en: In your opinion, which city is better?
+  es: En tu opinión, ¿qué ciudad es mejor?
+
+== 76 B2
+title: Mở quán cà phê
+title.it: Aprire un caffè
+title.en: Opening a café
+title.es: Abrir una cafetería
+
+dialogue:
+- Con định bỏ việc ở ngân hàng để mở quán cà phê thật à? Con đã nghĩ kỹ chưa?
+  it: Vuoi davvero lasciare il lavoro in banca per aprire un caffè? Ci hai pensato bene?
+  en: Are you really planning to quit your bank job to open a café? Have you thought it through?
+  es: ¿De verdad piensas dejar el trabajo en el banco para abrir una cafetería? ¿Lo has pensado bien?
+- Con nghĩ kỹ rồi, bố ạ. Làm ngân hàng lương cao thật, nhưng ngày nào con cũng thấy mình như một cái máy.
+  it: Ci ho pensato bene, papà. In banca si guadagna bene, è vero, ma ogni giorno mi sento una macchina.
+  en: I have, Dad. The pay at the bank is good, it's true, but every day I feel like a machine.
+  es: Sí, papá, lo he pensado bien. En el banco se gana bien, es verdad, pero cada día me siento como una máquina.
+- Thời buổi này có việc ổn định là quý lắm rồi. Con đừng đứng núi này trông núi nọ.
+  it: Di questi tempi un lavoro sicuro è già una fortuna. Non credere che l'erba del vicino sia sempre più verde (stare su questo monte e guardare quell'altro).
+  en: These days a steady job is worth a great deal. Don't go thinking the grass is greener (stand on this mountain, gaze at that one).
+  es: Hoy en día un trabajo estable vale oro. No te creas que la hierba del vecino es más verde (estar en este monte y mirar aquel).
+- Bố lại lo bò trắng răng rồi! Con đã để dành tiền ba năm nay, và con có kế hoạch rõ ràng.
+  it: Ecco che ti preoccupi per niente (temere che la vacca abbia i denti bianchi)! Metto da parte soldi da tre anni e ho un piano preciso.
+  en: There you go again, worrying over nothing (fear the cow's teeth will be white)! I've been saving for three years and I have a clear plan.
+  es: ¡Ya estás otra vez preocupándote por nada (temer que la vaca tenga los dientes blancos)! Llevo tres años ahorrando y tengo un plan claro.
+- Kế hoạch trên giấy thì ai chẳng có. Mở quán thì dễ, giữ được quán mới khó. Bố thấy mười quán mở ra thì tám quán đóng cửa.
+  it: Piani sulla carta ne hanno tutti. Aprire un locale è facile, il difficile è tenerlo aperto. Da quel che vedo, su dieci che aprono otto chiudono.
+  en: Everyone has a plan on paper. Opening a place is easy; keeping it going is the hard part. From what I've seen, of every ten that open, eight close.
+  es: Planes sobre el papel los tiene cualquiera. Abrir un local es fácil; lo difícil es mantenerlo. Por lo que veo, de cada diez que abren, cierran ocho.
+- Bác ơi, cháu xin phép góp một ý được không ạ?
+  it: Signor Hùng, mi permette di dire la mia?
+  en: Mr Hùng, may I put in a word?
+  es: Señor Hùng, ¿me permite dar mi opinión?
+- Cháu cứ nói.
+  it: Dimmi pure.
+  en: Go ahead.
+  es: Adelante, habla.
+- Cháu thấy bác nói có lý, rủi ro là có thật. Nhưng chị Lan đâu phải kiểu nước đến chân mới nhảy. Chị ấy chuẩn bị từ lâu rồi, lại còn học pha chế suốt một năm nay.
+  it: Secondo me lei ha ragione, il rischio c'è davvero. Ma Lan non è certo il tipo che si muove all'ultimo momento (saltare solo quando l'acqua arriva ai piedi). Si prepara da molto tempo, e per di più studia da barista da un anno.
+  en: I think you have a point, the risk is real. But Lan is hardly the type to leave things to the last minute (jump only when the water reaches your feet). She's been preparing for a long time, and she's been training as a barista for a whole year as well.
+  es: Creo que usted tiene razón, el riesgo es real. Pero Lan no es de las que lo dejan todo para el último momento (saltar solo cuando el agua llega a los pies). Lleva mucho tiempo preparándose, y encima lleva un año formándose como barista.
+- Ừ thì... bố không cấm. Nhưng thất bại thì đừng có về khóc với bố đấy nhé.
+  it: E va bene... non te lo proibisco. Ma se va male, non venire a piangere da me, eh.
+  en: Well, all right... I won't forbid it. But if it fails, don't come crying to me.
+  es: Bueno, vale... no te lo prohíbo. Pero si sale mal, no vengas a llorarme, ¿eh?
+- Con hứa. Mà khi quán khai trương, bố sẽ là vị khách đầu tiên, được uống cà phê miễn phí cả đời!
+  it: Promesso. E quando il locale aprirà, sarai il primo cliente, con il caffè gratis a vita!
+  en: I promise. And when the café opens, you'll be the very first customer, with free coffee for life!
+  es: Te lo prometo. Y cuando abra la cafetería, serás el primer cliente, ¡con café gratis de por vida!
+
+notes.it:
+1. Tre thành ngữ, espressioni fisse che entrano nella frase come parole
+   qualsiasi. đứng núi này trông núi nọ "stare su questo monte e guardare
+   quell'altro", non accontentarsi mai; lo bò trắng răng "temere che la
+   vacca abbia i denti bianchi", preoccuparsi per nulla; nước đến chân mới
+   nhảy "saltare solo quando l'acqua arriva ai piedi", ridursi all'ultimo
+   momento.
+2. Le domande retoriche affermano con forza. ai chẳng có "chi non ce l'ha?",
+   cioè "ce l'hanno tutti"; đâu phải "non è mica", chị Lan đâu phải kiểu
+   ... "Lan non è mica il tipo che ...". In giữ được quán mới khó, mới
+   davanti al predicato indica il punto davvero difficile, "il difficile è
+   tenerlo aperto". thật dopo l'aggettivo concede un punto prima di
+   contraddirlo, lương cao thật, nhưng ...
+3. Registro in famiglia. Lan usa con ("figlio, figlia") per sé e bố per il
+   padre, e addolcisce con bố ạ; il padre parla di sé come bố. Luca, ospite
+   in una discussione di famiglia, chiede il permesso con xin phép e góp một
+   ý "contribuire con un'idea", e chiude con ạ. Cháu cứ nói "parla pure" è
+   il permesso del più anziano.
+4. Particelle di tono. lại ... rồi! "ci risiamo", con un filo di fastidio;
+   ừ thì ... concede a malincuore; đừng có ... đấy nhé è un avvertimento
+   affettuoso ma serio; lại còn "e per giunta" aggiunge un argomento.
+5. Al Sud il padre si chiama ba, che è anche il numero "tre", ba năm nay "da
+   tre anni". Khai trương 開張 è l'inaugurazione di un negozio, spesso
+   fissata in un giorno di buon auspicio. Il classificatore vị davanti a
+   khách "cliente, ospite" aggiunge rispetto, vị khách đầu tiên.
+notes.en:
+1. Three thành ngữ, fixed expressions slotted into a sentence like any other
+   words. đứng núi này trông núi nọ "stand on this mountain, gaze at that
+   one", never be content; lo bò trắng răng "fear the cow's teeth will be
+   white", worry over nothing; nước đến chân mới nhảy "jump only when the
+   water reaches your feet", leave things to the last minute.
+2. Rhetorical questions make strong statements. ai chẳng có "who doesn't
+   have one?", meaning everyone does; đâu phải "it's hardly as if", chị Lan
+   đâu phải kiểu ... "Lan is hardly the type who ...". In giữ được quán mới
+   khó, mới before the predicate marks the truly hard part, "keeping it
+   going is the hard part". thật after an adjective concedes a point before
+   contradicting it, lương cao thật, nhưng ...
+3. Register in the family. Lan uses con ("child") for herself and bố for her
+   father, softening with bố ạ; he calls himself bố. Luca, a guest in a
+   family argument, asks permission with xin phép and góp một ý "contribute
+   an idea", and ends with ạ. Cháu cứ nói "go ahead" is the elder's
+   permission.
+4. Tone particles. lại ... rồi! "here we go again", with mild irritation;
+   ừ thì ... concedes reluctantly; đừng có ... đấy nhé is an affectionate but
+   serious warning; lại còn "and on top of that" adds an argument.
+5. In the South "father" is ba, which is also the number "three", ba năm nay
+   "for three years now". Khai trương 開張 is a shop's opening, often set on
+   an auspicious day. The classifier vị before khách "guest, customer" adds
+   respect, vị khách đầu tiên.
+notes.es:
+1. Tres thành ngữ, expresiones fijas que se insertan en la frase como
+   cualquier otra palabra. đứng núi này trông núi nọ "estar en este monte y
+   mirar aquel", no conformarse nunca; lo bò trắng răng "temer que la vaca
+   tenga los dientes blancos", preocuparse por nada; nước đến chân mới nhảy
+   "saltar solo cuando el agua llega a los pies", dejarlo todo para el
+   último momento.
+2. Las preguntas retóricas afirman con fuerza. ai chẳng có "¿quién no lo
+   tiene?", es decir, "lo tiene todo el mundo"; đâu phải "no es que", chị
+   Lan đâu phải kiểu ... "Lan no es de las que ...". En giữ được quán mới
+   khó, mới delante del predicado señala justamente lo difícil, "lo difícil
+   es mantenerlo". thật después del adjetivo concede un punto antes de
+   rebatirlo, lương cao thật, nhưng ...
+3. Registro en familia. Lan usa con ("hijo, hija") para sí y bố para su
+   padre, y suaviza con bố ạ; el padre habla de sí mismo como bố. Luca,
+   invitado en una discusión familiar, pide permiso con xin phép y góp một ý
+   "aportar una idea", y cierra con ạ. Cháu cứ nói "habla, adelante" es el
+   permiso del mayor.
+4. Partículas de tono. lại ... rồi! "ya estamos otra vez", con cierto
+   fastidio; ừ thì ... concede a regañadientes; đừng có ... đấy nhé es un
+   aviso cariñoso pero serio; lại còn "y encima" añade un argumento.
+5. En el Sur al padre se le llama ba, que es también el número "tres", ba
+   năm nay "desde hace tres años". Khai trương 開張 es la inauguración de un
+   negocio, a menudo fijada en un día propicio. El clasificador vị delante
+   de khách "cliente, invitado" añade respeto, vị khách đầu tiên.
+
+ex1:
+- Anh ấy lúc nào cũng đứng núi này trông núi nọ.
+  it: Lui non è mai contento di quello che ha.
+  en: He's never happy with what he's got.
+  es: Él nunca está contento con lo que tiene.
+- Em đừng lo bò trắng răng, mọi việc sẽ ổn thôi.
+  it: Non preoccuparti per niente, andrà tutto bene.
+  en: Don't worry over nothing, everything will be fine.
+  es: No te preocupes por nada, todo saldrá bien.
+- Sinh viên hay nước đến chân mới nhảy.
+  it: Gli studenti tendono a ridursi all'ultimo momento.
+  en: Students tend to leave everything to the last minute.
+  es: Los estudiantes suelen dejarlo todo para el último momento.
+- Cháu xin phép góp một ý được không ạ?
+  it: Posso permettermi di dire la mia?
+  en: May I offer a suggestion?
+  es: ¿Me permite hacer un comentario?
+
+ex2:
+- Con nghĩ [kỹ] [rồi], bố ạ.
+  it: Ci ho pensato bene, papà.
+  en: I've thought it through, Dad.
+  es: Lo he pensado bien, papá.
+- Kế hoạch trên giấy thì [ai] [chẳng] có.
+  it: Piani sulla carta ne hanno tutti.
+  en: Everyone has a plan on paper.
+  es: Planes sobre el papel los tiene cualquiera.
+- Mở quán thì dễ, giữ được quán [mới] khó.
+  it: Aprire un locale è facile, il difficile è tenerlo aperto.
+  en: Opening a place is easy; keeping it going is the hard part.
+  es: Abrir un local es fácil; lo difícil es mantenerlo.
+- Bố lại lo [bò] trắng [răng] rồi!
+  it: Ecco che ti preoccupi per niente!
+  en: There you go again, worrying over nothing!
+  es: ¡Ya estás otra vez preocupándote por nada!
+
+== 151 C1
+title: Lên báo
+title.it: Sul giornale
+title.en: In the papers
+title.es: En el periódico
+
+dialogue:
+- Chị Lan ơi, báo viết về quán chị này! Để em đọc cho chị nghe nhé.
+  it: Lan, guarda, il giornale parla del tuo locale! Te lo leggo.
+  en: Lan, look, the paper has written about your café! Let me read it to you.
+  es: ¡Lan, mira, el periódico habla de tu cafetería! Te lo leo.
+- “Quán cà phê nhỏ giữa lòng phố cổ: khi kinh doanh song hành cùng gìn giữ di sản”
+  it: «Un piccolo caffè nel cuore del centro storico: quando l'impresa va di pari passo con la tutela del patrimonio»
+  en: "A small café in the heart of the Old Quarter: when business goes hand in hand with heritage conservation"
+  es: «Un pequeño café en pleno casco antiguo: cuando el negocio va de la mano de la conservación del patrimonio»
+- Nằm khuất trong một con ngõ nhỏ thuộc khu phố cổ, quán cà phê do chị Nguyễn Thị Lan làm chủ đang thu hút đông đảo khách hàng, đặc biệt là giới trẻ.
+  it: Nascosto in un vicolo del centro storico, il caffè di proprietà della signora Nguyễn Thị Lan attira numerosi clienti, soprattutto giovani.
+  en: Tucked away in a small alley in the Old Quarter, the café owned by Ms Nguyễn Thị Lan is drawing large numbers of customers, young people in particular.
+  es: Escondido en un pequeño callejón del casco antiguo, el café que regenta Nguyễn Thị Lan atrae a numerosos clientes, sobre todo jóvenes.
+- Theo ghi nhận của phóng viên, quán được cải tạo từ một căn nhà ống gần một trăm năm tuổi, song vẫn giữ nguyên kết cấu gỗ và nền gạch hoa truyền thống.
+  it: Secondo quanto rilevato dal nostro cronista, il locale è stato ricavato da una casa a tubo vecchia di quasi un secolo, conservandone però intatte le strutture in legno e il tradizionale pavimento di piastrelle decorate.
+  en: According to our reporter's observations, the café was converted from a nearly century-old tube house, yet it keeps its original wooden structure and traditional patterned-tile floor.
+  es: Según ha podido constatar nuestro reportero, el local se reformó a partir de una casa tubo de casi cien años, aunque conserva intactas su estructura de madera y el tradicional suelo de baldosas decoradas.
+- Chia sẻ với chúng tôi, chủ quán cho biết chị từng có gần mười năm công tác trong lĩnh vực tài chính – ngân hàng trước khi quyết định khởi nghiệp.
+  it: Interpellata da noi, la titolare ha raccontato di aver lavorato per quasi dieci anni nel settore bancario e finanziario prima di decidere di mettersi in proprio.
+  en: Speaking to us, the owner said she had spent almost ten years working in finance and banking before deciding to start her own business.
+  es: En declaraciones a este medio, la propietaria explicó que trabajó casi diez años en el sector financiero y bancario antes de decidirse a emprender.
+- “Tôi mong muốn tạo ra một không gian để người trẻ tìm lại nhịp sống chậm rãi của Hà Nội xưa,” chị Lan nói.
+  it: «Vorrei creare uno spazio in cui i giovani ritrovino il ritmo lento della Hanoi di un tempo», afferma Lan.
+  en: "I want to create a space where young people can rediscover the slow pace of old Hanoi," Ms Lan says.
+  es: «Quiero crear un espacio donde los jóvenes recuperen el ritmo pausado del Hanói de antaño», afirma Lan.
+- Đáng chú ý, quán ưu tiên sử dụng nguyên liệu có nguồn gốc rõ ràng, chủ yếu là cà phê Robusta từ Tây Nguyên.
+  it: Da notare che il locale privilegia materie prime di provenienza tracciabile, soprattutto caffè Robusta degli Altipiani Centrali.
+  en: Notably, the café favours ingredients of traceable origin, mainly Robusta coffee from the Central Highlands.
+  es: Cabe destacar que el local da prioridad a materias primas de origen conocido, sobre todo café robusta de las Tierras Altas Centrales.
+- Tuy nhiên, trong bối cảnh tốc độ đô thị hóa ngày càng nhanh, bài toán cân bằng giữa phát triển kinh tế và bảo tồn di sản vẫn là một thách thức không nhỏ.
+  it: Tuttavia, in un contesto di urbanizzazione sempre più rapida, conciliare sviluppo economico e tutela del patrimonio resta una sfida non da poco.
+  en: However, against a backdrop of ever faster urbanisation, striking a balance between economic development and heritage conservation remains no small challenge.
+  es: Sin embargo, en un contexto de urbanización cada vez más acelerada, encontrar el equilibrio entre desarrollo económico y conservación del patrimonio sigue siendo un reto nada desdeñable.
+- Giới chuyên gia nhận định, những mô hình kinh doanh gắn với việc gìn giữ kiến trúc cổ cần được nhân rộng, nhằm góp phần bảo tồn bản sắc văn hóa của Thủ đô.
+  it: Secondo gli esperti, i modelli d'impresa legati alla salvaguardia dell'architettura storica andrebbero diffusi, così da contribuire a preservare l'identità culturale della Capitale.
+  en: Experts believe that business models tied to preserving historic architecture should be replicated, so as to help conserve the cultural identity of the Capital.
+  es: Los expertos consideran que los modelos de negocio vinculados a la preservación de la arquitectura antigua deberían extenderse, con el fin de contribuir a conservar la identidad cultural de la Capital.
+- Trời, nghe cứ như chị là anh hùng bảo tồn di sản ấy! Chị chỉ muốn bán cà phê ngon thôi mà.
+  it: Accidenti, sembra che io sia un'eroina della tutela del patrimonio! Io voglio solo vendere del buon caffè.
+  en: Goodness, it makes me sound like some heroine of heritage conservation! All I want is to sell good coffee.
+  es: ¡Madre mía, parece que soy una heroína de la conservación del patrimonio! Yo solo quiero vender buen café.
+- Văn báo chí là thế mà chị. Một câu “cà phê ngon” phải viết thành ba dòng Hán Việt mới đủ trang trọng.
+  it: Lo stile dei giornali è fatto così. Una frase come «caffè buono» va allungata in tre righe di parole sino-vietnamite, altrimenti non è abbastanza solenne.
+  en: That's journalese for you. A phrase like "good coffee" has to be stretched into three lines of Sino-Vietnamese before it sounds dignified enough.
+  es: Así es el estilo periodístico. Una frase como «café rico» hay que estirarla en tres líneas de palabras sinovietnamitas para que suene lo bastante solemne.
+- Thôi, em cắt bài báo ra cho chị, chị đóng khung treo lên tường. Bố chị chắc chắn sẽ khoe với cả phố.
+  it: Dai, ritagliami l'articolo, che lo incornicio e lo appendo al muro. Mio padre di sicuro lo farà vedere a tutta la via.
+  en: Go on, cut the article out for me and I'll frame it and hang it on the wall. My father is bound to show it off to the whole street.
+  es: Anda, recórtame el artículo, que lo enmarco y lo cuelgo en la pared. Seguro que mi padre se lo enseña a toda la calle.
+
+notes.it:
+1. Lo stile giornalistico è pieno di composti sino-vietnamiti. phóng viên
+   訪員 "cronista", di sản 遺產 "patrimonio", bảo tồn 保存 "conservare", đô
+   thị hóa 都市化 "urbanizzazione", bối cảnh 背景 "contesto", khởi nghiệp 起業
+   "avviare un'impresa", thủ đô 首都 "capitale". Molti hanno un equivalente
+   vietnamita più quotidiano, bảo tồn / gìn giữ "conservare", khởi nghiệp /
+   mở quán.
+2. Nei composti sino-vietnamiti il determinante viene prima, come in cinese,
+   thủ đô "capo-città", di sản "lasciato-bene"; nei composti vietnamiti
+   viene dopo, nhà ống "casa-tubo", gạch hoa "piastrella-fiore".
+   Riconoscere i due ordini aiuta a decifrare le parole nuove.
+3. Formule della cronaca. Theo ghi nhận của phóng viên "secondo quanto
+   rilevato dal cronista"; Chia sẻ với chúng tôi, X cho biết "parlando con
+   noi, X ha riferito"; Đáng chú ý "da notare"; Giới chuyên gia nhận định
+   "gli esperti ritengono"; một thách thức không nhỏ "una sfida non da
+   poco", litote molto amata. bài toán, alla lettera "problema di
+   matematica", indica una questione da risolvere. Il giornale parla di sé
+   come chúng tôi "noi", e il signor Hùng vi comparirebbe come ông Hùng, non
+   bác.
+4. Connettivi formali. song "tuttavia" (nel parlato nhưng), nhằm "allo scopo
+   di" (nel parlato để), từng "in passato, già", do ... làm chủ "di
+   proprietà di". Nello stile formale được è un passivo neutro, senza l'idea
+   di vantaggio vista nella lezione 51, quán được cải tạo, cần được nhân
+   rộng. Thủ đô vuole la maiuscola quando indica Hanoi.
+5. Ortografia e registro. Per oa, oe, uy il segno del tono ha due
+   collocazioni, hóa / hoá, khỏe / khoẻ, thủy / thuỷ; sono diffuse entrambe
+   e questo corso usa la prima. Nella citazione Lan dice tôi, il pronome
+   neutro della vita pubblica; con Luca torna a chị e al parlato, cứ như ...
+   ấy "proprio come se", thôi mà "e basta".
+notes.en:
+1. Press style is full of Sino-Vietnamese compounds. phóng viên 訪員
+   "reporter", di sản 遺產 "heritage", bảo tồn 保存 "conserve", đô thị hóa
+   都市化 "urbanisation", bối cảnh 背景 "context", khởi nghiệp 起業 "start a
+   business", thủ đô 首都 "capital". Many have a more everyday native
+   counterpart, bảo tồn / gìn giữ "preserve", khởi nghiệp / mở quán.
+2. In Sino-Vietnamese compounds the modifier comes first, as in Chinese, thủ
+   đô "head-city", di sản "bequeathed-property"; in native compounds it
+   comes second, nhà ống "house-tube", gạch hoa "tile-flower". Recognising
+   the two orders helps you decode new words.
+3. Press formulas. Theo ghi nhận của phóng viên "according to the reporter's
+   observations"; Chia sẻ với chúng tôi, X cho biết "speaking to us, X said";
+   Đáng chú ý "notably"; Giới chuyên gia nhận định "experts believe"; một
+   thách thức không nhỏ "no small challenge", a favourite litotes. bài toán,
+   literally "maths problem", means an issue to be solved. The paper calls
+   itself chúng tôi "we", and Mr Hùng would appear in it as ông Hùng, not
+   bác.
+4. Formal connectives. song "however" (in speech nhưng), nhằm "in order to"
+   (in speech để), từng "once, previously", do ... làm chủ "owned by". In
+   formal style được is a neutral passive, without the sense of benefit seen
+   in lesson 51, quán được cải tạo, cần được nhân rộng. Thủ đô takes a
+   capital letter when it means Hanoi.
+5. Spelling and register. In oa, oe, uy the tone mark has two placements,
+   hóa / hoá, khỏe / khoẻ, thủy / thuỷ; both are widely used and this course
+   writes the first. In the quotation Lan says tôi, the neutral pronoun of
+   public life; with Luca she goes back to chị and to speech, cứ như ... ấy
+   "just as if", thôi mà "that's all".
+notes.es:
+1. El estilo periodístico está lleno de compuestos sinovietnamitas. phóng
+   viên 訪員 "reportero", di sản 遺產 "patrimonio", bảo tồn 保存 "conservar",
+   đô thị hóa 都市化 "urbanización", bối cảnh 背景 "contexto", khởi nghiệp
+   起業 "emprender", thủ đô 首都 "capital". Muchos tienen un equivalente
+   vietnamita más cotidiano, bảo tồn / gìn giữ "conservar", khởi nghiệp / mở
+   quán.
+2. En los compuestos sinovietnamitas el modificador va delante, como en
+   chino, thủ đô "cabeza-ciudad", di sản "legado-bien"; en los compuestos
+   vietnamitas va detrás, nhà ống "casa-tubo", gạch hoa "baldosa-flor".
+   Reconocer los dos órdenes ayuda a descifrar palabras nuevas.
+3. Fórmulas de la prensa. Theo ghi nhận của phóng viên "según ha constatado
+   el reportero"; Chia sẻ với chúng tôi, X cho biết "en declaraciones a este
+   medio, X explicó"; Đáng chú ý "cabe destacar"; Giới chuyên gia nhận định
+   "los expertos consideran"; một thách thức không nhỏ "un reto nada
+   pequeño", lítote muy apreciada. bài toán, literalmente "problema de
+   matemáticas", designa una cuestión por resolver. El periódico habla de sí
+   mismo como chúng tôi "nosotros", y el señor Hùng aparecería como ông
+   Hùng, no bác.
+4. Conectores formales. song "sin embargo" (al hablar nhưng), nhằm "con el
+   fin de" (al hablar để), từng "antes, en otro tiempo", do ... làm chủ "de
+   propiedad de". En el estilo formal được es una pasiva neutra, sin la idea
+   de beneficio vista en la lección 51, quán được cải tạo, cần được nhân
+   rộng. Thủ đô lleva mayúscula cuando se refiere a Hanói.
+5. Ortografía y registro. En oa, oe, uy la marca de tono tiene dos
+   posiciones, hóa / hoá, khỏe / khoẻ, thủy / thuỷ; ambas están extendidas y
+   este curso usa la primera. En la cita Lan dice tôi, el pronombre neutro
+   de la vida pública; con Luca vuelve a chị y al registro hablado, cứ như
+   ... ấy "igual que si", thôi mà "y ya está".
+
+ex1:
+- Theo ghi nhận của phóng viên, lượng khách du lịch đến Thủ đô đã tăng mạnh trong năm qua.
+  it: Secondo quanto rilevato dal nostro cronista, l'afflusso di turisti nella Capitale è cresciuto molto nell'ultimo anno.
+  en: According to our reporter, the number of tourists visiting the Capital rose sharply over the past year.
+  es: Según ha podido constatar nuestro reportero, la llegada de turistas a la Capital ha aumentado mucho en el último año.
+- Chia sẻ với chúng tôi, ông Hùng cho biết ông đã bán phở hơn ba mươi năm.
+  it: Parlando con noi, il signor Hùng ha riferito di vendere phở da oltre trent'anni.
+  en: Speaking to us, Mr Hùng said he has been selling phở for more than thirty years.
+  es: En declaraciones a este medio, el señor Hùng explicó que lleva más de treinta años vendiendo phở.
+- Căn nhà được cải tạo, song vẫn giữ nguyên nét kiến trúc truyền thống.
+  it: La casa è stata ristrutturata, ma conserva intatto il suo carattere architettonico tradizionale.
+  en: The house has been renovated, yet it keeps its traditional architectural character intact.
+  es: La casa ha sido reformada, aunque conserva intacto su carácter arquitectónico tradicional.
+- Bảo tồn di sản trong bối cảnh đô thị hóa là một bài toán khó.
+  it: Tutelare il patrimonio in un contesto di urbanizzazione è una questione difficile.
+  en: Conserving heritage amid urbanisation is a difficult problem.
+  es: Conservar el patrimonio en un contexto de urbanización es una cuestión difícil.
+
+ex2:
+- [Theo] ghi nhận của phóng viên, quán đang thu hút đông đảo khách hàng.
+  it: Secondo quanto rilevato dal cronista, il locale attira numerosi clienti.
+  en: According to the reporter, the café is drawing large numbers of customers.
+  es: Según ha constatado el reportero, el local atrae a numerosos clientes.
+- Mô hình này cần được nhân rộng [nhằm] góp phần bảo tồn [di sản].
+  it: Questo modello andrebbe diffuso per contribuire a tutelare il patrimonio.
+  en: This model should be replicated in order to help conserve heritage.
+  es: Este modelo debería extenderse con el fin de contribuir a conservar el patrimonio.
+- Quán được cải tạo từ một căn nhà cổ, [song] vẫn giữ nguyên kết cấu gỗ.
+  it: Il locale è stato ricavato da una casa antica, ma conserva intatte le strutture in legno.
+  en: The café was converted from an old house, yet it keeps its wooden structure intact.
+  es: El local se reformó a partir de una casa antigua, aunque conserva intacta su estructura de madera.
+- Đây vẫn là một [thách thức] không [nhỏ].
+  it: Resta una sfida non da poco.
+  en: This remains no small challenge.
+  es: Sigue siendo un reto nada desdeñable.
+
+== 201 C2
+title: Chuyện một chữ “tôi”
+title.it: Storia della parola «io»
+title.en: The story of the word "I"
+title.es: Historia de la palabra «yo»
+
+dialogue:
+- Mười năm trước, tôi đặt chân đến Hà Nội với một cuốn từ điển bỏ túi và mấy câu chào học vội trên máy bay, tin rằng thế là đủ để bắt đầu một cuộc đời mới.
+  it: Dieci anni fa misi piede a Hanoi con un dizionario tascabile e qualche saluto imparato in fretta sull'aereo, convinto che bastasse per cominciare una vita nuova.
+  en: Ten years ago I set foot in Hanoi with a pocket dictionary and a few greetings hastily learned on the plane, convinced that this was enough to begin a new life.
+  es: Hace diez años pisé Hanói con un diccionario de bolsillo y unos cuantos saludos aprendidos a toda prisa en el avión, convencido de que bastaba para empezar una vida nueva.
+- Cuốn từ điển dạy tôi rằng “tôi” là “io”, “bạn” là “tu”, gọn gàng như một phép tính; phải mất gần một mùa đông, cùng không ít lần bẽ mặt, tôi mới hiểu rằng ở xứ này chẳng ai là “tôi” một cách trơ trọi cả.
+  it: Il dizionario mi insegnava che tôi era «io» e bạn era «tu», puliti come un'operazione aritmetica; mi ci vollero quasi un inverno intero e non poche figuracce per capire che, da queste parti, nessuno è semplicemente «io».
+  en: The dictionary taught me that tôi was "I" and bạn was "you", as tidy as a sum; it took me nearly a whole winter, and more than a few humiliations, to understand that in this country nobody is simply "I".
+  es: El diccionario me enseñaba que tôi era «yo» y bạn era «tú», limpios como una operación aritmética; me hicieron falta casi un invierno entero y no pocos bochornos para entender que, en esta tierra, nadie es «yo» a secas.
+- Trước chị Lan, tôi là em; trước Minh, tôi là anh; trước bác Hùng, tôi là cháu. Mỗi lần mở miệng là một lần tự định vị mình trong tấm lưới chằng chịt của tuổi tác và tình thân.
+  it: Davanti a Lan ero em, davanti a Minh ero anh, davanti al signor Hùng ero cháu. Ogni volta che aprivo bocca dovevo ricollocarmi nella fitta rete dell'età e della parentela.
+  en: Before Lan I was em, before Minh I was anh, before Mr Hùng I was cháu. Every time I opened my mouth I had to place myself anew in the dense web of age and kinship.
+  es: Ante Lan yo era em; ante Minh, anh; ante el señor Hùng, cháu. Cada vez que abría la boca tenía que volver a situarme en la tupida red de la edad y el parentesco.
+- Có lần, muốn tỏ ra lịch sự cho phải phép, tôi thưa chuyện với bác Hùng bằng một chữ “tôi” tròn vành rõ chữ. Bác đặt đũa xuống, nhìn tôi hồi lâu rồi hỏi: “Cháu giận bác chuyện gì à?”
+  it: Una volta, volendo mostrarmi educato come si deve, mi rivolsi al signor Hùng con un tôi scandito alla perfezione. Lui posò le bacchette, mi fissò a lungo e poi chiese: «Ce l'hai con me per qualcosa?»
+  en: Once, wishing to appear properly polite, I addressed Mr Hùng with a beautifully enunciated tôi. He put down his chopsticks, looked at me for a long moment and asked: "Are you cross with me about something?"
+  es: Una vez, queriendo mostrarme educado como Dios manda, me dirigí al señor Hùng con un tôi pronunciado a la perfección. Él dejó los palillos, me miró largo rato y preguntó: «¿Estás enfadado conmigo por algo?»
+- Hóa ra, cái đại từ mà sách vở gọi là trung tính lại lạnh lùng nhất, như một cánh cửa khép hờ giữa hai người vốn đã ngồi chung một mâm cơm.
+  it: Si scoprì così che il pronome che i libri chiamano neutro era il più freddo di tutti, una porta socchiusa fra due persone che già dividevano la stessa tavola.
+  en: It turned out that the pronoun the textbooks call neutral was the coldest of all, a door left ajar between two people who already shared the same table.
+  es: Resultó que el pronombre que los libros llaman neutro era el más frío de todos, una puerta entornada entre dos personas que ya compartían la misma mesa.
+- Ông bà ta dạy: “Học ăn, học nói, học gói, học mở.” Học ăn thì tôi tiến bộ khá nhanh, phở của bác Hùng là người thầy tận tụy nhất; còn học nói thì đến nay vẫn dang dở.
+  it: I nostri vecchi insegnano: «Impara a mangiare, impara a parlare, impara a incartare, impara a scartare». A mangiare ho fatto presto progressi, e il phở del signor Hùng è stato il più devoto dei maestri; a parlare, invece, sto ancora imparando.
+  en: As our elders teach: "Learn to eat, learn to speak, learn to wrap, learn to unwrap." At eating I made quick progress, Mr Hùng's phở being the most devoted of teachers; speaking, to this day, remains unfinished.
+  es: Como enseñan nuestros mayores: «Aprende a comer, aprende a hablar, aprende a envolver, aprende a desenvolver». En lo de comer progresé deprisa, pues el phở del señor Hùng fue el más entregado de los maestros; lo de hablar, en cambio, sigue a medias.
+- Minh giờ đã là thạc sĩ, định cư ở Bologna, thỉnh thoảng gửi thư cho tôi bằng thứ tiếng Ý chuẩn mực đến mức tôi, một người Ý chính gốc, phải tra từ điển.
+  it: Minh oggi ha la sua magistrale, vive a Bologna e ogni tanto mi scrive in un italiano così impeccabile che io, italiano di nascita, devo consultare il dizionario.
+  en: Minh now holds his master's degree, has settled in Bologna and now and then writes to me in Italian so impeccable that I, an Italian born and bred, have to reach for the dictionary.
+  es: Minh tiene ya su máster, se ha establecido en Bolonia y de vez en cuando me escribe en un italiano tan impecable que yo, italiano de nacimiento, tengo que consultar el diccionario.
+- Quán của chị Lan vẫn đông khách như ngày đầu; bài báo năm nào vẫn treo nơi góc tường, giấy đã ngả màu, câu chữ Hán Việt vẫn trang trọng như cũ.
+  it: Il locale di Lan è affollato come il primo giorno; l'articolo di allora è ancora appeso in un angolo, la carta ingiallita, le parole sino-vietnamite solenni come sempre.
+  en: Lan's café is as busy as on its first day; that old article still hangs in a corner, its paper yellowed, its Sino-Vietnamese phrases as solemn as ever.
+  es: El café de Lan sigue tan lleno como el primer día; aquel artículo sigue colgado en un rincón, el papel amarillento, las palabras sinovietnamitas tan solemnes como siempre.
+- Bác Hùng đã thôi bán phở, nhưng sáng nào cũng ra quán của con gái gọi một cốc cà phê “miễn phí cả đời”, rồi kể với khách lạ rằng chính bác đã khuyên con gái mở quán.
+  it: Il signor Hùng non vende più phở, ma ogni mattina va al locale della figlia, ordina un caffè «gratis a vita» e racconta ai clienti nuovi che è stato proprio lui a consigliarle di aprirlo.
+  en: Mr Hùng no longer sells phở, but every morning he goes to his daughter's café, orders a coffee "free for life" and tells newcomers that it was he who advised her to open it.
+  es: El señor Hùng ya no vende phở, pero cada mañana se acerca al café de su hija, pide un café «gratis de por vida» y cuenta a los clientes nuevos que fue él quien le aconsejó abrirlo.
+- Người xưa nói: “Đi một ngày đàng, học một sàng khôn.” Tôi đã đi mười năm, sàng khôn vẫn chưa đầy, nhưng ít ra cũng biết nên xưng hô thế nào trước một bát phở.
+  it: Dicevano gli antichi: «Un giorno di cammino, un setaccio di saggezza». Io ho camminato dieci anni e il setaccio non è ancora pieno, ma almeno so come rivolgermi agli altri davanti a una scodella di phở.
+  en: The ancients said: "Travel one day's road, gain a sieveful of wisdom." I have travelled ten years and the sieve is not yet full, but at least I know how to address people over a bowl of phở.
+  es: Decían los antiguos: «Un día de camino, un cedazo de sabiduría». Yo he caminado diez años y el cedazo aún no está lleno, pero al menos sé cómo dirigirme a los demás delante de un tazón de phở.
+- Mỗi khi có ai khen tiếng Việt của tôi, tôi lại nghĩ đến bốn chữ “uống nước nhớ nguồn”: nguồn của tôi là một căn nhà ống, một quán phở và ba con người đã kiên nhẫn sửa cho một kẻ xa lạ từng dấu thanh.
+  it: E ogni volta che qualcuno loda il mio vietnamita, ripenso alle quattro parole «bevendo l'acqua, ricorda la sorgente»: la mia sorgente è una casa a tubo, una bottega di phở e tre persone che hanno corretto con pazienza, a uno sconosciuto, ogni singolo segno di tono.
+  en: And whenever someone praises my Vietnamese, I think of the four words "when you drink water, remember its source": my source is a tube house, a phở shop and three people who patiently corrected, for a stranger, every single tone mark.
+  es: Y cada vez que alguien elogia mi vietnamita, pienso en las cuatro palabras «al beber agua, recuerda la fuente»: mi fuente es una casa tubo, una tienda de phở y tres personas que corrigieron con paciencia, a un desconocido, cada una de sus marcas de tono.
+
+notes.it:
+1. Tre tục ngữ, proverbi della tradizione orale. Học ăn, học nói, học gói,
+   học mở ricorda che le buone maniere si imparano in tutto, dal mangiare al
+   parlare; Đi một ngày đàng, học một sàng khôn dice che viaggiare insegna
+   (đàng è una forma antica di đường "strada", sàng il setaccio di bambù per
+   il riso); Uống nước nhớ nguồn chiede di non dimenticare chi ci ha
+   aiutato. Luca non si limita a citarli, li piega al proprio racconto, sàng
+   khôn vẫn chưa đầy.
+2. L'ironia è discreta e spesso rivolta a sé stessi. Il tôi "neutro" che
+   ferisce il signor Hùng; Minh che scrive un italiano troppo perfetto per
+   un italiano; il padre che si vanta di aver consigliato il locale che
+   voleva impedire (lezione 76); l'articolo ingiallito, "solenne come sempre"
+   (lezione 151). Perfino ông bà ta "i nostri avi", detto da un italiano,
+   rivela quanto Luca si senta ormai a casa.
+3. Lessico letterario. đặt chân "mettere piede", bẽ mặt "fare una
+   figuraccia", trơ trọi "isolato, solo", chằng chịt "fitto, intricato",
+   khép hờ "socchiuso", dang dở "lasciato a metà", ngả màu "ingiallito".
+   tròn vành rõ chữ "dal bordo tondo e dalla parola chiara" descrive una
+   pronuncia scandita; ngồi chung một mâm, dividere il vassoio dei pasti di
+   famiglia, indica intimità.
+4. Xưng hô, il modo di chiamare sé stessi e gli altri, è il vero tema del
+   testo. tôi va bene con gli sconosciuti, al lavoro, nei discorsi pubblici e
+   nello scritto, ma tra persone legate da affetto suona distante, perfino
+   ostile; Cháu giận bác chuyện gì à? è la reazione naturale. thưa chuyện
+   "parlare con rispetto a un anziano" e cho phải phép "come vuole
+   l'etichetta" appartengono allo stesso mondo di cortesia.
+5. Il testo si chiude tornando all'inizio del corso, la casa a tubo, il phở,
+   i tre personaggi, i segni dei toni della lezione 1. Questa forma
+   circolare è frequente nel tùy bút 隨筆, la prosa libera di riflessione,
+   che intreccia ricordo personale e meditazione.
+notes.en:
+1. Three tục ngữ, proverbs from oral tradition. Học ăn, học nói, học gói,
+   học mở says good manners must be learned in everything, from eating to
+   speaking; Đi một ngày đàng, học một sàng khôn says travel teaches (đàng
+   is an old form of đường "road", sàng the bamboo sieve for rice); Uống
+   nước nhớ nguồn asks us not to forget those who helped us. Luca does more
+   than quote them, he bends them to his own story, sàng khôn vẫn chưa đầy.
+2. The irony is quiet and often self-directed. The "neutral" tôi that hurts
+   Mr Hùng; Minh writing Italian too perfect for an Italian; the father
+   boasting that he advised opening the café he tried to stop (lesson 76);
+   the yellowed article, "as solemn as ever" (lesson 151). Even ông bà ta "our
+   forebears", said by an Italian, shows how much at home Luca now feels.
+3. Literary vocabulary. đặt chân "set foot", bẽ mặt "lose face", trơ trọi
+   "isolated, all alone", chằng chịt "dense, tangled", khép hờ "ajar", dang
+   dở "left half-done", ngả màu "yellowed". tròn vành rõ chữ "round-rimmed
+   and clear-worded" describes crisp enunciation; ngồi chung một mâm,
+   sharing the family meal tray, stands for intimacy.
+4. Xưng hô, how you name yourself and others, is the real subject of the
+   text. tôi is right with strangers, at work, in public speech and in
+   writing, but between people bound by affection it sounds distant, even
+   hostile; Cháu giận bác chuyện gì à? is the natural reaction. thưa chuyện
+   "speak respectfully to an elder" and cho phải phép "as etiquette
+   requires" belong to the same world of courtesy.
+5. The text ends by returning to the start of the course, the tube house,
+   the phở, the three characters, the tone marks of lesson 1. This circular
+   shape is common in the tùy bút 隨筆, the free reflective essay, which
+   blends personal memory and meditation.
+notes.es:
+1. Tres tục ngữ, refranes de la tradición oral. Học ăn, học nói, học gói,
+   học mở recuerda que los buenos modales se aprenden en todo, del comer al
+   hablar; Đi một ngày đàng, học một sàng khôn dice que viajar enseña (đàng
+   es una forma antigua de đường "camino", sàng el cedazo de bambú para el
+   arroz); Uống nước nhớ nguồn pide no olvidar a quien nos ayudó. Luca no se
+   limita a citarlos, los adapta a su propio relato, sàng khôn vẫn chưa đầy.
+2. La ironía es discreta y a menudo dirigida a uno mismo. El tôi "neutro"
+   que hiere al señor Hùng; Minh, que escribe un italiano demasiado perfecto
+   para un italiano; el padre que presume de haber aconsejado el café que
+   quería impedir (lección 76); el artículo amarillento, "tan solemne como
+   siempre" (lección 151). Incluso ông bà ta "nuestros antepasados", dicho por
+   un italiano, revela lo mucho que Luca se siente ya en casa.
+3. Léxico literario. đặt chân "poner el pie", bẽ mặt "hacer el ridículo",
+   trơ trọi "aislado, solo", chằng chịt "tupido, enmarañado", khép hờ
+   "entornado", dang dở "a medio hacer", ngả màu "amarillento". tròn vành rõ
+   chữ "de borde redondo y palabra clara" describe una pronunciación nítida;
+   ngồi chung một mâm, compartir la bandeja de la comida familiar, expresa
+   intimidad.
+4. Xưng hô, la manera de nombrarse a uno mismo y a los demás, es el
+   verdadero tema del texto. tôi es correcto con desconocidos, en el
+   trabajo, en los discursos públicos y por escrito, pero entre personas
+   unidas por el afecto suena distante, incluso hostil; Cháu giận bác chuyện
+   gì à? es la reacción natural. thưa chuyện "hablar con respeto a un mayor"
+   y cho phải phép "como manda la etiqueta" pertenecen al mismo mundo de
+   cortesía.
+5. El texto se cierra volviendo al principio del curso, la casa tubo, el
+   phở, los tres personajes, las marcas de tono de la lección 1. Esta forma
+   circular es frecuente en el tùy bút 隨筆, la prosa libre de reflexión, que
+   entrelaza recuerdo personal y meditación.
+
+ex1:
+- Đi một ngày đàng, học một sàng khôn: mỗi chuyến đi đều dạy ta một điều gì đó.
+  it: «Un giorno di cammino, un setaccio di saggezza»: ogni viaggio ci insegna qualcosa.
+  en: "Travel one day's road, gain a sieveful of wisdom": every journey teaches us something.
+  es: «Un día de camino, un cedazo de sabiduría»: cada viaje nos enseña algo.
+- Muốn tỏ ra lịch sự cho phải phép, anh ấy lại nói năng khách sáo đến mức người nghe thấy xa cách.
+  it: Volendo mostrarsi educato come si deve, finì per parlare con tanta cerimoniosità da sembrare distante.
+  en: Wanting to seem properly polite, he ended up speaking so ceremoniously that his listeners felt kept at a distance.
+  es: Queriendo parecer educado como Dios manda, acabó hablando con tanta ceremonia que quienes lo escuchaban lo sentían distante.
+- Uống nước nhớ nguồn, thành công rồi đừng quên những người đã giúp mình lúc khó khăn.
+  it: Bevendo l'acqua, ricorda la sorgente: quando hai successo, non dimenticare chi ti ha aiutato nei momenti difficili.
+  en: When you drink water, remember its source: once you succeed, don't forget those who helped you in hard times.
+  es: Al beber agua, recuerda la fuente: cuando triunfes, no olvides a quienes te ayudaron en los momentos difíciles.
+- Bản thảo cuốn tiểu thuyết ấy vẫn còn dang dở, giấy đã ngả màu theo năm tháng.
+  it: Il manoscritto di quel romanzo è rimasto incompiuto, e la carta è ingiallita con gli anni.
+  en: The manuscript of that novel is still unfinished, its paper yellowed by the years.
+  es: El manuscrito de aquella novela sigue a medias, con el papel amarillento por los años.
+
+ex2:
+- Học ăn, học nói, học [gói], học [mở].
+  it: Impara a mangiare, a parlare, a incartare e a scartare.
+  en: Learn to eat, to speak, to wrap and to unwrap.
+  es: Aprende a comer, a hablar, a envolver y a desenvolver.
+- Ở xứ này, chẳng ai là “tôi” một cách [trơ trọi] cả.
+  it: Da queste parti nessuno è semplicemente «io».
+  en: In this country nobody is simply "I".
+  es: En esta tierra nadie es «yo» a secas.
+- Tôi thưa chuyện với bác bằng một chữ “tôi” [tròn vành] rõ [chữ].
+  it: Mi rivolsi a lui con un tôi scandito alla perfezione.
+  en: I addressed him with a beautifully enunciated tôi.
+  es: Me dirigí a él con un tôi pronunciado a la perfección.
+- Mỗi lần mở miệng là một lần tự [định vị] mình trong tấm lưới [chằng chịt] của tuổi tác và tình thân.
+  it: Ogni volta che si apre bocca ci si ricolloca nella fitta rete dell'età e della parentela.
+  en: Every time you open your mouth you place yourself anew in the dense web of age and kinship.
+  es: Cada vez que abres la boca vuelves a situarte en la tupida red de la edad y el parentesco.

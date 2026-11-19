@@ -1,0 +1,1113 @@
+course: de
+name: German – from first words to mastery
+name.it: Tedesco – dalle prime parole alla padronanza
+name.en: German – from first words to mastery
+name.es: Alemán – de las primeras palabras al dominio
+
+== 1 A1
+title: Hallo!
+title.it: Ciao!
+title.en: Hello!
+title.es: ¡Hola!
+
+dialogue:
+- Hallo! Ich heiße Jonas. Und du?
+  it: Ciao! Mi chiamo Jonas. E tu?
+  en: Hi! My name is (I am called) Jonas. And you?
+  es: ¡Hola! Me llamo Jonas. ¿Y tú?
+  pron: heiße = hàisse
+- Ich bin Giulia. Ich komme aus Italien.
+  it: Sono Giulia. Vengo dall'Italia (vengo fuori da Italia).
+  en: I'm Giulia. I come from Italy (out of Italy).
+  es: Soy Giulia. Vengo de Italia (vengo fuera de Italia).
+  pron: Italien = itàlien
+- Freut mich, Giulia! Wohnst du hier in Hamburg?
+  it: Piacere (rallegra me), Giulia! Abiti qui ad Amburgo?
+  en: Nice to meet you (pleases me), Giulia! Do you live here in Hamburg?
+  es: ¡Encantado (alegra a mí), Giulia! ¿Vives aquí en Hamburgo?
+  pron: Freut = fròit; wohnst = vònst
+- Ja, seit Montag. Ich wohne in Altona.
+  it: Sì, da lunedì. Abito ad Altona.
+  en: Yes, since Monday. I live in Altona.
+  es: Sí, desde el lunes. Vivo en Altona.
+  pron: seit = sàit (s dolce come in "rosa"); wohne = vòne
+- Super! Möchtest du einen Kaffee?
+  it: Fantastico! Vorresti un caffè?
+  en: Great! Would you like a coffee?
+  es: ¡Genial! ¿Te apetece un café (querrías un café)?
+  pron: Möchtest = möhtest (ö = una e con le labbra tonde)
+- Ja, gern. Danke!
+  it: Sì, volentieri. Grazie!
+  en: Yes, I'd love one (gladly). Thanks!
+  es: Sí, con mucho gusto (de buena gana). ¡Gracias!
+- Zwei Kaffee, bitte!
+  it: Due caffè, per favore!
+  en: Two coffees, please!
+  es: ¡Dos cafés, por favor!
+  pron: Zwei = tsvài
+
+notes.it:
+1. Ich heiße (mi chiamo) viene da heißen, che non è riflessivo: non serve un
+   "mi". La lettera ß si legge come una s doppia.
+2. Du e Sie: du si usa con amici, coetanei e bambini; con gli sconosciuti si usa
+   Sie, sempre con la maiuscola. Jonas e Giulia sono giovani, quindi si danno
+   subito del du.
+3. In tedesco tutti i sostantivi si scrivono con la maiuscola: Kaffee, Montag,
+   Italien.
+4. Pronuncia: ei si legge "ai" (heiße, seit, zwei), eu si legge "oi" (freut), w
+   si legge "v" (wohnen), z si legge "ts" (zwei).
+5. Seit Montag (da lunedì): come in italiano, seit con il presente indica
+   qualcosa che dura ancora. Al bar si ordina spesso zwei Kaffee, senza plurale.
+notes.en:
+1. Ich heiße (my name is) comes from heißen, "to be called". The letter ß is
+   read like a double s.
+2. Du and Sie: du is for friends, people your age and children; with strangers
+   you use Sie, always with a capital letter. Jonas and Giulia are young, so
+   they use du straight away.
+3. In German every noun has a capital letter: Kaffee, Montag, Italien.
+4. Pronunciation: ei sounds like "eye" (heiße, seit, zwei), eu like "oy"
+   (freut), w like English v (wohnen), z like "ts" (zwei).
+5. Seit Montag (since Monday): German uses the present tense with seit for
+   something still going on, where English needs the present perfect. When
+   ordering, people often say zwei Kaffee, with no plural ending.
+notes.es:
+1. Ich heiße (me llamo) viene de heißen, que no es reflexivo: no hace falta
+   ningún "me". La letra ß se lee como una s doble, siempre sorda.
+2. Du y Sie: du se usa con amigos, gente de tu edad y niños; con los
+   desconocidos se usa Sie (usted), siempre con mayúscula. Jonas y Giulia son
+   jóvenes, así que se tutean desde el principio.
+3. En alemán todos los sustantivos se escriben con mayúscula: Kaffee, Montag,
+   Italien.
+4. Pronunciación: ei se lee "ai" (heiße, seit, zwei), eu se lee "oi" (freut), w
+   se lee como una v francesa, apoyando los dientes en el labio inferior
+   (wohnen), y z se lee "ts" (zwei).
+5. Seit Montag (desde el lunes): como en español, seit con el presente indica
+   algo que todavía dura. En el bar se pide a menudo zwei Kaffee, sin plural.
+
+ex1:
+- Ich heiße Mia.
+  it: Mi chiamo Mia.
+  en: My name is Mia.
+  es: Me llamo Mia.
+- Wohnst du in Hamburg?
+  it: Abiti ad Amburgo?
+  en: Do you live in Hamburg?
+  es: ¿Vives en Hamburgo?
+- Ich komme aus Bologna.
+  it: Vengo da Bologna.
+  en: I come from Bologna.
+  es: Vengo de Bolonia.
+- Einen Kaffee, bitte!
+  it: Un caffè, per favore!
+  en: A coffee, please!
+  es: ¡Un café, por favor!
+
+ex2:
+- Ich [heiße] Giulia.
+  it: Mi chiamo Giulia.
+  en: My name is Giulia.
+  es: Me llamo Giulia.
+- [Freut] mich!
+  it: Piacere!
+  en: Nice to meet you!
+  es: ¡Mucho gusto!
+- Ich wohne [seit] Montag in Hamburg.
+  it: Abito ad Amburgo da lunedì.
+  en: I've lived in Hamburg since Monday.
+  es: Vivo en Hamburgo desde el lunes.
+- Zwei Kaffee, [bitte].
+  it: Due caffè, per favore.
+  en: Two coffees, please.
+  es: Dos cafés, por favor.
+
+== 2 A1
+title: Die neue Nachbarin
+title.it: La nuova vicina
+title.en: The new neighbour
+title.es: La nueva vecina
+
+dialogue:
+- Guten Tag! Ich heiße Giulia. Ich wohne im dritten Stock.
+  it: Buongiorno (buon giorno)! Mi chiamo Giulia. Abito al terzo piano.
+  en: Hello (good day)! My name is Giulia. I live on the third floor.
+  es: ¡Buenos días (buen día)! Me llamo Giulia. Vivo en el tercer piso.
+  pron: Stock = shtok (st a inizio parola si legge "sht")
+- Ah, die neue Nachbarin! Ich bin Frau Becker. Sind Sie Studentin?
+  it: Ah, la nuova vicina! Sono la signora Becker. Lei è studentessa (siete voi studentessa)?
+  en: Ah, the new neighbour! I'm Mrs Becker. Are you a student (are you student)?
+  es: ¡Ah, la nueva vecina! Soy la señora Becker. ¿Es usted estudiante (son ustedes estudiante)?
+  pron: neue = nòie; Nachbarin = nàhbarin (ch come in "Bach"); Studentin = shtudèntin
+- Nein, ich arbeite hier. Ich bin Ingenieurin.
+  it: No, lavoro qui. Sono ingegnere (ingegnera).
+  en: No, I work here. I'm an engineer (I am engineer).
+  es: No, trabajo aquí. Soy ingeniera.
+  pron: Ingenieurin = ingenjörin (g come la j francese di "jour")
+- Toll! Gefällt Ihnen das Viertel?
+  it: Ottimo! Le piace (piace a Lei) il quartiere?
+  en: Great! Do you like the neighbourhood (pleases you the quarter)?
+  es: ¡Estupendo! ¿Le gusta el barrio (gusta a usted el barrio)?
+  pron: Viertel = fìrtel (v si legge f)
+- Ja, sehr. Es ist ruhig und grün.
+  it: Sì, molto. È tranquillo e verde.
+  en: Yes, very much. It's quiet and green.
+  es: Sí, mucho. Es tranquilo y verde.
+  pron: ruhig = rùih; grün = grün (ü = la u francese)
+- Und es gibt eine Bäckerei an der Ecke. Die Brötchen sind sehr gut.
+  it: E c'è (esso dà) una panetteria all'angolo. I panini sono molto buoni.
+  en: And there's (it gives) a bakery on the corner. The bread rolls are very good.
+  es: Y hay (ello da) una panadería en la esquina. Los panecillos están muy buenos.
+  pron: Bäckerei = bekeràì; Brötchen = bröt-hen
+- Danke für den Tipp! Einen schönen Tag noch!
+  it: Grazie della dritta! Buona giornata (una bella giornata ancora)!
+  en: Thanks for the tip! Have a nice day (a nice day still)!
+  es: ¡Gracias por el consejo! ¡Que tenga un buen día (un bonito día todavía)!
+  pron: schönen = shönen
+- Danke, gleichfalls!
+  it: Grazie, altrettanto!
+  en: Thanks, you too (likewise)!
+  es: ¡Gracias, igualmente!
+  pron: gleichfalls = glàihfals
+
+notes.it:
+1. Sind Sie Studentin? Con gli sconosciuti si usa Sie (Lei), con il verbo alla
+   terza persona plurale: Sie sind, Sie arbeiten. Frau (signora) e Herr
+   (signore) si usano davanti al cognome.
+2. Es gibt (letteralmente "esso dà") significa "c'è" o "ci sono" e regge
+   l'accusativo: es gibt einen Park, es gibt eine Bäckerei.
+3. Il femminile delle professioni si forma con -in: Nachbar e Nachbarin,
+   Student e Studentin, Ingenieur e Ingenieurin.
+4. Gefällt Ihnen das Viertel? Gefallen funziona come "piacere": la cosa che
+   piace è il soggetto, la persona va al dativo (Ihnen, mir, dir). Das Viertel
+   gefällt mir significa "il quartiere mi piace".
+5. Brötchen (panino) è il diminutivo di Brot (pane): il suffisso -chen rende il
+   nome neutro e spesso aggiunge l'Umlaut. Attenzione: der Tipp è un consiglio
+   o una dritta; la mancia si dice das Trinkgeld. Al saluto Einen schönen Tag
+   noch! si risponde Danke, gleichfalls!
+notes.en:
+1. Sind Sie Studentin? With strangers you use Sie, with the verb in the third
+   person plural: Sie sind, Sie arbeiten. Frau (Mrs) and Herr (Mr) go before the
+   surname.
+2. Es gibt (literally "it gives") means "there is" or "there are" and takes the
+   accusative, as in es gibt einen Park, es gibt eine Bäckerei.
+3. Female job titles add -in: Nachbar and Nachbarin, Student and Studentin,
+   Ingenieur and Ingenieurin.
+4. Gefällt Ihnen das Viertel? With gefallen the thing you like is the subject and
+   the person is in the dative (Ihnen, mir, dir). Das Viertel gefällt mir means
+   "I like the neighbourhood".
+5. Brötchen (bread roll) is the diminutive of Brot (bread): the ending -chen
+   makes the noun neuter and often adds an Umlaut. Der Tipp is a tip in the sense
+   of advice; a tip for a waiter is das Trinkgeld. The answer to Einen schönen
+   Tag noch! is Danke, gleichfalls!
+notes.es:
+1. Sind Sie Studentin? Con los desconocidos se usa Sie (usted), con el verbo en
+   tercera persona del plural: Sie sind, Sie arbeiten. Pasa lo mismo con nuestro
+   "ustedes", solo que en alemán vale también para una sola persona. Frau
+   (señora) y Herr (señor) van delante del apellido.
+2. Es gibt (literalmente "ello da") significa "hay" y rige acusativo: es gibt
+   einen Park, es gibt eine Bäckerei. Igual que "hay", sirve tanto para el
+   singular como para el plural.
+3. El femenino de las profesiones se forma con -in: Nachbar y Nachbarin, Student
+   y Studentin, Ingenieur e Ingenieurin.
+4. Gefällt Ihnen das Viertel? Gefallen funciona exactamente como "gustar": lo
+   que gusta es el sujeto y la persona va en dativo (Ihnen, mir, dir). Das
+   Viertel gefällt mir significa "el barrio me gusta".
+5. Brötchen (panecillo) es el diminutivo de Brot (pan): el sufijo -chen vuelve
+   neutro el sustantivo y a menudo añade la diéresis (Umlaut). Ojo: der Tipp es
+   un consejo o un soplo; la propina se dice das Trinkgeld. Al saludo Einen
+   schönen Tag noch! se responde Danke, gleichfalls! (gracias, igualmente).
+
+ex1:
+- Ich wohne im ersten Stock.
+  it: Abito al primo piano.
+  en: I live on the first floor.
+  es: Vivo en el primer piso.
+- Es gibt ein Café an der Ecke.
+  it: C'è un caffè all'angolo.
+  en: There's a café on the corner.
+  es: Hay un café en la esquina.
+- Sind Sie die neue Nachbarin?
+  it: Lei è la nuova vicina?
+  en: Are you the new neighbour?
+  es: ¿Es usted la nueva vecina?
+- Das Viertel gefällt mir sehr.
+  it: Il quartiere mi piace molto.
+  en: I like the neighbourhood a lot.
+  es: El barrio me gusta mucho.
+
+ex2:
+- Es [gibt] eine Bäckerei im [Viertel].
+  it: C'è una panetteria nel quartiere.
+  en: There's a bakery in the neighbourhood.
+  es: Hay una panadería en el barrio.
+- [Sind] Sie Ingenieurin?
+  it: Lei è ingegnere?
+  en: Are you an engineer?
+  es: ¿Es usted ingeniera?
+- Einen [schönen] Tag noch!
+  it: Buona giornata!
+  en: Have a nice day!
+  es: ¡Que tenga un buen día!
+- Die Brötchen [sind] sehr gut.
+  it: I panini sono molto buoni.
+  en: The bread rolls are very good.
+  es: Los panecillos están muy buenos.
+
+== 3 A1
+title: In der Bäckerei
+title.it: In panetteria
+title.en: At the bakery
+title.es: En la panadería
+
+dialogue:
+- Guten Morgen! Zwei Brötchen und ein Franzbrötchen, bitte.
+  it: Buongiorno (buon mattino)! Due panini e un Franzbrötchen (panino francese), per favore.
+  en: Good morning! Two bread rolls and a Franzbrötchen (French roll), please.
+  es: ¡Buenos días (buena mañana)! Dos panecillos y un Franzbrötchen (panecillo francés), por favor.
+  pron: Franzbrötchen = frànts-bröt-hen
+- Gern. Sonst noch etwas?
+  it: Volentieri. Altro (altrimenti ancora qualcosa)?
+  en: Sure (gladly). Anything else (otherwise still something)?
+  es: Con gusto (de buena gana). ¿Algo más (si no, todavía algo)?
+  pron: Sonst = sonst (s dolce come in "rosa")
+- Nein, danke. Das ist alles. Was kostet das?
+  it: No, grazie. È tutto. Quanto costa (che cosa costa questo)?
+  en: No, thanks. That's all. How much is it (what costs that)?
+  es: No, gracias. Eso es todo. ¿Cuánto es (qué cuesta eso)?
+- Das macht drei Euro zwanzig.
+  it: Fa (questo fa) tre euro e venti.
+  en: That's (that makes) three euros twenty.
+  es: Son (eso hace) tres euros con veinte.
+  pron: Euro = òiro; zwanzig = tsvàntsih
+- Jonas, hast du Kleingeld?
+  it: Jonas, hai degli spiccioli (soldi piccoli)?
+  en: Jonas, do you have any change (small money)?
+  es: Jonas, ¿tienes suelto (dinero pequeño)?
+  pron: Kleingeld = klàin-ghelt
+- Ja, ich habe einen Fünf-Euro-Schein. Hier, bitte.
+  it: Sì, ho una banconota da cinque euro. Ecco (qui, prego).
+  en: Yes, I have a five-euro note. Here you are (here, please).
+  es: Sí, tengo un billete de cinco euros. Aquí tienes (aquí, por favor).
+  pron: Schein = shàin
+- Danke! Morgen lade ich dich zum Kaffee ein.
+  it: Grazie! Domani ti offro il caffè (domani invito io te al caffè dentro).
+  en: Thanks! Tomorrow the coffee's on me (tomorrow invite I you to-the coffee in).
+  es: ¡Gracias! Mañana te invito a un café (mañana invito yo a ti al café dentro).
+  pron: lade ... ein = làde ... àin
+- Abgemacht! Bis morgen!
+  it: Affare fatto (combinato)! A domani (fino domani)!
+  en: Deal (agreed)! See you tomorrow (until tomorrow)!
+  es: ¡Trato hecho (acordado)! ¡Hasta mañana!
+  pron: Abgemacht = àp-ghemaht
+
+notes.it:
+1. Was kostet das? (quanto costa?) e Das macht... (fa...) sono le frasi della
+   cassa. I numeri: eins, zwei, drei, vier, fünf; zwanzig è "venti". Il prezzo
+   3,20 € si legge drei Euro zwanzig.
+2. Einladen (invitare, offrire) è un verbo separabile: la particella ein va in
+   fondo alla frase (ich lade dich ein). Inoltre il verbo coniugato sta sempre al
+   secondo posto: se la frase comincia con Morgen, il soggetto va dopo il verbo
+   (Morgen lade ich...).
+3. Guten Morgen, con la maiuscola, è "buongiorno" (der Morgen, il mattino);
+   morgen, con la minuscola, è "domani". Bis morgen! vuol dire "a domani".
+4. Kleingeld (letteralmente "soldi piccoli") sono gli spiccioli; der Schein è la
+   banconota. Bitte vuol dire "per favore", ma anche "prego" ed "ecco" quando si
+   porge qualcosa.
+5. Il Franzbrötchen è una specialità di Amburgo: una pasta sfogliata con
+   cannella e zucchero. Pronuncia: la finale -ig suona come una "ih" aspirata
+   (zwanzig), sch come "sc" di "scena" (Schein).
+notes.en:
+1. Was kostet das? (how much is it?) and Das macht... (that's...) are the
+   phrases at the till. Numbers: eins, zwei, drei, vier, fünf; zwanzig is
+   "twenty". The price 3,20 € is read drei Euro zwanzig.
+2. Einladen (to invite, to treat) is a separable verb: the particle ein goes to
+   the end (ich lade dich ein). Also, the conjugated verb always comes second:
+   if the sentence starts with Morgen, the subject follows the verb (Morgen lade
+   ich...).
+3. Guten Morgen, with a capital letter, is "good morning" (der Morgen, the
+   morning); morgen, lower case, means "tomorrow". Bis morgen! means "see you
+   tomorrow".
+4. Kleingeld (literally "small money") is change; der Schein is a banknote. Bitte
+   means "please", but also "you're welcome" and "here you are" when handing
+   something over.
+5. The Franzbrötchen is a Hamburg speciality: a flaky pastry with cinnamon and
+   sugar. Pronunciation: final -ig sounds like the "h" in "huge" (zwanzig), and
+   sch like English "sh" (Schein).
+notes.es:
+1. Was kostet das? (¿cuánto cuesta?) y Das macht... (son...) son las frases de
+   la caja. Los números: eins, zwei, drei, vier, fünf; zwanzig es "veinte". El
+   precio 3,20 € se lee drei Euro zwanzig.
+2. Einladen (invitar) es un verbo separable: la partícula ein va al final de la
+   frase (ich lade dich ein). Además, el verbo conjugado va siempre en
+   segunda posición: si la frase empieza por Morgen, el sujeto va detrás del
+   verbo (Morgen lade ich...). Como en español, invitar a alguien a un café
+   significa pagárselo.
+3. Guten Morgen, con mayúscula, es "buenos días" (der Morgen, la mañana);
+   morgen, con minúscula, es "mañana" (el día siguiente), igual que en español
+   una misma palabra sirve para las dos cosas. Bis morgen! significa "¡hasta
+   mañana!".
+4. Kleingeld (literalmente "dinero pequeño") es el suelto; der Schein es el
+   billete. Bitte significa "por favor", pero también "de nada" y "aquí tiene"
+   cuando se da algo.
+5. El Franzbrötchen es una especialidad de Hamburgo: un bollo de hojaldre con
+   canela y azúcar. Pronunciación: la terminación -ig suena como una "j" muy
+   suave pronunciada en la parte delantera de la boca (zwanzig), y sch como la
+   "sh" inglesa (Schein).
+
+ex1:
+- Ein Brötchen, bitte.
+  it: Un panino, per favore.
+  en: A bread roll, please.
+  es: Un panecillo, por favor.
+- Was kostet der Kaffee?
+  it: Quanto costa il caffè?
+  en: How much is the coffee?
+  es: ¿Cuánto cuesta el café?
+- Ich lade dich morgen ein.
+  it: Domani ti offro io.
+  en: Tomorrow it's on me.
+  es: Mañana te invito yo.
+- Hast du einen Zehn-Euro-Schein?
+  it: Hai una banconota da dieci euro?
+  en: Do you have a ten-euro note?
+  es: ¿Tienes un billete de diez euros?
+
+ex2:
+- Das [macht] fünf Euro.
+  it: Fa cinque euro.
+  en: That's five euros.
+  es: Son cinco euros.
+- [Sonst] noch etwas?
+  it: Altro?
+  en: Anything else?
+  es: ¿Algo más?
+- Das ist [alles], danke.
+  it: È tutto, grazie.
+  en: That's all, thanks.
+  es: Eso es todo, gracias.
+- Bis [morgen]!
+  it: A domani!
+  en: See you tomorrow!
+  es: ¡Hasta mañana!
+
+== 26 A2
+title: Letztes Wochenende
+title.it: Lo scorso fine settimana
+title.en: Last weekend
+title.es: El fin de semana pasado
+
+dialogue:
+- Hallo, Giulia! Wie war dein Wochenende?
+  it: Ciao, Giulia! Com'è andato (come era) il tuo fine settimana?
+  en: Hi, Giulia! How was your weekend?
+  es: ¡Hola, Giulia! ¿Qué tal tu fin de semana (cómo fue tu fin de semana)?
+  pron: Wochenende = vòhen-ènde
+- Sehr schön! Am Samstag habe ich die Elbphilharmonie besucht, und am Sonntag bin ich mit Frau Becker zum Fischmarkt gegangen.
+  it: Molto bello! Sabato (al sabato) ho visitato la Elbphilharmonie e domenica sono andata al mercato del pesce con la signora Becker.
+  en: Really nice! On Saturday I visited the Elbphilharmonie, and on Sunday I went (am gone) to the fish market with Mrs Becker.
+  es: ¡Muy bien (muy bonito)! El sábado visité la Elbphilharmonie y el domingo fui (soy ida) al mercado de pescado con la señora Becker.
+  pron: Elbphilharmonie = èlp-filarmonì; gegangen = ghegàngen
+- Mit deiner Nachbarin? So früh am Morgen?
+  it: Con la tua vicina? Così presto la mattina?
+  en: With your neighbour? That early in the morning?
+  es: ¿Con tu vecina? ¿Tan temprano por la mañana?
+  pron: früh = frü (ü = la u francese)
+- Ja! Sie hat mir ein Fischbrötchen gekauft. Und du, was hast du gemacht?
+  it: Sì! Mi ha comprato un panino col pesce. E tu, che cosa hai fatto?
+  en: Yes! She bought me a fish roll. And you, what did you do (what have you done)?
+  es: ¡Sí! Me compró un bocadillo de pescado. Y tú, ¿qué hiciste (qué has hecho)?
+  pron: Fischbrötchen = fish-bröt-hen; gekauft = ghekàuft
+- Ich bin mit meiner Schwester Mia an die Ostsee gefahren. Wir sind gestern Abend zurückgekommen.
+  it: Sono andato sul Baltico (al mare dell'Est) con mia sorella Mia. Siamo tornati ieri sera.
+  en: I went (am travelled) to the Baltic (East Sea) with my sister Mia. We got back yesterday evening.
+  es: Fui (soy viajado) al Báltico (mar del Este) con mi hermana Mia. Volvimos ayer por la noche.
+  pron: Schwester = shvèster; zurückgekommen = tsurük-ghekòmmen
+- Du hast Glück! Ich habe das Meer in Deutschland noch nie gesehen.
+  it: Sei fortunato (tu hai fortuna)! Non ho ancora mai visto il mare in Germania.
+  en: You're lucky (you have luck)! I've never seen the sea in Germany yet.
+  es: ¡Qué suerte tienes (tú tienes suerte)! Todavía no he visto nunca el mar en Alemania.
+  pron: Glück = glük; Deutschland = dòitshlant
+- Dann fahren wir nächsten Monat zusammen nach Sylt. Mia mietet ein Auto.
+  it: Allora il mese prossimo andiamo insieme a Sylt. Mia noleggia una macchina.
+  en: Then we'll go (we go) to Sylt together next month. Mia is renting a car.
+  es: Entonces el mes que viene vamos juntos a Sylt. Mia alquila un coche.
+  pron: nächsten = nèhsten; Sylt = silt (s dolce come in "rosa")
+- Sehr gern! Ich bringe ein Tiramisu mit.
+  it: Molto volentieri! Porto io un tiramisù (porto con).
+  en: I'd love to (very gladly)! I'll bring (I bring along) a tiramisu.
+  es: ¡Con mucho gusto (muy de buena gana)! Yo llevo un tiramisú (llevo con).
+
+notes.it:
+1. Il Perfekt si forma con haben o sein + participio (besucht, gekauft, gemacht,
+   gesehen). I verbi di movimento prendono sein (bin gegangen, bin gefahren, sind
+   zurückgekommen), come in italiano; a differenza dell'italiano, però, il
+   participio non si accorda mai e va in fondo alla frase.
+2. Per i progetti il tedesco usa spesso il presente con un'indicazione di tempo:
+   nächsten Monat fahren wir nach Sylt. Il futuro con werden esiste, ma nel
+   parlato serve molto meno.
+3. Verbi separabili: mitbringen (portare con sé), zurückkommen (tornare). Al
+   presente la particella va in fondo (ich bringe ein Tiramisu mit); nel
+   participio ge- si inserisce in mezzo (zurückgekommen).
+4. Falsi amici: der See è il lago, die See è il mare (die Ostsee, il Baltico); il
+   mare in generale è das Meer. Glück haben vuol dire "avere fortuna", ma das
+   Glück è anche la felicità.
+5. Il Fischmarkt di Amburgo apre la domenica all'alba ed è un rito per nottambuli
+   e mattinieri. La Elbphilharmonie è la sala da concerti sul porto, nel
+   quartiere HafenCity.
+notes.en:
+1. The Perfekt uses haben or sein + past participle (besucht, gekauft, gemacht,
+   gesehen). Verbs of movement take sein (bin gegangen, bin gefahren, sind
+   zurückgekommen). The participle never changes and goes to the end of the
+   sentence.
+2. For plans German often uses the present tense with a time phrase: nächsten
+   Monat fahren wir nach Sylt. The future with werden exists, but in speech it
+   is needed far less.
+3. Separable verbs: mitbringen (to bring along), zurückkommen (to come back). In
+   the present the particle goes to the end (ich bringe ein Tiramisu mit); in the
+   participle ge- slips into the middle (zurückgekommen).
+4. Der See is a lake, die See is the sea (die Ostsee, the Baltic); the general
+   word for sea is das Meer. Glück haben means "to be lucky", but das Glück also
+   means happiness.
+5. Hamburg's Fischmarkt opens at dawn on Sundays and is a ritual for night owls
+   and early risers alike. The Elbphilharmonie is the concert hall on the
+   harbour, in the HafenCity district.
+notes.es:
+1. El Perfekt se forma con haben o sein + participio (besucht, gekauft, gemacht,
+   gesehen). Los verbos de movimiento llevan sein (bin gegangen, bin gefahren,
+   sind zurückgekommen), algo que el español no tiene, ya que siempre usamos
+   haber. El participio no concuerda nunca y va al final de la frase. En la
+   lengua hablada el Perfekt sirve tanto para "he visitado" como para "visité".
+2. Para los planes el alemán usa a menudo el presente con una expresión de
+   tiempo, igual que nosotros: nächsten Monat fahren wir nach Sylt (el mes que
+   viene vamos a Sylt). El futuro con werden existe, pero en la lengua hablada
+   se usa mucho menos.
+3. Verbos separables: mitbringen (llevar consigo), zurückkommen (volver). En
+   presente la partícula va al final (ich bringe ein Tiramisu mit); en el
+   participio, ge- se mete en medio (zurückgekommen).
+4. Falsos amigos: der See es el lago, die See es el mar (die Ostsee, el
+   Báltico); el mar en general es das Meer. Glück haben significa "tener
+   suerte", pero das Glück es también la felicidad.
+5. El Fischmarkt de Hamburgo abre los domingos al amanecer y es un ritual tanto
+   para trasnochadores como para madrugadores. La Elbphilharmonie es la sala de
+   conciertos del puerto, en el barrio de HafenCity.
+
+ex1:
+- Am Sonntag bin ich zum Fischmarkt gegangen.
+  it: Domenica sono andato al mercato del pesce.
+  en: On Sunday I went to the fish market.
+  es: El domingo fui al mercado de pescado.
+- Wir haben ein Auto gemietet.
+  it: Abbiamo noleggiato una macchina.
+  en: We rented a car.
+  es: Hemos alquilado un coche.
+- Ich habe das Meer noch nie gesehen.
+  it: Non ho mai visto il mare.
+  en: I've never seen the sea.
+  es: Nunca he visto el mar.
+- Was hast du am Wochenende gemacht?
+  it: Che cosa hai fatto nel fine settimana?
+  en: What did you do at the weekend?
+  es: ¿Qué hiciste el fin de semana?
+
+ex2:
+- Ich [bin] an die Ostsee [gefahren].
+  it: Sono andata sul Baltico.
+  en: I went to the Baltic.
+  es: Fui al Báltico.
+- Sie hat mir ein Fischbrötchen [gekauft].
+  it: Mi ha comprato un panino col pesce.
+  en: She bought me a fish roll.
+  es: Me compró un bocadillo de pescado.
+- Wir sind gestern Abend [zurückgekommen].
+  it: Siamo tornati ieri sera.
+  en: We got back yesterday evening.
+  es: Volvimos ayer por la noche.
+- Ich bringe einen Kuchen [mit].
+  it: Porto una torta.
+  en: I'll bring a cake.
+  es: Llevo una tarta.
+
+== 51 B1
+title: Eine schwierige Entscheidung
+title.it: Una decisione difficile
+title.en: A difficult decision
+title.es: Una decisión difícil
+
+dialogue:
+- Jonas, ich brauche deinen Rat. Eine Firma in München hat mir eine Stelle angeboten.
+  it: Jonas, ho bisogno di un tuo consiglio. Un'azienda di Monaco mi ha offerto un posto di lavoro.
+  en: Jonas, I need your advice. A company in Munich has offered me a job.
+  es: Jonas, necesito tu consejo. Una empresa de Múnich me ha ofrecido un puesto de trabajo.
+- Das ist ja toll! Warum machst du so ein Gesicht?
+  it: Ma è fantastico! Perché fai quella faccia (così una faccia)?
+  en: But that's great! Why the long face (why do you make such a face)?
+  es: ¡Pero eso es genial! ¿Por qué pones esa cara (por qué haces así una cara)?
+- Weil ich mich gerade erst hier eingelebt habe. Ich weiß nicht, ob das der richtige Zeitpunkt ist.
+  it: Perché mi sono appena ambientata qui. Non so se sia il momento giusto.
+  en: Because I've only just settled in here. I don't know if it's the right time.
+  es: Porque acabo de adaptarme aquí. No sé si es el momento adecuado.
+- Meiner Meinung nach solltest du die Stelle annehmen. So eine Chance bekommt man nicht zweimal.
+  it: Secondo me dovresti accettare il posto. Un'occasione così non capita due volte.
+  en: In my opinion, you should take the job. You don't get a chance like that twice.
+  es: En mi opinión (de mi opinión según), deberías aceptar el puesto. Una oportunidad así no se tiene dos veces.
+- Vielleicht. Aber ich hätte Angst, meine Freunde zu verlieren.
+  it: Forse. Ma avrei paura di perdere i miei amici.
+  en: Maybe. But I'd be afraid of losing my friends.
+  es: Quizá. Pero tendría miedo de perder a mis amigos.
+- München ist doch nicht aus der Welt! Wenn du dort wohnen würdest, würde ich dich oft besuchen.
+  it: Monaco non è mica in capo al mondo! Se abitassi lì, verrei spesso a trovarti.
+  en: Munich isn't the end of the earth! If you lived there, I'd visit you often.
+  es: ¡Múnich no está en el fin del mundo (fuera del mundo)! Si vivieras allí, iría a verte a menudo.
+- Und was meint Mia dazu?
+  it: E Mia che ne pensa?
+  en: And what does Mia think about it?
+  es: ¿Y qué opina Mia de esto?
+- Sie findet, dass du nichts überstürzen solltest. Aber eigentlich denkt sie wie ich.
+  it: Pensa che tu non debba precipitare le cose. Ma in fondo la pensa come me.
+  en: She thinks you shouldn't rush into anything. But deep down she agrees with me.
+  es: Opina que no deberías precipitarte. Pero en el fondo piensa como yo.
+- Na gut. Ich schreibe der Firma heute Abend, obwohl ich noch Zweifel habe.
+  it: E va bene. Scrivo all'azienda stasera, anche se ho ancora dei dubbi.
+  en: All right. I'll write to the company tonight, although I still have doubts.
+  es: Bueno, vale. Escribo a la empresa esta noche, aunque todavía tengo dudas.
+- Siehst du? Ich wusste, dass du die richtige Entscheidung treffen würdest.
+  it: Vedi? Sapevo che avresti preso la decisione giusta.
+  en: You see? I knew you'd make the right decision.
+  es: ¿Ves? Sabía que tomarías la decisión correcta.
+
+notes.it:
+1. Il Konjunktiv II corrisponde al condizionale italiano: würde + infinito
+   (würde besuchen, treffen würdest) e le forme brevi hätte, wäre, solltest.
+   Nella frase con wenn il tedesco usa il Konjunktiv II anche dove l'italiano
+   vuole il congiuntivo: wenn du dort wohnen würdest = se tu abitassi lì.
+2. Le congiunzioni subordinanti weil, dass, ob e obwohl mandano il verbo
+   coniugato in fondo alla frase: weil ich mich eingelebt habe, obwohl ich noch
+   Zweifel habe.
+3. Falsi amici: die Firma è l'azienda (la firma si dice die Unterschrift); der Rat
+   è il consiglio, non la rata; die Stelle è il posto di lavoro.
+4. Meiner Meinung nach (secondo me) e Ich finde, dass... introducono
+   un'opinione. Was meint Mia dazu? significa "che ne pensa Mia?": meinen vuol
+   dire "pensare, essere dell'idea".
+5. Espressioni utili: so ein Gesicht machen (fare quella faccia), nicht aus der
+   Welt sein (non essere in capo al mondo), eine Entscheidung treffen (prendere
+   una decisione, letteralmente "colpirla"), sich einleben (ambientarsi).
+notes.en:
+1. The Konjunktiv II works like the English "would": würde + infinitive (würde
+   besuchen, treffen würdest) and the short forms hätte, wäre, solltest. In a
+   wenn clause German uses it too: wenn du dort wohnen würdest = if you lived
+   there.
+2. The subordinating conjunctions weil, dass, ob and obwohl send the conjugated
+   verb to the end: weil ich mich eingelebt habe, obwohl ich noch Zweifel habe.
+3. Die Firma is a company (a signature is die Unterschrift); der Rat is advice;
+   die Stelle is a job, a position.
+4. Meiner Meinung nach (in my opinion) and Ich finde, dass... introduce an
+   opinion. Was meint Mia dazu? means "what does Mia think about it?": meinen
+   means "to think, to be of the opinion".
+5. Useful phrases: so ein Gesicht machen (to pull such a face), nicht aus der
+   Welt sein (not to be at the end of the earth), eine Entscheidung treffen (to
+   make a decision, literally "to hit" it), sich einleben (to settle in).
+notes.es:
+1. El Konjunktiv II corresponde al condicional español: würde + infinitivo
+   (würde besuchen, treffen würdest) y las formas breves hätte, wäre, solltest.
+   En la frase con wenn el alemán usa el Konjunktiv II también donde el español
+   pide el imperfecto de subjuntivo: wenn du dort wohnen würdest = si vivieras
+   allí.
+2. Las conjunciones subordinantes weil, dass, ob y obwohl mandan el verbo
+   conjugado al final de la frase: weil ich mich eingelebt habe, obwohl ich noch
+   Zweifel habe.
+3. Falsos amigos: die Firma es la empresa (la firma se dice die Unterschrift);
+   der Rat es el consejo, no una rata (die Ratte); die Stelle es el puesto de
+   trabajo.
+4. Meiner Meinung nach (en mi opinión) e Ich finde, dass... introducen una
+   opinión. Was meint Mia dazu? significa "¿qué opina Mia de esto?": meinen
+   quiere decir "opinar, ser de la idea".
+5. Expresiones útiles: so ein Gesicht machen (poner esa cara), nicht aus der
+   Welt sein (no estar en el fin del mundo), eine Entscheidung treffen (tomar
+   una decisión, literalmente "acertarla", como quien da en el blanco), sich
+   einleben (adaptarse, aclimatarse).
+
+ex1:
+- An deiner Stelle würde ich das Angebot annehmen.
+  it: Al posto tuo accetterei l'offerta.
+  en: If I were you, I'd accept the offer.
+  es: Yo en tu lugar aceptaría la oferta.
+- Ich weiß nicht, ob ich Zeit habe.
+  it: Non so se ho tempo.
+  en: I don't know if I have time.
+  es: No sé si tengo tiempo.
+- Obwohl es regnet, gehen wir spazieren.
+  it: Anche se piove, andiamo a fare una passeggiata.
+  en: Although it's raining, we're going for a walk.
+  es: Aunque llueve, salimos a pasear.
+- Wenn ich mehr Geld hätte, würde ich reisen.
+  it: Se avessi più soldi, viaggerei.
+  en: If I had more money, I'd travel.
+  es: Si tuviera más dinero, viajaría.
+
+ex2:
+- Ich [würde] dich oft besuchen.
+  it: Verrei spesso a trovarti.
+  en: I'd visit you often.
+  es: Iría a verte a menudo.
+- Ich [hätte] Angst, allein zu wohnen.
+  it: Avrei paura di vivere da sola.
+  en: I'd be afraid of living alone.
+  es: Tendría miedo de vivir sola.
+- Sie findet, [dass] du nichts überstürzen [solltest].
+  it: Pensa che tu non debba precipitare le cose.
+  en: She thinks you shouldn't rush into anything.
+  es: Opina que no deberías precipitarte.
+- Eine [Firma] hat mir eine [Stelle] angeboten.
+  it: Un'azienda mi ha offerto un posto di lavoro.
+  en: A company has offered me a job.
+  es: Una empresa me ha ofrecido un puesto de trabajo.
+
+== 76 B2
+title: Autofreie Innenstadt?
+title.it: Centro senza auto?
+title.en: A car-free city centre?
+title.es: ¿Un centro sin coches?
+
+dialogue:
+- Und, wie läuft's im neuen Job? Kommst du klar?
+  it: Allora, come va col nuovo lavoro? Te la cavi?
+  en: So, how's the new job going? Are you coping?
+  es: ¿Y qué tal el trabajo nuevo? ¿Te apañas (vienes claro)?
+- Ich habe alle Hände voll zu tun. Wir planen gerade, wie man die Altstadt autofrei machen kann.
+  it: Sono sommersa di lavoro (ho tutte le mani piene da fare). Stiamo studiando come rendere il centro storico libero dalle auto.
+  en: I've got my hands full. We're working out how to make the old town car-free.
+  es: Estoy hasta arriba de trabajo (tengo todas las manos llenas que hacer). Estamos estudiando cómo dejar el casco antiguo libre de coches.
+- Autofrei? Ehrlich gesagt halte ich das für eine Schnapsidee. Die Geschäfte würden pleitegehen.
+  it: Senza auto? Sinceramente mi sembra un'idea balzana (un'idea da grappa). I negozi fallirebbero.
+  en: Car-free? To be honest, I think that's a crackpot idea (a schnapps idea). The shops would go bust.
+  es: ¿Sin coches? Sinceramente, me parece una idea de bombero (una idea de aguardiente). Las tiendas quebrarían.
+- Das Argument hört man ständig, aber es hält keiner Prüfung stand. In Städten, die das ausprobiert haben, ist der Umsatz sogar gestiegen.
+  it: È un argomento che si sente di continuo, ma non regge a nessuna verifica. Nelle città che ci hanno provato, il fatturato è persino aumentato.
+  en: You hear that argument all the time, but it doesn't stand up to scrutiny. In cities that have tried it, turnover has actually gone up.
+  es: Ese argumento se oye constantemente, pero no resiste ningún análisis. En las ciudades que lo han probado, la facturación incluso ha subido.
+- Jetzt mach mal halblang. Was ist mit Handwerkern, Lieferdiensten und älteren Leuten?
+  it: Adesso non esagerare. E gli artigiani, i servizi di consegna e gli anziani?
+  en: Hold your horses. What about tradespeople, delivery services and older people?
+  es: Para el carro. ¿Y qué pasa con los operarios, los repartidores y las personas mayores?
+- Für die gibt es natürlich Ausnahmen. Man muss ja die Kirche im Dorf lassen.
+  it: Per loro ci sono naturalmente delle eccezioni. Bisogna pur restare con i piedi per terra (lasciare la chiesa nel villaggio).
+  en: There are exceptions for them, of course. You have to keep a sense of proportion (leave the church in the village).
+  es: Para ellos hay excepciones, claro. Tampoco hay que sacar las cosas de quicio (hay que dejar la iglesia en el pueblo).
+- Na schön. Aber da liegt der Hase im Pfeffer: Wer bezahlt die ganzen Busse und Radwege?
+  it: E va bene. Ma il nocciolo della questione è questo (lì giace la lepre nel pepe): chi paga tutti quegli autobus e quelle piste ciclabili?
+  en: Fine. But that's the crux of it (there lies the hare in the pepper): who pays for all those buses and cycle lanes?
+  es: Muy bien. Pero ahí está la madre del cordero (ahí yace la liebre en la pimienta): ¿quién paga todos esos autobuses y carriles bici?
+- Zugegeben, billig wird das nicht. Aber die Staus kosten die Stadt jedes Jahr ein Vermögen.
+  it: Lo ammetto, non sarà economico. Ma gli ingorghi costano alla città una fortuna ogni anno.
+  en: Admittedly, it won't be cheap. But traffic jams cost the city a fortune every year.
+  es: Lo admito, barato no será. Pero los atascos le cuestan a la ciudad una fortuna cada año.
+- Okay, wir werden uns heute nicht einig. Lass uns das bei einem Bier ausdiskutieren.
+  it: Va bene, oggi non ci mettiamo d'accordo. Discutiamone fino in fondo davanti a una birra.
+  en: OK, we're not going to agree today. Let's thrash it out over a beer.
+  es: Vale, hoy no nos vamos a poner de acuerdo. Discutámoslo a fondo con una cerveza.
+- Abgemacht. Aber Butter bei die Fische: Diesmal zahlst du!
+  it: Affare fatto. Ma parliamoci chiaro (burro sui pesci): stavolta paghi tu!
+  en: Deal. But let's get down to brass tacks (butter to the fish): this time you're paying!
+  es: Trato hecho. Pero vamos al grano (mantequilla a los peces): ¡esta vez pagas tú!
+
+notes.it:
+1. Modi di dire: alle Hände voll zu tun haben (avere le mani piene, cioè essere
+   sommersi di lavoro), eine Schnapsidee (un'idea strampalata, come nata dopo un
+   bicchierino), die Kirche im Dorf lassen (non esagerare, restare ragionevoli),
+   da liegt der Hase im Pfeffer (ecco il nocciolo del problema).
+2. Il lessico del dibattito: Ehrlich gesagt halte ich das für... (sinceramente lo
+   considero...), es hält keiner Prüfung stand (non regge a nessuna verifica),
+   Zugegeben (lo ammetto), Na schön (e va bene). La costruzione etwas für etwas
+   halten significa "considerare qualcosa come".
+3. Registro: Kommst du klar?, wie läuft's? e Jetzt mach mal halblang
+   appartengono al parlato tra amici. In una riunione si direbbe piuttosto
+   "Ich gebe zu bedenken, dass..." (faccio presente che...).
+4. Butter bei die Fische! (burro sui pesci) è un modo di dire del Nord e significa
+   "veniamo al sodo". La grammatica è volutamente "sbagliata" (dopo bei ci
+   vorrebbe den Fischen) perché viene dal basso tedesco. Giulia lo usa con
+   ironia, come ricordo di Amburgo.
+5. Lessico e falsi amici: der Umsatz è il fatturato; das Vermögen è il patrimonio
+   (ein Vermögen kosten, costare una fortuna); der Stau è l'ingorgo; pleitegehen
+   significa fallire. Die Geschäfte sono i negozi, ma anche gli affari.
+notes.en:
+1. Idioms: alle Hände voll zu tun haben (to have your hands full), eine
+   Schnapsidee (a crackpot idea, as if dreamt up after a few schnapps), die
+   Kirche im Dorf lassen (to keep a sense of proportion), da liegt der Hase im
+   Pfeffer (that's the crux of the matter).
+2. The language of debate: Ehrlich gesagt halte ich das für... (to be honest, I
+   consider it...), es hält keiner Prüfung stand (it doesn't stand up to
+   scrutiny), Zugegeben (admittedly), Na schön (fine, all right). The pattern
+   etwas für etwas halten means "to regard something as".
+3. Register: Kommst du klar?, wie läuft's? and Jetzt mach mal halblang belong to
+   casual talk among friends. In a meeting you would rather say
+   "Ich gebe zu bedenken, dass..." (I would point out that...).
+4. Butter bei die Fische! (butter to the fish) is a northern saying meaning
+   "let's get to the point". Its grammar is deliberately "wrong" (after bei it
+   should be den Fischen) because it comes from Low German. Giulia uses it with
+   irony, as a souvenir of Hamburg.
+5. Vocabulary: der Umsatz is turnover; das Vermögen is wealth or assets (ein
+   Vermögen kosten, to cost a fortune); der Stau is a traffic jam; pleitegehen
+   means to go bust. Die Geschäfte are shops, but also business deals.
+notes.es:
+1. Modismos: alle Hände voll zu tun haben (tener todas las manos llenas, es
+   decir, estar hasta arriba de trabajo), eine Schnapsidee (una idea de bombero,
+   como surgida tras unos chupitos), die Kirche im Dorf lassen (no sacar las
+   cosas de quicio), da liegt der Hase im Pfeffer (ahí está la madre del
+   cordero).
+2. El lenguaje del debate: Ehrlich gesagt halte ich das für... (sinceramente, lo
+   considero...), es hält keiner Prüfung stand (no resiste ningún análisis),
+   Zugegeben (lo admito), Na schön (muy bien, de acuerdo). La construcción etwas
+   für etwas halten significa "considerar algo como algo".
+3. Registro: Kommst du klar?, wie läuft's? y Jetzt mach mal halblang pertenecen
+   al habla entre amigos. En una reunión se diría más bien "Ich gebe zu
+   bedenken, dass..." (quisiera señalar que...).
+4. Butter bei die Fische! (mantequilla a los peces) es una expresión del norte
+   que significa "vamos al grano". La gramática es "incorrecta" a propósito
+   (después de bei debería ir den Fischen) porque viene del bajo alemán. Giulia
+   la usa con ironía, como recuerdo de Hamburgo.
+5. Vocabulario y falsos amigos: der Umsatz es la facturación; das Vermögen es el
+   patrimonio (ein Vermögen kosten, costar una fortuna); der Stau es el atasco;
+   pleitegehen significa quebrar. Die Geschäfte son las tiendas, pero también
+   los negocios.
+
+ex1:
+- Ich habe diese Woche alle Hände voll zu tun.
+  it: Questa settimana sono sommerso di lavoro.
+  en: I've got my hands full this week.
+  es: Esta semana estoy hasta arriba de trabajo.
+- Ehrlich gesagt halte ich das für eine gute Idee.
+  it: Sinceramente mi sembra una buona idea.
+  en: To be honest, I think it's a good idea.
+  es: Sinceramente, me parece una buena idea.
+- Zugegeben, das wird nicht billig.
+  it: Lo ammetto, non sarà economico.
+  en: Admittedly, it won't be cheap.
+  es: Lo admito, no será barato.
+- Da liegt der Hase im Pfeffer.
+  it: Ecco il nocciolo della questione.
+  en: That's the crux of the matter.
+  es: Ahí está la madre del cordero.
+
+ex2:
+- Kommst du mit dem neuen Job [klar]?
+  it: Te la cavi con il nuovo lavoro?
+  en: Are you coping with the new job?
+  es: ¿Te apañas con el trabajo nuevo?
+- Man muss die Kirche im [Dorf] [lassen].
+  it: Bisogna restare ragionevoli.
+  en: You have to keep a sense of proportion.
+  es: No hay que sacar las cosas de quicio.
+- Wir werden uns heute nicht [einig].
+  it: Oggi non ci mettiamo d'accordo.
+  en: We won't agree today.
+  es: Hoy no nos vamos a poner de acuerdo.
+- Die Staus kosten die Stadt ein [Vermögen].
+  it: Gli ingorghi costano alla città una fortuna.
+  en: Traffic jams cost the city a fortune.
+  es: Los atascos le cuestan a la ciudad una fortuna.
+
+== 151 C1
+title: Mias Artikel
+title.it: L'articolo di Mia
+title.en: Mia's article
+title.es: El artículo de Mia
+
+dialogue:
+- Hör mal zu und sag mir ehrlich, was du davon hältst. „Münchner Altstadt: Stadtrat will Autos verbannen.“
+  it: Ascolta e dimmi sinceramente che cosa ne pensi. «Centro storico di Monaco, il consiglio comunale vuole bandire le auto.»
+  en: Listen to this and tell me honestly what you think. "Munich old town: council wants to ban cars."
+  es: Escucha y dime sinceramente qué te parece. «Casco antiguo de Múnich: el Ayuntamiento quiere desterrar los coches».
+- Die Überschrift ist knackig, aber „verbannen“ klingt ein bisschen reißerisch, findest du nicht?
+  it: Il titolo è incisivo, ma «bandire» suona un po' sensazionalistico, non trovi?
+  en: The headline is punchy, but "ban" sounds a bit sensationalist, don't you think?
+  es: El titular tiene garra, pero «desterrar» suena un poco sensacionalista, ¿no te parece?
+- Mag sein. Und jetzt der Vorspann. „Wie aus Rathauskreisen verlautet, sei der Beschluss so gut wie gefasst; eine offizielle Bestätigung stehe allerdings noch aus.“
+  it: Può darsi. E adesso il sommario. «Secondo quanto trapela dal municipio, la decisione sarebbe praticamente presa; manca però ancora una conferma ufficiale.»
+  en: Maybe. And now the standfirst. "According to sources at City Hall, the decision has all but been made; official confirmation, however, is still pending."
+  es: Puede ser. Y ahora la entradilla. «Según fuentes municipales, la decisión estaría prácticamente tomada; no obstante, aún faltaría la confirmación oficial».
+- Der Konjunktiv ist wohl dazu da, dich abzusichern?
+  it: Quel congiuntivo serve a pararti le spalle, immagino?
+  en: I suppose the subjunctive is there to cover yourself?
+  es: Ese subjuntivo está para cubrirte las espaldas, ¿no?
+- Selbstverständlich. Solange die Stadt nichts bestätigt hat, kann ich das nicht schwarz auf weiß behaupten.
+  it: Naturalmente. Finché il comune non ha confermato nulla, non posso affermarlo nero su bianco.
+  en: Of course. As long as the city hasn't confirmed anything, I can't state it in black and white.
+  es: Por supuesto. Mientras el ayuntamiento no haya confirmado nada, no puedo afirmarlo negro sobre blanco.
+- Und Giulia, kommt sie im Artikel vor?
+  it: E Giulia compare nell'articolo?
+  en: And does Giulia appear in the article?
+  es: ¿Y Giulia sale en el artículo?
+- Sie hat mich gebeten, sie nicht zu zitieren. Ihr Büro will sich bedeckt halten, und zwar zu Recht.
+  it: Mi ha chiesto di non citarla. Il suo studio vuole mantenere un profilo basso, e a ragione.
+  en: She asked me not to quote her. Her firm wants to keep a low profile, and rightly so.
+  es: Me ha pedido que no la cite. Su estudio quiere mantener un perfil bajo, y con razón.
+- Schade. Hätte sie zugestimmt, wäre ihr Name in der ganzen Branche bekannt geworden.
+  it: Peccato. Se avesse accettato, il suo nome sarebbe diventato noto in tutto il settore.
+  en: Pity. Had she agreed, her name would have become known across the whole industry.
+  es: Lástima. Si hubiera aceptado, su nombre se habría dado a conocer en todo el sector.
+- Oder sie hätte sich von ihrem Chef einen Rüffel eingefangen. In der Probezeit spielt man besser nicht mit dem Feuer.
+  it: Oppure si sarebbe beccata una ramanzina dal suo responsabile. Durante il periodo di prova è meglio non scherzare col fuoco.
+  en: Or she'd have got a dressing-down from her boss. On probation, you'd better not play with fire.
+  es: O se habría llevado una bronca de su jefe. Durante el periodo de prueba, más vale no jugar con fuego.
+- Stimmt auch wieder. Schick mir die Endfassung, bevor du sie in der Redaktion abgibst.
+  it: Anche questo è vero. Mandami la versione definitiva prima di consegnarla in redazione.
+  en: Fair point. Send me the final version before you hand it in to the newsroom.
+  es: También es verdad. Mándame la versión definitiva antes de entregarla en la redacción.
+- Mach ich. Und falls der Artikel unter den Tisch fällt, darfst du mich trösten.
+  it: D'accordo. E se l'articolo finisce nel dimenticatoio, potrai consolarmi.
+  en: Will do. And if the article gets dropped (falls under the table), you can console me.
+  es: Hecho (hago yo). Y si el artículo acaba en un cajón (cae bajo la mesa), podrás consolarme.
+
+notes.it:
+1. Il Konjunktiv I è il modo del discorso riportato nella lingua dei giornali:
+   sei, stehe aus, habe. Il giornalista riferisce senza farsi garante. In
+   italiano, nello stesso caso, si usa il condizionale ("la decisione sarebbe
+   presa") oppure "secondo quanto riferito".
+2. Hätte sie zugestimmt, wäre ihr Name bekannt geworden: è il Konjunktiv II
+   passato, per un'ipotesi irreale nel passato. Senza wenn il verbo passa in
+   prima posizione. Corrisponde a "se avesse accettato, sarebbe diventato".
+3. Espressioni: sich bedeckt halten (mantenere un profilo basso), schwarz auf
+   weiß (nero su bianco), mit dem Feuer spielen (scherzare col fuoco), sich einen
+   Rüffel einfangen (beccarsi una ramanzina), unter den Tisch fallen (finire nel
+   dimenticatoio, letteralmente "cadere sotto il tavolo").
+4. Il lessico della stampa: die Überschrift (titolo), der Vorspann (sommario,
+   cappello), die Redaktion (redazione), der Stadtrat (consiglio comunale), wie
+   aus Rathauskreisen verlautet (secondo quanto trapela dal municipio). Knackig
+   (incisivo) e reißerisch (sensazionalistico) giudicano un titolo. Falso amico:
+   der Chef è il capo, non il cuoco (der Koch).
+5. Cambio di registro: Mia legge il tedesco scritto del giornale, poi torna al
+   parlato, dove il soggetto spesso cade: Mach ich! (lo faccio), Stimmt auch
+   wieder (anche questo è vero).
+notes.en:
+1. The Konjunktiv I is the mood of reported speech in newspaper German: sei,
+   stehe aus, habe. The journalist passes the information on without vouching
+   for it, much like English "reportedly" or "is said to".
+2. Hätte sie zugestimmt, wäre ihr Name bekannt geworden: this is the past
+   Konjunktiv II, for an unreal condition in the past. Without wenn the verb
+   moves to first position, just like English "Had she agreed...".
+3. Idioms: sich bedeckt halten (to keep a low profile), schwarz auf weiß (in
+   black and white), mit dem Feuer spielen (to play with fire), sich einen
+   Rüffel einfangen (to get a dressing-down), unter den Tisch fallen (to be
+   dropped, literally "to fall under the table").
+4. Press vocabulary: die Überschrift (headline), der Vorspann (standfirst), die
+   Redaktion (newsroom, editorial staff), der Stadtrat (city council), wie aus
+   Rathauskreisen verlautet (according to sources at City Hall). Knackig
+   (punchy) and reißerisch (sensationalist) are ways to judge a headline. Der
+   Chef is the boss, not a cook (der Koch).
+5. Register switch: Mia reads the written German of the paper, then slips back
+   into speech, where the subject is often dropped: Mach ich! (will do), Stimmt
+   auch wieder (that's true too).
+notes.es:
+1. El Konjunktiv I es el modo del estilo indirecto en la lengua de
+   los periódicos: sei, stehe aus, habe. El periodista transmite la información
+   sin hacerse responsable de ella. En español, en el mismo caso, se usa el
+   condicional ("la decisión estaría tomada") o fórmulas como "según ha
+   trascendido".
+2. Hätte sie zugestimmt, wäre ihr Name bekannt geworden: es el Konjunktiv II
+   pasado, para una hipótesis irreal en el pasado. Sin wenn, el verbo pasa a la
+   primera posición. Corresponde a "si hubiera aceptado, se habría dado a
+   conocer", o al más literario "de haber aceptado...".
+3. Expresiones: sich bedeckt halten (mantener un perfil bajo), schwarz auf weiß
+   (negro sobre blanco), mit dem Feuer spielen (jugar con fuego), sich einen
+   Rüffel einfangen (llevarse una bronca), unter den Tisch fallen (quedarse en
+   un cajón, literalmente "caer bajo la mesa").
+4. El vocabulario de la prensa: die Überschrift (titular), der Vorspann
+   (entradilla), die Redaktion (redacción), der Stadtrat (concejo municipal),
+   wie aus Rathauskreisen verlautet (según fuentes municipales). Knackig (con
+   garra) y reißerisch (sensacionalista) sirven para juzgar un titular.
+   Falso amigo: der Chef es el jefe, no el chef de cocina (der Koch).
+5. Cambio de registro: Mia lee el alemán escrito del periódico y luego vuelve a
+   la lengua hablada, donde a menudo desaparece el sujeto: Mach ich! (hecho, lo
+   haré), Stimmt auch wieder (también es verdad).
+
+ex1:
+- Laut Polizei sei niemand verletzt worden.
+  it: Secondo la polizia nessuno sarebbe rimasto ferito.
+  en: According to the police, nobody was hurt.
+  es: Según la policía, nadie habría resultado herido.
+- Hätte ich das gewusst, wäre ich früher gekommen.
+  it: Se l'avessi saputo, sarei venuto prima.
+  en: Had I known, I would have come earlier.
+  es: Si lo hubiera sabido, habría venido antes.
+- Das Projekt ist unter den Tisch gefallen.
+  it: Il progetto è finito nel dimenticatoio.
+  en: The project was quietly dropped.
+  es: El proyecto se quedó en un cajón.
+- Die Ministerin will sich bedeckt halten.
+  it: La ministra vuole mantenere un profilo basso.
+  en: The minister wants to keep a low profile.
+  es: La ministra quiere mantener un perfil bajo.
+
+ex2:
+- Der Beschluss [sei] bereits gefasst.
+  it: La decisione sarebbe già stata presa.
+  en: The decision has reportedly already been made.
+  es: La decisión ya estaría tomada.
+- [Hätte] sie zugestimmt, [wäre] sie bekannt geworden.
+  it: Se avesse accettato, sarebbe diventata famosa.
+  en: Had she agreed, she would have become well known.
+  es: Si hubiera aceptado, se habría hecho famosa.
+- In der Probezeit spielt man besser nicht mit dem [Feuer].
+  it: Durante il periodo di prova è meglio non scherzare col fuoco.
+  en: On probation, you'd better not play with fire.
+  es: Durante el periodo de prueba, más vale no jugar con fuego.
+- Das kann ich nicht [schwarz] auf [weiß] behaupten.
+  it: Non posso affermarlo nero su bianco.
+  en: I can't state that in black and white.
+  es: No puedo afirmarlo negro sobre blanco.
+
+== 201 C2
+title: Brief aus Hamburg
+title.it: Lettera da Amburgo
+title.en: Letter from Hamburg
+title.es: Carta desde Hamburgo
+
+dialogue:
+- Liebe Giulia, seit Ihrem Auszug herrscht im Haus eine Stille, die ich, wäre ich weniger höflich, verdächtig nennen würde.
+  it: Cara Giulia, da quando Lei ha lasciato l'appartamento, nel palazzo regna un silenzio che, se fossi meno cortese, definirei sospetto.
+  en: Dear Giulia, since you moved out, a silence has reigned in the building which, were I less polite, I would call suspicious.
+  es: Querida Giulia: desde que usted se mudó, reina en el edificio un silencio que yo, si fuera menos cortés, calificaría de sospechoso.
+- In Ihre Wohnung im dritten Stock ist ein junger Mann gezogen, der nie vor Sonnenaufgang heimkehrt und das Haus nie vor Mittag verlässt.
+  it: Nel Suo appartamento al terzo piano si è trasferito un giovanotto che non rientra mai prima dell'alba e non esce mai di casa prima di mezzogiorno.
+  en: A young man has moved into your flat on the third floor who never comes home before sunrise and never leaves the house before noon.
+  es: A su piso de la tercera planta se ha mudado un joven que nunca vuelve a casa antes del amanecer y nunca sale del edificio antes del mediodía.
+- Man versichert mir, er sei „in der Start-up-Szene unterwegs“; ich habe es aufgegeben, nachzufragen, was das bedeuten mag, und lebe seither keineswegs schlechter.
+  it: Mi assicurano che «si muove nel mondo delle start-up»; ho smesso di chiedere che cosa possa significare, e da allora non vivo affatto peggio.
+  en: I am assured that he is "active in the start-up scene"; I have given up asking what that might mean, and have been none the worse for it since.
+  es: Me aseguran que «se mueve en el mundillo de las start-ups»; he dejado de preguntar qué puede significar eso, y desde entonces no vivo peor en absoluto.
+- Die Bäckerei an der Ecke hat einem Laden Platz gemacht, der „neu interpretierte“ Franzbrötchen zum dreifachen Preis verkauft; der Fortschritt schmeckt offenbar nach Zimt und Zinsen.
+  it: La panetteria all'angolo ha lasciato il posto a un negozio che vende Franzbrötchen «reinterpretati» al triplo del prezzo; il progresso, a quanto pare, sa di cannella e di interessi.
+  en: The corner bakery has made way for a shop selling "reinterpreted" Franzbrötchen at three times the price; progress, it seems, tastes of cinnamon and interest.
+  es: La panadería de la esquina ha dejado su sitio a una tienda que vende Franzbrötchen «reinterpretados» al triple de precio; el progreso, por lo visto, sabe a canela e intereses.
+- Als der Artikel von Jonas' Schwester erschien, taten in unserer Straße plötzlich alle so, als hätten sie nie ein Auto besessen.
+  it: Quando uscì l'articolo della sorella di Jonas, nella nostra via tutti d'un tratto fecero finta di non aver mai posseduto un'auto.
+  en: When Jonas's sister's article came out, everyone in our street suddenly acted as if they had never owned a car.
+  es: Cuando apareció el artículo de la hermana de Jonas, en nuestra calle todos hicieron de pronto como si nunca hubieran tenido coche.
+- Der Geländewagen vor Hausnummer zwölf steht freilich noch immer da, vermutlich aus Pietät.
+  it: Il fuoristrada davanti al numero dodici, s'intende, è ancora lì, presumo per devozione.
+  en: The SUV outside number twelve is, of course, still there, presumably out of piety.
+  es: El todoterreno delante del número doce sigue ahí, por supuesto, seguramente por devoción.
+- Man wirft heutzutage lieber weg, als dass man repariert – Häuser ebenso wie Freundschaften.
+  it: Oggi si preferisce buttare via piuttosto che riparare, le case come le amicizie.
+  en: Nowadays people would rather throw things away than repair them, houses and friendships alike.
+  es: Hoy en día se prefiere tirar antes que reparar, tanto las casas como las amistades.
+- Doch ich will die Flinte nicht ins Korn werfen: Der Bezirk erwäge, so heißt es, unsere Fassade unter Denkmalschutz zu stellen.
+  it: Ma non voglio gettare la spugna (il fucile nel grano): il distretto, a quanto si dice, starebbe valutando di porre la nostra facciata sotto tutela.
+  en: But I don't intend to throw in the towel (the rifle into the corn): the district, so they say, is considering putting our façade under a preservation order.
+  es: Pero no quiero tirar la toalla (arrojar la escopeta al trigo): el distrito, según dicen, estaría estudiando declarar nuestra fachada monumento protegido.
+- Ich bezweifle allerdings, dass dies geschieht, bevor man mich selbst unter Denkmalschutz stellt; aber die Hoffnung ist eine Tugend, die sich in meinem Alter besser pflegen lässt als in Ihrem.
+  it: Dubito però che ciò accada prima che mettano sotto tutela me stessa; ma la speranza è una virtù che si coltiva meglio alla mia età che alla Sua.
+  en: I doubt, however, that this will happen before I myself am placed under a preservation order; but hope is a virtue more easily cultivated at my age than at yours.
+  es: Dudo, sin embargo, que eso ocurra antes de que me declaren a mí misma monumento protegido; pero la esperanza es una virtud que se cultiva mejor a mi edad que a la suya.
+- Kommen Sie, wann immer Sie wollen: Ihr Zimmer gibt es nicht mehr, mein Sofa hingegen ist von unverbrüchlicher Treue.
+  it: Venga quando vuole: la Sua camera non c'è più, il mio divano invece è di una fedeltà incrollabile.
+  en: Come whenever you like: your room no longer exists, but my sofa is of unwavering loyalty.
+  es: Venga cuando quiera: su habitación ya no existe, pero mi sofá, en cambio, es de una fidelidad inquebrantable.
+- Mit herzlichen Grüßen, die förmlicher klingen, als sie gemeint sind, Ihre Hannelore Becker
+  it: Con i più cordiali saluti, che suonano più formali di quanto non siano nelle intenzioni, Sua Hannelore Becker
+  en: With warmest regards, which sound more formal than they are meant, yours, Hannelore Becker
+  es: Con afectuosos saludos, que suenan más formales de lo que pretenden, suya, Hannelore Becker
+- P. S. Jonas kommt sonntags vorbei, angeblich wegen der Katze; aber die Katze lässt sich kein X für ein U vormachen.
+  it: P.S. Jonas passa la domenica, a suo dire per la gatta; ma la gatta non si fa infinocchiare.
+  en: P.S. Jonas drops by on Sundays, supposedly for the cat; but the cat is not so easily fooled.
+  es: P. D. Jonas pasa por aquí los domingos, supuestamente por la gata; pero a la gata no hay quien le dé gato por liebre.
+
+notes.it:
+1. Il Präteritum (erschien, taten) è il passato della narrazione scritta: in una
+   lettera dà un tono letterario, mentre nella conversazione si preferisce il
+   Perfekt, salvo per verbi come war e hatte.
+2. Il Konjunktiv in tre usi: wäre ich weniger höflich (se fossi meno cortese, con
+   il verbo in prima posizione al posto di wenn); er sei, der Bezirk erwäge
+   (Konjunktiv I del discorso riportato, che prende le distanze); als hätten sie
+   nie... (come se non avessero mai..., als + Konjunktiv II con inversione).
+3. Modi di dire rari: die Flinte ins Korn werfen (gettare il fucile nel grano,
+   cioè arrendersi); sich kein X für ein U vormachen lassen (non farsi
+   infinocchiare). Nella numerazione romana la V, scritta anche U, valeva 5 e la
+   X 10: chi trasformava una U in X imbrogliava sul conto.
+4. L'ironia di Frau Becker passa per la litote (lebe seither keineswegs
+   schlechter), il gioco di parole (Zimt und Zinsen, cannella e interessi), la
+   falsa solennità (von unverbrüchlicher Treue, aus Pietät) e il doppio senso di
+   unter Denkmalschutz stellen (vincolare un edificio storico), che applica a se
+   stessa.
+5. Liebe Giulia e il Sie insieme sono il cosiddetto "Hamburger Sie": nome di
+   battesimo più forma di cortesia. Nelle lettere Sie, Ihr e Ihnen vanno sempre
+   con la maiuscola; Mit herzlichen Grüßen è la chiusa affettuosa, Mit
+   freundlichen Grüßen quella neutra.
+notes.en:
+1. The Präteritum (erschien, taten) is the past tense of written narrative: in a
+   letter it gives a literary tone, while conversation prefers the Perfekt,
+   except for verbs such as war and hatte.
+2. The Konjunktiv in three uses: wäre ich weniger höflich (were I less polite,
+   with the verb first instead of wenn); er sei, der Bezirk erwäge (Konjunktiv I
+   of reported speech, keeping a distance); als hätten sie nie... (as if they
+   had never..., als + Konjunktiv II with inversion).
+3. Rare idioms: die Flinte ins Korn werfen (to throw the rifle into the corn, to
+   give up); sich kein X für ein U vormachen lassen (not to be taken in). In
+   Roman numerals V, also written U, stood for 5 and X for 10: turning a U into
+   an X was a way of cheating on a bill.
+4. Frau Becker's irony works through litotes (lebe seither keineswegs
+   schlechter), wordplay (Zimt und Zinsen, cinnamon and interest), mock
+   solemnity (von unverbrüchlicher Treue, aus Pietät) and the double meaning of
+   unter Denkmalschutz stellen (to list a historic building), which she applies
+   to herself.
+5. Liebe Giulia combined with Sie is the so-called "Hamburger Sie": first name
+   plus the polite form. In letters Sie, Ihr and Ihnen always take a capital;
+   Mit herzlichen Grüßen is the warm closing, Mit freundlichen Grüßen the neutral
+   one.
+notes.es:
+1. El Präteritum (erschien, taten) es el pasado de la narración escrita: en una
+   carta da un tono literario, mientras que en la conversación se prefiere el
+   Perfekt, salvo con verbos como war y hatte.
+2. El Konjunktiv en tres usos: wäre ich weniger höflich (si fuera menos cortés,
+   con el verbo en primera posición en lugar de wenn); er sei, der Bezirk erwäge
+   (Konjunktiv I del estilo indirecto, que toma distancia); als hätten sie
+   nie... (como si nunca hubieran..., als + Konjunktiv II con inversión).
+3. Modismos poco frecuentes: die Flinte ins Korn werfen (arrojar la escopeta al
+   trigo, es decir, rendirse, tirar la toalla); sich kein X für ein U vormachen
+   lassen (no dejarse engañar, como nuestro "no dejarse dar gato por liebre").
+   En la numeración romana la V, escrita también U, valía 5 y la X 10: quien
+   convertía una U en X hacía trampa con la cuenta.
+4. La ironía de Frau Becker se apoya en la lítote (lebe seither keineswegs
+   schlechter), el juego de palabras (Zimt und Zinsen, canela e intereses), la
+   falsa solemnidad (von unverbrüchlicher Treue, aus Pietät) y el doble sentido
+   de unter Denkmalschutz stellen (declarar monumento protegido un edificio
+   histórico), que se aplica a sí misma.
+5. Liebe Giulia junto con Sie es el llamado "Hamburger Sie": nombre de pila más
+   tratamiento de usted. En las cartas Sie, Ihr e Ihnen van siempre con
+   mayúscula; Mit herzlichen Grüßen es la despedida afectuosa, Mit freundlichen
+   Grüßen la neutra.
+
+ex1:
+- Wäre ich jünger, würde ich nach München ziehen.
+  it: Se fossi più giovane, mi trasferirei a Monaco.
+  en: Were I younger, I would move to Munich.
+  es: Si fuera más joven, me mudaría a Múnich.
+- Er tat so, als hätte er nichts gehört.
+  it: Fece finta di non aver sentito nulla.
+  en: He acted as if he hadn't heard anything.
+  es: Hizo como si no hubiera oído nada.
+- Wir werfen die Flinte nicht ins Korn.
+  it: Non gettiamo la spugna.
+  en: We won't throw in the towel.
+  es: No vamos a tirar la toalla.
+- Die Katze lässt sich kein X für ein U vormachen.
+  it: La gatta non si fa infinocchiare.
+  en: The cat is not so easily fooled.
+  es: A la gata no hay quien le dé gato por liebre.
+
+ex2:
+- Als der Artikel [erschien], [taten] alle überrascht.
+  it: Quando uscì l'articolo, tutti fecero finta di essere sorpresi.
+  en: When the article came out, everyone feigned surprise.
+  es: Cuando apareció el artículo, todos fingieron sorpresa.
+- Man versichert mir, er [sei] sehr beschäftigt.
+  it: Mi assicurano che è molto occupato.
+  en: I am assured that he is very busy.
+  es: Me aseguran que está muy ocupado.
+- Ich bezweifle, [dass] dies bald [geschieht].
+  it: Dubito che ciò accada presto.
+  en: I doubt that this will happen soon.
+  es: Dudo que esto ocurra pronto.
+- Die Fassade soll unter [Denkmalschutz] gestellt werden.
+  it: La facciata dovrebbe essere posta sotto tutela.
+  en: The façade is to be listed as a historic monument.
+  es: Está previsto declarar la fachada monumento protegido.

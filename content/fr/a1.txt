@@ -1,4 +1,356 @@
 course: fr
+name: French – from first words to mastery
+name.it: Francese – dalle prime parole alla padronanza
+name.en: French – from first words to mastery
+name.es: Francés – de las primeras palabras al dominio
+
+== 1 A1
+title: Bonjour !
+title.it: Buongiorno!
+title.en: Hello!
+title.es: ¡Buenos días!
+
+dialogue:
+- Bonjour ! Je m'appelle Léa. Et toi ?
+  it: Buongiorno! Mi chiamo (io mi chiamo) Léa. E tu?
+  en: Hello! My name is (I call myself) Léa. And you?
+  es: ¡Buenos días! Me llamo (yo me llamo) Léa. ¿Y tú?
+- Moi, c'est Marco. Je suis italien.
+  it: Io sono Marco (io, è Marco). Sono italiano.
+  en: I'm Marco (me, it's Marco). I'm Italian.
+  es: Yo soy Marco (yo, es Marco). Soy italiano.
+- Enchantée, Marco ! Tu habites à Paris ?
+  it: Piacere (incantata), Marco! Abiti a Parigi?
+  en: Nice to meet you (enchanted), Marco! Do you live (you live) in Paris?
+  es: ¡Encantada, Marco! ¿Vives (tú habitas) en París?
+- Oui, j'habite ici depuis lundi.
+  it: Sì, abito qui da lunedì.
+  en: Yes, I've lived here since Monday (I live here since Monday).
+  es: Sí, vivo aquí desde el lunes.
+- Super ! Tu veux un café ?
+  it: Fantastico! Vuoi un caffè?
+  en: Great! Do you want (you want) a coffee?
+  es: ¡Genial! ¿Quieres un café?
+- Oui, merci. Un café, s'il te plaît.
+  it: Sì, grazie. Un caffè, per favore (se ti piace).
+  en: Yes, thanks. A coffee, please (if it pleases you).
+  es: Sí, gracias. Un café, por favor (si te place).
+- Deux cafés, s'il vous plaît !
+  it: Due caffè, per favore (se vi piace)!
+  en: Two coffees, please (if it pleases you)!
+  es: ¡Dos cafés, por favor (si le place)!
+
+notes.it:
+1. Je m'appelle (io mi chiamo): s'appeler è riflessivo come "chiamarsi". Tra
+   giovani si dice spesso anche "Moi, c'est Marco" (io sono Marco).
+2. Enchanté / enchantée (piacere): la -e del femminile non si pronuncia. Léa è
+   una ragazza, quindi scrive "enchantée"; Marco direbbe "enchanté".
+3. Tu e vous: "tu" si usa con amici e coetanei, "vous" con gli sconosciuti e per
+   il plurale. Per questo Marco dice a Léa "s'il te plaît", mentre Léa al
+   cameriere dice "s'il vous plaît".
+4. Le consonanti finali di solito non si pronunciano: Paris si legge "parì",
+   deux suona come "dö" (una e con le labbra arrotondate). La h di habiter è
+   muta, perciò si scrive "j'habite" e non "je habite".
+5. J'habite ici depuis lundi (abito qui da lunedì): come in italiano, depuis con
+   il presente indica un'azione che dura ancora.
+notes.en:
+1. Je m'appelle (I call myself): s'appeler is reflexive. Among young people you
+   will often hear "Moi, c'est Marco" (me, it's Marco) as well.
+2. Enchanté / enchantée (nice to meet you): the feminine -e is silent. Léa is a
+   woman, so she writes "enchantée"; Marco would say "enchanté".
+3. Tu and vous: "tu" is for friends and people your age, "vous" for strangers and
+   for more than one person. That is why Marco says "s'il te plaît" to Léa, while
+   Léa says "s'il vous plaît" to the waiter.
+4. Final consonants are usually silent: Paris sounds like "pa-REE", and deux has
+   a rounded vowel close to the "u" in "fur". The h of habiter is silent, so you
+   write "j'habite", not "je habite".
+5. J'habite ici depuis lundi (I've lived here since Monday): French uses the
+   present tense with depuis for something still going on, where English needs
+   the present perfect.
+notes.es:
+1. Je m'appelle (me llamo): s'appeler es reflexivo, igual que "llamarse". Entre
+   jóvenes también se oye a menudo "Moi, c'est Marco" (yo soy Marco).
+2. Enchanté / enchantée (encantado / encantada): la -e del femenino no se
+   pronuncia. Léa es una chica, así que escribe "enchantée"; Marco diría
+   "enchanté".
+3. Tu y vous: "tu" se usa con amigos y gente de tu edad; "vous", con
+   desconocidos (como nuestro "usted") y para dirigirse a varias personas (como
+   "vosotros"). Por eso Marco le dice a Léa "s'il te plaît", mientras que Léa le
+   dice al camarero "s'il vous plaît".
+4. Las consonantes finales normalmente no se pronuncian: Paris se lee "parí", y
+   deux suena parecido a "dö" (una e pronunciada con los labios redondeados). La
+   h de habiter es muda, como la nuestra, y delante de ella je pierde la e: se
+   escribe "j'habite" y no "je habite".
+5. J'habite ici depuis lundi (vivo aquí desde el lunes): como en español, depuis
+   con el presente indica una acción que todavía dura.
+
+ex1:
+- Je m'appelle Hugo.
+  it: Mi chiamo Hugo.
+  en: My name is Hugo.
+  es: Me llamo Hugo.
+- Tu veux un café, Léa ?
+  it: Vuoi un caffè, Léa?
+  en: Do you want a coffee, Léa?
+  es: ¿Quieres un café, Léa?
+- J'habite à Paris depuis lundi.
+  it: Abito a Parigi da lunedì.
+  en: I've lived in Paris since Monday.
+  es: Vivo en París desde el lunes.
+- Je suis italienne. Et toi ?
+  it: Sono italiana. E tu?
+  en: I'm Italian. And you?
+  es: Soy italiana. ¿Y tú?
+
+ex2:
+- Je [m'appelle] Marco.
+  it: Mi chiamo Marco.
+  en: My name is Marco.
+  es: Me llamo Marco.
+- [Deux] cafés, s'il [vous] plaît.
+  it: Due caffè, per favore.
+  en: Two coffees, please.
+  es: Dos cafés, por favor.
+- Tu [habites] à Paris ?
+  it: Abiti a Parigi?
+  en: Do you live in Paris?
+  es: ¿Vives en París?
+- Oui, [merci]. [Enchantée] !
+  it: Sì, grazie. Piacere!
+  en: Yes, thanks. Nice to meet you!
+  es: Sí, gracias. ¡Encantada!
+
+== 2 A1
+title: Le nouveau voisin
+title.it: Il nuovo vicino
+title.en: The new neighbour
+title.es: El nuevo vecino
+
+dialogue:
+- Bonjour, madame. Je m'appelle Marco. J'habite au troisième étage.
+  it: Buongiorno, signora. Mi chiamo Marco. Abito al terzo piano.
+  en: Good morning, madam. My name is Marco. I live on the third floor.
+  es: Buenos días, señora. Me llamo Marco. Vivo en el tercer piso.
+- Ah, le nouveau voisin ! Moi, c'est Madame Girard. Vous êtes étudiant ?
+  it: Ah, il nuovo vicino! Io sono la signora Girard. Lei è studente (voi siete studente)?
+  en: Ah, the new neighbour! I'm Madame Girard. Are you a student (you are student)?
+  es: ¡Ah, el nuevo vecino! Yo soy la señora Girard. ¿Es usted estudiante (sois estudiante)?
+- Oui, j'étudie l'architecture. Et j'aime beaucoup le quartier.
+  it: Sì, studio architettura (l'architettura). E il quartiere mi piace molto (amo molto il quartiere).
+  en: Yes, I study architecture. And I really like (I love much) the neighbourhood.
+  es: Sí, estudio arquitectura (la arquitectura). Y el barrio me gusta mucho (amo mucho el barrio).
+- Il est calme, et il y a une boulangerie au coin de la rue.
+  it: È tranquillo, e c'è (esso lì ha) una panetteria all'angolo della strada.
+  en: It's quiet, and there's (it there has) a bakery on the corner of the street.
+  es: Es tranquilo, y hay (él allí ha) una panadería en la esquina de la calle.
+- Super ! Le pain est bon ?
+  it: Fantastico! Il pane è buono?
+  en: Great! Is the bread good (the bread is good)?
+  es: ¡Genial! ¿Está bueno el pan (el pan es bueno)?
+- Très bon. Et les croissants sont excellents.
+  it: Buonissimo (molto buono). E i croissant sono eccellenti.
+  en: Very good. And the croissants are excellent.
+  es: Buenísimo (muy bueno). Y los cruasanes son excelentes.
+- Merci, madame. Bonne journée !
+  it: Grazie, signora. Buona giornata!
+  en: Thank you, madam. Have a nice day (good day)!
+  es: Gracias, señora. ¡Que tenga un buen día (buena jornada)!
+- Bonne journée, Marco !
+  it: Buona giornata, Marco!
+  en: Have a nice day, Marco!
+  es: ¡Que tenga un buen día, Marco!
+
+notes.it:
+1. Vous êtes étudiant ? Madame Girard dà del "vous" a uno sconosciuto, come noi
+   diamo del "Lei". Il verbo essere: je suis, tu es, il/elle est, nous sommes,
+   vous êtes, ils/elles sont. In "vous êtes" la s si lega alla vocale: "vuzèt".
+2. Il y a (letteralmente "esso lì ha") significa sia "c'è" sia "ci sono" e non
+   cambia mai: il y a une boulangerie, il y a deux boulangeries.
+3. Au troisième étage: au = à + le. I piani si contano come in italiano: le
+   rez-de-chaussée è il piano terra, le premier étage il primo piano.
+4. J'aime beaucoup le quartier: aimer vuol dire sia "amare" sia "piacere". Per
+   dire "mi piace" il francese usa la persona come soggetto: j'aime le pain.
+5. Calme, detto di un luogo, significa "tranquillo" più che "calmo". La rue è la
+   strada o la via; non va confusa con la roue, che è la ruota.
+notes.en:
+1. Vous êtes étudiant ? Madame Girard uses "vous" with a stranger. The verb
+   "to be" goes je suis, tu es, il/elle est, nous sommes, vous êtes, ils/elles
+   sont. In "vous êtes" the s links to the vowel: "voo-ZET".
+2. Il y a (literally "it there has") means both "there is" and "there are" and
+   never changes: il y a une boulangerie, il y a deux boulangeries.
+3. Au troisième étage: au = à + le. French counts floors as British English
+   does, so le rez-de-chaussée is the ground floor and le premier étage the
+   floor above.
+4. J'aime beaucoup le quartier: aimer means both "to love" and "to like". The
+   person who likes is the subject, as in English: j'aime le pain.
+5. Calme often means "quiet" rather than "calm" when describing a place, and
+   la rue is the everyday word for "street".
+notes.es:
+1. Vous êtes étudiant ? La señora Girard trata de "vous" a un desconocido, igual
+   que nosotros tratamos de "usted". Être equivale a la vez a "ser" y a "estar"
+   y se conjuga así: je suis, tu es, il/elle est, nous sommes, vous êtes,
+   ils/elles sont. En "vous êtes" la s se enlaza con la vocal y suena sonora,
+   como un zumbido: "vuzet".
+2. Il y a (literalmente "él allí ha") significa "hay" y nunca cambia: il y a une
+   boulangerie, il y a deux boulangeries. Curiosamente, nuestro "hay" se
+   formó igual: ha + y, un antiguo adverbio que significaba "allí".
+3. Au troisième étage: au = à + le, como nuestro "al" = a + el. Los pisos se
+   cuentan como en España: le rez-de-chaussée es la planta baja y le premier
+   étage, el primer piso.
+4. J'aime beaucoup le quartier: aimer significa a la vez "amar" y "gustar".
+   Pero, a diferencia del español, la persona a quien le gusta algo es
+   el sujeto: j'aime le pain (me gusta el pan, literalmente "amo el pan").
+5. Calme, referido a un lugar, significa "tranquilo" más que "en calma". La rue
+   es la calle; no hay que confundirla con la roue, que es la rueda.
+
+ex1:
+- J'habite au premier étage.
+  it: Abito al primo piano.
+  en: I live on the first floor.
+  es: Vivo en el primer piso.
+- Il y a un café au coin de la rue.
+  it: C'è un caffè all'angolo della strada.
+  en: There's a café on the corner of the street.
+  es: Hay un café en la esquina de la calle.
+- Vous êtes le nouveau voisin ?
+  it: Lei è il nuovo vicino?
+  en: Are you the new neighbour?
+  es: ¿Es usted el nuevo vecino?
+- J'aime beaucoup le pain.
+  it: Il pane mi piace molto.
+  en: I really like bread.
+  es: Me gusta mucho el pan.
+
+ex2:
+- Il y [a] une boulangerie dans le [quartier].
+  it: C'è una panetteria nel quartiere.
+  en: There's a bakery in the neighbourhood.
+  es: Hay una panadería en el barrio.
+- Vous [êtes] étudiante ?
+  it: Lei è studentessa?
+  en: Are you a student?
+  es: ¿Es usted estudiante?
+- [Bonne] journée, madame !
+  it: Buona giornata, signora!
+  en: Have a nice day, madam!
+  es: ¡Que tenga un buen día, señora!
+- Les croissants [sont] excellents.
+  it: I croissant sono eccellenti.
+  en: The croissants are excellent.
+  es: Los cruasanes son excelentes.
+
+== 3 A1
+title: À la boulangerie
+title.it: In panetteria
+title.en: At the bakery
+title.es: En la panadería
+
+dialogue:
+- Bonjour, monsieur. Une baguette et deux croissants, s'il vous plaît.
+  it: Buongiorno, signore. Una baguette e due croissant, per favore.
+  en: Good morning, sir. A baguette and two croissants, please.
+  es: Buenos días, señor. Una baguette y dos cruasanes, por favor.
+- Voilà. Et avec ceci ?
+  it: Ecco. Desidera altro (e con questo)?
+  en: Here you are. Anything else (and with this)?
+  es: Aquí tiene. ¿Algo más (y con esto)?
+- C'est tout, merci. Ça fait combien ?
+  it: È tutto, grazie. Quanto fa (questo fa quanto)?
+  en: That's all, thanks. How much is it (that makes how much)?
+  es: Eso es todo, gracias. ¿Cuánto es (eso hace cuánto)?
+- Ça fait quatre euros.
+  it: Fa (questo fa) quattro euro.
+  en: That's (that makes) four euros.
+  es: Son (eso hace) cuatro euros.
+- Léa, tu as de la monnaie ?
+  it: Léa, hai degli spiccioli (della moneta)?
+  en: Léa, do you have any change (some coin)?
+  es: Léa, ¿tienes suelto (tú tienes de la moneda)?
+- Oui, j'ai un billet de cinq euros. Tiens !
+  it: Sì, ho una banconota (un biglietto) da cinque euro. Tieni!
+  en: Yes, I have a five-euro note (ticket). Here (hold)!
+  es: Sí, tengo un billete de cinco euros. ¡Toma (ten)!
+- Merci ! Demain matin, je t'invite au café.
+  it: Grazie! Domani mattina ti offro (ti invito) il caffè.
+  en: Thanks! Tomorrow morning the coffee's on me (I invite you to the café).
+  es: ¡Gracias! Mañana por la mañana te invito a un café (te invito al café).
+- D'accord. À demain !
+  it: D'accordo. A domani!
+  en: OK (of agreement). See you tomorrow (to tomorrow)!
+  es: De acuerdo. ¡Hasta mañana (a mañana)!
+
+notes.it:
+1. Ça fait combien ? (quanto fa?) è la domanda tipica alla cassa. Ça è la forma
+   parlata di cela, "questo".
+2. I numeri: un, deux, trois, quatre, cinq. Davanti a vocale la consonante
+   finale si lega: deux euros suona "dözörò", cinq euros "sènkörò".
+3. Falso amico: la monnaie sono gli spiccioli o il resto, non i soldi in
+   generale. I soldi sono l'argent (che vuol dire anche "argento").
+4. Tiens ! (tieni) viene da tenir e si usa quando si porge qualcosa; voilà
+   corrisponde a "ecco".
+5. Je t'invite: in Francia inviter qualcuno al bar o al ristorante significa
+   anche pagare per lui, cioè "offrire".
+notes.en:
+1. Ça fait combien ? (how much is it?) is the usual question at the till. Ça is
+   the spoken form of cela, "that".
+2. Numbers: un, deux, trois, quatre, cinq. Before a vowel the final consonant
+   is linked, so deux euros sounds like "duh-zuh-ROH" and cinq euros like
+   "sank-uh-ROH".
+3. La monnaie means small change, not money in general. Money is l'argent, which
+   also means "silver".
+4. Tiens ! (here, literally "hold") comes from tenir and is said when handing
+   something over; voilà means "here it is, there you go".
+5. Je t'invite: in France, inviting someone to a café or restaurant usually means
+   you pay, so it is close to "it's on me".
+notes.es:
+1. Ça fait combien ? (¿cuánto es?) es la pregunta típica en la caja. Ça es la
+   forma hablada de cela, "eso".
+2. Los números: un, deux, trois, quatre, cinq. Delante de vocal, la consonante
+   final se enlaza con la palabra siguiente: deux euros suena "dö-zö-RÓ" (con
+   una s sonora, como un zumbido) y cinq euros, "san-kö-RÓ".
+3. Falso amigo: la monnaie es el suelto o el cambio; una moneda se dice une
+   pièce. El dinero es l'argent, que también significa "plata", igual que en
+   gran parte de América se llama "plata" al dinero.
+4. Tiens ! (toma, literalmente "ten") viene de tenir y se dice al dar algo;
+   voilà corresponde a "aquí tiene" o "ahí está".
+5. Je t'invite: en Francia, como en España, invitar a alguien a un café o a un
+   restaurante significa que pagas tú.
+
+ex1:
+- Un café et un croissant, s'il vous plaît.
+  it: Un caffè e un croissant, per favore.
+  en: A coffee and a croissant, please.
+  es: Un café y un cruasán, por favor.
+- Ça fait combien, la baguette ?
+  it: Quanto costa la baguette?
+  en: How much is the baguette?
+  es: ¿Cuánto es la baguette?
+- Demain, je t'invite au café.
+  it: Domani ti offro il caffè.
+  en: Tomorrow the coffee's on me.
+  es: Mañana te invito a un café.
+- Tu as un billet de vingt euros ?
+  it: Hai una banconota da venti euro?
+  en: Do you have a twenty-euro note?
+  es: ¿Tienes un billete de veinte euros?
+
+ex2:
+- Ça [fait] trois euros.
+  it: Fa tre euro.
+  en: That's three euros.
+  es: Son tres euros.
+- C'est [tout], merci.
+  it: È tutto, grazie.
+  en: That's all, thanks.
+  es: Eso es todo, gracias.
+- J'[ai] de la [monnaie].
+  it: Ho degli spiccioli.
+  en: I have some change.
+  es: Tengo suelto.
+- D'[accord]. À [demain] !
+  it: D'accordo. A domani!
+  en: OK. See you tomorrow!
+  es: De acuerdo. ¡Hasta mañana!
 
 == 4 A1
 title: Au café

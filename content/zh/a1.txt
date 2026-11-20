@@ -1,4 +1,429 @@
 course: zh
+name: Chinese – from first words to mastery
+name.it: Cinese – dalle prime parole alla padronanza
+name.en: Chinese – from first words to mastery
+name.es: Chino – de las primeras palabras al dominio
+
+== 1 A1
+title: 你好！
+title.it: Ciao!
+title.en: Hello!
+title.es: ¡Hola!
+
+dialogue:
+- 你好！我叫马可。
+  pron: Nǐ hǎo! Wǒ jiào Mǎkě.
+  it: Ciao (tu bene)! Mi chiamo (io chiamare) Marco.
+  en: Hello (you good)! My name is (I am called) Marco.
+  es: ¡Hola (tú bien)! Me llamo (yo llamar) Marco.
+- 你好，马可！我是王丽。你是美国人吗？
+  pron: Nǐ hǎo, Mǎkě! Wǒ shì Wáng Lì. Nǐ shì Měiguórén ma?
+  it: Ciao, Marco! Io sono Wang Li. Sei americano (tu essere America-persona ma)?
+  en: Hello, Marco! I'm Wang Li. Are you American (you be America-person ma)?
+  es: ¡Hola, Marco! Soy Wang Li. ¿Eres estadounidense (tú ser América-persona ma)?
+- 不是，我是意大利人。你呢？
+  pron: Bú shì, wǒ shì Yìdàlìrén. Nǐ ne?
+  it: No (non essere), sono italiano. E tu (tu ne)?
+  en: No (not be), I'm Italian. And you (you ne)?
+  es: No (no ser), soy italiano. ¿Y tú (tú ne)?
+- 我是中国人，我是北京人。
+  pron: Wǒ shì Zhōngguórén, wǒ shì Běijīngrén.
+  it: Sono cinese, sono di Pechino (Pechino-persona).
+  en: I'm Chinese, I'm from Beijing (Beijing-person).
+  es: Soy china, soy de Pekín (Pekín-persona).
+- 你是学生吗？
+  pron: Nǐ shì xuésheng ma?
+  it: Sei una studentessa (tu essere studente ma)?
+  en: Are you a student (you be student ma)?
+  es: ¿Eres estudiante (tú ser estudiante ma)?
+- 是，我是学生。你也是学生吗？
+  pron: Shì, wǒ shì xuésheng. Nǐ yě shì xuésheng ma?
+  it: Sì (essere), sono una studentessa. Anche tu sei uno studente?
+  en: Yes (be), I'm a student. Are you a student too?
+  es: Sí (ser), soy estudiante. ¿Tú también eres estudiante?
+- 对，我也是学生。认识你很高兴！
+  pron: Duì, wǒ yě shì xuésheng. Rènshi nǐ hěn gāoxìng!
+  it: Sì (giusto), anch'io sono uno studente. Piacere di conoscerti (conoscere te molto contento)!
+  en: Yes (right), I'm a student too. Nice to meet you (know you very glad)!
+  es: Sí (correcto), yo también soy estudiante. ¡Encantado de conocerte (conocer tú muy contento)!
+- 我也很高兴。
+  pron: Wǒ yě hěn gāoxìng.
+  it: Piacere mio (anch'io molto contenta).
+  en: Nice to meet you too (I also very glad).
+  es: Igualmente (yo también muy contenta).
+
+notes.it:
+1. 你好 nǐ hǎo è il saluto di base, alla lettera "tu bene". Quando due terzi
+   toni si seguono, il primo si pronuncia come un secondo tono: si dice
+   "ní hǎo", ma si scrive nǐ hǎo.
+2. 吗 ma alla fine di una frase affermativa la trasforma in una domanda
+   sì/no, 你是学生 "sei studente" diventa 你是学生吗？ "sei studente?".
+   呢 ne rimanda la domanda all'altro, 你呢？ "e tu?".
+3. 是 shì "essere" unisce due nomi e non si coniuga mai, 我是, 你是, 她是.
+   Si nega con 不 bù, che davanti a un quarto tono diventa bú, 不是 bú shì.
+   Per rispondere "sì" si ripete il verbo (是) oppure si dice 对 "giusto".
+4. Paese + 人 rén "persona" indica la nazionalità, 中国人, 意大利人. 意大利
+   Yìdàlì imita il suono di "Italia"; 中国 significa "paese di mezzo".
+5. 认识你很高兴 corrisponde al nostro "piacere", alla lettera "conoscere te,
+   molto contento". 很 hěn "molto" spesso fa solo da legame davanti
+   all'aggettivo ed è più debole della sua traduzione.
+notes.en:
+1. 你好 nǐ hǎo is the basic greeting, literally "you good". When two third
+   tones meet, the first is said as a second tone, "ní hǎo", but it is
+   still written nǐ hǎo.
+2. 吗 ma at the end of a statement turns it into a yes/no question,
+   你是学生 "you are a student" becomes 你是学生吗？ "are you a student?".
+   呢 ne bounces the question back, 你呢？ "and you?".
+3. 是 shì "to be" links two nouns and never changes form, 我是, 你是, 她是.
+   It is negated with 不 bù, which becomes bú before a fourth tone, 不是 bú
+   shì. To say "yes" you repeat the verb (是) or say 对 "right".
+4. Country + 人 rén "person" gives the nationality, 中国人, 意大利人. 意大利
+   Yìdàlì imitates the sound of "Italia"; 中国 means "middle country".
+5. 认识你很高兴 is our "nice to meet you", literally "know you, very glad".
+   很 hěn "very" is often just a link before an adjective and is weaker
+   than its translation.
+notes.es:
+1. 你好 nǐ hǎo es el saludo básico, literalmente "tú bien". Cuando se siguen
+   dos terceros tonos, el primero se pronuncia como un segundo tono: se dice
+   "ní hǎo", pero se escribe nǐ hǎo.
+2. 吗 ma al final de una frase afirmativa la convierte en una pregunta de sí o
+   no, 你是学生 "eres estudiante" se convierte en 你是学生吗？ "¿eres
+   estudiante?". 呢 ne devuelve la pregunta al otro, 你呢？ "¿y tú?".
+3. 是 shì "ser" une dos sustantivos y nunca se conjuga, 我是, 你是, 她是. Se
+   niega con 不 bù, que delante de un cuarto tono se convierte en bú, 不是 bú
+   shì. Para responder "sí" se repite el verbo (是) o se dice 对 "correcto".
+4. País + 人 rén "persona" indica la nacionalidad, 中国人, 意大利人. 意大利
+   Yìdàlì imita el sonido de "Italia" y 西班牙 Xībānyá el de "España" (un
+   español es un 西班牙人); 中国 significa "país del centro".
+5. 认识你很高兴 equivale a nuestro "encantado de conocerte", literalmente
+   "conocer tú, muy contento". 很 hěn "muy" a menudo solo sirve de enlace
+   delante del adjetivo y es más débil que su traducción.
+
+ex1:
+- 我是意大利人。
+  pron: Wǒ shì Yìdàlìrén.
+  it: Sono italiano.
+  en: I'm Italian.
+  es: Soy italiano.
+- 你是北京人吗？
+  pron: Nǐ shì Běijīngrén ma?
+  it: Sei di Pechino?
+  en: Are you from Beijing?
+  es: ¿Eres de Pekín?
+- 王丽也是学生。
+  pron: Wáng Lì yě shì xuésheng.
+  it: Anche Wang Li è una studentessa.
+  en: Wang Li is a student too.
+  es: Wang Li también es estudiante.
+- 我叫马可，你呢？
+  pron: Wǒ jiào Mǎkě, nǐ ne?
+  it: Mi chiamo Marco, e tu?
+  en: My name is Marco, and yours?
+  es: Me llamo Marco, ¿y tú?
+
+ex2:
+- 我[叫]王丽。
+  pron: Wǒ jiào Wáng Lì.
+  it: Mi chiamo Wang Li.
+  en: My name is Wang Li.
+  es: Me llamo Wang Li.
+- 你是中国人[吗]？
+  pron: Nǐ shì Zhōngguórén ma?
+  it: Sei cinese?
+  en: Are you Chinese?
+  es: ¿Eres chino?
+- 我[不]是美国人，我是[意大利人]。
+  pron: Wǒ bú shì Měiguórén, wǒ shì Yìdàlìrén.
+  it: Non sono americano, sono italiano.
+  en: I'm not American, I'm Italian.
+  es: No soy estadounidense, soy italiano.
+- [认识]你很[高兴]！
+  pron: Rènshi nǐ hěn gāoxìng!
+  it: Piacere di conoscerti!
+  en: Nice to meet you!
+  es: ¡Encantado de conocerte!
+
+== 2 A1
+title: 你有中文书吗？
+title.it: Hai libri in cinese?
+title.en: Do you have Chinese books?
+title.es: ¿Tienes libros en chino?
+
+dialogue:
+- 马可，你好吗？
+  pron: Mǎkě, nǐ hǎo ma?
+  it: Marco, come stai (tu bene ma)?
+  en: Marco, how are you (you good ma)?
+  es: Marco, ¿cómo estás (tú bien ma)?
+- 我很好，谢谢。你呢？
+  pron: Wǒ hěn hǎo, xièxie. Nǐ ne?
+  it: Sto bene (io molto bene), grazie. E tu?
+  en: I'm fine (I very good), thanks. And you?
+  es: Estoy bien (yo muy bien), gracias. ¿Y tú?
+- 我也很好。你有中国朋友吗？
+  pron: Wǒ yě hěn hǎo. Nǐ yǒu Zhōngguó péngyou ma?
+  it: Anch'io sto bene. Hai amici cinesi (tu avere Cina amico ma)?
+  en: I'm fine too. Do you have Chinese friends (you have China friend ma)?
+  es: Yo también estoy bien. ¿Tienes amigos chinos (tú tener China amigo ma)?
+- 有！你是我的中国朋友！
+  pron: Yǒu! Nǐ shì wǒ de Zhōngguó péngyou!
+  it: Sì (avere)! Sei tu la mia amica cinese (tu essere io de Cina amico)!
+  en: Yes (have)! You're my Chinese friend (you be I de China friend)!
+  es: ¡Sí (tener)! ¡Tú eres mi amiga china (tú ser yo de China amigo)!
+- 对！你有中文老师吗？
+  pron: Duì! Nǐ yǒu Zhōngwén lǎoshī ma?
+  it: Giusto! Hai un insegnante di cinese (cinese-lingua maestro)?
+  en: Right! Do you have a Chinese teacher (Chinese-language teacher)?
+  es: ¡Cierto! ¿Tienes profesor de chino (chino-lengua profesor)?
+- 有，她是张老师。她是上海人。
+  pron: Yǒu, tā shì Zhāng lǎoshī. Tā shì Shànghǎirén.
+  it: Sì, è la professoressa Zhang (lei essere Zhang maestro). È di Shanghai.
+  en: Yes, it's Ms Zhang (she be Zhang teacher). She's from Shanghai.
+  es: Sí, es la profesora Zhang (ella ser Zhang profesor). Es de Shanghái.
+- 你有中文书吗？
+  pron: Nǐ yǒu Zhōngwén shū ma?
+  it: Hai libri in cinese (tu avere cinese libro ma)?
+  en: Do you have Chinese books (you have Chinese book ma)?
+  es: ¿Tienes libros en chino (tú tener chino libro ma)?
+- 没有。可是张老师有很多中文书！
+  pron: Méiyǒu. Kěshì Zhāng lǎoshī yǒu hěn duō Zhōngwén shū!
+  it: No (non avere). Ma la professoressa Zhang ha tantissimi libri in cinese!
+  en: No (not have). But Ms Zhang has lots of Chinese books!
+  es: No (no tener). ¡Pero la profesora Zhang tiene muchísimos libros en chino!
+
+notes.it:
+1. 你好吗？ è una vera domanda, "stai bene?", mentre 你好 è solo un saluto.
+   Si risponde 我很好 "sto bene".
+2. 有 yǒu significa "avere" e anche "c'è, ci sono". Si nega sempre con
+   没 méi, 没有 "non ho", mai con 不. Per dire sì basta ripetere il verbo,
+   有.
+3. 的 de indica il possesso, come il nostro "di", 我的朋友 "il mio amico"
+   (io-de-amico). Davanti a un nome, 中国 e 中文 non vogliono 的,
+   中国朋友, 中文书.
+4. 他 e 她 si leggono entrambi tā. Il primo ha la componente 亻 "persona",
+   il secondo 女 "donna"; parlando, "lui" e "lei" non si distinguono.
+5. In 谢谢 xièxie e 朋友 péngyou la seconda sillaba ha il tono neutro,
+   breve e leggero, scritto senza segno. 老师 lǎoshī "insegnante" va dopo
+   il cognome, 张老师, come il nostro "professoressa Zhang".
+notes.en:
+1. 你好吗？ is a real question, "are you well?", while 你好 is just a
+   greeting. The answer is 我很好 "I'm fine".
+2. 有 yǒu means "to have" and also "there is, there are". It is always
+   negated with 没 méi, 没有 "I don't have", never with 不. To say yes,
+   simply repeat the verb, 有.
+3. 的 de marks possession, like English 's, 我的朋友 "my friend"
+   (I-de-friend). Before a noun, 中国 and 中文 need no 的, 中国朋友,
+   中文书.
+4. 他 and 她 are both read tā. The first has the component 亻 "person",
+   the second 女 "woman"; in speech "he" and "she" sound the same.
+5. In 谢谢 xièxie and 朋友 péngyou the second syllable has the neutral
+   tone, short and light, written without a mark. 老师 lǎoshī "teacher"
+   follows the surname, 张老师, like "Ms Zhang" or "Professor Zhang".
+notes.es:
+1. 你好吗？ es una pregunta de verdad, "¿estás bien?", mientras que 你好 es
+   solo un saludo. Se responde 我很好 "estoy bien".
+2. 有 yǒu significa "tener" y también "hay". Se niega siempre con 没 méi, 没有
+   "no tengo", nunca con 不. Para decir que sí basta con repetir el verbo, 有.
+3. 的 de indica posesión, como nuestro "de", pero el poseedor va delante,
+   我的朋友 "mi amigo" (yo-de-amigo). Delante de un sustantivo, 中国 y 中文
+   no llevan 的, 中国朋友, 中文书.
+4. 他 y 她 se leen los dos tā. El primero tiene el componente 亻 "persona", el
+   segundo 女 "mujer"; al hablar, "él" y "ella" suenan igual.
+5. En 谢谢 xièxie y 朋友 péngyou la segunda sílaba tiene tono neutro, breve y
+   ligero, y se escribe sin signo. 老师 lǎoshī "profesor" va detrás del
+   apellido, 张老师, al revés que nuestro "profesora Zhang".
+
+ex1:
+- 我有中国朋友。
+  pron: Wǒ yǒu Zhōngguó péngyou.
+  it: Ho degli amici cinesi.
+  en: I have Chinese friends.
+  es: Tengo amigos chinos.
+- 张老师是上海人吗？
+  pron: Zhāng lǎoshī shì Shànghǎirén ma?
+  it: La professoressa Zhang è di Shanghai?
+  en: Is Ms Zhang from Shanghai?
+  es: ¿La profesora Zhang es de Shanghái?
+- 她是我的中文老师。
+  pron: Tā shì wǒ de Zhōngwén lǎoshī.
+  it: È la mia insegnante di cinese.
+  en: She's my Chinese teacher.
+  es: Es mi profesora de chino.
+- 马可没有中文书。
+  pron: Mǎkě méiyǒu Zhōngwén shū.
+  it: Marco non ha libri in cinese.
+  en: Marco has no Chinese books.
+  es: Marco no tiene libros en chino.
+
+ex2:
+- 你[有]中文老师吗？
+  pron: Nǐ yǒu Zhōngwén lǎoshī ma?
+  it: Hai un insegnante di cinese?
+  en: Do you have a Chinese teacher?
+  es: ¿Tienes profesor de chino?
+- 我[没有]中文书。
+  pron: Wǒ méiyǒu Zhōngwén shū.
+  it: Non ho libri in cinese.
+  en: I don't have any Chinese books.
+  es: No tengo libros en chino.
+- 王丽是我[的]朋友。
+  pron: Wáng Lì shì wǒ de péngyou.
+  it: Wang Li è mia amica.
+  en: Wang Li is my friend.
+  es: Wang Li es mi amiga.
+- 我很好，[谢谢]。你[呢]？
+  pron: Wǒ hěn hǎo, xièxie. Nǐ ne?
+  it: Sto bene, grazie. E tu?
+  en: I'm fine, thanks. And you?
+  es: Estoy bien, gracias. ¿Y tú?
+
+== 3 A1
+title: 在茶馆
+title.it: Nella casa del tè
+title.en: At the teahouse
+title.es: En la casa de té
+
+dialogue:
+- 王丽，这是什么？
+  pron: Wáng Lì, zhè shì shénme?
+  it: Wang Li, che cos'è questo (questo essere che cosa)?
+  en: Wang Li, what is this (this be what)?
+  es: Wang Li, ¿qué es esto (esto ser qué)?
+- 这是茶馆。你喜欢喝茶吗？
+  pron: Zhè shì cháguǎn. Nǐ xǐhuan hē chá ma?
+  it: È una casa del tè (tè-locale). Ti piace bere il tè (tu piacere bere tè ma)?
+  en: It's a teahouse (tea-house). Do you like drinking tea (you like drink tea ma)?
+  es: Es una casa de té (té-local). ¿Te gusta beber té (tú gustar beber té ma)?
+- 我很喜欢！在意大利，我喝咖啡。
+  pron: Wǒ hěn xǐhuan! Zài Yìdàlì, wǒ hē kāfēi.
+  it: Mi piace molto! In Italia bevo il caffè.
+  en: I like it a lot! In Italy I drink coffee.
+  es: ¡Me gusta mucho! En Italia bebo café.
+- 这儿也有咖啡，可是我想喝绿茶。你呢？
+  pron: Zhèr yě yǒu kāfēi, kěshì wǒ xiǎng hē lǜchá. Nǐ ne?
+  it: Anche qui c'è il caffè (qui anche avere caffè), ma io vorrei un tè verde. E tu?
+  en: There's coffee here too (here also have coffee), but I'd like green tea. And you?
+  es: Aquí también hay café (aquí también tener café), pero a mí me apetece un té verde. ¿Y a ti?
+- 我也想喝绿茶。一杯绿茶多少钱？
+  pron: Wǒ yě xiǎng hē lǜchá. Yì bēi lǜchá duōshao qián?
+  it: Anch'io vorrei un tè verde. Quanto costa una tazza di tè verde (una tazza tè-verde quanto denaro)?
+  en: I'd like green tea too. How much is a cup of green tea (one cup green-tea how-much money)?
+  es: A mí también me apetece un té verde. ¿Cuánto cuesta una taza de té verde (una taza té-verde cuánto dinero)?
+- 二十块。今天我请你！
+  pron: Èrshí kuài. Jīntiān wǒ qǐng nǐ!
+  it: Venti yuan (venti pezzi). Oggi offro io (oggi io invitare te)!
+  en: Twenty yuan (twenty pieces). Today it's my treat (today I invite you)!
+  es: Veinte yuanes (veinte pedazos). ¡Hoy invito yo (hoy yo invitar tú)!
+- 谢谢你！你是我的好朋友。
+  pron: Xièxie nǐ! Nǐ shì wǒ de hǎo péngyou.
+  it: Grazie! Sei proprio un'amica (tu essere io de buono amico).
+  en: Thank you! You're a good friend (you be I de good friend).
+  es: ¡Gracias! Eres una buena amiga (tú ser yo de buen amigo).
+- 不客气。服务员，两杯绿茶！
+  pron: Bú kèqi. Fúwùyuán, liǎng bēi lǜchá!
+  it: Di niente (non fare-complimenti). Cameriere, due tè verdi (due tazza tè-verde)!
+  en: You're welcome (no ceremony). Waiter, two green teas (two cup green-tea)!
+  es: De nada (no cumplidos). ¡Camarero, dos tés verdes (dos taza té-verde)!
+
+notes.it:
+1. 这是什么？ Nelle domande con 什么 shénme "che cosa" l'ordine delle parole
+   non cambia, la parola interrogativa sta dove starà la risposta,
+   这是什么？ e 这是茶馆。
+2. 喜欢 xǐhuan "piacere, amare" e 想 xiǎng "volere, avere voglia di" si
+   mettono direttamente davanti al verbo, 喜欢喝茶 "mi piace bere il tè",
+   想喝绿茶 "vorrei bere un tè verde".
+3. Tra un numero e un nome serve un classificatore, 一杯绿茶 "una tazza di
+   tè verde". Davanti a un classificatore "due" si dice 两 liǎng, non 二 èr.
+   一 yī diventa yì davanti al primo, secondo e terzo tono, yí davanti al
+   quarto.
+4. 块 kuài, alla lettera "pezzo", è il modo parlato di dire yuan. 我请你
+   "ti invito" significa "offro io"; tra amici cinesi si fa a gara per
+   pagare. 不客气 è la risposta a 谢谢.
+5. 茶 si legge chá in mandarino ma "te" nel dialetto min del Fujian, da cui
+   vengono l'italiano "tè" e l'inglese "tea"; il portoghese "chá" e il
+   russo "čaj" vengono invece da chá. 这儿 zhèr "qui", con la -r finale,
+   è tipico di Pechino.
+notes.en:
+1. 这是什么？ In questions with 什么 shénme "what" the word order does not
+   change, the question word sits where the answer will go,
+   这是什么？ and 这是茶馆。
+2. 喜欢 xǐhuan "to like" and 想 xiǎng "to want, to feel like" go straight
+   before the verb, 喜欢喝茶 "like drinking tea", 想喝绿茶 "would like to
+   drink green tea".
+3. A number and a noun need a measure word between them, 一杯绿茶 "a cup
+   of green tea". Before a measure word "two" is 两 liǎng, not 二 èr.
+   一 yī becomes yì before first, second and third tones, and yí before a
+   fourth tone.
+4. 块 kuài, literally "piece", is the spoken word for yuan. 我请你 "I
+   invite you" means "it's on me"; Chinese friends often compete to pay.
+   不客气 is the reply to 谢谢.
+5. 茶 is chá in Mandarin but "te" in the Min dialect of Fujian, which gave
+   Italian "tè" and English "tea"; Portuguese "chá" and Russian "chai"
+   come from chá instead. 这儿 zhèr "here", with its final -r, is typical
+   of Beijing.
+notes.es:
+1. 这是什么？ En las preguntas con 什么 shénme "qué" el orden de las palabras
+   no cambia, la palabra interrogativa ocupa el lugar de la respuesta,
+   这是什么？ y 这是茶馆。
+2. 喜欢 xǐhuan "gustar" y 想 xiǎng "querer, tener ganas de" se ponen
+   directamente delante del verbo, 喜欢喝茶 "me gusta beber té", 想喝绿茶
+   "me apetece beber un té verde". Con 喜欢 el sujeto es quien siente el
+   gusto, 我喜欢 "yo gusto", al revés que en "me gusta".
+3. Entre un número y un sustantivo hace falta un clasificador, 一杯绿茶 "una
+   taza de té verde". Delante de un clasificador "dos" se dice 两 liǎng, no
+   二 èr. 一 yī se convierte en yì delante del primer, segundo y tercer tono,
+   y en yí delante del cuarto.
+4. 块 kuài, literalmente "pedazo", es la forma hablada de decir yuan. 我请你
+   "te invito" significa "invito yo"; entre amigos chinos se compite por
+   pagar, un poco como en España. 不客气 es la respuesta a 谢谢.
+5. 茶 se lee chá en mandarín pero "te" en el dialecto min de Fujian, de donde
+   vienen el español "té", el italiano "tè" y el inglés "tea"; el portugués
+   "chá" y el ruso "chai" vienen en cambio de chá. 这儿 zhèr "aquí", con la -r
+   final, es típico de Pekín.
+
+ex1:
+- 你想喝咖啡吗？
+  pron: Nǐ xiǎng hē kāfēi ma?
+  it: Vuoi un caffè?
+  en: Would you like a coffee?
+  es: ¿Te apetece un café?
+- 我很喜欢绿茶。
+  pron: Wǒ hěn xǐhuan lǜchá.
+  it: Mi piace molto il tè verde.
+  en: I like green tea a lot.
+  es: Me gusta mucho el té verde.
+- 两杯茶多少钱？
+  pron: Liǎng bēi chá duōshao qián?
+  it: Quanto costano due tè?
+  en: How much are two teas?
+  es: ¿Cuánto cuestan dos tés?
+- 今天张老师请我们。
+  pron: Jīntiān Zhāng lǎoshī qǐng wǒmen.
+  it: Oggi offre la professoressa Zhang.
+  en: Today Ms Zhang is treating us.
+  es: Hoy nos invita la profesora Zhang.
+
+ex2:
+- 这[是][什么]？
+  pron: Zhè shì shénme?
+  it: Che cos'è questo?
+  en: What is this?
+  es: ¿Qué es esto?
+- 我[想]喝一[杯]绿茶。
+  pron: Wǒ xiǎng hē yì bēi lǜchá.
+  it: Vorrei bere una tazza di tè verde.
+  en: I'd like to drink a cup of green tea.
+  es: Me apetece beber una taza de té verde.
+- [今天]我[请]你！
+  pron: Jīntiān wǒ qǐng nǐ!
+  it: Oggi offro io!
+  en: Today it's my treat!
+  es: ¡Hoy invito yo!
+- 马可，你[喜欢]喝咖啡吗？
+  pron: Mǎkě, nǐ xǐhuan hē kāfēi ma?
+  it: Marco, ti piace bere il caffè?
+  en: Marco, do you like drinking coffee?
+  es: Marco, ¿te gusta beber café?
 
 == 4 A1
 title: 我的家

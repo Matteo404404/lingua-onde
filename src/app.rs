@@ -2,7 +2,7 @@ use std::collections::{BTreeMap, HashMap};
 use std::path::PathBuf;
 use std::time::{Duration, Instant};
 
-use chrono::{Datelike, Duration as Days};
+use chrono::{Datelike, Duration as Days, Local, Timelike};
 use eframe::egui::{self, Color32, RichText};
 
 use crate::audio::{Player, Voices, scan_audio_dir};
@@ -10,7 +10,10 @@ use crate::editor::EditorState;
 use crate::model::{Course, LANGS, Level, lang_color, lang_name};
 use crate::session::{ReviewState, Seq, Session};
 use crate::store::{self, Saved, day_key, today};
-use crate::theme::{self, ACCENT, GOOD, INK, LINE, MUTED, NAV, WARN, muted};
+use crate::theme::{
+    self, ACCENT, ACCENT_DARK, ACCENT_SOFT, BAD, GOOD, GOOD_SOFT, INK, LINE, MUTED, NAV, NAV_MUTED, NAV_TEXT, WARN, WARN_SOFT, WAVE, bold,
+    caps, medium, muted,
+};
 
 #[derive(Clone, Copy, PartialEq, Debug)]
 pub enum Screen {
@@ -48,6 +51,9 @@ pub struct App {
     tick: Instant,
     new_course_lang: String,
 }
+
+/// The widest a screen's text column grows; wider windows centre it.
+const PAGE: f32 = 1080.0;
 
 impl App {
     pub fn new(ctx: &egui::Context, screenshot: Option<PathBuf>, open: Option<String>) -> App {
@@ -225,96 +231,72 @@ impl App {
 
     // ----------------------------------------------------------------- ui
 
-    fn nav(&mut self, ui: &mut egui::Ui) {
-        ui.add_space(14.0);
+    fn nav(&mut self, ui: &mut egui::Ui, compact: bool) {
         ui.horizontal(|ui| {
-            ui.add_space(6.0);
-            ui.label(RichText::new("〰").size(26.0).color(Color32::from_rgb(120, 200, 220)));
-            ui.vertical(|ui| {
-                ui.label(RichText::new("Lingua Onde").size(21.0).strong().color(Color32::WHITE));
-                ui.label(
-                    RichText::new("learn by assimilation")
-                        .size(12.0)
-                        .color(Color32::from_rgb(160, 175, 200)),
-                );
-            });
+            if compact {
+                ui.add_space((ui.available_width() - 36.0) / 2.0 - ui.spacing().item_spacing.x);
+            }
+            theme::logo(ui, 36.0);
+            if !compact {
+                ui.vertical(|ui| {
+                    ui.spacing_mut().item_spacing.y = 0.0;
+                    ui.label(bold("Lingua Onde").size(18.0).color(Color32::WHITE));
+                    ui.label(RichText::new("learn by assimilation").size(12.0).color(NAV_MUTED));
+                });
+            }
         });
-        ui.add_space(18.0);
+        ui.add_space(20.0);
 
         let base = self.base();
         let ci = self.active();
-        if let Some(c) = self.courses.get(ci) {
+        if let (false, Some(c)) = (compact, self.courses.get(ci)) {
             egui::Frame::new()
-                .fill(Color32::from_rgb(40, 55, 82))
-                .corner_radius(10)
-                .inner_margin(10)
+                .fill(Color32::from_rgb(33, 47, 72))
+                .corner_radius(12)
+                .inner_margin(12)
                 .show(ui, |ui| {
                     ui.set_width(ui.available_width());
-                    ui.label(RichText::new("STUDYING").size(11.0).color(Color32::from_rgb(150, 165, 190)));
+                    ui.spacing_mut().item_spacing.y = 6.0;
+                    ui.label(caps("Studying").color(NAV_MUTED));
                     ui.horizontal(|ui| {
-                        theme::dot(ui, lang_color(&c.lang), 6.0);
-                        ui.label(RichText::new(lang_name(&c.lang, &base)).strong().color(Color32::WHITE));
+                        theme::dot(ui, lang_color(&c.lang), 5.0);
+                        ui.label(bold(lang_name(&c.lang, &base)).size(16.0).color(Color32::WHITE));
                     });
                     let done = self.done_count(ci);
-                    ui.label(
-                        RichText::new(format!("{done} / {} lessons", c.lessons.len()))
-                            .size(12.5)
-                            .color(Color32::from_rgb(190, 200, 215)),
-                    );
-                    theme::bar(
+                    theme::bar_on(
                         ui,
                         done as f32 / c.lessons.len().max(1) as f32,
                         ui.available_width(),
-                        Color32::from_rgb(120, 200, 220),
+                        WAVE,
+                        Color32::from_rgb(52, 68, 96),
+                    );
+                    ui.label(
+                        RichText::new(format!("{done} of {}", plural(c.lessons.len(), "lesson")))
+                            .size(12.5)
+                            .color(NAV_TEXT),
                     );
                     let today = self.saved.days.get(&day_key(today())).map(|d| d.seconds).unwrap_or(0.0);
                     ui.label(
-                        RichText::new(format!(
-                            "🔥 {} day streak · {} min today",
-                            self.saved.streak(),
-                            (today / 60.0).floor()
-                        ))
-                        .size(12.5)
-                        .color(Color32::from_rgb(190, 200, 215)),
+                        RichText::new(format!("🔥 {} · {} min today", days(self.saved.streak()), (today / 60.0).floor()))
+                            .size(12.5)
+                            .color(NAV_TEXT),
                     );
                 });
+            ui.add_space(14.0);
         }
-        ui.add_space(14.0);
 
         let due = self.saved.cards_due() + self.wave2_due(ci).len();
         let items = [
-            (Screen::Home, "🏠  Progress", String::new()),
-            (Screen::Study, "▶  Today's lesson", String::new()),
-            (Screen::Review, "⟳  Review", if due > 0 { due.to_string() } else { String::new() }),
-            (Screen::Courses, "📚  Courses", String::new()),
-            (Screen::Editor, "✏  My lessons", String::new()),
-            (Screen::Settings, "⚙  Settings & voices", String::new()),
+            (Screen::Home, "🏠", "Home", 0),
+            (Screen::Study, "▶", "Today's lesson", 0),
+            (Screen::Review, "⟳", "Review", due),
+            (Screen::Courses, "📚", "Courses", 0),
+            (Screen::Editor, "✏", "My lessons", 0),
+            (Screen::Settings, "⚙", "Settings & voices", 0),
         ];
-        for (screen, label, count) in items {
-            let selected = self.screen == screen;
-            let text = RichText::new(label).size(15.5).color(if selected {
-                Color32::WHITE
-            } else {
-                Color32::from_rgb(200, 210, 225)
-            });
-            let btn = egui::Button::new(text)
-                .fill(if selected { ACCENT } else { Color32::TRANSPARENT })
-                .stroke(egui::Stroke::NONE)
-                .min_size(egui::vec2(ui.available_width(), 38.0));
-            let resp = ui.add(btn);
-            if !count.is_empty() {
-                let r = resp.rect;
-                let c = egui::pos2(r.right() - 20.0, r.center().y);
-                ui.painter().circle_filled(c, 10.0, WARN);
-                ui.painter().text(
-                    c,
-                    egui::Align2::CENTER_CENTER,
-                    &count,
-                    egui::FontId::proportional(12.0),
-                    Color32::WHITE,
-                );
-            }
-            if resp.clicked() {
+        ui.spacing_mut().item_spacing.y = 4.0;
+        for (screen, icon, label, count) in items {
+            if nav_item(ui, icon, label, self.screen == screen, count, compact).clicked() {
                 self.go(screen);
             }
         }
@@ -346,186 +328,324 @@ impl App {
     }
 
     fn home(&mut self, ui: &mut egui::Ui) {
-        let base = self.base();
         let ci = self.active();
         let t = today();
         let today_log = self.saved.days.get(&day_key(t)).cloned().unwrap_or_default();
         let total_done: usize = (0..self.courses.len()).map(|i| self.done_count(i)).sum();
         let due = self.saved.cards_due();
+        let wide = ui.available_width() >= 760.0;
 
-        ui.heading("Your progress");
-        ui.label(muted(
-            "A little every day: listen, repeat aloud, understand. The rest comes by itself.",
-        ));
-        ui.add_space(8.0);
+        let hello = match Local::now().hour() {
+            5..=11 => "Good morning",
+            12..=17 => "Good afternoon",
+            _ => "Good evening",
+        };
+        ui.add_space(4.0);
+        ui.horizontal(|ui| {
+            ui.vertical(|ui| {
+                ui.spacing_mut().item_spacing.y = 2.0;
+                ui.label(bold(hello).size(28.0));
+                ui.label(muted(format!("{} · listen, repeat aloud, understand", t.format("%A %-d %B"))).size(15.0));
+            });
+            ui.with_layout(egui::Layout::right_to_left(egui::Align::Min), |ui| {
+                let streak = self.saved.streak();
+                if streak > 0 {
+                    theme::pill(ui, &format!("🔥 {streak}-day streak"), WARN, WARN_SOFT);
+                }
+            });
+        });
+        ui.add_space(12.0);
 
-        ui.columns(4, |cols| {
-            let stat = |ui: &mut egui::Ui, icon: &str, big: String, small: &str, frac: Option<f32>| {
-                // Columns are justified, which would stretch wrapped text.
-                ui.with_layout(egui::Layout::top_down(egui::Align::Min), |ui| {
-                    theme::card().show(ui, |ui| {
-                        ui.set_width(ui.available_width());
-                        ui.label(RichText::new(icon).size(20.0));
-                        ui.label(RichText::new(big).size(26.0).strong());
-                        ui.label(muted(small));
-                        if let Some(f) = frac {
-                            theme::bar(ui, f, ui.available_width(), ACCENT);
-                        }
-                    })
-                });
-            };
-            let minutes = (today_log.seconds / 60.0).floor() as u32;
-            let goal = self.saved.daily_goal_min.max(1);
-            stat(&mut cols[0], "🔥", format!("{} days", self.saved.streak()), "study streak", None);
-            stat(
-                &mut cols[1],
+        if let Some(c) = self.courses.get(ci).cloned() {
+            self.hero(ui, ci, &c, today_log.lessons > 0, due);
+        }
+        ui.add_space(12.0);
+
+        let minutes = (today_log.seconds / 60.0).floor() as u32;
+        let goal = self.saved.daily_goal_min.max(1);
+        let stats = [
+            ("🔥", WARN, WARN_SOFT, days(self.saved.streak()), "study streak", None),
+            (
                 "⏱",
+                ACCENT,
+                ACCENT_SOFT,
                 format!("{minutes} / {goal} min"),
                 "studied today",
                 Some(minutes as f32 / goal as f32),
-            );
-            stat(&mut cols[2], "⟳", due.to_string(), "sentences to review today", None);
-            stat(&mut cols[3], "✔", total_done.to_string(), "lessons completed", None);
-        });
-        ui.add_space(6.0);
-
-        // Continue card.
-        if let Some(c) = self.courses.get(ci).cloned() {
-            theme::card().show(ui, |ui| {
-                ui.set_width(ui.available_width());
-                ui.horizontal(|ui| {
-                    theme::dot(ui, lang_color(&c.lang), 7.0);
-                    ui.label(RichText::new(c.name_in(&base)).size(18.0).strong());
-                });
-                match self.next_lesson(ci) {
-                    Some(li) => {
-                        let l = &c.lessons[li];
-                        ui.horizontal(|ui| {
-                            theme::badge(ui, l.level.name(), l.level.color());
-                            ui.label(RichText::new(format!("Lesson {} · {}", l.number, l.title)).size(17.0));
-                            ui.label(muted(format!("— {}", l.title_in(&base))));
-                        });
-                        if today_log.lessons > 0 {
-                            ui.label(RichText::new("✔ You already did a lesson today. One a day is the rhythm of the method: tomorrow's will feel easier. You can still go on if you like.").color(GOOD));
-                        }
-                        if let Some(w) = self.wave2_for(ci, li) {
-                            ui.label(RichText::new(format!("➕ Second wave today: lesson {} (active review)", c.lessons[w].number)).color(WARN));
-                        }
-                        ui.horizontal(|ui| {
-                            let resumable = self.saved.progress(&c.lesson_key(l.number)).is_some_and(|p| !p.steps_done.is_empty());
-                            if ui.add(theme::big_primary(if resumable { "▶  Continue the lesson" } else { "▶  Start today's lesson" })).clicked() {
-                                self.start_session(ci, li);
-                            }
-                            if due > 0 && ui.add(egui::Button::new(format!("⟳  Review {due} sentences")).min_size(egui::vec2(0.0, 44.0))).clicked() {
-                                self.go(Screen::Review);
-                            }
-                        });
-                    }
-                    None => {
-                        ui.label("🎉 You completed every lesson of this course. Choose a new one in Courses, or add your own lessons.");
-                    }
-                }
-            });
-
-            ui.add_space(6.0);
-            ui.label(RichText::new("Levels in this course").strong());
-            ui.columns(6, |cols| {
-                for (i, lvl) in Level::ALL.into_iter().enumerate() {
-                    let keys: Vec<String> = c
-                        .lessons
-                        .iter()
-                        .filter(|l| l.level == lvl)
-                        .map(|l| c.lesson_key(l.number))
-                        .collect();
-                    let done = keys.iter().filter(|k| self.saved.is_done(k)).count();
-                    let col = &mut cols[i];
+            ),
+            (
+                "⟳",
+                Color32::from_rgb(120, 96, 200),
+                Color32::from_rgb(236, 232, 250),
+                due.to_string(),
+                "sentences to review",
+                None,
+            ),
+            ("✔", GOOD, GOOD_SOFT, total_done.to_string(), "lessons completed", None),
+        ];
+        let per_row = if wide { 4 } else { 2 };
+        for row in stats.chunks(per_row) {
+            ui.columns(per_row, |cols| {
+                for (col, (icon, fg, bg, value, label, frac)) in cols.iter_mut().zip(row) {
+                    // Columns are justified, which would stretch wrapped text.
                     col.with_layout(egui::Layout::top_down(egui::Align::Min), |ui| {
-                        theme::card().inner_margin(10).show(ui, |ui| {
+                        theme::card().inner_margin(14).show(ui, |ui| {
                             ui.set_width(ui.available_width());
+                            ui.set_min_height(48.0);
                             ui.horizontal(|ui| {
-                                theme::badge(ui, lvl.name(), lvl.color());
-                                if !keys.is_empty() && done == keys.len() {
-                                    ui.label(RichText::new("✔").color(GOOD));
-                                }
+                                theme::icon_circle(ui, icon, *fg, *bg, 42.0);
+                                ui.vertical(|ui| {
+                                    ui.spacing_mut().item_spacing.y = 2.0;
+                                    ui.label(bold(value.as_str()).size(21.0));
+                                    ui.label(muted(*label).size(13.0));
+                                    if let Some(f) = frac {
+                                        theme::bar(ui, *f, ui.available_width().min(140.0), ACCENT);
+                                    }
+                                });
                             });
-                            ui.label(muted(lvl.describe()).size(12.5));
-                            ui.label(RichText::new(format!("{done} / {}", keys.len())).strong());
-                            if c.builtin {
-                                let (first, last) = lvl.plan();
-                                ui.label(muted(format!("lessons {first}–{last}")).size(11.5));
-                            }
-                            theme::bar(
-                                ui,
-                                if keys.is_empty() { 0.0 } else { done as f32 / keys.len() as f32 },
-                                ui.available_width(),
-                                lvl.color(),
-                            );
                         })
                     });
                 }
             });
         }
-
         ui.add_space(6.0);
-        let calendar = |app: &mut App, ui: &mut egui::Ui| {
-            theme::card().show(ui, |ui| {
-                ui.set_width(ui.available_width());
-                ui.label(RichText::new("Study calendar · last 18 weeks").strong());
-                app.heatmap(ui);
-            });
-        };
-        let languages = |app: &mut App, ui: &mut egui::Ui| {
-            theme::card().show(ui, |ui| {
-                ui.set_width(ui.available_width());
-                ui.label(RichText::new("Your languages").strong());
-                let bar_w = (ui.available_width() - 260.0).clamp(50.0, 200.0);
-                let mut choose = None;
-                for (i, c) in app.courses.iter().enumerate() {
-                    let done = c.lessons.iter().filter(|l| app.saved.is_done(&c.lesson_key(l.number))).count();
-                    ui.horizontal(|ui| {
-                        theme::dot(ui, lang_color(&c.lang), 5.0);
-                        let name = format!("{}{}", lang_name(&c.lang, &base), if c.builtin { "" } else { " · mine" });
-                        let label = ui
-                            .allocate_ui_with_layout(egui::vec2(110.0, 20.0), egui::Layout::left_to_right(egui::Align::Center), |ui| {
-                                ui.set_min_width(110.0);
-                                ui.add(egui::Label::new(name).truncate().sense(egui::Sense::click()))
-                            })
-                            .inner;
-                        theme::bar(ui, done as f32 / c.lessons.len().max(1) as f32, bar_w, lang_color(&c.lang));
-                        ui.label(muted(format!("{done}/{}", c.lessons.len())));
-                        if i == ci {
-                            ui.label(RichText::new("studying").size(12.0).color(ACCENT));
-                        } else if label.clicked() || ui.small_button("study").clicked() {
-                            choose = Some(i);
-                        }
-                    });
-                }
-                if let Some(i) = choose {
-                    app.saved.active_course = app.courses[i].id.clone();
-                    app.mark_dirty();
-                }
-            });
-        };
-        if ui.available_width() >= 980.0 {
+
+        if let Some(c) = self.courses.get(ci).cloned() {
+            self.path_card(ui, ci, &c, wide);
+        }
+        ui.add_space(6.0);
+
+        if wide {
             ui.columns(2, |cols| {
-                calendar(self, &mut cols[0]);
-                languages(self, &mut cols[1]);
+                cols[0].with_layout(egui::Layout::top_down(egui::Align::Min), |ui| self.calendar_card(ui));
+                cols[1].with_layout(egui::Layout::top_down(egui::Align::Min), |ui| self.languages_card(ui));
             });
         } else {
-            calendar(self, ui);
-            languages(self, ui);
+            self.calendar_card(ui);
+            self.languages_card(ui);
         }
     }
 
-    fn heatmap(&self, ui: &mut egui::Ui) {
-        let weeks = 18;
+    /// The "continue" card: today's lesson, big, with its buttons.
+    fn hero(&mut self, ui: &mut egui::Ui, ci: usize, c: &Course, studied_today: bool, due: usize) {
+        let base = self.base();
+        let light = Color32::from_rgb(196, 226, 233);
+        egui::Frame::new()
+            .fill(ACCENT_DARK)
+            .corner_radius(18)
+            .inner_margin(egui::Margin::symmetric(26, 22))
+            .shadow(egui::Shadow {
+                offset: [0, 6],
+                blur: 18,
+                spread: 0,
+                color: Color32::from_black_alpha(30),
+            })
+            .show(ui, |ui| {
+                ui.set_width(ui.available_width());
+                let decor = ui.painter().add(egui::Shape::Noop);
+                ui.label(caps(&format!("Continue · {}", lang_name(&c.lang, &base))).color(WAVE));
+                ui.add_space(4.0);
+                match self.next_lesson(ci) {
+                    Some(li) => {
+                        let l = &c.lessons[li];
+                        ui.horizontal(|ui| {
+                            theme::badge(ui, l.level.name(), l.level.color());
+                            ui.label(medium(format!("Lesson {} of {}", l.number, c.lessons.len())).color(light));
+                        });
+                        ui.label(bold(&l.title).size(30.0).color(Color32::WHITE));
+                        ui.label(RichText::new(l.title_in(&base)).size(16.0).color(light));
+                        ui.add_space(6.0);
+                        if studied_today {
+                            ui.label(
+                                RichText::new(
+                                    "✔ You already did a lesson today. One a day is the rhythm of the method; you can still go on.",
+                                )
+                                .size(14.0)
+                                .color(light),
+                            );
+                        }
+                        if let Some(w) = self.wave2_for(ci, li) {
+                            ui.label(
+                                RichText::new(format!("➕ Second wave today: lesson {} (active review)", c.lessons[w].number))
+                                    .size(14.0)
+                                    .color(Color32::from_rgb(255, 214, 140)),
+                            );
+                        }
+                        ui.add_space(8.0);
+                        ui.horizontal(|ui| {
+                            let resumable = self
+                                .saved
+                                .progress(&c.lesson_key(l.number))
+                                .is_some_and(|p| !p.steps_done.is_empty());
+                            let start = egui::Button::new(
+                                medium(if resumable {
+                                    "▶  Continue the lesson"
+                                } else {
+                                    "▶  Start today's lesson"
+                                })
+                                .size(16.5)
+                                .color(ACCENT_DARK),
+                            )
+                            .fill(Color32::WHITE)
+                            .stroke(egui::Stroke::NONE)
+                            .corner_radius(12)
+                            .min_size(egui::vec2(220.0, 46.0));
+                            if ui.add(start).clicked() {
+                                self.start_session(ci, li);
+                            }
+                            if due > 0 {
+                                let review = egui::Button::new(medium(format!("⟳  Review {due} sentences")).color(Color32::WHITE))
+                                    .fill(Color32::from_white_alpha(20))
+                                    .stroke(egui::Stroke::new(1.0, Color32::from_white_alpha(70)))
+                                    .corner_radius(12)
+                                    .min_size(egui::vec2(0.0, 46.0));
+                                if ui.add(review).clicked() {
+                                    self.go(Screen::Review);
+                                }
+                            }
+                        });
+                    }
+                    None => {
+                        ui.label(bold("🎉 Course complete").size(26.0).color(Color32::WHITE));
+                        ui.label(
+                            RichText::new(
+                                "You finished every lesson of this course. Choose a new one in Courses, or add your own lessons.",
+                            )
+                            .color(light),
+                        );
+                    }
+                }
+                // Waves on the right half, behind the text.
+                let r = ui.min_rect();
+                if r.width() > 520.0 {
+                    let area = egui::Rect::from_min_max(egui::pos2(r.right() - r.width() * 0.38, r.top()), r.max);
+                    let shapes = [(0.0, 26), (1.3, 18), (2.6, 12)]
+                        .into_iter()
+                        .flat_map(|(phase, alpha)| wave_shapes(area, phase, Color32::from_white_alpha(alpha)))
+                        .collect();
+                    ui.painter().set(decor, egui::Shape::Vec(shapes));
+                }
+            });
+    }
+
+    /// Progress through the six levels of the course being studied.
+    fn path_card(&mut self, ui: &mut egui::Ui, ci: usize, c: &Course, wide: bool) {
+        let base = self.base();
+        let current = self.next_lesson(ci).map(|li| c.lessons[li].level);
+        theme::card().show(ui, |ui| {
+            ui.set_width(ui.available_width());
+            ui.horizontal(|ui| {
+                ui.label(bold("Your path").size(18.0));
+                ui.with_layout(egui::Layout::right_to_left(egui::Align::Center), |ui| {
+                    ui.label(muted(format!(
+                        "{} · {} of {} lessons",
+                        lang_name(&c.lang, &base),
+                        self.done_count(ci),
+                        c.lessons.len()
+                    )));
+                });
+            });
+            ui.add_space(4.0);
+            let per_row = if wide { 6 } else { 3 };
+            for row in Level::ALL.chunks(per_row) {
+                ui.columns(per_row, |cols| {
+                    for (col, &lvl) in cols.iter_mut().zip(row) {
+                        let keys: Vec<String> = c
+                            .lessons
+                            .iter()
+                            .filter(|l| l.level == lvl)
+                            .map(|l| c.lesson_key(l.number))
+                            .collect();
+                        let done = keys.iter().filter(|k| self.saved.is_done(k)).count();
+                        let here = current == Some(lvl);
+                        col.with_layout(egui::Layout::top_down(egui::Align::Min), |ui| {
+                            egui::Frame::new()
+                                .fill(if here { theme::soft(lvl.color()) } else { Color32::TRANSPARENT })
+                                .stroke(egui::Stroke::new(1.0, if here { lvl.color() } else { LINE }))
+                                .corner_radius(12)
+                                .inner_margin(10)
+                                .show(ui, |ui| {
+                                    ui.set_width(ui.available_width());
+                                    ui.spacing_mut().item_spacing.y = 4.0;
+                                    ui.horizontal(|ui| {
+                                        theme::badge(ui, lvl.name(), lvl.color());
+                                        if !keys.is_empty() && done == keys.len() {
+                                            ui.label(RichText::new("✔").color(GOOD));
+                                        }
+                                    });
+                                    ui.add(egui::Label::new(muted(lvl.describe()).size(12.5)).truncate());
+                                    ui.label(bold(format!("{done} / {}", keys.len())).size(16.0));
+                                    let frac = if keys.is_empty() { 0.0 } else { done as f32 / keys.len() as f32 };
+                                    theme::bar(ui, frac, ui.available_width(), lvl.color());
+                                });
+                        });
+                    }
+                });
+            }
+        });
+    }
+
+    fn calendar_card(&mut self, ui: &mut egui::Ui) {
+        theme::card().show(ui, |ui| {
+            ui.set_width(ui.available_width());
+            let weeks = (((ui.available_width() - 22.0) / 17.0).floor() as usize).clamp(8, 30);
+            ui.horizontal(|ui| {
+                ui.label(bold("Study calendar").size(18.0));
+                ui.with_layout(egui::Layout::right_to_left(egui::Align::Center), |ui| {
+                    ui.label(muted(format!("last {weeks} weeks")).size(13.0));
+                });
+            });
+            self.heatmap(ui, weeks);
+        });
+    }
+
+    fn languages_card(&mut self, ui: &mut egui::Ui) {
+        let base = self.base();
+        let ci = self.active();
+        theme::card().show(ui, |ui| {
+            ui.set_width(ui.available_width());
+            ui.label(bold("Your languages").size(18.0));
+            ui.add_space(2.0);
+            let bar_w = (ui.available_width() - 250.0).clamp(40.0, 220.0);
+            let mut choose = None;
+            for (i, c) in self.courses.iter().enumerate() {
+                let done = c.lessons.iter().filter(|l| self.saved.is_done(&c.lesson_key(l.number))).count();
+                ui.horizontal(|ui| {
+                    theme::dot(ui, lang_color(&c.lang), 5.0);
+                    let name = format!("{}{}", lang_name(&c.lang, &base), if c.builtin { "" } else { " · mine" });
+                    let label = ui
+                        .allocate_ui_with_layout(egui::vec2(110.0, 22.0), egui::Layout::left_to_right(egui::Align::Center), |ui| {
+                            ui.set_min_width(110.0);
+                            ui.add(egui::Label::new(medium(name)).truncate().sense(egui::Sense::click()))
+                        })
+                        .inner;
+                    theme::bar(ui, done as f32 / c.lessons.len().max(1) as f32, bar_w, lang_color(&c.lang));
+                    ui.label(muted(format!("{done}/{}", c.lessons.len())).size(13.0));
+                    ui.with_layout(egui::Layout::right_to_left(egui::Align::Center), |ui| {
+                        if i == ci {
+                            theme::pill(ui, "studying", ACCENT, ACCENT_SOFT);
+                        } else if ui.add(theme::ghost("Study")).clicked() || label.clicked() {
+                            choose = Some(i);
+                        }
+                    });
+                });
+            }
+            if let Some(i) = choose {
+                self.saved.active_course = self.courses[i].id.clone();
+                self.session = None;
+                self.mark_dirty();
+            }
+        });
+    }
+
+    fn heatmap(&self, ui: &mut egui::Ui, weeks: usize) {
         let gap = 3.0;
-        let cell = ((ui.available_width() - 20.0) / weeks as f32 - gap).clamp(8.0, 16.0);
+        let cell = ((ui.available_width() - 22.0) / weeks as f32 - gap).clamp(9.0, 18.0);
         let t = today();
         // The last column is the current week, Monday first.
         let start = t - Days::days(t.weekday().num_days_from_monday() as i64 + ((weeks - 1) * 7) as i64);
         let (rect, _) = ui.allocate_exact_size(
-            egui::vec2(weeks as f32 * (cell + gap) + 18.0, 7.0 * (cell + gap) + 4.0),
+            egui::vec2(weeks as f32 * (cell + gap) + 22.0, 7.0 * (cell + gap) + 4.0),
             egui::Sense::hover(),
         );
         let p = ui.painter();
@@ -534,10 +654,11 @@ impl App {
                 egui::pos2(rect.left() + 6.0, rect.top() + i as f32 * (cell + gap) + cell / 2.0),
                 egui::Align2::CENTER_CENTER,
                 *d,
-                egui::FontId::proportional(10.0),
+                egui::FontId::proportional(10.5),
                 MUTED,
             );
         }
+        let mut studied = 0;
         for w in 0..weeks {
             for d in 0..7 {
                 let day = start + Days::days((w * 7 + d) as i64);
@@ -550,14 +671,17 @@ impl App {
                     .get(&day_key(day))
                     .map(|l| l.seconds / 60.0 + l.lessons as f64 * 5.0)
                     .unwrap_or(0.0);
-                let color = match mins {
-                    m if m <= 0.0 => Color32::from_rgb(234, 230, 221),
-                    m if m < 5.0 => Color32::from_rgb(190, 222, 230),
-                    m if m < 15.0 => Color32::from_rgb(120, 186, 205),
-                    m if m < 30.0 => Color32::from_rgb(60, 145, 172),
-                    _ => Color32::from_rgb(25, 95, 122),
-                };
-                let min = egui::pos2(rect.left() + 18.0 + w as f32 * (cell + gap), rect.top() + d as f32 * (cell + gap));
+                if mins > 0.0 {
+                    studied += 1;
+                }
+                let color = HEAT[match mins {
+                    m if m <= 0.0 => 0,
+                    m if m < 5.0 => 1,
+                    m if m < 15.0 => 2,
+                    m if m < 30.0 => 3,
+                    _ => 4,
+                }];
+                let min = egui::pos2(rect.left() + 22.0 + w as f32 * (cell + gap), rect.top() + d as f32 * (cell + gap));
                 let r = egui::Rect::from_min_size(min, egui::vec2(cell, cell));
                 p.rect_filled(r, 3, color);
                 if day == t {
@@ -565,79 +689,137 @@ impl App {
                 }
             }
         }
-        ui.label(muted("Darker = more minutes that day.").size(12.0));
+        ui.horizontal(|ui| {
+            ui.label(muted(format!("{studied} days with study")).size(12.5));
+            ui.with_layout(egui::Layout::right_to_left(egui::Align::Center), |ui| {
+                ui.spacing_mut().item_spacing.x = 3.0;
+                ui.label(muted("More").size(12.0));
+                for c in HEAT.iter().rev() {
+                    let (r, _) = ui.allocate_exact_size(egui::vec2(11.0, 11.0), egui::Sense::hover());
+                    ui.painter().rect_filled(r, 2, *c);
+                }
+                ui.label(muted("Less").size(12.0));
+            });
+        });
     }
 
     fn courses_screen(&mut self, ui: &mut egui::Ui) {
         let base = self.base();
-        ui.heading("Courses");
-        ui.label(muted("Each language goes from A1 (first words) to C2 (mastery). Pick the one to study, link your own recordings, or start a course for your own material."));
-        ui.add_space(6.0);
+        theme::page_title(
+            ui,
+            "Courses",
+            "Each language runs from A1 (first words) to C2 (mastery). Pick one to study, link your own recordings, or start a course for your own material.",
+        );
 
         let active = self.active();
         let mut choose = None;
         let mut link = None;
         let mut copy = None;
         let mut from_rec = None;
+        let gap = 12.0;
         let width = ui.available_width();
-        let per_row = ((width / 300.0).floor() as usize).clamp(1, 4);
-        let card_w = (width - (per_row as f32 - 1.0) * 10.0) / per_row as f32 - 34.0;
+        let per_row = ((width / 310.0).floor() as usize).clamp(1, 3);
+        // Card content width: the column minus margins (18 each side) and stroke.
+        let card_w = (width - (per_row as f32 - 1.0) * gap) / per_row as f32 - 38.0;
         for row in (0..self.courses.len()).collect::<Vec<_>>().chunks(per_row) {
             ui.horizontal_top(|ui| {
+                ui.spacing_mut().item_spacing.x = gap;
                 for &i in row {
                     let c = &self.courses[i];
                     let done = c.lessons.iter().filter(|l| self.saved.is_done(&c.lesson_key(l.number))).count();
-                    let levels: Vec<&str> = Level::ALL.iter().filter(|l| c.lessons.iter().any(|x| x.level == **l)).map(|l| l.name()).collect();
+                    let levels: Vec<&str> =
+                        Level::ALL.iter().filter(|l| c.lessons.iter().any(|x| x.level == **l)).map(|l| l.name()).collect();
+                    let color = lang_color(&c.lang);
                     let stroke = if i == active { egui::Stroke::new(2.0, ACCENT) } else { egui::Stroke::new(1.0, LINE) };
-                    theme::card().stroke(stroke).show(ui, |ui| ui.vertical(|ui| {
-                        ui.set_width(card_w);
-                        ui.horizontal(|ui| {
-                            theme::dot(ui, lang_color(&c.lang), 8.0);
-                            ui.label(RichText::new(crate::model::lang(&c.lang).map(|l| l.native).unwrap_or(&c.lang)).size(19.0).strong());
-                            ui.label(muted(lang_name(&c.lang, &base)));
-                        });
-                        ui.add(egui::Label::new(RichText::new(c.name_in(&base)).strong()).truncate());
-                        ui.label(muted(format!(
-                            "{} lessons · {} · {}",
-                            c.lessons.len(),
-                            if levels.is_empty() { "no lessons yet".to_string() } else { format!("{}–{}", levels[0], levels[levels.len() - 1]) },
-                            if c.builtin { "built-in" } else { "your material" }
-                        )));
-                        if c.builtin {
-                            ui.label(
-                                muted(format!(
-                                    "written so far: {} of the planned {} (100 to B2, 100 to C1, then C2)",
-                                    c.lessons.len(),
-                                    Level::C2.plan().1
-                                ))
-                                .size(12.5),
+                    theme::card().stroke(stroke).show(ui, |ui| {
+                        ui.vertical(|ui| {
+                            ui.set_width(card_w);
+                            ui.set_min_height(150.0);
+                            ui.horizontal(|ui| {
+                                let (r, _) = ui.allocate_exact_size(egui::vec2(42.0, 42.0), egui::Sense::hover());
+                                ui.painter().circle_filled(r.center(), 21.0, color);
+                                ui.painter().text(
+                                    r.center(),
+                                    egui::Align2::CENTER_CENTER,
+                                    c.lang.to_uppercase(),
+                                    egui::FontId::new(14.0, theme::bold_family()),
+                                    Color32::WHITE,
+                                );
+                                ui.vertical(|ui| {
+                                    ui.spacing_mut().item_spacing.y = 0.0;
+                                    let native = crate::model::lang(&c.lang).map(|l| l.native).unwrap_or(&c.lang);
+                                    ui.label(bold(native).size(18.0));
+                                    ui.label(muted(if c.builtin {
+                                        lang_name(&c.lang, &base)
+                                    } else {
+                                        format!("{} · your material", lang_name(&c.lang, &base))
+                                    }));
+                                });
+                                if i == active {
+                                    ui.with_layout(egui::Layout::right_to_left(egui::Align::Min), |ui| {
+                                        theme::pill(ui, "studying", ACCENT, ACCENT_SOFT);
+                                    });
+                                }
+                            });
+                            ui.add_space(2.0);
+                            ui.add(egui::Label::new(muted(c.name_in(&base)).size(13.0)).truncate());
+                            theme::bar(ui, done as f32 / c.lessons.len().max(1) as f32, card_w, color);
+                            ui.horizontal(|ui| {
+                                ui.label(medium(format!("{done} of {}", plural(c.lessons.len(), "lesson"))).size(13.5));
+                                ui.with_layout(egui::Layout::right_to_left(egui::Align::Center), |ui| {
+                                    let span = match (levels.first(), levels.last()) {
+                                        (Some(a), Some(b)) if a == b => a.to_string(),
+                                        (Some(a), Some(b)) => format!("{a}–{b}"),
+                                        _ => "no lessons yet".into(),
+                                    };
+                                    ui.label(muted(span).size(13.0));
+                                });
+                            });
+                            let rec = self.saved.audio_dirs.get(&c.id);
+                            ui.add(
+                                egui::Label::new(
+                                    muted(match rec {
+                                        Some(d) => format!("🎧 {}", d.rsplit(['/', '\\']).next().unwrap_or(d)),
+                                        None => "🎧 read by the voice".into(),
+                                    })
+                                    .size(12.5),
+                                )
+                                .truncate(),
                             );
-                        }
-                        theme::bar(ui, done as f32 / c.lessons.len().max(1) as f32, card_w, lang_color(&c.lang));
-                        let rec = self.saved.audio_dirs.get(&c.id);
-                        ui.label(muted(match rec {
-                            Some(d) => format!("🎧 recordings: {}", d.rsplit(['/', '\\']).next().unwrap_or(d)),
-                            None => "🎧 no recordings linked (the voice reads the text)".into(),
-                        }).size(12.5));
-                        ui.horizontal_wrapped(|ui| {
-                            if i == active {
-                                ui.label(RichText::new("✔ studying").color(ACCENT).strong());
-                            } else if ui.add(theme::primary("Study this")).clicked() {
-                                choose = Some(i);
-                            }
-                            if ui.button("🎧 Recordings…").on_hover_text("Choose the folder with this course's audio files (e.g. \"Lesson 12.mp3\")").clicked() {
-                                link = Some(i);
-                            }
-                            if c.builtin && ui.button("Copy").on_hover_text("Copy this course to your own courses to expand or change it").clicked() {
-                                copy = Some(i);
-                            }
+                            ui.horizontal_wrapped(|ui| {
+                                if i != active && ui.add(theme::primary("Study")).clicked() {
+                                    choose = Some(i);
+                                }
+                                if ui
+                                    .add(theme::secondary("Audio…"))
+                                    .on_hover_text("Choose the folder with this course's audio files (e.g. \"Lesson 12.mp3\")")
+                                    .clicked()
+                                {
+                                    link = Some(i);
+                                }
+                                if c.builtin
+                                    && ui
+                                        .add(theme::ghost("Copy"))
+                                        .on_hover_text("Copy this course to your own courses to expand or change it")
+                                        .clicked()
+                                {
+                                    copy = Some(i);
+                                }
+                                if !c.builtin
+                                    && rec.is_some()
+                                    && ui
+                                        .add(theme::ghost("＋ A lesson per recording"))
+                                        .on_hover_text("Creates lessons for recordings that have no text yet: study them with your book, add the text later")
+                                        .clicked()
+                                {
+                                    from_rec = Some(i);
+                                }
+                            });
                         });
-                        if !c.builtin && rec.is_some() && ui.button("＋ A lesson for each recording").on_hover_text("Creates lessons for recordings that have no text yet: study them with your book, add the text later").clicked() {
-                            from_rec = Some(i);
-                        }
-                    }));
+                    });
                 }
             });
+            ui.add_space(gap - ui.spacing().item_spacing.y);
         }
         if let Some(i) = choose {
             self.saved.active_course = self.courses[i].id.clone();
@@ -654,11 +836,11 @@ impl App {
             self.lessons_from_recordings(i);
         }
 
-        ui.add_space(6.0);
-        theme::tinted(theme::ACCENT_SOFT).show(ui, |ui| {
+        ui.add_space(4.0);
+        theme::tinted(ACCENT_SOFT).show(ui, |ui| {
             ui.set_width(ui.available_width());
             ui.horizontal_wrapped(|ui| {
-                ui.label(RichText::new("New course for your own material:").strong());
+                ui.label(medium("New course for your own material:"));
                 egui::ComboBox::from_id_salt("newlang")
                     .selected_text(lang_name(&self.new_course_lang, &base))
                     .show_ui(ui, |ui| {
@@ -670,21 +852,20 @@ impl App {
                     let lang = self.new_course_lang.clone();
                     self.create_course(&lang);
                 }
-                ui.label(muted(
-                    "Then add lessons in “My lessons”: type or paste the dialogue, notes and exercises.",
-                ));
             });
+            ui.label(muted("Then add lessons in “My lessons”: type or paste the dialogue, notes and exercises.").size(13.5));
         });
 
-        ui.add_space(8.0);
+        ui.add_space(10.0);
         self.lesson_list(ui, active);
     }
 
     fn lesson_list(&mut self, ui: &mut egui::Ui, ci: usize) {
         let base = self.base();
         let Some(c) = self.courses.get(ci).cloned() else { return };
-        ui.label(RichText::new(format!("Lessons — {}", c.name_in(&base))).size(18.0).strong());
+        theme::section(ui, &format!("Lessons · {}", c.name_in(&base)));
         let next = self.next_lesson(ci);
+        let next_level = next.map(|li| c.lessons[li].level);
         let wave = self.wave2_due(ci);
         let mut start = None;
         let mut edit = None;
@@ -693,50 +874,63 @@ impl App {
             if lessons.is_empty() {
                 continue;
             }
-            ui.horizontal(|ui| {
-                theme::badge(ui, lvl.name(), lvl.color());
-                ui.label(muted(lvl.describe()));
-            });
-            for (li, l) in lessons {
-                let key = c.lesson_key(l.number);
-                let p = self.saved.progress(&key).cloned().unwrap_or_default();
-                theme::card().inner_margin(egui::Margin::symmetric(14, 8)).show(ui, |ui| {
-                    ui.set_width(ui.available_width());
-                    ui.horizontal(|ui| {
-                        let (icon, color) = if p.completed.is_some() {
-                            ("✔", GOOD)
-                        } else if Some(li) == next {
-                            ("▶", ACCENT)
-                        } else {
-                            ("○", MUTED)
-                        };
-                        ui.label(RichText::new(icon).color(color).size(17.0));
-                        ui.label(RichText::new(format!("{:>3}", l.number)).strong());
-                        ui.label(RichText::new(&l.title).strong());
-                        ui.label(muted(l.title_in(&base)));
-                        if p.wave2.is_some() {
-                            ui.label(RichText::new("2nd wave ✔").size(12.0).color(GOOD));
-                        } else if wave.contains(&li) {
-                            ui.label(RichText::new("2nd wave due").size(12.0).color(WARN));
+            let done = lessons.iter().filter(|(_, l)| self.saved.is_done(&c.lesson_key(l.number))).count();
+            let header = bold(format!("{} · {}   {done} / {}", lvl.name(), lvl.describe(), lessons.len())).size(15.5);
+            egui::CollapsingHeader::new(header)
+                .id_salt((&c.id, lvl.name()))
+                .default_open(next_level == Some(lvl) || (next_level.is_none() && lvl == Level::A1))
+                .show(ui, |ui| {
+                    theme::card().inner_margin(egui::Margin::symmetric(8, 6)).show(ui, |ui| {
+                        ui.set_width(ui.available_width());
+                        ui.spacing_mut().item_spacing.y = 2.0;
+                        for (li, l) in lessons {
+                            let key = c.lesson_key(l.number);
+                            let p = self.saved.progress(&key).cloned().unwrap_or_default();
+                            let is_next = Some(li) == next;
+                            egui::Frame::new()
+                                .fill(if is_next { ACCENT_SOFT } else { Color32::TRANSPARENT })
+                                .corner_radius(8)
+                                .inner_margin(egui::Margin::symmetric(8, 4))
+                                .show(ui, |ui| {
+                                    ui.set_width(ui.available_width());
+                                    ui.horizontal(|ui| {
+                                        let (icon, color) = if p.completed.is_some() {
+                                            ("✔", GOOD)
+                                        } else if is_next {
+                                            ("▶", ACCENT)
+                                        } else {
+                                            ("○", Color32::from_rgb(190, 186, 176))
+                                        };
+                                        ui.add_sized(egui::vec2(18.0, 22.0), egui::Label::new(RichText::new(icon).color(color)));
+                                        ui.add_sized(
+                                            egui::vec2(30.0, 22.0),
+                                            egui::Label::new(medium(l.number.to_string()).color(MUTED).size(13.5)),
+                                        );
+                                        ui.label(medium(&l.title));
+                                        ui.add(egui::Label::new(muted(l.title_in(&base)).size(14.0)).truncate());
+                                        ui.with_layout(egui::Layout::right_to_left(egui::Align::Center), |ui| {
+                                            let label = if p.completed.is_some() { "Again" } else { "Study" };
+                                            let btn = if is_next { theme::primary(label) } else { theme::ghost(label) };
+                                            if ui.add(btn).clicked() {
+                                                start = Some(li);
+                                            }
+                                            if !c.builtin && ui.add(theme::ghost("✏")).on_hover_text("Edit this lesson").clicked() {
+                                                edit = Some(li);
+                                            }
+                                            if p.wave2.is_some() {
+                                                theme::pill(ui, "2nd wave ✔", GOOD, GOOD_SOFT);
+                                            } else if wave.contains(&li) {
+                                                theme::pill(ui, "2nd wave due", WARN, WARN_SOFT);
+                                            }
+                                            if p.score.1 > 0 {
+                                                ui.label(muted(format!("ex. {}/{}", p.score.0, p.score.1)).size(12.5));
+                                            }
+                                        });
+                                    });
+                                });
                         }
-                        ui.with_layout(egui::Layout::right_to_left(egui::Align::Center), |ui| {
-                            let label = if p.completed.is_some() { "Study again" } else { "Study" };
-                            if ui.button(label).clicked() {
-                                start = Some(li);
-                            }
-                            if !c.builtin && ui.button("✏").on_hover_text("Edit this lesson").clicked() {
-                                edit = Some(li);
-                            }
-                            if let Some(d) = &p.completed {
-                                ui.label(muted(format!("done {d} · ×{}", p.times)).size(12.0));
-                            }
-                            if p.score.1 > 0 {
-                                ui.label(muted(format!("ex. {}/{}", p.score.0, p.score.1)).size(12.0));
-                            }
-                        });
                     });
                 });
-            }
         }
         if c.lessons.is_empty() {
             ui.label(muted("No lessons yet. Add them in “My lessons”."));
@@ -843,57 +1037,76 @@ impl App {
 
     fn settings_screen(&mut self, ui: &mut egui::Ui) {
         let base = self.base();
-        ui.heading("Settings & voices");
-        ui.add_space(4.0);
+        theme::page_title(
+            ui,
+            "Settings & voices",
+            "How lessons are shown and read aloud. Changes are saved by themselves.",
+        );
         let mut changed = false;
+        let label_w = 210.0;
+        let row = |ui: &mut egui::Ui, title: &str, hint: &str, add: &mut dyn FnMut(&mut egui::Ui)| {
+            ui.horizontal(|ui| {
+                ui.allocate_ui_with_layout(egui::vec2(label_w, 0.0), egui::Layout::top_down(egui::Align::Min), |ui| {
+                    ui.set_width(label_w);
+                    ui.spacing_mut().item_spacing.y = 0.0;
+                    ui.label(medium(title));
+                    if !hint.is_empty() {
+                        ui.label(muted(hint).size(12.5));
+                    }
+                });
+                add(ui);
+            });
+            ui.add_space(6.0);
+        };
 
         theme::card().show(ui, |ui| {
             ui.set_width(ui.available_width());
-            ui.label(RichText::new("Your language").strong());
-            ui.label(muted("Translations and notes are shown in this language. The built-in lessons are written in Italian, English and Spanish; your own lessons can use any."));
+            ui.label(bold("Your language").size(18.0));
+            ui.label(muted("Translations and notes are shown in this language. The built-in lessons are written in Italian, English and Spanish; your own lessons can use any.").size(14.0));
+            ui.add_space(4.0);
             egui::ComboBox::from_id_salt("base").selected_text(lang_name(&self.saved.base, &base)).show_ui(ui, |ui| {
                 for code in ["it", "en", "es", "fr", "de", "pt"] {
-                    changed |= ui.selectable_value(&mut self.saved.base, code.to_string(), crate::model::lang(code).map(|l| l.native).unwrap_or(code)).changed();
+                    changed |= ui
+                        .selectable_value(&mut self.saved.base, code.to_string(), crate::model::lang(code).map(|l| l.native).unwrap_or(code))
+                        .changed();
                 }
             });
         });
+        ui.add_space(4.0);
 
         theme::card().show(ui, |ui| {
             ui.set_width(ui.available_width());
-            ui.label(RichText::new("Method").strong());
-            egui::Grid::new("method").num_columns(2).spacing([16.0, 10.0]).show(ui, |ui| {
-                ui.label("Daily goal");
+            ui.label(bold("Method").size(18.0));
+            ui.add_space(4.0);
+            row(ui, "Daily goal", "minutes of study a day", &mut |ui| {
                 changed |= ui
                     .add(egui::Slider::new(&mut self.saved.daily_goal_min, 5..=90).suffix(" min"))
                     .changed();
-                ui.end_row();
-                ui.label("Second wave starts");
-                ui.horizontal(|ui| {
-                    changed |= ui.add(egui::DragValue::new(&mut self.saved.wave2_gap).range(1..=120)).changed();
-                    ui.label(muted("lessons later (classic: 49)"));
-                });
-                ui.end_row();
-                ui.label("Daily sentence review");
+            });
+            row(ui, "Second wave starts", "lessons later (classic: 49)", &mut |ui| {
+                changed |= ui.add(egui::DragValue::new(&mut self.saved.wave2_gap).range(1..=120)).changed();
+            });
+            row(ui, "Daily sentence review", "", &mut |ui| {
                 changed |= ui
                     .checkbox(
                         &mut self.saved.cards_after_lesson,
                         "Add each finished dialogue's sentences to spaced review",
                     )
                     .changed();
-                ui.end_row();
-                ui.label("Pronunciation hints");
+            });
+            row(ui, "Pronunciation hints", "", &mut |ui| {
                 changed |= ui
                     .checkbox(&mut self.saved.show_pron, "Show pinyin / vowel lengths under sentences")
                     .changed();
-                ui.end_row();
             });
         });
+        ui.add_space(4.0);
 
         theme::card().show(ui, |ui| {
             ui.set_width(ui.available_width());
-            ui.label(RichText::new("Listening").strong());
-            egui::Grid::new("audio").num_columns(2).spacing([16.0, 10.0]).show(ui, |ui| {
-                ui.label("Speed");
+            ui.label(bold("Listening").size(18.0));
+            ui.add_space(4.0);
+            row(ui, "Speed", "", &mut |ui| {
                 changed |= ui
                     .add(
                         egui::Slider::new(&mut self.saved.speed, 0.6..=1.4)
@@ -902,8 +1115,8 @@ impl App {
                             .suffix("×"),
                     )
                     .changed();
-                ui.end_row();
-                ui.label("Pause to repeat");
+            });
+            row(ui, "Pause to repeat", "how long the voice waits after each sentence", &mut |ui| {
                 changed |= ui
                     .add(
                         egui::Slider::new(&mut self.saved.pause_factor, 0.5..=3.0)
@@ -911,71 +1124,70 @@ impl App {
                             .fixed_decimals(1)
                             .suffix("× the sentence"),
                     )
-                    .on_hover_text("How long the voice waits after each sentence so you can repeat it aloud")
                     .changed();
-                ui.end_row();
-                ui.label("Recordings vs voice");
+            });
+            row(ui, "Recordings vs voice", "", &mut |ui| {
                 changed |= ui
                     .checkbox(
                         &mut self.saved.prefer_voice,
                         "Use the voice even when a recording is linked (sentence by sentence)",
                     )
                     .changed();
-                ui.end_row();
-                ui.label("Audio player");
-                ui.label(if Player::available() {
-                    muted("mpv found ✔")
-                } else {
-                    RichText::new("No player found: install mpv to hear audio").color(theme::BAD)
-                });
-                ui.end_row();
             });
-        });
-
-        theme::card().show(ui, |ui| {
-            ui.set_width(ui.available_width());
-            ui.label(RichText::new("Voices (free, offline after download)").strong());
-            ui.label(muted("A natural-sounding voice reads every sentence aloud when you have no recordings. Each voice is about 60 MB; the first one also fetches the voice engine (25 MB). Latin is read by the Italian voice with Latin pronunciation rules."));
-            egui::Grid::new("voices").num_columns(3).spacing([16.0, 8.0]).striped(true).show(ui, |ui| {
-                for l in LANGS {
-                    ui.horizontal(|ui| {
-                        theme::dot(ui, l.color, 5.0);
-                        ui.label(lang_name(l.code, &base));
-                    });
-                    let status = self.voices.status_of(l.code);
-                    if self.voices.ready(l.code) {
-                        ui.label(RichText::new("Ready ✔").color(GOOD));
-                        ui.label("");
-                    } else if status.starts_with("Downloading") || status.starts_with("Finishing") {
-                        let mb = self.voices.partial_mb(l.code).map(|m| format!(" {m:.0} MB")).unwrap_or_default();
-                        ui.horizontal(|ui| {
-                            ui.spinner();
-                            ui.label(format!("{status}{mb}"));
-                        });
-                        ui.ctx().request_repaint_after(Duration::from_millis(400));
-                        ui.label("");
-                    } else {
-                        ui.label(if status.is_empty() { muted("not downloaded") } else { RichText::new(&status).color(theme::BAD) });
-                        if ui.button("⬇ Download").clicked() {
-                            self.voices.download(l.code, ui.ctx().clone());
-                        }
-                    }
-                    ui.end_row();
+            row(ui, "Audio player", "", &mut |ui| {
+                if Player::available() {
+                    theme::pill(ui, "mpv found ✔", GOOD, GOOD_SOFT);
+                } else {
+                    ui.label(RichText::new("No player found: install mpv to hear audio").color(BAD));
                 }
             });
         });
+        ui.add_space(4.0);
 
         theme::card().show(ui, |ui| {
             ui.set_width(ui.available_width());
-            ui.label(RichText::new("Your files").strong());
+            ui.label(bold("Voices").size(18.0));
+            ui.label(muted("Free and offline after the download. A natural-sounding voice reads every sentence aloud when you have no recordings. Each voice is about 60 MB; the first one also fetches the voice engine (25 MB). Latin is read by the Italian voice with Latin pronunciation rules.").size(14.0));
+            ui.add_space(6.0);
+            for l in LANGS {
+                ui.horizontal(|ui| {
+                    ui.allocate_ui_with_layout(egui::vec2(label_w, 30.0), egui::Layout::left_to_right(egui::Align::Center), |ui| {
+                        ui.set_width(label_w);
+                        theme::dot(ui, l.color, 5.0);
+                        ui.label(medium(lang_name(l.code, &base)));
+                    });
+                    let status = self.voices.status_of(l.code);
+                    if self.voices.ready(l.code) {
+                        theme::pill(ui, "Ready ✔", GOOD, GOOD_SOFT);
+                    } else if status.starts_with("Downloading") || status.starts_with("Finishing") {
+                        let mb = self.voices.partial_mb(l.code).map(|m| format!(" {m:.0} MB")).unwrap_or_default();
+                        ui.spinner();
+                        ui.label(format!("{status}{mb}"));
+                        ui.ctx().request_repaint_after(Duration::from_millis(400));
+                    } else {
+                        if ui.add(theme::secondary("⬇ Download")).clicked() {
+                            self.voices.download(l.code, ui.ctx().clone());
+                        }
+                        if !status.is_empty() {
+                            ui.label(RichText::new(&status).color(BAD));
+                        }
+                    }
+                });
+            }
+        });
+        ui.add_space(4.0);
+
+        theme::card().show(ui, |ui| {
+            ui.set_width(ui.available_width());
+            ui.label(bold("Your files").size(18.0));
             let dir = store::data_dir();
-            ui.label(muted(format!("Progress, your courses and voices are kept in {}", dir.display())));
-            if ui.button("📂 Open the folder").clicked() {
+            ui.label(muted(format!("Progress, your courses and voices are kept in {}", dir.display())).size(14.0));
+            if ui.add(theme::secondary("📂 Open the folder")).clicked() {
                 let _ = std::fs::create_dir_all(&dir);
                 open_path(&dir);
             }
             for p in &self.problems {
-                ui.label(RichText::new(format!("⚠ {p}")).color(theme::BAD));
+                ui.label(RichText::new(format!("⚠ {p}")).color(BAD));
             }
         });
 
@@ -983,6 +1195,90 @@ impl App {
             self.mark_dirty();
         }
     }
+}
+
+const HEAT: [Color32; 5] = [
+    Color32::from_rgb(234, 230, 221),
+    Color32::from_rgb(190, 224, 230),
+    Color32::from_rgb(118, 186, 202),
+    Color32::from_rgb(52, 142, 164),
+    Color32::from_rgb(20, 88, 104),
+];
+
+fn days(n: u32) -> String {
+    plural(n as usize, "day")
+}
+
+/// "1 lesson", "5 lessons".
+fn plural(n: usize, word: &str) -> String {
+    if n == 1 { format!("1 {word}") } else { format!("{n} {word}s") }
+}
+
+/// Three soft waves filling `area`, for the home card's background.
+fn wave_shapes(area: egui::Rect, phase: f32, color: Color32) -> Vec<egui::Shape> {
+    (0..3)
+        .map(|row| {
+            let y0 = area.top() + area.height() * (0.3 + 0.2 * row as f32);
+            let amp = area.height() * 0.08;
+            let points = (0..=48)
+                .map(|i| {
+                    let t = i as f32 / 48.0;
+                    egui::pos2(
+                        area.left() + t * area.width(),
+                        y0 + amp * (t * std::f32::consts::TAU * 1.2 + phase + row as f32 * 0.8).sin(),
+                    )
+                })
+                .collect();
+            egui::Shape::line(points, egui::Stroke::new(2.0, color))
+        })
+        .collect()
+}
+
+/// One row of the side navigation.
+fn nav_item(ui: &mut egui::Ui, icon: &str, label: &str, selected: bool, count: usize, compact: bool) -> egui::Response {
+    let (rect, resp) = ui.allocate_exact_size(egui::vec2(ui.available_width(), 42.0), egui::Sense::click());
+    let p = ui.painter();
+    if selected {
+        p.rect_filled(rect, 10, ACCENT);
+    } else if resp.hovered() {
+        p.rect_filled(rect, 10, Color32::from_white_alpha(12));
+    }
+    let color = if selected { Color32::WHITE } else { NAV_TEXT };
+    let y = rect.center().y;
+    let icon_x = if compact { rect.center().x } else { rect.left() + 22.0 };
+    p.text(
+        egui::pos2(icon_x, y),
+        egui::Align2::CENTER_CENTER,
+        icon,
+        egui::FontId::proportional(16.0),
+        color,
+    );
+    if !compact {
+        p.text(
+            egui::pos2(rect.left() + 44.0, y),
+            egui::Align2::LEFT_CENTER,
+            label,
+            egui::FontId::new(15.0, theme::medium_family()),
+            color,
+        );
+    }
+    if count > 0 {
+        let (c, r) = if compact {
+            (egui::pos2(rect.right() - 6.0, rect.top() + 8.0), 8.0)
+        } else {
+            (egui::pos2(rect.right() - 20.0, y), 10.0)
+        };
+        p.circle_filled(c, r, WARN);
+        p.text(
+            c,
+            egui::Align2::CENTER_CENTER,
+            count.min(99).to_string(),
+            egui::FontId::new(11.0, theme::medium_family()),
+            Color32::WHITE,
+        );
+    }
+    let resp = resp.on_hover_cursor(egui::CursorIcon::PointingHand);
+    if compact { resp.on_hover_text(label) } else { resp }
 }
 
 pub fn open_path(p: &std::path::Path) {
@@ -1013,18 +1309,35 @@ impl eframe::App for App {
 
         self.drive_audio(&ctx);
 
+        // A tiled or small window gets an icon-only navigation.
+        let compact = ui.available_width() < 1000.0;
         egui::Panel::left("nav")
-            .exact_size(230.0)
+            .exact_size(if compact { 72.0 } else { 232.0 })
             .resizable(false)
-            .frame(egui::Frame::new().fill(NAV).inner_margin(egui::Margin::symmetric(12, 6)))
-            .show(ui, |ui| self.nav(ui));
+            .frame(egui::Frame::new().fill(NAV).inner_margin(egui::Margin::symmetric(12, 18)))
+            .show(ui, |ui| self.nav(ui, compact));
 
         if let Some((msg, at)) = self.toast.clone() {
             if at.elapsed() < Duration::from_secs(5) {
-                egui::Panel::bottom("toast")
-                    .frame(egui::Frame::new().fill(INK).inner_margin(10))
-                    .show(ui, |ui| {
-                        ui.label(RichText::new(msg).color(Color32::WHITE));
+                egui::Area::new(egui::Id::new("toast"))
+                    .anchor(egui::Align2::CENTER_BOTTOM, egui::vec2(if compact { 36.0 } else { 116.0 }, -90.0))
+                    .order(egui::Order::Foreground)
+                    .interactable(false)
+                    .show(&ctx, |ui| {
+                        egui::Frame::new()
+                            .fill(INK)
+                            .corner_radius(12)
+                            .inner_margin(egui::Margin::symmetric(18, 12))
+                            .shadow(egui::Shadow {
+                                offset: [0, 4],
+                                blur: 16,
+                                spread: 0,
+                                color: Color32::from_black_alpha(50),
+                            })
+                            .show(ui, |ui| {
+                                ui.set_max_width(560.0);
+                                ui.label(RichText::new(msg).color(Color32::WHITE));
+                            });
                     });
                 ctx.request_repaint_after(Duration::from_millis(500));
             } else {
@@ -1036,15 +1349,16 @@ impl eframe::App for App {
             Screen::Study => self.study_screen(ui),
             screen => {
                 egui::ScrollArea::vertical().auto_shrink([false; 2]).show(ui, |ui| {
-                    ui.set_max_width(ui.available_width().min(1100.0));
-                    match screen {
+                    ui.add_space(10.0);
+                    theme::page(ui, PAGE, |ui| match screen {
                         Screen::Home => self.home(ui),
                         Screen::Courses => self.courses_screen(ui),
                         Screen::Review => self.review_screen(ui),
                         Screen::Editor => self.editor_screen(ui),
                         Screen::Settings => self.settings_screen(ui),
                         Screen::Study => {}
-                    }
+                    });
+                    ui.add_space(24.0);
                 });
             }
         });

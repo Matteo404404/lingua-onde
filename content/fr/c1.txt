@@ -1,0 +1,146 @@
+course: fr
+
+== 151 C1
+title: L'article de Hugo
+title.it: L'articolo di Hugo
+title.en: Hugo's article
+title.es: El artículo de Hugo
+
+dialogue:
+- Écoute ça et dis-moi franchement ce que tu en penses. « Croix-Rousse : un immeuble promis à la démolition renaît de ses cendres. »
+  it: Ascolta qui e dimmi sinceramente che cosa ne pensi. «Croix-Rousse, un palazzo destinato alla demolizione rinasce dalle sue ceneri.»
+  en: Listen to this and tell me honestly what you think. "Croix-Rousse: a building doomed to demolition rises from its ashes."
+  es: Escucha esto y dime con franqueza qué te parece. «Croix-Rousse: un edificio condenado a la demolición renace de sus cenizas».
+- Le titre accroche, mais « renaître de ses cendres », ça sent un peu le réchauffé, non ?
+  it: Il titolo attira, ma «rinascere dalle proprie ceneri» sa un po' di minestra riscaldata, no?
+  en: The headline grabs you, but "rising from its ashes" is a bit stale, isn't it?
+  es: El titular engancha, pero «renacer de sus cenizas» suena un poco trillado (huele un poco a recalentado), ¿no?
+- Touché. Et voici le chapeau. « Selon nos informations, la Métropole aurait renoncé à la démolition sous la pression d'un collectif d'habitants. »
+  it: Touché. Ed ecco il cappello. «Secondo nostre informazioni, la Metropoli avrebbe rinunciato alla demolizione sotto la pressione di un comitato di residenti.»
+  en: Touché. And here's the standfirst. "According to our information, the Métropole has reportedly dropped the demolition under pressure from a residents' group."
+  es: Touché. Y aquí está la entradilla (el sombrero). «Según nuestras informaciones, la Metrópoli habría renunciado a la demolición bajo la presión de un colectivo de vecinos».
+- Le conditionnel, c'est pour te couvrir ?
+  it: Il condizionale serve a pararti le spalle?
+  en: Is the conditional there to cover yourself?
+  es: El condicional, ¿es para cubrirte las espaldas?
+- Évidemment. Tant que la mairie n'a rien confirmé, je ne peux pas l'écrire noir sur blanc.
+  it: Ovviamente. Finché il comune non ha confermato nulla, non posso scriverlo nero su bianco.
+  en: Of course. As long as the town hall hasn't confirmed anything, I can't put it in black and white.
+  es: Evidentemente. Mientras el ayuntamiento no haya confirmado nada, no puedo ponerlo negro sobre blanco.
+- Et Marco, il apparaît dans l'article ?
+  it: E Marco compare nell'articolo?
+  en: And does Marco appear in the article?
+  es: ¿Y Marco aparece en el artículo?
+- Il m'a demandé de ne pas le citer. Son cabinet préfère rester discret, et à juste titre.
+  it: Mi ha chiesto di non citarlo. Il suo studio preferisce restare discreto, e a ragione.
+  en: He asked me not to quote him. His firm prefers to keep a low profile, and rightly so.
+  es: Me ha pedido que no lo cite. Su estudio prefiere mantenerse discreto, y con razón.
+- Dommage. S'il avait accepté, son nom aurait circulé dans tout le milieu.
+  it: Peccato. Se avesse accettato, il suo nome avrebbe fatto il giro di tutto l'ambiente.
+  en: Pity. If he'd agreed, his name would have gone round the whole profession.
+  es: Lástima. Si hubiera aceptado, su nombre habría corrido por todo el mundillo.
+- Ou il se serait fait remonter les bretelles par sa patronne. Quand on est stagiaire, mieux vaut ne pas jouer avec le feu.
+  it: Oppure si sarebbe preso una bella strigliata dalla sua capa. Quando si è tirocinanti, meglio non scherzare col fuoco.
+  en: Or he'd have been hauled over the coals by his boss. When you're an intern, you'd better not play with fire.
+  es: O su jefa le habría echado una buena bronca (le habría subido los tirantes). Cuando uno está de prácticas, más vale no jugar con fuego.
+- Pas faux. Envoie-moi la version définitive avant de la remettre au rédacteur en chef.
+  it: Non hai torto. Mandami la versione definitiva prima di consegnarla al caporedattore.
+  en: Fair point. Send me the final version before you hand it in to the editor-in-chief.
+  es: No te falta razón (no falso). Mándame la versión definitiva antes de entregársela al redactor jefe.
+- Promis. Et si elle passe à la trappe, tu auras le droit de me consoler.
+  it: Promesso. E se finisce nel dimenticatoio, avrai il diritto di consolarmi.
+  en: Promise. And if it gets spiked, you'll be allowed to console me.
+  es: Prometido. Y si acaba en un cajón (pasa por la trampilla), tendrás derecho a consolarme.
+
+notes.it:
+1. Il condizionale giornalistico: la Métropole aurait renoncé (avrebbe
+   rinunciato) presenta una notizia non ancora confermata, esattamente come in
+   italiano. È il modo in cui un giornalista "si copre".
+2. S'il avait accepté, son nom aurait circulé: dopo si ipotetico il francese non
+   usa mai né il condizionale né il congiuntivo, ma l'indicativo
+   (plus-que-parfait). Dove l'italiano dice "se avesse accettato", il francese
+   dice "s'il avait accepté". "S'il aurait" è un errore tipico da evitare.
+3. Espressioni: ça sent le réchauffé (sa di minestra riscaldata), se faire
+   remonter les bretelles (farsi tirare su le bretelle, cioè prendersi una
+   strigliata), jouer avec le feu, passer à la trappe (cadere nella botola,
+   cioè finire nel dimenticatoio).
+4. Lessico della stampa: le titre, le chapeau (il cappello, come nei giornali
+   italiani), le rédacteur en chef (caporedattore), selon nos informations. La
+   Métropole de Lyon è un ente locale, non semplicemente "la metropoli". À juste
+   titre significa "a ragione".
+5. Cambio di registro: Hugo legge la lingua scritta del giornale, poi parla per
+   ellissi tipiche dell'orale (Touché, Pas faux, Promis).
+notes.en:
+1. The journalistic conditional: la Métropole aurait renoncé ("has reportedly
+   dropped") presents news that is not yet confirmed. It is how a journalist
+   covers himself.
+2. S'il avait accepté, son nom aurait circulé: after a conditional si, French
+   never uses the conditional or the subjunctive, only the indicative
+   (plus-que-parfait). "S'il aurait" is a classic mistake.
+3. Idioms: ça sent le réchauffé (it smells reheated, it's stale), se faire
+   remonter les bretelles (to have your braces pulled up, to get a telling-off),
+   jouer avec le feu (to play with fire), passer à la trappe (to fall through
+   the trapdoor, to be dropped or forgotten).
+4. Press vocabulary: le titre (headline), le chapeau (standfirst, the short
+   intro under the headline), le rédacteur en chef (editor-in-chief), selon nos
+   informations (according to our sources). La Métropole de Lyon is a local
+   authority, not just "the city". À juste titre means "rightly".
+5. Register switch: Hugo reads the written language of the paper, then speaks in
+   the clipped style of spoken French (Touché, Pas faux, Promis).
+notes.es:
+1. El condicional periodístico: la Métropole aurait renoncé (habría renunciado)
+   presenta una noticia todavía no confirmada, igual que en la prensa española
+   ("el ministro habría dimitido"). Es la manera en que un periodista "se
+   cubre".
+2. S'il avait accepté, son nom aurait circulé: después de un si condicional, el
+   francés nunca usa ni el condicional ni el subjuntivo, sino el indicativo
+   (plus-que-parfait). Donde el español dice "si hubiera aceptado", el francés
+   dice "s'il avait accepté" (literalmente "si había aceptado"). "S'il aurait"
+   es un error típico que hay que evitar.
+3. Expresiones: ça sent le réchauffé (huele a recalentado, es decir, está muy
+   visto), se faire remonter les bretelles (que te suban los tirantes, es decir,
+   llevarse una bronca), jouer avec le feu (jugar con fuego), passer à la trappe
+   (caer por la trampilla, es decir, quedarse en un cajón o en el olvido).
+4. Vocabulario de prensa: le titre (titular), le chapeau (entradilla, el texto
+   breve bajo el titular), le rédacteur en chef (redactor jefe), selon nos
+   informations (según nuestras informaciones). La Métropole de Lyon es una
+   entidad local, no simplemente "la metrópoli". À juste titre significa "con
+   razón".
+5. Cambio de registro: Hugo lee la lengua escrita del periódico y luego habla
+   con las elipsis típicas del francés oral (Touché, Pas faux, Promis).
+
+ex1:
+- Selon nos informations, le maire aurait démissionné.
+  it: Secondo nostre informazioni, il sindaco si sarebbe dimesso.
+  en: According to our sources, the mayor has reportedly resigned.
+  es: Según nuestras informaciones, el alcalde habría dimitido.
+- Si j'avais su, je serais venu plus tôt.
+  it: Se l'avessi saputo, sarei venuto prima.
+  en: If I'd known, I would have come earlier.
+  es: Si lo hubiera sabido, habría venido antes.
+- Il s'est fait remonter les bretelles par son chef.
+  it: Si è preso una strigliata dal suo capo.
+  en: He got a telling-off from his boss.
+  es: Su jefe le echó una bronca.
+- Ce projet est passé à la trappe.
+  it: Questo progetto è finito nel dimenticatoio.
+  en: This project was quietly dropped.
+  es: Este proyecto acabó en un cajón.
+
+ex2:
+- S'il [avait] accepté, il [aurait] été cité.
+  it: Se avesse accettato, sarebbe stato citato.
+  en: If he had agreed, he would have been quoted.
+  es: Si hubiera aceptado, lo habrían citado.
+- Le ministre [aurait] renoncé à sa réforme.
+  it: Il ministro avrebbe rinunciato alla sua riforma.
+  en: The minister has reportedly given up his reform.
+  es: El ministro habría renunciado a su reforma.
+- Mieux vaut ne pas [jouer] avec le [feu].
+  it: Meglio non scherzare col fuoco.
+  en: You'd better not play with fire.
+  es: Más vale no jugar con fuego.
+- Je ne peux pas l'écrire [noir] sur [blanc].
+  it: Non posso scriverlo nero su bianco.
+  en: I can't put it in black and white.
+  es: No puedo ponerlo negro sobre blanco.

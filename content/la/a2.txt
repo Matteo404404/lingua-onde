@@ -1,0 +1,149 @@
+course: la
+
+== 26 A2
+title: Canis et saccus
+title.it: Il cane e il sacco
+title.en: The dog and the sack
+title.es: El perro y el saco
+
+dialogue:
+- Marce, heri in foro fuisti. Quid emisti?
+  pron: Mārce, herī in forō fuistī. Quid ēmistī?
+  it: Marco, ieri sei stato al foro. Che cosa hai comprato?
+  en: Marcus, you were at the forum yesterday. What did you buy?
+  es: Marco, ayer estuviste en el foro. ¿Qué compraste?
+- Panem et olivas emimus, pater. Mercator olivas laudavit, et Davus gustavit.
+  pron: Pānem et olīvās ēmimus, pater. Mercātor olīvās laudāvit, et Dāvus gustāvit.
+  it: Abbiamo comprato pane e olive, papà. Il mercante ha lodato le olive e Davo le ha assaggiate.
+  en: We bought bread and olives, Father. The merchant praised the olives, and Davus tasted them.
+  es: Compramos pan y aceitunas, papá. El mercader alabó las aceitunas y Davo las probó.
+- Ubi sunt olivae? Mensa vacua est!
+  pron: Ubi sunt olīvae? Mēnsa vacua est!
+  it: Dove sono le olive? La tavola è vuota!
+  en: Where are the olives? The table is empty!
+  es: ¿Dónde están las aceitunas? ¡La mesa está vacía!
+- Audi, pater. In via Davus amicum vidit et saccum deposuit.
+  pron: Audī, pater. In viā Dāvus amīcum vīdit et saccum dēposuit.
+  it: Ascolta, papà. Per strada (in via) Davo ha visto un amico e ha posato il sacco.
+  en: Listen, Father. In the street Davus saw a friend and put the sack down.
+  es: Escucha, papá. Por la calle (en la vía) Davo vio a un amigo y dejó el saco en el suelo.
+- Canis magnus venit, saccum rapuit et cucurrit!
+  pron: Canis magnus vēnit, saccum rapuit et cucurrit!
+  it: È arrivato un cane grosso, ha afferrato il sacco ed è scappato via (ha corso)!
+  en: A big dog came, grabbed the sack and ran off!
+  es: ¡Llegó un perro grande, agarró el saco y salió corriendo (corrió)!
+- Canis olivas rapuit? Fabulas mihi dicis, Dave!
+  pron: Canis olīvās rapuit? Fābulās mihi dīcis, Dāve!
+  it: Un cane ha rubato le olive? Mi racconti favole (favole a-me dici), Davo!
+  en: A dog stole the olives? You're telling me tales (tales to-me you-say), Davus!
+  es: ¿Un perro robó las aceitunas? ¡Me cuentas fábulas (fábulas a-mí dices), Davo!
+- Non fabula est, pater. Ego canem vidi: saccum in horto nostro reliquit!
+  pron: Nōn fābula est, pater. Ego canem vīdī: saccum in hortō nostrō relīquit!
+  it: Non è una favola, papà. Il cane l'ho visto io: ha lasciato il sacco nel nostro giardino!
+  en: It's no tale, Father. I saw the dog myself: it left the sack in our garden!
+  es: No es una fábula, papá. Al perro lo vi yo: ¡dejó el saco en nuestro jardín!
+- Ergo olivae in horto sunt! I, Dave, et quaere!
+  pron: Ergō olīvae in hortō sunt! Ī, Dāve, et quaere!
+  it: Allora le olive sono in giardino! Va', Davo, e cercale!
+  en: So the olives are in the garden! Go, Davus, and look for them!
+  es: ¡Entonces las aceitunas están en el jardín! ¡Ve, Davo, y búscalas!
+- Iam ivi, domine. Saccum inveni, sed canis panem comedit!
+  pron: Iam īvī, domine. Saccum invēnī, sed canis pānem comēdit!
+  it: Ci sono già andato, padrone. Ho trovato il sacco, ma il cane si è mangiato il pane!
+  en: I've already been, master. I found the sack, but the dog ate the bread!
+  es: Ya he ido, amo. He encontrado el saco, ¡pero el perro se ha comido el pan!
+
+notes.it:
+1. Il perfetto indica un'azione compiuta e corrisponde sia al nostro
+   passato prossimo sia al passato remoto.
+   Le sue desinenze sono -i, -isti, -it, -imus, -istis, -erunt, quindi
+   emi, emisti, emit… In alcuni verbi solo la lunghezza della vocale
+   distingue presente e
+   perfetto, emimus "compriamo" ed ēmimus "abbiamo comprato", venit
+   "viene" e vēnit "è venuto".
+2. Il tema del perfetto va imparato insieme al verbo, video → vidi, venio
+   → veni, rapio → rapui, curro → cucurri (con raddoppiamento), relinquo →
+   reliqui, invenio → inveni, comedo → comedi. Il passato remoto italiano
+   li continua, "vidi", "venni".
+3. Sum ha il perfetto fui, fuisti, fuit, da cui l'italiano "fui, fosti,
+   fu". Heri in foro fuisti "ieri sei stato al foro"; heri → ieri.
+4. Parole italiane, mensa → mensa, vacuus → vacuo, canis → cane, fabula →
+   favola, via → via, invenire "trovare" → invenzione. Comedere "mangiare
+   fino in fondo" sopravvive in "commestibile".
+5. Ī! "va'!" è l'imperativo di ire "andare", una sola vocale lunga. Ergo
+   "dunque" è passato tale e quale in italiano.
+notes.en:
+1. The perfect marks a completed action and covers both English "I bought"
+   and "I have bought".
+   Its endings are -i, -isti, -it, -imus, -istis, -erunt, hence emi,
+   emisti, emit… In some verbs only the vowel length tells present from
+   perfect, emimus "we buy" and ēmimus "we bought", venit "comes" and
+   vēnit "came".
+2. The perfect stem must be learnt with the verb, video → vidi, venio →
+   veni, rapio → rapui, curro → cucurri (with reduplication), relinquo →
+   reliqui, invenio → inveni, comedo → comedi. The Italian passato remoto
+   continues them, "vidi", "venni".
+3. Sum has the perfect fui, fuisti, fuit, which gave Italian "fui, fosti,
+   fu". Heri in foro fuisti "you were at the forum yesterday".
+4. Italian descendants, mensa → mensa, vacuus → vacuo (English vacuum),
+   canis → cane, fabula → favola (English fable), via → via, invenire "to
+   find" → invention. Comedere "to eat up" survives in "comestible".
+5. Ī! "go!" is the imperative of ire "to go", a single long vowel. Ergo
+   "therefore" passed unchanged into Italian and English.
+notes.es:
+1. El perfecto indica una acción terminada y corresponde tanto a nuestro
+   pretérito perfecto simple (compré) como al compuesto (he comprado). Sus
+   terminaciones son -i, -isti, -it, -imus, -istis, -erunt, así que emi,
+   emisti, emit… En algunos verbos solo la cantidad de la vocal distingue el
+   presente del perfecto, emimus "compramos (hoy)" y ēmimus "compramos
+   (ayer)", venit "viene" y vēnit "vino"; nuestro "compramos" es igual de
+   ambiguo.
+2. El tema de perfecto hay que aprenderlo junto con el verbo, video → vidi,
+   venio → veni, rapio → rapui, curro → cucurri (con reduplicación), relinquo
+   → reliqui, invenio → inveni, comedo → comedi. Nuestro pretérito los
+   continúa, "vi", "vine".
+3. Sum tiene el perfecto fui, fuisti, fuit, de donde viene el español "fui,
+   fuiste, fue". Heri in foro fuisti "ayer estuviste en el foro"; de ad heri
+   viene "ayer".
+4. Palabras españolas, mensa → mesa, vacuus → vacuo, evacuar, canis → can,
+   fabula → fábula y también habla, via → vía, invenire "encontrar" →
+   invento, inventar. Comedere "comer del todo" es el origen de nuestro
+   "comer".
+5. Ī! "¡ve!" es el imperativo de ire "ir", una sola vocal larga. Ergo "por
+   tanto" ha pasado tal cual al español culto.
+
+ex1:
+- Heri Iulia ad forum venit.
+  it: Ieri Giulia è venuta al foro.
+  en: Yesterday Julia came to the forum.
+  es: Ayer Julia vino al foro.
+- Davus canem vidit et cucurrit.
+  it: Davo ha visto il cane e si è messo a correre.
+  en: Davus saw the dog and ran.
+  es: Davo vio al perro y echó a correr.
+- Quid heri emistis?
+  it: Che cosa avete comprato ieri?
+  en: What did you buy yesterday?
+  es: ¿Qué comprasteis ayer?
+- Canis panem nostrum comedit.
+  it: Il cane si è mangiato il nostro pane.
+  en: The dog ate our bread.
+  es: El perro se comió nuestro pan.
+
+ex2:
+- Heri in foro [fuimus].
+  it: Ieri siamo stati al foro.
+  en: Yesterday we were at the forum.
+  es: Ayer estuvimos en el foro.
+- Canis saccum [rapuit] et [cucurrit].
+  it: Il cane ha afferrato il sacco ed è scappato via.
+  en: The dog grabbed the sack and ran off.
+  es: El perro agarró el saco y salió corriendo.
+- Iulia canem in horto [vidit].
+  it: Giulia ha visto il cane in giardino.
+  en: Julia saw the dog in the garden.
+  es: Julia vio al perro en el jardín.
+- Ego saccum [inveni], sed panem non [inveni].
+  it: Io ho trovato il sacco, ma non il pane.
+  en: I found the sack, but not the bread.
+  es: Yo encontré el saco, pero no el pan.

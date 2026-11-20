@@ -10,17 +10,21 @@ Rules:
 - Lines starting with `#` are comments. Blank lines are ignored.
 - Keys are written `key: value`. A key may carry a language: `title.it`,
   `notes.en`. Language codes: `it` Italian, `en` English, `es` Spanish,
-  `fr` French, `de` German, `pt` Portuguese, `zh` Chinese, `la` Latin,
-  `vi` Vietnamese. Built-in lessons give translations and notes in `it`, `en`
+  `fr` French, `de` German, `nl` Dutch, `pt` Portuguese, `zh` Chinese,
+  `la` Latin, `vi` Vietnamese. Built-in lessons give translations and notes in `it`, `en`
   and `es` (the Spanish course in `it` and `en`).
 - A lesson starts with `== <number> <level>`; level is one of
   `A1 A2 B1 B2 C1 C2`. Built-in courses follow the shape of a full course
   (100 lessons up to B2, 100 more from B2 to C1, then C2), so each level owns
   a range of numbers: A1 1–25, A2 26–50, B1 51–75, B2 76–150, C1 151–200,
   C2 201–300. New lessons take a free number in their level's range.
-- A built-in course may be split over several files (`es.txt`,
-  `es-part2.txt`...): each starts with the same `course:` line and they are
-  listed in `src/store.rs`.
+- A built-in course has one file per level (`es/a1.txt` … `es/c2.txt`), all
+  starting with the same `course:` line; the A1 file also carries the
+  `name:` lines. The files are listed in `src/store.rs`.
+- `lingua_onde --check <file>...` lists what a built-in lesson lacks: a
+  translation, title or note in `it`, `en`, `es`; an exercise 2 sentence
+  without `[blanks]`; `pron:` on every Chinese sentence and on every Latin
+  dialogue line.
 - `dialogue:`, `ex1:` and `ex2:` hold items. An item starts with `- ` followed
   by the sentence in the target language. The indented lines under it give the
   translation for each base language (`  it: ...`, `  en: ...`) and an optional

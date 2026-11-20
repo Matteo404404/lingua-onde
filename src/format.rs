@@ -171,6 +171,62 @@ pub fn parse_course(src: &str, id: &str) -> Result<Course, String> {
     Ok(course)
 }
 
+/// What a built-in lesson of course `lang` lacks: its number outside its
+/// level's planned range, an empty part, a missing translation or note in
+/// Italian, English or Spanish (the Spanish course needs no Spanish), an
+/// exercise 2 sentence without a [blank], or a missing pronunciation line
+/// (every Chinese sentence carries pinyin, every Latin dialogue line its vowel lengths).
+pub fn builtin_problems(lang: &str, l: &Lesson) -> Vec<String> {
+    let mut out = Vec::new();
+    let at = format!("{lang} lesson {}", l.number);
+    let (first, last) = l.level.plan();
+    if !(first..=last).contains(&l.number) {
+        out.push(format!("{at}: {} lessons are numbered {first}–{last}", l.level.name()));
+    }
+    if l.title.is_empty() || l.dialogue.is_empty() || l.ex1.is_empty() || l.ex2.is_empty() {
+        out.push(format!("{at}: title, dialogue, ex1 or ex2 is empty"));
+    }
+    let bases: &[&str] = if lang == "es" { &["it", "en"] } else { &["it", "en", "es"] };
+    for &base in bases {
+        if l.notes.get(base).is_none_or(|n| n.trim().is_empty()) {
+            out.push(format!("{at}: notes.{base} missing"));
+        }
+        if l.title_tr.get(base).is_none_or(|t| t.is_empty()) {
+            out.push(format!("{at}: title.{base} missing"));
+        }
+    }
+    let keys = l.notes.keys().chain(l.title_tr.keys());
+    for k in keys.filter(|k| !bases.contains(&k.as_str())) {
+        out.push(format!("{at}: unexpected language `{k}` in a title or notes"));
+    }
+    let items = l.dialogue.iter().map(|i| ("dialogue", i)).chain(l.ex1.iter().map(|i| ("ex1", i)));
+    for (part, it) in items.chain(l.ex2.iter().map(|i| ("ex2", i))) {
+        let s = &it.text;
+        if s.is_empty() {
+            out.push(format!("{at}: empty sentence in {part}"));
+        }
+        for &base in bases {
+            if it.tr.get(base).is_none_or(|t| t.is_empty()) {
+                out.push(format!("{at}: {part} `{s}` has no {base}"));
+            }
+        }
+        for k in it.tr.keys().filter(|k| !bases.contains(&k.as_str())) {
+            out.push(format!("{at}: {part} `{s}` has an unexpected line `{k}:`"));
+        }
+        if part != "ex2" && s.contains(['[', ']']) {
+            out.push(format!("{at}: {part} `{s}` has [brackets], which only ex2 uses"));
+        }
+        if part == "ex2" && (it.blanks().is_empty() || s.matches('[').count() != s.matches(']').count()) {
+            out.push(format!("{at}: ex2 `{s}` needs balanced [blanks]"));
+        }
+        let needs_pron = lang == "zh" || (lang == "la" && part == "dialogue");
+        if needs_pron && it.pron.is_empty() {
+            out.push(format!("{at}: {part} `{s}` has no pron:"));
+        }
+    }
+    out
+}
+
 fn write_items(out: &mut String, header: &str, items: &[Item]) {
     if items.is_empty() {
         return;
@@ -272,40 +328,39 @@ mod tests {
         assert!(err.starts_with("line 2"), "{err}");
     }
 
-    /// Every built-in course parses, sits in its level's planned lesson
-    /// numbers, and is complete for each base language (Italian, English,
-    /// Spanish; the Spanish course itself needs no Spanish translation).
+    /// Every built-in course parses and passes `builtin_problems`.
     #[test]
     fn builtin_courses_are_complete() {
         let (courses, problems) = crate::store::builtin_courses();
         assert!(problems.is_empty(), "{problems:?}");
         let langs: Vec<&str> = courses.iter().map(|c| c.lang.as_str()).collect();
-        assert_eq!(langs, ["es", "fr", "de", "pt", "zh", "la", "vi"]);
-        for c in &courses {
-            let code = &c.lang;
-            assert!(c.lessons.len() >= 13, "{code}: {} lessons", c.lessons.len());
-            for l in &c.lessons {
-                let at = format!("{code} lesson {}", l.number);
-                let (first, last) = l.level.plan();
-                assert!(
-                    (first..=last).contains(&l.number),
-                    "{at}: {} lessons are numbered {first}–{last}",
-                    l.level.name()
-                );
-                assert!(!l.title.is_empty() && !l.dialogue.is_empty(), "{at}: empty");
-                assert!(!l.ex1.is_empty() && !l.ex2.is_empty(), "{at}: exercises missing");
-                let bases: &[&str] = if code == "es" { &["it", "en"] } else { &["it", "en", "es"] };
-                for &base in bases {
-                    assert!(l.notes.contains_key(base), "{at}: notes.{base} missing");
-                    assert!(l.title_tr.contains_key(base), "{at}: title.{base} missing");
-                    for it in l.dialogue.iter().chain(&l.ex1).chain(&l.ex2) {
-                        assert!(it.tr.contains_key(base), "{at}: `{}` has no {base}", it.text);
-                    }
-                }
-                for it in &l.ex2 {
-                    assert!(!it.blanks().is_empty(), "{at}: ex2 `{}` has no [blank]", it.text);
-                }
-            }
+        assert_eq!(langs, ["es", "fr", "de", "nl", "pt", "zh", "la", "vi"]);
+        let problems: Vec<String> = courses
+            .iter()
+            .flat_map(|c| c.lessons.iter().flat_map(|l| builtin_problems(&c.lang, l)))
+            .collect();
+        assert!(
+            problems.is_empty(),
+            "{} problems, first: {:?}",
+            problems.len(),
+            &problems[..problems.len().min(20)]
+        );
+    }
+
+    #[test]
+    fn problems_catch_gaps() {
+        let mut c = parse_course(SAMPLE, "t").unwrap();
+        let l = &mut c.lessons[1];
+        let p = builtin_problems("es", l);
+        assert!(p.iter().any(|p| p.contains("A2 lessons are numbered 26–50")), "{p:?}");
+        assert!(p.iter().any(|p| p.contains("notes.en missing")), "{p:?}");
+        l.number = 26;
+        l.notes.insert("en".into(), "1. A note".into());
+        l.title_tr.insert("en".into(), "Hi".into());
+        for it in l.dialogue.iter_mut().chain(&mut l.ex1).chain(&mut l.ex2) {
+            it.tr.insert("en".into(), "x".into());
         }
+        assert_eq!(builtin_problems("es", l), Vec::<String>::new());
+        assert!(builtin_problems("zh", l).iter().any(|p| p.contains("ex1 `Bien.` has no pron:")));
     }
 }

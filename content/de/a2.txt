@@ -1,0 +1,138 @@
+course: de
+
+== 26 A2
+title: Letztes Wochenende
+title.it: Lo scorso fine settimana
+title.en: Last weekend
+title.es: El fin de semana pasado
+
+dialogue:
+- Hallo, Giulia! Wie war dein Wochenende?
+  it: Ciao, Giulia! Com'è andato (come era) il tuo fine settimana?
+  en: Hi, Giulia! How was your weekend?
+  es: ¡Hola, Giulia! ¿Qué tal tu fin de semana (cómo fue tu fin de semana)?
+  pron: Wochenende = vòhen-ènde
+- Sehr schön! Am Samstag habe ich die Elbphilharmonie besucht, und am Sonntag bin ich mit Frau Becker zum Fischmarkt gegangen.
+  it: Molto bello! Sabato (al sabato) ho visitato la Elbphilharmonie e domenica sono andata al mercato del pesce con la signora Becker.
+  en: Really nice! On Saturday I visited the Elbphilharmonie, and on Sunday I went (am gone) to the fish market with Mrs Becker.
+  es: ¡Muy bien (muy bonito)! El sábado visité la Elbphilharmonie y el domingo fui (soy ida) al mercado de pescado con la señora Becker.
+  pron: Elbphilharmonie = èlp-filarmonì; gegangen = ghegàngen
+- Mit deiner Nachbarin? So früh am Morgen?
+  it: Con la tua vicina? Così presto la mattina?
+  en: With your neighbour? That early in the morning?
+  es: ¿Con tu vecina? ¿Tan temprano por la mañana?
+  pron: früh = frü (ü = la u francese)
+- Ja! Sie hat mir ein Fischbrötchen gekauft. Und du, was hast du gemacht?
+  it: Sì! Mi ha comprato un panino col pesce. E tu, che cosa hai fatto?
+  en: Yes! She bought me a fish roll. And you, what did you do (what have you done)?
+  es: ¡Sí! Me compró un bocadillo de pescado. Y tú, ¿qué hiciste (qué has hecho)?
+  pron: Fischbrötchen = fish-bröt-hen; gekauft = ghekàuft
+- Ich bin mit meiner Schwester Mia an die Ostsee gefahren. Wir sind gestern Abend zurückgekommen.
+  it: Sono andato sul Baltico (al mare dell'Est) con mia sorella Mia. Siamo tornati ieri sera.
+  en: I went (am travelled) to the Baltic (East Sea) with my sister Mia. We got back yesterday evening.
+  es: Fui (soy viajado) al Báltico (mar del Este) con mi hermana Mia. Volvimos ayer por la noche.
+  pron: Schwester = shvèster; zurückgekommen = tsurük-ghekòmmen
+- Du hast Glück! Ich habe das Meer in Deutschland noch nie gesehen.
+  it: Sei fortunato (tu hai fortuna)! Non ho ancora mai visto il mare in Germania.
+  en: You're lucky (you have luck)! I've never seen the sea in Germany yet.
+  es: ¡Qué suerte tienes (tú tienes suerte)! Todavía no he visto nunca el mar en Alemania.
+  pron: Glück = glük; Deutschland = dòitshlant
+- Dann fahren wir nächsten Monat zusammen nach Sylt. Mia mietet ein Auto.
+  it: Allora il mese prossimo andiamo insieme a Sylt. Mia noleggia una macchina.
+  en: Then we'll go (we go) to Sylt together next month. Mia is renting a car.
+  es: Entonces el mes que viene vamos juntos a Sylt. Mia alquila un coche.
+  pron: nächsten = nèhsten; Sylt = silt (s dolce come in "rosa")
+- Sehr gern! Ich bringe ein Tiramisu mit.
+  it: Molto volentieri! Porto io un tiramisù (porto con).
+  en: I'd love to (very gladly)! I'll bring (I bring along) a tiramisu.
+  es: ¡Con mucho gusto (muy de buena gana)! Yo llevo un tiramisú (llevo con).
+
+notes.it:
+1. Il Perfekt si forma con haben o sein + participio (besucht, gekauft, gemacht,
+   gesehen). I verbi di movimento prendono sein (bin gegangen, bin gefahren, sind
+   zurückgekommen), come in italiano; a differenza dell'italiano, però, il
+   participio non si accorda mai e va in fondo alla frase.
+2. Per i progetti il tedesco usa spesso il presente con un'indicazione di tempo:
+   nächsten Monat fahren wir nach Sylt. Il futuro con werden esiste, ma nel
+   parlato serve molto meno.
+3. Verbi separabili: mitbringen (portare con sé), zurückkommen (tornare). Al
+   presente la particella va in fondo (ich bringe ein Tiramisu mit); nel
+   participio ge- si inserisce in mezzo (zurückgekommen).
+4. Falsi amici: der See è il lago, die See è il mare (die Ostsee, il Baltico); il
+   mare in generale è das Meer. Glück haben vuol dire "avere fortuna", ma das
+   Glück è anche la felicità.
+5. Il Fischmarkt di Amburgo apre la domenica all'alba ed è un rito per nottambuli
+   e mattinieri. La Elbphilharmonie è la sala da concerti sul porto, nel
+   quartiere HafenCity.
+notes.en:
+1. The Perfekt uses haben or sein + past participle (besucht, gekauft, gemacht,
+   gesehen). Verbs of movement take sein (bin gegangen, bin gefahren, sind
+   zurückgekommen). The participle never changes and goes to the end of the
+   sentence.
+2. For plans German often uses the present tense with a time phrase: nächsten
+   Monat fahren wir nach Sylt. The future with werden exists, but in speech it
+   is needed far less.
+3. Separable verbs: mitbringen (to bring along), zurückkommen (to come back). In
+   the present the particle goes to the end (ich bringe ein Tiramisu mit); in the
+   participle ge- slips into the middle (zurückgekommen).
+4. Der See is a lake, die See is the sea (die Ostsee, the Baltic); the general
+   word for sea is das Meer. Glück haben means "to be lucky", but das Glück also
+   means happiness.
+5. Hamburg's Fischmarkt opens at dawn on Sundays and is a ritual for night owls
+   and early risers alike. The Elbphilharmonie is the concert hall on the
+   harbour, in the HafenCity district.
+notes.es:
+1. El Perfekt se forma con haben o sein + participio (besucht, gekauft, gemacht,
+   gesehen). Los verbos de movimiento llevan sein (bin gegangen, bin gefahren,
+   sind zurückgekommen), algo que el español no tiene, ya que siempre usamos
+   haber. El participio no concuerda nunca y va al final de la frase. En la
+   lengua hablada el Perfekt sirve tanto para "he visitado" como para "visité".
+2. Para los planes el alemán usa a menudo el presente con una expresión de
+   tiempo, igual que nosotros: nächsten Monat fahren wir nach Sylt (el mes que
+   viene vamos a Sylt). El futuro con werden existe, pero en la lengua hablada
+   se usa mucho menos.
+3. Verbos separables: mitbringen (llevar consigo), zurückkommen (volver). En
+   presente la partícula va al final (ich bringe ein Tiramisu mit); en el
+   participio, ge- se mete en medio (zurückgekommen).
+4. Falsos amigos: der See es el lago, die See es el mar (die Ostsee, el
+   Báltico); el mar en general es das Meer. Glück haben significa "tener
+   suerte", pero das Glück es también la felicidad.
+5. El Fischmarkt de Hamburgo abre los domingos al amanecer y es un ritual tanto
+   para trasnochadores como para madrugadores. La Elbphilharmonie es la sala de
+   conciertos del puerto, en el barrio de HafenCity.
+
+ex1:
+- Am Sonntag bin ich zum Fischmarkt gegangen.
+  it: Domenica sono andato al mercato del pesce.
+  en: On Sunday I went to the fish market.
+  es: El domingo fui al mercado de pescado.
+- Wir haben ein Auto gemietet.
+  it: Abbiamo noleggiato una macchina.
+  en: We rented a car.
+  es: Hemos alquilado un coche.
+- Ich habe das Meer noch nie gesehen.
+  it: Non ho mai visto il mare.
+  en: I've never seen the sea.
+  es: Nunca he visto el mar.
+- Was hast du am Wochenende gemacht?
+  it: Che cosa hai fatto nel fine settimana?
+  en: What did you do at the weekend?
+  es: ¿Qué hiciste el fin de semana?
+
+ex2:
+- Ich [bin] an die Ostsee [gefahren].
+  it: Sono andata sul Baltico.
+  en: I went to the Baltic.
+  es: Fui al Báltico.
+- Sie hat mir ein Fischbrötchen [gekauft].
+  it: Mi ha comprato un panino col pesce.
+  en: She bought me a fish roll.
+  es: Me compró un bocadillo de pescado.
+- Wir sind gestern Abend [zurückgekommen].
+  it: Siamo tornati ieri sera.
+  en: We got back yesterday evening.
+  es: Volvimos ayer por la noche.
+- Ich bringe einen Kuchen [mit].
+  it: Porto una torta.
+  en: I'll bring a cake.
+  es: Llevo una tarta.

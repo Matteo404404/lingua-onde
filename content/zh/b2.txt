@@ -1,0 +1,157 @@
+course: zh
+
+== 76 B2
+title: 去还是留？
+title.it: Partire o restare?
+title.en: Go or stay?
+title.es: ¿Irse o quedarse?
+
+dialogue:
+- 马可，上海有家公司要我去工作，工资还挺高的，可是我已经考上了北京的研究生，真是左右为难。
+  pron: Mǎkě, Shànghǎi yǒu jiā gōngsī yào wǒ qù gōngzuò, gōngzī hái tǐng gāo de, kěshì wǒ yǐjīng kǎoshàngle Běijīng de yánjiūshēng, zhēn shì zuǒyòu wéinán.
+  it: Marco, un'azienda di Shanghai mi vuole assumere e lo stipendio è anche bello alto, però ho già passato l'esame per la magistrale a Pechino. Non so proprio che pesci prendere.
+  en: Marco, a company in Shanghai wants to hire me, and the pay is pretty good too, but I've already got into a master's programme in Beijing. I'm really torn.
+  es: Marco, una empresa de Shanghái quiere contratarme, y el sueldo es bastante alto, pero ya he aprobado el examen del máster en Pekín. De verdad que no sé qué hacer.
+- 这有什么好犹豫的？机会难得，换了我，早就答应了。
+  pron: Zhè yǒu shénme hǎo yóuyù de? Jīhuì nándé, huànle wǒ, zǎo jiù dāying le.
+  it: E che c'è da esitare? Occasioni così sono rare: io al posto tuo avrei accettato da un pezzo.
+  en: What's there to hesitate about? Chances like this are rare. If I were you, I'd have said yes long ago.
+  es: ¿Y qué hay que pensar? Oportunidades así no abundan: yo, en tu lugar, habría aceptado hace tiempo.
+- 你说得倒轻松。工作以后还能找，可读研究生的机会错过了就没了。
+  pron: Nǐ shuō de dào qīngsōng. Gōngzuò yǐhòu hái néng zhǎo, kě dú yánjiūshēng de jīhuì cuòguòle jiù méi le.
+  it: Fai presto a dirlo, tu. Un lavoro lo posso trovare anche dopo, ma l'occasione di fare la magistrale, se la perdi, è persa.
+  en: That's easy for you to say. I can always find a job later, but if I miss the chance to do a master's, it's gone.
+  es: Qué fácil es decirlo. Un trabajo puedo encontrarlo más adelante, pero la oportunidad de hacer el máster, si la pierdes, se acabó.
+- 话是这么说，可是你不是一直说学校里学的东西太理论化，不如在实践中学吗？
+  pron: Huà shì zhème shuō, kěshì nǐ bú shì yìzhí shuō xuéxiào li xué de dōngxi tài lǐlùnhuà, bùrú zài shíjiàn zhōng xué ma?
+  it: Sarà anche così, ma non sei sempre tu a dire che all'università si studiano cose troppo teoriche e che è meglio imparare sul campo?
+  en: That may be so, but aren't you the one who always says what you learn at university is too theoretical and it's better to learn by doing?
+  es: Será así, pero ¿no eres tú la que siempre dice que en la universidad se estudian cosas demasiado teóricas y que es mejor aprender sobre el terreno?
+- 那是我随便说说的，你别断章取义嘛。再说，我父母都在北京，我一走，谁照顾他们？
+  pron: Nà shì wǒ suíbiàn shuōshuo de, nǐ bié duànzhāng-qǔyì ma. Zàishuō, wǒ fùmǔ dōu zài Běijīng, wǒ yì zǒu, shéi zhàogù tāmen?
+  it: Lo dicevo tanto per dire, non prendere le mie parole fuori contesto. E poi i miei genitori sono tutti e due a Pechino: se me ne vado, chi si occupa di loro?
+  en: I was just saying that; don't take my words out of context. Besides, both my parents are in Beijing. If I leave, who'll look after them?
+  es: Lo decía por decir; no saques mis palabras de contexto. Además, mis padres están los dos en Pekín: si me voy, ¿quién los cuida?
+- 北京到上海坐高铁才四个多小时，想家了周末就能回来。你父母要是知道你为了他们放弃这个机会，反而会过意不去。
+  pron: Běijīng dào Shànghǎi zuò gāotiě cái sì ge duō xiǎoshí, xiǎng jiā le zhōumò jiù néng huílai. Nǐ fùmǔ yàoshi zhīdao nǐ wèile tāmen fàngqì zhège jīhuì, fǎn'ér huì guòyìbúqù.
+  it: Da Pechino a Shanghai, col treno ad alta velocità, ci vogliono poco più di quattro ore: se ti manca casa, torni nel fine settimana. E se i tuoi sapessero che hai rinunciato a questa occasione per loro, sarebbero loro a sentirsi in colpa.
+  en: Beijing to Shanghai is only just over four hours by high-speed train; if you get homesick, you can come back at the weekend. And if your parents knew you'd given up this chance for them, they'd be the ones to feel bad.
+  es: De Pekín a Shanghái, en tren de alta velocidad, son poco más de cuatro horas: si echas de menos tu casa, vuelves el fin de semana. Y si tus padres supieran que has renunciado a esta oportunidad por ellos, serían ellos los que se sentirían culpables.
+- 也有道理。可万一我去了上海，发现不适合自己，那不是得不偿失吗？
+  pron: Yě yǒu dàolǐ. Kě wànyī wǒ qùle Shànghǎi, fāxiàn bú shìhé zìjǐ, nà bú shì débùchángshī ma?
+  it: Non hai tutti i torti. Ma se poi vado a Shanghai e scopro che non fa per me? Non ci perderei più di quanto ci guadagno?
+  en: You have a point. But what if I go to Shanghai and find it isn't right for me? Wouldn't I lose more than I gain?
+  es: No te falta razón. Pero ¿y si me voy a Shanghái y descubro que no es para mí? ¿No saldría perdiendo más de lo que gano?
+- 你这样瞻前顾后，什么都做不成。不如先问问学校能不能保留一年入学资格，先去上海试试，这样一举两得。
+  pron: Nǐ zhèyàng zhānqián-gùhòu, shénme dōu zuò bu chéng. Bùrú xiān wènwen xuéxiào néng bu néng bǎoliú yì nián rùxué zīgé, xiān qù Shànghǎi shìshi, zhèyàng yìjǔ-liǎngdé.
+  it: Se continui a farti tutti questi scrupoli, non combinerai mai niente. Perché non chiedi all'università se ti tengono il posto per un anno, e intanto provi a Shanghai? Così prendi due piccioni con una fava.
+  en: If you keep weighing every pro and con like this, you'll never get anything done. Why not ask the university whether they can defer your place for a year, and try Shanghai in the meantime? That way you kill two birds with one stone.
+  es: Si le das tantas vueltas a todo, no vas a hacer nada. ¿Por qué no preguntas en la universidad si te pueden guardar la plaza un año y, mientras tanto, pruebas en Shanghái? Así matas dos pájaros de un tiro.
+- 一举两得？你想得太美了吧。不过……试试也无妨。
+  pron: Yìjǔ-liǎngdé? Nǐ xiǎng de tài měi le ba. Búguò…… shìshi yě wúfáng.
+  it: Due piccioni con una fava? Mi sa che ti fai troppe illusioni. Però… tentar non nuoce.
+  en: Two birds with one stone? You're being far too optimistic. Still… there's no harm in trying.
+  es: ¿Dos pájaros de un tiro? Me parece que te haces demasiadas ilusiones. Aunque… por probar no se pierde nada.
+
+notes.it:
+1. Tre 成语 per chi deve scegliere. 左右为难 "in difficoltà a destra e a
+   sinistra" vuol dire essere combattuti tra due alternative; 一举两得
+   "un gesto, due guadagni" è il nostro "prendere due piccioni con una
+   fava"; 得不偿失 "il guadagno non ripaga la perdita".
+2. 断章取义 "tagliare un passo e prenderne il senso" significa citare fuori
+   contesto; 瞻前顾后 "guardare avanti e voltarsi indietro" descrive chi
+   esita troppo. In una discussione un 成语 ben piazzato chiude il punto
+   con autorità, un po' come un proverbio da noi.
+3. Formule per ribattere. 话是这么说，可是…… "sarà anche così, però…";
+   你说得倒轻松 "fai presto a dirlo", dove 倒 sottolinea il contrasto;
+   也有道理 "anche questo è vero"; la domanda retorica 这有什么好犹豫的？
+   "che c'è da esitare?".
+4. 换了我 "se fossi in te", alla lettera "cambiato in me"; 万一 "nel caso
+   (malaugurato) che"; 反而 "al contrario, invece"; 不如 "tanto vale, è
+   meglio". 过意不去 è il disagio di chi si sente in debito con qualcuno.
+5. 考上研究生 vuol dire aver superato 考研, l'esame nazionale di ammissione
+   alla magistrale, molto selettivo. 高铁, il treno ad alta velocità,
+   collega Pechino e Shanghai in poco più di quattro ore.
+notes.en:
+1. Three 成语 for anyone facing a choice. 左右为难 "in trouble left and
+   right" means being torn between two options; 一举两得 "one move, two
+   gains" is "killing two birds with one stone"; 得不偿失 "the gain does
+   not make up for the loss".
+2. 断章取义 "cut out a passage and take its meaning" means quoting out of
+   context; 瞻前顾后 "look ahead and glance back" describes someone who
+   hesitates too much. In an argument a well-placed 成语 closes a point
+   with authority, much like a proverb in English.
+3. Ways to push back. 话是这么说，可是…… "that may be so, but…";
+   你说得倒轻松 "that's easy for you to say", where 倒 stresses the
+   contrast; 也有道理 "that's true too"; the rhetorical question
+   这有什么好犹豫的？ "what's there to hesitate about?".
+4. 换了我 "if I were you", literally "changed to me"; 万一 "in the
+   (unlucky) case that"; 反而 "on the contrary, instead"; 不如 "might as
+   well, better to". 过意不去 is the discomfort of feeling indebted to
+   someone.
+5. 考上研究生 means having passed 考研, the very competitive national
+   entrance exam for master's programmes. 高铁, the high-speed train,
+   links Beijing and Shanghai in just over four hours.
+notes.es:
+1. Tres 成语 para quien tiene que elegir. 左右为难 "en apuros a derecha e
+   izquierda" significa estar dividido entre dos opciones; 一举两得 "un gesto,
+   dos ganancias" es nuestro "matar dos pájaros de un tiro"; 得不偿失 "la
+   ganancia no compensa la pérdida", es decir, salir perdiendo.
+2. 断章取义 "cortar un pasaje y tomar su sentido" significa citar fuera de
+   contexto; 瞻前顾后 "mirar adelante y volverse atrás" describe a quien duda
+   demasiado. En una discusión, un 成语 bien colocado cierra un argumento con
+   autoridad, un poco como un refrán entre nosotros.
+3. Fórmulas para replicar. 话是这么说，可是…… "será así, pero…"; 你说得倒轻松
+   "qué fácil es decirlo", donde 倒 subraya el contraste; 也有道理 "eso
+   también es verdad"; la pregunta retórica 这有什么好犹豫的？ "¿y qué hay que
+   pensar?".
+4. 换了我 "yo en tu lugar", literalmente "cambiado a mí"; 万一 "en el caso
+   (desgraciado) de que"; 反而 "al contrario, en cambio"; 不如 "más vale,
+   mejor". 过意不去 es el malestar de quien se siente en deuda con alguien.
+5. 考上研究生 significa haber aprobado el 考研, el examen nacional de acceso
+   al máster, muy selectivo. El 高铁, el tren de alta velocidad, une Pekín y
+   Shanghái en poco más de cuatro horas.
+
+ex1:
+- 机会难得，你别犹豫了。
+  pron: Jīhuì nándé, nǐ bié yóuyù le.
+  it: Occasioni così sono rare, smettila di esitare.
+  en: Chances like this are rare, stop hesitating.
+  es: Oportunidades así no abundan, deja de dudar.
+- 话是这么说，可是我还是左右为难。
+  pron: Huà shì zhème shuō, kěshì wǒ háishi zuǒyòu wéinán.
+  it: Sarà anche così, ma resto combattuto.
+  en: That may be so, but I'm still torn.
+  es: Será así, pero sigo sin saber qué hacer.
+- 为了省钱放弃健康，真是得不偿失。
+  pron: Wèile shěng qián fàngqì jiànkāng, zhēn shì débùchángshī.
+  it: Rinunciare alla salute per risparmiare è davvero un pessimo affare.
+  en: Sacrificing your health to save money really isn't worth it.
+  es: Sacrificar la salud para ahorrar dinero es salir perdiendo.
+- 骑自行车上班既锻炼身体又省钱，一举两得。
+  pron: Qí zìxíngchē shàngbān jì duànliàn shēntǐ yòu shěng qián, yìjǔ-liǎngdé.
+  it: Andare al lavoro in bici tiene in forma e fa risparmiare: due piccioni con una fava.
+  en: Cycling to work keeps you fit and saves money: two birds with one stone.
+  es: Ir al trabajo en bici te mantiene en forma y te ahorra dinero: dos pájaros de un tiro.
+
+ex2:
+- 你这样[瞻前顾后]，什么都做不成。
+  pron: Nǐ zhèyàng zhānqián-gùhòu, shénme dōu zuò bu chéng.
+  it: Se esiti così, non combinerai mai niente.
+  en: If you hesitate like this, you'll never get anything done.
+  es: Si dudas tanto, no vas a hacer nada.
+- 你说得[倒]轻松！
+  pron: Nǐ shuō de dào qīngsōng!
+  it: Fai presto a dirlo!
+  en: That's easy for you to say!
+  es: ¡Qué fácil es decirlo!
+- 我只是随便说说，你别[断章取义]。
+  pron: Wǒ zhǐshì suíbiàn shuōshuo, nǐ bié duànzhāng-qǔyì.
+  it: L'ho detto così per dire, non prendere le mie parole fuori contesto.
+  en: I only said it in passing, don't take it out of context.
+  es: Lo he dicho por decir, no lo saques de contexto.
+- [万一]找不到工作，你会不会[后悔]？
+  pron: Wànyī zhǎo bu dào gōngzuò, nǐ huì bu huì hòuhuǐ?
+  it: E se poi non trovi lavoro, te ne pentirai?
+  en: And if you can't find a job, will you regret it?
+  es: ¿Y si no encuentras trabajo, te arrepentirás?

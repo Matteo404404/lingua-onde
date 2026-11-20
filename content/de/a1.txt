@@ -1,4 +1,393 @@
 course: de
+name: German – from first words to mastery
+name.it: Tedesco – dalle prime parole alla padronanza
+name.en: German – from first words to mastery
+name.es: Alemán – de las primeras palabras al dominio
+
+== 1 A1
+title: Hallo!
+title.it: Ciao!
+title.en: Hello!
+title.es: ¡Hola!
+
+dialogue:
+- Hallo! Ich heiße Jonas. Und du?
+  it: Ciao! Mi chiamo Jonas. E tu?
+  en: Hi! My name is (I am called) Jonas. And you?
+  es: ¡Hola! Me llamo Jonas. ¿Y tú?
+  pron: heiße = hàisse
+- Ich bin Giulia. Ich komme aus Italien.
+  it: Sono Giulia. Vengo dall'Italia (vengo fuori da Italia).
+  en: I'm Giulia. I come from Italy (out of Italy).
+  es: Soy Giulia. Vengo de Italia (vengo fuera de Italia).
+  pron: Italien = itàlien
+- Freut mich, Giulia! Wohnst du hier in Hamburg?
+  it: Piacere (rallegra me), Giulia! Abiti qui ad Amburgo?
+  en: Nice to meet you (pleases me), Giulia! Do you live here in Hamburg?
+  es: ¡Encantado (alegra a mí), Giulia! ¿Vives aquí en Hamburgo?
+  pron: Freut = fròit; wohnst = vònst
+- Ja, seit Montag. Ich wohne in Altona.
+  it: Sì, da lunedì. Abito ad Altona.
+  en: Yes, since Monday. I live in Altona.
+  es: Sí, desde el lunes. Vivo en Altona.
+  pron: seit = sàit (s dolce come in "rosa"); wohne = vòne
+- Super! Möchtest du einen Kaffee?
+  it: Fantastico! Vorresti un caffè?
+  en: Great! Would you like a coffee?
+  es: ¡Genial! ¿Te apetece un café (querrías un café)?
+  pron: Möchtest = möhtest (ö = una e con le labbra tonde)
+- Ja, gern. Danke!
+  it: Sì, volentieri. Grazie!
+  en: Yes, I'd love one (gladly). Thanks!
+  es: Sí, con mucho gusto (de buena gana). ¡Gracias!
+- Zwei Kaffee, bitte!
+  it: Due caffè, per favore!
+  en: Two coffees, please!
+  es: ¡Dos cafés, por favor!
+  pron: Zwei = tsvài
+
+notes.it:
+1. Ich heiße (mi chiamo) viene da heißen, che non è riflessivo: non serve un
+   "mi". La lettera ß si legge come una s doppia.
+2. Du e Sie: du si usa con amici, coetanei e bambini; con gli sconosciuti si usa
+   Sie, sempre con la maiuscola. Jonas e Giulia sono giovani, quindi si danno
+   subito del du.
+3. In tedesco tutti i sostantivi si scrivono con la maiuscola: Kaffee, Montag,
+   Italien.
+4. Pronuncia: ei si legge "ai" (heiße, seit, zwei), eu si legge "oi" (freut), w
+   si legge "v" (wohnen), z si legge "ts" (zwei).
+5. Seit Montag (da lunedì): come in italiano, seit con il presente indica
+   qualcosa che dura ancora. Al bar si ordina spesso zwei Kaffee, senza plurale.
+notes.en:
+1. Ich heiße (my name is) comes from heißen, "to be called". The letter ß is
+   read like a double s.
+2. Du and Sie: du is for friends, people your age and children; with strangers
+   you use Sie, always with a capital letter. Jonas and Giulia are young, so
+   they use du straight away.
+3. In German every noun has a capital letter: Kaffee, Montag, Italien.
+4. Pronunciation: ei sounds like "eye" (heiße, seit, zwei), eu like "oy"
+   (freut), w like English v (wohnen), z like "ts" (zwei).
+5. Seit Montag (since Monday): German uses the present tense with seit for
+   something still going on, where English needs the present perfect. When
+   ordering, people often say zwei Kaffee, with no plural ending.
+notes.es:
+1. Ich heiße (me llamo) viene de heißen, que no es reflexivo: no hace falta
+   ningún "me". La letra ß se lee como una s doble, siempre sorda.
+2. Du y Sie: du se usa con amigos, gente de tu edad y niños; con los
+   desconocidos se usa Sie (usted), siempre con mayúscula. Jonas y Giulia son
+   jóvenes, así que se tutean desde el principio.
+3. En alemán todos los sustantivos se escriben con mayúscula: Kaffee, Montag,
+   Italien.
+4. Pronunciación: ei se lee "ai" (heiße, seit, zwei), eu se lee "oi" (freut), w
+   se lee como una v francesa, apoyando los dientes en el labio inferior
+   (wohnen), y z se lee "ts" (zwei).
+5. Seit Montag (desde el lunes): como en español, seit con el presente indica
+   algo que todavía dura. En el bar se pide a menudo zwei Kaffee, sin plural.
+
+ex1:
+- Ich heiße Mia.
+  it: Mi chiamo Mia.
+  en: My name is Mia.
+  es: Me llamo Mia.
+- Wohnst du in Hamburg?
+  it: Abiti ad Amburgo?
+  en: Do you live in Hamburg?
+  es: ¿Vives en Hamburgo?
+- Ich komme aus Bologna.
+  it: Vengo da Bologna.
+  en: I come from Bologna.
+  es: Vengo de Bolonia.
+- Einen Kaffee, bitte!
+  it: Un caffè, per favore!
+  en: A coffee, please!
+  es: ¡Un café, por favor!
+
+ex2:
+- Ich [heiße] Giulia.
+  it: Mi chiamo Giulia.
+  en: My name is Giulia.
+  es: Me llamo Giulia.
+- [Freut] mich!
+  it: Piacere!
+  en: Nice to meet you!
+  es: ¡Mucho gusto!
+- Ich wohne [seit] Montag in Hamburg.
+  it: Abito ad Amburgo da lunedì.
+  en: I've lived in Hamburg since Monday.
+  es: Vivo en Hamburgo desde el lunes.
+- Zwei Kaffee, [bitte].
+  it: Due caffè, per favore.
+  en: Two coffees, please.
+  es: Dos cafés, por favor.
+
+== 2 A1
+title: Die neue Nachbarin
+title.it: La nuova vicina
+title.en: The new neighbour
+title.es: La nueva vecina
+
+dialogue:
+- Guten Tag! Ich heiße Giulia. Ich wohne im dritten Stock.
+  it: Buongiorno (buon giorno)! Mi chiamo Giulia. Abito al terzo piano.
+  en: Hello (good day)! My name is Giulia. I live on the third floor.
+  es: ¡Buenos días (buen día)! Me llamo Giulia. Vivo en el tercer piso.
+  pron: Stock = shtok (st a inizio parola si legge "sht")
+- Ah, die neue Nachbarin! Ich bin Frau Becker. Sind Sie Studentin?
+  it: Ah, la nuova vicina! Sono la signora Becker. Lei è studentessa (siete voi studentessa)?
+  en: Ah, the new neighbour! I'm Mrs Becker. Are you a student (are you student)?
+  es: ¡Ah, la nueva vecina! Soy la señora Becker. ¿Es usted estudiante (son ustedes estudiante)?
+  pron: neue = nòie; Nachbarin = nàhbarin (ch come in "Bach"); Studentin = shtudèntin
+- Nein, ich arbeite hier. Ich bin Ingenieurin.
+  it: No, lavoro qui. Sono ingegnere (ingegnera).
+  en: No, I work here. I'm an engineer (I am engineer).
+  es: No, trabajo aquí. Soy ingeniera.
+  pron: Ingenieurin = ingenjörin (g come la j francese di "jour")
+- Toll! Gefällt Ihnen das Viertel?
+  it: Ottimo! Le piace (piace a Lei) il quartiere?
+  en: Great! Do you like the neighbourhood (pleases you the quarter)?
+  es: ¡Estupendo! ¿Le gusta el barrio (gusta a usted el barrio)?
+  pron: Viertel = fìrtel (v si legge f)
+- Ja, sehr. Es ist ruhig und grün.
+  it: Sì, molto. È tranquillo e verde.
+  en: Yes, very much. It's quiet and green.
+  es: Sí, mucho. Es tranquilo y verde.
+  pron: ruhig = rùih; grün = grün (ü = la u francese)
+- Und es gibt eine Bäckerei an der Ecke. Die Brötchen sind sehr gut.
+  it: E c'è (esso dà) una panetteria all'angolo. I panini sono molto buoni.
+  en: And there's (it gives) a bakery on the corner. The bread rolls are very good.
+  es: Y hay (ello da) una panadería en la esquina. Los panecillos están muy buenos.
+  pron: Bäckerei = bekeràì; Brötchen = bröt-hen
+- Danke für den Tipp! Einen schönen Tag noch!
+  it: Grazie della dritta! Buona giornata (una bella giornata ancora)!
+  en: Thanks for the tip! Have a nice day (a nice day still)!
+  es: ¡Gracias por el consejo! ¡Que tenga un buen día (un bonito día todavía)!
+  pron: schönen = shönen
+- Danke, gleichfalls!
+  it: Grazie, altrettanto!
+  en: Thanks, you too (likewise)!
+  es: ¡Gracias, igualmente!
+  pron: gleichfalls = glàihfals
+
+notes.it:
+1. Sind Sie Studentin? Con gli sconosciuti si usa Sie (Lei), con il verbo alla
+   terza persona plurale: Sie sind, Sie arbeiten. Frau (signora) e Herr
+   (signore) si usano davanti al cognome.
+2. Es gibt (letteralmente "esso dà") significa "c'è" o "ci sono" e regge
+   l'accusativo: es gibt einen Park, es gibt eine Bäckerei.
+3. Il femminile delle professioni si forma con -in: Nachbar e Nachbarin,
+   Student e Studentin, Ingenieur e Ingenieurin.
+4. Gefällt Ihnen das Viertel? Gefallen funziona come "piacere": la cosa che
+   piace è il soggetto, la persona va al dativo (Ihnen, mir, dir). Das Viertel
+   gefällt mir significa "il quartiere mi piace".
+5. Brötchen (panino) è il diminutivo di Brot (pane): il suffisso -chen rende il
+   nome neutro e spesso aggiunge l'Umlaut. Attenzione: der Tipp è un consiglio
+   o una dritta; la mancia si dice das Trinkgeld. Al saluto Einen schönen Tag
+   noch! si risponde Danke, gleichfalls!
+notes.en:
+1. Sind Sie Studentin? With strangers you use Sie, with the verb in the third
+   person plural: Sie sind, Sie arbeiten. Frau (Mrs) and Herr (Mr) go before the
+   surname.
+2. Es gibt (literally "it gives") means "there is" or "there are" and takes the
+   accusative, as in es gibt einen Park, es gibt eine Bäckerei.
+3. Female job titles add -in: Nachbar and Nachbarin, Student and Studentin,
+   Ingenieur and Ingenieurin.
+4. Gefällt Ihnen das Viertel? With gefallen the thing you like is the subject and
+   the person is in the dative (Ihnen, mir, dir). Das Viertel gefällt mir means
+   "I like the neighbourhood".
+5. Brötchen (bread roll) is the diminutive of Brot (bread): the ending -chen
+   makes the noun neuter and often adds an Umlaut. Der Tipp is a tip in the sense
+   of advice; a tip for a waiter is das Trinkgeld. The answer to Einen schönen
+   Tag noch! is Danke, gleichfalls!
+notes.es:
+1. Sind Sie Studentin? Con los desconocidos se usa Sie (usted), con el verbo en
+   tercera persona del plural: Sie sind, Sie arbeiten. Pasa lo mismo con nuestro
+   "ustedes", solo que en alemán vale también para una sola persona. Frau
+   (señora) y Herr (señor) van delante del apellido.
+2. Es gibt (literalmente "ello da") significa "hay" y rige acusativo: es gibt
+   einen Park, es gibt eine Bäckerei. Igual que "hay", sirve tanto para el
+   singular como para el plural.
+3. El femenino de las profesiones se forma con -in: Nachbar y Nachbarin, Student
+   y Studentin, Ingenieur e Ingenieurin.
+4. Gefällt Ihnen das Viertel? Gefallen funciona exactamente como "gustar": lo
+   que gusta es el sujeto y la persona va en dativo (Ihnen, mir, dir). Das
+   Viertel gefällt mir significa "el barrio me gusta".
+5. Brötchen (panecillo) es el diminutivo de Brot (pan): el sufijo -chen vuelve
+   neutro el sustantivo y a menudo añade la diéresis (Umlaut). Ojo: der Tipp es
+   un consejo o un soplo; la propina se dice das Trinkgeld. Al saludo Einen
+   schönen Tag noch! se responde Danke, gleichfalls! (gracias, igualmente).
+
+ex1:
+- Ich wohne im ersten Stock.
+  it: Abito al primo piano.
+  en: I live on the first floor.
+  es: Vivo en el primer piso.
+- Es gibt ein Café an der Ecke.
+  it: C'è un caffè all'angolo.
+  en: There's a café on the corner.
+  es: Hay un café en la esquina.
+- Sind Sie die neue Nachbarin?
+  it: Lei è la nuova vicina?
+  en: Are you the new neighbour?
+  es: ¿Es usted la nueva vecina?
+- Das Viertel gefällt mir sehr.
+  it: Il quartiere mi piace molto.
+  en: I like the neighbourhood a lot.
+  es: El barrio me gusta mucho.
+
+ex2:
+- Es [gibt] eine Bäckerei im [Viertel].
+  it: C'è una panetteria nel quartiere.
+  en: There's a bakery in the neighbourhood.
+  es: Hay una panadería en el barrio.
+- [Sind] Sie Ingenieurin?
+  it: Lei è ingegnere?
+  en: Are you an engineer?
+  es: ¿Es usted ingeniera?
+- Einen [schönen] Tag noch!
+  it: Buona giornata!
+  en: Have a nice day!
+  es: ¡Que tenga un buen día!
+- Die Brötchen [sind] sehr gut.
+  it: I panini sono molto buoni.
+  en: The bread rolls are very good.
+  es: Los panecillos están muy buenos.
+
+== 3 A1
+title: In der Bäckerei
+title.it: In panetteria
+title.en: At the bakery
+title.es: En la panadería
+
+dialogue:
+- Guten Morgen! Zwei Brötchen und ein Franzbrötchen, bitte.
+  it: Buongiorno (buon mattino)! Due panini e un Franzbrötchen (panino francese), per favore.
+  en: Good morning! Two bread rolls and a Franzbrötchen (French roll), please.
+  es: ¡Buenos días (buena mañana)! Dos panecillos y un Franzbrötchen (panecillo francés), por favor.
+  pron: Franzbrötchen = frànts-bröt-hen
+- Gern. Sonst noch etwas?
+  it: Volentieri. Altro (altrimenti ancora qualcosa)?
+  en: Sure (gladly). Anything else (otherwise still something)?
+  es: Con gusto (de buena gana). ¿Algo más (si no, todavía algo)?
+  pron: Sonst = sonst (s dolce come in "rosa")
+- Nein, danke. Das ist alles. Was kostet das?
+  it: No, grazie. È tutto. Quanto costa (che cosa costa questo)?
+  en: No, thanks. That's all. How much is it (what costs that)?
+  es: No, gracias. Eso es todo. ¿Cuánto es (qué cuesta eso)?
+- Das macht drei Euro zwanzig.
+  it: Fa (questo fa) tre euro e venti.
+  en: That's (that makes) three euros twenty.
+  es: Son (eso hace) tres euros con veinte.
+  pron: Euro = òiro; zwanzig = tsvàntsih
+- Jonas, hast du Kleingeld?
+  it: Jonas, hai degli spiccioli (soldi piccoli)?
+  en: Jonas, do you have any change (small money)?
+  es: Jonas, ¿tienes suelto (dinero pequeño)?
+  pron: Kleingeld = klàin-ghelt
+- Ja, ich habe einen Fünf-Euro-Schein. Hier, bitte.
+  it: Sì, ho una banconota da cinque euro. Ecco (qui, prego).
+  en: Yes, I have a five-euro note. Here you are (here, please).
+  es: Sí, tengo un billete de cinco euros. Aquí tienes (aquí, por favor).
+  pron: Schein = shàin
+- Danke! Morgen lade ich dich zum Kaffee ein.
+  it: Grazie! Domani ti offro il caffè (domani invito io te al caffè dentro).
+  en: Thanks! Tomorrow the coffee's on me (tomorrow invite I you to-the coffee in).
+  es: ¡Gracias! Mañana te invito a un café (mañana invito yo a ti al café dentro).
+  pron: lade ... ein = làde ... àin
+- Abgemacht! Bis morgen!
+  it: Affare fatto (combinato)! A domani (fino domani)!
+  en: Deal (agreed)! See you tomorrow (until tomorrow)!
+  es: ¡Trato hecho (acordado)! ¡Hasta mañana!
+  pron: Abgemacht = àp-ghemaht
+
+notes.it:
+1. Was kostet das? (quanto costa?) e Das macht... (fa...) sono le frasi della
+   cassa. I numeri: eins, zwei, drei, vier, fünf; zwanzig è "venti". Il prezzo
+   3,20 € si legge drei Euro zwanzig.
+2. Einladen (invitare, offrire) è un verbo separabile: la particella ein va in
+   fondo alla frase (ich lade dich ein). Inoltre il verbo coniugato sta sempre al
+   secondo posto: se la frase comincia con Morgen, il soggetto va dopo il verbo
+   (Morgen lade ich...).
+3. Guten Morgen, con la maiuscola, è "buongiorno" (der Morgen, il mattino);
+   morgen, con la minuscola, è "domani". Bis morgen! vuol dire "a domani".
+4. Kleingeld (letteralmente "soldi piccoli") sono gli spiccioli; der Schein è la
+   banconota. Bitte vuol dire "per favore", ma anche "prego" ed "ecco" quando si
+   porge qualcosa.
+5. Il Franzbrötchen è una specialità di Amburgo: una pasta sfogliata con
+   cannella e zucchero. Pronuncia: la finale -ig suona come una "ih" aspirata
+   (zwanzig), sch come "sc" di "scena" (Schein).
+notes.en:
+1. Was kostet das? (how much is it?) and Das macht... (that's...) are the
+   phrases at the till. Numbers: eins, zwei, drei, vier, fünf; zwanzig is
+   "twenty". The price 3,20 € is read drei Euro zwanzig.
+2. Einladen (to invite, to treat) is a separable verb: the particle ein goes to
+   the end (ich lade dich ein). Also, the conjugated verb always comes second:
+   if the sentence starts with Morgen, the subject follows the verb (Morgen lade
+   ich...).
+3. Guten Morgen, with a capital letter, is "good morning" (der Morgen, the
+   morning); morgen, lower case, means "tomorrow". Bis morgen! means "see you
+   tomorrow".
+4. Kleingeld (literally "small money") is change; der Schein is a banknote. Bitte
+   means "please", but also "you're welcome" and "here you are" when handing
+   something over.
+5. The Franzbrötchen is a Hamburg speciality: a flaky pastry with cinnamon and
+   sugar. Pronunciation: final -ig sounds like the "h" in "huge" (zwanzig), and
+   sch like English "sh" (Schein).
+notes.es:
+1. Was kostet das? (¿cuánto cuesta?) y Das macht... (son...) son las frases de
+   la caja. Los números: eins, zwei, drei, vier, fünf; zwanzig es "veinte". El
+   precio 3,20 € se lee drei Euro zwanzig.
+2. Einladen (invitar) es un verbo separable: la partícula ein va al final de la
+   frase (ich lade dich ein). Además, el verbo conjugado va siempre en
+   segunda posición: si la frase empieza por Morgen, el sujeto va detrás del
+   verbo (Morgen lade ich...). Como en español, invitar a alguien a un café
+   significa pagárselo.
+3. Guten Morgen, con mayúscula, es "buenos días" (der Morgen, la mañana);
+   morgen, con minúscula, es "mañana" (el día siguiente), igual que en español
+   una misma palabra sirve para las dos cosas. Bis morgen! significa "¡hasta
+   mañana!".
+4. Kleingeld (literalmente "dinero pequeño") es el suelto; der Schein es el
+   billete. Bitte significa "por favor", pero también "de nada" y "aquí tiene"
+   cuando se da algo.
+5. El Franzbrötchen es una especialidad de Hamburgo: un bollo de hojaldre con
+   canela y azúcar. Pronunciación: la terminación -ig suena como una "j" muy
+   suave pronunciada en la parte delantera de la boca (zwanzig), y sch como la
+   "sh" inglesa (Schein).
+
+ex1:
+- Ein Brötchen, bitte.
+  it: Un panino, per favore.
+  en: A bread roll, please.
+  es: Un panecillo, por favor.
+- Was kostet der Kaffee?
+  it: Quanto costa il caffè?
+  en: How much is the coffee?
+  es: ¿Cuánto cuesta el café?
+- Ich lade dich morgen ein.
+  it: Domani ti offro io.
+  en: Tomorrow it's on me.
+  es: Mañana te invito yo.
+- Hast du einen Zehn-Euro-Schein?
+  it: Hai una banconota da dieci euro?
+  en: Do you have a ten-euro note?
+  es: ¿Tienes un billete de diez euros?
+
+ex2:
+- Das [macht] fünf Euro.
+  it: Fa cinque euro.
+  en: That's five euros.
+  es: Son cinco euros.
+- [Sonst] noch etwas?
+  it: Altro?
+  en: Anything else?
+  es: ¿Algo más?
+- Das ist [alles], danke.
+  it: È tutto, grazie.
+  en: That's all, thanks.
+  es: Eso es todo, gracias.
+- Bis [morgen]!
+  it: A domani!
+  en: See you tomorrow!
+  es: ¡Hasta mañana!
 
 == 4 A1
 title: Im Café

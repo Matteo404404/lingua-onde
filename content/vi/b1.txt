@@ -1,0 +1,165 @@
+course: vi
+
+== 51 B1
+title: Tin vui, tin buồn
+title.it: Buone e cattive notizie
+title.en: Good news, bad news
+title.es: Buenas y malas noticias
+
+dialogue:
+- Anh Luca, sao hôm nay trông anh buồn thế?
+  it: Luca, come mai oggi sei così giù?
+  en: Luca, why do you look so down today?
+  es: Luca, ¿por qué estás tan triste hoy?
+- Hôm qua anh bị công an phạt vì quên đội mũ bảo hiểm.
+  it: Ieri la polizia mi ha fatto la multa perché avevo dimenticato di mettere il casco.
+  en: Yesterday the police fined me because I forgot to wear my helmet.
+  es: Ayer me multó la policía porque se me olvidó ponerme el casco.
+- Thôi, anh đừng buồn nữa. Em có tin vui đây: em được nhận học bổng sang Ý học thạc sĩ!
+  it: Dai, non essere triste. Ho una bella notizia: ho vinto una borsa di studio per fare la magistrale in Italia!
+  en: Come on, cheer up. I've got good news: I've been awarded a scholarship to do a master's in Italy!
+  es: Venga, no estés triste. Tengo una buena noticia: ¡me han dado una beca para hacer un máster en Italia!
+- Tuyệt quá! Em sẽ học ở đâu, Milano hay Bologna?
+  it: Fantastico! Dove studierai, a Milano o a Bologna?
+  en: Fantastic! Where will you study, Milan or Bologna?
+  es: ¡Genial! ¿Dónde vas a estudiar, en Milán o en Bolonia?
+- Em chưa quyết định. Theo anh, thành phố nào tốt hơn?
+  it: Non ho ancora deciso. Secondo te, quale città è meglio?
+  en: I haven't decided yet. In your opinion, which city is better?
+  es: Todavía no lo he decidido. En tu opinión, ¿qué ciudad es mejor?
+- Anh nghĩ là Milano hiện đại hơn và có nhiều việc làm hơn. Nhưng Bologna ấm cúng hơn, còn đồ ăn ở đó thì ngon nhất nước Ý!
+  it: Secondo me Milano è più moderna e offre più lavoro. Però Bologna è più accogliente, e quanto a cibo è la migliore d'Italia!
+  en: I think Milan is more modern and has more jobs. But Bologna is cosier, and as for the food there, it's the best in Italy!
+  es: Creo que Milán es más moderna y tiene más trabajo. Pero Bolonia es más acogedora, ¡y en cuanto a comida es la mejor de Italia!
+- Thế còn tiền thuê nhà? Ở Bologna có đắt bằng ở Milano không?
+  it: E l'affitto? A Bologna è caro come a Milano?
+  en: And what about rent? Is Bologna as expensive as Milan?
+  es: ¿Y el alquiler? ¿En Bolonia es tan caro como en Milán?
+- Không đắt bằng, nhưng cũng không rẻ đâu. Sinh viên ở đó tìm phòng khó lắm.
+  it: Non così caro, ma neanche economico. Lì per gli studenti trovare una stanza è difficilissimo.
+  en: Not as expensive, but not cheap either. Students there find it really hard to get a room.
+  es: No tanto, pero tampoco es barato. Allí a los estudiantes les cuesta mucho encontrar habitación.
+- Thế thì em chọn Bologna. Với em, ăn ngon quan trọng hơn tất cả!
+  it: Allora scelgo Bologna. Per me mangiare bene conta più di tutto!
+  en: Then I'll pick Bologna. For me, good food matters more than anything!
+  es: Entonces elijo Bolonia. ¡Para mí comer bien importa más que nada!
+- Em nói y như người Ý ấy! Nhưng anh nghĩ em nên học nấu phở trước khi đi, vì ở Bologna không ai nấu phở ngon bằng bác Hùng đâu.
+  it: Parli proprio come un italiano! Però secondo me dovresti imparare a cucinare il phở prima di partire, perché a Bologna nessuno lo fa buono come il signor Hùng.
+  en: You sound just like an Italian! But I think you should learn to cook phở before you go, because nobody in Bologna makes it as well as Mr Hùng.
+  es: ¡Hablas igual que un italiano! Pero creo que deberías aprender a cocinar phở antes de irte, porque en Bolonia nadie lo hace tan rico como el señor Hùng.
+
+notes.it:
+1. được e bị davanti a un verbo creano una specie di passivo, ma con un
+   giudizio. được si usa quando al soggetto capita qualcosa di positivo (em
+   được nhận học bổng "ho ricevuto una borsa di studio"), bị quando gli
+   capita qualcosa di sgradito (anh bị công an phạt "sono stato multato
+   dalla polizia"). Chi compie l'azione si mette subito dopo, bị công an
+   phạt.
+2. Il comparativo è aggettivo + hơn (+ secondo termine), Milano hiện đại hơn,
+   nhiều việc làm hơn "più lavoro". L'uguaglianza si esprime con bằng, không
+   đắt bằng "non così caro", không ai nấu phở ngon bằng bác Hùng "nessuno fa
+   il phở buono come Hùng". Il superlativo è aggettivo + nhất, ngon nhất
+   nước Ý.
+3. Per dare un'opinione si dice Theo anh ... "secondo te", Anh nghĩ là ...
+   "penso che", Anh thấy ... "trovo che"; nên dà un consiglio, em nên học
+   nấu phở "dovresti imparare". In Bologna ấm cúng hơn, còn đồ ăn ở đó thì
+   ngon nhất, còn introduce un nuovo argomento e thì lo separa da ciò che se
+   ne dice.
+4. Il lessico astratto è in gran parte sino-vietnamita, cioè letto da
+   caratteri cinesi. học bổng 學俸 "borsa di studio", thạc sĩ 碩士 "master",
+   hiện đại 現代 "moderno", quyết định 決定 "decidere", công an 公安
+   "polizia", bảo hiểm 保險 "protezione". Il mũ bảo hiểm, alla lettera
+   "cappello di protezione", al Sud si chiama nón bảo hiểm.
+5. In moto il casco è obbligatorio dal 2007 e i controlli sono frequenti.
+   Sao ... thế? "come mai?" mostra anche partecipazione. Al Nord si dice thế,
+   thế thì "allora", al Sud vậy, vậy thì. Em nói y như người Ý ấy! "parli
+   proprio come un italiano" scherza su un amore per il cibo che i due paesi
+   condividono.
+notes.en:
+1. được and bị before a verb make a kind of passive, but with a judgement.
+   được is used when something good happens to the subject (em được nhận học
+   bổng "I've been given a scholarship"), bị when something unpleasant does
+   (anh bị công an phạt "I was fined by the police"). The doer comes right
+   after, bị công an phạt.
+2. The comparative is adjective + hơn (+ the other term), Milano hiện đại
+   hơn, nhiều việc làm hơn "more jobs". Equality uses bằng, không đắt bằng
+   "not as expensive", không ai nấu phở ngon bằng bác Hùng "nobody makes phở
+   as good as Mr Hùng". The superlative is adjective + nhất, ngon nhất nước
+   Ý.
+3. To give an opinion, say Theo anh ... "in your view", Anh nghĩ là ... "I
+   think that", Anh thấy ... "I find that"; nên gives advice, em nên học nấu
+   phở "you should learn". In Bologna ấm cúng hơn, còn đồ ăn ở đó thì ngon
+   nhất, còn brings in a new topic and thì separates it from what is said
+   about it.
+4. Abstract vocabulary is largely Sino-Vietnamese, read from Chinese
+   characters. học bổng 學俸 "scholarship", thạc sĩ 碩士 "master's degree",
+   hiện đại 現代 "modern", quyết định 決定 "decide", công an 公安 "police",
+   bảo hiểm 保險 "protection". The mũ bảo hiểm, literally "protection hat",
+   is called nón bảo hiểm in the South.
+5. Motorbike helmets have been compulsory since 2007 and checks are
+   frequent. Sao ... thế? "how come?" also shows concern. The North says
+   thế, thế thì "then", the South vậy, vậy thì. Em nói y như người Ý ấy!
+   "you sound just like an Italian" jokes about a love of food the two
+   countries share.
+notes.es:
+1. được y bị delante de un verbo forman una especie de pasiva, pero con un
+   juicio. được se usa cuando al sujeto le pasa algo bueno (em được nhận học
+   bổng "me han dado una beca"), bị cuando le pasa algo desagradable (anh bị
+   công an phạt "me ha multado la policía"). Quien realiza la acción va
+   justo después, bị công an phạt.
+2. El comparativo es adjetivo + hơn (+ segundo término), Milano hiện đại
+   hơn, nhiều việc làm hơn "más trabajo". La igualdad se expresa con bằng,
+   không đắt bằng "no tan caro", không ai nấu phở ngon bằng bác Hùng "nadie
+   hace el phở tan rico como Hùng". El superlativo es adjetivo + nhất, ngon
+   nhất nước Ý.
+3. Para dar una opinión se dice Theo anh ... "en tu opinión", Anh nghĩ là
+   ... "creo que", Anh thấy ... "me parece que"; nên da un consejo, em nên
+   học nấu phở "deberías aprender". En Bologna ấm cúng hơn, còn đồ ăn ở đó
+   thì ngon nhất, còn introduce un tema nuevo y thì lo separa de lo que se
+   dice de él.
+4. El léxico abstracto es en gran parte sinovietnamita, es decir, leído de
+   caracteres chinos. học bổng 學俸 "beca", thạc sĩ 碩士 "máster", hiện đại
+   現代 "moderno", quyết định 決定 "decidir", công an 公安 "policía", bảo
+   hiểm 保險 "protección". El mũ bảo hiểm, literalmente "gorro de
+   protección", en el Sur se llama nón bảo hiểm.
+5. En moto el casco es obligatorio desde 2007 y los controles son
+   frecuentes. Sao ... thế? "¿cómo es que...?" muestra también interés por el
+   otro. En el Norte se dice thế, thế thì "entonces"; en el Sur vậy, vậy
+   thì. Em nói y như người Ý ấy! "hablas igual que un italiano" bromea sobre
+   el amor por la comida que comparten los dos países.
+
+ex1:
+- Vào mùa đông, Hà Nội lạnh hơn Sài Gòn nhiều.
+  it: In inverno Hanoi è molto più fredda di Saigon.
+  en: In winter Hanoi is much colder than Saigon.
+  es: En invierno Hanói es mucho más fría que Saigón.
+- Hôm qua em được cô giáo khen.
+  it: Ieri la professoressa mi ha fatto i complimenti.
+  en: Yesterday the teacher praised me.
+  es: Ayer la profesora me felicitó.
+- Theo chị, phở gà có ngon bằng phở bò không?
+  it: Secondo te il phở al pollo è buono come quello al manzo?
+  en: In your opinion, is chicken phở as good as beef phở?
+  es: En tu opinión, ¿el phở de pollo está tan rico como el de ternera?
+- Anh ấy bị mất ví ở chợ Đồng Xuân.
+  it: Ha perso il portafoglio al mercato di Đồng Xuân.
+  en: He lost his wallet at Đồng Xuân market.
+  es: Perdió la cartera en el mercado de Đồng Xuân.
+
+ex2:
+- Anh [bị] công an phạt vì quên đội mũ bảo hiểm.
+  it: La polizia mi ha multato perché avevo dimenticato il casco.
+  en: I was fined by the police for forgetting my helmet.
+  es: Me multó la policía por olvidarme el casco.
+- Em [được] nhận học bổng sang Ý.
+  it: Ho ricevuto una borsa di studio per andare in Italia.
+  en: I've been given a scholarship to go to Italy.
+  es: Me han dado una beca para ir a Italia.
+- Ở Bologna không đắt [bằng] ở Milano.
+  it: A Bologna non è caro come a Milano.
+  en: Bologna isn't as expensive as Milan.
+  es: En Bolonia no es tan caro como en Milán.
+- [Theo] anh, thành phố nào tốt [hơn]?
+  it: Secondo te, quale città è meglio?
+  en: In your opinion, which city is better?
+  es: En tu opinión, ¿qué ciudad es mejor?

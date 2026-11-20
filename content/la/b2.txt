@@ -1,0 +1,161 @@
+course: la
+
+== 76 B2
+title: Nuntius Athenis
+title.it: Notizie da Atene
+title.en: News from Athens
+title.es: Noticias de Atenas
+
+dialogue:
+- Pater, nuntius Athenis advenit. Dicit Marcum salvum esse et diligenter studere.
+  pron: Pater, nūntius Athēnīs advēnit. Dīcit Mārcum salvum esse et dīligenter studēre.
+  it: Papà, è arrivato un messaggero da Atene. Dice che Marco sta bene e studia con impegno.
+  en: Father, a messenger has arrived from Athens. He says Marcus is safe and well and studying hard.
+  es: Papá, ha llegado un mensajero de Atenas. Dice que Marco está bien y estudia con empeño.
+- Gaudeo. Quid praeterea nuntius rettulit?
+  pron: Gaudeō. Quid praetereā nūntius rettulit?
+  it: Ne sono felice. Che altro ha riferito il messaggero?
+  en: I'm glad. What else did the messenger report?
+  es: Me alegro. ¿Qué más ha contado el mensajero?
+- Ait fratrem magistrum optimum invenisse, qui eum cotidie in porticu doceat.
+  pron: Ait frātrem magistrum optimum invēnisse, quī eum cotīdiē in porticū doceat.
+  it: Dice che mio fratello ha trovato un ottimo maestro, che gli fa lezione ogni giorno sotto il portico.
+  en: He says my brother has found an excellent teacher, who teaches him every day in the portico.
+  es: Dice que mi hermano ha encontrado un maestro excelente, que le da clase todos los días en el pórtico.
+- Optime. Num etiam de pecunia aliquid scripsit?
+  pron: Optimē. Num etiam dē pecūniā aliquid scrīpsit?
+  it: Ottimo. Non avrà mica scritto qualcosa anche sui soldi?
+  en: Excellent. He hasn't written anything about money as well, has he?
+  es: Estupendo. ¿No habrá escrito también algo sobre el dinero?
+- Scripsit, pater. Rogat ut sibi plus pecuniae mittas, quod libri Athenis carissimi sint.
+  pron: Scrīpsit, pater. Rogat ut sibi plūs pecūniae mittās, quod librī Athēnīs cārissimī sint.
+  it: Sì, papà. Ti chiede di mandargli più denaro, perché ad Atene, dice, i libri costano carissimi.
+  en: He has, Father. He asks you to send him more money, because, he says, books are very expensive in Athens.
+  es: Sí, papá. Te pide que le mandes más dinero, porque en Atenas, según dice, los libros son carísimos.
+- Libros dicit? Suspicor eum pecuniam non in libros sed in convivia consumere.
+  pron: Librōs dīcit? Suspicor eum pecūniam nōn in librōs sed in convīvia cōnsūmere.
+  it: Libri, dice? Ho il sospetto che i soldi non li spenda in libri, ma in banchetti.
+  en: Books, he says? I suspect he spends the money not on books but on banquets.
+  es: ¿Libros, dice? Sospecho que el dinero no se lo gasta en libros, sino en banquetes.
+- Domine, nuntius mihi in culina dixit Marcum nuper cenam magnificam amicis dedisse.
+  pron: Domine, nūntius mihi in culīnā dīxit Mārcum nūper cēnam magnificam amīcīs dedisse.
+  it: Padrone, in cucina il messaggero mi ha detto che di recente Marco ha offerto agli amici una cena sontuosa.
+  en: Master, in the kitchen the messenger told me that Marcus recently gave his friends a lavish dinner.
+  es: Amo, en la cocina el mensajero me ha dicho que hace poco Marco ofreció a sus amigos una cena espléndida.
+- Tace, Dave! Nuntius affirmavit illam cenam a magistro, non a Marco, datam esse.
+  pron: Tacē, Dāve! Nūntius affirmāvit illam cēnam ā magistrō, nōn ā Mārcō, datam esse.
+  it: Taci, Davo! Il messaggero ha assicurato che quella cena l'ha offerta il maestro, non Marco.
+  en: Be quiet, Davus! The messenger assured us that the dinner was given by the teacher, not by Marcus.
+  es: ¡Calla, Davo! El mensajero ha asegurado que esa cena la dio el maestro, no Marco.
+- Fortasse. Scribe fratri me pecuniam missurum esse, si mihi rationes accuratas miserit.
+  pron: Fortasse. Scrībe frātrī mē pecūniam missūrum esse, sī mihi ratiōnēs accūrātās mīserit.
+  it: Può darsi. Scrivi a tuo fratello che gli manderò i soldi, se mi manderà un rendiconto preciso.
+  en: Perhaps. Write to your brother that I will send the money if he sends me accurate accounts.
+  es: Puede ser. Escribe a tu hermano que le mandaré el dinero si me manda unas cuentas exactas.
+- Scribam, pater. Sed puto eum hanc epistulam non libenter lecturum esse!
+  pron: Scrībam, pater. Sed putō eum hanc epistulam nōn libenter lēctūrum esse!
+  it: Gli scriverò, papà. Ma credo che questa lettera non la leggerà volentieri!
+  en: I'll write, Father. But I don't think he'll enjoy reading this letter!
+  es: Le escribiré, papá. ¡Pero creo que esta carta no la va a leer con gusto!
+
+notes.it:
+1. Nel discorso indiretto, dopo i verbi di dire e pensare (dicit, ait,
+   affirmavit, puto, suspicor), l'affermazione diventa accusativo +
+   infinito, Marcus salvus est → dicit Marcum salvum esse "dice che Marco
+   sta bene". In italiano ne resta un'eco in "dice di stare bene", ma di
+   solito usiamo "che".
+2. L'infinito segna il rapporto di tempo con il verbo reggente, presente
+   per la contemporaneità (studere), perfetto per l'anteriorità
+   (invenisse, datam esse), futuro per la posteriorità (missurum esse,
+   lecturum esse). L'infinito futuro concorda con il soggetto in
+   accusativo, me… missurum, eum… lecturum.
+3. Le subordinate dentro il discorso indiretto vanno al congiuntivo, qui
+   eum doceat, si… miserit. Quod con il congiuntivo (quod libri carissimi
+   sint) riporta una ragione addotta da altri, "perché, a suo dire".
+4. Il riflessivo sibi rimanda al soggetto della reggente, cioè Marco che
+   chiede (rogat ut sibi… mittas "chiede che tu mandi a lui"), mentre eum
+   indica una persona diversa dal soggetto, suspicor eum "sospetto che
+   lui". Num introduce una domanda che si aspetta un no.
+5. Parole italiane, nuntius → nunzio, annunciare; convivium → convivio,
+   conviviale; ratio "calcolo, conto" e poi "ragione" ha dato anche
+   "ragioniere". Porticus → portico; la Stoà di Atene era un portico, e da
+   lì prendono il nome gli stoici.
+notes.en:
+1. In indirect speech, after verbs of saying and thinking (dicit, ait,
+   affirmavit, puto, suspicor), the statement becomes accusative +
+   infinitive, Marcus salvus est → dicit Marcum salvum esse "he says that
+   Marcus is well". English keeps a trace in "I believe him to be well".
+2. The infinitive shows time relative to the main verb, present for the
+   same time (studere), perfect for earlier (invenisse, datam esse),
+   future for later (missurum esse, lecturum esse). The future infinitive
+   agrees with its accusative subject, me… missurum, eum… lecturum.
+3. Subordinate clauses inside indirect speech take the subjunctive, qui
+   eum doceat, si… miserit. Quod with the subjunctive (quod libri
+   carissimi sint) reports someone else's reason, "because, as he says".
+4. The reflexive sibi points back to the subject of the main verb, Marcus
+   who asks (rogat ut sibi… mittas "he asks you to send to him"), while
+   eum refers to someone other than the subject, suspicor eum "I suspect
+   that he". Num introduces a question expecting the answer no.
+5. Italian and English descendants, nuntius → nunzio, announce; convivium
+   → convivial; ratio "calculation, account" and later "reason" gave
+   ratio, ration and Italian "ragioniere" (accountant). Porticus →
+   portico; the Stoa in Athens was a portico, which gave the Stoics their
+   name.
+notes.es:
+1. En el estilo indirecto, tras los verbos de decir y pensar (dicit, ait,
+   affirmavit, puto, suspicor), la afirmación pasa a acusativo + infinitivo,
+   Marcus salvus est → dicit Marcum salvum esse "dice que Marco está bien".
+   En español queda un eco en "dice estar bien", pero normalmente usamos
+   "que".
+2. El infinitivo marca la relación temporal con el verbo principal, presente
+   para la simultaneidad (studere), perfecto para la anterioridad
+   (invenisse, datam esse), futuro para la posterioridad (missurum esse,
+   lecturum esse). El infinitivo futuro concuerda con el sujeto en
+   acusativo, me… missurum, eum… lecturum.
+3. Las subordinadas dentro del estilo indirecto van en subjuntivo, qui eum
+   doceat, si… miserit. Quod con subjuntivo (quod libri carissimi sint)
+   presenta una razón alegada por otro, "porque, según él".
+4. El reflexivo sibi remite al sujeto de la principal, es decir, a Marco,
+   que pide (rogat ut sibi… mittas "pide que le mandes a él"), mientras que
+   eum indica una persona distinta del sujeto, suspicor eum "sospecho que
+   él". Num introduce una pregunta que espera un no.
+5. Palabras españolas, nuntius → nuncio, anunciar; convivium → convivio;
+   ratio "cálculo, cuenta" y luego "razón" ha dado "razón", "ración" y
+   "ratio". Porticus → pórtico; la Stoá de Atenas era un pórtico, y de ahí
+   toman su nombre los estoicos.
+
+ex1:
+- Nuntius dicit navem in portu esse.
+  it: Il messaggero dice che la nave è in porto.
+  en: The messenger says the ship is in the harbour.
+  es: El mensajero dice que la nave está en el puerto.
+- Puto Marcum libros emisse.
+  it: Credo che Marco abbia comprato dei libri.
+  en: I think Marcus has bought some books.
+  es: Creo que Marco ha comprado libros.
+- Iulia scripsit se fratrem mox visuram esse.
+  it: Giulia ha scritto che avrebbe rivisto presto il fratello.
+  en: Julia wrote that she would see her brother soon.
+  es: Julia escribió que pronto vería a su hermano.
+- Pater negat se pecuniam missurum esse.
+  it: Il padre dice che non manderà i soldi (nega di).
+  en: Father says he will not send the money (denies that).
+  es: El padre dice que no mandará el dinero (niega que).
+
+ex2:
+- Ait fratrem [salvum] [esse].
+  it: Dice che il fratello sta bene.
+  en: He says his brother is safe and well.
+  es: Dice que su hermano está bien.
+- Rogat ut [sibi] pecuniam [mittas].
+  it: Chiede che tu gli mandi del denaro.
+  en: He asks you to send him money.
+  es: Pide que le mandes dinero.
+- Suspicor [eum] pecuniam in convivia [consumere].
+  it: Sospetto che spenda i soldi in banchetti.
+  en: I suspect he spends the money on banquets.
+  es: Sospecho que se gasta el dinero en banquetes.
+- Puto Marcum epistulam non libenter [lecturum] [esse].
+  it: Credo che Marco non leggerà volentieri la lettera.
+  en: I think Marcus won't enjoy reading the letter.
+  es: Creo que Marco no leerá la carta con gusto.

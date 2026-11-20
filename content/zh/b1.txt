@@ -1,0 +1,161 @@
+course: zh
+
+== 51 B1
+title: 搬家
+title.it: Il trasloco
+title.en: Moving house
+title.es: La mudanza
+
+dialogue:
+- 马可，你把箱子都搬上来了吗？
+  pron: Mǎkě, nǐ bǎ xiāngzi dōu bān shànglai le ma?
+  it: Marco, hai portato su tutti gli scatoloni?
+  en: Marco, have you brought all the boxes up?
+  es: Marco, ¿has subido todas las cajas?
+- 还没有，最大的那个太重了，我一个人搬不动。
+  pron: Hái méiyǒu, zuì dà de nàge tài zhòng le, wǒ yí ge rén bān bu dòng.
+  it: Non ancora. Quello più grande pesa troppo, da solo non riesco a smuoverlo.
+  en: Not yet. The biggest one is too heavy; I can't shift it on my own.
+  es: Todavía no. La más grande pesa demasiado; yo solo no puedo moverla.
+- 别着急，我来帮你。我们一起把它抬上楼吧。
+  pron: Bié zháojí, wǒ lái bāng nǐ. Wǒmen yìqǐ bǎ tā tái shàng lóu ba.
+  it: Non preoccuparti, ti do una mano io. Portiamolo di sopra insieme.
+  en: Don't worry, I'll give you a hand. Let's carry it upstairs together.
+  es: Tranquilo, ya te echo una mano yo. Subámosla juntos.
+- 小心！外面下雨了，箱子被雨淋湿了。
+  pron: Xiǎoxīn! Wàimiàn xià yǔ le, xiāngzi bèi yǔ línshī le.
+  it: Attenta! Fuori si è messo a piovere e lo scatolone si è bagnato.
+  en: Careful! It's started raining outside and the box has got wet.
+  es: ¡Cuidado! Fuera se ha puesto a llover y la caja se ha mojado.
+- 里面是什么？不会是你的书吧？
+  pron: Lǐmiàn shì shénme? Bú huì shì nǐ de shū ba?
+  it: Che cosa c'è dentro? Non saranno mica i tuoi libri?
+  en: What's inside? It isn't your books, is it?
+  es: ¿Qué hay dentro? No serán tus libros, ¿no?
+- 就是我的书！我把张老师送给我的词典也放在里面了。
+  pron: Jiù shì wǒ de shū! Wǒ bǎ Zhāng lǎoshī sòng gěi wǒ de cídiǎn yě fàng zài lǐmiàn le.
+  it: Proprio i miei libri! Ci ho messo dentro anche il dizionario che mi ha regalato la professoressa Zhang.
+  en: My books indeed! I also put the dictionary Ms Zhang gave me in there.
+  es: ¡Pues sí, mis libros! También he metido dentro el diccionario que me regaló la profesora Zhang.
+- 快打开看看。还好，书一点儿都没湿。
+  pron: Kuài dǎkāi kànkan. Hái hǎo, shū yìdiǎnr dōu méi shī.
+  it: Aprilo subito, vediamo. Meno male, i libri non si sono bagnati per niente.
+  en: Open it quickly, let's see. Luckily the books aren't wet at all.
+  es: Ábrela rápido, a ver. Menos mal, los libros no se han mojado nada.
+- 太好了！多亏了你，要不然我今天肯定搬不完。
+  pron: Tài hǎo le! Duōkuīle nǐ, yàobùrán wǒ jīntiān kěndìng bān bu wán.
+  it: Ottimo! È tutto merito tuo: senza di te oggi non avrei mai finito il trasloco.
+  en: Great! It's all thanks to you; otherwise I'd never have finished moving today.
+  es: ¡Genial! Todo gracias a ti; si no, hoy seguro que no habría terminado la mudanza.
+- 哪里哪里，你自己也干得很好嘛。搬完了，我们去吃火锅吧！
+  pron: Nǎli nǎli, nǐ zìjǐ yě gàn de hěn hǎo ma. Bānwán le, wǒmen qù chī huǒguō ba!
+  it: Ma figurati, anche tu te la sei cavata benissimo. Abbiamo finito: andiamo a mangiare la fonduta cinese!
+  en: Not at all, you did a great job yourself. We're done, let's go and have hot pot!
+  es: Qué va, tú también lo has hecho muy bien. Ya hemos terminado: ¡vamos a comer una fondue china!
+- 好主意！今天我请客。
+  pron: Hǎo zhǔyi! Jīntiān wǒ qǐngkè.
+  it: Ottima idea! Oggi offro io.
+  en: Good idea! Today it's on me.
+  es: ¡Buena idea! Hoy invito yo.
+
+notes.it:
+1. 把 bǎ porta l'oggetto prima del verbo quando l'oggetto è definito e gli
+   succede qualcosa, 把箱子搬上来 "portare su gli scatoloni". Il verbo non
+   può restare da solo, vuole un complemento o 了,
+   把词典放在里面了 "ho messo il dizionario lì dentro".
+2. 被 bèi forma il passivo, soprattutto per fatti spiacevoli,
+   箱子被雨淋湿了 "lo scatolone è stato bagnato dalla pioggia". Chi compie
+   l'azione segue 被; se non interessa, si omette.
+3. Il complemento di risultato dice come finisce l'azione, 淋湿 "bagnare
+   fino a inzuppare", 打开 "aprire", 搬完 "finire di traslocare". Con 不 in
+   mezzo diventa potenziale, 搬不动 "non riuscire a smuovere", 搬不完 "non
+   riuscire a finire", 跟不上 "non riuscire a stare dietro".
+4. Il complemento di direzione usa 上 "su" e 来 "verso chi parla",
+   搬上来 "portare su (qui)", 抬上楼 "portare di sopra". Il complemento di
+   grado si lega con 得 de, 干得很好 "lavorare bene".
+5. 哪里哪里, "ma dove, dove", è la risposta modesta a un complimento.
+   多亏 vuol dire "per fortuna c'è, grazie a". 请客 "offrire il pasto" chiude
+   il cerchio della lezione 3, quando era Wang Li a offrire. 火锅 è la
+   pentola di brodo bollente in cui ognuno cuoce carne e verdure.
+notes.en:
+1. 把 bǎ brings the object before the verb when the object is definite and
+   something happens to it, 把箱子搬上来 "bring the boxes up". The verb
+   cannot stand alone; it needs a complement or 了,
+   把词典放在里面了 "I put the dictionary in there".
+2. 被 bèi forms the passive, mostly for unpleasant events,
+   箱子被雨淋湿了 "the box got soaked by the rain". The agent follows 被;
+   if it doesn't matter, it is left out.
+3. A result complement tells how the action ends, 淋湿 "rain on until
+   soaked", 打开 "open", 搬完 "finish moving". With 不 in the middle it
+   becomes a potential complement, 搬不动 "can't shift", 搬不完 "can't
+   finish", 跟不上 "can't keep up".
+4. A direction complement uses 上 "up" and 来 "towards the speaker",
+   搬上来 "bring up (here)", 抬上楼 "carry upstairs". A degree complement
+   is linked with 得 de, 干得很好 "do a good job".
+5. 哪里哪里, "where, where", is the modest reply to praise. 多亏 means
+   "luckily there is, thanks to". 请客 "treat someone to a meal" closes
+   the circle opened in lesson 3, when Wang Li paid. 火锅 is a pot of
+   boiling broth in which everyone cooks meat and vegetables.
+notes.es:
+1. 把 bǎ lleva el complemento delante del verbo cuando el complemento es
+   definido y le pasa algo, 把箱子搬上来 "subir las cajas". El verbo no puede
+   quedarse solo, necesita un complemento o 了, 把词典放在里面了 "he metido el
+   diccionario ahí dentro".
+2. 被 bèi forma la pasiva, sobre todo para hechos desagradables,
+   箱子被雨淋湿了 "la caja ha sido empapada por la lluvia". Quien realiza la
+   acción va detrás de 被; si no interesa, se omite.
+3. El complemento de resultado dice cómo termina la acción, 淋湿 "mojar hasta
+   empapar", 打开 "abrir", 搬完 "terminar la mudanza". Con 不 en medio se
+   vuelve potencial, 搬不动 "no poder mover", 搬不完 "no poder terminar",
+   跟不上 "no poder seguir el ritmo".
+4. El complemento de dirección usa 上 "arriba" y 来 "hacia quien habla",
+   搬上来 "subir (hasta aquí)", 抬上楼 "subir al piso de arriba". El
+   complemento de grado se une con 得 de, 干得很好 "hacerlo muy bien".
+5. 哪里哪里, "dónde, dónde", es la respuesta modesta a un cumplido. 多亏
+   significa "menos mal que, gracias a". 请客 "invitar a comer" cierra el
+   círculo de la lección 3, cuando era Wang Li quien invitaba. 火锅 es la
+   olla de caldo hirviendo en la que cada uno cuece carne y verduras.
+
+ex1:
+- 请把词典放在桌子上。
+  pron: Qǐng bǎ cídiǎn fàng zài zhuōzi shang.
+  it: Per favore, metti il dizionario sul tavolo.
+  en: Please put the dictionary on the table.
+  es: Por favor, pon el diccionario encima de la mesa.
+- 我的书被雨淋湿了。
+  pron: Wǒ de shū bèi yǔ línshī le.
+  it: I miei libri si sono inzuppati di pioggia.
+  en: My books got soaked by the rain.
+  es: Mis libros se han empapado con la lluvia.
+- 这个箱子太重了，我搬不动。
+  pron: Zhège xiāngzi tài zhòng le, wǒ bān bu dòng.
+  it: Questo scatolone è troppo pesante, non riesco a spostarlo.
+  en: This box is too heavy, I can't move it.
+  es: Esta caja pesa demasiado, no puedo moverla.
+- 王丽说汉语说得很快。
+  pron: Wáng Lì shuō Hànyǔ shuō de hěn kuài.
+  it: Wang Li parla cinese molto in fretta.
+  en: Wang Li speaks Chinese very fast.
+  es: Wang Li habla chino muy rápido.
+
+ex2:
+- 你[把]箱子搬上来了吗？
+  pron: Nǐ bǎ xiāngzi bān shànglai le ma?
+  it: Hai portato su lo scatolone?
+  en: Have you brought the box up?
+  es: ¿Has subido la caja?
+- 我的词典[被]朋友借走了。
+  pron: Wǒ de cídiǎn bèi péngyou jièzǒu le.
+  it: Il mio dizionario me l'ha preso in prestito un amico.
+  en: My dictionary has been borrowed by a friend.
+  es: Un amigo se ha llevado prestado mi diccionario.
+- 今天的作业太多，我做不[完]。
+  pron: Jīntiān de zuòyè tài duō, wǒ zuò bu wán.
+  it: Oggi i compiti sono troppi, non riesco a finirli.
+  en: There's too much homework today, I can't finish it.
+  es: Hoy hay demasiados deberes, no puedo terminarlos.
+- 他跑[得]很快，我跟不[上]。
+  pron: Tā pǎo de hěn kuài, wǒ gēn bu shàng.
+  it: Lui corre velocissimo, non riesco a stargli dietro.
+  en: He runs very fast, I can't keep up.
+  es: Él corre muy rápido, no puedo seguirle el ritmo.

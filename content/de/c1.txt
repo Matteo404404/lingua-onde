@@ -1,0 +1,151 @@
+course: de
+
+== 151 C1
+title: Mias Artikel
+title.it: L'articolo di Mia
+title.en: Mia's article
+title.es: El artículo de Mia
+
+dialogue:
+- Hör mal zu und sag mir ehrlich, was du davon hältst. „Münchner Altstadt: Stadtrat will Autos verbannen.“
+  it: Ascolta e dimmi sinceramente che cosa ne pensi. «Centro storico di Monaco, il consiglio comunale vuole bandire le auto.»
+  en: Listen to this and tell me honestly what you think. "Munich old town: council wants to ban cars."
+  es: Escucha y dime sinceramente qué te parece. «Casco antiguo de Múnich: el Ayuntamiento quiere desterrar los coches».
+- Die Überschrift ist knackig, aber „verbannen“ klingt ein bisschen reißerisch, findest du nicht?
+  it: Il titolo è incisivo, ma «bandire» suona un po' sensazionalistico, non trovi?
+  en: The headline is punchy, but "ban" sounds a bit sensationalist, don't you think?
+  es: El titular tiene garra, pero «desterrar» suena un poco sensacionalista, ¿no te parece?
+- Mag sein. Und jetzt der Vorspann. „Wie aus Rathauskreisen verlautet, sei der Beschluss so gut wie gefasst; eine offizielle Bestätigung stehe allerdings noch aus.“
+  it: Può darsi. E adesso il sommario. «Secondo quanto trapela dal municipio, la decisione sarebbe praticamente presa; manca però ancora una conferma ufficiale.»
+  en: Maybe. And now the standfirst. "According to sources at City Hall, the decision has all but been made; official confirmation, however, is still pending."
+  es: Puede ser. Y ahora la entradilla. «Según fuentes municipales, la decisión estaría prácticamente tomada; no obstante, aún faltaría la confirmación oficial».
+- Der Konjunktiv ist wohl dazu da, dich abzusichern?
+  it: Quel congiuntivo serve a pararti le spalle, immagino?
+  en: I suppose the subjunctive is there to cover yourself?
+  es: Ese subjuntivo está para cubrirte las espaldas, ¿no?
+- Selbstverständlich. Solange die Stadt nichts bestätigt hat, kann ich das nicht schwarz auf weiß behaupten.
+  it: Naturalmente. Finché il comune non ha confermato nulla, non posso affermarlo nero su bianco.
+  en: Of course. As long as the city hasn't confirmed anything, I can't state it in black and white.
+  es: Por supuesto. Mientras el ayuntamiento no haya confirmado nada, no puedo afirmarlo negro sobre blanco.
+- Und Giulia, kommt sie im Artikel vor?
+  it: E Giulia compare nell'articolo?
+  en: And does Giulia appear in the article?
+  es: ¿Y Giulia sale en el artículo?
+- Sie hat mich gebeten, sie nicht zu zitieren. Ihr Büro will sich bedeckt halten, und zwar zu Recht.
+  it: Mi ha chiesto di non citarla. Il suo studio vuole mantenere un profilo basso, e a ragione.
+  en: She asked me not to quote her. Her firm wants to keep a low profile, and rightly so.
+  es: Me ha pedido que no la cite. Su estudio quiere mantener un perfil bajo, y con razón.
+- Schade. Hätte sie zugestimmt, wäre ihr Name in der ganzen Branche bekannt geworden.
+  it: Peccato. Se avesse accettato, il suo nome sarebbe diventato noto in tutto il settore.
+  en: Pity. Had she agreed, her name would have become known across the whole industry.
+  es: Lástima. Si hubiera aceptado, su nombre se habría dado a conocer en todo el sector.
+- Oder sie hätte sich von ihrem Chef einen Rüffel eingefangen. In der Probezeit spielt man besser nicht mit dem Feuer.
+  it: Oppure si sarebbe beccata una ramanzina dal suo responsabile. Durante il periodo di prova è meglio non scherzare col fuoco.
+  en: Or she'd have got a dressing-down from her boss. On probation, you'd better not play with fire.
+  es: O se habría llevado una bronca de su jefe. Durante el periodo de prueba, más vale no jugar con fuego.
+- Stimmt auch wieder. Schick mir die Endfassung, bevor du sie in der Redaktion abgibst.
+  it: Anche questo è vero. Mandami la versione definitiva prima di consegnarla in redazione.
+  en: Fair point. Send me the final version before you hand it in to the newsroom.
+  es: También es verdad. Mándame la versión definitiva antes de entregarla en la redacción.
+- Mach ich. Und falls der Artikel unter den Tisch fällt, darfst du mich trösten.
+  it: D'accordo. E se l'articolo finisce nel dimenticatoio, potrai consolarmi.
+  en: Will do. And if the article gets dropped (falls under the table), you can console me.
+  es: Hecho (hago yo). Y si el artículo acaba en un cajón (cae bajo la mesa), podrás consolarme.
+
+notes.it:
+1. Il Konjunktiv I è il modo del discorso riportato nella lingua dei giornali:
+   sei, stehe aus, habe. Il giornalista riferisce senza farsi garante. In
+   italiano, nello stesso caso, si usa il condizionale ("la decisione sarebbe
+   presa") oppure "secondo quanto riferito".
+2. Hätte sie zugestimmt, wäre ihr Name bekannt geworden: è il Konjunktiv II
+   passato, per un'ipotesi irreale nel passato. Senza wenn il verbo passa in
+   prima posizione. Corrisponde a "se avesse accettato, sarebbe diventato".
+3. Espressioni: sich bedeckt halten (mantenere un profilo basso), schwarz auf
+   weiß (nero su bianco), mit dem Feuer spielen (scherzare col fuoco), sich einen
+   Rüffel einfangen (beccarsi una ramanzina), unter den Tisch fallen (finire nel
+   dimenticatoio, letteralmente "cadere sotto il tavolo").
+4. Il lessico della stampa: die Überschrift (titolo), der Vorspann (sommario,
+   cappello), die Redaktion (redazione), der Stadtrat (consiglio comunale), wie
+   aus Rathauskreisen verlautet (secondo quanto trapela dal municipio). Knackig
+   (incisivo) e reißerisch (sensazionalistico) giudicano un titolo. Falso amico:
+   der Chef è il capo, non il cuoco (der Koch).
+5. Cambio di registro: Mia legge il tedesco scritto del giornale, poi torna al
+   parlato, dove il soggetto spesso cade: Mach ich! (lo faccio), Stimmt auch
+   wieder (anche questo è vero).
+notes.en:
+1. The Konjunktiv I is the mood of reported speech in newspaper German: sei,
+   stehe aus, habe. The journalist passes the information on without vouching
+   for it, much like English "reportedly" or "is said to".
+2. Hätte sie zugestimmt, wäre ihr Name bekannt geworden: this is the past
+   Konjunktiv II, for an unreal condition in the past. Without wenn the verb
+   moves to first position, just like English "Had she agreed...".
+3. Idioms: sich bedeckt halten (to keep a low profile), schwarz auf weiß (in
+   black and white), mit dem Feuer spielen (to play with fire), sich einen
+   Rüffel einfangen (to get a dressing-down), unter den Tisch fallen (to be
+   dropped, literally "to fall under the table").
+4. Press vocabulary: die Überschrift (headline), der Vorspann (standfirst), die
+   Redaktion (newsroom, editorial staff), der Stadtrat (city council), wie aus
+   Rathauskreisen verlautet (according to sources at City Hall). Knackig
+   (punchy) and reißerisch (sensationalist) are ways to judge a headline. Der
+   Chef is the boss, not a cook (der Koch).
+5. Register switch: Mia reads the written German of the paper, then slips back
+   into speech, where the subject is often dropped: Mach ich! (will do), Stimmt
+   auch wieder (that's true too).
+notes.es:
+1. El Konjunktiv I es el modo del estilo indirecto en la lengua de
+   los periódicos: sei, stehe aus, habe. El periodista transmite la información
+   sin hacerse responsable de ella. En español, en el mismo caso, se usa el
+   condicional ("la decisión estaría tomada") o fórmulas como "según ha
+   trascendido".
+2. Hätte sie zugestimmt, wäre ihr Name bekannt geworden: es el Konjunktiv II
+   pasado, para una hipótesis irreal en el pasado. Sin wenn, el verbo pasa a la
+   primera posición. Corresponde a "si hubiera aceptado, se habría dado a
+   conocer", o al más literario "de haber aceptado...".
+3. Expresiones: sich bedeckt halten (mantener un perfil bajo), schwarz auf weiß
+   (negro sobre blanco), mit dem Feuer spielen (jugar con fuego), sich einen
+   Rüffel einfangen (llevarse una bronca), unter den Tisch fallen (quedarse en
+   un cajón, literalmente "caer bajo la mesa").
+4. El vocabulario de la prensa: die Überschrift (titular), der Vorspann
+   (entradilla), die Redaktion (redacción), der Stadtrat (concejo municipal),
+   wie aus Rathauskreisen verlautet (según fuentes municipales). Knackig (con
+   garra) y reißerisch (sensacionalista) sirven para juzgar un titular.
+   Falso amigo: der Chef es el jefe, no el chef de cocina (der Koch).
+5. Cambio de registro: Mia lee el alemán escrito del periódico y luego vuelve a
+   la lengua hablada, donde a menudo desaparece el sujeto: Mach ich! (hecho, lo
+   haré), Stimmt auch wieder (también es verdad).
+
+ex1:
+- Laut Polizei sei niemand verletzt worden.
+  it: Secondo la polizia nessuno sarebbe rimasto ferito.
+  en: According to the police, nobody was hurt.
+  es: Según la policía, nadie habría resultado herido.
+- Hätte ich das gewusst, wäre ich früher gekommen.
+  it: Se l'avessi saputo, sarei venuto prima.
+  en: Had I known, I would have come earlier.
+  es: Si lo hubiera sabido, habría venido antes.
+- Das Projekt ist unter den Tisch gefallen.
+  it: Il progetto è finito nel dimenticatoio.
+  en: The project was quietly dropped.
+  es: El proyecto se quedó en un cajón.
+- Die Ministerin will sich bedeckt halten.
+  it: La ministra vuole mantenere un profilo basso.
+  en: The minister wants to keep a low profile.
+  es: La ministra quiere mantener un perfil bajo.
+
+ex2:
+- Der Beschluss [sei] bereits gefasst.
+  it: La decisione sarebbe già stata presa.
+  en: The decision has reportedly already been made.
+  es: La decisión ya estaría tomada.
+- [Hätte] sie zugestimmt, [wäre] sie bekannt geworden.
+  it: Se avesse accettato, sarebbe diventata famosa.
+  en: Had she agreed, she would have become well known.
+  es: Si hubiera aceptado, se habría hecho famosa.
+- In der Probezeit spielt man besser nicht mit dem [Feuer].
+  it: Durante il periodo di prova è meglio non scherzare col fuoco.
+  en: On probation, you'd better not play with fire.
+  es: Durante el periodo de prueba, más vale no jugar con fuego.
+- Das kann ich nicht [schwarz] auf [weiß] behaupten.
+  it: Non posso affermarlo nero su bianco.
+  en: I can't state that in black and white.
+  es: No puedo afirmarlo negro sobre blanco.

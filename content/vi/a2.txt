@@ -1,0 +1,151 @@
+course: vi
+
+== 26 A2
+title: Đắt quá!
+title.it: Troppo caro!
+title.en: Too expensive!
+title.es: ¡Qué caro!
+
+dialogue:
+- Luca ơi, cháu đang làm gì đấy?
+  it: Luca, che cosa stai facendo (nipote in-corso fare che-cosa đấy)?
+  en: Luca, what are you doing (nephew in-progress do what đấy)?
+  es: Luca, ¿qué estás haciendo (sobrino en-curso hacer qué đấy)?
+- Dạ, cháu đang rửa hoa quả. Sáng nay cháu đã đi chợ Đồng Xuân.
+  it: Sto lavando la frutta (nipote in-corso lavare fiore-frutto). Stamattina sono andato al mercato di Đồng Xuân (mattina questa nipote già andare mercato Đồng Xuân).
+  en: I'm washing the fruit (nephew in-progress wash flower-fruit). This morning I went to Đồng Xuân market (morning this nephew already go market Đồng Xuân).
+  es: Estoy lavando la fruta (sobrino en-curso lavar flor-fruto). Esta mañana he ido al mercado de Đồng Xuân (mañana esta sobrino ya ir mercado Đồng Xuân).
+- Giỏi quá! Cháu mua những gì?
+  it: Bravo (bravo troppo)! Che cosa hai comprato (nipote comprare quali cose)?
+  en: Well done (clever too)! What did you buy (nephew buy which things)?
+  es: ¡Muy bien (hábil demasiado)! ¿Qué has comprado (sobrino comprar cuáles cosas)?
+- Cháu mua một cân xoài, năm quả chuối và hai cái áo phông.
+  it: Ho comprato un chilo di manghi (nipote comprare un chilo mango), cinque banane (cinque frutto banana) e due magliette (due oggetto maglia).
+  en: I bought a kilo of mangoes (nephew buy one kilo mango), five bananas (five fruit banana) and two T-shirts (two thing shirt).
+  es: He comprado un kilo de mangos (sobrino comprar un kilo mango), cinco plátanos (cinco fruto plátano) y dos camisetas (dos objeto camisa).
+- Thế một cân xoài bao nhiêu tiền?
+  it: E quanto costa un chilo di manghi (allora un chilo mango quanto denaro)?
+  en: So how much is a kilo of mangoes (so one kilo mango how-much money)?
+  es: ¿Y cuánto cuesta un kilo de mangos (entonces un kilo mango cuánto dinero)?
+- Tám mươi nghìn ạ. Còn hai cái áo là ba trăm nghìn.
+  it: Ottantamila (otto dieci mille ạ). E le due magliette trecentomila (due oggetto maglia essere tre cento mille).
+  en: Eighty thousand (eight ten thousand ạ). And the two T-shirts were three hundred thousand (two thing shirt be three hundred thousand).
+  es: Ochenta mil (ocho diez mil ạ). Y las dos camisetas, trescientos mil (dos objeto camisa ser tres cien mil).
+- Trời ơi, đắt quá! Bình thường xoài chỉ ba mươi lăm nghìn một cân thôi.
+  it: Santo cielo (cielo oh), troppo caro! Di solito il mango costa solo trentacinquemila al chilo (normale mango solo tre dieci cinque mille un chilo soltanto).
+  en: Good heavens (heaven oh), that's far too expensive! Mangoes are usually only thirty-five thousand a kilo (normal mango only three ten five thousand one kilo only).
+  es: ¡Madre mía (cielo oh), qué caro! Normalmente el mango cuesta solo treinta y cinco mil el kilo (normal mango solo tres diez cinco mil un kilo nada-más).
+- Bố chị nói đúng đấy. Lần sau chị sẽ đi chợ với em. Chị mặc cả giỏi lắm!
+  it: Mio padre ha ragione (padre sorella-maggiore dire giusto đấy). La prossima volta vengo al mercato con te (volta dopo sorella-maggiore futuro andare mercato con fratello-minore). Sono bravissima a contrattare (sorella-maggiore contrattare brava molto)!
+  en: My dad's right (father elder-sister say right đấy). Next time I'll go to the market with you (time after elder-sister will go market with younger-sibling). I'm very good at haggling (elder-sister haggle clever very)!
+  es: Mi padre tiene razón (padre hermana-mayor decir correcto đấy). La próxima vez voy al mercado contigo (vez después hermana-mayor futuro ir mercado con hermano-menor). ¡Regateo muy bien (hermana-mayor regatear hábil mucho)!
+- Vâng, cảm ơn chị. Mà hai cái áo này nhỏ quá, em mặc không vừa!
+  it: Sì, grazie. Però queste due magliette sono troppo piccole, non mi stanno (fratello-minore indossare non adatto)!
+  en: Yes, thank you. But these two T-shirts are too small, they don't fit me (younger-sibling wear not fit)!
+  es: Sí, gracias. Pero estas dos camisetas son demasiado pequeñas, ¡no me quedan bien (hermano-menor llevar no ajustar)!
+
+notes.it:
+1. Il verbo non cambia mai; il tempo, se serve, si indica con una parola
+   davanti. đã per il passato (cháu đã đi chợ), đang per l'azione in corso
+   (cháu đang rửa hoa quả), sẽ per il futuro (chị sẽ đi chợ với em). Se il
+   momento è già chiaro si tralasciano, Sáng nay cháu đi chợ è altrettanto
+   corretto.
+2. Tra il numero e il nome ci vuole un classificatore, come in "tre fette di
+   pane". quả si usa per frutti e cose tonde (năm quả chuối), cái per quasi
+   tutti gli oggetti (hai cái áo), con per gli animali (một con gà). những
+   davanti al nome segna il plurale, những gì "quali cose". Al Sud quả
+   diventa trái.
+3. I numeri. Dopo mười e mươi, năm "cinque" diventa lăm (mười lăm 15, ba
+   mươi lăm 35), e dopo mươi, một "uno" diventa mốt (hai mươi mốt 21). trăm
+   "cento", nghìn "mille", triệu "milione". I prezzi in đồng sono cifre
+   molto alte, perciò nel parlato si lascia spesso cadere nghìn, tám mươi
+   "ottanta (mila)", e sui cartellini si scrive 80k.
+4. Pronuncia di Hanoi. tr e ch suonano uguali (trời, chợ), e così s e x
+   (sáng, xoài), entrambe come una s. Molti parlanti del Centro e del Sud le
+   distinguono ancora. Trời ơi! "o cielo!" esprime stupore o disappunto.
+5. Parole del Nord e del Sud. đắt / mắc "caro", cân / ký "chilo", hoa quả /
+   trái cây "frutta", áo phông / áo thun "maglietta", nghìn / ngàn "mille".
+   Contrattare (mặc cả) è normale al mercato, non al supermercato. Đồng
+   Xuân è il grande mercato coperto del Quartiere Vecchio.
+notes.en:
+1. The verb never changes; time is shown, when needed, by a word in front.
+   đã for the past (cháu đã đi chợ), đang for an action in progress (cháu
+   đang rửa hoa quả), sẽ for the future (chị sẽ đi chợ với em). When the
+   time is already clear they are dropped, Sáng nay cháu đi chợ is just as
+   correct.
+2. A classifier goes between a number and a noun, as in "three slices of
+   bread". quả is for fruit and round things (năm quả chuối), cái for most
+   objects (hai cái áo), con for animals (một con gà). những before a noun
+   marks the plural, những gì "which things". In the South quả becomes trái.
+3. Numbers. After mười and mươi, năm "five" becomes lăm (mười lăm 15, ba
+   mươi lăm 35), and after mươi, một "one" becomes mốt (hai mươi mốt 21).
+   trăm "hundred", nghìn "thousand", triệu "million". Prices in đồng are big
+   numbers, so speech often drops nghìn, tám mươi "eighty (thousand)", and
+   price tags often read 80k.
+4. Hanoi pronunciation. tr and ch sound the same (trời, chợ), and so do s
+   and x (sáng, xoài), both like an s. Many speakers in the Centre and South
+   still keep them apart. Trời ơi! "oh heaven!" expresses surprise or
+   dismay.
+5. North and South words. đắt / mắc "expensive", cân / ký "kilo", hoa quả /
+   trái cây "fruit", áo phông / áo thun "T-shirt", nghìn / ngàn "thousand".
+   Haggling (mặc cả) is normal at markets, not in supermarkets. Đồng Xuân is
+   the big covered market of the Old Quarter.
+notes.es:
+1. El verbo nunca cambia; el tiempo, si hace falta, se indica con una
+   palabra delante. đã para el pasado (cháu đã đi chợ), đang para la acción
+   en curso (cháu đang rửa hoa quả), sẽ para el futuro (chị sẽ đi chợ với
+   em). Si el momento ya está claro se omiten, Sáng nay cháu đi chợ es igual
+   de correcto.
+2. Entre el número y el sustantivo hace falta un clasificador, como en "tres
+   rebanadas de pan". quả se usa para frutas y cosas redondas (năm quả
+   chuối), cái para casi todos los objetos (hai cái áo), con para los
+   animales (một con gà). những delante del sustantivo marca el plural,
+   những gì "qué cosas". En el Sur quả se convierte en trái.
+3. Los números. Después de mười y mươi, năm "cinco" pasa a lăm (mười lăm 15,
+   ba mươi lăm 35), y después de mươi, một "uno" pasa a mốt (hai mươi mốt
+   21). trăm "cien", nghìn "mil", triệu "millón". Los precios en đồng son
+   cifras altas, así que al hablar se suele omitir nghìn, tám mươi "ochenta
+   (mil)", y en las etiquetas se escribe 80k.
+4. Pronunciación de Hanói. tr y ch suenan igual (trời, chợ), y lo mismo s y
+   x (sáng, xoài), ambas como una s. Muchos hablantes del Centro y del Sur
+   todavía las distinguen. Trời ơi! "¡oh cielo!" expresa sorpresa o disgusto.
+5. Palabras del Norte y del Sur. đắt / mắc "caro", cân / ký "kilo", hoa quả
+   / trái cây "fruta", áo phông / áo thun "camiseta", nghìn / ngàn "mil".
+   Regatear (mặc cả) es normal en el mercado, no en el supermercado. Đồng
+   Xuân es el gran mercado cubierto del Barrio Antiguo.
+
+ex1:
+- Chị Lan đang đi chợ.
+  it: Lan sta andando al mercato (sorella-maggiore Lan in-corso andare mercato).
+  en: Lan is going to the market (elder-sister Lan in-progress go market).
+  es: Lan está yendo al mercado (hermana-mayor Lan en-curso ir mercado).
+- Ngày mai em sẽ mua hai quả xoài.
+  it: Domani comprerò due manghi (due frutto mango).
+  en: Tomorrow I'll buy two mangoes (two fruit mango).
+  es: Mañana compraré dos mangos (dos fruto mango).
+- Một cân chuối bao nhiêu tiền?
+  it: Quanto costa un chilo di banane?
+  en: How much is a kilo of bananas?
+  es: ¿Cuánto cuesta un kilo de plátanos?
+- Cái áo phông này đắt quá!
+  it: Questa maglietta è troppo cara!
+  en: This T-shirt is far too expensive!
+  es: ¡Qué cara es esta camiseta!
+
+ex2:
+- Cháu [đang] rửa hoa quả.
+  it: Sto lavando la frutta.
+  en: I'm washing the fruit.
+  es: Estoy lavando la fruta.
+- Cháu mua năm [quả] chuối và hai [cái] áo.
+  it: Ho comprato cinque banane e due magliette.
+  en: I bought five bananas and two shirts.
+  es: He comprado cinco plátanos y dos camisetas.
+- Lần sau chị [sẽ] đi chợ với em.
+  it: La prossima volta vengo al mercato con te.
+  en: Next time I'll go to the market with you.
+  es: La próxima vez voy al mercado contigo.
+- Xoài chỉ ba [mươi] lăm [nghìn] một cân thôi.
+  it: Il mango costa solo trentacinquemila al chilo.
+  en: Mangoes are only thirty-five thousand a kilo.
+  es: El mango cuesta solo treinta y cinco mil el kilo.

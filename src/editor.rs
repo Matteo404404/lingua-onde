@@ -79,9 +79,11 @@ impl App {
 
     pub fn editor_screen(&mut self, ui: &mut egui::Ui) {
         let base = self.base();
-        ui.heading("My lessons");
-        ui.label(muted("Expand your courses with your own material: type or paste each dialogue with its translation, notes and exercises. Lessons are saved as plain text files, so you can also edit them in any text editor."));
-        ui.add_space(4.0);
+        theme::page_title(
+            ui,
+            "My lessons",
+            "Expand your courses with your own material: type or paste each dialogue with its translation, notes and exercises. Lessons are saved as plain text files, so you can also edit them in any text editor.",
+        );
 
         let mine: Vec<(String, String)> = self
             .courses
@@ -92,7 +94,7 @@ impl App {
         if mine.is_empty() {
             theme::card().show(ui, |ui| {
                 ui.set_width(ui.available_width());
-                ui.label(RichText::new("You have no course of your own yet.").size(17.0));
+                ui.label(theme::bold("You have no course of your own yet.").size(18.0));
                 ui.label(muted("Create one for any language in Courses (“New course for your own material”), or copy a built-in course there to expand it."));
                 if ui.add(theme::primary("Go to Courses")).clicked() {
                     self.go(Screen::Courses);
@@ -123,12 +125,12 @@ impl App {
             if let Some(m) = pick {
                 self.open_editor(Some((m, None)));
             }
-            if ui.button("📂 Open the lesson files").clicked() {
+            if ui.add(theme::secondary("📂 Open the lesson files")).clicked() {
                 let dir = store::courses_dir();
                 let _ = std::fs::create_dir_all(&dir);
                 open_path(&dir);
             }
-            if ui.button("Study this course").clicked() {
+            if ui.add(theme::secondary("Study this course")).clicked() {
                 self.saved.active_course = id.clone();
                 self.mark_dirty();
                 self.go(Screen::Courses);
@@ -163,7 +165,7 @@ impl App {
                 ui.set_width(ui.available_width());
                 ui.horizontal(|ui| {
                     theme::badge(ui, l.level.name(), l.level.color());
-                    ui.label(RichText::new(format!("{} · {}", l.number, l.title)).strong());
+                    ui.label(theme::medium(format!("{} · {}", l.number, l.title)));
                     ui.label(muted(format!(
                         "{} · {} sentences · {} exercises",
                         l.title_in(&base),
@@ -171,7 +173,7 @@ impl App {
                         l.ex1.len() + l.ex2.len()
                     )));
                     ui.with_layout(egui::Layout::right_to_left(egui::Align::Center), |ui| {
-                        if ui.button("✏ Edit").clicked() {
+                        if ui.add(theme::ghost("✏ Edit")).clicked() {
                             edit = Some(li);
                         }
                     });
@@ -193,13 +195,12 @@ impl App {
         theme::card().show(ui, |ui| {
             ui.set_width(ui.available_width());
             ui.label(
-                RichText::new(if self.editor.lesson.is_some() {
+                theme::bold(if self.editor.lesson.is_some() {
                     "Edit lesson"
                 } else {
                     "New lesson"
                 })
-                .size(19.0)
-                .strong(),
+                .size(19.0),
             );
             egui::Grid::new("lessonhead").num_columns(2).spacing([14.0, 8.0]).show(ui, |ui| {
                 ui.label("Number");
@@ -242,7 +243,7 @@ impl App {
 
         theme::card().show(ui, |ui| {
             ui.set_width(ui.available_width());
-            ui.label(RichText::new("Dialogue").size(17.0).strong());
+            ui.label(theme::bold("Dialogue").size(18.0));
             ui.label(muted(format!("One sentence per row: the {target_name} sentence, its {base_name} translation (put the literal sense in brackets if useful) and, if you like, a pronunciation hint.")));
             item_rows(ui, &mut d.dialogue, &base, "dlg", &target_name, &base_name);
             ui.collapsing("Paste many sentences at once", |ui| {
@@ -275,7 +276,7 @@ impl App {
 
         theme::card().show(ui, |ui| {
             ui.set_width(ui.available_width());
-            ui.label(RichText::new(format!("Notes (in {base_name})")).size(17.0).strong());
+            ui.label(theme::bold(format!("Notes (in {base_name})")).size(18.0));
             ui.label(muted("Number each note: “1. word — explanation”."));
             ui.add(
                 egui::TextEdit::multiline(d.notes.entry(base.clone()).or_default())
@@ -286,10 +287,10 @@ impl App {
 
         theme::card().show(ui, |ui| {
             ui.set_width(ui.available_width());
-            ui.label(RichText::new("Exercise 1 · sentences to translate").size(17.0).strong());
+            ui.label(theme::bold("Exercise 1 · sentences to translate").size(18.0));
             item_rows(ui, &mut d.ex1, &base, "ex1", &target_name, &base_name);
             ui.add_space(6.0);
-            ui.label(RichText::new("Exercise 2 · missing words").size(17.0).strong());
+            ui.label(theme::bold("Exercise 2 · missing words").size(18.0));
             ui.label(muted("Put each missing word in [square brackets], e.g. “Muy [bien], [gracias].”"));
             item_rows(ui, &mut d.ex2, &base, "ex2", &target_name, &base_name);
         });
@@ -301,7 +302,7 @@ impl App {
             ui.set_width(ui.available_width());
             ui.horizontal(|ui| {
                 save = ui.add(theme::big_primary("💾 Save lesson")).clicked();
-                cancel = ui.button("Back to the list").clicked();
+                cancel = ui.add(theme::secondary("Back to the list")).clicked();
                 if self.editor.lesson.is_some() {
                     if self.editor.confirm_delete {
                         ui.label(RichText::new("Delete this lesson for good?").color(BAD));
@@ -309,7 +310,7 @@ impl App {
                         if ui.button("No").clicked() {
                             self.editor.confirm_delete = false;
                         }
-                    } else if ui.button("🗑 Delete lesson").clicked() {
+                    } else if ui.add(theme::ghost("🗑 Delete lesson")).clicked() {
                         self.editor.confirm_delete = true;
                     }
                 }
@@ -378,28 +379,32 @@ impl App {
 fn item_rows(ui: &mut egui::Ui, items: &mut Vec<Item>, base: &str, id: &str, target_name: &str, base_name: &str) {
     let mut remove = None;
     let mut up = None;
-    let w = (ui.available_width() - 200.0).max(300.0);
-    egui::Grid::new(id).num_columns(5).spacing([6.0, 6.0]).show(ui, |ui| {
-        ui.label("");
-        ui.label(muted(target_name));
-        ui.label(muted(base_name));
-        ui.label(muted("pronunciation"));
-        ui.label("");
-        ui.end_row();
+    // Fixed widths: text boxes inside a Grid stay at the first frame's column size.
+    let w = (ui.available_width() - 120.0).max(300.0);
+    let widths = [w * 0.42, w * 0.40, w * 0.18];
+    ui.push_id(id, |ui| {
+        ui.horizontal(|ui| {
+            ui.add_space(28.0);
+            for (name, width) in [target_name, base_name, "pronunciation"].into_iter().zip(widths) {
+                ui.add_sized([width, 18.0], egui::Label::new(muted(name).size(13.0)));
+            }
+        });
         for (i, it) in items.iter_mut().enumerate() {
-            ui.label(muted(format!("{}", i + 1)));
-            ui.add(egui::TextEdit::singleline(&mut it.text).desired_width(w * 0.42));
-            ui.add(egui::TextEdit::singleline(it.tr.entry(base.to_string()).or_default()).desired_width(w * 0.4));
-            ui.add(egui::TextEdit::singleline(&mut it.pron).desired_width(w * 0.18));
             ui.horizontal(|ui| {
-                if i > 0 && ui.small_button("↑").clicked() {
+                ui.add_sized([20.0, 30.0], egui::Label::new(muted(format!("{}", i + 1))));
+                ui.add_sized([widths[0], 30.0], egui::TextEdit::singleline(&mut it.text));
+                ui.add_sized(
+                    [widths[1], 30.0],
+                    egui::TextEdit::singleline(it.tr.entry(base.to_string()).or_default()),
+                );
+                ui.add_sized([widths[2], 30.0], egui::TextEdit::singleline(&mut it.pron));
+                if i > 0 && ui.add(theme::ghost("↑").small()).on_hover_text("Move up").clicked() {
                     up = Some(i);
                 }
-                if ui.small_button("✕").clicked() {
+                if ui.add(theme::ghost("✕").small()).on_hover_text("Remove").clicked() {
                     remove = Some(i);
                 }
             });
-            ui.end_row();
         }
     });
     if let Some(i) = remove {
@@ -408,7 +413,7 @@ fn item_rows(ui: &mut egui::Ui, items: &mut Vec<Item>, base: &str, id: &str, tar
     if let Some(i) = up {
         items.swap(i, i - 1);
     }
-    if ui.button("＋ Add sentence").clicked() {
+    if ui.add(theme::secondary("＋ Add sentence")).clicked() {
         items.push(Item::default());
     }
 }

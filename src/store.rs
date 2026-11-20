@@ -10,24 +10,24 @@ use serde::{Deserialize, Serialize};
 use crate::format::{parse_course, write_course};
 use crate::model::Course;
 
-/// Built-in lesson files. Several files may add lessons to one language's
-/// course (the `course:` line says which); a language's first file names it.
-pub const BUILTIN: &[(&str, &str)] = &[
-    ("es.txt", include_str!("../content/es.txt")),
-    ("es-part2.txt", include_str!("../content/es-part2.txt")),
-    ("fr.txt", include_str!("../content/fr.txt")),
-    ("fr-part2.txt", include_str!("../content/fr-part2.txt")),
-    ("de.txt", include_str!("../content/de.txt")),
-    ("de-part2.txt", include_str!("../content/de-part2.txt")),
-    ("pt.txt", include_str!("../content/pt.txt")),
-    ("pt-part2.txt", include_str!("../content/pt-part2.txt")),
-    ("zh.txt", include_str!("../content/zh.txt")),
-    ("zh-part2.txt", include_str!("../content/zh-part2.txt")),
-    ("la.txt", include_str!("../content/la.txt")),
-    ("la-part2.txt", include_str!("../content/la-part2.txt")),
-    ("vi.txt", include_str!("../content/vi.txt")),
-    ("vi-part2.txt", include_str!("../content/vi-part2.txt")),
-];
+/// `content/<lang>/<level>.txt` for each language, A1 first.
+macro_rules! levels {
+    ($($lang:literal),*) => {
+        &[$(
+            (concat!($lang, "/a1.txt"), include_str!(concat!("../content/", $lang, "/a1.txt"))),
+            (concat!($lang, "/a2.txt"), include_str!(concat!("../content/", $lang, "/a2.txt"))),
+            (concat!($lang, "/b1.txt"), include_str!(concat!("../content/", $lang, "/b1.txt"))),
+            (concat!($lang, "/b2.txt"), include_str!(concat!("../content/", $lang, "/b2.txt"))),
+            (concat!($lang, "/c1.txt"), include_str!(concat!("../content/", $lang, "/c1.txt"))),
+            (concat!($lang, "/c2.txt"), include_str!(concat!("../content/", $lang, "/c2.txt"))),
+        )*]
+    };
+}
+
+/// Built-in lesson files, one per language and level. Several files add
+/// lessons to one language's course (the `course:` line says which); the
+/// A1 file names it. Courses appear in this order.
+pub const BUILTIN: &[(&str, &str)] = levels!("es", "fr", "de", "nl", "pt", "zh", "la", "vi");
 
 /// The built-in courses, one per language, merged from their files, and
 /// what went wrong reading them.

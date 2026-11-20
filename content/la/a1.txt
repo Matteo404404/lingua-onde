@@ -1,4 +1,415 @@
 course: la
+name: Latin – from first words to mastery
+name.it: Latino – dalle prime parole alla padronanza
+name.en: Latin – from first words to mastery
+name.es: Latín – de las primeras palabras al dominio
+
+== 1 A1
+title: Salve!
+title.it: Salve!
+title.en: Hello!
+title.es: ¡Hola!
+
+dialogue:
+- Salve, Dave! Ubi est Iulia?
+  pron: Salvē, Dāve! Ubi est Iūlia?
+  it: Salve, Davo! Dov'è Giulia (dove è Giulia)?
+  en: Hello, Davus! Where is Julia?
+  es: ¡Hola, Davo! ¿Dónde está Julia (dónde es Julia)?
+- Salve, domine! Iulia in horto est. Rosas spectat.
+  pron: Salvē, domine! Iūlia in hortō est. Rosās spectat.
+  it: Salve, padrone (signore)! Giulia è in giardino (nell'orto). Guarda le rose (rose guarda).
+  en: Hello, master (lord)! Julia is in the garden. She's looking at the roses (roses she-looks-at).
+  es: ¡Hola, amo (señor)! Julia está en el jardín (en el huerto). Mira las rosas (rosas mira).
+- Et pater? Dormitne adhuc?
+  pron: Et pater? Dormitne adhūc?
+  it: E papà (e padre)? Dorme ancora (dorme-forse ancora)?
+  en: And Father? Is he still asleep (sleeps-ne still)?
+  es: ¿Y papá (y padre)? ¿Duerme todavía (duerme-acaso todavía)?
+- Non dormit. Dominus in atrio est et epistulam legit.
+  pron: Nōn dormit. Dominus in ātriō est et epistulam legit.
+  it: Non dorme. Il padrone è nell'atrio e legge una lettera.
+  en: He isn't asleep. The master is in the atrium, reading a letter.
+  es: No duerme. El amo está en el atrio y lee una carta.
+- Ecce Iulia! Salve, soror!
+  pron: Ecce Iūlia! Salvē, soror!
+  it: Ecco Giulia! Salve, sorella!
+  en: Here's Julia! Hello, sister!
+  es: ¡Aquí está Julia! ¡Hola, hermana!
+- Salve, Marce! Rosam tibi do.
+  pron: Salvē, Mārce! Rosam tibi dō.
+  it: Ciao, Marco! Ti do una rosa (rosa a-te do).
+  en: Hello, Marcus! I'm giving you a rose (rose to-you I-give).
+  es: ¡Hola, Marco! Te doy una rosa (rosa a-ti doy).
+- Gratias, soror! Rosa pulchra est.
+  pron: Grātiās, soror! Rosa pulchra est.
+  it: Grazie, sorella! La rosa è bella (rosa bella è).
+  en: Thank you, sister! The rose is beautiful (rose beautiful is).
+  es: ¡Gracias, hermana! La rosa es preciosa (rosa preciosa es).
+- Pulchra est, sed spinas habet!
+  pron: Pulchra est, sed spīnās habet!
+  it: È bella, ma ha le spine (spine ha)!
+  en: It's beautiful, but it has thorns (thorns it-has)!
+  es: ¡Es preciosa, pero tiene espinas (espinas tiene)!
+
+notes.it:
+1. Salve, "sta' bene", è il saluto più comune; a più persone si dice
+   salvete. In italiano "salve" è rimasto identico.
+2. Nominativo e accusativo. Il soggetto va al nominativo (Iulia, rosa,
+   dominus), il complemento oggetto all'accusativo (rosam, epistulam,
+   spinas). È la desinenza a dire chi fa che cosa, perciò l'ordine delle
+   parole è libero e il verbo sta spesso in fondo, Rosas spectat.
+3. Il vocativo serve per chiamare qualcuno, Davus diventa Dave, Marcus
+   Marce, dominus domine. La particella -ne attaccata alla prima parola
+   forma una domanda sì/no, Dormitne? "dorme?".
+4. Molte parole sono di casa in italiano, hortus → orto, epistula →
+   epistola, atrium → atrio, dormit → dorme, spina e rosa invariate.
+   Pater → padre; soror → sorella, attraverso una forma diminutiva.
+5. Nella pronuncia classica c e g sono sempre dure (Marce si legge
+   "Marke"), v suona come la u di "uovo" (Dave suona circa "Daue"), ae come
+   "ai". La lineetta sulle vocali (ā, ē, ī, ō, ū) segna una vocale lunga,
+   che dura circa il doppio di una breve.
+notes.en:
+1. Salve, "be well", is the everyday greeting; to several people you say
+   salvete. Italian still uses "salve" unchanged.
+2. Nominative and accusative. The subject is in the nominative (Iulia,
+   rosa, dominus), the direct object in the accusative (rosam, epistulam,
+   spinas). The ending tells who does what, so word order is free and the
+   verb often comes last, Rosas spectat.
+3. The vocative is used to call someone, Davus becomes Dave, Marcus Marce,
+   dominus domine. The particle -ne attached to the first word makes a
+   yes/no question, Dormitne? "is he asleep?".
+4. Many words live on in Italian, hortus → orto, epistula → epistola,
+   atrium → atrio, dormit → dorme, spina and rosa unchanged. Pater →
+   padre; soror → sorella, through a diminutive form.
+5. In classical pronunciation c and g are always hard (Marce sounds
+   "Marke"), v sounds like English w (Dave is roughly "Dah-weh"), ae like
+   "eye". The bar over a vowel (ā, ē, ī, ō, ū) marks a long vowel, held
+   about twice as long as a short one.
+notes.es:
+1. Salve, "que estés bien", es el saludo más corriente; a varias personas se
+   les dice salvete. En español sobrevive en la Salve, la oración que empieza
+   Salve, Regina.
+2. Nominativo y acusativo. El sujeto va en nominativo (Iulia, rosa, dominus),
+   el complemento directo en acusativo (rosam, epistulam, spinas). Es la
+   terminación la que dice quién hace qué; por eso el orden de las palabras
+   es libre y el verbo va a menudo al final, Rosas spectat.
+3. El vocativo sirve para llamar a alguien, Davus pasa a Dave, Marcus a
+   Marce, dominus a domine. La partícula -ne pegada a la primera palabra forma
+   una pregunta de sí o no, Dormitne? "¿duerme?".
+4. Muchas palabras siguen vivas en español, hortus → huerto, epistula →
+   epístola, atrium → atrio, dormit → duerme, spina → espina, rosa sin
+   cambios. Pater → padre; soror → sor, el tratamiento de las monjas, mientras
+   que "hermana" viene de (soror) germana.
+5. En la pronunciación clásica c y g son siempre duras (Marce se lee
+   "Marke"), v suena como la u de "huevo" (Dave suena más o menos "Daue"), ae
+   como "ai". La rayita sobre las vocales (ā, ē, ī, ō, ū) marca una vocal
+   larga, que dura más o menos el doble que una breve.
+
+ex1:
+- Dominus in horto est.
+  it: Il padrone è in giardino.
+  en: The master is in the garden.
+  es: El amo está en el jardín.
+- Iulia epistulam legit.
+  it: Giulia legge una lettera.
+  en: Julia is reading a letter.
+  es: Julia lee una carta.
+- Ubi est Davus? Dormitne?
+  it: Dov'è Davo? Dorme?
+  en: Where is Davus? Is he asleep?
+  es: ¿Dónde está Davo? ¿Duerme?
+- Rosam tibi do, pater.
+  it: Ti do una rosa, papà.
+  en: I'm giving you a rose, Father.
+  es: Te doy una rosa, papá.
+
+ex2:
+- Ubi [est] Marcus?
+  it: Dov'è Marco?
+  en: Where is Marcus?
+  es: ¿Dónde está Marco?
+- Iulia [rosam] spectat.
+  it: Giulia guarda la rosa.
+  en: Julia is looking at the rose.
+  es: Julia mira la rosa.
+- Pater non [dormit].
+  it: Il padre non dorme.
+  en: Father is not asleep.
+  es: El padre no duerme.
+- [Salve], [soror]!
+  it: Ciao, sorella!
+  en: Hello, sister!
+  es: ¡Hola, hermana!
+
+== 2 A1
+title: Ad forum
+title.it: Al foro
+title.en: To the forum
+title.es: Al foro
+
+dialogue:
+- Marce, Dave, hodie ad forum ambulatis.
+  pron: Mārce, Dāve, hodiē ad forum ambulātis.
+  it: Marco, Davo, oggi andate (camminate) al foro.
+  en: Marcus, Davus, today you are walking to the forum.
+  es: Marco, Davo, hoy vais (camináis) al foro.
+- Quid emimus, pater?
+  pron: Quid emimus, pater?
+  it: Che cosa compriamo, papà?
+  en: What are we buying, Father?
+  es: ¿Qué compramos, papá?
+- Panem, olivas et vinum emitis. Ecce pecunia.
+  pron: Pānem, olīvās et vīnum emitis. Ecce pecūnia.
+  it: Comprate pane, olive e vino. Ecco i soldi (il denaro).
+  en: You're buying bread, olives and wine. Here's the money.
+  es: Compráis pan, aceitunas y vino. Aquí está el dinero.
+- Iulia quoque venit? Forum amat.
+  pron: Iūlia quoque venit? Forum amat.
+  it: Viene anche Giulia? Il foro le piace tanto (foro ama).
+  en: Is Julia coming too? She loves the forum (forum she-loves).
+  es: ¿Viene también Julia? Le encanta el foro (foro ama).
+- Iulia domi manet et epistulam scribit.
+  pron: Iūlia domī manet et epistulam scrībit.
+  it: Giulia resta a casa e scrive una lettera.
+  en: Julia is staying at home and writing a letter.
+  es: Julia se queda en casa y escribe una carta.
+- Bene. Davus saccum portat, ego pecuniam.
+  pron: Bene. Dāvus saccum portat, ego pecūniam.
+  it: Bene. Davo porta il sacco, io i soldi.
+  en: Fine. Davus carries the sack, I carry the money.
+  es: Bien. Davo lleva el saco, yo el dinero.
+- Semper ego saccum porto! Saccus gravis est.
+  pron: Semper ego saccum portō! Saccus gravis est.
+  it: Il sacco lo porto sempre io (sempre io sacco porto)! Il sacco è pesante (grave).
+  en: I always carry the sack (always I sack carry)! The sack is heavy.
+  es: ¡Siempre llevo yo el saco (siempre yo saco llevo)! El saco pesa mucho (es grave).
+- Tace, Dave, et ambula!
+  pron: Tacē, Dāve, et ambulā!
+  it: Taci, Davo, e cammina!
+  en: Be quiet, Davus, and walk!
+  es: ¡Calla, Davo, y camina!
+
+notes.it:
+1. Ad forum "verso il foro". Ad con l'accusativo indica il moto a luogo,
+   mentre in con l'ablativo indica lo stato in luogo (in horto, lezione 1).
+   Domi "a casa" è un antico locativo e non vuole preposizione.
+2. Il presente indicativo fa ambulo, ambulas, ambulat, ambulamus,
+   ambulatis, ambulant. Come in italiano il pronome soggetto si omette;
+   ego compare solo per dare enfasi, Semper ego saccum porto!
+3. All'accusativo olivas ha il plurale in -as, panem (terza declinazione)
+   esce in -em. Vinum, neutro, è uguale al nominativo e all'accusativo.
+4. L'italiano viene soprattutto dall'accusativo latino, panem → pane,
+   saccum → sacco, vinum → vino. Pecunia deriva da pecus "bestiame",
+   l'antica ricchezza, e ha dato "pecuniario". Gravis → grave, tacere e
+   portare sono rimasti tali e quali.
+5. L'imperativo singolare è il tema puro del verbo, tace!, ambula!, come
+   "taci!", "cammina!". Al plurale si aggiunge -te, tacete, ambulate.
+notes.en:
+1. Ad forum "to the forum". Ad with the accusative marks motion towards a
+   place, while in with the ablative marks position (in horto, lesson 1).
+   Domi "at home" is an old locative and takes no preposition.
+2. The present indicative runs ambulo, ambulas, ambulat, ambulamus,
+   ambulatis, ambulant. As in Italian the subject pronoun is left out;
+   ego appears only for emphasis, Semper ego saccum porto!
+3. In the accusative olivas has the plural in -as, panem (third
+   declension) ends in -em. Vinum, a neuter, is the same in nominative and
+   accusative.
+4. Italian comes mostly from the Latin accusative, panem → pane, saccum →
+   sacco, vinum → vino. Pecunia comes from pecus "cattle", the old form of
+   wealth, hence English "pecuniary". Gravis → grave; tacere and portare
+   are unchanged in Italian.
+5. The singular imperative is the bare verb stem, tace!, ambula!, like
+   Italian "taci!", "cammina!". The plural adds -te, tacete, ambulate.
+notes.es:
+1. Ad forum "hacia el foro". Ad con acusativo indica el movimiento hacia un
+   lugar, mientras que in con ablativo indica la situación en un lugar (in
+   horto, lección 1). Domi "en casa" es un antiguo locativo y no lleva
+   preposición.
+2. El presente de indicativo hace ambulo, ambulas, ambulat, ambulamus,
+   ambulatis, ambulant. Como en español, el pronombre sujeto se omite; ego
+   solo aparece para dar énfasis, Semper ego saccum porto!
+3. En acusativo olivas tiene el plural en -as, panem (tercera declinación)
+   termina en -em. Vinum, neutro, es igual en nominativo y en acusativo.
+4. El español viene sobre todo del acusativo latino, panem → pan, saccum →
+   saco, vinum → vino. Pecunia deriva de pecus "ganado", la antigua riqueza,
+   y ha dado "pecuniario" y "peculio". Gravis → grave; de tacere vienen
+   "tácito" y "taciturno"; portare → portar.
+5. El imperativo singular es el tema puro del verbo, tace!, ambula!, como
+   "¡calla!", "¡camina!". En plural se añade -te, tacete, ambulate, y de esa
+   terminación viene la -d de nuestro "callad", "caminad".
+
+ex1:
+- Davus et Marcus ad forum ambulant.
+  it: Davo e Marco vanno al foro.
+  en: Davus and Marcus walk to the forum.
+  es: Davo y Marco van al foro.
+- Iulia domi manet.
+  it: Giulia resta a casa.
+  en: Julia stays at home.
+  es: Julia se queda en casa.
+- Panem et vinum emimus.
+  it: Compriamo pane e vino.
+  en: We buy bread and wine.
+  es: Compramos pan y vino.
+- Saccus gravis est, sed Davus saccum portat.
+  it: Il sacco è pesante, ma Davo lo porta.
+  en: The sack is heavy, but Davus carries it.
+  es: El saco pesa mucho, pero Davo lo lleva.
+
+ex2:
+- Hodie ad [forum] [ambulamus].
+  it: Oggi andiamo al foro.
+  en: Today we walk to the forum.
+  es: Hoy vamos al foro.
+- Pater pecuniam [habet].
+  it: Il padre ha i soldi.
+  en: Father has the money.
+  es: El padre tiene el dinero.
+- [Tace], Dave!
+  it: Taci, Davo!
+  en: Be quiet, Davus!
+  es: ¡Calla, Davo!
+- Iulia [domi] manet et epistulam [scribit].
+  it: Giulia resta a casa e scrive una lettera.
+  en: Julia stays at home and writes a letter.
+  es: Julia se queda en casa y escribe una carta.
+
+== 3 A1
+title: In foro
+title.it: Al mercato del foro
+title.en: At the forum market
+title.es: En el mercado del foro
+
+dialogue:
+- Salvete, amici! Quid quaeritis?
+  pron: Salvēte, amīcī! Quid quaeritis?
+  it: Salve, amici! Che cosa cercate?
+  en: Hello, friends! What are you looking for?
+  es: ¡Hola, amigos! ¿Qué buscáis?
+- Salve! Panem et olivas quaerimus. Quanti constant olivae?
+  pron: Salvē! Pānem et olīvās quaerimus. Quantī cōnstant olīvae?
+  it: Salve! Cerchiamo pane e olive. Quanto costano (di-quanto stanno) le olive?
+  en: Hello! We're looking for bread and olives. How much are (of-how-much stand) the olives?
+  es: ¡Hola! Buscamos pan y aceitunas. ¿Cuánto cuestan (de-cuánto están) las aceitunas?
+- Olivae optimae sunt. Duos asses constant.
+  pron: Olīvae optimae sunt. Duōs assēs cōnstant.
+  it: Le olive sono ottime. Costano due assi.
+  en: The olives are excellent. They cost two asses (copper coins).
+  es: Las aceitunas son excelentes. Cuestan dos ases (monedas de cobre).
+- Duos asses? Nimium est! Olivae parvae sunt.
+  pron: Duōs assēs? Nimium est! Olīvae parvae sunt.
+  it: Due assi? È troppo! Le olive sono piccole.
+  en: Two asses? That's too much! The olives are small.
+  es: ¿Dos ases? ¡Es demasiado! Las aceitunas son pequeñas.
+- Parvae, sed dulces! Gusta, serve.
+  pron: Parvae, sed dulcēs! Gustā, serve.
+  it: Piccole, ma dolci! Assaggia, servo.
+  en: Small, but sweet! Have a taste, slave.
+  es: ¡Pequeñas, pero dulces! Pruébalas, esclavo.
+- Re vera bonae sunt. Domine, emimusne?
+  pron: Rē vērā bonae sunt. Domine, emimusne?
+  it: Sono buone davvero (in cosa vera). Padrone, le compriamo?
+  en: They really are good (in true thing). Master, shall we buy them?
+  es: De verdad que están buenas (en cosa verdadera). Amo, ¿las compramos?
+- Emimus. Et panem quoque. Ecce tres asses.
+  pron: Emimus. Et pānem quoque. Ecce trēs assēs.
+  it: Le compriamo. E anche il pane. Ecco tre assi.
+  en: We'll buy them. And the bread too. Here are three asses.
+  es: Las compramos. Y también el pan. Aquí tienes tres ases.
+- Gratias! Valete, amici, et redite cras!
+  pron: Grātiās! Valēte, amīcī, et redīte crās!
+  it: Grazie! Arrivederci (state bene), amici, e tornate domani!
+  en: Thank you! Goodbye (be well), friends, and come back tomorrow!
+  es: ¡Gracias! Adiós (estad bien), amigos, ¡y volved mañana!
+
+notes.it:
+1. Quanti constant? "quanto costano?". Quanti è un genitivo di prezzo; dal
+   verbo constare, "stare insieme, costare", viene l'italiano "costare".
+2. L'aggettivo concorda con il nome in genere, numero e caso, olivae
+   (femminile plurale) vuole parvae, bonae, optimae. Dulces è della terza
+   declinazione (dulcis, dulce) e al plurale esce in -es sia al maschile
+   sia al femminile.
+3. L'as (genitivo assis) era la moneta di rame più comune. I numeri uno,
+   due e tre si declinano, duos asses è un accusativo maschile, tres resta
+   uguale.
+4. Salvete e valete sono i plurali di salve e vale. Arrivando i Romani
+   dicevano salve, andando via vale, "sta' bene, sii forte", da valere
+   "essere in forze". Re vera "in realtà" si scrive anche reverā.
+5. Altre parole di famiglia, dulcis → dolce, optimus → ottimo, gustare →
+   gustare, servus → servo, amicus → amico. Quaerere "cercare, domandare"
+   è all'origine dell'italiano "chiedere".
+notes.en:
+1. Quanti constant? "how much are they?". Quanti is a genitive of price;
+   the verb constare, "to stand together, to cost", gave Italian "costare"
+   and English "cost".
+2. Adjectives agree with their noun in gender, number and case, so olivae
+   (feminine plural) takes parvae, bonae, optimae. Dulces is third
+   declension (dulcis, dulce) and its plural ends in -es for both
+   masculine and feminine.
+3. The as (genitive assis) was the commonest copper coin. The numbers one,
+   two and three decline, duos asses is a masculine accusative, tres stays
+   the same.
+4. Salvete and valete are the plurals of salve and vale. Romans said salve
+   on arriving and vale on leaving, "be well, be strong", from valere "to
+   be strong". Re vera "in fact" is also written reverā.
+5. More family words, dulcis → Italian dolce, optimus → ottimo, gustare →
+   gustare, servus → servo, amicus → amico. Quaerere "to seek, to ask" is
+   the source of Italian "chiedere" and English "query".
+notes.es:
+1. Quanti constant? "¿cuánto cuestan?". Quanti es un genitivo de precio; del
+   verbo constare, "estar juntos, costar", vienen el español "costar" y
+   "constar".
+2. El adjetivo concuerda con el sustantivo en género, número y caso, olivae
+   (femenino plural) pide parvae, bonae, optimae. Dulces es de la tercera
+   declinación (dulcis, dulce) y en plural termina en -es tanto en masculino
+   como en femenino, como nuestro "dulces".
+3. El as (genitivo assis) era la moneda de cobre más corriente. Los números
+   uno, dos y tres se declinan, duos asses es un acusativo masculino, tres no
+   cambia.
+4. Salvete y valete son los plurales de salve y vale. Al llegar, los romanos
+   decían salve; al irse, vale, "que estés bien, sé fuerte", de valere "tener
+   fuerza, estar sano". Nuestro "¡vale!" es otra forma del mismo verbo. Re
+   vera "en realidad" se escribe también reverā.
+5. Más palabras de la familia, dulcis → dulce, optimus → óptimo, gustare →
+   gustar, servus → siervo, amicus → amigo. Quaerere "buscar, preguntar" dio
+   el español "querer" y, por vía culta, "cuestión" e "inquirir".
+
+ex1:
+- Quanti constat vinum?
+  it: Quanto costa il vino?
+  en: How much is the wine?
+  es: ¿Cuánto cuesta el vino?
+- Panis optimus est, sed olivae parvae sunt.
+  it: Il pane è ottimo, ma le olive sono piccole.
+  en: The bread is excellent, but the olives are small.
+  es: El pan es excelente, pero las aceitunas son pequeñas.
+- Davus olivas gustat.
+  it: Davo assaggia le olive.
+  en: Davus tastes the olives.
+  es: Davo prueba las aceitunas.
+- Valete, amici!
+  it: Arrivederci, amici!
+  en: Goodbye, friends!
+  es: ¡Adiós, amigos!
+
+ex2:
+- Olivae [parvae] sed [dulces] sunt.
+  it: Le olive sono piccole ma dolci.
+  en: The olives are small but sweet.
+  es: Las aceitunas son pequeñas pero dulces.
+- [Quanti] constant olivae?
+  it: Quanto costano le olive?
+  en: How much are the olives?
+  es: ¿Cuánto cuestan las aceitunas?
+- Ecce [tres] [asses].
+  it: Ecco tre assi.
+  en: Here are three asses.
+  es: Aquí tienes tres ases.
+- [Valete], amici, et redite [cras]!
+  it: Arrivederci, amici, e tornate domani!
+  en: Goodbye, friends, and come back tomorrow!
+  es: ¡Adiós, amigos, y volved mañana!
 
 == 4 A1
 title: Vicinus novus

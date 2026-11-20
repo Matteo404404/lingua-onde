@@ -224,6 +224,14 @@ pub const LANGS: &[LangInfo] = &[
         voice: ("de/de_DE/thorsten/medium/de_DE-thorsten-medium", None),
     },
     LangInfo {
+        code: "nl",
+        english: "Dutch",
+        italian: "Olandese",
+        native: "Nederlands",
+        color: Color32::from_rgb(232, 118, 34),
+        voice: ("nl/nl_NL/pim/medium/nl_NL-pim-medium", None),
+    },
+    LangInfo {
         code: "pt",
         english: "Portuguese",
         italian: "Portoghese",

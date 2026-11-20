@@ -1,4 +1,434 @@
 course: vi
+name: Vietnamese – from first words to mastery
+name.it: Vietnamita – dalle prime parole alla padronanza
+name.en: Vietnamese – from first words to mastery
+name.es: Vietnamita – de las primeras palabras al dominio
+
+== 1 A1
+title: Em là người Ý
+title.it: Sono italiano
+title.en: I'm Italian
+title.es: Soy italiano
+
+dialogue:
+- Chào chị! Em tên là Luca.
+  it: Buongiorno (salutare sorella-maggiore)! Mi chiamo Luca (fratello-minore nome essere Luca).
+  en: Hello (greet elder-sister)! My name is Luca (younger-sibling name be Luca).
+  es: ¡Hola (saludar hermana-mayor)! Me llamo Luca (hermano-menor nombre ser Luca).
+- Chào em! Chị là Lan. Em là người Mỹ à?
+  it: Ciao (salutare fratello-minore)! Io sono Lan (sorella-maggiore essere Lan). Sei americano, vero (fratello-minore essere persona America à)?
+  en: Hi (greet younger-sibling)! I'm Lan (elder-sister be Lan). You're American, are you (younger-sibling be person America à)?
+  es: ¡Hola (saludar hermano-menor)! Yo soy Lan (hermana-mayor ser Lan). Eres americano, ¿no (hermano-menor ser persona América à)?
+- Không, em không phải là người Mỹ. Em là người Ý.
+  it: No, non sono americano (fratello-minore non giusto essere persona America). Sono italiano (persona Italia).
+  en: No, I'm not American (younger-sibling not right be person America). I'm Italian (person Italy).
+  es: No, no soy americano (hermano-menor no correcto ser persona América). Soy italiano (persona Italia).
+- Ồ, người Ý! Em có mệt không?
+  it: Oh, italiano! Sei stanco (fratello-minore avere stanco non)?
+  en: Oh, Italian! Are you tired (younger-sibling have tired not)?
+  es: ¡Oh, italiano! ¿Estás cansado (hermano-menor tener cansado no)?
+- Dạ, em hơi mệt. Còn chị, chị có khỏe không?
+  it: Sì (dạ), sono un po' stanco. E tu (còn sorella-maggiore), stai bene (sorella-maggiore avere sano non)?
+  en: Yes (dạ), I'm a bit tired. And you (còn elder-sister), are you well (elder-sister have healthy not)?
+  es: Sí (dạ), estoy un poco cansado. ¿Y tú (còn hermana-mayor), estás bien (hermana-mayor tener sano no)?
+- Chị khỏe, cảm ơn em. Đây là bố chị, bác Hùng.
+  it: Sto bene (sorella-maggiore sano), grazie (ringraziare fratello-minore). Questo è mio padre (padre sorella-maggiore), il signor Hùng (zio Hùng).
+  en: I'm fine (elder-sister healthy), thanks (thank younger-sibling). This is my father (father elder-sister), Mr Hùng (uncle Hùng).
+  es: Estoy bien (hermana-mayor sano), gracias (agradecer hermano-menor). Este es mi padre (padre hermana-mayor), el señor Hùng (tío Hùng).
+- Cháu chào bác ạ! Cháu là Luca.
+  it: Buongiorno, signore (nipote salutare zio ạ)! Sono Luca (nipote essere Luca).
+  en: Good morning, sir (nephew greet uncle ạ)! I'm Luca (nephew be Luca).
+  es: ¡Buenos días, señor (sobrino saludar tío ạ)! Soy Luca (sobrino ser Luca).
+- Chào cháu! Bác là chủ nhà.
+  it: Ciao (salutare nipote)! Sono il padrone di casa (zio essere padrone casa).
+  en: Hello (greet nephew)! I'm the landlord (uncle be owner house).
+  es: ¡Hola (saludar sobrino)! Soy el dueño de la casa (tío ser dueño casa).
+
+notes.it:
+1. Il vietnamita del Nord ha sei toni, e il segno sulla vocale cambia il
+   significato della parola. Nel dialogo ci sono tutti e sei: Lan (ngang,
+   piano, senza segno), là (huyền, basso e discendente), có (sắc, alto e
+   ascendente), khỏe (hỏi, scende e poi risale), Mỹ (ngã, sale con
+   un'interruzione della voce), chị (nặng, basso, breve e trattenuto). Al Sud
+   hỏi e ngã si confondono, e i toni diventano cinque.
+2. Non esistono un "io" e un "tu" neutri: si usano parole di parentela scelte
+   in base all'età. Luca è più giovane di Lan, quindi dice em ("fratello
+   minore") per sé e chị ("sorella maggiore") per lei; Lan fa il contrario.
+   Con un uomo dell'età dei genitori si usano bác ("zio") e cháu ("nipote").
+   Anh ("fratello maggiore") vale per un uomo poco più grande.
+3. là collega due nomi (Chị là Lan) e non cambia mai forma. Si nega con
+   không phải là, alla lettera "non è giusto che sia", em không phải là người
+   Mỹ. Nelle domande sì/no si mette có ... không intorno all'aggettivo o al
+   verbo, Em có mệt không? La particella à in fondo chiede conferma con un
+   pizzico di sorpresa.
+4. Dạ all'inizio e ạ alla fine della frase sono segni di rispetto verso chi è
+   più grande, Dạ, em hơi mệt; Cháu chào bác ạ! Al Nord "sì" si dice anche
+   vâng, al Sud quasi sempre dạ. Còn ... ? rimanda la domanda all'altro, come
+   "e tu?".
+5. người ("persona") + paese indica la nazionalità, người Ý, người Mỹ, người
+   Việt. Ý e Mỹ sono parole sino-vietnamite, lette dai caratteri cinesi 意 e
+   美 usati per "Italia" e "America". Bố è il padre al Nord; al Sud si dice
+   ba.
+notes.en:
+1. Northern Vietnamese has six tones, and the mark on the vowel changes the
+   meaning of the word. All six appear in the dialogue: Lan (ngang, level, no
+   mark), là (huyền, low and falling), có (sắc, high and rising), khỏe (hỏi,
+   dipping then rising), Mỹ (ngã, rising with a break in the voice), chị
+   (nặng, low, short and tight). In the South hỏi and ngã merge, leaving five
+   tones.
+2. There is no neutral "I" and "you": speakers use kinship words chosen by
+   age. Luca is younger than Lan, so he calls himself em ("younger sibling")
+   and her chị ("elder sister"); Lan does the reverse. With a man of your
+   parents' generation you use bác ("uncle") and cháu ("nephew, niece").
+   Anh ("elder brother") is for a man a little older than you.
+3. là links two nouns (Chị là Lan) and never changes form. Its negative is
+   không phải là, literally "it is not right that ... is", em không phải là
+   người Mỹ. Yes/no questions wrap có ... không around the adjective or verb,
+   Em có mệt không? The particle à at the end asks for confirmation with a
+   touch of surprise.
+4. Dạ at the start and ạ at the end of a sentence show respect to someone
+   older, Dạ, em hơi mệt; Cháu chào bác ạ! In the North "yes" is also vâng,
+   in the South almost always dạ. Còn ... ? turns the question back, like
+   "and you?".
+5. người ("person") + country gives the nationality, người Ý, người Mỹ,
+   người Việt. Ý and Mỹ are Sino-Vietnamese words, read from the Chinese
+   characters 意 and 美 used for "Italy" and "America". Bố is "father" in the
+   North; the South says ba.
+notes.es:
+1. El vietnamita del Norte tiene seis tonos, y la marca sobre la vocal cambia
+   el significado de la palabra. En el diálogo aparecen los seis: Lan (ngang,
+   llano, sin marca), là (huyền, bajo y descendente), có (sắc, alto y
+   ascendente), khỏe (hỏi, baja y vuelve a subir), Mỹ (ngã, sube con un corte
+   en la voz), chị (nặng, bajo, breve y tenso). En el Sur hỏi y ngã se
+   confunden, y quedan cinco tonos.
+2. No existen un "yo" y un "tú" neutros: se usan palabras de parentesco
+   elegidas según la edad. Luca es más joven que Lan, así que dice em
+   ("hermano menor") para sí mismo y chị ("hermana mayor") para ella; Lan
+   hace lo contrario. Con un hombre de la edad de tus padres se usan bác
+   ("tío") y cháu ("sobrino"). Anh ("hermano mayor") sirve para un hombre
+   algo mayor que tú.
+3. là une dos sustantivos (Chị là Lan) y nunca cambia de forma. Se niega con
+   không phải là, literalmente "no es correcto que sea", em không phải là
+   người Mỹ. Las preguntas de sí o no rodean el adjetivo o el verbo con
+   có ... không, Em có mệt không? La partícula à al final pide confirmación
+   con un toque de sorpresa.
+4. Dạ al principio y ạ al final de la frase muestran respeto hacia alguien
+   mayor, Dạ, em hơi mệt; Cháu chào bác ạ! En el Norte "sí" también se dice
+   vâng; en el Sur casi siempre dạ. Còn ... ? devuelve la pregunta, como
+   "¿y tú?".
+5. người ("persona") + país indica la nacionalidad, người Ý, người Mỹ, người
+   Việt. Ý y Mỹ son palabras sinovietnamitas, leídas de los caracteres chinos
+   意 y 美 que se usan para "Italia" y "América". Bố es "padre" en el Norte;
+   en el Sur se dice ba.
+
+ex1:
+- Chị Lan là người Việt.
+  it: Lan è vietnamita (sorella-maggiore Lan essere persona Vietnam).
+  en: Lan is Vietnamese (elder-sister Lan be person Vietnam).
+  es: Lan es vietnamita (hermana-mayor Lan ser persona Vietnam).
+- Bác có khỏe không ạ?
+  it: Come sta, signore (zio avere sano non ạ)?
+  en: How are you, sir (uncle have healthy not ạ)?
+  es: ¿Cómo está usted, señor (tío tener sano no ạ)?
+- Em không phải là người Ý.
+  it: Non sono italiano.
+  en: I'm not Italian.
+  es: No soy italiano.
+- Đây là Luca, người Ý.
+  it: Questo è Luca, un italiano.
+  en: This is Luca, an Italian.
+  es: Este es Luca, un italiano.
+
+ex2:
+- Em [tên] là Luca.
+  it: Mi chiamo Luca.
+  en: My name is Luca.
+  es: Me llamo Luca.
+- Chị [có] mệt [không]?
+  it: Sei stanca?
+  en: Are you tired?
+  es: ¿Estás cansada?
+- Em [không phải] là người Mỹ.
+  it: Non sono americano.
+  en: I'm not American.
+  es: No soy americano.
+- [Cháu] chào bác [ạ]!
+  it: Buongiorno, signore!
+  en: Good morning, sir!
+  es: ¡Buenos días, señor!
+
+== 2 A1
+title: Anh bao nhiêu tuổi?
+title.it: Quanti anni hai?
+title.en: How old are you?
+title.es: ¿Cuántos años tienes?
+
+dialogue:
+- Luca ơi, đây là Minh, em họ chị.
+  it: Luca (Luca ơi), questo è Minh, mio cugino (fratello-minore parente sorella-maggiore).
+  en: Luca (Luca ơi), this is Minh, my cousin (younger-sibling kin elder-sister).
+  es: Luca (Luca ơi), este es Minh, mi primo (hermano-menor pariente hermana-mayor).
+- Em chào anh! Anh bao nhiêu tuổi ạ?
+  it: Ciao (fratello-minore salutare fratello-maggiore)! Quanti anni hai (fratello-maggiore quanto età ạ)?
+  en: Hello (younger-sibling greet elder-brother)! How old are you (elder-brother how-many age ạ)?
+  es: ¡Hola (hermano-menor saludar hermano-mayor)! ¿Cuántos años tienes (hermano-mayor cuánto edad ạ)?
+- Anh hai mươi tám tuổi. Còn em?
+  it: Ho ventotto anni (fratello-maggiore due dieci otto età). E tu?
+  en: I'm twenty-eight (elder-brother two ten eight age). And you?
+  es: Tengo veintiocho años (hermano-mayor dos diez ocho edad). ¿Y tú?
+- Em hai mươi tuổi. Em là sinh viên.
+  it: Ho vent'anni (fratello-minore due dieci età). Sono uno studente universitario.
+  en: I'm twenty (younger-sibling two ten age). I'm a university student.
+  es: Tengo veinte años (hermano-menor dos diez edad). Soy estudiante universitario.
+- Em học gì?
+  it: Che cosa studi (fratello-minore studiare che-cosa)?
+  en: What do you study (younger-sibling study what)?
+  es: ¿Qué estudias (hermano-menor estudiar qué)?
+- Em học tiếng Anh và tiếng Ý. Anh có nói tiếng Việt không?
+  it: Studio inglese e italiano (lingua Inghilterra e lingua Italia). Parli vietnamita (fratello-maggiore avere parlare lingua Vietnam non)?
+  en: I study English and Italian (language England and language Italy). Do you speak Vietnamese (elder-brother have speak language Vietnam not)?
+  es: Estudio inglés e italiano (lengua Inglaterra y lengua Italia). ¿Hablas vietnamita (hermano-mayor tener hablar lengua Vietnam no)?
+- Anh nói một chút thôi. Tiếng Việt khó quá!
+  it: Solo un pochino (fratello-maggiore parlare un-po' soltanto). Il vietnamita è difficilissimo (lingua Vietnam difficile troppo)!
+  en: Just a little (elder-brother speak a-bit only). Vietnamese is so hard (language Vietnam hard too)!
+  es: Solo un poquito (hermano-mayor hablar un-poco nada-más). ¡El vietnamita es dificilísimo (lengua Vietnam difícil demasiado)!
+- Không khó đâu anh! Em dạy anh tiếng Việt, anh dạy em tiếng Ý nhé.
+  it: Ma no, non è difficile (non difficile affatto fratello-maggiore)! Io ti insegno il vietnamita e tu mi insegni l'italiano, va bene (nhé)?
+  en: It's not hard at all (not hard đâu elder-brother)! I'll teach you Vietnamese and you teach me Italian, OK (nhé)?
+  es: ¡Qué va, no es difícil (no difícil đâu hermano-mayor)! Yo te enseño vietnamita y tú me enseñas italiano, ¿vale (nhé)?
+
+notes.it:
+1. ơi dopo un nome serve a chiamare qualcuno, come "ehi", Luca ơi, Bác ơi.
+   I numeri da 1 a 10 sono một, hai, ba, bốn, năm, sáu, bảy, tám, chín,
+   mười. Le decine si formano con mươi, che perde il tono discendente di
+   mười, hai mươi "venti", hai mươi tám "ventotto".
+2. Chiedere l'età appena conosciuti è normale, perché decide i pronomi. Minh
+   è più giovane, quindi chiama Luca anh ("fratello maggiore") e dice em per
+   sé. Luca, che con Lan diceva em, con Minh dice anh. La stessa persona
+   cambia la parola per "io" a seconda di chi ha davanti.
+3. Davanti a un aggettivo o a un'età non si usa là, Em hai mươi tuổi, Tiếng
+   Việt khó quá. Gli aggettivi funzionano come verbi. quá dopo un aggettivo
+   significa "tanto, troppo" e rende la frase esclamativa.
+4. tiếng vuol dire "suono, voce" e anche "lingua", tiếng Việt, tiếng Ý. Anh
+   di tiếng Anh è la sillaba sino-vietnamita 英 che indica l'Inghilterra, e
+   si scrive proprio come anh "fratello maggiore". Em họ è un cugino più
+   giovane, alla lettera "fratello minore del casato".
+5. Le particelle finali danno il tono alla frase. thôi "soltanto, e basta";
+   không ... đâu nega con decisione ma in modo amichevole, "ma no, per
+   niente"; nhé propone qualcosa con gentilezza, "va bene?". Al Sud al posto
+   di nhé si dice nha.
+notes.en:
+1. ơi after a name calls someone, like "hey", Luca ơi, Bác ơi. The numbers
+   from 1 to 10 are một, hai, ba, bốn, năm, sáu, bảy, tám, chín, mười. Tens
+   are made with mươi, which loses the falling tone of mười, hai mươi
+   "twenty", hai mươi tám "twenty-eight".
+2. Asking someone's age when you first meet is normal, because it settles
+   the pronouns. Minh is younger, so he calls Luca anh ("elder brother") and
+   himself em. Luca, who said em with Lan, says anh with Minh. The same
+   person changes his word for "I" depending on who is in front of him.
+3. là is not used before an adjective or an age, Em hai mươi tuổi, Tiếng
+   Việt khó quá. Adjectives work like verbs. quá after an adjective means
+   "so, too" and makes the sentence an exclamation.
+4. tiếng means "sound, voice" and also "language", tiếng Việt, tiếng Ý. The
+   Anh of tiếng Anh is the Sino-Vietnamese syllable 英 for England, spelled
+   exactly like anh "elder brother". Em họ is a younger cousin, literally
+   "younger sibling of the clan".
+5. Final particles set the tone of a sentence. thôi "only, that's all";
+   không ... đâu denies firmly but kindly, "not at all"; nhé makes a friendly
+   suggestion, "OK?". In the South nha replaces nhé.
+notes.es:
+1. ơi después de un nombre sirve para llamar a alguien, como "oye", Luca ơi,
+   Bác ơi. Los números del 1 al 10 son một, hai, ba, bốn, năm, sáu, bảy,
+   tám, chín, mười. Las decenas se forman con mươi, que pierde el tono
+   descendente de mười, hai mươi "veinte", hai mươi tám "veintiocho".
+2. Preguntar la edad al conocer a alguien es normal, porque decide los
+   pronombres. Minh es más joven, así que llama a Luca anh ("hermano mayor")
+   y dice em para sí mismo. Luca, que con Lan decía em, con Minh dice anh.
+   La misma persona cambia la palabra para "yo" según quién tenga delante.
+3. Delante de un adjetivo o de una edad no se usa là, Em hai mươi tuổi,
+   Tiếng Việt khó quá. Los adjetivos funcionan como verbos. quá después de
+   un adjetivo significa "tan, demasiado" y da a la frase un tono
+   exclamativo.
+4. tiếng significa "sonido, voz" y también "lengua", tiếng Việt, tiếng Ý. El
+   Anh de tiếng Anh es la sílaba sinovietnamita 英 que designa Inglaterra, y
+   se escribe igual que anh "hermano mayor". Em họ es un primo más joven,
+   literalmente "hermano menor del linaje".
+5. Las partículas finales dan el tono a la frase. thôi "solo, nada más";
+   không ... đâu niega con firmeza pero con amabilidad, "qué va, para nada";
+   nhé propone algo con suavidad, "¿vale?". En el Sur se dice nha en lugar
+   de nhé.
+
+ex1:
+- Chị Lan bao nhiêu tuổi?
+  it: Quanti anni ha Lan (sorella-maggiore Lan quanto età)?
+  en: How old is Lan (elder-sister Lan how-many age)?
+  es: ¿Cuántos años tiene Lan (hermana-mayor Lan cuánto edad)?
+- Minh là sinh viên, Minh học tiếng Ý.
+  it: Minh è uno studente, studia italiano.
+  en: Minh is a student, he studies Italian.
+  es: Minh es estudiante, estudia italiano.
+- Em nói tiếng Anh một chút thôi.
+  it: Parlo solo un po' di inglese.
+  en: I only speak a little English.
+  es: Solo hablo un poco de inglés.
+- Tiếng Ý có khó không?
+  it: L'italiano è difficile (lingua Italia avere difficile non)?
+  en: Is Italian hard (language Italy have hard not)?
+  es: ¿Es difícil el italiano (lengua Italia tener difícil no)?
+
+ex2:
+- Anh [bao nhiêu] tuổi?
+  it: Quanti anni hai?
+  en: How old are you?
+  es: ¿Cuántos años tienes?
+- Em [học] tiếng Việt.
+  it: Studio vietnamita.
+  en: I study Vietnamese.
+  es: Estudio vietnamita.
+- Tiếng Việt [khó] [quá]!
+  it: Il vietnamita è difficilissimo!
+  en: Vietnamese is so hard!
+  es: ¡El vietnamita es dificilísimo!
+- Luca [ơi], đây là Minh.
+  it: Luca, questo è Minh.
+  en: Luca, this is Minh.
+  es: Luca, este es Minh.
+
+== 3 A1
+title: Đi ăn phở
+title.it: A mangiare il phở
+title.en: Out for phở
+title.es: A comer phở
+
+dialogue:
+- Anh Luca ơi, anh có đói không? Mình đi ăn phở nhé!
+  it: Luca (fratello-maggiore Luca ơi), hai fame (avere affamato non)? Andiamo a mangiare il phở (noi andare mangiare phở nhé)!
+  en: Luca (elder-brother Luca ơi), are you hungry (have hungry not)? Let's go and eat phở (we go eat phở nhé)!
+  es: Luca (hermano-mayor Luca ơi), ¿tienes hambre (tener hambriento no)? ¡Vamos a comer phở (nosotros ir comer phở nhé)!
+- Ừ, anh đói lắm! Nhưng ăn ở đâu?
+  it: Sì (ừ), ho una fame da lupi (fratello-maggiore affamato molto)! Ma dove (mangiare a dove)?
+  en: Yeah (ừ), I'm starving (elder-brother hungry very)! But where (eat at where)?
+  es: Sí (ừ), ¡tengo muchísima hambre (hermano-mayor hambriento mucho)! Pero ¿dónde (comer en dónde)?
+- Ngay ở đây, ở nhà bác Hùng! Phở bác Hùng ngon lắm.
+  it: Proprio qui, dal signor Hùng (a casa zio Hùng)! Il phở del signor Hùng è buonissimo (phở zio Hùng buono molto).
+  en: Right here, at Mr Hùng's (at house uncle Hùng)! Mr Hùng's phở is delicious (phở uncle Hùng tasty very).
+  es: ¡Aquí mismo, en casa del señor Hùng (en casa tío Hùng)! El phở del señor Hùng está riquísimo (phở tío Hùng sabroso mucho).
+- Chào hai cháu! Hai cháu ăn gì?
+  it: Salve, ragazzi (salutare due nipote)! Che cosa mangiate (due nipote mangiare che-cosa)?
+  en: Hello, you two (greet two nephew)! What will you have (two nephew eat what)?
+  es: ¡Hola, chicos (saludar dos sobrino)! ¿Qué vais a comer (dos sobrino comer qué)?
+- Bác ơi, cho cháu một bát phở bò ạ.
+  it: Per me una scodella di phở al manzo, per favore (zio ơi, dare nipote una scodella phở manzo ạ).
+  en: A bowl of beef phở for me, please (uncle ơi, give nephew one bowl phở beef ạ).
+  es: Para mí un tazón de phở de ternera, por favor (tío ơi, dar sobrino un tazón phở ternera ạ).
+- Cháu cũng thế ạ. Anh uống trà đá nhé?
+  it: Anche per me (nipote anche così ạ). Prendi un tè col ghiaccio (fratello-maggiore bere tè ghiaccio nhé)?
+  en: Same for me (nephew also so ạ). Will you have iced tea (elder-brother drink tea ice nhé)?
+  es: Lo mismo para mí (sobrino también así ạ). ¿Tomas un té con hielo (hermano-mayor beber té hielo nhé)?
+- Trà đá là gì?
+  it: Che cos'è il trà đá (tè ghiaccio essere che-cosa)?
+  en: What's trà đá (tea ice be what)?
+  es: ¿Qué es el trà đá (té hielo ser qué)?
+- Là trà xanh với đá, anh ạ. Rẻ mà ngon lắm!
+  it: È tè verde con ghiaccio (essere tè verde con ghiaccio, fratello-maggiore ạ). Costa poco ed è buonissimo (economico eppure buono molto)!
+  en: It's green tea with ice (be tea green with ice, elder-brother ạ). Cheap and really good (cheap yet tasty very)!
+  es: Es té verde con hielo (ser té verde con hielo, hermano-mayor ạ). ¡Barato y riquísimo (barato pero sabroso mucho)!
+
+notes.it:
+1. Cho cháu ... ạ, alla lettera "dai al nipote", è il modo normale di
+   ordinare o chiedere qualcosa. Il pronome cambia a seconda di chi serve,
+   cho cháu con una persona anziana, cho em con un cameriere giovane, cho tôi
+   in modo neutro. La scodella si chiama bát al Nord e tô al Sud.
+2. Pronuncia. ph si legge f, phở. A Hanoi d, gi e r suonano tutte come una z
+   dolce, la s di "rosa" detta al Nord, quindi gì suona "zì"; al Sud d e gi
+   sono quasi una i, "yì". đ con la barra è invece una d piena e decisa,
+   đói, đá, đâu.
+3. lắm e rất significano entrambi "molto", rất prima dell'aggettivo e lắm
+   dopo, rất ngon = ngon lắm. Mình qui è un "noi" che include chi ascolta,
+   tipico delle proposte tra amici, Mình đi ăn phở nhé!
+4. cũng "anche" sta sempre davanti al verbo o all'aggettivo, Cháu cũng thế
+   "anch'io" (nipote anche così). Le parole interrogative restano dove andrà
+   la risposta, Trà đá là gì? Là trà xanh với đá. In Rẻ mà ngon "economico
+   eppure buono", mà unisce due qualità con una punta di sorpresa.
+5. Il phở bò (manzo) e il phở gà (pollo) sono la colazione classica di
+   Hanoi. Il trà đá si beve seduti su sgabellini di plastica sul
+   marciapiede. Trà e chè vengono entrambe dal cinese 茶 "tè"; al Nord chè
+   indica anche il tè, mentre al Sud indica solo un dolce al cucchiaio.
+notes.en:
+1. Cho cháu ... ạ, literally "give the nephew", is the normal way to order
+   or ask for something. The pronoun changes with the person serving you,
+   cho cháu to an older person, cho em to a young waiter, cho tôi neutral.
+   The bowl is bát in the North and tô in the South.
+2. Pronunciation. ph is an f, phở. In Hanoi d, gi and r all sound like a
+   buzzing z, as in "zoo", so gì sounds like "zì"; in the South d and gi are
+   close to y, "yì". đ with a bar is a full, firm d, đói, đá, đâu.
+3. lắm and rất both mean "very", rất before the adjective and lắm after it,
+   rất ngon = ngon lắm. Mình here is a "we" that includes the listener,
+   typical of friendly suggestions, Mình đi ăn phở nhé!
+4. cũng "also" always comes before the verb or adjective, Cháu cũng thế "me
+   too" (nephew also so). Question words stay where the answer will go, Trà
+   đá là gì? Là trà xanh với đá. In Rẻ mà ngon "cheap yet tasty", mà joins
+   two qualities with a hint of surprise.
+5. Beef phở (phở bò) and chicken phở (phở gà) are the classic Hanoi
+   breakfast. Trà đá is drunk on low plastic stools on the pavement. Trà and
+   chè both come from the Chinese 茶 "tea"; in the North chè also means tea,
+   while in the South it only means a sweet dessert.
+notes.es:
+1. Cho cháu ... ạ, literalmente "da al sobrino", es la forma normal de pedir
+   algo. El pronombre cambia según quién te atienda, cho cháu con una
+   persona mayor, cho em con un camarero joven, cho tôi de forma neutra. El
+   tazón se llama bát en el Norte y tô en el Sur.
+2. Pronunciación. ph se lee f, phở. En Hanói d, gi y r suenan las tres como
+   una z zumbante, la z inglesa de "zoo", así que gì suena "zì"; en el Sur d
+   y gi son casi una y, "yì". đ con barra es, en cambio, una d plena y
+   firme, đói, đá, đâu.
+3. lắm y rất significan los dos "muy", rất delante del adjetivo y lắm
+   detrás, rất ngon = ngon lắm. Mình es aquí un "nosotros" que incluye a
+   quien escucha, típico de las propuestas entre amigos, Mình đi ăn phở nhé!
+4. cũng "también" va siempre delante del verbo o del adjetivo, Cháu cũng thế
+   "yo también" (sobrino también así). Las palabras interrogativas se quedan
+   donde irá la respuesta, Trà đá là gì? Là trà xanh với đá. En Rẻ mà ngon
+   "barato y encima rico", mà une dos cualidades con un punto de sorpresa.
+5. El phở bò (ternera) y el phở gà (pollo) son el desayuno clásico de Hanói.
+   El trà đá se toma sentado en taburetes de plástico en la acera. Trà y chè
+   vienen ambas del chino 茶 "té"; en el Norte chè también significa té,
+   mientras que en el Sur solo designa un postre dulce.
+
+ex1:
+- Bác ơi, cho cháu hai bát phở gà ạ.
+  it: Signore, due scodelle di phở al pollo, per favore (zio ơi, dare nipote due scodella phở pollo ạ).
+  en: Two bowls of chicken phở, please, sir (uncle ơi, give nephew two bowl phở chicken ạ).
+  es: Señor, dos tazones de phở de pollo, por favor (tío ơi, dar sobrino dos tazón phở pollo ạ).
+- Chị Lan cũng đói lắm.
+  it: Anche Lan ha molta fame.
+  en: Lan is very hungry too.
+  es: Lan también tiene mucha hambre.
+- Trà đá ở đây rẻ mà ngon.
+  it: Qui il tè col ghiaccio costa poco ed è buono.
+  en: The iced tea here is cheap and good.
+  es: Aquí el té con hielo es barato y bueno.
+- Mình đi uống trà đá nhé!
+  it: Andiamo a bere un tè col ghiaccio!
+  en: Let's go for an iced tea!
+  es: ¡Vamos a tomar un té con hielo!
+
+ex2:
+- Anh [có] đói [không]?
+  it: Hai fame?
+  en: Are you hungry?
+  es: ¿Tienes hambre?
+- [Cho] cháu một [bát] phở bò ạ.
+  it: Per me una scodella di phở al manzo, per favore.
+  en: A bowl of beef phở for me, please.
+  es: Para mí un tazón de phở de ternera, por favor.
+- Cháu [cũng] thế ạ.
+  it: Anche per me.
+  en: Same for me.
+  es: Lo mismo para mí.
+- Trà đá là [gì]?
+  it: Che cos'è il trà đá?
+  en: What's trà đá?
+  es: ¿Qué es el trà đá?
 
 == 4 A1
 title: Gia đình em

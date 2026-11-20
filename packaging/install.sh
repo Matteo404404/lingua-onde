@@ -38,7 +38,18 @@ else
     tmp="$(mktemp -d)"
     trap 'rm -rf "$tmp"' EXIT
     echo "Downloading Lingua Onde…"
-    curl -fL --progress-bar -o "$tmp/lingua-onde" "https://github.com/$repo/releases/latest/download/lingua-onde-linux-x86_64"
+    url="https://github.com/$repo/releases/latest/download/lingua-onde-linux-x86_64"
+    if ! curl -fL --progress-bar -o "$tmp/lingua-onde" "$url"; then
+        echo "Could not download the app. That file exists only after a release is published." >&2
+        echo "Until then, clone the repo and run ./packaging/install.sh (that build needs Rust)." >&2
+        exit 1
+    fi
+    # a GitHub error page is small; the app is tens of megabytes
+    size=$(wc -c < "$tmp/lingua-onde")
+    if [ "$size" -lt 1000000 ]; then
+        echo "The download is too small to be the app. Check the latest release on GitHub." >&2
+        exit 1
+    fi
     curl -fsSL -o "$tmp/lingua-onde.svg" "https://raw.githubusercontent.com/$repo/main/packaging/lingua-onde.svg"
     curl -fsSL -o "$tmp/lingua-onde.desktop" "https://raw.githubusercontent.com/$repo/main/packaging/lingua-onde.desktop"
     install -m 755 "$tmp/lingua-onde" "$bin"
@@ -51,10 +62,22 @@ sed "s|^Exec=.*|Exec=$bin|" "$entry" > "$desktop"
 command -v update-desktop-database >/dev/null && update-desktop-database -q "$(dirname "$desktop")" || true
 command -v gtk-update-icon-cache >/dev/null && gtk-update-icon-cache -q -t "$HOME/.local/share/icons/hicolor" || true
 
-echo "Installed. Open \"Lingua Onde\" from your app menu."
+echo "Installed. Open \"Lingua Onde\" from your app menu, or run $bin"
 if ! command -v mpv >/dev/null; then
     echo "For sound, install mpv with your package manager, for example:"
     echo "  sudo apt install mpv    (Ubuntu, Debian, Mint)"
     echo "  sudo dnf install mpv    (Fedora)"
     echo "  sudo pacman -S mpv      (Arch)"
+fi
+# the window loads these by name; a desktop usually has them, a minimal install may not
+if command -v ldconfig >/dev/null 2>&1; then
+    libs=$(ldconfig -p 2>/dev/null || true)
+    missing=""
+    for lib in libvulkan.so.1 libxkbcommon.so.0 libwayland-client.so.0 libX11.so.6; do
+        printf '%s\n' "$libs" | grep -q "$lib" || missing="$missing $lib"
+    done
+    if [ -n "$missing" ]; then
+        echo "The window may not open. Missing:$missing"
+        echo "On Ubuntu: sudo apt install mesa-vulkan-drivers libxkbcommon0 libwayland-client0 libx11-6"
+    fi
 fi

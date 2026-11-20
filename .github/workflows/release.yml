@@ -25,7 +25,8 @@ jobs:
           - os: windows-latest
             target: windows
             file: lingua-onde-windows-x86_64.exe
-          - os: macos-14
+          # macos-14 was removed on 2026-11-02. macos-15 is still Apple silicon.
+          - os: macos-15
             target: macos
             file: lingua-onde-macos-arm64.zip
     runs-on: ${{ matrix.os }}
@@ -40,6 +41,11 @@ jobs:
         shell: bash
         # one file, no separate Visual C++ install for the people who download it
         run: echo "RUSTFLAGS=-C target-feature=+crt-static" >> "$GITHUB_ENV"
+      - name: macOS version floor
+        if: runner.os == 'macOS'
+        shell: bash
+        # the README says macOS 11; the runner itself is newer
+        run: echo "MACOSX_DEPLOYMENT_TARGET=11.0" >> "$GITHUB_ENV"
       - name: Build
         run: cargo build --release --locked
       - name: Package

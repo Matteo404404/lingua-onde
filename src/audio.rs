@@ -13,11 +13,13 @@ use eframe::egui;
 
 use crate::model::lang;
 
+/// A program on the PATH, or next to this app (so `mpv.exe` can simply be
+/// dropped beside the app on Windows).
 pub fn find_program(name: &str) -> Option<PathBuf> {
     let exe = if cfg!(windows) { format!("{name}.exe") } else { name.to_string() };
-    std::env::split_paths(&std::env::var_os("PATH")?)
-        .map(|d| d.join(&exe))
-        .find(|p| p.is_file())
+    let beside = std::env::current_exe().ok().and_then(|p| p.parent().map(|d| d.to_path_buf()));
+    let path = std::env::var_os("PATH").map(|p| std::env::split_paths(&p).collect::<Vec<_>>()).unwrap_or_default();
+    beside.into_iter().chain(path).map(|d| d.join(&exe)).find(|p| p.is_file())
 }
 
 // ---------------------------------------------------------------- player

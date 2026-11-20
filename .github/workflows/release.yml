@@ -1,0 +1,63 @@
+# Builds the app for Linux, Windows and macOS when a version tag (v1.0.0...)
+# is pushed, and attaches the files to that GitHub release.
+name: Release
+
+on:
+  push:
+    tags: ["v*"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          # 22.04: an older glibc, so the Linux binary runs on more distributions.
+          - os: ubuntu-22.04
+            file: lingua-onde-linux-x86_64
+          - os: windows-latest
+            file: lingua-onde-windows-x86_64.exe
+          - os: macos-14
+            file: lingua-onde-macos-arm64.zip
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@stable
+      - name: Test
+        if: runner.os == 'Linux'
+        run: cargo test --release --locked
+      - name: Build
+        run: cargo build --release --locked
+      - name: Package
+        shell: bash
+        run: |
+          case "${{ runner.os }}" in
+            Linux) cp target/release/lingua_onde "${{ matrix.file }}" ;;
+            Windows) cp target/release/lingua_onde.exe "${{ matrix.file }}" ;;
+            macOS)
+              app="Lingua Onde.app/Contents"
+              mkdir -p "$app/MacOS" "$app/Resources"
+              cp target/release/lingua_onde "$app/MacOS/lingua_onde"
+              cat > "$app/Info.plist" <<'PLIST'
+          <?xml version="1.0" encoding="UTF-8"?>
+          <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+          <plist version="1.0"><dict>
+            <key>CFBundleName</key><string>Lingua Onde</string>
+            <key>CFBundleDisplayName</key><string>Lingua Onde</string>
+            <key>CFBundleIdentifier</key><string>io.github.matteo404404.lingua-onde</string>
+            <key>CFBundleExecutable</key><string>lingua_onde</string>
+            <key>CFBundlePackageType</key><string>APPL</string>
+            <key>CFBundleShortVersionString</key><string>${{ github.ref_name }}</string>
+            <key>NSHighResolutionCapable</key><true/>
+          </dict></plist>
+          PLIST
+              ditto -c -k --keepParent "Lingua Onde.app" "${{ matrix.file }}" ;;
+          esac
+      - uses: softprops/action-gh-release@v2
+        if: startsWith(github.ref, 'refs/tags/')
+        with:
+          files: ${{ matrix.file }}

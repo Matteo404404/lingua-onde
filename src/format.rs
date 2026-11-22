@@ -618,7 +618,10 @@ mod tests {
         let (level, number) = (l.level, l.number);
         l.level = Level::B2;
         l.number = 7;
-        assert_eq!(builtin_problems(&with("es", Some(Stage::Perfectionnement)), l), Vec::<String>::new());
+        assert_eq!(
+            builtin_problems(&with("es", Some(Stage::Perfectionnement)), l),
+            Vec::<String>::new()
+        );
         (l.level, l.number, l.dialogue) = (level, number, dialogue);
 
         l.revision = false;

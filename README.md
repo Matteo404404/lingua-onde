@@ -135,7 +135,9 @@ At the end of a lesson you can choose to go over it again the next day.
 Finished dialogues go into a spaced daily sentence review (Review, Daily
 sentences); Review, Search finds any sentence of the language. The active
 wave of lesson *n* comes due when you finish lesson *n + 49* (Settings,
-"Second wave starts"), and after the last lesson the rest come back one a day.
+"Second wave starts"), and after the last lesson the rest come back one a day,
+also alongside the next course of the language, until every lesson you studied
+has been rebuilt.
 
 ## Audio
 

@@ -149,25 +149,61 @@ impl App {
 
     /// Lessons whose active wave is due: lesson n comes back once lesson
     /// n + gap has been studied (classic: lesson 1 with lesson 50). Once the
-    /// whole course is done, every lesson not yet rebuilt is due, one a day.
+    /// course is behind the learner, the lessons it never brought back come
+    /// back one a day, oldest first, as the book's last 49 days do.
     pub fn wave2_due(&self, ci: usize) -> Vec<usize> {
         let c = &self.courses[ci];
         let gap = self.saved.wave2_gap.max(1);
-        let done = |l: &Lesson| self.saved.is_done(&c.lesson_key(l.number));
-        let finished = !c.lessons.is_empty() && c.lessons.iter().all(done);
-        let done_number = |n: u32| c.lessons.iter().any(|l| l.number == n && done(l));
+        let done = |n: u32| c.lessons.iter().any(|l| l.number == n && self.saved.is_done(&c.lesson_key(n)));
+        let open = self.wave2_open(ci);
+        let mut due: Vec<usize> = open.iter().copied().filter(|&i| done(c.lessons[i].number + gap)).collect();
+        let today = day_key(today());
+        let rebuilt_today = c.lessons.iter().any(|l| {
+            self.saved
+                .progress(&c.lesson_key(l.number))
+                .is_some_and(|p| p.wave2.as_deref() == Some(today.as_str()))
+        });
+        if self.wave2_tail(ci) && !rebuilt_today {
+            if let Some(&i) = open.iter().find(|i| !due.contains(i)) {
+                due.push(i);
+                due.sort_unstable();
+            }
+        }
+        due
+    }
+
+    /// Studied lessons whose active wave has not been done yet.
+    pub fn wave2_open(&self, ci: usize) -> Vec<usize> {
+        let c = &self.courses[ci];
         (0..c.lessons.len())
             .filter(|&i| {
-                let l = &c.lessons[i];
-                let open = self.saved.progress(&c.lesson_key(l.number)).is_some_and(|p| p.wave2.is_none());
-                done(l) && open && (finished || done_number(l.number + gap))
+                let p = self.saved.progress(&c.lesson_key(c.lessons[i].number));
+                p.is_some_and(|p| p.completed.is_some() && p.wave2.is_none())
             })
             .collect()
     }
 
-    /// The active-wave lesson that goes with studying lesson `li`: its partner
-    /// (lesson 1 with lesson 50), else the oldest one left behind.
-    pub fn wave2_for(&self, ci: usize, li: usize) -> Option<usize> {
+    /// Whether the course is behind the learner, so its last lessons need no
+    /// partner to come back: every lesson read (a built-in course still being
+    /// written is not finished), or a later course of the language started.
+    /// Someone who starts from a later course has studied nothing here, so
+    /// nothing comes back from it.
+    fn wave2_tail(&self, ci: usize) -> bool {
+        let c = &self.courses[ci];
+        let read = !c.lessons.is_empty() && c.lessons.iter().all(|l| self.saved.is_done(&c.lesson_key(l.number))) && !self.unwritten(ci);
+        let moved_on = c.stage.filter(|_| c.builtin).is_some_and(|st| {
+            self.stages_of(&c.lang)
+                .into_iter()
+                .any(|si| self.courses[si].stage.is_some_and(|s| s as u8 > st as u8) && self.done_count(si) > 0)
+        });
+        read || moved_on
+    }
+
+    /// The active-wave lesson that goes with studying lesson `li`, as
+    /// (course, lesson): its partner (lesson 1 with lesson 50), else one left
+    /// behind in this course, else one still open in an earlier course of the
+    /// same language (Foundation 51–100 come back with Perfectionnement 1–50).
+    pub fn wave2_for(&self, ci: usize, li: usize) -> Option<(usize, usize)> {
         let c = &self.courses[ci];
         let partner = c.lessons[li]
             .number
@@ -177,7 +213,45 @@ impl App {
                 let k = c.lesson_key(c.lessons[w].number);
                 self.saved.is_done(&k) && self.saved.progress(&k).is_some_and(|p| p.wave2.is_none())
             });
-        partner.or_else(|| self.wave2_due(ci).into_iter().find(|&w| w != li))
+        partner
+            .or_else(|| self.wave2_due(ci).into_iter().find(|&w| w != li))
+            .map(|w| (ci, w))
+            .or_else(|| self.wave2_pending(ci).into_iter().find(|&(wc, _)| wc != ci))
+    }
+
+    /// Every active-wave lesson due for this course's learner, as (course,
+    /// lesson): the earlier courses of the same language first, oldest first.
+    /// The second wave of a finished course goes on while the next one starts.
+    pub fn wave2_pending(&self, ci: usize) -> Vec<(usize, usize)> {
+        self.wave_courses(ci)
+            .into_iter()
+            .flat_map(|si| self.wave2_due(si).into_iter().map(move |w| (si, w)))
+            .collect()
+    }
+
+    /// Lessons still to rebuild, today or on the days to come, in the waves
+    /// that go on for this course's learner.
+    pub fn wave2_left(&self, ci: usize) -> usize {
+        self.wave_courses(ci)
+            .into_iter()
+            .filter(|&si| si == ci || self.wave2_tail(si))
+            .map(|si| self.wave2_open(si).len())
+            .sum()
+    }
+
+    /// The earlier built-in courses of this course's language, then itself.
+    fn wave_courses(&self, ci: usize) -> Vec<usize> {
+        let c = &self.courses[ci];
+        let mut v: Vec<usize> = match c.stage.filter(|_| c.builtin) {
+            Some(st) => self
+                .stages_of(&c.lang)
+                .into_iter()
+                .filter(|&si| self.courses[si].stage.is_some_and(|s| (s as u8) < st as u8))
+                .collect(),
+            None => Vec::new(),
+        };
+        v.push(ci);
+        v
     }
 
     /// A built-in course whose planned lessons are not all written yet.
@@ -201,6 +275,25 @@ impl App {
         let c = &self.courses[ci];
         match c.stage {
             Some(st) if c.builtin => format!("{} · {}", lang_name(&c.lang, &base), st.name(&base)),
+            _ => c.name_in(&base).to_string(),
+        }
+    }
+
+    /// Opens the active wave of lesson `w` of course `wc` in Review.
+    pub fn open_wave(&mut self, wc: usize, w: usize) {
+        self.review.tab = 1;
+        self.review.wave_course = Some(wc);
+        self.review.practice = Some((wc, w));
+        self.review.practice_state = Default::default();
+        self.go(Screen::Review);
+    }
+
+    /// "Foundation" for a built-in course, else the course's own name.
+    pub fn stage_name(&self, ci: usize) -> String {
+        let base = self.base();
+        let c = &self.courses[ci];
+        match c.stage {
+            Some(st) if c.builtin => st.name(&base).to_string(),
             _ => c.name_in(&base).to_string(),
         }
     }
@@ -343,7 +436,7 @@ impl App {
             ui.add_space(14.0);
         }
 
-        let due = self.saved.cards_due() + self.wave2_due(ci).len();
+        let due = self.saved.cards_due() + self.wave2_pending(ci).len();
         let items = [
             (Screen::Home, "🏠", "Home", 0),
             (Screen::Study, "▶", "Today's lesson", 0),
@@ -544,7 +637,14 @@ impl App {
                             ui.label(caps("Today").color(WAVE));
                             step(ui, studied_today, format!("new lesson {}", l.number));
                             match self.wave2_for(ci, li) {
-                                Some(w) => step(ui, false, format!("active wave: lesson {}", c.lessons[w].number)),
+                                Some((wc, w)) if wc == ci => {
+                                    step(ui, false, format!("active wave: lesson {}", c.lessons[w].number))
+                                }
+                                Some((wc, w)) => step(
+                                    ui,
+                                    false,
+                                    format!("active wave: {} lesson {}", self.stage_name(wc), self.courses[wc].lessons[w].number),
+                                ),
                                 None if l.number < self.saved.wave2_gap + 1 => {
                                     ui.label(
                                         RichText::new(format!("· active wave from lesson {}", self.saved.wave2_gap + 1))
@@ -602,13 +702,73 @@ impl App {
                         );
                     }
                     None => {
-                        ui.label(bold("🎉 Course complete").size(26.0).color(Color32::WHITE));
-                        ui.label(
-                            RichText::new(
-                                "You finished every lesson of this course. Choose a new one in Courses, or add your own lessons.",
-                            )
-                            .color(light),
-                        );
+                        // The book is read; its second wave goes on, one lesson a day,
+                        // also once the next course of the language has started.
+                        let pending = self.wave2_pending(ci);
+                        let next_stage = c.stage.filter(|_| c.builtin).and_then(|st| {
+                            self.stages_of(&c.lang)
+                                .into_iter()
+                                .find(|&si| {
+                                    let n = &self.courses[si];
+                                    n.stage.is_some_and(|s| s as u8 > st as u8) && !n.lessons.is_empty()
+                                })
+                        });
+                        let then = match next_stage {
+                            Some(si) => format!(
+                                " You can start {} now: each of its lessons brings one of these back with it.",
+                                self.stage_name(si)
+                            ),
+                            None => " Then choose a new course in Courses, or add your own lessons.".to_string(),
+                        };
+                        let left = self.wave2_left(ci);
+                        if let Some(&(wc, w)) = pending.first() {
+                            let wl = &self.courses[wc].lessons[w];
+                            ui.label(bold("✔ Every lesson read").size(26.0).color(Color32::WHITE));
+                            ui.label(
+                                RichText::new(format!(
+                                    "The active wave goes on: {left} {} still to rebuild, one a day, as the method asks.{then}",
+                                    if left == 1 { "lesson" } else { "lessons" }
+                                ))
+                                .size(15.0)
+                                .color(light),
+                            );
+                            ui.add_space(8.0);
+                            let label = if wc == ci {
+                                format!("▶  Active wave: lesson {}", wl.number)
+                            } else {
+                                format!("▶  Active wave: {} lesson {}", self.stage_name(wc), wl.number)
+                            };
+                            let go = egui::Button::new(medium(label).size(16.5).color(ACCENT_DARK))
+                                .fill(Color32::WHITE)
+                                .stroke(egui::Stroke::NONE)
+                                .corner_radius(12)
+                                .min_size(egui::vec2(220.0, 46.0));
+                            if ui.add(go).clicked() {
+                                self.open_wave(wc, w);
+                            }
+                        } else if left > 0 {
+                            ui.label(bold("✔ Today's active wave is done").size(26.0).color(Color32::WHITE));
+                            ui.label(
+                                RichText::new(format!(
+                                    "{left} {} still to rebuild: the next one comes back tomorrow.{then}",
+                                    if left == 1 { "lesson" } else { "lessons" }
+                                ))
+                                .size(15.0)
+                                .color(light),
+                            );
+                        } else {
+                            ui.label(bold("🎉 Course complete").size(26.0).color(Color32::WHITE));
+                            ui.label(
+                                RichText::new(match next_stage {
+                                    Some(si) => format!(
+                                        "You finished every lesson of this course, and its active wave too. {} is next.",
+                                        self.stage_name(si)
+                                    ),
+                                    None => "You finished every lesson of this course, and its active wave too. Choose a new one in Courses, or add your own lessons.".to_string(),
+                                })
+                                .color(light),
+                            );
+                        }
                     }
                 }
                 // Waves on the right half, behind the text.

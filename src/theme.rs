@@ -379,7 +379,15 @@ pub fn starred(text: &str, size: f32, color: Color32) -> egui::text::LayoutJob {
     let mut job = egui::text::LayoutJob::default();
     for (n, part) in text.split('*').enumerate() {
         let family = if n % 2 == 1 { bold_family() } else { FontFamily::Proportional };
-        job.append(part, 0.0, egui::TextFormat { font_id: FontId::new(size, family), color, ..Default::default() });
+        job.append(
+            part,
+            0.0,
+            egui::TextFormat {
+                font_id: FontId::new(size, family),
+                color,
+                ..Default::default()
+            },
+        );
     }
     job
 }

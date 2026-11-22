@@ -124,8 +124,9 @@ pub struct Session {
     pub checked: bool,
     pub score: (u32, u32),
     pub hide_tr: bool,
-    /// An older lesson whose second wave is due today.
-    pub wave2: Option<usize>,
+    /// An older lesson whose second wave is due today, as (course, lesson):
+    /// it can belong to an earlier course of the same language.
+    pub wave2: Option<(usize, usize)>,
     pub wave: Practice,
     pub tasks: Practice,
     /// "Go over this lesson again tomorrow", chosen at the end.
@@ -185,6 +186,9 @@ pub struct ReviewState {
     pub practice: Option<(usize, usize)>,
     pub practice_state: Practice,
     pub search: String,
+    /// The course whose active wave the tab lists (an earlier course of the
+    /// language while its wave is still going on).
+    pub wave_course: Option<usize>,
 }
 
 /// The lesson column's widest size: lines stay easy to read.
@@ -206,6 +210,7 @@ impl App {
         let key = self.courses[ci].lesson_key(lesson.number);
         let wave2 = self.wave2_for(ci, li);
         let mut steps = lesson_steps(&lesson);
+        let wave_text = wave2.map(|(wc, w)| texts(&self.courses[wc].lessons[w].dialogue));
         if wave2.is_some() {
             steps.push(Step::SecondWave);
         }
@@ -227,9 +232,10 @@ impl App {
         let mut speak = texts(&lesson.dialogue);
         speak.extend(texts(&lesson.ex1));
         speak.extend(texts(&lesson.ex2));
-        for j in [li.checked_sub(1), li.checked_sub(2)].into_iter().flatten().chain(wave2) {
+        for j in [li.checked_sub(1), li.checked_sub(2)].into_iter().flatten() {
             speak.extend(texts(&c.lessons[j].dialogue));
         }
+        speak.extend(wave_text.into_iter().flatten());
         self.voices.prepare(&lang, &speak);
 
         self.session = Some(Session {
@@ -301,8 +307,9 @@ impl App {
                 self.saved.cards.entry(format!("{key}#{i}")).or_default();
             }
         }
-        if let (Some(w), Some(wi)) = (s.wave2, s.steps.iter().position(|x| *x == Step::SecondWave)) {
+        if let (Some((wc, w)), Some(wi)) = (s.wave2, s.steps.iter().position(|x| *x == Step::SecondWave)) {
             if s.done[wi] {
+                let c = &self.courses[wc];
                 let wl = &c.lessons[w];
                 let wkey = c.lesson_key(wl.number);
                 self.saved.lessons.entry(wkey.clone()).or_default().wave2 = Some(today.clone());
@@ -977,9 +984,18 @@ impl App {
                         }
                     }
                     Step::SecondWave => {
-                        if let Some(w) = self.session.as_ref().and_then(|s| s.wave2) {
+                        if let Some((wc, w)) = self.session.as_ref().and_then(|s| s.wave2) {
                             let mut p = self.session.as_mut().map(|s| std::mem::take(&mut s.wave)).unwrap_or_default();
-                            self.reconstruct(ui, ci, w, &mut p);
+                            if wc != ci {
+                                ui.label(
+                                    muted(format!(
+                                        "The active wave of {} goes on alongside this course: today one of its lessons comes back.",
+                                        self.stage_name(wc)
+                                    ))
+                                    .size(14.0),
+                                );
+                            }
+                            self.reconstruct(ui, wc, w, &mut p);
                             if let Some(s) = self.session.as_mut() {
                                 s.wave = p;
                             }
@@ -1150,7 +1166,16 @@ impl App {
     pub fn review_screen(&mut self, ui: &mut egui::Ui) {
         let due = self.saved.cards_due();
         let ci = self.active();
-        let wave = self.wave2_due(ci);
+        let pending = self.wave2_pending(ci);
+        // The tab lists the chosen course of this language, else the oldest
+        // one whose wave is still going on.
+        let wci = self
+            .review
+            .wave_course
+            .filter(|&w| w == ci || pending.iter().any(|&(c, _)| c == w))
+            .or_else(|| pending.first().map(|&(c, _)| c))
+            .unwrap_or(ci);
+        let wave = self.wave2_due(wci);
         theme::page(ui, 780.0, |ui| {
             theme::page_title(ui, "Review", "");
             ui.add_space(-6.0);
@@ -1160,7 +1185,7 @@ impl App {
                     ui.spacing_mut().item_spacing.x = 4.0;
                     let tabs = [
                         format!("Daily sentences · {due}"),
-                        format!("Active wave · {}", wave.len()),
+                        format!("Active wave · {}", pending.len()),
                         "Search".to_string(),
                     ];
                     for (i, t) in tabs.iter().enumerate() {
@@ -1181,7 +1206,7 @@ impl App {
             ui.add_space(10.0);
             match self.review.tab {
                 0 => self.sentence_review(ui),
-                1 => self.wave_review(ui, ci, &wave),
+                1 => self.wave_review(ui, ci, wci, &wave),
                 _ => self.search(ui),
             }
         });
@@ -1312,15 +1337,35 @@ impl App {
         }
     }
 
-    fn wave_review(&mut self, ui: &mut egui::Ui, ci: usize, wave: &[usize]) {
+    /// The active-wave tab for course `ci` (the one being studied), listing
+    /// the lessons of `wci`: the same course, or an earlier one whose wave is
+    /// still going on.
+    fn wave_review(&mut self, ui: &mut egui::Ui, active: usize, ci: usize, wave: &[usize]) {
         let base = self.base();
         let course = self.courses[ci].clone();
         ui.label(muted(format!(
-            "The active wave is the second half of the method: from lesson {} on, each day you also rebuild an earlier lesson — you see it in your language and say it aloud in {}. After the last lesson the remaining ones come back one a day. Settings → “Second wave starts” changes the distance.",
+            "The active wave is the second half of the method: from lesson {} on, each day you also rebuild an earlier lesson — you see it in your language and say it aloud in {}. After the last lesson the remaining ones come back one a day, also while you go on with the next course, until every lesson has been rebuilt. Settings → “Second wave starts” changes the distance.",
             self.saved.wave2_gap + 1,
             lang_name(&course.lang, &base)
         )).size(14.0));
         ui.add_space(6.0);
+        // One chip per course whose wave is open, when there is more than one.
+        let mut courses: Vec<usize> = self.wave2_pending(active).into_iter().map(|(c, _)| c).collect();
+        courses.push(active);
+        courses.dedup();
+        if courses.len() > 1 {
+            ui.horizontal_wrapped(|ui| {
+                for &k in &courses {
+                    let n = self.wave2_due(k).len();
+                    if ui.selectable_label(k == ci, format!("{} · {n}", self.stage_name(k))).clicked() && k != ci {
+                        self.review.wave_course = Some(k);
+                        self.review.practice = None;
+                        self.stop_audio();
+                    }
+                }
+            });
+            ui.add_space(6.0);
+        }
         if let Some((_, pli)) = self.review.practice.filter(|(c, _)| *c == ci) {
             let l = course.lessons[pli].clone();
             if ui.add(theme::secondary("‹  All lessons")).clicked() {
@@ -1599,11 +1644,46 @@ mod tests {
             let k = key(&app, i);
             app.saved.lessons.entry(k).or_default().completed = Some("2026-01-01".into());
         }
-        assert_eq!(app.wave2_for(ci, 2), Some(0), "lesson 3 brings lesson 1 back");
+        assert_eq!(app.wave2_for(ci, 2), Some((ci, 0)), "lesson 3 brings lesson 1 back");
         assert!(app.wave2_due(ci).is_empty(), "nothing overdue yet");
         let k = key(&app, 0);
         app.saved.lessons.get_mut(&k).unwrap().wave2 = Some("2026-01-02".into());
         assert_eq!(app.wave2_for(ci, 2), None);
+
+        // The next course of the language carries the earlier one's wave on.
+        let mut next = app.courses[ci].clone();
+        next.stage = Some(crate::model::Stage::Perfectionnement);
+        next.id = "core-es-perfectionnement".into();
+        app.courses.push(next);
+        let pi = app.courses.len() - 1;
+        for i in 2..4 {
+            let k = key(&app, i);
+            app.saved.lessons.entry(k).or_default().completed = Some("2026-01-03".into());
+        }
+        assert_eq!(app.wave2_for(pi, 0), Some((ci, 1)), "lesson 2 comes back with the next course");
+        assert_eq!(app.wave2_pending(pi).first(), Some(&(ci, 1)));
+
+        // A course still being written is not finished when all its lessons are done.
+        if app.unwritten(ci) {
+            for i in 0..app.courses[ci].lessons.len() {
+                let k = key(&app, i);
+                app.saved.lessons.entry(k).or_default().completed = Some("2026-01-04".into());
+            }
+            let n = app.courses[ci].lessons.len();
+            let by_gap = app.wave2_due(ci);
+            assert!(!by_gap.contains(&(n - 1)), "only the gap makes lessons due");
+            // Once the next course is started, the rest come back one a day.
+            let pk = app.courses[pi].lesson_key(app.courses[pi].lessons[0].number);
+            app.saved.lessons.entry(pk).or_default().completed = Some("2026-01-05".into());
+            let with_tail = app.wave2_due(ci);
+            assert_eq!(with_tail.len(), by_gap.len() + 1, "one more a day");
+            let k = key(&app, by_gap[0]);
+            app.saved.lessons.get_mut(&k).unwrap().wave2 = Some(day_key(today()));
+            assert_eq!(app.wave2_due(ci), by_gap[1..].to_vec(), "no tail lesson once one is rebuilt today");
+        }
+        // Starting from the later course leaves the earlier one out of it.
+        app.saved.lessons.retain(|k, _| !k.starts_with("core-es#"));
+        assert!(app.wave2_pending(pi).iter().all(|&(c, _)| c == pi));
     }
 
     /// Needs mpv and a downloaded Spanish voice in LINGUA_ONDE_HOME; sound

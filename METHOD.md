@@ -128,7 +128,13 @@ every day has two parts:
    their grammar.
 
 After lesson 100 the active wave goes on, one lesson a day, until lesson 100
-itself has been rebuilt.
+itself has been rebuilt: lessons 52–100 come back on the 49 days after the
+book is read, as in the Assimil books. The learner need not wait for them:
+the next course (Perfectionnement) can start the next day, and each of its
+first lessons brings one of Foundation's last lessons back with it, so the
+two waves never pile up. The same holds from Perfectionnement to Mastery.
+A course only carries the active wave of lessons the learner has studied:
+someone who starts directly from Perfectionnement has no Foundation wave.
 
 ## 2. Perfectionnement (B2 → C1), 70 lessons
 

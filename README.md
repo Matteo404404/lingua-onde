@@ -170,6 +170,12 @@ format is in `content/FORMAT.md`.
   `src/store.rs`), and `content/<lang>/pronunciation.md` the figured
   pronunciation key where one exists. `content/FORMAT.md` is the file format,
   `METHOD.md` the method.
+- `progress.json` in the data folder: the learner's progress, keyed by course
+  id and lesson number, so updates that add lessons, courses or languages
+  keep it. Never rename a course id (`Stage::course_id`). The last good file
+  is copied to `progress.backup.json`; a file that cannot be read is set
+  aside as `progress.unreadable-<time>.json`, never overwritten. Files from
+  v1.0.0 (one 300-lesson course per language) are converted on load.
 - `packaging/` the launcher entry, icon and `install.sh`; `.github/workflows/release.yml`
   builds the downloads.
 - `assets/NotoSans-*.ttf` is Noto Sans (Regular, Medium, Bold), under the SIL

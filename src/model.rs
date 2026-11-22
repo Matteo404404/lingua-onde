@@ -131,6 +131,7 @@ impl Stage {
 
     /// Built-in course id. Foundation keeps the original id, so progress
     /// saved before the courses were split still matches.
+    /// Never change these ids: the learner's progress is keyed by them.
     pub fn course_id(self, lang: &str) -> String {
         match self {
             Stage::Foundation => format!("core-{lang}"),

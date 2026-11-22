@@ -86,6 +86,9 @@ impl App {
             new_course_lang: "es".into(),
             key_open: false,
         };
+        if let Some(n) = app.saved.notice.take() {
+            app.say(n);
+        }
         if app.course_index(&app.saved.active_course.clone()).is_none() {
             app.saved.active_course = app.courses.first().map(|c| c.id.clone()).unwrap_or_default();
         }

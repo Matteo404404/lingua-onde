@@ -8,7 +8,10 @@ use chrono::{Duration, Local, NaiveDate};
 use serde::{Deserialize, Serialize};
 
 use crate::format::{parse_course, write_course};
-use crate::model::Course;
+use crate::model::{Course, Stage};
+
+/// The layout of the progress file; older files are converted on load.
+const PROGRESS_VERSION: u32 = 1;
 
 /// `content/<lang>/<stage>-<level>.txt` for each language: the three
 /// courses (Foundation, Perfectionnement, Mastery), each split by level.
@@ -263,6 +266,12 @@ pub struct DayLog {
 #[derive(Clone, Serialize, Deserialize, Debug)]
 #[serde(default)]
 pub struct Saved {
+    /// The layout this file follows (0: before the three courses, v1.0.0).
+    #[serde(default)]
+    pub version: u32,
+    /// A message for the learner about the file itself, shown once.
+    #[serde(skip)]
+    pub notice: Option<String>,
     /// The learner's own language: translations and notes are shown in it.
     pub base: String,
     pub active_course: String,
@@ -286,6 +295,8 @@ pub struct Saved {
 impl Default for Saved {
     fn default() -> Self {
         Saved {
+            version: PROGRESS_VERSION,
+            notice: None,
             base: "it".into(),
             active_course: "core-en".into(),
             audio_dirs: BTreeMap::new(),
@@ -310,10 +321,68 @@ impl Saved {
     }
 
     pub fn load() -> Saved {
-        std::fs::read_to_string(Self::path())
-            .ok()
-            .and_then(|s| serde_json::from_str(&s).ok())
-            .unwrap_or_default()
+        Self::load_from(&Self::path())
+    }
+
+    /// Progress survives updates: lessons, courses and languages are added
+    /// around it, and its keys (course id # lesson number) never change.
+    /// A file that cannot be read is set aside, never overwritten, and a
+    /// copy of the last good file is kept next to it.
+    fn load_from(path: &Path) -> Saved {
+        let Ok(text) = std::fs::read_to_string(path) else {
+            return Saved::default();
+        };
+        match serde_json::from_str::<Saved>(&text) {
+            Ok(mut s) => {
+                let _ = std::fs::copy(path, path.with_extension("backup.json"));
+                s.migrate();
+                s
+            }
+            Err(e) => {
+                let stamp = Local::now().format("%Y%m%d-%H%M%S");
+                let aside = path.with_extension(format!("unreadable-{stamp}.json"));
+                let _ = std::fs::rename(path, &aside);
+                Saved {
+                    notice: Some(format!(
+                        "Your progress file could not be read ({e}). It is kept as {} and a new one was started.",
+                        aside.display()
+                    )),
+                    ..Saved::default()
+                }
+            }
+        }
+    }
+
+    /// Converts a file written by an older version.
+    fn migrate(&mut self) {
+        if self.version < 1 {
+            // Up to v1.0.0 each language was one course of 300 lessons:
+            // 106–175 are now Perfectionnement 1–70, 176–300 Mastery 1–125.
+            let moved = |key: &str| -> Option<String> {
+                let (course, rest) = key.split_once('#')?;
+                let lang = course.strip_prefix("core-").filter(|l| !l.contains('-'))?;
+                let (num, tail) = rest.split_once('#').map_or((rest, ""), |(n, t)| (n, t));
+                let n: u32 = num.parse().ok()?;
+                let (stage, m) = match n {
+                    106..=175 => (Stage::Perfectionnement, n - 105),
+                    176..=300 => (Stage::Mastery, n - 175),
+                    _ => return None,
+                };
+                let tail = if tail.is_empty() { String::new() } else { format!("#{tail}") };
+                Some(format!("{}#{m}{tail}", stage.course_id(lang)))
+            };
+            fn rekey<T>(map: &mut BTreeMap<String, T>, moved: &dyn Fn(&str) -> Option<String>) {
+                let keys: Vec<String> = map.keys().filter(|k| moved(k).is_some()).cloned().collect();
+                for k in keys {
+                    if let (Some(v), Some(new)) = (map.remove(&k), moved(&k)) {
+                        map.insert(new, v);
+                    }
+                }
+            }
+            rekey(&mut self.lessons, &moved);
+            rekey(&mut self.cards, &moved);
+        }
+        self.version = PROGRESS_VERSION;
     }
 
     pub fn save(&self) -> Result<(), String> {
@@ -362,6 +431,46 @@ impl Saved {
 #[cfg(test)]
 mod tests {
     use super::*;
+
+    #[test]
+    fn progress_survives_updates() {
+        let dir = std::env::temp_dir().join(format!("lingua-onde-progress-{}", std::process::id()));
+        let _ = std::fs::remove_dir_all(&dir);
+        std::fs::create_dir_all(&dir).unwrap();
+        let path = dir.join("progress.json");
+
+        // A v1.0.0 file: one 300-lesson course per language, no version.
+        std::fs::write(
+            &path,
+            r#"{"base":"it","active_course":"core-es","lessons":{"core-es#3":{"times":2},"core-es#151":{"times":1},"core-es#201":{"times":1}},"cards":{"core-es#151#0":{"reps":4}},"future_field":true}"#,
+        )
+        .unwrap();
+        let s = Saved::load_from(&path);
+        assert_eq!(s.version, PROGRESS_VERSION);
+        assert_eq!(s.lessons["core-es#3"].times, 2);
+        assert!(s.lessons.contains_key("core-es-perfectionnement#46"));
+        assert!(s.lessons.contains_key("core-es-mastery#26"));
+        assert_eq!(s.cards["core-es-perfectionnement#46#0"].reps, 4);
+        assert!(dir.join("progress.backup.json").exists());
+
+        // A current file is left as it is.
+        let mut again = s.clone();
+        again.migrate();
+        assert_eq!(again.lessons.len(), 3);
+
+        // A file that cannot be read is kept aside, never lost.
+        std::fs::write(&path, "{ not json").unwrap();
+        let fresh = Saved::load_from(&path);
+        assert!(fresh.notice.is_some() && fresh.lessons.is_empty());
+        let kept: Vec<_> = std::fs::read_dir(&dir)
+            .unwrap()
+            .filter_map(|e| e.ok())
+            .filter(|e| e.file_name().to_string_lossy().contains("unreadable"))
+            .collect();
+        assert_eq!(kept.len(), 1);
+        assert_eq!(std::fs::read_to_string(kept[0].path()).unwrap(), "{ not json");
+        let _ = std::fs::remove_dir_all(&dir);
+    }
 
     #[test]
     fn card_schedule_grows_and_resets() {

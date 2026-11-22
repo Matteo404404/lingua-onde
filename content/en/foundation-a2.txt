@@ -1,3 +1,296 @@
 course: en
 stage: foundation
 bases: it
+
+== 26 A2
+numeral: Lesson Twenty-Six
+numeral.pron.it: lèsən twènti-siks
+title: Ten years ago
+title.it: Dieci anni fa
+
+dialogue:
+- Mark! Is that you? Hello!
+  it: Mark! Sei tu? Ciao!
+  pron.it: maak! iz dhæt juu? həlòu!
+- Tom! When did we last meet?
+  it: Tom! Quando ci siamo visti l'ultima volta?
+  pron.it: tom! wen did wii laast miit?
+- Ten years ago. You didn't have a beard then.
+  it: Dieci anni fa. Allora non avevi la barba.
+  pron.it: ten jiəz əgòu. ju didnt hæv ə biəd dhen.
+- And you had hair!
+  it: E tu avevi i capelli!
+  pron.it: ənd ju hæd heə!
+- Oh dear. Where did you go after school?
+  it: Povero me (oh caro). Dove sei andato dopo la scuola?
+  pron.it: ou diə. weə did ju gou àaftə skuul?
+- I moved to Canada, but I came back.
+  it: Mi sono trasferito in Canada, ma sono tornato.
+  pron.it: ai muuvd tə kǽnədə, bat ai keim bæk.
+- Why did you come back?
+  it: Perché sei tornato?
+  pron.it: wai did ju kam bæk?
+- I missed the English rain.
+  it: Mi mancava la pioggia inglese.
+  pron.it: ai mist dhi ìngglish rein.
+
+sounds.it:
+1. Beard si dice biəd: il dittongo iə è lo stesso di here (lezione 1) e near (lezione 10), la voce comincia con una i e finisce con una ə debole. La r è muta e la ea non si legge come in bread (lezione 20): è un'altra parola, e un'altra pronuncia.
+2. Hair si dice heə: il suono eə, lo stesso di there (lezione 10) e where's (lezione 4). Oggi molti lo dicono quasi come una e lunga. La h si sente, un soffio, come in her (lezione 9), e la r finale è muta.
+3. Ago si dice əgòu: la voce cade sulla seconda sillaba, con il dittongo ou di go (lezione 6). La prima è una ə debole. Moved e missed hanno la -ed (lezione 22): moved si dice muuvd, con la d finale, e missed si dice mist, con la t.
+
+notes.it:
+1. Is that you?: that's (lezione 6) è "quello è"; Is that you? è "sei tu?", quando si incontra qualcuno che non si vedeva da tanto. When did we last meet? è "quando ci siamo visti l'ultima volta?": last (lezione 11) sta davanti al verbo, e vuol dire "l'ultima volta". Meet (lezione 2) è "incontrare, conoscere" e dopo did resta alla forma base, come nella lezione 22.
+2. Ten years ago: ago vuol dire "fa": come in italiano, si mette dopo il periodo di tempo: ten years ago, "dieci anni fa". Si usa con il passato: I saw him ten years ago, e non con il presente. Year (lezione 19) ha la -s, come tutti i plurali: one year, ten years. Ago e last year sono parole del passato.
+3. You didn't have a beard then: beard vuol dire barba, e si dice che si ha: have a beard, "avere la barba". Didn't have è "non avevi": l'inglese passato ha una sola forma per "ho avuto" e "avevo", e cambia solo con il senso. Hair vuol dire capelli, ed è singolare: the hair, e non "hairs". La battuta è nel cambiamento: dopo dieci anni uno ha messo la barba e l'altro ha perso i capelli.
+4. Where did you go after school?: where (lo conosci da where's, lezione 4), why (lezione 9), what (lezione 9) e when (lezione 19) si mettono prima di did: Where did you go? Why did you come back? When did we meet? Dopo did il verbo è sempre la forma base. After è "dopo": after school, "dopo la scuola", senza the, come before work (lezione 16). School è la scuola, e si dice at school, to school, senza articolo, quando si parla di andare a scuola.
+5. I moved to Canada: moving (lezione 20) viene da move, che vuol dire "muoversi", e qui "trasferirsi": I moved to Canada, "mi sono trasferito in Canada". Moved è regolare: si aggiunge solo -d, perché move finisce in -e (lezione 22). Canada, come le città (Bath, lezione 23) e quasi tutti i paesi, non vuole l'articolo.
+6. I came back: came è il passato di come: come - came, irregolare. Come back è "tornare" e in Why did you come back? il verbo torna alla forma base dopo did: come. Back (lezione 17) in my back è la schiena, qui è "indietro", "di nuovo": come back, "tornare", go back, "ritornare". Un altro verbo di due parole, come get up (lezione 16).
+7. I missed the English rain: miss vuol dire sentire la mancanza: I miss you è "mi manchi" (io sento la tua mancanza). Il soggetto è quello che sente la mancanza, mentre in italiano è la cosa mancata: "mi manca la pioggia" è I miss the rain. Miss vuol dire anche "perdere" un treno: I missed the bus. Rain è la pioggia. La battuta: dopo dieci anni in Canada, quello che gli è mancato di più è il tempo inglese, e tornare dove piove spesso. English (lezione 2) è inglese.
+
+ex1:
+- I last saw Tom ten years ago.
+  it: Ho visto Tom l'ultima volta dieci anni fa.
+- Tom has a beard.
+  it: Tom ha la barba.
+- Why did you go to Canada?
+  it: Perché sei andato in Canada?
+- When did you come back?
+  it: Quando sei tornato?
+- I missed my sister.
+  it: Mi mancava mia sorella.
+
+ex2:
+- I saw you ten years [ago].
+  it: Ti ho visto dieci anni fa.
+- [Where] [did] you go after school?
+  it: Dove sei andato dopo la scuola?
+- Why did you come [back]?
+  it: Perché sei tornato?
+- I [missed] the English rain.
+  it: Mi mancava la pioggia inglese.
+- I [moved] to Canada, but I [came] back.
+  it: Mi sono trasferito in Canada, ma sono tornato.
+
+== 27 A2
+numeral: Lesson Twenty-Seven
+numeral.pron.it: lèsən twènti-sèvən
+title: What's the weather like?
+title.it: Che tempo fa?
+
+dialogue:
+- Hello, Anna! What's the weather like there?
+  it: Ciao, Anna! Che tempo fa lì (com'è il tempo lì)?
+  pron.it: həlòu, ǽnə! wots dhə wèdhə laik dheə?
+- Oh, hello! It's raining.
+  it: Oh, ciao! Piove.
+  pron.it: ou, həlòu! its rèining.
+- Again? It rained yesterday, too.
+  it: Di nuovo? Ha piovuto anche ieri.
+  pron.it: əghèn? it reind jèstədei, tuu.
+- Still. And it's colder than yesterday.
+  it: Ancora (sempre). E fa più freddo di ieri.
+  pron.it: stil. ənd its kòuldə dhən jèstədei.
+- Here it's sunny. It's warmer than in May.
+  it: Qui c'è il sole. Fa più caldo che a maggio.
+  pron.it: hiər its sàni. its wòomə dhən in mei.
+- Lovely! I want to come to Bologna.
+  it: Bello! Voglio venire a Bologna.
+  pron.it: làvli! ai wont tə kam tə bəlòunjə.
+- Is it going to rain there tomorrow?
+  it: Pioverà lì domani?
+  pron.it: iz it gòuing tə rein dheə təmòrou?
+- Of course. It's a tradition.
+  it: Certo. È una tradizione.
+  pron.it: əv koos. its ə trədìshən.
+
+sounds.it:
+1. Rain si dice rein, con il dittongo ei di day (lezione 16) e may (lezione 19): non si dice "ràin" con la ai di my. Rained e raining seguono: reind, rèining. La r iniziale non vibra: la lingua si arretra senza toccare il palato.
+2. Weather si dice wèdhə, con la dh con la voce di the (lezione 4) in mezzo, e la r finale muta. Non si dice "uèter". Tomorrow si dice təmòrou, con la voce sulla seconda sillaba e il dittongo ou di go (lezione 6) in fondo.
+3. Le parole si legano. Is it going to si dice izitgòuingtə, quasi come una sola parola: la consonante finale di una parola si appoggia alla vocale della parola seguente, come it's a tradition, itsə trədìshən. Non fare pause tra le parole: leggi il gruppo in un solo fiato, come nella pronuncia figurata. Than e of sono deboli: dhən, əv.
+
+notes.it:
+1. What's the weather like there?: nei saluti a distanza si chiede il tempo. What's ... like? vuol dire "com'è?": What's the weather like? è "che tempo fa?", letteralmente "com'è il tempo?". L'inglese dice be e non "fare". Like qui non vuol dire "piacere" (lezione 5): è una preposizione che vuol dire "come". What's your sister like? è "com'è tua sorella?", e non "che cosa le piace". Weather è il tempo atmosferico: non ha plurale e non vuole a, come bread (lezione 20): nice weather. There è "lì" (lezione 10).
+2. It's raining: it è il soggetto, anche quando l'italiano non ne ha: "piove" è it rains, it's raining. Ricorda che il soggetto non si omette mai (lezione 2). It's sunny è "c'è il sole", it's cold (lezione 13) è "fa freddo", it was too cold (lezione 23) è "faceva troppo freddo". Il presente continuo (lezione 15) è per il tempo che fa adesso, "sta piovendo", e rained (come stayed, lezione 22) è il passato regolare: It rained yesterday, "ieri ha piovuto". Rain (lezione 26) è sia il nome (la pioggia) sia il verbo (piovere).
+3. Again? Still.: again vuol dire "di nuovo, un'altra volta", e still vuol dire "ancora, sempre", cioè "continua a". L'italiano ha "ancora" per tutti e due: "piove ancora". Si distinguono così: Again? chiede se è la seconda volta, dopo una pausa (ieri pioveva, oggi pure); Still significa che non si è mai fermata. Nel dialogo, la risposta Still corregge: non ha smesso.
+4. It's colder than yesterday: colder è "più freddo": cold (lezione 13) più -er. Il comparativo degli aggettivi corti si fa con -er, e than vuol dire "di, che": colder than yesterday, "più freddo di ieri". Ne hai già visto uno, bigger (lezione 24): in big - bigger la g raddoppia. In warm - warmer e cold - colder non cambia nessuna lettera. Il ripasso della lezione 28 ne dà un primo sguardo, la lezione 30 la spiegazione completa.
+5. Here it's sunny. It's warmer than in May: here (lezione 1) è "qui". Sunny viene da sun, il sole: it's sunny è "c'è il sole". Warmer è "più caldo": it's warmer than in May è "fa più caldo che a maggio": May (lezione 19) è maggio, e in May è "a maggio".
+6. I want to come to Bologna: want (lezione 6) + to + verbo: I want to come, "voglio venire", con to davanti al verbo. Come (lezione 26) è "venire", Bologna è Bologna: a una città si dice to, come in to Bath (lezione 23).
+7. Is it going to rain tomorrow?: be going to + verbo vuol dire "sta per, ha intenzione di" e serve per il futuro che si vede arrivare: Is it going to rain? è "pioverà?". Lo hai già visto in I'm going shopping (lezione 20), dove going vuol dire proprio "andare": qui è una forma speciale, going to + verbo, che spiegheremo bene nella lezione 29. Tomorrow è domani, come yesterday (lezione 22) è ieri. Il soggetto it, ancora, per il tempo.
+8. Of course. It's a tradition: of course vuol dire "certo, naturalmente": è un'espressione fissa, di uso quotidiano: Yes, of course. Il contrario è of course not, "certo che no". Tradition è tradizione, e si scrive quasi come in italiano. La battuta: la pioggia in Inghilterra è così normale che è quasi una tradizione, e la domanda è quasi superflua.
+
+ex1:
+- What's the weather like in Bologna?
+  it: Che tempo fa a Bologna?
+- It's raining again.
+  it: Piove di nuovo.
+- It's still sunny.
+  it: C'è ancora il sole.
+- It was warmer yesterday.
+  it: Ieri faceva più caldo.
+- Is it going to rain tomorrow?
+  it: Pioverà domani?
+
+ex2:
+- What's the weather [like]?
+  it: Che tempo fa?
+- It's [raining] [again].
+  it: Piove di nuovo.
+- It's [colder] [than] yesterday.
+  it: Fa più freddo di ieri.
+- Is it [going] to rain tomorrow?
+  it: Pioverà domani?
+- [Of] course. It's a tradition.
+  it: Certo. È una tradizione.
+
+culture.it:
+In Gran Bretagna parlare del tempo è un'abitudine nazionale. Non è curiosità: è il modo più semplice, e più sicuro, per cominciare a parlare con uno sconosciuto, in coda, alla fermata o in ascensore. Il tempo cambia in fretta, e anche nella stessa giornata si possono avere sole, vento e pioggia: da lì la frase che dicono tutti, che in Inghilterra si possono avere quattro stagioni in un giorno. Le previsioni sono un appuntamento fisso: alla radio c'è anche lo Shipping Forecast, il bollettino della BBC per i marinai, che molti ascoltano senza essere mai stati in mare. Quando qualcuno dice una frase sul tempo, non si aspetta un'opinione originale: ci si aspetta di essere d'accordo. Di fronte a Lovely weather, isn't it?, "bel tempo, vero?", la risposta giusta è Isn't it?, o Yes, lovely, e la conversazione è cominciata.
+
+== 28 A2
+kind: revision
+numeral: Lesson Twenty-Eight
+numeral.pron.it: lèsən twènti-eit
+title: Revision
+title.it: Ripasso
+
+dialogue:
+- Hello, Anna! Did you have a nice weekend?
+  it: Ciao, Anna! Hai passato un bel fine settimana?
+  pron.it: həlòu, ǽnə! did ju hæv ə nais wiikènd?
+  refs: 2 23
+- Lovely, thank you. We went to Bath.
+  it: Bellissimo, grazie. Siamo andati a Bath.
+  pron.it: làvli, thænk juu. wii went tə baath.
+  refs: 1 8 23
+- Was it cold? Is it still raining?
+  it: Faceva freddo? Piove ancora?
+  pron.it: woz it kould? iz it stil rèining?
+  refs: 13 23 27
+- Still. And I lost my bag on the bus!
+  it: Sempre. E ho perso la borsa sull'autobus!
+  pron.it: stil. ənd ai lost mai bæg on dhə bas!
+  refs: 24 27
+- Oh dear. What colour is it?
+  it: Povera te (oh cara). Di che colore è?
+  pron.it: ou diə. wot kàlər iz it?
+  refs: 3 12 24
+- Black. A big one. My cake was in it.
+  it: Nera. Una grande. C'era dentro la mia torta.
+  pron.it: blæk. ə big wan. mai keik wəz in it.
+  refs: 3 12 23 25
+- Your cake? Is it your recipe?
+  it: La tua torta? È la tua ricetta?
+  pron.it: joo keik? iz it joo rèsəpi?
+  refs: 15 25
+- Yes, I love it. It was lovely.
+  it: Sì, la adoro. Era deliziosa.
+  pron.it: jes, ai lav it. it wəz làvli.
+  refs: 1 8 25
+- Is this your bag? It's black.
+  it: È questa la tua borsa? È nera.
+  pron.it: iz dhis joo bæg? its blæk.
+  refs: 4 12 24
+- That's mine! Where did you get it?
+  it: È mia! Dove l'hai presa?
+  pron.it: dhæts main! weə did ju ghet it?
+  refs: 16 22 24 26
+- On the bus. I had a lot of cake.
+  it: Sull'autobus. Ho mangiato un sacco di torta.
+  pron.it: on dhə bas. ai hæd ə lot əv keik.
+  refs: 17 23 24 25
+- A lot? How much?
+  it: Un sacco? Quanta?
+  pron.it: ə lot? hau mac'?
+  refs: 17 20
+- Four pieces. Five, actually.
+  it: Quattro pezzi. Cinque, in realtà.
+  pron.it: foo pìisiz. faiv, ǽkciuuəli.
+  refs: 4 25
+
+notes.it:
+Quattro settimane sono passate. In questa lezione non ci sono regole da imparare a memoria: è l'ordine di ciò che hai già visto dalla lezione 22 alla 27, con qualche richiamo più indietro. Se qualcosa ti sembra difficile, passa avanti: tornerà in altre lezioni, un po' più chiaro. Hai già incontrato tutto nei dialoghi, ora lo vedi in fila.
+
+1. Il passato semplice dei verbi regolari (lezioni 22, 23, 26, 27). Il passato semplice dice che cosa è successo in un tempo finito: ieri, la settimana scorsa, dieci anni fa. Per i verbi regolari si aggiunge -ed al verbo base, ed è uguale per tutte le persone: I stayed, he stayed, they stayed. La scrittura cambia così.
+
+| Regola | Verbo | Passato |
+|---|---|---|
+| si aggiunge -ed | stay, watch, clean, wash, miss, want | stayed, watched, cleaned, washed, missed, wanted |
+| se finisce in -e, si aggiunge -d | move, invite, live | moved, invited, lived |
+| vocale breve e consonante: la consonante raddoppia | stop, plan | stopped, planned (parole nuove) |
+| consonante e y: la y diventa -ied | study, carry | studied, carried (parole nuove) |
+
+La -ed ha tre suoni, e la scrittura non cambia: t dopo un suono sordo (watched woc't, washed wosht, missed mist), d dopo un suono sonoro (stayed steid, cleaned kliind, moved muuvd, rained reind) e id dopo t e d (wanted wòntid, invited invàitid). Il verbo irregolare non si fa con -ed, e va imparato così com'è. Quelli incontrati finora:
+
+| Verbo | Passato | Lezione |
+|---|---|---|
+| be | was, were | 19, 23 |
+| do | did | 22 |
+| go | went | 23 |
+| see | saw | 23 |
+| have | had | 23 |
+| come | came | 26 |
+| lose | lost | 24 |
+| sleep | slept | 3 |
+
+Tutti questi passati sono uguali per ogni persona, tranne be (I was, you were). Più avanti ne arriveranno altri, come met e took (parole nuove) per meet e take.
+
+2. Did, didn't, le risposte brevi e le parole del passato (lezioni 22, 23, 26). La domanda e la negazione al passato si fanno con did. Dopo did il verbo è alla forma base, senza -ed: il passato è già in did.
+
+| | Forma | Esempio |
+|---|---|---|
+| frase | verbo + -ed | I watched a film. (22) |
+| negazione | didn't + verbo | I didn't have time. (22) |
+| domanda | Did + soggetto + verbo? | Did you clean the kitchen? (22) |
+| risposta breve | Yes, I did. / No, I didn't. | Yes, we did. (23) |
+| con wh- | wh- + did + soggetto + verbo? | Where did you go? (26) |
+
+Mai "Did you cleaned" e mai "I didn't went". Con be non si usa did, come nel ripasso della lezione 21: Was it cold? Were you born? Le parole del passato: yesterday (ieri, lezione 22), last night (ieri sera: last e night sono della lezione 11; last davanti al nome, senza the), ago (fa, si mette dopo il tempo: ten years ago, lezione 26), e last davanti al verbo (When did we last meet?). Con yesterday, ago e last il verbo è al passato semplice.
+
+3. Mine, yours, whose e il genitivo 's (lezioni 12, 24). Il possessivo ha due forme: una davanti al nome e una da sola. Come nella lezione 21, cambia con chi possiede, non con la cosa posseduta.
+
+| Soggetto | Davanti a un nome | Da solo |
+|---|---|---|
+| I | my bag | mine |
+| you | your bag | yours |
+| he | his bag | his |
+| she | her bag | hers |
+| we | our bag | ours |
+| they | their bag | theirs |
+
+Mine e yours non vogliono mai the: Is this yours?, mine is bigger (lezione 24). Il possessore può anche essere un nome: 's, come nella lezione 12 (husband's) e nella 24 (wife's): That's my wife's, "è di mia moglie". Whose is it? è "di chi è?" e Whose bag is it? è "di chi è la borsa?". La risposta può essere un possessivo da solo, mine, hers, oppure il nome con 's. Its non ha apostrofo e non ha una forma da sola.
+
+4. Like, love, would like e some nelle offerte (lezioni 5, 20, 25). Tre modi di parlare di quello che piace o si vuole.
+
+| Frase | Significato | Lezione |
+|---|---|---|
+| Do you like it? | ti piace? | 25 |
+| I like it. | mi piace | 5 |
+| I love it. | la adoro | 25 |
+| I'd love some. | ne prenderei volentieri | 25 |
+| Would you like some more tea? | vuoi ancora un po' di tè? | 25 |
+| Yes, please. / No, thank you. | sì, grazie / no, grazie | 1, 25 |
+
+Like dice che una cosa piace in generale. Would like, e la forma corta I'd like, dice che la vuoi adesso: Would you like some tea? è "vuoi del tè?" e I'd like a coffee è "vorrei un caffè". Would ha la stessa forma per tutte le persone e il verbo dopo è senza to. Nelle offerte si dice some, e non any: Would you like some tea? Per accettare si risponde Yes, please, e per rifiutare No, thank you: un Thank you da solo, di solito, vuol dire sì. Love è più forte di like, e si usa anche per le cose: I love it. Con le persone è una frase seria.
+
+5. Un primo sguardo al present perfect (lezione 25). Il present perfect si fa con have o has e il participio passato: you've already had four pieces, "hai già mangiato quattro pezzi". Per i verbi regolari il participio è uguale al passato (-ed); per quelli irregolari ha una forma sua (had, seen, gone). Lo spiegheremo meglio più avanti: per ora, riconoscilo.
+
+| Soggetto | Forma | Esempio |
+|---|---|---|
+| I, you, we, they | have + participio | I've had, you've had |
+| he, she, it | has + participio | she's had, it's had |
+
+Already sta tra have e il participio: you've already had. Il present perfect collega il passato a oggi: you've already had four pieces vuol dire che il risultato è ancora qui, la torta è sparita. Con yesterday, ago e last night, che chiudono il tempo, si usa il passato semplice: I had two pieces yesterday. Non si dice "I have had two pieces yesterday". L'italiano usa un solo tempo per tutti e due, "ho mangiato", e questa è la differenza che dovrai imparare.
+
+6. Un primo sguardo ai comparativi (lezioni 24, 27). Il comparativo dice che una cosa è più di un'altra. Gli aggettivi corti prendono -er, e than vuol dire "di, che".
+
+| Aggettivo | Comparativo | Esempio |
+|---|---|---|
+| big | bigger | Mine is bigger. (24) |
+| cold | colder | It's colder than yesterday. (27) |
+| warm | warmer | It's warmer than in May. (27) |
+
+Big raddoppia la g, come run (lezione 16) raddoppia la n in running: vocale breve e consonante. Cold e warm non cambiano. Much davanti al comparativo vuol dire "molto": much bigger (lezione 24). Per gli aggettivi lunghi si usa un'altra forma, con more: la vedrai nella lezione 30, e good e bad hanno forme loro, che vedremo più avanti.
+
+7. Il tempo, again e still, going to (lezione 27). In inglese il tempo atmosferico ha sempre un soggetto, it: it's raining, "piove"; it's sunny, "c'è il sole"; it's cold (lezione 13). Per chiedere si dice What's the weather like?, "che tempo fa?", dove like è "come". Distingui again e still: again vuol dire "di nuovo", dopo una pausa; still vuol dire "ancora, sempre", senza pausa. Is it going to rain tomorrow? è la forma going to + verbo per il futuro che si vede arrivare: lo spiegheremo nella lezione 29. Want to + verbo (I want to come, lezione 27) è "voglio" + il verbo. Of course è "certo".
+
+La quarta settimana è finita, e con essa le lezioni con la pronuncia figurata su ogni frase: dalla lezione 29 resta solo sulle parole nuove di ogni lezione. La lezione 29 è più lunga delle altre: prenditi il tempo.

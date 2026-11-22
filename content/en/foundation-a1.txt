@@ -491,3 +491,560 @@ La domanda si fa mettendo il verbo prima del soggetto: Are you Italian? Is it fa
 8. I numeri da uno a venti (lezioni 4, 6). Hai già incontrato one, four, five, two e forty-two. Ecco tutti: one (wan), two (tuu), three (thrii), four (foo), five (faiv), six (siks), seven (sèvən), eight (eit), nine (nain), ten (ten), eleven (ilèvən), twelve (twelv), thirteen (thöötìin), fourteen (footìin), fifteen (fiftìin), sixteen (sikstìin), seventeen (sevəntìin), eighteen (eitìin), nineteen (naintìin), twenty (twènti). Le decine sono ten, twenty, thirty (thööti), forty (fòoti), fifty (fìfti), e si legge decina e poi unità, con il trattino: twenty-one, forty-two. Attenzione agli accenti: -teen ha la voce sull'ultima sillaba (thirteen, thöötìin), -ty sulla prima (thirty, thööti): è l'unica differenza tra 13 e 30, 14 e 40, 15 e 50. E all'ortografia: forty non ha la u, ma four e fourteen sì; fifteen e fifty vengono da five.
 
 Il meccanismo comincia a funzionare: nella lezione 8 si riparte, con un po' più di parole.
+
+== 8 A1
+numeral: Lesson Eight
+numeral.pron.it: lèsən eit
+title: A room for tonight
+title.it: Una camera per stanotte
+
+dialogue:
+- Excuse me. Have you got a room for tonight?
+  it: Scusi. Avete una camera per stanotte?
+  pron.it: ikskjùuz mii. hæv ju got ə ruum fə tənàit?
+- For one person?
+  it: Per una persona?
+  pron.it: fə wan pöösən?
+- Yes. Has it got a bathroom?
+  it: Sì. Ha il bagno?
+  pron.it: jes. hæz it got ə bàathruum?
+- Yes, and it's got a view.
+  it: Sì, e ha anche una vista.
+  pron.it: jes, ənd its got ə vjuu.
+- A view of the sea?
+  it: Una vista sul mare?
+  pron.it: ə vjuu əv dhə sii?
+- Of the car park.
+  it: Sul parcheggio.
+  pron.it: əv dhə kaa paak.
+- Lovely. I'll take it.
+  it: Splendido. La prendo.
+  pron.it: làvli. ail teik it.
+
+sounds.it:
+1. Lovely si scrive con la o, ma la prima vocale è la a breve e scura di cup (lezione 1): làvli. La l all'inizio di una sillaba è come la nostra; alla fine di una sillaba (I'll, ail) si fa più scura, con la lingua indietro, quasi una u dopo la vocale: non la l pulita dell'italiano. La y finale è la i breve di badly (lezione 3).
+2. Tonight ha il dittongo ai della lezione 3: tənàit, con la voce sulla seconda sillaba. Le lettere gh non si dicono: night si dice nait, e la stessa cosa succede in high, che vedremo nella lezione 10.
+3. Person si scrive con la o, ma si dice con la öö lunga che conosci da return (lezione 6): pöösən. La r è muta, perché sta prima di una consonante, come in York (lezione 2).
+
+notes.it:
+1. Excuse me: l'abbiamo visto nella lezione 4, per attirare l'attenzione di qualcuno. Qui il cliente lo dice alla reception prima di fare la domanda.
+2. Have you got a room?: per dire avere, nell'inglese britannico si usa spesso have got: I've got, you've got. Got qui non vuol dire "ottenuto": have got è un blocco solo, che significa "avere". La domanda si fa come con to be (lezioni 2 e 4): have va davanti al soggetto, senza do. Si risponde con Yes, I have o No, I haven't. La tabella completa arriverà nel ripasso della lezione 14.
+3. Room: stanza, camera, e anche posto, spazio. Attenzione ai falsi amici: room è la camera di un albergo o di una casa, mentre camera in inglese è la macchina fotografica. La camera da letto si dice bedroom, ma lo vedremo più avanti.
+4. For tonight, for one person: for vuol dire per: a room for tonight, una camera per stanotte. Tonight vuol dire sia "stasera" sia "stanotte": è to + night, "questa notte". Person è persona, e dopo one il nome resta al singolare, come in one pound (lezione 6): al plurale, people, lo vedremo nella lezione 9.
+5. Has it got a bathroom?: ecco la prima -s del verbo. Con I, you, we, they si dice have (I have got, you have got); con he, she, it si dice has (it has got). Ricordalo: è il primo caso in cui il verbo cambia per la terza persona. In it's got a view, 's è has: it's got = it has got. In it's a bank (lezione 4), 's è is: è la parola che segue, got, a dirti quale dei due è. Bathroom è la stanza con il bagno, ed è anche la parola per dire il bagno in casa.
+6. A view of the sea?: view è la vista, il panorama; of vuol dire di, come in a cup of tea (lezione 1), e the sea è il mare. L'inglese dice "una vista del mare". Ma la risposta è Of the car park: car park è il parcheggio, la zona dove si lascia l'auto. Attenzione: parking vuol dire l'atto di parcheggiare, non il posto. Il parcheggio è il car park.
+7. Lovely, I'll take it: lovely vuol dire bellissimo, delizioso, e si dice spesso come un complimento. Qui, davanti a un parcheggio, è quasi una battuta: l'inglese è molto cortese, e a volte si esprime con ironia. I'll è I will, accorciato: è un'espressione che si dice quando si decide di comprare o scegliere qualcosa. Take è prendere e it è la camera. Il verbo will lo vedremo più avanti.
+
+ex1:
+- Have you got a big room?
+  it: Avete una camera grande?
+- Has it got a view of the sea?
+  it: Ha una vista sul mare?
+- We want a room for tonight.
+  it: Vogliamo una camera per stanotte.
+- Where's the car park?
+  it: Dov'è il parcheggio?
+- I'll take a big coffee, please.
+  it: Prendo un caffè grande, per favore.
+
+ex2:
+- [Have] you [got] a room?
+  it: Avete una camera?
+- It [has] [got] a bathroom.
+  it: Ha il bagno.
+- A view [of] the sea.
+  it: Una vista sul mare.
+- A room [for] tonight.
+  it: Una camera per stanotte.
+- [I'll] [take] it.
+  it: La prendo.
+
+culture.it:
+In Gran Bretagna, oltre agli alberghi, si dorme molto nei B&B, che vuol dire bed and breakfast: sono case private, di solito con poche camere, dove il prezzo comprende la camera e la colazione. La colazione tradizionale, il full English breakfast, è abbondante: uova, pancetta, salsicce, fagioli, pomodoro e pane tostato. Quando prenoti, di solito ti chiedono che tipo di camera vuoi: a single room, per una persona, o a double room, con un letto matrimoniale. Molte camere hanno il bagno privato, che si chiama en suite, ma nei B&B più piccoli il bagno può essere in comune. Se arrivi senza prenotare, chiedi semplicemente: Have you got a room for tonight?
+
+== 9 A1
+numeral: Lesson Nine
+numeral.pron.it: lèsən nain
+title: What does she do?
+title.it: Che lavoro fa?
+
+dialogue:
+- What does your sister do?
+  it: Che lavoro fa tua sorella?
+  pron.it: wot dəz joo sìstə duu?
+- She works in a bank.
+  it: Lavora in una banca.
+  pron.it: shii wööks in ə bænk.
+- Does she like her job?
+  it: Le piace il suo lavoro?
+  pron.it: dəz shii laik hə giob?
+- No, she doesn't.
+  it: No, non le piace.
+  pron.it: nou, shii dàzənt.
+- Why not?
+  it: Perché no?
+  pron.it: wai not?
+- She likes money.
+  it: Le piacciono i soldi.
+  pron.it: shii laiks màni.
+- But it's always other people's money.
+  it: Ma sono sempre i soldi degli altri (di altre persone).
+  pron.it: bat its òolweiz àdhə pìipəlz màni.
+
+sounds.it:
+1. La -s del verbo si dice in tre modi, come la -s del plurale (lezione 6): works si dice wööks (s sorda dopo k), lives si dice livz (z con la voce), e dopo un fruscio (s, sh, ch, x) si aggiunge una sillaba, iz: she watches si dice shii wòciz, she washes si dice shii wòshiz. Nella lezione 14 troverai tutto in ordine.
+2. Does si scrive con la o ma si dice daz, con la a breve e scura di cup: dentro la frase si indebolisce in dəz. E doesn't si dice dàzənt, con la voce sulla prima sillaba.
+3. Money e other si scrivono con la o, ma si dicono con la a di cup: màni, àdhə. La y finale è la i breve, come in badly (lezione 3). Il dh di other è il dh di the, con la voce.
+
+notes.it:
+1. What does your sister do?: what vuol dire che cosa, che. Do è il verbo fare, e con he, she, it diventa does: la domanda si fa con do o does davanti al soggetto, come nella lezione 5, ma qui il soggetto è she, quindi does. What does your sister do? è "che lavoro fa tua sorella?" e What do you do? è "che lavoro fai?": chiede della professione, e non di quello che stai facendo in questo momento. Your vale per tu, voi e lei, come you (lezione 1).
+2. She works in a bank: ecco la -s della terza persona, che avevamo visto in has (lezione 8). Con I, you, we, they il verbo non cambia: I work, you work, we work, they work. Con he, she, it prende una -s: he works, she works, it works. Noi italiani cambiamo la fine del verbo con ogni persona; l'inglese la cambia solo qui. In a bank è "in una banca" e in vuol dire in, come in London (lezione 5).
+3. Does she like her job?: con does davanti al soggetto, il verbo torna senza -s: Does she like...? e mai "Does she likes". La -s è già in does. Her vuol dire suo, di lei: se la sorella ha un lavoro, è her job. Job è il lavoro, l'impiego, un posto di lavoro che si può contare: a job, two jobs.
+4. No, she doesn't: la risposta breve ripete does, come I do nella lezione 5: Yes, she does, No, she doesn't. Doesn't è does not, accorciato.
+5. Why not?: why vuol dire perché, nelle domande. Why not? è "perché no?". Nella lezione 14 vedremo che why si usa anche con do e does: Why does she work?
+6. She likes money: ancora la -s, ora in likes. Money è come milk (lezione 1): una parola che non ha il plurale e non vuole a: non si dice "a money", si dice money. Per l'italiano "piacciono i soldi" l'inglese usa lo stesso verbo di lezione 5: la persona è il soggetto, she likes money, "lei gradisce il denaro".
+7. Always other people's money: always vuol dire sempre e sta davanti al verbo oppure dopo is: it's always. Other vuol dire altro, altri. People è la gente, le persone, il plurale di person (lezione 8): other people sono "altre persone, gli altri". Il 's alla fine vuol dire di: other people's money è "i soldi degli altri". Lo vedremo bene nella lezione 12. La battuta: la sorella lavora in banca e maneggia soldi tutto il giorno, ma non sono mai i suoi.
+
+ex1:
+- Does your sister like money?
+  it: A tua sorella piacciono i soldi?
+- Does she like London?
+  it: Le piace Londra?
+- She likes tea. She doesn't like coffee.
+  it: Le piace il tè. Non le piace il caffè.
+- Your sister works in London.
+  it: Tua sorella lavora a Londra.
+- Why does she live in Leeds?
+  it: Perché abita a Leeds?
+
+ex2:
+- What [does] your sister [do]?
+  it: Che lavoro fa tua sorella?
+- She [works] in a bank.
+  it: Lavora in una banca.
+- Does she [like] her job?
+  it: Le piace il suo lavoro?
+- No, she [doesn't].
+  it: No, non le piace.
+- It's [always] other [people's] money.
+  it: Sono sempre i soldi degli altri.
+
+== 10 A1
+numeral: Lesson Ten
+numeral.pron.it: lèsən ten
+title: Is there a chemist's?
+title.it: C'è una farmacia?
+
+dialogue:
+- Excuse me. Is there a chemist's near here?
+  it: Scusi. C'è una farmacia qui vicino?
+  pron.it: ikskjùuz mii. iz dheər ə kèmists niə hiə?
+- Yes, there's one in the High Street.
+  it: Sì, ce n'è una nella via principale (la High Street).
+  pron.it: jes, dheəz wan in dhə hai striit.
+- Is it open on Sundays?
+  it: È aperta la domenica?
+  pron.it: iz it òupən on sàndeiz?
+- On Sundays? Nothing is open here on Sundays.
+  it: La domenica? Qui la domenica non è aperto niente.
+  pron.it: on sàndeiz? nàthing iz òupən hiər on sàndeiz.
+- Nothing?
+  it: Niente?
+  pron.it: nàthing?
+- Only the pub.
+  it: Solo il pub.
+  pron.it: òunli dhə pab.
+- Thank you. Where's the pub?
+  it: Grazie. Dov'è il pub?
+  pron.it: thænk juu. weəz dhə pab?
+
+sounds.it:
+1. Nothing finisce in -ing, come morning nella lezione 1: la n si dice in fondo alla bocca, come in panca, e la g non si sente. Non dire "nàthingg". Il th è quello di thank you (lezione 1), e la o si dice a, come in cup: nàthing.
+2. Nel gruppo gh di high la g non si pronuncia: high si dice hai. Chemist's si scrive con ch ma comincia con k: kèmists. Pub si dice pab, con la a di cup, e street si dice striit.
+3. Open ha il dittongo ou della lezione 3: òupən, con la voce sulla prima sillaba e una ə debole alla fine. Sundays si dice sàndeiz: la prima vocale è ancora la a di cup, e -days finisce in z, con la voce.
+
+notes.it:
+1. Is there a chemist's near here?: there is, accorciato there's, vuol dire c'è. Per chiedere se qualcosa esiste si dice Is there...? con il verbo davanti, come Is it...? (lezione 4). Il plurale è there are, ci sono: Are there two banks? Lo metteremo in ordine nel ripasso della lezione 14. Attenzione: qui there non vuol dire "lì": vuol dire c'è. Near here è "qui vicino", e near non vuole la parola to dopo: near the station.
+2. Chemist's: la farmacia. Il 's dopo il nome del mestiere vuol dire "la bottega di": the chemist's è "dal farmacista", come the baker's è "il panettiere", the butcher's "il macellaio". Si dice anche pharmacy, ma chemist's è il nome di tutti i giorni in Gran Bretagna. Il chemist vende anche profumi e cosmetici.
+3. There's one in the High Street: one sostituisce il nome già detto, come in a big one (lezione 3): there's one è "ce n'è una", cioè una farmacia. High Street è il nome più comune per la via principale di una città; si scrive con le iniziali maiuscole. In davanti a street: in the High Street, "nella High Street".
+4. Is it open on Sundays?: open vuol dire aperto, il contrario si dice closed. Il giorno vuole sempre on: on Sundays, e non l'italiano "la domenica", senza niente. Con la -s dice "ogni domenica, di domenica": è un'abitudine. I giorni della settimana si scrivono con la maiuscola.
+5. Nothing is open: nothing vuol dire niente, nulla. In inglese non si usa la doppia negazione: nothing già nega, e il verbo resta positivo. L'italiano dice "non è aperto niente", l'inglese Nothing is open, e mai "Nothing is not open". Nothing è singolare, e vuole is.
+6. Only the pub: only vuol dire solo, soltanto: Only the pub, "solo il pub". Il pub, parola breve di public house, è il bar britannico dove si beve birra, e di solito si mangia anche qualcosa.
+7. Thank you. Where's the pub?: la battuta è che chi cercava una farmacia e la trova chiusa, va comunque al pub: di domenica è l'unico posto aperto. Nota Where's the pub? come Where's the station? della lezione 4.
+
+ex1:
+- Is there a bank near here?
+  it: C'è una banca qui vicino?
+- There's a pub in the High Street.
+  it: C'è un pub nella High Street.
+- Is the chemist's open?
+  it: La farmacia è aperta?
+- Is the bank open on Sundays?
+  it: La banca è aperta la domenica?
+- Are there two tickets for Oxford?
+  it: Ci sono due biglietti per Oxford?
+
+ex2:
+- [Is] [there] a chemist's near here?
+  it: C'è una farmacia qui vicino?
+- [There's] one in the High Street.
+  it: Ce n'è una nella High Street.
+- Is it open [on] Sundays?
+  it: È aperta la domenica?
+- [Nothing] is open here.
+  it: Qui non è aperto niente.
+- [Only] the pub.
+  it: Solo il pub.
+
+culture.it:
+In Gran Bretagna la domenica è un giorno tranquillo. In Inghilterra e in Galles i negozi grandi possono restare aperti solo sei ore, tra le dieci del mattino e le sei di sera; i negozietti di quartiere, invece, decidono da soli. Molti uffici e molte banche restano chiusi. Le farmacie lavorano a turno: ce n'è sempre qualcuna aperta in città, ma bisogna sapere dove. I pub, invece, sono aperti, e la domenica a pranzo si mangia il Sunday roast, arrosto con patate e verdure. La High Street è la via principale di ogni paese e di ogni città: lì ci sono banche, negozi, farmacia e pub. Oggi molte High Street si svuotano, perché si compra su Internet o nei centri commerciali fuori città.
+
+== 11 A1
+numeral: Lesson Eleven
+numeral.pron.it: lèsən ilèvən
+title: Can you cook?
+title.it: Sai cucinare?
+
+dialogue:
+- Can you cook?
+  it: Sai cucinare?
+  pron.it: kən ju kuk?
+- Yes, I can.
+  it: Sì, so farlo (sì, io posso).
+  pron.it: jes, ai kæn.
+- Can you clean?
+  it: Sai pulire?
+  pron.it: kən ju kliin?
+- Yes, I can.
+  it: Sì, so farlo.
+  pron.it: jes, ai kæn.
+- Can you play the guitar?
+  it: Sai suonare la chitarra?
+  pron.it: kən ju plei dhə ghitàa?
+- No, I can't.
+  it: No, non so farlo.
+  pron.it: nou, ai kaant.
+- Perfect. The last one played the guitar all night.
+  it: Perfetto. L'ultimo suonava la chitarra tutta la notte.
+  pron.it: pööfikt. dhə laast wan pleid dhə ghitàar ool nait.
+
+sounds.it:
+1. Can dentro la frase è una parola debole, e si dice kən, con la ə: Can you cook? si dice kən ju kuk. Ma in fondo alla frase torna piena, kæn, con la æ aperta di badly (lezione 3): Yes, I can, jes, ai kæn. Per questo la stessa parola ha due suoni.
+2. Can't è la forma negativa e si dice kaant, con la aa lunga di are (lezione 2): non kæn, non "cànt". Se senti kaant a fine frase è la negazione; se senti kæn, è la risposta positiva. La differenza è tutta nella vocale.
+3. Perfect si scrive come in italiano, ma si dice pööfikt: la voce cade sulla prima sillaba, la öö lunga e la -ct finale con una k e una t, senza vocale. Guitar si dice ghitàa, con la g dura, e la r finale è muta, come in far (lezione 4).
+
+notes.it:
+1. Can you cook?: can vuol dire potere e anche sapere fare: Can you cook? è "sai cucinare?". È un verbo particolare: non prende mai la -s (he can, she can), e dopo can il verbo resta senza to. La domanda si fa mettendo can davanti al soggetto, senza do, come con to be (lezione 4): Can you...? Cook è anche il cuoco, la cuoca.
+2. Yes, I can: la risposta breve ripete can, come Yes, I am (lezione 2): Yes, I can, No, I can't. Can't è can not, accorciato (anche cannot, in una parola). Non si ripete il verbo cook.
+3. Can you clean?: clean è pulire, e anche pulito: a clean room, una camera pulita. Il verbo e l'aggettivo si scrivono nello stesso modo.
+4. Play the guitar: play vuol dire suonare, e anche giocare: I play tennis, gioco a tennis. Con gli strumenti musicali si mette the, come noi mettiamo "la": play the guitar, suonare la chitarra. Con gli sport, invece, non si mette l'articolo.
+5. Perfect: perfetto, ma in inglese si usa spesso come un commento: Perfect! vuol dire "ottimo, benissimo". Qui è detto con una punta di ironia, perché dopo si capisce che chi parla è contento che il nuovo coinquilino non sappia suonare.
+6. The last one: last vuol dire ultimo. The last one è "l'ultimo", cioè l'ultimo inquilino, quello di prima: one sostituisce il nome già detto, come in a big one (lezione 3).
+7. Played: played è un passato, "suonava, ha suonato": è il secondo passato che incontri, dopo I slept (lezione 3). I passati regolari finiscono in -ed: play, played. Per ora ricordali come frasi fatte: li spiegheremo bene nella lezione 22. All night vuol dire tutta la notte, senza preposizione: all è tutto, e night è come in tonight (lezione 8). La battuta: il nuovo inquilino è perfetto perché non suona la chitarra.
+
+ex1:
+- Can she cook?
+  it: Lei sa cucinare?
+- Can you clean the bathroom?
+  it: Sai pulire il bagno?
+- I can't play the guitar, but I can cook.
+  it: Non so suonare la chitarra, ma so cucinare.
+- Can you cook tonight?
+  it: Puoi cucinare stasera?
+- Does she play the guitar?
+  it: Suona la chitarra?
+
+ex2:
+- [Can] you cook?
+  it: Sai cucinare?
+- Can you clean? No, I [can't].
+  it: Sai pulire? No, non so farlo.
+- Can you [play] [the] guitar?
+  it: Sai suonare la chitarra?
+- The last [one] played the guitar.
+  it: L'ultimo suonava la chitarra.
+- I slept badly all [night].
+  it: Ho dormito male tutta la notte.
+
+culture.it:
+Molti giovani britannici, e non solo, dividono casa con altri: è il flat-sharing. Flat è l'appartamento, mentre house è la casa intera, e in un flat o in una house condivisa ogni inquilino ha la propria camera e gli altri spazi si dividono. L'affitto si paga al mese e si legge negli annunci come pcm, per calendar month, e di solito si lascia anche una cauzione, il deposit. Prima di accettare un nuovo coinquilino, quelli che già abitano lì fanno spesso un piccolo colloquio: sai cucinare? sei ordinato? suoni qualcosa? Le domande sono quelle della lezione. Se vai a vedere una stanza, la domanda più semplice è quella che già conosci: Have you got a room?
+
+aside.it:
+Due settimane fatte: complimenti. Non cercare di ricordare tutto: molte cose le hai solo viste, e torneranno. Domani si riparte con la lezione 12, e il ripasso della lezione 14 metterà in ordine quello che hai incontrato.
+
+== 12 A1
+numeral: Lesson Twelve
+numeral.pron.it: lèsən twelv
+title: A pink umbrella
+title.it: Un ombrello rosa
+
+dialogue:
+- Excuse me. Is this your umbrella?
+  it: Scusi. È suo questo ombrello?
+  pron.it: ikskjùuz mii. iz dhis joor ambrèlə?
+- No, it's my husband's.
+  it: No, è di mio marito.
+  pron.it: nou, its mai hàzbəndz.
+- It's pink!
+  it: È rosa!
+  pron.it: its pink!
+- Yes. Pink is his favourite colour.
+  it: Sì. Il rosa è il suo colore preferito (di lui).
+  pron.it: jes. pink iz hiz fèivrit kàlə.
+- And what's your favourite colour?
+  it: E il suo colore preferito qual è (e che cos'è il suo colore preferito)?
+  pron.it: ənd wots joo fèivrit kàlə?
+- Black. That's why it isn't my umbrella.
+  it: Il nero. Ecco perché non è il mio ombrello.
+  pron.it: blæk. dhæts wai it ìzənt mai ambrèlə.
+
+sounds.it:
+1. Umbrella si scrive con la u, ma la prima vocale è la a breve e scura di cup (lezione 1): ambrèlə. La voce cade sulla seconda sillaba, brèl, e la a finale è una ə debole. Colour si dice kàlə: la stessa a di cup, e -our finale è una ə, come in sister (lezione 9).
+2. Favourite si scrive con tre sillabe ma si dice in due: fèivrit, con la voce sulla prima e la i breve in fondo. La lettera o di colour e favourite non si sente: il suono è una ə debole.
+3. My ha il dittongo ai di five (lezione 4): mai. Husband si dice hàzbənd: la a è quella di cup, la s è una z con la voce, e la a di -band è una ə.
+
+notes.it:
+1. Is this your umbrella?: this vuol dire questo, questa: this umbrella è "questo ombrello". La domanda si fa come con is it (lezione 4). Your è la parola per tuo, tua, vostro e suo di cortesia, e non cambia, come you (lezione 1). Umbrella vuol dire ombrello. Gli aggettivi possessivi inglesi sono my, your, his, her, its, our, their: non vogliono l'articolo (my husband, e mai "the my husband"). Li troverai in una tabella nel ripasso della lezione 14.
+2. No, it's my husband's: my vuol dire mio, mia; husband è marito. Il 's dopo un nome vuol dire "di": my husband's è "di mio marito", e l'oggetto di cui si parla, qui l'ombrello, si può non dire: It's my husband's. Lo avevamo già visto in other people's (lezione 9). Fai attenzione al 's: può voler dire is (it's, lezione 4), has (it's got, lezione 8) oppure "di" (my husband's). Il resto della frase ti dice quale. Wife è moglie.
+3. It's pink!: pink è rosa, black è nero. Come ogni aggettivo inglese, i colori non cambiano né per il genere né per il numero. Altri: red (rosso), blue (blu), green (verde), yellow (giallo), white (bianco), grey (grigio): red, bluu, griin, jèlou, wait, grei.
+4. His favourite colour: his vuol dire suo, di lui. Il possessivo inglese si accorda con chi possiede, non con la cosa posseduta. L'italiano dice "il suo ombrello" per lui e per lei; l'inglese distingue: his umbrella è l'ombrello di lui, her umbrella è l'ombrello di lei (lezione 9). Non conta se la cosa è una o sono molte: his umbrella, his umbrellas, his colour. Favourite vuol dire preferito, e colour è colore: nota la grafia britannica, con -our, mentre gli americani scrivono color e favorite.
+5. And what's your favourite colour?: what's è what is, accorciato: "e qual è il tuo colore preferito?". What colour...? vuol dire "che colore?". L'apostrofo è sempre il 's di is. And ripete la domanda cambiando persona: "e il tuo?".
+6. That's why it isn't my umbrella: that's why vuol dire "ecco perché", come that's (lezione 6) davanti a un totale, qui davanti a una spiegazione. It isn't è it is not (lezione 4). La battuta è un'ovvietà detta con serietà: se il suo colore preferito è il nero, l'ombrello rosa non può essere suo. 
+
+ex1:
+- Is this your husband's umbrella?
+  it: Questo è l'ombrello di tuo marito?
+- My favourite colour is pink.
+  it: Il mio colore preferito è il rosa.
+- No, it's your husband's.
+  it: No, è di tuo marito.
+- His favourite colour is black.
+  it: Il suo colore preferito è il nero (di lui).
+- What's your husband's favourite colour?
+  it: Qual è il colore preferito di tuo marito?
+
+ex2:
+- [Is] [this] your umbrella?
+  it: È suo questo ombrello?
+- No, it's my [husband's].
+  it: No, è di mio marito.
+- Pink is [his] favourite colour.
+  it: Il rosa è il colore preferito di lui.
+- And what's [your] favourite [colour]?
+  it: E qual è il tuo colore preferito?
+- Black is [her] favourite colour.
+  it: Il nero è il colore preferito di lei.
+
+culture.it:
+In Gran Bretagna il tempo cambia di continuo: può esserci il sole, la pioggia e di nuovo il sole nello spazio di un'ora. Per questo molti escono con un ombrello nella borsa, anche quando il cielo è blu. In casa si chiama affettuosamente brolly. Si dice che il primo uomo a portarlo regolarmente in pubblico a Londra, nel Settecento, sia stato Jonas Hanway, un viaggiatore e filantropo; i passanti ridevano di lui, perché l'ombrello era un oggetto da donna. Gli ombrelli smarriti, che sono moltissimi, finiscono negli uffici degli oggetti smarriti dei treni e degli autobus. Per uscire con la pioggia, la frase giusta è: Take a brolly!
+
+== 13 A1
+numeral: Lesson Thirteen
+numeral.pron.it: lèsən thöötìin
+title: Half past eight
+title.it: Le otto e mezza
+
+dialogue:
+- It's cold, isn't it?
+  it: Fa freddo, vero?
+  pron.it: its kould, ìzənt it?
+- Very. What time is it?
+  it: Molto. Che ore sono?
+  pron.it: vèri. wot taim iz it?
+- Half past eight.
+  it: Le otto e mezza.
+  pron.it: haaf paast eit.
+- The shop opens at nine.
+  it: Il negozio apre alle nove.
+  pron.it: dhə shop òupənz ət nain.
+- Let's have a coffee, then.
+  it: Allora prendiamo un caffè.
+  pron.it: lets hæv ə kòfi, dhen.
+- Good idea. There's a café over there.
+  it: Buona idea. C'è un bar laggiù.
+  pron.it: gud aidìə. dheəz ə kǽfei òuvə dheə.
+- Is it open?
+  it: È aperto?
+  pron.it: iz it òupən?
+- It opens at ten.
+  it: Apre alle dieci.
+  pron.it: it òupənz ət ten.
+
+sounds.it:
+1. Cold e over hanno il dittongo ou della lezione 3: kould, òuvə. Anche o'clock, che vedrai nelle note, ha lo stesso dittongo nella seconda sillaba: əklòk, con una o breve e aperta, come in not (lezione 6).
+2. Half si scrive con la l, ma la l non si dice: haaf, con la aa lunga di are. Allo stesso modo è muta la l di calm. In half past eight le parole si legano: la t di past si appoggia alla e di eight, paas teit, e si dice tutto in un fiato.
+3. Isn't it? si dice izənt it, e in fretta le due parole si legano in un fiato solo. It's, invece, si dice its, con la s sorda: la differenza con is è che is si dice con la z, iz.
+
+notes.it:
+1. It's cold, isn't it?: cold vuol dire freddo. Per il tempo l'inglese dice it's cold, "è freddo", sempre con it (lezione 4): l'italiano dice "fa freddo". Isn't it? alla fine è una domanda breve che chiede conferma: "vero?, non è così?". Si dice quando si pensa già di avere ragione, e la risposta di solito è sì. Per ora lo vedi come una frase fatta; lo spiegheremo meglio più avanti.
+2. What time is it?: what time is it? è il modo di chiedere l'ora: letteralmente "che tempo è?", ma qui time vuol dire ora. È diverso da "che tempo fa?", che è un'altra domanda. Si risponde con it's e l'ora: It's half past eight. Il pronome it si mette sempre (lezione 4).
+3. Half past eight: half è mezzo, mezza; past è dopo, oltre. Half past eight è "otto e mezza": letteralmente "mezza dopo le otto". Per dire l'ora dopo la mezza si dice to: quarter to nine, le nove meno un quarto. Ecco lo schema: eight o'clock (le otto in punto), five past eight (le otto e cinque), ten past eight, quarter past eight (le otto e un quarto), twenty past eight, half past eight, twenty to nine (le nove meno venti), quarter to nine, ten to nine. Si usa past nella prima metà dell'ora e to nella seconda: past è il nostro "e", to è il nostro "meno". Quarter è un quarto, e si dice kwòotə, con la voce sulla prima sillaba.
+4. Eight, nine, ten: hai visto i numeri fino a venti nella lezione 7. Ora le decine: twenty (venti), thirty (trenta), forty (quaranta), fifty (cinquanta), sixty (sessanta), e come nella lezione 6 si dice la decina e l'unità con il trattino: twenty-five, forty-two. Sixty si dice siksti. I numeri dopo sessanta li trovi nella lezione 14.
+5. The shop opens at nine: shop è il negozio, e come in the bank (lezione 4) il negozio è it. Opens è la -s della terza persona (lezione 9): the shop opens, "il negozio apre". Open vuol dire aperto (lezione 10) e anche aprire: la parola è la stessa. At vuol dire a, alle, davanti a un'ora: at nine, "alle nove", at half past eight, "alle otto e mezza". Si dice at, mai "to" né "in", e non si mette l'articolo.
+6. Let's have a coffee: let's è let us, accorciato: let's + verbo è un invito, "facciamo", "andiamo", "prendiamo". Let's go! (go lezione 6) è "andiamo!". Have qui non vuol dire avere: have a coffee è "prendere, bere un caffè". È un altro uso rispetto a have got della lezione 8, che vuol dire possedere: per mangiare e bere si dice have, senza got: have a tea, have a coffee, have breakfast.
+7. Then: then alla fine della frase vuol dire "allora", "in questo caso": Let's have a coffee, then, "allora prendiamo un caffè". In italiano "allora" sta spesso all'inizio; in inglese, di solito, in fondo. Good idea vuol dire buona idea: idea si scrive come in italiano, ma si dice aidìə, con la voce sulla seconda sillaba.
+8. A café over there: café è un locale dove si beve caffè o tè e si mangia qualcosa; non è il nostro bar, perché di solito ha tavoli e si resta seduti. Over there vuol dire laggiù. There's a café è "c'è un bar", come nella lezione 10; over there è "laggiù": there, da solo, può anche voler dire "lì". La battuta: il negozio apre alle nove, e il caffè alle dieci: sono le otto e mezza, e i due devono aspettare un'ora e mezza per un caffè.
+
+ex1:
+- What time is it? It's half past nine.
+  it: Che ore sono? Sono le nove e mezza.
+- The bank opens at ten.
+  it: La banca apre alle dieci.
+- Let's have a tea, then.
+  it: Allora prendiamo un tè.
+- It's very cold in Leeds, isn't it?
+  it: Fa molto freddo a Leeds, vero?
+- Good idea! Is the pub open?
+  it: Buona idea! Il pub è aperto?
+
+ex2:
+- It's [cold], [isn't] it?
+  it: Fa freddo, vero?
+- What [time] is it?
+  it: Che ore sono?
+- It's [half] [past] eight.
+  it: Sono le otto e mezza.
+- The shop opens [at] nine.
+  it: Il negozio apre alle nove.
+- [Let's] [have] a coffee.
+  it: Prendiamo un caffè.
+
+== 14 A1
+kind: revision
+numeral: Lesson Fourteen
+numeral.pron.it: lèsən footìin
+title: Revision
+title.it: Ripasso
+
+dialogue:
+- Good morning! Tea or coffee?
+  it: Buongiorno! Tè o caffè?
+  pron.it: gud mòoning! tii oo kòfi?
+  refs: 1 4
+- Coffee, please. What time is it?
+  it: Caffè, per favore. Che ore sono?
+  pron.it: kòfi, pliiz. wot taim iz it?
+  refs: 1 13
+- It's half past eight.
+  it: Sono le otto e mezza.
+  pron.it: its haaf paast eit.
+  refs: 13
+- Is there a bank near here?
+  it: C'è una banca qui vicino?
+  pron.it: iz dheər ə bænk niə hiə?
+  refs: 10
+- Yes, there's one in the High Street.
+  it: Sì, ce n'è una nella High Street.
+  pron.it: jes, dheəz wan in dhə hai striit.
+  refs: 10
+- What time does it open?
+  it: A che ora apre?
+  pron.it: wot taim dəz it òupən?
+  refs: 9 13
+- At nine. The chemist's is next to the bank.
+  it: Alle nove. La farmacia è accanto alla banca.
+  pron.it: ət nain. dhə kèmists iz nekst tə dhə bænk.
+  refs: 4 10 13
+- Is it open on Sundays?
+  it: È aperta la domenica?
+  pron.it: iz it òupən on sàndeiz?
+  refs: 10
+- On Sundays? Nothing is open here on Sundays.
+  it: La domenica? Qui la domenica non è aperto niente.
+  pron.it: on sàndeiz? nàthing iz òupən hiər on sàndeiz.
+  refs: 10
+- Nothing? Oh dear. Is the pub open?
+  it: Niente? Poverino (oh caro). Il pub è aperto?
+  pron.it: nàthing? ou diə. iz dhə pab òupən?
+  refs: 3 10
+- Yes, all night. It's my husband's pub.
+  it: Sì, tutta la notte. È il pub di mio marito.
+  pron.it: jes, ool nait. its mai hàzbəndz pab.
+  refs: 10 11 12
+
+notes.it:
+Un'altra settimana è passata, e ancora nessuna regola da imparare a memoria. Questa lezione rimette in ordine il presente, do e does, have got, i possessivi, there is e can. Se qualcosa ti sembra troppo, passa avanti: tornerà ogni giorno, un po' più chiaro. Hai già incontrato tutto nelle lezioni, ora lo vedi in fila.
+
+1. Il presente semplice (lezioni 5, 8, 9, 13). Per le abitudini e per i fatti il presente si fa con il verbo base, senza fine, per I, you, we, they. Solo con he, she, it si aggiunge una -s.
+
+| Soggetto | work | live | like |
+|---|---|---|---|
+| I | work | live | like |
+| you | work | live | like |
+| he, she, it | works | lives | likes |
+| we | work | live | like |
+| they | work | live | like |
+
+Dalle lezioni: I live in Leeds (5); she works in a bank, she likes money (9); the shop opens at nine (13). Dopo s, sh, ch e x si scrive -es (watches, washes, boxes), e con have si dice has (lezione 8): it has got. Anche do e go fanno does e goes. La -s si pronuncia in tre modi, come la -s del plurale: s dopo t, p, k, f (works, wööks; likes, laiks); z dopo una vocale o una consonante sonora (lives, livz; opens, òupənz); iz dopo s, sh, ch e x (watches, wòciz). In inglese il pronome c'è sempre: she works, e mai "works" da solo. Il verbo to be è a parte (lezione 7): she is, he is.
+
+2. Do e does: domande, negazioni, risposte brevi (lezioni 5, 9). Come promesso nelle lezioni 5 e 7. Con tutti i verbi, tranne to be, have got e can, la domanda e la negazione si fanno con do (I, you, we, they) o does (he, she, it), e il verbo che segue torna senza -s.
+
+| Domanda | Negazione | Risposta breve |
+|---|---|---|
+| Do you live in London? | I don't live in London. | Yes, I do. / No, I don't. |
+| Does she like her job? | She doesn't like her job. | Yes, she does. / No, she doesn't. |
+| What does she do? | | She works in a bank. |
+
+Don't è do not, doesn't è does not. La -s è già in does: Does she like..., e mai "Does she likes". Why vuol dire perché (lezione 9) e si usa allo stesso modo: Why does she work there? La risposta breve ripete do o does, senza ripetere il verbo (lezione 5). What do you do? vuol dire "che lavoro fai?" (lezione 9). Con to be, have got e can non c'è do: Are you...? Has it got...? Can you...? (lezioni 2, 8, 11).
+
+3. Have got (lezione 8). Per dire avere, nell'inglese britannico si usa have got. È un blocco: got non è un passato qui. Ha le stesse regole di to be: il verbo ausiliare va davanti al soggetto per la domanda, e not si mette dopo per la negazione.
+
+| Frase | Forma corta | Negazione | Domanda |
+|---|---|---|---|
+| I have got | I've got | I haven't got | Have I got? |
+| you have got | you've got | you haven't got | Have you got? |
+| he, she, it has got | he's, she's, it's got | hasn't got | Has he, she, it got? |
+| we have got | we've got | haven't got | Have we got? |
+| they have got | they've got | haven't got | Have they got? |
+
+Risposte brevi: Yes, I have, No, I haven't, Yes, it has, No, it hasn't. Dalla lezione 8: Have you got a room? Has it got a bathroom? It's got a view. Attenzione al 's: it's got è it has got, mentre it's a view sarebbe it is.
+
+4. I possessivi e il 's (lezioni 9, 12). Il possessivo non cambia con la cosa posseduta, ma con chi possiede, e non vuole l'articolo.
+
+| Chi possiede | Possessivo | Esempio |
+|---|---|---|
+| I | my | my husband |
+| you | your | your umbrella |
+| he | his | his favourite colour |
+| she | her | her job |
+| it | its | its colour |
+| we | our | our room |
+| they | their | their umbrella |
+
+La regola del proprietario: his sister e her sister sono entrambi "sua sorella", ma l'inglese dice se è di lui o di lei. Dopo un nome, 's vuol dire "di": Anna's umbrella, my husband's, other people's money. Se la cosa è già nota, si può non dirla: It's my husband's. Il 's ha tre significati: is (it's, lezione 4), has (it's got, lezione 8), "di" (husband's): il contesto dice quale. Its (senza apostrofo) è il possessivo di it, e non va confuso con it's.
+
+5. There is e there are (lezione 10). C'è, ci sono: there's e there is per il singolare, there are per il plurale. La domanda e la negazione sono come con to be.
+
+| Singolare | Plurale |
+|---|---|
+| There's a bank. | There are two banks. |
+| Is there a bank? | Are there two banks? |
+| There isn't a bank. | There aren't two banks. |
+| Yes, there is. / No, there isn't. | Yes, there are. / No, there aren't. |
+
+There qui non vuol dire "lì": c'è, ci sono. In over there (lezione 13), invece, vuol dire laggiù. Dopo there is e there are si usa un nome con a o un numero. Nothing is open, come Nothing is open here on Sundays (lezione 10), non vuole not: la doppia negazione non esiste.
+
+6. Can (lezione 11). Can vuol dire potere e sapere. Come i verbi ausiliari, ha le sue regole: la stessa forma per tutte le persone (I can, she can, e mai "she cans"), la domanda con can davanti al soggetto, la negazione can't (o cannot), e il verbo che segue è senza to: I can cook, I can't play the guitar.
+
+| Frase | Negazione | Domanda | Risposta |
+|---|---|---|---|
+| I can cook | I can't cook | Can you cook? | Yes, I can. / No, I can't. |
+| she can play | she can't play | Can she play? | Yes, she can. / No, she can't. |
+
+Dentro la frase can è debole, kən; in fondo alla frase, Yes, I can, è piena, kæn; can't si dice sempre kaant. Attenzione: want, al contrario di can, vuole to: we want to go (lezione 6).
+
+7. I giorni e i numeri fino a cento (lezioni 10, 13). I giorni si scrivono con la maiuscola e si usano con on: on Sundays.
+
+| Giorno | Pronuncia |
+|---|---|
+| Monday | màndei |
+| Tuesday | tjùuzdei |
+| Wednesday | wènzdei |
+| Thursday | thöözdei |
+| Friday | fràidei |
+| Saturday | sǽtədei |
+| Sunday | sàndei |
+
+Wednesday si scrive con la d, ma si dice wènzdei. Ora i numeri da venti a cento: twenty (twènti), thirty (thööti), forty (fòoti), fifty (fìfti), sixty (sìksti), seventy (sèvənti), eighty (èiti), ninety (nàinti), a hundred (ə hàndrəd). Si dice la decina e poi l'unità, con il trattino, come in italiano: twenty-one (twènti-wan), thirty-five (thööti-faiv), forty-two (fòoti-tuu), ninety-nine (nàinti-nain). Ricorda l'accento: thirteen ha la voce sulla fine, thirty sull'inizio. L'ora si dice con past e to (lezione 13): half past eight, quarter to nine; at nine è "alle nove". Le ore e i minuti usano gli stessi numeri.
+
+La settimana è finita, e le cose cominciano a trovare il loro posto: nella lezione 15 si risponde al telefono.

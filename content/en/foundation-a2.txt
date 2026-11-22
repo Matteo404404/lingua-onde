@@ -4,40 +4,40 @@ bases: it
 
 == 26 A2
 numeral: Lesson Twenty-Six
-numeral.pron.it: lèsən twènti-siks
+numeral.pron.it: *le*ssën *twen*ti-siks
 title: Ten years ago
 title.it: Dieci anni fa
 
 dialogue:
 - Mark! Is that you? Hello!
   it: Mark! Sei tu? Ciao!
-  pron.it: maak! iz dhæt juu? həlòu!
+  pron.it: ma‣k! iz dhèt yu‣? hë*lou*!
 - Tom! When did we last meet?
   it: Tom! Quando ci siamo visti l'ultima volta?
-  pron.it: tom! wen did wii laast miit?
+  pron.it: tom! wen did wi‣ la‣st mi‣t?
 - Ten years ago. You didn't have a beard then.
   it: Dieci anni fa. Allora non avevi la barba.
-  pron.it: ten jiəz əgòu. ju didnt hæv ə biəd dhen.
+  pron.it: ten yiëz ë*gou*. yu didnt hèv ë biëd dhen.
 - And you had hair!
   it: E tu avevi i capelli!
-  pron.it: ənd ju hæd heə!
+  pron.it: ënd yu hèd heë!
 - Oh dear. Where did you go after school?
   it: Povero me (oh caro). Dove sei andato dopo la scuola?
-  pron.it: ou diə. weə did ju gou àaftə skuul?
+  pron.it: ou dië. weë did yu gou *a‣f*të sku‣l?
 - I moved to Canada, but I came back.
   it: Mi sono trasferito in Canada, ma sono tornato.
-  pron.it: ai muuvd tə kǽnədə, bat ai keim bæk.
+  pron.it: ai mu‣vd të *kè*nëdë, bat ai keim bèk.
 - Why did you come back?
   it: Perché sei tornato?
-  pron.it: wai did ju kam bæk?
+  pron.it: wai did yu kam bèk?
 - I missed the English rain.
   it: Mi mancava la pioggia inglese.
-  pron.it: ai mist dhi ìngglish rein.
+  pron.it: ai mist dhi *in*glisc' rein.
 
 sounds.it:
-1. Beard si dice biəd: il dittongo iə è lo stesso di here (lezione 1) e near (lezione 10), la voce comincia con una i e finisce con una ə debole. La r è muta e la ea non si legge come in bread (lezione 20): è un'altra parola, e un'altra pronuncia.
-2. Hair si dice heə: il suono eə, lo stesso di there (lezione 10) e where's (lezione 4). Oggi molti lo dicono quasi come una e lunga. La h si sente, un soffio, come in her (lezione 9), e la r finale è muta.
-3. Ago si dice əgòu: la voce cade sulla seconda sillaba, con il dittongo ou di go (lezione 6). La prima è una ə debole. Moved e missed hanno la -ed (lezione 22): moved si dice muuvd, con la d finale, e missed si dice mist, con la t.
+1. Beard si dice biëd: il dittongo ië è lo stesso di here (lezione 1) e near (lezione 10), la voce comincia con una i e finisce con una ë debole. La r è muta e la ea non si legge come in bread (lezione 20): è un'altra parola, e un'altra pronuncia.
+2. Hair si dice heë: il suono eë, lo stesso di there (lezione 10) e where's (lezione 4). Oggi molti lo dicono quasi come una e lunga. La h si sente, un soffio, come in her (lezione 9), e la r finale è muta.
+3. Ago si dice ë*gou*: la voce cade sulla seconda sillaba, con il dittongo ou di go (lezione 6). La prima è una ë debole. Moved e missed hanno la -ed (lezione 22): moved si dice mu‣vd, con la d finale, e missed si dice mist, con la t.
 
 notes.it:
 1. Is that you?: that's (lezione 6) è "quello è"; Is that you? è "sei tu?", quando si incontra qualcuno che non si vedeva da tanto. When did we last meet? è "quando ci siamo visti l'ultima volta?": last (lezione 11) sta davanti al verbo, e vuol dire "l'ultima volta". Meet (lezione 2) è "incontrare, conoscere" e dopo did resta alla forma base, come nella lezione 22.
@@ -74,44 +74,44 @@ ex2:
 
 == 27 A2
 numeral: Lesson Twenty-Seven
-numeral.pron.it: lèsən twènti-sèvən
+numeral.pron.it: *le*ssën *twen*ti-*se*vën
 title: What's the weather like?
 title.it: Che tempo fa?
 
 dialogue:
 - Hello, Anna! What's the weather like there?
   it: Ciao, Anna! Che tempo fa lì (com'è il tempo lì)?
-  pron.it: həlòu, ǽnə! wots dhə wèdhə laik dheə?
+  pron.it: hë*lou*, *è*në! wots dhë *we*dhë laik dheë?
 - Oh, hello! It's raining.
   it: Oh, ciao! Piove.
-  pron.it: ou, həlòu! its rèining.
+  pron.it: ou, hë*lou*! its *rei*ning.
 - Again? It rained yesterday, too.
   it: Di nuovo? Ha piovuto anche ieri.
-  pron.it: əghèn? it reind jèstədei, tuu.
+  pron.it: ë*ghen*? it reind *ye*stëdei, tu‣.
 - Still. And it's colder than yesterday.
   it: Ancora (sempre). E fa più freddo di ieri.
-  pron.it: stil. ənd its kòuldə dhən jèstədei.
+  pron.it: stil. ënd its *koul*dë dhën *ye*stëdei.
 - Here it's sunny. It's warmer than in May.
   it: Qui c'è il sole. Fa più caldo che a maggio.
-  pron.it: hiər its sàni. its wòomə dhən in mei.
+  pron.it: hiër its *sa*ni. its *wo‣*më dhën in mei.
 - Lovely! I want to come to Bologna.
   it: Bello! Voglio venire a Bologna.
-  pron.it: làvli! ai wont tə kam tə bəlòunjə.
+  pron.it: *lav*li! ai wont të kam të bë*lou*nyë.
 - Is it going to rain there tomorrow?
   it: Pioverà lì domani?
-  pron.it: iz it gòuing tə rein dheə təmòrou?
+  pron.it: iz it *gou*ing të rein dheë të*mo*rou?
 - Of course. It's a tradition.
   it: Certo. È una tradizione.
-  pron.it: əv koos. its ə trədìshən.
+  pron.it: ëv ko‣s. its ë trë*di*scën.
 
 sounds.it:
-1. Rain si dice rein, con il dittongo ei di day (lezione 16) e may (lezione 19): non si dice "ràin" con la ai di my. Rained e raining seguono: reind, rèining. La r iniziale non vibra: la lingua si arretra senza toccare il palato.
-2. Weather si dice wèdhə, con la dh con la voce di the (lezione 4) in mezzo, e la r finale muta. Non si dice "uèter". Tomorrow si dice təmòrou, con la voce sulla seconda sillaba e il dittongo ou di go (lezione 6) in fondo.
-3. Le parole si legano. Is it going to si dice izitgòuingtə, quasi come una sola parola: la consonante finale di una parola si appoggia alla vocale della parola seguente, come it's a tradition, itsə trədìshən. Non fare pause tra le parole: leggi il gruppo in un solo fiato, come nella pronuncia figurata. Than e of sono deboli: dhən, əv.
+1. Rain si dice rein, con il dittongo ei di day (lezione 16) e may (lezione 19): non si dice "ràin" con la ai di my. Rained e raining seguono: reind, *rei*ning. La r iniziale non vibra: la lingua si arretra senza toccare il palato.
+2. Weather si dice *we*dhë, con la dh con la voce di the (lezione 4) in mezzo, e la r finale muta. Non si dice "uèter". Tomorrow si dice të*mo*rou, con la voce sulla seconda sillaba e il dittongo ou di go (lezione 6) in fondo.
+3. Le parole si legano. Is it going to si dice izit*gou*ingtë, quasi come una sola parola: la consonante finale di una parola si appoggia alla vocale della parola seguente, come it's a tradition, itsë trë*di*scën. Non fare pause tra le parole: leggi il gruppo in un solo fiato, come nella pronuncia figurata. Than e of sono deboli: dhan, ëv.
 
 notes.it:
 1. What's the weather like there?: nei saluti a distanza si chiede il tempo. What's ... like? vuol dire "com'è?": What's the weather like? è "che tempo fa?", letteralmente "com'è il tempo?". L'inglese dice be e non "fare". Like qui non vuol dire "piacere" (lezione 5): è una preposizione che vuol dire "come". What's your sister like? è "com'è tua sorella?", e non "che cosa le piace". Weather è il tempo atmosferico: non ha plurale e non vuole a, come bread (lezione 20): nice weather. There è "lì" (lezione 10).
-2. It's raining: it è il soggetto, anche quando l'italiano non ne ha: "piove" è it rains, it's raining. Ricorda che il soggetto non si omette mai (lezione 2). It's sunny è "c'è il sole", it's cold (lezione 13) è "fa freddo", it was too cold (lezione 23) è "faceva troppo freddo". Il presente continuo (lezione 15) è per il tempo che fa adesso, "sta piovendo", e rained (come stayed, lezione 22) è il passato regolare: It rained yesterday, "ieri ha piovuto". Rain (lezione 26) è sia il nome (la pioggia) sia il verbo (piovere).
+2. It's raining: it è il soggetto, anche quando l'italiano non ne ha: "piove" è it rains, it's raining. Ricorda che il soggetto non si omette mai (lezione 2). It's sunny è "c'è il sole", it's cold (lezione 13) è "fa freddo", it was to‣ cold (lezione 23) è "faceva troppo freddo". Il presente continuo (lezione 15) è per il tempo che fa adesso, "sta piovendo", e rained (come stayed, lezione 22) è il passato regolare: It rained yesterday, "ieri ha piovuto". Rain (lezione 26) è sia il nome (la pioggia) sia il verbo (piovere).
 3. Again? Still.: again vuol dire "di nuovo, un'altra volta", e still vuol dire "ancora, sempre", cioè "continua a". L'italiano ha "ancora" per tutti e due: "piove ancora". Si distinguono così: Again? chiede se è la seconda volta, dopo una pausa (ieri pioveva, oggi pure); Still significa che non si è mai fermata. Nel dialogo, la risposta Still corregge: non ha smesso.
 4. It's colder than yesterday: colder è "più freddo": cold (lezione 13) più -er. Il comparativo degli aggettivi corti si fa con -er, e than vuol dire "di, che": colder than yesterday, "più freddo di ieri". Ne hai già visto uno, bigger (lezione 24): in big - bigger la g raddoppia. In warm - warmer e cold - colder non cambia nessuna lettera. Il ripasso della lezione 28 ne dà un primo sguardo, la lezione 30 la spiegazione completa.
 5. Here it's sunny. It's warmer than in May: here (lezione 1) è "qui". Sunny viene da sun, il sole: it's sunny è "c'è il sole". Warmer è "più caldo": it's warmer than in May è "fa più caldo che a maggio": May (lezione 19) è maggio, e in May è "a maggio".
@@ -149,62 +149,62 @@ In Gran Bretagna parlare del tempo è un'abitudine nazionale. Non è curiosità:
 == 28 A2
 kind: revision
 numeral: Lesson Twenty-Eight
-numeral.pron.it: lèsən twènti-eit
+numeral.pron.it: *le*ssën *twen*ti-eit
 title: Revision
 title.it: Ripasso
 
 dialogue:
 - Hello, Anna! Did you have a nice weekend?
   it: Ciao, Anna! Hai passato un bel fine settimana?
-  pron.it: həlòu, ǽnə! did ju hæv ə nais wiikènd?
+  pron.it: hë*lou*, *è*në! did yu hèv ë nais wi‣*kend*?
   refs: 2 23
 - Lovely, thank you. We went to Bath.
   it: Bellissimo, grazie. Siamo andati a Bath.
-  pron.it: làvli, thænk juu. wii went tə baath.
+  pron.it: *lav*li, θènk yu‣. wi‣ went të ba‣θ.
   refs: 1 8 23
 - Was it cold? Is it still raining?
   it: Faceva freddo? Piove ancora?
-  pron.it: woz it kould? iz it stil rèining?
+  pron.it: woz it kould? iz it stil *rei*ning?
   refs: 13 23 27
 - Still. And I lost my bag on the bus!
   it: Sempre. E ho perso la borsa sull'autobus!
-  pron.it: stil. ənd ai lost mai bæg on dhə bas!
+  pron.it: stil. ënd ai lost mai bèg on dhë bas!
   refs: 24 27
 - Oh dear. What colour is it?
   it: Povera te (oh cara). Di che colore è?
-  pron.it: ou diə. wot kàlər iz it?
+  pron.it: ou dië. wot *ka*lër iz it?
   refs: 3 12 24
 - Black. A big one. My cake was in it.
   it: Nera. Una grande. C'era dentro la mia torta.
-  pron.it: blæk. ə big wan. mai keik wəz in it.
+  pron.it: blèk. ë big wan. mai keik wëz in it.
   refs: 3 12 23 25
 - Your cake? Is it your recipe?
   it: La tua torta? È la tua ricetta?
-  pron.it: joo keik? iz it joo rèsəpi?
+  pron.it: yo‣ keik? iz it yo‣ *re*ssëpi?
   refs: 15 25
 - Yes, I love it. It was lovely.
   it: Sì, la adoro. Era deliziosa.
-  pron.it: jes, ai lav it. it wəz làvli.
+  pron.it: yes, ai lav it. it wëz *lav*li.
   refs: 1 8 25
 - Is this your bag? It's black.
   it: È questa la tua borsa? È nera.
-  pron.it: iz dhis joo bæg? its blæk.
+  pron.it: iz dhis yo‣ bèg? its blèk.
   refs: 4 12 24
 - That's mine! Where did you get it?
   it: È mia! Dove l'hai presa?
-  pron.it: dhæts main! weə did ju ghet it?
+  pron.it: dhèts main! weë did yu ghet it?
   refs: 16 22 24 26
 - On the bus. I had a lot of cake.
   it: Sull'autobus. Ho mangiato un sacco di torta.
-  pron.it: on dhə bas. ai hæd ə lot əv keik.
+  pron.it: on dhë bas. ai hèd ë lot ëv keik.
   refs: 17 23 24 25
 - A lot? How much?
   it: Un sacco? Quanta?
-  pron.it: ə lot? hau mac'?
+  pron.it: ë lot? hau mac'?
   refs: 17 20
 - Four pieces. Five, actually.
   it: Quattro pezzi. Cinque, in realtà.
-  pron.it: foo pìisiz. faiv, ǽkciuuəli.
+  pron.it: fo‣ *pi‣*ssiz. faiv, *èk*ciu‣ëli.
   refs: 4 25
 
 notes.it:
@@ -219,7 +219,7 @@ Quattro settimane sono passate. In questa lezione non ci sono regole da imparare
 | vocale breve e consonante: la consonante raddoppia | stop, plan | stopped, planned (parole nuove) |
 | consonante e y: la y diventa -ied | study, carry | studied, carried (parole nuove) |
 
-La -ed ha tre suoni, e la scrittura non cambia: t dopo un suono sordo (watched woc't, washed wosht, missed mist), d dopo un suono sonoro (stayed steid, cleaned kliind, moved muuvd, rained reind) e id dopo t e d (wanted wòntid, invited invàitid). Il verbo irregolare non si fa con -ed, e va imparato così com'è. Quelli incontrati finora:
+La -ed ha tre suoni, e la scrittura non cambia: t dopo un suono sordo (watched woc't, washed wosc't, missed mist), d dopo un suono sonoro (stayed steid, cleaned kli‣nd, moved mu‣vd, rained reind) e id dopo t e d (wanted *won*tid, invited in*vai*tid). Il verbo irregolare non si fa con -ed, e va imparato così com'è. Quelli incontrati finora:
 
 | Verbo | Passato | Lezione |
 |---|---|---|
@@ -232,7 +232,7 @@ La -ed ha tre suoni, e la scrittura non cambia: t dopo un suono sordo (watched w
 | lose | lost | 24 |
 | sleep | slept | 3 |
 
-Tutti questi passati sono uguali per ogni persona, tranne be (I was, you were). Più avanti ne arriveranno altri, come met e took (parole nuove) per meet e take.
+Tutti questi passati sono uguali per ogni persona, tranne be (I was, you were). Più avanti ne arriveranno altri, come met e to‣k (parole nuove) per meet e take.
 
 2. Did, didn't, le risposte brevi e le parole del passato (lezioni 22, 23, 26). La domanda e la negazione al passato si fanno con did. Dopo did il verbo è alla forma base, senza -ed: il passato è già in did.
 
@@ -297,14 +297,14 @@ La quarta settimana è finita, e con essa le lezioni con la pronuncia figurata s
 
 == 29 A2
 numeral: Lesson Twenty-Nine
-numeral.pron.it: lèsən twènti-nain
+numeral.pron.it: *le*ssën *twen*ti-nain
 title: Plans for Saturday
 title.it: Programmi per sabato
 
 dialogue:
 - Hi, Tom! What are you going to do on Saturday?
   it: Ciao, Tom! Che cosa farai (stai per fare) sabato?
-  pron.it: … sǽtədei
+  pron.it: … *sè*tëdei
 - I'm going to paint the kitchen.
   it: Ho intenzione di dipingere (sto per dipingere) la cucina.
   pron.it: … peint …
@@ -316,29 +316,29 @@ dialogue:
   it: Ma è già rosa!
 - Yes. It's going to be a different pink.
   it: Sì. Sarà un rosa diverso.
-  pron.it: … bii … dìfrənt …
+  pron.it: … bi‣ … *di*frënt …
 - Is your wife going to help you?
   it: Ti aiuterà tua moglie?
   pron.it: … waif … help …
 - No. She's going to see her sister.
   it: No. Andrà a trovare sua sorella (vedrà sua sorella).
-  pron.it: … shiiz …
+  pron.it: … sci‣z …
 - Oh dear. Then I'm going to help you.
   it: Povero te (oh caro). Allora ti aiuto io.
 - Really? What are you going to do?
   it: Davvero? Che cosa farai?
-  pron.it: rìəli …
+  pron.it: *rië*li …
 - I'm going to hold the ladder and drink tea.
   it: Reggerò la scala e berrò del tè.
-  pron.it: … hould … lǽdər … drink …
+  pron.it: … hould … *lè*dër … drink …
 - Fine. I'm going to make the tea, too.
   it: Va bene. Il tè lo preparo io, allora (anche).
   pron.it: fain … meik …
 
 sounds.it:
-1. Going to nel parlato è debole: to diventa tə, come nella lezione 27, e going si dice gòuing con il dittongo ou di go (lezione 6). I'm going to paint si dice aim gòuing tə peint, in un solo fiato. In molte canzoni e nei fumetti trovi scritto gonna: è la stessa cosa, gòunə, ed è solo la scrittura del parlato veloce. Tu scrivi going to.
-2. Ladder si dice lǽdə: la æ aperta di black (lezione 12) e bag (lezione 24), la d è una sola, non doppia (l'inglese non ha consonanti doppie), e la r finale è muta, come in weather (lezione 27). Paint si dice peint, con il dittongo ei di day (lezione 16).
-3. Saturday si dice sǽtədei, con la voce sulla prima sillaba e la æ di black: la seconda sillaba è debole, ə. Tea si dice tii, con la ii lunga di see (lezione 23), e la t esce con un piccolo soffio. Different si dice dìfrənt: le sillabe sono due, la e di mezzo non si sente.
+1. Going to nel parlato è debole: to diventa të, come nella lezione 27, e going si dice *gou*ing con il dittongo ou di go (lezione 6). I'm going to paint si dice aim *gou*ing të peint, in un solo fiato. In molte canzoni e nei fumetti trovi scritto gonna: è la stessa cosa, *gou*në, ed è solo la scrittura del parlato veloce. Tu scrivi going to.
+2. Ladder si dice *lè*dë: la è aperta di black (lezione 12) e bag (lezione 24), la d è una sola, non doppia (l'inglese non ha consonanti doppie), e la r finale è muta, come in weather (lezione 27). Paint si dice peint, con il dittongo ei di day (lezione 16).
+3. Saturday si dice *sè*tëdei, con la voce sulla prima sillaba e la è di black: la seconda sillaba è debole, ë. Tea si dice ti‣, con la i‣ lunga di see (lezione 23), e la t esce con un piccolo soffio. Different si dice *di*frënt: le sillabe sono due, la e di mezzo non si sente.
 
 notes.it:
 1. What are you going to do on Saturday?: ecco la forma che avevi visto nella lezione 27 (Is it going to rain?). Be going to + verbo dice che cosa si ha intenzione di fare, un programma già deciso: I'm going to paint, "ho intenzione di dipingere" e anche "dipingerò". Si fa con am, is o are, poi going to e il verbo senza to e senza -s. Saturday è sabato, e come i giorni (Sundays, lezione 10) ha sempre la maiuscola: on Saturday, "sabato".
@@ -355,11 +355,11 @@ In italiano di solito basta il presente o il futuro (sabato dipingo, sabato dipi
 2. I'm going to paint the kitchen: paint è dipingere, e anche la pittura, la vernice (a pot of paint). Dopo going to il verbo resta alla forma base: to paint, to help, to hold. Kitchen (lezione 15) è la cucina, la stanza, e non il fornello. In questa frase going non vuol dire "andare": non c'è nessun movimento. Nella lezione 20 invece I'm going shopping era davvero "vado".
 3. What colour?: nelle risposte e nelle domande brevi l'inglese lascia fuori il resto: What colour?, "che colore?", come Which one? Colour (lezione 12) si scrive con -our in inglese britannico. My wife's favourite colour: wife's (lezione 24) è "di mia moglie", con 's, e favourite (lezione 12) è "preferito".
 4. But it's already pink!: already (lezione 25) è "già" e sta dopo is: it's already pink, come you've already had. Qui la battuta comincia: la cucina è già rosa, e lui la vuole dipingere di nuovo di rosa. Non cambia niente, o quasi.
-5. A different pink: different vuol dire "diverso", e si scrive con tre sillabe, ma si dice in due: dìfrənt. Pink è un colore e anche un aggettivo: a different pink, "un rosa diverso", come a different car. Be going to + be: it's going to be, "sarà". Be è la forma base di am, is, are.
+5. A different pink: different vuol dire "diverso", e si scrive con tre sillabe, ma si dice in due: *di*frënt. Pink è un colore e anche un aggettivo: a different pink, "un rosa diverso", come a different car. Be going to + be: it's going to be, "sarà". Be è la forma base di am, is, are.
 6. Is your wife going to help you?: help è aiutare: help you, "aiutarti" o "aiutarti a...". La domanda si fa invertendo is e il soggetto: Is your wife going to help you? Chi risponde dice No, she isn't, come No, I'm not (lezione 19), senza ripetere il resto. She's going to see her sister: see (lezione 23) qui è "vedere", ma see someone è anche "andare a trovare". Sister (lezione 9) è sorella.
 7. Really? What are you going to do?: really è "davvero", ed è la forma di real, "vero". Si usa da soli, come "davvero?", per mostrare sorpresa: Really? Come very (lezione 5), sta davanti all'aggettivo: really nice, "davvero carino". Oh dear (lezione 3) è un'espressione comune per dire "poveretto". Then (lezione 13) è "allora".
 8. I'm going to hold the ladder and drink tea: hold è tenere, reggere: hold the ladder è reggere la scala. Ladder è la scala a pioli, e non la scala di una casa (che è stairs). Drink è bere: drink tea, "bere del tè". Tea (lezione 1) non vuole a: drink tea.
-9. Fine. I'm going to make the tea, too: fine qui vuol dire "va bene, d'accordo": è la risposta di chi ha capito il trucco. Make (parola nuova) è fare, preparare: make tea, "preparare il tè". Too (lezione 18), in fondo alla frase, è "anche". La battuta: lui dipinge, la moglie è via, l'amico offre aiuto, ma il suo aiuto è stare a guardare con una tazza in mano, e il tè deve farlo ancora il padrone di casa.
+9. Fine. I'm going to make the tea, to‣: fine qui vuol dire "va bene, d'accordo": è la risposta di chi ha capito il trucco. Make (parola nuova) è fare, preparare: make tea, "preparare il tè". Too (lezione 18), in fondo alla frase, è "anche". La battuta: lui dipinge, la moglie è via, l'amico offre aiuto, ma il suo aiuto è stare a guardare con una tazza in mano, e il tè deve farlo ancora il padrone di casa.
 
 ex1:
 - What are you going to do tomorrow?
@@ -386,39 +386,39 @@ ex2:
   it: Reggerò la scala.
 
 culture.it:
-In Gran Bretagna dipingere la cucina il sabato non è una stranezza: è uno sport nazionale, il DIY, che si legge dii-ai-wài e sta per do it yourself, "fallo da te". Molti inglesi non chiamano l'imbianchino: comprano la vernice, un pennello e una scala, e fanno da soli. I negozi per il fai da te sono grandi e pieni di gente il fine settimana. Chi ha un giardino cura il prato; chi ha una casa vecchia ripara un tetto, uno scaffale, una porta. Spesso i lavori durano più del previsto, e non è raro vedere una stanza a metà per mesi: per questo c'è un'espressione che tutti conoscono, Well, it's a work in progress, "beh, è un lavoro in corso". Chi aiuta un amico a dipingere, di solito, finisce con una tazza di tè in mano e lascia che sia l'altro a lavorare, come nel nostro dialogo.
+In Gran Bretagna dipingere la cucina il sabato non è una stranezza: è uno sport nazionale, il DIY, che si legge di‣-ai-wài e sta per do it yourself, "fallo da te". Molti inglesi non chiamano l'imbianchino: comprano la vernice, un pennello e una scala, e fanno da soli. I negozi per il fai da te sono grandi e pieni di gente il fine settimana. Chi ha un giardino cura il prato; chi ha una casa vecchia ripara un tetto, uno scaffale, una porta. Spesso i lavori durano più del previsto, e non è raro vedere una stanza a metà per mesi: per questo c'è un'espressione che tutti conoscono, Well, it's a work in progress, "beh, è un lavoro in corso". Chi aiuta un amico a dipingere, di solito, finisce con una tazza di tè in mano e lascia che sia l'altro a lavorare, come nel nostro dialogo.
 
 aside.it:
 Questa lezione è più lunga delle altre: prenditi il tempo, leggila due volte e ripeti ogni frase ad alta voce. Domani torna una lezione più leggera.
 
 == 30 A2
 numeral: Lesson Thirty
-numeral.pron.it: lèsən thööti
+numeral.pron.it: *le*ssën *θë‣*ti
 title: Smaller but dearer
 title.it: Più piccolo ma più caro
 
 dialogue:
 - Come in. This is a lovely flat.
   it: Prego, entri. Questo è un appartamento bellissimo.
-  pron.it: … flæt
+  pron.it: … flèt
 - It's smaller than the old one.
   it: È più piccolo del vecchio.
-  pron.it: … smòolə …
+  pron.it: … *smo‣*lë …
 - But it's nearer the centre.
   it: Ma è più vicino al centro.
-  pron.it: … nìərə … sèntə
+  pron.it: … *nië*rë … *sen*të
 - And it's dearer than the old one.
   it: E costa di più del vecchio (è più caro).
-  pron.it: … dìərə …
+  pron.it: … *dië*rë …
 - It's more expensive, but it's much quieter.
   it: Costa di più (è più costoso), ma è molto più tranquillo.
-  pron.it: … kwàiətə
+  pron.it: … *kwaië*të
 - Quieter? There's a nightclub downstairs!
   it: Più tranquillo? C'è una discoteca al piano di sotto!
-  pron.it: … nàitklab dàunsteəz
+  pron.it: … *nait*klab *daun*steëz
 - Yes, but it's closed on Mondays.
   it: Sì, ma il lunedì è chiusa.
-  pron.it: … klouzd … màndeiz
+  pron.it: … klouzd … *man*deiz
 - And the other six days?
   it: E gli altri sei giorni?
   pron.it: … deiz
@@ -426,14 +426,14 @@ dialogue:
   it: Allora sarai molto stanco.
 
 sounds.it:
-1. La voce cade sulla prima sillaba, e la fine -er non si pronuncia come in italiano: è una ə debole, e la r è muta. Smaller si dice smòolə, nearer nìərə, dearer dìərə, quieter kwàiətə. Non si dice "smàller" e non si sente nessuna r. La r torna solo se segue una vocale: quieter and, kwàiətər ənd.
-2. Than è debole, come nella lezione 27: dhən, con la dh con la voce di the (lezione 4) e una ə. Più piccolo di: smòolə dhən, tutto in un fiato. Much si dice mac', con la a breve di cup (lezione 1), e finisce con il suono c' di which (lezione 19).
-3. Quiet e quite si scrivono con le stesse lettere, ma si leggono in modo diverso: quiet si dice kwàiət, due sillabe, ed è "tranquillo"; quite (parola nuova) si dice kwait, una sola, ed è "abbastanza". La differenza è la sillaba in più: quiet ha una ə prima della t, quite no.
+1. La voce cade sulla prima sillaba, e la fine -er non si pronuncia come in italiano: è una ë debole, e la r è muta. Smaller si dice *smo‣*lë, nearer *nië*rë, dearer *dië*rë, quieter *kwaië*të. Non si dice "smàller" e non si sente nessuna r. La r torna solo se segue una vocale: quieter and, *kwai*ëtër ënd.
+2. Than è debole, come nella lezione 27: dhan, con la dh con la voce di the (lezione 4) e una ë. Più piccolo di: *smo‣*lë dhan, tutto in un fiato. Much si dice mac', con la a breve di cup (lezione 1), e finisce con il suono c' di which (lezione 19).
+3. Quiet e quite si scrivono con le stesse lettere, ma si leggono in modo diverso: quiet si dice *kwai*ët, due sillabe, ed è "tranquillo"; quite (parola nuova) si dice kwait, una sola, ed è "abbastanza". La differenza è la sillaba in più: quiet ha una ë prima della t, quite no.
 
 notes.it:
 1. Come in. This is a lovely flat: flat è l'appartamento, in inglese britannico: non è "piatto", e non ha niente a che fare con i piatti. Come in vuol dire "entra, entri": come (lezione 26) con in, come in come back. Lovely (lezione 8) è "bello" e si dice di quasi tutto.
 2. It's smaller than the old one: smaller è il comparativo di small, "piccolo": gli aggettivi corti si fanno con -er, e than è "di, che". L'abbiamo visto in colder (lezione 27) e bigger (lezione 24), e ne avevi un primo sguardo nel ripasso della lezione 28. One qui sostituisce il nome: the old one è "il vecchio", e l'inglese non ripete flat. Old è "vecchio" (lezione 19).
-3. But it's nearer the centre: near (lezione 10) diventa nearer, "più vicino", e qui non c'è than perché non c'è il secondo termine da confrontare: nearer the centre è "più vicino al centro". Centre è il centro, e in inglese britannico si scrive con -re; l'americano scrive center. Si dice sèntə.
+3. But it's nearer the centre: near (lezione 10) diventa nearer, "più vicino", e qui non c'è than perché non c'è il secondo termine da confrontare: nearer the centre è "più vicino al centro". Centre è il centro, e in inglese britannico si scrive con -re; l'americano scrive center. Si dice *sen*të.
 4. And it's dearer than the old one: dear (lezione 3) vuol dire "caro" in tutti e due i sensi: Oh dear (lezione 3) è "povero me", Dear Anna si scrive in una lettera, e per il prezzo it's dear vuol dire "costa molto". Il comparativo è dearer: è il tuo "più caro". Vale anche more expensive: lo vedrai nella nota 5. L'inglese britannico dice dear per il prezzo, soprattutto nei negozi e al mercato.
 5. It's more expensive, but it's much quieter: gli aggettivi lunghi non prendono -er: si mette more davanti, e basta. Il confine è il numero di sillabe, e non conta la lunghezza della parola in lettere.
 
@@ -446,7 +446,7 @@ notes.it:
 | tre o più sillabe: expensive | more + aggettivo | more expensive |
 
 Older, nicer, happier e busier sono forme nuove, regolari, che qui servono da modello. Quiet ha due sillabe e prende -er (quieter), come molti aggettivi a due sillabe, ma non tutti: per le parole lunghe e incerte usa more, e si capisce sempre. Mai le due cose insieme: non "more bigger" e non "more expensiver". Much (lezione 20) prima del comparativo vuol dire "molto": much quieter, much more expensive, come much bigger (lezione 24). Più avanti vedrai gli aggettivi con la forma tutta loro.
-6. Quieter?: quiet vuol dire "tranquillo, silenzioso": è un aggettivo, e si dice kwàiət. Non confonderlo con quite, "abbastanza", che si dice kwait e si trova più tardi nel corso: la differenza è nella pronuncia. Be quiet! è "silenzio!, fai silenzio!". L'italiano "quieto" gli assomiglia, e il senso è proprio questo.
+6. Quieter?: quiet vuol dire "tranquillo, silenzioso": è un aggettivo, e si dice *kwai*ët. Non confonderlo con quite, "abbastanza", che si dice kwait e si trova più tardi nel corso: la differenza è nella pronuncia. Be quiet! è "silenzio!, fai silenzio!". L'italiano "quieto" gli assomiglia, e il senso è proprio questo.
 7. There's a nightclub downstairs: there's (lezione 10) è "c'è". Nightclub è night (lezione 11) più club, una discoteca, o un locale notturno. Downstairs viene da down (lezione 17) e stairs, "scale": è "al piano di sotto", e il contrario è upstairs, "al piano di sopra". È un avverbio: go downstairs, e non "go to downstairs". Nella nota di cultura, in fondo alla lezione, vedrai che cosa vuol dire piano terra in Gran Bretagna.
 8. Yes, but it's closed on Mondays: closed è il contrario di open (lezione 10), "chiuso", e viene dal verbo close, "chiudere", con la -ed come in cleaned (lezione 22). On Mondays è "il lunedì, ogni lunedì", come on Sundays (lezione 10): -s alla fine dice "ogni volta". I giorni hanno sempre la maiuscola, e non vogliono the.
 9. And the other six days? Then you're going to be very tired: other (lezione 9) vuol dire "altro": the other six days è "gli altri sei giorni", con the e il numero prima dell'aggettivo. Then you're going to be è going to + be, come nella lezione 29: "allora sarai". Very (lezione 5) tired (lezione 3) è "molto stanco". La battuta: il locale è chiuso solo il lunedì, e per gli altri sei giorni il rumore è assicurato.
@@ -480,14 +480,14 @@ In Gran Bretagna chi cerca una casa in affitto guarda di solito gli annunci di u
 
 == 31 A2
 numeral: Lesson Thirty-One
-numeral.pron.it: lèsən thööti-wan
+numeral.pron.it: *le*ssën *θë‣*ti-wan
 title: Have you ever...?
 title.it: Sei mai...?
 
 dialogue:
 - Have you ever been to Scotland?
   it: Sei mai stato in Scozia?
-  pron.it: … biin … skòtlənd
+  pron.it: … bi‣n … *skot*lënd
 - Yes, I have. I went there last year.
   it: Sì (sì, ho). Ci sono andato l'anno scorso.
 - Did you like it?
@@ -499,7 +499,7 @@ dialogue:
   it: Ogni giorno? È come Londra!
 - Yes! Have you ever eaten haggis?
   it: Sì! Hai mai mangiato l'haggis?
-  pron.it: … ìitən hǽghis
+  pron.it: … *i‣*tën *hè*ghis
 - No, I've never eaten it. What is it?
   it: No, non l'ho mai mangiato. Che cos'è?
   pron.it: … aiv …
@@ -512,9 +512,9 @@ dialogue:
   it: Meglio non saperlo (non vuoi saperlo).
 
 sounds.it:
-1. Have e been sono deboli dentro la frase: Have you ever been si dice hæv ju èvə biin, e nel parlato veloce molti dicono bin, con una i breve. Nella risposta breve, invece, have torna pieno: Yes, I have, jes ai hæv. La forma corta I've si dice aiv, con il dittongo ai di my (lezione 12), e la -ve finale è una v come in have.
-2. Scotland si dice skòtlənd: la o è breve e aperta, come in coffee (lezione 3), e la seconda sillaba è debole. Haggis si dice hǽghis, con la æ aperta di black (lezione 12) e la g dura, come in good (lezione 1): davanti a i la g è dura, e si scrive gh nella pronuncia figurata.
-3. Eaten si dice ìitən: ea è la ii lunga di tea (lezione 1), la voce cade sulla prima sillaba, e la -en è debole, ən. Ate, invece, si dice eit, con il dittongo ei di day (lezione 16): ate e eaten non si assomigliano, e vanno imparati insieme.
+1. Have e been sono deboli dentro la frase: Have you ever been si dice hèv yu *e*vë bi‣n, e nel parlato veloce molti dicono bin, con una i breve. Nella risposta breve, invece, have torna pieno: Yes, I have, yes ai hèv. La forma corta I've si dice aiv, con il dittongo ai di my (lezione 12), e la -ve finale è una v come in have.
+2. Scotland si dice *skot*lënd: la o è breve e aperta, come in coffee (lezione 3), e la seconda sillaba è debole. Haggis si dice *hè*ghis, con la è aperta di black (lezione 12) e la g dura, come in good (lezione 1): davanti a i la g è dura, e si scrive gh nella pronuncia figurata.
+3. Eaten si dice *i‣*tën: ea è la i‣ lunga di tea (lezione 1), la voce cade sulla prima sillaba, e la -en è debole, ën. Ate, invece, si dice eit, con il dittongo ei di day (lezione 16): ate e eaten non si assomigliano, e vanno imparati insieme.
 
 notes.it:
 1. Have you ever been to Scotland?: ecco il present perfect, che hai visto in you've already had (lezione 25): have o has più il participio passato. Qui il participio è been, quello di be. Have you ever been to...? vuol dire "sei mai stato a...?", e ever (lezione 16) sta tra il soggetto e il participio. Per i luoghi si dice been to: I've been to Milan, "sono stato a Milano". Ne parla il ripasso della lezione 35, dove vedrai anche gone.
@@ -561,30 +561,30 @@ La Scozia fa parte del Regno Unito, con Inghilterra, Galles e Irlanda del Nord, 
 
 == 32 A2
 numeral: Lesson Thirty-Two
-numeral.pron.it: lèsən thööti-tuu
+numeral.pron.it: *le*ssën *θë‣*ti-tu‣
 title: Rules are rules
 title.it: Le regole sono regole
 
 dialogue:
 - Excuse me, sir. You must wear a cap.
   it: Scusi, signore. Deve portare una cuffia (indossare un berretto).
-  pron.it: … söö … mast weər … kæp
+  pron.it: … së‣ … mast weër … kèp
 - A cap? I haven't got any hair.
   it: Una cuffia? Non ho nemmeno un capello (non ho capelli).
 - Sorry, you have to wear one. It's the rule.
   it: Mi dispiace, deve portarla. È la regola.
-  pron.it: sòri … ruul
+  pron.it: *so*ri … ru‣l
 - Is that all?
   it: È tutto?
 - No. You mustn't run, and you mustn't jump.
   it: No. Non deve correre, e non deve saltare (è vietato).
-  pron.it: … màsənt … giamp
+  pron.it: … *ma*ssënt … giamp
 - Rules, rules! I mustn't run, I mustn't jump...
   it: Regole, regole! Non devo correre, non devo saltare...
-  pron.it: ruulz …
+  pron.it: ru‣lz …
 - Well, you don't have to swim either.
   it: Beh, non è obbligato nemmeno a nuotare.
-  pron.it: … swim àidhə
+  pron.it: … swim *ai*dhë
 - Then I'll sit in the café.
   it: Allora mi siedo al bar.
   pron.it: … sit …
@@ -592,9 +592,9 @@ dialogue:
   it: Anche lì deve portare la cuffia.
 
 sounds.it:
-1. Mustn't si scrive con due t, ma la prima non si dice: must si dice mast, e mustn't màsənt, con la a breve di cup (lezione 1) e la n debole. La t di must cade davanti alla n: la senti appena, e così lo dicono tutti. Non si dice "mastnt".
-2. Have to nel parlato veloce si dice hæf tə: la v di have diventa f davanti alla t, e to è debole, tə (lezione 27). Has to si dice hæs tə, con la s sorda. Nella frase it's the rule la u di rule è la uu lunga di you (lezione 1): ruul, non "rùle".
-3. Sir si dice söö, con la öö lunga e senza r, come in work (lezione 16): la lingua è al centro della bocca e le labbra restano rilassate. Wear si dice weə, con il suono eə di where (lezione 26) e there (lezione 10). Jump si dice giamp: la j inglese è un g dolce, come in giorno, e la a è la a breve di cup.
+1. Mustn't si scrive con due t, ma la prima non si dice: must si dice mast, e mustn't *ma*ssënt, con la a breve di cup (lezione 1) e la n debole. La t di must cade davanti alla n: la senti appena, e così lo dicono tutti. Non si dice "mastnt".
+2. Have to nel parlato veloce si dice hèf të: la v di have diventa f davanti alla t, e to è debole, të (lezione 27). Has to si dice hès të, con la s sorda. Nella frase it's the rule la u di rule è la u‣ lunga di you (lezione 1): ru‣l, non "rùle".
+3. Sir si dice së‣, con la ë‣ lunga e senza r, come in work (lezione 16): la lingua è al centro della bocca e le labbra restano rilassate. Wear si dice weë, con il suono eë di where (lezione 26) e there (lezione 10). Jump si dice giamp: la j inglese è un g dolce, come in giorno, e la a è la a breve di cup.
 
 notes.it:
 1. Excuse me, sir. You must wear a cap: sir è "signore", la parola con cui si rivolge a un uomo che non si conosce; per una donna si dice madam, che vedrai più avanti. Excuse me (lezione 4) è "scusi". Must è "devi, deve": come can (lezione 11) e should (lezione 17) ha una sola forma per tutte le persone (he must, mai "he musts"), e il verbo dopo è senza to. Wear è "portare addosso, indossare": un berretto, un cappello, un vestito. Per "portare con sé" si dice take (lezione 8): take a bag, wear a cap. A cap è un berretto, qui la cuffia della piscina.
@@ -611,9 +611,9 @@ notes.it:
 | don't have to | non è necessario, è facoltativo | You don't have to swim. |
 
 6. Rules, rules! I mustn't run, I mustn't jump...: l'uomo ripete la lista delle regole con un'ironia che l'italiano rende con un tono: la parola ripetuta, Rules, rules!, vuol dire "che fatica!".
-7. Well, you don't have to swim either: don't have to è "non sei obbligato, non c'è bisogno". In italiano "non devi" vale per tutti e due i casi: "non devi correre" è mustn't (è vietato), "non devi nuotare" è don't have to (puoi, ma non è obbligatorio). Sono opposti: l'errore, per un italiano, è usare don't have to al posto di mustn't, e viceversa. Either, in fondo a una frase negativa, vuol dire "nemmeno, neanche": è la forma di too (lezione 18) che si usa dopo not: I haven't got a cap either, "non ho nemmeno una cuffia". Swim è nuotare, la parola è la stessa per il verbo. Well (lezione 22) apre una risposta: "beh".
-8. Then I'll sit in the café: I'll (lezione 8) è I will, e qui dice una decisione presa adesso: "allora mi siedo". Will lo vedremo bene nella lezione 36. Sit è sedersi, stare seduti, sit in the café è "stare al bar". Then (lezione 13) è "allora". Café (lezione 13) si scrive con l'accento, e si dice kǽfei.
-9. You have to wear a cap there, too: there (lezione 10) è "lì", too (lezione 18) è "anche". La battuta: nemmeno il bar è un posto sicuro, perché il bar è dentro la piscina, e le regole sono dappertutto. Rules are rules: "le regole sono regole".
+7. Well, you don't have to swim either: don't have to è "non sei obbligato, non c'è bisogno". In italiano "non devi" vale per tutti e due i casi: "non devi correre" è mustn't (è vietato), "non devi nuotare" è don't have to (puoi, ma non è obbligatorio). Sono opposti: l'errore, per un italiano, è usare don't have to al posto di mustn't, e viceversa. Either, in fondo a una frase negativa, vuol dire "nemmeno, neanche": è la forma di to‣ (lezione 18) che si usa dopo not: I haven't got a cap either, "non ho nemmeno una cuffia". Swim è nuotare, la parola è la stessa per il verbo. Well (lezione 22) apre una risposta: "beh".
+8. Then I'll sit in the café: I'll (lezione 8) è I will, e qui dice una decisione presa adesso: "allora mi siedo". Will lo vedremo bene nella lezione 36. Sit è sedersi, stare seduti, sit in the café è "stare al bar". Then (lezione 13) è "allora". Café (lezione 13) si scrive con l'accento, e si dice *kè*fei.
+9. You have to wear a cap there, to‣: there (lezione 10) è "lì", to‣ (lezione 18) è "anche". La battuta: nemmeno il bar è un posto sicuro, perché il bar è dentro la piscina, e le regole sono dappertutto. Rules are rules: "le regole sono regole".
 
 ex1:
 - You must wear a cap here.
@@ -641,45 +641,45 @@ ex2:
 
 == 33 A2
 numeral: Lesson Thirty-Three
-numeral.pron.it: lèsən thööti-thrii
+numeral.pron.it: *le*ssën *θë‣*ti-θri‣
 title: The best in town
 title.it: Il migliore della città
 
 dialogue:
 - Excuse me. Where's the best fish and chips in town?
   it: Scusi. Dov'è il miglior fish and chips (pesce e patatine) della città?
-  pron.it: … best fish … cips … taun
+  pron.it: … best fisc' … cips … taun
 - Probably Harry's. It's the most popular.
   it: Probabilmente da Harry. È il più popolare.
-  pron.it: … hǽriz … moust pòpjulə
+  pron.it: … *hè*riz … moust *po*pyulë
 - Is it far?
   it: È lontano?
 - No, it's in the next street, on the left.
   it: No, è nella strada dopo, a sinistra.
 - Is it the cheapest?
   it: È il più economico?
-  pron.it: … cìipist
+  pron.it: … *ci‣*pist
 - No, it's the most expensive in town.
   it: No, è il più caro della città.
 - Is it better than the others?
   it: È meglio degli altri?
-  pron.it: … bètə … àdhəz
+  pron.it: … *be*të … *a*dhëz
 - Much better. The others are much worse.
   it: Molto meglio. Gli altri sono molto peggio.
-  pron.it: … wöös
+  pron.it: … wë‣s
 - And which is the worst?
   it: E qual è il peggiore?
-  pron.it: … wööst
+  pron.it: … wë‣st
 - That's mine. Come in!
   it: Quello è il mio. Entri!
 
 sounds.it:
-1. La fine -st di best, worst e most si dice con le due consonanti, e senza una vocale dopo: best, non "bèsta", most, non "mòsto". La t si sente appena, con un piccolo soffio. Davanti a una parola che comincia per consonante le due consonanti si legano: the most popular si dice dhə moust pòpjulə.
-2. Worst si dice wööst, con la öö di work (lezione 16): la lingua è al centro della bocca, le labbra non si arrotondano, e la r non si dice. Worse, che non ha la t, si dice wöös. Non si dice "uòrst" e non "uòrse".
-3. Chips si dice cips, con lo stesso suono c' di much (lezione 20): una c dolce, come in cena. Cheapest si dice cìipist: ii lunga di tea (lezione 1), e la voce sulla prima sillaba. Better si dice bètə, con la t sola, senza raddoppio, e la r finale muta.
+1. La fine -st di best, worst e most si dice con le due consonanti, e senza una vocale dopo: best, non "bèsta", most, non "mòsto". La t si sente appena, con un piccolo soffio. Davanti a una parola che comincia per consonante le due consonanti si legano: the most popular si dice dhë moust *po*pyulë.
+2. Worst si dice wë‣st, con la ë‣ di work (lezione 16): la lingua è al centro della bocca, le labbra non si arrotondano, e la r non si dice. Worse, che non ha la t, si dice wë‣s. Non si dice "uòrst" e non "uòrse".
+3. Chips si dice cips, con lo stesso suono c' di much (lezione 20): una c dolce, come in cena. Cheapest si dice *ci‣*pist: i‣ lunga di tea (lezione 1), e la voce sulla prima sillaba. Better si dice *be*të, con la t sola, senza raddoppio, e la r finale muta.
 
 notes.it:
-1. Where's the best fish and chips in town?: best è il superlativo di good (lezione 1): good - better - best, tre forme tutte diverse, mai "gooder" e mai "most good". Il superlativo vuole sempre the, come in italiano ("il migliore"): the best. In town è "in città, del paese": dopo il superlativo si dice in, e non of: the best in town, the most expensive in town, "il migliore della città". Town (parola nuova) è la città, quella dove si vive, non troppo grande.
+1. Where's the best fisc' and chips in town?: best è il superlativo di good (lezione 1): good - better - best, tre forme tutte diverse, mai "gooder" e mai "most good". Il superlativo vuole sempre the, come in italiano ("il migliore"): the best. In town è "in città, del paese": dopo il superlativo si dice in, e non of: the best in town, the most expensive in town, "il migliore della città". Town (parola nuova) è la città, quella dove si vive, non troppo grande.
 2. Fish and chips: è un nome solo, "pesce e patatine", e si dice come un piatto solo. Fish è il pesce, e non cambia mai. Chips, in inglese britannico, sono le patate fritte a bastoncini, e non le patatine in sacchetto: quelle si chiamano crisps. Attenzione: in America le chips sono proprio le crisps.
 3. Probably Harry's. It's the most popular: probably (lezione 15) è "probabilmente". Harry's è Harry's place, "da Harry", un nome seguito da 's, come the chemist's (lezione 10): per un negozio o un ristorante si può non dire il nome della cosa. Most popular è il superlativo di popular, "popolare, famoso": per gli aggettivi lunghi si mette the most davanti, come more nella lezione 30.
 
@@ -724,32 +724,32 @@ ex2:
   it: Quello è mio. Entri!
 
 culture.it:
-Il fish and chips è il piatto che molti associano alla Gran Bretagna: pesce impanato fritto, di solito merluzzo o eglefino, con patate fritte a bastoncini, grosse e calde. Si compra in un negozio che si chiama chip shop, o per i clienti il chippy, e si mangia dalla carta, spesso con le mani, magari al mare. Si condisce con sale e aceto, salt and vinegar, e a volte si aggiungono i mushy peas, un purè di piselli. Il venerdì i chip shop sono pieni: è un'abitudine antica, legata al pesce del venerdì. La domanda che sentirai fare a un cliente al banco è Salt and vinegar?: la risposta, di solito, è Yes, please.
+Il fisc' and chips è il piatto che molti associano alla Gran Bretagna: pesce impanato fritto, di solito merluzzo o eglefino, con patate fritte a bastoncini, grosse e calde. Si compra in un negozio che si chiama chip sciop, o per i clienti il chippy, e si mangia dalla carta, spesso con le mani, magari al mare. Si condisce con sale e aceto, salt and vinegar, e a volte si aggiungono i mushy peas, un purè di piselli. Il venerdì i chip sciop sono pieni: è un'abitudine antica, legata al pesce del venerdì. La domanda che sentirai fare a un cliente al banco è Salt and vinegar?: la risposta, di solito, è Yes, please.
 
 == 34 A2
 numeral: Lesson Thirty-Four
-numeral.pron.it: lèsən thööti-foo
+numeral.pron.it: *le*ssën *θë‣*ti-fo‣
 title: Too small
 title.it: Troppo piccola
 
 dialogue:
 - Good evening, sir. Is everything all right?
   it: Buonasera, signore. Va tutto bene (tutto a posto)?
-  pron.it: … èvrithing … rait
+  pron.it: … *ev*riθing … rait
 - No. The room is too small.
   it: No. La camera è troppo piccola.
-  pron.it: … smool
+  pron.it: … smo‣l
 - I'm very sorry. It's a single room.
   it: Mi dispiace molto. È una camera singola.
 - And the bed isn't big enough.
   it: E il letto non è abbastanza grande.
-  pron.it: … bed … inàf
+  pron.it: … bed … i*naf*
 - I'm sorry, sir. Anything else?
   it: Mi scusi, signore. Altro?
-  pron.it: … ènithing els
+  pron.it: … *e*niθing els
 - Yes. The view is too beautiful.
   it: Sì. La vista è troppo bella.
-  pron.it: … bjùutifəl
+  pron.it: … *byu‣*tifël
 - Too beautiful? Why?
   it: Troppo bella? Perché?
 - I can't sleep. I watch it all night.
@@ -757,26 +757,26 @@ dialogue:
   pron.it: … woc' …
 
 sounds.it:
-1. Beautiful si dice bjùutifəl: la prima sillaba è la ju di you (lezione 1) dopo la b, come "biù", con la voce sulla prima sillaba, poi ti e una fəl debole. Non si dice "bòtiful": la scrittura eau è un solo suono, juu.
-2. Enough si scrive con gh, ma si dice inàf: la gh vale f, come in "fa", e la prima vocale è una i debole. La voce cade sulla seconda sillaba, e la -ough finale ha la a breve di cup (lezione 1). È una delle parole in cui la scrittura inganna: la prima volta bisogna sentirla.
-3. Everything si dice èvrithing e anything ènithing: la voce sulla prima sillaba, e il suono th sordo di thank (lezione 1) in fondo, con la lingua tra i denti, e la ng come in morning (lezione 1). All right si dice ool rait, con la oo lunga di all (lezione 11) e la r che non vibra.
+1. Beautiful si dice *byu‣*tifël: la prima sillaba è la yu di you (lezione 1) dopo la b, come "biù", con la voce sulla prima sillaba, poi ti e una fël debole. Non si dice "bòtiful": la scrittura eau è un solo suono, yu‣.
+2. Enough si scrive con gh, ma si dice i*naf*: la gh vale f, come in "fa", e la prima vocale è una i debole. La voce cade sulla seconda sillaba, e la -ough finale ha la a breve di cup (lezione 1). È una delle parole in cui la scrittura inganna: la prima volta bisogna sentirla.
+3. Everything si dice *ev*riθing e anything *e*niθing: la voce sulla prima sillaba, e il suono th sordo di thank (lezione 1) in fondo, con la lingua tra i denti, e la ng come in morning (lezione 1). All right si dice o‣l rait, con la o‣ lunga di all (lezione 11) e la r che non vibra.
 
 notes.it:
-1. Good evening, sir. Is everything all right?: good evening è "buonasera", si dice quando si arriva o ci si incontra, e non a chi va a letto (per quello c'è good night). Everything è "tutto": every (lezione 16) più thing, e vuole il verbo al singolare: everything is, mai "everything are". All right vuol dire "a posto, in ordine, va bene": Is everything all right? è la domanda che fa il personale di un albergo o di un ristorante. All right è anche "va bene" come risposta: ok (lezione 20) si dice anche così.
-2. The room is too small: too davanti a un aggettivo vuol dire "troppo": too small, "troppo piccola". Lo avevi visto in it was too cold (lezione 23, nota 6), e prima ancora too in fondo alla frase, che vuol dire "anche" (lezione 18): è la stessa parola, e la posizione cambia il senso. Qui è sempre troppo: davanti all'aggettivo. Non si dice "too much small" e non "very too": too small, e basta. Room (lezione 8) è la camera, e anche lo spazio.
+1. Good evening, sir. Is everything all right?: good evening è "buonasera", si dice quando si arriva o ci si incontra, e non a chi va a letto (per quello c'è good night). Everything è "tutto": every (lezione 16) più θing, e vuole il verbo al singolare: everything is, mai "everything are". All right vuol dire "a posto, in ordine, va bene": Is everything all right? è la domanda che fa il personale di un albergo o di un ristorante. All right è anche "va bene" come risposta: ok (lezione 20) si dice anche così.
+2. The room is to‣ small: to‣ davanti a un aggettivo vuol dire "troppo": to‣ small, "troppo piccola". Lo avevi visto in it was to‣ cold (lezione 23, nota 6), e prima ancora to‣ in fondo alla frase, che vuol dire "anche" (lezione 18): è la stessa parola, e la posizione cambia il senso. Qui è sempre troppo: davanti all'aggettivo. Non si dice "to‣ much small" e non "very to‣": to‣ small, e basta. Room (lezione 8) è la camera, e anche lo spazio.
 3. I'm very sorry. It's a single room: sorry (lezione 32) è "mi dispiace", e very (lezione 5) lo rinforza: I'm very sorry, "mi dispiace molto". Single (lezione 6) è "singolo": a single room, "una camera singola", come a single ticket, "un biglietto di sola andata".
-4. The bed isn't big enough: enough vuol dire "abbastanza, a sufficienza", e si mette dopo l'aggettivo: big enough, "abbastanza grande", non "enough big". Con not: isn't big enough è "non è abbastanza grande", cioè "è troppo piccolo". Il senso è lo stesso di too small, ma si dice in modo diverso: troppo piccolo = too small = not big enough. Bed è il letto, e si dice in bed, "a letto", senza the. Big (lezione 3).
+4. The bed isn't big enough: enough vuol dire "abbastanza, a sufficienza", e si mette dopo l'aggettivo: big enough, "abbastanza grande", non "enough big". Con not: isn't big enough è "non è abbastanza grande", cioè "è troppo piccolo". Il senso è lo stesso di to‣ small, ma si dice in modo diverso: troppo piccolo = to‣ small = not big enough. Bed è il letto, e si dice in bed, "a letto", senza the. Big (lezione 3).
 
 | Si dice | Significato | Esempio |
 |---|---|---|
-| too + aggettivo | troppo | The room is too small. |
+| to‣ + aggettivo | troppo | The room is to‣ small. |
 | aggettivo + enough | abbastanza | It's big enough. |
 | not + aggettivo + enough | non abbastanza | The bed isn't big enough. |
-| frase + too | anche | I'm tired too. (lezione 18) |
+| frase + to‣ | anche | I'm tired to‣. (lezione 18) |
 | frase negativa + either | nemmeno | I haven't got a cap either. (lezione 32) |
 
-5. Anything else?: anything è any (lezione 20) più thing: "qualcosa, qualsiasi cosa", e nelle domande si dice Anything else? "altro?". Else (parola nuova) vuol dire "altro, di più": anything else è "qualcos'altro". È la domanda classica di chi serve, in un negozio, in un albergo, al bar. Si usa any, e non some, perché è una domanda (lezione 20).
-6. The view is too beautiful: view (lezione 8) è la vista, il panorama. Beautiful è "bello, bellissimo": si dice di un posto, di una persona, di un giorno. Too beautiful, "troppo bella": l'idea è assurda, e la battuta comincia qui. Di solito too si usa con qualcosa di negativo, troppo caldo, troppo caro, e qui l'ospite si lamenta di una cosa bella.
+5. Anything else?: anything è any (lezione 20) più θing: "qualcosa, qualsiasi cosa", e nelle domande si dice Anything else? "altro?". Else (parola nuova) vuol dire "altro, di più": anything else è "qualcos'altro". È la domanda classica di chi serve, in un negozio, in un albergo, al bar. Si usa any, e non some, perché è una domanda (lezione 20).
+6. The view is to‣ beautiful: view (lezione 8) è la vista, il panorama. Beautiful è "bello, bellissimo": si dice di un posto, di una persona, di un giorno. Too beautiful, "troppo bella": l'idea è assurda, e la battuta comincia qui. Di solito to‣ si usa con qualcosa di negativo, troppo caldo, troppo caro, e qui l'ospite si lamenta di una cosa bella.
 7. I can't sleep. I watch it all night: can't (lezione 11) è "non posso, non riesco": I can't sleep, "non riesco a dormire". Sleep (lezione 16) è dormire, e I watch è il verbo di watched (lezione 22), "guardo": si usa watch per quello che si guarda a lungo, un film, una partita, e qui la vista. All night (lezione 11) è "tutta la notte". La battuta: il letto è piccolo, la camera è piccola, ma il problema vero è il panorama, troppo bello per chiudere gli occhi.
 
 ex1:
@@ -809,7 +809,7 @@ Un terzo del corso è fatto, e domani c'è un altro ripasso: nessuna regola da i
 == 35 A2
 kind: revision
 numeral: Lesson Thirty-Five
-numeral.pron.it: lèsən thööti-faiv
+numeral.pron.it: *le*ssën *θë‣*ti-faiv
 title: Revision
 title.it: Ripasso
 
@@ -858,7 +858,7 @@ dialogue:
   refs: 13 20 30 34
 
 notes.it:
-Un'altra settimana è passata, e ancora nessuna regola da imparare a memoria. Questa lezione rimette in ordine quello che hai visto dalla lezione 29 alla 34: la forma going to, i comparativi e i superlativi, il present perfect, must e have to, too ed enough, e un primo sguardo a will. Se qualcosa ti sembra troppo, passa avanti: tornerà in altre lezioni, un po' più chiaro. Hai già incontrato tutto nel dialogo, ora lo vedi in fila.
+Un'altra settimana è passata, e ancora nessuna regola da imparare a memoria. Questa lezione rimette in ordine quello che hai visto dalla lezione 29 alla 34: la forma going to, i comparativi e i superlativi, il present perfect, must e have to, to‣ ed enough, e un primo sguardo a will. Se qualcosa ti sembra troppo, passa avanti: tornerà in altre lezioni, un po' più chiaro. Hai già incontrato tutto nel dialogo, ora lo vedi in fila.
 
 1. Going to (lezioni 20, 27, 29). Be going to + verbo base dice quello che si ha intenzione di fare, o quello che si vede arrivare. Si fa con am, is o are, poi going to, poi il verbo senza to e senza -s.
 
@@ -870,7 +870,7 @@ Un'altra settimana è passata, e ancora nessuna regola da imparare a memoria. Qu
 | we | we're going to paint | we aren't going to paint | Are we going to paint? |
 | they | they're going to paint | they aren't going to paint | Are they going to paint? |
 
-Risposte brevi: Yes, I am. No, she isn't. Dalle lezioni: What are you going to do on Saturday? (29), Is it going to rain? (27), It's going to be a different pink (29). Con il verbo go, la frase è I'm going to go, e va bene: We are going to go to Scotland. Nel parlato to è debole, gòuing tə, e nelle canzoni vedi anche gonna: è solo la scrittura del parlato, tu scrivi going to. Non confondere I'm going shopping (lezione 20), con going che vuol dire "vado", e I'm going to paint (29), con going to che dice "ho intenzione di". Con le parole del tempo (tomorrow, tonight, on Saturday) la frase dice quando.
+Risposte brevi: Yes, I am. No, she isn't. Dalle lezioni: What are you going to do on Saturday? (29), Is it going to rain? (27), It's going to be a different pink (29). Con il verbo go, la frase è I'm going to go, e va bene: We are going to go to Scotland. Nel parlato to è debole, *gou*ing të, e nelle canzoni vedi anche gonna: è solo la scrittura del parlato, tu scrivi going to. Non confondere I'm going shopping (lezione 20), con going che vuol dire "vado", e I'm going to paint (29), con going to che dice "ho intenzione di". Con le parole del tempo (tomorrow, tonight, on Saturday) la frase dice quando.
 
 2. Comparativi e superlativi (lezioni 24, 27, 30, 33). Il comparativo mette a confronto due cose, il superlativo dice il primo o l'ultimo di un gruppo. Si decide dal numero di sillabe.
 
@@ -931,13 +931,13 @@ L'italiano ha un solo "non devi" per mustn't e per don't have to. Pensa così: s
 
 | Parola | Posizione | Significato | Esempio |
 |---|---|---|---|
-| too | davanti all'aggettivo | troppo | The room is too small. (34) |
-| too | in fondo alla frase | anche | You have to wear a cap there, too. (32) |
+| to‣ | davanti all'aggettivo | troppo | The room is to‣ small. (34) |
+| to‣ | in fondo alla frase | anche | You have to wear a cap there, to‣. (32) |
 | enough | dopo l'aggettivo | abbastanza | The bed is big enough. (34) |
 | not ... enough | dopo l'aggettivo | non abbastanza | The bed isn't big enough. (34) |
 | either | in fondo a una frase negativa | nemmeno | You don't have to swim either. (32) |
 
-Too e either sono due modi di dire "anche": too dopo una frase affermativa, either dopo una negativa. Too small e not big enough dicono la stessa cosa, "troppo piccolo". Mai "too much small": too, e basta.
+Too e either sono due modi di dire "anche": to‣ dopo una frase affermativa, either dopo una negativa. Too small e not big enough dicono la stessa cosa, "troppo piccolo". Mai "to‣ much small": to‣, e basta.
 
 6. Un primo sguardo a will (lezioni 8, 32). I'll è I will, accorciato, e si dice quando si decide una cosa sul momento: I'll take it (lezione 8), Then I'll sit in the café (32), I'll go home (35). Ha la stessa forma per tutte le persone, con 'll dopo il soggetto, e il verbo dopo è senza to.
 

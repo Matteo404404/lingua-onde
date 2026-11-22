@@ -373,9 +373,33 @@ pub fn waves(p: &egui::Painter, rect: egui::Rect, rows: usize, phase: f32, color
     }
 }
 
-/// A small Markdown subset for the pronunciation keys: headings, pipe
-/// tables, bullets and paragraphs (wrapped lines join up); `**` and
-/// backticks are dropped.
+/// Text whose `*...*` parts are bold: the stressed syllable of a figured
+/// pronunciation, printed in bold as in the Assimil books (*sè*tëdei).
+pub fn starred(text: &str, size: f32, color: Color32) -> egui::text::LayoutJob {
+    let mut job = egui::text::LayoutJob::default();
+    for (n, part) in text.split('*').enumerate() {
+        let family = if n % 2 == 1 { bold_family() } else { FontFamily::Proportional };
+        job.append(part, 0.0, egui::TextFormat { font_id: FontId::new(size, family), color, ..Default::default() });
+    }
+    job
+}
+
+/// A label for notes text: `*...*` in bold, wrapping to the width.
+fn note_label(ui: &mut Ui, text: &str, header: bool) {
+    if text.contains('*') && !header {
+        let size = ui.style().text_styles[&TextStyle::Body].size;
+        let mut job = starred(text, size, ui.visuals().text_color());
+        job.wrap.max_width = ui.available_width();
+        ui.add(egui::Label::new(job).wrap());
+    } else {
+        let t = RichText::new(text);
+        ui.add(egui::Label::new(if header { t.family(bold_family()) } else { t }).wrap());
+    }
+}
+
+/// A small Markdown subset for the pronunciation keys and the notes:
+/// headings, pipe tables, bullets and paragraphs (wrapped lines join up);
+/// `**` and backticks are dropped, `*...*` (a stressed syllable) is bold.
 pub fn markdown(ui: &mut Ui, text: &str) {
     enum Block {
         Para(String),
@@ -431,12 +455,8 @@ pub fn markdown(ui: &mut Ui, text: &str) {
         }
         match block {
             Block::Para(p) if p.is_empty() => {}
-            Block::Para(p) => {
-                ui.label(p.as_str());
-            }
-            Block::Bullet(b) => {
-                ui.label(format!("•  {b}"));
-            }
+            Block::Para(p) => note_label(ui, p, false),
+            Block::Bullet(b) => note_label(ui, &format!("•  {b}"), false),
             Block::Table(rows) => {
                 // Columns share the width, so cells wrap instead of widening the page.
                 let cols = rows.iter().map(Vec::len).max().unwrap_or(1).max(1) as f32;
@@ -449,9 +469,7 @@ pub fn markdown(ui: &mut Ui, text: &str) {
                     .show(ui, |ui| {
                         for (r, row) in rows.iter().enumerate() {
                             for cell in row {
-                                let t = RichText::new(cell);
-                                let t = if r == 0 { t.family(bold_family()) } else { t };
-                                ui.add(egui::Label::new(t).wrap());
+                                note_label(ui, cell, r == 0);
                             }
                             ui.end_row();
                         }

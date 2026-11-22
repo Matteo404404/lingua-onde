@@ -623,8 +623,8 @@ impl App {
             ui.label(RichText::new(&item.pron).size(14.0).italics().color(ACCENT));
         }
         if let Some(f) = item.figured(&self.base()) {
-            ui.label(RichText::new(format!("🔈 {f}")).size(14.0).color(FIGURED))
-                .on_hover_text("How it sounds, spelled for your language");
+            ui.label(theme::starred(&format!("🔈 {f}"), 14.0, FIGURED))
+                .on_hover_text("How it sounds, spelled for your language; the stressed syllable is in bold");
         }
     }
 
@@ -827,7 +827,7 @@ impl App {
                 } else {
                     let label = ui.label(muted(&lesson.numeral).size(15.0));
                     let pron = lesson.numeral_pron.get(&base).map(String::as_str).unwrap_or("");
-                    label.on_hover_text(format!("Lesson {} {pron}", lesson.number));
+                    label.on_hover_text(format!("Lesson {} {}", lesson.number, pron.replace('*', "")));
                 }
                 ui.label(bold(&lesson.title).size(21.0));
                 ui.with_layout(egui::Layout::right_to_left(egui::Align::Center), |ui| {
@@ -1532,30 +1532,47 @@ pub(crate) fn notes(ui: &mut egui::Ui, notes: &str) {
         if notes.trim().is_empty() {
             ui.label(muted("This lesson has no notes."));
         }
-        let mut paragraphs: Vec<(Option<usize>, String)> = Vec::new();
+        // (number, text, is a table): a table's rows stay lines of their own.
+        let mut paragraphs: Vec<(Option<usize>, String, bool)> = Vec::new();
         for line in notes.lines() {
             let t = line.trim();
+            if t.starts_with('|') {
+                match paragraphs.last_mut() {
+                    Some((_, p, true)) => {
+                        p.push('\n');
+                        p.push_str(t);
+                    }
+                    _ => paragraphs.push((None, t.to_string(), true)),
+                }
+                continue;
+            }
             let numbered = t
                 .split_once(". ")
                 .filter(|(n, _)| !n.is_empty() && n.chars().all(|c| c.is_ascii_digit()))
                 .map(|(n, rest)| (n.parse().ok(), rest.to_string()));
             match (numbered, paragraphs.last_mut()) {
-                (Some((n, rest)), _) => paragraphs.push((n, rest)),
-                (None, Some((_, p))) if !t.is_empty() && !p.is_empty() => {
+                (Some((n, rest)), _) => paragraphs.push((n, rest, false)),
+                (None, Some((_, p, false))) if !t.is_empty() && !p.is_empty() => {
                     p.push(' ');
                     p.push_str(t);
                 }
-                (None, _) => paragraphs.push((None, t.to_string())),
+                (None, _) => paragraphs.push((None, t.to_string(), false)),
             }
         }
-        for (n, p) in paragraphs.iter().filter(|(_, p)| !p.is_empty()) {
+        for (k, (n, p, table)) in paragraphs.iter().filter(|(_, p, _)| !p.is_empty()).enumerate() {
+            if *table {
+                // Each table keeps its own column widths.
+                ui.push_id(k, |ui| theme::markdown(ui, p));
+                continue;
+            }
             ui.horizontal_top(|ui| {
                 if let Some(n) = n {
                     theme::number(ui, *n, true);
                 }
                 ui.vertical(|ui| {
                     ui.set_width(ui.available_width());
-                    ui.label(RichText::new(p).size(16.0));
+                    let color = ui.visuals().text_color();
+                    ui.add(egui::Label::new(theme::starred(p, 16.0, color)).wrap());
                 });
             });
             ui.add_space(8.0);

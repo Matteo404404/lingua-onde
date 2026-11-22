@@ -99,7 +99,7 @@ name.it: Spagnolo
 title: ¡Hola!
 title.it: Ciao!
 numeral: Lección primera
-numeral.pron.it: lekthión priméra
+numeral.pron.it: lecthióm priméra
 
 dialogue:
 - Hola, Marta. ¿Qué tal?

@@ -33,7 +33,7 @@ macro_rules! files {
 /// Built-in lesson files. Files with the same `course:` and `stage:` lines
 /// add lessons to one course; the first file of a course names it. Courses
 /// appear in this order.
-pub const BUILTIN: &[(&str, &str)] = files!("es", "fr", "de", "nl", "pt", "zh", "la", "vi");
+pub const BUILTIN: &[(&str, &str)] = files!("en", "es", "fr", "de", "nl", "pt", "zh", "la", "vi");
 
 /// The key to a language's figured pronunciation, where one exists.
 const PRONUNCIATION: &[(&str, &str)] = &[
@@ -286,7 +286,7 @@ impl Default for Saved {
     fn default() -> Self {
         Saved {
             base: "it".into(),
-            active_course: "core-es".into(),
+            active_course: "core-en".into(),
             audio_dirs: BTreeMap::new(),
             speed: 1.0,
             pause_factor: 1.3,

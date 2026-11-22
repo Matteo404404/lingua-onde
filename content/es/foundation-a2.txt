@@ -1,5 +1,6 @@
 course: es
 stage: foundation
+bases: it
 
 == 26 A2
 title: Una semana en Madrid

@@ -7,16 +7,18 @@ exercises, a revision lesson every seven, and from lesson 50 an active wave
 that rebuilds earlier lessons from your language. How it works is in
 [METHOD.md](METHOD.md).
 
-Each language has three courses in a row: Foundation (first words to B2,
-100 lessons), Perfectionnement (B2 to C1, 70 lessons) and Mastery (C1 to C2,
-125 lessons). The built-in courses are original lessons written for this app
-(Spanish, French, German, Dutch, Portuguese from Brazil, Mandarin with
-pinyin, Latin with vowel lengths, and Vietnamese). They are being written one
-pair of languages at a time, Spanish for Italian speakers first. So far each
-language except Dutch has 13 sample lessons (lessons 1–8, 26, 51 and 76 of
-Foundation, one lesson each of Perfectionnement and Mastery), with
-translations and notes in Italian, English and Spanish; Dutch has none yet.
-The text has not been checked by a native speaker.
+Each language has three courses in a row: Foundation (first words to B2, 100
+lessons), Perfectionnement (B2 to C1, 70 lessons) and Mastery (C1 to C2, 125
+lessons). The built-in courses are original lessons written for this app
+(English, Spanish, French, German, Dutch, Portuguese from Brazil, Mandarin
+with pinyin, Latin with vowel lengths, and Vietnamese). They are being written
+one pair of languages at a time: English for Italian speakers first, then
+Spanish for Italian speakers (its first week, lessons 1–7, is rewritten for
+them). So far each language except Dutch and English has 13 sample lessons
+(lessons 1–8, 26, 51 and 76 of Foundation, one lesson each of Perfectionnement
+and Mastery), with translations and notes in Italian, English and Spanish;
+Dutch and English have none yet. The text has not been checked by a native
+speaker.
 
 This is private use only. You can build and run it for your own learning.
 You cannot sell it or use it commercially. The full rules are in [LICENSE](LICENSE).
@@ -107,24 +109,27 @@ lesson files against the built-in rules and prints what is missing.
 ## The daily lesson
 
 The full method, course by course, is in [METHOD.md](METHOD.md). In the app,
-an ordinary lesson goes:
+every lesson goes:
 
 1. Listen without the text, repeating each sentence aloud in the pause.
-2. Listen while reading the translation, then the original.
-3. Read the dialogue with the translation (literal sense in brackets) and,
+2. The same, reading the translation in your language.
+3. The same, reading the original.
+4. Read the dialogue with the translation (literal sense in brackets) and,
    in lessons 1–50, the figured pronunciation for your language
    (the guide is under Notes, "Pronunciation guide").
-4. Pronunciation observations, notes and, in some lessons, a cultural note.
-5. Exercise 1: translate. Exercise 2: fill in the missing words (one dot per
-   letter; checked, accents forgiven with a warning).
-6. Read it again with the translation hidden, listen once more without text.
-7. Read and listen to the two previous dialogues.
-8. From lesson 50, the active wave: the lesson 49 places back (50 brings back
-   1), its dialogue and exercise 1 in your language only, to say (and
-   optionally type) in the language you learn, then compare.
+5. Pronunciation observations, notes and, in some lessons, a cultural note.
+6. Exercise 1: translate. Exercise 2: fill in the missing words (one dot per
+   letter; checked, accents forgiven with a warning). Mastery adds open tasks.
+7. Read it again with the translation hidden.
+8. Listen once more without the text, repeating.
+9. Read and listen to the two previous dialogues.
+10. From lesson 50, the active wave: the lesson 49 places back (50 brings
+    back 1), its dialogue and exercise 1 in your language only, to say (and
+    optionally type) in the language you learn, then compare.
 
-Every 7th lesson is a revision lesson: the grammar of the six before in
-order, then a revision dialogue whose lines name the lessons they come from.
+Every 7th lesson is a revision lesson: a revision dialogue whose lines name
+the lessons they come from, studied the same way, with the grammar of the
+six lessons before in order in place of the notes, and no exercises.
 At the end of a lesson you can choose to go over it again the next day.
 Finished dialogues go into a spaced daily sentence review (Review, Daily
 sentences); Review, Search finds any sentence of the language. The active

@@ -1,0 +1,7 @@
+course: en
+stage: foundation
+bases: it
+name: English – Foundation (A1 → B2)
+name.it: Inglese – Fondamenti (A1 → B2)
+name.en: English – Foundation (A1 → B2)
+name.es: Inglés – Fundamentos (A1 → B2)

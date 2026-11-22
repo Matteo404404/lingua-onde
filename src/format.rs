@@ -350,7 +350,8 @@ pub fn builtin_gaps(c: &Course, l: &Lesson) -> Vec<String> {
         let missing = l.dialogue.iter().filter(|it| bases.iter().any(|b| it.figured(b).is_none())).count();
         if missing > 0 {
             out.push(format!(
-                "{at}: gap: {missing} dialogue lines lack pron.it/en/es (figured pronunciation)"
+                "{at}: gap: {missing} dialogue lines lack pron.{} (figured pronunciation)",
+                bases.join("/pron.")
             ));
         }
     }
@@ -512,9 +513,9 @@ mod tests {
     fn builtin_courses_are_valid() {
         let (courses, problems) = crate::store::builtin_courses();
         assert!(problems.is_empty(), "{problems:?}");
-        assert_eq!(courses.len(), 24, "three courses for each of eight languages");
+        assert_eq!(courses.len(), 27, "three courses for each of nine languages");
         let ids: Vec<&str> = courses.iter().take(3).map(|c| c.id.as_str()).collect();
-        assert_eq!(ids, ["core-es", "core-es-perfectionnement", "core-es-mastery"]);
+        assert_eq!(ids, ["core-en", "core-en-perfectionnement", "core-en-mastery"]);
         let problems: Vec<String> = courses
             .iter()
             .flat_map(|c| c.lessons.iter().flat_map(|l| builtin_problems(c, l)))
@@ -576,7 +577,7 @@ mod tests {
         let g = builtin_gaps(&es, l);
         assert_eq!(
             g,
-            ["es lesson 26: gap: 1 dialogue lines lack pron.it/en/es (figured pronunciation)"]
+            ["es lesson 26: gap: 1 dialogue lines lack pron.it/pron.en (figured pronunciation)"]
         );
         l.dialogue[0].figured.insert("en".into(), "OH-lah".into());
         assert!(builtin_gaps(&es, l).is_empty());

@@ -1,0 +1,7 @@
+course: en
+stage: mastery
+bases: it
+name: English – Mastery (C1 → C2)
+name.it: Inglese – Padronanza (C1 → C2)
+name.en: English – Mastery (C1 → C2)
+name.es: Inglés – Maestría (C1 → C2)

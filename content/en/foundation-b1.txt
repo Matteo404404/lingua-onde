@@ -1,0 +1,3 @@
+course: en
+stage: foundation
+bases: it

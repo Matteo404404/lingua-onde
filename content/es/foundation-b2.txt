@@ -1,5 +1,6 @@
 course: es
 stage: foundation
+bases: it
 
 == 76 B2
 title: La junta de vecinos

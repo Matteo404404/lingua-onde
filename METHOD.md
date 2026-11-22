@@ -47,17 +47,20 @@ its files): Spanish is written first for Italian speakers.
 8. **Cultural note** (some lessons): a short paragraph about life, customs or
    history linked to the lesson.
 
-How to study it (one lesson a day, about half an hour):
+How to study it (one lesson a day, about half an hour). Every lesson of the
+three courses goes the same way:
 
-1. Listen to the dialogue without reading: you tune your ear.
-2. Listen again while reading the translation, then the original; repeat
-   each sentence aloud in the pause, imitating the voice.
-3. Read the dialogue aloud with the translation, and the figured pronunciation.
-4. Read the pronunciation observations and the notes. Do not learn by heart.
-5. Do the two exercises and compare with the corrections.
-6. Read the dialogue again with the translation hidden, and listen to it
-   once more without the text.
-7. Reread and listen to the two lessons before.
+1. Listen to the dialogue without any text, repeating each sentence aloud in
+   the pause, imitating the voice.
+2. The same, reading the translation in your language.
+3. The same, reading the original.
+4. Read the dialogue aloud in the original, with the translation and the
+   figured pronunciation.
+5. Read the pronunciation observations and the notes. Do not learn by heart.
+6. Do the two exercises and compare with the corrections.
+7. Read the dialogue once more, the translation hidden.
+8. Listen without the text one last time, repeating each sentence.
+9. Read and listen to the dialogues of the two lessons before.
 
 The early recordings are slow; the pace grows towards natural speed. One
 lesson a day is the rhythm: more is not better. A hard lesson can be gone
@@ -65,14 +68,14 @@ over again the next day ("go over this lesson again tomorrow").
 
 ### The revision lesson (every 7th lesson: 7, 14, 21...)
 
-It brings nothing new. It is studied for as long as a new lesson.
+It brings nothing new. It is studied like any other lesson, with the grammar
+recap in place of the notes and no exercises.
 
-1. **Grammar recap**: numbered sections that put in order the grammar met in
+1. **Revision dialogue**: a new dialogue made only of what the six lessons
+   taught. After each line, the lessons its words come from: "(1, 3)".
+2. **Grammar recap**: numbered sections that put in order the grammar met in
    the six lessons before (with the lessons named), in more depth than the
    daily notes: tables of forms, rules, examples you already know.
-2. **Revision dialogue**: a new dialogue made only of what the six lessons
-   taught. After each line, the lessons its words come from: "(1, 3)". You
-   listen to it and repeat it, then read it with the translation.
 
 ### The active wave (from lesson 50)
 
@@ -108,8 +111,7 @@ already has the basics:
 - **Revision every 7th lesson**: not elementary grammar again, but the
   finer points and how sentences are built, with short practice whose
   answers close the lesson.
-- **The same study routine**, with one more step: read each paragraph aloud,
-  then repeat it without looking until you reproduce it faithfully.
+- **The same study routine** as Foundation.
 - **Active wave**: from lesson 50 the lesson 49 places earlier comes back
   (50 → 1, ... 70 → 21), then the rest one a day after lesson 70: its text
   and exercise 1 from your language into the target language.
@@ -138,6 +140,8 @@ register and effect.
   effect).
 - **Revision every 7th lesson**: style, register and rhetoric of the week in
   order, with a revision text.
+- **The same study routine** as Foundation, with the open tasks after the
+  two exercises.
 - **Mastery wave** (from lesson 50, 49 places back, as before): you read the
   old text in your language and recreate it in the target language: the
   same meaning, tone, register and effect, not word for word. Then you set

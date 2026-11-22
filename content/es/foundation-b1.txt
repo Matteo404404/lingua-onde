@@ -1,5 +1,6 @@
 course: es
 stage: foundation
+bases: it
 
 == 51 B1
 title: ¿Quedarse o irse?

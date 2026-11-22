@@ -9,7 +9,7 @@ use std::time::{Duration, Instant};
 use eframe::egui::{self, Color32, RichText};
 
 use crate::app::{App, Screen};
-use crate::model::{Item, Lesson, Stage, lang_color, lang_name};
+use crate::model::{Item, Lesson, lang_color, lang_name};
 use crate::practice::{Practice, Verdict, compare};
 use crate::store::{Card, Grade, day_key, today};
 use crate::theme::{
@@ -75,7 +75,7 @@ impl Step {
     fn how(self) -> &'static str {
         match self {
             Step::Recap => {
-                "A revision lesson: nothing new. Read how the grammar of the last six lessons fits together, with examples you already know. Then listen to the revision dialogue."
+                "A revision lesson: nothing new. Read how the grammar of the last six lessons fits together, with examples you already know, some from the revision dialogue you just heard."
             }
             Step::BlindListen => {
                 "Don't look at any text. Listen to the whole dialogue and repeat every sentence aloud in the pause, imitating the voice. It's fine not to understand yet: you are tuning your ear."
@@ -205,7 +205,7 @@ impl App {
         };
         let key = self.courses[ci].lesson_key(lesson.number);
         let wave2 = self.wave2_for(ci, li);
-        let mut steps = lesson_steps(&lesson, self.courses[ci].stage);
+        let mut steps = lesson_steps(&lesson);
         if wave2.is_some() {
             steps.push(Step::SecondWave);
         }
@@ -1395,26 +1395,22 @@ impl App {
 /// listen again. A revision lesson is its grammar recap and its revision
 /// dialogue (exercises only if it has them); a Mastery lesson ends with open
 /// tasks; the active wave comes after, from lesson 50.
-fn lesson_steps(lesson: &Lesson, stage: Option<Stage>) -> Vec<Step> {
+fn lesson_steps(lesson: &Lesson) -> Vec<Step> {
     use Step::*;
-    let mut steps = if lesson.revision {
-        vec![Recap, BlindListen, ListenBase, Read, Ex1, Ex2, FinalListen]
-    } else if stage == Some(Stage::Mastery) {
-        vec![BlindListen, ListenTarget, Read, Notes, Ex1, Ex2, FinalListen]
-    } else {
-        vec![
-            BlindListen,
-            ListenBase,
-            ListenTarget,
-            Read,
-            Notes,
-            Ex1,
-            Ex2,
-            ReadAgain,
-            FinalListen,
-            Previous,
-        ]
-    };
+    // Every lesson of every course goes the same way; a revision lesson reads
+    // its grammar recap where the others read their notes.
+    let mut steps = vec![
+        BlindListen,
+        ListenBase,
+        ListenTarget,
+        Read,
+        if lesson.revision { Recap } else { Notes },
+        Ex1,
+        Ex2,
+        ReadAgain,
+        FinalListen,
+        Previous,
+    ];
     if !lesson.tasks.is_empty() {
         let at = steps.iter().position(|s| *s == Ex2).map_or(steps.len(), |i| i + 1);
         steps.insert(at, Tasks);

@@ -177,6 +177,12 @@ impl App {
         partner.or_else(|| self.wave2_due(ci).into_iter().find(|&w| w != li))
     }
 
+    /// A built-in course whose planned lessons are not all written yet.
+    pub fn unwritten(&self, ci: usize) -> bool {
+        let c = &self.courses[ci];
+        c.builtin && c.stage.is_some_and(|st| c.lessons.len() < st.size() as usize)
+    }
+
     /// The built-in courses of a language, in stage order, by index.
     pub fn stages_of(&self, lang: &str) -> Vec<usize> {
         let mut v: Vec<usize> = (0..self.courses.len())
@@ -357,7 +363,11 @@ impl App {
             match self.next_lesson(ci) {
                 Some(li) => self.start_session(ci, li),
                 None => {
-                    self.say("You finished every lesson of this course. Pick another in Courses or add your own.");
+                    self.say(if self.unwritten(ci) {
+                        "You have done every lesson written so far; the rest of this course is still being written. Pick another in Courses meanwhile."
+                    } else {
+                        "You finished every lesson of this course. Pick another in Courses or add your own."
+                    });
                     self.screen = Screen::Courses;
                     return;
                 }
@@ -578,6 +588,15 @@ impl App {
                                 }
                             }
                         });
+                    }
+                    None if self.unwritten(ci) => {
+                        ui.label(bold("Next lessons on the way").size(26.0).color(Color32::WHITE));
+                        ui.label(
+                            RichText::new(
+                                "You have done every lesson written so far; the rest of this course is still being written. Meanwhile, review, or choose another course in Courses.",
+                            )
+                            .color(light),
+                        );
                     }
                     None => {
                         ui.label(bold("🎉 Course complete").size(26.0).color(Color32::WHITE));

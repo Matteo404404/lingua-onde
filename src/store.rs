@@ -37,6 +37,7 @@ pub const BUILTIN: &[(&str, &str)] = files!("en", "es", "fr", "de", "nl", "pt", 
 
 /// The key to a language's figured pronunciation, where one exists.
 const PRONUNCIATION: &[(&str, &str)] = &[
+    ("en", include_str!("../content/en/pronunciation.md")),
     ("es", include_str!("../content/es/pronunciation.md")),
     ("nl", include_str!("../content/nl/pronunciation.md")),
 ];

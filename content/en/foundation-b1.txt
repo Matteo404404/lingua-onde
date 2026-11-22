@@ -225,18 +225,15 @@ dialogue:
   pron.it: … *mi‣*ting
 - He said it was at nine.
   it: Ha detto che era alle nove.
-  pron.it: … sed …
 - He told me it was at ten.
   it: A me ha detto che era alle dieci.
-  pron.it: … tould …
 - What time is it now?
   it: Che ora è adesso?
 - It's half past ten. Where is the boss?
   it: Sono le dieci e mezza. Dov'è il capo?
-  pron.it: … bos
 - At the golf club, I think. He plays golf while we work.
   it: Al circolo del golf, credo. Lui gioca a golf mentre noi lavoriamo.
-  pron.it: … golf klab … pleiz … wail …
+  pron.it: … klab … pleiz … wail …
 - He told me golf is very tiring.
   it: Mi ha detto che il golf è molto faticoso.
   pron.it: … *taië*ring
@@ -1002,7 +999,7 @@ dialogue:
   it: Che cosa hai fatto per tutto questo tempo?
 - Drinking coffee. I've drunk four coffees already.
   it: Ho bevuto caffè. Ne ho già bevuti quattro.
-  pron.it: *drin*king … drank *ko*fiz …
+  pron.it: *drin*king … drank … *ko*fiz …
 - Four! So you've been having a nice time.
   it: Quattro! Quindi ti sei divertito.
   pron.it: … *hè*ving …
@@ -1620,10 +1617,9 @@ dialogue:
   pron.it: … ik*spekt*
 - I wish we'd gone to Spain.
   it: Vorrei che fossimo andati in Spagna.
-  pron.it: … wisc' wi‣d gon …
+  pron.it: … wi‣d gon …
 - I wish we'd won the lottery. We'd be in Spain now.
   it: Vorrei che avessimo vinto alla lotteria. Adesso saremmo in Spagna.
-  pron.it: … wisc' wi‣d …
 - And I wish I'd brought a book.
   it: E vorrei aver portato un libro.
   pron.it: … buk
@@ -1645,7 +1641,6 @@ dialogue:
   it: Con questa pioggia? Se solo smettesse!
 - All right. What do you wish for, then?
   it: Va bene. Che cosa vorresti tu, allora?
-  pron.it: … wisc' …
 - I wish I'd married a man who hates the seaside.
   it: Vorrei aver sposato un uomo che odia il mare.
   pron.it: … *mè*rid … heits … *si‣*ssaid
@@ -1808,25 +1803,22 @@ dialogue:
   pron.it: … *bon*faië … gai fo‣ks …
 - People remember something that happened in sixteen oh five.
   it: Si ricorda qualcosa che successe nel milleseicentocinque.
-  pron.it: … ri*mem*bë *sam*θing … sik*sti‣n* ou …
+  pron.it: … ri*mem*bë *sam*θing … sik*sti‣n* …
 - Some men had put gunpowder in a cellar under Parliament.
   it: Alcuni uomini avevano messo della polvere da sparo in una cantina sotto il Parlamento.
   pron.it: … men … *gan*paudër … *se*lër *an*dë *pa‣*lëmënt
 - But a secret letter had warned the king's men.
   it: Ma una lettera segreta aveva avvertito gli uomini del re.
-  pron.it: … *le*të … wo‣nd … kingz men
+  pron.it: … *le*të … wo‣nd … kingz …
 - A man was found in the cellar with the gunpowder.
   it: Un uomo fu trovato nella cantina con la polvere da sparo.
-  pron.it: … *se*lë … *gan*paudë
 - His name was Guy Fawkes.
   it: Si chiamava Guy Fawkes.
-  pron.it: … gai fo‣ks
 - The plot failed, and the king was safe.
   it: Il complotto fallì, e il re fu salvo.
-  pron.it: … plot feild … seif
+  pron.it: … plot feild … king … seif
 - That night people made bonfires, and they still do.
   it: Quella notte la gente fece dei falò, e lo fa ancora.
-  pron.it: … *bon*faiëz …
 - Today bonfires are lit in gardens, with a "guy" on top.
   it: Oggi i falò si accendono nei giardini, con un "guy" (un pupazzo) in cima.
   pron.it: të*dei* … lit … *ga‣*dënz … top
@@ -1835,7 +1827,7 @@ dialogue:
   pron.it: … stèndz …
 - An old rhyme says: "Remember, remember the fifth of November".
   it: Una vecchia filastrocca dice: "Ricordate, ricordate il cinque novembre".
-  pron.it: … raim … ri*mem*bë …
+  pron.it: … raim …
 - Fawkes failed, but nobody forgets him: he gets a party every year.
   it: Fawkes fallì, ma nessuno lo dimentica: ogni anno ha la sua festa.
   pron.it: … fë*ghets* … ghets … *pa‣*ti …
@@ -2003,3 +1995,487 @@ Con le virgole il relativo c'è sempre, e that non si usa: my sister, who..., ma
 Lent, brought, won, lit e found hanno passato e participio uguali. Go, steal e forget hanno tre forme diverse: per ora basta riconoscerle.
 
 Must, wish, so e neither cominciano a funzionare. Il resto lo fa il tempo.
+
+== 71 B1
+numeral: Lesson Seventy-One
+numeral.pron.it: *le*ssën *se*vënti-wan
+title: A haircut
+title.it: Un taglio di capelli
+
+dialogue:
+- Good morning! I'd like to have my hair cut, please.
+  it: Buongiorno! Vorrei farmi tagliare i capelli, per favore.
+  pron.it: … kat …
+- Of course. How would you like it?
+  it: Certo. Come li vuole?
+- Shorter at the back, but not too short on top.
+  it: Più corti dietro, ma non troppo corti sopra.
+  pron.it: *scio‣*tër … scio‣t …
+- Would you like it washed first?
+  it: Li vuole lavati prima?
+- No, thank you. I washed it myself this morning.
+  it: No, grazie. Li ho lavati io stesso stamattina.
+  pron.it: … mai*sself* …
+- Are you going somewhere nice today?
+  it: Va in qualche bel posto oggi?
+  pron.it: … *sam*weë …
+- No. I'm having my photo taken for my new job.
+  it: No. Mi faccio fare una foto per il mio nuovo lavoro.
+  pron.it: … nyu‣ …
+- Good luck! Do you often go to a hairdresser's?
+  it: In bocca al lupo! Va spesso dal parrucchiere?
+  pron.it: … lak … *o*fën … *heë*dressëz
+- Not often. How much is a haircut here?
+  it: Non spesso. Quanto costa un taglio qui?
+  pron.it: … *heë*kat …
+- Twenty pounds. Did you have it done here last time?
+  it: Venti sterline. Se li è fatti tagliare qui l'ultima volta?
+- No, I did it myself.
+  it: No, li ho tagliati io.
+- I can see that. Thirty pounds, then.
+  it: Si vede. Allora trenta sterline.
+- Thirty? For a haircut?
+  it: Trenta? Per un taglio di capelli?
+
+sounds.it:
+1. Cut si dice kat e luck si dice lak, con la a breve di cup (lezione 1): non la u di put (lezione 47), che è put. Cut e cup hanno la stessa vocale. Washed si dice wosc't, con la o breve di not (lezione 6), sc' come in fish (lezione 33) e una t finale: la a si scrive ma si dice o, e -ed dopo sc' è una t, non una sillaba in più.
+2. Myself si dice mai*sself*, con la voce sulla seconda parte: il dittongo ai di my (lezione 12), poi self. La ss è la s sorda tra due vocali, come in seaside (lezione 67), *si‣*ssaid: una s sola si leggerebbe come in rosa. La l si sente, e la f è quella di for (lezione 8).
+3. Often si dice *o*fën, con la voce sulla prima sillaba e la o breve di not (lezione 6): la t centrale non si sente, e il suono finale è una ë debole e una n. Somewhere è *sam*weë, con la a breve di cup e il suono eë di where (lezione 26), e hairdresser's è *heë*dressëz, con eë come in hair (lezione 26).
+
+notes.it:
+1. Good morning! I'd like to have my hair cut, please: questa è la lezione di have something done, "far fare qualcosa a qualcuno". I'd like (I'd, lezione 25; like, lezione 5) è "vorrei", e to have my hair cut (have, lezione 8; hair, lezione 26) è "farmi tagliare i capelli": have, poi la cosa, poi il participio passato. Cut (parola nuova) è "tagliare", e anche il participio: cut - cut - cut, come put - put - put (put, lezione 47). L'italiano dice "mi faccio tagliare", con un verbo all'infinito; l'inglese mette la cosa subito dopo have e il participio in fondo, e non dice chi la fa.
+
+| Che cosa dice | Esempio | In italiano |
+|---|---|---|
+| have + cosa + participio | I'd like to have my hair cut. | farmi tagliare i capelli |
+| presente continuo | I'm having my photo taken. | mi faccio fare una foto |
+| passato | Did you have it done here? | se l'è fatto fare qui |
+
+Non si dice "I cut my hair" per un taglio dal parrucchiere: I cut my hair vuol dire che l'ho tagliato io, e I have my hair cut che l'ha tagliato un altro. Hair (lezione 26) è al singolare e non si conta, come nella lezione 46, long hair: my hair is long, mai "hairs".
+2. Of course. How would you like it?: of course (course, lezione 27) è "certo, naturalmente". How would you like it? (how, lezione 3; would you like, lezione 25) è "come lo vuole?", e it è hair, che in inglese è singolare: in italiano i capelli sono plurali, e si dice "come li vuole?".
+3. Shorter at the back, but not too short on top: short (parola nuova) è "corto", e shorter (parola nuova) è "più corto", con -er come in smaller (lezione 30) e bigger (lezione 24): un aggettivo corto aggiunge -er. Short vale anche "basso" di statura, e "breve", un short time. Back (lezione 17) qui è "dietro", la parte di dietro: at the back, "dietro". Top (lezione 69) è "cima, parte alta": on top, "sopra". Too (lezione 18) davanti a un aggettivo è "troppo": not too short, "non troppo corto".
+4. Would you like it washed first?: would you like it washed? segue lo stesso schema, con il participio washed (washed, lezione 22): "li vuole lavati?", ovvero "vuole farli lavare?". First (lezione 22) qui è "prima", all'inizio.
+5. No, thank you. I washed it myself this morning: thank you (thank, lezione 1) è "no, grazie". Myself (parola nuova) è "io stesso, da solo": I washed it myself dice che l'ho fatto io e non un altro. I pronomi che finiscono in -self sono questi: myself, yourself, himself, herself, itself (singolare); ourselves, yourselves, themselves (plurale). Si formano con my, your, our (lezione 12, lezione 9 e lezione 64), e con him, her, them (lezione 38, lezione 9, lezione 18): di qui himself e herself, non "hisself". Yourself, himself, herself, itself, ourselves, yourselves e themselves sono parole nuove, come myself. Per i gesti di tutti i giorni, a differenza dell'italiano "mi lavo", in inglese il pronome si toglie: I wash, e quasi mai "I wash myself". This morning (this, lezione 12; morning, lezione 1) è "stamattina", senza preposizione.
+6. Are you going somewhere nice today?: going (lezione 20) è il present continuous (lezione 15), qui "va". Somewhere (parola nuova) è "da qualche parte, in qualche posto": come someone (lezione 36) e something (lezione 69), con some (lezione 20). Nel negativo e nelle domande si usa anywhere (lezione 55), e il contrario è nowhere (lezione 55), "da nessuna parte". L'aggettivo sta dopo: somewhere nice, "in qualche bel posto", come something nice. Nice (lezione 2) è "bello, piacevole".
+7. No. I'm having my photo taken for my new job: I'm having è have something done al present continuous (having, lezione 61): "mi faccio fare", cioè "tra poco un fotografo mi fa una foto". Photo (lezione 46) e taken (lezione 62; il passato took lo vediamo nella lezione 74) è il participio di take: take - took - taken. Con have lo schema è lo stesso, e il verbo have si può usare in tutti i tempi: I have, I'm having, I had. New (parola nuova) è "nuovo": my new job, "il mio nuovo lavoro", con new prima del nome; job (lezione 9) è "lavoro, impiego". For (lezione 8) qui è "per": for my new job.
+8. Good luck! Do you often go to a hairdresser's?: luck (parola nuova) è "fortuna": good luck!, "buona fortuna, in bocca al lupo". Si risponde thank you (lezione 1), e non c'è un "crepi": è solo un augurio. Often (parola nuova) è "spesso", e sta prima del verbo, dopo be: do you often go, I'm often late (late, lezione 48), come always (lezione 9) e never (lezione 16). Hairdresser's (parola nuova) è "dal parrucchiere": hairdresser è chi si occupa dei capelli, da hair (lezione 26) e dresser, da dress (parola nuova), che vuol dire "vestire" e, per i capelli, "acconciare". 's senza nome dopo è "il negozio di", come chemist's (lezione 10): go to the hairdresser's, "andare dal parrucchiere".
+9. Not often. How much is a haircut here?: haircut (parola nuova) è "taglio di capelli", da hair e cut: a haircut. Si dice have a haircut, "farsi un taglio", e I need a haircut, "ho bisogno di un taglio". How much (much, lezione 20) è "quanto" per un prezzo: how much is it?, e here (lezione 1) è "qui".
+10. Twenty pounds. Did you have it done here last time?: twenty (lezione 39) e pounds (lezione 6) li conosci. Did you have it done? è la domanda al passato: did, poi have, poi la cosa, poi il participio. Done (lezione 37) è il participio di do, e qui prende il posto di "tagliato": it done, "fatto", perché si è già detto di che cosa si parla. Last time (last, lezione 11; time, lezione 13) è "l'ultima volta", senza preposizione.
+11. No, I did it myself: did it myself (did, lezione 22) è "l'ho fatto io": il contrario di have it done. Con myself si sente la differenza, che è anche il senso della lezione: I did it myself, "l'ho fatto da solo", oppure I had it done, "me l'hanno fatto".
+12. I can see that. Thirty pounds, then: can see (can, lezione 11; see, lezione 23) è "si vede, vedo": con see e altri verbi dei sensi l'inglese usa can, e dice I can see, "vedo", più spesso del semplice I see. Thirty (lezione 38) è "trenta", e then (lezione 13) qui è "allora, in questo caso". La battuta è questa: I can see that vuol dire che il taglio fatto da sé si vede, e non è un bel complimento. Per questo il parrucchiere aggiunge: allora trenta sterline, dieci in più, perché dovrà rimediare a un taglio fatto in casa.
+13. Thirty? For a haircut?: la domanda ripete il prezzo con sorpresa, come Forty-two pounds? nella lezione 6. Nessuna risposta: il cliente ha fatto da solo, e ora paga di più per averlo fatto.
+
+ex1:
+- I'm having my hair cut.
+  it: Mi sto facendo tagliare i capelli.
+- Shorter at the back, please.
+  it: Più corti dietro, per favore.
+- I did it myself.
+  it: L'ho fatto io stesso.
+- Do you often have your hair cut?
+  it: Ti fai tagliare spesso i capelli?
+- How much is a haircut?
+  it: Quanto costa un taglio di capelli?
+
+ex2:
+- I'd like to have my hair [cut].
+  it: Vorrei farmi tagliare i capelli.
+- I'm [having] my photo [taken].
+  it: Mi faccio fare una foto.
+- No, I [did] it [myself].
+  it: No, l'ho fatto io stesso.
+- Do you [often] go to a hairdresser's?
+  it: Va spesso dal parrucchiere?
+- How [much] is a haircut here?
+  it: Quanto costa qui un taglio di capelli?
+
+== 72 B1
+numeral: Lesson Seventy-Two
+numeral.pron.it: *le*ssën *se*vënti-tu‣
+title: Unless you hurry
+title.it: Se non ti sbrighi
+
+dialogue:
+- Unless you hurry, you'll miss the bus.
+  it: Se non ti sbrighi, perdi l'autobus.
+  pron.it: an*les* … *ha*ri … mis …
+- It's only ten past seven.
+  it: Sono solo le sette e dieci.
+- The bus goes at twenty past. If you're late, it doesn't wait.
+  it: L'autobus parte alle sette e venti. Se sei in ritardo, non aspetta.
+  pron.it: … gouz …
+- Mum, can I go out tonight?
+  it: Mamma, posso uscire stasera?
+  pron.it: mam …
+- As long as you're back by ten, yes.
+  it: Purché tu sia a casa per le dieci, sì.
+  pron.it: ëz …
+- Ten? Everyone stays out until twelve.
+  it: Le dieci? Tutti restano fuori fino a mezzanotte.
+  pron.it: … steiz …
+- Ten, not twelve. And take a key, in case I'm asleep.
+  it: Le dieci, non le dodici. E prendi una chiave, caso mai io dorma.
+  pron.it: … ki‣ … keis …
+- Asleep at ten? You're never asleep before twelve.
+  it: Addormentata alle dieci? Non dormi mai prima di mezzanotte.
+- Don't talk. Hurry! What are you doing in the kitchen?
+  it: Non parlare. Sbrigati! Che cosa fai in cucina?
+  pron.it: … to‣k …
+- I'm heating water. If you heat water, it boils.
+  it: Sto scaldando l'acqua. Se si scalda l'acqua, bolle.
+  pron.it: … *hi‣*ting *wo‣*të … hi‣t … boilz
+- I know it boils. Are you making tea?
+  it: Lo so che bolle. Stai facendo il tè?
+  pron.it: … *mei*king …
+- No. I'm not making tea. I'm making excuses.
+  it: No. Non sto facendo il tè. Sto facendo scuse.
+  pron.it: … ek*skyu‣*ssiz
+
+sounds.it:
+1. Hurry si dice *ha*ri, con la voce sulla prima sillaba e la a breve di cup (lezione 1): non "hùrri", e la u scritta non è quella di put (lezione 47). Mum si dice mam, con la stessa a breve, e unless è an*les*, con la voce sulla seconda sillaba e la e di bed (lezione 34).
+2. Heat si dice hi‣t e heating *hi‣*ting, con la i‣ lunga di see (lezione 23) e la h che si sente. Water è *wo‣*të, con la o‣ lunga di all (lezione 11) e la ë debole in fondo: la r si sente solo davanti a una vocale, water is è *wo‣*tër iz. Boils si dice boilz, con il dittongo oi, una sola sillaba, e la z finale.
+3. Goes si dice gouz, con il dittongo ou di go (lezione 6) e la z finale: non fa rima con does, che è daz (lezione 9). Key è ki‣, con la i‣ lunga di see, come in keys (lezione 64), e case è keis, con il dittongo ei di day (lezione 16): la c davanti ad a è k. Excuse come nome, excuses, ha la s sorda, ek*skyu‣*ssiz; il verbo di excuse me (lezione 4) ha la z, ik*skyu‣z* mi‣.
+
+notes.it:
+1. Unless you hurry, you'll miss the bus: unless (parola nuova) vuol dire "a meno che" e quasi sempre "se non": unless you hurry è if you don't hurry, "se non ti sbrighi". Dopo unless il verbo è positivo e al presente, perché unless ha già la negazione: mai "unless you don't hurry". E come dopo if (lezione 44) non si usa will: you'll miss (you'll, lezione 44) è la conseguenza, e unless you hurry è la condizione, al presente. Hurry (parola nuova) è "sbrigarsi, far presto", e da solo, hurry!, è "sbrigati!". Miss (missed, lezione 26) qui è "perdere" un autobus o un treno: miss the bus. Per perdere un oggetto si dice lose (lost, lezione 24), e miss vuol dire anche "sentire la mancanza di".
+2. It's only ten past seven: only (lezione 10) è "solo", e ten past seven (ten, lezione 13; past, lezione 13; seven, lezione 64) è "le sette e dieci", come half past eight (lezione 13).
+3. The bus goes at twenty past. If you're late, it doesn't wait: goes (parola nuova) è la forma di go (lezione 6) con -s per he, she, it: the bus goes, "l'autobus parte, va". Twenty (lezione 39) past, "le sette e venti". If you're late, it doesn't wait è una frase vera sempre: se sei in ritardo, l'autobus non aspetta, ogni giorno. Se la condizione è una regola o un fatto, l'inglese usa il presente nelle due parti: if + presente, presente. Si chiama zero conditional. Late (lezione 48) è "in ritardo", doesn't (lezione 9) è does not, e wait (lezione 61) è "aspettare".
+
+| Tipo | Frase | Che cosa dice |
+|---|---|---|
+| zero | If you're late, it doesn't wait. | sempre vero |
+| primo (lezione 44) | If it rains, we'll stay at home. | possibile, in futuro |
+| secondo (lezione 54) | If I were rich, I'd buy a pink car. | irreale, adesso |
+
+4. Mum, can I go out tonight?: mum (parola nuova) è "mamma", come si dice in Gran Bretagna: negli Stati Uniti si dice mom (parola nuova). Mother (lezione 36) è più formale, e Dad (lezione 47) è "papà". Can I (can, lezione 11) chiede il permesso, "posso?". Go out (go, lezione 6; out, lezione 18) è "uscire", e tonight (lezione 8) è "stasera, stanotte".
+5. As long as you're back by ten, yes: as long as (as, parola nuova; long, lezione 15) è "purché, a condizione che". Dopo as long as il verbo è al presente, anche se si parla del futuro: mai "as long as you will be back". Back (lezione 17) qui è "di ritorno, tornato": be back, "essere di ritorno". By (lezione 52) con un'ora vuol dire "entro": by ten, "entro le dieci", cioè alle dieci o prima. Until (lezione 39) dice invece "fino a": stay until ten, "resta fino alle dieci". Unless è "se non", as long as è "purché": due condizioni, tutte e due al presente.
+6. Ten? Everyone stays out until twelve: everyone (lezione 55) vuole il verbo al singolare, con la -s: stays (stays, parola nuova, da stay, lezione 36). Stay out è "restare fuori", e fuori casa. Until (lezione 39) è "fino a", e twelve (lezione 44), detto di notte, è "mezzanotte".
+7. Ten, not twelve. And take a key, in case I'm asleep: take (lezione 8) è "prendi", e key (parola nuova; keys, lezione 64) è "chiave". In case (case, parola nuova) vuol dire "caso mai, nel caso che": prendi la chiave adesso, perché forse io dormirò. Non è if: take a key if I'm asleep vorrebbe dire che la chiave si prende solo quando la madre dorme. Ecco la differenza: Take an umbrella in case it rains, "prendi l'ombrello caso mai piova", lo si prende prima, per sicurezza, e Take an umbrella if it rains, "se piove, prendi l'ombrello", solo quando piove (umbrella, lezione 12; rains, lezione 44). Anche dopo in case il verbo è al presente: mai "in case it will rain". Asleep (lezione 44) è "addormentata, che dorme".
+8. Asleep at ten? You're never asleep before twelve: never (lezione 16) sta dopo be: you're never asleep, "non sei mai addormentata". Before (lezione 16) è "prima di": before twelve, "prima di mezzanotte". Asleep descrive lo stato, "dormire, essere addormentata", e dopo be si usa asleep, non sleep (lezione 16): I'm asleep, I sleep late.
+9. Don't talk. Hurry! What are you doing in the kitchen?: don't (lezione 5) davanti a un verbo è un ordine negativo, "non parlare". Talk (parola nuova) è "parlare, chiacchierare", e si usa per una conversazione; speak (speaking, lezione 51) è più formale, e si usa per le lingue. What are you doing? (doing, lezione 15) è il present continuous, "che cosa stai facendo?". Kitchen (lezione 15) è "cucina", e in the kitchen vuole il the.
+10. I'm heating water. If you heat water, it boils: heating (parola nuova) è la forma in -ing di heat (parola nuova), "scaldare": I'm heating è il present continuous, "sto scaldando". Heat è anche un nome, "calore". Water (parola nuova) è "acqua", e non si conta: some water, a glass of water, "un bicchiere d'acqua"; al bar però si sente anche a water. Boils (parola nuova) è "bolle", da boil, "bollire", con la -s di it. If you heat water, it boils è ancora la zero conditional: se si scalda l'acqua, bolle, sempre; non si dice "it will boil", perché è una legge e non una previsione.
+11. I know it boils. Are you making tea?: know (lezione 15) è "so", I know it boils, "lo so che bolle". Making (parola nuova) è la forma in -ing di make (lezione 29): present continuous, "stai facendo". Make tea (tea, lezione 1) è "preparare il tè", con make per cibi e bevande, come make dinner (lezione 60) e make sandwiches (sandwiches, lezione 15).
+12. No. I'm not making tea. I'm making excuses: excuses (parola nuova) è il plurale di excuse, "scusa, pretesto". In Excuse me (lezione 4) excuse è invece un verbo, "scusare". Con la scusa si usa make: make an excuse, "inventare una scusa", mai "do an excuse". La battuta è questa: la madre pensa che il figlio perda tempo a fare il tè, e lui risponde con il verbo di prima, making, ma con un altro oggetto: non fa il tè, fa scuse. Il figlio ammette con franchezza che sta solo prendendo tempo: l'acqua che bolle era già una scusa, e la risposta onesta è un'altra scusa.
+
+ex1:
+- Unless you hurry, you'll miss the bus.
+  it: Se non ti sbrighi, perdi l'autobus.
+- Can I go out tonight?
+  it: Posso uscire stasera?
+- If you heat water, it boils.
+  it: Se si scalda l'acqua, bolle.
+- Take a key in case I'm asleep.
+  it: Prendi una chiave, caso mai io dorma.
+- I'm not making tea. I'm making excuses.
+  it: Non sto facendo il tè. Sto facendo scuse.
+
+ex2:
+- [Unless] you hurry, you'll miss the bus.
+  it: Se non ti sbrighi, perdi l'autobus.
+- As [long] [as] you're back by ten, yes.
+  it: Purché tu sia a casa per le dieci, sì.
+- Take a key [in] [case] I'm asleep.
+  it: Prendi una chiave, caso mai io dorma.
+- If you heat water, it [boils].
+  it: Se si scalda l'acqua, bolle.
+- Ten? Everyone stays out [until] twelve.
+  it: Le dieci? Tutti restano fuori fino a mezzanotte.
+
+== 73 B1
+numeral: Lesson Seventy-Three
+numeral.pron.it: *le*ssën *se*vënti-θri‣
+title: Get
+title.it: Get
+
+dialogue:
+- Is it time to get up already?
+  it: È già ora di alzarsi?
+- Yes! Sue is getting married at eleven.
+  it: Sì! Sue si sposa alle undici.
+  pron.it: … *ghe*ting … i*le*vën
+- I'm up! I'm just getting dressed.
+  it: Sono in piedi! Mi sto solo vestendo.
+  pron.it: … drest
+- Then hurry. We get the bus in ten minutes.
+  it: Allora sbrigati. Prendiamo l'autobus tra dieci minuti.
+- Why don't we get a taxi?
+  it: Perché non prendiamo un taxi?
+- Because taxis are expensive. And you get lost.
+  it: Perché i taxi costano troppo. E tu ti perdi.
+  pron.it: … *tèk*siz …
+- I never get lost!
+  it: Io non mi perdo mai!
+- Last year you got lost in our own street.
+  it: L'anno scorso ti sei perso nella nostra stessa strada.
+- That was a different street.
+  it: Era un'altra strada.
+- Twenty years ago you got lost on the way to our wedding.
+  it: Vent'anni fa ti sei perso mentre andavi al nostro matrimonio.
+  pron.it: … wei … *we*ding
+- But I got there. And we got married.
+  it: Ma sono arrivato. E ci siamo sposati.
+- You were an hour late. I waited at the church door.
+  it: Eri un'ora in ritardo. Ti ho aspettato alla porta della chiesa.
+  pron.it: … *wei*tid … cë‣c' …
+- That was twenty years ago. We're getting old, dear.
+  it: Sono passati vent'anni. Stiamo invecchiando, cara.
+- You're getting on my nerves.
+  it: Mi stai dando ai nervi.
+  pron.it: … në‣vz
+
+sounds.it:
+1. Get si dice ghet e getting *ghe*ting, con la g dura (gh davanti a e) e la e di bed (lezione 34): non "giet". Got è got, con la o breve di not (lezione 6). Dressed si dice drest: -ed dopo una s sorda è una t, come in washed (lezione 22), wosc't, e non una sillaba in più.
+2. Church si dice cë‣c', con la ë‣ lunga di work (lezione 16) e c' come in much (lezione 20): le due c sono due suoni dolci uguali, e la r non si sente. Nerves è në‣vz, con la stessa ë‣, e were è wë‣ (lezione 19): la ë‣ si scrive in modi diversi: ur in church, er in nerves, ere in were.
+3. Wedding si dice *we*ding, con la voce sulla prima sillaba, la e di bed e una d sola: non "uèddin". Waited è *wei*tid, con il dittongo ei di day (lezione 16) e -ed dopo t, che è una sillaba in più, id: *wei*tid. Way è wei, con lo stesso dittongo ei. Eleven è i*le*vën, con la voce sulla seconda sillaba.
+
+notes.it:
+1. Is it time to get up already?: questa è la lezione di get, il verbo con più sensi dell'inglese: il senso cambia con la parola che segue. Get up (get, lezione 16; up, lezione 16) è "alzarsi", dal letto. Time (lezione 13) qui è "ora": time to get up, "ora di alzarsi". Already (lezione 25) è "già". Il passato di get è got (lezione 8): get - got - got, nell'inglese britannico; l'inglese americano dice gotten.
+
+| Get + | Senso | Esempio |
+|---|---|---|
+| up, out | muoversi, alzarsi | Is it time to get up? |
+| un nome | prendere, trovare | We get the bus. Why don't we get a taxi? |
+| there, home | arrivare | I got there. |
+| un participio | un'azione che cambia le cose | We got married. You got lost. |
+| un aggettivo | diventare | We're getting old. |
+| on, off | salire, scendere; andare d'accordo | You're getting on my nerves. |
+
+Non vanno imparati a memoria: li ritroverai uno per uno nelle prossime lezioni.
+2. Yes! Sue is getting married at eleven: Sue (lezione 18) è un nome di donna. Getting (parola nuova) è la forma in -ing di get, qui nel present continuous (lezione 15) per una cosa già decisa: "si sposa alle undici". Get married (married, lezione 67) è "sposarsi": get più il participio dice che una cosa succede, e cambia lo stato di chi la fa. Il verbo marry (married, lezione 67), "sposare", vuole un complemento: marry a man; get married no: Sue is getting married, e al passato we got married, "ci siamo sposati", senza altro. Eleven (parola nuova) è "undici", come twelve (lezione 44) e ten (lezione 13).
+3. I'm up! I'm just getting dressed: up (lezione 16) qui è "in piedi, alzato": I'm up. Just (lezione 37) è "solo, proprio adesso". Getting dressed: dressed (parola nuova) è il participio di dress, "vestire", e get dressed è "vestirsi". Per i gesti di tutti i giorni l'inglese di solito non usa il pronome riflessivo: I get dressed, I wash, "mi vesto, mi lavo".
+4. Then hurry. We get the bus in ten minutes: then (lezione 13) qui è "allora", e hurry (lezione 72) è "sbrigati". Get the bus (get, lezione 16; bus, lezione 24) è "prendere l'autobus": nel parlato get e take (take, lezione 8) si usano tutti e due, e si può dire anche get a taxi (taxi, lezione 62). In ten minutes (in, lezione 5; ten, lezione 13; minutes, lezione 4) è "tra dieci minuti": con in e un tempo si indica quando succederà.
+5. Why don't we get a taxi?: why don't we (why, lezione 9; don't, lezione 5) più il verbo base è un invito, "perché non?", come let's (lezione 13) e shall we (lezione 36). Get a taxi (taxi, lezione 62) è "prendere un taxi", cioè trovarlo e salirci: in strada si fa un cenno, si dice get a taxi.
+6. Because taxis are expensive. And you get lost: because (lezione 50) è "perché" in una risposta, e taxis (parola nuova) è il plurale di taxi, con -s. Expensive (lezione 5) è "caro, costoso". Get lost (lost, lezione 24) è "perdersi": get più participio, come get married. You get lost, al presente, dice un'abitudine: "ti perdi (sempre)". Attenzione: Get lost! detto come ordine vuol dire "sparisci", ed è scortese.
+7. I never get lost!: never (lezione 16) sta prima del verbo, come in I never get lost, "non mi perdo mai". La negazione è una sola, never: mai "I don't never", come nella lezione 55.
+8. Last year you got lost in our own street: last year (last, lezione 11; year, lezione 19) è "l'anno scorso", senza preposizione. Got (lezione 8) è il passato di get, got lost, "ti sei perso". Our (lezione 64) own (lezione 58) è "nostro, proprio": our own street, "la nostra stessa strada", cioè quella dove abitano. Street (lezione 10) è "strada, via". La battuta comincia qui: lui si perde nella strada di casa.
+9. That was a different street: that (lezione 26) was (lezione 23) è "era", e different (lezione 29) è "diverso, un'altra": a different street. È la scusa di chi si difende: non si è perso in quella strada, ma in un'altra.
+10. Twenty years ago you got lost on the way to our wedding: twenty years ago (twenty, lezione 39; years, lezione 26; ago, lezione 26) è "vent'anni fa", con ago dopo il tempo. Way (parola nuova) è "strada, percorso": on the way to è "andando a, mentre andavi a", e the way to the station è la strada per arrivare. Street è una strada con le case, way è il tragitto. Wedding (parola nuova) è il matrimonio come cerimonia, il giorno delle nozze; il matrimonio come stato, il vivere insieme, si dice marriage (parola nuova): a wedding dress, our marriage.
+11. But I got there. And we got married: but (lezione 5) è "ma", e got there (there, lezione 10) è "sono arrivato, sono riuscito ad arrivare": get con there o here (lezione 1) è "arrivare". Se c'è un luogo, si aggiunge to: get to the church, e con home no: get home, "arrivare a casa" (home, lezione 22). Got married è lo stesso get del participio: we got married, "ci siamo sposati", senza altre parole.
+12. You were an hour late. I waited at the church door: were (lezione 19) è "eri", e an hour (hour, lezione 61) è "un'ora": hour si dice *au*ë, con la h muta, e per questo si dice an hour e non "a hour". Late (lezione 48) dopo be: an hour late, "un'ora in ritardo". Waited (parola nuova, da wait, lezione 61) è "aspettai, ho aspettato", con -ed. Church (parola nuova) è la chiesa, e church door (door, lezione 36) è "la porta della chiesa": il primo nome descrive il secondo, senza of, come in birthday party (birthday, lezione 19; party, lezione 69).
+13. That was twenty years ago. We're getting old, dear: getting old (old, lezione 19) è "invecchiare, diventare vecchi": get più un aggettivo dice un cambiamento. Altri esempi: get cold (cold, lezione 13), "diventare freddo", e get tired (tired, lezione 3), "stancarsi". Con il present continuous, we're getting old, dice un cambiamento in corso: "stiamo invecchiando". Dear (lezione 3) è "cara".
+14. You're getting on my nerves: nerves (parola nuova) è "nervi", e get on someone's nerves è "dare ai nervi, irritare": non va tradotto parola per parola ("salire sui nervi"). Get on da solo è "salire" su un mezzo, get on the bus, e il contrario è get off. La battuta è questa: il marito dice con dolcezza we're getting old, "stiamo invecchiando", e la moglie risponde con un altro get, nel senso peggiore: you're getting on my nerves. Lui aveva ricordato i vent'anni di matrimonio, e lei, che aspettava da un'ora alla porta della chiesa, non ha dimenticato.
+
+ex1:
+- Sue is getting married.
+  it: Sue si sposa.
+- We get the bus in ten minutes.
+  it: Prendiamo l'autobus tra dieci minuti.
+- I never get lost!
+  it: Io non mi perdo mai!
+- We're getting old.
+  it: Stiamo invecchiando.
+- Why don't we get a taxi?
+  it: Perché non prendiamo un taxi?
+
+ex2:
+- Sue is [getting] [married].
+  it: Sue si sposa.
+- I'm just [getting] dressed.
+  it: Mi sto solo vestendo.
+- You [got] lost on the way to our wedding.
+  it: Ti sei perso mentre andavi al nostro matrimonio.
+- We're getting [old], dear.
+  it: Stiamo invecchiando, cara.
+- You're getting [on] my nerves.
+  it: Mi stai dando ai nervi.
+
+culture.it:
+Un matrimonio inglese si celebra in chiesa, oppure nel register office, l'ufficio comunale, o in un luogo autorizzato, come un castello o un albergo. La sposa, the bride, porta quasi sempre un abito bianco: la moda si diffuse dopo il matrimonio della regina Vittoria con il principe Alberto nel 1840, in bianco. Una filastrocca dice che alla sposa servono quattro cose: Something old, something new, something borrowed, something blue, "qualcosa di vecchio, di nuovo, di prestato e di blu". Fuori dalla chiesa gli invitati lanciano confetti, o dei petali: la parola viene dall'italiano, ma in inglese confetti sono i coriandoli di carta, non i dolcetti di zucchero. Dopo la cerimonia c'è un pranzo, il wedding breakfast, anche se si mangia nel pomeriggio, e c'è la torta nuziale, la wedding cake, che gli sposi tagliano insieme. Il best man, il testimone dello sposo, fa un discorso, the speech, e racconta aneddoti imbarazzanti sullo sposo: è un momento atteso, e fa ridere tutta la sala. Gli invitati sono eleganti, e molte donne portano un cappello. L'augurio è Congratulations!, "auguri!", agli sposi.
+
+== 74 B1
+numeral: Lesson Seventy-Four
+numeral.pron.it: *le*ssën *se*vënti-fo‣
+title: If I had known...
+title.it: Se l'avessi saputo...
+
+dialogue:
+- The museum is closed. So are the shops.
+  it: Il museo è chiuso. Lo sono anche i negozi.
+  pron.it: … sciops
+- It's a bank holiday today.
+  it: Oggi è un giorno festivo (una vacanza delle banche).
+- If I'd known, I wouldn't have come.
+  it: Se l'avessi saputo, non sarei venuto.
+  pron.it: … *wu*dënt …
+- If you'd checked, we'd have stayed at home.
+  it: Se avessi controllato, saremmo rimasti a casa.
+  pron.it: … cekt …
+- And now it's raining. Let's take a taxi.
+  it: E adesso piove. Prendiamo un taxi.
+- There aren't any. They're on holiday too.
+  it: Non ce ne sono. Sono in vacanza anche loro.
+- There was one at the station.
+  it: Ce n'era uno alla stazione.
+- We'd have got it if you hadn't stopped for a photo.
+  it: Lo avremmo preso se tu non ti fossi fermato per una foto.
+  pron.it: … *hè*dënt …
+- It was only a minute. A nice couple took our photo.
+  it: È stato solo un minuto. Una bella coppia ci ha fatto la foto.
+  pron.it: … *mi*nit … *ka*pël tuk …
+- If you'd checked the weather, we'd have brought an umbrella.
+  it: Se avessi controllato il tempo, avremmo portato un ombrello.
+- If I'd checked the weather, I'd have stayed in bed.
+  it: Se avessi controllato il tempo, sarei rimasto a letto.
+- If you'd stayed in bed, I'd have been happy.
+  it: Se tu fossi rimasto a letto, io sarei stata contenta.
+- If we'd stayed at home, we wouldn't have met that nice couple.
+  it: Se fossimo rimasti a casa, non avremmo conosciuto quella simpatica coppia.
+  pron.it: … met …
+- The ones who took our taxi?
+  it: Quelli che ci hanno preso il taxi?
+  pron.it: … wanz …
+
+sounds.it:
+1. -ed finale: checked si dice cekt, con una t, perché dopo k, p, s, sc la -ed è una t e non una sillaba in più, come stopped, stopt (lezione 59), e dressed, drest (lezione 73). Dopo una vocale o una consonante con la voce è una d: stayed è steid (lezione 22).
+2. Took si dice tuk, con la u breve di book (lezione 67): non con la u‣ lunga di you (lezione 1). Couple si scrive con ou ma si dice *ka*pël, con la a breve di cup (lezione 1), come young, yang (lezione 46). Ones è wanz, come one, wan (lezione 3), con la z finale.
+3. Wouldn't si dice *wu*dënt e hadn't *hè*dënt, con la voce sulla prima sillaba, e la l di would non si sente (would, lezione 25). 'd, in we'd, I'd, you'd, si dice d: we'd have è wi‣d hèv, e I'd have è aid hèv; nel parlato veloce have si riduce a ëv, come in should have (lezione 62): wi‣d ëv.
+
+notes.it:
+1. The museum is closed. So are the shops: closed (lezione 30) è "chiuso". So are the shops (so, lezione 38; shop, lezione 13) è "anche i negozi", la stessa struttura di so am I (lezione 68): so, poi be, poi il soggetto. Museum (lezione 51) è "museo", e shops (parola nuova) è il plurale di shop.
+2. It's a bank holiday today: bank holiday (bank, lezione 4; holiday, lezione 45) è un giorno festivo nazionale, quando le banche e quasi tutto sono chiusi: letteralmente "vacanza delle banche". Holiday da solo è "vacanza", ma bank holiday è "festa". Today (lezione 69) è "oggi". La nota culturale spiega quali sono.
+3. If I'd known, I wouldn't have come: questa è la lezione del third conditional, per parlare di una cosa che non è successa e dei suoi risultati: "se l'avessi saputo, non sarei venuto". Il verbo dopo if è al past perfect (lezioni 57, 58): I'd known è I had known (known, lezione 38), e il risultato è would have più il participio: I wouldn't have come (wouldn't, parola nuova; come, lezione 26). 'd davanti a un participio è had, come in I wish we'd gone (lezione 67), e davanti a have è would: lo capisci dal verbo che segue. Il verbo non cambia con la persona.
+
+| Tipo | If | Risultato | Esempio |
+|---|---|---|---|
+| zero (lezione 72) | presente | presente | If you heat water, it boils. |
+| primo (lezione 44) | presente | will | If it rains, we'll stay at home. |
+| secondo (lezione 54) | passato | would | If I were rich, I'd buy a pink car. |
+| terzo | past perfect | would have + participio | If I'd known, I wouldn't have come. |
+
+4. If you'd checked, we'd have stayed at home: checked (parola nuova) è il passato e il participio di check (lezione 62), "controllare, verificare": if you'd checked, "se avessi controllato". Il primo 'd è had, il secondo, we'd have, è would. Stayed (lezione 22) è il participio di stay (lezione 36), "restare", e at home (lezione 22) vuole senza the. Italiano: "se avessi controllato, saremmo rimasti": congiuntivo trapassato e condizionale passato, come in inglese il past perfect e would have.
+5. And now it's raining. Let's take a taxi: raining (lezione 27) è il present continuous, "sta piovendo". Let's take (let's, lezione 13; take, lezione 8) è "prendiamo": take a taxi, come get a taxi (lezione 73): nel parlato i due verbi dicono quasi la stessa cosa.
+6. There aren't any. They're on holiday too: there aren't any (aren't, lezione 48; any, lezione 20) è "non ce ne sono": any sta al posto di taxis, che non si ripete. On holiday (on, lezione 4; holiday, lezione 45) è "in vacanza", con on: they're on holiday, "sono in vacanza". Detto dei taxi è un modo di scherzare: se tutto è chiuso, anche i taxi sono in vacanza.
+7. There was one at the station: there was (was, lezione 23) è "c'era", e one (lezione 3) sta al posto di a taxi, come a big one nella lezione 3: "ce n'era uno". Station (lezione 4) è "stazione", at the station, "alla stazione".
+8. We'd have got it if you hadn't stopped for a photo: la frase si può girare: we'd have got it viene prima, e if you hadn't stopped dopo, senza virgola. Il senso non cambia: se tu non ti fossi fermato, lo avremmo preso. Got (lezione 8) qui è "preso", get (lezione 73) per un taxi. Hadn't (parola nuova) è had not (had, lezione 23), il past perfect negativo: if you hadn't stopped, "se non ti fossi fermato", con stopped (lezione 59), il participio di stop (lezione 54): stop for a photo è "fermarsi per una foto". Photo (lezione 46).
+9. It was only a minute. A nice couple took our photo: minute (parola nuova; minutes, lezione 4) è "minuto", e si dice *mi*nit; l'aggettivo, che vuol dire "minuscolo", si scrive uguale e si dice in un altro modo. Only (lezione 10) è "solo". Couple (parola nuova) è "coppia", due persone che stanno insieme, e si usa anche a couple of, "un paio di". Took (parola nuova) è il passato di take (lezione 8): take - took - taken (taken, lezione 62). Take a photo è "fare una foto", con take e non make: took our photo, "ci ha fatto la foto". Nice (lezione 2) qui è "gentile, simpatico".
+10. If you'd checked the weather, we'd have brought an umbrella: weather (lezione 27) è "il tempo", e check the weather è "guardare le previsioni". Brought (lezione 66) è il participio di bring, "portato", e umbrella (lezione 12) con an (lezione 36), davanti a vocale. È di nuovo il terzo tipo: if + past perfect, would have + participio.
+11. If I'd checked the weather, I'd have stayed in bed: stayed in bed (bed, lezione 34) è "sarei rimasto a letto", senza the: stay in bed, come in lezione 64.
+12. If you'd stayed in bed, I'd have been happy: been (lezione 31) è il participio di be: would have been, "sarei stata". Happy (lezione 19) è "contenta", e detto con un po' di cattiveria: se tu fossi rimasto a letto, io avrei avuto un giorno migliore.
+13. If we'd stayed at home, we wouldn't have met that nice couple: met (parola nuova, da meet, lezione 2) è il participio di meet: meet - met - met, "conoscere, incontrare". That (lezione 26) è "quella", e that nice couple è la coppia di cui si parla, la coppia della foto, di cui si è parlato nella nota 9.
+14. The ones who took our taxi?: ones (parola nuova) è il plurale di one (lezione 3), e sta al posto di un nome già detto: the ones who, "quelli che", con who (lezione 36). La battuta è questa: lei ricorda con simpatia la coppia che ha fatto loro la foto, e lui ricorda che la stessa coppia ha preso il loro taxi. Took è lo stesso verbo: la coppia took la foto, e poi took il taxi, prima un favore piccolo e poi un danno grosso. Take vuol dire "fare" una foto e "prendere" un taxi, e mentre posavano per la foto, il taxi è partito con altri.
+
+ex1:
+- If I'd known, I wouldn't have come.
+  it: Se l'avessi saputo, non sarei venuto.
+- If you'd checked, we'd have stayed at home.
+  it: Se avessi controllato, saremmo rimasti a casa.
+- If I'd checked the weather, I'd have brought an umbrella.
+  it: Se avessi controllato il tempo, avrei portato un ombrello.
+- We wouldn't have met that nice couple.
+  it: Non avremmo conosciuto quella simpatica coppia.
+- It's a bank holiday today.
+  it: Oggi è un giorno festivo.
+
+ex2:
+- If I'd [known], I wouldn't have come.
+  it: Se l'avessi saputo, non sarei venuto.
+- If you'd checked, we'd [have] stayed at home.
+  it: Se avessi controllato, saremmo rimasti a casa.
+- We'd have [got] it if you [hadn't] stopped.
+  it: Lo avremmo preso se tu non ti fossi fermato.
+- A nice couple [took] our photo.
+  it: Una bella coppia ci ha fatto la foto.
+- The [ones] who took our taxi?
+  it: Quelli che ci hanno preso il taxi?
+
+culture.it:
+In Inghilterra i giorni festivi nazionali si chiamano bank holidays, perché una legge del 1871 stabilì i giorni in cui le banche restavano chiuse, e con loro quasi tutti gli uffici. Oggi sono otto all'anno: il primo gennaio, il Venerdì Santo, il lunedì di Pasqua, il primo lunedì di maggio, l'ultimo lunedì di maggio, l'ultimo lunedì di agosto, il giorno di Natale e il giorno dopo, il Boxing Day. In Scozia l'elenco è un po' diverso, e comprende il 2 gennaio. Il Venerdì Santo e i quattro lunedì danno un fine settimana lungo di tre giorni, il bank holiday weekend: le strade si riempiono, la gente va al mare o in campagna, e in genere piove. I negozi di solito aprono, ma con orari ridotti, e i musei e i servizi pubblici possono essere chiusi o avere orari speciali: i treni e gli autobus spesso girano come di domenica. Per questo gli inglesi controllano sempre prima, e i turisti, come i due della lezione, non sempre. Come augurio si dice Enjoy the long weekend!, "buon fine settimana lungo!".
+
+aside.it:
+Tre quarti del corso sono alle tue spalle: settantaquattro lezioni su cento. Il terzo tipo di condizionale è tra le cose più difficili di tutto il corso, e se oggi ti sembra un labirinto, vai avanti: il ripasso lo mette in ordine, e dalla lezione 76 il livello è B2, con meno regole nuove e più espressioni.
+
+== 75 B1
+numeral: Lesson Seventy-Five
+numeral.pron.it: *le*ssën *se*vënti-faiv
+title: You'll get used to it
+title.it: Ti abituerai
+
+dialogue:
+- I can't get used to the food here.
+  it: Non riesco ad abituarmi al cibo di qui.
+  pron.it: … fu‣d …
+- You'll get used to it. It's only your first week.
+  it: Ti abituerai. È solo la tua prima settimana.
+- In Italy I used to eat pasta every day.
+  it: In Italia mangiavo la pasta tutti i giorni.
+  pron.it: … *pè*stë …
+- You'll soon get used to a sandwich at your desk.
+  it: Presto ti abituerai a un panino alla scrivania.
+  pron.it: … su‣n … *sèn*dwic' …
+- At my desk? In Italy a desk is for work.
+  it: Alla mia scrivania? In Italia una scrivania serve per lavorare.
+- I used to go out for lunch, too.
+  it: Anch'io una volta uscivo a pranzo.
+  pron.it: … lanc' …
+- What happened then?
+  it: Che cosa è successo allora?
+- I found the meal deal.
+  it: Ho scoperto il meal deal (il pasto a prezzo fisso).
+  pron.it: … mi‣l di‣l
+- What's a meal deal?
+  it: Che cos'è un meal deal?
+- A sandwich, crisps and a drink for four pounds.
+  it: Un panino, delle patatine e una bibita per quattro sterline.
+  pron.it: … krisps …
+- Four pounds? For lunch? And where is the pasta?
+  it: Quattro sterline? Per il pranzo? E dov'è la pasta?
+- I'm used to eating at my desk now.
+  it: Ormai sono abituato a mangiare alla scrivania.
+- That's what I'm afraid of.
+  it: È proprio quello che temo.
+  pron.it: … ë*freid* …
+
+sounds.it:
+1. Used, in used to, get used to e be used to, si dice sempre yu‣st, con la u‣ lunga di you (lezione 1) e la s sorda, come in lezione 46: non "iùzd", con la z. Get used to si dice ghet yu‣st tu‣, e to è debole, ma in fondo alla frase torna intero.
+2. Food, soon: la doppia o si dice u‣ lunga, fu‣d, su‣n, come you (lezione 1) con una consonante dopo. Meal e deal fanno rima, mi‣l e di‣l, con la i‣ lunga di see (lezione 23): meal deal è mi‣l di‣l.
+3. Pasta si dice *pè*stë, con la voce sulla prima sillaba, la è aperta di black (lezione 12) e la ë debole in fondo: non "pàsta" all'italiana. Gli americani dicono *pa‣*stë, con la a‣ lunga di car (lezione 8). Sandwich è *sèn*dwic', con la è di black (lezione 12) e c' come in much (lezione 20), e lunch è lanc', con la a breve di cup (lezione 1). Afraid è ë*freid*, con il dittongo ei di day (lezione 16).
+
+notes.it:
+1. I can't get used to the food here: questa è la lezione di used to, be used to e get used to, tre forme che si assomigliano e dicono cose diverse. Qui c'è get used to: get (lezione 16), used (lezione 46), to: "abituarsi a". Can't get used to (can't, lezione 11) è "non riesco ad abituarmi", e dopo to c'è un nome o una forma in -ing, mai il verbo base: to the food, to eating. Food (parola nuova) è "cibo", non si conta e non ha il plurale: the food here, "il cibo di qui". Here (lezione 1).
+
+| Forma | Dopo | Che cosa dice | Esempio |
+|---|---|---|---|
+| used to | verbo base | una volta si faceva, adesso no | I used to eat pasta every day. |
+| be used to | nome o -ing | si è abituati | I'm used to eating at my desk. |
+| get used to | nome o -ing | ci si abitua | You'll get used to it. |
+
+Il trucco è questo: dopo used to + verbo base si parla del passato, e used to non cambia con la persona; negli altri due casi to è una preposizione, come in the food, e dopo vuole un nome o un -ing, e used è un aggettivo, "abituato".
+2. You'll get used to it. It's only your first week: you'll (lezione 44) è you will, "ti abituerai", il futuro. It si riferisce al cibo. Only (lezione 10) è "solo", your (lezione 9) è "tuo", first (lezione 22) è "primo", e week (lezione 36) è "settimana": your first week, "la tua prima settimana".
+3. In Italy I used to eat pasta every day: used to (lezione 46) più il verbo base è "mangiavo, una volta mangiavo": un'abitudine del passato che adesso non c'è più. Italy (lezione 52) è "Italia". Eat (lezione 44) è "mangiare", e pasta (parola nuova) è "pasta", in inglese una parola che non si conta: eat pasta, "mangiare la pasta", senza the. Every day (every, lezione 16; day, lezione 16) è "tutti i giorni", due parole.
+4. You'll soon get used to a sandwich at your desk: soon (parola nuova) è "presto, fra poco": you'll soon get used to it, "ti abituerai presto", con soon tra will e il verbo. Non confondere soon con early (lezione 50), che vuol dire "in anticipo, di buon'ora". Sandwich (sandwiches, lezione 15) è "panino, tramezzino", e a sandwich dopo get used to è un nome. Desk (lezione 51) è la scrivania, e at your desk (at, lezione 13), "alla tua scrivania": at, non "on".
+5. At my desk? In Italy a desk is for work: for (lezione 8) qui è "per, serve per": a desk is for work, "una scrivania serve per lavorare". Work (lezione 16) come nome è "lavoro", e senza the.
+6. I used to go out for lunch, too: go out for lunch (go out, lezione 72; lunch, parola nuova) è "uscire a pranzo", cioè mangiare fuori. Lunch è il pasto di mezzogiorno, e dinner (lezione 15) è quello della sera: in Gran Bretagna il pasto principale è spesso la sera. Too (lezione 18) in fondo alla frase è "anche", "anch'io".
+7. What happened then?: happened (lezione 43) è "è successo", il passato semplice, e then (lezione 13) qui è "allora, a quel punto". What qui è il soggetto, e non vuole did: what happened?, mai "what did happen". È così anche con who: who knows? (who, lezione 36; knows, lezione 65), "chi lo sa?".
+8. I found the meal deal: found (lezione 47) è il passato di find: find - found - found, "ho trovato, ho scoperto". Meal (parola nuova) è "pasto", e deal (parola nuova) è "affare, accordo, offerta": un meal deal è un pasto a prezzo fisso, venduto da supermercati e negozi, di solito con panino, snack e bibita, come dice il dialogo.
+9. What's a meal deal?: what's (lezione 12) è what is, "che cos'è?". Una definizione si chiede con what is a...?, "che cos'è un...?".
+10. A sandwich, crisps and a drink for four pounds: crisps (parola nuova) sono le patatine in sacchetto, quelle sottili e croccanti; in inglese britannico le patatine fritte lunghe si dicono invece chips (chips, lezione 33), come in fish and chips. Drink (lezione 29) qui è un nome, "bibita", a drink. For (lezione 8) davanti a un prezzo è "per": for four pounds, "per quattro sterline", con four (lezione 4) e pounds (lezione 6).
+11. Four pounds? For lunch? And where is the pasta?: la domanda ripete il prezzo con sorpresa, come Forty-two pounds? nella lezione 6. Where (lezione 26) è "dove", e where is the pasta?, "dov'è la pasta?": per un italiano un pranzo senza pasta è un pranzo che manca di qualcosa.
+12. I'm used to eating at my desk now: I'm used to (I'm, lezione 2) è "sono abituato a": be used to, e dopo to c'è un -ing, eating (eating, lezione 50), "mangiare". Per il passato si usa was: I was used to. Now (lezione 46) qui è "ormai, adesso". Negativo: I'm not used to eating at my desk, "non sono abituato a mangiare alla scrivania". Ecco la differenza: I used to eat at home, "una volta mangiavo a casa", e I'm used to eating at my desk, "ormai sono abituato a mangiare alla scrivania".
+13. That's what I'm afraid of: afraid (parola nuova) è "che ha paura": afraid of, con of e un nome o un -ing: I'm afraid of getting used to it, "ho paura di abituarmici". La frase ha la preposizione in fondo: what I'm afraid of, "quello di cui ho paura", come the man you're looking for (lezione 45). Con un'altra frase I'm afraid ha un altro senso, I'm afraid I can't come, "temo di non poter venire", ed è una cortesia. La battuta è questa: il collega dice che anche lui andava a pranzo fuori, e adesso mangia alla scrivania, e che ci si abitua. Il nuovo arrivato lo ascolta e capisce che l'abitudine è quello che lo aspetta: ha paura di diventare come il collega.
+
+ex1:
+- I can't get used to the food here.
+  it: Non riesco ad abituarmi al cibo di qui.
+- In Italy I used to eat pasta every day.
+  it: In Italia mangiavo la pasta tutti i giorni.
+- You'll soon get used to it.
+  it: Presto ti abituerai.
+- I'm used to eating at my desk.
+  it: Sono abituato a mangiare alla scrivania.
+- What's a meal deal?
+  it: Che cos'è un meal deal?
+
+ex2:
+- You'll get [used] [to] it.
+  it: Ti abituerai.
+- In Italy I [used] to eat pasta.
+  it: In Italia mangiavo la pasta.
+- I'm used to [eating] at my desk.
+  it: Sono abituato a mangiare alla scrivania.
+- A sandwich, crisps and a drink [for] four pounds.
+  it: Un panino, delle patatine e una bibita per quattro sterline.
+- That's what I'm [afraid] of.
+  it: È proprio quello che temo.
+
+culture.it:
+In Gran Bretagna la pausa pranzo si chiama lunch break o lunch hour, ma spesso dura molto meno di un'ora, e molti impiegati mangiano un panino davanti al computer, al desk. Il sandwich è l'emblema del pranzo inglese: si dice che il nome venga dal conte di Sandwich, che nel Settecento mangiava la carne tra due fette di pane per non interrompere il gioco. Nei negozi e nei supermercati si compra il meal deal, e c'è una scelta di panini già pronti, da portare in ufficio. Altri pranzi tipici sono il packed lunch, il pranzo al sacco che i bambini portano a scuola, e il ploughman's lunch, che si trova nei pub: pane, formaggio e sottaceti. La cena, dinner, è spesso il pasto più importante, e si mangia presto, alle sei o alle sette di sera. Per invitare un collega a mangiare fuori, come faceva il personaggio della lezione, si dice Shall we go out for lunch?, "andiamo a pranzo fuori?".

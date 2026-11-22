@@ -43,7 +43,8 @@ layout, lesson lengths, notes, exercises, revision lessons and second wave.
    reader of your language would read it aloud, following a fixed key for
    each pair of languages (`content/<lang>/pronunciation.md`). The whole line
    in lessons 1–28; from lesson 29 only the words new in that lesson, the
-   rest left out, as German with ease does. The key follows the Assimil
+   rest left out, each on the first line where it appears, as German with
+   ease does. The key follows the Assimil
    editions for that reader: for Italians, Italian spelling with the stressed
    syllable in bold and a few signs explained once (‣ after a long vowel, ë
    for the weak vowel, è for the open e, θ, as in Il Francese senza sforzo

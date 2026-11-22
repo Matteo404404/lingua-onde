@@ -1,3 +1,248 @@
 course: en
 stage: foundation
 bases: it
+
+== 76 B2
+numeral: Lesson Seventy-Six
+numeral.pron.it: *le*ssën *se*vënti-siks
+title: Although it was raining
+title.it: Anche se pioveva
+
+dialogue:
+- Sorry. I can't talk much. I've lost my voice.
+  it: Scusa. Non riesco a parlare molto. Ho perso la voce.
+  pron.it: … vois
+- Were you at the match?
+  it: Eri alla partita?
+  pron.it: … mèc'
+- Of course. Although it was raining, we went.
+  it: Certo. Anche se pioveva, ci siamo andati.
+  pron.it: … o‣l*dhou* …
+- You must be mad. It rained all day.
+  it: Sei matto. Ha piovuto tutto il giorno.
+  pron.it: … mèd …
+- In spite of the rain, we sang for ninety minutes.
+  it: Nonostante la pioggia, abbiamo cantato per novanta minuti.
+  pron.it: … spait … sèng …
+- And who won? Did your team play well?
+  it: E chi ha vinto? La tua squadra ha giocato bene?
+- We lost four nil. However, nobody went home early.
+  it: Abbiamo perso quattro a zero. Tuttavia nessuno è tornato a casa presto.
+  pron.it: … nil hau*e*vë …
+- Even though you were losing?
+  it: Anche se perdevate?
+  pron.it: … dhou … *lu‣*zing
+- Despite the score, the singing never stopped.
+  it: Nonostante il risultato, il canto non si è mai fermato.
+  pron.it: di*spait* … sko‣ … *sing*ing …
+- Weren't you cold and wet in that rain?
+  it: Non avevi freddo, e non eri bagnato, sotto quella pioggia?
+- Freezing. And wet. And the tickets were dear.
+  it: Gelato. E bagnato. E i biglietti erano cari.
+  pron.it: *fri‣*zing …
+- So was it a terrible day?
+  it: Quindi è stata una giornata terribile?
+  pron.it: … *te*ribël …
+- Even though we lost, it was the best day of the year!
+  it: Anche se abbiamo perso, è stato il giorno più bello dell'anno!
+- What do you do the rest of the year?
+  it: E che cosa fai per il resto dell'anno?
+
+sounds.it:
+1. Match si dice mèc', con la è aperta di black (lezione 12) e c' come in much (lezione 20); mad è mèd, con la stessa è, e sang è sèng: la a scritta si dice è, non "a". Voice è vois, con il dittongo oi, e la c finale vale s.
+2. Although si dice o‣l*dhou*, con la o‣ lunga di all (lezione 11), poi dh come in the (lezione 4) e il dittongo ou di go (lezione 6): la voce è sull'ultima sillaba, e though, da solo, è dhou. Despite è di*spait*, con la voce sulla seconda sillaba e il dittongo ai di my (lezione 12), e however è hau*e*vë, con la voce su e.
+
+notes.it:
+1. Sorry. I can't talk much. I've lost my voice: voice (parola nuova) è "voce": lose your voice, "perdere la voce", con lost (lezione 24) al present perfect, I've lost. Lost torna più avanti, we lost four nil: prima ha perso la voce, poi la partita.
+2. Were you at the match?: match (parola nuova) è "partita", di calcio, di tennis, di rugby: a football match. Si dice anche game (parola nuova), ma match è più comune in Gran Bretagna per il calcio. At the match è "alla partita", e si dice go to the match, "andare alla partita". Match vuol dire anche "fiammifero", e il plurale è matches.
+3. Of course. Although it was raining, we went: although (parola nuova) è "benché, anche se": introduce un contrasto, e vuole una frase completa con il suo verbo, all'indicativo: although it was raining, mai un congiuntivo come in italiano, "benché piovesse". Dopo la frase con although non si mette but: Although it was raining, we went, mai "although..., but we went". Si può anche girare la frase: We went, although it was raining. You must be mad (mad, parola nuova) è "sei matto": mad è "pazzo", e in britannico vuol dire soprattutto questo; negli Stati Uniti si usa spesso anche per "arrabbiato".
+4. In spite of the rain, we sang for ninety minutes: in spite of (spite, parola nuova, "dispetto") è "nonostante", e vuole un nome o un -ing, non una frase con il verbo: in spite of the rain, in spite of working all day. Sang (parola nuova) è il passato di sing, "cantare": sing - sang - sung. For ninety minutes (for, lezione 8; ninety, lezione 38) è "per novanta minuti": for e un periodo di tempo.
+5. And who won? Did your team play well?: who won? (won, lezione 54) non vuole did, perché who è il soggetto, come what happened? (lezione 75). Did your team play well? (team, lezione 65; play, lezione 11) è la domanda normale con did: "la tua squadra ha giocato bene?".
+6. We lost four nil. However, nobody went home early: four nil (nil, parola nuova) è "quattro a zero": nil è lo zero del calcio inglese, e nei punteggi si dice anche four-nil. However (parola nuova) è "tuttavia, però": sta all'inizio della frase, con la virgola dopo, e dice che la frase che segue è una sorpresa. È più scritto e più formale di but: but nobody went home early dice la stessa cosa, ma however sta bene nel parlato di chi racconta. Con however non si unisce una frase all'altra con una virgola: due frasi, con un punto. Nobody went (lezione 36) vuole il verbo al singolare, e went home (lezione 22) non vuole to.
+7. Even though you were losing?: even though (even, lezione 67; though, parola nuova) è "anche se, pur se": dice lo stesso di although, ma con più forza, per un fatto che sorprende. Losing (parola nuova) è la forma in -ing di lose: even though you were losing, "anche se stavate perdendo". Non va confuso con even if, "anche se" di una cosa possibile: I'll go even if it rains, "andrò anche se piove", cioè se pioverà. Even though dice una cosa che è un fatto, even if una cosa che può essere: l'italiano "anche se" dice tutte e due.
+
+| Parola | Dopo | Senso | Esempio |
+|---|---|---|---|
+| although, though, even though | frase con il verbo | benché, anche se | Although it was raining, we went. |
+| in spite of, despite | nome o -ing | nonostante | In spite of the rain, we sang. |
+| however | frase nuova, con la virgola | tuttavia | However, nobody went home. |
+
+8. Despite the score, the singing never stopped: despite (parola nuova) è come in spite of, ma senza of: despite the score, "nonostante il risultato". Non si dice "despite of". Score (parola nuova) è "risultato, punteggio" di una partita: what's the score?, "come va, quanto è il risultato?". Singing (parola nuova) è la forma in -ing di sing, qui usata come nome: the singing, "il cantare, il canto". Never stopped (stopped, lezione 59) è "non si è mai fermato".
+9. Weren't you cold and wet in that rain?: weren't you...? (weren't, lezione 43) è una domanda con la negazione, "non avevi freddo?", e chi la fa si aspetta un sì. Cold (lezione 13) e wet (lezione 67) sono "freddo" e "bagnato", con be: you were cold, "avevi freddo", mai "you had cold".
+10. Freezing. And wet. And the tickets were dear: freezing (parola nuova) è "gelido, che gela": freezing è più forte di cold, e I'm freezing è "gelo, muoio di freddo". Una risposta senza verbo, come Freezing. And wet. è normale nel parlato: se ne capisce il soggetto. Dear (lezione 30, in dearer) qui è "caro, costoso", detto di un prezzo: the tickets were dear, "i biglietti erano cari". Tickets (lezione 6) è il plurale di ticket.
+11. So was it a terrible day?: so (lezione 38) all'inizio di una domanda è "quindi, dunque". Terrible (parola nuova) è "terribile, pessimo": a terrible day, "una giornata pessima". Nel parlato terrible dice quasi "molto brutto", e non fa paura.
+12. Even though we lost, it was the best day of the year!: the best (best, lezione 33) è "il migliore", e the best day of the year è "il giorno più bello dell'anno": con il superlativo si dice of, non "in the year".
+13. What do you do the rest of the year?: rest (lezione 17) qui è "il resto", e the rest of the year è "il resto dell'anno": the rest of the day, the rest of the week. Do you do (do, lezione 5) è il verbo di tutti i giorni: "che cosa fai?". La battuta è questa: il tifoso ha perso, ha preso la pioggia, ha perso la voce e ha pagato caro, e dice che è stato il giorno più bello dell'anno. L'amico non commenta: gli chiede che cosa fa per gli altri trecentosessantaquattro giorni, e così fa capire che la sua vita, senza la partita, deve essere piuttosto triste.
+
+ex1:
+- I've lost my voice.
+  it: Ho perso la voce.
+- Although it was raining, we went.
+  it: Anche se pioveva, ci siamo andati.
+- In spite of the rain, we sang for ninety minutes.
+  it: Nonostante la pioggia, abbiamo cantato per novanta minuti.
+- However, nobody went home early.
+  it: Tuttavia nessuno è tornato a casa presto.
+- Despite the score, the singing never stopped.
+  it: Nonostante il risultato, il canto non si è mai fermato.
+
+ex2:
+- [Although] it was raining, we went.
+  it: Benché piovesse, ci siamo andati.
+- In spite [of] the rain, we sang for ninety minutes.
+  it: Nonostante la pioggia, abbiamo cantato per novanta minuti.
+- We lost four nil. [However], nobody went home early.
+  it: Abbiamo perso quattro a zero. Tuttavia nessuno è tornato a casa presto.
+- [Despite] the score, the singing never stopped.
+  it: Nonostante il risultato, il canto non si è mai fermato.
+- I've lost my [voice].
+  it: Ho perso la voce.
+
+culture.it:
+In Gran Bretagna il calcio si chiama football, e soccer è la parola americana. Le prime regole comuni furono scritte nel 1863, a Londra, quando nacque la Football Association, e la Football League, il primo campionato del mondo, partì nel 1888. La FA Cup, la coppa a eliminazione, si gioca dal 1871 ed è la più antica del mondo. Chi segue una squadra si chiama supporter, o fan, e di solito la squadra si sceglie da bambini e non si cambia più. L'orario tradizionale delle partite è il sabato alle tre del pomeriggio, a qualunque tempo: il campo si chiama the pitch, e i tifosi cantano a squarciagola anche sotto la pioggia. Uno dei canti più famosi è You'll Never Walk Alone, che i tifosi del Liverpool cantano ad Anfield prima della partita. Dopo una sconfitta si dice, con filosofia, Never mind, there's always next Saturday, "non importa, c'è sempre il prossimo sabato".
+
+== 77 B2
+kind: revision
+numeral: Lesson Seventy-Seven
+numeral.pron.it: *le*ssën *se*vënti-*se*vën
+title: Revision
+title.it: Ripasso
+
+dialogue:
+- Hello? Oh, it's you, dear.
+  it: Pronto? Oh, sei tu, cara.
+  refs: 2 3 4 15
+- I'm having the kitchen painted before Mum's birthday.
+  it: Faccio dipingere la cucina prima del compleanno della mamma.
+  refs: 15 19 29 61 71 72
+- Why pay someone? I'm painting it myself!
+  it: Perché pagare qualcuno? La sto dipingendo io!
+  refs: 9 29 36 57 71
+- Yourself? Last time you painted the bathroom, it took a week.
+  it: Da solo? L'ultima volta che hai dipinto il bagno ci hai messo una settimana.
+  refs: 8 11 29 36 71 74
+- I used to paint every weekend. I'm used to painting.
+  it: Dipingevo ogni fine settimana. Sono abituato a dipingere.
+  refs: 16 23 29 46 75
+- Unless you hurry, you won't finish before Saturday.
+  it: Se non ti sbrighi, non finirai prima di sabato.
+  refs: 16 29 36 43 72
+- As long as I have the ladder, I'll finish tonight.
+  it: Purché io abbia la scala, finirò stasera.
+  refs: 8 29 72
+- Ask someone to hold it, in case you fall.
+  it: Chiedi a qualcuno di tenerla, caso mai tu cada.
+  refs: 29 36 44 66 72
+- I never fall. If I'd hurt myself, I'd have told you.
+  it: Non cado mai. Se mi fossi fatto male, te l'avrei detto.
+  refs: 16 17 25 44 53 71 74
+- You never fall? However, you got lost in our own street.
+  it: Non cadi mai? Però ti sei perso nella nostra stessa strada.
+  refs: 10 58 64 73 76
+- That was a different street. Although it's late, it's finished!
+  it: Era un'altra strada. Anche se è tardi, è finita!
+  refs: 10 29 43 48 76
+- What colour is it? Please say black.
+  it: Di che colore è? Ti prego, dì nero.
+  refs: 1 12 53
+- It's pink. It's my favourite colour, dear. You know that!
+  it: È rosa. È il mio colore preferito, cara. Lo sai!
+  refs: 3 12 15
+- That was an umbrella, not a kitchen!
+  it: Quello era un ombrello, non una cucina!
+  refs: 12 15 23
+
+notes.it:
+L'undicesima settimana è finita, e con la lezione 76 sei entrato nel livello B2. Anche questa volta non c'è niente da imparare a memoria: la lezione mette in ordine le condizionali, have something done e i pronomi in -self, i molti sensi di get, le tre forme di used to e le parole che legano una frase all'altra. Se qualcosa non ti è chiaro, passa avanti: tornerà in altre lezioni, un po' più chiaro. Hai già visto tutto nei dialoghi, ora lo vedi in fila.
+
+1. Le condizionali (lezioni 44, 54, 72, 74). Una condizione ha due parti, quella con if e il risultato. Quello che cambia da un tipo all'altro sono i tempi, e non c'è mai will o would dopo if.
+
+| Tipo | Dopo if | Risultato | Esempio | Che cosa dice |
+|---|---|---|---|---|
+| zero (72) | presente | presente | If you heat water, it boils. | una cosa sempre vera |
+| primo (44) | presente | will | If it rains, we'll stay at home. | possibile, nel futuro |
+| secondo (54) | passato (be: were) | would | If I were rich, I'd buy a pink car. | irreale, adesso |
+| terzo (74) | past perfect | would have + participio | If I'd known, I wouldn't have come. | irreale, nel passato |
+
+Il 'd dopo if è had, il 'd nel risultato è would: lo capisci dal verbo che segue, un participio dopo had, la forma base dopo would. L'ordine si può girare, e allora non c'è la virgola: We'd have got it if you hadn't stopped (74). Nel dialogo di oggi: If I'd hurt myself, I'd have told you. Per l'italiano il secondo e il terzo tipo sono vicini ai vostri "se avessi..., sarei": in inglese il passato (secondo tipo) parla di adesso, e il past perfect (terzo tipo) del passato.
+2. Unless, as long as, in case (lezione 72). Tutte e tre vogliono il presente, anche per il futuro, perché sono condizioni, come if.
+
+| Parola | Senso | Esempio |
+|---|---|---|
+| unless | se non | Unless you hurry, you'll miss the bus. (72) |
+| as long as | purché | As long as you're back by ten, yes. (72) |
+| in case | caso mai | Take a key in case I'm asleep. (72) |
+
+Unless ha già una negazione: mai "unless you don't". In case dice "prendi la chiave adesso, perché forse servirà", if dice "quando succede, fai": Take an umbrella in case it rains, e Take an umbrella if it rains, sono due cose diverse. Il dialogo di oggi ha tutte e tre: Unless you hurry, As long as I have the ladder, in case you fall.
+3. Have something done (lezione 71). Per dire che una cosa la fa fare qualcun altro si usa have, la cosa e il participio passato.
+
+| Forma | Esempio | In italiano |
+|---|---|---|
+| have + cosa + participio | I'd like to have my hair cut. (71) | farmi tagliare i capelli |
+| presente continuo | I'm having my photo taken. (71) | mi faccio fare una foto |
+| passato | Did you have it done here last time? (71) | se l'è fatto fare qui |
+| oggi | I'm having the kitchen painted. (77) | faccio dipingere la cucina |
+
+Chi fa il lavoro di solito non si dice; se serve, si aggiunge by. Nel parlato si può usare anche get: I got my hair cut, un po' più informale. Lo stesso schema dice una cosa subita: I had my wallet stolen, "mi hanno rubato il portafoglio" (wallet, lezione 57). Il contrario è farlo da sé: I cut my hair, I did it myself.
+4. Myself e gli altri pronomi in -self (lezione 71). Si formano con my, your, our e con him, her, them, e al plurale diventano -selves.
+
+| Persona | Pronome | Esempio |
+|---|---|---|
+| I | myself | I washed it myself. (71) |
+| you | yourself | Yourself? (77) |
+| he, she, it | himself, herself, itself | He did it himself. |
+| we | ourselves | We painted it ourselves. |
+| you (plurale) | yourselves | Help yourselves! |
+| they | themselves | They did it themselves. |
+
+Questi pronomi dicono "io stesso, da solo": I did it myself, "l'ho fatto io". Per dire "senza aiuto" si dice by myself: I painted it by myself, "l'ho dipinto da solo". Per i gesti di tutti i giorni l'inglese di solito non usa il pronome: I wash, we get dressed (73), "mi lavo, ci vestiamo".
+5. Get (lezioni 16, 73, 75). Get ha molti sensi: la parola che segue li distingue.
+
+| Get + | Senso | Esempio |
+|---|---|---|
+| up | alzarsi | Is it time to get up already? (73) |
+| un nome | prendere | We get the bus. Why don't we get a taxi? (73) |
+| there, home, to | arrivare | But I got there. (73) |
+| un participio | un'azione che cambia le cose | get married, get lost, get dressed (73) |
+| un aggettivo | diventare | We're getting old. (73) |
+| on my nerves | dare ai nervi | You're getting on my nerves. (73) |
+| used to + -ing | abituarsi | You'll get used to it. (75) |
+
+Il passato è got, e il participio nell'inglese britannico è got: get - got - got (got, lezione 8). Negli Stati Uniti si dice gotten. Have got (lezione 8) è un altro uso di got: vuol dire "avere".
+6. Used to, be used to, get used to (lezioni 46, 75). Sono tre forme, e il to della seconda e della terza è una preposizione.
+
+| Forma | Dopo | Senso | Esempio |
+|---|---|---|---|
+| used to | verbo base | una volta facevo | I used to paint every weekend. (77) |
+| didn't use to | verbo base | una volta non facevo | You didn't use to like football. (46) |
+| be used to | nome o -ing | sono abituato | I'm used to painting. (77) |
+| get used to | nome o -ing | mi abituo | You'll get used to it. (75) |
+
+Se puoi mettere eating o the food dopo to, sei nel secondo o nel terzo caso; se dopo c'è un verbo base, è used to del passato. Used to non esiste per il presente: per il presente si dice I usually paint (16).
+7. Le parole che legano (lezione 76 e precedenti). Dopo although, even though e though la frase ha il suo verbo; dopo despite e in spite of ci vuole un nome o un -ing; however comincia una frase nuova.
+
+| Parola | Dopo | Esempio |
+|---|---|---|
+| although, though, even though | frase con il verbo | Although it was raining, we went. (76) |
+| despite, in spite of | nome o -ing | Despite the score, the singing never stopped. (76) |
+| however | frase nuova, con la virgola | However, nobody went home early. (76) |
+| but | frase | It was cold, but nobody went home. |
+
+Con although non si mette but: Although it was raining, we went. L'italiano dice "benché piovesse" con il congiuntivo; l'inglese usa l'indicativo. Even though dice un fatto, even if una possibilità: I'll go even if it rains. Despite non ha of, in spite of sì: mai "despite of". Il dialogo di oggi ha although e however.
+8. I participi della settimana (lezioni 71-76).
+
+| Verbo | Passato | Participio |
+|---|---|---|
+| cut | cut | cut (71) |
+| take | took (74) | taken (62) |
+| sing | sang (76) | sung |
+| meet | met (74) | met |
+| know | knew | known (74) |
+| get | got | got (73) |
+| lose | lost | lost (76) |
+| hurt | hurt | hurt (77) |
+| fall | fell | fallen |
+
+Cut, met, lost, got e hurt hanno passato e participio uguali. Take, sing, know e fall hanno tre forme diverse: per ora basta riconoscerle.
+
+Le condizionali, get e used to cominciano a funzionare insieme. Il resto lo fa il tempo.

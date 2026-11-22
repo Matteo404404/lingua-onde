@@ -72,7 +72,8 @@ and the sentence in the target language. Indented lines under it give:
   `pron.en`, `pron.es`): the sentence spelled as that reader would read it
   aloud, following `content/<lang>/pronunciation.md`. Built-in Foundation
   courses give the whole line on every dialogue line of lessons 1–28, then
-  only the line's new words ("… *sè*tëdei …"). The stressed syllable goes
+  only the line's new words ("… *sè*tëdei …"), each figured once, where it
+  first appears in the lesson. The stressed syllable goes
   between asterisks and the app prints it in bold, as the Assimil books do;
   `*...*` is bold in notes too. The app shows the learner's one.
 - `refs: 1 3` (revision dialogue) the earlier lessons the line's words come

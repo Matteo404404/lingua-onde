@@ -159,8 +159,14 @@ time, Home offers the last dialogue to listen to and repeat.
 - Voices: Settings and voices, "Download" fetches the free offline Piper
   engine (about 25 MB, once) and one voice per language (about 60 MB). Latin
   is read by the Italian voice with Latin pronunciation rules.
-- Playback uses `mpv` (pause, rewind 5 s and position on Linux and macOS).
-  On Windows, `mpv` plays and stops. `ffplay` and `afplay` play without pause.
+- The voices need nothing installed: they play through the system's own
+  player (Windows' sound player, `afplay` on macOS, PipeWire, PulseAudio or
+  ALSA on Linux), and their speed, slower in Foundation's first lessons, is
+  made by the voice engine itself. `mpv`, if present, is used first: it adds
+  pause, rewind 5 s and position (Linux and macOS) and plays your own MP3
+  recordings; `ffplay` also plays them, without pause.
+- Before a release, the "Check platforms" workflow (run by hand in GitHub
+  Actions) downloads the voices and speaks on Linux, Windows and macOS.
 
 ## Your material
 

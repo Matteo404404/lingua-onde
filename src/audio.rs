@@ -1,6 +1,10 @@
 //! Sound: plays recordings with mpv (pause, rewind and position over its IPC
-//! socket), and speaks text with downloaded Piper voices.
+//! socket), else with a player the system already has, and speaks text with
+//! downloaded Piper voices. Nothing has to be installed: Windows plays the
+//! voices with its own sound player, Linux desktops with PipeWire, PulseAudio
+//! or ALSA, macOS with afplay.
 
+use std::cell::Cell;
 use std::collections::{BTreeMap, HashMap};
 use std::io::{BufRead, BufReader, Write};
 use std::path::{Path, PathBuf};
@@ -12,6 +16,20 @@ use std::time::{Duration, Instant};
 use eframe::egui;
 
 use crate::model::lang;
+
+/// A command for a helper program that opens no console window on Windows
+/// (the app is a window program; every child would otherwise flash one).
+pub fn command(program: impl AsRef<std::ffi::OsStr>) -> Command {
+    #[allow(unused_mut)]
+    let mut c = Command::new(program);
+    #[cfg(windows)]
+    {
+        use std::os::windows::process::CommandExt;
+        const CREATE_NO_WINDOW: u32 = 0x0800_0000;
+        c.creation_flags(CREATE_NO_WINDOW);
+    }
+    c
+}
 
 /// A program on the PATH, or next to this app (so `mpv.exe` can simply be
 /// dropped beside the app on Windows).
@@ -56,14 +74,17 @@ impl Default for Player {
 
 impl Player {
     pub fn available() -> bool {
-        find_program("mpv").is_some() || find_program("ffplay").is_some() || find_program("afplay").is_some()
+        cfg!(windows)
+            || ["mpv", "ffplay", "afplay", "pw-play", "paplay", "aplay"]
+                .iter()
+                .any(|p| find_program(p).is_some())
     }
 
     pub fn play(&mut self, file: &Path, speed: f32) -> Result<(), String> {
         self.stop();
         let speed = speed.clamp(0.5, 2.0);
         let (mut cmd, controllable) = if let Some(mpv) = find_program("mpv") {
-            let mut c = Command::new(mpv);
+            let mut c = command(mpv);
             c.args([
                 "--no-video",
                 "--no-terminal",
@@ -80,18 +101,22 @@ impl Player {
             .arg(file);
             (c, cfg!(unix))
         } else if let Some(ffplay) = find_program("ffplay") {
-            let mut c = Command::new(ffplay);
+            let mut c = command(ffplay);
             c.args(["-nodisp", "-autoexit", "-loglevel", "quiet"])
                 .arg("-af")
                 .arg(format!("atempo={speed:.2}"))
                 .arg(file);
             (c, false)
         } else if let Some(afplay) = find_program("afplay") {
-            let mut c = Command::new(afplay);
+            let mut c = command(afplay);
             c.arg("-r").arg(format!("{speed:.2}")).arg(file);
             (c, false)
+        } else if let Some(c) = system_player(file) {
+            // Voices are WAV files, which these players all read; the voice's
+            // speed is set when it is made, so they need no speed control.
+            (c, false)
         } else {
-            return Err("No audio player found. Install mpv to hear recordings and voices.".into());
+            return Err("No audio player found. Install mpv to hear your own recordings.".into());
         };
         cmd.stdin(Stdio::null()).stdout(Stdio::null()).stderr(Stdio::null());
         let child = cmd.spawn().map_err(|e| format!("could not start the audio player: {e}"))?;
@@ -191,6 +216,30 @@ impl Drop for Player {
 const AUDIO_EXT: [&str; 8] = ["mp3", "ogg", "opus", "m4a", "aac", "wav", "flac", "wma"];
 
 /// The last number in a file name: "Leccion 12.mp3" → 12, "L012.mp3" → 12.
+/// The player every system already has, for WAV files: Windows' own sound
+/// player through PowerShell, else PipeWire, PulseAudio or ALSA on Linux.
+fn system_player(file: &Path) -> Option<Command> {
+    if cfg!(windows) {
+        let wav = file.extension().is_some_and(|e| e.eq_ignore_ascii_case("wav"));
+        if !wav {
+            return None;
+        }
+        let path = file.display().to_string().replace('\'', "''");
+        let mut c = command("powershell");
+        c.args(["-NoProfile", "-NonInteractive", "-Command"])
+            .arg(format!("(New-Object Media.SoundPlayer '{path}').PlaySync()"));
+        return Some(c);
+    }
+    ["pw-play", "paplay", "aplay"].iter().find_map(|p| {
+        let mut c = command(find_program(p)?);
+        if *p == "aplay" {
+            c.arg("-q");
+        }
+        c.arg(file);
+        Some(c)
+    })
+}
+
 fn last_number(stem: &str) -> Option<u32> {
     let mut last = None;
     let mut cur = String::new();
@@ -262,6 +311,8 @@ struct Job {
     lang: String,
     text: String,
     out: PathBuf,
+    /// Speaking speed, 1.0 natural; the engine's length scale is its inverse.
+    speed: f32,
 }
 
 pub struct Voices {
@@ -269,6 +320,9 @@ pub struct Voices {
     /// Per language: what the download is doing ("" = idle).
     pub status: Arc<Mutex<BTreeMap<String, String>>>,
     jobs: Sender<Job>,
+    /// The speed new speech is made at (the learner's setting, slower in the
+    /// first lessons), in steps of 0.05 so a lesson reuses its files.
+    speed: Cell<f32>,
 }
 
 impl Voices {
@@ -280,11 +334,17 @@ impl Voices {
             dir,
             status: Arc::default(),
             jobs: tx,
+            speed: Cell::new(1.0),
         }
     }
 
     fn piper_bin(dir: &Path) -> PathBuf {
         dir.join("piper").join(if cfg!(windows) { "piper.exe" } else { "piper" })
+    }
+
+    /// Speech made from now on is spoken at `speed` (1.0 natural).
+    pub fn set_speed(&self, speed: f32) {
+        self.speed.set(((speed.clamp(0.5, 2.0) * 20.0).round() / 20.0).max(0.5));
     }
 
     pub fn engine_ready(&self) -> bool {
@@ -346,7 +406,7 @@ impl Voices {
 
 fn curl(url: &str, to: &Path) -> Result<(), String> {
     let curl = find_program("curl").ok_or("curl is needed to download voices")?;
-    let ok = Command::new(curl)
+    let ok = command(curl)
         .args(["-L", "--fail", "--silent", "--show-error", "-o"])
         .arg(to)
         .arg(url)
@@ -371,7 +431,7 @@ fn download_voice(dir: &Path, code: &str, set: &dyn Fn(&str)) -> Result<(), Stri
         let url = engine_url().ok_or("no voice engine is published for this computer")?;
         curl(&url, &part)?;
         let tar = find_program("tar").ok_or("tar is needed to unpack the voice engine")?;
-        let out = Command::new(tar)
+        let out = command(tar)
             .arg("-xf")
             .arg(&part)
             .arg("-C")
@@ -417,7 +477,12 @@ impl Voices {
     /// Where the spoken form of `text` is (or will be) cached.
     pub fn speech_file(&self, code: &str, text: &str) -> Option<PathBuf> {
         let (model, config) = Self::files(&self.dir, code)?;
-        let key = format!("{}|{}|{}", model.display(), config.display(), text);
+        let speed = self.speed.get();
+        let key = if (speed - 1.0).abs() < 0.01 {
+            format!("{}|{}|{}", model.display(), config.display(), text)
+        } else {
+            format!("{}|{}|{}|{speed:.2}", model.display(), config.display(), text)
+        };
         Some(self.dir.join("cache").join(format!("{:016x}.wav", fnv(&key))))
     }
 
@@ -437,6 +502,7 @@ impl Voices {
                         lang: code.to_string(),
                         text: t,
                         out,
+                        speed: self.speed.get(),
                     });
                 }
             }
@@ -446,21 +512,29 @@ impl Voices {
 
 /// One long-running piper per language, fed one JSON line per sentence.
 fn speech_worker(dir: PathBuf, rx: Receiver<Job>, ctx: egui::Context) {
-    let mut engines: HashMap<String, (Child, ChildStdin, BufReader<ChildStdout>)> = HashMap::new();
+    // One engine per language, started again when the speed changes.
+    let mut engines: HashMap<String, (Child, ChildStdin, BufReader<ChildStdout>, f32)> = HashMap::new();
     let _ = std::fs::create_dir_all(dir.join("cache"));
     while let Ok(job) = rx.recv() {
         if job.out.is_file() {
             continue;
         }
+        if engines.get(&job.lang).is_some_and(|e| (e.3 - job.speed).abs() > 0.001) {
+            if let Some((mut child, ..)) = engines.remove(&job.lang) {
+                let _ = child.kill();
+            }
+        }
         if !engines.contains_key(&job.lang) {
             let Some((model, config)) = Voices::files(&dir, &job.lang) else {
                 continue;
             };
-            let spawned = Command::new(Voices::piper_bin(&dir))
+            let spawned = command(Voices::piper_bin(&dir))
                 .arg("--model")
                 .arg(&model)
                 .arg("--config")
                 .arg(&config)
+                .arg("--length_scale")
+                .arg(format!("{:.3}", 1.0 / job.speed))
                 .args(["--json-input", "--quiet"])
                 .stdin(Stdio::piped())
                 .stdout(Stdio::piped())
@@ -470,9 +544,9 @@ fn speech_worker(dir: PathBuf, rx: Receiver<Job>, ctx: egui::Context) {
             let (Some(stdin), Some(stdout)) = (child.stdin.take(), child.stdout.take()) else {
                 continue;
             };
-            engines.insert(job.lang.clone(), (child, stdin, BufReader::new(stdout)));
+            engines.insert(job.lang.clone(), (child, stdin, BufReader::new(stdout), job.speed));
         }
-        let (_, stdin, stdout) = engines.get_mut(&job.lang).expect("inserted above");
+        let (_, stdin, stdout, _) = engines.get_mut(&job.lang).expect("inserted above");
         let tmp = job.out.with_extension("part.wav");
         let line = serde_json::json!({ "text": job.text, "output_file": tmp }).to_string();
         let mut reply = String::new();
@@ -480,7 +554,7 @@ fn speech_worker(dir: PathBuf, rx: Receiver<Job>, ctx: egui::Context) {
         if ok && tmp.is_file() {
             let _ = std::fs::rename(&tmp, &job.out);
             ctx.request_repaint();
-        } else if let Some((mut child, _, _)) = engines.remove(&job.lang) {
+        } else if let Some((mut child, ..)) = engines.remove(&job.lang) {
             let _ = child.kill();
         }
     }
@@ -497,18 +571,43 @@ mod tests {
     fn voice_download_and_speech() {
         let dir = std::env::temp_dir().join("lingua-onde-voice-test");
         let v = Voices::new(dir.clone(), egui::Context::default());
-        for code in ["es", "la"] {
-            download_voice(&dir, code, &|s| eprintln!("{code}: {s}")).unwrap();
-            assert!(v.ready(code), "{code} not ready");
-            let text = if code == "la" { "Salve, amice." } else { "Hola, ¿qué tal?" };
+        let speak = |code: &str, text: &str| {
             let out = v.speech_file(code, text).unwrap();
             let _ = std::fs::remove_file(&out);
             v.prepare(code, &[text.to_string()]);
             let start = Instant::now();
-            while !out.is_file() && start.elapsed() < Duration::from_secs(30) {
+            while !out.is_file() && start.elapsed() < Duration::from_secs(60) {
                 std::thread::sleep(Duration::from_millis(100));
             }
-            assert!(std::fs::metadata(&out).unwrap().len() > 10_000, "{code}: no speech written");
+            let len = std::fs::metadata(&out).map(|m| m.len()).unwrap_or(0);
+            assert!(len > 10_000, "{code}: no speech written");
+            (out, len)
+        };
+        for code in ["en", "es", "la"] {
+            download_voice(&dir, code, &|s| eprintln!("{code}: {s}")).unwrap();
+            assert!(v.ready(code), "{code} not ready");
+            let text = match code {
+                "la" => "Salve, amice.",
+                "es" => "Hola, ¿qué tal?",
+                _ => "Hello, my name is Marco.",
+            };
+            speak(code, text);
+        }
+        // The voice's speed is made by the engine: slower speech is longer.
+        v.set_speed(1.0);
+        let (_, natural) = speak("en", "A cup of tea, please.");
+        v.set_speed(0.85);
+        let (slow, slower) = speak("en", "A cup of tea, please.");
+        assert!(slower > natural, "speed 0.85 is not slower ({slower} vs {natural} bytes)");
+        // The system's own player starts on the file (a test machine may have
+        // no sound card, so only the start is required).
+        if find_program("mpv").is_none() && find_program("afplay").is_none() {
+            // Windows always has one; a Linux server may have none.
+            match system_player(&slow) {
+                Some(mut c) => eprintln!("system player exit: {}", c.status().expect("the system player starts")),
+                None if cfg!(windows) => panic!("no system player on Windows"),
+                None => eprintln!("no system player on this machine"),
+            }
         }
     }
 

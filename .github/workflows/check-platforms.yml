@@ -1,0 +1,24 @@
+# Run by hand (Actions, "Check platforms", Run workflow) before a release:
+# on Linux, Windows and macOS it builds the app, downloads the voice engine
+# and three voices, speaks at two speeds, and starts the system's own player.
+# Release builds stay in release.yml.
+name: Check platforms
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-22.04, windows-latest, macos-15]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@stable
+      - name: Voices and sound
+        run: cargo test --release --locked -- --ignored voice_download_and_speech --nocapture

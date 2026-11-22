@@ -297,14 +297,20 @@ impl App {
     /// Foundation's first lessons (85% at lesson 1) and natural from lesson 50,
     /// as the books' recordings are. Real recordings keep their own pace.
     pub fn voice_speed(&self) -> f32 {
-        let lesson = self
-            .session
-            .as_ref()
-            .filter(|_| self.saved.gradual_pace && self.screen == Screen::Study)
-            .and_then(|s| {
-                let c = self.courses.get(s.course)?;
-                (c.builtin && c.stage == Some(Stage::Foundation)).then(|| c.lessons.get(s.lesson).map(|l| l.number))?
-            });
+        match self.session.as_ref().filter(|_| self.screen == Screen::Study) {
+            Some(s) => self.voice_speed_at(s.course, s.lesson),
+            None => self.saved.speed,
+        }
+    }
+
+    /// The voice's speed while studying lesson `li` of course `ci`.
+    pub fn voice_speed_at(&self, ci: usize, li: usize) -> f32 {
+        let c = &self.courses[ci];
+        let lesson = c
+            .lessons
+            .get(li)
+            .filter(|_| self.saved.gradual_pace && c.builtin && c.stage == Some(Stage::Foundation))
+            .map(|l| l.number);
         match lesson {
             Some(n) => self.saved.speed * (0.85 + 0.15 * (n.clamp(1, 50) - 1) as f32 / 49.0),
             None => self.saved.speed,
@@ -1600,8 +1606,11 @@ impl App {
                     .changed();
             });
             row(ui, "Audio player", "", &mut |ui| {
-                if Player::available() {
-                    theme::pill(ui, "mpv found ✔", GOOD, GOOD_SOFT);
+                if crate::audio::find_program("mpv").is_some() {
+                    theme::pill(ui, "mpv ✔", GOOD, GOOD_SOFT);
+                } else if Player::available() {
+                    theme::pill(ui, "System player ✔", GOOD, GOOD_SOFT);
+                    ui.label(muted("mpv adds pause and rewind, and plays your own MP3 recordings").size(13.0));
                 } else {
                     ui.label(RichText::new("No player found: install mpv to hear audio").color(BAD));
                 }

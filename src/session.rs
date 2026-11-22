@@ -243,6 +243,7 @@ impl App {
             speak.extend(texts(&c.lessons[j].dialogue));
         }
         speak.extend(wave_text.into_iter().flatten());
+        self.voices.set_speed(self.voice_speed_at(ci, li));
         self.voices.prepare(&lang, &speak);
 
         self.session = Some(Session {
@@ -385,7 +386,7 @@ impl App {
 
     pub fn drive_audio(&mut self, ctx: &egui::Context) {
         let mut error = None;
-        let speed = self.voice_speed();
+        self.voices.set_speed(self.voice_speed());
         if let Some(seq) = self.seq.as_mut() {
             let now = Instant::now();
             match seq.phase {
@@ -399,7 +400,7 @@ impl App {
                         seq.phase = Phase::Stopped;
                     } else if let Some(file) = self.voices.speech_file(&lang, &text) {
                         if file.is_file() {
-                            match self.player.play(&file, speed) {
+                            match self.player.play(&file, 1.0) {
                                 Ok(()) => seq.phase = Phase::Play(now),
                                 Err(e) => {
                                     error = Some(e);

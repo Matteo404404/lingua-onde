@@ -45,8 +45,9 @@ curl -fsSL https://raw.githubusercontent.com/Matteo404404/lingua-onde/main/packa
 The same command updates the app. To remove it and keep your progress:
 `curl -fsSL https://raw.githubusercontent.com/Matteo404404/lingua-onde/main/packaging/install.sh | sh -s -- --uninstall`.
 
-For sound, install `mpv` (`sudo apt install mpv`, `sudo dnf install mpv` or
-`sudo pacman -S mpv`). The window uses the graphics libraries that come with
+Sound works out of the box (PipeWire, PulseAudio or ALSA). Installing `mpv`
+(`sudo apt install mpv`, `sudo dnf install mpv` or `sudo pacman -S mpv`) adds
+pause and rewind and plays your own MP3 recordings. The window uses the graphics libraries that come with
 a normal desktop (Vulkan, Wayland or X11). The installer names anything that
 is missing. On Ubuntu that is usually
 `sudo apt install mesa-vulkan-drivers libxkbcommon0 libwayland-client0 libx11-6`.
@@ -54,10 +55,10 @@ is missing. On Ubuntu that is usually
 **Windows** (10 or newer). Download `lingua-onde-windows-x86_64.exe` from
 [Releases](https://github.com/Matteo404404/lingua-onde/releases/latest) and
 double-click it. If Windows warns about an unknown app, choose "More info",
-then "Run anyway". For sound, download the Windows build from
+then "Run anyway". The voices play out of the box through Windows' own sound
+player. To play your own MP3 recordings, download the Windows build from
 https://mpv.io/installation/ and unzip it so `mpv.exe` and the other files
-from that zip sit in the same folder as the app. Playback works. Pause and
-rewind work on Linux and macOS.
+from that zip sit in the same folder as the app.
 
 **macOS (Apple silicon, macOS 11 or newer).** Download
 `lingua-onde-macos-arm64.zip` from
@@ -70,9 +71,9 @@ it and choose Open. If macOS still blocks it, open System Settings, Privacy
 ## Build from source
 
 You need Rust 1.95 or newer (`edition = "2024"`). Install the current stable
-toolchain from https://rustup.rs if `cargo` is missing. Audio with pause and
-rewind needs `mpv`. `ffplay` plays too, without those controls. The first
-voice download also uses `curl` and `tar`.
+toolchain from https://rustup.rs if `cargo` is missing. The voices play
+through the system's own player; `mpv`, if installed, adds pause and rewind.
+The first voice download uses `curl` and `tar`.
 
 ```
 git clone https://github.com/Matteo404404/lingua-onde
@@ -97,13 +98,14 @@ git push origin v1.0.0
 That runs `.github/workflows/release.yml`. The Linux build runs the tests
 first. The release page gets the three downloads after all three builds
 finish. "Run workflow" on the Actions tab builds the same files without
-publishing them, which is how you check Windows and macOS before the tag.
+publishing them. "Check platforms" (also run by hand) downloads the voices
+and speaks on Linux, Windows and macOS: run it before the tag.
 
 Progress is stored in `~/.local/share/lingua-onde/` (progress, your own
 courses, downloaded voices). `LINGUA_ONDE_HOME` overrides that folder.
 
 `--screenshot <file.png>` opens the window without focus, draws about 120
-frames, saves a picture and exits. `--open home|courses|settings|guide|study[:step]|editor[:lesson]|review[:tab[:search]]`
+frames, saves a picture and exits. `--open home|courses|settings|guide|study[:step]|editor[:lesson]|review[:tab[:search]]|appendix[:tab]`
 opens one screen directly (`guide` is the pronunciation guide), and `--size 950x520` sets the window size (a
 narrow window shows the icon-only side bar). `--check <file>...` checks
 lesson files against the built-in rules and prints what is missing.
@@ -186,7 +188,8 @@ format is in `content/FORMAT.md`.
 - `content/<lang>/<course>-<level>.txt` the built-in courses
   (`es/foundation-a1.txt` … `es/mastery-c2.txt`; the list is `BUILTIN` in
   `src/store.rs`), and `content/<lang>/pronunciation.md` the figured
-  pronunciation key where one exists. `content/FORMAT.md` is the file format,
+  pronunciation key where one exists, `content/<lang>/appendix-<stage>.<base>.txt`
+  a course's appendix (`src/appendix.rs`, "The book" in the app). `content/FORMAT.md` is the file format,
   `METHOD.md` the method.
 - `progress.json` in the data folder: the learner's progress, keyed by course
   id and lesson number, so updates that add lessons, courses or languages
@@ -195,7 +198,8 @@ format is in `content/FORMAT.md`.
   aside as `progress.unreadable-<time>.json`, never overwritten. Files from
   v1.0.0 (one 300-lesson course per language) are converted on load.
 - `packaging/` the launcher entry, icon and `install.sh`; `.github/workflows/release.yml`
-  builds the downloads.
+  builds the downloads, `.github/workflows/check-platforms.yml` checks the
+  voices and sound on each system.
 - `assets/NotoSans-*.ttf` is Noto Sans (Regular, Medium, Bold), under the SIL
   Open Font License in `assets/NotoSans-OFL.txt`. The app license does not
   replace that font license.
@@ -205,8 +209,8 @@ format is in `content/FORMAT.md`.
 `cargo test` checks the lesson format, every built-in course (complete in
 Italian, English and Spanish, numbered inside its level's range, pinyin and
 Latin vowel lengths where due), answer checking and the review schedule.
-With network, mpv, and a muted mpv config
-(`MPV_HOME` with `ao=null`):
+With network (and, for the listening test, mpv with a muted config:
+`MPV_HOME` with `ao=null`):
 
 ```
 cargo test -- --ignored

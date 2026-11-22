@@ -63,8 +63,9 @@ command -v update-desktop-database >/dev/null && update-desktop-database -q "$(d
 command -v gtk-update-icon-cache >/dev/null && gtk-update-icon-cache -q -t "$HOME/.local/share/icons/hicolor" || true
 
 echo "Installed. Open \"Lingua Onde\" from your app menu, or run $bin"
-if ! command -v mpv >/dev/null; then
-    echo "For sound, install mpv with your package manager, for example:"
+# the voices play through PipeWire, PulseAudio or ALSA; mpv only adds pause and rewind
+if ! command -v mpv >/dev/null && ! command -v pw-play >/dev/null && ! command -v paplay >/dev/null && ! command -v aplay >/dev/null; then
+    echo "No sound player found. Install mpv with your package manager, for example:"
     echo "  sudo apt install mpv    (Ubuntu, Debian, Mint)"
     echo "  sudo dnf install mpv    (Fedora)"
     echo "  sudo pacman -S mpv      (Arch)"

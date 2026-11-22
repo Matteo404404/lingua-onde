@@ -137,6 +137,11 @@ pub struct AppendixState {
     pub all: bool,
 }
 
+/// The grammar index has no second column.
+fn r_empty(rows: &[(String, String, Vec<u32>)]) -> bool {
+    rows.iter().all(|(_, r, _)| r.is_empty())
+}
+
 impl App {
     /// The appendix of the active course for the reader's language.
     pub fn appendix(&self) -> Option<&Appendix> {
@@ -216,12 +221,17 @@ impl App {
                     .font(egui::FontId::proportional(16.0)),
             );
             if st.tab == 4 {
+                let mine = lang_name(&base, &base);
                 let dir = if st.reverse {
-                    format!("Your language → {lang}")
+                    format!("{mine} → {lang}")
                 } else {
-                    format!("{lang} → your language")
+                    format!("{lang} → {mine}")
                 };
-                if ui.add(theme::ghost(format!("⇄  {dir}"))).clicked() {
+                if ui
+                    .add(theme::ghost(dir))
+                    .on_hover_text("Change the direction of the list")
+                    .clicked()
+                {
                     st.reverse = !st.reverse;
                 }
             }
@@ -269,30 +279,56 @@ impl App {
                 .map(|l| l.title.clone())
                 .unwrap_or_default()
         };
+        // Three columns of fixed shares, so long words wrap inside their column
+        // and the lesson numbers wrap as whole pills.
         theme::card().inner_margin(egui::Margin::symmetric(14, 10)).show(ui, |ui| {
             ui.set_width(ui.available_width());
-            egui::Grid::new(("appendix", self.appendix_ui.tab))
-                .num_columns(3)
-                .spacing([18.0, 6.0])
-                .striped(true)
-                .show(ui, |ui| {
-                    for (l, r, ls) in &rows {
-                        ui.label(bold(l).size(15.5));
-                        ui.label(RichText::new(r).size(15.5));
-                        ui.horizontal_wrapped(|ui| {
-                            ui.spacing_mut().item_spacing.x = 4.0;
-                            for &n in ls {
-                                let (fg, bg) = if studied(n) {
-                                    (ACCENT, ACCENT_SOFT)
-                                } else {
-                                    (MUTED, egui::Color32::TRANSPARENT)
-                                };
-                                theme::pill(ui, &n.to_string(), fg, bg).on_hover_text(format!("Lesson {n} · {}", title(n)));
+            let w = ui.available_width();
+            let gap = 14.0;
+            let (left, mid) = if r_empty(&rows) { (w * 0.55, 0.0) } else { (w * 0.3, w * 0.36) };
+            let right = (w - left - mid - 2.0 * gap).max(80.0);
+            for (i, (l, r, ls)) in rows.iter().enumerate() {
+                let fill = if i % 2 == 1 { theme::TRACK } else { egui::Color32::TRANSPARENT };
+                egui::Frame::new()
+                    .fill(fill)
+                    .corner_radius(6)
+                    .inner_margin(egui::Margin::symmetric(6, 4))
+                    .show(ui, |ui| {
+                        ui.horizontal_top(|ui| {
+                            ui.spacing_mut().item_spacing.x = gap;
+                            ui.allocate_ui(egui::vec2(left - 6.0, 0.0), |ui| {
+                                ui.set_width(left - 6.0);
+                                ui.add(egui::Label::new(bold(l).size(15.5)).wrap());
+                            });
+                            if mid > 0.0 {
+                                ui.allocate_ui(egui::vec2(mid, 0.0), |ui| {
+                                    ui.set_width(mid);
+                                    ui.add(egui::Label::new(RichText::new(r).size(15.5)).wrap());
+                                });
                             }
+                            ui.allocate_ui(egui::vec2(right - 6.0, 0.0), |ui| {
+                                ui.set_width(right - 6.0);
+                                // Pills in lines that fit the column (a pill is about 44 px).
+                                let per_line = ((right - 6.0) / 46.0).floor().max(1.0) as usize;
+                                ui.vertical(|ui| {
+                                    for chunk in ls.chunks(per_line) {
+                                        ui.horizontal(|ui| {
+                                            ui.spacing_mut().item_spacing.x = 4.0;
+                                            for &n in chunk {
+                                                let (fg, bg) = if studied(n) {
+                                                    (ACCENT, ACCENT_SOFT)
+                                                } else {
+                                                    (MUTED, egui::Color32::TRANSPARENT)
+                                                };
+                                                theme::pill(ui, &n.to_string(), fg, bg).on_hover_text(format!("Lesson {n} · {}", title(n)));
+                                            }
+                                        });
+                                    }
+                                });
+                            });
                         });
-                        ui.end_row();
-                    }
-                });
+                    });
+            }
         });
     }
 }

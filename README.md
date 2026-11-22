@@ -14,7 +14,8 @@ lessons). The built-in courses are original lessons written for this app
 with pinyin, Latin with vowel lengths, and Vietnamese). They are being written
 one pair of languages at a time: English for Italian speakers first
 (Foundation is complete: 100 lessons with translations and notes in Italian,
-an introduction, and the active wave through lesson 100),
+an introduction, and an appendix with the grammar, a grammar index, the words
+both ways and the expressions),
 then Spanish for Italian speakers (its first week, lessons 1–7, is rewritten
 for them). The other languages except Dutch have 13 sample lessons (lessons
 1–8, 26, 51 and 76 of Foundation, one lesson each of Perfectionnement and

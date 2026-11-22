@@ -425,7 +425,7 @@ pub const LANGS: &[LangInfo] = &[
         italian: "Inglese",
         native: "English",
         color: Color32::from_rgb(40, 70, 140),
-        voice: ("en/en_US/lessac/medium/en_US-lessac-medium", None),
+        voice: ("en/en_GB/cori/medium/en_GB-cori-medium", None),
     },
 ];
 

@@ -1,0 +1,166 @@
+course: zh
+stage: perfectionnement
+
+== 46 C1
+title: 中意青年翻译大赛在京颁奖
+title.it: Pechino, assegnati i premi del concorso italo-cinese per giovani traduttori
+title.en: Sino-Italian youth translation prize awarded in Beijing
+title.es: Entregados en Pekín los premios del concurso chino-italiano de jóvenes traductores
+
+dialogue:
+- 第五届中意青年翻译大赛颁奖典礼日前在京举行，来自两国三十余所高校的百余名选手参加了本届比赛。
+  pron: Dì-wǔ jiè Zhōng-Yì Qīngnián Fānyì Dàsài bānjiǎng diǎnlǐ rìqián zài Jīng jǔxíng, láizì liǎng guó sānshí yú suǒ gāoxiào de bǎi yú míng xuǎnshǒu cānjiāle běn jiè bǐsài.
+  it: Si è svolta nei giorni scorsi a Pechino la cerimonia di premiazione della quinta edizione del Concorso italo-cinese di traduzione per giovani, a cui hanno preso parte oltre cento concorrenti di più di trenta università dei due paesi.
+  en: The award ceremony of the fifth Sino-Italian Youth Translation Competition was held in Beijing recently; more than a hundred contestants from over thirty universities in the two countries took part.
+  es: Se celebró recientemente en Pekín la ceremonia de entrega de premios de la quinta edición del Concurso Chino-Italiano de Traducción para Jóvenes, en la que participaron más de cien concursantes de más de treinta universidades de los dos países.
+- 大赛由两国多家文化机构联合主办，旨在促进青年一代的语言交流与文化互鉴。
+  pron: Dàsài yóu liǎng guó duō jiā wénhuà jīgòu liánhé zhǔbàn, zhǐzài cùjìn qīngnián yí dài de yǔyán jiāoliú yǔ wénhuà hùjiàn.
+  it: Il concorso, organizzato congiuntamente da diverse istituzioni culturali dei due paesi, si propone di favorire lo scambio linguistico e l'arricchimento culturale reciproco tra le giovani generazioni.
+  en: Jointly organised by several cultural institutions of the two countries, the competition aims to foster linguistic exchange and mutual cultural learning among the younger generation.
+  es: El concurso, organizado conjuntamente por diversas instituciones culturales de ambos países, tiene como objetivo fomentar el intercambio lingüístico y el enriquecimiento cultural mutuo entre las nuevas generaciones.
+- 经过初赛、复赛两轮角逐，意大利籍留学生马可凭借一篇散文译作脱颖而出，荣获一等奖。
+  pron: Jīngguò chūsài, fùsài liǎng lún juézhú, Yìdàlì jí liúxuéshēng Mǎkě píngjiè yì piān sǎnwén yìzuò tuōyǐng'érchū, rónghuò yī děng jiǎng.
+  it: Dopo due fasi di selezione, eliminatorie e semifinali, lo studente italiano Marco si è imposto con la traduzione di una prosa d'autore e si è aggiudicato il primo premio.
+  en: After two rounds, the preliminaries and the semi-finals, the Italian student Marco stood out with his translation of a prose essay and won first prize.
+  es: Tras dos fases, la eliminatoria y la semifinal, el estudiante italiano Marco se impuso con la traducción de un ensayo en prosa y obtuvo el primer premio.
+- 评委会认为，该译作忠实于原文，语言流畅自然，较好地再现了原作的意境。
+  pron: Píngwěihuì rènwéi, gāi yìzuò zhōngshí yú yuánwén, yǔyán liúchàng zìrán, jiào hǎo de zàixiànle yuánzuò de yìjìng.
+  it: Secondo la giuria, la traduzione è fedele al testo di partenza, scorrevole e naturale, e restituisce efficacemente l'atmosfera evocata dall'originale.
+  en: In the jury's view, the translation is faithful to the source text, fluent and natural, and successfully recreates the mood of the original.
+  es: Según el jurado, la traducción es fiel al texto original, fluida y natural, y recrea con acierto la atmósfera de la obra.
+- 马可在接受采访时表示，他来华学习汉语已逾四年，此次获奖实属意外。
+  pron: Mǎkě zài jiēshòu cǎifǎng shí biǎoshì, tā lái Huá xuéxí Hànyǔ yǐ yú sì nián, cǐ cì huòjiǎng shí shǔ yìwài.
+  it: Intervistato, Marco ha dichiarato di studiare cinese in Cina da oltre quattro anni e di non aspettarsi affatto il riconoscimento.
+  en: Interviewed afterwards, Marco said he had been studying Chinese in China for over four years and that the award came as a complete surprise.
+  es: Entrevistado tras el acto, Marco declaró que lleva más de cuatro años estudiando chino en China y que el premio lo ha sorprendido por completo.
+- 他说：“翻译不仅是语言的转换，更是两种思维方式之间的对话。”
+  pron: Tā shuō: "Fānyì bùjǐn shì yǔyán de zhuǎnhuàn, gèng shì liǎng zhǒng sīwéi fāngshì zhījiān de duìhuà."
+  it: «Tradurre», ha detto, «non è soltanto passare da una lingua all'altra: è soprattutto un dialogo tra due modi di pensare.»
+  en: "Translation," he said, "is not merely a conversion between languages; above all it is a dialogue between two ways of thinking."
+  es: «Traducir», afirmó, «no es solo pasar de una lengua a otra: es, sobre todo, un diálogo entre dos maneras de pensar».
+- 他还特别感谢了导师张雅文教授多年来的悉心指导。
+  pron: Tā hái tèbié gǎnxièle dǎoshī Zhāng Yǎwén jiàoshòu duō nián lái de xīxīn zhǐdǎo.
+  it: Ha inoltre ringraziato in modo particolare la sua relatrice, la professoressa Zhang Yawen, per la paziente guida di tutti questi anni.
+  en: He also paid special thanks to his supervisor, Professor Zhang Yawen, for her careful guidance over the years.
+  es: Asimismo, quiso dar las gracias especialmente a su directora de tesis, la profesora Zhang Yawen, por su atenta guía a lo largo de estos años.
+- 张雅文教授指出，近年来赴华学习的意大利学生人数逐年增加，但高水平的文学翻译人才依然匮乏。
+  pron: Zhāng Yǎwén jiàoshòu zhǐchū, jìnnián lái fù Huá xuéxí de Yìdàlì xuésheng rénshù zhúnián zēngjiā, dàn gāo shuǐpíng de wénxué fānyì réncái yīrán kuìfá.
+  it: La professoressa Zhang ha osservato che negli ultimi anni il numero degli studenti italiani che si recano in Cina per studiare è cresciuto di anno in anno, ma i traduttori letterari di alto livello restano pochi.
+  en: Professor Zhang pointed out that the number of Italian students going to China to study has grown year by year, but highly skilled literary translators remain scarce.
+  es: La profesora Zhang señaló que en los últimos años el número de estudiantes italianos que van a estudiar a China crece año tras año, pero los traductores literarios de alto nivel siguen escaseando.
+- 她呼吁有关部门加大对青年译者的扶持力度，以期推动中意文学交流迈上新台阶。
+  pron: Tā hūyù yǒuguān bùmén jiādà duì qīngnián yìzhě de fúchí lìdù, yǐqī tuīdòng Zhōng-Yì wénxué jiāoliú màishàng xīn táijiē.
+  it: Ha quindi invitato le autorità competenti a rafforzare il sostegno ai giovani traduttori, perché gli scambi letterari tra Cina e Italia possano compiere un salto di qualità.
+  en: She called on the relevant authorities to step up support for young translators, in the hope of taking Sino-Italian literary exchange to a new level.
+  es: Por ello, instó a las autoridades competentes a reforzar el apoyo a los jóvenes traductores, con el fin de llevar los intercambios literarios entre China e Italia a un nuevo nivel.
+- 据悉，获奖作品将于明年结集出版，并在两国同步发行。
+  pron: Jùxī, huòjiǎng zuòpǐn jiāng yú míngnián jiéjí chūbǎn, bìng zài liǎng guó tóngbù fāxíng.
+  it: Si apprende che le opere premiate saranno raccolte in un volume l'anno prossimo e pubblicate contemporaneamente nei due paesi.
+  en: It is understood that the winning entries will be published as a collection next year and released simultaneously in both countries.
+  es: Según ha podido saberse, las obras premiadas se publicarán en un volumen recopilatorio el año que viene y saldrán simultáneamente en ambos países.
+
+notes.it:
+1. Il 书面语, la lingua scritta formale, sostituisce molte parole del
+   parlato con forme brevi di origine classica. 于 vale 在 "in, a", 该 vale
+   这个 "il suddetto", 其 vale 他的, 逾 vale 超过 "oltre", 赴 vale 去
+   "recarsi", 此次 vale 这次. I luoghi si abbreviano, 华 per 中国, 京 per
+   北京, 沪 per 上海, da cui 来华, 在京, 在沪.
+2. Formule giornalistiche ricorrenti. 日前 "nei giorni scorsi", 据悉 "si
+   apprende che", 旨在 "si propone di", 以期 "nella speranza di", 表示
+   "dichiarare", 指出 "osservare", 呼吁 "lanciare un appello". Come da noi,
+   l'attacco della notizia dice chi, cosa, dove e quando.
+3. 脱颖而出, "la punta esce dal sacco", significa distinguersi tra molti.
+   Viene dalla storia di Mao Sui, che si offrì volontario dicendo che un
+   uomo di talento è come un punteruolo chiuso in un sacco, prima o poi la
+   punta buca la stoffa.
+4. Numeri approssimativi del registro scritto, 三十余所 "più di trenta",
+   百余名 "oltre cento". Classificatori formali, 所 per le scuole, 名 per
+   le persone, 篇 per i testi, 届 per le edizioni di un evento.
+5. 意境 yìjìng è un concetto chiave dell'estetica cinese, l'atmosfera e lo
+   spazio interiore che una poesia o un dipinto suscitano in chi li
+   contempla. È fra i termini più difficili da tradurre.
+notes.en:
+1. 书面语, formal written Chinese, replaces many spoken words with short
+   forms of classical origin. 于 stands for 在 "in, at", 该 for 这个 "the
+   said", 其 for 他的, 逾 for 超过 "over", 赴 for 去 "proceed to", 此次 for
+   这次. Places are abbreviated, 华 for 中国, 京 for 北京, 沪 for 上海,
+   hence 来华, 在京, 在沪.
+2. Stock news phrases. 日前 "recently", 据悉 "it is understood that",
+   旨在 "aims to", 以期 "in the hope of", 表示 "state", 指出 "point out",
+   呼吁 "call on". As in English, the lead tells who, what, where and
+   when.
+3. 脱颖而出, "the tip comes out of the bag", means to stand out from the
+   crowd. It comes from the story of Mao Sui, who volunteered by saying a
+   man of talent is like an awl in a bag, sooner or later its tip pierces
+   the cloth.
+4. Approximate numbers of the written register, 三十余所 "over thirty",
+   百余名 "more than a hundred". Formal measure words, 所 for schools,
+   名 for people, 篇 for texts, 届 for editions of an event.
+5. 意境 yìjìng is a key concept of Chinese aesthetics, the mood and inner
+   space a poem or painting opens up in the beholder. It is one of the
+   hardest terms to translate.
+notes.es:
+1. El 书面语, la lengua escrita formal, sustituye muchas palabras del habla
+   por formas breves de origen clásico. 于 equivale a 在 "en", 该 a 这个 "el
+   citado", 其 a 他的, 逾 a 超过 "más de", 赴 a 去 "dirigirse a", 此次 a 这次.
+   Los lugares se abrevian, 华 por 中国, 京 por 北京, 沪 por 上海, de ahí 来华,
+   在京, 在沪.
+2. Fórmulas periodísticas habituales. 日前 "recientemente", 据悉 "según ha
+   podido saberse", 旨在 "tiene como objetivo", 以期 "con el fin de", 表示
+   "declarar", 指出 "señalar", 呼吁 "hacer un llamamiento". Como en nuestra
+   prensa, la entradilla dice quién, qué, dónde y cuándo.
+3. 脱颖而出, "la punta sale del saco", significa destacar entre muchos. Viene
+   de la historia de Mao Sui, que se ofreció voluntario diciendo que un
+   hombre de talento es como un punzón metido en un saco: tarde o temprano la
+   punta atraviesa la tela.
+4. Números aproximados del registro escrito, 三十余所 "más de treinta",
+   百余名 "más de cien". Clasificadores formales, 所 para las escuelas, 名
+   para las personas, 篇 para los textos, 届 para las ediciones de un
+   acontecimiento.
+5. 意境 yìjìng es un concepto clave de la estética china, la atmósfera y el
+   espacio interior que un poema o una pintura despiertan en quien los
+   contempla. Es uno de los términos más difíciles de traducir.
+
+ex1:
+- 该展览旨在促进两国的文化交流。
+  pron: Gāi zhǎnlǎn zhǐzài cùjìn liǎng guó de wénhuà jiāoliú.
+  it: La mostra si propone di favorire gli scambi culturali tra i due paesi.
+  en: The exhibition aims to promote cultural exchange between the two countries.
+  es: La exposición tiene como objetivo fomentar el intercambio cultural entre los dos países.
+- 据悉，会议将于下月在沪举行。
+  pron: Jùxī, huìyì jiāng yú xià yuè zài Hù jǔxíng.
+  it: Si apprende che il convegno si terrà il mese prossimo a Shanghai.
+  en: It is understood that the conference will be held in Shanghai next month.
+  es: Según ha podido saberse, el congreso se celebrará el mes que viene en Shanghái.
+- 来华留学的学生人数逐年增加。
+  pron: Lái Huá liúxué de xuésheng rénshù zhúnián zēngjiā.
+  it: Il numero degli studenti che vengono a studiare in Cina cresce di anno in anno.
+  en: The number of students coming to study in China rises year by year.
+  es: El número de estudiantes que vienen a estudiar a China aumenta año tras año.
+- 她凭借这部小说在众多作家中脱颖而出。
+  pron: Tā píngjiè zhè bù xiǎoshuō zài zhòngduō zuòjiā zhōng tuōyǐng'érchū.
+  it: Con questo romanzo si è distinta tra moltissimi scrittori.
+  en: With this novel she stood out among a great many writers.
+  es: Con esta novela destacó entre muchísimos escritores.
+
+ex2:
+- 颁奖典礼[将][于]本月十日在京举行。
+  pron: Bānjiǎng diǎnlǐ jiāng yú běn yuè shí rì zài Jīng jǔxíng.
+  it: La cerimonia di premiazione si terrà a Pechino il dieci di questo mese.
+  en: The award ceremony will be held in Beijing on the tenth of this month.
+  es: La ceremonia de entrega de premios se celebrará en Pekín el día diez de este mes.
+- 该译作[忠实]于原文，语言流畅。
+  pron: Gāi yìzuò zhōngshí yú yuánwén, yǔyán liúchàng.
+  it: La traduzione è fedele all'originale e scorrevole.
+  en: The translation is faithful to the original and fluent.
+  es: La traducción es fiel al original y fluida.
+- 他学习汉语[已][逾]十年。
+  pron: Tā xuéxí Hànyǔ yǐ yú shí nián.
+  it: Studia cinese da oltre dieci anni.
+  en: He has been studying Chinese for over ten years.
+  es: Lleva más de diez años estudiando chino.
+- 专家[呼吁]加大对青年译者的扶持[力度]。
+  pron: Zhuānjiā hūyù jiādà duì qīngnián yìzhě de fúchí lìdù.
+  it: Gli esperti chiedono di rafforzare il sostegno ai giovani traduttori.
+  en: Experts are calling for greater support for young translators.
+  es: Los expertos piden reforzar el apoyo a los jóvenes traductores.

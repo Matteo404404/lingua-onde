@@ -18,7 +18,9 @@ use crate::model::lang;
 pub fn find_program(name: &str) -> Option<PathBuf> {
     let exe = if cfg!(windows) { format!("{name}.exe") } else { name.to_string() };
     let beside = std::env::current_exe().ok().and_then(|p| p.parent().map(|d| d.to_path_buf()));
-    let path = std::env::var_os("PATH").map(|p| std::env::split_paths(&p).collect::<Vec<_>>()).unwrap_or_default();
+    let path = std::env::var_os("PATH")
+        .map(|p| std::env::split_paths(&p).collect::<Vec<_>>())
+        .unwrap_or_default();
     beside.into_iter().chain(path).map(|d| d.join(&exe)).find(|p| p.is_file())
 }
 

@@ -1,0 +1,159 @@
+course: de
+stage: mastery
+
+== 26 C2
+title: Brief aus Hamburg
+title.it: Lettera da Amburgo
+title.en: Letter from Hamburg
+title.es: Carta desde Hamburgo
+
+dialogue:
+- Liebe Giulia, seit Ihrem Auszug herrscht im Haus eine Stille, die ich, wäre ich weniger höflich, verdächtig nennen würde.
+  it: Cara Giulia, da quando Lei ha lasciato l'appartamento, nel palazzo regna un silenzio che, se fossi meno cortese, definirei sospetto.
+  en: Dear Giulia, since you moved out, a silence has reigned in the building which, were I less polite, I would call suspicious.
+  es: Querida Giulia: desde que usted se mudó, reina en el edificio un silencio que yo, si fuera menos cortés, calificaría de sospechoso.
+- In Ihre Wohnung im dritten Stock ist ein junger Mann gezogen, der nie vor Sonnenaufgang heimkehrt und das Haus nie vor Mittag verlässt.
+  it: Nel Suo appartamento al terzo piano si è trasferito un giovanotto che non rientra mai prima dell'alba e non esce mai di casa prima di mezzogiorno.
+  en: A young man has moved into your flat on the third floor who never comes home before sunrise and never leaves the house before noon.
+  es: A su piso de la tercera planta se ha mudado un joven que nunca vuelve a casa antes del amanecer y nunca sale del edificio antes del mediodía.
+- Man versichert mir, er sei „in der Start-up-Szene unterwegs“; ich habe es aufgegeben, nachzufragen, was das bedeuten mag, und lebe seither keineswegs schlechter.
+  it: Mi assicurano che «si muove nel mondo delle start-up»; ho smesso di chiedere che cosa possa significare, e da allora non vivo affatto peggio.
+  en: I am assured that he is "active in the start-up scene"; I have given up asking what that might mean, and have been none the worse for it since.
+  es: Me aseguran que «se mueve en el mundillo de las start-ups»; he dejado de preguntar qué puede significar eso, y desde entonces no vivo peor en absoluto.
+- Die Bäckerei an der Ecke hat einem Laden Platz gemacht, der „neu interpretierte“ Franzbrötchen zum dreifachen Preis verkauft; der Fortschritt schmeckt offenbar nach Zimt und Zinsen.
+  it: La panetteria all'angolo ha lasciato il posto a un negozio che vende Franzbrötchen «reinterpretati» al triplo del prezzo; il progresso, a quanto pare, sa di cannella e di interessi.
+  en: The corner bakery has made way for a shop selling "reinterpreted" Franzbrötchen at three times the price; progress, it seems, tastes of cinnamon and interest.
+  es: La panadería de la esquina ha dejado su sitio a una tienda que vende Franzbrötchen «reinterpretados» al triple de precio; el progreso, por lo visto, sabe a canela e intereses.
+- Als der Artikel von Jonas' Schwester erschien, taten in unserer Straße plötzlich alle so, als hätten sie nie ein Auto besessen.
+  it: Quando uscì l'articolo della sorella di Jonas, nella nostra via tutti d'un tratto fecero finta di non aver mai posseduto un'auto.
+  en: When Jonas's sister's article came out, everyone in our street suddenly acted as if they had never owned a car.
+  es: Cuando apareció el artículo de la hermana de Jonas, en nuestra calle todos hicieron de pronto como si nunca hubieran tenido coche.
+- Der Geländewagen vor Hausnummer zwölf steht freilich noch immer da, vermutlich aus Pietät.
+  it: Il fuoristrada davanti al numero dodici, s'intende, è ancora lì, presumo per devozione.
+  en: The SUV outside number twelve is, of course, still there, presumably out of piety.
+  es: El todoterreno delante del número doce sigue ahí, por supuesto, seguramente por devoción.
+- Man wirft heutzutage lieber weg, als dass man repariert – Häuser ebenso wie Freundschaften.
+  it: Oggi si preferisce buttare via piuttosto che riparare, le case come le amicizie.
+  en: Nowadays people would rather throw things away than repair them, houses and friendships alike.
+  es: Hoy en día se prefiere tirar antes que reparar, tanto las casas como las amistades.
+- Doch ich will die Flinte nicht ins Korn werfen: Der Bezirk erwäge, so heißt es, unsere Fassade unter Denkmalschutz zu stellen.
+  it: Ma non voglio gettare la spugna (il fucile nel grano): il distretto, a quanto si dice, starebbe valutando di porre la nostra facciata sotto tutela.
+  en: But I don't intend to throw in the towel (the rifle into the corn): the district, so they say, is considering putting our façade under a preservation order.
+  es: Pero no quiero tirar la toalla (arrojar la escopeta al trigo): el distrito, según dicen, estaría estudiando declarar nuestra fachada monumento protegido.
+- Ich bezweifle allerdings, dass dies geschieht, bevor man mich selbst unter Denkmalschutz stellt; aber die Hoffnung ist eine Tugend, die sich in meinem Alter besser pflegen lässt als in Ihrem.
+  it: Dubito però che ciò accada prima che mettano sotto tutela me stessa; ma la speranza è una virtù che si coltiva meglio alla mia età che alla Sua.
+  en: I doubt, however, that this will happen before I myself am placed under a preservation order; but hope is a virtue more easily cultivated at my age than at yours.
+  es: Dudo, sin embargo, que eso ocurra antes de que me declaren a mí misma monumento protegido; pero la esperanza es una virtud que se cultiva mejor a mi edad que a la suya.
+- Kommen Sie, wann immer Sie wollen: Ihr Zimmer gibt es nicht mehr, mein Sofa hingegen ist von unverbrüchlicher Treue.
+  it: Venga quando vuole: la Sua camera non c'è più, il mio divano invece è di una fedeltà incrollabile.
+  en: Come whenever you like: your room no longer exists, but my sofa is of unwavering loyalty.
+  es: Venga cuando quiera: su habitación ya no existe, pero mi sofá, en cambio, es de una fidelidad inquebrantable.
+- Mit herzlichen Grüßen, die förmlicher klingen, als sie gemeint sind, Ihre Hannelore Becker
+  it: Con i più cordiali saluti, che suonano più formali di quanto non siano nelle intenzioni, Sua Hannelore Becker
+  en: With warmest regards, which sound more formal than they are meant, yours, Hannelore Becker
+  es: Con afectuosos saludos, que suenan más formales de lo que pretenden, suya, Hannelore Becker
+- P. S. Jonas kommt sonntags vorbei, angeblich wegen der Katze; aber die Katze lässt sich kein X für ein U vormachen.
+  it: P.S. Jonas passa la domenica, a suo dire per la gatta; ma la gatta non si fa infinocchiare.
+  en: P.S. Jonas drops by on Sundays, supposedly for the cat; but the cat is not so easily fooled.
+  es: P. D. Jonas pasa por aquí los domingos, supuestamente por la gata; pero a la gata no hay quien le dé gato por liebre.
+
+notes.it:
+1. Il Präteritum (erschien, taten) è il passato della narrazione scritta: in una
+   lettera dà un tono letterario, mentre nella conversazione si preferisce il
+   Perfekt, salvo per verbi come war e hatte.
+2. Il Konjunktiv in tre usi: wäre ich weniger höflich (se fossi meno cortese, con
+   il verbo in prima posizione al posto di wenn); er sei, der Bezirk erwäge
+   (Konjunktiv I del discorso riportato, che prende le distanze); als hätten sie
+   nie... (come se non avessero mai..., als + Konjunktiv II con inversione).
+3. Modi di dire rari: die Flinte ins Korn werfen (gettare il fucile nel grano,
+   cioè arrendersi); sich kein X für ein U vormachen lassen (non farsi
+   infinocchiare). Nella numerazione romana la V, scritta anche U, valeva 5 e la
+   X 10: chi trasformava una U in X imbrogliava sul conto.
+4. L'ironia di Frau Becker passa per la litote (lebe seither keineswegs
+   schlechter), il gioco di parole (Zimt und Zinsen, cannella e interessi), la
+   falsa solennità (von unverbrüchlicher Treue, aus Pietät) e il doppio senso di
+   unter Denkmalschutz stellen (vincolare un edificio storico), che applica a se
+   stessa.
+5. Liebe Giulia e il Sie insieme sono il cosiddetto "Hamburger Sie": nome di
+   battesimo più forma di cortesia. Nelle lettere Sie, Ihr e Ihnen vanno sempre
+   con la maiuscola; Mit herzlichen Grüßen è la chiusa affettuosa, Mit
+   freundlichen Grüßen quella neutra.
+notes.en:
+1. The Präteritum (erschien, taten) is the past tense of written narrative: in a
+   letter it gives a literary tone, while conversation prefers the Perfekt,
+   except for verbs such as war and hatte.
+2. The Konjunktiv in three uses: wäre ich weniger höflich (were I less polite,
+   with the verb first instead of wenn); er sei, der Bezirk erwäge (Konjunktiv I
+   of reported speech, keeping a distance); als hätten sie nie... (as if they
+   had never..., als + Konjunktiv II with inversion).
+3. Rare idioms: die Flinte ins Korn werfen (to throw the rifle into the corn, to
+   give up); sich kein X für ein U vormachen lassen (not to be taken in). In
+   Roman numerals V, also written U, stood for 5 and X for 10: turning a U into
+   an X was a way of cheating on a bill.
+4. Frau Becker's irony works through litotes (lebe seither keineswegs
+   schlechter), wordplay (Zimt und Zinsen, cinnamon and interest), mock
+   solemnity (von unverbrüchlicher Treue, aus Pietät) and the double meaning of
+   unter Denkmalschutz stellen (to list a historic building), which she applies
+   to herself.
+5. Liebe Giulia combined with Sie is the so-called "Hamburger Sie": first name
+   plus the polite form. In letters Sie, Ihr and Ihnen always take a capital;
+   Mit herzlichen Grüßen is the warm closing, Mit freundlichen Grüßen the neutral
+   one.
+notes.es:
+1. El Präteritum (erschien, taten) es el pasado de la narración escrita: en una
+   carta da un tono literario, mientras que en la conversación se prefiere el
+   Perfekt, salvo con verbos como war y hatte.
+2. El Konjunktiv en tres usos: wäre ich weniger höflich (si fuera menos cortés,
+   con el verbo en primera posición en lugar de wenn); er sei, der Bezirk erwäge
+   (Konjunktiv I del estilo indirecto, que toma distancia); als hätten sie
+   nie... (como si nunca hubieran..., als + Konjunktiv II con inversión).
+3. Modismos poco frecuentes: die Flinte ins Korn werfen (arrojar la escopeta al
+   trigo, es decir, rendirse, tirar la toalla); sich kein X für ein U vormachen
+   lassen (no dejarse engañar, como nuestro "no dejarse dar gato por liebre").
+   En la numeración romana la V, escrita también U, valía 5 y la X 10: quien
+   convertía una U en X hacía trampa con la cuenta.
+4. La ironía de Frau Becker se apoya en la lítote (lebe seither keineswegs
+   schlechter), el juego de palabras (Zimt und Zinsen, canela e intereses), la
+   falsa solemnidad (von unverbrüchlicher Treue, aus Pietät) y el doble sentido
+   de unter Denkmalschutz stellen (declarar monumento protegido un edificio
+   histórico), que se aplica a sí misma.
+5. Liebe Giulia junto con Sie es el llamado "Hamburger Sie": nombre de pila más
+   tratamiento de usted. En las cartas Sie, Ihr e Ihnen van siempre con
+   mayúscula; Mit herzlichen Grüßen es la despedida afectuosa, Mit freundlichen
+   Grüßen la neutra.
+
+ex1:
+- Wäre ich jünger, würde ich nach München ziehen.
+  it: Se fossi più giovane, mi trasferirei a Monaco.
+  en: Were I younger, I would move to Munich.
+  es: Si fuera más joven, me mudaría a Múnich.
+- Er tat so, als hätte er nichts gehört.
+  it: Fece finta di non aver sentito nulla.
+  en: He acted as if he hadn't heard anything.
+  es: Hizo como si no hubiera oído nada.
+- Wir werfen die Flinte nicht ins Korn.
+  it: Non gettiamo la spugna.
+  en: We won't throw in the towel.
+  es: No vamos a tirar la toalla.
+- Die Katze lässt sich kein X für ein U vormachen.
+  it: La gatta non si fa infinocchiare.
+  en: The cat is not so easily fooled.
+  es: A la gata no hay quien le dé gato por liebre.
+
+ex2:
+- Als der Artikel [erschien], [taten] alle überrascht.
+  it: Quando uscì l'articolo, tutti fecero finta di essere sorpresi.
+  en: When the article came out, everyone feigned surprise.
+  es: Cuando apareció el artículo, todos fingieron sorpresa.
+- Man versichert mir, er [sei] sehr beschäftigt.
+  it: Mi assicurano che è molto occupato.
+  en: I am assured that he is very busy.
+  es: Me aseguran que está muy ocupado.
+- Ich bezweifle, [dass] dies bald [geschieht].
+  it: Dubito che ciò accada presto.
+  en: I doubt that this will happen soon.
+  es: Dudo que esto ocurra pronto.
+- Die Fassade soll unter [Denkmalschutz] gestellt werden.
+  it: La facciata dovrebbe essere posta sotto tutela.
+  en: The façade is to be listed as a historic monument.
+  es: Está previsto declarar la fachada monumento protegido.

@@ -1,0 +1,142 @@
+course: pt
+stage: foundation
+
+== 26 A2
+title: Planos para o feriadão
+title.it: Programmi per il ponte
+title.en: Plans for the long weekend
+title.es: Planes para el puente
+
+dialogue:
+- E aí, Giulia, como foi o fim de semana?
+  it: Allora (e lì), Giulia, com'è andato (come fu) il fine settimana?
+  en: So (and there), Giulia, how was the weekend?
+  es: Bueno (y ahí), Giulia, ¿qué tal el fin de semana (cómo fue)?
+- Foi ótimo! No sábado fui ao Ibirapuera e andei de bicicleta a tarde toda.
+  it: È stato ottimo! Sabato sono andata all'Ibirapuera e sono andata in bicicletta (andai di bicicletta) tutto il pomeriggio.
+  en: It was great! On Saturday I went to Ibirapuera and rode a bike (walked of bicycle) all afternoon.
+  es: ¡Fue estupendo (fue óptimo)! El sábado fui a Ibirapuera y monté en bici (anduve de bicicleta) toda la tarde.
+- E no domingo?
+  it: E domenica?
+  en: And on Sunday?
+  es: ¿Y el domingo?
+- No domingo choveu muito, então fiquei em casa e assisti a uma série.
+  it: Domenica è piovuto (piovve) molto, quindi sono rimasta a casa e ho guardato (assistetti a) una serie.
+  en: On Sunday it rained a lot, so I stayed home and watched (assisted at) a series.
+  es: El domingo llovió mucho, así que me quedé en casa y vi (asistí a) una serie.
+- Que pena! Olha, no feriadão a gente vai para Ubatuba. Quer ir com a gente?
+  it: Che peccato (che pena)! Senti (guarda), per il ponte andiamo (la gente va) a Ubatuba. Vuoi venire con noi (con la gente)?
+  en: What a shame (what pity)! Listen (look), for the long weekend we're going (the people goes) to Ubatuba. Do you want to come with us (with the people)?
+  es: ¡Qué pena! Mira, en el puente nos vamos (la gente va) a Ubatuba. ¿Quieres venir con nosotros (con la gente)?
+- Quero, claro! Mas eu nunca fui ao litoral paulista. Como é?
+  it: Sì, certo (voglio, chiaro)! Ma non sono mai stata (non fui mai) sulla costa paulista. Com'è?
+  en: Yes, of course (I want, clear)! But I've never been (never went) to the São Paulo coast. What's it like (how is it)?
+  es: ¡Sí, claro (quiero, claro)! Pero nunca he estado (nunca fui) en la costa paulista. ¿Cómo es?
+- É lindo. Quando eu era criança, a minha família passava todo verão lá.
+  it: È bellissimo. Quando ero bambino, la mia famiglia passava lì ogni estate.
+  en: It's beautiful. When I was a child, my family used to spend (spent) every summer there.
+  es: Es precioso (es lindo). Cuando era niño, mi familia pasaba allí todos los veranos (todo verano).
+- Vocês vão de carro?
+  it: Andate in macchina (di carro)?
+  en: Are you going by car (of car)?
+  es: ¿Vais en coche (de carro)?
+- Vamos, sim. Vamos sair na sexta bem cedinho, por causa do trânsito.
+  it: Sì (andiamo, sì). Partiremo (andiamo a uscire) venerdì prestissimo (bene prestino), per via del traffico.
+  en: Yes (we go, yes). We're going to leave on Friday really early (well early-little), because of the traffic.
+  es: Sí (vamos, sí). Vamos a salir el viernes muy tempranito (bien tempranito), por el tráfico.
+
+notes.it:
+1. Fui, andei, choveu, fiquei, assisti: pretérito perfeito, il passato semplice
+   per le azioni concluse. Il portoghese lo usa dove l'italiano usa il
+   passato prossimo: fui ao Ibirapuera = sono andata all'Ibirapuera. Fui è il
+   passato sia di ir sia di ser (foi ótimo = è stato ottimo).
+2. Eu era criança, a família passava: l'imperfeito descrive lo sfondo e le
+   abitudini, come il nostro imperfetto. Nunca fui = non sono mai stata.
+   Attenzione, tenho ido non vuol dire "sono andato" ma "ultimamente ci vado
+   spesso".
+3. A gente vai = noi andiamo: a gente (letteralmente "la gente") è il "noi" di
+   tutti i giorni in Brasile, con il verbo alla terza persona singolare. Vamos
+   sair = partiremo: ir + infinito è il modo più comune di parlare del futuro.
+4. Falsi amici: que pena! = che peccato!; trânsito = traffico; feriado = giorno
+   festivo (le ferie sono férias) e feriadão = ponte lungo; andar de bicicleta =
+   andare in bicicletta. Nel parlato si dice anche assisti uma série, senza a.
+5. Cultura: l'Ibirapuera è il grande parco di San Paolo; Ubatuba è una località di
+   mare sulla costa nord dello stato. Nei feriadões le strade verso il litorale
+   sono intasate, per questo si parte bem cedinho, prestissimo.
+notes.en:
+1. Fui, andei, choveu, fiquei, assisti: pretérito perfeito, the simple past for
+   finished actions. Portuguese uses it where Italian uses the passato prossimo:
+   fui ao Ibirapuera = sono andata all'Ibirapuera. Fui is the past of both ir and
+   ser (foi ótimo = it was great).
+2. Eu era criança, a família passava: the imperfeito describes background and
+   habits, like the Italian imperfetto. Nunca fui = I've never been. Careful, tenho
+   ido doesn't mean "I have gone" but "I've been going a lot lately".
+3. A gente vai = we're going: a gente (literally "the people") is the everyday
+   "we" in Brazil, with the verb in the third person singular. Vamos sair =
+   we'll leave: ir + infinitive is the most common way to talk about the future.
+4. False friends for Italians: que pena! = what a shame! (Italian "che pena" is
+   closer to "how pitiful"); trânsito = traffic; feriado = public holiday
+   (holidays are férias) and feriadão = long weekend; andar de bicicleta = to ride
+   a bike. In speech people also say assisti uma série, without a.
+5. Culture: Ibirapuera is São Paulo's big park; Ubatuba is a beach town on the
+   north coast of the state. On long weekends the roads to the coast are jammed,
+   which is why people leave bem cedinho, really early.
+notes.es:
+1. Fui, andei, choveu, fiquei, assisti: pretérito perfeito, el pasado simple
+   para las acciones terminadas. El portugués lo usa incluso donde en España
+   se diría "he ido": hoje fui ao parque = hoy he ido al parque. Fui es el
+   pasado tanto de ir como de ser, igual que en español (foi ótimo = fue
+   estupendo).
+2. Eu era criança, a família passava: el imperfeito describe el fondo y las
+   costumbres, como nuestro imperfecto. Nunca fui = nunca he estado. Cuidado:
+   tenho ido no significa "he ido", sino "últimamente voy a menudo".
+3. A gente vai = vamos (nosotros): a gente (literalmente "la gente") es el
+   "nosotros" cotidiano en Brasil, con el verbo en tercera persona del
+   singular. Vamos sair = vamos a salir: ir + infinitivo es la forma más
+   común de hablar del futuro, y en portugués va sin a (vamos sair, no vamos
+   a sair).
+4. Vocabulario: que pena! = ¡qué pena!, como en español; trânsito = tráfico;
+   feriado = día festivo (las vacaciones son férias) y feriadão = puente;
+   andar de bicicleta = montar en bici. Falso amigo: assistir a uma série =
+   ver una serie, no "asistir"; en el habla también se dice assisti uma
+   série, sin a.
+5. Cultura: Ibirapuera es el gran parque de São Paulo; Ubatuba es una
+   localidad de playa en la costa norte del estado. En los feriadões las
+   carreteras hacia el litoral se atascan; por eso se sale bem cedinho,
+   tempranísimo.
+
+ex1:
+- No sábado eu fiquei em casa porque choveu.
+  it: Sabato sono rimasta a casa perché è piovuto.
+  en: On Saturday I stayed home because it rained.
+  es: El sábado me quedé en casa porque llovió.
+- Quando eu era criança, andava de bicicleta todo dia.
+  it: Quando ero bambino, andavo in bicicletta tutti i giorni.
+  en: When I was a child, I rode my bike every day.
+  es: Cuando era niño, montaba en bici todos los días.
+- A gente vai sair cedo por causa do trânsito.
+  it: Partiremo presto per via del traffico.
+  en: We're going to leave early because of the traffic.
+  es: Vamos a salir temprano por el tráfico.
+- Você já foi a Ubatuba?
+  it: Sei mai stata a Ubatuba?
+  en: Have you ever been to Ubatuba?
+  es: ¿Has estado alguna vez en Ubatuba?
+
+ex2:
+- Como [foi] o fim de semana?
+  it: Com'è andato il fine settimana?
+  en: How was the weekend?
+  es: ¿Qué tal el fin de semana?
+- No domingo [choveu] e eu [fiquei] em casa.
+  it: Domenica è piovuto e sono rimasta a casa.
+  en: On Sunday it rained and I stayed home.
+  es: El domingo llovió y me quedé en casa.
+- Quando eu [era] criança, [passava] o verão na praia.
+  it: Quando ero bambino, passavo l'estate al mare.
+  en: When I was a child, I used to spend the summer at the beach.
+  es: Cuando era niño, pasaba el verano en la playa.
+- No feriadão a [gente] [vai] para o litoral.
+  it: Per il ponte andiamo al mare.
+  en: For the long weekend we're going to the coast.
+  es: En el puente nos vamos a la costa.

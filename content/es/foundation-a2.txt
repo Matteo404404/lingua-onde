@@ -1,0 +1,99 @@
+course: es
+stage: foundation
+
+== 26 A2
+title: Una semana en Madrid
+title.it: Una settimana a Madrid
+title.en: A week in Madrid
+
+dialogue:
+- ¿Qué tal tu primera semana en el trabajo, Marco?
+  it: Com'è andata (che tale) la tua prima settimana al lavoro, Marco?
+  en: How was (what such) your first week at work, Marco?
+- Bastante bien, pero he trabajado muchísimo. Hoy he salido de la oficina a las ocho.
+  it: Abbastanza bene, ma ho lavorato tantissimo. Oggi sono uscito (ho uscito) dall'ufficio alle otto.
+  en: Pretty well, but I've worked a huge amount. Today I left (have left) the office at eight.
+- ¿Y el fin de semana pasado? ¿Qué hiciste?
+  it: E lo scorso fine settimana? Cosa hai fatto (cosa facesti)?
+  en: And last weekend? What did you do?
+- El sábado no hice nada. El domingo fui al Rastro con unos compañeros y compré una lámpara antigua.
+  it: Sabato non ho fatto niente (non feci niente). Domenica sono andato al Rastro con alcuni colleghi e ho comprato una lampada antica.
+  en: On Saturday I did nothing (I didn't do nothing). On Sunday I went to the Rastro with some colleagues and bought an old lamp.
+- ¡Qué bien! Oye, ¿conoces Toledo?
+  it: Che bello (che bene)! Senti (odi), conosci Toledo?
+  en: Great (how well)! Hey (hear), do you know Toledo?
+- No, todavía no. Pero me han dicho que es preciosa.
+  it: No, non ancora. Ma mi hanno detto che è bellissima (preziosa).
+  en: No, not yet. But people have told me it's beautiful (they have told me that it's precious).
+- Pues mi hermano Andrés y yo vamos a ir el sábado que viene. ¿Te vienes?
+  it: Be', io e mio fratello Andrés ci andiamo (andiamo ad andare) sabato prossimo (il sabato che viene). Vieni anche tu (ti vieni)?
+  en: Well, my brother Andrés and I are going (go to go) next Saturday (the Saturday that comes). Are you coming along (do you come yourself)?
+- ¡Claro que sí! ¿A qué hora salís?
+  it: Certo (chiaro che sì)! A che ora partite (uscite)?
+  en: Of course (clear that yes)! What time are you leaving (do you leave, you all)?
+- Vamos a coger el tren de las nueve y media. Y a la vuelta cenamos en el bar de Carmen.
+  it: Prenderemo (andiamo a prendere) il treno delle nove e mezza. E al ritorno (alla volta) ceniamo al bar di Carmen.
+  en: We're going to catch (take) the half past nine train. And on the way back (at the return) we'll have dinner at Carmen's bar.
+
+notes.it:
+1. He trabajado, he salido: pretérito perfecto, per un periodo non ancora concluso
+   (hoy, esta semana). L'ausiliare è sempre haber, anche dove l'italiano
+   usa essere: he salido = sono uscito. Il participio non si accorda mai.
+2. Fui, compré, hice: pretérito indefinido, per un periodo concluso (ayer, el
+   sábado pasado). Nella Spagna centrale e settentrionale la distinzione è netta:
+   hoy he salido, ma ayer salí. Fui è il passato sia di ir sia di ser.
+3. Vamos a ir, vamos a coger: ir a + infinito esprime un progetto o un futuro
+   vicino, come l'inglese "going to". Non dimenticare la a.
+4. Falsi amici: precioso/preciosa di solito vuol dire bellissimo; compañero =
+   collega o compagno; salir = uscire, partire (salire si dice subir); coger =
+   prendere in Spagna, ma in gran parte dell'America Latina è volgare, e lì si usa
+   tomar.
+5. ¿A qué hora salís?: vosotros è il "voi" informale della Spagna (salís, vais,
+   tenéis); in America Latina si usa ustedes. ¿Te vienes? con il te suona più
+   caloroso, come "vieni anche tu?". Il Rastro è il mercatino delle pulci di
+   Madrid, la domenica mattina.
+notes.en:
+1. He trabajado, he salido: pretérito perfecto, for a period that isn't over yet
+   (hoy, esta semana). The auxiliary is always haber, even where Italian
+   uses essere: he salido = sono uscito. The participle never agrees.
+2. Fui, compré, hice: pretérito indefinido, for a finished period (ayer, el sábado
+   pasado). In central and northern Spain the line is sharp: hoy he salido, but
+   ayer salí. Fui is the past of both ir and ser.
+3. Vamos a ir, vamos a coger: ir a + infinitive expresses a plan or the near
+   future, like English "going to". Don't forget the a.
+4. False friends for Italians: precioso/preciosa usually means beautiful;
+   compañero = colleague or classmate; salir = to go out, to leave (Italian
+   "salire", to go up, is subir); coger = to take in Spain, but vulgar in much of
+   Latin America, where people say tomar.
+5. ¿A qué hora salís?: vosotros is the informal plural "you" of Spain (salís,
+   vais, tenéis); Latin America uses ustedes. ¿Te vienes? with te sounds warmer,
+   like "are you coming along?". The Rastro is Madrid's Sunday-morning flea
+   market.
+
+ex1:
+- Esta semana he trabajado mucho.
+  it: Questa settimana ho lavorato molto.
+  en: I've worked a lot this week.
+- El domingo fui al Rastro con Lucía.
+  it: Domenica sono andato al Rastro con Lucía.
+  en: On Sunday I went to the Rastro with Lucía.
+- ¿Qué vais a hacer el sábado que viene?
+  it: Cosa farete (andate a fare) sabato prossimo?
+  en: What are you going to do next Saturday?
+- Todavía no conozco Toledo, pero me han dicho que es preciosa.
+  it: Non conosco ancora Toledo, ma mi hanno detto che è bellissima.
+  en: I don't know Toledo yet, but people have told me it's beautiful.
+
+ex2:
+- Hoy [he] [salido] tarde de la oficina.
+  it: Oggi sono uscito tardi dall'ufficio.
+  en: Today I left the office late.
+- Ayer [fui] al mercado y [compré] tomates.
+  it: Ieri sono andato al mercato e ho comprato dei pomodori.
+  en: Yesterday I went to the market and bought some tomatoes.
+- [Vamos] [a] coger el tren de las nueve.
+  it: Prenderemo il treno delle nove.
+  en: We're going to catch the nine o'clock train.
+- ¿A qué hora [salís] vosotros?
+  it: A che ora partite, voi?
+  en: What time are you all leaving?

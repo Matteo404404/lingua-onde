@@ -1,0 +1,137 @@
+course: de
+stage: foundation
+
+== 51 B1
+title: Eine schwierige Entscheidung
+title.it: Una decisione difficile
+title.en: A difficult decision
+title.es: Una decisión difícil
+
+dialogue:
+- Jonas, ich brauche deinen Rat. Eine Firma in München hat mir eine Stelle angeboten.
+  it: Jonas, ho bisogno di un tuo consiglio. Un'azienda di Monaco mi ha offerto un posto di lavoro.
+  en: Jonas, I need your advice. A company in Munich has offered me a job.
+  es: Jonas, necesito tu consejo. Una empresa de Múnich me ha ofrecido un puesto de trabajo.
+- Das ist ja toll! Warum machst du so ein Gesicht?
+  it: Ma è fantastico! Perché fai quella faccia (così una faccia)?
+  en: But that's great! Why the long face (why do you make such a face)?
+  es: ¡Pero eso es genial! ¿Por qué pones esa cara (por qué haces así una cara)?
+- Weil ich mich gerade erst hier eingelebt habe. Ich weiß nicht, ob das der richtige Zeitpunkt ist.
+  it: Perché mi sono appena ambientata qui. Non so se sia il momento giusto.
+  en: Because I've only just settled in here. I don't know if it's the right time.
+  es: Porque acabo de adaptarme aquí. No sé si es el momento adecuado.
+- Meiner Meinung nach solltest du die Stelle annehmen. So eine Chance bekommt man nicht zweimal.
+  it: Secondo me dovresti accettare il posto. Un'occasione così non capita due volte.
+  en: In my opinion, you should take the job. You don't get a chance like that twice.
+  es: En mi opinión (de mi opinión según), deberías aceptar el puesto. Una oportunidad así no se tiene dos veces.
+- Vielleicht. Aber ich hätte Angst, meine Freunde zu verlieren.
+  it: Forse. Ma avrei paura di perdere i miei amici.
+  en: Maybe. But I'd be afraid of losing my friends.
+  es: Quizá. Pero tendría miedo de perder a mis amigos.
+- München ist doch nicht aus der Welt! Wenn du dort wohnen würdest, würde ich dich oft besuchen.
+  it: Monaco non è mica in capo al mondo! Se abitassi lì, verrei spesso a trovarti.
+  en: Munich isn't the end of the earth! If you lived there, I'd visit you often.
+  es: ¡Múnich no está en el fin del mundo (fuera del mundo)! Si vivieras allí, iría a verte a menudo.
+- Und was meint Mia dazu?
+  it: E Mia che ne pensa?
+  en: And what does Mia think about it?
+  es: ¿Y qué opina Mia de esto?
+- Sie findet, dass du nichts überstürzen solltest. Aber eigentlich denkt sie wie ich.
+  it: Pensa che tu non debba precipitare le cose. Ma in fondo la pensa come me.
+  en: She thinks you shouldn't rush into anything. But deep down she agrees with me.
+  es: Opina que no deberías precipitarte. Pero en el fondo piensa como yo.
+- Na gut. Ich schreibe der Firma heute Abend, obwohl ich noch Zweifel habe.
+  it: E va bene. Scrivo all'azienda stasera, anche se ho ancora dei dubbi.
+  en: All right. I'll write to the company tonight, although I still have doubts.
+  es: Bueno, vale. Escribo a la empresa esta noche, aunque todavía tengo dudas.
+- Siehst du? Ich wusste, dass du die richtige Entscheidung treffen würdest.
+  it: Vedi? Sapevo che avresti preso la decisione giusta.
+  en: You see? I knew you'd make the right decision.
+  es: ¿Ves? Sabía que tomarías la decisión correcta.
+
+notes.it:
+1. Il Konjunktiv II corrisponde al condizionale italiano: würde + infinito
+   (würde besuchen, treffen würdest) e le forme brevi hätte, wäre, solltest.
+   Nella frase con wenn il tedesco usa il Konjunktiv II anche dove l'italiano
+   vuole il congiuntivo: wenn du dort wohnen würdest = se tu abitassi lì.
+2. Le congiunzioni subordinanti weil, dass, ob e obwohl mandano il verbo
+   coniugato in fondo alla frase: weil ich mich eingelebt habe, obwohl ich noch
+   Zweifel habe.
+3. Falsi amici: die Firma è l'azienda (la firma si dice die Unterschrift); der Rat
+   è il consiglio, non la rata; die Stelle è il posto di lavoro.
+4. Meiner Meinung nach (secondo me) e Ich finde, dass... introducono
+   un'opinione. Was meint Mia dazu? significa "che ne pensa Mia?": meinen vuol
+   dire "pensare, essere dell'idea".
+5. Espressioni utili: so ein Gesicht machen (fare quella faccia), nicht aus der
+   Welt sein (non essere in capo al mondo), eine Entscheidung treffen (prendere
+   una decisione, letteralmente "colpirla"), sich einleben (ambientarsi).
+notes.en:
+1. The Konjunktiv II works like the English "would": würde + infinitive (würde
+   besuchen, treffen würdest) and the short forms hätte, wäre, solltest. In a
+   wenn clause German uses it too: wenn du dort wohnen würdest = if you lived
+   there.
+2. The subordinating conjunctions weil, dass, ob and obwohl send the conjugated
+   verb to the end: weil ich mich eingelebt habe, obwohl ich noch Zweifel habe.
+3. Die Firma is a company (a signature is die Unterschrift); der Rat is advice;
+   die Stelle is a job, a position.
+4. Meiner Meinung nach (in my opinion) and Ich finde, dass... introduce an
+   opinion. Was meint Mia dazu? means "what does Mia think about it?": meinen
+   means "to think, to be of the opinion".
+5. Useful phrases: so ein Gesicht machen (to pull such a face), nicht aus der
+   Welt sein (not to be at the end of the earth), eine Entscheidung treffen (to
+   make a decision, literally "to hit" it), sich einleben (to settle in).
+notes.es:
+1. El Konjunktiv II corresponde al condicional español: würde + infinitivo
+   (würde besuchen, treffen würdest) y las formas breves hätte, wäre, solltest.
+   En la frase con wenn el alemán usa el Konjunktiv II también donde el español
+   pide el imperfecto de subjuntivo: wenn du dort wohnen würdest = si vivieras
+   allí.
+2. Las conjunciones subordinantes weil, dass, ob y obwohl mandan el verbo
+   conjugado al final de la frase: weil ich mich eingelebt habe, obwohl ich noch
+   Zweifel habe.
+3. Falsos amigos: die Firma es la empresa (la firma se dice die Unterschrift);
+   der Rat es el consejo, no una rata (die Ratte); die Stelle es el puesto de
+   trabajo.
+4. Meiner Meinung nach (en mi opinión) e Ich finde, dass... introducen una
+   opinión. Was meint Mia dazu? significa "¿qué opina Mia de esto?": meinen
+   quiere decir "opinar, ser de la idea".
+5. Expresiones útiles: so ein Gesicht machen (poner esa cara), nicht aus der
+   Welt sein (no estar en el fin del mundo), eine Entscheidung treffen (tomar
+   una decisión, literalmente "acertarla", como quien da en el blanco), sich
+   einleben (adaptarse, aclimatarse).
+
+ex1:
+- An deiner Stelle würde ich das Angebot annehmen.
+  it: Al posto tuo accetterei l'offerta.
+  en: If I were you, I'd accept the offer.
+  es: Yo en tu lugar aceptaría la oferta.
+- Ich weiß nicht, ob ich Zeit habe.
+  it: Non so se ho tempo.
+  en: I don't know if I have time.
+  es: No sé si tengo tiempo.
+- Obwohl es regnet, gehen wir spazieren.
+  it: Anche se piove, andiamo a fare una passeggiata.
+  en: Although it's raining, we're going for a walk.
+  es: Aunque llueve, salimos a pasear.
+- Wenn ich mehr Geld hätte, würde ich reisen.
+  it: Se avessi più soldi, viaggerei.
+  en: If I had more money, I'd travel.
+  es: Si tuviera más dinero, viajaría.
+
+ex2:
+- Ich [würde] dich oft besuchen.
+  it: Verrei spesso a trovarti.
+  en: I'd visit you often.
+  es: Iría a verte a menudo.
+- Ich [hätte] Angst, allein zu wohnen.
+  it: Avrei paura di vivere da sola.
+  en: I'd be afraid of living alone.
+  es: Tendría miedo de vivir sola.
+- Sie findet, [dass] du nichts überstürzen [solltest].
+  it: Pensa che tu non debba precipitare le cose.
+  en: She thinks you shouldn't rush into anything.
+  es: Opina que no deberías precipitarte.
+- Eine [Firma] hat mir eine [Stelle] angeboten.
+  it: Un'azienda mi ha offerto un posto di lavoro.
+  en: A company has offered me a job.
+  es: Una empresa me ha ofrecido un puesto de trabajo.

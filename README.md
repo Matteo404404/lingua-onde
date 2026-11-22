@@ -1,18 +1,22 @@
 # Lingua Onde
 
-A desktop app for learning languages by assimilation: a short dialogue a day,
-heard and repeated aloud, understood through your own language, with notes,
-two exercises, review of earlier lessons and, later, an active "second wave".
+A desktop app for learning languages by assimilation, following the method of
+the Assimil courses: a short dialogue a day, heard and repeated aloud,
+understood through your own language, with figured pronunciation, notes, two
+exercises, a revision lesson every seven, and from lesson 50 an active wave
+that rebuilds earlier lessons from your language. How it works is in
+[METHOD.md](METHOD.md).
 
-The built-in courses are original lessons written for this app (Spanish,
-French, German, Dutch, Portuguese from Brazil, Mandarin with pinyin, Latin
-with vowel lengths, and Vietnamese). Translations and notes are in Italian,
-English, and Spanish. Spanish, French, German, Portuguese, Mandarin, Latin
-and Vietnamese have 13 lessons so far (8 at A1, then one sample at each
-higher level). Dutch's six files contain the course name only. Numbering
-follows a full-course plan: A1 1–25, A2 26–50,
-B1 51–75, B2 76–150, C1 151–200, C2 201–300. The text has not been checked
-by a native speaker.
+Each language has three courses in a row: Foundation (first words to B2,
+100 lessons), Perfectionnement (B2 to C1, 70 lessons) and Mastery (C1 to C2,
+125 lessons). The built-in courses are original lessons written for this app
+(Spanish, French, German, Dutch, Portuguese from Brazil, Mandarin with
+pinyin, Latin with vowel lengths, and Vietnamese). They are being written one
+pair of languages at a time, Spanish for Italian speakers first. So far each
+language except Dutch has 13 sample lessons (lessons 1–8, 26, 51 and 76 of
+Foundation, one lesson each of Perfectionnement and Mastery), with
+translations and notes in Italian, English and Spanish; Dutch has none yet.
+The text has not been checked by a native speaker.
 
 This is private use only. You can build and run it for your own learning.
 You cannot sell it or use it commercially. The full rules are in [LICENSE](LICENSE).
@@ -95,28 +99,37 @@ Progress is stored in `~/.local/share/lingua-onde/` (progress, your own
 courses, downloaded voices). `LINGUA_ONDE_HOME` overrides that folder.
 
 `--screenshot <file.png>` opens the window without focus, draws about 120
-frames, saves a picture and exits. `--open home|courses|review|settings|study[:step]|editor[:lesson]`
-opens one screen directly, and `--size 950x520` sets the window size (a
+frames, saves a picture and exits. `--open home|courses|settings|guide|study[:step]|editor[:lesson]|review[:tab[:search]]`
+opens one screen directly (`guide` is the pronunciation guide), and `--size 950x520` sets the window size (a
 narrow window shows the icon-only side bar). `--check <file>...` checks
 lesson files against the built-in rules and prints what is missing.
 
 ## The daily lesson
 
-1. Blind listening: no text, repeat each sentence aloud in the pause.
-2. Listen while reading the translation in your language.
-3. Listen while reading the original text.
-4. Read the dialogue with the translation (literal sense in brackets).
-5. Notes.
-6. Exercise 1: translate.
-7. Exercise 2: fill in the missing words (checked, accents forgiven with a warning).
-8. Read it again (translation hidden).
-9. Last blind listening.
-10. Read and listen to the two previous dialogues.
-11. Second wave (when due): an old lesson, from your language back to the original, aloud.
+The full method, course by course, is in [METHOD.md](METHOD.md). In the app,
+an ordinary lesson goes:
 
+1. Listen without the text, repeating each sentence aloud in the pause.
+2. Listen while reading the translation, then the original.
+3. Read the dialogue with the translation (literal sense in brackets) and,
+   in lessons 1–50, the figured pronunciation for your language
+   (the guide is under Notes, "Pronunciation guide").
+4. Pronunciation observations, notes and, in some lessons, a cultural note.
+5. Exercise 1: translate. Exercise 2: fill in the missing words (one dot per
+   letter; checked, accents forgiven with a warning).
+6. Read it again with the translation hidden, listen once more without text.
+7. Read and listen to the two previous dialogues.
+8. From lesson 50, the active wave: the lesson 49 places back (50 brings back
+   1), its dialogue and exercise 1 in your language only, to say (and
+   optionally type) in the language you learn, then compare.
+
+Every 7th lesson is a revision lesson: the grammar of the six before in
+order, then a revision dialogue whose lines name the lessons they come from.
+At the end of a lesson you can choose to go over it again the next day.
 Finished dialogues go into a spaced daily sentence review (Review, Daily
-sentences). The second wave of lesson *n* comes due when you finish lesson
-*n + 49* (Settings, "Second wave starts").
+sentences); Review, Search finds any sentence of the language. The active
+wave of lesson *n* comes due when you finish lesson *n + 49* (Settings,
+"Second wave starts"), and after the last lesson the rest come back one a day.
 
 ## Audio
 
@@ -141,12 +154,16 @@ format is in `content/FORMAT.md`.
 
 - `src/main.rs` window, `--screenshot`, `--check`. `src/app.rs` navigation,
   home, courses, settings. `src/session.rs` the guided lesson, listening,
-  review. `src/editor.rs` My lessons. `src/audio.rs` player, recordings,
+  review. `src/practice.rs` the active wave, Mastery's open tasks and the
+  answer check. `src/editor.rs` My lessons. `src/audio.rs` player, recordings,
   voices. `src/format.rs` lesson files and the built-in lesson rules.
   `src/store.rs` data folder, progress, review schedule. `src/theme.rs`
   colours, fonts and shared widgets.
-- `content/<lang>/a1.txt` … `c2.txt` the built-in courses, one file per
-  level (the list is `BUILTIN` in `src/store.rs`).
+- `content/<lang>/<course>-<level>.txt` the built-in courses
+  (`es/foundation-a1.txt` … `es/mastery-c2.txt`; the list is `BUILTIN` in
+  `src/store.rs`), and `content/<lang>/pronunciation.md` the figured
+  pronunciation key where one exists. `content/FORMAT.md` is the file format,
+  `METHOD.md` the method.
 - `packaging/` the launcher entry, icon and `install.sh`; `.github/workflows/release.yml`
   builds the downloads.
 - `assets/NotoSans-*.ttf` is Noto Sans (Regular, Medium, Bold), under the SIL

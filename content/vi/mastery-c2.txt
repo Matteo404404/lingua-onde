@@ -1,0 +1,178 @@
+course: vi
+stage: mastery
+
+== 26 C2
+title: Chuyện một chữ “tôi”
+title.it: Storia della parola «io»
+title.en: The story of the word "I"
+title.es: Historia de la palabra «yo»
+
+dialogue:
+- Mười năm trước, tôi đặt chân đến Hà Nội với một cuốn từ điển bỏ túi và mấy câu chào học vội trên máy bay, tin rằng thế là đủ để bắt đầu một cuộc đời mới.
+  it: Dieci anni fa misi piede a Hanoi con un dizionario tascabile e qualche saluto imparato in fretta sull'aereo, convinto che bastasse per cominciare una vita nuova.
+  en: Ten years ago I set foot in Hanoi with a pocket dictionary and a few greetings hastily learned on the plane, convinced that this was enough to begin a new life.
+  es: Hace diez años pisé Hanói con un diccionario de bolsillo y unos cuantos saludos aprendidos a toda prisa en el avión, convencido de que bastaba para empezar una vida nueva.
+- Cuốn từ điển dạy tôi rằng “tôi” là “io”, “bạn” là “tu”, gọn gàng như một phép tính; phải mất gần một mùa đông, cùng không ít lần bẽ mặt, tôi mới hiểu rằng ở xứ này chẳng ai là “tôi” một cách trơ trọi cả.
+  it: Il dizionario mi insegnava che tôi era «io» e bạn era «tu», puliti come un'operazione aritmetica; mi ci vollero quasi un inverno intero e non poche figuracce per capire che, da queste parti, nessuno è semplicemente «io».
+  en: The dictionary taught me that tôi was "I" and bạn was "you", as tidy as a sum; it took me nearly a whole winter, and more than a few humiliations, to understand that in this country nobody is simply "I".
+  es: El diccionario me enseñaba que tôi era «yo» y bạn era «tú», limpios como una operación aritmética; me hicieron falta casi un invierno entero y no pocos bochornos para entender que, en esta tierra, nadie es «yo» a secas.
+- Trước chị Lan, tôi là em; trước Minh, tôi là anh; trước bác Hùng, tôi là cháu. Mỗi lần mở miệng là một lần tự định vị mình trong tấm lưới chằng chịt của tuổi tác và tình thân.
+  it: Davanti a Lan ero em, davanti a Minh ero anh, davanti al signor Hùng ero cháu. Ogni volta che aprivo bocca dovevo ricollocarmi nella fitta rete dell'età e della parentela.
+  en: Before Lan I was em, before Minh I was anh, before Mr Hùng I was cháu. Every time I opened my mouth I had to place myself anew in the dense web of age and kinship.
+  es: Ante Lan yo era em; ante Minh, anh; ante el señor Hùng, cháu. Cada vez que abría la boca tenía que volver a situarme en la tupida red de la edad y el parentesco.
+- Có lần, muốn tỏ ra lịch sự cho phải phép, tôi thưa chuyện với bác Hùng bằng một chữ “tôi” tròn vành rõ chữ. Bác đặt đũa xuống, nhìn tôi hồi lâu rồi hỏi: “Cháu giận bác chuyện gì à?”
+  it: Una volta, volendo mostrarmi educato come si deve, mi rivolsi al signor Hùng con un tôi scandito alla perfezione. Lui posò le bacchette, mi fissò a lungo e poi chiese: «Ce l'hai con me per qualcosa?»
+  en: Once, wishing to appear properly polite, I addressed Mr Hùng with a beautifully enunciated tôi. He put down his chopsticks, looked at me for a long moment and asked: "Are you cross with me about something?"
+  es: Una vez, queriendo mostrarme educado como Dios manda, me dirigí al señor Hùng con un tôi pronunciado a la perfección. Él dejó los palillos, me miró largo rato y preguntó: «¿Estás enfadado conmigo por algo?»
+- Hóa ra, cái đại từ mà sách vở gọi là trung tính lại lạnh lùng nhất, như một cánh cửa khép hờ giữa hai người vốn đã ngồi chung một mâm cơm.
+  it: Si scoprì così che il pronome che i libri chiamano neutro era il più freddo di tutti, una porta socchiusa fra due persone che già dividevano la stessa tavola.
+  en: It turned out that the pronoun the textbooks call neutral was the coldest of all, a door left ajar between two people who already shared the same table.
+  es: Resultó que el pronombre que los libros llaman neutro era el más frío de todos, una puerta entornada entre dos personas que ya compartían la misma mesa.
+- Ông bà ta dạy: “Học ăn, học nói, học gói, học mở.” Học ăn thì tôi tiến bộ khá nhanh, phở của bác Hùng là người thầy tận tụy nhất; còn học nói thì đến nay vẫn dang dở.
+  it: I nostri vecchi insegnano: «Impara a mangiare, impara a parlare, impara a incartare, impara a scartare». A mangiare ho fatto presto progressi, e il phở del signor Hùng è stato il più devoto dei maestri; a parlare, invece, sto ancora imparando.
+  en: As our elders teach: "Learn to eat, learn to speak, learn to wrap, learn to unwrap." At eating I made quick progress, Mr Hùng's phở being the most devoted of teachers; speaking, to this day, remains unfinished.
+  es: Como enseñan nuestros mayores: «Aprende a comer, aprende a hablar, aprende a envolver, aprende a desenvolver». En lo de comer progresé deprisa, pues el phở del señor Hùng fue el más entregado de los maestros; lo de hablar, en cambio, sigue a medias.
+- Minh giờ đã là thạc sĩ, định cư ở Bologna, thỉnh thoảng gửi thư cho tôi bằng thứ tiếng Ý chuẩn mực đến mức tôi, một người Ý chính gốc, phải tra từ điển.
+  it: Minh oggi ha la sua magistrale, vive a Bologna e ogni tanto mi scrive in un italiano così impeccabile che io, italiano di nascita, devo consultare il dizionario.
+  en: Minh now holds his master's degree, has settled in Bologna and now and then writes to me in Italian so impeccable that I, an Italian born and bred, have to reach for the dictionary.
+  es: Minh tiene ya su máster, se ha establecido en Bolonia y de vez en cuando me escribe en un italiano tan impecable que yo, italiano de nacimiento, tengo que consultar el diccionario.
+- Quán của chị Lan vẫn đông khách như ngày đầu; bài báo năm nào vẫn treo nơi góc tường, giấy đã ngả màu, câu chữ Hán Việt vẫn trang trọng như cũ.
+  it: Il locale di Lan è affollato come il primo giorno; l'articolo di allora è ancora appeso in un angolo, la carta ingiallita, le parole sino-vietnamite solenni come sempre.
+  en: Lan's café is as busy as on its first day; that old article still hangs in a corner, its paper yellowed, its Sino-Vietnamese phrases as solemn as ever.
+  es: El café de Lan sigue tan lleno como el primer día; aquel artículo sigue colgado en un rincón, el papel amarillento, las palabras sinovietnamitas tan solemnes como siempre.
+- Bác Hùng đã thôi bán phở, nhưng sáng nào cũng ra quán của con gái gọi một cốc cà phê “miễn phí cả đời”, rồi kể với khách lạ rằng chính bác đã khuyên con gái mở quán.
+  it: Il signor Hùng non vende più phở, ma ogni mattina va al locale della figlia, ordina un caffè «gratis a vita» e racconta ai clienti nuovi che è stato proprio lui a consigliarle di aprirlo.
+  en: Mr Hùng no longer sells phở, but every morning he goes to his daughter's café, orders a coffee "free for life" and tells newcomers that it was he who advised her to open it.
+  es: El señor Hùng ya no vende phở, pero cada mañana se acerca al café de su hija, pide un café «gratis de por vida» y cuenta a los clientes nuevos que fue él quien le aconsejó abrirlo.
+- Người xưa nói: “Đi một ngày đàng, học một sàng khôn.” Tôi đã đi mười năm, sàng khôn vẫn chưa đầy, nhưng ít ra cũng biết nên xưng hô thế nào trước một bát phở.
+  it: Dicevano gli antichi: «Un giorno di cammino, un setaccio di saggezza». Io ho camminato dieci anni e il setaccio non è ancora pieno, ma almeno so come rivolgermi agli altri davanti a una scodella di phở.
+  en: The ancients said: "Travel one day's road, gain a sieveful of wisdom." I have travelled ten years and the sieve is not yet full, but at least I know how to address people over a bowl of phở.
+  es: Decían los antiguos: «Un día de camino, un cedazo de sabiduría». Yo he caminado diez años y el cedazo aún no está lleno, pero al menos sé cómo dirigirme a los demás delante de un tazón de phở.
+- Mỗi khi có ai khen tiếng Việt của tôi, tôi lại nghĩ đến bốn chữ “uống nước nhớ nguồn”: nguồn của tôi là một căn nhà ống, một quán phở và ba con người đã kiên nhẫn sửa cho một kẻ xa lạ từng dấu thanh.
+  it: E ogni volta che qualcuno loda il mio vietnamita, ripenso alle quattro parole «bevendo l'acqua, ricorda la sorgente»: la mia sorgente è una casa a tubo, una bottega di phở e tre persone che hanno corretto con pazienza, a uno sconosciuto, ogni singolo segno di tono.
+  en: And whenever someone praises my Vietnamese, I think of the four words "when you drink water, remember its source": my source is a tube house, a phở shop and three people who patiently corrected, for a stranger, every single tone mark.
+  es: Y cada vez que alguien elogia mi vietnamita, pienso en las cuatro palabras «al beber agua, recuerda la fuente»: mi fuente es una casa tubo, una tienda de phở y tres personas que corrigieron con paciencia, a un desconocido, cada una de sus marcas de tono.
+
+notes.it:
+1. Tre tục ngữ, proverbi della tradizione orale. Học ăn, học nói, học gói,
+   học mở ricorda che le buone maniere si imparano in tutto, dal mangiare al
+   parlare; Đi một ngày đàng, học một sàng khôn dice che viaggiare insegna
+   (đàng è una forma antica di đường "strada", sàng il setaccio di bambù per
+   il riso); Uống nước nhớ nguồn chiede di non dimenticare chi ci ha
+   aiutato. Luca non si limita a citarli, li piega al proprio racconto, sàng
+   khôn vẫn chưa đầy.
+2. L'ironia è discreta e spesso rivolta a sé stessi. Il tôi "neutro" che
+   ferisce il signor Hùng; Minh che scrive un italiano troppo perfetto per
+   un italiano; il padre che si vanta di aver consigliato il locale che
+   voleva impedire (lezione 76); l'articolo ingiallito, "solenne come sempre"
+   (lezione 151). Perfino ông bà ta "i nostri avi", detto da un italiano,
+   rivela quanto Luca si senta ormai a casa.
+3. Lessico letterario. đặt chân "mettere piede", bẽ mặt "fare una
+   figuraccia", trơ trọi "isolato, solo", chằng chịt "fitto, intricato",
+   khép hờ "socchiuso", dang dở "lasciato a metà", ngả màu "ingiallito".
+   tròn vành rõ chữ "dal bordo tondo e dalla parola chiara" descrive una
+   pronuncia scandita; ngồi chung một mâm, dividere il vassoio dei pasti di
+   famiglia, indica intimità.
+4. Xưng hô, il modo di chiamare sé stessi e gli altri, è il vero tema del
+   testo. tôi va bene con gli sconosciuti, al lavoro, nei discorsi pubblici e
+   nello scritto, ma tra persone legate da affetto suona distante, perfino
+   ostile; Cháu giận bác chuyện gì à? è la reazione naturale. thưa chuyện
+   "parlare con rispetto a un anziano" e cho phải phép "come vuole
+   l'etichetta" appartengono allo stesso mondo di cortesia.
+5. Il testo si chiude tornando all'inizio del corso, la casa a tubo, il phở,
+   i tre personaggi, i segni dei toni della lezione 1. Questa forma
+   circolare è frequente nel tùy bút 隨筆, la prosa libera di riflessione,
+   che intreccia ricordo personale e meditazione.
+notes.en:
+1. Three tục ngữ, proverbs from oral tradition. Học ăn, học nói, học gói,
+   học mở says good manners must be learned in everything, from eating to
+   speaking; Đi một ngày đàng, học một sàng khôn says travel teaches (đàng
+   is an old form of đường "road", sàng the bamboo sieve for rice); Uống
+   nước nhớ nguồn asks us not to forget those who helped us. Luca does more
+   than quote them, he bends them to his own story, sàng khôn vẫn chưa đầy.
+2. The irony is quiet and often self-directed. The "neutral" tôi that hurts
+   Mr Hùng; Minh writing Italian too perfect for an Italian; the father
+   boasting that he advised opening the café he tried to stop (lesson 76);
+   the yellowed article, "as solemn as ever" (lesson 151). Even ông bà ta "our
+   forebears", said by an Italian, shows how much at home Luca now feels.
+3. Literary vocabulary. đặt chân "set foot", bẽ mặt "lose face", trơ trọi
+   "isolated, all alone", chằng chịt "dense, tangled", khép hờ "ajar", dang
+   dở "left half-done", ngả màu "yellowed". tròn vành rõ chữ "round-rimmed
+   and clear-worded" describes crisp enunciation; ngồi chung một mâm,
+   sharing the family meal tray, stands for intimacy.
+4. Xưng hô, how you name yourself and others, is the real subject of the
+   text. tôi is right with strangers, at work, in public speech and in
+   writing, but between people bound by affection it sounds distant, even
+   hostile; Cháu giận bác chuyện gì à? is the natural reaction. thưa chuyện
+   "speak respectfully to an elder" and cho phải phép "as etiquette
+   requires" belong to the same world of courtesy.
+5. The text ends by returning to the start of the course, the tube house,
+   the phở, the three characters, the tone marks of lesson 1. This circular
+   shape is common in the tùy bút 隨筆, the free reflective essay, which
+   blends personal memory and meditation.
+notes.es:
+1. Tres tục ngữ, refranes de la tradición oral. Học ăn, học nói, học gói,
+   học mở recuerda que los buenos modales se aprenden en todo, del comer al
+   hablar; Đi một ngày đàng, học một sàng khôn dice que viajar enseña (đàng
+   es una forma antigua de đường "camino", sàng el cedazo de bambú para el
+   arroz); Uống nước nhớ nguồn pide no olvidar a quien nos ayudó. Luca no se
+   limita a citarlos, los adapta a su propio relato, sàng khôn vẫn chưa đầy.
+2. La ironía es discreta y a menudo dirigida a uno mismo. El tôi "neutro"
+   que hiere al señor Hùng; Minh, que escribe un italiano demasiado perfecto
+   para un italiano; el padre que presume de haber aconsejado el café que
+   quería impedir (lección 76); el artículo amarillento, "tan solemne como
+   siempre" (lección 151). Incluso ông bà ta "nuestros antepasados", dicho por
+   un italiano, revela lo mucho que Luca se siente ya en casa.
+3. Léxico literario. đặt chân "poner el pie", bẽ mặt "hacer el ridículo",
+   trơ trọi "aislado, solo", chằng chịt "tupido, enmarañado", khép hờ
+   "entornado", dang dở "a medio hacer", ngả màu "amarillento". tròn vành rõ
+   chữ "de borde redondo y palabra clara" describe una pronunciación nítida;
+   ngồi chung một mâm, compartir la bandeja de la comida familiar, expresa
+   intimidad.
+4. Xưng hô, la manera de nombrarse a uno mismo y a los demás, es el
+   verdadero tema del texto. tôi es correcto con desconocidos, en el
+   trabajo, en los discursos públicos y por escrito, pero entre personas
+   unidas por el afecto suena distante, incluso hostil; Cháu giận bác chuyện
+   gì à? es la reacción natural. thưa chuyện "hablar con respeto a un mayor"
+   y cho phải phép "como manda la etiqueta" pertenecen al mismo mundo de
+   cortesía.
+5. El texto se cierra volviendo al principio del curso, la casa tubo, el
+   phở, los tres personajes, las marcas de tono de la lección 1. Esta forma
+   circular es frecuente en el tùy bút 隨筆, la prosa libre de reflexión, que
+   entrelaza recuerdo personal y meditación.
+
+ex1:
+- Đi một ngày đàng, học một sàng khôn: mỗi chuyến đi đều dạy ta một điều gì đó.
+  it: «Un giorno di cammino, un setaccio di saggezza»: ogni viaggio ci insegna qualcosa.
+  en: "Travel one day's road, gain a sieveful of wisdom": every journey teaches us something.
+  es: «Un día de camino, un cedazo de sabiduría»: cada viaje nos enseña algo.
+- Muốn tỏ ra lịch sự cho phải phép, anh ấy lại nói năng khách sáo đến mức người nghe thấy xa cách.
+  it: Volendo mostrarsi educato come si deve, finì per parlare con tanta cerimoniosità da sembrare distante.
+  en: Wanting to seem properly polite, he ended up speaking so ceremoniously that his listeners felt kept at a distance.
+  es: Queriendo parecer educado como Dios manda, acabó hablando con tanta ceremonia que quienes lo escuchaban lo sentían distante.
+- Uống nước nhớ nguồn, thành công rồi đừng quên những người đã giúp mình lúc khó khăn.
+  it: Bevendo l'acqua, ricorda la sorgente: quando hai successo, non dimenticare chi ti ha aiutato nei momenti difficili.
+  en: When you drink water, remember its source: once you succeed, don't forget those who helped you in hard times.
+  es: Al beber agua, recuerda la fuente: cuando triunfes, no olvides a quienes te ayudaron en los momentos difíciles.
+- Bản thảo cuốn tiểu thuyết ấy vẫn còn dang dở, giấy đã ngả màu theo năm tháng.
+  it: Il manoscritto di quel romanzo è rimasto incompiuto, e la carta è ingiallita con gli anni.
+  en: The manuscript of that novel is still unfinished, its paper yellowed by the years.
+  es: El manuscrito de aquella novela sigue a medias, con el papel amarillento por los años.
+
+ex2:
+- Học ăn, học nói, học [gói], học [mở].
+  it: Impara a mangiare, a parlare, a incartare e a scartare.
+  en: Learn to eat, to speak, to wrap and to unwrap.
+  es: Aprende a comer, a hablar, a envolver y a desenvolver.
+- Ở xứ này, chẳng ai là “tôi” một cách [trơ trọi] cả.
+  it: Da queste parti nessuno è semplicemente «io».
+  en: In this country nobody is simply "I".
+  es: En esta tierra nadie es «yo» a secas.
+- Tôi thưa chuyện với bác bằng một chữ “tôi” [tròn vành] rõ [chữ].
+  it: Mi rivolsi a lui con un tôi scandito alla perfezione.
+  en: I addressed him with a beautifully enunciated tôi.
+  es: Me dirigí a él con un tôi pronunciado a la perfección.
+- Mỗi lần mở miệng là một lần tự [định vị] mình trong tấm lưới [chằng chịt] của tuổi tác và tình thân.
+  it: Ogni volta che si apre bocca ci si ricolloca nella fitta rete dell'età e della parentela.
+  en: Every time you open your mouth you place yourself anew in the dense web of age and kinship.
+  es: Cada vez que abres la boca vuelves a situarte en la tupida red de la edad y el parentesco.

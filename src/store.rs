@@ -10,26 +10,42 @@ use serde::{Deserialize, Serialize};
 use crate::format::{parse_course, write_course};
 use crate::model::Course;
 
-/// `content/<lang>/<level>.txt` for each language, A1 first.
-macro_rules! levels {
+/// `content/<lang>/<stage>-<level>.txt` for each language: the three
+/// courses (Foundation, Perfectionnement, Mastery), each split by level.
+macro_rules! files {
     ($($lang:literal),*) => {
         &[$(
-            (concat!($lang, "/a1.txt"), include_str!(concat!("../content/", $lang, "/a1.txt"))),
-            (concat!($lang, "/a2.txt"), include_str!(concat!("../content/", $lang, "/a2.txt"))),
-            (concat!($lang, "/b1.txt"), include_str!(concat!("../content/", $lang, "/b1.txt"))),
-            (concat!($lang, "/b2.txt"), include_str!(concat!("../content/", $lang, "/b2.txt"))),
-            (concat!($lang, "/c1.txt"), include_str!(concat!("../content/", $lang, "/c1.txt"))),
-            (concat!($lang, "/c2.txt"), include_str!(concat!("../content/", $lang, "/c2.txt"))),
+            files!(@one $lang, "foundation-a1"),
+            files!(@one $lang, "foundation-a2"),
+            files!(@one $lang, "foundation-b1"),
+            files!(@one $lang, "foundation-b2"),
+            files!(@one $lang, "perfectionnement-b2"),
+            files!(@one $lang, "perfectionnement-c1"),
+            files!(@one $lang, "mastery-c1"),
+            files!(@one $lang, "mastery-c2"),
         )*]
+    };
+    (@one $lang:literal, $file:literal) => {
+        (concat!($lang, "/", $file, ".txt"), include_str!(concat!("../content/", $lang, "/", $file, ".txt")))
     };
 }
 
-/// Built-in lesson files, one per language and level. Several files add
-/// lessons to one language's course (the `course:` line says which); the
-/// A1 file names it. Courses appear in this order.
-pub const BUILTIN: &[(&str, &str)] = levels!("es", "fr", "de", "nl", "pt", "zh", "la", "vi");
+/// Built-in lesson files. Files with the same `course:` and `stage:` lines
+/// add lessons to one course; the first file of a course names it. Courses
+/// appear in this order.
+pub const BUILTIN: &[(&str, &str)] = files!("es", "fr", "de", "nl", "pt", "zh", "la", "vi");
 
-/// The built-in courses, one per language, merged from their files, and
+/// The key to a language's figured pronunciation, where one exists.
+const PRONUNCIATION: &[(&str, &str)] = &[
+    ("es", include_str!("../content/es/pronunciation.md")),
+    ("nl", include_str!("../content/nl/pronunciation.md")),
+];
+
+pub fn pronunciation_key(lang: &str) -> Option<&'static str> {
+    PRONUNCIATION.iter().find(|(l, _)| *l == lang).map(|(_, k)| *k)
+}
+
+/// The built-in courses, three per language, merged from their files, and
 /// what went wrong reading them.
 pub fn builtin_courses() -> (Vec<Course>, Vec<String>) {
     let mut out: Vec<Course> = Vec::new();
@@ -42,7 +58,11 @@ pub fn builtin_courses() -> (Vec<Course>, Vec<String>) {
                 continue;
             }
         };
-        match out.iter_mut().find(|o| o.lang == c.lang) {
+        let Some(stage) = c.stage else {
+            problems.push(format!("built-in {file}: no `stage:` line"));
+            continue;
+        };
+        match out.iter_mut().find(|o| o.lang == c.lang && o.stage == c.stage) {
             Some(o) => {
                 for l in c.lessons {
                     if o.lessons.iter().any(|x| x.number == l.number) {
@@ -54,7 +74,7 @@ pub fn builtin_courses() -> (Vec<Course>, Vec<String>) {
                 o.sort();
             }
             None => out.push(Course {
-                id: format!("core-{}", c.lang),
+                id: stage.course_id(&c.lang),
                 builtin: true,
                 ..c
             }),
@@ -158,6 +178,8 @@ pub struct LessonProgress {
     pub score: (u32, u32),
     /// Steps done in an unfinished session, to resume where it stopped.
     pub steps_done: Vec<usize>,
+    /// The learner chose to go over this lesson again the next day.
+    pub again: bool,
 }
 
 /// A sentence in spaced review (an SM-2 style schedule).

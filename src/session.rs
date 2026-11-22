@@ -9,7 +9,8 @@ use std::time::{Duration, Instant};
 use eframe::egui::{self, Color32, RichText};
 
 use crate::app::{App, Screen};
-use crate::model::{Item, Lesson, lang_color, lang_name};
+use crate::model::{Item, Lesson, Stage, lang_color, lang_name};
+use crate::practice::{Practice, Verdict, compare};
 use crate::store::{Card, Grade, day_key, today};
 use crate::theme::{
     self, ACCENT, ACCENT_DARK, ACCENT_SOFT, BAD, CARD, GOOD, GOOD_SOFT, HIGHLIGHT, INK, MUTED, TRACK, WARN, WARN_SOFT, bold, caps, medium,
@@ -18,6 +19,8 @@ use crate::theme::{
 
 #[derive(Clone, Copy, PartialEq, Debug)]
 pub enum Step {
+    /// Revision lesson: the grammar of the six lessons before it.
+    Recap,
     BlindListen,
     ListenBase,
     ListenTarget,
@@ -25,6 +28,7 @@ pub enum Step {
     Notes,
     Ex1,
     Ex2,
+    Tasks,
     ReadAgain,
     FinalListen,
     Previous,
@@ -34,22 +38,25 @@ pub enum Step {
 impl Step {
     pub fn title(self) -> &'static str {
         match self {
+            Step::Recap => "Revision · the grammar of the week",
             Step::BlindListen => "Blind listening",
             Step::ListenBase => "Listen, reading your language",
             Step::ListenTarget => "Listen, reading the original",
             Step::Read => "Read the dialogue",
             Step::Notes => "Notes",
             Step::Ex1 => "Exercise 1 · Translate",
-            Step::Ex2 => "Exercise 2 · Missing words",
+            Step::Ex2 => "Exercise 2 · Fill in the missing words",
+            Step::Tasks => "Open tasks",
             Step::ReadAgain => "Read it again",
             Step::FinalListen => "Last blind listening",
             Step::Previous => "Review the two previous dialogues",
-            Step::SecondWave => "Second wave",
+            Step::SecondWave => "Active wave",
         }
     }
 
     fn short(self) -> &'static str {
         match self {
+            Step::Recap => "Grammar",
             Step::BlindListen => "Blind",
             Step::ListenBase => "+ your language",
             Step::ListenTarget => "+ original",
@@ -57,15 +64,19 @@ impl Step {
             Step::Notes => "Notes",
             Step::Ex1 => "Ex. 1",
             Step::Ex2 => "Ex. 2",
+            Step::Tasks => "Tasks",
             Step::ReadAgain => "Read again",
             Step::FinalListen => "Blind again",
             Step::Previous => "2 before",
-            Step::SecondWave => "2nd wave",
+            Step::SecondWave => "Active",
         }
     }
 
     fn how(self) -> &'static str {
         match self {
+            Step::Recap => {
+                "A revision lesson: nothing new. Read how the grammar of the last six lessons fits together, with examples you already know. Then listen to the revision dialogue."
+            }
             Step::BlindListen => {
                 "Don't look at any text. Listen to the whole dialogue and repeat every sentence aloud in the pause, imitating the voice. It's fine not to understand yet: you are tuning your ear."
             }
@@ -79,10 +90,13 @@ impl Step {
                 "Read the dialogue aloud, sentence by sentence, with the translation beside it. The literal sense in brackets shows how the language thinks. Click ▶ to hear a sentence."
             }
             Step::Notes => {
-                "Read the notes. They explain what you just met; don't try to memorise anything, it settles by itself as you go on."
+                "Read the pronunciation observations and the notes. They explain what you just met; don't try to memorise anything, it settles by itself as you go on."
             }
             Step::Ex1 => "Read each sentence aloud and translate it in your head, then check.",
             Step::Ex2 => "Write the missing words. The translation tells you what the sentence says.",
+            Step::Tasks => {
+                "Open tasks have no single right answer. Write or say yours first, then compare it with a model answer and tick the checklist honestly."
+            }
             Step::ReadAgain => {
                 "Read the dialogue once more, aloud. Try hiding the translation: you should understand almost all of it now."
             }
@@ -93,7 +107,7 @@ impl Step {
                 "Read and listen to the two lessons before this one, aloud. Old material comes back easily and keeps growing roots."
             }
             Step::SecondWave => {
-                "Active phase: read the sentence in your language and say it aloud in the language you are learning, then check. Don't worry about mistakes."
+                "The active wave: an earlier lesson's dialogue and exercise 1, shown in your language only. Say each sentence aloud in the language you learn (type it if you like), then reveal it and compare. Mistakes are part of it."
             }
         }
     }
@@ -112,6 +126,10 @@ pub struct Session {
     pub hide_tr: bool,
     /// An older lesson whose second wave is due today.
     pub wave2: Option<usize>,
+    pub wave: Practice,
+    pub tasks: Practice,
+    /// "Go over this lesson again tomorrow", chosen at the end.
+    pub again: bool,
 }
 
 #[derive(Clone, Copy, PartialEq)]
@@ -123,11 +141,15 @@ pub enum Phase {
     Done,
 }
 
-/// Sentences spoken one after another by the voice.
+/// Sentences spoken one after another by the voice. In prompt-and-answer
+/// mode each sentence is preceded by its translation in the learner's
+/// language, and the pause after the prompt is the learner's turn.
 pub struct Seq {
     pub tag: String,
-    pub lang: String,
-    pub texts: Vec<String>,
+    /// What to say, in order: (language, text).
+    pub parts: Vec<(String, String)>,
+    /// Parts per sentence: 1, or 2 with a prompt before each sentence.
+    pub stride: usize,
     pub idx: usize,
     pub phase: Phase,
     pub repeat: bool,
@@ -139,6 +161,19 @@ impl Seq {
     fn running(&self) -> bool {
         matches!(self.phase, Phase::Wait | Phase::Play(_) | Phase::Gap(..))
     }
+
+    /// The sentence being spoken.
+    pub fn sentence(&self) -> usize {
+        self.idx / self.stride
+    }
+
+    pub fn sentences(&self) -> usize {
+        self.parts.len() / self.stride
+    }
+
+    fn is_prompt(&self) -> bool {
+        self.stride == 2 && self.idx.is_multiple_of(2)
+    }
 }
 
 #[derive(Default)]
@@ -148,54 +183,15 @@ pub struct ReviewState {
     pub built: bool,
     pub shown: bool,
     pub practice: Option<(usize, usize)>,
-    pub practice_shown: HashSet<usize>,
-}
-
-#[derive(PartialEq)]
-enum Mark {
-    Right,
-    Accent,
-    Wrong,
-}
-
-fn fold(s: &str) -> String {
-    s.chars()
-        .map(|c| match c {
-            'á' | 'à' | 'â' | 'ä' | 'ã' | 'å' | 'ā' => 'a',
-            'é' | 'è' | 'ê' | 'ë' | 'ē' => 'e',
-            'í' | 'ì' | 'î' | 'ï' | 'ī' => 'i',
-            'ó' | 'ò' | 'ô' | 'ö' | 'õ' | 'ō' => 'o',
-            'ú' | 'ù' | 'û' | 'ü' | 'ū' => 'u',
-            'ç' => 'c',
-            'ñ' => 'n',
-            'ß' => 's',
-            c => c,
-        })
-        .collect()
-}
-
-fn norm(s: &str) -> String {
-    s.trim()
-        .trim_matches(|c: char| c.is_ascii_punctuation() || "¿¡«»“”‘’。，！？、".contains(c))
-        .to_lowercase()
-        .split_whitespace()
-        .collect::<Vec<_>>()
-        .join(" ")
-}
-
-fn mark(answer: &str, right: &str) -> Mark {
-    let (a, r) = (norm(answer), norm(right));
-    if a == r {
-        Mark::Right
-    } else if !a.is_empty() && fold(&a) == fold(&r) {
-        Mark::Accent
-    } else {
-        Mark::Wrong
-    }
+    pub practice_state: Practice,
+    pub search: String,
 }
 
 /// The lesson column's widest size: lines stay easy to read.
 const STUDY_W: f32 = 900.0;
+
+/// The figured pronunciation line: warm, so it reads apart from the translation.
+const FIGURED: Color32 = Color32::from_rgb(156, 98, 36);
 
 fn texts(items: &[Item]) -> Vec<String> {
     items.iter().map(|i| i.plain()).collect()
@@ -209,18 +205,7 @@ impl App {
         };
         let key = self.courses[ci].lesson_key(lesson.number);
         let wave2 = self.wave2_for(ci, li);
-        let mut steps = vec![
-            Step::BlindListen,
-            Step::ListenBase,
-            Step::ListenTarget,
-            Step::Read,
-            Step::Notes,
-            Step::Ex1,
-            Step::Ex2,
-            Step::ReadAgain,
-            Step::FinalListen,
-            Step::Previous,
-        ];
+        let mut steps = lesson_steps(&lesson, self.courses[ci].stage);
         if wave2.is_some() {
             steps.push(Step::SecondWave);
         }
@@ -234,7 +219,7 @@ impl App {
             }
         }
         let step = done.iter().position(|d| !d).unwrap_or(0);
-        let answers = lesson.ex2.iter().map(|i| vec![String::new(); i.blanks().len()]).collect();
+        let answers = lesson.ex2.iter().map(|i| vec![String::new(); i.blanks().len().max(1)]).collect();
 
         // Let the voice prepare everything this session will speak.
         let lang = self.courses[ci].lang.clone();
@@ -259,6 +244,9 @@ impl App {
             score: (0, 0),
             hide_tr: false,
             wave2,
+            wave: Practice::default(),
+            tasks: Practice::default(),
+            again: p.again,
         });
         self.screen = Screen::Study;
     }
@@ -304,6 +292,7 @@ impl App {
         }
         p.times += 1;
         p.steps_done.clear();
+        p.again = s.again;
         if s.score.1 > 0 {
             p.score = s.score;
         }
@@ -323,11 +312,18 @@ impl App {
             }
         }
         self.saved.day().lessons += 1;
-        let msg = format!(
-            "Lesson {} done{} See you tomorrow for the next one.",
-            lesson.number,
-            if first { " — well done!" } else { " again." }
-        );
+        let msg = if s.again {
+            format!(
+                "Lesson {} done. Tomorrow you'll go over it once more — that's how it settles.",
+                lesson.number
+            )
+        } else {
+            format!(
+                "Lesson {} done{} See you tomorrow for the next one.",
+                lesson.number,
+                if first { " — well done!" } else { " again." }
+            )
+        };
         self.mark_dirty();
         self.screen = Screen::Home;
         self.say(msg);
@@ -335,17 +331,34 @@ impl App {
 
     // ------------------------------------------------------------ audio
 
-    pub fn play_seq(&mut self, tag: &str, lang: &str, texts: Vec<String>, from: usize, single: bool) {
+    pub(crate) fn play_seq(&mut self, tag: &str, lang: &str, texts: Vec<String>, from: usize, single: bool) {
+        let parts = texts.into_iter().map(|t| (lang.to_string(), t)).collect();
+        self.start_seq(tag, parts, 1, from, single);
+    }
+
+    /// Prompt and answer: each prompt (in `base`) is followed by the learner's
+    /// turn, then the answer (in `lang`) and a pause to repeat it.
+    pub(crate) fn play_pairs(&mut self, tag: &str, base: &str, prompts: Vec<String>, lang: &str, answers: Vec<String>) {
+        self.voices.prepare(base, &prompts);
+        let parts = prompts
+            .into_iter()
+            .zip(answers)
+            .flat_map(|(p, a)| [(base.to_string(), p), (lang.to_string(), a)])
+            .collect();
+        self.start_seq(tag, parts, 2, 0, false);
+    }
+
+    fn start_seq(&mut self, tag: &str, parts: Vec<(String, String)>, stride: usize, from: usize, single: bool) {
         self.player.stop();
-        if texts.is_empty() {
+        if parts.is_empty() {
             self.seq = None;
             return;
         }
         self.seq = Some(Seq {
             tag: tag.to_string(),
-            lang: lang.to_string(),
-            idx: from.min(texts.len() - 1),
-            texts,
+            idx: (from * stride).min(parts.len() - stride),
+            parts,
+            stride,
             phase: Phase::Wait,
             repeat: self.saved.repeat_pauses && !single,
             single,
@@ -359,10 +372,14 @@ impl App {
             let now = Instant::now();
             match seq.phase {
                 Phase::Wait => {
-                    let text = seq.texts[seq.idx].clone();
-                    if !self.voices.ready(&seq.lang) {
+                    let (lang, text) = seq.parts[seq.idx].clone();
+                    if !self.voices.ready(&lang) && seq.is_prompt() {
+                        // No voice for the learner's language: the prompt is read on screen.
+                        let turn = Duration::from_millis(1500 + 60 * seq.parts[seq.idx + 1].1.chars().count() as u64);
+                        seq.phase = Phase::Gap(now + turn, turn);
+                    } else if !self.voices.ready(&lang) {
                         seq.phase = Phase::Stopped;
-                    } else if let Some(file) = self.voices.speech_file(&seq.lang, &text) {
+                    } else if let Some(file) = self.voices.speech_file(&lang, &text) {
                         if file.is_file() {
                             match self.player.play(&file, self.saved.speed) {
                                 Ok(()) => seq.phase = Phase::Play(now),
@@ -373,7 +390,7 @@ impl App {
                             }
                         } else if seq.asked != seq.idx {
                             seq.asked = seq.idx;
-                            self.voices.prepare(&seq.lang, &[text]);
+                            self.voices.prepare(&lang, &[text]);
                         }
                     }
                 }
@@ -382,8 +399,12 @@ impl App {
                         let took = t0.elapsed();
                         seq.phase = if seq.single {
                             Phase::Done
+                        } else if seq.is_prompt() {
+                            // The learner's turn: say the sentence before hearing it.
+                            let turn = took.mul_f32(self.saved.pause_factor + 0.5) + Duration::from_millis(1000);
+                            Phase::Gap(now + turn, turn)
                         } else {
-                            let gap = if seq.repeat {
+                            let gap = if seq.repeat || seq.stride == 2 {
                                 took.mul_f32(self.saved.pause_factor) + Duration::from_millis(300)
                             } else {
                                 Duration::from_millis(600)
@@ -395,7 +416,7 @@ impl App {
                 Phase::Gap(until, _) => {
                     if now >= until {
                         seq.idx += 1;
-                        seq.phase = if seq.idx >= seq.texts.len() { Phase::Done } else { Phase::Wait };
+                        seq.phase = if seq.idx >= seq.parts.len() { Phase::Done } else { Phase::Wait };
                     }
                 }
                 Phase::Stopped | Phase::Done => {}
@@ -412,13 +433,13 @@ impl App {
     }
 
     /// The sentence the voice is on, when it is speaking the list `tag`.
-    fn current(&self, tag: &str) -> Option<usize> {
-        self.seq.as_ref().filter(|s| s.tag == tag && s.running()).map(|s| s.idx)
+    pub(crate) fn current(&self, tag: &str) -> Option<usize> {
+        self.seq.as_ref().filter(|s| s.tag == tag && s.running()).map(|s| s.sentence())
     }
 
     /// Play/pause controls for a list of sentences: the lesson recording when
     /// there is one, else the voice sentence by sentence, else how to get audio.
-    fn listen_panel(&mut self, ui: &mut egui::Ui, tag: &str, lang: &str, items: &[Item], recording: Option<PathBuf>) {
+    pub(crate) fn listen_panel(&mut self, ui: &mut egui::Ui, tag: &str, lang: &str, items: &[Item], recording: Option<PathBuf>) {
         let voice = self.voices.ready(lang);
         let base = self.base();
         theme::tinted(ACCENT_SOFT).corner_radius(14).show(ui, |ui| {
@@ -487,7 +508,11 @@ impl App {
                 return;
             }
             if voice {
-                let seq_state = self.seq.as_ref().filter(|s| s.tag == tag).map(|s| (s.phase, s.idx, s.texts.len()));
+                let seq_state = self
+                    .seq
+                    .as_ref()
+                    .filter(|s| s.tag == tag)
+                    .map(|s| (s.phase, s.sentence(), s.sentences()));
                 let running = matches!(seq_state, Some((p, ..)) if !matches!(p, Phase::Stopped | Phase::Done));
                 ui.horizontal(|ui| {
                     let (glyph, hint) = if running { ("■", "Stop") } else { ("▶", "Listen") };
@@ -588,6 +613,21 @@ impl App {
 
     // --------------------------------------------------------- rendering
 
+    /// Under a sentence: pinyin or vowel lengths, then how it sounds spelled
+    /// for the reader's language (Assimil's figured pronunciation).
+    pub(crate) fn pron_lines(&self, ui: &mut egui::Ui, item: &Item) {
+        if !self.saved.show_pron {
+            return;
+        }
+        if !item.pron.is_empty() {
+            ui.label(RichText::new(&item.pron).size(14.0).italics().color(ACCENT));
+        }
+        if let Some(f) = item.figured(&self.base()) {
+            ui.label(RichText::new(format!("🔈 {f}")).size(14.0).color(FIGURED))
+                .on_hover_text("How it sounds, spelled for your language");
+        }
+    }
+
     /// One sentence row; returns true when its ▶ was clicked.
     #[allow(clippy::too_many_arguments)]
     fn sentence(
@@ -619,10 +659,15 @@ impl App {
                         ui.spacing_mut().item_spacing.y = 3.0;
                         let size = if big { 21.0 } else { 19.0 };
                         if show_target {
-                            ui.label(RichText::new(item.plain()).size(size));
-                            if self.saved.show_pron && !item.pron.is_empty() {
-                                ui.label(RichText::new(&item.pron).size(14.0).italics().color(ACCENT));
-                            }
+                            ui.horizontal_wrapped(|ui| {
+                                ui.label(RichText::new(item.plain()).size(size));
+                                if !item.refs.is_empty() {
+                                    let refs: Vec<String> = item.refs.iter().map(u32::to_string).collect();
+                                    ui.label(muted(format!("({})", refs.join(", "))).size(13.0))
+                                        .on_hover_text("The lessons these words come from");
+                                }
+                            });
+                            self.pron_lines(ui, item);
                         }
                         if show_tr {
                             let tr = item.tr(&base);
@@ -638,7 +683,7 @@ impl App {
         clicked
     }
 
-    fn dialogue_block(&mut self, ui: &mut egui::Ui, tag: &str, lang: &str, items: &[Item], show_target: bool, show_tr: bool) {
+    pub(crate) fn dialogue_block(&mut self, ui: &mut egui::Ui, tag: &str, lang: &str, items: &[Item], show_target: bool, show_tr: bool) {
         let cur = self.current(tag);
         let can_play = self.voices.ready(lang);
         let mut play = None;
@@ -767,7 +812,7 @@ impl App {
         let jump = theme::page(ui, STUDY_W, |ui| {
             ui.horizontal(|ui| {
                 if ui
-                    .add(theme::secondary("✕"))
+                    .add(theme::secondary("×"))
                     .on_hover_text("Close — your place in the lesson is kept")
                     .clicked()
                 {
@@ -777,7 +822,13 @@ impl App {
                 }
                 ui.add_space(4.0);
                 theme::badge(ui, lesson.level.name(), lesson.level.color());
-                ui.label(muted(format!("Lesson {}", lesson.number)).size(15.0));
+                if lesson.numeral.is_empty() {
+                    ui.label(muted(format!("Lesson {}", lesson.number)).size(15.0));
+                } else {
+                    let label = ui.label(muted(&lesson.numeral).size(15.0));
+                    let pron = lesson.numeral_pron.get(&base).map(String::as_str).unwrap_or("");
+                    label.on_hover_text(format!("Lesson {} {pron}", lesson.number));
+                }
                 ui.label(bold(&lesson.title).size(21.0));
                 ui.with_layout(egui::Layout::right_to_left(egui::Align::Center), |ui| {
                     theme::pill(ui, &lang_name(&lang, &base), lang_color(&lang), theme::soft(lang_color(&lang)));
@@ -876,7 +927,29 @@ impl App {
                         let hide = self.session.as_ref().is_some_and(|s| s.hide_tr);
                         self.dialogue_block(ui, "dlg", &lang, &lesson.dialogue, true, !hide);
                     }
-                    Step::Notes => notes(ui, lesson.notes_in(&base)),
+                    Step::Notes => {
+                        let beginner = lesson.level <= crate::model::Level::A2;
+                        if beginner
+                            && crate::store::pronunciation_key(&lang).is_some()
+                            && ui.add(theme::ghost("🔈 Pronunciation guide")).clicked()
+                        {
+                            self.key_open = true;
+                        }
+                        titled(ui, "Pronunciation", lesson.sounds_in(&base));
+                        if !lesson.sounds_in(&base).trim().is_empty() {
+                            ui.label(caps("Notes"));
+                        }
+                        notes(ui, lesson.notes_in(&base));
+                        titled(ui, "Culture", lesson.culture_in(&base));
+                    }
+                    Step::Recap => notes(ui, lesson.notes_in(&base)),
+                    Step::Tasks => {
+                        let mut p = self.session.as_mut().map(|s| std::mem::take(&mut s.tasks)).unwrap_or_default();
+                        self.tasks_step(ui, &lang, &lesson.tasks, &mut p);
+                        if let Some(s) = self.session.as_mut() {
+                            s.tasks = p;
+                        }
+                    }
                     Step::Ex1 => self.ex1(ui, &lang, &lesson),
                     Step::Ex2 => self.ex2(ui, &lang, &lesson),
                     Step::Previous => {
@@ -901,66 +974,20 @@ impl App {
                     }
                     Step::SecondWave => {
                         if let Some(w) = self.session.as_ref().and_then(|s| s.wave2) {
-                            let wl = course.lessons[w].clone();
-                            ui.horizontal(|ui| {
-                                theme::badge(ui, wl.level.name(), wl.level.color());
-                                ui.label(bold(format!("Lesson {} · {}", wl.number, wl.title)).size(18.0));
-                            });
-                            let mut shown = self.session.as_ref().map(|s| s.shown.clone()).unwrap_or_default();
-                            self.active_practice(ui, "wave", &lang, &wl.dialogue, &mut shown);
+                            let mut p = self.session.as_mut().map(|s| std::mem::take(&mut s.wave)).unwrap_or_default();
+                            self.reconstruct(ui, ci, w, &mut p);
                             if let Some(s) = self.session.as_mut() {
-                                s.shown = shown;
+                                s.wave = p;
                             }
                         }
                     }
                 }
+                if step_i + 1 == steps.len() {
+                    self.how_did_it_go(ui);
+                }
                 ui.add_space(16.0);
             });
         });
-    }
-
-    /// Translation shown; the learner says the original aloud, then reveals it.
-    fn active_practice(&mut self, ui: &mut egui::Ui, tag: &str, lang: &str, items: &[Item], shown: &mut HashSet<usize>) {
-        let base = self.base();
-        let can_play = self.voices.ready(lang);
-        if ui.add(theme::ghost("Show all")).clicked() {
-            shown.extend(0..items.len());
-        }
-        let mut play = None;
-        theme::card().inner_margin(8).show(ui, |ui| {
-            ui.set_width(ui.available_width());
-            for (i, it) in items.iter().enumerate() {
-                egui::Frame::new().inner_margin(egui::Margin::symmetric(10, 8)).show(ui, |ui| {
-                    ui.set_width(ui.available_width());
-                    ui.horizontal_top(|ui| {
-                        theme::number(ui, i + 1, false);
-                        ui.vertical(|ui| {
-                            ui.spacing_mut().item_spacing.y = 4.0;
-                            ui.label(RichText::new(it.tr(&base)).size(17.0));
-                            if shown.contains(&i) {
-                                ui.horizontal(|ui| {
-                                    if can_play && ui.add(theme::ghost("▶").small()).clicked() {
-                                        play = Some(i);
-                                    }
-                                    ui.label(bold(it.plain()).size(18.0).color(ACCENT));
-                                });
-                                if self.saved.show_pron && !it.pron.is_empty() {
-                                    ui.label(RichText::new(&it.pron).italics().color(ACCENT));
-                                }
-                            } else if ui.add(theme::secondary("Said it aloud — show me")).clicked() {
-                                shown.insert(i);
-                                if can_play {
-                                    play = Some(i);
-                                }
-                            }
-                        });
-                    });
-                });
-            }
-        });
-        if let Some(i) = play {
-            self.play_seq(tag, lang, texts(items), i, true);
-        }
     }
 
     fn ex1(&mut self, ui: &mut egui::Ui, lang: &str, lesson: &Lesson) {
@@ -984,9 +1011,7 @@ impl App {
                         ui.vertical(|ui| {
                             ui.spacing_mut().item_spacing.y = 4.0;
                             ui.label(RichText::new(it.plain()).size(19.0));
-                            if self.saved.show_pron && !it.pron.is_empty() {
-                                ui.label(RichText::new(&it.pron).size(14.0).italics().color(ACCENT));
-                            }
+                            self.pron_lines(ui, it);
                             if shown.contains(&i) {
                                 ui.label(RichText::new(format!("→ {}", it.tr(&base))).color(GOOD).size(16.0));
                             } else if ui.add(theme::secondary("Check my translation")).clicked() {
@@ -1033,18 +1058,21 @@ impl App {
                                     }
                                     let answer = &mut s.answers[i][k];
                                     let width = (text.chars().count() as f32 * 12.0 + 34.0).max(70.0);
+                                    // As in the books: one dot for each missing letter.
+                                    let dots = "·".repeat(text.chars().filter(|c| c.is_alphanumeric()).count());
                                     let edit = egui::TextEdit::singleline(answer)
+                                        .hint_text(dots)
                                         .desired_width(width)
                                         .font(egui::FontId::proportional(18.0))
                                         .margin(egui::Margin::symmetric(8, 4));
                                     ui.add_enabled(!s.checked, edit);
                                     if s.checked {
-                                        match mark(answer, &text) {
-                                            Mark::Right => ui.label(medium("✔").color(GOOD)),
-                                            Mark::Accent => ui
+                                        match compare(answer, &text).verdict {
+                                            Verdict::Right => ui.label(medium("✔").color(GOOD)),
+                                            Verdict::Accents => ui
                                                 .label(medium(format!("≈ {text}")).color(WARN))
                                                 .on_hover_text("Almost: check the accents"),
-                                            Mark::Wrong => ui.label(medium(format!("✗ {text}")).color(BAD)),
+                                            Verdict::Wrong => ui.label(medium(format!("✗ {text}")).color(BAD)),
                                         };
                                     }
                                     k += 1;
@@ -1057,9 +1085,7 @@ impl App {
                                     }
                                     ui.label(RichText::new(it.plain()).color(ACCENT));
                                 });
-                                if self.saved.show_pron && !it.pron.is_empty() {
-                                    ui.label(RichText::new(&it.pron).italics().color(ACCENT));
-                                }
+                                self.pron_lines(ui, it);
                             }
                         });
                     });
@@ -1073,11 +1099,10 @@ impl App {
                     let mut right = 0;
                     let mut total = 0;
                     for (i, it) in lesson.ex2.iter().enumerate() {
+                        let typed = |k: usize| s.answers[i].get(k).map(|a| a.as_str()).unwrap_or("");
                         for (k, b) in it.blanks().iter().enumerate() {
                             total += 1;
-                            if mark(s.answers[i].get(k).map(|a| a.as_str()).unwrap_or(""), b) != Mark::Wrong {
-                                right += 1;
-                            }
+                            right += (compare(typed(k), b).verdict != Verdict::Wrong) as u32;
                         }
                     }
                     s.score = (right, total);
@@ -1129,14 +1154,18 @@ impl App {
             egui::Frame::new().fill(TRACK).corner_radius(12).inner_margin(4).show(ui, |ui| {
                 ui.horizontal(|ui| {
                     ui.spacing_mut().item_spacing.x = 4.0;
-                    let tabs = [format!("Daily sentences · {due}"), format!("Second wave · {}", wave.len())];
+                    let tabs = [
+                        format!("Daily sentences · {due}"),
+                        format!("Active wave · {}", wave.len()),
+                        "Search".to_string(),
+                    ];
                     for (i, t) in tabs.iter().enumerate() {
                         let sel = self.review.tab == i;
                         let b = egui::Button::new(medium(t).color(if sel { INK } else { MUTED }))
                             .fill(if sel { CARD } else { Color32::TRANSPARENT })
                             .stroke(egui::Stroke::NONE)
                             .corner_radius(9)
-                            .min_size(egui::vec2(170.0, 34.0));
+                            .min_size(egui::vec2(150.0, 34.0));
                         if ui.add(b).clicked() {
                             self.review.tab = i;
                             self.review.practice = None;
@@ -1146,10 +1175,10 @@ impl App {
                 });
             });
             ui.add_space(10.0);
-            if self.review.tab == 0 {
-                self.sentence_review(ui);
-            } else {
-                self.wave_review(ui, ci, &wave);
+            match self.review.tab {
+                0 => self.sentence_review(ui),
+                1 => self.wave_review(ui, ci, &wave),
+                _ => self.search(ui),
             }
         });
     }
@@ -1228,9 +1257,7 @@ impl App {
                     }
                     ui.label(bold(item.plain()).size(25.0).color(ACCENT));
                 });
-                if self.saved.show_pron && !item.pron.is_empty() {
-                    ui.label(RichText::new(&item.pron).italics().color(ACCENT));
-                }
+                self.pron_lines(ui, &item);
             });
             if !self.review.shown {
                 return;
@@ -1285,24 +1312,21 @@ impl App {
         let base = self.base();
         let course = self.courses[ci].clone();
         ui.label(muted(format!(
-            "The second wave is the active phase of the method: from lesson {} on, each day you also go back to an old lesson, read it in your language and say it aloud in {}. Settings → “Second wave starts” changes the distance.",
+            "The active wave is the second half of the method: from lesson {} on, each day you also rebuild an earlier lesson — you see it in your language and say it aloud in {}. After the last lesson the remaining ones come back one a day. Settings → “Second wave starts” changes the distance.",
             self.saved.wave2_gap + 1,
             lang_name(&course.lang, &base)
         )).size(14.0));
         ui.add_space(6.0);
         if let Some((_, pli)) = self.review.practice.filter(|(c, _)| *c == ci) {
             let l = course.lessons[pli].clone();
-            ui.horizontal(|ui| {
-                if ui.add(theme::secondary("‹  All lessons")).clicked() {
-                    self.review.practice = None;
-                    self.stop_audio();
-                }
-                theme::badge(ui, l.level.name(), l.level.color());
-                ui.label(bold(format!("Lesson {} · {}", l.number, l.title)).size(18.0));
-            });
-            let mut shown = std::mem::take(&mut self.review.practice_shown);
-            self.active_practice(ui, "wave", &course.lang, &l.dialogue, &mut shown);
-            self.review.practice_shown = shown;
+            if ui.add(theme::secondary("‹  All lessons")).clicked() {
+                self.review.practice = None;
+                self.stop_audio();
+                return;
+            }
+            let mut p = std::mem::take(&mut self.review.practice_state);
+            self.reconstruct(ui, ci, pli, &mut p);
+            self.review.practice_state = p;
             if ui.add(theme::big_primary("✔  Second wave done for this lesson")).clicked() {
                 let key = course.lesson_key(l.number);
                 self.saved.lessons.entry(key.clone()).or_default().wave2 = Some(day_key(today()));
@@ -1361,14 +1385,144 @@ impl App {
         });
         if let Some(i) = open {
             self.review.practice = Some((ci, i));
-            self.review.practice_shown.clear();
+            self.review.practice_state = Practice::default();
+        }
+    }
+}
+
+/// The steps of a day's lesson, as in an Assimil book: listen, read with the
+/// translation, notes, exercise 1 (translate), exercise 2 (fill in), read and
+/// listen again. A revision lesson is its grammar recap and its revision
+/// dialogue (exercises only if it has them); a Mastery lesson ends with open
+/// tasks; the active wave comes after, from lesson 50.
+fn lesson_steps(lesson: &Lesson, stage: Option<Stage>) -> Vec<Step> {
+    use Step::*;
+    let mut steps = if lesson.revision {
+        vec![Recap, BlindListen, ListenBase, Read, Ex1, Ex2, FinalListen]
+    } else if stage == Some(Stage::Mastery) {
+        vec![BlindListen, ListenTarget, Read, Notes, Ex1, Ex2, FinalListen]
+    } else {
+        vec![
+            BlindListen,
+            ListenBase,
+            ListenTarget,
+            Read,
+            Notes,
+            Ex1,
+            Ex2,
+            ReadAgain,
+            FinalListen,
+            Previous,
+        ]
+    };
+    if !lesson.tasks.is_empty() {
+        let at = steps.iter().position(|s| *s == Ex2).map_or(steps.len(), |i| i + 1);
+        steps.insert(at, Tasks);
+    }
+    if lesson.ex1.is_empty() {
+        steps.retain(|s| *s != Ex1);
+    }
+    if lesson.ex2.is_empty() {
+        steps.retain(|s| *s != Ex2);
+    }
+    steps
+}
+
+impl App {
+    /// The end of a lesson: the next one tomorrow, or the same one again.
+    /// Going over a lesson twice is part of the method, not a failure.
+    fn how_did_it_go(&mut self, ui: &mut egui::Ui) {
+        let Some(s) = self.session.as_mut() else { return };
+        let low = |sc: (u32, u32)| sc.1 > 0 && sc.0 * 2 < sc.1;
+        let struggled = low(s.score);
+        ui.add_space(12.0);
+        theme::card().show(ui, |ui| {
+            ui.set_width(ui.available_width());
+            ui.label(bold("How did it go?").size(18.0));
+            if struggled {
+                ui.label(muted(
+                    "The exercises were hard today. Going over this lesson again tomorrow often makes it click.",
+                ));
+            }
+            ui.radio_value(&mut s.again, false, "Fine — the next lesson tomorrow");
+            ui.radio_value(&mut s.again, true, "Hard — go over this lesson again tomorrow");
+        });
+    }
+
+    /// Every sentence and word of the language being studied, all courses,
+    /// searched in either language, accents ignored.
+    fn search(&mut self, ui: &mut egui::Ui) {
+        let base = self.base();
+        let lang = self.courses.get(self.active()).map(|c| c.lang.clone()).unwrap_or_default();
+        ui.add(
+            egui::TextEdit::singleline(&mut self.review.search)
+                .hint_text(format!("A word in {} or in your language", lang_name(&lang, &base)))
+                .desired_width(f32::INFINITY)
+                .font(egui::FontId::proportional(17.0)),
+        );
+        let q = crate::practice::fold(self.review.search.trim());
+        if q.chars().count() < 2 {
+            ui.label(muted(
+                "Type two letters or more. The search covers the words and dialogues of every course in this language.",
+            ));
+            return;
+        }
+        let mut hits = Vec::new();
+        for (ci, c) in self.courses.iter().enumerate().filter(|(_, c)| c.lang == lang) {
+            for l in &c.lessons {
+                for it in l.dialogue.iter().chain(&l.ex1) {
+                    let found = crate::practice::fold(&it.plain()).contains(&q) || crate::practice::fold(it.tr(&base)).contains(&q);
+                    if found {
+                        hits.push((ci, l.number, it.clone()));
+                    }
+                }
+            }
+        }
+        ui.label(muted(format!(
+            "{} found{}",
+            hits.len(),
+            if hits.len() > 80 { " · the first 80" } else { "" }
+        )));
+        let can_play = self.voices.ready(&lang);
+        let mut play = None;
+        theme::card().inner_margin(8).show(ui, |ui| {
+            ui.set_width(ui.available_width());
+            for (ci, n, it) in hits.iter().take(80) {
+                egui::Frame::new().inner_margin(egui::Margin::symmetric(10, 5)).show(ui, |ui| {
+                    ui.set_width(ui.available_width());
+                    ui.horizontal_top(|ui| {
+                        if can_play && ui.add(theme::ghost("▶").small()).clicked() {
+                            play = Some(it.plain());
+                        }
+                        ui.vertical(|ui| {
+                            ui.spacing_mut().item_spacing.y = 2.0;
+                            ui.label(medium(it.plain()).size(16.5));
+                            ui.label(muted(it.tr(&base)).size(14.5));
+                            ui.label(muted(format!("{} · lesson {n}", self.course_label(*ci))).size(12.0));
+                        });
+                    });
+                });
+            }
+        });
+        if let Some(t) = play {
+            self.play_seq("search", &lang, vec![t], 0, true);
         }
     }
 }
 
 /// The lesson notes: one numbered row per note; the lines under a numbered
 /// line flow into it.
-fn notes(ui: &mut egui::Ui, notes: &str) {
+/// A titled card of free text (pronunciation observations, culture); nothing when empty.
+fn titled(ui: &mut egui::Ui, title: &str, text: &str) {
+    if text.trim().is_empty() {
+        return;
+    }
+    ui.label(caps(title));
+    notes(ui, text);
+    ui.add_space(4.0);
+}
+
+pub(crate) fn notes(ui: &mut egui::Ui, notes: &str) {
     theme::card().show(ui, |ui| {
         ui.set_width(ui.available_width());
         if notes.trim().is_empty() {
@@ -1464,14 +1618,5 @@ mod tests {
         let names: Vec<&str> = seen.iter().map(|(n, _)| *n).collect();
         assert_eq!(names.last(), Some(&"done"), "{seen:?}");
         assert!(seen.contains(&("gap", 0)) && seen.contains(&("play", 1)), "{seen:?}");
-    }
-
-    #[test]
-    fn answers_are_forgiving_about_case_and_punctuation() {
-        assert!(mark(" Bien ", "bien") == Mark::Right);
-        assert!(mark("gracias.", "gracias") == Mark::Right);
-        assert!(mark("cafe", "café") == Mark::Accent);
-        assert!(mark("", "café") == Mark::Wrong);
-        assert!(mark("hola", "adiós") == Mark::Wrong);
     }
 }

@@ -6,6 +6,7 @@ mod audio;
 mod editor;
 mod format;
 mod model;
+mod practice;
 mod session;
 mod store;
 mod theme;
@@ -14,8 +15,9 @@ use std::path::PathBuf;
 
 use eframe::egui;
 
-/// `--check <file>...`: parse lesson files and list what a built-in lesson
-/// would lack (`format::builtin_problems`). Exit code 1 when anything is wrong.
+/// `--check <file>...`: parse lesson files and list what is wrong in a
+/// built-in lesson (`format::builtin_problems`) and what it still lacks
+/// (`format::builtin_gaps`, lines with "gap:"). Exit code 1 when anything is listed.
 fn check(files: &[String]) -> i32 {
     let mut code = 0;
     for f in files {
@@ -23,7 +25,11 @@ fn check(files: &[String]) -> i32 {
             .map_err(|e| e.to_string())
             .and_then(|s| format::parse_course(&s, ""));
         let problems = match &parsed {
-            Ok(c) => c.lessons.iter().flat_map(|l| format::builtin_problems(&c.lang, l)).collect(),
+            Ok(c) => c
+                .lessons
+                .iter()
+                .flat_map(|l| [format::builtin_problems(c, l), format::builtin_gaps(c, l)].concat())
+                .collect(),
             Err(e) => vec![e.clone()],
         };
         for p in &problems {

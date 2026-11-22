@@ -1,0 +1,154 @@
+course: pt
+stage: mastery
+
+== 26 C2
+title: Saudade: modo de usar
+title.it: Saudade: istruzioni per l'uso
+title.en: Saudade: a user's guide
+title.es: Saudade: instrucciones de uso
+
+dialogue:
+- Dizem que saudade é a palavra mais intraduzível do mundo, o que não impede os brasileiros de tentarem explicá-la a todo estrangeiro que aparece no bar.
+  it: Si dice che saudade sia la parola più intraducibile del mondo, il che non impedisce ai brasiliani di provare a spiegarla a ogni straniero che capita al bar.
+  en: They say saudade is the most untranslatable word in the world, which doesn't stop Brazilians from trying to explain it to every foreigner who turns up at the bar.
+  es: Dicen que saudade es la palabra más intraducible del mundo, lo cual no impide que los brasileños intenten explicársela a todo extranjero que aparece por el bar.
+- Eu mesma, quando cheguei a São Paulo, achava que era só nostalgia com uma assessoria de imprensa melhor.
+  it: Io stessa, quando sono arrivata a San Paolo, pensavo che fosse solo nostalgia con un ufficio stampa migliore.
+  en: When I arrived in São Paulo, I myself thought it was just nostalgia with a better press office.
+  es: Yo misma, cuando llegué a São Paulo, pensaba que era solo nostalgia con un gabinete de prensa mejor.
+- Precisei de três anos, dois feriadões no litoral e um casarão quase demolido para entender que a saudade não olha só para trás.
+  it: Mi ci sono voluti tre anni, due ponti al mare e una villa quasi demolita per capire che la saudade non guarda solo indietro.
+  en: It took me three years, two long weekends on the coast and an almost demolished mansion to understand that saudade doesn't only look back.
+  es: Necesité tres años, dos puentes en la costa y una casona casi demolida para entender que la saudade no solo mira hacia atrás.
+- Sente-se saudade do que se perdeu, claro, mas também do que ainda está aqui e já sabemos que vai mudar: a padaria às sete da manhã, o cheiro do pão na chapa, a voz da Dona Lurdes a chamar-me querida.
+  it: Si prova saudade per ciò che si è perso, certo, ma anche per ciò che è ancora qui e che, lo sappiamo già, cambierà: la panetteria alle sette del mattino, il profumo del pão na chapa, la voce di Dona Lurdes che mi chiama «querida».
+  en: You feel saudade for what has been lost, of course, but also for what is still here and we already know will change: the bakery at seven in the morning, the smell of pão na chapa, Dona Lurdes's voice calling me "querida".
+  es: Se siente saudade de lo que se ha perdido, claro, pero también de lo que aún está aquí y ya sabemos que va a cambiar: la panadería a las siete de la mañana, el olor del pão na chapa, la voz de Dona Lurdes llamándome «querida».
+- Repare que escrevi “a chamar-me”, e não “me chamando de”: dois anos dividida entre Lisboa e São Paulo, e a minha sintaxe já não sabe de que lado do Atlântico mora.
+  it: Si noti che ho scritto «a chamar-me» e non «me chamando de»: due anni divisa tra Lisbona e San Paolo, e la mia sintassi non sa più su quale sponda dell'Atlantico abita.
+  en: Note that I wrote "a chamar-me" and not "me chamando de": two years split between Lisbon and São Paulo, and my syntax no longer knows which side of the Atlantic it lives on.
+  es: Fíjese en que escribí «a chamar-me» y no «me chamando de»: dos años dividida entre Lisboa y São Paulo, y mi sintaxis ya no sabe en qué orilla del Atlántico vive.
+- Em Lisboa, o Tiago diz que eu falo “português com açúcar”; em São Paulo, o Rafael jura que já engulo as vogais como uma alfacinha.
+  it: A Lisbona Tiago dice che parlo «portoghese con lo zucchero»; a San Paolo Rafael giura che ormai mi mangio le vocali come una lisbonese doc.
+  en: In Lisbon, Tiago says I speak "Portuguese with sugar"; in São Paulo, Rafael swears I already swallow my vowels like a born-and-bred Lisboner.
+  es: En Lisboa, Tiago dice que hablo «portugués con azúcar»; en São Paulo, Rafael jura que ya me como las vocales como una lisboeta de pura cepa.
+- Nenhum dos dois tem razão, e os dois têm toda a razão, que é como costumam ser as coisas entre primos.
+  it: Nessuno dei due ha ragione, ed entrambi hanno perfettamente ragione, che è come di solito vanno le cose tra cugini.
+  en: Neither of them is right, and both are absolutely right, which is how things usually are between cousins.
+  es: Ninguno de los dos tiene razón, y los dos tienen toda la razón, que es como suelen ser las cosas entre primos.
+- Quanto a mim, aprendi que uma língua estrangeira não se domina: negocia-se com ela, dia após dia, como com um senhorio teimoso ou uma paixão tardia.
+  it: Quanto a me, ho imparato che una lingua straniera non si domina: ci si negozia, giorno dopo giorno, come con un padrone di casa testardo o con un amore tardivo.
+  en: As for me, I've learned that a foreign language isn't mastered: it's negotiated with, day after day, like a stubborn landlord or a late-blooming passion.
+  es: En cuanto a mí, he aprendido que una lengua extranjera no se domina: se negocia con ella, día tras día, como con un casero testarudo o una pasión tardía.
+- E, se um dia eu voltar para Turim de vez, já sei o que vai me acontecer: vou ter saudade até do trânsito da Marginal.
+  it: E se un giorno tornerò a Torino per sempre, so già cosa mi succederà: avrò nostalgia perfino del traffico della Marginal.
+  en: And if one day I go back to Turin for good, I already know what will happen to me: I'll miss even the traffic on the Marginal.
+  es: Y si algún día vuelvo a Turín para siempre, ya sé lo que me va a pasar: echaré de menos hasta el tráfico de la Marginal.
+- Talvez seja isso, afinal, a saudade: o recibo que a vida nos entrega para provar que valeu a pena.
+  it: Forse è proprio questo, in fondo, la saudade: la ricevuta che la vita ci consegna per dimostrare che ne è valsa la pena.
+  en: Perhaps that's what saudade is, after all: the receipt life hands us to prove it was worth it.
+  es: Quizá sea eso, al fin y al cabo, la saudade: el recibo que nos entrega la vida para demostrar que mereció la pena.
+
+notes.it:
+1. Infinito personale: o que não impede os brasileiros de tentarem explicá-la. Il
+   portoghese può coniugare l'infinito (tentarem = che loro provino) per dargli un
+   soggetto proprio, cosa che l'italiano e lo spagnolo non fanno.
+2. Varietà a confronto: a chamar-me querida (Portogallo: a + infinito per
+   l'azione in corso, pronome dopo il verbo, chamar senza de) contro me chamando
+   de querida (Brasile: gerundio, pronome prima, chamar de). Alfacinha
+   ("lattughina") è il soprannome degli abitanti di Lisbona; con português com
+   açúcar Tiago scherza sulla parlata brasiliana, più aperta e musicale.
+3. Ironia e registro: nostalgia com uma assessoria de imprensa melhor e nenhum dos
+   dois tem razão, e os dois têm toda a razão giocano con i luoghi comuni. Nello
+   scritto curato anche in Brasile si trova il pronome dopo il verbo a inizio
+   frase (sente-se saudade, negocia-se com ela), mentre a voce si direbbe se sente.
+4. Saudade, dal latino solitas (solitudine), è il sentimento di un'assenza amata.
+   Si dice sentir saudade de, ter saudade de, estar com saudade de; in Portogallo
+   spesso al plurale (ter saudades). Tenho saudade de você è il nostro "mi manchi".
+5. Espressioni: de vez = per sempre, definitivamente; valer a pena = valerne la
+   pena; la Marginal (Tietê o Pinheiros) è la superstrada lungo i fiumi di San
+   Paolo, simbolo degli ingorghi; senhorio = padrone di casa, parola più comune in
+   Portogallo (in Brasile si dice spesso proprietário).
+notes.en:
+1. Personal infinitive: o que não impede os brasileiros de tentarem explicá-la.
+   Portuguese can conjugate the infinitive (tentarem = them trying) to give it a
+   subject of its own, something Italian and Spanish cannot do.
+2. Varieties side by side: a chamar-me querida (Portugal: a + infinitive for an
+   ongoing action, pronoun after the verb, chamar without de) versus me chamando
+   de querida (Brazil: gerund, pronoun before, chamar de). Alfacinha ("little
+   lettuce") is the nickname for people from Lisbon; with português com açúcar
+   Tiago teases the Brazilian accent, more open and musical.
+3. Irony and register: nostalgia com uma assessoria de imprensa melhor and nenhum
+   dos dois tem razão, e os dois têm toda a razão play with clichés. In careful
+   writing, Brazilians too put the pronoun after the verb at the start of a
+   clause (sente-se saudade, negocia-se com ela), while in speech they'd say se
+   sente.
+4. Saudade, from Latin solitas (solitude), is the feeling of a beloved absence.
+   You say sentir saudade de, ter saudade de, estar com saudade de; in Portugal
+   often in the plural (ter saudades). Tenho saudade de você is the Italian "mi
+   manchi", I miss you.
+5. Expressions: de vez = for good; valer a pena = to be worth it; the Marginal
+   (Tietê or Pinheiros) is the riverside expressway of São Paulo, a byword for
+   traffic jams; senhorio = landlord, a word more common in Portugal (Brazilians
+   often say proprietário).
+notes.es:
+1. Infinitivo personal: o que não impede os brasileiros de tentarem
+   explicá-la. El portugués puede conjugar el infinitivo (tentarem = que
+   ellos intenten) para darle un sujeto propio, algo que ni el español ni el
+   italiano pueden hacer; nosotros necesitamos una subordinada: que los
+   brasileños intenten.
+2. Variedades frente a frente: a chamar-me querida (Portugal: a + infinitivo
+   para la acción en curso, pronombre detrás del verbo, chamar sin de) frente
+   a me chamando de querida (Brasil: gerundio, pronombre delante, chamar de).
+   Alfacinha ("lechuguita") es el apodo de los lisboetas; con português com
+   açúcar Tiago bromea sobre el acento brasileño, más abierto y musical.
+3. Ironía y registro: nostalgia com uma assessoria de imprensa melhor y
+   nenhum dos dois tem razão, e os dois têm toda a razão juegan con los
+   tópicos. En la escritura cuidada, también en Brasil se pone el pronombre
+   detrás del verbo a principio de frase (sente-se saudade, negocia-se com
+   ela), mientras que hablando se diría se sente.
+4. Saudade, del latín solitas (soledad), es el sentimiento de una ausencia
+   querida; la palabra existe también en gallego. Se dice sentir saudade de,
+   ter saudade de, estar com saudade de; en Portugal, a menudo en plural (ter
+   saudades). Tenho saudade de você es nuestro "te echo de menos".
+5. Expresiones: de vez = para siempre, definitivamente; valer a pena =
+   merecer la pena; la Marginal (Tietê o Pinheiros) es la autovía que bordea
+   los ríos de São Paulo, sinónimo de atascos; senhorio = casero, dueño del
+   piso, palabra más común en Portugal (en Brasil se dice a menudo
+   proprietário).
+
+ex1:
+- É bom os alunos chegarem cedo.
+  it: È bene che gli studenti arrivino presto.
+  en: It's good for the students to arrive early.
+  es: Es bueno que los alumnos lleguen pronto.
+- Tenho saudade da padaria e do pão na chapa.
+  it: Mi mancano la panetteria e il pão na chapa.
+  en: I miss the bakery and the pão na chapa.
+  es: Echo de menos la panadería y el pão na chapa.
+- Se um dia eu voltar para Turim de vez, vou sentir falta de tudo isso.
+  it: Se un giorno tornerò a Torino per sempre, mi mancherà tutto questo.
+  en: If one day I go back to Turin for good, I'll miss all this.
+  es: Si algún día vuelvo a Turín para siempre, echaré de menos todo esto.
+- Valeu a pena ficar mais um ano em São Paulo.
+  it: È valsa la pena restare un altro anno a San Paolo.
+  en: It was worth staying another year in São Paulo.
+  es: Mereció la pena quedarse un año más en São Paulo.
+
+ex2:
+- Isso não impede os brasileiros de [tentarem] explicá-la.
+  it: Questo non impedisce ai brasiliani di provare a spiegarla.
+  en: That doesn't stop Brazilians from trying to explain it.
+  es: Eso no impide que los brasileños intenten explicarla.
+- A voz da Dona Lurdes [me] [chamando] de querida.
+  it: La voce di Dona Lurdes che mi chiama «querida».
+  en: Dona Lurdes's voice calling me "querida".
+  es: La voz de Dona Lurdes llamándome «querida».
+- Uma língua estrangeira não se [domina]: negocia-se com ela, [dia] após dia.
+  it: Una lingua straniera non si domina: ci si negozia, giorno dopo giorno.
+  en: A foreign language isn't mastered: it's negotiated with, day after day.
+  es: Una lengua extranjera no se domina: se negocia con ella, día tras día.
+- Talvez seja isso a saudade: a prova de que [valeu] a [pena].
+  it: Forse la saudade è proprio questo: la prova che ne è valsa la pena.
+  en: Perhaps that's what saudade is: proof that it was worth it.
+  es: Quizá sea eso la saudade: la prueba de que mereció la pena.

@@ -373,6 +373,95 @@ pub fn waves(p: &egui::Painter, rect: egui::Rect, rows: usize, phase: f32, color
     }
 }
 
+/// A small Markdown subset for the pronunciation keys: headings, pipe
+/// tables, bullets and paragraphs (wrapped lines join up); `**` and
+/// backticks are dropped.
+pub fn markdown(ui: &mut Ui, text: &str) {
+    enum Block {
+        Para(String),
+        Bullet(String),
+        Table(Vec<Vec<String>>),
+    }
+    let clean = |s: &str| s.replace("**", "").replace('`', "");
+    let mut blocks: Vec<Block> = Vec::new();
+    let mut headings: Vec<(usize, u8, String)> = Vec::new();
+    for line in text.lines() {
+        let t = line.trim();
+        if t.starts_with("```") {
+            continue;
+        }
+        if t.starts_with('|') {
+            let cells: Vec<String> = t.trim_matches('|').split('|').map(|c| clean(c.trim())).collect();
+            let rule = cells
+                .iter()
+                .all(|c| !c.is_empty() && c.chars().all(|ch| matches!(ch, '-' | ':' | ' ')));
+            match blocks.last_mut() {
+                Some(Block::Table(rows)) if !rule => rows.push(cells),
+                Some(Block::Table(_)) => {}
+                _ => blocks.push(Block::Table(vec![cells])),
+            }
+        } else if let Some(h) = t.strip_prefix('#') {
+            let level = 1 + h.chars().take_while(|c| *c == '#').count() as u8;
+            headings.push((blocks.len(), level, clean(h.trim_start_matches('#').trim())));
+            blocks.push(Block::Para(String::new()));
+        } else if let Some(b) = t.strip_prefix("- ") {
+            blocks.push(Block::Bullet(clean(b)));
+        } else if t.is_empty() {
+            blocks.push(Block::Para(String::new()));
+        } else {
+            // A wrapped line continues the paragraph or bullet above it.
+            match blocks.last_mut() {
+                Some(Block::Para(p) | Block::Bullet(p)) if !p.is_empty() => {
+                    p.push(' ');
+                    p.push_str(&clean(t));
+                }
+                _ => blocks.push(Block::Para(clean(t))),
+            }
+        }
+    }
+    let mut next_heading = headings.iter().peekable();
+    for (i, block) in blocks.iter().enumerate() {
+        while let Some((_, level, h)) = next_heading.next_if(|(at, _, _)| *at == i) {
+            ui.add_space(if *level <= 2 { 8.0 } else { 4.0 });
+            ui.label(match level {
+                1 => bold(h.as_str()).size(21.0),
+                2 => bold(h.as_str()).size(18.0),
+                _ => medium(h.as_str()).size(15.5),
+            });
+        }
+        match block {
+            Block::Para(p) if p.is_empty() => {}
+            Block::Para(p) => {
+                ui.label(p.as_str());
+            }
+            Block::Bullet(b) => {
+                ui.label(format!("•  {b}"));
+            }
+            Block::Table(rows) => {
+                // Columns share the width, so cells wrap instead of widening the page.
+                let cols = rows.iter().map(Vec::len).max().unwrap_or(1).max(1) as f32;
+                let col_w = ((ui.available_width() - 14.0 * (cols - 1.0)) / cols).max(60.0);
+                egui::Grid::new(("md-table", i))
+                    .striped(true)
+                    .spacing([14.0, 4.0])
+                    .min_col_width(col_w)
+                    .max_col_width(col_w)
+                    .show(ui, |ui| {
+                        for (r, row) in rows.iter().enumerate() {
+                            for cell in row {
+                                let t = RichText::new(cell);
+                                let t = if r == 0 { t.family(bold_family()) } else { t };
+                                ui.add(egui::Label::new(t).wrap());
+                            }
+                            ui.end_row();
+                        }
+                    });
+                ui.add_space(6.0);
+            }
+        }
+    }
+}
+
 pub fn lerp(a: Color32, b: Color32, t: f32) -> Color32 {
     let m = |x: u8, y: u8| (x as f32 + (y as f32 - x as f32) * t).round() as u8;
     Color32::from_rgb(m(a.r(), b.r()), m(a.g(), b.g()), m(a.b(), b.b()))

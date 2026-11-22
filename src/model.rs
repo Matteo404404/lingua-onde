@@ -44,20 +44,6 @@ impl Level {
         }
     }
 
-    /// Lesson numbers this level takes in a full built-in course, shaped like
-    /// the person's books: 1–100 up to B2, 101–200 from B2 to C1, C2 after.
-    /// shortcut: the C2 range (201–300) is an assumption; the books don't say.
-    pub fn plan(self) -> (u32, u32) {
-        match self {
-            Level::A1 => (1, 25),
-            Level::A2 => (26, 50),
-            Level::B1 => (51, 75),
-            Level::B2 => (76, 150),
-            Level::C1 => (151, 200),
-            Level::C2 => (201, 300),
-        }
-    }
-
     pub fn color(self) -> Color32 {
         match self {
             Level::A1 => Color32::from_rgb(76, 175, 120),
@@ -70,18 +56,129 @@ impl Level {
     }
 }
 
-/// One sentence: the target-language text, its translations per base language
-/// and an optional pronunciation hint (pinyin, Latin vowel lengths...).
+/// The three built-in courses of a language, one after the other.
+#[derive(Clone, Copy, Debug, PartialEq, Eq, Hash)]
+pub enum Stage {
+    /// First words to B2: lessons 1–49 passive, then the active wave.
+    Foundation,
+    /// B2 to C1: richer texts, the same passive and active cycle.
+    Perfectionnement,
+    /// C1 to C2: long authentic texts, reformulation and open production.
+    Mastery,
+}
+
+impl Stage {
+    pub const ALL: [Stage; 3] = [Stage::Foundation, Stage::Perfectionnement, Stage::Mastery];
+
+    pub fn code(self) -> &'static str {
+        match self {
+            Stage::Foundation => "foundation",
+            Stage::Perfectionnement => "perfectionnement",
+            Stage::Mastery => "mastery",
+        }
+    }
+
+    pub fn parse(s: &str) -> Option<Stage> {
+        Stage::ALL.into_iter().find(|st| st.code() == s.trim())
+    }
+
+    pub fn name(self, base: &str) -> &'static str {
+        match (self, base) {
+            (Stage::Foundation, "it") => "Fondamenti",
+            (Stage::Foundation, "es") => "Fundamentos",
+            (Stage::Foundation, _) => "Foundation",
+            (Stage::Perfectionnement, "it") => "Perfezionamento",
+            (Stage::Perfectionnement, "es") => "Perfeccionamiento",
+            (Stage::Perfectionnement, _) => "Perfectionnement",
+            (Stage::Mastery, "it") => "Padronanza",
+            (Stage::Mastery, "es") => "Maestría",
+            (Stage::Mastery, _) => "Mastery",
+        }
+    }
+
+    pub fn span(self) -> &'static str {
+        match self {
+            Stage::Foundation => "A1 → B2",
+            Stage::Perfectionnement => "B2 → C1",
+            Stage::Mastery => "C1 → C2",
+        }
+    }
+
+    /// Lessons in the finished course.
+    pub fn size(self) -> u32 {
+        match self {
+            Stage::Foundation => 100,
+            Stage::Perfectionnement => 70,
+            Stage::Mastery => 125,
+        }
+    }
+
+    /// The lesson numbers a level takes in this course, if it has that level.
+    pub fn plan(self, level: Level) -> Option<(u32, u32)> {
+        use Level::*;
+        match (self, level) {
+            (Stage::Foundation, A1) => Some((1, 25)),
+            (Stage::Foundation, A2) => Some((26, 50)),
+            (Stage::Foundation, B1) => Some((51, 75)),
+            (Stage::Foundation, B2) => Some((76, 100)),
+            (Stage::Perfectionnement, B2) => Some((1, 45)),
+            (Stage::Perfectionnement, C1) => Some((46, 70)),
+            (Stage::Mastery, C1) => Some((1, 25)),
+            (Stage::Mastery, C2) => Some((26, 125)),
+            _ => None,
+        }
+    }
+
+    /// Built-in course id. Foundation keeps the original id, so progress
+    /// saved before the courses were split still matches.
+    pub fn course_id(self, lang: &str) -> String {
+        match self {
+            Stage::Foundation => format!("core-{lang}"),
+            st => format!("core-{lang}-{}", st.code()),
+        }
+    }
+}
+
+/// One sentence: the target-language text, its translations per base language,
+/// an optional pronunciation hint (pinyin, Latin vowel lengths...) and its
+/// sound spelled out for a reader of each base language (`pron.it:`...).
+/// Open tasks (Mastery) carry an instruction (`task.it:`) and a self-check
+/// list (`rubric.it:`, criteria separated by `;`); their text is a model answer.
 #[derive(Clone, Default, Debug, PartialEq)]
 pub struct Item {
     pub text: String,
     pub tr: BTreeMap<String, String>,
     pub pron: String,
+    pub figured: BTreeMap<String, String>,
+    pub task: BTreeMap<String, String>,
+    pub rubric: BTreeMap<String, String>,
+    /// In a revision dialogue: the lessons this line's words come from (`refs: 1 3`).
+    pub refs: Vec<u32>,
 }
 
 impl Item {
+    /// The pronunciation spelled for a reader of `base`; none for other
+    /// readers, since each language spells sounds its own way.
+    pub fn figured(&self, base: &str) -> Option<&str> {
+        self.figured.get(base).map(String::as_str).filter(|s| !s.is_empty())
+    }
+
     pub fn tr(&self, base: &str) -> &str {
         pick(&self.tr, base)
+    }
+
+    pub fn task_in(&self, base: &str) -> &str {
+        pick(&self.task, base)
+    }
+
+    /// The self-check criteria, one per entry.
+    pub fn rubric_in(&self, base: &str) -> Vec<String> {
+        pick(&self.rubric, base)
+            .split(';')
+            .map(str::trim)
+            .filter(|s| !s.is_empty())
+            .map(String::from)
+            .collect()
     }
 
     /// The sentence without the `[ ]` that mark missing words.
@@ -120,6 +217,18 @@ impl Item {
     }
 }
 
+/// Free text for `base`: its own, else the one written for every language,
+/// else the usual fallback.
+fn text_in<'a>(map: &'a BTreeMap<String, String>, base: &str) -> &'a str {
+    map.get(base)
+        .or_else(|| map.get(""))
+        .map(|s| s.as_str())
+        .unwrap_or_else(|| pick(map, base))
+}
+
+/// The learners' languages built-in courses are written for.
+pub const BASES: [&str; 3] = ["it", "en", "es"];
+
 /// The text for `base`, else English, else Italian, else any.
 pub fn pick<'a>(map: &'a BTreeMap<String, String>, base: &str) -> &'a str {
     map.get(base)
@@ -136,12 +245,28 @@ pub struct Lesson {
     pub level: Level,
     pub title: String,
     pub title_tr: BTreeMap<String, String>,
+    /// The lesson's number spelled in the target language ("Lección primera"),
+    /// learnt along the way, and its figured pronunciation per base language.
+    pub numeral: String,
+    pub numeral_pron: BTreeMap<String, String>,
     pub audio: String,
+    /// A revision lesson (`kind: revision`, every 7th built-in lesson): its
+    /// notes recap the grammar of the six lessons before it, and its dialogue
+    /// reuses their words; exercises are optional.
+    pub revision: bool,
     pub dialogue: Vec<Item>,
+    /// Pronunciation observations per base language (`sounds.it:`).
+    pub sounds: BTreeMap<String, String>,
     /// Notes per base language; key "" = written for every language.
     pub notes: BTreeMap<String, String>,
+    /// Exercise 1: translate into your language (the translation is the correction).
     pub ex1: Vec<Item>,
+    /// Exercise 2: fill in the missing [words] (the full sentence is the correction).
     pub ex2: Vec<Item>,
+    /// A cultural note per base language (`culture.it:`).
+    pub culture: BTreeMap<String, String>,
+    /// Open tasks (Mastery): instruction, model answer, self-check.
+    pub tasks: Vec<Item>,
 }
 
 impl Lesson {
@@ -150,11 +275,15 @@ impl Lesson {
     }
 
     pub fn notes_in(&self, base: &str) -> &str {
-        self.notes
-            .get(base)
-            .or_else(|| self.notes.get(""))
-            .map(|s| s.as_str())
-            .unwrap_or_else(|| pick(&self.notes, base))
+        text_in(&self.notes, base)
+    }
+
+    pub fn sounds_in(&self, base: &str) -> &str {
+        text_in(&self.sounds, base)
+    }
+
+    pub fn culture_in(&self, base: &str) -> &str {
+        text_in(&self.culture, base)
     }
 }
 
@@ -162,6 +291,12 @@ impl Lesson {
 pub struct Course {
     pub id: String,
     pub lang: String,
+    /// Which built-in course this is; None for the person's own courses.
+    pub stage: Option<Stage>,
+    /// The learners' languages a built-in course is written for (`bases: it`);
+    /// empty means Italian, English and Spanish. Courses are finished one
+    /// pair at a time, so a course may start with one of them.
+    pub bases: Vec<String>,
     pub name: String,
     pub name_tr: BTreeMap<String, String>,
     pub lessons: Vec<Lesson>,
@@ -171,6 +306,19 @@ pub struct Course {
 }
 
 impl Course {
+    /// The base languages this course gives translations and notes in.
+    pub fn bases(&self) -> Vec<&str> {
+        if !self.bases.is_empty() {
+            return self.bases.iter().map(String::as_str).collect();
+        }
+        BASES.iter().copied().filter(|b| *b != self.lang).collect()
+    }
+
+    /// Whether a learner of `base` gets the course in their own language.
+    pub fn speaks(&self, base: &str) -> bool {
+        !self.builtin || self.bases().contains(&base)
+    }
+
     pub fn name_in(&self, base: &str) -> &str {
         match self.name_tr.get(base) {
             Some(n) => n,

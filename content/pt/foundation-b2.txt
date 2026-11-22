@@ -1,0 +1,152 @@
+course: pt
+stage: foundation
+
+== 76 B2
+title: O casarão do Bixiga
+title.it: La vecchia villa del Bixiga
+title.en: The old mansion in Bixiga
+title.es: La vieja casona del Bixiga
+
+dialogue:
+- Senhor Otávio, com todo o respeito, demolir o casarão seria um erro, inclusive do ponto de vista comercial.
+  it: Signor Otávio, con tutto il rispetto, demolire la villa sarebbe un errore, anche dal punto di vista commerciale.
+  en: Mr Otávio, with all due respect, demolishing the old house would be a mistake, even from a commercial point of view.
+  es: Señor Otávio, con todo respeto, derribar la casona sería un error, incluso desde el punto de vista comercial.
+- A senhora me desculpe, mas eu não vou pagar o pato por um prédio caindo aos pedaços.
+  it: Mi scusi, signora, ma non sarò io a rimetterci per un edificio che cade a pezzi.
+  en: Forgive me, madam, but I'm not going to be the one who pays for a building that's falling to pieces.
+  es: Perdone, señora, pero no voy a pagar yo el pato por un edificio que se cae a pedazos.
+- Entendo a sua preocupação. No entanto, se restaurarmos a fachada, o empreendimento ganha valor e o senhor evita uma briga com o bairro.
+  it: Capisco la sua preoccupazione. Tuttavia, se restauriamo la facciata, il progetto acquista valore e lei evita uno scontro con il quartiere.
+  en: I understand your concern. However, if we restore the façade, the development gains value and you avoid a fight with the neighbourhood.
+  es: Entiendo su preocupación. Sin embargo, si restauramos la fachada, la promoción gana valor y usted se ahorra un enfrentamiento con el barrio.
+- Briga? Os vizinhos que se virem. Eu comprei o terreno, não a opinião deles.
+  it: Scontro? I vicini si arrangino. Io ho comprato il terreno, non la loro opinione.
+  en: A fight? The neighbours can fend for themselves. I bought the land, not their opinion.
+  es: ¿Enfrentamiento? Que se las apañen los vecinos. Yo compré el terreno, no su opinión.
+- Com licença, senhor Otávio, só um detalhe: o imóvel está em processo de tombamento.
+  it: Mi scusi, signor Otávio, solo un dettaglio: per l'immobile è in corso la procedura di vincolo storico.
+  en: Excuse me, Mr Otávio, just one detail: the building is in the process of being listed as a heritage site.
+  es: Disculpe, señor Otávio, solo un detalle: el inmueble está en proceso de catalogación como patrimonio protegido.
+- Como é que é? E vocês só me falam isso agora?
+  it: Come sarebbe a dire? E me lo dite solo adesso?
+  en: Come again? And you're only telling me this now?
+  es: ¿Cómo es eso? ¿Y me lo dicen ahora?
+- Nós avisamos no relatório do mês passado, na página doze. Talvez o senhor não tenha lido.
+  it: L'abbiamo segnalato nella relazione del mese scorso, a pagina dodici. Forse lei non l'ha letta.
+  en: We flagged it in last month's report, on page twelve. Perhaps you didn't read it.
+  es: Lo avisamos en el informe del mes pasado, en la página doce. Quizá usted no lo haya leído.
+- Tá bom, tá bom. Não adianta chorar o leite derramado. O que vocês sugerem?
+  it: Va bene, va bene. È inutile piangere sul latte versato. Cosa suggerite?
+  en: All right, all right. No use crying over spilt milk. What do you suggest?
+  es: Está bien, está bien. De nada sirve llorar sobre la leche derramada. ¿Qué proponen?
+- Manter a fachada, construir atrás e abrir o térreo para o comércio do bairro. Todo mundo sai ganhando.
+  it: Mantenere la facciata, costruire dietro e aprire il piano terra ai negozi del quartiere. Ci guadagnano tutti.
+  en: Keep the façade, build behind it and open the ground floor to local shops. Everybody wins.
+  es: Mantener la fachada, construir detrás y abrir la planta baja a los comercios del barrio. Todo el mundo sale ganando.
+- Vou pensar. Mas não vou ficar em cima do muro por muito tempo: quero uma proposta até sexta.
+  it: Ci penserò. Ma non resterò a lungo alla finestra: voglio una proposta entro venerdì.
+  en: I'll think about it. But I won't sit on the fence for long: I want a proposal by Friday.
+  es: Lo pensaré. Pero no voy a nadar entre dos aguas mucho tiempo: quiero una propuesta para el viernes.
+
+notes.it:
+1. Registro: Giulia usa o senhor, a senhora con la terza persona, attenuatori
+   (com todo o respeito, no entanto) e il condizionale (seria um erro). Otávio,
+   man mano che si irrita, scivola nel colloquiale: que se virem, como é que é?,
+   tá bom (= está bom).
+2. Modi di dire: pagar o pato (pagare l'anatra) = pagare per colpe altrui,
+   rimetterci; chorar o leite derramado = piangere sul latte versato; ficar em
+   cima do muro (stare sopra il muro) = non prendere posizione; sair ganhando =
+   uscirne vincitori; virar-se = arrangiarsi.
+3. Se restaurarmos: congiuntivo futuro dopo se, per una condizione futura
+   possibile (l'italiano usa il presente o il futuro). In talvez o senhor não
+   tenha lido, talvez + congiuntivo passato è un modo cortese di dare la colpa
+   a qualcuno.
+4. Falsi amici: tombamento = vincolo di tutela del patrimonio (da tombar,
+   registrare nell'inventario, come nella Torre do Tombo, l'archivio storico di
+   Lisbona), niente a che vedere con "tomba", che si dice túmulo; briga = lite,
+   rissa (non la "briga" di "darsi la briga"); relatório = relazione scritta;
+   térreo = piano terra.
+5. Cultura: il Bixiga (ufficialmente Bela Vista) è lo storico quartiere italiano
+   di San Paolo, pieno di casarões, vecchie case signorili, e di cantine e
+   pizzerie. Empreendimento è la parola dei costruttori per un progetto
+   immobiliare.
+notes.en:
+1. Register: Giulia uses o senhor, a senhora with the third person, softeners
+   (com todo o respeito, no entanto) and the conditional (seria um erro). Otávio,
+   as he gets annoyed, slides into colloquial speech: que se virem, como é que é?,
+   tá bom (= está bom).
+2. Idioms: pagar o pato (to pay the duck) = to take the blame or the loss for
+   others; chorar o leite derramado = to cry over spilt milk; ficar em cima do
+   muro (to stay on top of the wall) = to sit on the fence; sair ganhando = to
+   come out ahead; virar-se = to fend for yourself.
+3. Se restaurarmos: future subjunctive after se, for a possible future condition
+   (Italian uses the present or the future). Talvez o senhor não tenha lido:
+   talvez + perfect subjunctive, a polite way to put the blame on someone.
+4. False friends for Italians: tombamento = heritage listing (from tombar, to
+   record in an inventory, as in the Torre do Tombo, Lisbon's national archive),
+   nothing to do with Italian "tomba", grave, which is túmulo; briga = quarrel,
+   fight (not the Italian "briga", bother); relatório = written report; térreo =
+   ground floor.
+5. Culture: Bixiga (officially Bela Vista) is São Paulo's historic Italian
+   neighbourhood, full of casarões, old mansions, and of cantinas and pizzerias.
+   Empreendimento is the developers' word for a real estate project.
+notes.es:
+1. Registro: Giulia usa o senhor, a senhora con la tercera persona, como
+   nuestro usted, atenuadores (com todo o respeito, no entanto) y el
+   condicional (seria um erro). Otávio, a medida que se irrita, se desliza
+   hacia lo coloquial: que se virem, como é que é?, tá bom (= está bom).
+2. Expresiones: pagar o pato = pagar el pato, igual que en español; chorar o
+   leite derramado = llorar sobre la leche derramada (a lo hecho, pecho);
+   ficar em cima do muro (quedarse encima del muro) = no mojarse, nadar entre
+   dos aguas; sair ganhando = salir ganando; virar-se = apañárselas.
+3. Se restaurarmos: futuro de subjuntivo tras se, para una condición futura
+   posible (el español usa el presente de indicativo: si restauramos). En
+   talvez o senhor não tenha lido, talvez + pretérito perfecto de subjuntivo
+   (quizá no lo haya leído) es una manera cortés de echarle la culpa a
+   alguien.
+4. Falsos amigos: tombamento = catalogación como patrimonio protegido (de
+   tombar, registrar en un inventario, como en la Torre do Tombo, el archivo
+   histórico de Lisboa), nada que ver con "tumbar" ni con "tumba", que se
+   dice túmulo; briga = pelea, riña; relatório = informe escrito, no
+   "relato"; prédio = edificio, no "predio"; térreo = planta baja.
+5. Cultura: el Bixiga (oficialmente Bela Vista) es el histórico barrio
+   italiano de São Paulo, lleno de casarões, viejas casonas señoriales, y de
+   cantinas y pizzerías. Empreendimento es la palabra de los constructores
+   para una promoción inmobiliaria.
+
+ex1:
+- Com todo o respeito, o senhor está enganado.
+  it: Con tutto il rispetto, lei si sbaglia.
+  en: With all due respect, you're mistaken.
+  es: Con todo respeto, usted se equivoca.
+- Não adianta chorar o leite derramado.
+  it: È inutile piangere sul latte versato.
+  en: There's no use crying over spilt milk.
+  es: De nada sirve llorar sobre la leche derramada.
+- Se vocês restaurarem o prédio, todo mundo sai ganhando.
+  it: Se restaurate l'edificio, ci guadagnano tutti.
+  en: If you restore the building, everybody wins.
+  es: Si restauráis el edificio, todo el mundo sale ganando.
+- Ele sempre fica em cima do muro.
+  it: Lui non prende mai posizione.
+  en: He always sits on the fence.
+  es: Él siempre nada entre dos aguas.
+
+ex2:
+- Eu não vou [pagar] o [pato].
+  it: Non sarò io a rimetterci.
+  en: I'm not going to be the one who pays for it.
+  es: Yo no voy a pagar el pato.
+- O imóvel está em processo de [tombamento].
+  it: Per l'immobile è in corso la procedura di vincolo storico.
+  en: The building is in the process of being listed.
+  es: El inmueble está en proceso de catalogación como patrimonio protegido.
+- Se [restaurarmos] a [fachada], o prédio ganha valor.
+  it: Se restauriamo la facciata, l'edificio acquista valore.
+  en: If we restore the façade, the building gains value.
+  es: Si restauramos la fachada, el edificio gana valor.
+- Talvez o senhor não [tenha] [lido] o relatório.
+  it: Forse lei non ha letto la relazione.
+  en: Perhaps you haven't read the report.
+  es: Quizá usted no haya leído el informe.

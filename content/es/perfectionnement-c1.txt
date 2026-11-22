@@ -1,0 +1,115 @@
+course: es
+stage: perfectionnement
+
+== 46 C1
+title: La noticia
+title.it: La notizia
+title.en: The news story
+
+dialogue:
+- Escucha el titular: «Un fondo de inversión pone en jaque un bar con treinta años de historia en Lavapiés».
+  it: Ascolta il titolo: «Un fondo d'investimento mette in scacco un bar con trent'anni di storia a Lavapiés».
+  en: Listen to the headline: "Investment fund threatens thirty-year-old Lavapiés bar".
+- «Según ha podido saber este diario, la sociedad propietaria del inmueble baraja convertir el local en apartamentos de uso turístico».
+  it: «Secondo quanto appreso da questo giornale, la società proprietaria dell'immobile valuta di trasformare il locale in appartamenti a uso turistico».
+  en: "This newspaper has learned that the company that owns the building is considering turning the premises into holiday apartments."
+- «Fuentes de la empresa, que ha rehusado hacer declaraciones oficiales, se limitan a señalar que la operación se ajusta a la legalidad vigente».
+  it: «Fonti dell'azienda, che ha rifiutato di rilasciare dichiarazioni ufficiali, si limitano a sottolineare che l'operazione è conforme alla normativa vigente».
+  en: "Company sources, which declined to make any official statement, merely point out that the deal complies with current law."
+- Suena muy serio. ¿De verdad escribís así o es para impresionar?
+  it: Sembra molto serio. Scrivete davvero così o è per fare colpo?
+  en: Sounds very serious. Do you lot really write like that, or is it to impress?
+- Es la jerga del oficio, hombre. Si lo hubiera escrito como hablo, mi jefa me habría mandado a freír espárragos.
+  it: È il gergo del mestiere, dai. Se l'avessi scritto come parlo, la mia caporedattrice mi avrebbe mandato a quel paese.
+  en: It's the jargon of the trade, come on. If I'd written it the way I talk, my editor would have sent me packing.
+- ¿Y si no hubiéramos montado la recogida de firmas? ¿Habría salido la noticia?
+  it: E se non avessimo organizzato la raccolta di firme? La notizia sarebbe uscita?
+  en: And if we hadn't organised the petition? Would the story have come out?
+- Lo dudo. Sin las mil firmas, para la redacción habría sido una anécdota más. Perdona, que me llaman.
+  it: Ne dubito. Senza le mille firme, per la redazione sarebbe stato solo un fatterello in più. Scusa, mi chiamano.
+  en: I doubt it. Without the thousand signatures, the newsroom would have seen it as just another anecdote. Sorry, I'm getting a call.
+- ¿Sí? Sí, soy yo. Buenas tardes, señora Ortiz... Por supuesto. Le agradecería que me lo confirmara por escrito.
+  it: Pronto? Sì, sono io. Buonasera, signora Ortiz... Certamente. Le sarei grata se me lo confermasse per iscritto.
+  en: Hello? Yes, speaking. Good afternoon, Ms Ortiz... Of course. I'd be grateful if you could confirm that in writing.
+- ¡No te lo vas a creer! Era la portavoz del fondo: dicen que, «a la vista de la repercusión mediática», se replantean lo del bar.
+  it: Non ci crederai! Era la portavoce del fondo: dicono che, «vista la risonanza mediatica», stanno riconsiderando la faccenda del bar.
+  en: You won't believe it! It was the fund's spokeswoman: they say that "in view of the media coverage" they're rethinking the bar business.
+- O sea, que se echan atrás. Como diría Carmen: no hay mal que por bien no venga.
+  it: Insomma, fanno marcia indietro. Come direbbe Carmen: non tutto il male vien per nuocere.
+  en: So they're backing down. As Carmen would say: every cloud has a silver lining.
+- Tampoco cantemos victoria todavía: en boca de un portavoz, «replantearse» puede significar cualquier cosa.
+  it: Non cantiamo vittoria troppo presto: in bocca a un portavoce, «riconsiderare» può voler dire qualsiasi cosa.
+  en: Let's not count our chickens just yet: coming from a spokesperson, "rethinking" can mean anything.
+
+notes.it:
+1. Linguaggio giornalistico: según ha podido saber este diario, fuentes de la
+   empresa, el inmueble, la legalidad vigente, la repercusión mediática. Barajar
+   (mescolare le carte) nei giornali significa "valutare un'ipotesi"; poner en
+   jaque = mettere in difficoltà. Per non ripetere decir si alternano señalar,
+   asegurar, apuntar, sostener.
+2. Si lo hubiera escrito..., me habría mandado: periodo ipotetico dell'irrealtà nel
+   passato, come "se l'avessi scritto, mi avrebbe mandato". Nel parlato molti
+   spagnoli usano hubiera anche nella seconda parte (me hubiera mandado). Dopo
+   il si ipotetico non si usa mai il condizionale.
+3. Le agradecería que me lo confirmara: formula di cortesia con condizionale +
+   congiuntivo imperfetto. Al telefono in Spagna si risponde ¿Sí?, ¿Diga? o
+   ¿Dígame?; soy yo = sono io. Lucía passa dal tú con Marco allo usted con la
+   portavoce senza prendere fiato.
+4. Modi di dire: mandar a alguien a freír espárragos (mandarlo a friggere
+   asparagi) = mandarlo a quel paese; no hay mal que por bien no venga = non tutto
+   il male vien per nuocere; cantar victoria = cantare vittoria; echarse atrás =
+   tirarsi indietro.
+5. O sea = cioè, insomma, frequentissimo nel parlato. Lo del bar = la faccenda
+   del bar: lo de + nome rimanda a una questione già nota. In Tampoco cantemos
+   victoria, tampoco attenua: "non è il caso di". Anécdota indica spesso un fatto
+   di poco conto, non solo un aneddoto.
+notes.en:
+1. Press language: según ha podido saber este diario, fuentes de la empresa, el
+   inmueble, la legalidad vigente, la repercusión mediática. Barajar (to shuffle
+   cards) means "to consider an option" in newspapers; poner en jaque (to put in
+   check) = to threaten. To avoid repeating decir, journalists rotate señalar,
+   asegurar, apuntar, sostener.
+2. Si lo hubiera escrito..., me habría mandado: the unreal past conditional, as in
+   Italian "se l'avessi scritto, mi avrebbe mandato". In speech many Spaniards use
+   hubiera in the second half too (me hubiera mandado). The conditional never
+   follows the si of a condition.
+3. Le agradecería que me lo confirmara: courtesy formula with the conditional +
+   imperfect subjunctive. On the phone in Spain people answer ¿Sí?, ¿Diga? or
+   ¿Dígame?; soy yo = speaking. Lucía switches from tú with Marco to usted with
+   the spokeswoman without missing a beat.
+4. Idioms: mandar a alguien a freír espárragos (to send someone to fry asparagus)
+   = to tell someone to get lost; no hay mal que por bien no venga = every cloud
+   has a silver lining (Italian: non tutto il male vien per nuocere); cantar
+   victoria = to claim victory too early; echarse atrás = to back down.
+5. O sea = I mean, so, extremely common in speech. Lo del bar = the bar business:
+   lo de + noun refers to a matter everyone already knows about. In Tampoco
+   cantemos victoria, tampoco softens: "let's not go as far as". Anécdota often
+   means a trivial incident, not just a story.
+
+ex1:
+- Si hubiera sabido lo del bar, te habría llamado antes.
+  it: Se avessi saputo della faccenda del bar, ti avrei chiamato prima.
+  en: If I'd known about the bar business, I'd have called you sooner.
+- Según fuentes municipales, el ayuntamiento baraja nuevas medidas.
+  it: Secondo fonti comunali, il comune sta valutando nuove misure.
+  en: According to city hall sources, the council is considering new measures.
+- Le agradecería que me enviara el contrato cuanto antes.
+  it: Le sarei grato se mi mandasse il contratto il prima possibile.
+  en: I'd be grateful if you could send me the contract as soon as possible.
+- No cantemos victoria: la empresa todavía no se ha echado atrás.
+  it: Non cantiamo vittoria: l'azienda non ha ancora fatto marcia indietro.
+  en: Let's not celebrate yet: the company hasn't backed down so far.
+
+ex2:
+- Si me lo [hubieras] dicho, te [habría] ayudado.
+  it: Se me l'avessi detto, ti avrei aiutato.
+  en: If you'd told me, I would have helped you.
+- La empresa ha [rehusado] hacer [declaraciones].
+  it: L'azienda ha rifiutato di rilasciare dichiarazioni.
+  en: The company has declined to comment.
+- Lo mandó a [freír] [espárragos].
+  it: L'ha mandato a quel paese.
+  en: She told him to get lost.
+- No hay [mal] que por [bien] no venga.
+  it: Non tutto il male vien per nuocere.
+  en: Every cloud has a silver lining.

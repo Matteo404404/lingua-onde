@@ -1,0 +1,180 @@
+course: vi
+stage: perfectionnement
+
+== 46 C1
+title: Lên báo
+title.it: Sul giornale
+title.en: In the papers
+title.es: En el periódico
+
+dialogue:
+- Chị Lan ơi, báo viết về quán chị này! Để em đọc cho chị nghe nhé.
+  it: Lan, guarda, il giornale parla del tuo locale! Te lo leggo.
+  en: Lan, look, the paper has written about your café! Let me read it to you.
+  es: ¡Lan, mira, el periódico habla de tu cafetería! Te lo leo.
+- “Quán cà phê nhỏ giữa lòng phố cổ: khi kinh doanh song hành cùng gìn giữ di sản”
+  it: «Un piccolo caffè nel cuore del centro storico: quando l'impresa va di pari passo con la tutela del patrimonio»
+  en: "A small café in the heart of the Old Quarter: when business goes hand in hand with heritage conservation"
+  es: «Un pequeño café en pleno casco antiguo: cuando el negocio va de la mano de la conservación del patrimonio»
+- Nằm khuất trong một con ngõ nhỏ thuộc khu phố cổ, quán cà phê do chị Nguyễn Thị Lan làm chủ đang thu hút đông đảo khách hàng, đặc biệt là giới trẻ.
+  it: Nascosto in un vicolo del centro storico, il caffè di proprietà della signora Nguyễn Thị Lan attira numerosi clienti, soprattutto giovani.
+  en: Tucked away in a small alley in the Old Quarter, the café owned by Ms Nguyễn Thị Lan is drawing large numbers of customers, young people in particular.
+  es: Escondido en un pequeño callejón del casco antiguo, el café que regenta Nguyễn Thị Lan atrae a numerosos clientes, sobre todo jóvenes.
+- Theo ghi nhận của phóng viên, quán được cải tạo từ một căn nhà ống gần một trăm năm tuổi, song vẫn giữ nguyên kết cấu gỗ và nền gạch hoa truyền thống.
+  it: Secondo quanto rilevato dal nostro cronista, il locale è stato ricavato da una casa a tubo vecchia di quasi un secolo, conservandone però intatte le strutture in legno e il tradizionale pavimento di piastrelle decorate.
+  en: According to our reporter's observations, the café was converted from a nearly century-old tube house, yet it keeps its original wooden structure and traditional patterned-tile floor.
+  es: Según ha podido constatar nuestro reportero, el local se reformó a partir de una casa tubo de casi cien años, aunque conserva intactas su estructura de madera y el tradicional suelo de baldosas decoradas.
+- Chia sẻ với chúng tôi, chủ quán cho biết chị từng có gần mười năm công tác trong lĩnh vực tài chính – ngân hàng trước khi quyết định khởi nghiệp.
+  it: Interpellata da noi, la titolare ha raccontato di aver lavorato per quasi dieci anni nel settore bancario e finanziario prima di decidere di mettersi in proprio.
+  en: Speaking to us, the owner said she had spent almost ten years working in finance and banking before deciding to start her own business.
+  es: En declaraciones a este medio, la propietaria explicó que trabajó casi diez años en el sector financiero y bancario antes de decidirse a emprender.
+- “Tôi mong muốn tạo ra một không gian để người trẻ tìm lại nhịp sống chậm rãi của Hà Nội xưa,” chị Lan nói.
+  it: «Vorrei creare uno spazio in cui i giovani ritrovino il ritmo lento della Hanoi di un tempo», afferma Lan.
+  en: "I want to create a space where young people can rediscover the slow pace of old Hanoi," Ms Lan says.
+  es: «Quiero crear un espacio donde los jóvenes recuperen el ritmo pausado del Hanói de antaño», afirma Lan.
+- Đáng chú ý, quán ưu tiên sử dụng nguyên liệu có nguồn gốc rõ ràng, chủ yếu là cà phê Robusta từ Tây Nguyên.
+  it: Da notare che il locale privilegia materie prime di provenienza tracciabile, soprattutto caffè Robusta degli Altipiani Centrali.
+  en: Notably, the café favours ingredients of traceable origin, mainly Robusta coffee from the Central Highlands.
+  es: Cabe destacar que el local da prioridad a materias primas de origen conocido, sobre todo café robusta de las Tierras Altas Centrales.
+- Tuy nhiên, trong bối cảnh tốc độ đô thị hóa ngày càng nhanh, bài toán cân bằng giữa phát triển kinh tế và bảo tồn di sản vẫn là một thách thức không nhỏ.
+  it: Tuttavia, in un contesto di urbanizzazione sempre più rapida, conciliare sviluppo economico e tutela del patrimonio resta una sfida non da poco.
+  en: However, against a backdrop of ever faster urbanisation, striking a balance between economic development and heritage conservation remains no small challenge.
+  es: Sin embargo, en un contexto de urbanización cada vez más acelerada, encontrar el equilibrio entre desarrollo económico y conservación del patrimonio sigue siendo un reto nada desdeñable.
+- Giới chuyên gia nhận định, những mô hình kinh doanh gắn với việc gìn giữ kiến trúc cổ cần được nhân rộng, nhằm góp phần bảo tồn bản sắc văn hóa của Thủ đô.
+  it: Secondo gli esperti, i modelli d'impresa legati alla salvaguardia dell'architettura storica andrebbero diffusi, così da contribuire a preservare l'identità culturale della Capitale.
+  en: Experts believe that business models tied to preserving historic architecture should be replicated, so as to help conserve the cultural identity of the Capital.
+  es: Los expertos consideran que los modelos de negocio vinculados a la preservación de la arquitectura antigua deberían extenderse, con el fin de contribuir a conservar la identidad cultural de la Capital.
+- Trời, nghe cứ như chị là anh hùng bảo tồn di sản ấy! Chị chỉ muốn bán cà phê ngon thôi mà.
+  it: Accidenti, sembra che io sia un'eroina della tutela del patrimonio! Io voglio solo vendere del buon caffè.
+  en: Goodness, it makes me sound like some heroine of heritage conservation! All I want is to sell good coffee.
+  es: ¡Madre mía, parece que soy una heroína de la conservación del patrimonio! Yo solo quiero vender buen café.
+- Văn báo chí là thế mà chị. Một câu “cà phê ngon” phải viết thành ba dòng Hán Việt mới đủ trang trọng.
+  it: Lo stile dei giornali è fatto così. Una frase come «caffè buono» va allungata in tre righe di parole sino-vietnamite, altrimenti non è abbastanza solenne.
+  en: That's journalese for you. A phrase like "good coffee" has to be stretched into three lines of Sino-Vietnamese before it sounds dignified enough.
+  es: Así es el estilo periodístico. Una frase como «café rico» hay que estirarla en tres líneas de palabras sinovietnamitas para que suene lo bastante solemne.
+- Thôi, em cắt bài báo ra cho chị, chị đóng khung treo lên tường. Bố chị chắc chắn sẽ khoe với cả phố.
+  it: Dai, ritagliami l'articolo, che lo incornicio e lo appendo al muro. Mio padre di sicuro lo farà vedere a tutta la via.
+  en: Go on, cut the article out for me and I'll frame it and hang it on the wall. My father is bound to show it off to the whole street.
+  es: Anda, recórtame el artículo, que lo enmarco y lo cuelgo en la pared. Seguro que mi padre se lo enseña a toda la calle.
+
+notes.it:
+1. Lo stile giornalistico è pieno di composti sino-vietnamiti. phóng viên
+   訪員 "cronista", di sản 遺產 "patrimonio", bảo tồn 保存 "conservare", đô
+   thị hóa 都市化 "urbanizzazione", bối cảnh 背景 "contesto", khởi nghiệp 起業
+   "avviare un'impresa", thủ đô 首都 "capitale". Molti hanno un equivalente
+   vietnamita più quotidiano, bảo tồn / gìn giữ "conservare", khởi nghiệp /
+   mở quán.
+2. Nei composti sino-vietnamiti il determinante viene prima, come in cinese,
+   thủ đô "capo-città", di sản "lasciato-bene"; nei composti vietnamiti
+   viene dopo, nhà ống "casa-tubo", gạch hoa "piastrella-fiore".
+   Riconoscere i due ordini aiuta a decifrare le parole nuove.
+3. Formule della cronaca. Theo ghi nhận của phóng viên "secondo quanto
+   rilevato dal cronista"; Chia sẻ với chúng tôi, X cho biết "parlando con
+   noi, X ha riferito"; Đáng chú ý "da notare"; Giới chuyên gia nhận định
+   "gli esperti ritengono"; một thách thức không nhỏ "una sfida non da
+   poco", litote molto amata. bài toán, alla lettera "problema di
+   matematica", indica una questione da risolvere. Il giornale parla di sé
+   come chúng tôi "noi", e il signor Hùng vi comparirebbe come ông Hùng, non
+   bác.
+4. Connettivi formali. song "tuttavia" (nel parlato nhưng), nhằm "allo scopo
+   di" (nel parlato để), từng "in passato, già", do ... làm chủ "di
+   proprietà di". Nello stile formale được è un passivo neutro, senza l'idea
+   di vantaggio vista nella lezione 51, quán được cải tạo, cần được nhân
+   rộng. Thủ đô vuole la maiuscola quando indica Hanoi.
+5. Ortografia e registro. Per oa, oe, uy il segno del tono ha due
+   collocazioni, hóa / hoá, khỏe / khoẻ, thủy / thuỷ; sono diffuse entrambe
+   e questo corso usa la prima. Nella citazione Lan dice tôi, il pronome
+   neutro della vita pubblica; con Luca torna a chị e al parlato, cứ như ...
+   ấy "proprio come se", thôi mà "e basta".
+notes.en:
+1. Press style is full of Sino-Vietnamese compounds. phóng viên 訪員
+   "reporter", di sản 遺產 "heritage", bảo tồn 保存 "conserve", đô thị hóa
+   都市化 "urbanisation", bối cảnh 背景 "context", khởi nghiệp 起業 "start a
+   business", thủ đô 首都 "capital". Many have a more everyday native
+   counterpart, bảo tồn / gìn giữ "preserve", khởi nghiệp / mở quán.
+2. In Sino-Vietnamese compounds the modifier comes first, as in Chinese, thủ
+   đô "head-city", di sản "bequeathed-property"; in native compounds it
+   comes second, nhà ống "house-tube", gạch hoa "tile-flower". Recognising
+   the two orders helps you decode new words.
+3. Press formulas. Theo ghi nhận của phóng viên "according to the reporter's
+   observations"; Chia sẻ với chúng tôi, X cho biết "speaking to us, X said";
+   Đáng chú ý "notably"; Giới chuyên gia nhận định "experts believe"; một
+   thách thức không nhỏ "no small challenge", a favourite litotes. bài toán,
+   literally "maths problem", means an issue to be solved. The paper calls
+   itself chúng tôi "we", and Mr Hùng would appear in it as ông Hùng, not
+   bác.
+4. Formal connectives. song "however" (in speech nhưng), nhằm "in order to"
+   (in speech để), từng "once, previously", do ... làm chủ "owned by". In
+   formal style được is a neutral passive, without the sense of benefit seen
+   in lesson 51, quán được cải tạo, cần được nhân rộng. Thủ đô takes a
+   capital letter when it means Hanoi.
+5. Spelling and register. In oa, oe, uy the tone mark has two placements,
+   hóa / hoá, khỏe / khoẻ, thủy / thuỷ; both are widely used and this course
+   writes the first. In the quotation Lan says tôi, the neutral pronoun of
+   public life; with Luca she goes back to chị and to speech, cứ như ... ấy
+   "just as if", thôi mà "that's all".
+notes.es:
+1. El estilo periodístico está lleno de compuestos sinovietnamitas. phóng
+   viên 訪員 "reportero", di sản 遺產 "patrimonio", bảo tồn 保存 "conservar",
+   đô thị hóa 都市化 "urbanización", bối cảnh 背景 "contexto", khởi nghiệp
+   起業 "emprender", thủ đô 首都 "capital". Muchos tienen un equivalente
+   vietnamita más cotidiano, bảo tồn / gìn giữ "conservar", khởi nghiệp / mở
+   quán.
+2. En los compuestos sinovietnamitas el modificador va delante, como en
+   chino, thủ đô "cabeza-ciudad", di sản "legado-bien"; en los compuestos
+   vietnamitas va detrás, nhà ống "casa-tubo", gạch hoa "baldosa-flor".
+   Reconocer los dos órdenes ayuda a descifrar palabras nuevas.
+3. Fórmulas de la prensa. Theo ghi nhận của phóng viên "según ha constatado
+   el reportero"; Chia sẻ với chúng tôi, X cho biết "en declaraciones a este
+   medio, X explicó"; Đáng chú ý "cabe destacar"; Giới chuyên gia nhận định
+   "los expertos consideran"; một thách thức không nhỏ "un reto nada
+   pequeño", lítote muy apreciada. bài toán, literalmente "problema de
+   matemáticas", designa una cuestión por resolver. El periódico habla de sí
+   mismo como chúng tôi "nosotros", y el señor Hùng aparecería como ông
+   Hùng, no bác.
+4. Conectores formales. song "sin embargo" (al hablar nhưng), nhằm "con el
+   fin de" (al hablar để), từng "antes, en otro tiempo", do ... làm chủ "de
+   propiedad de". En el estilo formal được es una pasiva neutra, sin la idea
+   de beneficio vista en la lección 51, quán được cải tạo, cần được nhân
+   rộng. Thủ đô lleva mayúscula cuando se refiere a Hanói.
+5. Ortografía y registro. En oa, oe, uy la marca de tono tiene dos
+   posiciones, hóa / hoá, khỏe / khoẻ, thủy / thuỷ; ambas están extendidas y
+   este curso usa la primera. En la cita Lan dice tôi, el pronombre neutro
+   de la vida pública; con Luca vuelve a chị y al registro hablado, cứ như
+   ... ấy "igual que si", thôi mà "y ya está".
+
+ex1:
+- Theo ghi nhận của phóng viên, lượng khách du lịch đến Thủ đô đã tăng mạnh trong năm qua.
+  it: Secondo quanto rilevato dal nostro cronista, l'afflusso di turisti nella Capitale è cresciuto molto nell'ultimo anno.
+  en: According to our reporter, the number of tourists visiting the Capital rose sharply over the past year.
+  es: Según ha podido constatar nuestro reportero, la llegada de turistas a la Capital ha aumentado mucho en el último año.
+- Chia sẻ với chúng tôi, ông Hùng cho biết ông đã bán phở hơn ba mươi năm.
+  it: Parlando con noi, il signor Hùng ha riferito di vendere phở da oltre trent'anni.
+  en: Speaking to us, Mr Hùng said he has been selling phở for more than thirty years.
+  es: En declaraciones a este medio, el señor Hùng explicó que lleva más de treinta años vendiendo phở.
+- Căn nhà được cải tạo, song vẫn giữ nguyên nét kiến trúc truyền thống.
+  it: La casa è stata ristrutturata, ma conserva intatto il suo carattere architettonico tradizionale.
+  en: The house has been renovated, yet it keeps its traditional architectural character intact.
+  es: La casa ha sido reformada, aunque conserva intacto su carácter arquitectónico tradicional.
+- Bảo tồn di sản trong bối cảnh đô thị hóa là một bài toán khó.
+  it: Tutelare il patrimonio in un contesto di urbanizzazione è una questione difficile.
+  en: Conserving heritage amid urbanisation is a difficult problem.
+  es: Conservar el patrimonio en un contexto de urbanización es una cuestión difícil.
+
+ex2:
+- [Theo] ghi nhận của phóng viên, quán đang thu hút đông đảo khách hàng.
+  it: Secondo quanto rilevato dal cronista, il locale attira numerosi clienti.
+  en: According to the reporter, the café is drawing large numbers of customers.
+  es: Según ha constatado el reportero, el local atrae a numerosos clientes.
+- Mô hình này cần được nhân rộng [nhằm] góp phần bảo tồn [di sản].
+  it: Questo modello andrebbe diffuso per contribuire a tutelare il patrimonio.
+  en: This model should be replicated in order to help conserve heritage.
+  es: Este modelo debería extenderse con el fin de contribuir a conservar el patrimonio.
+- Quán được cải tạo từ một căn nhà cổ, [song] vẫn giữ nguyên kết cấu gỗ.
+  it: Il locale è stato ricavato da una casa antica, ma conserva intatte le strutture in legno.
+  en: The café was converted from an old house, yet it keeps its wooden structure intact.
+  es: El local se reformó a partir de una casa antigua, aunque conserva intacta su estructura de madera.
+- Đây vẫn là một [thách thức] không [nhỏ].
+  it: Resta una sfida non da poco.
+  en: This remains no small challenge.
+  es: Sigue siendo un reto nada desdeñable.

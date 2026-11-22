@@ -1,0 +1,1095 @@
+course: de
+stage: foundation
+name: German – Foundation (A1 → B2)
+name.it: Tedesco – Fondamenti (A1 → B2)
+name.en: German – Foundation (A1 → B2)
+name.es: Alemán – Fundamentos (A1 → B2)
+
+== 1 A1
+title: Hallo!
+title.it: Ciao!
+title.en: Hello!
+title.es: ¡Hola!
+
+dialogue:
+- Hallo! Ich heiße Jonas. Und du?
+  it: Ciao! Mi chiamo Jonas. E tu?
+  en: Hi! My name is (I am called) Jonas. And you?
+  es: ¡Hola! Me llamo Jonas. ¿Y tú?
+  pron: heiße = hàisse
+- Ich bin Giulia. Ich komme aus Italien.
+  it: Sono Giulia. Vengo dall'Italia (vengo fuori da Italia).
+  en: I'm Giulia. I come from Italy (out of Italy).
+  es: Soy Giulia. Vengo de Italia (vengo fuera de Italia).
+  pron: Italien = itàlien
+- Freut mich, Giulia! Wohnst du hier in Hamburg?
+  it: Piacere (rallegra me), Giulia! Abiti qui ad Amburgo?
+  en: Nice to meet you (pleases me), Giulia! Do you live here in Hamburg?
+  es: ¡Encantado (alegra a mí), Giulia! ¿Vives aquí en Hamburgo?
+  pron: Freut = fròit; wohnst = vònst
+- Ja, seit Montag. Ich wohne in Altona.
+  it: Sì, da lunedì. Abito ad Altona.
+  en: Yes, since Monday. I live in Altona.
+  es: Sí, desde el lunes. Vivo en Altona.
+  pron: seit = sàit (s dolce come in "rosa"); wohne = vòne
+- Super! Möchtest du einen Kaffee?
+  it: Fantastico! Vorresti un caffè?
+  en: Great! Would you like a coffee?
+  es: ¡Genial! ¿Te apetece un café (querrías un café)?
+  pron: Möchtest = möhtest (ö = una e con le labbra tonde)
+- Ja, gern. Danke!
+  it: Sì, volentieri. Grazie!
+  en: Yes, I'd love one (gladly). Thanks!
+  es: Sí, con mucho gusto (de buena gana). ¡Gracias!
+- Zwei Kaffee, bitte!
+  it: Due caffè, per favore!
+  en: Two coffees, please!
+  es: ¡Dos cafés, por favor!
+  pron: Zwei = tsvài
+
+notes.it:
+1. Ich heiße (mi chiamo) viene da heißen, che non è riflessivo: non serve un
+   "mi". La lettera ß si legge come una s doppia.
+2. Du e Sie: du si usa con amici, coetanei e bambini; con gli sconosciuti si usa
+   Sie, sempre con la maiuscola. Jonas e Giulia sono giovani, quindi si danno
+   subito del du.
+3. In tedesco tutti i sostantivi si scrivono con la maiuscola: Kaffee, Montag,
+   Italien.
+4. Pronuncia: ei si legge "ai" (heiße, seit, zwei), eu si legge "oi" (freut), w
+   si legge "v" (wohnen), z si legge "ts" (zwei).
+5. Seit Montag (da lunedì): come in italiano, seit con il presente indica
+   qualcosa che dura ancora. Al bar si ordina spesso zwei Kaffee, senza plurale.
+notes.en:
+1. Ich heiße (my name is) comes from heißen, "to be called". The letter ß is
+   read like a double s.
+2. Du and Sie: du is for friends, people your age and children; with strangers
+   you use Sie, always with a capital letter. Jonas and Giulia are young, so
+   they use du straight away.
+3. In German every noun has a capital letter: Kaffee, Montag, Italien.
+4. Pronunciation: ei sounds like "eye" (heiße, seit, zwei), eu like "oy"
+   (freut), w like English v (wohnen), z like "ts" (zwei).
+5. Seit Montag (since Monday): German uses the present tense with seit for
+   something still going on, where English needs the present perfect. When
+   ordering, people often say zwei Kaffee, with no plural ending.
+notes.es:
+1. Ich heiße (me llamo) viene de heißen, que no es reflexivo: no hace falta
+   ningún "me". La letra ß se lee como una s doble, siempre sorda.
+2. Du y Sie: du se usa con amigos, gente de tu edad y niños; con los
+   desconocidos se usa Sie (usted), siempre con mayúscula. Jonas y Giulia son
+   jóvenes, así que se tutean desde el principio.
+3. En alemán todos los sustantivos se escriben con mayúscula: Kaffee, Montag,
+   Italien.
+4. Pronunciación: ei se lee "ai" (heiße, seit, zwei), eu se lee "oi" (freut), w
+   se lee como una v francesa, apoyando los dientes en el labio inferior
+   (wohnen), y z se lee "ts" (zwei).
+5. Seit Montag (desde el lunes): como en español, seit con el presente indica
+   algo que todavía dura. En el bar se pide a menudo zwei Kaffee, sin plural.
+
+ex1:
+- Ich heiße Mia.
+  it: Mi chiamo Mia.
+  en: My name is Mia.
+  es: Me llamo Mia.
+- Wohnst du in Hamburg?
+  it: Abiti ad Amburgo?
+  en: Do you live in Hamburg?
+  es: ¿Vives en Hamburgo?
+- Ich komme aus Bologna.
+  it: Vengo da Bologna.
+  en: I come from Bologna.
+  es: Vengo de Bolonia.
+- Einen Kaffee, bitte!
+  it: Un caffè, per favore!
+  en: A coffee, please!
+  es: ¡Un café, por favor!
+
+ex2:
+- Ich [heiße] Giulia.
+  it: Mi chiamo Giulia.
+  en: My name is Giulia.
+  es: Me llamo Giulia.
+- [Freut] mich!
+  it: Piacere!
+  en: Nice to meet you!
+  es: ¡Mucho gusto!
+- Ich wohne [seit] Montag in Hamburg.
+  it: Abito ad Amburgo da lunedì.
+  en: I've lived in Hamburg since Monday.
+  es: Vivo en Hamburgo desde el lunes.
+- Zwei Kaffee, [bitte].
+  it: Due caffè, per favore.
+  en: Two coffees, please.
+  es: Dos cafés, por favor.
+
+== 2 A1
+title: Die neue Nachbarin
+title.it: La nuova vicina
+title.en: The new neighbour
+title.es: La nueva vecina
+
+dialogue:
+- Guten Tag! Ich heiße Giulia. Ich wohne im dritten Stock.
+  it: Buongiorno (buon giorno)! Mi chiamo Giulia. Abito al terzo piano.
+  en: Hello (good day)! My name is Giulia. I live on the third floor.
+  es: ¡Buenos días (buen día)! Me llamo Giulia. Vivo en el tercer piso.
+  pron: Stock = shtok (st a inizio parola si legge "sht")
+- Ah, die neue Nachbarin! Ich bin Frau Becker. Sind Sie Studentin?
+  it: Ah, la nuova vicina! Sono la signora Becker. Lei è studentessa (siete voi studentessa)?
+  en: Ah, the new neighbour! I'm Mrs Becker. Are you a student (are you student)?
+  es: ¡Ah, la nueva vecina! Soy la señora Becker. ¿Es usted estudiante (son ustedes estudiante)?
+  pron: neue = nòie; Nachbarin = nàhbarin (ch come in "Bach"); Studentin = shtudèntin
+- Nein, ich arbeite hier. Ich bin Ingenieurin.
+  it: No, lavoro qui. Sono ingegnere (ingegnera).
+  en: No, I work here. I'm an engineer (I am engineer).
+  es: No, trabajo aquí. Soy ingeniera.
+  pron: Ingenieurin = ingenjörin (g come la j francese di "jour")
+- Toll! Gefällt Ihnen das Viertel?
+  it: Ottimo! Le piace (piace a Lei) il quartiere?
+  en: Great! Do you like the neighbourhood (pleases you the quarter)?
+  es: ¡Estupendo! ¿Le gusta el barrio (gusta a usted el barrio)?
+  pron: Viertel = fìrtel (v si legge f)
+- Ja, sehr. Es ist ruhig und grün.
+  it: Sì, molto. È tranquillo e verde.
+  en: Yes, very much. It's quiet and green.
+  es: Sí, mucho. Es tranquilo y verde.
+  pron: ruhig = rùih; grün = grün (ü = la u francese)
+- Und es gibt eine Bäckerei an der Ecke. Die Brötchen sind sehr gut.
+  it: E c'è (esso dà) una panetteria all'angolo. I panini sono molto buoni.
+  en: And there's (it gives) a bakery on the corner. The bread rolls are very good.
+  es: Y hay (ello da) una panadería en la esquina. Los panecillos están muy buenos.
+  pron: Bäckerei = bekeràì; Brötchen = bröt-hen
+- Danke für den Tipp! Einen schönen Tag noch!
+  it: Grazie della dritta! Buona giornata (una bella giornata ancora)!
+  en: Thanks for the tip! Have a nice day (a nice day still)!
+  es: ¡Gracias por el consejo! ¡Que tenga un buen día (un bonito día todavía)!
+  pron: schönen = shönen
+- Danke, gleichfalls!
+  it: Grazie, altrettanto!
+  en: Thanks, you too (likewise)!
+  es: ¡Gracias, igualmente!
+  pron: gleichfalls = glàihfals
+
+notes.it:
+1. Sind Sie Studentin? Con gli sconosciuti si usa Sie (Lei), con il verbo alla
+   terza persona plurale: Sie sind, Sie arbeiten. Frau (signora) e Herr
+   (signore) si usano davanti al cognome.
+2. Es gibt (letteralmente "esso dà") significa "c'è" o "ci sono" e regge
+   l'accusativo: es gibt einen Park, es gibt eine Bäckerei.
+3. Il femminile delle professioni si forma con -in: Nachbar e Nachbarin,
+   Student e Studentin, Ingenieur e Ingenieurin.
+4. Gefällt Ihnen das Viertel? Gefallen funziona come "piacere": la cosa che
+   piace è il soggetto, la persona va al dativo (Ihnen, mir, dir). Das Viertel
+   gefällt mir significa "il quartiere mi piace".
+5. Brötchen (panino) è il diminutivo di Brot (pane): il suffisso -chen rende il
+   nome neutro e spesso aggiunge l'Umlaut. Attenzione: der Tipp è un consiglio
+   o una dritta; la mancia si dice das Trinkgeld. Al saluto Einen schönen Tag
+   noch! si risponde Danke, gleichfalls!
+notes.en:
+1. Sind Sie Studentin? With strangers you use Sie, with the verb in the third
+   person plural: Sie sind, Sie arbeiten. Frau (Mrs) and Herr (Mr) go before the
+   surname.
+2. Es gibt (literally "it gives") means "there is" or "there are" and takes the
+   accusative, as in es gibt einen Park, es gibt eine Bäckerei.
+3. Female job titles add -in: Nachbar and Nachbarin, Student and Studentin,
+   Ingenieur and Ingenieurin.
+4. Gefällt Ihnen das Viertel? With gefallen the thing you like is the subject and
+   the person is in the dative (Ihnen, mir, dir). Das Viertel gefällt mir means
+   "I like the neighbourhood".
+5. Brötchen (bread roll) is the diminutive of Brot (bread): the ending -chen
+   makes the noun neuter and often adds an Umlaut. Der Tipp is a tip in the sense
+   of advice; a tip for a waiter is das Trinkgeld. The answer to Einen schönen
+   Tag noch! is Danke, gleichfalls!
+notes.es:
+1. Sind Sie Studentin? Con los desconocidos se usa Sie (usted), con el verbo en
+   tercera persona del plural: Sie sind, Sie arbeiten. Pasa lo mismo con nuestro
+   "ustedes", solo que en alemán vale también para una sola persona. Frau
+   (señora) y Herr (señor) van delante del apellido.
+2. Es gibt (literalmente "ello da") significa "hay" y rige acusativo: es gibt
+   einen Park, es gibt eine Bäckerei. Igual que "hay", sirve tanto para el
+   singular como para el plural.
+3. El femenino de las profesiones se forma con -in: Nachbar y Nachbarin, Student
+   y Studentin, Ingenieur e Ingenieurin.
+4. Gefällt Ihnen das Viertel? Gefallen funciona exactamente como "gustar": lo
+   que gusta es el sujeto y la persona va en dativo (Ihnen, mir, dir). Das
+   Viertel gefällt mir significa "el barrio me gusta".
+5. Brötchen (panecillo) es el diminutivo de Brot (pan): el sufijo -chen vuelve
+   neutro el sustantivo y a menudo añade la diéresis (Umlaut). Ojo: der Tipp es
+   un consejo o un soplo; la propina se dice das Trinkgeld. Al saludo Einen
+   schönen Tag noch! se responde Danke, gleichfalls! (gracias, igualmente).
+
+ex1:
+- Ich wohne im ersten Stock.
+  it: Abito al primo piano.
+  en: I live on the first floor.
+  es: Vivo en el primer piso.
+- Es gibt ein Café an der Ecke.
+  it: C'è un caffè all'angolo.
+  en: There's a café on the corner.
+  es: Hay un café en la esquina.
+- Sind Sie die neue Nachbarin?
+  it: Lei è la nuova vicina?
+  en: Are you the new neighbour?
+  es: ¿Es usted la nueva vecina?
+- Das Viertel gefällt mir sehr.
+  it: Il quartiere mi piace molto.
+  en: I like the neighbourhood a lot.
+  es: El barrio me gusta mucho.
+
+ex2:
+- Es [gibt] eine Bäckerei im [Viertel].
+  it: C'è una panetteria nel quartiere.
+  en: There's a bakery in the neighbourhood.
+  es: Hay una panadería en el barrio.
+- [Sind] Sie Ingenieurin?
+  it: Lei è ingegnere?
+  en: Are you an engineer?
+  es: ¿Es usted ingeniera?
+- Einen [schönen] Tag noch!
+  it: Buona giornata!
+  en: Have a nice day!
+  es: ¡Que tenga un buen día!
+- Die Brötchen [sind] sehr gut.
+  it: I panini sono molto buoni.
+  en: The bread rolls are very good.
+  es: Los panecillos están muy buenos.
+
+== 3 A1
+title: In der Bäckerei
+title.it: In panetteria
+title.en: At the bakery
+title.es: En la panadería
+
+dialogue:
+- Guten Morgen! Zwei Brötchen und ein Franzbrötchen, bitte.
+  it: Buongiorno (buon mattino)! Due panini e un Franzbrötchen (panino francese), per favore.
+  en: Good morning! Two bread rolls and a Franzbrötchen (French roll), please.
+  es: ¡Buenos días (buena mañana)! Dos panecillos y un Franzbrötchen (panecillo francés), por favor.
+  pron: Franzbrötchen = frànts-bröt-hen
+- Gern. Sonst noch etwas?
+  it: Volentieri. Altro (altrimenti ancora qualcosa)?
+  en: Sure (gladly). Anything else (otherwise still something)?
+  es: Con gusto (de buena gana). ¿Algo más (si no, todavía algo)?
+  pron: Sonst = sonst (s dolce come in "rosa")
+- Nein, danke. Das ist alles. Was kostet das?
+  it: No, grazie. È tutto. Quanto costa (che cosa costa questo)?
+  en: No, thanks. That's all. How much is it (what costs that)?
+  es: No, gracias. Eso es todo. ¿Cuánto es (qué cuesta eso)?
+- Das macht drei Euro zwanzig.
+  it: Fa (questo fa) tre euro e venti.
+  en: That's (that makes) three euros twenty.
+  es: Son (eso hace) tres euros con veinte.
+  pron: Euro = òiro; zwanzig = tsvàntsih
+- Jonas, hast du Kleingeld?
+  it: Jonas, hai degli spiccioli (soldi piccoli)?
+  en: Jonas, do you have any change (small money)?
+  es: Jonas, ¿tienes suelto (dinero pequeño)?
+  pron: Kleingeld = klàin-ghelt
+- Ja, ich habe einen Fünf-Euro-Schein. Hier, bitte.
+  it: Sì, ho una banconota da cinque euro. Ecco (qui, prego).
+  en: Yes, I have a five-euro note. Here you are (here, please).
+  es: Sí, tengo un billete de cinco euros. Aquí tienes (aquí, por favor).
+  pron: Schein = shàin
+- Danke! Morgen lade ich dich zum Kaffee ein.
+  it: Grazie! Domani ti offro il caffè (domani invito io te al caffè dentro).
+  en: Thanks! Tomorrow the coffee's on me (tomorrow invite I you to-the coffee in).
+  es: ¡Gracias! Mañana te invito a un café (mañana invito yo a ti al café dentro).
+  pron: lade ... ein = làde ... àin
+- Abgemacht! Bis morgen!
+  it: Affare fatto (combinato)! A domani (fino domani)!
+  en: Deal (agreed)! See you tomorrow (until tomorrow)!
+  es: ¡Trato hecho (acordado)! ¡Hasta mañana!
+  pron: Abgemacht = àp-ghemaht
+
+notes.it:
+1. Was kostet das? (quanto costa?) e Das macht... (fa...) sono le frasi della
+   cassa. I numeri: eins, zwei, drei, vier, fünf; zwanzig è "venti". Il prezzo
+   3,20 € si legge drei Euro zwanzig.
+2. Einladen (invitare, offrire) è un verbo separabile: la particella ein va in
+   fondo alla frase (ich lade dich ein). Inoltre il verbo coniugato sta sempre al
+   secondo posto: se la frase comincia con Morgen, il soggetto va dopo il verbo
+   (Morgen lade ich...).
+3. Guten Morgen, con la maiuscola, è "buongiorno" (der Morgen, il mattino);
+   morgen, con la minuscola, è "domani". Bis morgen! vuol dire "a domani".
+4. Kleingeld (letteralmente "soldi piccoli") sono gli spiccioli; der Schein è la
+   banconota. Bitte vuol dire "per favore", ma anche "prego" ed "ecco" quando si
+   porge qualcosa.
+5. Il Franzbrötchen è una specialità di Amburgo: una pasta sfogliata con
+   cannella e zucchero. Pronuncia: la finale -ig suona come una "ih" aspirata
+   (zwanzig), sch come "sc" di "scena" (Schein).
+notes.en:
+1. Was kostet das? (how much is it?) and Das macht... (that's...) are the
+   phrases at the till. Numbers: eins, zwei, drei, vier, fünf; zwanzig is
+   "twenty". The price 3,20 € is read drei Euro zwanzig.
+2. Einladen (to invite, to treat) is a separable verb: the particle ein goes to
+   the end (ich lade dich ein). Also, the conjugated verb always comes second:
+   if the sentence starts with Morgen, the subject follows the verb (Morgen lade
+   ich...).
+3. Guten Morgen, with a capital letter, is "good morning" (der Morgen, the
+   morning); morgen, lower case, means "tomorrow". Bis morgen! means "see you
+   tomorrow".
+4. Kleingeld (literally "small money") is change; der Schein is a banknote. Bitte
+   means "please", but also "you're welcome" and "here you are" when handing
+   something over.
+5. The Franzbrötchen is a Hamburg speciality: a flaky pastry with cinnamon and
+   sugar. Pronunciation: final -ig sounds like the "h" in "huge" (zwanzig), and
+   sch like English "sh" (Schein).
+notes.es:
+1. Was kostet das? (¿cuánto cuesta?) y Das macht... (son...) son las frases de
+   la caja. Los números: eins, zwei, drei, vier, fünf; zwanzig es "veinte". El
+   precio 3,20 € se lee drei Euro zwanzig.
+2. Einladen (invitar) es un verbo separable: la partícula ein va al final de la
+   frase (ich lade dich ein). Además, el verbo conjugado va siempre en
+   segunda posición: si la frase empieza por Morgen, el sujeto va detrás del
+   verbo (Morgen lade ich...). Como en español, invitar a alguien a un café
+   significa pagárselo.
+3. Guten Morgen, con mayúscula, es "buenos días" (der Morgen, la mañana);
+   morgen, con minúscula, es "mañana" (el día siguiente), igual que en español
+   una misma palabra sirve para las dos cosas. Bis morgen! significa "¡hasta
+   mañana!".
+4. Kleingeld (literalmente "dinero pequeño") es el suelto; der Schein es el
+   billete. Bitte significa "por favor", pero también "de nada" y "aquí tiene"
+   cuando se da algo.
+5. El Franzbrötchen es una especialidad de Hamburgo: un bollo de hojaldre con
+   canela y azúcar. Pronunciación: la terminación -ig suena como una "j" muy
+   suave pronunciada en la parte delantera de la boca (zwanzig), y sch como la
+   "sh" inglesa (Schein).
+
+ex1:
+- Ein Brötchen, bitte.
+  it: Un panino, per favore.
+  en: A bread roll, please.
+  es: Un panecillo, por favor.
+- Was kostet der Kaffee?
+  it: Quanto costa il caffè?
+  en: How much is the coffee?
+  es: ¿Cuánto cuesta el café?
+- Ich lade dich morgen ein.
+  it: Domani ti offro io.
+  en: Tomorrow it's on me.
+  es: Mañana te invito yo.
+- Hast du einen Zehn-Euro-Schein?
+  it: Hai una banconota da dieci euro?
+  en: Do you have a ten-euro note?
+  es: ¿Tienes un billete de diez euros?
+
+ex2:
+- Das [macht] fünf Euro.
+  it: Fa cinque euro.
+  en: That's five euros.
+  es: Son cinco euros.
+- [Sonst] noch etwas?
+  it: Altro?
+  en: Anything else?
+  es: ¿Algo más?
+- Das ist [alles], danke.
+  it: È tutto, grazie.
+  en: That's all, thanks.
+  es: Eso es todo, gracias.
+- Bis [morgen]!
+  it: A domani!
+  en: See you tomorrow!
+  es: ¡Hasta mañana!
+
+== 4 A1
+title: Im Café
+title.it: Al bar
+title.en: At the café
+title.es: En el café
+
+dialogue:
+- Guten Morgen! Was möchten Sie trinken?
+  it: Buongiorno (buon mattino)! Cosa volete bere (che cosa vorreste voi bere)?
+  en: Good morning! What would you like to drink?
+  es: ¡Buenos días (buena mañana)! ¿Qué desean tomar (qué querrían ustedes beber)?
+  pron: möchten = möhten
+- Einen Cappuccino, bitte. Und du, Jonas? Was nimmst du?
+  it: Un cappuccino, per favore. E tu, Jonas? Cosa prendi (che cosa prendi tu)?
+  en: A cappuccino, please. And you, Jonas? What are you having (what take you)?
+  es: Un capuchino, por favor. ¿Y tú, Jonas? ¿Qué tomas (qué tomas tú)?
+- Einen Tee, bitte. Morgens trinke ich keinen Kaffee.
+  it: Un tè, per favore. La mattina non bevo caffè (mattine bevo io nessun caffè).
+  en: A tea, please. I don't drink coffee in the mornings (mornings drink I no coffee).
+  es: Un té, por favor. Por las mañanas no bebo café (mañanas bebo yo ningún café).
+  pron: keinen = kàinen
+- Wirklich? Ich trinke drei Kaffee am Tag!
+  it: Davvero? Io bevo tre caffè al giorno!
+  en: Really? I drink three coffees a day (at-the day)!
+  es: ¿De verdad? ¡Yo bebo tres cafés al día!
+  pron: Wirklich = vìrklih
+- Das ist viel! Arbeitest du heute?
+  it: Sono tanti (questo è molto)! Lavori oggi?
+  en: That's a lot (that is much)! Are you working today (work you today)?
+  es: ¡Es mucho (esto es mucho)! ¿Trabajas hoy?
+  pron: viel = fiil; heute = hòite
+- Ja, um elf. Wie spät ist es jetzt?
+  it: Sì, alle undici. Che ore sono (quanto tardi è) adesso?
+  en: Yes, at eleven. What time is it (how late is it) now?
+  es: Sí, a las once. ¿Qué hora es (cómo de tarde es) ahora?
+  pron: spät = shpèet; jetzt = iètst
+- Es ist halb zehn. Du hast noch Zeit!
+  it: Sono le nove e mezza (è mezza verso le dieci). Hai ancora tempo!
+  en: It's half past nine (it is half towards ten). You still have time!
+  es: Son las nueve y media (es media hacia las diez). ¡Todavía tienes tiempo!
+  pron: halb zehn = halp tseen; Zeit = tsàit
+- Zahlen Sie zusammen oder getrennt?
+  it: Pagate insieme o separatamente (pagate voi insieme o separato)?
+  en: Are you paying together or separately (pay you together or separated)?
+  es: ¿Pagan juntos o por separado (pagan ustedes juntos o separado)?
+  pron: Zahlen = tsàalen; zusammen = tsusàmmen; getrennt = ghetrènt
+- Zusammen, bitte. Heute lade ich dich ein, Jonas!
+  it: Insieme, per favore. Oggi offro io, Jonas (oggi invito io te dentro)!
+  en: Together, please. Today it's on me, Jonas (today invite I you in)!
+  es: Juntos, por favor. ¡Hoy invito yo, Jonas (hoy invito yo a ti dentro)!
+
+notes.it:
+1. Was nimmst du? (cosa prendi?): nehmen (prendere) cambia vocale alla seconda e
+   alla terza persona singolare: ich nehme, du nimmst, er/sie nimmt. Al bar si
+   usa come in italiano: ich nehme einen Tee.
+2. Ich trinke keinen Kaffee (non bevo caffè): per negare un nome senza articolo
+   o con ein si usa kein, che si declina come ein (keinen Kaffee, keine Zeit).
+   Per negare un verbo si usa nicht: ich arbeite heute nicht.
+3. Wie spät ist es? (che ore sono?, letteralmente "quanto tardi è?"). Occhio a
+   halb zehn: sono le 9:30, cioè "mezz'ora verso le dieci", non le 10:30. I
+   numeri da sei a dodici sono sechs, sieben, acht, neun, zehn, elf, zwölf.
+4. Morgens (la mattina, tutte le mattine): con la -s e la minuscola indica
+   un'abitudine, come abends (la sera). Am Tag significa "al giorno". Si dice
+   drei Kaffee senza plurale, come zwei Kaffee nella prima lezione.
+5. Il cameriere chiede spesso Zusammen oder getrennt? (insieme o separati?): in
+   Germania è normale che ognuno paghi la sua parte. Si paga al tavolo e si
+   arrotonda il conto per lasciare la mancia (das Trinkgeld).
+notes.en:
+1. Was nimmst du? (what are you having?): nehmen (to take) changes its vowel in
+   the du and er/sie forms: ich nehme, du nimmst, er/sie nimmt. It is the usual
+   verb for ordering: ich nehme einen Tee.
+2. Ich trinke keinen Kaffee (I don't drink coffee): to negate a noun with no
+   article or with ein, German uses kein, which takes the same endings as ein
+   (keinen Kaffee, keine Zeit). To negate a verb you use nicht: ich arbeite
+   heute nicht.
+3. Wie spät ist es? (what time is it?, literally "how late is it?"). Careful:
+   halb zehn is 9:30, "half-way to ten", not 10:30 as the British "half ten"
+   would suggest. Numbers six to twelve are sechs, sieben, acht, neun, zehn,
+   elf, zwölf.
+4. Morgens (in the mornings): with -s and a small letter it describes a habit,
+   like abends (in the evenings). Am Tag means "a day". People say drei Kaffee
+   with no plural, just like zwei Kaffee in lesson 1.
+5. Waiters often ask Zusammen oder getrennt? (together or separately?): in
+   Germany it is normal for everyone to pay for their own order. You pay at the
+   table and round the bill up as a tip (das Trinkgeld).
+notes.es:
+1. Was nimmst du? (¿qué tomas?): nehmen (tomar) cambia de vocal en la segunda y
+   la tercera persona del singular: ich nehme, du nimmst, er/sie nimmt. Es el
+   verbo habitual para pedir: ich nehme einen Tee.
+2. Ich trinke keinen Kaffee (no bebo café): para negar un sustantivo sin
+   artículo o con ein se usa kein, que lleva las mismas terminaciones que ein
+   (keinen Kaffee, keine Zeit). Para negar un verbo se usa nicht: ich arbeite
+   heute nicht.
+3. Wie spät ist es? (¿qué hora es?, literalmente "¿cómo de tarde es?"). Ojo con
+   halb zehn: son las 9:30, es decir, "media hora hacia las diez", y no las diez
+   y media. Los números del seis al doce son sechs, sieben, acht, neun, zehn,
+   elf, zwölf.
+4. Morgens (por las mañanas): con -s y minúscula indica una costumbre, como
+   abends (por las noches). Am Tag significa "al día". Se dice drei Kaffee sin
+   plural, igual que zwei Kaffee en la primera lección.
+5. El camarero suele preguntar Zusammen oder getrennt? (¿juntos o por
+   separado?): en Alemania es normal que cada uno pague lo suyo. Se paga en la
+   mesa y se redondea la cuenta para dejar la propina (das Trinkgeld).
+
+ex1:
+- Was nimmst du, Giulia?
+  it: Cosa prendi, Giulia?
+  en: What are you having, Giulia?
+  es: ¿Qué tomas, Giulia?
+- Ich trinke keinen Tee.
+  it: Non bevo tè.
+  en: I don't drink tea.
+  es: No bebo té.
+- Es ist halb elf.
+  it: Sono le dieci e mezza.
+  en: It's half past ten.
+  es: Son las diez y media.
+- Heute arbeite ich nicht.
+  it: Oggi non lavoro.
+  en: I'm not working today.
+  es: Hoy no trabajo.
+
+ex2:
+- Morgens [trinke] ich [keinen] Kaffee.
+  it: La mattina non bevo caffè.
+  en: I don't drink coffee in the mornings.
+  es: Por las mañanas no bebo café.
+- Wie [spät] ist es?
+  it: Che ore sono?
+  en: What time is it?
+  es: ¿Qué hora es?
+- Es ist [halb] neun.
+  it: Sono le otto e mezza.
+  en: It's half past eight.
+  es: Son las ocho y media.
+- Zahlen Sie [zusammen] oder [getrennt]?
+  it: Pagate insieme o separatamente?
+  en: Are you paying together or separately?
+  es: ¿Pagan juntos o por separado?
+
+== 5 A1
+title: Ein Familienfoto
+title.it: Una foto di famiglia
+title.en: A family photo
+title.es: Una foto de familia
+
+dialogue:
+- Wer ist das auf dem Foto?
+  it: Chi è (chi è questo) nella foto (sulla foto)?
+  en: Who's that in the photo (on the photo)?
+  es: ¿Quién es (quién es esto) en la foto (sobre la foto)?
+  pron: Wer = veer
+- Das ist meine Familie: mein Vater, meine Mutter und meine Schwester Mia.
+  it: È la mia famiglia (questo è mia famiglia): mio padre, mia madre e mia sorella Mia.
+  en: That's my family: my father, my mother and my sister Mia.
+  es: Es mi familia (esto es mi familia): mi padre, mi madre y mi hermana Mia.
+  pron: Familie = famìlie; Vater = fàater; Schwester = shvèster
+- Wie alt ist Mia?
+  it: Quanti anni ha Mia (quanto vecchia è Mia)?
+  en: How old is Mia?
+  es: ¿Cuántos años tiene Mia (cómo de vieja es Mia)?
+- Sie ist dreiundzwanzig. Sie ist Lehrerin und wohnt in Kiel.
+  it: Ha ventitré anni (è tre-e-venti). Fa l'insegnante (è insegnante) e abita a Kiel.
+  en: She's twenty-three (three-and-twenty). She's a teacher (she is teacher) and lives in Kiel.
+  es: Tiene veintitrés años (es tres-y-veinte). Es profesora y vive en Kiel.
+  pron: dreiundzwanzig = drài-unt-tsvàntsih; Lehrerin = lèererin; Kiel = kiil
+- Und deine Eltern? Wohnen sie auch in Kiel?
+  it: E i tuoi genitori? Abitano anche loro a Kiel?
+  en: And your parents? Do they live in Kiel too (live they also in Kiel)?
+  es: ¿Y tus padres? ¿Viven también en Kiel?
+  pron: deine = dàine
+- Nein, hier in Hamburg. Und du? Hast du Geschwister?
+  it: No, qui ad Amburgo. E tu? Hai fratelli (fratelli e sorelle)?
+  en: No, here in Hamburg. And you? Do you have any brothers or sisters (have you siblings)?
+  es: No, aquí en Hamburgo. ¿Y tú? ¿Tienes hermanos (hermanos y hermanas)?
+  pron: Geschwister = ghe-shvìster
+- Ja, einen Bruder, Luca. Er ist sechzehn und wohnt noch zu Hause, in Mailand.
+  it: Sì, un fratello, Luca. Ha sedici anni (è sedici) e abita ancora a casa, a Milano.
+  en: Yes, a brother, Luca. He's sixteen and still lives at home, in Milan.
+  es: Sí, un hermano, Luca. Tiene dieciséis años (es dieciséis) y todavía vive en casa, en Milán.
+  pron: sechzehn = zèh-tseen; Hause = hàuse; Mailand = màilant
+- Sechzehn! Spricht er Deutsch?
+  it: Sedici! Parla tedesco (parla lui tedesco)?
+  en: Sixteen! Does he speak German (speaks he German)?
+  es: ¡Dieciséis! ¿Habla alemán (habla él alemán)?
+  pron: Spricht = shpriht; Deutsch = dòitsh
+- Ein bisschen. Er lernt Deutsch in der Schule.
+  it: Un po' (un pochino). Studia (impara) tedesco a scuola.
+  en: A little (a little bit). He's learning German at school.
+  es: Un poco (un poquito). Estudia (aprende) alemán en el colegio.
+  pron: bisschen = bìss-hen; Schule = shùule
+
+notes.it:
+1. Mein Vater, meine Mutter, meine Eltern: il possessivo è mein davanti a un
+   nome maschile o neutro e meine davanti a un nome femminile o plurale; non
+   vuole l'articolo, neanche al plurale (meine Eltern, "i miei genitori"). Allo
+   stesso modo dein (tuo), sein (suo, di lui) e ihr (suo, di lei).
+2. Wie alt ist Mia? Sie ist dreiundzwanzig: l'età si dice con sein (essere), non
+   con haben. Letteralmente "è ventitré", come in inglese; per intero si dice
+   anche sie ist dreiundzwanzig Jahre alt.
+3. I numeri da 13 a 19 sono unità + zehn: dreizehn, vierzehn, fünfzehn, sechzehn
+   (sechs perde la s), siebzehn (sieben perde -en), achtzehn, neunzehn. Dal 21
+   si dicono prima le unità: einundzwanzig, dreiundzwanzig ("tre e venti").
+4. Falso amico: studieren si usa solo per l'università; a scuola si dice lernen
+   (imparare): er lernt Deutsch. Die Geschwister sono fratelli e sorelle
+   insieme, come il nostro "fratelli" quando si parla di entrambi.
+5. Zu Hause vuol dire "a casa" (stato in luogo). Molte città italiane hanno un
+   nome tedesco: Mailand (Milano), Rom, Venedig (Venezia), Florenz, Neapel
+   (Napoli).
+notes.en:
+1. Mein Vater, meine Mutter, meine Eltern: the possessive is mein before a
+   masculine or neuter noun and meine before a feminine or plural one. The same
+   goes for dein (your), sein (his) and ihr (her).
+2. Wie alt ist Mia? Sie ist dreiundzwanzig: as in English, age is given with
+   sein (to be). In full you can also say sie ist dreiundzwanzig Jahre alt
+   (twenty-three years old).
+3. Numbers 13 to 19 are unit + zehn: dreizehn, vierzehn, fünfzehn, sechzehn
+   (sechs drops its s), siebzehn (sieben drops -en), achtzehn, neunzehn. From 21
+   the unit comes first, like old English "four-and-twenty": einundzwanzig,
+   dreiundzwanzig.
+4. Studieren is only used for university; at school you use lernen (to learn):
+   er lernt Deutsch. Die Geschwister is one word for brothers and sisters
+   together, like English "siblings", but far more common in everyday speech.
+5. Zu Hause means "at home". Many Italian cities have German names: Mailand
+   (Milan), Rom (Rome), Venedig (Venice), Florenz (Florence), Neapel (Naples).
+notes.es:
+1. Mein Vater, meine Mutter, meine Eltern: el posesivo es mein ante un
+   sustantivo masculino o neutro y meine ante uno femenino o plural. Igual con
+   dein (tu). A diferencia del español su, el alemán distingue sein (de él) e
+   ihr (de ella).
+2. Wie alt ist Mia? Sie ist dreiundzwanzig: la edad se dice con sein (ser), no
+   con haben (tener). Literalmente "es veintitrés"; también se dice sie ist
+   dreiundzwanzig Jahre alt.
+3. Los números del 13 al 19 son unidad + zehn: dreizehn, vierzehn, fünfzehn,
+   sechzehn (sechs pierde la s), siebzehn (sieben pierde -en), achtzehn,
+   neunzehn. A partir del 21 se dicen primero las unidades: einundzwanzig,
+   dreiundzwanzig ("tres y veinte").
+4. Falso amigo: studieren se usa solo para la universidad; en el colegio se dice
+   lernen (aprender): er lernt Deutsch. Die Geschwister son los hermanos y las
+   hermanas juntos, como nuestro "hermanos" cuando hay de los dos.
+5. Zu Hause significa "en casa". Muchas ciudades italianas tienen nombre alemán:
+   Mailand (Milán), Rom (Roma), Venedig (Venecia), Florenz (Florencia), Neapel
+   (Nápoles).
+
+ex1:
+- Mein Bruder ist achtzehn.
+  it: Mio fratello ha diciotto anni.
+  en: My brother is eighteen.
+  es: Mi hermano tiene dieciocho años.
+- Wohnen deine Eltern in Kiel?
+  it: I tuoi genitori abitano a Kiel?
+  en: Do your parents live in Kiel?
+  es: ¿Tus padres viven en Kiel?
+- Meine Schwester ist Lehrerin.
+  it: Mia sorella fa l'insegnante.
+  en: My sister is a teacher.
+  es: Mi hermana es profesora.
+- Er spricht ein bisschen Deutsch.
+  it: Parla un po' di tedesco.
+  en: He speaks a little German.
+  es: Habla un poco de alemán.
+
+ex2:
+- Wie [alt] ist Luca?
+  it: Quanti anni ha Luca?
+  en: How old is Luca?
+  es: ¿Cuántos años tiene Luca?
+- Das ist [meine] Mutter und das ist [mein] Vater.
+  it: Questa è mia madre e questo è mio padre.
+  en: This is my mother and this is my father.
+  es: Esta es mi madre y este es mi padre.
+- Hast du [Geschwister]?
+  it: Hai fratelli?
+  en: Do you have any brothers or sisters?
+  es: ¿Tienes hermanos?
+- Sie ist [dreiundzwanzig].
+  it: Ha ventitré anni.
+  en: She's twenty-three.
+  es: Tiene veintitrés años.
+
+== 6 A1
+title: Wo ist die Apotheke?
+title.it: Dov'è la farmacia?
+title.en: Where's the chemist's?
+title.es: ¿Dónde está la farmacia?
+
+dialogue:
+- Guten Tag, Frau Becker! Entschuldigung, gibt es hier in der Nähe eine Apotheke?
+  it: Buongiorno, signora Becker! Mi scusi (scusa), c'è una farmacia qui vicino (qui nella vicinanza)?
+  en: Hello, Mrs Becker! Excuse me, is there a chemist's near here (here in the nearness)?
+  es: ¡Buenos días, señora Becker! Disculpe, ¿hay una farmacia por aquí cerca (aquí en la cercanía)?
+  pron: Entschuldigung = entshùldigung; Nähe = nèe; Apotheke = apotèeke
+- Ja, nicht weit von hier. Sie gehen geradeaus und dann an der Ampel links.
+  it: Sì, non lontano da qui. Vada (Lei va) sempre dritto e poi al semaforo a sinistra.
+  en: Yes, not far from here. You go straight on and then left at the traffic lights.
+  es: Sí, no lejos de aquí. Siga (usted va) todo recto y luego, en el semáforo, a la izquierda.
+  pron: weit = vàit; geradeaus = gheràade-àus; Ampel = àmpel
+- An der Ampel links... Ist sie neben der Bäckerei?
+  it: Al semaforo a sinistra... È accanto alla panetteria?
+  en: Left at the lights... Is it next to the bakery?
+  es: En el semáforo a la izquierda... ¿Está al lado de la panadería?
+- Nein, gegenüber der Bank. Sie ist bis neunzehn Uhr offen.
+  it: No, di fronte alla banca. È aperta fino alle diciannove (fino diciannove ore).
+  en: No, opposite the bank. It's open until 7 p.m. (until nineteen o'clock).
+  es: No, enfrente del banco. Está abierta hasta las diecinueve (hasta diecinueve hora).
+  pron: gegenüber = ghéghen-über; neunzehn = nòin-tseen; Uhr = uur
+- Danke! Und gibt es hier auch einen Supermarkt?
+  it: Grazie! E c'è anche un supermercato qui?
+  en: Thanks! And is there a supermarket here too?
+  es: ¡Gracias! ¿Y hay también un supermercado por aquí?
+  pron: Supermarkt = sùuper-markt
+- Ja, neben der Post. Aber sonntags sind die Geschäfte zu. Dann gehe ich zum Fischmarkt!
+  it: Sì, accanto alla posta. Ma la domenica i negozi sono chiusi. Allora vado al mercato del pesce!
+  en: Yes, next to the post office. But on Sundays the shops are shut. Then I go to the fish market!
+  es: Sí, al lado de Correos. Pero los domingos las tiendas están cerradas. ¡Entonces voy al mercado de pescado!
+  pron: sonntags = zòntaks; Geschäfte = gheshèfte
+- Zum Fischmarkt? Um wie viel Uhr?
+  it: Al mercato del pesce? A che ora (a quanta ora)?
+  en: To the fish market? At what time (at how much o'clock)?
+  es: ¿Al mercado de pescado? ¿A qué hora (a cuánta hora)?
+- Um sechs Uhr morgens. Kommen Sie doch mit!
+  it: Alle sei di mattina. Venga anche Lei (venga pure con)!
+  en: At six in the morning. Why don't you come along (come you indeed with)!
+  es: A las seis de la mañana. ¡Venga usted también (venga pues con)!
+  pron: sechs = zeks
+- So früh? Na gut, ich komme mit. Bis Sonntag!
+  it: Così presto? Va bene (beh, bene), vengo anch'io (vengo con). A domenica!
+  en: That early? Oh well (well, good), I'll come along (I come with). See you on Sunday (until Sunday)!
+  es: ¿Tan temprano? Bueno, vale (bueno, bien), voy con usted (vengo con). ¡Hasta el domingo!
+  pron: früh = frü
+
+notes.it:
+1. Per indicare la strada: geradeaus (sempre dritto), links (a sinistra), rechts
+   (a destra), an der Ampel (al semaforo). Per ricordarle aiuta l'inglese: links
+   somiglia a "left" e rechts a "right".
+2. Dopo le preposizioni di luogo an, neben (accanto a) e gegenüber (di fronte a)
+   si usa il dativo: die diventa der (an der Ampel, neben der Post), der e das
+   diventano dem. Im e zum sono le forme brevi di in dem e zu dem. Ist sie neben
+   der Bäckerei? Il pronome segue il genere del nome: die Apotheke, quindi sie.
+3. Gehen vuol dire andare a piedi; con un mezzo si usa fahren. Mitkommen (venire
+   con qualcuno) è separabile: Ich komme mit. La parolina doch rende l'invito
+   più caloroso: Kommen Sie doch mit!
+4. I giorni sono Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag,
+   Sonntag, tutti maschili e con la maiuscola: am Sonntag (domenica). Sonntags,
+   con la -s e la minuscola, vuol dire "ogni domenica".
+5. In Germania la domenica quasi tutti i negozi sono chiusi (zu), perciò il
+   Fischmarkt della domenica mattina è un evento. Falso amico: la Drogerie non è
+   una drogheria, ma un negozio di cosmetici, prodotti per la casa e per
+   l'igiene; i medicinali si comprano in Apotheke.
+notes.en:
+1. Directions: geradeaus (straight on), links (left), rechts (right), an der
+   Ampel (at the traffic lights). Links and rechts are easy to remember next to
+   English "left" and "right".
+2. After the place prepositions an, neben (next to) and gegenüber (opposite) the
+   dative is used: die becomes der (an der Ampel, neben der Post), der and das
+   become dem. Im and zum are short for in dem and zu dem. Ist sie neben der
+   Bäckerei? The pronoun follows the noun's gender: die Apotheke, so sie.
+3. Gehen means to go on foot; by bus, train or car you use fahren. Mitkommen (to
+   come along) is separable: Ich komme mit. The little word doch makes an
+   invitation warmer: Kommen Sie doch mit! (do come along!).
+4. The days are Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag,
+   Sonntag, all masculine and capitalised: am Sonntag (on Sunday). Sonntags,
+   with -s and a small letter, means "on Sundays, every Sunday".
+5. In Germany almost all shops are shut (zu) on Sundays, which makes the Sunday
+   morning Fischmarkt an event. Die Apotheke is the chemist's for medicines; die
+   Drogerie sells toiletries, cosmetics and cleaning products, like a chemist's
+   without the pharmacy counter.
+notes.es:
+1. Para indicar el camino: geradeaus (todo recto), links (a la izquierda),
+   rechts (a la derecha), an der Ampel (en el semáforo). Truco: rechts empieza
+   casi como "derecha" sin la d.
+2. Tras las preposiciones de lugar an, neben (al lado de) y gegenüber (enfrente
+   de) se usa el dativo: die pasa a der (an der Ampel, neben der Post), der y
+   das pasan a dem. Im y zum son las formas cortas de in dem y zu dem. Ist sie
+   neben der Bäckerei? El pronombre sigue el género del sustantivo: die
+   Apotheke, por lo tanto sie.
+3. Gehen significa ir a pie; en un vehículo se usa fahren. Mitkommen (venir con
+   alguien) es separable: Ich komme mit. La palabrita doch hace la invitación
+   más cálida: Kommen Sie doch mit!
+4. Los días son Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag,
+   Sonntag, todos masculinos y con mayúscula: am Sonntag (el domingo). Sonntags,
+   con -s y minúscula, significa "los domingos, cada domingo".
+5. En Alemania casi todas las tiendas cierran (zu) el domingo, así que el
+   Fischmarkt del domingo por la mañana es todo un acontecimiento. La Apotheke
+   es la farmacia; la Drogerie se parece a la droguería española, con productos
+   de limpieza, higiene y cosmética, pero sin medicamentos con receta.
+
+ex1:
+- Die Bank ist gegenüber der Post.
+  it: La banca è di fronte alla posta.
+  en: The bank is opposite the post office.
+  es: El banco está enfrente de Correos.
+- Sie gehen an der Ampel rechts.
+  it: Al semaforo giri a destra.
+  en: You turn right at the lights.
+  es: En el semáforo gire a la derecha.
+- Samstags gehe ich zum Markt.
+  it: Il sabato vado al mercato.
+  en: On Saturdays I go to the market.
+  es: Los sábados voy al mercado.
+- Der Supermarkt ist bis zwanzig Uhr offen.
+  it: Il supermercato è aperto fino alle venti.
+  en: The supermarket is open until 8 p.m.
+  es: El supermercado está abierto hasta las veinte horas.
+
+ex2:
+- Sie gehen [geradeaus].
+  it: Vada sempre dritto.
+  en: You go straight on.
+  es: Siga todo recto.
+- Die Apotheke ist [neben] der Bäckerei.
+  it: La farmacia è accanto alla panetteria.
+  en: The chemist's is next to the bakery.
+  es: La farmacia está al lado de la panadería.
+- [Sonntags] gehe ich zum [Fischmarkt].
+  it: La domenica vado al mercato del pesce.
+  en: On Sundays I go to the fish market.
+  es: Los domingos voy al mercado de pescado.
+- [Kommen] Sie doch [mit]!
+  it: Venga anche Lei!
+  en: Why don't you come along!
+  es: ¡Venga usted también!
+
+== 7 A1
+title: Jonas' Schwester
+title.it: La sorella di Jonas
+title.en: Jonas's sister
+title.es: La hermana de Jonas
+
+dialogue:
+- Giulia, das ist meine Schwester Mia.
+  it: Giulia, ti presento mia sorella Mia (questa è mia sorella Mia).
+  en: Giulia, this is my sister Mia.
+  es: Giulia, te presento a mi hermana Mia (esta es mi hermana Mia).
+- Hallo, Giulia! Freut mich. Du kommst aus Italien, oder?
+  it: Ciao, Giulia! Piacere. Vieni dall'Italia, vero (o)?
+  en: Hi, Giulia! Nice to meet you. You're from Italy, aren't you (or)?
+  es: ¡Hola, Giulia! Encantada. Eres de Italia, ¿verdad (o)?
+- Ja, aus Mailand. Ich wohne seit drei Wochen in Hamburg, und das Viertel gefällt mir sehr.
+  it: Sì, di Milano (da Milano). Abito ad Amburgo da tre settimane e il quartiere mi piace molto.
+  en: Yes, from Milan. I've been living in Hamburg for three weeks (I live since three weeks in Hamburg), and I really like the neighbourhood (the quarter pleases me very).
+  es: Sí, de Milán. Vivo en Hamburgo desde hace tres semanas (desde tres semanas) y el barrio me gusta mucho.
+  pron: Wochen = vòhen
+- Toll! Was möchtet ihr? Heute lade ich euch ein!
+  it: Ottimo! Cosa prendete (cosa vorreste voi)? Oggi offro io (oggi invito io voi dentro)!
+  en: Great! What would you two like (what would-like you)? Today it's on me (today invite I you in)!
+  es: ¡Genial! ¿Qué queréis (qué querríais vosotros)? ¡Hoy invito yo (hoy invito yo a vosotros dentro)!
+  pron: möchtet = möhtet; euch = òih
+- Danke! Für mich einen Kaffee und ein Franzbrötchen, bitte.
+  it: Grazie! Per me un caffè e un Franzbrötchen, per favore.
+  en: Thanks! A coffee and a Franzbrötchen for me, please.
+  es: ¡Gracias! Para mí, un café y un Franzbrötchen, por favor.
+- Für mich auch. Morgens trinke ich keinen Kaffee, aber nachmittags gern!
+  it: Anche per me. La mattina non bevo caffè, ma il pomeriggio volentieri!
+  en: Same for me (for me also). I don't drink coffee in the mornings, but in the afternoons, gladly!
+  es: Para mí también. Por las mañanas no bebo café, ¡pero por las tardes, con gusto!
+  pron: nachmittags = nàah-mittaaks
+- Wie spät ist es? Mein Zug fährt um sechs.
+  it: Che ore sono? Il mio treno parte (va) alle sei.
+  en: What time is it? My train leaves (goes) at six.
+  es: ¿Qué hora es? Mi tren sale (va) a las seis.
+  pron: Zug = tsuuk; fährt = fèert
+- Es ist erst Viertel nach vier. Du hast noch Zeit!
+  it: Sono solo le quattro e un quarto (è solo quarto dopo quattro). Hai ancora tempo!
+  en: It's only a quarter past four (quarter after four). You still have time!
+  es: Solo son las cuatro y cuarto (es solo cuarto después de cuatro). ¡Todavía tienes tiempo!
+  pron: Viertel = fìrtel; vier = fiir
+
+notes.it:
+1. Il presente regolare: ich wohne, du wohnst, er/sie wohnt, wir wohnen, ihr
+   wohnt, sie/Sie wohnen. Alcuni verbi cambiano vocale con du ed er/sie: nehmen
+   (du nimmst), sprechen (er spricht), fahren (er fährt).
+2. Sein e haben, i due verbi più importanti: ich bin, du bist, er ist, wir sind,
+   ihr seid, sie/Sie sind; ich habe, du hast, er hat, wir haben, ihr habt,
+   sie/Sie haben. L'età si dice con sein: Mia ist dreiundzwanzig.
+3. Il verbo coniugato sta al secondo posto: Morgens trinke ich..., Heute lade
+   ich euch ein. Nelle domande sì/no va al primo posto (Kommst du aus Italien?),
+   dopo una parola interrogativa al secondo (Wie spät ist es? Wo ist die
+   Apotheke?). I verbi separabili mandano la particella in fondo: einladen,
+   mitkommen.
+4. Gli articoli sono der, die, das ed ein, eine. All'accusativo cambia solo il
+   maschile, come in einen Kaffee, keinen Tee, einen Bruder. Kein nega un nome,
+   nicht un verbo. Dopo le preposizioni di luogo si usa il dativo: an der Ampel,
+   im (in dem) dritten Stock.
+5. Du, ihr e Sie: du per un amico, ihr per due o più amici (Mia dice a Giulia e
+   Jonas Was möchtet ihr? Ich lade euch ein), Sie per dare del Lei a una o più
+   persone. Oder? in fondo alla frase vuol dire "vero?". Erst, con l'ora, vuol
+   dire "solo, appena": es ist erst vier.
+notes.en:
+1. Regular present tense: ich wohne, du wohnst, er/sie wohnt, wir wohnen, ihr
+   wohnt, sie/Sie wohnen. Some verbs change their vowel with du and er/sie:
+   nehmen (du nimmst), sprechen (er spricht), fahren (er fährt).
+2. Sein and haben, the two key verbs: ich bin, du bist, er ist, wir sind, ihr
+   seid, sie/Sie sind; ich habe, du hast, er hat, wir haben, ihr habt, sie/Sie
+   haben. Age is given with sein: Mia ist dreiundzwanzig.
+3. The conjugated verb comes second: Morgens trinke ich..., Heute lade ich euch
+   ein. In yes/no questions it comes first (Kommst du aus Italien?), after a
+   question word it comes second (Wie spät ist es? Wo ist die Apotheke?).
+   Separable verbs send their particle to the end: einladen, mitkommen.
+4. The articles are der, die, das and ein, eine. In the accusative only the
+   masculine changes: einen Kaffee, keinen Tee, einen Bruder. Kein negates a
+   noun, nicht a verb. After place prepositions the dative is used: an der
+   Ampel, im (in dem) dritten Stock.
+5. Du, ihr and Sie: du for one friend, ihr for two or more friends (Mia says to
+   Giulia and Jonas Was möchtet ihr? Ich lade euch ein), Sie for polite address,
+   to one person or more. Oder? at the end of a sentence means "right?". Erst
+   with a time means "only, so far": es ist erst vier, it is only four.
+notes.es:
+1. El presente regular: ich wohne, du wohnst, er/sie wohnt, wir wohnen, ihr
+   wohnt, sie/Sie wohnen. Algunos verbos cambian de vocal con du y er/sie:
+   nehmen (du nimmst), sprechen (er spricht), fahren (er fährt).
+2. Sein y haben, los dos verbos clave: ich bin, du bist, er ist, wir sind, ihr
+   seid, sie/Sie sind; ich habe, du hast, er hat, wir haben, ihr habt, sie/Sie
+   haben. La edad se dice con sein: Mia ist dreiundzwanzig.
+3. El verbo conjugado va en segundo lugar: Morgens trinke ich..., Heute lade ich
+   euch ein. En las preguntas de sí o no va en primer lugar (Kommst du aus
+   Italien?), y tras una palabra interrogativa, en segundo (Wie spät ist es? Wo
+   ist die Apotheke?). Los verbos separables mandan la partícula al final:
+   einladen, mitkommen.
+4. Los artículos son der, die, das y ein, eine. En acusativo solo cambia el
+   masculino, como en einen Kaffee, keinen Tee, einen Bruder. Kein niega un
+   sustantivo y nicht un verbo. Tras las preposiciones de lugar se usa el
+   dativo, como en an der Ampel o im (in dem) dritten Stock.
+5. Du, ihr y Sie: du para un amigo, ihr para dos o más amigos, como el vosotros
+   de España (Mia dice a Giulia y Jonas Was möchtet ihr? Ich lade euch ein), Sie
+   para tratar de usted a una o varias personas. Oder? al final de la frase
+   significa "¿verdad?". Erst, con la hora, significa "solo, apenas": es ist
+   erst vier.
+
+ex1:
+- Das ist meine Schwester.
+  it: Questa è mia sorella.
+  en: This is my sister.
+  es: Esta es mi hermana.
+- Was möchtet ihr?
+  it: Cosa prendete?
+  en: What would you like?
+  es: ¿Qué queréis?
+- Mia wohnt seit zwei Jahren in Kiel.
+  it: Mia abita a Kiel da due anni.
+  en: Mia has been living in Kiel for two years.
+  es: Mia vive en Kiel desde hace dos años.
+- Es ist Viertel nach elf.
+  it: Sono le undici e un quarto.
+  en: It's a quarter past eleven.
+  es: Son las once y cuarto.
+
+ex2:
+- Heute [lade] ich euch [ein]!
+  it: Oggi offro io!
+  en: Today it's on me!
+  es: ¡Hoy invito yo!
+- Morgens trinke ich [keinen] [Kaffee].
+  it: La mattina non bevo caffè.
+  en: I don't drink coffee in the mornings.
+  es: Por las mañanas no bebo café.
+- Ich wohne [seit] drei [Wochen] in Hamburg.
+  it: Abito ad Amburgo da tre settimane.
+  en: I've been living in Hamburg for three weeks.
+  es: Vivo en Hamburgo desde hace tres semanas.
+- Du [hast] noch [Zeit]!
+  it: Hai ancora tempo!
+  en: You still have time!
+  es: ¡Todavía tienes tiempo!
+
+== 8 A1
+title: Ein Abendessen bei Giulia
+title.it: Una cena da Giulia
+title.en: Dinner at Giulia's
+title.es: Una cena en casa de Giulia
+
+dialogue:
+- Jonas, hast du am Freitagabend Zeit?
+  it: Jonas, sei libero (hai tempo) venerdì sera?
+  en: Jonas, are you free (have you time) on Friday evening?
+  es: Jonas, ¿estás libre (tienes tiempo) el viernes por la noche?
+  pron: Freitagabend = fràitaak-àabent
+- Ja, warum?
+  it: Sì, perché?
+  en: Yes, why?
+  es: Sí, ¿por qué?
+  pron: warum = varùm
+- Ich koche bei mir zu Hause. Frau Becker kommt auch. Kommst du?
+  it: Cucino a casa mia (presso me a casa). Viene anche la signora Becker. Vieni?
+  en: I'm cooking at my place (at me at home). Mrs Becker is coming too. Will you come (come you)?
+  es: Cocino en mi casa (junto a mí en casa). También viene la señora Becker. ¿Vienes?
+  pron: koche = kòhe
+- Gern! Was kochst du?
+  it: Volentieri! Cosa cucini?
+  en: I'd love to (gladly)! What are you cooking?
+  es: ¡Con mucho gusto! ¿Qué cocinas?
+- Ein Risotto. Das Rezept ist von meiner Oma. Aber Frau Becker kocht sehr gut... Ich habe ein bisschen Angst!
+  it: Un risotto. La ricetta è di mia nonna. Ma la signora Becker cucina benissimo (molto bene)... Ho un po' paura!
+  en: A risotto. The recipe is my grandma's (is from my grandma). But Mrs Becker is a very good cook (cooks very well)... I'm a bit scared (I have a little fear)!
+  es: Un risotto. La receta es de mi abuela. Pero la señora Becker cocina muy bien... ¡Tengo un poco de miedo!
+  pron: Rezept = retsèpt; Angst = àngst
+- Ach was, dein Risotto ist bestimmt toll! Ich bringe den Nachtisch mit: einen Apfelkuchen.
+  it: Ma figurati (ah cosa), il tuo risotto sarà di sicuro ottimo (è di sicuro ottimo)! Porto io il dolce (porto con il dolce): una torta di mele.
+  en: Nonsense (oh what), your risotto is sure to be great (is surely great)! I'll bring (I bring along) dessert: an apple cake.
+  es: ¡Qué va (ah qué), seguro que tu risotto está buenísimo (está seguramente genial)! Yo llevo el postre (llevo con el postre): una tarta de manzana.
+  pron: Ach = ah (ch come in "Bach"); Nachtisch = nàah-tish; Apfelkuchen = àpfel-kùuhen
+- Super! Ich wohne in der Lindenstraße 12, im dritten Stock, links.
+  it: Fantastico! Abito in Lindenstraße 12 (via dei Tigli), al terzo piano, a sinistra.
+  en: Great! I live at Lindenstraße 12 (lime-tree street), on the third floor, on the left.
+  es: ¡Genial! Vivo en la Lindenstraße 12 (calle de los Tilos), en el tercer piso, a la izquierda.
+  pron: Lindenstraße = lìnden-shtràasse
+- Gut. Um wie viel Uhr?
+  it: Bene. A che ora?
+  en: Good. What time?
+  es: Bien. ¿A qué hora?
+- Um sieben Uhr, aber pünktlich! Bis Freitag!
+  it: Alle sette, ma puntuale! A venerdì!
+  en: At seven, but be on time (but punctual)! See you on Friday (until Friday)!
+  es: A las siete, ¡pero puntual! ¡Hasta el viernes!
+  pron: sieben = zìiben; pünktlich = pünktlih
+
+notes.it:
+1. Bei mir (zu Hause) vuol dire "a casa mia, da me": bei + persona indica la
+   casa di qualcuno, come bei dir, bei Jonas, bei Frau Becker. Per il movimento
+   verso casa di qualcuno si usa zu: Kommst du zu mir? (vieni da me?).
+2. Hast du Zeit? e Ich habe Angst funzionano come in italiano: Zeit haben (avere
+   tempo), Angst haben (avere paura), Hunger haben (avere fame), Durst haben
+   (avere sete).
+3. Ich bringe den Nachtisch mit: mitbringen (portare con sé) è separabile. Der
+   Nachtisch all'accusativo diventa den Nachtisch. I nomi composti prendono il
+   genere dall'ultima parola: der Apfel + der Kuchen = der Apfelkuchen, der
+   Freitag + der Abend = der Freitagabend.
+4. Negli indirizzi viene prima la via e poi il numero: Lindenstraße 12. Die
+   Linde è il tiglio; Straße si abbrevia spesso Str. Si dice Ich wohne in der
+   Lindenstraße, con in.
+5. Puntualità: a una cena in Germania si arriva all'ora indicata, al massimo con
+   pochi minuti di ritardo. Come regalo si portano fiori, una bottiglia di vino
+   o un dolce. Ach was! significa "ma figurati!", e die Oma è la nonna.
+notes.en:
+1. Bei mir (zu Hause) means "at my place": bei + a person is someone's home, as
+   in bei dir, bei Jonas, bei Frau Becker. For going to someone's place you use
+   zu, as in Kommst du zu mir? (are you coming to my place?).
+2. Hast du Zeit? and Ich habe Angst use haben where English often uses "to be":
+   Zeit haben (to be free, have time), Angst haben (to be afraid), Hunger haben
+   (to be hungry), Durst haben (to be thirsty).
+3. Ich bringe den Nachtisch mit: mitbringen (to bring along) is separable. Der
+   Nachtisch becomes den Nachtisch in the accusative. Compound nouns take their
+   gender from the last word: der Apfel + der Kuchen = der Apfelkuchen, der
+   Freitag + der Abend = der Freitagabend.
+4. In addresses the street comes first, then the number: Lindenstraße 12. Die
+   Linde is the lime tree; Straße is often shortened to Str. You say Ich wohne
+   in der Lindenstraße, with in.
+5. Punctuality: for dinner in Germany you arrive at the time given, a few
+   minutes late at most. Typical small gifts are flowers, a bottle of wine or a
+   dessert. Ach was! means "nonsense, don't worry", and die Oma is grandma.
+notes.es:
+1. Bei mir (zu Hause) significa "en mi casa": bei + persona indica la casa de
+   alguien, como en bei dir, bei Jonas, bei Frau Becker. Para el movimiento
+   hacia casa de alguien se usa zu: Kommst du zu mir? (¿vienes a mi casa?).
+2. Hast du Zeit? e Ich habe Angst funcionan como tener en español: Zeit haben
+   (tener tiempo), Angst haben (tener miedo), Hunger haben (tener hambre), Durst
+   haben (tener sed).
+3. Ich bringe den Nachtisch mit: mitbringen (llevar consigo) es separable. Der
+   Nachtisch pasa a den Nachtisch en acusativo. Los sustantivos compuestos toman
+   el género de la última palabra: der Apfel + der Kuchen = der Apfelkuchen, der
+   Freitag + der Abend = der Freitagabend.
+4. En las direcciones va primero la calle y después el número: Lindenstraße 12.
+   Die Linde es el tilo; Straße se abrevia a menudo Str. Se dice Ich wohne in
+   der Lindenstraße, con in.
+5. Puntualidad: a una cena en Alemania se llega a la hora indicada, como mucho
+   con unos minutos de retraso. Como regalo se llevan flores, una botella de
+   vino o un postre. Ach was! significa "¡qué va!", y die Oma es la abuela.
+
+ex1:
+- Kommst du am Samstag zu mir?
+  it: Vieni da me sabato?
+  en: Are you coming to my place on Saturday?
+  es: ¿Vienes a mi casa el sábado?
+- Ich bringe einen Kuchen mit.
+  it: Porto una torta.
+  en: I'll bring a cake.
+  es: Llevo una tarta.
+- Ich habe ein bisschen Angst.
+  it: Ho un po' paura.
+  en: I'm a bit scared.
+  es: Tengo un poco de miedo.
+- Frau Becker kocht sehr gut.
+  it: La signora Becker cucina molto bene.
+  en: Mrs Becker is a very good cook.
+  es: La señora Becker cocina muy bien.
+
+ex2:
+- Hast du am [Freitagabend] [Zeit]?
+  it: Sei libero venerdì sera?
+  en: Are you free on Friday evening?
+  es: ¿Tienes tiempo el viernes por la noche?
+- Ich koche bei [mir] zu [Hause].
+  it: Cucino a casa mia.
+  en: I'm cooking at my place.
+  es: Cocino en mi casa.
+- Was [kochst] du?
+  it: Cosa cucini?
+  en: What are you cooking?
+  es: ¿Qué cocinas?
+- Ich wohne im [dritten] Stock, [links].
+  it: Abito al terzo piano, a sinistra.
+  en: I live on the third floor, on the left.
+  es: Vivo en el tercer piso, a la izquierda.

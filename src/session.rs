@@ -1411,6 +1411,10 @@ fn lesson_steps(lesson: &Lesson) -> Vec<Step> {
         FinalListen,
         Previous,
     ];
+    // A revision lesson of grammar and practice only (Perfectionnement).
+    if lesson.revision && lesson.dialogue.is_empty() && !lesson.notes.is_empty() {
+        steps = vec![Recap, Ex1, Ex2, Previous];
+    }
     if !lesson.tasks.is_empty() {
         let at = steps.iter().position(|s| *s == Ex2).map_or(steps.len(), |i| i + 1);
         steps.insert(at, Tasks);

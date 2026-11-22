@@ -255,7 +255,9 @@ pub fn builtin_problems(c: &Course, l: &Lesson) -> Vec<String> {
         None => out.push(format!("{at}: this course has no {} lessons", l.level.name())),
         _ => {}
     }
-    if l.title.is_empty() || l.dialogue.is_empty() {
+    // Perfectionnement's revision lessons are grammar and practice only.
+    let no_dialogue_ok = l.revision && c.stage == Some(Stage::Perfectionnement);
+    if l.title.is_empty() || (l.dialogue.is_empty() && !no_dialogue_ok) {
         out.push(format!("{at}: title or dialogue is empty"));
     }
     if !l.revision && (l.ex1.is_empty() || l.ex2.is_empty()) {
@@ -596,6 +598,16 @@ mod tests {
         l.ex1.clear();
         l.ex2.clear();
         assert_eq!(builtin_problems(&es, l), Vec::<String>::new());
+
+        // Only Perfectionnement's revision lessons may have no dialogue.
+        let dialogue = std::mem::take(&mut l.dialogue);
+        assert!(builtin_problems(&es, l).iter().any(|p| p.contains("dialogue is empty")));
+        let (level, number) = (l.level, l.number);
+        l.level = Level::B2;
+        l.number = 7;
+        assert_eq!(builtin_problems(&with("es", Some(Stage::Perfectionnement)), l), Vec::<String>::new());
+        (l.level, l.number, l.dialogue) = (level, number, dialogue);
+
         l.revision = false;
         assert!(builtin_problems(&es, l).iter().any(|p| p.contains("ex1 or ex2 is empty")));
     }

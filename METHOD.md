@@ -39,9 +39,11 @@ layout, lesson lengths, notes, exercises, revision lessons and second wave.
    Beside each sentence, the translation in your language, with the
    word-for-word sense in brackets where the languages differ: "Buon giorno
    (buoni giorni)".
-3. **Figured pronunciation** (lessons 1–50): under each sentence, the sentence
-   spelled as a reader of your language would read it aloud, following a
-   fixed key for each pair of languages (`content/<lang>/pronunciation.md`).
+3. **Figured pronunciation**: under each sentence, the sentence spelled as a
+   reader of your language would read it aloud, following a fixed key for
+   each pair of languages (`content/<lang>/pronunciation.md`). The whole line
+   in lessons 1–28; from lesson 29 only the words new in that lesson, the
+   rest left out, as German with ease does.
 4. **Pronunciation observations** (mostly in the early lessons): a few
    "remember" points on the new or tricky sounds of the lesson, compared
    with your language.
@@ -62,9 +64,16 @@ layout, lesson lengths, notes, exercises, revision lessons and second wave.
 8. **Cultural note** (at the end of many lessons): a paragraph about life,
    customs, places, history or the language, linked to the scene.
 
-Now and then a line from the author closes a lesson: encouragement at the end
-of a week, a word before the revision lesson, the instructions on the day the
-active wave starts.
+Every four to six lessons a line from the author closes the lesson
+("From the author"): encouragement, "a third of the course done", a word
+before a long lesson or the revision lesson, the announcement of the active
+wave in lesson 49 and its instructions in lesson 50.
+
+Later in the course some lessons are short descriptive texts without
+speakers (a place, a festival, the language itself), more of them towards
+the end, and lessons 99–100 are the author's farewell: how to keep in touch
+with the language once the book is closed. The whole map, lesson by lesson,
+is in `work/PATTERNS.md` (measured in the books).
 
 How to study it (one lesson a day, about half an hour). Every lesson of the
 three courses goes the same way:

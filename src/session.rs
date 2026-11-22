@@ -941,8 +941,12 @@ impl App {
                         }
                         notes(ui, lesson.notes_in(&base));
                         titled(ui, "Culture", lesson.culture_in(&base));
+                        titled(ui, "From the author", lesson.aside_in(&base));
                     }
-                    Step::Recap => notes(ui, lesson.notes_in(&base)),
+                    Step::Recap => {
+                        notes(ui, lesson.notes_in(&base));
+                        titled(ui, "From the author", lesson.aside_in(&base));
+                    }
                     Step::Tasks => {
                         let mut p = self.session.as_mut().map(|s| std::mem::take(&mut s.tasks)).unwrap_or_default();
                         self.tasks_step(ui, &lang, &lesson.tasks, &mut p);

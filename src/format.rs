@@ -8,9 +8,19 @@ enum Text {
     Sounds,
     Notes,
     Culture,
+    Aside,
 }
 
-const TEXTS: [(&str, Text); 3] = [("sounds", Text::Sounds), ("notes", Text::Notes), ("culture", Text::Culture)];
+const TEXTS: [(&str, Text); 4] = [
+    ("sounds", Text::Sounds),
+    ("notes", Text::Notes),
+    ("culture", Text::Culture),
+    ("aside", Text::Aside),
+];
+
+/// Foundation lessons with a full figured pronunciation line; later lessons
+/// spell only their new words, as the Assimil books do.
+pub const FULL_FIGURED: u32 = 28;
 
 #[derive(Clone, PartialEq)]
 enum Section {
@@ -43,6 +53,7 @@ fn texts_mut(l: &mut Lesson, kind: Text) -> &mut std::collections::BTreeMap<Stri
         Text::Sounds => &mut l.sounds,
         Text::Notes => &mut l.notes,
         Text::Culture => &mut l.culture,
+        Text::Aside => &mut l.aside,
     }
 }
 
@@ -76,7 +87,7 @@ pub fn parse_course(src: &str, id: &str) -> Result<Course, String> {
 
     let finish = |lesson: &mut Option<Lesson>, course: &mut Course| {
         if let Some(mut l) = lesson.take() {
-            for map in [&mut l.sounds, &mut l.notes, &mut l.culture] {
+            for map in [&mut l.sounds, &mut l.notes, &mut l.culture, &mut l.aside] {
                 for n in map.values_mut() {
                     *n = n.trim_matches('\n').to_string();
                 }
@@ -280,7 +291,8 @@ pub fn builtin_problems(c: &Course, l: &Lesson) -> Vec<String> {
         .keys()
         .chain(l.title_tr.keys())
         .chain(l.sounds.keys())
-        .chain(l.culture.keys());
+        .chain(l.culture.keys())
+        .chain(l.aside.keys());
     for k in keys.filter(|k| !k.is_empty() && !known(lang, k)) {
         out.push(format!("{at}: unexpected language `{k}` in a title or notes"));
     }
@@ -348,7 +360,7 @@ pub fn builtin_gaps(c: &Course, l: &Lesson) -> Vec<String> {
     let mut out = Vec::new();
     let (stage, lang, bases) = (c.stage, c.lang.as_str(), c.bases());
     let at = format!("{lang} lesson {}", l.number);
-    if matches!(l.level, Level::A1 | Level::A2) {
+    if stage == Some(Stage::Foundation) && l.number <= FULL_FIGURED {
         let missing = l.dialogue.iter().filter(|it| bases.iter().any(|b| it.figured(b).is_none())).count();
         if missing > 0 {
             out.push(format!(
@@ -468,6 +480,7 @@ pub fn write_course(c: &Course) -> String {
         write_items(&mut out, "ex2", &l.ex2);
         write_text(&mut out, "culture", &l.culture);
         write_items(&mut out, "tasks", &l.tasks);
+        write_text(&mut out, "aside", &l.aside);
     }
     out
 }
@@ -614,7 +627,7 @@ mod tests {
 
     #[test]
     fn new_sections_round_trip() {
-        let src = "course: nl\nstage: mastery\nbases: it\nname: X\n\n== 7 C1\ntitle: T\nkind: revision\n\ndialogue:\n- Hoi.\n  it: Ciao.\n\nsounds.it:\n1. ui si legge quasi «ai».\n\nnotes.it:\n1. Ripasso.\n\nex1:\n- Ja.\n  it: Sì.\n\nex2:\n- Ik [fiets].\n  it: Vado in bici.\n\nculture.it:\nIn Olanda tutti vanno in bici.\n\ntasks:\n- Een model.\n  task.it: Riassumi.\n  rubric.it: Senso intatto; registro giusto\n".replace("title: T\n", "title: T\ntitle.it: T\nnumeral: Zevende les\nnumeral.pron.it: zéfende les\n").replace("  it: Ciao.\n", "  it: Ciao.\n  refs: 1 3\n");
+        let src = "course: nl\nstage: mastery\nbases: it\nname: X\n\n== 7 C1\ntitle: T\nkind: revision\n\ndialogue:\n- Hoi.\n  it: Ciao.\n\nsounds.it:\n1. ui si legge quasi «ai».\n\nnotes.it:\n1. Ripasso.\n\nex1:\n- Ja.\n  it: Sì.\n\nex2:\n- Ik [fiets].\n  it: Vado in bici.\n\nculture.it:\nIn Olanda tutti vanno in bici.\n\ntasks:\n- Een model.\n  task.it: Riassumi.\n  rubric.it: Senso intatto; registro giusto\n\naside.it:\nBravi, a domani!\n".replace("title: T\n", "title: T\ntitle.it: T\nnumeral: Zevende les\nnumeral.pron.it: zéfende les\n").replace("  it: Ciao.\n", "  it: Ciao.\n  refs: 1 3\n");
         let c = parse_course(&src, "t").unwrap();
         assert_eq!(c.stage, Some(Stage::Mastery));
         assert_eq!(c.bases, ["it"]);
@@ -625,6 +638,7 @@ mod tests {
         assert_eq!(l.dialogue[0].refs, [1, 3]);
         assert_eq!(l.sounds_in("it"), "1. ui si legge quasi «ai».");
         assert_eq!(l.culture_in("it"), "In Olanda tutti vanno in bici.");
+        assert_eq!(l.aside_in("it"), "Bravi, a domani!");
         assert_eq!(l.tasks[0].task_in("it"), "Riassumi.");
         assert_eq!(l.tasks[0].rubric_in("it"), ["Senso intatto", "registro giusto"]);
         let again = parse_course(&write_course(&c), "t").unwrap();

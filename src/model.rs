@@ -265,6 +265,8 @@ pub struct Lesson {
     pub ex2: Vec<Item>,
     /// A cultural note per base language (`culture.it:`).
     pub culture: BTreeMap<String, String>,
+    /// A word from the author: encouragement, an announcement (`aside.it:`).
+    pub aside: BTreeMap<String, String>,
     /// Open tasks (Mastery): instruction, model answer, self-check.
     pub tasks: Vec<Item>,
 }
@@ -284,6 +286,10 @@ impl Lesson {
 
     pub fn culture_in(&self, base: &str) -> &str {
         text_in(&self.culture, base)
+    }
+
+    pub fn aside_in(&self, base: &str) -> &str {
+        text_in(&self.aside, base)
     }
 }
 

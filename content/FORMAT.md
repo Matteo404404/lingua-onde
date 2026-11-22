@@ -54,6 +54,8 @@ Sections, in this order:
   sentence; the translation is the prompt.
 - `culture.it:` a cultural note, free text.
 - `tasks:` open tasks (Mastery).
+- `aside.it:` a word from the author (encouragement, an announcement), free
+  text.
 
 Free-text sections run until the next section. Number the notes (`1. ...`)
 and start each from the word or phrase of the dialogue it explains.
@@ -68,8 +70,9 @@ and the sentence in the target language. Indented lines under it give:
   dialogue line).
 - `pron.it: ...` the figured pronunciation for an Italian reader (likewise
   `pron.en`, `pron.es`): the sentence spelled as that reader would read it
-  aloud, following `content/<lang>/pronunciation.md`. Built-in courses give it
-  on every dialogue line of lessons 1–50. The app shows the learner's one.
+  aloud, following `content/<lang>/pronunciation.md`. Built-in Foundation
+  courses give the whole line on every dialogue line of lessons 1–28, then
+  only the line's new words ("… tii …"). The app shows the learner's one.
 - `refs: 1 3` (revision dialogue) the earlier lessons the line's words come
   from; the app shows "(1, 3)".
 - `task.it: ...` and `rubric.it: ...` (tasks only): the instruction, and the
@@ -82,7 +85,7 @@ and the sentence in the target language. Indented lines under it give:
 number outside its level's range, a missing translation, title or note in
 one of the course's base languages, an exercise 2 sentence without
 `[blanks]`, a missing `pron:` where due) and, on lines with "gap:", what it
-still lacks to be finished: the figured pronunciation of lessons 1–50, the
+still lacks to be finished: the figured pronunciation of lessons 1–28, the
 revision lesson of every 7th place, the lesson references of a revision
 dialogue, the open tasks of a Mastery lesson.
 

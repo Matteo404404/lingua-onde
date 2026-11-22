@@ -115,8 +115,9 @@ every lesson goes:
 2. The same, reading the translation in your language.
 3. The same, reading the original.
 4. Read the dialogue with the translation (literal sense in brackets) and,
-   in lessons 1–50, the figured pronunciation for your language
-   (the guide is under Notes, "Pronunciation guide").
+   the figured pronunciation for your language: the whole sentence in
+   lessons 1–28, then the new words (the guide is under Notes,
+   "Pronunciation guide").
 5. Pronunciation observations, notes and, in some lessons, a cultural note.
 6. Exercise 1: translate. Exercise 2: fill in the missing words (one dot per
    letter; checked, accents forgiven with a warning). Mastery adds open tasks.

@@ -12,13 +12,13 @@ lessons), Perfectionnement (B2 to C1, 70 lessons) and Mastery (C1 to C2, 125
 lessons). The built-in courses are original lessons written for this app
 (English, Spanish, French, German, Dutch, Portuguese from Brazil, Mandarin
 with pinyin, Latin with vowel lengths, and Vietnamese). They are being written
-one pair of languages at a time: English for Italian speakers first, then
-Spanish for Italian speakers (its first week, lessons 1–7, is rewritten for
-them). So far each language except Dutch and English has 13 sample lessons
-(lessons 1–8, 26, 51 and 76 of Foundation, one lesson each of Perfectionnement
-and Mastery), with translations and notes in Italian, English and Spanish;
-Dutch and English have none yet. The text has not been checked by a native
-speaker.
+one pair of languages at a time: English for Italian speakers first
+(Foundation lessons 1–21 are written, with translations and notes in Italian),
+then Spanish for Italian speakers (its first week, lessons 1–7, is rewritten
+for them). The other languages except Dutch have 13 sample lessons (lessons
+1–8, 26, 51 and 76 of Foundation, one lesson each of Perfectionnement and
+Mastery), with translations and notes in Italian, English and Spanish; Dutch
+has none yet. The text has not been checked by a native speaker.
 
 This is private use only. You can build and run it for your own learning.
 You cannot sell it or use it commercially. The full rules are in [LICENSE](LICENSE).

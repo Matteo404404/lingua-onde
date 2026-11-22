@@ -301,6 +301,10 @@ fn engine_url() -> Option<String> {
     Some(format!("https://github.com/rhasspy/piper/releases/download/2023.11.14-2/{file}"))
 }
 
+/// The macOS engine archive lacks its libraries; piper-phonemize's archive of
+/// the same day has them (espeak-ng, piper_phonemize, onnxruntime).
+const MAC_LIBS: &str = "https://github.com/rhasspy/piper-phonemize/releases/download/2023.11.14-4/piper-phonemize_macos";
+
 /// FNV-1a: a stable name for cached speech files.
 fn fnv(text: &str) -> u64 {
     text.bytes()
@@ -348,7 +352,7 @@ impl Voices {
     }
 
     pub fn engine_ready(&self) -> bool {
-        Self::piper_bin(&self.dir).is_file()
+        engine_installed(&self.dir)
     }
 
     fn files(dir: &Path, code: &str) -> Option<(PathBuf, PathBuf)> {
@@ -420,6 +424,40 @@ fn curl(url: &str, to: &Path) -> Result<(), String> {
     }
 }
 
+fn engine_installed(dir: &Path) -> bool {
+    Voices::piper_bin(dir).is_file() && (!cfg!(target_os = "macos") || dir.join("piper/libpiper_phonemize.1.dylib").exists())
+}
+
+/// The engine, started so that it finds its own libraries.
+fn engine_command(dir: &Path) -> Command {
+    let mut c = command(Voices::piper_bin(dir));
+    if cfg!(target_os = "macos") {
+        // The macOS binary has no library search path of its own.
+        c.env("DYLD_LIBRARY_PATH", dir.join("piper"));
+    }
+    c
+}
+
+/// Unpack `archive` into `into`; `extra` selects members and strips folders.
+fn untar(archive: &Path, into: &Path, extra: &[&str]) -> Result<(), String> {
+    let tar = find_program("tar").ok_or("tar is needed to unpack the voice engine")?;
+    let out = command(tar)
+        .arg("-xf")
+        .arg(archive)
+        .arg("-C")
+        .arg(into)
+        .args(extra)
+        .output()
+        .map_err(|e| e.to_string())?;
+    if !out.status.success() {
+        return Err(format!(
+            "could not unpack the engine: {}",
+            String::from_utf8_lossy(&out.stderr).trim()
+        ));
+    }
+    Ok(())
+}
+
 fn download_voice(dir: &Path, code: &str, set: &dyn Fn(&str)) -> Result<(), String> {
     std::fs::create_dir_all(dir).map_err(|e| e.to_string())?;
     let part = dir.join(format!("{code}.part"));
@@ -430,21 +468,18 @@ fn download_voice(dir: &Path, code: &str, set: &dyn Fn(&str)) -> Result<(), Stri
         set("Downloading the voice engine (25 MB)…");
         let url = engine_url().ok_or("no voice engine is published for this computer")?;
         curl(&url, &part)?;
-        let tar = find_program("tar").ok_or("tar is needed to unpack the voice engine")?;
-        let out = command(tar)
-            .arg("-xf")
-            .arg(&part)
-            .arg("-C")
-            .arg(dir)
-            .output()
-            .map_err(|e| e.to_string())?;
-        if !out.status.success() {
-            return Err(format!(
-                "could not unpack the engine: {}",
-                String::from_utf8_lossy(&out.stderr).trim()
-            ));
-        }
+        untar(&part, dir, &[])?;
         let _ = std::fs::remove_file(&part);
+    }
+    if !engine_installed(dir) {
+        set("Downloading the voice engine's libraries (25 MB)…");
+        let arch = if cfg!(target_arch = "aarch64") { "aarch64" } else { "x64" };
+        curl(&format!("{MAC_LIBS}_{arch}.tar.gz"), &part)?;
+        untar(&part, &dir.join("piper"), &["--strip-components", "2", "piper-phonemize/lib"])?;
+        let _ = std::fs::remove_file(&part);
+        if !engine_installed(dir) {
+            return Err("the voice engine's libraries are missing".into());
+        }
     }
     let info = lang(code).ok_or("unknown language")?;
     let (path, espeak) = info.voice;
@@ -528,7 +563,7 @@ fn speech_worker(dir: PathBuf, rx: Receiver<Job>, ctx: egui::Context) {
             let Some((model, config)) = Voices::files(&dir, &job.lang) else {
                 continue;
             };
-            let spawned = command(Voices::piper_bin(&dir))
+            let spawned = engine_command(&dir)
                 .arg("--model")
                 .arg(&model)
                 .arg("--config")
@@ -586,6 +621,11 @@ mod tests {
         for code in ["en", "es", "la"] {
             download_voice(&dir, code, &|s| eprintln!("{code}: {s}")).unwrap();
             assert!(v.ready(code), "{code} not ready");
+            if code == "en" {
+                // If the engine cannot start, its own message is in the log.
+                let out = engine_command(&dir).arg("--version").output().expect("the engine starts");
+                eprintln!("engine {}: {}{}", out.status, String::from_utf8_lossy(&out.stdout), String::from_utf8_lossy(&out.stderr));
+            }
             let text = match code {
                 "la" => "Salve, amice.",
                 "es" => "Hola, ¿qué tal?",
@@ -596,9 +636,10 @@ mod tests {
         // The voice's speed is made by the engine: slower speech is longer.
         v.set_speed(1.0);
         let (_, natural) = speak("en", "A cup of tea, please.");
-        v.set_speed(0.85);
+        // Lengths vary by about 20% between runs, so half speed is compared.
+        v.set_speed(0.5);
         let (slow, slower) = speak("en", "A cup of tea, please.");
-        assert!(slower > natural, "speed 0.85 is not slower ({slower} vs {natural} bytes)");
+        assert!(slower > natural * 3 / 2, "speed 0.5 is not slower ({slower} vs {natural} bytes)");
         // The system's own player starts on the file (a test machine may have
         // no sound card, so only the start is required).
         if find_program("mpv").is_none() && find_program("afplay").is_none() {

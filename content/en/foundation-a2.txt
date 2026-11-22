@@ -2367,3 +2367,97 @@ La settima settimana è finita: il passato continuo, il condizionale, used to e 
 
 aside.it:
 Siamo quasi a metà del corso. Con la lezione 50 si chiude il primo giro, e dopo comincia il secondo: dalla lezione 1 si ricomincia, ma con un lavoro nuovo, che ti spiego domani. Per ora una cosa sola: non c'è fretta, e quello che hai fatto finora conta.
+
+== 50 A2
+numeral: Lesson Fifty
+numeral.pron.it: *le*ssën *fif*ti
+title: The interview
+title.it: Il colloquio
+
+dialogue:
+- Good morning. Please sit down.
+  it: Buongiorno. Si accomodi, prego.
+- Thank you. It's a lovely bakery.
+  it: Grazie. È una bellissima panetteria.
+  pron.it: … *bei*këri
+- Why do you want to work here?
+  it: Perché vuole lavorare qui?
+- Because I love bread. I eat it every day.
+  it: Perché amo il pane. Lo mangio ogni giorno.
+  pron.it: bi*koz* …
+- Have you got any experience?
+  it: Ha esperienza?
+  pron.it: … ik*spië*riëns
+- Well, I've been eating bread for thirty years.
+  it: Beh, mangio pane da trent'anni.
+  pron.it: … *i‣*ting …
+- I mean, have you ever sold bread?
+  it: Intendo, ha mai venduto pane?
+  pron.it: … mi‣n …
+- No, but I know a lot about bread.
+  it: No, ma di pane ne so tanto.
+- Good. Now, when can you start?
+  it: Bene. Allora, quando può cominciare?
+- First, when do you open?
+  it: Prima di tutto, quando aprite?
+- At five. But we start work at three.
+  it: Alle cinque. Ma noi cominciamo a lavorare alle tre.
+- At three in the morning? That's very early!
+  it: Alle tre di notte? È prestissimo!
+  pron.it: … *ë‣*li
+- Of course. The bread must be ready at five.
+  it: Naturalmente. Il pane deve essere pronto alle cinque.
+- I see. Then I'll start tomorrow afternoon.
+  it: Capisco. Allora comincio domani pomeriggio.
+  pron.it: … a‣ftë*nu‣n*
+- But we're closed in the afternoon!
+  it: Ma il pomeriggio siamo chiusi!
+  pron.it: … wië …
+
+sounds.it:
+1. Been dentro la frase è debole: I've been eating si dice aiv bin *i‣*ting, con una i breve e veloce, e la voce solo su eating. Da solo, been torna pieno, bi‣n, come nella lezione 31. I've si dice aiv, con il dittongo ai di my (lezione 12), e eating ha la i‣ lunga di see (lezione 23).
+2. Early si dice *ë‣*li, con la voce sulla prima sillaba e la ë‣ lunga di works (lezione 9): la r non si dice, e la y finale è una i breve. Non si dice "erli". Because si dice bi*koz*, con la voce sulla seconda sillaba e la o breve di not (lezione 6).
+3. Bakery si dice *bei*këri, con la voce sulla prima sillaba e il dittongo ei di day (lezione 16): la a di bake non è la a italiana. Experience si dice ik*spië*riëns, con il dittongo ië di here (lezione 1) e la voce sulla seconda sillaba.
+
+notes.it:
+1. Good morning. Please sit down: good morning (lezione 1) e please (lezione 1) li conosci. Sit (lezione 32) down (lezione 17) è "sedersi", un verbo di due parole come get up (lezione 16): Please sit down vuol dire "si accomodi", e chi lo dice è gentile. Sit down si dice anche a un amico, senza please.
+2. Thank you. It's a lovely bakery: lovely (lezione 8) è "bellissimo". Bakery (parola nuova) è la panetteria, il posto dove si fa e si vende il pane: viene da bake, "cuocere al forno", e per un italiano è un po' "il forno" sotto casa. Il titolo, interview (parola nuova), è il colloquio, e vuol dire anche "intervista": a job interview è un colloquio di lavoro. Si dice *in*tëvyu‣.
+3. Why do you want to work here?: why (lezione 9) chiede la ragione, "perché?", e la risposta comincia con because (parola nuova), "perché". Want (lezione 6) to work (lezione 16): want to più il verbo è "volere fare qualcosa", come do you want to work? Here (lezione 1) in fondo alla frase: work here, "lavorare qui".
+4. Because I love bread. I eat it every day: love (lezione 25, I'd love) è "amare", e si dice anche delle cose che piacciono molto: I love bread, "amo il pane". Bread (lezione 20) è "il pane", non ha il plurale e non vuole a: bread, a loaf of bread (lezione 20). It sta per bread, perché è una cosa. Eat (lezione 44), every day (lezione 16): "ogni giorno".
+5. Have you got any experience?: have you got (lezione 8) è "ha?", e any (lezione 20) è la parola delle domande e delle negazioni. Experience (parola nuova) è "esperienza": in questo senso non ha il plurale e non vuole a, any experience, no experience. Per l'esperienza di lavoro si dice anche work experience.
+6. Well, I've been eating bread for thirty years: questa è una frase da imparare intera, per ora: I've been eating, "mangio da". È un tempo nuovo, il present perfect continuous, e lo vedrai meglio nella lezione 56. I've (lezione 31) è I have, been (lezione 31) è il participio di be, e eating è la forma in -ing di eat (lezione 44). In italiano si dice "mangio pane da trent'anni", con il presente e da. In inglese non si può dire "I eat bread for thirty years": un'azione che comincia nel passato e dura ancora oggi vuole have + been + -ing, e for (lezione 8) dice per quanto tempo: for thirty years (thirty, lezione 38; years, lezione 26). Well (lezione 22) all'inizio della frase è "beh". La battuta: chi mangia pane da trent'anni è un cliente, non un panettiere.
+7. I mean, have you ever sold bread?: mean (parola nuova) è "voler dire": I mean è "cioè, intendo", e serve per precisare quello che si è detto. Have you ever sold è il present perfect (lezione 31), come Have you ever been...?: ever (lezione 16) sta tra you e il participio. Sold (lezione 45) è il participio di sell: sell - sold - sold.
+8. No, but I know a lot about bread: know (lezione 15) è "sapere, conoscere", a lot (lezione 4) è "molto", e about (lezione 18) è "su, di": know a lot about bread è "saperne molto di pane". Nelle frasi affermative si dice a lot, non much.
+9. Good. Now, when can you start?: now (lezione 46) all'inizio è "allora, adesso". When (lezione 19) can (lezione 11) you start è "quando può cominciare?". Start (lezione 41) è "cominciare", come in start the lesson e in the car doesn't start (lezione 45); qui è start work, "cominciare a lavorare".
+10. First, when do you open?: first (lezione 22) qui è "prima di tutto". Open (lezione 10) è "aprire" e "essere aperto": quando parla un negozio, when do you open? è "quando aprite?". Il contrario è close, "chiudere", e closed (lezione 30) è "chiuso".
+11. At five. But we start work at three. At three in the morning? That's very early!: at (lezione 13) più l'ora: at five, at three. In the morning (morning, lezione 1) per un italiano è una sorpresa: "alle tre di notte" in inglese è at three in the morning, perché la notte (night, lezione 11) è la sera, e the morning comincia subito dopo mezzanotte. Early (parola nuova) è "presto", "in anticipo", e il contrario è late (lezione 48), "tardi". That's very early! è "è prestissimo!".
+12. Of course. The bread must be ready at five: of course (lezione 27) è "naturalmente". Must (lezione 32) dice che è necessario: must be ready, "deve essere pronto". Ready (lezione 41) è "pronto": the bread is ready, "il pane è pronto". Dopo must il verbo è senza to.
+13. I see. Then I'll start tomorrow afternoon: I see (see, lezione 23) vuol dire "capisco", come in italiano "vedo". Then (lezione 13) qui è "allora". I'll (lezione 8) è la decisione che si prende sul momento: I'll start, "comincio". Tomorrow (lezione 27) afternoon (parola nuova) è "domani pomeriggio", senza in né on: tomorrow afternoon, tomorrow morning. In the afternoon, con in, è "di pomeriggio".
+14. But we're closed in the afternoon!: we're è we are: we (lezione 6) e are (lezione 1) in una parola sola. Closed (lezione 30) è "chiuso": the shop is closed. La battuta: il candidato vuole cominciare nel pomeriggio, ma una panetteria che comincia alle tre di notte è chiusa nel pomeriggio.
+
+ex1:
+- Why do you want to work in a bakery?
+  it: Perché vuole lavorare in una panetteria?
+- I haven't got any experience.
+  it: Non ho esperienza.
+- When does the bakery open?
+  it: Quando apre la panetteria?
+- The bread must be ready at five.
+  it: Il pane deve essere pronto alle cinque.
+- We're closed tomorrow afternoon.
+  it: Domani pomeriggio siamo chiusi.
+
+ex2:
+- Why do you want to work here? [Because] I love bread.
+  it: Perché vuole lavorare qui? Perché amo il pane.
+- I haven't got [any] experience.
+  it: Non ho nessuna esperienza.
+- At three in the [morning]? That's very [early]!
+  it: Alle tre di notte? È prestissimo!
+- I [mean], have you ever sold bread?
+  it: Voglio dire, ha mai venduto pane?
+- We're [closed] in the [afternoon].
+  it: Il pomeriggio siamo chiusi.
+
+aside.it:
+Da oggi il corso ti dà un lavoro in più: la seconda onda. Dopo ogni lezione nuova l'app aggiunge un passo, l'onda attiva, che ti riporta una lezione già fatta: oggi la lezione 1, domani la 2, e così via, sempre 49 lezioni indietro: con la lezione 98 tornerà la 49. Il dialogo e l'esercizio 1 ti vengono mostrati solo in italiano: dici ogni frase ad alta voce in inglese (se vuoi puoi anche scriverla), poi fai comparire l'inglese e confronti. Gli errori fanno parte del lavoro: vuol dire che stai cercando la frase invece di riconoscerla.

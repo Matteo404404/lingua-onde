@@ -1,3 +1,611 @@
 course: en
 stage: foundation
 bases: it
+
+== 51 B1
+numeral: Lesson Fifty-One
+numeral.pron.it: *le*ssën *fif*ti-wan
+title: Could you tell me...?
+title.it: Potrebbe dirmi...?
+
+dialogue:
+- Excuse me. Could you tell me where the toilets are?
+  it: Mi scusi. Potrebbe dirmi dov'è il bagno?
+  pron.it: … kud … tel … *toi*lits …
+- I think they're downstairs, next to the café.
+  it: Credo che siano di sotto, accanto al caffè.
+  pron.it: … dheë …
+- Thank you. Do you know what time the museum closes?
+  it: Grazie. Sa a che ora chiude il museo?
+  pron.it: … myu‣*ziëm* *klou*ziz
+- At five, I think. Or at six.
+  it: Alle cinque, credo. O alle sei.
+- And could you tell me where the library is?
+  it: E potrebbe dirmi dov'è la biblioteca?
+  pron.it: … *lai*brëri …
+- It's upstairs, I think. Or downstairs.
+  it: È di sopra, credo. O di sotto.
+  pron.it: … ap*steëz* …
+- Sorry, would you mind speaking more slowly?
+  it: Scusi, le dispiacerebbe parlare più piano?
+  pron.it: … maind *spi‣*king …
+- Of course. It's up-stairs. I think.
+  it: Certo. È di so-pra. Credo.
+  pron.it: … ap-steëz …
+- Thank you. Do you work here?
+  it: Grazie. Lavora qui?
+- No, I'm sorry, I don't work here.
+  it: No, mi dispiace, non lavoro qui.
+- Then why are you sitting at the desk?
+  it: E allora perché è seduto alla scrivania?
+  pron.it: … *si*ting … desk
+- I'm waiting for my wife.
+  it: Aspetto mia moglie.
+  pron.it: … *wei*ting …
+
+sounds.it:
+1. Could e would si dicono kud e wud, con la u breve di good (lezione 1): la l non si sente, e could you in un fiato è kud yu‣. Mind si dice maind, con il dittongo ai di my (lezione 12), e la d finale ben chiara.
+2. Closes si dice *klou*ziz, con il dittongo ou di go (lezione 6) e una sillaba in più: la s di close, nel verbo, è una z, e -es si dice iz, come in sandwiches (lezione 15). Toilets si dice *toi*lits, con la voce sulla prima sillaba e il dittongo oi dell'italiano "poi".
+3. Library e museum hanno la voce in posti diversi: library si dice *lai*brëri, con la voce sulla prima sillaba e il dittongo ai di my, mentre museum si dice myu‣*ziëm*, con la voce sulla seconda, la y di yes (lezione 1) e la u‣ lunga di you (lezione 1). Upstairs si dice ap*steëz*: la voce cade sulla seconda sillaba, con eë di where (lezione 26), e la r non si dice.
+
+notes.it:
+1. Excuse me. Could you tell me where the toilets are?: excuse me (lezione 4) è "mi scusi". Could (parola nuova) è la forma cortese di can (lezione 11): Can you tell me? è "puoi dirmi?", Could you tell me? è "potrebbe dirmi?", ed è il modo gentile di chiedere a uno sconosciuto. Il verbo dopo could è senza to. Tell (parola nuova) è "dire a qualcuno": tell me, "dimmi, mi dica". Toilets (parola nuova) sono i bagni pubblici, e si dice sempre al plurale, the toilets, anche se c'è un bagno solo. Bathroom (lezione 8) è invece il bagno di una casa.
+2. Where the toilets are: ecco il punto della lezione, la domanda indiretta. Una domanda diretta ha il verbo prima del soggetto: Where are the toilets? (where's, lezione 4). Dopo Could you tell me... o Do you know..., la domanda diventa una parte della frase, e il verbo va al suo posto normale, dopo il soggetto: where the toilets are, "dove sono i bagni". Non si dice "where are the toilets" dopo could you tell me, e non c'è bisogno di do.
+
+| Domanda diretta | Domanda indiretta |
+|---|---|
+| Where are the toilets? | Could you tell me where the toilets are? |
+| Where is the library? | Could you tell me where the library is? |
+| What time does the museum close? | Do you know what time the museum closes? |
+
+Nota che la frase finisce con il verbo, are o is: per un italiano è strano, perché "dove sono i bagni" finisce con il nome, mentre in inglese il verbo be resta in fondo. Se la domanda ha do, does o did, nella domanda indiretta questi spariscono: il verbo torna normale, con la -s della terza persona: what time the museum closes.
+3. I think they're downstairs, next to the café: they're è they are: they (lezione 40) e are (lezione 1) in una parola sola, e si dice dheë. I think (lezione 38) in questa frase vuol dire "credo", e la persona non è sicura: la battuta comincia qui. Downstairs (lezione 30) è "di sotto, al piano di sotto". Next to (next, lezione 4) è "accanto a". Café (lezione 13).
+4. Thank you. Do you know what time the museum closes?: do you know (know, lezione 15) è la forma più comune per una domanda indiretta, e chiede l'informazione. Museum (parola nuova) è il museo. What time (time, lezione 13) è "a che ora". Closes (closed, lezione 30) è "chiude": close è il verbo "chiudere", e dopo the museum il verbo ha la -s, come in works (lezione 9). In inglese closed è l'aggettivo, "chiuso", e closes è il verbo, "chiude".
+5. At five, I think. Or at six: I think (lezione 38) in fondo alla frase addolcisce quello che si dice: At five, I think, "alle cinque, credo". Or (lezione 4) è "o". At six (six, lezione 16). Chi risponde non sa, e lo dice due volte.
+6. And could you tell me where the library is?: library (parola nuova) è la biblioteca, e per un italiano è un falso amico: la libreria, dove si comprano i libri, si dice bookshop (parola nuova). Library viene dal latino liber, ma la parola italiana "libreria" ha preso un altro senso. Ricorda: library = biblioteca, bookshop = libreria. And qui aggiunge una seconda domanda.
+7. It's upstairs, I think. Or downstairs: upstairs (parola nuova) è "di sopra, al piano di sopra", ed è l'opposto di downstairs (lezione 30). Prima ha detto che i bagni sono downstairs, e adesso la biblioteca è upstairs, o downstairs: chi risponde non sa niente.
+8. Sorry, would you mind speaking more slowly?: would you mind...? (would, lezione 25) è un'altra forma cortese, "le dispiacerebbe...?", e dopo mind il verbo ha -ing: Would you mind speaking...? Mind (parola nuova) vuol dire "dispiacersi, avere da ridire". Speaking è la forma in -ing di speak (parola nuova), "parlare". More slowly (more, lezione 25, e slowly, lezione 41) è "più lentamente, più piano", come nella lezione 41. Per rispondere di sì, cioè "non mi dispiace", si dice Of course not o Not at all; nel parlato di tutti i giorni si sente anche Of course, come qui.
+
+| Frase | Che cosa chiede | Esempio |
+|---|---|---|
+| Could you + verbo? | una cosa | Could you tell me...? |
+| Would you mind + -ing? | un favore, con più garbo | Would you mind speaking more slowly? |
+
+9. Of course. It's up-stairs. I think: of course (lezione 27) è "certo". Il signore parla piano, a sillabe, come gli è stato chiesto: up-stairs. La battuta sta nel fatto che parla piano, ma dice ancora I think.
+10. Thank you. Do you work here? No, I'm sorry, I don't work here: do you work (work, lezione 16) here? è la domanda al presente semplice (lezione 5). I'm sorry (sorry, lezione 32) vuol dire "mi dispiace", e Sorry da solo "scusi". I don't work here è "non lavoro qui", con don't (lezione 5).
+11. Then why are you sitting at the desk?: then (lezione 13) qui è "allora". Sitting è la forma in -ing di sit (lezione 32), con la t doppia: sit, sitting. Desk (parola nuova) è la scrivania, e in un museo è il banco all'ingresso, il reception desk: at the desk, "al banco". Si dice desk, con la e di bed (lezione 34).
+12. I'm waiting for my wife: wait (parola nuova) è "aspettare", e in inglese vuole for: wait for, come look for (lezione 45) per "cercare": waiting for my wife, "aspetto mia moglie", mai "waiting my wife". Wife (lezione 29) è "moglie". La battuta: tutti hanno chiesto informazioni a un uomo che non lavora nel museo e che era seduto alla scrivania ad aspettare. E lui ha risposto a ogni domanda con I think.
+
+ex1:
+- Could you tell me where the station is?
+  it: Potrebbe dirmi dov'è la stazione?
+- Do you know what time the shop opens?
+  it: Sa a che ora apre il negozio?
+- Would you mind waiting here?
+  it: Le dispiacerebbe aspettare qui?
+- I'm sorry, I don't know.
+  it: Mi dispiace, non lo so.
+- The toilets are downstairs.
+  it: I bagni sono di sotto.
+
+ex2:
+- Could you [tell] me where the library [is]?
+  it: Potrebbe dirmi dov'è la biblioteca?
+- Do you know what time the museum [closes]?
+  it: Sa a che ora chiude il museo?
+- Would you [mind] [speaking] more slowly?
+  it: Le dispiacerebbe parlare più piano?
+- I'm [waiting] [for] my wife.
+  it: Aspetto mia moglie.
+- It's [upstairs], I think.
+  it: È al piano di sopra, credo.
+
+culture.it:
+In Gran Bretagna i grandi musei nazionali sono gratuiti: il British Museum, la National Gallery, la Tate Modern, il Museo di Storia Naturale e molti altri si visitano senza biglietto, e dal 2001 questo vale per tutti i musei nazionali. Si paga solo per alcune mostre temporanee, e all'ingresso o all'uscita c'è spesso una cassetta per le offerte, con scritto donations. Ogni museo ha il suo café e il suo negozio, il museum shop, dove si comprano cartoline, libri e souvenir. Il personale in divisa, o con un cartellino al collo, è pronto a rispondere alle domande dei visitatori, e conviene chiedere a loro e non a un signore seduto al banco. Se chiedi a un passante, ti risponderà con la cortesia di sempre: Could you tell me...? è la formula che apre tutte le porte.
+
+== 52 B1
+numeral: Lesson Fifty-Two
+numeral.pron.it: *le*ssën *fif*ti-tu‣
+title: Made in England
+title.it: Fatto in Inghilterra
+
+dialogue:
+- Excuse me. Is this teapot made in England?
+  it: Mi scusi. Questa teiera è fatta in Inghilterra?
+  pron.it: … *ti‣*pot meid … *in*glënd
+- Yes, madam. It was made in Stoke.
+  it: Sì, signora. È stata fatta a Stoke.
+  pron.it: … *mè*dëm … stouk
+- Lovely. And this tea towel?
+  it: Bellissima. E questo strofinaccio?
+  pron.it: … tauël
+- It was designed in London.
+  it: È stato disegnato a Londra.
+  pron.it: … di*zaind* …
+- Designed? Where was it made?
+  it: Disegnato? Dov'è stato fatto?
+- In China, madam, in the factory where my sister works.
+  it: In Cina, signora, nella fabbrica dove lavora mia sorella.
+  pron.it: … *ciai*në … *fèk*tëri …
+- In China? But it's a souvenir of London!
+  it: In Cina? Ma è un souvenir di Londra!
+  pron.it: … su‣vë*nië*r …
+- Yes. It was designed by a man whose mother lives in Leeds.
+  it: Sì. È stato disegnato da un uomo la cui madre abita a Leeds.
+  pron.it: … bai … livz …
+- And the bag? Is it made in England?
+  it: E la borsa? È fatta in Inghilterra?
+- No, it's made in Italy.
+  it: No, è fatta in Italia.
+  pron.it: … *i*tëli
+- Is anything made in England, then?
+  it: Allora c'è qualcosa fatto in Inghilterra?
+- Yes, madam. The tea towel was washed in Bristol.
+  it: Sì, signora. Lo strofinaccio è stato lavato a Bristol.
+  pron.it: … *bri*stël
+- Good. I'll take it. It must be very clean.
+  it: Bene. Lo prendo. Dev'essere pulitissimo.
+
+sounds.it:
+1. Teapot si dice *ti‣*pot, con la voce sulla prima sillaba e la i‣ lunga di tea (lezione 1), e madam si dice *mè*dëm, con la è aperta di black (lezione 12): non "madàm". Made si dice meid, con il dittongo ei di day (lezione 16).
+2. Designed si dice di*zaind*: la s è una z, la g non si sente, e la voce cade sulla seconda sillaba, con il dittongo ai di my (lezione 12). Factory si dice *fèk*tëri, con la voce sulla prima sillaba e la è di black.
+3. China si dice *ciai*në e Italy si dice *i*tëli: in tutte e due la voce cade sulla prima sillaba. In Italy non c'è la voce sulla seconda come in "Italia": la prima i è breve, e l'ultima sillaba è debole, ëli.
+
+notes.it:
+1. Excuse me. Is this teapot made in England?: made (parola nuova) è il participio di make (lezione 29): make - made - made. Is made è il passivo, il punto della lezione: una cosa subisce l'azione, e chi la fa non conta, o non si dice. Il passivo si fa con il verbo be e il participio passato: this teapot is made, "questa teiera è fatta". Teapot (parola nuova) è la teiera: tea (lezione 1) più pot. England (parola nuova) è l'Inghilterra, come English (lezione 2) è "inglese". Per i luoghi si dice made in: made in England, "fatto in Inghilterra".
+
+| | Presente | Passato |
+|---|---|---|
+| frase | It is made in England. | It was made in Stoke. |
+| negazione | It isn't made in China. | It wasn't made in England. |
+| domanda | Is it made in England? | Where was it made? |
+
+Il participio dei verbi regolari ha -ed, come washed (lezione 22) e designed; made e sold (lezione 45) sono irregolari. Un passivo l'hai già incontrato nella lezione 19: When were you born? e I was born sono passivi, letteralmente "fui partorito", e born è il participio di bear: mai "I am born". Ora conosci il meccanismo, be più il participio. In italiano si usa spesso "si" o il verbo attivo ("fanno"), e il passivo con "essere" o "venire": in inglese il passivo è molto più comune, perché si vuole dire il fatto e non chi lo fa: Tea is sold here, "qui si vende il tè". Ne parla il ripasso della lezione 56.
+2. Yes, madam. It was made in Stoke: madam (parola nuova) è "signora", detto a una donna che non si conosce, nei negozi e negli alberghi: nella lezione 32 hai visto sir, e madam è il suo corrispondente. È una parola formale e un po' antica, e la dice chi serve il cliente. It was made è il passato del passivo: was (lezione 23) più il participio.
+3. Lovely. And this tea towel? It was designed in London: tea towel (parola nuova) è lo strofinaccio da cucina, per asciugare i piatti. Come in dog hair (lezione 47), un nome davanti a un altro lo descrive: tea towel, "strofinaccio da tè". Designed (parola nuova) è "disegnato, progettato", il participio di design: it was designed, "è stato progettato". Design è anche il nome, e vuol dire "disegno, progetto".
+4. Designed? Where was it made?: nella domanda col passivo si inverte il verbo be: where was it made?, "dov'è stato fatto?", con was (lezione 23). Non si usa did: il passivo non vuole do, perché ha già il verbo be. Il tempo è nel be: is it made?, was it made?
+5. In China, madam, in the factory where my sister works: China (parola nuova) è la Cina. Factory (parola nuova) è la fabbrica: per un italiano è un falso amico a metà, perché una "fattoria" si dice farm (parola nuova). Where qui è un relativo, "dove": the factory where my sister works, "la fabbrica dove lavora mia sorella". È un completamento promesso nel ripasso 49: dopo un nome di luogo, where fa il lavoro di "dove". Sister (lezione 9) works (lezione 9).
+6. In China? But it's a souvenir of London!: souvenir (parola nuova) si scrive come in italiano, ed è "ricordo di un viaggio": a souvenir of London è "un ricordo di Londra", con of. Si dice su‣vë*nië*. But (lezione 5) qui è "ma".
+7. Yes. It was designed by a man whose mother lives in Leeds: by (parola nuova) è "da", e nomina chi fa l'azione: designed by a man, "disegnato da un uomo". Whose (lezione 24, whose bag) qui è un relativo, e vale "il cui, la cui": a man whose mother lives in Leeds, "un uomo la cui madre abita a Leeds". Whose vuole subito il nome: whose mother, mai "whose the mother". È il completamento promesso nel ripasso 49. Lives (live, lezione 5) ha la -s della terza persona (lezione 9), e si dice livz: il verbo live si dice liv, come nella lezione 5. Leeds (lezione 5).
+8. And the bag? Is it made in England? No, it's made in Italy: bag (lezione 24). Italy (parola nuova) è l'Italia, come Italian (lezione 2) è "italiano". Made in Italy si legge in tutto il mondo, ed è anche un'etichetta.
+9. Is anything made in England, then?: anything (lezione 34) è "qualcosa, niente" nelle domande: is anything made? Then (lezione 13) qui è "dunque, allora".
+10. Yes, madam. The tea towel was washed in Bristol: washed (lezione 22) qui è un passivo, was washed, "è stato lavato", e Bristol è una città dell'Inghilterra. La battuta è questa: la teiera è fatta in Cina, lo strofinaccio disegnato da un uomo di Leeds, e l'unica cosa inglese è il lavaggio.
+11. Good. I'll take it. It must be very clean: I'll take it (take, lezione 8; I'll, lezione 8) vuol dire "lo prendo", la decisione di chi compra. Must (lezione 32) qui non è un obbligo, come in you must wear a cap: dice che quasi certamente è così, "dev'essere": it must be very clean, "dev'essere pulitissimo". Clean (lezione 11) è "pulito". Se l'unica cosa inglese è il lavaggio, per forza è pulito.
+
+ex1:
+- This bag is made in Italy.
+  it: Questa borsa è fatta in Italia.
+- The teapot was made in China.
+  it: La teiera è stata fatta in Cina.
+- Where was this cup made?
+  it: Dov'è stata fatta questa tazza?
+- The bread isn't made in a factory.
+  it: Il pane non è fatto in una fabbrica.
+- He's the man whose wife works here.
+  it: È l'uomo la cui moglie lavora qui.
+
+ex2:
+- This teapot is [made] in England.
+  it: Questa teiera è fatta in Inghilterra.
+- It [was] made in Stoke.
+  it: È stata fatta a Stoke.
+- Where [was] it [made]?
+  it: Dov'è stata fatta?
+- It was designed [by] a man from Leeds.
+  it: È stata disegnata da un uomo di Leeds.
+- That's the factory [where] my sister works.
+  it: Quella è la fabbrica dove lavora mia sorella.
+
+culture.it:
+Stoke-on-Trent, nel centro dell'Inghilterra, è la città delle Potteries, le "vasellerie": da due secoli e mezzo vi si fanno tazze, piatti e teiere. Qui nel 1759 Josiah Wedgwood fondò la sua fabbrica, e dopo di lui vennero Spode, Minton e Royal Doulton: nomi che si leggono ancora sul fondo di tante tazze. La città nasce nel 1910 dall'unione di sei piccole città, tutte con le loro fabbriche, e per molto tempo i forni a forma di bottiglia, i bottle kilns, hanno riempito il cielo di fumo. Oggi ne restano pochi, spenti, e molta ceramica che si vende ai turisti è fatta altrove, in Asia, come racconta la lezione. Sul fondo di un oggetto si cerca la scritta Made in England: per molti inglesi è ancora una garanzia di qualità, anche se sapere dove un oggetto è stato disegnato, fatto e lavato non è sempre facile.
+
+== 53 B1
+numeral: Lesson Fifty-Three
+numeral.pron.it: *le*ssën *fif*ti-θri‣
+title: He said that...
+title.it: Ha detto che...
+
+dialogue:
+- What did the boss say this morning?
+  it: Che cosa ha detto il capo stamattina?
+  pron.it: … bos sei …
+- He said he was very tired.
+  it: Ha detto di essere molto stanco.
+  pron.it: … sed …
+- Did he tell you why?
+  it: Ti ha detto perché?
+- He told me he worked all weekend.
+  it: Mi ha detto che ha lavorato tutto il fine settimana.
+  pron.it: … tould … wë‣kt …
+- Really? He told me he played golf all weekend.
+  it: Davvero? A me ha detto che ha giocato a golf tutto il fine settimana.
+  pron.it: … golf …
+- Did he say anything about the meeting?
+  it: Ha detto qualcosa sulla riunione?
+  pron.it: … *mi‣*ting
+- He said it was at nine.
+  it: Ha detto che era alle nove.
+  pron.it: … sed …
+- He told me it was at ten.
+  it: A me ha detto che era alle dieci.
+  pron.it: … tould …
+- What time is it now?
+  it: Che ora è adesso?
+- It's half past ten. Where is the boss?
+  it: Sono le dieci e mezza. Dov'è il capo?
+  pron.it: … bos
+- At the golf club, I think. He plays golf while we work.
+  it: Al circolo del golf, credo. Lui gioca a golf mentre noi lavoriamo.
+  pron.it: … golf klab … pleiz … wail …
+- He told me golf is very tiring.
+  it: Mi ha detto che il golf è molto faticoso.
+  pron.it: … *taië*ring
+
+sounds.it:
+1. Said si scrive come say e si dice sed, con la e di bed (lezione 34): non "seid". Told si dice tould, con il dittongo ou di go (lezione 6) e la l scura, come old (lezione 19). Boss si dice bos, con la o breve di not (lezione 6), e la s finale è sorda.
+2. La fine -ed ha due suoni, e non una sillaba in più: worked si dice wë‣kt, con la t finale, come washed (lezione 22), perché dopo la k si dice t. Played si dice pleid, con la d, perché dopo il dittongo si dice d. Plays è pleiz, con la z finale.
+3. Tiring si dice *taië*ring, con la voce sulla prima sillaba e lo stesso suono di tired (lezione 3), taiëd. Meeting si dice *mi‣*ting, con la i‣ lunga di see (lezione 23). While si dice wail: la h non si dice, come in who nella lezione 36.
+
+notes.it:
+1. What did the boss say this morning?: boss (parola nuova) è "il capo", il superiore sul lavoro: my boss, "il mio capo". Did (lezione 22) fa la domanda al passato, e dopo did il verbo è la forma base: say (parola nuova), "dire". Say ha il passato said (parola nuova), tutte e due le forme con la stessa grafia, ma said si dice sed. This morning (morning, lezione 1): "stamattina". Dopo la domanda la risposta è il discorso riportato, il punto della lezione: He said he was very tired.
+2. He said he was very tired: quello che il capo ha detto è "I'm very tired", e chi lo racconta lo riporta: he said he was very tired. Il tempo fa un passo indietro: il presente diventa passato, e il pronome cambia da I a he. Se una frase comincia con said o told, il verbo che segue di solito va al passato.
+
+| Parole dette | Frase riportata |
+|---|---|
+| I'm tired. | He said he was tired. |
+| I play golf. | He said he played golf. |
+| The meeting is at nine. | He said it was at nine. |
+| I'll be late. | He said he would be late. |
+| I can swim. | He said he could swim. |
+
+That, "che", si può togliere: He said (that) he was tired, e nel parlato si toglie quasi sempre. In italiano si può dire "ha detto di essere stanco", con l'infinito: in inglese dopo said c'è sempre un verbo di modo finito, he was.
+3. Did he tell you why?: tell (lezione 51) è "dire a qualcuno", e vuole sempre la persona: tell you, tell me, tell him. Say invece non vuole la persona: he said he was tired, e se la persona c'è si usa to: he said to me. Si dice He told me..., He said..., mai "he said me" né "he told that".
+
+| Verbo | Persona | Esempio |
+|---|---|---|
+| say | senza persona | He said he was tired. |
+| tell | sempre una persona | He told me he was tired. |
+
+Why (lezione 9) in fondo alla frase è "perché": did he tell you why?
+4. He told me he worked all weekend: told (parola nuova) è il passato di tell: tell - told - told. Worked (parola nuova) è il passato di work (lezione 16), e si dice wë‣kt. Weekend (lezione 23) e all (lezione 11): all weekend è "tutto il fine settimana", senza in. Se il capo avesse detto "I worked all weekend", al passato, la regola vorrebbe un passo indietro, he had worked, che vedrai più avanti: nel parlato di tutti i giorni si sente spesso anche il passato semplice, come qui.
+5. Really? He told me he played golf all weekend: really (lezione 29) è "davvero?", e dice la sorpresa. Played (lezione 11) è il passato di play. Golf (parola nuova) si scrive come in italiano, e si dice golf, con la o breve: play golf, "giocare a golf", senza the, come play football (lezione 46). Il capo ha detto una cosa a uno e una cosa all'altro.
+6. Did he say anything about the meeting?: anything (lezione 34) è la parola delle domande: did he say anything?, "ha detto qualcosa?". Meeting (parola nuova) è "riunione, incontro": viene da meet (lezione 2) più -ing. Per un italiano la parola è nota, ma in inglese è più comune e vale anche la riunione di lavoro di tutti i giorni. About (lezione 18): say about, "dire su".
+7. He said it was at nine. He told me it was at ten: la riunione è alle nove, e il capo ha detto it is at nine, che riportato diventa it was at nine: il tempo fa un passo indietro. At (lezione 13) più l'ora. Nelle due frasi si vede la differenza tra say e tell: said senza persona, told me con la persona. La battuta è che le due versioni non sono la stessa.
+8. What time is it now? It's half past ten: now (lezione 46) è "adesso", e half past (lezione 13) è "e mezza": half past ten, "le dieci e mezza". Sono passate tutte e due le ore, quella delle nove e quella delle dieci, e il capo non c'è.
+9. Where is the boss? At the golf club, I think. He plays golf while we work: club (nightclub, lezione 30) è un circolo, un luogo dove si va da soci: a golf club è il circolo del golf. Plays è play (lezione 11) con la -s della terza persona (lezione 9). While (parola nuova) è "mentre": dice due cose che succedono insieme: He plays golf while we work, "gioca a golf mentre noi lavoriamo". È la parola promessa nella lezione 49: là c'era la stessa frase al passato, she was cooking while he was watching TV. Con while il verbo è al presente, come qui, o al passato continuo, e non al futuro. Non confonderla con when (lezione 19): when è "quando" in un momento, while è "mentre" nel corso di un'altra azione.
+10. He told me golf is very tiring: la frase riportata resta al presente, perché quello che il capo ha detto è ancora vero: golf is very tiring. Quando quello che si riporta è sempre vero, il tempo non fa il passo indietro. Tiring (parola nuova) viene da tire, "stancare", e vuol dire "faticoso, che stanca", mentre tired (lezione 3) vuol dire "stanco". Tired dice come ti senti, tiring dice che cosa ti fa sentire così: I'm tired, golf is tiring. La battuta è questa: il capo non è stanco per il lavoro, ma per il golf.
+
+| Parola | Che cosa dice | Esempio |
+|---|---|---|
+| tired | come sta una persona | He's tired. (3) |
+| tiring | che cosa stanca | Golf is tiring. |
+
+ex1:
+- He said he was tired.
+  it: Ha detto che era stanco.
+- My wife told me she played golf.
+  it: Mia moglie mi ha detto che giocava a golf.
+- Did he say anything about the weather?
+  it: Ha detto qualcosa sul tempo?
+- They said the meeting was at ten.
+  it: Hanno detto che la riunione era alle dieci.
+- I'm tired. Work is tiring.
+  it: Sono stanco. Il lavoro è faticoso.
+
+ex2:
+- He [said] he was very tired.
+  it: Ha detto che era molto stanco.
+- He [told] me he worked all weekend.
+  it: Mi ha detto che ha lavorato tutto il fine settimana.
+- He said he [was] late.
+  it: Ha detto che era in ritardo.
+- He plays golf [while] we work.
+  it: Gioca a golf mentre noi lavoriamo.
+- Golf is [tiring], and I'm [tired].
+  it: Il golf è faticoso, e io sono stanco.
+
+== 54 B1
+numeral: Lesson Fifty-Four
+numeral.pron.it: *le*ssën *fif*ti-fo‣
+title: If I were rich
+title.it: Se fossi ricco
+
+dialogue:
+- Look! I've got a lottery ticket.
+  it: Guarda! Ho un biglietto della lotteria.
+  pron.it: … *lo*tëri *ti*kit
+- Great! What would you do if you won?
+  it: Fantastico! Che cosa faresti se vincessi?
+  pron.it: greit … wan
+- If I won, I'd stop working.
+  it: Se vincessi, smetterei di lavorare.
+  pron.it: … stop *wë‣*king
+- If I were rich, I'd buy a pink car.
+  it: Se fossi ricco, comprerei una macchina rosa.
+  pron.it: … ric' …
+- A pink car? Why pink?
+  it: Una macchina rosa? Perché rosa?
+- Because my wife likes pink. And you?
+  it: Perché a mia moglie piace il rosa. E tu?
+- I'd buy a castle and live in it.
+  it: Io comprerei un castello e ci vivrei.
+  pron.it: … *ka‣*ssël …
+- A castle? Castles are very cold!
+  it: Un castello? I castelli sono molto freddi!
+  pron.it: … *ka‣*ssëlz …
+- Then I'd sell it and buy a cottage.
+  it: Allora lo venderei e comprerei un cottage.
+  pron.it: … *ko*tig'
+- A cottage is a good idea. It's warm, and it's small.
+  it: Un cottage è una buona idea. È caldo ed è piccolo.
+- Yes. I'd have a lovely cottage near the sea.
+  it: Sì. Avrei un bel cottage vicino al mare.
+- Why not buy the cottage now?
+  it: Perché non comprare il cottage adesso?
+- Because I'm not rich.
+  it: Perché non sono ricco.
+
+sounds.it:
+1. Won si dice wan, con la a breve di cup (lezione 1), e ha lo stesso suono di one (lezione 3): non "uon" e non won't, che è wount (lezione 36). La w si dice come la u di uomo, e la n finale è una n semplice.
+2. Castle si dice *ka‣*ssël, con la voce sulla prima sillaba e la a‣ lunga di car (lezione 8): la t non si dice, e ss è la s sorda. Cottage si dice *ko*tig', con la voce sulla prima sillaba, la o breve di not (lezione 6) e la g' finale dolce, come in garage (lezione 45). Non è la "cottage" italiana con la voce sulla seconda sillaba.
+3. Rich si dice ric', con la i breve di sit (lezione 32) e la c' finale di much (lezione 20): non "ric". Great si dice greit, con il dittongo ei di day (lezione 16): non "grit". Lottery si dice *lo*tëri, con la voce sulla prima sillaba, e ticket *ti*kit.
+
+notes.it:
+1. Look! I've got a lottery ticket: I've got (lezione 8) è "ho", e ticket (tickets, lezione 6) è il biglietto: qui è il biglietto della lotteria, a lottery ticket, con un nome davanti a un altro, come tea towel (lezione 52). Lottery (parola nuova) è la lotteria.
+2. Great! What would you do if you won?: great (parola nuova) è "fantastico, grande", e si dice come esclamazione: Great! Questa è la lezione del secondo condizionale, la frase con "se" per una cosa immaginaria, o poco probabile. Il verbo dopo if è al passato semplice, won (parola nuova), il passato di win: win - won - won. Nell'altra parte c'è would (lezione 25) più il verbo: if I won, I'd stop working, "se vincessi, smetterei di lavorare". Il passato dopo if non vuol dire passato: vuol dire irreale, "se vincessi". In italiano è il congiuntivo imperfetto più il condizionale, e in inglese il passato semplice più would.
+
+| Italiano | Inglese |
+|---|---|
+| se vincessi, comprerei | if I won, I'd buy |
+| se fossi ricco, smetterei | if I were rich, I'd stop |
+| che cosa faresti se vincessi? | what would you do if you won? |
+
+Non si dice mai "if I would win": would sta solo nell'altra parte della frase. Il primo condizionale, che hai visto nella lezione 44, parla di una cosa che può succedere: If it rains, we'll stay at home. Il secondo parla di una cosa che non succederà, o quasi: If I won, I'd buy a castle. Prima c'era il presente, adesso c'è il passato: il passo indietro dice che è lontano dalla realtà.
+3. If I won, I'd stop working: I'd è I would (lezione 25), e I'd stop è "smetterei". Stop (parola nuova) è "smettere", e dopo stop il verbo ha -ing: stop working, "smettere di lavorare", mai "stop to work". Working è la forma in -ing di work (lezione 16).
+4. If I were rich, I'd buy a pink car: were è la forma da usare con tutte le persone dopo if, anche con I, he, she e it: if I were, if he were, if it were. L'italiano ha lo stesso modo, "se fossi", "se fosse". Si sente anche if I was, ma la forma corretta, e quella che si scrive, è were. Were (lezione 19) è il passato di are, e qui è usato per tutte le persone. Rich (parola nuova) è "ricco". Pink (lezione 12) è "rosa": a pink car, "una macchina rosa". Una frase che si sente spesso è If I were you, I'd..., "se fossi in te, io...", per dare un consiglio.
+
+| Persona | Dopo if |
+|---|---|
+| I | if I were rich |
+| you | if you were rich |
+| he, she, it | if he were rich |
+| we, they | if we were rich |
+
+5. Because my wife likes pink. And you?: likes è like (lezione 5) con la -s della terza persona (lezione 9): my wife likes pink, "a mia moglie piace il rosa". Pink qui è un nome, "il rosa", e non vuole l'articolo. And you? (and, lezione 2) è "e tu?", e vuol dire: che cosa faresti tu?
+6. I'd buy a castle and live in it: castle (parola nuova) è il castello, e I'd serve per tutti e due i verbi: I'd buy a castle and live in it, senza ripetere I'd, come in used to (lezione 46). Live (lezione 5) si dice liv, e in it è "ci": live in it, "viverci".
+7. A castle? Castles are very cold!: castles è il plurale di castle, con -s: nel plurale la t non si sente ancora, *ka‣*ssëlz. Cold (lezione 13) è "freddo": un castello è grande, di pietra, e si scalda male.
+8. Then I'd sell it and buy a cottage: then (lezione 13) è "allora", e sell (lezione 45) è "vendere": I'd sell it, "lo venderei". Cottage (parola nuova) è la casetta di campagna, piccola e di solito antica, in pietra o in mattoni: per un italiano è un po' un "villino". La parola si usa molto in inglese, ed è nota anche in italiano.
+9. A cottage is a good idea. It's warm, and it's small: good (lezione 1) idea (lezione 13). Warm (lezione 48) è "caldo" in modo piacevole, e small (lezione 34) è "piccolo": it's warm, and it's small, "è calda e piccola". Un cottage è l'opposto di un castello.
+10. Yes. I'd have a lovely cottage near the sea: have (lezione 8) qui è "avere", e I'd have è "avrei". Lovely (lezione 8) è "bellissimo", near (lezione 10) è "vicino a", e sea (lezione 8) è "il mare": near the sea, senza di.
+11. Why not buy the cottage now?: why not più il verbo base è il modo di fare una proposta, "perché non...?": Why not buy it? Why not go out? Il verbo dopo not è senza to e senza -ing. Why (lezione 9), now (lezione 46).
+12. Because I'm not rich: ecco la battuta. Tutta la conversazione parla di che cosa si farebbe, e l'ultima frase è l'unica vera: I'm not rich, al presente. Il secondo condizionale è proprio questo: dice che cosa succederebbe, ma la realtà è un'altra. Chi ha il biglietto non è ricco, non ancora.
+
+ex1:
+- If I won, I'd buy a car.
+  it: Se vincessi, comprerei una macchina.
+- If I were rich, I'd have a big kitchen.
+  it: Se fossi ricco, avrei una cucina grande.
+- What would you do if you were rich?
+  it: Che cosa faresti se fossi ricco?
+- I'd sell the car and buy a castle.
+  it: Venderei la macchina e comprerei un castello.
+- Why not buy the ticket now?
+  it: Perché non comprare il biglietto adesso?
+
+ex2:
+- If I [won], I'd buy a castle.
+  it: Se vincessi, comprerei un castello.
+- If I [were] rich, I'd stop working.
+  it: Se fossi ricco, smetterei di lavorare.
+- What [would] you do if you won?
+  it: Che cosa faresti se vincessi?
+- I'd stop [working].
+  it: Smetterei di lavorare.
+- If it [rains], we'll stay at home.
+  it: Se piove, restiamo a casa.
+
+culture.it:
+La National Lottery, la lotteria nazionale, è nata nel 1994, e i biglietti si comprano in edicola, al supermercato o online. Una parte di quello che si spende va ogni volta a good causes, "buone cause": musei, sport, patrimonio storico, associazioni di quartiere. La sua frase più nota è It could be you!, "potresti essere tu!", e ogni settimana qualcuno vince davvero. Il castello e il cottage dei sogni sono due immagini molto britanniche. In Gran Bretagna ci sono moltissimi castelli, alcuni in rovina, altri abitati, altri musei, e quasi tutti si visitano pagando un biglietto. Il cottage è la casetta di campagna in pietra o in mattoni, a volte con il tetto di paglia, con un giardino pieno di fiori: è l'idea inglese della casa tranquilla, e molti sognano di comprarne uno vicino al mare.
+
+== 55 B1
+numeral: Lesson Fifty-Five
+numeral.pron.it: *le*ssën *fif*ti-faiv
+title: Nobody's perfect
+title.it: Nessuno è perfetto
+
+dialogue:
+- Let's write your profile. Is there anything you don't like?
+  it: Scriviamo il tuo profilo. C'è qualcosa che non ti piace?
+  pron.it: … rait … *prou*fail …
+- Nothing. I like everything. Mondays too.
+  it: Niente. Mi piace tutto. Anche i lunedì.
+- Is there anywhere you don't want to go?
+  it: C'è un posto dove non vuoi andare?
+  pron.it: … *e*niweë …
+- Nowhere. I'll go anywhere, if there's a café.
+  it: In nessun posto. Vado ovunque, se c'è un caffè.
+  pron.it: *nou*weë …
+- Is there anyone you can't stand?
+  it: C'è qualcuno che non sopporti?
+  pron.it: … *e*niwan … stènd
+- Everyone. Sorry, I mean no one.
+  it: Tutti. Scusa, volevo dire nessuno.
+  pron.it: *ev*riwan …
+- Is there someone you like, then?
+  it: C'è qualcuno che ti piace, allora?
+- Yes. My dog. Nobody else.
+  it: Sì. Il mio cane. Nessun altro.
+- Fine. Are you perfect?
+  it: Bene. Sei perfetto?
+- Nobody's perfect, but I'm good at everything.
+  it: Nessuno è perfetto, ma io sono bravo in tutto.
+  pron.it: *nou*bëdiz …
+- Then I'll write: likes everything, likes no one.
+  it: Allora scrivo: gli piace tutto, non gli piace nessuno.
+
+sounds.it:
+1. Any si dice *e*ni, con la e di bed (lezione 34). In anything, anywhere e anyone la voce cade sempre sulla prima sillaba: *e*niθing, *e*niweë, *e*niwan. In weë c'è il suono eë di where (lezione 26).
+2. One alla fine di una parola si dice wan, come in won (lezione 54): everyone si dice *ev*riwan, e anyone *e*niwan. No one si scrive in due parole e si dice nou wan, con il dittongo ou di go (lezione 6). Nobody ha la voce sulla prima sillaba, *nou*bëdi, e Nobody's è *nou*bëdiz.
+3. Write si dice rait: la w non si sente, e il dittongo è ai di my (lezione 12). Stand si dice stènd, con la è aperta di black (lezione 12) e la d finale. Profile si dice *prou*fail, con la voce sulla prima sillaba, il dittongo ou di go e il dittongo ai di my.
+
+notes.it:
+1. Let's write your profile. Is there anything you don't like?: let's (lezione 13) è "facciamo", e write (parola nuova) è "scrivere": write - wrote - written. Profile (parola nuova) è "profilo", e qui è quello di un sito d'incontri. Anything (lezione 34) è "qualcosa" nelle domande, e la parola che segue, you don't like, è "che non ti piace": anything you don't like, senza that, come the man you're looking for (lezione 45). Questa è la lezione di some-, any-, no- ed every-: ognuna di queste quattro parole si unisce a thing (cosa), where (luogo) e one (persona).
+
+| | some- | any- | no- | every- |
+|---|---|---|---|---|
+| cosa | something | anything | nothing | everything |
+| luogo | somewhere | anywhere | nowhere | everywhere |
+| persona | someone | anyone | no one, nobody | everyone |
+
+Some- è per le frasi affermative, any- per le domande e le negazioni, no- dà un senso negativo, every- vuol dire "tutto". Someone si dice anche somebody, e lo stesso vale per anyone, anybody, everyone ed everybody. Nella tabella ci sono parole nuove, come something, somewhere e everywhere: si usano come le altre, e tornano più avanti.
+2. Nothing. I like everything. Mondays too: nothing (lezione 10) è "niente", e everything (lezione 34) è "tutto": nothing è la risposta breve a Is there anything...?, "niente". Mondays (lezione 30) al plurale vuol dire "i lunedì", in generale. Too (lezione 18) è "anche". In inglese in una frase c'è una sola negazione: I don't like anything, oppure I like nothing, mai "I don't like nothing". L'italiano ne vuole due ("non mi piace niente"), l'inglese una sola.
+3. Is there anywhere you don't want to go?: anywhere (parola nuova) è "in qualche posto, da qualche parte" nelle domande: is there anywhere...? Where è già dentro la parola, e non vuole preposizione: go anywhere, mai "go to anywhere". Anywhere you don't want to go, senza where, è "un posto in cui non vuoi andare", con go in fondo.
+4. Nowhere. I'll go anywhere, if there's a café: nowhere (parola nuova) è "in nessun posto, da nessuna parte", ed è la risposta breve di anywhere. Anywhere in una frase affermativa cambia senso, e vuol dire "ovunque, dove vuoi": I'll go anywhere, "vado ovunque". Lo stesso succede con anything e anyone: anything è "qualunque cosa", anyone è "chiunque". I'll (lezione 8) è la decisione di chi parla. If (lezione 44) there's (lezione 10) a café (lezione 13) è "se c'è un caffè": il posto basta che abbia un caffè.
+5. Is there anyone you can't stand?: anyone (parola nuova) è "qualcuno" nelle domande, e someone, anyone e everyone vogliono un verbo al singolare. Stand (parola nuova) vuol dire "stare in piedi", e can't stand è "non sopportare": I can't stand him, "non lo sopporto". Per un italiano è strano che si usi un verbo di posizione: è come "non lo reggo". Anyone you can't stand, come prima, senza who: "qualcuno che non sopporti".
+6. Everyone. Sorry, I mean no one: everyone (parola nuova) è "tutti", e vuole il singolare: everyone is, everyone likes, anche se in italiano "tutti" è plurale. I mean (lezione 50) è "voglio dire". No one (parola nuova) è "nessuno", e si scrive in due parole: no one, mai "noone". Nobody (lezione 36) vuol dire la stessa cosa. La battuta è subito qui: prima il candidato non sopporta tutti, poi corregge e dice nessuno, e ha detto due cose opposte.
+7. Is there someone you like, then?: someone (lezione 36) è "qualcuno", e si usa con some- anche in una domanda, quando chi chiede si aspetta di sì, come Would you like some more tea? (lezione 25). Then (lezione 13) qui è "allora". È l'opposto della domanda sull'anyone.
+8. Yes. My dog. Nobody else: nobody (lezione 36) è "nessuno", e else (lezione 34) è "altro": nobody else, "nessun altro". Else sta dopo some-, any-, no- ed every-: someone else, anyone else, nowhere else, everything else. Dog (lezione 16) è "il cane".
+9. Fine. Are you perfect?: fine (lezione 29) qui è "bene, d'accordo", come si dice per passare a un'altra domanda. Perfect (lezione 11) è "perfetto", e si dice *pë‣*fikt, con la voce sulla prima sillaba e la ë‣ lunga di works (lezione 9).
+10. Nobody's perfect, but I'm good at everything: nobody's è nobody is, in una parola sola, come it's. Nobody's perfect è una frase fatta, "nessuno è perfetto", e si usa per scusarsi di un errore. Good at (good, lezione 1; at, lezione 13) è "bravo in": good at everything, "bravo in tutto". Everything è singolare, come everyone.
+11. Then I'll write: likes everything, likes no one: nel profilo si scrive in terza persona, senza he, come in un curriculum: likes everything. I'll write (write, nota 1) è "scrivo". La battuta è questa: il candidato ha detto che gli piace tutto, ma non sopporta nessuno, tranne il cane, e chi legge il profilo deve decidere se è perfetto o no.
+
+ex1:
+- There's nothing in the fridge.
+  it: Non c'è niente nel frigo.
+- Do you know anyone in London?
+  it: Conosci qualcuno a Londra?
+- Everyone is late.
+  it: Sono tutti in ritardo.
+- I don't want to go anywhere.
+  it: Non voglio andare da nessuna parte.
+- Everything is ready.
+  it: Tutto è pronto.
+
+ex2:
+- I don't like [anything].
+  it: Non mi piace niente.
+- [Everyone] is here.
+  it: Sono tutti qui.
+- Is there [anyone] else here?
+  it: C'è qualcun altro qui?
+- I can't find my shoes [anywhere].
+  it: Non trovo le mie scarpe da nessuna parte.
+- There's [nothing] in the bag.
+  it: Non c'è niente nella borsa.
+
+aside.it:
+Con la lezione 55 hai superato la metà del corso. Se ti guardi indietro, la lezione 1 era un caffè e cinque righe: oggi leggi un dialogo di una dozzina di righe, e la seconda onda ti riporta ogni giorno una lezione di allora. Domani c'è il ripasso, e poi si riparte. Nessuno è perfetto: gli errori sono normali, e capita a tutti.
+
+== 56 B1
+kind: revision
+numeral: Lesson Fifty-Six
+numeral.pron.it: *le*ssën *fif*ti-siks
+title: Revision
+title.it: Ripasso
+
+dialogue:
+- Excuse me. Do you know what time the museum closes?
+  it: Mi scusi. Sa a che ora chiude il museo?
+  refs: 4 13 15 51
+- At five, madam. Can I help you?
+  it: Alle cinque, signora. Posso aiutarla?
+  refs: 4 11 13 29 52
+- Well, I've been looking for a souvenir all morning.
+  it: Beh, cerco un souvenir da tutta la mattina.
+  refs: 1 31 45 50 52
+- Look at this teapot. It's a souvenir of Stoke.
+  it: Guardi questa teiera. È un souvenir di Stoke.
+  refs: 1 12 46 52
+- Lovely! And how much is it?
+  it: Bellissima! E quanto costa?
+  refs: 3 8 20
+- Ten pounds, madam. It's a very good teapot.
+  it: Dieci sterline, signora. È un'ottima teiera.
+  refs: 1 5 6 13 52
+- Ten pounds? If I were rich, I'd buy ten.
+  it: Dieci sterline? Se fossi ricca, ne comprerei dieci.
+  refs: 2 6 13 19 25 44 54
+- And if you won the lottery, madam?
+  it: E se vincesse alla lotteria, signora?
+  refs: 1 44 54
+- I'd buy this shop and stop working.
+  it: Comprerei questo negozio e smetterei di lavorare.
+  refs: 6 13 25 54
+- Excuse me, is there anything here made in England?
+  it: Mi scusi, c'è qualcosa qui fatto in Inghilterra?
+  refs: 4 10 34 52
+- Nothing, madam. Nobody makes anything here now.
+  it: Niente, signora. Qui nessuno fa più niente.
+  refs: 10 29 36 46 52 55
+- But you said this teapot was made in Stoke!
+  it: Ma lei ha detto che questa teiera è stata fatta a Stoke!
+  refs: 5 23 52 53
+- No, madam. I said it's a souvenir of Stoke.
+  it: No, signora. Ho detto che è un souvenir di Stoke.
+  refs: 4 52 53
+- Then where was it made, please? In China?
+  it: Allora dov'è stata fatta, di grazia? In Cina?
+  refs: 13 23 26 52
+
+notes.it:
+Un'altra settimana è passata, e con lei la metà del corso. Ancora nessuna regola da imparare a memoria: questa lezione rimette in ordine quello che hai visto dalla lezione 50 alla 55, il passivo, il discorso riportato, il secondo condizionale, some-, any-, no- ed every-, le domande indirette e un primo sguardo a un tempo nuovo. Se qualcosa ti sembra troppo, passa avanti: tornerà in altre lezioni, un po' più chiaro. Hai già incontrato tutto nel dialogo, ora lo vedi in fila.
+
+1. Il passivo (lezioni 19, 52). Il passivo dice che cosa succede a una cosa, e non chi lo fa. Si fa con il verbo be e il participio passato: be cambia con il tempo e la persona (lezioni 4, 23), il participio resta uguale. Nei verbi regolari il participio ha -ed, come washed (22) e designed (52); made, sold (45) e born (19) sono irregolari.
+
+| | Presente | Passato |
+|---|---|---|
+| frase | The bag is made in Italy. (52) | The teapot was made in Stoke. (52) |
+| negazione | The tea towel isn't made in England. | It wasn't made in England. |
+| domanda | Is it made in England? (52) | Where was it made? (52) |
+| con by | It's designed by a man. | It was designed by a man from Leeds. (52) |
+
+Risposte brevi: Yes, it is. No, it isn't. Yes, it was. Il passivo non vuole mai do, né did: la domanda e la negazione si fanno con be. Chi fa l'azione si dice con by (52) solo se serve: la teiera è fatta a Stoke, e di solito non importa da chi. Già nella lezione 19 avevi un passivo, When were you born? e I was born: era il participio di bear, e la frase si dice sempre così, mai "I am born". In italiano si ricorre spesso a "si" o al verbo attivo: Tea is sold here, "qui si vende il tè", e il passivo inglese è molto più comune. Con altri tempi cambia solo be, un completamento di questa lezione: il futuro è will be made, The bread will be made at three.
+2. Il discorso riportato (lezione 53). Il discorso riportato racconta quello che qualcuno ha detto. Dopo said o told il tempo fa un passo indietro, e i pronomi si adattano a chi parla.
+
+| Parole dette | Frase riportata |
+|---|---|
+| I'm tired. | He said he was tired. (53) |
+| The meeting is at nine. | He said it was at nine. (53) |
+| I play golf. | He said he played golf. |
+| I'll be late. | He said he would be late. |
+| I can swim. | He said he could swim. |
+| Golf is tiring. (sempre vero) | He told me golf is very tiring. (53) |
+
+That si può togliere: He said (that) he was tired. Say e tell non sono uguali: say non vuole la persona (He said he was tired), tell la vuole sempre (He told me he was tired). Mai "he said me" né "he told that". Se quello che si riporta è ancora vero, come golf is tiring, il verbo può restare al presente. Se le parole dette erano già al passato, come I worked all weekend, la regola vuole un passo indietro in più, he had worked, che vedrai più avanti: nel parlato si sente spesso anche il passato semplice, come in He told me he worked all weekend (53). Un completamento: anche le domande si riportano, con il verbo di nuovo dopo il soggetto, come nelle domande indirette (51): "Where do you work?" diventa He asked me where I worked, con asked, il passato di ask, "chiedere", una parola nuova.
+3. Il secondo condizionale (lezioni 44, 49, 54). Il primo condizionale parla di una cosa che può succedere, il secondo di una cosa immaginaria o poco probabile. La differenza è nel tempo dopo if: il presente per una cosa reale, il passato per una cosa irreale. In italiano il secondo è il congiuntivo imperfetto più il condizionale, "se vincessi, comprerei".
+
+| | Dopo if | Nell'altra parte | Esempio |
+|---|---|---|---|
+| primo condizionale | presente | will + verbo | If it rains, we'll stay at home. (44) |
+| secondo condizionale | passato semplice | would + verbo | If I won, I'd buy a castle. (54) |
+
+Would non va mai dopo if: non si dice "if I would win". Con be dopo if si usa were con tutte le persone: If I were rich, I'd buy a pink car (54), se fossi ricco. Un completamento è il consiglio If I were you, I'd..., "se fossi in te..."; la domanda è What would you do if you won? (54). Le due parti si possono scambiare: I'd stop working if I won, senza virgola. Il passato dopo if non vuol dire passato: vuol dire lontano dalla realtà, e l'ultima frase di una conversazione di sogni è sempre la stessa, Because I'm not rich.
+4. Some-, any-, no- ed every- (lezioni 10, 34, 36, 55). Quattro parole si uniscono a thing, where e one o body.
+
+| | some- | any- | no- | every- |
+|---|---|---|---|---|
+| cosa | something | anything (34) | nothing (10) | everything (34) |
+| luogo | somewhere | anywhere (55) | nowhere (55) | everywhere |
+| persona | someone (36), somebody | anyone (55), anybody | no one, nobody (36) | everyone (55), everybody |
+
+Some- si usa nelle frasi affermative e nelle offerte, any- nelle domande e nelle negazioni, e no- dà già un senso negativo: per questo in inglese c'è una sola negazione. Si dice I don't like anything, oppure I like nothing, mai "I don't like nothing". Any- in una frase affermativa vuol dire "qualunque, ovunque": I'll go anywhere (55). Someone, anyone, everyone e nobody vogliono il verbo al singolare, e else dice "altro": nobody else (55). Dopo queste parole il relativo si toglie: anything you don't like, anyone you can't stand (55). Something, somewhere, everywhere e le forme con -body (somebody, anybody, everybody) sono completamenti di questa lezione: le forme con -body hanno lo stesso senso di quelle con -one.
+5. Le domande indirette e le richieste gentili (lezione 51). Una domanda che entra dentro un'altra frase perde l'inversione e il do: il soggetto torna davanti al verbo, e il verbo be resta in fondo.
+
+| Domanda diretta | Domanda indiretta |
+|---|---|
+| Where are the toilets? (51) | Could you tell me where the toilets are? (51) |
+| What time does the museum close? | Do you know what time the museum closes? (51) |
+| Where is the library? | Could you tell me where the library is? (51) |
+
+Le richieste gentili si fanno con could, would e would you mind: Could you tell me...? è "potrebbe dirmi...?", e Would you mind speaking more slowly? è "le dispiacerebbe parlare più piano?", con -ing dopo mind (51). Can (lezione 11) è meno cortese di could, e Would you like...? (25) è l'offerta. In una frase come Do you know what time the museum closes? il verbo prende di nuovo la -s: closes.
+6. Un primo sguardo al present perfect continuous (lezione 50). In lezione 50 hai visto I've been eating bread for thirty years: è un tempo che unisce il present perfect (31) e la forma in -ing, e dice che un'azione è cominciata nel passato e continua fino a oggi. Si fa con have o has, been e il verbo in -ing.
+
+| Persona | Forma | Esempio | In italiano |
+|---|---|---|---|
+| I, you, we, they | have been + -ing | I've been eating bread for thirty years. (50) | mangio da trent'anni |
+| he, she, it | has been + -ing | She's been working here for two years. | lavora qui da due anni |
+| domanda | How long have you been + -ing? | How long have you been waiting? | da quanto tempo aspetti? |
+
+Per dire da quanto tempo si usa for con una durata, for two years, e since con un momento, since nine. In italiano basta il presente con "da": in inglese è questo tempo, e non si può dire "I eat bread for thirty years". Con i verbi di stato, come know, non si usa la forma in -ing: I've known him for ten years, e non "I've been knowing". Il present perfect semplice dice che cosa è successo, Have you ever eaten haggis? (31), il continuous dice per quanto tempo. È solo un primo sguardo: ne riparleremo più avanti.
+
+L'ottava settimana è finita: il passivo, le frasi riportate, i condizionali e some-, any-, no- ed every- cominciano a funzionare, e sei a più della metà del corso.

@@ -75,7 +75,7 @@ impl Step {
     fn how(self) -> &'static str {
         match self {
             Step::Recap => {
-                "A revision lesson: nothing new. Read how the grammar of the last six lessons fits together, with examples you already know, some from the revision dialogue you just heard."
+                "A revision lesson: nothing new. Read how the grammar of the last six lessons fits together, with examples you already know."
             }
             Step::BlindListen => {
                 "Don't look at any text. Listen to the whole dialogue and repeat every sentence aloud in the pause, imitating the voice. It's fine not to understand yet: you are tuning your ear."
@@ -201,6 +201,13 @@ fn texts(items: &[Item]) -> Vec<String> {
     items.iter().map(|i| i.plain()).collect()
 }
 
+/// The two nearest lessons before `li` that have a dialogue, oldest first.
+fn previous_dialogues(c: &crate::model::Course, li: usize) -> Vec<usize> {
+    let mut v: Vec<usize> = (0..li).rev().filter(|&j| !c.lessons[j].dialogue.is_empty()).take(2).collect();
+    v.reverse();
+    v
+}
+
 impl App {
     pub fn start_session(&mut self, ci: usize, li: usize) {
         self.stop_audio();
@@ -216,7 +223,7 @@ impl App {
         }
         let p = self.saved.progress(&key).cloned().unwrap_or_default();
         let mut done = vec![false; steps.len()];
-        if p.completed.is_none() {
+        {
             for &s in &p.steps_done {
                 if let Some(d) = done.get_mut(s) {
                     *d = true;
@@ -232,7 +239,7 @@ impl App {
         let mut speak = texts(&lesson.dialogue);
         speak.extend(texts(&lesson.ex1));
         speak.extend(texts(&lesson.ex2));
-        for j in [li.checked_sub(1), li.checked_sub(2)].into_iter().flatten() {
+        for j in previous_dialogues(c, li) {
             speak.extend(texts(&c.lessons[j].dialogue));
         }
         speak.extend(wave_text.into_iter().flatten());
@@ -252,7 +259,7 @@ impl App {
             wave2,
             wave: Practice::default(),
             tasks: Practice::default(),
-            again: p.again,
+            again: false,
         });
         self.screen = Screen::Study;
     }
@@ -272,10 +279,7 @@ impl App {
         let steps_done: Vec<usize> = s.done.iter().enumerate().filter(|(_, d)| **d).map(|(i, _)| i).collect();
         let (ci, li, next) = (s.course, s.lesson, s.step + 1);
         let key = self.courses[ci].lesson_key(self.courses[ci].lessons[li].number);
-        let p = self.saved.lessons.entry(key).or_default();
-        if p.completed.is_none() {
-            p.steps_done = steps_done;
-        }
+        self.saved.lessons.entry(key).or_default().steps_done = steps_done;
         self.mark_dirty();
         if next >= self.session.as_ref().map(|s| s.steps.len()).unwrap_or(0) {
             self.finish_session();
@@ -299,6 +303,7 @@ impl App {
         p.times += 1;
         p.steps_done.clear();
         p.again = s.again;
+        p.last = Some(today.clone());
         if s.score.1 > 0 {
             p.score = s.score;
         }
@@ -312,9 +317,14 @@ impl App {
                 let c = &self.courses[wc];
                 let wl = &c.lessons[w];
                 let wkey = c.lesson_key(wl.number);
-                self.saved.lessons.entry(wkey.clone()).or_default().wave2 = Some(today.clone());
-                for i in 0..wl.dialogue.len() {
-                    self.saved.cards.entry(format!("{wkey}#{i}")).or_default();
+                let wp = self.saved.lessons.entry(wkey.clone()).or_default();
+                if wp.wave2.is_none() {
+                    wp.wave2 = Some(today.clone());
+                    if self.saved.cards_after_lesson {
+                        for i in 0..wl.dialogue.len() {
+                            self.saved.cards.entry(format!("{wkey}#{i}")).or_default();
+                        }
+                    }
                 }
             }
         }
@@ -375,6 +385,7 @@ impl App {
 
     pub fn drive_audio(&mut self, ctx: &egui::Context) {
         let mut error = None;
+        let speed = self.voice_speed();
         if let Some(seq) = self.seq.as_mut() {
             let now = Instant::now();
             match seq.phase {
@@ -388,7 +399,7 @@ impl App {
                         seq.phase = Phase::Stopped;
                     } else if let Some(file) = self.voices.speech_file(&lang, &text) {
                         if file.is_file() {
-                            match self.player.play(&file, self.saved.speed) {
+                            match self.player.play(&file, speed) {
                                 Ok(()) => seq.phase = Phase::Play(now),
                                 Err(e) => {
                                     error = Some(e);
@@ -806,6 +817,14 @@ impl App {
             return;
         };
         let (ci, li, step_i) = (s.course, s.lesson, s.step);
+        if self.courses.get(ci).is_none_or(|c| li >= c.lessons.len())
+            || s.wave2
+                .is_some_and(|(wc, w)| self.courses.get(wc).is_none_or(|c| w >= c.lessons.len()))
+        {
+            self.session = None;
+            self.screen = Screen::Home;
+            return;
+        }
         let steps = s.steps.clone();
         let done = s.done.clone();
         let course = self.courses[ci].clone();
@@ -901,7 +920,8 @@ impl App {
                 ui.label(muted(step.how()).size(15.0));
                 ui.add_space(8.0);
                 let rec = self.recording(ci, li);
-                if lesson.dialogue.is_empty() && !matches!(step, Step::Previous | Step::SecondWave) {
+                let grammar_only = lesson.revision && !lesson.notes.is_empty();
+                if lesson.dialogue.is_empty() && !grammar_only && !matches!(step, Step::Previous | Step::SecondWave) {
                     theme::tinted(HIGHLIGHT).show(ui, |ui| {
                         ui.set_width(ui.available_width());
                         ui.label("📖 This lesson has no text yet: follow it in your book while you listen. You can add the text any time in “My lessons”.");
@@ -935,8 +955,8 @@ impl App {
                         self.dialogue_block(ui, "dlg", &lang, &lesson.dialogue, true, !hide);
                     }
                     Step::Notes => {
-                        let beginner = lesson.level <= crate::model::Level::A2;
-                        if beginner
+                        let figured = lesson.dialogue.iter().any(|i| i.figured(&base).is_some());
+                        if figured
                             && crate::store::pronunciation_key(&lang).is_some()
                             && ui.add(theme::ghost("🔈 Pronunciation guide")).clicked()
                         {
@@ -964,7 +984,7 @@ impl App {
                     Step::Ex1 => self.ex1(ui, &lang, &lesson),
                     Step::Ex2 => self.ex2(ui, &lang, &lesson),
                     Step::Previous => {
-                        let prev: Vec<usize> = [li.checked_sub(2), li.checked_sub(1)].into_iter().flatten().collect();
+                        let prev = previous_dialogues(&course, li);
                         if prev.is_empty() {
                             ui.label(RichText::new("This is the first lesson: nothing to review yet. Just listen to today's dialogue once more if you like.").size(16.0));
                             self.listen_panel(ui, "dlg", &lang, &lesson.dialogue, rec);
@@ -1154,6 +1174,17 @@ impl App {
 
     // ------------------------------------------------------------ review
 
+    /// Daily sentences due today whose sentence still exists (a lesson the
+    /// editor removed or shortened leaves cards behind).
+    pub fn cards_due(&self) -> usize {
+        let t = day_key(today());
+        self.saved
+            .cards
+            .iter()
+            .filter(|(k, c)| c.due <= t && self.card_target(k).is_some())
+            .count()
+    }
+
     fn card_target(&self, key: &str) -> Option<(usize, usize, usize)> {
         let mut parts = key.rsplitn(3, '#');
         let idx: usize = parts.next()?.parse().ok()?;
@@ -1164,7 +1195,7 @@ impl App {
     }
 
     pub fn review_screen(&mut self, ui: &mut egui::Ui) {
-        let due = self.saved.cards_due();
+        let due = self.cards_due();
         let ci = self.active();
         let pending = self.wave2_pending(ci);
         // The tab lists the chosen course of this language, else the oldest
@@ -1366,27 +1397,42 @@ impl App {
             });
             ui.add_space(6.0);
         }
-        if let Some((_, pli)) = self.review.practice.filter(|(c, _)| *c == ci) {
+        if let Some((_, pli)) = self.review.practice.filter(|&(c, li)| c == ci && li < course.lessons.len()) {
             let l = course.lessons[pli].clone();
             if ui.add(theme::secondary("‹  All lessons")).clicked() {
                 self.review.practice = None;
                 self.stop_audio();
                 return;
             }
+            let due = wave.contains(&pli);
+            if !due {
+                ui.label(muted(
+                    "Extra practice: this lesson's active wave is not due today, so it is not recorded. It comes back on its own day.",
+                ));
+            }
             let mut p = std::mem::take(&mut self.review.practice_state);
             self.reconstruct(ui, ci, pli, &mut p);
             self.review.practice_state = p;
-            if ui.add(theme::big_primary("✔  Second wave done for this lesson")).clicked() {
-                let key = course.lesson_key(l.number);
-                self.saved.lessons.entry(key.clone()).or_default().wave2 = Some(day_key(today()));
-                for i in 0..l.dialogue.len() {
-                    self.saved.cards.entry(format!("{key}#{i}")).or_default();
+            let label = if due {
+                "✔  Second wave done for this lesson"
+            } else {
+                "✔  Done"
+            };
+            if ui.add(theme::big_primary(label)).clicked() {
+                if due {
+                    let key = course.lesson_key(l.number);
+                    self.saved.lessons.entry(key.clone()).or_default().wave2 = Some(day_key(today()));
+                    if self.saved.cards_after_lesson {
+                        for i in 0..l.dialogue.len() {
+                            self.saved.cards.entry(format!("{key}#{i}")).or_default();
+                        }
+                    }
+                    self.say(format!("Second wave of lesson {} done.", l.number));
                 }
                 self.saved.day().reviews += 1;
                 self.review.practice = None;
                 self.stop_audio();
                 self.mark_dirty();
-                self.say(format!("Second wave of lesson {} done.", l.number));
             }
             return;
         }

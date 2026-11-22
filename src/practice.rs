@@ -273,7 +273,7 @@ impl App {
         }
         if whole {
             self.recreate_whole(ui, &lang, &lesson.dialogue, p);
-        } else {
+        } else if !lesson.dialogue.is_empty() {
             ui.label(caps(if lesson.revision { "The revision dialogue" } else { "The dialogue" }));
             self.rebuild_rows(ui, "wave-dlg", &lang, &lesson.dialogue, 0, p);
         }
@@ -282,7 +282,9 @@ impl App {
             ui.label(caps("Exercise 1 — now from your language"));
             self.rebuild_rows(ui, "wave-ex1", &lang, &lesson.ex1, lesson.dialogue.len(), p);
         }
-        self.original_context(ui, &lang, &lesson.dialogue, rec);
+        if !lesson.dialogue.is_empty() {
+            self.original_context(ui, &lang, &lesson.dialogue, rec);
+        }
     }
 
     /// Sentences shown in the learner's language, to be said (and optionally

@@ -139,6 +139,14 @@ wave of lesson *n* comes due when you finish lesson *n + 49* (Settings,
 also alongside the next course of the language, until every lesson you studied
 has been rebuilt.
 
+The book (side menu) holds what the Assimil volumes print around the lessons:
+the introduction (how to study, the two waves), the pronunciation key, and at
+the end a grammar summary, a grammar index, the words in both directions and
+the expressions, each with the lessons where they are met. The synthetic voice
+is slower in Foundation's first lessons and reaches the natural pace at lesson
+50, as the books' recordings do (Settings, "Gradual pace"). On a day without
+time, Home offers the last dialogue to listen to and repeat.
+
 ## Audio
 
 - Your recordings: Courses, "Recordings…" links a folder. Files are matched

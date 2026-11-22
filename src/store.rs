@@ -184,6 +184,8 @@ pub struct LessonProgress {
     pub steps_done: Vec<usize>,
     /// The learner chose to go over this lesson again the next day.
     pub again: bool,
+    /// Day the lesson was last finished, first time or repeat.
+    pub last: Option<String>,
 }
 
 /// A sentence in spaced review (an SM-2 style schedule).
@@ -277,6 +279,9 @@ pub struct Saved {
     pub active_course: String,
     pub audio_dirs: BTreeMap<String, String>,
     pub speed: f32,
+    /// The voice is slower in Foundation's first lessons and reaches the
+    /// natural pace at lesson 50, as the books' recordings do.
+    pub gradual_pace: bool,
     /// Pause after each sentence, as a multiple of the sentence's length.
     pub pause_factor: f32,
     /// The second wave of a lesson starts this many lessons later.
@@ -301,6 +306,7 @@ impl Default for Saved {
             active_course: "core-en".into(),
             audio_dirs: BTreeMap::new(),
             speed: 1.0,
+            gradual_pace: true,
             pause_factor: 1.3,
             wave2_gap: 49,
             daily_goal_min: 20,
@@ -420,11 +426,6 @@ impl Saved {
 
     pub fn is_done(&self, key: &str) -> bool {
         self.lessons.get(key).is_some_and(|p| p.completed.is_some())
-    }
-
-    pub fn cards_due(&self) -> usize {
-        let t = day_key(today());
-        self.cards.values().filter(|c| c.due <= t).count()
     }
 }
 

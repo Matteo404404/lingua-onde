@@ -7,7 +7,7 @@ use eframe::egui::{self, Color32, RichText};
 
 use crate::audio::{Player, Voices, scan_audio_dir};
 use crate::editor::EditorState;
-use crate::model::{Course, LANGS, Lesson, Level, Stage, lang_color, lang_name};
+use crate::model::{Course, LANGS, Level, Stage, lang_color, lang_name};
 use crate::session::{ReviewState, Seq, Session};
 use crate::store::{self, Saved, day_key, today};
 use crate::theme::{
@@ -23,6 +23,7 @@ pub enum Screen {
     Review,
     Editor,
     Settings,
+    Appendix,
 }
 
 struct Shot {
@@ -52,6 +53,9 @@ pub struct App {
     new_course_lang: String,
     /// The pronunciation guide window is open.
     pub key_open: bool,
+    /// The back of each built-in course: grammar, indexes, words.
+    pub appendices: Vec<crate::appendix::Appendix>,
+    pub appendix_ui: crate::appendix::AppendixState,
 }
 
 /// The widest a screen's text column grows; wider windows centre it.
@@ -85,6 +89,8 @@ impl App {
             tick: Instant::now(),
             new_course_lang: "es".into(),
             key_open: false,
+            appendices: crate::appendix::builtin(),
+            appendix_ui: Default::default(),
         };
         if let Some(n) = app.saved.notice.take() {
             app.say(n);
@@ -108,6 +114,11 @@ impl App {
                 }
             }
             Some("settings") => app.screen = Screen::Settings,
+            Some(s) if s.starts_with("appendix") => {
+                // "appendix" or "appendix:<tab>": introduction, pronunciation, grammar, index, words, expressions.
+                app.screen = Screen::Appendix;
+                app.appendix_ui.tab = s.split(':').nth(1).and_then(|n| n.parse().ok()).unwrap_or(0).min(5);
+            }
             Some(s) if s.starts_with("study") => {
                 // "study" or "study:<step>" — used to check a screen quickly.
                 let ci = app.active();
@@ -136,14 +147,16 @@ impl App {
         self.course_index(&self.saved.active_course).unwrap_or(0)
     }
 
-    /// Today's lesson: one the learner chose to go over again, else the
-    /// first not done yet.
+    /// Today's lesson: one the learner chose to go over again (from the day
+    /// after it was studied), else the first not done yet.
     pub fn next_lesson(&self, ci: usize) -> Option<usize> {
         let c = self.courses.get(ci)?;
-        let again = c
-            .lessons
-            .iter()
-            .position(|l| self.saved.progress(&c.lesson_key(l.number)).is_some_and(|p| p.again));
+        let today = day_key(today());
+        let again = c.lessons.iter().position(|l| {
+            self.saved
+                .progress(&c.lesson_key(l.number))
+                .is_some_and(|p| p.again && p.last.as_deref() != Some(today.as_str()))
+        });
         again.or_else(|| c.lessons.iter().position(|l| !self.saved.is_done(&c.lesson_key(l.number))))
     }
 
@@ -163,11 +176,12 @@ impl App {
                 .progress(&c.lesson_key(l.number))
                 .is_some_and(|p| p.wave2.as_deref() == Some(today.as_str()))
         });
-        if self.wave2_tail(ci) && !rebuilt_today {
-            if let Some(&i) = open.iter().find(|i| !due.contains(i)) {
-                due.push(i);
-                due.sort_unstable();
-            }
+        if self.wave2_tail(ci)
+            && !rebuilt_today
+            && let Some(&i) = open.iter().find(|i| !due.contains(i))
+        {
+            due.push(i);
+            due.sort_unstable();
         }
         due
     }
@@ -191,7 +205,7 @@ impl App {
     fn wave2_tail(&self, ci: usize) -> bool {
         let c = &self.courses[ci];
         let read = !c.lessons.is_empty() && c.lessons.iter().all(|l| self.saved.is_done(&c.lesson_key(l.number))) && !self.unwritten(ci);
-        let moved_on = c.stage.filter(|_| c.builtin).is_some_and(|st| {
+        let moved_on = c.stage.filter(|_| c.builtin && self.saved.active_course != c.id).is_some_and(|st| {
             self.stages_of(&c.lang)
                 .into_iter()
                 .any(|si| self.courses[si].stage.is_some_and(|s| s as u8 > st as u8) && self.done_count(si) > 0)
@@ -276,6 +290,24 @@ impl App {
         match c.stage {
             Some(st) if c.builtin => format!("{} · {}", lang_name(&c.lang, &base), st.name(&base)),
             _ => c.name_in(&base).to_string(),
+        }
+    }
+
+    /// The synthetic voice's speed: the learner's setting, slower in a built-in
+    /// Foundation's first lessons (85% at lesson 1) and natural from lesson 50,
+    /// as the books' recordings are. Real recordings keep their own pace.
+    pub fn voice_speed(&self) -> f32 {
+        let lesson = self
+            .session
+            .as_ref()
+            .filter(|_| self.saved.gradual_pace && self.screen == Screen::Study)
+            .and_then(|s| {
+                let c = self.courses.get(s.course)?;
+                (c.builtin && c.stage == Some(Stage::Foundation)).then(|| c.lessons.get(s.lesson).map(|l| l.number))?
+            });
+        match lesson {
+            Some(n) => self.saved.speed * (0.85 + 0.15 * (n.clamp(1, 50) - 1) as f32 / 49.0),
+            None => self.saved.speed,
         }
     }
 
@@ -436,12 +468,13 @@ impl App {
             ui.add_space(14.0);
         }
 
-        let due = self.saved.cards_due() + self.wave2_pending(ci).len();
+        let due = self.cards_due() + self.wave2_pending(ci).len();
         let items = [
             (Screen::Home, "🏠", "Home", 0),
             (Screen::Study, "▶", "Today's lesson", 0),
             (Screen::Review, "⟳", "Review", due),
             (Screen::Courses, "📚", "Courses", 0),
+            (Screen::Appendix, "📖", "The book", 0),
             (Screen::Editor, "✏", "My lessons", 0),
             (Screen::Settings, "⚙", "Settings & voices", 0),
         ];
@@ -487,7 +520,7 @@ impl App {
         let t = today();
         let today_log = self.saved.days.get(&day_key(t)).cloned().unwrap_or_default();
         let total_done: usize = (0..self.courses.len()).map(|i| self.done_count(i)).sum();
-        let due = self.saved.cards_due();
+        let due = self.cards_due();
         let wide = ui.available_width() >= 760.0;
 
         let hello = match Local::now().hour() {
@@ -512,7 +545,12 @@ impl App {
         ui.add_space(12.0);
 
         if let Some(c) = self.courses.get(ci).cloned() {
-            self.hero(ui, ci, &c, today_log.lessons > 0, due);
+            let new_today = c.lessons.iter().any(|l| {
+                self.saved
+                    .progress(&c.lesson_key(l.number))
+                    .is_some_and(|p| p.completed.as_deref() == Some(day_key(t).as_str()))
+            });
+            self.hero(ui, ci, &c, new_today, due);
         }
         ui.add_space(12.0);
 
@@ -646,8 +684,13 @@ impl App {
                                     format!("active wave: {} lesson {}", self.stage_name(wc), self.courses[wc].lessons[w].number),
                                 ),
                                 None if l.number < self.saved.wave2_gap + 1 => {
+                                    let carried = self.wave2_left(ci) > self.wave2_open(ci).len();
                                     ui.label(
-                                        RichText::new(format!("· active wave from lesson {}", self.saved.wave2_gap + 1))
+                                        RichText::new(if carried {
+                                            "✔ today's active wave done".to_string()
+                                        } else {
+                                            format!("· active wave from lesson {}", self.saved.wave2_gap + 1)
+                                        })
                                             .size(14.0)
                                             .color(light),
                                     );
@@ -691,6 +734,49 @@ impl App {
                                 }
                             }
                         });
+                        // As in the books, the introduction comes before lesson 1.
+                        if self.done_count(ci) == 0 && self.appendix().is_some_and(|a| !a.intro.is_empty()) {
+                            ui.add_space(6.0);
+                            let read = egui::Button::new(
+                                RichText::new("📖  New here? Read the introduction first: how the course works, in ten minutes.")
+                                    .size(14.0)
+                                    .color(light),
+                            )
+                            .frame(false);
+                            if ui.add(read).clicked() {
+                                self.appendix_ui.tab = 0;
+                                self.go(Screen::Appendix);
+                            }
+                        }
+                        // The books' advice for a day without time: a few minutes with
+                        // the last dialogue rather than nothing.
+                        let last = (0..li).rev().find(|&j| {
+                            let lj = &c.lessons[j];
+                            !lj.dialogue.is_empty() && self.saved.is_done(&c.lesson_key(lj.number))
+                        });
+                        if let (false, Some(j)) = (studied_today, last) {
+                            let playing = self.seq.as_ref().is_some_and(|s| s.tag == "short");
+                            let pl = &c.lessons[j];
+                            let label = if playing {
+                                "■  Stop".to_string()
+                            } else if self.voices.ready(&c.lang) {
+                                format!("⏱  Only a few minutes today? Listen to lesson {} again and repeat it aloud.", pl.number)
+                            } else {
+                                format!("⏱  Only a few minutes today? Read lesson {} again, aloud.", pl.number)
+                            };
+                            ui.add_space(6.0);
+                            if ui.add(egui::Button::new(RichText::new(label).size(14.0).color(light)).frame(false)).clicked() {
+                                if playing {
+                                    self.stop_audio();
+                                } else if self.voices.ready(&c.lang) {
+                                    let texts: Vec<String> = pl.dialogue.iter().map(|i| i.plain()).collect();
+                                    self.voices.prepare(&c.lang, &texts);
+                                    self.play_seq("short", &c.lang, texts, 0, false);
+                                } else {
+                                    self.start_session(ci, j);
+                                }
+                            }
+                        }
                     }
                     None if self.unwritten(ci) => {
                         ui.label(bold("Next lessons on the way").size(26.0).color(Color32::WHITE));
@@ -828,8 +914,12 @@ impl App {
                                 .response
                                 .interact(egui::Sense::click())
                                 .on_hover_cursor(egui::CursorIcon::PointingHand)
-                                .on_hover_text("Study this course");
-                            if r.clicked() && !here {
+                                .on_hover_text(if sc.lessons.is_empty() {
+                                    "Not written yet"
+                                } else {
+                                    "Study this course"
+                                });
+                            if r.clicked() && !here && !sc.lessons.is_empty() {
                                 pick = Some(si);
                             }
                         });
@@ -1483,6 +1573,14 @@ impl App {
                     )
                     .changed();
             });
+            row(ui, "Gradual pace", "as the books' recordings", &mut |ui| {
+                changed |= ui
+                    .checkbox(
+                        &mut self.saved.gradual_pace,
+                        "Slower voice in the first lessons of Foundation, natural from lesson 50",
+                    )
+                    .changed();
+            });
             row(ui, "Pause to repeat", "how long the voice waits after each sentence", &mut |ui| {
                 changed |= ui
                     .add(
@@ -1679,7 +1777,7 @@ impl App {
 
 /// The sections of a pronunciation key meant for readers of `base`: the
 /// shared ones and the one headed for that reader.
-fn reader_part(key: &str, base: &str) -> String {
+pub fn reader_part(key: &str, base: &str) -> String {
     let readers = [("it", "Italian"), ("en", "English"), ("es", "Spanish")];
     let mine = readers.iter().find(|(c, _)| *c == base).map(|(_, n)| *n).unwrap_or("English");
     let mut out = String::new();
@@ -1772,6 +1870,7 @@ impl eframe::App for App {
                         Screen::Review => self.review_screen(ui),
                         Screen::Editor => self.editor_screen(ui),
                         Screen::Settings => self.settings_screen(ui),
+                        Screen::Appendix => self.appendix_screen(ui),
                         Screen::Study => {}
                     });
                     ui.add_space(24.0);

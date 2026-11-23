@@ -1625,3 +1625,588 @@ ex2:
   it: "Il divano passerà?" "Spero di sì."
 - Tom got [cold] [feet] on the morning of the party.
   it: La mattina della festa a Tom venne paura.
+
+== 64 C1
+numeral: Lesson Sixty-Four
+title: The Caribbean
+title.it: I Caraibi
+
+dialogue:
+- The Caribbean is a sea and a curve of islands between the Americas, and English is one of several languages spoken there.
+  it: I Caraibi sono un mare e un arco di isole tra le Americhe, e l'inglese è una delle diverse lingue che vi si parlano.
+- It is not one country. Jamaica, Trinidad and Tobago and Barbados are independent, and the Cayman Islands are still a British Overseas Territory.
+  it: Non sono un solo paese. La Giamaica, Trinidad e Tobago e Barbados sono indipendenti, e le isole Cayman sono ancora un territorio britannico d'oltremare.
+- Visitors soon learn three capitals: Kingston in Jamaica, Bridgetown in Barbados, and Port of Spain in Trinidad.
+  it: I visitatori imparano presto tre capitali: Kingston in Giamaica, Bridgetown a Barbados, e Port of Spain a Trinidad.
+- Before Europeans arrived, the larger islands were home to the Taíno, and many of the smaller ones to the Kalinago, whom the Spanish called Caribs.
+  it: Prima dell'arrivo degli europei, le isole più grandi erano la terra dei Taíno, e molte delle più piccole quella dei Kalinago, che gli spagnoli chiamavano Caribi.
+- Columbus reached the region in 1492, and later many of the islands were planted with sugar cane, grown by enslaved Africans.
+  it: Colombo raggiunse la regione nel 1492, e più tardi molte isole furono piantate a canna da zucchero, coltivata da africani ridotti in schiavitù.
+- Britain abolished the trade in enslaved people in 1807, and slavery in most of its Caribbean colonies in 1834.
+  it: La Gran Bretagna abolì la tratta delle persone schiavizzate nel 1807, e la schiavitù nella maggior parte delle sue colonie dei Caraibi nel 1834.
+- Jamaica and Trinidad and Tobago became independent in 1962, and Barbados in 1966.
+  it: La Giamaica e Trinidad e Tobago divennero indipendenti nel 1962, e Barbados nel 1966.
+- In June 1948 the Empire Windrush docked at Tilbury with passengers from the Caribbean, many of them from Jamaica.
+  it: Nel giugno del 1948 la Empire Windrush attraccò a Tilbury con passeggeri provenienti dai Caraibi, molti dei quali dalla Giamaica.
+- The ship gave its name to the Windrush generation, who came from the Caribbean to live in Britain between 1948 and 1971.
+  it: La nave diede il nome alla generazione Windrush, coloro che dai Caraibi vennero a vivere in Gran Bretagna tra il 1948 e il 1971.
+- The islands do not look alike: Jamaica has the Blue Mountains, many smaller islands are volcanic, and the Bahamas are low and made of coral.
+  it: Le isole non si assomigliano: la Giamaica ha le Blue Mountains, molte isole più piccole sono vulcaniche, e le Bahamas sono basse e fatte di corallo.
+- From June to November hurricanes may cross the sea, and the trade winds take the edge off the heat for the rest of the year.
+  it: Da giugno a novembre gli uragani possono attraversare il mare, e per il resto dell'anno gli alisei smussano il caldo (ne tolgono il filo).
+- Sugar, rum, bananas and Jamaican coffee leave the islands, while tourism, on many of them, keeps people in work.
+  it: Zucchero, rum, banane e caffè giamaicano lasciano le isole, mentre il turismo, in molte di esse, tiene la gente al lavoro.
+- Reggae comes from Jamaica, and calypso and the steel pan from Trinidad, and all three are known far beyond the sea.
+  it: Il reggae viene dalla Giamaica, e il calypso e lo steel pan da Trinidad, e tutti e tre sono conosciuti ben oltre quel mare.
+- Jamaican English stays close to British English and adds words of its own, while Patois, or Patwa, is a creole with rules of its own.
+  it: L'inglese giamaicano resta vicino all'inglese britannico e aggiunge parole sue, mentre il Patois, o Patwa, è un creolo con regole sue.
+- In Patois, "Mi a go" means "I am going", and the word "a" does the work that -ing does in the standard language.
+  it: In patois, "Mi a go" vuol dire "sto andando", e la parola "a" fa il lavoro che nella lingua standard fa la forma in -ing.
+- "Wah gwaan?" means "What's going on?", and it is used as a greeting, so a short answer will do.
+  it: "Wah gwaan?" vuol dire "Che succede?", e si usa come saluto, quindi basta una risposta breve.
+- "Soon come" means that a person will arrive, though not always as soon as the words suggest.
+  it: "Soon come" vuol dire che una persona arriverà (presto vengo), anche se non sempre così presto come le parole fanno pensare.
+- Sunday lunch is often rice and peas: rice with beans, coconut milk, thyme and pepper, and the peas, despite the name, are the beans.
+  it: Il pranzo della domenica è spesso il rice and peas: riso con fagioli, latte di cocco, timo e pepe, e i peas, nonostante il nome, sono i fagioli.
+
+notes.it:
+1. The Caribbean is a sea and a curve of islands between the Americas, and English is one of several languages spoken there: Caribbean si dice kèri*bi‣*ën, con la voce su bi‣: la grafia non dice dove cade l'accento. È il mare tra le due Americhe, e anche l'arco di isole che lo chiude a est. Sea è "mare" (Fondamenti, lezione 8: sea). A curve of islands è "un arco di isole": curve, "curva". English is one of several languages: one of + plurale, "una di", e language è "lingua" (Fondamenti, lezione 93: language). Several è "diverse, più d'una", senza dire quante. Sulle isole si parlano anche lo spagnolo, il francese, l'olandese e delle lingue creole: l'inglese è una di queste, non la lingua di tutta la regione. Spoken there è un participio, "parlate lì".
+2. It is not one country. Jamaica, Trinidad and Tobago and Barbados are independent, and the Cayman Islands are still a British Overseas Territory: it riprende la regione, non una sola isola. Not one country è "non un solo paese": le isole hanno storie politiche diverse, e il testo ne nomina quattro casi, non tutti. Jamaica si dice gië*mei*kë, Trinidad *tri*nidèd, Tobago të*bei*gou e Barbados ba‣*bei*dos, con la voce sulla seconda sillaba in Tobago e in Barbados. Independent è "indipendente": il nome è independence, con -ence (lezione 36, nota 1). The Cayman Islands, al plurale, sono un solo territorio: are still a British Overseas Territory, "sono ancora un territorio britannico d'oltremare". Overseas è "d'oltremare" (lezione 18, nota 8: overseas). Un British Overseas Territory dipende dalla Corona e non è uno stato indipendente. La frase non dice che sia l'unico.
+3. Before Europeans arrived, the larger islands were home to the Taíno, and many of the smaller ones to the Kalinago, whom the Spanish called Caribs: before Europeans arrived è "prima che arrivassero gli europei", con il past simple dopo before per un fatto passato. Were home to è "erano la terra di, ospitavano": home, qui, non è la casa. The larger islands e many of the smaller ones: ones sostituisce islands (lezione 23, nota 5). A grandi linee i Taíno stavano sulle isole grandi, come la Giamaica, e i Kalinago su molte delle piccole. La carta reale è più mista di così, e la frase dà il quadro, non l'elenco. Whom the Spanish called Caribs: whom è il complemento di called, "che gli spagnoli chiamavano". Nello scritto curato, per un complemento persona, si usa whom; nel parlato è comune who. Called someone Caribs è "chiamare qualcuno Caribi", senza preposizione. Dal nome Carib viene la parola inglese Caribbean.
+4. Columbus reached the region in 1492, and later many of the islands were planted with sugar cane, grown by enslaved Africans: reached the region è "raggiunse la regione": reach, "arrivare a", senza to. In 1492 è un passato semplice, con l'anno. Later è "più tardi", e non dice in quale secolo: la canna arrivò dopo, non nel 1492. Many of the islands, non tutte: were planted with sugar cane, "furono piantate a canna da zucchero". Plant with è "piantare con, mettere a coltura". Grown by enslaved Africans è un participio passato che fa da relativa ridotta: sugar cane which was grown by (lezione 4, nota 12). Enslaved è "ridotto in schiavitù", e si preferisce a un nome che sembri definire la persona (lezione 43, nota 3). By dice chi lavorava la canna. La frase parla di molte isole, non di ognuna.
+5. Britain abolished the trade in enslaved people in 1807, and slavery in most of its Caribbean colonies in 1834: abolish è "abolire". The trade in enslaved people è "la tratta": nel 1807 la legge britannica vietò ai suoi sudditi il commercio di persone schiavizzate. Non è la stessa cosa della schiavitù. Slavery, "la schiavitù", nelle colonie britanniche dei Caraibi fu abolita per legge con effetto dal 1834. In most of its Caribbean colonies tiene la frase stretta: nella maggior parte di quelle colonie, dopo il 1834, ci fu ancora un periodo di apprendistato, fino al 1838, e la libertà piena non fu lo stesso giorno per tutti. Most of è "la maggior parte di". Its si riferisce a Britain. Le due date, nella frase, fanno due lavori diversi, e non vanno lette come un solo gesto.
+6. Jamaica and Trinidad and Tobago became independent in 1962, and Barbados in 1966: became independent è "diventarono indipendenti": become, passato became (lezione 43, nota 2). Trinidad and Tobago è uno stato solo, due isole. I soggetti inglesi sono due, la Giamaica e quello stato: in italiano il verbo si mette al plurale. In inglese became non cambia con il numero. In 1962 e in 1966 sono le date di indipendenza dal Regno Unito. Barbados, nella seconda parte, non ripete il verbo: and Barbados in 1966, "e Barbados nel 1966", e independent si capisce dal primo verbo. Altre isole di lingua inglese hanno date diverse, o non sono stati: la frase nomina queste tre.
+7. In June 1948 the Empire Windrush docked at Tilbury with passengers from the Caribbean, many of them from Jamaica. The ship gave its name to the Windrush generation, who came from the Caribbean to live in Britain between 1948 and 1971: Windrush si dice *wind*rasc', e Tilbury *til*bëri, un porto sul Tamigi. Dock è "attraccare": the ship docked at Tilbury. In June 1948 è il mese dell'arrivo, senza il giorno. With passengers from the Caribbean: a bordo c'erano anche altri, e many of them from Jamaica dice "molti dei quali dalla Giamaica", non tutti. Quei passeggeri venivano a lavorare: dopo la guerra in Gran Bretagna mancava manodopera. Arrivavano come sudditi britannici, e in quegli anni chi veniva da una colonia poteva stabilirsi. The ship gave its name: il nome Windrush generation è venuto dalla nave, ed è il nome con cui oggi si indica chi arrivò dai Caraibi per vivere in Gran Bretagna tra il 1948 e il 1971. Nel 1971 una nuova legge rese l'ingresso molto più difficile, ed è per questo che il conto si chiude lì. Who came è una relativa: who, persone. Live in Britain è "vivere in Gran Bretagna", non "di passaggio".
+8. The islands do not look alike: Jamaica has the Blue Mountains, many smaller islands are volcanic, and the Bahamas are low and made of coral: look alike è "somigliarsi": alike è "simile", e si mette dopo il verbo, non davanti al nome (they look alike; non "alike islands"). I due punti introducono tre esempi, non un inventario. The Blue Mountains sono una catena della Giamaica: mountains, al plurale, con the, come altre catene. Volcanic è "vulcanico": molte delle isole piccole lo sono, e la frase dice many, non all. The Bahamas si dice bë*ha‣*mëz, con la voce sulla seconda sillaba. Nel testo il verbo è al plurale, are, perché si pensa alle isole; per il paese si sente anche the Bahamas is. Low è "basse", sul livello del mare, e made of coral è "fatte di corallo": made of dice il materiale di cui una cosa è fatta. Coral, qui, è un nome non numerabile, "corallo".
+9. From June to November hurricanes may cross the sea, and the trade winds take the edge off the heat for the rest of the year: from June to November è la stagione degli uragani sull'Atlantico. Hurricane (*ha*rikën) è "uragano". May cross è "possono attraversare": may dice la possibilità, non un fatto di ogni anno e di ogni isola. Cross the sea è "attraversare il mare". The trade winds sono gli alisei, venti costanti dei tropici. Take the edge off, alla lettera "togliere il filo", come si fa con una lama, e il senso vero è "attenuare, togliere il peggio": a biscuit will take the edge off your hunger, "un biscotto attenua la fame". Qui gli alisei non tolgono il caldo. Lo rendono meno duro. For the rest of the year è "per il resto dell'anno", fuori da quei mesi. Heat è "il caldo", non numerabile.
+10. Sugar, rum, bananas and Jamaican coffee leave the islands, while tourism, on many of them, keeps people in work: leave the islands è "lasciano le isole", cioè si esportano. Sugar, rum, bananas e coffee sono nomi non numerabili o, per le banane, un plurale senza articolo: si parla del prodotto, non di un esemplare. Rum è il liquore che si ricava dalla melassa della canna. Jamaican coffee è il caffè dell'isola (coffee, Fondamenti, lezione 3: coffee). While oppone le due metà: le merci escono, il turismo tiene la gente al lavoro. On many of them è "in molte di esse": many, non all. Tourism è "il turismo". Keeps people in work è "tiene la gente al lavoro": in work vuol dire "che ha un impiego", e out of work è "senza lavoro". People, senza the, è "la gente" in generale.
+11. Reggae comes from Jamaica, and calypso and the steel pan from Trinidad, and all three are known far beyond the sea: reggae si dice *re*ghei e calypso kë*lip*sou, con la voce sulla seconda. Comes from è "viene da", l'origine. Calypso and the steel pan from Trinidad non ripete il verbo: comes si capisce dal primo. The steel pan è il bidone d'acciaio accordato, lo strumento nato a Trinidad, e pan, da solo, è lo stesso strumento: play the pan. All three è "tutti e tre": all + numero. Are known è un passivo senza by: "sono conosciuti", e non dice da chi. Far beyond the sea è "molto oltre quel mare": beyond è "al di là di", e far lo rafforza. Sea, qui, è il mare dei Caraibi (nota 1).
+12. Jamaican English stays close to British English and adds words of its own, while Patois, or Patwa, is a creole with rules of its own: stays close to è "resta vicino a": la grammatica e l'ortografia dell'inglese giamaicano seguono in gran parte il modello britannico. Adds words of its own è "aggiunge parole sue": of its own rafforza il possessivo (lezione 43, nota 1). Parole di quel genere sono yard, "casa" e anche "la Giamaica", duppy, "fantasma", pickney, "bambino". Patois si dice *pè*twa‣: la s finale non si pronuncia, e Patwa è la stessa parola scritta come si sente. Or, tra virgole, dà l'altro nome. A creole è una lingua nata dal contatto tra lingue, qui dall'inglese e da lingue dell'Africa occidentale: il vocabolario è in gran parte inglese, le regole no. With rules of its own dice proprio questo. Non è un inglese sbagliato. Chi le sente non le deve correggere, come per i tratti dell'inglese indiano (lezione 55, nota 11). Molte persone si muovono tra le due varietà nella stessa giornata, e la frase non dice che siano due scatole chiuse.
+13. In Patois, "Mi a go" means "I am going", and the word "a" does the work that -ing does in the standard language: mi, in questa frase, è "io". Non cambia forma come I e me. A, la parolina in mezzo, segna l'azione in corso: mi a go, "sto andando". Nell'inglese standard lo stesso lavoro lo fa be + -ing: I am going. Go resta go. Does the work that -ing does è "fa il lavoro che fa -ing": that introduce la relativa, e does, la seconda volta, sostituisce il verbo. The standard language è "la lingua standard", qui l'inglese che si insegna a scuola. La frase è un esempio di regola, non una correzione: si dice così, in patois, e vuol dire quello.
+14. "Wah gwaan?" means "What's going on?", and it is used as a greeting, so a short answer will do. "Soon come" means that a person will arrive, though not always as soon as the words suggest: Wah gwaan viene da What's going on, "che succede": wah è what, e gwaan è going on detto in fretta. Si scrive anche in altri modi; questa è una grafia corrente. It is used as a greeting: come "come va?", non chiede un resoconto. A short answer will do è "basta una risposta breve": will do, dopo un nome, è "andare bene, essere sufficiente". That will do, "così basta". So lega le due cose: è un saluto, quindi la risposta è corta. "Soon come", alla lettera "presto vengo, vengo presto". Il senso vero è "arrivo, ci sono", e il soon non è un orario. Though è "anche se" (lezione 36, nota 11). Not always as soon as the words suggest: suggest, qui, è "lasciare intendere". Non è una promessa su cui si regola l'orologio. Si dice di una persona che sta per arrivare, o di una cosa che sta per essere pronta.
+15. Sunday lunch is often rice and peas: rice with beans, coconut milk, thyme and pepper, and the peas, despite the name, are the beans: Sunday lunch è "il pranzo della domenica", il pasto principale, non per forza a mezzogiorno in punto. Often è "spesso": non è l'unico piatto dell'isola. Rice and peas è il nome del piatto, e in Giamaica peas, in questo nome, sono fagioli, di solito i fagioli rossi, o i pigeon peas. Rice with beans è "riso con fagioli": with dice che cosa c'è dentro, e coconut milk è "latte di cocco". Thyme, "timo", si dice taim, in una sillaba sola: la h non si pronuncia, come in time. Pepper è "pepe", e in questa cucina è il peperoncino. Despite the name è "nonostante il nome": despite + nome, senza of. Are the beans chiude la battuta. Chi cerca dei piselli verdi nel piatto ha letto la parola inglese e non il piatto. Il nome dice peas, il cucchiaio trova beans.
+
+ex1:
+- Jamaica and Trinidad and Tobago became independent in 1962.
+  it: La Giamaica e Trinidad e Tobago divennero indipendenti nel 1962.
+- The Empire Windrush docked at Tilbury in June 1948.
+  it: La Empire Windrush attraccò a Tilbury nel giugno del 1948.
+- In Patois, "Mi a go" means "I am going".
+  it: In patois, "Mi a go" vuol dire "sto andando".
+- Reggae comes from Jamaica, and the steel pan from Trinidad.
+  it: Il reggae viene dalla Giamaica, e lo steel pan da Trinidad.
+- The peas in rice and peas are beans, despite the name.
+  it: I peas del rice and peas sono fagioli, nonostante il nome.
+
+ex2:
+- The Cayman Islands are a British [Overseas] [Territory].
+  it: Le isole Cayman sono un territorio britannico d'oltremare.
+- Britain abolished the trade in enslaved people in [1807], and slavery in most of its Caribbean colonies in [1834].
+  it: La Gran Bretagna abolì la tratta delle persone schiavizzate nel 1807, e la schiavitù nella maggior parte delle sue colonie dei Caraibi nel 1834.
+- From June to [November] hurricanes may cross the sea.
+  it: Da giugno a novembre gli uragani possono attraversare il mare.
+- "[Soon] [come]" means that a person will arrive.
+  it: "Soon come" vuol dire che una persona arriverà.
+- Rice and peas is rice with [beans] and coconut [milk].
+  it: Il rice and peas è riso con fagioli e latte di cocco.
+
+== 65 C1
+numeral: Lesson Sixty-Five
+title: The ghost of the bed and breakfast
+title.it: Il fantasma della pensione
+
+dialogue:
+- Mr Hale had booked the Seaview for the price, and for a photograph in which the bay looked larger than the house.
+  it: Il signor Hale aveva prenotato il Seaview per il prezzo, e per una fotografia in cui la baia sembrava più grande della casa.
+- A card in the hall mentioned a resident ghost, and he walked past it on the way upstairs.
+  it: Un cartoncino nell'ingresso nominava un fantasma della casa, e lui gli passò davanti mentre saliva.
+- No sooner had he turned out the light than a cold draught crossed the bed, though the window was shut.
+  it: Non appena ebbe spento la luce (non prima ebbe spento la luce che), un refolo freddo attraversò il letto, anche se la finestra era chiusa.
+- Hardly had he pulled the blanket up when a faint voice said, "Will you be wanting breakfast?"
+  it: Si era appena tirato su la coperta (a stento si era tirato su la coperta quando), che una voce fioca disse: "Desidera la colazione?"
+- He said that he would, and that in the morning he would be wanting a word with the landlady.
+  it: Disse di sì, e che al mattino avrebbe voluto parlare con la padrona.
+- At breakfast Mrs Dodd set down the teapot and waited.
+  it: A colazione la signora Dodd posò la teiera e aspettò.
+- "There is a ghost in my room," said Mr Hale.
+  it: "C'è un fantasma nella mia camera," disse il signor Hale.
+- "Never before has it taken an order," she said, and she did not look displeased.
+  it: "Mai prima d'ora ne ha presa una," disse lei, e non sembrava dispiaciuta.
+- He replied that he had not come for a ghost.
+  it: Rispose che non era venuto per un fantasma.
+- "Few people do," she said. "That is why it is a line on the bill, and not a surprise."
+  it: "Sono pochi a venire per quello," disse lei. "È per questo che è una voce sul conto, e non una sorpresa."
+- "Not only do the dearer rooms have a view," she went on, "but they have no ghost, and this week the silence costs more."
+  it: "Non solo le camere più care hanno la vista," continuò, "ma non hanno il fantasma, e questa settimana il silenzio costa di più."
+- Little did he know that the couple by the window had booked that silence a month before.
+  it: Non sapeva (poco sapeva) che la coppia accanto alla finestra aveva prenotato quel silenzio un mese prima.
+- He asked if a quiet room was still free.
+  it: Chiese se una camera silenziosa fosse ancora libera.
+- Only then did Mrs Dodd look sorry. "Those went first," she said.
+  it: Solo allora la signora Dodd sembrò dispiaciuta. "Quelle sono andate per prime," disse.
+- So low was the ghost's fee, she added, that most guests paid it and never mentioned the draught.
+  it: La tariffa del fantasma era così bassa, aggiunse, che quasi tutti gli ospiti la pagavano e non nominavano mai il refolo.
+- He paid. Beside the figure she had written "ghost, one night", and under it "breakfast order, no charge".
+  it: Pagò. Accanto alla cifra lei aveva scritto "fantasma, una notte", e sotto "ordinazione della colazione, senza addebito".
+- That night he left a note on the pillow: "No breakfast. No ghost."
+  it: Quella notte lasciò un biglietto sul cuscino: "Niente colazione. Niente fantasma."
+- In the morning the note had gone, and the bill carried a new line: "Night message, charged as conversation."
+  it: Al mattino il biglietto non c'era più, e il conto aveva una riga nuova: "Messaggio notturno, addebitato come conversazione."
+
+notes.it:
+1. Mr Hale had booked the Seaview for the price, and for a photograph in which the bay looked larger than the house: book è "prenotare": book a room, e il passato è booked. The Seaview è il nome della pensione, sea e view, "vista sul mare": un bed and breakfast è una pensione piccola, camera e colazione. For the price è "per il prezzo", cioè perché costava poco. A photograph in which: in which è la preposizione davanti al relativo, nello scritto (lezione 51, nota 2). Looked larger than è "sembrava più grande di": look + aggettivo, "sembrare". La baia, nella foto, batte la casa. È già un avviso, e lui prenota lo stesso. Had booked è un past perfect: la prenotazione è anteriore all'arrivo.
+2. A card in the hall mentioned a resident ghost, and he walked past it on the way upstairs: hall è l'ingresso. A card mentioned è "un cartoncino nominava, diceva". Resident, davanti a ghost, è "che sta in casa, fisso": a resident guest è un ospite stabile. Walked past it è "gli passò davanti senza fermarsi": past, qui, è preposizione, "davanti a, oltre". On the way upstairs è "lungo la salita, mentre saliva": upstairs è avverbio, "di sopra". It è il cartoncino. La frase dopo dirà che il fantasma c'era davvero. Lui aveva l'informazione in mano, e non l'ha letta.
+3. No sooner had he turned out the light than a cold draught crossed the bed, though the window was shut: no sooner ... than è "non appena, non prima ... che". L'ordine normale è he had no sooner turned out the light than a draught crossed the bed. Con no sooner in testa, nei racconti, l'ausiliare passa prima del soggetto: No sooner had he turned out (lezione 6, nota 3). La prima parte è un past perfect, la seconda un past simple, crossed. Dopo no sooner si usa than, non when. Turn out the light è "spegnere la luce": turn out, qui, non è "venire fuori". Draught, "refolo, corrente d'aria", si dice dra‣ft, in una sillaba: in Gran Bretagna si scrive draught per l'aria, e draft per una bozza o per una tratta bancaria. Though the window was shut è "anche se la finestra era chiusa" (lezione 36, nota 11): la corrente non ha la scusa della finestra. Shut è "chiusa", aggettivo e participio di shut.
+4. Hardly had he pulled the blanket up when a faint voice said, "Will you be wanting breakfast?": hardly ... when è l'altra forma di "appena ... che" (lezione 6, nota 2). He had hardly pulled the blanket up when è l'ordine senza inversione. Hardly da solo è "quasi non". Pull up è "tirare su": pull the blanket up, "tirarsi la coperta". Faint è "fioco", di una voce o di una luce. Will you be wanting breakfast? è una domanda cortese: il future continuous, will be + -ing, si usa anche per un'offerta, come Will you be needing the car? (lezione 7). Wanting, qui, è "desiderare", non un bisogno urgente. Il fantasma dà del lei, come si fa con un ospite, e chiede la colazione prima ancora di presentarsi. Breakfast è la colazione del mattino (Fondamenti, lezione 62: breakfast). La battuta è nelle buone maniere: il fantasma è più educato del conto che seguirà.
+5. He said that he would, and that in the morning he would be wanting a word with the landlady: he would è "sì", e would sta per would be wanting breakfast. Non ridice la frase (lezione 61, nota 13). In the morning è "al mattino", e il secondo would be wanting riprende la formula del fantasma, questa volta per una cosa meno comoda: a word with è "due parole con, un discorso con". Landlady è la "padrona" di una pensione, *lènd*leidi. He would be wanting a word è il futuro nel passato: dal momento in cui risponde, il mattino è ancora da venire. Would, le due volte, non è un desiderio irreale. È il will della domanda, spostato nel racconto.
+6. "There is a ghost in my room," said Mr Hale. "Never before has it taken an order," she said, and she did not look displeased: said Mr Hale, con il verbo prima del nome, è l'ordine del racconto dopo le parole citate (lezione 5, nota 9). There is a ghost è un presente: il fantasma, per lui, è un fatto di stamattina. Never before has it taken an order: never all'inizio vuole l'inversione, ausiliare prima del soggetto, come Never have I seen (Fondamenti, lezione 81). Before rafforza: "mai prima d'ora". Has taken è un present perfect, perché lei parla da adesso, e l'ordine della colazione è appena successo. It è il fantasma. Take an order è "prendere un'ordinazione", come in un ristorante. L'ordine normale è it has never before taken an order. She did not look displeased: displeased è "dispiaciuto, contrariato", e il prefisso dis- dà il contrario. Non sembrava contrariata. Detto così, vuol dire che la cosa le andava. È un understatement: la parola è meno del fatto.
+7. He replied that he had not come for a ghost. "Few people do," she said. "That is why it is a line on the bill, and not a surprise.": come for è "venire per". Had not come è un past perfect: il motivo del viaggio è anteriore al reclamo. Few people do: do sta al posto di come for a ghost, e si tiene l'ausiliare (lezione 61, nota 13). Few, senza a, è "pochi, quasi nessuno". That is why è "è per questo che": that riprende il fatto che pochi vengono per il fantasma. A line on the bill è "una voce sul conto": line, qui, è una riga scritta, e bill è il conto da pagare. And not a surprise: se è sul conto, non è un'apparizione improvvisa. È un extra, dichiarato. Il cartoncino dell'ingresso aveva già fatto il lavoro (nota 2). Lui non l'ha letto, e il conto sì.
+8. "Not only do the dearer rooms have a view," she went on, "but they have no ghost, and this week the silence costs more.": not only all'inizio vuole l'inversione. Con un verbo che non è be o un ausiliare si mette do: Not only do the dearer rooms have a view (Fondamenti, lezione 81, nota 3). L'ordine normale è the dearer rooms not only have a view. But introduce la seconda parte: but they have no ghost. La forma piena è not only ... but also. Also, qui, manca, come capita spesso nel parlato: la seconda parte aggiunge un altro vantaggio, e il vantaggio è un'assenza. Dear è "caro" di prezzo, e dearer è il comparativo, "più caro". Went on è "continuò". Have no ghost è "non hanno il fantasma": no + nome, una negazione sola. This week the silence costs more: il silenzio, cioè la camera senza fantasma, costa più del fantasma. La signora Dodd ha rovesciato il reclamo. Lui paga per togliere una cosa, e toglierla è il lusso.
+9. Little did he know that the couple by the window had booked that silence a month before: little did he know è "non sapeva, non immaginava". Alla lettera "poco sapeva". Little, in testa, con questo senso negativo, vuole l'inversione: did prima di he, e know alla forma base. L'ordine normale è he little knew, che si sente poco, o he did not know. La frase è un avviso al lettore: il personaggio non ha l'informazione che segue. The couple by the window è "la coppia accanto alla finestra", gli altri ospiti a colazione. Had booked è un past perfect: la prenotazione è anteriore a questa colazione. That silence è il silenzio della frase prima, la camera senza fantasma. A month before è "un mese prima": before, dal momento del racconto. Ago si misura da adesso, e qui il racconto è al passato, quindi before. La battuta è che il silenzio era già esaurito da un mese, e lui lo scopre a colazione.
+10. He asked if a quiet room was still free. Only then did Mrs Dodd look sorry. "Those went first," she said: ask if è "chiedere se", una domanda indiretta, con l'ordine di una frase affermativa: if a quiet room was, non "was a quiet room". Still free è "ancora libera". Only then è "solo allora". Only, con un'espressione di tempo, in testa alla frase, vuole l'inversione: Only then did she look sorry. Did è l'ausiliare, look la forma base. L'ordine normale è she looked sorry only then. Look sorry è "sembrare dispiaciuta": sorry, qui, è l'aria, non una scusa. Those went first: those sono le camere silenziose, e went è "sono andate", nel senso di "sono state prese". First è "per prime". Le dispiace solo quando deve dire di no, e il no è che le camere care erano le più richieste.
+11. So low was the ghost's fee, she added, that most guests paid it and never mentioned the draught: so + aggettivo, in testa, vuole l'inversione con be: So low was the fee that ... L'ordine normale è the ghost's fee was so low that most guests paid it. That introduce il risultato (lezione 58, nota 1). She added, tra virgole, è un inciso: "aggiunse". Fee è "tariffa, diritto". Low è "basso" di prezzo. Most guests è "la maggior parte degli ospiti". Paid it: it è la tariffa. Never mentioned the draught è "non nominavano mai il refolo": mentioned è il passato di mention, e never si mette prima del verbo. Il refolo è quello della frase 3. La tariffa è bassa abbastanza perché la gente paghi e taccia. Il signor Hale ha parlato, e pagherà lo stesso: parlare non fa lo sconto.
+12. He paid. Beside the figure she had written "ghost, one night", and under it "breakfast order, no charge". That night he left a note on the pillow: "No breakfast. No ghost." In the morning the note had gone, and the bill carried a new line: "Night message, charged as conversation.": beside è "accanto a", e figure, qui, è "la cifra". Had written è un past perfect: la scritta c'era già quando lui paga. Ghost, one night è la voce del conto, nello stile di un extra d'albergo. Breakfast order, no charge: l'ordinazione presa dal fantasma non si paga. No charge è "senza addebito". Pillow è "cuscino". No breakfast. No ghost. è il suo tentativo di disdire, due no secchi. Had gone è "non c'era più": il biglietto è stato preso. Carried a new line è "portava una riga nuova", e line è di nuovo una voce (nota 7). Charged as conversation: charge è "addebitare", e as dice la voce sotto cui finisce. Il biglietto della notte, per la pensione, è una conversazione, e le conversazioni si pagano. Lui aveva rifiutato il fantasma e la colazione. Il conto ha trasformato il rifiuto in una prestazione. Nessuna delle due scritte dice chi ha risposto. Il fantasma, o la signora Dodd, tiene la penna.
+
+ex1:
+- No sooner had he turned out the light than a draught crossed the bed.
+  it: Non appena ebbe spento la luce, un refolo attraversò il letto.
+- Never before has the ghost taken an order.
+  it: Mai prima d'ora il fantasma ha preso un'ordinazione.
+- This week the silence costs more than the ghost.
+  it: Questa settimana il silenzio costa più del fantasma.
+- The couple by the window had booked the silence a month before.
+  it: La coppia accanto alla finestra aveva prenotato il silenzio un mese prima.
+- His night message was charged as conversation.
+  it: Il suo messaggio notturno fu addebitato come conversazione.
+
+ex2:
+- No [sooner] had he turned out the light [than] a cold draught crossed the bed.
+  it: Non appena ebbe spento la luce, un refolo freddo attraversò il letto.
+- [Never] [before] has the ghost taken an order.
+  it: Mai prima d'ora il fantasma ha preso un'ordinazione.
+- [Not] [only] do the dearer rooms have a view, but they have no ghost.
+  it: Non solo le camere più care hanno la vista, ma non hanno il fantasma.
+- [Little] did he [know] that the couple had booked the silence.
+  it: Poco sapeva che la coppia aveva prenotato il silenzio.
+- So [low] was the fee [that] most guests paid it.
+  it: La tariffa era così bassa che quasi tutti gli ospiti la pagavano.
+
+== 66 C1
+numeral: Lesson Sixty-Six
+title: The British summer
+title.it: L'estate britannica
+
+dialogue:
+- The British summer runs from the first warm Saturday to the second, and some years they are the same day.
+  it: L'estate britannica va dal primo sabato caldo al secondo, e certi anni sono lo stesso giorno.
+- On that Saturday the Glovers lit a barbecue, because the forecast had said "fine".
+  it: Quel sabato i Glover accesero un barbecue, perché le previsioni avevano detto "bello".
+- "Quite pleasant," said Mr Glover, as the first drop landed on the sausages.
+  it: "Piuttosto piacevole," disse il signor Glover, mentre la prima goccia finiva sulle salsicce.
+- Mrs Glover wished it were not raining on the coals.
+  it: La signora Glover avrebbe voluto che non piovesse sulla brace.
+- The coals carried on, which was more than the forecast had done.
+  it: La brace continuò, il che era più di quanto avessero fatto le previsioni.
+- If only they had read as far as the word "later", which was doing most of the work.
+  it: Se solo avessero letto fino alla parola "later" (più tardi), che stava facendo la maggior parte del lavoro.
+- They moved the barbecue under the washing line, which kept the rain off the sausages and on the shirts.
+  it: Spostarono il barbecue sotto lo stendibiancheria, che teneva la pioggia lontana dalle salsicce e addosso alle camicie.
+- "A light shower," he said, of a rain that had already soaked the shirts.
+  it: "Un acquazzone leggero," disse lui, di una pioggia che aveva già inzuppato le camicie.
+- By three the cloud had gone, and both of them were a bit pink.
+  it: Alle tre la nuvola se n'era andata, ed erano tutti e due un po' rosa.
+- "I wish I had brought a hat," said their neighbour, who was pinker, and not for the first time.
+  it: "Vorrei aver portato un cappello," disse il loro vicino, che era più rosa, e non per la prima volta.
+- "If only the sun would take its time," said Mrs Glover.
+  it: "Se solo il sole si prendesse il suo tempo," disse la signora Glover.
+- It had got through a month of burning in an hour.
+  it: Aveva sbrigato un mese di scottature in un'ora.
+- A hosepipe ban was in force that afternoon, and the rain which had put the barbecue out had not filled the reservoirs.
+  it: Quel pomeriggio era in vigore un divieto di usare la canna, e la pioggia che aveva spento il barbecue non aveva riempito i bacini.
+- Mr Glover wished the rain would fall on the reservoirs instead of the sausages.
+  it: Il signor Glover avrebbe voluto che la pioggia cadesse sui bacini invece che sulle salsicce.
+- "If only we had a water butt," said Mrs Glover.
+  it: "Se solo avessimo un bidone per l'acqua piovana," disse la signora Glover.
+- They had a hose by the tap, and a leaflet telling them to leave it there.
+  it: Avevano una canna accanto al rubinetto, e un volantino che diceva di lasciarla lì.
+- "I wish the water company had seen the shirts," she said.
+  it: "Vorrei che l'azienda dell'acqua avesse visto le camicie," disse lei.
+- In the evening the sun came out in earnest, the grass steamed, and the sausages did not recover.
+  it: La sera il sole uscì sul serio, l'erba fumava, e le salsicce non si ripresero.
+- "Lovely weather for it," said Mr Glover, and nobody asked him for what.
+  it: "Che bel tempo per farlo," disse il signor Glover, e nessuno gli chiese per fare che cosa.
+
+notes.it:
+1. The British summer runs from the first warm Saturday to the second, and some years they are the same day: the British summer è "l'estate britannica". Run from ... to ... è "andare da ... a ...", per un periodo. The first warm Saturday è "il primo sabato caldo", e the second è il secondo: il verbo runs vale per tutti e due. Some years they are the same day: they sono i due sabati, e la battuta è che il caldo dura un pomeriggio solo. Non è una statistica. È il modo in cui si parla di un'estate in cui il sole e la pioggia si danno il cambio nello stesso giorno. Warm è "caldo", piacevole; hot è più forte.
+2. On that Saturday the Glovers lit a barbecue, because the forecast had said "fine". "Quite pleasant," said Mr Glover, as the first drop landed on the sausages: the Glovers è la famiglia, con the e il cognome al plurale. Lit è il passato di light: light - lit - lit, "accendere". A barbecue, "grigliata", si dice *ba‣*bikyu‣. Because dà il motivo vero: le previsioni avevano detto fine, "bello, sereno". Had said è un past perfect: la previsione viene prima del barbecue. Quite pleasant è "piuttosto piacevole". Quite, davanti a un aggettivo, smorza: non dice "bellissimo". Lo dice mentre cade la prima goccia. È un understatement: le parole sono vere, una goccia non è un diluvio, e sono troppo piccole per il fatto. L'understatement dice meno. L'ironia, più avanti, dirà altro (nota 12). As è "mentre". Landed on è "finì su, atterrò su". Sausages sono le salsicce.
+3. Mrs Glover wished it were not raining on the coals. The coals carried on, which was more than the forecast had done: wish seguito da un passato parla di un presente che non è come lo si vorrebbe (Fondamenti, lezione 67, nota 1). It were not raining: were, con wish, è la forma dello scritto accurato, per tutte le persone. Nel parlato si sente molto anche was: I wish it was not raining. Le due forme convivono, e were non è l'unica. Il passato, were, non sposta la frase nel passato: la pioggia è adesso. Not raining è il continuous, perché sta piovendo in quel momento. Coals sono la brace. Carried on è "continuò, andò avanti". Which was more than the forecast had done: which riprende la frase, e la brace ha mantenuto la parola meglio delle previsioni, che avevano detto "bello" e poi avevano smesso di aver ragione. Forecast è "previsione del tempo", come nella lezione 10.
+4. If only they had read as far as the word "later", which was doing most of the work: if only è wish più forte, un sospiro, "se solo" (Fondamenti, lezione 67, nota 11). Con il past perfect, had read, il rimpianto è sul passato: non hanno letto fino in fondo, e ormai è fatto. As far as è "fino a". Later, "più tardi", era nel testo delle previsioni, dopo fine. Which was doing most of the work: la parolina later faceva il lavoro vero, e fine faceva il titolo. If only, in questa frase, non ha una principale dopo: l'esclamazione si ferma, e la conseguenza (il barbecue bagnato) si vede da sé. Si può aggiungere la conseguenza, if only they had read it, they would have stayed inside, ma non è obbligatorio. La frase è completa così.
+5. They moved the barbecue under the washing line, which kept the rain off the sausages and on the shirts. "A light shower," he said, of a rain that had already soaked the shirts: washing line è lo "stendibiancheria", la corda del bucato, in Gran Bretagna; clothesline si dice anche. Kept the rain off the sausages è "teneva la pioggia lontana dalle salsicce": keep off è "tenere lontano". And on the shirts: on non ripete kept, e la pioggia finisce sulle camicie. La soluzione ne crea un'altra. A light shower è "un acquazzone leggero". Shower è un rovescio breve. Light, qui, è "leggero", non la luce. Said of a rain è "lo disse di una pioggia". Soaked è "inzuppato". Le camicie non sono più light. È di nuovo un understatement: un nome troppo piccolo per una camicia da strizzare. He è il signor Glover.
+6. By three the cloud had gone, and both of them were a bit pink. "I wish I had brought a hat," said their neighbour, who was pinker, and not for the first time: by three è "entro le tre, alle tre". The cloud had gone: il singolare, una nuvola, quella che aveva piovuto. Both of them sono i due Glover. A bit pink è "un po' rosa". Pink, per la pelle al sole, è la parola piccola: il fatto è una scottatura, e pink la tiene educata. È un understatement anche questo. A bit è "un po'". Their neighbour è "il loro vicino". Pinker è il comparativo. Not for the first time è "non per la prima volta": gli era già successo. I wish I had brought è wish con il past perfect, un rimpianto sul passato (Fondamenti, lezione 67, nota 3): il cappello non c'è, e non c'era neanche prima. Had brought è il past perfect di bring. Hat è "cappello".
+7. "If only the sun would take its time," said Mrs Glover. It had got through a month of burning in an hour: if only + would si usa per un comportamento che si vorrebbe diverso, di una persona o di una cosa (Fondamenti, lezione 67, note 8 e 11). Il sole non "collabora", e would chiede che cambi modo. Di sé stessi non si dice "I wish I would": si dice I wish I could. Take one's time è "prendersela comoda, non avere fretta" (lezione 1, nota 20). Had got through è "aveva sbrigato, aveva portato a termine": get through a piece of work. A month of burning in an hour: un'ora di sole ha fatto il lavoro di un mese. Burning, qui, è la scottatura, non un incendio. La frase della signora Glover è un sospiro. La frase dopo è il fatto.
+8. A hosepipe ban was in force that afternoon, and the rain which had put the barbecue out had not filled the reservoirs: hosepipe è la canna da giardino, in Gran Bretagna, *houz*paip; in America si dice hose. A hosepipe ban è il divieto, deciso dalla compagnia dell'acqua nei periodi secchi, di usare la canna per innaffiare, lavare la macchina e usi simili. Was in force è "era in vigore". Non è un divieto di tutta l'acqua: il rubinetto di casa resta. Put the barbecue out è "spegnere il barbecue": put out, di un fuoco. Reservoirs, "bacini, invasi", si dice *re*zëvwa‣, con la voce sulla prima. Una pioggia che spegne le salsicce non riempie un bacino. Le due cose stanno nella stessa frase, e non si contraddicono: il giardino è bagnato, le riserve no. Per questo il divieto può esserci lo stesso pomeriggio del rovescio.
+9. Mr Glover wished the rain would fall on the reservoirs instead of the sausages. "If only we had a water butt," said Mrs Glover: wish + would, di nuovo, per un comportamento che si vorrebbe diverso (nota 7). La pioggia non è una persona, e la costruzione si usa lo stesso, come in I wish it would stop. Fall on è "cadere su", e instead of è "invece di", davanti a un nome. If only we had a water butt: had è il passato che parla del presente, come were alla nota 3. Il bidone non c'è adesso. A water butt è il bidone che raccoglie la pioggia dalla grondaia: con quell'acqua si innaffia anche quando la canna è vietata, e la pioggia del barbecue non sarebbe andata persa. Per una cosa che manca si usa il passato, had: non si dice "if only we would have".
+10. They had a hose by the tap, and a leaflet telling them to leave it there. "I wish the water company had seen the shirts," she said: a hose è la stessa canna, la parola corta di hosepipe. By the tap è "accanto al rubinetto". A leaflet è un "volantino". Telling them to leave it there è un participio: il volantino dice di lasciarla lì, cioè di non usarla. Leave it there è "lasciarla dov'è". I wish the water company had seen è un altro rimpianto sul passato, e il soggetto è un altro: l'azienda non ha visto le camicie. Had seen, past perfect, perché il fatto è già successo (nota 6). Se volesse che l'azienda cambiasse atteggiamento adesso, direbbe I wish they would look. Company, per l'acqua, è "azienda, società". The shirts sono quelle della frase 5, già inzuppate, e poi finite al sole.
+11. In the evening the sun came out in earnest, the grass steamed, and the sausages did not recover: in the evening è "la sera". Came out è "uscì", delle nuvole. In earnest è "sul serio, per davvero": fino a lì il sole aveva lavorato a scatti. The grass steamed: steam è "fumare, fare vapore", l'erba bagnata sotto il sole. Recover è "riprendersi". Le salsicce no. Tre fatti in fila, e l'ultimo è quello che interessava il barbecue. Did not recover è il past simple: la possibilità è chiusa.
+12. "Lovely weather for it," said Mr Glover, and nobody asked him for what: lovely weather for it è una frase fatta, "che bel tempo per l'occasione". It, in questa formula, è vuoto: sta per la cosa che si sta facendo, e a volte non sta per niente. Nobody asked him for what: for what è "per che cosa", e what è in fondo perché la domanda è solo accennata, non detta. Dopo la pioggia, la scottatura e le salsicce, lovely è troppo. Se il signor Glover dice il contrario di quello che pensa, è ironia: le parole vanno da una parte, la giornata dall'altra, e chi ascolta deve accorgersene. Se parla dei dieci minuti di sole vero, è un understatement, la parola piccola della nota 2. La frase non decide. Nessuno gli chiede quale delle due sia, e la battuta è quella.
+
+ex1:
+- Mrs Glover wished it were not raining on the coals.
+  it: La signora Glover avrebbe voluto che non piovesse sulla brace.
+- If only they had read as far as the word "later".
+  it: Se solo avessero letto fino alla parola "later".
+- The neighbour wished he had brought a hat.
+  it: Il vicino avrebbe voluto aver portato un cappello.
+- The rain had put the barbecue out, but it had not filled the reservoirs.
+  it: La pioggia aveva spento il barbecue, ma non aveva riempito i bacini.
+- They had a hose, and a leaflet telling them to leave it there.
+  it: Avevano una canna, e un volantino che diceva di lasciarla lì.
+
+ex2:
+- [If] [only] they had read the forecast as far as "later".
+  it: Se solo avessero letto le previsioni fino a "later".
+- They had a hose by the [tap].
+  it: Avevano una canna accanto al rubinetto.
+- A [hosepipe] [ban] was in force that afternoon.
+  it: Quel pomeriggio era in vigore un divieto di usare la canna da giardino.
+- If only the sun [would] take its [time].
+  it: Se solo il sole si prendesse il suo tempo.
+- The rain had not filled the [reservoirs].
+  it: La pioggia non aveva riempito i bacini.
+
+== 67 C1
+numeral: Lesson Sixty-Seven
+title: Edward Elgar
+title.it: Edward Elgar
+
+dialogue:
+- Edward Elgar was a self-taught composer from Worcestershire, born in 1857 at Broadheath, a village outside Worcester.
+  it: Edward Elgar fu un compositore autodidatta del Worcestershire, nato nel 1857 a Broadheath, un villaggio fuori Worcester.
+- His father kept a music shop in the city and tuned pianos, and the boy became a violinist without attending a conservatoire.
+  it: Il padre teneva un negozio di musica in città e accordava pianoforti, e il ragazzo divenne violinista senza frequentare un conservatorio.
+- The shop, full of sheet music and instruments, was the centre of his childhood.
+  it: Il negozio, pieno di spartiti e di strumenti, fu il centro della sua infanzia.
+- He left school at fifteen, spent a short time in a solicitor's office, and then earned his living by teaching, while he taught himself to compose.
+  it: Lasciò la scuola a quindici anni, passò un breve periodo in uno studio di avvocato, e poi si guadagnò da vivere insegnando, mentre imparava da solo a comporre.
+- For years the work was unsuccessful. The encouragement came from Alice, his wife from 1889, who was sure of it before the public was.
+  it: Per anni il lavoro non ebbe successo. L'incoraggiamento venne da Alice, sua moglie dal 1889, che ne era sicura prima del pubblico.
+- For a long time he lived in Malvern, within sight of the hills.
+  it: Per molto tempo visse a Malvern, in vista delle colline.
+- In 1899 came the Enigma Variations, musical portraits dedicated "to my friends pictured within".
+  it: Nel 1899 arrivarono le Enigma Variations, ritratti musicali con la dedica "ai miei amici raffigurati qui dentro".
+- Nimrod, the best known of them, pictures a friend called Jaeger, and Jaeger is German for "hunter", which is what Nimrod was.
+  it: Nimrod, la più conosciuta, ritrae un amico di nome Jaeger, e Jaeger in tedesco vuol dire "cacciatore", che è ciò che era Nimrod.
+- The enigma is another theme, which Elgar said was present and which is never played. He never said which theme it was.
+  it: L'enigma è un altro tema, che Elgar diceva presente e che non viene mai suonato. Non disse mai quale tema fosse.
+- A knighthood came in 1904. He was Sir Edward after that, and the music did not grow more solemn to match.
+  it: Il titolo di cavaliere arrivò nel 1904. Da allora fu Sir Edward, e la musica non divenne più solenne per stare al passo.
+- The march everyone knows is the first of the Pomp and Circumstance marches, written in 1901.
+  it: La marcia che tutti conoscono è la prima delle marce Pomp and Circumstance, scritta nel 1901.
+- Its tune was reused the next year, with words by A. C. Benson, under the title Land of Hope and Glory.
+  it: La sua melodia fu riutilizzata l'anno dopo, con parole di A. C. Benson, sotto il titolo Land of Hope and Glory.
+- The words are Benson's. The tune is Elgar's, and anyone who asks for the song by that title is asking for the march.
+  it: Le parole sono di Benson. La melodia è di Elgar, e chi chiede la canzone con quel titolo sta chiedendo la marcia.
+- In Britain the tune is heard at the Last Night of the Proms, and in America it is played as students walk up to take a degree.
+  it: In Gran Bretagna la melodia si sente all'ultima sera delle Proms, e in America la si suona mentre gli studenti salgono a ritirare una laurea.
+- The tune is now known worldwide, and the man who wrote it had left school at fifteen and never studied for a degree.
+  it: Oggi la melodia è conosciuta in tutto il mondo, e l'uomo che la scrisse aveva lasciato la scuola a quindici anni e non aveva mai studiato per una laurea.
+- He died in Worcester in 1934, and the theme he never named still has no agreed name.
+  it: Morì a Worcester nel 1934, e il tema che non nominò mai non ha ancora un nome su cui si sia d'accordo.
+
+notes.it:
+1. Edward Elgar was a self-taught composer from Worcestershire, born in 1857 at Broadheath, a village outside Worcester: Elgar si dice *el*ga‣. Worcestershire e Worcester si dicono *wu*stëscë e *wu*stë: la grafia ha lettere che non si pronunciano, e la voce sta sulla prima sillaba. È una contea del centro dell'Inghilterra, e Worcester ne è la città. Broadheath è il villaggio dov'è nato, in una casa che oggi è un museo. Self-taught è "autodidatta", alla lettera "insegnato da sé". Self- è un prefisso, con il trattino, e vuol dire "da sé, a sé": self-taught, self-made, "che si è fatto da solo". Taught è il participio di teach. Composer è "compositore": da compose, "comporre", con il suffisso -er di chi fa un'azione (singer da sing, painter da paint). La e di compose resta: composer, non una forma troncata. Born in 1857 è il passato di be born, "nascere".
+2. His father kept a music shop in the city and tuned pianos, and the boy became a violinist without attending a conservatoire: kept a shop è "teneva un negozio" (keep, lezione 53, nota 1: gestire). Tune è "accordare". Violinist è "violinista": violin più -ist, il suffisso di chi pratica una cosa (pianist, da piano, che perde una o; scientist, da science). -ist non vuole dire sempre "musicista": è la persona dell'attività. Attending a conservatoire è "frequentare un conservatorio". Conservatoire è la forma britannica, di origine francese; in America si dice conservatory. Without -ing è "senza" + verbo. Lezioni di violino Elgar le ebbe, anche a Londra, da insegnanti. Quello che non ebbe è un corso di conservatorio. L'autodidattica, nella frase dopo, riguarda il comporre.
+3. The shop, full of sheet music and instruments, was the centre of his childhood. He left school at fifteen, spent a short time in a solicitor's office, and then earned his living by teaching, while he taught himself to compose: sheet music è "gli spartiti", la musica stampata su fogli. Childhood è "l'infanzia": child più -hood, il suffisso dello stato o del periodo (knighthood, più avanti; likelihood, "probabilità"). Left school è "lasciò la scuola", e at fifteen è "a quindici anni", senza years. A solicitor è un avvocato, in Inghilterra, quello che prepara gli atti e segue le cause più comuni; un barrister è quello che discute in certi tribunali. A short time è "un breve periodo": non ci restò. Earned his living è "si guadagnava da vivere". By teaching è "insegnando": by + -ing dice il mezzo. Taught himself to compose è "imparò da solo a comporre": teach oneself to, e to compose è l'infinito. While unisce le due cose, l'insegnamento e lo studio solitario.
+4. For years the work was unsuccessful. The encouragement came from Alice, his wife from 1889, who was sure of it before the public was: unsuccessful è "senza successo". Si smonta in pezzi. Success è il nome, successful l'aggettivo con -ful, "pieno di, che ha" (careful, useful), e un- è il prefisso del contrario: un- davanti a un aggettivo lo nega (unhappy, unable). Un- non è sempre "il contrario di un verbo": unlock è un verbo, "aprire ciò che è chiuso" (lezione 43, nota 6). Qui unsuccessful è un aggettivo. Encouragement è "incoraggiamento": encourage più -ment, il suffisso che fa un nome da un verbo (movement da move, agreement da agree). Alice è Caroline Alice Elgar, sua allieva, sposata nel 1889. His wife from 1889 è "sua moglie dal 1889". Who was sure of it: it è il lavoro, la musica. Before the public was è un'ellissi: before the public was sure of it. Il pubblico arrivò dopo.
+5. For a long time he lived in Malvern, within sight of the hills. In 1899 came the Enigma Variations, musical portraits dedicated "to my friends pictured within": Malvern si dice *mo‣*lvën, una cittadina del Worcestershire, e the hills sono le Malvern Hills. Within sight of è "in vista di, a portata di sguardo": within, qui, è "entro i limiti di", non "dentro" una scatola. In 1899 came mette il verbo prima del soggetto, dopo il tempo: è un ordine da racconto, con un nome come soggetto. Con un pronome non si gira: In 1899 they came. Enigma si dice i*nig*më, "enigma". Variations è il plurale di variation: vary, "variare", più -ation, un suffisso di nomi (invite, invitation; examine, examination). Una variation, in musica, è un brano che riprende un tema e lo cambia. Musical portraits: le variazioni ritraggono persone. L'ultima ritrae lui; le altre, persone care. Friends, nella dedica, dà con -ship friendship, "l'amicizia": -ship fa nomi di stato o di rapporto (friendship, membership, partnership). Dedicated "to my friends pictured within" sono parole sue, poche. Pictured è "raffigurati", e within è "qui dentro", dentro la musica. Dedicated to è "dedicato a".
+6. Nimrod, the best known of them, pictures a friend called Jaeger, and Jaeger is German for "hunter", which is what Nimrod was: Nimrod si dice *nim*rod. The best known of them è "la più conosciuta di esse", delle variazioni: known, participio di know, e best known si scrive anche best-known davanti a un nome. Pictures è "ritrae". Jaeger, *yei*gë, era August Jaeger, dell'editore Novello, amico di Elgar. In tedesco Jäger è "cacciatore". Nimrod, nella Bibbia, è un cacciatore. Elgar ha scelto il soprannome per quel senso, e la variazione parla dell'amico, non del personaggio biblico. German for è "il tedesco per, la parola tedesca che vuol dire". Which is what Nimrod was: what era, "ciò che era".
+7. The enigma is another theme, which Elgar said was present and which is never played. He never said which theme it was: un enigma, nel titolo, è un indovinello. Elgar scrisse che c'era un altro tema, più grande, che accompagna l'opera e non viene suonato. Was present è "era presente". Is never played è un passivo: nessuno lo suona, perché non sta sulla pagina. He never said which theme it was: which theme è una domanda indiretta, "quale tema", con l'ordine affermativo. Non lo rivelò. Da allora ci sono state proposte, e non c'è un accordo. La frase non dice che un tema nascosto sia stato dimostrato. Dice che lui non lo nominò, e che non lo si suona.
+8. A knighthood came in 1904. He was Sir Edward after that, and the music did not grow more solemn to match: knighthood è "la dignità di cavaliere": knight più -hood, come childhood (nota 3). Knight è "cavaliere", e il verbo è knight, "fare cavaliere": he was knighted. Nel 1904 Elgar ricevette il titolo. Sir Edward è la forma giusta. Sir sta davanti al nome di battesimo: Sir Edward, o Sir Edward Elgar. Sir più il solo cognome, "Sir Elgar", non si dice. Lo stesso vale per un baronetto. After that è "da allora". Grow more solemn è "diventare più solenne": grow, qui, è "diventare", e solemn è "solenne". To match è "per stare al passo, per essere all'altezza" del titolo. La musica non cambiò registro perché era cambiato il nome. È una battuta, non un giudizio su tutto quello che scrisse dopo.
+9. The march everyone knows is the first of the Pomp and Circumstance marches, written in 1901. Its tune was reused the next year, with words by A. C. Benson, under the title Land of Hope and Glory: Pomp and Circumstance è il titolo, e sono più marce. The first of them è la prima, quella del 1901. Pomp è "pompa, fasto", e circumstance, *së‣*këmstëns, è "circostanza": il titolo è un titolo, e il testo non ne cita i versi. Written in 1901 è un participio, "scritta nel 1901". Tune è "melodia". Reused è "riusata": re- è il prefisso di "di nuovo" (lezione 18, nota 4: rebuilt). Use più re- dà reuse, e il trattino di solito non si mette. The next year è il 1902. A. C. Benson scrisse le parole. Under the title è "sotto il titolo, con il titolo". Land of Hope and Glory è il titolo di quelle parole, messe sulla melodia della marcia. Le parole e la marcia non sono la stessa cosa, e la frase dopo lo dice.
+10. The words are Benson's. The tune is Elgar's, and anyone who asks for the song by that title is asking for the march. In Britain the tune is heard at the Last Night of the Proms, and in America it is played as students walk up to take a degree: Benson's è il genitivo, "di Benson", e il nome della cosa (words) è già detto, quindi non si ripete: Benson's, non "Benson's words", la seconda volta. Lo stesso Elgar's. By that title è "con quel titolo". Asking for the march: chi dice il titolo della canzone sta chiedendo la melodia di Elgar. The Last Night of the Proms è l'ultima sera dei Proms, i concerti estivi di Londra: il pubblico canta su quella melodia. Proms è promz, una sillaba. In America la marcia accompagna le lauree, mentre gli studenti vanno a ritirare il diploma. Walk up è "avanzare, salire". Take a degree è "prendere una laurea". As è "mentre".
+11. The tune is now known worldwide, and the man who wrote it had left school at fifteen and never studied for a degree: worldwide è "in tutto il mondo": world più -wide, "esteso a" (nationwide, "in tutta la nazione"). Si scrive in una parola sola. Had left school riprende la frase 4, e il past perfect mette la scuola prima di tutto il resto. Never studied for a degree è "non studiò mai per una laurea": study for, "prepararsi a", e a degree è la laurea della frase prima. Delle lauree honoris causa, date senza esame, gli furono conferite, da più università. La frase non le nega. Dice che non fece un corso di studi. È la battuta: la marcia delle lauree è di uno che a quindici anni era già uscito di scuola.
+12. He died in Worcester in 1934, and the theme he never named still has no agreed name: died in Worcester in 1934 è la morte, nella sua città. The theme he never named è "il tema che non nominò mai", quello della nota 7. Named è "chiamato per nome": name, verbo. Still has no agreed name è "non ha ancora un nome condiviso". Agreed è "concordato": an agreed name, un nome su cui si è d'accordo. No + nome è la negazione. Unnamed sarebbe l'aggettivo, un- più named, "senza nome", e la frase usa la forma lunga, he never named, perché il punto è il suo silenzio, non un'etichetta. Le proposte non mancano. Manca l'accordo, e per questo la frase dice agreed.
+
+ex1:
+- Elgar was born at Broadheath, near Worcester, in 1857.
+  it: Elgar nacque a Broadheath, vicino a Worcester, nel 1857.
+- Nimrod pictures a friend whose German name means "hunter".
+  it: Nimrod ritrae un amico il cui nome tedesco vuol dire "cacciatore".
+- He never said which theme the enigma was.
+  it: Non disse mai quale tema fosse l'enigma.
+- Land of Hope and Glory sets Benson's words to Elgar's tune.
+  it: Land of Hope and Glory mette le parole di Benson sulla melodia di Elgar.
+- He left school at fifteen and died in Worcester in 1934.
+  it: Lasciò la scuola a quindici anni e morì a Worcester nel 1934.
+
+ex2:
+- Elgar was a [self-taught] composer.
+  it: Elgar fu un compositore autodidatta.
+- The right form is Sir [Edward], not Sir Elgar.
+  it: La forma giusta è Sir Edward, non Sir Elgar.
+- The first Pomp and Circumstance march was written in [1901].
+  it: La prima marcia Pomp and Circumstance fu scritta nel 1901.
+- Benson's words were added the [next] [year].
+  it: Le parole di Benson furono aggiunte l'anno dopo.
+- He had left school at [fifteen].
+  it: Aveva lasciato la scuola a quindici anni.
+
+== 68 C1
+numeral: Lesson Sixty-Eight
+title: The oral exam
+title.it: L'esame orale
+
+dialogue:
+- "What did you do at the weekend?" asked Mrs Khan.
+  it: "Che cosa ha fatto nel fine settimana?" chiese la signora Khan.
+- "If the weather had been better, I would have gone to the coast," said Ben.
+  it: "Se il tempo fosse stato migliore, sarei andato al mare," disse Ben.
+- "If it rains, I stay in," he added, which described his habits and not that Saturday.
+  it: "Se piove, resto in casa," aggiunse, il che descriveva le sue abitudini e non quel sabato.
+- "If I were marking that," said Mrs Khan, "I would ask for the part you have left out."
+  it: "Se stessi valutando quella risposta," disse la signora Khan, "le chiederei la parte che ha tralasciato."
+- "If I had left it out on purpose, I would have prepared a second half," said Ben.
+  it: "Se l'avessi tralasciata apposta, avrei preparato una seconda metà," disse Ben.
+- She tried a shorter question. "Where do you live?"
+  it: Provò con una domanda più breve. "Dove abita?"
+- "If you take the high street and turn left, you will see the flats," he said.
+  it: "Se prende la via principale e gira a sinistra, vedrà gli appartamenti," disse lui.
+- "If you live there," she said, "a short sentence will do."
+  it: "Se abita lì," disse lei, "basta una frase breve."
+- "If short sentences were enough, I would have used one," said Ben.
+  it: "Se le frasi brevi bastassero, ne avrei usata una," disse Ben.
+- "Had you read the card," she said, "you would have described the photograph."
+  it: "Se avesse letto la scheda," disse lei, "avrebbe descritto la fotografia."
+- "If I describe it now, will it still count?" he asked.
+  it: "Se la descrivo adesso, conterà ancora?" chiese lui.
+- "If you describe it now, it will count as late," she said, "unless you also say what you did on Saturday."
+  it: "Se la descrive adesso, conterà come in ritardo," disse lei, "a meno che non dica anche che cosa ha fatto sabato."
+- "If I had done anything worth a sentence, I would be telling you about it," said Ben.
+  it: "Se avessi fatto qualcosa che merita una frase, glielo starei raccontando," disse Ben.
+- "As long as there is a verb," she said, "I can give the sentence a mark."
+  it: "Purché ci sia un verbo," disse lei, "posso dare un voto alla frase."
+- "If I stay in, I watch the football, and if we lose, I wish I had gone out."
+  it: "Se resto in casa, guardo la partita, e se perdiamo, vorrei essere uscito."
+- Mrs Khan looked at her paper. "If that is your final answer, you will have passed the conversation and failed the photograph."
+  it: La signora Khan guardò il foglio. "Se questa è la sua risposta definitiva, avrà superato la conversazione e non la fotografia."
+- "If I fail the photograph," said Ben, "what happens in June?"
+  it: "Se non supero la fotografia," disse Ben, "che cosa succede a giugno?"
+- "If you fail it, you will take it again, provided that you bring one plain fact with you."
+  it: "Se non la supera, la rifarà, a condizione che porti con sé un fatto semplice."
+- "If I come back in June," he said, "I will have been to the coast, whatever the weather."
+  it: "Se torno a giugno," disse lui, "sarò stato al mare, con qualsiasi tempo."
+
+notes.it:
+1. "What did you do at the weekend?" asked Mrs Khan. "If the weather had been better, I would have gone to the coast," said Ben: at the weekend è "nel fine settimana", in Gran Bretagna; in America si dice on the weekend. La signora Khan è l'esaminatrice, e dà del lei. Ben è il candidato, e anche lui, quando le parla, dà del lei. If the weather had been better, I would have gone è il terzo condizionale, il passato che non è successo (Fondamenti, lezione 74). If + past perfect, would have + participio. Had been è il past perfect di be. Would have gone: gone è il participio di go. Il tempo non è stato migliore, e lui non è andato al mare. La risposta è tutta ipotesi. Alla domanda "che cosa ha fatto" non ha ancora risposto.
+2. "If it rains, I stay in," he added, which described his habits and not that Saturday: if it rains, I stay in è il condizionale zero (Fondamenti, lezione 72). If + presente, e presente anche nella principale. Dice un'abitudine, o una cosa che è vera in generale: ogni volta che piove, resta in casa. Non dice che cosa è successo sabato. Which described his habits: which riprende la frase, e described è il passato del racconto. Not that Saturday è "non quel sabato". Added è "aggiunse". Lo zero non ha would e non ha will. Se si mette will, If it rains, I will stay in, diventa un progetto per una pioggia precisa, il primo condizionale, non un'abitudine.
+3. "If I were marking that," said Mrs Khan, "I would ask for the part you have left out.": if I were marking, I would ask è il secondo condizionale (Fondamenti, lezione 54). If + passato, would + forma base. Parla di adesso, di una cosa irreale: lei non sta dando il voto in questo modo, sta dicendo come lo darebbe. Were, con if, per il verbo be, è la forma dello scritto accurato, per tutte le persone. Nel parlato si sente anche if I was marking. Le due forme convivono, come con wish (lezione 66, nota 3). Mark è "valutare, correggere" un compito. The part you have left out è "la parte che ha tralasciato": leave out, "lasciare fuori". You, detto da lei a lui, è lei. Have left out è un present perfect: la parte manca adesso, perché non l'ha detta.
+4. "If you take the high street and turn left, you will see the flats," he said. "If you live there," she said, "a short sentence will do.": if you take the high street, you will see è il primo condizionale (Fondamenti, lezione 44). If + presente, will + forma base. È un futuro possibile, non un'abitudine e non un passato. Dopo if non si mette will: non "if you will take", per un fatto futuro. Take the high street è "prendere la via principale": high street è la via dei negozi, in una città britannica. Turn left è "girare a sinistra". Flats sono "appartamenti": flat in Gran Bretagna, apartment in America. If you live there è un'altra ipotesi reale: se è lì che abita. A short sentence will do è "basta una frase breve": will do è "essere sufficiente" (lezione 64, nota 14). Lei gli chiede il fatto, non l'itinerario.
+5. "If short sentences were enough, I would have used one," said Ben: le due metà non guardano lo stesso tempo, ed è un condizionale misto. If short sentences were enough è il passato del secondo condizionale: adesso le frasi brevi non bastano, secondo lui. I would have used one è il risultato del terzo: non ne ha usata una. Il presente irreale e il passato irreale possono stare nella stessa frase, quando i fatti stanno così. L'altro misto, più sotto, fa il contrario: un passato nella if e un presente nel risultato (nota 8). Were enough è "bastassero". One sta per a short sentence. Lui ha di nuovo evitato di dire dove abita.
+6. "Had you read the card," she said, "you would have described the photograph.": Had you read è If you had read, il terzo condizionale, con l'inversione e senza if. Si toglie if, e l'ausiliare va prima del soggetto: Had you read the card, you would have described the photograph. È una forma dello scritto e del parlato curato. L'ordine con if è più comune: If you had read the card, you would have described the photograph. La scheda, in un esame orale, chiede di descrivere una fotografia. Lui non l'ha descritta. Read, qui, è il participio, uguale all'infinito nella grafia: read - read - read. Il participio si dice red.
+7. "If you describe it now, it will count as late," she said, "unless you also say what you did on Saturday.": if you describe it now, it will count è di nuovo il primo condizionale. Count as è "contare come, valere come": it will count as late, "conterà come in ritardo". Unless è "a meno che", e vale if not (Fondamenti, lezione 72). Unless you also say è if you do not also say. Il verbo dopo unless è affermativo: la negazione sta in unless, e non si aggiunge un not. Unless you do not say vorrebbe dire un'altra cosa, e di solito è un errore. Also è "anche". What you did è una domanda indiretta, con l'ordine affermativo. La via d'uscita c'è: dire il sabato. Lui, nella frase dopo, non la prende.
+8. "If I had done anything worth a sentence, I would be telling you about it," said Ben: questo è l'altro misto. If I had done anything è un passato irreale: non ha fatto niente che meriti una frase. I would be telling you è un presente irreale: adesso non glielo sta raccontando. Would be telling, non would have told: il racconto sarebbe in corso ora, non chiuso nel passato. Si usa quando la condizione è passata e il risultato si vede adesso. If I had revised, I would know the answer. Worth a sentence è "che vale una frase, che merita una frase": worth + nome. Anything, dopo if, è "qualcosa, una cosa qualsiasi": il senso è che non ha fatto niente. About it è "a proposito di quello".
+9. "As long as there is a verb," she said, "I can give the sentence a mark.": as long as è "purché, a condizione che". Dice la condizione che basta. As long as there is a verb, I can give it a mark: se c'è un verbo, il voto si può dare. Non è if di un futuro incerto. È il minimo che lei accetta. Si dice anche so long as, con lo stesso senso, un po' più informale. There is a verb è "c'è un verbo". Give the sentence a mark è "dare un voto alla frase": mark è il voto, e anche il verbo della nota 3. Can, non will: lei può, non promette il massimo. La battuta è che, a forza di condizionali, un verbo in effetti c'è. Il fatto, no.
+10. "If I stay in, I watch the football, and if we lose, I wish I had gone out.": due condizionali zero, di nuovo, le abitudini. If I stay in, I watch the football: presente e presente. Football è il calcio, in Gran Bretagna. If we lose, I wish I had gone out: lose è "perdere", e wish I had gone è il rimpianto sul passato (lezione 66, nota 6). Dentro l'abitudine c'è un wish. È la prima volta, nell'esame, che dice che cosa fa: resta in casa e guarda la partita. We è la squadra, o lui con chi guarda. La signora Khan, nella frase dopo, prende questa come la risposta.
+11. Mrs Khan looked at her paper. "If that is your final answer, you will have passed the conversation and failed the photograph.": if that is your final answer, you will have passed è un primo condizionale, e il risultato è un future perfect: will have + participio. Il future perfect dice che, a quel punto, la cosa è già fatta. Se questa è la risposta definitiva, la conversazione risulta superata e la fotografia no. Passed e failed dividono lo stesso will have: will have passed and (will have) failed. Final è "definitivo". The conversation è la parte di domande sulla sua vita. The photograph è la scheda. Ha parlato abbastanza da passare una parte, e non ha descritto la foto. Paper è "il foglio" dell'esaminatrice.
+12. "If you fail it, you will take it again, provided that you bring one plain fact with you." "If I come back in June," he said, "I will have been to the coast, whatever the weather.": if you fail it, you will take it again è un primo condizionale. Fail è "non superare" una prova: you fail it, "non la supera". Detto dall'esaminatrice, fail è "bocciare": she fails you, "la boccia". Take it again è "rifarla". Provided that è "a condizione che, purché", più formale di as long as (nota 9), e introduce un requisito: one plain fact, "un fatto semplice", non un'ipotesi. Plain è "semplice, chiaro". If I come back in June, I will have been to the coast: di nuovo il primo condizionale, con il future perfect. Will have been to è "sarò stato a": been to, "stato in un posto". Prima di giugno il viaggio, nella sua ipotesi, è già fatto. Whatever the weather è "con qualsiasi tempo": whatever è "qualunque". La prima risposta dipendeva dal tempo. L'ultima dice che il tempo non conterà. È la battuta, ed è ancora un condizionale.
+
+ex1:
+- If the weather had been better, Ben would have gone to the coast.
+  it: Se il tempo fosse stato migliore, Ben sarebbe andato al mare.
+- If he stays in, he watches the football.
+  it: Se resta in casa, guarda la partita.
+- Had he read the card, he would have described the photograph.
+  it: Se avesse letto la scheda, avrebbe descritto la fotografia.
+- If he fails the photograph, he will take it again.
+  it: Se non supera la fotografia, la rifarà.
+- If he comes back in June, he will have been to the coast.
+  it: Se torna a giugno, sarà stato al mare.
+
+ex2:
+- If it [rains], he [stays] in.
+  it: Se piove, resta in casa.
+- It will count as late, [unless] he also says what he did on Saturday.
+  it: Conterà come in ritardo, a meno che non dica anche che cosa ha fatto sabato.
+- [Had] he read the card, he [would] have described the photograph.
+  it: Se avesse letto la scheda, avrebbe descritto la fotografia.
+- As [long] [as] there is a verb, she can give the sentence a mark.
+  it: Purché ci sia un verbo, può dare un voto alla frase.
+- If he comes back in June, he [will] [have] been to the coast.
+  it: Se torna a giugno, sarà già stato al mare.
+
+== 69 C1
+numeral: Lesson Sixty-Nine
+title: Dear reader
+title.it: Caro lettore
+
+dialogue:
+- Dear reader,
+  it: Caro lettore,
+- If you are reading this, you have sat through queues, a bank, a ghost and a barbecue, and you are still here.
+  it: Se stai leggendo questo, hai attraversato code, una banca, un fantasma e un barbecue, e sei ancora qui.
+- One lesson remains after this letter, and it is a revision, so the goodbye comes a page early.
+  it: Dopo questa lettera resta una lezione, ed è un ripasso, quindi l'addio arriva una pagina prima.
+- You know enough now to read without a course standing at your elbow.
+  it: Adesso ne sai abbastanza per leggere senza un corso accanto al gomito.
+- Take a British newspaper, and read one article a day, not the whole paper.
+  it: Prendi un giornale britannico, e leggi un articolo al giorno, non tutto il giornale.
+- Do not stop at the first word you do not know. Finish the sentence, and then see whether you needed it.
+  it: Non fermarti alla prima parola che non conosci. Finisci la frase, e poi guarda se ti serviva.
+- For a novel, choose a short one, or one you have already read in Italian, and let the story carry the words.
+  it: Per un romanzo, scegline uno breve, o uno che hai già letto in italiano, e lascia che la storia porti le parole.
+- For the ear, use the radio. A news bulletin takes a few minutes, a play takes longer, and both will be faster than a lesson.
+  it: Per l'orecchio, usa la radio. Un notiziario dura pochi minuti, un radiodramma dura di più, e tutti e due saranno più veloci di una lezione.
+- Read a little of it aloud, as you did here, so that your mouth keeps the habit your eyes have learnt.
+  it: Leggine un poco ad alta voce, come hai fatto qui, così la bocca tiene l'abitudine che gli occhi hanno imparato.
+- When a sentence is difficult, read it a second time before you look anything up.
+  it: Quando una frase è difficile, leggila una seconda volta prima di andare a cercare qualcosa.
+- Mastery, if you go on to it, brings longer texts, of the kind you meet in books and in print, and at the end of each lesson a task where you write.
+  it: Padronanza, se ci prosegui, porta testi più lunghi, del tipo che incontri nei libri e sulla pagina stampata, e alla fine di ogni lezione un compito in cui scrivi.
+- The notes there spend their time on what a sentence means, and on what it does not say.
+  it: Lì le note passano il tempo su quello che una frase vuol dire, e su quello che non dice.
+- The active wave of this course does not stop with this letter. It goes on, one lesson a day, until it has brought back lesson seventy.
+  it: L'onda attiva di questo corso non si ferma con questa lettera. Continua, una lezione al giorno, finché non avrà ripreso anche la lezione settanta.
+- If you have begun Mastery by then, the old lessons will keep coming back while the new ones start.
+  it: Se nel frattempo avrai cominciato Padronanza, le lezioni vecchie continueranno a tornare mentre cominciano le nuove.
+- You do not have to be perfect at any of this. You have to continue on the days when the English looks ordinary.
+  it: Non devi essere perfetto in niente di tutto questo. Devi continuare nei giorni in cui l'inglese ti sembra ordinario.
+- If a headline makes sense, and a joke makes you smile before you have translated it, the course has done what it came to do.
+  it: Se un titolo di giornale si capisce, e una battuta ti fa sorridere prima che tu l'abbia tradotta, il corso ha fatto quello per cui è venuto.
+- The reading you do after this has no exercises underneath it, which you may take as a promotion.
+  it: La lettura che farai dopo non ha esercizi sotto, e puoi prenderlo come una promozione.
+- Yours, with thanks for staying until the end.
+  it: Tuo, con un grazie per essere rimasto fino alla fine.
+
+notes.it:
+1. Dear reader,: è l'apertura di una lettera, e reader è "lettore". Non c'è un cognome, e non c'è Dear Sir. Il corso ti dà del tu, come nella lezione 2, perché vi state scrivendo da sessantanove lezioni. Una banca, a una cliente che non conosce, dà del lei e scrive Dear Ms Hart (lezione 48, nota 2). Qui il tu resta tu per tutta la lettera. Dopo Dear reader si può mettere la virgola, e il corpo comincia a capo.
+2. If you are reading this, you have sat through queues, a bank, a ghost and a barbecue, and you are still here: if you are reading this è "se stai leggendo questo", un presente per una condizione reale. Have sat through è "hai attraversato, hai sopportato fino in fondo": sit through a meeting, "stare fino alla fine di una riunione". Queues, a bank, a ghost and a barbecue sono pezzi del corso: le code, la banca, il fantasma della pensione, il barbecue sotto la pioggia. Still here è "ancora qui". La frase non fa l'elenco di tutte le lezioni. Dice che sei arrivato fin qua.
+3. One lesson remains after this letter, and it is a revision, so the goodbye comes a page early: remains è "resta". After this letter è "dopo questa lettera". A revision è un ripasso, come le lezioni 7, 14, 21, e così via, fino a questa settimana: la prossima, la settanta, non ha un testo nuovo. So the goodbye comes a page early: l'addio arriva prima dell'ultima pagina, perché l'ultima è il riordino. A page early è "con una pagina di anticipo". È la battuta di apertura. Il commiato non aspetta il sipario.
+4. You know enough now to read without a course standing at your elbow. Take a British newspaper, and read one article a day, not the whole paper: enough to read è "abbastanza per leggere": enough + to + forma base. Standing at your elbow è "in piedi accanto al gomito", cioè vicino, a suggerirti le parole. Senza il corso, il giornale non ha note. Take è un imperativo, il tu. A British newspaper è un giornale britannico: l'inglese di questo corso è quello, e un giornale di Londra o di una città britannica ti dà le parole che hai già visto, più quelle del giorno. One article a day è "un articolo al giorno": a day vale "al giorno". Not the whole paper: paper, qui, è "il giornale", e whole è "tutto intero". Un articolo basta. Il giornale intero è il modo di smettere il secondo giorno.
+5. Do not stop at the first word you do not know. Finish the sentence, and then see whether you needed it: do not stop at è "non fermarti a". The first word you do not know è "la prima parola che non conosci": you do not know è una relativa con il pronome omesso, the word (that) you do not know. Finish the sentence è "finisci la frase". See whether è "guarda se": whether introduce una alternativa, "se sì o se no", e see if si dice anche, un po' più informale. Whether you needed it: it è la parola. Spesso, arrivato in fondo, il senso c'era già. Needed è il passato di need, qui un verbo ordinario, "aver bisogno", non il modale needn't.
+6. For a novel, choose a short one, or one you have already read in Italian, and let the story carry the words. For the ear, use the radio. A news bulletin takes a few minutes, a play takes longer, and both will be faster than a lesson: a novel è "un romanzo". Choose a short one: one sta per novel. Or one you have already read in Italian: un libro di cui conosci già la storia. Let the story carry the words è "lascia che la storia porti le parole": le parole che non sai si appoggiano a quello che sta succedendo. For the ear è "per l'orecchio", cioè per sentire, non per vedere. A news bulletin è "un notiziario", pochi minuti. A play è "un radiodramma, una commedia" alla radio. Takes a few minutes è "dura pochi minuti": take, per il tempo (lezione 1, nota 10). Both will be faster: both sono il notiziario e il dramma. Faster than a lesson: più veloci di una lezione di questo corso, che puoi fermare. La radio no, o non allo stesso modo.
+7. Read a little of it aloud, as you did here, so that your mouth keeps the habit your eyes have learnt: read aloud è "leggere ad alta voce" (Fondamenti, lezione 99: aloud), ed è il consiglio della lezione 2, nota 4. A little of it è "un poco di quello": it è il giornale, il romanzo o la radio, quello che stai usando. As you did here è "come hai fatto qui": did sostituisce read aloud. So that dà lo scopo (lezione 2, nota 4). Your mouth keeps the habit è "la bocca tiene l'abitudine". Your eyes have learnt è un present perfect: gli occhi hanno già imparato, in queste lezioni. La bocca deve continuare. Habit è "abitudine".
+8. When a sentence is difficult, read it a second time before you look anything up. Mastery, if you go on to it, brings longer texts, of the kind you meet in books and in print, and a task at the end, where you write: a second time è "una seconda volta". Before you look anything up: look up è "cercare" una parola, in un dizionario o in un elenco, e anything è "qualcosa, una cosa qualsiasi": prima di cercare qualunque cosa. Il secondo passaggio fa spesso il lavoro del dizionario. Mastery, in italiano Padronanza, è il corso dopo questo: dal C1 verso il C2. If you go on to it è "se ci prosegui", e non è un obbligo. Longer texts è "testi più lunghi". Of the kind you meet in books and in print: in print è "a stampa, sulla pagina", articoli, saggi, pagine di libro. At the end of each lesson a task è "alla fine di ogni lezione un compito": task è un lavoro da fare, e where you write dice che non basta riconoscere. Scrivi.
+9. The notes there spend their time on what a sentence means, and on what it does not say. The active wave of this course does not stop with this letter. It goes on, one lesson a day, through lesson seventy: spend their time on è "passare il tempo su, dedicarlo a". What a sentence means è "quello che una frase vuol dire". What it does not say è "quello che non dice": l'ironia, il tono, la cosa lasciata fuori. È il lavoro del corso successivo, detto in una riga, non in un manuale. The active wave è "l'onda attiva", l'onda di questo corso (lezione 2, nota 7). Does not stop with this letter: with è "con, a questa lettera". One lesson a day è "una lezione al giorno". Until it has brought back lesson seventy è "finché non avrà ripreso la lezione settanta": until + present perfect, per un fatto futuro che chiude l'attesa. Dopo until non si mette will. La settanta è il ripasso, e l'onda riprende anche quello, quarantanove giorni dopo.
+10. If you have begun Mastery by then, the old lessons will keep coming back while the new ones start: by then è "per allora, nel frattempo", prima che l'onda arrivi alla settanta. If you have begun è un present perfect dopo if, per una cosa che sarà già successa: "se avrai cominciato". Dopo if non si mette will. L'onda di questo corso continua anche allora: le lezioni già fatte tornano, una al giorno, mentre quelle di Padronanza cominciano. Keep coming back è "continuare a tornare". While the new ones start: ones sta per lessons, e while è "mentre". Il vecchio non si chiude per far posto al nuovo. Non c'è, in questa lettera, una spiegazione di come l'onda si presenta. Quella sta nella lezione 49. Qui si dice solo che non finisce.
+11. You do not have to be perfect at any of this. You have to continue on the days when the English looks ordinary. If a headline makes sense, and a joke makes you smile before you have translated it, the course has done what it came to do: do not have to è "non sei obbligato a". Perfect at è "perfetto in". Any of this è "niente di tutto questo", con any nella frase negativa. Have to continue è un obbligo più piccolo: continuare. On the days when è "nei giorni in cui". Looks ordinary è "sembra ordinario": ordinary è "comune, di tutti i giorni". Quei giorni sono il segno che l'inglese sta diventando normale, non il segno che non c'è più niente da fare. A headline è "un titolo" di giornale. Makes sense è "si capisce, ha senso". A joke makes you smile è "una battuta ti fa sorridere": make someone smile. Before you have translated it è "prima di averla tradotta": il sorriso arriva sull'inglese, non sulla traduzione. What it came to do è "quello che era venuto a fare". Il corso, come soggetto, è venuto a portarti fin lì.
+12. The reading you do after this has no exercises underneath it, which you may take as a promotion. Yours, with thanks for staying until the end: the reading you do è "la lettura che fai", fuori dal corso. Underneath it è "sotto di essa": underneath è "sotto", un po' più fisico di under. No exercises è "niente esercizi". Which riprende tutta la frase. Take as è "prendere come, considerare": take it as a compliment, "prendilo come un complimento". A promotion è "una promozione", il grado sopra. May è "puoi", il permesso. La battuta è che gli esercizi, finiti, erano il grado inferiore. Yours è la chiusura. In una lettera formale, con il nome, si scrive Yours sincerely o Yours faithfully (lezione 48, nota 2). Qui non c'è un nome da firmare: il corso non ne ha uno. Yours, with thanks è una chiusura calda, e until the end è "fino alla fine". Staying è "essere rimasto". La lettera si ferma qui. Il ripasso viene dopo, e non è un altro addio.
+
+ex1:
+- Read one article a day, not the whole newspaper.
+  it: Leggi un articolo al giorno, non tutto il giornale.
+- Choose a short novel, or one you have already read in Italian.
+  it: Scegli un romanzo breve, o uno che hai già letto in italiano.
+- Read a little of it aloud, so that your mouth keeps the habit.
+  it: Leggine un poco ad alta voce, così la bocca tiene l'abitudine.
+- The active wave goes on, one lesson a day, until it has brought back lesson seventy.
+  it: L'onda attiva continua, una lezione al giorno, finché non avrà ripreso la lezione settanta.
+- Mastery brings longer texts, and at the end of each lesson a task where you write.
+  it: Padronanza porta testi più lunghi, e alla fine di ogni lezione un compito in cui scrivi.
+
+ex2:
+- Do not stop at the first word you do not [know].
+  it: Non fermarti alla prima parola che non conosci.
+- A news [bulletin] takes a few minutes.
+  it: Un notiziario dura pochi minuti.
+- Read the difficult sentence a [second] [time] before you look it up.
+  it: Leggi la frase difficile una seconda volta prima di cercarla.
+- The wave goes on until it has brought back lesson [seventy].
+  it: L'onda continua finché non avrà ripreso la lezione settanta.
+- You may take the lack of exercises as a [promotion].
+  it: Puoi prendere la mancanza di esercizi come una promozione.
+
+== 70 C1
+kind: revision
+numeral: Lesson Seventy
+title: Revision
+title.it: Ripasso
+
+notes.it:
+L'ultima settimana del corso: i Caraibi, un fantasma che finisce sul conto, l'estate britannica, Edward Elgar, un esame orale fatto tutto di condizionali, e la lettera di commiato. Come nei ripassi precedenti, qui non c'è niente da imparare a memoria. Le tabelle mettono in fila quello che hai già letto, e le lezioni 64-69 sono il serbatoio. I wish dell'estate e i condizionali dell'esame non hanno una tabella loro: stanno negli esercizi, e le lezioni restano lì. Leggi le tabelle una volta, poi fai i dieci esercizi in fondo.
+
+1. La formazione delle parole (lezione 67). Un prefisso sta davanti e cambia il senso. Un suffisso sta dietro e spesso cambia anche la categoria: da un verbo si fa un nome, da un nome una persona. Il trattino c'è con self-, e di solito non c'è con re- e con un-. Nessuno di questi pezzi ha un solo senso per tutte le parole. Qui ci sono quelli del testo di Elgar.
+
+| Pezzo | Che cosa fa, di solito | Esempio del testo | Dove |
+|---|---|---|---|
+| self- | da sé, a sé | self-taught | lezione 67, nota 1 |
+| un- | il contrario, davanti a un aggettivo | unsuccessful | lezione 67, nota 4 |
+| re- | di nuovo | reused | lezione 67, nota 9 |
+| -er | chi fa l'azione | composer, da compose | lezione 67, nota 1 |
+| -ist | chi pratica un'attività | violinist | lezione 67, nota 2 |
+| -hood | uno stato, un periodo | childhood, knighthood | lezione 67, note 3 e 8 |
+| -ful | che ha, pieno di | successful | lezione 67, nota 4 |
+| -ment | un nome da un verbo | encouragement | lezione 67, nota 4 |
+| -ation | un nome da un verbo | variation, da vary | lezione 67, nota 5 |
+| -ship | un rapporto, uno stato | friendship, da friend | lezione 67, nota 5 |
+| -wide | esteso a | worldwide | lezione 67, nota 11 |
+
+Un- davanti a un verbo non è lo stesso lavoro: unlock è "aprire ciò che è chiuso" (lezione 43, nota 6). Re- l'avevi già visto con rebuilt (lezione 18, nota 4). Self-taught si scrive con il trattino. Reused no.
+
+2. Le famiglie di verbi del corso. Nove verbi, e per ognuno la lezione ha l'elenco intero, con la frase e la nota. Qui una riga per verbo, non l'elenco. Se un senso non ti torna, è quella nota che lo spiega, non questa tabella.
+
+| Verbo | Alcuni sensi, fra i tanti | L'elenco |
+|---|---|---|
+| take | take a break, take off, take your time | lezione 1, nota 21 |
+| put | put up with, put off, put your foot in it | lezione 9, nota 22 |
+| go | go on, go without, go Dutch | lezione 15, nota 24 |
+| come | come across, come up with, come in handy | lezione 25, nota 19 |
+| turn | turn up, turn out, turn down | lezione 33, nota 27 |
+| run | run a firm, run out of, in the long run | lezione 40, nota 22 |
+| break | break down, break the ice, break even | lezione 45, nota 18 |
+| keep | keep an eye on, keep your head, keep in touch | lezione 53, nota 17 |
+| mind | mind the gap, never mind, mind you | lezione 60, nota 20 |
+
+Il pronome, nei verbi che si separano, sta in mezzo: take it off, put it off. Non si separano take after, put up with, come across. Mind you non chiede di badare: aggiunge una riserva (lezione 60, nota 5).
+
+3. L'inversione e l'enfasi (lezione 65, e un caso dell'esame). Si mette in testa una parola che di solito sta più avanti, e l'ausiliare passa prima del soggetto. Non è una domanda. L'ordine senza inversione è quello del parlato di tutti i giorni. L'inversione è del racconto e dello scritto che vuole battere un colpo.
+
+| In testa | Ordine | Esempio del testo | Dove |
+|---|---|---|---|
+| no sooner ... than | had + soggetto, poi il past simple | No sooner had he turned out the light than a cold draught crossed the bed | lezione 65, nota 3 |
+| hardly ... when | lo stesso schema, con when | Hardly had he pulled the blanket up when a faint voice said | lezione 65, nota 4 |
+| never before | ausiliare + soggetto | Never before has it taken an order | lezione 65, nota 6 |
+| not only | do + soggetto + forma base, se non c'è un ausiliare | Not only do the dearer rooms have a view | lezione 65, nota 8 |
+| little | did + soggetto + forma base | Little did he know | lezione 65, nota 9 |
+| only + tempo | did + soggetto + forma base | Only then did Mrs Dodd look sorry | lezione 65, nota 10 |
+| so + aggettivo | be + soggetto, poi that e il risultato | So low was the ghost's fee that most guests paid it | lezione 65, nota 11 |
+| had, senza if | terzo condizionale invertito | Had you read the card, you would have described the photograph | lezione 68, nota 6 |
+
+Dopo no sooner si usa than, dopo hardly si usa when (lezione 6, note 2 e 3). Never before ha il present perfect se si parla da adesso, come fa la signora Dodd. Had you read vale If you had read, ed è la stessa inversione, applicata a un condizionale. In frasi come In 1899 came the Enigma Variations, il soggetto, se è un nome, sta dopo il verbo; un pronome no: In 1899 they came (lezione 67, nota 5).
+
+4. Il registro, dal formale all'informale. Il registro è il grado di ufficialità, non un'altra grammatica. Le stesse notizie si possono dire in più modi. In questa settimana il grado cambia con il testo.
+
+| Grado | Come si riconosce | Esempio del testo | Dove |
+|---|---|---|---|
+| scritto neutro, biografia | frasi intere, niente contrazioni, il fatto prima del commento | A knighthood came in 1904 | lezione 67, nota 8 |
+| lettera a chi si conosce | il tu, forme intere, chiusura senza la formula della banca | Dear reader, / Yours, with thanks | lezione 69, note 1 e 12 |
+| esame, parlato curato | frasi complete, condizionali, niente slang | If that is your final answer, you will have passed the conversation | lezione 68, nota 11 |
+| lavoro, cortese | il prezzo detto con calma, come un extra | That is why it is a line on the bill | lezione 65, nota 7 |
+| casa, informale | understatement, una frase fatta | "Quite pleasant." "Lovely weather for it." | lezione 66, note 2 e 12 |
+
+L'understatement dice meno del fatto: quite pleasant, con la goccia sulla salsiccia, è vero e troppo piccolo (lezione 66, nota 2). L'ironia dice una cosa e la giornata ne dice un'altra: lovely weather, dopo la pioggia e la scottatura, può essere il contrario, o i dieci minuti di sole, e la frase non sceglie (lezione 66, nota 12). Il patois della lezione 64 non è "l'inglese informale". È una varietà con regole sue (lezione 64, nota 12).
+
+Il corso si ferma a questa lezione. L'onda no: continua, una lezione al giorno, finché non avrà ripreso anche questa lezione, e intanto puoi cominciare Padronanza (lezione 69, note 9 e 10). La lettura, da qui, non ha esercizi sotto. Quella era la promozione.
+
+ex1:
+- Elgar was a self-taught composer from Worcestershire.
+  it: Elgar fu un compositore autodidatta del Worcestershire.
+- No sooner had Mr Hale turned out the light than a draught crossed the bed.
+  it: Non appena il signor Hale ebbe spento la luce, un refolo attraversò il letto.
+- Mrs Glover wished it were not raining on the coals.
+  it: La signora Glover avrebbe voluto che non piovesse sulla brace.
+- If it rains, Ben stays in.
+  it: Se piove, Ben resta in casa.
+- The active wave goes on after the last lesson.
+  it: L'onda attiva continua dopo l'ultima lezione.
+
+ex2:
+- The tune was [reused] the next year.
+  it: La melodia fu riutilizzata l'anno dopo.
+- [Never] [before] has the ghost taken an order.
+  it: Mai prima d'ora il fantasma ha preso un'ordinazione.
+- If only the sun [would] take its [time].
+  it: Se solo il sole si prendesse il suo tempo.
+- [Had] he read the card, he would have described the photograph.
+  it: Se avesse letto la scheda, avrebbe descritto la fotografia.
+- [Little] did he know that the silence had been booked.
+  it: Non sapeva che il silenzio era già stato prenotato.

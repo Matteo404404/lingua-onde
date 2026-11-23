@@ -176,7 +176,8 @@ impl App {
         // The contents in the book's order: what comes before the lessons,
         // the lessons, and what comes at the end of the book.
         // Only Foundation has a pronunciation key among its pages, as in the
-        // books; Perfectionnement marks irregular stress in its notes.
+        // books; Perfectionnement marks irregular stress in its notes, and its
+        // book ends with expressions only, no word list.
         let foundation = self.courses.get(ci).is_none_or(|c| c.stage.is_none_or(|s| s == Stage::Foundation));
         ui.horizontal_wrapped(|ui| {
             for (k, (part, pages)) in parts().iter().enumerate() {
@@ -188,7 +189,7 @@ impl App {
                 ui.vertical(|ui| {
                     ui.label(theme::caps(part));
                     ui.horizontal(|ui| {
-                        for &i in pages.iter().filter(|&&i| foundation || i != 1) {
+                        for &i in pages.iter().filter(|&&i| foundation || (i != 1 && i != 5)) {
                             if ui.selectable_label(self.appendix_ui.tab == i, medium(page_names()[i]).size(15.0)).clicked() {
                                 self.appendix_ui.tab = i;
                             }

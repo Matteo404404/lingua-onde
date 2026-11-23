@@ -137,10 +137,15 @@ two waves never pile up. The same holds from Perfectionnement to Mastery.
 A course only carries the active wave of lessons the learner has studied:
 someone who starts directly from Perfectionnement has no Foundation wave.
 
-Around the lessons, as in the books: an introduction (the language, advice,
-the two waves), offered before lesson 1; the pronunciation key; and at the
+Around the lessons, in the books' order: an introduction (the language,
+advice, the two waves), read before lesson 1 (a new learner is led through it,
+and can skip it); in Foundation the pronunciation key; the lessons; and at the
 end a grammar appendix, a grammar index, a two-way word index and an index of
 expressions, each entry with its lessons (`content/<lang>/appendix-<stage>.<base>.txt`).
+Perfectionnement follows the Assimil Perfectionnement volumes (Spanish,
+German): introduction (what the course is for, for whom, how it is laid out,
+advice for the first pass, the second wave, the notes, the revisions), no
+pronunciation key, and at the end a grammar appendix and a grammar index.
 The recordings of the books start slowly and reach a natural pace towards
 the end; the app's voice does the same in Foundation, natural from lesson 50.
 

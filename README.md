@@ -105,7 +105,7 @@ Progress is stored in `~/.local/share/lingua-onde/` (progress, your own
 courses, downloaded voices). `LINGUA_ONDE_HOME` overrides that folder.
 
 `--screenshot <file.png>` opens the window without focus, draws about 120
-frames, saves a picture and exits. `--open home|courses|settings|guide|study[:step]|editor[:lesson]|review[:tab[:search]]|appendix[:tab]`
+frames, saves a picture and exits. `--open home|courses|settings|guide|study[:step]|editor[:lesson]|review[:tab[:search]]|appendix[:page]` (0–6: introduction, pronunciation, lessons, grammar, index, words, expressions)
 opens one screen directly (`guide` is the pronunciation guide), and `--size 950x520` sets the window size (a
 narrow window shows the icon-only side bar). `--check <file>...` checks
 lesson files against the built-in rules and prints what is missing.
@@ -143,10 +143,13 @@ wave of lesson *n* comes due when you finish lesson *n + 49* (Settings,
 also alongside the next course of the language, until every lesson you studied
 has been rebuilt.
 
-The book (side menu) holds what the Assimil volumes print around the lessons:
-the introduction (how to study, the two waves), the pronunciation key, and at
-the end a grammar summary, a grammar index, the words in both directions and
-the expressions, each with the lessons where they are met. The synthetic voice
+The book (side menu) is laid out like an Assimil volume: before the lessons
+the introduction (how to study, the two waves) and, in Foundation, the
+pronunciation key; then the list of lessons; and at the end a grammar summary,
+a grammar index, the words in both directions and the expressions, each with
+the lessons where they are met. A new learner is taken through the
+introduction before lesson 1 (with a link to skip it). The side bar's
+"Change course" menu switches language or course from any screen. The synthetic voice
 is slower in Foundation's first lessons and reaches the natural pace at lesson
 50, as the books' recordings do (Settings, "Gradual pace"). On a day without
 time, Home offers the last dialogue to listen to and repeat.

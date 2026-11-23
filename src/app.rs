@@ -115,9 +115,9 @@ impl App {
             }
             Some("settings") => app.screen = Screen::Settings,
             Some(s) if s.starts_with("appendix") => {
-                // "appendix" or "appendix:<tab>": introduction, pronunciation, grammar, index, words, expressions.
+                // "appendix" or "appendix:<page>": introduction, pronunciation, lessons, grammar, index, words, expressions.
                 app.screen = Screen::Appendix;
-                app.appendix_ui.tab = s.split(':').nth(1).and_then(|n| n.parse().ok()).unwrap_or(0).min(5);
+                app.appendix_ui.tab = s.split(':').nth(1).and_then(|n| n.parse().ok()).unwrap_or(0).min(6);
             }
             Some(s) if s.starts_with("study") => {
                 // "study" or "study:<step>" — used to check a screen quickly.
@@ -336,6 +336,30 @@ impl App {
         }
     }
 
+    /// As in the books, a new learner reads the introduction before lesson 1:
+    /// true while the active course has one and nothing is done or skipped yet.
+    pub fn needs_intro(&self, ci: usize) -> bool {
+        ci == self.active()
+            && self.done_count(ci) == 0
+            && !self.saved.read_intro.contains(&self.courses[ci].id)
+            && self.appendix().is_some_and(|a| !a.intro.is_empty())
+    }
+
+    /// Opens the book at one of its pages (see `appendix::Page`).
+    pub fn open_book(&mut self, page: usize) {
+        self.appendix_ui.tab = page;
+        self.go(Screen::Appendix);
+    }
+
+    /// Marks the introduction as read and starts the first lesson.
+    pub fn begin_course(&mut self, ci: usize) {
+        self.saved.read_intro.insert(self.courses[ci].id.clone());
+        self.mark_dirty();
+        if let Some(li) = self.next_lesson(ci) {
+            self.start_session(ci, li);
+        }
+    }
+
     pub fn done_count(&self, ci: usize) -> usize {
         let c = &self.courses[ci];
         c.lessons.iter().filter(|l| self.saved.is_done(&c.lesson_key(l.number))).count()
@@ -543,6 +567,12 @@ impl App {
     pub fn go(&mut self, screen: Screen) {
         if screen == Screen::Study && self.session.is_none() {
             let ci = self.active();
+            if self.needs_intro(ci) {
+                self.say("As in the book, the introduction comes before lesson 1.");
+                self.appendix_ui.tab = 0;
+                self.screen = Screen::Appendix;
+                return;
+            }
             match self.next_lesson(ci) {
                 Some(li) => self.start_session(ci, li),
                 None => {
@@ -774,8 +804,22 @@ impl App {
                             .stroke(egui::Stroke::NONE)
                             .corner_radius(12)
                             .min_size(egui::vec2(220.0, 46.0));
+                            let intro_first = self.needs_intro(ci);
+                            let start = if intro_first {
+                                egui::Button::new(medium("📖  Start with the introduction").size(16.5).color(ACCENT_DARK))
+                                    .fill(Color32::WHITE)
+                                    .stroke(egui::Stroke::NONE)
+                                    .corner_radius(12)
+                                    .min_size(egui::vec2(220.0, 46.0))
+                            } else {
+                                start
+                            };
                             if ui.add(start).clicked() {
-                                self.start_session(ci, li);
+                                if intro_first {
+                                    self.open_book(0);
+                                } else {
+                                    self.start_session(ci, li);
+                                }
                             }
                             if due > 0 {
                                 let review = egui::Button::new(medium(format!("⟳  Review {due} sentences")).color(Color32::WHITE))
@@ -789,17 +833,19 @@ impl App {
                             }
                         });
                         // As in the books, the introduction comes before lesson 1.
-                        if self.done_count(ci) == 0 && self.appendix().is_some_and(|a| !a.intro.is_empty()) {
+                        if self.needs_intro(ci) {
                             ui.add_space(6.0);
-                            let read = egui::Button::new(
-                                RichText::new("📖  New here? Read the introduction first: how the course works, in ten minutes.")
+                            ui.label(
+                                RichText::new("New here? The introduction comes first, as in the book: ten minutes on how the course works.")
                                     .size(14.0)
                                     .color(light),
+                            );
+                            let skip = egui::Button::new(
+                                RichText::new("I already know the method: start lesson 1").size(13.5).color(light).underline(),
                             )
                             .frame(false);
-                            if ui.add(read).clicked() {
-                                self.appendix_ui.tab = 0;
-                                self.go(Screen::Appendix);
+                            if ui.add(skip).clicked() {
+                                self.begin_course(ci);
                             }
                         }
                         // The books' advice for a day without time: a few minutes with
@@ -908,6 +954,17 @@ impl App {
                                 })
                                 .color(light),
                             );
+                        }
+                        // The book ends with its appendix: the grammar to look back on.
+                        if self.appendix().is_some_and(|a| !a.grammar.is_empty()) {
+                            ui.add_space(6.0);
+                            let book = egui::Button::new(
+                                RichText::new("📖  The end of the book: the grammar summary and the indexes").size(14.0).color(light),
+                            )
+                            .frame(false);
+                            if ui.add(book).clicked() {
+                                self.open_book(3);
+                            }
                         }
                     }
                 }

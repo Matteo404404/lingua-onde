@@ -295,6 +295,9 @@ pub struct Saved {
     pub lessons: BTreeMap<String, LessonProgress>,
     pub cards: BTreeMap<String, Card>,
     pub days: BTreeMap<String, DayLog>,
+    /// Courses whose introduction the learner has been through (or skipped),
+    /// so lesson 1 no longer sends them to it first.
+    pub read_intro: std::collections::BTreeSet<String>,
 }
 
 impl Default for Saved {
@@ -317,6 +320,7 @@ impl Default for Saved {
             lessons: BTreeMap::new(),
             cards: BTreeMap::new(),
             days: BTreeMap::new(),
+            read_intro: Default::default(),
         }
     }
 }

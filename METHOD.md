@@ -145,7 +145,8 @@ expressions, each entry with its lessons (`content/<lang>/appendix-<stage>.<base
 Perfectionnement follows the Assimil Perfectionnement volumes (Spanish,
 German): introduction (what the course is for, for whom, how it is laid out,
 advice for the first pass, the second wave, the notes, the revisions), no
-pronunciation key, and at the end a grammar appendix and a grammar index.
+pronunciation key, and at the end a grammar appendix and a grammar index,
+plus the expressions of its word lessons (no word list).
 The recordings of the books start slowly and reach a natural pace towards
 the end; the app's voice does the same in Foundation, natural from lesson 50.
 

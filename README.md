@@ -15,7 +15,9 @@ with pinyin, Latin with vowel lengths, and Vietnamese). They are being written
 one pair of languages at a time: English for Italian speakers first
 (Foundation is complete: 100 lessons with translations and notes in Italian,
 an introduction, and an appendix with the grammar, a grammar index, the words
-both ways and the expressions),
+both ways and the expressions; Perfectionnement is complete too: 70 lessons,
+an introduction, and an appendix with the grammar, a grammar index and the
+expressions),
 then Spanish for Italian speakers (its first week, lessons 1–7, is rewritten
 for them). The other languages except Dutch have 13 sample lessons (lessons
 1–8, 26, 51 and 76 of Foundation, one lesson each of Perfectionnement and
@@ -148,8 +150,8 @@ has been rebuilt.
 The book (side menu) is laid out like an Assimil volume: before the lessons
 the introduction (how to study, the two waves) and, in Foundation, the
 pronunciation key; then the list of lessons; and at the end a grammar summary,
-a grammar index, the words in both directions and the expressions, each with
-the lessons where they are met. A new learner is taken through the
+a grammar index, the words in both directions (Foundation only) and the
+expressions, each with the lessons where they are met. A new learner is taken through the
 introduction before lesson 1 (with a link to skip it). The side bar's
 "Change course" menu switches language or course from any screen. The synthetic voice
 is slower in Foundation's first lessons and reaches the natural pace at lesson

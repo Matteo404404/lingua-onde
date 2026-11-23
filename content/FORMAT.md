@@ -92,6 +92,30 @@ still lacks to be finished: the figured pronunciation of lessons 1–28, the
 revision lesson of every 7th place, the lesson references of a revision
 dialogue, the open tasks of a Mastery lesson.
 
+## The app's own words
+
+`content/ui/<base>.txt` translates the app's interface (buttons, menus,
+messages) for learners whose language is `<base>`; a language without a file
+sees the English. The file holds pairs of lines, the English text exactly as
+it is written in the code and then its translation, with a blank line between
+pairs. Lines starting with `#` are comments, and `\n` stands for a line break.
+`{0}`, `{1}`... are filled in by the app (a number, a lesson, a language) and
+must all appear in the translation, in any order. A count has two entries,
+singular and plural (`{0} lesson`, `{0} lessons`).
+
+```
+Today's lesson
+Lezione di oggi
+
+Lesson {0} of {1}
+Lezione {0} di {1}
+```
+
+The code looks texts up with `tr("...")`, `trf("...", &[...])` and
+`plural(n, "...", "...")` (`src/i18n.rs`); `cargo test` fails when a text in
+the code has no entry in a table, when an entry is no longer used, or when
+the `{0}` places differ. A new table is added to `TABLES` in `src/i18n.rs`.
+
 ## Example
 
 ```

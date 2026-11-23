@@ -189,7 +189,8 @@ format is in `content/FORMAT.md`.
   answer check. `src/editor.rs` My lessons. `src/audio.rs` player, recordings,
   voices. `src/format.rs` lesson files and the built-in lesson rules.
   `src/store.rs` data folder, progress, review schedule. `src/theme.rs`
-  colours, fonts and shared widgets.
+  colours, fonts and shared widgets. `src/i18n.rs` the interface in the
+  learner's language, from `content/ui/<base>.txt` (Italian so far).
 - `content/<lang>/<course>-<level>.txt` the built-in courses
   (`es/foundation-a1.txt` … `es/mastery-c2.txt`; the list is `BUILTIN` in
   `src/store.rs`), and `content/<lang>/pronunciation.md` the figured
@@ -213,7 +214,8 @@ format is in `content/FORMAT.md`.
 
 `cargo test` checks the lesson format, every built-in course (complete in
 Italian, English and Spanish, numbered inside its level's range, pinyin and
-Latin vowel lengths where due), answer checking and the review schedule.
+Latin vowel lengths where due), answer checking, the review schedule, and
+that every interface text has its Italian translation.
 With network (and, for the listening test, mpv with a muted config:
 `MPV_HOME` with `ao=null`):
 

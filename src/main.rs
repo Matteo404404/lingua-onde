@@ -6,6 +6,7 @@ mod appendix;
 mod audio;
 mod editor;
 mod format;
+mod i18n;
 mod model;
 mod practice;
 mod session;

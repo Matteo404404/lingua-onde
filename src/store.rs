@@ -150,7 +150,7 @@ pub fn load_courses() -> (Vec<Course>, Vec<String>) {
 
 pub fn save_course(c: &Course) -> Result<PathBuf, String> {
     let path = c.path.clone().unwrap_or_else(|| courses_dir().join(format!("{}.txt", c.id)));
-    write_atomic(&path, &write_course(c)).map_err(|e| format!("could not save {}: {e}", path.display()))?;
+    write_atomic(&path, &write_course(c)).map_err(|e| crate::i18n::trf("could not save {0}: {1}", &[&path.display(), &e]))?;
     Ok(path)
 }
 
@@ -354,9 +354,9 @@ impl Saved {
                 let aside = path.with_extension(format!("unreadable-{stamp}.json"));
                 let _ = std::fs::rename(path, &aside);
                 Saved {
-                    notice: Some(format!(
-                        "Your progress file could not be read ({e}). It is kept as {} and a new one was started.",
-                        aside.display()
+                    notice: Some(crate::i18n::trf(
+                        "Your progress file could not be read ({0}). It is kept as {1} and a new one was started.",
+                        &[&e, &aside.display()],
                     )),
                     ..Saved::default()
                 }

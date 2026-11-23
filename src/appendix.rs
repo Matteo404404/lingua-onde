@@ -31,6 +31,7 @@
 use eframe::egui::{self, RichText};
 
 use crate::app::App;
+use crate::i18n::{tr, trf};
 use crate::model::{Stage, lang_name};
 use crate::practice::fold;
 use crate::theme::{self, ACCENT, ACCENT_SOFT, MUTED, bold, medium, muted};
@@ -131,8 +132,13 @@ pub fn builtin() -> Vec<Appendix> {
 }
 
 /// The book's pages, in its order (`AppendixState::tab` indexes them).
-pub const PAGES: [&str; 7] = ["Introduction", "Pronunciation", "Lessons", "Grammar", "Index", "Words", "Expressions"];
-const PARTS: &[(&str, &[usize])] = &[("Before the lessons", &[0, 1]), ("The course", &[2]), ("End of the book", &[3, 4, 5, 6])];
+fn page_names() -> [&'static str; 7] {
+    [tr("Introduction"), tr("Pronunciation"), tr("Lessons"), tr("Grammar"), tr("Index"), tr("Words"), tr("Expressions")]
+}
+
+fn parts() -> [(&'static str, &'static [usize]); 3] {
+    [(tr("Before the lessons"), &[0, 1]), (tr("The course"), &[2]), (tr("End of the book"), &[3, 4, 5, 6])]
+}
 
 #[derive(Default)]
 pub struct AppendixState {
@@ -163,7 +169,7 @@ impl App {
     pub fn appendix_screen(&mut self, ui: &mut egui::Ui) {
         let base = self.base();
         let ci = self.active();
-        theme::page_title(ui, "The book", &self.course_label(ci));
+        theme::page_title(ui, tr("The book"), &self.course_label(ci));
         let a = self.appendix().cloned();
         let lang_code = self.courses.get(ci).map(|c| c.lang.clone()).unwrap_or_default();
         let key = crate::store::pronunciation_key(&lang_code);
@@ -173,7 +179,7 @@ impl App {
         // books; Perfectionnement marks irregular stress in its notes.
         let foundation = self.courses.get(ci).is_none_or(|c| c.stage.is_none_or(|s| s == Stage::Foundation));
         ui.horizontal_wrapped(|ui| {
-            for (k, (part, pages)) in PARTS.iter().enumerate() {
+            for (k, (part, pages)) in parts().iter().enumerate() {
                 if k > 0 {
                     ui.add_space(4.0);
                     ui.separator();
@@ -183,7 +189,7 @@ impl App {
                     ui.label(theme::caps(part));
                     ui.horizontal(|ui| {
                         for &i in pages.iter().filter(|&&i| foundation || i != 1) {
-                            if ui.selectable_label(self.appendix_ui.tab == i, medium(PAGES[i]).size(15.0)).clicked() {
+                            if ui.selectable_label(self.appendix_ui.tab == i, medium(page_names()[i]).size(15.0)).clicked() {
                                 self.appendix_ui.tab = i;
                             }
                         }
@@ -198,11 +204,11 @@ impl App {
                 ui.set_width(ui.available_width());
                 ui.horizontal_wrapped(|ui| {
                     ui.label(medium(if foundation {
-                        "Before lesson 1: read the introduction, then the pronunciation key."
+                        tr("Before lesson 1: read the introduction, then the pronunciation key.")
                     } else {
-                        "Before lesson 1: read the introduction."
+                        tr("Before lesson 1: read the introduction.")
                     }));
-                    if ui.add(theme::ghost("I already know the method: start lesson 1")).clicked() {
+                    if ui.add(theme::ghost(tr("I already know the method: start lesson 1"))).clicked() {
                         self.begin_course(ci);
                     }
                 });
@@ -227,9 +233,9 @@ impl App {
                 match page {
                     Some(p) => theme::markdown(ui, &p),
                     None => {
-                        ui.label(RichText::new(
+                        ui.label(RichText::new(tr(
                             "Not written yet for this course. As in the books, the introduction and the appendix come with the finished course: a grammar summary, an index of grammar topics, a word list in both directions and the expressions, each with its lessons.",
-                        ).size(16.0));
+                        )).size(16.0));
                     }
                 }
             });
@@ -238,14 +244,14 @@ impl App {
                 ui.add_space(10.0);
                 ui.horizontal(|ui| {
                     if self.appendix_ui.tab == 0 && foundation {
-                        if ui.add(theme::primary("Next: the pronunciation key  →")).clicked() {
+                        if ui.add(theme::primary(tr("Next: the pronunciation key  →"))).clicked() {
                             self.appendix_ui.tab = 1;
                         }
                     } else if newcomer {
-                        if ui.add(theme::primary("Begin: lesson 1  →")).clicked() {
+                        if ui.add(theme::primary(tr("Begin: lesson 1  →"))).clicked() {
                             self.begin_course(ci);
                         }
-                    } else if ui.add(theme::primary("Next: the lessons  →")).clicked() {
+                    } else if ui.add(theme::primary(tr("Next: the lessons  →"))).clicked() {
                         self.appendix_ui.tab = 2;
                     }
                 });
@@ -255,7 +261,7 @@ impl App {
         let Some(a) = a else {
             theme::card().show(ui, |ui| {
                 ui.set_width(ui.available_width());
-                ui.label(RichText::new("Not written yet for this course: the indexes come with the finished course.").size(16.0));
+                ui.label(RichText::new(tr("Not written yet for this course: the indexes come with the finished course.")).size(16.0));
             });
             return;
         };
@@ -267,7 +273,7 @@ impl App {
         if empty {
             theme::card().show(ui, |ui| {
                 ui.set_width(ui.available_width());
-                ui.label(RichText::new("Not written yet for this course: the indexes come with the finished course.").size(16.0));
+                ui.label(RichText::new(tr("Not written yet for this course: the indexes come with the finished course.")).size(16.0));
             });
             return;
         }
@@ -278,7 +284,7 @@ impl App {
         ui.horizontal(|ui| {
             ui.add(
                 egui::TextEdit::singleline(&mut st.query)
-                    .hint_text("Search")
+                    .hint_text(tr("Search"))
                     .desired_width(260.0)
                     .font(egui::FontId::proportional(16.0)),
             );
@@ -291,13 +297,13 @@ impl App {
                 };
                 if ui
                     .add(theme::ghost(dir))
-                    .on_hover_text("Change the direction of the list")
+                    .on_hover_text(tr("Change the direction of the list"))
                     .clicked()
                 {
                     st.reverse = !st.reverse;
                 }
             }
-            ui.checkbox(&mut st.all, "Also lessons not studied yet");
+            ui.checkbox(&mut st.all, tr("Also lessons not studied yet"));
         });
         ui.add_space(6.0);
         let q = fold(st.query.trim());
@@ -328,11 +334,11 @@ impl App {
             5 => a.words.len(),
             _ => a.phrases.len(),
         };
-        ui.label(muted(format!("{} of {total}", rows.len())));
+        ui.label(muted(trf("{0} of {1}", &[&rows.len(), &total])));
         if rows.is_empty() && !all {
-            ui.label(muted(
+            ui.label(muted(tr(
                 "Nothing from the lessons you have studied yet. Tick “Also lessons not studied yet” to see the whole list.",
-            ));
+            )));
         }
         let title = |n: u32| {
             c.lessons
@@ -382,7 +388,7 @@ impl App {
                                                 } else {
                                                     (MUTED, egui::Color32::TRANSPARENT)
                                                 };
-                                                theme::pill(ui, &n.to_string(), fg, bg).on_hover_text(format!("Lesson {n} · {}", title(n)));
+                                                theme::pill(ui, &n.to_string(), fg, bg).on_hover_text(trf("Lesson {0} · {1}", &[&n, &title(n)]));
                                             }
                                         });
                                     }
@@ -408,7 +414,7 @@ impl App {
             ui.set_width(ui.available_width());
             ui.spacing_mut().item_spacing.y = 0.0;
             if c.lessons.is_empty() {
-                ui.label(RichText::new("No lessons written yet for this course.").size(16.0));
+                ui.label(RichText::new(tr("No lessons written yet for this course.")).size(16.0));
             }
             let mut level = None;
             for (li, l) in c.lessons.iter().enumerate() {
@@ -443,15 +449,15 @@ impl App {
                                 },
                             );
                             let title = if l.revision && !l.title.to_lowercase().contains("revision") {
-                                format!("{} · revision", l.title)
+                                trf("{0} · revision", &[&l.title])
                             } else {
                                 l.title.clone()
                             };
                             let t = bold(title).size(15.5);
                             ui.label(if reachable { t } else { t.color(MUTED) });
-                            let tr = l.title_in(&base);
-                            if !tr.is_empty() && tr != l.title {
-                                ui.label(muted(tr).size(14.0));
+                            let translated = l.title_in(&base);
+                            if !translated.is_empty() && translated != l.title {
+                                ui.label(muted(translated).size(14.0));
                             }
                         });
                     })
@@ -467,7 +473,7 @@ impl App {
         if !c.lessons.is_empty() {
             ui.add_space(10.0);
             ui.horizontal(|ui| {
-                if ui.add(theme::ghost("Then, at the end of the book: the grammar  →")).clicked() {
+                if ui.add(theme::ghost(tr("Then, at the end of the book: the grammar  →"))).clicked() {
                     self.appendix_ui.tab = 3;
                 }
             });

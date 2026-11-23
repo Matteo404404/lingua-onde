@@ -4,6 +4,8 @@ use std::path::PathBuf;
 use eframe::egui::Color32;
 use serde::{Deserialize, Serialize};
 
+use crate::i18n::tr;
+
 #[derive(Clone, Copy, PartialEq, Eq, PartialOrd, Ord, Debug, Hash, Serialize, Deserialize, Default)]
 pub enum Level {
     #[default]
@@ -35,12 +37,12 @@ impl Level {
 
     pub fn describe(self) -> &'static str {
         match self {
-            Level::A1 => "Beginner",
-            Level::A2 => "Elementary",
-            Level::B1 => "Intermediate",
-            Level::B2 => "Upper intermediate",
-            Level::C1 => "Advanced",
-            Level::C2 => "Mastery",
+            Level::A1 => tr("Beginner"),
+            Level::A2 => tr("Elementary"),
+            Level::B1 => tr("Intermediate"),
+            Level::B2 => tr("Upper intermediate"),
+            Level::C1 => tr("Advanced"),
+            Level::C2 => tr("Mastery"),
         }
     }
 

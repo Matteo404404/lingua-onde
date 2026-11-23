@@ -15,6 +15,7 @@ use std::time::{Duration, Instant};
 
 use eframe::egui;
 
+use crate::i18n::{tr, trf};
 use crate::model::lang;
 
 /// A command for a helper program that opens no console window on Windows
@@ -116,10 +117,10 @@ impl Player {
             // speed is set when it is made, so they need no speed control.
             (c, false)
         } else {
-            return Err("No audio player found. Install mpv to hear your own recordings.".into());
+            return Err(tr("No audio player found. Install mpv to hear your own recordings.").into());
         };
         cmd.stdin(Stdio::null()).stdout(Stdio::null()).stderr(Stdio::null());
-        let child = cmd.spawn().map_err(|e| format!("could not start the audio player: {e}"))?;
+        let child = cmd.spawn().map_err(|e| trf("could not start the audio player: {0}", &[&e]))?;
         self.child = Some(child);
         self.controllable = controllable;
         self.paused = false;
@@ -385,8 +386,7 @@ impl Voices {
 
     /// Download the engine (once) and this language's voice in the background.
     pub fn download(&self, code: &str, ctx: egui::Context) {
-        let status = self.status_of(code);
-        if status.starts_with("Downloading") || status.starts_with("Finishing") {
+        if downloading(&self.status_of(code)) {
             return;
         }
         let dir = self.dir.clone();
@@ -400,16 +400,21 @@ impl Voices {
                 ctx.request_repaint();
             };
             match download_voice(&dir, &code, &set) {
-                Ok(()) => set("Ready"),
-                Err(e) => set(&format!("Failed: {e}")),
+                Ok(()) => set(tr("Ready")),
+                Err(e) => set(&trf("Failed: {0}", &[&e])),
             }
             let _ = std::fs::remove_file(dir.join(format!("{code}.part")));
         });
     }
 }
 
+/// A download still running: its status ends with an ellipsis in every language.
+pub fn downloading(status: &str) -> bool {
+    status.ends_with('…')
+}
+
 fn curl(url: &str, to: &Path) -> Result<(), String> {
-    let curl = find_program("curl").ok_or("curl is needed to download voices")?;
+    let curl = find_program("curl").ok_or(tr("curl is needed to download voices"))?;
     let ok = command(curl)
         .args(["-L", "--fail", "--silent", "--show-error", "-o"])
         .arg(to)
@@ -440,7 +445,7 @@ fn engine_command(dir: &Path) -> Command {
 
 /// Unpack `archive` into `into`; `extra` selects members and strips folders.
 fn untar(archive: &Path, into: &Path, extra: &[&str]) -> Result<(), String> {
-    let tar = find_program("tar").ok_or("tar is needed to unpack the voice engine")?;
+    let tar = find_program("tar").ok_or(tr("tar is needed to unpack the voice engine"))?;
     let out = command(tar)
         .arg("-xf")
         .arg(archive)
@@ -450,10 +455,7 @@ fn untar(archive: &Path, into: &Path, extra: &[&str]) -> Result<(), String> {
         .output()
         .map_err(|e| e.to_string())?;
     if !out.status.success() {
-        return Err(format!(
-            "could not unpack the engine: {}",
-            String::from_utf8_lossy(&out.stderr).trim()
-        ));
+        return Err(trf("could not unpack the engine: {0}", &[&String::from_utf8_lossy(&out.stderr).trim()]));
     }
     Ok(())
 }
@@ -465,33 +467,33 @@ fn download_voice(dir: &Path, code: &str, set: &dyn Fn(&str)) -> Result<(), Stri
     static ENGINE: Mutex<()> = Mutex::new(());
     let _engine = ENGINE.lock().unwrap_or_else(|e| e.into_inner());
     if !Voices::piper_bin(dir).is_file() {
-        set("Downloading the voice engine (25 MB)…");
-        let url = engine_url().ok_or("no voice engine is published for this computer")?;
+        set(tr("Downloading the voice engine (25 MB)…"));
+        let url = engine_url().ok_or(tr("no voice engine is published for this computer"))?;
         curl(&url, &part)?;
         untar(&part, dir, &[])?;
         let _ = std::fs::remove_file(&part);
     }
     if !engine_installed(dir) {
-        set("Downloading the voice engine's libraries (25 MB)…");
+        set(tr("Downloading the voice engine's libraries (25 MB)…"));
         let arch = if cfg!(target_arch = "aarch64") { "aarch64" } else { "x64" };
         curl(&format!("{MAC_LIBS}_{arch}.tar.gz"), &part)?;
         untar(&part, &dir.join("piper"), &["--strip-components", "2", "piper-phonemize/lib"])?;
         let _ = std::fs::remove_file(&part);
         if !engine_installed(dir) {
-            return Err("the voice engine's libraries are missing".into());
+            return Err(tr("the voice engine's libraries are missing").into());
         }
     }
-    let info = lang(code).ok_or("unknown language")?;
+    let info = lang(code).ok_or(tr("unknown language"))?;
     let (path, espeak) = info.voice;
-    let (model, config) = Voices::files(dir, code).ok_or("unknown language")?;
+    let (model, config) = Voices::files(dir, code).ok_or(tr("unknown language"))?;
     let name = path.rsplit('/').next().unwrap_or(path);
     if !model.is_file() {
-        set("Downloading the voice (about 60 MB)…");
+        set(tr("Downloading the voice (about 60 MB)…"));
         curl(&format!("{VOICE_BASE}/{path}.onnx"), &part)?;
         std::fs::rename(&part, &model).map_err(|e| e.to_string())?;
     }
     if !config.is_file() {
-        set("Finishing…");
+        set(tr("Finishing…"));
         let plain = dir.join(format!("{name}.onnx.json"));
         if !plain.is_file() {
             curl(&format!("{VOICE_BASE}/{path}.onnx.json"), &part)?;

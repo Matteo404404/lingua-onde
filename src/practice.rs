@@ -8,6 +8,7 @@ use std::collections::{HashMap, HashSet};
 use eframe::egui::{self, RichText};
 
 use crate::app::App;
+use crate::i18n::{in_sentence, tr, trf};
 use crate::model::{Item, Stage, lang_name};
 use crate::theme::{self, ACCENT, ACCENT_SOFT, BAD, GOOD, HIGHLIGHT, WARN, bold, caps, medium, muted};
 
@@ -164,11 +165,11 @@ pub fn show_comparison(ui: &mut egui::Ui, c: &Comparison) {
         ui.spacing_mut().item_spacing.x = 5.0;
         match c.verdict {
             Verdict::Right => {
-                ui.label(medium("✔ Right").color(GOOD));
+                ui.label(medium(tr("✔ Right")).color(GOOD));
                 return;
             }
-            Verdict::Accents => ui.label(medium("≈ Right, check the accents:").color(WARN)),
-            Verdict::Wrong => ui.label(medium("Compare:").color(BAD)),
+            Verdict::Accents => ui.label(medium(tr("≈ Right, check the accents:")).color(WARN)),
+            Verdict::Wrong => ui.label(medium(tr("Compare:")).color(BAD)),
         };
         for (w, mark) in &c.words {
             let t = RichText::new(w).size(16.0);
@@ -179,14 +180,14 @@ pub fn show_comparison(ui: &mut egui::Ui, c: &Comparison) {
             });
         }
         if !c.extra.is_empty() {
-            ui.label(muted("· you added:"));
+            ui.label(muted(tr("· you added:")));
             for w in &c.extra {
                 ui.label(RichText::new(w).color(BAD).strikethrough());
             }
         }
     })
     .response
-    .on_hover_text("Green: right · orange: accents differ · red underlined: missing or different · struck: not in the original");
+    .on_hover_text(tr("Green: right · orange: accents differ · red underlined: missing or different · struck: not in the original"));
 }
 
 // --------------------------------------------------------------- state
@@ -205,13 +206,15 @@ pub struct Practice {
 }
 
 /// Self-check for recreating a whole Mastery text.
-const MASTERY_RUBRIC: [&str; 5] = [
-    "Same meaning: nothing important missing, nothing added",
-    "Same register and tone (formal, ironic, warm, technical…)",
-    "Natural word order and idiom, not your language's sentences in disguise",
-    "The original's key expressions and collocations, or equally precise ones",
-    "The same effect on the reader or listener",
-];
+fn mastery_rubric() -> [&'static str; 5] {
+    [
+        tr("Same meaning: nothing important missing, nothing added"),
+        tr("Same register and tone (formal, ironic, warm, technical…)"),
+        tr("Natural word order and idiom, not your language's sentences in disguise"),
+        tr("The original's key expressions and collocations, or equally precise ones"),
+        tr("The same effect on the reader or listener"),
+    ]
+}
 
 fn ticklist(ui: &mut egui::Ui, items: &[String], ticks: &mut HashSet<(usize, usize)>, row: usize) {
     for (j, c) in items.iter().enumerate() {
@@ -225,7 +228,7 @@ fn ticklist(ui: &mut egui::Ui, items: &[String], ticks: &mut HashSet<(usize, usi
         }
     }
     let n = (0..items.len()).filter(|j| ticks.contains(&(row, *j))).count();
-    ui.label(muted(format!("{n} of {} — be honest; what is missing is next time's focus.", items.len())).size(13.0));
+    ui.label(muted(trf("{0} of {1} — be honest; what is missing is next time's focus.", &[&n, &items.len()])).size(13.0));
 }
 
 fn answer_box(ui: &mut egui::Ui, text: &mut String, hint: &str, rows: usize) -> egui::Response {
@@ -252,20 +255,20 @@ impl App {
         let rec = self.recording(ci, wi);
         ui.horizontal(|ui| {
             theme::badge(ui, lesson.level.name(), lesson.level.color());
-            ui.label(bold(format!("Lesson {} · {}", lesson.number, lesson.title)).size(18.0));
+            ui.label(bold(trf("Lesson {0} · {1}", &[&lesson.number, &lesson.title])).size(18.0));
             ui.label(muted(lesson.title_in(&base)));
         });
         if lesson.revision {
-            egui::CollapsingHeader::new(medium("The grammar of that week — read it again"))
+            egui::CollapsingHeader::new(medium(tr("The grammar of that week — read it again")))
                 .id_salt("wave-recap")
                 .show(ui, |ui| crate::session::notes(ui, lesson.notes_in(&base)));
         }
         let whole = stage == Some(Stage::Mastery) && !p.by_sentence;
         if stage == Some(Stage::Mastery) {
             let label = if p.by_sentence {
-                "Recreate the whole text instead"
+                tr("Recreate the whole text instead")
             } else {
-                "Go sentence by sentence instead"
+                tr("Go sentence by sentence instead")
             };
             if ui.add(theme::ghost(label)).clicked() {
                 p.by_sentence = !p.by_sentence;
@@ -274,12 +277,12 @@ impl App {
         if whole {
             self.recreate_whole(ui, &lang, &lesson.dialogue, p);
         } else if !lesson.dialogue.is_empty() {
-            ui.label(caps(if lesson.revision { "The revision dialogue" } else { "The dialogue" }));
+            ui.label(caps(if lesson.revision { tr("The revision dialogue") } else { tr("The dialogue") }));
             self.rebuild_rows(ui, "wave-dlg", &lang, &lesson.dialogue, 0, p);
         }
         if !lesson.ex1.is_empty() {
             ui.add_space(6.0);
-            ui.label(caps("Exercise 1 — now from your language"));
+            ui.label(caps(tr("Exercise 1 — now from your language")));
             self.rebuild_rows(ui, "wave-ex1", &lang, &lesson.ex1, lesson.dialogue.len(), p);
         }
         if !lesson.dialogue.is_empty() {
@@ -295,13 +298,13 @@ impl App {
         let target_ready = self.voices.ready(lang);
         ui.horizontal_wrapped(|ui| {
             let drilling = self.current(tag).is_some();
-            let label = if drilling { "■ Stop" } else { "▶ Prompt and answer" };
+            let label = if drilling { tr("■ Stop") } else { tr("▶ Prompt and answer") };
             let b = ui
                 .add_enabled(target_ready, theme::secondary(label))
-                .on_hover_text(
+                .on_hover_text(tr(
                     "The voice says each sentence in your language, waits while you say it, then says it in the language you learn",
-                )
-                .on_disabled_hover_text("Download this language's voice in Settings first");
+                ))
+                .on_disabled_hover_text(tr("Download this language's voice in Settings first"));
             if b.clicked() {
                 if drilling {
                     self.stop_audio();
@@ -313,14 +316,14 @@ impl App {
             }
             if !self.voices.ready(&base) && target_ready {
                 ui.label(
-                    muted(format!(
-                        "(get the {} voice in Settings to hear the prompts too)",
-                        lang_name(&base, &base)
+                    muted(trf(
+                        "(get the {0} voice in Settings to hear the prompts too)",
+                        &[&in_sentence(&lang_name(&base, &base))],
                     ))
                     .size(13.0),
                 );
             }
-            if ui.add(theme::ghost("Show all")).clicked() {
+            if ui.add(theme::ghost(tr("Show all"))).clicked() {
                 p.shown.extend(offset..offset + items.len());
             }
         });
@@ -348,11 +351,11 @@ impl App {
                                         let field = ui.add(
                                             egui::TextEdit::singleline(typed)
                                                 .desired_width((ui.available_width() - 120.0).max(160.0))
-                                                .hint_text("say it aloud — and type it if you like")
+                                                .hint_text(tr("say it aloud — and type it if you like"))
                                                 .font(egui::FontId::proportional(16.0)),
                                         );
                                         let enter = field.lost_focus() && ui.input(|i| i.key_pressed(egui::Key::Enter));
-                                        if ui.add(theme::secondary("Show")).clicked() || enter {
+                                        if ui.add(theme::secondary(tr("Show"))).clicked() || enter {
                                             p.shown.insert(k);
                                             if target_ready {
                                                 play = Some(i);
@@ -383,7 +386,7 @@ impl App {
 
     /// The old dialogue as it was, with its audio: context for the active wave.
     fn original_context(&mut self, ui: &mut egui::Ui, lang: &str, items: &[Item], rec: Option<std::path::PathBuf>) {
-        egui::CollapsingHeader::new(medium("The original dialogue — listen and read it again"))
+        egui::CollapsingHeader::new(medium(tr("The original dialogue — listen and read it again")))
             .id_salt("wave-original")
             .show(ui, |ui| {
                 self.listen_panel(ui, "wave-orig", lang, items, rec);
@@ -397,29 +400,29 @@ impl App {
         let base = self.base();
         theme::card().show(ui, |ui| {
             ui.set_width(ui.available_width());
-            ui.label(caps("In your language"));
+            ui.label(caps(tr("In your language")));
             let text: Vec<&str> = items.iter().map(|i| i.tr(&base)).collect();
             ui.label(RichText::new(text.join(" ")).size(16.5));
         });
-        ui.label(muted(format!(
-            "Recreate it in {}: the same meaning, tone, register and effect — not word for word. Say it aloud, or write it here.",
-            lang_name(lang, &base)
+        ui.label(muted(trf(
+            "Recreate it in {0}: the same meaning, tone, register and effect — not word for word. Say it aloud, or write it here.",
+            &[&in_sentence(&lang_name(lang, &base))],
         )));
-        answer_box(ui, &mut p.whole, "Your version…", 8);
+        answer_box(ui, &mut p.whole, tr("Your version…"), 8);
         if !p.whole_shown {
-            if ui.add(theme::primary("Show the original and the checklist")).clicked() {
+            if ui.add(theme::primary(tr("Show the original and the checklist"))).clicked() {
                 p.whole_shown = true;
             }
             return;
         }
         theme::card().show(ui, |ui| {
             ui.set_width(ui.available_width());
-            ui.label(caps("The original"));
+            ui.label(caps(tr("The original")));
             let text: Vec<String> = items.iter().map(|i| i.plain()).collect();
             ui.label(RichText::new(text.join(" ")).size(16.5).color(ACCENT));
             ui.add_space(6.0);
-            ui.label(caps("Check your version"));
-            let rubric: Vec<String> = MASTERY_RUBRIC.iter().map(|s| s.to_string()).collect();
+            ui.label(caps(tr("Check your version")));
+            let rubric: Vec<String> = mastery_rubric().iter().map(|s| s.to_string()).collect();
             ticklist(ui, &rubric, &mut p.ticks, usize::MAX);
         });
     }
@@ -433,11 +436,11 @@ impl App {
         for (i, it) in items.iter().enumerate() {
             theme::card().show(ui, |ui| {
                 ui.set_width(ui.available_width());
-                ui.label(caps(&format!("Task {}", i + 1)));
+                ui.label(caps(&trf("Task {0}", &[&(i + 1)])));
                 ui.label(RichText::new(it.task_in(&base)).size(17.0));
-                answer_box(ui, p.typed.entry(i).or_default(), "Your answer — or say it aloud", 5);
+                answer_box(ui, p.typed.entry(i).or_default(), tr("Your answer — or say it aloud"), 5);
                 if !p.shown.contains(&i) {
-                    if ui.add(theme::secondary("Show a model answer and the checklist")).clicked() {
+                    if ui.add(theme::secondary(tr("Show a model answer and the checklist"))).clicked() {
                         p.shown.insert(i);
                     }
                     return;
@@ -445,21 +448,21 @@ impl App {
                 theme::tinted(HIGHLIGHT).show(ui, |ui| {
                     ui.set_width(ui.available_width());
                     ui.horizontal(|ui| {
-                        ui.label(caps("A model answer"));
+                        ui.label(caps(tr("A model answer")));
                         if can_play && ui.add(theme::ghost("▶").small()).clicked() {
                             play = Some(i);
                         }
                     });
                     ui.label(RichText::new(&it.text).size(16.0).color(ACCENT));
                     if !it.tr(&base).is_empty() {
-                        egui::CollapsingHeader::new(muted("In your language"))
+                        egui::CollapsingHeader::new(muted(tr("In your language")))
                             .id_salt(("task-tr", i))
                             .show(ui, |ui| {
                                 ui.label(it.tr(&base));
                             });
                     }
                 });
-                ui.label(caps("Check your answer"));
+                ui.label(caps(tr("Check your answer")));
                 ticklist(ui, &it.rubric_in(&base), &mut p.ticks, i);
             });
         }

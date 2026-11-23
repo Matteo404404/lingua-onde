@@ -102,7 +102,7 @@ publishing them. "Check platforms" (also run by hand) downloads the voices
 and speaks on Linux, Windows and macOS: run it before the tag.
 
 Progress is stored in `~/.local/share/lingua-onde/` (progress, your own
-courses, downloaded voices). `LINGUA_ONDE_HOME` overrides that folder.
+courses, downloaded voices). `LINGUA_ONDE_HOME` overrides that folder. Only languages whose Foundation is complete are offered; `LINGUA_ONDE_DRAFTS=1` shows the drafts too.
 
 `--screenshot <file.png>` opens the window without focus, draws about 120
 frames, saves a picture and exits. `--open home|courses|settings|guide|study[:step]|editor[:lesson]|review[:tab[:search]]|appendix[:page]` (0–6: introduction, pronunciation, lessons, grammar, index, words, expressions)
@@ -136,8 +136,10 @@ Every 7th lesson is a revision lesson: a revision dialogue whose lines name
 the lessons they come from, studied the same way, with the grammar of the
 six lessons before in order in place of the notes, and no exercises.
 At the end of a lesson you can choose to go over it again the next day.
-Finished dialogues go into a spaced daily sentence review (Review, Daily
-sentences); Review, Search finds any sentence of the language. The active
+One lesson a day is the rhythm: once it is done, Home says you are done for
+today and offers the next lesson only through a quieter link. Review holds the
+active wave and Search (any sentence of the language); a spaced daily
+sentence review, not part of the Assimil method, can be turned on in Settings. The active
 wave of lesson *n* comes due when you finish lesson *n + 49* (Settings,
 "Second wave starts"), and after the last lesson the rest come back one a day,
 also alongside the next course of the language, until every lesson you studied

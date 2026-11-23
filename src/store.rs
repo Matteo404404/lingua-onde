@@ -313,7 +313,8 @@ impl Default for Saved {
             pause_factor: 1.3,
             wave2_gap: 49,
             daily_goal_min: 20,
-            cards_after_lesson: true,
+            // Not part of the Assimil method: the learner can turn it on.
+            cards_after_lesson: false,
             show_pron: true,
             prefer_voice: false,
             repeat_pauses: true,

@@ -1209,20 +1209,25 @@ impl App {
             .unwrap_or(ci);
         let wave = self.wave2_due(wci);
         theme::page(ui, 780.0, |ui| {
-            theme::page_title(ui, "Review", "");
+            theme::page_title(ui, "Review", "The active wave of the method, and a search across every sentence you have met.");
             ui.add_space(-6.0);
+            // The spaced sentence review is not part of the Assimil method: it
+            // shows only when the learner turned it on (Settings) or has cards.
+            let cards = self.saved.cards_after_lesson || !self.saved.cards.is_empty();
+            if !cards && self.review.tab == 0 {
+                self.review.tab = 1;
+            }
             // A segmented control for the two kinds of review.
             egui::Frame::new().fill(TRACK).corner_radius(12).inner_margin(4).show(ui, |ui| {
                 ui.horizontal(|ui| {
                     ui.spacing_mut().item_spacing.x = 4.0;
-                    let tabs = [
-                        format!("Daily sentences · {due}"),
-                        format!("Active wave · {}", pending.len()),
-                        "Search".to_string(),
-                    ];
-                    for (i, t) in tabs.iter().enumerate() {
+                    let mut tabs = vec![(1, format!("Active wave · {}", pending.len())), (2, "Search".to_string())];
+                    if cards {
+                        tabs.push((0, format!("Daily sentences · {due}")));
+                    }
+                    for (i, t) in tabs {
                         let sel = self.review.tab == i;
-                        let b = egui::Button::new(medium(t).color(if sel { INK } else { MUTED }))
+                        let b = egui::Button::new(medium(&t).color(if sel { INK } else { MUTED }))
                             .fill(if sel { CARD } else { Color32::TRANSPARENT })
                             .stroke(egui::Stroke::NONE)
                             .corner_radius(9)
@@ -1680,6 +1685,8 @@ mod tests {
     fn second_wave_comes_with_its_partner_lesson() {
         // SAFETY: the only other reader of this variable is in ignored tests.
         unsafe { std::env::set_var("LINGUA_ONDE_HOME", std::env::temp_dir().join("lingua-onde-test-home")) };
+        // The Spanish draft course stands in for any language with two courses.
+        unsafe { std::env::set_var("LINGUA_ONDE_DRAFTS", "1") };
         let mut app = App::new(&egui::Context::default(), None, None);
         app.saved = crate::store::Saved {
             wave2_gap: 2,

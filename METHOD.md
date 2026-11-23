@@ -215,9 +215,12 @@ register and effect.
 
 ## Across the courses
 
-- Spaced review of the dialogues' sentences (Review, Daily sentences) and a
-  search across every sentence of a language (Review, Search) stand in for
-  the book's index.
+- A search across every sentence of a language (Review, Search) stands in
+  for the book's index. A spaced review of the dialogues' sentences (Review,
+  Daily sentences) is an extra outside the method, off unless turned on in
+  Settings.
+- One lesson a day: after it, Home says so; another lesson stays possible on
+  request.
 - Notes, corrections and the figured pronunciation are written in the
   learner's language.
 - Every built-in lesson passes `lingua_onde --check` before it is added.

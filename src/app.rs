@@ -63,7 +63,17 @@ const PAGE: f32 = 1080.0;
 
 impl App {
     pub fn new(ctx: &egui::Context, screenshot: Option<PathBuf>, open: Option<String>) -> App {
-        let (courses, problems) = store::load_courses();
+        let (mut courses, problems) = store::load_courses();
+        // A language is offered once its Foundation is complete; the others are
+        // drafts, shown only with LINGUA_ONDE_DRAFTS=1 (for writing them).
+        if std::env::var_os("LINGUA_ONDE_DRAFTS").is_none() {
+            let ready: Vec<String> = courses
+                .iter()
+                .filter(|c| c.builtin && c.stage == Some(Stage::Foundation) && c.lessons.len() >= Stage::Foundation.size() as usize)
+                .map(|c| c.lang.clone())
+                .collect();
+            courses.retain(|c| !c.builtin || ready.contains(&c.lang));
+        }
         let saved = Saved::load();
         let voices = Voices::new(store::data_dir().join("voices"), ctx.clone());
         let mut app = App {
@@ -360,6 +370,15 @@ impl App {
         }
     }
 
+    /// A lesson of this course was finished today.
+    pub fn did_lesson_today(&self, ci: usize) -> bool {
+        let c = &self.courses[ci];
+        let t = day_key(today());
+        c.lessons
+            .iter()
+            .any(|l| self.saved.progress(&c.lesson_key(l.number)).is_some_and(|p| p.completed.as_deref() == Some(t.as_str())))
+    }
+
     pub fn done_count(&self, ci: usize) -> usize {
         let c = &self.courses[ci];
         c.lessons.iter().filter(|l| self.saved.is_done(&c.lesson_key(l.number))).count()
@@ -574,6 +593,19 @@ impl App {
                 return;
             }
             match self.next_lesson(ci) {
+                // One lesson a day: after it, Home says so and offers the next
+                // one only on request (a lesson already begun just resumes).
+                Some(li)
+                    if self.did_lesson_today(ci)
+                        && !self
+                            .saved
+                            .progress(&self.courses[ci].lesson_key(self.courses[ci].lessons[li].number))
+                            .is_some_and(|p| !p.steps_done.is_empty()) =>
+                {
+                    self.say("You're done for today. If you really want another lesson, the link is under today's card.");
+                    self.screen = Screen::Home;
+                    return;
+                }
                 Some(li) => self.start_session(ci, li),
                 None => {
                     self.say(if self.unwritten(ci) {
@@ -629,11 +661,7 @@ impl App {
         ui.add_space(12.0);
 
         if let Some(c) = self.courses.get(ci).cloned() {
-            let new_today = c.lessons.iter().any(|l| {
-                self.saved
-                    .progress(&c.lesson_key(l.number))
-                    .is_some_and(|p| p.completed.as_deref() == Some(day_key(t).as_str()))
-            });
+            let new_today = self.did_lesson_today(ci);
             self.hero(ui, ci, &c, new_today, due);
         }
         ui.add_space(12.0);
@@ -736,7 +764,7 @@ impl App {
                         if studied_today {
                             ui.label(
                                 RichText::new(
-                                    "✔ You already did a lesson today. One a day is the rhythm of the method; you can still go on.",
+                                    "✔ You did today's lesson. One lesson a day is the rhythm of the method: the next one will be easier tomorrow.",
                                 )
                                 .size(14.0)
                                 .color(light),
@@ -814,7 +842,18 @@ impl App {
                             } else {
                                 start
                             };
-                            if ui.add(start).clicked() {
+                            // After today's lesson the method says stop: the next one
+                            // stays reachable, but only through a quieter link below.
+                            let rest = studied_today && !resumable && !intro_first;
+                            if rest {
+                                egui::Frame::new()
+                                    .fill(Color32::from_white_alpha(20))
+                                    .corner_radius(12)
+                                    .inner_margin(egui::Margin::symmetric(18, 12))
+                                    .show(ui, |ui| {
+                                        ui.label(medium("✔  You're done for today").size(16.5).color(Color32::WHITE));
+                                    });
+                            } else if ui.add(start).clicked() {
                                 if intro_first {
                                     self.open_book(0);
                                 } else {
@@ -832,6 +871,23 @@ impl App {
                                 }
                             }
                         });
+                        let resumable = self
+                            .saved
+                            .progress(&c.lesson_key(l.number))
+                            .is_some_and(|p| !p.steps_done.is_empty());
+                        if studied_today && !resumable && !self.needs_intro(ci) {
+                            ui.add_space(6.0);
+                            let more = egui::Button::new(
+                                RichText::new(format!("I really want to do another lesson today: start lesson {}", l.number))
+                                    .size(13.5)
+                                    .color(light)
+                                    .underline(),
+                            )
+                            .frame(false);
+                            if ui.add(more).clicked() {
+                                self.start_session(ci, li);
+                            }
+                        }
                         // As in the books, the introduction comes before lesson 1.
                         if self.needs_intro(ci) {
                             ui.add_space(6.0);
@@ -1248,8 +1304,6 @@ impl App {
         let mut guide = false;
         let gap = 12.0;
         let width = ui.available_width();
-        let per_row = if width >= 760.0 { 2 } else { 1 };
-        let card_w = (width - (per_row as f32 - 1.0) * gap) / per_row as f32 - 38.0;
 
         // A card per language with its built-in courses, then the person's own.
         let mut groups: Vec<Vec<usize>> = Vec::new();
@@ -1265,6 +1319,9 @@ impl App {
                 groups.push(vec![i]);
             }
         }
+        // Two cards a row on a wide window, one card alone at full width.
+        let per_row = if width >= 760.0 && groups.len() > 1 { 2 } else { 1 };
+        let card_w = (width - (per_row as f32 - 1.0) * gap) / per_row as f32 - 38.0;
         for row in groups.chunks(per_row) {
             ui.horizontal_top(|ui| {
                 ui.spacing_mut().item_spacing.x = gap;
@@ -1329,8 +1386,10 @@ impl App {
                                                 };
                                                 ui.label(medium(name));
                                                 theme::bar(ui, done as f32 / planned.max(1) as f32, 150.0, color);
-                                                let written = if c.builtin && c.lessons.len() < planned {
-                                                    format!(" · {} of {planned} written", c.lessons.len())
+                                                let written = if c.builtin && c.lessons.is_empty() {
+                                                    " · being written".to_string()
+                                                } else if c.builtin && c.lessons.len() < planned {
+                                                    format!(" · {} of {planned} ready", c.lessons.len())
                                                 } else {
                                                     String::new()
                                                 };
@@ -1345,27 +1404,29 @@ impl App {
                                             ui.with_layout(egui::Layout::right_to_left(egui::Align::Center), |ui| {
                                                 if i == active {
                                                     theme::pill(ui, "studying", ACCENT, ACCENT_SOFT);
-                                                } else if ui.add_enabled(!c.lessons.is_empty(), theme::primary("Study")).clicked() {
+                                                } else if c.lessons.is_empty() {
+                                                    ui.label(muted("coming soon"));
+                                                } else if ui.add(theme::primary("Study")).clicked() {
                                                     choose = Some(i);
                                                 }
-                                                if ui
-                                                    .add(theme::ghost("🎧"))
-                                                    .on_hover_text("Link the folder with this course's recordings (e.g. \"Lesson 12.mp3\")")
-                                                    .clicked()
-                                                {
-                                                    link = Some(i);
-                                                }
-                                                if c.builtin && ui.add(theme::ghost("📋")).on_hover_text("Copy this course to your own courses to expand or change it").clicked() {
-                                                    copy = Some(i);
-                                                }
-                                                if !c.builtin
-                                                    && self.saved.audio_dirs.contains_key(&c.id)
-                                                    && ui
-                                                        .add(theme::ghost("＋ A lesson per recording"))
-                                                        .on_hover_text("Creates lessons for recordings that have no text yet: study them with your book, add the text later")
-                                                        .clicked()
-                                                {
-                                                    from_rec = Some(i);
+                                                // Rare actions sit in a labelled menu, not as bare icons.
+                                                if !c.lessons.is_empty() {
+                                                    ui.menu_button(RichText::new("More…").size(14.0), |ui| {
+                                                        if ui.button("🎧  Link my recordings of this course…").on_hover_text("A folder of audio files named by lesson, e.g. \"Lesson 12.mp3\"").clicked() {
+                                                            link = Some(i);
+                                                        }
+                                                        if c.builtin && ui.button("📋  Copy to my own courses, to change it").clicked() {
+                                                            copy = Some(i);
+                                                        }
+                                                        if !c.builtin
+                                                            && self.saved.audio_dirs.contains_key(&c.id)
+                                                            && ui.button("＋  A lesson for each recording without text").clicked()
+                                                        {
+                                                            from_rec = Some(i);
+                                                        }
+                                                    })
+                                                    .response
+                                                    .on_hover_text("More");
                                                 }
                                             });
                                         });
@@ -1655,7 +1716,7 @@ impl App {
                 changed |= ui
                     .checkbox(
                         &mut self.saved.cards_after_lesson,
-                        "Add each finished dialogue's sentences to spaced review",
+                        "Add each finished dialogue's sentences to a spaced review (an extra, not part of the Assimil method)",
                     )
                     .changed();
             });

@@ -431,6 +431,7 @@ impl App {
 
         let base = self.base();
         let ci = self.active();
+        let mut pick = None;
         if let (false, Some(c)) = (compact, self.courses.get(ci)) {
             egui::Frame::new()
                 .fill(Color32::from_rgb(33, 47, 72))
@@ -470,8 +471,19 @@ impl App {
                             .size(12.5)
                             .color(NAV_TEXT),
                     );
+                    pick = self.course_menu(ui, RichText::new("⇄ Change course").size(12.5).color(WAVE));
                 });
             ui.add_space(14.0);
+        } else if compact {
+            ui.vertical_centered(|ui| {
+                pick = self.course_menu(ui, RichText::new("⇄").size(18.0).color(WAVE));
+            });
+            ui.add_space(10.0);
+        }
+        if let Some(i) = pick.filter(|&i| i != ci) {
+            self.saved.active_course = self.courses[i].id.clone();
+            self.session = None;
+            self.mark_dirty();
         }
 
         let due = self.cards_due() + self.wave2_pending(ci).len();
@@ -490,6 +502,42 @@ impl App {
                 self.go(screen);
             }
         }
+    }
+
+    /// "Change course" menu: every course with lessons, one submenu per language.
+    fn course_menu(&self, ui: &mut egui::Ui, label: RichText) -> Option<usize> {
+        let base = self.base();
+        let ci = self.active();
+        let mut pick = None;
+        ui.menu_button(label, |ui| {
+            let mut langs: Vec<&str> = Vec::new();
+            for c in &self.courses {
+                if !langs.contains(&c.lang.as_str()) {
+                    langs.push(&c.lang);
+                }
+            }
+            for lang in langs {
+                ui.menu_button(lang_name(lang, &base), |ui| {
+                    let mut own: Vec<usize> = (0..self.courses.len())
+                        .filter(|&i| self.courses[i].lang == lang && !self.courses[i].lessons.is_empty())
+                        .collect();
+                    own.sort_by_key(|&i| (!self.courses[i].builtin, self.courses[i].stage.map(|s| s as u8)));
+                    for i in own {
+                        let sc = &self.courses[i];
+                        let name = match sc.stage.filter(|_| sc.builtin) {
+                            Some(st) => format!("{} · {}", st.name(&base), st.span()),
+                            None => sc.name_in(&base).to_string(),
+                        };
+                        if ui.add(egui::Button::selectable(i == ci, name)).clicked() {
+                            pick = Some(i);
+                        }
+                    }
+                });
+            }
+        })
+        .response
+        .on_hover_text("Change course");
+        pick
     }
 
     pub fn go(&mut self, screen: Screen) {
@@ -1250,7 +1298,7 @@ impl App {
                                                 {
                                                     link = Some(i);
                                                 }
-                                                if c.builtin && ui.add(theme::ghost("Copy")).on_hover_text("Copy this course to your own courses to expand or change it").clicked() {
+                                                if c.builtin && ui.add(theme::ghost("📋")).on_hover_text("Copy this course to your own courses to expand or change it").clicked() {
                                                     copy = Some(i);
                                                 }
                                                 if !c.builtin

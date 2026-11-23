@@ -30,14 +30,24 @@ pub const HIGHLIGHT: Color32 = Color32::from_rgb(255, 243, 204);
 fn cjk_font() -> Option<Vec<u8>> {
     let mut candidates: Vec<String> = Vec::new();
     if cfg!(target_os = "linux") {
-        if let Ok(out) = std::process::Command::new("fc-match")
-            .args(["-f", "%{file}", ":lang=zh-cn"])
+        // fc-list, not fc-match: fc-match returns the default font (e.g. Inter)
+        // even when it has no Chinese, which left Chinese as empty boxes.
+        if let Ok(out) = std::process::Command::new("fc-list")
+            .args([":lang=zh", "-f", "%{file}\n"])
             .output()
         {
-            let file = String::from_utf8_lossy(&out.stdout).trim().to_string();
-            if file.ends_with(".ttf") || file.ends_with(".otf") || file.ends_with(".ttc") {
-                candidates.push(file);
-            }
+            let mut files: Vec<String> = String::from_utf8_lossy(&out.stdout)
+                .lines()
+                .filter(|f| f.ends_with(".ttf") || f.ends_with(".otf") || f.ends_with(".ttc"))
+                .map(String::from)
+                .collect();
+            // Full Noto/Source fonts first, then the rest (e.g. Droid fallback).
+            files.sort_by_key(|f| match f {
+                f if f.contains("CJK") || f.contains("Han") => 0,
+                f if f.contains("Full") => 1,
+                _ => 2,
+            });
+            candidates.extend(files);
         }
     }
     candidates.extend(

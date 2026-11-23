@@ -1,3 +1,370 @@
 course: en
 stage: perfectionnement
 bases: it
+
+== 46 C1
+numeral: Lesson Forty-Six
+title: The book club
+title.it: Il club del libro
+
+dialogue:
+- The Thursday Book Club met at Margaret's house, where, as usual, the wine was opened well before the book.
+  it: Il club del libro del giovedì si riuniva a casa di Margaret, dove, come al solito, il vino veniva aperto molto prima del libro.
+- "The book this month," said Margaret, who chaired the club, "was The Tilting Bridge, which Janet suggested, so who would like to begin?"
+  it: "Il libro di questo mese," disse Margaret, che presiedeva il club, "era The Tilting Bridge, proposto da Janet: allora, chi vuole cominciare?"
+- Nobody had read it, but everybody had come prepared, and Derek, who had read the first page in the shop, began.
+  it: Nessuno l'aveva letto, ma tutti erano venuti preparati, e cominciò Derek, che aveva letto la prima pagina in negozio.
+- "Admittedly, the opening is slow," he said, "but then it gathers pace."
+  it: "Certo, l'inizio è lento," disse, "ma poi prende ritmo."
+- "Mind you," said Priya, who had read the back cover on the bus, "the plot is a little predictable."
+  it: "Però," disse Priya, che aveva letto la quarta di copertina sull'autobus, "la trama è un po' prevedibile."
+- "To be fair," said Hugh, who had read half a review, "the critics did say that it grows on you."
+  it: "Ad essere giusti," disse Hugh, che aveva letto metà di una recensione, "i critici hanno detto che ci si affeziona (cresce su di te)."
+- Everybody agreed that the heroine, Constance, was a strong character, although nobody could say what she did for a living.
+  it: Tutti concordarono che l'eroina, Constance, era un personaggio forte, anche se nessuno sapeva dire che lavoro facesse.
+- "And the vicar!" said Hugh, who had guessed that there was one. "Frankly, he was the only man in it with any sense."
+  it: "E il parroco!" disse Hugh, che aveva intuito che ce ne fosse uno. "Francamente, era l'unico uomo del libro ad avere un po' di buon senso."
+- "Quite," said Derek, "though I thought the bridge was a little heavy-handed."
+  it: "Esatto," disse Derek, "anche se il ponte l'ho trovato un po' troppo calcato (di mano pesante)."
+- Margaret asked whether the ending had surprised anyone.
+  it: Margaret chiese se il finale avesse sorpreso qualcuno.
+- "Not me," said Derek; "I saw it coming from the first chapter, to be honest."
+  it: "Me no," disse Derek; "l'avevo visto arrivare (venire) fin dal primo capitolo, a dire il vero."
+- At this point Janet, who had said nothing all evening, put down her glass.
+  it: A questo punto Janet, che non aveva detto niente per tutta la sera, posò il bicchiere.
+- "As it happens," she said, "I wrote it, under another name."
+  it: "Guarda caso," disse, "l'ho scritto io, con un altro nome."
+- There was a long silence, in which the wine seemed to be the only thing in the room that was not embarrassed.
+  it: Seguì un lungo silenzio, nel quale il vino sembrava l'unica cosa nella stanza a non essere imbarazzata.
+- "To be fair," said Hugh at last, "we did say that it grows on you."
+  it: "Ad essere giusti," disse alla fine Hugh, "avevamo detto che ci si affeziona."
+- "Mind you," said Janet, "none of you has read it, so how would you know?"
+  it: "Però," disse Janet, "nessuno di voi l'ha letto: come fate a saperlo?"
+- "Next month," said Margaret firmly, "we shall read a dead author, which is safer."
+  it: "Il mese prossimo," disse Margaret con fermezza, "leggeremo un autore morto, che è più sicuro."
+
+notes.it:
+1. The Thursday Book Club met at Margaret's house, where, as usual, the wine was opened well before the book: the Thursday Book Club è "il club del libro del giovedì": un nome usato come aggettivo (Thursday) davanti a un altro, senza -s (lezione 36, nota 2: class system); book club è il gruppo di lettura che si ritrova per discutere un libro. At Margaret's house è "a casa di Margaret": il genitivo, e si può anche dire at Margaret's, senza house. Club (Fondamenti, lezione 53: club) è "circolo". As usual è "come al solito". Well before è "molto prima di": well rafforza before, after, above (well after midnight, "molto dopo mezzanotte"). Was opened è un passato passivo: "veniva aperto". La battuta è che il vino viene prima del libro, e in tutta la lezione il libro non verrà mai aperto: i discorsi dei soci sono i discorsi di chi non ha letto.
+2. "The book this month," said Margaret, who chaired the club, "was The Tilting Bridge, which Janet suggested, so who would like to begin?": said Margaret dopo la citazione ha il verbo prima del nome (lezione 5, nota 9). Chair è "presiedere": chair a meeting, "presiedere una riunione"; il nome the chair è "il presidente" della riunione, in modo neutro, e chairman e chairwoman sono "presidente" uomo e donna. The book this month è "il libro di questo mese": this month, senza preposizione. The Tilting Bridge è un titolo inventato: tilt è "inclinare", e tilting è "pendente, inclinato"; si dice *til*ting. Which Janet suggested è una relativa non restrittiva, tra virgole (lezione 7): "che Janet aveva proposto". Suggest è "proporre": suggest a book, suggest meeting on Friday; la persona a cui si propone vuole to: suggest a book to Janet. So who would like to begin? è la domanda formale di chi presiede: would like to begin è "vorrebbe cominciare", più cortese di who wants to begin. So, qui, dice che la domanda segue dalla presentazione del libro.
+3. Nobody had read it, but everybody had come prepared, and Derek, who had read the first page in the shop, began: nobody (Fondamenti, lezione 36: nobody) ha il verbo al singolare: nobody had read. Had read e had come prepared sono due past perfect: erano azioni precedenti all'inizio della riunione. Read si scrive uguale al presente e si dice red: read - read - read. Come prepared è "venire preparati": come + aggettivo (come ready, "venire pronti"), e prepared è "preparato"; prepare è "preparare, prepararsi". Shop (Fondamenti, lezione 13: shop) è qui la libreria, e in inglese si dice bookshop, o bookstore in America; the shop è "il negozio" già nominato. Derek, who had read the first page, began è una relativa non restrittiva tra due virgole: l'informazione è un inciso, e il soggetto Derek resta lontano dal verbo began. La battuta è che Derek ha letto una pagina, e vuole fare il critico.
+4. "Admittedly, the opening is slow," he said, "but then it gathers pace": admittedly è un discourse marker, un "segnale" con cui chi parla ordina il discorso. Vuol dire "certo, bisogna ammettere che", e si usa per concedere un punto contrario alla propria tesi, prima di un but: Admittedly it is expensive, but it is worth it, "è vero che costa, ma ne vale la pena". È un avverbio che viene da admit (lezione 36, nota 2: admit to), con -ed + -ly: admittedly si dice ëd*mi*tidli. Sta di solito all'inizio della frase, seguito da una virgola. Il discourse marker non dice niente del libro, e dice che Derek parla da critico: concede un difetto per sembrare equilibrato. The opening è "l'inizio" di un libro o di un film; opening, nome, anche "apertura" e "posto libero" (a job opening). Gather pace è "prendere ritmo, accelerare": gather, qui, è "acquistare", e pace è "il passo, il ritmo"; si dice anche gather speed. Then, dopo but, è "poi".
+5. "Mind you," said Priya, who had read the back cover on the bus, "the plot is a little predictable": mind you è un discourse marker che aggiunge una riserva, o una precisazione, a quello che si è detto prima: "però, bisogna dire". Sta di solito all'inizio o in fondo alla frase (It's cheap, mind you). Qui Priya concede che il libro ha un difetto, anche se Derek ha appena fatto un complimento: mind you dice "tuttavia". Back cover è la "quarta di copertina", dove di solito c'è la trama e a volte la biografia dell'autore; il fronte è the front cover. Predictable è "prevedibile": predict, "prevedere", più -able, "che si può". A little predictable è "un po' prevedibile": a little prima di un aggettivo vuol dire "un po'" (lezione 36, nota 9). On the bus (Fondamenti, lezione 24: bus) si dice on, perché si è "sul" mezzo pubblico. Plot è "la trama", e anche "il complotto".
+6. "To be fair," said Hugh, who had read half a review, "the critics did say that it grows on you": to be fair è "ad essere giusti, per essere onesti": un marker che si usa per difendere chi è stato criticato, o per dare un punto a favore: To be fair, he did apologise, "ad essere giusti, si è scusato". Dice che chi parla cerca di essere equo, e spesso arriva dopo una critica dura (qui, quella di Priya). Half a review è "metà di una recensione": half a o a half con un nome (half an hour). Review è la "recensione", e il verbo to review è "recensire" (in America anche "ripassare"). Critics è "i critici", con la c che si dice k. Did say è un do enfatico (lezione 10, nota 15; lezione 35): "hanno proprio detto", per insistere sul fatto che l'hanno detto. Grow on someone è "piacere sempre di più, a poco a poco": the music grows on you, "la musica ti piace sempre di più": grow + on + persona, con un soggetto che prima non piaceva. La battuta sta nel fatto che chi lo dice non ha letto il libro, e dice che cresce senza aver visto la pianta.
+7. Everybody agreed that the heroine, Constance, was a strong character, although nobody could say what she did for a living: agree that è "essere d'accordo che"; everybody ha il verbo al singolare. Heroine è "l'eroina", la protagonista femminile di un libro, e si dice *he*rouin: hero, "eroe", ha il femminile heroine, che non è la droga, heroin, che si dice allo stesso modo ma si scrive senza e. Strong è "forte": a strong character, "un personaggio forte"; character, nel senso di "personaggio" e di "carattere": si dice *kè*riktë. Although è "anche se", più formale di though (lezione 36, nota 11). What she did for a living è una domanda indiretta, con la forma affermativa, e il passato did; for a living è "per vivere": What do you do for a living?, "che lavoro fai?". Il comico: tutti concordano su un personaggio di cui non sanno nulla, e il verbo agreed è formale quanto basta.
+8. "And the vicar!" said Hugh, who had guessed that there was one. "Frankly, he was the only man in it with any sense.": vicar è il "parroco" della Chiesa d'Inghilterra, e anche "pastore": in un villaggio britannico, il vicar è un personaggio tipico dei romanzi; non è "vicario" nel senso di vice. Had guessed that there was one è un past perfect: guess è "indovinare, supporre", e one sostituisce a vicar (lezione 29, nota 6: one). Hugh fa finta di averlo letto e ha tirato a indovinare: la frase del testo lo ammette in una subordinata, senza accorgersene. Frankly è un discourse marker di sincerità, "francamente": frankly, quite frankly, to be frank; ha il tono di chi sta per dire una cosa forte. The only man in it è "l'unico uomo del libro": in it, dove it è il libro. With any sense è "con un po' di senno": sense, qui, è "buon senso" (common sense), e any, in una frase affermativa dopo only, vuol dire "un minimo di".
+9. "Quite," said Derek, "though I thought the bridge was a little heavy-handed.": quite, da solo, in una risposta, è "esatto, proprio così": un modo britannico di dire "sono d'accordo", che si sente anche in Quite so e in Quite right (Fondamenti, lezione 94: quite, "abbastanza" in quite good; i due sensi sono diversi, e il contesto dice quale). Though in mezzo alla frase è "anche se"; in fondo alla frase (It was cheap, though) vuol dire "però". Heavy-handed è "pesante, senza tatto", alla lettera "di mano pesante": si dice di uno scrittore che mette in evidenza ciò che dovrebbe suggerire: a heavy-handed symbol. Il ponte del titolo è il simbolo del libro, e Derek, che ha letto una pagina, lo critica con un termine tecnico. A little heavy-handed è "un po' troppo calcato" (nota 5).
+10. Margaret asked whether the ending had surprised anyone. "Not me," said Derek; "I saw it coming from the first chapter, to be honest.": asked whether è una domanda indiretta (lezione 44, nota 6): "chiese se". Had surprised è un past perfect: la sorpresa viene prima del momento in cui Margaret chiede. Ending è "il finale", e si dice anche the end: the ending of a book è come finisce la storia, mentre the end è l'ultima pagina. Surprise è un verbo transitivo, "sorprendere": surprise someone; l'aggettivo è surprised, surprising (lezione 36, nota 12). Anyone, in una domanda indiretta, vuol dire "qualcuno" (any in domande e dubbi). not me è "io no": la risposta breve, con il pronome obliquo (me), e non I (come in Me too, "anch'io"). See it coming è "vederlo arrivare", cioè prevedere: I saw it coming from the first chapter, "l'avevo capito fin dal primo capitolo"; è un'espressione fatta, e vale per un guaio come per una notizia (He never saw it coming, "non se lo aspettava"). From the first chapter è "fin dal primo capitolo": from dice il punto di partenza. To be honest è un marker di sincerità, in fondo alla frase: "a dire il vero". Funziona come frankly (nota 8), ma è più colloquiale e si dice di solito prima o dopo qualcosa di sgradevole, o di un'opinione. Attenzione: chi dice to be honest, in genere, sta per dire la cosa meno gentile, e chi ascolta lo sa. Derek, che ha letto una pagina, ha previsto il finale dal capitolo uno: la logica regge solo perché non ha letto gli altri.
+11. At this point Janet, who had said nothing all evening, put down her glass. "As it happens," she said, "I wrote it, under another name.": at this point è "a questo punto": un marker di tempo, in un racconto. Had said nothing è un past perfect con nothing: "non aveva detto niente": in inglese una sola negazione, nothing, e il verbo affermativo (not ... nothing non esiste). All evening è "per tutta la sera": all + periodo, senza for (all day, all week). Put down è "posare": put down your glass, "posa il bicchiere", e il verbo si separa: put it down. Glass è "bicchiere" e "vetro", e glasses sono "gli occhiali" e "i bicchieri": con una parola, tre sensi. as it happens è un discourse marker che introduce un fatto vero e rilevante, spesso sorprendente, che chi ascolta non si aspetta: "guarda caso, a dire il vero". Non vuol dire "come succede": as it happens vale, come as a matter of fact, it so happens that: As it happens, I know him, "guarda caso, lo conosco". Si dice di solito quando un fatto smentisce quello che si è detto prima: qui Janet scopre di essere l'autrice dopo che tutti hanno criticato il libro. Wrote è il passato di write (write - wrote - written). Under another name è "con un altro nome": si dice write under a pseudonym, o pen name, "pseudonimo": il nome con cui uno firma i suoi libri. Un autore con un nome di penna è, per i soci, uno sconosciuto.
+12. There was a long silence, in which the wine seemed to be the only thing in the room that was not embarrassed: silence è "silenzio" e si dice *sai*lëns. In which è "nel quale": la preposizione sta davanti al relativo, nello scritto curato (lezione 36, nota 1: on which). Seemed to be è "sembrava essere": seem + to be. The only thing ... that was not embarrassed è "l'unica cosa ... a non essere imbarazzata": il vino è personificato, e embarrassed (lezione 36, nota 1) vuole una persona. Il vino è l'unico a non provare imbarazzo perché è l'unico a non aver parlato del libro. In the room è "nella stanza": the room è il posto in cui si trovano.
+13. "To be fair," said Hugh at last, "we did say that it grows on you": at last è "finalmente, alla fine": at last dice che si è atteso a lungo (finally e in the end hanno altri sensi). To be fair apre di nuovo la frase, e ora Hugh difende sé e i soci, dopo aver criticato: il marker è lo stesso della frase 6, ma usato per un'altra ragione, e il lettore lo nota. Did say è il do enfatico (nota 6). Grows on you resta al presente, perché dice come il libro, in generale, agisce sui lettori. We did say that, dopo to be fair, vuol dire "non potete accusarci di avervi mentito": è l'ultima difesa dei soci, e ripete la frase 6.
+14. "Mind you," said Janet, "none of you has read it, so how would you know?" "Next month," said Margaret firmly, "we shall read a dead author, which is safer.": mind you, qui, ha lo stesso senso della frase 5, "però", ma Janet lo usa per rovesciare l'argomento: i critici non hanno titolo. None of you ha il verbo al singolare (has), nello scritto più curato; si trova anche none of you have. None of + plurale è "nessuno di": none of them, none of us. So how would you know? è "come fareste a saperlo?": would dice un'ipotesi: se non avete letto il libro, che cosa potete dirne? La domanda è retorica: so, qui, vuol dire "di conseguenza". next month è "il mese prossimo", senza preposizione. Firmly è "con fermezza" (firm, "fermo"). We shall read è il futuro con shall della prima persona, formale, britannico (we shall, I shall), che nel parlare si sente meno di we will. Dead author è "un autore morto": dead (aggettivo) è "morto", mentre died è il passato di die, e death è "la morte". Which is safer riguarda l'intera frase: which si riferisce a tutta la proposizione (lezione 37, nota 8). Safer è il comparativo di safe, "sicuro, al sicuro": safe - safer - safest (lezione 11, nota 6). L'ultima battuta è la ragione di tutta la lezione: un autore morto non può essere presente e non può offendersi, e un club di lettori che non leggono può continuare a fare a meno dei libri senza rischi.
+
+ex1:
+- Admittedly, the film is long, but it never gets boring.
+  it: Certo, il film è lungo, ma non diventa mai noioso.
+- To be fair, he did warn us that the road might be closed.
+  it: Ad essere giusti, ci aveva avvertiti che la strada poteva essere chiusa.
+- The hotel is lovely; it is expensive, mind you.
+  it: L'albergo è bellissimo; costa caro, però.
+- As it happens, I know the author, and he is very shy.
+  it: Guarda caso, conosco l'autore, ed è molto timido.
+- Nobody had read the book, but everybody pretended that they had.
+  it: Nessuno aveva letto il libro, ma tutti facevano finta di averlo letto.
+
+ex2:
+- [Admittedly], the plan is risky, [but] it might work.
+  it: Certo, il piano è rischioso, ma potrebbe funzionare.
+- "Do you agree?" "[Quite]." I could not have put it better.
+  it: "Sei d'accordo?" "Esatto." Non avrei saputo dirlo meglio.
+- [To] be [fair], she did say that she would be late.
+  it: Ad essere giusti, aveva detto che avrebbe fatto tardi.
+- I saw it [coming] from the first page.
+  it: L'avevo visto arrivare fin dalla prima pagina.
+- "Who wrote it?" "[As] it [happens], I did."
+  it: "Chi l'ha scritto?" "Guarda caso, io."
+
+== 47 C1
+numeral: Lesson Forty-Seven
+title: Dear Sir or Madam
+title.it: Egregio Signore o Gentile Signora
+
+dialogue:
+- 27 Elm Court, Leeds
+  it: 27 Elm Court, Leeds (l'indirizzo di chi scrive, in alto a destra)
+- 12 March 2026
+  it: 12 marzo 2026
+- The Manager, Westmark Bank plc, 8 Market Place, Leeds
+  it: Al direttore, Westmark Bank plc, 8 Market Place, Leeds (il destinatario, a sinistra)
+- Dear Sir or Madam,
+  it: Egregio Signore o Gentile Signora,
+- Account number 31415926: unauthorised charge of £35
+  it: Conto numero 31415926: addebito non autorizzato di 35 sterline
+- I am writing to complain about a charge of £35 that appeared on my statement of 28 February.
+  it: Scrivo per lamentarmi di un addebito di 35 sterline comparso sul mio estratto conto del 28 febbraio.
+- The entry is described as an "overdraft fee", although my account has been in credit every day since I opened it, a state of affairs I have never reached in any other part of my life.
+  it: La voce è descritta come "commissione di scoperto", benché il mio conto sia stato in attivo ogni giorno da quando l'ho aperto, una situazione che non ho mai raggiunto in nessun altro campo della mia vita.
+- I enclose a copy of the statement, with the entry marked, and a copy of the balance for the days in question.
+  it: Allego una copia dell'estratto conto, con la voce segnata, e una copia del saldo dei giorni in questione.
+- I should be grateful if you would investigate the matter and refund the amount without delay.
+  it: Vi sarei grata se voleste esaminare la questione e rimborsare l'importo senza indugio.
+- I should also like to know how an account in credit can be overdrawn, a feat that I have not managed in seven years of trying.
+  it: Vorrei anche sapere come un conto in attivo possa essere scoperto, un'impresa che io non sono riuscita a compiere in sette anni di tentativi.
+- I have banked with you since 2019, and until now I have had no reason to complain.
+  it: Ho il conto presso di voi dal 2019, e fino a oggi non ho avuto motivo di lamentarmi.
+- In the meantime, I should be obliged if you would not charge me for reading this letter.
+  it: Nel frattempo, vi sarei obbligata se non mi addebitaste la lettura di questa lettera.
+- If I have not received a satisfactory reply within fourteen days, I shall have no choice but to take the matter further.
+  it: Se entro quattordici giorni non avrò ricevuto una risposta soddisfacente, non avrò altra scelta che portare la questione avanti.
+- I look forward to hearing from you.
+  it: Attendo vostre notizie.
+- Yours faithfully,
+  it: Distinti saluti, (Yours faithfully, la formula quando non si conosce il nome)
+- Rosalind Hart
+  it: Rosalind Hart (sopra il nome stampato va la firma)
+- Enc. 2
+  it: Enc. 2 (allegati: due)
+
+notes.it:
+1. 27 Elm Court, Leeds / 12 March 2026 / The Manager, Westmark Bank plc, 8 Market Place, Leeds: in una lettera formale britannica l'indirizzo di chi scrive va in alto, a destra o a sinistra, senza il nome; l'indirizzo del destinatario va a sinistra, sotto la data o sopra. Il numero precede il nome della via (27 Elm Court), il nome della città segue, e il codice postale, il postcode, è l'ultima riga (qui l'abbiamo tolto). La data si scrive giorno, mese e anno, con il mese in lettere e senza virgola: 12 March 2026, che si legge the twelfth of March, two thousand and twenty-six; si trova anche 12th March, e l'americano scrive March 12, 2026. Il mese in lettere evita l'equivoco: 3/12/2026 è il 3 dicembre in America e il 12 marzo in Gran Bretagna. The Manager è "il direttore" di una filiale, e si usa quando non si conosce il nome: la lettera è per un ufficio, non per una persona. Plc è public limited company, "società per azioni", e si dice pi‣-el-si‣: si scrive dopo il nome (Westmark Bank plc), e gli enti più piccoli hanno Ltd (limited), "società a responsabilità limitata". Westmark Bank è una banca inventata.
+2. Dear Sir or Madam,: è la formula se non si conosce il nome di chi riceve la lettera (Fondamenti, lezione 89: Dear Sir or Madam): sir è "signore", madam "signora", e or li unisce. Si scrivono con la maiuscola (Sir, Madam), come Dear. Dopo la formula c'è una virgola, o niente (in uno stile più moderno, senza punteggiatura, si scrive Dear Sir or Madam e basta). Dear Sirs, "egregi signori", è la forma più antica, e oggi sembra scortese verso le donne; To whom it may concern si usa nelle attestazioni e nelle referenze, non nelle lettere di reclamo. Dear, nella lettera, non vuol dire "caro": è la formula d'apertura, come in italiano "Egregio". La lettera comincia, quando non si sa il nome, con Dear Sir or Madam, e chiude con Yours faithfully (nota 13): le due formule vanno sempre insieme.
+3. Account number 31415926: unauthorised charge of £35: la riga dell'oggetto sta sotto la formula d'apertura, e dice di che cosa si tratta e a quale conto: serve all'ufficio per smistare la lettera. Account è il "conto" (bank account): un conto britannico ha un numero di otto cifre e un sort code di sei, che indica la filiale (40-21-56). Unauthorised è "non autorizzato": authorise (americano authorize) è "autorizzare", e il prefisso un- dà il contrario (lezione 43, nota 6: uncovers); si dice an*o‣*θëraizd. Charge è "addebito, costo" (a charge of £35); è anche il verbo: charge someone £35, "addebitare 35 sterline a qualcuno". £35 si scrive con il simbolo davanti, senza spazio, e si legge thirty-five pounds, e non "pounds thirty-five".
+4. I am writing to complain about a charge of £35 that appeared on my statement of 28 February: I am writing to + verbo è la formula con cui comincia una lettera formale (Fondamenti, lezione 89: I am writing to): I am writing to enquire about, to apply for, to confirm, "scrivo per chiedere, per candidarmi, per confermare". Complain about è "lamentarsi di": complain about a charge, e non "complain for"; complain si dice këm*plein*. A charge ... that appeared è una relativa con that: la voce che è "comparsa". Statement è l'"estratto conto" (bank statement), e in generale "dichiarazione" (make a statement). Of 28 February è "del 28 febbraio": of + data per un documento (a letter of 3 May), e si legge the twenty-eighth of February.
+5. The entry is described as an "overdraft fee", although my account has been in credit every day since I opened it, a state of affairs I have never reached in any other part of my life: entry è "la voce" di un registro o di un estratto conto; is described as è "è descritta come". Overdraft è lo "scoperto", il denaro che si preleva oltre il saldo, e overdrawn è "scoperto": to overdraw, overdraw - overdrew - overdrawn (nota 8); overdraft fee è la "commissione di scoperto". In credit è "in attivo", il contrario di overdrawn o in the red, "in rosso". Although my account has been in credit è una concessiva: benché il conto "sia stato" in attivo (present perfect), since I opened it è "da quando l'ho aperto": since + passato semplice dà il punto di partenza (lezione 36, nota 8: since then). A state of affairs è "una situazione": a state of affairs I have never reached è una relativa senza that (a state of affairs that I have never reached). La battuta è che la scrivente ha un conto sempre in attivo, e dice che è una condizione che non ha raggiunto in nessun altro campo della sua vita.
+6. I enclose a copy of the statement, with the entry marked, and a copy of the balance for the days in question: enclose è "allegare" (alla lettera "chiudere dentro" la busta): è il verbo della lettera su carta; per le e-mail si dice attach, "I attach". Si trova anche please find enclosed, più formale. Copy è "copia": a copy of, e si dice *ko*pi. With the entry marked è with + nome + participio passato (with the entry marked, "con la voce segnata"), una frase che dice come qualcosa è: with her eyes closed, "a occhi chiusi". Balance è il "saldo" di un conto; si dice *bè*lëns. The days in question è "i giorni in questione": in question vuol dire "di cui si parla", ed è una formula d'ufficio (the matter in question). Enc., in fondo alla lettera (nota 13), dice quanti documenti sono allegati.
+7. I should be grateful if you would investigate the matter and refund the amount without delay: I should be grateful if you would + forma base è la formula britannica formale per una richiesta (Fondamenti, lezione 89: I would be grateful if you would): "le sarei grato se volesse". Con I e we, nell'inglese britannico formale, si può dire should; would va bene con tutti i soggetti: la lezione 38, nota 1, ne ha un esempio (I should be grateful if we both survived it). Il condizionale e il would danno distanza e cortesia: I should be grateful if you would è più educato di Please investigate. Investigate è "indagare, esaminare": in*ve*stigeit; the matter è "la questione". Refund è "rimborsare": come verbo ha l'accento sulla seconda sillaba, ri*fand*; come nome, "rimborso", sulla prima, *ri‣*fand. The amount è "l'importo", la somma di denaro. Without delay è "senza indugio, subito": without + nome, e delay si dice di*lei*, "ritardo, indugio".
+8. I should also like to know how an account in credit can be overdrawn, a feat that I have not managed in seven years of trying: I should like to know è "vorrei sapere", con should, come nella frase 9 (nota 7). Should like, al posto di would like (Fondamenti, lezione 94: I would like): I should like to è più formale, e dopo I è l'uso britannico antico. How an account in credit can be overdrawn è una domanda indiretta: l'ordine è quello di una frase affermativa (how an account can be, non "how can an account be"). Overdrawn (nota 5) è "scoperto". Feat è "impresa, exploit" e si dice fi‣t; a feat that I have not managed è una apposizione: il nome dopo la virgola spiega la frase che precede. Manage è "riuscire a": managed to + forma base, e senza oggetto, I have not managed, "non ci sono riuscita"; manage, di un'azienda, è "dirigere". In seven years of trying è "in sette anni di tentativi": in + periodo + of + -ing. La battuta è che la scrivente tratta lo scoperto come un'impresa che lei, in sette anni, non è mai riuscita a compiere: la banca le attribuisce un traguardo che le è sempre sfuggito.
+9. I have banked with you since 2019, and until now I have had no reason to complain: bank è anche un verbo in inglese: bank with someone è "avere il conto presso": who do you bank with?, "con chi hai il conto?". Since 2019 è "dal 2019": since + data con un present perfect (Fondamenti, lezione 38: since). Until now è "fino a oggi, finora"; until now I have had no reason, "finora non ho avuto motivo". No reason to complain è "nessun motivo di lamentarmi": reason to + forma base (I have no reason to doubt it). Questo tipo di frase serve in una lettera di reclamo per mostrare che chi scrive è un cliente di lunga data, e non uno che si lamenta per partito preso: è un argomento di cortesia, e anche una minaccia gentile.
+10. In the meantime, I should be obliged if you would not charge me for reading this letter: in the meantime è "nel frattempo": in the meantime, o meanwhile, introduce che cosa si vuole mentre si aspetta la risposta. I should be obliged if you would è più formale e un po' più rigido di I should be grateful (nota 7): oblige è "obbligare, fare un favore", e I should be obliged è "gliene sarei obbligata". Charge someone for + -ing è "far pagare a qualcuno per": charge me for reading, "farmi pagare per averla letta"; charge (nota 3) è un verbo transitivo con due complementi: charge me £35. Il gioco è che la banca, che ha già addebitato 35 sterline per niente, potrebbe farne pagare anche la lettura; la scrivente lo dice con la stessa cortesia formale del resto, e il tono secco è la forma d'ironia della lettera formale.
+11. If I have not received a satisfactory reply within fourteen days, I shall have no choice but to take the matter further: if + present perfect (if I have not received) con la principale al futuro (I shall have): il present perfect dopo if dice che l'azione sarà finita a quel momento. Satisfactory è "soddisfacente": si dice sètis*fèk*tëri; satisfied è "soddisfatto". Reply (Fondamenti, lezione 89: reply) è "risposta". Within è "entro": within fourteen days, "entro quattordici giorni"; in inglese britannico si dice anche a fortnight, "due settimane", che è più comune nel parlare. I shall have no choice but to è "non avrò altra scelta che": no choice but to + forma base; shall, con I, è la forma formale del futuro britannico (lezione 46, nota 14: we shall read). Take the matter further è "portare avanti la questione", e in una lettera di reclamo è una minaccia garbata: si riferisce alla possibilità di rivolgersi a un ente di tutela, o a un avvocato, senza nominarli.
+12. I look forward to hearing from you: look forward to + -ing è "aspettare con piacere": to, qui, è una preposizione, e dopo vuole -ing (I look forward to seeing you), e non la forma base. Hear from è "ricevere notizie da": hear from you, "avere vostre notizie", mentre hear of è "sentir parlare di". La frase è la chiusura quasi obbligatoria di una lettera formale: dice che si aspetta una risposta, e di solito è l'ultima riga prima di Yours faithfully. Si trova anche I look forward to your reply, più diretto, con un nome e senza -ing.
+13. Yours faithfully, / Rosalind Hart / Enc. 2: Yours faithfully è la chiusura di una lettera che comincia con Dear Sir or Madam (nota 2): si scrive con la Y maiuscola e la f minuscola (Fondamenti, lezione 89: Yours faithfully). Se si conosce il nome (Dear Ms Hart), si chiude con Yours sincerely, e la lezione 48 lo mostra. In America si dice Sincerely o Yours truly, e in Gran Bretagna, nelle lettere meno formali, Kind regards o Best wishes. Dopo Yours faithfully, un po' di spazio, per la firma a mano, e sotto il nome stampato: Rosalind Hart. Nella lettera formale il nome è scritto per esteso, senza il titolo; chi vuole specificarlo lo mette in parentesi: (Ms). Enc. è l'abbreviazione di enclosure, o enclosures, "allegato, allegati"; Enc. 2 dice che ci sono due fogli allegati (l'estratto conto e il saldo). Ms si dice miz, ed è il titolo neutro per una donna, che non dice se è sposata (Mrs) o no (Miss).
+14. La struttura di una lettera formale, nell'ordine: l'indirizzo di chi scrive; la data; il nome e l'indirizzo del destinatario; la formula d'apertura (Dear Sir or Madam); la riga dell'oggetto; il corpo della lettera, in paragrafi brevi, con la richiesta chiara; la formula di chiusura (Yours faithfully), la firma e il nome stampato; Enc. se ci sono allegati. Il tono è educato e secco: nessuna esclamazione, nessuna contrazione (I am, I have, I should, non I'm, I've, I'd), e frasi complete. L'educazione è la forma più sicura di fermezza: la lettera di Rosalind Hart non perde mai la calma, e chiede in tre modi diversi la stessa cosa: l'esame, il rimborso e una spiegazione.
+
+ex1:
+- I am writing to complain about a charge that appeared on my statement.
+  it: Scrivo per lamentarmi di un addebito comparso sul mio estratto conto.
+- I enclose a copy of the letter, with the date marked.
+  it: Allego una copia della lettera, con la data segnata.
+- I should be grateful if you would refund the amount without delay.
+  it: Vi sarei grato se voleste rimborsare l'importo senza indugio.
+- I have banked with you for seven years and have never had a reason to complain.
+  it: Ho il conto presso di voi da sette anni e non ho mai avuto un motivo di lamentarmi.
+- If I do not receive a reply within a fortnight, I shall take the matter further.
+  it: Se non ricevo una risposta entro due settimane, porterò avanti la questione.
+
+ex2:
+- A letter that begins "Dear Sir or Madam" ends with "Yours [faithfully]".
+  it: Una lettera che comincia con "Dear Sir or Madam" finisce con "Yours faithfully".
+- I look [forward] to [hearing] from you.
+  it: Attendo vostre notizie.
+- My account has been [in] credit [since] I opened it.
+  it: Il mio conto è in attivo da quando l'ho aperto.
+- I should be [grateful] if you would investigate the matter.
+  it: Vi sarei grato se voleste esaminare la questione.
+- The bank charged me £35 [for] nothing.
+  it: La banca mi ha addebitato 35 sterline per niente.
+
+== 48 C1
+numeral: Lesson Forty-Eight
+title: Dear Ms Hart
+title.it: Gentile signora Hart
+
+dialogue:
+- Customer Relations, Westmark Bank plc, 8 Market Place, Leeds
+  it: Customer Relations (Relazioni con la clientela), Westmark Bank plc, 8 Market Place, Leeds (l'intestazione della banca)
+- 19 March 2026
+  it: 19 marzo 2026
+- Ms R. Hart, 27 Elm Court, Leeds
+  it: Alla signora R. Hart, 27 Elm Court, Leeds
+- Our reference: CR/2291/GP
+  it: Nostro riferimento: CR/2291/GP
+- Dear Ms Hart,
+  it: Gentile signora Hart,
+- Account number 31415926
+  it: Conto numero 31415926
+- Thank you for your letter of 12 March, which we received on the 18th.
+  it: La ringraziamo per la sua lettera del 12 marzo, che abbiamo ricevuto il 18.
+- We were sorry to learn that you had cause for concern, and we should like to assure you that complaints are taken very seriously by this bank.
+  it: Ci è dispiaciuto apprendere che lei aveva motivo di preoccupazione, e desideriamo assicurarle che i reclami sono presi molto sul serio da questa banca.
+- The matter has been referred to the appropriate department, whose staff will give it their immediate attention in due course.
+  it: La questione è stata sottoposta all'ufficio competente, il cui personale le dedicherà la sua immediata attenzione a tempo debito.
+- We note that you have banked with us since 2019, and we should like to take this opportunity to thank you for your custom.
+  it: Prendiamo atto che lei ha il conto presso di noi dal 2019, e desideriamo cogliere l'occasione per ringraziarla della sua fiducia (clientela).
+- Our records indicate that the charge was applied in accordance with the terms and conditions of your account.
+  it: Dai nostri registri risulta che l'addebito è stato applicato in conformità alle condizioni del suo conto.
+- We regret that we are unable to comment on individual cases at this stage.
+  it: Ci rammarichiamo di non poter commentare i singoli casi in questa fase.
+- We would, however, point out that the terms and conditions are available on our website, where they may be consulted at any time and where, we are told, some customers have found them.
+  it: Facciamo tuttavia notare che le condizioni sono disponibili sul nostro sito, dove si possono consultare in qualsiasi momento e dove, a quanto ci dicono, alcuni clienti le hanno trovate.
+- As regards your request for a refund, we are not in a position to give an undertaking at present.
+  it: Per quanto riguarda la sua richiesta di rimborso, al momento non siamo in grado di assumere alcun impegno.
+- We trust that this clarifies the position.
+  it: Confidiamo che questo chiarisca la situazione.
+- Should you require any further information, please do not hesitate to contact us, quoting the reference above.
+  it: Qualora desiderasse ulteriori informazioni, non esiti a contattarci, citando il riferimento qui sopra.
+- Yours sincerely,
+  it: Distinti saluti, (Yours sincerely, la formula quando si conosce il nome)
+- Giles Parfitt, Customer Relations Officer
+  it: Giles Parfitt, funzionario delle Relazioni con la clientela
+- P.S. Pam, this is the Hart one: usual reply, no refund, and file her under "Persistent".
+  it: P.S. Pam, questa è quella di Hart: risposta solita, nessun rimborso, e mettila sotto "Insistenti".
+
+notes.it:
+1. Customer Relations, Westmark Bank plc, 8 Market Place, Leeds / 19 March 2026 / Ms R. Hart, 27 Elm Court, Leeds / Our reference: CR/2291/GP: una banca scrive su carta intestata (letterhead), con il nome e l'indirizzo in alto; la data viene dopo, in giorno, mese e anno (lezione 47, nota 1), e l'indirizzo del destinatario è a sinistra, sotto la data. Ms R. Hart è "la signora R. Hart": Ms si dice miz ed è il titolo neutro (lezione 47, nota 13), e R. è l'iniziale del nome di battesimo; in uno stile moderno si scrive anche Ms R Hart, senza il punto. Customer Relations è "relazioni con la clientela": customer (lezione 41, nota 7) è il cliente di un negozio o di una banca. Our reference è "nostro riferimento": una combinazione di lettere e numeri (CR, di Customer Relations; 2291, il numero della pratica; GP, le iniziali di chi scrive) che si chiede di citare nella risposta, e che serve a ritrovare la pratica. Di solito si ha anche Your reference, "vostro riferimento", se chi scrive ne ha dato uno: Ms Hart non l'ha fatto, e la banca ne ha creato uno.
+2. Dear Ms Hart,: titolo e cognome, mai titolo e nome (non "Dear Ms Rosalind"). Con il nome noto si chiude con Yours sincerely, e non con Yours faithfully (lezione 47, nota 13). In una lettera più calda si scrive Dear Rosalind, ma in una lettera di banca si usa il cognome. Ms è la scelta più sicura per una donna di cui non si sa se sia sposata (lezione 47, nota 13). Alla formula segue la virgola, o niente (lezione 47, nota 2). In inglese britannico Mr e Mrs si scrivono senza il punto, perché sono contrazioni che finiscono con l'ultima lettera della parola (Mister, Mistress); in America si scrive Mr., Mrs. e anche Ms.
+3. Account number 31415926 / Thank you for your letter of 12 March, which we received on the 18th: la riga dell'oggetto ripete il numero del conto, come nella lettera di Ms Hart (lezione 47, nota 3). Thank you for your letter of 12 March è la formula con cui si apre una risposta: Thank you for your letter of + data, o dated + data (your letter dated 12 March, più formale), e di + data indica il giorno in cui è stata scritta. Which we received on the 18th è una relativa non restrittiva, tra virgole, e the 18th è the eighteenth, con the e il numero ordinale: si dà solo il giorno, perché il mese è già stato detto. La lettera è stata scritta il 12 e ricevuta il 18: sei giorni per un percorso di pochi chilometri, e la lentezza è la prima, delicata, nota di colore. We, qui, è il "noi" istituzionale di chi scrive a nome della banca: in tutta la lettera la banca dice we e mai I.
+4. We were sorry to learn that you had cause for concern, and we should like to assure you that complaints are taken very seriously by this bank: we were sorry to learn that è "ci è dispiaciuto apprendere che": sorry to learn dice un dispiacere per un fatto, non per un errore proprio; learn è "apprendere" una notizia. You had cause for concern è "lei aveva motivo di preoccupazione": cause for + nome (cause for alarm, cause for concern), è più formale di reason to (lezione 47, nota 9); concern è "preoccupazione", ma anche "affare" (it is no concern of yours). La banca si dispiace che la signora abbia avuto un motivo, e non dice che il motivo c'è: è un modo di non scusarsi. We should like to assure you that è "desideriamo assicurarle che": assure someone that (non "assure to"); should like, con we, è il condizionale formale (lezione 47, nota 8). Complaints are taken very seriously by this bank è un passivo con agente (by this bank), alla fine: un passivo sposta l'attenzione dal soggetto all'azione, e permette di non dire chi fa che cosa: take a complaint seriously, "prendere sul serio un reclamo".
+5. The matter has been referred to the appropriate department, whose staff will give it their immediate attention in due course: has been referred è un present perfect passivo: refer to è "rinviare a, sottoporre a", e a chi? A un ufficio non nominato: the appropriate department, "l'ufficio competente". Whose staff è "il cui personale": whose ha un valore possessivo (lezione 4: relative whose), e staff è un nome di gruppo che prende il verbo al plurale o al singolare (the staff will give, their attention). Give something one's attention è "dedicare attenzione a qualcosa": immediate attention è "attenzione immediata". In due course è "a tempo debito, a tempo opportuno": una formula che non dà una data, e che si usa quando non si vuole fissarla. La frase contiene due tempi che non vanno insieme: immediate dice "subito", e in due course dice "prima o poi", e la banca li mette nella stessa frase. Matter è "questione, faccenda" (lezione 47, nota 7).
+6. We note that you have banked with us since 2019, and we should like to take this opportunity to thank you for your custom: we note that è "prendiamo atto che": una formula che registra un fatto senza commentarlo, e che in una lettera formale significa "abbiamo letto". Have banked with us since 2019 ripete l'informazione della lettera di Ms Hart (lezione 47, nota 9): la banca la usa come un complimento. Take this opportunity to + forma base è "cogliere l'occasione per": è una formula di cortesia, e si trova alla fine di una lettera o di un discorso. Custom è qui "clientela, fiducia dei clienti": thank you for your custom, "grazie di essere nostra cliente". Custom, nome non numerabile, è un falso amico di "costume" (che si dice costume o clothes): custom è "usanza" (an old custom), e customs, plurale, è "la dogana" (go through customs); il cliente è customer (lezione 41, nota 7).
+7. Our records indicate that the charge was applied in accordance with the terms and conditions of your account: our records indicate that è "dai nostri registri risulta che": indicate è "indicare", e il soggetto sono i registri, e non la banca: records, qui, con l'accento sulla prima, *re*ko‣dz (lezione 43, nota 8). Was applied è un passivo senza agente: nessuno ha applicato l'addebito, che "è stato applicato". In accordance with è "in conformità a": una formula legale (in accordance with the law). Terms and conditions, spesso abbreviato T&Cs, sono "le condizioni generali": terms vuol dire "condizioni, termini", conditions "condizioni", e il nome è plurale. La frase non risponde alla domanda di Ms Hart, che era: com'è possibile che un conto in attivo sia scoperto? La banca risponde che l'addebito è conforme alle sue regole, e non nomina l'errore.
+8. We regret that we are unable to comment on individual cases at this stage: regret è "rammaricarsi": we regret that, con that e una frase, è una formula educata che si usa per dare una notizia sgradita (I regret to inform you that, "mi spiace informarLa che"). Unable to è "non in grado di" (lezione 36, nota 2): più formale di can't, e non dice "non vogliamo". Comment on è "commentare": comment on a case, con on; comment è anche il nome (no comment). At this stage è "in questa fase": suggerisce che più avanti le cose cambieranno, e non lo promette. Individual cases è "singoli casi": è un modo di dire che la banca non parla del caso di Ms Hart, che è, appunto, un caso singolo; la formula è ironica, perché risponde a una lettera che parla di un solo caso.
+9. We would, however, point out that the terms and conditions are available on our website, where they may be consulted at any time and where, we are told, some customers have found them: we would point out that è "facciamo notare che": would, con we, è il condizionale di cortesia; however, tra virgole nel mezzo, è "tuttavia" (lezione 40, nota 20). Are available on our website è "sono disponibili sul nostro sito": available è "disponibile", si dice ë*vei*lëbl, ed è available on a website, non "in". Where they may be consulted è una relativa non restrittiva con where: may be consulted è un passivo con may, "possono essere consultate", e consult è "consultare". We are told è "ci viene detto, a quanto ci dicono": si usa quando non si vuole garantire un fatto; è il modo con cui la banca lascia capire, con una smorfia, che le condizioni sono illeggibili. Some customers have found them è un present perfect (found - found, da find): "alcuni clienti le hanno trovate", cioè le hanno trovate in mezzo a pagine e pagine. La battuta è nell'inciso we are told: lascia capire che trovare le condizioni sia un'impresa.
+10. As regards your request for a refund, we are not in a position to give an undertaking at present: as regards è "per quanto riguarda": come with regard to, regarding, concerning, è una formula d'apertura per un nuovo argomento. Request for è "richiesta di": a request for a refund (lezione 47, nota 7). We are not in a position to è "non siamo in grado di": è il modo cortese di dire "no": non dice che la banca non può, ma che la sua posizione non glielo permette; è più formale di we cannot. Give an undertaking è "assumere un impegno formale": undertaking, nome di undertake ("impegnarsi"), si dice *an*dëteiking. At present è "al momento, per ora": at the moment e at present sono simili, e at present è più formale. Il no è dato in una forma in cui nessuna parola è negativa, tranne il not di not in a position.
+11. We trust that this clarifies the position: trust, qui, è "confidare, ritenere": we trust that è più formale di we hope that, e dà per scontato che sia vero: è una speranza travestita da certezza. Clarify è "chiarire" (clear, "chiaro"), e position è "la situazione", e non la "posizione" fisica: the financial position, "la situazione finanziaria", la parola ricorre nella frase 14 (not in a position). La frase dice, in sette parole, che la lettera ha chiarito la situazione: e non ha chiarito niente.
+12. Should you require any further information, please do not hesitate to contact us, quoting the reference above: should you require è un'inversione formale con should, al posto di if you should require, "qualora desiderasse": si usa should + soggetto + forma base per un'ipotesi, senza if. Any further information è "ulteriori informazioni": information è non numerabile, senza -s e senza a, e vuole il verbo al singolare. Please do not hesitate to è "non esiti a": una formula finale di quasi tutte le lettere formali; è un invito di cortesia, e qui suona vuoto, perché la banca ha già detto che non risponderà. Contact us è "contattarci", con il verbo transitivo (contact someone, non "contact to someone"). Quoting the reference above è "citando il riferimento qui sopra": un participio presente che spiega come, e the reference above è il numero della frase 4. Above, per un testo, è "qui sopra" (below, "qui sotto").
+13. Yours sincerely, / Giles Parfitt, Customer Relations Officer: yours sincerely chiude una lettera che comincia con un nome (Dear Ms Hart), e yours faithfully una che comincia con Dear Sir or Madam (lezione 47, nota 13): le due formule non si mescolano. Sincerely si dice sin*sië*li, ed è l'avverbio di sincere, "sincero". Dopo la chiusura, la firma a mano, e il nome stampato con il ruolo sotto o accanto: Giles Parfitt, Customer Relations Officer. Officer è "funzionario": è un falso amico di "ufficiale" (che si dice anche officer, per l'esercito e la polizia): in banca è chi ha un incarico (a loans officer, "addetto ai prestiti"). Il nome Giles si dice giailz. In una lettera formale il ruolo si scrive dopo il nome.
+14. P.S. Pam, this is the Hart one: usual reply, no refund, and file her under "Persistent": P.S. è postscript, "poscritto": ciò che si aggiunge dopo la firma, e si legge pi‣-es. È una cosa da lettera familiare, e in una lettera di banca è impensabile. Il poscritto, qui, era un appunto per una collega, Pam, rimasto per sbaglio sulla lettera: dice "questa è quella di Hart" (the Hart one, con one al posto di letter, lezione 29, nota 6), risposta solita, nessun rimborso, e di archiviare la cliente sotto la voce "Persistent". File è "archiviare": file her under X, "schedarla sotto X"; file è anche "lima" e "fila" (in single file). Usual reply è "la risposta di rito": the usual, senza nome, è "il solito" (the usual, please). Questo poscritto gives the game away (lezione 36, nota 10: give the game away): rivela che tutta la lettera è una risposta già pronta, senza il minimo interesse per il caso, e che il "no" è deciso in anticipo; per questo la lettera, dopo il poscritto, non si può più leggere come prima.
+15. L'arte di dire no con garbo: la lettera della banca non dice mai "no", e fa capire un rifiuto in cinque modi. Il passivo toglie la persona: complaints are taken, the matter has been referred, the charge was applied. Le formule di dispiacere non ammettono l'errore: we were sorry to learn, we regret that. Il tempo non è preciso: in due course, at this stage, at present. Le parole astratte coprono i fatti: the position, the terms and conditions, individual cases. Le formule finali sono vuote: please do not hesitate. In inglese britannico questa cortesia ha un nome, ed è un'arte: chi riceve una lettera così, in una banca, sa leggere tra le righe, e sa che con la sequenza we regret, at this stage, not in a position la risposta, in realtà, è no.
+
+ex1:
+- Thank you for your letter of 12 March, which we received on the 18th.
+  it: La ringraziamo per la sua lettera del 12 marzo, che abbiamo ricevuto il 18.
+- We regret that we are unable to comment on individual cases.
+  it: Ci rammarichiamo di non poter commentare i singoli casi.
+- Our records indicate that the fee was applied correctly.
+  it: Dai nostri registri risulta che la commissione è stata applicata correttamente.
+- The matter has been referred to the appropriate department.
+  it: La questione è stata sottoposta all'ufficio competente.
+- Should you require further information, please do not hesitate to contact us.
+  it: Qualora desiderasse ulteriori informazioni, non esiti a contattarci.
+
+ex2:
+- A letter that begins "Dear Ms Hart" ends with "Yours [sincerely]".
+  it: Una lettera che comincia con "Dear Ms Hart" finisce con "Yours sincerely".
+- We are not [in] a [position] to give an undertaking.
+  it: Non siamo in grado di assumere un impegno.
+- The reply will arrive [in] due [course].
+  it: La risposta arriverà a tempo debito.
+- [As] regards your request, we regret that we cannot help.
+  it: Per quanto riguarda la sua richiesta, ci rammarichiamo di non poter aiutare.
+- The postscript [gave] the [game] away.
+  it: Il poscritto ha rivelato il segreto.
+
+== 49 C1
+kind: revision
+numeral: Lesson Forty-Nine
+title: Revision
+title.it: Ripasso
+
+notes.it:
+La settima settimana è finita: Liverpool e lo Scouse, un'eredità nascosta in una poltrona, il verbo break, un club del libro in cui nessuno ha letto il libro, e due lettere formali, quella di un cliente e la risposta di una banca. Come nei ripassi precedenti, qui non c'è niente da imparare a memoria: le tabelle mettono in ordine quello che hai già letto, e le lezioni 43-48 sono il tuo serbatoio di esempi. Da questa settimana il livello indicato è C1: i testi non sono molto più lunghi, ma le sfumature (il tono di una lettera, la parola che si aggiunge per ammorbidire) pesano di più. Leggi le tabelle una volta, poi fai i dieci esercizi in fondo.
+
+1. Le lettere formali (lezioni 47 e 48). Una lettera formale britannica ha un ordine fisso, e le formule d'apertura e di chiusura dipendono da una sola cosa: si conosce il nome di chi riceve, o no?
+
+| Parte | Che cosa si scrive | Esempio del testo |
+|---|---|---|
+| indirizzo di chi scrive | in alto, senza il nome; il numero prima della via | 27 Elm Court, Leeds |
+| data | giorno, mese in lettere, anno; senza virgola | 12 March 2026 |
+| destinatario | a sinistra; il ruolo, se non si sa il nome | The Manager, Westmark Bank plc |
+| riferimento | Our reference e Your reference, da citare nella risposta | Our reference: CR/2291/GP |
+| formula d'apertura | Dear Sir or Madam se il nome non è noto; Dear + titolo + cognome se è noto | Dear Ms Hart, |
+| oggetto | una riga, sotto la formula, con il numero della pratica | Account number 31415926: unauthorised charge of £35 |
+| corpo | paragrafi brevi, frasi complete, nessuna contrazione | I am writing to complain about a charge of £35 |
+| formula di chiusura | Yours faithfully dopo Dear Sir or Madam; Yours sincerely dopo un nome | Yours faithfully, / Yours sincerely, |
+| firma | firma a mano, poi il nome stampato; il ruolo dopo il nome | Giles Parfitt, Customer Relations Officer |
+| allegati e poscritto | Enc. e il numero; P.S. di solito non in una lettera formale | Enc. 2 |
+
+Le due coppie non si mescolano: Dear Sir or Madam vuole Yours faithfully (lezione 47, nota 13), Dear Ms Hart vuole Yours sincerely (lezione 48, nota 13). Ms è il titolo neutro per una donna (lezione 47, nota 13); il titolo si mette davanti al cognome, mai al nome da solo (lezione 48, nota 2). Nei testi si trovano anche le formule che reggono il corpo della lettera.
+
+| Funzione | Formula | Dove |
+|---|---|---|
+| dire perché si scrive | I am writing to complain about ... | lezione 47, nota 4 |
+| rispondere a una lettera | Thank you for your letter of 12 March | lezione 48, nota 3 |
+| allegare | I enclose a copy of ... | lezione 47, nota 6 |
+| chiedere con garbo | I should be grateful if you would + forma base | lezione 47, nota 7 |
+| chiedere ancora più formalmente | I should be obliged if you would ... | lezione 47, nota 10 |
+| dare un termine | If I have not received a reply within fourteen days, ... | lezione 47, nota 11 |
+| chiudere | I look forward to hearing from you | lezione 47, nota 12 |
+| offrire altro aiuto | Should you require any further information, please do not hesitate to contact us | lezione 48, nota 12 |
+
+Il rovescio della stessa medaglia è la risposta che dice no senza dirlo (lezione 48, nota 15): il passivo che toglie la persona (the charge was applied), il dispiacere che non ammette l'errore (we regret that, we were sorry to learn), i tempi vaghi (in due course, at this stage, at present), le parole astratte (the position, individual cases) e la frase che chiude la porta in modo cortese (we are not in a position to). Per scrivere si usa la forma intera: I am, I have, I should, non I'm, I've, I'd.
+
+2. Il futuro nel passato (lezione 44). Quando si racconta una storia al passato e si vuole guardare avanti da un punto del racconto, il futuro cambia forma: will diventa would, e am going to diventa was going to.
+
+| Forma | Che cosa dice | Esempio del testo |
+|---|---|---|
+| was, were going to + forma base | un piano o un'intenzione di allora | Gerald was going to take up the floors. |
+| would + forma base | quello che qualcuno ha detto, previsto o saputo | Cousin Humphrey said that he would think about it. |
+| was, were about to + forma base | l'azione sta per cominciare, di solito interrotta da when | He was about to start on the roof when a neighbour asked ... |
+| had been going to + forma base | un'intenzione che viene prima, e di solito non si è realizzata | He had always been going to share it with them. |
+| was to + forma base | un destino già scritto, nello stile letterario (non è nel testo) | She was never to see him again. |
+
+Would dopo un verbo di dire o di sapere dice "avrebbe": your aunt told me that you would all ask me that, I knew it would be the one who sat still, She always knew where we would look (lezione 44, note 4, 11 e 12). Was going to e would non sono sempre scambiabili: was going to guarda a un'intenzione, would a una previsione o a una frase riferita (lezione 44, nota 5). Be about to è più vicino di be going to (lezione 11, nota 10; lezione 15, nota 4): he was about to get up and make some tea when he heard a crackle. La domanda indiretta riferita al passato sposta i tempi indietro: what he was doing, whether he had a permit (lezione 44, note 6 e 9).
+
+3. I discourse markers (lezione 46). Un discourse marker non aggiunge un fatto: dice come si colloca ciò che si sta per dire rispetto a ciò che è stato detto.
+
+| Marker | Che cosa fa | Esempio del testo |
+|---|---|---|
+| admittedly | concede un punto contrario, prima di but | Admittedly, the opening is slow, but then it gathers pace. |
+| mind you | aggiunge una riserva a ciò che si è detto | Mind you, the plot is a little predictable. |
+| to be fair | dà un punto a favore di chi è stato criticato | To be fair, the critics did say that it grows on you. |
+| as it happens | introduce un fatto vero e, di solito, sorprendente | As it happens, I wrote it, under another name. |
+| frankly, to be honest | segnalano una franchezza che sta per arrivare | Frankly, he was the only man in it with any sense. |
+| quite | in una risposta, "esatto" | Quite, though I thought the bridge was a little heavy-handed. |
+| however, though | tuttavia; though in fondo alla frase vuol dire "però" | We would, however, point out that ... |
+| in the meantime, at last | nel frattempo; alla fine, dopo l'attesa | In the meantime, I should be obliged if ... |
+
+Admittedly, mind you e to be fair si mettono all'inizio della frase, con una virgola; mind you e to be honest si sentono anche in fondo (It's cheap, mind you). As it happens non vuol dire "come accade": vale come as a matter of fact. Gli stessi marker tornano nelle lettere (however, as regards, in the meantime, at this stage) e nel linguaggio parlato: l'inglese li usa per rendere il discorso educato, e un testo senza di essi suona brusco (lezione 46, note 4-11).
+
+4. La famiglia di break (lezione 45). Break - broke - broken ha, come run (lezione 40), un senso letterale e molti figurati, e cambia con la particella. La tabella dà le espressioni del testo di Ruth.
+
+| Espressione | Senso | Esempio del testo |
+|---|---|---|
+| daybreak | l'alba | At daybreak her delivery van broke down |
+| break down (macchina) | guastarsi | her delivery van broke down |
+| break down (persona) | crollare; break down in tears, scoppiare in lacrime | He nearly broke down in tears |
+| break the ice | rompere il ghiaccio | Ruth broke the ice by telling him ... |
+| break up (coppia) | lasciarsi | the couple in the window were breaking up |
+| break up (rissa) | separare, sedare | Ruth broke it up with one word |
+| break out | scoppiare | a fight broke out |
+| break the news | dare una notizia (brutta o difficile) | she broke the news to Kevin |
+| break even | andare in pareggio | only just breaking even |
+| break a record | battere un record | the tea room broke its own record |
+| a lucky break | un colpo di fortuna | which Ruth called a lucky break |
+| break into tears | scoppiare in lacrime, subito | broke into tears |
+| break in (scarpe) | rodare | breaking in a new pair of shoes |
+| a break | una pausa | asked whether he could have a break |
+| break the habit | perdere un'abitudine | had to break the habit |
+| break a promise | mancare a una promessa | she had broken the promise |
+| break someone's heart | spezzare il cuore | it breaks my heart to see you so tired |
+
+Break down e break into tears dicono quasi lo stesso, ma break down è un cedimento, e break into tears un inizio improvviso (lezione 45, nota 10). Break up ha due sensi diversi (lezione 45, note 4 e 7), e break out è anche "evadere" e "coprirsi di" (lezione 45, nota 7). I sinonimi di break a habit sono kick the habit (familiare) e give up a habit; quelli di break a record sono beat e set (lezione 45, nota 8).
+
+La settimana prossima: l'Australia, le sorelle Brontë, il gergo degli uffici, il verbo keep, una serata a quiz e l'inglese dell'India. Se non ti è chiaro tutto, non fa niente: let us wait and see.
+
+ex1:
+- If you know the name of the person, you begin "Dear Ms Hart" and end with "Yours sincerely".
+  it: Se conosci il nome della persona, cominci con "Dear Ms Hart" e finisci con "Yours sincerely".
+- We were about to leave when the manager called us back.
+  it: Stavamo per uscire quando il direttore ci richiamò.
+- Admittedly, the hotel is far from the sea, but the view is beautiful.
+  it: Certo, l'albergo è lontano dal mare, ma la vista è bellissima.
+- The old car broke down again on the motorway.
+  it: La vecchia auto si è guastata di nuovo in autostrada.
+- He said that he would call me as soon as he arrived.
+  it: Disse che mi avrebbe chiamato appena arrivato.
+
+ex2:
+- She wrote to the bank and ended the letter with "Yours [faithfully]", because she did not know the manager's name.
+  it: Scrisse alla banca e chiuse la lettera con "Yours faithfully", perché non conosceva il nome del direttore.
+- We [were] going to go to Liverpool, but the train was cancelled.
+  it: Avevamo intenzione di andare a Liverpool, ma il treno fu cancellato.
+- The service was slow. [Mind] [you], the food was good.
+  it: Il servizio era lento. Però, il cibo era buono.
+- She had never turned a customer away, and she did not want to [break] the habit.
+  it: Non aveva mai mandato via un cliente, e non voleva perdere l'abitudine.
+- "Who wrote it?" "[As] it [happens], I did."
+  it: "Chi l'ha scritto?" "Guarda caso, io."
+
+aside.it:
+Da domani il corso ti dà un lavoro in più: la seconda onda, la fase attiva. Dopo ogni lezione nuova l'app aggiunge un passo che ti riporta una lezione già fatta: con la lezione 50 torna la 1, con la 51 la 2, e così via, sempre 49 lezioni indietro. Il testo e l'esercizio 1 ti vengono mostrati solo in italiano: dici ogni frase ad alta voce in inglese, poi fai comparire l'inglese e confronti. Gli errori fanno parte del lavoro: vuol dire che stai cercando la frase invece di riconoscerla. Se hai finito Fondamenti, la sua onda, che ti ha riportato una lezione al giorno, finisce con oggi.

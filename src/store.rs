@@ -363,7 +363,7 @@ impl Saved {
     fn migrate(&mut self) {
         if self.version < 1 {
             // Up to v1.0.0 each language was one course of 300 lessons:
-            // 106–175 are now Perfectionnement 1–70, 176–300 Mastery 1–125.
+            // 106–175 are now Perfectionnement 1–70, 176–300 Mastery 1–125 (Mastery was later cut to 100).
             let moved = |key: &str| -> Option<String> {
                 let (course, rest) = key.split_once('#')?;
                 let lang = course.strip_prefix("core-").filter(|l| !l.contains('-'))?;

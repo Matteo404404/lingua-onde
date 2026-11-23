@@ -27,7 +27,7 @@ their course, each level in its own range:
 |---|---|
 | Foundation (100) | A1 1–25, A2 26–50, B1 51–75, B2 76–100 |
 | Perfectionnement (70) | B2 1–45, C1 46–70 |
-| Mastery (125) | C1 1–25, C2 26–125 |
+| Mastery (100) | C1 1–25, C2 26–100 |
 
 ## Lessons
 

@@ -14,7 +14,7 @@ Each language has three courses, studied one after the other:
 |---|---|---|---|
 | Foundation | first words → B2 | 100 | Assimil beginner course |
 | Perfectionnement | B2 → C1 | 70 | Assimil Perfectionnement |
-| Mastery | C1 → C2 | 125 | Lingua Onde's own |
+| Mastery | C1 → C2 | 100 | Lingua Onde's own |
 
 A course is written for the speakers of one language at a time (`bases:` in
 its files): English is written first for Italian speakers, then Spanish.
@@ -175,7 +175,7 @@ already has the basics:
   (50 → 1, ... 70 → 21), then the rest one a day after lesson 70: its text
   and exercise 1 from your language into the target language.
 
-## 3. Mastery (C1 → C2), 125 lessons
+## 3. Mastery (C1 → C2), 100 lessons
 
 Assimil stops at C1. Mastery keeps the method's core (a long text a day, heard
 and read closely; notes; translation; delayed active reconstruction; revision

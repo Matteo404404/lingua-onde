@@ -8,7 +8,7 @@ that rebuilds earlier lessons from your language. How it works is in
 [METHOD.md](METHOD.md).
 
 Each language has three courses in a row: Foundation (first words to B2, 100
-lessons), Perfectionnement (B2 to C1, 70 lessons) and Mastery (C1 to C2, 125
+lessons), Perfectionnement (B2 to C1, 70 lessons) and Mastery (C1 to C2, 100
 lessons). The built-in courses are original lessons written for this app
 (English, Spanish, French, German, Dutch, Portuguese from Brazil, Mandarin
 with pinyin, Latin with vowel lengths, and Vietnamese). They are being written

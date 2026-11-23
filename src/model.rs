@@ -109,7 +109,7 @@ impl Stage {
         match self {
             Stage::Foundation => 100,
             Stage::Perfectionnement => 70,
-            Stage::Mastery => 125,
+            Stage::Mastery => 100,
         }
     }
 
@@ -124,7 +124,7 @@ impl Stage {
             (Stage::Perfectionnement, B2) => Some((1, 45)),
             (Stage::Perfectionnement, C1) => Some((46, 70)),
             (Stage::Mastery, C1) => Some((1, 25)),
-            (Stage::Mastery, C2) => Some((26, 125)),
+            (Stage::Mastery, C2) => Some((26, 100)),
             _ => None,
         }
     }

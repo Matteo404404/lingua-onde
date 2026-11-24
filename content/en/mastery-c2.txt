@@ -2754,3 +2754,859 @@ tasks:
 - Good afternoon. I have two minutes and one job: to explain how a kettle boil is not the same as tea ready to drink. First you fill the kettle and switch it on; that is heat, not infusion. Then you warm the pot, add leaves, and pour water just off the boil. You wait three to four minutes on average; shorter leaves the cup thin, longer risks bitterness. I have not timed every household, and this talk is a map, not your kitchen. Strongest claim I can make: hot water plus leaves plus time. I refuse "transforms your mornings." Questions that do not begin with "so, basically"?
   task.it: Presenta un argomento a tua scelta in inglese, intorno alle 120-150 parole (circa due minuti a voce alta). Usa almeno tre mosse della settimana: un hedge o limite, una spiegazione a passi, e o una nota-confessione («I have not seen...») o una lode/riserva calibrata. Niente gergo da grant senza traduzione immediata. Registro da talk breve, chiaro.
   rubric.it: C'è un compito unico dichiarato; i passi o la claim sono chiari; almeno un limite onesto; il registro è parlato-chiaro, non tabloid né multi-scalar; si sente una chiusura netta, non uno slogan da borsa di tela.
+
+== 50 C2
+numeral: Lesson Fifty
+title: Whose English?
+title.it: Di chi è l'inglese?
+
+dialogue:
+- The question "Whose English?" sounds like a property dispute, and in a way it is.
+  it: La domanda «Di chi è l'inglese?» suona come una lite di proprietà, e in un certo senso lo è.
+- Millions of people speak English every day who have never queued for a bus in Croydon or called a flat a flat.
+  it: Milioni di persone parlano inglese ogni giorno senza aver mai fatto la coda per un autobus a Croydon o chiamato un appartamento flat.
+- They speak it in Lagos, Delhi, Singapore, Glasgow, Kingston, Dublin and Houston, and they speak it to get things done, not to please a textbook printed in Oxford.
+  it: Lo parlano a Lagos, Delhi, Singapore, Glasgow, Kingston, Dublino e Houston, e lo parlano per far funzionare le cose, non per accontentare un manuale stampato a Oxford.
+- Yet the idea persists that somewhere there is a correct English, owned by a quiet island, and that every other variety is a charming error on the way to the real thing.
+  it: Eppure resta l'idea che da qualche parte esista un inglese corretto, di proprietà di un'isola silenziosa, e che ogni altra varietà sia un errore grazioso sulla via della cosa vera.
+- That idea is useful for examinations and for people who sell courses; it is a poor map of the language as it is lived.
+  it: Quell'idea è utile per gli esami e per chi vende corsi; è una cattiva mappa della lingua così come è vissuta.
+- Linguists have long described inner-circle varieties (Britain, Ireland, the United States, Canada, Australia, New Zealand) and outer-circle ones, where English is an official or second language with deep local roots.
+  it: I linguisti descrivono da tempo varietà del cerchio interno (Gran Bretagna, Irlanda, Stati Uniti, Canada, Australia, Nuova Zelanda) e del cerchio esterno, dove l'inglese è lingua ufficiale o seconda con radici locali profonde.
+- Expanding-circle speakers, of whom Italian learners are one large company, often meet English as a foreign language and then discover, in airports and emails, that the foreigner was never the only customer.
+  it: I parlanti del cerchio in espansione, di cui gli apprendenti italiani sono una grande compagnia, incontrano spesso l'inglese come lingua straniera e poi scoprono, in aeroporti e email, che lo straniero non era mai l'unico cliente.
+- A standard exists, of course: schools, publishers and broadcasters need a shared written form, and British English remains one powerful standard among others.
+  it: Uno standard esiste, certo: scuole, editori e emittenti hanno bisogno di una forma scritta condivisa, e l'inglese britannico resta uno standard potente fra gli altri.
+- American English is another; neither cancels Nigerian English, Indian English or Jamaican English when those varieties do their work at home.
+  it: L'inglese americano è un altro; nessuno dei due cancella l'inglese nigeriano, indiano o giamaicano quando quelle varietà fanno il loro lavoro a casa.
+- The trouble begins when "standard" is confused with "owner."
+  it: Il guaio comincia quando «standard» viene confuso con «proprietario».
+- Nobody owns a language that changes every time a child learns a new joke.
+  it: Nessuno possiede una lingua che cambia ogni volta che un bambino impara una nuova battuta.
+- What people own, at most, is a register: the right to sound local without apology, and the duty, in some rooms, to sound clear to strangers.
+  it: Ciò che la gente possiede, al massimo, è un registro: il diritto di suonare locale senza scuse, e il dovere, in certe stanze, di suonare chiaro agli sconosciuti.
+- Mutual intelligibility is a practical aim, not a moral ranking.
+  it: L'intelligibilità reciproca è un obiettivo pratico, non una classifica morale.
+- A Glaswegian and a Texan may misunderstand pavement and sidewalk and still share a contract; a Singaporean and a Milanese may share the contract and disagree about the weather small talk that wraps it.
+  it: Un glaswegiano e un texano possono fraintendere pavement e sidewalk e condividere comunque un contratto; un singaporiano e un milanese possono condividere il contratto e dissentire sullo small talk sul tempo che lo avvolge.
+- Prestige travels with money, media and exams; it does not travel with justice.
+  it: Il prestigio viaggia col denaro, i media e gli esami; non viaggia con la giustizia.
+- Saying that Received Pronunciation once ruled the BBC is history; saying that every other accent is unfinished is snobbery dressed as grammar.
+  it: Dire che la Received Pronunciation un tempo regnava alla BBC è storia; dire che ogni altro accento è incompiuto è snobismo vestito da grammatica.
+- Italian speakers, arriving at this course with Fondamenti and Perfezionamento behind them, have already met British forms as the house style of these lessons.
+  it: I parlanti italiani, arrivati a questo corso con Fondamenti e Perfezionamento alle spalle, hanno già incontrato le forme britanniche come stile di casa di queste lezioni.
+- That house style is a choice of clarity for a shared textbook, not a passport check at the border of English.
+  it: Quello stile di casa è una scelta di chiarezza per un manuale condiviso, non un controllo di passaporto al confine dell'inglese.
+- From this week on, the course opens the door: Scottish, Irish, Caribbean, Indian, American and Northern English will speak in their own rooms, with notes that translate without erasing.
+  it: Da questa settimana in poi, il corso apre la porta: inglese scozzese, irlandese, caraibico, indiano, americano e del Nord parleranno nelle proprie stanze, con note che traducono senza cancellare.
+- You will hear words that a London style guide would mark in red, and you will learn why the red pen is sometimes wrong.
+  it: Sentirai parole che una guida di stile londinese segnerebbe in rosso, e imparerai perché la penna rossa a volte ha torto.
+- The ending I want is not a free-for-all in which anything goes and nothing can be taught.
+  it: La chiusura che voglio non è un liberi tutti in cui tutto vale e niente si può insegnare.
+- Teaching still needs models; conversation still needs patience; writing for strangers still needs a shared spelling more often than not.
+  it: Insegnare ha ancora bisogno di modelli; conversare ha ancora bisogno di pazienza; scrivere per sconosciuti ha ancora bisogno, più spesso che no, di un'ortografia condivisa.
+- The ending I want is quieter: English is a set of Englishes, and the question "whose?" is answered every time a speaker is understood without being told to sound like someone else's aunt.
+  it: La chiusura che voglio è più quieta: l'inglese è un insieme di inglesi, e alla domanda «di chi?» si risponde ogni volta che un parlante è capito senza che gli si dica di suonare come la zia di qualcun altro.
+- If that aunt lives in Croydon and queues for the bus, she is one owner among many.
+  it: Se quella zia vive a Croydon e fa la coda per l'autobus, è una proprietaria fra tante.
+- If she corrects your Indian colleague's "prepone the meeting" as if the word were a virus, she has mistaken her queue for the whole language.
+  it: Se corregge il «prepone the meeting» del tuo collega indiano come se la parola fosse un virus, ha scambiato la sua coda per l'intera lingua.
+- Prepone, for the record, is tidy Indian English for bring forward, and it does a job that postpone already taught the ear to expect.
+  it: Prepone, per la cronaca, è un ordinato inglese indiano per «anticipare» (bring forward), e fa un lavoro che postpone aveva già insegnato all'orecchio ad aspettarsi.
+- Whose English is it, then?
+  it: Di chi è l'inglese, allora?
+- Yours, when you mean what you say; theirs, when they do; ours, when we meet in the middle without pretending the middle is London.
+  it: Tuo, quando intendi ciò che dici; loro, quando lo fanno; nostro, quando ci incontriamo a metà strada senza fingere che la metà sia Londra.
+- Fine, thanks: that answer still works at the bus stop.
+  it: Fine, thanks: quella risposta funziona ancora alla fermata.
+- It does not settle the title deed.
+  it: Non sistema il titolo di proprietà.
+
+notes.it:
+1. Whose English?... property dispute: titolo e prima frase. Whose = di chi, genitivo interrogativo. Property dispute: lite di proprietà; la metafora guida il saggio. Registro saggistico britannico, tono secco con ironia.
+2. queued... Croydon... flat a flat: segnali da inglese britannico quotidiano (coda, quartiere londinese, flat non apartment). Chi non li usa parla comunque inglese: tesi anti-monopolio.
+3. Lagos, Delhi, Singapore, Glasgow, Kingston, Dublin, Houston: geografia voluta (Africa, Asia, Scozia, Caraibi, Irlanda, USA). Get things done: uso strumentale. Textbook printed in Oxford: lo standard come merce, non come natura.
+4. correct English, owned by a quiet island... charming error: parafrasa il pregiudizio. Quiet island = Gran Bretagna detta con understatement. Charming error: condiscendenza tipica verso le varietà.
+5. examinations... sell courses... poor map: lo standard serve a esami e mercato; mappa cattiva della vita. Lived: vissuta, non solo insegnata.
+6. inner-circle... outer-circle: modello noto di Kachru (fatto consolidato in sociolinguistica); cerchio interno = varietà maggioritarie «madrelingua» in senso tradizionale; cerchio esterno = inglese istituzionale locale (India, Nigeria, ecc.). Expanding-circle: apprendenti (Italia inclusa). Non è legge fisica: è una mappa utile e discussa.
+7. Italian learners... Fondamenti and Perfezionamento: nomi italiani dei corsi precedenti. Airports and emails: dove l'inglese internazionale compare.
+8. standard... shared written form... British... American: concede lo standard senza farlo padrone. Nigerian, Indian, Jamaican: varietà che lavorano «at home». Owner vs standard: distinzione centrale.
+9. Nobody owns... child learns a new joke: lingua come uso, non titolo. Register... sound local without apology... clear to strangers: due doveri diversi (identità / chiarezza). Mutual intelligibility... not a moral ranking: intelligibilità ≠ gerarchia morale.
+10. Glaswegian... Texan... pavement and sidewalk: anticipo della lezione 55. Singaporean... Milanese... weather small talk: eco della lezione 1 sul phatic. Prestige... money, media, exams... not... justice: prestigio sociolinguistico.
+11. Received Pronunciation... BBC: fatto storico noto (RP come accento di prestigio radiotelevisivo). Snobbery dressed as grammar: snobismo in costume da regola.
+12. house style... passport check: le lezioni usano il britannico per chiarezza didattica, non come dogana. From this week on... Scottish, Irish, Caribbean, Indian, American and Northern: programma della settimana 8 (lezioni 51-55). Red pen... sometimes wrong: correzione da stile vs varietà legittima.
+13. free-for-all... anything goes: rifiuta il relativismo pigro. Models... patience... shared spelling: tre limiti onesti all'apertura. set of Englishes: plurale voluto. understood without... someone else's aunt: criterio finale di proprietà = riuscita comunicativa senza umiliazione.
+14. Croydon... queue: richiama l'apertura. prepone the meeting: indianismo ripreso nella lezione 54; bring forward = anticipare. postpone... ear to expect: analogia morfologica (pre- vs post-). Whose... Yours... theirs... ours... middle... London: chiusura a tre possessivi. Fine, thanks... bus stop: eco lezione 1; title deed: atto di proprietà, richiude la metafora legale senza risolverla sul serio.
+
+ex1:
+- The idea that a quiet island owns correct English, and that other varieties are charming errors, is a poor map of the language as it is lived.
+  it: L'idea che un'isola silenziosa possieda l'inglese corretto, e che le altre varietà siano errori graziosi, è una cattiva mappa della lingua così come è vissuta.
+- Inner-circle and outer-circle varieties both do work at home; a standard for exams is not the same as an owner of the language.
+  it: Le varietà del cerchio interno e del cerchio esterno fanno entrambe lavoro a casa; uno standard per gli esami non è la stessa cosa di un proprietario della lingua.
+- Mutual intelligibility is a practical aim, not a moral ranking of accents.
+  it: L'intelligibilità reciproca è un obiettivo pratico, non una classifica morale degli accenti.
+- Saying that Received Pronunciation once ruled the BBC is history; saying that every other accent is unfinished is snobbery dressed as grammar.
+  it: Dire che la Received Pronunciation un tempo regnava alla BBC è storia; dire che ogni altro accento è incompiuto è snobismo vestito da grammatica.
+- Prepone, in Indian English, tidily means bring forward, and it does a job the ear already expects from postpone.
+  it: Prepone, in inglese indiano, significa con ordine «anticipare» (bring forward), e fa un lavoro che l'orecchio già si aspetta da postpone.
+
+ex2:
+- Yet the idea persists that somewhere there is a [correct] English, owned by a quiet island.
+  it: Eppure resta l'idea che da qualche parte esista un inglese corretto, di proprietà di un'isola silenziosa.
+- What people own, at most, is a [register]: the right to sound local without apology.
+  it: Ciò che la gente possiede, al massimo, è un registro: il diritto di suonare locale senza scuse.
+- Mutual [intelligibility] is a practical aim, not a moral ranking.
+  it: L'intelligibilità reciproca è un obiettivo pratico, non una classifica morale.
+- Prestige travels with money, media and exams; it does not travel with [justice].
+  it: Il prestigio viaggia col denaro, i media e gli esami; non viaggia con la giustizia.
+- If she corrects "prepone the meeting" as if the word were a virus, she has mistaken her [queue] for the whole language.
+  it: Se corregge «prepone the meeting» come se la parola fosse un virus, ha scambiato la sua coda per l'intera lingua.
+
+tasks:
+- English is not owned by Britain alone: speakers from Lagos to Houston use it daily to get things done. Standards for schools and publishers are real tools, and British and American written forms remain powerful ones, but a standard is not a title deed. Prestige follows media and exams more than justice; snobbery dressed as grammar still treats other accents as unfinished. Mutual intelligibility is a practical aim, not a moral ranking. This course keeps British house style for clarity, yet this week opens the door to other Englishes without a red pen for every local word. Whose English? Yours and theirs when meaning lands; ours when we meet in the middle without pretending the middle is London.
+  task.it: Riassumi in inglese, intorno alle 100-120 parole, l'argomento del saggio: di chi è l'inglese, che cosa sono standard e prestigio, e che cosa la settimana apre. Registro saggistico sobrio, come il testo. Niente slogan da borsa di tela.
+  rubric.it: La distinzione standard/proprietario c'è; il plurale Englishes non diventa «tutto vale»; il registro è sobrio; l'inglese è naturale; si chiude sull'incontro a metà strada, non su Croydon come dogana.
+
+== 51 C2
+numeral: Lesson Fifty-One
+title: A Glasgow evening
+title.it: Una sera a Glasgow
+
+dialogue:
+- The rain had started again, which in Glasgow is less news than weather.
+  it: La pioggia aveva ricominciato, che a Glasgow è meno una notizia che il tempo.
+- Morag opened the door to her brother Callum and to Jen, who had come up from London for the weekend and was still calling the close a hallway.
+  it: Morag aprì la porta al fratello Callum e a Jen, salita da Londra per il weekend e che chiamava ancora il close un corridoio.
+- Callum: Aye, it's yourself. You made it before the real wet.
+  it: Callum: Aye, sei tu. Ce l'hai fatta prima del bagnato vero.
+- Morag: In you come. The kettle's on. Jen, give us your coat; the radiator's the only honest welcome in this flat.
+  it: Morag: Entrate. Il bollitore è acceso. Jen, dammi il cappotto; il termosifone è l'unico benvenuto onesto in questo appartamento.
+- Jen: Thanks. Your building's staircase is gorgeous. Is that what you call the close?
+  it: Jen: Grazie. La scala del tuo palazzo è magnifica. È quello che chiamate close?
+- Callum: Aye. Close, not hallway. You'll ken it by Sunday or you'll still be lost at the bins.
+  it: Callum: Aye. Close, non hallway. Lo saprai entro domenica o sarai ancora persa ai cassonetti.
+- Morag: Don't scare her. She's only here two nights. Tea or coffee, hen?
+  it: Morag: Non spaventarla. Resta solo due notti. Tè o caffè, cara?
+- Jen: Tea, please. I brought biscuits. Are they all right, or is that a cultural mistake?
+  it: Jen: Tè, grazie. Ho portato biscotti. Vanno bene, o è un errore culturale?
+- Callum: Biscuits are never a mistake. A piece and a cup of tea would have been pure dead brilliant, but biscuits will do.
+  it: Callum: I biscotti non sono mai un errore. Un panino e una tazza di tè sarebbero stati pure dead brilliant, ma i biscotti bastano.
+- Jen: A piece?
+  it: Jen: A piece?
+- Morag: A sandwich, love. We say piece. Don't write it in your London notebook as poetry; it's just bread with something in it.
+  it: Morag: Un panino, cara. Noi diciamo piece. Non scriverlo sul taccuino londinese come poesia; è solo pane con qualcosa dentro.
+- Callum: How was the train? On time, or did they invent a landslide again?
+  it: Callum: Com'era il treno? In orario, o hanno inventato di nuovo una frana?
+- Jen: Twenty minutes late. The guard said "sorry for the delay" in a way that meant he was not the delay.
+  it: Jen: Venti minuti di ritardo. Il capotreno ha detto «sorry for the delay» in un modo che voleva dire che il ritardo non era lui.
+- Morag: Outwith the timetable, then. Sit yourself down. Callum, away and get the milk; I'm not shouting through to the kitchen all night.
+  it: Morag: Fuori dall'orario, allora. Siediti. Callum, vai a prendere il latte; non passo la sera a urlare fino in cucina.
+- Callum: I'm going, I'm going. Do you want anything from the shop, or have you done the messages already?
+  it: Callum: Vado, vado. Vuoi qualcosa dal negozio, o hai già fatto la spesa?
+- Morag: Messages are done. Just the milk. And don't come back with a football opinion instead.
+  it: Morag: La spesa è fatta. Solo il latte. E non tornare con un'opinione sul calcio al posto suo.
+- Jen: Messages means shopping?
+  it: Jen: Messages vuole dire la spesa?
+- Morag: Aye. Errands, messages, the wee list. You'll hear it from folk who never wrote a letter in their life.
+  it: Morag: Aye. Commissioni, messages, la listina. Lo sentirai da gente che non ha mai scritto una lettera in vita sua.
+- Callum returned with the milk and a face that said the rain had opinions.
+  it: Callum tornò col latte e una faccia che diceva che la pioggia aveva opinioni.
+- Callum: It's bouncing out there. Jen, you'll need a proper jacket tomorrow, no that wee fashion thing.
+  it: Callum: Sta rimbalzando là fuori. Jen, domani ti serve una giacca vera, non quel cosetto di moda.
+- Jen: This is my proper jacket. It cost a lot in Covent Garden.
+  it: Jen: Questa è la mia giacca vera. È costata un sacco a Covent Garden.
+- Morag: Covent Garden does not consult Glasgow weather. Take my spare. It's ugly and it works.
+  it: Morag: Covent Garden non consulta il tempo di Glasgow. Prendi la mia di scorta. È brutta e funziona.
+- Callum: Will you no come out with us later, Morag? There's a band on at the place on Byres Road.
+  it: Callum: Non vieni fuori con noi più tardi, Morag? C'è una band al posto su Byres Road.
+- Morag: I will not. I've work in the morning, and I'm no wanting a sore head for the sake of a drum kit.
+  it: Morag: No. Ho lavoro domattina, e non mi va un mal di testa per amore di una batteria.
+- Jen: I'd love to go. Is the music loud?
+  it: Jen: Mi piacerebbe andare. La musica è alta?
+- Callum: Loud enough that you stop worrying about your jacket. You'll have a rare night.
+  it: Callum: Abbastanza alta da smettere di preoccuparti della giacca. Ti farai una serata rara.
+- Morag: Rare means good, Jen. Not undercooked.
+  it: Morag: Rare qui vuol dire bella, Jen. Non poco cotta.
+- Jen: I'm writing a list: close, piece, messages, outwith, rare. Am I allowed ken?
+  it: Jen: Sto facendo una lista: close, piece, messages, outwith, rare. Posso mettere ken?
+- Callum: You ken ken already. You've been using it with your eyebrows since you arrived.
+  it: Callum: Ken lo sai già. Lo usi con le sopracciglia da quando sei arrivata.
+- Morag: Dinnae tease her. She's doing better than you did in London, when you asked for a bridie and got a stare.
+  it: Morag: Non prenderla in giro. Se la cava meglio di te a Londra, quando hai chiesto un bridie e ti hanno fissato.
+- Callum: That baker was outwith civilisation.
+  it: Callum: Quel panettiere era fuori dalla civiltà.
+- Jen: Bridie?
+  it: Jen: Bridie?
+- Morag: Meat pastry. Another time. Tonight you learn the close and the rain.
+  it: Morag: Pasta di carne. Un'altra volta. Stasera impari il close e la pioggia.
+- Callum put his boots by the door. Morag handed Jen the ugly jacket as if it were a diploma.
+  it: Callum mise gli stivali vicino alla porta. Morag porse a Jen la giacca brutta come se fosse un diploma.
+- Morag: Away you go. Text me when you're on the way back, and dinnae let him tell you the band is "intimate" when he means the room is wee.
+  it: Morag: Andate. Scrivetemi quando state tornando, e non lasciate che lui vi dica che la band è «intima» quando vuole dire che la stanza è piccola.
+- Callum: Pure cheek from my own sister.
+  it: Callum: Che faccia tosta, da mia sorella.
+- Jen, in the ugly jacket, looked almost local from three metres.
+  it: Jen, nella giacca brutta, sembrava quasi del posto da tre metri.
+- Jen: See you later. And thanks for not making me say hallway again.
+  it: Jen: Ci vediamo dopo. E grazie di non avermi fatto ridire hallway.
+- Morag: Progress. Mind the step at the close door; it hates strangers and proud shoes.
+  it: Morag: Progressi. Attenta allo scalino alla porta del close; odia gli stranieri e le scarpe orgogliose.
+- The rain agreed, in the only language Glasgow weather trusts.
+  it: La pioggia fu d'accordo, nella sola lingua di cui si fida il tempo di Glasgow.
+
+notes.it:
+1. Glasgow... less news than weather: apertura narrativa. Rain come fatto strutturale, non evento. Registro del narratore: inglese britannico standard; il dialogo porta lo scozzese.
+2. close... hallway: close = vano scale/ingresso comune di un tenement scozzese (non «vicolo chiuso» qui). Jen da Londra calca hallway: primo fraintendimento lessicale. Flat resta britannico (appartamento).
+3. Aye, it's yourself: Aye = sì (scozzese/nord). It's yourself: formula di riconoscimento calorosa («guarda chi c'è»). Real wet: il bagnato «vero» dopo la pioggerella.
+4. kettle's on... hen: hen in Glasgow/Scozia occidentale = vocativo affettuoso (cara), non «gallina» letterale verso Jen. Give us your coat: us inclusivo/softening (dammi).
+5. You'll ken... ken = know (scozzese; anche verbo pieno). Bins: cassonetti nel cortile del tenement. Don't scare her... two nights: Morag media.
+6. piece... sandwich: piece = panino (scozzese). Pure dead brilliant: intensificatori scozzesi (pure, dead) + brilliant; «fantastico», non «puro morto». Morag avvisa: non è poesia da taccuino.
+7. Outwith the timetable: outwith = outside, oltre (scozzese formale e parlato; tipico cartelli e discorso). Away and get: away = vai (imperativo soft). Messages = commissioni/spesa (scozzese/irlandese del Nord); non «messaggi» SMS.
+8. bouncing... wee fashion thing: bouncing rain = pioggia che rimbalza. Wee = piccolo. Covent Garden... Glasgow weather: battuta sul clima vs moda londinese.
+9. Will you no come: interrogativa scozzese (will you no / will ye no) = won't you. I'm no wanting: no per not davanti al verbo in parlato. Sore head: postumi. Rare night: rare = splendid/good in scozzese; Morag lo glossa contro rare = al sangue.
+10. Dinnae tease: dinnae = don't (Scots). Bridie: pasta di carne scozzese (fatto consolidato). Outwith civilisation: Callum riusa outwith per comico. Boots: stivali (britannico); qui calzature da pioggia.
+11. Away you go... dinnae let him... wee: chiusura istruttiva. Pure cheek: faccia tosta (cheek) con pure intensificatore. Diploma: la giacca brutta come patente locale.
+12. Mind the step at the close door: mind = fai attenzione a. Proud shoes: scarpe da città. Narratore chiude: rain as language; il tempo «firma» la varietà senza dizionario.
+13. Scottish English e Scots: gran parte delle battute è Scottish English (inglese con lessico e grammatica locali: aye, wee, outwith, messages, hen, will you no). Dinnae, ken come verbo pieno, piece toccano il confine col Scots (varietà germanica sorella, non «inglese sbagliato»). La lezione non insegna Scots letterario; mostra un parlato glaswegiano plausibile e cosa un orecchio di Londra deve imparare a non correggere.
+
+ex1:
+- Jen still called the close a hallway until Morag and Callum sorted her out.
+  it: Jen chiamava ancora il close un corridoio finché Morag e Callum non l'hanno sistemata.
+- Callum said a piece and a cup of tea would have been pure dead brilliant, but the biscuits would do.
+  it: Callum disse che un panino e una tazza di tè sarebbero stati fantastici, ma i biscotti andavano bene.
+- Morag had already done the messages; she only needed milk, not a football opinion.
+  it: Morag aveva già fatto la spesa; le serviva solo il latte, non un'opinione sul calcio.
+- "Will you no come out later?" meant won't you join us, not a grammar mistake.
+  it: «Will you no come out later?» voleva dire non vieni con noi, non un errore di grammatica.
+- Rare, in Callum's mouth that night, meant a good night out, not meat cooked pink.
+  it: Rare, in bocca a Callum quella sera, voleva dire una bella serata fuori, non carne al sangue.
+
+ex2:
+- Aye. [Close], not hallway. You'll ken it by Sunday.
+  it: Aye. Close, non hallway. Lo saprai entro domenica.
+- A [piece] and a cup of tea would have been pure dead brilliant.
+  it: Un panino e una tazza di tè sarebbero stati fantastici.
+- Do you want anything from the shop, or have you done the [messages] already?
+  it: Vuoi qualcosa dal negozio, o hai già fatto la spesa?
+- The train was late: outwith the [timetable], then.
+  it: Il treno era in ritardo: fuori dall'orario, allora.
+- [Dinnae] tease her; she's doing better than you did in London.
+  it: Non prenderla in giro; se la cava meglio di te a Londra.
+
+tasks:
+- The rain had started again. Morag let in her brother Callum and Jen, who had come up from London and was still calling the close a hallway. Callum said she had arrived before the real wet; Morag put the kettle on and asked Jen, kindly, whether she wanted tea or coffee. Jen brought biscuits; Callum said a sandwich and tea would have been wonderful, but biscuits were fine, and Morag explained that piece means sandwich. The train had been twenty minutes late, outwith the timetable. Callum went for milk; the shopping was already done. He came back soaked and told Jen her Covent Garden jacket would not face Glasgow weather. He asked Morag to come out to a band on Byres Road; she refused because of work. Jen went instead. Morag warned her that intimate might only mean a small room, handed her an ugly spare jacket, and told them to mind the step at the close door.
+  task.it: Riscrivi la sera di Glasgow in inglese britannico standard (120-160 parole): stessi fatti e stesso tono caldo, senza aye/dinnae/ken/outwith/messages/piece/hen/pure dead come marca locale (puoi spiegare un termine se serve). Confronta col modello.
+  rubric.it: I fatti coincidono; il lessico locale è tradotto, non cancellato nel senso; il registro resta parlato-familiare; l'inglese è naturale; Jen resta la visitatrice che impara, non una caricatura.
+
+== 52 C2
+numeral: Lesson Fifty-Two
+title: Dublin rain
+title.it: Pioggia a Dublino
+
+dialogue:
+- It was after raining when Niamh remembered she had left her good umbrella on the bus, which is a Dublin way of saying the rain had only paused to laugh.
+  it: Aveva smesso di piovere da poco quando Niamh si ricordò di aver lasciato l'ombrello buono sull'autobus, che è un modo dublinese di dire che la pioggia aveva soltanto fatto una pausa per ridere.
+- She was due at her aunt's in Phibsborough for the tea, and the tea in that house meant a full plate and three opinions before you sat.
+  it: Doveva essere dalla zia a Phibsborough per il tè, e il tè in quella casa voleva dire un piatto pieno e tre opinioni prima di sederti.
+- "Will you ever be on time at all?" Aoife would say, and she would say it kindly, which made it worse.
+  it: «Arriverai mai in orario, alla fine?» avrebbe detto Aoife, e l'avrebbe detto con gentilezza, il che peggiorava le cose.
+- Niamh cut through the park because the short way looked honest, and the rain started again halfway across the grass, as if it had been waiting for a witness.
+  it: Niamh tagliò attraverso il parco perché la via corta sembrava onesta, e a metà dell'erba la pioggia ricominciò, come se aspettasse un testimone.
+- A man on a bench said, "Grand soft day," without irony she could prove, and she said, "It is, yeah," which committed her to nothing.
+  it: Un uomo su una panchina disse «Grand soft day» senza un'ironia che lei potesse dimostrare, e lei disse «It is, yeah», che non la impegnava a niente.
+- Soft rain, in Ireland, is the sort that soaks you while pretending to be mild; grand is the word that can mean fine, plenty, or please stop asking.
+  it: La pioggia soft, in Irlanda, è quella che ti inzuppa mentre finge di essere mite; grand è la parola che può voler dire bene, un sacco, o per favore smettila di chiedere.
+- By the canal her shoes had given up, and a cyclist shouted "Sorry!" after nearly taking her knee, which is also a Dublin apology: loud, late, and sincere enough.
+  it: Al canale le scarpe avevano mollato, e un ciclista gridò «Sorry!» dopo averle quasi portato via il ginocchio, che è anche una scusa dublinese: alta, in ritardo, e abbastanza sincera.
+- She pressed the bell at Aoife's door with a wet finger and a face that said she knew she was late.
+  it: Suonò il campanello da Aoife con un dito bagnato e una faccia che diceva che sapeva di essere in ritardo.
+- "There you are now," said Aoife. "Come in out of that. You're drowned."
+  it: «Ecco qua», disse Aoife. «Entra, via da quella. Sei fradicia».
+- "I am after forgetting the umbrella on the bus," said Niamh, and Aoife only nodded, because the after was family grammar and needed no footnote.
+  it: «Ho appena lasciato l'ombrello sull'autobus», disse Niamh, e Aoife annuì soltanto, perché quel after era grammatica di famiglia e non aveva bisogno di nota.
+- "Sit yourself down. Will you take a cup of tea?"
+  it: «Siediti. Prendi una tazza di tè?»
+- "I will, thanks. I'm destroyed."
+  it: «Sì, grazie. Sono distrutta».
+- Destroyed, here, meant tired and wet, not ruined for society; Aoife set the teapot as if it could reverse weather.
+  it: Destroyed, qui, voleva dire stanca e bagnata, non rovinata per la società; Aoife mise la teiera come se potesse invertire il tempo.
+- "Your cousin Seán was asking for you. He's after getting the new job in the hospital, the one he wouldn't stop talking about."
+  it: «Tuo cugino Seán chiedeva di te. Ha appena preso il nuovo lavoro in ospedale, quello di cui non smetteva di parlare».
+- "Good for him. Does he still think he's gas?"
+  it: «Bene per lui. Si crede ancora uno spiritoso?»
+- "He does. Sure why wouldn't he? The whole ward laughs, he says, though I've my doubts about nurses and their free time."
+  it: «Sì. E come no? Tutto il reparto ride, dice, anche se io i miei dubbi sulle infermiere e sul loro tempo libero ce li ho».
+- Sure, from Aoife, was not certainty; it was oil for the sentence, a push that said of course and sure look before the point arrived.
+  it: Sure, da Aoife, non era certezza; era olio per la frase, una spinta che diceva ovviamente e figurati prima che arrivasse il punto.
+- They ate bread and ham from the press, which was the cupboard by the sink and not a machine that prints headlines.
+  it: Mangiarono pane e prosciutto dalla press, che era la credenza accanto al lavandino e non una macchina che stampa titoli.
+- "Any craic at work?" Aoife asked, meaning news and mischief, not a crash.
+  it: «Novità al lavoro?» chiese Aoife, intendendo notizie e birichinate, non un incidente.
+- "Yer man in accounts is still giving out about the printer."
+  it: «Quello dei conti se la prende ancora con la stampante».
+- Yer man was nobody's name and everybody's; giving out meant complaining at length, a national sport with tea.
+  it: Yer man non era il nome di nessuno e di tutti; giving out voleva dire lamentarsi a lungo, sport nazionale col tè.
+- "Tell him to wise up. Life's too short for printers."
+  it: «Digli di svegliarsi. La vita è troppo corta per le stampanti».
+- Outside, the rain thickened; inside, Aoife's kitchen kept its own climate of butter and talk.
+  it: Fuori la pioggia si fece più fitta; dentro, la cucina di Aoife teneva un clima suo di burro e chiacchiere.
+- "You'll stay the night if it keeps up," Aoife said. "I've the spare room ready, and I'm not sending you back across town looking like a drowned cat."
+  it: «Resti a dormire se continua così», disse Aoife. «Ho la camera di scorta pronta, e non ti rimando dall'altra parte della città come una gatta fradicia».
+- "I might, yeah. Thanks. I was going to be bold and walk, but the boldness has washed off me."
+  it: «Forse, sì. Grazie. Stavo per fare la spavalda e tornare a piedi, ma la spavalderia mi si è sciacquata via».
+- Bold, in that house, could mean naughty or brave; tonight it meant the second, gently mocked.
+  it: Bold, in quella casa, poteva voler dire monella o coraggiosa; stasera voleva dire la seconda, presa in giro con dolcezza.
+- They watched a quiz on the television without the sound for a while, and Aoife still knew the answers, which she announced to the teapot.
+  it: Guardarono un quiz in televisione per un po' senza audio, e Aoife sapeva comunque le risposte, che annunciava alla teiera.
+- "Your mother rang. She says you're not eating. I said you were after eating half my fridge, so she can settle."
+  it: «Ha telefonato tua madre. Dice che non mangi. Io ho detto che ti sei appena mangiata mezzo frigo, così può stare tranquilla».
+- Niamh laughed into her cup. The rain on the window did the drumming; the kitchen did the rest.
+  it: Niamh rise nella tazza. La pioggia sulla finestra faceva il tamburo; la cucina faceva il resto.
+- When she finally slept in the spare room, the umbrella on the bus continued its tour of Dublin without her, and she did not mind.
+  it: Quando finalmente dormì nella camera di scorta, l'ombrello sull'autobus proseguì il suo giro di Dublino senza di lei, e non le importò.
+- In the morning Aoife said, "It's cleared a bit. You'll do," and handed her a spare brolly that had seen better decades.
+  it: Al mattino Aoife disse «Si è un po' schiarito. Te la cavi», e le porse un ombrello di scorta che aveva visto decenni migliori.
+- "I will, yeah," said Niamh, which, after a night of soft rain and hard tea, meant more than fine and less than a speech.
+  it: «Sì, ce la faccio», disse Niamh, che, dopo una notte di pioggia soft e tè deciso, voleva dire più di fine e meno di un discorso.
+- She stepped out into a city that had washed its face and kept its accent.
+  it: Uscì in una città che si era lavata la faccia e aveva tenuto il suo accento.
+- The man on the bench was gone; the soft day, somehow, remained grand.
+  it: L'uomo sulla panchina non c'era più; il soft day, in qualche modo, restava grand.
+
+notes.it:
+1. after raining... Dublin way: after + -ing (I'm after forgetting) è tratto tipico dell'irlandese inglese: passato recente, calco sul gaelico. Il narratore ci gioca: after raining = ha appena smesso di piovere. Phibsborough: quartiere nord di Dublino (fatto noto). The tea = pasto/visita, non solo bevanda.
+2. Will you ever be on time at all?: ever e at all tipici da enfasi irlandese. Kindly... worse: gentilezza che punge.
+3. Grand soft day: formula meteorologica irlandese; soft rain = pioggia fine che bagna. Grand: tuttofare (bene / notevole / chiudi il discorso). It is, yeah: risposta minima, impegno zero.
+4. Come in out of that... drowned: out of that = via da quel tempo. Drowned = fradicio (iperbole domestica). I am after forgetting: passato recente; Aoife non corregge.
+5. Will you take a cup of tea?: take tea = accettare/bere, formula di offerta. Destroyed = esausta. Gas = spiritoso, divertente (irlandese). Sure why wouldn't he?: sure come discourse marker, non «certo» logico.
+6. press = credenza/cupboard (irlandese/scozzese); non la stampa. Craic (si pronuncia come crack) = divertimento, novità piacevoli. Any craic at work? = che si dice?
+7. Yer man = quel tizio (riferimento vago e familiare). Giving out = lamentarsi. Wise up = datti una regolata / apri gli occhi.
+8. You'll stay the night... drowned cat: ospitalità pratica. Bold = monella (l'uso irlandese più comune, detto dei bambini) o coraggiosa; qui coraggiosa, presa in giro con dolcezza. I'm after eating: di nuovo after-perfect.
+9. You'll do: «te la cavi / sei a posto». Brolly: ombrello (britannico/irlandese colloquiale). I will, yeah: chiusura tipica, più impegno di Fine, thanks (lezione 1) ma senza discorso.
+10. washed its face and kept its accent: la città dopo la pioggia; accento = varietà. Soft day... remained grand: richiude le due parole-chiave senza glossarle di nuovo; il lettore ormai le sente.
+
+ex1:
+- Niamh was after forgetting her umbrella on the bus when the soft rain began again.
+  it: Niamh aveva appena lasciato l'ombrello sull'autobus quando la pioggia fine ricominciò.
+- "Grand soft day," said the man on the bench, and grand did more work than the weather report.
+  it: «Grand soft day», disse l'uomo sulla panchina, e grand faceva più lavoro del bollettino.
+- Aoife asked if she would take a cup of tea; Niamh said she was destroyed, meaning wet and wrecked for walking.
+  it: Aoife chiese se prendeva una tazza di tè; Niamh disse di essere destroyed, cioè bagnata e finita per camminare.
+- They ate ham from the press, and Aoife asked what craic there was at work.
+  it: Mangiarono prosciutto dalla credenza, e Aoife chiese che novità ci fossero al lavoro.
+- Yer man in accounts was still giving out about the printer; Aoife told her to tell him to wise up.
+  it: Quello dei conti se la prendeva ancora con la stampante; Aoife le disse di dirgli di svegliarsi.
+
+ex2:
+- "I am [after] forgetting the umbrella on the bus," said Niamh.
+  it: «Ho appena lasciato l'ombrello sull'autobus», disse Niamh.
+- A man on a bench said, "Grand [soft] day," without irony she could prove.
+  it: Un uomo su una panchina disse «Grand soft day» senza un'ironia che lei potesse dimostrare.
+- They ate bread and ham from the [press], which was the cupboard by the sink.
+  it: Mangiarono pane e prosciutto dalla press, che era la credenza accanto al lavandino.
+- "Any [craic] at work?" Aoife asked, meaning news and mischief.
+  it: «Novità al lavoro?» chiese Aoife, intendendo notizie e birichinate.
+- "Yer man in accounts is still [giving] out about the printer."
+  it: «Quello dei conti se la prende ancora con la stampante».
+
+tasks:
+- The rain had only paused when Niamh realised she had left her umbrella on the bus. She was expected at her aunt Aoife's in Phibsborough for tea, meaning food and talk. She cut through the park; the fine rain began again. A man on a bench called it a lovely mild day; she agreed without committing herself. At the door Aoife told her to come in out of the weather: she was soaked. Niamh said she had just forgotten the umbrella. They drank tea; Aoife mentioned cousin Seán's new hospital job and his belief that he was hilarious. They ate bread and ham from the cupboard. Aoife asked for workplace news; Niamh said the accounts fellow was still complaining about the printer. Aoife told her to tell him to get some sense. Niamh stayed the night. In the morning Aoife lent her an old umbrella, and Niamh went out into a cleaner city that had kept its way of speaking.
+  task.it: Racconta di nuovo la storia in inglese britannico standard (130-160 parole), stessi fatti e stesso umore quieto, traducendo after-perfect, grand/soft, press, craic, yer man, giving out. Non correggere i personaggi: spiega solo la lingua. Confronta col modello.
+  rubric.it: I fatti coincidono; i tratti irlandesi sono resi, non derisi; il registro resta narrativo caldo; l'inglese è naturale; la chiusura tiene pioggia e accento senza moralina.
+
+== 53 C2
+numeral: Lesson Fifty-Three
+title: A Jamaican grandmother
+title.it: Una nonna giamaicana
+
+dialogue:
+- Sit you down, pickney, and stop dancing up the linoleum like the floor owe you money.
+  it: Siediti, bambino, e smettila di ballare sul linoleum come se il pavimento ti dovesse dei soldi.
+- You want a story? You always want a story when the mango dem ripe and you mouth already sticky.
+  it: Vuoi una storia? Vuoi sempre una storia quando i mango sono maturi e hai già la bocca appiccicosa.
+- All right. Hear me now. When I was a likkle girl in St Mary, my grandmother had a tree that everybody in the yard respect.
+  it: Va bene. Ascoltami. Quando ero una bambina piccola a St Mary, mia nonna aveva un albero che tutti nel cortile rispettavano.
+- That tree bear mango like it get paid by the fruit.
+  it: Quell'albero faceva mango come se lo pagassero a frutto.
+- One August, my cousin Delroy decide he bigger than the rule.
+  it: Un agosto, mio cugino Delroy decise di essere più grande della regola.
+- The rule was simple: you no climb when the ants busy, and you no take the green ones just because you impatient.
+  it: La regola era semplice: non salire quando le formiche sono in attività, e non prendere quelli verdi solo perché sei impaziente.
+- Delroy say, "Miss Mae, the ripe ones too high, and I can manage."
+  it: Delroy disse: «Miss Mae, quelli maturi sono troppo in alto, e io ce la faccio».
+- Miss Mae was my grandmother. Nobody call her by her first name unless them ready for a look that could stop a bus.
+  it: Miss Mae era mia nonna. Nessuno la chiamava per nome di battesimo a meno di essere pronto a un'occhiata che poteva fermare un autobus.
+- She tell him, "Soon come, the ripe ones going fall. Wait."
+  it: Gli disse: «Soon come, quelli maturi cadranno. Aspetta».
+- Soon come, in that yard, could mean five minutes or next week; it never mean never, and it never mean now.
+  it: Soon come, in quel cortile, poteva voler dire cinque minuti o la settimana prossima; non voleva mai dire mai, e non voleva mai dire adesso.
+- Delroy no wait. Him go up that tree like ambition itself, and the branch do what branch do when a boy heavier than him brain.
+  it: Delroy non aspettò. Salì su quell'albero come l'ambizione in persona, e il ramo fece ciò che fa un ramo quando un ragazzo pesa più del suo cervello.
+- Crack. Down him come, and the mango dem scatter, and him knee mash up bad.
+  it: Crack. Giù lui, e i mango si sparpagliarono, e si conciò male il ginocchio.
+- Him bawl out. Miss Mae no panic. She wipe she hands on she apron and say, "You see? The tree no business with freeness."
+  it: Urlo. Miss Mae non andò in panico. Si asciugò le mani sul grembiule e disse: «Visto? L'albero non ha a che fare con le cose gratis».
+- Freeness mean you want something and you no want the patience that go with it.
+  it: Freeness vuol dire che vuoi qualcosa e non vuoi la pazienza che ci va dietro.
+- She clean the knee, she give him a piece of cloth, and she make him sit in the shade while the ants go about them own work.
+  it: Gli pulì il ginocchio, gli diede un pezzo di stoffa, e lo fece sedere all'ombra mentre le formiche facevano il loro lavoro.
+- Then she pick two ripe mango that fall by themself, and she give me one, and she give Delroy one.
+  it: Poi raccolse due mango maturi caduti da soli, ne diede uno a me e uno a Delroy.
+- Delroy say, "But I climb for the sweet ones."
+  it: Delroy disse: «Ma io sono salito per quelli dolci».
+- Miss Mae say, "And the tree climb for you sense. Eat what fall. Next time you wait, you tongue still happy and you knee still pretty."
+  it: Miss Mae disse: «E l'albero è salito per il tuo buon senso. Mangia quel che cade. La prossima volta che aspetti, la lingua è ancora contenta e il ginocchio ancora carino».
+- I laugh so hard I nearly drop my mango. Delroy sulk until the juice sweet him back to life.
+  it: Io risi tanto che quasi mi cadeva il mango. Delroy restò imbronciato finché il succo non lo riportò in vita.
+- From that day him respect the ants, and him respect Miss Mae, and him still no respect gravity, but that is another story for when you older.
+  it: Da quel giorno rispettò le formiche, e rispettò Miss Mae, e ancora non rispettò la gravità, ma quella è un'altra storia per quando sarai più grande.
+- Why I tell you this while you sticky?
+  it: Perché te lo racconto mentre sei appiccicoso?
+- Because you reach for the green one on the counter, same way Delroy reach for the high branch.
+  it: Perché allunghi la mano verso quello verde sul tavolo, come Delroy verso il ramo alto.
+- Put it back. The ripe one in the bowl waiting. You no need freeness today.
+  it: Rimettilo. Quello maturo nella ciotola aspetta. Oggi non ti serve freeness.
+- Yes, I see you face. You want me say the moral like a school book.
+  it: Sì, ti vedo in faccia. Vuoi che dica la morale come un libro di scuola.
+- The moral is: wait for the fruit that ready, unless you enjoy mash-up knee and a grandmother laugh that follow you into next week.
+  it: La morale è: aspetta il frutto pronto, a meno che ti piaccia un ginocchio pestato e una risata di nonna che ti segue fino alla settimana dopo.
+- Miss Mae dead now long time, but that laugh still deh in the kitchen when the mango smell sweet.
+  it: Miss Mae è morta da tempo, ma quella risata è ancora in cucina quando i mango profumano di dolce.
+- And me? I still say soon come when the cake no done, and I mean it with love and with timing that no watch can fix.
+  it: E io? Dico ancora soon come quando la torta non è pronta, e lo dico con amore e con un tempo che nessun orologio sistema.
+- Finish that ripe mango. Wipe you fingers. Then you can dance the linoleum if you must.
+  it: Finisci quel mango maturo. Asciugati le dita. Poi puoi ballare sul linoleum se proprio devi.
+- But if you mash up my floor polish, I telling you the Delroy story again, slower, with more ants.
+  it: Ma se mi rovini la cera del pavimento, ti racconto di nuovo la storia di Delroy, più lenta, con più formiche.
+- You hear me, pickney?
+  it: Hai sentito, bambino?
+- Good. Pass me the bowl. We going share the last one, and nobody climbing nothing.
+  it: Bene. Passami la ciotola. Dividiamo l'ultimo, e nessuno sale su niente.
+
+notes.it:
+1. Sit you down, pickney... linoleum: monologo orale. Pickney = bambino (caraibico, dal portoghese pequenino). Dance up the linoleum: vivacità del nipote. Registro: inglese giamaicano di continuum (mesolecto narrativo), non «inglese sbagliato».
+2. mango dem: dem dopo il nome = plurale (i mango). Mouth already sticky: già colpa anticipata. St Mary: parrocchia della Giamaica (fatto noto). Yard: cortile/spazio domestico condiviso.
+3. likkle = little. bear mango like it get paid: tono da racconto; verbi spesso senza -s alla terza persona nel creolo/mesolecto. La regola: niente salite con le formiche in attività, niente frutti verdi.
+4. Miss Mae: rispetto; first name riservato. Look that could stop a bus: iperbole affettuosa. Them ready: them = they.
+5. Soon come: formula giamaicana famosa: «arrivo / tra poco», con tempistica elastica: cinque minuti o la settimana prossima, mai «mai», mai «adesso».
+6. Him go up... him knee mash up bad: him soggetto e possesso (he/his). Mash up = rovinare, fare a pezzi (ginocchio). Bawl out = urlare dal dolore. Freeness = qualcosa gratis / senza sforzo (anche «freeness» come atteggiamento).
+7. She wipe she hands... she apron: she = her in questo sistema. Ants go about them own work: parallelismo col ragazzo.
+8. Tree climb for you sense: retorica della nonna. Tongue still happy... knee still pretty: parallelismo comico. Sulk until the juice sweet him: il gusto lo riconcilia.
+9. Why I tell you... green one on the counter: la storia punta al presente del nipote. Put it back... no need freeness today: applicazione.
+10. Moral... mash-up knee... grandmother laugh: morale detta, poi smontata dall'affetto. Miss Mae dead now long time: dead = died (forma tipica). Still deh in the kitchen: deh/dey = esserci, trovarsi.
+11. Soon come when the cake no done: la narratrice eredita la formula. Timing that no watch can fix: tempo sociale vs orologio. Floor polish... Delroy story again, slower, with more ants: minaccia tenera; chiusura sull'ospitalità (share the last one) e sul divieto di salire.
+
+ex1:
+- The grandmother's rule was plain: do not climb when the ants are busy, and do not take the green mangoes out of impatience.
+  it: La regola della nonna era chiara: non salire quando le formiche sono in attività, e non prendere i mango verdi per impazienza.
+- Soon come, in that yard, could mean five minutes or next week; it never meant never, and it never meant now.
+  it: Soon come, in quel cortile, poteva voler dire cinque minuti o la settimana prossima; non voleva mai dire mai, e non voleva mai dire adesso.
+- Delroy went up the tree; the branch cracked; his knee mashed up badly, and Miss Mae said the tree had no business with freeness.
+  it: Delroy salì sull'albero; il ramo si spezzò; si conciò male il ginocchio, e Miss Mae disse che l'albero non aveva a che fare con le cose gratis.
+- She gave each child a mango that had fallen by itself, and told Delroy to eat what falls if he wanted a pretty knee next time.
+  it: Diede a ogni bambino un mango caduto da solo, e disse a Delroy di mangiare quel che cade se voleva un ginocchio ancora carino la volta dopo.
+- The story landed on the sticky grandchild reaching for the green mango on the counter: put it back; no freeness today.
+  it: La storia arrivò al nipote appiccicoso che allungava la mano al mango verde sul tavolo: rimettilo; oggi niente freeness.
+
+ex2:
+- Sit you down, [pickney], and stop dancing up the linoleum.
+  it: Siediti, bambino, e smettila di ballare sul linoleum.
+- When I was a [likkle] girl in St Mary, my grandmother had a tree everybody respected.
+  it: Quando ero una bambina piccola a St Mary, mia nonna aveva un albero che tutti rispettavano.
+- She tell him, "[Soon] come, the ripe ones going fall. Wait."
+  it: Gli disse: «Soon come, quelli maturi cadranno. Aspetta».
+- Down him come, and the mango dem scatter, and him knee [mash] up bad.
+  it: Giù lui, e i mango si sparpagliarono, e si conciò male il ginocchio.
+- Miss Mae dead now long time, but that laugh still [deh] in the kitchen when the mango smell sweet.
+  it: Miss Mae è morta da tempo, ma quella risata è ancora in cucina quando i mango profumano di dolce.
+
+tasks:
+- Sit down, child, and stop dancing on the linoleum. You want a story because the mangoes are ripe and your mouth is already sticky. When I was a little girl in St Mary, my grandmother Miss Mae had a mango tree the whole yard respected. The rule was: do not climb while the ants are busy, and do not pick green fruit out of impatience. Cousin Delroy said the ripe ones were too high and he could manage. Miss Mae told him to wait: soon come, they would fall. Soon come meant later with love, not now and not never. He climbed anyway; the branch broke; his knee was badly hurt. She cleaned it, made him sit in the shade, and gave us each a mango that had fallen by itself. She said the tree had no time for freeness: eat what falls, keep your knee pretty. I tell you this because you just reached for the green one on the counter. Put it back. Share the ripe one. Nobody is climbing anything today.
+  task.it: Racconta di nuovo la storia della nonna in inglese britannico standard (140-170 parole), stesso affetto e stesso monito, traducendo pickney, likkle, soon come, mash up, freeness, dem, deh. Non rendere il creolo «sbagliato»: rendilo chiaro. Confronta col modello.
+  rubric.it: I fatti e la morale pratica ci sono; i tratti caraibici sono spiegati dal racconto, non presi in giro; il registro resta orale e caldo; l'inglese è naturale; la chiusura condivide il mango, non predica soltanto.
+
+== 54 C2
+numeral: Lesson Fifty-Four
+title: Desi English
+title.it: L'inglese desi
+
+dialogue:
+- Desi, for those who meet the word late, means of the South Asian diaspora or of the subcontinent itself: home flavour, not a passport stamp.
+  it: Desi, per chi incontra la parola tardi, significa della diaspora sudasiatica o del subcontinente stesso: sapore di casa, non timbro sul passaporto.
+- Desi English is what happens when that home speaks English for office, family WhatsApp and the relative who still says "today morning" without flinching.
+  it: L'inglese desi è ciò che succede quando quella casa parla inglese per l'ufficio, il WhatsApp di famiglia e il parente che dice ancora «today morning» senza battere ciglio.
+- I do not write this column to mock. I write it because British style guides still treat some of these forms as stains, when they are tools.
+  it: Non scrivo questa rubrica per prendere in giro. La scrivo perché le guide di stile britanniche trattano ancora alcune di queste forme come macchie, mentre sono strumenti.
+- Take prepone. If postpone means put later, prepone means bring forward: tidy, logical, and still enough to make a London manager blink.
+  it: Prendi prepone. Se postpone significa rimandare, prepone significa anticipare: ordinato, logico, e ancora sufficiente a far battere le palpebre a un responsabile londinese.
+- Last Tuesday my cousin-brother Rajiv emailed his team: "Can we prepone the call to 10 a.m.? I am out of station on Wednesday."
+  it: Martedì scorso mio cugino Rajiv ha scritto alla squadra: «Possiamo anticipare la chiamata alle 10? Mercoledì sono fuori sede».
+- Cousin-brother tells you the cousin is male and close; out of station means away on travel, not locked out of King's Cross.
+  it: Cousin-brother ti dice che il cugino è maschio e vicino; out of station significa in viaggio, non chiuso fuori da King's Cross.
+- The London reply came back: "Do you mean bring the call forward? Also, what station?"
+  it: La risposta da Londra tornò: «Intendi anticipare la chiamata? E quale stazione?»
+- Rajiv, who has patience of a saint and the inbox of a storm, wrote: "Yes, bring forward. I will be in Pune. Kindly revert with the new invite."
+  it: Rajiv, che ha la pazienza di un santo e la posta in arrivo di una tempesta, scrisse: «Sì, anticipare. Sarò a Pune. Kindly revert col nuovo invito».
+- Kindly revert, in Indian office English, means please reply; it does not mean please go back to a previous evolutionary stage, though the London manager looked it up and feared both.
+  it: Kindly revert, nell'inglese d'ufficio indiano, significa per favore rispondi; non significa torna a uno stadio evolutivo precedente, anche se il responsabile londinese l'ha cercato e ha temuto entrambe le cose.
+- By afternoon the invite had moved, the work was done, and only the style guide had suffered.
+  it: Nel pomeriggio l'invito si era spostato, il lavoro era fatto, e soltanto la guida di stile aveva sofferto.
+- At home the same evening, aunties asked Rajiv's sister what was her good name on a form that already had her name, because good name means the name you go by with respect.
+  it: A casa la stessa sera, le zie chiesero alla sorella di Rajiv quale fosse il suo good name su un modulo che aveva già il nome, perché good name è il nome con cui ti presentano col rispetto.
+- They discussed whether her batchmate from college had passed out already, meaning graduated, not fainted beside the samosas.
+  it: Discussero se la sua compagna di corso del college si fosse già laureata (passed out), non se fosse svenuta accanto ai samosa.
+- "Do the needful," said uncle, handing her a folder for the bank, which meant complete whatever steps the bank required and do not send a philosophical essay back.
+  it: «Do the needful», disse lo zio, porgendole una cartella per la banca, che voleva dire completa i passi che la banca richiede e non rimandare un saggio filosofico.
+- She said she would do it today evening; today morning and today evening are clocks with adjectives, and they keep Indian English time just fine.
+  it: Disse che l'avrebbe fatto today evening; today morning e today evening sono orologi con aggettivi, e tengono l'ora dell'inglese indiano benissimo.
+- Only can close a sentence as plain emphasis: "I told him only" means I did tell him, I myself, and the matter is settled, a full stop with a human face.
+  it: Only può chiudere la frase come semplice enfasi: «I told him only» vuol dire gliel'ho detto proprio io, e la cosa è chiusa, un punto fermo con una faccia umana.
+- Itself does similar work: "I will send it today itself" means this very day, not tomorrow with an apology.
+  it: Itself fa un lavoro simile: «I will send it today itself» vuol dire oggi stesso, non domani con una scusa.
+- None of this is broken English. It is English that has lived with Hindi, Tamil, Bengali, Malayalam and a dozen other kitchens, and has kept the spices that still season the sentence.
+  it: Niente di questo è inglese rotto. È inglese che ha vissuto con hindi, tamil, bengali, malayalam e una dozzina di altre cucine, e ha tenuto le spezie che ancora condiscono la frase.
+- Mutual intelligibility with British or American partners asks for patience both ways: explain prepone once; do not erase it from the speaker's toolbox.
+  it: L'intelligibilità reciproca con partner britannici o americani chiede pazienza nei due sensi: spiega prepone una volta; non cancellarlo dalla cassetta degli attrezzi di chi parla.
+- Prestige still tells graduates to sand their speech for interviews abroad; family still wants the cousin-brother called cousin-brother, because "cousin" alone feels thin.
+  it: Il prestigio dice ancora ai laureati di levigare il parlato per i colloqui all'estero; la famiglia vuole ancora il cousin-brother chiamato cousin-brother, perché «cousin» da solo sembra magro.
+- I am not arguing that every form belongs in a treaty. I am arguing that mockery is a lazy dictionary.
+  it: Non sto sostenendo che ogni forma stia in un trattato. Sto sostenendo che la presa in giro è un dizionario pigro.
+- When the London manager finally wrote "invite preponed; thanks for clarifying," he had learned a verb and lost a sneer.
+  it: Quando il responsabile londinese scrisse infine «invito anticipato (preponed); thanks for clarifying», aveva imparato un verbo e perso un ghigno.
+- Rajiv forwarded the mail to the family group with one line: "See, it works only."
+  it: Rajiv inoltrò la mail al gruppo di famiglia con una riga: «See, it works only».
+- The aunties sent seventeen clapping stickers and asked whether the manager had eaten lunch, which is how Desi English does care across time zones.
+  it: Le zie mandarono diciassette adesivi di applausi e chiesero se il responsabile avesse pranzato, che è come l'inglese desi fa cura attraverso i fusi orari.
+- As for me, I still say today morning when I mean this morning, and I still kindly ask you to revert if this column needs a correction.
+  it: Quanto a me, dico ancora today morning quando intendo stamattina, e ti chiedo ancora kindly di revert se questa rubrica ha bisogno di una correzione.
+- Do the needful, as uncle would say: read the forms, then judge the speakers.
+  it: Do the needful, come direbbe lo zio: leggi le forme, poi giudica i parlanti.
+- And if you must blink at prepone, blink once, learn it, and move the meeting forward.
+  it: E se proprio ti battono le palpebre davanti a prepone, falle battere una volta, imparalo, e anticipa la riunione.
+- The subcontinent has places to be.
+  it: Il subcontinente ha posti dove dover essere.
+- Out of station, perhaps.
+  it: Out of station, forse.
+- Kindly revert when you arrive.
+  it: Kindly revert quando arrivi.
+
+notes.it:
+1. Desi... South Asian diaspora... subcontinent itself: desi = sudasiatico/di casa (parola usata in diaspora e in India). Column: registro da rubrica, ironico ma non beffardo.
+2. today morning: stamattina (Indian English); flinching: battere ciglio. Style guides... stains... tools: tesi (ponte lezione 50 sul red pen).
+3. prepone / postpone: analogia morfologica già anticipata in lezione 50. Cousin-brother: cugino maschio, grado di vicinanza. Out of station: fuori sede/in viaggio (ferrovia e ufficio).
+4. Kindly revert: please reply (ufficio indiano). Evolutionary stage: calembour su revert = tornare indietro. Patience... inbox of a storm: tono da column.
+5. good name: nome «di rispetto» / come ti chiamano. Batchmate: compagno di corso della stessa coorte. Passed out: laurearsi (anche «svenire» in britannico: ambiguità spiegata).
+6. Do the needful: formula ufficiale/ufficio: fa' il necessario. Today evening: stasera. Only finale: enfasi, «I told him only» = gliel'ho detto proprio io. Today itself = oggi stesso.
+7. Hindi, Tamil, Bengali, Malayalam: lingue del subcontinente (fatti noti); kitchens = metafora del contatto. Mutual intelligibility... both ways: eco lezione 50. Sand their speech: levigare per prestigio.
+8. Mockery is a lazy dictionary: punta della rubrica. Invite preponed... lost a sneer: il londinese impara. It works only: only finale in famiglia.
+9. Seventeen clapping stickers... eaten lunch: cura desi (cibo, adesivi). Kindly... revert if this column needs a correction: la columnist usa le forme che difende.
+10. Do the needful... read the forms, then judge: chiusura. Blink once... move the meeting forward: prepone in pratica. Out of station... Kindly revert when you arrive: coda umoristica che riusa due pezzi del lessico.
+
+ex1:
+- Prepone means bring forward, as tidy as postpone means put later, and it still makes some London managers blink.
+  it: Prepone significa anticipare, ordinato come postpone significa rimandare, e fa ancora battere le palpebre a certi responsabili londinesi.
+- Rajiv was out of station in Pune and asked the team to kindly revert with a new invite.
+  it: Rajiv era fuori sede a Pune e chiese alla squadra di kindly revert con un nuovo invito.
+- On the form, "good name" meant the name she went by with respect, not a moral certificate.
+  it: Sul modulo, «good name» era il nome con cui la presentavano col rispetto, non un certificato morale.
+- "Do the needful" meant complete the bank's steps, not write a philosophical essay in reply.
+  it: «Do the needful» voleva dire completare i passi della banca, non rispondere con un saggio filosofico.
+- When the manager wrote that the invite had been preponed, he had learned a verb and lost a sneer.
+  it: Quando il responsabile scrisse che l'invito era stato anticipato (preponed), aveva imparato un verbo e perso un ghigno.
+
+ex2:
+- Can we [prepone] the call to 10 a.m.? I am out of station on Wednesday.
+  it: Possiamo anticipare la chiamata alle 10? Mercoledì sono fuori sede.
+- Kindly [revert] with the new invite.
+  it: Per favore rispondi col nuovo invito.
+- They asked whether her batchmate had [passed] out already, meaning graduated.
+  it: Chiesero se la sua compagna di corso si fosse già laureata.
+- Uncle handed her a folder and said, "Do the [needful]."
+  it: Lo zio le porse una cartella e disse di fare il necessario.
+- Rajiv wrote to the family group, "See, it works [only]."
+  it: Rajiv scrisse al gruppo di famiglia: «Vedi, funziona e basta».
+
+tasks:
+- Dear Team, Could we prepone tomorrow's review from 4 p.m. to 2 p.m.? I will be out of station on Thursday for a client visit in Birmingham. Kindly revert with a fresh invite so Facilities can book the room. I have attached the draft slides; please do the needful on the budget figures before we meet. I will send the figures today itself. Thanks, and please tell cousin-brother Anil on the London desk that the file path is in the mail below only. Regards, Meera
+  task.it: Scrivi un'email di lavoro in inglese indiano d'ufficio (80-110 parole) che usi almeno quattro di queste forme in modo naturale: prepone, out of station, kindly revert, do the needful, cousin-brother, today morning/evening, only finale, itself. Stesso tono professionale-caldo del pezzo. Poi confronta col modello.
+  rubric.it: Le forme indiane ci sono e hanno senso nel contesto; non è una parodia a incastro; il registro è da email di lavoro; l'inglese è naturale; un collega britannico capirebbe dopo una lettura attenta, non dopo uno sneer.
+
+== 55 C2
+numeral: Lesson Fifty-Five
+title: Texas meets Yorkshire
+title.it: Il Texas incontra lo Yorkshire
+
+dialogue:
+- The conference hotel in Leeds had a revolving door and a carpet that forgave nobody's shoes.
+  it: L'hotel del convegno a Leeds aveva una porta girevole e un tappeto che non perdonava le scarpe di nessuno.
+- Brett from Houston stood on what he called the sidewalk outside, waiting for a ride that was already late in two accents.
+  it: Brett da Houston stava su ciò che chiamava sidewalk fuori, aspettando un passaggio già in ritardo in due accenti.
+- Cath from Bradford came out of the lobby, pointed at the same strip of stone, and said, "You're on the pavement, love. Cars don't belong there."
+  it: Cath da Bradford uscì dalla hall, indicò la stessa striscia di pietra, e disse: «Sei sul pavement, love. Le macchine lì non ci vanno».
+- Brett smiled the Texan smile that means patience and mild alarm. "Ma'am, this is the sidewalk. The pavement is what the truck drives on."
+  it: Brett sorrise il sorriso texano che significa pazienza e lieve allarme. «Ma'am, questo è il sidewalk. Il pavement è dove guida il camion».
+- Cath looked at the road. "Nay, love. That road is the road. This bit for walking is the pavement. Sidewalk is your word."
+  it: Cath guardò la strada. «Nay, love. Quella strada è la strada. Questo pezzo per camminare è il pavement. Sidewalk è parola vostra».
+- They had not yet introduced themselves; the dictionary had gone first.
+  it: Non si erano ancora presentati; era andato avanti il dizionario.
+- "Brett Walsh. I'm giving a paper on drought. Someone was meant to collect me for the dinner."
+  it: «Brett Walsh. Presento un paper sulla siccità. Qualcuno doveva venire a prendermi per la cena».
+- "Cath Melling. I'm on the organising team. The dinner is tea, if you're staying with Northern timing: meal at six, not a biscuit at four."
+  it: «Cath Melling. Sono nella squadra organizzativa. La cena è tea, se resti coi tempi del Nord: pasto alle sei, non un biscotto alle quattro».
+- Brett blinked. "Tea is the drink. I already had tea."
+  it: Brett batté le palpebre. «Tea è la bevanda. Ho già preso il tè».
+- "You had a cuppa. Tea is what we call the evening meal round here, unless we say supper to confuse you on purpose."
+  it: «Hai preso una cuppa. Tea è come chiamiamo il pasto della sera da queste parti, a meno che non diciamo supper apposta per confonderti».
+- They walked toward the car park. Brett said, "I'll throw my bag in the trunk."
+  it: Camminarono verso il parcheggio. Brett disse: «Butto la borsa nel trunk».
+- Cath opened the boot. "This is the boot. Trunk is a tree or an elephant, unless you're American and then it's this."
+  it: Cath aprì il bagagliaio. «Questo è il boot. Trunk è un albero o un elefante, a meno che tu non sia americano, e allora è questo».
+- In the car, Brett asked if they would wait in line for the restaurant.
+  it: In macchina Brett chiese se avrebbero fatto la fila (line) per il ristorante.
+- "Queue," said Cath. "We queue. Line is your word in Texas; ours is for drawing with a pencil."
+  it: «Queue», disse Cath. «Noi facciamo queue. Line è parola vostra in Texas; la nostra è per disegnare a matita».
+- At a red light she added, "If I say wait while I lock the door, I mean until. Not during. Yorkshire while is a trap for Southerners and Texans alike."
+  it: A un semaforo rosso aggiunse: «Se dico wait while I lock the door, intendo until. Non during. Il while dello Yorkshire è una trappola per sudisti e texani allo stesso modo».
+- Brett wrote nothing down; his face did the noting.
+  it: Brett non scrisse niente; la faccia prendeva appunti.
+- "Do people here say y'all?" he asked, hopeful.
+  it: «Qui dite y'all?» chiese, speranzoso.
+- "We say you lot, or just you. Y'all is yours, and it's efficient, I'll give you that."
+  it: «Diciamo you lot, o soltanto you. Y'all è vostro, ed è efficiente, questo te lo concedo».
+- Outside the curry house a sign said no parking on the pavement. Brett read it as a ban on the road and nearly argued with a lamp-post.
+  it: Fuori dal ristorante indiano un cartello diceva no parking on the pavement. Brett lo lesse come divieto sulla carreggiata e per poco non litigò con un lampione.
+- Cath stopped him. "It means don't park on the bit where folk walk. Your sidewalk. Nowt to do with the tarmac."
+  it: Cath lo fermò. «Vuol dire non parcheggiare sul pezzo dove la gente cammina. Il tuo sidewalk. Nowt a che fare con l'asfalto».
+- "Nowt?"
+  it: «Nowt?»
+- "Nothing. Owt is anything. If you hear nowt, owt, and aye in one sentence, you're north of patience."
+  it: «Niente. Owt è anything. Se senti nowt, owt e aye in una frase sola, sei a nord della pazienza».
+- They sat. Brett ordered what he called an appetizer; Cath called it a starter and did not fight the waiter about it.
+  it: Si sedettero. Brett ordinò ciò che chiamava appetizer; Cath lo chiamò starter e non litigò col cameriere.
+- "Pants," Brett said later, of a stain story, "I spilled coffee on my pants on the plane."
+  it: «Pants», disse Brett più tardi, di una storia di macchie, «ho rovesciato caffè sui pants in aereo».
+- Cath's eyes widened. "On your trousers, love. Pants here are what you wear under them. Mind that word near my mam."
+  it: Gli occhi di Cath si allargarono. «Sui trousers, love. Pants qui sono quelli di sotto. Attento a quella parola vicino a mia mam».
+- Brett put his forehead on the menu for a second. "How many of these landmines do you have?"
+  it: Brett mise la fronte sul menu per un secondo. «Quante di queste mine avete?»
+- "Enough to keep Texas humble. You keep football for what we call American football, and you call our football soccer, which still sounds like a sneeze to my dad."
+  it: «Abbastanza da tenere umile il Texas. Voi tenete football per quello che chiamiamo American football, e il nostro football lo chiamate soccer, che a mio padre sembra ancora uno starnuto».
+- The food arrived. They raised glasses of water, because the papers on drought were in the morning and the jokes had already irrigated the table.
+  it: Arrivò il cibo. Alzarono bicchieri d'acqua, perché i paper sulla siccità erano al mattino e le battute avevano già irrigato il tavolo.
+- "So," said Brett, "I stood on the sidewalk, waited for tea that was dinner, nearly parked on your pavement, said pants to the wrong audience, and learned while means until."
+  it: «Quindi», disse Brett, «stavo sul sidewalk, aspettavo un tea che era cena, per poco parcheggiavo sul vostro pavement, ho detto pants al pubblico sbagliato, e ho imparato che while vuol dire until».
+- "Aye," said Cath. "And I learned y'all is not a spelling mistake."
+  it: «Aye», disse Cath. «E io ho imparato che y'all non è un errore di ortografia».
+- "Deal," said Brett. "You lot can keep queue. We'll keep y'all."
+  it: «Affare», disse Brett. «You lot tenetevi queue. Noi ci teniamo y'all».
+- "And pavement," said Cath.
+  it: «E pavement», disse Cath.
+- "Which pavement?" said Brett, and the waiter, who was from Leeds, laughed without translating.
+  it: «Quale pavement?» disse Brett, e il cameriere, che era di Leeds, rise senza tradurre.
+- Cath paid. Brett left a tip that she called generous and he called normal.
+  it: Pagò Cath. Brett lasciò una mancia che lei chiamò generosa e lui normale.
+- On the pavement that was also a sidewalk, they shook hands like people who had survived a small border.
+  it: Sul pavement che era anche un sidewalk, si strinsero la mano come gente uscita indenne da un piccolo confine.
+- "See you at the drought panel," said Cath. "Don't stand in the road."
+  it: «Ci vediamo al panel sulla siccità», disse Cath. «Non restare in mezzo alla strada».
+- "Wouldn't dream of it, ma'am," said Brett. "I'll wait while you wave."
+  it: «Non me lo sognerei, ma'am», disse Brett. «Aspetterò while you wave».
+- He meant until. She knew. The revolving door took them into the same hotel and two Englishes that had, for one evening, shared a table.
+  it: Intendeva until. Lei lo sapeva. La porta girevole li portò nello stesso hotel e in due inglesi che, per una sera, avevano condiviso un tavolo.
+
+notes.it:
+1. Leeds... revolving door: scena da convegno. Sidewalk (US) vs pavement (UK): primo malinteso; in americano pavement spesso = superficie stradale. Love: vocativo nordico affettuoso, non romantico. Ma'am: rispetto texano.
+2. Nay... Sidewalk is your word: nay = no (nord/arcaico vivo). Dictionary had gone first: battuta narrativa.
+3. Tea = pasto serale nel Nord (e non solo); cuppa = tazza di tè. Supper: a volte usato per confondere. Timing Northern: pasto presto.
+4. Trunk (US) vs boot (UK) del bagagliaio. Queue vs line: coda. While = until nello Yorkshire: tratto noto; trappola spiegata esplicitamente da Cath.
+5. Y'all (US sud) vs you lot. No parking on the pavement: Brett legge col significato US e rischia di litigare col lampione. Nowt / owt / aye: lessico nordico (niente / qualcosa / sì).
+6. Appetizer / starter. Pants: US = trousers; UK = underwear. Mam = mum (nord). Mind that word: avviso pratico.
+7. Football / soccer / American football: terzo pacchetto di malintesi culturali-lessicali. Drought papers... irrigated: gioco secco/acqua.
+8. Brett's summary lista i malintesi; Cath concede y'all. Deal... queue... y'all... Which pavement?: chiusura sul doppio senso non risolto del tutto. Tip generous/normal: divergenza culturale leggera.
+9. Survived a small border: confine linguistico. Wait while you wave: Brett riusa while correttamente (= until); Cath sa. Two Englishes... shared a table: eco lezione 50 (ours when we meet in the middle).
+10. Tip generous / normal: stessa mancia, due scale. Il pezzo non decide chi ha ragione sul denaro; mostra solo che anche la cortesia ha varietà. Which pavement?: l'ultima battuta rifiuta di chiudere il dizionario con un vincitore; il cameriere di Leeds ride perché riconosce entrambi i mondi senza tradurre.
+
+ex1:
+- On the same strip of stone, Brett said sidewalk and Cath said pavement, and both were right in their own English.
+  it: Sulla stessa striscia di pietra Brett disse sidewalk e Cath disse pavement, ed entrambi avevano ragione nel proprio inglese.
+- Tea, for Cath, was the evening meal at six; Brett had already had a cuppa and thought he was done.
+  it: Tea, per Cath, era il pasto della sera alle sei; Brett aveva già preso una cuppa e pensava di aver concluso.
+- Yorkshire while often means until: wait while I lock the door does not mean during the locking only.
+  it: Il while dello Yorkshire spesso significa until: wait while I lock the door non significa soltanto durante la chiusura.
+- Pants in Brett's story were trousers; in Cath's English pants are worn underneath, especially near her mam.
+  it: Pants nella storia di Brett erano i trousers; nell'inglese di Cath i pants si portano sotto, specie vicino a sua mam.
+- Nowt means nothing, owt means anything, and aye means yes: three short northern tools.
+  it: Nowt significa nothing, owt significa anything, e aye significa yes: tre strumenti nordici corti.
+
+ex2:
+- "You're on the [pavement], love. Cars don't belong there."
+  it: «Sei sul marciapiede, love. Le macchine lì non ci vanno».
+- "I'll throw my bag in the trunk." Cath opened the [boot].
+  it: «Butto la borsa nel trunk.» Cath aprì il bagagliaio.
+- "We [queue]. Line is your word in Texas."
+  it: «Noi facciamo la coda. Line è parola vostra in Texas».
+- "If I say wait [while] I lock the door, I mean until."
+  it: «Se dico wait while I lock the door, intendo until».
+- "Pants here are what you wear under your [trousers]. Mind that word near my mam."
+  it: «Pants qui sono quelli sotto i pantaloni. Attento a quella parola vicino a mia mam».
+
+tasks:
+- First: pavement (UK walking surface) versus sidewalk (US), while Brett also hears pavement as the road surface he drives on. Second: tea as Cath's evening meal versus Brett's cup of tea. Third: pants as Brett's trousers versus underwear in Cath's English, with mam as the danger zone. (Bonus landmines they also hit: boot/trunk, queue/line, while=until, nowt/owt.) Each misunderstanding is lexical, not stupidity: both speakers are fluent in a different house style of English.
+  task.it: Spiega in inglese, intorno alle 100-120 parole, tre malintesi del dialogo (pavement/sidewalk, tea pasto/bevanda, pants/trousers, o altri tre chiari). Per ciascuno: cosa dice ciascuno, cosa intende, perché l'altro fraintende. Registro chiaro da nota a uno studente. Niente presa in giro del Texas o dello Yorkshire.
+  rubric.it: Tre malintesi distinti e corretti rispetto al testo; si vede detto/inteso; il registro è sobrio; l'inglese è naturale; resta il rispetto per entrambe le varietà.
+
+== 56 C2
+kind: revision
+numeral: Lesson Fifty-Six
+title: Revision
+title.it: Ripasso
+
+dialogue:
+- Conference centre, Leeds. Panel title: Whose English sits at this table?
+  it: Centro congressi, Leeds. Titolo del panel: Di chi è l'inglese a questo tavolo?
+  refs: 50 55
+- The chair, Cath Melling of Bradford, welcomed five Englishes and refused to call any of them unfinished.
+  it: La moderatrice, Cath Melling di Bradford, diede il benvenuto a cinque inglesi e rifiutò di chiamarne alcuno incompiuto.
+  refs: 50 55
+- "A standard is a tool," she said, reading from the week's first essay. "An owner is a fantasy with a red pen."
+  it: «Uno standard è uno strumento», disse, leggendo dal primo saggio della settimana. «Un proprietario è una fantasia con la penna rossa».
+  refs: 50
+- Morag from Glasgow spoke next, still amused that a London guest had called her close a hallway.
+  it: Poi parlò Morag da Glasgow, ancora divertita che un'ospite di Londra avesse chiamato il suo close un hallway.
+  refs: 51
+- She offered the room a piece and a cup of tea as a metaphor: same hunger, local bread.
+  it: Offrì alla sala un piece e una tazza di tè come metafora: stessa fame, pane locale.
+  refs: 51
+- "Outwith your style guide," she added, "messages still mean the shopping, and rare can still mean a good night."
+  it: «Outwith la vostra guida di stile», aggiunse, «messages vuol dire ancora la spesa, e rare può ancora voler dire una bella serata».
+  refs: 51
+- Niamh from Dublin said she was after forgetting an umbrella again, and the soft rain outside did the rest of her introduction.
+  it: Niamh da Dublino disse di aver appena dimenticato di nuovo un ombrello, e la soft rain fuori fece il resto della sua presentazione.
+  refs: 52
+- "Grand," said Cath, and half the room heard fine, and half heard please move on, and both readings were available.
+  it: «Grand», disse Cath, e metà sala sentì fine, e metà sentì andiamo avanti, ed entrambe le letture erano disponibili.
+  refs: 52
+- The grandmother from St Mary, now in a kitchen in Leeds, told the story of Delroy and the mango tree without apology for soon come.
+  it: La nonna di St Mary, ora in una cucina a Leeds, raccontò la storia di Delroy e del mango senza scusarsi per soon come.
+  refs: 53
+- "Freeness mash up knee," she said. "Patience keep tongue happy. That moral travel."
+  it: «Freeness rovina il ginocchio», disse. «La pazienza tiene felice la lingua. Quella morale viaggia».
+  refs: 53
+- Rajiv took the microphone and preponed nothing; he simply asked the panel to kindly revert if they had not understood out of station.
+  it: Rajiv prese il microfono e non anticipò niente; chiese soltanto al panel di kindly revert se non avevano capito out of station.
+  refs: 54
+- "Do the needful," he smiled. "Judge the forms after you read them, not before."
+  it: «Do the needful», sorrise. «Giudicate le forme dopo averle lette, non prima».
+  refs: 54 50
+- Brett from Houston confessed he had stood on the sidewalk that was Cath's pavement, waited for tea that was dinner, and said pants near the wrong mam.
+  it: Brett da Houston confessò di essere stato sul sidewalk che era il pavement di Cath, di aver aspettato un tea che era cena, e di aver detto pants vicino alla mam sbagliata.
+  refs: 55
+- "Y'all can keep queue," he said. "We'll keep y'all. Mutual intelligibility is not a moral ranking."
+  it: «Y'all tenetevi queue», disse. «Noi ci teniamo y'all. L'intelligibilità reciproca non è una classifica morale».
+  refs: 50 55
+- Cath added nowt, owt and Yorkshire while for until, then made Brett wait while she locked her notes, on purpose.
+  it: Cath aggiunse nowt, owt e il while dello Yorkshire per until, poi fece aspettare Brett while chiudeva le note, apposta.
+  refs: 55
+- Questions. A student asked whose English the exam boards owned.
+  it: Domande. Uno studente chiese quale inglese possedessero le commissioni d'esame.
+  refs: 50
+- Cath said boards owned papers, not mouths, and prestige still travelled with money and media more than with justice.
+  it: Cath disse che le commissioni possiedono i compiti, non le bocche, e che il prestigio viaggia ancora col denaro e i media più che con la giustizia.
+  refs: 50
+- Another asked whether Desi English belonged in a treaty; Rajiv said it belonged in the inbox first.
+  it: Un altro chiese se l'inglese desi stesse in un trattato; Rajiv disse che stava prima nella posta in arrivo.
+  refs: 54
+- Someone wanted each local word named aloud; Morag named close, piece, messages, outwith, and sat down.
+  it: Qualcuno voleva che ogni parola locale fosse nominata ad alta voce; Morag nominò close, piece, messages, outwith, e si sedette.
+  refs: 51
+- The grandmother refused a school-book moral; she passed a ripe mango down the front row instead, and said nobody was climbing nothing today.
+  it: La nonna rifiutò una morale da libro di scuola; invece fece passare un mango maturo lungo la prima fila, e disse che oggi nessuno saliva su niente.
+  refs: 53
+- Niamh said the press in Aoife's kitchen was still a cupboard, and craic was still news with mischief, not a crash.
+  it: Niamh disse che la press nella cucina di Aoife era ancora una credenza, e craic era ancora notizie con birichinate, non un incidente.
+  refs: 52
+- Brett asked which pavement the exit sign meant; the Leeds waiter from the curry house, now volunteering, laughed without translating.
+  it: Brett chiese quale pavement intendesse il cartello dell'uscita; il cameriere di Leeds del ristorante indiano, ora volontario, rise senza tradurre.
+  refs: 55
+- Cath closed the panel: Englishes, not a single title deed; models for teaching; patience for strangers; no sneer for prepone; no red pen for the close.
+  it: Cath chiuse il panel: inglesi, non un solo titolo di proprietà; modelli per insegnare; pazienza per gli sconosciuti; niente ghigno per prepone; niente penna rossa per il close.
+  refs: 50 51 54
+- Five countries had spoken; Yorkshire had hosted; the soft rain on the pavement kept its own accent.
+  it: Cinque paesi avevano parlato; lo Yorkshire aveva ospitato; la soft rain sul pavement tenne il proprio accento.
+  refs: 50 52 55
+- Fine, thanks, said nobody, because the question had been larger than a bus stop.
+  it: Fine, thanks, non lo disse nessuno, perché la domanda era stata più grande di una fermata d'autobus.
+  refs: 50
+- They queued for coffee in one line that was also a queue, and for once nobody corrected the word.
+  it: Fecero la coda per il caffè in una line che era anche una queue, e per una volta nessuno corresse la parola.
+  refs: 55
+
+notes.it:
+Non c'è una regola nuova. La settimana ha messo in ordine le varietà: di chi è l'inglese, Scozia, Irlanda, Caraibi, desi, America e Nord. Se due forme ti sembrano «sbagliate», guardale in tabella prima della penna rossa.
+
+1. Di chi è l'inglese (lezione 50). Standard ≠ proprietario; intelligibilità ≠ classifica morale; prestigio ≠ giustizia.
+
+| Idea | Lavoro | Lezione |
+|---|---|---|
+| quiet island owns correct English | pregiudizio da smontare | 50 |
+| standard for schools and publishers | strumento, non titolo di proprietà | 50 |
+| mutual intelligibility | obiettivo pratico | 50 |
+| prestige / money, media, exams | non giustizia | 50 |
+| red pen sometimes wrong | varietà locale ≠ errore | 50 |
+
+2. Scozia (lezione 51). Scottish English in cucina a Glasgow; confine col Scots senza fare del dinnae una barzelletta.
+
+| Forma | Senso | Lezione |
+|---|---|---|
+| close | vano scale del tenement | 51 |
+| piece | panino | 51 |
+| messages | spesa / commissioni | 51 |
+| outwith | outside / oltre | 51 |
+| rare (serata) | bella, non al sangue | 51 |
+
+3. Irlanda (lezione 52). After-perfect, soft rain, grand, press, craic.
+
+| Forma | Senso | Lezione |
+|---|---|---|
+| after + -ing | passato recente | 52 |
+| grand soft day | pioggia fine + grand tuttofare | 52 |
+| press | credenza / cupboard | 52 |
+| craic | novità / divertimento | 52 |
+| yer man / giving out | quel tizio / lamentarsi | 52 |
+
+4. Caraibi (lezione 53). Monologo della nonna; soon come; freeness; mash up.
+
+| Forma | Senso | Lezione |
+|---|---|---|
+| pickney / likkle | bambino / little | 53 |
+| soon come | tra poco (tempo elastico) | 53 |
+| mash up | rovinare / fare male | 53 |
+| freeness | senza la pazienza dovuta | 53 |
+| deh | esserci / trovarsi | 53 |
+
+5. Desi (lezione 54). Ufficio e famiglia; strumenti, non macchie.
+
+| Forma | Senso | Lezione |
+|---|---|---|
+| prepone | anticipare (bring forward) | 54 |
+| kindly revert | per favore rispondi | 54 |
+| out of station | fuori sede / in viaggio | 54 |
+| do the needful | fa' il necessario | 54 |
+| cousin-brother / only finale | cugino maschio / «e basta» | 54 |
+
+6. America e Nord (lezione 55). Malintesi come confine piccolo, non come stupidità.
+
+| Coppia | Nodi | Lezione |
+|---|---|---|
+| pavement / sidewalk | marciapiede vs (US) anche strada | 55 |
+| tea / cuppa | pasto serale vs bevanda | 55 |
+| boot / trunk | bagagliaio | 55 |
+| pants / trousers | underwear vs pantaloni | 55 |
+| while / until; nowt / owt / y'all | Yorkshire e Texas | 55 |
+
+In ordine: chiedi di chi è la lingua, ascolta Glasgow senza hallway obbligatorio, senti l'after irlandese, aspetta il mango senza freeness, leggi prepone prima di sorridere, e sul pavement che è anche sidewalk stringi la mano. Il caffè in coda chiude senza correggere la parola.
+
+tasks:
+- My Italian accent of English keeps the vowels a little open, so bus can slide toward something warmer than a southern English one, and th in think sometimes becomes a careful t when I am tired. I overuse actually and I mean as bridges while I search for a word, which is not laziness so much as scaffolding. I still prefer pavement and queue because this course taught them first, yet after this week I no longer red-pen a friend's prepone or a Glaswegian close. Mutual intelligibility is my aim: clear enough for a stranger, local enough that I need not sand every Italian trace for prestige. If Cath asked whose English it was, I would say ours when the meaning lands, mine when the music of the vowels is still Liguria by way of Leeds.
+  task.it: Descrivi in inglese, intorno alle 100-130 parole, il tuo accento o la tua marca italiana di inglese: suoni, parole-ponte, ciò che tieni dal britannico del corso, e ciò che questa settimana ti ha insegnato a non «correggere» negli altri. Registro sobrio, da panel. Niente auto-umiliazione e niente vanto.
+  rubric.it: Si sentono tratti concreti (suono o lessico); c'è rispetto per le varietà della settimana; il registro è riflessivo e chiaro; l'inglese è naturale; la chiusura tocca whose/ours senza slogan da borsa di tela.

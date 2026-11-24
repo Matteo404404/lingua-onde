@@ -64,8 +64,9 @@ player. To play your own MP3 recordings, download the Windows build from
 https://mpv.io/installation/ and unzip it so `mpv.exe` and the other files
 from that zip sit in the same folder as the app.
 
-**macOS (Apple silicon, macOS 11 or newer).** Download
-`lingua-onde-macos-arm64.zip` from
+**macOS (macOS 11 or newer).** Download `lingua-onde-macos-arm64.zip` for
+Apple silicon (M1 and later) or `lingua-onde-macos-x86_64.zip` for Intel Macs
+(Apple menu, About This Mac: "Chip" means Apple silicon, "Processor" Intel) from
 [Releases](https://github.com/Matteo404404/lingua-onde/releases/latest),
 unzip it and move "Lingua Onde" to Applications. The first time, right-click
 it and choose Open. If macOS still blocks it, open System Settings, Privacy
@@ -103,7 +104,7 @@ That runs `.github/workflows/release.yml`. The Linux build runs the tests
 first. The release page gets the three downloads after all three builds
 finish. "Run workflow" on the Actions tab builds the same files without
 publishing them. "Check platforms" (also run by hand) downloads the voices
-and speaks on Linux, Windows and macOS: run it before the tag.
+and speaks on Linux, Windows and macOS (Apple silicon and Intel): run it before the tag.
 
 Progress is stored in `~/.local/share/lingua-onde/` (progress, your own
 courses, downloaded voices). `LINGUA_ONDE_HOME` overrides that folder. Only languages whose Foundation is complete are offered; `LINGUA_ONDE_DRAFTS=1` shows the drafts too.

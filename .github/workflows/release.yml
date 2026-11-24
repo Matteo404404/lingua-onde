@@ -29,6 +29,11 @@ jobs:
           - os: macos-15
             target: macos
             file: lingua-onde-macos-arm64.zip
+          # Intel Macs (older ones, macOS 11 and 12 included): built natively,
+          # so the x86_64 voice engine is the one tested.
+          - os: macos-15-intel
+            target: macos-intel
+            file: lingua-onde-macos-x86_64.zip
     runs-on: ${{ matrix.os }}
     steps:
       - uses: actions/checkout@v4
@@ -106,6 +111,7 @@ jobs:
           test -f dist/lingua-onde-linux-x86_64
           test -f dist/lingua-onde-windows-x86_64.exe
           test -f dist/lingua-onde-macos-arm64.zip
+          test -f dist/lingua-onde-macos-x86_64.zip
       - uses: softprops/action-gh-release@v2
         with:
           generate_release_notes: true
@@ -113,3 +119,4 @@ jobs:
             dist/lingua-onde-linux-x86_64
             dist/lingua-onde-windows-x86_64.exe
             dist/lingua-onde-macos-arm64.zip
+            dist/lingua-onde-macos-x86_64.zip

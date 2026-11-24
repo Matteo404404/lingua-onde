@@ -1789,3 +1789,902 @@ tasks:
 - The train kept rather a loose hold on the timetable, by about two hours. The coffee was not hot. The inspector was not exactly warm. There was no seat, so I saw a good deal of the carriage, which was one way to pass the time. It could have been worse. I am not going to list the worse, and I have had worse, and the comparison is only as warm as this coffee, which is to say not very.
   task.it: Volgi in understatement britannico questo reclamo: «Il treno è arrivato con due ore di ritardo, il caffè era freddo, il controllore è stato scortese e sono rimasto in piedi per tutto il viaggio.» I quattro fatti restano. La voce è quella di chi dice meno, non quella di Disgusted.
   rubric.it: Restano le due ore, il caffè freddo, il controllore scortese e il viaggio in piedi; il registro è la dose piccola, senza insulto e senza Sir; c'è almeno una litote o un rather, slightly, quite, not exactly; Disgusted e il tuono della lettera non sono la voce; si capisce lo stesso che il viaggio è andato male, e la parola chiara non è quella che chiude.
+
+== 15 C1
+numeral: Lesson Fifteen
+title: The school prize-giving
+title.it: La premiazione a scuola
+
+dialogue:
+- Chair of governors, staff, families, and the pupils who made the year: good evening.
+  it: Presidente del consiglio d'istituto, personale, famiglie, e ragazzi che avete fatto l'anno: buonasera.
+- A prize-giving is an odd ceremony.
+  it: Una premiazione è una cerimonia strana.
+- We ask a crowd to sit still while a few names are read, and we call the sitting still a celebration.
+  it: Chiediamo a una folla di stare ferma seduta mentre si leggono pochi nomi, e chiamiamo quello star fermi una festa.
+- I am not against it.
+  it: Non sono contrario.
+- A name, said aloud in a hall, is a small public fact, and small public facts are how a school remembers.
+  it: Un nome, detto ad alta voce in una sala, è un piccolo fatto pubblico, e con i piccoli fatti pubblici una scuola si ricorda.
+- This year asked three things of you, and you returned them: time, nerve, and a second attempt.
+  it: Quest'anno vi ha chiesto tre cose, e voi le avete restituite: tempo, coraggio, e un secondo tentativo.
+- Time, when the evening was already full.
+  it: Tempo, quando la sera era già piena.
+- Nerve, when the room was watching.
+  it: Coraggio, quando la sala guardava.
+- A second attempt, when the first had been perfectly happy to remain the last.
+  it: Un secondo tentativo, quando il primo era perfettamente contento di restare l'ultimo.
+- You came in the rain.
+  it: Siete venuti sotto la pioggia.
+- You came when the bus did not.
+  it: Siete venuti quando l'autobus non è arrivato.
+- You came on the afternoons when nobody was taking a register, which is the attendance I trust.
+  it: Siete venuti nei pomeriggi in cui nessuno faceva l'appello, ed è la presenza di cui mi fido.
+- Some of you won.
+  it: Alcuni di voi hanno vinto.
+- Some of you came second, which is a harder sentence to hear in a hall built for firsts.
+  it: Alcuni di voi sono arrivati secondi, ed è una frase più difficile da sentire in una sala fatta per i primi posti.
+- Some of you kept the score, held the door, and talked a friend back into the room.
+  it: Alcuni di voi hanno tenuto il punteggio, hanno tenuto la porta, e hanno convinto un amico a rientrare nella stanza.
+- I am not going to pretend that a prize does not matter.
+  it: Non ho intenzione di fingere che un premio non conti.
+- It matters because someone looked, and was willing to say so where other people could hear.
+  it: Conta perché qualcuno ha guardato, ed è stato disposto a dirlo dove altri potevano sentire.
+- I am going to say what a prize cannot do.
+  it: Dirò che cosa un premio non può fare.
+- It cannot sit the paper you left in your bag.
+  it: Non può sostenere il compito che avete lasciato nella borsa.
+- It cannot be the person who lent you the notes at ten.
+  it: Non può essere la persona che vi ha prestato gli appunti alle dieci.
+- It cannot do the year again, however many times we polish the cup.
+  it: Non può rifare l'anno, per quante volte si lucidi la coppa.
+- The games cup is not on this table.
+  it: La coppa dei giochi non è su questo tavolo.
+- It is in a kitchen in Basingstoke, where last year's winner has been meaning to return it since the second week of September.
+  it: È in una cucina a Basingstoke, dove chi ha vinto l'anno scorso, dalla seconda settimana di settembre, continua ad avere in mente di riportarla.
+- I have written.
+  it: Io ho scritto.
+- She has written back.
+  it: Lei ha risposto per iscritto.
+- The replies are a lesson in manners, and the cup is still by the toaster.
+  it: Le risposte sono una lezione di buone maniere, e la coppa è ancora accanto al tostapane.
+- So the last prize of the evening is not silver.
+  it: Quindi l'ultimo premio della serata non è d'argento.
+- It is a request with a name on it.
+  it: È una richiesta con un nome sopra.
+- Priya Shah, would you stand.
+  it: Priya Shah, alzati.
+- Not for a place, and not for a time.
+  it: Non per un piazzamento, e non per un tempo.
+- For a Tuesday in November, after the concert, when the hall was empty and you stayed to stack the chairs, because the caretaker had put his back out, and because nobody had put the chairs on a rota.
+  it: Per un martedì di novembre, dopo il concerto, quando la sala era vuota e tu sei rimasta a impilare le sedie, perché il custode si era bloccato la schiena, e perché nessuno aveva messo le sedie in un turno.
+- That is the prize-giving I came here to hold.
+  it: È questa la premiazione che sono venuto qui a tenere.
+- The other names are on the sheet, in alphabetical order, which is the only ranking I trust after six o'clock.
+  it: Gli altri nomi sono sul foglio, in ordine alfabetico, ed è l'unica classifica di cui mi fido dopo le sei.
+- Please take your people home.
+  it: Per favore, portate a casa i vostri.
+- The bus, this evening, has been asked to wait, and for once it has agreed.
+  it: L'autobus, stasera, è stato pregato di aspettare, e per una volta ha acconsentito.
+
+notes.it:
+1. Chair of governors, staff, families, and the pupils who made the year: good evening: l'apertura mette la sala in ordine. Chair of governors è chi presiede i governors, il gruppo che, accanto al preside, risponde della scuola nell'Inghilterra e nel Galles. Staff è il personale, families le famiglie. Pupils who made the year lascia i ragazzi in fondo e li fa soggetti dell'anno. Good evening è un saluto da sala. Chi parla è il preside o la preside. Le forme restano intere. Un testimone di nozze contrae, e quell'I'm sta nel registro intimo del parlato (lezione 6, nota 1).
+2. A prize-giving is an odd ceremony: prize-giving è «la premiazione», la serata dei nomi, delle coppe e degli attestati. In molte scuole private, e in alcune statali di lunga tradizione, la stessa giornata si chiama speech day, «il giorno dei discorsi». Qui il nome è prize-giving, e il discorso c'è lo stesso. Odd è «strano», non «di quando in quando». Ceremony è la parola alta, e odd la abbassa prima di ogni triade. Si comincia dal disagio della sedia, non dalla grandezza della scuola.
+3. We ask a crowd to sit still while a few names are read, and we call the sitting still a celebration: sit still è «stare fermi seduti». A few names are read è «si leggono pochi nomi». Call è «chiamare», il verbo di chi mette un nome sopra una cosa. Celebration è «una festa». Quello che è detto è il gesto della sala. Quello che è inteso è che festa, per quello star fermi, è una parola un po' larga. Lo si capisce da call.
+4. This year asked three things of you, and you returned them: time, nerve, and a second attempt: una triade, tre pezzi, e l'orecchio tratta il tre come una serie chiusa. Time è il tempo dato. Nerve è il coraggio del momento, la tenuta. Nerves, al plurale, è un'altra parola: «l'agitazione», ho i nervi. Qui è singolare, e le due frasi dopo lo mettono quando la sala guarda. A second attempt è «un secondo tentativo». Returned them è «li avete restituiti», come una cosa chiesta e riconsegnata: non «avete dimostrato». You, in questa sala, è il voi dei ragazzi.
+5. A second attempt, when the first had been perfectly happy to remain the last: il terzo pezzo della triade diventa una persona. Perfectly happy to si dice di qualcuno, «felicissimo di». Il soggetto è the first, il primo tentativo. Remain the last è «restare l'ultimo», l'ultimo tentativo, quello dopo il quale non se ne fa un altro. Had been è un past perfect: la voglia di fermarsi è anteriore al secondo tentativo. Un compito non è felice, e perfectly esagera apposta. La personificazione dice la tentazione di lasciare perdere, con una parola da invito.
+6. You came in the rain: anafora. Le due frasi dopo si aprono allo stesso modo, You came when the bus did not, You came on the afternoons. In poesia l'anafora è la stessa parola in capo a versi vicini, e in quella poesia dava il ritmo di un tamburo (Perfezionamento, lezione 34, nota 4). Qui è prosa detta in sala: tre prove della stessa frase, «siete venuti», con un costo diverso ogni volta. In the rain è il primo, quello che si vede. Su una frase sola l'anafora non si sente. Servono i vicini.
+7. You came on the afternoons when nobody was taking a register, which is the attendance I trust: take a register è «fare l'appello». Il register è il registro di classe, la lista dei nomi con un segno accanto. La stessa parola vale anche «registro linguistico»: qui è il foglio del pomeriggio, non quello. Nobody was taking è «nessuno lo faceva»: in quei pomeriggi il registro non girava. Which riprende tutta la venuta e la giudica: the attendance I trust, «la presenza di cui mi fido». Quello che è detto è una preferenza. Quello che è inteso è che la presenza segnata vale meno di quella che nessuno segnava. Lo si capisce da nobody e da trust nella stessa frase.
+8. Some of you came second, which is a harder sentence to hear in a hall built for firsts: came second è «siete arrivati secondi», la collocazione ordinaria, non arrived second. A harder sentence to hear è «una frase più difficile da sentire». Built for firsts non descrive i muri. Firsts sono i primi posti, e built for è «fatta per»: la cerimonia è montata intorno a chi vince. Il first che indica il voto più alto di una laurea britannica si chiama allo stesso modo, e non è questa sala. Which riprende came second. Some of you tiene la cosa parziale. È la seconda anafora della serata, Some of you, e dentro ci sta un giudizio.
+9. Some of you kept the score, held the door, and talked a friend back into the room: triade di gesti senza coppa. Kept the score è «avete tenuto il punteggio», held the door «avete tenuto la porta». Talked a friend back into the room è «avete convinto un amico a rientrare». Talk someone back è riportarlo indietro parlando, e into the room è il luogo da cui stava uscendo. L'episodio non si racconta. Si dà il gesto. L'ordine va dal più visibile, il punteggio, al più privato, la porta. Anafora e triade, qui, stanno nella stessa frase, e non si danno fastidio.
+10. I am not going to pretend that a prize does not matter: una concessione, fatta negando una finzione. Pretend that è «fingere che». Does not matter è «non conti». I am not going to è un rifiuto, non una data: questo discorso non lo farà. I'm not going to direbbe la stessa decisione, ed è grammaticale: è la versione da sala insegnanti. Qui la forma resta I am not. Tolta la negazione doppia, un premio conta. Quanto, la frase non lo dice: lo dice la successiva, someone looked. «I premi non contano» è il discorso facile, e questa frase lo rifiuta senza rifiutare il premio.
+11. It cannot sit the paper you left in your bag: terza anafora, It cannot. Sit a paper, o sit an exam, è «sostenere una prova»: sit è il verbo britannico ordinario, e take si sente lo stesso. The paper è il compito. Left in your bag è «lasciato nella borsa»: la prova non è stata fatta. Un premio non si siede al posto vostro. Cannot è la forma intera di can't. Dette ad alta voce si sentono tutte e due, e cannot è un filo più ferma, non l'unica forma possibile.
+12. It is in a kitchen in Basingstoke, where last year's winner has been meaning to return it since the second week of September: It è la coppa dei giochi, quella che non è sul tavolo. Basingstoke, *bè*zingstouk, è una città dell'Hampshire. Last year's winner è chi l'ha vinta l'anno scorso: il genere, she, arriva nella frase dopo. Has been meaning to è un present perfect continuous. Meaning to è «avere in mente di», e dura dalla seconda settimana di settembre senza chiudersi in un return. La battuta è il tempo: più resta meaning, più l'intenzione ha sostituito il gesto. È una coppa da riportare perché questo testo la chiede indietro, non perché ogni coppa lo sia.
+13. The replies are a lesson in manners, and the cup is still by the toaster: a lesson in manners è «una lezione di buone maniere», un elogio, e lesson è una parola da scuola. By the toaster è «accanto al tostapane». Quello che è detto è che le risposte sono educate e che la coppa non si è mossa. Quello che è inteso è che la corrispondenza ha funzionato come cortesia e non come recupero. Lo si capisce dallo scarto fra lesson e toaster, e da still, «ancora».
+14. Priya Shah, would you stand: il discorso, fin qui al voi, nomina una persona e le dà del tu. Would you stand è una richiesta, non una domanda su che cosa lei sopporta. Stand senza complemento, in questa sala, è «alzati». L'altro stand, «reggere», vuole un oggetto: stand the wait, «reggere l'attesa». Would, in una richiesta, è il cortese di will you, e up si può aggiungere, stand up, senza cambiare il gesto. Il nome e il cognome sono il modo pubblico. Non le si chiede di venire a prendere un argento. Dopo una coppa assente, il nome che si alza non è quello della coppa: la svolta comincia da questo vocativo.
+15. For a Tuesday in November, after the concert, when the hall was empty and you stayed to stack the chairs, because the caretaker had put his back out, and because nobody had put the chairs on a rota: il fatto singolo. Stack the chairs è «impilare le sedie». Put his back out è «si è bloccato la schiena», il modo ordinario per uno strappo, e his è il custode. Caretaker, a scuola, è il custode. A rota, *rou*të, è il turno scritto. Due because, e nessuno dei due è un voto: la schiena, e le sedie, che nessuno aveva messo in turno. Martedì, novembre, il concerto: la svolta sta su un pomeriggio, non su un aggettivo.
+16. That is the prize-giving I came here to hold: la svolta, detta. That punta a Priya in piedi, non alla cucina di Basingstoke e non al foglio. Hold a prize-giving è «tenere una premiazione», come hold a meeting. Came here to hold è «sono venuto qui per tenerla». La sala credeva di esserci già, dentro la premiazione. Quello che è detto è un'identificazione. Quello che è inteso è che il resto era il preambolo. Lo si capisce da that, che non può riprendere la coppa: una coppa accanto a un tostapane non è una premiazione.
+17. The other names are on the sheet, in alphabetical order, which is the only ranking I trust after six o'clock: alphabetical order è l'ordine alfabetico, dal nome, non dal posto. Ranking è «classifica». Which riprende l'ordine alfabetico. After six o'clock non è una scoperta sulle sei: è il confine di questa serata. Quello che è detto è una scelta d'ufficio. Quello che è inteso è che primi e secondi, stasera, non sono più la classifica di cui fidarsi. Lo si capisce da the only ranking I trust.
+18. The bus, this evening, has been asked to wait, and for once it has agreed: la chiusa riprende il bus dell'anafora, quello che non era arrivato. Non occorre che sia la stessa corsa. Has been asked è un passivo: chi ha telefonato all'autista resta fuori. For once è «per una volta». Agreed, «ha acconsentito», dà al bus una volontà, sulla scia del primo tentativo che era contento di restare ultimo. Please take your people home, la frase prima, è il congedo pratico: your people sono i vostri, la famiglia portata in sala. L'ultima frase non aggiunge una morale. Fa aspettare una corsa, e si ferma.
+
+ex1:
+- The speech calls a prize-giving an odd ceremony, because a crowd sits still while a few names are read and that sitting still is called a celebration.
+  it: Il discorso chiama la premiazione una cerimonia strana, perché una folla sta ferma seduta mentre si leggono pochi nomi, e quello star fermi viene chiamato una festa.
+- The year asked for time, nerve, and a second attempt, and the first attempt had been perfectly happy to remain the last.
+  it: L'anno ha chiesto tempo, coraggio e un secondo tentativo, e il primo tentativo era perfettamente contento di restare l'ultimo.
+- The attendance trusted in this speech is the afternoon when nobody was taking a register, and coming second is a harder sentence to hear in a hall built for firsts.
+  it: La presenza di cui ci si fida, in questo discorso, è il pomeriggio in cui nessuno faceva l'appello, e arrivare secondi è una frase più difficile in una sala fatta per i primi posti.
+- The games cup is by a toaster in a kitchen in Basingstoke, the replies are a lesson in manners, and she has been meaning to return it since the second week of September.
+  it: La coppa dei giochi è accanto a un tostapane, in una cucina a Basingstoke, le risposte sono una lezione di buone maniere, e lei, dalla seconda settimana di settembre, continua ad avere in mente di riportarla.
+- Priya Shah is asked to stand for a Tuesday in November, when she stayed to stack the chairs, not for a place and not for a time, because the caretaker had put his back out and the chairs were on no rota.
+  it: A Priya Shah si chiede di alzarsi per un martedì di novembre, quando è rimasta a impilare le sedie, non per un piazzamento e non per un tempo, perché il custode si era bloccato la schiena e le sedie non erano in nessun turno.
+
+ex2:
+- You came on the afternoons when nobody was taking a [register].
+  it: Siete venuti nei pomeriggi in cui nessuno faceva l'appello.
+- The caretaker had put his back [out].
+  it: Il custode si era bloccato la schiena.
+- It cannot do the year again, [however] many times we polish the cup.
+  it: Non può rifare l'anno, per quante volte si lucidi la coppa.
+- Some of you talked a friend [back] into the room.
+  it: Alcuni di voi hanno convinto un amico a rientrare nella stanza.
+- The bus has been asked to wait, and for [once] it has agreed.
+  it: L'autobus è stato pregato di aspettare, e per una volta ha acconsentito.
+
+tasks:
+- Thank you for coming out on a wet Thursday to mark twenty-five years of the same hired lane. I am not going to pretend that a swimming club is a historic institution. We kept the lane when the roof leaked. We kept the lane when the council forgot the booking. We kept the lane when half the committee moved house and the other half said they would think about it. Some of you race. Some of you swim so the week has a shape. Some of you stand at the shallow end and write the time down anyway. I was going to spend the rest of this on the trophies. They are in a box under the piano, and the box has stayed shut since the winter the heating failed. So the anniversary I mean is smaller. Last March the pool was closed, nobody had made a rota, and Jean brought a kettle from home. The club sat in the car park, swam nowhere, and came back the next Thursday. That is the twenty-five years I came here to mark. The lane is booked again. Please use it. The kettle can stay at Jean's.
+  task.it: Scrivi un discorso per l'anniversario di un circolo, non di una scuola. Intorno alle 180-200 parole, da dire ad alta voce. Ci vuole un'anafora o una triade, e una svolta finale da un oggetto di prestigio a un fatto piccolo.
+  rubric.it: Si capisce di quale circolo è l'anniversario, e qual è il fatto piccolo della svolta; il registro è un discorso detto in sala, in forme intere o con poche contrazioni, non una circolare; ci sono un'anafora o una triade, e una svolta che lascia il prestigio per un episodio; non si ricicla Priya, la coppa di Basingstoke o le sedie del concerto; la chiusa è un gesto concreto, e si ferma.
+
+== 16 C1
+numeral: Lesson Sixteen
+title: Buy this kettle
+title.it: Compra questo bollitore
+
+dialogue:
+- Meet the Osier.
+  it: Vieni a conoscere l'Osier.
+- It boils water.
+  it: Fa bollire l'acqua.
+- The kettle, reconsidered.
+  it: Il bollitore, ripensato.
+- A faster boil, a quieter lift, and a kinder pour.
+  it: Un'ebollizione più rapida, un sollevamento più silenzioso, e un versamento più gentile.
+- Ninety seconds to a perfect cup, so your morning starts when you do.
+  it: Novanta secondi per una tazza perfetta, così la tua mattina comincia quando cominci tu.
+- Our quiet-boil system listens to the water, then lets it go.
+  it: Il nostro sistema di ebollizione silenziosa ascolta l'acqua, poi la lascia andare.
+- Designed in Britain.
+  it: Progettato in Gran Bretagna.
+- For the kitchen you actually have.
+  it: Per la cucina che hai davvero.
+- The nation's early risers are already switching.
+  it: Chi si alza presto, in tutto il paese, sta già cambiando.
+- From only £49.
+  it: A partire da sole 49 sterline.
+- Helps with limescale worries, and with Mondays.
+  it: Aiuta con le preoccupazioni per il calcare, e con i lunedì.
+- You deserve water that arrives on time.
+  it: Ti meriti un'acqua che arriva in orario.
+- Osier. Boil. Belong.
+  it: Osier. Bolli. Appartieni.
+- While the offer lasts.
+  it: Finché dura l'offerta.
+- The advertisement sat on the left.
+  it: L'annuncio stava a sinistra.
+- I was given the page facing it, a word count, and no fee, and the notes are mine.
+  it: A me hanno dato la pagina di fronte, un numero di parole, e nessun compenso, e le note sono mie.
+- "Meet the Osier" introduces you to a jug, and the jug is not in a position to meet you.
+  it: «Vieni a conoscere l'Osier» ti presenta una caraffa, e la caraffa non è in condizione di conoscerti.
+- "It boils water" is the clause I would have printed alone, and the rest of the left-hand page spends itself getting over it.
+  it: «Fa bollire l'acqua» è la frase che avrei stampato da sola, e il resto della pagina di sinistra si consuma a riprendersi.
+- "Reconsidered" is a cape thrown over a kettle that still wants a plug.
+  it: «Ripensato» è un mantello buttato addosso a un bollitore che vuole ancora una spina.
+- Faster, quieter, and kinder are three comparisons with the other kettle left off the page.
+  it: Più rapido, più silenzioso e più gentile sono tre confronti, con l'altro bollitore lasciato fuori dalla pagina.
+- Ninety seconds can be timed, and a perfect cup cannot, because the kettle does not make the tea.
+  it: Novanta secondi si possono cronometrare, e una tazza perfetta no, perché il bollitore non fa il tè.
+- "Listens to the water" gives a thermostat a manner, and "lets it go" is the click dressed as a permission.
+  it: «Ascolta l'acqua» dà a un termostato delle maniere, e «la lascia andare» è lo scatto vestito da permesso.
+- "Designed in Britain" was worth a stamp.
+  it: «Progettato in Gran Bretagna» meritava un francobollo.
+- I wrote to the address on the box.
+  it: Ho scritto all'indirizzo sulla scatola.
+- The drawing is done by a studio in Derby, and the kettle is made in Guangdong.
+  it: Il disegno lo fa uno studio a Derby, e il bollitore è fabbricato nel Guangdong.
+- The reply was polite, and the sentence survived it, because the sentence says designed and never says made.
+  it: La risposta è stata cortese, e la frase le è sopravvissuta, perché la frase dice progettato e non dice mai fabbricato.
+- "For the kitchen you actually have" pretends the page has seen your shelves, and actually takes your side against every other kitchen.
+  it: «Per la cucina che hai davvero» finge che la pagina abbia visto i tuoi ripiani, e quel «davvero» si mette dalla tua parte contro ogni altra cucina.
+- "The nation's early risers" have not been counted, and "already switching" is a race with no start.
+  it: «Chi si alza presto, in tutto il paese» non è stato contato, e «sta già cambiando» è una gara senza partenza.
+- "From only £49" is £49, only is a mood, and from is a dearer kettle that this page does not show.
+  it: «A partire da sole 49 sterline» sono 49 sterline, sole è un umore, e a partire da è un bollitore più caro che questa pagina non mostra.
+- "Helps with limescale worries" does not promise less limescale, and a sentence can soothe a worry without touching the jug.
+  it: «Aiuta con le preoccupazioni per il calcare» non promette meno calcare, e una frase può calmare una preoccupazione senza toccare la caraffa.
+- Mondays are not a specification.
+  it: I lunedì non sono una caratteristica tecnica.
+- "You deserve" congratulates the reader on a thirst.
+  it: «Ti meriti» fa i complimenti a chi legge per una sete.
+- Boil is a job, and belong is an invitation to a club with one product and a plug.
+  it: Bollire è un lavoro, e appartenere è un invito a un club con un solo prodotto e una spina.
+- "While the offer lasts" was still lasting, in the two shops I tried, at the end of the month.
+  it: «Finché dura l'offerta» durava ancora, nei due negozi in cui sono stato, a fine mese.
+- I bought one on the way home.
+  it: Sulla strada di casa ne ho comprato uno.
+- The old kettle had died on the Tuesday, and on Wednesday a wish for tea is stronger than a margin.
+  it: Il bollitore vecchio era morto martedì, e mercoledì la voglia di tè è più forte di un margine.
+- That is sentence two, and it is the only sentence on the left-hand page that I will sign.
+  it: È la frase due, ed è l'unica frase della pagina di sinistra che sono disposto a firmare.
+- The ninety seconds took a hundred and ten, the mug was where it lives, and I am not writing to them about the twenty.
+  it: I novanta secondi ne hanno presi centodieci, la tazza era dove vive, e non gli scrivo per quei venti.
+
+notes.it:
+1. Meet the Osier: l'annuncio si apre con un imperativo, come se il bollitore fosse una persona a cui vieni presentato. Meet è «vieni a conoscere», il verbo degli incontri, non «compra». Osier, *ou*zië, è il nome di marca di questa pagina, non una ditta da cercare in negozio. L'imperativo dell'annuncio dà del tu, e costruisce un rapporto prima di aver detto che cosa l'oggetto fa. In italiano la pubblicità fa lo stesso con un tu immediato. Qui il tu è della marca, non dello scettico, che arriva dopo e parla in prima persona.
+2. It boils water: la frase vera, e la più corta. Boil water è «far bollire l'acqua», il lavoro di un bollitore, kettle. It, senza aggettivi, è l'oggetto. Il resto dell'annuncio le sta intorno e non la ripete: in fondo lo scettico firma questa. È la frase due, in bella vista, e le frasi dopo fanno un altro lavoro.
+3. The kettle, reconsidered: reconsidered è «ripensato», il participio che annuncia una rivoluzione. Non dice che cosa sia stato ripensato: la forma, il prezzo, la resistenza. Da solo, il participio basta a un titolo. È un mantello. Nel margine lo chiama cape, un mantello: copre, non descrive. Kettle è il bollitore, non la teiera. In una cucina britannica il kettle è l'oggetto del mattino, e l'annuncio lo tratta come un'idea.
+4. A faster boil, a quieter lift, and a kinder pour: una triade di comparativi, tre pezzi, e l'orecchio chiude la serie (lezione 15, nota 4). Faster, quieter, kinder sono tutti comparativi, e il secondo termine non c'è: più rapido di quale bollitore, più silenzioso di quale. Senza l'altro termine, il comparativo non si può verificare, e suona lo stesso completo. Lift è lo snodo. Può essere il sollevare la caraffa, il peso, il rumore del manico. Può essere il lift dell'umore, «il rialzo». La frase non sceglie, e kinder pour, «un versamento più gentile», sposta il giudizio su un aggettivo morale. Gentile, detto di un getto d'acqua, non è una misura.
+5. Ninety seconds to a perfect cup, so your morning starts when you do: ninety seconds è un numero, e si può cronometrare. A perfect cup non è un'unità: perfect non ha una soglia, e cup è la tazza, il tè, che il bollitore non fa. Il bollitore scalda l'acqua. Il tè lo fai tu. So lega le due parti come se fossero la stessa promessa: un numero, poi una vita che comincia quando vuoi tu. Your morning starts when you do lusinga il lettore, e non aggiunge un dato. Nell'ultima frase della pagina lo scettico ha cronometrato, e i novanta sono diventati centodieci. Il numero, a differenza di perfect, poteva cadere.
+6. Our quiet-boil system listens to the water, then lets it go: our è la ditta che parla come un noi. Quiet-boil è un composto da confezione, «ebollizione silenziosa», e system lo alza: non un sensore, un sistema. Listens to the water è «ascolta l'acqua». Un termostato sente una temperatura e stacca. La frase gli dà un modo di fare, listens, e poi lets it go, «la lascia andare», che è il verbo di chi dà un permesso a una persona. Quello che è detto è un sistema attento. Quello che è inteso è un bollitore che sa quando fermarsi. Lo si capisce perché listen e let go non sono misure. Nel margine, lo scatto è la versione da cucina.
+7. Designed in Britain: designed è «progettato», non made, «fabbricato». La frase è vera o falsa sul disegno, e sul luogo di fabbrica non dice nulla. È il taglio classico di un annuncio: una verità parziale, scelta perché il verbo più largo, made, costerebbe un'altra frase. Britain è la Gran Bretagna. In questa storia la frase regge, e la lettera dello scettico dice perché. Non è una statistica su tutti i bollitori. È la differenza, in questa riga, fra il verbo scritto e il verbo taciuto.
+8. For the kitchen you actually have: actually, qui, è «davvero», e si mette dalla parte di chi legge. Non è attualmente, che è il falso amico. La frase finge di aver visto la tua cucina, you actually have, «che hai davvero», contro una cucina ideale per cui sarebbero fatti gli altri bollitori. Quell'altro termine, di nuovo, non si nomina. Pretends, nella nota dello scettico, è la lettura giusta: non c'è un sopralluogo, c'è un tu messo in confidenza. Il tu è quello dell'annuncio.
+9. The nation's early risers are already switching: the nation è «il paese», detto come un coro. Early risers sono «chi si alza presto». Are already switching è «stanno già cambiando», e switching senza complemento lascia indovinare «passando a questo». Nessun numero, nessuna fonte, nessun anno. Una folla non contata fa da prova sociale: se tanti lo fanno, il lettore è in ritardo. Already rafforza il ritardo. Lo scettico ha ragione a chiedere il censimento. La frase non lo teme, perché non ne offre uno.
+10. From only £49: from è «a partire da». C'è dunque almeno un altro prezzo, più alto, e questa riga non lo stampa. Only è «solo, appena», l'avverbio che fa sembrare piccolo un numero prima che tu lo confronti. £49 sono 49 sterline, un prezzo possibile per un bollitore. Il numero, da solo, è un prezzo. Only e from sono i due vestiti. Tolti quelli, resta 49.
+11. Helps with limescale worries, and with Mondays: helps with è «aiuta con», e non è removes, «toglie». Limescale è il calcare, la parola britannica del bollitore nelle zone di acqua dura: il deposito bianco. Worries sono «le preoccupazioni», non il deposito. La frase può essere vera se tu ti preoccupi meno, anche con lo stesso calcare. È la sostituzione del nome: si vende il sentimento, e il fatto resta fuori. Mondays, «i lunedì», non sono una specifica. Stanno nella triade emotiva della riga, accanto al calcare, come se fossero lo stesso genere di problema. Un annuncio ama il nome che non si misura.
+12. You deserve water that arrives on time: you deserve è «ti meriti», il complimento. La sete diventa un merito. Water that arrives on time tratta l'acqua come un treno. On time è «in orario», la collocazione di treni e appuntamenti. Il lettore non ha fatto nulla, in questa frase, per meritare un bollitore. Il tu dell'annuncio funziona così: prima ti lusinga, poi ti mette nel club. Deserve non descrive l'oggetto. Descrive te, in meglio di come serve a venderti una cosa.
+13. Osier. Boil. Belong: tre colpi, di nuovo una triade, e questa volta di imperativi, o di parole che ne hanno la forma (lezione 15, nota 4). Boil può essere il lavoro del bollitore, «bolli, fa' bollire». Belong è «appartieni», e non si appartiene a un bollitore: si appartiene a un gruppo. Il terzo colpo chiede al lettore di entrare in un club il cui unico segno è la marca. Lo scettico separa le due parole: un mestiere, e un invito. L'annuncio le stampa uguali, perché il ritmo nasconde lo scarto. Appartieni, in italiano, suona strano allo stesso modo, e va tenuto strano.
+14. While the offer lasts: while the offer lasts è «finché dura l'offerta», la scarsità. La frase non dice fino a che giorno. Dura finché dura, e il giorno in cui smette non è scritto. Lo scettico non fa un'inchiesta nazionale. Dice due negozi, questo mese, e a fine mese l'offerta c'era ancora. Due negozi non provano un mercato. Provano che, per questo compratore, l'urgenza non aveva una data visibile. Offer è «l'offerta», lasts «dura». È la formula gemella di while stocks last, «fino a esaurimento scorte», e anche lì la data manca.
+15. The drawing is done by a studio in Derby, and the kettle is made in Guangdong: il fatto di questa lettera, non di ogni bollitore. Derby è una città inglese. Guangdong è una provincia della Cina, e un luogo vero di fabbriche. Drawing è il disegno, done by a studio, «fatto da uno studio». Made è «fabbricato». Le due metà della frase tengono i due verbi che l'annuncio aveva separato: designed sulla pagina, made solo nella risposta. Polite, nella frase dopo, è la cortesia che non contraddice una frase vera a metà. Lo scettico non dice che la ditta abbia mentito. Dice che la frase scritta è sopravvissuta alla lettera.
+16. "Meet the Osier" introduces you to a jug, and the jug is not in a position to meet you: jug, in questa cucina, è il bollitore stesso, quello a caraffa, non una seconda brocca. Lo scettico abbassa il nome dell'annuncio. Not in a position to meet you toglie a Meet la finzione dell'incontro: la caraffa non ricambia.
+17. I bought one on the way home: la svolta. Dopo il margine, l'acquisto. On the way home è «sulla strada di casa». One è un Osier. Non è una conversione. La frase dopo dà il motivo pratico: martedì il bollitore vecchio è morto, e mercoledì il tè pesa più della nota. In fondo firma solo la frase due, «It boils water», e i novanta secondi cronometrati ne hanno presi centodieci. Non parte una seconda lettera. Venti secondi, con l'acqua che bolle, non valgono un francobollo. L'annuncio voleva un club. La chiusa compra un verbo.
+
+ex1:
+- Faster, quieter, and kinder compare the Osier with a kettle the page never names.
+  it: Più rapido, più silenzioso e più gentile confrontano l'Osier con un bollitore che la pagina non nomina mai.
+- Ninety seconds can be timed, and a perfect cup cannot, because the kettle boils water and does not make the tea.
+  it: Novanta secondi si possono cronometrare, e una tazza perfetta no, perché il bollitore fa bollire l'acqua e non fa il tè.
+- The drawing is done by a studio in Derby, the kettle is made in Guangdong, and "designed" survives because the advertisement never says made.
+  it: Il disegno lo fa uno studio a Derby, il bollitore è fabbricato nel Guangdong, e «progettato» sopravvive perché l'annuncio non dice mai fabbricato.
+- "Helps with limescale worries" does not promise less limescale, and "from only £49" is £49 with a mood laid on top.
+  it: «Aiuta con le preoccupazioni per il calcare» non promette meno calcare, e «a partire da sole 49 sterline» sono 49 sterline con un umore messo sopra.
+- The notes were unpaid, the old kettle had died on the Tuesday, and the only sentence signed is the second, "It boils water", though the boil took a hundred and ten seconds.
+  it: Le note non erano pagate, il bollitore vecchio era morto martedì, e l'unica frase firmata è la seconda, «Fa bollire l'acqua», anche se l'ebollizione ha preso centodieci secondi.
+
+ex2:
+- The kettle, [reconsidered].
+  it: Il bollitore, ripensato.
+- Faster, quieter, and kinder leave the other kettle [off] the page.
+  it: Più rapido, più silenzioso e più gentile lasciano l'altro bollitore fuori dalla pagina.
+- Helps with [limescale] worries, not with a promise to remove the deposit.
+  it: Aiuta con le preoccupazioni per il calcare, non con una promessa di togliere il deposito.
+- While the offer [lasts].
+  it: Finché dura l'offerta.
+- The page facing the advertisement came with a word count and no [fee].
+  it: La pagina di fronte all'annuncio arrivava con un numero di parole e senza compenso.
+
+tasks:
+- This cafetiere holds eight cups, if the cups are the small ones drawn on the side. Mine are larger, and I get six. You boil the water in a kettle, you wait four minutes, you press the plunger. The glass is replaceable. The metal stains where the coffee runs down, and bicarbonate of soda, left to sit, takes most of the stain off. The lid leaks if you walk about with it, so I pour at the table. It does not listen to the water, and it does not ask you to belong to anything. A shop on my corner sells it for 22 pounds. That is the price, not a price to start from, and there is no closing date. I have had this one for three years. The knob came off in the second year, and a spoon presses as well as the knob did. If you want the coffee to taste of the coffee you put in, it does that.
+  task.it: Scrivi un annuncio onesto per un oggetto di casa, non per l'Osier. Fra le 140 e le 170 parole. Di' che cosa fa, che cosa non fa, e il prezzo se c'è. Niente comparativo senza l'altro termine, niente folla non contata, niente offerta senza una data.
+  rubric.it: Si capisce l'oggetto, il suo uso, e almeno un limite vero; il registro è un annuncio, parlato o scritto, non il margine dello scettico ricopiato; non ci sono comparativi orfani, folle senza numero, né scarsità senza data; il prezzo, se c'è, è una cifra, non un from o un only; ogni frase si può firmare, e l'Osier non torna.
+
+== 17 C1
+numeral: Lesson Seventeen
+title: This house would ban cars
+title.it: Quest'aula vieterebbe le auto
+
+dialogue:
+- Chair, the motion is that this house would ban cars.
+  it: Presidente, la mozione è che quest'aula vieterebbe le auto.
+- I define a car, for this evening, as a private vehicle that moves one household around a town.
+  it: Definisco auto, per stasera, un veicolo privato che sposta una famiglia dentro una città.
+- I am not banning the ambulance, the fire engine, or the van that brings medicine down a lane the bus has given up.
+  it: Non sto vietando l'ambulanza, il camion dei pompieri, o il furgone che porta una medicina in una stradina che l'autobus ha lasciato perdere.
+- Those are not the argument. They are the edge of it.
+  it: Quelli non sono l'argomento. Ne sono il bordo.
+- What I would ban is the habit of moving one person, and an empty seat, through air that other people have to breathe.
+  it: Quello che vieterei è l'abitudine di spostare una persona, e un sedile vuoto, attraverso un'aria che altri devono respirare.
+- I concede the freedom.
+  it: La libertà, la concedo.
+- A car is a room that goes where you point it, at the hour you choose, with the shopping in the back and no duty to talk.
+  it: Un'auto è una stanza che va dove la punti, all'ora che scegli, con la spesa dietro e senza il dovere di parlare.
+- That freedom is real, and it is not only yours.
+  it: Quella libertà è vera, e non è solo vostra.
+- It is paid for at the crossing, and in the street that has become a place to get across rather than a place to be.
+  it: La si paga sull'attraversamento, e nella strada che è diventata un luogo da superare, non un luogo in cui stare.
+- More than a thousand people die on Britain's roads in a year, and the figure is not a metaphor.
+  it: In un anno, sulle strade della Gran Bretagna, muoiono più di mille persone, e la cifra non è una metafora.
+- I am not going to spend those deaths as a trick.
+  it: Non ho intenzione di spendere quei morti come un trucco.
+- A town that can move its people without that habit, and does not, has chosen the deaths it still calls accidents.
+  it: Una città che può spostare la sua gente senza quell'abitudine, e non lo fa, ha scelto i morti che continua a chiamare incidenti.
+- You will be told that the bus is not there.
+  it: Vi diranno che l'autobus non c'è.
+- In a great many streets the bus is not there, and I grant it.
+  it: In moltissime strade l'autobus non c'è, e lo ammetto.
+- A ban is how a council is made to put a bus there, because a freedom that needs everyone else to refrain is not yet a plan.
+  it: Un divieto è il modo in cui si obbliga un consiglio a metterci un autobus, perché una libertà che ha bisogno che tutti gli altri si astengano non è ancora un piano.
+- I do live in a city.
+  it: Io abito davvero in una città.
+- The motion does not say "this house would abandon the village".
+  it: La mozione non dice «quest'aula abbandonerebbe il paese».
+- It says "this house would ban cars", and I have told you which cars I mean.
+  it: Dice «quest'aula vieterebbe le auto», e vi ho detto quali auto intendo.
+- If your exception is the medicine, the fire, or the lane, it already sits inside the edge I drew.
+  it: Se la vostra eccezione è la medicina, il fuoco, o la stradina, sta già dentro il bordo che ho tracciato.
+- If it is a driveway at half past eight, it does not.
+  it: Se è un vialetto alle otto e mezzo, no.
+- Chair, I oppose the motion, and I thank the proposition for the ambulance.
+  it: Presidente, mi oppongo alla mozione, e ringrazio la proposizione per l'ambulanza.
+- I concede the crossing, the air, and the deaths.
+  it: Concedo l'attraversamento, l'aria, e i morti.
+- More than a thousand dead in a year is not a point to step round, and I will not step round it.
+  it: Più di mille morti in un anno non è un punto da aggirare, e non lo aggiro.
+- From that grief a ban does not follow.
+  it: Da quel lutto un divieto non consegue.
+- A ban written for a town that has a tram does not become a bus on a B-road at ten at night.
+  it: Un divieto scritto per una città che ha un tram non diventa un autobus su una strada secondaria alle dieci di sera.
+- The proposition grants the van and the lane, and then asks the house to trust that the exception will stay narrow.
+  it: La proposizione ammette il furgone e la stradina, e poi chiede all'aula di fidarsi che l'eccezione resti stretta.
+- Every journey, told by the person who needs it, will sound like the medicine.
+  it: Ogni viaggio, raccontato da chi ne ha bisogno, suonerà come la medicina.
+- I do not say that to mock the medicine.
+  it: Non lo dico per prendere in giro la medicina.
+- I say it because the line will not hold where the story is particular and the road is dark.
+  it: Lo dico perché il confine non regge dove il racconto è particolare e la strada è buia.
+- The shift that ends at midnight, the parent with the hill, the village whose evening bus has already gone: these are not a driveway with a commuter in it.
+  it: Il turno che finisce a mezzanotte, il genitore con la salita, il paese il cui autobus serale è già passato: non sono un vialetto con un pendolare dentro.
+- I grant that a town can do better than it does.
+  it: Ammetto che una città può fare meglio di come fa.
+- Better is not a ban brought in before the other way of moving exists.
+  it: Meglio non è un divieto introdotto prima che esista l'altro modo di spostarsi.
+- Price the parking, keep the car for the journey a bus cannot do, and run the bus often enough that the choice is real.
+  it: Mettete un prezzo al parcheggio, tenete l'auto per il viaggio che un autobus non può fare, e fate passare l'autobus abbastanza spesso perché la scelta sia vera.
+- That is a duller motion, and it does not leave the midnight shift at a stop.
+  it: È una mozione più noiosa, e non lascia il turno di mezzanotte a una fermata.
+- A council is not forced by a sentence in this room.
+  it: Un consiglio non viene costretto da una frase detta in questa sala.
+- It is forced by a budget, and the budget is not in the motion.
+  it: Lo costringe un bilancio, e il bilancio non è nella mozione.
+- I will not be driving home.
+  it: Non tornerò a casa in auto.
+- The last bus, on the timetable I was given at the door, left before the proposition sat down.
+  it: L'ultimo autobus, sull'orario che mi hanno dato alla porta, è partito prima che la proposizione si sedesse.
+- That is not a rebuttal.
+  it: Questa non è una replica.
+- It is the evening, and I will not stretch one missed bus into a vote, nor pretend I do not see whose point it also is.
+  it: È la serata, e non tirerò un autobus perso fino a farne un voto, né farò finta di non vedere di chi è anche il punto.
+
+notes.it:
+1. Chair, the motion is that this house would ban cars: Chair è chi presiede il dibattito, senza dire se sia una donna o un uomo. The motion è «la mozione». This house, in un dibattito britannico di scuola, di università o di circolo, è l'aula che deve decidere, non un edificio. Would, in this house would, non è l'abitudine del passato e non è un futuro timido. È la formula della mozione: l'aula è invitata a volere il divieto. Ban è «vietare». Cars, qui, è ancora largo: la frase dopo lo stringe. Si apre nominando la formula intera, perché il resto della serata discute il perimetro, non un altro verbo.
+2. I define a car, for this evening, as a private vehicle that moves one household around a town: define è la mossa d'apertura di chi propone. For this evening limita la definizione a questo dibattito: non è un codice della strada. A private vehicle è un veicolo privato. One household è «una famiglia», la gente di una casa. Around a town tiene il caso urbano. Chi ascolta deve ricordare questo perimetro, perché le eccezioni che vengono dopo ci stanno dentro o ne escono. Senza una definizione, ban cars vieterebbe anche l'ambulanza, e il discorso non vuole quel voto.
+3. I am not banning the ambulance, the fire engine, or the van that brings medicine down a lane the bus has given up: è una concessione per esclusione, tre cose che il divieto non tocca. Ambulance, fire engine, e il furgone della medicina. A lane è una stradina. The bus has given up è «l'autobus ha lasciato perdere», un servizio che non c'è più. I am not banning non è ancora I concede: non cede un valore dell'avversario, toglie dal tavolo i casi che farebbero perdere la mozione subito. La triade rende il limite memorabile (lezione 15, nota 4). La frase dopo li chiama the edge, il bordo, non l'argomento.
+4. I concede the freedom: concede è «concedere», e qui si cede una cosa vera dell'altra parte. La libertà dell'auto non viene negata. Viene ammessa, e la frase dopo la descrive con affetto preciso: una stanza, l'ora scelta, la spesa, nessuno a cui parlare. È il punto in cui un discorso persuasivo sembra passare dall'altra parte. Non ci passa. Concede il fatto per togliergli l'ultima parola. That freedom is real, and it is not only yours sposta il costo su chi non è nell'abitacolo. Yours, in quella frase, è il voi della sala.
+5. More than a thousand people die on Britain's roads in a year, and the figure is not a metaphor: è un dato, non una figura retorica. Sulle strade della Gran Bretagna i morti in un anno sono più di mille. La cifra esatta cambia da un anno all'altro, e la frase non la fissa: dice la soglia, more than a thousand. Britain's roads è la Gran Bretagna. Not a metaphor avvisa la sala: il numero non è un modo di dire. La frase che segue rifiuta di spenderlo as a trick, «come un trucco». Quella dopo chiama scelta i morti che la città chiama ancora accidents, «incidenti». È un argomento, non una sentenza.
+6. In a great many streets the bus is not there, and I grant it: la seconda concessione, e usa grant, non concede. I grant it è «lo ammetto», spesso più corto, e it riprende la frase di prima, you will be told that the bus is not there. A great many è «moltissimi», non tutti. Il proponente ammette il buco prima che lo dica l'opposizione: si chiama anticipare l'obiezione. Poi non si ferma. A ban is how a council is made to put a bus there trasforma il buco nel motivo del divieto. Council, qui, è l'amministrazione locale, non un consiglio qualsiasi. Because lega il divieto a un piano che, secondo lui, senza il divieto non nasce.
+7. If it is a driveway at half past eight, it does not: driveway è il vialetto di casa, e half past eight è l'ora in cui si esce per il lavoro. It does not riprende sits inside the edge: questa eccezione non ci sta. È la replica in anticipo al pendolare. Il tono è secco, dopo una serie più lunga, e la secchezza è il punto: il caso è stato riconosciuto e respinto in nove parole. Your exception, nella frase prima, è ancora il voi. Due if, la medicina e il vialetto, mettono la sala davanti a una scelta binaria. Una replica può dire che i casi veri stanno in mezzo. Lo dirà l'opposizione.
+8. Chair, I oppose the motion, and I thank the proposition for the ambulance: secondo discorso, stessa formula di saluto. I oppose the motion è «mi oppongo alla mozione», il verbo fisso. The proposition è chi ha appena parlato, non «una proposta» in astratto. I thank... for the ambulance è cortesia, ed è anche una concessione: l'ambulanza non si ricontesta. Ringraziarla toglie al proponente il sospetto di voler vietare il soccorso, e libera l'opposizione per il punto vero. In un dibattito britannico il grazie iniziale non è vuoto. Segna che cosa dell'altro discorso resta in piedi.
+9. I concede the crossing, the air, and the deaths: triade di concessioni, e sono cose gravi. Crossing è l'attraversamento, the air l'aria, the deaths i morti appena citati. Concede, di nuovo, cede il fatto. Non cede il rimedio. La frase dopo lo dice con il connettore del dibattito: from that grief a ban does not follow. Follow, in it does not follow, è «non ne consegue». Si ammette la premessa e si nega il passaggio. È la replica più netta della serata, e sta in una frase sola perché la premessa è già stata concessa. Step round, nella frase sui mille morti, è «aggirare»: l'opposizione rifiuta di schivare il numero, e rifiuta anche di obbedirgli.
+10. A ban written for a town that has a tram does not become a bus on a B-road at ten at night: tram è il tram, e alcune città britanniche ce l'hanno. La frase non dice che tutte ce l'abbiano. Dice che un divieto pensato per una città servita non si trasforma, da solo, in un autobus. A B-road è una strada secondaria numerata, la B e poi le cifre, fra le grandi A e le stradine. At ten at night è «alle dieci di sera», l'ora in cui il servizio dirada. Does not become è la replica: dal testo della mozione non nasce un orario. Il tram e la B-road fanno il contrasto.
+11. Every journey, told by the person who needs it, will sound like the medicine: la replica al bordo stretto. Will sound like non dice che ogni viaggio è un'urgenza medica. Dice che, raccontato da chi lo fa, ci somiglierà. I do not say that to mock the medicine, la frase dopo, chiude la porta alla cattiveria: non si ride del furgone. I say it because the line will not hold dà il motivo. The line è il confine del proponente. Dove il racconto è particolare e la strada è buia, quel confine, secondo l'opposizione, non resta stretto. È una previsione sul linguaggio del divieto, non una cronaca.
+12. The shift that ends at midnight, the parent with the hill, the village whose evening bus has already gone: these are not a driveway with a commuter in it: tre casi, e non sono un esempio singolo travestito da statistica. A shift è un turno di lavoro. The hill è la salita, il parent il genitore. Whose evening bus has already gone è un tipo di paese, non una notizia con un nome. These are not a driveway rifiuta il vialetto delle otto e mezzo. Commuter è il pendolare. La replica oppone ai casi facili delle sere senza sostituto, e non porta un numero.
+13. Better is not a ban brought in before the other way of moving exists: better riprende I grant that a town can do better. Si concede il miglioramento e si nega che il miglioramento sia questo divieto. Brought in è «introdotto», come una legge. Before the other way of moving exists è «prima che l'altro modo esista». È il cuore pratico dell'opposizione. La frase dopo dice il sostituto: price the parking, «mettere un prezzo al parcheggio», l'auto solo dove il bus non arriva, e un bus abbastanza frequente. Duller motion, «una mozione più noiosa», è un elogio del piano proprio: meno bello da votare, più duro da lasciare a una fermata.
+14. A council is not forced by a sentence in this room: la replica a a council is made to put a bus there. Forced è «costretto». A sentence in this room è una frase detta qui, non un atto. It is forced by a budget, la frase dopo: a costringere un consiglio è un bilancio, e the budget is not in the motion. Motion è ancora la mozione, non un movimento. L'opposizione non dice che i consigli non facciano mai quello che un voto chiede. Dice che questa mozione non contiene i soldi, e senza i soldi la parola forced è una speranza. È un attacco alla causa, non al sentimento.
+15. I will not be driving home: il discorso cambia registro. Fin qui la mozione. Adesso la serata di chi parla. Will not be driving è un futuro, e anche un rifiuto: non userà l'auto, stasera, non in generale per sempre. The last bus, on the timetable I was given at the door, left before the proposition sat down. Last bus è «l'ultimo autobus». At the door è alla porta della sala, un orario che gli hanno messo in mano. Prima che il proponente si sedesse, la corsa era già andata. È un fatto di questa sera, controllabile da chi ha lo stesso foglio, non un'inchiesta sul trasporto rurale.
+16. That is not a rebuttal: rebuttal è «la replica», la mossa che smonta un punto. That punta all'autobus perso. Dire che non è una replica è il freno: un orario non si tira, stretch, fino a un voto. Also, in whose point it also is, ammette l'altra lettura. L'autobus che manca è il motivo del divieto, e insieme il motivo per non votarlo stasera. Quello che è detto è un rifiuto di barare. Quello che è inteso è che il foglio dà un pezzo a tutti e due, e un voto non si fa con quel foglio. Lo si capisce da also e da I will not stretch.
+
+ex1:
+- The proposition defines a car as a private vehicle for one household in a town, and leaves out the ambulance, the fire engine, and the van on a lane the bus has given up.
+  it: La proposizione definisce auto un veicolo privato per una famiglia in città, e lascia fuori l'ambulanza, i pompieri e il furgone su una stradina che l'autobus ha lasciato perdere.
+- More than a thousand people die on Britain's roads in a year, and the proposition calls a choice what a town still calls accidents.
+  it: In un anno muoiono più di mille persone sulle strade della Gran Bretagna, e la proposizione chiama una scelta quello che una città chiama ancora incidenti.
+- The proposition grants that in many streets the bus is not there, and says a ban is what makes a council put one there.
+  it: La proposizione ammette che in molte strade l'autobus non c'è, e dice che un divieto è ciò che obbliga un consiglio a mettercelo.
+- The opposition concedes the deaths and says a ban does not follow, because a motion has no budget and a tram does not become a bus on a B-road at ten at night.
+  it: L'opposizione concede i morti e dice che un divieto non ne consegue, perché una mozione non ha un bilancio e un tram non diventa un autobus su una strada secondaria alle dieci di sera.
+- The last bus left before the proposition sat down, and the opposition will not stretch that into a vote, nor pretend it is only their point.
+  it: L'ultimo autobus è partito prima che la proposizione si sedesse, e l'opposizione non lo tirerà fino a farne un voto, né farà finta che il punto sia solo suo.
+
+ex2:
+- The motion is that this [house] would ban cars.
+  it: La mozione è che quest'aula vieterebbe le auto.
+- More than a [thousand] people die on the roads in a year.
+  it: In un anno muoiono più di mille persone sulle strade.
+- From that grief a ban does not [follow].
+  it: Da quel lutto un divieto non consegue.
+- It does not become a bus on a [B-road] at ten at night.
+  it: Non diventa un autobus su una strada secondaria numerata, alle dieci di sera.
+- The last [bus] left before the proposition sat down.
+  it: L'ultimo autobus è partito prima che la proposizione si sedesse.
+
+tasks:
+- Chair, I have conceded the air, the crossing, and the deaths, and I am not taking them back. More than a thousand people in a year is the fact we are not allowed to step round. What does not follow is a ban on the private car in a town, passed in this room, before a bus exists for the midnight shift and for the lane the present bus has given up. The proposition drew a clean edge. Medicine, fire, and that lane sit outside the ban, and a driveway at half past eight sits inside it. I grant the driveway. I do not grant that the dark road will respect the edge once every necessary journey is told in the language of medicine. Price the parking. Run the buses at the hours the shifts actually end. Keep the car where a timetable cannot honestly go. That is dull, and it spends money the motion does not contain. I am voting against. The bus I needed left while we were speaking, and I will not pretend the walk changes the motion into a budget.
+  task.it: Scrivi l'arringa finale di uno dei due lati, non un terzo discorso di apertura. Intorno alle 180 parole. Una concessione che resta in piedi, una replica, e alla fine il voto. Non ricopiare l'autobus della porta come se fosse una prova nuova.
+  rubric.it: Si capisce da che parte sta il voto; resta una concessione vera, non ritirata nell'ultima frase; c'è una replica, con un does not follow o un equivalente, e non un insulto; il registro è quello della sala, Chair o mozione, non un articolo; l'autobus perso non viene promosso a prova, e il bilancio o il sostituto del divieto resta visibile.
+
+== 18 C1
+numeral: Lesson Eighteen
+title: Speakers of the past
+title.it: Oratori del passato
+
+dialogue:
+- A speech that survives has usually been given a title, and the title is already a choice.
+  it: Un discorso che sopravvive di solito ha ricevuto un titolo, e il titolo è già una scelta.
+- It keeps one phrase, and lets the rest of the hour go.
+  it: Tiene una frase, e lascia andare il resto dell'ora.
+- I am not going to quote the speeches.
+  it: Non ho intenzione di citare i discorsi.
+- Titles, dates and rooms will have to do, which is the work a title was given.
+  it: Dovranno bastare titoli, date e sale, che è il lavoro per cui un titolo è stato fatto.
+- In 1588 Elizabeth I went to the camp at Tilbury and spoke to the soldiers gathered there against a landing.
+  it: Nel 1588 Elisabetta I andò all'accampamento di Tilbury e parlò ai soldati radunati lì contro uno sbarco.
+- The visit is a fact.
+  it: La visita è un fatto.
+- The sentences the anthologies print were written down years later, in a letter, from memory.
+  it: Le frasi che stampano le antologie furono messe per iscritto anni dopo, in una lettera, a memoria.
+- So the early speech this essay cannot quite hold is a memory wearing a title.
+  it: Quindi il discorso antico che questo saggio non riesce proprio a tenere è un ricordo con addosso un titolo.
+- In March 1775 Edmund Burke spoke in the Commons for conciliation with the American colonies.
+  it: Nel marzo 1775 Edmund Burke parlò alla Camera dei Comuni per una conciliazione con le colonie americane.
+- Fighting began at Lexington the following month.
+  it: Gli scontri cominciarono a Lexington il mese dopo.
+- The short title of his speech is conciliation, and conciliation is a policy, not a decoration.
+  it: Il titolo breve del suo discorso è conciliazione, e la conciliazione è una politica, non un ornamento.
+- It did not conciliate.
+  it: Non conciliò.
+- We have kept the argument, not the vote.
+  it: Abbiamo tenuto l'argomento, non il voto.
+- In 1789 William Wilberforce spoke in the Commons, for hours, against the slave trade.
+  it: Nel 1789 William Wilberforce parlò alla Camera dei Comuni, per ore, contro la tratta degli schiavi.
+- He returned to it, and the trade was abolished in 1807.
+  it: Ci tornò, e la tratta fu abolita nel 1807.
+- The Act of 1833 ended slavery in most of the British Empire and left a period of apprenticeship after it, and he died in that year.
+  it: L'atto del 1833 pose fine alla schiavitù in gran parte dell'Impero britannico e lasciò dopo di sé un periodo di apprendistato, e lui morì in quell'anno.
+- The rhetoric there is not one afternoon. It is the refusal to stop bringing the case back.
+  it: La retorica, lì, non è un pomeriggio. È il rifiuto di smettere di riportare la causa.
+- Emmeline Pankhurst and the Women's Social and Political Union, founded in 1903, made speeches that a court could also call offences.
+  it: Emmeline Pankhurst e l'Unione sociale e politica delle donne, fondata nel 1903, fecero discorsi che un tribunale poteva anche chiamare reati.
+- The union's motto was "Deeds, not words", an odd motto for a campaign whose public deed was so often a speech.
+  it: Il motto dell'unione era «Fatti, non parole», un motto strano per una campagna il cui gesto pubblico era tanto spesso un discorso.
+- In 1918 women over thirty, if they met a property test, were given the vote.
+  it: Nel 1918 il voto fu dato alle donne sopra i trent'anni, se superavano una prova di censo.
+- In the summer of 1928 women received it on the same terms as men, and Pankhurst had died in June.
+  it: Nell'estate del 1928 le donne lo ricevettero alle stesse condizioni degli uomini, e la Pankhurst era morta in giugno.
+- A motto does not pass an Act. It is a title short enough for a banner, and the banner is what memory carries.
+  it: Un motto non fa passare un atto. È un titolo abbastanza corto per uno striscione, e lo striscione è ciò che la memoria porta.
+- In May 1940 Winston Churchill, just made prime minister, spoke in the Commons.
+  it: Nel maggio 1940 Winston Churchill, appena fatto primo ministro, parlò alla Camera dei Comuni.
+- That speech is known by the title "Blood, toil, tears and sweat".
+  it: Quel discorso è noto con il titolo «Blood, toil, tears and sweat».
+- On 4 June, after the evacuation from Dunkirk, he spoke again, and the usual title is the line about the beaches.
+  it: Il 4 giugno, dopo l'evacuazione da Dunkerque, parlò di nuovo, e il titolo usuale è la frase sulle spiagge.
+- On 18 June, with France falling, he spoke a third time, and the title that stayed is "Their finest hour".
+  it: Il 18 giugno, con la Francia che cadeva, parlò una terza volta, e il titolo che restò è «Their finest hour».
+- Three titles in six weeks, and a country was offered them as the way to remember the hours around them.
+  it: Tre titoli in sei settimane, e a un paese furono offerti come il modo di ricordare le ore intorno.
+- I have not set his paragraphs down. A title made of his words is already a kind of quotation, which is why a title is not an innocent label.
+  it: Non ho trascritto i suoi paragrafi. Un titolo fatto delle sue parole è già una specie di citazione, ed è per questo che un titolo non è un'etichetta innocente.
+- On 3 February 1960 Harold Macmillan spoke in Cape Town, and the speech is called "The Wind of Change".
+  it: Il 3 febbraio 1960 Harold Macmillan parlò a Città del Capo, e il discorso si chiama «The Wind of Change».
+- He told the South African parliament that independence in Africa was becoming the fact of the continent.
+  it: Disse al parlamento sudafricano che l'indipendenza in Africa stava diventando il fatto del continente.
+- A title with wind in it sounds gentle, and the speech was a warning, and the gentle part is the part that travelled.
+  it: Un titolo con il vento dentro suona gentile, e il discorso era un avvertimento, e la parte gentile è quella che ha viaggiato.
+- The room is reduced to a phrase, and a phrase is easier to carry than an hour.
+  it: La sala si riduce a una frase, e una frase è più facile da portare di un'ora.
+- This is useful, and it is also how a careful hour becomes a badge.
+  it: È utile, ed è anche il modo in cui un'ora attenta diventa un distintivo.
+- Last March my neighbour spoke for three minutes against closing the library on Mondays.
+  it: Lo scorso marzo la mia vicina ha parlato per tre minuti contro la chiusura della biblioteca il lunedì.
+- She had no title. She had the bus she takes, and the librarian's name.
+  it: Non aveva un titolo. Aveva l'autobus che prende, e il nome della bibliotecaria.
+- Nobody will put her in an anthology.
+  it: Nessuno la metterà in un'antologia.
+- I trust her correction more than I trust a title, which is an odd place for this essay to sign.
+  it: Mi fido della sua correzione più che di un titolo, che è un punto strano in cui firmare questo saggio.
+- The Tilbury letter cannot interrupt. She can, and she does, usually to add the radiators.
+  it: La lettera di Tilbury non può interrompere. Lei sì, e lo fa, di solito per aggiungere i termosifoni.
+
+notes.it:
+1. A speech that survives has usually been given a title, and the title is already a choice: usually, non sempre. Un discorso può restare senza titolo, in un verbale, e nessuno lo cerca. Given a title è «a cui è stato dato un titolo». Already a choice: il titolo sceglie che cosa resta. Il saggio non dice che il titolo sia un falso. Dice che è una scelta, fatta da chi trascrive, da chi pubblica, o dalla frase che la sala ha ripetuto. It keeps one phrase, la frase dopo, è la stessa idea in piccolo: una frase resta, l'ora se ne va.
+2. I am not going to quote the speeches: il rifiuto del saggio. Quote è «citare». I discorsi qui si toccano per titolo, data e sala. Il titolo è il nome, non la pagina. Il punto è che cosa fa un titolo, non un'antologia. I am not going to è un rifiuto, come nella premiazione (lezione 15, nota 10), non un calendario.
+3. In 1588 Elizabeth I went to the camp at Tilbury and spoke to the soldiers gathered there against a landing: Elisabetta I, regina d'Inghilterra. Tilbury è un forte sull'estuario del Tamigi. Nel 1588, l'anno dell'Armada, a Tilbury c'erano soldati nel caso di uno sbarco. The visit is a fact, la frase dopo: la visita si tiene. La frase ancora dopo toglie al testo famoso la stessa certezza: scritto anni dopo, in una lettera, a memoria. Non è il verbale della giornata. Le frasi famose sono un ricordo.
+4. In March 1775 Edmund Burke spoke in the Commons for conciliation with the American colonies: Burke è il politico e scrittore irlandese nella politica britannica. The Commons è la Camera dei Comuni. Conciliation è «conciliazione», un accordo invece di una rottura. In March 1775 è prima degli scontri di Lexington, il mese dopo: Lexington è il villaggio del Massachusetts dove, nell'aprile 1775, cominciò lo scontro armato. The short title è «conciliazione», e la nota del saggio lo chiama una policy, una linea politica. It did not conciliate è il fatto successivo: la guerra ci fu. We have kept the argument, not the vote: si conserva il discorso, non la vittoria. È la retorica che sopravvive al risultato.
+5. In 1789 William Wilberforce spoke in the Commons, for hours, against the slave trade: Wilberforce guidò in parlamento la campagna contro la tratta. For hours è «per ore»: il discorso del 1789 fu lungo, e la frase non fissa i minuti. The slave trade è la tratta degli schiavi, il commercio, non ancora la parola slavery, che in questo saggio è la condizione, abolita dopo. He returned to it è «ci tornò»: la retorica qui è la ripetizione attraverso gli anni. Abolished in 1807 è l'atto che vieta la tratta ai britannici. Non è ancora la fine della schiavitù nelle colonie.
+6. The Act of 1833 ended slavery in most of the British Empire and left a period of apprenticeship after it, and he died in that year: Act è una legge del Parlamento. Ended slavery va letto con la seconda metà: restò un apprenticeship, un apprendistato, anni in cui chi era libero sulla carta restava legato al lavoro. In most of the British Empire è «in gran parte dell'Impero britannico»: alcuni territori, come l'India, restarono fuori dalla legge. He died in that year accosta il 1833 della legge e il 1833 della morte, senza una scena. La frase dopo sposta la retorica dal pomeriggio solo al ritorno della causa.
+7. Emmeline Pankhurst and the Women's Social and Political Union, founded in 1903, made speeches that a court could also call offences: la WSPU è l'unione per il voto alle donne fondata nel 1903, e Pankhurst ne fu il centro. Speeches that a court could also call offences: una parte di quei gesti, discorsi compresi, finì in tribunale. Could: poteva, non ogni discorso. È una retorica che accetta il costo legale. Il motto, nella frase dopo, è «Deeds, not words», «fatti, non parole». Odd, perché il gesto pubblico era spesso un discorso, e la memoria poi tiene proprio quelle parole.
+8. In 1918 women over thirty, if they met a property test, were given the vote: la frase è stretta apposta. Over thirty, non tutte le donne. A property test è una condizione di censo, non il voto universale. Were given è un passivo: il Parlamento lo dà. In the summer of 1928, la frase dopo, le donne lo ebbero on the same terms as men, «alle stesse condizioni degli uomini», a ventun anni come loro. Pankhurst had died in June: era morta in giugno, e la legge è di quell'estate, dopo. A motto does not pass an Act tiene il motto al suo posto: non è la legge. È un titolo da striscione, banner.
+9. That speech is known by the title "Blood, toil, tears and sweat": Churchill diventa primo ministro nel maggio 1940, e questo è il primo discorso alla Camera in quel ruolo. Il titolo è fatto di quattro parole sue: blood «sangue», toil «fatica», tears «lacrime», sweat «sudore». Il saggio lo dà come nome, senza la pagina. On 4 June è dopo l'evacuazione di Dunkerque. Il titolo di quel giorno è la frase sulle spiagge, non scritta per intero. On 18 June la Francia sta cadendo, e «Their finest hour» è il titolo rimasto. Tre nomi, una triade (lezione 15, nota 4).
+10. On 3 February 1960 Harold Macmillan spoke in Cape Town, and the speech is called "The Wind of Change": Macmillan è il primo ministro britannico. Cape Town, Città del Capo, e il parlamento è quello sudafricano. La data è il 3 febbraio 1960. The Wind of Change, «il vento del cambiamento», è il titolo con cui il discorso è rimasto. He told them that independence in Africa was becoming the fact of the continent: il fatto dell'indipendenza, non un umore di Londra. Non sciolse il governo sudafricano. Lo avvertì. Wind, nel titolo, suona gentile. The part that travelled è il titolo, non l'ora intera.
+11. The room is reduced to a phrase, and a phrase is easier to carry than an hour: la somma. Reduced è «ridotta». Carry è «portare», come un oggetto. Useful, nella frase dopo, non viene ritirato: un titolo serve. Badge è un distintivo, una cosa da appuntare, più piccola dell'ora e più facile da esibire. Il saggio non disprezza il distintivo. Dice il prezzo: l'ora attenta ci sta male, intera. È il punto retorico di tutta la pagina, prima del caso vivo.
+12. Last March my neighbour spoke for three minutes against closing the library on Mondays: la svolta, e il caso è piccolo e di questa voce, non un'altra storia nazionale. Three minutes, non un'ora. Closing the library on Mondays è «chiudere la biblioteca il lunedì». She had no title. She had the bus she takes, and the librarian's name: i particolari che un titolo butterebbe. Nobody will put her in an anthology è la previsione, non un divieto. I trust her correction more than I trust a title: correction, «correzione», arriva nell'ultima frase. Lei può interrompere. La lettera di Tilbury no.
+13. The Tilbury letter cannot interrupt. She can, and she does, usually to add the radiators: la chiusa. Cannot interrupt: la lettera non ribatte. She can è la vicina. Usually to add the radiators: di solito aggiunge i termosifoni. Quello che è detto è un'interruzione domestica. Quello che è inteso è che un pubblico vivo corregge, e la correzione è spesso un dettaglio che il titolo non avrebbe scelto. I termosifoni non sono una metafora dell'impero. Sono il pezzo di biblioteca che il discorso di marzo, secondo lei, aveva lasciato fuori. Il saggio fatto di titoli firma qui, dove un titolo non basta. Lo si capisce da usually: non è un episodio solo, è il suo modo.
+
+ex1:
+- The visit to the soldiers at Tilbury in 1588 is a fact, and the sentences in the anthologies were written down years later, from memory.
+  it: La visita ai soldati a Tilbury nel 1588 è un fatto, e le frasi delle antologie furono messe per iscritto anni dopo, a memoria.
+- Burke's speech of March 1775 asked for conciliation with the American colonies, and the fighting at Lexington began the following month.
+  it: Il discorso di Burke del marzo 1775 chiedeva la conciliazione con le colonie americane, e gli scontri a Lexington cominciarono il mese dopo.
+- The slave trade was abolished in 1807, and the 1833 Act ended slavery in most of the British Empire while leaving a period of apprenticeship.
+  it: La tratta degli schiavi fu abolita nel 1807, e l'atto del 1833 pose fine alla schiavitù in gran parte dell'Impero britannico lasciando un periodo di apprendistato.
+- In 1918 women over thirty who met a property test got the vote, and in the summer of 1928 women got it on the same terms as men.
+  it: Nel 1918 ebbero il voto le donne sopra i trent'anni che superavano una prova di censo, e nell'estate del 1928 le donne lo ebbero alle stesse condizioni degli uomini.
+- Churchill's Commons speeches of May, 4 June and 18 June 1940 are kept by their titles, and Macmillan's speech in Cape Town on 3 February 1960 is called "The Wind of Change".
+  it: I discorsi di Churchill ai Comuni del maggio, del 4 giugno e del 18 giugno 1940 si tengono per i titoli, e il discorso di Macmillan a Città del Capo il 3 febbraio 1960 si chiama «The Wind of Change».
+
+ex2:
+- He spoke for [hours] against the slave trade.
+  it: Parlò per ore contro la tratta.
+- The Act left a period of [apprenticeship].
+  it: L'atto lasciò un periodo di apprendistato.
+- Soldiers were gathered against a [landing].
+  it: I soldati erano radunati contro uno sbarco.
+- Women then received the vote on the same [terms] as men.
+  it: Le donne ricevettero allora il voto alle stesse condizioni degli uomini.
+- The third of those wartime speeches is known as their finest [hour].
+  it: Il terzo di quei discorsi di guerra è noto come la loro ora più bella.
+
+tasks:
+- Speeches that last are kept by titles. Elizabeth at Tilbury in 1588 is a fact; the famous sentences were written later, from memory. Burke, in March 1775, did not stop Lexington the next month. Wilberforce lies behind the slave trade's end in 1807 and the 1833 Act, which left an apprenticeship. Women over thirty with a property test voted from 1918; equal terms came in 1928. Churchill in 1940, and Macmillan in Cape Town in 1960, are carried by titles. A title is not the hour.
+  task.it: Riassumi il saggio in circa 85 parole. Tieni le date e i limiti che il testo tiene: Tilbury, l'apprendistato, il voto del 1918, i titoli e non i paragrafi. La vicina può restare fuori: non è un fatto di storia.
+  rubric.it: Si riconoscono i discorsi e le date del saggio, senza discorsi nuovi; i limiti restano, memoria di Tilbury, apprendistato, voto parziale del 1918; non si citano paragrafi, solo titoli o meno; circa 85 parole, in prosa continua; il tono è quello di un riassunto, non di un secondo elogio.
+
+== 19 C1
+numeral: Lesson Nineteen
+title: The salesman at the door
+title.it: Il venditore alla porta
+
+dialogue:
+- Mrs Holt? Darren. I won't keep you. One question, and I'm gone.
+  it: Signora Holt? Darren. Non la trattengo. Una domanda, e me ne vado.
+- That is the foot in the door. You may ask it from the step.
+  it: Questo è il piede nella porta. Può farla dal gradino.
+- I have been the one who opens this door since I retired. That is not an invitation. It is a timetable.
+  it: Da quando sono in pensione sono io che apro questa porta. Non è un invito. È un orario.
+- You want the house warm this winter, don't you?
+  it: Vuole la casa calda quest'inverno, no?
+- That is a yes wearing a question. The house is already warm. Come to the windows, if the windows are why you are here.
+  it: Questo è un sì travestito da domanda. La casa è già calda. Venga alle finestre, se è per le finestre che è qui.
+- Everyone on this side has asked us in. Number 14 signed before lunch.
+  it: Tutti da questa parte ci hanno fatto entrare. Il numero 14 ha firmato prima di pranzo.
+- Number 14 has been empty since March. An empty house does not sign, and it is not a neighbour.
+  it: Il numero 14 è vuoto da marzo. Una casa vuota non firma, e non è un vicino.
+- The price I can do today comes off at six.
+  it: Il prezzo che posso farle oggi scade alle sei.
+- Your leaflet in April said six o'clock as well, and April is still in the drawer.
+  it: Il suo volantino di aprile diceva le sei anche allora, e aprile è ancora nel cassetto.
+- I'm only saying it for your sake. These frames will not do another winter.
+  it: Lo dico solo per lei. Questi telai non reggono un altro inverno.
+- That is fear, and it is a guess. You have not been inside, and putty, from a step, is not a diagnosis.
+  it: Questa è paura, ed è un'ipotesi. Non è entrato, e lo stucco, da un gradino, non è una diagnosi.
+- I'll put you down for Thursday. Morning or afternoon?
+  it: La segno per giovedì. Mattina o pomeriggio?
+- That is a choice between two yeses. The third answer is neither, and neither is the one I am giving you.
+  it: Questa è una scelta fra due sì. La terza risposta è nessuno dei due, ed è quella che le do.
+- The survey is free. The pen is yours either way. No obligation.
+  it: Il sopralluogo è gratis. La penna è sua in ogni caso. Senza impegno.
+- A free pen is not a debt. If it expects a signature, it is an invoice. You may keep this one only if it does not.
+  it: Una penna gratis non è un debito. Se aspetta una firma, è una fattura. Questa può tenerla solo se non la aspetta.
+- I'm certified. The card is here. We're a family firm, Mrs Holt.
+  it: Sono certificato. La tessera è qui. Siamo un'azienda di famiglia, signora Holt.
+- A card says that you have a card. A family is not yet a reason to buy a frame.
+  it: Una tessera dice che ha una tessera. Una famiglia non è ancora un motivo per comprare un telaio.
+- People like you, careful people, are exactly who we like to do the work for.
+  it: Le persone come lei, persone attente, sono proprio quelle per cui ci piace lavorare.
+- "People like you" is a mirror. I am careful, which is why the card stays in your hand and not in my drawer.
+  it: «Le persone come lei» è uno specchio. Sono attenta, ed è per questo che la tessera resta in mano sua e non nel mio cassetto.
+- Look, the script is the script. The round is long, and this step is cold.
+  it: Guardi, il copione è il copione. Il giro è lungo, e questo gradino è freddo.
+- That sentence was not a technique. You may keep it.
+  it: Quella frase non era una tecnica. Può tenerla.
+- Is the kettle a technique?
+  it: Il bollitore è una tecnica?
+- The kettle is mine. Tea is not a signature, and a Tuesday is not a contract.
+  it: Il bollitore è mio. Il tè non è una firma, e un martedì non è un contratto.
+- So the windows are a no.
+  it: Quindi le finestre sono un no.
+- The windows are a no. Ten minutes off your feet is a yes, if you can bear a room that does not need your frames.
+  it: Le finestre sono un no. Dieci minuti seduto è un sì, se sopporta una stanza che non ha bisogno dei suoi telai.
+- I'll take the tea. I won't pretend the pen was nothing.
+  it: Il tè lo prendo. Non farò finta che la penna non fosse niente.
+- Then leave the pen on the step. A gift that walks in with a price is still a price.
+  it: Allora lasci la penna sul gradino. Un regalo che entra con un prezzo è ancora un prezzo.
+- Number 14 really has been empty since March?
+  it: Il numero 14 è davvero vuoto da marzo?
+- Since March. You can wave on your way past. It will not sign, and nor will I.
+  it: Da marzo. Può salutare passando. Non firmerà, e non firmo neanch'io.
+
+notes.it:
+1. Mrs Holt? Darren. I won't keep you. One question, and I'm gone: il venditore si presenta per nome, Darren, e lei resta Mrs Holt, la signora Holt. I won't keep you è «non la trattengo», la promessa che la visita sarà corta. One question, and I'm gone è il piede nella porta, the foot in the door: una richiesta piccola, per ottenere il resto. Lei lo nomina nella frase dopo, e non lo fa entrare. Dal gradino, from the step. Il lei dell'italiano è quello di due estranei adulti, e resta lei per tutti e due.
+2. You want the house warm this winter, don't you?: don't you è una question tag, e qui non chiede un'informazione. Cerca un sì. È la scala dei sì: una domanda a cui è scortese dire no, «vuole la casa calda?». Lei la chiama a yes wearing a question, un sì travestito. The house is already warm toglie il presupposto. Non discute l'inverno. Discute il trucco. Come to the windows sposta il discorso sull'oggetto, se l'oggetto c'è.
+3. Everyone on this side has asked us in. Number 14 signed before lunch: la prova sociale. Everyone è «tutti», e non c'è un elenco. Number 14 signed è un vicino con un nome civico, più preciso di «tutti», e quindi più utile da controllare. Lei lo controlla: empty since March, vuoto da marzo. Una casa vuota non firma. La prova cade perché il fatto di strada lo conosce lei, non perché «tutti» sia una parola vietata. In un annuncio, la folla non contata faceva lo stesso lavoro (lezione 16, nota 9). Qui ha un numero civico, e il numero è falso.
+4. The price I can do today comes off at six: la scarsità. Comes off è «scade, viene tolto». Alle sei il prezzo di oggi non c'è più. È il parente di while the offer lasts (lezione 16, nota 14): un'urgenza senza un motivo, solo un'ora. Il volantino di aprile, nella frase dopo, diceva le sei anche allora. April is still in the drawer: lei ha tenuto il foglio. La tecnica vuole che ogni porta sia la prima volta. Il cassetto è la memoria.
+5. I'm only saying it for your sake. These frames will not do another winter: for your sake è «per il suo bene», il trasferimento del motivo. Non vende: si preoccupa. Frames sono i telai. Will not do another winter è una previsione di danno, la paura. Lei la chiama fear, e anche a guess, un'ipotesi, perché lui non è entrato. Putty è lo stucco delle finestre vecchie. From a step non basta a diagnosticarlo. La resistenza qui non è «non ho paura». È «non hai visto».
+6. I'll put you down for Thursday. Morning or afternoon?: la chiusura presunta, e poi la scelta alternativa. Put you down è «la segno», come se il sì ci fosse già. Morning or afternoon offre due sì e nasconde il no. Lei lo dice: a choice between two yeses. Neither è «nessuno dei due», e lo dà come risposta, non come scortesia da interpretare. Un no chiaro, a questo punto, è la resistenza. Le tecniche di prima servivano a non doverlo sentire.
+7. The survey is free. The pen is yours either way. No obligation: la reciprocità. Survey è il sopralluogo, free «gratis». The pen is yours è un regalo piccolo, così il grande rifiuto sembra ingrato. Either way è «in ogni caso», no obligation «senza impegno». Lei rompe il legame: a free pen is not a debt. Se la penna aspetta una firma, è an invoice, una fattura. Il regalo vero non entra in casa insieme al prezzo. Alla fine glielo fa lasciare sul gradino. Non è maleducazione verso l'oggetto. È il rifiuto del debito.
+8. I'm certified. The card is here. We're a family firm, Mrs Holt: l'autorità, in tre pezzi. Certified è «certificato», the card la tessera, a family firm «un'azienda di famiglia». Nessuno dei tre dice che il telaio sia buono. A card says that you have a card è la replica secca: il documento prova il documento. Family non è ancora un motivo d'acquisto. People like you, la frase dopo, è l'adulazione: uno specchio. Careful people, «persone attente». Lei gira lo specchio: proprio perché è attenta, la tessera non entra nel cassetto. Il cassetto, drawer, è dove finirebbero i fogli firmati.
+9. Look, the script is the script. The round is long, and this step is cold: la svolta del venditore. Script è il copione. Dire che il copione è il copione è uscire dal copione. The round è il giro delle porte. This step is cold è un fatto del gradino, non un telaio. Lei lo riconosce: that sentence was not a technique. È la prima frase che non chiede un sì. La persuasione, quando cade, somiglia a una persona. Lei non compra per questo. Gli dice che può tenere la frase. Non la finestra.
+10. Is the kettle a technique?: lui prova a rimettere il tè dentro il copione, o chiede davvero. Kettle è il bollitore, già incontrato come oggetto da vendere (lezione 16). Qui è di lei, e fa il tè, non una chiusura. Tea is not a signature. A Tuesday is not a contract. Il giorno della settimana non diventa un impegno. So the windows are a no: lui, finalmente, traduce. Lei conferma il no, e aggiunge un sì piccolo e limitato: ten minutes off your feet, dieci minuti seduto, in una stanza already warm, che non ha bisogno dei telai. Il sì non è un'apertura. È un confine.
+11. I'll take the tea. I won't pretend the pen was nothing: lui accetta il tè e ammette la penna. Won't pretend è un raro momento chiaro. Then leave the pen on the step: lei non trasforma l'ammissione in una firma, e non trasforma il tè in un pagamento. A gift that walks in with a price is still a price. Il regalo che porta un prezzo resta un prezzo. Number 14 really has been empty: lui controlla la prova sociale, tardi. Since March. It will not sign, and nor will I. Né la casa vuota né lei: and nor mette i due no nella stessa forma. Il tè può ancora esserci. La firma no.
+
+ex1:
+- "One question, and I'm gone" is the foot in the door, and she makes him ask it from the step.
+  it: «Una domanda, e me ne vado» è il piede nella porta, e lei gli fa fare la domanda dal gradino.
+- The tag question about a warm house is a yes wearing a question, and number 14 cannot sign because it has been empty since March.
+  it: La domanda con coda sulla casa calda è un sì travestito da domanda, e il numero 14 non può firmare perché è vuoto da marzo.
+- A price that comes off at six was already on the April leaflet, and a guess about the frames, from the step, is not a diagnosis.
+  it: Un prezzo che scade alle sei era già sul volantino di aprile, e un'ipotesi sui telai, dal gradino, non è una diagnosi.
+- "Morning or afternoon" is a choice between two yeses, and a free pen that expects a signature is an invoice.
+  it: «Mattina o pomeriggio» è una scelta fra due sì, e una penna gratis che aspetta una firma è una fattura.
+- The windows are a no, the tea is not a signature, and neither the empty house nor Mrs Holt will sign.
+  it: Le finestre sono un no, il tè non è una firma, e non firmano né la casa vuota né la signora Holt.
+
+ex2:
+- One question is the foot in the [door].
+  it: Una domanda è il piede nella porta.
+- You want the house warm, [don't] you?
+  it: Vuole la casa calda, non è vero?
+- The price comes [off] at six.
+  it: Il prezzo scade alle sei.
+- Morning or [afternoon] hides the refusal.
+  it: Mattina o pomeriggio nasconde il rifiuto.
+- A free pen is not a [debt].
+  it: Una penna gratis non è un debito.
+
+tasks:
+- Tuesday. Darren, from the frame company, got as far as the step. One question, then a warm house I already have, then number 14, which has been empty since March. The six o'clock price was the April leaflet again. He had not seen the putty. Thursday was offered as morning or afternoon, which is two yeses, and the pen was a debt with a clip. The card and the family firm stayed in his hand, where I left them. When he said the step was cold, that was a person, and I did not buy a person either. Tea was ten minutes, not a signature. The pen is on the step. He can wave at number 14. It will not sign, and nor will I.
+  task.it: Scrivi la pagina di diario della signora Holt, in prima persona, circa 125 parole. Ci devono essere le tecniche che ha riconosciuto e il no finale. Il tè non diventa un sì. Non è il dialogo ricopiato battuta per battuta.
+  rubric.it: Si capisce chi è passato e che le finestre non sono state comprate; il diario è in prima persona, concreto, non un manuale di tecniche; ci sono almeno tre mosse riconosciute, fra piede nella porta, prova sociale, scarsità, paura, scelta fra due sì, penna, tessera; il tè resta un tè, e la penna non entra come debito; il tono è il suo, asciutto, circa 125 parole, e il numero 14 resta vuoto.
+
+== 20 C1
+numeral: Lesson Twenty
+title: The art of saying no
+title.it: L'arte di dire no
+
+dialogue:
+- The editor asked for a column on how to refuse.
+  it: La direttrice ha chiesto una rubrica su come si rifiuta.
+- I wrote back, "I'd love to, but."
+  it: Ho risposto: «Mi farebbe piacere, ma».
+- She printed the reply, and then she asked for the rest, which is how a hedge becomes a job.
+  it: Ha stampato la risposta, e poi ha chiesto il resto, ed è così che una siepe diventa un lavoro.
+- A hedged no is a no with a coat on.
+  it: Un no coperto è un no col cappotto addosso.
+- The coat is there so that the other person does not have to meet the no all at once.
+  it: Il cappotto c'è perché l'altro non debba incontrare il no tutto in una volta.
+- Sometimes that is kindness. Sometimes it is how a no fails to arrive.
+  it: A volte è gentilezza. A volte è il modo in cui un no non arriva.
+- To a friend, the coat can be short: "I can't on Thursday, sorry. I'm already out."
+  it: Con un amico il cappotto può essere corto: «Giovedì non posso, scusa. Ho già un impegno».
+- Can't and sorry and I'm do the work, and the reason is one clause, not a life story.
+  it: Can't e sorry e I'm fanno il lavoro, e il motivo è una frase sola, non una vita.
+- If the reason is false, the friendship will find out, and the coat will not help.
+  it: Se il motivo è falso, l'amicizia lo scopre, e il cappotto non aiuta.
+- To a colleague, the coat is a little longer, and the contractions may stay.
+  it: Con un collega il cappotto è un po' più lungo, e le contrazioni possono restare.
+- "I'm afraid Thursday isn't going to be possible. I have a clash I can't move."
+  it: «Temo che giovedì non sarà possibile. Ho un conflitto che non posso spostare».
+- I'm afraid does not describe fear. It warns that a no is in the sentence.
+  it: I'm afraid non descrive paura. Avvisa che nella frase c'è un no.
+- Isn't going to be possible is the no. The clash is the reason, and it ought to be real.
+  it: Isn't going to be possible è il no. Il conflitto è il motivo, e dovrebbe essere vero.
+- Much as I'd like to is the same coat in a warmer cloth: it praises the invitation and then leaves.
+  it: Much as I'd like to è lo stesso cappotto in una stoffa più calda: loda l'invito e poi se ne va.
+- In a formal letter the coat is buttoned, and the contractions go home.
+  it: In una lettera formale il cappotto è abbottonato, e le contrazioni tornano a casa.
+- "I am grateful for the invitation. I am not able to accept."
+  it: «Le sono riconoscente dell'invito. Non sono in grado di accettare».
+- Grateful is the thanks. Not able to accept is the no, and it does not need a medical detail.
+  it: Grateful è il grazie. Not able to accept è il no, e non ha bisogno di un dettaglio medico.
+- That's very kind of you does the same thanks when the no is spoken, not written.
+  it: That's very kind of you fa lo stesso grazie quando il no è detto, non scritto.
+- There is a sentence that looks like a coat and is in fact a delay: "Let me come back to you."
+  it: C'è una frase che sembra un cappotto ed è invece un rinvio: «Le faccio sapere».
+- If you already know the answer, the delay is a no left in a corridor, and corridors lose things.
+  it: Se la risposta la sai già, il rinvio è un no lasciato in un corridoio, e i corridoi perdono le cose.
+- A clear no is allowed to be short. "Neither" is a complete sentence when the offer was "morning or afternoon".
+  it: Un no chiaro può essere corto. «Nessuno dei due» è una frase intera quando l'offerta era «mattina o pomeriggio».
+- No, thank you is the clean tool, and it is a tool, not a personality.
+  it: No, grazie è lo strumento pulito, ed è uno strumento, non un carattere.
+- I practised it on the cake in the kitchen, which I did want.
+  it: L'ho provato sulla torta in cucina, che invece volevo.
+- The slice has gone. A colleague heard a clean no and did the only polite thing with a slice, which was to eat it.
+  it: La fetta non c'è più. Qualcuno ha sentito un no pulito e ha fatto l'unica cosa educata con una fetta, cioè mangiarla.
+- The editor, earlier, heard "I'd love to, but" and did the other polite thing, which was to treat the but as a pause.
+  it: La direttrice, prima, ha sentito «mi farebbe piacere, ma» e ha fatto l'altra cosa educata, cioè trattare il ma come una pausa.
+- So the coat has two failures: too thick, and the no never arrives; too thin, and it refuses the cake you meant to eat.
+  it: Quindi il cappotto ha due fallimenti: troppo spesso, e il no non arriva mai; troppo sottile, e rifiuta la torta che volevi mangiare.
+- Next time I shall say yes to cake.
+  it: La prossima volta dirò sì alla torta.
+- I shall say no, in the coat the room requires, to the invitation I mean to refuse.
+  it: Dirò no, col cappotto che la stanza richiede, all'invito che intendo rifiutare.
+- And I shall not write "I'd love to, but" to an editor who owns a printing press.
+  it: E non scriverò «mi farebbe piacere, ma» a una direttrice che ha una macchina da stampa.
+- She has already asked for a second column. I am not able to accept.
+  it: Ha già chiesto una seconda rubrica. Non sono in grado di accettare.
+- That sentence is the formal coat, and this time I have sent it before she could print the pause.
+  it: Quella frase è il cappotto formale, e stavolta l'ho mandata prima che lei potesse stampare la pausa.
+
+notes.it:
+1. The editor asked for a column on how to refuse: editor, qui, è la direttrice: nel testo è she, e decide che cosa si stampa. A column è una rubrica. How to refuse è «come si rifiuta». La prima mossa del pezzo è già un rifiuto andato male: I'd love to, but, «mi farebbe piacere, ma». I'd love to loda l'invito. But dovrebbe portare il no, e qui la frase finisce sul but. She printed the reply: ha stampato la risposta. Un but senza la seconda metà è una pausa, e lei può riempirla. Hedge è la siepe, la copertura: una parola in meno del no secco.
+2. A hedged no is a no with a coat on: hedged è «coperto, attenuato». Coat è il cappotto, l'immagine del pezzo: la frase messa davanti al no. The other person non incontra il rifiuto tutto in una volta. Sometimes that is kindness: a volte il cappotto è rispetto, soprattutto se il no è a un invito fatto con cura. Sometimes it is how a no fails to arrive: se il cappotto è tutto e il no non esce, l'altro sente un forse. Il pezzo non dice che ogni attenuazione sia un errore. Dice che ha due esiti, e li separa con sometimes.
+3. To a friend, the coat can be short: "I can't on Thursday, sorry. I'm already out.": col registro dell'amico si contrae. Can't, I'm, sorry. Already out è «ho già un impegno», alla lettera «sono già fuori». Una clausola di motivo, non una biografia. If the reason is false, the friendship will find out: un motivo inventato è peggio di un no secco, perché l'amicizia ha memoria. Il cappotto non protegge una bugia. Sorry qui è il piccolo cappotto, e basta. Non è una scusa nel senso di «giustificazione lunga».
+4. "I'm afraid Thursday isn't going to be possible. I have a clash I can't move.": registro del collega. Le contrazioni possono restare: non è una lettera. I'm afraid non è paura. È l'avviso che arriva un no, come un tossicchiare prima della frase. Isn't going to be possible è il no vero: non «forse», non «vediamo». Possible tiene il no sulla circostanza, non sulla persona: non «non voglio te», «non si può». A clash è un conflitto di impegni. It ought to be real: dovrebbe essere vero. Ought, non must. Un motivo vero è la forma ordinaria. Un motivo vago si usa, e si paga dopo.
+5. Much as I'd like to is the same coat in a warmer cloth: much as I'd like to è «per quanto mi farebbe piacere». Loda di più di I'm afraid, e poi deve andarsene: la frase non è finita finché non arriva il no. Warmer cloth è «stoffa più calda», lo stesso cappotto, un altro tono. Se ti fermi su I'd like to, hai accettato. Il but, o il punto, deve arrivare. In italiano «mi farebbe piacere, ma» ha lo stesso rischio: il ma che non porta nulla è un sì timido.
+6. "I am grateful for the invitation. I am not able to accept.": registro formale. Niente contrazioni: I am, not I'm. È il cappotto abbottonato. Grateful è il grazie, e sta in una frase sua, così il no non deve fare anche il lavoro del ringraziamento. Not able to accept è «non sono in grado di accettare». Non dice la malattia, non dice il nome dell'altro impegno. A formal no può essere corto se il grazie c'è già. That's very kind of you è lo stesso grazie detto a voce, «è molto gentile da parte tua», o «da parte sua», secondo la stanza. Kind of you loda il gesto, non accetta l'invito.
+7. "Let me come back to you.": il falso cappotto. Let me è «lascia che», come se il rinvio fosse un favore. Come back to you è «ti rifaccio sapere», «le rifaccio sapere». Se la risposta è già no, il corridoio la perde: l'altro aspetta, e tu hai detto un no che non si può citare. Corridors lose things è l'immagine. Non è una regola su ogni «ti faccio sapere». A volte devi davvero controllare l'agenda. If you already know the answer tiene il caso: il rinvio è disonesto solo quando il no c'è già. È il parente del copione alla porta, la frase che evita il neither (lezione 19, nota 6).
+8. No, thank you is the clean tool, and it is a tool, not a personality: no, thank you è «no, grazie». Clean è «pulito», senza una seconda trama. A tool, not a personality: uno strumento, non un carattere. Il pezzo non ti chiede di diventare una persona che dice sempre no. Ti chiede di avere la frase, per quando il cappotto ha già fallito. Practised it on the cake: l'ha provato sulla torta, which I did want, che invece voleva. Did want, con did, insiste: la voglia c'era. Il no pulito, usato come esercizio, ha rifiutato la cosa giusta da accettare. È il secondo fallimento, quello del cappotto troppo sottile, detto più sotto.
+9. The slice has gone: la chiusa comica, e ha una causa. Qualcuno ha sentito un no pulito e ha mangiato la fetta, the only polite thing. Non è crudeltà. È prendere sul serio un no. La direttrice, prima, ha fatto l'altra lettura educata: I'd love to, but senza seguito è una pausa, e una pausa si può stampare. Too thick, il no non arriva. Too thin, rifiuti la torta. Next time I shall say yes to cake separa i due strumenti. Shall, qui, è una decisione, un filo più formale di will, e sta bene in una rubrica che ha appena abbottonato il cappotto.
+10. I shall say no, in the coat the room requires, to the invitation I mean to refuse: the room è la stanza, come per not bad: l'amico, il collega, la lettera non vogliono lo stesso cappotto (lezione 8, nota 8: la stanza decide il senso; qui decide lo spessore). Mean to refuse è «intendo rifiutare», il no già deciso. And I shall not write "I'd love to, but" to an editor who owns a printing press: la macchina da stampa è il motivo pratico. She has already asked for a second column. I am not able to accept: riusa il cappotto formale, e stavolta la frase parte prima della pausa. Il pezzo finisce facendo la cosa che insegna.
+
+ex1:
+- "I'd love to, but", with nothing after the but, was printed, and that is how the column had to be finished.
+  it: «Mi farebbe piacere, ma», senza niente dopo il ma, è stato stampato, ed è così che la rubrica è dovuta finire.
+- To a friend the refusal can be "I can't on Thursday, sorry", and the reason ought to be true.
+  it: Con un amico il rifiuto può essere «giovedì non posso, scusa», e il motivo dovrebbe essere vero.
+- "I'm afraid it isn't going to be possible" warns of a no and then says it, and "let me come back to you" delays a no you already know.
+  it: «Temo che non sarà possibile» avvisa di un no e poi lo dice, e «le faccio sapere» rinvia un no che sai già.
+- In a formal letter, "I am grateful for the invitation" and "I am not able to accept" keep the thanks and the no in separate sentences, without contractions.
+  it: In una lettera formale, «le sono riconoscente dell'invito» e «non sono in grado di accettare» tengono il grazie e il no in frasi separate, senza contrazioni.
+- A clean "no, thank you" refused the cake the writer wanted, and someone ate the slice because the no was clear.
+  it: Un «no, grazie» pulito ha rifiutato la torta che chi scrive voleva, e qualcuno ha mangiato la fetta perché il no era chiaro.
+
+ex2:
+- A hedged no is a no with a [coat] on.
+  it: Un no coperto è un no col cappotto addosso.
+- I'm [afraid] Thursday isn't possible.
+  it: Temo che giovedì non sia possibile.
+- I have a [clash] I can't move.
+  it: Ho un conflitto di impegni che non posso spostare.
+- Let me come [back] to you.
+  it: Le faccio sapere, più tardi.
+- No, [thank] you is the clean tool.
+  it: No, grazie è lo strumento pulito.
+
+tasks:
+- I can't on Friday, sorry. I'm already out, and it's a real thing, not a polite fog. / I'm afraid I can't do the Thursday meeting. I have a clash I can't move, so please go ahead without me. / I am grateful for the invitation to the dinner. I am not able to accept. I hope the evening goes well.
+  task.it: Rifiuta tre inviti, in tre registri: un amico (puoi contrarre), un collega (un no chiaro, con un motivo vero), una cena formale (forme intere, grazie e no in frasi distinte). Poche frasi ciascuno. Non accettarne nessuno per distrazione.
+  rubric.it: I tre no si capiscono, e nessuno è un sì travestito; il primo è parlato e contratto, il secondo da collega, il terzo formale e senza contrazioni; ogni no ha un confine, non un «ti faccio sapere» se la risposta c'è già; i motivi, se ci sono, sono credibili e corti; la torta e la direttrice di questa rubrica non sono i tre inviti.
+
+== 21 C1
+kind: revision
+numeral: Lesson Twenty-One
+title: Revision
+title.it: Ripasso
+
+dialogue:
+- Good evening. The car park has been given a title, Riverside Spaces, and a title is already a choice.
+  it: Buonasera. Al parcheggio è stato dato un titolo, Riverside Spaces, e un titolo è già una scelta.
+  refs: 18
+- It keeps the word spaces, and lets the field go.
+  it: Tiene la parola spazi, e lascia andare il campo.
+  refs: 18
+- The officer's sheet offers a faster turn, a quieter street, and a kinder walk.
+  it: Il foglio dell'ufficio offre una svolta più rapida, una strada più silenziosa, e una camminata più gentile.
+  refs: 15 16
+- Ninety spaces, so the morning starts when you do.
+  it: Novanta posti, così la mattina comincia quando cominciate voi.
+  refs: 16
+- From only two pounds an hour, while the first permits last.
+  it: A partire da sole due sterline l'ora, finché durano i primi permessi.
+  refs: 16
+- The sheet helps with parking worries, and with Mondays.
+  it: Il foglio aiuta con le preoccupazioni per il parcheggio, e con i lunedì.
+  refs: 16
+- You want the high street alive, don't you?
+  it: Volete la via dei negozi viva, no?
+  refs: 19
+- Three shops, we were told, signed before lunch.
+  it: Tre negozi, ci è stato detto, hanno firmato prima di pranzo.
+  refs: 19
+- I concede the shops. A car park does not follow from a signature, any more than a ban followed from the grief.
+  it: I negozi, li concedo. Da una firma non consegue un parcheggio, come da un lutto non conseguiva un divieto.
+  refs: 17
+- I grant that the bus is thin after eight. A field of cars is not a bus, and a budget for the bus is not on this sheet.
+  it: Ammetto che l'autobus è scarso dopo le otto. Un campo di auto non è un autobus, e un bilancio per l'autobus non è su questo foglio.
+  refs: 17
+- Morning or afternoon for the diggers is a choice between two yeses.
+  it: Mattina o pomeriggio per gli scavatori è una scelta fra due sì.
+  refs: 19
+- There is a pen on each chair. A free pen is not a debt.
+  it: C'è una penna su ogni sedia. Una penna gratis non è un debito.
+  refs: 19
+- I'd love to keep the street, but the but is the water, and the water is the rest of the sentence.
+  it: Mi farebbe piacere tenere la via, ma il ma è l'acqua, e l'acqua è il resto della frase.
+  refs: 20
+- I am not able to accept the title.
+  it: Non sono in grado di accettare il titolo.
+  refs: 20
+- "Let me come back to you" is how a room loses a no it already knows.
+  it: «Vi faccio sapere» è il modo in cui una sala perde un no che conosce già.
+  refs: 20
+- No, thank you.
+  it: No, grazie.
+  refs: 20
+- The officer promised not to keep us. One question, and the plan was gentle.
+  it: L'ufficio ha promesso di non trattenerci. Una domanda, e il piano era gentile.
+  refs: 19
+- That was the foot in the door, and the door is this meeting.
+  it: Quello era il piede nella porta, e la porta è questa assemblea.
+  refs: 19
+- We came in the rain.
+  it: Siamo venuti sotto la pioggia.
+  refs: 15
+- We came when the bus did not.
+  it: Siamo venuti quando l'autobus non è arrivato.
+  refs: 15
+- We came because a field that floods is not a slogan.
+  it: Siamo venuti perché un campo che si allaga non è uno slogan.
+  refs: 15
+- It cannot hold the cars in November.
+  it: Non può tenere le auto in novembre.
+  refs: 15
+- It cannot be the missing bus.
+  it: Non può essere l'autobus che manca.
+  refs: 15 17
+- It cannot do the shops' work by wearing a title.
+  it: Non può fare il lavoro dei negozi mettendosi un titolo.
+  refs: 15 18
+- I am not going to pretend the shops do not need a place to stop.
+  it: Non ho intenzione di fingere che i negozi non abbiano bisogno di un posto dove fermarsi.
+  refs: 15
+- The sentence I will sign is the one with the water in it.
+  it: La frase che firmo è quella in cui c'è l'acqua.
+  refs: 16
+- Tea afterwards is not a signature, and six o'clock has already gone.
+  it: Il tè, dopo, non è una firma, e le sei sono già passate.
+  refs: 19
+- The minutes will record the no, not the coat.
+  it: Il verbale registrerà il no, non il cappotto.
+  refs: 20
+
+notes.it:
+Non c'è una figura nuova. La settimana ha messo la persuasione in sei voci: il discorso, l'annuncio, il dibattito, i titoli, la porta, il no. L'assemblea le usa tutte, e resta un'assemblea: un campo, un foglio, un verbale. Se due frasi ti sembrano la stessa mossa, guardale in tabella. Spesso cambia la stanza, non lo strumento.
+
+1. Triade, anafora, svolta (lezione 15). La triade chiude una serie in tre. L'anafora riapre la stessa parola. La svolta dice, a un certo punto, qual era il discorso vero. Nel premio era Priya, non la coppa. Qui è l'acqua, non il titolo.
+
+| Figura | Che cosa fa | Esempio della settimana | Lezione |
+|---|---|---|---|
+| triade | tre pezzi, serie chiusa | time, nerve, and a second attempt | 15 |
+| triade di comparativi | tre «più», senza l'altro termine | A faster boil, a quieter lift, and a kinder pour. | 16 |
+| anafora | la stessa apertura, più volte | You came in the rain. | 15 |
+| anafora sul non potere | It cannot, tre volte | It cannot sit the paper you left in your bag. | 15 |
+| svolta | il discorso vero, detto tardi | That is the prize-giving I came here to hold. | 15 |
+| rifiuto di fingere | I am not going to, non una data | I am not going to pretend that a prize does not matter. | 15 |
+
+Nel verbale, faster, quieter, kinder tornano sul foglio dell'ufficio, e We came tre volte, poi It cannot tre volte. La svolta è la frase con l'acqua. I am not going to pretend tiene i negozi: il bisogno è vero, e non basta a firmare il titolo.
+
+2. La lingua dell'annuncio (lezione 16). L'annuncio mette un numero accanto a una parola che non si misura, un prezzo vestito, una scadenza senza giorno, e un aiuto che non toglie il fatto. Poi, se è onesto, resta una frase che si può firmare.
+
+| Mossa | Esempio dell'annuncio | Nel verbale |
+|---|---|---|
+| comparativo senza rivale | A faster boil, a quieter lift, and a kinder pour. | a faster turn, a quieter street, and a kinder walk |
+| numero più vita | Ninety seconds to a perfect cup, so your morning starts when you do. | Ninety spaces, so the morning starts when you do. |
+| from e only | From only £49. | From only two pounds an hour |
+| helps with, non removes | Helps with limescale worries, and with Mondays. | helps with parking worries, and with Mondays |
+| scarsità | While the offer lasts. | while the first permits last |
+| la frase da firmare | It boils water. | The sentence I will sign is the one with the water in it. |
+
+It boils water era la frase due, l'unica firmata. Qui la frase firmata è quella dell'acqua nel campo. Il resto del foglio è cappotto, nel senso della lezione 20, anche se l'annuncio non usava quella parola.
+
+3. Concessione e replica (lezione 17). Si cede il fatto. Non si cede il rimedio. Follow è il connettore: dalla premessa non consegue la mozione. Grant è il sì corto sul buco, prima di dire che il buco non è questo rimedio. Il bilancio non è nella frase.
+
+| Mossa | Esempio del dibattito | Nel verbale |
+|---|---|---|
+| concede | I concede the freedom. | I concede the shops. |
+| does not follow | From that grief a ban does not follow. | A car park does not follow from a signature |
+| grant | and I grant it | I grant that the bus is thin after eight. |
+| il bilancio | the budget is not in the motion | a budget for the bus is not on this sheet |
+
+Nel dibattito il bus mancava di sera, su una B-road, e il bilancio non era nella mozione. Qui il bus è scarso dopo le otto, e il foglio del parcheggio non contiene un autobus. La concessione sui negozi è vera. Il parcheggio non ne è la conseguenza, e il verbale lo dice negando il passaggio.
+
+4. Il titolo, e la porta (lezioni 18 e 19). Un titolo sceglie la frase che resta. Alla porta, una serie di tecniche chiede sì senza dire la parola sì. L'assemblea nomina le tecniche, come la signora Holt, e non le paga con una firma.
+
+| Mossa | Esempio | Lezione |
+|---|---|---|
+| il titolo è una scelta | and the title is already a choice | 18 |
+| tiene una frase, lascia l'ora | It keeps one phrase, and lets the rest of the hour go. | 18 |
+| piede nella porta | That is the foot in the door. | 19 |
+| domanda che cerca un sì | You want the house warm this winter, don't you? | 19 |
+| firma di un altro | Number 14 signed before lunch. | 19 |
+| due sì, niente no | Morning or afternoon? | 19 |
+| la penna | A free pen is not a debt. | 19 |
+| il tè | Tea is not a signature | 19 |
+
+Riverside Spaces tiene spaces e lascia il campo, come un titolo tiene una frase e lascia l'ora. Three shops signed before lunch è la prova sociale, senza il numero 14: non è la stessa via, è la stessa mossa. Le sei già passate sono la scadenza della porta, «comes off at six», arrivata tardi. Il tè, dopo, non firma.
+
+5. Il no e il cappotto (lezione 20). Il cappotto è la frase davanti al no. Troppo spesso, il no non arriva. Troppo sottile, rifiuti anche la torta. Un rinvio, se il no c'è già, è un corridoio. Il verbale sceglie il no corto, e lo scrive.
+
+| Mossa | Esempio della rubrica | Nel verbale |
+|---|---|---|
+| but senza seguito | I'd love to, but. | il but c'è, e dopo c'è l'acqua |
+| no formale | I am not able to accept. | I am not able to accept the title. |
+| rinvio | Let me come back to you. | la sala perde un no che conosce già |
+| strumento pulito | No, thank you | No, thank you. |
+| la stanza | in the coat the room requires | The minutes will record the no, not the coat. |
+
+I'd love to, but, detto alla direttrice, finiva sul but, e il but fu stampato. Qui il but porta l'acqua, quindi il cappotto non mangia il no. I am not able to accept è il registro abbottonato, senza contrazioni, riusato sul titolo. No, thank you è la frase intera. Il verbale, come la rubrica alla fine, manda il no prima che qualcuno stampi la pausa.
+
+tasks:
+- Chair, I concede the shops, and I am not taking that back. A place to stop matters. What does not follow is this field, under a title that keeps the word spaces and lets the water go. We were offered a faster turn, a quieter street, and a kinder walk, and none of the three named a rival or a flood. The bus is thin after eight. I grant it. A car park is not that bus, and the sheet has no budget for one. I am not able to accept Riverside Spaces. I am not going to pretend a title is a plan. The sentence I will sign is shorter. The field floods. Please record that, and leave the pen on the chair.
+  task.it: Scrivi un intervento persuasivo di circa un minuto, intorno alle 120 parole, per questa assemblea o per un'altra dello stesso tipo. Una concessione che resta, una replica, e una frase che si può firmare. Non un secondo verbale del testo.
+  rubric.it: Si capisce che cosa chiedi di votare o di verbalizzare; c'è una concessione non ritirata, e una replica con un does not follow o un equivalente; c'è una triade, un'anafora o un titolo usato come scelta; il registro è detto in sala, e il no o il sì finale è chiaro; non ricicli Priya, l'Osier, la signora Holt o la torta come se fossero questa pratica.

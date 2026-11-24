@@ -372,3 +372,838 @@ tasks:
 - Giufà was invited to a rich man's wedding and went in his working clothes. The servants sat him at the end of the table, behind a pillar, and nobody passed him the meat. He went home, borrowed his uncle's velvet jacket, and came back. This time the host stood up, the servants bowed, and the best dishes reached his end of the table first. Giufà put the meat in his pockets and poured the wine down his sleeves. "Eat, my jacket," he said. "Drink, my jacket. You were the one invited." The guests laughed. The host did not. Moral: if the coat is the guest, feed the coat.
   task.it: Riporta in inglese una fiaba italiana che conosci (o una sua versione corta), intorno alle 120-150 parole. Stessa trama riconoscibile. Registro da racconto o da favola, non da saggio. Se vuoi una morale, una riga sola in chiusura. Non rifare l'alzaia di Anna né la volpe col navigatore.
   rubric.it: Si riconosce la fiaba di partenza, e i fatti principali ci sono; l'inglese è naturale, britannico dove conta (jacket, wedding, host, non un calco riga per riga); c'è un ritmo da racconto, almeno una frase corta nel punto che decide; se c'è Moral:, è una riga, non un riassunto; non ricicli towpath, blue line, satnav o CAPACITY come se fossero la fiaba.
+
+== 29 C2
+numeral: Lesson Twenty-Nine
+title: Big, large, great
+title.it: Big, large, great
+
+dialogue:
+- Italian has a generous word, grande, and English, as if to be awkward, has split the job among three that look like twins and are not.
+  it: L'italiano ha una parola generosa, grande, e l'inglese, come per fare lo scoglio, ha spartito il lavoro fra tre che sembrano gemelli e non lo sono.
+- Big, large and great all point at size or force, and a thesaurus will happily list them together, which is where the trouble begins.
+  it: Big, large e great puntano tutti alla misura o alla forza, e un thesaurus li elencherà volentieri insieme, ed è lì che comincia il guaio.
+- Big is the everyday word for physical size, and for importance when the speaker is not wearing a suit.
+  it: Big è la parola di tutti i giorni per la misura fisica, e per l'importanza quando chi parla non ha indosso un completo.
+- A big flat, a big mistake, a big day: the noun stays ordinary, and big does the lifting.
+  it: Un appartamento grande, un grosso errore, una grande giornata: il nome resta ordinario, e big fa il lavoro.
+- Large prefers the measurable and the slightly formal: a large room, a large number, a large family of daisies on a neighbour's lawn.
+  it: Large preferisce il misurabile e un filo di formale: una stanza ampia, un numero elevato, una famiglia numerosa di margherite sul prato del vicino.
+- You would not usually thank someone for a large favour, and you would not call a crisis a large deal.
+  it: Di solito non ringrazieresti qualcuno per un large favour, e non chiameresti una crisi a large deal.
+- Great, used of size alone, is rare for ordinary objects: a great sandwich, if you mean the bread is thick, sounds like praise of the cook, not of the centimetres.
+  it: Great, usato solo per la misura, è raro per gli oggetti ordinari: a great sandwich, se intendi che il pane è spesso, suona come un elogio al cuoco, non ai centimetri.
+- Great is quality, intensity, or a place in history: a great novel, a great many languages, the Great Fire, Great Britain.
+  it: Great è qualità, intensità, o un posto nella storia: un grande romanzo, moltissime lingue, il Grande Incendio, la Gran Bretagna.
+- A great deal of gratitude is a quantity of feeling, not a large deal of gratitude, which is nonsense, and not a big deal of gratitude, which confuses the quantity with the dismissive phrase big deal.
+  it: A great deal of gratitude è una quantità di sentimento, non a large deal of gratitude, che non ha senso, e non a big deal of gratitude, che confonde la quantità con la formula liquidatoria big deal.
+- Big deal, on its own, is the opposite of gratitude: it shrinks the fuss, or, said flat, dismisses it.
+  it: Big deal, da solo, è il contrario della gratitudine: rimpicciolisce il trambusto, o, detto piatto, lo liquida.
+- The pairs that look innocent are the ones that trip people who translate from grande without stopping.
+  it: Le coppie che sembrano innocenti sono quelle che fanno inciampare chi traduce da grande senza fermarsi.
+- Tall is for people and for things that stand, and high is for position or degree: a tall man, a high shelf, high praise, not a high man, unless he is airborne.
+  it: Tall è per le persone e per le cose che stanno in piedi, e high è per la posizione o il grado: un uomo alto, uno scaffale alto, un grande elogio, non a high man, a meno che non sia in volo.
+- Little and small both mean not big, but little often carries feeling: a little house can be loved, a small house is measured, and a little problem may not be small at all.
+  it: Little e small vogliono dire entrambi non big, ma little spesso porta un sentimento: a little house può essere amata, a small house è misurata, e a little problem può non essere affatto piccolo.
+- Wide and broad overlap, and a smile can be either, yet a broad accent is never a wide one, and broad daylight will not become wide daylight however hard you squint.
+  it: Wide e broad si sovrappongono, e un sorriso può essere l'uno o l'altro, eppure a broad accent non è mai a wide one, e broad daylight non diventa wide daylight per quanto tu strizzi gli occhi.
+- The test is not the dictionary entry; it is which noun the word will sit beside without sounding hired from a list.
+  it: Il test non è la voce del dizionario; è con quale nome la parola starà accanto senza sembrare presa in affitto da un elenco.
+- A large mistake is possible, and a bit stiff; a big mistake is the one people actually say; a great mistake is old-fashioned or ironic, and it leans toward a blunder of judgment, not a coffee on a shirt.
+  it: A large mistake è possibile, e un po' rigido; a big mistake è quello che la gente dice davvero; a great mistake è fuori moda o ironico, e pende verso un errore di giudizio, non verso un caffè sulla camicia.
+- Big news is ordinary; large news is wrong; great news is good news said with a smile.
+  it: Big news è ordinario; large news è sbagliato; great news è una buona notizia detta con un sorriso.
+- The same shift runs through big sister and great aunt: big marks age in the family, great marks a generation removed, and large sister is a phrase you invent only once.
+  it: Lo stesso scarto corre in big sister e great aunt: big segna l'età in famiglia, great segna una generazione di distanza, e large sister è una frase che inventi una sola volta.
+- Italian grande covers affection, size and praise in one coat; English makes you choose the sleeve.
+  it: L'italiano grande copre affetto, misura ed elogio in un solo cappotto; l'inglese ti fa scegliere la manica.
+- A colleague once rewrote my sentence "a big audience" as "a large audience" and congratulated herself on precision.
+  it: Una collega una volta riscrisse la mia frase «a big audience» in «a large audience» e si congratulò con se stessa per la precisione.
+- She was not wrong: large audience is the more formal collocation, and in a report it sits better.
+  it: Non aveva torto: large audience è la collocazione più formale, e in una relazione sta meglio.
+- In the email to the speakers, though, big audience was the warmer coat, and her large one left the room a little colder.
+  it: Nella mail agli oratori, però, big audience era il cappotto più caldo, e il suo large lasciò la stanza un filo più fredda.
+- Precision is not the longest synonym; it is the right weight for the room.
+  it: La precisione non è il sinonimo più lungo; è il peso giusto per la stanza.
+- I left both versions on the page for a day, and then I chose big, and wrote a note to myself that I still keep above the desk.
+  it: Lasciai entrambe le versioni sulla pagina per un giorno, e poi scelsi big, e scrissi un appunto a me stesso che tengo ancora sopra la scrivania.
+- The note says: if a thesaurus offers three words, ask which noun they are marrying, and whether the marriage has already been celebrated in speech.
+  it: L'appunto dice: se un thesaurus offre tre parole, chiedi a quale nome si sposano, e se il matrimonio è già stato celebrato nel parlato.
+- Last week a learner asked me which was better, a great opportunity or a big opportunity.
+  it: La settimana scorsa un allievo mi chiese quale fosse meglio, a great opportunity o a big opportunity.
+- Both are fine, I said; great leans to quality, big to scale, and large opportunity is the one that sounds as if it had dressed for the wrong wedding.
+  it: Tutte e due vanno bene, dissi; great pende verso la qualità, big verso la scala, e large opportunity è quella che sembra vestita per il matrimonio sbagliato.
+- He wrote great, then crossed it out, then wrote big, then asked what I would write.
+  it: Scrisse great, poi lo cancellò, poi scrisse big, poi chiese che cosa avrei scritto io.
+- I wrote: a real chance, and put the three adjectives back in the drawer.
+  it: Scrissi: a real chance, e rimisi i tre aggettivi nel cassetto.
+
+notes.it:
+1. grande, and English... has split the job: il saggio apre dal contrasto. Grande in italiano fa da misura, da elogio e da affetto; big, large e great si dividono quei lavori e non si scambiano liberamente. As if to be awkward è lo scherzo: l'inglese sembra fatto apposta. Split the job è «spartire il lavoro». Twins che non lo sono: sembrano sinonimi, e il testo passerà a dimostrare che non lo sono.
+2. a thesaurus will happily list them together: thesaurus è il dizionario dei sinonimi. Happily è ironico: li elenca insieme, e lì nasce il guaio. List them together è il gesto che cancella le collocazioni. Trouble begins: il problema non è la definizione astratta, è l'uso accanto a un nome.
+3. Big is the everyday word: everyday è «di tutti i giorni», aggettivo. Physical size è la misura del corpo delle cose. Importance when the speaker is not wearing a suit: big day, big news restano anche fuori dal completo; large in quei posti suona spesso rigido. Suit è il completo, non una causa legale. Big come «grande» di misura viene dai primi passi (Fondamenti, lezione 3); qui si aggiunge il registro.
+4. A big flat, a big mistake, a big day: tre nomi ordinari. Flat è l'appartamento britannico. Big mistake è la forma che si sente; large mistake esiste ed è più steso. Does the lifting: big fa il lavoro pesante, il nome resta semplice.
+5. Large prefers the measurable: measurable è ciò che si può contare o misurare: large number, large room, large family. Slightly formal: un filo più formale di big. A large family of daisies riprende il prato del vicino (Perfezionamento, lezione 31, nota 5): large family lì è metafora, e large resta la parola giusta, non big family of daisies, che suonerebbe più parlato e meno da saggio sul prato.
+6. You would not usually thank someone for a large favour: usually lascia la porta aperta; la forma ordinaria è a big favour, o semplicemente thanks for your help. A large deal è sbagliato per big deal. Would not usually: non «never». La collocation è l'abito, non la legge penale.
+7. Great, used of size alone, is rare for ordinary objects: rare, non impossible: a great oak, a great hall esistono, spesso con un tono di solennità. A great sandwich, se pensi ai centimetri, si legge come elogio (ottimo), non come misura. Cook è chi cucina. Centimetres: la battuta misura ciò che great non misura.
+8. Great is quality, intensity, or a place in history: tre usi. A great many languages (Perfezionamento, lezione 55, nota 1): a great many è «moltissimi», e great non è scambiabile con big o large lì. The Great Fire, Great Britain: great è nel nome proprio, non un aggettivo che puoi sostituire. Intensity: a great noise, a great effort.
+9. A great deal of gratitude: a great deal of vuole un non numerabile (Perfezionamento, lezione 32, nota 13). Large deal of e big deal of non calzano con gratitude. Big deal da solo è un'altra voce: «affare grosso» o, ironico, «chissenefrega». Confuses the quantity with the dismissive phrase: big deal of gratitude mescola due famiglie.
+10. Big deal, on its own: on its own è «da solo», senza of. Shrinks the fuss: rimpicciolisce il trambusto. Said flat: detto piatto, senza calore, liquida l'argomento. Opposite of gratitude: dopo great deal of gratitude, il contrasto è voluto.
+11. Tall is for people... high is for position or degree: altra coppia da grande/alto. High man sarebbe «uomo in alto», non alto di statura, salvo lo scherzo airborne, «in volo». High praise è «grande elogio», e high lì è grado, non scaffale. Near-synonyms che l'italiano confonde con un solo alto.
+12. Little and small: little spesso porta affetto o understatement (a little house, a little problem). Small è più neutro e misurabile. A little problem may not be small: riprende la grammatica dell'understatement (lezione 8, nota 11: a bit of a problem). Feeling contro misura.
+13. Wide and broad: overlap è «si sovrappongono». A broad accent è un accento marcato, non wide. Wide smile e broad smile vanno bene tutti e due. Broad daylight è «pieno giorno», espressione fissa: wide lì non entra. Squint è strizzare gli occhi.
+14. which noun the word will sit beside: sit beside è la collocation vista come matrimonio col nome. Hired from a list: preso in affitto da un elenco di sinonimi. Il test è l'orecchio, non la definizione isolata.
+15. A large mistake... a big mistake... a great mistake: tre pesi. Stiff è «rigido». Old-fashioned or ironic: great mistake ha un'aria da secolo scorso, o è detto con ironia. Blunder of judgment: errore di giudizio. Coffee on a shirt: il guaio piccolo e concreto, dove sta big.
+16. Big news... large news... great news: large news è semplicemente sbagliato come collocation ordinaria. Great news è buona notizia. Big news è notizia grosso calibro, non per forza buona.
+17. big sister and great aunt: big sister / big brother: il fratello o la sorella maggiore. Great aunt: prozia, una generazione sopra. Large sister: inventato, e ridicolo. Age contro generazione.
+18. I wrote: a real chance, and put the three adjectives back in the drawer: la chiusa. Dopo aver distinto great e big opportunity, il narratore evita tutti e tre e sceglie real chance: la precisione a volte è cambiare parola, non scegliere il sinonimo «migliore». Drawer: i tre aggettivi tornano nel cassetto. Wrong wedding riprende marrying della nota sopra: large opportunity vestita per il matrimonio sbagliato.
+
+ex1:
+- Italian grande covers size, praise and affection; English splits the work among big, large and great, which a thesaurus lists together and speech keeps apart.
+  it: L'italiano grande copre misura, elogio e affetto; l'inglese spartisce il lavoro fra big, large e great, che un thesaurus elenca insieme e il parlato tiene separati.
+- Large prefers the measurable and the slightly formal; you thank someone for a big favour, not usually for a large one.
+  it: Large preferisce il misurabile e un filo di formale; si ringrazia qualcuno per a big favour, non di solito per a large one.
+- A great sandwich praises the cook; a great deal of gratitude is a quantity of feeling, and big deal on its own dismisses a fuss.
+  it: A great sandwich elogia il cuoco; a great deal of gratitude è una quantità di sentimento, e big deal da solo liquida un trambusto.
+- Tall is for people who stand; high is for shelves, praise and degree; a high man is airborne, not simply tall.
+  it: Tall è per le persone che stanno in piedi; high è per scaffali, elogi e grado; a high man è in volo, non semplicemente alto.
+- In a report, a large audience can be the precise coat; in a warm email to the speakers, a big audience may still be the better weight for the room.
+  it: In una relazione, a large audience può essere il cappotto preciso; in una mail calda agli oratori, a big audience può restare il peso migliore per la stanza.
+
+ex2:
+- A thesaurus will happily [list] them together, which is where the trouble begins.
+  it: Un dizionario dei sinonimi li elencherà volentieri insieme, ed è lì che comincia il guaio.
+- You would not usually thank someone for a [large] favour.
+  it: Di solito non ringrazieresti qualcuno per un grande favore.
+- A [great] deal of gratitude is a quantity of feeling.
+  it: Una gran dose di gratitudine è una quantità di sentimento.
+- [Tall] is for people and for things that stand; high is for position or degree.
+  it: Alto, per le persone e per le cose che stanno in piedi, è una parola; per la posizione o il grado è high.
+- Precision is not the longest synonym; it is the right [weight] for the room.
+  it: La precisione non è il sinonimo più lungo; è il peso giusto per la stanza.
+
+tasks:
+- Big and large both mean size, but big is the everyday coat and large likes numbers, rooms and formal reports. Great is seldom bare size for ordinary things: it marks quality, intensity or history, as in a great novel or Great Britain. Little often carries feeling where small only measures. If a thesaurus offers all three, ask which noun they sit beside in real speech.
+  task.it: Spiega a un amico, in inglese, tre coppie di quasi-sinonimi (per esempio big/large, great/big, little/small, o tall/high). Intorno alle 80-100 parole. Registro da chiacchiera intelligente, non da voce di dizionario. Usa almeno un esempio con un nome concreto per ogni coppia.
+  rubric.it: Si capiscono tre distinzioni, non un sola lista di sinonimi; il registro è parlato e chiaro, senza burocratese; ogni coppia ha un esempio con un nome (flat, favour, news, sister...); le collocazioni restano quelle del testo o altre altrettanto naturali; l'amico potrebbe scegliere la parola giusta dopo averti letto.
+
+== 30 C2
+numeral: Lesson Thirty
+title: Make a decision, take a decision
+title.it: Make a decision, take a decision
+
+dialogue:
+- Collocation is the quiet rule that dictionaries print in small type and that native speakers obey without knowing they have a rule.
+  it: La collocazione è la regola quieta che i dizionari stampano in corpo piccolo e a cui i madrelingua obbediscono senza sapere di avere una regola.
+- You do not make a photo; you take one.
+  it: Non si fa (make) una foto; se ne scatta (take) una.
+- You do not take a party; you throw one, or give one, if the invitation is milder.
+  it: Non si prende (take) una festa; se ne organizza (throw) una, o se ne dà (give) una, se l'invito è più mite.
+- You make a decision in much of the English-speaking world, and in Britain you may also take a decision, especially when the decision wears a suit.
+  it: In gran parte del mondo anglofono una decisione si prende con make, e in Gran Bretagna anche con take, soprattutto quando la decisione indossa un completo.
+- Take a decision is not an American import that wandered in; it is at home in British reports, minutes and newspapers, beside make a decision, which remains ordinary everywhere.
+  it: Take a decision non è un import americano entrato di soppiatto; sta a casa nei report, nei verbali e nei giornali britannici, accanto a make a decision, che resta ordinario dappertutto.
+- The mistake is to treat the two as enemies, or to write take a photo of a decision and hope the verb will sort itself out.
+  it: L'errore è trattarle da nemiche, o scrivere take a photo of a decision e sperare che il verbo si sistemi da solo.
+- American English leans harder on make a decision, and British ears still accept both; what they will not accept is do a decision, which sounds like homework assigned by a tired verb.
+  it: L'inglese americano pende di più su make a decision, e le orecchie britanniche accettano ancora tutte e due; quello che non accettano è do a decision, che suona come un compito assegnato da un verbo stanco.
+- Have a decision is rare outside a few fixed frames; reach a decision and come to a decision are the ones that mark the end of a long meeting.
+  it: Have a decision è raro fuori da poche cornici fisse; reach a decision e come to a decision sono quelle che segnano la fine di una riunione lunga.
+- The same verb shop sells other traps.
+  it: Lo stesso negozio di verbi vende altre trappole.
+- British speakers may take a decision and have a shower; Americans more often make the decision and take the shower, and they take a vacation where Britain still packs a holiday.
+  it: I britannici possono take a decision e have a shower; gli americani più spesso make la decisione e take la doccia, e prendono una vacation dove la Gran Bretagna mette ancora in valigia una holiday.
+- Have a bath is British and ordinary; take a bath is understood on both sides of the Atlantic and preferred in American speech.
+  it: Have a bath è britannico e ordinario; take a bath si capisce sulle due sponde dell'Atlantico ed è preferito nel parlato americano.
+- You book a table in Britain; you may also reserve one; you do not usually make a reservation at a corner café unless the café has begun to speak hotel.
+  it: In Gran Bretagna si prenota (book) un tavolo; se ne può anche riservare (reserve) uno; di solito non si make a reservation in un café all'angolo, a meno che il café non abbia cominciato a parlare da hotel.
+- Pay attention, not make attention; pay a visit or pay someone a visit, not make a visit, unless you are translating from Italian too literally and the sentence shows it.
+  it: Pay attention, non make attention; pay a visit o pay someone a visit, non make a visit, a meno che tu non stia traducendo dall'italiano troppo alla lettera e la frase lo dimostri.
+- Do homework, make an effort, take notes, keep a promise, break a promise: the verb is half the meaning, and the noun will not save a wrong one.
+  it: Do homework, make an effort, take notes, keep a promise, break a promise: il verbo è metà del senso, e il nome non salva quello sbagliato.
+- Italian fare is a wide coat; English make, do, take, have and get are five thinner ones, and the wardrobe matters.
+  it: L'italiano fare è un cappotto largo; l'inglese make, do, take, have e get sono cinque più sottili, e il guardaroba conta.
+- I once marked a student's essay that had made a photo, done a decision, taken a party and gotten a holiday, all in one paragraph about a wedding.
+  it: Una volta ho corretto il tema di uno studente che aveva made a photo, done a decision, taken a party e gotten a holiday, tutto in un solo paragrafo su un matrimonio.
+- The wedding, as far as the grammar went, had been a success of wrong coats.
+  it: Il matrimonio, per quanto riguardava la grammatica, era stato un successo di cappotti sbagliati.
+- Gotten is American for the past participle of get; British writing prefers got, except in a few fixed phrases, and the essay was otherwise trying to be British.
+  it: Gotten è l'americano per il participio passato di get; lo scritto britannico preferisce got, salvo poche frasi fisse, e il tema per il resto cercava di essere britannico.
+- I wrote in the margin: choose a side of the ocean, then choose the verb the noun already married.
+  it: Scrissi a margine: scegli una sponda dell'oceano, poi scegli il verbo a cui il nome è già sposato.
+- He rewrote the paragraph overnight.
+  it: Riscrisse il paragrafo durante la notte.
+- The bride took a decision, guests took photos, somebody threw a party in a garden, and the couple went on holiday, which is what the sentence had been trying to say before the thesaurus of verbs got involved.
+  it: La sposa prese una decisione, gli ospiti scattarono foto, qualcuno organizzò una festa in un giardino, e la coppia andò in vacanza, che è quello che la frase aveva cercato di dire prima che il thesaurus dei verbi si mettesse in mezzo.
+- Collocation is not elegance; it is traffic.
+  it: La collocazione non è eleganza; è il traffico.
+- Drive on the side the road expects, and the journey sounds like a journey.
+  it: Guida sul lato che la strada si aspetta, e il viaggio suona come un viaggio.
+- Drive on the other, and every noun becomes a roundabout.
+  it: Guida sull'altro, e ogni nome diventa una rotonda.
+- The column's advice, if it must fit on a sticky note, is short.
+  it: Il consiglio della rubrica, se deve stare su un foglietto, è corto.
+- Learn the verb with the noun, not after it.
+  it: Impara il verbo col nome, non dopo di esso.
+- And if both make a decision and take a decision are on offer, ask whether the room is a kitchen or a boardroom; the boardroom will take, the kitchen will usually make, and neither will do a decision while the kettle boils.
+  it: E se sono in offerta sia make a decision sia take a decision, chiedi se la stanza è una cucina o una sala riunioni; la sala riunioni prenderà (take), la cucina di solito farà (make), e nessuna delle due farà do a decision mentre bolle il bollitore.
+
+notes.it:
+1. Collocation is the quiet rule: collocation è «collocazione», la coppia verbo-nome (o aggettivo-nome) che suona naturale. Quiet rule: regola quieta, non stampata in grande. Small type è il corpo piccolo del dizionario. Obey without knowing: i madrelingua la seguono senza studiarla come regola. Non è stile; è abitudine condivisa.
+2. You do not make a photo; you take one: take a photo / take a picture è la collocation ordinaria. Make a photo è il calco da fare una foto. One riprende photo. La frase è corta apposta: il contrasto make/take si vede subito.
+3. throw a party... give a party: throw a party è «organizzare una festa», più vivace. Give a party è più mite, da invito composto. Take a party non esiste in questo senso. Milder è «più mite».
+4. make a decision... take a decision: tutte e due britanniche. Make è ordinario e internazionale. Take a decision sta volentieri in registri più formali (verbali, giornali). Wears a suit: la decisione «in completo», metafora di registro. Not an American import: corregge il mito che take a decision sia solo USA; in America make prevale di più.
+5. do a decision... tired verb: do a decision non è collocation. Sounds like homework: do homework è giusto; do spostato su decision suona da compito. Tired verb: verbo stanco, usato al posto sbagliato.
+6. reach a decision and come to a decision: segnano la fine di un percorso, spesso dopo discussione. Have a decision è raro. Fixed frames: cornici fisse, poche. Long meeting: la riunione lunga è il paesaggio tipico di reach/come to.
+7. have a shower / take a shower, have a bath / take a bath, holiday / vacation: have a shower e have a bath sono britannici ordinari; take si capisce ovunque e in America è più comune. Holiday vs vacation: Britain packs a holiday (metti in valigia una holiday). Vacation è americano per quella assenza dal lavoro; in britannico vacation esiste in altri usi (per esempio le vacanze dell'università), ma per le ferie si dice holiday.
+8. book a table... make a reservation: book è la parola britannica quotidiana per prenotare. Reserve è possibile. Make a reservation suona più da hotel o da AmE; corner café che «parla hotel» è lo scherzo: il locale ha alzato il registro.
+9. pay attention... pay a visit: pay attention, non make attention (calco da fare attenzione). Pay a visit / pay someone a visit: fare visita. Make a visit si sente poco e spesso tradisce il calco. Too literally: dalla visita italiana.
+10. Do homework, make an effort, take notes, keep a promise, break a promise: elenco di collocazioni fisse. Half the meaning: il verbo porta metà del senso. The noun will not save a wrong one: sbagli il verbo, e il nome giusto non ripara.
+11. Italian fare is a wide coat: fare copre make, do, take, have, get in pezzi diversi. Five thinner ones: cinque cappotti più sottili. Wardrobe matters: il guardaroba conta. Stessa metafora del cappotto della lezione 29 sul peso della parola.
+12. made a photo, done a decision, taken a party and gotten a holiday: quattro errori in un paragrafo. Success of wrong coats: successo di cappotti sbagliati, ripresa della metafora. Wedding: il tema parlava di un matrimonio, e la grammatica lo vestiva male.
+13. Gotten... British writing prefers got: fatto stabile. Gotten è AmE per il participio di get. Except in a few fixed phrases: ill-gotten gains ecc. Trying to be British: lo studente mirava al britannico e ha messo gotten, doppio segnale sbagliato.
+14. choose a side of the ocean, then choose the verb the noun already married: consiglio in due passi. Married riprende la metafora del matrimonio verbo-nome (lezione 29). Side of the ocean: BrE o AmE, poi la collocation di quella sponda.
+15. The bride took a decision... went on holiday: la riscrittura corretta. Took photos, threw a party, went on holiday: le collocazioni giuste. Thesaurus of verbs: non un libro, l'idea di scegliere verbi a caso come da elenco.
+16. Collocation is not elegance; it is traffic: traffico, non ornamento. Drive on the side the road expects: guida a destra o a sinistra secondo il paese. Roundabout: ogni nome diventa una rotonda se il verbo è sulla corsia sbagliata.
+17. Learn the verb with the noun, not after it: impara la coppia insieme. Sticky note: il consiglio deve stare su un foglietto, corto.
+18. boardroom will take, the kitchen will usually make: dose pratica. Take a decision nel registro da sala riunioni; make a decision in cucina, nel parlato. Usually: non una legge. Do a decision while the kettle boils: chiusura comica, il verbo sbagliato e il bollitore britannico nella stessa frase.
+
+ex1:
+- Collocation is the quiet rule native speakers obey without knowing they have a rule: you take a photo, you do not make one.
+  it: La collocazione è la regola quieta a cui i madrelingua obbediscono senza sapere di avere una regola: si scatta una foto, non la si «fa» con make.
+- In Britain you may make a decision or take one; do a decision sounds like homework assigned by a tired verb.
+  it: In Gran Bretagna si può make a decision o take one; do a decision suona come un compito assegnato da un verbo stanco.
+- Have a bath is ordinary British English; take a bath is understood on both sides of the Atlantic and preferred in American speech.
+  it: Have a bath è inglese britannico ordinario; take a bath si capisce sulle due sponde dell'Atlantico ed è preferito nel parlato americano.
+- You book a table in Britain; make a reservation suits a hotel better than a corner café.
+  it: In Gran Bretagna si prenota un tavolo con book; make a reservation sta meglio a un hotel che a un café all'angolo.
+- The student rewrote the wedding: the bride took a decision, guests took photos, somebody threw a party, and the couple went on holiday.
+  it: Lo studente riscrisse il matrimonio: la sposa prese una decisione, gli ospiti scattarono foto, qualcuno organizzò una festa, e la coppia andò in vacanza.
+
+ex2:
+- You do not make a photo; you [take] one.
+  it: Non si «fa» una foto; se ne scatta una.
+- American English leans harder on [make] a decision.
+  it: In inglese americano una decisione si «fa» più spesso.
+- [Reach] a decision and come to a decision mark the end of a long meeting.
+  it: Arrivare a una decisione e giungere a una decisione segnano la fine di una riunione lunga.
+- In Britain you still pack a [holiday]; Americans take a vacation.
+  it: In Gran Bretagna si mette ancora in valigia una vacanza; gli americani se ne prendono una con un altro nome.
+- Collocation is not elegance; it is [traffic].
+  it: La collocazione non è eleganza; è il traffico.
+
+tasks:
+- Last Saturday we took a photo of the cake, made a decision about the music, threw a party in the garden, and went on holiday the next morning. The bride said she would pay attention to the vows. Guests took notes on their phones. Somebody made an effort with the flowers. We hit heavy traffic twice on the way to the station.
+  task.it: Correggi questo testo, pieno di collocazioni sbagliate: «Last Saturday we made a photo of the cake, done a decision about the music, taken a party in the garden, and gotten a holiday the next morning. The bride said she would make attention to the vows. Guests made notes on their phones. Somebody did an effort with the flowers. We broke the traffic twice on the way to the station.» Riscrivilo in inglese corretto, britannico dove conta. Stessi fatti. Intorno alle 80-100 parole.
+  rubric.it: Ogni verbo sbagliato è corretto (take a photo, make/take a decision, throw a party, go on holiday, pay attention, take notes, make an effort...); il registro è britannico (holiday, got non gotten); i fatti del matrimonio restano tutti; l'inglese suona naturale, non una lista di correzioni; non inventi una trama nuova al posto della festa.
+
+== 31 C2
+numeral: Lesson Thirty-One
+title: The editor and the writer
+title.it: L'editor e lo scrittore
+
+dialogue:
+- Read it aloud, Tom, and then we cut.
+  it: Leggilo ad alta voce, Tom, e poi tagliamo.
+- "The ancient, crumbling, weather-stained church stood silently and mysteriously in the soft, grey, melancholy mist."
+  it: «L'antica, fatiscente chiesa macchiata dal tempo stava, silenziosa e misteriosa, nella morbida, grigia, malinconica foschia.»
+- That is one sentence and eight opinions.
+  it: È una frase sola e otto opinioni.
+- They are not opinions, Maya; they are atmosphere.
+  it: Non sono opinioni, Maya; sono atmosfera.
+- Atmosphere that arrives before the church does the reader's work for him, and he closes the book to rest.
+  it: Atmosfera che arriva prima della chiesa fa il lavoro del lettore al posto suo, e lui chiude il libro per riposare.
+- Keep ancient if the church is old in a way that matters to the plot; cut crumbling if the next paragraph already has stone on the floor.
+  it: Tieni ancient se la chiesa è vecchia in un modo che conta per la trama; taglia crumbling se il paragrafo dopo ha già pietra sul pavimento.
+- The stone is on the floor.
+  it: La pietra è sul pavimento.
+- Then crumbling is a rumour of what we already know; cut it.
+  it: Allora crumbling è una voce di ciò che sappiamo già; taglialo.
+- Weather-stained?
+  it: E weather-stained?
+- The mist is doing the weather; one of them can leave.
+  it: La foschia sta facendo il tempo; una delle due può andarsene.
+- Soft, grey, melancholy mist: that is three coats on one noun.
+  it: Soft, grey, melancholy mist: sono tre cappotti su un nome solo.
+- Grey is free; soft is a hand; melancholy is a novel sitting on the mist's shoulders.
+  it: Grey è gratis; soft è una mano; melancholy è un romanzo seduto sulle spalle della foschia.
+- Cut soft and melancholy; keep grey if you must paint.
+  it: Taglia soft e melancholy; tieni grey se proprio devi dipingere.
+- Silently and mysteriously are twins who say the same shy thing twice.
+  it: Silently e mysteriously sono gemelli che dicono due volte la stessa cosa timida.
+- A church that stands in mist is already quiet; mysteriously asks for applause.
+  it: Una chiesa che sta nella foschia è già quieta; mysteriously chiede un applauso.
+- So what remains?
+  it: Allora che cosa resta?
+- "The ancient church stood in the grey mist."
+  it: «The ancient church stood in the grey mist.»
+- It sounds thin.
+  it: Sembra magra.
+- It sounds like a sentence that trusts the next one.
+  it: Sembra una frase che si fida di quella dopo.
+- I put silently in there for a reason.
+  it: Avevo messo silently lì per un motivo.
+- The reason was fear of a blank space; blank space is not the enemy of prose, it is the room where the reader enters.
+  it: Il motivo era la paura di uno spazio bianco; lo spazio bianco non è il nemico della prosa, è la stanza in cui entra il lettore.
+- Adjectives earn their keep when they change what we would have assumed.
+  it: Gli aggettivi si guadagnano da vivere quando cambiano ciò che avremmo dato per scontato.
+- Ancient does that, if every other church in the town is new; grey does less, unless the mist was expected to be yellow.
+  it: Ancient lo fa, se ogni altra chiesa in paese è nuova; grey fa di meno, a meno che non ci si aspettasse una foschia gialla.
+- Then cut grey too.
+  it: Allora taglia anche grey.
+- "The ancient church stood in the mist."
+  it: «The ancient church stood in the mist.»
+- And if the church is the only one, cut ancient.
+  it: E se la chiesa è l'unica, taglia ancient.
+- "The church stood in the mist."
+  it: «The church stood in the mist.»
+- That is six words where there were fifteen.
+  it: Sono sei parole dove ce n'erano quindici.
+- Write the stone on the floor in the next line, and the mist will not need your melancholy to feel damp.
+  it: Scrivi la pietra sul pavimento nella riga dopo, e la foschia non avrà bisogno della tua melancholy per sembrare umida.
+- I feel robbed.
+  it: Mi sento derubato.
+- You are not robbed; you are edited, which is a thinner coat and a warmer room.
+  it: Non sei derubato; sei editato, che è un cappotto più sottile e una stanza più calda.
+- May I keep one very?
+  it: Posso tenermi un very?
+- No.
+  it: No.
+- A rather?
+  it: Un rather?
+- Rather is understatement's cousin, and this church was never shy; cut it before you write it.
+  it: Rather è il cugino dell'understatement, e questa chiesa non è mai stata timida; taglialo prima di scriverlo.
+- Fine. The church stood in the mist. The next sentence has the stone.
+  it: Va bene. The church stood in the mist. La frase dopo ha la pietra.
+- Good. Now read the page without stroking every noun as you pass.
+  it: Bene. Ora leggi la pagina senza accarezzare ogni nome mentre passi.
+
+notes.it:
+1. Read it aloud, Tom, and then we cut: due voci, nomi nel vocativo. Maya è l'editor, Tom lo scrittore: lo si capisce da we cut e dal tono di chi decide. Read it aloud è il metodo: a voce alta i grassi si sentono. Cut è tagliare, verbo da redazione.
+2. eight opinions: Maya conta gli aggettivi e gli avverbi come opinioni, non come fatti. Ancient, crumbling, weather-stained, silently, mysteriously, soft, grey, melancholy: il carico sulla chiesa e sulla foschia. One sentence: una frase sola, lavoro eccessivo.
+3. They are not opinions... atmosphere: Tom difende. Atmosphere è la parola dello scrittore che non vuole tagliare. Maya risponde che l'atmosfera che arriva prima della chiesa fa il lavoro del lettore: lui non deve immaginare, e quindi riposa chiudendo il libro.
+4. Keep ancient if... cut crumbling if: regola pratica. L'aggettivo resta se cambia ciò che daremmo per scontato; se il pezzo dopo mostra già la pietra, crumbling è doppione. Stone on the floor: dettaglio concreto contro etichetta.
+5. crumbling is a rumour of what we already know: rumour è «voce, diceria». Se la pietra c'è, crumbling racconta di nuovo. Cut it: imperativo da editor.
+6. The mist is doing the weather: weather-stained e mist si pestano i piedi. One of them can leave: uno dei due basta. Soft, grey, melancholy mist: three coats on one noun riprende la metafora del cappotto (lezioni 29-30): troppi aggettivi su un nome solo.
+7. Grey is free; soft is a hand; melancholy is a novel: tre pesi. Free: grey è descrittivo e leggero. Soft chiede il tatto. Melancholy scarica un romanzo intero sulla foschia. Keep grey if you must paint: se proprio serve colore.
+8. Silently and mysteriously are twins: due avverbi che dicono la stessa timidezza. Asks for applause: mysteriously chiede applauso, cioè effetto. A church in mist is already quiet: il fatto basta.
+9. trusts the next one: la frase magra si fida della successiva. Thin contro trust: Tom sente magrezza, Maya sente fiducia. Fear of a blank space: la paura dello spazio bianco spinge a riempire; blank space is the room where the reader enters.
+10. Adjectives earn their keep: si guadagnano da vivere. When they change what we would have assumed: criterio. Ancient se le altre chiese sono nuove; grey se ci si aspettava giallo. Altrimenti sono rumore.
+11. "The church stood in the mist.": sei parole. Fifteen: il conto della frase piena. La concisione è aritmetica e orecchio insieme.
+12. Write the stone... melancholy to feel damp: il dettaglio concreto (pietra) fa sentire l'umido meglio dell'aggettivo di umore. Damp è fisico; melancholy era psichico e superfluo.
+13. You are not robbed; you are edited: robbed è ciò che Tom sente. Edited è il nome giusto del gesto. Thinner coat and a warmer room: meno tessuto, più spazio per il lettore. Ripresa del cappotto.
+14. May I keep one very? / No.: very è l'intensificatore pigro. La battuta è secca: No. come frase. Rather: Tom prova l'understatement (lezione 8). Maya: rather is understatement's cousin, ma questa chiesa non era timida; non è il posto.
+15. without stroking every noun as you pass: stroke è «accarezzare». L'aggettivo come carezza su ogni nome. Fine. The church stood in the mist: Tom accetta, e annuncia la pietra nella frase dopo. La lezione finisce sul metodo, non su un altro aggettivo.
+
+ex1:
+- The writer's sentence gave the church eight opinions before the reader could see the stone on the floor.
+  it: La frase dello scrittore dava alla chiesa otto opinioni prima che il lettore potesse vedere la pietra sul pavimento.
+- Maya kept ancient only if age changed what the town would have assumed, and she cut crumbling once the next paragraph already showed broken stone.
+  it: Maya teneva ancient solo se l'età cambiava ciò che il paese avrebbe dato per scontato, e tagliava crumbling una volta che il paragrafo dopo mostrava già la pietra rotta.
+- Soft, grey and melancholy were three coats on one mist; she kept grey at first, then cut that too.
+  it: Soft, grey e melancholy erano tre cappotti su un'unica foschia; all'inizio tenne grey, poi tagliò anche quello.
+- Silently and mysteriously said the same shy thing twice, and mysteriously asked for applause.
+  it: Silently e mysteriously dicevano due volte la stessa cosa timida, e mysteriously chiedeva un applauso.
+- "The church stood in the mist" was six words where there had been fifteen, and the stone could do the damp work in the next line.
+  it: «The church stood in the mist» erano sei parole dove ce n'erano state quindici, e la pietra poteva fare il lavoro dell'umido nella riga dopo.
+
+ex2:
+- That is one sentence and eight [opinions].
+  it: È una frase sola e otto opinioni.
+- Soft, grey, melancholy mist: that is three [coats] on one noun.
+  it: Foschia morbida, grigia e malinconica: sono tre cappotti su un nome solo.
+- Blank space is not the enemy of prose; it is the [room] where the reader enters.
+  it: Lo spazio bianco non è il nemico della prosa; è la stanza in cui entra il lettore.
+- Adjectives earn their [keep] when they change what we would have assumed.
+  it: Gli aggettivi si guadagnano da vivere quando cambiano ciò che avremmo dato per scontato.
+- You are not robbed; you are [edited].
+  it: Non sei derubato; sei passato dalla redazione.
+
+tasks:
+- Rain fell. A bus waited at the stop. A child cried once and then watched the glass. Nobody spoke. When the doors opened, the wet seats took the shape of whoever had waited longest.
+  task.it: Taglia a metà questo paragrafo, senza tradirne i fatti: «The long, weary, grey afternoon rain fell heavily and relentlessly on the quiet, deserted, melancholy street while a lonely, impatient, rather old bus waited silently and mysteriously at the empty, windswept stop, and a small, tired, unhappy child cried softly once and then watched the cold, streaked glass, and nobody spoke a single solitary word until the tired doors opened and the damp, uncomfortable seats took the sad shape of whoever had waited longest in the soft rain.» Intorno alla metà delle parole. Tieni i fatti: pioggia, autobus alla fermata, bambino, silenzio, sportelli, sedili bagnati.
+  rubric.it: Il testo è circa la metà (o meno) dell'originale gonfio; i fatti restano tutti; gli aggettivi superflui e i doppi avverbi sono tagliati; l'inglese resta naturale, non un telegramma illeggibile; si sente ancora una scena, non un elenco di nomi nudi senza ritmo.
+
+== 32 C2
+numeral: Lesson Thirty-Two
+title: Said, whispered, hissed
+title.it: Said, whispered, hissed
+
+dialogue:
+- Said is the invisible verb of speech, and good prose often leaves it invisible on purpose.
+  it: Said è il verbo invisibile del discorso, e la buona prosa spesso lo lascia invisibile apposta.
+- "I'm leaving," she said, tells you the words and almost nothing about the throat.
+  it: «Me ne vado», she said, ti dice le parole e quasi niente sulla gola.
+- Whispered, muttered, snapped, hissed, blurted and drawled are not upgrades on said; they are stage directions, and too many of them turn the page into a radio play with the sound effects written in.
+  it: Whispered, muttered, snapped, hissed, blurted e drawled non sono promozioni di said; sono indicazioni di scena, e troppe trasformano la pagina in uno spettacolo radiofonico con gli effetti sonori scritti dentro.
+- A whisper is breath and secrecy, or the pretence of them; you whisper in a library, in a bed, or in a meeting when the chair is still speaking.
+  it: Un whisper è fiato e segreto, o la finzione di essi; si sussurra in biblioteca, a letto, o in riunione quando il presidente sta ancora parlando.
+- Muttered is speech half-kept for the self, low and not offered for reply; snapped is short and sharp, a reply that arrives before patience does.
+  it: Muttered è discorso mezzo tenuto per sé, basso e non offerto alla replica; snapped è corto e tagliente, una risposta che arriva prima della pazienza.
+- Hissed is the dangerous one.
+  it: Hissed è quello pericoloso.
+- It wants sibilants, anger, and a mouth close to an ear or to a clenched quarrel; writers reach for it when they mean "said angrily," and the snake gets into the room whether or not the sentence earned a fang.
+  it: Vuole sibilanti, rabbia, e una bocca vicina a un orecchio o a una lite serrata; gli scrittori lo prendono quando intendono «said angrily», e il serpente entra nella stanza sia che la frase si sia guadagnata una zanna sia che no.
+- Blurted is speed and regret: the word leaves before the mind signs for it.
+  it: Blurted è velocità e rimpianto: la parola esce prima che la mente firmi per lei.
+- Drawled stretches the vowel and, in British ears, often paints a stereotype; use it only when the stretch is the point, not when you need a synonym for said.
+  it: Drawled allunga la vocale e, alle orecchie britanniche, spesso dipinge uno stereotipo; usalo solo quando l'allungo è il punto, non quando ti serve un sinonimo di said.
+- Asked, replied, answered, added, continued and interrupted are safer cousins: they mark turn-taking, not volume.
+  it: Asked, replied, answered, added, continued e interrupted sono cugini più sicuri: segnano i turni, non il volume.
+- Suggested, insisted, admitted, claimed and denied do more: they judge the speech act, and the reader feels the author's thumb on the scale.
+  it: Suggested, insisted, admitted, claimed e denied fanno di più: giudicano l'atto linguistico, e il lettore sente il pollice dell'autore sul piatto della bilancia.
+- "The figures are fine," he claimed, is already an argument; "The figures are fine," he said, leaves the fight for the next line.
+  it: «Le cifre sono a posto», he claimed, è già una discussione; «Le cifre sono a posto», he said, lascia la lotta alla riga dopo.
+- Italian often leans on disse, chiese, rispose and then reaches for sussurrò, borbottò, sibilò with the same hunger; the hunger is international, and so is the indigestion.
+  it: L'italiano pende spesso su disse, chiese, rispose e poi allunga le mani a sussurrò, borbottò, sibilò con la stessa fame; la fame è internazionale, e così l'indigestione.
+- The old advice from the workshop is still good: use said most of the time, and let the quoted words carry the tone.
+  it: Il vecchio consiglio del laboratorio di scrittura vale ancora: usa said quasi sempre, e lascia che le parole citate portino il tono.
+- "Get out" needs no barked; "If you would be so kind as to leave" needs no murmured to sound soft.
+  it: «Get out» non ha bisogno di barked; «If you would be so kind as to leave» non ha bisogno di murmured per suonare morbido.
+- When the verb does work that the quote cannot, keep it.
+  it: Quando il verbo fa un lavoro che la citazione non può fare, tienilo.
+- She whispered because the baby had just settled; he hissed because the microphone was still live and the insult had to travel less than a metre: those verbs name a physical fact, not a mood sticker.
+  it: She whispered perché il bambino si era appena addormentato; he hissed perché il microfono era ancora acceso e l'insulto doveva viaggiare meno di un metro: quei verbi nominano un fatto fisico, non un adesivo di umore.
+- A page I edited last spring had hissed four times, snapped three, and said once, in a scene where two people ordered coffee.
+  it: Una pagina che ho editato la scorsa primavera aveva hissed quattro volte, snapped tre, e said una sola, in una scena in cui due persone ordinavano un caffè.
+- The coffee was not at war; the verbs were.
+  it: Il caffè non era in guerra; lo erano i verbi.
+- We put said back, cut the snakes, and left one snapped for the moment the wrong milk arrived.
+  it: Rimettemmo said, tagliammo i serpenti, e lasciammo un snapped per il momento in cui arrivò il latte sbagliato.
+- That snapped earned its keep: the quote was only "No," and the sharpness was not in the letter N.
+  it: Quello snapped si guadagnò da vivere: la citazione era solo «No», e la nitidezza non stava nella lettera N.
+- Reporting verbs are a precision tool, not a firework box.
+  it: I verbi di discorso sono uno strumento di precisione, non una scatola di fuochi d'artificio.
+- Choose them when the how of speaking is a fact the reader cannot recover from the words alone.
+  it: Sceglili quando il come del parlare è un fatto che il lettore non può ricavare dalle sole parole.
+- Otherwise said will do, and doing less is the craft.
+  it: Altrimenti said basta, e fare di meno è il mestiere.
+- A student once asked me what to write instead of said, as if the word were a stain.
+  it: Uno studente una volta mi chiese che cosa scrivere al posto di said, come se la parola fosse una macchia.
+- Write said, I told him, and make the sentence inside the marks interesting enough that nobody looks at the frame.
+  it: Scrivi said, gli dissi, e rendi la frase dentro le virgolette abbastanza interessante da far sì che nessuno guardi la cornice.
+- He whispered, "Really?"
+  it: Sussurrò: «Davvero?»
+- Yes, I said.
+  it: Sì, dissi.
+- And then, because the library had a sign about silence, and because the joke had somewhere to land, I added nothing else.
+  it: E poi, perché la biblioteca aveva un cartello sul silenzio, e perché la battuta aveva dove atterrare, non aggiunsi nient'altro.
+
+notes.it:
+1. Said is the invisible verb: invisible perché il lettore lo legge senza fermarsi. Leaves it invisible on purpose: la prosa brava non nasconde said per vergogna; lo usa proprio perché non ruba scena. Throat: la gola, il modo fisico del dire, che said non descrive.
+2. upgrades on said... stage directions: non sono «migliorie». Stage directions sono indicazioni di scena. Radio play with sound effects: troppi verbi colorati fanno effetti sonori scritti, e la pagina rumoreggia.
+3. A whisper is breath and secrecy: definizione. Or the pretence of them: a volte si whisper per finta. Library, bed, meeting: tre luoghi. Chair è il presidente della riunione, non la sedia (lezione 26, nota 15: the chair thanked her).
+4. Muttered... snapped: muttered è borbottio, non offerto alla replica. Snapped è corto e tagliente. Before patience does: la risposta arriva prima della pazienza. Due verbi, due fatti diversi.
+5. Hissed is the dangerous one: dangerous perché si abusa. Sibilants: suoni /s/. Said angrily è ciò che molti intendono; il serpente (snake, fang) entra lo stesso. Whether or not the sentence earned a fang: la zanna va guadagnata, come l'aggettivo della lezione 31.
+6. Blurted is speed and regret: la parola esce prima della firma della mente. Drawled: allunga le vocali; in Gran Bretagna spesso stereotipo (voce «lenta» da regione o da personaggio). Solo quando l'allungo è il punto.
+7. Asked, replied... interrupted: segnano i turni del dialogo, non il volume. Safer cousins: più sicuri di hissed. Suggested, insisted, admitted, claimed, denied: giudicano l'atto. Thumb on the scale: il pollice sulla bilancia, l'autore che pesa.
+8. he claimed... he said: claimed rende la frase già contestata. Said lascia il giudizio al lettore o alla riga dopo. La precisione sta nella cornice, non nei decibel.
+9. Italian... sussurrò, borbottò, sibilò: stessa fame di varietà. Indigestion: troppi, e il testo sta male. International: non è un vizio solo inglese.
+10. old advice from the workshop: consiglio da laboratorio di scrittura. Said most of the time; quoted words carry the tone. "Get out" needs no barked: il tono è già nella citazione. Softness in If you would be so kind...: stesso principio.
+11. When the verb does work that the quote cannot: criterio. Whispered perché il bambino dorme; hissed perché il microfono è vivo: fatti fisici. Mood sticker: adesivo di umore, aggettivo mascherato da verbo.
+12. hissed four times... ordered coffee: aneddoto. The coffee was not at war; the verbs were: battuta. Cut the snakes: togliere i hissed. One snapped for the wrong milk: un solo verbo colorato, guadagnato. La citazione è solo «No», e la secchezza non sta nella lettera N: qui snapped si guadagna da vivere (lezione 31, nota 10: earn their keep).
+13. precision tool, not a firework box: chiusura della tesi. How of speaking: il modo. Recover from the words alone: se la citazione basta, said basta. Doing less is the craft: fare di meno è il mestiere, legame con la concisione della lezione 31.
+14. as if the word were a stain: lo studente tratta said come una macchia. Make the sentence inside the marks interesting: le virgolette, non il verbo. Frame: la cornice.
+15. He whispered, "Really?": lo studente sussurra, e stavolta il verbo ha un fatto (la biblioteca, il silenzio). Yes, I said: said nudo. Added nothing else: la battuta atterra sul silenzio del cartello, senza un terzo verbo colorato. Il saggio finisce obbedendo a se stesso.
+
+ex1:
+- Said leaves the tone to the quoted words; whispered, snapped and hissed are stage directions, and too many of them turn the page into a radio play.
+  it: Said lascia il tono alle parole citate; whispered, snapped e hissed sono indicazioni di scena, e troppe trasformano la pagina in uno spettacolo radiofonico.
+- Hissed wants anger and a short distance; writers often use it for "said angrily," and the snake enters whether the sentence earned a fang or not.
+  it: Hissed vuole rabbia e una distanza corta; gli scrittori lo usano spesso per «said angrily», e il serpente entra sia che la frase si sia guadagnata una zanna sia che no.
+- "The figures are fine," he claimed, is already an argument; the same words with said leave the fight for the next line.
+  it: «Le cifre sono a posto», he claimed, è già una discussione; le stesse parole con said lasciano la lotta alla riga dopo.
+- Keep whispered when the baby has just settled, or hissed when the microphone is still live; those verbs name a physical fact.
+  it: Tieni whispered quando il bambino si è appena addormentato, o hissed quando il microfono è ancora acceso; quei verbi nominano un fatto fisico.
+- In the coffee scene they restored said, cut the snakes, and left one snapped for the moment the wrong milk arrived.
+  it: Nella scena del caffè rimisero said, tagliarono i serpenti, e lasciarono un snapped per il momento in cui arrivò il latte sbagliato.
+
+ex2:
+- Said is the [invisible] verb of speech, and good prose often leaves it that way on purpose.
+  it: Said è il verbo invisibile del discorso, e la buona prosa spesso lo lascia così apposta.
+- Muttered is speech half-kept for the self; [snapped] is short and sharp.
+  it: Borbottare è parlare tenendo le parole mezze per sé; rispondere secco è corto e tagliente.
+- Suggested, insisted and claimed put the author's [thumb] on the scale.
+  it: Suggested, insisted e claimed mettono il pollice dell'autore sul piatto della bilancia.
+- Reporting verbs are a precision tool, not a [firework] box.
+  it: I verbi di discorso sono uno strumento di precisione, non una scatola di fuochi d'artificio.
+- Write said, and make the sentence inside the marks interesting enough that nobody looks at the [frame].
+  it: Scrivi said, e rendi la frase dentro le virgolette abbastanza interessante da far sì che nessuno guardi la cornice.
+
+tasks:
+- "You took the last biscuit," Maya said. "I was saving it," Tom said. "You always say that," Maya said. "Then hide them," Tom said. "I shouldn't have to hide biscuits in my own kitchen," Maya said. "It's a shared flat," Tom said. "Shared means counted," Maya snapped. "Fine," Tom said. "I'm sorry." "Say it to the tin," Maya said. He did.
+  task.it: Riporta un litigio breve (cucina, ufficio, o coda) in inglese, intorno alle 100-120 parole, usando said quasi sempre. Al massimo uno o due verbi di discorso «colorati», e solo se il come del parlare è un fatto che le sole parole non portano. Niente hissed a ogni riga. Niente discorso indiretto lungo al posto delle battute.
+  rubric.it: Si capisce di che litigio si tratta e come finisce; said è il verbo ordinario, e i colorati (se ci sono) sono pochi e guadagnati; le battute portano il tono da sole il più possibile; l'inglese è naturale e britannico dove conta (flat, biscuit, queue...); non è una lista di sinonimi di said messi a dimostrazione.
+
+== 33 C2
+numeral: Lesson Thirty-Three
+title: The translator's dilemma
+title.it: Il dilemma del traduttore
+
+dialogue:
+- On Monday the word was still only a word, and by Friday it had become furniture.
+  it: Di lunedì la parola era ancora solo una parola, e entro venerdì era diventata un mobile.
+- Elena translated literary Italian into English for a London publisher, and the novel on her desk was a short one, which was how the trouble found the space to grow.
+  it: Elena traduceva italiano letterario in inglese per un editore di Londra, e il romanzo sulla scrivania era corto, ed era così che il guaio trovò lo spazio per crescere.
+- The sentence sat in the middle of chapter four: the mother looked at her son with a feeling the Italian named in one breath, and English kept offering her two, or three, or a shrug.
+  it: La frase stava in mezzo al capitolo quattro: la madre guardava il figlio con un sentimento che l'italiano nominava in un solo fiato, e l'inglese le offriva due, o tre, o un'alzata di spalle.
+- The word was "sgomento".
+  it: La parola era «sgomento».
+- Dictionaries gave dismay, consternation, shock, and none of them had the mother's face in them.
+  it: I dizionari davano dismay, consternation, shock, e nessuno di essi aveva in sé la faccia della madre.
+- Dismay was too public; consternation wore a suit; shock was a voltage, and the boy had only come home late.
+  it: Dismay era troppo pubblico; consternation indossava un completo; shock era una tensione elettrica, e il ragazzo era solo tornato tardi.
+- She tried "a look of dismay" and deleted it before the kettle boiled.
+  it: Provò «a look of dismay» e lo cancellò prima che bollisse il bollitore.
+- On Tuesday she wrote "stricken", then "floored", then "quietly undone", and the margin filled with ghosts of near-misses.
+  it: Di martedì scrisse «stricken», poi «floored», poi «quietly undone», e il margine si riempì di fantasmi di colpi mancati di poco.
+- Floored was comic; stricken was biblical; quietly undone was a short story hiding inside an adverb.
+  it: Floored era comico; stricken era biblico; quietly undone era un racconto breve nascosto dentro un avverbio.
+- The publisher's style sheet said: prefer the precise word to the decorative one.
+  it: Il foglio di stile dell'editore diceva: preferisci la parola precisa a quella decorativa.
+- Elena underlined precise until the page tore a little.
+  it: Elena sottolineò precise finché la pagina non si strappò un poco.
+- On Wednesday she rang an English friend who had lived in Bologna and asked what face "sgomento" made.
+  it: Di mercoledì telefonò a un'amica inglese che aveva vissuto a Bologna e le chiese che faccia facesse «sgomento».
+- The friend said, "The face you make when the train is cancelled and also when your child is safe but late, and English has the late train and not quite the child."
+  it: L'amica disse: «La faccia che fai quando il treno è cancellato e anche quando tuo figlio è sano e salvo ma in ritardo, e l'inglese ha il treno in ritardo e non del tutto il figlio.»
+- That helped, and it did not finish the sentence.
+  it: Quello aiutò, e non finì la frase.
+- She walked to the park and said the Italian aloud under a plane tree, to see whether the air would offer an English cousin.
+  it: Andò al parco e disse l'italiano ad alta voce sotto un platano, per vedere se l'aria offrisse un cugino inglese.
+- A dog looked up, which was not a translation.
+  it: Un cane alzò lo sguardo, il che non era una traduzione.
+- On Thursday she tried leaving the word in Italian, with a footnote, and felt the cheat of it: the novel was not a menu.
+  it: Di giovedì provò a lasciare la parola in italiano, con una nota a piè di pagina, e sentì l'imbroglio: il romanzo non era un menu.
+- Footnotes are honest about loss; they are also a door the reader may refuse to open in chapter four.
+  it: Le note a piè di pagina sono oneste sulla perdita; sono anche una porta che il lettore può rifiutarsi di aprire al capitolo quattro.
+- She wrote: "Her face showed something between alarm and tenderness, for which English had no single noun."
+  it: Scrisse: «In faccia aveva qualcosa fra allarme e tenerezza, per cui l'inglese non aveva un nome solo.»
+- That was a translator's essay wearing a character's cheekbones, and she deleted it with feeling.
+  it: Quello era un saggio da traduttrice che indossava gli zigomi di un personaggio, e lo cancellò con trasporto.
+- On Friday morning the sentence still waited.
+  it: Venerdì mattina la frase aspettava ancora.
+- She made tea, opened the window, and translated the rest of the page first, as if the difficult word might slip into place when it was no longer watched.
+  it: Fece il tè, aprì la finestra, e tradusse prima il resto della pagina, come se la parola difficile potesse scivolare al suo posto quando non era più sorvegliata.
+- The boy put his keys in the bowl; the mother asked if he wanted soup; the ordinary verbs behaved.
+  it: Il ragazzo mise le chiavi nella ciotola; la madre chiese se voleva della zuppa; i verbi ordinari si comportarono.
+- Then she typed: "She looked at him, aghast and soft at once."
+  it: Poi batté: «She looked at him, aghast and soft at once.»
+- Aghast held the shock without the voltage; soft held what dismay had dropped on the floor.
+  it: Aghast teneva lo shock senza la tensione elettrica; soft teneva ciò che dismay aveva lasciato cadere per terra.
+- It was not "sgomento"; it was a polite neighbour who would sit with the loss through the paragraph.
+  it: Non era «sgomento»; era un vicino educato che avrebbe tenuto compagnia alla perdita per tutto il paragrafo.
+- She left it, saved the file, and wrote in her notebook: some words do not cross; you build a bridge and feel the river under it.
+  it: La lasciò, salvò il file, e scrisse sul taccuino: alcune parole non attraversano; costruisci un ponte e senti il fiume sotto.
+- On Saturday the publisher sent a note: "Loved aghast and soft — exact."
+  it: Di sabato l'editore mandò un messaggio: «Loved aghast and soft — exact.»
+- Elena laughed, because exact was the word that had torn the page, and because the river was still there, under the bridge, saying sgomento to itself in the dark.
+  it: Elena rise, perché exact era la parola che aveva strappato la pagina, e perché il fiume c'era ancora, sotto il ponte, e diceva sgomento tra sé al buio.
+
+notes.it:
+1. by Friday it had become furniture: la parola difficile diventa mobile, sta nella stanza tutta la settimana. Short novel: il romanzo corto lascia spazio al guaio. Literary Italian into English: direzione della traduzione, Londra.
+2. named in one breath... two, or three, or a shrug: l'italiano ha un fiato solo; l'inglese offre perifrasi o un'alzata di spalle. Chapter four: il luogo del nodo. Lo sguardo della madre è tenero e insieme sbigottito, e questo doppio fondo è la difficoltà.
+3. The word was "sgomento": sgomento in italiano è turbamento forte, sbigottimento con una nota di smarrimento, non solo paura. Dictionaries: dismay, consternation, shock. None had the mother's face: il dizionario dà direzioni, non la scena.
+4. Dismay too public; consternation wore a suit; shock was a voltage: tre rifiuti motivati. Public: troppo da annuncio. Suit: troppo formale. Voltage: troppo elettrico per un ritardo. Boy had only come home late: il fatto è piccolo; la parola italiana è grande in un altro modo.
+5. stricken... floored... quietly undone: near-misses. Biblical, comic, short story in an adverb: ogni candidato porta un registro sbagliato. Style sheet: prefer the precise word (tema della settimana). Underlined precise until the page tore: ironia su precise.
+6. what face "sgomento" made: chiedere la faccia, non il sinonimo. Late train and not quite the child: l'amica inglese misura il buco. Helped, and it did not finish the sentence: aiuto senza soluzione.
+7. plane tree... dog looked up: scena comica: l'aria non traduce. Leaving the word in Italian with a footnote: onesto sulla perdita, ma il romanzo non è un menu (the novel was not a menu), e al capitolo quattro il lettore può non aprire la porta.
+8. something between alarm and tenderness... no single noun: perifrasi da saggio. Wearing a character's cheekbones: la spiegazione indossa la faccia del personaggio, e non deve. Deleted it with feeling: cancellare è parte del mestiere.
+9. translated the rest of the page first: trucco da laboratorio, non guardare il nodo. Ordinary verbs behaved: keys, soup. Then aghast and soft at once: due parole inglesi per un fiato italiano. Aghast: sbigottito, senza lo shock da corrente. Soft: tiene la tenerezza che dismay perde.
+10. polite neighbour who would sit with the loss: non è l'equivalente; è un vicino che convive con la perdita. Bridge and river: metafora finale della traduzione. Some words do not cross: certe parole non passano il fiume.
+11. Loved aghast and soft — exact: l'editore usa exact, la parola del foglio di stile che aveva strappato la pagina. Battuta: exact detto di un compromesso. The river was still there... saying sgomento to itself: la perdita resta, anche quando la traduzione «funziona». Traduttore, traditore è il proverbio; qui il tradimento è nominato come fiume, non come colpa.
+
+ex1:
+- By Friday the Italian word on Elena's desk had become furniture, and the short novel had given the trouble room to grow.
+  it: Entro venerdì la parola italiana sulla scrivania di Elena era diventata un mobile, e il romanzo corto aveva dato al guaio spazio per crescere.
+- Dismay was too public, consternation wore a suit, and shock was a voltage for a boy who had only come home late.
+  it: Dismay era troppo pubblico, consternation indossava un completo, e shock era una tensione elettrica per un ragazzo che era solo tornato tardi.
+- Her English friend said sgomento was the face of a cancelled train and also of a child safe but late, and that English had the train more than the child.
+  it: L'amica inglese disse che sgomento era la faccia del treno cancellato e anche del figlio sano e salvo ma in ritardo, e che l'inglese aveva il treno più del figlio.
+- A footnote would have been honest about the loss, and a door the reader might not open in chapter four; the novel was not a menu.
+  it: Una nota a piè di pagina sarebbe stata onesta sulla perdita, e una porta che il lettore poteva non aprire al capitolo quattro; il romanzo non era un menu.
+- She typed "aghast and soft at once," which was not sgomento but a neighbour who would sit with the loss, and the publisher called it exact.
+  it: Batté «aghast and soft at once», che non era sgomento ma un vicino che avrebbe tenuto compagnia alla perdita, e l'editore lo chiamò exact.
+
+ex2:
+- On Monday the word was still only a word, and by Friday it had become [furniture].
+  it: Di lunedì la parola era ancora solo una parola, e entro venerdì era diventata un mobile.
+- Consternation [wore] a suit; shock was a voltage.
+  it: Consternation indossava un completo; shock era una tensione elettrica.
+- She tried leaving the word in Italian, with a [footnote], and felt the cheat of it.
+  it: Provò a lasciare la parola in italiano, con una nota a piè di pagina, e sentì l'imbroglio.
+- Aghast held the shock without the voltage; soft held what dismay had [dropped] on the floor.
+  it: Aghast teneva lo shock senza la tensione elettrica; soft teneva ciò che dismay aveva lasciato cadere per terra.
+- Some words do not cross; you build a [bridge] and feel the river under it.
+  it: Alcune parole non attraversano; costruisci un ponte e senti il fiume sotto.
+
+tasks:
+- Magari: often "maybe", but also a soft wish ("magari!"), not the same as perhaps in every room. Pazienza: "patience", and also the shrug that ends a quarrel without a winner. Boh: a spoken shrug, "dunno", lighter than I don't know in a suit. Aperitivo: the drink, and the hour; drink alone loses the street. Sprezzatura: practised ease; effortlessness that took work; English needs a phrase, not a twin.
+  task.it: Traduci in inglese queste cinque parole italiane, ciascuna con una o due frasi di spiegazione sul perché non basta un sinonimo solo: magari, pazienza, boh, aperitivo, sprezzatura. Registro chiaro, da nota a un amico che traduce. Intorno alle 100-130 parole in tutto.
+  rubric.it: Le cinque parole ci sono tutte, ciascuna con una resa e un perché; non dai un unico equivalente come se bastasse sempre; l'inglese è naturale; si capisce almeno un contesto in cui la parola italiana fa un lavoro in più; non ricicli sgomento come se fosse nella lista.
+
+== 34 C2
+numeral: Lesson Thirty-Four
+title: The thesaurus
+title.it: Il thesaurus
+
+dialogue:
+- It has been brought to our cognisance that a certain practitioner of the pen, hereafter the Author, has entered into an exclusive and deleterious compact with a thesaurus.
+  it: È stato portato a nostra conoscenza che un certo cultore della penna, d'ora in poi l'Autore, ha stipulato un patto esclusivo e dannoso con un thesaurus.
+- Every morning the Author opens the device, selects a humble word, and replaces it with a cousin of higher birth and lower usefulness.
+  it: Ogni mattina l'Autore apre lo strumento, seleziona una parola umile, e la sostituisce con un cugino di nascita più alta e di utilità più bassa.
+- Thus breakfast becomes the morning repast; a bus becomes a public conveyance; rain becomes precipitation of a regrettable character.
+  it: Così breakfast diventa the morning repast; un autobus diventa a public conveyance; la pioggia diventa precipitation of a regrettable character.
+- The Author's cat, once a cat, is now a domestic feline companion of small stature, which refuses to answer to any of those syllables.
+  it: Il gatto dell'Autore, un tempo a cat, è ora a domestic feline companion of small stature, che rifiuta di rispondere a qualunque di quelle sillabe.
+- Friends who telephone are informed that the Author is presently engaged in the elaboration of narrative prose, and they hang up, which the Author records as a cessation of oral communication initiated by the external party.
+  it: Gli amici che telefonano vengono informati che l'Autore is presently engaged in the elaboration of narrative prose, e riattaccano, il che l'Autore registra come a cessation of oral communication initiated by the external party.
+- At the corner shop the Author requests a loaf of artisanally conceived wheat-based sustenance, and the baker, who is a patient man, hands over bread.
+  it: Al negozio all'angolo l'Autore richiede a loaf of artisanally conceived wheat-based sustenance, e il fornaio, che è un uomo paziente, porge del pane.
+- "Bread," says the baker.
+  it: «Bread», dice il fornaio.
+- "Indeed," says the Author, wounded, "the item to which I had allusion."
+  it: «Indeed», dice l'Autore, ferito, «the item to which I had allusion.»
+- The compact has a clause the Author did not read: the thesaurus does not distinguish register.
+  it: Il patto ha una clausola che l'Autore non ha letto: il thesaurus non distingue il registro.
+- It will offer commence beside start, purchase beside buy, and residence beside flat, as if a kitchen and a contract were the same room.
+  it: Offrirà commence accanto a start, purchase accanto a buy, e residence accanto a flat, come se una cucina e un contratto fossero la stessa stanza.
+- The Author's novel, in draft, now contains a detective who perambulates, a victim who expires, and a kettle that issues a susurration upon reaching the appropriate thermal condition.
+  it: Il romanzo dell'Autore, in bozza, ora contiene un detective who perambulates, a victim who expires, e a kettle that issues a susurration upon reaching the appropriate thermal condition.
+- The editor returns the manuscript with a single query in the margin: "Is anyone alive in here?"
+  it: L'editor restituisce il manoscritto con una sola domanda a margine: «Is anyone alive in here?»
+- The Author, affronted, consults the thesaurus under alive and inserts "possessed of vital faculties."
+  it: L'Autore, offeso, consulta il thesaurus sotto alive e inserisce «possessed of vital faculties.»
+- The editor resigns from the sentence and takes up gardening.
+  it: L'editor si dimette dalla frase e si mette a fare giardinaggio.
+- We, who observe this tragedy from a safe distance, propose a modest counter-measure.
+  it: Noi, che osserviamo questa tragedia da una distanza di sicurezza, proponiamo una modesta contro-misura.
+- Let every thesaurus sold in this kingdom carry a warning on the cover, in words of one syllable where possible: these are options, not orders; a long word is not a better word; your cat is still a cat.
+  it: Ogni thesaurus venduto in questo regno porti un avviso in copertina, in parole di una sillaba dove possibile: these are options, not orders; a long word is not a better word; your cat is still a cat.
+- Let schoolchildren learn that commence is for ceremonies and start is for Mondays.
+  it: I bambini a scuola imparino che commence è per le cerimonie e start per i lunedì.
+- Let the Author, if he must open the device, ask first what room the sentence is standing in: a pub, a court, a love letter, a bus stop.
+  it: L'Autore, se proprio deve aprire lo strumento, chieda prima in che stanza sta la frase: un pub, un tribunale, una lettera d'amore, una fermata dell'autobus.
+- A word hired from a list without that question will arrive in the wrong coat, and the reader will feel the draft under the door.
+  it: Una parola presa in affitto da un elenco senza quella domanda arriverà col cappotto sbagliato, e il lettore sentirà lo spiffero sotto la porta.
+- The Author, hearing of our proposal, declared it a suggestion of considerable merit and immediately rewrote it as a proposition of not inconsiderable efficaciousness.
+  it: L'Autore, sentita la nostra proposta, la dichiarò a suggestion of considerable merit e subito la riscrisse come a proposition of not inconsiderable efficaciousness.
+- We have therefore stolen his kettle.
+  it: Abbiamo quindi rubato il suo bollitore.
+- It still issues a susurration when hot, but we call the sound a whistle, and tea tastes the same.
+  it: Emette ancora a susurration quando è caldo, ma noi chiamiamo il suono a whistle, e il tè ha lo stesso sapore.
+- The cat has come with us.
+  it: Il gatto è venuto con noi.
+- It answers to "cat."
+  it: Risponde a «cat.»
+- The Author, alone with his thesaurus, is currently composing a missive of regret regarding the unanticipated relocation of a domestic heating vessel for aqueous infusion.
+  it: L'Autore, solo col suo thesaurus, is currently composing a missive of regret regarding the unanticipated relocation of a domestic heating vessel for aqueous infusion.
+- We translate freely: he wants his kettle back.
+  it: Traduciamo liberamente: rivuole il suo bollitore.
+- He may have it when he can ask for it in words that would not frighten a baker.
+  it: Può riaverlo quando saprà chiederlo con parole che non spaventerebbero un fornaio.
+- Until then, the morning repast continues without him, and the public conveyance runs on time.
+  it: Fino ad allora, the morning repast continua senza di lui, e the public conveyance è in orario.
+- Precipitation of a regrettable character is forecast for the afternoon; we shall call it rain, and take an umbrella.
+  it: Precipitation of a regrettable character è prevista per il pomeriggio; noi la chiameremo rain, e prenderemo un ombrello.
+
+notes.it:
+1. brought to our cognisance... hereafter the Author: la satira apre in registro legale-burocratico (lezione 5, officialese). Cognisance, hereafter, deleterious compact: parole pesanti per dire «abbiamo saputo che uno scrittore ha fatto un patto stupido col thesaurus». Practitioner of the pen: perifrasi pomposa per writer.
+2. cousin of higher birth and lower usefulness: il sinonimo «nobile» e meno utile. Morning repast, public conveyance, precipitation of a regrettable character: calchi da thesaurus su breakfast, bus, rain. La battuta è che le perifrasi non aggiungono senso.
+3. domestic feline companion of small stature: perifrasi per cat. Refuses to answer: il gatto non riconosce le sillabe lunghe. Registro: la cosa viva rifiuta il cappotto sbagliato.
+4. cessation of oral communication initiated by the external party: «hanno riattaccato», detto come verbale. Presently engaged in the elaboration of narrative prose: «sto scrivendo». Hang up è il fatto; la perifrasi è il costume.
+5. artisanally conceived wheat-based sustenance: pane, al fornaio. Baker... hands over bread: il fornaio traduce in una parola. "Bread," says the baker / "Indeed"... "the item to which I had allusion.": scontro di registro in due battute. Allusion sbagliato per «riferimento»; il thesaurus ha già corrotto anche il parlato.
+6. the thesaurus does not distinguish register: tesi della satira. Commence/start, purchase/buy, residence/flat: coppie dove il «sinonimo» cambia stanza (cerimonia/lunedì, contratto/cucina). Flat è l'appartamento britannico.
+7. perambulates... expires... susurration upon reaching the appropriate thermal condition: cammina, muore, fischia (il bollitore). Is anyone alive in here?: l'editor chiede vita. Possessed of vital faculties: l'Autore peggiora consultando di nuovo il thesaurus. Editor resigns from the sentence: si dimette dalla frase, iperbole comica.
+8. modest counter-measure: eco della modest proposal (lezione 12), satira con proposta. Warning: options, not orders; long word is not a better word; cat is still a cat. Words of one syllable: il rimedio è plain English.
+9. commence is for ceremonies and start is for Mondays: stessa distinzione pratica della settimana (peso, stanza, collocation). What room the sentence is standing in: pub, court, love letter, bus stop. Hired from a list: metafora della lezione 29. Draft under the door: spiffero, il lettore sente il registro falso.
+10. suggestion of considerable merit → proposition of not inconsiderable efficaciousness: litote gonfia e sinonimi a catena; l'Autore «migliora» anche la nostra proposta. Stolen his kettle: svolta pratica. Whistle, not susurration: plain word. Cat answers to "cat."
+11. missive of regret... domestic heating vessel for aqueous infusion: lettera di scuse per il bollitore, in perifrasi. We translate freely: he wants his kettle back: la satira fa da traduttore inverso (lezione 33). Words that would not frighten a baker: criterio finale. Morning repast / public conveyance / rain: chiusura sulle tre perifrasi dell'inizio, e noi scegliamo rain e l'ombrello.
+
+ex1:
+- The Author replaced breakfast, bus and rain with morning repast, public conveyance and precipitation of a regrettable character, and none of them fed him, moved him or kept him dry any better.
+  it: L'Autore sostituì breakfast, bus e rain con morning repast, public conveyance e precipitation of a regrettable character, e nessuna di esse lo nutrì, lo spostò o lo tenne asciutto meglio di prima.
+- At the shop he asked for artisanally conceived wheat-based sustenance, and the baker handed him bread.
+  it: Al negozio chiese artisanally conceived wheat-based sustenance, e il fornaio gli porse del pane.
+- The thesaurus offered commence beside start and residence beside flat, as if a ceremony and a kitchen were the same room.
+  it: Il thesaurus offriva commence accanto a start e residence accanto a flat, come se una cerimonia e una cucina fossero la stessa stanza.
+- In the draft the kettle issued a susurration upon reaching the appropriate thermal condition; the editor asked if anyone was alive in there.
+  it: In bozza il bollitore issued a susurration upon reaching the appropriate thermal condition; l'editor chiese se lì dentro ci fosse qualcuno vivo.
+- We stole the kettle, called the sound a whistle, and said he could have it back when he could ask without frightening a baker.
+  it: Rubammo il bollitore, chiamammo il suono a whistle, e dicemmo che poteva riaverlo quando avrebbe saputo chiedere senza spaventare un fornaio.
+
+ex2:
+- Every morning the Author replaces a humble word with a cousin of higher birth and lower [usefulness].
+  it: Ogni mattina l'Autore sostituisce una parola umile con un cugino di nascita più alta e di utilità più bassa.
+- The compact has a clause he did not read: the thesaurus does not distinguish [register].
+  it: Il patto ha una clausola che non ha letto: il dizionario dei sinonimi non distingue il registro.
+- The editor returns the manuscript with a single query: "Is anyone [alive] in here?"
+  it: L'editor restituisce il manoscritto con una sola domanda: «Qui dentro c'è qualcuno vivo?»
+- A long word is not a [better] word; your cat is still a cat.
+  it: Una parola lunga non è una parola migliore; il tuo gatto è ancora un gatto.
+- Until he can ask in plain words, the morning [repast] continues without him.
+  it: Finché non sa chiedere in parole piane, il «pasto mattutino» continua senza di lui.
+
+tasks:
+- The Author had breakfast. He took a bus in the rain. His cat ignored him. Friends rang and hung up when he said he was writing. At the baker's he asked for bread and got it. His detective walked, his victim died, and the kettle whistled when it was hot. He wanted the kettle back. It was raining; we took an umbrella.
+  task.it: Riscrivi in inglese piano il pezzo satirico dell'Autore e del thesaurus (colazione, autobus, pioggia, gatto, amici, fornaio, detective, vittima, bollitore, ombrello). Intorno alle 80-100 parole. Niente morning repast, public conveyance, susurration o heating vessel. Stessi fatti, registro da racconto chiaro.
+  rubric.it: I fatti ci sono tutti; il registro è plain English, britannico dove conta (bus, kettle, baker); non restano perifrasi da thesaurus; l'inglese è naturale; si capisce la stessa storia senza il costume burocratico.
+
+== 35 C2
+kind: revision
+numeral: Lesson Thirty-Five
+title: Revision
+title.it: Ripasso
+
+dialogue:
+- First draft.
+  it: Prima bozza.
+  refs: 34
+- Dear Maya, I wish to express my most considerable gratitude for the great big enormous favour you rendered when you made a decision regarding the public conveyance and the morning repast.
+  it: Cara Maya, desidero esprimere la mia gratitudine più considerevole per il grande grosso enorme favore che hai reso quando hai fatto una decisione riguardo al mezzo pubblico e al pasto mattutino.
+  refs: 29 30 34
+- Second draft.
+  it: Seconda bozza.
+  refs: 31
+- Dear Maya, Thank you for the ancient, crumbling, soft, grey, melancholy help with the bus and breakfast.
+  it: Cara Maya, grazie per l'aiuto antico, fatiscente, morbido, grigio e malinconico con l'autobus e la colazione.
+  refs: 31 34
+- Third draft.
+  it: Terza bozza.
+  refs: 32
+- "Thank you," I hissed. "You took a decision," I snapped. "The bus came," I muttered. "Breakfast was ready," I blurted.
+  it: «Grazie», sibilai. «Hai preso una decisione», tagliai corto. «L'autobus è arrivato», borbottai. «La colazione era pronta», buttai fuori.
+  refs: 30 32
+- Fourth draft.
+  it: Quarta bozza.
+  refs: 33
+- Dear Maya, When the train of the morning was cancelled in my chest, I felt a sgomento for which English had no single noun, and you stood in the mist of the stop with the keys.
+  it: Cara Maya, quando il treno della mattina fu cancellato nel mio petto, sentii uno sgomento per cui l'inglese non aveva un nome solo, e tu stavi nella foschia della fermata con le chiavi.
+  refs: 33
+- Fifth draft.
+  it: Quinta bozza.
+  refs: 29 30 31
+- Dear Maya, Thank you for the big favour: you took a decision about the bus while I was still choosing coats for the sentence.
+  it: Cara Maya, grazie per il grande favore: hai preso una decisione sull'autobus mentre io sceglievo ancora i cappotti per la frase.
+  refs: 29 30 31
+- You booked the table; you did not make a reservation at a café that had not asked to speak hotel.
+  it: Hai prenotato il tavolo; non hai usato make a reservation in un café che non aveva chiesto di parlare da hotel.
+  refs: 30
+- The church of my first draft stood in a fog of adjectives; you cut it to mist, and the stone could wait for the next line.
+  it: La chiesa della mia prima bozza stava in una nebbia di aggettivi; tu l'hai tagliata a mist, e la pietra poteva aspettare la riga dopo.
+  refs: 31
+- I nearly wrote that you whispered thanks into the margin; you said, "Send it," and said was enough.
+  it: Per poco non scrivevo che avevi sussurrato grazie a margine; hai detto «Send it», e said bastava.
+  refs: 32
+- Aghast and soft was what my face did when the bus doors opened; I leave sgomento under the bridge.
+  it: Aghast and soft era quello che faceva la mia faccia quando si aprirono le porte dell'autobus; sgomento lo lascio sotto il ponte.
+  refs: 33
+- The thesaurus offered me morning repast and public conveyance; I stole back breakfast and bus, and the cat answered to cat.
+  it: Il thesaurus mi offriva morning repast e public conveyance; mi sono ripreso breakfast e bus, e il gatto ha risposto a cat.
+  refs: 34
+- Final draft.
+  it: Bozza finale.
+  refs: 29 30 31 32 33 34
+- Dear Maya, Thank you for the big favour.
+  it: Cara Maya, grazie per il grande favore.
+  refs: 29
+- You took a decision about the bus, booked the table, and left the kettle to whistle in plain English.
+  it: Hai preso una decisione sull'autobus, hai prenotato il tavolo, e hai lasciato che il bollitore fischiasse in inglese piano.
+  refs: 30 34
+- I had written eight opinions onto one kindness; you cut them until the sentence trusted the next one.
+  it: Avevo scritto otto opinioni su una sola gentilezza; tu le hai tagliate finché la frase si è fidata di quella dopo.
+  refs: 31
+- Precision was not the longest synonym; it was the right weight for the room.
+  it: La precisione non era il sinonimo più lungo; era il peso giusto per la stanza.
+  refs: 29
+- "Send it," you said.
+  it: «Send it», hai detto.
+  refs: 32
+- I did.
+  it: L'ho fatto.
+  refs: 32
+- The river under the bridge is still there; the letter no longer tries to drink it dry.
+  it: Il fiume sotto il ponte c'è ancora; la lettera non prova più a berlo fino in fondo.
+  refs: 33
+- Collocation, as you put it in the margin, is traffic, not elegance.
+  it: La collocazione, come hai scritto a margine, è traffico, non eleganza.
+  refs: 30
+- Yours, Tom.
+  it: Tuo, Tom.
+  refs: 31
+
+notes.it:
+Non c'è una regola nuova. La settimana ha chiesto la parola precisa: quasi-sinonimi, collocazioni, aggettivi guadagnati, verbi di discorso, intraducibili, registro contro il thesaurus. Qui una lettera di ringraziamento passa per quattro bozze sbagliate prima di pesare giusto. Se due mosse ti sembrano la stessa, guardale in tabella.
+
+1. Quasi-sinonimi (lezione 29). Big, large e great non si scambiano. Big favour è il cappotto quotidiano; large favour suona rigido. Il test è il nome accanto, non l'elenco del thesaurus.
+
+| Coppia | Dove sta | Controesempio | Lezione |
+|---|---|---|---|
+| big / large | big favour, big news / large number, large audience (report) | large favour, large news | 29 |
+| great / big | great novel, great deal of / big mistake, big sister | great sandwich (se intendi i centimetri) | 29 |
+| tall / high | tall man / high shelf, high praise | a high man (salvo volo) | 29 |
+| little / small | little house (affetto) / small house (misura) | — | 29 |
+
+Nella quinta bozza big favour è la scelta; great big enormous della prima era tre cappotti sullo stesso nome.
+
+2. Collocazioni (lezione 30). Il verbo sposa il nome. Make/take a decision convivono in britannico; do a decision no. Take a photo, throw a party, book a table, go on holiday, pay attention.
+
+| Sbagliato | Giusto | Stanza |
+|---|---|---|
+| make a photo | take a photo | ovunque |
+| do a decision | make / take a decision | cucina / boardroom |
+| make a reservation (café) | book a table | Gran Bretagna quotidiana |
+| make attention | pay attention | — |
+| gotten (mira BrE) | got | scritto britannico |
+
+Nella lettera: took a decision, booked the table. La prima bozza mescolava make a decision con public conveyance: verbo forse giusto, nome già da thesaurus.
+
+3. Concisione (lezione 31). L'aggettivo resta se cambia ciò che daremmo per scontato. Soft, grey, melancholy mist erano tre cappotti; the church stood in the mist bastava. Very e rather non si salvano per pietà.
+
+| Mossa | Esempio della settimana | Nel ripasso |
+|---|---|---|
+| otto opinioni | ancient, crumbling, weather-stained... | eight opinions onto one kindness |
+| taglio a sei (o meno) | The church stood in the mist | Thank you for the big favour |
+| spazio bianco | room where the reader enters | the sentence trusted the next one |
+| No a very | May I keep one very? No. | niente very nella finale |
+
+La seconda bozza è la chiesa piena di aggettivi spostata sul thanks; la quinta e la finale fanno il taglio.
+
+4. Verbi di discorso (lezione 32). Said è invisibile apposta. Hissed, snapped, muttered, blurted sono indicazioni di scena; si tengono quando il come è un fatto fisico, non un adesivo di umore.
+
+| Verbo | Quando | Abuso |
+|---|---|---|
+| said | quasi sempre | trattato come macchia |
+| whispered | bambino, biblioteca, fatto di fiato | su ogni grazie |
+| snapped | il «No» sul latte sbagliato | su ogni battuta |
+| claimed | già una discussione | al posto di said neutro |
+
+La terza bozza è la scena del caffè in guerra: quattro verbi colorati su un ringraziamento. La finale: "Send it," you said.
+
+5. Parole che non attraversano (lezione 33). Sgomento non ha un gemello; aghast and soft è un ponte, e il fiume resta. La nota a piè non è un menu. Exact detto dall'editore può lodare un compromesso.
+
+| Tentativo | Problema | Esito |
+|---|---|---|
+| dismay / shock | pubblico / voltaggio | scartati |
+| footnote con l'italiano | porta che il lettore può non aprire | scartata |
+| aghast and soft | non è sgomento; siede con la perdita | tenuto |
+| saggio sulla faccia del personaggio | zigomi presi in affitto | cancellato |
+
+Nella quarta bozza sgomento resta nudo; nella quinta e nella finale sta sotto il ponte, senza bere il fiume a secco.
+
+6. Thesaurus e registro (lezione 34). Il sinonimo lungo non è migliore. Commence/start, morning repast/breakfast, susurration/whistle: la stanza decide. Avviso: options, not orders; the cat is still a cat.
+
+| Perifrasi | Parola piana | Lezione |
+|---|---|---|
+| morning repast | breakfast | 34 |
+| public conveyance | bus | 34 |
+| precipitation of a regrettable character | rain | 34 |
+| domestic heating vessel... | kettle | 34 |
+| possessed of vital faculties | alive | 34 |
+
+La prima bozza è l'Autore del thesaurus che ringrazia; la finale ruba di nuovo breakfast, bus e whistle. La precisione, in ordine: nome giusto, verbo sposato, aggettivo guadagnato, said enough, ponte sull'intraducibile, registro della stanza.
+
+tasks:
+- 1) a big mistake / a great mistake — coffee on a shirt vs blunder of judgment. 2) large audience (report) / big audience (warm email). 3) take a photo, not make one. 4) make or take a decision; not do one. 5) book a table in Britain. 6) cut soft and melancholy if grey will do. 7) said, unless the how is a physical fact. 8) hissed needs a short distance and a reason. 9) sgomento may need a bridge, not a twin. 10) kettle, not domestic heating vessel for aqueous infusion.
+  task.it: Scegli la parola o la collocazione giusta in questi dieci contesti, in inglese, una o due righe ciascuno: (1) errore sul caffè in camicia; (2) pubblico in una relazione formale; (3) foto di una torta; (4) decisione in cucina; (5) tavolo al ristorante a Londra; (6) foschia in un racconto già pieno di umore; (7) litigio sul latte, battuta «No»; (8) insulto a un metro dal microfono acceso; (9) tenerezza + sbigottimento di una madre; (10) il bollitore fischia. Niente elenco di sinonimi senza stanza.
+  rubric.it: Le dieci scelte ci sono e seguono la settimana (big mistake, large audience, take a photo, make a decision, book a table, taglio degli aggettivi, snapped o said guadagnato, hissed motivato, ponte per sgomento, kettle); ogni riga ha un minimo di contesto; il registro è chiaro; non rimetti morning repast o do a decision; non inventi una regola «always/never» dove la settimana diceva usually.

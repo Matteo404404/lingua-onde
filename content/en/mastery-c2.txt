@@ -1207,3 +1207,805 @@ tasks:
 - 1) a big mistake / a great mistake — coffee on a shirt vs blunder of judgment. 2) large audience (report) / big audience (warm email). 3) take a photo, not make one. 4) make or take a decision; not do one. 5) book a table in Britain. 6) cut soft and melancholy if grey will do. 7) said, unless the how is a physical fact. 8) hissed needs a short distance and a reason. 9) sgomento may need a bridge, not a twin. 10) kettle, not domestic heating vessel for aqueous infusion.
   task.it: Scegli la parola o la collocazione giusta in questi dieci contesti, in inglese, una o due righe ciascuno: (1) errore sul caffè in camicia; (2) pubblico in una relazione formale; (3) foto di una torta; (4) decisione in cucina; (5) tavolo al ristorante a Londra; (6) foschia in un racconto già pieno di umore; (7) litigio sul latte, battuta «No»; (8) insulto a un metro dal microfono acceso; (9) tenerezza + sbigottimento di una madre; (10) il bollitore fischia. Niente elenco di sinonimi senza stanza.
   rubric.it: Le dieci scelte ci sono e seguono la settimana (big mistake, large audience, take a photo, make a decision, book a table, taglio degli aggettivi, snapped o said guadagnato, hissed motivato, ponte per sgomento, kettle); ogni riga ha un minimo di contesto; il registro è chiaro; non rimetti morning repast o do a decision; non inventi una regola «always/never» dove la settimana diceva usually.
+
+== 36 C2
+numeral: Lesson Thirty-Six
+title: The quarterly report
+title.it: La relazione trimestrale
+
+dialogue:
+- To the Board. From the Chief Operating Officer. Subject: Q3 trading update.
+  it: Al Consiglio. Dal direttore operativo. Oggetto: aggiornamento commerciale del terzo trimestre.
+- This note summarises performance in the quarter ended 30 September and sets out the steps we are taking to protect the medium-term position.
+  it: Questa nota riassume i risultati del trimestre chiuso il 30 settembre e illustra le misure che stiamo adottando per tutelare la posizione di medio periodo.
+- Headline revenue was broadly in line with the prior year, once adjustments for one-off items are taken into account.
+  it: Il fatturato complessivo è rimasto sostanzialmente in linea con l'anno precedente, una volta considerate le rettifiche per le voci una tantum.
+- Underlying revenue, on a like-for-like basis, was softer than we had guided in July.
+  it: Il fatturato sottostante, a perimetro omogeneo, è risultato più debole di quanto indicato a luglio.
+- Softness was concentrated in the Northern region, where a combination of weather, competitor activity and a delayed product launch weighed on volumes.
+  it: La debolezza si è concentrata nella regione Nord, dove una combinazione di meteo, attività dei concorrenti e un lancio prodotto in ritardo ha pesato sui volumi.
+- Gross margin held up reasonably well, supported by pricing discipline and a favourable mix in the South.
+  it: Il margine lordo ha tenuto abbastanza bene, sostenuto dalla disciplina dei prezzi e da un mix favorevole nel Sud.
+- Operating costs were elevated, reflecting investment in systems and the temporary duplication of roles during the migration.
+  it: I costi operativi sono risultati elevati, a riflettere gli investimenti nei sistemi e la temporanea duplicazione di ruoli durante la migrazione.
+- We have identified opportunities to streamline the cost base without compromising service quality.
+  it: Abbiamo individuato opportunità per snellire la base costi senza compromettere la qualità del servizio.
+- In practical terms, this will involve a managed reduction of approximately forty roles across support functions, beginning in November.
+  it: In termini pratici, ciò comporta una riduzione gestita di circa quaranta posizioni nelle funzioni di supporto, a partire da novembre.
+- Affected colleagues will be supported through a fair process and, where possible, redeployment.
+  it: I colleghi interessati saranno accompagnati con un processo equo e, dove possibile, con ricollocazione.
+- Cash remains adequate for day-to-day needs, though free cash flow for the quarter was negative after capital expenditure.
+  it: La liquidità resta adeguata alle esigenze quotidiane, anche se il flusso di cassa libero del trimestre è stato negativo dopo gli investimenti in conto capitale.
+- The Board will note that inventory is higher than planned, largely owing to the delayed launch already mentioned.
+  it: Il Consiglio noterà che le scorte sono più alte del previsto, in gran parte a causa del lancio in ritardo già citato.
+- Customer satisfaction scores remain robust in the South and the Midlands; Northern scores were more mixed.
+  it: I punteggi di soddisfazione dei clienti restano solidi nel Sud e nelle Midlands; quelli del Nord sono stati più misti.
+- We continue to monitor the situation closely and will update the Board should the picture deteriorate further.
+  it: Continuiamo a monitorare la situazione da vicino e aggiorneremo il Consiglio qualora il quadro dovesse deteriorarsi ulteriormente.
+- Looking ahead, we remain cautiously optimistic that volume recovery in the North, together with the cost actions outlined above, will restore momentum in Q4.
+  it: Guardando avanti, restiamo cautamente ottimisti che il recupero dei volumi nel Nord, insieme alle azioni sui costi sopra descritte, ripristinerà lo slancio nel quarto trimestre.
+- Risks to this outlook include a colder autumn, further competitor discounting, and slower-than-expected adoption of the new range.
+  it: I rischi per questa prospettiva includono un autunno più freddo, ulteriori sconti dei concorrenti, e un'adozione della nuova gamma più lenta del previsto.
+- No material litigation is outstanding, and compliance reviews for the period were satisfactory.
+  it: Non risultano contenziosi rilevanti in corso, e le verifiche di conformità del periodo sono state soddisfacenti.
+- Management recommends that the dividend be maintained at the current level, pending clearer evidence of recovery.
+  it: La direzione raccomanda di mantenere il dividendo al livello attuale, in attesa di indizi più chiari di ripresa.
+- A fuller pack of charts will follow under separate cover.
+  it: Un fascicolo più completo di grafici seguirà a parte.
+- For the avoidance of doubt, "softer than guided," in the language of this building, means we missed the number we told the market in July.
+  it: A scanso di equivoci, «softer than guided», nel linguaggio di questo palazzo, significa che abbiamo mancato il numero detto al mercato a luglio.
+- "Elevated" costs means we spent more than we said we would.
+  it: Costi «elevated» significa che abbiamo speso più di quanto detto.
+- "Managed reduction" means redundancies, and "redeployment where possible" means some people will leave.
+  it: «Managed reduction» significa esuberi, e «redeployment where possible» significa che alcune persone se ne andranno.
+- "Cautiously optimistic" means we hope Q4 is kinder, and we have not yet written the sentence that admits we do not know.
+  it: «Cautiously optimistic» significa che speriamo che il quarto trimestre sia più gentile, e non abbiamo ancora scritto la frase che ammette di non saperlo.
+- The honest summary, which will not be circulated, fits on a sticky note.
+  it: Il riassunto onesto, che non circolerà, sta su un foglietto.
+- Sales down in the North; forty jobs to go; cash tight after spending; inventory high; keep the dividend for now; watch the weather and the rivals.
+  it: Vendite in calo nel Nord; quaranta posti da tagliare; cassa stretta dopo le spese; scorte alte; tenere il dividendo per ora; tenere d'occhio il meteo e i rivali.
+- Yours sincerely, and in the passive where it helps,
+  it: Cordiali saluti, e al passivo dove aiuta,
+- The Chief Operating Officer.
+  it: Il direttore operativo.
+
+notes.it:
+1. To the Board. From the Chief Operating Officer. Subject: Q3 trading update: apertura da relazione interna. Board è il consiglio di amministrazione. Chief Operating Officer (COO) è il direttore operativo. Trading update è l'aggiornamento sui risultati commerciali, non un «trade» da negozio. Q3: terzo trimestre. Registro formale da subito.
+2. summarises performance... protect the medium-term position: performance è «risultati» in questo contesto. Medium-term position: la posizione di medio periodo. Protect è già un hedge: non dice «riparare i danni», dice tutelare. Sets out the steps: struttura da report (sintesi, poi misure).
+3. Headline revenue... broadly in line... once adjustments... are taken into account: headline è il numero in cima, prima delle rettifiche. Broadly in line: «sostanzialmente in linea», understatement da report. One-off items: voci una tantum. Taken into account: passivo da verbale. Il buon numero dipende dalle rettifiche.
+4. Underlying... like-for-like... softer than we had guided: underlying toglie le voci straordinarie. Like-for-like: a perimetro omogeneo. Softer: più debole, senza dire «in calo». Guided: le indicazioni date al mercato. Softness è la prima lezione della settimana su come nascondere un obiettivo mancato.
+5. weighed on volumes: pesare sui volumi. Combination of weather, competitor activity and a delayed product launch: tre cause, nessuna colpa nominata. Concentrated in the Northern region: la geografia fa da contenitore del cattivo.
+6. Gross margin held up reasonably well: held up è «ha tenuto». Reasonably well: hedge. Pricing discipline: non alzare sconti a caso. Favourable mix: più prodotti ad alto margine. Il Sud compensa, a parole.
+7. Operating costs were elevated, reflecting investment... temporary duplication of roles: elevated è «alti» detto da relazione. Reflecting: causa addolcita. Investment suona meglio di overspend. Duplication during the migration: doppi stipendi durante un passaggio di sistema.
+8. streamline the cost base without compromising service quality: streamline è «snellire». Cost base: la base costi. Without compromising: formula fissa che precede spesso un taglio. Opportunities to: opportunità, non «dovremo licenziare».
+9. managed reduction of approximately forty roles: managed reduction è il soft coat di redundancy. Approximately: hedge sul numero. Support functions: back office, non vendita. Beginning in November: data concreta sotto il velluto.
+10. fair process... redeployment: fair process è linguaggio da HR e da legge sul lavoro. Redeployment: ricollocamento interno. Where possible: ammette che non sempre. Affected colleagues: i colleghi «interessati», non «licenziati».
+11. Cash remains adequate... free cash flow... was negative after capital expenditure: adequate per day-to-day vs negative free cash flow: due verità, la seconda più dura. Capital expenditure (capex): investimenti. Inventory higher... delayed launch: scorte alte perché il prodotto non è partito.
+12. remain robust... more mixed; monitor... closely; should the picture deteriorate further: robust e mixed sono voti da report. Monitor closely: non abbiamo risolto. Should = if, formale. Deteriorate further: ammette già un peggioramento.
+13. cautiously optimistic... restore momentum: formula tipica delle outlook. Cautiously optimistic suona responsabile e non dice «non sappiamo». Momentum: slancio. Risks to this outlook: elenco rischi che bilancia l'ottimismo senza ritirarlo.
+14. No material litigation... compliance reviews... satisfactory; dividend be maintained... pending clearer evidence: material in legale/finanza = rilevante. Satisfactory: basta, non eccelle. Pending: in attesa. Keep the dividend: segnale politico al Board mentre i numeri sono deboli.
+15. For the avoidance of doubt... softer means we missed the number: la svolta. Come il frigo che rifiuta facility (lezione 5), il COO traduce il proprio officialese. Managed reduction means redundancies: dice la parola vera. Sticky note: riprende il consiglio corto della lezione 30. Passive where it helps: chiusura ironica sul registro che ha usato per tutto il pezzo.
+
+ex1:
+- Headline revenue looked broadly in line with the prior year only after one-off adjustments; underlying sales were softer than the July guidance.
+  it: Il fatturato complessivo sembrava sostanzialmente in linea con l'anno precedente solo dopo le rettifiche una tantum; le vendite sottostanti erano più deboli delle indicazioni di luglio.
+- Softness in the North was blamed on weather, competitors and a delayed launch, a combination that named no single culprit.
+  it: La debolezza nel Nord fu attribuita a meteo, concorrenti e un lancio in ritardo, una combinazione che non nominava un solo colpevole.
+- Elevated operating costs "reflected investment," and the firm found opportunities to streamline the cost base: a managed reduction of about forty support roles.
+  it: I costi operativi elevati «riflettevano investimenti», e l'azienda trovò opportunità per snellire la base costi: una riduzione gestita di circa quaranta ruoli di supporto.
+- Cash was adequate day to day, yet free cash flow was negative after capital expenditure, and inventory sat higher than planned.
+  it: La liquidità era adeguata giorno per giorno, eppure il flusso di cassa libero era negativo dopo gli investimenti, e le scorte restavano più alte del previsto.
+- "Cautiously optimistic" meant hope for Q4; the sticky-note version said sales down, jobs to go, cash tight, and watch the rivals.
+  it: «Cautiously optimistic» voleva dire speranza per il quarto trimestre; la versione da foglietto diceva vendite in calo, posti da tagliare, cassa stretta, e tenere d'occhio i rivali.
+
+ex2:
+- Headline revenue was [broadly] in line with the prior year, once adjustments were taken into account.
+  it: Il fatturato complessivo è rimasto sostanzialmente in linea con l'anno precedente, una volta considerate le rettifiche.
+- Underlying revenue, on a like-for-like basis, was [softer] than we had guided in July.
+  it: Il fatturato sottostante, a perimetro omogeneo, è risultato più debole di quanto indicato a luglio.
+- We have identified opportunities to [streamline] the cost base without compromising service quality.
+  it: Abbiamo individuato opportunità per snellire la base costi senza compromettere la qualità del servizio.
+- Looking ahead, we remain [cautiously] optimistic that volume recovery will restore momentum.
+  it: Guardando avanti, restiamo cautamente ottimisti che il recupero dei volumi ripristinerà lo slancio.
+- For the avoidance of [doubt], "managed reduction" means redundancies.
+  it: A scanso di equivoci, «managed reduction» significa esuberi.
+
+tasks:
+- Q3 missed the July sales guidance in the North. About forty support jobs will go from November, with some redeployment. Day-to-day cash is fine; free cash flow was negative after capex, and stock is too high because the launch slipped. Keep the dividend for now. Watch weather, discounting and slow take-up of the new range. Q4 is a hope, not a fact.
+  task.it: Scrivi il riassunto onesto della relazione trimestrale, in inglese piano, intorno alle 80-100 parole. Niente softer, elevated, managed reduction o cautiously optimistic. Stessi fatti. Registro da nota al Board che finalmente dice le cose in chiaro.
+  rubric.it: I fatti ci sono tutti (Nord, quaranta posti, cassa, scorte, dividendo, rischi); il registro è chiaro e diretto, non da comunicato; non restano gli hedge della relazione; l'inglese è naturale e britannico dove conta; un lettore del Board capirebbe il problema in un minuto.
+
+== 37 C2
+numeral: Lesson Thirty-Seven
+title: Reply all
+title.it: Rispondi a tutti
+
+dialogue:
+- From: Priya Shah. To: All Staff. Subject: Cake in the kitchen — help yourselves.
+  it: Da: Priya Shah. A: Tutto il personale. Oggetto: Torta in cucina — servitevi pure.
+- Hi all, there is leftover birthday cake by the kettle. Please finish it today so it does not see tomorrow.
+  it: Ciao a tutti, c'è della torta di compleanno avanzata vicino al bollitore. Finitela oggi, così non vede il domani.
+- From: James Holt. To: All Staff. Subject: Re: Cake in the kitchen — help yourselves.
+  it: Da: James Holt. A: Tutto il personale. Oggetto: Re: Torta in cucina — servitevi pure.
+- Thanks, Priya. Could colleagues also rinse their mugs after tea? The sink is becoming a second fridge.
+  it: Grazie, Priya. I colleghi potrebbero anche sciacquare le tazze dopo il tè? Il lavandino sta diventando un secondo frigo.
+- From: Helen Okonkwo. To: All Staff. Subject: Re: Cake in the kitchen — help yourselves.
+  it: Da: Helen Okonkwo. A: Tutto il personale. Oggetto: Re: Torta in cucina — servitevi pure.
+- James, the sink is not my department, but since we are on hygiene, the microwave needs a wipe after fish days.
+  it: James, il lavandino non è di mia competenza, ma già che siamo sull'igiene, il microonde va pulito dopo i giorni di pesce.
+- From: James Holt. To: All Staff. Subject: Re: Cake in the kitchen — help yourselves.
+  it: Da: James Holt. A: Tutto il personale. Oggetto: Re: Torta in cucina — servitevi pure.
+- Helen, I was not accusing anyone. I was making a general request. Tone matters in a shared space.
+  it: Helen, non stavo accusando nessuno. Stavo facendo una richiesta generale. Il tono conta in uno spazio condiviso.
+- From: Helen Okonkwo. To: All Staff. Subject: Re: Cake in the kitchen — help yourselves.
+  it: Da: Helen Okonkwo. A: Tutto il personale. Oggetto: Re: Torta in cucina — servitevi pure.
+- So does the smell of last Wednesday's salmon, James. General requests cut both ways.
+  it: Così anche l'odore del salmone di mercoledì scorso, James. Le richieste generali tagliano nei due sensi.
+- From: Marcus Bell. To: All Staff. Subject: Re: Cake in the kitchen — help yourselves.
+  it: Da: Marcus Bell. A: Tutto il personale. Oggetto: Re: Torta in cucina — servitevi pure.
+- Colleagues, can we take the kitchen chat offline? Some of us are on deadline and every reply-all lands on a phone.
+  it: Colleghi, possiamo portare la chat della cucina fuori da questa lista? Alcuni di noi sono in scadenza e ogni rispondi-a-tutti arriva sul telefono.
+- From: James Holt. To: All Staff. Subject: Re: Cake in the kitchen — help yourselves.
+  it: Da: James Holt. A: Tutto il personale. Oggetto: Re: Torta in cucina — servitevi pure.
+- Marcus, if people used Reply instead of Reply All, we would not be here. I am copying Facilities for information.
+  it: Marcus, se la gente usasse Rispondi invece di Rispondi a tutti, non saremmo qui. Metto in copia Facilities per informazione.
+- From: Facilities. To: All Staff. Subject: Re: Cake in the kitchen — help yourselves.
+  it: Da: Facilities. A: Tutto il personale. Oggetto: Re: Torta in cucina — servitevi pure.
+- Noted. Kitchen hygiene reminders are already on the portal. Please do not escalate cake to a ticket unless there is a health risk.
+  it: Preso nota. I richiami sull'igiene della cucina sono già sul portale. Non elevate la torta a un ticket salvo rischio per la salute.
+- From: Helen Okonkwo. To: All Staff. Subject: Re: Cake in the kitchen — help yourselves.
+  it: Da: Helen Okonkwo. A: Tutto il personale. Oggetto: Re: Torta in cucina — servitevi pure.
+- For the record, salmon is not a health risk when the microwave is wiped. I object to the implication.
+  it: Per la cronaca, il salmone non è un rischio per la salute se il microonde viene pulito. Contesto l'implicazione.
+- From: Priya Shah. To: All Staff. Subject: Re: Cake in the kitchen — help yourselves.
+  it: Da: Priya Shah. A: Tutto il personale. Oggetto: Re: Torta in cucina — servitevi pure.
+- Hi again — the cake is almost gone. Sorry this thread grew legs. Happy to wash the plate myself.
+  it: Ciao di nuovo: la torta è quasi finita. Mi dispiace che questo thread abbia preso le gambe. Lavo volentieri il piatto io.
+- From: James Holt. To: All Staff. Cc: Helen Okonkwo; Marcus Bell; Facilities. Subject: Re: Cake in the kitchen — help yourselves.
+  it: Da: James Holt. A: Tutto il personale. Cc: Helen Okonkwo; Marcus Bell; Facilities. Oggetto: Re: Torta in cucina — servitevi pure.
+- Priya, this was never about cake. It is about standards. I will raise the sink at Monday's ops meeting.
+  it: Priya, non si è mai trattato della torta. È una questione di standard. Porterò il lavandino alla riunione operativa di lunedì.
+- From: Helen Okonkwo. To: All Staff. Subject: Re: Cake in the kitchen — help yourselves.
+  it: Da: Helen Okonkwo. A: Tutto il personale. Oggetto: Re: Torta in cucina — servitevi pure.
+- Please remove me from further replies on this. I have work. The microwave is clean. The salmon has left the building.
+  it: Per favore toglietemi dalle risposte successive su questo. Ho da lavorare. Il microonde è pulito. Il salmone ha lasciato l'edificio.
+- From: Marcus Bell. To: All Staff. Subject: Re: Cake in the kitchen — help yourselves.
+  it: Da: Marcus Bell. A: Tutto il personale. Oggetto: Re: Torta in cucina — servitevi pure.
+- Same request from me. Reply All is not a tribunal.
+  it: Stessa richiesta da parte mia. Rispondi a tutti non è un tribunale.
+- From: Office Manager. To: All Staff. Subject: Re: Cake in the kitchen — help yourselves.
+  it: Da: Office Manager. A: Tutto il personale. Oggetto: Re: Torta in cucina — servitevi pure.
+- All, I am closing this thread. Cake is finished. Mugs go in the dishwasher. Microwave wipes are under the sink. Further points go to me privately, not to eighty inboxes.
+  it: A tutti, chiudo questo thread. La torta è finita. Le tazze vanno in lavastoviglie. Le salviette per il microonde sono sotto il lavandino. Altri punti a me in privato, non a ottanta caselle.
+- Thank you, Priya, for the cake, and thank you everyone else for remembering that "Reply All" is a tool, not a stage.
+  it: Grazie, Priya, per la torta, e grazie a tutti gli altri per ricordare che «Rispondi a tutti» è uno strumento, non un palcoscenico.
+- Kind regards, Sam Reed, Office Manager.
+  it: Cordiali saluti, Sam Reed, Office Manager.
+- From: James Holt. To: Sam Reed. Subject: Re: Cake in the kitchen — help yourselves.
+  it: Da: James Holt. A: Sam Reed. Oggetto: Re: Torta in cucina — servitevi pure.
+- Sam, for clarity, I only ever intended a polite nudge. I am happy to discuss mugs on Monday without copying the firm.
+  it: Sam, per chiarezza, intendevo soltanto un richiamo cortese. Discuto volentieri le tazze lunedì senza mettere in copia l'azienda.
+- From: Sam Reed. To: James Holt. Subject: Re: Cake in the kitchen — help yourselves.
+  it: Da: Sam Reed. A: James Holt. Oggetto: Re: Torta in cucina — servitevi pure.
+- Received, James. See you Monday. And next time: Reply, not Reply All, unless the building is on fire.
+  it: Ricevuto, James. A lunedì. E la prossima volta: Rispondi, non Rispondi a tutti, a meno che l'edificio non stia bruciando.
+
+notes.it:
+1. From... To: All Staff. Subject: Cake... help yourselves: intestazione da mail da ufficio. Help yourselves è «servitevi». All Staff è la lista larga: qui nasce il problema. Priya apre in registro amichevole (Hi all, leftover birthday cake).
+2. Please finish it today so it does not see tomorrow: scherzo leggero sulla torta. Registro basso, cordiale. È l'unica mail che doveva esistere sul tema.
+3. Could colleagues also rinse their mugs... The sink is becoming a second fridge: James aggancia un altro tema. Could colleagues: richiesta indiretta, formale sul filo. Second fridge: iperbole da cucina (eco della lezione 5 sul frigo). Reply All trasforma un aside in comunicato.
+4. the sink is not my department... since we are on hygiene... microwave... after fish days: Helen legge un'accusa dove James metteva una «richiesta generale». Not my department: «non è di mia competenza». Fish days: i giorni del pesce al microonde, litigio da ufficio britannico.
+5. I was not accusing anyone... Tone matters in a shared space: difesa sul metalinguaggio. Tone matters: il tono conta, e proprio sul tono sta montando la lite. Shared space: spazio condiviso.
+6. General requests cut both ways: cut both ways = valgono nei due sensi. Salmon smell: Helen ribatte col concreto. Il registro resta da mail, ma il filo è già da litigio.
+7. take the kitchen chat offline... every reply-all lands on a phone: Marcus prova a spegnere. Offline = fuori dalla lista. Reply-all come nome: il meccanismo diventa personaggio. Deadline: scadenza vera contro teatro da inbox.
+8. if people used Reply instead of Reply All... copying Facilities for information: James alza la posta. For information: formula che sembra neutra e allarga il pubblico. Facilities: servizi generali. Escalate cake to a ticket (nella risposta di Facilities): portare la torta a un ticket è il comico del registro sbagliato.
+9. For the record... I object to the implication: for the record è linguaggio da verbale. Object to the implication: Helen sente un'accusa implicita (implicature, lezione 3). La mail non è più sulla torta.
+10. this thread grew legs... Happy to wash the plate myself: Priya, colpevole solo della torta, prova a chiudere. Grew legs: ha preso le gambe. Registro di nuovo umano. James: never about cake... standards... ops meeting: alza a «standard» e a riunione operativa. Cc esplicito: pubblico ancora allargato.
+11. Please remove me... The salmon has left the building: remove me from further replies. Left the building: eco scherzosa di «Elvis has left the building», qui sul salmone. Reply All is not a tribunal: Marcus nomina il problema.
+12. I am closing this thread... Further points go to me privately, not to eighty inboxes: Sam, Office Manager, usa autorità da facilitatore. Eighty inboxes: misura del danno. Reply All is a tool, not a stage: tesi della lezione. Kind regards: chiusura formale che ristabilisce l'ordine.
+13. for clarity, I only ever intended a polite nudge: James, in privato, riduce. Polite nudge: spintarella educata. Without copying the firm: ha imparato il Cc. Sam: Reply, not Reply All, unless the building is on fire: regola finale, iperbole chiara. La de-escalation arriva quando il pubblico sparisce.
+
+ex1:
+- Priya's cake note was friendly and short; James's reply-all about mugs turned a treat into a hygiene debate.
+  it: La nota di Priya sulla torta era amichevole e corta; il rispondi-a-tutti di James sulle tazze trasformò un regalo in un dibattito sull'igiene.
+- Helen answered the sink with the microwave and last Wednesday's salmon, reading an accusation in a "general request."
+  it: Helen rispose al lavandino col microonde e il salmone di mercoledì scorso, leggendo un'accusa in una «richiesta generale».
+- Marcus asked to take the chat offline because every reply-all landed on phones during a deadline.
+  it: Marcus chiese di portare la chat fuori lista perché ogni rispondi-a-tutti arrivava sui telefoni durante una scadenza.
+- Facilities refused to escalate cake to a ticket; James still copied the firm and promised the sink for Monday's ops meeting.
+  it: Facilities rifiutò di elevare la torta a un ticket; James mise comunque in copia l'azienda e promise il lavandino per la riunione operativa di lunedì.
+- Sam closed the thread, sent mugs to the dishwasher, and told James: Reply, not Reply All, unless the building is on fire.
+  it: Sam chiuse il thread, mandò le tazze in lavastoviglie, e disse a James: Rispondi, non Rispondi a tutti, a meno che l'edificio non stia bruciando.
+
+ex2:
+- Could colleagues also rinse their mugs after tea? The sink is becoming a second [fridge].
+  it: I colleghi potrebbero anche sciacquare le tazze dopo il tè? Il lavandino sta diventando un secondo frigo.
+- Colleagues, can we take the kitchen chat [offline]?
+  it: Colleghi, possiamo portare la chat della cucina fuori da questa lista?
+- Noted. Please do not [escalate] cake to a ticket unless there is a health risk.
+  it: Preso nota. Non elevate la torta a un ticket salvo rischio per la salute.
+- Sorry this thread [grew] legs. Happy to wash the plate myself.
+  it: Mi dispiace che questo thread abbia preso le gambe. Lavo volentieri il piatto io.
+- "Reply All" is a tool, not a [stage].
+  it: «Rispondi a tutti» è uno strumento, non un palcoscenico.
+
+tasks:
+- Hi all, thanks for the cake and for caring about the kitchen. Mugs in the dishwasher, wipes under the sink, and fish days mean a quick clean of the microwave. Let's drop Reply All on this one: if you have a point, write to me or to the person it concerns. The cake is nearly gone, the salmon has left the building, and the deadline has not. Kind regards, Sam.
+  task.it: Scrivi la mail che calma il thread, in inglese, intorno alle 80-100 parole. Sei Sam (Office Manager) o un collega senior. Registro cordiale ma fermo. Chiudi la lista, tieni i fatti utili (tazze, microonde, torta), niente tribunale sul salmone.
+  rubric.it: Il tono calma senza umiliare; si capisce che Reply All si ferma; i fatti pratici della cucina ci sono; il registro è da mail professionale britannica (Hi all / Kind regards); non riapri il litigio James-Helen riga per riga.
+
+== 38 C2
+numeral: Lesson Thirty-Eight
+title: A proposal for a four-day week
+title.it: Una proposta di settimana di quattro giorni
+
+dialogue:
+- Proposal to the Senior Leadership Team. Prepared by People & Culture. Date: 12 October.
+  it: Proposta al gruppo di direzione. A cura di People & Culture. Data: 12 ottobre.
+- Recommendation: that the firm pilot a four-day working week for a period of six months, beginning in January, with no reduction in salary.
+  it: Raccomandazione: che l'azienda sperimenti una settimana lavorativa di quattro giorni per sei mesi, a partire da gennaio, senza riduzione di stipendio.
+- Purpose: to test whether condensed hours can sustain output, improve retention, and reduce sick leave, while remaining fair to clients.
+  it: Scopo: verificare se orari condensati possano sostenere la produttività, migliorare la capacità di trattenere il personale e ridurre le assenze per malattia, restando equi verso i clienti.
+- Background. Staff turnover in the last twelve months stood at eighteen per cent, against a sector average nearer fourteen.
+  it: Contesto. Il ricambio del personale negli ultimi dodici mesi è stato del diciotto per cento, contro una media di settore vicina al quattordici.
+- Exit interviews repeatedly cite workload and the difficulty of combining office life with care responsibilities.
+  it: I colloqui di uscita citano di continuo il carico di lavoro e la difficoltà di conciliare l'ufficio con responsabilità di cura.
+- A short internal survey (n = 86, response rate 71%) found that sixty-two per cent would welcome a trial; twenty-one per cent were unsure; seventeen per cent preferred the present five-day pattern.
+  it: Un breve sondaggio interno (n = 86, tasso di risposta 71%) ha trovato che il sessantadue per cento gradirebbe una prova; il ventuno era incerto; il diciassette preferiva l'attuale schema a cinque giorni.
+- Evidence from comparable UK trials, including local-authority and professional-services pilots reported in the press, suggests output can hold when meetings are cut and priorities are clearer.
+  it: Le prove da sperimentazioni britanniche comparabili, inclusi piloti di enti locali e di servizi professionali riportati sulla stampa, suggeriscono che la produttività può reggere quando si tagliano le riunioni e le priorità sono più chiare.
+- We do not claim those results transfer automatically to our desks; we claim they justify a controlled experiment of our own.
+  it: Non sosteniamo che quei risultati si trasferiscano automaticamente alle nostre scrivanie; sosteniamo che giustificano un esperimento controllato nostro.
+- Proposed model. Core hours Tuesday to Friday, 8.30 a.m. to 5.30 p.m., with a one-hour break; Monday closed except for a skeleton client desk on a rota.
+  it: Modello proposto. Orario centrale da martedì a venerdì, 8.30-17.30, con un'ora di pausa; lunedì chiuso salvo uno sportello clienti ridotto a turno.
+- Annual leave and bank holidays would continue on the present rules, converted where needed so that staff are not disadvantaged.
+  it: Ferie annuali e festività nazionali (bank holidays) continuerebbero secondo le regole attuali, convertite dove serve perché il personale non sia svantaggiato.
+- Client commitments that fall on a Monday would be covered by the rota desk or moved by agreement the week before.
+  it: Gli impegni con i clienti che cadono di lunedì sarebbero coperti dallo sportello a turno o spostati d'accordo la settimana prima.
+- Success measures. We would track utilisation, project delivery dates, client complaints, voluntary leavers, and sickness absence, and compare them with the same six months of the previous year.
+  it: Misure di successo. Terremmo d'occhio utilizzo, scadenze di progetto, reclami dei clienti, dimissioni volontarie e assenze per malattia, e li confronteremmo con gli stessi sei mesi dell'anno precedente.
+- A mid-trial review at three months would let us adjust the rota or abandon the pilot early if client harm appeared.
+  it: Una revisione a metà prova a tre mesi ci permetterebbe di aggiustare i turni o abbandonare il pilota in anticipo se comparisse un danno per i clienti.
+- Costs. Salary cost is unchanged by design. The main risk is lost billable hours on Mondays if the remaining four days do not absorb the work.
+  it: Costi. Il costo salariale resta invariato per progetto. Il rischio principale è la perdita di ore fatturabili del lunedì se i quattro giorni restanti non assorbono il lavoro.
+- Mitigations include a freeze on non-essential meetings, a clearer triage of email, and a temporary pause on new low-margin projects during the first quarter of the trial.
+  it: Le mitigazioni includono un blocco delle riunioni non essenziali, un triage più chiaro della posta, e una pausa temporanea sui nuovi progetti a basso margine nel primo trimestre della prova.
+- Equality. The model must not punish part-time staff or those with fixed care days; People & Culture would map each contract before January and agree adjustments in writing.
+  it: Equità. Il modello non deve penalizzare chi lavora part-time o chi ha giorni di cura fissi; People & Culture mapperebbe ogni contratto prima di gennaio e concorderebbe aggiustamenti per iscritto.
+- Recommendation restated. Approve the six-month pilot; appoint a trial lead; report to the Senior Leadership Team at three and six months.
+  it: Raccomandazione ribadita. Approvare il pilota di sei mesi; nominare un responsabile della prova; riferire al gruppo di direzione a tre e a sei mesi.
+- We are not selling a lifestyle. We are asking permission to measure whether four days can do the work of five without pretending the fifth was empty.
+  it: Non stiamo vendendo uno stile di vita. Chiediamo il permesso di misurare se quattro giorni possono fare il lavoro di cinque senza fingere che il quinto fosse vuoto.
+- If the numbers fail, we return to Monday with evidence, not with a slogan.
+  it: Se i numeri falliscono, torniamo al lunedì con le prove, non con uno slogan.
+- If they hold, we will have something sturdier than optimism to take to the Board.
+  it: Se reggono, avremo qualcosa di più solido dell'ottimismo da portare al Consiglio.
+- Appendix A (survey tables) and Appendix B (draft rota) follow under separate cover.
+  it: L'appendice A (tabelle del sondaggio) e l'appendice B (bozza dei turni) seguono a parte.
+- The trial lead would sit in People & Culture and would have authority to pause non-essential internal meetings that threaten the four-day load.
+  it: Il responsabile della prova starebbe in People & Culture e avrebbe autorità di sospendere le riunioni interne non essenziali che minacciano il carico dei quattro giorni.
+- For the sceptics already drafting objections in the margin: good.
+  it: Per gli scettici che già abbozzano obiezioni a margine: bene.
+- Write them down, and send them to the trial lead before the SLT vote, not after the pilot has begun.
+  it: Scrivetele, e mandatele al responsabile della prova prima del voto della direzione, non dopo che il pilota è cominciato.
+- A proposal that cannot survive its objections was never ready for January.
+  it: Una proposta che non sopravvive alle proprie obiezioni non era mai pronta per gennaio.
+
+notes.it:
+1. Proposal to the Senior Leadership Team... People & Culture: intestazione da proposta aziendale. Senior Leadership Team (SLT): direzione. People & Culture: nome moderno di HR. Recommendation in cima: struttura da business case (raccomandazione, scopo, contesto, prove, modello, misure, costi, equità).
+2. pilot a four-day working week... no reduction in salary: pilot/trial = sperimentazione. Condensed hours: orari condensati, non «lavorare meno» detto così. No reduction in salary: punto politico centrale; lo stipendio resta.
+3. sustain output, improve retention, reduce sick leave... fair to clients: tre benefici interni e un vincolo esterno (clienti). Output qui è produttività/consegna, non «uscita». Retention: trattenere il personale.
+4. turnover... eighteen per cent... sector average nearer fourteen: cifra concreta. Nearer: hedge soft. Exit interviews: colloqui di uscita. Care responsibilities: cura di figli o familiari, non «attenzioni» generiche.
+5. n = 86, response rate 71%... sixty-two / twenty-one / seventeen: prova quantitativa interna. Il testo dà i tre pezzi, non solo il favorevole. Prefer the present five-day pattern: minoranza nominata, onestà da proposta seria.
+6. Evidence from comparable UK trials... suggests... We do not claim... transfer automatically: suggest vs claim. Controlled experiment: esperimento controllato. Il pezzo concede i limiti delle prove esterne (concession, lezione 17) e chiede comunque il pilota.
+7. Core hours Tuesday to Friday... skeleton client desk on a rota: modello operativo. Skeleton desk: sportello ridotto. Rota: turno. Bank holidays: i giorni festivi nazionali britannici, non solo delle banche. Converted where needed: ferie ricalcolate per non svantaggiare.
+8. Success measures... utilisation... mid-trial review... abandon the pilot early: criteri falsificabili. Utilisation: tasso di utilizzo del tempo. If client harm appeared: condizione di uscita. Senza misure, la proposta sarebbe slogan.
+9. Salary cost unchanged by design... lost billable hours: design ammette la scelta. Billable hours: ore fatturabili, linguaggio da studi professionali. Mitigations: freeze on meetings, triage of email, pause on low-margin projects. Triage: smistamento per urgenza.
+10. Equality... part-time... fixed care days... agree adjustments in writing: rischio discriminatorio nominato. In writing: per iscritto. Map each contract: prima di gennaio, non dopo il guaio.
+11. Recommendation restated... trial lead... three and six months: chiusura strutturata, come un executive summary ribadito. We are not selling a lifestyle: rifiuta il registro da brochure. Measure whether four days can do the work of five: tesi onesta. If the numbers fail... evidence, not with a slogan: criterio empirico.
+12. For the sceptics already drafting objections... Write them down: apre al compito. Survive its objections: una proposta pronta regge le obiezioni. January: scadenza concreta. Il tono resta da proposta, con un filo di sfida civile.
+
+ex1:
+- The recommendation was a six-month pilot of a four-day week on full pay, beginning in January, to test output, retention and sick leave without harming clients.
+  it: La raccomandazione era un pilota di sei mesi di settimana a quattro giorni a stipendio pieno, da gennaio, per verificare produttività, trattenimento del personale e assenze senza danneggiare i clienti.
+- Turnover at eighteen per cent sat above a sector average nearer fourteen, and exit interviews kept naming workload and care responsibilities.
+  it: Il ricambio del personale al diciotto per cento stava sopra una media di settore vicina al quattordici, e i colloqui di uscita nominavano di continuo carico di lavoro e responsabilità di cura.
+- External UK trials suggested output could hold; the paper did not claim automatic transfer, only grounds for a controlled experiment.
+  it: Sperimentazioni britanniche esterne suggerivano che la produttività poteva reggere; il documento non pretendeva un trasferimento automatico, solo basi per un esperimento controllato.
+- The model closed Monday except for a skeleton client desk; success would be judged on utilisation, delivery, complaints, leavers and sickness against the prior year.
+  it: Il modello chiudeva il lunedì salvo uno sportello clienti ridotto; il successo si sarebbe giudicato su utilizzo, consegne, reclami, dimissioni e malattie rispetto all'anno prima.
+- Salary cost was unchanged by design; the real risk was lost billable hours if four days failed to absorb five days' work.
+  it: Il costo salariale restava invariato per progetto; il rischio vero era la perdita di ore fatturabili se quattro giorni non assorbivano il lavoro di cinque.
+
+ex2:
+- Recommendation: that the firm [pilot] a four-day working week for six months, with no reduction in salary.
+  it: Raccomandazione: che l'azienda sperimenti una settimana lavorativa di quattro giorni per sei mesi, senza riduzione di stipendio.
+- Exit interviews repeatedly [cite] workload and care responsibilities.
+  it: I colloqui di uscita citano di continuo il carico di lavoro e le responsabilità di cura.
+- We do not claim those results [transfer] automatically to our desks.
+  it: Non sosteniamo che quei risultati si trasferiscano automaticamente alle nostre scrivanie.
+- Monday would close except for a skeleton client desk on a [rota].
+  it: Il lunedì chiuderebbe salvo uno sportello clienti ridotto a turno.
+- If the numbers fail, we return to Monday with [evidence], not with a slogan.
+  it: Se i numeri falliscono, torniamo al lunedì con le prove, non con uno slogan.
+
+tasks:
+- Clients still expect Monday cover: a skeleton desk may not be enough in peak season. Billable hours could fall if meetings are not truly cut. Part-time staff and those with Wednesday care days may be worse off unless contracts are rewritten with care. Eighteen per cent turnover has more than one cause; a four-day week will not fix a weak manager. The survey's sixty-two per cent includes people who have never tried condensed Fridays. Press pilots are not our ledger. Approve measurement, not a lifestyle brand.
+  task.it: Scrivi le obiezioni alla proposta della settimana di quattro giorni, in inglese, intorno alle 100-120 parole. Registro da membro della direzione che ha letto il paper. Tocca clienti, ore fatturabili, equità, cause del ricambio del personale e limiti delle prove. Niente slogan a favore; niente cinismo da bar.
+  rubric.it: Almeno quattro obiezioni sostanziali e plausibili; il registro è professionale e britannico; non inventi fatti che contraddicono il testo (stipendio pieno, sei mesi, lunedì); l'inglese è naturale; si sente qualcuno che vuole migliorare la proposta, non soltanto affossarla.
+
+== 39 C2
+numeral: Lesson Thirty-Nine
+title: Terms and conditions
+title.it: Termini e condizioni
+
+dialogue:
+- ASSURED SHORTHOLD TENANCY AGREEMENT
+  it: CONTRATTO DI LOCAZIONE ASSURED SHORTHOLD
+- This Agreement is made on 3 November 2024 between Riverside Lets Ltd (the Landlord) and Giulia Conti (the Tenant) in respect of Flat 4, 12 Canal Street, Manchester, M1 2AB (the Property).
+  it: Il presente Contratto è concluso il 3 novembre 2024 tra Riverside Lets Ltd (il Locatore) e Giulia Conti (l'Inquilina) riguardo all'appartamento Flat 4, 12 Canal Street, Manchester, M1 2AB (l'Immobile).
+- 1. Term. The tenancy shall begin on 1 December 2024 and shall continue for a fixed term of twelve months, ending on 30 November 2025, unless ended earlier in accordance with this Agreement or with the law.
+  it: 1. Durata. La locazione avrà inizio il 1° dicembre 2024 e continuerà per un termine fisso di dodici mesi, terminando il 30 novembre 2025, salvo cessazione anteriore ai sensi del presente Contratto o della legge.
+- 2. Rent. The Tenant shall pay rent of £1,150 (one thousand one hundred and fifty pounds) per calendar month, payable in advance on the first day of each month by standing order to the account nominated by the Landlord.
+  it: 2. Canone. L'Inquilina corrisponderà un canone di £1.150 (millecentocinquanta sterline) al mese di calendario, pagabile in anticipo il primo giorno di ogni mese con standing order sul conto indicato dal Locatore.
+- 3. Deposit. A deposit of £1,100 shall be paid before the start of the tenancy and protected in a government-authorised scheme within thirty days, in accordance with the Housing Act 2004.
+  it: 3. Deposito. Un deposito di £1.100 sarà versato prima dell'inizio della locazione e protetto in uno schema autorizzato dal governo entro trenta giorni, ai sensi dell'Housing Act 2004.
+- The Landlord shall provide the prescribed information about the scheme to the Tenant within the same period.
+  it: Il Locatore fornirà all'Inquilina le informazioni prescritte sullo schema entro lo stesso termine.
+- 4. Use. The Tenant shall use the Property as a private residence only and shall not carry on any trade or business from the Property without the Landlord's prior written consent.
+  it: 4. Uso. L'Inquilina userà l'Immobile solo come abitazione privata e non vi eserciterà alcun commercio o attività senza il previo consenso scritto del Locatore.
+- 5. Quiet enjoyment. The Landlord covenants that the Tenant may quietly enjoy the Property without unlawful interruption by the Landlord or by any person claiming under the Landlord.
+  it: 5. Godimento pacifico. Il Locatore conviene che l'Inquilina possa godere pacificamente dell'Immobile senza interruzione illegittima da parte del Locatore o di chiunque rivendichi diritti sotto di lui.
+- 6. Access. Upon giving at least twenty-four hours' written notice, except in emergency, the Landlord or the Landlord's agent may enter the Property at reasonable times to inspect its condition or to carry out repairs.
+  it: 6. Accesso. Previo preavviso scritto di almeno ventiquattr'ore, salvo emergenza, il Locatore o il suo agente possono entrare nell'Immobile in orari ragionevoli per ispezionarne lo stato o eseguire riparazioni.
+- 7. Repair. The Landlord shall keep in repair the structure and exterior of the Property and the installations for the supply of water, gas, electricity and sanitation, as required by section 11 of the Landlord and Tenant Act 1985.
+  it: 7. Riparazioni. Il Locatore manterrà in riparazione la struttura e l'esterno dell'Immobile e gli impianti per la fornitura di acqua, gas, elettricità e servizi igienici, come richiesto dall'articolo 11 del Landlord and Tenant Act 1985.
+- The Tenant shall keep the interior in a clean and tidy condition and shall make good any damage caused by the Tenant's neglect or misuse, fair wear and tear excepted.
+  it: L'Inquilina manterrà gli interni in condizioni pulite e ordinate e riparerà ogni danno causato da negligenza o uso improprio, esclusa l'usura normale.
+- 8. Alterations. The Tenant shall not make any structural alteration, nor decorate the exterior, nor affix satellite equipment, without the Landlord's prior written consent, such consent not to be unreasonably withheld.
+  it: 8. Modifiche. L'Inquilina non farà alterazioni strutturali, né decorerà l'esterno, né fisserà apparati satellitari, senza il previo consenso scritto del Locatore, consenso che non sarà irragionevolmente negato.
+- 9. Assignment and subletting. The Tenant shall not assign, sublet or part with possession of the whole or any part of the Property without the Landlord's prior written consent.
+  it: 9. Cessione e sublocazione. L'Inquilina non cederà, subaffitterà né rinuncerà al possesso dell'intero Immobile o di parte di esso senza il previo consenso scritto del Locatore.
+- 10. Notice to end. Either party may end the tenancy at the end of the fixed term by giving not less than two months' written notice, expiring on the last day of the term or on a later rent day agreed in writing.
+  it: 10. Disdetta. Ciascuna parte può far cessare la locazione alla fine del termine fisso dando preavviso scritto di non meno di due mesi, che scada l'ultimo giorno del termine o in un successivo giorno di canone concordato per iscritto.
+- Early termination by the Tenant before the end of the fixed term is not permitted save by written agreement with the Landlord or as the law otherwise provides.
+  it: La cessazione anticipata da parte dell'Inquilina prima della fine del termine fisso non è consentita salvo accordo scritto col Locatore o quanto altrimenti previsto dalla legge.
+- 11. Possession. If rent is unpaid for fourteen days after it falls due, or if the Tenant is in serious breach of this Agreement, the Landlord may seek to recover possession through the courts, subject to any notice and procedure the law requires.
+  it: 11. Rilascio dell'immobile. Se il canone resta insoluto per quattordici giorni dopo la scadenza, o se l'Inquilina è in grave violazione del presente Contratto, il Locatore può chiedere il recupero del possesso tramite i tribunali, fatti salvi avvisi e procedure richiesti dalla legge.
+- 12. Inventory. An inventory of fixtures and contents shall be prepared at the start of the tenancy; both parties shall sign it, and it shall be the reference for any claim against the deposit at the end.
+  it: 12. Inventario. All'inizio della locazione sarà redatto un inventario di impianti e contenuti; entrambe le parti lo firmeranno, e sarà il riferimento per ogni pretesa sul deposito alla fine.
+- 13. Governing law. This Agreement is governed by the law of England and Wales.
+  it: 13. Legge applicabile. Il presente Contratto è regolato dalla legge di Inghilterra e Galles.
+- Signed by the parties on the date first written above.
+  it: Firmato dalle parti nella data sopra indicata per prima.
+- A solicitor who likes her clients would now close the folder and say the following in ordinary clothes.
+  it: Un'avvocata che vuole bene ai suoi clienti a questo punto chiuderebbe la cartella e direbbe quanto segue in abiti ordinari.
+- You pay £1,150 a month, on time; a little less than that sits as a deposit in a protected scheme.
+  it: Paghi £1.150 al mese, in tempo; poco meno di quella cifra sta come deposito in uno schema protetto.
+- The flat is for living in, not for a shop; the landlord must keep the roof and the pipes in repair; you keep the rooms clean and do not knock walls about.
+  it: L'appartamento è per abitarci, non per un negozio; il locatore deve tenere a posto tetto e tubi; tu tieni le stanze pulite e non butti giù muri.
+- He needs notice before he walks in, except when water is coming through the ceiling.
+  it: Gli serve un preavviso prima di entrare, salvo quando l'acqua esce dal soffitto.
+- If you want to leave early, you need his written yes, or a right the statute gives you; "I am fed up" is not a clause.
+  it: Se vuoi andartene prima, ti serve il suo sì scritto, o un diritto che ti dà la legge; «sono stufa» non è una clausola.
+- Read the inventory before you sign it, or the stain on the sofa will become your stain in December next year.
+  it: Leggi l'inventario prima di firmarlo, o la macchia sul divano diventerà la tua macchia nel dicembre dell'anno prossimo.
+
+notes.it:
+1. ASSURED SHORTHOLD TENANCY AGREEMENT: per decenni il tipo ordinario di locazione privata in Inghilterra (AST); il contratto è del 2024 perché dal maggio 2026, col Renters' Rights Act 2025, le nuove locazioni sono periodiche, senza termine fisso. La lingua delle clausole resta la stessa. Titolo in maiuscolo da modulo. Landlord / Tenant / Property: nomi definiti, tipici del legale: una volta fissati, tornano con l'articolo the.
+2. This Agreement is made on... between... in respect of: formula di apertura. In respect of = riguardo a. Flat e postcode: l'immobile deve essere identificato. Ltd: società a responsabilità limitata. Data e parti prima delle obbligazioni.
+3. Term... fixed term of twelve months... unless ended earlier in accordance with this Agreement or with the law: fixed term = termine fisso. In accordance with: ai sensi di. Or with the law: lascia spazio a diritti statutari. Shall: verbo da contratto, obbligo.
+4. Rent... per calendar month... in advance... standing order: calendar month = mese di calendario, non lunare. In advance: anticipo. Standing order: ordine permanente di bonifico. One thousand... in words: cifra anche in lettere, abitudine legale contro alterazioni.
+5. Deposit... protected in a government-authorised scheme... Housing Act 2004: in Inghilterra il deposito di un AST va protetto in uno schema autorizzato; il testo nomina il fatto stabile, non inventa procedure. Prescribed information: informazioni prescritte da dare all'inquilino. Within thirty days: termine del regime inglese sul deposito. £1,100: il Tenant Fees Act 2019 limita il deposito a cinque settimane di canone, e un mese intero (£1,150) le supererebbe.
+6. Use... private residence only... prior written consent: uso abitativo. Trade or business: attività commerciale. Prior written consent: consenso scritto previo, formula fissa. Quiet enjoyment: «godimento pacifico», patto del locatore di non disturbare l'inquilino senza titolo; covenants = si obbliga per patto.
+7. Access... twenty-four hours' written notice... except in emergency... reasonable times: preavviso e ragionevolezza. Agent: agente/agenzia del locatore. Emergency: perdita d'acqua, gas, ecc. Inspect / repairs: due scopi tipici.
+8. Repair... structure and exterior... section 11 of the Landlord and Tenant Act 1985: obbligo legale noto del locatore su struttura e impianti essenziali. Fair wear and tear excepted: esclusa l'usura normale, formula a favore dell'inquilino sul deposito. Make good: riparare/rimediare. Neglect or misuse: negligenza o uso improprio.
+9. Alterations... such consent not to be unreasonably withheld: non to be unreasonably withheld limita il diniego del locatore. Assignment and subletting... part with possession: cedere, subaffittare, rinunciare al possesso. Whole or any part: intero o pezzo.
+10. Notice to end... two months' written notice... Early termination... not permitted save by written agreement... or as the law otherwise provides: disdetta a fine termine. Save by = salvo. As the law otherwise provides: di nuovo lo statuto. Fed up is not a clause (nella traduzione in plain English): tono della seconda metà.
+11. Possession... unpaid for fourteen days... recover possession through the courts... subject to any notice and procedure the law requires: il locatore non può cambiare la serratura da sé; il rilascio si chiede in tribunale, con gli avvisi di legge. Subject to protegge dal suggerire uno sgombero fai-da-te. Inventory... reference for any claim against the deposit: inventario come prova. Governing law... England and Wales: legge applicabile.
+12. A solicitor who likes her clients... ordinary clothes: svolta didattica. Il legale traduce il registro. Deposit in a protected scheme; roof and pipes; notice before he walks in; written yes / statute; inventory and the stain: cinque clausole in plain English. La battuta finale: la macchia non firmata diventa tua.
+
+ex1:
+- The assured shorthold tenancy ran for a fixed term of twelve months from 1 December, with rent of £1,150 a month payable in advance by standing order.
+  it: La locazione assured shorthold correva per un termine fisso di dodici mesi dal 1° dicembre, con canone di £1.150 al mese pagabile in anticipo con standing order.
+- The deposit had to be protected in a government-authorised scheme within thirty days, with the prescribed information given to the tenant.
+  it: Il deposito doveva essere protetto in uno schema autorizzato dal governo entro trenta giorni, con le informazioni prescritte date all'inquilina.
+- Quiet enjoyment barred unlawful interruption by the landlord; access still needed twenty-four hours' written notice, except in emergency.
+  it: Il godimento pacifico escludeva interruzioni illegittime del locatore; per l'accesso serviva comunque un preavviso scritto di ventiquattr'ore, salvo emergenza.
+- Section 11 kept structure, exterior and key installations on the landlord; fair wear and tear was excepted from the tenant's duty to make good.
+  it: L'articolo 11 teneva struttura, esterno e impianti essenziali sul locatore; l'usura normale era esclusa dal dovere dell'inquilina di rimediare.
+- Leaving early needed the landlord's written agreement or a right the law provides; a signed inventory decided later fights over the sofa stain.
+  it: Andarsene prima richiedeva l'accordo scritto del locatore o un diritto previsto dalla legge; un inventario firmato decideva poi i litigi sulla macchia del divano.
+
+ex2:
+- The tenancy shall begin on 1 December and continue for a [fixed] term of twelve months.
+  it: La locazione avrà inizio il 1° dicembre e continuerà per un termine fisso di dodici mesi.
+- Rent is payable in advance on the first day of each month by [standing] order.
+  it: Il canone è pagabile in anticipo il primo giorno di ogni mese con ordine permanente di bonifico.
+- The Landlord covenants that the Tenant may quietly [enjoy] the Property without unlawful interruption.
+  it: Il Locatore conviene che l'Inquilina possa godere pacificamente dell'Immobile senza interruzione illegittima.
+- Fair wear and [tear] excepted, the Tenant shall make good damage caused by neglect or misuse.
+  it: Esclusa l'usura normale, l'Inquilina riparerà i danni causati da negligenza o uso improprio.
+- Consent is not to be [unreasonably] withheld for certain alterations.
+  it: Il consenso non sarà irragionevolmente negato per certe modifiche.
+
+tasks:
+- Clause 3 (deposit): a sum just under a month's rent is held in a protected scheme, not in the landlord's pocket, and you must get the scheme details in time. Clause 5 and 6 (quiet enjoyment and access): you can live there without random visits, but the landlord may enter with proper notice for repairs, or at once in a real emergency. Clause 10 (ending): the fixed year holds unless you both agree otherwise in writing or a statute gives you a way out; being tired of the flat is not enough.
+  task.it: Spiega in inglese piano tre clausole del contratto (scegline tre fra deposito, godimento/accesso, riparazioni, disdetta, inventario). Intorno alle 100-120 parole in tutto. Niente shall a ogni riga. Come se le dicessi a un amico prima della firma.
+  rubric.it: Tre clausole distinte e fedeli al testo; il registro è plain English, non una seconda copia legale; i fatti (somme, preavvisi, usura, tribunale) restano giusti; l'inglese è naturale; l'amico capirebbe cosa rischia senza rileggere il modulo.
+
+== 40 C2
+numeral: Lesson Forty
+title: At the solicitor's
+title.it: Dall'avvocato
+
+dialogue:
+- Do sit down, Mr Hale. You said on the phone that you wanted a will that would stand up, not a form from a stationery shop.
+  it: Si sieda pure, signor Hale. Al telefono ha detto di volere un testamento che regga, non un modulo da cartoleria.
+- That is right. I am sixty-two, I own the house outright, and I have two children who are polite to each other until money is mentioned.
+  it: Esatto. Ho sessantadue anni, possiedo la casa senza ipoteca, e ho due figli che sono educati fra loro finché non si parla di soldi.
+- Then we begin with the basics. You need capacity: you must understand that you are making a will, what you own roughly, and who might expect to inherit.
+  it: Allora partiamo dalle basi. Serve la capacità: deve capire che sta facendo testamento, cosa possiede a grandi linee, e chi potrebbe aspettarsi di ereditare.
+- I understand all three, though the last one still surprises me on Tuesdays.
+  it: Capisco tutte e tre, anche se l'ultima mi sorprende ancora il martedì.
+- Good. You will name an executor, the person who gathers the estate, pays debts and tax, and distributes what remains.
+  it: Bene. Nominerà un esecutore testamentario, la persona che raccoglie il patrimonio, paga debiti e tasse, e distribuisce ciò che resta.
+- Can that be my daughter, Leah?
+  it: Può essere mia figlia Leah?
+- It can, if she is willing and eighteen or over. Many people appoint two, in case one cannot act.
+  it: Può, se è d'accordo e ha diciotto anni o più. Molti ne nominano due, nel caso uno non possa agire.
+- Put Leah and my brother David, then. David is dull, which is a virtue in an executor.
+  it: Metta Leah e mio fratello David, allora. David è noioso, il che è una virtù in un esecutore.
+- Next: specific gifts. Is there anything you want to leave by name — a watch, a painting, a sum of money to a charity?
+  it: Poi: legati specifici. C'è qualcosa che vuole lasciare per nome — un orologio, un quadro, una somma a un ente di beneficenza?
+- Five thousand pounds to the local hospice, and my father's watch to my son, Tom. Leah already has the earrings that were her mother's; we need not write those again.
+  it: Cinquemila sterline all'hospice locale, e l'orologio di mio padre a mio figlio Tom. Leah ha già gli orecchini che erano della madre; non serve riscriverli.
+- Noted. The residue — whatever is left after debts, tax, costs and those gifts — can go in shares.
+  it: Preso nota. Il residuo — ciò che resta dopo debiti, tasse, spese e quei legati — può andare in quote.
+- Half to Leah, half to Tom, provided each survives me by thirty days.
+  it: Metà a Leah, metà a Tom, purché ciascuno mi sopravviva di trenta giorni.
+- The survivorship clause is wise; it avoids a second probate if you die close together in an accident.
+  it: La clausola di sopravvivenza è saggia; evita un secondo probate se morite vicini in un incidente.
+- And if one of them dies before me, without children?
+  it: E se uno dei due muore prima di me, senza figli?
+- Then that share can pass to the other, unless you prefer a different substitution.
+  it: Allora quella quota può passare all'altro, salvo che preferisca una sostituzione diversa.
+- Pass it to the other. If both go, then to the hospice.
+  it: Passi all'altro. Se mancano tutti e due, allora all'hospice.
+- Guardians for minor children do not arise here, since yours are adults. I mention it so the form does not haunt you.
+  it: Tutori per figli minori qui non entrano, visto che i suoi sono adulti. Lo dico perché il modulo non la perseguiti.
+- What about the house? Tom lives in Glasgow; Leah is five streets away and has keys.
+  it: E la casa? Tom vive a Glasgow; Leah è a cinque strade da qui e ha le chiavi.
+- The house sits in the residue unless you create a trust or a life interest. A simple half-and-half will let the executors sell or transfer as the two agree.
+  it: La casa sta nel residuo salvo che crei un trust o un diritto di abitazione vitalizio. Un semplice metà e metà lascerà agli esecutori vendere o trasferire come i due concordano.
+- I do not want Leah forced to buy Tom out in a month while she is grieving. Can we say they should try to agree a sale timetable of up to twelve months?
+  it: Non voglio che Leah sia costretta a liquidare Tom in un mese mentre è in lutto. Si può dire che debbano cercare di concordare un calendario di vendita fino a dodici mesi?
+- We can express a wish in a letter of wishes; it guides without binding the way a hard clause would. For a binding delay we would need clearer trust wording, and more fees.
+  it: Possiamo esprimere un desiderio in una letter of wishes; guida senza vincolare come farebbe una clausola dura. Per un rinvio vincolante servirebbe un trust più chiaro, e più parcelle.
+- Letter of wishes, then. I am fond of Leah's patience, not of litigation.
+  it: Letter of wishes, allora. Tengo alla pazienza di Leah, non al contenzioso.
+- Witnesses: two adults who are not beneficiaries and who see you sign. They sign in your presence. Gifts to a witness, or to a witness's spouse, can fail.
+  it: Testimoni: due adulti che non siano beneficiari e che la vedano firmare. Firmano in sua presenza. I legati a un testimone, o al coniuge di un testimone, possono decadere.
+- So not Tom, not Leah, and not David's wife if David is taking a gift — he is not, beyond the unpaid honour of executor.
+  it: Quindi non Tom, non Leah, e non la moglie di David se David riceve un legato — e non lo riceve, oltre all'onore non pagato di esecutore.
+- Quite. My secretary and I can witness if you sign here, or you may bring two neighbours who can spell their names.
+  it: Esatto. La mia segretaria e io possiamo testimoniare se firma qui, oppure può portare due vicini che sappiano scrivere il proprio nome.
+- I will sign here, after I have read it once on paper and once aloud, the way my old English teacher insisted.
+  it: Firmerò qui, dopo averlo letto una volta sulla carta e una ad alta voce, come insisteva la mia vecchia insegnante di inglese.
+- Sensible. Intestacy — dying without a valid will — would split things by statute, not by the hospice or the watch, and your children might still quarrel, only with a less personal script.
+  it: Sensato. L'intestacy — morire senza un testamento valido — dividerebbe le cose per legge, non per l'hospice o l'orologio, e i suoi figli potrebbero litigare lo stesso, solo con un copione meno personale.
+- Then let us keep the quarrel personal and small: one watch, one charity, two halves, and David with a calculator.
+  it: Allora teniamo il litigio personale e piccolo: un orologio, un ente, due metà, e David con una calcolatrice.
+- I will send a draft by Friday. Bring photocard identification when you come to execute — that is the solemn word for sign.
+  it: Manderò una bozza entro venerdì. Porti un documento d'identità con foto quando viene a execute — è la parola solenne per firmare.
+- Execute sounds like something done to a king. I prefer sign, until the witnesses arrive.
+  it: Execute sembra una cosa fatta a un re. Preferisco sign, finché non arrivano i testimoni.
+- As you like, Mr Hale. On the day, we will use the word that makes the will valid, and afterwards we will go back to plain English for the kettle.
+  it: Come preferisce, signor Hale. Quel giorno useremo la parola che rende valido il testamento, e dopo torneremo all'inglese piano per il bollitore.
+
+notes.it:
+1. Do sit down, Mr Hale... will that would stand up... stationery shop: do sit down è invito formale. Stand up = reggere in diritto. Stationery shop: cartoleria, testamento fai-da-te. Lei formale (si sieda, ha detto): il solicitor parla a un cliente adulto che non conosce bene.
+2. own the house outright: senza mutuo o ipoteca. Polite until money is mentioned: battuta sul motivo reale della visita. I due figli educati finché non compaiono i soldi.
+3. Capacity: capacità testamentaria. I tre punti (capire l'atto, il patrimonio a grandi linee, chi potrebbe ereditare) sono il nucleo classico spiegato in conversazione, non un trattato. On Tuesdays: Hale ammette la sorpresa con understatement.
+4. executor... gathers the estate, pays debts and tax, distributes: esecutore testamentario. Estate qui è il patrimonio ereditario, non una tenuta agricola. Eighteen or over: maggiorenne. Two executors: uno di riserva pratica.
+5. David is dull, which is a virtue: noioso come virtù professionale. Specific gifts: legati nominati (hospice, orologio). Leah already has the earrings: esclusione consapevole, niente doppio regalo sulla carta.
+6. residue... shares... survivorship... thirty days: residuo dopo debiti, tasse, spese e legati. Clausola di sopravvivenza; evita un secondo probate (convalida del testamento) se le morti sono vicine. Substitution: se un figlio premuore senza figli, la quota passa all'altro; se entrambi mancano, all'hospice.
+7. Guardians... do not arise... haunt you: tutori per minori esclusi perché i figli sono adulti. Haunt: il modulo non deve spaventare a vuoto con caselle inutili.
+8. house sits in the residue... trust or a life interest: senza trust o diritto vitalizio la casa segue le quote. Letter of wishes guides without binding: lettera di desideri, guida morale non vincolante. Hard clause e more fees: alternativa cara. Fond of Leah's patience, not of litigation: registro parlato dentro lo studio.
+9. Witnesses... not beneficiaries... gifts to a witness... can fail: regola pratica inglese (Wills Act): un legato a un testimone, o al coniuge di un testimone, può decadere. Executor unpaid honour: l'esecutore non è di per sé beneficiario di un legato. Photocard identification: documento d'identità con foto.
+10. Intestacy... by statute... less personal script: successione senza testamento valido, per quote di legge. Keep the quarrel personal and small: chiusura ironica. Execute sounds like something done to a king: Hale rifiuta il verbo solenne finché può; il solicitor lo userà solo per la validità, poi torna all'inglese piano, come l'avvocata della lezione 39 dopo le clausole.
+
+ex1:
+- Capacity meant understanding that he was making a will, what he roughly owned, and who might expect to inherit.
+  it: La capacità voleva dire capire che stava facendo testamento, cosa possedeva a grandi linee, e chi poteva aspettarsi di ereditare.
+- He appointed Leah and his brother David as executors; David was chosen partly because he was dull enough for the job.
+  it: Nominò Leah e suo fratello David come esecutori; David fu scelto anche perché abbastanza noioso per il compito.
+- Specific gifts were five thousand pounds to the hospice and the father's watch to Tom; the residue was to be halved if each child survived him by thirty days.
+  it: I legati specifici erano cinquemila sterline all'hospice e l'orologio del padre a Tom; il residuo andava diviso a metà se ciascun figlio gli sopravviveva di trenta giorni.
+- A letter of wishes could ask for up to twelve months to agree a sale of the house, guiding without the hard bind of a trust clause.
+  it: Una letter of wishes poteva chiedere fino a dodici mesi per concordare la vendita della casa, guidando senza il vincolo duro di una clausola di trust.
+- Two witnesses who were not beneficiaries would watch him execute the will; intestacy, he was told, would follow statute and a less personal script.
+  it: Due testimoni non beneficiari lo avrebbero visto execute il testamento; l'intestacy, gli fu detto, seguirebbe la legge e un copione meno personale.
+
+ex2:
+- You will name an [executor], the person who gathers the estate and distributes what remains.
+  it: Nominerà un esecutore testamentario, la persona che raccoglie il patrimonio e distribuisce ciò che resta.
+- The [residue] is whatever is left after debts, tax, costs and specific gifts.
+  it: Il residuo è ciò che resta dopo debiti, tasse, spese e legati specifici.
+- The [survivorship] clause avoids a second probate if deaths fall close together.
+  it: La clausola di sopravvivenza evita un secondo probate se le morti sono vicine.
+- A letter of wishes [guides] without binding the way a hard clause would.
+  it: Una letter of wishes guida senza vincolare come farebbe una clausola dura.
+- On the day we will use the word that makes the will valid: you will [execute] it before witnesses.
+  it: Quel giorno useremo la parola che rende valido il testamento: lo firmerà davanti ai testimoni.
+
+tasks:
+- Executors: Leah and David. Gifts: £5,000 to the local hospice; father's watch to Tom. Residue: half to Leah and half to Tom if each survives Mr Hale by thirty days; if one dies first without children, that share to the other; if both are gone, to the hospice. House follows the residue; a letter of wishes asks them to try for up to twelve months before a forced timetable. Witnesses must not be beneficiaries. Sign (execute) at the solicitor's with ID.
+  task.it: Riassumi il testamento di Mr Hale in inglese chiaro, intorno alle 100-120 parole. Includi esecutori, legati, residuo, casa/letter of wishes e testimoni. Registro da nota a un collega, non da atto notarile.
+  rubric.it: Tutti gli elementi principali ci sono e coincidono col dialogo; il registro è chiaro; non inventi trust vincolanti al posto della letter of wishes; l'inglese è naturale; un estraneo capirebbe chi prende cosa.
+
+== 41 C2
+numeral: Lesson Forty-One
+title: Resignation
+title.it: Dimissioni
+
+dialogue:
+- The letter that left the building.
+  it: La lettera che ha lasciato l'edificio.
+- Dear Ms Okonkwo,
+  it: Gentile signora Okonkwo,
+- Please accept this letter as formal notice of my resignation from the post of Senior Analyst at Northbridge Analytics.
+  it: Voglia considerare questa lettera come preavviso formale delle mie dimissioni dall'incarico di Senior Analyst presso Northbridge Analytics.
+- In accordance with my contract, my last day of employment will be Friday 19 December.
+  it: Ai sensi del mio contratto, il mio ultimo giorno di lavoro sarà venerdì 19 dicembre.
+- I am grateful for the opportunities I have had here over the past five years, in particular for the chance to lead the Midland client work and to mentor two junior colleagues.
+  it: Sono grato per le opportunità avute qui negli ultimi cinque anni, in particolare per la possibilità di guidare il lavoro clienti delle Midlands e di fare da mentor a due colleghi junior.
+- I have learned a great deal from the team, and I leave with respect for the craft the firm still does well.
+  it: Ho imparato molto dalla squadra, e me ne vado con rispetto per il mestiere che l'azienda fa ancora bene.
+- I will do all I can to hand over my files in good order and to support a smooth transition before I go.
+  it: Farò tutto il possibile per consegnare i miei fascicoli in ordine e per sostenere una transizione ordinata prima di andarmene.
+- Thank you again for your support during my time at Northbridge.
+  it: Grazie ancora per il sostegno durante il mio periodo a Northbridge.
+- Yours sincerely,
+  it: Cordiali saluti,
+- Daniel Hart
+  it: Daniel Hart
+- The letter that stayed in the drawer.
+  it: La lettera rimasta nel cassetto.
+- Helen,
+  it: Helen,
+- I am leaving because the quarterly report taught me to call a redundancy a managed reduction, and I am tired of translating myself into that dialect before breakfast.
+  it: Me ne vado perché la relazione trimestrale mi ha insegnato a chiamare un esubero una riduzione gestita, e sono stanco di tradurmi in quel dialetto prima di colazione.
+- I am leaving because Reply All became a tribunal over cake, and nobody in leadership closed it until eighty inboxes had already paid the price.
+  it: Me ne vado perché Rispondi a tutti è diventato un tribunale sulla torta, e nessuno della direzione l'ha chiuso finché ottanta caselle non avevano già pagato il prezzo.
+- I am leaving because the four-day-week pilot was praised in the corridor and postponed in the meeting, and I am done applauding courage that never reaches a vote.
+  it: Me ne vado perché il pilota della settimana di quattro giorni è stato lodato in corridoio e rinviato in riunione, e ho finito di applaudire un coraggio che non arriva mai al voto.
+- I am leaving because my contract's notice period is clearer than the firm's gratitude, and because clear paper is the one honesty we still practise.
+  it: Me ne vado perché il preavviso del mio contratto è più chiaro della gratitudine dell'azienda, e perché la carta chiara è l'unica onestà che pratichiamo ancora.
+- I liked the work when the work was the work.
+  it: Mi piaceva il lavoro quando il lavoro era il lavoro.
+- I liked Nadia in Accounts, who labelled her milk, and Sam, who finally said Reply All was not a stage.
+  it: Mi stava simpatica Nadia in Contabilità, che metteva il nome sul latte, e Sam, che alla fine ha detto che Rispondi a tutti non era un palcoscenico.
+- I did not like being asked to streamline people I had trained, while the Board kept a dividend that the sticky note would have paused.
+  it: Non mi è piaciuto che mi si chiedesse di snellire persone che avevo formato, mentre il Consiglio teneva un dividendo che il foglietto avrebbe sospeso.
+- You will get the polite letter, because the polite letter protects the juniors who still need a reference from this address.
+  it: Riceverai la lettera educata, perché la lettera educata protegge i junior che hanno ancora bisogno di una referenza da questo indirizzo.
+- Keep this one. Or burn it. It was never going to be emailed.
+  it: Tieni questa. O bruciala. Non sarebbe mai partita per email.
+- Daniel
+  it: Daniel
+- Between the two letters sits the craft of leaving without burning the corridor behind you.
+  it: Fra le due lettere sta il mestiere di andarsene senza bruciare il corridoio alle proprie spalle.
+- The first is formal tact: notice, date, thanks, handover, Yours sincerely.
+  it: La prima è tatto formale: preavviso, data, ringraziamenti, passaggio di consegne, Yours sincerely.
+- The second is the true inventory, and it belongs in a drawer the way a solicitor's plain English belongs after the sealing.
+  it: La seconda è l'inventario vero, e sta in un cassetto come l'inglese piano del solicitor sta dopo il sigillo.
+- A resignation is not a quarterly report: it does not need softer, elevated or cautiously optimistic.
+  it: Una lettera di dimissioni non è una relazione trimestrale: non le servono softer, elevated o cautiously optimistic.
+- It needs a date that the contract will recognise, and a tone that tomorrow's reference can survive.
+  it: Le serve una data che il contratto riconosca, e un tono a cui la referenza di domani possa sopravvivere.
+- The drawer can hold the rest.
+  it: Il cassetto può tenere il resto.
+- On Friday afternoon Daniel Hart printed only the first letter, signed it in black ink, and walked it to Helen's office before the kettle boiled.
+  it: Venerdì pomeriggio Daniel Hart stampò solo la prima lettera, la firmò con inchiostro nero, e la portò all'ufficio di Helen prima che bollisse il bollitore.
+- He left the second under a box of old badges.
+  it: Lasciò la seconda sotto una scatola di vecchi badge.
+- Helen read the first, thanked him, and asked whether the Midland files would be indexed before his last day.
+  it: Helen lesse la prima, lo ringraziò, e chiese se i fascicoli delle Midlands sarebbero stati indicizzati prima del suo ultimo giorno.
+- They would, he said.
+  it: Lo sarebbero stati, disse.
+- She did not ask what else he had written.
+  it: Non chiese cos'altro avesse scritto.
+- He did not offer.
+  it: Lui non offrì.
+- That, too, was tact.
+  it: Anche quello era tatto.
+
+notes.it:
+1. The letter that left the building: cornice. Due testi, uno spedito e uno no. Dear Ms Okonkwo: apertura formale a un superiore; Ms non dice lo stato civile. Formal notice of my resignation: formula standard britannica.
+2. post of Senior Analyst... Northbridge Analytics: incarico e datore (azienda inventata che lega la settimana). In accordance with my contract... last day... Friday 19 December: la data di uscita è il fatto che conta per HR; in accordance with riprende il legale (lezione 39).
+3. Grateful... in particular: grazie specifiche (Midland client work, mentor), non un elenco gonfio. Respect for the craft the firm still does well: still ammette limiti senza attaccare. Hand over... smooth transition: passaggio di consegne.
+4. Yours sincerely: chiusura formale britannica dopo un nome (non dopo Hi). Daniel Hart: firma piena della lettera che parte.
+5. The letter that stayed in the drawer. Helen,: svolta. Vocativo nudo; in italiano lo sfogo dà del tu (Me ne vado, Riceverai): non è la lettera HR. Managed reduction / quarterly report: lezione 36. Dialect before breakfast: il registro aziendale come dialetto imposto.
+6. Reply All became a tribunal over cake... eighty inboxes (lezione 37); four-day-week pilot... postponed (lezione 38): lo sfogo riusa la settimana. Courage that never reaches a vote: coraggio da corridoio senza delibera.
+7. notice period is clearer than the firm's gratitude: il contratto come unica chiarezza. I liked the work when the work was the work: frase nuda. Nadia labelled her milk; Sam... not a stage: pezzi umani salvati dal rogo.
+8. streamline people I had trained... dividend... sticky note: eco della 36, tagliare persone vs tenere il dividendo. Polite letter protects the juniors... reference: motivo del tatto. Keep this / burn it / never going to be emailed: lo sfogo sa di non essere inviabile.
+9. Between the two letters sits the craft: tesi della lezione. Formal tact contro true inventory. Drawer come plain English dopo il sigillo (lezioni 39-40). A resignation is not a quarterly report: niente softer o cautiously optimistic.
+10. Date the contract will recognise... tone that tomorrow's reference can survive: due criteri. Printed only the first... kettle: gesto concreto. Helen asked about files before his last day; She did not ask... He did not offer... That, too, was tact: il non detto è parte del mestiere di andarsene.
+
+ex1:
+- The formal letter gave notice, named a last day in line with the contract, thanked Helen for real work, and promised an orderly handover.
+  it: La lettera formale dava il preavviso, indicava un ultimo giorno conforme al contratto, ringraziava Helen per lavoro vero, e prometteva un passaggio di consegne ordinato.
+- The drawer letter accused the firm of managed reductions, a Reply-All tribunal over cake, and a four-day pilot that died in the meeting.
+  it: La lettera del cassetto accusava l'azienda di riduzioni gestite, di un tribunale Reply All sulla torta, e di un pilota di quattro giorni morto in riunione.
+- Daniel still praised Nadia for labelling her milk and Sam for closing the stage, so the anger was not a blank page.
+  it: Daniel lodava ancora Nadia per avere messo il nome sul latte e Sam per avere chiuso il palcoscenico, così la rabbia non era una pagina bianca.
+- He sent only the polite version because juniors would still need a reference from that address.
+  it: Mandò solo la versione educata perché i junior avrebbero ancora avuto bisogno di una referenza da quell'indirizzo.
+- Helen asked about the Midland files before his last day and not about the drawer; he did not offer, and that silence was also tact.
+  it: Helen chiese dei fascicoli delle Midlands prima del suo ultimo giorno e non del cassetto; lui non offrì, e anche quel silenzio era tatto.
+
+ex2:
+- Please accept this letter as formal [notice] of my resignation.
+  it: Voglia considerare questa lettera come preavviso formale delle mie dimissioni.
+- I will do all I can to hand over my files in good order and to support a smooth [transition].
+  it: Farò tutto il possibile per consegnare i miei fascicoli in ordine e per sostenere una transizione ordinata.
+- I am tired of translating myself into that [dialect] before breakfast.
+  it: Sono stanco di tradurmi in quel dialetto prima di colazione.
+- The polite letter protects the juniors who still need a [reference] from this address.
+  it: La lettera educata protegge i junior che hanno ancora bisogno di una referenza da questo indirizzo.
+- Between the two letters sits the [craft] of leaving without burning the corridor behind you.
+  it: Fra le due lettere sta il mestiere di andarsene senza bruciare il corridoio alle proprie spalle.
+
+tasks:
+- Formal: Dear Mr Bell, Please accept this as notice of my resignation as Project Coordinator. My last day, per contract, will be 30 January. Thank you for the chance to run the Canal Street rollout and to work with a steady team. I will leave the schedules and passwords in order. Yours sincerely, Giulia Conti. Drawer: Marcus — I am going because every delay was called a review and every cut was called a streamlining, and I am done smiling in that dialect. I liked the junior who asked real questions. You get the polite letter so their references stay clean.
+  task.it: Scrivi entrambe le lettere di dimissioni per un altro lavoro (inventalo): quella formale da mandare e quella dello sfogo da cassetto. Inglese. Intorno alle 120-150 parole in tutto per le due. La formale ha data, grazie plausibili e passaggio di consegne; lo sfogo può essere diretto, ma non volgare.
+  rubric.it: Si distinguono netto i due registri; la formale sopravvivrebbe a HR e a una referenza; lo sfogo dice motivi credibili senza contraddire la formale sui fatti base (ruolo, uscita); l'inglese è naturale e britannico; non ricicli alla lettera le frasi di Daniel al posto di un altro lavoro.
+
+== 42 C2
+kind: revision
+numeral: Lesson Forty-Two
+title: Revision
+title.it: Ripasso
+
+dialogue:
+- Monday at Northbridge Analytics.
+  it: Lunedì a Northbridge Analytics.
+  refs: 36 41
+- The Board read that headline revenue was broadly in line, once adjustments were taken into account, and that underlying sales in the North had been softer than guided.
+  it: Il Consiglio lesse che il fatturato complessivo era sostanzialmente in linea, una volta considerate le rettifiche, e che le vendite sottostanti nel Nord erano state più deboli delle indicazioni.
+  refs: 36
+- Forty support roles would go in a managed reduction; cash was adequate day to day; free cash flow after capital expenditure was not.
+  it: Quaranta ruoli di supporto sarebbero andati in una riduzione gestita; la liquidità era adeguata giorno per giorno; il flusso di cassa libero dopo gli investimenti no.
+  refs: 36
+- The honest version fitted on a sticky note, and nobody circulated it.
+  it: La versione onesta stava su un foglietto, e nessuno la fece circolare.
+  refs: 36
+- Tuesday: cake by the kettle, then Reply All, then a tribunal over mugs, salmon and standards.
+  it: Martedì: torta vicino al bollitore, poi Rispondi a tutti, poi un tribunale su tazze, salmone e standard.
+  refs: 37
+- Sam Reed closed the thread and said the tool was not a stage; James wrote privately that he had only meant a polite nudge.
+  it: Sam Reed chiuse il thread e disse che lo strumento non era un palcoscenico; James scrisse in privato di avere inteso soltanto un richiamo cortese.
+  refs: 37
+- Wednesday: People & Culture tabled a six-month pilot of a four-day week on full pay, Monday skeleton desk, measures against last year.
+  it: Mercoledì: People & Culture presentò un pilota di sei mesi di settimana a quattro giorni a stipendio pieno, sportello ridotto il lunedì, misure rispetto all'anno scorso.
+  refs: 38
+- The sceptics wrote objections about billable hours, peak-season clients, and part-time fairness, and sent them before the vote, as asked.
+  it: Gli scettici scrissero obiezioni su ore fatturabili, clienti di alta stagione ed equità part-time, e le mandarono prima del voto, come chiesto.
+  refs: 38
+- The vote was postponed; the corridor called that prudence; Daniel called it applause without a decision.
+  it: Il voto fu rinviato; il corridoio lo chiamò prudenza; Daniel lo chiamò applauso senza decisione.
+  refs: 38 41
+- Thursday: Giulia Conti signed an assured shorthold tenancy for Flat 4, Canal Street, after the solicitor put quiet enjoyment and fair wear and tear into ordinary clothes.
+  it: Giovedì: Giulia Conti firmò una locazione assured shorthold per Flat 4, Canal Street, dopo che l'avvocato ebbe messo godimento pacifico e usura normale in abiti ordinari.
+  refs: 39 40
+- Deposit protected, rent by standing order, twenty-four hours' notice before access except in emergency: she initialled each page without calling the sofa stain hers in advance.
+  it: Deposito protetto, canone con ordine permanente di bonifico, preavviso di ventiquattr'ore prima dell'accesso salvo emergenza: siglò ogni pagina senza dichiarare in anticipo sua la macchia del divano.
+  refs: 39
+- Friday morning: Mr Hale's draft will arrived from the solicitor's, Leah and David as executors, hospice and watch as gifts, residue in two halves, letter of wishes for the house.
+  it: Venerdì mattina: a Mr Hale arrivò dallo studio la bozza del testamento, Leah e David esecutori, hospice e orologio come legati, residuo in due metà, lettera dei desideri per la casa.
+  refs: 40
+- He would go on saying sign until the witnesses arrived; execute could wait for the day.
+  it: Avrebbe continuato a dire sign finché non fossero arrivati i testimoni; execute poteva aspettare il giorno della firma.
+  refs: 40
+- Friday afternoon: Daniel carried one letter to Helen Okonkwo and left the other under a box of badges.
+  it: Venerdì pomeriggio: Daniel portò una lettera a Helen Okonkwo e lasciò l'altra sotto una scatola di badge.
+  refs: 41
+- The letter that left named notice, a last day, thanks for Midland work, and a smooth handover.
+  it: Quella che partì nominava preavviso, un ultimo giorno, grazie per il lavoro Midlands, e un passaggio di consegne ordinato.
+  refs: 41
+- The letter that stayed named managed reductions, the cake tribunal, the postponed pilot, and the juniors who still needed a reference.
+  it: Quella che restò nominava riduzioni gestite, il tribunale della torta, il pilota rinviato, e i junior che avevano ancora bisogno di una referenza.
+  refs: 36 37 38 41
+- Helen asked whether the files would be indexed before his last day; she did not ask about the drawer.
+  it: Helen chiese se i fascicoli sarebbero stati indicizzati prima del suo ultimo giorno; non chiese del cassetto.
+  refs: 41
+- Professional writing, in this building, was the art of choosing which page left the room.
+  it: La scrittura professionale, in questo palazzo, era l'arte di scegliere quale pagina lasciasse la stanza.
+  refs: 36 41
+- Soften the miss for the Board; close the thread for eighty inboxes; measure the pilot before selling the lifestyle; translate the lease before the stain becomes yours; use execute when validity needs it; send the resignation that tomorrow's reference can survive.
+  it: Addolcisci il mancato obiettivo per il Consiglio; chiudi il thread per ottanta caselle; misura il pilota prima di vendere lo stile di vita; traduci il contratto prima che la macchia diventi tua; usa il verbo solenne del firmare quando serve la validità; manda le dimissioni a cui la referenza di domani possa sopravvivere.
+  refs: 36 37 38 39 40 41
+- The sticky note, the closed thread, the objections, the inventory, the letter of wishes, and the drawer: six tools, one week.
+  it: Il foglietto, il thread chiuso, le obiezioni, l'inventario, la lettera dei desideri e il cassetto: sei strumenti, una settimana.
+  refs: 36 37 38 39 40 41
+- Sam put the kettle on, rinsed a mug, and left the umbrella by the door for whoever had the last train.
+  it: Sam mise su il bollitore, sciacquò una tazza, e lasciò l'ombrello vicino alla porta per chiunque avesse l'ultimo treno.
+  refs: 37 41
+
+notes.it:
+Non c'è una regola nuova. La settimana ha messo in ordine la scrittura del lavoro e della legge: relazione che nasconde, mail che monta, proposta con prove, contratto, testamento parlato, dimissioni con tatto. Se due mosse ti sembrano la stessa, guardale in tabella.
+
+1. Relazione e hedging (lezione 36). Il report mette il cattivo in broadly, softer, elevated, managed reduction, cautiously optimistic. La verità sta sul foglietto.
+
+| Formula | Senso piano | Lezione |
+|---|---|---|
+| broadly in line (after adjustments) | il numero bello dipende dalle rettifiche | 36 |
+| softer than guided | sotto le indicazioni di luglio | 36 |
+| managed reduction | esuberi | 36 |
+| cautiously optimistic | speranza, non fatto | 36 |
+| sticky note | riassunto onesto non circolato | 36 |
+
+Nel ripasso il foglietto di nuovo non circola: stesso gesto della chiusa della 36.
+
+2. Mail e tono (lezione 37). Reply All allarga il pubblico; la lite sul lavandino nasce da una torta. Chiudere il thread è mestiere; Reply privato spegne il tribunale.
+
+| Mossa | Effetto | Lezione |
+|---|---|---|
+| Reply All su All Staff | ottanta caselle nel litigio | 37 |
+| copiare Facilities «for information» | alza il registro | 37 |
+| chiudere il thread (Sam) | tool, not a stage | 37 |
+| scusa in privato (James) | de-escalation | 37 |
+
+Martedì del ripasso è quella scala; Sam e James ripetono la fine della 37.
+
+3. Proposta e prove (lezione 38). Raccomandazione, dati, modello, misure, costi, equità. Le obiezioni fanno parte del paper se arrivano prima del voto.
+
+| Pezzo | Funzione | Lezione |
+|---|---|---|
+| pilot / full pay | cosa si chiede | 38 |
+| turnover, survey, UK trials | prove (con limiti) | 38 |
+| skeleton desk, success measures | operatività e falsificabilità | 38 |
+| write objections before the vote | prova di maturità | 38 |
+
+Nel ripasso il voto slitta: la 41 userà quel rinvio nello sfogo.
+
+4. Contratto e plain English (lezione 39). Shall, Landlord, Tenant; poi abiti ordinari. Deposito protetto, quiet enjoyment, fair wear and tear, inventario.
+
+| Clausola | Piano | Lezione |
+|---|---|---|
+| fixed term + rent in advance | quanto e fino a quando | 39 |
+| deposit in authorised scheme | non nel taschino del locatore | 39 |
+| quiet enjoyment / access with notice | vivere senza visite a caso | 39 |
+| fair wear and tear excepted | usura normale non è colpa tua | 39 |
+| inventory before you sign | la macchia del divano | 39 |
+
+Giulia firma dopo la traduzione: stesso movimento solicitor → plain della 39.
+
+5. Testamento in conversazione (lezione 40). Capacity, executor, specific gifts, residue, survivorship, letter of wishes, witnesses, execute.
+
+| Termine | Lavoro | Lezione |
+|---|---|---|
+| executor | raccoglie, paga, distribuisce | 40 |
+| residue + survivorship | quote e trenta giorni | 40 |
+| letter of wishes | guida, non vincola come un trust duro | 40 |
+| execute | firmare in forma che rende valido | 40 |
+| intestacy | senza testamento, per legge | 40 |
+
+Mr Hale nel ripasso riceve la bozza: la parola solenne aspetta il giorno della firma.
+
+6. Dimissioni e tatto (lezione 41). Una lettera parte; una resta. Notice, data, grazie, handover contro inventario vero. Il cassetto protegge le referenze dei junior.
+
+| Pagina | Contenuto | Lezione |
+|---|---|---|
+| formale | notice, last day, thanks, Yours sincerely | 41 |
+| cassetto | managed reduction, tribunal, pilot rinviato | 41 |
+| perché la formale | referenze dei junior | 41 |
+| silenzio con Helen | anche quello è tatto | 41 |
+
+In ordine: hedge per il Board, pubblico giusto per la mail, prove per la proposta, plain per il lease, verbo solenne per il will, tatto per l'uscita. Sam chiude sul gesto ordinario (bollitore, tazza, ombrello): plain practice dopo una settimana di carte.
+
+tasks:
+- Dear Mr Patel, I am writing to apply for the Senior Analyst post advertised on your website. For five years I have led client work in the Midlands, mentored juniors, and handed over files in good order when projects closed. I know less about retail data than about public-sector work, and I would expect to spend my first months learning it. I read a room before I Reply All, I prefer evidence to slogans, and I can translate a managed reduction into plain English when the Board needs it. I would welcome a conversation. Yours sincerely, Daniel Hart.
+  task.it: Scrivi una cover letter (lettera di candidatura) in inglese, intorno alle 120-150 parole, per un posto a Northbridge Analytics o in un'azienda simile. Registro formale britannico (Dear..., Yours sincerely). Mostra, senza copiare le lezioni a memoria, che sai tono, chiarezza e tatto: una prova di competenza, un limite ammesso con onestà, una chiusura netta.
+  rubric.it: Struttura da lettera (apertura, perché tu, cosa offri, chiusura); registro formale coerente; niente softer/managed reduction usati per vantarsi senza ironia consapevole; l'inglese è naturale; si sente una persona, non un elenco di soft skill.

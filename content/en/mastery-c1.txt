@@ -2688,3 +2688,448 @@ tasks:
 - Chair, I concede the shops, and I am not taking that back. A place to stop matters. What does not follow is this field, under a title that keeps the word spaces and lets the water go. We were offered a faster turn, a quieter street, and a kinder walk, and none of the three named a rival or a flood. The bus is thin after eight. I grant it. A car park is not that bus, and the sheet has no budget for one. I am not able to accept Riverside Spaces. I am not going to pretend a title is a plan. The sentence I will sign is shorter. The field floods. Please record that, and leave the pen on the chair.
   task.it: Scrivi un intervento persuasivo di circa un minuto, intorno alle 120 parole, per questa assemblea o per un'altra dello stesso tipo. Una concessione che resta, una replica, e una frase che si può firmare. Non un secondo verbale del testo.
   rubric.it: Si capisce che cosa chiedi di votare o di verbalizzare; c'è una concessione non ritirata, e una replica con un does not follow o un equivalente; c'è una triade, un'anafora o un titolo usato come scelta; il registro è detto in sala, e il no o il sì finale è chiaro; non ricicli Priya, l'Osier, la signora Holt o la torta come se fossero questa pratica.
+
+== 22 C1
+numeral: Lesson Twenty-Two
+title: The last bus
+title.it: L'ultimo autobus
+
+dialogue:
+- Ruth was already under the shelter when she understood that her flat key was still on her sister's hall table.
+  it: Ruth era già sotto la pensilina quando capì che la chiave di casa era ancora sul tavolino dell'ingresso, da sua sorella.
+- She had put it down, two flights up, beside her handbag while she looked for her gloves, and the argument had reached the house before she picked it up.
+  it: L'aveva posata due piani più su, accanto alla borsa, mentre cercava i guanti, e la discussione era arrivata alla casa prima che lei la riprendesse.
+- She did not go back.
+  it: Non tornò su.
+- The last bus, the 23:15 to the station, was the plan she had made on the stairs, between the landing and the street, while her sister was still finding the next sentence.
+  it: L'ultimo autobus, il 23:15 per la stazione, era il piano che aveva fatto sulle scale, tra il pianerottolo e la strada, mentre sua sorella stava ancora cercando la frase successiva.
+- A walk would have taken forty minutes, and the last stretch had no pavement.
+  it: A piedi ci sarebbero voluti quaranta minuti, e l'ultimo tratto era senza marciapiede.
+- She had booked a room that afternoon, above a pub by the station, before the visit found its subject.
+  it: Quel pomeriggio aveva prenotato una stanza, sopra un pub vicino alla stazione, prima che la visita trovasse il suo argomento.
+- Tonight, therefore, she needed only the bus.
+  it: Stanotte, dunque, le serviva solo l'autobus.
+- The morning would need the key, and the morning could be the one to knock.
+  it: Al mattino sarebbe servita la chiave, e il mattino poteva essere quello che bussava.
+- The shelter held two other people and a timetable behind a yellowed sheet of plastic.
+  it: Nella pensilina c'erano altre due persone e un orario dietro un foglio di plastica ingiallito.
+- The board above the kerb said DUE, and had been saying it since she arrived, which was no promise until a bus made the word true.
+  it: Il tabellone sopra il bordo del marciapiede diceva DUE («previsto»), e lo diceva da quando lei era arrivata, il che non era una promessa finché un autobus non rendeva vera la parola.
+- An older man sat with a rucksack between his feet and watched the road as if it owed him a small apology.
+  it: Un uomo più anziano stava seduto con uno zaino tra i piedi e guardava la strada come se gli dovesse una piccola scusa.
+- A girl in a supermarket polo was on her phone, telling someone she would be twenty minutes, in the voice people use when they are guessing.
+  it: Una ragazza con la polo del supermercato era al telefono, e diceva a qualcuno che ci sarebbero voluti venti minuti, con la voce di chi sta tirando a indovinare.
+- Ruth's visit had run from four until nearly eleven.
+  it: La visita di Ruth era durata dalle quattro fino a quasi le undici.
+- The part worth keeping was a kettle, and a short truce over a packet of biscuits neither of them had meant to open.
+  it: La parte che valeva la pena di tenere era un bollitore, e una breve tregua su un pacchetto di biscotti che nessuna delle due aveva avuto intenzione di aprire.
+- The rest had been the house their mother had left: who would clear it, who would sign, and who had already decided.
+  it: Il resto era stato la casa che la madre aveva lasciato: chi l'avrebbe sgomberata, chi avrebbe firmato, e chi aveva già deciso.
+- She let that stay upstairs.
+  it: Quel resto lo lasciò di sopra.
+- A lorry passed, and the shelter shook, and nobody stood.
+  it: Passò un camion, e la pensilina tremò, e nessuno si alzò.
+- The girl said she was at the stop, and then, lower, that she did not know which stop.
+  it: La ragazza disse che era alla fermata, e poi, più piano, che non sapeva quale fermata.
+- The man cleared his throat.
+  it: L'uomo si schiarì la gola.
+- The driver was often late on a Friday, he said, on account of the roadworks by the hospital, and he offered it as a fact he had sat with before, not as comfort.
+  it: Di venerdì l'autista era spesso in ritardo, disse, a causa dei lavori stradali vicino all'ospedale, e lo offrì come un fatto a cui si era già abituato, per averci aspettato, non come un conforto.
+- The board changed from DUE to DELAYED.
+  it: Il tabellone passò da DUE («previsto») a DELAYED («in ritardo»).
+- The girl swore softly and kept the phone at her ear.
+  it: La ragazza imprecò piano e tenne il telefono all'orecchio.
+- Ruth counted the coins in her coat, though she had a card, because counting was slower than deciding.
+  it: Ruth contò le monete nel cappotto, benché avesse la carta, perché contare era più lento che decidere.
+- Last orders were being called in the pub past the terrace, a door opening and shutting on the same laugh.
+  it: Nel pub oltre le case a schiera stavano chiamando le ultime ordinazioni, una porta che si apriva e si chiudeva sulla stessa risata.
+- She thought of the key, beside the handbag, and of the apples in a bowl, which nobody had put on the list of things to decide.
+  it: Pensò alla chiave, accanto alla borsa, e alle mele in una ciotola, che nessuno aveva messo nell'elenco delle cose da decidere.
+- The apples had been the only thing in the kitchen that was not a decision.
+  it: Le mele erano state l'unica cosa in cucina a non essere una decisione.
+- Lights come over the hill, high and paired.
+  it: Dalla collina arrivano dei fari, alti e in coppia.
+- The man stays seated.
+  it: L'uomo resta seduto.
+- The girl stands, then sits again, then stands.
+  it: La ragazza si alza, poi si siede di nuovo, poi si alza.
+- Ruth puts her hand out.
+  it: Ruth tende la mano.
+- The lights dip with the road, and for a moment they are only a glare on the wet kerb.
+  it: I fari scendono con la strada, e per un momento sono solo un bagliore sul bordo bagnato del marciapiede.
+- She keeps her hand out, and the man does not stand, and the thing on the hill has not yet said what it is.
+  it: Lei tiene la mano tesa, e l'uomo non si alza, e la cosa sulla collina non ha ancora detto che cos'è.
+
+notes.it:
+1. already under the shelter: il racconto non attacca dalla porta. Ruth è già alla fermata, e il capire arriva lì. È un inizio a metà: il lettore entra a cosa fatta. Was e understood sono past simple, il tempo ordinato dei fatti. Flat è l'appartamento, la parola britannica (apartment si sente, ed è l'altra sponda dell'Atlantico). Hall table è il tavolino dell'ingresso, dove si posano le chiavi uscendo.
+2. had put it down, two flights up: due past perfect, had put e had reached. Posare la chiave, e la lite che arriva alla casa, stanno prima della pensilina. Il past perfect segna quell'anteriorità, non un passato generico. Had been, in un'altra frase, faceva lo stesso lavoro (lezione 15, nota 5). While she looked è un past continuous: i guanti durano, la lite si sposta intanto. Two flights up è il prezzo di tornare su, detto come luogo, non come scena.
+3. She did not go back: cinque parole, dopo una frase lunga. Il ritmo è la decisione. Il verbo è go back, il gesto, senza un verbo di pensiero in mezzo. La frase dopo è un autobus, e da quello si capisce che la scelta è già presa.
+4. the plan she had made on the stairs: ancora un past perfect, e il tempo della decisione è stretto, between the landing and the street, il pianerottolo e la strada. While her sister was still finding the next sentence tiene la sorella nel past continuous, ancora dentro la frase, mentre Ruth è già nel piano. 23:15 si legge twenty-three fifteen, l'orario di una corsa. The last bus è l'ultima corsa prevista, e l'arrivo è un'altra frase.
+5. would have taken forty minutes: would have e il participio sono il conditional perfect. È un conto, non un fatto: quella camminata non è avvenuta. Pavement è il marciapiede. L'ultimo tratto senza, di notte, è il motivo pratico dell'attesa. Forty minutes è un numero tondo, il calcolo di chi sta sulle scale, non una misura letta su una mappa.
+6. before the visit found its subject: la stanza è prenotata nel pomeriggio, prima che la visita trovi il suo subject, qui l'argomento, non una persona. Quando arriva la notte, il letto c'è già. Therefore, fra due virgole, è il dunque del narratore, un filo più scritto di «so»: dal prenotato segue che stanotte basta l'autobus. «So», nella stessa posizione, si sente, e suona più parlato.
+7. the morning could be the one to knock: would need è il futuro visto da quella notte, il future in the past. Could be the one to knock affida il bussare al mattino. Per un attimo il mattino è una persona. È il modo di lasciare la chiave a domani senza dire «ci penserò poi», che sarebbe già un altro registro.
+8. said DUE, and had been saying: sui tabelloni delle fermate DUE vuol dire previsto, non arrivato. Had been saying è un past perfect continuous: il dire dura dall'arrivo di Ruth fino a questo momento. Which riprende quel dire. No promise: la parola non impegna nessuno, finché un autobus non la rende vera.
+9. had run from four until nearly eleven: sommario. Dalle quattro alle undici stanno in una frase, e la frase dopo tiene solo il bollitore e la tregua sui biscotti. Il resto della visita non diventa scena. È la scelta di ritmo: il sommario salta, la scena resta. Neither of them had meant to open: la sola pace della sera è un pacchetto aperto senza volerlo.
+10. She let that stay upstairs: that riprende la lite di prima, chi sgombera, chi firma, chi aveva già deciso. Clear, nella frase di sopra, è sgomberare la casa. Sign è firmare le carte. Had already decided è un past perfect nel sommario: una decisione presa prima della visita. Lasciarla di sopra è non portarla alla fermata. Il luogo è vero, due piani sopra, e la metafora ci si appoggia.
+11. A lorry passed, and the shelter shook, and nobody stood: due and, tre fatti. La congiunzione ripetuta li tiene allo stesso livello, e l'autobus non è fra loro. Il ritmo rallenta apposta. Passa del tempo, la trama no. Una virgola li avrebbe solo elencati. And li fa durare.
+12. she would be twenty minutes: would, nel discorso riferito, è il futuro visto da allora. La ragazza non ha una riga sua: la frase resta del narratore, e l'attesa non si ferma. In the voice people use when they are guessing giudica il tono. Lei sta stimando. Polo, in a supermarket polo, è la maglietta del turno, non il gioco a cavallo.
+13. on account of the roadworks: on account of è «a causa di», un po' più disteso di «because», e sta bene in bocca a chi ha già aspettato. Not as comfort: è detto un fatto sui lavori. Si intende che non è un conforto. Lo si capisce da a fact he had sat with before: sit with something è restarci accanto, senza risolverlo. Often è la sua esperienza del venerdì. I lavori sono la ragione che offre lui.
+14. counting was slower than deciding: ha la carta, e conta lo stesso le monete. L'azione lenta tiene lontana la scelta, tornare su o restare. Though she had a card è la concessione che fa vedere il gesto come inutile, e quindi come scelta. Il ritmo, qui, è un carattere.
+15. Last orders were being called: in un pub, last orders è il richiamo delle ultime consumazioni, prima che il banco chiuda. Were being called è un past continuous, sullo sfondo. Terrace è la fila di case a schiera. Il pub è past the terrace, oltre, non sulla terrazza del locale. La porta e la stessa risata tengono il suono fermo, come il camion di prima.
+16. the only thing in the kitchen that was not a decision: dopo chi sgombera e chi firma, le mele non stanno in nessuna lista. Had been le mette già così, in cucina, prima di questo pensiero. Only fa il contrasto: tutto il resto era una decisione. Il sorriso è del narratore, secco, e nessuno alla fermata lo sente.
+17. Lights come over the hill: presente storico. Fino a qui il racconto è al passato. Ai fari il tempo verbale cambia, e le tre frasi dopo restano corte, al presente: stays, stands, puts. Si accelera, e si toglie il poi. Non è più un fatto chiuso. È un momento ancora aperto. Nel racconto inglese lo si fa spesso a una svolta. Non è l'unico modo, e non è un presente sbagliato. L'italiano ha lo stesso strumento. Qui il salto si sente perché prima c'erano delle ore al passato.
+18. has not yet said what it is: finale aperto. Has not yet è un present perfect: fino a questa frase, la cosa non ha un nome. Thing tiene il nome in sospeso. Puts her hand out, e qui keeps her hand out, alla fermata è il gesto di fermare il mezzo: la scommessa di Ruth. The man does not stand è l'altra informazione, di chi conosce già quel ritardo del venerdì. Restare seduto è un segno, e la frase si chiude prima di farne un verdetto, e prima della scala.
+
+ex1:
+- Ruth was already under the shelter when she understood that her flat key was still on her sister's hall table, two flights up, where she had put it down beside her handbag.
+  it: Ruth era già sotto la pensilina quando capì che la chiave di casa era ancora sul tavolino dell'ingresso di sua sorella, due piani più su, dove l'aveva posata accanto alla borsa.
+- She did not go back: the last bus was the 23:15 to the station, and a walk would have taken forty minutes, with no pavement on the last stretch.
+  it: Non tornò su: l'ultimo autobus era il 23:15 per la stazione, e a piedi ci sarebbero voluti quaranta minuti, senza marciapiede sull'ultimo tratto.
+- She had booked a room above a pub by the station that afternoon, before the visit found its subject, so tonight she needed only the bus, and the morning would need the key.
+  it: Quel pomeriggio aveva prenotato una stanza sopra un pub vicino alla stazione, prima che la visita trovasse il suo argomento: stanotte le serviva solo l'autobus, e al mattino sarebbe servita la chiave.
+- The visit had run from four until nearly eleven, the part worth keeping was a kettle and a short truce over biscuits, and the apples were the only thing in the kitchen that was not a decision.
+  it: La visita era durata dalle quattro fino a quasi le undici, la parte che valeva la pena di tenere era un bollitore e una breve tregua sui biscotti, e le mele erano l'unica cosa in cucina a non essere una decisione.
+- Lights come over the hill, Ruth puts her hand out, the man stays seated, and the thing on the hill has not yet said what it is.
+  it: Dalla collina arrivano dei fari, Ruth tende la mano, l'uomo resta seduto, e la cosa sulla collina non ha ancora detto che cos'è.
+
+ex2:
+- A walk would have [taken] forty minutes, and the last stretch had no pavement.
+  it: A piedi ci sarebbero voluti quaranta minuti, e l'ultimo tratto era senza marciapiede.
+- Tonight, [therefore], she needed only the bus.
+  it: Stanotte, dunque, le serviva solo l'autobus.
+- The driver was often late on a Friday on [account] of the roadworks by the hospital.
+  it: Di venerdì l'autista era spesso in ritardo a causa dei lavori stradali vicino all'ospedale.
+- The board had been [saying] the same word since she arrived.
+  it: Il tabellone continuava a dire la stessa parola da quando lei era arrivata.
+- The thing on the hill has not [yet] said what it is.
+  it: La cosa sulla collina non ha ancora detto che cos'è.
+
+tasks:
+- The glare thickened into a lorry, and it passed without slowing. Ruth felt foolish with her hand still out. She did not take it down. The man stayed seated. Then a second pair of lights came, lower, and the girl said that was it, and this time the man stood, which was the only timetable Ruth trusted. The bus was half empty and a little late, and the roadworks had done no worse than that. She paid with the card. The coins stayed in her coat, uncounted. At the station the room was the one above the pub, as the booking had said. She slept. The key remained on the hall table, two flights up, not far from the apples. In the morning she would knock, and the argument could have its second half in daylight, when the stretch with no pavement was only a walk.
+  task.it: Scrivi il finale che il racconto non dà. Intorno alle 150 parole. Si deve capire se l'autobus arriva, e che cosa fa Ruth stanotte della chiave. I fatti già detti restano: la stanza prenotata sopra il pub alla stazione, l'ultimo tratto senza marciapiede, l'uomo che non si alza, il venerdì e i lavori vicino all'ospedale.
+  rubric.it: Si capisce se l'autobus arriva e dove dorme Ruth; il registro è narrativo, in linea col racconto, non un commento; il finale usa i fatti già posti, chiave, stanza, marciapiede, uomo, lavori, senza contraddirli; c'è un cambio di ritmo, una frase corta o una lunga nel punto che conta; la notte si chiude, e la lite non ricomincia per intero alla fermata.
+
+== 23 C1
+numeral: Lesson Twenty-Three
+title: In the manner of the Victorians
+title.it: Alla maniera dei vittoriani
+
+dialogue:
+- The fog had come up from the river with the early dark, and by the time Mr Hale left his office it lay in the street like a tide on a flat shore, with no intention of leaving.
+  it: La nebbia era salita dal fiume con il primo buio, e quando il signor Hale lasciò l'ufficio stava nella strada come una marea su una riva piatta, senza alcuna intenzione di andarsene.
+- He carried a packet, which his principal had described as urgent, and which had been urgent, in that office, since a little after four.
+  it: Portava un plico, che il suo principale aveva detto urgente, e che in quell'ufficio era urgente da poco dopo le quattro.
+- The direction was written on a card in his pocket: a court off the south end of London Bridge, and a lodger who would be gone by dawn.
+  it: L'indirizzo era scritto su un biglietto, in tasca: una corte all'uscita sud di London Bridge, e un inquilino che all'alba sarebbe già partito.
+- London Bridge he could find with his feet; the court was a matter for eyes, and his eyes had already been dismissed by the fog.
+  it: London Bridge la trovava con i piedi; la corte era una questione di occhi, e gli occhi glieli aveva già congedati la nebbia.
+- Gas lamps stood at their proper intervals, each a yellow bruise, and none of them showed him more than the length of his own arm.
+  it: I lampioni a gas stavano alla distanza dovuta, ognuno un livido giallo, e nessuno gli mostrava più della lunghezza del suo braccio.
+- A hansom passed close enough to touch, and was gone before he had formed the thought of hailing it.
+  it: Una carrozza hansom gli passò abbastanza vicino da toccarla, e sparì prima che lui avesse formato il pensiero di chiamarla.
+- He kept the wall, as a prudent man keeps a fact, on his right hand, and he counted turnings until the count itself became doubtful.
+  it: Tenne il muro, come un uomo prudente tiene un fatto, alla sua destra, e contò le svolte finché il conto stesso divenne incerto.
+- At the third lamp a boy detached himself from the post, or from the fog, though it was not easy to say which, and said that he knew the court.
+  it: Al terzo lampione un ragazzo si staccò dal palo, o dalla nebbia, anche se non era facile dire da che cosa, e disse che conosceva la corte.
+- His price was a penny, to be paid at the door, a condition Mr Hale accepted, because a penny for a door he could not find seemed a reasonable speculation.
+  it: Il prezzo era un penny, da pagare alla porta, condizione che il signor Hale accettò, perché un penny per una porta che non trovava gli sembrava una speculazione ragionevole.
+- They walked.
+  it: Camminarono.
+- The boy walked quickly, and talked of fogs he had seen and of a pie that waited, if the penny was honest, at a shop the fog had not abolished.
+  it: Il ragazzo camminava in fretta, e parlava di nebbie che aveva visto e di un pasticcio che lo aspettava, se il penny era onesto, in un negozio che la nebbia non aveva abolito.
+- Mr Hale, who had eaten nothing since noon, found that the pie had entered the conversation with more authority than the court.
+  it: Il signor Hale, che non mangiava nulla da mezzogiorno, trovò che il pasticcio era entrato nella conversazione con più autorità della corte.
+- Presently the boy stopped, and announced the door, and Mr Hale, putting out his hand, felt the same broken brick he had felt at the first lamp.
+  it: Di lì a poco il ragazzo si fermò, e annunciò la porta, e il signor Hale, allungando la mano, sentì lo stesso mattone rotto che aveva sentito al primo lampione.
+- He said nothing for a moment, which cost him something, for he was a man who liked a wrong thing to be named at once.
+  it: Per un momento non disse nulla, e gli costò, perché era un uomo a cui piaceva che una cosa storta venisse detta subito.
+- On the step the boy had called a door, his foot touched a glove, and the glove was his own, dropped at the first lamp.
+  it: Sul gradino che il ragazzo aveva chiamato una porta, il piede gli toccò un guanto, e il guanto era il suo, caduto al primo lampione.
+- A circle, walked at a penny, is an expensive shape, and he would have been angry if the fog had left him a face to be angry at.
+  it: Un cerchio, fatto a piedi per un penny, è una forma costosa, e si sarebbe arrabbiato se la nebbia gli avesse lasciato una faccia su cui arrabbiarsi.
+- He asked the price of the true turning, and he asked it in the voice he used for a column of figures that would not come right.
+  it: Chiese il prezzo della svolta giusta, e lo chiese con la voce che usava per una colonna di cifre che non tornavano.
+- The boy, to his credit, did not invent a second court.
+  it: Il ragazzo, a suo merito, non si inventò una seconda corte.
+- He said that the penny had been for the walking, which was real, and that the truth was a separate article, priced at the pie, which was twopence, and hot.
+  it: Disse che il penny era stato per la camminata, che era vera, e che la verità era un articolo a parte, al prezzo del pasticcio, che faceva due penny, ed era caldo.
+- Mr Hale paid the twopence, because a pie is a motive one can audit, and a fog is not.
+  it: Il signor Hale pagò i due penny, perché un pasticcio è un motivo che si può controllare nei conti, e una nebbia no.
+- They turned the circle into a line, and at the second lamp the boy set Hale's hand on a rail that led down three steps to a numbered door.
+  it: Trasformarono il cerchio in una linea, e al secondo lampione il ragazzo appoggiò la mano di Hale a un corrimano che scendeva tre gradini fino a una porta col numero.
+- The number was the number on the card.
+  it: Il numero era il numero sul biglietto.
+- A woman opened, with the chain still on, and informed him that the lodger had not gone, dawn being, in her view, a rumour got up by gentlemen who wrote on cards.
+  it: Una donna aprì, con la catenella ancora messa, e lo informò che l'inquilino non era partito: l'alba, secondo lei, era una voce messa in giro da gentiluomini che scrivono sui biglietti.
+- Mr Hale delivered the packet, which was a bill for a hat, and which the lodger received in his shirtsleeves, as if a hat could wait out both a fog and a dawn.
+  it: Il signor Hale consegnò il plico, che era un conto per un cappello, e che l'inquilino ricevette in maniche di camicia, come se un cappello potesse aspettare sia una nebbia sia un'alba.
+- On the step again, the fog had thinned by the width of a lamp, as if, the pie being secured, it had business elsewhere.
+  it: Di nuovo sul gradino, la nebbia si era diradata della larghezza di un lampione, come se, messo al sicuro il pasticcio, avesse da fare altrove.
+- Mr Hale put on the recovered glove, which was damp, and walked toward the Bridge, where his office would be, in an hour, exactly as urgent as he had left it.
+  it: Il signor Hale infilò il guanto ritrovato, che era umido, e camminò verso il ponte, dove l'ufficio sarebbe stato, di lì a un'ora, urgente esattamente come l'aveva lasciato.
+
+notes.it:
+1. The fog had come up from the river: had come è un past perfect, la nebbia è già salita prima che Hale esca. La stessa anteriorità del racconto di prima, qui dentro una frase lunga (lezione 22, nota 2). Like a tide on a flat shore è una similitudine: la nebbia fa quello che fa la marea, occupa e sta. With no intention of leaving le dà una volontà. È la prima personificazione, e il tono del pezzo ci si appoggia. La nebbia gialla di quella Londra veniva dal fumo di carbone. La scena usa quel tempo.
+2. which his principal had described as urgent: due which di seguito. È il modo del periodo: la frase non si chiude, si aggancia. Principal, in un ufficio, è il principale, chi lo impiega. Non è il preside di una scuola, che in americano si chiama spesso così. Urgent since a little after four: l'urgenza è dell'ufficio, e ha un'ora. Il plico, fin qui, non ha ancora un contenuto. L'ora fa sembrare grande una cosa che la fine rimpicciolisce.
+3. a court off the south end of London Bridge: court, a Londra, è un cortile o un vicolo chiuso fra le case, fuori da una strada. Non è un tribunale. Il biglietto dà due cose, dopo i due punti: il luogo, e l'inquilino che all'alba parte. By dawn è «entro l'alba». South end è il capo del ponte verso sud, Southwark, ed è un posto vero. La corte, invece, non ha un nome: ne ha abbastanza il ponte.
+4. London Bridge he could find with his feet: il complemento va in testa, e il soggetto dopo. È un'inversione. I piedi sanno il ponte, gli occhi servono alla corte, e la nebbia li ha dismissed, congedati, come un principale congeda un impiegato. Il punto e virgola tiene insieme le due metà, che un racconto più moderno spezzerebbe. La nebbia, di nuovo, agisce.
+5. each a yellow bruise: i lampioni a gas, nella strada di quel secolo, facevano una luce gialla e corta. Bruise è un livido: la luce è un segno, non una vista. Proper intervals è la distanza regolamentare, da strada bene ordinata, e serve a poco, perché il braccio è tutto quello che si vede. None of them showed him more è l'iperbole misurata: non «niente», «non più del braccio».
+6. A hansom: la hansom, *hèn*sëm, è la carrozza a due ruote di quella città, col guidatore seduto dietro, in alto. Passa a portata di mano e non c'è il tempo di chiamarla. Had formed the thought è già un passo più lungo di «thought»: il pensiero non arriva neanche a formarsi. È il ritmo del pezzo, una cosa sfiora Hale e la frase la lascia andare.
+7. as a prudent man keeps a fact: una similitudine da morale. Il muro a destra è un fatto, e l'uomo prudente ci si tiene. On his right hand è «alla sua destra», la mano come lato. Poi il conto delle svolte diventa doubtful, incerto, e la prudenza non basta. La frase è lunga perché vuole sembrare una massima, e alla fine la massima si rompe.
+8. or from the fog, though it was not easy to say which: il ragazzo esce dal palo o dalla nebbia, e la frase dice che la differenza non si vede. Detached himself è «si staccò», come una figura che non c'era. Said that he knew the court è discorso riferito, liscio. Il prezzo viene dopo, in una frase sua, perché è un contratto, non un colore.
+9. a penny, to be paid at the door: il penny è la moneta piccola del sistema di prima del 1971, dodici penny in uno scellino. Qui è un prezzo da ragazzo e da porta. To be paid è la condizione, al passivo. Reasonable speculation è lingua da ufficio: Hale tratta il penny come un investimento su una porta che non vede.
+10. They walked: due parole, dopo le frasi lunghe. È lo stesso colpo secco di una decisione presa in cinque parole (lezione 22, nota 3). Qui il colpo è un passo. Una frase corta, in mezzo alle lunghe, è il passo del periodo, e si usa.
+11. with more authority than the court: il pasticcio è entrato prima, if the penny was honest, così ha già un posto nella sera. Who had eaten nothing since noon è il who del periodo, e dà la fame. Il confronto mette sullo stesso piatto un vicolo e un cibo, con serietà. Abolished, detto del negozio, è un verbo da decreto: la nebbia è ancora un'autorità, e questa volta il forno le è scampato.
+12. Presently the boy stopped: presently, in questa prosa, è di solito «di lì a poco», e si sente anche «fra un momento». Qui è il primo. Announced the door è solenne per un gradino. Putting out his hand è la mano sul muro, per sentire. The same broken brick riporta il primo lampione sotto le dita: il cerchio si capisce dal mattone.
+13. He said nothing for a moment: which cost him something. Gli costa perché era un uomo che voleva dare subito un nome alle cose storte, liked a wrong thing to be named at once. Il nome, in questa frase, non esce. Il for dà il carattere, non una scusa.
+14. On the step the boy had called a door: la relativa tace il that, the step (that) the boy had called a door. Il ragazzo ha chiamato porta un gradino. Il guanto, caduto al primo lampione, è la seconda prova, dopo il mattone, ed è per terra. La strada di Hale gli torna in mano, dal pavimento.
+15. A circle, walked at a penny: una sentenza, con l'inciso fra virgole. Would have been angry è la rabbia che non avviene, conditional perfect. La nebbia non gli lascia una faccia. È detto che non vede il ragazzo. Si intende che la rabbia, a lui, ha bisogno di un viso, e al posto del viso arriva un prezzo. Lo si capisce dalla faccia mancante e dalla frase dei conti, subito dopo.
+16. the truth was a separate article: article è una voce di conto. Il penny pagava la camminata, which was real: il cerchio c'è stato, e va in tariffa. Twopence, detto spesso *ta*pëns, è due penny. And hot, dopo la virgola, è il cibo, contro la verità in listino. To his credit, nella frase prima: a suo merito, non inventa una seconda corte. One, nella frase del pagamento, è il «si» delle sentenze. Audit è controllare nei conti. Un pasticcio si verifica, una nebbia no, e Hale paga.
+17. dawn being, in her view, a rumour: dawn being è un assoluto, participio con un soggetto suo, da frase lunga. Got up è «messa in giro». La catenella è ancora messa: la porta apre, e non apre del tutto. Gentlemen who wrote on cards prende in giro il biglietto, Hale, e l'alba dell'incarico.
+18. a bill for a hat: il plico urgente è un conto per un cappello. In his shirtsleeves, in maniche di camicia, senza giacca: l'inquilino è in casa, e l'alba della partenza non lo veste. Wait out è «aspettare fino in fondo», nebbia e alba insieme. Sul gradino la nebbia si dirada as if, col pasticcio ormai pagato. È detto un diradarsi. Si intende che, chiuso il debito piccolo, la nebbia ha altro da fare. Lo si capisce da as if. L'ultima frase riporta l'ufficio, fra un'ora, urgente come all'uscita. La notte è stata il cerchio. L'urgenza non ha cambiato nome.
+
+ex1:
+- The fog had come up from the river with the early dark, and it lay in the street with no intention of leaving, and Mr Hale carried a packet that had been urgent, in that office, since a little after four.
+  it: La nebbia era salita dal fiume con il primo buio, e stava nella strada senza alcuna intenzione di andarsene, e il signor Hale portava un plico che in quell'ufficio era urgente da poco dopo le quattro.
+- The court lay off the south end of London Bridge, the gas lamps showed him no more than the length of his arm, and the hansom was gone before he had formed the thought of hailing it.
+  it: La corte stava all'uscita sud di London Bridge, i lampioni a gas non gli mostravano più della lunghezza del braccio, e la hansom sparì prima che lui avesse formato il pensiero di chiamarla.
+- The boy asked a penny, to be paid at the door, and talked of a pie that would be waiting if the penny was honest, and the pie entered the conversation with more authority than the court.
+  it: Il ragazzo chiese un penny, da pagare alla porta, e parlò di un pasticcio che avrebbe aspettato se il penny era onesto, e il pasticcio entrò nella conversazione con più autorità della corte.
+- The broken brick and his own glove, dropped at the first lamp, showed him that the step was not the door and that he had walked a circle, and the true turning was priced at a hot pie of twopence.
+  it: Il mattone rotto e il suo stesso guanto, caduto al primo lampione, gli mostrarono che il gradino non era la porta e che aveva camminato in cerchio, e la svolta giusta era prezzata a un pasticcio caldo da due penny.
+- The packet was a bill for a hat, the lodger received it in his shirtsleeves, and the fog thinned as if, the pie being secured, it had business elsewhere.
+  it: Il plico era un conto per un cappello, l'inquilino lo ricevette in maniche di camicia, e la nebbia si diradò come se, messo al sicuro il pasticcio, avesse da fare altrove.
+
+ex2:
+- The fog lay in the street with no [intention] of leaving.
+  it: La nebbia stava nella strada senza alcuna intenzione di andarsene.
+- He asked the price in the voice he used for a [column] of figures.
+  it: Chiese il prezzo con la voce che usava per una colonna di cifre.
+- The boy, to his [credit], did not invent a second court.
+  it: Il ragazzo, a suo merito, non si inventò una seconda corte.
+- The lodger received the packet in his [shirtsleeves].
+  it: L'inquilino ricevette il plico in maniche di camicia.
+- The lodger was to be gone [by] dawn.
+  it: L'inquilino doveva essere partito entro l'alba.
+
+tasks:
+- Fog came up off the river as it got dark, and by the time Hale left the office it filled the street. He was carrying a packet his boss had called urgent since just after four. The address was on a card in his pocket: a court off the south end of London Bridge, and a lodger meant to be gone by dawn. He could have found the bridge on foot. The court needed eyes, and the fog had already taken them. At the third lamp a boy came out of the fog and said he knew the court, for a penny paid at the door. Hale agreed. A penny for a door he could not see seemed a fair bet.
+  task.it: Riscrivi in prosa moderna il tratto dalla nebbia al penny, intorno alle 120 parole. Stessi fatti. Frasi che un racconto di oggi spezzerebbe, senza l'inversione e senza il parolaio da ufficio del signor Hale, se non come battuta.
+  rubric.it: Ci sono nebbia, plico, indirizzo, ragazzo e penny, e nessun fatto nuovo; le frasi sono da racconto moderno, più corte, senza complemento ribaltato in testa; principal diventa un capo di oggi, e la hansom, se resta, è una carrozza spiegata o tolta; il penny resta un piccolo sorriso, non una sentenza; non si racconta il cerchio, il cappello o il pasticcio pagato, che stanno dopo.
+
+== 24 C1
+numeral: Lesson Twenty-Four
+title: My grandmother's kitchen
+title.it: La cucina di mia nonna
+
+dialogue:
+- My grandmother's kitchen was smaller than the stories I tell about it, and it smelled of ginger before it smelled of anything else.
+  it: La cucina di mia nonna era più piccola delle storie che ne racconto, e sapeva di zenzero prima di sapere di qualunque altra cosa.
+- The smell met you at the back door, which stuck, and which she opened with her hip.
+  it: L'odore ti veniva incontro alla porta di servizio, che si inceppava, e che lei apriva con l'anca.
+- Under the smell there was gas, for a second, when the ring caught, and then the gas was gone and the ginger was the whole room again.
+  it: Sotto l'odore c'era il gas, per un secondo, quando il fornello si accendeva, e poi il gas spariva e lo zenzero era di nuovo tutta la stanza.
+- A kettle sat on the back ring whether anyone had asked for tea or not.
+  it: Un bollitore stava sul fornello di dietro, che qualcuno avesse chiesto il tè oppure no.
+- The clock on the dresser ticked louder than the kettle, which I have never managed to explain, and which did not trouble her.
+  it: L'orologio sulla credenza ticchettava più forte del bollitore, cosa che non sono mai riuscita a spiegarmi, e che a lei non dava fastidio.
+- I was six, or seven, and the difference did not matter, because both ages came up to the same drawer.
+  it: Avevo sei anni, o sette, e la differenza non contava, perché tutte e due le età arrivavano allo stesso cassetto.
+- The drawer stuck as well, and inside it were tea towels worn to the colour of flour.
+  it: Anche il cassetto si inceppava, e dentro c'erano canovacci consumati fino al colore della farina.
+- She wiped her hands, and then she wiped mine, and the cloth was warm and slightly damp and smelled of the drawer.
+  it: Si asciugava le mani, e poi asciugava le mie, e il panno era caldo e un po' umido e sapeva del cassetto.
+- I was allowed to stir if I held the bowl against my chest and did not talk to the mixture.
+  it: Potevo mescolare se tenevo la ciotola contro il petto e non parlavo all'impasto.
+- Talking to it, she said, let the air out.
+  it: Parlargli, diceva, gli faceva uscire l'aria.
+- I talked to it anyway, in my head, which I believed did not count, and which she believed she could hear.
+  it: Gli parlavo lo stesso, in testa, e credevo che quello non contasse, e lei credeva di sentirlo.
+- The bowl was yellow, cracked at the lip, and heavy enough to be a serious job.
+  it: La ciotola era gialla, incrinata sull'orlo, e abbastanza pesante da essere un lavoro serio.
+- On the table there was an oilcloth with a pattern of cherries, sticky under the wrists if you leaned.
+  it: Sul tavolo c'era una tela cerata con un disegno di ciliegie, appiccicosa sotto i polsi se ci si appoggiava.
+- Through the lower pane I could see the yard, one washing line, and the shed door, which was green and never quite shut.
+  it: Dal vetro di sotto vedevo il cortile, un filo da bucato, e la porta del capanno, che era verde e non si chiudeva mai del tutto.
+- She baked ginger nuts, and kept them in a tin with a picture of a bridge that was not our bridge.
+  it: Cuoceva i biscotti duri allo zenzero, e li teneva in una scatola con la figura di un ponte che non era il nostro ponte.
+- I was given one when the tray came out, and it burned my fingers, and the burn was part of the pay.
+  it: Me ne dava uno quando la teglia usciva, e mi bruciava le dita, e la bruciatura faceva parte della paga.
+- If I was good, in her meaning of good, I was given the bowl to scrape.
+  it: Se ero brava, nel suo senso di brava, mi dava la ciotola da raschiare.
+- The scrape was better than the biscuit, and we both knew it, and neither of us said so.
+  it: Il raschiato era meglio del biscotto, e lo sapevamo tutte e due, e nessuna delle due lo diceva.
+- Her good was a quiet interval: no swinging of legs, no finger in the sugar, the spoon handed back clean enough to please her and dirty enough to please me.
+  it: Il suo «brava» era un intervallo quieto: niente gambe che dondolano, niente dito nello zucchero, il cucchiaio restituito abbastanza pulito da accontentare lei e abbastanza sporco da accontentare me.
+- I remember the sugar more clearly than her face, which is a confession, and which the face has survived.
+  it: Ricordo lo zucchero più nitido della sua faccia, ed è una confessione, e la faccia c'è ancora.
+- The face was flour on one cheek and a pin in the apron, always the same pin, as if a pin could be a fixture.
+  it: La faccia era farina su una guancia e una spilla nel grembiule, sempre la stessa spilla, come se una spilla potesse essere un arredo fisso.
+- In the afternoon the radio talked to itself on the dresser, a play she was not listening to and would not have turned off.
+  it: Nel pomeriggio la radio parlava da sola sulla credenza, un radiodramma che lei non ascoltava e che non avrebbe spento.
+- Light came in low, and the cherries on the oilcloth went dull, and the ginger stayed.
+  it: La luce entrava bassa, e le ciliegie sulla tela cerata si spegnevano, e lo zenzero restava.
+- Last month I went back, and the kitchen had not moved, and I had.
+  it: Il mese scorso ci sono tornata, e la cucina non si era mossa, e io sì.
+- The stool was by the shed, and I told her I used to sit on it while she baked.
+  it: Lo sgabello era accanto al capanno, e le ho detto che ci sedevo mentre lei cucinava.
+- She looked at me over the tin, which is the look she used for a wrong sum.
+  it: Mi ha guardata da sopra la scatola, ed è lo sguardo che usava per una somma sbagliata.
+- The crack in the yellow bowl, she said, was the day I sat, and the bowl did not agree with the floor.
+  it: L'incrinatura nella ciotola gialla, ha detto, era il giorno in cui mi ero seduta, e la ciotola non andava d'accordo col pavimento.
+- After that the stool was for standing, and the standing was to reach the tin, which she had always seen.
+  it: Dopo, lo sgabello serviva per starci in piedi, e lo starci in piedi serviva per arrivare alla scatola, cosa che lei aveva sempre visto.
+- The tin still has the bridge on it.
+  it: La scatola ha ancora il ponte sopra.
+- I took a ginger nut, which did not burn this time, and the stool in the yard went on being a stool.
+  it: Ho preso un biscotto allo zenzero, che stavolta non bruciava, e lo sgabello nel cortile ha continuato a essere uno sgabello.
+
+notes.it:
+1. it smelled of ginger before it smelled of anything else: il ricordo non apre con una data. Apre con una misura sbagliata, smaller than the stories, e con un odore. Smell of è «sapere di». Lo zenzero arriva prima del resto, e per questo comanda la stanza. Una lista di cinque sensi, annunciata, sarebbe un inventario. Qui l'odore fa da porta.
+2. The smell met you at the back door: you, qui, non è una persona con un nome. È chi entra, e tira dentro chi legge. In italiano il «ti» fa lo stesso lavoro, e non è il tu della nonna alla bambina. Which stuck, e which she opened: due which, la porta che si inceppa e il gesto dell'anca. Il particolare tiene la porta vera. Back door è la porta di servizio, sul retro, non un ingresso di cerimonia.
+3. when the ring caught: ring, su un fornello a gas britannico, è il fuoco, uno dei cerchi. Back ring, nella frase dopo, è quello di dietro. Caught è l'accendersi: la fiamma prende. Il gas dura un secondo, poi torna lo zenzero. Il secondo impedisce alla cucina di diventare una cartolina. C'era anche il gas, e se ne andava.
+4. whether anyone had asked for tea or not: whether ... or not è «che qualcuno l'avesse chiesto oppure no». Il bollitore sta sul fuoco comunque. È un'abitudine della casa, non una scena di ospiti. The clock ticked louder than the kettle, e chi racconta non sa spiegarselo, have never managed to explain. Il presente è di adesso: il ricordo resta senza una teoria. Which did not trouble her: a lei il volume dell'orologio andava bene. Due orecchie, due giudizi.
+5. both ages came up to the same drawer: sei o sette, e l'età si misura da dove arriva la mano, non dal compleanno. Came up to è «arrivava all'altezza di». Tea towels worn to the colour of flour: i canovacci sono consumati fino a quel colore. Worn to è consumato fino a. La farina è già nella stoffa, prima di essere nello zucchero. Poi il panno è caldo, un po' umido, e sa del cassetto: tatto e odore nello stesso gesto, le mani di lei e poi le mie.
+6. did not talk to the mixture: la regola di lei. Parlare all'impasto gli fa uscire l'aria, let the air out, come a una cosa montata che si sgonfia. Non è il fiato di una persona. I talked to it anyway, in my head: la bambina obbedisce a metà, e crede che il pensiero non conti. She believed she could hear: la nonna crede di sentirlo. Due credenze, e nessuna delle due viene provata. Il ricordo le tiene insieme.
+7. cracked at the lip: il particolare è posato qui come un'età della ciotola. Lip è l'orlo. Heavy enough to be a serious job: il peso la fa diventare un incarico. Oilcloth è la tela cerata del tavolo. Sticky under the wrists if you leaned: you, di nuovo, è chi si appoggia. Le ciliegie si sentono dalla pelle, non solo dagli occhi. Through the lower pane è l'altezza di allora: il vetro di sotto, il cortile, un filo, una porta verde che non chiude. Il mondo di fuori sta in tre cose, perché l'occhio è basso.
+8. ginger nuts: i ginger nuts sono biscotti duri allo zenzero, di quelli che si comprano anche fatti, e qui lei li cuoce. Il nome resta in inglese perché è il nome del biscotto, non una descrizione. A bridge that was not our bridge: il ponte sulla scatola non è il ponte del posto. Non serve quale. Il nostro, qualunque sia, non è quello dipinto. When the tray came out: la teglia esce dal forno. La bruciatura sulle dita è part of the pay, parte della paga. Il dolore piccolo è il prezzo del primo biscotto, e nel ricordo è un salario, non un incidente.
+9. in her meaning of good: good, da solo, è «brava» o «bravo». L'inglese non segna il genere di chi dice io. In questa traduzione chi racconta è una donna, e le forme italiane lo segnano. In her meaning è il senso di lei, e la frase dopo lo elenca. No swinging of legs, no finger in the sugar: due divieti, poi il cucchiaio, clean enough e dirty enough, due enough che non chiedono la stessa pulizia. Il raschiato è meglio del biscotto, we both knew it, and neither of us said so. Neither of us è «nessuna delle due». Il tacere condiviso è più intimo di un elogio. Il testo lo dice con knew e said, senza un aggettivo per il legame.
+10. I remember the sugar more clearly than her face: la confessione è questa, e which the face has survived la tiene in vita. La faccia c'è ancora. Non è un ricordo da morto. Has survived è un present perfect: da allora a oggi, la faccia ha retto, anche se lo zucchero, nel ricordo, è più nitido. Flour on one cheek, a pin in the apron, always the same pin. As if a pin could be a fixture: fixture è un arredo fisso, una cosa della casa. La spilla, per la bambina, era della cucina quanto il fornello.
+11. the radio talked to itself: personificazione piccola, da pomeriggio. A play she was not listening to and would not have turned off. Would not have è un conditional perfect: non l'avrebbe spenta, e non è spento. La pièce va avanti per la stanza, non per lei. Poi la luce si abbassa, le ciliegie si spengono, lo zenzero resta. Quando la vista cala, l'odore no. È il modo in cui il pezzo dice che cosa, in quella cucina, durava.
+12. the kitchen had not moved, and I had: il turno del ricordo. Last month è una visita, non un'altra infanzia. Had not moved è il luogo. I had è la persona, e il verbo si recupera da moved: io mi ero mossa, la cucina no. Used to sit, nella frase dopo, è l'abitudine di allora. Lo sgabello è accanto al capanno, fuori. Over the tin è lo sguardo da sopra la scatola, the look she used for a wrong sum, una somma sbagliata. Il presente, is the look, dice che lo sguardo c'è ancora.
+13. the bowl did not agree with the floor: agree with, di una ciotola e di un pavimento, è «andare d'accordo», e qui vuol dire che è caduta. È un eufemismo da casa, non una diagnosi. The crack, posata prima come un'età della ciotola, è un giorno: the day I sat. Il ricordo aveva preso un segno e gli aveva dato la vecchiaia. Lei gli rende la data. After that the stool was for standing, per arrivarci, alla scatola. Which she had always seen: la salita non era un segreto. Lei vedeva, e lasciava stare. Il ricordo della bambina seduta e aiutante era mezzo vero. L'incrinatura è il mezzo che mancava.
+14. which did not burn this time: il biscotto di adesso non brucia. Le dita sono altre, o il gesto è più lento, e lo zenzero è lo stesso. The stool went on being a stool: lo sgabello non diventa un trono e non diventa una morale. Continua a essere uno sgabello, nel cortile. Il pezzo chiude sull'oggetto, più piccolo del racconto che lei ne faceva all'inizio. La cucina resta. La versione in cui ci si sedeva, no.
+
+ex1:
+- The kitchen was smaller than the stories, it smelled of ginger before anything else, and under that smell there was gas for a second when the ring caught.
+  it: La cucina era più piccola delle storie, sapeva di zenzero prima di ogni altra cosa, e sotto quell'odore c'era il gas per un secondo, quando il fornello si accendeva.
+- The kettle sat on the back ring whether anyone had asked for tea or not, and the clock ticked louder than the kettle, which she did not mind and which the narrator has never explained.
+  it: Il bollitore stava sul fornello di dietro, che qualcuno avesse chiesto il tè oppure no, e l'orologio ticchettava più forte del bollitore, cosa che a lei non dava fastidio e che chi racconta non ha mai spiegato.
+- Talking to the mixture, she said, let the air out, and the child talked to it in her head, which she believed did not count and which her grandmother believed she could hear.
+  it: Parlare all'impasto, diceva, gli faceva uscire l'aria, e la bambina gli parlava in testa, e credeva che quello non contasse, e la nonna credeva di sentirlo.
+- The scrape was better than the biscuit, neither of them said so, and the sugar is remembered more clearly than the face, which has survived.
+  it: Il raschiato era meglio del biscotto, nessuna delle due lo diceva, e lo zucchero si ricorda più nitido della faccia, che c'è ancora.
+- The crack in the yellow bowl was the day she sat and the bowl did not agree with the floor, and after that the stool was for standing, to reach the tin, which her grandmother had always seen.
+  it: L'incrinatura nella ciotola gialla era il giorno in cui si era seduta e la ciotola non andava d'accordo col pavimento, e dopo lo sgabello serviva per starci in piedi, per arrivare alla scatola, cosa che la nonna aveva sempre visto.
+
+ex2:
+- The kitchen smelled of [ginger] before it smelled of anything else.
+  it: La cucina sapeva di zenzero prima di sapere di qualunque altra cosa.
+- Talking to the mixture let the air [out].
+  it: Parlare all'impasto gli faceva uscire l'aria.
+- A kettle sat on the back ring whether anyone had asked for [tea] or not.
+  it: Un bollitore stava sul fornello di dietro, che qualcuno avesse chiesto il tè oppure no.
+- We both knew it, and [neither] of us said so.
+  it: Lo sapevamo tutte e due, e nessuna delle due lo diceva.
+- She looked at me over the tin, the look she used for a wrong [sum].
+  it: Mi ha guardata da sopra la scatola, lo sguardo che usava per una somma sbagliata.
+
+tasks:
+- The launderette on the corner had a smell before it had a name. It smelled of hot cloth, powder, and the damp coin of the machine. I went with my uncle on Saturdays and sat on a bench that was too high, watching a sleeve go past the round door like a slow fish. The bench was warm from the dryers, and the door handle was always wet. My uncle read a paper he did not finish, and the pages went soft in the steam. The radio played songs nobody chose. Last year the shop was a barber's. The sleeve, the bench, and the powder had gone. What I missed, on the pavement, was the moment the drum stopped and the whole shop listened, as if a shirt might have something to say. The barber had the radio on. It was still nobody's song.
+  task.it: Scrivi il ricordo di un luogo, non di questa cucina. Intorno alle 150 parole. Ci vogliono almeno tre sensi, un oggetto preciso, e alla fine un piccolo scarto: il luogo com'è adesso, o un particolare che la memoria aveva messo al posto sbagliato.
+  rubric.it: Si capisce qual è il luogo, e che cosa è cambiato o che cosa la memoria aveva spostato; ci sono odore, suono o tatto, non solo una lista di mobili; c'è un oggetto che si può toccare, non un'«infanzia» generica; il registro è un ricordo detto in prima persona, con un presente o un passato prossimo per l'oggi; lo sgabello, lo zenzero, la ciotola incrinata e la nonna di questo testo non sono il tuo luogo.
+
+== 25 C1
+numeral: Lesson Twenty-Five
+title: The lift
+title.it: L'ascensore
+
+dialogue:
+- It's stopped between two floors, George, and the little light has given up.
+  it: Si è fermato fra due piani, George, e la lucina ha mollato.
+- It hasn't stopped, Nadia; it's thinking, and it picked the habit up on the second floor.
+  it: Non si è fermato, Nadia; sta pensando, e il vizio l'ha preso al secondo piano.
+- Lifts don't think, and if this one has a habit, the habit can include the alarm.
+  it: Gli ascensori non pensano, e se questo ha un vizio, il vizio può includere l'allarme.
+- If I press the alarm, someone will come and find us standing here like a leaflet, folded and blank.
+  it: Se premo l'allarme, viene qualcuno e ci trova qui in piedi come un volantino, piegato e bianco.
+- A leaflet can be read, and I'd rather be read than stand here being quiet.
+  it: Un volantino si può leggere, e preferisco essere letta che stare qui in silenzio.
+- I'm pressing nothing until a fuss is useful, and the building may yet change its mind.
+  it: Non premo niente finché un trambusto non è utile, e può darsi che il palazzo cambi ancora idea.
+- The button under your thumb is the door hold, George, and the alarm is the yellow one you won't look at.
+  it: Il tasto sotto il tuo pollice è il fermo della porta, George, e l'allarme è quello giallo, che non vuoi guardare.
+- I know the yellow one, and I'm leaving it, because yes is a larger word in a hospital than it is in a lift.
+  it: Lo so, quello giallo, e lo lascio stare, perché sì è una parola più grande in un ospedale che in un ascensore.
+- You're already stuck, the word won't grow by being said, and Tom can keep looking for a space.
+  it: Sei già bloccato, la parola non cresce a dirla, e Tom può continuare a cercare un posto.
+- Tom and the car park can take their time; I want to arrive for June looking as if the building had cooperated.
+  it: Tom e il parcheggio possono prendersela comoda; io voglio arrivare da June come se il palazzo avesse collaborato.
+- June is not marking the lift; she is marking your face, and she has done that since the wedding.
+  it: June non sta valutando l'ascensore; sta valutando la tua faccia, e lo fa dal matrimonio.
+- There, it is pressed, and a voice has given us ten minutes, which is a long time to hold one sentence.
+  it: Ecco, è premuto, e una voce ci ha dato dieci minuti, che è un tempo lungo per reggere una frase sola.
+- Then spend the ten minutes on the scan, which is the sentence, not on the button.
+  it: Allora passa i dieci minuti sull'esame, che è la frase, non sul tasto.
+- The scan is a scan, and I'm not decorating it because a lift has opinions.
+  it: L'esame è un esame, e non lo decoro perché un ascensore ha delle opinioni.
+- You decorated it last week, when you told her the result was a smudge on the glass.
+  it: L'hai decorata la settimana scorsa, quando le hai detto che il risultato era una sbavatura sul vetro.
+- A smudge was kinder than the paragraph, and the paragraph is folded in my coat until there is a chair.
+  it: Una sbavatura era più gentile del paragrafo, e il paragrafo è piegato nel cappotto finché non c'è una sedia.
+- She rang me beside the ticket machine and asked whether you were lying, and I didn't have the coat, only you.
+  it: Mi ha telefonato accanto alla cassa automatica e mi ha chiesto se stavi mentendo, e io il cappotto non ce l'avevo, avevo solo te.
+- What did you tell her, with the truth in my coat and a queue behind you?
+  it: Che cosa le hai detto, con la verità nel mio cappotto e una coda dietro di te?
+- I told her you were being George, and she believed that, which is more than the smudge got.
+  it: Le ho detto che stavi facendo il George, e lei ci ha creduto, che è più di quanto abbia ottenuto la sbavatura.
+- Being George is a review, Nadia, and a review is what you write when you will not open the coat.
+  it: Fare il George è una recensione, Nadia, e una recensione è quello che si scrive quando non si vuole aprire il cappotto.
+- Then we open it in chairs, not between floors, and we do not call a paragraph a smudge twice.
+  it: Allora lo apriamo sulle sedie, non fra due piani, e un paragrafo non lo chiamiamo sbavatura due volte.
+- If she is on the other side of the doors, the button and the coat can wait in the corridor.
+  it: Se lei è dall'altra parte delle porte, il tasto e il cappotto possono aspettare in corridoio.
+- You can call the paragraph weather until we are sitting down, and not a minute after.
+  it: Il paragrafo puoi chiamarlo tempo atmosferico finché non siamo seduti, e non un minuto di più.
+- Weather is a poor coat, but a corridor is a short room, and I can wear it that far.
+  it: Il tempo atmosferico è un cappotto misero, ma un corridoio è una stanza corta, e fino a lì me lo metto.
+- The light is back, George, and the doors have remembered their job.
+  it: La luce è tornata, George, e le porte si sono ricordate il loro lavoro.
+- Then we smile for the corridor, as if the paragraph were weather, and the chair can have the truth.
+  it: Allora sorridiamo per il corridoio, come se il paragrafo fosse il tempo atmosferico, e la sedia può avere la verità.
+- We did mean to arrive together, and the lift was only the extra sentence, not the result.
+  it: Volevamo davvero arrivare insieme, e l'ascensore è stato solo la frase in più, non il risultato.
+
+notes.it:
+1. It's stopped between two floors, George: non c'è un narratore e non c'è un disse. La riga è solo voce. George è il nome di chi ascolta, quindi chi parla non è George. La risposta lo chiama Nadia: da lì i due nomi stanno in piedi, e il turno è uno per uno. It's è la forma contratta. In questa scena si contrae, come si fa parlando. Lift è l'ascensore, la parola britannica.
+2. it's thinking: George rifiuta stopped e mette un verbo da persona. Picked the habit up è «ha preso il vizio», un phrasal. Il secondo piano è l'origine inventata, e si capisce che è un modo di non dire «siamo bloccati». La frase dopo, di Nadia, glielo rende: se c'è un vizio, il vizio può includere l'allarme. È una risposta logica, non un'altra metafora.
+3. like a leaflet, folded and blank: la similitudine è sua. Un volantino piegato e bianco non ha testo. Più avanti il paragrafo è folded in my coat: la stessa piega, e lì dentro c'è la scrittura. Il volantino è la paura di essere visti vuoti. Il cappotto, dopo, tiene la cosa piena. I'd rather be read, nella replica di lei, prende il volantino e lo gira: meglio un testo che il silenzio fra due piani.
+4. until a fuss is useful: fuss è il trambusto, la scena, il fastidio di chiamare qualcuno. Lui lo vuole solo quando serve. Lei, col tasto, gli sposta la parola: l'allarme è fatto per quello. May yet change its mind dà anche al palazzo una mente, sulla scia dell'ascensore che pensa. Yet è «ancora», può darsi che cambi idea. È il rinvio, detto come prudenza.
+5. the door hold: il tasto sotto il pollice non è l'allarme. Door hold tiene la porta, il fermo. The yellow one è l'allarme, e lei dice che lui non lo guarda. In una prosa con narratore, questa riga non prenderebbe uno said piatto: corregge un gesto. Il verbo da prosa è corrected, o un sinonimo dello stesso peso. Said direbbe solo che la frase è avvenuta. Qui la frase sposta il dito.
+6. yes is a larger word in a hospital: è detto che sì, in ospedale, è più grande che in un ascensore. Si intende che un sì, lì, acconsente a più di un guasto: acconsente a essere uno che ha bisogno. Lo si capisce da larger, e dal confronto fra i due luoghi. I'm leaving it è la scelta di non premerlo ancora. Non è un dubbio sul colore del tasto: I know the yellow one. Il colore lo sa. Gli pesa la parola.
+7. Tom can keep looking for a space: Tom è nel parcheggio, a cercare un posto. Per questo nell'ascensore ci sono questi due, e non tre. Car park è il parcheggio. Take their time è «prendersela comoda». June è la persona di sopra, e dal matrimonio in poi legge la faccia di George, non l'ascensore. Marking è valutare, segnare, come un voto. La scena non fa la biografia: fa i tre nomi che bastano, Tom, June, e il matrimonio come data d'inizio di quello sguardo.
+8. a voice has given us ten minutes: There, it is pressed. Il tasto giallo, in questa riga, è già giù. La voce è l'altoparlante, non un terzo personaggio in scena: lui ne riporta i dieci minuti. Which is a long time to hold one sentence sposta i minuti dalla meccanica alla frase che non hanno ancora detta. Lei, subito dopo, dice di spenderli sulla scan. Scan è l'esame, il nome generico, e in italiano basta «esame».
+9. a smudge on the glass: smudge è una sbavatura, un segno vago. Glielo ha detto la settimana scorsa, e lei chiama quel dire decorated, decorato. Il risultato vero, per lui, è a paragraph, un paragrafo, più lungo e meno gentile. Kinder than: la sbavatura era più gentile. Folded in my coat: sta nel cappotto finché non c'è una sedia. La sedia è il luogo della verità, scelto da lui, e lei lo accetta nella riga delle sedie. Non è un rifiuto di dire. È un rifiuto di dire in piedi, fra due piani.
+10. you were being George: being George non è «esistere». È «fare il George», la versione riconoscibile di lui. Lei l'ha detto a June al telefono, accanto alla cassa del parcheggio, ticket machine, con una coda dietro. June ha chiesto se lui mentiva. Nadia non aveva il cappotto, quindi non aveva il paragrafo: only you. Ha dato il carattere, non il foglio. Which is more than the smudge got: June ha creduto a «George» più che alla sbavatura. È un complimento secco, e una critica.
+11. Being George is a review: review è una recensione, un giudizio scritto da fuori. Lui distingue answer da review. Un answer aprirebbe il cappotto. Una review lo lascia chiuso e lo descrive. You write when you will not open the coat: il soggetto you, qui, è chi recensisce, e in questa riga è Nadia. La frase dopo di lei sposta l'apertura: in chairs, not between floors, e non una seconda sbavatura. Do not, senza contrarre, è un filo più fermo del don't che usa prima. Tutte e due sono parlato. Don't è il più comune. Do not, in una richiesta, pesa di più, e si sente lo stesso.
+12. call the paragraph weather: weather, qui, non è la pioggia di fuori. È il tema innocuo che si mette davanti alla cosa difficile. Poor coat è un cappotto misero, la copertura (lezione 20, nota 2): là il cappotto stava davanti al no, qui sta davanti al paragrafo, ed è anche il cappotto vero, quello col foglio. Not a minute after: il limite. Il corridoio può avere il tempo atmosferico. La sedia no. Until we are sitting down è la scadenza, e lui la ripete a modo suo: I can wear it that far. Fino al corridoio. Non oltre.
+13. the doors have remembered their job: la luce torna, e le porte, che pensavano come l'ascensore di George, si ricordano il mestiere. È il presente del guasto che finisce, detto da lei. Lui risponde col sorriso per il corridoio, as if the paragraph were weather. Were, dopo as if, è la forma irreale, e was si sente lo stesso, un filo più parlata. The chair can have the truth rimette la sedia al suo posto. L'ultima riga è di Nadia, e chiude il litigio senza chiudere la visita: We did mean to arrive together. Did insiste: la voglia c'era. The extra sentence è l'ascensore, non il risultato. Il risultato è ancora nel cappotto, e ha una sedia che lo aspetta.
+
+ex1:
+- George says the lift is thinking, Nadia says the habit can include the alarm, and he does not want to be found like a leaflet, folded and blank.
+  it: George dice che l'ascensore sta pensando, Nadia dice che il vizio può includere l'allarme, e lui non vuole essere trovato come un volantino, piegato e bianco.
+- The button under his thumb is the door hold, the alarm is the yellow one, and yes, he says, is a larger word in a hospital than in a lift.
+  it: Il tasto sotto il suo pollice è il fermo della porta, l'allarme è quello giallo, e il sì, dice lui, è una parola più grande in un ospedale che in un ascensore.
+- Tom is still looking for a space, June marks George's face and not the lift, and a voice gives them ten minutes once the yellow button is pressed.
+  it: Tom sta ancora cercando un posto, June valuta la faccia di George e non l'ascensore, e una voce dà loro dieci minuti, una volta premuto il tasto giallo.
+- The result he called a smudge is a paragraph folded in his coat, June asked Nadia beside the ticket machine whether he was lying, and Nadia said he was being George.
+  it: Il risultato che lui ha chiamato una sbavatura è un paragrafo piegato nel cappotto, June ha chiesto a Nadia, accanto alla cassa automatica, se lui stava mentendo, e Nadia ha detto che stava facendo il George.
+- They may call the paragraph weather in the corridor and not a minute after they sit, and the lift, Nadia says, was only the extra sentence, not the result.
+  it: Il paragrafo possono chiamarlo tempo atmosferico in corridoio e non un minuto dopo che si sono seduti, e l'ascensore, dice Nadia, è stato solo la frase in più, non il risultato.
+
+ex2:
+- He did not want to be found standing there like a [leaflet].
+  it: Non voleva essere trovato lì in piedi come un volantino.
+- The alarm is the [yellow] one, not the button under his thumb.
+  it: L'allarme è quello giallo, non il tasto sotto il pollice.
+- He is pressing nothing until a [fuss] is useful.
+  it: Non preme niente finché un trambusto non è utile.
+- He told her the result was a [smudge] on the glass.
+  it: Le ha detto che il risultato era una sbavatura sul vetro.
+- They can call it weather, and not a [minute] after the chairs.
+  it: Possono chiamarlo tempo atmosferico, e non un minuto dopo le sedie.
+
+tasks:
+- The lift stopped between floors, and Nadia told George it had. He said it was thinking. She snapped that lifts do not think, and that the habit could include the alarm. He muttered that he would not be found like a blank leaflet, and that a fuss could wait. She corrected him: the button under his thumb was the door hold, and the alarm was the yellow one. Yes, he admitted, was a larger word in a hospital. She told him June was marking his face, not the lift, and that Tom could keep looking for a space. He pressed the yellow button. A voice promised ten minutes. In that time he admitted the paragraph folded in his coat, kinder in his mouth as a smudge, and she told him what she had said by the ticket machine: that he was being George. He called it a review. They agreed to open the coat in chairs, and to let weather cover only the corridor. When the light came back, he asked for a smile. She said they had meant to arrive together, and that the lift was the extra sentence, not the result.
+  task.it: Volgi la scena in prosa narrativa, intorno alle 180 parole. Stessi fatti, stessi due, stesso ospedale. Ci vogliono verbi di riporto diversi, non un said per ogni riga, e non serve ripetere ogni battuta.
+  rubric.it: Si capisce chi parla e che la verità resta per la sedia, non per il corridoio; ci sono almeno tre verbi di riporto diversi da said, e stanno sul tono della frase, non a caso; i fatti restano, Tom nel parcheggio, June, il tasto giallo, il paragrafo nel cappotto; il registro è prosa, con meno contrazioni del dialogo, o con quelle che una prosa parlata tiene; non si aggiunge una diagnosi, un medico, o un finale in cui il cappotto si apre in ascensore.

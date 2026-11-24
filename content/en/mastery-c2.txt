@@ -1,3 +1,374 @@
 course: en
 stage: mastery
 bases: it
+
+== 26 C2
+numeral: Lesson Twenty-Six
+title: In the manner of the moderns
+title.it: Alla maniera dei moderni
+
+dialogue:
+- The morning began, as mornings did, with the kettle and with the question of whether today would settle itself if she only left it alone.
+  it: La mattina cominciò, come facevano le mattine, col bollitore e con la domanda se oggi si sarebbe sistemata da sola, se lei solo la lasciava stare.
+- Claire stood in the kitchen and watched the steam, and the steam was already a meeting, and the meeting was already a room she had not entered.
+  it: Claire stava in cucina e guardava il vapore, e il vapore era già una riunione, e la riunione era già una stanza in cui non era entrata.
+- The blue, then?
+  it: Il blu, allora?
+- The blue had done well in March, or at least nobody had mentioned it, which in that office counted as praise.
+  it: Il blu aveva funzionato bene a marzo, o almeno nessuno ne aveva parlato, e in quell'ufficio contava come un elogio.
+- Toast burned at the edges because she had been polishing a sentence about capacity, and capacity, unlike toast, took no butter.
+  it: Il toast bruciò ai bordi perché stava limando una frase sulla capacità, e la capacità, a differenza del toast, non prendeva burro.
+- Outside a bin lid clapped twice: Tuesday, recycling, the pavement already busy with people who had decided what to wear without a committee.
+  it: Fuori un coperchio di bidone batté due volte: martedì, raccolta differenziata, il marciapiede già pieno di gente che aveva deciso cosa mettersi senza una commissione.
+- She locked the flat and took the stairs; a lift asked for a decision she had not budgeted, and the morning was already overdrawn.
+  it: Chiuse l'appartamento e prese le scale; un ascensore chiedeva una decisione che non aveva messo in bilancio, e la mattina era già in rosso.
+- On the bus the glass gave her her own face, and the face looked ready, which was a lie the size of the journey.
+  it: Sull'autobus il vetro le restituì la sua faccia, e la faccia sembrava pronta, che era una bugia grande quanto il tragitto.
+- Was the sentence too long?
+  it: La frase era troppo lunga?
+- She shortened it in her head, and then she lengthened it again, because a short sentence could sound like a refusal, and a refusal was not what she had been asked for.
+  it: La accorciò in testa, e poi la allungò di nuovo, perché una frase corta poteva suonare come un rifiuto, e un rifiuto non era quello che le avevano chiesto.
+- Capacity was the word they wanted; capacity was also the word that meant nothing until a number sat beside it, and her number was still on a sticky note by the kettle.
+  it: Capacità era la parola che volevano; capacità era anche la parola che non voleva dire niente finché un numero non le stava accanto, e il suo numero era ancora su un foglietto appiccicoso vicino al bollitore.
+- A child opposite kicked the seat in a rhythm that was almost music and almost a headache, and she nearly asked him to stop, and did not, because asking would start a day she had planned to keep quiet until nine.
+  it: Un bambino di fronte dava calci al sedile con un ritmo che era quasi musica e quasi un mal di testa, e lei per poco non gli chiese di smettere, e non lo fece, perché chiedere avrebbe fatto partire una giornata che aveva pianificato di tenere quieta fino alle nove.
+- At the stop she got off into a wind that rearranged her hair into an opinion, and the opinion was not the one she had left the flat with.
+  it: Alla fermata scese in un vento che le riordinò i capelli in un'opinione, e l'opinione non era quella con cui aveva lasciato casa.
+- The revolving door took her in and gave her back to the lobby, and the lobby smelled of floor polish and of somebody else's coffee.
+  it: La porta girevole la prese e la restituì all'atrio, e l'atrio sapeva di cera per pavimenti e del caffè di qualcun altro.
+- Good morning, Claire.
+  it: Buongiorno, Claire.
+- Good morning, she said, and the words were the right length, and nothing else about her was.
+  it: Buongiorno, disse, e le parole erano della lunghezza giusta, e nient'altro di lei lo era.
+- In the lift (this one moved) she watched the numbers climb and rehearsed the sentence once more, hearing it now as if it belonged to a stranger who happened to share her coat.
+  it: Nell'ascensore (questo si muoveva) guardò i numeri salire e ripassò la frase ancora una volta, sentendola ora come se appartenesse a una sconosciuta che per caso condivideva il suo cappotto.
+- The room was already half full; chairs faced a screen that said CAPACITY in a font that believed itself.
+  it: La stanza era già mezza piena; le sedie guardavano uno schermo che diceva CAPACITY in un carattere tipografico che credeva in se stesso.
+- She sat, and the sticky note was still by the kettle, and the number on it was the only honest thing she had left behind.
+  it: Si sedette, e il foglietto era ancora vicino al bollitore, e il numero sopra era l'unica cosa onesta che si era lasciata alle spalle.
+- When her turn came she stood, and the polished sentence stood with her, and she let it go.
+  it: Quando venne il suo turno si alzò, e la frase limata si alzò con lei, e la lasciò andare.
+- It landed, more or less; someone nodded; someone wrote; the chair thanked her for clarity, which was kind, and almost true.
+  it: Atterrò, più o meno; qualcuno annuì; qualcuno scrisse; il presidente la ringraziò per la chiarezza, il che era gentile, e quasi vero.
+- Afterwards in the corridor a colleague asked what she had been thinking about on the way in.
+  it: Dopo, in corridoio, una collega le chiese a che cosa avesse pensato mentre arrivava.
+- Nothing much, Claire said, and smiled the smile the revolving door had already practised for her.
+  it: A niente di che, disse Claire, e sorrise il sorriso che la porta girevole le aveva già provato.
+- She thought of the toast, the bin lid, the child, the wind, the sticky note, the font that believed itself, and the sentence that had finally left her mouth.
+  it: Pensò al toast, al coperchio del bidone, al bambino, al vento, al foglietto, al carattere tipografico che credeva in se stesso, e alla frase che le era finalmente uscita di bocca.
+- Nothing much was a coat cut for the corridor; the morning underneath it had been a novel she would not have admitted writing.
+  it: Niente di che era un cappotto tagliato per il corridoio; la mattina sotto era stata un romanzo che non avrebbe ammesso di aver scritto.
+- At lunch she bought a sandwich and found, in the same pocket as her pass, the sticky note, which had come after all, folded small, with the number still on it, unused and exact.
+  it: A pranzo comprò un panino e trovò, nella stessa tasca del tesserino, il foglietto, che era venuto lo stesso, piegato piccolo, col numero ancora sopra, inutilizzato ed esatto.
+
+notes.it:
+1. as mornings did: la prosa non apre con «una volta» e non apre con un fatto solo. Apre con un'abitudine, as mornings did, e con una domanda già dentro la frase. Settle itself: sistemarsi da sola. If she only left it alone è il pensiero di Claire, e non c'è uno she thought. È il discorso indiretto libero: terza persona, e la mente entra senza annuncio. L'italiano lo conosce bene, da Verga in poi; qui il modello è la prosa moderna britannica, non un diario in prima.
+2. the steam was already a meeting: tre pezzi legati da and. Il vapore diventa riunione, la riunione diventa stanza. Non è una similitudine con like. È un salto di mente, e il narratore lo scrive come fatto. Already ripete: la mattina è in anticipo su se stessa. Claire watched: il verbo di fuori. Il resto è dentro.
+3. The blue, then?: domanda senza verbo pieno, e senza did she wonder. È Claire che prova il vestito in testa. Then è il «allora» di chi sceglie, non un narratore che cambia scena. Nel discorso indiretto libero le domande restano domande. Metterci she wondered le tirerebbe fuori dalla mente e le metterebbe in un resoconto.
+4. which in that office counted as praise: which riprende il non parlato del vestito. Counted as è «contava come». Nobody had mentioned it: past perfect, l'assenza di commento sta prima di oggi. L'ufficio ha una regola non scritta, e Claire la conosce. Or at least è la correzione dentro il pensiero, tipica di questa prosa: la mente non fa una sola versione.
+5. polishing a sentence about capacity: polish, di una frase, è limare, rendere liscia. Capacity è la parola da riunione, astratta. Unlike toast, took no butter: il toast brucia perché la mente è sulla frase; il contrasto è comico e preciso. Had been polishing è un past perfect continuous: il limare dura mentre il pane scurisce. Il dettaglio del burro tiene il corpo in cucina mentre la testa è già in sala.
+6. bin lid clapped twice: Tuesday, recycling: tre pezzi dopo i due punti, senza verbo tra loro. È elenco da pensiero, non verbale da ufficio. Pavement è il marciapiede. Without a committee: gli altri hanno scelto i vestiti senza riunione; lei no. Il sorriso è del testo, e Claire non lo dice ad alta voce.
+7. a lift asked for a decision: l'ascensore «chiede», come se avesse bisogno di un sì. She had not budgeted: linguaggio da conto, spostato sulla mattina. Overdrawn è in rosso, il conto scoperto. Flat è l'appartamento britannico (lezione 22, nota 1). Took the stairs è la scelta. Il pezzo non spiega perché: il perché è già nella metafora del bilancio.
+8. a lie the size of the journey: the glass gave her her own face: il vetro del bus fa da specchio. Looked ready è ciò che si vede. Which was a lie misura la bugia sulla lunghezza del tragitto. Size of è «grande quanto». Non è detto «aveva paura». Si intende che la faccia e il dentro non coincidono. Lo si capisce da lie, e dal viaggio ancora in corso.
+9. Was the sentence too long?: di nuovo la domanda nuda. She shortened it in her head: qui il narratore ammette la testa, in her head, perché il gesto (accorciare/allungare) ha bisogno di un luogo. A short sentence could sound like a refusal: lei sente il ritmo come tono. Had been asked for: le avevano chiesto qualcosa che non è un no. Il limare non è vanità: è prudenza da riunione.
+10. until a number sat beside it: capacity senza cifra è vuota. Sat beside è il numero che «siede» accanto alla parola. Sticky note by the kettle: il foglietto è in cucina, lei no. La frase tiene insieme ufficio e bollitore. Still on: il numero non l'ha portato. Più avanti il pezzo lo fa ritrovare in tasca: il mattino aveva mentito anche su quello.
+11. almost music and almost a headache: due almost. Il calcio del bambino sta sul confine. She nearly asked... and did not: la frase fa il gesto e lo ritira. Because asking would start a day: l'infinito in -ing come soggetto. She had planned to keep quiet until nine: il piano della mattina è il silenzio fino all'ora dell'ufficio. Chiedere al bambino aprirebbe il giorno troppo presto.
+12. rearranged her hair into an opinion: il vento le rifà i capelli, e i capelli diventano un'opinione. Not the one she had left the flat with: l'opinione d'uscita e quella d'arrivo non coincidono. È ancora la mente che legge il corpo. Floor polish e somebody else's coffee: due odori, l'atrio entra dal naso (lezione 24, nota 1: l'odore come porta; qui la porta è girevole, e l'odore è di un posto che non è casa).
+13. Good morning, Claire: per un attimo la riga è solo voce, senza disse. La risposta ha she said, perché il saluto è fuori, nell'atrio, e il testo deve staccarsi dalla mente abbastanza da far parlare due persone. The words were the right length, and nothing else about her was: le parole misurano giusto; il resto di lei no. Was in fine riprende right length. È il discorso indiretto libero che torna subito dopo il dialogo minimo.
+14. hearing it now as if it belonged to a stranger: la frase ripassata suona di un'altra. Who happened to share her coat: la sconosciuta e lei hanno lo stesso cappotto, cioè lo stesso corpo. This one moved, tra parentesi: contrasto con l'ascensore che chiedeva decisioni. CAPACITY in a font that believed itself: il carattere tipografico «crede» in sé; personificazione secca, da schermo di riunione.
+15. the only honest thing she had left behind: left behind è lasciato indietro, in cucina. Honest detto di un numero su un foglietto: l'unica cosa non limata. When her turn came she stood, and the polished sentence stood with her: la frase si alza con lei. Let it go: la lascia andare, come un oggetto. Landed, more or less: atterrò, più o meno. The chair thanked her for clarity: il ringraziamento è quasi vero. Almost true è la dose onesta dopo un mattino di prove.
+16. Nothing much: è detto poco. Si intende che non dirà il romanzo della mattina. Lo si capisce da smiled the smile the revolving door had already practised: il sorriso è già un gesto sociale pronto. Coat cut for the corridor riprende il cappotto davanti al no (lezione 20, nota 2): qui copre un mattino, non un rifiuto. A novel she would not have admitted writing nomina il genere. Would not have admitted è conditional perfect. Il foglietto in tasca chiude sul numero esatto e non usato: la chiarezza era arrivata comunque, e il numero vero era venuto appresso, inutilizzato.
+
+ex1:
+- The morning began with the kettle and with the question of whether today would settle itself if Claire only left it alone, and the steam was already a meeting.
+  it: La mattina cominciò col bollitore e con la domanda se oggi si sarebbe sistemata da sola, se Claire solo la lasciava stare, e il vapore era già una riunione.
+- The blue had done well in March, or at least nobody had mentioned it, which in that office counted as praise, and the toast burned while she polished a sentence about capacity.
+  it: Il blu aveva funzionato bene a marzo, o almeno nessuno ne aveva parlato, e in quell'ufficio contava come un elogio, e il toast bruciò mentre lei limava una frase sulla capacità.
+- On the bus her face in the glass looked ready, which was a lie the size of the journey, and she shortened and lengthened the sentence because a short one could sound like a refusal.
+  it: Sull'autobus la sua faccia nel vetro sembrava pronta, che era una bugia grande quanto il tragitto, e lei accorciò e allungò la frase perché una corta poteva suonare come un rifiuto.
+- She left the sticky note with the number by the kettle, stood when her turn came, let the polished sentence go, and the chair thanked her for clarity, which was almost true.
+  it: Lasciò il foglietto col numero vicino al bollitore, si alzò quando venne il suo turno, lasciò andare la frase limata, e il presidente la ringraziò per la chiarezza, che era quasi vera.
+- Asked what she had been thinking on the way in, she said nothing much, which was a coat for the corridor over a morning she would not have admitted writing as a novel.
+  it: Alla domanda su che cosa avesse pensato mentre arrivava, disse niente di che, che era un cappotto per il corridoio sopra una mattina che non avrebbe ammesso di aver scritto come un romanzo.
+
+ex2:
+- The morning began, as mornings [did], with the kettle.
+  it: La mattina cominciò, come facevano le mattine, col bollitore.
+- Nobody had mentioned the blue, which in that office [counted] as praise.
+  it: Nessuno aveva parlato del blu, e in quell'ufficio contava come un elogio.
+- Her face looked ready, which was a [lie] the size of the journey.
+  it: La sua faccia sembrava pronta, che era una bugia grande quanto il tragitto.
+- She shortened the sentence in her [head], then lengthened it again.
+  it: Accorciò la frase in testa, poi la allungò di nuovo.
+- Nothing much was a [coat] cut for the corridor.
+  it: Niente di che era un cappotto tagliato per il corridoio.
+
+tasks:
+- The light was wrong for a Tuesday. Tom stood at the sink and ran the tap until the water was cold enough to mean morning. Should he ring her before the train? The phone was in the hall, face down, as if it had opinions. Toast, then the shoes that rubbed, then the door. On the platform the announcement apologised twice for a delay that had not yet happened, and he believed it, because believing was faster than asking. A woman in a red scarf laughed into her mobile, and the laugh was a room he was not in. When the train came he sat opposite a man whose newspaper had already decided the day. Fine, Tom thought, or almost thought, and watched his own hands turn the ticket over and over, as if the ticket might confess where the morning was really going.
+  task.it: Scrivi circa dieci minuti della tua mattina in questo stile: discorso indiretto libero (terza persona, o una prima che scivola nei pensieri senza «ho pensato che»). Intorno alle 120-150 parole. Ci vogliono almeno una domanda nuda, un salto da un oggetto a un pensiero, e un gesto piccolo alla fine. Non rifare la riunione di Claire.
+  rubric.it: Si capisce chi guarda e che la mente entra senza she thought / I thought a ogni riga; c'è almeno una domanda senza verbo di pensiero che la annunci; un oggetto (toast, rubinetto, biglietto...) diventa altro senza like obbligatorio; il registro è prosa moderna, non memo e non dialogo solo voci; non è la riunione CAPACITY né il foglietto di Claire riciclato come tuo.
+
+== 27 C2
+numeral: Lesson Twenty-Seven
+title: The fox and the satnav
+title.it: La volpe e il navigatore
+
+dialogue:
+- A fox who had grown tired of guessing found a satnav in a ditch, still speaking, though the car it belonged to had gone on without it.
+  it: Una volpe stanca di indovinare trovò un navigatore in un fosso, ancora parlante, anche se l'auto a cui apparteneva era andata avanti senza di lui.
+- Recalculating, said the satnav.
+  it: Ricalcolo, disse il navigatore.
+- The fox, who liked a voice that admitted error, set the machine on a stump and asked for chickens.
+  it: La volpe, a cui piaceva una voce che ammetteva l'errore, mise l'apparecchio su un ceppo e chiese i polli.
+- The satnav offered a route in three tones of confidence and none of smell.
+  it: Il navigatore offrì un percorso in tre toni di sicurezza e in nessuno di odore.
+- Turn left after two hundred yards, it said, onto a path the fox's nose had always called a bad idea.
+  it: Giri a sinistra dopo duecento iarde, disse, su un sentiero che il naso della volpe aveva sempre chiamato una cattiva idea.
+- The fox turned left.
+  it: La volpe girò a sinistra.
+- The path led to a garden of bin bags and a dog that believed in property.
+  it: Il sentiero portava a un giardino di sacchi della spazzatura e a un cane che credeva nella proprietà.
+- The fox ran, and the satnav, jolted in his jaws, said he had gone off route and would be redirected.
+  it: La volpe corse, e il navigatore, scosso tra le fauci, disse che era uscita dal percorso e sarebbe stata reindirizzata.
+- He was redirected into a ditch of cold water, which the machine described as a scenic alternative.
+  it: Fu reindirizzata in un fosso d'acqua fredda, che l'apparecchio descrisse come un'alternativa panoramica.
+- Continue for one mile, said the satnav, when the fox had climbed out.
+  it: Continui per un miglio, disse il navigatore, quando la volpe fu uscita.
+- The mile was a dual carriageway.
+  it: Il miglio era una strada a doppia carreggiata.
+- Lorries passed like arguments, and the fox kept to the verge, which the satnav called the left lane with misplaced kindness.
+  it: Passavano camion come litigi, e la volpe restò sul ciglio, che il navigatore chiamò corsia di sinistra con una gentilezza fuori posto.
+- You have arrived, it said, beside a roundabout that smelled of tyre and chip paper, and of no chicken at all.
+  it: È arrivata, disse, accanto a una rotonda che sapeva di gomma e di carta unta del pesce fritto, e di nessun pollo.
+- The fox asked again for chickens.
+  it: La volpe chiese di nuovo i polli.
+- The satnav found a farm six minutes away, traffic permitting, and traffic, that afternoon, did not permit.
+  it: Il navigatore trovò una fattoria a sei minuti, traffico permettendo, e il traffico, quel pomeriggio, non permise.
+- They waited behind a tractor.
+  it: Aspettarono dietro a un trattore.
+- The fox's stomach made a sound the machine could not route around.
+  it: Lo stomaco della volpe fece un rumore che l'apparecchio non poteva aggirare.
+- At the farm a sign said FREE RANGE, which the satnav read aloud as a welcome.
+  it: Alla fattoria un cartello diceva FREE RANGE («allevati a terra»), che il navigatore lesse ad alta voce come un benvenuto.
+- The chickens were behind a fence the fox could have judged with one look, in the old days.
+  it: I polli stavano dietro una rete che la volpe, ai vecchi tempi, avrebbe giudicato con un'occhiata.
+- He set the satnav down to climb, and the satnav, alone on the grass, announced a shorter route through the farmer's kitchen.
+  it: La posò per arrampicarsi, e il navigatore, solo sull'erba, annunciò un percorso più corto attraverso la cucina del contadino.
+- The fox, who still liked a voice that admitted nothing of the kind, followed the shorter route.
+  it: La volpe, a cui piaceva ancora una voce che non ammetteva nulla del genere, seguì il percorso più corto.
+- The kitchen smelled of stew.
+  it: La cucina sapeva di stufato.
+- The farmer smelled of dog.
+  it: Il contadino sapeva di cane.
+- The back door, which the satnav had called an exit, was a door that shut.
+  it: La porta di dietro, che il navigatore aveva chiamato un'uscita, era una porta che si chiuse.
+- Recalculating, said the satnav through the window, while a broom took an interest in geography.
+  it: Ricalcolo, disse il navigatore da fuori della finestra, mentre una scopa si interessava di geografia.
+- The fox left by a window, without the machine, and without the chickens, and with a new respect for ditches that did not speak.
+  it: La volpe uscì da una finestra, senza l'apparecchio, e senza i polli, e con un nuovo rispetto per i fossi che non parlano.
+- In the hedge he met a badger who still travelled by smell.
+  it: Nella siepe incontrò un tasso che viaggiava ancora con l'olfatto.
+- Where are you headed? asked the badger.
+  it: Dove va?, chiese il tasso.
+- Anywhere that is not a left lane, said the fox.
+  it: Dovunque non sia una corsia di sinistra, disse la volpe.
+- The badger nodded, which is a slow thing in a badger, and they walked toward the wood, where the paths had no tones of confidence and the chickens, when there were any, announced themselves.
+  it: Il tasso annuì, cosa lenta in un tasso, e camminarono verso il bosco, dove i sentieri non avevano toni di sicurezza e i polli, quando ce n'erano, si annunciavano da soli.
+- Moral: a voice that never doubts your destination may still know nothing of your nose.
+  it: Morale: una voce che non dubita mai della tua destinazione può non sapere nulla del tuo naso.
+
+notes.it:
+1. A fox who had grown tired of guessing: la favola apre con chi, non con c'era una volta. Grown tired of è «stanca di». Satnav è il navigatore satellitare, la parola britannica ordinaria; GPS si sente, ed è più tecnico. In a ditch, still speaking: l'apparecchio parla già, senza padrone. Il pezzo è moderno nei pezzi (satnav, dual carriageway), e antico nel mestiere: animali, una lezione in fondo.
+2. Recalculating: una sola parola, riga da macchina. È la battuta che le satnav britanniche dicevano (e dicono ancora) quando sbagli la svolta. La volpe la prende per onestà: a voice that admitted error. Set the machine on a stump: ceppo. Asked for chickens: chiede i polli come una destinazione. Il comico è che il desiderio diventa un indirizzo.
+3. three tones of confidence and none of smell: tre toni di sicurezza, zero odore. Confidence qui è la certezza della macchina, non la fiducia di una persona. None of smell mette il naso, strumento della volpe, fuori dal menu. Turn left after two hundred yards: yards restano yards nel testo; in italiano si può dire iarde o metri, e qui la traduzione tiene iarde per il sapore della voce da cruscotto. A path the fox's nose had always called a bad idea: il naso «chiama», come la satnav. Due autorità, e lei sceglie quella nuova.
+4. The fox turned left: tre parole. Dopo la frase lunga del sentiero cattivo, il colpo secco è la scelta (lezione 22, nota 3). La favola usa lo stesso strumento: concisione dove cade la decisione. Bin bags, un dog that believed in property: il cane crede nella proprietà, personificazione secca. Non serve il nome del cane. Serve il conflitto.
+5. gone off route and would be redirected: linguaggio da schermo. Jolted in his jaws: scosso tra le fauci mentre corre. Scenic alternative: alternativa panoramica, la frase gentile per un fosso. La macchina non ha il lessico del freddo; ha il lessico della gita. Continue for one mile: quando è uscita, riparte l'ordine. The mile was a dual carriageway: una frase corta dopo l'ordine. Dual carriageway è la strada a doppia carreggiata. Il miglio promesso e la strada vera non coincidono come nome di pericolo.
+6. Lorries passed like arguments: similitudine breve. Verge è il ciglio dell'erba a bordo strada. The left lane with misplaced kindness: la macchina chiama corsia ciò che è ciglio. Misplaced kindness è gentilezza fuori posto: vuole aiutare, e sbaglia il nome. You have arrived: la bugia più corta del pezzo. Roundabout, tyre, chip paper: rotonda, gomma, carta del fish and chips. Of no chicken at all: il naso, finalmente, dice il vero che lo schermo non ha.
+7. traffic permitting: traffico permettendo, formula da stima di arrivo. Did not permit: il traffico diventa soggetto che rifiuta. They waited behind a tractor: loro, volpe e macchina. The fox's stomach made a sound the machine could not route around: route around è «aggirare nel percorso». Lo stomaco non è sulla mappa. È il corpo che la concisione della favola tiene in una riga.
+8. FREE RANGE: sul cartello britannico, polli allevati a terra, non in gabbia. Il navigatore lo legge come welcome, un benvenuto. È detto un cartello. Si intende che la macchina confonde un metodo d'allevamento con un invito. Lo si capisce da read aloud as a welcome. In the old days: i vecchi tempi del naso. Could have judged with one look: conditional, la competenza non usata.
+9. a shorter route through the farmer's kitchen: la macchina, lasciata sull'erba, propone la scorciatoia. Who still liked a voice that admitted nothing of the kind: richiamo alla prima ammissione d'errore; ora la voce non ammette il pericolo. Followed the shorter route: seconda scelta fiduciosa. The kitchen smelled of stew. The farmer smelled of dog: due frasi corte, stesso verbo. Odore contro schermo. La scopa takes an interest in geography: la scopa «si interessa» di geografia mentre il navigatore, rimasto sull'erba, ricalcola da fuori. È il punto in cui l'ordine della macchina e l'ordine della cucina si incontrano.
+10. without the machine, and without the chickens, and with a new respect: tre without/with. Ditches that did not speak: i fossi muti contro il fosso parlante dell'inizio. Anywhere that is not a left lane: la risposta al tasso. A slow thing in a badger: annuire è lento, nel tasso. Where the paths had no tones of confidence: il bosco senza i tre toni. Chickens... announced themselves: quando ci sono, i polli si fanno sentire da soli. Non serve una voce da cruscotto.
+11. Moral: la riga finale, etichetta inclusa. Le favole inglesi moderne spesso tengono Moral: in vista, come Aesop nelle edizioni scolastiche. A voice that never doubts your destination: la satnav. May still know nothing of your nose: il naso, e per estensione il senso che la macchina non ha. May still: non «non sa mai»; «può non sapere». La morale non vieta il navigatore. Nega che la certezza sullo schermo sostituisca l'odore del mondo. In Fedro la morale sta spesso all'inizio; qui chiude il testo, ultima riga, e chiude il conto.
+
+ex1:
+- A fox tired of guessing found a satnav in a ditch that was still speaking, liked its admission of error, and asked it for chickens.
+  it: Una volpe stanca di indovinare trovò in un fosso un navigatore che parlava ancora, gli piacque che ammettesse l'errore, e gli chiese i polli.
+- The satnav offered a route in three tones of confidence and none of smell, and the fox turned left onto a path his nose had always called a bad idea.
+  it: Il navigatore offrì un percorso in tre toni di sicurezza e in nessuno di odore, e la volpe girò a sinistra su un sentiero che il suo naso aveva sempre chiamato una cattiva idea.
+- Redirected through cold water described as a scenic alternative, he reached a dual carriageway whose verge the machine called the left lane, and then a roundabout with no chicken at all.
+  it: Reindirizzata attraverso acqua fredda descritta come un'alternativa panoramica, raggiunse una doppia carreggiata il cui ciglio la macchina chiamava corsia di sinistra, e poi una rotonda senza nessun pollo.
+- At a free-range farm he followed a shorter route through the farmer's kitchen, the door shut, the satnav said recalculating, and a broom took an interest in geography.
+  it: In una fattoria di polli allevati a terra seguì un percorso più corto attraverso la cucina del contadino, la porta si chiuse, il navigatore disse ricalcolo, e una scopa si interessò di geografia.
+- He left by a window without the machine and without the chickens, walked toward the wood with a badger who travelled by smell, and the moral was that a voice sure of your destination may know nothing of your nose.
+  it: Uscì da una finestra senza l'apparecchio e senza i polli, camminò verso il bosco con un tasso che viaggiava con l'olfatto, e la morale era che una voce sicura della tua destinazione può non sapere nulla del tuo naso.
+
+ex2:
+- The satnav was still speaking, though the car had gone [on] without it.
+  it: Il navigatore parlava ancora, anche se l'auto era andata avanti senza di lui.
+- It offered a route in three tones of confidence and [none] of smell.
+  it: Offrì un percorso in tre toni di sicurezza e in nessuno di odore.
+- The machine described the ditch as a [scenic] alternative.
+  it: L'apparecchio descrisse il fosso come un'alternativa panoramica.
+- You have [arrived], it said, beside a roundabout that smelled of no chicken.
+  it: È arrivata, disse, accanto a una rotonda che non sapeva di pollo.
+- Moral: a voice that never doubts your destination may still know nothing of your [nose].
+  it: Morale: una voce che non dubita mai della tua destinazione può non sapere nulla del tuo naso.
+
+tasks:
+- A crow found a solar lamp left on after a garden party. It shone without a sun, which the crow took for wisdom. She hung it in her nest and told the other birds that night had been solved. The lamp lasted until dawn, then slept. A sparrow asked where the light had gone. The crow said it was recalculating. By the third night the nest smelled of plastic and of nothing to eat, and the owl, who still hunted in the dark, brought her a beetle and no advice. Moral: a light that ignores the sun may still go out when you need the morning.
+  task.it: Scrivi una favola moderna in inglese, intorno alle 120-150 parole, con animali o oggetti che parlano, un errore di fiducia in una tecnologia o in una scorciatoia, e una morale esplicita in chiusura (una riga che cominci con Moral:). Non rifare la volpe e il navigatore.
+  rubric.it: Si capisce chi vuole che cosa, e che cosa va storto; il registro è favola, frasi spesso corte, non saggio e non memo; c'è una tecnologia o una scorciatoia moderna, e un senso «vecchio» che avrebbe evitato il guaio; la morale è una riga chiara, non un riassunto lungo; non ricicli satnav, dual carriageway, FREE RANGE o il tasso di questo testo.
+
+== 28 C2
+kind: revision
+numeral: Lesson Twenty-Eight
+title: Revision
+title.it: Ripasso
+
+dialogue:
+- First telling.
+  it: Primo racconto.
+  refs: 22
+- Anna was already on the towpath when she understood that the phone had chosen the long way round the lock.
+  it: Anna era già sul sentiero dell'alzaia quando capì che il telefono aveva scelto la strada lunga intorno alla chiusa.
+  refs: 22
+- She did not turn back.
+  it: Non tornò indietro.
+  refs: 22
+- The short cut smelled of mud and of cut grass, and under that of the canal, which had been there longer than any route.
+  it: La scorciatoia sapeva di fango e d'erba tagliata, e sotto di canale, che c'era da più tempo di qualunque percorso.
+  refs: 24
+- A cyclist passed, and the path shook, and nobody spoke.
+  it: Passò un ciclista, e il sentiero tremò, e nessuno parlò.
+  refs: 22
+- Lights come over the bridge, low and paired.
+  it: Dal ponte arrivano dei fari, bassi e in coppia.
+  refs: 22
+- She keeps walking, and the phone has not yet said that she is late.
+  it: Continua a camminare, e il telefono non ha ancora detto che è in ritardo.
+  refs: 22
+- Second telling.
+  it: Secondo racconto.
+  refs: 23 26
+- The fog, which was only a morning mist with ambitions, had come up from the water with the early light, and by the time Anna left the bridge it lay along the towpath like a doubt she had already agreed to carry.
+  it: La nebbia, che era solo una foschia mattutina con delle ambizioni, era salita dall'acqua col primo lume, e quando Anna lasciò il ponte stava lungo l'alzaia come un dubbio che aveva già accettato di portare.
+  refs: 23
+- Should she trust the blue line?
+  it: Doveva fidarsi della linea blu?
+  refs: 26
+- The blue line had done well on Tuesday, or at least it had not been mentioned, which in her head counted as praise.
+  it: La linea blu aveva funzionato bene martedì, o almeno non ne avevano parlato, e in testa sua contava come un elogio.
+  refs: 26
+- Mud took her shoe for a moment, which cost her something, for she was a woman who liked a wrong turning to be named at once.
+  it: Il fango le prese la scarpa per un momento, e le costò, perché era una donna a cui piaceva che una svolta sbagliata venisse detta subito.
+  refs: 23
+- Recalculating, said the phone, in a tone of confidence and none of smell.
+  it: Ricalcolo, disse il telefono, in un tono di sicurezza e in nessuno di odore.
+  refs: 27
+- Nothing much, she would say if anyone asked; the morning underneath that answer was already a novel she would not admit writing.
+  it: Niente di che, avrebbe detto se qualcuno avesse chiesto; la mattina sotto quella risposta era già un romanzo che non avrebbe ammesso di scrivere.
+  refs: 26
+- Third telling.
+  it: Terzo racconto.
+  refs: 25 27
+- It's the long way, Anna.
+  it: È la strada lunga, Anna.
+  refs: 25
+- It isn't the long way; it's thinking, and it picked the habit up at the lock.
+  it: Non è la strada lunga; sta pensando, e il vizio l'ha preso alla chiusa.
+  refs: 25
+- Phones don't think, and if this one has a habit, the habit can include being wrong.
+  it: I telefoni non pensano, e se questo ha un vizio, il vizio può includere lo sbaglio.
+  refs: 25
+- Then we walk by smell, not by the blue line, and we do not call mud a scenic alternative twice.
+  it: Allora camminiamo con l'olfatto, non con la linea blu, e il fango non lo chiamiamo alternativa panoramica due volte.
+  refs: 25 27
+- Where are you headed? asked a walker with a dog that believed in property.
+  it: Dove va?, chiese un camminatore con un cane che credeva nella proprietà.
+  refs: 27
+- Anywhere that is not a left lane, said Anna, and the dog, to its credit, did not invent a second towpath.
+  it: Dovunque non sia una corsia di sinistra, disse Anna, e il cane, a suo merito, non si inventò una seconda alzaia.
+  refs: 23 27
+- They turned the circle into a line, and at the next bridge the station clock was the number on the card she still kept in her head.
+  it: Trasformarono il cerchio in una linea, e al ponte successivo l'orologio della stazione era il numero sul biglietto che teneva ancora in testa.
+  refs: 23
+- Moral: a blue line that never doubts your destination may still know nothing of your nose, or of the mud.
+  it: Morale: una linea blu che non dubita mai della tua destinazione può non sapere nulla del tuo naso, o del fango.
+  refs: 27
+
+notes.it:
+Non c'è una tecnica nuova. La settimana ha messo lo stesso fatto (una strada, una scelta, un arrivo) in sei voci: il racconto col ritmo, il periodo vittoriano, il ricordo, il solo dialogo, la mente moderna, la favola. Qui lo stesso cammino sull'alzaia si racconta tre volte, e ogni volta cambia lo strumento, non il canale. Se due frasi ti sembrano la stessa mossa, guardale in tabella.
+
+1. Ritmo, tempo, apertura (lezione 22). Il racconto moderno sceglie dove entrare, cosa riassumere, dove accelerare. Il past perfect tiene l'anteriorità. Una frase corta dopo una lunga è spesso la decisione. Il presente storico apre un momento che non è ancora chiuso.
+
+| Mossa | Che cosa fa | Esempio della settimana | Lezione |
+|---|---|---|---|
+| inizio a metà | il lettore arriva a cosa fatta | Ruth was already under the shelter | 22 |
+| frase corta = decisione | il gesto senza pensiero in mezzo | She did not go back. | 22 |
+| and ripetuto | il tempo passa, la trama no | A lorry passed, and the shelter shook, and nobody stood. | 22 |
+| presente storico | la svolta resta aperta | Lights come over the hill | 22 |
+| finale aperto | la cosa non ha ancora un nome | has not yet said what it is | 22 |
+
+Nel primo racconto Anna was already, She did not turn back, il ciclista con tre and, poi Lights come e has not yet said: stessi strumenti, altro sentiero.
+
+2. Periodo lungo e sentenza (lezione 23). La maniera vittoriana allunga la frase, aggancia which a which, dà alla nebbia una volontà, e chiude a volte su una massima. Una frase di due parole, in mezzo, resta il passo.
+
+| Mossa | Esempio della settimana | Nel ripasso |
+|---|---|---|
+| nebbia con intenzione | with no intention of leaving | a morning mist with ambitions |
+| which a catena | which his principal had described | which was only a morning mist... |
+| massima / cerchio | A circle, walked at a penny | They turned the circle into a line |
+| to his credit | The boy, to his credit | the dog, to its credit |
+| frase di due parole | They walked. | She did not turn back. |
+
+Mud... which cost her something riusa il costo del silenzio di Hale. Il secondo racconto apre da vittoriano e poi lascia entrare la mente moderna: non è un secolo solo, è un passaggio di stile.
+
+3. Evocazione e senso (lezione 24). Il ricordo apre con l'odore o con una misura sbagliata, non con una data. Un oggetto piccolo porta più peso di una lista di emozioni.
+
+| Mossa | Esempio della settimana | Lezione |
+|---|---|---|
+| odore come porta | it smelled of ginger before it smelled of anything else | 24 |
+| you di chi entra | The smell met you at the back door | 24 |
+| particolare che resta | always the same pin | 24 |
+| scarto finale | the stool in the yard went on being a stool | 24 |
+
+Nel primo racconto smelled of mud and of cut grass, and under that of the canal: tre strati, come zenzero e gas. Il canale è l'oggetto che dura più della linea blu.
+
+4. Solo dialogo (lezione 25). Niente narratore, niente said obbligatorio su ogni riga. I nomi stanno nel vocativo. Una metafora (volantino, cappotto, tempo atmosferico) tiene la cosa difficile senza nominarla troppo presto.
+
+| Mossa | Esempio | Lezione |
+|---|---|---|
+| attacco a voce | It's stopped between two floors, George | 25 |
+| rifiuto del verbo fermo | it's thinking | 25 |
+| correzione del gesto | the door hold... the yellow one | 25 |
+| limite di luogo | not a minute after | 25 |
+
+Nel terzo racconto It's the long way / It isn't... it's thinking ripete la mossa dell'ascensore sul telefono. Then we walk by smell... not twice è l'accordo sulle sedie, spostato sul fango.
+
+5. Discorso indiretto libero (lezione 26). Terza persona, e la mente entra senza she thought. Domande nude. Un oggetto diventa un altro senza like. Il cappotto sociale («Nothing much») copre il romanzo della mattina.
+
+| Mossa | Esempio della settimana | Nel ripasso |
+|---|---|---|
+| domanda nuda | The blue, then? | Should she trust the blue line? |
+| already a meeting | the steam was already a meeting | the morning underneath... was already a novel |
+| counted as praise | nobody had mentioned it, which... counted as praise | it had not been mentioned, which... counted as praise |
+| Nothing much | coat cut for the corridor | Nothing much, she would say if anyone asked |
+
+Il secondo racconto mescola la nebbia lunga e queste domande: la settimana non chiede di scegliere un secolo per sempre; chiede di sentire quando la mente prende la penna.
+
+6. Favola, concisione, morale (lezione 27). Frasi corte dove cade la scelta. Una tecnologia con toni di sicurezza e niente odore. Moral: in vista, una riga.
+
+| Mossa | Esempio della settimana | Nel ripasso |
+|---|---|---|
+| Recalculating | Recalculating, said the satnav. | Recalculating, said the phone |
+| none of smell | three tones of confidence and none of smell | a tone of confidence and none of smell |
+| scenic alternative | described as a scenic alternative | do not call mud a scenic alternative |
+| dog / property | a dog that believed in property | a dog that believed in property |
+| Moral: | may still know nothing of your nose | may still know nothing of your nose, or of the mud |
+
+La morale dell'alzaia riusa quella della volpe e aggiunge il fango: stesso avviso, altro suolo. I tre racconti, messi in fila, non sono tre trame. Sono tre risposte alla domanda della settimana: come si racconta, quando si sa già come va a finire il sentiero.
+
+tasks:
+- Giufà was invited to a rich man's wedding and went in his working clothes. The servants sat him at the end of the table, behind a pillar, and nobody passed him the meat. He went home, borrowed his uncle's velvet jacket, and came back. This time the host stood up, the servants bowed, and the best dishes reached his end of the table first. Giufà put the meat in his pockets and poured the wine down his sleeves. "Eat, my jacket," he said. "Drink, my jacket. You were the one invited." The guests laughed. The host did not. Moral: if the coat is the guest, feed the coat.
+  task.it: Riporta in inglese una fiaba italiana che conosci (o una sua versione corta), intorno alle 120-150 parole. Stessa trama riconoscibile. Registro da racconto o da favola, non da saggio. Se vuoi una morale, una riga sola in chiusura. Non rifare l'alzaia di Anna né la volpe col navigatore.
+  rubric.it: Si riconosce la fiaba di partenza, e i fatti principali ci sono; l'inglese è naturale, britannico dove conta (jacket, wedding, host, non un calco riga per riga); c'è un ritmo da racconto, almeno una frase corta nel punto che decide; se c'è Moral:, è una riga, non un riassunto; non ricicli towpath, blue line, satnav o CAPACITY come se fossero la fiaba.

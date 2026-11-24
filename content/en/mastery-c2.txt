@@ -4448,3 +4448,775 @@ tasks:
 - Take "Not bad" after a joke in a pub. What is said is mild praise or polite downgrade; what is meant, in that room, can be a standing ovation with the standing removed. How the Italian friend knows: watch the nod, the lack of adjectives, the fact that nobody hugged the comic. Tell them not to translate it as "non male" and walk off offended; tell them it may be the British soft stamp of approval, then offer the honest Italian equivalent only after they have heard the pause.
   task.it: Spiega in inglese (90-130 parole) una barzelletta o una battuta britannica della settimana a un amico italiano: che cosa si dice, che cosa si intende, come si capisce, e quale calco italiano andrebbe evitato. Registro chiaro da amico competente, non da enciclopedia. Confronta col modello.
   rubric.it: Si separano detto e inteso; c'è un segnale concreto (pausa, tono, contesto); si nomina un rischio di traduzione; l'inglese è naturale; non si rovina la battuta con una lezione più lunga della risata.
+
+== 64 C2
+numeral: Lesson Sixty-Four
+title: November
+title.it: Novembre
+
+dialogue:
+- Here is a short poem called November. It is original, and it is also a working model of metre and rhyme: you may love it, or you may take it apart like a bicycle.
+  it: Ecco una breve poesia intitolata November. È originale, ed è anche un modello di lavoro di metro e rima: puoi amarla, o smontarla come una bicicletta.
+- Read it aloud once for the sense, once while tapping the table on the stresses, and once for the little slam of the couplet.
+  it: Leggila ad alta voce una volta per il senso, una battendo il tavolo sugli accenti, e una per il piccolo colpo del distico finale.
+- NOVEMBER
+  it: NOVEMBRE
+- The year puts on its darker coat of grey
+  it: L'anno indossa il suo cappotto più scuro di grigio
+- and walks the pavement in a thinner light.
+  it: e cammina sul marciapiede in una luce più magra.
+- The leaves that bargained gold for one last day
+  it: Le foglie che avevano trattato l'oro per un ultimo giorno
+- now settle, copper-dull, against the night.
+  it: ora si posano, opache di rame, contro la notte.
+- The rain writes letters on the windowpane
+  it: La pioggia scrive lettere sul vetro della finestra
+- in scripts no post will ever take away;
+  it: in scritture che nessuna posta porterà mai via;
+- the kettle starts its patient soft refrain
+  it: il bollitore comincia il suo ritornello paziente e soft
+- and draws the afternoon to cups of grey.
+  it: e richiama il pomeriggio a tazze di grigio.
+- We stay indoors as if the street had lied,
+  it: Restiamo in casa come se la strada avesse mentito,
+- as if the late bus still might find its route;
+  it: come se l'autobus in ritardo potesse ancora trovare il suo percorso;
+- yet somewhere under fog a door swings wide
+  it: eppure da qualche parte sotto la nebbia una porta si apre larga
+- and someone stamps November from their boots—
+  it: e qualcuno si scuote novembre dagli stivali—
+- then says, "It's only weather," which is true, and not:
+  it: poi dice: «È solo il tempo», il che è vero, e no:
+- the month that teaches English how to plot.
+  it: il mese che insegna all'inglese come si trama (storia e verso).
+- So why does it hold together, when it does?
+  it: Allora perché regge, quando regge?
+- First, the metre is iambic pentameter: five feet, each roughly a light syllable then a stress, da-DUM da-DUM da-DUM da-DUM da-DUM.
+  it: Prima, il metro è pentametro giambico: cinque piedi, ciascuno grosso modo una sillaba leggera poi un accento, da-DUM da-DUM da-DUM da-DUM da-DUM.
+- English verse lives on stress, not on a fixed count of syllables alone; Italian verse more often counts syllables and then places accents inside that count.
+  it: Il verso inglese vive sull'accento, non su un conteggio fisso di sole sillabe; il verso italiano più spesso conta le sillabe e poi colloca gli accenti dentro quel conteggio.
+- Tap: The *year* puts *on* its *dar*ker *coat* of *grey* — five landings, and the ear accepts small slips if the beat returns.
+  it: Batti: The *year* puts *on* its *dar*ker *coat* of *grey* — cinque atterraggi, e l'orecchio accetta piccoli scarti se il battito torna.
+- Second, the rhyme scheme is ABAB CDCD EFEF GG: three quatrains and a couplet, a shape close to the English sonnet without claiming the full fourteen-line sonnet tradition as a copy.
+  it: Secondo, lo schema di rima è ABAB CDCD EFEF GG: tre quartine e un distico, forma vicina al sonetto inglese senza pretendere di copiare tutta la tradizione dei quattordici versi.
+- grey / light / day / night; pane / away / refrain / grey; lied / route / wide / boots; not / plot: the ear gets paid at the line-ends, as the limerick paid on alive and supplies.
+  it: grey / light / day / night; pane / away / refrain / grey; lied / route / wide / boots; not / plot: l'orecchio viene pagato in fine di verso, come il limerick pagava su alive e supplies.
+- Some rhymes are full (grey / day / grey); route / boots is slant, a near-rhyme that keeps the pattern without a perfect chime, which English often allows because perfect rhymes are scarcer than in Italian.
+  it: Alcune rime sono piene (grey / day / grey); route / boots è slant, una quasi-rima che tiene lo schema senza accordo perfetto, cosa che l'inglese spesso consente perché le rime perfette sono più scarse che in italiano.
+- Third, sound inside the lines: darker coat, thinner light, copper-dull, patient soft refrain — alliteration and soft consonants do work the ear never invoices separately.
+  it: Terzo, suono dentro i versi: darker coat, thinner light, copper-dull, patient soft refrain — allitterazione e consonanti soft fanno un lavoro che l'orecchio non fattura a parte.
+- Pavement, kettle, bus, boots: ordinary British nouns keep the poem from floating into mist alone; November is a month you walk through, not only a mood.
+  it: Pavement, kettle, bus, boots: nomi britannici ordinari impediscono alla poesia di galleggiare solo nella foschia; November è un mese che si attraversa a piedi, non soltanto un umore.
+- "It's only weather," which is true, and not: British understatement meets a turn; the couplet refuses to leave the rain as meteorology alone.
+  it: «It's only weather», which is true, and not: understatement britannico incontra una svolta; il distico rifiuta di lasciare la pioggia come sola meteorologia.
+- Plot here is story-plot and also the quiet design of verse: how stress and rhyme arrange a month so that it feels inevitable once you hear it.
+  it: Plot qui è trama di storia e anche il disegno quieto del verso: come accento e rima dispongono un mese finché sembra inevitabile una volta udito.
+- If your own four lines apologise for the metre, or explain the rhyme in the fifth foot, you have written a note in costume; cut until the beat carries the sense.
+  it: Se i tuoi quattro versi si scusano per il metro, o spiegano la rima nel quinto piede, hai scritto una nota in costume; taglia finché il battito porta il senso.
+- Read November again. Then write four lines of your own in iambic metre, and let the last stress close the door without a lecture.
+  it: Rileggi November. Poi scrivi quattro versi tuoi in metro giambico, e lascia che l'ultimo accento chiuda la porta senza una lezione.
+
+notes.it:
+1. Here is a short poem... working model... bicycle: cornice didattica, non scusa. Original: testo nuovo del corso, non citazione. Read aloud... stresses... slam of the couplet: tre letture (senso, metro, chiusura), eco del limerick (lezione 62).
+2. NOVEMBER... darker coat of grey... thinner light: apertura in immagini di stagione. Pavement: marciapiede (britannico; non sidewalk). thinner light: luce più magra, non «luce sottile» calco vuoto.
+3. leaves that bargained gold... copper-dull... night: bargained = avevano trattato (metafora di scambio); copper-dull = opache di rame, preciso contro «marroni». settle against the night: posarsi contro, non solo «cadere».
+4. rain writes letters... scripts no post will ever take away: personificazione della pioggia; post = posta (servizio), non «palo». windowpane: vetro della finestra, una parola.
+5. kettle... patient soft refrain... cups of grey: kettle come gesto domestico britannico (eco lezione 62); refrain = ritornello; cups of grey lega tè e cielo.
+6. stay indoors... street had lied... late bus... route: il mese come ritardo e dubbio; bus e route tengono il testo a terra. door swings wide... stamps November from their boots: volta verso il fuori; stamp = scuotere battendo (fango/mese).
+7. "It's only weather," which is true, and not: ciò che si dice (solo meteorologia) / ciò che si intende (non solo) / come si sa (and not spezza la frase). Understatement britannico (lezioni 8, 58) dentro un verso.
+8. the month that teaches English how to plot: plot = trama narrativa e disegno/«complotto» del verso; chiusura a doppio senso lieve, non barzelletta da palco. Teaches English: il mese come maestro di suono, tesi della lezione.
+9. iambic pentameter... da-DUM: cinque piedi giambici. English... stress... Italian... syllables: contrasto utile, non superiorità (come stress-timed in lezione 62). Tap... *year* *on* *dar*ker *coat* *grey*: accenti in grassetto, come nella pronuncia figurata; un piede può scivolare se il battito torna.
+10. ABAB CDCD EFEF GG... English sonnet: forma vicina al sonetto inglese (tre quartine + distico) senza copiare un testo vivente. grey/day; route/boots slant: rima piena vs quasi-rima; inglese più tollerante perché le rime perfette scarseggiano rispetto all'italiano (ponte alla lezione 65).
+11. darker coat, thinner light... alliteration: suono interno. Pavement, kettle, bus, boots: lessico ordinario. If your four lines apologise... note in costume: criterio per il compito, eco lezione 62 sul quinto verso che spiega.
+
+ex1:
+- November puts on a darker coat of grey and walks the pavement in a thinner light.
+  it: November indossa un cappotto più scuro di grigio e cammina sul marciapiede in una luce più magra.
+- The leaves that bargained gold for one last day now settle, copper-dull, against the night.
+  it: Le foglie che avevano trattato l'oro per un ultimo giorno ora si posano, opache di rame, contro la notte.
+- The kettle starts its patient soft refrain and draws the afternoon to cups of grey.
+  it: Il bollitore comincia il suo ritornello paziente e soft e richiama il pomeriggio a tazze di grigio.
+- Someone stamps November from their boots, then says it is only weather, which is true, and not.
+  it: Qualcuno si scuote novembre dagli stivali, poi dice che è solo il tempo, il che è vero, e no.
+- The poem is built in iambic pentameter with the rhyme scheme ABAB CDCD EFEF GG.
+  it: La poesia è costruita in pentametro giambico con lo schema di rima ABAB CDCD EFEF GG.
+
+ex2:
+- The metre is iambic [pentameter]: five feet of light then stress.
+  it: Il metro è pentametro giambico: cinque piedi di leggero poi accento.
+- Read it aloud while tapping the table on the [stresses].
+  it: Leggila ad alta voce battendo il tavolo sugli accenti.
+- The rain writes letters on the [windowpane] in scripts no post will take away.
+  it: La pioggia scrive lettere sul vetro della finestra in scritture che nessuna posta porterà via.
+- Route and boots make a [slant] rhyme, close but not perfect.
+  it: Route e boots fanno una rima slant, vicina ma non perfetta.
+- The last couplet turns on the word [plot], story and verse design at once.
+  it: L'ultimo distico ruota sulla parola plot, trama e disegno del verso insieme.
+
+tasks:
+- The morning takes its coffee lukewarm, slow, / and checks the clock as if the clock might care; / the pavement shines where yesterday's late snow / still argues with the cleaner in the air.
+  task.it: Scrivi quattro versi originali in inglese in metro giambico (idealmente pentametro: cinque battiti da-DUM per verso). Schema di rima libero purché udibile (ABAB o AABB va bene). Niente scuse nel quarto verso: il battito deve portare il senso. Confronta col modello.
+  rubric.it: Si sente il giambo (da-DUM) a voce alta; i versi hanno lunghezza simile; la rima o l'eco finale chiude senza spiegare il metro; l'inglese è naturale; non è una copia di November.
+
+== 65 C2
+numeral: Lesson Sixty-Five
+title: Why English rhymes so little
+title.it: Perché l'inglese fa così poche rime
+
+dialogue:
+- Italian rhymes as if the language had been designed by a generous rhyme dictionary; English rhymes as if the dictionary had gone home early.
+  it: L'italiano fa rima come se la lingua fosse stata progettata da un generoso rimario; l'inglese fa rima come se il rimario fosse andato a casa presto.
+- That is not a verdict on beauty. It is a remark about endings, stress, and what the ear can harvest without cheating.
+  it: Non è un verdetto sulla bellezza. È un'osservazione su desinenze, accento, e su ciò che l'orecchio può raccogliere senza barare.
+- Take a plain Italian infinitive: amare, cantare, parlare. The -are is a shared doorway; walk three verbs through it and you already have a rhyme set.
+  it: Prendi un infinito italiano semplice: amare, cantare, parlare. La -are è una porta condivisa; fai passare tre verbi e hai già un gruppo di rime.
+- Nouns ending in -zione, -ità, -mento queue up as politely as a British queue and hand you matches.
+  it: I nomi in -zione, -ità, -mento fanno la coda educata quanto una coda britannica e ti consegnano le corrispondenze.
+- English verbs and nouns often stop on a consonant, or on a weak syllable that refuses to chime: love / move look like cousins on the page and refuse each other in the mouth for many speakers.
+  it: Verbi e nomi inglesi spesso finiscono su una consonante, o su una sillaba debole che rifiuta di accordarsi: love / move sembrano cugini sulla pagina e per molti parlanti si rifiutano in bocca.
+- The history is familiar in outline: Old English stress; French and Latin loans; spelling that froze while sound kept walking; a stock of short, stubborn words that carry everyday speech.
+  it: La storia è familiare a grandi linee: accento dell'inglese antico; prestiti francesi e latini; ortografia che si è congelata mentre il suono ha continuato a camminare; uno stock di parole corte e ostinate che portano il parlato quotidiano.
+- The result is not that English cannot rhyme. Chaucer, the ballads, and a thousand songs prove that it can, and does, with pleasure.
+  it: Il risultato non è che l'inglese non possa fare rima. Chaucer, le ballate e mille canzoni dimostrano che può, e lo fa, con piacere.
+- The result is that perfect rhyme is a tighter budget: you spend it carefully, or you stretch it with slant rhyme, assonance, and consonance.
+  it: Il risultato è che la rima perfetta è un budget più stretto: la spendi con cura, o la allunghi con rima slant, assonanza e consonanza.
+- Slant rhyme (also called half-rhyme or near-rhyme) keeps a family likeness: route / boots in yesterday's November, where the vowel agrees and the consonants argue, or room / storm, where the last consonant agrees and the vowels drift apart.
+  it: La rima slant (anche half-rhyme o near-rhyme) tiene una somiglianza di famiglia: route / boots nel November di ieri, dove la vocale si accorda e le consonanti litigano, o room / storm, dove l'ultima consonante si accorda e le vocali si allontanano.
+- Assonance repeats a vowel sound inside or across lines without the consonants (late / grey); alliteration repeats an initial consonant (darker coat, copper-dull); neither needs a perfect end-rhyme to do all the work.
+  it: L'assonanza ripete un suono vocalico dentro o tra i versi, senza le consonanti (late / grey); l'allitterazione ripete una consonante iniziale (darker coat, copper-dull); nessuna delle due chiede a una rima finale perfetta di fare tutto il lavoro.
+- Blank verse — unrhymed iambic pentameter — became a house style for English drama precisely because the stress pattern could carry grandeur without a rhyme tax at every exit.
+  it: Il blank verse — pentametro giambico senza rima — divenne uno stile di casa del teatro inglese proprio perché lo schema di accenti poteva portare grandiosità senza una tassa di rima a ogni uscita.
+- Titles only, and well-known ones: much of Shakespeare's stage speech sits in that metre; Milton's long poem Paradise Lost does too, on purpose, and became the great model of English blank verse.
+  it: Solo titoli, e ben noti: molta della parlata teatrale di Shakespeare sta in quel metro; il lungo poema di Milton Paradise Lost pure, di proposito, e divenne il grande modello del blank verse inglese.
+- Italian literary verse, by contrast, often treats rhyme as furniture you expect in the room: terza rima, ottava, sonetti that chime because the language offers chiming endings in bulk.
+  it: Il verso letterario italiano, al contrario, tratta spesso la rima come mobile che ti aspetti nella stanza: terza rima, ottava, sonetti che accordano perché la lingua offre desinenze accordabili in quantità.
+- Dante's Comedy in terza rima is the classic case; the form itself shows how far interlocking rhyme can ride when endings cooperate.
+  it: La Commedia di Dante in terza rima è il caso classico; la forma stessa mostra quanto lontano possa andare la rima intrecciata quando le desinenze collaborano.
+- So when an English poem rhymes tightly, the achievement is partly athletic: the poet has found, among scarcer matches, a pair that still sounds inevitable.
+  it: Così, quando una poesia inglese fa rima stretta, il risultato è in parte atletico: il poeta ha trovato, tra meno corrispondenze, una coppia che suona ancora inevitabile.
+- When it refuses rhyme, the refusal is not laziness by default; it may be a choice to let stress, image, and syntax do the binding.
+  it: Quando rifiuta la rima, il rifiuto non è pigrizia per default; può essere la scelta di lasciare che accento, immagine e sintassi facciano da legame.
+- Free verse, which we meet properly in a later lesson this week, often keeps sound-play without end-rhyme: the ear is still invited; the invoice looks different.
+  it: Il free verse, che incontriamo per bene in una lezione successiva di questa settimana, spesso tiene il gioco sonoro senza rima finale: l'orecchio è ancora invitato; la fattura è diversa.
+- Compare two poems you already know, one in each language if you can, and ask not which is better but where the sound-budget is spent: line-end, mid-line, or both.
+  it: Confronta due poesie che già conosci, una per lingua se puoi, e chiediti non quale sia migliore ma dove si spende il budget sonoro: fine di verso, mezzo verso, o entrambi.
+- In November, grey returns as a full rhyme and route leans toward boots as a slant; the kettle's refrain is assonance and soft consonants working indoors.
+  it: In November, grey torna come rima piena e route pende verso boots come slant; il refrain del bollitore è assonanza e consonanti soft che lavorano al chiuso.
+- English, then, does not rhyme little out of meanness; it rhymes little out of inventory, and invents other ways to make the month sound held together.
+  it: L'inglese, dunque, non fa poche rime per meschinità; ne fa poche per inventario, e inventa altri modi per far suonare il mese tenuto insieme.
+- Italian can afford a denser chime; English often buys atmosphere with stress and near-misses.
+  it: L'italiano può permettersi un accordo più denso; l'inglese spesso compra atmosfera con accenti e mancati per poco.
+- Neither is the true music. Both are machines for making air memorable.
+  it: Nessuna delle due è la musica vera. Entrambe sono macchine per rendere l'aria memorabile.
+- If a translation "improves" an English poem by adding neat Italian rhymes the original never earned, you have dressed the guest in a borrowed suit.
+  it: Se una traduzione «migliora» una poesia inglese aggiungendo rime italiane ordinate che l'originale non si era guadagnate, hai vestito l'ospite con un abito preso in prestito.
+- Keep the suit that fits the stress. The ear will tell you when the sleeves are wrong.
+  it: Tieni l'abito che calza all'accento. L'orecchio ti dirà quando le maniche sono sbagliate.
+- And if your comparison ends with "English can't rhyme," correct yourself: English can; it simply invoices the cost more often, and sometimes posts the letter unmarked.
+  it: E se il tuo confronto finisce con «l'inglese non sa fare rima», correggiti: l'inglese sa; semplicemente fattura il costo più spesso, e a volte spedisce la lettera senza francobollo.
+
+notes.it:
+1. Italian rhymes... generous rhyme dictionary; English... gone home early: tesi comica dell'essay. Not a verdict on beauty... endings, stress: limita subito il giudizio estetico. Contrasto con l'italiano sulle desinenze.
+2. amare, cantare, parlare... -are: esempio trasparente di rima «gratis» morfologica. -zione, -ità, -mento... British queue: coda come metafora (eco settimane precedenti); le desinenze italiane fanno fila.
+3. love / move... cousins on the page... refuse... in the mouth: rima ortografica ≠ rima sonora per molti parlanti britannici (move /muːv/, love /lʌv/). Consonant endings: inventario scarso di rime perfette.
+4. Old English stress; French and Latin loans; spelling that froze: fatti consolidati di storia della lingua, in outline, senza dettagli dubbi. short, stubborn words: monosillabi del quotidiano.
+5. Chaucer, the ballads... prove that it can: non «never». perfect rhyme... tighter budget... slant... assonance... consonance: tesi operativa della lezione. route / boots... November: rinvio verificato alla lezione 64.
+6. Assonance... late / grey: stessa vocale, consonanti diverse; grey / day invece è rima piena. Alliteration... darker coat, copper-dull: esempi presi dal testo di November (lezione 64). mid-line sound: il lavoro non è solo in fine di verso.
+7. Blank verse... rhyme tax: definizione (pentametro senza rima) + perché divenne utile al teatro. Shakespeare... Paradise Lost: solo titoli e fatti noti, senza citare versi.
+8. terza rima, ottava, sonetti... Dante's Comedy: fatti di storia letteraria italiana; Comedy = Commedia. interlocking rhyme when endings cooperate: contrasto strutturale, non classifica di valore.
+9. athletic... scarcer matches; refuses rhyme... not laziness: due scelte oneste. Free verse... later lesson this week: ponte alla lezione 68 senza rubarne il pezzo. sound-budget: metafora contabile ripresa dal budget della rima.
+10. November... grey... slant... kettle's refrain: rilettura sonora della 64. inventory... other ways; Italian denser chime / English stress and near-misses: sintesi. borrowed suit: pericolo del traduttore che «migliora» con rime italiane. posts the letter unmarked: chiusura sull'assenza di rima come scelta, non fallimento.
+
+ex1:
+- Italian infinitives in -are hand you a rhyme set; English love and move often refuse each other in the mouth.
+  it: Gli infinitivi italiani in -are ti consegnano un gruppo di rime; love e move inglesi spesso si rifiutano in bocca.
+- Perfect rhyme is a tighter budget in English, so poets stretch it with slant rhyme, assonance and consonance.
+  it: La rima perfetta in inglese è un budget più stretto, così i poeti la allungano con rima slant, assonanza e consonanza.
+- Blank verse is unrhymed iambic pentameter; much stage speech in Shakespeare and Milton's Paradise Lost sit in that tradition.
+  it: Il blank verse è pentametro giambico senza rima; molta parlata teatrale in Shakespeare e il Paradise Lost di Milton stanno in quella tradizione.
+- Dante's Comedy in terza rima shows how far interlocking rhyme can ride when endings cooperate.
+  it: La Commedia di Dante in terza rima mostra quanto lontano possa andare la rima intrecciata quando le desinenze collaborano.
+- If a translation adds neat Italian rhymes an English poem never earned, it has dressed the guest in a borrowed suit.
+  it: Se una traduzione aggiunge rime italiane ordinate che una poesia inglese non si era guadagnate, ha vestito l'ospite con un abito preso in prestito.
+
+ex2:
+- Slant rhyme keeps a family likeness, as in route and [boots] in November.
+  it: La rima slant tiene una somiglianza di famiglia, come route e boots in November.
+- [Assonance] repeats a vowel sound inside the line without needing an end-rhyme.
+  it: L'assonanza ripete un suono vocalico dentro il verso senza bisogno di una rima finale.
+- Blank verse is unrhymed iambic [pentameter].
+  it: Il blank verse è pentametro giambico senza rima.
+- Free verse often keeps sound-play without end-[rhyme].
+  it: Il free verse spesso tiene il gioco sonoro senza rima finale.
+- English does not rhyme little out of meanness; it rhymes little out of [inventory].
+  it: L'inglese non fa poche rime per meschinità; ne fa poche per inventario.
+
+tasks:
+- In Foscolo's sonnet "Alla sera" the ear meets Italian endings that chime almost by habit: the hendecasyllables carry stress inside a counted line, and the sonnet's rhymes sit ready in the morphology. In November the budget is spent differently. Full rhymes (grey / day) are earned; route / boots lean as slant; darker coat and copper-dull work mid-line so the end-rhyme need not do everything. I notice the Italian poem first as a wave of vowels at the line-ends; I notice November first as boots on a beat, then as a door that almost closes on plot. Neither is better; one language offers denser chimes, the other invoices stress and near-misses.
+  task.it: Confronta in inglese (100-130 parole) due poesie che conosci: una italiana e una inglese (va bene November della lezione 64). Dì dove ciascuna spende il budget sonoro; niente classifica di merito. Confronta col modello.
+  rubric.it: Si nominano due testi concreti; si parla di rima, assonanza o accento con esempi; il registro è da saggio chiaro, non da enciclopedia; l'inglese è naturale; non si «migliora» l'inglese con rime italiane inventate.
+
+== 66 C2
+numeral: Lesson Sixty-Six
+title: A ballad of the sea
+title.it: Una ballata del mare
+
+dialogue:
+- A folk ballad is a story that has learned to walk in stanzas: plain words, a tune you can hum, and a refrain that comes back like a tide.
+  it: Una folk ballad è una storia che ha imparato a camminare a strofe: parole piane, una melodia che puoi canticchiare, e un ritornello che torna come la marea.
+- Here is a new one, written in the manner of the old sea ballads.
+  it: Eccone una nuova, scritta alla maniera delle vecchie ballate di mare.
+- THE BALLAD OF NED AND THE MARY WREN
+  it: LA BALLATA DI NED E DELLA MARY WREN
+- Ned Hale stood out on Whitby quay with a kit-bag thin and a debt to pay;
+  it: Ned Hale stava sul molo di Whitby con una bisaccia magra e un debito da pagare;
+- the Mary Wren cast off at dawn and Ned stepped aboard and was gone, was gone.
+  it: la Mary Wren mollò gli ormeggi all'alba e Ned salì a bordo e se n'andò, se n'andò.
+- O the sea is wide and the sea is deep, and the ones who love you wake and weep; but a sailor's word is a rope that frays— O the sea takes what the sea pays.
+  it: O il mare è largo e il mare è fondo, e chi ti ama si sveglia e piange; ma la parola di un marinaio è una cima che sfilaccia— O il mare prende ciò che il mare paga.
+- They cleared the point with a following wind, and Whitby lights grew small behind;
+  it: Superarono il promontorio con vento a favore, e le luci di Whitby divennero piccole dietro;
+- the cook sang bass and the mate sang high of girls ashore and the reason why.
+  it: il cuoco cantava il basso e il secondo cantava acuto di ragazze a terra e del perché.
+- (Refrain: O the sea is wide... the sea pays.)
+  it: (Ritornello: O the sea is wide... the sea pays.)
+- Three nights out came a north-east blow; the Mary Wren rode high, then low;
+  it: Alla terza notte venne una burrasca da nord-est; la Mary Wren salì in alto, poi in basso;
+- a spar gave way with a sound like a gun and Ned was the first to run, to run.
+  it: un pennone cedette con un suono come di fucile e Ned fu il primo a correre, a correre.
+- (Refrain.)
+  it: (Ritornello.)
+- He ran for the boat and he cut her free while the mate still shouted, "Hold fast with me!"
+  it: Corse alla scialuppa e la liberò mentre il secondo ancora gridava: «Tieni duro con me!»
+- The Wren went down within sight of dawn; they found Ned's kit, but Ned was gone.
+  it: La Wren affondò in vista dell'alba; trovarono la bisaccia di Ned, ma Ned non c'era.
+- (Refrain.)
+  it: (Ritornello.)
+- On Whitby quay when the news came in his mother paid the last of his tin;
+  it: Sul molo di Whitby quando arrivò la notizia sua madre pagò l'ultimo del suo spicciolo;
+- she kept his letter that promised home and never believed the foam, the foam.
+  it: tenne la sua lettera che prometteva il ritorno e non credette mai alla spuma, alla spuma.
+- O the sea is wide and the sea is deep, and the ones who love you wake and weep; but a sailor's word is a rope that frays— O the sea takes what the sea pays.
+  it: O il mare è largo e il mare è fondo, e chi ti ama si sveglia e piange; ma la parola di un marinaio è una cima che sfilaccia— O il mare prende ciò che il mare paga.
+- Ballad form, in short: quatrains (here mostly AABB couplets paired), a story that moves in scenes, and a refrain that judges without a lecture.
+  it: Forma ballata, in breve: quartine (qui per lo più distici AABB accoppiati), una storia che avanza a scene, e un ritornello che giudica senza una lezione.
+- The doubling at the line-end (was gone, was gone; to run, to run; the foam, the foam) is an old oral trick: the ear gets a second knock, as if the tide had said it twice.
+  it: Il raddoppio in fine di verso (was gone, was gone; to run, to run; the foam, the foam) è un vecchio trucco orale: l'orecchio prende un secondo colpo, come se la marea l'avesse detto due volte.
+- Whitby is a real harbour on the Yorkshire coast; the Mary Wren and Ned Hale are invented for this piece.
+  it: Whitby è un porto reale sulla costa dello Yorkshire; la Mary Wren e Ned Hale sono inventati per questo pezzo.
+- The refrain's last line — the sea takes what the sea pays — sounds fair until you notice it is not: the sea keeps no ledger you can audit.
+  it: L'ultimo verso del ritornello — the sea takes what the sea pays — suona equo finché non noti che non lo è: il mare non tiene un registro che tu possa verificare.
+- That gap between the proverb's balance and Ned's cut rope is where the ballad's irony sits, quiet as a quay at dawn.
+  it: Quel divario tra l'equilibrio del proverbio e la cima tagliata da Ned è dove siede l'ironia della ballata, quieta come un molo all'alba.
+- Rhyme here is fuller than in November's slant pairs because the ballad tradition spends its scarce English matches on story-nails: quay / pay, deep / weep, frays / pays.
+  it: La rima qui è più piena delle coppie slant di November perché la tradizione della ballata spende le scarse corrispondenze inglesi su chiodi di trama: quay / pay, deep / weep, frays / pays.
+- Add a stanza of your own before the final refrain: keep the beat, keep the story moving, and do not explain the drowning in a footnote.
+  it: Aggiungi una strofa tua prima dell'ultimo ritornello: tieni il battito, fai avanzare la storia, e non spiegare l'affondamento in una nota a piè di pagina.
+
+notes.it:
+1. folk ballad... stanzas... refrain... tide: definizione operativa. manner of the old sea ballads: testo nuovo «alla maniera di». THE BALLAD OF NED AND THE MARY WREN: titolo da ballata.
+2. Ned Hale... Whitby quay... kit-bag... debt... Mary Wren... gone, was gone: scena 1 (partenza). Whitby: porto reale, Yorkshire. Kit-bag: bisaccia da marinaio. Doubling was gone, was gone: eco orale.
+3. Refrain intero la prima e l'ultima volta; (Refrain.) al centro: il testo risparmia ripetizioni ma l'orecchio deve reinserire i quattro versi. sea is wide... wake and weep... rope that frays... sea takes what the sea pays: frays = si sfilaccia (cima).
+4. cleared the point... following wind... cook... mate... girls ashore: scena 2. Mate = secondo (ufficiale), non «compagno» generico qui.
+5. north-east blow... rode high, then low... spar... first to run: scena 3 (tempesta e fuga). Blow: burrasca; rode high, then low: la nave sale e scende sulle onde. Spar / pennone: pezzo di alberatura. Run, to run: raddoppio + giudizio implicito.
+6. cut her free... Hold fast... Wren went down... kit... Ned was gone: scena 4. Hold fast = tieni duro. Kit trovato, Ned no: ellissi balladistica.
+7. news... mother... tin... letter... foam, the foam: scena 5. Tin = spicciolo; foam = spuma (e tomba del mare). never believed: rifiuto del lutto in una riga.
+8. quatrains... AABB... scenes... refrain that judges: tre pezzi della forma. Doubling... second knock: tecnica orale. Whitby real; Ned and Mary Wren invented. sea takes what the sea pays... no ledger: detto (equilibrio) / inteso (nessun equilibrio) / come si sa (Ned ha tagliato la cima).
+9. fuller rhyme than November's slant... story-nails: ponte lezione 64-65; la ballata «spende» rime piene dove la storia deve restare.
+10. Add a stanza... no footnote: criterio del compito. La strofa nuova deve avanzare la trama (un fatto), non commentare Ned; il ritornello dopo fa già da giudizio.
+
+ex1:
+- Ned Hale stood on Whitby quay with a thin kit-bag, stepped aboard the Mary Wren, and was gone.
+  it: Ned Hale stava sul molo di Whitby con una bisaccia magra, salì a bordo della Mary Wren, e se n'andò.
+- The refrain says the sea is wide and deep, and that the sea takes what the sea pays.
+  it: Il ritornello dice che il mare è largo e fondo, e che il mare prende ciò che il mare paga.
+- When the hard north-easter came and a spar gave way, Ned was the first to run.
+  it: Quando venne il duro vento di nord-est e un pennone cedette, Ned fu il primo a correre.
+- He cut the boat free while the mate shouted "Hold fast"; the Wren went down and they found only Ned's kit.
+  it: Liberò la scialuppa mentre il secondo gridava «Tieni duro»; la Wren affondò e trovarono solo la bisaccia di Ned.
+- His mother paid the last of his tin, kept the letter that promised home, and never believed the foam.
+  it: Sua madre pagò l'ultimo del suo spicciolo, tenne la lettera che prometteva il ritorno, e non credette mai alla spuma.
+
+ex2:
+- A folk ballad walks in stanzas with a [refrain] that returns like a tide.
+  it: Una folk ballad cammina a strofe con un ritornello che torna come la marea.
+- Ned stepped aboard and was [gone], was gone.
+  it: Ned salì a bordo e se n'andò, se n'andò.
+- But a sailor's word is a rope that [frays].
+  it: Ma la parola di un marinaio è una cima che sfilaccia.
+- The mate still shouted, "Hold [fast] with me!"
+  it: Il secondo ancora gridava: «Tieni duro con me!»
+- O the sea takes what the sea [pays].
+  it: O il mare prende ciò che il mare paga.
+
+tasks:
+- Before the last refrain, one more quatrain: The coastguard searched till the light grew thin / and wrote one name that would not come in; / the Wren's bell washed to a stranger's door— / it rang of Whitby, and nothing more. Then the refrain again, unpaid as ever.
+  task.it: Aggiungi una strofa (quartina) in inglese alla ballata, nello stesso metro approssimativo e tono di storia orale, prima di un ritornello. Fai avanzare la trama senza spiegare la morale. Confronta col modello.
+  rubric.it: È una quartina che racconta un fatto nuovo; il ritmo si può canticchiare; il lessico resta piano da ballata; l'inglese è naturale; non è un saggio sul coraggio in costume di strofa.
+
+== 67 C2
+numeral: Lesson Sixty-Seven
+title: Alliteration in advertising
+title.it: L'allitterazione nella pubblicità
+
+dialogue:
+- Advertising has a short lease on your attention, so it often pays the rent in sound: a slogan you can say twice without looking at the page.
+  it: La pubblicità ha un contratto breve sulla tua attenzione, così spesso paga l'affitto in suono: uno slogan che puoi dire due volte senza guardare la pagina.
+- Alliteration — the repeat of an initial consonant sound — is the cheapest hook that still feels like craft: Better biscuits begin before breakfast is nonsense as nutrition and sticky as gum as phonetics.
+  it: L'allitterazione — la ripetizione di un suono consonantico iniziale — è l'uncino più economico che sembra ancora mestiere: Better biscuits begin before breakfast è nonsenso come nutrizione e appiccicoso come chewing-gum come fonetica.
+- That line is invented, as are the others below; we need examples, not a raid on living campaigns.
+  it: Quella riga è inventata, come le altre sotto; servono esempi, non un raid su campagne viventi.
+- Assonance — repeated vowel colour — works more quietly: cool blue shoes for noon queues leans on the /uː/ and leaves the meaning to catch up.
+  it: L'assonanza — colore vocalico ripetuto — lavora più in quiete: cool blue shoes for noon queues poggia sulla /uː/ e lascia che il senso si rimetta in pari.
+- Headlines love the same tools because a headline is a slogan that has put on a tie: Ministers mull milk measures; Ferry fares face fresh freeze.
+  it: I titoli amano gli stessi attrezzi perché un titolo è uno slogan che ha messo la cravatta: Ministers mull milk measures; Ferry fares face fresh freeze.
+- Both are fake headlines for invented stories; the pattern is real: consonants march, vowels echo, and the reader feels informed before the facts arrive.
+  it: Entrambi sono titoli finti per storie inventate; lo schema è reale: le consonanti marciano, le vocali echeggiano, e il lettore si sente informato prima che arrivino i fatti.
+- Why does it work? Partly memory: the mouth rehearses the line and the ear files it under easy.
+  it: Perché funziona? In parte per la memoria: la bocca prova la riga e l'orecchio l'archivia sotto facile.
+- Partly pleasure: English, short on free rhymes, still has surplus initial consonants to spend in pairs and packs.
+  it: In parte per il piacere: l'inglese, scarso di rime gratis, ha ancora consonanti iniziali in surplus da spendere a coppie e a pacchi.
+- Partly suspicion delayed: a neat sound can smuggle a weak claim past the guard who would stop a plain sentence.
+  it: In parte per il sospetto ritardato: un suono ordinato può far passare di contrabbando un'affermazione debole oltre la guardia che fermerebbe una frase piana.
+- Watch the difference. Plain: Our tea is strong and not expensive.
+  it: Guarda la differenza. Piano: Our tea is strong and not expensive.
+- Sound-led, with an invented brand: Northkettle Tea: stout, steady, thrifty steep.
+  it: Guidato dal suono, con un marchio inventato: Northkettle Tea: stout, steady, thrifty steep.
+- Stout, steady, thrifty steep packs three stresses and a braid of /st/ and /θ/; thrifty steep is almost a tongue-twister and therefore hard to forget, which is the point and the danger.
+  it: Stout, steady, thrifty steep impacca tre accenti e una treccia di /st/ e /θ/; thrifty steep è quasi uno scioglilingua e quindi difficile da dimenticare, che è il punto e il pericolo.
+- Soft sell uses softer consonants: Featherlight flats for fleeting weekends — /f/ as foam, not as a fist.
+  it: Il soft sell usa consonanti più soft: Featherlight flats for fleeting weekends — /f/ come schiuma, non come pugno.
+- Hard sell hits harder: Buy big. Buy bold. Buy before bedtime. The /b/ is a drum; the imperative is the stick.
+  it: L'hard sell colpisce più duro: Buy big. Buy bold. Buy before bedtime. La /b/ è un tamburo; l'imperativo è la bacchetta.
+- Assonance without alliteration can still sell a mood: Late trains, same grey — the /eɪ/ of late and grey paints November without naming the month.
+  it: L'assonanza senza allitterazione può ancora vendere un umore: Late trains, same grey — la /eɪ/ di late e grey dipinge November senza nominare il mese.
+- That echo from earlier in the week is deliberate: advertising steals poetry's tools and denies the theft by smiling.
+  it: Quell'eco da prima in settimana è voluta: la pubblicità ruba gli attrezzi della poesia e nega il furto sorridendo.
+- A ballad refrain returns because the story needs a verdict; a slogan returns because the product needs a pocket in your head.
+  it: Un ritornello di ballata torna perché la storia serve un verdetto; uno slogan torna perché il prodotto serve una tasca nella tua testa.
+- The ethical question is not whether sound is allowed — speech has always used it — but whether the sound is doing work the claim cannot.
+  it: La domanda etica non è se il suono sia permesso — il parlato l'ha sempre usato — ma se il suono stia facendo un lavoro che l'affermazione non può fare.
+- If stout, steady, thrifty steep describes a tea that is weak, unsteady and dear, you have written a jingle for a fib.
+  it: Se stout, steady, thrifty steep descrive un tè debole, instabile e caro, hai scritto un jingle per una bugia.
+- If it fits the fact, you have only done what November did with darker coat: made the ear help the sense home.
+  it: Se calza al fatto, hai soltanto fatto ciò che November fece con darker coat: far sì che l'orecchio aiuti il senso a casa.
+- Headline writers call the densest pattern headlinese when grammar shrinks and sound grows; we meet that craft properly in another week.
+  it: I titolisti chiamano headlinese lo schema più denso quando la grammatica si restringe e il suono cresce; incontriamo quel mestiere per bene in un'altra settimana.
+- For now, practise the ear: three slogans, invented products, sound that serves a claim you could also say in a plain sentence.
+  it: Per ora, esercita l'orecchio: tre slogan, prodotti inventati, suono che serve un'affermazione che potresti dire anche in una frase piana.
+- Then strip each slogan to the plain sentence and ask whether anything true fell off with the consonants.
+  it: Poi spoglia ogni slogan fino alla frase piana e chiediti se qualcosa di vero è caduto insieme alle consonanti.
+- If the truth survived, keep the sound. If only the sound survived, you have written advertising that poetry would refuse to house.
+  it: Se la verità è sopravvissuta, tieni il suono. Se è sopravvissuto solo il suono, hai scritto pubblicità che la poesia rifiuterebbe di ospitare.
+- Northkettle Tea, Featherlight flats, and a ferry fare freeze: say them aloud, then say what they actually promised.
+  it: Northkettle Tea, Featherlight flats, e un blocco delle tariffe del traghetto: dilli ad alta voce, poi dì che cosa hanno davvero promesso.
+- The mouth should enjoy them. The mind should still be able to sue.
+  it: La bocca dovrebbe goderseli. La mente dovrebbe ancora poter fare causa.
+
+notes.it:
+1. short lease... pays the rent in sound: metafora commerciale sul tempo dell'attenzione. slogan you can say twice: criterio pratico di memorabilità.
+2. Alliteration... initial consonant sound: definizione. Better biscuits begin before breakfast: esempio inventato (niente campagne reali). sticky as gum as phonetics: il nonsense nutrizionale resta utile come prova di bocca.
+3. Assonance... vowel colour... cool blue shoes for noon queues: /uː/ ripetuta; esempio inventato. Headlines... put on a tie: titolo come slogan formale.
+4. Ministers mull milk measures; Ferry fares face fresh freeze: titoli finti; mull = rimuginare/considerare. consonants march... informed before the facts: effetto del pattern, non verità garantita. Ponte leggero allo headlinese (lezione 73, più avanti).
+5. memory... ear files under easy; surplus initial consonants: ponte lezione 65 (inglese scarso di rime, ricco di attacchi). suspicion delayed... weak claim past the guard: ciò che il suono può fare oltre il senso.
+6. Plain: Our tea is strong... vs Northkettle Tea invented: contrasto pedagogico. stout, steady, thrifty steep: /st/ e /θ/; thrifty = economico; steep = fare l'infusione (e prezzo «ripido», ambiguità lieve).
+7. Soft sell... Featherlight flats... /f/ as foam; Hard sell... Buy big... /b/ as drum: registro della vendita detto tramite consonanti. Imperative = la bacchetta.
+8. Late trains, same grey... /eɪ/... November: assonanza e ponte lezione 64. advertising steals poetry's tools... smiling: tesi ironica della lezione.
+9. ballad refrain... verdict vs slogan... pocket: contrasto lezione 66. ethical question... sound doing work the claim cannot: nucleo. jingle for a fib vs darker coat helping sense home: due usi (lezione 64).
+10. headlinese... another week: non rubare la lezione 73. three slogans... plain sentence... anything true fell off: criterio del compito. mouth should enjoy... mind should still be able to sue: chiusura comica e seria.
+
+ex1:
+- Alliteration repeats an initial consonant sound; Better biscuits begin before breakfast is an invented sticky example.
+  it: L'allitterazione ripete un suono consonantico iniziale; Better biscuits begin before breakfast è un esempio inventato e appiccicoso.
+- Assonance repeats vowel colour, as in cool blue shoes for noon queues.
+  it: L'assonanza ripete un colore vocalico, come in cool blue shoes for noon queues.
+- Northkettle Tea's line stout, steady, thrifty steep braids /st/ and /θ/ into a hard-to-forget steep.
+  it: La riga di Northkettle Tea stout, steady, thrifty steep intreccia /st/ e /θ/ in uno steep difficile da dimenticare.
+- Soft sell may use /f/ in Featherlight flats for fleeting weekends; hard sell may drum /b/ in Buy big, buy bold.
+  it: Il soft sell può usare la /f/ in Featherlight flats for fleeting weekends; l'hard sell può battere la /b/ in Buy big, buy bold.
+- If the sound smuggles a weak claim, you have written a jingle for a fib; if it fits the fact, the ear only helps the sense home.
+  it: Se il suono fa passare di contrabbando un'affermazione debole, hai scritto un jingle per una bugia; se calza al fatto, l'orecchio aiuta soltanto il senso a casa.
+
+ex2:
+- [Alliteration] repeats an initial consonant sound in a slogan or headline.
+  it: L'allitterazione ripete un suono consonantico iniziale in uno slogan o in un titolo.
+- [Assonance] repeats a vowel colour, as in late trains, same grey.
+  it: L'assonanza ripete un colore vocalico, come in late trains, same grey.
+- Northkettle Tea: stout, steady, thrifty [steep].
+  it: Northkettle Tea: stout, steady, thrifty steep.
+- Featherlight flats for [fleeting] weekends.
+  it: Featherlight flats for fleeting weekends.
+- Buy big. Buy [bold]. Buy before bedtime.
+  it: Buy big. Buy bold. Buy before bedtime.
+
+tasks:
+- 1. Riverlane Loaf: crust that crackles, crumb that comforts. 2. Glassforge Lenses: clear as conscience, light as lunch. 3. Harbourfold Umbrellas: stay steady in a slant of rain. Each claim can stand as a plain sentence; the consonants only carry it faster.
+  task.it: Scrivi tre slogan in inglese per prodotti inventati. Usa allitterazione e/o assonanza; ogni slogan deve restare vero se lo riscrivi in frase piana. Confronta col modello.
+  rubric.it: Tre slogan distinti; si sente il suono ripetuto a voce alta; i prodotti sono inventati (niente marchi reali); l'inglese è naturale; il senso regge anche senza il gioco sonoro.
+
+== 68 C2
+numeral: Lesson Sixty-Eight
+title: The commuter
+title.it: Il pendolare
+
+dialogue:
+- Free verse is verse that has handed back the rhyme dictionary and most of the metre contract, yet still asks to be heard as lines, not as a paragraph that got cold feet.
+  it: Il free verse è verso che ha restituito il rimario e gran parte del contratto metrico, eppure chiede ancora di essere udito come versi, non come un paragrafo che ha avuto i piedi freddi.
+- What remains is line-break, stress where speech puts it, and sound-play that does not need to punch the ticket at every ending.
+  it: Ciò che resta è l'a capo, l'accento dove il parlato lo mette, e un gioco sonoro che non deve timbrare il biglietto a ogni fine.
+- THE COMMUTER
+  it: IL PENDOLARE
+- The 7:42 does not begin.
+  it: Il 7:42 non comincia.
+- It continues —
+  it: Continua —
+- from last night's argument still open on the table,
+  it: dalla lite di ieri sera ancora aperta sul tavolo,
+- from the kettle's click you almost heard,
+  it: dal click del bollitore che hai quasi sentito,
+- from the pavement shining like a debt.
+  it: dal marciapiede che luccica come un debito.
+- Doors. A sigh of air. Someone's elbow
+  it: Porte. Un sospiro d'aria. Il gomito di qualcuno
+- learns your name without asking.
+  it: impara il tuo nome senza chiedere.
+- You stand where the poster peels —
+  it: Stai dove il manifesto si stacca —
+- stout tea, steady claims, a smile that has paid for itself —
+  it: tè corposo, affermazioni salde, un sorriso che si è pagato da solo —
+- and watch November do its thin-light work
+  it: e guardi November fare il suo lavoro di luce magra
+- on the backs of houses that never board.
+  it: sul retro delle case che non salgono mai a bordo.
+- At Clapham the carriage takes a breath.
+  it: A Clapham il vagone tira fiato.
+- A child counts tunnels on her fingers
+  it: Una bambina conta le gallerie sulle dita
+- and loses one to sleep.
+  it: e ne perde una a favore del sonno.
+- You think of Whitby only because a scarf
+  it: Pensi a Whitby solo perché una sciarpa
+- is the colour of old harbour paint,
+  it: è del colore della vecchia vernice del porto,
+- and because the sea, in ballads, always collects.
+  it: e perché il mare, nelle ballate, riscuote sempre.
+- Your stop is not a destination.
+  it: La tua fermata non è una destinazione.
+- It is a hinge.
+  it: È una cerniera.
+- You step into air that smells of rain and warm bread
+  it: Scendi in un'aria che odora di pioggia e pane caldo
+- and do not say "It's only weather,"
+  it: e non dici «È solo il tempo»,
+- because today the boots are clean
+  it: perché oggi gli stivali sono puliti
+- and the plot of the morning is still unwritten.
+  it: e la trama del mattino è ancora da scrivere.
+- Why call this verse? Because the breaks do work a sentence cannot: It continues — holds you over the drop; It is a hinge. stops the foot on metal.
+  it: Perché chiamarlo verso? Perché gli a capo fanno un lavoro che una frase non può: It continues — ti tiene sul vuoto; It is a hinge. ferma il piede sul metallo.
+- There is no ABAB to cash at the end; there is assonance in rain and plain speech, alliteration in pavement and peels, and the ghost of an iamb when You stand where the poster peels.
+  it: Non c'è un ABAB da incassare in fondo; c'è assonanza in rain e plain, allitterazione in pavement e peels, e il fantasma di un giambo in You stand where the poster peels.
+- The advertising smile on the poster is the week's soft theft returned as scenery; Whitby is a colour, not a second shipwreck.
+  it: Il sorriso pubblicitario sul manifesto è il furto soft della settimana restituito come scenografia; Whitby è un colore, non un secondo naufragio.
+- Free verse fails when it is only chopped prose: if you can remove every break and lose nothing but white space, you have not written lines.
+  it: Il free verse fallisce quando è solo prosa a pezzi: se puoi togliere ogni a capo e non perdere niente tranne lo spazio bianco, non hai scritto versi.
+- It succeeds when the break is a choice you can defend with your ear: a pause, a weight, a turn.
+  it: Riesce quando l'a capo è una scelta che puoi difendere con l'orecchio: una pausa, un peso, una svolta.
+- Write a short free-verse poem about a journey — bus, train, walk, bike — and let at least two breaks do audible work.
+  it: Scrivi una breve poesia in free verse su un viaggio — autobus, treno, a piedi, bici — e lascia che almeno due a capo facciano un lavoro udibile.
+- Then read it aloud without looking at the page; if you put the breaks back in the same places, the ear has agreed.
+  it: Poi leggila ad alta voce senza guardare la pagina; se rimetti gli a capo negli stessi posti, l'orecchio ha accettato.
+- If you do not, trust the second map, not the first pride.
+  it: Se non lo fai, fidati della seconda mappa, non del primo orgoglio.
+- The 7:42 will leave either way.
+  it: Il 7:42 partirà in ogni caso.
+
+notes.it:
+1. Free verse... handed back the rhyme dictionary... cold feet: definizione per contrasto col pentametro (64) e la ballata (66). lines, not a paragraph: criterio.
+2. line-break, stress where speech puts it... punch the ticket: ciò che resta; il suono non deve «convalidare» ogni fine di verso come una rima obbligatoria (ponte lezione 65).
+3. THE COMMUTER... 7:42 does not begin. It continues —: apertura; l'a capo dopo continues tiene sospesi. argument... kettle's click... pavement... debt: eco domestica di November (kettle, pavement) senza copiare i versi.
+4. Doors... elbow learns your name: densità da treno nelle ore di punta. poster peels... stout tea, steady claims: eco degli slogan Northkettle (lezione 67) come manifesto scrostato.
+5. November... thin-light work... houses that never board: ponte lezione 64 (thinner light); le case restano a terra. Clapham: fermata reale della rete londinese.
+6. child counts tunnels... loses one to sleep: dettaglio sensibile, non sentimentalismo. Whitby... scarf... harbour paint... sea... ballads... collects: ponte lezione 66 senza rifare il naufragio; collects = riscuote.
+7. stop... not a destination... hinge: tesi del pezzo. rain and warm bread: senso concreto. do not say "It's only weather"... boots... plot... unwritten: eco del distico di November (lezione 64); qui il pendolare rifiuta la formula.
+8. Why call this verse... breaks do work: It continues — / It is a hinge. come esempi. no ABAB... rain / plain... pavement / peels... ghost of an iamb: free verse non è assenza di suono (lezione 65).
+9. advertising smile... soft theft returned as scenery; Whitby is a colour: i prestiti della settimana restano sfondo, non trama nuova.
+10. chopped prose... remove every break: test negativo. pause, weight, turn: test positivo. journey... ear agrees... 7:42 will leave: criterio del compito e chiusura secca.
+
+ex1:
+- Free verse hands back most of the metre contract yet still asks to be heard as lines, not as a nervous paragraph.
+  it: Il free verse restituisce gran parte del contratto metrico eppure chiede ancora di essere udito come versi, non come un paragrafo nervoso.
+- The 7:42 does not begin; it continues from last night's argument and a pavement shining like a debt.
+  it: Il 7:42 non comincia; continua dalla lite di ieri sera e da un marciapiede che luccica come un debito.
+- On the peeling poster, stout tea and steady claims smile; November does its thin-light work on houses that never board.
+  it: Sul manifesto che si stacca, tè corposo e affermazioni salde sorridono; November fa il suo lavoro di luce magra sulle case che non salgono a bordo.
+- Whitby arrives only as the colour of a scarf and as the thought that the sea, in ballads, always collects.
+  it: Whitby arriva solo come colore di una sciarpa e come pensiero che il mare, nelle ballate, riscuote sempre.
+- A stop can be a hinge; free verse fails when it is only chopped prose whose breaks you could remove without loss.
+  it: Una fermata può essere una cerniera; il free verse fallisce quando è solo prosa a pezzi i cui a capo potresti togliere senza perdita.
+
+ex2:
+- Free verse still asks to be heard as [lines], not as a paragraph.
+  it: Il free verse chiede ancora di essere udito come versi, non come un paragrafo.
+- The 7:42 does not begin. It [continues] —
+  it: Il 7:42 non comincia. Continua —
+- You stand where the poster [peels].
+  it: Stai dove il manifesto si stacca.
+- Your stop is not a destination. It is a [hinge].
+  it: La tua fermata non è una destinazione. È una cerniera.
+- If you can remove every break and lose nothing but white space, you have written chopped [prose].
+  it: Se puoi togliere ogni a capo e non perdere niente tranne lo spazio bianco, hai scritto prosa a pezzi.
+
+tasks:
+- Bus 43, rain on the upper deck. / The window holds a version of your face / you do not owe anyone. / At the lights the engine / thinks twice — / then the whole street / slides forward / like a sentence that has found its verb.
+  task.it: Scrivi una breve poesia in free verse inglese (8-14 versi corti) su un viaggio. Almeno due a capo devono fare un lavoro udibile (pausa, peso, svolta). Niente schema di rima obbligato. Confronta col modello.
+  rubric.it: Si sentono versi, non un paragrafo a pezzi; almeno due a capo difendibili a orecchio; lessico naturale; tema di viaggio; non è una copia de The Commuter.
+
+== 69 C2
+numeral: Lesson Sixty-Nine
+title: Poetry hour
+title.it: L'ora di poesia
+
+dialogue:
+- You're listening to Poetry Hour on River Radio, and I'm Clare Fenwick.
+  it: Ascoltate Poetry Hour su River Radio, e io sono Clare Fenwick.
+- Tonight we have eight minutes, a kettle somewhere in the studio that I am not allowed to boil on air, and one short poem that earns its keep in stress and rhyme.
+  it: Stasera abbiamo otto minuti, un bollitore da qualche parte in studio che non mi è permesso far bollire in onda, e una breve poesia che si guadagna da vivere in accenti e rima.
+- The poem is called November, and it was written for this course's week on sound.
+  it: La poesia si intitola November, ed è stata scritta per la settimana sul suono di questo corso.
+- I will read it once straight, then walk through what the ear is doing, then leave you with one question you can answer while the ads for stout tea try to alliterate at you.
+  it: La leggerò una volta di fila, poi passerò in rassegna ciò che fa l'orecchio, poi vi lascerò una domanda a cui rispondere mentre le pubblicità del tè corposo cercano di farvi allitterazione.
+- Here is November.
+  it: Ecco November.
+- The year puts on its darker coat of grey and walks the pavement in a thinner light.
+  it: L'anno indossa il suo cappotto più scuro di grigio e cammina sul marciapiede in una luce più magra.
+- The leaves that bargained gold for one last day now settle, copper-dull, against the night.
+  it: Le foglie che avevano trattato l'oro per un ultimo giorno ora si posano, opache di rame, contro la notte.
+- The rain writes letters on the windowpane in scripts no post will ever take away; the kettle starts its patient soft refrain and draws the afternoon to cups of grey.
+  it: La pioggia scrive lettere sul vetro in scritture che nessuna posta porterà mai via; il bollitore comincia il suo ritornello paziente e soft e richiama il pomeriggio a tazze di grigio.
+- We stay indoors as if the street had lied, as if the late bus still might find its route; yet somewhere under fog a door swings wide and someone stamps November from their boots—
+  it: Restiamo in casa come se la strada avesse mentito, come se l'autobus in ritardo potesse ancora trovare il suo percorso; eppure da qualche parte sotto la nebbia una porta si apre larga e qualcuno si scuote novembre dagli stivali—
+- then says, "It's only weather," which is true, and not: the month that teaches English how to plot.
+  it: poi dice: «È solo il tempo», il che è vero, e no: il mese che insegna all'inglese come si trama.
+- That was the whole of it. If you were tapping the table, you were in iambic country: light then stress, five landings a line when the line is behaving.
+  it: Era tutto. Se battevi il tavolo, eri in paese giambico: leggero poi accento, cinque atterraggi a verso quando il verso si comporta.
+- The rhyme scheme is the English-sonnet cousin we named earlier: ABAB CDCD EFEF GG — three quatrains and a couplet that turns the key.
+  it: Lo schema di rima è il cugino del sonetto inglese che abbiamo nominato prima: ABAB CDCD EFEF GG — tre quartine e un distico che gira la chiave.
+- Listen again only to the endings: grey, light, day, night — then pane, away, refrain, grey — then lied, route, wide, boots — then not, plot.
+  it: Riascolta solo le uscite: grey, light, day, night — poi pane, away, refrain, grey — poi lied, route, wide, boots — poi not, plot.
+- Route and boots are the slant pair: close enough for the pattern, not a perfect chime, which is how English often budgets rhyme.
+  it: Route e boots sono la coppia slant: abbastanza vicine per lo schema, non un accordo perfetto, che è come l'inglese spesso bilancia la rima.
+- Inside the lines, darker coat and copper-dull do alliterative work; cups of grey spends the vowel colour without asking the end-rhyme to carry every bag.
+  it: Dentro i versi, darker coat e copper-dull fanno lavoro allitterativo; cups of grey spende il colore vocalico senza chiedere alla rima finale di portare ogni borsa.
+- The couplet is where radio presenters get nervous, because it looks like a punchline and it is also a thesis: weather, and not; plot as story and as verse design.
+  it: Il distico è dove i presentatori radiofonici diventano nervosi, perché sembra una battuta ed è anche una tesi: weather, and not; plot come trama e come disegno del verso.
+- How do you talk about a poem on air without murdering it?
+  it: Come si parla di una poesia in onda senza ammazzarla?
+- Name what you heard before you name what you felt. Stress. Rhyme. A turn. Then, if you must, the feeling.
+  it: Nomina ciò che hai udito prima di nominare ciò che hai sentito. Accento. Rima. Una svolta. Poi, se proprio devi, il sentimento.
+- Avoid the two traps: the encyclopedia voice that never loved a line, and the sigh that never checked a beat.
+  it: Evita le due trappole: la voce da enciclopedia che non ha mai amato un verso, e il sospiro che non ha mai controllato un battito.
+- A ballad would have asked for a refrain and a quay; free verse would have asked you to defend the breaks; a slogan would have sold you the kettle.
+  it: Una ballata avrebbe chiesto un ritornello e un molo; il free verse ti avrebbe chiesto di difendere gli a capo; uno slogan ti avrebbe venduto il bollitore.
+- Tonight we stayed with metre that still signs a contract, and with a month that refuses to be only meteorology.
+  it: Stasera siamo restati con un metro che firma ancora un contratto, e con un mese che rifiuta di essere sola meteorologia.
+- Next week on Poetry Hour — no, next in your course — a poetry evening that puts these tools in one room: November, a sea ballad, a free-verse commute, and the ear between them.
+  it: La prossima settimana a Poetry Hour — no, la prossima nel vostro corso — una serata di poesia che mette questi attrezzi in una stanza: November, una ballata di mare, un pendolarismo in free verse, e l'orecchio in mezzo.
+- My one-minute challenge for you: present any short poem you know, in English, timed to sixty seconds, as if a red light were on.
+  it: La mia sfida da un minuto per voi: presentate una qualsiasi breve poesia che conoscete, in inglese, cronometrata a sessanta secondi, come se ci fosse la luce rossa.
+- Fifteen seconds to say what it is and why this poem; thirty to read or quote enough; fifteen to name one sound-choice and stop.
+  it: Quindici secondi per dire che cos'è e perché questa poesia; trenta per leggere o citare abbastanza; quindici per nominare una scelta di suono e fermarvi.
+- Do not apologise for liking it. Do not explain the rhyme as if the listener were a child. Let the last stress be the off switch.
+  it: Non scusatevi di amarla. Non spiegate la rima come se l'ascoltatore fosse un bambino. Lasciate che l'ultimo accento sia l'interruttore.
+- Clare Fenwick, Poetry Hour, River Radio — and yes, I am putting the kettle on now that we are clear.
+  it: Clare Fenwick, Poetry Hour, River Radio — e sì, sto mettendo su il bollitore ora che siamo fuori onda.
+- It's only tea. Which is true, and not.
+  it: È solo tè. Il che è vero, e no.
+
+notes.it:
+1. Poetry Hour... River Radio... Clare Fenwick: cornice radiofonica inventata; presentatrice fissa per la revisione. eight minutes... kettle... not allowed to boil on air: tono da studio, eco del bollitore di November.
+2. November... original to this course's week: dichiarazione di provenienza (lezione 64). ads for stout tea... alliterate: ponte lezione 67, comico.
+3. Lettura di November: le citazioni riprendono il testo della 64 (darker coat... plot). In radio si possono unire versi in blocchi più lunghi; il senso resta quello del poema.
+4. tapping... iambic country... five landings: ripresa della lezione 64 sul pentametro giambico.
+5. ABAB CDCD EFEF GG... turns the key: schema già nominato in lezione 64; distico come chiave. endings listed... route/boots slant... budgets rhyme: ponte lezioni 64-65.
+6. darker coat... copper-dull... cups of grey: suono interno, stessi esempi della 64. couplet... punchline and thesis... weather, and not... plot: giro finale senza spoiler da enciclopedia.
+7. How do you talk... without murdering it? Name what you heard before... felt: metodo da microfono. encyclopedia voice / sigh: due trappole opposte.
+8. ballad... quay; free verse... breaks; slogan... kettle: mappa della settimana in una riga (66, 68, 67). metre that still signs a contract: contrasto col free verse.
+9. poetry evening... next in your course: ponte alla lezione 70 (stessi pezzi in una stanza).
+10. one-minute challenge... fifteen / thirty / fifteen: struttura del compito. Do not apologise... last stress... off switch: criterio di chiusura. It's only tea... true, and not: eco del distico, tè al posto di weather.
+
+ex1:
+- Clare Fenwick on Poetry Hour reads November, an original poem of stress and rhyme from this week's course.
+  it: Clare Fenwick a Poetry Hour legge November, una poesia originale di accenti e rima di questa settimana del corso.
+- She asks listeners to hear iambic landings and the scheme ABAB CDCD EFEF GG, with route and boots as a slant pair.
+  it: Chiede agli ascoltatori di udire gli atterraggi giambici e lo schema ABAB CDCD EFEF GG, con route e boots come coppia slant.
+- Inside the lines, darker coat and copper-dull alliterate; the couplet turns on weather, and not, and on plot.
+  it: Dentro i versi, darker coat e copper-dull allitterano; il distico gira su weather, and not, e su plot.
+- Talking about poetry on air means naming what you heard before what you felt, and avoiding both the encyclopedia and the empty sigh.
+  it: Parlare di poesia in onda significa nominare ciò che hai udito prima di ciò che hai sentito, ed evitare sia l'enciclopedia sia il sospiro vuoto.
+- Her one-minute challenge splits into fifteen seconds of frame, thirty of voice on the poem, and fifteen to name one sound-choice and stop.
+  it: La sua sfida da un minuto si divide in quindici secondi di cornice, trenta di voce sulla poesia, e quindici per nominare una scelta di suono e fermarsi.
+
+ex2:
+- You're listening to Poetry [Hour] on River Radio.
+  it: Ascoltate l'Ora di poesia su Radio Fiume.
+- If you were tapping the table, you were in [iambic] country.
+  it: Se battevi il tavolo, eri in paese giambico.
+- Route and boots are the [slant] pair.
+  it: Route e boots sono la coppia di quasi-rima.
+- Name what you [heard] before you name what you felt.
+  it: Nomina ciò che hai udito prima di nominare ciò che hai sentito.
+- Let the last stress be the off [switch].
+  it: Lascia che l'ultimo accento sia l'interruttore.
+
+tasks:
+- This is Clare Fenwick with sixty seconds on November. It is a short original poem in iambic pentameter: three quatrains and a couplet, grey light day night on the board, then a slant on route and boots. Listen for the turn — it's only weather, which is true, and not. The sound-choice I keep is plot: story and verse design in one final stress. No encyclopedia, no sigh. That's the off switch.
+  task.it: Presenta in inglese una breve poesia (va bene November o un'altra che conosci) in circa un minuto: cornice, voce sul testo, una scelta di suono, e stop. Niente scuse e niente enciclopedia. Confronta col modello.
+  rubric.it: C'è una cornice chiara; si sente almeno un pezzo del testo o una citazione netta; si nomina una scelta di suono (metro, rima, a capo, allitterazione); la chiusura è secca; l'inglese è naturale da microfono.
+
+== 70 C2
+kind: revision
+numeral: Lesson Seventy
+title: Revision
+title.it: Ripasso
+
+dialogue:
+- Public library, Thursday evening, free chairs and a jug of water. Clare Fenwick from River Radio opens a folder marked Poetry Evening: Sound and Verse.
+  it: Biblioteca pubblica, giovedì sera, sedie gratis e una caraffa d'acqua. Clare Fenwick di River Radio apre una cartella segnata Poetry Evening: Sound and Verse.
+  refs: 69
+- "We start with metre," she says, "because boots need a floor." She reads the first quatrain of November: darker coat of grey, thinner light, leaves that bargained gold, copper-dull against the night.
+  it: «Partiamo dal metro», dice, «perché agli stivali serve un pavimento.» Legge la prima quartina di November: cappotto più scuro di grigio, luce più magra, foglie che avevano trattato l'oro, opache di rame contro la notte.
+  refs: 64 69
+- A listener taps five landings on the chair-arm and nods: iambic pentameter, da-DUM to the end of the grey.
+  it: Un ascoltatore batte cinque atterraggi sul bracciolo e annuisce: pentametro giambico, da-DUM fino alla fine del grey.
+  refs: 64
+- Clare lists the endings on a whiteboard: grey light day night; pane away refrain grey; lied route wide boots; not plot.
+  it: Clare elenca le uscite su una lavagna: grey light day night; pane away refrain grey; lied route wide boots; not plot.
+  refs: 64
+- "Route and boots," someone says, "are not a perfect chime." Clare smiles: "Slant rhyme. English often budgets that way."
+  it: «Route e boots», dice qualcuno, «non sono un accordo perfetto.» Clare sorride: «Rima slant. L'inglese spesso bilancia così.»
+  refs: 64 65
+- She sketches the week's argument in one sentence: Italian endings hand out rhymes; English spends perfect matches carefully and invents slant, assonance, blank verse, and refusal.
+  it: Schizza l'argomento della settimana in una frase: le desinenze italiane regalano rime; l'inglese spende con cura le corrispondenze perfette e inventa slant, assonanza, blank verse e rifiuto.
+  refs: 65
+- Love and move look related on the page and often refuse each other in the mouth; Paradise Lost keeps grandeur without a rhyme tax at every exit.
+  it: Love e move sembrano parenti sulla pagina e spesso si rifiutano in bocca; Paradise Lost tiene la grandiosità senza una tassa di rima a ogni uscita.
+  refs: 65
+- Next, a guitar case opens. A volunteer sings The Ballad of Ned and the Mary Wren: Whitby quay, kit-bag, debt, cast off at dawn, gone was gone.
+  it: Poi si apre una custodia di chitarra. Un volontario canta The Ballad of Ned and the Mary Wren: molo di Whitby, bisaccia, debito, ormeggi mollati all'alba, gone was gone.
+  refs: 66
+- The refrain comes back like a tide: sea wide and deep, wake and weep, rope that frays, the sea takes what the sea pays.
+  it: Il ritornello torna come la marea: mare largo e fondo, chi ti ama si sveglia e piange, cima che sfilaccia, il mare prende ciò che il mare paga.
+  refs: 66
+- When Ned cuts the boat free and the mate shouts Hold fast, a boy in the second row mouths the doubling: to run, to run.
+  it: Quando Ned libera la scialuppa e il secondo grida Hold fast, un ragazzo in seconda fila fa il labiale del raddoppio: to run, to run.
+  refs: 66
+- Clare does not moralise. She only notes the gap: the refrain sounds fair; Ned's rope does not keep a ledger.
+  it: Clare non fa la morale. Nota soltanto il divario: il ritornello suona equo; la cima di Ned non tiene un registro.
+  refs: 66
+- Interval: somebody has pinned three invented slogans by the tea urn — Northkettle Tea: stout, steady, thrifty steep; Featherlight flats for fleeting weekends; Buy big. Buy bold. Buy before bedtime.
+  it: Intervallo: qualcuno ha appuntato tre slogan inventati vicino all'urna del tè — Northkettle Tea: stout, steady, thrifty steep; Featherlight flats for fleeting weekends; Buy big. Buy bold. Buy before bedtime.
+  refs: 67
+- "Alliteration pays the rent on attention," Clare says. "Ask whether the claim still stands when you strip the consonants."
+  it: «L'allitterazione paga l'affitto sull'attenzione», dice Clare. «Chiediti se l'affermazione regge ancora quando spogli le consonanti.»
+  refs: 67
+- Late trains, same grey — she adds — is assonance stealing November's vowel colour for a mood, which poetry allowed and advertising borrowed with a smile.
+  it: Late trains, same grey — aggiunge — è assonanza che ruba il colore vocalico di November per un umore, cosa che la poesia permetteva e la pubblicità ha preso in prestito con un sorriso.
+  refs: 67 64
+- After the tea, a reader unfolds The Commuter: the 7:42 does not begin, it continues; Clapham takes a breath; the stop is a hinge.
+  it: Dopo il tè, un lettore apre il foglio di The Commuter: il 7:42 non comincia, continua; Clapham tira fiato; la fermata è una cerniera.
+  refs: 68
+- Whitby arrives only as scarf-colour; the poster peels with stout tea and steady claims; nobody says It's only weather, because the boots are clean and the morning's plot is unwritten.
+  it: Whitby arriva solo come colore di sciarpa; il manifesto si stacca con tè corposo e affermazioni salde; nessuno dice «È solo il tempo», perché gli stivali sono puliti e la trama del mattino è da scrivere.
+  refs: 68 66 67 64
+- "If you can remove every break and lose only white space," Clare says, "you had chopped prose. Defend the break with your ear."
+  it: «Se puoi togliere ogni a capo e perdere solo spazio bianco», dice Clare, «avevi prosa a pezzi. Difendi l'a capo con l'orecchio.»
+  refs: 68
+- She closes with the radio method from Poetry Hour: name what you heard before what you felt; fifteen, thirty, fifteen; let the last stress be the off switch.
+  it: Chiude col metodo radiofonico di Poetry Hour: nomina ciò che hai udito prima di ciò che hai sentito; quindici, trenta, quindici; lascia che l'ultimo accento sia l'interruttore.
+  refs: 69
+- On the whiteboard, six tools in order: metre and rhyme; sound-budget; ballad refrain; alliteration and assonance in selling sound; free-verse breaks; talking about a poem aloud.
+  it: Sulla lavagna, sei attrezzi in ordine: metro e rima; budget sonoro; ritornello di ballata; allitterazione e assonanza nel suono che vende; a capo del free verse; parlare di una poesia ad alta voce.
+  refs: 64 65 66 67 68 69
+- Someone asks whether English "can't rhyme." Clare corrects: it can; it invoices the cost more often, and sometimes posts the letter unmarked.
+  it: Qualcuno chiede se l'inglese «non sappia fare rima». Clare corregge: sa; fattura il costo più spesso, e a volte spedisce la lettera senza francobollo.
+  refs: 65
+- The jug is empty. The library stays free. Clare folds the November page so the couplet shows: true, and not; how to plot.
+  it: La caraffa è vuota. La biblioteca resta gratis. Clare piega la pagina di November così si vede il distico: true, and not; how to plot.
+  refs: 64 69
+- "Homework," she says, almost off-mic. "Read a poem aloud and record it. Listen once for sense, once for stress, once for whether you murdered it with kindness."
+  it: «Compiti», dice, quasi fuori microfono. «Leggete una poesia ad alta voce e registratela. Ascoltate una volta per il senso, una per gli accenti, una per capire se l'avete ammazzata con la gentilezza.»
+  refs: 69 64
+- Nobody jumps a queue for the exit. Boots stamp the November rain from the mat, and the 7:42 of tomorrow is already continuing somewhere.
+  it: Nessuno salta la coda per l'uscita. Gli stivali si scuotono la pioggia di November dallo zerbino, e il 7:42 di domani sta già continuando da qualche parte.
+  refs: 64 68
+
+notes.it:
+Non c'è una regola nuova. La settimana ha messo in ordine il suono del verso inglese: metro e rima, budget sonoro, ballata, allitterazione pubblicitaria, free verse, parlare di poesia. Se due attrezzi ti sembrano lo stesso eco, guardali in tabella.
+
+1. Metro e rima (lezione 64). November in pentametro giambico; schema ABAB CDCD EFEF GG; slant route/boots; distico true, and not / plot.
+
+| Pezzo | Lavoro | Lezione |
+|---|---|---|
+| da-DUM × 5 | pentametro giambico | 64 |
+| grey / day; route / boots | rima piena e slant | 64 |
+| darker coat; copper-dull | allitterazione interna | 64 |
+| It's only weather... plot | svolta del distico | 64 |
+| tap the stresses | orecchio prima del righello | 64 |
+
+2. Budget sonoro (lezione 65). Desinenze italiane vs inventario inglese; slant, assonanza, blank verse, rifiuto; non «migliorare» con rime prestate.
+
+| Idea | Esempio | Lezione |
+|---|---|---|
+| rime «gratis» in -are | amare / cantare | 65 |
+| love / move | pagina ≠ bocca | 65 |
+| blank verse | Paradise Lost (titolo) | 65 |
+| sound-budget | fine vs mezzo verso | 65 |
+| borrowed suit | traduzione che aggiunge rime | 65 |
+
+3. Ballata (lezione 66). Strofe, storia a scene, ritornello; Ned, Mary Wren, Whitby; doubling; gap tra pays e la cima tagliata.
+
+| Pezzo | Lavoro | Lezione |
+|---|---|---|
+| Whitby quay → gone, was gone | scena di partenza | 66 |
+| refrain (wide/deep... pays) | verdetto che torna | 66 |
+| Hold fast / to run, to run | trama + raddoppio orale | 66 |
+| foam, the foam | chiusura a terra | 66 |
+| no ledger | ironia del proverbio | 66 |
+
+4. Suono che vende (lezione 67). Allitterazione e assonanza negli slogan inventati; test della frase piana.
+
+| Slogan / riga | Attrezzo | Lezione |
+|---|---|---|
+| stout, steady, thrifty steep | allitterazione /st/, /θ/ | 67 |
+| Featherlight... fleeting | soft sell in /f/ | 67 |
+| Buy big. Buy bold. | hard sell in /b/ | 67 |
+| Late trains, same grey | assonanza (eco 64) | 67 |
+| strip the consonants | etica del claim | 67 |
+
+5. Free verse (lezione 68). A capo che lavorano; 7:42; hinge; test della prosa a pezzi.
+
+| Verso / idea | Lavoro | Lezione |
+|---|---|---|
+| It continues — | sospensione | 68 |
+| stop = hinge | tesi | 68 |
+| poster / Whitby colour | echi 67 e 66 | 68 |
+| refuse It's only weather | eco 64 ribaltata | 68 |
+| chopped prose test | criterio | 68 |
+
+6. Parlare di poesia (lezione 69). Clare Fenwick; udito prima del sentimento; timer 15-30-15; off switch.
+
+| Mossa | Effetto | Lezione |
+|---|---|---|
+| read then name sound | non ammazzare il testo | 69 |
+| heard before felt | ordine da microfono | 69 |
+| 15 / 30 / 15 | un minuto utile | 69 |
+| last stress = off switch | chiusura secca | 69 |
+| It's only tea... and not | eco del distico | 69 |
+
+In ordine: batte il tavolo sul giambo, conta il budget, lascia tornare il ritornello, spoglia lo slogan, difendi l'a capo, e spegni sull'ultimo accento. La biblioteca chiude gratis; November resta sullo zerbino.
+
+tasks:
+- Phone on the table, library quiet behind the door. I read November once for the story of grey and boots, once tapping five landings a line, once listening for whether I flattened the couplet into a lecture. On the second take I rushed the slant on route and boots; on the third I kept it, and I let plot be the off switch without explaining verse design to the empty room. Playback: sense intact, stress audible, no apology in the last breath. That is the file I keep.
+  task.it: Leggi ad alta voce una poesia inglese della settimana (va bene November) e registrati. Poi riascolta e, in inglese (80-110 parole), di' che cosa hai controllato (senso, accenti, una scelta di suono) e quale take terresti. Confronta col modello.
+  rubric.it: Si capisce che c'è stata una lettura ad alta voce; si nominano senso e suono; c'è una scelta concreta (metro, rima, a capo); la chiusura non spiega la poesia a morte; l'inglese è naturale.

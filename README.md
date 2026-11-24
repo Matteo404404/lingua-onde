@@ -17,6 +17,8 @@ one pair of languages at a time: English for Italian speakers first
 an introduction, and an appendix with the grammar, a grammar index, the words
 both ways and the expressions; Perfectionnement is complete too: 70 lessons,
 an introduction, and an appendix with the grammar, a grammar index and the
+expressions; Mastery is complete too: 100 lessons with open tasks, an
+introduction, and an appendix with style and grammar, an index and the
 expressions),
 then Spanish for Italian speakers (its first week, lessons 1–7, is rewritten
 for them). The other languages except Dutch have 13 sample lessons (lessons

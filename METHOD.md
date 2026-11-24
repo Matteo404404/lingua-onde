@@ -206,6 +206,8 @@ register and effect.
   effect).
 - **Revision every 7th lesson**: style, register and rhetoric of the week in
   order, with a revision text.
+- **The book around the lessons**: an introduction, and at the end a style
+  and grammar appendix, an index (topic → lessons) and the expressions.
 - **The same study routine** as Foundation, with the open tasks after the
   two exercises.
 - **Mastery wave** (from lesson 50, 49 places back, as before): you read the

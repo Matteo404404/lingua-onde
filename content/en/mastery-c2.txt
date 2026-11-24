@@ -5220,3 +5220,778 @@ tasks:
 - Phone on the table, library quiet behind the door. I read November once for the story of grey and boots, once tapping five landings a line, once listening for whether I flattened the couplet into a lecture. On the second take I rushed the slant on route and boots; on the third I kept it, and I let plot be the off switch without explaining verse design to the empty room. Playback: sense intact, stress audible, no apology in the last breath. That is the file I keep.
   task.it: Leggi ad alta voce una poesia inglese della settimana (va bene November) e registrati. Poi riascolta e, in inglese (80-110 parole), di' che cosa hai controllato (senso, accenti, una scelta di suono) e quale take terresti. Confronta col modello.
   rubric.it: Si capisce che c'è stata una lettura ad alta voce; si nominano senso e suono; c'è una scelta concreta (metro, rima, a capo); la chiusura non spiega la poesia a morte; l'inglese è naturale.
+
+== 71 C2
+numeral: Lesson Seventy-One
+title: Should we tip?
+title.it: Si deve lasciare la mancia?
+
+dialogue:
+- Should we tip?
+  it: Si deve lasciare la mancia?
+- The question sounds moral, and in Britain it often arrives as a small panic at the till: the card machine offers 10%, 12.5%, 15%, or no tip, and the queue behind you has opinions it will not say aloud.
+  it: La domanda suona morale, e in Gran Bretagna arriva spesso come un piccolo panico alla cassa: il terminale offre 10%, 12,5%, 15%, o nessuna mancia, e la coda dietro di te ha opinioni che non dirà ad alta voce.
+- Tip, here, means a voluntary extra paid to someone who has already been paid to serve you: waiter, barista, taxi driver, hairdresser.
+  it: Tip, qui, vuol dire un extra volontario pagato a qualcuno che è già stato pagato per servirti: cameriere, barista, tassista, parrucchiere.
+- It is not the service charge printed on the bill, which is a price by another name, even when the menu smiles and calls it optional.
+  it: Non è il service charge stampato sul conto, che è un prezzo con un altro nome, anche quando il menu sorride e lo chiama facoltativo.
+- The case for tipping begins with gratitude.
+  it: La tesi a favore della mancia comincia dalla gratitudine.
+- A good shift is hard work done in public, under time pressure, with a smile that is part of the job and still costs the face that wears it.
+  it: Un buon turno è lavoro duro fatto in pubblico, sotto pressione di tempo, con un sorriso che fa parte del mestiere e costa comunque al volto che lo indossa.
+- Money is a clear thank-you in a culture that finds spoken praise awkward; a tip can say what "lovely, thanks" cannot carry alone.
+  it: I soldi sono un grazie chiaro in una cultura a cui la lode detta a voce mette a disagio; una mancia può dire ciò che «lovely, thanks» da solo non porta.
+- There is also a fairness argument: in some rooms the base wage is low by design, and the tip is how the customer is invited to finish the employer's sentence.
+  it: C'è anche un argomento di equità: in alcune stanze il salario base è basso di proposito, e la mancia è il modo in cui il cliente viene invitato a finire la frase del datore di lavoro.
+- That invitation is the first crack in the case.
+  it: Quell'invito è la prima crepa nella tesi.
+- If a wage needs charity from strangers to become a living, the stranger is doing wage policy with a card machine, not practising manners.
+  it: Se un salario ha bisogno della carità di sconosciuti per diventare un vivere, lo sconosciuto sta facendo politica salariale con un terminale, non buone maniere.
+- The case against tipping starts there, and adds three further points.
+  it: La tesi contro la mancia parte da lì, e aggiunge altri tre punti.
+- First, tips reward charm and luck as much as labour: the quiet table in the corner tips less than the loud birthday, though both asked for the same plates.
+  it: Primo, le mance premiano il fascino e la fortuna quanto il lavoro: il tavolo quieto in un angolo lascia meno del compleanno rumoroso, anche se entrambi hanno chiesto gli stessi piatti.
+- Second, they turn a price into a negotiation you never agreed to enter; the percentage buttons pretend you chose the game when you only chose the soup.
+  it: Secondo, trasformano un prezzo in una trattativa in cui non hai accettato di entrare; i pulsanti delle percentuali fingono che tu abbia scelto il gioco quando hai scelto solo la zuppa.
+- Third, British habit still differs from American expectation: here a tip has long been a mark of special pleasure, not a default tax on every coffee.
+  it: Terzo, l'abitudine britannica differisce ancora dall'aspettativa americana: qui la mancia è stata a lungo un segno di piacere speciale, non una tassa di default su ogni caffè.
+- Import the American floor of fifteen per cent into a British café and you have not imported clarity; you have imported anxiety with better branding.
+  it: Importare il pavimento americano del quindici per cento in un caffè britannico non importa chiarezza; importa ansia con un marchio migliore.
+- Concede what must be conceded.
+  it: Concedi ciò che va concesso.
+- Some workers prefer tips because a good week can beat a flat rise that never comes; some owners prefer tips because the payroll looks tidier on paper.
+  it: Alcuni lavoratori preferiscono le mance perché una settimana buona può battere un aumento fisso che non arriva mai; alcuni padroni le preferiscono perché il libro paga sulla carta sembra più ordinato.
+- Preference is not the same as justice, but it is not nothing, and an essay that ignores it is arguing with a ghost.
+  it: La preferenza non è la stessa cosa della giustizia, ma non è niente, e un saggio che la ignora sta discutendo con un fantasma.
+- So the clean conclusion would seem to be this: tip when the service was more than the contract, refuse the machine's guilt buttons when it was only the contract, and never tip to repair a wage the employer left unfinished.
+  it: Così la conclusione pulita sembrerebbe questa: lascia la mancia quando il servizio è stato più del contratto, rifiuta i pulsanti di colpa del terminale quando era solo il contratto, e non lasciare mai la mancia per riparare un salario che il datore ha lasciato a metà.
+- That is tidy. It is also not how the evening ended.
+  it: È ordinato. Non è nemmeno come è finita la sera.
+- I wrote most of this at a corner table in The Copper Kettle on Market Street in Marrowbridge, between the soup and the bill, feeling virtuous about structure.
+  it: Ho scritto gran parte di questo a un tavolo d'angolo al Copper Kettle in Market Street a Marrowbridge, tra la zuppa e il conto, sentendomi virtuoso sulla struttura.
+- The waitress, Lea, had been patient with a laptop that occupied a two-top through the quiet hour.
+  it: La cameriera, Lea, era stata paziente con un portatile che occupava un tavolo da due per tutta l'ora quieta.
+- When the machine offered its percentages I pressed no tip, because the argument on the screen had convinced its author.
+  it: Quando il terminale ha offerto le sue percentuali ho premuto no tip, perché l'argomento sullo schermo aveva convinto il suo autore.
+- Outside, in the drizzle on the pavement, I realised the clean conclusion had been a costume: I had used her patience as a desk, and paid only for the soup.
+  it: Fuori, nella pioggerella sul marciapiede, ho capito che la conclusione pulita era un costume: avevo usato la sua pazienza come scrivania, e pagato solo la zuppa.
+- I went back, tipped twelve per cent in cash, and learned that an argument can be sound and still leave you looking at your own shoes.
+  it: Sono tornato, ho lasciato il dodici per cento in contanti, e ho imparato che un ragionamento può essere solido e lasciarti comunque a guardarti le scarpe.
+- Should we tip? Sometimes the structure is right, and the person who wrote it still owes the room an apology in coins.
+  it: Si deve lasciare la mancia? A volte la struttura è giusta, e chi l'ha scritta deve ancora alla stanza delle scuse in monete.
+
+notes.it:
+1. Should we tip?: domanda-titolo da saggio argomentativo, non quiz. tip = mancia (non «punta»; e non tip = consiglio, salvo dal contesto). Panic at the till... card machine... 10%, 12.5%, 15%: scena britannica familiare; la coda che non parla è disagio sociale, non silenzio vuoto.
+2. voluntary extra... already been paid: definizione operativa. waiter, barista, taxi driver, hairdresser: campi tipici della mancia in GB.
+3. service charge... price by another name... optional: service charge = supplemento di servizio stampato; «optional» sul menu non lo rende una mancia. L'italiano «coperto» / «servizio» non calzano uno a uno: qui si separa prezzo nascosto e regalo volontario.
+4. case for... gratitude: prima tesi a favore. good shift... smile that... costs the face: il sorriso come costo del mestiere. Money... clear thank-you... "lovely, thanks": i soldi come sostituto della lode detta, in una cultura che evita l'entusiasmo aperto (lezione 1).
+5. fairness... wage... low by design... finish the employer's sentence: secondo argomento a favore, già incrinato. stranger... wage policy with a card machine: detto (gentilezza) / fatto (politica salariale) / come si sa (by design + invited).
+6. case against... three further points: struttura esplicita (first, second, third). charm and luck... quiet table / loud birthday: mance come premio non solo al lavoro. percentage buttons... only chose the soup: critica ai default del terminale.
+7. British habit... American expectation... default tax: contrasto GB/USA senza caricatura; long been = abitudine, non legge. American floor of fifteen per cent: floor = soglia minima. anxiety with better branding: l'importazione porta ansia, non chiarezza.
+8. Concede what must be conceded: concessione retorica (lezione 17). Preference... not... justice... arguing with a ghost: preferenza ≠ giustizia; ignorarla indebolisce il saggio.
+9. clean conclusion... more than the contract... guilt buttons... repair a wage: sintesi in tre pezzi. tidy... not how the evening ended: volta al twist; tidy = troppo ordinato per restare vero fino in fondo.
+10. Copper Kettle... Market Street... Marrowbridge: locale e paese inventati (settimana). Lea: un nome, una persona. two-top = tavolo da due; quiet hour = ora scarica. pressed no tip... convinced its author: ironia sull'autore persuaso da sé.
+11. costume... patience as a desk... paid only for the soup: il twist. structure right / apology in coins: la chiusura non cancella l'argomento; lo mette sotto le scarpe. Pavement: marciapiede britannico.
+
+ex1:
+- In Britain the tip question often arrives as a small panic at the till, when the card machine offers percentages or no tip.
+  it: In Gran Bretagna la domanda sulla mancia arriva spesso come un piccolo panico alla cassa, quando il terminale offre percentuali o nessuna mancia.
+- A tip is a voluntary extra; a service charge printed on the bill is a price by another name.
+  it: Una tip è un extra volontario; un service charge stampato sul conto è un prezzo con un altro nome.
+- If a wage needs charity from strangers, the customer is doing wage policy with a card machine, not practising manners.
+  it: Se un salario ha bisogno della carità di sconosciuti, il cliente sta facendo politica salariale con un terminale, non buone maniere.
+- Tips can reward charm and luck as much as labour, and they turn a price into a negotiation you never agreed to enter.
+  it: Le mance possono premiare il fascino e la fortuna quanto il lavoro, e trasformano un prezzo in una trattativa in cui non hai accettato di entrare.
+- The essay's clean conclusion was sound, yet its author went back and tipped after using the waitress's patience as a desk.
+  it: La conclusione pulita del saggio era solida, eppure il suo autore è tornato e ha lasciato la mancia dopo aver usato la pazienza della cameriera come scrivania.
+
+ex2:
+- The card machine offered 10%, 12.5%, 15%, or no [tip].
+  it: Il terminale ha offerto il 10%, il 12,5%, il 15%, o nessuna mancia.
+- A printed [service] charge is a price by another name, even when the menu calls it optional.
+  it: Un supplemento di servizio stampato è un prezzo con un altro nome, anche quando il menu lo chiama facoltativo.
+- Importing an American [floor] of fifteen per cent into a British café imports anxiety with better branding.
+  it: Importare una soglia americana del quindici per cento in un caffè britannico importa ansia con un marchio migliore.
+- Concede what must be [conceded]: some workers prefer tips because a good week can beat a flat rise.
+  it: Concedi ciò che va concesso: alcuni lavoratori preferiscono le mance perché una settimana buona può battere un aumento fisso.
+- I had used her patience as a desk, and paid only for the [soup].
+  it: Avevo usato la sua pazienza come scrivania, e pagato solo la zuppa.
+
+tasks:
+- We should tip, and tip as a habit. A wage is a contract between employer and worker; the customer's job is to pay the price on the menu, then add a clear thank-you when a stranger has carried plates, jokes, and other people's moods across a room for two hours. The percentage buttons are clumsy, but refusing them on principle often means refusing the person. British reserve already underpays spoken praise; cash or a tapped twelve per cent can finish the sentence without a speech. Where the employer has left the wage unfinished, tip and complain: starve neither the waiter nor the argument. The opposite essay's tidy refusal sounds like justice until you are the quiet table that occupied a two-top through the lunch rush and walked out feeling philosophical.
+  task.it: Scrivi in inglese (120-160 parole) il saggio opposto: argomenta che sì, si deve lasciare la mancia, con tesi, almeno una concessione, e una chiusura netta. Non copiare il testo; puoi riusare il Copper Kettle se ti serve. Confronta col modello.
+  rubric.it: C'è una tesi chiara a favore della mancia; c'è almeno una concessione all'altra parte; la struttura si sente (premesse → obiezione → chiusura); il registro è da saggio, non da tweet; l'inglese è naturale e britannico dove conta (queue, bill, pavement se compaiono).
+
+== 72 C2
+numeral: Lesson Seventy-Two
+title: Fallacies
+title.it: I sofismi
+
+dialogue:
+- A fallacy is an argument that looks dressed for work and is still wearing slippers: the shape of reason without the job done.
+  it: Un sofisma è un argomento che sembra vestito per il lavoro e ha ancora le pantofole: la forma della ragione senza il lavoro fatto.
+- Spotting one does not make you clever by itself; it stops you buying a conclusion you have not earned.
+  it: Individuarne uno non ti rende furbo da solo; ti impedisce di comprare una conclusione che non ti sei guadagnato.
+- Below are common fallacies, each with a comic example set in ordinary British talk.
+  it: Sotto, sofismi comuni, ciascuno con un esempio comico nel parlato britannico ordinario.
+- Ad hominem: attack the speaker, skip the claim.
+  it: Ad hominem: attacca chi parla, salta l'affermazione.
+- "You say the bus should run later, but you once arrived late to your own birthday, so your timetable is worthless."
+  it: «Dici che l'autobus dovrebbe passare più tardi, ma una volta sei arrivato in ritardo al tuo stesso compleanno, quindi il tuo orario non vale niente.»
+- The birthday is irrelevant; lateness at cake is not evidence about the 23:10.
+  it: Il compleanno non c'entra; il ritardo alla torta non è prova sul 23:10.
+- Straw man: replace the real claim with a weaker doll, then punch the doll.
+  it: Straw man (fantoccio): sostituisci l'affermazione vera con una bambola più debole, poi pesta la bambola.
+- "She wants a modest tip when the service was good; clearly she wants waiters to empty our wallets every Tuesday."
+  it: «Vuole una mancia modesta quando il servizio è stato buono; chiaramente vuole che i camerieri ci svuotino il portafoglio ogni martedì.»
+- Modest tip is not empty wallets; the doll made the fight easier.
+  it: Mancia modesta non è portafogli vuoti; la bambola ha reso la lite più facile.
+- Slippery slope: one step, then invent a cliff.
+  it: Slippery slope (pendio scivoloso): un passo, poi inventi un precipizio.
+- "If Marrowbridge lets the Copper Kettle put a tip jar by the till, next month every sandwich in Britain will demand twenty per cent and the pound will collapse."
+  it: «Se Marrowbridge lascia che il Copper Kettle metta un barattolo delle mance alla cassa, il mese prossimo ogni panino in Gran Bretagna pretenderà il venti per cento e la sterlina crollerà.»
+- A jar is a jar; the cliff was scenery.
+  it: Un barattolo è un barattolo; il precipizio era scenografia.
+- False dilemma: only two doors, though the building has a corridor.
+  it: Falso dilemma: solo due porte, sebbene l'edificio abbia un corridoio.
+- "Either we tip on every coffee or we hate hospitality workers."
+  it: «O lasciamo la mancia su ogni caffè o odiamo i lavoratori dell'ospitalità.»
+- Reading the bill, refusing a screen for a takeaway, and supporting a wage rise are other doors.
+  it: Leggere il conto, rifiutare uno schermo per un asporto, e sostenere un aumento salariale sono altre porte.
+- Post hoc: after this, therefore because of this.
+  it: Post hoc: dopo questo, dunque a causa di questo.
+- "I wore my lucky jumper, then the Marrowbridge Gazette printed my letter, so the jumper edits the paper."
+  it: «Ho indossato il maglione portafortuna, poi il Marrowbridge Gazette ha stampato la mia lettera, quindi il maglione fa il redattore del giornale.»
+- Sequence is not cause; editors are.
+  it: La sequenza non è la causa; lo sono i redattori.
+- Appeal to authority: a famous name where a reason should be.
+  it: Appello all'autorità: un nome famoso dove ci vorrebbe una ragione.
+- "A television gardener said tips are vulgar, so the card machine is morally wrong."
+  it: «Un giardiniere della televisione ha detto che le mance sono volgari, quindi il terminale è moralmente sbagliato.»
+- Ask what the gardener argued, not only who smiled on Tuesday night.
+  it: Chiedi che cosa ha argomentato il giardiniere, non solo chi ha sorriso martedì sera.
+- Bandwagon: many people do it, so it must be right.
+  it: Bandwagon (effetto carrozzone): lo fanno in molti, quindi deve essere giusto.
+- "Everyone in the queue tapped fifteen per cent, so fifteen is the truth."
+  it: «Tutti in coda hanno battuto il quindici per cento, quindi il quindici è la verità.»
+- Queues are shy; shy is not a syllabus.
+  it: Le code sono timide; timido non è un programma di studio.
+- Hasty generalisation: one case, universal law.
+  it: Generalizzazione affrettata: un caso, legge universale.
+- "Lea at the Copper Kettle was kind; therefore British service is a paradise and needs no wages debate."
+  it: «Lea al Copper Kettle è stata gentile; dunque il servizio britannico è un paradiso e non serve un dibattito sugli stipendi.»
+- One waitress is a person, not a census.
+  it: Una cameriera è una persona, non un censimento.
+- Begging the question: assume the point you claim to prove.
+  it: Petizione di principio: dai per scontato il punto che pretendi di dimostrare.
+- "Tipping is obligatory because a tip is what you owe."
+  it: «Lasciare la mancia è obbligatorio perché la mancia è ciò che devi.»
+- Owe was the dispute; the sentence smuggled it into the premise.
+  it: «Dovere» era la disputa; la frase l'ha fatto entrare di contrabbando nella premessa.
+- Red herring: drag a strong smell across the trail.
+  it: Red herring (pista falsa): trascina un odore forte sulla pista.
+- "We cannot discuss service charges until someone explains why the town clock is three minutes fast."
+  it: «Non possiamo parlare di supplementi di servizio finché qualcuno non spiega perché l'orologio del paese è avanti di tre minuti.»
+- The clock may annoy; it does not settle the bill.
+  it: L'orologio può dare fastidio; non salda il conto.
+- How do you use this list without becoming the person who shouts "fallacy!" instead of listening?
+  it: Come usi questo elenco senza diventare la persona che grida «sofisma!» invece di ascoltare?
+- Name the move, then return to the claim: what was said, what would count as evidence, what is still missing.
+  it: Nomina la mossa, poi torna all'affermazione: che cosa è stato detto, che cosa conterebbe come prova, che cosa manca ancora.
+- In a newspaper column or a phone-in, fallacies travel well because they are fast; good argument is slower, and that is the point.
+  it: In una rubrica di giornale o in un phone-in, i sofismi viaggiano bene perché sono veloci; il buon argomento è più lento, ed è quello il punto.
+- Lea, for the record, still prefers cash tips to metaphysics.
+  it: Lea, per la cronaca, preferisce ancora le mance in contanti alla metafisica.
+
+notes.it:
+1. fallacy... dressed for work... slippers: definizione comica. Spotting... conclusion you have not earned: scopo pratico, non vanità. comic example... British talk: ogni sofisma ha una scenetta quotidiana.
+2. Ad hominem... birthday... 23:10: attacco alla persona; il compleanno è irrilevante per l'autobus. Claim vs speaker: contrasto base.
+3. Straw man... modest tip → empty wallets: si gonfia la tesi per abbatterla. Modest = modesta. Doll / bambola: metafora dello straw man.
+4. Slippery slope... Copper Kettle... tip jar... pound will collapse: un passo locale, precipizio nazionale inventato. Marrowbridge / Copper Kettle: stesso mondo (lezione 71). scenery = scenografia.
+5. False dilemma... every coffee / hate workers: solo due porte. Other doors... bill... takeaway... wage rise: eco della regola (lezione 71) senza ripeterla tutta.
+6. Post hoc... lucky jumper... Marrowbridge Gazette: dopo ≠ perché. Gazette: giornale locale inventato (torna nella settimana). editors are: causa vera plausibile.
+7. Appeal to authority... television gardener: nome famoso al posto della ragione. Ask what... argued: criterio. Bandwagon... queue tapped fifteen: la coda timida non è prova (lezione 71, panico alla cassa).
+8. Hasty generalisation... Lea... paradise: un caso ≠ censimento. Lea: stessa persona (lezione 71). Begging the question... tip is what you owe: la conclusione è già nella premessa; owe era la lite.
+9. Red herring... town clock... three minutes fast: odore forte, pista falsa. settle the bill: doppio senso lieve (conto / questione).
+10. Name the move... return to the claim... evidence... missing: metodo anti-sofisma. newspaper column or phone-in... fast / slower: ponte al focus della settimana (stampa e argomenti). Lea... cash tips to metaphysics: chiusura comica a terra.
+
+ex1:
+- An ad hominem skips the claim and attacks the speaker, as when a late birthday is used against a bus timetable.
+  it: Un ad hominem salta l'affermazione e attacca chi parla, come quando un compleanno in ritardo viene usato contro l'orario di un autobus.
+- A straw man replaces a modest tip with empty wallets, then knocks down the doll.
+  it: Uno straw man sostituisce una mancia modesta con portafogli vuoti, poi abbatte la bambola.
+- A slippery slope turns a tip jar at the Copper Kettle into the collapse of the pound.
+  it: Un pendio scivoloso trasforma un barattolo delle mance al Copper Kettle nel crollo della sterlina.
+- "Everyone tapped fifteen per cent" is a bandwagon: a shy queue is not a syllabus.
+  it: «Tutti hanno battuto il quindici per cento» è un bandwagon: una coda timida non è un programma di studio.
+- Begging the question smuggles the dispute into the premise: tipping is obligatory because a tip is what you owe.
+  it: La petizione di principio fa entrare di contrabbando la disputa nella premessa: lasciare la mancia è obbligatorio perché la mancia è ciò che devi.
+
+ex2:
+- Attack the speaker and skip the claim: that is an ad [hominem].
+  it: Attacca chi parla e salta l'affermazione: questo è un attacco alla persona.
+- Replace the real claim with a weaker doll, then punch the doll: a [straw] man.
+  it: Sostituisci l'affermazione vera con una bambola più debole, poi pesta la bambola: un argomento fantoccio.
+- After this, therefore because of this: the [post] hoc move.
+  it: Dopo questo, dunque a causa di questo: la mossa del «dopo, quindi a causa di».
+- Only two doors when the building has a corridor: a false [dilemma].
+  it: Solo due porte quando l'edificio ha un corridoio: una falsa alternativa a due vie.
+- Drag a strong smell across the trail: a red [herring].
+  it: Trascina un odore forte sulla pista: una pista falsa.
+
+tasks:
+- (1) "The Gazette printed three letters against the tip jar, so the town has spoken." — hasty generalisation: three letters are not a survey of the town. (2) "If we allow free parking on Market Street, soon nobody will walk and the pavement will vanish." — slippery slope: nothing shows that free parking leads to that chain. (3) "Lea likes cash tips, therefore she opposes all service charges on principle." — straw man: we would need Lea's actual view on service charges. (4) "A celebrity chef hates card-machine prompts, so the prompts are unethical." — appeal to authority: we need the chef's reasons, not the chef's fame. (5) "We cannot debate wages until the town clock is fixed." — red herring: the clock has no bearing on wages.
+  task.it: Leggi questo testo inventato e individua cinque sofismi. Scrivi in inglese, per ciascuno: la citazione breve, il nome del sofisma, e in una clausola che prova mancherebbe. Testo: «The Gazette printed three letters against the tip jar, so the town has spoken. If we allow free parking on Market Street, soon nobody will walk and the pavement will vanish. Lea likes cash tips, therefore she opposes all service charges on principle. A celebrity chef hates card-machine prompts, so the prompts are unethical. We cannot debate wages until the town clock is fixed.» Confronta col modello.
+  rubric.it: Cinque sofismi nominati in modo plausibile; ogni voce ha una citazione e ciò che servirebbe come prova; non si inventano litigi fuori dal testo dato; l'inglese è chiaro; i nomi dei sofismi sono quelli della lezione (o equivalenti precisi).
+
+== 73 C2
+numeral: Lesson Seventy-Three
+title: Headlinese
+title.it: La lingua dei titoli
+
+dialogue:
+- Headlinese is English with its coat off: articles dropped, verbs tightened, and nouns stacked until a story becomes a brick you can throw across a breakfast table.
+  it: La headlinese è l'inglese senza cappotto: articoli caduti, verbi stretti, e nomi impilati finché una storia diventa un mattone che puoi tirare attraverso un tavolo della colazione.
+- It is not wrong English; it is English under a word-count siege, and it has habits you can learn to read.
+  it: Non è inglese sbagliato; è inglese sotto assedio di conteggio parole, e ha abitudini che puoi imparare a leggere.
+- Habit one: the present tense for the past. COUNCIL VOTES TO CHARGE FOR MARKET STREET PARKING means the vote happened; the present keeps the news warm.
+  it: Abitudine uno: il presente per il passato. COUNCIL VOTES TO CHARGE FOR MARKET STREET PARKING vuol dire che il voto è già avvenuto; il presente tiene calda la notizia.
+- Habit two: no a, no the, unless a the would prevent a crash. MAYOR OPENS LIBRARY reads faster than THE MAYOR OPENS THE LIBRARY; the brain fills the gaps.
+  it: Abitudine due: niente a, niente the, a meno che un the non eviti un incidente. MAYOR OPENS LIBRARY si legge più in fretta di THE MAYOR OPENS THE LIBRARY; il cervello riempie i vuoti.
+- Habit three: noun piles. MARROWBRIDGE PARKING FEE ROW packs place, topic, and quarrel into four stresses.
+  it: Abitudine tre: pile di nomi. MARROWBRIDGE PARKING FEE ROW impacca luogo, tema e lite in quattro accenti.
+- Row here means dispute, not a line of chairs; headlines love short words with two lives.
+  it: Row qui vuol dire lite, non una fila di sedie; i titoli amano parole corte con due vite.
+- Habit four: the comma that stands in for and or as. MPs, PUBLIC SPLIT ON TIPS can mean MPs and the public, or MPs while the public — you need the first paragraph.
+  it: Abitudine quattro: la virgola che sta per and o as. MPs, PUBLIC SPLIT ON TIPS può voler dire i parlamentari e il pubblico, o i parlamentari mentre il pubblico — ti serve il primo paragrafo.
+- Habit five: puns and sound, because a headline is also a shop window. Alliteration pays rent, as last week's slogans did; a pun rents the smile.
+  it: Abitudine cinque: giochi di parole e suono, perché un titolo è anche una vetrina. L'allitterazione paga l'affitto, come facevano gli slogan della settimana scorsa; un pun affitta il sorriso.
+- BAKERS RISE TO OCCASION: Marrowbridge's Pendle Bakery sells out of morning loaves after the oven is fixed. Rise does double work: dough and courage.
+  it: BAKERS RISE TO OCCASION: la Pendle Bakery di Marrowbridge esaurisce i pani del mattino dopo la riparazione del forno. Rise fa un doppio lavoro: impasto e coraggio.
+- TIP JAR TIPS SCALES IN CAFÉ ROW: the Copper Kettle's tip jar becomes the balance-tipping detail in a quarrel about card-machine prompts.
+  it: TIP JAR TIPS SCALES IN CAFÉ ROW: il barattolo delle mance del Copper Kettle diventa il dettaglio che fa inclinare la bilancia in una lite sui prompt del terminale.
+- Tips tips: verb and noun in one smile; scales tips as in tips the scales, not bathroom scales only.
+  it: Tips tips: verbo e nome in un sorriso; scales tips come in tips the scales (fa inclinare la bilancia), non solo bilancia del bagno.
+- FOX ON MARKET STREET HALTS TRAFFIC — AND DEBATE: a fox walks Market Street; the dash promises a second story the piece may not deliver.
+  it: FOX ON MARKET STREET HALTS TRAFFIC — AND DEBATE: una volpe cammina in Market Street; il trattino promette una seconda storia che il pezzo potrebbe non consegnare.
+- MINISTERS MULL MILK MEASURES: fake national headline; mull means consider; the /m/ braid makes policy sound like a nursery rhyme.
+  it: MINISTERS MULL MILK MEASURES: titolo nazionale finto; mull vuol dire considerare; la treccia di /m/ fa suonare la politica come una filastrocca.
+- That last one is sound before sense, the danger we named in advertising: you feel informed before the facts arrive.
+  it: Quell'ultimo è suono prima del senso, il pericolo che abbiamo nominato nella pubblicità: ti senti informato prima che arrivino i fatti.
+- Ambiguity is the other shop-window trick. SQUAD HELPS DOG BITE VICTIM can mean the squad helps a victim of a dog bite, which is the intended reading, or that the squad helps a dog to bite a victim, which is the nightmare grammar.
+  it: L'ambiguità è l'altro trucco da vetrina. SQUAD HELPS DOG BITE VICTIM può voler dire che la squadra aiuta una vittima di morso di cane, lettura intesa, o che la squadra aiuta un cane a mordere una vittima, che è la grammatica da incubo.
+- Headlinese drops the words that would have saved you: a, of, who was. The first paragraph puts them back.
+  it: La headlinese lascia cadere le parole che ti avrebbero salvato: a, of, who was. Il primo paragrafo le rimette.
+- How to read a British headline, then: restore the articles, decide whether the present is really past, unpack the noun pile, and ask whether the pun is carrying news or only rent.
+  it: Come leggere un titolo britannico, dunque: ripristina gli articoli, decidi se il presente è davvero passato, spacchetta la pila di nomi, e chiediti se il gioco di parole porta notizie o solo affitto.
+- How to write one without lying: keep the fact that would survive without the joke; if the pun needs a false claim, cut the pun.
+  it: Come scriverne uno senza mentire: tieni il fatto che sopravviverebbe senza la battuta; se il gioco di parole ha bisogno di un'affermazione falsa, taglia il gioco.
+- Marrowbridge Gazette house rule, invented for this lesson: no headline may tip the scales with a fallacy the page would refuse in the third paragraph.
+  it: Regola di redazione del Marrowbridge Gazette, inventata per questa lezione: nessun titolo può far inclinare la bilancia con un sofisma che la pagina rifiuterebbe al terzo paragrafo.
+- So PARKING FEE DESTROYS TOWN is banned until the town is, in fact, destroyed; PARKING FEE ROW ON MARKET STREET may stay.
+  it: Così PARKING FEE DESTROYS TOWN è vietato finché il paese non è, di fatto, distrutto; PARKING FEE ROW ON MARKET STREET può restare.
+- The short words remain: row, mull, bid, axe, probe, blow, boost — a toolbox of verbs that punch above their syllable count.
+  it: Restano le parole corte: row, mull, bid, axe, probe, blow, boost — una cassetta di verbi che colpiscono sopra il loro conteggio di sillabe.
+- Bid is attempt; axe is cut; probe is investigate; blow is setback; boost is increase. Learn them as headlinese, not as poetry.
+  it: Bid è tentativo; axe è taglio; probe è indagare; blow è batosta; boost è aumento. Imparali come headlinese, non come poesia.
+- Tomorrow's local story will arrive in three papers; today, practise the shop window before you trust the goods.
+  it: La storia locale di domani arriverà in tre giornali; oggi esercita la vetrina prima di fidarti della merce.
+- And if a tip jar tips the scales in a café row, remember: the headline smiled first; the bill still has to be read.
+  it: E se un barattolo delle mance fa inclinare la bilancia in una lite da caffè, ricorda: il titolo ha sorriso per primo; il conto va ancora letto.
+
+notes.it:
+1. Headlinese... coat off... brick... breakfast table: definizione. word-count siege: non è errore, è pressione di spazio.
+2. Habit one... present for the past... COUNCIL VOTES... MARKET STREET: esempio locale inventato; il voto è già successo; il presente tiene calda la notizia.
+3. no a, no the... MAYOR OPENS LIBRARY: articoli caduti; the resta solo se evita ambiguità (crash). Habit three... MARROWBRIDGE PARKING FEE ROW: pila di nomi; row = lite (non fila). short words with two lives: polisemia utile ai titoli.
+4. comma for and or as... MPs, PUBLIC SPLIT ON TIPS: ambiguità della virgola; first paragraph decide. Habit five... puns... alliteration: ponte (lezione 67) senza ripetere gli slogan.
+5. BAKERS RISE TO OCCASION... Pendle Bakery: panificio inventato (torna nell'obituary). Rise = lievitare / stare all'altezza.
+6. TIP JAR TIPS SCALES... Copper Kettle: eco (lezioni 71-72); tips tips verbo/nome; tip the scales = far inclinare la bilancia.
+7. FOX ON MARKET STREET... dash... second story: il trattino promette più di quanto il pezzo consegni. MINISTERS MULL MILK MEASURES: titolo finto già visto in pubblicità (lezione 67); mull = considerare; suono prima del senso.
+8. SQUAD HELPS DOG BITE VICTIM: ambiguità classica di struttura (aiuta la vittima / aiuta il cane a mordere). drops a, of, who was: meccanismo. restore articles... unpack noun pile... pun carrying news or only rent: metodo di lettura.
+9. write without lying... fact that would survive without the joke: etica del titolo. Gazette house rule... fallacy... third paragraph: ponte ai sofismi (lezione 72). PARKING FEE DESTROYS TOWN vs ROW: slippery slope vietato in testata.
+10. row, mull, bid, axe, probe, blow, boost: lessico headlinese. bid = tentativo; axe = taglio; probe = indagine; blow = batosta; boost = spinta. Tomorrow's local story... three papers: ponte alla lezione 74. tip jar... bill still has to be read: chiusura sul Copper Kettle.
+
+ex1:
+- Headlinese drops articles and keeps the present tense warm: COUNCIL VOTES means the vote has already happened.
+  it: La headlinese lascia cadere gli articoli e tiene caldo il presente: COUNCIL VOTES vuol dire che il voto è già avvenuto.
+- MARROWBRIDGE PARKING FEE ROW packs place, topic and quarrel; row means dispute.
+  it: MARROWBRIDGE PARKING FEE ROW impacca luogo, tema e lite; row vuol dire lite.
+- BAKERS RISE TO OCCASION lets rise do double work: dough and courage.
+  it: BAKERS RISE TO OCCASION lascia che rise faccia un doppio lavoro: impasto e coraggio.
+- SQUAD HELPS DOG BITE VICTIM is ambiguous until the first paragraph restores of and who was.
+  it: SQUAD HELPS DOG BITE VICTIM è ambiguo finché il primo paragrafo non ripristina of e who was.
+- A Gazette rule for this lesson: no headline may tip the scales with a fallacy the page would refuse later.
+  it: Una regola del Gazette per questa lezione: nessun titolo può far inclinare la bilancia con un sofisma che la pagina rifiuterebbe dopo.
+
+ex2:
+- Headlines often use the [present] tense for events that are already past.
+  it: I titoli usano spesso il tempo presente per eventi già passati.
+- In a headline, [row] usually means a dispute, not a line of chairs.
+  it: In un titolo, di solito indica una lite, non una fila di sedie.
+- Ministers [mull] milk measures: in headlinese the verb means consider.
+  it: I ministri rimuginano misure sul latte: in lingua da titolo il verbo significa considerare.
+- If the [pun] needs a false claim, cut the joke and keep the fact.
+  it: Se il gioco di parole ha bisogno di un'affermazione falsa, taglia la battuta e tieni il fatto.
+- Bid, [axe], probe, blow and boost are short headline verbs that punch above their syllable count.
+  it: Tentativo, taglio, indagine, batosta e spinta: verbi corti da titolo che colpiscono sopra il loro conteggio di sillabe.
+
+tasks:
+- (1) Pendle Bakery oven repaired overnight; morning loaves sell out by nine — BAKERS RISE AFTER OVEN FIX. (2) Copper Kettle tip jar returns to the till after a staff vote — CAFÉ TIP JAR BACK AFTER STAFF VOTE. (3) Fox walks Market Street at noon; two cars stop — FOX HALTS MARKET STREET TRAFFIC. (4) Town clock found three minutes fast; council to reset Friday — TOWN CLOCK THREE MINUTES FAST, RESET DUE. (5) Gazette letters page splits on parking fees — PARKING FEE ROW SPLITS LETTERS PAGE. Each keeps a fact that would survive without a pun; none claims the town is destroyed.
+  task.it: Scrivi in inglese cinque titoli (headlinese) per queste storie inventate: (1) forno della Pendle Bakery riparato; pani esauriti entro le nove; (2) il barattolo delle mance torna al Copper Kettle dopo un voto dello staff; (3) una volpe a mezzogiorno in Market Street ferma due auto; (4) l'orologio del paese è avanti di tre minuti; reset venerdì; (5) la pagina delle lettere del Gazette si divide sulle tariffe di parcheggio. Fatti che sopravvivono senza battuta; niente sofismi da precipizio. Confronta col modello.
+  rubric.it: Cinque titoli; articoli spesso caduti e presente da notizia dove serve; almeno un gioco di suono o parola corta da titolo (row, halt, rise...); nessun titolo mente sul fatto; l'inglese è da testata, non da paragrafo.
+
+== 74 C2
+numeral: Lesson Seventy-Four
+title: A local story
+title.it: Una storia locale
+
+dialogue:
+- Same facts, three papers: that is how framing works. The world does not change between editions; the spotlight does.
+  it: Stessi fatti, tre giornali: così funziona il framing. Il mondo non cambia tra le edizioni; cambia il riflettore.
+- The facts, for the record, are these.
+  it: I fatti, per la cronaca, sono questi.
+- On Tuesday evening Marrowbridge Borough Council voted 11–8 to introduce a £1.50-per-hour charge at the Market Street car park from the first Monday in December.
+  it: Martedì sera il consiglio comunale di Marrowbridge ha votato 11 a 8 per introdurre una tariffa di 1,50 sterline all'ora al parcheggio di Market Street dal primo lunedì di dicembre.
+- The car park had been free after 10 a.m.; before 10 a.m. a smaller charge already applied.
+  it: Il parcheggio era gratis dopo le 10; prima delle 10 valeva già una tariffa più piccola.
+- Councillor Helen Dray, proposing, said the money would fund pavement repairs on Market Street and High Street.
+  it: La consigliera Helen Dray, proponente, ha detto che i soldi finanzieranno riparazioni dei marciapiedi in Market Street e High Street.
+- Tom Harwick, who runs the ironmonger's opposite the car park, said afternoon trade would suffer if drivers went to the free retail park on the ring road.
+  it: Tom Harwick, che gestisce il negozio di ferramenta di fronte al parcheggio, ha detto che il commercio del pomeriggio ne risentirebbe se gli automobilisti andassero al centro commerciale gratuito sulla circonvallazione.
+- Ruth Quinn, owner of The Copper Kettle, said she was "watching the till and the pavement," and declined to call the vote a victory or a disaster.
+  it: Ruth Quinn, proprietaria del Copper Kettle, ha detto che stava «guardando la cassa e il marciapiede», e ha rifiutato di chiamare il voto una vittoria o un disastro.
+- No other votes were taken that evening on tips, clocks, or foxes.
+  it: Quella sera non sono stati presi altri voti su mance, orologi o volpi.
+- Now the Gazette, which still prints on cream paper and believes in the second paragraph.
+  it: Ora il Gazette, che stampa ancora su carta color crema e crede nel secondo paragrafo.
+- MARROWBRIDGE GAZETTE — Market Street parking charge approved after tight vote
+  it: MARROWBRIDGE GAZETTE — Approvata la tariffa di parcheggio in Market Street dopo un voto stretto
+- Marrowbridge Borough Council voted 11–8 on Tuesday to charge £1.50 an hour at the Market Street car park from December.
+  it: Il consiglio comunale di Marrowbridge ha votato 11 a 8 martedì per far pagare 1,50 sterline all'ora al parcheggio di Market Street da dicembre.
+- Councillor Helen Dray said the income would repair pavements; shopkeeper Tom Harwick warned of lost afternoon trade to the ring-road retail park.
+  it: La consigliera Helen Dray ha detto che l'incasso riparerà i marciapiedi; il negoziante Tom Harwick ha avvertito di un calo del commercio pomeridiano a favore del centro sulla circonvallazione.
+- Ruth Quinn of The Copper Kettle said she was watching both the till and the pavement and would not cheer or mourn yet.
+  it: Ruth Quinn del Copper Kettle ha detto che stava guardando sia la cassa sia il marciapiede e non avrebbe ancora né festeggiato né pianto.
+- The piece ends with the date the charge begins and the old rule it replaces. The spotlight is even; the nouns are dull on purpose.
+  it: Il pezzo finisce con la data in cui parte la tariffa e la vecchia regola che sostituisce. Il riflettore è equilibrato; i nomi sono noiosi di proposito.
+- Now the Daily Spur, which sells on the train and prefers a villain by line three.
+  it: Ora il Daily Spur, che si vende in treno e preferisce un cattivo entro la terza riga.
+- DAILY SPUR — TOWN HALL PARKING GRAB: drivers to cough up £1.50 an hour
+  it: DAILY SPUR — COLPO DEL MUNICIPIO SUL PARCHEGGIO: gli automobilisti dovranno sborsare 1,50 sterline all'ora
+- Furious motorists last night blasted Marrowbridge councillors after a town-hall stitch-up landed a £1.50-an-hour hit on Market Street parking.
+  it: Automobilisti furiosi ieri sera hanno stroncato i consiglieri di Marrowbridge dopo che un inciucio del municipio ha scaricato un colpo da 1,50 sterline all'ora sul parcheggio di Market Street.
+- Helen Dray waved a pavement story; traders fear the free retail park will vacuum the High Street dry.
+  it: Helen Dray ha sventolato una storia sui marciapiedi; i commercianti temono che il centro gratuito aspiri a secco la High Street.
+- The Spur does not invent the vote. It invents the weather around it: grab, stitch-up, hit, vacuum, furious — verbs and adjectives that pull the face into a frown before the numbers arrive.
+  it: Lo Spur non inventa il voto. Inventa il tempo attorno: grab, stitch-up, hit, vacuum, furious — verbi e aggettivi che tirano la faccia in una smorfia prima che arrivino i numeri.
+- 11–8 is still 11–8; cough up is not in the minutes.
+  it: 11 a 8 resta 11 a 8; cough up non sta nel verbale.
+- Now the County Beacon, which walks to work and writes for people who already hate cars a little.
+  it: Ora il County Beacon, che va al lavoro a piedi e scrive per gente che già odia un po' le auto.
+- COUNTY BEACON — Pavement fund wins as Market Street parking loses its free afternoon
+  it: COUNTY BEACON — Vince il fondo marciapiedi mentre il parcheggio di Market Street perde il pomeriggio gratis
+- A narrow but decisive council vote will finally put money under walkers' feet: £1.50 an hour at Market Street from December, aimed at cracked slabs on Market Street and High Street.
+  it: Un voto di consiglio stretto ma decisivo metterà finalmente soldi sotto i piedi di chi cammina: 1,50 sterline all'ora a Market Street da dicembre, destinate alle lastre rotte di Market Street e High Street.
+- Drivers who preferred a free bay after coffee may use the ring road; the Beacon calls that a "choice," not a "disaster."
+  it: Gli automobilisti che preferivano uno stallo gratis dopo il caffè potranno usare la circonvallazione; il Beacon chiama quella una «scelta», non un «disastro».
+- Tom Harwick's warning appears in paragraph four, under a subheading about "transition." Helen Dray is "clear-eyed." Ruth Quinn's caution is trimmed to half a sentence.
+  it: L'avvertimento di Tom Harwick compare al paragrafo quattro, sotto un sottotitolo su «transizione». Helen Dray è «lucida». La cautela di Ruth Quinn è tagliata a mezza frase.
+- Same 11–8. Same £1.50. Same December Monday. Different moral weather.
+  it: Stesso 11 a 8. Stesse 1,50 sterline. Stesso lunedì di dicembre. Tempo morale diverso.
+- Framing is not always a lie. It is the decision about which noun sits in the headline, which quote opens, and which worry waits in paragraph four.
+  it: Il framing non è sempre una bugia. È la decisione su quale nome sieda nel titolo, quale citazione apra, e quale preoccupazione aspetti al paragrafo quattro.
+- Bias shows when the weather words (grab, finally, furious, clear-eyed) do work the facts have not paid for.
+  it: Il bias si vede quando le parole del tempo (grab, finally, furious, clear-eyed) fanno un lavoro che i fatti non hanno pagato.
+- Strip all three pieces to the vote, the sum, the date, the two streets, and the three speakers, and you have the story the week can still argue about on the radio.
+  it: Spoglia tutti e tre i pezzi fino al voto, alla cifra, alla data, alle due strade e ai tre parlanti, e hai la storia su cui la settimana può ancora discutere alla radio.
+- Write it neutrally and you will feel how much work the weather was doing.
+  it: Scrivila in modo neutrale e sentirai quanto lavoro stava facendo il tempo atmosferico del tono.
+
+notes.it:
+1. Same facts, three papers... spotlight: tesi della lezione. framing = inquadratura/angolo, non cornice da quadro. The facts, for the record: blocco neutro prima dei pezzi.
+2. voted 11–8... £1.50-per-hour... first Monday in December: numeri da tenere identici nei tre pezzi. free after 10 a.m.: regola precedente. Helen Dray... pavement repairs; Tom Harwick... ironmonger's... retail park; Ruth Quinn... Copper Kettle: tre voci, un nome ciascuna (Lea non parla qui).
+3. No other votes... tips, clocks, foxes: confina la storia; eco leggera della 73 senza mischiare i fatti.
+4. Gazette... cream paper... second paragraph: registro locale misurato. Headline plain. even spotlight... dull on purpose: neutralità come scelta stilistica.
+5. Daily Spur... villain by line three: tabloid. GRAB... cough up... Furious... blasted... stitch-up... hit... vacuum: lessico di tempesta. does not invent the vote... invents the weather: framing ≠ falso numerico. cough up not in the minutes: prova del bias.
+6. County Beacon... walks to work: terzo angolo. Pavement fund wins... loses its free afternoon: vittoria già nel titolo. finally... clear-eyed... choice not disaster: weather words opposti allo Spur. Harwick in paragraph four... Quinn trimmed: ordine e taglio come framing.
+7. Same 11–8... Different moral weather: sintesi. Framing... which noun... which quote... paragraph four: definizione operativa.
+8. Bias... weather words (grab, finally, furious, clear-eyed)... facts have not paid for: criterio; eco del suono che porta claim non guadagnati (lezioni 67, 73).
+9. Strip... vote, sum, date, streets, speakers: lista per il compito neutrale. radio: ponte alla revisione (phone-in).
+10. Write it neutrally... how much work the weather was doing: chiusura; il compito misura il lavoro del tono togliendolo.
+
+ex1:
+- Marrowbridge Borough Council voted 11–8 to charge £1.50 an hour at the Market Street car park from the first Monday in December.
+  it: Il consiglio comunale di Marrowbridge ha votato 11 a 8 per far pagare 1,50 sterline all'ora al parcheggio di Market Street dal primo lunedì di dicembre.
+- Councillor Helen Dray said the money would fund pavement repairs; Tom Harwick warned that afternoon trade would go to the ring-road retail park.
+  it: La consigliera Helen Dray ha detto che i soldi finanzieranno riparazioni dei marciapiedi; Tom Harwick ha avvertito che il commercio pomeridiano andrebbe al centro sulla circonvallazione.
+- The Daily Spur does not invent the 11–8 vote; it invents the weather with words such as grab, stitch-up and furious.
+  it: Il Daily Spur non inventa il voto 11 a 8; inventa il tempo con parole come grab, stitch-up e furious.
+- The County Beacon puts Helen Dray as clear-eyed and moves Tom Harwick's warning to paragraph four under "transition."
+  it: Il County Beacon presenta Helen Dray come lucida e sposta l'avvertimento di Tom Harwick al paragrafo quattro sotto «transizione».
+- Framing decides which noun sits in the headline and which worry waits in paragraph four; bias shows when weather words do unpaid work.
+  it: Il framing decide quale nome sieda nel titolo e quale preoccupazione aspetti al paragrafo quattro; il bias si vede quando le parole del tempo fanno lavoro non pagato.
+
+ex2:
+- The council voted [11]–8 to introduce the Market Street parking charge.
+  it: Il consiglio ha votato undici a otto per introdurre la tariffa di parcheggio in Market Street.
+- The Daily Spur calls the decision a town-hall [stitch]-up.
+  it: Il Daily Spur chiama la decisione un inciucio del municipio.
+- Drivers, in the Spur's line, must [cough] up £1.50 an hour.
+  it: Gli automobilisti, nella riga dello Spur, devono sborsare 1,50 sterline all'ora.
+- The County Beacon says the pavement fund [wins] as free afternoon parking ends.
+  it: Il County Beacon dice che il fondo marciapiedi vince mentre finisce il parcheggio gratis del pomeriggio.
+- Strip the weather words and keep the [vote], the sum, the date and the speakers.
+  it: Spoglia le parole del tempo e tieni il voto, la cifra, la data e i parlanti.
+
+tasks:
+- On Tuesday Marrowbridge Borough Council voted 11–8 to introduce a £1.50-per-hour charge at the Market Street car park from the first Monday in December, replacing free parking after 10 a.m. Councillor Helen Dray said the income would fund pavement repairs on Market Street and High Street. Tom Harwick, of the ironmonger's opposite the car park, said afternoon shoppers might drive to the free retail park on the ring road instead. Ruth Quinn of The Copper Kettle said she was watching the till and the pavement and would not yet call the result a victory or a disaster.
+  task.it: Riscrivi in inglese (90-130 parole) la storia in modo neutrale: voto, cifra, data, regole vecchie e nuove, tre voci. Niente grab, finally, furious, clear-eyed. Confronta col modello.
+  rubric.it: I numeri coincidono col testo (11–8, £1.50, dicembre, after 10 a.m.); ci sono Dray, Harwick e Quinn senza eroi né cattivi; niente parole di «tempo morale»; l'inglese è da notizia piana; non si aggiungono fatti nuovi (niente mance o volpi nel voto).
+
+== 75 C2
+numeral: Lesson Seventy-Five
+title: An obituary
+title.it: Un necrologio
+
+dialogue:
+- Arthur James Pendle, baker, of High Street, Marrowbridge, died on Thursday aged 78, after a short illness borne with the same impatience he once showed a slow oven.
+  it: Arthur James Pendle, fornaio, di High Street, Marrowbridge, è morto giovedì a 78 anni, dopo una breve malattia sopportata con la stessa impazienza che un tempo mostrava a un forno lento.
+- He was born in the town in 1947, the second son of Edith Pendle, who kept a corner shop, and of George Pendle, a railway clerk who timed his life by the timetable and his tea by the whistle.
+  it: Nato in paese nel 1947, secondo figlio di Edith Pendle, che teneva una bottega d'angolo, e di George Pendle, impiegato delle ferrovie che scandiva la vita sull'orario e il tè sul fischio.
+- Arthur left school at fifteen, learned the craft at Barlow's in York, and came home in 1968 to open Pendle Bakery in a former shoe shop whose last pair, he liked to say, still squeaked in the cellar on wet mornings.
+  it: Lasciò la scuola a quindici anni, imparò il mestiere da Barlow's a York, e tornò nel 1968 ad aprire la Pendle Bakery in un ex negozio di scarpe il cui ultimo paio, amava dire, scricchiolava ancora in cantina le mattine umide.
+- For forty-two years the shutters went up before dawn; the first loaves left the oven while Market Street was still deciding whether to become a day.
+  it: Per quarantadue anni le saracinesche si alzavano prima dell'alba; i primi pani uscivano dal forno mentre Market Street stava ancora decidendo se diventare un giorno.
+- He baked white and brown, soft rolls for the Copper Kettle, and a Friday tin loaf that regulars called "the Pendle" without needing a sign.
+  it: Infornava bianco e integrale, panini soffici per il Copper Kettle, e un pan carré del venerdì che i clienti abituali chiamavano «the Pendle» senza bisogno di un cartello.
+- He refused to sell sliced bread before noon, on the grounds that a morning should earn its crumbs.
+  it: Rifiutava di vendere pane a fette prima di mezzogiorno, con la motivazione che una mattina doveva guadagnarsi le briciole.
+- When the card machine arrived he learned it, cursed it softly, and still preferred coins in a saucer for the paper boy.
+  it: Quando arrivò il terminale lo imparò, lo maledisse piano, e preferì ancora le monete in un piattino per il ragazzo del giornale.
+- He married June Mercer in 1971; she kept the books, the queue, and his temper when a delivery of flour was late.
+  it: Sposò June Mercer nel 1971; lei teneva i conti, la coda, e il suo temperamento quando una consegna di farina ritardava.
+- They had two children, Simon and Sophie; Simon now runs the bakery, and Sophie teaches history in Leeds and still claims the end crust as a birthright.
+  it: Ebbero due figli, Simon e Sophie; Simon ora gestisce il panificio, e Sophie insegna storia a Leeds e rivendica ancora la crosta finale come diritto di nascita.
+- Arthur was a quiet mainstay of the allotment society, a hesitant tenor in the church choir, and a man who could discuss the weather for eleven minutes without once mentioning his own knees.
+  it: Arthur era un pilastro quieto della società degli orti, un tenore esitante nel coro della chiesa, e un uomo capace di parlare del tempo per undici minuti senza nominare una sola volta le proprie ginocchia.
+- He did not care for celebrity chefs on television; he said a loaf should be judged by the ear when you tap the crust, not by the smile when you plate it.
+  it: Non amava gli chef celebrità in televisione; diceva che un pane si giudica dall'orecchio quando tocchi la crosta, non dal sorriso quando lo impiatti.
+- Friends will remember the flour on his jumper, the notebook of oven times kept in pencil, and the day he gave away the morning batch after a power cut because, as he put it, "Bread goes hard; reputations go harder."
+  it: Gli amici ricorderanno la farina sul maglione, il taccuino dei tempi di forno tenuto a matita, e il giorno in cui regalò l'infornata del mattino dopo un blackout perché, come disse, «Il pane indurisce; le reputazioni induriscono di più.»
+- He was not a saint of the High Street. He could be sharp with a wasted tray, and he never pretended that parking debates improved a crust.
+  it: Non era un santo della High Street. Poteva essere tagliente con una teglia sprecata, e non finse mai che i dibattiti sul parcheggio migliorassero una crosta.
+- He did, however, send soft rolls to The Copper Kettle through every tip-jar quarrel, on the sound commercial principle that Lea and Ruth still needed something to put beside the soup.
+  it: Mandò però panini soffici al Copper Kettle attraverso ogni lite sul barattolo delle mance, sul solido principio commerciale che Lea e Ruth avevano ancora bisogno di qualcosa da mettere accanto alla zuppa.
+- June died in 2019; Arthur kept her chair by the proofing cupboard and said he was "managing," which in Marrowbridge covers a wide country.
+  it: June è morta nel 2019; Arthur tenne la sua sedia accanto all'armadio di lievitazione e disse che «si arrangiava», formula che a Marrowbridge copre un paese largo.
+- He is survived by Simon and Sophie, by four grandchildren who knew him as the man with warm pockets, and by a town that still wakes to the smell from the old shoe shop.
+  it: Gli sopravvivono Simon e Sophie, quattro nipoti che lo conoscevano come l'uomo dalle tasche calde, e un paese che si sveglia ancora all'odore dell'ex negozio di scarpe.
+- A funeral service will be held at St Mary's, Marrowbridge, on Tuesday at 11 a.m.; family flowers only; donations, if desired, to the allotment society's tool fund.
+  it: Il funerale sarà a St Mary's, Marrowbridge, martedì alle 11; solo fiori di famiglia; eventuali donazioni al fondo attrezzi della società degli orti.
+- The bakery will close that morning and reopen at noon, because Arthur would have hated a wasted oven more than an empty pew.
+  it: Il panificio chiuderà quella mattina e riaprirà a mezzogiorno, perché Arthur avrebbe odiato un forno sprecato più di un banco vuoto.
+- That last sentence is the house style of a good British obituary: affection with a practical edge, and a joke that still tells the truth.
+  it: Quell'ultima frase è lo stile di casa di un buon necrologio britannico: affetto con un taglio pratico, e una battuta che dice ancora la verità.
+- Notice what the form does. Full name and role first; dates and place; the arc of work; family; clubs; a fault admitted without cruelty; the arrangements; a close that sounds like the person.
+  it: Nota che cosa fa la forma. Nome intero e ruolo per primi; date e luogo; l'arco del lavoro; famiglia; club; un difetto ammesso senza crudeltà; le disposizioni; una chiusura che suona come la persona.
+- It understates grief ("short illness," "managing") and overstates bread, because bread was how he spent himself in public.
+  it: Sottostima il dolore («breve malattia», «si arrangiava») e sovrastima il pane, perché il pane era il modo in cui spendeva sé stesso in pubblico.
+- Italian necrologi often lean on formulas of faith or civic honour; this English village register leans on craft, weather, and the queue.
+  it: I necrologi italiani spesso poggiano su formule di fede o onore civico; questo registro di paese inglese poggia su mestiere, tempo atmosferico e coda.
+- Neither is colder; they heat different rooms.
+  it: Nessuno dei due è più freddo; scaldano stanze diverse.
+- If you write the obituary of an object, keep the same spine: what it was, what it did daily, who leaned on it, how it failed, and what the town will notice when the shutters stay down.
+  it: Se scrivi il necrologio di un oggetto, tieni la stessa spina dorsale: che cosa era, che cosa faceva ogni giorno, chi ci si appoggiava, come ha fallito, e che cosa noterà il paese quando le saracinesche restano abbassate.
+- Do that, and even a parking machine can earn a sentence Arthur would have read with a floury thumb and a short nod.
+  it: Fallo, e anche una macchinetta del parcheggio può guadagnarsi una frase che Arthur avrebbe letto con un pollice infarinato e un breve cenno.
+
+notes.it:
+1. Arthur James Pendle... aged 78... impatience... slow oven: apertura da necrologio (nome, ruolo, luogo, età, morte) con battuta di mestiere. Pendle Bakery: già in lezione 73. borne with: sopportata.
+2. born... 1947... Edith... George... railway clerk: origine. left school at fifteen... Barlow's in York... 1968... former shoe shop: arco di formazione; Barlow's inventato. squeaked in the cellar: dettaglio sensoriale comico.
+3. forty-two years... before dawn... Market Street... becoming a day: ritmo del lavoro. white and brown... Copper Kettle... Friday tin loaf... "the Pendle": tin loaf = pan carré in stampo; legame col caffè della settimana.
+4. refused... sliced... before noon... earn its crumbs: carattere in una regola. card machine... cursed softly... coins in a saucer: registro britannico quieto; eco tip/tech della settimana senza rifare il saggio.
+5. June Mercer... 1971... books, queue, temper: moglie come lavoro condiviso. Simon and Sophie: figli. end crust as birthright: affetto domestico.
+6. allotment society... hesitant tenor... weather... eleven minutes... knees: vita civica + understatement sul corpo. celebrity chefs... ear when you tap the crust: contrasto con la fama (ponte leggero alla 76).
+7. flour on jumper... notebook... power cut... "Bread goes hard; reputations go harder": aneddoto che chiude un ritratto. not a saint... sharp with a wasted tray... parking debates: difetto ammesso; eco 74 senza rubare la storia. soft rolls... tip-jar quarrel... Lea and Ruth: continuità settimana.
+8. June died in 2019... "managing"... wide country: understatement del lutto. survived by... warm pockets... smell from the old shoe shop: formula + immagine.
+9. St Mary's... family flowers only... allotment... tool fund: disposizioni tipiche GB. bakery will close... reopen at noon: chiusura che suona come Arthur. house style... affection with a practical edge: tesi.
+10. Full name... arrangements... close that sounds like the person: spina dorsale. understates grief... overstates bread: retorica. Italian necrologi... faith or civic honour / English... craft, weather, queue: contrasto. obituary of an object... same spine: ponte al compito.
+
+ex1:
+- Arthur James Pendle, baker, of High Street, Marrowbridge, died on Thursday aged 78 after a short illness.
+  it: Arthur James Pendle, fornaio, di High Street, Marrowbridge, è morto giovedì a 78 anni dopo una breve malattia.
+- He opened Pendle Bakery in 1968 in a former shoe shop and ran it for forty-two years, shutters up before dawn.
+  it: Aprì la Pendle Bakery nel 1968 in un ex negozio di scarpe e la gestì per quarantadue anni, saracinesche alzate prima dell'alba.
+- He refused to sell sliced bread before noon, on the grounds that a morning should earn its crumbs.
+  it: Rifiutava di vendere pane a fette prima di mezzogiorno, perché una mattina doveva guadagnarsi le briciole.
+- He is survived by Simon and Sophie, by four grandchildren, and by a town that still wakes to the bakery smell.
+  it: Gli sopravvivono Simon e Sophie, quattro nipoti, e un paese che si sveglia ancora all'odore del panificio.
+- A good British obituary understates grief, admits a fault without cruelty, and closes with a line that sounds like the person.
+  it: Un buon necrologio britannico sottostima il dolore, ammette un difetto senza crudeltà, e chiude con una riga che suona come la persona.
+
+ex2:
+- He left school at fifteen and learned the [craft] at Barlow's in York.
+  it: Lasciò la scuola a quindici anni e imparò il mestiere da Barlow's a York.
+- Regulars called the Friday tin loaf "the Pendle" without needing a [sign].
+  it: I clienti abituali chiamavano il pan carré del venerdì «the Pendle» senza bisogno di un cartello.
+- He is [survived] by Simon and Sophie and by four grandchildren.
+  it: Gli sopravvivono Simon e Sophie e quattro nipoti.
+- Family [flowers] only; donations to the allotment society's tool fund.
+  it: Solo fiori di famiglia; donazioni al fondo attrezzi della società degli orti.
+- The bakery will [reopen] at noon, because he would have hated a wasted oven.
+  it: Il panificio riaprirà a mezzogiorno, perché avrebbe odiato un forno sprecato.
+
+tasks:
+- The Market Street parking ticket machine, late of bay 4, has expired aged eleven after a final disagreement with a damp £1 coin. Installed when the car park was still free after 10 a.m., it spent its working life glowing, beeping, and misreading cards with a patience councillors called "robust" and drivers called other names. It leaves behind a queue of baffled tourists, a sister machine in bay 7, and a town that must now argue in cash and headlines. No flowers; donations of correct change welcome. It will not be replaced before December, when the new £1.50-an-hour regime begins — a promotion it did not live to see.
+  task.it: Scrivi in inglese (90-130 parole) il necrologio di un oggetto (macchina, forno, ombrello, orologio del paese...). Usa la spina dorsale della lezione: che cos'era, che faceva ogni giorno, chi ci contava, un difetto, una chiusura pratica. Confronta col modello.
+  rubric.it: Si riconosce la forma del necrologio (apertura, vita lavorativa, «survivors», chiusura); c'è affetto con taglio pratico; almeno un understatement o una battuta vera; l'inglese è naturale; non è una copia del pezzo su Arthur.
+
+== 76 C2
+numeral: Lesson Seventy-Six
+title: The interview
+title.it: L'intervista
+
+dialogue:
+- Studio B, River Radio, Thursday morning. Clare Fenwick has eight minutes with television chef Gareth Bloom, in town to open a cookware pop-up beside the Market Street car park.
+  it: Studio B, River Radio, giovedì mattina. Clare Fenwick ha otto minuti con lo chef televisivo Gareth Bloom, in paese per aprire un pop-up di pentole accanto al parcheggio di Market Street.
+- Clare: Gareth, welcome. Your new series is called Honest Heat. What does honesty mean in a kitchen that also sells branded tongs?
+  it: Clare: Gareth, benvenuto. La sua nuova serie si chiama Honest Heat. Che cosa significa onestà in una cucina che vende anche pinze di marca?
+- Gareth: That is such a great question, Clare, and I think what I would say is that honesty is a journey, and tongs are part of how we share that journey with people.
+  it: Gareth: È una domanda così bella, Clare, e credo che direi che l'onestà è un viaggio, e le pinze fanno parte di come condividiamo quel viaggio con la gente.
+- Clare: Right. Will you be charging for parking when guests visit the pop-up, now that the council has voted 11–8 for £1.50 an hour from December?
+  it: Clare: Capito. Farà pagare il parcheggio quando gli ospiti verranno al pop-up, ora che il consiglio ha votato 11 a 8 per 1,50 sterline all'ora da dicembre?
+- Gareth: Look, I do not want to get into local politics. What I will say is that I have huge respect for councils, for pavements, and for anyone who has ever looked for a bay.
+  it: Gareth: Senta, non voglio entrare nella politica locale. Quello che dirò è che rispetto enormemente i consigli comunali, i marciapiedi, e chiunque abbia mai cercato uno stallo.
+- Clare: Tom Harwick at the ironmonger's says afternoon trade may go to the ring-road retail park. Do you agree?
+  it: Clare: Tom Harwick dalla ferramenta dice che il commercio del pomeriggio potrebbe andare al centro sulla circonvallazione. È d'accordo?
+- Gareth: I think there are always conversations to be had, and I am just focused on celebrating food, and celebrating Marrowbridge, which is such a special, special place.
+  it: Gareth: Credo che ci siano sempre conversazioni da fare, e io sono solo concentrato sul celebrare il cibo, e sul celebrare Marrowbridge, che è un posto così speciale, speciale.
+- Clare: Ruth Quinn at the Copper Kettle is watching the till and the pavement. Soft rolls still come from Pendle Bakery. Have you tried Arthur Pendle's Friday tin loaf?
+  it: Clare: Ruth Quinn al Copper Kettle guarda la cassa e il marciapiede. I panini soffici arrivano ancora dalla Pendle Bakery. Ha provato il pan carré del venerdì di Arthur Pendle?
+- Gareth: I have so much love for bakers, Clare. Bakers are the heartbeat. I could not possibly single out one loaf without singling out every loaf, if that makes sense.
+  it: Gareth: Ho tantissimo affetto per i fornai, Clare. I fornai sono il battito del cuore. Non potrei proprio scegliere una pagnotta senza scegliere ogni pagnotta, se ha senso.
+- Clare: Arthur died this week. The town is mourning in understatement. Does that mean anything to the man who plates honesty on television?
+  it: Clare: Arthur è morto questa settimana. Il paese fa il lutto in understatement. Conta qualcosa per l'uomo che impiatta l'onestà in televisione?
+- Gareth: My thoughts are with everyone at this difficult time, and I think what Arthur would have wanted — and I never met him, but I feel I know him — is for us to keep cooking with love.
+  it: Gareth: I miei pensieri sono con tutti in questo momento difficile, e credo che ciò che Arthur avrebbe voluto — e non l'ho mai incontrato, ma sento di conoscerlo — sia che continuiamo a cucinare con amore.
+- Clare: That is a thought for a man you did not meet. Can we try a straight answer: do you tip in British cafés?
+  it: Clare: È un pensiero per un uomo che non ha incontrato. Possiamo provare una risposta dritta: lascia la mancia nei caffè britannici?
+- Gareth: I think tipping is such a personal choice, and I would never tell anyone what to do with their journey, or their card machine, or their soup.
+  it: Gareth: Credo che la mancia sia una scelta così personale, e non direi mai a nessuno che cosa fare del proprio viaggio, o del terminale, o della zuppa.
+- Clare: Yesterday's Gazette printed the parking vote without weather words. The Daily Spur called it a grab. Which frame do you buy?
+  it: Clare: Il Gazette di ieri ha stampato il voto sul parcheggio senza parole del tempo. Il Daily Spur l'ha chiamato un colpo. Quale cornice compra?
+- Gareth: I do not buy frames, Clare. I buy ingredients. And community. And, when the time is right, possibly a whisk.
+  it: Gareth: Non compro cornici, Clare. Compro ingredienti. E comunità. E, quando è il momento, forse una frusta.
+- Clare: Is there anything you believe that would cost you a sponsor?
+  it: Clare: C'è qualcosa in cui crede che le costerebbe uno sponsor?
+- Gareth: I believe in kindness. I believe in flavour. I believe we all need to listen more, especially to ourselves, and to the vegetables.
+  it: Gareth: Credo nella gentilezza. Credo nel sapore. Credo che dobbiamo tutti ascoltare di più, soprattutto noi stessi, e le verdure.
+- Clare: The vegetables. Thank you, Gareth Bloom. Listener, that was eight minutes of interview in which the only hard fact was the existence of tongs.
+  it: Clare: Le verdure. Grazie, Gareth Bloom. Ascoltatore, sono stati otto minuti di intervista in cui l'unico fatto duro era l'esistenza delle pinze.
+- Evasion has a grammar. Hear it once and you can label the moves.
+  it: L'evasione ha una grammatica. Ascoltala una volta e puoi etichettare le mosse.
+- Praise the question ("such a great question") to buy a second for not answering.
+  it: Lodare la domanda («such a great question») per comprare un secondo senza rispondere.
+- Turn a noun into a journey, a celebration, or a conversation, so no claim has to land.
+  it: Trasformare un nome in un viaggio, una celebrazione o una conversazione, così nessuna affermazione deve atterrare.
+- Offer respect in bulk (councils, pavements, bay-seekers) instead of a yes or a no.
+  it: Offrire rispetto all'ingrosso (consigli, marciapiedi, cercatori di stalli) al posto di un sì o di un no.
+- Claim special love for a whole class (bakers, vegetables) to avoid naming a particular.
+  it: Dichiarare amore speciale per un'intera classe (fornai, verdure) per evitare di nominare un particolare.
+- Speak for the dead you never met; borrow their supposed wishes; return to love.
+  it: Parlare per i morti che non hai incontrato; prendere in prestito i loro presunti desideri; tornare all'amore.
+- Refuse frames as if newspapers were picture shops; change the subject to a whisk.
+  it: Rifiutare le cornici come se i giornali fossero negozi di cornici; cambiare discorso con una frusta.
+- End on kindness, flavour, and listening — three warm words that cannot be fact-checked in a car park.
+  it: Chiudere su gentilezza, sapore e ascolto — tre parole calde che non si possono verificare in un parcheggio.
+- The questions that should have been asked are the ones that force a number, a name, or a no.
+  it: Le domande che avrebbero dovuto essere fatte sono quelle che costringono a un numero, un nome, o un no.
+- Will the pop-up pay the £1.50 from December, or has the council granted an exemption?
+  it: Il pop-up pagherà le 1,50 sterline da dicembre, o il consiglio ha concesso un'esenzione?
+- Did you taste Pendle's Friday loaf, yes or no, before you spoke for Arthur?
+  it: Ha assaggiato il pane del venerdì di Pendle, sì o no, prima di parlare per Arthur?
+- Do you tip at the Copper Kettle when Lea brings the soup, and how much, as a percentage of the bill?
+  it: Lascia la mancia al Copper Kettle quando Lea porta la zuppa, e quanto, in percentuale sul conto?
+- Until those land, the interview is a journey with tongs: motion without arrival.
+  it: Finché quelle non atterrano, l'intervista è un viaggio con le pinze: moto senza arrivo.
+- Clare Fenwick, River Radio — and yes, the kettle in the corner is boiling for someone who will answer a question.
+  it: Clare Fenwick, River Radio — e sì, il bollitore in un angolo bolle per qualcuno che risponderà a una domanda.
+
+notes.it:
+1. River Radio... Clare Fenwick: stessa presentatrice (lezioni 69-70). Gareth Bloom... cookware pop-up... Market Street car park: celebrità inventata; legame al voto parcheggio (lezione 74). Honest Heat... branded tongs: domanda che già punta al conflitto interesse/onestà.
+2. such a great question... honesty is a journey... tongs: prima mossa evasiva (lode + metafora). huge respect for councils, pavements... bay: rispetto all'ingrosso al posto di sì/no sul £1.50 e sul 11–8.
+3. Tom Harwick... conversations to be had... celebrating Marrowbridge... special, special: rifiuto di concordare; doppio special da televendita. Ruth Quinn... Pendle... Arthur... Friday tin loaf: domande radicate nella settimana (lezioni 74-75).
+4. so much love for bakers... heartbeat... every loaf: amore di classe per evitare un nome. thoughts... difficult time... never met him, but I feel I know him... cooking with love: parlare per un morto sconosciuto; Arthur della lezione 75.
+5. tipping... personal choice... journey... card machine... soup: eco lezione 71 senza una percentuale. Gazette... Spur... grab... I do not buy frames... whisk: rifiuto del framing (lezione 74) con gioco su frame/cornice.
+6. kindness... flavour... listen... vegetables: triade calda non verificabile. only hard fact... tongs: verdetto di Clare. Evasion has a grammar: elenco delle mosse (focus della lezione).
+7. Praise the question; journey/celebration/conversation; respect in bulk: prime etichette della grammatica evasiva.
+8. Love for a class; speak for the dead; refuse frames; end on warm words: altre etichette; whisk = cambio di discorso.
+9. Questions that should have been asked... number, name, or a no: criterio del compito.
+10. £1.50... exemption; Pendle yes or no; tip... percentage: tre domande che costringono. kettle... answer a question: chiusura radiofonica.
+
+ex1:
+- Gareth Bloom called honesty a journey and said tongs were part of sharing that journey with people.
+  it: Gareth Bloom ha chiamato l'onestà un viaggio e ha detto che le pinze facevano parte di come si condivide quel viaggio con la gente.
+- Asked about the 11–8 parking vote, he offered huge respect for councils and pavements instead of a yes or a no.
+  it: Alla domanda sul voto 11 a 8 sul parcheggio, ha offerto enorme rispetto per consigli e marciapiedi al posto di un sì o di un no.
+- He spoke for Arthur Pendle, whom he had never met, and said Arthur would have wanted everyone to keep cooking with love.
+  it: Ha parlato per Arthur Pendle, che non aveva mai incontrato, e ha detto che Arthur avrebbe voluto che tutti continuassero a cucinare con amore.
+- He refused to choose between the Gazette and the Daily Spur, claiming he did not buy frames, only ingredients and possibly a whisk.
+  it: Ha rifiutato di scegliere tra Gazette e Daily Spur, affermando di non comprare cornici, solo ingredienti e forse una frusta.
+- Evasion praises the question, turns claims into journeys, and ends on kindness that cannot be fact-checked in a car park.
+  it: L'evasione loda la domanda, trasforma le affermazioni in viaggi, e chiude sulla gentilezza che non si può verificare in un parcheggio.
+
+ex2:
+- Honesty, for Gareth, is a [journey], and tongs are part of sharing it.
+  it: L'onestà, per Gareth, è un viaggio, e le pinze fanno parte di come la si condivide.
+- He had huge [respect] for councils, pavements, and anyone who has ever looked for a bay.
+  it: Aveva enorme rispetto per i consigli, i marciapiedi, e chiunque abbia mai cercato uno stallo.
+- He would never tell anyone what to do with their card [machine], or their soup.
+  it: Non direbbe mai a nessuno che cosa fare del proprio terminale, o della zuppa.
+- He does not buy [frames]; he buys ingredients and community.
+  it: Non compra cornici; compra ingredienti e comunità.
+- The only hard [fact] in the interview was the existence of tongs.
+  it: L'unico fatto duro nell'intervista era l'esistenza delle pinze.
+
+tasks:
+- 1) From December, will your Market Street pop-up pay the £1.50-an-hour charge, or do you have a written exemption from the council? 2) Did you eat a Pendle Friday tin loaf before you told River Radio what Arthur would have wanted? Yes or no. 3) At the Copper Kettle, when Lea brings the soup, do you tip, and what percentage of the bill do you leave if there is no service charge? 4) The Gazette reported the 11–8 vote without calling it a grab; the Daily Spur did. Which report matches the minutes, and will you say so on air? 5) Name one kitchen claim in Honest Heat that a sponsor has asked you not to make.
+  task.it: Scrivi in inglese (80-120 parole) le domande che Clare avrebbe dovuto fare: almeno quattro, ciascuna tale da costringere a un numero, un nome, un sì/no, o un fatto verificabile. Niente «viaggi». Confronta col modello.
+  rubric.it: Le domande sono specifiche (parcheggio, Arthur, mancia, giornali o sponsor); costringono a risposte dure; il tono è da intervista radiofonica, non da attacco personale vuoto; l'inglese è naturale; non ripetono le evasioni di Gareth come se fossero risposte.
+
+== 77 C2
+kind: revision
+numeral: Lesson Seventy-Seven
+title: Revision
+title.it: Ripasso
+
+dialogue:
+- River Radio, Friday lunchtime. Clare Fenwick opens the lines for a phone-in on one story: Market Street parking, as the Gazette, the Daily Spur, and the County Beacon framed it.
+  it: River Radio, venerdì a pranzo. Clare Fenwick apre le linee per un phone-in su una storia sola: il parcheggio di Market Street, come l'hanno inquadrato il Gazette, il Daily Spur e il County Beacon.
+  refs: 74 73
+- "Facts first," she says. "Borough Council voted 11–8 on Tuesday for £1.50 an hour at the Market Street car park from the first Monday in December. It replaces free parking after 10 a.m."
+  it: «Prima i fatti», dice. «Il consiglio comunale ha votato 11 a 8 martedì per 1,50 sterline all'ora al parcheggio di Market Street dal primo lunedì di dicembre. Sostituisce il parcheggio gratis dopo le 10.»
+  refs: 74
+- Helen Dray is on line one: the charge will fund pavement repairs on Market Street and High Street.
+  it: Helen Dray è sulla linea uno: la tariffa finanzierà riparazioni dei marciapiedi in Market Street e High Street.
+  refs: 74
+- Tom Harwick, ironmonger, is on line two: afternoon trade will slide to the free retail park on the ring road; a pavement does not buy a customer who never arrives.
+  it: Tom Harwick, ferramenta, è sulla linea due: il commercio del pomeriggio scivolerà al centro gratuito sulla circonvallazione; un marciapiede non compra un cliente che non arriva.
+  refs: 74
+- Ruth Quinn from the Copper Kettle will not cheer or mourn: she is still watching the till and the pavement.
+  it: Ruth Quinn del Copper Kettle non festeggia né piange: sta ancora guardando la cassa e il marciapiede.
+  refs: 74 71
+- A caller who has read only the Spur shouts "town-hall grab" and "stitch-up"; Clare asks him to name the vote score; he cannot.
+  it: Un ascoltatore che ha letto solo lo Spur grida «colpo del municipio» e «inciucio»; Clare gli chiede di dire il risultato del voto; non sa.
+  refs: 74 73
+- Another caller offers a slippery slope: if Market Street charges, soon every bay in Britain will, and the High Street will die.
+  it: Un altro ascoltatore offre un pendio scivoloso: se Market Street fa pagare, presto ogni stallo in Gran Bretagna lo farà, e la High Street morirà.
+  refs: 72 74
+- Clare names the move, then returns to the claim: one car park, one town, one December Monday — not a national cliff.
+  it: Clare nomina la mossa, poi torna all'affermazione: un parcheggio, un paese, un lunedì di dicembre — non un precipizio nazionale.
+  refs: 72
+- Someone quotes a headline pile — MARROWBRIDGE PARKING FEE ROW — and asks what row means; Clare: dispute, not chairs.
+  it: Qualcuno cita una pila da titolo — MARROWBRIDGE PARKING FEE ROW — e chiede che cosa voglia dire row; Clare: lite, non sedie.
+  refs: 73
+- Lea, off shift, texts the studio: tip jars and card machines are a separate argument; do not smuggle them into the parking minutes.
+  it: Lea, fuori turno, manda un messaggio in studio: barattoli delle mance e terminali sono un argomento a parte; non farli entrare di contrabbando nel verbale del parcheggio.
+  refs: 71 72
+- A regular wants both sides in one breath: charge for the pavement fund, yes; pretend the Spur's grab-and-furious weather is evidence, no.
+  it: Un abbonato vuole entrambe le parti in un solo fiato: far pagare per il fondo marciapiedi, sì; fingere che il tempo da «colpo» e «furiosi» dello Spur sia prova, no.
+  refs: 74 71
+- Clare reads Arthur Pendle's arrangements from the Gazette: soft rolls once went to the Copper Kettle; the bakery closes for the funeral and reopens at noon.
+  it: Clare legge le disposizioni di Arthur Pendle dal Gazette: i panini soffici andavano al Copper Kettle; il panificio chiude per il funerale e riapre a mezzogiorno.
+  refs: 75 74
+- A caller borrows Gareth Bloom's journey: "Parking is a conversation, and Marrowbridge is special." Clare asks for a number; the line goes quiet.
+  it: Un ascoltatore prende in prestito il viaggio di Gareth Bloom: «Il parcheggio è una conversazione, e Marrowbridge è speciale.» Clare chiede un numero; la linea tace.
+  refs: 76
+- "Evasion," she says, "praises the question and never reaches the bay."
+  it: «L'evasione», dice, «loda la domanda e non arriva mai allo stallo.»
+  refs: 76
+- On the whiteboard behind the glass: tip / fallacy / headline / frame / obituary / evasion — six tools for one week of argument and the press.
+  it: Sulla lavagna dietro il vetro: tip / fallacy / headline / frame / obituary / evasion — sei attrezzi per una settimana di argomenti e stampa.
+  refs: 71 72 73 74 75 76
+- Structure of argument, she adds: claim, evidence, concession, rebuttal, and a conclusion that may still owe the room something in coins.
+  it: Struttura dell'argomento, aggiunge: tesi, prove, concessione, replica, e una conclusione che può ancora dover qualcosa alla stanza in monete.
+  refs: 71
+- County Beacon listeners hear "finally" and "clear-eyed"; Spur listeners hear "furious" and "grab"; Gazette readers get the dull nouns first.
+  it: Gli ascoltatori del County Beacon sentono «finalmente» e «lucida»; quelli dello Spur sentono «furiosi» e «colpo»; i lettori del Gazette ricevono prima i nomi noiosi.
+  refs: 74
+- Bias, Clare repeats, is weather words doing work the 11–8 has not paid for.
+  it: Il bias, ripete Clare, sono le parole del tempo che fanno un lavoro che l'11 a 8 non ha pagato.
+  refs: 74
+- Before the news bulletin she sets the homework: argue both sides of the parking charge in about 150 words — pavement fund and lost afternoon trade — without a journey, a grab, or a vegetable.
+  it: Prima del giornale radio dà i compiti: argomenta entrambe le parti della tariffa di parcheggio in circa 150 parole — fondo marciapiedi e commercio pomeridiano perso — senza un viaggio, un colpo, o una verdura.
+  refs: 74 76 71
+- The red light fades. Outside, Market Street is still deciding whether to become a day; Pendle Bakery's shutters are already up.
+  it: La luce rossa si spegne. Fuori, Market Street sta ancora decidendo se diventare un giorno; le saracinesche della Pendle Bakery sono già alzate.
+  refs: 75 74
+
+notes.it:
+Non c'è una regola nuova. La settimana ha messo in ordine argomento e stampa: struttura del saggio, sofismi, titoli, framing, necrologio, evasione. Se due attrezzi ti sembrano lo stesso eco, guardali in tabella.
+
+1. Struttura dell'argomento (lezione 71). Tesi, prove, contro-tesi, concessione, replica, regola; twist che può ancora dover monete alla stanza (Copper Kettle, Lea).
+
+| Pezzo | Lavoro | Lezione |
+|---|---|---|
+| tip vs service charge | definizione | 71 |
+| case for / case against | due tesi | 71 |
+| concede... ghost | concessione | 71 |
+| clean conclusion → coins | twist | 71 |
+| card machine percentages | scena UK | 71 |
+
+2. Sofismi (lezione 72). Nomina la mossa, torna alla claim; esempi comici su tip jar, coda, Lea, orologio.
+
+| Sofisma | Segnale | Lezione |
+|---|---|---|
+| ad hominem | attacca chi parla | 72 |
+| straw man | bambola più debole | 72 |
+| slippery slope | precipizio inventato | 72 |
+| bandwagon / post hoc | coda o maglione | 72 |
+| red herring | orologio del paese | 72 |
+
+3. Headlinese (lezione 73). Presente per il passato; articoli caduti; pile di nomi; row = lite; pun che deve sopravvivere senza menzogna.
+
+| Attrezzo | Esempio | Lezione |
+|---|---|---|
+| present for past | COUNCIL VOTES | 73 |
+| noun pile | PARKING FEE ROW | 73 |
+| short verbs | mull, axe, bid | 73 |
+| pun with fact | BAKERS RISE | 73 |
+| no false cliff in headline | DESTROYS TOWN vietato | 73 |
+
+4. Framing e bias (lezione 74). Stessi fatti (11–8, £1.50, dicembre, after 10 a.m.); Gazette / Spur / Beacon; weather words.
+
+| Foglio | Tempo morale | Lezione |
+|---|---|---|
+| Gazette | nomi noiosi, riflettore pari | 74 |
+| Daily Spur | grab, stitch-up, furious | 74 |
+| County Beacon | finally, clear-eyed | 74 |
+| Dray / Harwick / Quinn | tre voci | 74 |
+| strip to vote and speakers | pezzo neutro | 74 |
+
+5. Necrologio (lezione 75). Forma: nome, mestiere, arco, famiglia, difetto, disposizioni, chiusura pratica; Arthur Pendle; understatement.
+
+| Pezzo | Lavoro | Lezione |
+|---|---|---|
+| full name + role first | apertura | 75 |
+| craft and queue | vita pubblica | 75 |
+| "managing" | lutto sottile | 75 |
+| reopen at noon | chiusura da persona | 75 |
+| object obituary | stessa spina dorsale | 75 |
+
+6. Evasione (lezione 76). Grammatica di Gareth Bloom; domande che costringono a numero, nome, sì/no.
+
+| Mossa | Effetto | Lezione |
+|---|---|---|
+| great question / journey | non risponde | 76 |
+| respect in bulk | niente sì/no | 76 |
+| love for a class | niente nome | 76 |
+| speak for the dead | amore preso in prestito | 76 |
+| force a number | cura anti-evasione | 76 |
+
+In ordine: struttura la tesi, nomina il sofisma, leggi il titolo, spoglia il frame, rispetta il necrologio, e fai domande che atterrano. Il phone-in chiude; Market Street continua.
+
+tasks:
+- For the charge: £1.50 an hour from the first Monday in December can fund cracked slabs on Market Street and High Street, free bays for short errands, and stop the car park doubling as a free long-stay after coffee. Helen Dray's pavement claim is concrete; a market town walks on stone as well as sentiment. Against: Tom Harwick's afternoon trade may slide to the ring-road retail park, and Ruth Quinn is right to watch the till before she cheers. A repaired pavement does not spend money in an ironmonger's that lost its regulars, and 11–8 is still a narrow win, not a sermon. Both sides share the same vote, the same sum, and the same Monday; neither needs a grab, a journey, or a vegetable. Tip the scales with evidence, not weather words — and leave the tip jar for another programme.
+  task.it: Argomenta in inglese entrambe le parti della tariffa di parcheggio di Market Street (circa 150 parole): fondo marciapiedi e commercio perso. Stessi fatti della lezione 74. Niente grab, journey, verdure. Confronta col modello.
+  rubric.it: Entrambe le parti hanno almeno una prova concreta; i numeri (11–8, £1.50, dicembre) restano giusti; niente sofismi da precipizio né evasione da chef; il registro è da phone-in serio, non da Spur; l'inglese è naturale e chiude senza slogan vuoto.

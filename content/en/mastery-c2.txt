@@ -6781,3 +6781,819 @@ tasks:
 - Phone on the table, stew still in the air. Two minutes: I say that spoken English is a joint project — um holds the floor, you know checks the room, like can soften without being lazy — then I give one kitchen example with an overlap, one well/right/so from a phone-in voice, and one unfinished "the —" that the listener can fill. I refuse a prettier past in one line, Frank-style, and I land soft: they'd have settled for that at breakfast. Playback: sense intact, fillers earned, no essay pretending to be a chat. That is the file I keep.
   task.it: Registra un parlato di circa due minuti in inglese su un attrezzo della settimana (riempitivi, segnali, ellissi, telecronaca o storia orale). Poi, in inglese (80-120 parole), di' che cosa hai messo nel file e quale take terresti. Confronta col modello.
   rubric.it: Si capisce che c'è stata una registrazione parlata; si nomina almeno un attrezzo della settimana con un esempio; il tono è da parlato, non da tema letto; c'è una scelta su quale take tenere; l'inglese è naturale.
+
+== 85 C2
+numeral: Lesson Eighty-Five
+title: Condolences
+title.it: Condoglianze
+
+dialogue:
+- A letter of condolence is not a performance of grief; it is a small room you build so someone else can sit down.
+  it: Una lettera di condoglianze non è una performance del dolore; è una stanza piccola che costruisci perché qualcun altro possa sedersi.
+- Dear Kate,
+  it: Cara Kate,
+- I was so sorry to hear about your mother.
+  it: Mi è dispiaciuto moltissimo sapere di tua madre.
+- Nora was kind to me long before I had earned it: she lent me a trowel at the allotment in my first spring, and never mentioned that I had put it back dirty.
+  it: Nora è stata gentile con me molto prima che me lo meritassi: mi prestò una paletta all'orto nella mia prima primavera, e non disse mai che l'avevo rimessa sporca.
+- I keep thinking of her hands in the compost, and of the way she said "never mind" as if the phrase itself could mend a broken stem.
+  it: Continuo a pensare alle sue mani nel compost, e al modo in cui diceva «non fa niente» come se la formula stessa potesse riparare uno stelo spezzato.
+- She will be badly missed at Plot Notes, where Len still quotes her on green tomatoes, and on High Street, where the queue somehow felt shorter when she was in it.
+  it: Ci mancherà molto a Plot Notes, dove Len la cita ancora sui pomodori verdi, e in High Street, dove la coda in qualche modo sembrava più corta quando c'era lei.
+- I know words are thin against a loss like this.
+  it: So che le parole sono sottili contro una perdita così.
+- Still, I wanted you to know that her patience, and her terrible jokes about foxes and lettuce, mattered to people who were not family and who counted on them all the same.
+  it: Però volevo che tu sapessi che la sua pazienza, e le sue battute terribili su volpi e insalata, contavano per gente che non era famiglia e che ci contava lo stesso.
+- If there is anything practical I can do — shopping, a lift to the station, an hour in the garden so the beds do not look abandoned — please say.
+  it: Se c'è qualcosa di pratico che posso fare — spesa, un passaggio alla stazione, un'ora in giardino perché le aiuole non sembrino abbandonate — dimmelo pure.
+- You do not need to answer this letter.
+  it: Non hai bisogno di rispondere a questa lettera.
+- There is no correct speed for grief, and no prize for a neat reply.
+  it: Non c'è una velocità giusta per il lutto, e nessun premio per una risposta ordinata.
+- With love, and with the quiet respect your mother taught by example,
+  it: Con affetto, e con il rispetto quieto che tua madre insegnava con l'esempio,
+- Paul Rye
+  it: Paul Rye
+- That is one British shape for sympathy: name the person, give one concrete memory, admit the thinness of words, offer a practical door, and leave the reply optional.
+  it: Questa è una forma britannica della compassione: nomina la persona, dai un ricordo concreto, ammetti la sottigliezza delle parole, offri una porta pratica, e lascia la risposta facoltativa.
+- What it refuses to do is instruct the bereaved in feeling ("she is in a better place," "at least she didn't suffer," "time heals").
+  it: Ciò che rifiuta di fare è istruire i dolenti sul sentimento («è in un posto migliore», «almeno non ha sofferto», «il tempo guarisce»).
+- Those lines often soothe the writer more than the reader; they close a door the mourner still needs open.
+  it: Quelle frasi spesso consolano chi scrive più di chi legge; chiudono una porta che chi è in lutto ha ancora bisogno di tenere aperta.
+- Compare the Italian "mi stringo a te nel dolore" or "partecipo al vostro dolore": warm formulas that share the weight without inventing theology.
+  it: Confronta l'italiano «mi stringo a te nel dolore» o «partecipo al vostro dolore»: formule calde che condividono il peso senza inventare teologia.
+- English can do the same work with "I was so sorry to hear," "thinking of you," "she will be much missed," if the memory that follows is true.
+  it: L'inglese può fare lo stesso lavoro con «I was so sorry to hear», «thinking of you», «she will be much missed», se il ricordo che segue è vero.
+- Avoid competing grief ("when my uncle died I..."), curiosity dressed as care ("was it sudden?"), and the compliment that argues with the fact ("at least she had a good innings").
+  it: Evita il dolore in competizione («quando è morto mio zio io...»), la curiosità travestita da cura («è stato improvviso?»), e il complimento che discute col fatto («almeno ha fatto una bella partita»).
+- "A good innings" can be kind among cricket people who already share the metaphor; from a stranger it can sound like a scorecard where a life should be.
+  it: «A good innings» può essere gentile tra gente di cricket che già condivide la metafora; da uno sconosciuto può suonare come un tabellino dove dovrebbe esserci una vita.
+- A card may be shorter than a letter: three lines can be enough if they are specific.
+  it: Un biglietto può essere più corto di una lettera: tre righe bastano se sono specifiche.
+- "Dear Simon — Arthur's Friday loaf still sits in my week. Thinking of you all. Helen." That is already work.
+  it: «Caro Simon — il pane del venerdì di Arthur sta ancora nella mia settimana. Sto pensando a tutti voi. Helen.» Quello è già lavoro.
+- Notice the address: dear, then the name you actually use; "Dear Mrs Reed" if you barely knew her; first names if the family and you already shared a kitchen.
+  it: Nota l'intestazione: dear, poi il nome che usi davvero; «Dear Mrs Reed» se la conoscevi a malapena; i nomi di battesimo se la famiglia e tu condividevate già una cucina.
+- Sign off with warmth that matches the bond: "Yours," "With sympathy," "With love," never a breezy "Cheers" beside a death.
+  it: Chiudi con un calore che corrisponda al legame: «Yours», «With sympathy», «With love», mai un «Cheers» disinvolto accanto a una morte.
+- The joke in Nora's foxes, kept gentle, is allowed; tact is not the same as silence about who she was.
+  it: La battuta sulle volpi di Nora, tenuta gentile, è permessa; il tatto non è la stessa cosa del silenzio su chi era.
+- What tact forbids is making the letter about your eloquence.
+  it: Ciò che il tatto vieta è fare della lettera un pezzo sulla tua eloquenza.
+- Kate need not admire your prose; she needs a chair, a true sentence, and a way to ask for help without writing an essay in return.
+  it: Kate non deve ammirare la tua prosa; le serve una sedia, una frase vera, e un modo di chiedere aiuto senza scrivere un saggio in risposta.
+- Send it soon enough that the silence has not begun to look like indifference, and late enough that you are not racing the florist for first place.
+  it: Mandala abbastanza presto perché il silenzio non cominci a sembrare indifferenza, e abbastanza tardi da non fare a gara col fioraio per il primo posto.
+- Then stop. The rest of the work is showing up with the shopping, or not showing up when quiet is the kinder gift.
+  it: Poi fermati. Il resto del lavoro è presentarsi con la spesa, o non presentarsi quando il silenzio è il dono più gentile.
+
+notes.it:
+1. small room you build... sit down: tesi; lettera = spazio, non spettacolo. Dear Kate... so sorry to hear about your mother: formula britannica di apertura; so sorry = rammarico forte, non scusa colpevole.
+2. Nora... trowel... allotment... dirty: ricordo concreto (non elenco di virtù astratte). never mind... broken stem: tratto di carattere in una frase. Plot Notes... Len... green tomatoes: ponte quieto alla 79 senza rifare il phone-in. High Street... queue... shorter: understatement di affetto civico.
+3. words are thin against a loss: ammissione onesta; thin = insufficienti, non «false». anything practical... shopping, a lift... garden: offerta concreta (GB lift = passaggio in auto). You do not need to answer: toglie il debito di risposta.
+4. no correct speed for grief: rifiuto della pedagogia del lutto. With love... quiet respect... taught by example: chiusura calibrata sul legame. Paul Rye: mittente inventato; Nora / Kate: madre e figlia inventate (Marrowbridge).
+5. British shape: name / memory / thinness / practical door / reply optional: spina dorsale. refuses... better place / at least / time heals: cliché da evitare; spesso consolano chi scrive.
+6. mi stringo a te... partecipo al vostro dolore: contrasto IT/EN su formule. I was so sorry... thinking of you... much missed: equivalenti utili se seguiti da verità.
+7. competing grief... was it sudden?... good innings: tre errori tipici. good innings: metafora cricket («bella partita» = vita lunga); ok tra chi la condivide, rischiosa da estranei.
+8. card... three lines... Arthur's Friday loaf... Helen: esempio minimo; eco di Pendle (lezione 75) come biglietto plausibile in paese. Dear Mrs Reed vs first names: registro dell'intestazione.
+9. Yours / With sympathy / With love... not Cheers: sign-off. joke in Nora's foxes... allowed: tatto ≠ cancellare la persona. not about your eloquence: avvertimento retorico.
+10. soon enough... late enough... florist: timing. showing up with the shopping... quiet is the kinder gift: dopo la lettera, i gesti.
+
+ex1:
+- A condolence letter names the person, offers one true memory, and admits that words are thin against the loss.
+  it: Una lettera di condoglianze nomina la persona, offre un ricordo vero, e ammette che le parole sono sottili contro la perdita.
+- "I was so sorry to hear" opens sympathy in British English; it is grief shared, not an admission of fault.
+  it: «I was so sorry to hear» apre la compassione in inglese britannico; è dolore condiviso, non ammissione di colpa.
+- Offer something practical — a lift, an hour in the garden — and say plainly that no reply is required.
+  it: Offri qualcosa di pratico — un passaggio, un'ora in giardino — e dì chiaramente che non serve risposta.
+- Avoid "she is in a better place" and "time heals": they often close a door the mourner still needs open.
+  it: Evita «è in un posto migliore» e «il tempo guarisce»: spesso chiudono una porta che chi è in lutto ha ancora bisogno di tenere aperta.
+- "At least she had a good innings" can sound like a scorecard unless both of you already share the cricket metaphor.
+  it: «Almeno ha fatto una bella partita» può suonare come un tabellino, a meno che entrambi non condividiate già la metafora del cricket.
+
+ex2:
+- I was so [sorry] to hear about your mother.
+  it: Mi è dispiaciuto moltissimo sapere di tua madre.
+- I know words are [thin] against a loss like this.
+  it: So che le parole sono sottili contro una perdita così.
+- You do not need to [answer] this letter.
+  it: Non hai bisogno di rispondere a questa lettera.
+- There is no correct [speed] for grief.
+  it: Non c'è una velocità giusta per il lutto.
+- Sign off with warmth that matches the bond, never a breezy "[Cheers]" beside a death.
+  it: Chiudi con un calore che corrisponda al legame, mai un «Ciao/salutoni» disinvolto accanto a una morte.
+
+tasks:
+- Dear Marcus — I was so sorry to hear about Nora. I still see her at the allotment gate, brushing soil off a carrot as if the carrot had interrupted her on purpose, and I can hear that dry "never mind" when a seedling failed. She will be much missed on High Street. Words are thin, I know; if a lift to the solicitor's or an hour turning the compost would help, say the word. No need to write back. With sympathy, Paul.
+  task.it: Scrivi in inglese (40-70 parole) un biglietto di condoglianze: nomina chi è mancato, un ricordo concreto, offerta pratica o «non serve risposta», chiusura adatta. Confronta col modello.
+  rubric.it: C'è un ricordo specifico, non solo «era una brava persona»; il tono è sobrio e caldo, non teologico; non ci sono cliché del tipo «posto migliore» / «il tempo guarisce»; l'inglese è naturale; la chiusura non è «Cheers».
+
+== 86 C2
+numeral: Lesson Eighty-Six
+title: For my teacher
+title.it: Per la mia insegnante
+
+dialogue:
+- We are here for Evelyn Marsh, who taught English at Marrowbridge Comprehensive for thirty-one years, and who would already be frowning at the length of this sentence.
+  it: Siamo qui per Evelyn Marsh, che ha insegnato inglese alla Marrowbridge Comprehensive per trentuno anni, e che starebbe già aggrottando le sopracciglia per la lunghezza di questa frase.
+- Miss Marsh — she remained Miss Marsh even to colleagues who had known her since the photocopier was a rumour — believed that a full stop was a kindness.
+  it: Miss Marsh — restò Miss Marsh anche per i colleghi che la conoscevano da quando la fotocopiatrice era una voce — credeva che il punto fosse una gentilezza.
+- She believed, equally, that a joke told without cruelty could carry a lesson farther than a sermon.
+  it: Credeva, altrettanto, che una battuta detta senza crudeltà potesse portare una lezione più lontano di un sermone.
+- I am Ben Calder. I sat in the second row in 1998, mistook "irony" for "something rude in French," and left her room able to tell the difference.
+  it: Sono Ben Calder. Sedevo in seconda fila nel 1998, scambiai «irony» per «qualcosa di maleducato in francese», e uscii dalla sua aula capace di distinguere.
+- That is the measure of a teacher: not that you admired her, but that you became slightly less of a fool under her watch.
+  it: Quella è la misura di un'insegnante: non che tu l'ammirassi, ma che diventassi un po' meno scemo sotto la sua sorveglianza.
+- Evelyn did not perform warmth. She rationed it, which made a smile in February feel like central heating.
+  it: Evelyn non recitava il calore. Lo razionava, il che faceva di un sorriso a febbraio qualcosa come il riscaldamento centrale.
+- She marked essays in green ink because red, she said, looked like a wound, and green looked like a garden with work still to do.
+  it: Correggeva i temi con inchiostro verde perché il rosso, diceva, sembrava una ferita, e il verde sembrava un giardino con ancora da lavorare.
+- She once made us rewrite a paragraph six times until the adjectives stopped apologising for themselves.
+  it: Una volta ci fece riscrivere un paragrafo sei volte finché gli aggettivi smisero di scusarsi da soli.
+- On parents' evenings she told the truth gently: "Ben can think; he must now learn to finish."
+  it: Ai colloqui con i genitori diceva la verità con delicatezza: «Ben sa pensare; ora deve imparare a finire.»
+- She loved Auden enough to read him aloud without asking whether we were "ready," and she loved the local paper enough to cut out a headline and ask what it was hiding.
+  it: Amava Auden abbastanza da leggerlo ad alta voce senza chiedere se eravamo «pronti», e amava il giornale locale abbastanza da ritagliare un titolo e chiedere che cosa nascondesse.
+- She did not care for celebrity; she cared for the quiet pupil who had the answer and no volume to give it.
+  it: Non le importava della celebrità; le importava dell'allievo quieto che aveva la risposta e non il volume per darla.
+- Colleagues will remember the mug that said "I'm not arguing, I'm explaining," which was inaccurate, because she was often arguing, and usually winning.
+  it: I colleghi ricorderanno la tazza che diceva «Non sto discutendo, sto spiegando», il che era inesatto, perché discuteva spesso, e di solito vinceva.
+- Pupils will remember the silence she could hold after a cheap laugh until the room understood that cruelty had missed its stop.
+  it: Gli allievi ricorderanno il silenzio che sapeva tenere dopo una risata meschina finché la stanza capiva che la crudeltà aveva mancato la fermata.
+- She retired in 2019, grew roses that refused to obey her, and still posted marked paragraphs back to anyone who asked, green ink and all.
+  it: Andò in pensione nel 2019, coltivò rose che rifiutavano di obbedirle, e ancora rispediva paragrafi corretti a chiunque lo chiedesse, inchiostro verde compreso.
+- Evelyn died last Thursday, aged seventy-four, after a short illness she described, in a note to the head, as "inconvenient scheduling."
+  it: Evelyn è morta giovedì scorso, a settantaquattro anni, dopo una breve malattia che descrisse, in un biglietto al preside, come «programmazione scomoda».
+- That was her understatement, and her humour, and her refusal to make a fuss even of dying.
+  it: Quello era il suo understatement, e il suo umorismo, e il suo rifiuto di fare storie anche del morire.
+- A eulogy, if it is honest, smiles without cancelling the loss.
+  it: Un elogio funebre, se è onesto, sorride senza cancellare la perdita.
+- We smile because she taught us that tone is a moral choice: you can correct without humiliating, and praise without lying.
+  it: Sorridiamo perché ci insegnò che il tono è una scelta morale: puoi correggere senza umiliare, e lodare senza mentire.
+- We do not smile because grief is fashionable, or because a funeral needs light entertainment.
+  it: Non sorridiamo perché il lutto sia di moda, o perché un funerale abbia bisogno di intrattenimento leggero.
+- The smile is a citation: this is how she sounded; this is the temperature of her room.
+  it: Il sorriso è una citazione: così suonava lei; questa era la temperatura della sua aula.
+- Italian funeral oratory often leans on dignity and public honour; this English school register leans on anecdote, a fault admitted kindly, and a joke that still tells the truth.
+  it: L'oratoria funebre italiana spesso poggia su dignità e onore pubblico; questo registro di scuola inglese poggia sull'aneddoto, un difetto ammesso con gentilezza, e una battuta che dice ancora la verità.
+- Evelyn's fault, since we are being fair, was impatience with waffle — including, I suspect, mine today.
+  it: Il difetto di Evelyn, visto che siamo equi, era l'impazienza verso il giro di parole — compreso, sospetto, il mio di oggi.
+- She would have cut this speech by a third, replaced two metaphors with one fact, and asked whether the roses needed mentioning at all.
+  it: Avrebbe tagliato questo discorso di un terzo, sostituito due metafore con un fatto, e chiesto se le rose andassero proprio nominate.
+- I mention them anyway, because they never obeyed her, and that felt like justice of a gentle kind.
+  it: Le nomino lo stesso, perché non le obbedirono mai, e quello sembrava giustizia di tipo gentile.
+- We will miss the green ink, the held silence, and the February smile.
+  it: Ci mancheranno l'inchiostro verde, il silenzio tenuto, e il sorriso di febbraio.
+- We will try, as she asked, to finish what we start.
+  it: Proveremo, come chiedeva, a finire ciò che cominciamo.
+- And if a cheap laugh starts in a classroom somewhere in this town, may someone hold the quiet the way she did, until kindness catches the bus.
+  it: E se una risata meschina parte in un'aula da qualche parte in questo paese, possa qualcuno tenere il silenzio come faceva lei, finché la gentilezza non prende l'autobus.
+- Thank you, Miss Marsh. Full stop.
+  it: Grazie, Miss Marsh. Punto.
+
+notes.it:
+1. Evelyn Marsh... Marrowbridge Comprehensive... frowning at the length: apertura da elogio con sorriso; lei come standard di stile. Miss Marsh... photocopier was a rumour: titolo restato; tratto britannico (Miss anche in età adulta). full stop was a kindness: full stop è il punto fermo britannico (period è americano); chiarezza come cura.
+2. joke... without cruelty... farther than a sermon: tesi sul sorriso nell'elogio. Ben Calder... 1998... irony: chi parla; autoironia da ex allievo. slightly less of a fool under her watch: misura concreta, non santino.
+3. rationed... February... central heating: calore raro = prezioso. green ink... wound / garden: scelta morale sul segno; contrasto con la penna rossa (lezione 83) senza polemica.
+4. rewrite... six times... adjectives stopped apologising: aneddoto di mestiere. parents' evenings... can think; must now learn to finish: verità gentile (tatto pedagogico). Auden... local paper... headline: gusti; eco soft headlinese (73).
+5. quiet pupil... no volume: priorità. mug... I'm not arguing... inaccurate: battuta che ammette un difetto con affetto. silence... cheap laugh... missed its stop: disciplina come cura, metafora da autobus/paese.
+6. retired 2019... roses... marked paragraphs: vita dopo. died... seventy-four... inconvenient scheduling: understatement da necrologio/elogio; nota al preside inventata. eulogy... smiles without cancelling the loss: focus della lezione.
+7. tone is a moral choice... correct without humiliating: lezione etica del registro. not... fashionable... light entertainment: delimita il sorriso. smile is a citation: non cabaret.
+8. Italian funeral oratory... dignity / English school... anecdote, fault, joke: contrasto. fault... impatience with waffle: difetto ammesso senza crudeltà (come 75). cut by a third: autoironia del celebrante.
+9. roses... never obeyed... gentle justice: chiusura affettuosa. green ink... held silence... February smile: triade di ricordo. finish what we start: eco del colloquio.
+10. cheap laugh... hold the quiet... kindness catches the bus: immagine finale da paese. Thank you, Miss Marsh. Full stop: chiusura che la cita nello stile (punto come gentilezza).
+
+ex1:
+- An honest eulogy can smile without cancelling the loss: the smile cites the person's tone, it does not entertain the room.
+  it: Un elogio funebre onesto può sorridere senza cancellare la perdita: il sorriso cita il tono della persona, non intrattiene la sala.
+- Miss Marsh marked in green ink because red looked like a wound and green like a garden with work still to do.
+  it: Miss Marsh correggeva in verde perché il rosso sembrava una ferita e il verde un giardino con ancora da lavorare.
+- She told parents the truth gently: Ben could think; he had to learn to finish.
+  it: Ai genitori diceva la verità con delicatezza: Ben sapeva pensare; doveva imparare a finire.
+- Her own understatement called a final illness "inconvenient scheduling."
+  it: Il suo understatement chiamò una malattia finale «programmazione scomoda».
+- Admit one fault kindly — impatience with waffle — so the portrait does not turn into a stained-glass window.
+  it: Ammetti un difetto con gentilezza — l'impazienza verso il giro di parole — così il ritratto non diventa una vetrata.
+
+ex2:
+- She believed that a full [stop] was a kindness.
+  it: Credeva che il punto fosse una gentilezza.
+- Warmth rationed made a smile in February feel like central [heating].
+  it: Il calore razionato faceva di un sorriso a febbraio qualcosa come il riscaldamento centrale.
+- She held a [silence] after a cheap laugh until the room understood.
+  it: Teneva un silenzio dopo una risata meschina finché la stanza capiva.
+- A eulogy smiles without [cancelling] the loss.
+  it: Un elogio funebre sorride senza cancellare la perdita.
+- Tone is a [moral] choice: you can correct without humiliating.
+  it: Il tono è una scelta morale: puoi correggere senza umiliare.
+
+tasks:
+- We are here for Mr Alan Crowe, who taught chemistry with a burnt sleeve and a patience that outlasted every failed titration. He did not speechify; he raised an eyebrow until the room found the error itself. I once diluted the wrong flask and he said only, "Interesting result — shall we ask why?" — which was mercy dressed as method. His fault was humming the same hymn while marking; we forgave him because the marks were fair. We will miss the eyebrow, the burnt sleeve, and the quiet that made panic look unnecessary. Thank you, sir. Full stop.
+  task.it: Scrivi in inglese (90-130 parole) un breve tributo/elogio per un insegnante o mentore (inventato o reale): un aneddoto, un sorriso che non cancella la perdita, un difetto ammesso con gentilezza, chiusura sobria. Confronta col modello.
+  rubric.it: C'è un ricordo concreto, non solo lode astratta; il sorriso/umorismo non diventa cabaret; si ammette un difetto senza crudeltà; il tono è rispettoso e caldo; l'inglese è naturale.
+
+== 87 C2
+numeral: Lesson Eighty-Seven
+title: Breaking bad news
+title.it: Dare una cattiva notizia
+
+dialogue:
+- Marrowbridge Infirmary, clinic room 3. Dr Aisha Rahman has the notes open; Martin Oakley has his coat on his knees as if he might still leave before the sentence arrives.
+  it: Marrowbridge Infirmary, ambulatorio 3. La dott.ssa Aisha Rahman ha le note aperte; Martin Oakley ha il cappotto sulle ginocchia come se potesse ancora andarsene prima che arrivi la frase.
+- Dr Rahman: Mr Oakley, thank you for coming in. I have the results of the biopsy we talked about last week.
+  it: Dott.ssa Rahman: Signor Oakley, grazie per essere venuto. Ho i risultati della biopsia di cui abbiamo parlato la settimana scorsa.
+- Martin: Right. So — is it the thing, or isn't it?
+  it: Martin: Bene. Quindi — è quella cosa, o no?
+- Dr Rahman: I'm afraid it is cancer. A form we call a lymphoma, in the lymph nodes in your chest.
+  it: Dott.ssa Rahman: Temo che sia un tumore. Una forma che chiamiamo linfoma, nei linfonodi del petto.
+- Martin: Ah.
+  it: Martin: Ah.
+- Dr Rahman: I know that is a lot to take in. Would you like me to pause, or shall I tell you what we know so far?
+  it: Dott.ssa Rahman: So che è molto da metabolizzare. Preferisce che faccia una pausa, o le dico ciò che sappiamo finora?
+- Martin: Keep going. I'll interrupt if I — if I need to.
+  it: Martin: Continui. La interrompo se — se ne ho bisogno.
+- Dr Rahman: The good news, and I do mean that carefully, is that this type often responds well to treatment. We are not talking about a diagnosis with no options.
+  it: Dott.ssa Rahman: La buona notizia, e lo dico con attenzione, è che questo tipo spesso risponde bene alle cure. Non stiamo parlando di una diagnosi senza opzioni.
+- Martin: Often. Not always.
+  it: Martin: Spesso. Non sempre.
+- Dr Rahman: Exactly. I won't promise what I can't measure. What I can say is that the scans suggest it is localised, and that gives us a clear plan to start with.
+  it: Dott.ssa Rahman: Esatto. Non prometto ciò che non posso misurare. Quello che posso dire è che le scansioni suggeriscono che sia localizzato, e questo ci dà un piano chiaro da cui partire.
+- Martin: Do I tell Elena today, or wait until you've — until it's tidier?
+  it: Martin: Lo dico a Elena oggi, o aspetto finché non avete — finché non è più ordinato?
+- Dr Rahman: Tell her today, if you can. Waiting for tidiness usually makes the secret heavier than the fact.
+  it: Dott.ssa Rahman: Glielo dica oggi, se può. Aspettare l'ordine di solito rende il segreto più pesante del fatto.
+- Martin: She'll ask if I'm dying.
+  it: Martin: Chiederà se sto morendo.
+- Dr Rahman: You can say that we are treating this with the aim of putting it into remission, and that I expect you to need months of care, not a goodbye speech.
+  it: Dott.ssa Rahman: Può dire che stiamo curando questo con l'obiettivo di metterlo in remissione, e che mi aspetto mesi di cure, non un discorso di addio.
+- Martin: Remission. That's the word that sounds like homework.
+  it: Martin: Remissione. È la parola che sembra un compito a casa.
+- Dr Rahman: It means the disease becomes undetectable for a time, sometimes for a long time. It is not the same as "cured" stamped on a form, and I won't use that stamp lightly.
+  it: Dott.ssa Rahman: Vuol dire che la malattia diventa non rilevabile per un periodo, a volte lungo. Non è la stessa cosa di «guarito» timbrato su un modulo, e quel timbro non lo uso alla leggera.
+- Martin: Why do doctors say "I'm afraid"? You didn't cause it.
+  it: Martin: Perché i medici dicono «I'm afraid»? Non l'ha causato lei.
+- Dr Rahman: It's a softening phrase. It signals that what follows will be hard to hear. In Italian you might hear "purtroppo" doing similar work before the noun arrives.
+  it: Dott.ssa Rahman: È una formula che ammorbidisce. Segnala che ciò che segue sarà duro da sentire. In italiano si può sentire «purtroppo» fare un lavoro simile prima che arrivi il nome.
+- Martin: Right. Soft coat on a hard fact.
+  it: Martin: Capito. Cappotto morbido su un fatto duro.
+- Dr Rahman: We also avoid dumping a dictionary on you in the first minute. Name the diagnosis, then the meaning for your life, then the next step. Jargon can wait for the leaflet.
+  it: Dott.ssa Rahman: Evitiamo anche di scaricarle un dizionario nel primo minuto. Dare un nome alla diagnosi, poi il significato per la sua vita, poi il passo successivo. Il gergo può aspettare il foglietto.
+- Martin: Next step.
+  it: Martin: Passo successivo.
+- Dr Rahman: I'd like to book you into the day unit next Tuesday for a fuller staging scan, and to meet the specialist nurse, Jo, who is better than I am at the practical questions — work, hair, transport, the forms that eat an afternoon.
+  it: Dott.ssa Rahman: Vorrei prenotarla nel day unit martedì prossimo per una scansione di stadiazione più completa, e farle conoscere l'infermiera specialista, Jo, che è meglio di me sulle domande pratiche — lavoro, capelli, trasporti, i moduli che mangiano un pomeriggio.
+- Martin: Will it hurt?
+  it: Martin: Farà male?
+- Dr Rahman: The scan shouldn't. Treatment later may make you tired and sick for stretches; we have medicines for that, and we will not pretend otherwise.
+  it: Dott.ssa Rahman: La scansione non dovrebbe. Le cure dopo possono farla stancare e stare male a tratti; abbiamo farmaci per quello, e non faremo finta del contrario.
+- Martin: You're very — straight.
+  it: Martin: È molto — diretta.
+- Dr Rahman: Straight without being blunt. Blunt drops the news and leaves. Straight stays in the room while you find the floor again.
+  it: Dott.ssa Rahman: Diretta senza essere brusca. Brusco lascia cadere la notizia e se ne va. Diretto resta nella stanza mentre lei ritrova il pavimento.
+- Martin: Elena's outside. Could you — if I freeze — could you help me say it once?
+  it: Martin: Elena è fuori. Potrebbe — se mi blocco — aiutarmi a dirlo una volta?
+- Dr Rahman: Of course. We'll invite her in, I'll repeat the essentials with you present, and then I'll step out so you two can have the version that isn't for my notes.
+  it: Dott.ssa Rahman: Certo. La facciamo entrare, ripeto l'essenziale con lei presente, e poi esco così potete avere la versione che non è per le mie note.
+- Martin: Thank you. I thought you'd say "try to stay positive."
+  it: Martin: Grazie. Pensavo dicesse «cerchi di restare positivo».
+- Dr Rahman: Positivity is not a treatment plan. Honesty with a next step is.
+  it: Dott.ssa Rahman: La positività non è un piano di cura. L'onestà con un passo successivo lo è.
+- Martin: Coat's still on my knees. Funny.
+  it: Martin: Il cappotto è ancora sulle ginocchia. Buffo.
+- Dr Rahman: Take your time putting it on. The corridor will wait. I'll fetch Elena.
+  it: Dott.ssa Rahman: Si prenda il tempo di indossarlo. Il corridoio aspetterà. Vado a chiamare Elena.
+- Delicate language here is not euphemism that hides the noun; it is pacing, softening, and staying.
+  it: Il linguaggio delicato qui non è eufemismo che nasconde il nome; è ritmo, ammorbidimento e restare.
+- Call the illness by its name early; then wrap the edges so the person can still hold the cup.
+  it: Chiama la malattia per nome presto; poi avvolgi i bordi così la persona può ancora tenere la tazza.
+
+notes.it:
+1. Marrowbridge Infirmary... Dr Aisha Rahman... Martin Oakley... coat on his knees: scena inventata; il cappotto = fuga ancora possibile. biopsy we talked about: continuità della cura (non scarico a freddo totale).
+2. I'm afraid it is cancer... lymphoma: I'm afraid = softeners (non colpa). Name early: niente giri lunghi prima del nome. a lot to take in... pause or shall I: offre controllo al paziente.
+3. good news... carefully... often responds: hedge onesto (often, not always). Martin: Often. Not always: il paziente corregge; il medico conferma (Exactly) invece di gonfiare.
+4. won't promise what I can't measure... localised... clear plan: promesse calibrate. Tell her today... secret heavier than the fact: consiglio tattico sul dire alla partner Elena.
+5. aim of... remission... months of care, not a goodbye speech: cornice realistica senza falso addio. Remission... not the same as cured: precisione lessicale; no stamp lightly.
+6. Why... I'm afraid?... softening phrase... purtroppo: meta-commento EN/IT. Soft coat on a hard fact: Martin riprende l'immagine. Name... meaning for your life... next step: ordine del breaking bad news.
+7. day unit... staging... specialist nurse Jo... practical questions: prossimo passo concreto (tatto = piano, non solo tono). tired and sick... not pretend otherwise: onestà sugli effetti.
+8. Straight without being blunt... stays in the room: distinzione chiave della lezione. help me say it once... invite her in... step out: sostegno senza rubare la conversazione di coppia.
+9. try to stay positive... Positivity is not a treatment plan: rifiuto del cliché. Coat's still on my knees... corridor will wait: chiusura umana, tempo concesso.
+10. Delicate language... not euphemism that hides... pacing, softening, staying: tesi. Call... by its name early... hold the cup: sintesi pratica.
+
+ex1:
+- "I'm afraid" before a diagnosis softens the blow; it does not mean the doctor caused the illness.
+  it: «I'm afraid» prima di una diagnosi ammorbidisce il colpo; non vuol dire che il medico abbia causato la malattia.
+- Name the illness early, then give its meaning for the patient's life, then the next concrete step.
+  it: Dai un nome alla malattia presto, poi il suo significato per la vita del paziente, poi il passo concreto successivo.
+- Straight talk stays in the room; blunt talk drops the news and leaves.
+  it: Il parlare diretto resta nella stanza; il parlare brusco lascia cadere la notizia e se ne va.
+- Remission means the disease becomes undetectable for a time; it is not lightly stamped as "cured."
+  it: Remissione vuol dire che la malattia diventa non rilevabile per un periodo; non si timbra alla leggera come «guarito».
+- "Stay positive" is not a treatment plan; honesty with a next step is.
+  it: «Restare positivo» non è un piano di cura; l'onestà con un passo successivo lo è.
+
+ex2:
+- I'm [afraid] it is cancer: a softening phrase before hard news.
+  it: Temo che sia un tumore: una formula che ammorbidisce prima di una notizia dura.
+- Would you like me to [pause], or shall I tell you what we know so far?
+  it: Preferisce che faccia una pausa, o le dico ciò che sappiamo finora?
+- Waiting for tidiness usually makes the [secret] heavier than the fact.
+  it: Aspettare l'ordine di solito rende il segreto più pesante del fatto.
+- Straight without being [blunt]: stay while they find the floor again.
+  it: Diretti senza essere bruschi: resta mentre ritrovano il pavimento.
+- Positivity is not a treatment [plan].
+  it: La positività non è un piano di cura.
+
+tasks:
+- Mr Oakley, the biopsy shows a lymphoma in the chest nodes. That is cancer, and I know the word is heavy. The scans suggest it is still localised, and this type often responds to treatment; I will not promise "always," only a clear plan. Next Tuesday we book a staging scan and you meet Jo, the specialist nurse, for the practical questions. You can tell Elena that we are aiming for remission over months of care, not preparing a goodbye. I can help you say it once when she comes in, then leave you together. Take your time with your coat; the corridor will wait.
+  task.it: Riscrivi in inglese (90-130 parole) la notizia di Martin in modo ancora più gentile del dialogo, senza nascondere la parola «cancer/lymphoma»: nome precoce, softeners, passo successivo, offerta di aiuto con Elena. Confronta col modello.
+  rubric.it: La diagnosi è detta chiaramente (non solo eufemismi); c'è almeno un softener (I'm afraid / I know this is a lot...); c'è un passo successivo concreto; il tono resta in stanza, non brusco; l'inglese è naturale e da medico che parla a un adulto.
+
+== 88 C2
+numeral: Lesson Eighty-Eight
+title: An apology
+title.it: Scuse
+
+dialogue:
+- Two letters left Marrowbridge on the same Tuesday; only one of them apologised.
+  it: Due lettere lasciarono Marrowbridge lo stesso martedì; solo una si scusava.
+- Dear Elena,
+  it: Cara Elena,
+- I am sorry I snapped at you in the car park after the clinic.
+  it: Mi dispiace di averti risposto male nel parcheggio dopo l'ambulatorio.
+- You asked a simple question about Tuesday's scan, and I answered as if you had invented the illness for sport.
+  it: Hai fatto una domanda semplice sulla scansione di martedì, e ho risposto come se tu avessi inventato la malattia per divertimento.
+- That was unfair, and it was frightened anger wearing a louder coat.
+  it: È stato ingiusto, ed era rabbia spaventata con un cappotto più rumoroso.
+- I should have said I was scared and asked for a minute; instead I made you the nearest wall.
+  it: Avrei dovuto dire che avevo paura e chiedere un minuto; invece ti ho resa il muro più vicino.
+- I am sorry for the words, and for the walk-away before you had finished your sentence.
+  it: Mi dispiace per le parole, e per essermene andato prima che finissi la frase.
+- I will book the lift with you for Tuesday, not past you, and I will tell Dr Rahman that you are in the room by choice, not as an audience.
+  it: Prenoterò il passaggio con te per martedì, non oltre te, e dirò alla dott.ssa Rahman che sei in stanza per scelta, non come pubblico.
+- You did nothing wrong by caring out loud.
+  it: Non hai fatto niente di male a preoccuparti ad alta voce.
+- Love, Martin
+  it: Con affetto, Martin
+- That letter names the act, owns the harm, drops the excuse as the main clause, offers a repair, and leaves Elena's dignity intact.
+  it: Quella lettera nomina l'atto, si assume il danno, lascia cadere la scusa come proposizione principale, offre una riparazione, e lascia intatta la dignità di Elena.
+- The second letter came from the hospital trust, on heavier paper.
+  it: La seconda lettera arrivò dal trust ospedaliero, su carta più pesante.
+- Dear Mr Oakley,
+  it: Gentile signor Oakley,
+- We are sorry if you were caused any inconvenience by the delay to your staging scan.
+  it: Ci dispiace se le è stato causato qualche disagio dal ritardo della sua scansione di stadiazione.
+- Please be assured that we take patient experience seriously and are committed to learning lessons going forward.
+  it: La preghiamo di avere la certezza che prendiamo sul serio l'esperienza del paziente e siamo impegnati a trarre insegnamenti in prospettiva.
+- If you wish to discuss this further, please contact PALS on the number below.
+  it: Se desidera discuterne ulteriormente, la preghiamo di contattare il PALS al numero sotto.
+- Yours sincerely, Customer Experience Team
+  it: Cordiali saluti, Customer Experience Team
+- Read it again. "Sorry if" makes the hurt conditional: perhaps you only imagined the inconvenience.
+  it: Rileggila. «Sorry if» rende il danno condizionale: forse hai solo immaginato il disagio.
+- "Were caused" hides the agent in a passive; nobody delayed anything; inconvenience occurred in the weather of the building.
+  it: «Were caused» nasconde l'agente in un passivo; nessuno ha ritardato niente; il disagio è avvenuto nel clima dell'edificio.
+- "Patient experience" and "going forward" are soft furniture; they rearrange the room without moving the chair that blocked the door.
+  it: «Patient experience» e «going forward» sono mobili morbidi; rimescolano la stanza senza spostare la sedia che bloccava la porta.
+- A real apology needs four beams: what I did, how it landed, that I regret it, what I will do now.
+  it: Una scusa vera ha bisogno di quattro travi: che cosa ho fatto, come è arrivato, che me ne dolgo, che cosa farò ora.
+- A non-apology needs fog: if, any, experience, lessons, forward, and a helpline that will reopen the fog by appointment.
+  it: Una non-scusa ha bisogno di nebbia: if, any, experience, lessons, forward, e un numero verde che riaprirà la nebbia su appuntamento.
+- Italians notice the same split: "scusa se ti ho offeso" can sound like the offence is your invention; "mi dispiace di averti parlato così" owns the verb.
+  it: Gli italiani notano la stessa spaccatura: «scusa se ti ho offeso» può suonare come se l'offesa fosse una tua invenzione; «mi dispiace di averti parlato così» si assume il verbo.
+- British workplaces love the second letter because it reduces legal heat while looking polite.
+  it: I posti di lavoro britannici amano la seconda lettera perché riduce il calore legale restando educata.
+- Politeness without ownership is etiquette, not repair.
+  it: L'educazione senza assunzione è etichetta, non riparazione.
+- Notice Martin's letter does not say "I'm sorry you felt hurt," which relocates the problem into Elena's feelings as the mistake.
+  it: Nota che la lettera di Martin non dice «mi dispiace che tu ti sia sentita ferita», che sposta il problema nei sentimenti di Elena come se fossero l'errore.
+- He apologises for snapping, for the walk-away, for making her a wall — verbs he can still reach.
+  it: Si scusa per l'azzanno verbale, per essersene andato, per averla resa un muro — verbi che può ancora raggiungere.
+- The trust's letter apologises for a weather system called inconvenience, which nobody confesses to running.
+  it: La lettera del trust si scusa per un sistema meteorologico chiamato disagio, che nessuno confessa di gestire.
+- If you must write for an institution, you can still be clear: "We delayed your scan by nine days because two lists were merged without warning. That was our failure. Here is the new date, and here is who will ring you tomorrow."
+  it: Se devi scrivere per un'istituzione, puoi comunque essere chiaro: «Abbiamo ritardato la sua scansione di nove giorni perché due liste sono state fuse senza preavviso. È stata una nostra mancanza. Ecco la nuova data, ed ecco chi la chiamerà domani.»
+- Specificity is courage in administrative English.
+  it: La specificità è coraggio nell'inglese amministrativo.
+- Martin put his letter on the kitchen table before Elena came home from work.
+  it: Martin ha messo la lettera sul tavolo della cucina prima che Elena tornasse dal lavoro.
+- The trust's letter went into the recycling, after he circled every if.
+  it: La lettera del trust è andata nel riciclo, dopo che ha cerchiato ogni if.
+- Repair began with a named verb; recycling began with a conditional.
+  it: La riparazione è cominciata con un verbo nominato; il riciclo con un condizionale.
+- On Tuesday they went to the day unit together; Jo the nurse put two chairs in the room without asking who had earned one.
+  it: Martedì sono andati al day unit insieme; Jo l'infermiera ha messo due sedie nella stanza senza chiedere chi se ne fosse guadagnata una.
+- That, too, was a kind of apology the building sometimes remembers to make.
+  it: Anche quella era una specie di scusa che l'edificio a volte si ricorda di fare.
+
+notes.it:
+1. Two letters... only one... apologised: tesi. Dear Elena... snapped... car park after the clinic: scusa vera legata alla 87 (Martin/Elena, ambulatorio). simple question... invented the illness for sport: nomina l'atto e l'effetto.
+2. unfair... frightened anger wearing a louder coat: contesto senza scusa-come-tesi (la paura spiega, non assolve). should have said... nearest wall: alternativa + danno. walk-away: secondo atto nominato.
+3. book the lift with you... not past you... in the room by choice: riparazione concreta. You did nothing wrong by caring out loud: restituisce dignità. Love, Martin: chiusura intima.
+4. Le quattro travi sono già nella frase di sintesi: atto, danno, assunzione, riparazione. trust... heavier paper: contrasto istituzionale. sorry if... inconvenience: marchio della non-scusa.
+5. Please be assured... patient experience... learning lessons going forward: formule da ufficio. PALS: Patient Advice and Liaison Service (NHS), canale reclami/aiuto. Customer Experience Team: firma senza volto.
+6. Sorry if... conditional hurt; were caused... agent hidden; soft furniture: analisi. four beams / non-apology fog: spina dorsale della lezione.
+7. scusa se ti ho offeso / mi dispiace di averti parlato così: contrasto IT. workplaces... legal heat: perché fiorisce la non-scusa. Politeness without ownership: etichetta ≠ riparazione.
+8. I'm sorry you felt hurt: falsa scusa che colpevolizza il sentimento. verbs he can still reach: regola pratica. weather system called inconvenience: immagine.
+9. institutional model with nine days... our failure... new date: come scrivere da ente senza nebbia. Specificity is courage: tesi. kitchen table / recycling... circled every if: chiusura narrativa.
+10. Repair... named verb; recycling... conditional: sintesi. day unit... Jo... two chairs: ponte alla 87; gesto come scusa dell'edificio.
+
+ex1:
+- A real apology names the act, owns the harm, and offers a repair; it does not hide behind "if."
+  it: Una scusa vera nomina l'atto, si assume il danno, e offre una riparazione; non si nasconde dietro «if».
+- "Sorry if you were caused any inconvenience" makes the hurt conditional and hides who did what.
+  it: «Ci dispiace se le è stato causato qualche disagio» rende il danno condizionale e nasconde chi ha fatto che cosa.
+- "I'm sorry you felt hurt" relocates the mistake into the other person's feelings.
+  it: «Mi dispiace che tu ti sia sentita ferita» sposta l'errore nei sentimenti dell'altra persona.
+- Martin's letter apologises for snapping and walking away, and books the next hospital visit with Elena, not past her.
+  it: La lettera di Martin si scusa per l'azzanno verbale e per essersene andato, e prenota la visita successiva con Elena, non oltre lei.
+- Specificity — nine days, merged lists, a name who will ring — is courage in administrative English.
+  it: La specificità — nove giorni, liste fuse, un nome che chiamerà — è coraggio nell'inglese amministrativo.
+
+ex2:
+- I am [sorry] I snapped at you in the car park.
+  it: Mi dispiace di averti risposto male nel parcheggio.
+- "Sorry [if]" makes the hurt conditional.
+  it: «Ci dispiace se» rende il danno condizionale.
+- A real apology needs four beams: act, harm, regret, and [repair].
+  it: Una scusa vera ha bisogno di quattro travi: atto, danno, rammarico e riparazione.
+- Do not say "I'm sorry you [felt] hurt," which blames the feeling.
+  it: Non dire «mi dispiace che tu ti sia sentita ferita», che colpevolizza il sentimento.
+- Specificity is [courage] in administrative English.
+  it: La specificità è coraggio nell'inglese amministrativo.
+
+tasks:
+- Dear Priya — I am sorry I cancelled our Saturday walk with a one-line text after you had already bought the train tickets. That was careless, and it left you holding both the cost and the silence. I should have rung, explained the clash, and offered to repay the tickets the same day. I have transferred the fare and I am free next Saturday if you still want the walk; if you don't, I understand. You did nothing wrong by being annoyed. Yours, Owen. / Dear Customer — We are sorry if any inconvenience was caused by the change to your booking. Please be assured that we take your experience seriously and are committed to learning lessons going forward. Yours sincerely, Experience Team.
+  task.it: Scrivi in inglese entrambe le versioni (90-140 parole in totale) per un'altra situazione (appuntamento mancato, messaggio duro, ritardo): (1) scusa vera con atto, danno, riparazione; (2) non-scusa con «sorry if» / passivo / «going forward». Confronta col modello.
+  rubric.it: La scusa vera nomina un verbo concreto e una riparazione; la non-scusa usa nebbia tipica (if / experience / forward); i due registri si distinguono; non si copia la clinica di Martin parola per parola; l'inglese è naturale.
+
+== 89 C2
+numeral: Lesson Eighty-Nine
+title: The reconciliation
+title.it: La riconciliazione
+
+dialogue:
+- They met on the bench outside Marrowbridge Infirmary because the café was full and neither wanted a table that looked like a negotiation.
+  it: Si incontrarono sulla panchina fuori dalla Marrowbridge Infirmary perché il bar era pieno e nessuno dei due voleva un tavolo che sembrasse una trattativa.
+- Eli Reed was early; Marcus Reed was exactly on time, which in their family had once counted as late.
+  it: Eli Reed era in anticipo; Marcus Reed era in orario preciso, cosa che in famiglia un tempo contava come ritardo.
+- Twenty years is a long time to practise not phoning.
+  it: Vent'anni sono un tempo lungo per esercitarsi a non telefonare.
+- "You look well," Eli said, which meant he had expected worse and was relieved, and also that he had no better opening.
+  it: «Hai un bell'aspetto», disse Eli, che voleva dire che si aspettava di peggio ed era sollevato, e anche che non aveva un'apertura migliore.
+- "You too," Marcus said, which meant he accepted the opening and would not inspect it.
+  it: «Anche tu», disse Marcus, che voleva dire che accettava l'apertura e non l'avrebbe ispezionata.
+- They watched an ambulance reverse as if it were a safer subject than 2006.
+  it: Guardarono un'ambulanza fare retromarcia come se fosse un argomento più sicuro del 2006.
+- "Mum would have hated this bench," Eli said. "Too little sun."
+  it: «A mamma sarebbe piaciuta poco questa panchina», disse Eli. «Troppo poco sole.»
+- Nora Reed had died in March; Paul's letter had reached Kate; the brothers had managed the funeral in shifts, like men sharing a toolbox without sharing a sentence.
+  it: Nora Reed era morta a marzo; la lettera di Paul era arrivata a Kate; i fratelli avevano gestito il funerale a turni, come uomini che condividono una cassetta degli attrezzi senza condividere una frase.
+- "She kept your postcard," Marcus said. "The one from Glasgow. In the tea tin."
+  it: «Ha tenuto la tua cartolina», disse Marcus. «Quella da Glasgow. Nella latta del tè.»
+- Eli nodded. A nod can carry a decade if both people agree not to unwrap it on the pavement.
+  it: Eli annuì. Un cenno può portare un decennio se entrambi accettano di non scartarlo sul marciapiede.
+- "I was angry," Eli said eventually. "About Dad's tools. About who got the flat's spare key. It sounds small now."
+  it: «Ero arrabbiato», disse Eli alla fine. «Per gli attrezzi di papà. Per chi ebbe la chiave di scorta dell'appartamento. Ora sembra poco.»
+- "It was small," Marcus said. "And it was the shape available for the bigger thing we didn't name."
+  it: «Era poco», disse Marcus. «Ed era la forma disponibile per la cosa più grande che non nominavamo.»
+- British reconciliation often arrives dressed as practical talk: keys, tins, benches, weather.
+  it: La riconciliazione britannica arriva spesso vestita da discorso pratico: chiavi, scatole di latta, panchine, tempo atmosferico.
+- The feeling stays in the understatement, like heat under a lid.
+  it: Il sentimento resta nell'understatement, come calore sotto un coperchio.
+- "I should have rung," Eli said.
+  it: «Avrei dovuto telefonare», disse Eli.
+- "I should have answered," Marcus said.
+  it: «Avrei dovuto rispondere», disse Marcus.
+- That was the apology without institutional paperwork: two short clauses, no if, no customer-experience fog.
+  it: Quella fu la scusa senza modulistica da ufficio: due proposizioni brevi, niente «se», niente nebbia da «esperienza del cliente».
+- A woman pushed a man in a wheelchair past them; the man held his coat on his knees the way Martin had in clinic room 3.
+  it: Una donna spinse un uomo in sedia a rotelle oltre di loro; l'uomo teneva il cappotto sulle ginocchia come Martin nell'ambulatorio 3.
+- "Strange place to mend a fence," Marcus said.
+  it: «Strano posto per riparare uno steccato», disse Marcus.
+- "The fence was mostly in our heads," Eli said. "The allotment gate still squeaks. I oiled it last week. Felt ridiculous."
+  it: «Lo steccato era soprattutto in testa», disse Eli. «Il cancello dell'orto scricchiola ancora. L'ho oliato la settimana scorsa. Mi sono sentito ridicolo.»
+- "Mum noticed squeaks," Marcus said. "And dirty trowels."
+  it: «Mamma notava gli scricchiolii», disse Marcus. «E le palette sporche.»
+- They almost smiled. Almost is a full emotion when you have rationed faces for twenty years.
+  it: Quasi sorrisero. Quasi è un'emozione intera quando hai razionato le facce per vent'anni.
+- "Kate says we should come for Sunday lunch," Eli said. "She used the word 'properly.'"
+  it: «Kate dice che dovremmo venire a pranzo domenica», disse Eli. «Ha usato la parola "per bene".»
+- "I'll bring bread," Marcus said. "You bring whatever you think is an apology salad."
+  it: «Porto il pane», disse Marcus. «Tu porta quello che pensi sia un'insalata di scuse.»
+- "Lettuce," Eli said. "Obviously."
+  it: «Insalata», disse Eli. «Ovvio.»
+- The joke was thin and necessary; it let the air back into the bench.
+  it: La battuta era sottile e necessaria; faceva rientrare l'aria nella panchina.
+- They did not hug. In their generation of Reed men, a longer look and a shared plan counted as contact.
+  it: Non si abbracciarono. Nella loro generazione di uomini Reed, uno sguardo più lungo e un piano condiviso contavano come contatto.
+- "I'm glad you texted," Marcus said.
+  it: «Mi fa piacere che tu abbia mandato il messaggio», disse Marcus.
+- "I'm glad you came," Eli said.
+  it: «Mi fa piacere che tu sia venuto», disse Eli.
+- Glad was their loudest word. It did the work Italians might put into a longer embrace of clauses.
+  it: Glad era la loro parola più alta. Faceva il lavoro che gli italiani potrebbero mettere in un abbraccio più lungo di proposizioni.
+- Inside, Nora's name was still on a form somewhere; outside, her sons agreed to oil a gate and pass bread.
+  it: Dentro, il nome di Nora era ancora su un modulo da qualche parte; fuori, i suoi figli accettarono di oliare un cancello e passarsi il pane.
+- Understatement of feeling is not emptiness; it is a cup carried carefully so nothing spills where the pavement is watching.
+  it: L'understatement del sentimento non è vuoto; è una tazza portata con cura perché non si rovesci dove il marciapiede guarda.
+- They stood up when the cold reached their hands.
+  it: Si alzarono quando il freddo arrivò alle mani.
+- "Sunday, then," Eli said.
+  it: «Domenica, allora», disse Eli.
+- "Sunday," Marcus said, and that was enough treaty for one afternoon.
+  it: «Domenica», disse Marcus, e quello fu trattato abbastanza per un pomeriggio.
+
+notes.it:
+1. bench outside... Infirmary... café full: scena; luogo lega alla 87 senza rifare la clinica. Eli Reed... Marcus Reed... exactly on time: due fratelli; tratto di famiglia. Twenty years... not phoning: premessa.
+2. You look well... You too: understatement di apertura (detto / voluto). ambulance... safer than 2006: evitamento pratico. Mum... bench... sun: Nora (lezione 85) senza melodramma.
+3. died in March... Paul's letter... Kate... funeral in shifts: continuità settimana; toolbox senza sentence = estraniazione pratica. postcard... Glasgow... tea tin: dettaglio che apre senza processo.
+4. nod... decade... not unwrap on the pavement: tatto tra fratelli. angry... Dad's tools... spare key... small now: litigio nominato in oggetti. shape available for the bigger thing: Marcus nomina l'implicito.
+5. British reconciliation... keys, tins, benches, weather: tesi. heat under a lid: understatement del feeling (focus). I should have rung / answered: scusa minima (eco della 88) senza «if».
+6. coat on his knees... Martin... room 3: eco 87. mend a fence... mostly in our heads: metafora. allotment gate... oiled... ridiculous: gesto da Nora/Paul (85). dirty trowels: eco lettera di Paul.
+7. almost smiled... Almost is a full emotion: misura del feeling. Kate... Sunday lunch... properly: la sorella. bread / apology salad / Lettuce: umorismo sottile (eco orto/phone-in) che riapre l'aria.
+8. did not hug... longer look... shared plan: contatto alla Reed. glad... loudest word: lessico ristretto = intensità. Italians... longer embrace of clauses: contrasto.
+9. Nora's name on a form... oil a gate and pass bread: chiusura pratica affettiva. Understatement... cup carried carefully... pavement watching: tesi finale.
+10. cold... hands... Sunday... enough treaty: accordo minimo, non discorso da tribunale.
+
+ex1:
+- The brothers open with "You look well" / "You too," small phrases that accept contact without inspecting it.
+  it: I fratelli aprono con «Hai un bell'aspetto» / «Anche tu», frasi piccole che accettano il contatto senza ispezionarlo.
+- Their old quarrel wore the shape of tools and a spare key; Marcus calls that the shape available for a bigger unnamed thing.
+  it: La vecchia lite indossava la forma di attrezzi e una chiave di scorta; Marcus chiama quella la forma disponibile per una cosa più grande non nominata.
+- "I should have rung" / "I should have answered" is an apology in two short clauses, with no "if."
+  it: «Avrei dovuto telefonare» / «Avrei dovuto rispondere» è una scusa in due proposizioni brevi, senza «if».
+- British reconciliation often talks keys, benches, and bread while the feeling stays under the lid.
+  it: La riconciliazione britannica parla spesso di chiavi, panchine e pane mentre il sentimento resta sotto il coperchio.
+- "Glad" is their loudest word; a shared Sunday plan counts as contact where a hug might not arrive.
+  it: «Glad» è la loro parola più alta; un piano condiviso per domenica conta come contatto dove un abbraccio potrebbe non arrivare.
+
+ex2:
+- "You look [well]," Eli said, which meant relief more than fashion.
+  it: «Hai un bell'aspetto», disse Eli, che voleva dire sollievo più che moda.
+- The feeling stays in the [understatement], like heat under a lid.
+  it: Il sentimento resta nell'understatement, come calore sotto un coperchio.
+- "I should have [rung]," Eli said. "I should have answered," Marcus said.
+  it: «Avrei dovuto telefonare», disse Eli. «Avrei dovuto rispondere», disse Marcus.
+- They did not hug; a longer look and a shared [plan] counted as contact.
+  it: Non si abbracciarono; uno sguardo più lungo e un piano condiviso contavano come contatto.
+- "Sunday," Marcus said, and that was enough [treaty] for one afternoon.
+  it: «Domenica», disse Marcus, e quello fu trattato abbastanza per un pomeriggio.
+
+tasks:
+- Eli: Marcus — the gate squeaks and I oiled it thinking of Mum's face when metal complained. I was wrong about the key, and wronger about the silence. Sunday at Kate's; I'll bring lettuce and try to finish sentences. Eli. / Marcus: Eli — I kept the Glasgow postcard in the tin because throwing it away felt like winning a stupid match. I'll bring bread. Glad you texted. Marcus.
+  task.it: Scrivi in inglese (90-130 parole) le due lettere brevi che Eli e Marcus avrebbero potuto mandarsi dopo la panchina: understatement, oggetti concreti, un piano, niente melodramma. Confronta col modello.
+  rubric.it: Entrambe le voci hanno un oggetto concreto (cancello, cartolina, pane...); il sentimento è sottotono, non da telenovela; c'è un passo successivo (domenica / pranzo); l'inglese è naturale; non si risolve tutto con un discorso morale lungo.
+
+== 90 C2
+numeral: Lesson Ninety
+title: Farewell to a colleague
+title.it: Addio a una collega
+
+dialogue:
+- Marrowbridge Library, staff room, Friday afternoon. Cake from Pendle Bakery; paper cups; Greg Vale clearing his throat as if the room were a larger audience than eight people and a retiring librarian.
+  it: Biblioteca di Marrowbridge, sala del personale, venerdì pomeriggio. Torta dalla Pendle Bakery; bicchieri di carta; Greg Vale si schiarisce la gola come se la stanza fosse un pubblico più grande di otto persone e una bibliotecaria che va in pensione.
+- Colleagues, we are here to say thank you to Diane Holt, who has kept this library standing — sometimes literally, when the fiction shelf leaned — for twenty-six years.
+  it: Colleghi, siamo qui per dire grazie a Diane Holt, che ha tenuto in piedi questa biblioteca — a volte alla lettera, quando lo scaffale di narrativa pendeva — per ventisei anni.
+- Diane arrived when the catalogue was still a set of drawers that stuck in February, and she leaves us with a search bar that only sticks metaphorically.
+  it: Diane arrivò quando il catalogo era ancora un insieme di cassetti che si bloccavano a febbraio, e ci lascia con una barra di ricerca che si blocca solo in senso metaforico.
+- She taught three generations of children that silence is a tool, not a punishment, and she taught adults that overdue fines are a conversation, not a trial.
+  it: Ha insegnato a tre generazioni di bambini che il silenzio è uno strumento, non una punizione, e agli adulti che le multe per i ritardi sono una conversazione, non un processo.
+- If you have ever left with the right book and the wrong one you also needed, that was Diane pretending not to notice your second choice under the first.
+  it: Se siete mai usciti con il libro giusto e quello sbagliato che vi serviva lo stesso, era Diane che faceva finta di non notare la seconda scelta sotto la prima.
+- Warmth in a farewell speech is specific. Abstract praise cools in the cup; a remembered habit stays hot.
+  it: Il calore in un discorso di addio è specifico. La lode astratta si raffredda nella tazza; un'abitudine ricordata resta calda.
+- Diane's habits included arriving early, watering the sad fern by the returns desk, and knowing which regular wanted the large-print crime without being asked.
+  it: Tra le abitudini di Diane c'erano arrivare presto, annaffiare la felce triste al bancone dei resi, e sapere quale abituale voleva il giallo a stampa grande senza che glielo si chiedesse.
+- Her humour was dry enough to qualify as a fire precaution: when the roof leaked onto Local History, she said the town was finally taking an interest in itself.
+  it: Il suo umorismo era abbastanza asciutto da valere come precauzione antincendio: quando il tetto perse sulla Storia locale, disse che il paese finalmente si interessava a sé stesso.
+- We will miss that humour, and we will miss the way she said "we'll manage" in the same voice Arthur Pendle used about ovens and grief — a wide country in two words.
+  it: Ci mancherà quell'umorismo, e ci mancherà il modo in cui diceva «we'll manage» con la stessa voce che Arthur Pendle usava per forni e lutto — un paese largo in due parole.
+- A retirement speech walks a line: enough affection to be true, enough lightness that nobody has to cry into the icing before the tea is poured.
+  it: Un discorso di pensione cammina su una linea: abbastanza affetto da essere vero, abbastanza leggerezza perché nessuno debba piangere sulla glassa prima che sia versato il tè.
+- It is not a eulogy. Diane is here, eating cake with the caution of a woman who has seen what buttercream does to book jackets.
+  it: Non è un elogio funebre. Diane è qui, mangia la torta con la cautela di chi ha visto che cosa fa la crema al burro alle copertine.
+- So we joke, gently, about the fern, the drawers, the leak, and we mean: you made the room kinder.
+  it: Quindi scherziamo, con delicatezza, sulla felce, i cassetti, la perdita, e intendiamo: hai reso la stanza più gentile.
+- Diane never mistook the library for a shrine. She mistook it, usefully, for a kitchen table where strangers could borrow time.
+  it: Diane non ha scambiato la biblioteca per un santuario. L'ha scambiata, utilmente, per un tavolo di cucina dove gli sconosciuti potevano prendere in prestito del tempo.
+- She helped Kate Reed find gardening books after Nora died, without asking for the story, which is a form of tact libraries practise daily.
+  it: Ha aiutato Kate Reed a trovare libri di giardinaggio dopo la morte di Nora, senza chiedere la storia, forma di tatto che le biblioteche praticano ogni giorno.
+- She reserved large-print for Frank Hargreaves before he admitted his eyes had opinions, and she never said "I told you so" when he came back for the sequel.
+  it: Ha riservato la stampa grande per Frank Hargreaves prima che ammettesse che i suoi occhi avevano opinioni, e non ha mai detto «te l'avevo detto» quando tornò per il seguito.
+- That is the work: small mercies stacked until they look like a career.
+  it: Quello è il lavoro: piccole misericordie impilate finché sembrano una carriera.
+- Diane, we have a card that everyone signed, including the fern, metaphorically, and a voucher for a garden centre because your roses, like Miss Marsh's, may need negotiating with.
+  it: Diane, abbiamo un biglietto firmato da tutti, felce compresa in senso metaforico, e un buono per un garden centre perché le tue rose, come quelle di Miss Marsh, potrebbero aver bisogno di trattative.
+- We also have the promise — unofficial, but filed under "binding" in my head — that you may return as a reader and not be asked to fix the printer.
+  it: Abbiamo anche la promessa — non ufficiale, ma archiviata sotto «vincolante» nella mia testa — che puoi tornare come lettrice e non ti sarà chiesto di riparare la stampante.
+- Thank you for the early keys, the quiet, the jokes that did not cut, and the fines that turned into conversations.
+  it: Grazie per le chiavi del mattino, il silenzio, le battute che non tagliavano, e le multe diventate conversazioni.
+- The shelf will lean again. We will prop it. We will manage.
+  it: Lo scaffale penderà di nuovo. Lo puntelleremo. Ce la caveremo.
+- Please raise your paper cups — carefully, Local History is underneath — to Diane Holt.
+  it: Alzate i bicchieri di carta — con cautela, sotto c'è Local History — a Diane Holt.
+- Diane: Thank you. I'll miss the fern more than the meetings. And Greg, the catalogue drawers stuck in March as well. February was just when you noticed.
+  it: Diane: Grazie. Mi mancherà la felce più delle riunioni. E Greg, i cassetti del catalogo si bloccavano anche a marzo. Febbraio era solo quando te ne accorgevi.
+- That last correction is the guest of honour reclaiming the microphone for one accurate detail — warmth with a factual edge.
+  it: Quell'ultima correzione è l'ospite d'onore che riprende il microfono per un dettaglio accurato — calore con un taglio fattuale.
+- Farewell speeches fail when they become CV readings or when the jokes forget the person is still in the room.
+  it: I discorsi di addio falliscono quando diventano letture di curriculum o quando le battute dimenticano che la persona è ancora nella stanza.
+- They succeed when the room recognises itself: yes, that fern; yes, that voice; yes, we were lucky.
+  it: Riescono quando la stanza riconosce sé stessa: sì, quella felce; sì, quella voce; sì, siamo stati fortunati.
+- Go well, Diane. The search bar will stick without you; the kindness need not.
+  it: Buona strada, Diane. La barra di ricerca si bloccherà senza di te; la gentilezza non deve.
+- Applause, brief; cake; someone quietly waters the fern while pretending to look for a napkin.
+  it: Applausi, brevi; torta; qualcuno annaffia in silenzio la felce fingendo di cercare un tovagliolo.
+- That is how a British staff room says love without using the word.
+  it: È così che una sala del personale britannica dice amore senza usare la parola.
+
+notes.it:
+1. Marrowbridge Library... Diane Holt... Greg Vale... Pendle Bakery cake: discorso inventato; torta locale. kept this library standing... fiction shelf leaned: affetto + battuta pratica.
+2. catalogue... drawers... February... search bar: arco di carriera in oggetti. silence... tool not punishment; overdue fines... conversation not trial: etica del posto (tatto quotidiano).
+3. right book and the wrong one... pretending not to notice: aneddoto caldo. Warmth... specific... abstract praise cools: tesi sul discorso di addio.
+4. early... sad fern... large-print crime: abitudini nominate. dry... fire precaution... roof leaked... town taking an interest: umorismo da farewell. we'll manage... Arthur Pendle... wide country: eco necrologio (75) sulla formula.
+5. walks a line... affection... lightness... icing: non è elogio funebre. Diane is here... buttercream... book jackets: lei presente (distinzione dalla 86). joke gently... mean: you made the room kinder: implicatura.
+6. kitchen table where strangers could borrow time: metafora. Kate Reed... gardening books after Nora: ponte 85, tatto = non chiedere la storia. Frank Hargreaves... large-print: ponte 82, misericordia piccola.
+7. small mercies stacked... career: sintesi. card... fern... garden centre... Miss Marsh's roses: ponte 86, dono pratico. return as a reader... not... fix the printer: confine gentile.
+8. Thank you for... The shelf will lean... We will manage: chiusura del celebrante. Raise... Local History underneath: battuta di sala. Diane's reply... March as well: ospite corregge (calore + fatto).
+9. fail... CV... jokes forget the person; succeed... room recognises itself: criteri. Go well... kindness need not: augurio.
+10. Applause... waters the fern... napkin: gesto = love without the word. British staff room: understatement affettivo da ufficio/biblioteca.
+
+ex1:
+- A farewell speech needs specific habits — a fern, a stuck drawer — because abstract praise cools in the cup.
+  it: Un discorso di addio ha bisogno di abitudini specifiche — una felce, un cassetto bloccato — perché la lode astratta si raffredda nella tazza.
+- It is not a eulogy: the person is in the room, so jokes stay gentle and accurate.
+  it: Non è un elogio funebre: la persona è nella stanza, quindi le battute restano gentili e accurate.
+- Diane's "we'll manage" held a wide country in two words, the way understatement often carries feeling at work.
+  it: Il «we'll manage» di Diane teneva un paese largo in due parole, come l'understatement spesso porta il sentimento al lavoro.
+- Helping Kate find gardening books without asking for the story is everyday library tact.
+  it: Aiutare Kate a trovare libri di giardinaggio senza chiedere la storia è tatto quotidiano da biblioteca.
+- A British staff room may say love by watering the fern while pretending to look for a napkin.
+  it: Una sala del personale britannica può dire amore annaffiando la felce fingendo di cercare un tovagliolo.
+
+ex2:
+- Warmth in a farewell speech is [specific]; abstract praise cools.
+  it: Il calore in un discorso di addio è specifico; la lode astratta si raffredda.
+- Overdue fines were a [conversation], not a trial.
+  it: Le multe per i ritardi erano una conversazione, non un processo.
+- A retirement speech is not a [eulogy]: the guest of honour is still eating cake.
+  it: Un discorso di pensione non è un elogio funebre: l'ospite d'onore sta ancora mangiando la torta.
+- Small [mercies] stacked until they look like a career.
+  it: Piccole misericordie impilate finché sembrano una carriera.
+- That is how a staff room says [love] without using the word.
+  it: È così che una sala del personale dice amore senza usare la parola.
+
+tasks:
+- Sam — twenty minutes won't cover your eight years on the wards, so I'll keep to what the day unit will notice on Monday: you learned every patient's bus route, you translated consultant fog into next steps, and you once found a second chair without making a speech about dignity. Your humour stayed on the kind side of the knife. We'll miss the early handover notes and the way you said "we'll manage" when the list looked impossible. Cake in the kitchen; card by the kettle; printer still broken, so don't fix it on your way out. Go well.
+  task.it: Scrivi in inglese (90-130 parole) un messaggio o mini-discorso di addio per un collega che lascia (pensione o altro lavoro): calore specifico, un po' di umorismo gentile, niente curriculum freddo. Confronta col modello.
+  rubric.it: C'è almeno un dettaglio concreto della persona; l'umorismo non è crudele; il tono è caldo e da luogo di lavoro britannico; non è un necrologio; l'inglese è naturale.
+
+== 91 C2
+kind: revision
+numeral: Lesson Ninety-One
+title: Revision
+title.it: Ripasso
+
+dialogue:
+- Tuesday, Marrowbridge Infirmary, day unit. Elena sits beside Martin Oakley; his coat is on the chair, not on his knees. Jo the nurse has already put two cups where two people can reach them.
+  it: Martedì, Marrowbridge Infirmary, day unit. Elena siede accanto a Martin Oakley; il cappotto è sulla sedia, non sulle ginocchia. Jo l'infermiera ha già messo due tazze dove due persone possono raggiungerle.
+  refs: 87 88
+- Dr Rahman stops by: "The staging scan is next. I know that is a lot; we can pause, or I can say the next step in one sentence."
+  it: La dott.ssa Rahman passa: «La scansione di stadiazione è la prossima. So che è molto; possiamo fare una pausa, o posso dire il passo successivo in una frase.»
+  refs: 87
+- Martin: "One sentence. I'm afraid I'm getting used to 'I'm afraid.'"
+  it: Martin: «Una frase. Temo di abituarmi a "temo".»
+  refs: 87
+- In the corridor Kate Reed carries a tote from the library: gardening books Diane Holt reserved without asking for the story.
+  it: In corridoio Kate Reed porta una borsa della biblioteca: libri di giardinaggio che Diane Holt ha riservato senza chiedere la storia.
+  refs: 90 85
+- Paul Rye has left a note at the nurses' station for Kate: sorry about Nora; trowel memory; shopping offer; no need to answer.
+  it: Paul Rye ha lasciato un biglietto al bancone degli infermieri per Kate: dispiaciuto per Nora; ricordo della paletta; offerta di spesa; non serve rispondere.
+  refs: 85
+- Kate reads it once, folds it, and does not draft a neat reply. There is no correct speed for that either.
+  it: Kate lo legge una volta, lo piega, e non abbozza una risposta ordinata. Non c'è una velocità giusta neanche per quello.
+  refs: 85
+- Eli and Marcus Reed wait on the same cold bench as before; Sunday lunch is still the treaty, bread and lettuce still the joke.
+  it: Eli e Marcus Reed aspettano sulla stessa panchina fredda di prima; il pranzo di domenica è ancora il trattato, pane e insalata ancora la battuta.
+  refs: 89
+- Eli: "You look well." Marcus: "You too." The ambulance is quieter today; 2006 can stay parked.
+  it: Eli: «Hai un bell'aspetto.» Marcus: «Anche tu.» L'ambulanza oggi è più quieta; il 2006 può restare parcheggiato.
+  refs: 89
+- Ben Calder, visiting an uncle two wards along, sees the brothers and almost says Miss Marsh would have cut their small talk by a third — then doesn't, because they are not a speech.
+  it: Ben Calder, in visita a uno zio due reparti più in là, vede i fratelli e quasi dice che Miss Marsh avrebbe tagliato le loro chiacchiere di un terzo — poi non lo dice, perché non sono un discorso.
+  refs: 86 89
+- Inside, Martin hands Elena a folded page: the real apology about the car park, verbs named, lift booked with her, not past her.
+  it: Dentro, Martin porge a Elena un foglio piegato: la scusa vera sul parcheggio, verbi nominati, passaggio prenotato con lei, non oltre lei.
+  refs: 88
+- The trust's heavier letter stays in his bag, every if already circled for recycling later.
+  it: La lettera più pesante del trust resta nella borsa, ogni «se» già cerchiato per il riciclo più tardi.
+  refs: 88
+- Elena: "You did nothing wrong by being scared. Snapping was the bit that needed the letter."
+  it: Elena: «Non hai fatto niente di male ad avere paura. Rispondermi male era la parte che aveva bisogno della lettera.»
+  refs: 88
+- Jo: "Specialist nurse questions when you're ready — work, transport, hair, the forms. Straight, not blunt."
+  it: Jo: «Domande da infermiera specialista quando siete pronti — lavoro, trasporti, capelli, i moduli. Dirette, non brusche.»
+  refs: 87
+- Martin almost asks if positivity is required; he remembers it is not a treatment plan.
+  it: Martin quasi chiede se sia richiesta la positività; ricorda che non è un piano di cura.
+  refs: 87
+- Kate ducks in only long enough to leave the gardening books for a neighbour on the ward; she nods at Elena the way libraries nod: present, not prying.
+  it: Kate entra solo il tempo di lasciare i libri di giardinaggio per una vicina nel reparto; fa un cenno a Elena come fanno cenno le biblioteche: presenti, non ficcanaso.
+  refs: 90 85
+- From the staff kitchen down the hall comes the rumour of cake and paper cups: someone is retiring from admin, and a short speech is naming a stuck drawer instead of reading a CV.
+  it: Dalla cucina del personale in fondo al corridoio arriva la voce di torta e bicchieri di carta: qualcuno va in pensione dall'amministrazione, e un breve discorso nomina un cassetto bloccato invece di leggere un curriculum.
+  refs: 90
+- Greg's voice, borrowed for the afternoon: warmth is specific; the person is still in the room; manage, quietly.
+  it: La voce di Greg, in prestito per il pomeriggio: il calore è specifico; la persona è ancora nella stanza; ce la caviamo, piano.
+  refs: 90
+- Ben, passing again, offers the day unit a smile that cites without cancelling: Miss Marsh's February heating, not light entertainment.
+  it: Ben, ripassando, offre al day unit un sorriso che cita senza cancellare: il riscaldamento di febbraio di Miss Marsh, non intrattenimento leggero.
+  refs: 86
+- Marcus texts Kate: gate oiled; Sunday still on; glad. Three short pieces that do an Italian paragraph's work.
+  it: Marcus manda un messaggio a Kate: cancello oliato; domenica confermata; contento. Tre pezzi brevi che fanno il lavoro di un paragrafo italiano.
+  refs: 89
+- Paul appears with a carrier bag of shopping he leaves at the nurses' station for Kate; practical door, no eloquence contest.
+  it: Paul compare con una borsa della spesa che lascia al bancone degli infermieri per Kate; porta pratica, niente gara di eloquenza.
+  refs: 85
+- Dr Rahman, at the door: "Remission is the aim; months of care, not a goodbye speech. Elena, you're here by choice."
+  it: La dott.ssa Rahman, sulla porta: «La remissione è l'obiettivo; mesi di cure, non un discorso di addio. Elena, è qui per scelta.»
+  refs: 87 88
+- Martin puts on the coat properly this time. The corridor can wait; so can the understatement that will tell friends he is "managing."
+  it: Martin indossa il cappotto per bene questa volta. Il corridoio può aspettare; così può l'understatement che dirà agli amici che «si arrangia».
+  refs: 87
+- Six tools on the week's whiteboard: condolence shape, eulogy smile, delicate diagnosis talk, real apology versus fog, understated reconciliation, farewell warmth.
+  it: Sei attrezzi sulla lavagna della settimana: forma delle condoglianze, sorriso da elogio, discorso delicato di diagnosi, scusa vera contro nebbia, riconciliazione sottotono, calore da addio.
+  refs: 85 86 87 88 89 90
+- The day unit keeps its voices low. Outside, the bench holds two brothers and enough treaty for one afternoon.
+  it: Il day unit tiene le voci basse. Fuori, la panchina tiene due fratelli e trattato abbastanza per un pomeriggio.
+  refs: 89
+- Inside, tact is the cup still full: named facts, soft edges, a next step, and no prize for a neat performance of feeling.
+  it: Dentro, il tatto è la tazza ancora piena: fatti nominati, bordi morbidi, un passo successivo, e nessun premio per una performance ordinata del sentimento.
+  refs: 85 87 88
+
+notes.it:
+Non c'è una regola nuova. La settimana ha messo in ordine il tatto e il sentimento: condoglianze, elogio con sorriso, cattive notizie, scuse vere e false, riconciliazione sottotono, addio a un collega. Se due attrezzi ti sembrano lo stesso calore, guardali in tabella.
+
+1. Condoglianze (lezione 85). Nome, ricordo concreto, parole sottili, porta pratica, risposta facoltativa; niente «posto migliore».
+
+| Mossa | Effetto | Lezione |
+|---|---|---|
+| so sorry to hear | apre senza colpa | 85 |
+| concrete memory | persona, non santino | 85 |
+| words are thin | onestà | 85 |
+| practical offer | aiuto senza saggio | 85 |
+| no need to answer | toglie il debito | 85 |
+
+2. Elogio con sorriso (lezione 86). Cita il tono della persona; ammette un difetto; non è cabaret; punto come gentilezza.
+
+| Pezzo | Lavoro | Lezione |
+|---|---|---|
+| anecdote | misura dell'insegnante | 86 |
+| smile as citation | calore senza cancellare | 86 |
+| fault kindly | ritratto equo | 86 |
+| green ink / silence | etica del tono | 86 |
+| Full stop | chiusura nel suo stile | 86 |
+
+3. Cattive notizie (lezione 87). Nome precoce; I'm afraid; pausa offerta; diretto ≠ brusco; positività ≠ piano.
+
+| Attrezzo | Funzione | Lezione |
+|---|---|---|
+| I'm afraid | softener | 87 |
+| name early | niente nebbia lunga | 87 |
+| pause or next step | controllo al paziente | 87 |
+| straight not blunt | restare nella stanza | 87 |
+| remission / next Tuesday | cornice + piano | 87 |
+
+4. Scuse (lezione 88). Quattro travi contro «sorry if», passivo, going forward.
+
+| Vera | Non-scusa | Lezione |
+|---|---|---|
+| nomina il verbo | sorry if | 88 |
+| assume il danno | were caused | 88 |
+| riparazione | lessons going forward | 88 |
+| dignità dell'altro | helpline fog | 88 |
+
+5. Riconciliazione sottotono (lezione 89). You look well; oggetti al posto del processo; glad come parola alta; Sunday come trattato.
+
+| Forma | Effetto | Lezione |
+|---|---|---|
+| You look well / You too | contatto senza ispezione | 89 |
+| keys / tin / bench | feeling sotto il coperchio | 89 |
+| should have rung / answered | scusa minima | 89 |
+| glad / Sunday | intensità ristretta | 89 |
+
+6. Addio al collega (lezione 90). Calore specifico; umorismo gentile; non è elogio funebre; amore senza la parola.
+
+| Mossa | Effetto | Lezione |
+|---|---|---|
+| fern / drawers / leak | lode che resta calda | 90 |
+| person still in room | battute accurate | 90 |
+| we'll manage | understatement da lavoro | 90 |
+| water the fern | love senza dirlo | 90 |
+
+In ordine: offri una stanza con un ricordo vero, cita con un sorriso onesto, nomina la notizia e resta, scusati con i verbi, ripara lo steccato a bassa voce, e saluta con una felce. Il corridoio aspetta; la tazza resta piena.
+
+tasks:
+- Martin — thinking of you both. Words are thin, I know; the day unit sounds as if it has a next step, which is more use than a pep talk. If a lift to Tuesday's slot or an hour of quiet shopping would help, say. No neat reply needed. You look well in Elena's updates, which I take as Reed-bench English for "managing with company." Glad the coat is on the chair. Paul.
+  task.it: Scrivi in inglese (70-110 parole) un messaggio di sostegno a Martin ed Elena (o a un'altra persona in cura): tatto della settimana (ricordo o offerta pratica, niente cliché da «stai positivo», forse un understatement caldo). Confronta col modello.
+  rubric.it: C'è sostegno concreto o una porta pratica; non ci sono «posto migliore» / «stai positivo» come piano; il tono è sobrio e caldo; l'inglese è naturale; non si riscrive la diagnosi per intero.

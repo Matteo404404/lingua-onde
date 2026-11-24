@@ -125,6 +125,7 @@ pub fn parse(src: &str) -> Result<Appendix, String> {
 const BUILTIN: &[&str] = &[
     include_str!("../content/en/appendix-foundation.it.txt"),
     include_str!("../content/en/appendix-perfectionnement.it.txt"),
+    include_str!("../content/en/appendix-mastery.it.txt"),
 ];
 
 pub fn builtin() -> Vec<Appendix> {

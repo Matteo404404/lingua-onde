@@ -5,3 +5,912 @@ name: English – Mastery (C1 → C2)
 name.it: Inglese – Padronanza (C1 → C2)
 name.en: English – Mastery (C1 → C2)
 name.es: Inglés – Maestría (C1 → C2)
+
+== 1 C1
+numeral: Lesson One
+title: How are you, really?
+title.it: Come stai, davvero?
+
+dialogue:
+- There is a question the British ask several times a day, and almost nobody wants the answer.
+  it: C'è una domanda che i britannici fanno più volte al giorno, e quasi nessuno vuole la risposta.
+- "How are you?" is not, in the ordinary run of things, a request for information.
+  it: «How are you?» non è, nel corso ordinario delle cose, una richiesta di informazioni.
+- It is a small door held open, long enough for you to say that you are well and to hold the door in return.
+  it: È una porticina tenuta aperta, quel tanto che basta perché tu dica che stai bene e tenga la porta a tua volta.
+- The expected reply is short, cheerful and untrue, or at least incomplete.
+  it: La risposta che ci si aspetta è breve, allegra e non vera, o quanto meno incompleta.
+- "Fine, thanks" will do.
+  it: «Bene, grazie» basta.
+- "Not bad" will do better, if you wish to sound as if you have lived here.
+  it: «Non male» funziona meglio, se vuoi sembrare uno che ha vissuto qui.
+- "Mustn't grumble" will do if you are over sixty and standing in a queue.
+  it: «Non bisogna brontolare» basta se hai più di sessant'anni e sei in coda.
+- What will not do, at the bus stop, is the story of your knee.
+  it: Quello che non va bene, alla fermata dell'autobus, è la storia del tuo ginocchio.
+- I learned this the hard way, which is the British way of saying that I once answered honestly.
+  it: L'ho imparato a mie spese (per la via dura), che è il modo britannico di dire che una volta ho risposto con sincerità.
+- A neighbour I barely knew asked how I was, and I told her about the boiler, the dentist and a cousin who had stopped speaking to me.
+  it: Una vicina che conoscevo appena mi ha chiesto come stavo, e le ho raccontato della caldaia, del dentista e di una cugina che non mi rivolgeva più la parola.
+- She said "Oh dear", took half a step back, and remembered that she had left the oven on.
+  it: Ha detto «oh, cielo», ha fatto mezzo passo indietro e si è ricordata di avere lasciato il forno acceso.
+- The oven, I later decided, had been fine all along.
+  it: Il forno, ho deciso più tardi, era stato a posto fin dall'inizio.
+- The question had been phatic, a word linguists use for talk whose job is to keep the channel open rather than to carry news.
+  it: La domanda era stata fatica (phatic): è la parola che i linguisti usano per il parlato il cui lavoro è tenere aperto il canale, piuttosto che portare notizie.
+- Italian has the same habit.
+  it: L'italiano ha la stessa abitudine.
+- "Come stai?" in a shop doorway is often a greeting, and a long medical report is as unwelcome in Bologna as it is in Bolton.
+  it: «Come stai?», sulla porta di un negozio, è spesso un saluto, e un lungo referto medico è sgradito a Bologna come a Bolton.
+- The difference is one of degree, and of what counts as a safe answer.
+  it: La differenza è di grado, e di che cosa conta come risposta sicura.
+- In much of Italy a friend expects a little weather of the soul: tired, busy, the children, the traffic.
+  it: In buona parte d'Italia un amico si aspetta un po' di tempo dell'anima: stanco, indaffarato, i figli, il traffico.
+- In much of Britain even a friend is offered a formula first, and the real answer only if the formula is refused.
+  it: In buona parte della Gran Bretagna anche a un amico si offre prima una formula, e la risposta vera solo se la formula viene rifiutata.
+- "How are you?", "Fine, you?", "Yes, not bad": that exchange can be the whole conversation, and both parties leave satisfied.
+  it: «Come stai?», «Bene, e tu?», «Sì, non male»: quello scambio può essere tutta la conversazione, ed entrambe le parti se ne vanno contente.
+- If the second person stops and says "No, how are you really?", the register has changed.
+  it: Se la seconda persona si ferma e dice «No, come stai davvero?», il registro è cambiato.
+- The door is no longer a door.
+  it: La porta non è più una porta.
+- It is a chair, and you are being asked to sit down.
+  it: È una sedia, e ti si chiede di sederti.
+- You may then mention the knee, provided you do it in one sentence and end by making light of it.
+  it: Allora puoi nominare il ginocchio, purché tu lo faccia in una frase e chiuda sdrammatizzando (facendone una cosa leggera).
+- "The knee is playing up, but I shall live" is allowed.
+  it: «Il ginocchio fa i capricci, ma sopravviverò» è ammesso.
+- "The knee is playing up, and I have not slept since March, and nobody understands me" is a different genre, and it belongs to a kitchen table after ten o'clock, not to the pavement outside the newsagent.
+  it: «Il ginocchio fa i capricci, e non dormo da marzo, e nessuno mi capisce» è un altro genere, e sta a una tavola di cucina dopo le dieci, non sul marciapiede davanti al giornalaio.
+- Work makes the rule stricter.
+  it: Il lavoro rende la regola più stretta.
+- A manager who asks how you are on a Monday morning is usually opening the meeting, not your file.
+  it: Un capo che di lunedì mattina chiede come stai di solito sta aprendo la riunione, non il tuo fascicolo.
+- "A bit tired, but the report is ready" keeps both the human being and the employee in the room.
+  it: «Un po' stanco, ma la relazione è pronta» tiene nella stanza sia la persona sia il dipendente.
+- "I am exhausted and I hate the report" keeps only one of them, and not for long.
+  it: «Sono esausto e odio la relazione» ne tiene una sola, e non per molto.
+- There is a further trap, which is the honest person who has read an article about phatic language and decides to opt out.
+  it: C'è un'altra trappola, ed è la persona sincera che ha letto un articolo sul linguaggio fatico e decide di chiamarsi fuori (opt out).
+- He hears "How are you?", smiles with the air of a man who has seen through civilisation, and says, "Do you actually want to know?"
+  it: Sente «Come stai?», sorride con l'aria di chi ha capito la civiltà (di chi ci ha visto attraverso), e dice: «Vuoi saperlo davvero?»
+- Almost nobody does, not at that moment, and the smile reads as a reproach.
+  it: Quasi nessuno lo vuole, non in quel momento, e il sorriso si legge come un rimprovero.
+- The polite move is to accept the ritual and to save the truth for the people who have earned it.
+  it: La mossa educata è accettare il rito e serbare la verità per chi se l'è meritata.
+- I was explaining all this to a friend on the telephone last week, at some length, with examples.
+  it: La settimana scorsa spiegavo tutto questo a un'amica, al telefono, per un bel pezzo, con gli esempi.
+- When I paused for breath she said, "Anyway. How are you?"
+  it: Quando mi sono fermato per riprendere fiato, ha detto: «Comunque. Come stai?»
+- Fine, thanks.
+  it: Bene, grazie.
+
+notes.it:
+1. "How are you?" is not, in the ordinary run of things, a request for information: how are you? lo conosci già (Fondamenti, lezione 3, nota 2): lì è già un saluto più che una domanda, e la risposta attesa è un breve «bene, grazie». Qui il saggio riparte da quel punto e lo guarda dal registro. In the ordinary run of things vuol dire «nel corso ordinario delle cose, di solito»: run è «il corso, l'andare». La formula lascia fuori i casi speciali. Non dice che la domanda non sia mai una richiesta vera. Dice che, nella giornata normale, non lo è. Information è «informazione, notizie», non il bancone informazioni. Request è «richiesta». Nei Fondamenti chi risponde sul serio mette in pensiero l'amico. Questo testo dice perché: la domanda, nel suo uso più comune, non aveva chiesto quel racconto.
+2. "Fine, thanks" will do: fine è «bene, a posto», thanks è «grazie». Will do vuol dire «basta, può andare, è sufficiente», detto di una cosa che non è perfetta e però chiude il gesto. Non vuol dire «lo farà». È la stessa famiglia di that will do, «così può bastare», quando ti versano il tè. La frase del testo è corta apposta: la formula che descrive è corta. Non dice, da sola, che la risposta sia falsa. Dice che soddisfa il rito. Grazie ci sta quasi sempre: senza thanks la risposta è un filo più secca, e si sente lo stesso, soprattutto tra chi si conosce.
+3. "Not bad" will do better, if you wish to sound as if you have lived here: not bad è «non male». Will do better è «funziona meglio, basta con più successo», non «farà un lavoro migliore» in senso morale. Sound as if è «sembrare, dare l'impressione di». Have lived here è «avere vissuto qui», e here, nel saggio, è la Gran Bretagna. Come risposta a how are you?, not bad è un grado sotto fine: non è un guaio, non è una festa. Non è lo stesso uso che hai già visto (Fondamenti, lezione 94, note 3 e 4). Lì not bad detto di una relazione è presentato come un elogio vero, high praise, e Marco si offende perché lo prende alla lettera. Qui non si giudica un lavoro. Si risponde a un saluto. I due usi si somigliano perché tutti e due dicono meno di un aggettivo pieno, e non si scambiano: «la tua relazione è fine, thanks» non è una frase.
+4. "Mustn't grumble" will do if you are over sixty and standing in a queue: mustn't è must not, «non si deve». Grumble è «brontolare, mugugnare», un lamento basso, non una lite. La formula vuol dire «non mi lamento», anche quando un motivo ci sarebbe. È un understatement: le parole sono più piccole del fatto, come quite pleasant sulla salsiccia bagnata (Perfezionamento, lezione 66, nota 2). Over sixty è «sopra i sessanta». Queue è la coda britannica: in America, in questo senso, si dice line. Il testo scherza sull'età. La formula ha la fama di appartenere a chi è più anziano, e la usano anche i giovani, spesso con un sorriso, per fare quella voce. Non è una regola anagrafica. Standing in a queue mette la frase nel suo paesaggio: la fermata, il negozio, il momento in cui non c'è tempo per una confessione.
+5. I learned this the hard way, which is the British way of saying that I once answered honestly: the hard way è «a proprie spese, per esperienza dolorosa». Alla lettera è «la via dura». Which riprende tutta la clausola: «il che». Il narratore dice che «a mie spese» sarebbe il modo britannico di dire «una volta ho risposto con sincerità». Detto così, la sincerità diventa l'ordalia, e la frase fatta diventa più britannica di quanto sia: the hard way si usa anche fuori dalla Gran Bretagna. Lo scherzo sta in quell'equazione, troppo pulita. Non è una definizione da dizionario. Honestly è «con sincerità», avverbio di honest.
+6. She said "Oh dear", took half a step back, and remembered that she had left the oven on: oh dear è la formula che conosci (Fondamenti, lezione 3, nota 5), per una piccola disgrazia: «oh, cielo», «poverino», senza tragedia. Qui fa due lavori nella stessa frase. Compatisce, e intanto chiude l'argomento. Half a step back è «mezzo passo indietro»: il corpo se ne va prima della scusa. Remembered that she had left the oven on è «si è ricordata di avere lasciato il forno acceso». Had left è un past perfect: il forno, nel suo racconto, era già acceso prima del ricordo. Left on è «lasciato acceso». Quello che è detto è un ricordo domestico. Quello che si capisce è una fuga. Lo si capisce dal mezzo passo, e dal forno che salta fuori subito dopo il compatimento. La frase elenca i tre gesti e non scrive «era una bugia».
+7. The oven, I later decided, had been fine all along: later è «più tardi». Decided è «ho deciso, ho concluso», non «ho dimostrato». Had been fine è «era stato a posto»: fine, detto di un apparecchio, è «a posto, funzionante», lo stesso aggettivo del saluto, e qui è letterale. All along è «fin dall'inizio, per tutto il tempo», non «lungo la cucina». La frase copre anche il momento in cui lei se n'era ricordata. Quello che è detto è un giudizio del narratore, arrivato dopo. Quello che si capisce è che il forno era una scusa. Lo si capisce da I later decided, che sposta il fatto dalla memoria di lei alla conclusione di lui, e da all along, che non lascia un minuto in cui il forno fosse davvero un problema. È la battuta piccola dell'episodio: la fuga è educata, e lui ci mette un po' a nominarla.
+8. The question had been phatic, a word linguists use for talk whose job is to keep the channel open rather than to carry news: phatic, in linguistica, si dice *fè*tik, con la voce sulla prima sillaba, e in italiano è «fatico». Il nome circola dal Novecento, da Malinowski, che parlò di phatic communion, il parlato che tiene insieme le persone senza scambiare notizie. Non è una diagnosi medica, e non c'entra con fat, «grasso». Channel è «canale», qui il contatto, non la Manica e non il canale televisivo, anche se la metafora viene da lì: tenere la linea aperta. Rather than è «piuttosto che», e preferisce il primo termine al secondo. Carry news è «portare notizie». Job, detto di una parola o di una frase, è «il suo compito», non un impiego. Had been è il past perfect: la definizione arriva dopo, come una cosa capita sul fatto già avvenuto. Il saggio adotta la parola dei linguisti. Non dice che ogni how are you? del mondo sia fatico. Dice che quella domanda, quel giorno, lo era.
+9. "Come stai?" in a shop doorway is often a greeting, and a long medical report is as unwelcome in Bologna as it is in Bolton: il saggio mette l'italiano accanto all'inglese, e non per dire che in Italia si risponde sempre con un referto. Often è «spesso». A shop doorway è «sulla porta di un negozio», il momento di passaggio, non una cena. Greeting è «saluto». As unwelcome as è «altrettanto sgradito». Bologna e Bolton sono due città vere: Bologna in Emilia, Bolton nell'area di Manchester. La coppia è un gioco di suono, non una statistica. Il saggio non ha misurato le due porte. Medical report è «referto, resoconto clinico». La frase dice una somiglianza, e la limita con often: anche «come stai?», in quel contesto, spesso non chiede la cartella. Non misura le due città, e non dice che la somiglianza sia identità.
+10. In much of Britain even a friend is offered a formula first, and the real answer only if the formula is refused: in much of Britain è «in buona parte della Gran Bretagna», non in ogni casa e non in ogni generazione. Even a friend è «persino un amico, anche un amico»: even alza il caso che ti aspetteresti fuori dalla regola. Is offered è un passivo: la formula viene offerta, e chi la offre può essere l'amico stesso, con il primo «fine». A formula è una frase fatta, qui di saluto, non una formula chimica. First è «per prima». The real answer only if è ellittico: only if the formula is refused vale per la risposta vera, senza ripetere il verbo. Refused è «rifiutata». Rifiutare la formula, nel testo, non è un insulto. È fermarsi, non accettare il «fine» e chiedere di nuovo. Fino a quel rifiuto il registro resta quello del rito, anche tra amici. È il punto su cui il saggio si scosta da un «come stai?» italiano detto a un amico, che spesso si aspetta già un po' di tempo dell'anima. «Spesso» e «in buona parte» restano: non è una dogana.
+11. If the second person stops and says "No, how are you really?", the register has changed: the second person è chi ha ricevuto il primo «fine» e non lo accetta. Stops è «si ferma», nel senso che non rilancia la formula. Really, in fondo alla domanda, vuol dire «davvero, sul serio», e annulla il rito. No, davanti, rifiuta la risposta appena data, non la persona. Register è il registro: il grado di intimità e di ufficialità, non un altro inglese. Has changed è un present perfect: il cambiamento conta adesso, da questo momento della conversazione. La frase non dice che ogni really abbia questo effetto. How are you really?, con il no davanti, nel testo, è la porta che diventa sedia. Si può dire la stessa cosa con un tono, senza really, e si può dire really per scherzo, senza aprire niente. Il testo descrive un caso in cui la parola lavora sul serio.
+12. "The knee is playing up, but I shall live" is allowed: playing up, detto di una parte del corpo o di un apparecchio, è «fare i capricci, non collaborare». Alla lettera è «giocare in su», e non c'entra con un gioco. Si dice anche di un bambino che fa il diavolo. The knee is playing up è «il ginocchio fa i capricci». In America, per lo stesso disturbo, si sente spesso acting up. Shall, con I o we, è la forma tradizionale britannica di will al futuro semplice: I shall live, «sopravviverò». Nel parlato di oggi will, o 'll, è comunissimo anche in Gran Bretagna, e shall in una frase così ha un'aria un po' composta, quasi da commedia. È proprio quello che rende la frase ammessa: il guaio c'è, e la seconda metà lo tiene piccolo. Allowed è «ammesso», nel registro di quel momento, non «permesso dalla legge». But è la cerniera. Senza quella seconda metà la frase resta un referto, e il testo la ammette perché il shall live la tiene piccola.
+13. "The knee is playing up, and I have not slept since March, and nobody understands me" is a different genre, and it belongs to a kitchen table after ten o'clock, not to the pavement outside the newsagent: genre è «genere», come si dice di un tipo di testo. La frase lunga non è solo più lunga. Cambia testo: dalla battuta si passa alla confessione. Since March è «da marzo», con il present perfect, perché il non dormire dura fino a ora. Nobody understands me è «nessuno mi capisce», e qui è il segno del genere, non una diagnosi del narratore sulla Gran Bretagna. Belongs to è «appartiene a, sta bene in». A kitchen table after ten o'clock è «una tavola di cucina dopo le dieci»: il luogo dell'intimità, a un'ora in cui si può restare. Pavement è il marciapiede, in Gran Bretagna (Perfezionamento, lezione 38, nota 10); in America è sidewalk. Outside the newsagent è «davanti al giornalaio», il negozio che vende giornali, sigarette, un biglietto dell'autobus. È un luogo di passaggio. Il testo non vieta il dolore. Gli assegna una stanza.
+14. A manager who asks how you are on a Monday morning is usually opening the meeting, not your file: manager è «il capo, il responsabile», non per forza il padrone. On a Monday morning è «di lunedì mattina»: on con le parti della giornata legati a un giorno, come on Monday. Usually è «di solito». Il testo non legge nel pensiero di ogni capo. Opening the meeting è «aprire la riunione»: la domanda è la prima frase dell'ordine del giorno, un modo di entrare. Your file è «il tuo fascicolo», le carte del personale, non un file del computer, anche se la parola è la stessa. Not your file vuol dire che non sta aprendo la tua vita di impiegato malato o scontento. La domanda può essere gentile e restare fatica. Il testo dice usually proprio per non chiudere i casi in cui il capo aspetta davvero una risposta.
+15. "A bit tired, but the report is ready" keeps both the human being and the employee in the room: a bit è «un po'». Tired è «stanco». But the report is ready dà al capo quello che il lunedì mattina gli chiede, ed è il but della frase sul ginocchio: il guaio, piccolo, e poi la notizia che rimette le cose in carreggiata. Keeps both è «tiene tutti e due». The human being è «l'essere umano, la persona». The employee è «il dipendente». In the room è «nella stanza», e la stanza è la riunione, non un ufficio preciso. La frase dice che questa risposta fa stare in vita i due ruoli insieme. Non dice che sia l'unica frase possibile. «A bit under the weather, but the report is ready» farebbe un lavoro simile. Under the weather è «non proprio in forma», un'altra formula piccola. Il testo ne sceglie una, a bit tired, perché è ordinaria e non clinica.
+16. He hears "How are you?", smiles with the air of a man who has seen through civilisation, and says, "Do you actually want to know?": he è la persona sincera della frase prima, quella che ha letto l'articolo e vuole chiamarsi fuori. The air of è «l'aria di». Seen through è «aver capito fino in fondo, non lasciarsi ingannare da». Alla lettera è «avere visto attraverso». Civilisation, con la s, è la grafia britannica; in America si scrive civilization. Actually è «davvero, in realtà», e qui preme: «lo vuoi sul serio, o stai facendo il rito?» Quello che è detto è una domanda. Quello che si capisce, nel testo, è un rimprovero: tu non pensi le tue formule, io sì. Lo si capisce dal sorriso di chi si sente più sveglio della civiltà, e dalla domanda che mette l'altro nel torto prima che apra bocca. Do you want è una domanda vera, dal punto di vista della grammatica. Dal punto di vista del registro è una trappola, perché a un saluto non si risponde con un esame. Si può chiedere «vuoi la versione lunga?» a un amico, senza questo sorriso, e allora è un'offerta. Il testo tiene il sorriso nella frase proprio per non confondere le due cose.
+17. When I paused for breath she said, "Anyway. How are you?": paused for breath è «fermarsi per riprendere fiato», e dice da solo che il discorso era durato abbastanza da toglierglielo. She è l'amica al telefono della frase prima, non la vicina del forno. Anyway è un segnale di discorso: chiude quello che c'era prima e apre un'altra cosa. Si traduce «comunque», e spesso vuol dire «quello che hai detto può anche finire qui». Non è sempre scortese. Tra amici è il modo ordinario di riprendere il filo. Qui il filo che lei riprende è il rito, con la stessa domanda del saggio. Quello che è detto è how are you? Quello che si capisce è che la lezione è finita e che lei non ha intenzione di sostenere un esame di linguistica al telefono. Lo si capisce da anyway, dal punto fermo prima della domanda, e dal fatto che la domanda arrivi appena lui tace. Il punto fermo, Anyway. How are you?, fa di anyway una frase da solo: prima chiude, poi saluta.
+18. Fine, thanks.: è la risposta del narratore, non una nuova domanda. Non c'è un verbo di dire, e non serve: dopo how are you? la frase corta è il turno di chi deve rispondere. È la stessa formula della nota 2, e chiude il saggio. Lui ha appena spiegato, con gli esempi, che quella formula non è una risposta vera. Poi la dice. La battuta è questa. Non è che l'amica lo abbia sconfitto, e non è che lui non abbia capito la lezione. È che il rito, al telefono, con un'amica, vince il saggio. Rifiutare la formula, dopo un discorso sulla fatica di rifiutarla a sproposito, sarebbe la trappola della nota 16. Fine, thanks è la mossa educata, detta da lui. Il titolo del saggio chiedeva davvero. L'ultima riga non aggiunge really. Il lettore se ne accorge perché la pagina intera aveva appena spiegato questa formula, e poi lui la pronuncia.
+
+ex1:
+- In the ordinary run of things, "How are you?" is not a request for information.
+  it: Nel corso ordinario delle cose, «How are you?» non è una richiesta di informazioni.
+- I told a neighbour about the boiler, the dentist and a cousin, and she remembered the oven.
+  it: Ho raccontato a una vicina della caldaia, del dentista e di una cugina, e lei si è ricordata del forno.
+- The oven, I later decided, had been fine all along.
+  it: Il forno, ho deciso più tardi, era stato a posto fin dall'inizio.
+- "The knee is playing up, but I shall live" is allowed; the long version belongs at the kitchen table after ten.
+  it: «Il ginocchio fa i capricci, ma sopravviverò» è ammesso; la versione lunga sta alla tavola di cucina dopo le dieci.
+- She asked how I was, after the long explanation, and I said, "Fine, thanks."
+  it: Mi ha chiesto come stavo, dopo la lunga spiegazione, e ho detto: «Bene, grazie».
+
+ex2:
+- Linguists call this kind of talk [phatic], because it keeps the channel open.
+  it: I linguisti chiamano fatico questo tipo di parlato, perché tiene aperto il canale.
+- A long medical report will not do at the [bus stop].
+  it: Un lungo referto medico non va bene alla fermata dell'autobus.
+- The oven had been fine [all along].
+  it: Il forno era stato a posto fin dal primo momento.
+- You may mention the knee if you make [light] of it.
+  it: Puoi nominare il ginocchio se lo tratti come una cosa leggera, senza peso.
+- Phatic talk keeps the channel open [rather] [than] carrying news.
+  it: Il parlato fatico tiene aperto il canale, piuttosto che portare notizie.
+
+tasks:
+- British "How are you?" keeps talk going. It is not a request for news. Short answers such as "Fine, thanks" and "Not bad" are what people expect. A full account of your troubles belongs with close friends, and even then it ought only to be brief. The essay explains the rule and at the end still obeys it: "Fine, thanks."
+  task.it: Riassumi il testo in circa 60 parole. Di' che lavoro fa «How are you?», quali risposte si aspettano, per chi è la risposta vera, e come finisce il testo.
+  rubric.it: Si capisce che la domanda tiene in vita il discorso e non chiede notizie; il registro è piano, da riassunto, senza battute nuove; sta in circa 60 parole e va dalla formula alla chiusa; «Fine, thanks» e «Not bad» restano nel senso del testo; la chiusa mostra che chi scrive, alla fine, dice la formula.
+- Dear Mr Adeyemi, Thank you for asking after me. I am not entirely well. The dentist removed a tooth on Thursday, and I have slept poorly since. I am tired, and a little sore. I shall be in the office on Monday, and the report is finished. I thought it better to say so plainly than to reply that I was fine. Yours sincerely, Helen Ward
+  task.it: Scrivi una mail formale, in inglese, in cui rispondi sul serio a «How are you?» a un collega che conosci poco. Niente contrazioni. Di' come stai davvero, senza uno sfogo, e lascia il lavoro a posto.
+  rubric.it: Si capisce come sta chi scrive, con un fatto concreto; il registro è formale, senza contrazioni, con apertura e chiusura da lettera; la mail ha il saluto, la notizia e la chiusa; le formule sono da lettera di lavoro, non da pub; il collega resta rassicurato sul lavoro, senza un peso che non ha chiesto.
+
+== 2 C1
+numeral: Lesson Two
+title: Two letters, one complaint
+title.it: Due lettere, un reclamo
+
+dialogue:
+- There are two ways to tell a hotel that it has failed you, and only one of them may mention a Volvo.
+  it: Ci sono due modi di dire a un albergo che ti ha deluso, e solo uno dei due può nominare una Volvo.
+- What changes is how angry you are allowed to sound.
+  it: Quello che cambia è quanto ti è permesso sembrare arrabbiato.
+- Dear Priya, you will not believe the Lantern.
+  it: Cara Priya, non crederai al Lantern.
+- I got in last Saturday evening, already tired, and room 12 was freezing.
+  it: Sono arrivata sabato sera, già stanca, e la camera 12 era gelata.
+- They had sold me a sea view, in writing, on the confirmation.
+  it: Mi avevano venduto una vista mare, per iscritto, sulla conferma.
+- The window looked onto the car park, which is a view of sorts, if you collect Volvos.
+  it: La finestra dava sul parcheggio, che è una specie di vista, se collezioni Volvo.
+- The radiator never came on.
+  it: Il termosifone non si è mai acceso.
+- I slept in my coat, which did nothing for my dignity, and the lift pinged all night outside the door.
+  it: Ho dormito col cappotto, il che non ha fatto niente per la mia dignità, e l'ascensore ha suonato tutta la notte fuori dalla porta.
+- Breakfast was no kinder.
+  it: Con la colazione non è andata meglio.
+- The eggs were a crime.
+  it: Le uova erano un crimine.
+- Then they put £18 on the bill for the minibar, and I had drunk tap water like a saint.
+  it: Poi mi hanno messo 18 sterline sul conto per il minibar, e io avevo bevuto acqua del rubinetto come una santa.
+- I paid, because the queue behind me had begun to sigh.
+  it: Ho pagato, perché la coda dietro di me aveva cominciato a sospirare.
+- The man at reception said he would look into it.
+  it: L'uomo alla reception ha detto che ci avrebbe guardato (che se ne sarebbe occupato).
+- Nobody came back.
+  it: Non è tornato nessuno.
+- I am not going back either, unless you fancy a weekend of misery and want the company.
+  it: Non ci torno neanche io, a meno che tu non abbia voglia di un fine settimana di miseria e voglia compagnia.
+- Love, Clare.
+  it: Con affetto, Clare.
+- That was the version for my oldest friend.
+  it: Quella era la versione per la mia amica di più lunga data.
+- The hotel received another the same morning, and the complaint in it was the same one.
+  it: L'albergo ne ha ricevuta un'altra la stessa mattina, e il reclamo, lì dentro, era lo stesso.
+- Freezing, in the first letter, is a feeling, and "did not function", in the second, is a machine.
+  it: Freezing, nella prima lettera, è una sensazione, e «did not function», nella seconda, è una macchina.
+- The crime becomes the plain word cold, the saint becomes nothing more than tap water, and the coat disappears.
+  it: Il crimine diventa la parola semplice «freddo», la santa diventa nient'altro che acqua del rubinetto, e il cappotto sparisce.
+- One letter asks Priya to laugh, and the other asks a stranger to act, in the voice that offices expect.
+  it: Una lettera chiede a Priya di ridere, e l'altra chiede a un estraneo di agire, con la voce che gli uffici si aspettano.
+- Dear Sir or Madam, I am writing to complain about my stay at the Lantern Hotel, Scarborough, on Saturday night.
+  it: Egregio Signore o Gentile Signora, le scrivo per reclamare del mio soggiorno al Lantern Hotel, a Scarborough, sabato notte.
+- I had booked room 12 on the understanding, set out in the confirmation, that it had a sea view.
+  it: Avevo prenotato la camera 12 con l'intesa, scritta nella conferma, che avesse la vista mare.
+- The window gave onto the car park.
+  it: La finestra dava sul parcheggio.
+- The radiator did not function at any point during the night, and the room was extremely cold.
+  it: Il termosifone non ha funzionato in nessun momento della notte, e la camera era freddissima.
+- The lift operated throughout the night immediately outside the room.
+  it: L'ascensore ha funzionato per tutta la notte, subito fuori dalla camera.
+- At breakfast the eggs were cold.
+  it: A colazione le uova erano fredde.
+- A charge of £18 was added to the bill for the minibar, although I had consumed only tap water.
+  it: Un addebito di 18 sterline è stato aggiunto al conto per il minibar, benché io avessi consumato solo acqua del rubinetto.
+- I settled the account in full before leaving, as a queue had formed behind me.
+  it: Ho saldato il conto per intero prima di andarmene, perché dietro di me si era formata una coda.
+- I raised the matter at reception and was told that it would be looked into.
+  it: Ho sollevato la questione alla reception e mi è stato detto che sarebbe stata presa in esame.
+- No one returned.
+  it: Non è tornato nessuno.
+- I should be grateful if you would remove the minibar charge and consider some reduction on the cost of the room.
+  it: Le sarei grata se volesse togliere l'addebito del minibar e considerare una riduzione sul costo della camera.
+- I look forward to your reply.
+  it: Resto in attesa della sua risposta.
+- Yours faithfully, Clare Bowen.
+  it: Distinti saluti, Clare Bowen.
+- Priya runs the Lantern.
+  it: Priya gestisce il Lantern.
+- She took it over in the spring and told me so in an email I never read, which is the sort of thing a person ought to check before she writes twice.
+  it: L'ha rilevato in primavera e me l'aveva scritto in una mail che non ho mai letto, ed è il tipo di cosa che una persona dovrebbe controllare prima di scrivere due volte.
+- Both letters arrived, and yes, I manage the place.
+  it: Sono arrivate tutte e due le lettere, e sì, il posto lo gestisco io.
+- The eighteen pounds is on its way back.
+  it: Le diciotto sterline sono sulla via del ritorno.
+- The eggs were better prose than the paragraph I nearly wrote about our commitment to guest experience.
+  it: Le uova erano prosa migliore del paragrafo che stavo per scrivere sul nostro impegno per l'esperienza dell'ospite.
+- Come in September, and I will put the radiator on.
+  it: Vieni a settembre, e accenderò il termosifone (lo metterò su).
+
+notes.it:
+1. There are two ways to tell a hotel that it has failed you, and only one of them may mention a Volvo: two ways sono i due registri della lezione, non due versioni dei fatti. Failed you è «ti ha deluso, non ha fatto il suo dovere verso di te». May, qui, è il permesso del registro: «può, gli è consentito». A Volvo è una macchina vera, di una marca vera, e nel testo non è un inventario del parcheggio. È il segnale che una delle due lettere avrà il diritto di scherzare. L'altra no. Il narratore lo dice prima, così quando la Volvo arriva si capisce che è costume, non prova.
+2. Dear Priya, you will not believe the Lantern: Dear più il nome è l'apertura tra persone che si conoscono. Non è il Dear di una lettera al direttore. You will not believe è iperbole da amico: «non ci crederai». Non chiede davvero fede. Apre un racconto che vuole meraviglia, o una risata. The Lantern è il nome dell'albergo, the Lantern Hotel, a Scarborough. Scarborough è una vera città di mare nello Yorkshire del Nord, sulla costa del Nord. L'albergo, con questo nome, è di questa lezione: non è un indirizzo da andare a cercare. Will not, per intero, è già un po' più scandito di won't, e però la frase resta parlata. Una lettera a un amico può tenere will not quando vuole battere sulla parola.
+3. The window looked onto the car park, which is a view of sorts, if you collect Volvos: looked onto è «dava su», detto di una finestra. È il verbo ordinario. Car park è il parcheggio, due parole, in Gran Bretagna. A view of sorts è «una specie di vista, una vista di un certo tipo»: of sorts abbassa il nome. Non è un complimento. If you collect Volvos è l'ipotesi comica. Quello che è detto è che il parcheggio è una vista per chi colleziona quelle macchine. Quello che si intende è che di mare non ce n'è, e che la conferma ha venduto una cosa falsa. Lo si capisce perché of sorts toglie valore a view, e perché la condizione, collezionare Volvo, è troppo stretta per salvare un soggiorno al mare. Il testo non dice che nel parcheggio ci fosse una Volvo. Dice che, se ti piacciono, forse la vista ti basta. A Priya non basta, e la frase lo sa.
+4. The radiator never came on: came on, detto di un apparecchio, è «accendersi, mettersi in moto». Come on è un phrasal verb: come più on, e il senso non è «venire sopra». Never came on vuol dire che non è partito mai, non che qualcuno lo ha spento sotto i suoi occhi. È la frase dell'amica: corta, di casa. Non dice di chi sia la colpa. Dice che il termosifone è rimasto spento.
+5. The eggs were a crime: crime è «un crimine, un reato». Detto delle uova è una metafora, non una denuncia in questura. Le uova erano cattive, o fredde, e la parola è troppo grande apposta. È il registro dell'amica: può esagerare, perché chi legge questa lettera deve indignarsi con lei, non aprire un fascicolo. Se la stessa parola andasse a un direttore, diventerebbe un'accusa, e l'accusa sarebbe falsa: un uovo freddo non è un reato. All'amica è vera nel sentimento e falsa nel diritto, e tutte e due le cose si vedono dalla sproporzione.
+6. Then they put £18 on the bill for the minibar, and I had drunk tap water like a saint: put £18 on the bill è «mettere 18 sterline sul conto», il verbo ordinario, non l'addebito del formulario. Tap water è «acqua del rubinetto». Like a saint è «come una santa». Quello che è detto è un confronto con la santità. Quello che si intende è che non ha aperto il minibar, e che le sembra già tanto. Lo si capisce perché la santità è enorme per un bicchiere d'acqua, e perché la frase prima dei fatti è piccola: had drunk tap water. L'ironia sta in quella sproporzione. Non è un elogio religioso. Had drunk è un past perfect: il bere viene prima dell'addebito, ed è il punto. In sterline, £18 è una cifra da minibar, non da romanzo. Il testo non dice che cosa ci fosse nel frigo. Dice che lei non lo ha usato.
+7. The man at reception said he would look into it: look into è «prendere in esame, verificare». Alla lettera è «guardare dentro». Non è look at, «dare un'occhiata». È la formula di chi accoglie un reclamo senza dire quando, né che cosa farà, né chi. He would look into it è il discorso indiretto: lui ha detto «I'll look into it», e Clare lo riporta con would. Quello che è detto è una promessa di attenzione. Quello che si intende, nel testo, è che la frase chiude lo sportello. Look into, in questa frase, non ha un tempo e non ha un risultato. È cortese. Non è un impegno. Si può dire look into sul serio, con un nome e una data. Qui non ci sono né l'uno né l'altra.
+8. I am not going back either, unless you fancy a weekend of misery and want the company: going back è «tornarci». Either aggancia il nobody came back: non torna il personale, non torno neanche io. Unless è «a meno che». Fancy, in questo senso, è «avere voglia di», informale britannico: fancy a coffee, fancy a weekend. Non è «immaginare» e non è il fancy di «fantasia». Misery è «miseria, uno strazio». Want the company è «volere compagnia», e il company è Clare. Quello che è detto è un invito. Quello che si intende è uno sfogo affettuoso, non un piano. Lo si capisce da misery, che nessuno offre davvero come programma, e da unless, che mette l'invito in una condizione assurda. Fancy tiene la frase nel parlato di casa.
+9. Freezing, in the first letter, is a feeling, and "did not function", in the second, is a machine: questa frase è il cardine. Freezing è «gelato, da morire di freddo», un aggettivo di chi lo sente addosso. Did not function è «non ha funzionato», e il soggetto, nella lettera, è il termosifone: una macchina, un pezzo dell'impianto. Lo stesso freddo cambia di posto. Nella prima lettera sta nel corpo di Clare. Nella seconda sta nell'apparecchio, e il corpo diventa solo extremely cold, più avanti, una conseguenza misurabile. Function è il verbo dei rapporti e dei manuali. Nessuno, a un'amica, dice che il termosifone did not function, a meno che non stia recitando la lettera. Il narratore mette le due citazioni nella stessa frase perché il lettore senta lo scambio senza cercare.
+10. Dear Sir or Madam, I am writing to complain about my stay at the Lantern Hotel, Scarborough, on Saturday night: Dear Sir or Madam è l'apertura quando il nome non si conosce, e la chiusura tradizionale che le va insieme è Yours faithfully (Perfezionamento, lezione 47, nota 2). I am writing to complain è l'attacco ordinario di un reclamo scritto: «le scrivo per reclamare». I am, per intero, non I'm. In una lettera di questo tipo le contrazioni di solito non ci sono: I am, I have, I should, non I'm, I've, I'd (Perfezionamento, lezione 47, nota 14). Si sentono, in lettere meno rigide, e questa non è di quelle. Stay è «il soggiorno». On Saturday night è «sabato notte», la stessa notte del last Saturday evening dell'altra lettera. Scarborough resta la città vera. Il tono entra subito: niente Volvo, niente santa, un motivo e un luogo.
+11. I had booked room 12 on the understanding, set out in the confirmation, that it had a sea view: on the understanding that è «con l'intesa che, sul presupposto concordato che». Non è solo on the assumption, «dando per scontato», anche se i due si avvicinano. Understanding, qui, è l'intesa: la conferma diceva una cosa, e la prenotazione è stata fatta su quella base. Set out è «esposto, messo per iscritto». The confirmation è «la conferma» della prenotazione, la stessa della lettera a Priya, quella in writing. Had booked è anteriorità: la prenotazione viene prima del soggiorno. It had a sea view è quello che la conferma prometteva, non quello che la finestra ha fatto. La frase prepara il contrasto senza alzare la voce. È più lunga della frase dell'amica, «they had sold me a sea view», e il verbo sold, «venduto», che sa di imbroglio, qui non c'è. C'è booked, che è un atto corretto di Clare.
+12. A charge of £18 was added to the bill for the minibar, although I had consumed only tap water: was added è un passivo. Chi ha aggiunto la cifra non è nominato, perché in un reclamo conta la voce sul conto, non il cameriere. Charge è «l'addebito», for the minibar «per il minibar». Although apre una concessiva: benché. Had consumed è il past perfect: il consumo viene prima dell'addebito, e il verbo è da fattura. Consumed è «consumato», e per l'acqua del rubinetto è volutamente grande. Only esclude birra, vino, noccioline. Il testo non elenca il frigo. Elenca quello che lei ha consumato, ed è acqua.
+13. I should be grateful if you would remove the minibar charge and consider some reduction on the cost of the room: è la formula britannica formale della richiesta, I should be grateful if you would più la forma base (Perfezionamento, lezione 47, nota 7). «Le sarei grata se volesse». Should, con I, è la forma tradizionale e un po' più rigida. Would, I would be grateful, si usa anche, ed è comunissimo. La lezione sceglie should perché la lettera è in quel registro. Grateful è «grata»: la richiesta si veste da riconoscenza, non da ordine. Remove è «togliere». Consider è «prendere in considerazione», un grado sotto «fare»: non dice «riduca», dice «consideri una riduzione». Some reduction è «una qualche riduzione», volutamente non una cifra. On the cost of the room è «sul costo della camera». È la richiesta della lettera, messa in forma di cortesia. Non fissa una cifra. Chiede che l'addebito sia tolto e che il costo della camera sia riconsiderato.
+14. Yours faithfully, Clare Bowen: Yours faithfully chiude la lettera che ha aperto con Dear Sir or Madam (Perfezionamento, lezione 47, nota 13). La Y è maiuscola, faithfully minuscolo. Se il nome fosse noto, Dear più il titolo e il cognome vorrebbe Yours sincerely, e le due coppie non si mescolano nella forma tradizionale. Qui il nome non è noto, ed è proprio il motore della chiusa: Clare non sa di scrivere a Priya. Il nome stampato sotto è il suo, Clare Bowen, per intero. Non c'è un ruolo, perché non scrive come funzionaria. Faithfully tratta chi legge da estraneo. È quello che la formula fa, quando il nome non c'è.
+15. Priya runs the Lantern: runs, detto di un'attività, è «gestisce, dirige», non «corre». The Lantern è l'albergo delle due lettere. Priya è l'amica a cui è stata scritta la prima, la oldest friend, quella del Love. La frase è corta perché la notizia è tutta lì. Priya, l'amica della prima lettera, è la persona che gestisce l'albergo della seconda. Le due lettere hanno lo stesso destinatario. È la svolta. La frase dopo dice perché Clare non lo sapeva: Priya l'aveva rilevato in primavera (took it over, «l'ha rilevato») e glielo aveva scritto in una mail mai letta. Questa frase dice chi è Priya, rispetto al Lantern, e basta a far rileggere le due aperture come due registri verso una persona sola.
+16. The eggs were better prose than the paragraph I nearly wrote about our commitment to guest experience: chi parla è Priya, nella risposta. The eggs sono le uova della prima lettera, quelle chiamate a crime: prosa, non gastronomia. Better prose than mette a confronto due testi, la battuta dell'amica e il paragrafo che Priya stava per scrivere. Nearly wrote è «stavo per scrivere, e non l'ho scritto». Commitment to guest experience è lingua da brochure: «impegno per l'esperienza dell'ospite». Commitment è «impegno», guest è «ospite, cliente», experience è «esperienza», e insieme non dicono se il termosifone funziona. È il registro che la lettera formale le aveva quasi chiesto di usare. Quello che è detto è un giudizio di stile. Quello che si intende è che ha visto tutte e due le voci, e che per un attimo è stata sul punto di rispondere da albergo. Lo si capisce da nearly, e da quel sintagma, che non potrebbe stare nella lettera con Love. Poi non lo scrive. La prosa che premia è quella delle uova.
+17. Come in September, and I will put the radiator on: come è un imperativo da amica, non una formula. In September è «a settembre», un altro soggiorno, non un buono omaggio descritto in piccolo. Put the radiator on è «accendere il termosifone»: put on, per un apparecchio, è «mettere in funzione». È lo stesso phrasal di una casa, non did not function. I will, per intero, è una promessa, e qui è concreta: il pezzo che non è partito, a settembre lo accende lei. La battuta chiude così. Il reclamo formale chiedeva un addebito tolto e una riduzione. L'amica chiedeva, per scherzo, compagnia nella miseria. Priya risponde da amica che gestisce il posto: i soldi, nella frase prima, sono già sulla via del ritorno, e l'invito è caldo in senso letterale. Non sceglie Yours faithfully. Sceglie il termosifone.
+
+ex1:
+- They had sold me a sea view, in writing, and the window looked onto the car park.
+  it: Mi avevano venduto una vista mare, per iscritto, e la finestra dava sul parcheggio.
+- The radiator never came on, and I slept in my coat.
+  it: Il termosifone non si è mai acceso, e ho dormito col cappotto.
+- They put £18 on the bill for the minibar, and I had drunk only tap water.
+  it: Mi hanno messo 18 sterline sul conto per il minibar, e io avevo bevuto solo acqua del rubinetto.
+- The man at reception said he would look into it, and nobody came back.
+  it: L'uomo alla reception ha detto che se ne sarebbe occupato, e non è tornato nessuno.
+- Priya runs the Lantern, the eighteen pounds is on its way back, and she will put the radiator on if Clare comes in September.
+  it: Priya gestisce il Lantern, le diciotto sterline sono sulla via del ritorno, e accenderà il termosifone se Clare va a settembre.
+
+ex2:
+- The window of room 12 looked onto the [car park].
+  it: La finestra della camera 12 dava sul parcheggio (car park, in Gran Bretagna, non il parking lot americano).
+- The man at reception said he would look [into] it.
+  it: L'uomo alla reception ha detto che l'avrebbe presa in esame.
+- She had booked the room on the [understanding] that it had a sea view.
+  it: Aveva prenotato la camera con l'intesa che avesse la vista mare.
+- I should be [grateful] if you would remove the minibar charge.
+  it: Le sarei grata se volesse togliere l'addebito del minibar.
+- The letter to the hotel makes a request [rather] [than] a joke.
+  it: La lettera all'albergo fa una richiesta, piuttosto che una battuta.
+
+tasks:
+- Sir, Last Saturday night I stayed at the Lantern Hotel in Scarborough, in room 12. The confirmation had promised a sea view. The window gave onto the car park. The radiator did not function, the room was extremely cold, and the lift ran all night outside the door. At breakfast the eggs were cold. The bill included £18 for the minibar, although I had drunk only tap water. I paid, because a queue had formed behind me. Reception said the matter would be looked into. No one returned. A sea view ought to contain some sea. Yours faithfully, Clare Bowen.
+  task.it: Riscrivi la lettera all'amica come lettera a un giornale. Stessi fatti, registro pubblico. Niente Volvo, niente sante e niente «crime». Una battuta in chiusura va bene se non aggiunge un reclamo.
+  rubric.it: I fatti restano quelli del soggiorno: vista, termosifone, ascensore, uova, 18 sterline, acqua del rubinetto, coda, reception; il registro è pubblico, da lettera al giornale, senza il tono di Priya e senza il modulo; la lettera ha un'apertura, i fatti e una chiusura; non ci sono Volvo, sante né «crime»; la battuta sul mare non inventa un guasto nuovo.
+
+== 3 C1
+numeral: Lesson Three
+title: The job interview, both sides
+title.it: Il colloquio, dai due lati
+
+dialogue:
+- The post was junior editor at North Stair Press, a small publisher in Bristol, and the room had one window.
+  it: Il posto era di editor junior alla North Stair Press, una piccola casa editrice di Bristol, e la stanza aveva una finestra.
+- Patrick Bell had a form.
+  it: Patrick Bell aveva un modulo.
+- Leah Okoye had prepared, and under the prepared answers she had others.
+  it: Leah Okoye si era preparata, e sotto le risposte preparate ne aveva altre.
+- The hour took place between the two sets.
+  it: L'ora si è svolta fra le due serie.
+- "Tell me about yourself," he said.
+  it: «Mi parli di lei», ha detto.
+- "I have always loved books, and I have spent three years in a bookshop here, the last of them running the Saturday events," she said.
+  it: «Ho sempre amato i libri, e ho passato tre anni in una libreria qui, l'ultimo a curare gli incontri del sabato», ha detto.
+- She meant: start from the bookshop, not from primary school, and the events are the part I can bear to have examined.
+  it: Voleva dire: parta dalla libreria, non dalla scuola elementare, e gli incontri sono la parte che posso sopportare di vedermi esaminare.
+- "Why North Stair?" he said.
+  it: «Perché la North Stair?», ha detto.
+- "You publish the essays I actually finish," she said.
+  it: «Pubblicate i saggi che io finisco davvero», ha detto.
+- She meant that she had read the list, and that she was not going to call herself passionate about content.
+  it: Voleva dire che aveva letto il catalogo, e che non si sarebbe definita appassionata di contenuti.
+- "What would you say is your greatest weakness?" he said.
+  it: «Quale direbbe che è il suo difetto più grande?», ha detto.
+- "I can get lost in a paragraph, and I have had to learn when to stop," she said.
+  it: «Posso perdermi in un paragrafo, e ho dovuto imparare quando fermarmi», ha detto.
+- She meant: I am handing you a weakness that praises me.
+  it: Voleva dire: le sto consegnando un difetto che mi fa un elogio.
+- The getting lost was true, and the learning was still a hope.
+  it: Il perdersi era vero, e l'imparare era ancora una speranza.
+- He nodded, which is what a form does when the answer has the expected shape.
+  it: Ha annuito, che è quello che fa un modulo quando la risposta ha la forma prevista.
+- "Tell me about a time you worked under pressure," he said.
+  it: «Mi racconti di una volta in cui ha lavorato sotto pressione», ha detto.
+- "A reader cancelled on the Saturday morning, so I moved the chairs into the window and we still had a crowd," she said.
+  it: «Un lettore ha disdetto il sabato mattina, così ho spostato le sedie in vetrina e abbiamo avuto lo stesso una folla», ha detto.
+- She meant: I cope, and please do not ask me for the number.
+  it: Voleva dire: me la cavo, e per favore non mi chieda il numero.
+- The crowd had been twelve, counting the author's mother.
+  it: La folla era stata di dodici persone, contando la madre dell'autore.
+- "Where do you see yourself in five years?" he said.
+  it: «Dove si vede fra cinque anni?», ha detto.
+- "Still in publishing, I hope, and with a little more responsibility," she said.
+  it: «Sempre nell'editoria, spero, e con un po' più di responsabilità», ha detto.
+- She meant that she had no map, that she was not applying for his chair, and that the sentence would satisfy the question without answering it.
+  it: Voleva dire che non aveva una mappa, che non ambiva alla sedia di lui, e che la frase avrebbe soddisfatto la domanda senza risponderle.
+- "Do you have any questions for us?" he said.
+  it: «Ha qualche domanda per noi?», ha detto.
+- "How do you like people to disagree with an edit?" she said.
+  it: «Come vi piace che si dissenta da un editing?», ha detto.
+- She meant: I want to know whether I may speak, and a question about process sounds calmer than a question about permission.
+  it: Voleva dire: voglio sapere se posso parlare, e una domanda sul metodo suona più calma di una domanda sul permesso.
+- He said that disagreement was welcome if it came with a reason.
+  it: Ha detto che il dissenso era benvenuto, se arrivava con una ragione.
+- She heard a door, and not a very wide one.
+  it: Lei ci ha sentito una porta, e non molto larga.
+- Then he asked what she would do with a manuscript she did not understand.
+  it: Poi le ha chiesto che cosa avrebbe fatto di un manoscritto che non capiva.
+- That question had not been on the bus.
+  it: Quella domanda non era stata sull'autobus.
+- "I don't know yet," she said.
+  it: «Non lo so ancora», ha detto.
+- "I would read it again, and then I would ask."
+  it: «Lo rileggerei, e poi chiederei.»
+- It was the first answer of the hour with no second, softer half.
+  it: È stata la prima risposta dell'ora senza una seconda metà, più morbida.
+- He offered her the job.
+  it: Le ha offerto il posto.
+- "That would be wonderful," she said.
+  it: «Sarebbe magnifico», ha detto.
+- She meant that she would like until Friday.
+  it: Voleva dire che le sarebbe piaciuto avere tempo fino a venerdì.
+- He wrote, in the margin of the form, "Accepted with enthusiasm."
+  it: Ha scritto, sul margine del modulo: «Accettato con entusiasmo».
+- Friday was not mentioned by either of them.
+  it: Venerdì non è stato nominato da nessuno dei due.
+- On the way to the bus stop she rehearsed a sentence about thinking it over.
+  it: Andando verso la fermata ha provato una frase sul prendersi tempo per pensarci.
+- The sentence stayed on the bus.
+  it: La frase è rimasta sull'autobus.
+
+notes.it:
+1. Leah Okoye had prepared, and under the prepared answers she had others: prepared è «preparata», le risposte studiate prima. Under è «sotto»: non un'altra lingua, un secondo senso. La lezione lavora così, frase detta e frase voluta. Others sono le risposte che non si pronunciano. Non sono per forza il contrario di quelle dette. A volte sono la parte che la frase educata ha lasciato fuori.
+2. "Tell me about yourself," he said. "I have always loved books, and I have spent three years in a bookshop here, the last of them running the Saturday events," she said: tell me about yourself è la domanda che non chiede una vita, e però sembra chiederla. In un colloquio britannico è l'apertura ordinaria, e la risposta attesa è corta e utile. I have always loved books è la metà rituale. Moltissimi candidati la dicono, e può essere vera senza essere un'informazione. Running the Saturday events è «curare, far andare» gli incontri del sabato: run, qui, è gestire, non correre. The last of them è «l'ultimo di quei tre anni». Here è Bristol, la città della casa editrice. In questa coppia, quello che è detto è un amore e un lavoro. Quello che lei vuole che si tenga è il lavoro, gli eventi, una cosa che si può controllare. Lo si capisce perché i tre anni e il sabato sono precisi, e always loved books non ha un luogo né una data. Said dopo le virgolette, he said, she said, è l'ordine del racconto (Perfezionamento, lezione 65, nota 6).
+3. "You publish the essays I actually finish," she said. She meant that she had read the list, and that she was not going to call herself passionate about content: actually, qui, è «davvero», e taglia: non i saggi che si comprano e si abbandonano, quelli che lei arriva in fondo. Finish è «finire di leggere». Had read the list è il catalogo della North Stair, non una lista della spesa. Passionate about è la formula da colloquio che lei rifiuta: «appassionata di». Content, in quel gergo, è «i contenuti», una parola che copre qualunque testo e non ne nomina nessuno. Quello che è detto è un gusto di lettrice. Quello che si intende è: vi ho letti, e non vi darò il gergo. Lo si capisce da actually, che sarebbe inutile se volesse solo fare un complimento, e dal rifiuto di passionate about content, che è il narratore a nominare come la frase scartata. Non è detto che lei non sia appassionata. È detto che non userà quella parola.
+4. "I can get lost in a paragraph, and I have had to learn when to stop," she said. She meant: I am handing you a weakness that praises me: greatest weakness è la domanda di rito, «il difetto più grande». La risposta di rito, quella che i candidati temono e preparano, è spesso un difetto che è già un pregio: lavoro troppo, tengo troppo alla qualità. Leah ne fa una versione più precisa. Get lost in a paragraph è «perdersi in un paragrafo», e per un'editor può voler dire occhio, non solo lentezza. Have had to learn when to stop è il present perfect: l'imparare è un processo che arriva fino a ora, o così dice la frase. Handing you è «consegnandole». Praises me è «mi elogia». Quello che è detto è un difetto e una correzione. Quello che si intende è che la correzione renda il difetto assumibile. Dentro questa frase, praises me dice già che il difetto è stato scelto perché faccia bella figura. La speranza, che l'imparare sia già fatto, la frase non la giura: have had to learn può essere vero e può essere la metà che consola.
+5. He nodded, which is what a form does when the answer has the expected shape: nodded è «ha fatto un cenno con la testa», il sì minimo. Which riprende il cenno. A form è il modulo, la scheda del colloquio, e il testo lo fa soggetto di does: è il modulo che annuisce. Patrick annuisce, e il narratore dice che ad annuire è la griglia. Expected shape è «la forma prevista», non la verità. La risposta aveva due parti, un difetto e un rimedio, che è la sagoma che la domanda greatest weakness si aspetta. Il cenno non dice «le credo». Dice «questa entra nella casella». Si può annuire perché si è colpiti. Qui il testo sceglie l'altra lettura, e la dice con il modulo al posto dell'uomo.
+6. "A reader cancelled on the Saturday morning, so I moved the chairs into the window and we still had a crowd," she said. She meant: I cope, and please do not ask me for the number: under pressure è «sotto pressione», la collocazione del colloquio, non under the weather. Cancelled è «ha disdetto». Moved the chairs into the window è un fatto concreto: le sedie in vetrina, l'incontro spostato dove passa la gente. Cope è «farcela, cavarsela». Please do not ask me for the number è la preghiera che non viene detta a Patrick. Quello che è detto è un successo: we still had a crowd, «abbiamo avuto lo stesso una folla». Crowd è «folla», e di solito è molta gente. Still è «lo stesso, nonostante la disdetta». Quello che si intende è: non contare. Lo si capisce perché la frase chiede di non chiedere il numero, e perché crowd, senza una cifra, fa il lavoro della cifra.
+7. The crowd had been twelve, counting the author's mother: twelve è «dodici». Counting è «contando, incluso nel conto». The author's mother è la madre di chi leggeva, o di chi avrebbe dovuto leggere. È nel dodici, non in più. Quello che è detto è un numero. Quello che si intende è che crowd era una parola troppo larga, e che la madre non è un pubblico arrivato per la vetrina: è una persona che c'era comunque. Lo si capisce dal verbo had been, che corregge il «we still had», e da counting, che sarebbe inutile se la madre fosse un ascoltatore come gli altri. La battuta è affettuosa, non crudele. Dodici persone in una libreria, per un sabato, possono anche essere un successo. Crowd non lo dice. Lo gonfia.
+8. "Still in publishing, I hope, and with a little more responsibility," she said. She meant that she had no map, that she was not applying for his chair, and that the sentence would satisfy the question without answering it: where do you see yourself in five years? è l'altra domanda di rito. Vuole un futuro, e spesso vuole fedeltà. Still in publishing è «sempre nel mondo dei libri, dell'editoria». I hope è la siepe: non promette. A little more responsibility è «un po' più di responsabilità», e little la tiene piccola. Non nomina un titolo, e non nomina il posto di Patrick. His chair è «la sua sedia», il ruolo di chi fa il colloquio. Applying for è «candidarsi a». No map è «niente mappa»: non ha un piano a cinque anni, o non ne ha uno che voglia dire. Satisfy the question without answering it è il cuore della frase. La domanda riceve le parole che la chiudono. Non riceve l'informazione. Lo si capisce da hope, da little, e da still in publishing, che è il campo intero, non un punto. È un'evasione educata, e funziona proprio perché è educata.
+9. "How do you like people to disagree with an edit?" she said. She meant: I want to know whether I may speak, and a question about process sounds calmer than a question about permission: disagree with an edit è «non essere d'accordo con un intervento sul testo». Edit è sia il verbo sia il nome, «la revisione, il taglio». How do you like people to è «come vi piace che la gente...», una domanda sulle abitudini della casa, non sui diritti di Leah. Process è «il metodo, la procedura». Permission è «il permesso». Quello che è detto è una curiosità professionale. Quello che si intende è: potrò parlare quando non sono d'accordo, o devo stare zitta? Lo si capisce perché may speak è il bisogno, e la via scelta è più calma: process non trema, permission trema. Sounds calmer è «suona più calma». Non è più coraggiosa. È più assumibile, come il difetto che elogia. La stessa abilità della lezione, spostata su una domanda.
+10. He said that disagreement was welcome if it came with a reason. She heard a door, and not a very wide one: welcome è «benvenuto». If è la condizione: il dissenso entra se porta una reason, «una ragione, un motivo». Came with è «arrivava con, era accompagnato da». Quello che è detto è un'apertura. Quello che lei ci sente è un'apertura stretta. A door, and not a very wide one: la porta c'è, e non è larga. Lo si capisce da if, che non sarebbe necessario se ogni dissenso fosse benvenuto, e da reason, che chiede un biglietto. Non è un rifiuto. È un invito con una soglia. She heard è la lettura di Leah, non un suono nella stanza. Il testo non dice che Patrick volesse chiudere. Dice che la frase, con quel if, si può attraversare solo in fila e con un argomento.
+11. That question had not been on the bus. "I don't know yet," she said. "I would read it again, and then I would ask.": on the bus è il viaggio verso il colloquio: una domanda preparata avrebbe potuto starci. Non è una linea precisa di Bristol, e non serve che lo sia. Had not been on the bus vuol dire che questa domanda, su quell'autobus, non c'era. I don't know yet è «non lo so ancora». Yet lascia la porta aperta: non è I don't know, secco, da resa. È «non ancora». Poi viene il metodo, e non viene un elogio di sé: read it again, «lo rileggerei», and then I would ask, «e poi chiederei». Would è il condizionale dell'ipotesi, un manoscritto che non c'è ancora sulla scrivania. Quello che è detto è un'ignoranza e un passo successivo. Quello che si intende, ed è la prima volta nell'ora, coincide con quello che è detto. Lo si capisce perché non c'è, in queste parole, una seconda metà che consoli chi ascolta.
+12. It was the first answer of the hour with no second, softer half. He offered her the job: offered her the job è «le ha offerto il posto». Job è il lavoro, the post della prima frase, junior editor. Il testo mette le due frasi una dopo l'altra, e il perché sta nella prima: è la prima risposta senza la metà di velluto. Non dice che le altre risposte fossero false. Dice che questa non si protegge. Un colloquio può premiare la forma. Qui, quest'uomo, in questa stanza, premia la frase che non ha la forma. Non è una legge dei colloqui. È quello che fa, in questa stanza, dopo una risposta senza la metà di velluto. Offered è un passato semplice: l'offerta avviene lì. Non è un «la ricontatteremo».
+13. "That would be wonderful," she said. She meant that she would like until Friday: wonderful è «magnifico, bellissimo». That would be è il condizionale di una cosa non ancora presa: «sarebbe», non «è». In un'offerta di lavoro, wonderful si sente spesso come un sì, perché la gioia sembra chiudere. Until Friday è «fino a venerdì», un po' di tempo prima di accettare. Like, qui, è «le piacerebbe avere», non «le piace» come un fatto già deciso. Quello che è detto è un aggettivo caldo, al condizionale. Quello che si intende è una dilazione. Lo si capisce solo perché il narratore lo scrive: she meant. Dalla sola frase di Leah, Patrick non può saperlo. Would be lascia un filo di distanza, e però è troppo piccolo, da solo, per obbligarlo a sentire un rinvio. Molte persone dicono that would be wonderful e intendono sì. Qui il testo dice che lei non intende sì. Intende venerdì.
+14. He wrote, in the margin of the form, "Accepted with enthusiasm.": the margin è il margine del modulo, non la lettera ufficiale. Accepted è «accettato», participio, come una voce già chiusa. With enthusiasm è «con entusiasmo». Enthusiasm è più caldo di wonderful, e accepted è più chiuso di would be. Quello che è detto, sulla carta, è un sì pieno. Quello che lui crede è quello. Non sta falsificando il verbale. Sta scrivendo quello che ha sentito, e la parola è più larga della frase di lei. Lo si capisce dal confronto con would be wonderful, che è condizionale e non è il verbo accept. Il lettore sa, dalla frase prima, che lei voleva fino a venerdì. Patrick, in questa frase, no. La nota a margine è il suo registro: breve, sicuro, da scheda. È lo stesso modulo che prima aveva annuito.
+15. Friday was not mentioned by either of them: mentioned è «nominato». Either of them è «nessuno dei due», con il verbo al singolare, was, come di solito con either. Friday è il venerdì che lei voleva e non ha detto. La frase è la prova che l'implicatura non è passata. Se lui avesse sentito il rinvio, venerdì sarebbe entrato nel margine. Non c'è. Neanche lei lo dice. Il desiderio resta nel meant del narratore, non nel dialogo. È il punto delicato della lezione: quello che si intende, se non c'è un segnale abbastanza grande, può non arrivare. Would be, da solo, non è bastato.
+16. On the way to the bus stop she rehearsed a sentence about thinking it over. The sentence stayed on the bus: on the way to the bus stop è «andando alla fermata». Rehearsed è «ha provato», come si prova una battuta, non come si prova un vestito, anche se il verbo è lo stesso, rehearse. Thinking it over è «pensarci su, prendersi il tempo». È la frase che avrebbe dovuto dire al posto di wonderful, o subito dopo. Stayed on the bus è «è rimasta sull'autobus», lo stesso autobus su cui, all'andata, le domande erano state preparate (nota 11). Quello che è detto è un viaggio in cui una frase non scende. Quello che si intende è che lei non l'ha mandata, non l'ha detta, non è tornata indietro. Lo si capisce da stayed, che tiene la frase sull'autobus, e da rehearsed, che è prova, non esecuzione. La battuta della lezione è questa. Lui ha già scritto accepted. Lei ha la frase giusta, e la frase resta sull'autobus. Nessuno dei due ha mentito in senso stretto. Hanno lasciato che wonderful facesse un lavoro che non le avevano assegnato, e il margine ha chiuso il verbale.
+
+ex1:
+- Under the prepared answers Leah had others, and the hour took place between the two.
+  it: Sotto le risposte preparate Leah ne aveva altre, e l'ora si è svolta fra le due.
+- The getting lost was true, and the learning when to stop was still a hope.
+  it: Il perdersi era vero, e l'imparare quando fermarsi era ancora una speranza.
+- The crowd had been twelve, counting the author's mother, and she hoped he would not ask for the number.
+  it: La folla era stata di dodici persone, contando la madre dell'autore, e lei sperava che lui non chiedesse il numero.
+- "I don't know yet" was the first answer with no softer half, and he offered her the job.
+  it: «Non lo so ancora» è stata la prima risposta senza una metà più morbida, e lui le ha offerto il posto.
+- She meant that she would like until Friday, and he wrote "Accepted with enthusiasm."
+  it: Lei voleva dire che le sarebbe piaciuto avere tempo fino a venerdì, e lui ha scritto «Accettato con entusiasmo».
+
+ex2:
+- Interviewers ask for a candidate's [greatest weakness].
+  it: Chi fa i colloqui chiede al candidato qual è il suo difetto più grande.
+- Tell me about a time you worked under [pressure].
+  it: Mi racconti di una volta in cui ha lavorato sotto pressione.
+- Where do you see yourself in five [years]?
+  it: Dove si vede fra cinque anni?
+- "I [don't know] yet," she said, and she did not add a softer half.
+  it: «Non lo so ancora», ha detto, e non ha aggiunto una metà più morbida.
+- In the margin he wrote "Accepted with [enthusiasm]."
+  it: Sul margine ha scritto «Accettato con entusiasmo».
+
+tasks:
+- Leah Okoye, junior editor. Three years in a Bristol bookshop, and she runs the Saturday events. She started there, not at primary school. She has read us: "the essays I actually finish." No speech about being passionate about content. Weakness: gets lost in a paragraph, and has "learned when to stop." I believe the getting lost. The learning sounded like the usual second half. Pressure: a reader cancelled, she moved the event into the window, "a crowd." I did not ask how many. Five years: still in publishing, a little more responsibility. A competent non-answer, and she is not after my chair. Best question of the hour: how we like people to disagree with an edit. She wants to know if she can speak. Manuscript she does not understand: "I don't know yet. I would read it again and ask." First answer with nowhere to hide. I offered her the job. "That would be wonderful." Keen. I have put her down as accepted.
+  task.it: Scrivi gli appunti veri di Patrick Bell dopo il colloquio, non la scheda piena di lodi. Quello che ha capito delle risposte di Leah, e quello che ha creduto dell'ultima. In inglese, da appunti.
+  rubric.it: Si riconoscono la libreria, il catalogo, il difetto, la folla, i cinque anni, la domanda sull'editing e il «non lo so ancora»; il registro è da appunto, franco, non da lettera e non da brochure; gli appunti seguono l'ora, e in fondo c'è l'offerta; le formule del colloquio restano nel senso del testo, compresa la non-risposta sui cinque anni; «wonderful» diventa un sì, come crede Patrick, e venerdì non viene capito.
+
+== 4 C1
+numeral: Lesson Four
+title: In defence of small talk
+title.it: In difesa delle chiacchiere
+
+dialogue:
+- Small talk has a bad press, and the weather has the worst of it.
+  it: Le chiacchiere da nulla hanno una cattiva stampa, e il tempo ha la parte peggiore.
+- Say that it might rain, at a party, and someone will look at you as if you had brought a spreadsheet.
+  it: Di', a una festa, che forse piove, e qualcuno ti guarderà come se avessi portato un foglio di calcolo.
+- I have been that someone.
+  it: Io sono stato quel qualcuno.
+- I have also been the person staring at a stranger's shoes and praying for a cloud, any cloud, so that both of us might have a job.
+  it: Sono stato anche la persona che fissa le scarpe di un estraneo e prega che arrivi una nuvola, una qualunque, così tutti e due avremmo un compito.
+- The charge against weather talk is that it is empty.
+  it: L'accusa alle chiacchiere sul tempo è che sono vuote.
+- It is not empty.
+  it: Non sono vuote.
+- It is shared, which is a different thing, and a rarer one.
+  it: Sono in comune, che è un'altra cosa, e più rara.
+- Two people who have nothing else in common are, for that minute, under one sky, and the sky does not belong to either of them.
+  it: Due persone che non hanno nient'altro in comune sono, per quel minuto, sotto un cielo solo, e il cielo non appartiene a nessuna delle due.
+- A question about work belongs to one of you.
+  it: Una domanda sul lavoro appartiene a uno di voi.
+- A question about a marriage belongs to one of you, and it may not have been offered.
+  it: Una domanda su un matrimonio appartiene a uno di voi, e può darsi che non sia stata offerta.
+- "Bit grey, isn't it?" belongs to the pavement you are both standing on.
+  it: «Un po' grigio, vero?» appartiene al marciapiede su cui state tutti e due.
+- The answer can be "Shocking," and the whole thing can die there, with nobody injured.
+  it: La risposta può essere «Tremendo», e tutto può morire lì, senza feriti.
+- Or it can last three minutes, which is long enough to find out that you missed the same train.
+  it: Oppure può durare tre minuti, quanto basta per scoprire che avete perso lo stesso treno.
+- People who despise this often mean that they despise strangers, or that they are in a hurry to be interesting.
+  it: Chi disprezza questa cosa spesso intende che disprezza gli estranei, o che ha fretta di essere interessante.
+- Interesting, at a party, is a tax.
+  it: Essere interessanti, a una festa, è una tassa.
+- You pay it in opinions, and the person who did not budget for opinions has to stand there holding a crisp.
+  it: La paghi in opinioni, e chi non aveva messo in bilancio le opinioni deve restare lì con una patatina in mano.
+- Weather lets that person stay with the crisp.
+  it: Il tempo lascia quella persona dov'è, con la patatina.
+- It is also how we complain without filing anything.
+  it: È anche il modo in cui ci lamentiamo senza depositare niente.
+- "Typical" will cover a summer, a government and a late bus, and nobody has to say which.
+  it: «Tipico» copre un'estate, un governo e un autobus in ritardo, e nessuno deve dire quale.
+- Friends in Italy tell me that they do this too, and then they ask how I really am.
+  it: Amici in Italia mi dicono che lo fanno anche loro, e poi mi chiedono come sto davvero.
+- We put that second question off.
+  it: Noi quella seconda domanda la rimandiamo.
+- It is the same work as "How are you?": not a request for a report, a check that the channel is open.
+  it: È lo stesso lavoro di «How are you?»: non una richiesta di referto, un controllo che il canale sia aperto.
+- I am not arguing that nobody should ever say a true thing.
+  it: Non sto dicendo che nessuno debba mai dire una cosa vera.
+- I am arguing that the true thing has to be let in, not dragged.
+  it: Sto dicendo che la cosa vera va fatta entrare, non trascinata dentro.
+- Small talk is the latch.
+  it: Le chiacchiere sono il chiavistello.
+- You can open it, if the other person comes with you.
+  it: Puoi aprirlo, se l'altra persona viene con te.
+- Last week, at a party, a man I had met once asked what I really thought about my brother's divorce.
+  it: La settimana scorsa, a una festa, un uomo che avevo incontrato una volta mi ha chiesto che cosa pensavo davvero del divorzio di mio fratello.
+- I do not have a brother.
+  it: Io non ho un fratello.
+- Even if I had, a garden in October was not the place, and he had not been offered the subject.
+  it: Anche se l'avessi avuto, un giardino in ottobre non era il luogo, e l'argomento non gli era stato offerto.
+- I looked at the sky, which was doing its job, and I said, "Looks like rain."
+  it: Ho guardato il cielo, che stava facendo il suo lavoro, e ho detto: «Sembra che voglia piovere».
+- He blinked.
+  it: Ha sbattuto le palpebre.
+- "Does it?" he said.
+  it: «Davvero?», ha detto.
+- "It might," I said.
+  it: «Può darsi», ho detto.
+- I went to find my coat, which was a lie, because I had come without one.
+  it: Sono andato a cercare il cappotto, ed era una bugia, perché ero venuto senza.
+- The latch, I am pleased to report, still works.
+  it: Il chiavistello, mi fa piacere riferire, funziona ancora.
+
+notes.it:
+1. Small talk has a bad press, and the weather has the worst of it: small talk è «le chiacchiere da nulla, le quattro parole fra estranei». Non è una conversazione piccola nel senso di breve e basta. È il genere: tempo, viaggio, coda. A bad press è «una cattiva stampa, una cattiva fama». The worst of it è «la parte peggiore». Il tempo, in Gran Bretagna, è l'esempio che tutti citano quando vogliono dire che i britannici non parlano di niente. Il pezzo prende quella accusa e la tiene. Non dice che ogni frase sul tempo sia profonda. Dice che la fama è più dura del fatto.
+2. I have also been the person staring at a stranger's shoes and praying for a cloud, any cloud, so that both of us might have a job: staring at è «fissare». Praying for è «pregare che arrivi», e qui è comicissimo: una nuvola come una grazia. Any cloud è «una qualunque». Might have a job è «potessimo avere un compito». Job, qui, non è un impiego. È qualcosa da fare con la bocca, un lavoro per la frase. Senza una nuvola, ai due restano le scarpe e il silenzio. Il narratore si mette da tutte e due le parti: è stato lo snob, nella frase prima, ed è stato quello che prega la nuvola. La difesa non arriva da chi non ha mai disprezzato le chiacchiere. Arriva da chi le ha disprezzate e poi gli sono servite.
+3. "Bit grey, isn't it?" belongs to the pavement you are both standing on: bit è «un po'», informale, la forma corta di a bit. Grey, con la e, è la grafia britannica di «grigio». In America si scrive gray. Isn't it? è una question tag, una domandina in coda. Il verbo ripete il verbo della frase, e il pronome ripete il soggetto. La frase intera sottintesa è it's a bit grey, isn't it? Con un'affermazione, la tag è negativa. Si aspetta, di solito, un sì: sì, è grigio. Si può rispondere di no, e si rompe un poco il rito. Pavement è il marciapiede (Perfezionamento, lezione 38, nota 10). Belongs to the pavement: il soggetto non è tuo né mio. È del pezzo di terra sotto i due. È l'argomento del pezzo. Il tempo come proprietà comune.
+4. The answer can be "Shocking," and the whole thing can die there, with nobody injured: shocking, detto del tempo con un sorriso, è «tremendo, scandaloso», troppo grande per una nuvola. È un understatement al contrario, o un'iperbole piccola: la parola è più grossa del fatto, e tutti e due lo sanno, e proprio per questo non c'è lite. Die there è «morire lì», la conversazione può finire. With nobody injured è «senza feriti». Quello che è detto è che il dialogo può chiudersi dopo una parola. Quello che si intende è che chiudere non è un fallimento. Lo si capisce da injured, che mette l'asticella bassissima: l'unico dovere era non farsi male.
+5. People who despise this often mean that they despise strangers, or that they are in a hurry to be interesting: despise è «disprezzare», più forte di dislike. Often mean è «spesso vogliono dire». Il pezzo non dice sempre. Due letture, con or. La prima: il disprezzo delle chiacchiere è disprezzo per chi non si conosce. La seconda: c'è fretta di essere interesting, «interessante», cioè di dire una cosa che faccia effetto. In a hurry è «di fretta». Nessuna delle due è dimostrata con un sondaggio. Sono il giudizio del columnist, e often lo tiene da opinione. Si riconosce il registro informale: this, senza ripetere small talk, e mean, il verbo di «che cosa intendi», non «significare da dizionario» soltanto.
+6. You pay it in opinions, and the person who did not budget for opinions has to stand there holding a crisp: a tax è «una tassa», detto di interesting nella frase prima. Pay it in opinions è «la paghi in opinioni», non in soldi. Budget for è «mettere a bilancio, aver previsto». Did not budget for opinions: non era venuto per avere un'idea sul divorzio degli altri. A crisp è una patatina, in Gran Bretagna. In America è a chip, e chip, in Gran Bretagna, è più spesso la patata fritta spessa, o il microchip. Holding a crisp è l'immagine di chi ha le mani occupate da una festa e non da un discorso. È comica, ed è precisa: una patatina non è un argomento. La frase difende il diritto di restare a quel livello.
+7. "Typical" will cover a summer, a government and a late bus, and nobody has to say which: typical è «tipico». Da solo, detto con un sospiro, è una lamentela intera. Will cover è «copre, basta per». Un'estate piovosa, un governo, un autobus in ritardo: tre cose di taglia diversa, e la stessa parola. Nobody has to say which è il punto. La lamentela resta sociale, non diventa un programma. Non si vota, non si fa causa all'autobus. È il parente di mustn't grumble, visto dalla parte di chi un po' brontola e poi si ferma (lezione 1, nota 4). Typical brontola. Non apre un fascicolo. Filing, nella frase prima, è proprio «depositare un atto, archiviare». Qui non si archivia niente.
+8. It is the same work as "How are you?": not a request for a report, a check that the channel is open: how are you?, nel corso ordinario delle cose, non è una richiesta di informazioni (lezione 1, nota 1). Report, qui, è il referto, il racconto lungo. Channel è il canale del contatto, la parola dei linguisti per il parlato fatico (lezione 1, nota 8). A check è «un controllo». Il tempo, dice il pezzo, fa quel lavoro: verifica che si possa stare lì, non raccoglie notizie. I due punti spiegano same work. Non dice che ogni how are you? e ogni frase sul tempo siano la stessa frase. Dice che il compito, in questi usi, è quello.
+9. I am not arguing that nobody should ever say a true thing. I am arguing that the true thing has to be let in, not dragged: arguing è «sostenere, in un ragionamento», non «litigare», anche se argue è tutti e due. Nobody should ever è la posizione che lui rifiuta: non è contro la verità. Let in è un phrasal verb, «fare entrare». Dragged è «trascinata», a forza. La cosa vera entra se la porta è aperta e se l'altro viene. Non si tira dentro per il collo. È la tesi. Il registro resta informale: I am not arguing, I am arguing, una coppia parlata, da colonna di giornale, non da saggio con however. Ever, in nobody should ever, è «mai», e lui lo usa per la tesi che non è la sua.
+10. Small talk is the latch. You can open it, if the other person comes with you: a latch è il chiavistello, il ferro che tiene la porta e che si alza. Non è una serratura con la chiave. Si apre da tutti e due i lati, con un dito. You can open it è un permesso, non un ordine. If the other person comes with you è la condizione. Senza l'altro, aprire è spingere. La metafora è la stessa della porta di un saluto, e qui è un oggetto: un chiavistello vero, piccolo. Il pezzo ci tornerà nell'ultima riga. Per ora è la definizione.
+11. Last week, at a party, a man I had met once asked what I really thought about my brother's divorce: had met once è «avevo incontrato una volta». Really è lo stesso really che toglie il rito a how are you? (lezione 1, nota 11): vuole la versione non piccola. My brother's divorce è «il divorzio di mio fratello», un soggetto che, se fosse vero, sarebbe di famiglia, non da giardino. Thought about è «pensavo di». La frase è lo stress test della tesi. Qualcuno salta il chiavistello e trascina. Il columnist sta per rispondere, e la risposta non sarà un'opinione.
+12. I do not have a brother: è un fatto, detto in sei parole, e sposta tutto. La domanda non era solo troppo presto. Era su una persona che non c'è. Il lettore, fino a questa frase, poteva credere al fratello. Il testo lo aveva lasciato credere. La correzione è secca, senza esclamazione, nel registro di chi racconta una festa e non di chi si offende in pubblico. Non ha un fratello. Quindi non c'è un divorzio da commentare. La domanda era un'intrusione, e per giunta sbagliata di persona. Anche per questo il tempo, dopo, non è una vigliaccheria su un dolore vero. È un rifiuto di un soggetto inesistente, chiesto da un quasi sconosciuto.
+13. I looked at the sky, which was doing its job, and I said, "Looks like rain.": doing its job è «faceva il suo lavoro». Il cielo, nel pezzo, ha un compito: fornire il soggetto comune. Looks like rain è la formula «sembra che voglia piovere, ha l'aria di pioggia». Like, qui, è «come», non il verbo piacere. Non dice «piove». Dice che il cielo ha l'aspetto della pioggia. È la frase che lui aveva difeso. La usa. Quello che è detto è una previsione morbida. Quello che si intende è: questo argomento no, non con te, non in giardino. Lo si capisce perché arriva al posto della risposta sul fratello, e perché il cielo «fa il suo lavoro» proprio in quel momento: gli dà la frase di uscita. Non è un bollettino. È il chiavistello che si chiude.
+14. "It might," I said. I went to find my coat, which was a lie, because I had come without one: it might è «può darsi», e risponde a does it?, «davvero, ha l'aria?». Might non conferma la pioggia. La lascia possibile. È onesto sul tempo e disonesto sullo scopo, o meglio: il tempo è incerto, e va benissimo che lo sia. The coat è un'altra uscita. Went to find my coat è la scusa ordinaria per lasciare una festa. Which was a lie è il narratore che apre la propria frase. Had come without one: era venuto senza cappotto. Quello che è detto alla festa è «vado a prendere il cappotto». Quello che è vero è che il cappotto non c'è. Lo sappiamo perché lo scrive. Due latch: la pioggia per non rispondere, il cappotto per andarsene. Il secondo è una bugia piccola e dichiarata. Il pezzo non la chiama virtù. La chiama funzionamento.
+15. The latch, I am pleased to report, still works: I am pleased to report è «mi fa piacere riferire», un filo più composto del resto, quasi da verbale, e il contrasto fa sorridere. Still works è «funziona ancora». The latch è quello della tesi: le chiacchiere come chiavistello che si può aprire. Nell'ultima scena non lo ha aperto. Lo ha usato per tenere fuori una domanda. La battuta è che la difesa regge lo stesso. Il chiavistello che si apre è anche quello che si chiude, ed è questo che gli serve, in un giardino, con un uomo incontrato una volta e un fratello che non esiste. Non è un tradimento della tesi. La tesi diceva let in, not dragged. Nessuno è stato trascinato. Lui è andato a cercare un cappotto che non aveva, e il lettore resta con la pioggia possibile e la porta chiusa, che era il punto.
+
+ex1:
+- "Bit grey, isn't it?" belongs to the pavement, not to either person.
+  it: «Un po' grigio, vero?» appartiene al marciapiede, non a una delle due persone.
+- "Typical" can cover a summer, a government or a late bus, and nobody has to say which.
+  it: «Tipico» può coprire un'estate, un governo o un autobus in ritardo, e nessuno deve dire quale.
+- The true thing, in this column, has to be let in, not dragged.
+  it: La cosa vera, in questo pezzo, va fatta entrare, non trascinata.
+- The man asked about a brother's divorce, and the columnist does not have a brother.
+  it: L'uomo ha chiesto del divorzio di un fratello, e chi scrive il pezzo non ha un fratello.
+- "Looks like rain" closed the subject, and the coat was a lie, because the columnist had come without one.
+  it: «Sembra che voglia piovere» ha chiuso l'argomento, e il cappotto era una bugia, perché chi scrive era venuto senza.
+
+ex2:
+- "Bit [grey], isn't it?"
+  it: «Un po' grigio, vero?»
+- Weather talk is not empty. It is [shared].
+  it: Le chiacchiere sul tempo non sono vuote. Sono in comune.
+- A true thing has to be let [in], not dragged.
+  it: Una cosa vera va fatta entrare, non trascinata.
+- In the garden the answer was "[Looks like] rain."
+  it: In giardino la risposta è stata «sembra che voglia piovere».
+- "Typical" will [cover] a late bus and a government, and nobody has to say which.
+  it: «Tipico» copre un autobus in ritardo e un governo, e nessuno deve dire quale.
+
+tasks:
+- Weather is fine until it is the only room you give people. I once stood beside a colleague whose father had just died, and three of us asked her if it was still raining. She said it was. She went home with her coat on properly, which is more than your columnist managed, and nobody asked the question she might have wanted. You say a true thing has to be let in, not dragged. Quite often, in practice, nobody goes near the door. A latch that only ever closes is just a lock, and the crisp is not always a joke. Some people are holding it because their hands need something to do while they wait to be asked.
+  task.it: Scrivi la colonna di risposta, in inglese, registro informale. Puoi essere in disaccordo. Non ripetere la festa e il fratello: rispondi alla tesi del chiavistello.
+  rubric.it: Si capisce il disaccordo: il chiavistello che si chiude soltanto non basta; il registro è informale, con contrazioni e un tu da colonna, non da circolare; c'è una scena breve e poi il giudizio sulla tesi; «let in» e il chiavistello restano nel senso del pezzo, rovesciati; il lettore sente una voce che risponde, non un riassunto.
+
+== 5 C1
+numeral: Lesson Five
+title: Re: the office fridge
+title.it: Oggetto: il frigo dell'ufficio
+
+dialogue:
+- To all staff. The fridge on the third floor has entered its difficult period, which began when the milk lost its cap.
+  it: A tutto il personale. Il frigo del terzo piano è entrato nel suo periodo difficile, cominciato quando il latte ha perso il tappo.
+- Last Monday somebody left a note on the door, in ordinary handwriting: "Please label your food."
+  it: Lunedì scorso qualcuno ha lasciato un biglietto sulla porta, in una grafia normale: «Per favore, mettete il nome sul cibo».
+- The note is still there, curled at one corner, and nobody has taken it down.
+  it: Il biglietto c'è ancora, arricciato a un angolo, e nessuno l'ha tolto.
+- The food is still there too, and it is nobody's.
+  it: Anche il cibo c'è ancora, e non è di nessuno.
+- There is one yoghurt, at the back, behind the mustard.
+  it: C'è uno yogurt, in fondo, dietro la senape.
+- It has no name, and the date on it has passed.
+  it: Non ha un nome, e la data che porta è passata.
+- There is a bottle of milk with the cap off, which has begun a small experiment of its own.
+  it: C'è una bottiglia di latte senza tappo, che ha cominciato un piccolo esperimento per conto suo.
+- If the yoghurt is yours, take it home, or throw it away.
+  it: Se lo yogurt è tuo, portalo a casa, o buttalo.
+- If it is not yours, you may still throw it away, because a kitchen is not a museum.
+  it: Se non è tuo, puoi buttarlo lo stesso, perché una cucina non è un museo.
+- That was the note a person might have sent.
+  it: Quello era il biglietto che avrebbe potuto mandare una persona.
+- What follows is the note the building prefers, and it prefers it in the passive.
+  it: Quello che segue è il biglietto che preferisce il palazzo, e lo preferisce al passivo.
+- It has been noted that a number of perishable items are being stored in the communal chilled facility without attribution.
+  it: È stato notato che un certo numero di prodotti deperibili viene conservato nel servizio refrigerato comune senza attribuzione.
+- Staff are reminded that the labelling of foodstuffs is a condition of use.
+  it: Si ricorda al personale che l'etichettatura delle derrate è una condizione d'uso.
+- Non-compliant items will be subject to removal following a period of five working days.
+  it: Gli articoli non conformi saranno soggetti a rimozione dopo un periodo di cinque giorni lavorativi.
+- Removal will be undertaken without further correspondence, and without a conversation in the kitchen.
+  it: La rimozione sarà effettuata senza ulteriore corrispondenza, e senza una conversazione in cucina.
+- The open-milk situation represents a deviation from accepted hygienic practice.
+  it: La situazione del latte aperto rappresenta una deviazione dalla prassi igienica accettata.
+- Colleagues are requested to ensure the re-securing of caps prior to the completion of use.
+  it: Si chiede ai colleghi di assicurare il ri-fissaggio dei tappi prima del completamento dell'uso.
+- A review of chilled-storage governance will be conducted next quarter, whether or not the yoghurt has acquired a name by then.
+  it: Il prossimo trimestre sarà condotta una revisione della governance della conservazione refrigerata, che lo yogurt abbia o no acquisito un nome per allora.
+- Input from stakeholders is not required at this stage.
+  it: Un contributo degli stakeholder non è richiesto in questa fase.
+- This communication supersedes the handwritten note, which is now informal and of no continuing effect.
+  it: Questa comunicazione sostituisce il biglietto scritto a mano, che ora è informale e non ha più effetto.
+- Continued non-compliance may result in the withdrawal of access to the facility.
+  it: Il perdurare della non conformità può avere come risultato il ritiro dell'accesso al servizio.
+- The facility, for the avoidance of doubt, is the fridge.
+  it: Il servizio, a scanso di equivoci, è il frigo.
+- Thank you for your attention to this matter.
+  it: Grazie per l'attenzione prestata a questa questione.
+- A reply is not expected.
+  it: Non ci si aspetta una risposta.
+- That version was ready to send.
+  it: Quella versione era pronta per essere mandata.
+- It was not sent, because nobody in the building wanted a name at the foot of it.
+  it: Non è stata mandata, perché nessuno nel palazzo voleva un nome in calce.
+- The fridge has required a line of its own, and it does not accept the word facility.
+  it: Il frigo ha preteso una riga sua, e non accetta la parola servizio.
+- It is a fridge, it is cold, and it is tired of being a governance issue.
+  it: È un frigo, è freddo, ed è stanco di essere una questione di governance.
+- The yoghurt may stay until Friday, if somebody gives it a name.
+  it: Lo yogurt può restare fino a venerdì, se qualcuno gli dà un nome.
+- The milk should be finished or thrown away today, with the cap on or the cap off, so long as it goes.
+  it: Il latte va finito o buttato oggi, col tappo o senza, purché se ne vada.
+- The handwritten note was better, and the building knows it.
+  it: Il biglietto scritto a mano era meglio, e il palazzo lo sa.
+- Yours in decreasing temperature,
+  it: Vostro, a temperatura calante,
+- The Fridge.
+  it: Il Frigo.
+
+notes.it:
+1. To all staff. The fridge on the third floor has entered its difficult period: to all staff è «a tutto il personale», l'attacco di un avviso, non di una lettera a una persona. The third floor è «il terzo piano». Has entered its difficult period è già una persona: un frigo con un periodo difficile, come un collega. Il registro, in questa prima frase, è ancora di chi parla. C'è un sorriso, e c'è un frigo vero, in un ufficio che il testo non nomina. Non è un caso di cronaca. È l'ufficio di questa lezione.
+2. Last Monday somebody left a note on the door, in ordinary handwriting: "Please label your food.": handwriting è «grafia, scritto a mano». Ordinary la tiene bassa: non è un modulo. Please è la preghiera ordinaria. Label è «mettere l'etichetta, il nome». Your food è «il vostro cibo», e your, in un avviso al plurale, vale per tutti. È la frase che un collega scriverebbe. Corta, con un verbo, con una persona sottintesa che chiede. Il resto della lezione è il tentativo di non scrivere più così.
+3. The note is still there, curled at one corner, and nobody has taken it down. The food is still there too, and it is nobody's: still è «ancora». La prima still è il biglietto, che è rimasto, arricciato e non tolto. La seconda è il cibo, che è rimasto anche lui. Nobody's è «di nessuno», con l'apostrofo del genitivo. La battuta è che l'avviso ha funzionato solo per se stesso: è ancora sulla porta, e il cibo non ha trovato un padrone. It is nobody's non dice che il cibo sia apparso dal nulla. Dice che nessuno lo firma. È il fatto da cui parte la burocrazia, detto ancora in parole da cucina.
+4. There is a bottle of milk with the cap off, which has begun a small experiment of its own: the cap off è «senza tappo», cap è il tappo. Of its own è «per conto suo». A small experiment è il modo educato, e un po' schifato, di dire che il latte sta cambiando. Il testo non dà il nome scientifico di che cosa stia crescendo. Non serve. Experiment tiene il registro leggero: è scienza da ufficio, non un incidente. Più avanti lo stesso latte diventerà the open-milk situation. Qui è ancora una bottiglia.
+5. If the yoghurt is yours, take it home, or throw it away. If it is not yours, you may still throw it away, because a kitchen is not a museum: take it home e throw it away sono imperativi, o quasi: la seconda è you may, un permesso. Yours è «tuo». Il testo dà del tu, in questa parte, perché sta parlando come un collega. A museum è il contrario di una cucina: in un museo non si tocca, e si conserva. La frase dice che il cibo vecchio non è un reperto. Si può buttare anche se non è tuo. È la regola umana, in due se. Non c'è un dipartimento.
+6. It has been noted that a number of perishable items are being stored in the communal chilled facility without attribution: da qui il palazzo. It has been noted è il passivo impersonale: «è stato notato». Chi ha notato non c'è. In una nota vera spesso c'è una persona. Qui si toglie, perché il registro ufficiale preferisce il fatto alla firma. Perishable items è «prodotti deperibili», non «il cibo». Are being stored è un passivo progressivo: «vengono conservati», e dura. Communal chilled facility è «il servizio refrigerato comune». Facility è «struttura, servizio», una parola che può essere un frigo, una palestra o un parcheggio. Attribution è «attribuzione», cioè un nome sul vasetto. Without attribution vuol dire senza etichetta, e non lo dice. È la prima nominalizzazione grossa: il nome al posto del verbo label.
+7. Staff are reminded that the labelling of foodstuffs is a condition of use: are reminded è un altro passivo. Il personale è l'oggetto di remind, «ricordare a qualcuno». Labelling è un nome, da to label. Foodstuffs è «derrate», più da regolamento che da pranzo. A condition of use è «una condizione d'uso», come in un contratto. La frase umana era please label your food. Questa è la stessa preghiera dopo che i verbi sono diventati nomi e le persone sono diventate staff. Non ci sono contrazioni. It has, are, is: la forma intera è il costume di questo registro, come nella lettera all'albergo (lezione 2, nota 10).
+8. Non-compliant items will be subject to removal following a period of five working days: non-compliant è «non conforme», con il trattino. Items sono «voci, articoli», non vasetti. Will be subject to è «saranno soggetti a»: subject to è la collocazione del regolamento, «passibile di, destinato a». Removal è «rimozione», un nome, non someone will remove them. Following è «dopo», più formale di after. Five working days sono cinque giorni lavorativi, non cinque giorni di calendario: il sabato, in molti uffici, non conta. La frase non dice chi porterà il vasetto al cestino. Il nome removal sta al posto di quella persona.
+9. The open-milk situation represents a deviation from accepted hygienic practice: situation è il nome che inghiotte la bottiglia. Open-milk, col trattino, è un aggettivo composto fabbricato per l'occasione: «del latte aperto». Represents è «rappresenta», un verbo da relazione, non «è». A deviation è «una deviazione». Accepted hygienic practice è «la prassi igienica accettata». Practice, qui, non è l'esercizio di un medico nello studio: è il modo di fare. Accepted non dice accettata da chi. Il tappo mancante è diventato uno scostamento da una norma. Il fatto è lo stesso della bottiglia. La taglia della parola è cambiata.
+10. Colleagues are requested to ensure the re-securing of caps prior to the completion of use: colleagues è «colleghi», più morbido di staff, e però il verbo è requested, passivo, «si chiede». Ensure è «assicurare, fare in modo». Re-securing è un nome inventato sulla forma di quelli veri: re- «di nuovo», secure «fissare», e il -ing lo fa diventare cosa. Vuol dire put the cap back on, «rimetti il tappo». Prior to è «prima di», la versione da circolare di before. The completion of use è «il completamento dell'uso», cioè quando hai finito. La frase intera vuol dire: quando hai finito, chiudi il tappo. Conta le parole umane e poi conta queste. Il registro si misura anche così, a peso.
+11. Input from stakeholders is not required at this stage: input è «un contributo, un parere», una parola da riunione. Stakeholders sono «i portatori di interesse», chiunque abbia a che fare con la cosa. In una cucina gli stakeholder sono le persone che mangiano. Is not required è «non è richiesto». At this stage è «in questa fase», e lascia immaginare fasi future che non ci sono. Quello che è detto è che un parere non serve adesso. Quello che si intende è: non rispondete. Lo si capisce perché una circolare che non vuole risposte lo dice così, non con «please don't reply», che sarebbe ancora una persona. Il passivo e il nome tolgono anche il destinatario del silenzio.
+12. This communication supersedes the handwritten note, which is now informal and of no continuing effect: supersedes è «sostituisce, rende superato», un verbo da legge e da manuale. Communication è la circolare stessa, non una chiacchierata. The handwritten note è il biglietto del lunedì. Informal, qui, è un'accusa: informale vuol dire senza forza. Of no continuing effect è «senza più effetto». Il palazzo non dice che il biglietto fosse sbagliato nel contenuto. Dice che era del registro sbagliato, e che quindi non conta. È il momento in cui il registro diventa l'argomento. Non il latte. Il tono.
+13. The facility, for the avoidance of doubt, is the fridge: for the avoidance of doubt è una formula da contratto, «a scanso di equivoci, per evitare ogni dubbio». Si usa quando una parola può essere letta in due modi, e chi scrive sceglie. Qui la parola è facility, che la circolare ha usato al posto di fridge. La formula, di solito, serve a chiudere una fessura. In questa frase la apre, e ci fa vedere il frigo che c'era sotto. È la battuta al centro del pezzo. Il linguaggio ufficiale ha bisogno di tradursi, in una parentetica, nella parola di cucina. Se non lo fa, il terzo piano potrebbe chiedersi quale servizio gli stanno ritirando.
+14. The fridge has required a line of its own, and it does not accept the word facility: has required è «ha preteso», più duro di has asked. A line of its own è «una riga sua», uno spazio nel testo. Does not accept rifiuta facility. Il frigo diventa l'autore. È una personificazione, e il testo la prende abbastanza alla lettera da fargli correggere una bozza. Non è un miracolo dell'ufficio. È il gioco della lezione: quando la circolare è abbastanza astratta, l'oggetto di cui parla riprende la parola, perché nessun essere umano vuole firmarla. Facility è la parola che rifiuta. Fridge è quella che tiene.
+15. The yoghurt may stay until Friday, if somebody gives it a name. The handwritten note was better, and the building knows it: may stay è un permesso, non una governance review. If somebody gives it a name rimette l'etichetta, che era la preghiera del biglietto, e la rimette come uno scherzo: un nome, non un codice. Friday è un termine umano. The handwritten note was better è il giudizio. The building knows it: il palazzo, che preferiva il passivo, sa che il biglietto era meglio. Quello che è detto è una vittoria del tono scritto a mano. Lo si capisce da better, senza condizionale, e da knows, che dà al palazzo la coscienza che la circolare fingeva di non avere. Non cancella i cinque giorni lavorativi come idea. Li lascia nella bozza non mandata.
+16. Yours in decreasing temperature, / The Fridge.: Yours in decreasing temperature è una chiusura costruita su Yours faithfully e Yours sincerely. Yours resta. Al posto di faithfully c'è una temperatura che scende: il frigo firma da frigo. Decreasing è «calante». The Fridge ha le maiuscole di una firma, come Clare Bowen in fondo a una lettera, e non è una persona. È l'ultima riga, ed è la firma che il piano della lezione chiedeva. La battuta è che l'unica voce disposta a firmare, dopo tutto quel passivo, è l'elettrodomestico. Un essere umano avrebbe potuto scrivere please. Il frigo, alla fine, lo ha fatto a modo suo: un nome sullo yogurt, il latte fuori, e una chiusura che si raffredda.
+
+ex1:
+- Somebody left a handwritten note that said "Please label your food," and the food is still nobody's.
+  it: Qualcuno ha lasciato un biglietto a mano che diceva «Per favore, mettete il nome sul cibo», e il cibo è ancora di nessuno.
+- There is a yoghurt with no name and a date that has passed, and a bottle of milk with the cap off.
+  it: C'è uno yogurt senza nome e con la data passata, e una bottiglia di latte senza tappo.
+- Non-compliant items will be subject to removal after five working days, and removal will happen without further correspondence.
+  it: Gli articoli non conformi saranno soggetti a rimozione dopo cinque giorni lavorativi, e la rimozione avverrà senza ulteriore corrispondenza.
+- For the avoidance of doubt, the facility is the fridge.
+  it: A scanso di equivoci, il servizio è il frigo.
+- The yoghurt may stay until Friday if it is given a name, and the memo is signed "The Fridge."
+  it: Lo yogurt può restare fino a venerdì se gli si dà un nome, e la nota è firmata «Il Frigo».
+
+ex2:
+- It has been [noted] that food is stored without a name.
+  it: È stato rilevato che il cibo è conservato senza un nome.
+- Those items will be [subject] to removal after five working days.
+  it: Quegli articoli saranno soggetti a rimozione dopo cinque giorni lavorativi.
+- Putting the cap back on is called the [re-securing] of caps.
+  it: Rimettere il tappo, in quella circolare, si chiama il ri-fissaggio dei tappi.
+- No reply is wanted: input is not [required] at this stage.
+  it: Non si vuole una risposta: il contributo non è richiesto in questa fase.
+- For the [avoidance] of doubt, the facility is the fridge.
+  it: A scanso di equivoci, il servizio è il frigo.
+
+tasks:
+- Hello all. Quick note about the fridge on the third floor. There is a yoghurt with no name and a date that has already gone, and a bottle of milk with the cap off. If the yoghurt is yours, please take it home or bin it. If it isn't, you can still bin it: we are not a museum. Please put your name on what you leave, and put the cap back on the milk. Anything with no name and a dead date goes on Friday. The yoghurt can stay till then if somebody names it. Thanks. Not a facility. Just the fridge.
+  task.it: Trasforma la circolare in un biglietto gentile ai colleghi, in inglese. Stessi fatti: yogurt, latte, nome, tappo, venerdì. Niente passivi da regolamento e niente «facility».
+  rubric.it: Ci sono yogurt senza nome, data passata, latte aperto, tappo, nome da mettere e venerdì; il registro è da collega, con please e contrazioni, non da circolare; il biglietto chiede due cose e dà una scadenza; non compaiono facility, stakeholder, governance o removal; si sente una persona, e il frigo resta un frigo.
+
+== 6 C1
+numeral: Lesson Six
+title: Best man
+title.it: Il testimone dello sposo
+
+dialogue:
+- Thank you. If I keep this short, it is not because I have nothing to say.
+  it: Grazie. Se la faccio breve, non è perché non abbia niente da dire.
+- It is because Tom has seen my notes, and he has already hidden the microphone once.
+  it: È perché Tom ha visto i miei appunti, e il microfono lo ha già nascosto una volta.
+- I'm Danny. I've known Tom Briggs since we were eighteen, which is long enough to be a risk at a microphone.
+  it: Sono Danny. Conosco Tom Briggs da quando avevamo diciott'anni, quanto basta per essere un rischio davanti a un microfono.
+- Amina, I've known you for three years, which is long enough to know that you had the information, and that you married him with it.
+  it: Amina, io ti conosco da tre anni, quanto basta per sapere che le informazioni le avevi, e che l'hai sposato avendole.
+- There is a story I was asked not to tell.
+  it: C'è una storia che mi è stato chiesto di non raccontare.
+- I am going to walk right up to it, and then I am going to behave.
+  it: Ci cammino dritto fino davanti, e poi mi comporto bene.
+- The story involved a weekend in Brighton, and Amina's father does not need it, and neither does this room.
+  it: La storia riguardava un fine settimana a Brighton, e il padre di Amina non ne ha bisogno, e non ne ha bisogno neanche questa sala.
+- I have now said Brighton.
+  it: Ormai ho detto Brighton.
+- I am putting Brighton back in the box, and I am sitting on the lid.
+  it: Rimetto Brighton nella scatola, e mi siedo sul coperchio.
+- The story I am allowed is smaller, and it is the one I should have started with.
+  it: La storia che mi è permessa è più piccola, ed è quella da cui avrei dovuto cominciare.
+- Two years ago Tom had an interview at nine.
+  it: Due anni fa Tom aveva un colloquio alle nove.
+- At six he was driving Amina's grandmother to the station, because the taxi had not come, and because she asked him, not Amina.
+  it: Alle sei stava portando in macchina la nonna di Amina alla stazione, perché il taxi non era arrivato, e perché l'aveva chiesto a lui, non ad Amina.
+- He missed the interview.
+  it: Ha perso il colloquio.
+- He did not miss the train, which was hers, and he stood on the platform until it left, in a suit that had been meant for a panel of strangers.
+  it: Il treno, che era quello di lei, non l'ha perso, ed è rimasto sul binario finché non è partito, con un abito che era destinato a una commissione di estranei.
+- He told the panel, the next week, that he had been "unavoidably detained".
+  it: Alla commissione, la settimana dopo, ha detto di essere stato «trattenuto per cause di forza maggiore».
+- He told Amina the truth.
+  it: Ad Amina ha detto la verità.
+- The truth was that Nani had strong opinions about the 6.40, and about men who check their watches while a train is coming.
+  it: La verità era che Nani aveva opinioni forti sulle 6.40, e sugli uomini che guardano l'orologio mentre arriva un treno.
+- He got the job the second time, which is either a tribute to his honesty or a shortage of candidates, and I know which one Amina believes.
+  it: Il lavoro l'ha avuto la seconda volta, il che è o un omaggio alla sua onestà o una scarsità di candidati, e io so quale delle due cose crede Amina.
+- A best man is supposed to produce a disaster.
+  it: Un testimone dello sposo dovrebbe produrre un disastro.
+- The disaster today is that I have produced a good report instead, and the good report is the risky bit.
+  it: Il disastro, oggi, è che ho prodotto invece un buon rapporto, e il buon rapporto è la parte rischiosa.
+- Tom is not tidy.
+  it: Tom non è ordinato.
+- This speech is not the place to prove it, and the table decorations have already filed a complaint.
+  it: Questo discorso non è il luogo per provarlo, e i centrotavola hanno già sporto reclamo.
+- He is, however, the man who will miss a room full of important people in order to put one person on the right train.
+  it: È, però, l'uomo che rinuncia a una stanza piena di gente importante pur di mettere una persona sul treno giusto.
+- Amina, you have better evidence than I do. You live with it.
+  it: Amina, tu hai prove migliori delle mie. Ci vivi insieme.
+- I did promise a joke.
+  it: Avevo promesso una battuta.
+- The joke is that I wrote three pages about Brighton, and Tom ate them.
+  it: La battuta è che ho scritto tre pagine su Brighton, e Tom le ha mangiate.
+- Not metaphorically.
+  it: Non in senso metaforico.
+- He thought they were a spare order of service, he was nervous, and the paper was on the plate.
+  it: Credeva che fossero un libretto di cerimonia di scorta, era nervoso, e la carta era sul piatto.
+- There is a smear of ink on the menu in front of him, and if you can read it, you are sitting too close.
+  it: C'è una sbavatura d'inchiostro sul menu davanti a lui, e se riuscite a leggerla siete seduti troppo vicino.
+- So I am left with the grandmother, the train, and this glass.
+  it: Quindi mi restano la nonna, il treno, e questo bicchiere.
+- Please stand, if you are able.
+  it: Alzatevi, se potete.
+- To Amina and Tom: to the right train, to the second interview, and to a marriage that does not need my pages.
+  it: Ad Amina e Tom: al treno giusto, al secondo colloquio, e a un matrimonio che non ha bisogno delle mie pagine.
+- To Amina and Tom.
+  it: Ad Amina e Tom.
+
+notes.it:
+1. I'm Danny. I've known Tom Briggs since we were eighteen, which is long enough to be a risk at a microphone: I'm e I've sono le contrazioni del parlato. Un discorso di nozze non è una circolare: si contrae. I've known è un present perfect, perché il conoscere dura da allora fino a questo microfono. Since we were eighteen è il punto di partenza. Long enough to be a risk: abbastanza lungo da essere un pericolo. Chi parla da diciott'anni ha un archivio, e l'archivio, a un matrimonio, è il rischio. Which riprende tutta l'età. Briggs è il cognome, detto una volta, per la sala che non è tutta amica. Danny, il nome, è per chi è in confidenza. Il registro del testimone sta in mezzo: abbastanza pubblico da dire il cognome, abbastanza intimo da dire I'm.
+2. There is a story I was asked not to tell. I am going to walk right up to it, and then I am going to behave: was asked è un passivo. Chi glielo ha chiesto non si nomina. Può essere Tom, può essere Amina, può essere tutti e due. Right up to it è «fino a ridosso, proprio davanti». Behave è «comportarsi bene», il verbo che si dice ai bambini e, oggi, ai testimoni. Quello che è detto è una promessa di fermarsi. Quello che la sala teme è che la promessa arrivi tardi. Lo si capisce da walk right up to it: avvicinarsi alla storia è già un po' raccontarla. Il timing del discorso è questo. Si crea il pericolo, si fa una pausa, si dice che ci si fermerà. La pausa non è scritta. È nella frase corta che viene dopo, quando Brighton è già uscita.
+3. The story involved a weekend in Brighton, and Amina's father does not need it, and neither does this room: Brighton è una città vera, sulla costa a sud di Londra. Il fine settimana è di questa lezione, e non viene raccontato. Involved è «riguardava». Does not need it è «non ne ha bisogno»: non è «non deve sapere», è più gentile, e più chiaro. Il padre di Amina è in sala, o comunque è la misura del pudore. Neither does this room allarga: non è solo un padre, è il pubblico. La frase è il quasi-disastro. Ha detto il luogo. Non ha detto il fatto. Il recupero comincia con il non dire. Se dicesse che cosa è successo a Brighton, il discorso non si riprenderebbe con una nonna e un treno. Si riprenderebbe con delle scuse.
+4. I am putting Brighton back in the box, and I am sitting on the lid: putting back è «rimettere dentro». The box è immaginaria, la scatola delle storie vietate. The lid è il coperchio. Sitting on the lid è «mi siedo sul coperchio», così non si riapre. È un'immagine comica, ed è il gesto del recupero: il corpo sulla scatola. Il registro è parlato, presente progressivo, I'm putting, I'm sitting, come se lo facesse adesso, davanti a loro. Non è una metafora da saggio. È una gag da tavolo, e funziona perché Brighton, la parola, è già in sala. Il coperchio è in ritardo. Lo dice lui, sedendocisi sopra.
+5. He told the panel, the next week, that he had been "unavoidably detained". He told Amina the truth: a panel, qui, è la commissione del colloquio, non un pannello di legno. Unavoidably detained è lingua da ufficio e da biglietto di scuse: «trattenuto per cause inevitabili, di forza maggiore». Detained è «trattenuto». Unavoidably è «in modo inevitabile». È una formula. Non dice chi, non dice perché, non dice la nonna. Le virgolette, nel discorso, si sentono nel tono: Danny le marca come citazione, non come parole sue. The truth, detto ad Amina, è l'altro registro, quello della casa. Due destinatari, due frasi, lo stesso mattino mancato. È il tema della settimana, in un abito da sposo: la formula per gli estranei, il fatto per chi vive con te.
+6. The truth was that Nani had strong opinions about the 6.40, and about men who check their watches while a train is coming: Nani, in urdu e in hindi, è la nonna materna, la madre della madre. In molte famiglie britanniche di origine sudasiatica è la parola di casa, e qui la usa Tom, riportato da Danny: non «the grandmother». È il segno che Tom è dentro la famiglia abbastanza da usare la loro parola. Strong opinions è «opinioni forti», un understatement affettuoso: non è che gridasse, è che aveva le idee chiare. The 6.40 è il treno delle sei e quaranta, detto all'inglese con l'ora davanti. Si scrive anche 6:40. Nel discorso basta che la sala senta un treno preciso, non un «treno del mattino». Check their watches è «guardare l'orologio». While a train is coming: mentre il treno arriva, cioè nel momento in cui guardare l'ora è già un'offesa piccola. La frase fa ridere la sala e fa riconoscere Amina. È il recupero vero. Non è Brighton. È una persona.
+7. A best man is supposed to produce a disaster. The disaster today is that I have produced a good report instead, and the good report is the risky bit: is supposed to è «dovrebbe, ci si aspetta che». Produce a disaster è il contratto comico del testimone: una storia imbarazzante, tenuta appena al di qua del danno. Danny dice di avere fallito il contratto, perché ha fatto un good report, un buon rapporto, quasi da colloquio o da scuola. Instead è «invece». The risky bit è «la parte rischiosa». Quello che è detto è che la bontà è il pericolo. Quello che si intende è che lodare Tom per la nonna, in pubblico, è più esposto che raccontare Brighton, perché è vero e perché Amina può contraddirlo. Lo si capisce da risky, appiccicato a good. Il discorso si è salvato dal pettegolezzo e si è messo nel territorio dei sentimenti, che a un microfono trema di più.
+8. This speech is not the place to prove it, and the table decorations have already filed a complaint: not tidy è «non ordinato», detto un secondo prima. Prove it sarebbe un elenco di calzini e di tazze. Danny rifiuta l'elenco: not the place. Table decorations sono i centrotavola. Filed a complaint è «hanno sporto reclamo», il registro della lettera formale, messo in bocca a dei fiori. È uno spostamento di registro per far ridere. I fiori non scrivono. Se il tavolo è in disordine, la colpa comica è di Tom, o di Danny che ha gesticolato. La frase non sceglie. Basta che la sala guardi il tavolo. È un gesto da discorso parlato: si indica la stanza, non si descrive un ricordo.
+9. He is, however, the man who will miss a room full of important people in order to put one person on the right train: however, dopo is, è il perno formale dentro una frase parlata. Si potrebbe dire but. However alza il tono di un grado, quello del brindisi che smette di scherzare. Will miss è un futuro di abitudine e di carattere: «è uno che rinuncia», non un piano di martedì. A room full of important people è la commissione, allargata. In order to è «per, allo scopo di», un filo più esplicito di to. The right train è «il treno giusto», quello della nonna, e, da qui in poi, anche il matrimonio. La frase lega il fatto al carattere. Non dice che Tom sia sempre in orario. Dice che cosa fa perdere l'orario.
+10. The joke is that I wrote three pages about Brighton, and Tom ate them. Not metaphorically: three pages sono il discorso vietato, scritto. Ate them è «le ha mangiate». Il pubblico, per un secondo, può prendere ate come «ha fatto sparire, ha censurato». Not metaphorically chiude quella lettura. Alla lettera: le ha mangiate. È il timing. Una frase lunga, una frase di due parole, e la seconda corregge la figura retorica prima che si sistemi. He thought they were a spare order of service spiega il come, nella frase dopo, e non serve anticiparlo qui. Order of service è il libretto della cerimonia. Spare è «di scorta». La gag sta in not metaphorically, da sola.
+11. There is a smear of ink on the menu in front of him, and if you can read it, you are sitting too close: a smear è «una sbavatura». Ink è l'inchiostro delle pagine mangiate, o masticate, finite sul menu. In front of him è Tom, a tavola. If you can read it è una minaccia affettuosa alla prima fila: se leggete, sapete Brighton, e siete troppo vicini. Sitting too close è «seduti troppo vicino». Quello che è detto è un consiglio di ottica. Quello che si intende è che il testo vietato è ancora, fisicamente, nella stanza, e che Danny non lo leggerà. Lo si capisce da if you can read it, che offre la lettura e la vieta insieme. Il recupero tiene: il disastro è inchiostro, non aneddoto.
+12. Please stand, if you are able. To Amina and Tom: to the right train, to the second interview, and to a marriage that does not need my pages: please stand è l'invito al brindisi. If you are able è «se potete, se vi è possibile». Non è una formula vuota. A un matrimonio c'è chi non si alza, e il discorso lo dice, in un inciso, senza fare un discorso a parte. È registro parlato ed educato insieme. To Amina and Tom è il brindisi, to più le persone. Poi tre to ancora: il treno, il secondo colloquio, il matrimonio. È una lista di tre, il ritmo da discorso. Does not need my pages chiude Brighton senza riaprirla: le pagine non servono, e in parte sono state mangiate. L'ultima riga, To Amina and Tom, da sola, è il bicchiere che si alza. Non aggiunge una battuta. Il timing, alla fine, è fermarsi.
+
+ex1:
+- Danny was asked not to tell a story, and he named Brighton without telling it.
+  it: A Danny è stato chiesto di non raccontare una storia, e lui ha nominato Brighton senza raccontarla.
+- Tom missed an interview because he was taking Amina's grandmother to the station.
+  it: Tom ha perso un colloquio perché stava portando la nonna di Amina alla stazione.
+- He told the panel he had been "unavoidably detained", and he told Amina the truth.
+  it: Alla commissione ha detto di essere stato «trattenuto per cause di forza maggiore», e ad Amina ha detto la verità.
+- Danny wrote three pages about Brighton, and Tom ate them, not metaphorically.
+  it: Danny ha scritto tre pagine su Brighton, e Tom le ha mangiate, non in senso metaforico.
+- The toast is to Amina and Tom, the right train, and the second interview.
+  it: Il brindisi è ad Amina e Tom, al treno giusto e al secondo colloquio.
+
+ex2:
+- He had been [unavoidably detained], which was the version for the panel.
+  it: Era stato trattenuto per cause inevitabili, ed era la versione per la commissione.
+- Danny is putting the story back in the [box].
+  it: Danny rimette la storia nella scatola.
+- Tom ate the pages, not [metaphorically].
+  it: Tom ha mangiato le pagine, non in senso metaforico.
+- Please stand, if you are [able].
+  it: Alzatevi, se vi è possibile.
+- The glass is raised [to] Amina and Tom.
+  it: Il bicchiere si alza ad Amina e Tom.
+
+tasks:
+- Please stay sitting if you need to, and stand if you can. I'm not going to be long. I've known these two since the year they moved into the flat with the broken window, and I have watched him learn which cupboard the plates are in, which is slower progress than it sounds. I had a story about a holiday. I'm not telling it. Her father is in the room, and the story can live without an audience. What I will tell you is smaller. Last winter she missed a train home so that a neighbour's child would not wait alone at the wrong bus stop. She was late, she was cold, and she did not make a speech about it afterwards. He is the person who brought the coat to the stop, and who did not mention the coat again. That is the marriage, as far as I am qualified to see it. I'm not qualified very far. I can see a table, and I can see the two of them. Please raise a glass, if you have one. To the right stop, and to the coat, and to the two of them.
+  task.it: Scrivi un brindisi di circa due minuti, in inglese parlato. Non è il matrimonio di Amina e Tom: un'altra coppia, un altro aneddoto. Deve esserci un quasi-incidente evitato, una scena piccola, e il bicchiere in fondo.
+  rubric.it: Si capisce a chi si beve e qual è la scena piccola; il registro è parlato, con contrazioni e frasi che si possono dire ad alta voce; c'è un quasi-racconto che viene chiuso, poi l'aneddoto, poi il brindisi; niente formule da circolare, e niente pagine di Brighton ricopiate; l'ultima frase alza il bicchiere e si ferma.
+
+== 7 C1
+kind: revision
+numeral: Lesson Seven
+title: Revision
+title.it: Ripasso
+
+dialogue:
+- How are you, all of you? No, don't start. "Fine, thanks" will do for the whole table.
+  it: Come state, tutti quanti? No, non cominciate. «Bene, grazie» basta per tutta la tavola.
+  refs: 1
+- The knee is playing up, but I shall live, and someone can pass the potatoes.
+  it: Il ginocchio fa i capricci, ma sopravviverò, e qualcuno può passare le patate.
+  refs: 1
+- Mustn't grumble. A roast is not a medical report.
+  it: Non bisogna brontolare. Un arrosto non è un referto.
+  refs: 1
+- You will not believe the hotel. The radiator never came on, and the eggs were a crime.
+  it: Non crederai all'albergo. Il termosifone non si è mai acceso, e le uova erano un crimine.
+  refs: 2
+- They said they would look into it. Nobody came back. I am not going back either.
+  it: Hanno detto che se ne sarebbero occupati. Non è tornato nessuno. Non ci torno neanche io.
+  refs: 2
+- I should be grateful if you would pass the salt. That was the letter. This is lunch. Pass it.
+  it: Le sarei grato se volesse passare il sale. Quella era la lettera. Questo è il pranzo. Passalo.
+  refs: 2
+- They asked for my greatest weakness. I said I get lost in a paragraph, and that I have learned when to stop.
+  it: Mi hanno chiesto il difetto più grande. Ho detto che mi perdo in un paragrafo, e che ho imparato quando fermarmi.
+  refs: 3
+- In five years? Still in the same trade, I hope, with a little more responsibility.
+  it: Fra cinque anni? Sempre nello stesso mestiere, spero, con un po' più di responsabilità.
+  refs: 3
+- Then I said, "I don't know yet," and that was the one they liked. I told them it would be wonderful.
+  it: Poi ho detto «Non lo so ancora», ed è stata quella che gli è piaciuta. Ho detto loro che sarebbe stato magnifico.
+  refs: 3
+- He wrote "Accepted with enthusiasm." Friday was not mentioned.
+  it: Ha scritto «Accettato con entusiasmo». Venerdì non è stato nominato.
+  refs: 3
+- Bit grey, isn't it? Typical. Let him keep the crisp.
+  it: Un po' grigio, vero? Tipico. Lascia che si tenga la patatina.
+  refs: 4
+- A true thing has to be let in, not dragged, and nobody here is dragging anyone.
+  it: Una cosa vera va fatta entrare, non trascinata, e qui nessuno trascina nessuno.
+  refs: 4
+- Looks like rain. It might. The latch still works.
+  it: Sembra che voglia piovere. Può darsi. Il chiavistello funziona ancora.
+  refs: 4
+- It has been noted that the gravy is being served without attribution.
+  it: È stato notato che la salsina viene servita senza attribuzione.
+  refs: 5
+- Non-compliant potatoes will be subject to removal following a period of five minutes.
+  it: Le patate non conformi saranno soggette a rimozione dopo un periodo di cinque minuti.
+  refs: 5
+- Colleagues are requested to ensure the re-securing of the lid prior to the completion of lunch.
+  it: Si chiede ai colleghi di assicurare il ri-fissaggio del coperchio prima del completamento del pranzo.
+  refs: 5
+- The facility, for the avoidance of doubt, is the jug.
+  it: Il servizio, a scanso di equivoci, è la caraffa.
+  refs: 5
+- I was asked not to tell the story. I am going to walk right up to it, and then I am going to behave.
+  it: Mi è stato chiesto di non raccontare la storia. Ci cammino dritto fino davanti, e poi mi comporto bene.
+  refs: 6
+- I have now said enough, and I am sitting on the lid.
+  it: Ormai ho detto abbastanza, e mi siedo sul coperchio.
+  refs: 6
+- Not metaphorically. If you can read the tablecloth, you are sitting too close.
+  it: Non in senso metaforico. Se riuscite a leggere la tovaglia, siete seduti troppo vicino.
+  refs: 6
+- Please stand, if you are able. To the right train, and to the potatoes.
+  it: Alzatevi, se potete. Al treno giusto, e alle patate.
+  refs: 6
+- Fine, thanks. The jug is a jug, the eggs are eggs, and the rain can wait.
+  it: Bene, grazie. La caraffa è una caraffa, le uova sono uova, e la pioggia può aspettare.
+  refs: 1 4 5
+- Love, all of you. I am not filing anything.
+  it: Con affetto, a tutti voi. Non deposito niente.
+  refs: 2 4
+- The yoghurt may stay until Friday, if somebody at this table gives it a name.
+  it: Lo yogurt può restare fino a venerdì, se qualcuno a questa tavola gli dà un nome.
+  refs: 5
+- To us. Not a panel, not a facility, not a form. Just us.
+  it: A noi. Non una commissione, non un servizio, non un modulo. Solo noi.
+  refs: 3 5 6
+
+notes.it:
+Non c'è una regola nuova, e non c'è niente da imparare a memoria. La settimana ha messo lo stesso inglese in sei stanze, dal saluto al brindisi. A tavola parlano, nell'ordine, la nonna (lezione 1), lo zio (2), la cugina (3), la zia (4), il padre (5) e il fratello (6). Poi le voci si mescolano. Se due registri ti sembrano vicini, è normale: spesso cambia una parola, non la grammatica intera. I dubbi fanno parte del lavoro. Le tabelle mettono in fila quello che hai già letto.
+
+1. Il lessico, dalla cucina al palazzo (lezioni 2, 5, 6). Il registro si vede prima di tutto nella parola scelta. Lo stesso fatto, detto a un'amica o a un direttore, non tiene lo stesso nome. Non è che una delle due parole sia più vera. È che una sta in bocca a una persona, e l'altra sta su una carta.
+
+| Parola di casa | Parola d'ufficio | Dove |
+|---|---|---|
+| freezing, il freddo addosso | did not function, la macchina | lezione 2 |
+| the eggs were a crime | the eggs were cold | lezione 2 |
+| Please label your food | the labelling of foodstuffs | lezione 5 |
+| the fridge | the facility | lezione 5 |
+| la verità ad Amina: Nani, the 6.40 | unavoidably detained | lezione 6 |
+
+Freezing e did not function sono lo stesso termosifone (lezione 2). Crime e cold sono le stesse uova. Facility ha bisogno di una glossa, «for the avoidance of doubt, is the fridge» (lezione 5): quando il nome ufficiale va tradotto, il registro si è allontanato dalla cosa. Unavoidably detained è la frase per la commissione; la nonna è la frase per Amina (lezione 6).
+
+2. La grammatica che cambia con la stanza (lezioni 2, 4, 5). Non è un'altra lingua. È la stessa, con il passivo dove non si vuole una persona, con un nome dove c'era un verbo, con una domandina in coda dove si vuole un sì facile.
+
+| Che cosa | Esempio della settimana | Lezione |
+|---|---|---|
+| passivo impersonale, nessuno firma | It has been noted that | 5 |
+| passivo e nome, nessuno butta il vasetto | will be subject to removal | 5 |
+| verbo diventato nome | the labelling, the re-securing, removal | 5 |
+| richiesta vestita da gratitudine | I should be grateful if you would | 2 |
+| question tag, sì atteso | Bit grey, isn't it? | 4 |
+
+It has been noted toglie chi ha visto il frigo (lezione 5). I should be grateful if you would è la richiesta della lettera all'albergo, non quella dell'amica (lezione 2, e la formula è quella del Perfezionamento, lezione 47, nota 7). Isn't it? ripete il verbo e il soggetto, in negativo dopo un'affermazione, e di solito cerca conferma (lezione 4). Si può rispondere di no. A pranzo, «Bit grey, isn't it?» non chiede un bollettino. Chiede di stare ancora un minuto sul tempo.
+
+3. Le contrazioni (lezioni 1, 2, 3, 5, 6). Nel parlato la forma corta è ordinaria. In una lettera di reclamo e in una circolare, in questa settimana, non c'è. Non è un divieto assoluto: nelle lettere meno rigide le contrazioni si sentono (lezione 2, nota 10). È una scelta di costume. Il discorso di nozze le usa perché è voce, non carta.
+
+| Forma corta | Forma intera | Esempio | Lezione |
+|---|---|---|---|
+| I'm, I've | I am, I have | I'm Danny. I've known Tom | 6 |
+| don't | do not | I don't know yet | 3 |
+| isn't | is not | isn't it? | 4 |
+| mustn't | must not | Mustn't grumble | 1 |
+| nessuna | I am, it has, staff are | la lettera, la circolare | 2, 5 |
+
+Mustn't grumble è già una formula, e la contrazione ne fa parte: per intero, must not grumble, suona come un ordine, non come un sospiro (lezione 1). I don't know yet, al colloquio, è parlato vero, ed è la frase senza la metà morbida (lezione 3). I'm Danny è l'attacco di chi ha un microfono, non di chi ha una carta intestata (lezione 6).
+
+4. I phrasal verb della settimana (lezioni 2, 4, 5, 6). Un phrasal verb è una parola di casa. La circolare, quando deve dirne uno, spesso lo scioglie in un nome. Re-securing of caps è put the cap back on, dopo il viaggio attraverso l'ufficio (lezione 5).
+
+| Verbo | Senso, qui | Esempio | Lezione |
+|---|---|---|---|
+| come on | un apparecchio si accende | The radiator never came on | 2 |
+| look into | prendere in esame, senza una data | he would look into it | 2 |
+| come back | tornare | Nobody came back | 2 |
+| put on | accendere | I will put the radiator on | 2 |
+| let in | fare entrare | let in, not dragged | 4 |
+| put back | rimettere dentro | putting Brighton back in the box | 6 |
+
+Look into, detto alla reception, è cortese e non è un impegno: non ha un quando (lezione 2). Let in è la tesi sulle chiacchiere: la cosa vera entra, non si trascina (lezione 4). Put back, con Brighton nella scatola, è il recupero del discorso, fatto con un verbo da cucina (lezione 6). Nessuno di questi, nella circolare, sopravvive come verbo. Diventa removal, re-securing, completion of use.
+
+5. Quello che è detto e quello che si intende (lezioni 1, 3, 4, 6). Il registro non è solo il vocabolario. È anche quanto della frase resta fuori, e se l'altro lo prende. A volte la frase fuori è il gioco. A volte non arriva, e il margine scrive un'altra storia.
+
+| Detto | Inteso, nel testo | Lezione |
+|---|---|---|
+| Fine, thanks, in chiusura del saggio | il rito vince la spiegazione | 1 |
+| That would be wonderful | fino a venerdì; lui scrive enthusiasm | 3 |
+| Looks like rain | il chiavistello si chiude | 4 |
+| Not metaphorically | le pagine sono state mangiate davvero | 6 |
+| for the avoidance of doubt, the facility is the fridge | la circolare deve tradursi da sola | 5 |
+
+Fine, thanks è la stessa formula dell'inizio, detta da chi aveva appena spiegato perché non basta (lezione 1). A pranzo la nonna la ripete, e non è l'ultima voce: il fratello alza il bicchiere dopo. Wonderful è caldo e condizionale; Accepted with enthusiasm è chiuso e più caldo ancora, e Friday was not mentioned (lezione 3). Looks like rain, in giardino, non è un bollettino: è l'uscita (lezione 4). Not metaphorically arriva in tempo per impedire alla sala di prendere ate come una figura (lezione 6). Il pranzo fa convivere le sei voci. Sono sei modi di stare in una stanza.
+
+tasks:
+- The gravy needs a spoon, not an attribution. If a potato is burnt, bin it: you don't have to wait five minutes or call it non-compliant. Put the lid back on if you get up. And before anyone says facility: it's the jug. The yoghurt can stay till Friday if one of you names it. Thanks. Please pass the salt.
+  task.it: Riscrivi l'intervento del padre, quello della salsina, delle patate, del coperchio e della caraffa, nel registro del pranzo. Stessi fatti. Niente passivo da circolare e niente facility.
+  rubric.it: Restano salsina, patate, coperchio, caraffa e yogurt con un nome; il registro è di casa, con contrazioni e please, non da avviso; le frasi si possono dire a tavola; facility, removal e attribution non sopravvivono come parole della circolare; si sente un parente, e la caraffa torna a essere una caraffa.

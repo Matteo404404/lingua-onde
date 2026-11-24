@@ -914,3 +914,878 @@ tasks:
 - The gravy needs a spoon, not an attribution. If a potato is burnt, bin it: you don't have to wait five minutes or call it non-compliant. Put the lid back on if you get up. And before anyone says facility: it's the jug. The yoghurt can stay till Friday if one of you names it. Thanks. Please pass the salt.
   task.it: Riscrivi l'intervento del padre, quello della salsina, delle patate, del coperchio e della caraffa, nel registro del pranzo. Stessi fatti. Niente passivo da circolare e niente facility.
   rubric.it: Restano salsina, patate, coperchio, caraffa e yogurt con un nome; il registro è di casa, con contrazioni e please, non da avviso; le frasi si possono dire a tavola; facility, removal e attribution non sopravvivono come parole della circolare; si sente un parente, e la caraffa torna a essere una caraffa.
+
+== 8 C1
+numeral: Lesson Eight
+title: Not bad
+title.it: Non male
+
+dialogue:
+- British understatement is often called a national mood, and it is more usefully read as a grammar.
+  it: L'understatement britannico viene spesso chiamato un umore nazionale, ed è più utile leggerlo come una grammatica.
+- It has two regular moves: a weaker word than the fact, or a denial of the word one will not say.
+  it: Ha due mosse regolari: una parola più debole del fatto, oppure la negazione della parola che non si vuole dire.
+- Slightly, a bit, a little and rather stand before the adjective and turn the volume down.
+  it: Slightly, a bit, a little e rather («leggermente», «un po'», «un poco», «piuttosto») stanno davanti all'aggettivo e abbassano il volume (girano la manopola verso il basso).
+- You have met this move already, and none of it was a lie, only a matter of size: slightly late was about four hundred miles, a bit pink was the name for a sunburn, and quite pleasant was said as the first drop landed on the sausages.
+  it: Questa mossa l'hai già incontrata, e non era una bugia, solo una questione di misura: «un po' in ritardo» erano circa quattrocento miglia, «un po' rosa» era il nome di una scottatura, e «piuttosto piacevole» è stato detto mentre la prima goccia atterrava sulle salsicce.
+- The second move is called litotes, and it says a thing by denying the opposite.
+  it: La seconda mossa si chiama litote, e dice una cosa negando il contrario.
+- Not bad, said of a report or of a Yorkshire pudding that has risen, is high praise, and the old advice is to thank the speaker.
+  it: «Non male», detto di una relazione o di un budino dello Yorkshire che è lievitato, è un grande elogio, e il vecchio consiglio è di ringraziare chi parla.
+- Not bad, said in the street when someone asks how you are, is only a step down from fine, and it is not a medal.
+  it: «Non male», detto per strada quando qualcuno chiede come stai, è solo un gradino sotto «bene», e non è una medaglia.
+- The words will not tell you which of the two you have heard: the room will, and the noun, and whether a pudding is on the table.
+  it: Le parole non ti diranno quale dei due hai sentito: lo farà la stanza, e il nome, e se c'è un budino sul tavolo.
+- Not unhappy is not happy: it keeps a gap where a bounce would have been, and the gap is the point, glad enough and still in the chair.
+  it: «Non infelice» non è «felice»: tiene un vuoto dove ci sarebbe stato un salto, e il vuoto è il punto, contento quanto basta e ancora sulla sedia.
+- Not exactly a success withholds the word success, and leaves the shortfall in the room without offering it a seat.
+  it: «Non esattamente un successo» trattiene la parola successo, e lascia lo scarto nella stanza senza offrirgli una sedia.
+- A bit of a problem may be a lost key or water through the ceiling, and the phrase itself does not choose.
+  it: «Un piccolo problema» può essere una chiave smarrita o l'acqua dal soffitto, e la formula, da sola, non sceglie.
+- Could be worse admits that a worse case exists and declines the visit, and I have had worse is praise made by comparison, only as warm as the life doing the measuring.
+  it: «Potrebbe andare peggio» ammette che esista un caso peggiore e rifiuta la visita, e «ne ho avute di peggiori» è un elogio fatto con un confronto, caldo solo quanto la vita che fa da misura.
+- Quite good usually cools an adjective that can vary, though with the stress on quite the same words can mean remarkably good, while quite sure and quite impossible mean completely, and in a good deal of American speech quite before an adjective that can vary sits nearer to very.
+  it: «Abbastanza buono» di solito raffredda un aggettivo che può variare, anche se con l'accento su quite le stesse parole possono voler dire notevolmente buono, mentre «del tutto sicuro» e «del tutto impossibile» vogliono dire completamente, e in una buona parte del parlato americano quite, davanti a un aggettivo che può variare, sta più vicino a «molto».
+- Rather, as a degree rather than a preference, often means more than the speaker expected, which is why rather good is not a twin of quite good.
+  it: Rather, come grado e non come preferenza, spesso vuol dire più di quanto chi parla si aspettasse, ed è per questo che «piuttosto buono» non è il gemello di «abbastanza buono».
+- Irony is the neighbour, not the twin: understatement stays with the fact and spends a smaller word, while lovely weather, after the rain and the sunburn, may mean the opposite or the ten true minutes, and will not say which.
+  it: L'ironia è il vicino di casa, non il gemello: l'understatement resta dalla parte del fatto e spende una parola più piccola, mentre «che bel tempo», dopo la pioggia e la scottatura, può voler dire il contrario oppure i dieci minuti veri, e non dirà quale.
+- Italian often translates upwards, because non male, at home, leans toward niente male, and sometimes the lean is fair, and sometimes the speaker paid only for the smaller phrase.
+  it: L'italiano traduce spesso verso l'alto, perché «non male», a casa, pende verso «niente male», e a volte la pendenza è giusta, e a volte chi parlava aveva pagato solo la frase più piccola.
+- The glossary is for the usual room, and it is not a law of every room.
+  it: Il glossario è per la stanza solita, e non è una legge di ogni stanza.
+- "Not bad," of a piece of work, means better than one is allowed to announce.
+  it: «Non male», detto di un lavoro, vuol dire meglio di quanto si sia autorizzati ad annunciare.
+- "Not bad," in the street, means upright, and the bulletin ends there.
+  it: «Non male», per strada, vuol dire in piedi, e il bollettino finisce lì.
+- "Quite good" means one had hoped for good.
+  it: «Abbastanza buono» vuol dire che si sperava buono.
+- "Rather good" means better than expected, nearly admitted.
+  it: «Piuttosto buono» vuol dire meglio del previsto, quasi ammesso.
+- "A bit of a problem" means the problem has sat down, and it may not be small.
+  it: «Un problema detto piccolo» vuol dire che il problema si è seduto, e può non essere piccolo.
+- "Slightly annoying" depends on the jaw: if it is tight, slightly is probably not the size of the feeling.
+  it: «Un po' fastidioso» dipende dalla mascella: se è tesa, «un po'» probabilmente non è la misura del sentimento.
+- "Not exactly" means the plain word would cost more than the speaker will pay.
+  it: «Non esattamente» vuol dire che la parola chiara costerebbe più di quanto chi parla voglia pagare.
+- "Could be worse" means it is bad and the worse stays in its box.
+  it: «Potrebbe andare peggio» vuol dire che va male, e che il peggio resta nella sua scatola.
+- "I have had worse" means this will do.
+  it: «Ne ho avute di peggiori» vuol dire che questa può andare.
+- "Not unwelcome" means glad, and not inclined to bounce.
+  it: «Non sgradito» vuol dire contento, e senza voglia di fare un salto.
+- A colleague read this far and wrote back, "Not bad."
+  it: Un collega ha letto fino a qui e ha risposto: «Non male».
+- I thanked him, on the old advice, the advice for when the phrase praises a thing made.
+  it: L'ho ringraziato, secondo il vecchio consiglio, il consiglio per quando la frase loda una cosa fatta.
+- The street sense was still on my own page, and I spent the evening looking at it.
+  it: Il senso della strada era ancora sulla mia pagina, e ho passato la sera a guardarlo.
+- I have not asked which he meant.
+  it: Non gli ho chiesto quale intendesse.
+- The essay stops where its subject stops, a little short of the plain word.
+  it: Il saggio si ferma dove si ferma il suo argomento, un po' prima della parola chiara.
+
+notes.it:
+1. British understatement is often called a national mood, and it is more usefully read as a grammar: understatement è la parola inglese per «dire meno del fatto». A national mood è «un umore nazionale», la frase affettuosa che si sente spesso, e che non insegna a costruire la frase. Grammar, qui, non è la tavola dei verbi: è un piccolo insieme di mosse che si possono ripetere, quale parola, quanto grande, che cosa si nega. More usefully read as è «più utile leggerlo come». Il saggio non dice che l'umore sia un'idea falsa. Dice che a chi deve parlare serve di più la grammatica. Often è «spesso»: non ogni persona, non ogni frase. L'italiano attenua anche lui, e spesso fa il contrario: un disastro, per un ritardo di dieci minuti. Il lavoro di questa lezione è vedere le mosse inglesi, non stilare una classifica fra i due paesi.
+2. It has two regular moves: a weaker word than the fact, or a denial of the word one will not say: two regular moves sono «due mosse regolari», non un inventario chiuso. A weaker word than the fact è «una parola più debole del fatto»: la parola sta dalla stessa parte del fatto, ed è più piccola. Slightly late resta un ritardo. Non diventa un arrivo puntuale. A denial è «una negazione», of the word one will not say, «della parola che non si vuole dire». Non si dice bad. Si dice not bad. One, qui, è «uno, chi parla», non il numero uno. Will not, in questa formula, è un rifiuto: la parola grossa non la si paga. Non è solo un futuro. Le due mosse possono stare nella stessa frase, e non sono obbligate a uscire in coppia.
+3. Slightly, a bit, a little and rather stand before the adjective and turn the volume down: slightly è «leggermente, un po'», e sta volentieri con cose negative o neutre, slightly late, slightly alarming (Perfezionamento, lezione 8, nota 6). A bit e a little sono tutti e due «un po'»: a bit è più di casa, a little un filo più composto, e si scambiano spesso. Rather, in questo elenco, è il rather di grado, «piuttosto», non I'd rather, che è una preferenza (Fondamenti, lezione 82, nota 2). Stand before the adjective è «stanno davanti all'aggettivo»: slightly late, non late slightly. Si sente anche rather a good film, con rather prima dell'articolo: è un altro ordine, non l'unico, e il posto più ordinario resta quello davanti all'aggettivo. Turn the volume down è «abbassano il volume», la manopola, non una bugia. In quella nota del Perfezionamento slightly e rather stanno in una fila, dal meno al più, con quite in mezzo. A bit e a little non sono in quella lista, e fanno un lavoro vicino a slightly. La fila è una prima mappa. Quite, in questa frase, non c'è: non resta su un solo gradino, e ha una frase sua.
+4. You have met this move already, and none of it was a lie, only a matter of size: slightly late was about four hundred miles, a bit pink was the name for a sunburn, and quite pleasant was said as the first drop landed on the sausages: this move è la prima mossa, la parola più piccola. None of it was a lie è «non era una bugia». Only a matter of size è «solo una questione di misura». Slightly late, «un po' in ritardo», nel racconto di Barker risponde a how slightly?, e il ritardo è about four hundred miles, «circa quattrocento miglia», circa seicentoquaranta chilometri (Perfezionamento, lezione 5, nota 14). La frase non dice «in orario». Dice un ritardo piccolo, e il numero lo rende enorme. A bit pink, «un po' rosa», è il colore della pelle nel giardino dei Glover. Il racconto non usa la parola sunburn: la chiama pink, e la nota dice che il fatto è una scottatura (Perfezionamento, lezione 66, nota 6). Was the name for è «era il nome di», il nome piccolo. Quite pleasant, «piuttosto piacevole», lo dice il signor Glover mentre la prima goccia finisce sulla salsiccia (Perfezionamento, lezione 66, nota 2). Landed on è «atterrò su, finì su». Le parole sono vere, e sono troppo piccole per il fatto. Chi traduce in su aggiunge un pezzo che la frase non ha comprato. Chi si ferma sulla parola piccola, e non vede le miglia o la goccia, perde il fatto.
+5. The second move is called litotes, and it says a thing by denying the opposite: called è «si chiama». Litotes, in italiano litote, in Gran Bretagna si dice di solito lai*tou*ti‣z, con la voce sulla seconda sillaba; si sente anche *lai*tëti‣z. Denying the opposite è «negando il contrario»: non si afferma good, si nega bad. Nel budino dello Yorkshire, not bad detto di quello che lievita è una litote, e da un uomo dello Yorkshire non c'è lode più alta (Perfezionamento, lezione 30, nota 15). La figura dà la direzione. La dose la dà la frase. Not unhappy nega unhappy e non consegna, da sola, una festa. Trattare ogni litote come un superlativo nascosto è la lettura che questa frase non fa: dice by denying the opposite, «negando il contrario», e si ferma lì.
+6. Not bad, said of a report or of a Yorkshire pudding that has risen, is high praise, and the old advice is to thank the speaker: said of è «detto di». A report è «una relazione», il caso di Marco. Il capo dice not bad, Marco lo prende alla lettera e si offende, e la nota chiama high praise, «grande elogio», quell'uso su un lavoro (Fondamenti, lezione 94, note 3 e 4). A Yorkshire pudding that has risen è «un budino dello Yorkshire che è lievitato»: has risen è il present perfect di rise, rise - rose - risen, «è venuto su». È il caso in cui not bad, per chi lo dice, non ha una lode più alta sopra di sé (Perfezionamento, lezione 30, nota 15). The old advice è «il vecchio consiglio». Quella lezione dei Fondamenti si chiude così: quando un inglese dice che una cosa è not bad, ringrazia (Fondamenti, lezione 94). Thank the speaker è «ringraziare chi parla». Il consiglio, in questa frase, vale per l'uso sul lavoro fatto, la relazione e il budino. Non è un francobollo da mettere su ogni not bad della giornata. L'altra dose è la frase dopo.
+7. Not bad, said in the street when someone asks how you are, is only a step down from fine, and it is not a medal: in the street è «per strada», il saluto, non la scrivania. How you are è la domanda how are you?. A step down from fine è «un gradino sotto fine», e fine è «bene». Only tiene la dose piccola. It is not a medal è «non è una medaglia»: nessuno ti sta lodando. Sei tu che rispondi, e la risposta non è un disastro e non è una festa. È l'uso già messo da parte rispetto a quello del lavoro (lezione 1, nota 3). Street, qui, è il luogo del rito, la fermata, il marciapiede. La stessa risposta si sente anche in casa, a un amico, con lo stesso valore di saluto. La frase non vieta gli interni. Dice il caso in cui not bad non è un elogio.
+8. The words will not tell you which of the two you have heard: the room will, and the noun, and whether a pudding is on the table: the words sono le due parole, not bad. Will not tell you è «non ti diranno». Which of the two you have heard è «quale dei due hai sentito», l'elogio o il saluto. The room will è «lo farà la stanza»: l'ufficio, la strada, la cucina. The noun è il nome di cui si parla, report, pudding, oppure nessun nome, se la frase è solo la risposta a un saluto. Whether a pudding is on the table è «se c'è un budino sul tavolo». È uno scherzo di concretezza, non una ricetta: il test è «c'è un oggetto lodato, o c'è solo un saluto?». Per la relazione il tavolo è la scrivania, e il budino resta il budino. Il lettore lo capisce perché la frase mette room, noun e pudding nello stesso elenco, tre indizi che si possono indicare.
+9. Not unhappy is not happy: it keeps a gap where a bounce would have been, and the gap is the point, glad enough and still in the chair: not unhappy è «non infelice». Is not happy è «non è la frase happy». La litote nega unhappy e non consegna happy intero. A gap è «un vuoto, uno scarto». A bounce è «un salto», la gioia che si vede nel corpo. Would have been è «ci sarebbe stato». The gap is the point è «il vuoto è il punto», non un difetto della frase. Glad enough è «contento quanto basta». Still in the chair è «ancora sulla sedia», senza alzarsi a festeggiare. In italiano «non infelice» fa un lavoro simile: spesso è più freddo di «felice», e a volte è solo uno stile, e la dose non è fissa. Enough, qui, è la dose: non poca, non tutta.
+10. Not exactly a success withholds the word success, and leaves the shortfall in the room without offering it a seat: not exactly è «non esattamente», e allontana chi parla dall'etichetta. Withholds è «trattiene, non consegna». The word success è la parola «successo», non il successo come fatto già deciso. A shortfall è «lo scarto, quello che manca». Leaves it in the room è «lo lascia nella stanza»: lo scarto è presente. Without offering it a seat è «senza offrirgli una sedia». Non gli si dà il nome più chiaro, né fallimento né mezzo successo. It, la seconda volta, è lo shortfall. La frase può coprire un risultato misto o un risultato mancato. Per questo dice shortfall e non disaster. Non è la litote pulita di not bad, che nega il contrario. È un parente: si nega la parola precisa, e la parola giusta resta in piedi, senza sedia. Chi la usa a volte è gentile, a volte è freddo. La frase non sceglie il motivo. Sceglie l'effetto.
+11. A bit of a problem may be a lost key or water through the ceiling, and the phrase itself does not choose: a bit of a, davanti a un nome, rimpicciolisce. A bit of a wait è «un po' di attesa», a bit of a surprise «una piccola sorpresa» (Perfezionamento, lezione 26, nota 9). May be è «può essere»: i due casi sono aperti. A lost key è «una chiave smarrita». Water through the ceiling è «l'acqua che passa dal soffitto». The phrase itself does not choose è «la formula, da sola, non sceglie». Nei Fondamenti il caso famoso è quello grosso: una cosa molto grave può chiamarsi a bit of a problem (Fondamenti, lezione 94). Questa frase non cancella quel caso. Ci mette accanto la chiave, che si dice lo stesso. Chi ascolta decide con la stanza, come per not bad. Itself tiene la formula da sola, senza il soffitto vero o la chiave vera davanti agli occhi: sul foglio, le due letture restano aperte.
+12. Could be worse admits that a worse case exists and declines the visit, and I have had worse is praise made by comparison, only as warm as the life doing the measuring: could be worse è «potrebbe andare peggio». Admits è «ammette». A worse case exists è «esiste un caso peggiore», e quindi il caso presente non è il fondo, ed è comunque un caso da ammettere. Declines the visit è «rifiuta la visita»: non descrive il peggio. Non è il decline di un verbo, e non è un invito declinato a una festa. I have had worse è «ne ho avute di peggiori». Il present perfect tiene il peggio passato come misura di adesso. Praise made by comparison è «un elogio fatto con un confronto», non con un aggettivo come wonderful. Only as warm as the life doing the measuring è «caldo solo quanto la vita che fa da misura». Se quella vita ha avuto dei disastri, «peggio» è un elogio largo. Se è stata facile, l'elogio è magro. Il testo non fissa una sola temperatura. Have had, non had da solo: il confronto guarda da oggi.
+13. Quite good usually cools an adjective that can vary, though with the stress on quite the same words can mean remarkably good, while quite sure and quite impossible mean completely, and in a good deal of American speech quite before an adjective that can vary sits nearer to very: cools è «raffredda», toglie gradi, non aggiunge. An adjective that can vary è un aggettivo che ha un più e un meno: good, long, tired. Usually è «di solito». Nei Fondamenti quite good è «abbastanza buono», un elogio tiepido, e chi lo dice spesso pensava di meglio; nella battuta il capo lo traduce con una delusione, e la nota dice che lì esagera (Fondamenti, lezione 94, nota 5). With the stress on quite è «con la voce su quite»: le stesse due parole, quite good, possono voler dire remarkably good, «notevolmente buono». È un uso che si sente. Non è la lettura ordinaria, che è quella che raffredda. Quite sure e quite impossible non hanno gradi da raffreddare: lì quite vuol dire completely, «del tutto, completamente» (Perfezionamento, lezione 8, nota 6). In a good deal of American speech è «in una buona parte del parlato americano», non in ogni bocca americana. Sits nearer to very è «sta più vicino a very, a molto». Un complimento può cambiare temperatura attraversando l'Atlantico, in un senso o nell'altro, e la frase dice nearer, «più vicino», non «identico».
+14. Rather, as a degree rather than a preference, often means more than the speaker expected, which is why rather good is not a twin of quite good: il primo rather è il grado, rather good, «piuttosto buono». Rather than, in mezzo, è il connettore «piuttosto che, e non». A preference è I'd rather, «preferirei», un'altra costruzione, già vista con la forma base e, se cambia il soggetto, con il passato (Fondamenti, lezione 82, nota 2). Non va messo in questa fila. As a degree è «come indicatore di grado». Often means more than the speaker expected è «spesso vuol dire più di quanto chi parla si aspettasse» (Perfezionamento, lezione 8, nota 6). Which is why è «ed è per questo che». A twin è «un gemello». Rather good può essere più caldo di quite good, perché il rather segna lo scarto rispetto all'attesa, e il quite ordinario raffredda. Non è una legge su ogni frase: often resta. Si sente anche rather good detto piano, senza sorpresa, e allora i due si avvicinano. La frase li separa nel caso ordinario, quello dell'attesa.
+15. Irony is the neighbour, not the twin: understatement stays with the fact and spends a smaller word, while lovely weather, after the rain and the sunburn, may mean the opposite or the ten true minutes, and will not say which: the neighbour, not the twin è «il vicino di casa, non il gemello». Abitano accanto, e non sono la stessa persona. Stays with the fact è «resta dalla parte del fatto»: le parole e il fatto guardano dalla stessa parte, e le parole spendono meno. Spends a smaller word è «spende una parola più piccola». Lovely weather, «che bel tempo», dopo la pioggia e la scottatura dei Glover, può essere il contrario della giornata, e allora è ironia, oppure i dieci minuti di sole vero, e allora è di nuovo la parola piccola, e la frase del racconto non sceglie (Perfezionamento, lezione 66, nota 12). May mean è «può voler dire». Will not say which è «non dirà quale». Il saggio non aggiunge le salsicce in questa frase: ci sono nel racconto, e qui bastano la pioggia e la scottatura, che la nota di allora metteva nella stessa giornata. After, «dopo», tiene i fatti già successi. Non è una previsione.
+16. Italian often translates upwards, because non male, at home, leans toward niente male, and sometimes the lean is fair, and sometimes the speaker paid only for the smaller phrase: translates upwards è «traduce verso l'alto», alza la dose. Because dà il motivo di quell'abitudine, non una regola del dizionario. Non male, at home, è «non male, a casa», in italiano. Leans toward è «pende verso». Niente male è già un piccolo elogio, più caldo di un not bad detto per strada, e a volte giusto per un not bad detto di un budino. Sometimes the lean is fair è «a volte la pendenza è giusta»: alzare è la traduzione onesta. Sometimes the speaker paid only for the smaller phrase è «a volte chi parlava aveva pagato solo la frase più piccola». Paid for è «aveva pagato, aveva comprato»: la metafora è il prezzo della parola, la stessa del glossario, e qui vuol dire che il senso comprato era quello piccolo. Alzarlo è un regalo che l'originale non ha fatto. Often e sometimes tengono le due porte aperte. Non c'è una dogana all'uscita dall'italiano.
+17. "Slightly annoying" depends on the jaw: if it is tight, slightly is probably not the size of the feeling: slightly annoying è «un po' fastidioso». Depends on the jaw è «dipende dalla mascella». If it is tight è «se è tesa». Probably not the size of the feeling è «probabilmente non è la misura del sentimento»: la parola è più piccola della rabbia. Probably è lì apposta. Una mascella tesa può essere anche un mal di denti, o un'abitudine della faccia, e la frase non la promuove a prova. Nei Fondamenti, I'm slightly annoyed, «sono un po' irritato», può voler dire che uno è furioso, e il tono, una pausa, un sopracciglio fanno il lavoro che la parola non fa (Fondamenti, lezione 94). La mascella è uno di quei segni, un esempio, non un codice nuovo. Detto è «leggermente». Inteso, se la mascella è tesa e il resto del momento concorda, è «molto». Lo si capisce dallo scarto fra slightly e tight, e da probably, che lascia la porta socchiusa.
+18. The essay stops where its subject stops, a little short of the plain word: stops where its subject stops è «si ferma dove si ferma il suo argomento», e l'argomento è proprio il fermarsi prima. A little short of è «un po' prima di, senza arrivare a». The plain word, qui, sarebbe la domanda «quale dei due intendevi?». L'autore ha seguito la lettura probabile (un collega, un saggio: la stanza è il lavoro) e ha ringraziato. Poi ha passato la sera sull'altro senso, quello della strada, che sta nel suo stesso glossario, e non ha chiesto. La battuta è che il saggio sull'understatement finisce con un understatement: il dubbio c'è, e resta non detto.
+
+ex1:
+- Understatement, read as a grammar, has two moves: a weaker word than the fact, or a denial of the word one will not say.
+  it: L'understatement, letto come una grammatica, ha due mosse: una parola più debole del fatto, oppure la negazione della parola che non si vuole dire.
+- Slightly late was about four hundred miles, and it was not a lie, only a matter of size.
+  it: «Un po' in ritardo» erano circa quattrocento miglia, e non era una bugia, solo una questione di misura.
+- Not bad, said of a Yorkshire pudding that has risen, is high praise; not bad, said in the street, is only a step down from fine.
+  it: «Non male», detto di un budino dello Yorkshire che è lievitato, è un grande elogio; «non male», detto per strada, è solo un gradino sotto «bene».
+- Not unhappy keeps a gap where a bounce would have been, and not exactly a success leaves the shortfall without a seat.
+  it: «Non infelice» tiene un vuoto dove ci sarebbe stato un salto, e «non esattamente un successo» lascia lo scarto senza una sedia.
+- He wrote "Not bad", I thanked him, and I have not asked which he meant.
+  it: Ha scritto «Non male», l'ho ringraziato, e non gli ho chiesto quale intendesse.
+
+ex2:
+- The first move uses a [weaker] word than the fact.
+  it: La prima mossa usa una parola più debole del fatto.
+- The second move is called [litotes].
+  it: La seconda mossa si chiama litote.
+- Said of a Yorkshire pudding that has risen, "not bad" is high [praise].
+  it: Detto di un budino dello Yorkshire che è lievitato, «non male» è un grande elogio.
+- A bit of a problem may be a lost key or water through the [ceiling].
+  it: Un problema detto piccolo può essere una chiave smarrita o l'acqua dal soffitto.
+- Rather good is not a [twin] of quite good.
+  it: «Piuttosto buono» non è il gemello di «abbastanza buono».
+
+tasks:
+- «Non male», detto di un lavoro: meglio di quanto si possa annunciare. «Non male», per strada: sono in piedi, e il bollettino è finito. «Abbastanza buono»: si sperava buono. «Piuttosto buono»: meglio del previsto, e quasi lo si ammette. «Quel problema detto piccolo»: il problema si è seduto, e può non essere piccolo. «Un po' fastidioso»: se la mascella è tesa, «un po'» probabilmente non è la misura. «Non esattamente»: la parola chiara costerebbe troppo. «Potrebbe andare peggio»: va male, e il peggio resta nella scatola. «Ne ho avute di peggiori»: questa può andare. «Non sgradito»: fa piacere, senza un salto.
+  task.it: Traduci in italiano schietto il glossario in fondo al testo. Per ogni formula scrivi il senso della stanza in cui il testo la mette, non la traduzione parola per parola.
+  rubric.it: Si capisce il senso schietto di ogni formula, non la versione letterale; l'italiano è naturale, da persona a persona; ci sono tutte le voci del glossario, distinte; «non male» del lavoro e «non male» della strada non diventano la stessa frase; mascella, scatola e salto restano nel senso del testo.
+
+== 9 C1
+numeral: Lesson Nine
+title: The worst holiday
+title.it: La peggiore delle vacanze
+
+dialogue:
+- Clare found a field above Windermere that would take a tent, and she called four days a long weekend.
+  it: Clare ha trovato un campo sopra Windermere che accettava una tenda, e ha chiamato quattro giorni un fine settimana lungo.
+- She sent Mother the booking, in case we were slightly delayed.
+  it: Ha mandato alla mamma la prenotazione, nel caso fossimo leggermente in ritardo.
+- The forecast had said fine, and we read it with a clear conscience, as far as the first adjective.
+  it: Le previsioni avevano detto «bello», e le abbiamo lette a cuor leggero, fino al primo aggettivo.
+- The train from Manchester was on time, which we later agreed had been the high point.
+  it: Il treno da Manchester era in orario, e più tardi siamo stati d'accordo che quello era stato il punto più alto.
+- The walk from the station was a little longer than the map, and after the second stile we put the map away, by mutual agreement.
+  it: La camminata dalla stazione è stata un po' più lunga della mappa, e dopo il secondo cancelletto abbiamo messo via la mappa, di comune accordo.
+- The farmer, who had taken the booking, looked at the sky and said we should be all right if we liked a bit of weather.
+  it: Il fattore, che aveva preso la prenotazione, ha guardato il cielo e ha detto che ce la saremmo cavata se ci piaceva un po' di tempo.
+- The field was slightly damp.
+  it: Il campo era leggermente umido.
+- The damp came over the ankles, if one stood still long enough to admire the view.
+  it: L'umido arrivava sopra le caviglie, se si restava fermi abbastanza a lungo da ammirare la vista.
+- The tent was airy.
+  it: La tenda era ariosa.
+- The evening came in without knocking, and settled on the sleeping bags, which was one way to air them.
+  it: La sera è entrata senza bussare, e si è sistemata sui sacchi a pelo, che era un modo di arieggiarli.
+- Supper was soup from a tin, and the tin had ambition.
+  it: La cena era una minestra in scatola, e la scatola aveva ambizione.
+- The stove did not share it.
+  it: Il fornello non la condivideva.
+- We ate what stayed in the pan, and a sheep took the rest, and would not be moved on.
+  it: Abbiamo mangiato quello che è rimasto nella padella, e una pecora ha preso il resto, e non si è fatta mandare via.
+- We did not insist.
+  it: Non abbiamo insistito.
+- The midges were attentive.
+  it: I moscerini erano premurosi.
+- I have known company with less staying power, though not recently.
+  it: Ho conosciuto compagnie con meno capacità di restare, anche se non di recente.
+- There was a sunset, lasting about ten minutes, which Clare called not bad, and she was being precise.
+  it: C'è stato un tramonto, di circa dieci minuti, che Clare ha detto non male, ed era precisa.
+- The night was on the short side, the damp having accepted the invitation to stay.
+  it: La notte è stata un po' corta, avendo l'umido accettato l'invito a restare.
+- In the morning the tent declined to become luggage.
+  it: La mattina la tenda ha declinato di diventare bagaglio.
+- The farmer said he would hang it in the barn, and that we might collect it when it had come to its senses.
+  it: Il fattore ha detto che l'avrebbe appesa nel fienile, e che potevamo riprenderla quando fosse tornata in sé.
+- We took him at his word, and walked down with the rucksacks and without it.
+  it: L'abbiamo preso in parola, e siamo scesi con gli zaini e senza di lei.
+- The path was familiar in places, and the familiar places were not always the path.
+  it: Il sentiero era familiare in alcuni punti, e i punti familiari non erano sempre il sentiero.
+- We reached the platform as the last train was leaving, which would have been good timing in a kinder arrangement.
+  it: Siamo arrivati al binario mentre l'ultimo treno partiva, il che sarebbe stato un buon tempismo in un assetto più gentile.
+- The next was in the morning.
+  it: Il successivo era la mattina.
+- The canopy was a little public, and not without a draught, and a man offered us yesterday's paper, which we were in no position to refuse.
+  it: La pensilina era un po' pubblica, e non senza uno spiffero, e un uomo ci ha offerto il giornale di ieri, e non eravamo nella posizione di rifiutare.
+- Sleep came in instalments.
+  it: Il sonno è arrivato a rate.
+- The morning train was well attended, and we stood, and saw a good deal of the carriage.
+  it: Il treno del mattino era ben frequentato, e siamo stati in piedi, e abbiamo visto una buona parte della carrozza.
+- I wrote to Mother as we left Oxenholme, so that she would not worry.
+  it: Ho scritto alla mamma mentre lasciavamo Oxenholme, perché non si preoccupasse.
+- The field, I told her, had been slightly damp, the midges sociable, the tent airy, and the station unexpectedly convenient.
+  it: Il campo, le ho detto, era stato leggermente umido, i moscerini socievoli, la tenda ariosa, e la stazione inaspettatamente comoda.
+- I left out the ankles, the sheep and the draught.
+  it: Ho lasciato fuori le caviglie, la pecora e lo spiffero.
+- She replied before Preston, having opened the booking Clare had sent, and she had taken the same week next year, as her treat, because we had made it sound repeatable.
+  it: Ha risposto prima di Preston, avendo aperto la prenotazione che Clare aveva mandato, e aveva preso la stessa settimana l'anno prossimo, offerta da lei, perché l'avevamo fatta sembrare da ripetere.
+- Clare read it over my shoulder and said, "Slightly efficient of her."
+  it: Clare l'ha letta da sopra la mia spalla e ha detto: «Di un'efficienza misurata, la sua».
+- I agreed, and I have since thanked Mother, in words that were not entirely accurate and were the right size.
+  it: Ero d'accordo, e da allora ho ringraziato la mamma, con parole non del tutto esatte e della misura giusta.
+- Clare is already thinking of next August.
+  it: Clare sta già pensando al prossimo agosto.
+- I told her the forecast would be fine.
+  it: Le ho detto che le previsioni sarebbero state belle.
+- I had read as far as the first adjective, and it seemed only fair.
+  it: Avevo letto fino al primo aggettivo, e mi è sembrato solo giusto.
+
+notes.it:
+1. Clare found a field above Windermere that would take a tent, and she called four days a long weekend: Clare è la sorella di chi racconta, e Mother, più avanti, è la loro madre: in inglese il nome di parentela senza articolo, come un nome proprio, quando la famiglia è quella di chi parla. A field above Windermere è «un campo sopra Windermere». Windermere è il lago e la cittadina nel Lake District, in Cumbria, e il treno da Manchester ci arriva passando da Oxenholme, sulla linea per la Scozia: Oxenholme e poi Preston, più a sud, tornano alla fine, e la geografia non cambia a metà. Would take a tent è «accettava una tenda», un campo di un fattore, non un campeggio con la reception. A long weekend è di solito il venerdì più il sabato e la domenica, tre giorni, a volte quattro. Four days called a long weekend è la prima dose piccola: la durata viene vestita da fine settimana. Il racconto non dice «la peggiore vacanza». Il titolo lo dice. Da qui in poi le parole restano più piccole del titolo, e il lettore tiene il titolo in mano come la misura vera.
+2. She sent Mother the booking, in case we were slightly delayed: sent Mother the booking è «ha mandato alla mamma la prenotazione», la conferma, con il nome del campo. In case è «nel caso». Slightly delayed è «leggermente in ritardo» (lezione 8, e il slightly late di quattrocento miglia in Perfezionamento, lezione 5, nota 14). Qui il ritardo non è ancora successo. È la scusa dell'email: così qualcuno sa dove sono. L'email fa due lavori, e il secondo si vede solo alla fine. Senza quel messaggio la madre non avrebbe il modo di riprenotare. La frase, al suo posto, sembra solo prudenza. Slightly, davanti a delayed, è già la manopola bassa: un ritardo, se ci sarà, verrà detto piccolo. Il racconto prepara la misura prima del fatto.
+3. The forecast had said fine, and we read it with a clear conscience, as far as the first adjective: had said è un past perfect, la previsione viene prima della lettura. Fine è «bello, sereno», la parola che i Glover avevano letto al posto di later (Perfezionamento, lezione 66, note 2 e 4). With a clear conscience è «a cuor leggero, con la coscienza a posto»: non si sentono in colpa di essersi fermati. As far as the first adjective è «fino al primo aggettivo». L'aggettivo è fine. Quello che veniva dopo, un later, un rovescio, una sera, non entra nella lettura. Non è che il testo delle previsioni sia citato per intero. È che loro si sono fermati dove la parola era gentile. La stessa frase torna in chiusura, e lì non è più un errore: è una scelta. Qui è ancora l'errore, detto come se fosse ordine.
+4. The train from Manchester was on time, which we later agreed had been the high point: on time è «in orario». Which riprende tutta la clausola, «il che». Later è «più tardi», quando il resto si è visto. Had been è il past perfect dentro l'accordo: il punto alto era già passato quando lo nominano. The high point è «il punto più alto», e detto di un treno puntuale, in una vacanza di quattro giorni, abbassa tutto il resto sotto un orario ferroviario. Non dice che il resto sia stato un disastro. Lo fa diventare più basso di un treno in orario. Il lettore, col titolo in testa, capisce l'altezza. Senza il titolo sarebbe solo un complimento al treno.
+5. The walk from the station was a little longer than the map, and after the second stile we put the map away, by mutual agreement: a little longer than the map è «un po' più lunga della mappa». Non dice che si sono persi. Lo si capisce dal secondo pezzo. A stile è il cancelletto a scaletta tra i campi, tipico dei sentieri inglesi, non uno stile di scrittura. After the second stile è «dopo il secondo»: due ne hanno superati, e poi hanno smesso di controllare. Put the map away è «mettere via la mappa». By mutual agreement è «di comune accordo», la formula delle decisioni serie, qui usata per una resa. Due adulti che si perdono e chiamano la resa un accordo: la parola è più ordinata del fatto. Non si dicono persi. Si danno ragione a vicenda.
+6. The farmer, who had taken the booking, looked at the sky and said we should be all right if we liked a bit of weather: the farmer è il fattore del campo, non una guida. Who had taken the booking lo lega alla prenotazione di Clare: è lui che ha detto sì alla tenda. A bit of weather è «un po' di tempo», e weather, senza aggettivo, in questa formula è il tempo cattivo, non il bel tempo. È un parente di a bit of a problem (lezione 8): la parola piccola, e il cielo che lui guarda è il contesto. We should be all right è «dovremmo cavarcela». If we liked è «se ci piaceva». La condizione sposta il tempo da fatto a gusto. Se non ti piace, il problema è il tuo gusto, non il cielo. È gentile, ed è anche una levata di responsabilità. Il racconto non lo sbugiarda. Gli fa dire la dose piccola, e poi mostra le caviglie.
+7. The field was slightly damp.: slightly damp è «leggermente umido». La frase è intera, e corta, e sta da sola come starebbe in una cartolina. Damp non è wet. Wet è bagnato. Damp è umido, la parola del bucato che non si è asciugato, non quella di un campo sotto acqua. Slightly la abbassa ancora. Detto così, senza la frase dopo, una madre si tranquillizza. Il racconto lo sa: la stessa coppia di parole torna nella lettera. Qui la frase è il campione del metodo. Non mente. Un campo può essere damp. La dose è il slightly, e il punto fermo, che chiude prima delle caviglie.
+8. The damp came over the ankles, if one stood still long enough to admire the view: questa frase non sostituisce slightly damp. Ne dà la misura. Came over the ankles è «arrivava sopra le caviglie»: per chiamarlo slightly damp bisogna restare sull'aggettivo e non sull'altezza. If one stood still è «se si restava fermi». One è l'impersonale, un filo più composto di you, e sta bene nel tono di chi scrive alla madre anche quando parla a noi. Long enough to admire the view è «abbastanza a lungo da ammirare la vista». La vista è la scusa per restare fermi. Sotto, l'acqua sale. Il lettore mette insieme le due frasi: la prima è la parola, la seconda è il fatto, e nessuna delle due dice «allagato». È lo stesso meccanismo di quite pleasant con la prima goccia (Perfezionamento, lezione 66, nota 2): vero, e troppo piccolo. L'altezza è in questa frase. La parola «allagato» non ci entra.
+9. The evening came in without knocking, and settled on the sleeping bags, which was one way to air them: came in without knocking è «è entrata senza bussare», detto di una persona maleducata, e il soggetto è the evening, la sera, cioè il tempo. Settled on è «si è sistemata su», come un ospite che si siede e resta. The sleeping bags sono i sacchi a pelo. Which was one way to air them è «il che era un modo di arieggiare»: air, verbo, è lo stesso di airy. La tenda ariosa arieggia i sacchi facendoci piovere sopra. È la glossa di airy, e non usa leak, «perdere, lasciare entrare l'acqua». Il lettore sa che è una perdita perché la sera si siede sui sacchi, non perché qualcuno abbia detto «buco». One way lascia aperte altre vie, e non ne nomina nessuna migliore.
+10. Supper was soup from a tin, and the tin had ambition.: soup from a tin è «minestra in scatola», già una cena piccola. The tin had ambition è «la scatola aveva ambizione»: l'ambizione è della latta, non dei due. È un modo di dire che la cena voleva essere una cena. Had ambition non dice che ci sia riuscita. La frase dopo toglie il fornello dall'impresa. Ambition, detto di una latta, è troppo grande per l'oggetto, e quindi è il contrario della dose piccola: qui per una frase l'oggetto è troppo piccolo per la parola. È un lampo di ironia, il vicino di casa dell'understatement (lezione 8), e dura una coordinata. Poi si torna alla parola piccola.
+11. The midges were attentive.: midges sono i moscerini, quelli che in estate, vicino all'acqua, nel nord dell'Inghilterra come in Scozia, non chiedono il permesso. Attentive è «premuroso, attento», una parola da ospite buono o da cameriere. Detta dei moscerini è un elogio falso nella scelta della parola, vero nel fatto che non si distraevano. Non è il contrario del fatto: c'erano, e insistevano. È la parola di un altro registro, quello della cortesia, messa su un morso. I have known company with less staying power, nella frase dopo, tiene il confronto: staying power è «capacità di restare, di non mollare». Though not recently è «anche se non di recente»: il narratore non finge di avere una vita di compagnie peggiori dietro. Il confronto è corto. In italiano verrebbe voglia di dire «ci hanno divorati». Il testo paga «premurosi».
+12. There was a sunset, lasting about ten minutes, which Clare called not bad, and she was being precise: there was a sunset è «c'è stato un tramonto», e la durata è about ten minutes, «circa dieci minuti». Not bad, detto da Clare del tramonto, non è il not bad del saluto per strada e non è, da solo, la medaglia di un budino (lezione 8). She was being precise è «era precisa»: dieci minuti di sole, in una giornata di acqua, sono davvero non male, né un disastro né una festa. La frase lo dice, così non si legge ogni not bad del racconto come un elogio enorme. Precisa vuol dire: la dose, per una volta, coincide col fatto. Dieci minuti sono dieci minuti. Il lettore lo capisce da precise, che sarebbe di troppo se not bad fosse solo una formula. Clare sa usare la misura giusta. È per questo che, più avanti, slightly efficient è affidato a lei.
+13. In the morning the tent declined to become luggage.: declined è «ha declinato, ha rifiutato con cortesia», il verbo di un invito a cena, non di un oggetto zuppo. To become luggage è «diventare bagaglio», cioè lasciarsi piegare e portare. Una tenda che decline è una tenda troppo bagnata per entrare nello zaino, detta con il verbo di una persona educata. Non c'è wet, non c'è heavy. C'è un rifiuto civile. La frase del fattore completa il senso senza alzare il lessico: hang it in the barn, «appenderla nel fienile», when it had come to its senses, «quando fosse tornata in sé». Come to one's senses è «tornare in sé, rinsavire», detto di persone. La tenda è ancora un ospite difficile. Non promette un'ora: might collect, «potevamo riprendere», non «verremo a prenderla martedì». We took him at his word è «l'abbiamo preso in parola». È ragionevole: è il suo campo, la tenda non viaggia, il treno sì. Il racconto non dice che la tenda sia perduta. Dice che il fattore l'appenderà nel fienile, e che la si riprende quando rinsavisce.
+14. The path was familiar in places, and the familiar places were not always the path.: familiar è «familiare, già visto». In places è «in alcuni punti». La prima metà consola: riconoscevano qualcosa. La seconda toglie la consolazione con una quasi-ripetizione: i punti che riconoscevano non erano sempre il sentiero. È il modo di dire «ci siamo persi di nuovo» senza dirlo. Si erano già persi all'andata, quando la mappa è finita nello zaino. Qui non c'è neanche la mappa. Il chiasmo, familiar in places / places were not always the path, è la figura: le stesse parole, l'ordine girato, il senso che si rovescia. Non è un gioco vuoto. È l'unica ammissione, e resta sotto il livello della parola lost.
+15. We reached the platform as the last train was leaving, which would have been good timing in a kinder arrangement.: the last train è «l'ultimo treno», e per questo il successivo è la mattina: non ne mancava uno in mezzo. As it was leaving è «mentre partiva»: lo vedono, non lo prendono. Would have been good timing è «sarebbe stato un buon tempismo», il condizionale del fatto che non c'è. In a kinder arrangement è «in un assetto più gentile», un universo o un orario più gentile. La frase loda il loro arrivo, e la lode vale solo in un mondo dove il treno li aspetta. In questo mondo è un treno perso. The next was in the morning, la frase dopo, è solo la conseguenza di last: non ne mancava uno in mezzo.
+16. I wrote to Mother as we left Oxenholme, so that she would not worry.: as we left Oxenholme è «mentre lasciavamo Oxenholme», lo snodo dove il ramo di Windermere incontra la linea verso sud, Preston e Manchester. So that she would not worry è «perché non si preoccupasse». Il motivo è vero, ed è anche la ragione del registro, ma le parole della lettera non sono in questa frase. Stanno in quella dopo: slightly damp, sociable, airy, unexpectedly convenient, le stesse già spese nel racconto. Convenient, detto della stazione, è vero in un senso che lei non può misurare: ci hanno passato la notte. La frase ancora dopo è il taglio, left out, «ho lasciato fuori»: ankles, sheep, draught. Quello che non entra nel genere si toglie. Non si nega, e non si dice che fossero troppo grandi per la carta: si vede solo che restano fuori.
+17. She replied before Preston, having opened the booking Clare had sent, and she had taken the same week next year, as her treat, because we had made it sound repeatable.: before Preston è «prima di Preston». Da Oxenholme a Preston il treno ci mette un tempo ordinario, non un minuto: una madre che ha già la mail della prenotazione può riaprirla e rispondere in quel tratto. Having opened the booking è «avendo aperto la prenotazione», quella del caso di ritardo. Had taken the same week è «aveva preso la stessa settimana». As her treat è «offerta da lei, paga lei»: treat è un piacere pagato, un regalo, non un dovere. Because we had made it sound repeatable è «perché l'avevamo fatta sembrare da ripetere». Il because è il suo motivo, ed è il motivo giusto rispetto alla lettera, non rispetto al campo. Sound repeatable è «sembrare ripetibile». Il codice ha funzionato sulla persona che non c'era. Clare, che c'era, legge da sopra la spalla e dice slightly efficient of her, «di un'efficienza misurata». Efficient è troppo composto per «ha prenotato di nuovo la nostra disgrazia», e slightly lo tiene nella famiglia della vacanza. I agreed è «ero d'accordo»: non la corregge. Tra loro la dose piccola è ormai una lingua. La madre non la parla. La subisce, contenta.
+18. I had read as far as the first adjective, and it seemed only fair.: il grazie, tre frasi prima, è I agreed, and I have since thanked, «ero d'accordo, e ho ringraziato, da allora», in words that were not entirely accurate and were the right size, «con parole non del tutto esatte e della misura giusta». Not entirely accurate è parente di not exactly (lezione 8). Were the right size è la misura del grazie a una madre che voleva fare un regalo, non la misura del campo. Le due cose stanno con and. Poi Clare pensa già ad agosto, e questa frase chiude. Had read as far as the first adjective ripete l'apertura, il fine letto e il resto lasciato. It seemed only fair è «mi è sembrato solo giusto»: giusto verso quel metodo, non verso una sorella da ingannare. Lei c'era, e ha già risposto con slightly efficient. La frase è un occhiolino tra chi conosce il codice, non una seconda trappola per Clare. Il lettore lo capisce perché fair, dopo una vacanza il cui punto più alto è stato un treno in orario, non è un bollettino. Il racconto si ferma dove si ferma la lettura. Il titolo resta la parola più grande. Loro non la dicono.
+
+ex1:
+- The field was slightly damp, and the damp came over the ankles if one stood still.
+  it: Il campo era leggermente umido, e l'umido arrivava sopra le caviglie se si restava fermi.
+- The tent was airy: the evening came in without knocking and settled on the sleeping bags.
+  it: La tenda era ariosa: la sera è entrata senza bussare e si è sistemata sui sacchi a pelo.
+- Clare called a ten-minute sunset not bad, and she was being precise.
+  it: Clare ha detto non male di un tramonto di dieci minuti, ed era precisa.
+- We reached the platform as the last train was leaving, and the next was in the morning.
+  it: Siamo arrivati al binario mentre l'ultimo treno partiva, e il successivo era la mattina.
+- Mother took the same week next year, because the letter had made the holiday sound repeatable.
+  it: La mamma ha preso la stessa settimana l'anno prossimo, perché la lettera aveva fatto sembrare la vacanza da ripetere.
+
+ex2:
+- After the second stile they put the [map] away.
+  it: Dopo il secondo cancelletto hanno messo via la mappa.
+- The farmer said they would be all right if they liked a bit of [weather].
+  it: Il fattore ha detto che se la sarebbero cavata se gli piaceva un po' di tempo, di quello che non è bello.
+- The canopy was not without a [draught].
+  it: La pensilina non era senza uno spiffero.
+- Sleep came in [instalments].
+  it: Il sonno è arrivato a rate.
+- She had made the holiday sound [repeatable].
+  it: L'aveva fatta sembrare una vacanza da ripetere.
+
+tasks:
+- Clare booked a field above Windermere for four days and sent Mum the confirmation, in case we were late. The forecast said fine and then something worse, and we stopped at fine. The train from Manchester was on time. That was the best part. We got lost walking from the station and put the map away after the second stile. The farmer said we'd manage if we didn't mind bad weather. The field was flooded over our ankles. The tent leaked, the evening got into the sleeping bags, and the stove wouldn't keep the soup hot. A sheep ate what we didn't. The midges bit all evening. The sun came out for about ten minutes. We hardly slept, because the bags were wet. In the morning the tent was too soaked to pack, and the farmer said he'd hang it in the barn. We got lost again, missed the last train, and spent the night under the station canopy, in a draught, with yesterday's paper. The morning train was full and we stood. South of Oxenholme I wrote Mum a note on purpose to stop her worrying: slightly damp, sociable midges, an airy tent, a convenient station. I didn't mention the water, the sheep or the draught. She replied before Preston, booked the same week next year, and said she'd pay, because we'd made it sound worth repeating. Clare called that efficient. I've thanked Mum in a smaller size than the truth, which was the kind thing. Clare is already on about next August. I told her the forecast would be fine, and I stopped at the first word, same as before.
+  task.it: Racconta la stessa vacanza con le parole chiare, come a un amico. Stessi fatti, stesso viaggio in treno. Le parole piccole del racconto possono restare solo dove dici che cosa hai scritto a tua madre.
+  rubric.it: Ci sono l'acqua alle caviglie, la tenda che perde, la pecora, i moscerini, il treno perso, la notte sotto la pensilina e la settimana riprenotata; il registro è di chi parla a un amico, con le contrazioni; slightly, airy e not bad non fanno da voce, e se compaiono sono la lettera alla madre; andata e ritorno restano in treno, da Manchester e poi verso sud da Oxenholme; si capisce perché la madre ha riprenotato, e perché il grazie è più piccolo del vero.
+
+== 10 C1
+numeral: Lesson Ten
+title: A restaurant review
+title.it: Una recensione
+
+dialogue:
+- We had booked The Glad Plate for eight, and at eight we were remembered, which is not the same thing as being seated.
+  it: Avevamo prenotato al Glad Plate per le otto, e alle otto si sono ricordati di noi, che non è la stessa cosa che essere fatti sedere.
+- A young man with a beautiful smile said it would be a moment.
+  it: Un giovane con un bel sorriso ha detto che sarebbe stato un momento.
+- The moment was generous.
+  it: Il momento è stato generoso.
+- By half past eight we had learned the names of the coats on the pegs, and had grown fond of one of them.
+  it: Alle otto e mezzo avevamo imparato i nomi dei cappotti ai ganci, e ci eravamo affezionati a uno.
+- The table, when it came, was by the kitchen door, so that we were never far from the life of the place.
+  it: Il tavolo, quando è arrivato, era accanto alla porta della cucina, così non eravamo mai lontani dalla vita del locale.
+- The bread arrived, and it was bread, and it was warm, and these are three compliments, and I shall not merge them.
+  it: Il pane è arrivato, ed era pane, ed era caldo, e questi sono tre complimenti, e non li unirò.
+- My soup had a point of view.
+  it: La mia minestra aveva un punto di vista.
+- It was salt, held with conviction.
+  it: Era sale, tenuto con convinzione.
+- My companion's fish had the texture of a good intention, and about the same prospect of being carried out.
+  it: Il pesce di chi era con me aveva la consistenza di una buona intenzione, e circa la stessa probabilità di essere portata a termine.
+- The chips were a colour that potatoes attempt only under pressure.
+  it: Le patatine erano di un colore che le patate tentano solo sotto pressione.
+- The portions were modest, which we came to see as a kindness.
+  it: Le porzioni erano modeste, e siamo arrivati a vederle come una gentilezza.
+- We were never hurried.
+  it: Non ci hanno mai messo fretta.
+- Between the soup and the fish I could have walked to the station and back, and the fish would still have been ahead of us.
+  it: Fra la minestra e il pesce avrei potuto andare a piedi alla stazione e tornare, e il pesce sarebbe stato ancora davanti a noi.
+- The waiter was with us throughout, in the sense that we could see him, and that he could see us seeing him.
+  it: Il cameriere è stato con noi per tutto il tempo, nel senso che lo vedevamo, e che lui vedeva che lo vedevamo.
+- When we caught his eye he gave us the smile again, and by then the smile was a complete sentence.
+  it: Quando abbiamo incrociato il suo sguardo ci ha ridato il sorriso, e a quel punto il sorriso era una frase completa.
+- The card called the pudding the chef's pride.
+  it: Il menu chiamava il dolce l'orgoglio dello chef.
+- It came with a skin, and the skin had set, like a decision.
+  it: È arrivato con una pelle, e la pelle si era rappresa, come una decisione.
+- They did not charge us for it.
+  it: Non ce l'hanno fatto pagare.
+- I have been wondering whether that was kindness or evidence, and I have not settled it.
+  it: Mi sto chiedendo se fosse gentilezza o una prova, e non l'ho stabilito.
+- The bill was prompt.
+  it: Il conto è stato pronto subito.
+- It was the first prompt thing of the evening, and it had understood us perfectly.
+  it: È stata la prima cosa pronta della serata, e ci aveva capiti perfettamente.
+- The total was not shy.
+  it: Il totale non era timido.
+- We paid, because the alternative was to remain, and the smile was still in the room.
+  it: Abbiamo pagato, perché l'alternativa era restare, e il sorriso era ancora nella stanza.
+- On the pavement my companion said, "Well."
+  it: Sul marciapiede, chi era con me ha detto: «Beh».
+- I agreed that well was the size of it.
+  it: Ero d'accordo che «beh» fosse la misura giusta.
+- I shall be telling my friends.
+  it: Lo dirò ai miei amici.
+- I have told two already, in this tone, and I trust them with tones.
+  it: Ne ho già parlato a due, con questo tono, e mi fido di loro quanto a toni.
+- The table by the kitchen door is, I imagine, free most Fridays.
+  it: Il tavolo accanto alla porta della cucina, immagino, è libero quasi tutti i venerdì.
+- I shall not be needing it.
+  it: Io non ne avrò bisogno.
+- The bread, I will say again, was warm.
+  it: Il pane, lo ridico, era caldo.
+- That is the sentence I am willing to sign.
+  it: È la frase che sono disposto a firmare.
+
+notes.it:
+1. We had booked The Glad Plate for eight, and at eight we were remembered, which is not the same thing as being seated: The Glad Plate è un nome inventato, un piatto «contento», e non è un locale da andare a cercare in una città vera. Booked for eight è «prenotato per le otto». Remembered è «si sono ricordati di noi»: il nome è nel quaderno, qualcuno alza gli occhi. Which is not the same thing as being seated è «che non è la stessa cosa che essere fatti sedere». La frase loda la memoria e nega la sedia nella stessa coordinata. È l'ironia della lode: la parola buona è vera, e il lavoro che il lettore si aspetta da un ristorante, sedersi, non è cominciato. Not the same thing è il cardine. Senza quel which, remembered sarebbe un complimento. Con il which, è un verbale.
+2. A young man with a beautiful smile said it would be a moment.: a beautiful smile è «un bel sorriso», e qui è ancora un fatto, non ancora una frase. It would be a moment è «sarebbe stato un momento», la formula di chi chiede di aspettare poco. Would è il futuro nel passato, detto da lui allora. Un moment, in quella formula, è breve per accordo sociale, non per il dizionario. La frase dopo rompe l'accordo senza alzare la voce.
+3. The moment was generous.: generous è «generoso», una lode: un padrone generous offre di più. Detto di un'attesa, offre più attesa. La parola resta dalla parte del complimento, e il nome a cui si attacca, moment, è quello che doveva essere corto. È lo stesso vicino di casa dell'understatement (lezione 8): non si dice «lunga». Si loda la durata con l'aggettivo delle persone che danno. Alle otto e mezzo, nella frase dopo, l'attesa ha mezz'ora, e il racconto la spende a imparare i nomi dei cappotti. Grown fond of one of them, «ci eravamo affezionati a uno», è il tempo diventato una relazione con un impermeabile. Non c'è la parola queue, e non serve.
+4. The table, when it came, was by the kitchen door, so that we were never far from the life of the place.: when it came dà il tavolo come una cosa che arriva, non come un diritto della prenotazione. By the kitchen door è «accanto alla porta della cucina», il tavolo degli odori, del passaggio, del vassoio che ti sfiora. So that è «così che», e di solito introduce un fine voluto. Qui il fine è detto come una cortesia del locale: never far from the life of the place, «mai lontani dalla vita del locale». Life of the place è una frase da guida, una lode. Il lettore sa che è la porta di servizio perché kitchen door è concreto, e la lode ci si siede sopra. Non si dice «il tavolo peggiore». Si dice che la vita era vicina.
+5. The bread arrived, and it was bread, and it was warm, and these are three compliments, and I shall not merge them.: tre complimenti, contati. It was bread è «era pane»: l'identità, il minimo che un pane deve essere per chiamarsi pane. It was warm è «era caldo», il primo fatto buono non ironico della pagina, e l'ultima frase lo firmerà da solo. These are three compliments è l'autore che fa il contabile della lode, e I shall not merge them, «non li unirò», rifiuta di farne un elogio solo, perché uniti sembrerebbero più grandi. Shall, con I, è la forma composta del futuro, un filo più da scritto che da pub (lezione 1, nota 12). La battuta è il conteggio: tre lodi, e due sono «è arrivato» e «è pane». Il caldo resta. Il lettore lo tiene da parte, perché la chiusa ci torna.
+6. My soup had a point of view.: a point of view è «un punto di vista», detto di persone e di articoli, non di una minestra. La frase lusinga la minestra: aveva una posizione. Non dice ancora quale. È l'attesa della lode, e la frase dopo la paga in sale. Tenerle separate è il metodo del pane: una frase di copertina, una frase di fatto.
+7. It was salt, held with conviction.: salt, qui, non è «un po' salata». È sale, il nome, come se il liquido fosse il sale e non lo contenesse. Held with conviction è «tenuto con convinzione», la frase di chi ha un'opinione e non la molla. La minestra non è un po' sbagliata. È sicura. Non c'è la parola inedible, e non c'è una bugia: una minestra può essere salata e convinta. L'ironia sta nel prestare alla cucina il lessico del carattere. In italiano «aveva carattere» farebbe un lavoro simile, e anche lì il carattere, detto di un cibo, non è sempre un elogio. Qui il testo non usa carattere. Usa conviction, e il sale fa da oggetto.
+8. My companion's fish had the texture of a good intention, and about the same prospect of being carried out.: my companion è «chi era con me», senza nome: alla recensione il nome non serve. Texture è «consistenza». A good intention è «una buona intenzione», e le buone intenzioni, nel detto, non bastano. Prospect of being carried out è «probabilità di essere portata a termine». Carried out è «eseguito», detto di un piano. Il pesce e l'intenzione dividono la consistenza e il destino: morbidi, non finiti. About the same è «circa la stessa», e about lascia un margine, da gente educata. Non si dice che il pesce fosse immangiabile. Si dice che somigliava a un proposito. Il lettore, se ha mai lasciato a metà un proposito, sa la consistenza.
+9. The chips were a colour that potatoes attempt only under pressure.: chips, in Gran Bretagna, sono le patatine fritte a bastoncino, non le crisps del sacchetto. A colour that potatoes attempt è «un colore che le patate tentano». Attempt è «tentare», un verbo da esame. Only under pressure è «solo sotto pressione»: la pressione è la friggitrice troppo calda, o troppo stanca, e la frase non sceglie la macchina. Sceglie il colore come una scelta della patata, fatta controvoglia. È di nuovo un elogio storto: la patata si è sforzata. Il colore non è nominato. Non serve il marrone o il grigio. Pressure fa il lavoro.
+10. The portions were modest, which we came to see as a kindness.: modest è «modesto», una lode di misura, il contrario di ingordo. Portions modest, in una recensione ordinaria, è quasi un complimento, o un avviso che si esce con fame, e i due sensi convivono. Which we came to see as a kindness è «e siamo arrivati a vederle come una gentilezza». Came to see è «siamo giunti a vedere», un giudizio che arriva dopo, non al primo morso. Kindness, dopo il sale e il pesce incompiuto, vuol dire: meno ce n'era, meglio era. La frase non insulta la quantità. La ringrazia. Il lettore sa perché, perché ha già letto il sale. Da sola, la frase sarebbe ambigua. Nel punto in cui sta, la gentilezza è difensiva.
+11. We were never hurried.: never hurried è «non ci hanno mai messo fretta», e in un buon locale è una lode vera: nessuno ti toglie il piatto. Qui la frase sta subito prima della passeggiata fino alla stazione. Da sola sarebbe il complimento. In fila, è il nome educato di un'attesa fra le portate. Hurried è il verbo: hurry someone è «mettere fretta a qualcuno». Il passivo toglie il cameriere dalla frase. Non è lui che non si muove. È loro che non sono stati affrettati. La gentilezza grammaticale e la gentilezza del locale fanno lo stesso gesto.
+12. Between the soup and the fish I could have walked to the station and back, and the fish would still have been ahead of us.: could have walked è «avrei potuto andare a piedi», il condizionale del fatto non fatto: non è uscito, ha misurato l'attesa con una camminata possibile. To the station and back è «fino alla stazione e ritorno», un tratto da città, non un numero di minuti, così il testo non inventa un orologio. Ahead of us è «davanti a noi», ancora nel futuro: il pesce non era in ritardo su di loro, erano loro in anticipo sul pesce. La frase è educata anche nella geometria. Non dice slow. Dice che c'era tempo per un andare e tornare, e il piatto sarebbe rimasto di là da venire.
+13. The waiter was with us throughout, in the sense that we could see him, and that he could see us seeing him.: with us throughout è «con noi per tutto il tempo», la frase del cameriere attento, quella che in una recensione buona vuol dire cura. In the sense that è «nel senso che», e fornisce il senso vero, più piccolo. We could see him: era visibile. He could see us seeing him: sapeva di essere visto, e la vista non diventava un arrivo al tavolo. È la lode smontata nella stessa frase, non nella frase dopo. Seeing him, il gerundio, è lo sguardo, non un servizio. Il sorriso, nella frase dopo, diventa a complete sentence, «una frase completa»: non gli manca niente, e non gli segue un'altra frase, un «arrivo» o un «porto io». Il sorriso chiude il turno. Caught his eye è «incrociare lo sguardo», la mossa di chi vuole il cameriere. La risposta è il sorriso già noto. Beautiful, nella prima frase, era ancora un aggettivo. Qui è sintassi.
+14. The card called the pudding the chef's pride.: the card è la carta, il menu. The chef's pride è «l'orgoglio dello chef», una frase da menu, spesso innocente e spesso gonfia. Called è «chiamava»: il nome è del menu, non del recensore. La frase dopo non discute il nome. Descrive una pelle. It came with a skin, and the skin had set, like a decision. A skin, su una crema, è la pellicina, e set è «rappresa, presa». Like a decision è «come una decisione»: anche il dolce ha un carattere, come la minestra aveva conviction. They did not charge us for it, «non ce l'hanno fatto pagare». Kindness or evidence è «gentilezza o una prova»: o un omaggio per l'attesa, o la prova che anche loro sapevano. I have not settled it è «non l'ho stabilito». La recensione lascia il dubbio, ed è il dubbio che fa ridere, perché le due letture sono tutte e due peggiori di un dolce pagato e buono. Settled sarebbe chiudere il caso. Non lo chiude.
+15. The bill was prompt.: prompt è «pronto, sollecito», la lode di un servizio che non si fa aspettare. Dopo never hurried, la parola cambia padrone: le portate non avevano fretta, il conto sì. It was the first prompt thing of the evening, nella frase dopo, conta: first, «la prima». It had understood us perfectly è «ci aveva capiti perfettamente»: il conto ha capito che volevamo andarcene. The total was not shy, «il totale non era timido», un'altra personificazione: shy sarebbe modesto, e il conto non lo è. Not shy è una litote corta (lezione 8): nega la timidezza, e resta sotto la parola expensive. We paid, because the alternative was to remain: pagare è la fuga, e la fuga è educata. The smile was still in the room: il sorriso, che è una frase completa, occupa ancora la stanza. Restare vorrebbe dire rispondergli.
+16. On the pavement my companion said, "Well.": pavement è il marciapiede, in Gran Bretagna (Perfezionamento, lezione 38, nota 10). Well, da solo, con il punto, è la recensione parlata: non è well done, non è un elogio. È la parola con cui si chiude un bilancio che non si vuole aprire. I agreed that well was the size of it: the size of it è «la misura della cosa», la stessa idea della right size del grazie nella vacanza (lezione 9). Well è la dose giusta per non fare una scena sul marciapiede. I shall be telling my friends, «lo dirò ai miei amici», è la frase che di solito chiude una recensione buona, la promessa di portare altra gente. In this tone, «con questo tono», la lega a questa pagina: il tono è la distruzione educata. I trust them with tones, «mi fido di loro quanto a toni»: capiranno che non è un invito. The table is free most Fridays è una disponibilità detta come un'informazione utile, e I shall not be needing it la rifiuta. The bread was warm torna, e That is the sentence I am willing to sign, «è la frase che sono disposto a firmare». Willing to sign è il linguaggio di chi mette il nome sotto una dichiarazione. Tutto il resto della pagina è tono. Il caldo del pane è l'unica frase che regge da sola, senza un which che la rovesci. Il lettore lo sa perché i tre complimenti del pane erano stati contati, e due non erano complimenti, e perché telling my friends, senza il tono, sarebbe stato il contrario di questa pagina.
+
+ex1:
+- At eight we were remembered, which is not the same thing as being seated.
+  it: Alle otto si sono ricordati di noi, e non è la stessa cosa che essere fatti sedere.
+- The moment was generous, and by half past eight we knew the coats.
+  it: Il momento è stato generoso, e alle otto e mezzo conoscevamo i cappotti.
+- The fish had the texture of a good intention, and the portions were a kindness.
+  it: Il pesce aveva la consistenza di una buona intenzione, e le porzioni erano una gentilezza.
+- They did not charge us for the pudding, and I have not settled whether that was kindness or evidence.
+  it: Non ci hanno fatto pagare il dolce, e non ho stabilito se fosse gentilezza o una prova.
+- Well was the size of it, and the only sentence I will sign is that the bread was warm.
+  it: «Beh» era la misura giusta, e l'unica frase che firmo è che il pane era caldo.
+
+ex2:
+- Being remembered is not the same as being [seated].
+  it: Essere ricordati non è la stessa cosa che essere fatti sedere.
+- The wait was a [generous] moment.
+  it: L'attesa è stata un momento generoso.
+- The fish had the texture of a good [intention].
+  it: Il pesce aveva la consistenza di una buona intenzione.
+- The bill was the first [prompt] thing of the evening.
+  it: Il conto è stato la prima cosa sollecita della serata.
+- The total was not [shy].
+  it: Il totale non era timido.
+
+tasks:
+- We ate at my sister's on a Wednesday, nothing booked and no menu. She had made a chicken pie because the chicken was what she had, and the pastry was a bit thick at the edge and soft in the middle, which is how her pies go. There were peas, and too much pepper, and she said so before I did. We sat at the kitchen table for about an hour and a half, not because the courses were late but because we were talking. The waiter was her, and she did sit down. I washed up. It wasn't a cheap meal if you count an evening of her time, and it didn't pretend to be a restaurant. I'd go back on any Wednesday she asks. The pie was actually good, thick edge included, and I'm willing to sign that without keeping a second sentence in reserve.
+  task.it: Scrivi una recensione sincera di un pasto che ricordi, o di uno simile a questo, se ti serve un esempio. Niente lode che poi si rovescia. Di' che cosa c'era nel piatto, chi c'era, e se ci torneresti.
+  rubric.it: Si capisce che cosa hai mangiato e con chi, e se ci torneresti; il registro è sincero, da persona a persona, con le contrazioni di chi racconta; i fatti del piatto restano fatti, senza un which che li svuoti; le parole del Glad Plate, generous, prompt, pride, non fanno da voce; l'effetto è una cena vera, e la frase buona si può firmare da sola.
+
+== 11 C1
+numeral: Lesson Eleven
+title: The dinner party
+title.it: La cena
+
+dialogue:
+- Helen had cooked a lamb, and she announced it at the door, while there was still time to look brave.
+  it: Helen aveva cucinato un agnello, e l'ha annunciato sulla porta, finché c'era ancora tempo di sembrare coraggiosi.
+- "You shouldn't have gone to all this trouble," said Ruth, to the lamb, which had finished cooking some time ago and was not taking questions.
+  it: «Non dovevi disturbarti tanto», ha detto Ruth, all'agnello, che aveva finito di cuocere da un po' e non prendeva domande.
+- "It was no trouble," said Helen, and the trouble, to be fair, was over.
+  it: «Non è stato un disturbo», ha detto Helen, e il disturbo, a essere giusti, era passato.
+- Paul stood in front of the new curtains and said they were brave.
+  it: Paul si è messo davanti alle tende nuove e ha detto che erano coraggiose.
+- They were orange, and brave was the shortest kind word in the room.
+  it: Erano arancioni, e coraggiose era la parola gentile più corta nella stanza.
+- "We nearly didn't buy them," said Mark. "Helen was the brave one."
+  it: «Per poco non le compravamo», ha detto Mark. «La coraggiosa è stata Helen».
+- "I can see that," said Paul.
+  it: «Si vede», ha detto Paul.
+- Alan came with a bottle, and apologised for the bottle, and held it a second longer than an apology needs.
+  it: Alan è arrivato con una bottiglia, e si è scusato per la bottiglia, e l'ha tenuta un secondo più del necessario per una scusa.
+- They sat, and Mark told the story of the roundabout.
+  it: Si sono seduti, e Mark ha raccontato la storia della rotonda.
+- Ruth laughed in the right place, and then once more, in case the right place had been later.
+  it: Ruth ha riso nel punto giusto, e poi un'altra volta, nel caso il punto giusto fosse stato più avanti.
+- "You must tell it at work," she said.
+  it: «La devi raccontare al lavoro», ha detto.
+- "He has," said Alan, with warmth.
+  it: «L'ha già fatto», ha detto Alan, con calore.
+- The gravy had presence.
+  it: Il sugo aveva presenza.
+- "This is gorgeous," said Ruth, and moved her slice to the side of the plate, where a gorgeous thing can rest.
+  it: «È magnifico», ha detto Ruth, e ha spostato la sua fetta sul bordo del piatto, dove una cosa magnifica può riposare.
+- Helen watched the slice. "There's cheese, if it's too much."
+  it: Helen ha guardato la fetta. «C'è del formaggio, se è troppo».
+- "Too much? Don't you dare," said Paul. "This is exactly what I needed."
+  it: «Troppo? Non ti permettere», ha detto Paul. «È esattamente quello di cui avevo bisogno».
+- He accepted cheese with the second helping, which kept the need exact.
+  it: Ha accettato il formaggio con la seconda porzione, e così il bisogno è rimasto esatto.
+- "I shall have to have the recipe," said Alan.
+  it: «Dovrò farmi dare la ricetta», ha detto Alan.
+- "There isn't one," said Helen, and it was the truest sentence so far.
+  it: «Non c'è», ha detto Helen, ed è stata la frase più vera fino a lì.
+- "Even better," said Alan.
+  it: «Meglio ancora», ha detto Alan.
+- The pudding was from the shop at the end of the road, and it was lovely, and nobody called it the star.
+  it: Il dolce veniva dal negozio in fondo alla strada, ed era buono, e nessuno l'ha chiamato il pezzo forte.
+- "The lamb," said Ruth, "was the thing."
+  it: «L'agnello», ha detto Ruth, «è stata la cosa».
+- "We must do this again," she said, at the door, with her coat already on.
+  it: «Dobbiamo rifarlo», ha detto, sulla porta, col cappotto già addosso.
+- "Soon," said Paul.
+  it: «Presto», ha detto Paul.
+- "Name the evening," said Helen.
+  it: «Di' la sera», ha detto Helen.
+- The evening was not named.
+  it: La sera non è stata detta.
+- Alan said it had been a feast, and turned towards his own street, which is two turnings away, so he walked.
+  it: Alan ha detto che era stato un banchetto, e si è voltato verso la sua strada, che è a due svolte, e quindi è andato a piedi.
+- "The curtains," said Ruth. "I keep seeing them."
+  it: «Le tende», ha detto Ruth. «Continuo a vederle».
+- "They're a lot," said Helen, and she sounded nearly pleased.
+  it: «Sono parecchio», ha detto Helen, e sembrava quasi contenta.
+- "A lot," said Paul. "Yes."
+  it: «Parecchio», ha detto Paul. «Sì».
+- Paul drove. The car was Ruth's, and it was the car they had come in.
+  it: Ha guidato Paul. La macchina era di Ruth, ed era la macchina con cui erano venuti.
+- In the hall, with the latch down, Helen said, "Next time we cook nothing, and we call it a concept."
+  it: Nell'ingresso, col chiavistello chiuso, Helen ha detto: «La prossima volta non cuciniamo niente, e lo chiamiamo un concetto».
+- Mark looked at the orange. "They'll say it's brave."
+  it: Mark ha guardato l'arancione. «Diranno che è coraggioso».
+
+notes.it:
+1. Helen had cooked a lamb, and she announced it at the door, while there was still time to look brave: Helen e Mark sono i padroni di casa. Ruth e Paul arrivano insieme, Alan da solo. A lamb è «un agnello», qui il piatto, non l'animale in giardino. Announced it at the door è «l'ha annunciato sulla porta»: il menu si può ancora commentare prima di entrare, non dopo. While there was still time to look brave è «finché c'era ancora tempo di sembrare coraggiosi». Look brave è «sembrare coraggiosi», gli ospiti, non Helen. La frase prepara brave, che stasera non vorrà dire bello. Vuol dire: c'è ancora un secondo per fare la faccia di chi è contento di quello che sente.
+2. "You shouldn't have gone to all this trouble," said Ruth, to the lamb, which had finished cooking some time ago and was not taking questions: you shouldn't have gone to all this trouble è la formula vera dell'ospite, «non dovevi disturbarti tanto». Di solito loda lo sforzo. Said to the lamb la sposta: la dice al piatto, non a Helen. Finished cooking some time ago è «aveva finito di cuocere da un po'»: è oltre il punto. Not taking questions è «non prendeva domande», come un ufficio chiuso. Quello che è detto è la formula gentile. Quello che si intende è che il disturbo non era necessario, o non in questa direzione. Lo si capisce dal destinatario, il lamb, e dal fatto che la cottura è già un fatto chiuso. Helen risponde it was no trouble, «non è stato un disturbo», e il narratore aggiunge che il disturbo, to be fair, era passato: la frase di Helen è vera sul tempo, non sulla riuscita. To be fair è «a essere giusti», e concede a Helen la verità piccola.
+3. Paul stood in front of the new curtains and said they were brave: stood in front of è «si è messo davanti», come davanti a un quadro. Brave, detto di un colore, è «coraggioso, audace»: la parola di chi non può dire bello e non vuole dire brutto. They were orange, nella frase dopo, dà il colore, e brave was the shortest kind word in the room, «la parola gentile più corta». Shortest: ce ne sarebbero di più lunghe, interesting, unusual, e lui sceglie la più corta. Kind word tiene che sia gentile. Non è un insulto detto in faccia. È la lode che costa meno. In italiano «coraggiose», dette di tende arancioni, fa lo stesso lavoro, se il tono è quello di chi cerca. Senza il tono, brave può essere un complimento vero a una scelta forte. Qui l'arancione e la brevità chiudono il complimento vero.
+4. "We nearly didn't buy them," said Mark. "Helen was the brave one.": nearly didn't è «per poco non», la compra è stata una decisione stretta. Mark si toglie dal mezzo. Helen was the brave one riusa la parola di Paul e la mette su una persona: la coraggiosa è lei, non le tende. Può essere un affetto, «ha osato lei». Detto dopo nearly didn't, è anche una consegna: la scelta è sua. "I can see that," said Paul è «si vede». Detto è: vedo che la coraggiosa sei tu. Inteso, con le tende davanti, è: si vede eccome, non c'è bisogno del racconto, le tende lo dicono. Lo si capisce perché Paul non era presente all'acquisto, e quindi non può «vedere» il coraggio di allora. Può vedere le tende. See that punta all'oggetto, non a un aneddoto. Helen non risponde. La frase non dice che lei abbia capito.
+5. Alan came with a bottle, and apologised for the bottle, and held it a second longer than an apology needs: apologised for the bottle è la formula «non è granché, scusa», spesso vera modestia, spesso un vino che va benissimo. Held it a second longer than an apology needs è «l'ha tenuta un secondo più del necessario». Il secondo di troppo è il dubbio: se la scusa fosse vuota, la bottiglia passerebbe. Non la passa subito. Il narratore non dice che il vino sia buono. Dice che la mano non è d'accordo con la scusa, o non ancora. Needs è «di cui ha bisogno», una scusa ordinaria non ha bisogno di una posa. Alan, più avanti, cammina verso casa: abita a due svolte, two turnings away, quindi viene a piedi e torna a piedi. Non c'è una macchina sua da inventare.
+6. Ruth laughed in the right place, and then once more, in case the right place had been later: the story of the roundabout è la storia di Mark, una rotonda, un aneddoto da cena. In the right place è «nel punto giusto», la risata di chi segue. Once more è la seconda, e in case è «nel caso». Had been later è «fosse stato più avanti»: non è sicura di avere individuato la battuta, e copre anche il punto sbagliato. Due risate per una storia sono una di troppo, e la seconda è un'assicurazione. Non è cattiveria. È manutenzione. "You must tell it at work" sembra un invito a ripetere. Must, qui, è l'entusiasmo di obbligo. Alan, with warmth, «con calore», dice he has, «l'ha già fatto». Il calore è vero come tono e chiude la porta: se l'ha già raccontata al lavoro, l'invito di Ruth non apre un futuro. Of course non c'è. C'è has. Il lavoro l'ha già subita. Warmth impedisce alla frase di essere uno schiaffo. Resta un fatto.
+7. "This is gorgeous," said Ruth, and moved her slice to the side of the plate, where a gorgeous thing can rest: gorgeous è «magnifico», più caldo di nice, una parola da dessert e da vestiti. Moved her slice to the side è «ha spostato la fetta sul bordo». Where a gorgeous thing can rest è la glossa ironica del narratore: riposare sul bordo non è mangiare. Quello che è detto è gorgeous. Quello che fa la forchetta è mettere da parte. Il lettore non ha bisogno di un altro aggettivo. Helen watched the slice: ha visto il gesto, non solo la parola. There's cheese, if it's too much offre un'uscita. Too much sarebbe «troppo agnello», e sarebbe anche «troppo per questo agnello». La frase di Helen tiene i due too much, e non sceglie.
+8. "Too much? Don't you dare," said Paul. "This is exactly what I needed.": don't you dare è «non ti permettere», di solito contro un gesto che si rifiuta: non togliermi l'agnello, non dire che non lo reggo. Exactly what I needed è «esattamente quello di cui avevo bisogno». È più forte di gorgeous, e quindi più lontano dal piatto, se il piatto è quello che Ruth ha spostato. He accepted cheese with the second helping, which kept the need exact: accepted cheese è il gesto. Second helping è «seconda porzione», e la seconda porzione di agnello arriva col formaggio, l'uscita di Helen, accettata insieme al rifiuto dell'uscita. Kept the need exact è «ha tenuto esatto il bisogno»: la parola exact resta, il piatto no. La frase non dice che Paul menta per cattiveria. Dice che la frase e la forchetta non hanno lo stesso oggetto. Il formaggio è l'oggetto della forchetta.
+9. "I shall have to have the recipe," said Alan.: I shall have to è «dovrò», la necessità educata di chi vuole ripetere il piatto a casa. Have the recipe è «avere la ricetta», farsi dare il segreto. È un complimento standard, e funziona solo se il piatto è da ripetere. "There isn't one" è Helen, «non c'è». The truest sentence so far è il narratore: fin qui è la frase più vera, perché le altre erano formule, e questa è un fatto di cucina. "Even better" è Alan, «meglio ancora». Detto è: ancora più ammirevole, un talento senza ricetta. Inteso, dopo la verità di Helen, è: meglio così, non dovrò rifarlo. Lo si capisce perché better, dopo «non c'è ricetta», loda l'impossibilità di ripetere, non il sapore. Si può dire even better in buona fede, per un cuoco istintivo. Alan ha già tenuto la bottiglia un secondo di troppo. Il narratore non gli scrive in testa una cattiveria. Gli lascia la frase, e la frase basta.
+10. The pudding was from the shop at the end of the road, and it was lovely, and nobody called it the star: from the shop è «dal negozio», comprato, non fatto. It was lovely è «era buono», e lovely qui non è ironico: è il primo buono detto dal narratore senza un rovescio nella stessa frase. Nobody called it the star è «nessuno l'ha chiamato la star». "The lamb was the thing" è Ruth, the thing, «la cosa», il pezzo forte. Il dolce vero non riceve il titolo. Il titolo va all'agnello, che è il piatto annunciato, quello che la cena deve avere come centro, se la cena deve essere riuscita. La bugia non è sul negozio. È sul rango. Il lettore la vede perché lovely è del narratore, e the thing è di Ruth, e i due non coincidono.
+11. "We must do this again," she said, at the door, with her coat already on: we must do this again è «dobbiamo rifarlo», la formula di chiusura, e può essere sincera. At the door, with her coat already on sposta il corpo: il cappotto è addosso, la cena è grammaticalmente finita. Must è obbligo caldo. "Soon" è Paul, «presto», un tempo senza data. "Name the evening" è Helen, «di' la sera», e toglie alla formula il riparo: una sera detta è un fatto. The evening was not named è «la sera non è stata detta». Il silenzio è la risposta. Non è un insulto, e non è un malinteso di calendario. È la formula che non sopravvive a una data. In italiano «una di queste sere» fa lo stesso, e «che sera?» lo smonta allo stesso modo.
+12. Alan said it had been a feast, and turned towards his own street, which is two turnings away, so he walked: a feast è «un banchetto», la parola più grande della sera, detta da chi se ne va. Turned towards his own street è il corpo, già verso casa. Two turnings away è «a due svolte»: è vicino, è a piedi, e so he walked chiude il mezzo. Non c'è un autobus da aggiungere dopo. All'andata la bottiglia era in mano, al ritorno la strada è la sua. Feast, con la schiena già girata, è la formula di uscita, parente di we must do this again. Non viene messa alla prova di una data, perché Alan non viene invitato a dirne una. La frase non lo accusa. Lo misura: la parola è grande, la distanza è due svolte.
+13. "The curtains," said Ruth. "I keep seeing them.": I keep seeing them è «continuo a vederle», che può essere il colpo di un colore che piace, il non riuscire a staccarsene. Keep + -ing è un'azione che non smette. Helen risponde they're a lot, «sono parecchio», e sounded nearly pleased, «sembrava quasi contenta». A lot è ambiguo: tanto, troppo, una presenza. Nearly pleased è il quasi: Helen prende a lot come una misura del suo coraggio, non come un peso. "A lot," said Paul. "Yes." Paul ripete la parola e ci mette yes. Non aggiunge bello. La ripetizione, senza un aggettivo nuovo, tiene il senso di Paul, quello di brave: si vedono, sono tante, sì. Helen e Paul non stanno dicendo la stessa frase, e usano le stesse parole. È l'ironia pragmatica della cena: la frase è una, le stanze sono due.
+14. Paul drove. The car was Ruth's, and it was the car they had come in.: drove è Paul alla guida. The car was Ruth's è «la macchina era di Ruth». It was the car they had come in chiude il trasporto: stessa macchina, andata e ritorno. Non scendono in taxi e non tornano in autobus. La frase è qui perché la strada di casa, nel compito, è questa macchina, e Alan non c'è dentro. È a piedi, due svolte più indietro nel testo. Il narratore non entra in macchina con loro. Quello che si dicono in macchina non è in questa pagina. Questa pagina finisce nell'ingresso, dall'altra parte della porta.
+15. In the hall, with the latch down, Helen said, "Next time we cook nothing, and we call it a concept.": the latch down è «il chiavistello chiuso», gli ospiti sono fuori. Next time we cook nothing è la prima proposta non gentile della sera, detta a Mark, non agli ospiti. A concept è «un concetto», la parola da mostra e da menu che giustifica un piatto vuoto. Helen ha capito la serata, e la sua battuta è stanca, non crudele: la prossima volta il nulla, e il nome farà il lavoro che stasera ha fatto brave. Mark looked at the orange, le tende, non a lei. "They'll say it's brave." They è gli ospiti, o la specie di ospiti di stasera. Brave è la parola di Paul, riusata da Mark sulla soglia come previsione. Non è un complimento alle tende. È la scoperta: qualunque cosa si serva, anche niente, la parola disponibile è quella. Il lettore la riconosce perché Paul l'ha spesa sull'arancione, Mark l'ha spostata su Helen, Paul ha detto che si vede, e adesso Mark la rimette sul futuro. La cena degli ospiti era il contrario di quello che pensavano, detto con le formule. La cena dei padroni, a chiavistello chiuso, è la prima volta in cui la parola e il pensiero stanno dalla stessa parte, e la parola è ancora la loro, brave, tenuta come un attrezzo.
+
+ex1:
+- Ruth told the lamb it shouldn't have been so much trouble, and the lamb was past taking questions.
+  it: Ruth ha detto all'agnello che non ci si doveva disturbare tanto, e l'agnello aveva chiuso con le domande.
+- Paul called the orange curtains brave, and then said he could see that Helen had been the brave one.
+  it: Paul ha detto coraggiose le tende arancioni, e poi ha detto che si vedeva che la coraggiosa era stata Helen.
+- Ruth called the lamb gorgeous and moved it to the side of the plate.
+  it: Ruth ha detto magnifico l'agnello e l'ha spostato sul bordo del piatto.
+- There was no recipe, Alan said that was even better, and nobody named an evening for the next time.
+  it: Non c'era una ricetta, Alan ha detto che era meglio ancora, e nessuno ha detto una sera per la prossima volta.
+- With the latch down, Helen offered to cook nothing and call it a concept, and Mark said they would call it brave.
+  it: Col chiavistello chiuso, Helen ha proposto di non cucinare niente e di chiamarlo un concetto, e Mark ha detto che l'avrebbero chiamato coraggioso.
+
+ex2:
+- The curtains were orange, and Paul called them [brave].
+  it: Le tende erano arancioni, e Paul le ha dette coraggiose, con la parola più corta.
+- Ruth laughed twice, in case the right place had been [later].
+  it: Ruth ha riso due volte, nel caso il punto giusto fosse stato più avanti.
+- Alan said the lack of a recipe was even [better].
+  it: Alan ha detto che l'assenza di una ricetta era meglio ancora.
+- Helen asked them to name the [evening], and they did not.
+  it: Helen ha chiesto che dicessero la sera, e non l'hanno fatto.
+- Mark said they would call a dinner of nothing [brave].
+  it: Mark ha detto che una cena di niente l'avrebbero detta coraggiosa.
+
+tasks:
+- Ruth: The lamb was over. I said it was gorgeous and parked it. Paul called the curtains brave, which is what you say when you can't say orange, and then he told Helen you could see she'd been the brave one. She heard a compliment. I don't think it was. Mark's roundabout story has already been to work, and Alan knew. We said we'd do it again, and when she asked which evening we both found the road very interesting. Paul says the cheese saved him. Paul: Brave was the only short word, and it was the wrong one. I ate cheese with the second helping and said the lamb was exactly what I needed. It wasn't. The pudding was from the shop and it was the good bit, and we congratulated the lamb. I said soon. I'm not free on any soon I can name. Alan: I walked, two turnings. The bottle was better than I told them, and I held it like a fool. No recipe, even better: I'm not cooking that lamb. Feast was the exit word. The curtains are a lot, and Helen looked pleased. I wouldn't like to be the one who explains it.
+  task.it: Scrivi quello che dicono Ruth, Paul e Alan tornando a casa. Ruth e Paul sono in macchina, la sua, guidata da lui. Alan è a piedi, a due svolte. Ognuno dice quello che pensa, non la formula della cena.
+  rubric.it: Si distinguono le tre voci, e i mezzi tornano quelli della cena, macchina di Ruth e Alan a piedi; il registro è parlato, con le contrazioni, non le formule della porta; agnello, tende, ricetta, sera non detta e dolce del negozio restano i fatti della pagina; brave, gorgeous e feast non sopravvivono come lodi, se non per dire che erano lodi false; si capisce che in macchina, e a piedi, possono dirsi il contrario.
+
+== 12 C1
+numeral: Lesson Twelve
+title: A modest proposal for queues
+title.it: Una modesta proposta per le code
+
+dialogue:
+- A modest proposal, for the improvement of queues and for the relief of those who stand in them.
+  it: Una modesta proposta, per il miglioramento delle code e per il sollievo di chi ci sta in piedi.
+- The queue is a British institution, which is a polite name for a place where time goes to be fair.
+  it: La coda è un'istituzione britannica, che è un nome educato per un posto dove il tempo va a essere giusto.
+- Fairness, at present, is an honour system, and the honour is unevenly distributed.
+  it: L'equità, al momento, è un sistema d'onore, e l'onore è distribuito in modo diseguale.
+- I therefore propose a levy on queue-jumping, charged by the minute, and paid to the person who was behind.
+  it: Propongo quindi un prelievo sul passare davanti, a tariffa al minuto, pagato a chi stava dietro.
+- The rate shall be one pound a minute, which is less than a solicitor and more than a conscience.
+  it: La tariffa sarà una sterlina al minuto, che è meno di un avvocato e più di una coscienza.
+- A minute begins when the jumper's foot passes the shoulder of the person whose turn it was, and ends when the jumper is back where the foot began, or at the counter, whichever is sooner.
+  it: Un minuto comincia quando il piede di chi passa davanti supera la spalla di chi di turno era, e finisce quando chi è passato è tornato dove il piede era partito, o al banco, a seconda di quale arrivi prima.
+- Friends who were "just holding a place" shall be deemed jumpers for each minute they were not, in fact, holding it.
+  it: Gli amici che «tenevano solo il posto» saranno considerati passatori per ogni minuto in cui, di fatto, non lo tenevano.
+- A place is held by a body, not by a name shouted from the door.
+  it: Un posto si tiene con un corpo, non con un nome gridato dalla porta.
+- Children joining a parent who is already in the queue are not jumpers.
+  it: I bambini che raggiungono un genitore già in coda non sono passatori.
+- A person who cannot stand the queue, and the person accompanying them, shall not be charged, and anyone who disputes the cannot shall pay double for the dispute, not for the entry.
+  it: Chi non può stare in coda, e chi l'accompagna, non paga, e chi contesta il non potere paga il doppio per la contestazione, non per l'ingresso.
+- Illness is an exemption, and so is a child waiting alone at the other end of a platform.
+  it: La malattia è un'esenzione, e lo è anche un bambino che aspetta solo all'altra estremità di un binario.
+- "I have spotted a friend" is not an exemption.
+  it: «Ho visto un amico» non è un'esenzione.
+- The levy is collected by the person behind, in coins or by a tap of the card, and a receipt may be refused, because the injury was not commercial.
+  it: Il prelievo lo riscuote chi sta dietro, in monete o con un tocco della carta, e lo scontrino si può rifiutare, perché il danno non era commerciale.
+- Revenue, if any remains after the injured party has been made whole, shall buy roofs for queues, so that fairness need not also be weather.
+  it: Il ricavo, se ne resta dopo che la parte lesa è stata risarcita, comprerà tetti per le code, così l'equità non dovrà essere anche il tempo.
+- Objections will be heard at the end of the queue, which is a practical filter.
+  it: Le obiezioni si ascoltano in fondo alla coda, il che è un filtro pratico.
+- I do not propose prison.
+  it: Non propongo il carcere.
+- Prison would only create a second queue, and the second queue would require a third proposal, and I am tired.
+  it: Il carcere creerebbe solo una seconda coda, e la seconda coda richiederebbe una terza proposta, e io sono stanco.
+- The proposal is modest because it does not abolish the queue.
+  it: La proposta è modesta perché non abolisce la coda.
+- It prices the exception, and leaves the rule standing, which is what a modest proposal is for.
+  it: Mette un prezzo all'eccezione, e lascia la regola in piedi, che è lo scopo di una proposta modesta.
+- Readers who find a pound a minute severe are invited to stand for forty minutes behind a party of six who have just remembered each other.
+  it: I lettori che trovano una sterlina al minuto severa sono invitati a stare quaranta minuti dietro a un gruppo di sei che si sono appena ricordati l'un l'altro.
+- They may then revise the rate upwards, in writing, from where they stand.
+  it: Possono poi rivedere la tariffa verso l'alto, per iscritto, da dove si trovano.
+- I draft this in the post office on a Tuesday, which is the laboratory.
+  it: La butto giù all'ufficio postale di martedì, che è il laboratorio.
+- Ahead of me, in front of the woman with the dog, a man has been joined by three people who were in the street a moment ago, and who are now family for the purposes of the counter.
+  it: Davanti a me, davanti alla donna col cane, un uomo è stato raggiunto da tre persone che un momento fa erano in strada, e che adesso sono famiglia ai fini del banco.
+- By the rule above, he owes the woman with the dog twelve minutes, and the three owe her as well, unless the dog is the ill party, which it does not appear to be.
+  it: Per la regola di sopra, lui deve alla donna col cane dodici minuti, e i tre le devono altrettanto, a meno che il malato non sia il cane, e non sembra che lo sia.
+- The woman has not asked for the money.
+  it: La donna non ha chiesto i soldi.
+- She has looked at me, once, in the way of a person who expects the honour system to do something it has never done.
+  it: Mi ha guardato, una volta, come chi si aspetta che il sistema d'onore faccia una cosa che non ha mai fatto.
+- I am not going to present the proposal to her.
+  it: Non ho intenzione di presentarle la proposta.
+- Presenting it would require leaving my place to find a pen, and a person who leaves this queue starts again at the back, a clause I have not numbered, because numbering it would also require the pen.
+  it: Presentarla richiederebbe lasciare il posto per trovare una penna, e chi lascia questa coda ricomincia in fondo, una clausola che non ho numerato, perché numerarla richiederebbe anche la penna.
+- She has just asked whether I am in the queue or writing.
+  it: Mi ha appena chiesto se sono in coda o se sto scrivendo.
+- I said I was still thinking, which is not a jump, and which is also not an answer.
+  it: Ho detto che stavo ancora pensando, che non è un passare davanti, e che non è nemmeno una risposta.
+- The three friends have reached the counter.
+  it: I tre amici sono arrivati al banco.
+- At one pound a minute, the proposal has already earned enough for a small roof, and the roof is not here, and nor is the pound.
+  it: A una sterlina al minuto, la proposta ha già guadagnato abbastanza per un piccolo tetto, e il tetto non c'è, e non c'è nemmeno la sterlina.
+
+notes.it:
+1. A modest proposal, for the improvement of queues and for the relief of those who stand in them: modest proposal è «modesta proposta». Il titolo, in inglese, è quello di un genere: una proposta detta con la voce piana di chi fa una legge, per una misura che chi scrive non vuole vedere applicata. Il nome del genere viene da un titolo del Settecento, A Modest Proposal, di Swift, 1729, un testo di dominio pubblico: qui si prende il nome del genere, non una riga di quel testo. Improvement è «miglioramento». Relief è «sollievo». Those who stand in them è «chi ci sta in piedi». Il tono è da preambolo di legge, e il sollievo è già troppo grande per una coda, e proprio questo è il registro: le parole ufficiali, il fatto piccolo. Non è un understatement. È il contrario di misura, detto senza un sorriso scritto. Il sorriso lo mette il lettore, se riconosce il genere.
+2. The queue is a British institution, which is a polite name for a place where time goes to be fair: institution è «istituzione», la parola delle cose che si rispettano. Which is a polite name for è «che è un nome educato per»: il narratore glossa la propria frase, e la glossa è meno nobile. Time goes to be fair è «il tempo va a essere giusto», come se il tempo si mettesse in coda per farsi trattare equamente. Fairness, nella frase dopo, is an honour system, «un sistema d'onore»: nessuno controlla, ci si fida. Unevenly distributed è «distribuito in modo diseguale», la frase da statistica. L'onore, misurato, non è uguale. Il testo non dice che ogni britannico rispetti la coda. Dice che la coda è il luogo dove la regola è morale e il controllo è nessuno.
+3. I therefore propose a levy on queue-jumping, charged by the minute, and paid to the person who was behind: therefore è «quindi», il gancio del ragionamento, come in una mozione. A levy è «un prelievo, una tassa piccola», non ancora una multa con il giudice. Queue-jumping è «passare davanti, saltare la coda». In Gran Bretagna si dice anche push in (Perfezionamento, lezione 26, nota 7). Charged by the minute è «a tariffa al minuto». Paid to the person who was behind è «pagato a chi stava dietro»: il denaro non va allo Stato, va al danneggiato. Was behind è il passato: il posto era suo prima del piede. La proposta è detta sul serio nella sintassi. Il contenuto, una sterlina al minuto pagata a mano, è il punto in cui il lettore non deve crederci come a un disegno di legge vero.
+4. The rate shall be one pound a minute, which is less than a solicitor and more than a conscience: shall, qui, è lo shall delle leggi, «sarà», non lo shall di I shall live (lezione 1, nota 12). One pound a minute è «una sterlina al minuto». A, davanti all'unità, è «al, per» (Perfezionamento, lezione 26, nota 6, once an hour). Less than a solicitor è «meno di un avvocato»: solicitor, in Inghilterra, è l'avvocato che prepara le carte, e costa più di una sterlina al minuto. More than a conscience è «più di una coscienza»: la coscienza, nel sistema d'onore, costa zero, e non ha funzionato. Il confronto è comico perché mette in colonna un tariffario e un'anima. Non è un dato di mercato da citare: è la misura retorica, meno di un professionista, più di niente.
+5. A minute begins when the jumper's foot passes the shoulder of the person whose turn it was, and ends when the jumper is back where the foot began, or at the counter, whichever is sooner: la frase è una clausola, foot, shoulder, counter, sooner. Passes the shoulder è «supera la spalla»: il criterio è il corpo, non l'intenzione. Whose turn it was è «di chi era il turno». Back where the foot began è «tornato dove il piede è partito»: se torni indietro, il minuto può finire. Or at the counter, whichever is sooner è «o al banco, a seconda di quale sia prima». Sooner salva il saltatore che arriva al banco in fretta: paga solo il tratto, non l'eternità. È il dettaglio che fa sembrare la legge pensata. Una legge finta si tradisce sulla precisione, non sull'urlo. Il testo è preciso apposta.
+6. Friends who were "just holding a place" shall be deemed jumpers for each minute they were not, in fact, holding it: just holding a place è «tenevano solo il posto», la scusa ordinaria, fra virgolette perché è citata, non creduta. Deemed è «considerati», il verbo dei regolamenti. In fact è «di fatto», e fact si oppone alla frase. A place is held by a body, not by a name shouted from the door, la frase dopo: un posto è un corpo, non un nome gridato dalla porta. Shouted from the door è l'amico che arriva dopo e dice «ero con lui». La regola chiude quella scena. Children joining a parent who is already in the queue are not jumpers: i bambini che raggiungono un genitore già in coda non pagano. La proposta distingue. Non è contro i bambini. È contro il posto tenuto a voce.
+7. A person who cannot stand the queue, and the person accompanying them, shall not be charged, and anyone who disputes the cannot shall pay double for the dispute, not for the entry: cannot stand the queue è «non può stare in coda», non «non ne ha voglia». Stand, qui, è stare in piedi nell'attesa. The person accompanying them è chi accompagna: anche lui non paga. Them è il they singolare, ordinario per una persona di cui non si dice il genere. Disputes the cannot è «contesta il non potere»: la maleducazione che la proposta punisce non è l'ingresso di chi non può stare in piedi, è il dubbio gridato dagli altri. Pay double for the dispute, not for the entry tiene le due tariffe separate. Illness is an exemption, e so is a child waiting alone: la malattia, e un bambino solo all'altro capo di un binario. "I have spotted a friend" is not an exemption: ho visto un amico non è un'emergenza. La lista è stretta apposta, e il testo la dice senza ridere di chi non può stare in piedi. Il ridicolo è riservato all'amico.
+8. The levy is collected by the person behind, in coins or by a tap of the card, and a receipt may be refused, because the injury was not commercial: collected by è «riscosso da», e chi riscuote è la persona dietro, non un impiegato. A tap of the card è «un tocco della carta», il pagamento senza contatto. A receipt may be refused è «lo scontrino si può rifiutare». Because the injury was not commercial è «perché il danno non era commerciale»: non hai comprato niente, ti hanno preso un posto. Injury è «il danno, l'offesa». May è «si può», non «si deve». Revenue, if any remains after the injured party has been made whole è il linguaggio del risarcimento: made whole è «risarcita, rimessa intera», una frase da contratto. Roofs for queues, «tetti per le code», so that fairness need not also be weather: l'equità non deve essere anche pioggia. Need not è «non è necessario che». Il tetto è l'unica opera pubblica della proposta, e torna alla fine, assente.
+9. I do not propose prison.: la frase è corta, dopo le clausole, e fa il moderato. Prison would only create a second queue è il motivo, e il motivo è da burocrate stanco, non da moralista: una coda nuova, una proposal nuova. And I am tired è la prima persona che esce dal registro della legge. Tired è «stanco», la parola piccola, e qui è vera: sta scrivendo in coda. Il modesto della proposta, nella frase dopo, è che non abolisce la coda. It prices the exception, and leaves the rule standing. Prices è «mette un prezzo». Leaves the rule standing è «lascia la regola in piedi». Which is what a modest proposal is for: lo scopo del genere, detto da chi lo pratica. Il lettore che si aspettava l'abolizione della coda riceve una tariffa. È la delusione voluta.
+10. Readers who find a pound a minute severe are invited to stand for forty minutes behind a party of six who have just remembered each other: severe è «severa, eccessiva». Are invited è «sono invitati», la cortesia del pamphlet. Stand for forty minutes è l'esperimento. A party of six è «un gruppo di sei». Who have just remembered each other è «che si sono appena ricordati l'un l'altro»: la memoria improvvisa è la scusa del salto. They may then revise the rate upwards, in writing, from where they stand: rivedere la tariffa verso l'alto, per iscritto, da dove stanno. Upwards è la direzione. In writing tiene il registro. From where they stand vieta di uscire dalla coda per andare a protestare in un ufficio comodo. È una trappola educata, e non è una minaccia. È un invito a restare.
+11. I draft this in the post office on a Tuesday, which is the laboratory: draft è «buttare giù, stendere una minuta», non una corrente d'aria. The post office on a Tuesday è un luogo ordinario, non una metafora. Which is the laboratory è «che è il laboratorio»: il luogo della prova. La frase dopo mette la scena: ahead of me, in front of the woman with the dog, un uomo è raggiunto da tre persone che un momento fa erano in strada. Has been joined è il passivo: non li presenta lui, si aggiungono. In front of the woman with the dog fissa chi subisce il salto: la donna sta davanti al narratore, e il danno è suo, non di lui. Who are now family for the purposes of the counter è «che adesso sono famiglia ai fini del banco». For the purposes of è formula da regolamento. La famiglia dura lo spazio del banco. È il caso della clausola sugli amici. Il luogo non cambia: ufficio postale, martedì.
+12. By the rule above, he owes the woman with the dog twelve minutes, and the three owe her as well, unless the dog is the ill party, which it does not appear to be: by the rule above è «per la regola di sopra», e la regola è quella del minuto e del posto tenuto col corpo. Twelve minutes è il conto del narratore. Owes the woman with the dog: la donna è subito dietro l'uomo, ed è lei la parte lesa. Paga anche lui, perché i tre sono entrati grazie al posto che teneva: è il caso degli amici che «tenevano solo il posto» (nota 6). Unless the dog is the ill party prova a usare l'esenzione della malattia, e which it does not appear to be la chiude: il cane non sembra il malato. Appear è «sembra». La battuta è fredda, e non è contro il cane. È contro l'uso dell'esenzione come scusa. It, il cane, non è una persona, e ill party, «la parte malata», è di nuovo linguaggio da clausola, applicato a un animale per mostrare che la clausola non ci sta.
+13. The woman has not asked for the money.: non ha chiesto i soldi. She has looked at me, once, in the way of a person who expects the honour system to do something it has never done. Once è «una volta», non uno sguardo lungo. In the way of è «come, nel modo di». The honour system è quello dell'apertura. It has never done è «non ha mai fatto»: il sistema d'onore non ha mai fermato un salto, e lei lo aspetta lo stesso. Lo sguardo è l'unica riscossione della pagina. I am not going to present the proposal to her: non gliela presenterà. Il motivo è nella frase dopo: presenting it would require leaving my place to find a pen, e a person who leaves this queue starts again at the back. Non è una clausola già scritta. Lui lo dice: a clause I have not numbered, because numbering it would also require the pen. La scusa è perfetta e inutilizzabile. Per numerarla gli serve la penna, per la penna deve uscire, e uscire è proprio la clausola. La proposta gli serve a restare fermo.
+14. She has just asked whether I am in the queue or writing.: whether è «se», la domanda indiretta. In the queue or writing è l'alternativa che lei vede: o sei in coda, o stai scrivendo. Le due cose, per lei, non stanno insieme. I said I was still thinking, which is not a jump, and which is also not an answer. Still thinking è «stavo ancora pensando». Not a jump è «non è un passare davanti»: rispetto alla sua legge, pensare non è un illecito. Not an answer è il narratore, non lei: alla domanda «coda o scrittura?» pensare non risponde. Due which, due verdetti. Il primo lo assolve. Il secondo lo lascia scoperto. È il momento in cui il registro della legge e la coda vera si toccano, e la legge non ha una frase per «sto scrivendo una legge».
+15. The three friends have reached the counter.: have reached è il present perfect: ci sono arrivati, e il fatto conta adesso. At one pound a minute, the proposal has already earned enough for a small roof, and the roof is not here, and nor is the pound. Has already earned è «ha già guadagnato», come se la proposta fosse in vigore. Enough for a small roof lega il finale al tetto promesso nel ricavo. The roof is not here, and nor is the pound: né il tetto né la sterlina. Nor is ripete la negazione, «e nemmeno». La proposta ha contato un denaro che nessuno ha chiesto e nessuno ha pagato. Quello che è detto è un bilancio. Quello che si intende è che la macchina, perfetta sulla carta, non ha mosso una moneta, e lui è ancora in coda, avendo risposto «penso». Lo si capisce da not here, dal woman che non ha chiesto i soldi, e da writing, che era l'altra metà della domanda di lei. Il genere della modesta proposta si chiude così: la voce resta piana, il tetto non arriva, e la coda sì.
+
+ex1:
+- The levy is one pound a minute, paid to the person who was behind, and it is less than a solicitor and more than a conscience.
+  it: Il prelievo è una sterlina al minuto, pagata a chi stava dietro, ed è meno di un avvocato e più di una coscienza.
+- A place is held by a body, and a friend who was only a name at the door is a jumper.
+  it: Un posto si tiene con un corpo, e un amico che era solo un nome alla porta è uno che passa davanti.
+- A person who cannot stand the queue is not charged, and disputing that cannot is what costs double.
+  it: Chi non può stare in coda non paga, e quello che costa il doppio è contestare quel non potere.
+- He will not present the proposal, because the pen would mean leaving the queue and starting again at the back, and numbering that rule would also need the pen.
+  it: Non presenterà la proposta, perché la penna vorrebbe dire lasciare la coda e ricominciare in fondo, e numerare quella regola avrebbe bisogno anche della penna.
+- At one pound a minute the proposal has earned a small roof, and neither the roof nor the pound is there.
+  it: A una sterlina al minuto la proposta ha guadagnato un piccolo tetto, e non ci sono né il tetto né la sterlina.
+
+ex2:
+- The charge is a [levy] of one pound a minute.
+  it: Il prelievo è di una sterlina al minuto, la tassa piccola pagata a chi stava dietro.
+- The minute ends at the counter or back at the start, [whichever] is sooner.
+  it: Il minuto finisce al banco oppure tornando al punto di partenza, a seconda di quale dei due sia prima.
+- "I have spotted a friend" is not an [exemption].
+  it: «Ho visto un amico» non è un'esenzione.
+- He drafts the proposal in the [post office].
+  it: Butta giù la proposta all'ufficio postale.
+- Leaving the queue to find a pen means he must begin [again].
+  it: Lasciare la coda per trovare una penna vuol dire che deve ricominciare.
+
+tasks:
+- A counter-proposal, equally modest. Abolish the pound. The injured person receives, from the jumper, one full minute of the jumper's next queue, served in person, in silence, at the back. Friends who arrive from the street owe their minute too, one each, and may not talk to the friend they remembered. Children joining a parent, and anyone who cannot stand the wait, and the person with them, owe nothing, and nobody gets to hold a hearing about it in the queue. If the jumper will not serve the minute, the jumper goes to the end, which is prison enough, and does not require a building. Roofs are a separate question, to be put to the council in writing, by someone who is not late for the counter. I am that someone only after I have been served. The woman with the dog would, under this rule, be owed four minutes of standing by four people, and she still would not get them today, because I am not a magistrate. I am a man in a queue, and I am moving up.
+  task.it: Scrivi una controproposta, sullo stesso tono piano, da regolamento. Non la stessa tariffa. Tieni le esenzioni di chi non può stare in coda, dei bambini e di chi accompagna. Chiudi sul fatto che anche la tua regola, oggi, all'ufficio postale, non riscuote niente.
+  rubric.it: È una regola diversa dalla sterlina al minuto, detta in tono da clausola, senza urlo; le esenzioni per chi non può stare in coda, per i bambini e per chi accompagna ci sono, e il dubbio degli altri non è il bersaglio di una cattiveria; la struttura ha la regola, un'eccezione e una chiusa; il lessico da regolamento (owe, serve, rule) fa da voce, senza battute gridate; si capisce che all'ufficio postale, oggi, non cambia niente, e la donna col cane non viene pagata.
+
+== 13 C1
+numeral: Lesson Thirteen
+title: To the editor
+title.it: Alla redazione
+
+dialogue:
+- Sir, I write in sorrow rather than in anger, which will surprise no one who has tried sorrow and found it insufficient.
+  it: Signore, scrivo più nel dolore che nella rabbia, il che non sorprenderà nessuno che abbia provato il dolore e l'abbia trovato insufficiente.
+- Your paper reported, on Tuesday, that the library on Vale Road is to call its silent room "the quiet space", and to mark the change with a poster of a smiling face.
+  it: Il vostro giornale ha riferito, martedì, che la biblioteca di Vale Road chiamerà la sua sala silenziosa «the quiet space», e segnerà il cambiamento con un manifesto di una faccia sorridente.
+- I have read the sentence several times, in case the smile was a misprint.
+  it: Ho letto la frase parecchie volte, nel caso il sorriso fosse un refuso.
+- It was not.
+  it: Non lo era.
+- A library is not a smile.
+  it: Una biblioteca non è un sorriso.
+- It is a room in which a person may be unsmiling, for hours, over a book, without being asked how the book is going.
+  it: È una stanza in cui una persona può non sorridere, per ore, su un libro, senza che le si chieda come va il libro.
+- "Space" is what one calls a thing when one is afraid of the word room, and "quiet" is what one calls silence when silence has begun to sound like a rule.
+  it: «Space» è come si chiama una cosa quando si ha paura della parola stanza, e «quiet» è come si chiama il silenzio quando il silenzio ha cominciato a sembrare una regola.
+- I am old enough to remember when the notice said "Silence", and the notice was enough, and nobody felt the need to be liked by it.
+  it: Ho l'età per ricordare quando l'avviso diceva «Silence», e l'avviso bastava, e nessuno sentiva il bisogno di esserne simpatico.
+- The face on the poster has no author and no book, which is a strange advertisement for a library.
+  it: La faccia sul manifesto non ha un autore e non ha un libro, il che è una strana pubblicità per una biblioteca.
+- It smiles at the desk, where a person is trying to work, and the smile does not help the work.
+  it: Sorride verso il banco, dove una persona cerca di lavorare, e il sorriso non aiuta il lavoro.
+- I do not ask the council to be cruel.
+  it: Non chiedo al consiglio comunale di essere crudele.
+- I ask it to be a library.
+  it: Gli chiedo di essere una biblioteca.
+- If a rule is required, let it be printed in words, and let the words be the old ones, which have the merit of meaning what they say.
+  it: Se serve una regola, la si stampi in parole, e le parole siano quelle vecchie, che hanno il merito di voler dire quello che dicono.
+- A smile that means "be quiet" is a smile with a second job, and second jobs, in my experience, are done badly.
+  it: Un sorriso che vuol dire «fai silenzio» è un sorriso con un secondo lavoro, e i secondi lavori, per quanto ne so, si fanno male.
+- Readers who find this letter excessive are welcome to sit under the face for an afternoon and then write you a shorter one.
+  it: I lettori che trovano eccessiva questa lettera sono i benvenuti a sedersi sotto la faccia per un pomeriggio e poi scrivervene una più corta.
+- I shall be here, unsmiling, in what I shall continue to call the silent room.
+  it: Io sarò qui, senza sorridere, in quello che continuerò a chiamare la sala silenziosa.
+- The poster may smile at me if it wishes.
+  it: Il manifesto può sorridermi, se vuole.
+- I shall not smile back, having nothing, on this point, to add.
+  it: Io non ricambierò, non avendo, su questo punto, niente da aggiungere.
+- I renewed my ticket to the reading room on Monday, which is to say I am a member, and the membership has not, so far, included a duty to be cheered up.
+  it: Lunedì ho rinnovato la tessera per la sala di lettura, vale a dire che sono socio, e l'iscrizione, finora, non comprendeva il dovere di essere tirato su di morale.
+- Vale Road is a real road, the library is the branch at the end of it, and the poster was there at four o'clock, so this is not a general sorrow.
+  it: Vale Road è una strada vera, la biblioteca è la sede in fondo, e il manifesto c'era alle quattro, quindi questo non è un dolore generico.
+- It is a particular face.
+  it: È una faccia precisa.
+- I have also, since you ask, a smaller matter, which I place here only because the form says "anything further".
+  it: Ho anche, visto che chiedete, una questione più piccola, che metto qui solo perché il modulo dice «altro».
+- The copy of the local history which I had out on Monday bears a mark of coffee, on page 40, in the shape of a cup.
+  it: La copia della storia locale che avevo in prestito lunedì porta un segno di caffè, a pagina 40, a forma di tazza.
+- I am sure it was already there.
+  it: Sono sicuro che c'era già.
+- It is the sort of mark a library survives, and I mention it in case a smile is now the official response to stains as well as to silence.
+  it: È il tipo di segno a cui una biblioteca sopravvive, e lo nomino nel caso un sorriso sia ormai la risposta ufficiale alle macchie oltre che al silenzio.
+- I am, on the stain, only slightly annoyed, and I trust your readers know the size of that phrase.
+  it: Sulla macchia sono solo leggermente infastidito, e confido che i vostri lettori conoscano la misura di quella frase.
+- On the poster I am not slightly anything.
+  it: Sul manifesto non sono leggermente niente.
+- I am, Sir, your obedient servant.
+  it: Sono, Signore, il vostro obbediente servitore.
+- Disgusted, Tunbridge Wells.
+  it: Disgusted, Tunbridge Wells.
+- The postmark, if you look, is not Tunbridge Wells.
+  it: Il timbro, se guardate, non è Tunbridge Wells.
+- It is Vale Road's own box, posted on the way out, while the face was still smiling at the desk I had just left.
+  it: È la buca della stessa Vale Road, imbucata uscendo, mentre la faccia sorrideva ancora al banco che avevo appena lasciato.
+- The signature is the traditional one, and the tradition is a town in Kent that has come to stand for this kind of letter, whether or not the writer lives there.
+  it: La firma è quella tradizionale, e la tradizione è una città del Kent che è arrivata a stare per questo tipo di lettera, che chi scrive ci abiti o no.
+- I do not.
+  it: Io no.
+- I live near the library, which is worse, because I shall have to see the face again on Thursday, when the history is due, stain and all.
+  it: Abito vicino alla biblioteca, il che è peggio, perché la faccia la dovrò rivedere giovedì, quando la storia locale va riconsegnata, macchia compresa.
+
+notes.it:
+1. Sir, I write in sorrow rather than in anger, which will surprise no one who has tried sorrow and found it insufficient: Sir è l'attacco tradizionale della lettera al direttore, «Signore», e in italiano il voi del giornale, non il tu. Rather than è «piuttosto che, e non». Sorrow rather than anger è «dolore più che rabbia», la mossa di chi si dichiara misurato. Which will surprise no one rovescia la dichiarazione nella stessa frase: a nessuno sorprende, perché chi ha provato il sorrow l'ha trovato insufficient, «insufficiente». La rabbia è già annunciata come il passo successivo. È il registro della lettera oltraggiata: si comincia dicendo che non si è arrabbiati. Il genere ha una firma stock, più sotto, Disgusted, e il Sir ne è la porta.
+2. Your paper reported, on Tuesday, that the library on Vale Road is to call its silent room "the quiet space", and to mark the change with a poster of a smiling face: your paper è «il vostro giornale». Reported è «ha riferito»: lui prende il fatto dal giornale, e più avanti dirà di aver visto il manifesto, così il fatto non resta solo una citazione. Vale Road è un nome di strada ordinario, e qui è una strada della lettera, non un indirizzo da andare a controllare come se il manifesto esistesse. Is to call è «chiamerà», il futuro del piano. The silent room è «la sala silenziosa». "The quiet space" lo lascia in inglese fra virgolette, perché il punto è le due parole inglesi, non una traduzione. Space è «spazio», più vago di room. Quiet è «quiete, silenzio morbido», meno duro di silence. A smiling face è «una faccia sorridente». I have read the sentence several times, in case the smile was a misprint: un refuso. It was not. A library is not a smile. Tre frasi corte dopo il periodare. Il taglio è il registro che si toglie i panni. Non è un sorriso ironico. È la tesi, detta senza aggettivi.
+3. It is a room in which a person may be unsmiling, for hours, over a book, without being asked how the book is going: unsmiling è «senza sorriso», non triste per forza: non sorridente. Over a book è «su un libro». How the book is going è «come va il libro», la domanda fatica di chi ti interrompe, parente di how are you (lezione 1), e qui è quello che la biblioteca non deve chiedere. May è «può», il permesso. La frase difende il diritto di non intrattenere. "Space" is what one calls a thing when one is afraid of the word room, and "quiet" is what one calls silence when silence has begun to sound like a rule. Afraid of the word room è «paura della parola stanza»: room è concreto, space è da opuscolo. Silence begun to sound like a rule è «il silenzio ha cominciato a sembrare una regola», e quiet lo ammorbidisce per non spaventare. One è «uno», lo si impersonale della lettera formale. La coppia space/quiet contro room/silence è il cuore lessicale. Non dice che quiet sia sempre sbagliato. Dice che in questo cambio di nome il più morbido serve a non dire la regola.
+4. I am old enough to remember when the notice said "Silence", and the notice was enough, and nobody felt the need to be liked by it: old enough to remember è «ho l'età per ricordare», la mossa classica di questa lettera, e non dà un anno. When the notice said "Silence" è un ricordo detto come prova. The notice was enough è «l'avviso bastava». To be liked by it è «essergli simpatici», piacere all'avviso. Un cartello che vuole essere simpatico ha cambiato mestiere: da regola a persona. Nobody felt the need è «nessuno sentiva il bisogno». È un ricordo selettivo, come sono i ricordi di questo genere di lettera. Il testo non misura gli anni Settanta. Misura il contrasto fra un avviso che ordina e un avviso che sorride. The face on the poster has no author and no book: una faccia senza autore e senza libro, a strange advertisement for a library, «una strana pubblicità per una biblioteca». It smiles at the desk, where a person is trying to work. At the desk è «verso il banco». Does not help the work chiude: il sorriso non è un aiuto. È un pubblico.
+5. I do not ask the council to be cruel.: the council è il consiglio comunale, non il giornale. Cruel è «crudele». La frase concede: non chiedo ferocia. I ask it to be a library. It è il council. Essere una biblioteca, in questa lettera, vuol dire la sala silenziosa e l'avviso che significa quello che dice. If a rule is required, let it be printed in words è il congiuntivo della proposta, let it be, «la si faccia». The old ones, which have the merit of meaning what they say: le parole vecchie hanno il merito di voler dire quello che dicono. Merit è «merito». Meaning what they say si oppone al sorriso, che dice una cosa e ne fa un'altra. A smile that means "be quiet" is a smile with a second job. Second job è «un secondo lavoro», e in my experience, «per quanto ne so», are done badly, «si fanno male». Experience è la prova di quest'uomo, non una statistica. La metafora del secondo lavoro è il modo di dire che un segno non può fare la regola e la carezza insieme, non in questa lettera.
+6. Readers who find this letter excessive are welcome to sit under the face for an afternoon and then write you a shorter one: excessive è «eccessiva», e lui sa che la lettera lo è, e offre la prova: sedetevi sotto la faccia un pomeriggio. Are welcome è «sono i benvenuti», cortesia da duello. A shorter one è «una più corta»: se dopo il pomeriggio la lettera vi esce corta, tanto meglio, avrete capito. Se vi esce lunga, gli darete ragione. L'invito è chiuso da tutte e due le parti. I shall be here, unsmiling, in what I shall continue to call the silent room. Shall, due volte, è lo shall formale di una promessa (lezione 1, nota 12). Continue to call è «continuerò a chiamare»: il nome vecchio è un atto, non un'abitudine distratta. The poster may smile at me if it wishes. May e if it wishes danno al manifesto una volontà, e gliela concedono. I shall not smile back, having nothing, on this point, to add. Smile back è «ricambiare il sorriso». Nothing to add è «niente da aggiungere», la chiusa di chi ha finito, e non ha finito: sotto c'è ancora la macchia.
+7. I renewed my ticket to the reading room on Monday, which is to say I am a member, and the membership has not, so far, included a duty to be cheered up: renewed è «ho rinnovato». A ticket, in una biblioteca britannica, è la tessera (library ticket), non un biglietto del treno; l'iscrizione alle biblioteche pubbliche è gratuita. Which is to say è «vale a dire». A member è «socio». So far è «finora». A duty to be cheered up è «il dovere di essere tirato su». Cheered up è il phrasal: cheer up, «tirare su il morale». La biblioteca, nella sua tesi, non è un servizio di umore. Vale Road is a real road, the library is the branch at the end of it, and the poster was there at four o'clock, so this is not a general sorrow. La frase tiene il fatto stretto: una sede, un'ora. This is not a general sorrow è «non è un dolore generico». It is a particular face. Particular è «preciso, quello lì». Il genere della lettera oltraggiata di solito gonfia un fatto piccolo fino a farne una civiltà. Qui lui dice di sapere che il fatto è una faccia. Il gonfiaggio è voluto, e lui lo firma lo stesso.
+8. I have also, since you ask, a smaller matter, which I place here only because the form says "anything further": since you ask è «visto che chiedete», e il giornale non ha chiesto a lui in persona. È il modulo, la rubrica, il «altro da aggiungere». A smaller matter è «una questione più piccola». Only because the form says è la scusa: non volevo, ma il modulo ha una riga. È la mossa di chi vuole eccome. The copy of the local history which I had out on Monday: had out è «avevo in prestito», have a book out from the library. Bears a mark of coffee, on page 40, in the shape of a cup. A mark è «un segno», non ancora una macchia nella sua frase: stain arriva dopo. In the shape of a cup è «a forma di tazza», un dettaglio da verbale. I am sure it was already there. Sure è «sicuro», e la sicurezza, su una macchia in un libro che aveva lui, è esattamente quello che un bibliotecario non può verificare. La frase si assolve. Il lettore vede l'assoluzione.
+9. It is the sort of mark a library survives, and I mention it in case a smile is now the official response to stains as well as to silence: the sort of mark a library survives è «il tipo di segno a cui una biblioteca sopravvive», la dose piccola: non è un disastro, è una macchia. In case è «nel caso». A smile is now the official response è il ponte col manifesto: se il sorriso è la risposta al silenzio, lo sarà anche alle macchie. As well as è «oltre che». I am, on the stain, only slightly annoyed, and I trust your readers know the size of that phrase. On the stain è «sulla macchia». Slightly annoyed è «leggermente infastidito». Nei Fondamenti, slightly annoyed può essere la parola piccola per una rabbia grossa (Fondamenti, lezione 94). Your readers know the size è «i vostri lettori conoscono la misura»: dà per saputo il codice della settimana, la manopola (lezione 8). On the poster I am not slightly anything. Not slightly anything è «non sono leggermente niente»: sul manifesto rifiuta la manopola. Il contrasto è la tesi vera della lettera. Il tuono è per la faccia. La macchia, detta piano, è il fatto di lunedì, pagina 40, tazza. Quale dei due gli bruci di più, la lettera lo organizza così: il piccolo è slightly, il pubblico non lo è. Un lettore del codice può anche rovesciare le dosi. La frase not slightly anything è lì per impedire il rovescio facile. Sul manifesto, dice, la dose è piena.
+10. I am, Sir, your obedient servant.: è la chiusa di formula. Obedient servant è «obbediente servitore», la frase antica delle lettere formali, e nessuna lettera di questo tono è obbediente. La formula chiude il registro alto lo stesso. Poi la firma non è un nome. Disgusted, Tunbridge Wells. Disgusted è «disgustato, indignato». Tunbridge Wells è una città vera nel Kent. La firma Disgusted of Tunbridge Wells, o Disgusted, Tunbridge Wells, è quella tradizionale della lettera oltraggiata al giornale, su una materia che al mittente sembra civile e al lettore spesso piccola. Of, nella formula più nota, è «di». Qui la firma è con la virgola, lo stesso posto.
+11. The postmark, if you look, is not Tunbridge Wells.: the postmark è «il timbro postale». If you look è «se guardate», una sfida al direttore, piccola. It is Vale Road's own box, posted on the way out. Own box è «la buca stessa di Vale Road», la cassetta vicino alla biblioteca. Posted on the way out è «imbucata uscendo». While the face was still smiling at the desk I had just left: il manifesto è ancora lì, lui è appena uscito, la lettera è partita lo stesso giorno in cui l'ha vista, non dopo una settimana di meditazione. The signature is the traditional one, and the tradition is a town in Kent that has come to stand for this kind of letter, whether or not the writer lives there. Come to stand for è «è arrivata a significare, a stare per». Whether or not è «che o no». I do not. Due parole. Non ci abita. La firma è un costume, non un indirizzo. Il lettore che aveva preso Tunbridge Wells per la biografia deve rifare il conto. È la prima crepa nella voce oltraggiata: la tradizione è citata da uno che sa di citarla.
+12. I live near the library, which is worse, because I shall have to see the face again on Thursday, when the history is due, stain and all.: which is worse è «il che è peggio». Non abitare a Tunbridge Wells è peggio, perché la biblioteca è la sua. Due registri si toccano. Il tuono sul manifesto era il genere. Il giovedì è il calendario: when the history is due, «quando la storia locale va riconsegnata», stain and all, «macchia compresa». Due fatti restano in piedi, e sono verificabili dentro la lettera: la faccia c'era alle quattro, la macchia è a pagina 40, il libro torna giovedì. La firma indignata era un costume. Slightly annoyed, sulla macchia, era la dose piccola di una cosa che giovedì dovrà spiegare, o non spiegare, al banco. Quello che è detto è che rivedrà la faccia. Quello che si intende è che la lettera grandissima esce da una buca davanti a una biblioteca, scritta da un socio che ha un libro macchiato e un manifesto, e che sa il nome del genere che sta usando. Lo si capisce da I do not, tre parole, dal timbro, e da Thursday, che è un giorno e non un principio. Il disgusto era il costume. Il giovedì è suo.
+
+ex1:
+- He writes in sorrow rather than in anger, and then admits that sorrow has proved insufficient.
+  it: Scrive più nel dolore che nella rabbia, e poi ammette che il dolore si è rivelato insufficiente.
+- The library is to call the silent room "the quiet space" and to put up a smiling face.
+  it: La biblioteca chiamerà la sala silenziosa «the quiet space» e metterà su una faccia sorridente.
+- A smile that means "be quiet" has a second job, and he says second jobs are done badly.
+  it: Un sorriso che vuol dire «fai silenzio» ha un secondo lavoro, e lui dice che i secondi lavori si fanno male.
+- On the coffee mark he is only slightly annoyed, and on the poster he is not slightly anything.
+  it: Sul segno del caffè è solo leggermente infastidito, e sul manifesto non è leggermente niente.
+- The signature says Tunbridge Wells, the postmark does not, and the book is due on Thursday, stain and all.
+  it: La firma dice Tunbridge Wells, il timbro no, e il libro va riconsegnato giovedì, macchia compresa.
+
+ex2:
+- He writes in sorrow [rather] [than] in anger.
+  it: Scrive nel dolore, piuttosto che nella rabbia.
+- The notice he remembers said [Silence], and it was enough.
+  it: L'avviso che ricorda diceva silenzio, con la parola dura, e bastava.
+- A smile that means be quiet has a second [job].
+  it: Un sorriso che vuol dire fai silenzio ha un secondo lavoro.
+- The [postmark] is not Tunbridge Wells.
+  it: Il timbro sulla busta non è quello di Tunbridge Wells.
+- The book is [due] on Thursday.
+  it: Il libro va riconsegnato giovedì.
+
+tasks:
+- Sir, We printed your letter, slightly shorter, and we have left the face and the stain in. The library tells us the poster is a trial, and that the room is still a silent room in the timetable, whatever the poster calls it. A smile is not a rule. If the trial ends, the old notice is ready, and it does mean what it says. On the coffee, page 40 is a fact, and "I am sure it was already there" is not one. Bring the book on Thursday. Slightly annoyed, in a letter that knows the size of the phrase, is quite enough for a cup-shaped mark, and not quite enough to close the matter. The postmark was more useful than the signature. Tunbridge Wells can spare you. Vale Road, on present evidence, cannot. You are welcome to be unsmiling in the silent room. The desk will not ask how the book is going. It will ask where the mark came from. Yours faithfully, The Editor
+  task.it: Rispondi come il direttore. Hai pubblicato la lettera. Tieni i due fatti, la faccia e la macchia a pagina 40. Non umiliarlo, e non fingere che la firma sia un indirizzo. Il tono è quello di un giornale, con Sir e senza contrazioni.
+  rubric.it: Si capisce che la lettera esce e che restano manifesto e macchia; il registro è da direttore, con Sir, senza contrazioni, e senza il tuono del lettore; c'è una risposta sulla sala e una sul libro di giovedì; slightly annoyed resta la misura della macchia, non diventa un insulto; Tunbridge Wells non è trattato come la sua casa, e Vale Road sì.
+
+== 14 C1
+kind: revision
+numeral: Lesson Fourteen
+title: Revision
+title.it: Ripasso
+
+dialogue:
+- Good evening. Tomorrow will not be without interest.
+  it: Buonasera. Domani non sarà senza interesse.
+  refs: 8
+- The south will be slightly damp, and the damp may reach the ankles of anyone who stands still to admire it.
+  it: Il sud sarà leggermente umido, e l'umido può arrivare alle caviglie di chi resta fermo ad ammirarlo.
+  refs: 9
+- A visitor from the Atlantic will spend the day with us, and the visit will be generous.
+  it: Un visitatore dall'Atlantico passerà la giornata con noi, e la visita sarà generosa.
+  refs: 10
+- Winds will be rather keen, which is a step down from a gale and not a medal.
+  it: I venti saranno piuttosto vivaci, un gradino sotto una burrasca e non una medaglia.
+  refs: 8
+- Some of you read "fine" this morning, as far as the first adjective.
+  it: Alcuni di voi stamattina hanno letto «bello», fino al primo aggettivo.
+  refs: 9
+- Those minutes were real, about ten of them, and they were not bad, and on that we are being precise.
+  it: Quei minuti erano veri, circa dieci, e non erano male, e su questo siamo precisi.
+  refs: 8 9
+- This evening the rain has a point of view. It is water, held with conviction.
+  it: Stasera la pioggia ha un punto di vista. È acqua, tenuta con convinzione.
+  refs: 10
+- We shall not hurry it.
+  it: Non le metteremo fretta.
+  refs: 10
+- If you are remembered by the weather, that is not the same thing as being sheltered.
+  it: Se il tempo si ricorda di voi, non è la stessa cosa che essere al riparo.
+  refs: 10
+- A letter has come in. The signature is Disgusted, and the rain arrived all the same.
+  it: È arrivata una lettera. La firma è Disgusted, e la pioggia è arrivata lo stesso.
+  refs: 13
+- On a yellow warning the writer is not slightly anything. On a mark in a book he would be only slightly annoyed.
+  it: Su un'allerta gialla chi scrive non è leggermente niente. Su un segno in un libro sarebbe solo leggermente infastidito.
+  refs: 8 13
+- A smile on a warning is a smile with a second job, and the second job is the warning.
+  it: Un sorriso su un'allerta è un sorriso con un secondo lavoro, e il secondo lavoro è l'allerta.
+  refs: 13
+- "Quite pleasant," heard at noon, was the cooled adjective. The afternoon did not keep it.
+  it: «Abbastanza piacevole», sentito a mezzogiorno, era l'aggettivo raffreddato. Il pomeriggio non l'ha mantenuto.
+  refs: 8
+- Rather unpleasant is not its twin. It is more than breakfast led anyone to expect.
+  it: Piuttosto spiacevole non è il suo gemello. È più di quanto la colazione facesse aspettare.
+  refs: 8
+- Could be worse. The worse is out at sea, and this sentence declines the visit.
+  it: Potrebbe andare peggio. Il peggio è al largo, e questa frase rifiuta la visita.
+  refs: 8
+- A tent left in a barn to come to its senses will not manage it tomorrow.
+  it: Una tenda lasciata in un fienile perché torni in sé non ci riuscirà domani.
+  refs: 9
+- I am not going to call it a storm. That would be the plain word, and the bulletin stops a little short of it.
+  it: Non ho intenzione di chiamarla una burrasca. Sarebbe la parola chiara, e il bollettino si ferma un po' prima.
+  refs: 8
+- A colleague who has read this far says it is not bad. I have thanked her. I have not asked which she meant.
+  it: Una collega che ha letto fino a qui dice che non è male. L'ho ringraziata. Non le ho chiesto quale intendesse.
+  refs: 8
+- Roads will be brave, which is the short kind word for a surface you did not want.
+  it: Le strade saranno coraggiose, che è la parola gentile e corta per un fondo che non volevate.
+  refs: 11
+- Do not promise to set out again until the hour is named. The hour has not been named.
+  it: Non promettete di ripartire finché l'ora non è detta. L'ora non è stata detta.
+  refs: 11
+- A modest proposal has reached the desk, a pound a minute for anyone who leaves the house without a coat.
+  it: È arrivata sulla scrivania una modesta proposta, una sterlina al minuto per chi esce di casa senza cappotto.
+  refs: 12
+- We do not propose prison, or the pound. A second queue at the hall door would only make a third bulletin, and we are tired.
+  it: Non proponiamo il carcere, né la sterlina. Una seconda coda alla porta dello studio farebbe solo un terzo bollettino, e siamo stanchi.
+  refs: 12
+- The roof is not here, and nor is the pound.
+  it: Il tetto non c'è, e non c'è nemmeno la sterlina.
+  refs: 12
+- There was a dry hour, after six, and it was warm, and that is the sentence we are willing to sign.
+  it: C'è stata un'ora asciutta, dopo le sei, ed era calda, ed è la frase che siamo disposti a firmare.
+  refs: 10
+- Overnight, frost will be not unwelcome to the gritter, and not exactly a friend to the pipes.
+  it: Nella notte il gelo non sarà sgradito allo spargisale, e non sarà esattamente un amico dei tubi.
+  refs: 8
+- Good night. We have had worse, and the comparison is only as warm as the winter doing the measuring.
+  it: Buonanotte. Ne abbiamo avute di peggiori, e il confronto è caldo solo quanto l'inverno che fa da misura.
+  refs: 8
+
+notes.it:
+Non c'è una figura nuova. La settimana ha messo la stessa abitudine in sei voci: il saggio, la vacanza, la recensione, la cena, la proposta, la lettera. Il bollettino le usa tutte, e resta un bollettino: dice il tempo, e dice meno del tempo. Se due frasi ti sembrano la stessa mossa, guardale in tabella. Spesso cambia il bersaglio, non la grammatica. I dubbi, su quite e su not bad, fanno parte del lavoro.
+
+1. Tre modi di dire meno, o di dire altro (lezioni 8, 9, 10). L'understatement resta dalla parte del fatto e spende una parola più piccola. La litote dice una cosa negando il contrario. L'ironia è il vicino, non il gemello: può attraversare la strada. La lode ironica della recensione sta dalla parte delle parole belle, e il fatto sta dall'altra.
+
+| Modo | Che cosa fa | Esempio della settimana | Lezione |
+|---|---|---|---|
+| understatement | parola più piccola, stessa direzione | The field was slightly damp. | 9 |
+| litote | nega il contrario | not without a draught | 9 |
+| litote, dose da stanza | not bad non è una dose sola | Not bad, said of a report; Not bad, said in the street | 8 |
+| ironia | la parola può andare dall'altra parte | the opposite or the ten true minutes | 8 |
+| lode ironica | la parola bella è vera e insufficiente | The moment was generous. | 10 |
+
+Slightly damp è vero, e le caviglie, nella frase dopo, sono la misura (lezione 9). Not without a draught nega l'assenza dello spiffero: lo spiffero c'è (lezione 9). Not bad detto di un lavoro è un grande elogio; detto per strada è un gradino sotto fine (lezione 8). Lovely weather, dopo la pioggia, può essere il contrario o i dieci minuti veri, e non sceglie (lezione 8). Generous, detto di un'attesa, loda la durata con l'aggettivo di chi dà di più (lezione 10).
+
+2. La manopola: slightly, quite, rather (lezioni 8, 9, 13). Slightly, a bit, a little e rather stanno davanti all'aggettivo e abbassano. Quite non resta su un gradino. Rather, come grado, spesso segna più di quanto ci si aspettasse, e non è il gemello di quite good.
+
+| Forma | Lettura ordinaria, in questa settimana | Esempio | Lezione |
+|---|---|---|---|
+| slightly + aggettivo | meno del fatto | slightly damp; only slightly annoyed | 9, 13 |
+| quite + aggettivo che varia | di solito raffredda | Quite good usually cools | 8 |
+| quite + aggettivo senza gradi | del tutto | quite sure, quite impossible | 8 |
+| rather + aggettivo | spesso più dell'atteso | rather good is not a twin of quite good | 8 |
+| not slightly anything | rifiuto della manopola | On the poster I am not slightly anything. | 13 |
+
+Sulla macchia il lettore è only slightly annoyed, e chiede ai lettori del giornale di conoscere la misura (lezione 13). Sul manifesto non è leggermente niente: la dose è piena. Quite good, di solito, raffredda; quite impossible non ha gradi da raffreddare (lezione 8). Rather good non si impara come sinonimo (lezione 8). In una buona parte del parlato americano quite, davanti a un aggettivo che varia, sta più vicino a very: il bollettino di questa pagina è britannico, e quite pleasant di mezzogiorno era già il raffreddamento.
+
+3. La lode e la formula che l'altro non legge come te (lezioni 10, 11). Nella recensione la frase bella e il fatto stanno nella stessa pagina, spesso nella stessa frase, uniti da un which o da un gesto. A cena la frase è una, e le persone ne fanno due.
+
+| Detto | Fatto, o senso dell'altro | Lezione |
+|---|---|---|
+| which is not the same thing as being seated | il nome c'è, la sedia no | 10 |
+| the texture of a good intention | il pesce non arriva in fondo | 10 |
+| The bill was prompt. | la prima cosa sollecita è il conto | 10 |
+| the sentence I am willing to sign | solo «the bread was warm» | 10 |
+| said they were brave | la parola gentile più corta per l'arancione | 11 |
+| The evening was not named. | «dobbiamo rifarlo» non sopravvive a una data | 11 |
+| They'll say it's brave. | la parola di Paul, rimessa sul futuro | 11 |
+
+Well was the size of it, sul marciapiede, è la dose parlata della recensione (lezione 10). A cena, gorgeous va insieme alla fetta spostata sul bordo, e even better loda l'assenza della ricetta (lezione 11). Il bollettino dice roads will be brave nello stesso senso: la parola corta, gentile, per un fondo che non volevi. E l'ora non detta è la sera che Helen aveva chiesto di nominare, e che nessuno ha nominato.
+
+4. Il tono piano e il tuono da costume (lezioni 12, 13). La proposta modesta parla come una legge, di una tassa che non riscuote. La lettera al direttore parla come un'indignazione civile, e poi mostra il timbro. Tutti e due restano dritti. Nessuno dei due alza la voce nel punto in cui il fatto è piccolo, o in cui il fatto è una coda.
+
+| Voce | Come si riconosce | Esempio | Lezione |
+|---|---|---|---|
+| proposta, shall e deemed | clausole, esenzioni, un bilancio a zero | one pound a minute; the roof is not here, and nor is the pound | 12 |
+| la scusa perfetta | la regola impedisce di applicare la regola | a clause I have not numbered, because numbering it would also require the pen | 12 |
+| lettera, Sir e sorrow | si comincia dicendo che non si è in collera | sorrow rather than in anger | 13 |
+| firma stock | il costume, non l'indirizzo | Disgusted, Tunbridge Wells; I do not. | 13 |
+| la dose piena, nominata | rifiuto di slightly | not slightly anything | 13 |
+
+Una sterlina al minuto è meno di un avvocato e più di una coscienza, e alla fine non c'è né il tetto né la sterlina (lezione 12). Disgusted è la firma tradizionale, Tunbridge Wells è una città vera del Kent, e il timbro non è quello: I do not (lezione 13). Il bollettino riceve una proposta sul cappotto e non la fa sua. È stanco, come l'autore della coda. Il tuono, se arriva, è di un telespettatore, e anche lì la firma è un costume.
+
+5. La stanza, e dove ci si ferma (lezioni 8, 9). La stessa coppia di parole non porta la stessa dose in ogni stanza. Il bollettino lo sa, e alla fine fa la mossa del saggio: ringrazia, non chiede, si ferma prima della parola chiara.
+
+| Parole | Stanza | Dose | Lezione |
+|---|---|---|---|
+| not bad | un lavoro, un budino lievitato | grande elogio, e si ringrazia | 8 |
+| not bad | per strada, a un saluto | un gradino sotto fine | 8 |
+| not bad | dieci minuti di sole, detti precisi | la dose coincide col fatto | 9 |
+| not bad | una collega, sul bollettino | la stanza probabile è il lavoro, e chi parla non chiede | 8 |
+| slightly damp, airy | la lettera a una madre | la dose che non fa preoccupare | 9 |
+| the plain word | la domanda «quale intendevi?», o la parola storm | il testo si ferma prima | 8 |
+
+I have not asked which he meant chiude il saggio, e il bollettino lo ripete con una collega (lezione 8). As far as the first adjective è l'errore della vacanza e, alla fine, l'occhiolino di chi c'era (lezione 9). Could be worse rifiuta la visita al peggio; I have had worse è un elogio fatto di un confronto, caldo quanto la vita che misura (lezione 8). Domani, nel bollettino, l'inverno fa da misura, e non consola. La parola storm non viene detta. Non perché il tempo sia piccolo. Perché la settimana ha imparato a fermarsi un poco prima, e a lasciare che la stanza, il mare, le caviglie e il timbro facciano il resto.
+
+tasks:
+- The train kept rather a loose hold on the timetable, by about two hours. The coffee was not hot. The inspector was not exactly warm. There was no seat, so I saw a good deal of the carriage, which was one way to pass the time. It could have been worse. I am not going to list the worse, and I have had worse, and the comparison is only as warm as this coffee, which is to say not very.
+  task.it: Volgi in understatement britannico questo reclamo: «Il treno è arrivato con due ore di ritardo, il caffè era freddo, il controllore è stato scortese e sono rimasto in piedi per tutto il viaggio.» I quattro fatti restano. La voce è quella di chi dice meno, non quella di Disgusted.
+  rubric.it: Restano le due ore, il caffè freddo, il controllore scortese e il viaggio in piedi; il registro è la dose piccola, senza insulto e senza Sir; c'è almeno una litote o un rather, slightly, quite, not exactly; Disgusted e il tuono della lettera non sono la voce; si capisce lo stesso che il viaggio è andato male, e la parola chiara non è quella che chiude.

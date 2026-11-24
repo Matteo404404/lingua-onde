@@ -7597,3 +7597,762 @@ tasks:
 - Martin — thinking of you both. Words are thin, I know; the day unit sounds as if it has a next step, which is more use than a pep talk. If a lift to Tuesday's slot or an hour of quiet shopping would help, say. No neat reply needed. You look well in Elena's updates, which I take as Reed-bench English for "managing with company." Glad the coat is on the chair. Paul.
   task.it: Scrivi in inglese (70-110 parole) un messaggio di sostegno a Martin ed Elena (o a un'altra persona in cura): tatto della settimana (ricordo o offerta pratica, niente cliché da «stai positivo», forse un understatement caldo). Confronta col modello.
   rubric.it: C'è sostegno concreto o una porta pratica; non ci sono «posto migliore» / «stai positivo» come piano; il tono è sobrio e caldo; l'inglese è naturale; non si riscrive la diagnosi per intero.
+
+== 92 C2
+numeral: Lesson Ninety-Two
+title: Where English came from
+title.it: Da dove viene l'inglese
+
+dialogue:
+- English did not arrive fully formed on a Tuesday with a dictionary under its arm.
+  it: L'inglese non arrivò già pronto un martedì con un dizionario sotto il braccio.
+- It grew the way a river grows: by taking water from every hill it passed, and by refusing, most days, to apologise for the taste.
+  it: Crebbe come cresce un fiume: prendendo acqua da ogni colle che attraversava, e rifiutandosi, quasi sempre, di scusarsi per il sapore.
+- Begin with the Germanic settlement of Britain in the fifth century: Angles, Saxons and other groups brought West Germanic speech that we now call Old English.
+  it: Comincia con l'insediamento germanico in Britannia nel V secolo: Angli, Sassoni e altri gruppi portarono una parlata germanica occidentale che oggi chiamiamo inglese antico.
+- Old English is not "bad modern English"; it is another language in the same family, closer in feel to German or Dutch than to the newspaper on your table.
+  it: L'inglese antico non è «inglese moderno fatto male»; è un'altra lingua della stessa famiglia, più vicina come sensazione al tedesco o all'olandese che al giornale sul tavolo.
+- A line of Beowulf, even in a careful modern gloss, still needs a glossary; the bones of words like house, hand and come are already there if you know where to look.
+  it: Un verso di Beowulf, anche in una glossa moderna attenta, ha ancora bisogno di un glossario; le ossa di parole come house, hand e come ci sono già se sai dove guardare.
+- Latin arrived early with the Church: school, monk, altar and a crowd of learned nouns walked in through the monastery door.
+  it: Il latino arrivò presto con la Chiesa: school, monk, altar e una folla di nomi dotti entrarono dalla porta del monastero.
+- Then the Vikings left more than place-names ending in -by; they left pronouns and everyday words — they, them, their, sky, window, take — that modern English could not easily do without.
+  it: Poi i Vichinghi lasciarono più dei toponimi in -by; lasciarono pronomi e parole quotidiane — «they», «them», «their», «sky», «window», «take» — di cui l'inglese moderno non farebbe a meno con facilità.
+- The Norman Conquest of 1066 did not replace English overnight; it stacked French above it in court, law and fancy dinner, while English kept the farm, the kitchen and the body.
+  it: La conquista normanna del 1066 non sostituì l'inglese da un giorno all'altro; impilò il francese sopra di esso a corte, in diritto e a cena elegante, mentre l'inglese tenne la fattoria, la cucina e il corpo.
+- That is why we still raise cows and eat beef, keep swine and serve pork: the animal stayed English; the dish on the Norman table took a French name.
+  it: Ecco perché alleviamo ancora «cows» e mangiamo «beef», teniamo «swine» e serviamo «pork»: l'animale restò inglese; il piatto sulla tavola normanna prese un nome francese.
+- Middle English, the language of Chaucer's pilgrims, is the long compromise: Germanic grammar worn smoother, French and Latin vocabulary pouring in, spelling still a local adventure.
+  it: L'inglese medio, la lingua dei pellegrini di Chaucer, è il lungo compromesso: grammatica germanica lisciata, lessico francese e latino che entra a fiotti, ortografia ancora un'avventura locale.
+- Printing in England from the late fifteenth century, with Caxton among the early printers, began to favour some spellings over others; "standard" started as a practical habit of the press, not as a moral law.
+  it: La stampa in Inghilterra dalla fine del Quattrocento, con Caxton tra i primi stampatori, cominciò a favorire certe grafie su altre; lo «standard» nacque come abitudine pratica della stampa, non come legge morale.
+- Between late Middle English and Early Modern English came the Great Vowel Shift: long vowels moved in the mouth, so the written forms often look older than they sound to us now.
+  it: Tra inglese medio tardo e inglese moderno antico arrivò il Great Vowel Shift: le vocali lunghe si spostarono in bocca, così le forme scritte spesso sembrano più vecchie di come ci suonano oggi.
+- Shakespeare and the King James Bible did not invent Early Modern English, but they rode its wave into the ear of later centuries; many phrases still feel proverbial because those pages kept repeating them.
+  it: Shakespeare e la Bibbia di Re Giacomo non inventarono l'inglese moderno antico, ma ne cavalcarono l'onda fino all'orecchio dei secoli dopo; molte frasi sembrano ancora proverbiali perché quelle pagine le ripeterono.
+- From the seventeenth century onward, science and scholarship borrowed Greek and Latin freely: thermometer, telescope, habitat — words that look at home in an Italian textbook too, for the same Mediterranean reasons.
+  it: Dal Seicento in poi, scienza e studio attinsero liberamente al greco e al latino: thermometer, telescope, habitat — parole che stanno a casa anche in un manuale italiano, per le stesse ragioni mediterranee.
+- Empire then carried English across oceans; the language came back changed, with goods, foods, and contact words that no West Saxon farmer had needed.
+  it: L'impero poi portò l'inglese oltre gli oceani; la lingua tornò cambiata, con merci, cibi e parole di contatto di cui nessun contadino del Wessex aveva avuto bisogno.
+- American English went its own way in spelling and idiom without ceasing to be English; Noah Webster's reforms were one loud chapter, not the whole book.
+  it: L'inglese americano fece la propria strada in ortografia e idiotismi senza smettere di essere inglese; le riforme di Noah Webster furono un capitolo rumoroso, non tutto il libro.
+- Today the map is wider still: the Englishes of week eight are not footnotes to London; they are chapters written where people live.
+  it: Oggi la mappa è ancora più larga: gli inglesi della settimana otto non sono note a piè di pagina di Londra; sono capitoli scritti dove la gente vive.
+- For an Italian learner the family tree has a useful joke at the end.
+  it: Per un apprendente italiano l'albero genealogico ha una battuta utile in fondo.
+- Much of the "hard" vocabulary of formal English — nation, important, continue, difficult — is cousin to Italian through Latin or French, while the short verbs that carry feeling — go, get, put, take — are the older Germanic furniture of the house.
+  it: Gran parte del lessico «difficile» dell'inglese formale — «nation», «important», «continue», «difficult» — è cugino dell'italiano via latino o francese, mentre i verbi corti che portano il sentimento — «go», «get», «put», «take» — sono i mobili germanici più vecchi della casa.
+- That is why a Padronanza essay can sound almost Latinate in its nouns and stubbornly English in its verbs.
+  it: Ecco perché un saggio di Padronanza può suonare quasi latineggiante nei nomi e ostinatamente inglese nei verbi.
+- History is not a museum label on a dead tongue; it is the reason your sentence has layers.
+  it: La storia non è un'etichetta da museo su una lingua morta; è il motivo per cui la tua frase ha strati.
+- When you say they took the window from the house, you are mixing a Norse pronoun, verb and noun with an Old English house, without noticing the joinery.
+  it: Quando dici «they took the window from the house», stai mescolando un pronome, un verbo e un nome norreni con una «house» di inglese antico, senza notare la falegnameria.
+- The polite British understatement you met in week two sits on the same mixed timber.
+  it: L'understatement britannico educato che hai incontrato nella settimana due poggia sullo stesso legno misto.
+- So where did English come from?
+  it: Allora, da dove viene l'inglese?
+- From boats, monasteries, conquest, print, vowels that wandered, books that travelled, and speakers who needed a word before the academy had filed it.
+  it: Da barche, monasteri, conquista, stampa, vocali che vagavano, libri che viaggiavano, e parlanti che avevano bisogno di una parola prima che l'accademia l'avesse archiviata.
+- It came from argument as much as from inheritance.
+  it: Venne dalla disputa tanto quanto dall'eredità.
+- And it is still arriving, every time someone in Marrowbridge, Milan or Mumbai finishes a sentence that would have puzzled Caxton and delighted him too.
+  it: Ed è ancora in arrivo, ogni volta che qualcuno a Marrowbridge, Milano o Mumbai finisce una frase che avrebbe sconcertato Caxton e lo avrebbe anche dilettato.
+
+notes.it:
+1. did not arrive fully formed... dictionary under its arm: tesi anti-mito delle origini pulite. river... every hill... taste: metafora guida del saggio.
+2. Germanic settlement... fifth century... Angles, Saxons... Old English: fatto consolidato; «other groups» ricorda che non arrivarono solo Angli e Sassoni (ci furono anche gli Iuti). not "bad modern English"... German or Dutch: colloca l'OE nella famiglia germanica.
+3. Beowulf... glossary... house, hand, come: il grande poema in inglese antico; anche in traduzione le ossa lessicali sono riconoscibili. Latin... Church... school, monk, altar: prestiti ecclesiastici noti.
+4. Vikings... -by... they, them, their, sky, window, take: influenza norrena ben attestata su pronomi e quotidiano. Norman Conquest 1066... French above... farm, kitchen, body: diglossia sociale tipica del racconto storico scolastico.
+5. cows / beef, swine / pork: esempio classico (animale germanico / pietanza dal francese). Middle English... Chaucer... compromise: Chaucer come punto di riferimento storico del medio inglese; spelling... local adventure: niente standard unico ancora.
+6. Printing... late fifteenth... Caxton... practical habit of the press: Caxton stampatore precoce in Inghilterra; standard come pratica, non morale (eco lezione 50 sullo standard). Great Vowel Shift... written forms... older than they sound: fatto noto; le vocali lunghe cambiano, l'ortografia spesso resta indietro.
+7. Shakespeare... King James Bible... rode its wave: non inventarono la fase, la resero memorabile. science... Greek and Latin... thermometer, telescope, habitat... Italian textbook: ponte IT/EN sui cultismi.
+8. Empire... came back changed: diffusione e ritorno di lessico. American English... Webster... one loud chapter: riforme ortografiche americane come capitolo, non intera storia. week eight... Englishes... chapters: richiamo alle varietà della settimana otto (lezioni 50-56).
+9. Italian learner... useful joke: volta verso il lettore. hard vocabulary... Latin/French cousins... short verbs... Germanic furniture: mappa pratica per chi viene dall'italiano. Padronanza essay... Latinate nouns... English verbs: nome italiano del corso.
+10. layers... they took the window from the house: etimologie mescolate in una frase semplice (norreno they/take/window + OE house; joinery = falegnameria degli strati). week two... understatement: ponte. boats... argument as much as inheritance: risposta alla domanda del titolo. Marrowbridge, Milan or Mumbai... Caxton: chiusura; Marrowbridge accanto a due città reali.
+
+ex1:
+- Old English is another Germanic language in the family, not simply "bad modern English," and it sits closer to German or Dutch than to today's newspaper.
+  it: L'inglese antico è un'altra lingua germanica della famiglia, non semplicemente «inglese moderno fatto male», e sta più vicino al tedesco o all'olandese che al giornale di oggi.
+- After 1066, French stacked above English in court and law, while English kept the farm, the kitchen and the body — hence cows and beef, swine and pork.
+  it: Dopo il 1066, il francese si impilò sopra l'inglese a corte e in diritto, mentre l'inglese tenne la fattoria, la cucina e il corpo — da cui cows e beef, swine e pork.
+- Printing from the late fifteenth century began to favour some spellings; a standard started as a habit of the press, not as a moral law.
+  it: La stampa dalla fine del Quattrocento cominciò a favorire certe grafie; uno standard nacque come abitudine della stampa, non come legge morale.
+- The Great Vowel Shift moved long vowels in the mouth, so many written forms look older than they sound to modern ears.
+  it: Il Great Vowel Shift spostò le vocali lunghe in bocca, così molte forme scritte sembrano più vecchie di come suonano alle orecchie moderne.
+- Formal English nouns often feel Latinate to an Italian reader, while the short verbs that carry feeling are older Germanic furniture.
+  it: I nomi dell'inglese formale spesso sembrano latineggianti a un lettore italiano, mentre i verbi corti che portano il sentimento sono mobili germanici più vecchi.
+
+ex2:
+- The Norman [Conquest] of 1066 stacked French above English in court and law.
+  it: La conquista normanna del 1066 impilò il francese sopra l'inglese a corte e in diritto.
+- We raise cows and eat [beef]; the animal stayed English, the dish took a French name.
+  it: Alleviamo mucche e mangiamo manzo; l'animale restò inglese, il piatto prese un nome francese.
+- Between late Middle English and Early Modern English came the Great Vowel [Shift].
+  it: Tra inglese medio tardo e inglese moderno antico arrivò il grande spostamento vocalico.
+- A standard of spelling started as a practical [habit] of the press, not as a moral law.
+  it: Uno standard ortografico nacque come abitudine pratica della stampa, non come legge morale.
+- Short verbs like go, get and take are the older Germanic [furniture] of the house.
+  it: Verbi corti come go, get e take sono i mobili germanici più vecchi della casa.
+
+tasks:
+- English began as West Germanic speech brought to Britain in the fifth century, then took Latin from the Church and everyday words from Norse contact. After 1066 French rose over English in court and law while English kept farm and body, which is why we still raise cows and eat beef. Middle English smoothed the grammar; printing and the Great Vowel Shift nudged spelling and sound apart. Early Modern English rode into later ears on books and playhouses; empire and American usage widened the map. For Italian learners, formal nouns often feel Latinate, while short verbs remain the old Germanic furniture.
+  task.it: Riassumi in inglese, intorno alle 100 parole, da dove viene l'inglese secondo il saggio (fasi principali e almeno un esempio utile per un italiano). Confronta col modello.
+  rubric.it: Ci sono almeno tre fasi storiche riconoscibili; un esempio concreto (beef/pork, Norse pronouns, o nomi latineggianti vs verbi corti); il tono è chiaro da saggio, non da elenco di date nude; circa 90-110 parole; l'inglese è naturale.
+
+== 93 C2
+numeral: Lesson Ninety-Three
+title: A letter of 1600
+title.it: Una lettera del 1600
+
+dialogue:
+- What follows is an invented private letter in the manner of English around the year 1600, built from forms you will still meet in Early Modern pages.
+  it: Ciò che segue è una lettera privata inventata, alla maniera dell'inglese intorno al 1600, fatta di forme che incontrerai ancora nelle pagine del primo inglese moderno.
+- To my dear sister Anne, at Marrowbridge.
+  it: Alla mia cara sorella Anne, a Marrowbridge.
+- Loving sister, I commend me heartily unto you, and I pray you hold me excused that I have been so long silent.
+  it: Amata sorella, mi raccomando di cuore a te, e ti prego di scusarmi se sono rimasto tanto a lungo in silenzio.
+- The roads were foul after Candlemas, and my master's business in London hath kept me from ink when I most wished for it.
+  it: Le strade erano impraticabili dopo la Candelora, e gli affari del mio padrone a Londra mi hanno tenuto lontano dall'inchiostro quando più lo desideravo.
+- Thou shalt know first that I am well, God be thanked, and that our cousin Hale is recovered of his fever.
+  it: Sappi prima che sto bene, Dio sia ringraziato, e che nostro cugino Hale è guarito dalla febbre.
+- He asketh kindly after thy garden, and saith the thyme by thy kitchen door doth put his own to shame.
+  it: Chiede con affetto del tuo giardino, e dice che il timo presso la porta della tua cucina fa vergognare il suo.
+- Now to the matter whereof I wrote in haste last Michaelmas, and then left hanging like a cloak upon a peg.
+  it: Ora alla faccenda di cui ti scrissi in fretta a San Michele scorso, e che lasciai poi appesa come un mantello a un gancio.
+- There is in Cheapside a merchant come lately from Venice, though he was born in Padua, one Matteo Bellini, honest in his accounts and merry at a short supper.
+  it: C'è a Cheapside un mercante venuto da poco da Venezia, sebbene nato a Padova, un certo Matteo Bellini, onesto nei conti e allegro a una cena breve.
+- He hath a niece, Lucia, that keepeth his house since her aunt died, and speaketh English as one that hath learned it for use, not for show.
+  it: Ha una nipote, Lucia, che gli tiene casa da quando è morta la zia, e parla inglese come chi l'ha imparato per usarlo, non per mostrarlo.
+- I have sat thrice at their table, and twice walked with her to Paul's churchyard among the booksellers, where she readeth titles aloud as if print itself were a friend.
+  it: Sono stato tre volte a tavola da loro, e due volte ho camminato con lei nel sagrato di St Paul's fra i librai, dove legge i titoli ad alta voce come se la stampa stessa fosse un'amica.
+- She hath a quick wit and a quiet pride; she will not be flattered with empty sugar, yet she smileth when a jest is clean.
+  it: Ha un ingegno vivo e un orgoglio quieto; non si lascia adulare con zucchero vuoto, eppure sorride quando una battuta è pulita.
+- Her uncle asketh whether my meaning be marriage, for he will not have her heart tossed as a ball in open street.
+  it: Lo zio chiede se la mia intenzione sia matrimonio, perché non vuole che il suo cuore sia lanciato come una palla in piena strada.
+- I answered that my meaning is honest, and that I lack only thy counsel, and our mother's blessing if she still keep breath to give it.
+  it: Risposi che la mia intenzione è onesta, e che mi manca solo il tuo consiglio, e la benedizione di nostra madre se ha ancora fiato da darla.
+- Write me plainly, sweet Anne: doth this match please thee, or doth it smell too much of foreign spice for a Croft of Marrowbridge?
+  it: Scrivimi chiaramente, cara Anne: questo partito ti piace, o puzza troppo di spezia straniera per un Croft di Marrowbridge?
+- I know some neighbours will wag their beards and say an Englishman should wed his own parish.
+  it: So che alcuni vicini scuoteranno la barba e diranno che un inglese dovrebbe sposare la propria parrocchia.
+- Yet English itself, as our priest saith when he is in a teaching humour, hath long wed foreign words and thrived.
+  it: Eppure l'inglese stesso, come dice il nostro prete quando è in vena di insegnare, ha a lungo sposato parole straniere e prosperato.
+- If thou approve, I shall speak with Master Bellini in due form, and send thee measure for a gown against the day.
+  it: Se approvi, parlerò con il signor Bellini in debita forma, e ti manderò le misure per un abito in vista del giorno.
+- If thou mislike it, say so without varnish; I had rather take a clean wound from thee than a sweet poison from mine own hope.
+  it: Se ti dispiace, dillo senza vernice; preferirei una ferita pulita da te che un veleno dolce dalla mia stessa speranza.
+- Commend me to all at home, and to the little dog that barketh at the carrier as if each letter were a thief.
+  it: Raccomandami a tutti a casa, e al cagnolino che abbaia al corriere come se ogni lettera fosse un ladro.
+- Thy loving brother, Edmund Croft. Written at London, this twelfth of March.
+  it: Il tuo affezionato fratello, Edmund Croft. Scritto a Londra, questo dodici di marzo.
+- Pause on the grammar that carries the affection.
+  it: Fermati sulla grammatica che porta l'affetto.
+- Thou, thee, thy, thine mark close address: Edmund uses them to Anne as family speech; to Master Bellini in the street he would more often say you.
+  it: Thou, thee, thy, thine segnano l'allocuzione vicina: Edmund li usa con Anne come parlata di famiglia; per strada al signor Bellini direbbe più spesso you.
+- The endings -eth and -est do present-tense work that modern English gives to -s or to bare you-forms: hath, doth, asketh, keepeth, smileth; thou shalt. After if, the bare verb is the old subjunctive: if thou approve.
+  it: Le desinenze -eth e -est fanno il lavoro del presente che l'inglese moderno dà a -s o alle forme con you: hath, doth, asketh, keepeth, smileth; thou shalt. Dopo if, il verbo nudo è il vecchio congiuntivo: if thou approve.
+- Mine own and unto you are older habits of rhythm; whereof and against the day thicken the formal cloth without changing the news.
+  it: «Mine own» e «unto you» sono abitudini di ritmo più vecchie; «whereof» e «against the day» addensano il tessuto formale senza cambiare la notizia.
+- Modernise the letter and the love remains; what falls away is the costume — the -eth lace, the thou buttons, the Candlemas calendar.
+  it: Modernizza la lettera e l'amore resta; ciò che cade è il costume — il merletto in -eth, i bottoni del thou, il calendario della Candelora.
+- Keep the niece who reads titles among the booksellers; she will matter again when two languages sit at one wedding table.
+  it: Tieni la nipote che legge titoli fra i librai; conterà di nuovo quando due lingue siederanno a una sola tavola di nozze.
+- Early Modern English is not a joke accent; it is English mid-journey, between Chaucer's compromise and the newspaper that landed on your desk this morning.
+  it: L'inglese moderno antico non è un accento da battuta; è l'inglese a metà viaggio, fra il compromesso di Chaucer e il giornale arrivato sulla tua scrivania stamattina.
+- Read it aloud once with the endings, once without; the second is clearer to us, the first still knows how to bow.
+  it: Leggila ad alta voce una volta con le desinenze, una volta senza; la seconda è più chiara per noi, la prima sa ancora come inchinarsi.
+
+notes.it:
+1. invented private letter... in the manner of... Early Modern: cornice; la lettera è un pastiche d'epoca. dear sister Anne... Marrowbridge: destinataria e paese del corso.
+2. Loving sister... commend me heartily unto you... hold me excused: aperture da lettera privata intorno al 1600. foul after Candlemas: Candelora (2 febbraio); strade fangose. hath kept: -eth di terza persona.
+3. Thou shalt know... God be thanked... recovered of his fever: thou + shalt; recovered of = guarito da (costruzione più vecchia). cousin Hale: parente di casa. asketh... saith... doth put... to shame: catena di -eth; thyme... kitchen door: dettaglio domestico.
+4. whereof I wrote... Michaelmas... cloak upon a peg: whereof = di cui; San Michele (29 settembre); immagine. Cheapside... merchant come lately from Venice... Padua... Matteo Bellini: personaggi inventati; Cheapside è la vera strada del mercato di Londra. honest... merry at a short supper: ritratto breve.
+5. niece Lucia... keepeth his house... for use, not for show: Lucia (ponte verso 98). Paul's churchyard... booksellers: fatto noto (il sagrato di St Paul's come mercato di libri in età moderna). readeth titles aloud: tratto di carattere.
+6. quick wit... quiet pride... empty sugar... jest is clean: understatement affettivo in costume d'epoca. uncle asketh whether... marriage... ball in open street: richiesta formale di intenzioni.
+7. meaning is honest... thy counsel... mother's blessing... keep breath: consiglio della sorella. Write me plainly... doth this match please... foreign spice... Croft of Marrowbridge: domanda diretta; spice = metafora dello «straniero».
+8. wag their beards... own parish: obiezione dei vicini. English itself... wed foreign words: eco della 92 dentro la voce del prete. If thou approve... measure for a gown against the day: against the day = in vista del giorno (nozze). If thou mislike... without varnish... clean wound... sweet poison: tatto (settimana 13) in forma antica.
+9. little dog that barketh... each letter were a thief: chiusura domestica. Thy loving brother... twelfth of March: sign-off. Thou/thee/thy... you to Master Bellini: nota d'uso (thou intimo; you più disteso/cortese già comune intorno al 1600).
+10. -eth and -est... hath, doth... thou shalt... if thou approve: presente antico e congiuntivo dopo if. Mine own... unto you... whereof... against the day: ritmo e tessuto. Modernise... costume falls away: tesi del task. niece... wedding table: semina per 98. mid-journey... Chaucer... newspaper: colloca sulla linea della 92. aloud with endings... still knows how to bow: chiusura sul suono.
+
+ex1:
+- "Thou shalt know first that I am well" uses intimate thou; to a merchant in the street Edmund would more often say you.
+  it: «Thou shalt know first that I am well» usa il thou intimo; per strada a un mercante Edmund direbbe più spesso you.
+- Forms like hath, doth, asketh and keepeth do the present-tense work modern English gives to -s.
+  it: Forme come hath, doth, asketh e keepeth fanno il lavoro del presente che l'inglese moderno dà a -s.
+- Lucia speaketh English as one that hath learned it for use, not for show.
+  it: Lucia parla inglese come chi l'ha imparato per usarlo, non per mostrarlo.
+- "Against the day" means in readiness for the wedding day, not in opposition to it.
+  it: «Against the day» vuol dire in preparazione del giorno delle nozze, non in opposizione a esso.
+- Modernise the letter and the affection remains; what falls away is the -eth lace and the thou buttons.
+  it: Modernizza la lettera e l'affetto resta; ciò che cade è il merletto in -eth e i bottoni del thou.
+
+ex2:
+- Loving sister, I commend me heartily [unto] you.
+  it: Amata sorella, mi raccomando di cuore a te.
+- Our cousin Hale is recovered [of] his fever.
+  it: Nostro cugino Hale è guarito dalla febbre.
+- Her uncle asketh whether my meaning be [marriage].
+  it: Lo zio chiede se la mia intenzione sia matrimonio.
+- If thou [approve], I shall speak with Master Bellini in due form.
+  it: Se approvi, parlerò con il signor Bellini in debita forma.
+- Early Modern English is English [mid-journey], between Chaucer and this morning's newspaper.
+  it: L'inglese moderno antico è l'inglese a metà viaggio, fra Chaucer e il giornale di stamattina.
+
+tasks:
+- Dear Anne — Sorry I have been quiet so long: the roads were dreadful after Candlemas, and my master's London business kept me from writing. I am well, and cousin Hale is over his fever; he still says your kitchen thyme puts his to shame. About Lucia Bellini, the Paduan merchant's niece in Cheapside: I have eaten with them three times and twice walked with her among the booksellers by St Paul's. She is sharp, not sugary, and her uncle wants to know if I mean marriage. I do, honestly — but I want your counsel, and Mother's blessing if she can give it. Some neighbours will say stick to the parish; I say English has been marrying foreign words for centuries. If you like the match, I will speak to him properly and send gown measurements; if not, tell me straight. Love to everyone, and to the dog that barks at every letter. Edmund.
+  task.it: Modernizza in inglese di oggi (120-180 parole) la lettera di Edmund: stesso significato e affetto, senza thou/-eth/whereof; tieni Lucia, il consiglio di Anne, la domanda sul matrimonio. Confronta col modello.
+  rubric.it: Il senso e la richiesta di consiglio restano; non ci sono thou/thee/-eth da pastiche; il tono è di lettera familiare moderna, non da museo; Lucia e il nodo del matrimonio ci sono; l'inglese è naturale.
+
+== 94 C2
+numeral: Lesson Ninety-Four
+title: New words
+title.it: Parole nuove
+
+dialogue:
+- A living language is a workshop with the door left open; new words walk in before anyone has printed a name-badge for them.
+  it: Una lingua viva è un laboratorio con la porta lasciata aperta; le parole nuove entrano prima che qualcuno abbia stampato un cartellino con il nome.
+- Dictionaries follow, sometimes years later, looking slightly out of breath.
+  it: I dizionari seguono, a volte anni dopo, con un filo di fiato corto.
+- How are words born today? Not by royal decree, and rarely by a committee that smiles for the photograph.
+  it: Come nascono le parole oggi? Non per decreto reale, e di rado per un comitato che sorride per la fotografia.
+- They are born when a speaker needs a handle for a new thing, a new habit, or a new irritation, and reaches for the tools already on the bench.
+  it: Nascono quando un parlante ha bisogno di una maniglia per una cosa nuova, un'abitudine nuova o un'irritazione nuova, e allunga la mano agli attrezzi già sul banco.
+- Compounding sticks two known pieces together: screen plus shot gave screenshot; data plus base gave database before it felt ordinary.
+  it: La composizione incolla due pezzi noti: «screen» più «shot» ha dato «screenshot»; «data» più «base» ha dato «database» prima che sembrasse ordinario.
+- Blending smashes pieces into one mouthful: brunch from breakfast and lunch, smog from smoke and fog, podcast from iPod and broadcast — the brand may age, the blend can stay.
+  it: La fusione sbatte pezzi in un solo boccone: «brunch» da breakfast e lunch, «smog» da smoke e fog, «podcast» da iPod e broadcast — il marchio può invecchiare, la fusione può restare.
+- Clipping shortens without apology: advertisement becomes ad, examination exam, application app; Italian does the same work with bus and metro, so the instinct is not foreign.
+  it: Il troncamento accorcia senza scuse: advertisement diventa «ad», examination «exam», application «app»; l'italiano fa lo stesso lavoro con «bus» e «metro», quindi l'istinto non è straniero.
+- Affixes dress an old stem for a new job: unfriend, reboot, reusable, selfie as a noun that then learns to be a verb in casual speech.
+  it: Gli affissi vestono una radice vecchia per un lavoro nuovo: unfriend, reboot, reusable, selfie come nome che poi impara a essere verbo nel parlato informale.
+- Conversion moves a word to a new part of speech with no sewing visible: to text, to google, a fail used as a noun in informal talk.
+  it: La conversione sposta una parola in una nuova parte del discorso senza cuciture visibili: to text, to google, a fail usato come nome nel parlato informale.
+- Acronyms and initialisms pack a phrase into letters: NASA is said as a word; BBC usually as letters; FOMO (fear of missing out) began as in-group shorthand and leaked into headlines.
+  it: Acronimi e sigle impacchettano una frase in lettere: NASA si dice come parola; BBC di solito a lettere; FOMO (fear of missing out) cominciò come scorciatoia da gruppo e filtrò nei titoli.
+- Borrowing still works in both directions: English took latte long after pasta; Italian took weekend, and English shop names now hang over many an Italian corso.
+  it: Il prestito funziona ancora nei due sensi: l'inglese ha preso latte molto dopo pasta; l'italiano ha preso weekend, e insegne inglesi ormai pendono su molti corsi italiani.
+- Some new words are jokes that harden into tools; others are tools that soften into jokes when the fashion moves on.
+  it: Alcune parole nuove sono battute che si induriscono in attrezzi; altre sono attrezzi che si ammorbidiscono in battute quando la moda passa.
+- Not every coinage survives. For every podcast that stuck, a dozen brand-blends died on arrival, unmourned by the style guide.
+  it: Non ogni conio sopravvive. Per ogni podcast che ha tenuto, una dozzina di fusioni da marchio sono morte all'arrivo, senza lutto dalla guida di stile.
+- What makes a word stick is partly usefulness, partly timing, partly the pleasure of saying it when the old phrase felt too long.
+  it: Ciò che fa attaccare una parola è in parte l'utilità, in parte il tempismo, in parte il piacere di dirla quando la frase vecchia sembrava troppo lunga.
+- Gatekeep as a verb spread because people needed a short way to name the act of policing who belongs; the noun gatekeeper was already on the shelf.
+  it: Gatekeep come verbo si è diffuso perché la gente aveva bisogno di un modo breve per nominare l'atto di sorvegliare chi appartiene; il nome gatekeeper era già sullo scaffale.
+- Ghost as a verb ("he ghosted me") took an old noun of absence and made it a dating crime; the metaphor did the hiring.
+  it: Ghost come verbo («mi ha ghostato») ha preso un vecchio nome dell'assenza e ne ha fatto un reato da appuntamenti; la metafora ha fatto le assunzioni.
+- Italian learners often meet neologisms first online, where English and Italian trade slang faster than textbooks can footnote.
+  it: Gli apprendenti italiani incontrano spesso i neologismi prima online, dove inglese e italiano si scambiano slang più in fretta di quanto i manuali possano mettere in nota.
+- You do not need to adopt every fashion to understand the workshop: you need to see which tool was used — blend, clip, convert, borrow — so the new handle does not look like magic.
+  it: Non devi adottare ogni moda per capire il laboratorio: devi vedere quale attrezzo è stato usato — fusione, troncamento, conversione, prestito — così la maniglia nuova non sembra magia.
+- Caxton would not have known screenshot; he would have recognised the habit of sticking known pieces together when the world grew a new surface.
+  it: Caxton non avrebbe conosciuto «screenshot»; avrebbe riconosciuto l'abitudine di incollare pezzi noti quando il mondo faceva crescere una superficie nuova.
+- Edmund Croft, writing in 1600, already lived among words that Chaucer's pilgrims would have found new; he did not wait for permission.
+  it: Edmund Croft, scrivendo nel 1600, viveva già fra parole che i pellegrini di Chaucer avrebbero trovato nuove; non aspettò il permesso.
+- So invent, if you invent for a reason.
+  it: Quindi inventa, se inventi per un motivo.
+- A pointless coinage is a hat nobody wears; a needed one is an umbrella on the first wet day.
+  it: Un conio senza scopo è un cappello che nessuno indossa; uno necessario è un ombrello nel primo giorno di pioggia.
+- Try three for practice, then listen: if friends reuse them without a smirk, the workshop has clocked them in.
+  it: Provane tre per esercizio, poi ascolta: se gli amici li riusano senza ghigno, il laboratorio li ha fatti entrare in servizio.
+- If they die by Friday, mourn briefly, and go back to the bench.
+  it: Se muoiono entro venerdì, fa' un lutto breve e torna al banco.
+- English will not mind; it has been hiring and firing words since before Edmund's dog ever barked at a carrier.
+  it: All'inglese non importerà; assume e licenzia parole da prima che il cane di Edmund abbaiasse a un corriere.
+- The newest word in your mouth tomorrow will already be late for someone else's argument.
+  it: La parola più nuova nella tua bocca domani sarà già in ritardo per la disputa di qualcun altro.
+- That, too, is how a river keeps its taste.
+  it: Anche così un fiume tiene il suo sapore.
+
+notes.it:
+1. workshop... door left open... name-badge: tesi. Dictionaries follow... out of breath: i lessici registrano in ritardo. not by royal decree... committee: anti-mito dell'origine ufficiale.
+2. handle... tools already on the bench: nascita da bisogno + mezzi esistenti. Compounding... screenshot... database: composizione. Blending... brunch... smog... podcast... brand may age: fusione; nota sul pezzo di marca dentro podcast.
+3. Clipping... ad, exam, app... bus and metro: troncamento; ponte IT. Affixes... unfriend, reboot, reusable, selfie... noun then verb: affissazione + flessibilità di categoria. Conversion... to text, to google, a fail: conversione zero.
+4. Acronyms... NASA... BBC... FOMO... leaked into headlines: acronimo (parola) vs sigla (lettere); FOMO come caso da gruppo a stampa. Borrowing... both directions... latte... pasta... weekend... shop names... corso: prestito nei due sensi; «many an Italian corso» = molti corsi italiani (many a + singolare, letterario).
+5. jokes that harden... tools that soften: ciclo di vita. Not every coinage survives... style guide: selezione. usefulness... timing... pleasure: tre ragioni dello stick.
+6. Gatekeep... gatekeeper already on the shelf: verbo da nome esistente. Ghost... ghosted me... dating crime... metaphor did the hiring: metafora → verbo. online... slang faster than textbooks: dove l'apprendente li incontra.
+7. which tool was used... not magic: obiettivo didattico. Caxton... screenshot... known pieces: ponte 92. Edmund Croft... Chaucer's pilgrims... permission: ponte 93.
+8. invent for a reason... hat nobody wears... umbrella: criterio. three for practice... smirk... clocked them in: prepara il task.
+9. die by Friday... back to the bench: umorismo da laboratorio. hiring and firing... Marrowbridge... Edmund's dog: eco 93.
+10. newest word... late for someone else's argument: chiusura. river keeps its taste: richiama la metafora della 92.
+
+ex1:
+- New words are born when a speaker needs a handle and reaches for tools already on the bench: compound, blend, clip, affix, convert, borrow.
+  it: Le parole nuove nascono quando un parlante ha bisogno di una maniglia e allunga la mano ad attrezzi già sul banco: composizione, fusione, troncamento, affisso, conversione, prestito.
+- Brunch, smog and podcast are blends; advertisement shortened to ad is a clip.
+  it: Brunch, smog e podcast sono fusioni; advertisement accorciato in ad è un troncamento.
+- Conversion turns text and google into verbs with no visible sewing.
+  it: La conversione fa di text e google dei verbi senza cuciture visibili.
+- FOMO began as in-group shorthand and then leaked into headlines.
+  it: FOMO cominciò come scorciatoia da gruppo e poi filtrò nei titoli.
+- Dictionaries follow the workshop, sometimes years later; they do not open it by decree.
+  it: I dizionari seguono il laboratorio, a volte anni dopo; non lo aprono per decreto.
+
+ex2:
+- Screen plus shot gave [screenshot] by compounding.
+  it: Schermo più scatto hanno dato, per composizione, la schermata.
+- Smoke and fog blended into [smog].
+  it: Fumo e nebbia si sono fusi nella foschia inquinata.
+- Dictionaries follow, sometimes years later, looking slightly out of [breath].
+  it: I dizionari seguono, a volte anni dopo, con un filo di fiato corto.
+- "He [ghosted] me" turns an old noun of absence into a verb.
+  it: «Mi ha piantato sparendo» trasforma un vecchio nome dell'assenza in un verbo.
+- A pointless coinage is a hat nobody wears; a needed one is an [umbrella] on the first wet day.
+  it: Un conio senza scopo è un cappello che nessuno indossa; uno necessario è un ombrello nel primo giorno di pioggia.
+
+tasks:
+- deskdrift — noun. The slow migration of pens, chargers and one important letter from the centre of a desk to its unreachable edges. / inboxhaustion — noun. The tiredness that arrives before you have opened a single message (a blend of inbox and exhaustion). / to spreadsheet — verb. To turn a family holiday into rows and columns until nobody wants to go (a noun converted into a verb).
+  task.it: Inventa in inglese tre parole nuove e definiscile (nome o verbo chiaro, una o due frasi ciascuna): almeno due attrezzi diversi fra composizione, fusione, affisso, conversione o prestito finto. Devono servire a qualcosa di riconoscibile. Confronta col modello.
+  rubric.it: Ci sono tre lemmi con parte del discorso e definizione; si capisce il bisogno che coprono; i meccanismi di formazione non sono tutti uguali; il tono può essere giocoso ma le definizioni sono chiare; l'inglese è naturale.
+
+== 95 C2
+numeral: Lesson Ninety-Five
+title: Traduttore, traditore
+title.it: Traduttore, traditore
+
+dialogue:
+- The Italian proverb "traduttore, traditore" is a joke that bites: the translator, it says, is a traitor.
+  it: Il proverbio italiano «traduttore, traditore» è una battuta che morde: il traduttore, dice, è un traditore.
+- It rhymes too neatly to be fair, and too truly to be dismissed.
+  it: Fa rima troppo bene per essere equo, e troppo vero per essere liquidato.
+- Every translation chooses, and every choice leaves a fingerprint on the glass.
+  it: Ogni traduzione sceglie, e ogni scelta lascia un'impronta sul vetro.
+- Between Italian and English the glass is clear enough that beginners think the job is swapping bricks; it is nearer to rebuilding a wall so the same wind still gets through.
+  it: Tra italiano e inglese il vetro è abbastanza limpido da far pensare ai principianti che il lavoro sia scambiare mattoni; è più vicino a ricostruire un muro perché ci passi ancora lo stesso vento.
+- Take a simple offer of help: "Se posso fare qualcosa, dimmi."
+  it: Prendi un'offerta semplice di aiuto: «Se posso fare qualcosa, dimmi.»
+- English can say "If I can do anything, say," but British tact often prefers "If there's anything I can do, just say" or the warmer door from week thirteen: "If there's anything practical I can do — shopping, a lift — please say."
+  it: L'inglese può dire «If I can do anything, say», ma il tatto britannico preferisce spesso «If there's anything I can do, just say» o la porta più calda della settimana tredici: «If there's anything practical I can do — shopping, a lift — please say.»
+- Same kindness; different furniture in the sentence.
+  it: Stessa gentilezza; mobili diversi nella frase.
+- Or take understatement. An Italian "è andata malissimo" may be honest weather; a British "it wasn't ideal" may name the same flood while keeping its shoes dry.
+  it: O prendi l'understatement. Un italiano «è andata malissimo» può essere tempo onesto; un britannico «it wasn't ideal» può nominare la stessa alluvione tenendo le scarpe asciutte.
+- Translate the British line into Italian without the lid, and you get drama the English never ordered; keep the lid in Italian, and you may sound oddly cool at a funeral.
+  it: Traduci la riga britannica in italiano senza coperchio, e ottieni un dramma che l'inglese non aveva ordinato; tieni il coperchio in italiano, e puoi suonare stranamente freddo a un funerale.
+- Register shifts travel badly if you only chase dictionary sense.
+  it: I cambi di registro viaggiano male se insegui solo il senso da dizionario.
+- "Lei" and "tu" force a choice English hides inside "you"; get the wrong distance and the whole room changes temperature.
+  it: «Lei» e «tu» forzano una scelta che l'inglese nasconde dentro «you»; sbagli la distanza e tutta la stanza cambia temperatura.
+- Collocations refuse to march in pairs: we make a decision more often than we take one in British prose, yet Italians "prendere una decisione" without shame, and both are right at home.
+  it: Le collocazioni rifiutano di marciare in coppia: in prosa britannica si usa più spesso «make a decision» che «take a decision», eppure gli italiani «prendono una decisione» senza vergogna, ed entrambe stanno a casa.
+- Word order moves the spotlight. Italian can hang the important news at the end with a flourish; English often wants the verb earlier, or the sentence sounds like a suitcase that will not shut.
+  it: L'ordine delle parole sposta il riflettore. L'italiano può lasciare la notizia importante in fondo con un gesto; l'inglese spesso vuole il verbo prima, o la frase sembra una valigia che non si chiude.
+- Sound matters when a proverb is the point: "traduttore, traditore" loses its twin knives in "the translator is a traitor," which is accurate and dull, like explaining a joke to a queue.
+  it: Il suono conta quando il proverbio è il punto: «traduttore, traditore» perde i coltelli gemelli in «the translator is a traitor», che è accurato e opaco, come spiegare una battuta a una coda.
+- Sometimes the traitor is the one who keeps every word and murders the tone.
+  it: A volte il traditore è chi tiene ogni parola e assassina il tono.
+- Sometimes the traitor is the one who smooths the tone and quietly drops a fact.
+  it: A volte il traditore è chi liscia il tono e lascia cadere in silenzio un fatto.
+- Good practice names the loss: "I have kept the joke; I have lost the rhyme," or "I have kept the rhyme with a weaker joke."
+  it: La buona pratica nomina la perdita: «Ho tenuto la battuta; ho perso la rima», oppure «Ho tenuto la rima con una battuta più debole».
+- Lucia Bellini, reading titles aloud among the booksellers, was already translating: English print into an Italian mind, then back into speech for Edmund's ear.
+  it: Lucia Bellini, leggendo titoli ad alta voce fra i librai, stava già traducendo: stampa inglese in una mente italiana, poi di nuovo in parlato per l'orecchio di Edmund.
+- Today she would have to learn that "sensible" has drifted away from "sensibile", a trap with good manners that next lesson opens.
+  it: Oggi dovrebbe imparare che «sensible» si è allontanato da «sensibile», una trappola con buone maniere che apre la prossima lezione.
+- For this course the rule is practical: match meaning, register and effect; when you cannot keep all three, say what you saved and what you spent.
+  it: Per questo corso la regola è pratica: fai combaciare significato, registro ed effetto; quando non puoi tenere tutti e tre, dì che cosa hai salvato e che cosa hai speso.
+- Fondamenti taught bricks; Perfezionamento taught rooms; Padronanza asks you to move furniture between houses without pretending the floor plans match.
+  it: I Fondamenti hanno insegnato i mattoni; il Perfezionamento le stanze; la Padronanza chiede di spostare i mobili fra case senza fingere che le piante coincidano.
+- A traitor, then, in the proverb's sharp sense, is the translator who pretends no choice was made.
+  it: Un traditore, allora, nel senso tagliente del proverbio, è il traduttore che finge che non sia stata fatta alcuna scelta.
+- An honest worker shows the joins.
+  it: Un lavoratore onesto mostra i giunti.
+- Translate the wind, not only the bricks.
+  it: Traduci il vento, non solo i mattoni.
+- And when the rhyme of "traduttore, traditore" will not cross the Channel, bring the bite instead: every version betrays something; the craft is choosing what to betray on purpose.
+  it: E quando la rima di «traduttore, traditore» non attraversa la Manica, porta invece il morso: ogni versione tradisce qualcosa; il mestiere è scegliere che cosa tradire apposta.
+
+notes.it:
+1. traduttore, traditore... joke that bites: proverbio italiano; rima che fa tesi. too neatly to be fair... too truly to be dismissed: bilanciamento.
+2. chooses... fingerprint on the glass: ogni traduzione lascia traccia. swapping bricks... rebuilding a wall... same wind: metafora guida (senso vs effetto).
+3. Se posso fare qualcosa, dimmi: esempio IT. British tact... anything I can do... week thirteen... shopping, a lift: ponte 85 (porta pratica); lift = passaggio. Same kindness; different furniture: sintesi.
+4. è andata malissimo / it wasn't ideal: understatement (settimana 2) come problema di traduzione. without the lid... drama... oddly cool at a funeral: due errori simmetrici.
+5. Register shifts... dictionary sense: avvertimento. Lei/tu... you... distance... temperature: allocuzione.
+6. Collocations... make a decision... prendere una decisione: eco lezione 30; «more often» non è «never». Word order... spotlight... verb earlier... suitcase: sintassi e ritmo.
+7. proverb... twin knives... accurate and dull... queue: suono vs senso letterale. keeps every word and murders the tone / smooths... drops a fact: due tradimenti. names the loss: etica pratica.
+8. Lucia Bellini... booksellers... Edmund: ponte 93. Today... sensible... drifted away from sensibile: il significato inglese è cambiato col tempo; ponte alla 96.
+9. match meaning, register and effect... saved... spent: regola del corso. Fondamenti... Perfezionamento... Padronanza... floor plans: nomi italiani dei corsi.
+10. pretends no choice was made / shows the joins: traditore vs onesto. Translate the wind... betray on purpose: chiusura sul proverbio e sulla Manica.
+
+ex1:
+- "Traduttore, traditore" rhymes too neatly to be fair, and too truly to be dismissed: every translation chooses.
+  it: «Traduttore, traditore» fa rima troppo bene per essere equo, e troppo vero per essere liquidato: ogni traduzione sceglie.
+- British "it wasn't ideal" may name the same disaster as "è andata malissimo," but the lid on the feeling is part of the meaning.
+  it: Il britannico «it wasn't ideal» può nominare lo stesso disastro di «è andata malissimo», ma il coperchio sul sentimento fa parte del significato.
+- English "you" hides a distance that Italian must mark with "tu" or "lei"; the wrong choice changes the room's temperature.
+  it: L'«you» inglese nasconde una distanza che l'italiano deve segnare con «tu» o «lei»; la scelta sbagliata cambia la temperatura della stanza.
+- Keeping every word can murder the tone; smoothing the tone can quietly drop a fact: name what you saved and what you spent.
+  it: Tenere ogni parola può assassinare il tono; lisciare il tono può far cadere un fatto: nomina che cosa hai salvato e che cosa hai speso.
+- Match meaning, register and effect; when the floor plans differ, show the joins instead of pretending the houses match.
+  it: Fai combaciare significato, registro ed effetto; quando le piante differiscono, mostra i giunti invece di fingere che le case coincidano.
+
+ex2:
+- Every translation chooses, and every choice leaves a [fingerprint] on the glass.
+  it: Ogni traduzione sceglie, e ogni scelta lascia un'impronta sul vetro.
+- Between Italian and English the job is nearer to rebuilding a wall so the same [wind] still gets through.
+  it: Tra italiano e inglese il lavoro è più vicino a ricostruire un muro perché ci passi ancora lo stesso vento.
+- Translate the British line without the [lid], and you get drama the English never ordered.
+  it: Traduci la riga britannica senza coperchio, e ottieni un dramma che l'inglese non aveva ordinato.
+- Sometimes the traitor keeps every word and [murders] the tone.
+  it: A volte il traditore tiene ogni parola e assassina il tono.
+- An honest worker shows the [joins].
+  it: Un lavoratore onesto mostra i giunti.
+
+tasks:
+- Last Sunday the Reed brothers brought bread and lettuce to Kate's table, and for a while nobody mentioned 2006. Eli said the allotment gate was quiet now; Marcus only nodded, which in their family still counts as a paragraph. Outside it was raining in that thin English way that soaks you before you believe it. Kate poured tea and said they should do this more often — "properly," she added — and this time both of them said yes without inspecting the word.
+  task.it: Traduci in inglese il paragrafo italiano qui sotto (stesso significato, registro sobrio, effetto di understatement familiare). Poi confronta col modello e nota una perdita o un guadagno. Paragrafo: «Domenica scorsa i fratelli Reed hanno portato pane e insalata a casa di Kate, e per un po' nessuno ha nominato il 2006. Eli ha detto che il cancello dell'orto adesso sta zitto; Marcus ha soltanto annuito, cosa che in famiglia conta ancora come un paragrafo. Fuori pioveva in quel modo inglese sottile che ti bagna prima che tu ci creda. Kate ha versato il tè e ha detto che dovrebbero rifarlo più spesso — "per bene", ha aggiunto — e stavolta tutti e due hanno detto di sì senza ispezionare la parola.»
+  rubric.it: I fatti della scena ci sono (pane, insalata, 2006, cancello, pioggia, «per bene»); il tono resta sottotono, non melodrammatico; «properly» o equivalente porta il carico di «per bene»; l'inglese è naturale; in un pensiero a parte sai dire che cosa hai salvato o perso rispetto all'italiano.
+
+== 96 C2
+numeral: Lesson Ninety-Six
+title: Advanced false friends
+title.it: Falsi amici avanzati
+
+dialogue:
+- False friends are not strangers; they are relatives who wear your coat and walk into the wrong wedding.
+  it: I falsi amici non sono estranei; sono parenti che indossano il tuo cappotto ed entrano al matrimonio sbagliato.
+- Italian and English share enough Latin furniture that a word can look like a chair and turn out to be a trapdoor.
+  it: Italiano e inglese condividono abbastanza mobili latini da far sembrare una parola una sedia e rivelarsi una botola.
+- Take eventually. To English ears it means "in the end, after some time": we waited, and eventually the bus came.
+  it: Prendi «eventually». Per orecchie inglesi vuol dire «alla fine, dopo un po'»: abbiamo aspettato, e alla fine l'autobus è arrivato.
+- Italian eventualmente means "if need be" or "should the case arise": porta eventualmente un ombrello.
+  it: L'italiano eventualmente vuol dire «se serve» o «all'occorrenza»: porta eventualmente un ombrello.
+- Say "I will eventually bring an umbrella" to a British friend and they hear a forecast of delay, not a plan B.
+  it: Di' «I will eventually bring an umbrella» a un amico britannico e sente una previsione di ritardo, non un piano B.
+- Sensible is another polished trap. In English a sensible decision is reasonable, practical, the shoes you wear in rain.
+  it: «Sensible» è un'altra trappola lucida. In inglese una decisione «sensible» è ragionevole, pratica, le scarpe che metti sotto la pioggia.
+- Italian sensibile is sensitive: a sensibile soul notices the slight, the cold room, the joke that cut.
+  it: L'italiano «sensibile» è «sensitive»: un'anima sensibile nota l'affronto, la stanza fredda, la battuta che ha tagliato.
+- Call a grieving friend "sensible" when you meant "sensitive," and you have praised their footwear at a funeral.
+  it: Chiama «sensible» un amico in lutto quando intendevi «sensitive», e hai lodato le sue scarpe a un funerale.
+- Morbid in everyday English usually marks an unhealthy fascination with death, disease or gloom: a morbid curiosity about the crash.
+  it: «Morbid» nell'inglese quotidiano di solito segna un interesse malsano per morte, malattia o tetro: una curiosità morbosa sull'incidente.
+- Italian morboso overlaps, yet learners sometimes stretch morbid over any strong feeling, as if intensity itself were a fever.
+  it: L'italiano «morboso» si sovrappone, eppure gli apprendenti a volte stendono «morbid» su ogni sentimento forte, come se l'intensità stessa fosse una febbre.
+- A love of sad films is not automatically morbid; a hunger for autopsy photographs may be.
+  it: Un amore per i film tristi non è automaticamente morboso; una fame di fotografie di autopsia può esserlo.
+- Educated looks harmless and trips the well-mannered. In English it means schooled, learned, having had an education: an educated guess sits on knowledge, not on luck alone.
+  it: «Educated» sembra innocuo e fa inciampare i beneducati. In inglese vuol dire istruito, colto, che ha avuto un'istruzione: una «educated guess» poggia sulla conoscenza, non solo sulla fortuna.
+- Italian educato, in the common social sense, means polite, well brought up: un ragazzo educato holds the door.
+  it: L'italiano «educato», nel senso sociale comune, vuol dire cortese, ben allevato: un ragazzo educato tiene la porta.
+- "He is very educated" praises his reading; it does not, by itself, certify his manners at the soup.
+  it: «He is very educated» loda le sue letture; da solo non certifica le sue maniere a tavola.
+- For manners, English prefers polite, well-mannered, or the dry British "he knows how to behave."
+  it: Per le maniere, l'inglese preferisce «polite», «well-mannered», o il britannico asciutto «he knows how to behave.»
+- These four — eventually, sensible, morbid, educated — are advanced because they survive intermediate courses and then sabotage a C2 sentence with a smile.
+  it: Questi quattro — «eventually», «sensible», «morbid», «educated» — sono avanzati perché sopravvivono ai corsi intermedi e poi sabotano una frase da C2 con un sorriso.
+- The smile is the danger: the sentence still looks English; only the meaning has emigrated.
+  it: Il sorriso è il pericolo: la frase sembra ancora inglese; solo il significato è emigrato.
+- A modern Lucia, who learned English for use, would catch herself before she offered a "sensible" handkerchief to a sensitive guest.
+  it: Una Lucia di oggi, che ha imparato l'inglese per usarlo, si fermerebbe prima di offrire un fazzoletto «pratico» a un ospite sensibile.
+- She would call a kind host polite or well-mannered, and keep "educated" for the host's reading.
+  it: Chiamerebbe un ospite gentile cortese o beneducato, e terrebbe «educated» per le sue letture.
+- In Edmund's English the trap was smaller: sensible could still mean "able to feel", so part of the danger is the work of time.
+  it: Nell'inglese di Edmund la trappola era più piccola: sensible poteva ancora voler dire «capace di sentire», quindi parte del pericolo è opera del tempo.
+- How to practise: write the English word in a sentence only English can mean, then write the Italian cousin in a sentence only Italian can mean, and refuse to let them borrow each other's coats.
+  it: Come esercitarsi: metti la parola inglese in una frase che solo l'inglese può significare, poi il cugino italiano in una frase che solo l'italiano può significare, e rifiuta di far loro prestare i cappotti.
+- Eventually the bus comes; eventualmente you packed an umbrella.
+  it: Alla fine arriva l'autobus; all'occorrenza hai messo in valigia un ombrello.
+- A sensible coat; a sensibile letter of condolence.
+  it: Un cappotto pratico; una lettera di condoglianze sensibile.
+- A morbid headline; a morboso attachment that needs less cinema and more sleep.
+  it: Un titolo morboso; un attaccamento morboso che ha bisogno di meno cinema e più sonno.
+- An educated reader; un ospite educato who does not check his phone in the eulogy.
+  it: Un lettore colto; un ospite educato che non guarda il telefono durante l'elogio.
+- Keep the coats on the right pegs, and the wedding can proceed without the wrong relative standing up to speak.
+  it: Tieni i cappotti ai ganci giusti, e il matrimonio può procedere senza che il parente sbagliato si alzi a parlare.
+- Next lesson's tourists will need the same pegs; stereotypes, too, are false friends with luggage.
+  it: Ai turisti della prossima lezione serviranno gli stessi ganci; anche gli stereotipi sono falsi amici con i bagagli.
+
+notes.it:
+1. False friends... relatives... wrong wedding: tesi; semina nozze (98). Latin furniture... chair... trapdoor: perché IT/EN si ingannano.
+2. eventually... in the end... bus came: senso EN. eventualmente... if need be... ombrello: senso IT. eventually bring... forecast of delay: errore tipico.
+3. sensible... reasonable... shoes in rain: senso EN. sensibile... sensitive... slight... joke that cut: senso IT. sensible at a funeral: effetto comico dell'errore (eco tatto settimana 13).
+4. morbid... unhealthy fascination... crash: senso EN quotidiano (non solo «malato»). morboso overlaps... stretch... any strong feeling: iperestensione da apprendente. sad films ≠ automatically morbid: confine.
+5. educated... schooled... educated guess: senso EN. educato... polite... holds the door: senso IT sociale comune. reading ≠ manners at the soup: distinzione. polite / well-mannered / knows how to behave: alternative EN.
+6. four... sabotage a C2 sentence with a smile: perché «advanced». meaning has emigrated: frase ok, senso no.
+7. A modern Lucia... sensible handkerchief... sensitive guest: ponte 93 + uso corretto. polite or well-mannered... educated for the reading: la scelta giusta. Edmund's English... able to feel: intorno al 1600 sensible poteva ancora significare «sensibile, percettivo»; il falso amico è nato col cambio di significato.
+8. practise... sentence only English... only Italian... coats: metodo.
+9. four paired lines (bus/umbrella, coat/letter, headline/attachment, reader/ospite): mini-glossario vivo. right pegs... wedding... wrong relative: chiusura sulla metafora.
+10. Next lesson's tourists... stereotypes... false friends with luggage: ponte 97.
+
+ex1:
+- Eventually means "in the end"; Italian eventualmente means "if need be" — mix them and a plan B becomes a delay.
+  it: Eventually vuol dire «alla fine»; l'italiano eventualmente vuol dire «se serve» — se li mischii, un piano B diventa un ritardo.
+- A sensible choice is practical; a sensibile person is sensitive: praise the wrong one at a funeral and you have admired the shoes.
+  it: Una scelta «sensible» è pratica; una persona «sensibile» è «sensitive»: lodi quella sbagliata a un funerale e hai ammirato le scarpe.
+- Morbid usually marks an unhealthy taste for death or gloom, not every strong emotion.
+  it: Morbid di solito segna un gusto malsano per la morte o il tetro, non ogni emozione forte.
+- Educated means schooled or learned; Italian educato often means polite — for manners say polite or well-mannered.
+  it: Educated vuol dire istruito o colto; l'italiano educato spesso vuol dire cortese — per le maniere di' polite o well-mannered.
+- An educated guess rests on knowledge; a well-mannered guest holds the door without needing a degree.
+  it: Una «educated guess» poggia sulla conoscenza; un ospite beneducato tiene la porta senza bisogno di una laurea.
+
+ex2:
+- We waited half an hour, and [eventually] the bus came.
+  it: Abbiamo aspettato mezz'ora, e alla fine l'autobus è arrivato.
+- Wear sensible shoes; save [sensitive] for the friend who notices every slight.
+  it: Metti scarpe pratiche; tieni «sensibile» per l'amico che nota ogni affronto.
+- His [morbid] curiosity about the crash made the room go quiet.
+  it: La sua curiosità malsana sull'incidente fece fare silenzio alla stanza.
+- She made an [educated] guess based on the figures, not on luck.
+  it: Ha fatto una stima informata basata sulle cifre, non sulla fortuna.
+- He is polite and [well-mannered]; calling him only "educated" would praise the wrong coat.
+  it: È cortese e beneducato; chiamarlo solo «istruito» loderebbe il cappotto sbagliato.
+
+tasks:
+- We queued in the rain and eventually reached the desk. / Taking an umbrella was the sensible choice; she was too sensitive that morning for a joke about floods. / He asked a morbid question about the accident rates, and the table went still. / Her educated guess matched the spreadsheet; the well-mannered intern still held the door.
+  task.it: Scrivi in inglese quattro frasi (o un unico paragrafo breve) che usino correttamente eventually, sensible, morbid ed educated (o educated guess), e almeno una volta un'alternativa chiara per «educato» nel senso di cortese (polite / well-mannered). Confronta col modello.
+  rubric.it: Eventually = alla fine (non «se serve»); sensible = ragionevole/pratico (non «sensibile»); morbid = curiosità malsana/tetro (non ogni emozione); educated = istruito/colto o educated guess; c'è polite o well-mannered per le maniere; l'inglese è naturale.
+
+== 97 C2
+numeral: Lesson Ninety-Seven
+title: The Englishman's guide to Italy
+title.it: Guida dell'inglese all'Italia
+
+dialogue:
+- A Pocket Guide for the English Visitor Who Has Already Packed the Wrong Coat.
+  it: Guida tascabile per il visitatore inglese che ha già messo in valigia il cappotto sbagliato.
+- First rule: Italy is not a museum with a lunch break. It is a country where people live, argue, work, and only occasionally stand still for your photograph.
+  it: Prima regola: l'Italia non è un museo con la pausa pranzo. È un paese dove la gente vive, discute, lavora, e solo di rado sta ferma per la tua fotografia.
+- Second rule: the schedule on your app is a suggestion; the coffee is a law.
+  it: Seconda regola: l'orario sulla tua app è un suggerimento; il caffè è una legge.
+- You will be offered coffee at hours that alarm a British stomach. Accept. Refusal is read as a minor diplomatic incident.
+  it: Ti offriranno caffè a ore che allarmano uno stomaco britannico. Accetta. Il rifiuto è letto come un incidente diplomatico minore.
+- Do not ask for a "proper" queue. There is often an understood order that looks, to English eyes, like weather. Watch the room; join it; do not invent a rope.
+  it: Non chiedere una coda «per bene». C'è spesso un ordine sottinteso che agli occhi inglesi sembra tempo atmosferico. Guarda la stanza; unisciti; non inventare una corda.
+- Gesture is not decoration. A hand in the air may mean "wait," "what," or "I am about to explain the history of this junction." Listen with your eyes.
+  it: Il gesto non è decorazione. Una mano alzata può voler dire «aspetta», «come», o «sto per spiegare la storia di questo incrocio». Ascolta con gli occhi.
+- Loudness is not always anger. Quietness is not always agreement. Calibrate before you apologise for a quarrel that was only punctuation.
+  it: La voce alta non è sempre rabbia. La quiete non è sempre accordo. Tarati prima di scusarti per una lite che era solo punteggiatura.
+- Food will arrive when it arrives. Naming this as "inefficiency" will not speed the kitchen; it will only speed your loneliness at the table.
+  it: Il cibo arriverà quando arriverà. Chiamare questo «inefficienza» non accelererà la cucina; accelererà solo la tua solitudine a tavola.
+- Learn six words beyond "grazie": please, sorry, where, left, closed, tomorrow. "Tomorrow" will be useful more often than your pride admits.
+  it: Impara sei parole oltre «grazie»: per favore, scusa, dove, sinistra, chiuso, domani. «Domani» ti servirà più spesso di quanto ammetta il tuo orgoglio.
+- Churches are not cooling stations with statues. Dress as if someone else's grandmother might be praying, because she might.
+  it: Le chiese non sono stazioni di raffreddamento con statue. Vestiti come se la nonna di qualcun altro potesse stare pregando, perché potrebbe.
+- Trains: trust the board more than the rumour in your carriage; trust a local's shrug more than a timetable tattooed on your phone.
+  it: Treni: fidati del tabellone più della voce in carrozza; fidati dell'alzata di spalle di un locale più di un orario tatuato sul telefono.
+- Bargaining is not a sport in every market, and a smirk is not a price list. If a price is written, it is often written for a reason.
+  it: Il mercanteggiare non è uno sport in ogni mercato, e un sorrisetto non è un listino. Se un prezzo è scritto, spesso è scritto per un motivo.
+- Stereotypes pack light and travel badly. The "passionate Italian" and the "cold Englishman" are costumes hired for postcards; people return them by Tuesday.
+  it: Gli stereotipi viaggiano leggeri e male. L'«italiano passionale» e l'«inglese freddo» sono costumi a noleggio per cartoline; la gente li restituisce entro martedì.
+- You will meet courtesy that looks like delay, and delay that looks like courtesy. Ask which is which before you write the postcard.
+  it: Incontrerai cortesia che sembra ritardo, e ritardo che sembra cortesia. Chiedi quale sia quale prima di scrivere la cartolina.
+- If you are invited home, bring something small, and refuse a second helping as someone who may be persuaded, because you will be.
+  it: Se sei invitato a casa, porta qualcosa di piccolo, e rifiuta la seconda porzione come chi può lasciarsi convincere, perché succederà.
+- Romance is not compulsory scenery. Couples at fountains are not employees of your holiday.
+  it: Il romanticismo non è scenografia obbligatoria. Le coppie alle fontane non sono dipendenti delle tue vacanze.
+- When lost, prefer a baker to a statue. Bakers have opinions about streets; statues only have pigeons.
+  it: Quando sei perso, preferisci un fornaio a una statua. I fornai hanno opinioni sulle strade; le statue hanno solo piccioni.
+- Lucia Bellini, were she writing the margin notes, would add: English visitors eventually learn — in the English sense — that "closed for lunch" is not a personal insult.
+  it: Lucia Bellini, se scrivesse le note a margine, aggiungerebbe: i visitatori inglesi alla fine imparano — nel senso inglese — che «chiuso per pranzo» non è un insulto personale.
+- She would also warn against calling every careful host "sensible" when you mean kind, and against packing only educated guidebooks when what you need is a polite question.
+  it: Avvertirebbe anche di non chiamare «sensible» ogni ospite attento quando intendi gentile, e di non mettere in valigia solo guide «educated» quando ti serve una domanda cortese.
+- Irony for the road: this guide pretends to teach Italy to England; it mostly teaches England to look at itself in an Italian shop window.
+  it: Ironia da viaggio: questa guida finge di insegnare l'Italia all'Inghilterra; insegna soprattutto all'Inghilterra a guardarsi in una vetrina italiana.
+- The wrong coat was never about the weather. It was about arriving sure you already knew the climate of another life.
+  it: Il cappotto sbagliato non riguardava mai il tempo. Riguardava l'arrivare sicuri di conoscere già il clima di un'altra vita.
+- Swap the coat. Keep the curiosity. Leave the rope you invented for the queue.
+  it: Cambia cappotto. Tieni la curiosità. Lascia la corda che hai inventato per la coda.
+- And if a hand talks while a mouth talks, do not call it chaos; call it a second channel, and tune in.
+  it: E se una mano parla mentre parla una bocca, non chiamarlo caos; chiamalo un secondo canale, e sintonizzati.
+- End of pocket guide. Further editions will correct the author's own stereotypes, eventually.
+  it: Fine della guida tascabile. Ulteriori edizioni correggeranno gli stereotipi dell'autore, alla fine.
+- Until then, remember: the traitor in "traduttore, traditore" also travels; a guidebook that flatters the tourist's fears is a translation with the wind left out.
+  it: Fino ad allora, ricorda: il traditore di «traduttore, traditore» viaggia anche lui; una guida che lusinga le paure del turista è una traduzione senza il vento.
+- Now write the other pocket: Italy looking at England, with the same sharp kindness.
+  it: Ora scrivi l'altra tasca: l'Italia che guarda l'Inghilterra, con la stessa gentilezza tagliente.
+
+notes.it:
+1. Pocket Guide... Wrong Coat: titolo inventato; cappotto = metafora (eco 96). Italy is not a museum: tesi anti-cartolina. schedule... suggestion; coffee... law: ironia su priorità.
+2. coffee at hours... diplomatic incident: stereotipo smontato con regola comica. proper queue... weather... invent a rope: contrasto culturale sulle code (eco della coda britannica).
+3. Gesture... second channel: comunicazione. Loudness ≠ anger: calibrazione. Food... inefficiency... loneliness: understatement punitivo verso il turista giudicante.
+4. six words... tomorrow: pragmatismo. Churches... grandmother: rispetto. Trains... board... shrug: consiglio pratico.
+5. Bargaining... smirk... written price: avvertimento anti-stereotipo da mercato. passionate Italian / cold Englishman... costumes... Tuesday: tesi sugli stereotipi.
+6. courtesy that looks like delay: ambiguità. invited home... second helping... may be persuaded: il rifiuto di cortesia che l'ospite italiano non prende alla lettera. Romance... not employees: rifiuto della scenografia.
+7. baker to a statue: consiglio pratico umoristico. Lucia... eventually... closed for lunch: ponte 93+96 (senso EN di eventually). sensible / educated guidebooks / polite question: ponte 96.
+8. Irony... shop window: la guida guarda chi guarda. wrong coat... climate of another life: metafora.
+9. Swap the coat... rope: sintesi. End... author's own stereotypes, eventually: autoironia.
+10. traduttore, traditore... wind left out: ponte 95. other pocket... Italy looking at England: prepara il task.
+
+ex1:
+- The guide's first rule is that Italy is a country where people live, not a museum with a lunch break for your photograph.
+  it: La prima regola della guida è che l'Italia è un paese dove la gente vive, non un museo con pausa pranzo per la tua fotografia.
+- An English "proper" queue may be invisible in a room that still has an understood order; watch before you invent a rope.
+  it: Una coda inglese «per bene» può essere invisibile in una stanza che ha ancora un ordine sottinteso; guarda prima di inventare una corda.
+- Stereotypes such as the "passionate Italian" are costumes hired for postcards; people return them by Tuesday.
+  it: Stereotipi come l'«italiano passionale» sono costumi a noleggio per cartoline; la gente li restituisce entro martedì.
+- The guide uses irony to teach England to see itself in an Italian shop window, not only to list tips.
+  it: La guida usa l'ironia per insegnare all'Inghilterra a vedersi in una vetrina italiana, non solo per elencare consigli.
+- A guidebook that flatters the tourist's fears is a translation with the wind left out.
+  it: Una guida che lusinga le paure del turista è una traduzione senza il vento.
+
+ex2:
+- The schedule on your app is a suggestion; the coffee is a [law].
+  it: L'orario sulla tua app è un suggerimento; il caffè è una legge.
+- Do not invent a [rope] where the room already has an understood order.
+  it: Non inventare una corda dove la stanza ha già un ordine sottinteso.
+- Stereotypes pack light and travel [badly].
+  it: Gli stereotipi viaggiano leggeri e male.
+- This guide mostly teaches England to look at itself in an Italian shop [window].
+  it: Questa guida insegna soprattutto all'Inghilterra a guardarsi in una vetrina italiana.
+- Further editions will correct the author's own stereotypes, [eventually].
+  it: Ulteriori edizioni correggeranno gli stereotipi dell'autore, alla fine.
+
+tasks:
+- A Pocket Note for Italians in England. First: the queue is real; the rope you cannot see is still there — stand behind the last person, not beside the polite silence. Second: "How are you?" is weather, not a medical interview; answer short. Third: understatement means "not bad" may hide a feast or a flood — ask one careful question before you celebrate or panic. Fourth: pubs close earlier than your courage; last orders are not a negotiation. Fifth: bring a coat that admits rain, and a joke that does not need a costume. England is not a museum of queues; it is a country where people apologise while opening the door for you, eventually.
+  task.it: Scrivi in inglese (120-180 parole) la guida tascabile dell'italiano all'Inghilterra: stesso spirito (stereotipo smontato con ironia, consigli concreti, niente insulto pigro). Confronta col modello.
+  rubric.it: C'è ironia nei due sensi, non solo lamentele; almeno tre consigli concreti (coda, small talk, understatement, orari...); il tono è comico e gentile, non sprezzante; non si copia la guida all'Italia frase per frase; l'inglese è naturale.
+
+== 98 C2
+kind: revision
+numeral: Lesson Ninety-Eight
+title: Revision
+title.it: Ripasso
+
+dialogue:
+- Marrowbridge village hall, a Saturday in June: Sam Croft of Marrowbridge marries Chiara Fabbri of Padua.
+  it: Sala del paese di Marrowbridge, un sabato di giugno: Sam Croft di Marrowbridge sposa Chiara Fabbri di Padova.
+  refs: 93
+- Guests arrive by bus and by car; nobody expects foul roads after Candlemas, only a short wait in English rain.
+  it: Gli ospiti arrivano in autobus e in macchina; nessuno si aspetta strade impraticabili dopo la Candelora, solo una breve attesa sotto la pioggia inglese.
+  refs: 93
+- On the wall, in a frame, hangs a Croft family letter of 1600: Edmund to his sister Anne, about Lucia Bellini, niece of a Paduan merchant.
+  it: Al muro, in una cornice, pende una lettera di famiglia Croft del 1600: Edmund alla sorella Anne, su Lucia Bellini, nipote di un mercante padovano.
+  refs: 93
+- Helen Croft, Sam's mother, taps the glass once: "Four hundred years, and still a Croft asking his family's blessing."
+  it: Helen Croft, madre di Sam, batte una volta sul vetro: «Quattrocento anni, e ancora un Croft che chiede la benedizione di famiglia.»
+  refs: 93
+- Before the modern speeches, Sam raises a glass and opens, as a party piece, in the English of that letter.
+  it: Prima dei discorsi moderni, Sam alza un bicchiere e apre, come numero da festa, nell'inglese di quella lettera.
+  refs: 93
+- "Loving friends, I commend me heartily unto you, and I thank you that you have come."
+  it: «Amici cari, mi raccomando di cuore a voi, e vi ringrazio di essere venuti.»
+  refs: 93
+- "Our house keepeth still Edmund's letter unto Anne, and the matter thereof was a match, and a gown against the day."
+  it: «Casa nostra tiene ancora la lettera di Edmund ad Anne, e la faccenda di cui si trattava era un partito, e un abito in vista del giorno.»
+  refs: 93
+- "He saith: 'If thou approve, I shall speak in due form'; and he asketh counsel without varnish."
+  it: «Dice: "Se approvi, parlerò in debita forma"; e chiede consiglio senza vernice.»
+  refs: 93
+- "I modernise the costume and keep the news: Chiara said yes; you came; the day is ours."
+  it: «Modernizzo il costume e tengo la notizia: Chiara ha detto di sì; siete venuti; il giorno è nostro.»
+  refs: 93
+- Paolo Fabbri, Chiara's uncle, translating for relatives from Padua, shows the joins aloud.
+  it: Paolo Fabbri, zio di Chiara, traducendo per i parenti di Padova, mostra i giunti ad alta voce.
+  refs: 95
+- "He kept the thanks and the yes; he dropped the -eth lace; the wind of the toast still gets through."
+  it: «Ha tenuto i ringraziamenti e il sì; ha lasciato cadere il merletto in -eth; il vento del brindisi passa ancora.»
+  refs: 93 95
+- Ruth Vale, a guest, answers a cousin who mixes coats: the bus came eventually — end of the wait, not "if need be."
+  it: Ruth Vale, un'ospite, risponde a un cugino che mischia i cappotti: l'autobus è arrivato alla fine — fine dell'attesa, non «se serve».
+  refs: 96
+- She adds that Chiara's calm plan for the seating was sensible, and that Sam is well-mannered; "educated" she saves for a man who can read a letter of 1600 at all.
+  it: Aggiunge che il piano calmo di Chiara sui posti era pratico, e che Sam è beneducato; «educated» lo tiene per un uomo che sa leggere una lettera del 1600.
+  refs: 96
+- Meg Hartley tries a brand-new blend for the couple — "vowbrunch" — from vow and brunch; it dies by the cake, unmourned.
+  it: Meg Hartley prova una fusione nuovissima per la coppia — «vowbrunch» — da vow e brunch; muore entro la torta, senza lutto.
+  refs: 94
+- Owen Briggs, who packed postcard stereotypes, expected a "passionate" Italian table and a "cold" English one.
+  it: Owen Briggs, che aveva messo in valigia stereotipi da cartolina, si aspettava una tavola italiana «passionale» e una inglese «fredda».
+  refs: 97
+- He finds Chiara dry as good understatement, Sam warm without a costume, and both families returning the hired coats by the coffee urn.
+  it: Trova Chiara asciutta come un buon understatement, Sam caldo senza costume, ed entrambe le famiglie che restituiscono i cappotti a noleggio presso l'urna del caffè.
+  refs: 97
+- Chiara's thank-you rebuilds the wall so the same wind gets through: practical doors named, feeling not instructed.
+  it: Il ringraziamento di Chiara ricostruisce il muro perché ci passi lo stesso vento: porte pratiche nominate, sentimento non istruito.
+  refs: 95
+- "You offered lifts, flowers, a quiet chair for my uncle — and you did not teach us how to feel."
+  it: «Avete offerto passaggi, fiori, una sedia quieta per mio zio — e non ci avete insegnato come sentirci.»
+  refs: 95
+- Outside, rain; inside, history in one sentence: they took bread from the board — Norse they and take beside older English bread and board, under Latinate ceremony.
+  it: Fuori, pioggia; dentro, la storia in una frase: they took bread from the board — un they e un take norreni accanto a bread e board di inglese più vecchio, sotto una cerimonia latineggiante.
+  refs: 92
+- Short verbs carry the feeling; nouns of nation and ceremony still sound like cousins to Italian ears.
+  it: I verbi corti portano il sentimento; i nomi di nazione e cerimonia suonano ancora cugini alle orecchie italiane.
+  refs: 92
+- Caxton would not have known a coffee urn; he would have recognised a workshop still hiring words for a day like this.
+  it: Caxton non avrebbe conosciuto un'urna del caffè; avrebbe riconosciuto un laboratorio che assume ancora parole per un giorno così.
+  refs: 92 94
+- Six tools on the week's whiteboard: river of history, thou and -eth, workshop of new words, honest translation, false-friend pegs, stereotype coats returned by Tuesday.
+  it: Sei attrezzi sulla lavagna della settimana: fiume della storia, thou e -eth, laboratorio delle parole nuove, traduzione onesta, ganci dei falsi amici, cappotti-stereotipo restituiti entro martedì.
+  refs: 92 93 94 95 96 97
+- Sam sits. Chiara pours coffee for English aunts who laugh at the "foreign spice" of Edmund's letter and ask for a second cup without varnish.
+  it: Sam si siede. Chiara versa caffè alle zie inglesi che ridono della «spezia straniera» della lettera di Edmund e chiedono una seconda tazza senza vernice.
+  refs: 93 97
+- The framed ink stays on the wall; the living keep both languages at the table.
+  it: L'inchiostro incorniciato resta al muro; i vivi tengono entrambe le lingue a tavola.
+  refs: 93 95
+- No prize for a neat performance of history — only for showing the joins.
+  it: Nessun premio per una performance ordinata della storia — solo per mostrare i giunti.
+  refs: 95
+
+notes.it:
+Non c'è una regola nuova. La settimana ha messo in ordine l'inglese nel tempo e fra italiano e inglese: storia della lingua, forme del 1600, neologismi, traduzione, falsi amici, stereotipi. Se due attrezzi ti sembrano lo stesso cappotto, guardali in tabella.
+
+1. Storia della lingua (lezione 92). Fiume, strati, 1066, stampa, vocali, mobili germanici e cugini latini.
+
+| Pezzo | Effetto | Lezione |
+|---|---|---|
+| river / hills | prestiti senza scusa | 92 |
+| cows / beef | francese sopra, inglese sotto | 92 |
+| Great Vowel Shift | scritto più vecchio del suono | 92 |
+| short verbs / Latinate nouns | mappa per italiani | 92 |
+| they took... (Norse + OE) | strati in una frase | 92 |
+
+2. Inglese del 1600 (lezione 93). Thou intimo; -eth al presente; modernizzare tiene l'affetto e toglie il costume. Qui vive nella lettera incorniciata e nel brindisi di Sam.
+
+| Forma | Lavoro | Lezione |
+|---|---|---|
+| thou / thee / thy | allocuzione vicina | 93 |
+| hath / doth / keepeth / saith / asketh | presente antico | 93 |
+| unto you / against the day | tessuto formale | 93 |
+| without varnish | consiglio netto | 93 |
+| modernise | stesso amore, meno merletto | 93 |
+
+3. Parole nuove (lezione 94). Laboratorio aperto: composition, blend, clip, convert, borrow; non ogni conio sopravvive.
+
+| Attrezzo | Esempio | Lezione |
+|---|---|---|
+| compound | screenshot | 94 |
+| blend | brunch / smog / vowbrunch | 94 / 98 |
+| clip | app | 94 |
+| convert | to ghost | 94 |
+| dies by the cake | conio morto in festa | 94 / 98 |
+
+4. Traduzione (lezione 95). Mattoni e vento; tu/lei; understatement; nominare la perdita. Paolo mostra i giunti.
+
+| Scelta | Rischio | Lezione |
+|---|---|---|
+| every word kept | tone murdered | 95 |
+| tone smoothed | fact dropped | 95 |
+| show the joins | onestà | 95 |
+| wind through the wall | effetto | 95 |
+
+5. Falsi amici (lezione 96). Cappotti ai ganci giusti; Ruth li appende bene.
+
+| Inglese | Non confondere con | Lezione |
+|---|---|---|
+| eventually | eventualmente (= se serve) | 96 |
+| sensible | sensibile (= sensitive) | 96 |
+| morbid | ogni emozione forte | 96 |
+| educated | educato (= cortese) | 96 |
+
+6. Stereotipi e guide (lezione 97). Costumi da cartolina restituiti; Owen arriva sicuro e se ne va corretto.
+
+| Avviso | Effetto | Lezione |
+|---|---|---|
+| not a museum | paese abitato | 97 |
+| coffee is a law | priorità comica | 97 |
+| passionate / cold costumes | stereotipo scaricato | 97 |
+| costumes by Tuesday | restituzione | 97 |
+| shop window | ironia di ritorno | 97 |
+
+In ordine: senti gli strati nella frase, inchinati col thou e rialzati in inglese di oggi, guarda quale attrezzo ha fatto nascere la parola nuova, mostra i giunti della traduzione, appendi i cappotti giusti, e restituisci lo stereotipo prima del caffè. Il fiume continua; la tavola ha due lingue.
+
+tasks:
+- On Saturday the rain stayed polite. Sam thanked the guests in the old way — unto you, Edmund's letter, counsel without varnish, a gown against the day — then said simply that Chiara had said yes. Paolo told the relatives from Padua what had been kept and what lace had fallen away. Someone invented "vowbrunch"; it did not survive the cake. Ruth put eventually, sensible and well-mannered on the right pegs. Owen came expecting postcard heat and frost, and found two families without the hired coats. Chiara thanked them for lifts and quiet chairs, not for lessons in feeling. The framed letter stayed on the wall; two languages stayed at the table; the joins showed.
+  task.it: Traduci in inglese questa breve storia italiana del giorno (circa 90-130 parole; stesso senso; tono sobrio da Padronanza). Poi confronta col modello e nota un giunto. Storia: «Sabato la pioggia è restata educata. Sam ha ringraziato gli ospiti alla maniera antica — unto you, la lettera di Edmund, il consiglio senza vernice, un abito against the day — poi ha detto soltanto che Chiara aveva detto di sì. Paolo ha detto ai parenti di Padova che cosa era restato e quale merletto era caduto. Qualcuno ha inventato "vowbrunch"; non è sopravvissuto alla torta. Ruth ha messo eventually, sensible e well-mannered ai ganci giusti. Owen è arrivato aspettandosi caldo e gelo da cartolina, e ha trovato due famiglie senza i cappotti a noleggio. Chiara li ha ringraziati per i passaggi e le sedie quiete, non per lezioni sul sentimento. La lettera incorniciata è restata al muro; due lingue sono restate a tavola; i giunti si vedevano.»
+  rubric.it: I fatti ci sono (pioggia, brindisi antico di Sam, Paolo, vowbrunch, Ruth, Owen, ringraziamento di Chiara, lettera al muro, due lingue); il tono non è melodrammatico; eventually e i pezzi da 1600 sono gestiti senza pasticciare i falsi amici; l'inglese è naturale; sai indicare almeno un giunto (cosa tenuta / cosa lasciata).

@@ -2009,3 +2009,748 @@ tasks:
 - Dear Mr Patel, I am writing to apply for the Senior Analyst post advertised on your website. For five years I have led client work in the Midlands, mentored juniors, and handed over files in good order when projects closed. I know less about retail data than about public-sector work, and I would expect to spend my first months learning it. I read a room before I Reply All, I prefer evidence to slogans, and I can translate a managed reduction into plain English when the Board needs it. I would welcome a conversation. Yours sincerely, Daniel Hart.
   task.it: Scrivi una cover letter (lettera di candidatura) in inglese, intorno alle 120-150 parole, per un posto a Northbridge Analytics o in un'azienda simile. Registro formale britannico (Dear..., Yours sincerely). Mostra, senza copiare le lezioni a memoria, che sai tono, chiarezza e tatto: una prova di competenza, un limite ammesso con onestà, una chiusura netta.
   rubric.it: Struttura da lettera (apertura, perché tu, cosa offri, chiusura); registro formale coerente; niente softer/managed reduction usati per vantarsi senza ironia consapevole; l'inglese è naturale; si sente una persona, non un elenco di soft skill.
+
+== 43 C2
+numeral: Lesson Forty-Three
+title: Do cats prefer Mozart?
+title.it: I gatti preferiscono Mozart?
+
+dialogue:
+- Abstract. Feline auditory preference under controlled exposure to tonal music: a pilot study.
+  it: Abstract. Preferenza uditiva felina sotto esposizione controllata a musica tonale: uno studio pilota.
+- Background. The question whether domestic cats show differential behavioural responses to contrasting auditory stimuli remains incompletely resolved.
+  it: Contesto. La questione se i gatti domestici mostrino risposte comportamentali differenziate a stimoli uditivi contrastanti resta incompletamente risolta.
+- Previous work has suggested that species-specific vocalisations may elicit stronger orienting responses than human music, though sample sizes have often been small.
+  it: Lavori precedenti hanno suggerito che le vocalizzazioni specie-specifiche possano suscitare risposte di orientamento più forti della musica umana, sebbene le dimensioni del campione siano spesso state piccole.
+- Methods. Twelve household cats (seven female, five male; mean age 4.2 years) were exposed, in their own homes, to three five-minute conditions in randomised order: a Mozart piano sonata, a scrambled version of the same recording, and silence.
+  it: Metodi. Dodici gatti domestici (sette femmine, cinque maschi; età media 4,2 anni) furono esposti, nelle proprie case, a tre condizioni di cinque minuti in ordine randomizzato: una sonata per pianoforte di Mozart, una versione rimescolata della stessa registrazione, e il silenzio.
+- Owners remained in an adjacent room and were asked not to cue the animals during playback.
+  it: I proprietari restarono in una stanza adiacente e fu chiesto loro di non dare segnali agli animali durante la riproduzione.
+- Behaviour was coded by two independent observers for approach to the loudspeaker, time spent within one metre of it, and ear orientation toward the source.
+  it: Il comportamento fu codificato da due osservatori indipendenti per avvicinamento all'altoparlante, tempo trascorso entro un metro da esso, e orientamento delle orecchie verso la fonte.
+- Inter-observer agreement was high for approach and proximity; ear orientation showed more disagreement and was therefore treated as exploratory.
+  it: L'accordo tra osservatori fu alto per avvicinamento e prossimità; l'orientamento delle orecchie mostrò più disaccordo e fu quindi trattato come esplorativo.
+- Results. Mean approach latency was shorter under the Mozart condition than under silence (difference: 12 seconds; 95% CI −3 to 27), though the interval included zero.
+  it: Risultati. La latenza media di avvicinamento fu più breve nella condizione Mozart che nel silenzio (differenza: 12 secondi; IC al 95% da −3 a 27), sebbene l'intervallo includesse lo zero.
+- Time spent near the loudspeaker did not differ significantly across conditions after correction for multiple comparisons.
+  it: Il tempo trascorso vicino all'altoparlante non differì in modo significativo tra le condizioni dopo la correzione per confronti multipli.
+- Ear orientation toward the source was observed more frequently during the Mozart excerpts than during the scrambled control in eight of the twelve animals; four showed no clear pattern.
+  it: L'orientamento delle orecchie verso la fonte fu osservato più di frequente durante gli estratti di Mozart che durante il controllo rimescolato in otto dei dodici animali; quattro non mostrarono uno schema chiaro.
+- No adverse events were recorded; one cat left the room during the scrambled condition and returned when silence resumed.
+  it: Non furono registrati eventi avversi; un gatto lasciò la stanza durante la condizione rimescolata e tornò quando riprese il silenzio.
+- Conclusions. These findings are consistent with a modest preferential response to structured tonal music in a subset of the sample, and should be interpreted with caution given the wide confidence intervals and the familiarity of the home setting.
+  it: Conclusioni. Questi risultati sono compatibili con una modesta risposta preferenziale alla musica tonale strutturata in un sottoinsieme del campione, e vanno interpretati con cautela dati gli ampi intervalli di confidenza e la familiarità dell'ambiente domestico.
+- Further research with larger samples and species-specific auditory controls would be required before any claim of aesthetic preference could be sustained.
+  it: Ulteriori ricerche con campioni più ampi e controlli uditivi specie-specifici sarebbero necessarie prima che si possa sostenere una qualsiasi affermazione di preferenza estetica.
+- Keywords: Felis catus; auditory preference; Mozart; hedging in practice.
+  it: Parole chiave: Felis catus; preferenza uditiva; Mozart; hedging in pratica.
+- Newspaper version. Cats Love Mozart, Scientists Confirm.
+  it: Versione da giornale. I gatti amano Mozart, confermano gli scienziati.
+- A groundbreaking British study has proved that cats prefer classical music, and specifically the works of Wolfgang Amadeus Mozart, to silence and to noise.
+  it: Uno studio britannico rivoluzionario ha dimostrato che i gatti preferiscono la musica classica, e in particolare le opere di Wolfgang Amadeus Mozart, al silenzio e al rumore.
+- Researchers played piano sonatas to a dozen pets and found that the animals rushed to the speakers, ears pricked, as soon as Mozart began.
+  it: I ricercatori fecero ascoltare sonate per pianoforte a una dozzina di animali domestici e scoprirono che gli animali si precipitavano agli altoparlanti, orecchie tese, non appena Mozart cominciava.
+- "It is clear that cats have an ear for genius," said a source close to the project, who asked not to be named because the abstract had not yet been peer-reviewed.
+  it: «È chiaro che i gatti hanno orecchio per il genio», ha detto una fonte vicina al progetto, che ha chiesto di non essere nominata perché l'abstract non era ancora stato sottoposto a revisione tra pari.
+- Pet owners are now being urged to replace radio chatter with classical playlists, and one retailer has already announced a "Mozart for Moggy" range of wireless speakers.
+  it: Si esorta ora i proprietari di animali a sostituire le chiacchiere della radio con playlist classiche, e un rivenditore ha già annunciato una linea di altoparlanti wireless «Mozart for Moggy».
+- Shelter managers interviewed for the piece said they would trial the sonatas "as early as next week," pending delivery of the speakers.
+  it: I responsabili di rifugi intervistati per il pezzo dissero che avrebbero provato le sonate «già dalla settimana prossima», in attesa della consegna degli altoparlanti.
+- Experts say the findings could transform the way shelters calm anxious animals, and may even explain why so many cats sit on laptops during video calls: they are waiting for the overture.
+  it: Gli esperti dicono che i risultati potrebbero trasformare il modo in cui i rifugi calmano gli animali ansiosi, e potrebbero addirittura spiegare perché tanti gatti si siedono sui laptop durante le videochiamate: aspettano l'ouverture.
+- The study's principal investigator, reading the headline over coffee, was observed to close the laptop, open the abstract again, and underline every hedge she had written.
+  it: La responsabile principale dello studio, leggendo il titolo a colazione, fu osservata chiudere il laptop, riaprire l'abstract, e sottolineare ogni formula cautelativa che aveva scritto.
+- Suggests, may, modest, subset, caution, would be required: six words the newspaper had declined to print.
+  it: Suggests, may, modest, subset, caution, would be required: sei parole che il giornale si era rifiutato di stampare.
+- Her own cat, during the original sessions, had spent four of the five Mozart minutes behind the sofa, and the fifth asleep on the scrambled track.
+  it: Il suo gatto, durante le sessioni originali, aveva passato quattro dei cinque minuti di Mozart dietro il divano, e il quinto addormentato sulla traccia rimescolata.
+- She filed a correction request; the newspaper printed it on page eighteen, under a photograph of a kitten in a powdered wig.
+  it: Inviò una richiesta di rettifica; il giornale la stampò a pagina diciotto, sotto la fotografia di un gattino in parrucca impolverata.
+- The abstract remains available; the playlist does not.
+  it: L'abstract resta disponibile; la playlist no.
+
+notes.it:
+1. Abstract. Feline auditory preference... pilot study: titolo da abstract scientifico. Abstract è il riassunto strutturato (background, methods, results, conclusions). Feline: felino, registro tecnico. Under controlled exposure: nominalizzazione (esposizione controllata), non «mentre ascoltavano». Pilot study: studio pilota, piccolo e preliminare. Il titolo fa una domanda; l'abstract non la chiude.
+2. remains incompletely resolved: hedge tipico: non «non sappiamo», ma «non è ancora del tutto risolto». Differential behavioural responses: risposte comportamentali differenziate, lingua da paper. Contrasting auditory stimuli: stimoli uditivi contrastanti. L'italiano di laboratorio calca le stesse forme; in prosa comune si direbbe «se i gatti reagiscono in modo diverso a suoni diversi».
+3. Previous work has suggested... may elicit... though sample sizes have often been small: suggested e may sono hedge di evidenza (lezione 36, softer e approximately nello stesso spirito). Though... small: limita subito la forza del precedente. Species-specific vocalisations: vocalizzazioni della specie (miagolii, ecc.), non «versi».
+4. were exposed... randomised order: passivo da metodi. Conditions: condizioni sperimentali. Scrambled: rimescolato, controllo che spezza la struttura tonale. Silence: silenzio come terza condizione. Household cats... in their own homes: campione piccolo, setting familiare (poi userà caution).
+5. Owners remained... not to cue the animals: cue = dare segnali (sguardi, nomi). Adjacent room: riduce l'effetto del padrone. Behaviour was coded by two independent observers: coded = classificata secondo criteri. Approach, proximity, ear orientation: tre misure; ear orientation è nominalizzazione di «giravano le orecchie».
+6. Inter-observer agreement... treated as exploratory: se gli osservatori non coincidono, la misura resta esplorativa, non primaria. Altro freno tipico da abstract.
+7. shorter... though the interval included zero: il cuore dell'hedging statistico. 95% CI: intervallo di confidenza al 95%. Se include zero, la differenza non è «significativa» nel senso classico; shorter resta descrittivo. Difference: 12 seconds: cifra concreta sotto il cappotto.
+8. did not differ significantly... after correction for multiple comparisons: significantly qui è tecnico (soglia statistica), non «molto». Correction for multiple comparisons: se testi tante cose, alzi l'asticella. Eight of the twelve... no clear pattern: conteggio onesto; subset già in scena. No adverse events... left the room: dettaglio da metodi che il giornale non userà.
+9. consistent with a modest preferential response... subset... interpreted with caution... wide confidence intervals: catena di hedge. «Consistent with» non equivale a «proves». Modest, subset, caution: tre freni. Familiarity of the home setting: il salotto non è un laboratorio. Would be required before any claim... could be sustained: condizionale su condizionale; aesthetic preference è la parola grossa che l'abstract rifiuta.
+10. Keywords... hedging in practice: ultima keyword ironica: il pezzo dichiara il tema della lezione. Felis catus: nome scientifico del gatto domestico.
+11. Cats Love Mozart, Scientists Confirm: titolo da tabloid. Love e Confirm cancellano suggested e may. Groundbreaking... has proved: proved è il verbo che l'abstract non usa. Prefer... to silence and to noise: noise riduce scrambled a «rumore», più vendibile.
+12. rushed... as soon as Mozart began: rushed traduce approach latency in corsa. Source close to the project... peer-reviewed: la fonte non nominata e la revisione tra pari non fatta; il giornale parla comunque. Ear for genius: gioco su ear (orecchio) e gusto.
+13. urged to replace... Mozart for Moggy: moggy è gatto comune, britannico e affettuoso. Shelter managers... as early as next week: la cronaca inventa una scadenza. Experts say... may even explain: experts senza nomi; may even porta l'ipotesi alle videochiamate. Waiting for the overture: punchline falsa ma stampabile.
+14. was observed to close the laptop... underline every hedge: la responsabile rilegge il proprio abstract come antidoto. Suggests, may, modest, subset, caution, would be required: sei formule; nell'abstract compaiono suggested, may, modest, subset, caution, would be required. Declined to print: il giornale ha scelto di non stamparle.
+15. Her own cat... behind the sofa... asleep on the scrambled track: il dato che non vende. Correction... page eighteen... kitten in a powdered wig: la rettifica esiste, ma sotto una foto ridicola. Abstract remains; the playlist does not: resta il testo cauto; la merce no.
+
+ex1:
+- The pilot study asked whether domestic cats show differential responses to contrasting auditory stimuli; the question remained incompletely resolved.
+  it: Lo studio pilota chiedeva se i gatti domestici mostrino risposte differenziate a stimoli uditivi contrastanti; la questione restava incompletamente risolta.
+- Mean approach latency looked shorter under Mozart than under silence, yet the ninety-five per cent confidence interval included zero.
+  it: La latenza media di avvicinamento sembrava più breve con Mozart che col silenzio, eppure l'intervallo di confidenza al novantacinque per cento includeva lo zero.
+- Time near the loudspeaker did not differ significantly across conditions after correction for multiple comparisons.
+  it: Il tempo vicino all'altoparlante non differì in modo significativo tra le condizioni dopo la correzione per confronti multipli.
+- The conclusions spoke only of a modest preferential response in a subset of the sample, to be read with caution given wide intervals and a familiar home setting.
+  it: Le conclusioni parlavano soltanto di una modesta risposta preferenziale in un sottoinsieme del campione, da leggere con cautela dati gli ampi intervalli e un ambiente domestico familiare.
+- The newspaper wrote "Scientists Confirm"; the investigator underlined suggests, may, modest, subset, caution, and would be required.
+  it: Il giornale scrisse «Scientists Confirm»; la ricercatrice sottolineò suggests, may, modest, subset, caution e would be required.
+
+ex2:
+- Previous work has [suggested] that species-specific vocalisations may elicit stronger responses than human music.
+  it: Lavori precedenti hanno suggerito che le vocalizzazioni specie-specifiche possano suscitare risposte più forti della musica umana.
+- These findings are [consistent] with a modest preferential response in a subset of the sample.
+  it: Questi risultati sono compatibili con una modesta risposta preferenziale in un sottoinsieme del campione.
+- Further research would be [required] before any claim of aesthetic preference could be sustained.
+  it: Ulteriori ricerche sarebbero necessarie prima che si possa sostenere una qualsiasi affermazione di preferenza estetica.
+- A groundbreaking study has [proved] that cats prefer Mozart, according to the newspaper.
+  it: Uno studio rivoluzionario ha dimostrato che i gatti preferiscono Mozart, secondo il giornale.
+- The principal investigator was observed to underline every [hedge] she had written.
+  it: La responsabile principale fu osservata sottolineare ogni formula cautelativa che aveva scritto.
+
+tasks:
+- Background. Whether office plants grow faster beside a window than under strip lighting remains incompletely resolved. Methods. Eighteen spider plants were assigned at random to a south-facing sill or to a windowless corridor for eight weeks; leaf length and new shoots were recorded weekly by two observers. Results. Mean growth was greater on the sill (difference: 3.1 cm; 95% CI 0.4 to 5.8). New shoots did not differ significantly after correction for multiple comparisons. Conclusions. Findings are consistent with a modest advantage for natural light in this sample and should be interpreted with caution given the single building and the short period. Further work with more sites would be required before workplace guidance could be sustained.
+  task.it: Scrivi l'abstract (in inglese) di uno studio immaginario, intorno alle 120-150 parole, con le sezioni Background, Methods, Results, Conclusions. Usa almeno quattro hedge o limiti (suggested/may/consistent with/modest/caution/would be required, o equivalenti). Niente titoli da giornale. Tema libero, purché plausibile.
+  rubric.it: Ci sono le quattro sezioni e un risultato con un limite onesto; il registro è da abstract, non da tabloid; gli hedge non sono decorazione ma frenano una claim; l'inglese è naturale e coerente; un lettore capirebbe cosa è stato fatto e cosa non si può ancora dire.
+
+== 44 C2
+numeral: Lesson Forty-Four
+title: A lecture on bees
+title.it: Una lezione sulle api
+
+dialogue:
+- Good evening. Thank you for coming out on a wet Tuesday; the bees, I should say at once, stayed at home.
+  it: Buonasera. Grazie di essere venuti in un martedì bagnato; le api, lo dico subito, sono restate a casa.
+- My name is Dr Helen Park, and for the next twenty minutes I want to do one job only: explain how a honeybee tells the others where the food is.
+  it: Mi chiamo dott.ssa Helen Park, e per i prossimi venti minuti voglio fare una sola cosa: spiegare come un'ape mellifera dice alle altre dove sta il cibo.
+- Not the poetry of the hive, not the politics of sugar, and not, if I can help it, the Latin names you will forget before the bus.
+  it: Non la poesia dell'alveare, non la politica dello zucchero, e non, se riesco, i nomi latini che dimenticherete prima dell'autobus.
+- Think of a forager returning with nectar on a warm afternoon.
+  it: Immaginate una bottinatrice che torna col nettare in un pomeriggio caldo.
+- She does not hand round a map. She dances.
+  it: Non distribuisce una mappa. Balla.
+- The dance happens on the vertical comb, in the dark, among sisters who cannot see the sun from where they stand.
+  it: La danza avviene sul favo verticale, al buio, fra sorelle che non vedono il sole da dove stanno.
+- Yet the information gets through, and that is the puzzle I want to unpack.
+  it: Eppure l'informazione passa, ed è questo l'enigma che voglio scomporre.
+- First, the shape. If the food is close, within roughly fifty to a hundred metres, she performs a round dance: she circles, then reverses, and the others catch the scent on her body and search nearby.
+  it: Prima, la forma. Se il cibo è vicino, entro circa cinquanta-cento metri, esegue una danza circolare: gira, poi inverte, e le altre prendono l'odore sul suo corpo e cercano nei dintorni.
+- Distance, in that case, is "near"; direction is left to smell and to short flights.
+  it: La distanza, in quel caso, è «vicino»; la direzione è lasciata all'odore e a voli brevi.
+- When the patch is farther away, the dance changes. She runs a straight waggling stretch, then loops left, then waggling again, then loops right: a figure of eight, repeated.
+  it: Quando la macchia è più lontana, la danza cambia. Corre un tratto diritto scuotendo l'addome, poi fa un anello a sinistra, di nuovo lo scuotimento, poi un anello a destra: un otto, ripetuto.
+- That waggling run is the heart of it. Its length and the time she spends waggling encode distance: longer waggle, farther forage.
+  it: Quel tratto scuotendo è il cuore. La sua lunghezza e il tempo passato a scuotere codificano la distanza: più lungo lo scuotimento, più lontano il bottino.
+- Direction is coded against gravity. Straight up the comb means "fly towards the sun"; a run sixty degrees to the left of vertical means "fly sixty degrees left of the sun's azimuth."
+  it: La direzione è codificata rispetto alla gravità. Dritto verso l'alto sul favo significa «vola verso il sole»; una corsa a sessanta gradi a sinistra della verticale significa «vola a sessanta gradi a sinistra dell'azimut del sole».
+- The hive is dark; gravity stands in for the sun. That substitution is the clever bit, and it is also why a lecture needs a diagram, which I have forgotten to plug in.
+  it: L'alveare è buio; la gravità fa le veci del sole. Quella sostituzione è il pezzo intelligente, ed è anche perché una lezione ha bisogno di un diagramma, che ho dimenticato di collegare.
+- Never mind: you have arms. Point up for the sun; tilt for the angle; walk a small eight on the carpet if the stewards allow it.
+  it: Non importa: avete le braccia. Indicate in alto per il sole; inclinate per l'angolo; fate un piccolo otto sul tappeto se gli steward lo permettono.
+- The followers touch her with their antennae, taste what she carries, and leave the hive on a bearing that, on average, finds the patch.
+  it: Le seguaci la toccano con le antenne, assaggiano ciò che porta, e lasciano l'alveare su una rotta che, in media, trova la macchia.
+- On average is doing honest work there. Bees are not GPS. They miss, they correct, they use landmarks and smell when they get close.
+  it: «In media» lì fa un lavoro onesto. Le api non sono un GPS. Sbagliano, correggono, usano punti di riferimento e odore quando si avvicinano.
+- Temperature, wind, and how recently the sun has moved also nudge the dance; the code is stable enough to use and flexible enough to live in weather.
+  it: Temperatura, vento, e quanto di recente il sole si è spostato danno anche una spinta alla danza; il codice è abbastanza stabile da usarlo e abbastanza flessibile da vivere col tempo atmosferico.
+- Why explain it this way, step by step, instead of saying "bees dance to communicate"?
+  it: Perché spiegarlo così, passo dopo passo, invece di dire «le api ballano per comunicare»?
+- Because the short sentence is true and empty. The long one lets you see the job each part does: shape for near or far, waggle for distance, angle for direction, followers for the copy.
+  it: Perché la frase corta è vera e vuota. Quella lunga ti fa vedere il lavoro di ogni pezzo: forma per vicino o lontano, scuotimento per la distanza, angolo per la direzione, seguaci per la copia.
+- If you can retell the process without my adjectives, you have understood it; if you can only quote the poetry, you have enjoyed it, which is different.
+  it: Se sapete raccontare di nuovo il processo senza i miei aggettivi, l'avete capito; se sapete soltanto citare la poesia, vi è piaciuto, che è un'altra cosa.
+- Two cautions before I stop. First, this is the western honeybee; other bees have other habits, and not every dance researcher agrees on every number.
+  it: Due cautele prima di fermarmi. Prima, questa è l'ape mellifera occidentale; altre api hanno altre abitudini, e non ogni ricercatore della danza è d'accordo su ogni numero.
+- Second, popular talks like this one compress decades of observation into a tidy story; the tidy story is a map, not the territory.
+  it: Seconda, chiacchiere divulgative come questa comprimono decenni di osservazione in una storia ordinata; la storia ordinata è una mappa, non il territorio.
+- You may now ask anything except whether I keep bees. I keep a bicycle and a guilty conscience about the neighbour's hive, which stands by our shared fence and votes in our garden.
+  it: Ora potete chiedere qualsiasi cosa tranne se tengo api. Tengo una bicicletta e una cattiva coscienza sull'alveare del vicino, che sta accanto alla recinzione comune e vota nel nostro giardino.
+- The wet Tuesday, for the record, was excellent for human attendance and useless for foraging; the dancers, had there been any, would have stayed on the comb.
+  it: Il martedì bagnato, per la cronaca, fu ottimo per l'affluenza umana e inutile per il bottinare; le danzatrici, se ce ne fossero state, sarebbero restate sul favo.
+- Are there any questions that do not begin with "so, basically"?
+  it: Ci sono domande che non comincino con «quindi, in pratica»?
+- Yes, at the back: the diagram is still unplugged, and that, I am afraid, is also part of how knowledge travels.
+  it: Sì, in fondo: il diagramma è ancora staccato, e anche quello, temo, fa parte di come viaggia la conoscenza.
+
+notes.it:
+1. Good evening... wet Tuesday; the bees... stayed at home: apertura da lecture divulgativa, parlata. I should say at once: segnale di chiarezza. Battuta subito: pubblico presente, api assenti per la pioggia. Registro orale preparato, non abstract.
+2. one job only: explain how...: annuncio del compito (signposting). Honeybee: ape mellifera. For the next twenty minutes: contratto col pubblico. Dr Helen Park: titolo britannico; in italiano dott.ssa.
+3. Not the poetry... not the politics... not... Latin names... before the bus: triade di rifiuti. Delimita l'argomento. Before the bus: l'attenzione scade sulla via del ritorno. Il tono è l'umorismo gentile di chi sta in cattedra.
+4. forager... nectar: bottinatrice, nettare. She does not hand round a map. She dances: due frasi corte dopo una lunga; ritmo da spiegazione. Hand round: far circolare.
+5. vertical comb... in the dark: favo verticale, buio. Sisters: sorelle operaie. Puzzle I want to unpack: unpack = scomporre, verbo da popular science. Yet the information gets through: enunciato del problema.
+6. First, the shape... round dance... fifty to a hundred metres: First = segnale di struttura. Roughly: hedge da parlato onesto (lezione 43). Circles, then reverses: processo in verbi. Scent on her body: odore come informazione parallela.
+7. When the patch is farther... waggling stretch... figure of eight: patch = macchia di fiori. Waggling: scuotimento dell'addome (waggle dance). Encode distance: encode è verbo da spiegazione tecnica detta chiara. Longer waggle, farther forage: parallelismo corto.
+8. Direction is coded against gravity... Straight up... towards the sun... azimuth: sostituzione gravità/sole. Azimuth: azimut, direzione solare sull'orizzonte. The clever bit: registro parlato. Forgotten to plug in: battuta sul diagramma mancante; la spiegazione deve reggersi senza di esso.
+9. Never mind: you have arms... stewards: coinvolge il pubblico. On average is doing honest work: metalinguaggio: on average ammette errore (come caution nell'abstract, lezione 43). Bees are not GPS: analogia che limita. Landmarks: punti di riferimento.
+10. Temperature, wind... nudge the dance: nudge = dare una spinta lieve. Stable enough... flexible enough: bilanciamento. Why explain it this way... short sentence is true and empty: tesi della lezione su spiegare. Job each part does: funzione per pezzo.
+11. retell the process without my adjectives... quote the poetry: criterio di comprensione vs gusto. Two cautions: di nuovo hedge e limiti (western honeybee; not every... agrees). Compress... tidy story... map, not the territory: avviso sul popular science.
+12. anything except whether I keep bees... neighbour's hive... votes in our garden: chiusura comica; votes personifica le api sul confine. Wet Tuesday... useless for foraging: richiama l'apertura. Questions that do not begin with "so, basically": rifiuta la riduzione vuota. Diagram still unplugged... how knowledge travels: ultima punta: anche la divulgazione perde pezzi.
+
+ex1:
+- The lecturer set one job only: to explain how a honeybee tells the others where the food is, not the poetry of the hive.
+  it: La docente si diede un solo compito: spiegare come un'ape mellifera dice alle altre dove sta il cibo, non la poesia dell'alveare.
+- Close forage brings a round dance; farther patches bring a figure-of-eight with a waggling run whose length encodes distance.
+  it: Il bottino vicino porta una danza circolare; le macchie più lontane portano un otto con un tratto di scuotimento la cui lunghezza codifica la distanza.
+- Direction is coded against gravity: straight up means towards the sun, and a tilt means the same angle from the sun's azimuth.
+  it: La direzione è codificata rispetto alla gravità: dritto in alto significa verso il sole, e un'inclinazione significa lo stesso angolo dall'azimut del sole.
+- "On average" did honest work: bees miss, correct, and use landmarks and smell when they get close.
+  it: «In media» faceva un lavoro onesto: le api sbagliano, correggono, e usano punti di riferimento e odore quando si avvicinano.
+- She kept a bicycle and a guilty conscience about the neighbour's hive, which stood by the shared fence and voted in the garden.
+  it: Teneva una bicicletta e una cattiva coscienza sull'alveare del vicino, che stava accanto alla recinzione comune e votava nel giardino.
+
+ex2:
+- If the food is close, she performs a [round] dance: she circles, then reverses.
+  it: Se il cibo è vicino, esegue una danza circolare: gira, poi inverte.
+- The length of the waggling run and the time she spends waggling [encode] distance.
+  it: La lunghezza del tratto di scuotimento e il tempo passato a scuotere codificano la distanza.
+- Straight up the comb means "fly towards the [sun]".
+  it: Dritto verso l'alto sul favo significa «vola verso il sole».
+- The short sentence is true and [empty]; the long one shows what each part does.
+  it: La frase corta è vera e vuota; quella lunga mostra che cosa fa ogni pezzo.
+- Popular talks compress decades of observation into a tidy story; the story is a [map], not the territory.
+  it: Le chiacchiere divulgative comprimono decenni di osservazione in una storia ordinata; la storia è una mappa, non il territorio.
+
+tasks:
+- First you rinse the pot with hot water so the leaves do not meet a cold shock. Then you add roughly one spoon of leaves per cup, pour water just off the boil, and wait three to four minutes. You strain into the cup; you do not squeeze the leaves if you want bitterness to stay in the pot. Milk goes in after, if you take milk, and sugar only if you mean it. On average the cup is drinkable; on a wet Tuesday it may still go cold while you explain the method to guests.
+  task.it: Spiega in inglese, intorno alle 100-130 parole, un processo che conosci bene (fare il tè, montare una tenda, preparare la pasta, ecc.). Registro da spiegazione chiara, come la lecture: segnali di ordine (first, then), almeno un limite onesto («roughly», «on average», «if»), niente poesia al posto dei passi. Chiudi con una riga di tono umano.
+  rubric.it: I passi bastano a rifare il processo; l'ordine è chiaro; c'è almeno un hedge o limite; il registro è parlato-chiaro, non abstract né tabloid; si sente una voce, non un manuale senza persona.
+
+== 45 C2
+numeral: Lesson Forty-Five
+title: On footnotes
+title.it: Sulle note a piè di pagina
+
+dialogue:
+- The footnote is the only servant in academic prose that is allowed to contradict its master in public, provided it does so in a smaller font.
+  it: La nota a piè di pagina è l'unico servo nella prosa accademica a cui sia permesso contraddire il padrone in pubblico, purché lo faccia in un carattere più piccolo.
+- I shall argue that footnotes do three jobs at once: they house evidence, they park digressions, and they stage the writer's honesty about what is not yet known.
+  it: Sosterrò che le note fanno tre lavori insieme: ospitano le prove, parcheggiano le digressioni, e mettono in scena l'onestà di chi scrive su ciò che non si sa ancora.
+- The main text, by contrast, must look as if it knew where it was going; the footnote is where the map shows the swamp.(1)
+  it: Il testo principale, invece, deve sembrare di sapere dove sta andando; la nota è dove la mappa mostra la palude.(1)
+- Historians of the book remind us that printed marginal notes and footnotes multiplied with early modern scholarship, when claims began to travel farther than the scholar who made them.(2)
+  it: Gli storici del libro ci ricordano che note a margine e note a piè di pagina si moltiplicarono con l'erudizione della prima età moderna, quando le affermazioni cominciarono a viaggiare più lontano dello studioso che le aveva fatte.(2)
+- A citation in a note is not decoration. It is an invitation to check, and therefore a risk: the reader may accept, refuse, or, worse, follow the reference and find it wanting.(3)
+  it: Una citazione in nota non è decorazione. È un invito a verificare, e quindi un rischio: il lettore può accettare, rifiutare o, peggio, seguire il riferimento e trovarlo carente.(3)
+- Digression is the second job. The sentence upstairs keeps its dignity; downstairs, one may admit that the archive smelled of damp and that the clerk was at lunch for two hours.(4)
+  it: La digressione è il secondo lavoro. La frase di sopra tiene la dignità; di sotto, si può ammettere che l'archivio odorava di umido e che l'impiegato era a pranzo da due ore.(4)
+- Without that cellar, academic prose either pretends that research is clean or smuggles anecdote into the argument until the argument trips.
+  it: Senza quella cantina, la prosa accademica o finge che la ricerca sia pulita, o fa passare di nascosto l'aneddoto nell'argomento finché l'argomento inciampa.
+- The third job is the most uncomfortable: the footnote as confession. "I have not seen the manuscript." "The figure is disputed." "This reading is provisional."(5)
+  it: Il terzo lavoro è il più scomodo: la nota come confessione. «Non ho visto il manoscritto.» «La cifra è contestata.» «Questa lettura è provvisoria.»(5)
+- Such sentences, placed below the line, protect the claim above from false certainty without forcing the writer to abandon the claim altogether.
+  it: Frasi così, messe sotto la riga, proteggono l'affermazione di sopra dalla falsa certezza senza costringere chi scrive ad abbandonare del tutto l'affermazione.
+- Critics of footnotes say they interrupt, that they are elitist, that an honest sentence should carry its own proof.
+  it: I critici delle note dicono che interrompono, che sono elitarie, che una frase onesta dovrebbe portare con sé la propria prova.
+- They have a point about interruption. They are wrong about honesty. An honest sentence often needs a place to put the doubt without performing the doubt as theatre in every line.
+  it: Hanno ragione sull'interruzione. Hanno torto sull'onestà. Una frase onesta spesso ha bisogno di un posto dove mettere il dubbio senza recitare il dubbio come teatro in ogni riga.
+- The opposite vice is the footnote as warehouse: fifty references where three would do, piled so that quantity stands in for judgement.(6)
+  it: Il vizio opposto è la nota come magazzino: cinquanta riferimenti dove ne basterebbero tre, ammassati perché la quantità stia al posto del giudizio.(6)
+- Judgement, in academic style, is knowing which three, and saying why the others wait in the bibliography.
+  it: Il giudizio, nello stile accademico, è sapere quali tre, e dire perché gli altri aspettano in bibliografia.
+- I close with a practical rule. If the note is longer than the paragraph it supports, ask whether you are writing an essay or hiding one.(7)
+  it: Chiudo con una regola pratica. Se la nota è più lunga del paragrafo che sostiene, chiediti se stai scrivendo un saggio o se ne stai nascondendo uno.(7)
+- If the note merely repeats the sentence above in denser nouns, cut it; nominalisation is not the same as evidence.(8)
+  it: Se la nota si limita a ripetere la frase di sopra in nomi più densi, tagliala; la nominalizzazione non è la stessa cosa della prova.(8)
+- If the note lets a reader see how you know, how far you know, and where you stopped, keep it, even when it spoils the elegance of the page.
+  it: Se la nota lascia vedere a un lettore come sai, fino a dove sai, e dove ti sei fermato, tienila, anche quando rovina l'eleganza della pagina.
+- Elegance without a cellar is a show flat. Scholarship needs the damp.
+  it: L'eleganza senza cantina è un appartamento di rappresentanza. All'erudizione serve l'umido.
+- (1) The map and the swamp are borrowed from a lecture on bees (lesson 44), where the speaker called her tidy story a map, not the territory; a spoken talk has no page to cite, so the debt is simply declared.
+  it: (1) La mappa e la palude vengono da una lezione sulle api (lezione 44), dove la relatrice chiamava la sua storia ordinata una mappa, non il territorio; un discorso a voce non ha una pagina da citare, quindi il debito è soltanto dichiarato.
+- (2) The claim is general and textbook-level; a full bibliography would name historians of print, which this essay, being a lesson, declines to impersonate.
+  it: (2) L'affermazione è generale e da manuale; una bibliografia completa nominerebbe storici della stampa, cosa che questo saggio, essendo una lezione, rifiuta di impersonare.
+- (3) "Wanting" here means inadequate, not desired, as in the old phrase weighed in the balance and found wanting.
+  it: (3) «Wanting» qui significa inadeguato, non desiderato, come nella vecchia formula weighed in the balance and found wanting (pesato sulla bilancia e trovato mancante).
+- (4) The damp archive and the long lunch are composite; they stand for the texture research actually has, which the main text often flattens.
+  it: (4) L'archivio umido e il pranzo lungo sono compositi; stanno per la trama che la ricerca ha davvero, e che il testo principale spesso appiattisce.
+- (5) Compare the hedges of a scientific abstract (lesson 43): modest, caution, would be required. The footnote is one place those hedges live in the humanities.
+  it: (5) Si confrontino le formule cautelative di un abstract scientifico (lezione 43): modest, caution, would be required. La nota è uno dei posti in cui quelle formule vivono nelle discipline umanistiche.
+- (6) The warehouse footnote is cousin to the newspaper that prints Confirm where the abstract wrote suggested (lesson 43): both replace judgement with volume, one of citations, one of certainty.
+  it: (6) La nota-magazzino è cugina del giornale che stampa Confirm dove l'abstract scriveva suggested (lezione 43): entrambe sostituiscono il giudizio col volume, di citazioni l'una, di certezza l'altra.
+- (7) This note is shorter than the paragraph above, on purpose. A longer note appears in (8), against my own rule, as a demonstration.
+  it: (7) Questa nota è più corta del paragrafo di sopra, apposta. Una nota più lunga compare in (8), contro la mia stessa regola, come dimostrazione.
+- (8) Nominalisation turns "we measured the leaves" into "measurement of foliar length was undertaken"; the nouns look serious and hide who did what (lesson 5, facility; lesson 43, ear orientation). A footnote that only reshuffles nouns adds weight without witness. Cut it. If you need the witness, write a sentence with a verb and a name, then cite the page. The elegance you lose is the elegance that was lying.
+  it: (8) La nominalizzazione trasforma «we measured the leaves» in «measurement of foliar length was undertaken»; i nomi sembrano seri e nascondono chi ha fatto che cosa (lezione 5, facility; lezione 43, ear orientation). Una nota che soltanto rimescola nomi aggiunge peso senza testimoni. Tagliala. Se ti serve il testimone, scrivi una frase con un verbo e un nome, poi cita la pagina. L'eleganza che perdi è l'eleganza che mentiva.
+- The author wishes to thank the imaginary clerk for returning from lunch in time for the conclusion.
+  it: L'autore ringrazia l'impiegato immaginario per essere tornato dal pranzo in tempo per la conclusione.
+
+notes.it:
+1. The footnote is the only servant... smaller font: apertura saggistica con metafora (servo/padrone). Academic prose: prosa accademica. Provided: purché. Smaller font: il corpo tipografico marca la gerarchia. Registro formale, tono secco e ironico.
+2. I shall argue that... three jobs: I shall argue è formula da saggio argomentativo britannico. House evidence, park digressions, stage... honesty: tre verbi precisi. What is not yet known: legame con doubt della settimana.
+3. main text... knew where it was going... swamp.(1): contrasto testo/nota. The map shows the swamp: eco della mappa/territorio della lezione 44. Il numero (1) rimanda alla nota in fondo al pezzo.
+4. Historians of the book... early modern scholarship.(2): early modern = prima età moderna (circa XVI-XVIII). Claims began to travel farther: perché servono riferimenti verificabili. Textbook-level nella nota (2): ammette il livello della claim senza fingere un archivio.
+5. citation... invitation to check... risk... wanting.(3): wanting = inadequate (nota 3 lo dice). Check è il mestiere del lettore accademico. Digression... upstairs / downstairs.(4): metafora del piano. Archive smelled of damp: aneddoto «di sotto».
+6. Without that cellar... pretends... smuggles... trips: cellar = cantina delle note. Smuggles anecdote: fa passare di nascosto. Confession.(5): I have not seen... disputed... provisional: hedge umanistici in frase minima.
+7. protect the claim above from false certainty: funzione del dubbio in nota. Critics... interrupt... elitist: obiezione. They have a point... They are wrong about honesty: concessione e ribaltamento (lezione 17). Theatre in every line: dubbio come spettacolo vs dubbio come cantina.
+8. warehouse... fifty references where three would do.(6): quantity for judgement. Judgement... which three... bibliography: bibliografia vs nota. Practical rule... longer than the paragraph...(7): regola. Nominalisation is not... evidence.(8): ponte alle lezioni 5 e 43.
+9. see how you know... where you stopped: criterio. Show flat: appartamento di rappresentanza (britannico). Scholarship needs the damp: chiusura metaforica, richiama l'archivio umido.
+10. Le note (1)-(8) nel dialogue sono il pezzo «with footnotes» del piano: tono da nota vera (definizioni, limiti, cross-reference). (7) e (8) giocano sulla regola: (8) è lunga apposta. Imaginary clerk: ringraziamento ironico che richiude la (4).
+
+ex1:
+- Footnotes house evidence, park digressions, and stage honesty about what is not yet known, while the main text looks as if it knew where it was going.
+  it: Le note ospitano le prove, parcheggiano le digressioni, e mettono in scena l'onestà su ciò che non si sa ancora, mentre il testo principale sembra sapere dove sta andando.
+- A citation in a note is an invitation to check, and therefore a risk that the reference may prove wanting.
+  it: Una citazione in nota è un invito a verificare, e quindi un rischio che il riferimento si riveli carente.
+- Downstairs, one may admit that the archive smelled of damp; upstairs, the sentence keeps its dignity.
+  it: Di sotto, si può ammettere che l'archivio odorava di umido; di sopra, la frase tiene la dignità.
+- Confession footnotes ("I have not seen the manuscript"; "This reading is provisional") protect the claim from false certainty.
+  it: Le note-confessione («Non ho visto il manoscritto»; «Questa lettura è provvisoria») proteggono l'affermazione dalla falsa certezza.
+- If a note is longer than the paragraph it supports, ask whether you are writing an essay or hiding one.
+  it: Se una nota è più lunga del paragrafo che sostiene, chiediti se stai scrivendo un saggio o se ne stai nascondendo uno.
+
+ex2:
+- I shall [argue] that footnotes do three jobs at once.
+  it: Sosterrò che le note fanno tre lavori insieme.
+- A citation in a note is an invitation to [check], and therefore a risk.
+  it: Una citazione in nota è un invito a verificare, e quindi un rischio.
+- The opposite vice is the footnote as [warehouse]: fifty references where three would do.
+  it: Il vizio opposto è la nota come magazzino: cinquanta riferimenti dove ne basterebbero tre.
+- If the note merely repeats the sentence above in denser nouns, cut it; [nominalisation] is not the same as evidence.
+  it: Se la nota si limita a ripetere la frase di sopra in nomi più densi, tagliala; la nominalizzazione non è la stessa cosa della prova.
+- Elegance without a cellar is a show [flat].
+  it: L'eleganza senza cantina è un appartamento di rappresentanza.
+
+tasks:
+- Historians still dispute how far early railway timetables standardised public time in Britain (1). What can be said with some safety is that printed schedules made late arrival visible as a breach of a shared measure, not only as a private inconvenience (2). The archive for one Midlands company, which I have seen only in microfilm, shows clerks annotating delays in a hand that grows angrier after 1845 (3). I do not claim the anger caused reform; I claim it records a new expectation. Notes: (1) The dispute is summarised in any good transport history; I follow the cautious middle. (2) "Some safety" is deliberate: local solar time did not vanish overnight. (3) Microfilm, not the paper: a confession footnote.
+  task.it: Scrivi un paragrafo argomentativo in inglese (80-120 parole) su un tema a tua scelta, con due o tre note a piè di pagina numerate. Almeno una nota deve ospitare una prova o un limite («I have not seen...», «the figure is disputed»), almeno una può essere digressione utile. Registro accademico sobrio. Poi confronta col modello.
+  rubric.it: Il paragrafo ha una claim chiara; le note fanno lavoro vero (prova, limite o digressione), non ripetono soltanto; il registro resta accademico; l'inglese è naturale; si vede la differenza tra testo «di sopra» e cantina.
+
+== 46 C2
+numeral: Lesson Forty-Six
+title: The historian
+title.it: La storica
+
+dialogue:
+- Interviewer: Professor Adeyemi, your new book is about how historians know what they claim to know. That sounds like a trap you set for yourself.
+  it: Intervistatore: Professoressa Adeyemi, il suo nuovo libro riguarda come gli storici sanno ciò che affermano di sapere. Sembra una trappola che si è tesa da sola.
+- Adeyemi: It is. Every chapter ends with a gap I cannot close. That is the point of the book, not a failure of research.
+  it: Adeyemi: Lo è. Ogni capitolo finisce con una lacuna che non riesco a chiudere. È il punto del libro, non un fallimento della ricerca.
+- Interviewer: Readers still want a story. Do you refuse them one?
+  it: Intervistatore: I lettori vogliono comunque una storia. Gliela rifiuta?
+- Adeyemi: I refuse them a story that pretends the evidence is thicker than it is. I do not refuse narrative. I refuse costume jewellery sold as stone.
+  it: Adeyemi: Rifiuto una storia che finge che le prove siano più spesse di quanto siano. Non rifiuto la narrazione. Rifiuto la bigiotteria venduta come pietra.
+- Interviewer: Take a concrete case from the book: the 1831 parish fire.
+  it: Intervistatore: Prenda un caso concreto dal libro: l'incendio parrocchiale del 1831.
+- Adeyemi: The register says the vestry burned on a Tuesday in March. Three newspapers mention smoke. One survivor, writing forty years later, names a knocked lamp and a quarrel about coal.
+  it: Adeyemi: Il registro dice che la sagrestia bruciò un martedì di marzo. Tre giornali menzionano il fumo. Un superstite, scrivendo quarant'anni dopo, nomina una lampada urtata e una lite sul carbone.
+- Interviewer: So you know how it started.
+  it: Intervistatore: Quindi sa come cominciò.
+- Adeyemi: I know what later memory preferred. I do not know the lamp. The coal quarrel may be true, or it may be the shape grief takes when it needs a villain.
+  it: Adeyemi: So che cosa la memoria successiva ha preferito. Non so della lampada. La lite sul carbone può essere vera, o può essere la forma che prende il dolore quando gli serve un colpevole.
+- Interviewer: Then what can you say in the indicative?
+  it: Intervistatore: Allora che cosa può dire all'indicativo?
+- Adeyemi: That a fire destroyed the vestry records for that parish in 1831. That the loss still shapes what we cannot count: baptisms, burials, who lived next to whom.
+  it: Adeyemi: Che un incendio distrusse i registri della sagrestia di quella parrocchia nel 1831. Che la perdita plasma ancora ciò che non possiamo contare: battesimi, sepolture, chi viveva accanto a chi.
+- Interviewer: Absence as evidence?
+  it: Intervistatore: L'assenza come prova?
+- Adeyemi: Absence as a boundary. It tells you where the map ends. It does not let you invent the swamp and call it surveyed land.
+  it: Adeyemi: L'assenza come confine. Ti dice dove finisce la mappa. Non ti permette di inventare la palude e chiamarla terreno rilevato.
+- Interviewer: Your reviewers say you are too cautious. One called the book "a shrine to the footnote."
+  it: Intervistatore: I suoi recensori dicono che è troppo cauta. Uno ha chiamato il libro «un santuario della nota a piè di pagina».
+- Adeyemi: I shall take that as a compliment, against his wishes. A footnote is where I put "I have not seen the manuscript" when the main sentence would look foolish without it.
+  it: Adeyemi: Lo prenderò come un complimento, contro i suoi desideri. Una nota è dove metto «non ho visto il manoscritto» quando la frase principale sembrerebbe sciocca senza di essa.
+- Interviewer: Is there a method you teach your students in one sentence?
+  it: Intervistatore: C'è un metodo che insegna ai suoi studenti in una frase sola?
+- Adeyemi: Separate what the source says, what it could mean, and what you wish it meant. Write the three in different inks if you have to.
+  it: Adeyemi: Separi ciò che la fonte dice, ciò che potrebbe significare, e ciò che vorrebbe che significasse. Scriva i tre con inchiostri diversi se serve.
+- Interviewer: And when the public wants certainty for a podcast?
+  it: Intervistatore: E quando il pubblico vuole certezza per un podcast?
+- Adeyemi: Give them the fire, the dates, the newspapers. Give them the lamp as a rumour with a date stamp of 1871. If they leave, they wanted theatre. If they stay, they can stand a little doubt.
+  it: Adeyemi: Dia loro l'incendio, le date, i giornali. Dia loro la lampada come una voce con data 1871. Se se ne vanno, volevano teatro. Se restano, possono sopportare un po' di dubbio.
+- Interviewer: You sound like a scientist with better prose.
+  it: Intervistatore: Sembra una scienziata con una prosa migliore.
+- Adeyemi: Scientists hedge in abstracts; we hedge in clauses and in notes. The difference is costume, not virtue. Both are trying not to sell Confirm where the work wrote suggested.
+  it: Adeyemi: Gli scienziati usano formule cautelative negli abstract; noi le mettiamo nelle proposizioni e nelle note. La differenza è il costume, non la virtù. Entrambi cercano di non vendere Confirm dove il lavoro scriveva suggested.
+- Interviewer: Last question. Do you ever envy the novelist?
+  it: Intervistatore: Ultima domanda. Invidia mai la romanziera?
+- Adeyemi: Every wet Tuesday. Then I remember that the novelist may invent the lamp, and I may only polish the gap until a reader can see its edge.
+  it: Adeyemi: Ogni martedì bagnato. Poi ricordo che la romanziera può inventare la lampada, e io posso soltanto lucidare la lacuna finché un lettore non ne veda il bordo.
+- Interviewer: That will not fit on a tote bag.
+  it: Intervistatore: Non ci starà, su una borsa di tela.
+- Adeyemi: Good. Put the tote bag in a footnote and leave the indicative for the fire.
+  it: Adeyemi: Bene. Metta la borsa di tela in una nota e lasci l'indicativo per l'incendio.
+- Interviewer: Thank you, Professor. We will resist the powdered-wig kitten on the cover.
+  it: Intervistatore: Grazie, Professoressa. Resisteremo al gattino in parrucca impolverata in copertina.
+
+notes.it:
+1. Professor Adeyemi... trap you set for yourself: apertura da intervista culturale britannica. Professor per una donna è normale in UK. Trap: il tema epistemologico è rischioso. Nell'italiano: lei/suo (formale).
+2. gap I cannot close... point of the book: lacuna come metodo, non scusa. Refuse... evidence thicker... costume jewellery sold as stone: bigiotteria vs pietra = racconto falso vs prova. Narrative non è vietata; lo è il fingere spessore.
+3. 1831 parish fire... vestry burned: caso inventato ma plausibile (archivi parrocchiali bruciati capitano). Register, newspapers, survivor writing forty years later: tre fonti, pesi diversi.
+4. So you know / I know what later memory preferred: correzione. Lamp / coal quarrel: may be true... shape grief takes: dubbio su memoria e colpevole. Indicative: modo del fatto asserito.
+5. fire destroyed the vestry records... what we cannot count: ciò che si può dire all'indicativo. Absence as a boundary... surveyed land: ripresa mappa/palude (lezioni 44-45).
+6. shrine to the footnote: recensore ostile; lei lo ribalta. I have not seen the manuscript: eco della lezione 45. Method: says / could mean / wish it meant: tre inchiostri.
+7. podcast... rumour with a date stamp of 1871: pubblico senza Confirm. Theatre vs doubt. Scientists hedge in abstracts... clauses and notes: ponte alla lezione 43; Confirm/suggested dal giornale sui gatti.
+8. envy the novelist... wet Tuesday: eco della lecture (lezione 44). Polish the gap... edge: mestiere dello storico.
+9. tote bag: slogan vendibile. Tote bag è la borsa di tela con lo slogan stampato. Footnote for the tote; indicative for the fire: gerarchia prova/ornamento.
+10. powdered-wig kitten: richiamo al giornale della lezione 43 (foto ridicola in rettifica). Resist the cover: l'intervista chiude rifiutando il costume da tabloid.
+
+ex1:
+- Every chapter of her book ends with a gap she cannot close; that, she says, is the point, not a failure of research.
+  it: Ogni capitolo del suo libro finisce con una lacuna che non riesce a chiudere; quello, dice, è il punto, non un fallimento della ricerca.
+- The register and the newspapers support a fire in 1831; the knocked lamp arrives only in a memoir from 1871.
+  it: Il registro e i giornali sostengono un incendio nel 1831; la lampada urtata arriva soltanto in una memoria del 1871.
+- She will say in the indicative that the vestry records were destroyed, and that the loss still shapes what cannot be counted.
+  it: Dirà all'indicativo che i registri della sagrestia furono distrutti, e che la perdita plasma ancora ciò che non si può contare.
+- Her method for students: separate what the source says, what it could mean, and what you wish it meant.
+  it: Il suo metodo per gli studenti: separare ciò che la fonte dice, ciò che potrebbe significare, e ciò che si vorrebbe che significasse.
+- Scientists hedge in abstracts; historians hedge in clauses and footnotes, and both refuse to sell Confirm where the work wrote suggested.
+  it: Gli scienziati usano formule cautelative negli abstract; gli storici nelle proposizioni e nelle note, ed entrambi rifiutano di vendere Confirm dove il lavoro scriveva suggested.
+
+ex2:
+- I refuse a story that pretends the evidence is [thicker] than it is.
+  it: Rifiuto una storia che finge che le prove siano più spesse di quanto siano.
+- Absence is a [boundary]: it tells you where the map ends.
+  it: L'assenza è un confine: ti dice dove finisce la mappa.
+- Separate what the source says, what it could mean, and what you [wish] it meant.
+  it: Separi ciò che la fonte dice, ciò che potrebbe significare, e ciò che vorrebbe che significasse.
+- Give them the lamp as a [rumour] with a date stamp of 1871.
+  it: Dia loro la lampada come una voce con data 1871.
+- Put the tote bag in a [footnote] and leave the indicative for the fire.
+  it: Metta la borsa di tela in una nota e lasci l'indicativo per l'incendio.
+
+tasks:
+- Adeyemi's method: treat sources as layered. First write what the document literally says (the vestry burned in March 1831; three papers mention smoke). Then write possible meanings without promoting them to fact (a lamp; a quarrel; grief shaping a villain). Then notice your wish (a tidy cause) and keep it off the indicative sentence. Use notes for "I have not seen X" and for the 1871 memoir's date stamp. For a public talk, give the fire and the dates first; label later memory as rumour. Doubt is a boundary, not a shrine for its own sake, and not a tote-bag slogan.
+  task.it: Riassumi in inglese, intorno alle 100-120 parole, il metodo della storica Adeyemi: come tratta le fonti, che cosa mette all'indicativo, che cosa lascia al dubbio o alla nota, e come parlerebbe a un pubblico di podcast. Registro chiaro, da nota a uno studente. Niente bigiotteria.
+  rubric.it: I tre livelli (detto / possibile / desiderato) ci sono; l'indicativo resta sui fatti sostenibili; il dubbio non è posa né slogan; l'inglese è naturale; uno studente potrebbe applicare il metodo a un altro caso.
+
+== 47 C2
+numeral: Lesson Forty-Seven
+title: A book review
+title.it: Una recensione
+
+dialogue:
+- Eleanor Vance, Leaves and Ledgers: A History of Tea in Britain from the Warehouse to the Cup. London: Harbour Books, 2024. xii + 318 pp. £45.
+  it: Eleanor Vance, Leaves and Ledgers: A History of Tea in Britain from the Warehouse to the Cup. London: Harbour Books, 2024. xii + 318 pp. £45.
+- Academic reviews begin with the card catalogue, not with the reviewer's thirst, and this one will try to remember that for at least a paragraph.
+  it: Le recensioni accademiche cominciano dal catalogo, non dalla sete del recensore, e questa cercherà di ricordarsene per almeno un paragrafo.
+- Thirst, of course, returns; tea histories are written by people who drink the stuff, and honesty about that bias belongs somewhere on the page.
+  it: La sete, naturalmente, torna; le storie del tè le scrivono persone che lo bevono, e l'onestà su quella inclinazione sta da qualche parte nella pagina.
+- Vance sets out to show how tea moved from a luxury of the few to a habit of the many, and how ledgers, ships, shops and taste kept pace with that shift.
+  it: Vance si propone di mostrare come il tè passò da lusso di pochi ad abitudine di molti, e come registri, navi, negozi e gusto tennero il passo di quel passaggio.
+- She succeeds more often than she fails, which is the dull praise academic reviews are for, and the only kind this subject needs.
+  it: Riesce più spesso di quanto fallisca, che è la lode noiosa per cui esistono le recensioni accademiche, e l'unica che questo tema richiede.
+- The argument is clearest in chapters three to five, where she reads customs books beside advertisements and does not let either source bully the other.
+  it: L'argomento è più chiaro nei capitoli dal tre al cinque, dove legge i registri doganali accanto agli annunci e non lascia che una fonte prevarichi l'altra.
+- She is particularly strong on the nineteenth-century grocery, where the price of a pound and the language of "fine" and "common" did more social work than most speeches about class.
+  it: È particolarmente efficace sul negozio di generi alimentari dell'Ottocento, dove il prezzo della libbra e il linguaggio di «fine» e «common» facevano più lavoro sociale della maggior parte dei discorsi sulla classe.
+- A short section on the afternoon tea of the middle classes is shrewd rather than sentimental: she counts spoons and visitors before she quotes a novel.
+  it: Una breve sezione sul tè del pomeriggio dei ceti medi è acuta piuttosto che sentimentale: conta cucchiai e visite prima di citare un romanzo.
+- The prose is clean, sometimes almost severe; she prefers a weighed sentence to a picturesque one, which suits a book that distrusts nostalgia.
+  it: La prosa è limpida, a tratti quasi severa; preferisce una frase pesata a una pittoresca, il che si addice a un libro che diffida della nostalgia.
+- Readers who want empire only as scandal will find her cooler than they hoped; she keeps the violence of trade in view without turning every page into a sermon.
+  it: I lettori che vogliono l'impero soltanto come scandalo la troveranno più fredda di quanto sperassero; tiene in vista la violenza del commercio senza trasformare ogni pagina in una predica.
+- Where the study is thinner is the twentieth century. The last two chapters move quickly from rationing to the teabag, and the teabag deserves a slower humiliation.
+  it: Dove lo studio è più sottile è il Novecento. Gli ultimi due capitoli passano in fretta dal razionamento alla bustina, e la bustina merita un'umiliazione più lenta.
+- Vance notes the convenience and the loss of leaf and ritual, yet she stops short of the archival patience she showed for the East India ledgers.
+  it: Vance nota la comodità e la perdita della foglia e del rito, eppure si ferma prima della pazienza d'archivio che aveva mostrato per i registri della Compagnia delle Indie.
+- One wishes for the same slow reading of factory records and advertising boards that she gave to the eighteenth-century chest.
+  it: Si vorrebbe la stessa lettura lenta dei registri di fabbrica e dei cartelloni pubblicitari che ha dato alla cassa del Settecento.
+- Specialists will also want more on Welsh and Scottish consumption; "Britain" in the subtitle is, for long stretches, a London and Bristol story with occasional trains north.
+  it: Gli specialisti vorranno anche di più sul consumo gallese e scozzese; «Britain» nel sottotitolo è, per lunghi tratti, una storia di Londra e Bristol con qualche treno verso nord.
+- Irish tea habits appear mainly in a comparative footnote; the footnote is honest, and too lonely.
+  it: Le abitudini irlandesi sul tè compaiono soprattutto in una nota comparativa; la nota è onesta, e troppo sola.
+- These are limits, not wrecks. The book remains a substantial contribution to the history of everyday commodities, and it will be cited for its method as much as for its facts.
+  it: Sono limiti, non rovine. Il libro resta un contributo sostanziale alla storia delle merci quotidiane, e sarà citato per il metodo quanto per i fatti.
+- Method, here, means the refusal to let a pretty anecdote outrun a dull column of figures, and the equal refusal to let figures pretend they have no smell of the warehouse.
+  it: Metodo, qui, significa il rifiuto di lasciar correre un aneddoto grazioso oltre una colonna noiosa di cifre, e l'uguale rifiuto di lasciar fingere alle cifre di non avere odore di magazzino.
+- Vance writes, in a footnote that Adeyemi would approve, that she has not handled every chest-mark she names; the admission is brief and properly placed below the line.
+  it: Vance scrive, in una nota che Adeyemi approverebbe, di non avere maneggiato ogni marchio di cassa che nomina; l'ammissione è breve e messa come si deve sotto la riga.
+- Less happily, the conclusion reaches for a moral about "attention in an age of haste" that the evidence has not quite earned.
+  it: Meno felicemente, la conclusione cerca una morale sull'«attenzione in un'epoca di fretta» che le prove non hanno del tutto guadagnato.
+- Evaluative language should match the warrant: "indispensable on the grocery trade" is fair; "transforms how we think about modern life" would not be.
+  it: Il linguaggio valutativo dovrebbe corrispondere alla garanzia: «indispensabile sul commercio dei generi» è giusto; «trasforma il modo in cui pensiamo la vita moderna» non lo sarebbe.
+- I would assign chapters three to five to undergraduates without apology; I would warn postgraduates that the later period is a sketch.
+  it: Assegnerei i capitoli dal tre al cinque agli studenti della triennale senza scuse; avvertirei gli studenti di magistrale e di dottorato che il periodo successivo è uno schizzo.
+- Comparatively, the book stands beside other commodity histories without needing to shout; its voice is the ledger's, not the carnival barker's.
+  it: Per confronto, il libro sta accanto ad altre storie di merci senza bisogno di alzare la voce; la sua voce è quella del registro, non dell'imbonitore da fiera.
+- The production is handsome, the index usable, the price of a hardback that libraries will buy and students will photocopy, which is another kind of British tea ritual.
+  it: La veste è curata, l'indice usabile, il prezzo di un cartonato che le biblioteche compreranno e gli studenti fotocopieranno, che è un altro rito britannico del tè.
+- Recommended, then, with the caveats above: a book that knows how to praise a ledger and how to doubt a legend, even when its own last chapter grows a little legendary.
+  it: Consigliato, dunque, con le riserve di sopra: un libro che sa lodare un registro e dubitare di una leggenda, anche quando il suo ultimo capitolo diventa un po' leggendario.
+- This reviewer, having finished, put the kettle on and used a teabag, with the shame Vance describes and the haste she moralises, and found the shame more persuasive than the moral.
+  it: Chi scrive, finito il libro, ha messo su il bollitore e ha usato una bustina, con la vergogna che Vance descrive e la fretta che moralizza, e ha trovato la vergogna più persuasiva della morale.
+
+notes.it:
+1. Eleanor Vance... Harbour Books... xii + 318 pp. £45: intestazione da recensione accademica (autore, titolo, luogo, editore, anno, pagine, prezzo). Libro ed editore inventati. Card catalogue... thirst: meta-battuta sul genere.
+2. sets out to show: enunciato dell'argomento senza adulazione. Clearest in chapters three to five: valutazione localizzata. Customs books beside advertisements: metodo fonti. Bully the other: nessuna fonte domina.
+3. particularly strong on... grocery... "fine" and "common": strong è aggettivo valutativo preciso. Social work: lavoro sociale del lessico di prezzo. Afternoon tea... shrewd rather than sentimental... counts spoons: lode per metodo, non per atmosfera.
+4. Prose... clean... severe... weighed... distrusts nostalgia: giudizio su stile legato a tesi. Cooler than they hoped... without... sermon: equilibrio su impero e violenza del commercio.
+5. thinner... teabag deserves a slower humiliation: thinner = più magro. Humiliation ironica. Stops short of the archival patience: confronto interno al libro. One wishes for the same slow reading: desiderio del recensore, ancora calibrato.
+6. Specialists will also want more... London and Bristol: limite geografico. Irish... lonely footnote: limite detto con fair. Limits, not wrecks: non demolizione. Substantial contribution: lode proporzionata.
+7. pretty anecdote outrun... smell of the warehouse: metodo. Footnote... Adeyemi... chest-mark: ponte lezioni 45-46; marchio sulle casse del tè.
+8. Less happily... not quite earned: evaluative hedge. Warrant: ciò che le prove autorizzano. indispensable... fair / transforms... would not be: due scale di lode.
+9. undergraduates / postgraduates... sketch: consiglio d'uso. Ledger's voice... carnival barker: contrasto di registro valutativo. Production... photocopy: chiusura materiale britannica.
+10. Recommended... caveats... little legendary: formula da review. Kettle... teabag... shame more persuasive than the moral: coda personale permessa; la descrizione vince la predica.
+
+ex1:
+- Vance is particularly strong on the nineteenth-century grocery, where "fine" and "common" did more social work than most speeches about class.
+  it: Vance è particolarmente efficace sul negozio di generi dell'Ottocento, dove «fine» e «common» facevano più lavoro sociale della maggior parte dei discorsi sulla classe.
+- The twentieth-century chapters are thinner: the teabag deserves a slower humiliation than it receives.
+  it: I capitoli sul Novecento sono più magri: la bustina merita un'umiliazione più lenta di quella che riceve.
+- "Britain" in the subtitle is, for long stretches, a London and Bristol story with occasional trains north.
+  it: «Britain» nel sottotitolo è, per lunghi tratti, una storia di Londra e Bristol con qualche treno verso nord.
+- Evaluative language should match the warrant: "indispensable on the grocery trade" is fair; "transforms modern life" would not be.
+  it: Il linguaggio valutativo dovrebbe corrispondere alla garanzia: «indispensabile sul commercio dei generi» è giusto; «trasforma la vita moderna» non lo sarebbe.
+- The reviewer found Vance's shame about the teabag more persuasive than the moral about haste in the conclusion.
+  it: Il recensore ha trovato la vergogna di Vance sulla bustina più persuasiva della morale sulla fretta nella conclusione.
+
+ex2:
+- The argument is [clearest] in chapters three to five, where she reads customs books beside advertisements.
+  it: L'argomento è più chiaro nei capitoli dal tre al cinque, dove legge i registri doganali accanto agli annunci.
+- Where the study is [thinner] is the twentieth century.
+  it: Dove lo studio è più sottile è il Novecento.
+- These are limits, not [wrecks].
+  it: Sono limiti, non rovine.
+- The conclusion reaches for a moral that the evidence has not quite [earned].
+  it: La conclusione cerca una morale che le prove non hanno del tutto guadagnato.
+- Recommended, then, with the [caveats] above.
+  it: Consigliato, dunque, con le riserve di sopra.
+
+tasks:
+- I read Natalia Ginzburg's Lessico famigliare in Italian years ago and keep a battered English paperback for the bus. The book is strongest where the family lexicon does the social work speeches cannot: nicknames, repeated jokes, the weather of a room. It is thinner when the wider politics arrive as summary rather than texture, though that may be my thirst for gossip, not her failure. I would assign the early chapters without apology; I would warn a friend that the later pages need patience. Recommended, with the caveat that no translation catches every household word, and with the shame of having underlined in pencil.
+  task.it: Scrivi in inglese una breve recensione (120-150 parole) di un libro che hai letto. Usa linguaggio valutativo calibrato: almeno un punto «strong/clearest», almeno un limite («thinner», «stops short», «caveat»), una raccomandazione d'uso. Niente «transforms how we think» senza garanzia. Registro da recensione sobria, non da stelline.
+  rubric.it: C'è lode localizzata e limite onesto; le parole valutative rispettano le prove che citi; il registro è sobrio; l'inglese è naturale; non è uno spot né una demolizione gratuita.
+
+== 48 C2
+numeral: Lesson Forty-Eight
+title: Grant application
+title.it: Domanda di finanziamento
+
+dialogue:
+- Research Councils Combined. Application for Funding. Scheme: Curiosity-Driven Excellence (Pilot).
+  it: Research Councils Combined. Domanda di finanziamento. Schema: Eccellenza guidata dalla curiosità (Pilota).
+- Title: Towards a Multi-Scalar Phenomenology of Mid-Afternoon Biscuit Engagement in Post-Industrial Knowledge Workplaces.
+  it: Titolo: Verso una fenomenologia multi-scalare dell'interazione col biscotto di metà pomeriggio nei luoghi di lavoro della conoscenza post-industriali.
+- Principal Investigator: Dr Oliver Finch, Department of Organisational Atmospheres, University of Northbridge.
+  it: Responsabile principale: dott. Oliver Finch, Dipartimento di atmosfere organizzative, University of Northbridge.
+- Abstract. This project interrogates the socio-material practices through which knowledge workers negotiate caloric and affective affordances during the post-prandial productivity trough.
+  it: Abstract. Questo progetto interroga le pratiche socio-materiali attraverso cui i lavoratori della conoscenza negoziano possibilità d'uso caloriche e di umore durante il calo di produttività dopo pranzo.
+- Building on emerging scholarship in snack studies, and in critical dialogue with the literature on tea-break temporalities, we propose a mixed-methods investigation of biscuit selection, dunking, and crumb management.
+  it: Sulla scia di una ricerca emergente sugli spuntini, e in dialogo critico con la letteratura sui tempi della pausa tè, proponiamo un'indagine a metodi misti su scelta del biscotto, inzuppamento e gestione delle briciole.
+- Work package 1 will operationalise a typology of biscuit firmness under conditions of controlled immersion.
+  it: Il primo pacchetto di lavoro renderà operativa una tipologia di consistenza del biscotto in condizioni di immersione controllata.
+- Work package 2 will ethnographically map the affective trajectories of shared biscuit tins in three open-plan offices, with particular attention to free-riding and reputational risk.
+  it: Il secondo pacchetto di lavoro mapperà etnograficamente le traiettorie affettive delle scatole di biscotti condivise in tre uffici a pianta aperta, con attenzione particolare a chi mangia senza portare e al rischio di reputazione.
+- Work package 3 will co-produce stakeholder toolkits for equitable crumb governance.
+  it: Il terzo pacchetto di lavoro produrrà insieme agli interessati kit pratici per una gestione equa delle briciole.
+- Impact. Outputs will include two peer-reviewed articles, a policy brief for Facilities, and a publicly engaged podcast episode provisionally titled "Crumb and Circumstance."
+  it: Impatto. I prodotti includeranno due articoli sottoposti a revisione tra pari, una nota di policy per gli uffici tecnici, e un episodio di podcast per il pubblico dal titolo provvisorio «Crumb and Circumstance.»
+- The research has clear implications for wellbeing agendas, desk-based labour, and the future of mid-afternoon sociability in hybrid work.
+  it: La ricerca ha chiare implicazioni per le agende sul benessere, il lavoro da scrivania, e il futuro della socialità di metà pomeriggio nel lavoro ibrido.
+- Risks. Key risks include biscuit industry lobbying, participant fatigue, and ontological disagreement over what counts as a biscuit (see Appendix B: Jaffa Cakes).
+  it: Rischi. I rischi principali includono le pressioni dell'industria dei biscotti, la fatica dei partecipanti, e il disaccordo ontologico su che cosa conti come biscotto (si veda Appendice B: Jaffa Cakes).
+- Ethics. Informed consent will be sought before any dunking is observed; crumb data will be anonymised; no participant will be required to eat a Rich Tea against their will.
+  it: Etica. Si chiederà il consenso informato prima di osservare qualsiasi inzuppamento; i dati sulle briciole saranno anonimizzati; nessun partecipante sarà obbligato a mangiare un Rich Tea contro la sua volontà.
+- Budget summary: £187,400 over twenty-four months, including a postdoctoral researcher, travel to biscuit archives in Reading, and a contingency for structural failure of digestives.
+  it: Sintesi del budget: £187.400 in ventiquattro mesi, inclusi un ricercatore post-dottorato, viaggi agli archivi dei biscotti a Reading, e una riserva per il cedimento strutturale dei digestive.
+- Justification of resources. Immersion equipment is essential to the project's novel contribution; standard office mugs lack the calibrated rim required for reproducible dunk depth.
+  it: Giustificazione delle risorse. L'attrezzatura di immersione è essenziale al contributo innovativo del progetto; le tazze da ufficio standard mancano del bordo calibrato richiesto per una profondità di inzuppamento riproducibile.
+- Plain English summary (compulsory box, 150 words). We want to understand why people in offices choose certain biscuits at about three o'clock, how they dip them in tea or coffee, and what happens to the crumbs.
+  it: Riassunto in inglese semplice (casella obbligatoria, 150 parole). Vogliamo capire perché in ufficio la gente sceglie certi biscotti verso le tre, come li inzuppa nel tè o nel caffè, e che ne è delle briciole.
+- We will watch, with permission, three offices; we will test how quickly different biscuits soften in hot liquid; we will ask staff how they feel about the shared tin.
+  it: Guarderemo, con permesso, tre uffici; testeremo quanto in fretta diversi biscotti si ammorbidiscano nel liquido caldo; chiederemo al personale come si sente riguardo alla scatola condivisa.
+- We will write up the findings so that managers and staff can reduce rowing over the last custard cream, and so that Facilities can plan bins.
+  it: Scriveremo i risultati così che responsabili e personale possano ridurre le litigate sull'ultimo custard cream, e così che gli uffici tecnici possano pianificare i cestini.
+- That is the project. The title above is what the form's "excellence" box appeared to require.
+  it: Questo è il progetto. Il titolo di sopra è ciò che la casella «excellence» del modulo sembrava richiedere.
+- Reviewer A: Strong fit with the call. Methodologically ambitious. Recommend fund.
+  it: Revisore A: Buon allineamento col bando. Metodologicamente ambizioso. Raccomando finanziamento.
+- Reviewer B: The plain English summary is the only page I understood. Fund that page; quarantine the rest.
+  it: Revisore B: Il riassunto in inglese semplice è l'unica pagina che ho capito. Finanziare quella pagina; mettere in quarantena il resto.
+- Reviewer C: Impact pathway under-specified as regards Jaffa Cakes. Minor revision.
+  it: Revisore C: Il percorso di impatto è sotto-specificato riguardo ai Jaffa Cakes. Revisione minore.
+- Panel decision: Fund with conditions. Replace "multi-scalar phenomenology" with "how office biscuits work"; keep the immersion kit; add Adeyemi as external advisor on what the sources can actually say.
+  it: Decisione della commissione: Finanziare con condizioni. Sostituire «fenomenologia multi-scalare» con «come funzionano i biscotti d'ufficio»; tenere il kit di immersione; aggiungere Adeyemi come consulente esterna su ciò che le fonti possono davvero dire.
+- Dr Finch accepted, rewrote the title in words of one and two syllables where possible, and ordered the first packet of controls: Rich Tea, digestive, custard cream.
+  it: Il dott. Finch accettò, riscrisse il titolo in parole di una e due sillabe dove possibile, e ordinò il primo pacco di controlli: Rich Tea, digestive, custard cream.
+- The phenomenology, he noted in a footnote the panel would never read, had been mostly hunger.
+  it: La fenomenologia, annotò in una nota che la commissione non avrebbe mai letto, era stata per lo più fame.
+- The first digestive failed at three seconds; he wrote "structural failure" in the lab book, and "soggy" in the margin.
+  it: Il primo digestive cedette a tre secondi; scrisse «structural failure» sul quaderno di laboratorio, e «soggy» a margine.
+
+notes.it:
+1. Curiosity-Driven Excellence (Pilot): parodia dei nomi dei bandi. Title... Multi-Scalar Phenomenology... Biscuit Engagement: gergo accademico gonfiato su un tema da pausa tè. University of Northbridge: eco della settimana 6 (Northbridge Analytics).
+2. interrogates the socio-material practices... caloric and affective affordances... post-prandial productivity trough: ogni pezzo ha un senso piano (come la gente mangia biscotti quando crolla dopo pranzo). Interrogates: verbo da progetto. Affordances: possibilità d'uso (qui caloriche e di umore). Trough: avvallamento.
+3. snack studies... tea-break temporalities... mixed-methods... dunking... crumb management: campi inventati o stiracchiati + oggetti ridicoli. Work package: pacchetto di lavoro da grant. Operationalise a typology... controlled immersion: inzuppare detto da laboratorio (ponte lezione 43).
+4. ethnographically map... free-riding... reputational risk: mangiare dalla scatola altrui senza portare, e la fama. Co-produce stakeholder toolkits... equitable crumb governance: governance delle briciole; kit per «portatori di interesse». Impatto obbligatorio nei bandi UK.
+5. peer-reviewed... policy brief for Facilities... podcast: triade di prodotti. Crumb and Circumstance: titolo da cerimonia ridicola (Pomp and Circumstance, le marce di Elgar, storto in briciole). Wellbeing agendas... hybrid work: parole da strategia.
+6. Risks... lobbying... ontological disagreement... Jaffa Cakes: in UK il Jaffa Cake è classificato come cake per l'IVA, non biscuit: fatto noto e stabile, usato come battuta ontologica. Ethics... Rich Tea against their will: etica seria su tema sciocco. Reading: città con legami storici all'industria alimentare (plausibile per archivi di biscotti).
+7. £187,400... contingency for structural failure of digestives: i digestive che si spezzano nell'inzuppo. Justification... calibrated rim... reproducible dunk depth: giustificazione comica dell'attrezzatura.
+8. Plain English summary (compulsory box): la casella obbligatoria dove il gergo deve diventare piano. Tre frasi che dicono il progetto. Title above... excellence box: la satira punta il modulo, non solo il ricercatore.
+9. Reviewers A/B/C: parodia dei report. Fund that page; quarantine the rest: Revisore B alleato del plain English.
+10. Panel... Replace multi-scalar... Adeyemi as external advisor: ponte lezione 46. Phenomenology... mostly hunger: chiusura; la nota dice la fame sotto il gergo (come il foglietto della lezione 36).
+
+ex1:
+- The funded title asked for a multi-scalar phenomenology of mid-afternoon biscuit engagement; the plain summary asked why office workers choose biscuits at three o'clock.
+  it: Il titolo finanziato chiedeva una fenomenologia multi-scalare dell'interazione col biscotto di metà pomeriggio; il riassunto semplice chiedeva perché gli impiegati scelgono i biscotti alle tre.
+- Work package 1 would operationalise a typology of biscuit firmness under controlled immersion.
+  it: Il primo pacchetto di lavoro avrebbe reso operativa una tipologia di consistenza del biscotto sotto immersione controllata.
+- Risks included industry lobbying, participant fatigue, and ontological disagreement over Jaffa Cakes.
+  it: I rischi includevano le pressioni dell'industria, la fatica dei partecipanti, e il disaccordo ontologico sui Jaffa Cakes.
+- Reviewer B understood only the plain English summary and recommended funding that page while quarantining the rest.
+  it: Il revisore B capì soltanto il riassunto in inglese semplice e raccomandò di finanziare quella pagina mettendo in quarantena il resto.
+- Finch noted in a footnote the panel would never read that the phenomenology had been mostly hunger.
+  it: Finch annotò in una nota che la commissione non avrebbe mai letto che la fenomenologia era stata per lo più fame.
+
+ex2:
+- This project [interrogates] the socio-material practices of mid-afternoon snacking.
+  it: Questo progetto interroga le pratiche socio-materiali dello spuntino di metà pomeriggio.
+- Work package 1 will [operationalise] a typology of biscuit firmness under controlled immersion.
+  it: Il primo pacchetto di lavoro renderà operativa una tipologia di consistenza del biscotto in condizioni di immersione controllata.
+- Outputs will include two [peer-reviewed] articles and a policy brief for Facilities.
+  it: I prodotti includeranno due articoli sottoposti a revisione tra pari e un policy brief per Facilities.
+- Key risks include ontological disagreement over what [counts] as a biscuit.
+  it: I rischi principali includono il disaccordo ontologico su che cosa conti come biscotto.
+- The plain English summary was the [compulsory] box the form required in ordinary words.
+  it: Il riassunto in inglese semplice era la casella obbligatoria che il modulo richiedeva in parole ordinarie.
+
+tasks:
+- We want to know which office biscuits people take at about three o'clock, how they dip them, and what happens to the crumbs. We will watch three offices with permission, time how fast biscuits soften in hot tea, and ask staff about the shared tin. We will write short notes so managers argue less about the last custard cream and Facilities can place bins. No multi-scalar phenomenology required.
+  task.it: Traduci in inglese piano (80-100 parole) il gergo della domanda di finanziamento sui biscotti: togli multi-scalar, socio-material, affordances, operationalise, stakeholder toolkits, equitable crumb governance. Stessi fatti. Registro da casella «plain English» obbligatoria.
+  rubric.it: I fatti del progetto ci sono; il gergo gonfiato è sparito; il registro è chiaro e britannico (biscuit, tin, Facilities); l'inglese è naturale; una commissione stanca capirebbe in un minuto.
+
+== 49 C2
+kind: revision
+numeral: Lesson Forty-Nine
+title: Revision
+title.it: Ripasso
+
+dialogue:
+- Conference hall, Northbridge. Session title: How knowledge travels, and what gets lost on the way.
+  it: Aula magna, Northbridge. Titolo della sessione: Come viaggia la conoscenza, e che cosa si perde per strada.
+  refs: 43 44 45 46 47 48
+- Dr Helen Park thanked the stewards, apologised for a slide that would not load, and said she had twenty minutes and one job: to show the difference between a claim and a costume.
+  it: La dott.ssa Helen Park ringraziò gli steward, si scusò per una diapositiva che non si caricava, e disse di avere venti minuti e un solo compito: mostrare la differenza tra un'affermazione e un costume.
+  refs: 44
+- She began with an abstract that had suggested a modest preferential response in a subset of cats, and with the newspaper that had printed Confirm.
+  it: Cominciò con un abstract che aveva suggerito una modesta risposta preferenziale in un sottoinsieme di gatti, e col giornale che aveva stampato Confirm.
+  refs: 43
+- Suggests, may, modest, subset, caution, would be required: the six words the headline had declined to print were still the price of entry.
+  it: Suggests, may, modest, subset, caution, would be required: le sei parole che il titolo si era rifiutato di stampare erano ancora il prezzo d'ingresso.
+  refs: 43
+- From bees she took the lesson that a short sentence can be true and empty, and that a process needs the job of each part named aloud.
+  it: Dalle api prese la lezione che una frase corta può essere vera e vuota, e che un processo ha bisogno che il lavoro di ogni pezzo sia nominato ad alta voce.
+  refs: 44
+- Waggle for distance, angle for the sun, followers for the copy: understanding, she said, is being able to retell the steps without the poetry.
+  it: Scuotimento per la distanza, angolo per il sole, seguaci per la copia: capire, disse, è saper raccontare i passi senza la poesia.
+  refs: 44
+- Footnotes, she argued, are the cellar where evidence, digression and confession live, provided they do not become a warehouse of fifty citations.
+  it: Le note, sostenne, sono la cantina dove vivono prova, digressione e confessione, purché non diventino un magazzino di cinquanta citazioni.
+  refs: 45
+- "I have not seen the manuscript" belongs below the line so the sentence above need not pretend.
+  it: «Non ho visto il manoscritto» sta sotto la riga perché la frase di sopra non debba fingere.
+  refs: 45 46
+- Professor Adeyemi, from the front row, nodded at the three inks: what the source says, what it could mean, what you wish it meant.
+  it: La professoressa Adeyemi, dalla prima fila, annuì ai tre inchiostri: ciò che la fonte dice, ciò che potrebbe significare, ciò che si vorrebbe che significasse.
+  refs: 46
+- The indicative, Adeyemi had taught, was for the fire and the dates; the lamp of 1871 was a rumour with a stamp.
+  it: L'indicativo, aveva insegnato Adeyemi, era per l'incendio e le date; la lampada del 1871 era una voce con timbro.
+  refs: 46
+- Park then held up Vance's book on tea, not to sell it, but to practise evaluative language that matched its warrant.
+  it: Park poi alzò il libro di Vance sul tè, non per venderlo, ma per esercitare un linguaggio valutativo all'altezza della sua garanzia.
+  refs: 47
+- Strongest on the grocery ledgers; thinner on the teabag; limits, not wrecks; recommended with caveats: she refused "transforms modern life."
+  it: Più forte sui registri del negozio; più magro sulla bustina; limiti, non rovine; consigliato con riserve: rifiutò «trasforma la vita moderna».
+  refs: 47
+- Finally she read Finch's grant title aloud, then the compulsory plain English box, and asked which page a tired panel should fund.
+  it: Infine lesse ad alta voce il titolo della domanda di Finch, poi la casella obbligatoria in inglese semplice, e chiese quale pagina una commissione stanca dovesse finanziare.
+  refs: 48
+- Multi-scalar phenomenology of biscuit engagement, or why people choose biscuits at three o'clock: the room laughed, then grew serious.
+  it: Fenomenologia multi-scalare dell'interazione col biscotto, o perché la gente sceglie i biscotti alle tre: la sala rise, poi si fece seria.
+  refs: 48
+- Questions. A journalist asked whether cats preferred Mozart; Park said the interval had included zero, and pointed at the abstract.
+  it: Domande. Un giornalista chiese se i gatti preferissero Mozart; Park disse che l'intervallo aveva incluso lo zero, e indicò l'abstract.
+  refs: 43
+- A student asked for the bee dance in one sentence; Park gave the empty true sentence, then the long one, and left the diagram unplugged on purpose.
+  it: Uno studente chiese la danza delle api in una frase; Park diede la frase vera e vuota, poi quella lunga, e lasciò il diagramma staccato apposta.
+  refs: 44
+- Someone praised Vance without caveat; Park asked what warrant would justify "indispensable," and what would not.
+  it: Qualcuno lodò Vance senza riserve; Park chiese quale garanzia giustificherebbe «indispensabile», e quale no.
+  refs: 47
+- Finch, at the back, confessed that his phenomenology had been mostly hunger, and that the first digestive had failed at three seconds.
+  it: Finch, in fondo, confessò che la sua fenomenologia era stata per lo più fame, e che il primo digestive aveva ceduto a tre secondi.
+  refs: 48
+- Adeyemi asked only that the tote-bag slogan stay in a footnote and the indicative stay with the fire.
+  it: Adeyemi chiese soltanto che lo slogan da borsa di tela restasse in una nota e l'indicativo restasse con l'incendio.
+  refs: 46
+- Park closed: hedge in the abstract, explain the process, foot the doubt, separate the three inks, match praise to warrant, translate the jargon before the panel wakes.
+  it: Park chiuse: formula cautelativa nell'abstract, spiega il processo, metti in nota il dubbio, separa i tre inchiostri, fai coincidere la lode con la garanzia, traduci il gergo prima che la commissione si svegli.
+  refs: 43 44 45 46 47 48
+- Six tools, one wet Tuesday of a conference, and a slide that never loaded.
+  it: Sei strumenti, un martedì bagnato di conferenza, e una diapositiva che non si caricò mai.
+  refs: 43 44 45 46 47 48
+- The stewards put the kettle on; someone opened a custard cream; nobody claimed peer review for the crumbs.
+  it: Gli steward misero su il bollitore; qualcuno aprì un custard cream; nessuno rivendicò la revisione tra pari per le briciole.
+  refs: 44 48
+
+notes.it:
+Non c'è una regola nuova. La settimana ha messo in ordine l'inglese del sapere: abstract e formule cautelative, spiegazione chiara, note a piè, prova e dubbio, lode calibrata, gergo da smontare. Se due mosse ti sembrano la stessa, guardale in tabella.
+
+1. Abstract e hedging (lezione 43). L'abstract frena (suggested, may, modest, subset, caution, would be required); il giornale stampa Confirm. Nel ripasso Park riparte da quelle sei parole.
+
+| Formula | Lavoro | Lezione |
+|---|---|---|
+| suggested / may | claim non chiusa | 43 |
+| modest / subset | riduce la portata | 43 |
+| caution / would be required | frena la prossima mossa | 43 |
+| Confirm / proved | verbo da tabloid | 43 |
+| interval included zero | cifra onesta | 43 |
+
+2. Spiegare (lezione 44). Signposting, processo a pezzi, «true and empty» vs passi nominati. Diagramma staccato: la voce deve reggere senza di esso.
+
+| Mossa | Effetto | Lezione |
+|---|---|---|
+| one job only | contratto col pubblico | 44 |
+| first / then (round vs waggle) | ordine del processo | 44 |
+| on average | limite onesto | 44 |
+| map, not the territory | avviso divulgativo | 44 |
+| so, basically (rifiutato) | rifiuto della riduzione vuota | 44 |
+
+3. Note a piè (lezione 45). Cantina: prova, digressione, confessione. Non magazzino. Non nominalizzazione al posto della prova.
+
+| Tipo di nota | Lavoro | Lezione |
+|---|---|---|
+| citazione da verificare | rischio e check | 45 |
+| digressione (archivio umido) | trama sotto la dignità | 45 |
+| confessione (I have not seen...) | dubbio sotto la riga | 45 |
+| warehouse (50 riferimenti) | quantità al posto del giudizio | 45 |
+| più lunga del paragrafo | saggio nascosto | 45 |
+
+4. Prova e dubbio (lezione 46). Tre inchiostri; indicativo per il fuoco; lampada come voce datata.
+
+| Livello | Cosa fa | Lezione |
+|---|---|---|
+| what the source says | fatto documentato | 46 |
+| what it could mean | ipotesi non promossa | 46 |
+| what you wish it meant | desiderio tenuto fuori | 46 |
+| rumour with a date stamp | memoria tarda etichettata | 46 |
+| absence as boundary | lacuna, non terreno rilevato | 46 |
+
+5. Lode calibrata (lezione 47). Strong / thinner / limits not wrecks / warrant.
+
+| Valutazione | Uso onesto | Lezione |
+|---|---|---|
+| clearest / particularly strong | lode localizzata | 47 |
+| thinner / stops short | limite interno | 47 |
+| limits, not wrecks | calibrazione | 47 |
+| match the warrant | niente transforms senza prova | 47 |
+| recommended with caveats | formula da review | 47 |
+
+6. Gergo e plain English (lezione 48). Titolo gonfiato; casella obbligatoria; fame sotto la fenomenologia.
+
+| Gergo | Piano | Lezione |
+|---|---|---|
+| multi-scalar phenomenology | how office biscuits work | 48 |
+| operationalise... immersion | test how biscuits soften | 48 |
+| stakeholder toolkits | notes for staff and Facilities | 48 |
+| plain English box | la pagina da finanziare | 48 |
+| phenomenology... hunger | sticky note sotto il grant | 48 |
+
+In ordine: frena la claim, spiega i passi, metti il dubbio in cantina, separa gli inchiostri, loda quanto le prove permettono, traduci il modulo. Il bollitore e il custard cream chiudono sul gesto ordinario dopo una settimana di sapere.
+
+tasks:
+- Good afternoon. I have two minutes and one job: to explain how a kettle boil is not the same as tea ready to drink. First you fill the kettle and switch it on; that is heat, not infusion. Then you warm the pot, add leaves, and pour water just off the boil. You wait three to four minutes on average; shorter leaves the cup thin, longer risks bitterness. I have not timed every household, and this talk is a map, not your kitchen. Strongest claim I can make: hot water plus leaves plus time. I refuse "transforms your mornings." Questions that do not begin with "so, basically"?
+  task.it: Presenta un argomento a tua scelta in inglese, intorno alle 120-150 parole (circa due minuti a voce alta). Usa almeno tre mosse della settimana: un hedge o limite, una spiegazione a passi, e o una nota-confessione («I have not seen...») o una lode/riserva calibrata. Niente gergo da grant senza traduzione immediata. Registro da talk breve, chiaro.
+  rubric.it: C'è un compito unico dichiarato; i passi o la claim sono chiari; almeno un limite onesto; il registro è parlato-chiaro, non tabloid né multi-scalar; si sente una chiusura netta, non uno slogan da borsa di tela.

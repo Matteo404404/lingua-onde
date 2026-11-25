@@ -413,7 +413,7 @@ pub fn downloading(status: &str) -> bool {
     status.ends_with('…')
 }
 
-fn curl(url: &str, to: &Path) -> Result<(), String> {
+pub fn curl(url: &str, to: &Path) -> Result<(), String> {
     let curl = find_program("curl").ok_or(tr("curl is needed to download voices"))?;
     let ok = command(curl)
         .args(["-L", "--fail", "--silent", "--show-error", "-o"])

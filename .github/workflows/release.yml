@@ -53,6 +53,9 @@ jobs:
         run: echo "MACOSX_DEPLOYMENT_TARGET=11.0" >> "$GITHUB_ENV"
       - name: Build
         run: cargo build --release --locked
+        env:
+          # the tag: the app compares it with the latest release to offer updates
+          LINGUA_ONDE_VERSION: ${{ github.ref_type == 'tag' && github.ref_name || '' }}
       - name: Package
         shell: bash
         run: |
@@ -69,6 +72,14 @@ jobs:
               mkdir -p "$app/MacOS" "$app/Resources"
               cp target/release/lingua_onde "$app/MacOS/lingua_onde"
               chmod +x "$app/MacOS/lingua_onde"
+              # the Finder and Dock icon, every size from the 1024 px picture
+              set="$RUNNER_TEMP/lingua-onde.iconset"
+              mkdir -p "$set"
+              for s in 16 32 128 256 512; do
+                sips -z $s $s packaging/icon-1024.png --out "$set/icon_${s}x${s}.png" >/dev/null
+                sips -z $((s*2)) $((s*2)) packaging/icon-1024.png --out "$set/icon_${s}x${s}@2x.png" >/dev/null
+              done
+              iconutil -c icns "$set" -o "$app/Resources/lingua-onde.icns"
               ver="${GITHUB_REF_NAME#v}"
               cat > "$app/Info.plist" <<PLIST
           <?xml version="1.0" encoding="UTF-8"?>
@@ -78,6 +89,7 @@ jobs:
             <key>CFBundleDisplayName</key><string>Lingua Onde</string>
             <key>CFBundleIdentifier</key><string>io.github.matteo404404.lingua-onde</string>
             <key>CFBundleExecutable</key><string>lingua_onde</string>
+            <key>CFBundleIconFile</key><string>lingua-onde</string>
             <key>CFBundlePackageType</key><string>APPL</string>
             <key>CFBundleShortVersionString</key><string>${ver}</string>
             <key>CFBundleVersion</key><string>${ver}</string>

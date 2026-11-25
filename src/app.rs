@@ -57,6 +57,8 @@ pub struct App {
     /// The back of each built-in course: grammar, indexes, words.
     pub appendices: Vec<crate::appendix::Appendix>,
     pub appendix_ui: crate::appendix::AppendixState,
+    pub updater: crate::update::Updater,
+    restarting: bool,
 }
 
 /// The widest a screen's text column grows; wider windows centre it.
@@ -105,7 +107,13 @@ impl App {
             key_open: false,
             appendices: crate::appendix::builtin(),
             appendix_ui: Default::default(),
+            updater: Default::default(),
+            restarting: false,
         };
+        crate::update::clean_up();
+        if app.shot.is_none() {
+            app.updater.check(ctx);
+        }
         if let Some(n) = app.saved.notice.take() {
             app.say(n);
         }
@@ -1841,6 +1849,8 @@ impl App {
         });
         ui.add_space(4.0);
 
+        self.updates_card(ui);
+
         theme::card().show(ui, |ui| {
             ui.set_width(ui.available_width());
             ui.label(bold(tr("Your files")).size(18.0));
@@ -1989,6 +1999,80 @@ pub fn reader_part(key: &str, base: &str) -> String {
     out
 }
 
+impl App {
+    /// "A new version is available", above every screen but a lesson.
+    fn update_banner(&mut self, ui: &mut egui::Ui) {
+        use crate::update::State;
+        let state = self.updater.state();
+        if self.updater.hidden || matches!(state, State::Idle | State::Current) {
+            return;
+        }
+        theme::tinted(if matches!(state, State::Failed(_)) { WARN_SOFT } else { ACCENT_SOFT }).show(ui, |ui| {
+            ui.set_width(ui.available_width());
+            ui.horizontal_wrapped(|ui| match &state {
+                State::Available(tag) => {
+                    ui.label(medium(trf("A new version of Lingua Onde is available: {0}", &[tag])));
+                    if ui.add(theme::primary(tr("Update now"))).clicked() {
+                        self.updater.install(tag.clone(), ui.ctx());
+                    }
+                    if ui.add(theme::ghost(tr("What's new"))).clicked() {
+                        ui.ctx().open_url(egui::OpenUrl::new_tab(crate::update::page(tag)));
+                    }
+                    if ui.add(theme::ghost(tr("Later"))).clicked() {
+                        self.updater.hidden = true;
+                    }
+                }
+                State::Installing(tag) | State::Ready(tag) => {
+                    ui.spinner();
+                    ui.label(medium(trf("Updating to {0}… The app restarts by itself, and your progress stays.", &[tag])));
+                }
+                State::Failed(e) => {
+                    ui.label(RichText::new(e).color(BAD));
+                    if ui.add(theme::secondary(tr("Download page"))).clicked() {
+                        ui.ctx().open_url(egui::OpenUrl::new_tab(format!("https://github.com/{}/releases/latest", "Matteo404404/lingua-onde")));
+                    }
+                    if ui.add(theme::ghost(tr("Later"))).clicked() {
+                        self.updater.hidden = true;
+                    }
+                }
+                State::Idle | State::Current => {}
+            });
+        });
+        ui.add_space(8.0);
+    }
+
+    /// Settings: this version, and a check on request.
+    fn updates_card(&mut self, ui: &mut egui::Ui) {
+        use crate::update::{State, current};
+        theme::card().show(ui, |ui| {
+            ui.set_width(ui.available_width());
+            ui.label(bold(tr("Updates")).size(18.0));
+            let Some(version) = current() else {
+                ui.label(muted(tr("Built from source: update with git pull and cargo build.")).size(14.0));
+                return;
+            };
+            ui.label(muted(trf("Version {0}. The app looks for a new version each time it starts; updating keeps your progress.", &[&version])).size(14.0));
+            ui.add_space(4.0);
+            ui.horizontal(|ui| {
+                if ui.add(theme::secondary(tr("Check for updates"))).clicked() {
+                    self.updater.hidden = false;
+                    self.updater.check(ui.ctx());
+                }
+                match self.updater.state() {
+                    State::Current => {
+                        theme::pill(ui, tr("Up to date ✔"), GOOD, GOOD_SOFT);
+                    }
+                    State::Available(tag) => {
+                        ui.label(trf("{0} is available", &[&tag]));
+                    }
+                    _ => {}
+                }
+            });
+        });
+        ui.add_space(4.0);
+    }
+}
+
 pub fn open_path(p: &std::path::Path) {
     let prog = if cfg!(windows) {
         "explorer"
@@ -2059,14 +2143,17 @@ impl eframe::App for App {
             screen => {
                 egui::ScrollArea::vertical().auto_shrink([false; 2]).show(ui, |ui| {
                     ui.add_space(10.0);
-                    theme::page(ui, PAGE, |ui| match screen {
-                        Screen::Home => self.home(ui),
-                        Screen::Courses => self.courses_screen(ui),
-                        Screen::Review => self.review_screen(ui),
-                        Screen::Editor => self.editor_screen(ui),
-                        Screen::Settings => self.settings_screen(ui),
-                        Screen::Appendix => self.appendix_screen(ui),
-                        Screen::Study => {}
+                    theme::page(ui, PAGE, |ui| {
+                        self.update_banner(ui);
+                        match screen {
+                            Screen::Home => self.home(ui),
+                            Screen::Courses => self.courses_screen(ui),
+                            Screen::Review => self.review_screen(ui),
+                            Screen::Editor => self.editor_screen(ui),
+                            Screen::Settings => self.settings_screen(ui),
+                            Screen::Appendix => self.appendix_screen(ui),
+                            Screen::Study => {}
+                        }
                     });
                     ui.add_space(24.0);
                 });
@@ -2079,6 +2166,15 @@ impl eframe::App for App {
 
         if self.dirty && self.last_save.elapsed() > Duration::from_secs(5) {
             self.save_now();
+        }
+
+        // The new build is in place: save, start it, close this one.
+        if matches!(self.updater.state(), crate::update::State::Ready(_)) && !self.restarting {
+            self.restarting = true;
+            self.stop_audio();
+            self.save_now();
+            crate::update::restart();
+            ctx.send_viewport_cmd(egui::ViewportCommand::Close);
         }
 
         // --screenshot: draw ~120 frames, save the picture, close.

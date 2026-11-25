@@ -35,6 +35,12 @@ No programming tools needed. Lessons and fonts are inside the app. Voices
 download from the app the first time you need them (that step uses `curl`
 and `tar`, which are already on Linux, macOS and Windows 10).
 
+Updates install themselves (from v1.4.0): when a new version is out, the app
+says so at the top of the screen; "Update now" downloads it, puts it in place
+of the old one and restarts. Your progress is kept. Settings, Updates shows
+the version and checks on request. Versions before v1.4.0 have to be
+downloaded by hand once.
+
 The downloads below exist once a version is published on
 [Releases](https://github.com/Matteo404404/lingua-onde/releases). Until that
 first release, use [Build from source](#build-from-source).

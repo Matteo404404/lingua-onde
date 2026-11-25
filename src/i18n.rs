@@ -114,6 +114,7 @@ mod tests {
         ("session.rs", include_str!("session.rs")),
         ("store.rs", include_str!("store.rs")),
         ("theme.rs", include_str!("theme.rs")),
+        ("update.rs", include_str!("update.rs")),
     ];
 
     /// The string literals passed straight to `tr(`, `trf(` and `plural(`

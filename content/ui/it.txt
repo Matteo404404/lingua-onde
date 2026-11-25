@@ -1317,3 +1317,52 @@ Padronanza
 
 second-wave lessons to do
 lezioni da riprendere
+
+# Updates
+A new version of Lingua Onde is available: {0}
+È disponibile una nuova versione di Lingua Onde: {0}
+
+Update now
+Aggiorna ora
+
+What's new
+Novità
+
+Later
+Più tardi
+
+Updating to {0}… The app restarts by itself, and your progress stays.
+Aggiornamento a {0}… L'app si riavvia da sola e i tuoi progressi restano.
+
+Download page
+Pagina di download
+
+Updates
+Aggiornamenti
+
+Built from source: update with git pull and cargo build.
+Compilata dai sorgenti: aggiorna con git pull e cargo build.
+
+Version {0}. The app looks for a new version each time it starts; updating keeps your progress.
+Versione {0}. L'app cerca una nuova versione a ogni avvio; l'aggiornamento conserva i tuoi progressi.
+
+Check for updates
+Cerca aggiornamenti
+
+Up to date ✔
+Aggiornata ✔
+
+{0} is available
+È disponibile la {0}
+
+Could not update: {0}
+Impossibile aggiornare: {0}
+
+No ready-made build for this computer
+Non c'è una versione pronta per questo computer
+
+This copy is not an installed app; download the new version from the release page
+Questa copia non è un'app installata: scarica la nuova versione dalla pagina della release
+
+the download is incomplete
+il download è incompleto

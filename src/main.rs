@@ -12,6 +12,7 @@ mod practice;
 mod session;
 mod store;
 mod theme;
+mod update;
 
 use std::path::PathBuf;
 
@@ -63,6 +64,11 @@ fn main() -> eframe::Result {
         .with_app_id("lingua-onde")
         .with_inner_size(size)
         .with_min_inner_size([900.0, 600.0]);
+    // The window and taskbar icon; the Windows exe and the macOS bundle carry
+    // theirs from the build (build.rs, release.yml).
+    if let Ok(icon) = eframe::icon_data::from_png_bytes(include_bytes!("../assets/icon-256.png")) {
+        viewport = viewport.with_icon(icon);
+    }
     if screenshot.is_some() {
         // A check must never steal focus from what the person is doing.
         viewport = viewport.with_active(false);

@@ -1,161 +1,1931 @@
 course: vi
 stage: foundation
+bases: es
 
 == 76 B2
-title: Mở quán cà phê
-title.it: Aprire un caffè
-title.en: Opening a café
-title.es: Abrir una cafetería
+numeral: Bài thứ bảy mươi sáu
+title: Nghỉ cho khô
+title.es: Descanso para secarse
 
 dialogue:
-- Con định bỏ việc ở ngân hàng để mở quán cà phê thật à? Con đã nghĩ kỹ chưa?
-  it: Vuoi davvero lasciare il lavoro in banca per aprire un caffè? Ci hai pensato bene?
-  en: Are you really planning to quit your bank job to open a café? Have you thought it through?
-  es: ¿De verdad piensas dejar el trabajo en el banco para abrir una cafetería? ¿Lo has pensado bien?
-- Con nghĩ kỹ rồi, bố ạ. Làm ngân hàng lương cao thật, nhưng ngày nào con cũng thấy mình như một cái máy.
-  it: Ci ho pensato bene, papà. In banca si guadagna bene, è vero, ma ogni giorno mi sento una macchina.
-  en: I have, Dad. The pay at the bank is good, it's true, but every day I feel like a machine.
-  es: Sí, papá, lo he pensado bien. En el banco se gana bien, es verdad, pero cada día me siento como una máquina.
-- Thời buổi này có việc ổn định là quý lắm rồi. Con đừng đứng núi này trông núi nọ.
-  it: Di questi tempi un lavoro sicuro è già una fortuna. Non credere che l'erba del vicino sia sempre più verde (stare su questo monte e guardare quell'altro).
-  en: These days a steady job is worth a great deal. Don't go thinking the grass is greener (stand on this mountain, gaze at that one).
-  es: Hoy en día un trabajo estable vale oro. No te creas que la hierba del vecino es más verde (estar en este monte y mirar aquel).
-- Bố lại lo bò trắng răng rồi! Con đã để dành tiền ba năm nay, và con có kế hoạch rõ ràng.
-  it: Ecco che ti preoccupi per niente (temere che la vacca abbia i denti bianchi)! Metto da parte soldi da tre anni e ho un piano preciso.
-  en: There you go again, worrying over nothing (fear the cow's teeth will be white)! I've been saving for three years and I have a clear plan.
-  es: ¡Ya estás otra vez preocupándote por nada (temer que la vaca tenga los dientes blancos)! Llevo tres años ahorrando y tengo un plan claro.
-- Kế hoạch trên giấy thì ai chẳng có. Mở quán thì dễ, giữ được quán mới khó. Bố thấy mười quán mở ra thì tám quán đóng cửa.
-  it: Piani sulla carta ne hanno tutti. Aprire un locale è facile, il difficile è tenerlo aperto. Da quel che vedo, su dieci che aprono otto chiudono.
-  en: Everyone has a plan on paper. Opening a place is easy; keeping it going is the hard part. From what I've seen, of every ten that open, eight close.
-  es: Planes sobre el papel los tiene cualquiera. Abrir un local es fácil; lo difícil es mantenerlo. Por lo que veo, de cada diez que abren, cierran ocho.
-- Bác ơi, cháu xin phép góp một ý được không ạ?
-  it: Signor Hùng, mi permette di dire la mia?
-  en: Mr Hùng, may I put in a word?
-  es: Señor Hùng, ¿me permite dar mi opinión?
-- Cháu cứ nói.
-  it: Dimmi pure.
-  en: Go ahead.
-  es: Adelante, habla.
-- Cháu thấy bác nói có lý, rủi ro là có thật. Nhưng chị Lan đâu phải kiểu nước đến chân mới nhảy. Chị ấy chuẩn bị từ lâu rồi, lại còn học pha chế suốt một năm nay.
-  it: Secondo me lei ha ragione, il rischio c'è davvero. Ma Lan non è certo il tipo che si muove all'ultimo momento (saltare solo quando l'acqua arriva ai piedi). Si prepara da molto tempo, e per di più studia da barista da un anno.
-  en: I think you have a point, the risk is real. But Lan is hardly the type to leave things to the last minute (jump only when the water reaches your feet). She's been preparing for a long time, and she's been training as a barista for a whole year as well.
-  es: Creo que usted tiene razón, el riesgo es real. Pero Lan no es de las que lo dejan todo para el último momento (saltar solo cuando el agua llega a los pies). Lleva mucho tiempo preparándose, y encima lleva un año formándose como barista.
-- Ừ thì... bố không cấm. Nhưng thất bại thì đừng có về khóc với bố đấy nhé.
-  it: E va bene... non te lo proibisco. Ma se va male, non venire a piangere da me, eh.
-  en: Well, all right... I won't forbid it. But if it fails, don't come crying to me.
-  es: Bueno, vale... no te lo prohíbo. Pero si sale mal, no vengas a llorarme, ¿eh?
-- Con hứa. Mà khi quán khai trương, bố sẽ là vị khách đầu tiên, được uống cà phê miễn phí cả đời!
-  it: Promesso. E quando il locale aprirà, sarai il primo cliente, con il caffè gratis a vita!
-  en: I promise. And when the café opens, you'll be the very first customer, with free coffee for life!
-  es: Te lo prometo. Y cuando abra la cafetería, serás el primer cliente, ¡con café gratis de por vida!
+- Mặc dù mưa, chúng tôi vẫn đến.
+  es: Aunque llovía, nosotros vinimos igual. (aunque lluvia, nosotros todavía llegar)
+- Ướt hết rồi!
+  es: ¡Empapados del todo!
+- Dù ướt, vẫn hét.
+  es: Aunque mojados, seguimos gritando.
+- Hét to quá!
+  es: ¡Qué griterío!
+- Đúng. Cả đám đông hét.
+  es: Eso es. Toda la multitud grita.
+- Tuy vậy, thua.
+  es: Aun así, perdimos.
+- Thua à?
+  es: ¿Perdimos?
+- Thua. Nhưng vui!
+  es: Perdimos. ¡Pero qué bien!
+- Dù thua, vẫn là ngày vui nhất năm.
+  es: Aunque perdimos, sigue siendo el día más alegre del año.
+- Thế còn những ngày khác?
+  es: ¿Y los demás días?
+- Những ngày khác… nghỉ cho khô.
+  es: Los demás días… descanso para secarse.
+- Khô rồi thì sao?
+  es: ¿Y cuando ya estemos secos?
+- Thì lại đến. Mặc dù mưa cũng đến!
+  es: Pues volvemos. ¡Aunque llueva, también vamos!
+- Dù thua cũng hét!
+  es: ¡Aunque perdamos, también gritamos!
 
-notes.it:
-1. Tre thành ngữ, espressioni fisse che entrano nella frase come parole
-   qualsiasi. đứng núi này trông núi nọ "stare su questo monte e guardare
-   quell'altro", non accontentarsi mai; lo bò trắng răng "temere che la
-   vacca abbia i denti bianchi", preoccuparsi per nulla; nước đến chân mới
-   nhảy "saltare solo quando l'acqua arriva ai piedi", ridursi all'ultimo
-   momento.
-2. Le domande retoriche affermano con forza. ai chẳng có "chi non ce l'ha?",
-   cioè "ce l'hanno tutti"; đâu phải "non è mica", chị Lan đâu phải kiểu
-   ... "Lan non è mica il tipo che ...". In giữ được quán mới khó, mới
-   davanti al predicato indica il punto davvero difficile, "il difficile è
-   tenerlo aperto". thật dopo l'aggettivo concede un punto prima di
-   contraddirlo, lương cao thật, nhưng ...
-3. Registro in famiglia. Lan usa con ("figlio, figlia") per sé e bố per il
-   padre, e addolcisce con bố ạ; il padre parla di sé come bố. Luca, ospite
-   in una discussione di famiglia, chiede il permesso con xin phép e góp một
-   ý "contribuire con un'idea", e chiude con ạ. Cháu cứ nói "parla pure" è
-   il permesso del più anziano.
-4. Particelle di tono. lại ... rồi! "ci risiamo", con un filo di fastidio;
-   ừ thì ... concede a malincuore; đừng có ... đấy nhé è un avvertimento
-   affettuoso ma serio; lại còn "e per giunta" aggiunge un argomento.
-5. Al Sud il padre si chiama ba, che è anche il numero "tre", ba năm nay "da
-   tre anni". Khai trương 開張 è l'inaugurazione di un negozio, spesso
-   fissata in un giorno di buon auspicio. Il classificatore vị davanti a
-   khách "cliente, ospite" aggiunge rispetto, vị khách đầu tiên.
-notes.en:
-1. Three thành ngữ, fixed expressions slotted into a sentence like any other
-   words. đứng núi này trông núi nọ "stand on this mountain, gaze at that
-   one", never be content; lo bò trắng răng "fear the cow's teeth will be
-   white", worry over nothing; nước đến chân mới nhảy "jump only when the
-   water reaches your feet", leave things to the last minute.
-2. Rhetorical questions make strong statements. ai chẳng có "who doesn't
-   have one?", meaning everyone does; đâu phải "it's hardly as if", chị Lan
-   đâu phải kiểu ... "Lan is hardly the type who ...". In giữ được quán mới
-   khó, mới before the predicate marks the truly hard part, "keeping it
-   going is the hard part". thật after an adjective concedes a point before
-   contradicting it, lương cao thật, nhưng ...
-3. Register in the family. Lan uses con ("child") for herself and bố for her
-   father, softening with bố ạ; he calls himself bố. Luca, a guest in a
-   family argument, asks permission with xin phép and góp một ý "contribute
-   an idea", and ends with ạ. Cháu cứ nói "go ahead" is the elder's
-   permission.
-4. Tone particles. lại ... rồi! "here we go again", with mild irritation;
-   ừ thì ... concedes reluctantly; đừng có ... đấy nhé is an affectionate but
-   serious warning; lại còn "and on top of that" adds an argument.
-5. In the South "father" is ba, which is also the number "three", ba năm nay
-   "for three years now". Khai trương 開張 is a shop's opening, often set on
-   an auspicious day. The classifier vị before khách "guest, customer" adds
-   respect, vị khách đầu tiên.
 notes.es:
-1. Tres thành ngữ, expresiones fijas que se insertan en la frase como
-   cualquier otra palabra. đứng núi này trông núi nọ "estar en este monte y
-   mirar aquel", no conformarse nunca; lo bò trắng răng "temer que la vaca
-   tenga los dientes blancos", preocuparse por nada; nước đến chân mới nhảy
-   "saltar solo cuando el agua llega a los pies", dejarlo todo para el
-   último momento.
-2. Las preguntas retóricas afirman con fuerza. ai chẳng có "¿quién no lo
-   tiene?", es decir, "lo tiene todo el mundo"; đâu phải "no es que", chị
-   Lan đâu phải kiểu ... "Lan no es de las que ...". En giữ được quán mới
-   khó, mới delante del predicado señala justamente lo difícil, "lo difícil
-   es mantenerlo". thật después del adjetivo concede un punto antes de
-   rebatirlo, lương cao thật, nhưng ...
-3. Registro en familia. Lan usa con ("hijo, hija") para sí y bố para su
-   padre, y suaviza con bố ạ; el padre habla de sí mismo como bố. Luca,
-   invitado en una discusión familiar, pide permiso con xin phép y góp một ý
-   "aportar una idea", y cierra con ạ. Cháu cứ nói "habla, adelante" es el
-   permiso del mayor.
-4. Partículas de tono. lại ... rồi! "ya estamos otra vez", con cierto
-   fastidio; ừ thì ... concede a regañadientes; đừng có ... đấy nhé es un
-   aviso cariñoso pero serio; lại còn "y encima" añade un argumento.
-5. En el Sur al padre se le llama ba, que es también el número "tres", ba
-   năm nay "desde hace tres años". Khai trương 開張 es la inauguración de un
-   negocio, a menudo fijada en un día propicio. El clasificador vị delante
-   de khách "cliente, invitado" añade respeto, vị khách đầu tiên.
+1. Mặc dù … (nhưng / vẫn): aunque… Mặc dù mưa, chúng tôi vẫn đến = aunque llovía, vinimos igual. Dù … (cũng / vẫn): forma más corta del mismo matiz. Dù ướt, vẫn hét = aunque mojados, gritamos. No hay subjuntivo: el verbo no cambia.
+2. Chúng tôi: nosotros (el grupo; a menudo sin incluir a quien escucha). Frente a chúng ta (tú y yo, lección 8) y mình (confianza, lección 46). Aquí dos aficionados hablan de su bando.
+3. Tuy vậy: aun así / sin embargo (enlace de concesión). Tuy vậy, thua = aun así, perdimos. Cierra un contraste: llovió, gritamos… y perdimos.
+4. Hét: gritar / corear. Thua: perder (un partido). Khô: seco / secarse. Nghỉ cho khô = descansar para secarse (cho + resultado, como para + infinitivo). Vẫn (lección 37) refuerza «igual / todavía».
+5. Dù thua, vẫn là… / Dù thua cũng hét: la concesión puede cerrar con vẫn o con cũng. El año (năm) y những ngày khác (những, lección 32) enmarcan el chiste: el mejor día… y los otros, a secarse.
 
 ex1:
-- Anh ấy lúc nào cũng đứng núi này trông núi nọ.
-  it: Lui non è mai contento di quello che ha.
-  en: He's never happy with what he's got.
-  es: Él nunca está contento con lo que tiene.
-- Em đừng lo bò trắng răng, mọi việc sẽ ổn thôi.
-  it: Non preoccuparti per niente, andrà tutto bene.
-  en: Don't worry over nothing, everything will be fine.
-  es: No te preocupes por nada, todo saldrá bien.
-- Sinh viên hay nước đến chân mới nhảy.
-  it: Gli studenti tendono a ridursi all'ultimo momento.
-  en: Students tend to leave everything to the last minute.
-  es: Los estudiantes suelen dejarlo todo para el último momento.
-- Cháu xin phép góp một ý được không ạ?
-  it: Posso permettermi di dire la mia?
-  en: May I offer a suggestion?
-  es: ¿Me permite hacer un comentario?
+- Mặc dù mưa, anh ấy vẫn đến.
+  es: Aunque llovía, él vino igual.
+- Dù ướt, chúng tôi vẫn hét.
+  es: Aunque mojados, nosotros seguimos gritando.
+- Tuy vậy, chúng tôi thua.
+  es: Aun así, perdimos.
+- Dù thua, vẫn là ngày vui.
+  es: Aunque perdimos, sigue siendo un día alegre.
+- Những ngày khác nghỉ cho khô.
+  es: Los demás días, descanso para secarse.
 
 ex2:
-- Con nghĩ [kỹ] [rồi], bố ạ.
-  it: Ci ho pensato bene, papà.
-  en: I've thought it through, Dad.
-  es: Lo he pensado bien, papá.
-- Kế hoạch trên giấy thì [ai] [chẳng] có.
-  it: Piani sulla carta ne hanno tutti.
-  en: Everyone has a plan on paper.
-  es: Planes sobre el papel los tiene cualquiera.
-- Mở quán thì dễ, giữ được quán [mới] khó.
-  it: Aprire un locale è facile, il difficile è tenerlo aperto.
-  en: Opening a place is easy; keeping it going is the hard part.
-  es: Abrir un local es fácil; lo difícil es mantenerlo.
-- Bố lại lo [bò] trắng [răng] rồi!
-  it: Ecco che ti preoccupi per niente!
-  en: There you go again, worrying over nothing!
-  es: ¡Ya estás otra vez preocupándote por nada!
+- [Mặc dù] mưa, chúng tôi [vẫn] đến.
+  es: Aunque llovía, nosotros vinimos igual.
+- Dù [ướt], vẫn [hét]. Hét to quá!
+  es: Aunque mojados, seguimos gritando. ¡Qué griterío!
+- [Tuy vậy], [thua]. Thua. Nhưng vui!
+  es: Aun así, perdimos. Perdimos. ¡Pero qué bien!
+- Dù thua, vẫn là ngày vui nhất [năm].
+  es: Aunque perdimos, sigue siendo el día más alegre del año.
+- Những ngày khác… [nghỉ] cho [khô].
+  es: Los demás días… descanso para secarse.
+
+culture.es:
+El fútbol de club en Vietnam no se cancela por un poco de lluvia: el campo se pone pesado, la gente abre el paraguas o se tapa con el impermeable, y el coro sigue. En el norte, de temporada húmeda, ver un partido empapado es casi parte del ritual. Perder duele; volver la semana siguiente, ya seco… también.
+
+== 77 B2
+kind: revision
+numeral: Bài thứ bảy mươi bảy
+title: Ôn tập
+title.es: Repaso
+
+dialogue:
+- Tóc ngắn phía sau đẹp nhỉ?
+  es: El pelo corto detrás te queda bien, ¿eh?
+  refs: 15 71
+- Lần này anh nhờ thợ cắt.
+  es: Esta vez se lo encargué al barbero.
+  refs: 38 71
+- Trước anh tự cắt. Em nhìn thấy!
+  es: Antes te lo cortabas tú. ¡Yo lo veía!
+  refs: 71
+- Đúng. Nhanh lên kẻo lỡ xe buýt!
+  es: Eso es. ¡Date prisa o perdemos el autobús!
+  refs: 62 72
+- Mang chìa khóa kẻo không vào được nhà.
+  es: Lleva las llaves, no sea que no podamos entrar.
+  refs: 64 72
+- Hôm nay mình định đi bảo tàng.
+  es: Hoy pensábamos ir al museo.
+  refs: 8 51
+- Bảo tàng nghỉ lễ rồi!
+  es: ¡El museo está de fiesta!
+  refs: 74
+- Nếu biết thì mình đã ở nhà.
+  es: Si lo hubiéramos sabido, estaríamos en casa.
+  refs: 74
+- Thế thì làm gì?
+  es: Entonces ¿qué hacemos?
+  refs: 9 31
+- Mặc dù mưa, mình vẫn đi hét được!
+  es: ¡Aunque llueva, podemos ir a gritar!
+  refs: 76
+- Dù ướt cũng được, miễn là vui.
+  es: Aunque nos mojemos vale, siempre que sea divertido.
+  refs: 72 76
+- Về trước mười giờ nhé?
+  es: ¿Volvemos antes de las diez, vale?
+  refs: 50 72
+- Được. Trừ khi thua… thì về sớm hơn!
+  es: Vale. A menos que perdamos… ¡entonces volvemos antes!
+  refs: 72 76
+- Không những ướt mà còn thua thì về cho khô!
+  es: ¡Si no solo estamos mojados sino que además perdemos, volvemos a secarnos!
+  refs: 76
+- Vừa thua vừa vui… rồi nghỉ!
+  es: Perder y pasarlo bien a la vez… ¡y a descansar!
+  refs: 76
+
+notes.es:
+Otra semana y otra vez: nada de memorizar reglas. Esta lección solo ordena lo que ya has oído. Si un kẻo o un mặc dù te frenan, sigue: vuelven mañana.
+
+1. Condicionales y trừ khi / miễn là / kẻo (lecciones 72, 74).
+
+| Forma | Uso | Ejemplo |
+|---|---|---|
+| nếu + hecho | si… (condición real / cero) | Nếu bố về sớm… |
+| nếu … thì … đã … | si hubiera… (pasado irreal) | Nếu biết thì mình đã ở nhà. |
+| miễn là | siempre que / con tal de que | miễn là vui |
+| trừ khi | a menos que | Trừ khi thua… |
+| kẻo | no sea que / o (si no) | kẻo lỡ xe buýt |
+
+Sin subjuntivo: solo cambia la palabra delante; el verbo queda igual. Đáng lẽ (lección 62) sigue cerca cuando hay arrepentimiento.
+
+2. Quen / trở nên quen (lección 75).
+
+| Forma | Significado | Ejemplo |
+|---|---|---|
+| quen + nombre | acostumbrarse a… | chưa quen đồ ăn |
+| quen + verbo | estar acostumbrado a… | quen ăn ở bàn làm việc |
+| rồi cũng quen | ya te acostumbrarás | Rồi cũng quen. |
+| trở nên quen | volverse acostumbrado | sợ trở nên quen |
+| trước đây thường / bây giờ | antes solía… / ahora | trước đây thường ăn cơm Tây |
+
+3. Tự y nhờ … làm (lección 71).
+
+| Forma | Quién actúa | Ejemplo |
+|---|---|---|
+| tự + verbo | uno mismo | tự cắt tóc |
+| nhờ + persona + verbo | encargar a alguien | nhờ thợ cắt |
+| bảo + persona + verbo | decir a alguien que… | bảo thợ cắt |
+| đừng + … | no… (aviso) | đừng ngắn quá |
+
+Tự = sin intermediario; nhờ / bảo = alguien lo hace por ti.
+
+4. Concesión: mặc dù / dù (lección 76).
+
+| Forma | Cierre habitual | Ejemplo |
+|---|---|---|
+| mặc dù … vẫn / nhưng | aunque… igual… | Mặc dù mưa, vẫn đến. |
+| dù … cũng / vẫn | aunque… (más corto) | Dù ướt, vẫn hét. |
+| tuy vậy | aun así / sin embargo | Tuy vậy, thua. |
+
+La lluvia no cancela el partido ni la frase: la concesión abre el obstáculo y vẫn / cũng lo atraviesa.
+
+5. Enlaces: không những … mà còn, vừa … vừa (empiezan aquí).
+
+| Forma | Significado | Ejemplo |
+|---|---|---|
+| không những A mà còn B | no solo A sino también B | Không những ướt mà còn thua. |
+| vừa A vừa B | A y B a la vez | vừa thua vừa vui |
+
+Todavía no son el centro de una lección entera: hoy solo los oyes ordenados; vuelven con más peso.
+
+Semana cerrada. Un corte de pelo, el autobús, el museo cerrado… y a gritar bajo la lluvia. Mañana, lección 78.
+
+== 78 B2
+numeral: Bài thứ bảy mươi tám
+title: Sếp cũng cần
+title.es: El jefe también lo necesita
+
+dialogue:
+- Tôi mệt quá!
+
+  es: ¡Estás agotado!
+- Sao thế?
+  es: ¿Qué pasa?
+- Cái tôi cần là kỳ nghỉ.
+  es: Lo que necesito es unas vacaciones. (cosa yo necesitar ser período descanso)
+- Kỳ nghỉ?
+  es: ¿Vacaciones?
+- Đúng. Tôi xin nghỉ một tuần được không?
+  es: Eso es. ¿Puedo pedir una semana libre?
+- Được… nhưng chính anh xin thêm việc tuần trước!
+  es: Vale… ¡pero fuiste tú mismo quien pidió más trabajo la semana pasada! (vale… pero precisamente hermano pedir añadir trabajo semana anterior)
+- Xin thêm việc à?
+  es: ¿Pedí más trabajo?
+- Đúng. Anh xin làm thêm dự án mới.
+  es: Sí. Pediste hacer además el proyecto nuevo.
+- Đúng rồi. Nhưng bây giờ mệt nhoài.
+  es: Es verdad. Pero ahora estoy reventado.
+- Được. Anh nghỉ đi.
+  es: Vale. Tómate el descanso.
+- Cảm ơn anh!
+  es: ¡Gracias!
+- Nhưng tôi cũng cần kỳ nghỉ.
+  es: Pero yo también necesito vacaciones.
+- Anh cũng mệt à?
+  es: ¿Tú también estás cansado?
+- Mệt. Thế thì… anh làm thay tôi nhé?
+  es: Cansado. Entonces… ¿me cubres tú, vale?
+- Làm thay… trong kỳ nghỉ của tôi?!
+  es: ¿Cubrirte… ¡en mis vacaciones?!
+
+notes.es:
+1. Kỳ nghỉ: período de vacaciones / días libres (kỳ = período; nghỉ, lección 54). Cái tôi cần là kỳ nghỉ = lo que necesito es unas vacaciones. Cái + frase + là: énfasis «lo que… es…» (cleft). También oyes điều mà tôi cần là…: điều (lección 75) + mà relativo.
+2. Chính + persona / cosa: precisamente / justamente (énfasis). Chính anh xin thêm việc = fuiste tú mismo quien pidió más trabajo. No cambia el verbo; solo señala al «culpable» o al foco.
+3. Xin + verbo / + cosa (lección 38): pedir / solicitar. Xin nghỉ = pedir días libres. Xin thêm việc = pedir más trabajo (thêm, lección 39).
+4. Mệt nhoài: agotado / reventado (mệt, lección 3; nhoài refuerza el cansancio total). Más fuerte que mệt thôi.
+5. Làm thay: hacer en lugar de / cubrir a alguien (thay = en vez de). Anh làm thay tôi = tú me cubres / haces mi parte. Frente a nhờ (encargar, lección 71): aquí el «quién hace el trabajo del otro» es thay.
+6. El giro: el empleado pide vacaciones; el jefe se las da… y como él también se va, el empleado tiene que cubrirle en plenas vacaciones.
+
+ex1:
+- Cái chị ấy cần là kỳ nghỉ.
+  es: Lo que ella necesita es unas vacaciones.
+- Chính anh ấy xin thêm việc.
+  es: Fue él mismo quien pidió más trabajo.
+- Tôi xin nghỉ hai ngày được không?
+  es: ¿Puedo pedir dos días libres?
+- Hôm nay anh ấy mệt nhoài.
+  es: Hoy él está reventado.
+- Em làm thay chị được không?
+  es: ¿Puedes cubrirme?
+
+ex2:
+- [Cái] tôi cần [là] kỳ nghỉ.
+  es: Lo que necesito es unas vacaciones.
+- Được… nhưng [chính] anh [xin] thêm việc tuần trước!
+  es: Vale… ¡pero fuiste tú mismo quien pidió más trabajo la semana pasada!
+- Đúng rồi. Nhưng bây giờ [mệt nhoài].
+  es: Es verdad. Pero ahora estoy reventado.
+- Nhưng tôi cũng cần [kỳ nghỉ].
+  es: Pero yo también necesito vacaciones.
+- Thế thì… anh [làm thay] tôi nhé?
+  es: Entonces… ¿me cubres tú, vale?
+
+culture.es:
+En Vietnam el contrato suele incluir ngày phép (días de permiso anuales), pero en muchas oficinas pedir las vacaciones es otra batalla: el proyecto no espera, el jefe también «está cansado», y alguien tiene que cubrir. En papel el descanso existe; en la práctica se negocia, se aplaza… o se disfruta con el teléfono encendido.
+
+== 79 B2
+numeral: Bài thứ bảy mươi chín
+title: Càng nhiều càng vui
+title.es: Cuantos más, más alegre
+
+dialogue:
+- Sinh nhật em ở nhà nhé?
+  es: ¿Tu cumpleaños en casa, vale?
+- Đúng. Mời bạn bè đến.
+  es: Eso es. Invito a los amigos.
+- Bao nhiêu người?
+  es: ¿Cuánta gente?
+- Càng nhiều người càng vui!
+  es: ¡Cuanta más gente, más alegre! (cuanto mucho gente cuanto alegre)
+- Bánh thì sao?
+  es: ¿Y el pastel?
+- Bánh càng to khách càng thích.
+  es: Cuanto más grande el pastel, más les gusta a los invitados.
+- Khách ở đến mấy giờ?
+  es: ¿Hasta qué hora se quedan los invitados?
+- Không biết. Họ thích ở lâu.
+  es: No sé. Les gusta quedarse mucho rato.
+- Càng ngày càng đông à?
+  es: ¿Cada día más gente?
+- Đúng. Năm nay đông hơn năm ngoái.
+  es: Eso es. Este año más que el año pasado.
+- Thế còn ngủ?
+  es: ¿Y dormir?
+- Ngủ?
+  es: ¿Dormir?
+- Họ càng ở lâu mình càng ít ngủ!
+  es: ¡Cuanto más se quedan, menos dormimos nosotros!
+
+notes.es:
+1. Càng A càng B: cuanto más A, más B. Càng nhiều người càng vui = cuanta más gente, más alegre. Los dos càng marcan la proporción; el verbo no cambia.
+2. Càng ngày càng + adjetivo: cada día más… / cada vez más… Càng ngày càng đông = cada vez más gente. Năm ngoái: el año pasado (năm, lección 34; ngoái = pasado, del año).
+3. Khách: invitado / cliente (según el sitio). Aquí: los invitados de la fiesta. Ở lâu: quedarse mucho rato (lâu, lección 61 en đợi lâu).
+4. Ít ngủ: dormir poco (ít = poco, lección 25; ngủ, lección 6). Họ càng ở lâu mình càng ít ngủ = cuanto más se quedan, menos dormimos. El segundo càng puede ir con ít + verbo.
+5. Mời (invitar) + đến: llamar a casa. Bạn bè: amigos (bè refuerza bạn, lección 72). El giro: más gente, pastel más grande… y cuanto más se quedan, menos se duerme.
+
+ex1:
+- Càng nhiều bạn càng vui.
+  es: Cuantos más amigos, más alegre.
+- Bánh càng to khách càng thích.
+  es: Cuanto más grande el pastel, más les gusta a los invitados.
+- Họ càng ở lâu mình càng mệt.
+  es: Cuanto más se quedan, más nos cansamos.
+- Hà Nội càng ngày càng đông.
+  es: Hanói tiene cada día más gente.
+- Năm ngoái khách ít hơn.
+  es: El año pasado hubo menos invitados.
+
+ex2:
+- [Càng] nhiều người [càng] vui!
+  es: ¡Cuanta más gente, más alegre!
+- Bánh càng [to] khách càng [thích].
+  es: Cuanto más grande el pastel, más les gusta a los invitados.
+- Họ thích [ở lâu].
+  es: Les gusta quedarse mucho rato.
+- [Càng ngày càng] đông à? Đúng. Năm nay đông hơn [năm ngoái].
+  es: ¿Cada día más gente? Eso es. Este año más que el año pasado.
+- Họ càng ở lâu mình càng [ít ngủ].
+  es: Cuanto más se quedan, menos dormimos nosotros.
+
+culture.es:
+En Vietnam el cumpleaños en casa suele ser informal: amigos, familiares, un pastel (o varias cajas de bánh ngọt), fruta, a veces un plato caliente. Cada uno puede traer algo (una caja de pasteles, una bebida); no hace falta etiqueta de restaurante. La fiesta se alarga: charla, fotos, y sí, a veces se duerme poco. Càng nhiều người càng vui… hasta que amanece.
+
+== 80 B2
+numeral: Bài thứ tám mươi
+title: Thành phố xe máy
+title.es: La ciudad de las motos
+
+dialogue:
+- Ở Hà Nội, xe máy nhiều hơn người ta đếm được.
+  es: En Hanói hay más motos de las que la gente puede contar.
+- Người ta bóp còi cả ngày.
+  es: La gente toca el claxon todo el día.
+- Bóp còi là ngôn ngữ im lặng của đường phố.
+  es: Tocar el claxon es el lenguaje silencioso de la calle.
+- Xe đỗ trên vỉa hè.
+  es: Las motos aparcan en la acera.
+- Người đi bộ phải đi quanh xe.
+  es: Los peatones tienen que rodear las motos.
+- Ai cũng quen.
+  es: Todo el mundo está acostumbrado.
+- Còn xe đạp?
+  es: ¿Y la bicicleta?
+- Xe đạp cũng chạy trên đường.
+  es: La bicicleta también circula por la calle.
+- Nhưng người ta nói đi xe đạp ở đây… dũng cảm!
+  es: Pero la gente dice que ir en bici aquí… ¡es valiente!
+- Được nhìn thành phố chậm hơn.
+  es: Se ve la ciudad más despacio.
+- Bị khói, bị còi, bị nóng.
+  es: Te toca el humo, el claxon, el calor.
+- Dù vậy, vẫn đẹp.
+  es: Aun así, sigue siendo bonita.
+
+notes.es:
+1. Bóp còi: tocar el claxon (bóp = apretar; còi = claxon / bocina). Người ta bóp còi cả ngày = la gente toca el claxon todo el día. Im lặng: silencioso / en silencio (paradoja amable: el «lenguaje» es ruido).
+2. Đỗ: aparcar / estacionar. Xe đỗ trên vỉa hè = las motos aparcan en la acera (vỉa hè, lección 65). Người đi bộ: peatón / quien va a pie (đi bộ, lección 33).
+3. Dũng cảm: valiente / con valor. Đi xe đạp… dũng cảm = ir en bici es valiente (frente al mar de xe máy). Xe đạp: bicicleta (xe, lección 6; đạp = pedalear).
+4. Được / bị (lecciones 30, 52) vuelven: được nhìn = se consigue ver / se ve; bị khói, bị còi = te toca el humo, el claxon. Mà relativo y người ta (lecciones 65, 51) siguen en el texto sin nota nueva.
+5. El texto cierra en claro: humo y bocinas… y la ciudad, dù vậy, vẫn đẹp.
+
+ex1:
+- Người ta bóp còi cả ngày ở Hà Nội.
+  es: En Hanói la gente toca el claxon todo el día.
+- Xe máy đỗ trên vỉa hè.
+  es: Las motos aparcan en la acera.
+- Đi xe đạp ở đây dũng cảm thật!
+  es: ¡Ir en bici aquí sí que es valiente!
+- Người đi bộ phải đi quanh xe.
+  es: Los peatones tienen que rodear las motos.
+- Được nhìn thành phố chậm hơn.
+  es: Se ve la ciudad más despacio.
+
+ex2:
+- Người ta [bóp còi] cả ngày.
+  es: La gente toca el claxon todo el día.
+- Xe [đỗ] trên [vỉa hè].
+  es: Las motos aparcan en la acera.
+- Nhưng người ta nói đi [xe đạp] ở đây… [dũng cảm]!
+  es: Pero la gente dice que ir en bici aquí… ¡es valiente!
+- [Được] nhìn thành phố chậm hơn.
+  es: Se ve la ciudad más despacio.
+- [Bị] khói, bị còi, bị nóng. Dù vậy, vẫn đẹp.
+  es: Te toca el humo, el claxon, el calor. Aun así, sigue siendo bonita.
+
+aside.es:
+A partir de ahora, lee también por gusto: entiendes mucho más de lo que crees. No pares en cada palabra; deja que la frase te lleve.
+
+== 81 B2
+numeral: Bài thứ tám mươi mốt
+title: Suất trẻ con
+title.es: Ración de niño
+
+dialogue:
+- Anh ơi, suất này nhỏ quá!
+  es: ¡Oiga, esta ración es demasiado pequeña!
+- Ai chẳng thấy suất này nhỏ!
+  es: ¡Quién no ve que esta ración es pequeña! (quién no ver ración esta pequeña)
+- Canh cũng vậy.
+  es: La sopa igual.
+- Đâu phải canh nóng!
+  es: ¡Qué va a ser sopa caliente! (dónde ser sopa caliente)
+- Để tôi xem…
+  es: Déjeme mirar…
+- Chẳng lẽ anh gọi suất trẻ con?
+  es: ¿No será que pidió la ración infantil?
+- Suất trẻ con?
+  es: ¿Ración infantil?
+- Đúng. Suất nhỏ cho trẻ con.
+  es: Eso es. La ración pequeña para niños.
+- Không thể! Tôi không gọi suất trẻ con!
+  es: ¡Imposible! ¡Yo no pedí la ración infantil!
+- Anh nhìn bàn bên cạnh đi.
+  es: Mire la mesa de al lado.
+- Trẻ con ngồi đó?
+  es: ¿Hay un niño sentado ahí?
+- Đúng. Nhìn suất của trẻ con đi!
+  es: Sí. ¡Mire la ración del niño!
+- To thế cơ! Còn của tôi… nhỏ chứ!
+  es: ¡Esa sí que es enorme! Y la mía… ¡pequeña, claro!
+
+notes.es:
+1. Ai chẳng + verbo: ¿quién no…? (pregunta retórica: todo el mundo lo ve). Ai chẳng thấy = quién no ve / todo el mundo ve. Chẳng = no (más enfático o literario que không en estos giros).
+2. Đâu phải + …: ¡qué va a ser…! / ¡para nada es…! Đâu phải canh nóng = esto no es sopa caliente, ni hablar. Niega con fuerza lo que el otro supone.
+3. Chẳng lẽ …?: ¿no será que…? / ¿acaso…? (sorpresa o sospecha). Chẳng lẽ anh gọi suất trẻ con? = ¿no será que pidió la ración de niño? Gọi + plato: pedir (en el restaurante); distinto de gọi … là (llamar, lección 16).
+4. Suất: ración / porción (de comida). Canh: sopa (caldo con verdura o carne). Nóng: caliente (lección 52). Trẻ con: niño / niños (trẻ, lección 73; con = crío). Bàn bên cạnh: la mesa de al lado (cạnh, lección 43).
+5. Chứ / cơ (actitud): chứ al final afirma con evidencia («claro / desde luego»); cơ empuja la sorpresa («¡mira tú!»). To thế cơ! = ¡así de grande, fíjate! Nhỏ chứ! = ¡pequeña, claro!
+6. El giro: el cliente se queja… y en la mesa de al lado un niño mira una ración enorme: le han traído la ración de niño, y al niño la suya.
+
+ex1:
+- Ai chẳng thấy suất kia nhỏ!
+  es: ¡Quién no ve que aquella ración es pequeña!
+- Đâu phải canh ngon!
+  es: ¡Qué va a ser una sopa rica!
+- Chẳng lẽ chị ấy gọi suất trẻ con?
+  es: ¿No será que ella pidió la ración infantil?
+- Trẻ con ngồi ở bàn bên cạnh.
+  es: Un niño está sentado en la mesa de al lado.
+- Suất của trẻ con ấy to thế cơ!
+  es: ¡La ración de ese niño sí que es enorme!
+
+ex2:
+- [Ai chẳng] thấy suất này nhỏ!
+  es: ¡Quién no ve que esta ración es pequeña!
+- [Đâu phải] canh [nóng]!
+  es: ¡Qué va a ser sopa caliente!
+- [Chẳng lẽ] anh gọi suất [trẻ con]?
+  es: ¿No será que pidió la ración infantil?
+- Anh nhìn [bàn bên cạnh] đi.
+  es: Mire la mesa de al lado.
+- To thế [cơ]! Còn của tôi… nhỏ [chứ]!
+  es: ¡Esa sí que es enorme! Y la mía… ¡pequeña, claro!
+
+== 82 B2
+numeral: Bài thứ tám mươi hai
+title: Trước khi khách đến
+title.es: Antes de que lleguen los invitados
+
+dialogue:
+- Anh nên dọn đi thì hơn.
+  es: Mejor que ordenes ya. (hermano conviene ordenar ir entonces más)
+- Thà để sau.
+  es: Preferible dejarlo para después.
+- Để sau?
+  es: ¿Para después?
+- Đúng. Còn sớm mà.
+  es: Eso es. Todavía es temprano.
+- Đến lúc anh phải làm rồi đó.
+  es: Ya es hora de que te pongas, ¿eh?
+- Chưa đến lúc!
+  es: ¡Aún no es la hora!
+- Khách sắp đến đấy nhé.
+  es: Los invitados están a punto de llegar, ¿vale?
+- Biết rồi.
+  es: Ya lo sé.
+- Thà dọn sớm còn hơn dọn vội.
+  es: Preferible ordenar pronto que a toda prisa.
+- Thôi được. Anh dọn.
+  es: Bueno, vale. Ordeno.
+- Hay quá!
+  es: ¡Qué bien!
+- Thà họ đừng đến!
+  es: ¡Preferible que no vengan!
+
+notes.es:
+1. Nên … thì hơn: más vale / es mejor que… Anh nên dọn đi thì hơn = más vale que ordenes. Nên (lección 31) + verbo; thì hơn cierra el consejo («mejor así»).
+2. Thà + …: preferible / más vale (elegir lo menos malo). Thà để sau = mejor dejarlo para después. Thà A còn hơn B = preferible A que B. Thà dọn sớm còn hơn dọn vội = mejor ordenar pronto que a toda prisa (vội = deprisa / a la carrera).
+3. Đến lúc + frase: ya es el momento de… / llega la hora de… Đến lúc anh phải làm rồi = ya es hora de que te pongas. Chưa đến lúc = aún no es el momento.
+4. Đấy / nhé (actitud): đấy señala «fíjate / te lo digo» (a menudo con aviso); nhé pide acuerdo (lección 13). Juntos: đấy nhé = te lo advierto, ¿vale? Dọn (lección 60: dọn nhà) vuelve solo: ordenar / recoger.
+5. Khách (lección 79): aquí los invitados que llegan. El giro: ella empuja a dọn; él cede… y al final: thà họ đừng đến (más vale que no vengan).
+
+ex1:
+- Chị nên nghỉ đi thì hơn.
+  es: Mejor que descanses.
+- Thà về sớm còn hơn về muộn.
+  es: Preferible volver pronto que tarde.
+- Đến lúc mình phải dọn rồi.
+  es: Ya es hora de que ordenemos.
+- Bạn sắp đến đấy nhé.
+  es: Los amigos están a punto de llegar, ¿vale?
+- Thà họ đừng hỏi nhiều!
+  es: ¡Preferible que no pregunten tanto!
+
+ex2:
+- Anh [nên] dọn đi [thì hơn].
+  es: Mejor que ordenes ya.
+- [Thà] để sau. Còn sớm mà.
+  es: Preferible dejarlo para después. Todavía es temprano.
+- [Đến lúc] anh phải làm rồi đó. [Chưa] đến lúc!
+  es: Ya es hora de que te pongas, ¿eh? ¡Aún no es la hora!
+- Khách sắp đến [đấy nhé].
+  es: Los invitados están a punto de llegar, ¿vale?
+- [Thà] họ [đừng] đến!
+  es: ¡Preferible que no vengan!
+
+== 83 B2
+numeral: Bài thứ tám mươi ba
+title: Áo dài
+title.es: El ao dai
+
+dialogue:
+- Áo dài là trang phục truyền thống của Việt Nam.
+  es: El ao dai es la vestimenta tradicional de Vietnam.
+- Áo dài được may ôm sát người.
+  es: El ao dai se cose ceñido al cuerpo.
+- Phụ nữ hay mặc áo dài trong ngày lễ.
+  es: Las mujeres suelen llevar ao dai en los días de fiesta.
+- Đám cưới, Tết, lễ ở nhà trường…
+  es: Bodas, Tết, ceremonias en la escuela…
+- Ở nhiều trường, học sinh nữ mặc áo dài trắng.
+  es: En muchos colegios, las alumnas llevan ao dai blanco.
+- Cắt may áo dài cần người khéo.
+  es: Cortar y coser un ao dai hace falta alguien hábil.
+- Áo mà đẹp thì ngồi xe máy cũng được.
+  es: Un ao dai bonito también vale en moto.
+- Nhưng khách du lịch mặc áo dài rồi chạy xe máy…
+  es: Pero un turista en ao dai y en moto…
+- Người ta nhìn và cười nhẹ.
+  es: La gente mira y sonríe con suavidad.
+- Không phải cười xấu.
+  es: No es una risa mala.
+- Chỉ là… áo dài trên xe máy hơi khó!
+  es: Solo que… ¡el ao dai en moto es un poco complicado!
+- Áo dài quá dài, gió to, xe nhanh.
+  es: Ao dai demasiado largo, viento fuerte, moto rápida.
+- Dù vậy, áo dài vẫn đẹp.
+  es: Aun así, el ao dai sigue siendo bonito.
+
+notes.es:
+1. Áo dài (lección 52): el traje largo vietnamita. Aquí el texto lo presenta entero: qué es, cuándo se lleva. Trang phục: vestimenta / ropa de vestir. Truyền thống: tradicional.
+2. Mặc + prenda: llevar / ponerse (ropa). Distinto de mặc cả (regatear, lección 26) y mặc dù (aunque, lección 76). Được may (lección 52): se cose. Ôm sát người: ceñido al cuerpo. Cắt may: corte y confección (cắt, lección 71; may, lección 52). Người khéo: alguien hábil.
+3. Ngày lễ / lễ: día de fiesta / ceremonia (lễ en nghỉ lễ, lección 74). Nhà trường: la escuela (como institución). Học sinh: alumno / alumna. Phụ nữ: mujeres.
+4. Áo mà đẹp thì…: si el traje es bonito, entonces… (A mà B thì C: aquí mà es «si», como nếu; el mà relativo de la lección 65 es otro uso: áo mà chị thích = el traje que te gusta). Khách du lịch: turista. Cười nhẹ: sonreír con suavidad (nhẹ = ligero / suave). Gió: viento.
+5. El texto cierra en claro: áo dài largo, viento y moto… y dù vậy, vẫn đẹp.
+
+ex1:
+- Áo dài được may ở Hà Nội.
+  es: El ao dai se cose en Hanói.
+- Chị ấy mặc áo dài trong ngày lễ.
+  es: Ella lleva ao dai en los días de fiesta.
+- Học sinh nữ mặc áo dài trắng ở nhà trường.
+  es: Las alumnas llevan ao dai blanco en la escuela.
+- Cắt may áo dài khó thật!
+  es: ¡Cortar y coser un ao dai sí que es difícil!
+- Áo mà chị thích đẹp quá!
+  es: ¡El ao dai que te gusta es precioso!
+
+ex2:
+- Áo dài là trang phục [truyền thống] của Việt Nam.
+  es: El ao dai es la vestimenta tradicional de Vietnam.
+- Áo dài [được may] ôm sát người.
+  es: El ao dai se cose ceñido al cuerpo.
+- Phụ nữ hay mặc áo dài trong [ngày lễ]. Đám cưới, Tết, lễ ở [nhà trường]…
+  es: Las mujeres suelen llevar ao dai en los días de fiesta. Bodas, Tết, ceremonias en la escuela…
+- [Cắt may] áo dài cần người khéo.
+  es: Cortar y coser un ao dai hace falta alguien hábil.
+- Áo [mà] đẹp thì ngồi xe máy cũng được. Dù vậy, áo dài vẫn đẹp.
+  es: Un ao dai bonito también vale en moto. Aun así, el ao dai sigue siendo bonito.
+
+== 84 B2
+kind: revision
+numeral: Bài thứ tám mươi tư
+title: Ôn tập
+title.es: Repaso
+
+dialogue:
+- Hôm nay sinh nhật em mà anh mệt nhoài!
+  es: ¡Hoy es mi cumpleaños y tú estás reventado!
+  refs: 72 78 79
+- Vì chính anh xin làm thay sếp.
+  es: Porque fui yo mismo quien pidió cubrir al jefe.
+  refs: 78
+- Sếp nghỉ. Cái anh cần là kỳ nghỉ… của anh!
+  es: El jefe descansa. ¡Lo que tú necesitas son tus vacaciones!
+  refs: 78
+- Đúng. Nhưng thà làm thay còn hơn mất việc.
+  es: Eso es. Pero preferible cubrir que perder el trabajo.
+  refs: 82
+- Anh nên dọn đi thì hơn. Khách sắp đến đấy nhé.
+  es: Mejor que ordenes ya. Los invitados están a punto de llegar, ¿vale?
+  refs: 79 82
+- Thà để sau.
+  es: Preferible dejarlo para después.
+  refs: 82
+- Đến lúc anh phải làm rồi đó!
+  es: ¡Ya es hora de que te pongas!
+  refs: 82
+- Càng nhiều khách càng vui… phải không?
+  es: Cuantos más invitados, más alegre… ¿verdad?
+  refs: 79
+- Càng nhiều khách mình càng ít ngủ!
+  es: ¡Cuantos más invitados, menos dormimos!
+  refs: 79
+- Ai chẳng thấy bánh này nhỏ!
+  es: ¡Quién no ve que este pastel es pequeño!
+  refs: 81
+- Đâu phải bánh cho mười người!
+  es: ¡Qué va a ser un pastel para diez!
+  refs: 81
+- Chẳng lẽ anh mua bánh trẻ con?
+  es: ¿No será que compraste un pastel de niño?
+  refs: 81
+- Không. Bánh to… cho hai người thôi!
+  es: No. Un pastel grande… ¡solo para dos!
+  refs: 41 81
+- Mà khách đến tám người!
+  es: ¡Y vienen ocho invitados!
+  refs: 79
+- Thế thì sao?
+  es: Entonces ¿qué?
+  refs: 9 31
+- Thà họ đừng đến. Mình nghỉ!
+  es: Preferible que no vengan. ¡Nosotros descansamos!
+  refs: 78 82
+
+notes.es:
+Otra semana y otra vez: nada de memorizar reglas. Esta lección solo ordena lo que ya has oído. Si un chính o un thà te frenan, sigue: vuelven mañana.
+
+1. Énfasis: chính, cái … là / điều mà (lección 78).
+
+| Forma | Uso | Ejemplo |
+|---|---|---|
+| chính + persona | precisamente / tú mismo | Chính anh xin làm thay. |
+| cái + frase + là | lo que… es… | Cái tôi cần là kỳ nghỉ. |
+| điều mà … là | lo que… es… (con mà) | Điều mà anh cần là nghỉ. |
+| làm thay | cubrir / hacer en lugar de | làm thay sếp |
+| kỳ nghỉ / mệt nhoài | vacaciones / agotado | xin kỳ nghỉ; mệt nhoài |
+
+Cái … là y điều mà … là ponen el foco delante; chính señala a la persona.
+
+2. Càng … càng (lección 79).
+
+| Forma | Significado | Ejemplo |
+|---|---|---|
+| càng A càng B | cuanto más A, más B | Càng nhiều khách càng vui. |
+| càng ngày càng | cada día más / cada vez más | càng ngày càng đông |
+| càng … càng ít + verbo | cuanto más…, menos… | càng ở lâu càng ít ngủ |
+
+La proporción va en los dos càng; el verbo no cambia.
+
+3. Preguntas retóricas (lección 81).
+
+| Forma | Matiz | Ejemplo |
+|---|---|---|
+| ai chẳng … | ¿quién no…? (todo el mundo) | Ai chẳng thấy bánh nhỏ! |
+| đâu phải … | ¡qué va a ser…! | Đâu phải bánh cho mười người! |
+| chẳng lẽ …? | ¿no será que…? | Chẳng lẽ anh mua bánh trẻ con? |
+| chứ / cơ | claro / fíjate | nhỏ chứ; to thế cơ |
+
+No piden información nueva: empujan al otro a admitir lo obvio o la sospecha.
+
+4. Thà / nên … thì hơn / đến lúc (lección 82).
+
+| Forma | Uso | Ejemplo |
+|---|---|---|
+| nên … thì hơn | más vale / es mejor que… | Anh nên dọn đi thì hơn. |
+| thà + … | preferible / más vale | Thà để sau. |
+| thà A còn hơn B | preferible A que B | thà làm thay còn hơn mất việc |
+| đến lúc … | ya es el momento de… | Đến lúc anh phải làm rồi. |
+| đấy nhé | te lo advierto, ¿vale? | Khách sắp đến đấy nhé. |
+
+Thà elige el mal menor; nên … thì hơn aconseja; đến lúc marca la hora de actuar.
+
+5. Registro formal e informal (primera mirada).
+
+| Informal (calle, amigos) | Más formal (escrito, respeto) | Nota |
+|---|---|---|
+| chào anh / chị | thưa anh / chị… | thưa abre con deferencia |
+| mình, bạn | kính gửi… | kính gửi: «muy señor mío» en carta |
+| xin nghỉ (oral) | xin được… | xin được suaviza la petición escrita |
+| nói / bảo | trình bày / phản ánh | vendrán en cartas de reclamación |
+
+Hoy solo oyes el contraste: en casa y en el quán basta chào y mình; una carta al sếp o a una empresa empieza otro tono. Lo veremos de cerca en la lección 89.
+
+Semana cerrada. Vacaciones del jefe, pastel para dos, ocho invitados… y ganas de que no llamen al timbre. Mañana, lección 85.
+
+== 85 B2
+numeral: Bài thứ tám mươi lăm
+title: Trống của hàng xóm
+title.es: El tambor del vecino
+
+dialogue:
+- Tiếng gì thế?
+  es: ¿Qué ruido es ese? (sonido qué así)
+- Hàng xóm… trống!
+  es: ¡El vecino… un tambor!
+- Trống?
+  es: ¿Un tambor?
+- Đúng. Tiếng trống to quá!
+  es: Sí. ¡El sonido del tambor es demasiado fuerte!
+- Tôi chịu không nổi cái tiếng ồn.
+  es: No aguanto ese ruido. (yo soportar no aguantar cosa sonido ruido)
+- Mình hết kiên nhẫn rồi.
+  es: Ya no nos queda paciencia. (nosotros acabar paciencia ya)
+- Từ bao giờ?
+  es: ¿Desde cuándo?
+- Từ tối qua!
+  es: ¡Desde anoche!
+- Thế mình làm gì?
+  es: Entonces ¿qué hacemos?
+- Mình sẽ nghĩ cách.
+  es: Vamos a pensar una solución. (nosotros futuro pensar manera)
+- Nghĩ ra chưa?
+  es: ¿Ya se te ha ocurrido? (pensar salir aún-no)
+- Chưa…
+  es: Todavía no…
+- Tìm ra rồi!
+  es: ¡Ya lo he encontrado!
+- Cách gì?
+  es: ¿Qué solución?
+- Mình cũng mua trống!
+  es: ¡Nosotros también compramos un tambor!
+
+notes.es:
+1. Chịu không nổi: no aguantar / no soportar (más). Chịu = soportar; nổi = aguantar / poder con ello. Juntos: no doy más. Tôi chịu không nổi cái tiếng ồn = no aguanto ese ruido. Cái + nombre (lección 9) señala «ese» ruido concreto.
+2. Tiếng ồn: el ruido (tiếng = sonido / ruido aquí; antes era «idioma» o «hora», lecciones 20 y 23). Ồn = ruidoso / el ruido. Tiếng trống = el sonido del tambor. Trống: tambor.
+3. Hết + nombre: acabarse / no quedar (de algo abstracto o concreto). Hết kiên nhẫn = se acabó la paciencia (kiên nhẫn = paciencia). Como hết vé / hết chỗ (lección 27, 43), pero aquí el «producto» es la paciencia. Mình hết kiên nhẫn rồi = ya no nos queda paciencia.
+4. Nghĩ cách: pensar una solución / un modo (cách, lección 46: cách chơi). Nghĩ ra: ocurrírsele / dar con la idea (nghĩ + ra: el resultado «sale»). Tìm ra: encontrar / dar con (tìm, lección 1; ra marca el hallazgo, como tìm thấy, lección 58). Nghĩ ra chưa? = ¿ya se te ha ocurrido?
+5. Nổi y hết vuelven en giros fijos: chịu không nổi, hết kiên nhẫn, hết hơi (sin aliento, lo oirás). No conjugan: solo cambian la palabra delante o detrás del verbo.
+6. El giro: no aguantan el tambor del vecino… y la «solución» es comprar otro tambor.
+
+ex1:
+- Tôi chịu không nổi tiếng ồn này.
+  es: No aguanto este ruido.
+- Chị ấy hết kiên nhẫn rồi.
+  es: A ella ya no le queda paciencia.
+- Anh nghĩ ra cách chưa?
+  es: ¿Ya se te ha ocurrido una solución?
+- Hàng xóm mua trống to quá!
+  es: ¡El vecino ha comprado un tambor enorme!
+- Mình tìm ra rồi: cũng mua trống!
+  es: Ya lo hemos encontrado: ¡comprar un tambor también!
+
+ex2:
+- Tôi [chịu không nổi] cái tiếng [ồn].
+  es: No aguanto ese ruido.
+- Mình [hết] [kiên nhẫn] rồi.
+  es: Ya no nos queda paciencia.
+- Mình sẽ [nghĩ cách]. [Nghĩ ra] chưa?
+  es: Vamos a pensar una solución. ¿Ya se te ha ocurrido?
+- [Tìm ra] rồi! [Cách] gì?
+  es: ¡Ya lo he encontrado! ¿Qué solución?
+- Mình cũng mua [trống]!
+  es: ¡Nosotros también compramos un tambor!
+
+== 86 B2
+numeral: Bài thứ tám mươi sáu
+title: Chị ấy phỏng vấn
+title.es: Ella hace la entrevista
+
+dialogue:
+- Phỏng vấn xong chưa?
+  es: ¿Ya terminó la entrevista?
+- Xong rồi.
+  es: Ya terminó.
+- Chị ấy hỏi gì?
+  es: ¿Qué te preguntó ella?
+- Chị ấy hỏi tại sao tôi muốn việc này.
+  es: Me preguntó por qué quiero este trabajo. (ella preguntar por-qué yo querer trabajo este)
+- Rồi sao?
+  es: ¿Y luego?
+- Chị ấy bảo tôi ngồi xuống.
+  es: Me dijo que me sentara. (ella mandar yo sentarse abajo)
+- Ngồi xuống?
+  es: ¿Sentarte?
+- Đúng. Rồi chị ấy hỏi tôi có thể bắt đầu ngày mai không.
+  es: Sí. Y luego me preguntó si podía empezar mañana. (correcto. luego ella preguntar yo poder empezar día mañana no)
+- Anh nói gì?
+  es: ¿Qué dijiste?
+- Tôi nói được.
+  es: Dije que sí.
+- Chị ấy hỏi tôi có biết chị ấy không.
+  es: Me preguntó si la conocía. (ella preguntar yo tener conocer ella no)
+- Có à?
+  es: ¿Y la conocías?
+- Có.
+  es: Sí.
+- Chị ấy là… chị tôi!
+  es: ¡Ella es… mi hermana!
+
+notes.es:
+1. Hỏi + (persona) + pregunta: preguntar. Chị ấy hỏi tại sao tôi muốn việc này = me preguntó por qué quiero este trabajo. En estilo indirecto la pregunta queda casi igual: no hay «que» + subjuntivo. Tại sao / vì sao (lecciones 40, 50) siguen igual.
+2. Preguntas de sí/no en estilo indirecto: se guarda có … không. Chị ấy hỏi tôi có thể bắt đầu ngày mai không = me preguntó si podía empezar mañana. En español «si» + imperfecto; en vietnamita: hỏi + (persona) + la misma pregunta con có … không.
+3. Bảo + persona + verbo (lecciones 53, 56): decir a alguien que haga… / mandar. Chị ấy bảo tôi ngồi xuống = me dijo que me sentara. El verbo no cambia: no hay subjuntivo.
+4. Ngồi xuống: sentarse (ngồi, lección 3; xuống, lección 33: dirección «hacia abajo»). Frente a ngồi thôi (estar sentado): ngồi xuống marca el gesto de sentarse.
+5. Biết (lección 39): saber / conocer. Có biết chị ấy không = ¿la conoces? / ¿la conocía? El giro: la entrevistadora pregunta si la conoce… porque es su hermana.
+
+ex1:
+- Mẹ hỏi tôi có đói không.
+  es: Mamá me preguntó si tenía hambre.
+- Bác sĩ bảo anh ấy nghỉ một tuần.
+  es: El médico le dijo que descansara una semana.
+- Sếp hỏi tại sao tôi đến muộn.
+  es: El jefe me preguntó por qué llegaba tarde.
+- Anh ấy hỏi chị có biết nấu phở không.
+  es: Él te preguntó si sabes hacer pho.
+- Bà bảo cháu ngồi xuống.
+  es: La abuela le dijo al nieto que se sentara.
+
+ex2:
+- Chị ấy [hỏi] tại sao tôi muốn [việc] này.
+  es: Me preguntó por qué quiero este trabajo.
+- Chị ấy [bảo] tôi [ngồi xuống].
+  es: Me dijo que me sentara.
+- Chị ấy hỏi tôi [có thể] bắt đầu ngày mai [không].
+  es: Me preguntó si podía empezar mañana.
+- Chị ấy hỏi tôi [có biết] chị ấy không.
+  es: Me preguntó si la conocía.
+- Chị ấy là… [chị tôi]!
+  es: ¡Ella es… mi hermana!
+
+== 87 B2
+numeral: Bài thứ tám mươi bảy
+title: Thẻ ngày đầu
+title.es: La tarjeta el primer día
+
+dialogue:
+- Anh ơi, thẻ đâu?
+  es: Oye, ¿dónde está tu tarjeta?
+- Thẻ?
+  es: ¿La tarjeta?
+- Lẽ ra anh phải đeo thẻ.
+  es: Tendrías que llevar la tarjeta puesta. (razón-out hermano deber llevar tarjeta)
+- Đeo thẻ à?
+  es: ¿Llevar la tarjeta?
+- Đúng. Họp sắp bắt đầu.
+  es: Sí. La reunión está a punto de empezar.
+- Họp nào?
+  es: ¿Qué reunión?
+- Họp ngày đầu. Chắc chắn sẽ dài.
+  es: La reunión del primer día. Seguro que será larga.
+- Dài thế à?
+  es: ¿Tan larga?
+- Dài. Ba tiếng thì phải.
+  es: Larga. Tres horas, como mínimo.
+- Thẻ đây… đeo rồi!
+  es: Aquí está la tarjeta… ¡ya me la he puesto!
+- Mà… hôm nay là ngày đầu của anh à?
+  es: Pero… ¿hoy es tu primer día?
+- Đúng.
+  es: Sí.
+- Mà lẽ ra hôm nay tôi được nghỉ!
+  es: ¡Pero es que hoy se supone que tengo el día libre!
+
+notes.es:
+1. Lẽ ra phải + verbo: tendría que / se supone que debe… (lẽ ra, lección 62; phải, lección 31). Lẽ ra anh phải đeo thẻ = tendrías que llevar la tarjeta. Más «obligación esperada» que solo lẽ ra + verbo de arrepentimiento.
+2. Đeo thẻ: llevar puesta la tarjeta (de empresa / identificación). Đeo = llevar puesto (gafas, reloj, tarjeta…); thẻ = tarjeta / carnet. Distinto de mang (llevar en la mano o encima, lección 36).
+3. Sắp (lección 32): a punto de / enseguida. Họp sắp bắt đầu = la reunión está a punto de empezar. Chắc chắn: seguro / con certeza (más fuerte que chắc là, lección 64). Chắc chắn sẽ dài = seguro que será larga.
+4. Thì phải al final: creo / me parece (una suposición suave). Ba tiếng thì phải = tres horas, creo. Mà al empezar objeta o añade un «pero» (lección 6, 47): Mà lẽ ra… = pero es que se supone que…
+5. Được nghỉ: tener el día libre / poder descansar (được + nghỉ; nghỉ, lección 54). El giro: primer día, reunión larga, hay que llevar la tarjeta… y él creía que hoy tenía el día libre.
+
+ex1:
+- Lẽ ra em phải đến sớm.
+  es: Tendría que haber llegado pronto.
+- Phim sắp bắt đầu đấy!
+  es: ¡La película está a punto de empezar!
+- Chắc chắn mai trời mưa.
+  es: Seguro que mañana llueve.
+- Anh ấy hai mươi tuổi thì phải.
+  es: Tiene veinte años, creo.
+- Thứ bảy tôi được nghỉ.
+  es: El sábado tengo el día libre.
+
+ex2:
+- [Lẽ ra] anh [phải] đeo thẻ.
+  es: Tendrías que llevar la tarjeta puesta.
+- Họp [sắp] bắt đầu. Chắc chắn sẽ [dài].
+  es: La reunión está a punto de empezar. Seguro que será larga.
+- Ba tiếng [thì phải].
+  es: Tres horas, como mínimo.
+- [Mà]… hôm nay là ngày đầu của anh à?
+  es: Pero… ¿hoy es tu primer día?
+- Mà lẽ ra hôm nay tôi [được nghỉ]!
+  es: ¡Pero es que hoy se supone que tengo el día libre!
+
+== 88 B2
+numeral: Bài thứ tám mươi tám
+title: Vịnh Hạ Long
+title.es: La bahía de Ha Long
+
+dialogue:
+- Vịnh Hạ Long được gọi là một trong những vịnh đẹp nhất.
+  es: La bahía de Ha Long es llamada una de las bahías más bonitas.
+- Ở đây có hàng nghìn núi đá trên biển.
+  es: Aquí hay miles de peñascos de piedra sobre el mar.
+- Núi đá xám, đứng im trên nước.
+  es: Peñascos grises, quietos sobre el agua.
+- Ban ngày, nhiều thuyền trên vịnh.
+  es: De día, muchos barcos en la bahía.
+- Nhiều thuyền ngủ trên vịnh đến sáng.
+  es: Muchos barcos duermen en la bahía hasta la mañana.
+- Khi trời nắng, ảnh đẹp quá!
+  es: ¡Cuando hace sol, las fotos quedan preciosas!
+- Khi trời mưa, núi đá xám hơn.
+  es: Cuando llueve, los peñascos se ven más grises.
+- Trời quyết định ảnh.
+  es: El tiempo decide las fotos.
+- Ban ngày, trên thuyền đông khách.
+  es: De día, en el barco hay mucha gente.
+- Mặc dù đông, mọi người vẫn cười.
+  es: Aunque hay mucha gente, todo el mundo sonríe igual.
+- Nhưng bình minh khác.
+  es: Pero el amanecer es otra cosa.
+- Lúc bình minh, vịnh im lặng.
+  es: Al amanecer, la bahía está en silencio.
+- Núi đá, nước, và trời sớm.
+  es: Peñascos, agua, y el cielo temprano.
+
+notes.es:
+1. Vịnh: bahía. Vịnh Hạ Long = la bahía de Ha Long (en el norte, cerca de Quảng Ninh). Được gọi là: es llamada / se llama (được + gọi là; gọi là, lección 16). Một trong những … nhất: una de las… más… (những, lección 32; nhất, lección 60).
+2. Núi đá: peñasco / monte de piedra (núi = montaña; đá aquí = piedra / roca; antes đá era hielo en cà phê đá, lección 65). Hàng nghìn: miles (hàng, como en hàng xóm; nghìn, lección 22). Biển (lección 67); nước aquí = el agua del mar (frente a nước ngoài, lección 39).
+3. Thuyền: barco / embarcación (más «barca de bahía» que tàu). Ngủ trên vịnh đến sáng = pasar la noche a bordo hasta la mañana (ngủ, lección 6; sáng, lección 25). Ban ngày: de día / durante el día.
+4. Khi (lecciones 31, 50): cuando. Khi trời nắng / khi trời mưa: el tiempo manda las fotos. Quyết định (lección 60): decidir. Trời quyết định ảnh = el tiempo decide las fotos.
+5. Bình minh: el amanecer. Im lặng (lección 80): en silencio. Mặc dù … vẫn (lección 76) vuelve: mặc dù đông, vẫn cười. El texto cierra en claro: de día, barco lleno; al alba, solo peñascos, agua y cielo temprano.
+
+ex1:
+- Vịnh Hạ Long được gọi là vịnh đẹp.
+  es: La bahía de Ha Long es llamada una bahía bonita.
+- Ở đây có nhiều núi đá trên biển.
+  es: Aquí hay muchos peñascos sobre el mar.
+- Thuyền ngủ trên vịnh đến sáng.
+  es: El barco duerme en la bahía hasta la mañana.
+- Khi trời mưa, ảnh khác.
+  es: Cuando llueve, las fotos son distintas.
+- Lúc bình minh, vịnh im lặng.
+  es: Al amanecer, la bahía está en silencio.
+
+ex2:
+- Vịnh Hạ Long [được gọi là] một trong những vịnh đẹp nhất.
+  es: La bahía de Ha Long es llamada una de las bahías más bonitas.
+- Ở đây có hàng nghìn [núi đá] trên [biển].
+  es: Aquí hay miles de peñascos de piedra sobre el mar.
+- Ban ngày, nhiều [thuyền] trên vịnh. Nhiều thuyền ngủ trên vịnh đến [sáng].
+  es: De día, muchos barcos en la bahía. Muchos barcos duermen en la bahía hasta la mañana.
+- [Khi] trời nắng, ảnh đẹp quá! Trời [quyết định] ảnh.
+  es: ¡Cuando hace sol, las fotos quedan preciosas! El tiempo decide las fotos.
+- [Mặc dù] đông, mọi người vẫn cười. Lúc [bình minh], vịnh im lặng.
+  es: Aunque hay mucha gente, todo el mundo sonríe igual. Al amanecer, la bahía está en silencio.
+
+culture.es:
+Ha Long, en el golfo de Tonkín, es famosa por sus peñascos de caliza que salen del agua: patrimonio de la Unesco y destino muy visitado. De día los barcos se llenan; muchos hacen noche en la bahía. El truco de las fotos no es solo el móvil: es madrugar. Al amanecer el ruido baja, y la bahía parece otra.
+
+== 89 B2
+numeral: Bài thứ tám mươi chín
+title: Thư phản ánh
+title.es: La carta de reclamación
+
+dialogue:
+- Con ơi, viết hộ bố!
+  es: ¡Hija, escríbeme esto!
+- Bố muốn viết gì?
+  es: ¿Qué quieres escribir?
+- Viết: tôi giận!
+  es: Escribe: ¡estoy furioso!
+- Con viết: «Tôi xin được phản ánh sự việc…»
+  es: Yo escribo: «Deseo exponer el asunto…»
+- Viết nữa: họ lấy tiền của bố!
+  es: Escribe también: ¡se han quedado con mi dinero!
+- «Công ty đã nhận tiền của tôi.»
+  es: «La empresa ha recibido mi dinero.»
+- Bố muốn hoàn tiền!
+  es: ¡Quiero el reembolso!
+- «Tôi xin được hoàn tiền.»
+  es: «Solicito el reembolso.»
+- Đầu thư viết «kính gửi»!
+  es: ¡Al inicio pon «muy señores míos»!
+- «Kính gửi công ty…»
+  es: «Muy señores míos, empresa…»
+- Cuối thư viết gì?
+  es: ¿Y al final qué se escribe?
+- «Trân trọng.»
+  es: «Atentamente.»
+- Được. Gửi đi!
+  es: Vale. ¡Envíalo!
+- Thư của họ đến rồi!
+  es: ¡Ya ha llegado su carta!
+- Họ viết gì?
+  es: ¿Qué escriben?
+- «Chào bạn!»
+  es: «¡Hola!»
+- Chào bạn?!
+  es: ¡¿Hola?!
+- Đúng. Không có kính gửi… bố cũng chào bạn vậy!
+  es: Eso es. Sin fórmula formal… ¡pues yo también les digo hola!
+
+notes.es:
+1. Phản ánh: exponer / comunicar (un problema, con tono formal). Xin được + verbo: solicitar poder… / desear… (escrito cortés; xin, lección 38; được suaviza). Tôi xin được phản ánh sự việc = deseo exponer el asunto. Frente a tôi giận (estoy furioso): mismo hecho, otro registro.
+2. Sự việc: el asunto / los hechos (sự + việc: nominalizador sự delante de việc). Sự convierte la idea en «nombre» más formal. Việc solo (lección 19) es tarea / asunto; sự việc suena a informe o carta.
+3. Hoàn tiền: devolver el dinero / reembolsar (hoàn = devolver; tiền, lección 22). Tôi xin được hoàn tiền = solicito el reembolso.
+4. Kính gửi: fórmula de apertura de carta formal («muy señor mío / muy señores míos»). Trân trọng: atentamente (cierre). Lo viste anunciado en el repaso 84: en casa basta un saludo; en carta a la empresa, las fórmulas formales.
+5. Thư: carta / correo. Đầu thư / cuối thư: el inicio / el final de la carta. Gửi: enviar. El giro: el padre dicta con rabia; la hija traduce a vietnamita escrito… y la empresa responde «Chào bạn!» (hola, tuteo de email joven).
+6. Registro: nói / bảo en la calle; phản ánh / xin được / kính gửi / trân trọng en el papel. La empresa joven contesta en tono de bạn: el contraste es la broma.
+
+ex1:
+- Tôi xin được phản ánh sự việc này.
+  es: Deseo exponer este asunto.
+- Chị ấy xin được hoàn tiền.
+  es: Ella solicita el reembolso.
+- Kính gửi công ty…
+  es: Muy señores míos, empresa…
+- Cuối thư viết «trân trọng».
+  es: Al final de la carta se escribe «atentamente».
+- Họ viết «chào bạn», không có kính gửi!
+  es: ¡Escriben «hola», sin fórmula formal!
+
+ex2:
+- Con viết: «Tôi [xin được] [phản ánh] sự việc…»
+  es: Yo escribo: «Deseo exponer el asunto…»
+- «Tôi xin được [hoàn tiền].»
+  es: «Solicito el reembolso.»
+- Đầu thư viết «[kính gửi]»! «Kính gửi [công ty]…»
+  es: ¡Al inicio pon «muy señores míos»! «Muy señores míos, empresa…»
+- Cuối thư viết «[trân trọng].»
+  es: Al final se escribe «atentamente».
+- Họ viết «[Chào bạn]!» Không có kính gửi…
+  es: ¡Escriben «Hola»! Sin fórmula formal…
+
+culture.es:
+Entre generaciones el correo choca: muchos padres esperan la apertura y el cierre formales; muchas empresas jóvenes abren con un «hola» de mensaje, como en el móvil. No es falta de respeto automática: es otro hábito digital. Si escribes tú a una oficina tradicional, mejor el tono formal; si te responden «hola», no hace falta enfadarse… aunque al padre de hoy le cueste.
+
+aside.es:
+Lección larga hoy; mañana, una más ligera. Lee el diálogo dos veces y deja que el contraste formal / informal se te quede en el oído.
+
+== 90 B2
+numeral: Bài thứ chín mươi
+title: Dễ như ăn cháo
+title.es: Pan comido
+
+dialogue:
+- Chúc may mắn!
+  es: ¡Buena suerte!
+- Cảm ơn. Anh cũng thi à?
+  es: Gracias. ¿Tú también te examinas?
+- Thi. Cắn răng chịu thôi.
+  es: Sí. Apretar los dientes y aguantar, nada más.
+- Thi này dễ như ăn cháo.
+  es: Este examen es pan comido. (examen este fácil como comer gachas)
+- Thế sao anh run?
+  es: Entonces ¿por qué tiemblas?
+- Vì… cháo của anh bao giờ cũng cháy.
+  es: Porque… mis gachas siempre se queman.
+- Em không run.
+  es: Yo no tiemblo.
+- Em nói vậy… trước khi mở đề.
+  es: Dices eso… antes de abrir el examen.
+- Được. Mình hít sâu.
+  es: Vale. Respiramos hondo.
+- Một, hai…
+  es: Uno, dos…
+- Mở đề!
+  es: ¡Abrimos el examen!
+- Đề khó quá!
+  es: ¡El examen es demasiado difícil!
+
+notes.es:
+1. Chúc may mắn: desear suerte (chúc = desear / felicitar; may mắn = suerte). Como «¡buena suerte!» antes de un thi (lección 12).
+2. Cắn răng chịu thôi: aguantar a duras penas / apretar los dientes (cắn răng = morderse / apretar los dientes; chịu, lección 85; thôi = y ya / nada más). Idioma fijo: no hay otra opción que aguantar.
+3. Dễ như ăn cháo: pan comido / facilísimo (literal: fácil como comer gachas). Cháo: gachas de arroz. Dễ (en dễ thương, lección 74) aquí = fácil. Như (lección 24): como.
+4. Cháy: quemarse (la comida). Cháo … cháy = las gachas se queman. Bao giờ cũng (lección 55: lúc nào cũng): siempre. El chiste: dice que el examen es pan comido (fácil como comer gachas)… pero sus gachas siempre se le queman.
+5. Đề: el enunciado / el examen escrito (la hoja de preguntas). Mở đề = abrir el examen. Hít sâu: respirar hondo (hít = aspirar; sâu = hondo / profundo). Run (lección 61) vuelve: temblar de nervios. El giro: ella no tiembla… hasta abrir el examen; ¡demasiado difícil!
+
+ex1:
+- Chúc may mắn! Mai anh thi.
+  es: ¡Buena suerte! Mañana te examinas.
+- Cắn răng chịu thôi. Không còn cách nào!
+  es: Apretar los dientes y aguantar. ¡No hay otra!
+- Bài này dễ như ăn cháo.
+  es: Este ejercicio es pan comido.
+- Cháo của anh ấy bao giờ cũng cháy.
+  es: Sus gachas siempre se queman.
+- Mình hít sâu trước khi mở đề.
+  es: Respiramos hondo antes de abrir el examen.
+
+ex2:
+- [Chúc] [may mắn]! Cảm ơn. Anh cũng thi à?
+  es: ¡Buena suerte! Gracias. ¿Tú también te examinas?
+- Thi. [Cắn răng] chịu thôi. Thi này [dễ như ăn cháo].
+  es: Sí. Apretar los dientes y aguantar. Este examen es pan comido.
+- Thế sao anh [run]? Vì… cháo của anh bao giờ cũng [cháy].
+  es: Entonces ¿por qué tiemblas? Porque… mis gachas siempre se queman.
+- Em nói vậy… trước khi [mở đề]. Được. Mình [hít sâu].
+  es: Dices eso… antes de abrir el examen. Vale. Respiramos hondo.
+- Một, hai… [Đề] khó quá!
+  es: Uno, dos… ¡El examen es demasiado difícil!
+
+== 91 B2
+kind: revision
+numeral: Bài thứ chín mươi mốt
+title: Ôn tập
+title.es: Repaso
+
+dialogue:
+- Anh ơi, mai anh thi à?
+  es: ¿Mañana tienes examen?
+  refs: 16 90
+- Đúng. Mai thi. Nhưng anh chịu không nổi!
+  es: Sí, mañana. ¡Pero no aguanto más!
+  refs: 18 85 90
+- Chịu không nổi cái gì?
+  es: ¿Qué es lo que no aguantas?
+  refs: 85
+- Tiếng trống của hàng xóm. Anh hết kiên nhẫn rồi.
+  es: El tambor del vecino. Se me ha acabado la paciencia.
+  refs: 6 85
+- Anh đã nói với họ chưa?
+  es: ¿Ya se lo has dicho?
+  refs: 29 40
+- Rồi. Anh viết thư: «Kính gửi hàng xóm…»
+  es: Sí. Les escribí una carta: «Muy señores míos…»
+  refs: 89
+- Họ viết gì?
+  es: ¿Y qué contestaron?
+  refs: 89
+- «Chào bạn!» Rồi trống lại kêu.
+  es: «¡Hola!» Y el tambor volvió a sonar.
+  refs: 64 85 89
+- Thế anh nghĩ ra cách chưa?
+  es: ¿Y ya se te ha ocurrido algo?
+  refs: 31 85
+- Chắc chắn phải có cách…
+  es: Seguro que hay alguna solución…
+  refs: 85 87
+- Lẽ ra anh phải ôn bài ở quán cà phê.
+  es: Tendrías que repasar en un café.
+  refs: 39 87
+- Quán cà phê đông khách lắm.
+  es: Los cafés están llenos de gente.
+  refs: 79 88
+- Thì cắn răng chịu thôi. Thi dễ như ăn cháo mà!
+  es: Pues aprieta los dientes y aguanta. ¡Si el examen es pan comido!
+  refs: 90
+- Dễ như ăn cháo? Em biết cháo của anh bao giờ cũng cháy!
+  es: ¿Pan comido? ¡Ya sabes que mis gachas siempre se queman!
+  refs: 39 90
+- Thế thì… anh cũng mua trống!
+  es: Entonces… ¡cómprate tú también un tambor!
+  refs: 31 85
+- Tìm ra rồi! Thi xong, anh mua trống!
+  es: ¡Ya está! Después del examen, ¡me compro un tambor!
+  refs: 19 85
+
+notes.es:
+Otra semana y otra vez: nada de memorizar reglas. Esta lección solo ordena lo que ya has oído. Si un chịu không nổi o un kính gửi te frenan, sigue: vuelven mañana.
+
+1. Preguntas y órdenes en estilo indirecto (lección 86).
+
+| Forma | Uso | Ejemplo |
+|---|---|---|
+| hỏi + (persona) + pregunta | preguntar | Chị ấy hỏi tại sao tôi muốn việc này. |
+| hỏi + có … không | preguntar si… | hỏi tôi có thể bắt đầu không |
+| bảo + persona + verbo | decir a alguien que… | bảo tôi ngồi xuống |
+| nói / nói là | decir que… (informar) | Anh nói không. |
+
+Sin «que» + subjuntivo: repites la pregunta o el verbo tal cual. Nói informa; bảo manda; hỏi guarda có … không.
+
+2. Lẽ ra / chắc chắn / sắp (lección 87; sắp ya en 32).
+
+| Forma | Matiz | Ejemplo |
+|---|---|---|
+| lẽ ra phải + verbo | se supone que debe… | Lẽ ra anh phải đeo thẻ. |
+| lẽ ra + verbo | tendría que / se supone | Lẽ ra hôm nay tôi được nghỉ. |
+| sắp + verbo | a punto de / enseguida | Họp sắp bắt đầu. |
+| chắc chắn | seguro / con certeza | Chắc chắn sẽ dài. |
+| thì phải | claro / como mínimo | Ba tiếng thì phải. |
+| mà… | pero / es que… | Mà lẽ ra hôm nay… |
+
+Lẽ ra marca lo esperado; sắp lo inminente; chắc chắn la certeza. Mà añade la objeción.
+
+3. Formal frente a informal (lecciones 84, 89).
+
+| Informal (calle, amigos, email joven) | Formal (carta, empresa) | Nota |
+|---|---|---|
+| chào anh / chị / bạn | kính gửi… | apertura |
+| tôi giận | tôi xin được phản ánh sự việc | suaviza la queja |
+| muốn hoàn tiền | xin được hoàn tiền | petición escrita |
+| chào / tạm biệt | trân trọng | cierre |
+| nói / bảo | phản ánh / trình bày | verbo de «decir» |
+
+Misma idea, otro traje: en el café basta un saludo; a la empresa, las fórmulas formales. Si responden con un «hola» de email, es registro digital, no siempre una falta.
+
+4. Giros fijos: chịu không nổi, nghĩ ra, dễ như ăn cháo (lecciones 85, 90).
+
+| Giro | Significado | Ejemplo |
+|---|---|---|
+| chịu không nổi | no aguantar más | chịu không nổi cái tiếng ồn |
+| hết + nombre | acabarse / no quedar | hết kiên nhẫn |
+| nghĩ ra / tìm ra | ocurrírsele / dar con | Nghĩ ra chưa? Tìm ra rồi! |
+| nghĩ cách | pensar una solución | Mình sẽ nghĩ cách. |
+| cắn răng chịu thôi | aguantar a duras penas | Cắn răng chịu thôi. |
+| dễ như ăn cháo | pan comido | Thi này dễ như ăn cháo. |
+
+Nổi y hết entran en frases hechas; ra detrás de nghĩ / tìm marca el resultado («sale» la idea).
+
+5. Nominalizadores: sự, việc, cuộc, nỗi, niềm.
+
+| Palabra | Suele ir con | Ejemplo / matiz |
+|---|---|---|
+| việc | tareas, asuntos | nhiều việc; sự việc (el asunto formal, 89) |
+| sự | vuelve un verbo/idea en nombre formal | sự việc |
+| cuộc | acontecimientos, vida, reuniones | cuộc sống (la vida); cuộc họp (la reunión) |
+| nỗi | lo sentido como peso / pena | nỗi buồn (la tristeza) |
+| niềm | lo sentido como impulso / alegría | niềm vui (la alegría) |
+
+Việc lo llevas desde la lección 19; sự việc llegó en la 89. Cuộc / nỗi / niềm los oirás más: de momento basta reconocer el «molde» nombre abstracto.
+
+Semana cerrada. Un tambor al otro lado de la pared, una carta formal contestada con un «hola»… y la venganza perfecta para después del examen. Mañana, lección 92.
+
+== 92 B2
+numeral: Bài thứ chín mươi hai
+title: Sáu thanh
+title.es: Seis tonos
+
+dialogue:
+- Tiếng Việt có sáu thanh.
+  es: El vietnamita tiene seis tonos.
+- Cùng một âm, thanh khác thì nghĩa khác.
+  es: Con el mismo sonido, si el tono cambia, cambia el significado. (mismo un sonido, tono distinto entonces sentido distinto)
+- Bộ «ma» nổi tiếng trong sách học.
+  es: El juego de «ma» es famoso en los libros de texto.
+- Ma là hồn ma, bóng ma.
+  es: «Ma» es el fantasma, el espectro.
+- Má là phần má trên mặt.
+  es: «Má» es la mejilla, en la cara.
+- Mà là «nhưng», hoặc nối câu.
+  es: «Mà» es «pero», o une la frase.
+- Mả là nơi chôn người chết.
+  es: «Mả» es el lugar donde se entierra a alguien.
+- Mã là ngựa… hoặc mã số!
+  es: «Mã» es un caballo… ¡o un código!
+- Mạ là cây lúa non.
+  es: «Mạ» es el brote joven del arroz.
+- Bên cạnh từ hàng ngày còn có lớp từ Hán-Việt.
+  es: Junto a las palabras de cada día hay también una capa de palabras sino-vietnamitas.
+- Người học hay sợ thanh hỏi và thanh ngã.
+  es: Los estudiantes suelen temer el tono hỏi y el tono ngã.
+- Rồi quên nghe thanh nặng.
+  es: Y luego se olvidan de escuchar el tono nặng.
+- Đỏ thành đo đỏ: hơi đỏ thôi.
+  es: De «đỏ» sale «đo đỏ»: solo un poco rojo. (rojo volverse rojo-pálido: un-poco rojo nada-más)
+- Nhỏ thành nho nhỏ… và thế là đủ!
+  es: De «nhỏ» sale «nho nhỏ»… ¡y con eso basta!
+
+notes.es:
+1. Thanh: tono (musical de la sílaba). Tiếng Việt có sáu thanh = el vietnamita tiene seis tonos. Los conoces desde la lección 1; aquí el texto los nombra enteros. Âm: el sonido / la sílaba sin contar el tono. Nghĩa: el significado.
+2. Bộ «ma»: el juego clásico de seis palabras con la misma base y seis tonos distintos. Ma (ngang) = fantasma / espectro (hồn ma, bóng ma); má (sắc) = mejilla (en el norte; en el sur má también es «mamá», lección 15); mà (huyền) = pero / que; mả (hỏi) = tumba; mã (ngã) = caballo (palabra de origen chino) o código (mã số); mạ (nặng) = plantón de arroz. Un tono distinto = otra palabra.
+3. Từ Hán-Việt: palabras de capa sino-vietnamita (préstamos antiguos del chino, muy frecuentes en lo escrito y en nombres). Bên cạnh từ hàng ngày = junto a las de cada día. No hace falta memorizar la lista: solo oír que hay dos «capas» en el léxico.
+4. Người học hay sợ…: los estudiantes suelen temer… (hay + verbo, lección 37). Thanh hỏi / thanh ngã: los tonos hỏi y ngã (misma flecha ✓, filas distintas, lecciones 7 y 13). Thanh nặng: el tono nặng (↓). El texto avisa: te obsesionas con hỏi / ngã… y dejas de oír el nặng.
+5. Reduplicación con cambio de tono: đỏ → đo đỏ (rojizo / un poco rojo); nhỏ → nho nhỏ (pequeñito). La primera sílaba «suaviza» el tono (aquí pasa a ngang) y el matiz baja de intensidad. Hơi … thôi = solo un poco… Lo veremos otra vez en el repaso.
+
+ex1:
+- Sáu thanh làm nghĩa khác nhau.
+  es: Seis tonos hacen que el significado cambie.
+- Anh ấy sợ thanh ngã hơn thanh hỏi.
+  es: Él teme el tono ngã más que el tono hỏi.
+- Đừng quên nghe thanh nặng!
+  es: ¡No olvides escuchar el tono nặng!
+- Áo này đo đỏ, đẹp nhỉ?
+  es: Esta camisa es rojiza, ¿bonita, eh?
+- Nhà nho nhỏ mà gần hồ.
+  es: Casa pequeñita pero cerca del lago.
+
+ex2:
+- Tiếng Việt có [sáu thanh].
+  es: El vietnamita tiene seis tonos.
+- Cùng một [âm], thanh khác thì [nghĩa] khác.
+  es: Con el mismo sonido, si el tono cambia, cambia el significado.
+- [Ma] là hồn ma. [Má] là phần má trên mặt.
+  es: «Ma» es el fantasma. «Má» es la mejilla, en la cara.
+- Người học hay sợ thanh hỏi và thanh [ngã]. Rồi quên nghe thanh [nặng].
+  es: Los estudiantes suelen temer el tono hỏi y el tono ngã. Y luego se olvidan de escuchar el tono nặng.
+- Đỏ thành [đo đỏ]: hơi đỏ thôi. Nhỏ thành [nho nhỏ].
+  es: De «đỏ» sale «đo đỏ»: solo un poco rojo. De «nhỏ» sale «nho nhỏ».
+
+culture.es:
+Los seis tonos no son adorno: multiplican el léxico. El juego de ma aparece en casi todos los manuales porque se oye de un golpe. Al lado van las palabras de origen chino (nombres de ciencias, administración, abstractos) y las de cada día; a veces las dos capas conviven (ngựa y mã para «caballo»). Hỏi y ngã asustan al principiante; el nặng, más corto y bajo, se escapa si solo miras la lista. Y cuando el vietnamita «suaviza» un color o un tamaño (đo đỏ, nho nhỏ), el tono de la primera sílaba se mueve: no es un error, es el sistema.
+
+== 93 B2
+numeral: Bài thứ chín mươi ba
+title: Bắc và Nam
+title.es: Norte y Sur
+
+dialogue:
+- Giọng Bắc và giọng Nam khác nhau.
+  es: El acento del norte y el del sur son distintos.
+- Ở Hà Nội, «vâng» là lời đồng ý lịch sự thường gặp.
+  es: En Hanói, «vâng» es el sí cortés habitual.
+- «Dạ» cũng dùng, nhất là với người lớn tuổi, hoặc khi trả lời điện thoại.
+  es: «Dạ» también se usa, sobre todo con mayores, o al contestar el teléfono.
+- Ở miền Nam, «dạ» mới là lời đồng ý quen thuộc.
+  es: En el sur, «dạ» es el sí que todo el mundo usa.
+- Người Nam hay nói «hông» thay cho «không».
+  es: En el sur a menudo se dice «hông» en lugar de «không».
+- «Vô» thay cho «vào»; «ba», «má» thay cho «bố», «mẹ».
+  es: Se oye «vô» por «vào»; «ba» y «má» por «padre» y «madre».
+- «Heo» thay cho «lợn».
+  es: «Heo» en lugar de «cerdo».
+- Âm v và gi ở miền Nam thường nghe như «y».
+  es: Las letras v y gi en el sur suelen oírse como una «y».
+- Âm n và ng cuối chữ đôi khi gần nhau.
+  es: La n y la ng finales a veces se acercan.
+- Người học nên học dạng Hà Nội trước.
+  es: El estudiante debería aprender primero las formas de Hanói.
+- Rồi nghe nhiều giọng khác.
+  es: Y luego oír muchos otros acentos.
+- Cùng một tiếng Việt, nhiều cách nói.
+  es: Un mismo vietnamita, muchas maneras de hablarlo.
+- Bắc hay Nam, miễn là hiểu nhau!
+  es: Norte o sur, ¡con tal de entenderse!
+
+notes.es:
+1. Giọng: acento / manera de hablar. Giọng Bắc / giọng Nam = el habla del norte / del sur. Miền Nam: el sur (del país). Bắc / Nam: norte / sur (ya en đường sắt Bắc–Nam, lección 44).
+2. Vâng y dạ (lecciones 5, 14): los dos son «sí» cortés. En el norte vâng es el habitual; dạ también, sobre todo con mayores o al coger el teléfono. En el sur dạ manda. Un mayor no dice vâng / dạ / ạ a alguien más joven (regla de edad, siempre).
+3. Formas sureñas que oirás: hông ≈ không; vô ≈ vào; ba / má ≈ bố / mẹ (lección 15); heo ≈ lợn (cerdo; en el norte lợn es lo habitual). No las uses tú todavía si aprendes Hanói: solo reconocerlas.
+4. Pronunciación del sur: v y gi se acercan a una «y» española; n y ng finales a veces se mezclan. 
+5. Nên học dạng Hà Nội trước: conviene aprender primero las formas de Hanói (nên, lección 31; dạng = forma / variante). Rồi nghe nhiều… = y luego escuchar mucho. Miễn là (lección 72): con tal de que… El texto cierra en claro: mismo idioma, muchas bocas.
+
+ex1:
+- Giọng Bắc khác giọng Nam.
+  es: El acento del norte es distinto del del sur.
+- Ở Hà Nội người ta hay nói vâng.
+  es: En Hanói la gente suele decir «vâng».
+- Ở miền Nam, dạ rất quen.
+  es: En el sur, «dạ» es muy habitual.
+- Anh ấy nói «hông» thay cho «không».
+  es: Él dice «hông» en lugar de «không».
+- Học dạng Hà Nội trước, rồi nghe nhiều!
+  es: ¡Aprende primero las formas de Hanói, y luego oye mucho!
+
+ex2:
+- [Giọng] Bắc và giọng Nam khác nhau.
+  es: El acento del norte y el del sur son distintos.
+- Ở Hà Nội, «[vâng]» là lời đồng ý lịch sự thường gặp.
+  es: En Hanói, «vâng» es el sí cortés habitual.
+- Ở miền Nam, «[dạ]» mới là lời đồng ý quen thuộc. Người Nam hay nói «[hông]» thay cho «không».
+  es: En el sur, «dạ» es el sí que todo el mundo usa. En el sur a menudo se dice «hông» en lugar de «không».
+- «[Vô]» thay cho «vào»; «ba», «má» thay cho «bố», «mẹ». «[Heo]» thay cho «lợn».
+  es: Se oye «vô» por «vào»; «ba» y «má» por «padre» y «madre». «Heo» por «cerdo».
+- Người học nên học dạng [Hà Nội] trước. Bắc hay Nam, [miễn là] hiểu nhau!
+  es: El estudiante debería aprender primero las formas de Hanói. Norte o sur, ¡con tal de entenderse!
+
+culture.es:
+Vietnam es un país largo: de Hanói a Ciudad Ho Chi Minh hay más de mil kilómetros. El vietnamita es uno, pero el oído marca el mapa. En el norte oirás vâng, lợn, vào; en el sur, dạ, heo, vô, y una «y» donde el norte pone v o gi. Las series y las canciones sureñas llegan a todas partes: no hace falta mudarse para oírlas. Este curso te da Hanói primero, como brújula; después, cuanto más escuches, más rico suena el mismo idioma.
+
+== 94 B2
+numeral: Bài thứ chín mươi tư
+title: Cũng được
+title.es: Bastante bien
+
+dialogue:
+- Anh ơi, báo cáo của em thế nào?
+  es: Oye, ¿qué tal mi informe?
+- Báo cáo à?
+  es: ¿El informe?
+- Đúng. Anh đọc chưa?
+  es: Sí. ¿Ya lo has leído?
+- Đọc rồi. Cũng được.
+  es: Ya. Bastante bien.
+- Cũng được?
+  es: ¿Bastante bien?
+- Ừ. Tạm ổn.
+  es: Sí. Tirando a correcto.
+- Tạm ổn… vậy là chưa tốt?
+  es: Tirando a correcto… ¿entonces aún no está bien?
+- Không! Ở đây «cũng được» là khen đấy!
+  es: ¡No! ¡Aquí «cũng được» es un elogio!
+- Thật à?
+  es: ¿De verdad?
+- Thật. Nếu anh nói «xin góp ý»…
+  es: Sí. Si yo digo «xin góp ý»…
+- Thì sao?
+  es: ¿Entonces qué?
+- Thì… báo cáo sai nhiều!
+  es: Entonces… ¡el informe tiene muchos fallos!
+- À! Em hiểu rồi. Thể diện quan trọng nhỉ?
+  es: ¡Ah! Ya entiendo. La imagen importa, ¿eh?
+- Đúng. Nên… báo cáo của em, cũng được lắm!
+  es: Eso es. Así que… ¡tu informe, bastante bien de verdad!
+
+notes.es:
+1. Báo cáo: el informe / el reporte. Cũng được: bastante bien / no está mal. En español suena tibio; en el trabajo vietnamita a menudo es un elogio contenido. Lo viste como «también vale» (lecciones 55, 65); aquí es juicio suave sobre un trabajo.
+2. Ừ: sí (informal: del mayor al menor o entre iguales). Tạm ổn: aceptable / tirando a correcto (tạm = provisional / de momento; ổn = estable / en orden). Puede sonar a «no del todo fino» si lo lees con oído español; el jefe de hoy lo usa como «va bien».
+3. Xin góp ý: permíteme una observación / una sugerencia (góp ý = aportar una opinión). Fórmula suave que a menudo quiere decir «hay un problema» sin decirlo de frente. Xin (lección 38) suaviza.
+4. Thể diện: la cara / la imagen pública (no perder cara delante de otros). Quan trọng: importante. Cuidar thể diện = no dejar al otro en mal lugar. Por eso se dice menos de lo que se piensa.
+5. Khen: elogiar / alabar. «Cũng được» là khen = «bastante bien» es un elogio. Đấy (lección 82) señala. Đọc: leer. El giro: el colega extranjero oye tibieza; el jefe oye flor… y remata con cũng được lắm.
+
+ex1:
+- Báo cáo này cũng được.
+  es: Este informe está bastante bien.
+- Bài của anh tạm ổn.
+  es: Tu ejercicio tira a correcto.
+- Chị ấy xin góp ý một chút.
+  es: Ella pide aportar una pequeña observación.
+- Ở đây thể diện quan trọng lắm.
+  es: Aquí la imagen importa mucho.
+- Sếp khen báo cáo của tôi!
+  es: ¡El jefe ha elogiado mi informe!
+
+ex2:
+- Anh ơi, [báo cáo] của em thế nào? Đọc rồi. [Cũng được].
+  es: Oye, ¿qué tal mi informe? Ya lo he leído. Bastante bien.
+- Ừ. [Tạm ổn]. Tạm ổn… vậy là chưa tốt?
+  es: Sí. Tirando a correcto. Tirando a correcto… ¿entonces aún no está bien?
+- Không! Ở đây «cũng được» là [khen] đấy!
+  es: ¡No! ¡Aquí «cũng được» es un elogio!
+- Nếu anh nói «xin [góp ý]»… thì báo cáo sai nhiều!
+  es: Si yo digo «xin góp ý»… ¡entonces el informe tiene muchos fallos!
+- À! [Thể diện] quan trọng nhỉ? Đúng. Báo cáo của em, cũng được lắm!
+  es: ¡Ah! La imagen importa, ¿eh? Eso es. ¡Tu informe, bastante bien de verdad!
+
+culture.es:
+En muchas oficinas vietnamitas el elogio fuerte en voz alta puede poner nervioso a quien lo recibe (y a quien escucha). Se prefiere un «no está mal» que salve la cara de todos: nadie queda por las nubes ni por los suelos. Un «xin góp ý» abre la crítica sin romper la sonrisa. Si trabajas con colegas de Hanói, no traduzcas «cũng được» como un aprobado justo: a veces es la nota más alta que oirás en la reunión.
+
+== 95 B2
+numeral: Bài thứ chín mươi lăm
+title: Ca dao
+title.es: Versos populares
+
+dialogue:
+- Ca dao là câu thơ ngắn dân gian.
+  es: El ca dao es un verso corto popular.
+- Người ta vẫn nhớ và vẫn đọc.
+  es: La gente todavía lo recuerda y todavía lo recita.
+- Có câu nói về công việc.
+  es: Hay versos que hablan del trabajo.
+- «Có công mài sắt, có ngày nên kim.»
+  es: «Con esfuerzo se lima el hierro, un día se hace aguja.»
+- Nghĩa là: làm mãi thì sẽ được.
+  es: Quiere decir: si insistes, al final sale.
+- Có câu nói về tình cảm.
+  es: Hay versos que hablan del afecto.
+- Cha mẹ như núi, như nước nguồn.
+  es: Padre y madre son como la montaña, como el agua de la fuente.
+- Có câu nói về trời mưa, trời nắng.
+  es: Hay versos que hablan de la lluvia y del sol.
+- Người Việt hay đưa ca dao vào câu nói hàng ngày.
+  es: En Hanói la gente suele meter un verso popular en la frase de cada día.
+- Ví dụ, khi ăn hoa quả ngon…
+  es: Por ejemplo, al comer una fruta rica…
+- …hay nói: «Ăn quả nhớ kẻ trồng cây.»
+  es: …suelen decir: «Al comer la fruta, acuérdate de quien plantó el árbol.»
+- Một câu cũ, một bữa cơm mới.
+  es: Una frase vieja, una comida nueva.
+- Ca dao không dài, nhưng nhớ mãi.
+  es: El ca dao no es largo, pero se recuerda siempre.
+- Ngắn mà đủ!
+  es: ¡Corto y basta!
+
+notes.es:
+1. Ca dao: verso o pareado popular de tradición oral (no es un poema de autor moderno). Câu thơ ngắn dân gian = frase poética corta del pueblo. Vẫn nhớ / vẫn đọc: todavía se recuerda / se recita (vẫn, lección 37).
+2. «Có công mài sắt, có ngày nên kim»: proverbio (tục ngữ) que se cita junto a los ca dao (con esfuerzo se lima el hierro; un día se hace aguja). Nghĩa là (lección 92: nghĩa): quiere decir… Làm mãi thì sẽ được = si lo haces una y otra vez, saldrá.
+3. Cha mẹ như núi, như nước nguồn: paráfrasis suave del tema clásico (el padre como montaña, la madre como agua de manantial). Như (lección 24): como. No hace falta la forma larga de manual: el tema basta.
+4. Ăn quả nhớ kẻ trồng cây: al comer la fruta, recuerda a quien plantó el árbol (tục ngữ muy citada). Kẻ: quien / la persona que. Trồng cây: plantar un árbol. Hoa quả: fruta (quả ya en lección 22).
+5. Đưa … vào câu nói: meter … en la frase. Một câu cũ, một bữa cơm mới = una frase de antes en una comida de ahora. El texto cierra en claro: ngắn mà đủ (corto y basta; mà, lección 6).
+
+ex1:
+- Bà ấy hay đọc ca dao lúc ăn cơm.
+  es: Ella suele recitar ca dao al comer.
+- Anh làm mãi, rồi sẽ nên kim!
+  es: Si insistes, ¡un día harás aguja!
+- Trời mưa rồi nắng, như ca dao nói.
+  es: Llueve y luego hace sol, como dice el ca dao.
+- Ăn xoài nhớ kẻ trồng cây.
+  es: Al comer mango, acuérdate de quien plantó el árbol.
+- Câu ngắn mà mọi người nhớ mãi.
+  es: Frase corta que todo el mundo recuerda siempre.
+
+ex2:
+- [Ca dao] là câu thơ ngắn dân gian. Người ta vẫn nhớ và vẫn [đọc].
+  es: El ca dao es un verso corto popular. La gente todavía lo recuerda y todavía lo recita.
+- «Có công mài sắt, có ngày nên [kim].» Nghĩa là: làm mãi thì sẽ được.
+  es: «Con esfuerzo se lima el hierro, un día se hace aguja.» Quiere decir: si insistes, al final sale.
+- Cha mẹ như [núi], như nước nguồn.
+  es: Padre y madre son como la montaña, como el agua de la fuente.
+- Khi ăn hoa quả ngon… hay nói: «Ăn quả nhớ kẻ [trồng cây].»
+  es: Al comer una fruta rica… suelen decir: «Al comer la fruta, acuérdate de quien plantó el árbol.»
+- Một câu cũ, một bữa cơm mới. [Ngắn] mà đủ!
+  es: Una frase vieja, una comida nueva. ¡Corto y basta!
+
+culture.es:
+El ca dao viaja de boca en boca: trabajo del campo, lluvia, padres, amor contenido. No lleva firma de editorial; por eso sigue en la cocina y en el taxi. Un proverbio (tục ngữ) o un verso corto se cuela en una frase moderna sin que nadie abra un libro: basta una fruta buena para oír «nhớ kẻ trồng cây». Si alguien cita dos versos en la mesa, no está dando clase: está hablando como se ha hablado siempre.
+
+aside.es:
+Quedan cinco lecciones. El final del curso se acerca; no aceleres: oye cada línea en voz alta.
+
+== 96 B2
+numeral: Bài thứ chín mươi sáu
+title: Cẩn thận thanh
+title.es: Cuidado con los tonos
+
+dialogue:
+- Cô ơi, cho tôi một cái bảo!
+  es: ¡Señorita, deme un «bảo»!
+- Bảo?
+  es: ¿«Bảo»?
+- Vâng… bánh bảo!
+  es: Sí… ¡un bollo «bảo»!
+- Bánh bao! Thanh ngang, không phải hỏi.
+  es: ¡«Bánh bao»! Tono ngang, no el hỏi.
+- À, bánh bao. Xin lỗi!
+  es: Ah, «bánh bao». ¡Perdón!
+- Không sao. Còn gì nữa không?
+  es: No pasa nada. ¿Algo más?
+- Cô… má đẹp quá!
+  es: ¡Señorita… qué mejilla más bonita!
+- Má?
+  es: ¿Mejilla?
+- Ý tôi là… mẹ cô!
+  es: Quiero decir… ¡su madre!
+- À! Mẹ tôi. Ở Hà Nội nói mẹ, không nói má.
+  es: ¡Ah! Mi madre. En Hanói se dice «mẹ», no «má».
+- Má là… bên mặt.
+  es: «Má» es… la mejilla.
+- Như bài «ma, má, mà…»!
+  es: ¡Como la lección de «ma, má, mà…»!
+- Đúng. Thanh khác, nghĩa khác. Một cái bánh bao nhé?
+  es: Eso es. Otro tono, otro sentido. ¿Un «bánh bao», vale?
+
+notes.es:
+1. Bánh bao: bollo relleno al vapor (bao, tono ngang). Bảo (hỏi) = decir / encargar / proteger. Báo (sắc) = periódico / avisar. El alumno pide bảo y bảo… y la vendedora oye otra palabra. Pareja mínima real: bao / bảo / báo.
+2. Thanh ngang, không phải hỏi: tono ngang, no el hỏi. La corrección nombra el tono (lección 92). Không sao (lección 16): no pasa nada.
+3. Má / mẹ: en el norte má = mejilla; mẹ = madre (lección 15). En el sur má puede ser «mamá». El alumno quiere elogiar a la madre y suelta má: suena a mejilla. Ý tôi là…: quiero decir… (ý = idea / intención).
+4. Như bài «ma, má, mà…»: como la serie de la lección 92. Thanh khác, nghĩa khác vuelve entero. El giro: dos tropiezos, una vendedora paciente… y al final, un bánh bao de verdad.
+
+ex1:
+- Cho tôi một cái bánh bao.
+  es: Deme un «bánh bao».
+- Không phải bảo, là bao!
+  es: ¡No es «bảo», es «bao»!
+- Ở Hà Nội, mẹ không phải má.
+  es: En Hanói, «mẹ» no es «má».
+- Má là phần bên mặt.
+  es: «Má» es la parte de la mejilla.
+- Thanh khác thì nghĩa khác.
+  es: Si el tono cambia, el significado cambia.
+
+ex2:
+- Cô ơi, cho tôi một cái [bảo]! Bảo? Ừ… bánh [bảo]!
+  es: ¡Señorita, deme un «bảo»! ¿«Bảo»? Sí… ¡un bollo «bảo»!
+- Bánh [bao]! Thanh ngang, không phải [hỏi].
+  es: ¡«Bánh bao»! Tono ngang, no el hỏi.
+- Cô… [má] đẹp quá! Ý tôi là… [mẹ] cô!
+  es: ¡Señorita… qué mejilla más bonita! Quiero decir… ¡su madre!
+- Ở Hà Nội nói mẹ, không nói má. Má là… bên [mặt].
+  es: En Hanói se dice «mẹ», no «má». «Má» es… la mejilla.
+- Thanh khác, [nghĩa] khác. Một cái bánh bao nhé?
+  es: Otro tono, otro sentido. ¿Un «bánh bao», vale?
+
+== 97 B2
+numeral: Bài thứ chín mươi bảy
+title: Giọng cả nước
+title.es: Voces de todo el país
+
+dialogue:
+- Việt Nam dài, giọng cũng nhiều.
+  es: Vietnam es largo, y los acentos también son muchos.
+- Hà Nội giữ giọng chuẩn của sách học.
+  es: Hanói guarda el acento estándar de los libros.
+- Vào Huế, tai nghe lạ ngay.
+  es: Al llegar a Huế, el oído se sorprende enseguida.
+- Người Huế hỏi «mô», «răng», «rứa».
+  es: En Huế preguntan con «mô», «răng», «rứa».
+- «Mô» gần với «đâu»; «tê» gần với «kia».
+  es: «Mô» se acerca a «dónde»; «tê» a «ahí».
+- «Răng» như «sao»; «rứa» như «vậy».
+  es: «Răng» como «cómo»; «rứa» como «así».
+- Nghệ An, Hà Tĩnh cũng có giọng riêng, nặng và chắc.
+  es: Nghệ An y Hà Tĩnh también tienen acento propio, grave y firme.
+- Sài Gòn và miền Tây sông nước nói nhanh, mở.
+  es: Saigón y el oeste de ríos y canales hablan rápido, abierto.
+- Người Việt ở nước ngoài giữ tiếng Việt theo vùng mình.
+  es: Los vietnamitas en el extranjero guardan el vietnamita de su región.
+- Paris, Berlin, Madrid… mỗi nơi một chút quê.
+  es: París, Berlín, Madrid… en cada sitio un poco de pueblo.
+- Người học giữ một chuẩn để nói rõ.
+  es: El estudiante guarda un estándar para hablar claro.
+- Chuẩn Hà Nội tiện cho sách và thi.
+  es: El estándar de Hanói viene bien para libros y exámenes.
+- Nhưng nghe giọng khác cũng vui.
+  es: Pero oír otros acentos también alegra.
+- Một tiếng, nhiều giọng: càng nghe càng thích!
+  es: Una lengua, muchos acentos: ¡cuanto más oyes, más te gusta!
+
+notes.es:
+1. Giọng cả nước: las voces / acentos de todo el país (cả, lección 31; nước = país). Giọng (lección 93) vuelve. Chuẩn: el estándar / la norma. Giọng chuẩn = el acento de referencia (el de los manuales, cerca de Hanói).
+2. Mô / tê / răng / rứa: muestra cortés del habla de Huế (centro). Mô ≈ đâu; tê ≈ kia (allí); răng ≈ sao; rứa ≈ vậy. No hace falta hablar así: solo reconocerlas si viajas al centro.
+3. Nghệ An, Hà Tĩnh: provincias del norte-centro con acento muy marcado (nặng và chắc = grave y firme). Sài Gòn: nombre habitual de Ciudad Ho Chi Minh en el habla. Miền Tây sông nước: el oeste del Mekong (ríos y canales).
+4. Người Việt ở nước ngoài: vietnamitas en el extranjero (nước ngoài, lección 39). Mỗi nơi một chút quê = en cada sitio un poco del pueblo de origen (quê, lección 33).
+5. Giữ một chuẩn: quedarse con un estándar para hablar claro. Càng nghe càng thích (càng … càng, lección 79). El texto cierra en claro: una lengua, muchas bocas, y el oído disfruta.
+
+ex1:
+- Hà Nội giữ giọng chuẩn.
+  es: Hanói guarda el acento estándar.
+- Ở Huế người ta hỏi «mô»!
+  es: ¡En Huế la gente pregunta «mô»!
+- Giọng Nghệ An nặng và chắc.
+  es: El acento de Nghệ An es grave y firme.
+- Người Việt ở Madrid vẫn nói tiếng Việt.
+  es: Los vietnamitas en Madrid siguen hablando vietnamita.
+- Càng nghe giọng khác càng thích.
+  es: Cuanto más oyes otros acentos, más te gusta.
+
+ex2:
+- Việt Nam dài, [giọng] cũng nhiều. Hà Nội giữ giọng [chuẩn] của sách học.
+  es: Vietnam es largo, y los acentos también son muchos. Hanói guarda el acento estándar de los libros.
+- Người Huế hỏi «[mô]», «răng», «[rứa]».
+  es: En Huế preguntan con «mô», «răng», «rứa».
+- «Mô» gần với «đâu»; «[tê]» gần với «kia». «Răng» như «sao».
+  es: «Mô» se acerca a «dónde»; «tê» a «ahí». «Răng» como «cómo».
+- Sài Gòn và miền Tây sông nước nói nhanh. Người Việt ở [nước ngoài] giữ tiếng Việt theo vùng mình.
+  es: Saigón y el oeste de ríos y canales hablan rápido. Los vietnamitas en el extranjero guardan el vietnamita de su región.
+- Người học giữ một chuẩn để nói rõ. Một tiếng, nhiều giọng: [càng nghe càng] thích!
+  es: El estudiante guarda un estándar para hablar claro. Una lengua, muchos acentos: ¡cuanto más oyes, más te gusta!
+
+culture.es:
+De Hanói a la desembocadura del Mekong el vietnamita cambia de música: tonos, ritmo, alguna palabra. Huế guarda partículas propias (mô, tê, răng, rứa) que el visitante nota al primer taxi. Nghệ y Hà Tĩnh suenan más duros al oído de Hanói; el sur, más abierto y rápido. En la diáspora cada familia lleva el acento del pueblo que dejó. Aprender una norma (Hanói) no cierra el mapa: te da un sitio desde el que escuchar el resto sin perderte.
+
+== 98 B2
+kind: revision
+numeral: Bài thứ chín mươi tám
+title: Ôn tập
+title.es: Repaso
+
+dialogue:
+- Em ơi, hôm nay anh mệt vì thanh!
+  es: ¡Oye, hoy estoy agotado por los tonos!
+  refs: 30 92
+- Thanh nào?
+  es: ¿Qué tonos?
+  refs: 92
+- Anh hỏi bánh bao… thành bánh bảo!
+  es: Pedí un «bánh bao»… ¡y salió «bánh bảo»!
+  refs: 96
+- Chị ấy bảo ngay: bánh bao!
+  es: Ella dijo enseguida: ¡«bánh bao»!
+  refs: 53 96
+- Rồi anh khen mẹ chị ấy… lại nói má!
+  es: Luego elogié a su madre… ¡y volví a decir «má»!
+  refs: 94 96
+- Khó quá!
+  es: ¡Qué difícil!
+  refs: 90
+- Mà sếp bảo báo cáo của anh cũng được.
+  es: Y el jefe dijo que mi informe estaba bastante bien.
+  refs: 53 94
+- Cũng được? Anh không vui à?
+  es: ¿Bastante bien? ¿No estás contento?
+  refs: 79 94
+- Không vui. Nhưng hóa ra là khen!
+  es: No. ¡Pero resulta que era un elogio!
+  refs: 58 94
+- Như «có công mài sắt…» nhỉ?
+  es: Como lo de «con esfuerzo se lima el hierro…», ¿eh?
+  refs: 48 95
+- Ừ. Làm mãi thì sẽ được.
+  es: Sí. Si insistes, al final sale.
+  refs: 95
+- Bạn anh ở Sài Gòn nói «hông» suốt ngày.
+  es: Mi amigo en Saigón dice «hông» todo el día.
+  refs: 72 93 97
+- Anh nghe «hông»… nghĩ họ giận!
+  es: Oigo «hông»… ¡y pienso que están enfadados!
+  refs: 85 89 93
+- Không. Ở miền Nam «hông» là «không» thôi.
+  es: No. En el sur «hông» es solo «không».
+  refs: 93
+- Vậy anh càng học càng sao?
+  es: Entonces ¿cuanto más estudias, más qué?
+  refs: 79
+- Càng học càng vui. Một cái bánh bao nhé? Bao, không phải bảo!
+  es: Cuanto más estudio, más me alegro. ¿Un «bánh bao», vale? ¡«Bao», no «bảo»!
+  refs: 79 96
+
+notes.es:
+Otra semana y otra vez: nada de memorizar reglas. Esta lección solo ordena lo que ya has oído. Si un cũng được o un «hông» te frenan, sigue: vuelven mañana.
+
+1. Marcadores de tiempo y verbos de dirección juntos (lecciones 19, 26, 29, 32, 33, 36, 87).
+
+| Tiempo | Significado | Dirección | Significado |
+|---|---|---|---|
+| đang | en curso | ra | hacia fuera |
+| đã | pasado / experiencia | vào | hacia dentro |
+| sẽ | futuro (si hace falta) | lên | subir |
+| sắp | a punto de | xuống | bajar |
+| rồi | ya (detrás) | về | volver / a casa |
+| chưa | aún no | sang / lại | al otro lado / de vuelta |
+
+El verbo no cambia: el tiempo lo dicen đang / đã / sẽ…; el movimiento, ra / vào / lên… detrás del verbo principal (đi vào, mang xuống, đang về).
+
+2. Được / bị / cho (lecciones 25, 30, 52, 56, 66).
+
+| Forma | Uso | Ejemplo |
+|---|---|---|
+| được + verbo | resultado bueno / pasiva «agradable» | được khen; được làm ở Huế |
+| bị + … | padecer algo malo | bị mệt; bị đau |
+| được không? | ¿se puede? | Anh giúp em được không? |
+| cho + persona + cosa / verbo | dar / dejar | cho tôi hỏi; cho vào |
+| cho mượn / mượn | prestar / pedir prestado | cho em mượn; mượn thang |
+
+Được abre lo bueno o permitido; bị, lo que te pasa de malo; cho marca hacia quién va la cosa o el favor.
+
+3. Comparación y càng … càng (lecciones 43, 44, 60, 79).
+
+| Forma | Significado | Ejemplo |
+|---|---|---|
+| hơn / nhất | más / el más | đẹp hơn; đẹp nhất |
+| càng A càng B | cuanto más A, más B | Càng học càng vui. |
+| càng ngày càng | cada día más | càng ngày càng đông |
+| như | como | như ca dao; dễ như ăn cháo |
+
+4. Partículas de actitud (lista reunida: lecciones 8, 13, 15, 16, 25, 48, 49, 64, 81, 82, 87).
+
+| Partícula | Matiz | Ejemplo |
+|---|---|---|
+| ạ | respeto (hacia mayor) | Đây ạ. |
+| à | sorpresa / confirmación | Buồn à? |
+| nhỉ | ¿eh? (busca acuerdo) | như ca dao nhỉ? |
+| nhé | ¿vale? (suave) | bánh bao nhé? |
+| thôi | nada más / basta | không thôi |
+| đi | empuja el imperativo | Ăn đi! |
+| lại | otra vez (queja) | lại nói má |
+| rồi | ya / y luego | Đọc rồi. |
+| chứ / cơ | claro / fíjate | nhỏ chứ; to thế cơ |
+| đấy | fíjate / te lo digo | khen đấy |
+| mà | objeción suave / contraste | Mà sếp bảo… |
+| thì phải | claro / como mínimo | Ba tiếng thì phải. |
+
+Van al final (o delante, như lại): no conjugan el verbo.
+
+5. Thành ngữ y tục ngữ encontrados (lecciones 85, 90, 94, 95).
+
+| Giro | Significado |
+|---|---|
+| chịu không nổi | no aguantar más |
+| hết kiên nhẫn | acabarse la paciencia |
+| nghĩ ra / tìm ra | ocurrírsele / dar con |
+| cắn răng chịu thôi | aguantar a duras penas |
+| dễ như ăn cháo | pan comido |
+| cũng được / tạm ổn | elogio contenido (en contexto) |
+| có công mài sắt, có ngày nên kim | con esfuerzo, al final sale |
+| ăn quả nhớ kẻ trồng cây | al comer la fruta, recuerda a quien plantó |
+
+Un thành ngữ es giro fijo; un tục ngữ / ca dao corto se cuela en la frase de cada día.
+
+6. Norte / sur y otras voces (lecciones 14, 15, 93, 97).
+
+| Norte (Hanói) | Sur (u otras) | Nota |
+|---|---|---|
+| vâng (sí cortés habitual) | dạ (habitual en el sur) | dạ también en el norte con mayores / al teléfono |
+| không | hông | solo reconocer |
+| vào | vô | idem |
+| bố / mẹ | ba / má | má en el norte = mejilla |
+| lợn | heo | cerdo |
+| giọng chuẩn sách | mô, tê, răng, rứa (Huế) | muestra del centro |
+
+Aprende Hanói primero; luego oye el resto. Un mayor no dice vâng / dạ / ạ a alguien más joven.
+
+7. Reduplicación y nominalizadores (lecciones 89, 91, 92).
+
+| Forma | Matiz | Ejemplo |
+|---|---|---|
+| đo đỏ / nho nhỏ | un poco rojo / pequeñito (tono de la 1.ª sílaba se suaviza) | áo đo đỏ; nhà nho nhỏ |
+| sự + … | nombre formal | sự việc |
+| việc | tarea / asunto | nhiều việc |
+| cuộc | acontecimiento / vida | cuộc sống; cuộc họp |
+| nỗi / niềm | pena / alegría (sentimiento) | nỗi buồn; niềm vui |
+
+Đỏ → đo đỏ, nhỏ → nho nhỏ: la reduplicación baja la intensidad. Sự / cuộc / nỗi / niềm fabrican nombres a partir de ideas.
+
+Semana cerrada. Un bảo que debía ser bao, un cũng được que era elogio, un «hông» que no era enfado… y al final, el bollo con el tono bueno. Mañana, lección 99.
+
+== 99 B2
+numeral: Bài thứ chín mươi chín
+title: Đừng để mất tiếng
+title.es: No dejes que se pierda
+
+dialogue:
+- Bạn đã học gần xong một trăm bài.
+  es: Ya casi has terminado cien lecciones.
+- Nhưng tiếng Việt cần giữ mỗi ngày.
+  es: Pero el vietnamita hay que guardarlo cada día.
+- Nghe đài và podcast từ Hà Nội.
+  es: Escucha la radio y podcasts desde Hanói.
+- Giọng chuẩn sẽ vào tai bạn lại.
+  es: El acento estándar te volverá a entrar por el oído.
+- Xem phim có chữ tiếng Việt.
+  es: Mira películas con subtítulos en vietnamita.
+- Đọc chữ khi nghe lời.
+  es: Lee la letra mientras oyes la voz.
+- Ra phố, đọc thực đơn to lên.
+  es: Sal a la calle, lee la carta del restaurante en voz alta.
+- Phở, bún, cà phê… từng chữ một.
+  es: Pho, bun, café… letra a letra.
+- Gặp người Việt thì nói.
+  es: Si encuentras a un vietnamita, habla.
+- Sai cũng được: họ sẽ hiểu.
+  es: Aunque te equivoques, vale: te entenderán.
+- Nếu được, đi Việt Nam một chuyến ngắn.
+  es: Si puedes, haz un viaje corto a Vietnam.
+- Tai, miệng, mắt: cả ba cùng học.
+  es: Oído, boca, ojos: los tres aprenden juntos.
+- Đừng để mất tiếng vì ngại.
+  es: No dejes que se pierda la lengua por vergüenza.
+- Mỗi ngày một ít, vẫn hơn không.
+  es: Un poco cada día sigue siendo más que nada.
+- Tiếng Việt ở lại với bạn!
+  es: ¡Que el vietnamita se quede contigo!
+
+notes.es:
+1. Đừng để mất tiếng: no dejes que se pierda la lengua (đừng, lección 40; mất = perder; tiếng = la lengua). Giữ mỗi ngày = guardarla / mantenerla cada día (giữ, lección 97).
+2. Đài: la radio (đài phát thanh en forma larga; aquí đài basta). Podcast: podcast (préstamo). Từ Hà Nội = desde Hanói (từ, lección 29). Giọng chuẩn (lección 97) vuelve al oído.
+3. Phim có chữ tiếng Việt: película con letra / subtítulos en vietnamita (phim, lección 20; chữ = letra / escrito). Đọc chữ khi nghe lời = leer lo escrito mientras oyes las palabras.
+4. Thực đơn: la carta del restaurante / el menú. Đọc to lên = leer en voz alta (to = fuerte). Từng chữ một = una letra / una palabra tras otra. Sai cũng được: equivocarse también vale (cũng được, lección 94, aquí = no pasa nada).
+5. Một chuyến ngắn: un viaje corto (chuyến en chuyến bay, lección 62; ngắn, lección 46). Tai / miệng / mắt: oído / boca / ojos. Ngại: dar vergüenza / dudar por miedo. Cứ + verbo: sigue / no dejes de… (lo verás otra vez mañana). Mỗi ngày một ít, vẫn hơn không = un poco al día sigue siendo más que cero (hơn, lección 43).
+
+ex1:
+- Nghe đài Hà Nội mỗi ngày.
+  es: Escucha la radio de Hanói cada día.
+- Xem phim có chữ tiếng Việt.
+  es: Mira una película con subtítulos en vietnamita.
+- Đọc thực đơn to lên!
+  es: ¡Lee la carta en voz alta!
+- Sai cũng được, cứ nói!
+  es: Equivocarse vale, ¡habla igual!
+- Đừng để mất tiếng Việt.
+  es: No dejes que se pierda el vietnamita.
+
+ex2:
+- Nhưng tiếng Việt cần [giữ] mỗi ngày. Nghe [đài] và podcast từ Hà Nội.
+  es: Pero el vietnamita hay que guardarlo cada día. Escucha la radio y podcasts desde Hanói.
+- Xem [phim] có chữ tiếng Việt. Đọc chữ khi nghe lời.
+  es: Mira películas con subtítulos en vietnamita. Lee la letra mientras oyes la voz.
+- Ra phố, đọc [thực đơn] to lên.
+  es: Sal a la calle, lee la carta del restaurante en voz alta.
+- Gặp người Việt thì nói. [Sai] cũng được: họ sẽ hiểu.
+  es: Si encuentras a un vietnamita, habla. Aunque te equivoques, vale: te entenderán.
+- Nếu được, đi Việt Nam một [chuyến] ngắn. Đừng để [mất tiếng] vì ngại.
+  es: Si puedes, haz un viaje corto a Vietnam. No dejes que se pierda la lengua por vergüenza.
+
+aside.es:
+Mañana cierra el curso. Hoy solo elige una cosa de la lista y hazla de verdad: cinco minutos de radio bastan.
+
+== 100 B2
+numeral: Bài thứ một trăm
+title: Hẹn gặp lại
+title.es: Hasta pronto
+
+dialogue:
+- Hôm nay là bài cuối của khóa này.
+  es: Hoy es la última lección de este curso.
+- Bạn đã đi một trăm ngày.
+  es: Has recorrido cien días.
+- Nhưng sóng thứ hai vẫn còn.
+  es: Pero la segunda ola sigue.
+- Từ ngày mai, mỗi ngày một bài cũ.
+  es: Desde mañana, cada día una lección vieja.
+- Bài năm mươi hai, năm mươi ba… đến một trăm.
+  es: La cincuenta y dos, la cincuenta y tres… hasta la cien.
+- Bốn mươi chín ngày nữa.
+  es: Cuarenta y nueve días más.
+- Che bài tiếng Việt, nói từ tiếng Tây Ban Nha.
+  es: Tapa el vietnamita, habla desde el español.
+- Rồi kiểm tra. Một bài mỗi ngày đủ.
+  es: Luego comprueba. Una lección al día basta.
+- Cứ nghe. Cứ đọc.
+  es: Sigue escuchando. Sigue leyendo.
+- Mỗi ngày một ít, tiếng Việt không đi đâu.
+  es: Un poco cada día, el vietnamita no se va a ninguna parte.
+- Khi mệt, nghỉ ngắn rồi học tiếp.
+  es: Cuando te canses, un descanso corto y sigues.
+- Bạn không cần hoàn hảo.
+  es: No hace falta que seas perfecto.
+- Chỉ cần còn nói, còn nghe.
+  es: Solo hace falta seguir hablando, seguir oyendo.
+- Tạm biệt!
+  es: ¡Adiós!
+- Hẹn gặp lại!
+  es: ¡Hasta pronto!
+
+notes.es:
+1. Bài cuối của khóa này: la última lección de este curso (cuối, lección 41; khóa = curso / ciclo). Một trăm ngày = cien días (một trăm, como Bài thứ một trăm).
+2. Sóng thứ hai: la segunda ola (sóng = ola; thứ hai = la segunda). Empezó en la lección 50 con la lección 1; ahora sigues con 52, 53… hasta 100: cuarenta y nueve días más. Che bài tiếng Việt: tapa el vietnamita (che = tapar / cubrir; no es el postre chè de la lección 59). Como decía el aparte de la 50. Nói từ tiếng Tây Ban Nha = habla partiendo del español.
+3. Kiểm tra: comprobar / verificar. Một bài mỗi ngày đủ = una lección al día basta (đủ = basta / suficiente; ngắn mà đủ, lección 95). Cứ + verbo (lección 99): sigue / no dejes de…
+4. Không đi đâu: no se va a ninguna parte (đâu, lección 5). Học tiếp: seguir estudiando (tiếp = continuar). Hoàn hảo: perfecto. Chỉ cần còn + verbo = solo hace falta seguir…
+5. Tạm biệt: adiós / hasta luego (despedida). Hẹn gặp lại: hasta pronto / nos vemos (hẹn = quedar / citarse; gặp lại = encontrarse de nuevo; gặp, lección 59). El cierre del curso: no es el fin del vietnamita, solo el fin de estos cien días.
+
+ex1:
+- Khóa này có một trăm bài.
+  es: Este curso tiene cien lecciones.
+- Ngày mai mình học bài năm mươi hai.
+  es: Mañana estudiamos la lección cincuenta y dos.
+- Che tiếng Việt rồi nói từ tiếng Tây Ban Nha.
+  es: Tapa el vietnamita y habla desde el español.
+- Mỗi ngày cứ nghe và cứ đọc.
+  es: Cada día sigue escuchando y sigue leyendo.
+- Tạm biệt nhé! Hẹn gặp lại sớm!
+  es: ¡Adiós, vale! ¡Hasta pronto!
+
+ex2:
+- Hôm nay là bài [cuối] của khóa này. Bạn đã đi một [trăm] ngày.
+  es: Hoy es la última lección de este curso. Has recorrido cien días.
+- Nhưng [sóng thứ hai] vẫn còn. Từ ngày mai, mỗi ngày một bài cũ.
+  es: Pero la segunda ola sigue. Desde mañana, cada día una lección vieja.
+- Bài năm mươi hai… đến một trăm. [Bốn mươi chín] ngày nữa.
+  es: La cincuenta y dos… hasta la cien. Cuarenta y nueve días más.
+- [Che] bài tiếng Việt, nói từ tiếng Tây Ban Nha. Rồi [kiểm tra].
+  es: Tapa el vietnamita, habla desde el español. Luego comprueba.
+- [Tạm biệt]! [Hẹn gặp lại]!
+  es: ¡Adiós! ¡Hasta pronto!
+
+aside.es:
+Cien lecciones. El oído ya sabe más de lo que la cabeza confiesa. Mañana, tapa, di, comprueba: la segunda ola no ha terminado. Hẹn gặp lại.

@@ -7,7 +7,7 @@ use eframe::egui::{self, Color32, RichText};
 
 use crate::audio::{Player, Voices, scan_audio_dir};
 use crate::editor::EditorState;
-use crate::i18n::{plural, tr, trf};
+use crate::i18n::{in_sentence, plural, tr, trf};
 use crate::model::{Course, LANGS, Level, Stage, lang_color, lang_name};
 use crate::session::{ReviewState, Seq, Session};
 use crate::store::{self, Saved, day_key, today};
@@ -129,8 +129,13 @@ impl App {
         if let Some(n) = app.saved.notice.take() {
             app.say(n);
         }
-        if app.course_index(&app.saved.active_course.clone()).is_none() {
-            app.saved.active_course = app.courses.first().map(|c| c.id.clone()).unwrap_or_default();
+        // A new learner starts on a course written for their own language
+        // (the default, English for Italians, is not one for a Spanish speaker).
+        let base = app.base();
+        let foreign = app.course_index(&app.saved.active_course.clone()).is_none_or(|ci| !app.courses[ci].speaks(&base));
+        if foreign && app.saved.lessons.is_empty() {
+            let first = app.courses.iter().find(|c| c.speaks(&base) && !c.lessons.is_empty()).or(app.courses.first());
+            app.saved.active_course = first.map(|c| c.id.clone()).unwrap_or_default();
         }
         match open.as_deref() {
             Some("courses") => app.screen = Screen::Courses,
@@ -1439,7 +1444,7 @@ impl App {
                 };
                 ui.label(muted(status).size(12.5));
                 if !c.lessons.is_empty() && !c.speaks(&base) {
-                    let names: Vec<String> = c.bases().iter().map(|b| lang_name(b, &base)).collect();
+                    let names: Vec<String> = c.bases().iter().map(|b| in_sentence(&lang_name(b, &base))).collect();
                     ui.label(RichText::new(trf("for now in {0}", &[&names.join(", ")])).color(WARN()).size(12.5));
                 }
                 ui.add_space(6.0);

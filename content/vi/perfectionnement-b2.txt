@@ -1,7 +1,7 @@
 course: vi
 stage: perfectionnement
+bases: es
 name: Vietnamese – Perfectionnement (B2 → C1)
 name.it: Vietnamita – Perfezionamento (B2 → C1)
 name.en: Vietnamese – Perfectionnement (B2 → C1)
 name.es: Vietnamita – Perfeccionamiento (B2 → C1)
-

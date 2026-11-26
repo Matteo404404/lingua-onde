@@ -1,1138 +1,1753 @@
 course: vi
 stage: foundation
+bases: es
 name: Vietnamese – Foundation (A1 → B2)
 name.it: Vietnamita – Fondamenti (A1 → B2)
 name.en: Vietnamese – Foundation (A1 → B2)
 name.es: Vietnamita – Fundamentos (A1 → B2)
 
 == 1 A1
-title: Em là người Ý
-title.it: Sono italiano
-title.en: I'm Italian
-title.es: Soy italiano
+numeral: Bài thứ nhất
+numeral.pron.es: bai→ thư↑ ñơt↑
+title: Cô tìm ai?
+title.es: ¿A quién busca usted?
 
 dialogue:
-- Chào chị! Em tên là Luca.
-  it: Buongiorno (salutare sorella-maggiore)! Mi chiamo Luca (fratello-minore nome essere Luca).
-  en: Hello (greet elder-sister)! My name is Luca (younger-sibling name be Luca).
-  es: ¡Hola (saludar hermana-mayor)! Me llamo Luca (hermano-menor nombre ser Luca).
-- Chào em! Chị là Lan. Em là người Mỹ à?
-  it: Ciao (salutare fratello-minore)! Io sono Lan (sorella-maggiore essere Lan). Sei americano, vero (fratello-minore essere persona America à)?
-  en: Hi (greet younger-sibling)! I'm Lan (elder-sister be Lan). You're American, are you (younger-sibling be person America à)?
-  es: ¡Hola (saludar hermano-menor)! Yo soy Lan (hermana-mayor ser Lan). Eres americano, ¿no (hermano-menor ser persona América à)?
-- Không, em không phải là người Mỹ. Em là người Ý.
-  it: No, non sono americano (fratello-minore non giusto essere persona America). Sono italiano (persona Italia).
-  en: No, I'm not American (younger-sibling not right be person America). I'm Italian (person Italy).
-  es: No, no soy americano (hermano-menor no correcto ser persona América). Soy italiano (persona Italia).
-- Ồ, người Ý! Em có mệt không?
-  it: Oh, italiano! Sei stanco (fratello-minore avere stanco non)?
-  en: Oh, Italian! Are you tired (younger-sibling have tired not)?
-  es: ¡Oh, italiano! ¿Estás cansado (hermano-menor tener cansado no)?
-- Dạ, em hơi mệt. Còn chị, chị có khỏe không?
-  it: Sì (dạ), sono un po' stanco. E tu (còn sorella-maggiore), stai bene (sorella-maggiore avere sano non)?
-  en: Yes (dạ), I'm a bit tired. And you (còn elder-sister), are you well (elder-sister have healthy not)?
-  es: Sí (dạ), estoy un poco cansado. ¿Y tú (còn hermana-mayor), estás bien (hermana-mayor tener sano no)?
-- Chị khỏe, cảm ơn em. Đây là bố chị, bác Hùng.
-  it: Sto bene (sorella-maggiore sano), grazie (ringraziare fratello-minore). Questo è mio padre (padre sorella-maggiore), il signor Hùng (zio Hùng).
-  en: I'm fine (elder-sister healthy), thanks (thank younger-sibling). This is my father (father elder-sister), Mr Hùng (uncle Hùng).
-  es: Estoy bien (hermana-mayor sano), gracias (agradecer hermano-menor). Este es mi padre (padre hermana-mayor), el señor Hùng (tío Hùng).
-- Cháu chào bác ạ! Cháu là Luca.
-  it: Buongiorno, signore (nipote salutare zio ạ)! Sono Luca (nipote essere Luca).
-  en: Good morning, sir (nephew greet uncle ạ)! I'm Luca (nephew be Luca).
-  es: ¡Buenos días, señor (sobrino saludar tío ạ)! Soy Luca (sobrino ser Luca).
-- Chào cháu! Bác là chủ nhà.
-  it: Ciao (salutare nipote)! Sono il padrone di casa (zio essere padrone casa).
-  en: Hello (greet nephew)! I'm the landlord (uncle be owner house).
-  es: ¡Hola (saludar sobrino)! Soy el dueño de la casa (tío ser dueño casa).
+- Chào ông!
+  es: ¡Buenos días, señor! (saludar señor)
+  pron.es: chau→ ong→!
+- Chào cô!
+  es: ¡Buenos días, señorita! (saludar señorita)
+  pron.es: chau→ co→!
+- Cô tìm ai?
+  es: ¿A quién busca usted? (señorita buscar quién)
+  pron.es: co→ tim→ ai→?
+- Tôi tìm ông Nam.
+  es: Busco al señor Nam. (yo buscar señor Nam)
+  pron.es: toi→ tim→ ong→ nam→.
+- Mời cô vào!
+  es: ¡Pase, señorita! (invitar señorita entrar)
+  pron.es: mơi→ co→ vau→!
 
-notes.it:
-1. Il vietnamita del Nord ha sei toni, e il segno sulla vocale cambia il
-   significato della parola. Nel dialogo ci sono tutti e sei: Lan (ngang,
-   piano, senza segno), là (huyền, basso e discendente), có (sắc, alto e
-   ascendente), khỏe (hỏi, scende e poi risale), Mỹ (ngã, sale con
-   un'interruzione della voce), chị (nặng, basso, breve e trattenuto). Al Sud
-   hỏi e ngã si confondono, e i toni diventano cinque.
-2. Non esistono un "io" e un "tu" neutri: si usano parole di parentela scelte
-   in base all'età. Luca è più giovane di Lan, quindi dice em ("fratello
-   minore") per sé e chị ("sorella maggiore") per lei; Lan fa il contrario.
-   Con un uomo dell'età dei genitori si usano bác ("zio") e cháu ("nipote").
-   Anh ("fratello maggiore") vale per un uomo poco più grande.
-3. là collega due nomi (Chị là Lan) e non cambia mai forma. Si nega con
-   không phải là, alla lettera "non è giusto che sia", em không phải là người
-   Mỹ. Nelle domande sì/no si mette có ... không intorno all'aggettivo o al
-   verbo, Em có mệt không? La particella à in fondo chiede conferma con un
-   pizzico di sorpresa.
-4. Dạ all'inizio e ạ alla fine della frase sono segni di rispetto verso chi è
-   più grande, Dạ, em hơi mệt; Cháu chào bác ạ! Al Nord "sì" si dice anche
-   vâng, al Sud quasi sempre dạ. Còn ... ? rimanda la domanda all'altro, come
-   "e tu?".
-5. người ("persona") + paese indica la nazionalità, người Ý, người Mỹ, người
-   Việt. Ý e Mỹ sono parole sino-vietnamite, lette dai caratteri cinesi 意 e
-   美 usati per "Italia" e "America". Bố è il padre al Nord; al Sud si dice
-   ba.
-notes.en:
-1. Northern Vietnamese has six tones, and the mark on the vowel changes the
-   meaning of the word. All six appear in the dialogue: Lan (ngang, level, no
-   mark), là (huyền, low and falling), có (sắc, high and rising), khỏe (hỏi,
-   dipping then rising), Mỹ (ngã, rising with a break in the voice), chị
-   (nặng, low, short and tight). In the South hỏi and ngã merge, leaving five
-   tones.
-2. There is no neutral "I" and "you": speakers use kinship words chosen by
-   age. Luca is younger than Lan, so he calls himself em ("younger sibling")
-   and her chị ("elder sister"); Lan does the reverse. With a man of your
-   parents' generation you use bác ("uncle") and cháu ("nephew, niece").
-   Anh ("elder brother") is for a man a little older than you.
-3. là links two nouns (Chị là Lan) and never changes form. Its negative is
-   không phải là, literally "it is not right that ... is", em không phải là
-   người Mỹ. Yes/no questions wrap có ... không around the adjective or verb,
-   Em có mệt không? The particle à at the end asks for confirmation with a
-   touch of surprise.
-4. Dạ at the start and ạ at the end of a sentence show respect to someone
-   older, Dạ, em hơi mệt; Cháu chào bác ạ! In the North "yes" is also vâng,
-   in the South almost always dạ. Còn ... ? turns the question back, like
-   "and you?".
-5. người ("person") + country gives the nationality, người Ý, người Mỹ,
-   người Việt. Ý and Mỹ are Sino-Vietnamese words, read from the Chinese
-   characters 意 and 美 used for "Italy" and "America". Bố is "father" in the
-   North; the South says ba.
+sounds.es:
+1. Cada sílaba vietnamita lleva un tono. Aquí solo hay dos, y los dos se marcan con la flecha →: el tono ngang (cô, ông, tôi, ai, Nam) suena medio-alto y llano, en la fila de arriba; el tono huyền (chào, tìm, mời, vào) es bajo y desciende despacio, en la fila de abajo. La flecha es la misma; la fila te dice cuál es.
+2. ch se dice como en «chico»: chào → chau→. La ô de cô y tôi es una o cerrada, como la o española: co→, toi→. No abras la boca como en «perro».
+
 notes.es:
-1. El vietnamita del Norte tiene seis tonos, y la marca sobre la vocal cambia
-   el significado de la palabra. En el diálogo aparecen los seis: Lan (ngang,
-   llano, sin marca), là (huyền, bajo y descendente), có (sắc, alto y
-   ascendente), khỏe (hỏi, baja y vuelve a subir), Mỹ (ngã, sube con un corte
-   en la voz), chị (nặng, bajo, breve y tenso). En el Sur hỏi y ngã se
-   confunden, y quedan cinco tonos.
-2. No existen un "yo" y un "tú" neutros: se usan palabras de parentesco
-   elegidas según la edad. Luca es más joven que Lan, así que dice em
-   ("hermano menor") para sí mismo y chị ("hermana mayor") para ella; Lan
-   hace lo contrario. Con un hombre de la edad de tus padres se usan bác
-   ("tío") y cháu ("sobrino"). Anh ("hermano mayor") sirve para un hombre
-   algo mayor que tú.
-3. là une dos sustantivos (Chị là Lan) y nunca cambia de forma. Se niega con
-   không phải là, literalmente "no es correcto que sea", em không phải là
-   người Mỹ. Las preguntas de sí o no rodean el adjetivo o el verbo con
-   có ... không, Em có mệt không? La partícula à al final pide confirmación
-   con un toque de sorpresa.
-4. Dạ al principio y ạ al final de la frase muestran respeto hacia alguien
-   mayor, Dạ, em hơi mệt; Cháu chào bác ạ! En el Norte "sí" también se dice
-   vâng; en el Sur casi siempre dạ. Còn ... ? devuelve la pregunta, como
-   "¿y tú?".
-5. người ("persona") + país indica la nacionalidad, người Ý, người Mỹ, người
-   Việt. Ý y Mỹ son palabras sinovietnamitas, leídas de los caracteres chinos
-   意 y 美 que se usan para "Italia" y "América". Bố es "padre" en el Norte;
-   en el Sur se dice ba.
+1. Chào: saludar. Es el saludo de todos los días, a cualquier hora. Va seguido del título de parentesco de la persona a la que hablas: chào ông, chào cô. No hay un «tú» y un «usted» como en español: eliges la palabra según la edad y el sexo.
+2. Ông: abuelo, y también «usted» o «señor» cuando hablas con un hombre mayor. Cô: tía (hermana menor del padre), y también «usted» o «señorita» con una mujer joven o de edad intermedia. Aquí el hombre mayor dice cô a la visitante, y ella le dice ông. Lo veremos otra vez en casi todas las lecciones.
+3. Tôi: yo. No cambia nunca: no hay conjugación. La frase Tôi tìm ông Nam es literalmente «yo buscar señor Nam».
+4. Ai: quién. En vietnamita la palabra interrogativa ocupa el lugar de la respuesta: Cô tìm ai? (señorita buscar quién), no se cambia el orden de las palabras. Lo veremos más adelante con gì, đâu y nào.
+5. Mời cô vào: invitar a entrar. Mời es «invitar / por favor (haga…)» y vào es «entrar». Es la fórmula de cortesía para hacer pasar a alguien.
 
 ex1:
-- Chị Lan là người Việt.
-  it: Lan è vietnamita (sorella-maggiore Lan essere persona Vietnam).
-  en: Lan is Vietnamese (elder-sister Lan be person Vietnam).
-  es: Lan es vietnamita (hermana-mayor Lan ser persona Vietnam).
-- Bác có khỏe không ạ?
-  it: Come sta, signore (zio avere sano non ạ)?
-  en: How are you, sir (uncle have healthy not ạ)?
-  es: ¿Cómo está usted, señor (tío tener sano no ạ)?
-- Em không phải là người Ý.
-  it: Non sono italiano.
-  en: I'm not Italian.
-  es: No soy italiano.
-- Đây là Luca, người Ý.
-  it: Questo è Luca, un italiano.
-  en: This is Luca, an Italian.
-  es: Este es Luca, un italiano.
+- Chào ông!
+  es: ¡Buenos días, señor!
+- Chào cô!
+  es: ¡Buenos días, señorita!
+- Cô tìm ai?
+  es: ¿A quién busca usted?
+- Tôi tìm ông Nam.
+  es: Busco al señor Nam.
+- Mời cô vào!
+  es: ¡Pase, señorita!
 
 ex2:
-- Em [tên] là Luca.
-  it: Mi chiamo Luca.
-  en: My name is Luca.
-  es: Me llamo Luca.
-- Chị [có] mệt [không]?
-  it: Sei stanca?
-  en: Are you tired?
-  es: ¿Estás cansada?
-- Em [không phải] là người Mỹ.
-  it: Non sono americano.
-  en: I'm not American.
-  es: No soy americano.
-- [Cháu] chào bác [ạ]!
-  it: Buongiorno, signore!
-  en: Good morning, sir!
+- [Chào] ông!
   es: ¡Buenos días, señor!
+- Cô [tìm] [ai]?
+  es: ¿A quién busca usted?
+- [Tôi] tìm ông Nam.
+  es: Busco al señor Nam.
+- Mời cô [vào]!
+  es: ¡Pase, señorita!
+
+culture.es:
+En Vietnam no se saluda con un «tú» o un «usted» fijo: se elige un título de parentesco según la edad y el sexo de la otra persona. Ông es para un hombre mayor, cô para una mujer más joven o de edad media, bà para una mujer mayor (la verás pronto). Antes del nombre propio suele ir ese título: ông Nam es «el señor Nam», no solo «Nam». En la puerta de una nhà ống (casa estrecha del casco antiguo de Hanói) es normal oír exactamente este intercambio: chào ông, chào cô, y luego mời vào.
 
 == 2 A1
-title: Anh bao nhiêu tuổi?
-title.it: Quanti anni hai?
-title.en: How old are you?
-title.es: ¿Cuántos años tienes?
+numeral: Bài thứ hai
+numeral.pron.es: bai→ thư↑ hai→
+title: Đây là nước cam
+title.es: Esto es zumo de naranja
 
 dialogue:
-- Luca ơi, đây là Minh, em họ chị.
-  it: Luca (Luca ơi), questo è Minh, mio cugino (fratello-minore parente sorella-maggiore).
-  en: Luca (Luca ơi), this is Minh, my cousin (younger-sibling kin elder-sister).
-  es: Luca (Luca ơi), este es Minh, mi primo (hermano-menor pariente hermana-mayor).
-- Em chào anh! Anh bao nhiêu tuổi ạ?
-  it: Ciao (fratello-minore salutare fratello-maggiore)! Quanti anni hai (fratello-maggiore quanto età ạ)?
-  en: Hello (younger-sibling greet elder-brother)! How old are you (elder-brother how-many age ạ)?
-  es: ¡Hola (hermano-menor saludar hermano-mayor)! ¿Cuántos años tienes (hermano-mayor cuánto edad ạ)?
-- Anh hai mươi tám tuổi. Còn em?
-  it: Ho ventotto anni (fratello-maggiore due dieci otto età). E tu?
-  en: I'm twenty-eight (elder-brother two ten eight age). And you?
-  es: Tengo veintiocho años (hermano-mayor dos diez ocho edad). ¿Y tú?
-- Em hai mươi tuổi. Em là sinh viên.
-  it: Ho vent'anni (fratello-minore due dieci età). Sono uno studente universitario.
-  en: I'm twenty (younger-sibling two ten age). I'm a university student.
-  es: Tengo veinte años (hermano-menor dos diez edad). Soy estudiante universitario.
-- Em học gì?
-  it: Che cosa studi (fratello-minore studiare che-cosa)?
-  en: What do you study (younger-sibling study what)?
-  es: ¿Qué estudias (hermano-menor estudiar qué)?
-- Em học tiếng Anh và tiếng Ý. Anh có nói tiếng Việt không?
-  it: Studio inglese e italiano (lingua Inghilterra e lingua Italia). Parli vietnamita (fratello-maggiore avere parlare lingua Vietnam non)?
-  en: I study English and Italian (language England and language Italy). Do you speak Vietnamese (elder-brother have speak language Vietnam not)?
-  es: Estudio inglés e italiano (lengua Inglaterra y lengua Italia). ¿Hablas vietnamita (hermano-mayor tener hablar lengua Vietnam no)?
-- Anh nói một chút thôi. Tiếng Việt khó quá!
-  it: Solo un pochino (fratello-maggiore parlare un-po' soltanto). Il vietnamita è difficilissimo (lingua Vietnam difficile troppo)!
-  en: Just a little (elder-brother speak a-bit only). Vietnamese is so hard (language Vietnam hard too)!
-  es: Solo un poquito (hermano-mayor hablar un-poco nada-más). ¡El vietnamita es dificilísimo (lengua Vietnam difícil demasiado)!
-- Không khó đâu anh! Em dạy anh tiếng Việt, anh dạy em tiếng Ý nhé.
-  it: Ma no, non è difficile (non difficile affatto fratello-maggiore)! Io ti insegno il vietnamita e tu mi insegni l'italiano, va bene (nhé)?
-  en: It's not hard at all (not hard đâu elder-brother)! I'll teach you Vietnamese and you teach me Italian, OK (nhé)?
-  es: ¡Qué va, no es difícil (no difícil đâu hermano-mayor)! Yo te enseño vietnamita y tú me enseñas italiano, ¿vale (nhé)?
+- Cô uống gì?
+  es: ¿Qué bebe usted? (señorita beber qué)
+  pron.es: co→ uơng↑ zi→?
+- Tôi uống nước cam. Ông uống gì?
+  es: Bebo zumo de naranja. ¿Qué bebe usted? (yo beber agua naranja. señor beber qué)
+  pron.es: toi→ uơng↑ nươc↑ cam→. ong→ uơng↑ zi→?
+- Tôi uống trà.
+  es: Yo bebo té. (yo beber té)
+  pron.es: toi→ uơng↑ cha→.
+- Đây là nước cam.
+  es: Esto es zumo de naranja. (aquí es agua naranja)
+  pron.es: dơi→ la→ nươc↑ cam→.
+- Cảm ơn ông.
+  es: Gracias, señor. (agradecer señor)
+  pron.es: cam✓ ơn→ ong→.
+- Không có gì.
+  es: De nada. (no hay qué)
+  pron.es: jong→ cò↑ zi→.
 
-notes.it:
-1. ơi dopo un nome serve a chiamare qualcuno, come "ehi", Luca ơi, Bác ơi.
-   I numeri da 1 a 10 sono một, hai, ba, bốn, năm, sáu, bảy, tám, chín,
-   mười. Le decine si formano con mươi, che perde il tono discendente di
-   mười, hai mươi "venti", hai mươi tám "ventotto".
-2. Chiedere l'età appena conosciuti è normale, perché decide i pronomi. Minh
-   è più giovane, quindi chiama Luca anh ("fratello maggiore") e dice em per
-   sé. Luca, che con Lan diceva em, con Minh dice anh. La stessa persona
-   cambia la parola per "io" a seconda di chi ha davanti.
-3. Davanti a un aggettivo o a un'età non si usa là, Em hai mươi tuổi, Tiếng
-   Việt khó quá. Gli aggettivi funzionano come verbi. quá dopo un aggettivo
-   significa "tanto, troppo" e rende la frase esclamativa.
-4. tiếng vuol dire "suono, voce" e anche "lingua", tiếng Việt, tiếng Ý. Anh
-   di tiếng Anh è la sillaba sino-vietnamita 英 che indica l'Inghilterra, e
-   si scrive proprio come anh "fratello maggiore". Em họ è un cugino più
-   giovane, alla lettera "fratello minore del casato".
-5. Le particelle finali danno il tono alla frase. thôi "soltanto, e basta";
-   không ... đâu nega con decisione ma in modo amichevole, "ma no, per
-   niente"; nhé propone qualcosa con gentilezza, "va bene?". Al Sud al posto
-   di nhé si dice nha.
-notes.en:
-1. ơi after a name calls someone, like "hey", Luca ơi, Bác ơi. The numbers
-   from 1 to 10 are một, hai, ba, bốn, năm, sáu, bảy, tám, chín, mười. Tens
-   are made with mươi, which loses the falling tone of mười, hai mươi
-   "twenty", hai mươi tám "twenty-eight".
-2. Asking someone's age when you first meet is normal, because it settles
-   the pronouns. Minh is younger, so he calls Luca anh ("elder brother") and
-   himself em. Luca, who said em with Lan, says anh with Minh. The same
-   person changes his word for "I" depending on who is in front of him.
-3. là is not used before an adjective or an age, Em hai mươi tuổi, Tiếng
-   Việt khó quá. Adjectives work like verbs. quá after an adjective means
-   "so, too" and makes the sentence an exclamation.
-4. tiếng means "sound, voice" and also "language", tiếng Việt, tiếng Ý. The
-   Anh of tiếng Anh is the Sino-Vietnamese syllable 英 for England, spelled
-   exactly like anh "elder brother". Em họ is a younger cousin, literally
-   "younger sibling of the clan".
-5. Final particles set the tone of a sentence. thôi "only, that's all";
-   không ... đâu denies firmly but kindly, "not at all"; nhé makes a friendly
-   suggestion, "OK?". In the South nha replaces nhé.
+sounds.es:
+1. Aparece el tono sắc, flecha ↑, fila de arriba: alto y ascendente. Lo oyes en uống↑, nước↑ y có↑. En cảm el tono es hỏi (baja y vuelve a subir un poco): cam✓, fila de abajo. Recuerda: → y ✓ van en las dos filas; la fila te dice si el tono es alto o bajo.
+2. ươ de nước es ư que se desliza hacia ơ: nươc↑. tr suena como ch: trà → cha→. gì se figura zi→ (una s con zumbido, nunca la z de «zapato»). cảm y ơn son dos sílabas: no digas «ca-mơn».
+
 notes.es:
-1. ơi después de un nombre sirve para llamar a alguien, como "oye", Luca ơi,
-   Bác ơi. Los números del 1 al 10 son một, hai, ba, bốn, năm, sáu, bảy,
-   tám, chín, mười. Las decenas se forman con mươi, que pierde el tono
-   descendente de mười, hai mươi "veinte", hai mươi tám "veintiocho".
-2. Preguntar la edad al conocer a alguien es normal, porque decide los
-   pronombres. Minh es más joven, así que llama a Luca anh ("hermano mayor")
-   y dice em para sí mismo. Luca, que con Lan decía em, con Minh dice anh.
-   La misma persona cambia la palabra para "yo" según quién tenga delante.
-3. Delante de un adjetivo o de una edad no se usa là, Em hai mươi tuổi,
-   Tiếng Việt khó quá. Los adjetivos funcionan como verbos. quá después de
-   un adjetivo significa "tan, demasiado" y da a la frase un tono
-   exclamativo.
-4. tiếng significa "sonido, voz" y también "lengua", tiếng Việt, tiếng Ý. El
-   Anh de tiếng Anh es la sílaba sinovietnamita 英 que designa Inglaterra, y
-   se escribe igual que anh "hermano mayor". Em họ es un primo más joven,
-   literalmente "hermano menor del linaje".
-5. Las partículas finales dan el tono a la frase. thôi "solo, nada más";
-   không ... đâu niega con firmeza pero con amabilidad, "qué va, para nada";
-   nhé propone algo con suavidad, "¿vale?". En el Sur se dice nha en lugar
-   de nhé.
+1. Uống: beber. Va seguido de lo que bebes, sin preposición: uống trà, uống nước cam. Como chào (lección 1), el verbo no se conjuga.
+2. Gì: qué. Ocupa el lugar de la respuesta, igual que ai (quién) en la lección 1: Cô uống gì? (señorita beber qué). Ai es para personas; gì es para cosas.
+3. Nước cam: zumo de naranja. Nước es «agua» y también el líquido de algo; cam es «naranja». Trà es el té. Aquí el anfitrión ofrece una bebida, gesto muy habitual.
+4. Đây là: esto es / aquí está. Là presenta o identifica una cosa: Đây là nước cam. Es la primera vez que ves là; con personas lo veremos en la lección 4.
+5. Cảm ơn: gracias. Cảm ơn ông es «gracias, señor», con el mismo ông de la lección 1. Không có gì es la respuesta cortés: «de nada» (literalmente «no hay qué»).
 
 ex1:
-- Chị Lan bao nhiêu tuổi?
-  it: Quanti anni ha Lan (sorella-maggiore Lan quanto età)?
-  en: How old is Lan (elder-sister Lan how-many age)?
-  es: ¿Cuántos años tiene Lan (hermana-mayor Lan cuánto edad)?
-- Minh là sinh viên, Minh học tiếng Ý.
-  it: Minh è uno studente, studia italiano.
-  en: Minh is a student, he studies Italian.
-  es: Minh es estudiante, estudia italiano.
-- Em nói tiếng Anh một chút thôi.
-  it: Parlo solo un po' di inglese.
-  en: I only speak a little English.
-  es: Solo hablo un poco de inglés.
-- Tiếng Ý có khó không?
-  it: L'italiano è difficile (lingua Italia avere difficile non)?
-  en: Is Italian hard (language Italy have hard not)?
-  es: ¿Es difícil el italiano (lengua Italia tener difícil no)?
+- Cô uống gì?
+  es: ¿Qué bebe usted?
+- Tôi uống nước cam.
+  es: Bebo zumo de naranja.
+- Tôi uống trà.
+  es: Yo bebo té.
+- Đây là nước cam.
+  es: Esto es zumo de naranja.
+- Cảm ơn ông.
+  es: Gracias, señor.
 
 ex2:
-- Anh [bao nhiêu] tuổi?
-  it: Quanti anni hai?
-  en: How old are you?
-  es: ¿Cuántos años tienes?
-- Em [học] tiếng Việt.
-  it: Studio vietnamita.
-  en: I study Vietnamese.
-  es: Estudio vietnamita.
-- Tiếng Việt [khó] [quá]!
-  it: Il vietnamita è difficilissimo!
-  en: Vietnamese is so hard!
-  es: ¡El vietnamita es dificilísimo!
-- Luca [ơi], đây là Minh.
-  it: Luca, questo è Minh.
-  en: Luca, this is Minh.
-  es: Luca, este es Minh.
+- Cô [uống] [gì]?
+  es: ¿Qué bebe usted?
+- Tôi uống [nước] [cam].
+  es: Bebo zumo de naranja.
+- [Đây] [là] nước cam.
+  es: Esto es zumo de naranja.
+- [Cảm] [ơn] ông.
+  es: Gracias, señor.
 
 == 3 A1
-title: Đi ăn phở
-title.it: A mangiare il phở
-title.en: Out for phở
-title.es: A comer phở
+numeral: Bài thứ ba
+numeral.pron.es: bai→ thư↑ ba→
+title: Hơi mệt
+title.es: Un poco cansada
 
 dialogue:
-- Anh Luca ơi, anh có đói không? Mình đi ăn phở nhé!
-  it: Luca (fratello-maggiore Luca ơi), hai fame (avere affamato non)? Andiamo a mangiare il phở (noi andare mangiare phở nhé)!
-  en: Luca (elder-brother Luca ơi), are you hungry (have hungry not)? Let's go and eat phở (we go eat phở nhé)!
-  es: Luca (hermano-mayor Luca ơi), ¿tienes hambre (tener hambriento no)? ¡Vamos a comer phở (nosotros ir comer phở nhé)!
-- Ừ, anh đói lắm! Nhưng ăn ở đâu?
-  it: Sì (ừ), ho una fame da lupi (fratello-maggiore affamato molto)! Ma dove (mangiare a dove)?
-  en: Yeah (ừ), I'm starving (elder-brother hungry very)! But where (eat at where)?
-  es: Sí (ừ), ¡tengo muchísima hambre (hermano-mayor hambriento mucho)! Pero ¿dónde (comer en dónde)?
-- Ngay ở đây, ở nhà bác Hùng! Phở bác Hùng ngon lắm.
-  it: Proprio qui, dal signor Hùng (a casa zio Hùng)! Il phở del signor Hùng è buonissimo (phở zio Hùng buono molto).
-  en: Right here, at Mr Hùng's (at house uncle Hùng)! Mr Hùng's phở is delicious (phở uncle Hùng tasty very).
-  es: ¡Aquí mismo, en casa del señor Hùng (en casa tío Hùng)! El phở del señor Hùng está riquísimo (phở tío Hùng sabroso mucho).
-- Chào hai cháu! Hai cháu ăn gì?
-  it: Salve, ragazzi (salutare due nipote)! Che cosa mangiate (due nipote mangiare che-cosa)?
-  en: Hello, you two (greet two nephew)! What will you have (two nephew eat what)?
-  es: ¡Hola, chicos (saludar dos sobrino)! ¿Qué vais a comer (dos sobrino comer qué)?
-- Bác ơi, cho cháu một bát phở bò ạ.
-  it: Per me una scodella di phở al manzo, per favore (zio ơi, dare nipote una scodella phở manzo ạ).
-  en: A bowl of beef phở for me, please (uncle ơi, give nephew one bowl phở beef ạ).
-  es: Para mí un tazón de phở de ternera, por favor (tío ơi, dar sobrino un tazón phở ternera ạ).
-- Cháu cũng thế ạ. Anh uống trà đá nhé?
-  it: Anche per me (nipote anche così ạ). Prendi un tè col ghiaccio (fratello-maggiore bere tè ghiaccio nhé)?
-  en: Same for me (nephew also so ạ). Will you have iced tea (elder-brother drink tea ice nhé)?
-  es: Lo mismo para mí (sobrino también así ạ). ¿Tomas un té con hielo (hermano-mayor beber té hielo nhé)?
-- Trà đá là gì?
-  it: Che cos'è il trà đá (tè ghiaccio essere che-cosa)?
-  en: What's trà đá (tea ice be what)?
-  es: ¿Qué es el trà đá (té hielo ser qué)?
-- Là trà xanh với đá, anh ạ. Rẻ mà ngon lắm!
-  it: È tè verde con ghiaccio (essere tè verde con ghiaccio, fratello-maggiore ạ). Costa poco ed è buonissimo (economico eppure buono molto)!
-  en: It's green tea with ice (be tea green with ice, elder-brother ạ). Cheap and really good (cheap yet tasty very)!
-  es: Es té verde con hielo (ser té verde con hielo, hermano-mayor ạ). ¡Barato y riquísimo (barato pero sabroso mucho)!
+- Cô có mệt không?
+  es: ¿Está usted cansada? (señorita ¿hay cansada no?)
+  pron.es: co→ cò↑ met↓ jong→?
+- Tôi hơi mệt.
+  es: Estoy un poco cansada. (yo un-poco cansada)
+  pron.es: toi→ hơi→ met↓.
+- Cô có muốn uống nước không?
+  es: ¿Quiere usted beber agua? (señorita ¿hay querer beber agua no?)
+  pron.es: co→ cò↑ muơn↑ uơng↑ nươc↑ jong→?
+- Không, cảm ơn ông. Tôi muốn ngồi.
+  es: No, gracias, señor. Quiero sentarme. (no, agradecer señor. yo querer sentarse)
+  pron.es: jong→, cam✓ ơn→ ong→. toi→ muơn↑ ngoi→.
+- Mời cô ngồi!
+  es: ¡Siéntese, señorita! (invitar señorita sentarse)
+  pron.es: mơi→ co→ ngoi→!
 
-notes.it:
-1. Cho cháu ... ạ, alla lettera "dai al nipote", è il modo normale di
-   ordinare o chiedere qualcosa. Il pronome cambia a seconda di chi serve,
-   cho cháu con una persona anziana, cho em con un cameriere giovane, cho tôi
-   in modo neutro. La scodella si chiama bát al Nord e tô al Sud.
-2. Pronuncia. ph si legge f, phở. A Hanoi d, gi e r suonano tutte come una z
-   dolce, la s di "rosa" detta al Nord, quindi gì suona "zì"; al Sud d e gi
-   sono quasi una i, "yì". đ con la barra è invece una d piena e decisa,
-   đói, đá, đâu.
-3. lắm e rất significano entrambi "molto", rất prima dell'aggettivo e lắm
-   dopo, rất ngon = ngon lắm. Mình qui è un "noi" che include chi ascolta,
-   tipico delle proposte tra amici, Mình đi ăn phở nhé!
-4. cũng "anche" sta sempre davanti al verbo o all'aggettivo, Cháu cũng thế
-   "anch'io" (nipote anche così). Le parole interrogative restano dove andrà
-   la risposta, Trà đá là gì? Là trà xanh với đá. In Rẻ mà ngon "economico
-   eppure buono", mà unisce due qualità con una punta di sorpresa.
-5. Il phở bò (manzo) e il phở gà (pollo) sono la colazione classica di
-   Hanoi. Il trà đá si beve seduti su sgabellini di plastica sul
-   marciapiede. Trà e chè vengono entrambe dal cinese 茶 "tè"; al Nord chè
-   indica anche il tè, mentre al Sud indica solo un dolce al cucchiaio.
-notes.en:
-1. Cho cháu ... ạ, literally "give the nephew", is the normal way to order
-   or ask for something. The pronoun changes with the person serving you,
-   cho cháu to an older person, cho em to a young waiter, cho tôi neutral.
-   The bowl is bát in the North and tô in the South.
-2. Pronunciation. ph is an f, phở. In Hanoi d, gi and r all sound like a
-   buzzing z, as in "zoo", so gì sounds like "zì"; in the South d and gi are
-   close to y, "yì". đ with a bar is a full, firm d, đói, đá, đâu.
-3. lắm and rất both mean "very", rất before the adjective and lắm after it,
-   rất ngon = ngon lắm. Mình here is a "we" that includes the listener,
-   typical of friendly suggestions, Mình đi ăn phở nhé!
-4. cũng "also" always comes before the verb or adjective, Cháu cũng thế "me
-   too" (nephew also so). Question words stay where the answer will go, Trà
-   đá là gì? Là trà xanh với đá. In Rẻ mà ngon "cheap yet tasty", mà joins
-   two qualities with a hint of surprise.
-5. Beef phở (phở bò) and chicken phở (phở gà) are the classic Hanoi
-   breakfast. Trà đá is drunk on low plastic stools on the pavement. Trà and
-   chè both come from the Chinese 茶 "tea"; in the North chè also means tea,
-   while in the South it only means a sweet dessert.
+sounds.es:
+1. El tono nặng, flecha ↓, fila de abajo: bajo, muy corto, cortado en la garganta. Lo oyes en met↓. Contrástalo con sắc ↑ (có↑, muơn↑) con ngang → en la fila de arriba (hơi→) y con huyền → en la de abajo (ngoi→).
+2. có tiene la o abierta: cò↑ (boca más abierta que la ô de cô). ơ suena en hơi y mời: hơi→, mơi→. ng al principio de ngồi: la n de «tengo», sin g después: ngoi→.
+
 notes.es:
-1. Cho cháu ... ạ, literalmente "da al sobrino", es la forma normal de pedir
-   algo. El pronombre cambia según quién te atienda, cho cháu con una
-   persona mayor, cho em con un camarero joven, cho tôi de forma neutra. El
-   tazón se llama bát en el Norte y tô en el Sur.
-2. Pronunciación. ph se lee f, phở. En Hanói d, gi y r suenan las tres como
-   una z zumbante, la z inglesa de "zoo", así que gì suena "zì"; en el Sur d
-   y gi son casi una y, "yì". đ con barra es, en cambio, una d plena y
-   firme, đói, đá, đâu.
-3. lắm y rất significan los dos "muy", rất delante del adjetivo y lắm
-   detrás, rất ngon = ngon lắm. Mình es aquí un "nosotros" que incluye a
-   quien escucha, típico de las propuestas entre amigos, Mình đi ăn phở nhé!
-4. cũng "también" va siempre delante del verbo o del adjetivo, Cháu cũng thế
-   "yo también" (sobrino también así). Las palabras interrogativas se quedan
-   donde irá la respuesta, Trà đá là gì? Là trà xanh với đá. En Rẻ mà ngon
-   "barato y encima rico", mà une dos cualidades con un punto de sorpresa.
-5. El phở bò (ternera) y el phở gà (pollo) son el desayuno clásico de Hanói.
-   El trà đá se toma sentado en taburetes de plástico en la acera. Trà y chè
-   vienen ambas del chino 茶 "té"; en el Norte chè también significa té,
-   mientras que en el Sur solo designa un postre dulce.
+1. Cô có mệt không?: pregunta de sí o no. La estructura es có … không? (¿hay … no?). No se cambia el orden de las palabras: el adjetivo mệt queda en su sitio. Lo veremos otra vez en las próximas lecciones.
+2. Mệt: cansado, cansada. Solo: Tôi mệt = estoy cansada. No hace falta ser ni estar, y el adjetivo no cambia de género ni de número. Fíjate: en español dices «estoy cansada»; en vietnamita basta mệt.
+3. Hơi: un poco. Va delante del adjetivo: hơi mệt. Es la primera vez que ves un intensificador; volverán otros (lắm, quá) más adelante.
+4. Muốn: querer. Va seguido de un verbo, sin «que» ni conjugación: muốn uống, muốn ngồi. Como uống (lección 2) y tìm (lección 1), el verbo no cambia.
+5. Không: no, y también el «no» final de có … không?. Aquí Không, cảm ơn ông es «No, gracias» (reciclas cảm ơn de la lección 2). Ngồi es sentarse; mời cô ngồi retoma el mời … vào de la lección 1, ahora con ngồi.
 
 ex1:
-- Bác ơi, cho cháu hai bát phở gà ạ.
-  it: Signore, due scodelle di phở al pollo, per favore (zio ơi, dare nipote due scodella phở pollo ạ).
-  en: Two bowls of chicken phở, please, sir (uncle ơi, give nephew two bowl phở chicken ạ).
-  es: Señor, dos tazones de phở de pollo, por favor (tío ơi, dar sobrino dos tazón phở pollo ạ).
-- Chị Lan cũng đói lắm.
-  it: Anche Lan ha molta fame.
-  en: Lan is very hungry too.
-  es: Lan también tiene mucha hambre.
-- Trà đá ở đây rẻ mà ngon.
-  it: Qui il tè col ghiaccio costa poco ed è buono.
-  en: The iced tea here is cheap and good.
-  es: Aquí el té con hielo es barato y bueno.
-- Mình đi uống trà đá nhé!
-  it: Andiamo a bere un tè col ghiaccio!
-  en: Let's go for an iced tea!
-  es: ¡Vamos a tomar un té con hielo!
+- Cô có mệt không?
+  es: ¿Está usted cansada?
+- Tôi hơi mệt.
+  es: Estoy un poco cansada.
+- Tôi muốn ngồi.
+  es: Quiero sentarme.
+- Không, cảm ơn ông.
+  es: No, gracias, señor.
+- Mời cô ngồi!
+  es: ¡Siéntese, señorita!
 
 ex2:
-- Anh [có] đói [không]?
-  it: Hai fame?
-  en: Are you hungry?
-  es: ¿Tienes hambre?
-- [Cho] cháu một [bát] phở bò ạ.
-  it: Per me una scodella di phở al manzo, per favore.
-  en: A bowl of beef phở for me, please.
-  es: Para mí un tazón de phở de ternera, por favor.
-- Cháu [cũng] thế ạ.
-  it: Anche per me.
-  en: Same for me.
-  es: Lo mismo para mí.
-- Trà đá là [gì]?
-  it: Che cos'è il trà đá?
-  en: What's trà đá?
-  es: ¿Qué es el trà đá?
+- Cô [có] mệt [không]?
+  es: ¿Está usted cansada?
+- Tôi [hơi] mệt.
+  es: Estoy un poco cansada.
+- Tôi [muốn] [ngồi].
+  es: Quiero sentarme.
+- [Không], cảm ơn ông.
+  es: No, gracias, señor.
+- Mời cô [ngồi]!
+  es: ¡Siéntese, señorita!
 
 == 4 A1
-title: Gia đình em
-title.it: La mia famiglia
-title.en: My family
-title.es: Mi familia
+numeral: Bài thứ tư
+numeral.pron.es: bai→ thư↑ tư→
+title: Cô ấy là ai?
+title.es: ¿Quién es ella?
 
 dialogue:
-- Luca ơi, đây là ảnh gia đình em à?
-  it: Luca, questa è una foto della tua famiglia (questo essere foto famiglia fratello-minore à)?
-  en: Luca, is this a photo of your family (this be photo family younger-sibling à)?
-  es: Luca, ¿esta es una foto de tu familia (esto ser foto familia hermano-menor à)?
-- Vâng, chị ạ. Đây là bố mẹ em, còn đây là chị gái em.
-  it: Sì (vâng, sorella-maggiore ạ). Questi sono i miei genitori (padre madre fratello-minore), e questa è mia sorella maggiore (còn questo essere sorella-maggiore femmina fratello-minore).
-  en: Yes (vâng, elder-sister ạ). These are my parents (father mother younger-sibling), and this is my older sister (còn this be elder-sister female younger-sibling).
-  es: Sí (vâng, hermana-mayor ạ). Estos son mis padres (padre madre hermano-menor), y esta es mi hermana mayor (còn esto ser hermana-mayor mujer hermano-menor).
-- Gia đình em có mấy người?
-  it: Quanti siete in famiglia (famiglia fratello-minore avere quanti persona)?
-  en: How many are there in your family (family younger-sibling have how-many person)?
-  es: ¿Cuántos sois en tu familia (familia hermano-menor tener cuántos persona)?
-- Nhà em có bốn người: bố, mẹ, chị gái em và em.
-  it: Siamo in quattro (casa fratello-minore avere quattro persona): papà, mamma, mia sorella e io.
-  en: There are four of us (house younger-sibling have four person): Dad, Mum, my sister and me.
-  es: Somos cuatro (casa hermano-menor tener cuatro persona): papá, mamá, mi hermana y yo.
-- Chị gái em làm gì?
-  it: Che lavoro fa tua sorella (sorella-maggiore femmina fratello-minore fare che-cosa)?
-  en: What does your sister do (elder-sister female younger-sibling do what)?
-  es: ¿A qué se dedica tu hermana (hermana-mayor mujer hermano-menor hacer qué)?
-- Chị ấy là giáo viên tiếng Anh. Còn chị, chị có anh chị em không?
-  it: Fa l'insegnante di inglese (sorella-maggiore quella essere insegnante lingua Inghilterra). E tu, hai fratelli o sorelle (sorella-maggiore avere fratello-maggiore sorella-maggiore fratello-minore non)?
-  en: She's an English teacher (elder-sister that be teacher language England). And you, do you have any brothers or sisters (elder-sister have elder-brother elder-sister younger-sibling not)?
-  es: Es profesora de inglés (hermana-mayor esa ser profesora lengua Inglaterra). Y tú, ¿tienes hermanos (hermana-mayor tener hermano-mayor hermana-mayor hermano-menor no)?
-- Không, chị là con một. Chị làm ở ngân hàng. Em có nhớ nhà không?
-  it: No, sono figlia unica (sorella-maggiore essere figlio uno). Lavoro in banca (sorella-maggiore lavorare a banca). Ti manca casa (fratello-minore avere ricordare casa non)?
-  en: No, I'm an only child (elder-sister be child one). I work at a bank (elder-sister work at bank). Do you miss home (younger-sibling have remember home not)?
-  es: No, soy hija única (hermana-mayor ser hijo uno). Trabajo en un banco (hermana-mayor trabajar en banco). ¿Echas de menos tu casa (hermano-menor tener recordar casa no)?
-- Có, em nhớ mẹ lắm. Nhưng ở Hà Nội em có chị, có Minh và có bác Hùng!
-  it: Sì (avere), mi manca tanto la mamma (fratello-minore ricordare madre molto). Ma ad Hanoi ho te, Minh e il signor Hùng (avere sorella-maggiore, avere Minh e avere zio Hùng)!
-  en: Yes (have), I miss Mum a lot (younger-sibling remember mother very). But in Hanoi I have you, Minh and Mr Hùng (have elder-sister, have Minh and have uncle Hùng)!
-  es: Sí (tener), echo mucho de menos a mi madre (hermano-menor recordar madre mucho). ¡Pero en Hanói te tengo a ti, a Minh y al señor Hùng (tener hermana-mayor, tener Minh y tener tío Hùng)!
+- Cô ấy là ai?
+  es: ¿Quién es ella? (señorita aquella es quién)
+  pron.es: co→ ơi↑ la→ ai→?
+- Cô ấy là Hoa.
+  es: Ella es Hoa. (señorita aquella es Hoa)
+  pron.es: co→ ơi↑ la→ hua→.
+- Hoa là người nước nào?
+  es: ¿De qué país es Hoa? (Hoa es persona país cuál)
+  pron.es: hua→ la→ ngươi→ nươc↑ nau→?
+- Hoa là người Việt Nam.
+  es: Hoa es vietnamita. (Hoa es persona Vietnam)
+  pron.es: hua→ la→ ngươi→ viơt↓ nam→.
+- Còn cô?
+  es: ¿Y usted? (y señorita)
+  pron.es: còn→ co→?
+- Tôi là người Tây Ban Nha.
+  es: Soy española. (yo es persona España)
+  pron.es: toi→ la→ ngươi→ tơi→ ban→ ña→.
 
-notes.it:
-1. mấy "quanti" si usa quando ci si aspetta un numero piccolo, più o meno
-   sotto il dieci, Gia đình em có mấy người? Per l'età e per le quantità
-   grandi si usa bao nhiêu (lezione 2). Gia đình e nhà significano tutti e
-   due "famiglia"; nhà è anche "casa".
-2. La parentela. bố e mẹ (al Sud ba e má) sono il padre e la madre, bố mẹ i
-   genitori. trai "maschio" e gái "femmina" precisano il sesso, anh trai
-   "fratello maggiore", chị gái "sorella maggiore", em trai "fratello
-   minore", em gái "sorella minore". anh chị em sono i fratelli in
-   generale, con một è il figlio unico.
-3. Il possessore va dopo la cosa posseduta, ảnh gia đình em "la foto della
-   tua famiglia", bố mẹ em "i miei genitori". Si può aggiungere của "di",
-   ảnh của em, ma con i familiari di solito si omette.
-4. ấy dopo una parola di parentela forma la terza persona, anh ấy "lui"
-   (più grande), chị ấy "lei" (più grande), em ấy "lui, lei" (più
-   giovane). Làm gì? "che cosa fa?" chiede il mestiere; si risponde con
-   là, Chị ấy là giáo viên, oppure con làm ở "lavorare a", chị làm ở ngân
-   hàng.
-5. nhớ significa "ricordare" e anche "sentire la mancanza", nhớ nhà
-   "avere nostalgia di casa", nhớ mẹ "mi manca la mamma". A una domanda
-   có ... không si risponde có "sì" oppure không "no", senza ripetere
-   tutto.
-notes.en:
-1. mấy "how many" is used when a small number is expected, roughly below
-   ten, Gia đình em có mấy người? Ages and large quantities use bao nhiêu
-   (lesson 2). Gia đình and nhà both mean "family"; nhà is also "house,
-   home".
-2. Family words. bố and mẹ (in the South ba and má) are father and mother,
-   bố mẹ the parents. trai "male" and gái "female" give the sex, anh trai
-   "older brother", chị gái "older sister", em trai "younger brother", em
-   gái "younger sister". anh chị em are siblings in general, con một is an
-   only child.
-3. The owner comes after the thing owned, ảnh gia đình em "your family
-   photo", bố mẹ em "my parents". You can add của "of", ảnh của em, but with
-   family members it is usually left out.
-4. ấy after a kinship word makes the third person, anh ấy "he" (older),
-   chị ấy "she" (older), em ấy "he, she" (younger). Làm gì? "what does
-   she do?" asks about a job; the answer uses là, Chị ấy là giáo viên, or
-   làm ở "work at", chị làm ở ngân hàng.
-5. nhớ means "to remember" and also "to miss", nhớ nhà "to be homesick",
-   nhớ mẹ "to miss Mum". A có ... không question is answered with có "yes"
-   or không "no", without repeating everything.
+sounds.es:
+1. ươ vuelve en người y nước: ngươi→, nươc↑. â de ấy es la misma ơ, más breve: ơi↑ (tono sắc, ↑).
+2. v de Việt se hace con los dientes de arriba sobre el labio de abajo, con vibración: nunca una b. nh de Nha es ñ: ña→. Việt lleva nặng: viơt↓ (iê se figura iơ).
+
 notes.es:
-1. mấy "cuántos" se usa cuando se espera un número pequeño, más o menos
-   por debajo de diez, Gia đình em có mấy người? Para la edad y las
-   cantidades grandes se usa bao nhiêu (lección 2). Gia đình y nhà
-   significan los dos "familia"; nhà es también "casa".
-2. La familia. bố y mẹ (en el Sur ba y má) son el padre y la madre, bố mẹ
-   los padres. trai "varón" y gái "mujer" precisan el sexo, anh trai
-   "hermano mayor", chị gái "hermana mayor", em trai "hermano menor", em
-   gái "hermana menor". anh chị em son los hermanos en general, con một
-   es el hijo único.
-3. El poseedor va detrás de lo poseído, ảnh gia đình em "la foto de tu
-   familia", bố mẹ em "mis padres". Se puede añadir của "de", ảnh của em,
-   pero con los familiares normalmente se omite.
-4. ấy detrás de una palabra de parentesco forma la tercera persona, anh
-   ấy "él" (mayor), chị ấy "ella" (mayor), em ấy "él, ella" (más joven).
-   Làm gì? "¿a qué se dedica?" pregunta por el oficio; se responde con
-   là, Chị ấy là giáo viên, o con làm ở "trabajar en", chị làm ở ngân
-   hàng.
-5. nhớ significa "recordar" y también "echar de menos", nhớ nhà "añorar
-   la casa", nhớ mẹ "echar de menos a mamá". A una pregunta có ... không
-   se responde có "sí" o không "no", sin repetir toda la frase.
+1. Cô ấy: ella (una mujer a la que llamarías cô). Ông ấy es «él» para un hombre mayor. Ấy señala a alguien de quien se habla, no a quien tienes delante. Lo vimos con ông y cô en la lección 1; aquí pasan a tercera persona.
+2. Là con personas: Cô ấy là Hoa, Tôi là người Tây Ban Nha. En la lección 2 là identificaba una cosa (Đây là nước cam); ahora identifica a alguien. No hace falta artículo: no digas «una Hoa».
+3. Người + país: người Việt Nam (persona Vietnam) = vietnamita; người Tây Ban Nha = española / español. Nước nào pregunta el país: nước aquí es «país», no el «agua» de nước cam (lección 2). El contexto lo aclara.
+4. Ai frente a gì: ai es quién (personas), gì es qué (cosas, lección 2). Cô ấy là ai?, no «Cô ấy là gì?».
+5. Nào: cuál / qué (entre opciones). Nước nào = qué país. Lo veremos más en la lección de repaso.
+6. Còn cô?: ¿y usted? Còn añade «y / en cuanto a». Hoa es un nombre de pila vietnamita usado solo, sin apellido: así se presenta a la gente en la vida diaria.
 
 ex1:
-- Em có một em trai.
-  it: Ho un fratello minore (fratello-minore avere un fratello-minore maschio).
-  en: I have a younger brother (younger-sibling have one younger-sibling male).
-  es: Tengo un hermano menor (hermano-menor tener un hermano-menor varón).
-- Anh ấy là bác sĩ.
-  it: Lui è medico.
-  en: He's a doctor.
-  es: Él es médico.
-- Gia đình chị có mấy người?
-  it: Quanti siete nella tua famiglia?
-  en: How many are there in your family?
-  es: ¿Cuántos sois en tu familia?
-- Minh là em họ chị Lan.
-  it: Minh è il cugino di Lan.
-  en: Minh is Lan's cousin.
-  es: Minh es el primo de Lan.
+- Cô ấy là ai?
+  es: ¿Quién es ella?
+- Cô ấy là Hoa.
+  es: Ella es Hoa.
+- Hoa là người Việt Nam.
+  es: Hoa es vietnamita.
+- Còn cô?
+  es: ¿Y usted?
+- Tôi là người Tây Ban Nha.
+  es: Soy española.
 
 ex2:
-- Gia đình em có [mấy] người?
-  it: Quanti siete in famiglia?
-  en: How many are there in your family?
-  es: ¿Cuántos sois en tu familia?
-- Đây là bố [mẹ] em.
-  it: Questi sono i miei genitori.
-  en: These are my parents.
-  es: Estos son mis padres.
-- Chị [ấy] là giáo viên.
-  it: Lei è insegnante.
-  en: She's a teacher.
-  es: Ella es profesora.
-- Em có [nhớ] nhà [không]?
-  it: Ti manca casa?
-  en: Do you miss home?
-  es: ¿Echas de menos tu casa?
+- Cô [ấy] là [ai]?
+  es: ¿Quién es ella?
+- Hoa là [người] Việt Nam.
+  es: Hoa es vietnamita.
+- Hoa là người nước [nào]?
+  es: ¿De qué país es Hoa?
+- [Còn] cô?
+  es: ¿Y usted?
+- Tôi [là] người Tây Ban Nha.
+  es: Soy española.
+
+culture.es:
+Los nombres vietnamitas suelen ir en el orden apellido + nombre intermedio + nombre de pila, pero en el trato diario se usa solo el nombre de pila, a menudo con el título de parentesco: cô Hoa, ông Nam (lección 1). El apellido casi nunca entra en el saludo. Tây Ban Nha es España, dicho en tres sílabas a la vietnamita; Việt Nam es Vietnam.
 
 == 5 A1
-title: Bây giờ là mấy giờ?
-title.it: Che ore sono?
-title.en: What time is it?
-title.es: ¿Qué hora es?
+numeral: Bài thứ năm
+numeral.pron.es: bai→ thư↑ năm→
+title: Bà ấy là giáo viên
+title.es: Ella es profesora
 
 dialogue:
-- Minh ơi, bây giờ là mấy giờ rồi?
-  it: Minh, che ore sono (adesso essere quante ora già)?
-  en: Minh, what time is it (now be how-many hour already)?
-  es: Minh, ¿qué hora es (ahora ser cuántas hora ya)?
-- Tám giờ rưỡi rồi anh ạ. Em phải đi học.
-  it: Sono già le otto e mezza (otto ora mezza già, fratello-maggiore ạ). Devo andare a lezione (fratello-minore dovere andare studiare).
-  en: It's already half past eight (eight hour half already, elder-brother ạ). I have to go to class (younger-sibling must go study).
-  es: Ya son las ocho y media (ocho hora media ya, hermano-mayor ạ). Tengo que ir a clase (hermano-menor deber ir estudiar).
-- Hôm nay là thứ mấy? Em đi học mỗi ngày à?
-  it: Che giorno è oggi (oggi essere ordine quanti)? Vai a lezione tutti i giorni (fratello-minore andare studiare ogni giorno à)?
-  en: What day is it today (today be order how-many)? Do you have class every day (younger-sibling go study every day à)?
-  es: ¿Qué día es hoy (hoy ser orden cuántos)? ¿Vas a clase todos los días (hermano-menor ir estudiar cada día à)?
-- Hôm nay là thứ tư. Từ thứ hai đến thứ sáu em đều bận.
-  it: Oggi è mercoledì (ordine quattro). Dal lunedì al venerdì sono sempre impegnato (da ordine due a ordine sei fratello-minore tutti occupato).
-  en: Today is Wednesday (order four). From Monday to Friday I'm always busy (from order two to order six younger-sibling all busy).
-  es: Hoy es miércoles (orden cuatro). De lunes a viernes estoy siempre ocupado (desde orden dos hasta orden seis hermano-menor todos ocupado).
-- Thế thứ bảy em có rảnh không? Anh dạy em tiếng Ý nhé.
-  it: E sabato sei libero (allora ordine sette fratello-minore avere libero non)? Ti insegno l'italiano, va bene (nhé)?
-  en: So are you free on Saturday (so order seven younger-sibling have free not)? I'll teach you Italian, OK (nhé)?
-  es: Entonces, ¿el sábado estás libre (entonces orden siete hermano-menor tener libre no)? Te enseño italiano, ¿vale (nhé)?
-- Dạ, thứ bảy em rảnh. Mấy giờ ạ?
-  it: Sì (dạ), sabato sono libero. A che ora (quante ora ạ)?
-  en: Yes (dạ), I'm free on Saturday. What time (how-many hour ạ)?
-  es: Sí (dạ), el sábado estoy libre. ¿A qué hora (cuántas hora ạ)?
-- Chín giờ sáng, ở quán cà phê gần nhà bác Hùng.
-  it: Alle nove di mattina (nove ora mattina), al caffè vicino a casa del signor Hùng (a locale caffè vicino casa zio Hùng).
-  en: Nine in the morning (nine hour morning), at the café near Mr Hùng's house (at shop coffee near house uncle Hùng).
-  es: A las nueve de la mañana (nueve hora mañana), en la cafetería cerca de la casa del señor Hùng (en local café cerca casa tío Hùng).
-- Chín giờ sáng thứ bảy à? Sớm quá! Mười giờ được không anh?
-  it: Alle nove del sabato mattina (nove ora mattina ordine sette à)? Troppo presto! Alle dieci va bene (dieci ora possibile non fratello-maggiore)?
-  en: Nine on Saturday morning (nine hour morning order seven à)? That's too early! Is ten OK (ten hour possible not elder-brother)?
-  es: ¿A las nueve del sábado por la mañana (nueve hora mañana orden siete à)? ¡Demasiado temprano! ¿Te va bien a las diez (diez hora posible no hermano-mayor)?
-- Được. Thứ bảy, mười giờ. Hẹn gặp lại em!
-  it: Va bene (possibile). Sabato, alle dieci. A sabato (appuntamento incontrare di-nuovo fratello-minore)!
-  en: OK (possible). Saturday, ten o'clock. See you then (appointment meet again younger-sibling)!
-  es: Vale (posible). El sábado, a las diez. ¡Hasta el sábado (cita encontrar de-nuevo hermano-menor)!
+- Bà Lan làm gì?
+  es: ¿A qué se dedica la señora Lan? (señora Lan hacer qué)
+  pron.es: ba→ lan→ lam→ zi→?
+- Bà ấy là giáo viên.
+  es: Ella es profesora. (señora aquella es profesora)
+  pron.es: ba→ ơi↑ la→ zau↑ viơn→.
+- Còn ông? Ông là kỹ sư, phải không?
+  es: ¿Y usted? Usted es ingeniero, ¿verdad? (aún señor? señor es ingeniero, ¿cierto no?)
+  pron.es: còn→ ong→? ong→ la→ qui✓ sư→, fai✓ jong→?
+- Vâng, tôi là kỹ sư.
+  es: Sí, soy ingeniero. (sí, yo es ingeniero)
+  pron.es: vơng→, toi→ la→ qui✓ sư→.
+- Ông làm ở đâu?
+  es: ¿Dónde trabaja usted? (señor hacer en dónde)
+  pron.es: ong→ lam→ ơ✓ dơu→?
+- Ở Hà Nội.
+  es: En Hanói. (en Hanói)
+  pron.es: ơ✓ ha→ noi↓.
 
-notes.it:
-1. Mấy giờ rồi? "che ore sono?", alla lettera "quante ore già". giờ è
-   l'ora, rưỡi "e mezza", tám giờ rưỡi "le otto e mezza". Le parti del
-   giorno seguono l'ora, sáng "mattina", trưa "mezzogiorno", chiều
-   "pomeriggio", tối "sera", chín giờ sáng, bảy giờ tối. rồi in fondo
-   alla frase significa "già".
-2. I giorni della settimana sono thứ "ordine" + un numero, a partire da
-   due, thứ hai "lunedì", thứ ba "martedì" e così via fino a thứ bảy
-   "sabato". Il mercoledì è thứ tư, con la parola sino-vietnamita tư e non
-   bốn. La domenica è chủ nhật, "giorno del Signore". Hôm nay là thứ mấy?
-   "che giorno è oggi?".
-3. Le indicazioni di tempo vanno dalla più piccola alla più grande, chín
-   giờ sáng thứ bảy "alle nove del mattino di sabato", e si mettono
-   all'inizio della frase o subito dopo il soggetto, Thứ bảy em rảnh. Từ
-   ... đến ... vuol dire "da ... a ...".
-4. phải + verbo significa "dovere", em phải đi học "devo andare a
-   lezione". đều "tutti, sempre" sta davanti al verbo o all'aggettivo, come
-   cũng. rảnh "libero" e bận "impegnato" sono aggettivi, quindi senza là.
-5. được "va bene, si può". Mười giờ được không? "alle dieci va bene?";
-   si risponde Được "va bene" oppure Không được "non va". Hẹn gặp lại
-   "arrivederci", alla lettera "appuntamento per rivedersi".
-notes.en:
-1. Mấy giờ rồi? "what time is it?", literally "how many hours already".
-   giờ is the hour, rưỡi "half past", tám giờ rưỡi "half past eight".
-   Parts of the day follow the hour, sáng "morning", trưa "midday", chiều
-   "afternoon", tối "evening", chín giờ sáng, bảy giờ tối. rồi at the end
-   of a sentence means "already".
-2. The days of the week are thứ "order" + a number, starting from two,
-   thứ hai "Monday", thứ ba "Tuesday" and so on up to thứ bảy "Saturday".
-   Wednesday is thứ tư, with the Sino-Vietnamese word tư, not bốn. Sunday
-   is chủ nhật, "the Lord's day". Hôm nay là thứ mấy? "what day is it
-   today?".
-3. Time expressions run from the smallest to the largest, chín giờ sáng
-   thứ bảy "nine o'clock on Saturday morning", and go at the start of the
-   sentence or right after the subject, Thứ bảy em rảnh. Từ ... đến ...
-   means "from ... to ...".
-4. phải + verb means "must, have to", em phải đi học "I have to go to
-   class". đều "all, always" comes before the verb or adjective, like
-   cũng. rảnh "free" and bận "busy" are adjectives, so no là.
-5. được "OK, possible". Mười giờ được không? "is ten OK?"; the answer is
-   Được "fine" or Không được "no good". Hẹn gặp lại "see you", literally
-   "appointment to meet again".
+sounds.es:
+1. ngã y hỏi comparten la flecha ✓, pero no la fila: kỹ✓ (ngã) va arriba; ở✓ y phải✓ (hỏi) van abajo. La fila te dice cuál es.
+2. ư suena en sư: labios estirados, como para una i. gi de giáo es z: zau↑. h de Hà se oye siempre (aspiración suave), nunca muda como en español «hola».
+
 notes.es:
-1. Mấy giờ rồi? "¿qué hora es?", literalmente "cuántas horas ya". giờ es
-   la hora, rưỡi "y media", tám giờ rưỡi "las ocho y media". Las partes
-   del día van detrás de la hora, sáng "mañana", trưa "mediodía", chiều
-   "tarde", tối "noche", chín giờ sáng, bảy giờ tối. rồi al final de la
-   frase significa "ya".
-2. Los días de la semana son thứ "orden" + un número, empezando por el
-   dos, thứ hai "lunes", thứ ba "martes" y así hasta thứ bảy "sábado". El
-   miércoles es thứ tư, con la palabra sinovietnamita tư y no bốn. El
-   domingo es chủ nhật, "día del Señor". Hôm nay là thứ mấy? "¿qué día es
-   hoy?".
-3. Las expresiones de tiempo van de la más pequeña a la más grande, chín
-   giờ sáng thứ bảy "a las nueve del sábado por la mañana", y se colocan al
-   principio de la frase o justo después del sujeto, Thứ bảy em rảnh. Từ
-   ... đến ... significa "de ... a ...".
-4. phải + verbo significa "tener que", em phải đi học "tengo que ir a
-   clase". đều "todos, siempre" va delante del verbo o del adjetivo, como
-   cũng. rảnh "libre" y bận "ocupado" son adjetivos, así que van sin là.
-5. được "vale, se puede". Mười giờ được không? "¿te va bien a las
-   diez?"; se responde Được "vale" o Không được "no puede ser". Hẹn gặp
-   lại "hasta luego", literalmente "cita para volver a verse".
+1. Bà: señora, para una mujer mayor. Como ông y cô (lección 1), es título y «usted». Bà Lan es «la señora Lan»; bà ấy es «ella» (lección 4: cô ấy, ông ấy).
+2. Làm gì?: ¿qué hace? / ¿a qué se dedica? Làm es hacer; con un oficio pregunta el trabajo. Ông làm ở đâu? es «¿dónde trabaja?».
+3. Là + oficio, sin artículo: Bà ấy là giáo viên, tôi là kỹ sư. Igual que Tôi là người Tây Ban Nha (lección 4): no digas «una profesora».
+4. …, phải không?: ¿verdad? / ¿no es así?. Se añade al final para confirmar. Es la primera vez que lo ves; volverá.
+5. Vâng: sí (cortés), el más habitual en el norte. Dạ también se usa, sobre todo con mayores o al responder a una llamada; en el sur dạ es el sí cortés normal. Aquí el ingeniero contesta con vâng.
+6. Ở + lugar: en / estar en. Ở Hà Nội. Ở también significará «vivir» en la lección 6. Đâu es «dónde», otra palabra interrogativa en el lugar de la respuesta, como ai y gì.
 
 ex1:
-- Bây giờ là bảy giờ tối.
-  it: Ora sono le sette di sera (adesso essere sette ora sera).
-  en: It's seven in the evening now (now be seven hour evening).
-  es: Ahora son las siete de la tarde (ahora ser siete hora noche).
-- Chủ nhật chị Lan có rảnh không?
-  it: Domenica Lan è libera?
-  en: Is Lan free on Sunday?
-  es: ¿Lan está libre el domingo?
-- Thứ năm em phải đi học.
-  it: Giovedì devo andare a lezione.
-  en: On Thursday I have to go to class.
-  es: El jueves tengo que ir a clase.
-- Mười giờ sáng được không?
-  it: Alle dieci di mattina va bene?
-  en: Is ten in the morning OK?
-  es: ¿Te va bien a las diez de la mañana?
+- Bà Lan làm gì?
+  es: ¿A qué se dedica la señora Lan?
+- Bà ấy là giáo viên.
+  es: Ella es profesora.
+- Ông là kỹ sư, phải không?
+  es: Usted es ingeniero, ¿verdad?
+- Vâng, tôi là kỹ sư.
+  es: Sí, soy ingeniero.
+- Ông làm ở đâu?
+  es: ¿Dónde trabaja usted?
 
 ex2:
-- Bây giờ là [mấy] [giờ]?
-  it: Che ore sono?
-  en: What time is it?
-  es: ¿Qué hora es?
-- Hôm nay là [thứ] tư.
-  it: Oggi è mercoledì.
-  en: Today is Wednesday.
-  es: Hoy es miércoles.
-- Tám giờ [rưỡi] rồi.
-  it: Sono già le otto e mezza.
-  en: It's already half past eight.
-  es: Ya son las ocho y media.
-- [Hẹn] gặp lại em!
-  it: Arrivederci!
-  en: See you!
-  es: ¡Hasta luego!
+- Bà ấy [là] giáo viên.
+  es: Ella es profesora.
+- Ông là kỹ sư, [phải] [không]?
+  es: Usted es ingeniero, ¿verdad?
+- [Vâng], tôi là kỹ sư.
+  es: Sí, soy ingeniero.
+- Ông làm [ở] [đâu]?
+  es: ¿Dónde trabaja usted?
+- [Ở] Hà Nội.
+  es: En Hanói.
 
 == 6 A1
-title: Mời bác ăn cơm
-title.it: Buon appetito!
-title.en: Please, start eating
-title.es: ¡Buen provecho!
+numeral: Bài thứ sáu
+numeral.pron.es: bai→ thư↑ său↑
+title: Tôi ở gần đây
+title.es: Vivo cerca de aquí
 
 dialogue:
-- Luca ơi, xuống ăn cơm đi cháu!
-  it: Luca, scendi a mangiare (scendere mangiare riso đi nipote)!
-  en: Luca, come down and eat (come-down eat rice đi nephew)!
-  es: Luca, ¡baja a comer (bajar comer arroz đi sobrino)!
-- Dạ, cháu xuống ngay ạ! Ôi, nhiều món quá!
-  it: Sì, scendo subito (nipote scendere subito ạ)! Oh, quanti piatti (molti piatto troppo)!
-  en: Coming right away (nephew come-down at-once ạ)! Oh, so many dishes (many dish too)!
-  es: ¡Sí, bajo enseguida (sobrino bajar enseguida ạ)! ¡Oh, cuántos platos (muchos plato demasiado)!
-- Đây là cá kho, rau muống xào và canh cua. Em ngồi đây nhé.
-  it: Questo è pesce brasato (pesce stufare), spinaci d'acqua saltati (verdura muống saltare) e zuppa di granchio (zuppa granchio). Siediti qui (fratello-minore sedere qui nhé).
-  en: This is braised fish (fish braise), stir-fried water spinach (vegetable muống stir-fry) and crab soup (soup crab). Sit here (younger-sibling sit here nhé).
-  es: Esto es pescado guisado (pescado guisar), espinacas de agua salteadas (verdura muống saltear) y sopa de cangrejo (sopa cangrejo). Siéntate aquí (hermano-menor sentar aquí nhé).
-- Cháu mời bác ăn cơm. Em mời chị ăn cơm.
-  it: Prego, signore, cominci (nipote invitare zio mangiare riso). Prego, Lan, comincia (fratello-minore invitare sorella-maggiore mangiare riso).
-  en: Please start, sir (nephew invite uncle eat rice). Please start, Lan (younger-sibling invite elder-sister eat rice).
-  es: Empiece usted, señor (sobrino invitar tío comer arroz). Empieza tú, Lan (hermano-menor invitar hermana-mayor comer arroz).
-- Cháu giỏi quá, biết mời rồi! Ăn đi cháu.
-  it: Bravissimo, sai già fare l'invito (nipote bravo troppo, sapere invitare già)! Mangia pure (mangiare đi nipote).
-  en: Well done, you already know how to say mời (nephew clever too, know invite already)! Go on, eat (eat đi nephew).
-  es: ¡Muy bien, ya sabes invitar (sobrino hábil demasiado, saber invitar ya)! Come (comer đi sobrino).
-- Em dùng đũa được không?
-  it: Riesci a usare le bacchette (fratello-minore usare bacchette potere non)?
-  en: Can you use chopsticks (younger-sibling use chopsticks can not)?
-  es: ¿Sabes usar los palillos (hermano-menor usar palillos poder no)?
-- Được ạ, nhưng hơi khó. Cá kho ngon lắm!
-  it: Sì (potere ạ), ma è un po' difficile. Il pesce brasato è buonissimo (pesce brasato buono molto)!
-  en: Yes (can ạ), but it's a bit hard. The braised fish is delicious (fish braised tasty very)!
-  es: Sí (poder ạ), pero es un poco difícil. ¡El pescado guisado está riquísimo (pescado guisado sabroso mucho)!
-- Cháu ăn nữa đi! Còn nhiều cơm lắm.
-  it: Mangiane ancora (nipote mangiare ancora đi)! C'è ancora tanto riso (restare molto riso molto).
-  en: Have some more (nephew eat more đi)! There's still lots of rice (remain much rice very).
-  es: ¡Come más (sobrino comer más đi)! Todavía queda mucho arroz (quedar mucho arroz mucho).
-- Cảm ơn bác, cháu no rồi ạ!
-  it: Grazie, signore, sono sazio (nipote sazio già ạ)!
-  en: Thank you, sir, I'm full (nephew full already ạ)!
-  es: ¡Gracias, señor, estoy lleno (sobrino lleno ya ạ)!
+- Ông ở đâu?
+  es: ¿Dónde vive usted? (señor vivir dónde)
+  pron.es: ong→ ơ✓ dơu→?
+- Tôi ở gần đây.
+  es: Vivo cerca de aquí. (yo vivir cerca aquí)
+  pron.es: toi→ ơ✓ gơn→ dơi→.
+- Gần hồ?
+  es: ¿Cerca del lago? (cerca lago)
+  pron.es: gơn→ ho→?
+- Gần hồ. Nhà tôi nhỏ.
+  es: Cerca del lago. Mi casa es pequeña. (cerca lago. casa yo pequeña)
+  pron.es: gơn→ ho→. ña→ toi→ ñò✓.
+- Nhỏ mà đẹp?
+  es: ¿Pequeña pero bonita? (pequeña pero bonita)
+  pron.es: ñò✓ ma→ dèp↓?
+- Đẹp… và xe máy của hàng xóm cũng ngủ trong nhà tôi!
+  es: Bonita… ¡y la moto del vecino también duerme en mi casa!
+  pron.es: dèp↓… va→ sè→ măi↑ cuơ✓ hang→ sòm↑ cung✓ ngu✓ chòng→ ña→ toi→!
 
-notes.it:
-1. ăn cơm, alla lettera "mangiare il riso", vuol dire semplicemente
-   "mangiare, fare il pasto": il riso cotto (cơm) sta per tutto il pranzo o
-   la cena. Il riso crudo si chiama gạo, la pianta lúa.
-2. Prima di mangiare il più giovane invita, uno per uno, tutti quelli più
-   grandi, Cháu mời bác ăn cơm, Em mời chị ăn cơm. Solo dopo si comincia.
-   mời significa "invitare" e serve anche per offrire, Mời chị ngồi "prego,
-   accomodati".
-3. đi in fondo alla frase rende un ordine più gentile, quasi un
-   incoraggiamento, Ăn đi! "mangia pure!", Xuống ăn cơm đi cháu! Non va
-   confuso con il verbo đi "andare". nữa "ancora, di più" segue il verbo,
-   ăn nữa đi "mangiane ancora".
-4. được dopo il verbo indica la capacità, dùng đũa được "riuscire a usare
-   le bacchette". La domanda è ... được không? e si risponde Được ạ oppure
-   Không được. rồi "già" chiude frasi come no rồi "sono già sazio", biết
-   mời rồi "sai già invitare".
-5. I piatti si mettono al centro della tavola e ognuno ha la sua ciotola di
-   riso. cá kho è pesce cotto a lungo in salsa caramellata, rau muống, lo
-   spinacio d'acqua, è la verdura più amata di Hanoi, e la canh, una zuppa
-   leggera, accompagna sempre il riso.
-notes.en:
-1. ăn cơm, literally "eat rice", simply means "to eat, to have a meal":
-   cooked rice (cơm) stands for the whole lunch or dinner. Raw rice is
-   gạo, and the plant is lúa.
-2. Before eating, the youngest invites every older person one by one, Cháu
-   mời bác ăn cơm, Em mời chị ăn cơm. Only then does the meal start. mời
-   means "to invite" and is also used to offer, Mời chị ngồi "please sit
-   down".
-3. đi at the end of a sentence softens an order into encouragement, Ăn đi!
-   "go on, eat!", Xuống ăn cơm đi cháu! Do not confuse it with the verb đi
-   "to go". nữa "more, again" follows the verb, ăn nữa đi "have some more".
-4. được after a verb shows ability, dùng đũa được "can use chopsticks".
-   The question is ... được không? and the answer Được ạ or Không được.
-   rồi "already" ends phrases like no rồi "I'm full (already)", biết mời
-   rồi "you already know how to invite".
-5. Dishes go in the middle of the table and everyone has their own bowl of
-   rice. cá kho is fish slowly cooked in a caramel sauce, rau muống, water
-   spinach, is Hanoi's favourite vegetable, and canh, a light soup, always
-   comes with the rice.
+sounds.es:
+1. La e sin sombrero es abierta, è, con la boca más abierta que en «perro»: xe → sè→, đẹp → dèp↓. đẹp lleva además nặng: corto y bajo. La ê con sombrero es la e española, como en mệt (lección 3).
+2. hỏi otra vez, fila de abajo: ở✓, ñò✓, cuơ✓. x suena s: xe → sè→, xóm → sòm↑. máy se figura măi↑: en ay la a es muy breve.
+
 notes.es:
-1. ăn cơm, literalmente "comer arroz", significa simplemente "comer, hacer
-   una comida": el arroz cocido (cơm) representa toda la comida o la cena.
-   El arroz crudo se llama gạo, y la planta lúa.
-2. Antes de comer, el más joven invita uno por uno a todos los mayores,
-   Cháu mời bác ăn cơm, Em mời chị ăn cơm. Solo entonces se empieza. mời
-   significa "invitar" y sirve también para ofrecer, Mời chị ngồi
-   "siéntate, por favor".
-3. đi al final de la frase suaviza una orden y la vuelve un ánimo, Ăn đi!
-   "¡come!", Xuống ăn cơm đi cháu! No hay que confundirlo con el verbo đi
-   "ir". nữa "más, otra vez" va detrás del verbo, ăn nữa đi "come más".
-4. được detrás del verbo indica capacidad, dùng đũa được "saber usar los
-   palillos". La pregunta es ... được không? y se responde Được ạ o Không
-   được. rồi "ya" cierra frases como no rồi "ya estoy lleno", biết mời rồi
-   "ya sabes invitar".
-5. Los platos se ponen en el centro de la mesa y cada uno tiene su cuenco
-   de arroz. cá kho es pescado cocinado a fuego lento en salsa
-   caramelizada, rau muống, la espinaca de agua, es la verdura favorita de
-   Hanói, y la canh, una sopa ligera, acompaña siempre el arroz.
+1. Ở: vivir / estar en. En la lección 5, ở Hà Nội era «en Hanói»; aquí Ông ở đâu? pregunta dónde vive alguien. Gần đây: cerca de aquí. Đây lo viste en Đây là (lección 2).
+2. Hồ: lago. Gần hồ = cerca del lago (aquí, el Hoàn Kiếm, en el centro de Hanói).
+3. Nhà tôi: mi casa. La posesión va por el orden: casa + yo. También existe của («de»): xe máy của hàng xóm = la moto del vecino. Las dos formas conviven; của deja claro de quién es.
+4. Adjetivo después del nombre y también solo como predicado: nhà nhỏ (casa pequeña), Nhà tôi nhỏ (mi casa es pequeña). Como mệt (lección 3): no hace falta ser ni estar.
+5. Mà: pero / y sin embargo (contraste suave). Nhỏ mà đẹp = pequeña pero bonita. Es la primera vez que lo ves.
+6. Xe máy: moto. Hàng xóm: vecino. Cũng: también. Trong: en / dentro. Ngủ: dormir. El giro: la casa es pequeña y bonita… y la moto del vecino duerme dentro cada noche. En Hanói es lo más normal del mundo.
 
 ex1:
-- Mời bác ăn cơm ạ.
-  it: Prego, signore, cominci a mangiare.
-  en: Please start eating, sir.
-  es: Empiece a comer, señor, por favor.
-- Chị Lan dùng đũa giỏi lắm.
-  it: Lan usa le bacchette benissimo (usare bacchette brava molto).
-  en: Lan is very good with chopsticks (use chopsticks clever very).
-  es: Lan usa muy bien los palillos (usar palillos hábil mucho).
-- Em ăn nữa đi!
-  it: Mangiane ancora!
-  en: Have some more!
-  es: ¡Come más!
-- Cháu no rồi, cảm ơn bác.
-  it: Sono sazio, grazie, signore.
-  en: I'm full, thank you, sir.
-  es: Estoy lleno, gracias, señor.
+- Ông ở đâu?
+  es: ¿Dónde vive usted?
+- Tôi ở gần đây.
+  es: Vivo cerca de aquí.
+- Nhà tôi nhỏ.
+  es: Mi casa es pequeña.
+- Nhỏ mà đẹp.
+  es: Pequeña pero bonita.
+- Xe máy của hàng xóm.
+  es: La moto del vecino.
 
 ex2:
-- Cháu [mời] bác ăn [cơm].
-  it: Prego, signore, cominci a mangiare.
-  en: Please start eating, sir.
-  es: Empiece a comer, señor.
-- Em dùng đũa [được] [không]?
-  it: Riesci a usare le bacchette?
-  en: Can you use chopsticks?
-  es: ¿Sabes usar los palillos?
-- Ăn [nữa] đi!
-  it: Mangiane ancora!
-  en: Have some more!
-  es: ¡Come más!
-- Cháu [no] rồi ạ.
-  it: Sono sazio.
-  en: I'm full.
-  es: Estoy lleno.
+- Tôi ở [gần] [đây].
+  es: Vivo cerca de aquí.
+- Nhà [tôi] nhỏ.
+  es: Mi casa es pequeña.
+- Nhỏ [mà] đẹp.
+  es: Pequeña pero bonita.
+- Xe máy [của] hàng xóm.
+  es: La moto del vecino.
+- Xe máy cũng [ngủ] trong nhà tôi.
+  es: La moto también duerme en mi casa.
+
+culture.es:
+La xe máy es el transporte diario de Hanói: al trabajo, al mercado, a casa. Por la noche muchas se guardan dentro de la casa o en la planta baja, porque en la calle no siempre hay sitio seguro. Una nhà ống estrecha puede tener la moto «durmiendo» junto a la puerta. No es broma de la lección: es la vida cotidiana.
+
+aside.es:
+Mañana hay lección de repaso: nada nuevo, solo poner en orden lo de esta semana. Respira: ya tienes saludos, bebidas, oficios y «mi casa es pequeña».
 
 == 7 A1
-title: Ôn tập ở quán cà phê
-title.it: Ripasso al caffè
-title.en: Review at the café
-title.es: Repaso en la cafetería
+kind: revision
+numeral: Bài thứ bảy
+numeral.pron.es: bai→ thư↑ băi✓
+title: Ôn tập
+title.es: Repaso
 
 dialogue:
-- Chào anh Luca! Xin lỗi anh, em đến muộn.
-  it: Ciao, Luca! Scusami (chiedere-perdono fratello-maggiore), sono in ritardo (fratello-minore arrivare tardi).
-  en: Hi, Luca! Sorry (ask-pardon elder-brother), I'm late (younger-sibling arrive late).
-  es: ¡Hola, Luca! Perdona (pedir-perdón hermano-mayor), llego tarde (hermano-menor llegar tarde).
-- Không sao. Em uống gì? Trà đá nhé?
-  it: Non fa niente. Che cosa bevi? Un tè col ghiaccio (nhé)?
-  en: No problem. What will you drink? Iced tea (nhé)?
-  es: No pasa nada. ¿Qué tomas? ¿Un té con hielo (nhé)?
-- Vâng ạ. Hôm nay em hỏi, anh trả lời bằng tiếng Việt nhé. Anh tên là gì?
-  it: Sì. Oggi io faccio le domande e tu rispondi in vietnamita (fratello-minore chiedere, fratello-maggiore rispondere con lingua Vietnam nhé). Come ti chiami (fratello-maggiore nome essere che-cosa)?
-  en: Yes. Today I ask and you answer in Vietnamese (younger-sibling ask, elder-brother answer by language Vietnam nhé). What's your name (elder-brother name be what)?
-  es: Sí. Hoy yo pregunto y tú contestas en vietnamita (hermano-menor preguntar, hermano-mayor contestar con lengua Vietnam nhé). ¿Cómo te llamas (hermano-mayor nombre ser qué)?
-- Anh tên là Luca. Anh là người Ý, anh hai mươi tám tuổi.
-  it: Mi chiamo Luca (fratello-maggiore nome essere Luca). Sono italiano, ho ventotto anni (fratello-maggiore due dieci otto età).
-  en: My name is Luca (elder-brother name be Luca). I'm Italian, I'm twenty-eight (elder-brother two ten eight age).
-  es: Me llamo Luca (hermano-mayor nombre ser Luca). Soy italiano, tengo veintiocho años (hermano-mayor dos diez ocho edad).
-- Giỏi quá! Gia đình anh có mấy người?
-  it: Bravissimo (bravo troppo)! Quanti siete in famiglia?
-  en: Very good (clever too)! How many are there in your family?
-  es: ¡Muy bien (hábil demasiado)! ¿Cuántos sois en tu familia?
-- Nhà anh có bốn người: bố, mẹ, chị gái và anh. Chị gái anh là giáo viên.
-  it: Siamo in quattro: papà, mamma, mia sorella e io. Mia sorella fa l'insegnante.
-  en: There are four of us: Dad, Mum, my sister and me. My sister is a teacher.
-  es: Somos cuatro: papá, mamá, mi hermana y yo. Mi hermana es profesora.
-- Anh thích ăn gì? Phở hay cá kho?
-  it: Che cosa ti piace mangiare (fratello-maggiore piacere mangiare che-cosa)? Il phở o il pesce brasato (phở oppure pesce brasato)?
-  en: What do you like to eat (elder-brother like eat what)? Phở or braised fish (phở or fish braised)?
-  es: ¿Qué te gusta comer (hermano-mayor gustar comer qué)? ¿Phở o pescado guisado (phở o pescado guisado)?
-- Anh thích cả hai! Phở bác Hùng ngon lắm, cá kho của chị Lan cũng rất ngon.
-  it: Mi piacciono tutti e due (fratello-maggiore piacere tutti due)! Il phở del signor Hùng è buonissimo, e anche il pesce brasato di Lan è molto buono (pesce brasato di sorella-maggiore Lan anche molto buono).
-  en: I like both (elder-brother like all two)! Mr Hùng's phở is delicious, and Lan's braised fish is very good too (fish braised of elder-sister Lan also very tasty).
-  es: ¡Me gustan los dos (hermano-mayor gustar todos dos)! El phở del señor Hùng está riquísimo, y el pescado guisado de Lan también está muy bueno (pescado guisado de hermana-mayor Lan también muy sabroso).
-- Tiếng Việt của anh tốt quá! Thứ bảy tuần sau mình học tiếp nhé.
-  it: Il tuo vietnamita è ottimo (lingua Vietnam di fratello-maggiore buono troppo)! Sabato prossimo continuiamo (ordine sette settimana dopo noi studiare continuare nhé).
-  en: Your Vietnamese is great (language Vietnam of elder-brother good too)! Let's carry on next Saturday (order seven week after we study continue nhé).
-  es: ¡Tu vietnamita es estupendo (lengua Vietnam de hermano-mayor bueno demasiado)! El sábado que viene seguimos (orden siete semana después nosotros estudiar continuar nhé).
+- Chào ông!
+  es: ¡Buenos días, señor!
+  pron.es: chau→ ong→!
+  refs: 1
+- Chào cô! Mời cô vào!
+  es: ¡Buenos días, señorita! ¡Pase!
+  pron.es: chau→ co→! mơi→ co→ vau→!
+  refs: 1
+- Cô uống gì?
+  es: ¿Qué bebe usted?
+  pron.es: co→ uơng↑ zi→?
+  refs: 2
+- Tôi uống nước cam. Ông là kỹ sư, phải không?
+  es: Bebo zumo de naranja. Usted es ingeniero, ¿verdad?
+  pron.es: toi→ uơng↑ nươc↑ cam→. ong→ la→ qui✓ sư→, fai✓ jong→?
+  refs: 2 5
+- Vâng, tôi là kỹ sư. Còn cô?
+  es: Sí, soy ingeniero. ¿Y usted?
+  pron.es: vơng→, toi→ la→ qui✓ sư→. còn→ co→?
+  refs: 4 5
+- Tôi là người Tây Ban Nha. Cô ấy là ai?
+  es: Soy española. ¿Quién es ella?
+  pron.es: toi→ la→ ngươi→ tơi→ ban→ ña→. co→ ơi↑ la→ ai→?
+  refs: 4
+- Cô ấy là Hoa. Cô ở đâu?
+  es: Ella es Hoa. ¿Dónde vive usted?
+  pron.es: co→ ơi↑ la→ hua→. co→ ơ✓ dơu→?
+  refs: 4 6
+- Tôi ở gần đây, gần hồ. Nhà tôi nhỏ mà đẹp.
+  es: Vivo cerca de aquí, cerca del lago. Mi casa es pequeña pero bonita.
+  pron.es: toi→ ơ✓ gơn→ dơi→, gơn→ ho→. ña→ toi→ ñò✓ ma→ dèp↓.
+  refs: 6
+- Gần hồ? Tôi cũng ở gần hồ!
+  es: ¿Cerca del lago? ¡Yo también vivo cerca del lago!
+  pron.es: gơn→ ho→? toi→ cung✓ ơ✓ gơn→ ho→!
+  refs: 6
+- Vâng. Xe máy của ông ngủ trong nhà tôi!
+  es: Sí. ¡Su moto duerme en mi casa! (sí. moto de señor dormir en casa yo)
+  pron.es: vơng→. sè→ măi↑ cuơ✓ ong→ ngu✓ chòng→ ña→ toi→!
+  refs: 5 6
 
-notes.it:
-1. I pronomi sono parole di parentela scelte in base all'età. Luca è anh
-   con Minh, em con Lan e cháu con il signor Hùng, e chiama gli altri di
-   conseguenza. ấy forma la terza persona (anh ấy, chị ấy, em ấy) e mình
-   è un "noi" che comprende chi ascolta.
-2. Le parole non cambiano mai forma. Aggettivi ed età non vogliono là, Anh
-   hai mươi tám tuổi, Phở ngon lắm; là unisce due nomi e si nega con
-   không phải là. Chi precisa segue la parola precisata, trà đá, phở bò,
-   ảnh gia đình em, tiếng Việt của anh.
-3. Le domande mantengono l'ordine della frase affermativa. có ... không
-   per il sì o no (Em có rảnh không?), à per chiedere conferma, le parole
-   interrogative al posto della risposta (gì, đâu, mấy, bao nhiêu), hay
-   per scegliere (Phở hay cá kho?), ... được không? per chiedere se si può.
-4. L'intensità. rất prima dell'aggettivo, lắm o quá dopo, hơi "un po'",
-   rất ngon, ngon lắm, sớm quá, hơi khó. cũng, đều e phải stanno davanti al
-   verbo. Le indicazioni di tempo vanno dalla più piccola alla più grande,
-   mười giờ sáng thứ bảy.
-5. Le particelle finali danno il tono. ạ per il rispetto, nhé per proporre,
-   đi per incoraggiare, ơi per chiamare, rồi per "già", không ... đâu per
-   negare con decisione ma con gentilezza.
-notes.en:
-1. Pronouns are kinship words chosen by age. Luca is anh with Minh, em
-   with Lan and cháu with Mr Hùng, and calls the others accordingly. ấy
-   makes the third person (anh ấy, chị ấy, em ấy) and mình is a "we" that
-   includes the listener.
-2. Words never change form. Adjectives and ages take no là, Anh hai mươi
-   tám tuổi, Phở ngon lắm; là links two nouns and is negated with không
-   phải là. The describing word follows the word it describes, trà đá, phở
-   bò, ảnh gia đình em, tiếng Việt của anh.
-3. Questions keep the word order of statements. có ... không for yes or
-   no (Em có rảnh không?), à to check, question words in the place of the
-   answer (gì, đâu, mấy, bao nhiêu), hay to choose (Phở hay cá kho?),
-   ... được không? to ask whether something is possible.
-4. Degree. rất before the adjective, lắm or quá after it, hơi "a bit", rất
-   ngon, ngon lắm, sớm quá, hơi khó. cũng, đều and phải go before the verb.
-   Time expressions run from the smallest to the largest, mười giờ sáng
-   thứ bảy.
-5. Final particles set the tone. ạ for respect, nhé to suggest, đi to
-   encourage, ơi to call someone, rồi for "already", không ... đâu to deny
-   firmly but kindly.
 notes.es:
-1. Los pronombres son palabras de parentesco elegidas según la edad. Luca
-   es anh con Minh, em con Lan y cháu con el señor Hùng, y llama a los
-   demás en consecuencia. ấy forma la tercera persona (anh ấy, chị ấy, em
-   ấy) y mình es un "nosotros" que incluye a quien escucha.
-2. Las palabras nunca cambian de forma. Los adjetivos y la edad no llevan
-   là, Anh hai mươi tám tuổi, Phở ngon lắm; là une dos sustantivos y se
-   niega con không phải là. Lo que precisa va detrás de lo precisado, trà
-   đá, phở bò, ảnh gia đình em, tiếng Việt của anh.
-3. Las preguntas mantienen el orden de la frase afirmativa. có ... không
-   para el sí o no (Em có rảnh không?), à para pedir confirmación, las
-   palabras interrogativas en el lugar de la respuesta (gì, đâu, mấy, bao
-   nhiêu), hay para elegir (Phở hay cá kho?), ... được không? para
-   preguntar si se puede.
-4. La intensidad. rất delante del adjetivo, lắm o quá detrás, hơi "un
-   poco", rất ngon, ngon lắm, sớm quá, hơi khó. cũng, đều y phải van
-   delante del verbo. Las expresiones de tiempo van de la más pequeña a la
-   más grande, mười giờ sáng thứ bảy.
-5. Las partículas finales dan el tono. ạ para el respeto, nhé para
-   proponer, đi para animar, ơi para llamar, rồi para "ya", không ... đâu
-   para negar con firmeza pero con amabilidad.
+Seis lecciones y ninguna regla para aprender de memoria. Esta lección no es un examen: solo ordena lo que ya has oído y repetido. Si algo no está claro, sigue adelante: volverá. El objetivo es hacerse entender, no ser perfecto.
 
-ex1:
-- Chị Lan là người Việt, chị ấy làm ở ngân hàng.
-  it: Lan è vietnamita, lavora in banca.
-  en: Lan is Vietnamese, she works at a bank.
-  es: Lan es vietnamita, trabaja en un banco.
-- Em thích uống trà đá hay cà phê?
-  it: Ti piace di più il tè col ghiaccio o il caffè (fratello-minore piacere bere tè ghiaccio oppure caffè)?
-  en: Do you like iced tea or coffee (younger-sibling like drink tea ice or coffee)?
-  es: ¿Te gusta el té con hielo o el café (hermano-menor gustar beber té hielo o café)?
-- Bây giờ là mười giờ sáng thứ bảy.
-  it: Ora sono le dieci di sabato mattina.
-  en: It's now ten o'clock on Saturday morning.
-  es: Ahora son las diez del sábado por la mañana.
-- Minh không phải là người Ý.
-  it: Minh non è italiano.
-  en: Minh isn't Italian.
-  es: Minh no es italiano.
+1. Los seis tonos (lecciones 1 a 6). Cada sílaba vietnamita lleva un tono. En la línea 🔈 la flecha lo marca y la fila (arriba o abajo) te dice la altura. Un tono distinto = una palabra distinta.
 
-ex2:
-- Anh [là] người Ý, anh hai mươi tám [tuổi].
-  it: Sono italiano, ho ventotto anni.
-  en: I'm Italian, I'm twenty-eight.
-  es: Soy italiano, tengo veintiocho años.
-- Anh thích phở [hay] cá kho?
-  it: Ti piace il phở o il pesce brasato?
-  en: Do you like phở or braised fish?
-  es: ¿Te gusta el phở o el pescado guisado?
-- Tiếng Việt [của] anh tốt [quá]!
-  it: Il tuo vietnamita è ottimo!
-  en: Your Vietnamese is great!
-  es: ¡Tu vietnamita es estupendo!
-- Chị Lan [cũng] thích ăn phở.
-  it: Anche a Lan piace mangiare il phở.
-  en: Lan likes eating phở too.
-  es: A Lan también le gusta comer phở.
+| Marca | Nombre | Flecha | Fila | Ejemplo de la semana |
+|---|---|---|---|---|
+| (nada) | ngang | → | arriba | cô, ông, tôi, ai, Nam, đây, cam, hơi |
+| à | huyền | → | abajo | chào, tìm, mời, vào, là, trà, làm, nhà, gần |
+| á | sắc | ↑ | arriba | uống, nước, có, muốn, ấy, giáo, máy |
+| ả | hỏi | ✓ | abajo | cảm, ở, phải, nhỏ, của |
+| ã | ngã | ✓ | arriba | kỹ, cũng |
+| ạ | nặng | ↓ | abajo | mệt, Việt, đẹp, Nội |
+
+→ y ✓ aparecen en las dos filas: mira la fila, no grites ni susurres.
+
+2. Signos especiales hasta ahora (lecciones 1 a 6).
+
+| Signo | Cómo suena | Ejemplos |
+|---|---|---|
+| ch / tr | como «chico» | chào → chau→; trà → cha→ |
+| gi | z (s con zumbido) | giáo → zau↑ |
+| h | aspiración, siempre se oye | Hà → ha→ |
+| nh | ñ | nhà → ña→; Nha → ña→ |
+| ng | n de «tengo», también al inicio | ngồi → ngoi→; người → ngươi→ |
+| v | dientes sobre el labio, no b | vào → vau→; Việt → viet↓; vâng → vơng→ |
+| x | s | xe → sè→; xóm → som↑ |
+| ơ | entre e y o, labios sin redondear | mời → mơi→; ơn → ơn→; ở → ơ✓ |
+| ư | u con labios estirados (sonrisa) | thứ → thư↑; sư → sư→ |
+| ươ | ư que se desliza a ơ | nước → nươc↑; người → ngươi→ |
+| ô | o cerrada (española) | cô → co→; tôi → toi→; hồ → ho→ |
+| o | o abierta: ò | có → cò↑; còn → còn→; trong → chòng→ |
+| e | e abierta: è | xe → sè→; đẹp → dèp↓ |
+| ê | e española | mệt → met↓ |
+
+3. Tratamiento por edad (lecciones 1, 4, 5). No hay tú/usted fijos: eliges el título de parentesco.
+
+| Palabra | Con quién | Como «yo / usted / él-ella» |
+|---|---|---|
+| ông | hombre mayor | usted, señor; ông ấy = él |
+| cô | mujer joven o de edad media | usted, señorita; cô ấy = ella |
+| bà | mujer mayor | usted, señora; bà ấy = ella |
+| tôi | (el que habla) | yo (no cambia nunca) |
+
+Recuerda: chào ông, chào cô, bà Lan, ông Nam. Lo veremos ampliado (anh, chị, em…) más adelante.
+
+4. Vâng y dạ (lección 5). En el norte, vâng es el «sí» cortés habitual; dạ también se usa, sobre todo con mayores o al responder a una llamada. En el sur, dạ es el habitual. Esta semana solo has visto vâng; dạ volverá.
+
+5. Là, y adjetivos sin là (lecciones 2, 3, 4, 5, 6). Là identifica: Đây là nước cam; Cô ấy là Hoa; Tôi là kỹ sư; Bà ấy là giáo viên. Los adjetivos predicado van sin là y sin ser/estar: Tôi mệt; Nhà tôi nhỏ; Nhà nhỏ mà đẹp. El adjetivo no cambia de género ni de número.
+
+6. Palabras interrogativas y preguntas de sí/no (lecciones 1 a 5). Van en el lugar de la respuesta; el orden de la frase no cambia.
+
+| Palabra | Significado | Ejemplo |
+|---|---|---|
+| ai | quién | Cô tìm ai? Cô ấy là ai? |
+| gì | qué | Cô uống gì? Bà Lan làm gì? |
+| đâu | dónde | Ông làm ở đâu? Ông ở đâu? |
+| nào | cuál / qué (entre opciones) | người nước nào? |
+| có … không? | ¿…? (sí/no) | Cô có mệt không? |
+| phải không? | ¿verdad? | Ông là kỹ sư, phải không? |
+
+7. Mời … vào, muốn, làm gì (lecciones 1, 3, 5). Mời cô vào / mời cô ngồi: invitar a entrar o a sentarse. Muốn + verbo: muốn uống, muốn ngồi (querer hacer). Làm gì pregunta el oficio o la actividad; làm ở đâu, el lugar de trabajo. No hay conjugación: el verbo no cambia.
+
+El vecino de la moto era él. Los mecanismos empiezan a funcionar: mañana, lección 8.
 
 == 8 A1
+numeral: Bài thứ tám
+numeral.pron.es: bai→ thư↑ tam↑
+title: Đi ăn cơm đi!
+title.es: ¡Vamos a comer!
+
+dialogue:
+- Chúng ta đi ăn cơm đi!
+  es: ¡Vamos a comer! (nosotros ir comer arroz ¡vamos!)
+  pron.es: chung↑ ta→ di→ ăn→ cơm→ di→!
+- Ăn gì?
+  es: ¿Qué comemos? (comer qué)
+  pron.es: ăn→ zi→?
+- Phở bò.
+  es: Pho de ternera. (pho ternera)
+  pron.es: fơ✓ bò→.
+- Anh có thích phở không?
+  es: ¿Te gusta el pho? (hermano mayor ¿hay gustar pho no?)
+  pron.es: aiñ→ cò↑ thic↑ fơ✓ jong→?
+- Thích lắm.
+  es: Me gusta mucho. (gustar mucho)
+  pron.es: thic↑ lăm↑.
+- Có một quán phở gần đây.
+  es: Hay un puesto de pho cerca de aquí. (hay un puesto pho cerca aquí)
+  pron.es: cò↑ mot↓ cuan↑ fơ✓ gơn→ dơi→.
+- Đi thôi!
+  es: ¡Vamos ya! (ir basta)
+  pron.es: di→ thoi→!
+
+sounds.es:
+1. ph suena f: phở → fơ✓. El tono de phở es hỏi (baja y vuelve a subir un poco), fila de abajo. bò lleva o abierta (ò) y tono huyền, fila de abajo: bò→.
+2. sắc ↑ otra vez, fila de arriba: chúng↑, thích↑, lắm↑, quán↑. một lleva nặng: mot↓ (corto y bajo).
+
+notes.es:
+1. Chúng ta: nosotros (tú y yo incluidos). Es la primera vez que ves un «nosotros»; lo veremos más adelante con chúng tôi.
+2. Đi + verbo: ir a hacer algo. Đi ăn = ir a comer. Al final de la frase, đi urge: Chúng ta đi ăn cơm đi! = ¡vamos a comer ya! No es el mismo đi del principio; es un empujoncito.
+3. Ăn cơm: comer (tomar una comida). Cơm es «arroz cocido», y ăn cơm es la forma habitual de decir «comer» en el sentido de hacer una comida, no solo arroz. Ăn gì? pregunta qué se come.
+4. Anh: hermano mayor, y también «tú / usted» con un hombre de edad parecida o un poco mayor. Aquí dos colegas se tratan de anh. Como ông y cô (lección 1), eliges según la edad; anh lo veremos mucho.
+5. Thích: gustar. Anh có thích phở không? = ¿te gusta el pho? (estructura có … không? de la lección 3). Lắm va después de la palabra: thích lắm = gusta mucho. Hơi (lección 3) iba delante; lắm va detrás.
+6. Một quán: un puesto / un local. Quán es un sustantivo (puesto de comida, bar pequeño); aquí no hace falta clasificador. Một es «uno / un». Gần đây lo viste en la lección 6. Đi thôi!: ¡vamos ya! (thôi cierra la idea: basta de hablar, nos vamos).
+
+ex1:
+- Tôi thích nước cam lắm.
+  es: Me gusta mucho el zumo de naranja.
+- Cô có muốn đi ăn phở không?
+  es: ¿Quiere usted ir a comer pho?
+- Chúng ta đi uống trà đi!
+  es: ¡Vamos a tomar un té!
+- Có một quán phở gần hồ.
+  es: Hay un puesto de pho cerca del lago.
+- Anh ăn gì?
+  es: ¿Qué comes?
+
+ex2:
+- Chúng ta [đi] ăn cơm [đi]!
+  es: ¡Vamos a comer!
+- Anh có [thích] phở [không]?
+  es: ¿Te gusta el pho?
+- Thích [lắm].
+  es: Me gusta mucho.
+- Có [một] quán phở gần đây.
+  es: Hay un puesto de pho cerca de aquí.
+- [Đi] thôi!
+  es: ¡Vamos ya!
+
+culture.es:
+El phở es el plato diario de Hanói: se come de desayuno y también a mediodía. Phở bò es con ternera; phở gà, con pollo. Se pide en un quán (puesto o local pequeño), a menudo de pie o en banquetas bajas. No es solo «sopa»: es la comida completa de la mañana para mucha gente.
+
+== 9 A1
+numeral: Bài thứ chín
+numeral.pron.es: bai→ thư↑ chin↑
+title: Hai cái giường
+title.es: Dos camas
+
+dialogue:
+- Đây là nhà tôi.
+  es: Esta es mi casa. (aquí es casa yo)
+  pron.es: dơi→ la→ ña→ toi→.
+- Nhà rộng quá! Có mấy phòng?
+  es: ¡Qué casa tan grande! ¿Cuántas habitaciones hay? (casa ancha demasiado! hay cuántas habitación)
+  pron.es: ña→ zong↓ cua↑! cò↑ mơi↑ fòng→?
+- Có bốn phòng.
+  es: Hay cuatro habitaciones. (hay cuatro habitación)
+  pron.es: cò↑ bon↑ fòng→.
+- Phòng nào là phòng của cô?
+  es: ¿Cuál es su habitación? (habitación cuál es habitación de señorita)
+  pron.es: fòng→ nau→ la→ fòng→ cuơ✓ co→?
+- Phòng nhỏ này.
+  es: Esta habitación pequeña. (habitación pequeña esta)
+  pron.es: fòng→ ñò✓ năi→.
+- Sao có hai cái giường?
+  es: ¿Por qué hay dos camas? (por-qué hay dos clasificador cama)
+  pron.es: sau→ cò↑ hai→ cai↑ zương→?
+- Một cái của tôi, một cái của con mèo.
+  es: Una es mía, otra es del gato. (un clasificador de yo, un clasificador de clasificador gato)
+  pron.es: mot↓ cai↑ cuơ✓ toi→, mot↓ cai↑ cuơ✓ còn→ mèu→.
+
+sounds.es:
+1. nặng otra vez: rộng → zong↓, một → mot↓. sắc ↑ en quá↑, bốn↑, cái↑, mấy↑.
+2. ô cerrada (bốn → bon↑) frente a o abierta (phòng → fòng→, con → còn→). gi con ươ: giường → zương→. e abierta y o final: mèo → mèu→.
+
+notes.es:
+1. Rộng: amplio, grande (de espacio). Quá va después del adjetivo: rộng quá = demasiado / ¡qué…! (intensificador, como lắm de la lección 8, pero demasiado / ¡cuánto!). Nhà rộng quá = ¡qué casa tan grande!
+2. Mấy + nombre: cuántos / cuántas. Có mấy phòng? = ¿cuántas habitaciones hay? Los números de esta lección, en palabras: một (uno, lección 8), hai (dos), ba (tres), bốn (cuatro).
+3. Nào: cuál (lección 4). Phòng nào = qué / cuál habitación. Này va después del nombre: phòng nhỏ này = esta habitación pequeña.
+4. Sao: por qué. Sao có hai cái giường? = ¿por qué hay dos camas? Es la primera vez que lo ves; volverá.
+5. Cái: clasificador de cosas. Hai cái giường = dos camas. Con: clasificador de animales. Con mèo = (un) gato. El clasificador solo, con một, vale por «uno»: một cái = una (cama). Con un número, lo natural es poner el clasificador: hai cái giường.
+6. Của lo viste en la lección 6 (xe máy của hàng xóm). Aquí: một cái của tôi = una mía; một cái của con mèo = una del gato. El giro: la segunda cama no es de visitas.
+
+ex1:
+- Nhà ông có mấy phòng?
+  es: ¿Cuántas habitaciones hay en su casa?
+- Phòng này nhỏ quá!
+  es: ¡Qué pequeña es esta habitación!
+- Con mèo này của ai?
+  es: ¿De quién es este gato?
+- Hai cái giường này nhỏ quá.
+  es: Estas dos camas son muy pequeñas.
+- Sao cô mệt?
+  es: ¿Por qué está usted cansada?
+
+ex2:
+- Nhà [rộng] [quá]!
+  es: ¡Qué casa tan grande!
+- Có [mấy] phòng?
+  es: ¿Cuántas habitaciones hay?
+- Có [bốn] phòng.
+  es: Hay cuatro habitaciones.
+- Phòng nhỏ [này].
+  es: Esta habitación pequeña.
+- Hai [cái] giường. Một [cái] của tôi.
+  es: Dos camas. Una es mía.
+
+culture.es:
+En el casco antiguo de Hanói muchas casas son nhà ống: fachada estrecha (a veces solo unos metros) y varios pisos hacia arriba. Por fuera parecen delgadas; por dentro hay más habitaciones de lo que parece. Por eso «nhà rộng quá» puede sorprender a quien solo mira la calle.
+
+== 10 A1
+numeral: Bài thứ mười
+numeral.pron.es: bai→ thư↑ mươi→
 title: Chợ ở đâu?
-title.it: Dov'è il mercato?
-title.en: Where's the market?
 title.es: ¿Dónde está el mercado?
 
 dialogue:
-- Chị Lan ơi, sáng mai em muốn đi chợ Đồng Xuân. Chợ ở đâu ạ?
-  it: Lan, domani mattina voglio andare al mercato di Đồng Xuân (mattina domani fratello-minore volere andare mercato Đồng Xuân). Dov'è il mercato (mercato stare dove ạ)?
-  en: Lan, tomorrow morning I want to go to Đồng Xuân market (morning tomorrow younger-sibling want go market Đồng Xuân). Where is the market (market be-at where ạ)?
-  es: Lan, mañana por la mañana quiero ir al mercado de Đồng Xuân (mañana-temprano día-siguiente hermano-menor querer ir mercado Đồng Xuân). ¿Dónde está el mercado (mercado estar dónde ạ)?
-- Chợ ở phố cổ, không xa lắm. Em đi bộ hay đi xe máy?
-  it: Il mercato è nel Quartiere Vecchio (mercato stare via antica), non è molto lontano. Vai a piedi o in motorino (andare piede oppure andare motorino)?
-  en: The market is in the Old Quarter (market be-at street old), not very far. Are you walking or going by motorbike (go foot or go motorbike)?
-  es: El mercado está en el Barrio Antiguo (mercado estar calle antigua), no muy lejos. ¿Vas a pie o en moto (ir pie o ir moto)?
-- Em đi bộ. Từ đây đến chợ mất bao lâu?
-  it: A piedi. Quanto ci vuole da qui al mercato (da qui a mercato perdere quanto lungo)?
-  en: On foot. How long does it take from here to the market (from here to market lose how long)?
-  es: A pie. ¿Cuánto se tarda de aquí al mercado (desde aquí hasta mercado perder cuánto largo)?
-- Khoảng hai mươi phút. Em đi thẳng đến hồ Hoàn Kiếm, rồi rẽ trái.
-  it: Circa venti minuti. Vai dritto fino al lago Hoàn Kiếm, poi giri a sinistra.
-  en: About twenty minutes. Go straight on to Hoàn Kiếm lake, then turn left.
-  es: Unos veinte minutos. Sigue todo recto hasta el lago Hoàn Kiếm y luego gira a la izquierda.
-- Đi thẳng, rồi rẽ trái... Chị đi với em được không?
-  it: Dritto, poi a sinistra... Vieni con me (sorella-maggiore andare con fratello-minore potere non)?
-  en: Straight on, then left... Can you come with me (elder-sister go with younger-sibling can not)?
-  es: Recto, luego a la izquierda... ¿Puedes venir conmigo (hermana-mayor ir con hermano-menor poder no)?
-- Sáng mai chị phải đi làm, tiếc quá! Em hỏi Minh nhé.
-  it: Domani mattina devo andare al lavoro, che peccato (dispiacere troppo)! Chiedi a Minh (fratello-minore chiedere Minh nhé).
-  en: Tomorrow morning I have to go to work, what a pity (regret too)! Ask Minh (younger-sibling ask Minh nhé).
-  es: Mañana por la mañana tengo que ir a trabajar, ¡qué pena (lástima demasiado)! Pregúntale a Minh (hermano-menor preguntar Minh nhé).
-- Minh cũng bận, sáng mai em ấy phải đi học.
-  it: Anche Minh è impegnato, domani mattina deve andare a lezione.
-  en: Minh is busy too, he has to go to class tomorrow morning.
-  es: Minh también está ocupado, mañana por la mañana tiene que ir a clase.
-- Không sao, em đi một mình cũng được. Nhưng cẩn thận xe máy nhé!
-  it: Non fa niente, puoi andarci anche da solo (fratello-minore andare una persona anche possibile). Ma attento ai motorini (attento motorino nhé)!
-  en: Never mind, you can go on your own (younger-sibling go one self also fine). But watch out for the motorbikes (careful motorbike nhé)!
-  es: No pasa nada, puedes ir solo (hermano-menor ir uno mismo también vale). ¡Pero cuidado con las motos (cuidado moto nhé)!
-- Vâng, cảm ơn chị. Em có bản đồ trong điện thoại rồi!
-  it: Sì, grazie. Ho già la mappa sul telefono (fratello-minore avere mappa dentro telefono già)!
-  en: Yes, thanks. I've already got the map on my phone (younger-sibling have map in phone already)!
-  es: Sí, gracias. ¡Ya tengo el mapa en el móvil (hermano-menor tener mapa dentro teléfono ya)!
+- Chợ Đồng Xuân ở đâu?
+  es: ¿Dónde está el mercado Đồng Xuân? (mercado Đồng Xuân en dónde)
+  pron.es: chơ↓ dong→ suơn→ ơ✓ dơu→?
+- Đi thẳng, rồi rẽ trái.
+  es: Siga todo recto, luego gire a la izquierda. (ir recto, luego girar izquierda)
+  pron.es: di→ thăng✓, zoi→ zè✓ chai↑.
+- Xa không?
+  es: ¿Está lejos? (lejos no)
+  pron.es: sa→ jong→?
+- Không xa. Năm phút.
+  es: No está lejos. Cinco minutos. (no lejos. cinco minuto)
+  pron.es: jong→ sa→. năm→ fut↑.
+- Cảm ơn chị!
+  es: ¡Gracias! (agradecer hermana mayor)
+  pron.es: cam✓ ơn→ chi↓!
+- Không có gì.
+  es: De nada. (no hay qué)
+  pron.es: jong→ cò↑ zi→.
+- Mời chị mua xoài!
+  es: ¡Le invito a comprar mangos! (invitar hermana mayor comprar mango)
+  pron.es: mơi→ chi↓ muơ→ suai→!
 
-notes.it:
-1. ở + luogo significa "trovarsi", Chợ ở đâu? "dov'è il mercato?", Chợ ở
-   phố cổ. Per le indicazioni bastano đi thẳng "andare dritto", rẽ trái
-   "girare a sinistra", rẽ phải "girare a destra" (al Sud quẹo); rồi "poi"
-   collega le azioni, đến "fino a" indica la meta, đi thẳng đến hồ.
-2. muốn + verbo "volere", em muốn đi chợ; phải + verbo "dovere", chị phải
-   đi làm. Anche qui il tempo va dal piccolo al grande, sáng mai "domani
-   mattina" è alla lettera "mattina domani".
-3. hay "oppure" fa scegliere, Em đi bộ hay đi xe máy? đi bộ è "andare a
-   piedi", đi xe máy "andare in motorino". Từ ... đến ... mất bao lâu?
-   "quanto ci vuole da ... a ...?", alla lettera "perdere quanto tempo";
-   si risponde con khoảng "circa", khoảng hai mươi phút "una ventina di
-   minuti".
-4. ... được không? serve anche per chiedere un favore, Chị đi với em được
-   không? "puoi venire con me?". cũng được "va bene lo stesso", em đi một
-   mình cũng được. với "con", một mình "da solo", tiếc quá! "che peccato!".
-5. Il lago Hoàn Kiếm, "della spada restituita", è il cuore di Hanoi. A nord
-   si apre il phố cổ, il Quartiere Vecchio, dove molte vie si chiamano
-   Hàng + una merce, e dove si trova il grande mercato di Đồng Xuân. Le
-   strade sono piene di motorini, perciò cẩn thận xe máy!
-notes.en:
-1. ở + place means "to be located", Chợ ở đâu? "where is the market?", Chợ
-   ở phố cổ. For directions you need đi thẳng "go straight on", rẽ trái
-   "turn left", rẽ phải "turn right" (in the South quẹo); rồi "then" links
-   the actions, đến "as far as" marks the goal, đi thẳng đến hồ.
-2. muốn + verb "to want to", em muốn đi chợ; phải + verb "to have to", chị
-   phải đi làm. Here too time runs from small to large, sáng mai "tomorrow
-   morning" is literally "morning tomorrow".
-3. hay "or" offers a choice, Em đi bộ hay đi xe máy? đi bộ is "to walk",
-   đi xe máy "to go by motorbike". Từ ... đến ... mất bao lâu? "how long
-   does it take from ... to ...?", literally "lose how long"; the answer
-   uses khoảng "about", khoảng hai mươi phút "about twenty minutes".
-4. ... được không? also asks a favour, Chị đi với em được không? "can you
-   come with me?". cũng được "that's fine too", em đi một mình cũng được.
-   với "with", một mình "alone", tiếc quá! "what a pity!".
-5. Hoàn Kiếm lake, "of the returned sword", is the heart of Hanoi. North
-   of it lies the phố cổ, the Old Quarter, where many streets are called
-   Hàng + a kind of goods, and where the big Đồng Xuân market stands. The
-   streets are full of motorbikes, hence cẩn thận xe máy!
+sounds.es:
+1. th: una t seguida enseguida de un soplo de aire: thẳng → thăng✓. ch como en «chico»: chợ → chơ↓, chị → chi↓.
+2. hỏi y ngã otra vez con ✓: thẳng✓ y phải✓ van abajo (hỏi); rẽ✓ va arriba (ngã). đ firme, como en «donde»: Đồng → dong→.
+
 notes.es:
-1. ở + lugar significa "estar, encontrarse", Chợ ở đâu? "¿dónde está el
-   mercado?", Chợ ở phố cổ. Para dar indicaciones bastan đi thẳng "seguir
-   recto", rẽ trái "girar a la izquierda", rẽ phải "girar a la derecha"
-   (en el Sur quẹo); rồi "luego" une las acciones, đến "hasta" marca la
-   meta, đi thẳng đến hồ.
-2. muốn + verbo "querer", em muốn đi chợ; phải + verbo "tener que", chị
-   phải đi làm. También aquí el tiempo va de lo pequeño a lo grande, sáng
-   mai "mañana por la mañana" es literalmente "mañana (temprano) día
-   siguiente".
-3. hay "o" sirve para elegir, Em đi bộ hay đi xe máy? đi bộ es "ir a pie",
-   đi xe máy "ir en moto". Từ ... đến ... mất bao lâu? "¿cuánto se tarda
-   de ... a ...?", literalmente "perder cuánto tiempo"; se responde con
-   khoảng "unos", khoảng hai mươi phút "unos veinte minutos".
-4. ... được không? también sirve para pedir un favor, Chị đi với em được
-   không? "¿puedes venir conmigo?". cũng được "también vale", em đi một
-   mình cũng được. với "con", một mình "solo", tiếc quá! "¡qué pena!".
-5. El lago Hoàn Kiếm, "de la espada devuelta", es el corazón de Hanói. Al
-   norte se extiende el phố cổ, el Barrio Antiguo, donde muchas calles se
-   llaman Hàng + una mercancía, y donde está el gran mercado de Đồng Xuân.
-   Las calles están llenas de motos, por eso cẩn thận xe máy!
+1. Chợ: mercado. Chợ Đồng Xuân es el mercado cubierto más famoso del casco antiguo de Hanói. Ở đâu? lo viste en las lecciones 5 y 6.
+2. Chị: hermana mayor, y también «usted» con una mujer de edad parecida o un poco mayor. Aquí la turista y la vendedora se tratan de chị. Como anh (lección 8) y cô (lección 1): eliges según la edad.
+3. Đi thẳng: ir todo recto. Rẽ trái: girar a la izquierda. Rẽ phải: girar a la derecha (phải aquí es «derecha», no el phải không de la lección 5). Rồi: luego / y después (en una secuencia). Es la primera vez que ves rồi; volverá.
+4. Xa: lejos. Gần (lección 6) es cerca. Xa không? = ¿está lejos? Không xa = no está lejos.
+5. Năm: cinco (el número; năm también significa «año», el contexto lo aclara). Phút: minuto. Năm phút = cinco minutos. Mười (diez) ya lo viste en el número de esta lección: Bài thứ mười.
+6. Mời chị mua xoài: la vendedora te invita a comprar (mời, lección 1). Xoài: mango. El giro: te ha indicado el camino… y de paso te vende fruta.
 
 ex1:
-- Quán cà phê ở đâu ạ?
-  it: Dov'è il caffè, per favore?
-  en: Where is the café, please?
-  es: ¿Dónde está la cafetería, por favor?
-- Em đi thẳng, rồi rẽ phải.
-  it: Vai dritto, poi giri a destra.
-  en: Go straight on, then turn right.
-  es: Sigue recto y luego gira a la derecha.
-- Từ nhà bác Hùng đến hồ Hoàn Kiếm không xa lắm.
-  it: Da casa del signor Hùng al lago Hoàn Kiếm non è molto lontano.
-  en: It isn't very far from Mr Hùng's house to Hoàn Kiếm lake.
-  es: De casa del señor Hùng al lago Hoàn Kiếm no hay mucha distancia.
-- Sáng mai Minh muốn đi xe máy.
-  it: Domani mattina Minh vuole andare in motorino.
-  en: Tomorrow morning Minh wants to go by motorbike.
-  es: Mañana por la mañana Minh quiere ir en moto.
+- Nhà chị có xa không?
+  es: ¿Tu casa está lejos?
+- Đi thẳng, rồi rẽ phải.
+  es: Todo recto, luego a la derecha.
+- Tôi muốn mua xoài.
+  es: Quiero comprar mangos.
+- Chợ ở gần đây. Năm phút.
+  es: El mercado está cerca de aquí. Cinco minutos.
+- Chị có thích xoài không?
+  es: ¿Te gustan los mangos?
 
 ex2:
-- Chợ Đồng Xuân ở [đâu]?
-  it: Dov'è il mercato di Đồng Xuân?
-  en: Where is Đồng Xuân market?
-  es: ¿Dónde está el mercado de Đồng Xuân?
-- Em đi [thẳng], rồi [rẽ] trái.
-  it: Vai dritto, poi giri a sinistra.
-  en: Go straight on, then turn left.
-  es: Sigue recto y luego gira a la izquierda.
-- Từ đây đến chợ mất [bao] [lâu]?
-  it: Quanto ci vuole da qui al mercato?
-  en: How long does it take from here to the market?
-  es: ¿Cuánto se tarda de aquí al mercado?
-- Em đi một mình [cũng] [được].
-  it: Puoi andarci anche da solo.
-  en: You can go on your own.
-  es: Puedes ir solo.
+- Chợ Đồng Xuân [ở] [đâu]?
+  es: ¿Dónde está el mercado Đồng Xuân?
+- Đi [thẳng], rồi rẽ [trái].
+  es: Siga todo recto, luego gire a la izquierda.
+- [Xa] không?
+  es: ¿Está lejos?
+- Không [xa]. [Năm] phút.
+  es: No está lejos. Cinco minutos.
+- Cảm ơn [chị]!
+  es: ¡Gracias!
+
+culture.es:
+En Hanói se pregunta el camino en la calle todo el rato, y la gente responde con đi thẳng, rẽ trái, rẽ phải. Los mercados de barrio (chợ) venden fruta, verdura y de todo; Đồng Xuân es el grande del centro. Chị es el trato natural con una mujer de edad parecida o un poco mayor: no hace falta ser familia.
+
+== 11 A1
+numeral: Bài thứ mười một
+numeral.pron.es: bai→ thư↑ mươi→ mot↓
+title: Đi làm bằng xe đạp
+title.es: Ir al trabajo en bicicleta
+
+dialogue:
+- Anh đi làm bằng gì?
+  es: ¿Con qué vas al trabajo? (hermano mayor ir trabajar por-medio qué)
+  pron.es: aiñ→ di→ lam→ băng→ zi→?
+- Tôi đi bằng xe đạp.
+  es: Voy en bicicleta. (yo ir por-medio bicicleta)
+  pron.es: toi→ di→ băng→ sè→ dap↓.
+- Xa không?
+  es: ¿Está lejos? (lejos no)
+  pron.es: sa→ jong→?
+- Không. Hai mươi phút.
+  es: No. Veinte minutos. (no. dos diez minuto)
+  pron.es: jong→. hai→ mươi→ fut↑.
+- Hay quá! Tôi đi bằng xe máy.
+  es: ¡Qué bien! Yo voy en moto. (bueno demasiado! yo ir por-medio moto)
+  pron.es: hăi→ cua↑! toi→ di→ băng→ sè→ măi↑.
+- Nhanh không?
+  es: ¿Es rápido? (rápido no)
+  pron.es: ñaiñ→ jong→?
+- Nhanh… nhưng không khỏe.
+  es: Rápido… pero no es sano. (rápido… pero no sano)
+  pron.es: ñaiñ→… ñưng→ jong→ juè✓.
+
+sounds.es:
+1. nh final suena iñ: nhanh → ñaiñ→. kh suena j (como «jamón», más suave): khỏe → juè✓.
+2. ươ en mươi → mươi→. bằng lleva huyền (fila de abajo): băng→. nặng en đạp → dap↓.
+
+notes.es:
+1. Đi làm: ir al trabajo / trabajar (como actividad del día). Làm lo viste en la lección 5; aquí va con đi.
+2. Bằng: por medio de / en (transporte). Đi bằng xe đạp = ir en bicicleta. Đi bằng xe máy = ir en moto (xe máy, lección 6). Bằng gì? = ¿con qué / en qué?
+3. Números de seis a veinte, en palabras: sáu, bảy, tám, chín, mười (diez, ya en la lección 10), mười một (once), mười hai… mười chín; hai mươi (veinte). Mươi marca las decenas: hai mươi = dos × diez. Hai mươi phút = veinte minutos.
+4. Hay quá: ¡qué bien! / ¡genial! Hay = bueno (en el sentido de «buena idea / qué bien»), quá después como en rộng quá (lección 9).
+5. Nhanh: rápido. Không khỏe: no sano / no saludable (khỏe = sano, en forma). Nhưng: pero. Es la primera vez que ves nhưng; mà (lección 6) también contrastaba, pero nhưng es el «pero» más directo.
+6. Anh otra vez (lección 8): dos vecinos de edad parecida. El giro: la moto es rápida… pero el cuerpo lo nota.
+
+ex1:
+- Cô đi chợ bằng gì?
+  es: ¿En qué va usted al mercado?
+- Tôi đi bằng xe máy. Nhanh lắm!
+  es: Voy en moto. ¡Es muy rápido!
+- Nhà tôi có tám phòng.
+  es: Mi casa tiene ocho habitaciones.
+- Xe đạp không nhanh, nhưng hay.
+  es: La bici no es rápida, pero está bien.
+- Ông có khỏe không?
+  es: ¿Está usted bien?
+
+ex2:
+- Anh đi [làm] bằng [gì]?
+  es: ¿Con qué vas al trabajo?
+- Tôi đi [bằng] xe đạp.
+  es: Voy en bicicleta.
+- Hai [mươi] phút.
+  es: Veinte minutos.
+- Hay [quá]!
+  es: ¡Qué bien!
+- Nhanh… [nhưng] không [khỏe].
+  es: Rápido… pero no es sano.
+
+culture.es:
+Por la mañana Hanói se llena de xe đạp y, sobre todo, de xe máy. La bicicleta sigue siendo habitual para trayectos cortos; la moto, para casi todo lo demás. El atasco de motos a primera hora es el paisaje sonoro de la ciudad.
+
+aside.es:
+Dos semanas hechas. No intentes memorizar cada marca de tono todavía: oye, repite, y vuelve a las lecciones. Los tonos se asientan con el oído, no con la lista.
+
+== 12 A1
+numeral: Bài thứ mười hai
+numeral.pron.es: bai→ thư↑ mươi→ hai→
+title: Chủ nhật đi đâu?
+title.es: ¿Dónde el domingo?
+
+dialogue:
+- Chủ nhật anh đi chơi ở đâu?
+  es: ¿Dónde va usted a pasear el domingo? (domingo hermano mayor ir divertirse en dónde)
+  pron.es: chu✓ ñơt↓ aiñ→ di→ chơi→ ơ✓ dơu→?
+- Anh đi Hồ Tây. Em có đi không?
+  es: Yo voy al lago del Oeste. ¿Tú vienes? (hermano mayor ir lago Oeste. hermano menor ¿hay ir no?)
+  pron.es: aiñ→ di→ ho→ tơi→. èm→ cò↑ di→ jong→?
+- Em muốn đi, nhưng em phải học.
+  es: Quiero ir, pero tengo que estudiar. (hermano menor querer ir, pero hermano menor deber estudiar)
+  pron.es: èm→ muơn↑ di→, ñưng→ èm→ fai✓ hòc↓.
+- Học ngày chủ nhật?
+  es: ¿Estudiar el domingo? (estudiar día domingo)
+  pron.es: hòc↓ ngăi→ chu✓ ñơt↓?
+- Vâng.
+  es: Sí.
+  pron.es: vơng→.
+- Sao?
+  es: ¿Por qué?
+  pron.es: sau→?
+- Thứ hai em thi.
+  es: El lunes tengo examen. (día dos hermano menor examinarse)
+  pron.es: thư↑ hai→ èm→ thi→.
+
+sounds.es:
+1. ư en thứ y nhưng: thư↑, ñưng→. th otra vez: thứ → thư↑, thi → thi→.
+2. nặng: học → hòc↓, nhật → ñơt↓. hỏi abajo: chủ → chu✓, phải → fai✓.
+
+notes.es:
+1. Em: hermano o hermana menor, y también «tú» (o «yo») cuando hablas con alguien mayor. Aquí el colega mayor dice anh de sí mismo y em al más joven; el joven dice em de sí mismo y anh al mayor. El par anh / em fija quién es mayor. Lo vimos con anh en la lección 8; em es la otra mitad.
+2. Chủ nhật: domingo. Thứ + número nombra los días: thứ hai (lunes), thứ ba (martes)… hasta thứ bảy (sábado); el domingo es chủ nhật, no «thứ tám». Ngày: día. Ngày chủ nhật = el día domingo.
+3. Đi chơi: salir / pasear / ir a divertirse. Hồ Tây: el lago del Oeste, al norte del centro de Hanói.
+4. Phải + verbo: tener que / deber. Em phải học = tengo que estudiar. La misma sílaba apareció en phải không (lección 5, «¿verdad?») y en rẽ phải (lección 10, «derecha»); aquí el sentido es «deber».
+5. Vâng: sí cortés del norte (lección 5). Sao: por qué (lección 9). Thi: examinarse / hacer un examen. Thứ hai em thi = el lunes tengo examen. El giro: el domingo no es libre… por el lunes.
+
+ex1:
+- Thứ hai em phải đi làm.
+  es: El lunes tengo que ir a trabajar.
+- Chủ nhật chúng ta đi chơi đi!
+  es: ¡El domingo vamos a pasear!
+- Em có muốn đi Hồ Tây không?
+  es: ¿Quieres ir al lago del Oeste?
+- Sao anh phải học?
+  es: ¿Por qué tienes que estudiar?
+- Thứ ba em thi.
+  es: El martes tengo examen.
+
+ex2:
+- Chủ nhật anh đi [chơi] ở đâu?
+  es: ¿Dónde va usted a pasear el domingo?
+- Em muốn đi, nhưng em [phải] [học].
+  es: Quiero ir, pero tengo que estudiar.
+- Học [ngày] chủ nhật?
+  es: ¿Estudiar el domingo?
+- [Vâng].
+  es: Sí.
+- Thứ [hai] em [thi].
+  es: El lunes tengo examen.
+
+culture.es:
+El Hồ Tây (lago del Oeste) es el paseo típico del domingo en Hanói: caminar, tomar algo en una terraza, alquilar una bici. Los días de la semana se dicen thứ hai (lunes) … thứ bảy (sábado) y chủ nhật (domingo): la semana empieza en lunes, como en España.
+
+== 13 A1
+numeral: Bài thứ mười ba
+numeral.pron.es: bai→ thư↑ mươi→ ba→
+title: Tôi không rảnh
+title.es: No estoy libre
+
+dialogue:
+- Tối nay anh có rảnh không?
+  es: ¿Estás libre esta noche? (noche esta hermano mayor ¿hay libre no?)
+  pron.es: toi↑ năi→ aiñ→ cò↑ zaiñ✓ jong→?
+- Xin lỗi, tôi không rảnh.
+  es: Lo siento, no estoy libre. (pedir perdón, yo no libre)
+  pron.es: sin→ loi✓, toi→ jong→ zaiñ✓.
+- Mai thì sao?
+  es: ¿Y mañana? (mañana entonces cómo)
+  pron.es: mai→ thi→ sau→?
+- Mai tôi cũng bận.
+  es: Mañana también estoy ocupado. (mañana yo también ocupado)
+  pron.es: mai→ toi→ cung✓ bơn↓.
+- Cuối tuần?
+  es: ¿El fin de semana?
+  pron.es: cuơi↑ tuơn→?
+- Cuối tuần tôi… rảnh.
+  es: El fin de semana… estoy libre.
+  pron.es: cuơi↑ tuơn→ toi→… zaiñ✓.
+- Đi chơi nhé?
+  es: ¿Salimos, eh? (ir divertirse ¿vale?)
+  pron.es: di→ chơi→ ñè↑?
+- Không. Tôi định ngủ.
+  es: No. Pienso dormir. (no. yo pretender dormir)
+  pron.es: jong→. toi→ diñ↓ ngu✓.
+
+sounds.es:
+1. Una sola flecha ✓, dos filas: rảnh✓ es hỏi (abajo); cũng✓ y lỗi✓ son ngã (arriba). La fila te dice cuál es.
+2. nặng: bận → bơn↓, định → diñ↓. â de bận es ơ breve (bơn↓), no la ă de ăn (lección 8).
+
+notes.es:
+1. Rảnh: libre (de tiempo). Bận: ocupado. Anh có rảnh không? = ¿estás libre? (có … không?, lección 3). Contraste limpio: rảnh / bận.
+2. Tối nay: esta noche (tối = noche; nay = este / hoy). Mai: mañana (el día siguiente). Cuối tuần: fin de semana. Son marcadores de tiempo: van delante, el verbo no cambia.
+3. Xin lỗi: lo siento / perdón. Forma cortés de rechazar o disculparse. Aquí declina la invitación sin ser brusco.
+4. Mai thì sao?: ¿y mañana? / ¿qué tal mañana? Thì sao pide otra opción; es la primera vez que lo ves entero. Cũng (también, lección 6): Mai tôi cũng bận.
+5. Nhé: ¿vale? / ¿eh? (partícula al final, busca acuerdo). Đi chơi nhé? = ¿salimos, te parece? Đi chơi lo viste en la lección 12.
+6. Định + verbo: pensar / tener la intención de. Tôi định ngủ = pienso dormir / tengo pensado dormir. Ngủ (dormir) ya salió en la lección 6… con la moto. El giro: por fin está libre, y lo único que quiere es dormir.
+
+ex1:
+- Mai em có rảnh không?
+  es: ¿Estás libre mañana?
+- Tối nay tôi bận.
+  es: Esta noche estoy ocupado.
+- Cuối tuần tôi định đi Hồ Tây.
+  es: El fin de semana pienso ir al lago del Oeste.
+- Xin lỗi, tôi cũng bận.
+  es: Lo siento, yo también estoy ocupado.
+- Đi ăn phở nhé?
+  es: ¿Vamos a comer pho, vale?
+
+ex2:
+- Tối nay anh có [rảnh] không?
+  es: ¿Estás libre esta noche?
+- [Xin] [lỗi], tôi không rảnh.
+  es: Lo siento, no estoy libre.
+- Mai tôi cũng [bận].
+  es: Mañana también estoy ocupado.
+- Đi chơi [nhé]?
+  es: ¿Salimos, eh?
+- Tôi [định] [ngủ].
+  es: Pienso dormir.
+
+== 14 A1
+kind: revision
+numeral: Bài thứ mười bốn
+numeral.pron.es: bai→ thư↑ mươi→ bon↑
+title: Ôn tập
+title.es: Repaso
+
+dialogue:
+- Chào anh! Anh có thích phở không?
+  es: ¡Hola! ¿Te gusta el pho?
+  pron.es: chau→ aiñ→! aiñ→ cò↑ thic↑ fơ✓ jong→?
+  refs: 1 8
+- Thích lắm. Chúng ta đi ăn đi!
+  es: Me gusta mucho. ¡Vamos a comer!
+  pron.es: thic↑ lăm↑. chung↑ ta→ di→ ăn→ di→!
+  refs: 8
+- Quán phở ở đâu?
+  es: ¿Dónde está el puesto de pho?
+  pron.es: cuan↑ fơ✓ ơ✓ dơu→?
+  refs: 5 8
+- Đi thẳng, rồi rẽ trái. Không xa.
+  es: Todo recto, luego a la izquierda. No está lejos.
+  pron.es: di→ thăng✓, zoi→ zè✓ chai↑. jong→ sa→.
+  refs: 10
+- Hay quá! Tối nay anh có rảnh không?
+  es: ¡Qué bien! ¿Estás libre esta noche?
+  pron.es: hăi→ cua↑! toi↑ năi→ aiñ→ cò↑ zaiñ✓ jong→?
+  refs: 11 13
+- Xin lỗi, tối nay tôi bận.
+  es: Lo siento, esta noche estoy ocupado.
+  pron.es: sin→ loi✓, toi↑ năi→ toi→ bơn↓.
+  refs: 13
+- Chủ nhật thì sao?
+  es: ¿Y el domingo?
+  pron.es: chu✓ ñơt↓ thi→ sau→?
+  refs: 12 13
+- Chủ nhật tôi phải học.
+  es: El domingo tengo que estudiar.
+  pron.es: chu✓ ñơt↓ toi→ fai✓ hòc↓.
+  refs: 12
+- Thứ bảy tôi đi chợ Đồng Xuân. Anh có đi không?
+  es: El sábado voy al mercado Đồng Xuân. ¿Vienes?
+  pron.es: thư↑ băi✓ toi→ di→ chơ↓ dong→ suơn→. aiñ→ cò↑ di→ jong→?
+  refs: 10 12
+- Đi! Chúng ta ăn phở ở chợ nhé?
+  es: ¡Voy! ¿Comemos pho en el mercado, vale?
+  pron.es: di→! chung↑ ta→ ăn→ fơ✓ ơ✓ chơ↓ ñè↑?
+  refs: 8 13
+- Không phở! Ở chợ, chúng ta ăn xoài.
+  es: ¡Nada de pho! En el mercado comemos mangos.
+  pron.es: jong→ fơ✓! ơ✓ chơ↓, chung↑ ta→ ăn→ suai→.
+  refs: 10
+
+notes.es:
+Otra semana y otra vez: nada de memorizar reglas. Esta lección solo ordena lo que ya has oído. Si dudas de un tono o de un anh / em, sigue: volverá. El oído adelanta a la lista.
+
+1. Tonos y signos especiales (lecciones 1 a 13). Los seis tonos no cambian; esta semana sumó sonidos nuevos. Misma flecha, misma fila.
+
+| Marca | Nombre | Flecha | Fila | Ejemplos nuevos |
+|---|---|---|---|---|
+| (nada) | ngang | → | arriba | ăn, đi, xa, mai, em, anh |
+| à | huyền | → | abajo | bò, bằng, phòng, rồi, tuần |
+| á | sắc | ↑ | arriba | thích, lắm, quán, cuối, nhé |
+| ả | hỏi | ✓ | abajo | phở, thẳng, phải, rảnh, chủ, khỏe, ngủ |
+| ã | ngã | ✓ | arriba | rẽ, cũng, lỗi |
+| ạ | nặng | ↓ | abajo | một, rộng, học, bận, định, chị |
+
+Signos de esta semana (y los de la 7, que siguen valiendo):
+
+| Signo | Cómo suena | Ejemplos |
+|---|---|---|
+| ph | f | phở → fơ✓ |
+| kh | j suave | khỏe → juè✓ |
+| th | t + soplo | thẳng → thăng✓; thích → thic↑ |
+| nh final | iñ | nhanh → ñaiñ→; anh → aiñ→ |
+| nh inicial | ñ | nhà → ña→; nhật → ñơt↓ |
+| gi | z + ươ | giường → zương→ |
+| ư | u con sonrisa | thứ → thư↑; nhưng → ñưng→ |
+| ơ / â | entre e y o | phở → fơ✓; bận → bơn↓ (â breve) |
+| o abierta | ò | bò → bò→; con → còn→; học → hòc↓ |
+| ô | o española | bốn → bon↑; tối → toi↑ |
+| e abierta | è | em → èm→; xe → sè→; mèo → mèu→ |
+| ươ | ư → ơ | mươi → mươi→; giường → zương→ |
+
+2. Tratamiento por edad: anh, chị, em, ông, cô, bà (lecciones 1, 5, 8, 10, 12).
+
+| Palabra | Con quién | Como «yo / tú-usted» |
+|---|---|---|
+| ông | hombre mayor | usted, señor; ông ấy = él |
+| bà | mujer mayor | usted, señora; bà ấy = ella |
+| cô | mujer joven o de edad media | usted, señorita; cô ấy = ella |
+| anh | hombre de edad parecida o un poco mayor | tú / usted; anh también = «yo» si eres el mayor del par |
+| chị | mujer de edad parecida o un poco mayor | tú / usted; igual que anh, puede ser «yo» |
+| em | persona más joven | tú (si hablas al menor); «yo» (si eres el menor) |
+| tôi | (el que habla) | yo (neutral, no marca edad) |
+
+El par anh / em (o chị / em) fija quién es mayor: el mayor dice anh/chị de sí y em al otro; el menor dice em de sí y anh/chị al mayor.
+
+3. Vâng y dạ (lecciones 5, 7, 12). En el norte, vâng es el «sí» cortés habitual (Vâng. Thứ hai em thi.). Dạ también se usa, sobre todo con mayores o al responder a una llamada; en el sur dạ es el habitual. Esta semana has vuelto a oír vâng.
+
+4. Clasificadores cái y con (lección 9).
+
+| Clasificador | Para | Ejemplo |
+|---|---|---|
+| cái | cosas | hai cái giường; một cái của tôi |
+| con | animales | con mèo |
+
+Một cái = uno / una (el clasificador lleva el número). Con un número, lo natural es poner el clasificador: hai cái giường.
+
+5. Números một a hai mươi (lecciones 8 a 11), en palabras. Completa en voz alta:
+
+| | | | |
+|---|---|---|---|
+| một | hai | ba | bốn |
+| năm | sáu | bảy | tám |
+| chín | mười | mười một | mười hai |
+| mười ba | mười bốn | mười lăm | mười sáu |
+| mười bảy | mười tám | mười chín | hai mươi |
+
+Fíjate: 15 es mười lăm (no «mười năm»). Mươi marca las decenas: hai mươi = veinte.
+
+6. Dirección y lugar (lecciones 5, 6, 10). Ở + lugar: ở đâu?, ở Hà Nội, ở gần đây. Gần / xa: cerca / lejos. Para el camino: đi thẳng (todo recto), rẽ trái (izquierda), rẽ phải (derecha). Rồi = luego, en la secuencia.
+
+7. Verbos de esta semana, y los días (lecciones 3, 8, 12, 13).
+
+| Palabra | Uso | Ejemplo |
+|---|---|---|
+| thích | gustar | Anh có thích phở không? Thích lắm. |
+| muốn | querer (+ verbo) | Em muốn đi. |
+| phải | tener que (+ verbo) | Em phải học. |
+| định | pensar / tener intención (+ verbo) | Tôi định ngủ. |
+| đi + verbo | ir a hacer | đi ăn, đi làm, đi chơi |
+
+Días: thứ hai (lunes), thứ ba, thứ tư, thứ năm, thứ sáu, thứ bảy (sábado), chủ nhật (domingo).
+
+Iban a por phở bò y acabaron con xoài. Semana cerrada: mañana, lección 15.
+
+== 15 A1
+numeral: Bài thứ mười lăm
+title: Gia đình nhỏ nhỉ!
+title.es: ¡Qué familia tan pequeña!
+
+dialogue:
+- Đây là bố tôi.
+  es: Este es mi padre. (aquí es padre yo)
+- Còn người này?
+  es: ¿Y esta persona? (y persona esta)
+- Đây là mẹ tôi. Còn đây là em gái tôi.
+  es: Esta es mi madre. Y esta es mi hermana menor. (aquí es madre yo. y aquí es hermana-menor yo)
+- Anh có mấy anh chị em?
+  es: ¿Cuántos hermanos tienes? (hermano mayor ¿hay cuántos hermanos?)
+- Tôi có hai em: một em gái, một em trai.
+  es: Tengo dos hermanos menores: una hermana y un hermano. (yo hay dos menor: un hermana-menor, un hermano-menor)
+- Gia đình nhỏ nhỉ!
+  es: ¡Qué familia tan pequeña, eh! (familia pequeña ¿eh!)
+- Nhỏ?
+  es: ¿Pequeña?
+- Bố tôi có chín anh chị em!
+  es: ¡Mi padre tiene nueve hermanos! (padre yo hay nueve hermanos)
+
+notes.es:
+1. Bố: padre. Mẹ: madre. En el norte estas son las formas habituales; la nota de cultura dice cómo suenan en el sur. Đây là bố tôi = este es mi padre (của no hace falta con parentesco cercano: bố tôi, mẹ tôi, como nhà tôi en la lección 6).
+2. Em gái: hermana menor. Em trai: hermano menor. Gái / trai marcan el sexo; em marca que es más joven que tú. Anh chị em es el conjunto de hermanos y hermanas (sin mirar el sexo): Anh có mấy anh chị em? = ¿cuántos hermanos tienes?
+3. Có: aquí «tener» (antes lo viste como «hay» y en có … không?). Tôi có hai em = tengo dos hermanos menores. El verbo no cambia: no hay conjugación.
+4. Mấy: cuántos (lección 9, Có mấy phòng?). Aquí pregunta un número de personas: mấy anh chị em.
+5. Nhỉ: ¿eh? / ¿verdad? (partícula al final, busca acuerdo, más suave que nhé de la lección 13). Gia đình nhỏ nhỉ! = ¡qué familia tan pequeña, eh! Gia đình: familia.
+6. Chín: nueve (el número ya asomó en la lista de la lección 11; aquí lo usas de verdad). El giro: la familia de él es pequeña… la de su padre, no.
+
+ex1:
+- Đây là mẹ tôi.
+  es: Esta es mi madre.
+- Tôi có một em trai.
+  es: Tengo un hermano menor.
+- Chị có mấy em?
+  es: ¿Cuántos hermanos menores tienes?
+- Gia đình tôi nhỏ.
+  es: Mi familia es pequeña.
+- Bố tôi có bốn anh chị em.
+  es: Mi padre tiene cuatro hermanos.
+
+ex2:
+- Đây là [bố] tôi.
+  es: Este es mi padre.
+- Đây là [mẹ] tôi. Còn đây là [em] gái tôi.
+  es: Esta es mi madre. Y esta es mi hermana menor.
+- Anh có [mấy] anh chị em?
+  es: ¿Cuántos hermanos tienes?
+- Tôi có hai [em]: một em [gái], một em [trai].
+  es: Tengo dos hermanos menores: una hermana y un hermano.
+- Gia đình nhỏ [nhỉ]!
+  es: ¡Qué familia tan pequeña, eh!
+
+culture.es:
+En el norte se dice bố y mẹ para padre y madre. En el sur lo habitual es ba y má (mismas personas, otras palabras). Si oyes ba / má en una película sureña, es exactamente «papá / mamá». En Hanói, con la foto familiar en la mano, oirás bố tôi, mẹ tôi.
+
+== 16 A1
+numeral: Bài thứ mười sáu
+title: Gọi tôi là chị
+title.es: Llámame chị
+
+dialogue:
+- Anh gọi tôi là em à?
+  es: ¿Me estás llamando em? (hermano mayor llamar yo es hermana-menor ¿eh?)
+- Dạ… vâng.
+  es: Eh… sí.
+- Tôi lớn tuổi hơn anh. Anh phải gọi tôi là chị.
+  es: Soy mayor que tú. Tienes que llamarme chị. (yo grande edad más hermano mayor. hermano mayor deber llamar yo es hermana mayor)
+- Xin lỗi chị ạ!
+  es: ¡Perdón, chị! (pedir perdón hermana mayor ạ)
+- Không sao.
+  es: No pasa nada.
+- Vâng. Em gọi chị là chị.
+  es: Sí. Yo te llamo chị. (sí. hermano menor llamar hermana mayor es hermana mayor)
+- Em uống gì?
+  es: ¿Qué bebes? (hermano menor beber qué)
+
+notes.es:
+1. Gọi … là + palabra de parentesco: llamar a alguien «…». Anh gọi tôi là em = me llamas em. Gọi: llamar / decirle a alguien. Es la forma de fijar el tratamiento (ông, cô en la lección 1; anh en la 8; chị en la 10; em en la 12).
+2. À al final: pregunta sorprendida o de comprobación (más suave que không?). Anh gọi tôi là em à? = ¿me estás llamando em? (¿en serio?).
+3. Lớn tuổi: mayor (de edad). Hơn: más que. Tôi lớn tuổi hơn anh = soy mayor que tú. Quien es mayor es anh o chị; quien es menor es em, hable quien hable. Aquí ella es chị y él pasa a ser em.
+4. Ạ al final de la frase: respeto hacia alguien mayor. Xin lỗi chị ạ! = ¡perdón! (con deferencia). No va con amigos de la misma edad; sí con chị, anh, ông, bà, cô…
+5. Không sao: no pasa nada / no hay problema. Respuesta típica a xin lỗi (lección 13).
+6. Dạ y vâng (lección 5): sí cortés. Dạ suena más deferente; él titubea (Dạ… vâng.) porque acaba de equivocarse. El giro: en cuanto acepta ser em, ella ya le dice em (Em uống gì?).
+
+ex1:
+- Chị lớn tuổi hơn em.
+  es: Eres mayor que yo.
+- Anh phải gọi tôi là chị.
+  es: Tienes que llamarme chị.
+- Xin lỗi anh ạ!
+  es: ¡Perdón!
+- Không sao. Em gọi anh là anh.
+  es: No pasa nada. Yo te llamo anh.
+- Chị gọi tôi là em à?
+  es: ¿Me estás llamando em?
+
+ex2:
+- Anh [gọi] tôi là em [à]?
+  es: ¿Me estás llamando em?
+- Tôi lớn tuổi [hơn] anh.
+  es: Soy mayor que tú.
+- Anh phải gọi tôi là [chị].
+  es: Tienes que llamarme chị.
+- Xin lỗi chị [ạ]!
+  es: ¡Perdón!
+- Không [sao].
+  es: No pasa nada.
+
+culture.es:
+Equivocarse con anh / chị / em es el error clásico del aprendiz: tratas de em a alguien un poco mayor, o de chị a quien es menor. En Vietnam la gente lo corrige con una sonrisa, no con enfado. Gọi tôi là chị no es vanidad: es poner en su sitio la edad, que organiza todo el trato.
+
+aside.es:
+Tres semanas. Las palabras de parentesco (anh, chị, em…) te van a resultar raras un tiempo: es normal. No las memorices en lista; úsalas en cada diálogo y el oído irá eligiendo solo.
+
+== 17 A1
+numeral: Bài thứ mười bảy
+title: Bây giờ là mấy giờ?
+title.es: ¿Qué hora es?
+
+dialogue:
+- Bây giờ là mấy giờ?
+  es: ¿Qué hora es? (ahora es cuántas hora)
+- Tám giờ kém mười.
+  es: Las ocho menos diez. (ocho hora menos diez)
+- Cửa hàng mở lúc mấy giờ?
+  es: ¿A qué hora abre la tienda? (tienda abrir a cuántas hora)
+- Lúc tám giờ.
+  es: A las ocho. (a ocho hora)
+- Vậy còn mười phút.
+  es: Entonces quedan diez minutos. (así aún diez minuto)
+- Đồng hồ anh chậm!
+  es: ¡Tu reloj va atrasado! (reloj hermano mayor lento)
+- Bây giờ là tám giờ mười.
+  es: Ahora son las ocho y diez. (ahora es ocho hora diez)
+- Cửa hàng mở rồi!
+  es: ¡La tienda ya está abierta! (tienda abrir ya)
+
+notes.es:
+1. Bây giờ: ahora. Mấy giờ?: ¿qué hora? Bây giờ là mấy giờ? = ¿qué hora es? Giờ: hora.
+2. En el norte, «menos» se dice kém: tám giờ kém mười = las ocho menos diez. «Y media» es rưỡi: tám giờ rưỡi = las ocho y media. Los minutos van detrás: tám giờ mười = las ocho y diez. Phút (minuto) lo viste en la lección 10.
+3. Cửa hàng: tienda / comercio. Mở: abrir. Lúc + hora: a (tal hora). Cửa hàng mở lúc mấy giờ? = ¿a qué hora abre la tienda? Lúc tám giờ = a las ocho.
+4. Vậy: entonces / así que. Còn + tiempo: todavía quedan… Vậy còn mười phút = entonces quedan diez minutos.
+5. Đồng hồ: reloj. Chậm: lento / atrasado. Đồng hồ anh chậm = tu reloj va atrasado. (Nhanh, lección 11, era «rápido»; aquí chậm es lo contrario en el reloj.)
+6. Rồi después del verbo: ya (lo viste en la secuencia đi thẳng, rồi rẽ trái de la lección 10; aquí cierra la acción: mở rồi = ya ha abierto). El giro: creía que faltaban diez minutos… y la tienda ya está abierta.
+
+ex1:
+- Bây giờ là chín giờ rưỡi.
+  es: Ahora son las nueve y media.
+- Cửa hàng mở lúc bảy giờ.
+  es: La tienda abre a las siete.
+- Đồng hồ tôi chậm năm phút.
+  es: Mi reloj atrasa cinco minutos.
+- Vậy còn hai mươi phút.
+  es: Entonces quedan veinte minutos.
+- Cửa hàng mở lúc tám giờ kém mười.
+  es: La tienda abre a las ocho menos diez.
+
+ex2:
+- Bây giờ là [mấy] [giờ]?
+  es: ¿Qué hora es?
+- Tám giờ [kém] mười.
+  es: Las ocho menos diez.
+- Cửa hàng [mở] lúc mấy giờ?
+  es: ¿A qué hora abre la tienda?
+- [Lúc] tám giờ. Vậy [còn] mười phút.
+  es: A las ocho. Entonces quedan diez minutos.
+- Đồng hồ anh [chậm]!
+  es: ¡Tu reloj va atrasado!
+
+culture.es:
+En Hanói muchas tiendas y quán abren temprano (hacia las siete o las ocho) y a mediodía cierran un rato para comer. Por la tarde vuelven a abrir. Si llegas a las ocho menos diez a una tienda que abre a las ocho, a veces el dueño ya está dentro… y tu reloj, no.
+
+== 18 A1
+numeral: Bài thứ mười tám
+title: Theo bụng tôi
+title.es: Según mi estómago
+
+dialogue:
+- Đồng hồ nào đúng?
+  es: ¿Qué reloj da la hora bien? (reloj cuál correcto)
+- Đồng hồ treo tường đúng.
+  es: El reloj de pared da bien. (reloj colgar pared correcto)
+- Điện thoại tôi chậm năm phút.
+  es: Mi teléfono atrasa cinco minutos. (teléfono yo lento cinco minuto)
+- Thì theo đồng hồ treo tường.
+  es: Entonces nos guiamos por el de pared. (entonces según reloj colgar pared)
+- Anh theo đồng hồ nào?
+  es: ¿Tú te guías por qué reloj? (hermano mayor según reloj cuál)
+- Tôi theo bụng!
+  es: ¡Yo me guío por el estómago! (yo según estómago)
+- Bụng đúng à?
+  es: ¿El estómago da bien? (estómago correcto ¿eh?)
+- Lúc nào cũng đói. Lúc nào cũng muốn ăn trưa!
+  es: Siempre tiene hambre. ¡Siempre quiere comer! (cualquier momento también hambre. cualquier momento también querer comer mediodía)
+
+notes.es:
+1. Nào detrás del nombre: cuál / qué (entre opciones). Lo viste en phòng nào (lección 9) y người nước nào (lección 4). Đồng hồ nào đúng? = ¿cuál reloj es el correcto?
+2. Đúng: correcto / en hora. Chậm: atrasado (lección 17). Nhanh (lección 11) con un reloj = adelantado. Đồng hồ treo tường: reloj de pared (treo tường = colgado en la pared).
+3. Điện thoại: teléfono (aquí el del móvil). Điện thoại tôi chậm năm phút = mi teléfono atrasa cinco minutos.
+4. Thì al empezar la respuesta: entonces / pues. Thì theo đồng hồ treo tường = entonces, según el de pared. Theo: según / guiarse por.
+5. Bụng: barriga / estómago. Đói: tener hambre. Ăn trưa: comer (al mediodía) / almorzar. Trưa = mediodía.
+6. Lúc nào cũng: siempre / en cualquier momento (lúc nào = en qué momento; cũng = también, y juntos dan «siempre»). El giro: da igual el reloj; el estómago marca mediodía todo el día.
+
+ex1:
+- Đồng hồ này đúng.
+  es: Este reloj da bien.
+- Điện thoại chị nhanh năm phút.
+  es: Tu teléfono adelanta cinco minutos.
+- Thì theo điện thoại tôi.
+  es: Entonces nos guiamos por mi teléfono.
+- Bụng tôi đói quá!
+  es: ¡Tengo mucha hambre!
+- Lúc nào cũng muốn ăn trưa.
+  es: Siempre quiere almorzar.
+
+ex2:
+- Đồng hồ [nào] đúng?
+  es: ¿Qué reloj da la hora bien?
+- Đồng hồ [treo] tường đúng.
+  es: El reloj de pared da bien.
+- Điện thoại tôi [chậm] năm phút.
+  es: Mi teléfono atrasa cinco minutos.
+- [Thì] [theo] đồng hồ treo tường.
+  es: Entonces nos guiamos por el de pared.
+- Lúc nào cũng [đói]. Lúc nào cũng muốn [ăn] trưa!
+  es: Siempre tiene hambre. ¡Siempre quiere comer!
+
+== 19 A1
+numeral: Bài thứ mười chín
+title: Nhiều việc quá!
+title.es: ¡Demasiado trabajo!
+
+dialogue:
+- Hôm nay nhiều việc quá!
+  es: ¡Hoy hay demasiado trabajo! (hoy mucho trabajo demasiado)
+- Anh làm mấy việc?
+  es: ¿Cuántas tareas haces? (hermano mayor hacer cuántas tarea)
+- Ba việc. Chưa xong việc nào.
+  es: Tres. Aún no he terminado ninguna. (tres tarea. aún-no terminar tarea cuál)
+- Uống cà phê đi.
+  es: Toma un café. (beber café ¡vamos!)
+- Không kịp.
+  es: No me da tiempo. (no alcanzar)
+- Không kịp? Anh uống ba cốc rồi!
+  es: ¿No te da tiempo? ¡Ya te has tomado tres tazas! (no alcanzar? hermano mayor beber tres vaso ya)
+- Ba cốc?
+  es: ¿Tres tazas?
+- Một cốc, một việc!
+  es: ¡Una taza por tarea! (un vaso, una tarea)
+
+notes.es:
+1. Hôm nay: hoy. (Nay lo viste en tối nay, lección 13; hôm nay es el día de hoy entero.)
+2. Nhiều … quá: mucho / demasiado. Nhiều: mucho. Quá, detrás, intensifica: «demasiado / ¡qué…!» (rộng quá, lección 9). Hôm nay nhiều việc quá! = ¡hoy hay demasiado trabajo! Việc: trabajo / tarea / asunto.
+3. Chưa: aún no. Xong: terminar / acabar. Chưa xong = aún no he terminado. Việc nào aquí = ninguna tarea (nào con negación). Contraste con rồi: chưa = todavía no; rồi = ya. Chưa xong / uống rồi.
+4. Cà phê: café. Uống cà phê đi: el đi del final empuja, como en Chúng ta đi ăn cơm đi! (lección 8).
+5. Kịp: llegar a tiempo / dar tiempo. Không kịp = no me da tiempo (para el café… o para lo que sea).
+6. Cốc: vaso / taza (medida para bebidas, en el norte). Ba cốc cà phê = tres cafés. Un número + cốc + bebida. El giro: no le da tiempo a tomar un café… y ya lleva tres, uno por tarea.
+
+ex1:
+- Hôm nay tôi nhiều việc quá.
+  es: Hoy tengo demasiado trabajo.
+- Em chưa xong việc này.
+  es: Aún no he terminado esta tarea.
+- Chúng ta uống cà phê đi!
+  es: ¡Vamos a tomar un café!
+- Chị uống hai cốc rồi.
+  es: Ya te has tomado dos tazas.
+- Tôi không kịp đi chợ.
+  es: No me da tiempo de ir al mercado.
+
+ex2:
+- Hôm nay [nhiều] việc [quá]!
+  es: ¡Hoy hay demasiado trabajo!
+- Ba việc. [Chưa] [xong] việc nào.
+  es: Tres. Aún no he terminado ninguna.
+- Uống [cà phê] đi.
+  es: Toma un café.
+- Không [kịp].
+  es: No me da tiempo.
+- Anh uống ba [cốc] rồi!
+  es: ¡Ya te has tomado tres tazas!
+
+culture.es:
+El café de Hanói es fuerte y corto. Cà phê đen es solo, bien cargado; cà phê sữa đá lleva leche condensada y hielo: dulce, frío, y muy de la ciudad. Se pide «một cốc» en el quán; a menudo el filtro metálico (phin) gotea despacio sobre el vaso. No es un café para beber de prisa… aunque hoy él no tenga tiempo.
+
+== 20 A1
+numeral: Bài thứ hai mươi
+title: Ai nhớ tên phim?
+title.es: ¿Quién recuerda el título?
+
+dialogue:
+- Ai nhớ tên phim?
+  es: ¿Quién recuerda el título de la película? (quién recordar nombre película)
+- Tôi quên rồi.
+  es: Yo ya lo he olvidado. (yo olvidar ya)
+- Có một người Tây Ban Nha trong phim…
+  es: Hay un español en la película… (hay una persona España en película)
+- Tôi nhớ! Anh ấy nói tiếng Việt giỏi.
+  es: ¡Ya recuerdo! Él habla bien vietnamita. (yo recordar! él hablar lengua Vietnam bien)
+- Giỏi thật?
+  es: ¿De verdad que habla bien? (bien de-verdad?)
+- Thật!
+  es: ¡De verdad!
+- Anh ấy có nhớ tên phim không?
+  es: ¿Él recuerda el título de la película?
+- Không. Anh ấy cũng quên rồi!
+  es: No. ¡Él también lo ha olvidado! (no. él también olvidar ya)
+
+notes.es:
+1. Nhớ: recordar / acordarse. Quên: olvidar. Ai nhớ tên phim? = ¿quién recuerda el título? Tôi quên rồi = ya lo he olvidado. Tên: nombre / título. Phim: película.
+2. Rồi detrás del verbo: ya (acabado). Quên rồi = ya olvidé. Contraste limpio con chưa (lección 19): chưa quên = aún no he olvidado; quên rồi = ya olvidé. (Rồi también era «luego» en la secuencia de la lección 10; el sitio en la frase te dice el sentido.)
+3. Nói: hablar / decir. Tiếng + lengua: tiếng Việt (vietnamita), tiếng Tây Ban Nha (español). Anh ấy nói tiếng Việt giỏi = habla bien vietnamita. Giỏi: bueno / hábil (en una habilidad).
+4. Thật: de verdad / realmente. Giỏi thật? = ¿de verdad (que es) bueno? Thật! = ¡de verdad! Partícula de énfasis; la verás mucho.
+5. Một người Tây Ban Nha: un español (người + país, lección 4). Trong: en / dentro (xe máy … ngủ trong nhà tôi, lección 6).
+6. El giro: el español de la película habla muy bien vietnamita… pero tampoco recuerda el título. Como ellos.
+
+ex1:
+- Tôi nhớ tên anh ấy.
+  es: Recuerdo su nombre.
+- Chị quên tên phim rồi.
+  es: Ya has olvidado el título de la película.
+- Em nói tiếng Việt giỏi.
+  es: Hablas bien vietnamita.
+- Anh ấy giỏi thật!
+  es: ¡Él es muy bueno de verdad!
+- Ai quên tên cô ấy?
+  es: ¿Quién ha olvidado su nombre?
+
+ex2:
+- Ai [nhớ] tên [phim]?
+  es: ¿Quién recuerda el título de la película?
+- Tôi [quên] rồi.
+  es: Yo ya lo he olvidado.
+- Anh ấy nói [tiếng] Việt [giỏi].
+  es: Él habla bien vietnamita.
+- Giỏi [thật]?
+  es: ¿De verdad que habla bien?
+- Anh ấy cũng [quên] rồi!
+  es: ¡Él también lo ha olvidado!
+
+== 21 A1
+kind: revision
+numeral: Bài thứ hai mươi mốt
+title: Ôn tập
+title.es: Repaso
+
+dialogue:
+- Đây là mẹ tôi.
+  es: Esta es mi madre.
+  refs: 15
+- Còn người này?
+  es: ¿Y esta persona?
+  refs: 4 15
+- Em gái tôi.
+  es: Mi hermana menor.
+  refs: 15
+- Anh gọi tôi là em à?
+  es: ¿Me estás llamando em?
+  refs: 16
+- Dạ… xin lỗi chị ạ!
+  es: Eh… ¡perdón!
+  refs: 5 13 16
+- Không sao. Bây giờ là mấy giờ?
+  es: No pasa nada. ¿Qué hora es?
+  refs: 16 17
+- Mười hai giờ kém năm.
+  es: Las doce menos cinco.
+  refs: 17
+- Đồng hồ anh chậm!
+  es: ¡Tu reloj va atrasado!
+  refs: 17 18
+- Hôm nay nhiều việc quá. Chưa xong!
+  es: Hoy hay demasiado trabajo. ¡Aún no he terminado!
+  refs: 19
+- Uống cà phê đi.
+  es: Toma un café.
+  refs: 19
+- Không kịp. Tôi uống hai cốc rồi.
+  es: No me da tiempo. Ya me he tomado dos.
+  refs: 19
+- Theo bụng tôi, đồng hồ đúng: lúc nào cũng muốn ăn trưa!
+  es: Según mi estómago, el reloj va bien: ¡siempre quiere comer!
+  refs: 18
+
+notes.es:
+Otra semana y otra vez: nada de memorizar reglas. Esta lección solo ordena lo que ya has oído. Si dudas de un chị o de un chưa, sigue: volverá. El oído adelanta a la lista.
+
+1. Tratamiento por edad (lecciones 1, 5, 8, 10, 12, 16). Tabla completa, con tres palabras nuevas de familia que aún casi no has usado en diálogo: chú, bác, cháu.
+
+| Palabra | Con quién | Como «yo / tú-usted» |
+|---|---|---|
+| ông | hombre mayor | usted, señor; ông ấy = él |
+| bà | mujer mayor | usted, señora; bà ấy = ella |
+| cô | mujer joven o de edad media | usted, señorita; cô ấy = ella |
+| bác | persona mayor que tus padres (tío/a mayor) | usted (respeto alto) |
+| chú | hombre más joven que tus padres (hermano menor del padre) | usted / tú respetuoso |
+| anh | hombre de edad parecida o un poco mayor | tú / usted; también «yo» si eres el mayor del par |
+| chị | mujer de edad parecida o un poco mayor | tú / usted; igual que anh, puede ser «yo» |
+| em | persona más joven | tú (al menor); «yo» (si eres el menor) |
+| cháu | nieto/a, sobrino/a; o tú frente a ông/bà/chú/bác | «yo» deferente con mayores; «tú» hacia un niño |
+| tôi | (el que habla) | yo (neutral, no marca edad) |
+
+El par anh/chị + em fija quién es mayor. Bác / chú / cháu aparecerán más adelante; de momento basta saber que existen y que también organizan la edad.
+
+2. Gọi … là / gọi … bằng; vâng, dạ, ạ (lecciones 5, 16).
+
+Gọi tôi là chị = llámame chị. También se oye gọi bằng chị (misma idea: el tratamiento que usas). La regla de edad: el mayor es anh o chị; el menor es em.
+
+| Forma | Uso |
+|---|---|
+| vâng | sí cortés (norte, el más habitual) |
+| dạ | sí más deferente; con mayores o al responder |
+| ạ | respeto al final de la frase (Xin lỗi chị ạ!) |
+
+3. Palabras de familia (lección 15).
+
+| Palabra | Significado |
+|---|---|
+| bố | padre (norte; sur: ba) |
+| mẹ | madre (norte; sur: má) |
+| anh chị em | hermanos y hermanas (el conjunto) |
+| em gái / em trai | hermana menor / hermano menor |
+| gia đình | familia |
+
+Có = tener: Tôi có hai em. Mấy pregunta el número: có mấy anh chị em?
+
+4. La hora y lúc (lecciones 17, 18).
+
+| Forma | Ejemplo | Significado |
+|---|---|---|
+| mấy giờ? | Bây giờ là mấy giờ? | ¿qué hora es? |
+| giờ + số | tám giờ | las ocho |
+| kém | tám giờ kém mười | las ocho menos diez |
+| rưỡi | tám giờ rưỡi | las ocho y media |
+| phút | năm phút | cinco minutos |
+| lúc | mở lúc tám giờ | a las ocho |
+| còn + tiempo | còn mười phút | quedan diez minutos |
+
+Đúng / chậm / nhanh con đồng hồ: en hora / atrasado / adelantado. Theo = según. Đồng hồ treo tường, điện thoại.
+
+5. Chưa / rồi (lecciones 10, 17, 19, 20). El primer par de marcadores de tiempo «aún no / ya».
+
+| | Significado | Ejemplo |
+|---|---|---|
+| chưa | aún no | Chưa xong. Chưa quên. |
+| rồi | ya (detrás del verbo) | Uống rồi. Quên rồi. Mở rồi. |
+
+Rồi también era «luego» en Đi thẳng, rồi rẽ trái (lección 10): el sitio te dice el sentido.
+
+6. Grado: nhiều, quá, hơi, lắm (lecciones 3, 8, 9, 19).
+
+| Palabra | Sitio | Sentido | Ejemplo |
+|---|---|---|---|
+| hơi | delante | un poco | hơi mệt |
+| lắm | detrás | mucho | thích lắm |
+| quá | detrás | demasiado / ¡qué…! | rộng quá; nhiều việc quá |
+| nhiều | delante del nombre | mucho | nhiều việc |
+
+7. Verbos de esta semana y de antes (lecciones 3, 8, 12, 16, 20).
+
+| Palabra | Uso | Ejemplo |
+|---|---|---|
+| nhớ | recordar | Ai nhớ tên phim? |
+| quên | olvidar | Tôi quên rồi. |
+| thích | gustar | Thích lắm. |
+| phải | tener que | Anh phải gọi tôi là chị. |
+| muốn | querer (+ verbo) | muốn ăn trưa; muốn uống |
+
+Nói tiếng Việt giỏi = hablar bien vietnamita. Giỏi / thật refuerzan.
+
+El reloj de pared mentía; el de la barriga, no. Semana cerrada: mañana, lección 22.
+
+== 22 A1
+numeral: Bài thứ hai mươi hai
+title: Nửa chục
+title.es: Media decena
+
+dialogue:
+- Xoài bao nhiêu tiền một chục?
+  es: ¿Cuánto cuestan los mangos por decena? (mango cuánto dinero un chục)
+- Năm mươi nghìn.
+  es: Cincuenta mil.
+- Đắt quá! Tôi lấy nửa chục.
+  es: ¡Qué caros! Me llevo media decena. (caro demasiado! yo tomar media chục)
+- Nửa chục ba mươi nghìn.
+  es: Media decena, treinta mil.
+- Sao không phải hai mươi lăm?
+  es: ¿Por qué no son veinticinco? (por-qué no ser veinte cinco?)
+- Vì nửa chục của chị có sáu quả!
+  es: Porque mi media decena tiene seis mangos. (porque media chục de hermana mayor hay seis fruto)
+- Sáu quả?
+  es: ¿Seis piezas?
+- Vâng. Một, hai, ba, bốn, năm, sáu quả.
+  es: Sí. Uno, dos, tres, cuatro, cinco, seis.
+- Thôi. Tôi lấy. Ba mươi nghìn!
+  es: Bueno. Me los llevo. ¡Treinta mil!
+
+notes.es:
+1. Bao nhiêu tiền?: ¿cuánto cuesta? / ¿cuánto dinero? Bao nhiêu: cuánto / cuántos. Tiền: dinero. Xoài bao nhiêu tiền một chục? = ¿a cómo sale el mango por chục?
+2. Chục: grupo de diez (en el mercado: fruta, huevos…). Một chục xoài = diez mangos. Nửa: mitad / medio. Nửa chục = media decena (en teoría cinco…). Nghìn: mil. Năm mươi nghìn = cincuenta mil (dong). Los precios se dicen en nghìn, no en «dólares» ni en unidades sueltas.
+3. Đắt: caro. Rẻ: barato. Đắt quá! = ¡qué caro! (quá detrás, lección 9). Lấy: tomar / llevarse (al comprar: Tôi lấy nửa chục = me llevo media decena).
+4. Hai mươi lăm: veinticinco. Lăm es la forma de «cinco» detrás de mươi (quince = mười lăm; veinticinco = hai mươi lăm). Mốt es el «uno» detrás de mươi: hai mươi mốt = veintiuno. Ba mươi = treinta. Một trăm = cien. De 21 a 100 el patrón es así.
+5. Quả: clasificador de frutas (y de algunas cosas redondas). Sáu quả xoài = seis mangos. Como cái (cosas, lección 9) y con (animales): número + quả + fruta.
+6. Vì: porque. Sao không phải…? = ¿por qué no es / no son…? (sao, lección 9; không phải = no es). El giro: media chục barata… porque la vendedora mete seis mangos, no cinco. Él cuenta y paga.
+
+ex1:
+- Cam bao nhiêu tiền một chục?
+  es: ¿Cuánto cuestan las naranjas por decena?
+- Tôi lấy nửa chục xoài.
+  es: Me llevo media decena de mangos.
+- Năm mươi nghìn đắt quá!
+  es: ¡Cincuenta mil es demasiado caro!
+- Hai mươi mốt quả xoài.
+  es: Veintiún mangos.
+- Một trăm nghìn một chục? Rẻ không?
+  es: ¿Cien mil la decena? ¿Barato?
+
+ex2:
+- Xoài [bao nhiêu] tiền một [chục]?
+  es: ¿Cuánto cuestan los mangos por decena?
+- [Đắt] quá! Tôi [lấy] nửa chục.
+  es: ¡Qué caros! Me llevo media decena.
+- Nửa chục ba [mươi] [nghìn].
+  es: Media decena, treinta mil.
+- Sao không phải hai mươi [lăm]?
+  es: ¿Por qué no son veinticinco?
+- [Vì] nửa chục có sáu [quả]!
+  es: Porque la media decena tiene seis mangos.
+
+culture.es:
+En el mercado de Hanói la fruta y los huevos se venden a menudo por chục (diez), no por kilo. El precio se dice en nghìn (mil dong): «năm mươi nghìn» es lo que oyes, no «cincuenta mil unidades». Quả cuenta las piezas: một quả xoài, sáu quả. Si pides nửa chục, cuenta: a veces la «mitad» del puesto no es exactamente cinco.
+
+== 23 A1
+numeral: Bài thứ hai mươi ba
+title: Nấu phở bằng gì?
+title.es: ¿Con qué se hace el pho?
+
+dialogue:
+- Chị nấu phở bằng gì?
+  es: ¿Con qué haces el pho? (hermana mayor cocinar pho con qué)
+- Bằng xương bò, bánh phở, rau, gia vị.
+  es: Con hueso de ternera, fideos de pho, verduras, especias.
+- Khó không?
+  es: ¿Es difícil? (difícil no)
+- Không khó. Chỉ cần thời gian.
+  es: No es difícil. Solo hace falta tiempo. (no difícil. solo necesitar tiempo)
+- Bao lâu?
+  es: ¿Cuánto tiempo? (cuánto largo)
+- Tám tiếng.
+  es: Ocho horas.
+- Tám tiếng?
+  es: ¿Ocho horas?
+- Vâng. Nhiều thời gian quá!
+  es: Sí. ¡Demasiado tiempo!
+- Nên… hôm nay ăn phở ở quán!
+  es: Así que… ¡hoy comemos pho en el puesto!
+
+notes.es:
+1. Nấu: cocinar. Nấu … bằng: cocinar / hacer … con (ingredientes o medio). Bằng lo viste en đi bằng xe đạp (lección 11: «por medio de»); aquí es «con» (ingredientes). Xương: hueso. Xương bò: hueso de ternera (bò, lección 8).
+2. Bánh phở: los fideos planos de arroz del pho (bánh es la palabra de panes, pasteles y masas; aquí, un compuesto). Rau: verdura / hierbas. Gia vị: especias / condimentos.
+3. Khó: difícil. Khó không? = ¿es difícil? (adjetivo predicado, sin là, lección 3). Không khó = no es difícil.
+4. Chỉ cần: solo hace falta / solo se necesita. Chỉ: solo. Cần: necesitar. Thời gian: tiempo (duración, el «tiempo que lleva»). Chỉ cần thời gian = solo hace falta tiempo.
+5. Bao lâu?: ¿cuánto tiempo? / ¿cuánto tarda? (bao, como en bao nhiêu; lâu = largo / mucho tiempo). Tiếng aquí = hora (de duración): tám tiếng = ocho horas. (Giờ, lección 17, es la hora del reloj; tiếng cuenta las horas que duran.)
+6. Nên: así que / por eso / conviene. Nên hôm nay ăn phở ở quán = así que hoy comemos pho en el puesto. El giro: «no es difícil»… si tienes ocho horas. Mejor el quán.
+
+ex1:
+- Anh nấu cơm bằng gì?
+  es: ¿Con qué cocinas el arroz?
+- Nấu cơm không khó.
+  es: Cocinar arroz no es difícil.
+- Nấu phở bao lâu?
+  es: ¿Cuánto tarda hacer pho?
+- Chị nấu tám tiếng rồi.
+  es: Ya llevas ocho horas cocinando.
+- Nên chúng ta ăn ở quán!
+  es: ¡Así que comemos en el puesto!
+
+ex2:
+- Chị [nấu] phở [bằng] gì?
+  es: ¿Con qué haces el pho?
+- Bằng xương bò, [bánh] phở, rau, [gia vị].
+  es: Con hueso de ternera, fideos de pho, verduras, especias.
+- [Khó] không?
+  es: ¿Es difícil?
+- Không khó. [Chỉ] [cần] thời gian.
+  es: No es difícil. Solo hace falta tiempo.
+- [Bao lâu]? [Tám] tiếng.
+  es: ¿Cuánto tiempo? Ocho horas.
+
+culture.es:
+El pho de Hanói se hace con caldo de hueso de ternera (o de pollo), fideos de arroz, cebolleta, hierbas y especias. El caldo pide horas a fuego lento: por eso mucha gente, aunque «sepa» la receta, acaba en el quán. Phở bò y phở gà (lección 8) son el desayuno y el almuerzo de la ciudad; en casa, ocho horas suenan a domingo largo.
+
+aside.es:
+Un mes con el vietnamita. Di los números en voz alta mientras avanzas: năm mươi, tám tiếng, một trăm. La boca se acostumbra antes que la memoria.
+
+== 24 A1
+numeral: Bài thứ hai mươi tư
+title: Chị ấy như thế nào?
+title.es: ¿Cómo es ella?
+
+dialogue:
+- Chị ấy như thế nào?
+  es: ¿Cómo es ella? (hermana mayor aquella como así cuál)
+- Chị ấy vui tính.
+  es: Es simpática. (hermana mayor aquella alegre-carácter)
+- Có nghiêm không?
+  es: ¿Es estricta? (¿hay estricta no?)
+- Hơi nghiêm… với việc.
+  es: Un poco estricta… con el trabajo. (un-poco estricta… con tarea)
+- Với người?
+  es: ¿Con la gente? (con persona)
+- Với người thì hiền.
+  es: Con la gente, amable. (con persona entonces dulce)
+- Với máy in thì sao?
+  es: ¿Y con la impresora?
+- Với máy in thì không!
+  es: ¡Con la impresora, no!
+
+notes.es:
+1. Như thế nào?: ¿cómo es? / ¿cómo? (para describir a una persona o una cosa). Chị ấy như thế nào? = ¿cómo es ella? Như: como. Thế nào: cómo / de qué manera (thế ~ así; nào, lección 4 y 9).
+2. Vui tính: simpático / de buen carácter (vui = alegre; tính = carácter). Los adjetivos van solos de predicado, sin là: Chị ấy vui tính (lección 3).
+3. Nghiêm: estricto / serio. Hơi nghiêm (hơi, lección 3): un poco estricta. Hiền: amable / dulce / bondadoso.
+4. Với: con / hacia. Với việc = con el trabajo. Với người = con la gente. Người aquí = las personas / la gente (lo viste como «persona de…» en người Việt Nam, lección 4).
+5. Thì (lección 18): entonces / pues, aquí parte el contraste: Với người thì hiền. Với máy in thì không. Máy in: impresora (máy = máquina, como xe máy; in = imprimir).
+6. El giro: estricta con el trabajo, dulce con la gente… y la impresora no cuenta como gente.
+
+ex1:
+- Anh ấy như thế nào?
+  es: ¿Cómo es él?
+- Cô ấy vui tính lắm.
+  es: Ella es muy simpática.
+- Ông ấy hơi nghiêm với việc.
+  es: Él es un poco estricto con el trabajo.
+- Bà ấy hiền với người.
+  es: Ella es amable con la gente.
+- Máy in này hơi chậm.
+  es: Esta impresora es un poco lenta.
+
+ex2:
+- Chị ấy [như thế nào]?
+  es: ¿Cómo es ella?
+- Chị ấy [vui tính].
+  es: Es simpática.
+- Có [nghiêm] không?
+  es: ¿Es estricta?
+- Hơi nghiêm… [với] việc.
+  es: Un poco estricta… con el trabajo.
+- Với người thì [hiền]. Với [máy] in thì không!
+  es: Con la gente, amable. ¡Con la impresora, no!
+
+== 25 A1
+numeral: Bài thứ hai mươi lăm
+title: Ăn sáng
+title.es: El desayuno
+
+dialogue:
+- Anh ăn sáng chưa?
+  es: ¿Has desayunado ya? (hermano mayor comer mañana aún-no)
+- Chưa. Có gì ngon?
+  es: Todavía no. ¿Qué hay rico? (aún-no. hay qué rico)
+- Bánh mì thịt, trứng, patê.
+  es: Bocadillo de carne, huevo, paté.
+- Cho tôi một cái bánh mì thịt.
+  es: Deme un bocadillo de carne. (dar yo un clasificador bánh-mì carne)
+- Thêm ớt không?
+  es: ¿Le echo chile? (añadir chile no)
+- Thêm.
+  es: Sí, eche.
+- Ớt… ít thôi.
+  es: El chile… poquito solo. (chile… poco solamente)
+- Tôi là người Tây Ban Nha, không phải người Huế.
+  es: Soy español, no soy de Huế. (yo soy persona España, no ser persona Huế)
+
+notes.es:
+1. Ăn sáng: desayunar (ăn + sáng = comer + mañana). Anh ăn sáng chưa? = ¿has desayunado ya? Chưa al final de un saludo pregunta «¿ya…?» / «¿todavía no…?»; la respuesta Chưa = todavía no (lección 19).
+2. Ngon: rico / bueno (de sabor). Có gì ngon? = ¿qué hay rico? Cho + persona + comida: dar / servir (al pedir): Cho tôi một cái bánh mì thịt = deme / póngame un bocadillo de carne. Bánh mì: pan / bocadillo vietnamita. Thịt: carne. Trứng: huevo. Patê: paté (préstamo; se oye así).
+3. Một cái bánh mì: en el norte se cuenta el bánh mì con cái (lección 9). En el sur se oye ổ bánh mì; aquí nos quedamos con cái.
+4. Thêm: añadir / echar más. Thêm ớt không? = ¿le echo chile? Ớt: chile / guindilla.
+5. Ít: poco. Nhiều (lección 19) es mucho. Ít thôi = poquito solo (thôi, lección 8, cierra o suaviza).
+6. Không phải + nombre: no ser / no soy. Không phải người Huế = no soy (una persona) de Huế. Contraste con là (lección 4): Tôi là người Tây Ban Nha. El giro: chile sí, pero ít thôi: no es de Huế.
+
+ex1:
+- Chị ăn sáng chưa?
+  es: ¿Has desayunado ya?
+- Cho tôi một cái bánh mì trứng.
+  es: Deme un bocadillo de huevo.
+- Bánh mì này ngon quá!
+  es: ¡Este bocadillo está riquísimo!
+- Ít thôi. Tôi không thích nhiều ớt.
+  es: Poquito. No me gusta mucho chile.
+- Anh ấy không phải người Hà Nội.
+  es: Él no es de Hanói.
+
+ex2:
+- Anh [ăn sáng] chưa?
+  es: ¿Has desayunado ya?
+- Cho tôi một [cái] bánh mì [thịt].
+  es: Deme un bocadillo de carne.
+- [Thêm] ớt không?
+  es: ¿Le echo chile?
+- Ớt… [ít] thôi.
+  es: El chile… poquito solo.
+- Tôi là người Tây Ban Nha, [không phải] người Huế.
+  es: Soy español, no soy de Huế.
+
+culture.es:
+El bánh mì es desayuno de calle en todo Vietnam: baguette crujiente, thịt, trứng, patê, pepino, cilantro… y ớt. En Hanói el picante se pide; en Huế la fama es otra: la comida de allí pica de verdad. Un español que pide «ít thôi» no exagera: mide el chile con prudencia.
+
+aside.es:
+Un cuarto del curso. A partir de mañana las lecciones crecen un poco. Ya sabes pedir, contar y decir quién eres: eso es A1 en marcha.

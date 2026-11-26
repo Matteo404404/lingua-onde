@@ -136,12 +136,19 @@ pub fn clean_up() {
 }
 
 /// What an update replaces: the .app bundle on macOS, the program elsewhere.
+/// Taken once, at start: after the update moves the running program aside,
+/// Linux reports its new name (".old"), and the restart must not start that.
 fn target() -> Option<PathBuf> {
-    let exe = std::env::current_exe().ok()?;
-    if cfg!(target_os = "macos") {
-        return exe.ancestors().find(|p| p.extension().is_some_and(|e| e == "app")).map(Path::to_path_buf);
-    }
-    Some(exe)
+    static TARGET: std::sync::OnceLock<Option<PathBuf>> = std::sync::OnceLock::new();
+    TARGET
+        .get_or_init(|| {
+            let exe = std::env::current_exe().ok()?;
+            if cfg!(target_os = "macos") {
+                return exe.ancestors().find(|p| p.extension().is_some_and(|e| e == "app")).map(Path::to_path_buf);
+            }
+            Some(exe)
+        })
+        .clone()
 }
 
 fn replace_self(tag: &str) -> Result<(), String> {

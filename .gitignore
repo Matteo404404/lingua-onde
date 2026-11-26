@@ -1,2 +1,31 @@
 /target
 /shots
+# work/ is the authoring workspace. Only the agent workflow is published
+# (briefs, course plans, writer instructions, tools; see AGENTS.md); lesson
+# drafts, run logs and one-off prompts stay local.
+/work/*
+!/work/BRIEF.md
+!/work/PATTERNS.md
+!/work/PRON.md
+!/work/en/
+/work/en/*
+!/work/en/*.md
+/work/en/*-redo.md
+!/work/vi/
+/work/vi/*
+!/work/vi/syllabus.md
+!/work/vi/pron-key.md
+!/work/vi/es/
+/work/vi/es/*
+!/work/vi/es/*.md
+/work/vi/es/plan-*.md
+!/work/tools/
+/work/tools/*
+!/work/tools/cursor_week.sh
+!/work/tools/merge_stage.py
+!/work/tools/first_seen.py
+!/work/tools/progression.py
+!/work/tools/appendix_draft.py
+!/work/tools/figure_vi.py
+!/work/tools/figure_en.py
+!/work/tools/extra_checks.py

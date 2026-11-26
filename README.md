@@ -216,6 +216,9 @@ format is in `content/FORMAT.md`.
   pronunciation key where one exists, `content/<lang>/appendix-<stage>.<base>.txt`
   a course's appendix (`src/appendix.rs`, "The book" in the app). `content/FORMAT.md` is the file format,
   `METHOD.md` the method.
+- `AGENTS.md` how the courses are written with AI agents, one week at a
+  time; `work/` holds its briefs, course plans, writer instructions and
+  tools (`work/tools/cursor_week.sh`, `merge_stage.py`, `first_seen.py`…).
 - `progress.json` in the data folder: the learner's progress, keyed by course
   id and lesson number, so updates that add lessons, courses or languages
   keep it. Never rename a course id (`Stage::course_id`). The last good file

@@ -69,7 +69,7 @@ pub fn plural(n: usize, one: &str, many: &str) -> String {
 /// A language's name inside a sentence: Italian writes it lowercase ("in inglese").
 pub fn in_sentence(name: &str) -> String {
     match *CURRENT.read().unwrap_or_else(|e| e.into_inner()) {
-        Some(("it", _)) => name.to_lowercase(),
+        Some(("it", _)) | Some(("es", _)) => name.to_lowercase(),
         _ => name.to_string(),
     }
 }

@@ -472,6 +472,44 @@ pub fn starred(text: &str, size: f32, color: Color32) -> egui::text::LayoutJob {
     job
 }
 
+/// The tone arrows of a figured Vietnamese line, as in Le Vietnamien sans
+/// peine: → ngang and huyền, ✓ ngã and hỏi, ↑ sắc, ↓ nặng.
+pub const TONE_ARROWS: [char; 4] = ['→', '✓', '↑', '↓'];
+
+/// A Vietnamese syllable with a low tone (huyền, hỏi, nặng: grave, hook,
+/// dot below); the others (ngang, sắc, ngã) are high.
+pub fn low_tone(syllable: &str) -> bool {
+    const LOW: &str = "àằầèềìòồờùừỳảẳẩẻểỉỏổởủửỷạặậẹệịọộợụựỵÀẰẦÈỀÌÒỒỜÙỪỲẢẲẨẺỂỈỎỔỞỦỬỶẠẶẬẸỆỊỌỘỢỤỰỴ";
+    syllable.chars().any(|c| LOW.contains(c))
+}
+
+/// A figured line on two rows, high tones above and low tones below, each
+/// syllable under or over its place, as the book prints it. `target` is
+/// the Vietnamese sentence: one syllable per figured word. None when the
+/// two do not line up, so the caller can show one plain line instead.
+pub fn tone_rows(ui: &mut Ui, target: &str, figured: &str, size: f32, color: Color32) -> Option<Response> {
+    let syllables: Vec<&str> = target.split_whitespace().collect();
+    let tokens: Vec<&str> = figured.split_whitespace().collect();
+    if tokens.len() != syllables.len() || !figured.contains(TONE_ARROWS) {
+        return None;
+    }
+    let r = ui.horizontal_wrapped(|ui| {
+        ui.spacing_mut().item_spacing = vec2(6.0, 0.0);
+        ui.label(RichText::new("🔈").size(size).color(color));
+        for (tok, syl) in tokens.iter().zip(&syllables) {
+            let low = low_tone(syl);
+            ui.vertical(|ui| {
+                ui.spacing_mut().item_spacing.y = 0.0;
+                for row_low in [false, true] {
+                    let c = if row_low == low { color } else { Color32::TRANSPARENT };
+                    ui.label(RichText::new(*tok).size(size).color(c));
+                }
+            });
+        }
+    });
+    Some(r.response)
+}
+
 /// A label for notes text: `*...*` in bold, wrapping to the width.
 fn note_label(ui: &mut Ui, text: &str, header: bool) {
     if text.contains('*') && !header {

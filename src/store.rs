@@ -43,6 +43,7 @@ const PRONUNCIATION: &[(&str, &str)] = &[
     ("en", include_str!("../content/en/pronunciation.md")),
     ("es", include_str!("../content/es/pronunciation.md")),
     ("nl", include_str!("../content/nl/pronunciation.md")),
+    ("vi", include_str!("../content/vi/pronunciation.md")),
 ];
 
 pub fn pronunciation_key(lang: &str) -> Option<&'static str> {

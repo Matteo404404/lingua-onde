@@ -637,8 +637,12 @@ impl App {
             ui.label(RichText::new(&item.pron).size(14.0).italics().color(ACCENT()));
         }
         if let Some(f) = item.figured(&self.base()) {
-            ui.label(theme::starred(&format!("🔈 {f}"), 14.0, FIGURED()))
-                .on_hover_text(tr("How it sounds, spelled for your language; the stressed syllable is in bold"));
+            match theme::tone_rows(ui, &item.text, f, 14.0, FIGURED()) {
+                Some(r) => r.on_hover_text(tr("How it sounds, spelled for your language: high tones above, low tones below")),
+                None => ui
+                    .label(theme::starred(&format!("🔈 {f}"), 14.0, FIGURED()))
+                    .on_hover_text(tr("How it sounds, spelled for your language; the stressed syllable is in bold")),
+            };
         }
     }
 

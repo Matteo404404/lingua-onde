@@ -19,8 +19,43 @@ const TEXTS: [(&str, Text); 4] = [
 ];
 
 /// Foundation lessons with a full figured pronunciation line; later lessons
-/// spell only their new words, as the Assimil books do.
-pub const FULL_FIGURED: u32 = 28;
+/// spell only their new words, as the Assimil books do. Le Vietnamien sans
+/// peine transcribes the dialogues of lessons 1–14 only.
+pub fn full_figured(lang: &str) -> u32 {
+    if lang == "vi" { 14 } else { 28 }
+}
+
+/// The arrow a figured Vietnamese syllable carries for its tone (see
+/// `theme::TONE_ARROWS`), from the tone mark of the written syllable.
+pub fn tone_arrow(syllable: &str) -> char {
+    const SAC: &str = "áắấéếíóốớúứýÁẮẤÉẾÍÓỐỚÚỨÝ";
+    const NGA_HOI: &str = "ãẵẫẽễĩõỗỡũữỹÃẴẪẼỄĨÕỖỠŨỮỸảẳẩẻểỉỏổởủửỷẢẲẨẺỂỈỎỔỞỦỬỶ";
+    const NANG: &str = "ạặậẹệịọộợụựỵẠẶẬẸỆỊỌỘỢỤỰỴ";
+    match syllable.chars().find(|c| SAC.contains(*c) || NGA_HOI.contains(*c) || NANG.contains(*c)) {
+        Some(c) if SAC.contains(c) => '↑',
+        Some(c) if NANG.contains(c) => '↓',
+        Some(_) => '✓',
+        None => '→',
+    }
+}
+
+/// Problems of a figured Vietnamese line: one figured word per written
+/// syllable, each with the one arrow its tone needs.
+pub fn tone_problems(target: &str, figured: &str) -> Option<String> {
+    let syl: Vec<&str> = target.split_whitespace().collect();
+    let fig: Vec<&str> = figured.split_whitespace().collect();
+    if syl.len() != fig.len() {
+        return Some(format!("{} syllables but {} figured words in \"{figured}\"", syl.len(), fig.len()));
+    }
+    for (s, f) in syl.iter().zip(&fig) {
+        let arrows: Vec<char> = f.chars().filter(|c| crate::theme::TONE_ARROWS.contains(c)).collect();
+        let want = tone_arrow(s);
+        if arrows != [want] {
+            return Some(format!("\"{s}\" needs {want} in its figured word \"{f}\""));
+        }
+    }
+    None
+}
 
 #[derive(Clone, PartialEq)]
 enum Section {
@@ -278,6 +313,15 @@ pub fn builtin_problems(c: &Course, l: &Lesson) -> Vec<String> {
         out.push(format!("{at}: revision lessons are every 7th (7, 14, 21...)"));
     }
     let bases = c.bases();
+    if lang == "vi" {
+        for it in &l.dialogue {
+            for &base in &bases {
+                if let Some(p) = it.figured(base).and_then(|f| tone_problems(&it.text, f)) {
+                    out.push(format!("{at}: pron.{base}: {p}"));
+                }
+            }
+        }
+    }
     for &base in &bases {
         if l.notes.get(base).is_none_or(|n| n.trim().is_empty()) {
             out.push(format!("{at}: notes.{base} missing"));
@@ -360,7 +404,7 @@ pub fn builtin_gaps(c: &Course, l: &Lesson) -> Vec<String> {
     let mut out = Vec::new();
     let (stage, lang, bases) = (c.stage, c.lang.as_str(), c.bases());
     let at = format!("{lang} lesson {}", l.number);
-    if stage == Some(Stage::Foundation) && l.number <= FULL_FIGURED {
+    if stage == Some(Stage::Foundation) && l.number <= full_figured(lang) {
         let missing = l.dialogue.iter().filter(|it| bases.iter().any(|b| it.figured(b).is_none())).count();
         if missing > 0 {
             out.push(format!(
@@ -488,6 +532,20 @@ pub fn write_course(c: &Course) -> String {
 #[cfg(test)]
 mod tests {
     use super::*;
+
+    #[test]
+    fn vietnamese_tone_arrows() {
+        assert_eq!(tone_arrow("Chào"), '→');
+        assert_eq!(tone_arrow("cô"), '→');
+        assert_eq!(tone_arrow("Việt"), '↓');
+        assert_eq!(tone_arrow("thứ"), '↑');
+        assert_eq!(tone_arrow("phải"), '✓');
+        assert_eq!(tone_arrow("Mỹ"), '✓');
+        assert_eq!(tone_problems("Chào cô!", "chau→ co→!"), None);
+        assert!(tone_problems("Chào cô!", "chau→ co↑!").is_some());
+        assert!(tone_problems("Chào cô!", "chau→").is_some());
+        assert!(crate::theme::low_tone("chào") && crate::theme::low_tone("Việt") && !crate::theme::low_tone("Mỹ"));
+    }
 
     const SAMPLE: &str = "course: es\nname: Test\nname.it: Prova\n\n== 2 A2\ntitle: Hola\ntitle.it: Ciao\n\ndialogue:\n- Hola, ¿qué tal?\n  it: Ciao, come va?\n  en: Hi\n  pron: ola\n  pron.it: òla\n\nnotes.it:\n1. Una nota\n   che continua: sì.\n\nex1:\n- Bien.\n  it: Bene.\nex2:\n- Muy [bien].\n  it: Molto bene.\n\n== 1 A1\ntitle: Uno\n";
 

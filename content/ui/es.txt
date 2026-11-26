@@ -1,0 +1,1364 @@
+# Spanish. Format in content/FORMAT.md. The learner is "tú"; the method's terms:
+# segunda ola / ola activa, repaso (revision, review), el libro, pronunciación figurada.
+
+Could not save progress: {0}
+No se pudieron guardar los progresos: {0}
+
+Choose the folder with this course's recordings
+Elige la carpeta con las grabaciones de este curso
+
+Recordings linked to {1}: {0}
+Grabaciones vinculadas a {1}: {0}
+
+learn by assimilation
+aprende por asimilación
+
+{0} of {1}
+{0} de {1}
+
+{0} lesson
+{0} lección
+
+{0} lessons
+{0} lecciones
+
+{0} day
+{0} día
+
+{0} days
+{0} días
+
+Change course
+Cambiar curso
+
+Home
+Inicio
+
+Today's lesson
+Lección de hoy
+
+Review
+Repaso
+
+Courses
+Cursos
+
+The book
+El libro
+
+My lessons
+Mis lecciones
+
+Settings & voices
+Ajustes y voces
+
+As in the book, the introduction comes before lesson 1.
+Como en el libro, la introducción va antes de la lección 1.
+
+You're done for today. If you really want another lesson, the link is under today's card.
+Por hoy has terminado. Si de verdad quieres otra lección, el enlace está bajo la tarjeta de hoy.
+
+You have done every lesson written so far; the rest of this course is still being written. Pick another in Courses meanwhile.
+Has hecho todas las lecciones escritas hasta ahora; el resto del curso aún se está escribiendo. Mientras tanto, elige otro en Cursos.
+
+You finished every lesson of this course. Pick another in Courses or add your own.
+Has terminado todas las lecciones de este curso. Elige otro en Cursos o crea el tuyo.
+
+Good morning
+Buenos días
+
+Good afternoon
+Buenas tardes
+
+Good evening
+Buenas noches
+
+{0} · listen, repeat aloud, understand
+{0} · escucha, repite en voz alta, entiende
+
+study streak
+racha de estudio
+
+{0} / {1} min
+{0} / {1} min
+
+studied today
+estudiados hoy
+
+lessons completed
+lecciones completadas
+
+Monday
+Lunes
+
+Tuesday
+Martes
+
+Wednesday
+Miércoles
+
+Thursday
+Jueves
+
+Friday
+Viernes
+
+Saturday
+Sábado
+
+Sunday
+Domingo
+
+January
+enero
+
+February
+febrero
+
+March
+marzo
+
+April
+abril
+
+May
+mayo
+
+June
+junio
+
+July
+julio
+
+August
+agosto
+
+September
+septiembre
+
+October
+octubre
+
+November
+noviembre
+
+December
+diciembre
+
+{0} {1} {2}
+{0} {1} {2}
+
+Continue · {0}
+Continuar · {0}
+
+Lesson {0} of {1}
+Lección {0} de {1}
+
+✔ You did today's lesson. One lesson a day is the rhythm of the method: the next one will be easier tomorrow.
+✔ Has hecho la lección de hoy. Una lección al día es el ritmo del método: mañana la siguiente te parecerá más fácil.
+
+↻ You chose to go over this lesson again. Repeating is part of the method.
+↻ Has elegido volver a hacer esta lección. Repetir forma parte del método.
+
+Today
+Hoy
+
+new lesson {0}
+nueva lección {0}
+
+active wave: lesson {0}
+ola activa: lección {0}
+
+active wave: {0} lesson {1}
+ola activa: {0}, lección {1}
+
+✔ today's active wave done
+✔ ola activa de hoy hecha
+
+· active wave from lesson {0}
+· ola activa desde la lección {0}
+
+○ review {0} sentence
+○ repasa {0} frase
+
+○ review {0} sentences
+○ repasa {0} frases
+
+▶  Continue the lesson
+▶  Continuar la lección
+
+▶  Start today's lesson
+▶  Empezar la lección de hoy
+
+📖  Start with the introduction
+📖  Empezar por la introducción
+
+✔  You're done for today
+✔  Por hoy has terminado
+
+⟳  Review {0} sentence
+⟳  Repasar {0} frase
+
+⟳  Review {0} sentences
+⟳  Repasar {0} frases
+
+I really want to do another lesson today: start lesson {0}
+De verdad quiero hacer otra lección hoy: empezar la lección {0}
+
+New here? The introduction comes first, as in the book: ten minutes on how the course works.
+¿Primera vez aquí? Como en el libro, se empieza por la introducción: diez minutos sobre cómo funciona el curso.
+
+I already know the method: start lesson 1
+Ya conozco el método: empezar la lección 1
+
+■  Stop
+■  Detener
+
+⏱  Only a few minutes today? Listen to lesson {0} again and repeat it aloud.
+⏱  ¿Solo unos minutos hoy? Vuelve a escuchar la lección {0} y repítela en voz alta.
+
+⏱  Only a few minutes today? Read lesson {0} again, aloud.
+⏱  ¿Solo unos minutos hoy? Vuelve a leer la lección {0} en voz alta.
+
+Next lessons on the way
+Nuevas lecciones en camino
+
+You have done every lesson written so far; the rest of this course is still being written. Meanwhile, review, or choose another course in Courses.
+Has hecho todas las lecciones escritas hasta ahora; el resto del curso aún se está escribiendo. Mientras tanto, repasa o elige otro curso en Cursos.
+
+You can start {0} now: each of its lessons brings one of these back with it.
+Puedes empezar {0} ahora: cada una de sus lecciones trae consigo una de estas.
+
+Then choose a new course in Courses, or add your own lessons.
+Luego elige un curso nuevo en Cursos, o añade lecciones tuyas.
+
+✔ Every lesson read
+✔ Todas las lecciones leídas
+
+The active wave goes on: {0} still to rebuild, one a day, as the method asks.
+La ola activa continúa: {0} aún por reconstruir, una al día, como pide el método.
+
+▶  Active wave: lesson {0}
+▶  Ola activa: lección {0}
+
+▶  Active wave: {0} lesson {1}
+▶  Ola activa: {0}, lección {1}
+
+✔ Today's active wave is done
+✔ La ola activa de hoy está hecha
+
+{0} still to rebuild: the next one comes back tomorrow.
+{0} aún por reconstruir: la siguiente vuelve mañana.
+
+🎉 Course complete
+🎉 Curso completado
+
+You finished every lesson of this course, and its active wave too. {0} is next.
+Has terminado todas las lecciones del curso, y también su ola activa. Ahora toca {0}.
+
+You finished every lesson of this course, and its active wave too. Choose a new one in Courses, or add your own lessons.
+Has terminado todas las lecciones del curso, y también su ola activa. Elige uno nuevo en Cursos, o añade lecciones tuyas.
+
+📖  The end of the book: the grammar summary and the indexes
+📖  El final del libro: el resumen gramatical y los índices
+
+Your path
+Tu recorrido
+
+{0} · {1} of {2} lessons
+{0} · {1} de {2} lecciones
+
+Study this course
+Estudiar este curso
+
+Study calendar
+Calendario de estudio
+
+last {0} weeks
+últimas {0} semanas
+
+Your languages
+Tus idiomas
+
+your lessons
+tus lecciones
+
+studying
+en curso
+
+Study
+Estudiar
+
+M
+L
+
+W
+X
+
+F
+V
+
+S
+D
+
+{0} day with study
+{0} día con estudio
+
+{0} days with study
+{0} días con estudio
+
+More
+Más
+
+Less
+Menos
+
+🔈 Pronunciation
+🔈 Pronunciación
+
+for now in {0}
+por ahora en {0}
+
+coming soon
+próximamente
+
+🎧  Link my recordings of this course…
+🎧  Vincular mis grabaciones de este curso…
+
+A folder of audio files named by lesson, e.g. "Lesson 12.mp3"
+Una carpeta de archivos de audio con el número de la lección en el nombre, p. ej. "Lección 12.mp3"
+
+📋  Copy to my own courses, to change it
+📋  Copiar a mis cursos, para modificarlo
+
+＋  A lesson for each recording without text
+＋  Una lección por cada grabación sin texto
+
+More actions
+Más acciones
+
+＋ Create
+＋ Crear
+
+Then add lessons in “My lessons”: type or paste the dialogue, notes and exercises.
+Luego añade lecciones en “Mis lecciones”: escribe o pega el diálogo, las notas y los ejercicios.
+
+Lessons · {0}
+Lecciones · {0}
+
+Again
+De nuevo
+
+Edit this lesson
+Editar esta lección
+
+active ✔
+2ª ola ✔
+
+active wave due
+2ª ola por hacer
+
+again tomorrow
+de nuevo mañana
+
+revision
+repaso
+
+ex. {0}/{1}
+ej. {0}/{1}
+
+No lessons yet. Add them in “My lessons”.
+Aún no hay lecciones. Añádelas en “Mis lecciones”.
+
+Course created. Add your first lesson.
+Curso creado. Añade tu primera lección.
+
+Lessons added from the recordings: {0}. Follow them in your book; add the text any time in My lessons.
+Lecciones añadidas desde las grabaciones: {0}. Síguelas en tu libro; añade el texto cuando quieras en Mis lecciones.
+
+Copied to your courses: you can now expand and edit it in “My lessons”.
+Copiado a tus cursos: ahora puedes ampliarlo y editarlo en “Mis lecciones”.
+
+How lessons are shown and read aloud. Changes are saved by themselves.
+Cómo se muestran y se leen en voz alta las lecciones. Los cambios se guardan solos.
+
+Your language
+Tu idioma
+
+Translations, notes and the spelled-out pronunciation are shown in this language. The built-in courses are written for Italian, English and Spanish speakers, one pair at a time: Courses shows when a course is not yet in your language. Your own lessons can use any.
+Las traducciones, las notas y la pronunciación figurada se muestran en este idioma. Los cursos incluidos están escritos para quien habla italiano, inglés y español, un par de idiomas a la vez: en Cursos verás cuando un curso aún no está en tu idioma. Tus propias lecciones pueden usar cualquiera.
+
+Method
+Método
+
+Daily goal
+Objetivo diario
+
+minutes of study a day
+minutos de estudio al día
+
+Second wave starts
+Inicio de la segunda ola
+
+lessons later (classic: 49)
+lecciones después (clásico: 49)
+
+Daily sentence review
+Repaso diario de frases
+
+Add each finished dialogue's sentences to a spaced review (an extra, not part of the Assimil method)
+Añade las frases de cada diálogo terminado a un repaso espaciado (un extra, no forma parte del método Assimil)
+
+Pronunciation hints
+Ayudas de pronunciación
+
+Show how to pronounce: spelled-out sounds, pinyin, Latin vowel lengths
+Muestra cómo se pronuncia: pronunciación figurada, pinyin, cantidad de las vocales latinas
+
+Listening
+Escucha
+
+Speed
+Velocidad
+
+Gradual pace
+Ritmo gradual
+
+as the books' recordings
+como las grabaciones de los libros
+
+Slower voice in the first lessons of Foundation, natural from lesson 50
+Voz más lenta en las primeras lecciones de Fundamentos, natural desde la lección 50
+
+Pause to repeat
+Pausa para repetir
+
+how long the voice waits after each sentence
+cuánto espera la voz después de cada frase
+
+× the sentence
+× la frase
+
+Recordings vs voice
+Grabaciones o voz
+
+Use the voice even when a recording is linked (sentence by sentence)
+Usar la voz aunque haya una grabación vinculada (frase por frase)
+
+Audio player
+Reproductor de audio
+
+System player ✔
+Reproductor del sistema ✔
+
+mpv adds pause and rewind, and plays your own MP3 recordings
+mpv añade pausa y rebobinado, y reproduce tus propias grabaciones MP3
+
+No player found: install mpv to hear audio
+No se encontró reproductor: instala mpv para oír el audio
+
+Voices
+Voces
+
+Free and offline after the download. A natural-sounding voice reads every sentence aloud when you have no recordings. Each voice is about 60 MB; the first one also fetches the voice engine (25 MB). Latin is read by the Italian voice with Latin pronunciation rules.
+Gratuitas y sin conexión tras la descarga. Una voz natural lee en voz alta cada frase cuando no tienes grabaciones. Cada voz pesa unos 60 MB; la primera descarga también el motor de voz (25 MB). El latín lo lee la voz italiana con las reglas de la pronunciación latina.
+
+Ready ✔
+Lista ✔
+
+⬇ Download
+⬇ Descargar
+
+Your files
+Tus archivos
+
+Progress, your courses and voices are kept in {0}
+Los progresos, tus cursos y las voces se guardan en {0}
+
+📂 Open the folder
+📂 Abrir la carpeta
+
+How to read the pronunciation · {0}
+Cómo leer la pronunciación figurada · {0}
+
+No audio player found. Install mpv to hear your own recordings.
+No se encontró reproductor de audio. Instala mpv para oír tus propias grabaciones.
+
+could not start the audio player: {0}
+no se pudo iniciar el reproductor de audio: {0}
+
+Ready
+Lista
+
+Failed: {0}
+Error: {0}
+
+curl is needed to download voices
+hace falta curl para descargar las voces
+
+tar is needed to unpack the voice engine
+hace falta tar para extraer el motor de voz
+
+could not unpack the engine: {0}
+no se pudo extraer el motor: {0}
+
+Downloading the voice engine (25 MB)…
+Descarga del motor de voz (25 MB)…
+
+no voice engine is published for this computer
+para este equipo no hay un motor de voz
+
+Downloading the voice engine's libraries (25 MB)…
+Descarga de las bibliotecas del motor de voz (25 MB)…
+
+the voice engine's libraries are missing
+faltan las bibliotecas del motor de voz
+
+unknown language
+idioma desconocido
+
+Downloading the voice (about 60 MB)…
+Descarga de la voz (unos 60 MB)…
+
+Finishing…
+Últimos retoques…
+
+Revision · the grammar of the week
+Repaso · la gramática de la semana
+
+Blind listening
+Escucha sin texto
+
+Listen, reading your language
+Escucha leyendo tu idioma
+
+Listen, reading the original
+Escucha leyendo el original
+
+Read the dialogue
+Lee el diálogo
+
+Notes
+Notas
+
+Exercise 1 · Translate
+Ejercicio 1 · Traduce
+
+Exercise 2 · Fill in the missing words
+Ejercicio 2 · Completa con las palabras que faltan
+
+Open tasks
+Tareas abiertas
+
+Read it again
+Léelo de nuevo
+
+Last blind listening
+Última escucha sin texto
+
+Review the two previous dialogues
+Repasa los dos diálogos anteriores
+
+Active wave
+Ola activa
+
+Grammar
+Gramática
+
+Blind
+Escucha
+
++ your language
++ tu idioma
+
++ original
++ original
+
+Read
+Lectura
+
+Ex. 1
+Ej. 1
+
+Ex. 2
+Ej. 2
+
+Tasks
+Tareas
+
+Read again
+Relectura
+
+Blind again
+Reescucha
+
+2 before
+Anteriores
+
+Active
+2ª ola
+
+A revision lesson: nothing new. Read how the grammar of the last six lessons fits together, with examples you already know.
+Una lección de repaso: nada nuevo. Lee cómo encaja la gramática de las últimas seis lecciones, con ejemplos que ya conoces.
+
+Don't look at any text. Listen to the whole dialogue and repeat every sentence aloud in the pause, imitating the voice. It's fine not to understand yet: you are tuning your ear.
+No mires ningún texto. Escucha todo el diálogo y repite cada frase en voz alta en la pausa, imitando la voz. Está bien no entender aún: estás afinando el oído.
+
+Listen again while you read the translation in your own language. Keep repeating each sentence aloud: the sound and the meaning start to connect.
+Escucha de nuevo mientras lees la traducción en tu idioma. Sigue repitiendo cada frase en voz alta: el sonido y el significado empiezan a conectarse.
+
+Now follow the original text while you listen, and repeat each sentence aloud. Notice how the words are written.
+Ahora sigue el texto original mientras escuchas, y repite cada frase en voz alta. Fíjate en cómo se escriben las palabras.
+
+Read the dialogue aloud, sentence by sentence, with the translation beside it. The literal sense in brackets shows how the language thinks. Click ▶ to hear a sentence.
+Lee el diálogo en voz alta, frase por frase, con la traducción al lado. El sentido literal entre paréntesis muestra cómo piensa el idioma. Haz clic en ▶ para oír una frase.
+
+Read the pronunciation observations and the notes. They explain what you just met; don't try to memorise anything, it settles by itself as you go on.
+Lee las observaciones sobre la pronunciación y las notas. Explican lo que acabas de encontrar; no intentes memorizar nada, se fija solo al seguir adelante.
+
+Read each sentence aloud and translate it in your head, then check.
+Lee cada frase en voz alta y tradúcela mentalmente, luego comprueba.
+
+Write the missing words. The translation tells you what the sentence says.
+Escribe las palabras que faltan. La traducción te dice qué dice la frase.
+
+Open tasks have no single right answer. Write or say yours first, then compare it with a model answer and tick the checklist honestly.
+Las tareas abiertas no tienen una sola respuesta correcta. Primero escribe o di la tuya, luego compárala con una respuesta modelo y marca la lista con honestidad.
+
+Read the dialogue once more, aloud. Try hiding the translation: you should understand almost all of it now.
+Vuelve a leer el diálogo una vez más, en voz alta. Prueba a ocultar la traducción: ahora deberías entender casi todo.
+
+Last time, eyes off the text: listen and repeat each sentence aloud. Notice how much more you understand than at the start.
+Última vez, sin mirar el texto: escucha y repite cada frase en voz alta. Fíjate en cuánto más entiendes que al principio.
+
+Read and listen to the two lessons before this one, aloud. Old material comes back easily and keeps growing roots.
+Lee y escucha en voz alta las dos lecciones anteriores a esta. El material ya visto vuelve con facilidad y sigue echando raíces.
+
+The active wave: an earlier lesson's dialogue and exercise 1, shown in your language only. Say each sentence aloud in the language you learn (type it if you like), then reveal it and compare. Mistakes are part of it.
+La ola activa: el diálogo y el ejercicio 1 de una lección anterior, mostrados solo en tu idioma. Di cada frase en voz alta en el idioma que estudias (escríbela, si quieres), luego descúbrela y compara. Los errores forman parte del juego.
+
+Lesson {0} done. Tomorrow you'll go over it once more — that's how it settles.
+Lección {0} hecha. Mañana la repasarás una vez más: así es como se fija.
+
+Lesson {0} done — well done! See you tomorrow for the next one.
+Lección {0} hecha, ¡buen trabajo! Hasta mañana para la siguiente.
+
+Lesson {0} done again. See you tomorrow for the next one.
+Lección {0} rehecha. Hasta mañana para la siguiente.
+
+⏹ Stop
+⏹ Detener
+
+Play the recording
+Reproducir la grabación
+
+Play the lesson recording
+Reproducir la grabación de la lección
+
+🎧 {0} · pause after each sentence and repeat it aloud
+🎧 {0} · pon en pausa después de cada frase y repítela en voz alta
+
+Stop
+Detener
+
+Listen
+Escuchar
+
+Sentence {0} of {1}
+Frase {0} de {1}
+
+preparing the voice…
+preparo la voz…
+
+🔊 listen…
+🔊 escucha…
+
+● repeat aloud now
+● ahora repite en voz alta
+
+✔ Finished
+✔ Terminado
+
+Press ▶ to listen again.
+Pulsa ▶ para volver a escuchar.
+
+Listen · {0} sentence
+Escuchar · {0} frase
+
+Listen · {0} sentences
+Escuchar · {0} frases
+
+The voice reads each sentence; repeat it aloud in the pause.
+La voz lee cada frase; repítela en voz alta en la pausa.
+
+Next sentence
+Frase siguiente
+
+Repeat this sentence
+Repetir esta frase
+
+Previous sentence
+Frase anterior
+
+The voice waits after each sentence so you can repeat it aloud
+La voz espera después de cada frase para que puedas repetirla en voz alta
+
+No audio for this lesson yet
+Aún no hay audio para esta lección
+
+⬇ Get the {0} voice (free, ~60 MB)
+⬇ Descargar la voz en {0} (gratis, ~60 MB)
+
+Or link your own recordings in Courses. Meanwhile, read the sentences aloud yourself.
+O vincula tus propias grabaciones en Cursos. Mientras tanto, lee tú las frases en voz alta.
+
+How it sounds, spelled for your language; the stressed syllable is in bold
+Cómo suena, escrito para tu idioma; la sílaba tónica va en negrita
+
+The lessons these words come from
+Las lecciones de las que vienen estas palabras
+
+Eyes off the text — listen and repeat aloud
+Sin texto: escucha y repite en voz alta
+
+sentence {0} of {1}
+frase {0} de {1}
+
+No lesson open.
+Ninguna lección abierta.
+
+Close — your place in the lesson is kept
+Cerrar: el punto en el que estás en la lección queda guardado
+
+Lesson {0}
+Lección {0}
+
+‹  Back
+‹  Atrás
+
+✔  Finish the lesson
+✔  Terminar la lección
+
+Done — next step  ›
+Hecho, paso siguiente  ›
+
+Step {0} of {1}
+Paso {0} de {1}
+
+📖 This lesson has no text yet: follow it in your book while you listen. You can add the text any time in “My lessons”.
+📖 Esta lección aún no tiene texto: síguela en tu libro mientras escuchas. Puedes añadir el texto cuando quieras en “Mis lecciones”.
+
+Peek at the text (only if you are stuck)
+Echa un vistazo al texto (solo si te atascas)
+
+Hide the translation
+Ocultar la traducción
+
+🔈 Pronunciation guide
+🔈 Guía de pronunciación
+
+Pronunciation
+Pronunciación
+
+Culture
+Cultura
+
+From the author
+Del autor
+
+This is the first lesson: nothing to review yet. Just listen to today's dialogue once more if you like.
+Esta es la primera lección: aún no hay nada que repasar. Si quieres, vuelve a escuchar el diálogo de hoy.
+
+Lesson {0} · {1}
+Lección {0} · {1}
+
+The active wave of {0} goes on alongside this course: today one of its lessons comes back.
+La ola activa de {0} continúa junto a este curso: hoy vuelve una de sus lecciones.
+
+Show all translations
+Mostrar todas las traducciones
+
+Check my translation
+Comprobar mi traducción
+
+Almost: check the accents
+Casi: comprueba los acentos
+
+Check my answers
+Comprobar las respuestas
+
+{0} of {1} right
+{0} correctas de {1}
+
+Try again
+Intentar de nuevo
+
+The active wave of the method, the sentences of the day, and a search across every sentence you have met.
+La ola activa del método, las frases del día y una búsqueda en todas las frases que has encontrado.
+
+Active wave · {0}
+Ola activa · {0}
+
+Search
+Buscar
+
+Daily sentences · {0}
+Frases del día · {0}
+
+Nothing left to review today
+Nada que repasar hoy
+
+{0} · next ones on {1}
+{0} · las siguientes el {1}
+
+{0} sentence in review
+{0} frase en repaso
+
+{0} sentences in review
+{0} frases en repaso
+
+Sentences arrive here after each finished lesson.
+Las frases llegan aquí después de cada lección terminada.
+
+Read the sentence in your language, say it aloud in the language you are learning, then check and be honest with yourself.
+Lee la frase en tu idioma, dila en voz alta en el idioma que estudias, luego comprueba, con honestidad.
+
+{0} left
+quedan {0}
+
+Said it aloud — show me
+La he dicho en voz alta: muéstrala
+
+or press Space
+o pulsa Espacio
+
+Hard
+Difícil
+
+Good
+Bien
+
+Easy
+Fácil
+
+today
+hoy
+
+in {0} d
+en {0} d
+
+Key {0}
+Tecla {0}
+
+The active wave is the second half of the method: from lesson {0} on, each day you also rebuild an earlier lesson — you see it in your language and say it aloud in {1}. After the last lesson the remaining ones come back one a day, also while you go on with the next course, until every lesson has been rebuilt. Settings → “Second wave starts” changes the distance.
+La ola activa es la segunda mitad del método: a partir de la lección {0}, cada día reconstruyes también una lección anterior: la ves en tu idioma y la dices en voz alta en {1}. Tras la última lección, las que quedan vuelven una al día, también mientras sigues con el curso siguiente, hasta que cada lección haya sido reconstruida. Ajustes → “Inicio de la segunda ola” cambia la distancia.
+
+‹  All lessons
+‹  Todas las lecciones
+
+Extra practice: this lesson's active wave is not due today, so it is not recorded. It comes back on its own day.
+Práctica de más: la ola activa de esta lección no toca hoy, así que no se registra. Volverá en su día.
+
+✔  Second wave done for this lesson
+✔  Segunda ola hecha para esta lección
+
+✔  Done
+✔  Hecho
+
+Second wave of lesson {0} done.
+Segunda ola de la lección {0} hecha.
+
+Finish a lesson first: it will be ready here for active practice.
+Primero termina una lección: estará lista aquí para la práctica activa.
+
+Practise
+Practicar
+
+due today
+para hoy
+
+done {0}
+hecha el {0}
+
+How did it go?
+¿Qué tal ha ido?
+
+The exercises were hard today. Going over this lesson again tomorrow often makes it click.
+Hoy los ejercicios han sido difíciles. Volver a hacer esta lección mañana a menudo ayuda a entenderla.
+
+Fine — the next lesson tomorrow
+Bien: mañana la siguiente lección
+
+Hard — go over this lesson again tomorrow
+Difícil: mañana vuelvo a hacer esta lección
+
+A word in {0} or in your language
+Una palabra en {0} o en tu idioma
+
+Type two letters or more. The search covers the words and dialogues of every course in this language.
+Escribe al menos dos letras. La búsqueda cubre las palabras y los diálogos de todos los cursos de este idioma.
+
+{0} result
+{0} resultado
+
+{0} results
+{0} resultados
+
+the first 80
+los primeros 80
+
+{0} · lesson {1}
+{0} · lección {1}
+
+This lesson has no notes.
+Esta lección no tiene notas.
+
+{0} · lesson {1} · {2}
+{0} · lección {1} · {2}
+
+Introduction
+Introducción
+
+Lessons
+Lecciones
+
+Index
+Índice
+
+Words
+Palabras
+
+Expressions
+Expresiones
+
+Before the lessons
+Antes de las lecciones
+
+The course
+El curso
+
+End of the book
+Final del libro
+
+Before lesson 1: read the introduction, then the pronunciation key.
+Antes de la lección 1: lee la introducción, luego la guía de pronunciación.
+
+Before lesson 1: read the introduction.
+Antes de la lección 1: lee la introducción.
+
+Not written yet for this course. As in the books, the introduction and the appendix come with the finished course: a grammar summary, an index of grammar topics, a word list in both directions and the expressions, each with its lessons.
+Aún no escrito para este curso. Como en los libros, la introducción y el apéndice llegan con el curso terminado: un resumen gramatical, un índice de temas de gramática, un léxico en los dos sentidos y las expresiones, cada uno con sus lecciones.
+
+Next: the pronunciation key  →
+Siguiente: la guía de pronunciación  →
+
+Begin: lesson 1  →
+Empezar: lección 1  →
+
+Next: the lessons  →
+Siguiente: las lecciones  →
+
+Not written yet for this course: the indexes come with the finished course.
+Aún no escrito para este curso: los índices llegan con el curso terminado.
+
+Change the direction of the list
+Invertir la dirección de la lista
+
+Also lessons not studied yet
+También las lecciones aún no estudiadas
+
+Nothing from the lessons you have studied yet. Tick “Also lessons not studied yet” to see the whole list.
+Aún nada de las lecciones que has estudiado. Marca “También las lecciones aún no estudiadas” para ver toda la lista.
+
+No lessons written yet for this course.
+Aún no hay lecciones escritas para este curso.
+
+{0} · revision
+{0} · repaso
+
+Then, at the end of the book: the grammar  →
+Luego, al final del libro: la gramática  →
+
+Expand your courses with your own material: type or paste each dialogue with its translation, notes and exercises. Lessons are saved as plain text files, so you can also edit them in any text editor.
+Amplía tus cursos con tu propio material: escribe o pega cada diálogo con su traducción, las notas y los ejercicios. Las lecciones se guardan como archivos de texto sencillo, así que también puedes editarlas con cualquier editor de texto.
+
+You have no course of your own yet.
+Aún no tienes un curso tuyo.
+
+Create one for any language in Courses (“New course for your own material”), or copy a built-in course there to expand it.
+Crea uno para cualquier idioma en Cursos (“Nuevo curso para tu material”), o copia allí un curso incluido para ampliarlo.
+
+Go to Courses
+Ir a Cursos
+
+Course:
+Curso:
+
+📂 Open the lesson files
+📂 Abrir los archivos de las lecciones
+
+＋ New lesson
+＋ Nueva lección
+
+No lessons yet.
+Aún no hay lecciones.
+
+{0} sentence
+{0} frase
+
+{0} sentences
+{0} frases
+
+{0} exercise
+{0} ejercicio
+
+{0} exercises
+{0} ejercicios
+
+✏ Edit
+✏ Editar
+
+Edit lesson
+Editar la lección
+
+New lesson
+Nueva lección
+
+Number
+Número
+
+Level
+Nivel
+
+Title in {0}
+Título en {0}
+
+Recording (optional)
+Grabación (opcional)
+
+found automatically in the course's recordings folder
+encontrada sola en la carpeta de grabaciones del curso
+
+Choose…
+Elegir…
+
+Dialogue
+Diálogo
+
+One sentence per row: the sentence in {0}, its translation in {1} (put the literal sense in brackets if useful) and, if you like, a pronunciation hint.
+Una frase por fila: la frase en {0}, su traducción en {1} (con el sentido literal entre paréntesis, si hace falta) y, si quieres, una ayuda de pronunciación.
+
+Paste many sentences at once
+Pegar muchas frases a la vez
+
+Paste the dialogue in the left box and the translation in the right box, one sentence per line, in the same order.
+Pega el diálogo en el cuadro de la izquierda y la traducción en el de la derecha, una frase por línea, en el mismo orden.
+
+Sentences in {0}
+Frases en {0}
+
+Translations in {0}
+Traducciones en {0}
+
+⚠ Sentences: {0}, translations: {1}
+⚠ Frases: {0}, traducciones: {1}
+
+Add {0} sentence
+Añadir {0} frase
+
+Add {0} sentences
+Añadir {0} frases
+
+Notes (in {0})
+Notas (en {0})
+
+Number each note: “1. word — explanation”.
+Numera cada nota: “1. palabra — explicación”.
+
+Exercise 1 · sentences to translate
+Ejercicio 1 · frases para traducir
+
+Exercise 2 · missing words
+Ejercicio 2 · palabras que faltan
+
+Put each missing word in [square brackets], e.g. “Muy [bien], [gracias].”
+Pon cada palabra que falta entre [corchetes], p. ej. “Muy [bien], [gracias].”
+
+💾 Save lesson
+💾 Guardar la lección
+
+Back to the list
+Volver a la lista
+
+Delete this lesson for good?
+¿Eliminar esta lección para siempre?
+
+Yes, delete
+Sí, eliminar
+
+No
+No
+
+🗑 Delete lesson
+🗑 Eliminar la lección
+
+Saved lesson {0}.
+Lección {0} guardada.
+
+Deleted lesson {0}.
+Lección {0} eliminada.
+
+give the lesson a title
+pon un título a la lección
+
+exercise 2 needs [brackets] around the missing words: “{0}”
+el ejercicio 2 quiere los [corchetes] alrededor de las palabras que faltan: “{0}”
+
+lesson {0} already exists; choose another number
+la lección {0} ya existe; elige otro número
+
+pronunciation
+pronunciación
+
+Move up
+Subir
+
+Remove
+Quitar
+
+＋ Add sentence
+＋ Añadir frase
+
+✔ Right
+✔ Correcto
+
+≈ Right, check the accents:
+≈ Correcto, comprueba los acentos:
+
+Compare:
+Compara:
+
+· you added:
+· has añadido:
+
+Green: right · orange: accents differ · red underlined: missing or different · struck: not in the original
+Verde: correcto · naranja: acentos distintos · rojo subrayado: falta o es distinto · tachado: no está en el original
+
+Same meaning: nothing important missing, nothing added
+Mismo significado: no falta nada importante, no hay nada de más
+
+Same register and tone (formal, ironic, warm, technical…)
+Mismo registro y tono (formal, irónico, cercano, técnico…)
+
+Natural word order and idiom, not your language's sentences in disguise
+Orden de las palabras y giros naturales, no frases de tu idioma disfrazadas
+
+The original's key expressions and collocations, or equally precise ones
+Las expresiones y colocaciones clave del original, u otras igual de precisas
+
+The same effect on the reader or listener
+El mismo efecto en quien lee o escucha
+
+{0} of {1} — be honest; what is missing is next time's focus.
+{0} de {1}: responde con sinceridad; lo que falta es el punto en el que trabajar la próxima vez.
+
+The grammar of that week — read it again
+La gramática de esa semana: vuelve a leerla
+
+Recreate the whole text instead
+Recrea en cambio todo el texto
+
+Go sentence by sentence instead
+Ve en cambio frase por frase
+
+The revision dialogue
+El diálogo de repaso
+
+The dialogue
+El diálogo
+
+Exercise 1 — now from your language
+Ejercicio 1: ahora desde tu idioma
+
+■ Stop
+■ Detener
+
+▶ Prompt and answer
+▶ Pregunta y respuesta
+
+The voice says each sentence in your language, waits while you say it, then says it in the language you learn
+La voz dice cada frase en tu idioma, espera mientras la dices tú, luego la dice en el idioma que estudias
+
+Download this language's voice in Settings first
+Primero descarga la voz de este idioma en Ajustes
+
+(get the {0} voice in Settings to hear the prompts too)
+(descarga la voz en {0} en Ajustes para oír también las preguntas)
+
+Show all
+Mostrar todo
+
+say it aloud — and type it if you like
+dila en voz alta, y escríbela si quieres
+
+Show
+Mostrar
+
+The original dialogue — listen and read it again
+El diálogo original: vuelve a escucharlo y a leerlo
+
+In your language
+En tu idioma
+
+Recreate it in {0}: the same meaning, tone, register and effect — not word for word. Say it aloud, or write it here.
+Recréalo en {0}: mismo significado, tono, registro y efecto, no palabra por palabra. Dilo en voz alta, o escríbelo aquí.
+
+Your version…
+Tu versión…
+
+Show the original and the checklist
+Mostrar el original y la lista de control
+
+The original
+El original
+
+Check your version
+Comprobar tu versión
+
+Task {0}
+Tarea {0}
+
+Your answer — or say it aloud
+Tu respuesta, o dila en voz alta
+
+Show a model answer and the checklist
+Mostrar una respuesta modelo y la lista de control
+
+A model answer
+Una respuesta modelo
+
+Check your answer
+Comprobar tu respuesta
+
+could not save {0}: {1}
+no se pudo guardar {0}: {1}
+
+Your progress file could not be read ({0}). It is kept as {1} and a new one was started.
+El archivo de progresos no se puede leer ({0}). Se conserva como {1} y se ha empezado uno nuevo.
+
+Beginner
+Principiante
+
+Elementary
+Elemental
+
+Intermediate
+Intermedio
+
+Upper intermediate
+Intermedio alto
+
+Advanced
+Avanzado
+
+Mastery
+Maestría
+
+# Updates
+A new version of Lingua Onde is available: {0}
+Hay una nueva versión de Lingua Onde disponible: {0}
+
+Update now
+Actualizar ahora
+
+What's new
+Novedades
+
+Later
+Más tarde
+
+Updating to {0}… The app restarts by itself, and your progress stays.
+Actualización a {0}… La app se reinicia sola y tus progresos se conservan.
+
+Download page
+Página de descarga
+
+Updates
+Actualizaciones
+
+Built from source: update with git pull and cargo build.
+Compilada desde el código fuente: actualiza con git pull y cargo build.
+
+Version {0}. The app looks for a new version each time it starts; updating keeps your progress.
+Versión {0}. La app busca una nueva versión en cada arranque; la actualización conserva tus progresos.
+
+Check for updates
+Buscar actualizaciones
+
+Up to date ✔
+Actualizada ✔
+
+{0} is available
+Está disponible la {0}
+
+Could not update: {0}
+No se pudo actualizar: {0}
+
+No ready-made build for this computer
+No hay una versión lista para este equipo
+
+This copy is not an installed app; download the new version from the release page
+Esta copia no es una app instalada: descarga la nueva versión desde la página de la release
+
+the download is incomplete
+la descarga está incompleta
+
+# Appearance
+Appearance
+Apariencia
+
+Theme
+Tema
+
+Automatic
+Automático
+
+Light
+Claro
+
+Dark
+Oscuro
+
+# Courses and the course switcher
+All courses…
+Todos los cursos…
+
+✔ Complete
+✔ Completado
+
+Continue
+Continuar
+
+Each language has three courses, one after the other. Choose the one to study; the others wait where you left them.
+Cada idioma tiene tres cursos, uno detrás de otro. Elige el que quieras estudiar; los demás quedan donde los dejaste.
+
+Language of the new course:
+Idioma del nuevo curso:
+
+Lessons you write or paste yourself, with your own recordings if you have them.
+Lecciones que escribes o pegas tú, con tus propias grabaciones si las tienes.
+
+＋ New course
+＋ Nuevo curso
+
+Start
+Empezar
+
+Your own courses
+Tus cursos
+
+All courses →
+Todos los cursos →
+
+How it sounds, spelled for your language: high tones above, low tones below
+Cómo suena, escrito para tu idioma: los tonos altos arriba, los bajos abajo

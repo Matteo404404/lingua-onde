@@ -11,7 +11,7 @@ use chrono::{Datelike, NaiveDate};
 type Table = HashMap<String, String>;
 
 /// The tables built into the app, by base language.
-const TABLES: &[(&str, &str)] = &[("it", include_str!("../content/ui/it.txt"))];
+const TABLES: &[(&str, &str)] = &[("it", include_str!("../content/ui/it.txt")), ("es", include_str!("../content/ui/es.txt"))];
 
 // One language for the whole interface, set from the learner's choice each
 // frame, so drawing code and background messages need not carry it.

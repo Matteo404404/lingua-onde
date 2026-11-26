@@ -20,11 +20,17 @@ an introduction, and an appendix with the grammar, a grammar index and the
 expressions; Mastery is complete too: 100 lessons with open tasks, an
 introduction, and an appendix with style and grammar, an index and the
 expressions),
-then Spanish for Italian speakers (its first week, lessons 1–7, is rewritten
-for them). The other languages except Dutch have 13 sample lessons (lessons
-1–8, 26, 51 and 76 of Foundation, one lesson each of Perfectionnement and
-Mastery), with translations and notes in Italian, English and Spanish; Dutch
-has none yet. The text has not been checked by a native speaker.
+then Vietnamese for Spanish speakers (Foundation is complete: 100 lessons of
+northern Vietnamese with translations and notes in Spanish, figured
+pronunciation respelled for Spanish readers with a tone arrow after each
+syllable, high tones drawn on the upper row and low ones below, as in
+Assimil's *Le Vietnamien sans peine*, in lessons 1–14; an introduction and an
+appendix; the interface is in Spanish too). Spanish for Italian speakers has
+its first week, lessons 1–7. The other languages except Dutch have 13 sample
+lessons (lessons 1–8, 26, 51 and 76 of Foundation, one lesson each of
+Perfectionnement and Mastery), with translations and notes in Italian, English
+and Spanish; Dutch has none yet. The text has not been checked by a native
+speaker.
 
 This is private use only. You can build and run it for your own learning.
 You cannot sell it or use it commercially. The full rules are in [LICENSE](LICENSE).

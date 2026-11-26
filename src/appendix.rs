@@ -126,6 +126,7 @@ const BUILTIN: &[&str] = &[
     include_str!("../content/en/appendix-foundation.it.txt"),
     include_str!("../content/en/appendix-perfectionnement.it.txt"),
     include_str!("../content/en/appendix-mastery.it.txt"),
+    include_str!("../content/vi/appendix-foundation.es.txt"),
 ];
 
 pub fn builtin() -> Vec<Appendix> {
@@ -189,7 +190,7 @@ impl App {
                 }
                 ui.vertical(|ui| {
                     ui.label(theme::caps(part));
-                    ui.horizontal(|ui| {
+                    ui.horizontal_wrapped(|ui| {
                         for &i in pages.iter().filter(|&&i| foundation || (i != 1 && i != 5)) {
                             if ui.selectable_label(self.appendix_ui.tab == i, medium(page_names()[i]).size(15.0)).clicked() {
                                 self.appendix_ui.tab = i;
@@ -283,7 +284,8 @@ impl App {
         let studied = |n: u32| self.saved.is_done(&c.lesson_key(n));
         let lang = lang_name(&a.lang, &base);
         let st = &mut self.appendix_ui;
-        ui.horizontal(|ui| {
+        // Wraps on a narrow window instead of running off the page.
+        ui.horizontal_wrapped(|ui| {
             ui.add(
                 egui::TextEdit::singleline(&mut st.query)
                     .hint_text(tr("Search"))

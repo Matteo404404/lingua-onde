@@ -722,7 +722,7 @@ impl App {
         let gap = 4.0;
         let width = ui.available_width();
         let seg = (width - gap * (n as f32 - 1.0)) / n as f32;
-        let labels = seg >= 62.0;
+        let labels = seg >= 90.0;
         let (rect, _) = ui.allocate_exact_size(egui::vec2(width, if labels { 30.0 } else { 10.0 }), egui::Sense::hover());
         let mut jump = None;
         for (i, st) in steps.iter().enumerate() {

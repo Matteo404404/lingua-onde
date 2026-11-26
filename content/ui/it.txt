@@ -76,12 +76,6 @@ Buonasera
 {0} · listen, repeat aloud, understand
 {0} · ascolta, ripeti ad alta voce, capisci
 
-🔥 {0} day in a row
-🔥 {0} giorno di fila
-
-🔥 {0} days in a row
-🔥 {0} giorni di fila
-
 study streak
 serie di studio
 
@@ -90,9 +84,6 @@ serie di studio
 
 studied today
 studiati oggi
-
-sentences to review
-frasi da ripassare
 
 lessons completed
 lezioni completate
@@ -276,15 +267,6 @@ Il tuo percorso
 
 {0} · {1} of {2} lessons
 {0} · {1} di {2} lezioni
-
-{0} · {1} lessons planned
-{0} · {1} lezioni previste
-
-{0} done · {1} written so far
-{0} fatte · {1} scritte finora
-
-Not written yet
-Non ancora scritto
 
 Study this course
 Studia questo corso
@@ -1282,9 +1264,6 @@ Avanzato
 Mastery
 Padronanza
 
-second-wave lessons to do
-lezioni da riprendere
-
 # Updates
 A new version of Lingua Onde is available: {0}
 È disponibile una nuova versione di Lingua Onde: {0}
@@ -1377,3 +1356,6 @@ Inizia
 
 Your own courses
 I tuoi corsi
+
+All courses →
+Tutti i corsi →

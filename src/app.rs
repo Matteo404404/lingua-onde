@@ -664,19 +664,10 @@ impl App {
             _ => tr("Good evening"),
         };
         ui.add_space(4.0);
-        ui.horizontal(|ui| {
-            ui.vertical(|ui| {
-                ui.spacing_mut().item_spacing.y = 2.0;
-                ui.label(bold(hello).size(28.0));
-                ui.label(muted(trf("{0} · listen, repeat aloud, understand", &[&crate::i18n::long_date(t)])).size(15.0));
-            });
-            ui.with_layout(egui::Layout::right_to_left(egui::Align::Min), |ui| {
-                let streak = self.saved.streak();
-                if streak > 0 {
-                    theme::pill(ui, &plural(streak as usize, "🔥 {0} day in a row", "🔥 {0} days in a row"), WARN(), WARN_SOFT());
-                }
-            });
-        });
+        ui.spacing_mut().item_spacing.y = 2.0;
+        ui.label(bold(hello).size(28.0));
+        ui.label(muted(trf("{0} · listen, repeat aloud, understand", &[&crate::i18n::long_date(t)])).size(15.0));
+        ui.spacing_mut().item_spacing.y = 8.0;
         ui.add_space(12.0);
 
         if let Some(c) = self.courses.get(ci).cloned() {
@@ -687,13 +678,6 @@ impl App {
 
         let minutes = (today_log.seconds / 60.0).floor() as u32;
         let goal = self.saved.daily_goal_min.max(1);
-        // Without the optional sentence review, the tile counts what the method
-        // asks for: lessons of the second wave still to do.
-        let (due_value, due_label) = if self.saved.cards_after_lesson || !self.saved.cards.is_empty() {
-            (due, tr("sentences to review"))
-        } else {
-            (self.wave2_pending(ci).len(), tr("second-wave lessons to do"))
-        };
         let stats = [
             ("🔥", WARN(), WARN_SOFT(), days(self.saved.streak()), tr("study streak"), None),
             (
@@ -704,17 +688,9 @@ impl App {
                 tr("studied today"),
                 Some(minutes as f32 / goal as f32),
             ),
-            (
-                "⟳",
-                Color32::from_rgb(120, 96, 200),
-                theme::soft(Color32::from_rgb(120, 96, 200)),
-                due_value.to_string(),
-                due_label,
-                None,
-            ),
             ("✔", GOOD(), GOOD_SOFT(), total_done.to_string(), tr("lessons completed"), None),
         ];
-        let per_row = if wide { 4 } else { 2 };
+        let per_row = if ui.available_width() >= 560.0 { 3 } else { 1 };
         for row in stats.chunks(per_row) {
             ui.columns(per_row, |cols| {
                 for (col, (icon, fg, bg, value, label, frac)) in cols.iter_mut().zip(row) {
@@ -746,13 +722,11 @@ impl App {
         }
         ui.add_space(6.0);
 
-        if wide {
-            ui.columns(2, |cols| {
-                cols[0].with_layout(egui::Layout::top_down(egui::Align::Min), |ui| self.calendar_card(ui));
-                cols[1].with_layout(egui::Layout::top_down(egui::Align::Min), |ui| self.languages_card(ui));
-            });
-        } else {
-            self.calendar_card(ui);
+        self.calendar_card(ui);
+        let mut langs: Vec<&str> = self.courses.iter().map(|c| c.lang.as_str()).collect();
+        langs.dedup();
+        if langs.len() > 1 {
+            ui.add_space(6.0);
             self.languages_card(ui);
         }
     }
@@ -1071,64 +1045,27 @@ impl App {
 
     /// Progress through the language's three courses and the levels of this one.
     fn path_card(&mut self, ui: &mut egui::Ui, ci: usize, c: &Course, wide: bool) {
-        let base = self.base();
         let current = self.next_lesson(ci).map(|li| c.lessons[li].level);
-        let stages = self.stages_of(&c.lang);
         theme::card().show(ui, |ui| {
             ui.set_width(ui.available_width());
+            let mut all = false;
             ui.horizontal(|ui| {
-                ui.label(bold(tr("Your path")).size(18.0));
-                ui.with_layout(egui::Layout::right_to_left(egui::Align::Center), |ui| {
+                ui.vertical(|ui| {
+                    ui.spacing_mut().item_spacing.y = 0.0;
+                    ui.label(bold(tr("Your path")).size(18.0));
                     ui.label(muted(trf(
                         "{0} · {1} of {2} lessons",
                         &[&self.course_label(ci), &self.done_count(ci), &c.lessons.len()],
                     )));
                 });
-            });
-            ui.add_space(4.0);
-            if c.builtin && stages.len() > 1 {
-                let mut pick = None;
-                ui.columns(stages.len(), |cols| {
-                    for (col, &si) in cols.iter_mut().zip(&stages) {
-                        let sc = &self.courses[si];
-                        let st = sc.stage.unwrap_or(Stage::Foundation);
-                        let here = si == ci;
-                        let done = self.done_count(si);
-                        col.with_layout(egui::Layout::top_down(egui::Align::Min), |ui| {
-                            let r = egui::Frame::new()
-                                .fill(if here { ACCENT_SOFT() } else { Color32::TRANSPARENT })
-                                .stroke(egui::Stroke::new(1.0, if here { ACCENT() } else { LINE() }))
-                                .corner_radius(12)
-                                .inner_margin(10)
-                                .show(ui, |ui| {
-                                    ui.set_width(ui.available_width());
-                                    ui.spacing_mut().item_spacing.y = 3.0;
-                                    ui.label(bold(st.name(&base)).size(16.0));
-                                    ui.label(muted(trf("{0} · {1} lessons planned", &[&st.span(), &st.size()])).size(12.5));
-                                    theme::bar(ui, done as f32 / st.size() as f32, ui.available_width(), ACCENT());
-                                    ui.label(muted(trf("{0} done · {1} written so far", &[&done, &sc.lessons.len()])).size(12.5));
-                                })
-                                .response
-                                .interact(egui::Sense::click())
-                                .on_hover_cursor(egui::CursorIcon::PointingHand)
-                                .on_hover_text(if sc.lessons.is_empty() {
-                                    tr("Not written yet")
-                                } else {
-                                    tr("Study this course")
-                                });
-                            if r.clicked() && !here && !sc.lessons.is_empty() {
-                                pick = Some(si);
-                            }
-                        });
-                    }
+                ui.with_layout(egui::Layout::right_to_left(egui::Align::Center), |ui| {
+                    all = ui.add(theme::ghost(tr("All courses →"))).clicked();
                 });
-                if let Some(si) = pick {
-                    self.saved.active_course = self.courses[si].id.clone();
-                    self.session = None;
-                    self.mark_dirty();
-                }
-                ui.add_space(6.0);
+            });
+            if all {
+                self.go(Screen::Courses);
             }
+            ui.add_space(6.0);
             let levels: Vec<Level> = Level::ALL
                 .into_iter()
                 .filter(|lvl| c.lessons.iter().any(|l| l.level == *lvl))

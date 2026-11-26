@@ -48,7 +48,11 @@ layout, lesson lengths, notes, exercises, revision lessons and second wave.
    editions for that reader: for Italians, Italian spelling with the stressed
    syllable in bold and a few signs explained once (‣ after a long vowel, ë
    for the weak vowel, è for the open e, θ, as in Il Francese senza sforzo
-   and Lo Spagnolo).
+   and Lo Spagnolo). Vietnamese follows Le Vietnamien sans peine instead:
+   each syllable respelled for the reader (for Spanish readers ñ, j, z…)
+   with its tone arrow (→ ✓ ↑ ↓), high tones drawn on the upper row and low
+   ones below, the whole line in lessons 1–14 and none after, since the
+   spelling itself marks every tone.
 4. **Pronunciation observations** (mostly in the early lessons): a few
    "remember" points on the new or tricky sounds of the lesson, compared
    with your language.

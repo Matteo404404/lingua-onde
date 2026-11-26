@@ -202,7 +202,7 @@ impl App {
         ui.add_space(8.0);
         let newcomer = self.needs_intro(ci);
         if newcomer && self.appendix_ui.tab < 2 {
-            theme::tinted(ACCENT_SOFT).show(ui, |ui| {
+            theme::tinted(ACCENT_SOFT()).show(ui, |ui| {
                 ui.set_width(ui.available_width());
                 ui.horizontal_wrapped(|ui| {
                     ui.label(medium(if foundation {
@@ -358,7 +358,7 @@ impl App {
             let (left, mid) = if r_empty(&rows) { (w * 0.55, 0.0) } else { (w * 0.3, w * 0.36) };
             let right = (w - left - mid - 2.0 * gap).max(80.0);
             for (i, (l, r, ls)) in rows.iter().enumerate() {
-                let fill = if i % 2 == 1 { theme::TRACK } else { egui::Color32::TRANSPARENT };
+                let fill = if i % 2 == 1 { theme::TRACK() } else { egui::Color32::TRANSPARENT };
                 egui::Frame::new()
                     .fill(fill)
                     .corner_radius(6)
@@ -386,9 +386,9 @@ impl App {
                                             ui.spacing_mut().item_spacing.x = 4.0;
                                             for &n in chunk {
                                                 let (fg, bg) = if studied(n) {
-                                                    (ACCENT, ACCENT_SOFT)
+                                                    (ACCENT(), ACCENT_SOFT())
                                                 } else {
-                                                    (MUTED, egui::Color32::TRANSPARENT)
+                                                    (MUTED(), egui::Color32::TRANSPARENT)
                                                 };
                                                 theme::pill(ui, &n.to_string(), fg, bg).on_hover_text(trf("Lesson {0} · {1}", &[&n, &title(n)]));
                                             }
@@ -432,7 +432,7 @@ impl App {
                 let done = self.saved.is_done(&c.lesson_key(l.number));
                 let is_next = next == Some(li);
                 let reachable = done || (is_next && !newcomer);
-                let fill = if is_next { ACCENT_SOFT } else { egui::Color32::TRANSPARENT };
+                let fill = if is_next { ACCENT_SOFT() } else { egui::Color32::TRANSPARENT };
                 let r = egui::Frame::new()
                     .fill(fill)
                     .corner_radius(8)
@@ -441,7 +441,7 @@ impl App {
                         ui.set_width(ui.available_width());
                         ui.horizontal(|ui| {
                             let mark = if done { "✔" } else if is_next { "▶" } else { "·" };
-                            ui.label(RichText::new(mark).size(15.0).color(if done || is_next { ACCENT } else { MUTED }));
+                            ui.label(RichText::new(mark).size(15.0).color(if done || is_next { ACCENT() } else { MUTED() }));
                             ui.allocate_ui_with_layout(
                                 egui::vec2(28.0, 20.0),
                                 egui::Layout::right_to_left(egui::Align::Center),
@@ -456,7 +456,7 @@ impl App {
                                 l.title.clone()
                             };
                             let t = bold(title).size(15.5);
-                            ui.label(if reachable { t } else { t.color(MUTED) });
+                            ui.label(if reachable { t } else { t.color(MUTED()) });
                             let translated = l.title_in(&base);
                             if !translated.is_empty() && translated != l.title {
                                 ui.label(muted(translated).size(14.0));

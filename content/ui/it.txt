@@ -13,9 +13,6 @@ Registrazioni collegate a {1}: {0}
 learn by assimilation
 impara per assimilazione
 
-Studying
-Stai studiando
-
 {0} of {1}
 {0} di {1}
 
@@ -25,17 +22,11 @@ Stai studiando
 {0} lessons
 {0} lezioni
 
-🔥 {0} · {1} min today
-🔥 {0} · {1} min oggi
-
 {0} day
 {0} giorno
 
 {0} days
 {0} giorni
-
-⇄ Change course
-⇄ Cambia corso
 
 Change course
 Cambia corso
@@ -47,7 +38,7 @@ Today's lesson
 Lezione di oggi
 
 Review
-Seconda onda
+Ripasso
 
 Courses
 Corsi
@@ -340,35 +331,14 @@ Di più
 Less
 Di meno
 
-Each language has three courses in a row: Foundation (first words to B2, 100 lessons), Perfectionnement (B2 to C1) and Mastery (C1 to C2). Pick one to study, link your own recordings, or start a course for your own material.
-Ogni lingua ha tre corsi in fila: Fondamenti (dalle prime parole al B2, 100 lezioni), Perfezionamento (dal B2 al C1) e Padronanza (dal C1 al C2). Scegline uno da studiare, collega le tue registrazioni o crea un corso per il tuo materiale.
-
-{0} · your material
-{0} · materiale tuo
-
 🔈 Pronunciation
 🔈 Pronuncia
-
-Your lessons
-Le tue lezioni
-
-{0} done
-{0} fatte
-
-being written
-in preparazione
-
-{0} of {1} ready
-{0} di {1} pronte
 
 for now in {0}
 per ora in {0}
 
 coming soon
 in arrivo
-
-More…
-Altro…
 
 🎧  Link my recordings of this course…
 🎧  Collega le mie registrazioni di questo corso…
@@ -384,9 +354,6 @@ Una cartella di file audio col numero della lezione nel nome, ad es. "Lezione 12
 
 More actions
 Altre azioni
-
-New course for your own material:
-Nuovo corso per il tuo materiale:
 
 ＋ Create
 ＋ Crea
@@ -844,8 +811,8 @@ Controlla le risposte
 Try again
 Riprova
 
-The active wave of the method, and a search across every sentence you have met.
-La seconda onda del metodo, e una ricerca in tutte le frasi che hai incontrato.
+The active wave of the method, the sentences of the day, and a search across every sentence you have met.
+La seconda onda del metodo, le frasi del giorno e una ricerca in tutte le frasi che hai incontrato.
 
 Active wave · {0}
 Seconda onda · {0}
@@ -1366,3 +1333,47 @@ Questa copia non è un'app installata: scarica la nuova versione dalla pagina de
 
 the download is incomplete
 il download è incompleto
+
+# Appearance
+Appearance
+Aspetto
+
+Theme
+Tema
+
+Automatic
+Automatico
+
+Light
+Chiaro
+
+Dark
+Scuro
+
+# Courses and the course switcher
+All courses…
+Tutti i corsi…
+
+✔ Complete
+✔ Completato
+
+Continue
+Continua
+
+Each language has three courses, one after the other. Choose the one to study; the others wait where you left them.
+Ogni lingua ha tre corsi, uno dopo l'altro. Scegli quello da studiare: gli altri restano dove li hai lasciati.
+
+Language of the new course:
+Lingua del nuovo corso:
+
+Lessons you write or paste yourself, with your own recordings if you have them.
+Lezioni che scrivi o incolli tu, con le tue registrazioni se le hai.
+
+＋ New course
+＋ Nuovo corso
+
+Start
+Inizia
+
+Your own courses
+I tuoi corsi

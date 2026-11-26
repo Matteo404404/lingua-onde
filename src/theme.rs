@@ -1,30 +1,71 @@
 //! Colours, fonts and the shared widgets (cards, buttons, badges, bars).
 
 use std::sync::Arc;
+use std::sync::atomic::{AtomicBool, Ordering};
 
 use eframe::egui::{
     self, Color32, CornerRadius, FontFamily, FontId, Margin, Response, RichText, Sense, Shadow, Stroke, TextStyle, Ui, vec2,
 };
 
-pub const BG: Color32 = Color32::from_rgb(245, 243, 238);
-pub const CARD: Color32 = Color32::from_rgb(255, 255, 255);
-pub const INK: Color32 = Color32::from_rgb(28, 34, 48);
-pub const MUTED: Color32 = Color32::from_rgb(107, 112, 128);
-pub const LINE: Color32 = Color32::from_rgb(230, 225, 214);
-pub const TRACK: Color32 = Color32::from_rgb(235, 231, 222);
-pub const ACCENT: Color32 = Color32::from_rgb(31, 122, 140);
-pub const ACCENT_DARK: Color32 = Color32::from_rgb(20, 88, 104);
-pub const ACCENT_SOFT: Color32 = Color32::from_rgb(227, 241, 243);
-pub const NAV: Color32 = Color32::from_rgb(23, 34, 53);
-pub const NAV_TEXT: Color32 = Color32::from_rgb(196, 206, 222);
-pub const NAV_MUTED: Color32 = Color32::from_rgb(132, 148, 172);
-pub const WAVE: Color32 = Color32::from_rgb(120, 205, 222);
-pub const GOOD: Color32 = Color32::from_rgb(46, 154, 92);
-pub const GOOD_SOFT: Color32 = Color32::from_rgb(222, 242, 229);
-pub const WARN: Color32 = Color32::from_rgb(212, 138, 30);
-pub const WARN_SOFT: Color32 = Color32::from_rgb(252, 239, 214);
-pub const BAD: Color32 = Color32::from_rgb(200, 70, 60);
-pub const HIGHLIGHT: Color32 = Color32::from_rgb(255, 243, 204);
+
+// Light or dark, chosen each frame from the learner's setting and the system
+// (`set_dark`); every colour below has both.
+static DARK: AtomicBool = AtomicBool::new(false);
+
+pub fn dark() -> bool {
+    DARK.load(Ordering::Relaxed)
+}
+
+macro_rules! palette {
+    ($($(#[$doc:meta])* $name:ident = $light:expr, $dark:expr;)*) => {$(
+        $(#[$doc])*
+        #[allow(non_snake_case)]
+        pub fn $name() -> Color32 {
+            let (r, g, b) = if dark() { $dark } else { $light };
+            Color32::from_rgb(r, g, b)
+        }
+    )*};
+}
+
+palette! {
+    BG = (245, 243, 238), (22, 24, 29);
+    CARD = (255, 255, 255), (33, 36, 43);
+    INK = (28, 34, 48), (232, 234, 240);
+    MUTED = (107, 112, 128), (152, 158, 172);
+    LINE = (230, 225, 214), (52, 56, 66);
+    TRACK = (235, 231, 222), (50, 54, 63);
+    ACCENT = (31, 122, 140), (70, 172, 192);
+    ACCENT_DARK = (20, 88, 104), (24, 98, 116);
+    ACCENT_SOFT = (227, 241, 243), (30, 58, 66);
+    NAV = (23, 34, 53), (17, 19, 24);
+    NAV_TEXT = (196, 206, 222), (196, 206, 222);
+    NAV_MUTED = (132, 148, 172), (132, 148, 172);
+    WAVE = (120, 205, 222), (120, 205, 222);
+    GOOD = (46, 154, 92), (80, 192, 124);
+    GOOD_SOFT = (222, 242, 229), (30, 58, 42);
+    WARN = (212, 138, 30), (234, 168, 66);
+    WARN_SOFT = (252, 239, 214), (66, 50, 26);
+    BAD = (200, 70, 60), (236, 108, 98);
+    HIGHLIGHT = (255, 243, 204), (78, 66, 30);
+    /// Text boxes, so they stand out on cards.
+    FIELD = (246, 244, 239), (26, 28, 34);
+    /// Unchecked boxes, slider rails, quiet buttons' borders.
+    CONTROL = (232, 228, 219), (56, 60, 70);
+    CONTROL_LINE = (214, 208, 196), (72, 77, 88);
+    HOVER = (240, 247, 248), (40, 50, 58);
+    HOVER_FILL = (214, 234, 238), (44, 72, 80);
+    /// The spelled-out pronunciation line.
+    FIGURED = (156, 98, 36), (222, 168, 104);
+    /// Solid fills under white text: buttons, the selected item.
+    FILL = (31, 122, 140), (32, 118, 138);
+    /// Lessons not started yet.
+    PENDING = (190, 186, 176), (92, 96, 106);
+}
+
+/// Switches the palette; returns true when it changed (visuals must follow).
+pub fn set_dark(on: bool) -> bool {
+    DARK.swap(on, Ordering::Relaxed) != on
+}
 
 /// A font that has Chinese characters, from the usual system places.
 fn cjk_font() -> Option<Vec<u8>> {
@@ -104,7 +145,6 @@ pub fn setup(ctx: &egui::Context) {
     }
     ctx.set_fonts(fonts);
 
-    ctx.set_visuals(egui::Visuals::light());
     ctx.all_styles_mut(|style| {
         style.text_styles = [
             (TextStyle::Heading, FontId::new(26.0, bold_family())),
@@ -124,20 +164,30 @@ pub fn setup(ctx: &egui::Context) {
         s.slider_width = 220.0;
         s.slider_rail_height = 6.0;
         s.combo_width = 180.0;
+    });
+    apply_visuals(ctx);
+}
+
+/// The colours of every widget, from the palette; again after a switch
+/// between light and dark.
+pub fn apply_visuals(ctx: &egui::Context) {
+    let base = if dark() { egui::Visuals::dark() } else { egui::Visuals::light() };
+    ctx.all_styles_mut(|style| {
+        style.visuals = base.clone();
         let v = &mut style.visuals;
-        v.panel_fill = BG;
-        v.window_fill = CARD;
-        v.window_stroke = Stroke::new(1.0, LINE);
+        v.panel_fill = BG();
+        v.window_fill = CARD();
+        v.window_stroke = Stroke::new(1.0, LINE());
         v.window_corner_radius = CornerRadius::same(12);
         v.menu_corner_radius = CornerRadius::same(10);
         v.window_shadow = shadow(18, 24);
         v.popup_shadow = shadow(12, 20);
-        // Text boxes must stand out on white cards.
-        v.extreme_bg_color = Color32::from_rgb(246, 244, 239);
-        v.override_text_color = Some(INK);
-        v.selection.bg_fill = ACCENT;
+        // Text boxes must stand out on cards.
+        v.extreme_bg_color = FIELD();
+        v.override_text_color = Some(INK());
+        v.selection.bg_fill = FILL();
         v.selection.stroke = Stroke::new(1.5, Color32::WHITE);
-        v.hyperlink_color = ACCENT;
+        v.hyperlink_color = ACCENT();
         v.slider_trailing_fill = true;
         v.handle_shape = egui::style::HandleShape::Circle;
         v.striped = false;
@@ -153,21 +203,22 @@ pub fn setup(ctx: &egui::Context) {
             w.corner_radius = r;
             w.expansion = 0.0;
         }
-        v.widgets.inactive.weak_bg_fill = CARD;
-        v.widgets.inactive.bg_fill = Color32::from_rgb(232, 228, 219);
-        v.widgets.inactive.bg_stroke = Stroke::new(1.0, Color32::from_rgb(214, 208, 196));
-        v.widgets.inactive.fg_stroke = Stroke::new(1.5, INK);
-        v.widgets.hovered.weak_bg_fill = Color32::from_rgb(240, 247, 248);
-        v.widgets.hovered.bg_fill = Color32::from_rgb(214, 234, 238);
-        v.widgets.hovered.bg_stroke = Stroke::new(1.0, ACCENT);
-        v.widgets.hovered.fg_stroke = Stroke::new(1.5, INK);
-        v.widgets.active.weak_bg_fill = ACCENT_SOFT;
-        v.widgets.active.bg_fill = ACCENT;
-        v.widgets.active.bg_stroke = Stroke::new(1.0, ACCENT_DARK);
-        v.widgets.open.weak_bg_fill = ACCENT_SOFT;
-        v.widgets.noninteractive.bg_stroke = Stroke::new(1.0, LINE);
+        v.widgets.inactive.weak_bg_fill = CARD();
+        v.widgets.inactive.bg_fill = CONTROL();
+        v.widgets.inactive.bg_stroke = Stroke::new(1.0, CONTROL_LINE());
+        v.widgets.inactive.fg_stroke = Stroke::new(1.5, INK());
+        v.widgets.hovered.weak_bg_fill = HOVER();
+        v.widgets.hovered.bg_fill = HOVER_FILL();
+        v.widgets.hovered.bg_stroke = Stroke::new(1.0, ACCENT());
+        v.widgets.hovered.fg_stroke = Stroke::new(1.5, INK());
+        v.widgets.active.weak_bg_fill = ACCENT_SOFT();
+        v.widgets.active.bg_fill = FILL();
+        v.widgets.active.bg_stroke = Stroke::new(1.0, ACCENT_DARK());
+        v.widgets.open.weak_bg_fill = ACCENT_SOFT();
+        v.widgets.noninteractive.bg_stroke = Stroke::new(1.0, LINE());
     });
 }
+
 
 fn shadow(blur: u8, alpha: u8) -> Shadow {
     Shadow {
@@ -189,12 +240,12 @@ pub fn medium(text: impl Into<String>) -> RichText {
 }
 
 pub fn muted(text: impl Into<String>) -> RichText {
-    RichText::new(text.into()).color(MUTED)
+    RichText::new(text.into()).color(MUTED())
 }
 
 /// A small uppercase label above a section or a value.
 pub fn caps(text: &str) -> RichText {
-    medium(text.to_uppercase()).size(11.5).color(MUTED).extra_letter_spacing(0.6)
+    medium(text.to_uppercase()).size(11.5).color(MUTED()).extra_letter_spacing(0.6)
 }
 
 /// The title and one line of explanation at the top of a screen.
@@ -216,8 +267,8 @@ pub fn section(ui: &mut Ui, title: &str) {
 
 pub fn card() -> egui::Frame {
     egui::Frame::new()
-        .fill(CARD)
-        .stroke(Stroke::new(1.0, LINE))
+        .fill(CARD())
+        .stroke(Stroke::new(1.0, LINE()))
         .corner_radius(14)
         .inner_margin(Margin::same(18))
         .shadow(shadow(8, 8))
@@ -262,13 +313,13 @@ pub fn pill(ui: &mut Ui, text: &str, fg: Color32, bg: Color32) -> Response {
         .fill(bg)
         .corner_radius(20)
         .inner_margin(Margin::symmetric(10, 3))
-        .show(ui, |ui| ui.label(medium(text).color(fg).size(13.0)))
+        .show(ui, |ui| ui.label(medium(text).color(on_soft(fg)).size(13.0)))
         .response
 }
 
 pub fn primary(text: impl Into<String>) -> egui::Button<'static> {
     egui::Button::new(medium(text).color(Color32::WHITE))
-        .fill(ACCENT)
+        .fill(FILL())
         .stroke(Stroke::NONE)
         .corner_radius(10)
         .min_size(vec2(0.0, 36.0))
@@ -276,23 +327,23 @@ pub fn primary(text: impl Into<String>) -> egui::Button<'static> {
 
 pub fn big_primary(text: impl Into<String>) -> egui::Button<'static> {
     egui::Button::new(medium(text).color(Color32::WHITE).size(16.5))
-        .fill(ACCENT)
+        .fill(FILL())
         .stroke(Stroke::NONE)
         .corner_radius(12)
         .min_size(vec2(200.0, 46.0))
 }
 
 pub fn secondary(text: impl Into<String>) -> egui::Button<'static> {
-    egui::Button::new(medium(text).color(INK))
-        .fill(CARD)
-        .stroke(Stroke::new(1.0, Color32::from_rgb(214, 208, 196)))
+    egui::Button::new(medium(text).color(INK()))
+        .fill(CARD())
+        .stroke(Stroke::new(1.0, CONTROL_LINE()))
         .corner_radius(10)
         .min_size(vec2(0.0, 36.0))
 }
 
 /// A borderless small button for icons and quiet actions.
 pub fn ghost(text: impl Into<String>) -> egui::Button<'static> {
-    egui::Button::new(RichText::new(text.into()).color(MUTED))
+    egui::Button::new(RichText::new(text.into()).color(MUTED()))
         .fill(Color32::TRANSPARENT)
         .stroke(Stroke::NONE)
         .corner_radius(10)
@@ -329,7 +380,7 @@ pub fn icon_circle(ui: &mut Ui, glyph: &str, fg: Color32, bg: Color32, size: f32
 /// A number in a small circle (sentence and note numbers).
 pub fn number(ui: &mut Ui, n: usize, active: bool) {
     let (rect, _) = ui.allocate_exact_size(vec2(24.0, 24.0), Sense::hover());
-    let (bg, fg) = if active { (ACCENT, Color32::WHITE) } else { (TRACK, MUTED) };
+    let (bg, fg) = if active { (FILL(), Color32::WHITE) } else { (TRACK(), MUTED()) };
     ui.painter().circle_filled(rect.center(), 12.0, bg);
     ui.painter().text(
         rect.center(),
@@ -341,8 +392,27 @@ pub fn number(ui: &mut Ui, n: usize, active: bool) {
 }
 
 /// A bar showing `frac` of `color`.
+/// A language's round badge: its code on its colour.
+pub fn lang_badge(ui: &mut Ui, code: &str, color: Color32, size: f32) -> Response {
+    let (r, resp) = ui.allocate_exact_size(vec2(size, size), Sense::hover());
+    ui.painter().circle_filled(r.center(), size / 2.0, color);
+    ui.painter().text(
+        r.center(),
+        egui::Align2::CENTER_CENTER,
+        code.to_uppercase(),
+        FontId::new(size * 0.34, bold_family()),
+        Color32::WHITE,
+    );
+    resp
+}
+
+/// Text in a coloured label's own colour, kept readable on the dark theme.
+pub fn on_soft(color: Color32) -> Color32 {
+    if dark() { lerp(color, Color32::WHITE, 0.5) } else { color }
+}
+
 pub fn bar(ui: &mut Ui, frac: f32, width: f32, color: Color32) {
-    bar_on(ui, frac, width, color, TRACK);
+    bar_on(ui, frac, width, color, TRACK());
 }
 
 pub fn bar_on(ui: &mut Ui, frac: f32, width: f32, color: Color32, track: Color32) {
@@ -363,7 +433,7 @@ pub fn dot(ui: &mut Ui, color: Color32, r: f32) {
 /// The app's mark: a wave in a rounded square.
 pub fn logo(ui: &mut Ui, size: f32) {
     let (rect, _) = ui.allocate_exact_size(vec2(size, size), Sense::hover());
-    ui.painter().rect_filled(rect, size * 0.28, ACCENT);
+    ui.painter().rect_filled(rect, size * 0.28, ACCENT());
     waves(ui.painter(), rect.shrink(size * 0.18), 2, 0.0, Color32::WHITE, size * 0.075);
 }
 
@@ -503,7 +573,7 @@ pub fn lerp(a: Color32, b: Color32, t: f32) -> Color32 {
     Color32::from_rgb(m(a.r(), b.r()), m(a.g(), b.g()), m(a.b(), b.b()))
 }
 
-/// `color` mixed into white: soft backgrounds for coloured labels.
+/// `color` mixed into the card colour: soft backgrounds for coloured labels.
 pub fn soft(color: Color32) -> Color32 {
-    lerp(color, Color32::WHITE, 0.85)
+    lerp(color, CARD(), if dark() { 0.78 } else { 0.85 })
 }

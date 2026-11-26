@@ -165,24 +165,24 @@ pub fn show_comparison(ui: &mut egui::Ui, c: &Comparison) {
         ui.spacing_mut().item_spacing.x = 5.0;
         match c.verdict {
             Verdict::Right => {
-                ui.label(medium(tr("✔ Right")).color(GOOD));
+                ui.label(medium(tr("✔ Right")).color(GOOD()));
                 return;
             }
-            Verdict::Accents => ui.label(medium(tr("≈ Right, check the accents:")).color(WARN)),
-            Verdict::Wrong => ui.label(medium(tr("Compare:")).color(BAD)),
+            Verdict::Accents => ui.label(medium(tr("≈ Right, check the accents:")).color(WARN())),
+            Verdict::Wrong => ui.label(medium(tr("Compare:")).color(BAD())),
         };
         for (w, mark) in &c.words {
             let t = RichText::new(w).size(16.0);
             ui.label(match mark {
-                Word::Right => t.color(GOOD),
-                Word::Accent => t.color(WARN).underline(),
-                Word::Missing => t.color(BAD).underline(),
+                Word::Right => t.color(GOOD()),
+                Word::Accent => t.color(WARN()).underline(),
+                Word::Missing => t.color(BAD()).underline(),
             });
         }
         if !c.extra.is_empty() {
             ui.label(muted(tr("· you added:")));
             for w in &c.extra {
-                ui.label(RichText::new(w).color(BAD).strikethrough());
+                ui.label(RichText::new(w).color(BAD()).strikethrough());
             }
         }
     })
@@ -333,7 +333,7 @@ impl App {
             ui.set_width(ui.available_width());
             for (i, it) in items.iter().enumerate() {
                 let k = offset + i;
-                let fill = if cur == Some(i) { ACCENT_SOFT } else { egui::Color32::TRANSPARENT };
+                let fill = if cur == Some(i) { ACCENT_SOFT() } else { egui::Color32::TRANSPARENT };
                 egui::Frame::new()
                     .fill(fill)
                     .corner_radius(10)
@@ -367,7 +367,7 @@ impl App {
                                         if target_ready && ui.add(theme::ghost("▶").small()).clicked() {
                                             play = Some(i);
                                         }
-                                        ui.label(bold(it.plain()).size(18.0).color(ACCENT));
+                                        ui.label(bold(it.plain()).size(18.0).color(ACCENT()));
                                     });
                                     self.pron_lines(ui, it);
                                     if !typed.trim().is_empty() {
@@ -419,7 +419,7 @@ impl App {
             ui.set_width(ui.available_width());
             ui.label(caps(tr("The original")));
             let text: Vec<String> = items.iter().map(|i| i.plain()).collect();
-            ui.label(RichText::new(text.join(" ")).size(16.5).color(ACCENT));
+            ui.label(RichText::new(text.join(" ")).size(16.5).color(ACCENT()));
             ui.add_space(6.0);
             ui.label(caps(tr("Check your version")));
             let rubric: Vec<String> = mastery_rubric().iter().map(|s| s.to_string()).collect();
@@ -445,7 +445,7 @@ impl App {
                     }
                     return;
                 }
-                theme::tinted(HIGHLIGHT).show(ui, |ui| {
+                theme::tinted(HIGHLIGHT()).show(ui, |ui| {
                     ui.set_width(ui.available_width());
                     ui.horizontal(|ui| {
                         ui.label(caps(tr("A model answer")));
@@ -453,7 +453,7 @@ impl App {
                             play = Some(i);
                         }
                     });
-                    ui.label(RichText::new(&it.text).size(16.0).color(ACCENT));
+                    ui.label(RichText::new(&it.text).size(16.0).color(ACCENT()));
                     if !it.tr(&base).is_empty() {
                         egui::CollapsingHeader::new(muted(tr("In your language")))
                             .id_salt(("task-tr", i))

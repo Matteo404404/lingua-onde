@@ -161,8 +161,10 @@ the introduction (how to study, the two waves) and, in Foundation, the
 pronunciation key; then the list of lessons; and at the end a grammar summary,
 a grammar index, the words in both directions (Foundation only) and the
 expressions, each with the lessons where they are met. A new learner is taken through the
-introduction before lesson 1 (with a link to skip it). The side bar's
-"Change course" menu switches language or course from any screen. The synthetic voice
+introduction before lesson 1 (with a link to skip it). The course at the
+top of the side bar opens a list of every course, to switch from any screen;
+Courses shows each language's three courses side by side. Light and dark
+follow the system, or Settings, Appearance fixes one. The synthetic voice
 is slower in Foundation's first lessons and reaches the natural pace at lesson
 50, as the books' recordings do (Settings, "Gradual pace"). On a day without
 time, Home offers the last dialogue to listen to and repeat.

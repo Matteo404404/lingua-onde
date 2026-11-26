@@ -140,7 +140,7 @@ impl App {
 
         if !self.editor.msg.is_empty() {
             let ok = !self.editor.msg.starts_with('⚠');
-            ui.label(RichText::new(&self.editor.msg).color(if ok { GOOD } else { BAD }));
+            ui.label(RichText::new(&self.editor.msg).color(if ok { GOOD() } else { BAD() }));
         }
 
         if !self.editor.editing {
@@ -258,7 +258,7 @@ impl App {
                 let lines: Vec<&str> = self.editor.paste_target.lines().map(str::trim).filter(|l| !l.is_empty()).collect();
                 let trs: Vec<&str> = self.editor.paste_tr.lines().map(str::trim).filter(|l| !l.is_empty()).collect();
                 if !trs.is_empty() && trs.len() != lines.len() {
-                    ui.label(RichText::new(trf("⚠ Sentences: {0}, translations: {1}", &[&lines.len(), &trs.len()])).color(BAD));
+                    ui.label(RichText::new(trf("⚠ Sentences: {0}, translations: {1}", &[&lines.len(), &trs.len()])).color(BAD()));
                 }
                 if !lines.is_empty() && ui.add(theme::primary(plural(lines.len(), "Add {0} sentence", "Add {0} sentences"))).clicked() {
                     d.dialogue.retain(|i| !i.text.trim().is_empty());
@@ -299,14 +299,14 @@ impl App {
         let mut save = false;
         let mut cancel = false;
         let mut delete = false;
-        theme::tinted(ACCENT_SOFT).show(ui, |ui| {
+        theme::tinted(ACCENT_SOFT()).show(ui, |ui| {
             ui.set_width(ui.available_width());
             ui.horizontal(|ui| {
                 save = ui.add(theme::big_primary(tr("💾 Save lesson"))).clicked();
                 cancel = ui.add(theme::secondary(tr("Back to the list"))).clicked();
                 if self.editor.lesson.is_some() {
                     if self.editor.confirm_delete {
-                        ui.label(RichText::new(tr("Delete this lesson for good?")).color(BAD));
+                        ui.label(RichText::new(tr("Delete this lesson for good?")).color(BAD()));
                         delete = ui.button(tr("Yes, delete")).clicked();
                         if ui.button(tr("No")).clicked() {
                             self.editor.confirm_delete = false;

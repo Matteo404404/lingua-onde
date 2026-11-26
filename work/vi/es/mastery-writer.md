@@ -8,8 +8,11 @@ Read first, in this order:
    `rubric.es:`, `refs:`).
 3. The plan: work/vi/es/mastery.md (rules at the top, then your week's table).
 4. The model of a Mastery lesson (English for Italians, same format):
-   work/en/mastery/001.txt, 004.txt and 007.txt (a revision). Copy their
-   layout, length and note style, not their content.
+   work/en/mastery/001.txt and 007.txt (a revision), for the layout only.
+   Do not read the other English lessons, and never transpose an English
+   text, joke or image (queues, letters signed "Disgusted of …", English
+   weather, salting roads): the plan gives a Vietnamese subject, and every
+   scene, joke and image comes from Vietnamese life.
 5. The approved lessons of this course written so far (work/vi/es/mastery/),
    all of the previous week. Before Mastery 8 exists, read Perfectionnement
    lessons 36, 46, 47, 48 and 49 (work/vi/es/perfectionnement/) for the note
@@ -131,6 +134,31 @@ Rules:
 - Notes contain no remarks about the lesson itself ("el foco C1", "dato de
   manual", "no inventamos…", "el cierre del plan") and no English words
   ("hedging": write "atenuación").
+- Never calque the English model: write what a Vietnamese writer would
+  write. Register = giọng văn, phong cách (thanh ghi is a CPU register);
+  phatic talk = lời xã giao; "the hard way" = kinh nghiệm xương máu; "a
+  good reference" is not báo cáo tốt; "unavoidably detained" = vì lý do
+  khách quan; the morning greeting is ăn sáng chưa. Spelling and northern
+  forms: xe buýt, đầu gối (gối alone is a pillow), đỗ (not đậu) for passing.
+  More northern forms: ngã (not té), là quần áo (not ủi), muôi / thìa (not
+  muỗng), đá vỉa; in Spanish, trà đá is «té con hielo».
+  Grandparents are ông nội / bà nội (mẹ nội is southern); a wine or spirit
+  glass in a northern home is chén. A sentence must say one clear thing:
+  reread every line for a clause that does not parse.
+- Give a word only a meaning you are sure of (đỏ đắn is a healthy ruddy
+  complexion, not "decent"; đo đỏ changes the tone, not the initial). When
+  unsure, pick another example.
+- Who calls whom what must hold: a nephew or niece calls an aunt dì / cô /
+  bác, never má; a southern daughter-in-law may call her mother-in-law má;
+  northern grandchildren call their grandmother bà (nội alone is southern).
+  Notes never mention "el plan".
+- Every note is in Spanish: Vietnamese words and quotes only as examples,
+  never a Vietnamese sentence that explains. No English words (timing,
+  grey, understatement).
+- Times and logistics hold: a 6:40 train does not make someone miss a 9:00
+  interview unless the text says why.
+- Administrative names change (Hanoi's wards were merged in 2025): name an
+  office generically (Ủy ban nhân dân phường) unless the text needs more.
 - Model answers in tasks are good, natural Vietnamese of the asked length
   and register, not a copy of the text, and they meet their own rubric.
 

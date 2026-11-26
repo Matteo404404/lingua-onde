@@ -31,9 +31,10 @@ for f in files:
     for w in P.words(lesson["dialogue"]):
         if n not in forms[w]:
             forms[w].append(n)
-    if "kind: revision" in text and "notes.it:" in text:
-        notes = text.split("notes.it:", 1)[1]
-        for m in re.finditer(r"(?m)^(\d+)\. (.+?)\((lezion[ei] [^)]*)\)", notes):
+    notes_key = re.search(r"(?m)^notes\.(it|es):", text)  # Italian or Spanish base
+    if "kind: revision" in text and notes_key:
+        notes = text[notes_key.end():]
+        for m in re.finditer(r"(?m)^(\d+)\. (.+?)\(((?:lezion[ei]|lecci[oó]n(?:es)?) [^)]*)\)", notes):
             nums = [int(x) for x in re.findall(r"\d+", m.group(3))]
             sections.append((m.group(2).strip(" ."), n, nums))
 

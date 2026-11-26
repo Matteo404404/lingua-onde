@@ -1,3 +1,2089 @@
 course: vi
 stage: perfectionnement
 bases: es
+
+== 46 C1
+numeral: Bài thứ bốn mươi sáu
+title: Họp tổ dân phố
+title.es: Reunión del grupo de vecinos
+
+dialogue:
+- Tối thứ năm, tổ dân phố họp dưới mái hiên nhà ông tổ trưởng; ghế nhựa xếp vòng, sổ ghi biên bản mở sẵn.
+  es: El jueves por la noche, el grupo de vecinos se reunió bajo el porche del jefe de grupo; sillas de plástico en corro, el cuaderno del acta ya abierto.
+- Ông tổ trưởng ho khan, đứng dậy: «Kính thưa các cụ, các ông, các bà. Xin phép mở cuộc họp.»
+  es: El jefe carraspeó y se levantó: «Con el debido respeto, mayores, señores y señoras. Con su permiso, abrimos la reunión.»
+- «Thứ nhất: việc thu gom rác. Thứ hai: tiếng chó sủa đêm. Thứ ba: karaoke sau mười giờ.»
+  es: «Primero: la recogida de basura. Segundo: el ladrido del perro por la noche. Tercero: el karaoke después de las diez.»
+- Bà cụ ngồi ghế đầu gật: «Tôi đồng ý bàn theo thứ tự ấy.» Giọng chậm, rõ từng chữ.
+  es: La señora mayor de la primera silla asintió: «Estoy de acuerdo en tratarlo en ese orden.» Voz lenta, cada sílaba clara.
+- Ông Hạnh, hàng xóm tầng hai, mở sổ tay: «Về rác, tôi đề nghị để thùng đúng giờ bảy giờ sáng, không để qua trưa.»
+  es: El señor Hạnh, vecino del segundo piso, abrió la libreta: «Sobre la basura, propongo sacar el cubo a las siete en punto, no dejarlo pasado el mediodía.»
+- Một anh trẻ cuối dãy xen vào: «Dạ, nhưng bảy giờ cháu còn ngủ. Để tám giờ cũng được chứ ạ?»
+  es: Un joven del fondo se metió: «Sí, pero a las siete yo aún duermo. ¿Las ocho también valdrían, no?»
+- Ông tổ trưởng nhìn anh ấy: «Ý kiến của cháu được ghi nhận. Chúng ta sẽ thống nhất sau.»
+  es: El jefe lo miró: «Tu opinión queda anotada. Nos pondremos de acuerdo después.»
+- Bà cụ lại nói: «Chó nhà bên cạnh sủa từ nửa đêm. Người già mất ngủ thì khổ lắm.»
+  es: La señora mayor volvió a hablar: «El perro de al lado ladra desde medianoche. Para un mayor, no dormir es muy duro.»
+- Chủ chó, ông Minh, ngồi thẳng: «Xin lỗi các bác. Tôi sẽ để chó vào trong sau mười giờ.»
+  es: El dueño del perro, el señor Minh, se enderezó: «Perdón. Meteré el perro dentro después de las diez.»
+- Ông Hạnh ghi nhanh: «Đề nghị ấy hợp lý. Tôi tán thành.»
+  es: El señor Hạnh anotó de prisa: «Esa propuesta es razonable. Yo la apoyo.»
+- Đến mục karaoke, cả tổ im một nhịp. Ai cũng nhìn sang phía loa vẫn còn ấm trên tường.
+  es: Al llegar al karaoke, el grupo entero calló un instante. Todos miraron hacia el altavoz que aún estaba caliente en la pared.
+- Anh trẻ bảo thẳng: «Hát sau mười giờ thì hàng xóm không chịu nổi. Tắt đi là xong.»
+  es: El joven dijo sin rodeos: «Si se canta después de las diez, el vecindario no lo aguanta. Apagarlo y listo.»
+- Ông tổ trưởng gật chậm: «Tóm lại, tổ đề nghị không hát sau mười giờ. Có ý kiến gì thêm không?»
+  es: El jefe asintió despacio: «En resumen, el grupo propone no cantar después de las diez. ¿Alguna opinión más?»
+- Bà cụ đáp: «Không có. Thống nhất như vậy là được.»
+  es: La señora mayor contestó: «Ninguna. Ponerse de acuerdo así vale.»
+- Ông Hạnh đọc lại biên bản; mọi người gật. Cuộc họp gần xong.
+  es: El señor Hạnh leyó el acta; todos asentían. La reunión casi terminaba.
+- Ông tổ trưởng mỉm cười, định kết luận, thì điện thoại trong túi ông rung; màn hình hiện tin nhắn của vợ: «Ông về hát tiếp đi, đến lượt ông rồi.»
+  es: El jefe sonrió, a punto de concluir, cuando el teléfono del bolsillo vibró; en la pantalla, un mensaje de su mujer: «Vuelve a cantar, que te toca.»
+- Anh trẻ nhìn màn hình, rồi nhìn loa trên tường nhà tổ trưởng, khẽ hỏi: «Thế tối nay… hát nhà ai?»
+  es: El joven miró la pantalla, luego el altavoz en la pared de la casa del jefe, y preguntó bajito: «Entonces esta noche… ¿se canta en casa de quién?»
+- Ông tổ trưởng ho khan lần nữa, nhỏ hơn lần đầu: «À… nhà tôi. Nhưng sau mười giờ nhất định tắt.»
+  es: El jefe carraspeó otra vez, más bajo que la primera: «Ah… en la mía. Pero después de las diez, apagado sin falta.»
+
+notes.es:
+1. Tổ dân phố … biên bản: tổ dân phố = el grupo de vecinos / la célula de barrio (unidad administrativa de base). Tổ trưởng = el jefe de ese grupo. Biên bản = el acta. Mái hiên = el porche. La lección 2 ya anunció esta reunión.
+2. «Kính thưa các cụ, các ông, các bà.»: kính thưa = fórmula de apertura respetuosa ante un auditorio (más solemne que thưa solo, lección 3). Các cụ = los mayores de más edad; các ông, các bà = señores y señoras. Xin phép mở cuộc họp = con su permiso, abrimos la reunión.
+3. Thứ nhất … thứ hai … thứ ba: thứ + número ordinaliza los puntos del orden del día (como en Bài thứ nhất, el título de cada lección). En reunión, no es «chuyện thứ nhất» de chiste (lección 41): es el índice oficial.
+4. «Tôi đồng ý bàn theo thứ tự ấy.»: đồng ý = estar de acuerdo. Bàn = tratar / discutir. Thứ tự = el orden. La bà cụ habla despacio, registro de mayor: corto, claro, sin jerga de oficina.
+5. «Tôi đề nghị…»: đề nghị = proponer / sugerir (registro de reunión y de escrito). Để thùng đúng giờ = sacar el cubo a la hora justa. Ông Hạnh suena a acta: abre libreta, propone, más tarde tán thành.
+6. «Dạ, nhưng… Để tám giờ cũng được chứ ạ?»: el joven contesta con dạ y se llama cháu ante los mayores, pero baja el registro: ni kính thưa ni đề nghị; habla de su sueño. Chứ ạ al final pide confirmación con respeto (chứ, Fundamentos, lección 81).
+7. «Ý kiến của cháu được ghi nhận. Chúng ta sẽ thống nhất sau.»: ý kiến = la opinión. Được ghi nhận = queda anotada / tomada en cuenta (fórmula que aparca sin pelear). Thống nhất (lección 10) = ponerse de acuerdo / unificar el criterio. El tổ trưởng habla «de reunión»: neutro, cortés, sin ceder del todo.
+8. Chó sủa … mất ngủ: sủa = ladrar. Mất ngủ = no poder dormir. Khổ lắm = es muy duro. La bà cụ vuelve al concreto del cuerpo, no al acta.
+9. «Xin lỗi các bác. Tôi sẽ để chó vào trong…»: xin lỗi = perdón. Các bác: Minh se pone por debajo de la edad del corro. Registro de disculpa directa, sin đề nghị.
+10. «Đề nghị ấy hợp lý. Tôi tán thành.»: hợp lý = razonable. Tán thành = apoyar / suscribir. Otra voz de acta: Hạnh traduce la disculpa en decisión.
+11. Im một nhịp … loa vẫn còn ấm: el silencio es el gag en preparación. Loa = el altavoz. Ấm = aún caliente: alguien ha cantado hace poco.
+12. «Hát sau mười giờ… Tắt đi là xong.»: el joven otra vez: solución en una línea, sin tóm lại. Không chịu nổi = no aguantarlo.
+13. «Tóm lại, tổ đề nghị… Có ý kiến gì thêm không?»: tóm lại = en resumen / en conclusión. Es la fórmula que cierra el punto: resume y pregunta si hay más ý kiến. Tổ đề nghị = el grupo propone (sujeto colectivo del acta).
+14. «Thống nhất như vậy là được.»: thống nhất vuelve. Là được = con eso basta / vale. La bà cụ cierra el punto sin añadir nada.
+15. «Ông về hát tiếp đi, đến lượt ông rồi.»: hát tiếp = seguir cantando; đến lượt = tocarle a uno (el turno). El mensaje de su mujer traiciona el orden del día. Nhà tôi en la última línea deshace la premisa: quien presidía el «no karaoke» era la fuente del karaoke.
+
+ex1:
+- Tổ trưởng nói kính thưa các cụ, các ông, các bà rồi mở họp.
+  es: El jefe dijo «con el debido respeto, mayores, señores y señoras» y abrió la reunión.
+- Thứ nhất bàn việc rác; thứ hai bàn tiếng chó sủa.
+  es: Primero se trata la basura; segundo, el ladrido del perro.
+- Ông ấy đề nghị để thùng rác đúng bảy giờ sáng.
+  es: Él propone sacar el cubo de basura a las siete en punto.
+- Tóm lại, tổ thống nhất không hát karaoke sau mười giờ.
+  es: En resumen, el grupo acuerda no cantar karaoke después de las diez.
+- Ý kiến của anh ấy được ghi nhận trong biên bản.
+  es: Su opinión queda anotada en el acta.
+
+ex2:
+- [Kính thưa] các cụ, các ông, các bà.
+  es: Con el debido respeto, mayores, señores y señoras.
+- [Thứ nhất] bàn rác; [thứ hai] bàn chó sủa.
+  es: Primero se trata la basura; segundo, el ladrido del perro.
+- Tôi [đề nghị] tắt karaoke sau mười giờ.
+  es: Propongo apagar el karaoke después de las diez.
+- [Tóm lại], tổ đã nghe đủ ý kiến.
+  es: En resumen, el grupo ya ha oído bastantes opiniones.
+- Chúng ta cần [thống nhất] trước khi kết thúc.
+  es: Hay que ponerse de acuerdo antes de terminar.
+
+== 47 C1
+numeral: Bài thứ bốn mươi bảy
+title: Đơn kiến nghị (1)
+title.es: Escrito de petición (1)
+
+dialogue:
+- Cộng hòa xã hội chủ nghĩa Việt Nam
+  es: República Socialista de Vietnam
+- Độc lập – Tự do – Hạnh phúc
+  es: Independencia – Libertad – Felicidad
+- Hà Nội, ngày mười hai tháng ba năm hai nghìn không trăm hai mươi tư
+  es: Hanói, doce de marzo de dos mil veinticuatro
+- Kính gửi: Ủy ban nhân dân phường Hàng Bông, quận Hoàn Kiếm, thành phố Hà Nội
+  es: A la atención de: Comité Popular del barrio Hàng Bông, distrito Hoàn Kiếm, ciudad de Hanói
+- V/v: Kiến nghị về tiếng ồn công trình xây dựng ban đêm
+  es: Asunto: Petición sobre el ruido de una obra de construcción por la noche
+- Tôi tên là Nguyễn Thị Mai, sinh năm một nghìn chín trăm năm mươi tư, thường trú tại số mười tám ngõ Tư Hồ, phường Hàng Bông.
+  es: Me llamo Nguyễn Thị Mai, nacida en mil novecientos cincuenta y cuatro, con residencia habitual en el número dieciocho del callejón Tư Hồ, barrio Hàng Bông.
+- Tôi là giáo viên đã nghỉ hưu; viết đơn này với tinh thần xây dựng và tôn trọng pháp luật.
+  es: Soy maestra jubilada; redacto este escrito con espíritu constructivo y respeto a la ley.
+- Từ đầu tháng ba, công trình phía sau nhà tôi thi công đến gần nửa đêm: máy khoan, búa máy và tiếng hét của công nhân làm cả ngõ mất ngủ.
+  es: Desde principios de marzo, la obra detrás de mi casa trabaja casi hasta medianoche: taladro, martillo neumático y gritos de los obreros quitan el sueño a todo el callejón.
+- Căn cứ quy định về giờ thi công và quyền được nghỉ ngơi của người dân, tôi xét thấy việc làm trên đã ảnh hưởng nghiêm trọng đến đời sống.
+  es: Con arreglo a las normas sobre horario de obra y al derecho de los vecinos al descanso, considero que lo anterior ha afectado gravemente a la vida cotidiana.
+- Tôi đề nghị Ủy ban nhân dân phường kiểm tra, yêu cầu đơn vị thi công chỉ làm việc trong khung giờ cho phép.
+  es: Solicito que el Comité Popular del barrio inspeccione y exija a la unidad constructora que trabaje solo en el horario permitido.
+- Kính mong quý cơ quan sớm xem xét và có biện pháp xử lý thỏa đáng.
+  es: Ruego a ese organismo que examine el asunto cuanto antes y tome las medidas oportunas.
+- Nếu cần, tôi sẵn sàng cung cấp thêm thời gian cụ thể và danh sách hộ dân cùng kiến nghị.
+  es: Si hace falta, estoy dispuesta a aportar horas concretas y la lista de hogares que se suman a la petición.
+- Xin trân trọng cảm ơn.
+  es: Con mi más respetuoso agradecimiento.
+- Người làm đơn
+  es: La solicitante
+- Nguyễn Thị Mai
+  es: Nguyễn Thị Mai
+- (Đã từng dạy văn hơn ba mươi năm; vẫn còn biết phân biệt đâu là lịch sự, đâu là mất ngủ.)
+  es: (Enseñó literatura más de treinta años; aún sabe distinguir dónde está la cortesía y dónde la falta de sueño.)
+
+notes.es:
+1. Cộng hòa xã hội chủ nghĩa Việt Nam: encabezado nacional de todo escrito administrativo. No es adorno: sin él, el đơn no «entra» en el registro de oficina.
+2. Độc lập – Tự do – Hạnh phúc: la segunda línea fija del membrete (Independencia – Libertad – Felicidad). Va centrada bajo el nombre del Estado en cartas y đơn.
+3. Hà Nội, ngày … tháng … năm …: lugar y fecha al estilo administrativo. Năm hai nghìn không trăm hai mươi tư = 2024 (không trăm marca el cero de las centenas en el año).
+4. Kính gửi: … (Fundamentos, lección 89): apertura formal «a la atención de». Ủy ban nhân dân phường = el Comité Popular del barrio (el «ayuntamiento» de la unidad phường). Phường Hàng Bông, quận Hoàn Kiếm: la dirección tal como era en 2024, la fecha de la carta.
+5. V/v: viết tắt của «về việc» = asunto / referente a. Kiến nghị = petición / moción formal. Đơn kiến nghị = el escrito de petición. Tiếng ồn = el ruido. Công trình xây dựng = la obra.
+6. Tôi tên là … thường trú tại: el bloque de identificación del escrito: nombre, año de nacimiento, dirección. Thường trú = residencia habitual (empadronamiento). Ngõ = el callejón.
+7. Giáo viên đã nghỉ hưu … tinh thần xây dựng: nghỉ hưu = estar jubilada. Tinh thần xây dựng = espíritu constructivo (cliché administrativo; aquí también ironía suave: xây dựng es lo que la obra hace, y lo que ella promete en el tono). Tôn trọng pháp luật = respeto a la ley.
+8. Thi công … máy khoan, búa máy: thi công = ejecutar la obra / construir en obra. Máy khoan = el taladro. Búa máy = el martillo neumático. Mất ngủ (lección 46). Los hechos van en prosa fría; la furia está en la lista de ruidos.
+9. Căn cứ … tôi xét thấy: căn cứ + nombre = con arreglo a / basándose en. Quy định = la normativa. Ảnh hưởng nghiêm trọng = afectar gravemente. Căn cứ abre el tramo «jurídico» del đơn; xét thấy = considerar / estimar.
+10. Tôi đề nghị … đơn vị thi công: đề nghị (lección 46) = solicitar / proponer en registro escrito. Đơn vị thi công = la unidad / empresa que ejecuta la obra. Khung giờ cho phép = la franja horaria permitida. Kiểm tra, yêu cầu: dos verbos de petición concreta.
+11. Kính mong quý cơ quan … biện pháp xử lý thỏa đáng: kính mong = ruego respetuosamente que. Quý cơ quan = ese / su organismo (tratamiento de la administración). Xem xét = examinar. Biện pháp xử lý = medidas de actuación. Thỏa đáng = oportuno / adecuado. Fórmula de cierre del ruego.
+12. Cung cấp thêm … cùng kiến nghị: cung cấp = aportar / facilitar. Hộ dân = el hogar / la unidad familiar. Cùng kiến nghị = que se suman a la petición. La maestra deja ver que no está sola, sin alzar la voz.
+13. Xin trân trọng cảm ơn / Trân trọng (Fundamentos, lección 89): cierre cortés. Xin trân trọng cảm ơn es un peldaño más completo que Trân trọng solo.
+14. Người làm đơn: «la persona que hace el escrito» / la solicitante. Firma con nombre completo debajo.
+15. Đã từng dạy văn … lịch sự / mất ngủ: aside del narrador tras la firma. El gag: bajo el membrete impecable, la maestra aún califica con dos columnas: cortesía y sueño. La furia no grita; corrige.
+
+ex1:
+- Bà ấy gửi đơn kiến nghị lên Ủy ban nhân dân phường.
+  es: Ella envía un escrito de petición al Comité Popular del barrio.
+- V/v: kiến nghị về tiếng ồn công trình ban đêm.
+  es: Asunto: petición sobre el ruido de la obra por la noche.
+- Căn cứ quy định về giờ thi công, tôi đề nghị kiểm tra đơn vị thi công.
+  es: Con arreglo a las normas de horario de obra, solicito que se inspeccione a la unidad constructora.
+- Kính mong quý cơ quan sớm xem xét và xử lý thỏa đáng.
+  es: Ruego a ese organismo que examine el asunto cuanto antes y actúe de forma adecuada.
+- Cuối đơn bà viết xin trân trọng cảm ơn rồi ký tên.
+  es: Al final del escrito ella pone «quedo muy agradecida» y firma.
+
+ex2:
+- [Kính gửi]: Ủy ban nhân dân phường.
+  es: A la atención de: Comité Popular del barrio.
+- [V/v]: kiến nghị về tiếng ồn ban đêm.
+  es: Asunto: petición sobre el ruido nocturno.
+- [Căn cứ] quy định hiện hành, tôi viết đơn này.
+  es: Con arreglo a la normativa vigente, redacto este escrito.
+- Tôi [đề nghị] đơn vị thi công làm đúng khung giờ.
+  es: Solicito que la unidad constructora respete la franja horaria.
+- [Kính mong] quý cơ quan sớm [xem xét].
+  es: Ruego a ese organismo que lo examine cuanto antes.
+
+== 48 C1
+numeral: Bài thứ bốn mươi tám
+title: Thư trả lời (2)
+title.es: Carta de respuesta (2)
+
+dialogue:
+- Cộng hòa xã hội chủ nghĩa Việt Nam
+  es: República Socialista de Vietnam
+- Độc lập – Tự do – Hạnh phúc
+  es: Independencia – Libertad – Felicidad
+- Ủy ban nhân dân phường Hàng Bông
+  es: Comité Popular del barrio Hàng Bông
+- Hà Nội, ngày hai mươi tháng ba năm hai nghìn không trăm hai mươi tư
+  es: Hanói, veinte de marzo de dos mil veinticuatro
+- Kính gửi: bà Nguyễn Thị Mai
+  es: A la atención de: Sra. Nguyễn Thị Mai
+- V/v: Trả lời đơn kiến nghị về tiếng ồn công trình xây dựng ban đêm
+  es: Asunto: Respuesta al escrito de petición sobre el ruido de la obra por la noche
+- Phường đã tiếp nhận đơn kiến nghị của bà đề ngày mười hai tháng ba năm hai nghìn không trăm hai mươi tư.
+  es: El barrio ha recibido el escrito de petición de usted, con fecha doce de marzo de dos mil veinticuatro.
+- Sau khi xem xét nội dung phản ánh, phường có ý kiến trả lời như sau.
+  es: Tras examinar el contenido de lo expuesto, el barrio formula la siguiente respuesta.
+- Công trình phía sau nhà bà hiện do đơn vị thi công được phép triển khai theo kế hoạch cải tạo trụ sở.
+  es: La obra detrás de su casa la ejecuta en este momento una unidad constructora autorizada, conforme al plan de reforma de la sede.
+- Việc thi công về đêm đã được nhắc nhở; đơn vị thi công phải chấp hành khung giờ theo quy định.
+  es: El trabajo nocturno ya ha sido objeto de apercibimiento; la unidad constructora debe cumplir la franja horaria según la normativa.
+- Phường sẽ phối hợp với các bên liên quan để giảm thiểu ảnh hưởng đến người dân xung quanh.
+  es: El barrio coordinará con las partes implicadas para reducir al mínimo las molestias a los vecinos del entorno.
+- Phường sẽ tiếp tục theo dõi và giải quyết theo quy định đối với các trường hợp phát sinh.
+  es: El barrio seguirá supervisando y resolverá conforme a la normativa los casos que surjan.
+- Tiếng ồn phát sinh từ công trình được tạo ra do máy móc và tiến độ gấp; người dân cần thông cảm trong thời gian ngắn.
+  es: El ruido de la obra lo producen las máquinas y un plazo apretado; se pide a los vecinos comprensión durante un tiempo breve.
+- Mọi kiến nghị thêm xin gửi về bộ phận tiếp dân của phường trong giờ hành chính.
+  es: Cualquier petición adicional, sírvanse enviarla a la sección de atención ciudadana del barrio en horario de oficina.
+- Xin trân trọng cảm ơn sự phối hợp của bà.
+  es: Agradecemos cordialmente su colaboración.
+- Nơi nhận: bà Nguyễn Thị Mai; lưu hồ sơ.
+  es: Destinatario: Sra. Nguyễn Thị Mai; archivo del expediente.
+- (Ghi chú cuối trang, chữ nhỏ: công trình nêu trên là trụ sở mới của chính Ủy ban nhân dân phường.)
+  es: (Nota al pie, en letra pequeña: la obra citada es la nueva sede del propio Comité Popular del barrio.)
+
+notes.es:
+1. Encabezado idéntico al đơn (lección 47): Cộng hòa… / Độc lập – Tự do – Hạnh phúc. La respuesta administrativa se viste igual que la petición.
+2. Ủy ban nhân dân phường Hàng Bông: el remitente ya no es la ciudadana; es el phường. Misma dirección de la carta de la lección 47.
+3. Kính gửi: bà Nguyễn Thị Mai (Fundamentos, lección 89): la apertura vuelve, ahora hacia la solicitante. Bà = tratamiento respetuoso en escrito (mujer mayor / respetable).
+4. V/v: Trả lời đơn kiến nghị…: trả lời = responder. El asunto nombra el đơn de la lección 47; las dos cartas se leen en pareja.
+5. Đã tiếp nhận đơn … đề ngày …: tiếp nhận = recibir / admitir a trámite (oficialese). Đề ngày = con fecha. La primera frase del cuerpo solo confirma: el escrito ya está registrado.
+6. Sau khi xem xét nội dung phản ánh: xem xét (lección 47) = examinar. Nội dung phản ánh = el contenido de lo expuesto (phản ánh, Fundamentos, lección 89). Có ý kiến trả lời như sau = formula la siguiente respuesta: cliché de apertura del dictamen.
+7. Hiện do đơn vị thi công được phép …: do + agente = por / a cargo de (pasiva formal: «es ejecutada por»). Được phép = autorizada. Triển khai (lección 10) = desplegar / poner en marcha. Kế hoạch cải tạo trụ sở = el plan de reforma de la sede. Trụ sở = la sede / el edificio oficial.
+8. Đã được nhắc nhở … chấp hành … theo quy định: được + verbo (pasiva). Nhắc nhở = apercibir / recordar la norma. Chấp hành = cumplir / acatar. Theo quy định = conforme a la normativa: muletilla del oficialese (vuelve en la frase siguiente).
+9. Tiếp tục theo dõi và giải quyết theo quy định: theo dõi = supervisar / hacer seguimiento. Giải quyết = resolver. Đối với các trường hợp phát sinh = respecto de los casos que surjan. Promete proceso, no fecha.
+10. Được tạo ra do máy móc…: được … do = ser producido por (pasiva formal con do). Tiến độ gấp = plazo apretado. Thông cảm = comprender / tener paciencia. Thời gian ngắn = un tiempo breve: consuelo administrativo.
+11. Bộ phận tiếp dân … giờ hành chính: bộ phận tiếp dân = la sección de atención ciudadana. Giờ hành chính = horario de oficina. Toda queja nueva vuelve a la cola.
+12. Xin trân trọng cảm ơn sự phối hợp: phối hợp = colaboración / coordinación. Cierre simétrico al xin trân trọng cảm ơn del đơn.
+13. Nơi nhận … lưu hồ sơ: nơi nhận = destinatarios / distribución. Lưu hồ sơ = archivar el expediente. Fórmula final de despacho.
+14. Được … bởi / do: en registro formal, la pasiva con được (o bị) añade do / bởi ante el agente: được tạo ra do máy móc; công trình … do đơn vị thi công…. Bởi se oye también; do es muy frecuente en escrito administrativo.
+15. Ghi chú cuối trang … trụ sở mới của chính Ủy ban: el gag. Quien «xem xét giải quyết theo quy định» es, a la vez, dueño de la obra. La letra pequeña deshace la premisa de juez imparcial.
+
+ex1:
+- Phường đã tiếp nhận đơn kiến nghị của bà.
+  es: El barrio ha recibido el escrito de petición de usted.
+- Sau khi xem xét, phường sẽ giải quyết theo quy định.
+  es: Tras examinarlo, el barrio resolverá conforme a la normativa.
+- Công trình được thi công bởi đơn vị được phép.
+  es: La obra es ejecutada por una unidad autorizada.
+- Tiếng ồn được tạo ra do máy móc trên công trình.
+  es: El ruido lo producen las máquinas de la obra.
+- Mọi kiến nghị thêm xin gửi trong giờ hành chính.
+  es: Cualquier petición adicional, envíenla en horario de oficina.
+
+ex2:
+- Phường đã [tiếp nhận] đơn của bà.
+  es: El barrio ha recibido el escrito de usted.
+- Việc này sẽ được [giải quyết] [theo quy định].
+  es: Este asunto se resolverá conforme a la normativa.
+- Công trình do đơn vị thi công [được phép] triển khai.
+  es: La obra la pone en marcha una unidad constructora autorizada.
+- Phường sẽ [theo dõi] và giải quyết tiếp.
+  es: El barrio seguirá supervisando y resolviendo.
+- Xin gửi kiến nghị trong [giờ hành chính].
+  es: Envíen la petición en horario de oficina.
+
+== 49 C1
+kind: revision
+numeral: Bài thứ bốn mươi chín
+title: Ôn tập
+title.es: Repaso
+
+notes.es:
+La séptima semana cierra el B2 y abre el C1: Đà Lạt, la leyenda del bánh chưng, la familia de làm, la reunión del tổ dân phố y el par de cartas al phường. Como en las lecciones 7, 14, 21, 28, 35 y 42, aquí no hay nada que memorizar: las tablas ordenan lo que leíste del 43 al 48. Si căn cứ aún te suena solo a «base», o si làm cho y khiến se te mezclan, sigue adelante: vuelven. Lee las tablas una vez y haz los diez ejercicios del final.
+
+1. Cartas formales (lecciones 47 y 48). El đơn y la thư trả lời se visten igual; cambia el remitente y el golpe final.
+
+| Parte | Qué va | Ejemplo |
+|---|---|---|
+| membrete | Cộng hòa… / Độc lập – Tự do – Hạnh phúc | las dos primeras líneas |
+| lugar y fecha | Hà Nội, ngày … tháng … năm … | debajo del membrete |
+| apertura | Kính gửi: … | Ủy ban… / bà Nguyễn Thị Mai |
+| asunto | V/v: … | kiến nghị / trả lời đơn kiến nghị |
+| cuerpo | hechos + căn cứ + đề nghị / xem xét | tiếng ồn; tiếp nhận; theo quy định |
+| cierre | Xin trân trọng cảm ơn / Trân trọng | antes de la firma |
+| firma | Người làm đơn + nombre | Nguyễn Thị Mai |
+
+Căn cứ abre el tramo «con arreglo a»; kính mong y đề nghị piden; tiếp nhận, xem xét, giải quyết theo quy định contestan. El gag del par: quien resuelve «theo quy định» construye, a la vez, su propia sede.
+
+2. Làm y los causativos (lección 45) (lección 19). Un verbo, muchos oficios; hacer que alguien… se dice de más de un modo.
+
+| Forma | Sentido | Ejemplo |
+|---|---|---|
+| làm việc | trabajar | đi làm việc đúng giờ |
+| làm dâu | vivir / ejercer de nuera | học làm dâu; «Làm dâu.» |
+| làm ơn | por favor | làm ơn cho bác hỏi |
+| làm quen | conocer / entablar trato | ra cửa làm quen |
+| làm ăn | ganarse la vida / hacer negocio | làm ăn buôn nhỏ |
+| làm giàu | enriquecerse | làm giàu nhanh nhé |
+| làm mưa làm gió | mandar / imponer su ley | làm mưa làm gió trong ngõ |
+| làm bộ | darse tono | hơi làm bộ |
+| làm khách | portarse como invitado | đừng làm khách nữa |
+| làm nũng | hacer mimitos | Lan làm nũng với chồng |
+| làm phiền | molestar | có làm phiền mẹ không? |
+| làm chủ | mandar / tener el control | mẹ vẫn làm chủ |
+| làm cho + alguien + V/Adj | hacer que (acción deliberada) | làm cho Lan dịu lại |
+| khiến + … | hacer que / provocar que (resultado) | mưa khiến đường ùn tắc (lección 19) |
+| gây ra | provocar / causar (a menudo un daño) | gây ra tiếng ồn |
+
+Làm + complemento + adjetivo (làm em xấu hổ) es el hermano corto de làm cho. Khiến encadena un resultado; gây ra nombra la causa de un mal. El gag de la lección 45: «Em làm gì đấy?» / «Làm dâu.»
+
+3. Fórmulas de reunión (lección 46). Quien preside habla de acta; quien es joven habla de sueño; el karaoke decide al final.
+
+| Forma | Matiz | Ejemplo |
+|---|---|---|
+| Kính thưa các cụ, các ông, các bà | apertura solemne del corro | primera línea del tổ trưởng |
+| thứ nhất / thứ hai / thứ ba | puntos del orden del día | thứ nhất: việc thu gom rác |
+| đề nghị | proponer en registro de reunión | tôi đề nghị để thùng đúng giờ |
+| ý kiến | la opinión | ý kiến được ghi nhận |
+| thống nhất | ponerse de acuerdo | thống nhất như vậy là được |
+| tóm lại | en resumen | tóm lại, tổ đề nghị không hát sau mười giờ |
+| tán thành | apoyar / suscribir | tôi tán thành |
+
+Đề nghị y thống nhất cruzan la reunión y las cartas. El tổ trưởng anota ý kiến; el teléfono en el bolsillo cuenta otra historia.
+
+4. Pasiva formal được / bị … do / bởi (lección 48) (Fundamentos, lecciones 30, 52 y 88). En el escrito administrativo el agente entra con do o bởi.
+
+| Forma | Uso | Ejemplo |
+|---|---|---|
+| được + V | pasiva neutra / de favor | được phép triển khai; được nhắc nhở |
+| bị + V | pasiva de daño o molestia | (en historia: bị đẩy lùi, lección 39) |
+| được / bị … do + agente | agente en escrito | được tạo ra do máy móc; do đơn vị thi công |
+| được / bị … bởi + agente | mismo valor; también oído | được thi công bởi đơn vị được phép |
+| theo quy định | conforme a la normativa | giải quyết theo quy định |
+
+Do y bởi no pelean: en oficialese ambos sirven. Theo quy định es la muletilla que promete procedimiento, no calendario.
+
+Đà Lạt (mát mẻ, se lạnh, được trồng, được xây) y el bánh chưng (vuông / tròn, trời / đất, thiên / địa) siguen en el cuaderno: vuelven cuando el paisaje o el Tet lo pidan. La semana que viene abre Ninh Bình y el C1 sigue creciendo.
+
+aside.es:
+Mañana empieza la ola activa de este curso: cada lección trae de vuelta un trozo de una anterior (la lección n menos 49). Si llegaste tras Fundamentos, aquella ola sigue a la vez; si empezaste aquí, esta es la tuya.
+
+ex1:
+- Bà gửi đơn kiến nghị về tiếng ồn lên Ủy ban nhân dân phường.
+  es: Ella envía al Comité Popular del barrio un escrito de petición sobre el ruido.
+- Căn cứ quy định, tôi đề nghị đơn vị thi công làm đúng khung giờ.
+  es: Con arreglo a la normativa, solicito que la unidad constructora respete la franja horaria.
+- Đừng làm khách nữa; ở nhà mình phải làm dâu thật.
+  es: No te hagas más la invitada; en tu casa hay que ser nuera de verdad.
+- Tóm lại, tổ thống nhất không hát karaoke sau mười giờ.
+  es: En resumen, el grupo acuerda no cantar karaoke después de las diez.
+- Tiếng ồn được tạo ra do máy móc trên công trình của phường.
+  es: El ruido lo producen las máquinas de la obra del barrio.
+
+ex2:
+- Đầu thư viết [Kính gửi]; cuối thư viết [Trân trọng].
+  es: Al inicio se escribe «a la atención de»; al final, «atentamente».
+- Đừng [làm nũng] lúc đông người.
+  es: No hagas mimitos cuando hay gente.
+- Ông tổ trưởng nói [kính thưa] các cụ rồi mở họp.
+  es: El jefe dijo «con el debido respeto» a los mayores y abrió la reunión.
+- Phường đã [tiếp nhận] đơn và sẽ [giải quyết] theo quy định.
+  es: El barrio ha recibido el escrito y lo resolverá conforme a la normativa.
+- Hoa ở Đà Lạt [được trồng] trên sườn đồi.
+  es: Las flores de Đà Lạt se cultivan en las laderas.
+
+== 50 C1
+numeral: Bài thứ năm mươi
+title: Ninh Bình
+title.es: Ninh Bình
+
+dialogue:
+- Ninh Bình nằm phía nam đồng bằng sông Hồng, cách Hà Nội khoảng hai tiếng xe khách.
+  es: Ninh Bình queda al sur del delta del Río Rojo, a unas dos horas en autocar desde Hanói.
+- Đất này từng là cố đô: Hoa Lư làm kinh đô của nước Đại Cồ Việt trước khi dời về Thăng Long năm một nghìn không trăm mười.
+  es: Esta tierra fue antigua capital: Hoa Lư fue la capital de Đại Cồ Việt antes del traslado a Thăng Long en el año mil diez.
+- Hôm nay Hoa Lư còn đền thờ các vua Đinh và Lê; khách đến lễ, rồi đi tiếp vào vùng núi đá.
+  es: Hoy en Hoa Lư siguen los templos de los reyes Đinh y Lê; el visitante ofrece incienso y sigue hacia la zona de farallones.
+- Xung quanh là núi đá vôi nhô lên giữa cánh đồng lúa: xanh dưới chân, xám trên đỉnh.
+  es: Alrededor, farallones de caliza emergen entre los arrozales: verde a los pies, gris en la cima.
+- Tràng An và Tam Cốc nằm trong vùng ấy; thuyền nhỏ luồn vào hang, mái chèo khẽ gõ thành đá.
+  es: Tràng An y Tam Cốc están en esa zona; barcas pequeñas se cuelan en las cuevas, el remo golpea suave la pared de piedra.
+- Trong hang tối, tiếng nước vọng lại; ra khỏi miệng hang, lúa và núi hiện ra như vừa mở một cánh cửa.
+  es: Dentro de la cueva oscura, el agua hace eco; al salir de la boca, arroz y montañas aparecen como si se acabara de abrir una puerta.
+- Ở Tam Cốc, nhiều người chèo thuyền bằng chân: hai chân giữ mái, tay thì thong thả trên mạn thuyền.
+  es: En Tam Cốc, mucha gente rema con los pies: los dos pies sujetan el remo, las manos quedan ociosas en la borda.
+- Khách ngồi nhìn, vừa ngạc nhiên vừa muốn học; người chèo cười, bảo thế mới khỏi mỏi tay.
+  es: El visitante mira, entre la sorpresa y las ganas de aprender; quien rema sonríe y dice que así no se cansan las manos.
+- Đền và chùa nằm rải rác chân núi; ngày lễ, khói hương mỏng bay ngang lối đá.
+  es: Templos y pagodas se esparcen al pie de las montañas; en día de fiesta, un humo fino de incienso cruza el camino de piedra.
+- Đặc sản vùng này có dê núi: thịt săn, thường nướng hoặc hấp, ăn với rau sống và tương.
+  es: Especialidad de la zona es la cabra de monte: carne firme, a menudo a la brasa o al vapor, con hierbas crudas y salsa de soja fermentada.
+- Cơm cháy thì giòn, vàng; người ta chan nước sốt thịt lên, cắn vào nghe giòn tan.
+  es: El cơm cháy es crujiente, dorado; se le echa por encima una salsa con carne, y al morderlo cruje.
+- Cuối tuần, xe từ Hà Nội đổ về; đường nhỏ đầy khách, thuyền cũng hết chỗ sớm.
+  es: El fin de semana, los coches bajan desde Hanói; el camino estrecho se llena de visitas, y las barcas se agotan pronto.
+- Ai không mua kịp vé thuyền thì đứng trên bờ nhìn núi soi xuống nước, cũng chẳng uổng chuyến.
+  es: Quien no consigue billete de barca se queda en la orilla mirando las montañas reflejadas en el agua, y tampoco pierde el viaje.
+- Hướng dẫn viên hay bảo: nơi này được ví như Hạ Long trên cạn.
+  es: Los guías suelen decir: este sitio se compara con Hạ Long en tierra firme.
+- Núi đá, nước, lúa: cùng một kiểu đẹp, chỉ thiếu sóng biển.
+  es: Farallones, agua, arroz: la misma belleza, solo faltan las olas del mar.
+- Và nếu bạn chỉ kịp một việc trước khi về: hãy ngồi thuyền qua một hang, rồi ăn một đĩa cơm cháy còn nóng.
+  es: Y si solo te da tiempo a una cosa antes de volver: siéntate en una barca que atraviese una cueva, y come un plato de cơm cháy aún caliente.
+
+notes.es:
+1. Phía nam đồng bằng sông Hồng: đồng bằng sông Hồng = el delta del Río Rojo (geografía escolar). Ninh Bình (Fundamentos, lección 43) ya salió en el billete de autocar; aquí el retrato abre el paisaje. Cách Hà Nội khoảng hai tiếng = a unas dos horas de Hanói (cách, distancia en tiempo o en kilómetros).
+2. Cố đô … kinh đô … Hoa Lư … Thăng Long năm một nghìn không trăm mười: cố đô = antigua capital (Hán Việt: cố = antiguo, đô = capital). Kinh đô = la capital / sede del poder (kinh = capital; đô = ciudad sede). Hoa Lư fue capital de Đại Cồ Việt; el traslado a Thăng Long (Hanói) en 1010, bajo Lý Thái Tổ, es dato de manual. Một nghìn không trăm mười = 1010 (không trăm marca el cero de las centenas).
+3. Đền thờ các vua Đinh và Lê: đền thờ (lección 39). Los templos de Hoa Lư recuerdan a Đinh Bộ Lĩnh y a Lê Đại Hành: marco escolar estable. Lễ = ofrendar / hacer el culto breve del visitante.
+4. Núi đá vôi … cánh đồng lúa: đá vôi = caliza. Nhô lên = emerger / sobresalir. El karst entre arrozales es la imagen fija de Ninh Bình (hermana de los farallones sobre el mar de Hạ Long, Fundamentos, lección 88).
+5. Tràng An và Tam Cốc … thuyền … hang: Tràng An y Tam Cốc son los dos nombres que el visitante oye primero (Fundamentos, lección 43, nota de cultura). Luồn vào = colarse / deslizarse dentro. Hang = la cueva. Mái chèo = el remo.
+6. Trong hang tối … như vừa mở một cánh cửa: vọng lại = hacer eco / devolver el sonido. Miệng hang = la boca de la cueva. La salida es el contraste: oscuridad, luego arroz y montaña.
+7. Chèo thuyền bằng chân: chèo = remar. Bằng chân = con los pies: gesto famoso de Tam Cốc. Mạn thuyền = la borda. Thong thả = con calma / ociosas.
+8. Thế mới khỏi mỏi tay: khỏi = evitar / librarse de. Mỏi tay = cansancio de manos. El remo con los pies es oficio, no espectáculo para el que rema.
+9. Đền và chùa … khói hương: chùa = la pagoda budista; đền suele ser templo de culto a reyes o genios. Hương = el incienso. Rải rác = esparcidos.
+10. Dê núi … tương: dê núi = cabra de monte (especialidad de Ninh Bình). Săn = firme / fibrosa (de la carne). Nướng / hấp = a la brasa / al vapor. Rau sống = hierbas y verdura cruda de acompañamiento. Tương aquí = salsa de soja fermentada.
+11. Cơm cháy thì giòn, vàng: cơm cháy = arroz tostado / «quemado» a propósito hasta quedar crujiente (especialidad local). Chan nước sốt = echar la salsa por encima. Cắn vào nghe giòn tan = al morderlo cruje (giòn tan: crujiente hasta deshacerse). El plato cierra el retrato como el cà phê trứng de la lección 4 o la sữa đậu nành de Đà Lạt (lección 43).
+12. Xe từ Hà Nội đổ về … hết chỗ sớm: đổ về = afluir / bajar en masa. Hết chỗ = sin plazas. Cuối tuần: el ritmo del excursionista de Hanói.
+13. Đứng trên bờ nhìn núi soi xuống nước: soi xuống = reflejarse hacia abajo. Chẳng uổng chuyến = el viaje no se pierde (uổng = en balde). Quien se queda en la orilla aún «ve» Ninh Bình.
+14. Được ví như Hạ Long trên cạn: được ví như = se le compara con (ví = comparar). Hạ Long trên cạn = «Hạ Long en tierra firme»: coletilla de guías y folletos. Hạ Long (Fundamentos, lección 88) ya dio los farallones sobre el mar; aquí el mismo tipo de belleza sin olas.
+15. Một hang … một đĩa cơm cháy còn nóng: el último encargo al lector, como en Huế y Đà Lạt. Hang y cơm cháy resumen paisaje y mesa.
+
+ex1:
+- Hoa Lư từng là kinh đô trước khi dời về Thăng Long.
+  es: Hoa Lư fue capital antes del traslado a Thăng Long.
+- Núi đá vôi nhô lên giữa cánh đồng lúa quanh Ninh Bình.
+  es: Farallones de caliza emergen entre los arrozales alrededor de Ninh Bình.
+- Ở Tam Cốc, người ta chèo thuyền bằng chân.
+  es: En Tam Cốc se rema la barca con los pies.
+- Đặc sản vùng này có dê núi và cơm cháy.
+  es: Especialidades de la zona son la cabra de monte y el cơm cháy.
+- Nơi này được ví như Hạ Long trên cạn.
+  es: Este sitio se compara con Hạ Long en tierra firme.
+
+ex2:
+- Hoa Lư là [cố đô] của nước Đại Cồ Việt.
+  es: Hoa Lư es la antigua capital de Đại Cồ Việt.
+- Năm một nghìn không trăm mười, kinh đô [dời] về Thăng Long.
+  es: En el año mil diez, la capital se trasladó a Thăng Long.
+- Thuyền nhỏ [luồn] vào hang đá.
+  es: La barca pequeña se cuela en la cueva de piedra.
+- Ninh Bình được [ví như] Hạ Long trên cạn.
+  es: Ninh Bình se compara con Hạ Long en tierra firme.
+- Khách ăn [cơm cháy] còn nóng sau khi xuống thuyền.
+  es: El visitante come cơm cháy aún caliente después de bajar de la barca.
+
+== 51 C1
+numeral: Bài thứ năm mươi mốt
+title: Nguyễn Trãi
+title.es: Nguyễn Trãi
+
+dialogue:
+- Nguyễn Trãi sinh năm một nghìn ba trăm tám mươi, mất năm một nghìn bốn trăm bốn mươi hai.
+  es: Nguyễn Trãi nació en mil trescientos ochenta y murió en mil cuatrocientos cuarenta y dos.
+- Ông là nhà nho, nhà thơ, và là mưu sĩ bên cạnh Lê Lợi trong cuộc kháng chiến chống nhà Minh.
+  es: Fue letrado confuciano, poeta y consejero al lado de Lê Lợi en la resistencia contra la dinastía Ming.
+- Đầu thế kỷ mười lăm, quân Minh chiếm nước; dân bị áp bức nặng, nhiều nơi nổi dậy.
+  es: A principios del siglo XV, las tropas Ming ocuparon el país; el pueblo sufría una opresión dura, y en muchos sitios hubo levantamientos.
+- Lê Lợi khởi nghĩa ở Lam Sơn; Nguyễn Trãi theo về, lo việc thư từ, bày mưu tính kế, viết thư dụ tướng Minh đầu hàng.
+  es: Lê Lợi se alzó en Lam Sơn; Nguyễn Trãi se unió a él y se ocupó de la correspondencia y de la estrategia, y escribió cartas para convencer a los generales Ming de rendirse.
+- Tư tưởng ông nhấn mạnh nhân nghĩa và an dân: lấy dân làm gốc.
+  es: Su pensamiento insiste en la humanidad y la justicia, y en dar paz al pueblo: tomar al pueblo como raíz.
+- Năm một nghìn bốn trăm hai mươi bảy, cuộc kháng chiến thắng; năm sau, Bình Ngô đại cáo được ban bố.
+  es: En mil cuatrocientos veintisiete la resistencia venció; al año siguiente se proclamó el Bình Ngô đại cáo.
+- Bình Ngô đại cáo vừa là bản cáo trạng tội ác quân Minh, vừa là bản tuyên ngôn độc lập, viết bằng chữ Hán, giọng trang trọng.
+  es: El Bình Ngô đại cáo es a la vez acta de acusación contra los crímenes de los Ming y proclama de independencia, escrito en chino clásico, en tono solemne.
+- Văn bản ấy kể tội ách đô hộ và khẳng định nền độc lập của nước; học sinh ngày nay vẫn học thuộc vài đoạn.
+  es: El texto enumera los crímenes de la ocupación y afirma la independencia del país; los escolares de hoy siguen aprendiéndose de memoria algunos pasajes.
+- Nguyễn Trãi còn để lại thơ chữ Hán và chữ Nôm; ông viết về cảnh, về chí và về nỗi đời.
+  es: Nguyễn Trãi dejó además poesía en chino clásico y en chữ Nôm; escribió del paisaje, de la voluntad y de las penas de la vida.
+- Sau chiến thắng, ông từng giữ chức cao; rồi cáo quan về ở ẩn một thời.
+  es: Tras la victoria ocupó cargos altos; más tarde dimitió y se retiró un tiempo.
+- Năm một nghìn bốn trăm bốn mươi hai, vua Lê Thái Tông mất đột ngột ở Lệ Chi Viên.
+  es: En mil cuatrocientos cuarenta y dos, el rey Lê Thái Tông murió de pronto en el jardín de Lệ Chi Viên.
+- Nguyễn Trãi và Nguyễn Thị Lộ bị khép tội giết vua; ba họ của ông bị tru di.
+  es: Nguyễn Trãi y Nguyễn Thị Lộ fueron condenados por la muerte del rey; su familia fue exterminada por tres ramas de parentesco.
+- Án ấy là bi kịch lớn trong sử: một công thần khai quốc bị sát hại sau khi nước đã yên.
+  es: Aquella sentencia es una gran tragedia de la historia: un meritorio fundador del reino fue asesinado cuando el país ya estaba en paz.
+- Về sau, dưới đời Lê Thánh Tông, Nguyễn Trãi được minh oan và phục hồi danh dự.
+  es: Más tarde, bajo Lê Thánh Tông, Nguyễn Trãi fue rehabilitado y se le restituyó el honor.
+- Tên ông còn trên đường phố, trường học và sách giáo khoa; Bình Ngô đại cáo vẫn được nhắc mỗi khi nói đến độc lập.
+  es: Su nombre sigue en calles, escuelas y manuales; el Bình Ngô đại cáo se cita aún cada vez que se habla de independencia.
+- Ông mất đã lâu; lời về nhân nghĩa và an dân thì vẫn còn trong trang sử học trò mở mỗi năm.
+  es: Murió hace mucho; las palabras sobre humanidad, justicia y paz para el pueblo siguen en la página de historia que el escolar abre cada año.
+
+notes.es:
+1. Nguyễn Trãi sinh năm … mất năm …: fechas asentadas en los manuales (1380-1442). Ông en tercera persona, como con Nguyễn Du (lección 16). Sinh / mất (lección 16).
+2. Nhà nho … mưu sĩ … Lê Lợi … nhà Minh: nhà nho = letrado confuciano. Mưu sĩ = consejero / estratega de gabinete. Lê Lợi es el jefe de la resistencia Lam Sơn y fundador de la dinastía Lê. Nhà Minh = la dinastía Ming (China). Kháng chiến (lección 39).
+3. Quân Minh chiếm nước … dân bị áp bức: bị + verbo (Fundamentos, lecciones 30 y 56) (lección 39) en narración histórica: el pueblo «sufre» la opresión. Áp bức = oprimir. Nổi dậy = alzarse.
+4. Khởi nghĩa ở Lam Sơn … viết thư dụ tướng Minh đầu hàng: khởi nghĩa (lección 39). Lam Sơn = la base de Lê Lợi (Thanh Hóa). Lo việc = ocuparse de. Thư từ = la correspondencia. Bày mưu tính kế = trazar planes (a la letra «disponer ardides, calcular estratagemas»). Dụ = persuadir con promesas; đầu hàng = rendirse.
+5. Nhân nghĩa … an dân: nhân nghĩa = humanidad y justicia (par Hán Việt clásico del pensamiento confuciano; nhân = humanidad, nghĩa = lo justo). An dân = dar paz / seguridad al pueblo (an = paz, dân = pueblo). Lấy dân làm gốc = tomar al pueblo como raíz: fórmula del discurso político antiguo, aún viva en el de hoy.
+6. Năm một nghìn bốn trăm hai mươi bảy … Bình Ngô đại cáo: 1427, victoria; 1428, proclama (datos de manual). Ban bố = promulgar / proclamar oficialmente. Bình Ngô = «pacificar a los Ngô» (Ngô: aquí, nombre despectivo para los invasores Ming); đại cáo = gran proclama / edicto solemne.
+7. Vừa là bản cáo trạng … vừa là bản tuyên ngôn độc lập: vừa … vừa … = a la vez … y … Cáo trạng = acta de acusación. Tuyên ngôn độc lập = declaración de independencia; los manuales lo llaman así por su contenido. Chữ Hán = caracteres chinos / chino clásico de la administración. Giọng trang trọng = tono solemne: registro Hán Việt de historia.
+8. Kể tội ách đô hộ (lección 39) … nền độc lập: kể tội = enumerar los crímenes de alguien. Khẳng định = afirmar. Học thuộc = aprender de memoria: el texto es patrimonio escolar, como Truyện Kiều (lección 16).
+9. Thơ chữ Hán và chữ Nôm: chữ Nôm (lección 16). Chí = la voluntad / el ideal. Nỗi đời = las penas de la vida. Nguyễn Trãi no es solo el edicto: también es poeta.
+10. Giữ chức cao … cáo quan … ở ẩn: giữ chức = ocupar un cargo. Cáo quan = dimitir / pedir la baja del cargo. Ở ẩn = retirarse / vivir retirado. Một thời = un tiempo.
+11. Lê Thái Tông mất đột ngột ở Lệ Chi Viên: Lệ Chi Viên = el jardín de los lichis (lugar del episodio escolar). Mất đột ngột = morir de pronto.
+12. Bị khép tội giết vua … ba họ … bị tru di: khép tội = imputar un delito, condenar por él. Nguyễn Thị Lộ, su concubina, era quien acompañaba al rey aquella noche, según los manuales. Tru di = exterminar con toda la parentela; ba họ = las tres ramas de parentesco (la del padre, la de la madre y la de la esposa): la condena más dura del derecho antiguo.
+13. Bi kịch … công thần khai quốc bị sát hại: bi kịch = tragedia. Công thần khai quốc = meritorio que ayudó a fundar el reino. Bị sát hại = ser asesinado / muerto a manos de otro. Nước đã yên = el país ya en paz: ahí está la amargura del caso.
+14. Được minh oan … phục hồi danh dự: minh oan = rehabilitar / lavar la injusticia (oan = condena injusta). Phục hồi danh dự = restituir el honor. Lê Thánh Tông: rehabilitación posterior, dato de manual.
+15. Tên ông còn trên đường phố … trang sử: cierre plano, como Hai Bà Trưng (lección 39). Nhân nghĩa y an dân vuelven en la última línea: no como eslogan, sino como lo que el escolar aún lee.
+
+ex1:
+- Nguyễn Trãi là mưu sĩ bên cạnh Lê Lợi chống nhà Minh.
+  es: Nguyễn Trãi fue consejero al lado de Lê Lợi contra la dinastía Ming.
+- Ông nhấn mạnh nhân nghĩa và an dân.
+  es: Insistía en la humanidad y la justicia, y en dar paz al pueblo.
+- Bình Ngô đại cáo được ban bố sau chiến thắng.
+  es: El Bình Ngô đại cáo se proclamó después de la victoria.
+- Nguyễn Trãi bị kết tội trong vụ Lệ Chi Viên năm một nghìn bốn trăm bốn mươi hai.
+  es: Nguyễn Trãi fue condenado en el caso de Lệ Chi Viên en mil cuatrocientos cuarenta y dos.
+- Về sau ông được minh oan dưới đời Lê Thánh Tông.
+  es: Más tarde fue rehabilitado bajo Lê Thánh Tông.
+
+ex2:
+- Dân [bị] áp bức dưới ách đô hộ nhà Minh.
+  es: El pueblo sufría opresión bajo el yugo de la ocupación Ming.
+- Tư tưởng ông nêu [nhân nghĩa] và [an dân].
+  es: Su pensamiento nombra la humanidad y la justicia, y la paz para el pueblo.
+- Bình Ngô đại cáo được [ban bố] năm một nghìn bốn trăm hai mươi tám.
+  es: El Bình Ngô đại cáo se proclamó en mil cuatrocientos veintiocho.
+- Ba họ của ông bị [tru di].
+  es: Su familia fue exterminada por tres ramas de parentesco.
+- Ông được [minh oan] dưới đời Lê Thánh Tông.
+  es: Fue rehabilitado bajo Lê Thánh Tông.
+
+== 52 C1
+numeral: Bài thứ năm mươi hai
+title: Báo cáo thành tích
+title.es: Informe de logros
+
+dialogue:
+- Báo cáo tổng kết thành tích năm hai nghìn không trăm hai mươi tư của Phòng Nghiệp vụ.
+  es: Informe de balance de logros del año dos mil veinticuatro de la Sección de Operaciones.
+- Trong năm qua, đơn vị đã cơ bản hoàn thành các nhiệm vụ được giao.
+  es: En el año transcurrido, la unidad ha cumplido en lo esencial las tareas encomendadas.
+- Các chỉ tiêu chuyên môn đều đạt và vượt mức kế hoạch đề ra từ đầu năm.
+  es: Los indicadores técnicos se han alcanzado y superado respecto al plan fijado a principios de año.
+- Công tác tuyên truyền được triển khai tích cực, sâu rộng trong toàn đơn vị.
+  es: El trabajo de divulgación se ha desplegado de forma activa y a lo ancho de toda la unidad.
+- Việc phối hợp giữa các bộ phận diễn ra đồng bộ, nhịp nhàng, đúng quy trình.
+  es: La coordinación entre secciones se ha desarrollado de forma sincronizada, fluida y conforme al procedimiento.
+- Đơn vị đã quyết liệt chỉ đạo, quyết liệt kiểm tra, quyết liệt xử lý các tồn tại.
+  es: La unidad ha dirigido con firmeza, inspeccionado con firmeza y tratado con firmeza las deficiencias pendientes.
+- Tinh thần trách nhiệm của cán bộ, nhân viên được nâng cao rõ rệt.
+  es: El sentido de la responsabilidad del personal se ha elevado de forma notable.
+- Tuy vậy, vẫn còn một số hạn chế cần tiếp tục khắc phục trong thời gian tới.
+  es: Ello no obstante, aún quedan algunas limitaciones que habrá que seguir corrigiendo en el próximo período.
+- Nguyên nhân chủ yếu là nhận thức chưa đồng đều và điều kiện khách quan còn khó khăn.
+  es: La causa principal es que la concienciación aún no es uniforme y que las condiciones objetivas siguen siendo difíciles.
+- Bài học kinh nghiệm: phải bám sát chỉ đạo cấp trên và phát huy tinh thần đoàn kết.
+  es: Lección aprendida: hay que ceñirse a las directrices de los superiores y fomentar el espíritu de unidad.
+- Tập thể đã rút kinh nghiệm sâu sắc để năm sau làm tốt hơn nữa.
+  es: El colectivo ha sacado lecciones profundas para que el año que viene se trabaje aún mejor.
+- Phương hướng năm tới: tiếp tục đẩy mạnh, nâng cao, hoàn thiện và nhân rộng mô hình hay.
+  es: Orientación para el año próximo: seguir impulsando, elevando, perfeccionando y extendiendo los buenos modelos.
+- Kính trình lãnh đạo xem xét, cho ý kiến chỉ đạo.
+  es: Se eleva a la dirección para su examen y orientaciones.
+- Nơi nhận: Ban Giám đốc; lưu phòng.
+  es: Destinatarios: Dirección; archivo de la sección.
+- (Phụ lục 1: Báo cáo về quá trình xây dựng báo cáo tổng kết thành tích năm hai nghìn không trăm hai mươi tư.)
+  es: (Anexo 1: Informe sobre el proceso de redacción del informe de balance de logros del año dos mil veinticuatro.)
+- (Trong phụ lục ấy, mọi mục cũng cơ bản hoàn thành đúng hạn.)
+  es: (En ese anexo, todos los puntos también se han cumplido en lo esencial y a tiempo.)
+
+notes.es:
+1. Báo cáo tổng kết thành tích: báo cáo = el informe. Tổng kết = balance / recapitulación. Thành tích = logros / resultados. Registro de oficina de fin de año: el título ya suena a sello.
+2. Cơ bản hoàn thành các nhiệm vụ được giao: cơ bản hoàn thành = cumplido en lo esencial / «básicamente terminado». Es la muletilla estrella: casi nunca dice «xong hết», dice «cơ bản». Được giao = encomendadas (pasiva được, lección 48). Nhiệm vụ = la tarea / el cometido.
+3. Các chỉ tiêu … đều đạt và vượt mức kế hoạch đề ra: chỉ tiêu = el indicador / la meta cuantificada. Đạt và vượt mức = alcanzar y superar lo previsto (cliché de informe). Đề ra = fijar / establecer. El plan «se supera» siempre en el papel.
+4. Được triển khai tích cực, sâu rộng: triển khai (lecciones 10 y 48) = desplegar. Tích cực = de forma activa / con empuje. Sâu rộng = en profundidad y a lo ancho. Tres adverbios Hán Việt para una sola acción de cartelera.
+5. Đồng bộ, nhịp nhàng, đúng quy trình: đồng bộ = sincronizado / «en bloque». Nhịp nhàng = fluido / a ritmo. Quy trình = el procedimiento. Phối hợp (lección 48). La coordinación en el informe nunca cojea.
+6. Quyết liệt … quyết liệt … quyết liệt: quyết liệt = con firmeza / de forma decidida. La triple repetición es marca de oficialese: el mismo adverbio lava dirección, inspección y sanción. Tồn tại aquí = deficiencias pendientes (no «existencia» filosófica).
+7. Tinh thần trách nhiệm … được nâng cao rõ rệt: tinh thần trách nhiệm = el sentido de la responsabilidad. Được nâng cao = ser elevado (pasiva de informe). Rõ rệt = de forma notable / manifiesta. Cán bộ, nhân viên = el personal (cuadro / empleado).
+8. Tuy vậy, vẫn còn một số hạn chế: tuy vậy = ello no obstante. Hạn chế = limitaciones. Todo báo cáo bueno guarda un párrafo de «aún hay que mejorar»: sin él, el texto parece ingenuo.
+9. Nhận thức chưa đồng đều … điều kiện khách quan: nhận thức = la concienciación / la percepción del deber. Đồng đều = uniforme. Điều kiện khách quan = las condiciones objetivas (lo que no es culpa de nadie en el papel). Nguyên nhân chủ yếu = la causa principal: pareja fija con hạn chế.
+10. Bám sát chỉ đạo cấp trên … đoàn kết: bám sát = ceñirse a / no soltar. Chỉ đạo cấp trên = las directrices de los superiores. Phát huy = fomentar / dar rienda. Đoàn kết = la unidad / la solidaridad de grupo. Bài học kinh nghiệm = la «lección aprendida» del informe.
+11. Rút kinh nghiệm sâu sắc (lección 10): rút kinh nghiệm = sacar lecciones / hacer balance de errores. Sâu sắc = profundo. En la lección 10 había una reunión para preparar la reunión; aquí el colectivo «aprende en profundidad» antes del gag final.
+12. Đẩy mạnh, nâng cao, hoàn thiện, nhân rộng: cuatro verbos de plan anual en cadena. Mô hình hay = el buen modelo / la buena práctica a copiar. Phương hướng = la orientación / el rumbo del año próximo.
+13. Kính trình lãnh đạo xem xét, cho ý kiến chỉ đạo: kính trình = se eleva respetuosamente. Lãnh đạo = la dirección. Xem xét (lección 47). Cho ý kiến chỉ đạo = dar orientaciones: cierre de ruego administrativo.
+14. Nơi nhận … lưu phòng: como nơi nhận y lưu hồ sơ en la lección 48. Lưu phòng = archivo de la sección.
+15. Phụ lục … báo cáo về quá trình xây dựng báo cáo: phụ lục = el anexo. Quá trình xây dựng báo cáo = el proceso de redacción del informe. El gag: el logro final es haber escrito el informe sobre el informe. Cơ bản hoàn thành đúng hạn en la última línea cierra el círculo: hasta el anexo habla el mismo idioma.
+
+ex1:
+- Năm nay phòng chúng tôi cơ bản hoàn thành đúng hạn mọi mục.
+  es: Este año nuestra sección ha cumplido en lo esencial y a tiempo todos los puntos.
+- Chỉ tiêu doanh số đạt và vượt so với cùng kỳ năm trước.
+  es: El indicador de ventas se ha alcanzado y superado respecto al mismo período del año pasado.
+- Tuyên truyền phải làm tích cực, không chỉ dán một tờ giấy lên tường.
+  es: La divulgación hay que hacerla de forma activa, no solo pegar un papel en la pared.
+- Sau đợt kiểm tra, cả phòng rút kinh nghiệm sâu sắc trong một buổi.
+  es: Tras la ronda de inspección, toda la sección sacó lecciones profundas en una sola sesión.
+- Báo cáo nào cũng ghi còn hạn chế, rồi năm sau viết lại câu ấy.
+  es: Todo informe anota que aún hay limitaciones, y al año siguiente vuelve a escribir la misma frase.
+
+ex2:
+- Nhiệm vụ đã [cơ bản] hoàn thành.
+  es: La tarea se ha cumplido en lo esencial.
+- Các chỉ tiêu đều [đạt] và [vượt] kế hoạch.
+  es: Todos los indicadores alcanzan y superan el plan.
+- Các bộ phận phối hợp [đồng bộ].
+  es: Las secciones se coordinan de forma sincronizada.
+- Đơn vị [quyết liệt] xử lý các tồn tại.
+  es: La unidad trata con firmeza las deficiencias pendientes.
+- Tập thể [rút] [kinh nghiệm] trước năm mới.
+  es: El colectivo saca lecciones antes del año nuevo.
+
+== 53 C1
+numeral: Bài thứ năm mươi ba
+title: Ra
+title.es: Ra, la sílaba que saca y que resulta
+
+dialogue:
+- Ít có tiếng nào vừa chỉ hướng ra ngoài, vừa chỉ kết quả, vừa chỉ dáng vẻ bề ngoài như tiếng «ra».
+  es: Pocas palabras indican a la vez la dirección hacia fuera, el resultado y la apariencia, como «ra».
+- Nam muốn viết quyển sách đầu: cả tháng ngồi quán cà phê, ra vẻ nhà văn, sổ mở, bút cầm, trang vẫn trống.
+  es: Nam quería escribir su primer libro: un mes entero en el café, haciéndose el escritor, cuaderno abierto, bolígrafo en mano, página aún en blanco.
+- Bạn cùng bàn nhìn anh: «Mày ra dáng lắm, nhưng chữ đâu?» Nam cười gượng, không biết trả lời ra sao.
+  es: El amigo de la mesa lo miró: «Qué pintas tienes, pero ¿dónde está el texto?» Nam sonrió a la fuerza y no supo qué contestar.
+- Đêm ấy anh nghĩ ra một cốt truyện: một người mất tên, đi tìm chính mình trong thành phố.
+  es: Aquella noche se le ocurrió una trama: alguien sin nombre que se busca a sí mismo por la ciudad.
+- Viết được hai chương, anh đọc lại: văn chưa ra hồn, ý thì loãng như trà nguội.
+  es: Tras dos capítulos, los releyó: la prosa aún no daba la talla, y las ideas estaban aguadas como un té frío.
+- Biên tập viên xem bản thảo, lắc đầu: «Thế này thì không ra gì. Anh viết lại từ đầu.»
+  es: La editora miró el borrador y negó con la cabeza: «Así no vale nada. Reescríbelo desde el principio.»
+- Nam suýt bỏ cuộc; rồi mẹ anh ra tay: cất điện thoại, xới cơm, bảo «Ăn đã, rồi viết.»
+  es: Nam estuvo a punto de tirar la toalla; entonces su madre intervino: guardó el teléfono, sirvió arroz y dijo «Come primero, luego escribe.»
+- Anh tìm ra cách mới: bỏ nhân vật mất tên, kể chuyện một người thợ in sách già.
+  es: Dio con un enfoque nuevo: dejó al personaje sin nombre y contó la historia de un viejo impresor.
+- Nhà xuất bản ra điều kiện: ba tháng nữa phải nộp bản sạch để ra mắt sách vào mùa thu.
+  es: La editorial puso una condición: en tres meses había que entregar el texto limpio para presentar el libro en otoño.
+- Nam viết sát hạn; bạn hỏi sách ra sao, anh chỉ đáp: «Cũng sắp ra ngô ra khoai rồi.»
+  es: Nam escribió contra reloj; cuando el amigo preguntó cómo iba el libro, solo contestó: «Ya casi va tomando forma.»
+- Đúng hẹn, quyển sách ra đời: bìa mềm, tên Nam in nhỏ dưới tựa đề.
+  es: A la hora prevista, el libro vio la luz: tapa blanda, el nombre de Nam impreso pequeño bajo el título.
+- Tối ra mắt ở hiệu sách, có micro, có nước, có vài hàng ghế.
+  es: La noche de presentación en la librería había micro, agua y unas filas de sillas.
+- Nam đứng góc phòng, nghe người dẫn chương trình khen sách «hay ra trò»; khách vỗ tay.
+  es: Nam se quedó en un rincón; oyó al presentador decir que el libro era «buenísimo de verdad»; el público aplaudió.
+- Một bà cầm sách hỏi người bên cạnh: «Tác giả là ai? Trông có ra dáng nhà văn không?»
+  es: Una señora, libro en mano, preguntó a quien tenía al lado: «¿Quién es el autor? ¿Tiene pinta de escritor?»
+- Người ấy nhìn quanh, rồi nhìn đúng mặt Nam: «Không biết. Chẳng nhận ra ai.»
+  es: El otro miró en torno y miró justo a la cara de Nam: «No sé. No reconozco a nadie.»
+- Hóa ra, quyển sách đã ra đời, buổi ra mắt đã xong, mà chẳng ai nhận ra tác giả đang cầm cốc nước ở góc phòng.
+  es: Resultaba que el libro ya había nacido, la presentación ya había acabado, y nadie reconocía al autor que sostenía un vaso de agua en el rincón.
+
+notes.es:
+1. Ít có tiếng nào … như chữ «ra»: ra es dirección («salir / hacia fuera») y, detrás de muchos verbos, marca el resultado que «sale» (nghĩ ra, tìm ra, nhận ra). También entra en pares fijos de apariencia (ra vẻ, ra dáng). Traducirlo siempre por «salir» no basta.
+2. Ra vẻ nhà văn: ra vẻ = aparentar / hacerse el… / darse el aire de (a la letra «sacar la apariencia»). Nam ra vẻ nhà văn = se hace el escritor. Sổ mở, trang trống: el gag del día ya está en la pose.
+3. Ra dáng … trả lời ra sao: ra dáng = tener pinta / aire de (más de aspecto que ra vẻ). Ra sao = cómo / en qué estado (pregunta abierta de modo o resultado). Không biết trả lời ra sao = no saber qué contestar. Mày entre amigos de la misma edad.
+4. Nghĩ ra một cốt truyện: nghĩ ra (Fundamentos, lección 85) = ocurrírsele / dar con una idea (pensar + ra de resultado). Cốt truyện (lección 16). Mất tên = sin nombre.
+5. Văn chưa ra hồn: ra hồn = como debe ser, decente (a la letra «que saca alma»); se usa sobre todo en negativa: chưa ra hồn, không ra hồn = aún no vale, no tiene forma. Loãng = aguado / diluido.
+6. Không ra gì: không … ra gì = no valer nada / no dar nada de sí (a la letra «no salir qué»). Bản thảo = el borrador. Viết lại từ đầu = reescribir desde el principio.
+7. Mẹ anh ra tay: ra tay = intervenir / pasar a la acción (a la letra «sacar la mano»). Aquí la madre «mete mano» en el caos del hijo: teléfono fuera, arroz en el cuenco (xới cơm = servir el arroz). Bỏ cuộc = tirar la toalla.
+8. Tìm ra cách mới: tìm ra (Fundamentos, lección 85) = dar con / encontrar (después de buscar). Hermano de nghĩ ra: nghĩ ra es la idea que nace; tìm ra es lo que se halla. Thợ in sách = impresor.
+9. Ra điều kiện … để ra mắt sách: ra điều kiện = poner condiciones. Ra mắt aquí es el estreno / la presentación pública de un libro (el otro ra mắt, presentarse a la familia, es el de la lección 3). Ba tháng nữa = dentro de tres meses. Bản sạch = el texto limpio / la versión final.
+10. Sách ra sao … ra ngô ra khoai: ra sao vuelve (nota 3). Ra ngô ra khoai = claro, definido (a la letra «que sale maíz, que sale boniato»: lo sembrado se distingue al fin). Va con nói cho … (decir las cosas claras) o en negativa: chưa ra ngô ra khoai gì (nada claro aún). Sắp … rồi = ya casi.
+11. Quyển sách ra đời: ra đời = nacer / ver la luz / aparecer por primera vez (lección 4: cà phê trứng ra đời). Con un libro es «publicarse / salir al mundo». Bìa mềm = tapa blanda. Tựa đề = el título.
+12. Tối ra mắt ở hiệu sách: ra mắt otra vez, ahora como noche de presentación. Hiệu sách = la librería. Micro, nước, ghế: el decorado mínimo del estreno pequeño.
+13. Khen sách «hay ra trò»: ra trò, detrás de un adjetivo, = de verdad, de lo lindo (hay ra trò = buenísimo de verdad); coloquial y elogioso. Nam oye el elogio desde el rincón.
+14. Trông có ra dáng nhà văn không?: ra dáng vuelve (nota 3). La señora busca al autor por la pinta; no por la cara de quien escribió.
+15. Chẳng nhận ra ai: nhận ra = reconocer (ver + resultado: «caer en quién es»). Chẳng … ai = a nadie.
+16. Hóa ra … chẳng ai nhận ra tác giả: hóa ra (Fundamentos, lección 58) (lección 5) cierra el descubrimiento. Ra đời y ra mắt ya cumplieron; nhận ra falla. El golpe: el libro «salió»; el autor, no.
+17. Las expresiones de esta lección, con el número de la frase y de la nota:
+ra vẻ (frase 2, nota 2)
+ra dáng (frases 3 y 14, notas 3 y 14)
+ra sao (frases 3 y 10, notas 3 y 10)
+nghĩ ra (frase 4, nota 4)
+ra hồn (frase 5, nota 5)
+ra trò (frase 13, nota 13)
+không ra gì (frase 6, nota 6)
+ra tay (frase 7, nota 7)
+tìm ra (frase 8, nota 8)
+ra điều kiện (frase 9, nota 9)
+ra mắt (frases 9 y 12, notas 9 y 12)
+ra ngô ra khoai (frase 10, nota 10)
+ra đời (frases 11 y 16, notas 11 y 16)
+nhận ra (frases 15 y 16, notas 15 y 16)
+hóa ra (frase 16, nota 16)
+
+ex1:
+- Đừng ra vẻ biết hết khi mới đọc có nửa trang.
+  es: No finjas saberlo todo cuando solo has leído media página.
+- Chị ấy nghĩ ra cách làm xong bài mà không cần thức đêm.
+  es: Se le ocurrió una forma de terminar el trabajo sin trasnochar.
+- Bản nháp ấy không ra gì; phải viết lại.
+  es: Aquel borrador no valía nada; hay que reescribirlo.
+- Cuối cùng anh tìm ra lỗi trong đoạn cuối.
+  es: Al final dio con el error del último párrafo.
+- Quyển sách ra đời đã một năm, tôi mới nhận ra tác giả là bạn học cũ.
+  es: El libro salió hace un año y solo ahora me doy cuenta de que el autor es un antiguo compañero de clase.
+
+ex2:
+- Anh ấy [ra vẻ] bận lắm, nhưng chỉ cầm điện thoại.
+  es: Él aparenta estar muy ocupado, pero solo lleva el teléfono.
+- Máy hỏng; ai [ra tay] sửa giúp một chút?
+  es: La máquina está rota; ¿quién interviene a ayudar un poco?
+- Nói cho [ra ngô] [ra khoai] đi, đừng vòng vo nữa.
+  es: Di las cosas claras de una vez; no des más vueltas.
+- Tôi không [nhận ra] cô ấy sau mười năm.
+  es: No la reconocí después de diez años.
+- Bao giờ cuốn tiểu thuyết ấy [ra đời]?
+  es: ¿Cuándo ve la luz esa novela?
+
+== 54 C1
+numeral: Bài thứ năm mươi tư
+title: Ngày giỗ
+title.es: El día del aniversario de la muerte
+
+dialogue:
+- Sáng ngày giỗ ông nội, cả họ về nhà bác cả: sân trải chiếu, mâm cỗ bày trước bàn thờ.
+  es: La mañana del aniversario de la muerte del abuelo paterno, toda la parentela fue a casa del tío mayor: esteras en el patio, la bandeja del festín ante el altar.
+- Bác cả thắp hương, khấn nhỏ vài câu; khói bay thẳng, rồi nghiêng theo gió cửa.
+  es: El tío mayor encendió el incienso y murmuró unas palabras; el humo subió recto y luego se inclinó con el viento de la puerta.
+- Bà nội ngồi ghế gỗ, nhìn ảnh ông trên bàn thờ: «Năm nay ông mất đã mười năm.»
+  es: La abuela paterna, en la silla de madera, miró la foto del abuelo en el altar: «Este año hace ya diez que murió.»
+- Cháu gái Mai khẽ hỏi mẹ: «Mẹ ơi, nói «mất» với «qua đời» có khác nhau không ạ?»
+  es: La nieta Mai preguntó bajito a su madre: «Mamá, ¿es distinto decir «mất» o «qua đời»?»
+- Mẹ đáp gần tai: «Cùng một nghĩa thôi con. «Qua đời» trang trọng hơn; còn «đi xa», «khuất núi» là nói tránh cho nhẹ.»
+  es: La madre contestó al oído: «Significan lo mismo, hija. «Qua đời» es más formal; «đi xa» y «khuất núi» lo dicen de lado, para suavizarlo.»
+- Bác cả gọi mọi người: «Làm lễ xong thì mời vào mâm. Người già ngồi trên, trẻ ngồi dưới.»
+  es: El tío mayor llamó a todos: «Terminada la ofrenda, pasen a la mesa. Los mayores arriba, los jóvenes abajo.»
+- Cỗ có bóng, gà luộc, chả, xôi; bát nước chấm đặt giữa. Ai cũng gắp cho người bên cạnh trước.
+  es: En el festín había bollo relleno, gallina cocida, pastelito de carne, arroz glutinoso; el cuenco de salsa al centro. Cada uno servía primero al de al lado.
+- Ăn được một lúc, hai anh em họ là Hùng và Minh ngồi cuối mâm bắt đầu bàn nhỏ.
+  es: Tras un rato de comida, los dos primos Hùng y Minh, al final de la mesa, empezaron a hablar bajito.
+- Hùng: «Năm sau đến lượt nhà anh làm giỗ. Nhà anh rộng, lại gần.»
+  es: Hùng: «El año que viene toca en mi casa. Es más grande, y queda cerca.»
+- Minh: «Năm ngoái anh cũng nói thế, rồi lại để bác làm. Năm sau phải đến lượt em mới công bằng.»
+  es: Minh: «El año pasado dijiste lo mismo, y otra vez lo hizo bác. El año que viene me toca a mí, es lo justo.»
+- Hùng đỏ mặt: «Em chưa có bàn thờ riêng. Cúng ông mà thiếu hương đèn thì sao?»
+  es: Hùng se puso colorado: «Tú aún no tienes altar propio. ¿Cómo vas a ofrendar al abuelo sin incienso ni lámpara?»
+- Minh thấp giọng nhưng chắc: «Em thắp hương được. Chỗ ngồi thì chật một chút, nhưng đủ.»
+  es: Minh bajó la voz, pero firme: «Yo sé encender el incienso. El sitio es un poco justo, pero basta.»
+- Bác cả nhìn xuống cuối mâm: «Hai đứa bàn gì mà mặt đỏ thế?»
+  es: El tío mayor miró al final de la mesa: «¿Qué cuchicheáis, que estáis tan colorados?»
+- Hai cậu cùng ấp úng. Bà nội đặt đũa xuống, nói một câu đủ nghe cả mâm.
+  es: Los dos tartamudearon. La abuela dejó los palillos y dijo una frase que oyó toda la mesa.
+- «Giỗ ông thì làm ở nơi thờ ông. Năm sau vẫn ở đây. Ai thích tranh lượt thì tranh với bà.»
+  es: «El aniversario del abuelo se hace donde está su altar. El año que viene, aquí otra vez. Quien quiera pelearse por el turno, que se pelee conmigo.»
+- Hùng và Minh cùng cúi đầu: «Dạ, chúng cháu nghe bà ạ.» Khói hương trên bàn thờ vẫn bay, không cần ai phân xử thêm.
+  es: Hùng y Minh bajaron la cabeza a una: «Sí, abuela.» El humo del incienso en el altar seguía subiendo; no hacía falta más árbitro.
+
+notes.es:
+1. Ngày giỗ … bác cả … mâm cỗ … bàn thờ: giỗ = el aniversario ritual de la muerte (se come y se ofrenda en casa). Bác cả = el mayor de los hermanos del padre (bác, lección 3; cả = el mayor): aquí, el hijo mayor del abuelo, que guarda su altar. Mâm cỗ (lección 44) = la bandeja / el festín de ofrenda y de mesa. Bàn thờ = el altar doméstico. Ông nội / bà nội (lección 8).
+2. Thắp hương … khấn: thắp hương = encender el incienso (thắp = encender; hương = incienso). Khấn = murmurar la plegaria / dirigirse a los antepasados. El bác cả, como dueño de casa y mayor de los hermanos, abre el rito.
+3. «Ông mất đã mười năm.»: mất = morir / haberse ido (también «perder»; aquí es la muerte). En boca de bà hablando del marido, mất es directo y natural. Ảnh trên bàn thờ = la foto en el altar.
+4. «Mất» với «qua đời» … «đi xa», «khuất núi»: mất ya es la palabra suave de casa (chết es la cruda). Qua đời = fallecer (registro formal; a la letra «pasar la vida»). Nói tránh = decir de lado, evitar la palabra directa. Đi xa = «irse lejos» (eufemismo suave; lección 25). Khuất núi = «ocultarse tras la montaña» (eufemismo literario / respetuoso). Mai pregunta con mẹ ơi y ạ: hacia la madre, sube la edad. La madre explica al oído y la llama con (hija): mismo hecho, distinto traje de palabra.
+5. Làm lễ … người già ngồi trên, trẻ ngồi dưới: làm lễ = hacer el rito / la ofrenda. Trên / dưới en la bandeja-mesa: los mayores hacia el «arriba» (más cerca del altar o de la cabecera), los jóvenes hacia abajo. Mời vào mâm = invitar a sentarse al festín.
+6. Bóng, gà luộc, chả, xôi: platos habituales del festín del norte (bóng = piel de cerdo inflada y seca, que se cuece en sopa). Gắp cho người bên cạnh trước: servir al otro antes que a uno mismo (eco de gắp en la lección 3). Bát nước chấm: en el norte, bát (no tô).
+7. Hai anh em họ … cuối mâm: anh em họ = primos (anh el mayor, em el menor). Cuối mâm = el final de la mesa: sitio de los más jóvenes. Bàn nhỏ = hablar bajito / discutir en voz baja.
+8. «Năm sau đến lượt nhà anh làm giỗ.»: đến lượt (lección 46) = tocarle el turno. Anh / em entre primos de edad cercana: Hùng se pone anh. Nhà anh rộng = mi casa es grande (anh = yo en boca de Hùng).
+9. «Năm ngoái anh cũng nói thế… Năm sau phải đến lượt em mới công bằng.»: Minh reclama el turno. Công bằng = justo / equitativo. Em = yo (Minh más joven). El gag empieza: el giỗ también se pelea.
+10. Cúng ông … hương đèn: cúng = ofrendar / hacer el culto a (lección 44). Hương đèn = incienso y lámpara del altar (metonimia del culto en regla). Bàn thờ riêng = altar propio en casa.
+11. «Em thắp hương được.»: Minh usa thắp hương (nota 2) para probar que sabe el gesto. Chật một chút = un poco justo de espacio.
+12. «Hai đứa bàn gì…»: đứa dicho por el mayor hacia los jóvenes (cariño o leve regaño). Mặt đỏ = la cara roja (eco del đỏ mặt de Hùng). Bác cả baja la mirada al final de la mesa: aún no sentencia.
+13. Ấp úng … bà nội đặt đũa: ấp úng = tartamudear / no sacar la frase. Bà đặt đũa = deja los palillos: señal de que va a hablar en serio.
+14. «Giỗ ông thì làm ở nơi thờ ông… Ai thích tranh lượt thì tranh với bà.»: nơi thờ ông = donde se rinde culto al abuelo; por costumbre, su altar lo guarda el hijo mayor. Tranh lượt = pelearse por el turno. Bà = yo, en boca de la abuela. Una sola frase cierra el pleito: no hay turno que pelear.
+15. «Dạ, chúng cháu nghe bà ạ.»: dạ y ạ de los nietos hacia la abuela (solo suben la edad). Chúng cháu nghe bà = te obedecemos, abuela. El humo del incienso sigue: el rito no necesitaba árbitro joven.
+
+ex1:
+- Ngày giỗ, bác cả thắp hương trước bàn thờ rồi mời mọi người vào mâm.
+  es: El día del aniversario, el tío mayor enciende el incienso ante el altar y luego invita a todos a la mesa.
+- Nói «qua đời» lịch sự hơn nói «chết» khi kể với người ngoài.
+  es: Decir «qua đời» es más cortés que decir «chết» al contárselo a un extraño.
+- Người già ngồi trên; trẻ ngồi cuối mâm.
+  es: Los mayores se sientan arriba; los jóvenes, al final de la mesa.
+- Hai anh em họ tranh nhau năm sau nhà ai làm giỗ.
+  es: Los dos primos se pelean por en casa de quién será el aniversario el año que viene.
+- Bà nội chỉ nói một câu là cả mâm hết cãi.
+  es: La abuela dice una sola frase y toda la mesa deja de discutir.
+
+ex2:
+- Trước bàn thờ, bác [thắp hương] và khấn.
+  es: Ante el altar, el tío enciende el incienso y murmura la plegaria.
+- Ông tôi [qua đời] đã mười năm.
+  es: Mi abuelo falleció hace ya diez años.
+- Cả họ về [cúng] giỗ ông nội.
+  es: Toda la parentela viene a ofrendar en el aniversario del abuelo.
+- Năm sau đến [lượt] nhà bác làm giỗ.
+  es: El año que viene toca hacer el aniversario en casa del tío.
+- «[Khuất núi]» cũng là cách nói nhẹ về cái chết.
+  es: «Khuất núi» también es un modo suave de hablar de la muerte.
+
+== 55 C1
+numeral: Bài thứ năm mươi lăm
+title: Người Việt ở nước ngoài
+title.es: Los vietnamitas en el extranjero
+
+dialogue:
+- Người Việt sống ở nhiều nước; cộng đồng lớn nhất thường được nhắc là ở Mỹ, Pháp, Úc, và vài nước châu Âu.
+  es: Hay vietnamitas en muchos países; las comunidades que más se nombran suelen ser las de Estados Unidos, Francia, Australia y varios países de Europa.
+- Từ thời thuộc địa, đã có người Việt sang Pháp học, làm và lập nghiệp; Paris còn nhiều quán mang dấu Việt.
+  es: Desde la época colonial ya hubo vietnamitas que fueron a Francia a estudiar, trabajar y echar raíces; en París aún hay muchos locales con huella vietnamita.
+- Sau năm một nghìn chín trăm bảy mươi lăm, nhiều người rời miền Nam, định cư ở Mỹ; Little Saigon ở California thành trung tâm quen tên.
+  es: Después de mil novecientos setenta y cinco, mucha gente dejó el sur y se estableció en Estados Unidos; Little Saigon, en California, se volvió un centro de nombre conocido.
+- Ở Đức, Séc và Nga, từ những năm tám mươi thế kỷ trước, có người sang làm theo diện hợp tác lao động; nhiều người ở lại, lập gia đình.
+  es: En Alemania, Chequia y Rusia, desde los años ochenta del siglo pasado, hubo quien fue a trabajar con los programas de cooperación laboral; muchos se quedaron y formaron familia.
+- Úc cũng có cộng đồng Việt đông; chợ và chùa cuối tuần đông như ngày hội.
+  es: Australia también tiene una comunidad vietnamita numerosa; el mercado y la pagoda del fin de semana se llenan como en día de fiesta.
+- Người ta gọi người Việt ở nước ngoài là Việt kiều; trong nước, chữ ấy nghe vừa gần vừa xa.
+  es: A los vietnamitas en el extranjero se les llama Việt kiều; dentro del país, la palabra suena cercana y lejana a la vez.
+- Có người di cư vì chiến tranh, có người vì học, vì việc, vì hôn nhân; mỗi thế hệ một lý do.
+  es: Hay quien emigró por la guerra, quien por estudio, por trabajo, por matrimonio; cada generación una razón.
+- Thế hệ thứ nhất giữ tiếng Việt trong bếp và trong chùa; ra đường thì chuyển sang tiếng nước sở tại.
+  es: La primera generación guarda el vietnamita en la cocina y en la pagoda; en la calle pasa a la lengua del país de acogida.
+- Thế hệ thứ hai thường hiểu ông bà, nhưng trả lời bằng tiếng khác: câu hỏi bằng tiếng Việt, câu đáp bằng tiếng Pháp hay tiếng Anh.
+  es: La segunda generación suele entender a los abuelos, pero contesta en otra lengua: la pregunta en vietnamita, la respuesta en francés o en inglés.
+- Tiếng Việt pha là chuyện thường: một câu mở bằng «mẹ ơi», rồi xen chữ Tây vào giữa.
+  es: El vietnamita mezclado es cosa habitual: la frase abre con «mẹ ơi» y en medio se cuela una palabra occidental.
+- Ở đâu có cộng đồng Việt, ở đó sớm có phở: quán nhỏ, nước dùng ninh lâu, bàn ghế đơn sơ.
+  es: Donde hay comunidad vietnamita, pronto hay pho: local pequeño, caldo largo de cocción, mesas y sillas sencillas.
+- Có quán viết bảng hai thứ tiếng; có quán chỉ cần mùi hành và gừng là khách Việt tìm đến.
+  es: Hay locales con el rótulo en dos lenguas; hay locales a los que basta el olor a cebolleta y jengibre para que el cliente vietnamita dé con ellos.
+- Ngày Tết ở xa nhà, người ta vẫn gói bánh, vẫn chúc nhau, dù tuyết ngoài cửa thay cho mưa phùn Hà Nội.
+  es: El Tet lejos de casa, la gente sigue envolviendo pasteles y deseándose cosas, aunque fuera de la puerta nieve en lugar de la llovizna de Hanói.
+- Một bà cụ ở Paris bán hàng trong khu người Việt đã hơn ba mươi năm; cháu nội bà nói tiếng Pháp còn sõi hơn tiếng Việt.
+  es: Una señora mayor en París lleva más de treinta años vendiendo en el barrio vietnamita; su nieto habla el francés mejor que el vietnamita.
+- Một khách Tây hỏi, cháu bà dịch lại: bà có học tiếng Pháp không; bà cười, chỉ quanh quầy hàng và hàng xóm.
+  es: Un cliente francés le pregunta, con el nieto de intérprete, si ha aprendido francés; ella sonríe y señala el puesto y los vecinos.
+- Bà chưa học tiếng Pháp bao giờ, và cũng chưa cần đến: ba mươi năm bà nói tiếng Việt giữa Paris.
+  es: Nunca ha aprendido francés, y nunca le ha hecho falta: treinta años lleva hablando vietnamita en medio de París.
+
+notes.es:
+1. Cộng đồng … ở Mỹ, Pháp, Úc: cộng đồng = la comunidad. Người Việt ở nước ngoài (Fundamentos, lecciones 39 y 97). El retrato abre con el mapa amplio, no con una sola diáspora.
+2. Từ thời thuộc địa … sang Pháp: thuộc địa = la época colonial. Lập nghiệp = echar raíces / establecerse profesionalmente. Desde la época colonial hubo en Francia obreros, soldados y estudiantes vietnamitas.
+3. Sau năm một nghìn chín trăm bảy mươi lăm … định cư … Little Saigon: 1975, el fin de la guerra. Định cư = establecerse / fijar residencia. Little Saigon en California es el nombre habitual del centro urbano vietnamita-estadounidense.
+4. Đức, Séc và Nga … hợp tác lao động … những năm tám mươi: theo diện = por la vía de, dentro del programa de. Hợp tác lao động = cooperación laboral: los acuerdos de los años 80 con la RDA, Checoslovaquia y la URSS. Ở lại = quedarse. Séc = Chequia (nombre corto corriente).
+5. Úc … chợ và chùa: la comunidad vietnamita en Australia es otra de las grandes. Chùa (lección 50) = la pagoda: punto de reunión del fin de semana.
+6. Việt kiều: Việt kiều = vietnamita en el extranjero (Hán Việt: kiều = residente fuera). En el país la palabra nombra al que vive fuera; el tono puede ser afectuoso, administrativo o distante según quién habla.
+7. Di cư … thế hệ: di cư = emigrar / desplazarse. Thế hệ = la generación. Chiến tranh, học, việc, hôn nhân: cuatro motivos sin novelar.
+8. Thế hệ thứ nhất … tiếng nước sở tại: thế hệ thứ nhất = la primera generación. Sở tại = del lugar / de acogida. Bếp và chùa: dos espacios donde el vietnamita «se queda».
+9. Thế hệ thứ hai … hiểu … trả lời bằng tiếng khác: el foco del retrato. Hiểu ông bà nhưng đáp bằng tiếng Pháp / Anh: escena cotidiana de muchas casas, no caricatura.
+10. Tiếng Việt pha: pha = mezclado / con mezcla. Xen chữ Tây = colar una palabra occidental. «Mẹ ơi» abre en vietnamita; el resto puede ya no serlo.
+11. Ở đâu có cộng đồng Việt, ở đó sớm có phở: ở đâu …, ở đó … = donde hay …, allí … Ninh lâu = cocer largo rato. El plato viaja con la comunidad.
+12. Bảng hai thứ tiếng … mùi hành và gừng: el rótulo bilingüe frente al olfato: dos modos de «encontrar» el local.
+13. Tết ở xa nhà … tuyết … mưa phùn: bánh del Tet (lección 44). Mưa phùn = la llovizna fina de Hanói. Tuyết = la nieve: el contraste de clima cierra la escena del Tet lejos de casa.
+14. Bà cụ ở Paris … cháu nội bà … sõi: bà cụ = la señora mayor. Cháu nội = el nieto por línea paterna. Sõi = con soltura (de una lengua). Cháu bà dịch lại (frase 15) = su nieto traduce. El desnivel de lengua prepara el gag.
+15. Bà chưa học tiếng Pháp bao giờ, và cũng chưa cần đến: el cierre. Entre el puesto y los vecinos, París le habla vietnamita. Chưa … bao giờ = nunca (hasta ahora); chưa cần đến = no haberle hecho falta todavía.
+
+ex1:
+- Sau năm một nghìn chín trăm bảy mươi lăm, nhiều người Việt định cư ở Mỹ.
+  es: Después de mil novecientos setenta y cinco, muchos vietnamitas se establecieron en Estados Unidos.
+- Người Việt ở nước ngoài thường được gọi là Việt kiều.
+  es: A los vietnamitas en el extranjero se les suele llamar Việt kiều.
+- Thế hệ thứ hai hiểu tiếng Việt nhưng hay trả lời bằng tiếng khác.
+  es: La segunda generación entiende vietnamita, pero a menudo contesta en otra lengua.
+- Ở đâu có cộng đồng Việt, ở đó sớm có quán phở.
+  es: Donde hay comunidad vietnamita, pronto hay un local de pho.
+- Bà cụ ở Paris ba mươi năm nói tiếng Việt, chưa cần tiếng Pháp.
+  es: La señora mayor lleva treinta años en París hablando vietnamita; nunca le ha hecho falta el francés.
+
+ex2:
+- Nhiều người [định cư] ở Úc sau khi di cư.
+  es: Muchos se establecen en Australia después de emigrar.
+- [Việt kiều] về thăm nhà vào dịp Tết.
+  es: Los vietnamitas del extranjero vuelven a visitar la familia por el Tet.
+- Mỗi [thế hệ] giữ tiếng Việt một cách khác.
+  es: Cada generación guarda el vietnamita de un modo distinto.
+- Câu của cháu là tiếng Việt [pha] tiếng Pháp.
+  es: La frase del nieto es vietnamita mezclado con francés.
+- Ở Paris cũng có [cộng đồng] người Việt đông.
+  es: En París también hay una comunidad vietnamita numerosa.
+
+== 56 C1
+kind: revision
+numeral: Bài thứ năm mươi sáu
+title: Ôn tập
+title.es: Repaso
+
+notes.es:
+La octava semana sigue en C1: Ninh Bình, Nguyễn Trãi, el informe de fin de año, la familia de ra, el aniversario de la muerte y los Việt kiều. Como en las lecciones 7, 14, 21, 28, 35, 42 y 49, aquí no hay nada que memorizar: las tablas ordenan lo que leíste del 50 al 55. Si cố đô aún te suena solo a «capital vieja», o si ra vẻ y ra dáng se te mezclan, sigue adelante: vuelven. Lee las tablas una vez y haz los diez ejercicios del final.
+
+1. Hán Việt y dobletes nativos (lecciones 44, 50 y 51). Misma idea, dos trajes; en compuestos cultos el modificador suele ir delante.
+
+| Hán Việt | Nativo | Dónde vive |
+|---|---|---|
+| sơn | núi | sơn hào hải vị (lección 44); núi đá vôi (lección 50) |
+| thủy | nước | thủy quân en historia; nước en la calle |
+| thiên | trời | thiên nhiên; trời đất / thiên địa (lección 44) |
+| địa | đất | địa lý; đất nước |
+| nhân | người | nhân nghĩa (lección 51); người en la charla |
+| gia | nhà | gia đình; nhà mình |
+
+
+Orden Hán Việt (modificador + núcleo): đại lộ = gran avenida (đại grande + lộ camino). El molde nativo va al revés: đường lớn (camino + grande). Cố đô (cố antiguo + đô capital, lección 50) sigue el orden Hán Việt. An dân y nhân nghĩa (lección 51) son pares cultos: no se «traducen» sílaba a sílaba en la charla. Được ví như (lección 50) viste la comparación de guía: Ninh Bình được ví như Hạ Long trên cạn.
+
+2. La familia de ra (lección 53). Dirección, resultado y apariencia: una sílaba, muchos oficios.
+
+| Forma | Sentido | Ejemplo |
+|---|---|---|
+| ra vẻ | aparentar / hacerse el… | ra vẻ nhà văn |
+| ra dáng | tener pinta / aire de | ra dáng nhà văn |
+| ra sao | cómo / en qué estado | sách ra sao? |
+| nghĩ ra | ocurrírsele | nghĩ ra một cốt truyện |
+| tìm ra | dar con / encontrar | tìm ra cách mới |
+| nhận ra | reconocer | chẳng nhận ra ai |
+| ra hồn | como debe ser (en negativa) | văn chưa ra hồn |
+| ra trò | de verdad (tras adjetivo) | hay ra trò |
+| không ra gì | no valer nada | thế này thì không ra gì |
+| ra tay | intervenir | mẹ ra tay |
+| ra điều kiện | poner condiciones | nhà xuất bản ra điều kiện |
+| ra mắt | presentar / estrenar (libro); presentarse a la familia (lección 3) | tối ra mắt ở hiệu sách |
+| ra đời | nacer / ver la luz | quyển sách ra đời |
+| ra ngô ra khoai | claro, definido | cũng sắp ra ngô ra khoai rồi |
+| hóa ra | resulta que… | hóa ra chẳng ai nhận ra tác giả |
+
+Nghĩ ra nace la idea; tìm ra la halla; nhận ra pone cara al resultado. Ra vẻ es pose; ra dáng es pinta. El gag: el libro ra đời y ra mắt, pero nadie reconoce al autor.
+
+3. Oficialese del informe de logros (lección 52) (lecciones 47 y 48). Habla en compuestos; la ironía está en que siempre «cơ bản hoàn thành».
+
+| Forma | Matiz | Ejemplo |
+|---|---|---|
+| cơ bản hoàn thành | cumplido en lo esencial | đã cơ bản hoàn thành nhiệm vụ |
+| đạt và vượt chỉ tiêu | alcanzar y superar el indicador | đạt và vượt mức kế hoạch |
+| tích cực / đồng bộ / quyết liệt | activo / sincronizado / con firmeza | triển khai tích cực; phối hợp đồng bộ; quyết liệt xử lý |
+| hạn chế … điều kiện khách quan | limitaciones … condiciones objetivas | vẫn còn hạn chế; điều kiện khách quan còn khó khăn |
+| rút kinh nghiệm sâu sắc | sacar lecciones profundas | tập thể đã rút kinh nghiệm sâu sắc |
+| đẩy mạnh / nâng cao / hoàn thiện / nhân rộng | impulsar / elevar / perfeccionar / extender | phương hướng năm tới |
+| kính trình … xem xét | se eleva … para examen | kính trình lãnh đạo xem xét |
+
+Cơ bản hoàn thành casi nunca dice «todo listo». El anexo sobre el propio informe (lección 52) es el hermano de la reunión que saca lecciones de la reunión (lección 10).
+
+4. Eufemismos: muerte, edad, dinero (lección 54) (lección 25). Mismo hecho, traje más suave; el registro sube con la persona que escucha.
+
+| Tema | Más directo | Más suave | Nota |
+|---|---|---|---|
+| muerte | chết | mất, qua đời, đi xa, khuất núi | mất es lo natural en casa; qua đời, más formal (lección 54); đi xa (lección 25) |
+| edad | già | lớn tuổi, cao tuổi, người cao tuổi | già no es insulto, pero lớn tuổi suaviza en público |
+| dinero | nghèo / hết tiền | hoàn cảnh khó khăn, kinh tế còn hạn chế | se oye en la escuela, en el barrio, en las colectas |
+
+En el aniversario (lección 54), la madre enseña los trajes de la muerte al oído. Con la edad y el dinero, el mismo reflejo: no herir delante de terceros. Điều kiện khách quan còn khó khăn, en el informe (lección 52), también ablanda; aquí, en boca cotidiana, ablanda el bolsillo.
+
+Ninh Bình (cố đô, được ví như), Nguyễn Trãi (nhân nghĩa, bị), ra y el aniversario siguen en el cuaderno: vuelven cuando el paisaje, la historia o el altar lo pidan. La semana que viene abre con los proverbios.
+
+ex1:
+- Hoa Lư từng là cố đô; nơi ấy được ví như Hạ Long trên cạn.
+  es: Hoa Lư fue antigua capital; aquel sitio se compara con Hạ Long en tierra firme.
+- Ông nhấn mạnh nhân nghĩa và an dân trong Bình Ngô đại cáo.
+  es: Él insiste en la humanidad y la justicia, y en dar paz al pueblo, en el Bình Ngô đại cáo.
+- Đơn vị đã cơ bản hoàn thành chỉ tiêu và rút kinh nghiệm sâu sắc.
+  es: La unidad ha cumplido en lo esencial el indicador y ha sacado lecciones profundas.
+- Quyển sách đã ra đời, nhưng chẳng ai nhận ra tác giả.
+  es: El libro ya ha visto la luz, pero nadie reconoce al autor.
+- Nói «qua đời» hoặc «đi xa» lịch sự hơn nói «chết» với người lạ.
+  es: Decir «qua đời» o «đi xa» es más cortés que decir «chết» con un desconocido.
+
+ex2:
+- Trong Hán Việt, trời là [thiên], đất là [địa].
+  es: En sino-vietnamita, el cielo es thiên y la tierra địa.
+- Đừng [ra vẻ] biết hết; hãy nói cho [ra ngô] [ra khoai].
+  es: No finjas saberlo todo; di las cosas claras.
+- Các chỉ tiêu đều [đạt] và [vượt] kế hoạch.
+  es: Todos los indicadores alcanzan y superan el plan.
+- Trước bàn thờ, bác [thắp hương] rồi mời vào mâm.
+  es: Ante el altar, el tío enciende el incienso y luego invita a la mesa.
+- Người Việt ở nước ngoài được gọi là [Việt kiều].
+  es: A los vietnamitas en el extranjero se les llama Việt kiều.
+
+== 57 C1
+numeral: Bài thứ năm mươi bảy
+title: Uống nước nhớ nguồn
+title.es: Al beber agua, recuerda la fuente
+
+dialogue:
+- Tối thứ bảy, bố ngồi đối diện con đang ôn bài thi cuối kỳ, hai tay khoanh, nhìn thẳng.
+  es: El sábado por la noche, el padre se sentó frente al hijo, que repasaba el examen final, con los brazos cruzados y la mirada fija.
+- Con ngẩng lên: «Bố ơi, bài này khó quá.» Bố gật chậm: «Có công mài sắt, có ngày nên kim.»
+  es: El hijo levantó la cabeza: «Papá, este tema es dificilísimo.» El padre asintió despacio: «Con esfuerzo se lima el hierro; un día se hace aguja.»
+- Con thở dài: «Con học mãi mà chưa hiểu.» Bố đáp ngay: «Uống nước nhớ nguồn. Thầy cô dạy con chu đáo thế, con phải học cho xứng.»
+  es: El hijo suspiró: «Estudio y estudio y aún no lo entiendo.» El padre contestó al instante: «Al beber agua, recuerda la fuente. Con lo bien que te enseñan tus maestros, tienes que estar a la altura.»
+- Con hơi cáu: «Bố toàn nói tục ngữ. Con cần lời giải, không cần câu hay.»
+  es: El hijo, un poco enfadado: «Papá, solo hablas en proverbios. Necesito una explicación, no una frase bonita.»
+- Bố không đổi giọng: «Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao. Con hỏi bạn cùng lớp đi.»
+  es: El padre no cambió el tono: «Un árbol solo no hace monte; tres juntos hacen una gran montaña. Pregunta a tus compañeros de clase.»
+- Con cười gượng, cũng lấy một câu: «Gần mực thì đen, gần đèn thì rạng. Ngồi với bạn giỏi thì con cũng khá hơn.»
+  es: El hijo sonrió a la fuerza y sacó una frase también: «Cerca de la tinta te manchas; cerca de la lámpara, brillas. Si me siento con los buenos, yo también mejoro.»
+- Bố gật mạnh hơn: «Đúng. Học với người chăm thì mình chăm theo.»
+  es: El padre asintió con más fuerza: «Exacto. Si estudias con gente aplicada, te vuelves aplicado tú también.»
+- Con nhìn đống sách: «Nhưng các bạn cũng bận ôn thi. Con sợ trượt.»
+  es: El hijo miró el montón de libros: «Pero ellos también están liados con los exámenes. Me da miedo suspender.»
+- Bố chỉ vào trang đang mở: «Tốt gỗ hơn tốt nước sơn. Hiểu chắc còn hơn thuộc mặt ngoài.»
+  es: El padre señaló la página abierta: «Más vale buena madera que buen barniz. Entender de verdad vale más que memorizar la superficie.»
+- Con nghĩ một lúc, rồi cũng đáp bằng tục ngữ: «Lời chào cao hơn mâm cỗ. Mai con chào thầy và hỏi lại đoạn khó.»
+  es: El hijo pensó un momento y contestó también con un proverbio: «Un saludo vale más que un festín. Mañana saludo al profesor y le pregunto el pasaje difícil.»
+- Bố cười nhẹ: «Thế mới phải. Biết hỏi thì không xấu hổ.»
+  es: El padre sonrió un poco: «Así sí. Preguntar no da vergüenza.»
+- Con cúi xuống viết lại một công thức; bố nhìn, chưa kịp nói thêm.
+  es: El hijo se inclinó a reescribir una fórmula; el padre miró, sin llegar a añadir nada.
+- Mẹ từ bếp bước ra, lau tay vào tạp dề, đã nghe hết cuộc đối đáp bằng tục ngữ.
+  es: La madre salió de la cocina, se secó las manos en el delantal y había oído toda la charla en proverbios.
+- Mẹ đặt đĩa hoa quả xuống bàn: «Hai bố con nói hay thật.»
+  es: Dejó el plato de fruta en la mesa: «Qué bien habláis padre e hijo.»
+- Rồi mẹ nhìn cả hai, nói một câu đủ kết thúc đêm ấy: «Một sự nhịn bằng chín sự lành. Hai bố con nhịn nhau một câu, để con nó học; mai còn thi sớm.»
+  es: Luego miró a los dos y dijo la frase que cerró aquella noche: «Un trago de paciencia vale por nueve de bien. Ahorraos una frase cada uno y dejad estudiar al chico; mañana tiene examen temprano.»
+- Bố và con cùng im. Trên bàn, quả còn nguyên; tục ngữ thì đã hết việc.
+  es: Padre e hijo se callaron a una. En la mesa, la fruta seguía intacta; los proverbios ya no tenían oficio.
+
+notes.es:
+1. Tối thứ bảy … ôn bài thi cuối kỳ: ôn bài (Fundamentos, lección 39) = repasar la lección. Thi cuối kỳ = el examen de final de período. Bố (Fundamentos, lección 15) / con: el hijo llama bố al padre; el padre llama con al hijo. Khoanh tay = cruzarse de brazos.
+2. «Có công mài sắt, có ngày nên kim.»: tục ngữ ya visto en Fundamentos (lección 95): con esfuerzo se lima el hierro; un día se hace aguja. El padre no explica el ejercicio: cita. Nên kim = llegar a ser aguja.
+3. «Uống nước nhớ nguồn.»: tục ngữ = al beber agua, recuerda la fuente (no olvides el origen ni a quien te ayudó). Hermano cercano de «ăn quả nhớ kẻ trồng cây» (al comer la fruta, recuerda a quien plantó el árbol). Aquí nguồn = la fuente / el origen (los maestros). Chu đáo = esmerado. Học cho xứng = estudiar a la altura de lo recibido.
+4. Bố toàn nói tục ngữ … câu hay: tục ngữ = proverbio (frase completa, a menudo en dos mitades paralelas, que enseña). Thành ngữ = locución fija de pocas sílabas (đi guốc trong bụng, lección 25; mở cờ trong bụng, lección 40): no es lo mismo. El hijo quiere lời giải (una explicación), no una cita.
+5. «Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao.»: tục ngữ en dos mitades: un árbol solo no hace monte; tres juntos hacen una gran montaña. Chụm lại = juntarse / reunirse. Enseñanza: no estudies solo; pregunta a los compañeros.
+6. «Gần mực thì đen, gần đèn thì rạng.»: tục ngữ de compañía: cerca de la tinta te manchas; cerca de la lámpara, brillas (rạng = brillar / aclararse; también se oye sáng). El hijo ya contesta en el mismo idioma: aquí empieza el gag.
+7. Học với người chăm thì mình chăm theo: el padre traduce el proverbio a frase moderna, sin soltar otro tục ngữ: compañía → hábito.
+8. «Tốt gỗ hơn tốt nước sơn.»: tục ngữ = más vale buena madera que buen barniz (la sustancia importa más que el barniz). Nước sơn = el barniz / la pintura superficial. Para el examen: entender > memorizar la fachada.
+9. «Lời chào cao hơn mâm cỗ.»: tục ngữ = un saludo (respetuoso) vale más que un festín (mâm cỗ, lección 44). El hijo lo aplica en serio: mañana saluda al thầy y pregunta. Chào thầy = saludar al profesor (chào, Fundamentos, lección 1).
+10. Biết hỏi thì không xấu hổ: el padre aprueba en prosa breve. Xấu hổ = dar vergüenza.
+11. Mẹ từ bếp … tạp dề: tạp dề = el delantal. La madre ha oído el duelo de tục ngữ; no entra en la materia del examen.
+12. «Một sự nhịn bằng chín sự lành.»: tục ngữ = un trago de paciencia / de aguantar vale por nueve de bien (a la letra «un asunto de aguantar iguala nueve asuntos buenos»). Nhịn = aguantar / morderse la lengua. Nhịn nhau một câu = callarse una frase cada uno. Để con nó học = dejad estudiar al chico (con nó: el hijo, dicho con cariño). El cierre usa un proverbio para mandarlos a callar.
+13. Tục ngữ thì đã hết việc: hết việc = ya no tienen oficio / se acabó su trabajo. La fruta sigue; el sermón en citas, no.
+
+ex1:
+- Bố không giảng bài; bố chỉ đọc một câu tục ngữ rồi im.
+  es: El padre no explica el tema; solo lee un proverbio y se calla.
+- Gần bạn chăm thì mình cũng chăm theo, đúng như gần đèn thì rạng.
+  es: Si te juntas con compañeros aplicados, tú también te vuelves aplicado, como cerca de la lámpara se brilla.
+- Hiểu chắc còn hơn thuộc mặt ngoài: tốt gỗ hơn tốt nước sơn.
+  es: Entender de verdad vale más que memorizar la superficie: más vale buena madera que buen barniz.
+- Mai em chào thầy và hỏi lại đoạn khó trong sách.
+  es: Mañana saludo al profesor y le pregunto otra vez el pasaje difícil del libro.
+- Mẹ chỉ nói một câu tục ngữ là hai bố con cùng im.
+  es: Bastó un proverbio de la madre para que padre e hijo se callaran a una.
+
+ex2:
+- «Có công [mài] [sắt], có ngày nên [kim].»
+  es: Con esfuerzo se lima el hierro; un día se hace aguja.
+- «Uống nước nhớ [nguồn].»
+  es: Al beber agua, recuerda la fuente.
+- Một cây làm chẳng nên [non]; phải hỏi bạn cùng lớp.
+  es: Un árbol solo no hace monte; hay que preguntar a los compañeros de clase.
+- Tốt [gỗ] hơn tốt nước [sơn].
+  es: Más vale buena madera que buen barniz.
+- Một sự [nhịn] bằng chín sự lành.
+  es: Un trago de paciencia vale por nueve de bien.
+
+== 58 C1
+numeral: Bài thứ năm mươi tám
+title: Ông không vứt gì đi
+title.es: El abuelo no tira nada
+
+dialogue:
+- Ông nội nhà Lan không vứt gì đi: túi nilon gấp thành hình tam giác, xếp trong ngăn kéo thứ ba.
+  es: El abuelo de Lan no tira nada: las bolsas de plástico las pliega en triángulo y las guarda en el tercer cajón.
+- Hộp bánh trung thu năm ngoái, năm kia, năm kia nữa vẫn nằm trên nóc tủ; ông bảo «phòng khi đựng bánh khác».
+  es: Las cajas de pasteles de luna del año pasado, del anterior y del de antes siguen encima del armario; él dice «por si hay que guardar otros pasteles».
+- Dây chun thì ông buộc thành một bó lớn; lịch cũ treo chồng lên nhau sau cánh cửa.
+  es: Las gomas las ata en un manojo grande; los calendarios viejos cuelgan unos sobre otros detrás de la hoja de la puerta.
+- Cháu Lan hỏi: «Ông giữ làm gì ạ?» Ông đáp: «Phòng khi cần. Lỡ hết thì mua mới đắt.»
+  es: La nieta Lan preguntó: «Abuelo, ¿para qué lo guardas?» Él: «Por si hace falta. Si se acaba, comprar de nuevo sale caro.»
+- Mẹ Lan thì thầm với bố: «Bố mình hà tiện quá. Tiết kiệm là một chuyện; giữ rác là chuyện khác.»
+  es: La madre de Lan cuchicheó al padre: «Tu padre es demasiado tacaño. Ahorrar es una cosa; guardar basura es otra.»
+- Bố Lan gật: «Nhưng đừng vứt trước mặt ông. Kẻo ông buồn cả tuần.»
+  es: El padre de Lan asintió: «Pero no lo tires delante de él. No sea que se ponga triste toda la semana.»
+- Một hôm cả nhà dọn kho: mẹ bảo «Nhỡ đâu chuột vào hộp cũ.» Lan bê từng hộp ra sân.
+  es: Un día toda la casa vació el trastero: la madre dijo «No vaya a ser que entren ratones en las cajas viejas.» Lan sacó caja tras caja al patio.
+- Túi nilon, dây chun, lịch năm hai nghìn không trăm mười tám: tất cả vào bao lớn mang ra điểm tập kết.
+  es: Bolsas de plástico, gomas, el calendario de dos mil dieciocho: todo a una bolsa grande, hacia el punto de recogida.
+- Ông đi chợ về muộn; mở ngăn kéo thứ ba thì trống. Ông đứng lâu, không nói.
+  es: El abuelo volvió tarde del mercado; abrió el tercer cajón y estaba vacío. Se quedó un rato de pie, sin hablar.
+- Tối ấy ông tìm mãi một sợi dây chun để buộc túi rau. Không còn.
+  es: Aquella noche buscó y buscó una goma para atar la bolsa de verduras. Ya no quedaba ninguna.
+- Ông hỏi khẽ: «Dây chun đâu?» Lan nhìn mẹ. Mẹ nhìn bố. Không ai trả lời ngay.
+  es: Preguntó bajito: «¿Dónde están las gomas?» Lan miró a su madre. La madre miró al padre. Nadie contestó al momento.
+- Bố lấy trong túi quần một sợi còn mới: «Con giữ phòng khi cần. Bố dùng tạm.»
+  es: El padre sacó del bolsillo del pantalón una aún nueva: «Yo la guardaba por si hacía falta. Usa esta de momento.»
+- Ông buộc túi rau xong, gật: «Phòng khi cần. Đúng.» Rồi ông nhìn bao rác ngoài sân.
+  es: El abuelo ató la bolsa de verduras, asintió: «Por si hace falta. Exacto.» Y miró la bolsa de basura en el patio.
+- Sáng hôm sau, ông không trách ai. Ông chỉ mua một bó dây chun mới và một xấp túi nilon.
+  es: A la mañana siguiente no reprendió a nadie. Solo compró un manojo nuevo de gomas y un fajo de bolsas de plástico.
+- Ông gấp túi thành tam giác, bỏ vào ngăn kéo thứ ba, nói với Lan: «Lỡ lần sau cần thì còn.»
+  es: Plegó las bolsas en triángulo, las metió en el tercer cajón y dijo a Lan: «Si la próxima vez hace falta, aún habrá.»
+- Lan cười: «Vâng ạ.» Trong đầu nó nghĩ: cả nhà vứt hết «phòng khi» của ông; ông lại cần đúng một sợi dây chun.
+  es: Lan sonrió: «Sí.» Pensó para sus adentros: toda la casa tiró el «por si acaso» del abuelo; y justo entonces él necesitó una sola goma.
+
+notes.es:
+1. Ông không vứt gì đi: vứt = tirar / desechar. Ông nội (lección 8). Ông como tratamiento a un hombre mayor (Fundamentos, lección 1: chào ông). El retrato arranca con el hábito, no con un sermón.
+2. Túi nilon gấp thành hình tam giác: túi nilon = bolsa de plástico (nilon, préstamo corriente). Gấp thành hình tam giác = plegar en triángulo: gesto típico de quien guarda bolsas «por si acaso». Ngăn kéo = el cajón. Nóc tủ = lo alto del armario.
+3. Hộp bánh trung thu … «phòng khi đựng bánh khác»: bánh trung thu = pastel de luna (Tết Trung thu). Phòng khi + verbo / cláusula = por si / por si hace falta (previsión). No es phòng «habitación» (Fundamentos, lección 9): aquí phòng = prevenir. Đựng = contener / guardar dentro.
+4. Dây chun … lịch cũ: dây chun = goma elástica. Lịch cũ = calendario viejo. Buộc thành một bó = atar en un manojo. Chồng lên nhau = unos sobre otros.
+5. «Phòng khi cần. Lỡ hết thì mua mới đắt.»: lỡ + verbo = si resulta que… / si se da el caso de… (Fundamentos, lección 62: lỡ máy bay = perder el avión; aquí lỡ hết = si se acabara). El abuelo junta phòng khi (previsión) y lỡ (el riesgo de quedarse sin).
+6. Hà tiện … tiết kiệm: tiết kiệm (lección 12) = ahorrar / ser ahorrador (matiz neutro o positivo). Hà tiện = tacaño / agarrado (matiz negativo). La madre marca la raya: ahorrar ≠ guardar basura. Thì thầm (lección 8).
+7. «Kẻo ông buồn cả tuần.»: kẻo (Fundamentos, lección 72) = no sea que / para que no. Encadena la precaución hacia el abuelo: no tirar delante de él.
+8. «Nhỡ đâu chuột vào hộp cũ.»: nhỡ đâu = no vaya a ser que / por si acaso ocurre que… (cercano a phòng khi y a lỡ, pero con matiz de accidente temido). Chuột = ratón. Dọn kho = vaciar el trastero.
+9. Điểm tập kết: punto de recogida de residuos del barrio. Bao lớn = bolsa grande.
+10. Ngăn kéo thứ ba thì trống: trống = vacío. Ông đứng lâu, không nói: el silencio pesa más que un reproche.
+11. «Con giữ phòng khi cần. Bố dùng tạm.»: el hijo (el padre de Lan) también guardaba «por si hace falta»: el gag empieza a cerrarse. Dùng tạm = usar algo de momento, mientras tanto. Con / bố: el hijo se llama con y llama bố a su padre. Bố mình, en la frase 5, es la nuera hablando con su marido: «nuestro padre».
+12. «Phòng khi cần. Đúng.»: el abuelo reconoce su propia frase en boca del hijo. Rồi nhìn bao rác: ve el resultado del «orden» familiar.
+13. Lỡ lần sau cần thì còn: lỡ otra vez = si la próxima vez… El abuelo no sermonea; vuelve a llenar el cajón.
+14. Cả nhà vứt hết «phòng khi» của ông; ông lại cần đúng một sợi dây chun: el cierre: el día que lo tiran todo, hace falta justo una goma. Lại cần = resulta que necesita. Đúng một = justo una.
+
+ex1:
+- Ông gấp túi nilon thành tam giác rồi bỏ vào ngăn kéo.
+  es: El abuelo pliega las bolsas de plástico en triángulo y las mete en el cajón.
+- Giữ hộp bánh trung thu phòng khi đựng đồ khác.
+  es: Guarda las cajas de pasteles de luna por si sirven para otras cosas.
+- Tiết kiệm thì tốt; hà tiện đến mức giữ rác thì mệt.
+  es: Ahorrar está bien; ser tan tacaño como para guardar basura cansa.
+- Đừng vứt trước mặt ông kẻo ông buồn.
+  es: No tires delante del abuelo, no sea que se ponga triste.
+- Cả nhà dọn kho xong, ông lại cần đúng một sợi dây chun.
+  es: En cuanto la familia vació el trastero, el abuelo necesitó justo una goma.
+
+ex2:
+- Ông giữ mọi thứ [phòng khi] cần.
+  es: El abuelo lo guarda todo por si hace falta.
+- Lỡ hết dây chun thì phải [mua] mới.
+  es: Si se acaban las gomas, hay que comprar otras.
+- Đừng nói to [kẻo] ông nghe thấy.
+  es: No hables alto, no sea que el abuelo te oiga.
+- Cả nhà [dọn] kho vào chủ nhật.
+  es: La familia vacía el trastero el domingo.
+- Mẹ chê ông [hà tiện]; ông chỉ cười và gấp thêm một chiếc túi.
+  es: La madre dice que el abuelo es tacaño; él solo sonríe y pliega otra bolsa.
+
+== 59 C1
+numeral: Bài thứ năm mươi chín
+title: Ba thứ chữ
+title.es: Tres escrituras
+
+dialogue:
+- Tiếng Việt từng được viết bằng ba thứ chữ khác nhau: chữ Hán, chữ Nôm và chữ quốc ngữ.
+  es: El vietnamita se ha escrito con tres sistemas distintos: chữ Hán, chữ Nôm y chữ quốc ngữ.
+- Trong nhiều thế kỷ, chữ Hán là chữ của học vấn và của bộ máy hành chính.
+  es: Durante muchos siglos, el chữ Hán fue la escritura del saber y de la administración.
+- Khoa cử, chiếu chỉ, sử sách triều đình: phần lớn đều viết bằng chữ Hán.
+  es: Oposiciones, edictos, crónicas de la corte: la mayor parte se escribía en chữ Hán.
+- Chữ Hán không ghi sát tiếng nói hàng ngày của dân; nó mang tư tưởng và từ Hán Việt vào trang giấy.
+  es: El chữ Hán no registra de cerca el habla cotidiana del pueblo; lleva al papel el pensamiento y el léxico sino-vietnamita.
+- Để viết đúng tiếng Việt, người ta phát triển chữ Nôm: mượn và biến chữ Hán để ghi âm và nghĩa tiếng Việt.
+  es: Para escribir el vietnamita propiamente dicho, se desarrolló el chữ Nôm: se toman y se adaptan caracteres chinos para anotar el sonido y el sentido vietnamitas.
+- Chữ Nôm khó học hơn chữ Hán với nhiều người; vậy mà văn chương tiếng Việt nhờ nó mà để lại dấu ấn.
+  es: El chữ Nôm era más difícil de aprender que el chữ Hán para mucha gente; aun así, la literatura vietnamita dejó huella gracias a él.
+- Truyện Kiều của Nguyễn Du và thơ Hồ Xuân Hương đều gắn với chữ Nôm.
+  es: El Truyện Kiều de Nguyễn Du y la poesía de Hồ Xuân Hương van ligados al chữ Nôm.
+- Ngày nay ta đọc các tác phẩm ấy chủ yếu bằng chữ quốc ngữ; bản Nôm gốc cần người chuyên đọc.
+  es: Hoy leemos esas obras sobre todo en chữ quốc ngữ; el original en Nôm pide a quien sepa leerlo de oficio.
+- Chữ quốc ngữ là chữ Latin dùng cho tiếng Việt, được các nhà truyền giáo Bồ Đào Nha và các nhà truyền giáo khác xây dựng dần từ thế kỷ mười bảy.
+  es: El chữ quốc ngữ es el alfabeto latino del vietnamita, elaborado poco a poco desde el siglo XVII por misioneros portugueses y de otros países.
+- Từ điển của Alexandre de Rhodes in ở Roma năm một nghìn sáu trăm năm mươi mốt là cột mốc quen thuộc trong sách giáo khoa.
+  es: El diccionario de Alexandre de Rhodes, impreso en Roma en mil seiscientos cincuenta y uno, es un hito habitual en los manuales.
+- Chữ ấy lúc đầu phục vụ việc giảng đạo và học tiếng; dần dần nó lan ra ngoài nhà thờ.
+  es: Al principio aquella escritura servía para predicar y para aprender la lengua; poco a poco se extendió fuera de la iglesia.
+- Sang thế kỷ hai mươi, chữ quốc ngữ ngày càng phổ biến trên báo, sách học và giấy tờ.
+  es: En el siglo XX, el chữ quốc ngữ se fue haciendo cada vez más común en la prensa, los libros de texto y los documentos.
+- Nó dần thay thế chữ Hán và chữ Nôm trong đời sống chữ nghĩa của số đông.
+  es: Fue sustituyendo poco a poco al chữ Hán y al chữ Nôm en la vida escrita de la mayoría.
+- Học sinh hôm nay viết bài bằng chữ quốc ngữ; chữ Hán còn trong từ Hán Việt và trong biển đề một số đền chùa.
+  es: El escolar de hoy escribe en chữ quốc ngữ; el chữ Hán sigue en el léxico sino-vietnamita y en algunos rótulos de templos y pagodas.
+- Chữ Nôm thì nằm trong viện bảo tàng, trong sách chuyên khảo và trong tay người nghiên cứu.
+  es: El chữ Nôm queda en el museo, en los estudios especializados y en manos de quien lo investiga.
+- Ba thứ chữ không xóa nhau hết: tiếng nói vẫn là một, còn trang sử chữ viết thì in ba lớp dấu.
+  es: Las tres escrituras no se borran del todo: la lengua sigue siendo una, y la historia de la escritura guarda tres capas de huella.
+
+notes.es:
+1. Ba thứ chữ: thứ = clase / tipo. Chữ Hán, chữ Nôm, chữ quốc ngữ: el trío ya asomó en las lecciones 16 y 32; aquí se cuenta su historia.
+2. Chữ của học vấn và của bộ máy hành chính: học vấn = el saber / la instrucción culta. Bộ máy hành chính = el aparato administrativo. En la corte y en el examen, el chữ Hán mandaba.
+3. Khoa cử, chiếu chỉ, sử sách: khoa cử = el sistema de oposiciones confucianas. Chiếu chỉ = el edicto real. Sử sách triều đình = las crónicas de la corte. Phần lớn = la mayor parte.
+4. Không ghi sát tiếng nói hàng ngày: ghi sát = registrar de cerca / al pie de la letra sonora. Từ Hán Việt (lecciones 44 y 51): el léxico culto que ya conoces por nhân nghĩa, cố đô, độc lập…
+5. Người ta phát triển chữ Nôm: phát triển = desarrollar. Mượn và biến chữ Hán (lección 32): tomar y adaptar. Để + verbo = con el fin de (lección 2). Chữ Nôm escribe el vietnamita; chữ Hán escribe el chino clásico de la administración.
+6. Khó học hơn … vậy mà: vậy mà = y sin embargo. Để lại dấu ấn = dejar huella. Văn chương tiếng Việt = la literatura en lengua vietnamita.
+7. Truyện Kiều … Nguyễn Du (lección 16); Hồ Xuân Hương (lección 32): dos nombres escolares ligados al Nôm. Gắn với = ir ligado a.
+8. Bản Nôm gốc … người chuyên đọc: bản gốc = el original. Chuyên = de oficio / especializado. Quốc ngữ aquí = la escritura latina, no «la lengua nacional» en abstracto.
+9. Được các nhà truyền giáo … xây dựng dần: được + agente (pasiva được, lección 48) = elaborado por. Nhà truyền giáo = el misionero. Bồ Đào Nha = Portugal. Dần / dần dần = poco a poco. Thế kỷ mười bảy = el siglo XVII.
+10. Alexandre de Rhodes … Roma năm một nghìn sáu trăm năm mươi mốt: 1651, diccionario Annamita-Portugués-Latín, Roma: hito escolar. Cột mốc = hito / mojón. No inventó él solo el sistema: es el nombre que más citan los manuales.
+11. Phục vụ việc giảng đạo … lan ra ngoài nhà thờ: giảng đạo = predicar. Lan ra = extenderse. Nhà thờ = la iglesia.
+12. Ngày càng phổ biến: phổ biến = difundirse / volverse común. Ngày càng + adjetivo = cada vez más (càng ngày càng, Fundamentos, lección 79). Báo, sách học, giấy tờ: la calle escrita del siglo XX.
+13. Dần thay thế: thay thế = sustituir. Đời sống chữ nghĩa = la vida de lo escrito / de las letras. Số đông = la mayoría.
+14. Biển đề … đền chùa: biển đề = el rótulo. Đền chùa (lección 50). Từ Hán Việt sigue en la boca; el carácter, a menudo solo en el templo o en el estudio.
+15. Tiếng nói vẫn là một … ba lớp dấu: cierre plano: una lengua hablada, tres capas de escritura en la historia. Không xóa nhau hết = no se borran del todo entre sí.
+
+ex1:
+- Chữ Hán từng là chữ của khoa cử và triều đình.
+  es: El chữ Hán fue la escritura de las oposiciones y de la corte.
+- Chữ Nôm được phát triển để ghi tiếng Việt.
+  es: El chữ Nôm se desarrolló para anotar el vietnamita.
+- Truyện Kiều và thơ Hồ Xuân Hương gắn với chữ Nôm.
+  es: El Truyện Kiều y la poesía de Hồ Xuân Hương van ligados al chữ Nôm.
+- Từ điển của Alexandre de Rhodes in ở Roma năm một nghìn sáu trăm năm mươi mốt.
+  es: El diccionario de Alexandre de Rhodes se imprimió en Roma en mil seiscientos cincuenta y uno.
+- Sang thế kỷ hai mươi, chữ quốc ngữ ngày càng phổ biến và dần thay thế chữ cũ.
+  es: En el siglo XX, el chữ quốc ngữ se hizo cada vez más común y fue sustituyendo a las escrituras antiguas.
+
+ex2:
+- Khoa cử xưa viết bằng chữ [Hán].
+  es: Las oposiciones de antaño se escribían en chữ Hán.
+- Chữ [Nôm] mượn và biến chữ Hán để ghi tiếng Việt.
+  es: El chữ Nôm toma y adapta caracteres chinos para anotar el vietnamita.
+- Chữ quốc ngữ được [phát triển] dần từ thế kỷ mười bảy.
+  es: El chữ quốc ngữ se elaboró poco a poco desde el siglo XVII.
+- Chữ ấy ngày càng [phổ biến] trên báo và sách học.
+  es: Aquella escritura se hizo cada vez más común en la prensa y los libros de texto.
+- Chữ quốc ngữ dần [thay thế] chữ Hán và chữ Nôm trong đời sống hàng ngày.
+  es: El chữ quốc ngữ fue sustituyendo al chữ Hán y al chữ Nôm en la vida cotidiana.
+
+== 60 C1
+numeral: Bài thứ sáu mươi
+title: Nói
+title.es: Nói, el verbo que habla de más
+
+dialogue:
+- Ít có động từ nào vừa cần thiết vừa nguy hiểm như «nói»: cùng một miệng, có thể nói thẳng hoặc nói dối.
+  es: Pocos verbos son a la vez tan necesarios y tan peligrosos como «nói»: la misma boca puede hablar claro o mentir.
+- Ông Hùng, ứng cử viên trưởng ban quản trị chung cư, bắt đầu ngày tranh cử bằng một bài phát biểu ở sảnh: ăn nói trôi chảy, cử chỉ vừa phải.
+  es: El señor Hùng, candidato a presidir la junta del edificio, empezó el día de campaña con un discurso en el vestíbulo: se expresaba con fluidez, gestos comedidos.
+- Trước micro, ông nói khéo về «bà con» và «tương lai»; không ai bắt bẻ được một chữ cứng.
+  es: Ante el micro, habló con tacto de «los vecinos» y del «futuro»; nadie pudo pillarle una palabra dura.
+- Một cư dân hỏi thẳng về con đường trước khu nhà, cứ mưa là ngập. Ông chưa kịp nói thẳng thì trợ lý đã nói leo: «Ứng cử viên sẽ trả lời sau.»
+  es: Una vecina preguntó de frente por la calle de delante, que se inunda cada vez que llueve. Él aún no había podido hablar claro cuando el ayudante se metió: «El candidato responderá después.»
+- Trong buổi gặp cư dân, có người nói xấu đối thủ; ông Hùng cười: «Tôi không nói xấu ai. Tôi chỉ nói có sách mách có chứng.»
+  es: En la reunión con los vecinos, alguien habló mal del rival; el señor Hùng sonrió: «Yo no hablo mal de nadie. Solo hablo con libro y con pruebas.»
+- Thực ra ông chẳng đưa chứng nào; câu ấy chỉ để nghe cho chắc.
+  es: En realidad no aportó prueba alguna; la frase solo era para que sonara firme.
+- Chiều, ông vào quán cà phê gặp mấy người quen trong tòa nhà; ông nói gần nói xa về một dự án cũ, chẳng nêu tên ai.
+  es: Por la tarde entró en un café a ver a unos conocidos del edificio; habló por rodeos de un proyecto viejo, sin nombrar a nadie.
+- Một anh ở bàn bên bảo bạn: «Ông ấy nói một đằng làm một nẻo. Hồi làm trưởng ban nhiệm kỳ trước cũng thế.»
+  es: Un hombre de la mesa de al lado dijo a su amigo: «Dice una cosa y hace otra. Cuando presidió la junta el mandato pasado, igual.»
+- Trợ lý khuyên ông đừng đáp. Ông gật, rồi vẫn nói đùa một câu cho đỡ ngượng: «Anh nói chơi chắc?»
+  es: El ayudante le aconsejó no contestar. Él asintió, y aun así soltó una broma para quitarse el apuro: «¿Lo dice usted en broma, no?»
+- Anh kia đáp: «Không. Tôi nói thật.» Ông Hùng chuyển đề tài ngay.
+  es: El otro: «No. Lo digo en serio.» El señor Hùng cambió de tema al instante.
+- Tối, trên xe về, ông dặn tài xế và trợ lý: «Về nhà, đừng kể với vợ tôi chuyện quán cà phê.»
+  es: Por la noche, en el coche de vuelta, encargó al conductor y al ayudante: «En casa, no le contéis a mi mujer lo del café.»
+- Trợ lý hỏi: «Thế còn đường ngập? Bà con cần anh nói thẳng.» Ông nhìn cửa sổ: «Mai hãy nói.»
+  es: El ayudante preguntó: «¿Y lo de la calle inundada? Los vecinos necesitan que hable claro.» Él miró la ventanilla: «Mañana.»
+- Xe dừng đèn đỏ. Ông bỗng nói, như nói với chính mình: «Nói phải củ cải cũng nghe. Mà mình nói suốt ngày, chẳng ai tin.»
+  es: El coche paró en un semáforo en rojo. De pronto dijo, como para sí: «Hasta un nabo oiría si se habla con razón. Y yo hablo todo el día, y nadie cree.»
+- Trợ lý giật mình: «Anh nói thế à?» Ông vội cười: «Nói chơi thôi.»
+  es: El ayudante se sobresaltó: «¿Dice eso en serio?» Él se apresuró a sonreír: «Solo bromeaba.»
+- Xe chạy tiếp. Ông nhìn ra con đường ngập dưới mưa nhỏ và thêm một câu, nhỏ hơn: «Câu vừa rồi mới là thật.»
+  es: El coche siguió. Miró la calle inundada bajo la llovizna y añadió, más bajito: «Lo de hace un momento sí era verdad.»
+- Trợ lý mở sổ, định ghi, rồi gạch ngang trang: «Thôi. Không ghi. Không kể.»
+  es: El ayudante abrió la libreta, estuvo a punto de anotar, y tachó la página: «Mejor no. No se anota. No se cuenta.»
+
+notes.es:
+1. Ít có động từ nào … như «nói»: nói (Fundamentos, lección 20) = decir / hablar. El día entero es una familia de nói: modo, verdad, mentira, broma, interrupción. Nói thẳng = hablar claro / sin rodeos (lecciones 33 y 36). Nói dối = mentir (a la letra «hablar falso»).
+2. Ăn nói trôi chảy: ăn nói (lección 1) = el modo de expresarse. Trôi chảy = fluido. Ứng cử viên = el candidato. Tranh cử = hacer campaña / competir en la elección. Ban quản trị chung cư = la junta de un edificio de pisos; sảnh = el vestíbulo.
+3. Nói khéo: nói khéo = hablar con tacto / con habilidad (no ofender, no chocar). Bà con = los vecinos, la gente (trato cercano de reunión). Bắt bẻ = pillar / rebatir una palabra.
+4. Nói leo: nói leo = meterse en la conversación / hablar encima de otro (a la letra «hablar trepando»). El ayudante corta antes de que el candidato hable claro sobre el agua. Cư dân = el vecino, el residente.
+5. Nói xấu: nói xấu = hablar mal de alguien / murmurar (a la letra «hablar feo»). Đối thủ = el rival. Không nói xấu ai = no hablar mal de nadie: frase de campaña.
+6. Nói có sách mách có chứng: thành ngữ = hablar con fundamento, con pruebas (a la letra «hablar con libro, delatar con prueba»). Sách = libro / fuente; mách = denunciar / señalar; chứng = prueba. Aquí la frase es pose: no aporta prueba alguna.
+7. Nói gần nói xa: nói gần nói xa = hablar por alusiones / con rodeos (a la letra «hablar cerca, hablar lejos»). Không nêu tên = sin nombrar.
+8. Nói một đằng làm một nẻo: thành ngữ = decir una cosa y hacer otra (a la letra «hablar por un lado, hacer por otro camino»). Đằng / nẻo = lado / senda. Bảo (Fundamentos, lección 53) = decir / mandar decir (más oral que nói en órdenes y recados).
+9. Khuyên … nói đùa … nói chơi: khuyên = aconsejar. Nói đùa / nói chơi (lección 9) = decir en broma. El candidato usa la broma para escapar; el otro responde nói thật = en serio.
+10. Dặn … đừng kể: dặn (lecciones 9 y 17) = encargar / avisar con autoridad suave. Kể (lección 9) = contar (una historia, un episodio). Đừng kể với vợ = no se lo contéis a mi mujer.
+11. Nói phải củ cải cũng nghe: tục ngữ = si se habla con razón, hasta un nabo escucharía (a la letra «hablar correcto, hasta el nabo oye»). Nói phải = hablar con razón / lo justo. Củ cải = el nabo. La amargura: habla todo el día y nadie le cree.
+12. «Nói chơi thôi.» … «Câu vừa rồi mới là thật.»: el gag: la única frase verdadera es la que no debe salir del coche. El ayudante iba a anotarla y tacha la página: ni se anota ni se cuenta.
+13. Familia cercana de nói: bảo = decir / mandar (recado); kể = contar; khuyên = aconsejar; dặn = encargar. Nói es el verbo amplio; los otros marcan el oficio de la frase.
+14. Đường ngập … «Mai hãy nói.»: đường ngập = la calle inundada. La vecina pregunta; el candidato aplaza. Mai hãy nói = mañana (ya) hablaremos: el aplazamiento es también una forma de nói.
+15. Las expresiones de esta lección, con el número de la frase y de la nota:
+nói thẳng (frases 1, 4 y 12, notas 1 y 4)
+nói dối (frase 1, nota 1)
+ăn nói (frase 2, nota 2)
+nói khéo (frase 3, nota 3)
+nói leo (frase 4, nota 4)
+nói xấu (frase 5, nota 5)
+nói có sách mách có chứng (frase 5, nota 6)
+nói gần nói xa (frase 7, nota 7)
+nói một đằng làm một nẻo (frase 8, nota 8)
+bảo (frase 8, nota 8)
+khuyên (frase 9, nota 9)
+nói đùa / nói chơi (frases 9 y 14, notas 9 y 12)
+nói thật (frase 10, nota 9)
+dặn (frase 11, nota 10)
+kể (frases 11 y 16, notas 10 y 12)
+nói phải củ cải cũng nghe (frase 13, nota 11)
+
+ex1:
+- Ứng cử viên ăn nói trôi chảy nhưng không nói thẳng về đường ngập.
+  es: El candidato se expresa con fluidez, pero no habla claro de las calles inundadas.
+- Đừng nói leo khi người khác đang trả lời câu hỏi.
+  es: No te metas cuando otro está contestando la pregunta.
+- Ông ấy hay nói gần nói xa, chẳng bao giờ nêu tên.
+  es: Suele hablar por rodeos y nunca nombra a nadie.
+- Nói một đằng làm một nẻo thì sớm mất lòng dân.
+  es: Decir una cosa y hacer otra hace perder pronto el favor de la gente.
+- Lúc nãy tôi chỉ nói chơi thôi, đừng kể với ai nhé.
+  es: Hace un rato solo bromeaba; no se lo cuentes a nadie, ¿eh?
+
+ex2:
+- Anh ấy [nói khéo] lắm, không ai bắt bẻ được.
+  es: Habla con mucho tacto; nadie puede pillarle nada.
+- Đừng [nói xấu] đồng nghiệp sau lưng.
+  es: No hables mal de un compañero a sus espaldas.
+- Bà [dặn] cháu về sớm, [kẻo] cửa đóng.
+  es: La abuela encargó al nieto que volviera pronto, no sea que cierren la puerta.
+- Ông ấy [nói] một đằng [làm] một nẻo.
+  es: Dice una cosa y hace otra.
+- [Nói phải] củ cải cũng nghe.
+  es: Si se habla con razón, hasta un nabo escucha.
+
+== 61 C1
+numeral: Bài thứ sáu mươi mốt
+title: Chuyển nhà
+title.es: Mudanza
+
+dialogue:
+- Chị Hoa nhờ thầy xem ngày; thầy chọn giờ hoàng đạo sáng chủ nhật: chín giờ kém mười.
+  es: Hoa pidió a un maestro que le mirara el día; él eligió la hora áurea del domingo por la mañana: las nueve menos diez.
+- Chị dặn chồng: «Đúng giờ ấy mới vào nhà mới. Phải kiêng, đừng mở cửa trước.»
+  es: Encargó al marido: «Solo se entra en la casa nueva a esa hora. Hay que respetarlo: no se abre la puerta antes.»
+- Sáng sớm, chị thắp hương ở nhà cũ, khấn nhỏ vài câu rồi tắt bếp.
+  es: Temprano encendió incienso en la casa vieja, murmuró unas palabras y apagó el fogón.
+- Tám giờ, xe tải chưa tới. Chồng đứng ngoài ngõ, liên tục nhìn đồng hồ.
+  es: A las ocho, el camión aún no había llegado. El marido, en la entrada del callejón, no quitaba ojo al reloj.
+- Chị giục: «Anh gọi thợ chuyển nhà đi, kẻo lỡ giờ tốt.» Chồng gọi; máy bận.
+  es: Ella lo apremió: «Llama a los de la mudanza, no sea que se nos pase la hora buena.» Él llamó; ocupado.
+- Tám giờ bốn mươi, xe mới tới. Ba anh thợ xuống, xin lỗi vì kẹt xe.
+  es: A las ocho cuarenta llegó el camión. Bajaron tres mozos y se disculparon por el atasco.
+- Chị không trách; nói nhẹ: «Anh em cố giúp nhà mình vào đúng giờ nhé. Cảm ơn các anh nhiều.»
+  es: Ella no les riñó; dijo suave: «Ayudadnos a entrar a la hora, por favor. Muchas gracias.»
+- Chồng thì cuống lên, thúc thợ: «Nhanh lên! Còn có mười phút!» Một anh thợ cười: «Cứ để chúng em.»
+  es: El marido, nervioso, apuraba a los mozos: «¡Deprisa! ¡Quedan diez minutos!» Un mozo sonrió: «Déjenlo en nuestras manos.»
+- Đúng chín giờ kém mười, cửa đã mở sẵn, chắc thợ sơn để quên; chị bưng nồi cơm và hũ muối bước vào trước; chồng theo sau với bát hương.
+  es: Justo a las nueve menos diez —la puerta ya estaba abierta, seguro que se la habían dejado los pintores— ella entró delante con la olla de arroz y el tarro de sal; el marido detrás con el recipiente del incienso.
+- Họ đặt nồi và muối xuống bếp mới, cúng một nén hương, rồi mới gọi thợ khiêng đồ vào.
+  es: Dejaron la olla y la sal en la cocina nueva, ofrendaron una vara de incienso, y solo entonces llamaron a los mozos a entrar con los bultos.
+- Thợ khiêng nhanh: tủ, giường, thùng carton; mồ hôi ướt áo.
+  es: Los mozos cargaron deprisa: armario, cama, cajas de cartón; el sudor les calaba la camisa.
+- Chị pha ấm trà, mời anh em nghỉ một lát: «Uống nước đã, đỡ mệt.»
+  es: Ella preparó té y les invitó a un descanso: «Bebed algo primero, así se os quita el cansancio.»
+- Một anh nhìn số nhà trên tường, nhíu mày: «Chị ơi, số nhà chị là bao nhiêu?»
+  es: Uno miró el número en la pared y frunció el ceño: «¿Cuál es su número de casa?»
+- Chị đáp: «Mười hai.» Anh ấy chỉ ra ngoài: «Nhà mười hai ở dãy bên, giống hệt căn này. Đây là mười bốn.»
+  es: Ella: «El doce.» Él señaló afuera: «El doce está en la otra hilera, igualito que este. Esto es el catorce.»
+- Chồng đứng chết lặng giữa đống thùng. Hương trên bếp nhà người ta vẫn cháy.
+  es: El marido se quedó de piedra entre las cajas. El incienso en la cocina de aquella gente seguía ardiendo.
+- Chị nhìn đồng hồ: vẫn đúng giờ hoàng đạo. Đúng giờ, sai nhà.
+  es: Ella miró el reloj: seguía siendo la hora áurea. La hora, exacta; la casa, equivocada.
+
+notes.es:
+1. Chuyển nhà: chuyển nhà = mudarse / hacer la mudanza. Xem ngày = consultar el día (con un thầy / maestro de calendario, para elegir día y hora favorables). Thầy aquí no es el profesor de clase: es quien xem ngày.
+2. Giờ hoàng đạo … giờ tốt: giờ hoàng đạo = la «hora áurea» del calendario tradicional (tramo horario considerado favorable). Giờ tốt = la hora buena / favorable. Chín giờ kém mười = las nueve menos diez. Kiêng + verbo = abstenerse de / está prohibido por costumbre (kiêng mở cửa trước = no abrir antes).
+3. Thắp hương … khấn … tắt bếp: thắp hương / khấn (lección 54). Tắt bếp = apagar el fogón: cierre simbólico de la casa vieja antes de la mudanza.
+4. Giục: giục = apremiar / meter prisa a alguien. «Anh gọi…»: chị Hoa llama anh al marido. Kẻo lỡ giờ tốt (Fundamentos, lección 72: kẻo; lección 62: lỡ): no sea que se pierda la hora buena.
+5. Thợ chuyển nhà … xin lỗi vì kẹt xe: thợ chuyển nhà = los mozos de la mudanza. Anh em: trato de la dueña hacia los trabajadores, cercano y respetuoso (anh em = vosotros / el equipo). Kẹt xe = el atasco.
+6. Lịch sự với thợ: «Anh em cố giúp… Cảm ơn các anh nhiều.»: no grita; pide y agradece. El contraste lo marca el marido con thúc.
+7. Cuống lên, thúc thợ: cuống = ponerse nervioso, perder los papeles. Thúc = apremiar presionando (más fuerte que giục). «Cứ để chúng em.»: em desde el thợ hacia la pareja (más jóvenes o en oficio de servicio). Nhanh lên (Fundamentos, lección 72).
+8. Cửa đã mở sẵn … bưng nồi cơm và hũ muối … bát hương: mở sẵn = ya abierto (sẵn = de antemano). Al entrar en la casa nueva, lo primero suele ir a la cocina: la olla de arroz y la sal, signos de que no faltará comida; luego el incienso. Bưng = llevar con las dos manos (con cuidado). Bát hương = el recipiente del incienso del altar / de la ofrenda breve.
+9. Cúng một nén hương: cúng (lecciones 44 y 54) = ofrendar. Nén hương = una vara de incienso. Rồi mới = y solo entonces: primero el rito, luego los muebles.
+10. Khiêng: khiêng = cargar entre varios / transportar a pulso. Thùng carton = caja de cartón.
+11. Mời anh em nghỉ … uống nước đã: cortesía de casa con quien trabaja: agua o té antes de seguir. Đỡ mệt = aliviar el cansancio.
+12. Số nhà … mười hai / mười bốn: số nhà = el número de la casa. Dãy bên = la hilera de al lado. Giống hệt = idéntico. La puerta abierta ya era una pista; el gag estalla cuando el mozo lee la pared.
+13. Chết lặng: chết lặng = quedarse de piedra / mudo. Hương … vẫn cháy: el incienso ya arde en casa ajena.
+14. Đúng giờ, sai nhà: el cierre: llegan a la hora buena, a la dirección equivocada. Sai nhà = equivocarse de casa.
+
+ex1:
+- Chị xem ngày rồi mới chọn giờ hoàng đạo để chuyển nhà.
+  es: Ella consultó el día y solo entonces eligió la hora áurea para mudarse.
+- Kiêng mở cửa nhà mới trước giờ tốt.
+  es: Está prohibido abrir la puerta de la casa nueva antes de la hora buena.
+- Vào trước bằng nồi cơm và hũ muối, rồi mới cúng hương.
+  es: Se entra primero con la olla de arroz y el tarro de sal, y luego se ofrenda incienso.
+- Chị giục chồng gọi thợ; chồng thì thúc thợ khiêng cho nhanh.
+  es: Ella apremia al marido a llamar a los mozos; el marido mete prisa a los mozos para que carguen deprisa.
+- Đúng giờ hoàng đạo mà vào nhầm nhà mười bốn.
+  es: Llegaron justo a la hora áurea, pero entraron por error en el catorce.
+
+ex2:
+- Thầy chọn [giờ] [hoàng đạo] sáng chủ nhật.
+  es: El maestro eligió la hora áurea del domingo por la mañana.
+- [Kiêng] mở cửa trước giờ tốt.
+  es: Está prohibido abrir la puerta antes de la hora buena.
+- Chị giục chồng gọi [xe tải].
+  es: Ella apremia al marido a llamar al camión.
+- Chồng thúc thợ: [nhanh] lên!
+  es: El marido mete prisa a los mozos: ¡deprisa!
+- Họ [cúng] một nén hương rồi mới khiêng tủ vào.
+  es: Ofrendaron una vara de incienso y solo entonces entraron el armario a pulso.
+
+== 62 C1
+numeral: Bài thứ sáu mươi hai
+title: Thành ngữ con vật
+title.es: Dichos de animales
+
+dialogue:
+- Cô giáo Lan tả lớp mình bằng thành ngữ con vật; học sinh nghe, nửa cười nửa soi mình.
+  es: La maestra Lan describió su clase con dichos de animales; los alumnos oían, a medias riendo y a medias mirándose.
+- Em Nam ngồi góc lớp, ít hỏi: cô bảo Nam như ếch ngồi đáy giếng, chỉ thấy đúng một khoảng trời trong sách.
+  es: Nam, en un rincón, preguntaba poco: ella dijo que era como la rana al fondo del pozo, que solo ve un trozo de cielo en el libro.
+- Em Hoa thì khác: cô giảng đi giảng lại quy tắc chính tả, rồi bảo dạy Hoa đúng là nước đổ đầu vịt.
+  es: Lo de Hoa era otra cosa: la maestra repetía una y otra vez la regla de ortografía, y luego dijo que enseñar a Hoa era echar agua en la cabeza del pato.
+- Khi cô đọc thơ, vài bạn cười chuyện riêng; cô dừng lại: «Đàn gảy tai trâu thì phí cả buổi.»
+  es: Cuando leía un poema, unos cuantos hablaban por su cuenta; ella se detuvo: «Tocar el laúd al oído del búfalo es tirar la hora.»
+- Đến giờ làm bài tập khó, cả bàn phía trước như mèo thấy mỡ: tranh nhau giơ tay.
+  es: Llegada la hora del ejercicio difícil, el banco de delante estaba como el gato ante el sebo: se peleaban por levantar la mano.
+- Em Minh hay khoe bố làm sếp ở sở; cô nhắc nhẹ: «Đừng cáo mượn oai hùm trong lớp. Bài vẫn phải tự làm.»
+  es: Minh presumía de que su padre era jefe en su oficina; ella le advirtió con suavidad: «No seas el zorro con el aire del tigre en clase. El ejercicio lo haces tú.»
+- Em Tú một lần trả lời đúng vì… đoán bừa; cô cười: «Chó ngáp phải ruồi. May thì được một lần.»
+  es: Tú acertó una vez… porque contestó a ciegas; ella sonrió: «El perro bosteza y caza una mosca. La suerte vale una vez.»
+- Cuối giờ, cô nhìn cả lớp: «Đừng nghĩ mình cá mè một lứa. Ai cũng có chỗ mạnh.»
+  es: Al final de la hora miró a toda la clase: «No penséis que sois todos carpas del mismo banco. Cada uno tiene su punto fuerte.»
+- Học sinh ghi nhanh các thành ngữ lên sổ; ai cũng muốn biết mình bị «gắn» con gì.
+  es: Los alumnos apuntaron deprisa los dichos en el cuaderno; todos querían saber qué animal les había «colgado».
+- Nam thì thầm với Hoa: «Mày là vịt, tao là ếch. Công bằng nhỉ?»
+  es: Nam cuchicheó a Hoa: «Tú el pato, yo la rana. ¿Justo, no?»
+- Hoa đẩy nhẹ khuỷu: «Tao không phải vịt. Cô nói nước đổ đầu vịt thôi.»
+  es: Hoa le dio un codazo suave: «No soy un pato. Solo dijo lo del agua en la cabeza del pato.»
+- Minh đỏ mặt vì cáo và hùm; Tú thì khoe đã «ngáp phải ruồi» một lần.
+  es: Minh se puso colorado por el zorro y el tigre; Tú, en cambio, presumía de haber «bostezado a la mosca» una vez.
+- Cô gõ bàn: «Thành ngữ để cười và để nhớ, không để chửi bạn.»
+  es: La maestra golpeó la mesa: «Los dichos son para reír y para recordar, no para insultar al compañero.»
+- Một bạn ở cuối lớp giơ tay: «Thưa cô, vậy còn cô?»
+  es: Uno del fondo levantó la mano: «Profesora, ¿y usted?»
+- Cô cười: «Cô à?» Cả lớp nhìn. Bạn ấy nói rõ: «Cô như mèo thấy mỡ mỗi khi thấy lỗi chính tả.»
+  es: Ella sonrió: «¿Yo?» Toda la clase miró. El alumno dijo claro: «Usted es como el gato ante el sebo cada vez que ve una falta de ortografía.»
+- Cô gật, ghi lên bảng đúng thành ngữ ấy, rồi chấm một lỗi trong bài mẫu: «Được. Vậy cô cũng ở trong sở thú của lớp.»
+  es: Ella asintió, escribió justo ese dicho en la pizarra y señaló un error en el modelo: «Vale. Entonces yo también estoy en el zoo de la clase.»
+
+notes.es:
+1. Thành ngữ con vật: thành ngữ (lecciones 25 y 57, frente a tục ngữ) de cuatro sílabas o imagen fija con animal. Registro: en boca de la maestra puede ser cariñoso o afilado; entre alumnos, fácil volverse burla. Cô giáo + nombre.
+2. Ếch ngồi đáy giếng: thành ngữ = tener la vista estrecha / no conocer mundo (a la letra «rana sentada al fondo del pozo»). El cielo del pozo es todo lo que ve. Như + imagen: như ếch ngồi đáy giếng.
+3. Nước đổ đầu vịt: thành ngữ = entrar por una oreja y salir por la otra / no calar (a la letra «agua vertida en la cabeza del pato»: el plumaje no se empapa). Dicho de quien no retiene la lección. Giảng đi giảng lại = explicar una y otra vez.
+4. Đàn gảy tai trâu: thành ngữ = echar margaritas a cerdos / hablar a quien no escucha (a la letra «tocar el laúd al oído del búfalo»). Đàn = instrumento de cuerda; gảy = puntear; trâu = búfalo. Registro afilado: la maestra para la clase.
+5. Như mèo thấy mỡ: símil (như + …) = abalanzarse con gula / no poder resistirse (a la letra «como el gato que ve sebo»). Aquí: pelearse por contestar. Mỡ = sebo / grasa.
+6. Cáo mượn oai hùm: thành ngữ = vestirse con la autoridad de otro (a la letra «el zorro que toma prestada la majestad del tigre»). Oai = el aire de poder. Minh «pide prestado» el cargo del padre. Registro afilado, pero no un insulto grueso en boca de la maestra.
+7. Chó ngáp phải ruồi: thành ngữ = acertar por chiripa (a la letra «el perro bosteza y atrapa una mosca»). May = por suerte. Un acierto no hace método.
+8. Cá mè một lứa: thành ngữ = todos del mismo jaez / del mismo nivel (a la letra «carpas de la misma puesta»). A menudo despectivo si iguala a la baja. La maestra lo niega: đừng nghĩ mình cá mè một lứa.
+9. Gắn con gì: gắn = colgar / etiquetar. El chiste interno de la clase: cada cual busca su animal.
+10. Mày / tao: entre amigos de la misma edad (lección 53). Nam y Hoa bromean; Hoa no acepta ser el pato.
+11. Thành ngữ để cười và để nhớ, không để chửi bạn: la maestra marca el registro: el dicho enseña, no insulta. Chửi = insultar.
+12. «Cô như mèo thấy mỡ…»: el cierre: los alumnos le devuelven un thành ngữ. Thưa cô: el alumno sube el respeto hacia la maestra (thưa hacia arriba). Ella acepta y se mete sola en el «zoo».
+13. Sở thú của lớp: sở thú = el zoo (aquí, broma). Chấm một lỗi = señalar / marcar un error: prueba de que el símil del gato pega.
+
+ex1:
+- Đừng như ếch ngồi đáy giếng; hãy đọc thêm ngoài sách giáo khoa.
+  es: No seas la rana al fondo del pozo; lee también fuera del manual.
+- Giảng mãi mà nó vẫn quên thì đúng là nước đổ đầu vịt.
+  es: Si explicas una y otra vez y aun así se le olvida, es agua en la cabeza del pato.
+- Nói chuyện với người không chịu nghe có khác gì đàn gảy tai trâu.
+  es: Hablar con quien no quiere oír es como tocar el laúd al oído del búfalo.
+- Nó cáo mượn oai hùm khi khoe chức của bố.
+  es: Hace de zorro con aire de tigre cuando presume del cargo del padre.
+- Trả lời đúng vì đoán bừa chỉ là chó ngáp phải ruồi.
+  es: Acertar porque contestaste a ciegas solo es el perro que bosteza y caza una mosca.
+
+ex2:
+- Em ấy như [ếch] ngồi đáy [giếng].
+  es: Ese alumno es como la rana al fondo del pozo.
+- Giảng mãi mà chẳng nhớ: [nước đổ] đầu [vịt].
+  es: Explicas una y otra vez y no lo retiene: agua en la cabeza del pato.
+- Đọc thơ mà chúng nó nói chuyện riêng: [đàn gảy] tai [trâu].
+  es: Lees un poema y ellos hablan por su cuenta: el laúd al oído del búfalo.
+- Tranh nhau giơ tay như [mèo] thấy [mỡ].
+  es: Se pelean por levantar la mano como el gato ante el sebo.
+- Đừng nghĩ cả lớp [cá mè] một [lứa].
+  es: No penséis que toda la clase sois carpas del mismo banco.
+
+== 63 C1
+kind: revision
+numeral: Bài thứ sáu mươi ba
+title: Ôn tập
+title.es: Repaso
+
+notes.es:
+La novena semana sigue en C1: los tục ngữ en casa, el abuelo que no tira nada, las tres escrituras, la familia de nói, la mudanza a la hora áurea y los thành ngữ de animales. Como en las lecciones 7, 14, 21, 28, 35, 42, 49 y 56, aquí no hay nada que memorizar: las tablas ordenan lo que leíste del 57 al 62. Si phòng khi y nhỡ đâu se te mezclan, o si nói leo y nói gần nói xa aún se te enredan, sigue adelante: vuelven. Lee las tablas una vez y haz los diez ejercicios del final.
+
+1. Tục ngữ y thành ngữ (lecciones 57 y 62). El tục ngữ suele ser una frase completa, a menudo en dos mitades paralelas, que enseña; el thành ngữ es giro fijo más corto (a menudo cuatro sílabas) que pinta una imagen.
+
+| Forma | Tipo | Sentido literal | Sentido | Cuándo se dice |
+|---|---|---|---|---|
+| uống nước nhớ nguồn | tục ngữ | al beber agua, recuerda la fuente | no olvides el origen ni a quien te ayudó | agradecimiento, maestros, raíces |
+| có công mài sắt, có ngày nên kim | tục ngữ | limar hierro → aguja | con esfuerzo, al final sale | ánimo ante un trabajo largo |
+| một cây làm chẳng nên non… | tục ngữ | un árbol solo no hace monte | juntos se llega más lejos | pedir ayuda, compañerismo |
+| gần mực thì đen, gần đèn thì rạng | tục ngữ | cerca de la tinta / de la lámpara | la compañía te tiñe | elegir con quién te juntas |
+| tốt gỗ hơn tốt nước sơn | tục ngữ | mejor madera que barniz | la sustancia importa más que la fachada | estudio, trabajo, personas |
+| lời chào cao hơn mâm cỗ | tục ngữ | el saludo vale más que el festín | el respeto abre más que el regalo | educación, petición, visita |
+| một sự nhịn bằng chín sự lành | tục ngữ | un aguantar = nueve bienes | más vale callar / ceder un poco | cortar una disputa |
+| ếch ngồi đáy giếng | thành ngữ | rana al fondo del pozo | vista estrecha | quien no sale de lo suyo |
+| nước đổ đầu vịt | thành ngữ | agua en la cabeza del pato | no cala / no retiene | lección que no entra |
+| đàn gảy tai trâu | thành ngữ | laúd al oído del búfalo | hablar a quien no escucha | audiencia sorda |
+| như mèo thấy mỡ | símil | como el gato ante el sebo | abalanzarse con gula | no resistirse a algo |
+| cáo mượn oai hùm | thành ngữ | zorro con aire de tigre | vestirse con la autoridad de otro | presumir con cargo ajeno |
+| chó ngáp phải ruồi | thành ngữ | perro bosteza, caza mosca | acertar por chiripa | un acierto sin método |
+| cá mè một lứa | thành ngữ | carpas de la misma puesta | todos del mismo jaez | igualar (a menudo a la baja) |
+
+En la lección 57, padre e hijo se contestan a tục ngữ; la madre cierra con một sự nhịn…. En la 62, la maestra pinta la clase con animales y los alumnos le devuelven như mèo thấy mỡ.
+
+2. La familia de nói y los verbos de recado (lección 60) (lecciones 1 y 9).
+
+| Forma | Matiz | Ejemplo |
+|---|---|---|
+| nói thẳng | hablar claro, sin rodeos | bà con cần anh nói thẳng |
+| nói khéo | con tacto | nói khéo về tương lai |
+| nói dối | mentir | có thể nói thẳng hoặc nói dối |
+| nói xấu | hablar mal de alguien | không nói xấu ai |
+| nói leo | meterse / hablar encima | trợ lý đã nói leo |
+| nói gần nói xa | por alusiones | nói gần nói xa về một dự án |
+| nói một đằng làm một nẻo | decir una cosa, hacer otra | ông ấy nói một đằng làm một nẻo |
+| nói có sách mách có chứng | con pruebas (o la pose de tenerlas) | tôi chỉ nói có sách mách có chứng |
+| nói đùa / nói chơi | en broma | nói chơi thôi |
+| nói thật | en serio | tôi nói thật |
+| ăn nói | el modo de expresarse | ăn nói trôi chảy |
+| nói phải củ cải cũng nghe | si hay razón, hasta el nabo oye | tục ngữ en boca amarga |
+| bảo | decir / mandar (recado) | anh ở bàn bên bảo bạn |
+| kể | contar (episodio) | đừng kể với vợ |
+| khuyên | aconsejar | trợ lý khuyên ông đừng đáp |
+| dặn | encargar | ông dặn tài xế |
+
+Ăn nói (lección 1) es el estilo; nói chơi (lección 9) es la broma. En la 60, la única frase verdadera es la que el ayudante no quiere anotar.
+
+3. Phòng khi, lỡ, kẻo, nhỡ đâu (lección 58) (Fundamentos, lecciones 62 y 72).
+
+| Forma | Matiz | Ejemplo |
+|---|---|---|
+| phòng khi | por si / por si hace falta (previsión) | giữ phòng khi cần |
+| lỡ | si resulta que… / si se da el caso | lỡ hết thì mua mới đắt |
+| kẻo | no sea que / para que no | đừng vứt kẻo ông buồn |
+| nhỡ đâu | no vaya a ser que… (accidente temido) | nhỡ đâu chuột vào hộp cũ |
+
+Tiết kiệm es ahorrar (matiz neutro o bueno); hà tiện es tacaño (matiz malo). El abuelo junta phòng khi y lỡ; la familia vacía el cajón; hace falta justo una goma.
+
+4. Las tres escrituras (lección 59) (lecciones 16 y 32).
+
+| Escritura | Qué fue | Huella hoy |
+|---|---|---|
+| chữ Hán | saber y administración durante siglos; khoa cử, chiếu chỉ | từ Hán Việt; rótulos de algunos đền chùa |
+| chữ Nôm | vietnamita con caracteres adaptados; Truyện Kiều, Hồ Xuân Hương | museo, especialistas; leemos esas obras en quốc ngữ |
+| chữ quốc ngữ | alfabeto latino; misioneros desde el XVII; diccionario de Alexandre de Rhodes, Roma 1651 | la escritura de casi todos: báo, sách học, giấy tờ |
+
+Được phát triển, xây dựng dần, dần dần, phổ biến, thay thế: el registro de la historia de la escritura. No se borran del todo: una lengua, tres capas.
+
+Los tục ngữ de la mesa, el cajón del abuelo, nói en la campaña del edificio, la mudanza y el zoo de la clase siguen en el cuaderno. La semana que viene abre con Tây Nguyên.
+
+ex1:
+- Uống nước nhớ nguồn: nhớ thầy cô đã dạy mình.
+  es: Al beber agua, recuerda la fuente: recuerda a los maestros que te enseñaron.
+- Giữ dây chun phòng khi cần; lỡ hết thì mua mới.
+  es: Guarda las gomas por si hacen falta; si se acaban, compras otras.
+- Đừng nói leo; để người ta nói xong đã.
+  es: No te metas; deja que el otro termine.
+- Chữ quốc ngữ dần thay thế chữ Hán và chữ Nôm trong đời sống hàng ngày.
+  es: El chữ quốc ngữ fue sustituyendo al chữ Hán y al chữ Nôm en la vida cotidiana.
+- Cả lớp như mèo thấy mỡ khi cô hỏi bài khó.
+  es: Toda la clase está como el gato ante el sebo cuando la maestra pregunta el ejercicio difícil.
+
+ex2:
+- «Có công [mài] [sắt], có ngày nên [kim].»
+  es: Con esfuerzo se lima el hierro; un día se hace aguja.
+- Ông giữ túi nilon [phòng khi] đựng đồ.
+  es: El abuelo guarda las bolsas de plástico por si sirven para guardar cosas.
+- Trợ lý [nói leo] trước khi ứng cử viên kịp [nói thẳng].
+  es: El ayudante se metió antes de que el candidato pudiera hablar claro.
+- Chữ Nôm được [phát triển] để ghi tiếng Việt; chữ quốc ngữ ngày càng [phổ biến].
+  es: El chữ Nôm se desarrolló para anotar el vietnamita; el chữ quốc ngữ se hizo cada vez más común.
+- Giảng mãi mà chẳng nhớ: [nước đổ] đầu [vịt].
+  es: Explicas una y otra vez y no lo retiene: agua en la cabeza del pato.
+
+== 64 C1
+numeral: Bài thứ sáu mươi tư
+title: Tây Nguyên
+title.es: Las Tierras Altas del Centro
+
+dialogue:
+- Tây Nguyên nằm trên cao nguyên phía tây miền Trung: đất bazan đỏ, nắng mạnh, và những đồi cà phê nối nhau đến chân trời.
+  es: Las Tierras Altas del Centro se alzan sobre la meseta al oeste del Centro: tierra basáltica roja, sol fuerte, y colinas de café que se encadenan hasta el horizonte.
+- Buôn Ma Thuột, ở Đắk Lắk, là tên mà người Việt gắn với cà phê như Hà Nội gắn với phở.
+  es: Buôn Ma Thuột, en Đắk Lắk, es el nombre que los vietnamitas unen al café como Hanói al pho.
+- Nhờ đất ấy và khí hậu ấy, Việt Nam trở thành một trong những nước xuất khẩu cà phê lớn nhất thế giới.
+  es: Gracias a esa tierra y a ese clima, Vietnam se ha convertido en uno de los mayores exportadores de café del mundo.
+- Sản lượng mỗi năm tính bằng triệu tấn; hạt robusta chiếm phần lớn, còn arabica mọc ở nơi cao hơn, mát hơn.
+  es: La producción anual se cuenta en millones de toneladas; el grano robusta ocupa la mayor parte, y el arabica crece donde es más alto y más fresco.
+- Trên cùng cao nguyên ấy sống nhiều dân tộc; nhà dài của người Ê Đê là hình ảnh quen trong sách địa lý.
+  es: En esa misma meseta viven muchos pueblos; la casa larga de los Ê Đê es imagen habitual en los manuales de geografía.
+- Nhà dài có khi dài hàng chục mét: nhà sàn gỗ, nhiều gia đình trong cùng một dòng họ sống chung dưới một mái.
+  es: La casa larga mide a veces decenas de metros: una casa de madera sobre pilotes, donde varias familias de un mismo linaje viven bajo un solo tejado.
+- Không gian văn hóa cồng chiêng Tây Nguyên được công nhận là di sản văn hóa phi vật thể của nhân loại.
+  es: El espacio de la cultura de los gongs de las Tierras Altas ha sido reconocido como patrimonio cultural inmaterial de la humanidad.
+- Chiêng và cồng không chỉ để nghe: chúng mở lễ, gọi cộng đồng, đánh dấu mùa và đời người.
+  es: Los gongs no son solo para oír: abren el rito, convocan a la comunidad, marcan la estación y la vida de uno.
+- Rừng còn lại trên triền núi; thác đổ trắng giữa cây, và mùa mưa đường đất đỏ thành đường bùn.
+  es: Queda bosque en las laderas; las cascadas caen blancas entre los árboles, y en la estación de lluvias el camino de tierra roja se vuelve camino de barro.
+- Khách đến xem thác, xem nhà dài, rồi ngồi quán uống cà phê.
+  es: El visitante viene a ver cascadas y casas largas, y luego se sienta en un local a tomar café.
+- Ở đây người trồng vẫn hay pha bằng phin: nước nhỏ từng giọt xuống đáy ly, chậm rãi như nhịp sống ở đây.
+  es: Aquí quien cultiva suele preparar el café con phin: el agua cae gota a gota al fondo del vaso, despacio, como el ritmo de vida de aquí.
+- Hạt rang thơm cả góc nhà; buổi sáng nông trường dậy sớm hơn thành phố.
+  es: El grano tostado perfuma toda la esquina de la casa; por la mañana la plantación se despierta antes que la ciudad.
+- Xuất khẩu mang hạt đi xa; sản lượng ghi trong báo cáo; còn hương thì ở lại sân phơi.
+  es: La exportación se lleva el grano lejos; la producción queda en el informe; el aroma se queda en el patio de secado.
+- Vùng cà phê lớn nhất nước, nhưng người trồng không vì thế mà vội hơn.
+  es: Es la mayor zona cafetera del país, pero quien cultiva no por eso tiene más prisa.
+- Ai uống vội cho kịp giờ làm thì chỉ uống cho tỉnh ngủ; ai ngồi chờ hết giọt phin ở Buôn Ma Thuột thì uống đúng nhịp đất này.
+  es: Quien bebe deprisa para llegar a tiempo al trabajo solo bebe para despertarse; quien se sienta a esperar la última gota del phin en Buôn Ma Thuột bebe al ritmo de esta tierra.
+- Cà phê ở đây uống chậm qua phin; uống vội thì chưa phải là cà phê.
+  es: El café aquí se bebe despacio por el phin; bebido a prisa, aún no es café.
+
+notes.es:
+1. Tây Nguyên … cao nguyên phía tây miền Trung: Tây Nguyên = las Tierras Altas del Centro (meseta del oeste del Centro de Vietnam). Cao nguyên = meseta / altiplano. Đất bazan đỏ = tierra basáltica roja: el color y el suelo que citan geografía y guías. Đồi cà phê = colinas de café.
+2. Buôn Ma Thuột … Đắk Lắk: ciudad y provincia del corazón cafetero. Gắn với = unir / asociar a. Phở (Fundamentos, lección 8): el paralelo es de fama, no de sabor.
+3. Xuất khẩu cà phê: xuất khẩu = exportar / la exportación (Hán Việt: xuất = sacar; khẩu = boca / puerto en sentido comercial). Một trong những … lớn nhất = uno de los mayores. Vietnam figura entre los primeros exportadores mundiales de café.
+4. Sản lượng … triệu tấn: sản lượng = la producción / el volumen producido. Tính bằng = contarse en. Robusta / arabica: dos especies; en Tây Nguyên predomina robusta; arabica en zonas más altas y frescas.
+5. Nhà dài của người Ê Đê: nhà dài = la casa larga comunal. Ê Đê (también Ede en grafías latinas) es uno de los pueblos de la meseta. Buôn = aldea / poblado (palabra de la zona, ya corriente en vietnamita común al hablar de Tây Nguyên). Dòng họ = el linaje / la parentela amplia. Nhà sàn = casa sobre pilotes.
+6. Không gian văn hóa cồng chiêng … được công nhận là: được công nhận là = ser reconocido como (pasiva được, lección 48). Di sản văn hóa phi vật thể của nhân loại = patrimonio cultural inmaterial de la humanidad (UNESCO). Cồng chiêng = los gongs (cồng y chiêng: dos tipos de gong del conjunto). El «espacio» de esa cultura en Tây Nguyên está en la lista de la UNESCO.
+7. Chiêng và cồng … mở lễ: mở lễ = abrir el rito / la ceremonia. Gọi cộng đồng = convocar a la comunidad. Đánh dấu = marcar. No son adorno de escenario: organizan el tiempo social.
+8. Rừng … thác … đường bùn: rừng = el bosque. Thác = la cascada / el salto de agua. Triền núi = la ladera. Mùa mưa (Fundamentos, lección 36: mưa). Đường đất đỏ thành đường bùn: la misma tierra del café, bajo la lluvia, se vuelve barro.
+9. Phin: el filtro metálico individual con el que se vierte el café gota a gota sobre el vaso (a menudo con leche condensada debajo). En el Sur se ve mucho cà phê đá (vaso con hielo); el phin es el gesto lento que el texto elige para el cierre. Cà phê (Fundamentos, lección 19).
+10. Nông trường … sân phơi: nông trường = la plantación / el campo de cultivo a escala. Sân phơi = el patio donde se seca el grano. Rang = tostar.
+11. Xuất khẩu mang hạt đi xa; sản lượng ghi trong báo cáo: vuelve el foco económico: el grano viaja; el número queda en el informe; el olor, en casa. Hương = el aroma.
+12. Không vì thế mà vội hơn: không vì thế mà + verbo = no por eso … (lo esperado no ocurre). Uống cho tỉnh ngủ (frase 15) = beber para despejarse.
+13. Uống chậm qua phin … uống vội thì chưa phải là cà phê: el cierre del retrato, como el cà phê trứng de la lección 4: la especialidad no es solo el grano, es el ritmo. Chưa phải là = aún no es / no llega a ser.
+
+ex1:
+- Đất bazan đỏ và nắng mạnh giúp Tây Nguyên trồng được nhiều cà phê.
+  es: La tierra basáltica roja y el sol fuerte ayudan a las Tierras Altas a cultivar mucho café.
+- Mỗi năm Việt Nam xuất khẩu rất nhiều cà phê.
+  es: Cada año Vietnam exporta muchísimo café.
+- Nhà dài của người Ê Đê đủ chỗ cho cả dòng họ.
+  es: La casa larga de los Ê Đê tiene sitio para todo el linaje.
+- Không gian văn hóa cồng chiêng được công nhận là di sản của nhân loại.
+  es: El espacio de la cultura de los gongs ha sido reconocido como patrimonio de la humanidad.
+- Ở Buôn Ma Thuột, người ta ngồi chờ hết giọt phin, không uống vội.
+  es: En Buôn Ma Thuột la gente se sienta a esperar la última gota del phin; no bebe a prisa.
+
+ex2:
+- Việt Nam là nước [xuất khẩu] cà phê lớn.
+  es: Vietnam es un gran país exportador de café.
+- [Sản lượng] cà phê mỗi năm rất cao.
+  es: La producción de café de cada año es muy alta.
+- Văn hóa cồng chiêng được [công nhận] là di sản.
+  es: La cultura de los gongs ha sido reconocida como patrimonio.
+- Người Ê Đê ở [nhà dài] trong buôn.
+  es: Los Ê Đê viven en la casa larga dentro de la aldea.
+- Cà phê ở đây uống chậm qua [phin].
+  es: El café aquí se bebe despacio por el phin.
+
+== 65 C1
+numeral: Bài thứ sáu mươi lăm
+title: Ma
+title.es: Fantasma
+
+dialogue:
+- Đêm ấy trong nhà cũ của ông bà ngoại, cả họ họp mặt; chỉ còn lại hai chị em họ ngủ tầng trên.
+  es: Aquella noche, en la casa vieja de los abuelos maternos, se reunió toda la familia; arriba solo quedaban a dormir dos primas.
+- Ngoài sân im thin thít; trong nhà thỉnh thoảng có tiếng cót két ở cầu thang gỗ.
+  es: En el patio, un silencio cerrado; dentro, de vez en cuando, un crujido en la escalera de madera.
+- Lan bảo Hoa: «Em nghe thấy không?» Hoa gật, lạnh toát cả sống lưng.
+  es: Lan dijo a Hoa: «¿Lo oyes?» Hoa asintió, helada de arriba abajo por la espalda.
+- Họ tưởng gió; hóa ra cửa phòng khách tự khép rồi lại hé ra một khe.
+  es: Creyeron que era el viento; resultó que la puerta del salón se cerraba sola y volvía a entreabrirse un dedo.
+- Mùi hương thoang thoảng, dù chẳng ai thắp thêm nén nào từ chiều.
+  es: Un olor a incienso flotaba, aunque nadie había encendido otra vara desde la tarde.
+- Hoa run run nắm tay Lan: «Chị ơi, có ma!» Lan suýt bật cười vì sợ, rồi cũng không cười nổi.
+  es: Hoa, temblando, agarró la mano de Lan: «¡Hay un fantasma!» Lan estuvo a punto de soltar una risa de miedo, y tampoco pudo reírse.
+- Họ bật đèn pin điện thoại, đi từng bậc; cầu thang lại cót két đúng nhịp chân.
+  es: Encendieron la linterna del teléfono y bajaron peldaño a peldaño; la escalera crujía al ritmo de los pies.
+- Dưới phòng khách, một bóng dáng nhỏ lướt ngang bàn thờ rồi mất hút vào bóng tối góc nhà.
+  es: Abajo, en el salón, una silueta pequeña rozó el altar y se perdió en la oscuridad del rincón.
+- Hai chị em đứng chết trân; Hoa thì thầm: «Em thề có ma. Em thấy rồi.»
+  es: Las dos primas se quedaron de piedra; Hoa cuchicheó: «Te juro que hay un fantasma. Ya lo he visto.»
+- Lan may mà còn đủ hơi để gọi: «Bà ơi… bà còn thức không ạ?»
+  es: Lan, menos mal, aún tenía aliento para llamar: «Abuela… ¿sigues despierta?»
+- Không ai trả lời. Chỉ có tiếng lê chân nhẹ và tiếng gõ nhẹ như tìm gì đó trên kệ.
+  es: Nadie contestó. Solo un arrastrar suave de pies y unos golpecitos, como quien busca algo en el estante.
+- Họ rợn người, suýt quay chạy lên gác; rồi cửa bếp mở toang, đèn bếp sáng.
+  es: Se les erizó el cuerpo; estuvieron a punto de subir corriendo al piso de arriba; entonces la puerta de la cocina se abrió de golpe y se encendió la luz.
+- Bà ngoại đứng đó, tóc rối, tay cầm một cái kính lão cũ: «Bà tìm mãi cái kính.»
+  es: La abuela materna estaba allí, el pelo revuelto, con unas gafas de leer viejas en la mano: «Llevo un rato buscando las gafas.»
+- «Cháu tưởng…» Lan hết lời. Hoa chỉ còn nói được: «Cháu tưởng bà là ma.»
+  es: «Nosotras creíamos…» Lan se quedó sin palabras. Hoa solo alcanzó a decir: «Creíamos que era un fantasma.»
+- Bà nhìn hai cháu, nhìn bàn thờ còn thoang thoảng hương, rồi cười khẽ: «Ma nào. Bà quên kính trên kệ.»
+  es: Ella miró a las nietas, miró el altar que aún olía a incienso, y sonrió bajito: «Ningún fantasma. Se me habían olvidado las gafas en el estante.»
+- Hóa ra «ma» nhà này chỉ là bà ngoại đang tìm kính; còn tiếng cót két là cầu thang, và mùi hương là mùi nén chiều còn vương lại.
+  es: Resultaba que el «fantasma» de aquella casa era solo la abuela buscando las gafas; el crujido, la escalera; y el olor a incienso, el de la vara de la tarde, que aún flotaba.
+
+notes.es:
+1. Nhà cũ của ông bà ngoại … chị em họ: ông bà ngoại = los abuelos maternos. Chị em họ = primas (aquí dos chicas; họ marca el parentesco colateral). Họp mặt = reunirse. Tầng trên = el piso de arriba.
+2. Im thin thít … cót két: im thin thít = un silencio cerrado / sepulcral (từ láy de silencio). Cót két = crujido (từ láy de sonido: madera, escalera, puerta). Cầu thang gỗ = la escalera de madera.
+3. Lạnh toát cả sống lưng: lạnh toát = helarse del todo / un frío que cala (forma intensiva, de miedo y de frío). Sống lưng = la espalda. Lan / Hoa: chị / em entre primas de edad cercana.
+4. Tưởng … hóa ra: tưởng = creer (y equivocarse) (lección 5); hóa ra = resultar que… (Fundamentos, lección 58) (lección 5). El par abre el gag desde mitad del relato: lo que «parecía» viento era la puerta.
+5. Mùi hương … thắp … nén: hương = incienso (lección 54: thắp hương). Thoang thoảng = un olor que va y viene, suave (từ láy). Nén = la vara de incienso. Không ai thắp thêm từ chiều: nadie había vuelto a encender desde la tarde.
+6. Run run … «có ma!»: run run = temblar (từ láy). Ma = fantasma. Suýt + verbo = por poco / estar a punto de (Fundamentos, lección 62) (lección 53). Bật cười = soltar la risa.
+7. Chết trân … thề: chết trân = quedarse de piedra (parecido a chết lặng, lección 61). Thề = jurar. Thì thầm (lección 8).
+8. May mà còn đủ hơi: may mà = menos mal / por suerte (Fundamentos, lección 62). Đủ hơi = aliento suficiente. «Bà ơi…»: las nietas llaman bà a la abuela; ạ sube el respeto hacia ella.
+9. Lê chân … gõ nhẹ: lê chân = arrastrar los pies. Gõ = golpear / llamar (aquí: golpecitos al buscar). Kệ = el estante.
+10. Rợn người … mở toang: rợn người = erizársele a uno el cuerpo / dar grima (miedo físico). Suýt quay chạy = estar a punto de darse la vuelta y correr. Mở toang = abrirse de par en par.
+11. Kính lão: gafas de leer, para la vista cansada (kính cận son las de miope). Bà ngoại tóc rối: el «fantasma» a la luz es la abuela desarreglada. Tìm mãi = buscar y buscar.
+12. «Cháu tưởng bà là ma.»: las nietas dicen cháu (yo) y llaman bà a la abuela; ella también se llama bà a sí misma. El malentendido se nombra entero.
+13. Hóa ra «ma» nhà này …: el cierre: tưởng ma, hóa ra bà tìm kính. Cót két = la escalera; hương = la vara de la tarde. Vương lại = quedar flotando, prendido en el aire.
+
+ex1:
+- Họ tưởng có ma; hóa ra bà ngoại đang tìm kính lão.
+  es: Creyeron que había un fantasma; resultó que la abuela buscaba las gafas de leer.
+- Cầu thang gỗ cót két suốt đêm làm Hoa lạnh toát.
+  es: La escalera de madera crujió toda la noche y a Hoa se le heló la espalda.
+- Lan suýt chạy lên gác; may mà bà bật đèn bếp.
+  es: Lan estuvo a punto de subir corriendo; menos mal que la abuela encendió la luz de la cocina.
+- Mùi hương thoang thoảng dù chẳng ai thắp thêm.
+  es: El olor a incienso flotaba aunque nadie hubiera encendido otra vara.
+- Hai chị em rợn người khi thấy bóng dáng ngang bàn thờ.
+  es: A las dos primas se les erizó el cuerpo al ver la silueta junto al altar.
+
+ex2:
+- Họ [tưởng] gió; [hóa ra] cửa tự mở.
+  es: Creyeron que era el viento; resultó que la puerta se abría sola.
+- Em [suýt] khóc; [may mà] chị nắm tay.
+  es: Estuve a punto de llorar; menos mal que mi hermana me agarró la mano.
+- Cầu thang [cót két] khi có người đi.
+  es: La escalera cruje cuando alguien pasa.
+- Nghe tiếng lạ ban đêm làm tôi [rợn người].
+  es: Oír un ruido raro de noche me eriza el cuerpo.
+- Bà chỉ đi tìm [kính]; chẳng có [ma] nào.
+  es: La abuela solo iba buscando las gafas; no había ningún fantasma.
+
+== 66 C1
+numeral: Bài thứ sáu mươi sáu
+title: Nồm
+title.es: El nồm
+
+dialogue:
+- Mỗi khi gió nồm thổi vào Hà Nội, tường nhà bắt đầu «đổ mồ hôi» còn sàn nhà hóa thành sân băng của người chân trần.
+  es: Cada vez que el viento nồm entra en Hanói, las paredes de casa empiezan a «sudar» y el suelo se vuelve la pista de hielo de quien va descalzo.
+- Nồm ẩm không ầm ĩ như bão; nó chỉ làm mọi thứ ẩm ướt, dính và khó chịu đúng kiểu thủ đô.
+  es: El nồm húmedo no grita como un tifón; solo deja todo húmedo, pegajoso e incómodo, al estilo de la capital.
+- Áo phơi ba ngày vẫn nặng nước; khăn mặt có mùi tủ; giấy tờ trên bàn cong như sắp bay mà chẳng có gió.
+  es: La ropa tendida tres días sigue pesando agua; la toalla huele a armario; los papeles de la mesa se comban como si fueran a volar, y no hay viento.
+- Bố bảo: «Nồm đến là biết mùa xuân miền Bắc.» Mẹ đáp: «Xuân gì mà như sống trong chum nước.»
+  es: El padre: «Cuando llega el nồm, se sabe que es la primavera del Norte.» La madre: «Qué primavera ni qué nada: parece que vivimos dentro de un cántaro de agua.»
+- Con gái đi tất trong nhà kẻo trượt; con trai thì vẫn chạy và vẫn ngã đánh «oạch» một cái.
+  es: La hija lleva calcetines en casa, no sea que se resbale; el hijo sigue corriendo y sigue cayéndose de golpe, «¡pataplum!».
+- Cả nhà tranh nhau chỗ khô duy nhất: cạnh quạt và cạnh… máy hút ẩm mới mua.
+  es: Toda la casa se pelea por el único sitio seco: junto al ventilador y junto al… deshumidificador recién comprado.
+- Máy hút ẩm trở thành thành viên mới: ồn nhẹ suốt đêm, bình nước đầy mỗi sáng, chẳng ai dám tắt.
+  es: El deshumidificador se vuelve el nuevo miembro de la familia: zumba bajito toda la noche, el depósito de agua lleno cada mañana, y nadie se atreve a apagarlo.
+- Hàng xóm hỏi mượn máy; mẹ cười trừ: «Nhà tôi cũng đang «nuôi» nó đây.»
+  es: La vecina pide prestado el aparato; la madre sonríe a medias: «En casa también lo estamos «criando».»
+- Giày để góc tường lên một lớp mốc mỏng; sách quý được bọc túi nilon như đi mưa.
+  es: Los zapatos en el rincón de la pared sacan una capa fina de moho; los libros queridos van envueltos en bolsa de plástico como si fueran bajo la lluvia.
+- Trên mạng, người Hà Nội đua nhau khoe ảnh tường ướt và sàn bóng; ai cũng bảo nhà mình ẩm nhất phố.
+  es: En la red, los hanoianos se pican a enseñar fotos de pared mojada y suelo brillante; todos dicen que su casa es la más húmeda de la calle.
+- Một bác ở tầng một khai: «Nhà tôi ẩm đến mức nuôi được cá trong phòng khách.» Câu ấy nghe quá; vậy mà nhiều người gật.
+  es: Un señor del primer piso declaró: «En mi casa hay tanta humedad que en el salón se podrían criar peces.» Suena a exageración; y aun así mucha gente asiente.
+- Cuối tuần nồm dịu; tường khô dần; máy hút ẩm thở phào trong góc.
+  es: Al final de la semana el nồm afloja; la pared se va secando; el deshumidificador respira aliviado en el rincón.
+- Bố mở cửa sổ: «Thoáng thật.» Mẹ nhìn trời xám nhạt: «Lạ quá.»
+  es: El padre abrió la ventana: «Qué aire.» La madre miró el cielo gris claro: «Qué raro.»
+- Con trai hỏi: «Lạ gì?» Mẹ nghĩ một lúc: «Không còn gì để chê.»
+  es: El hijo preguntó: «¿Raro qué?» La madre pensó un momento: «Que ya no hay nada de qué quejarse.»
+- Bố gật chậm: «Đúng. Nồm đi rồi, mất cả đề tài.»
+  es: El padre asintió despacio: «Exacto. Se fue el nồm y se nos fue el tema.»
+- Nồm dứt, người Hà Nội lại thấy thiếu… một thứ để than.
+  es: Cuando el nồm se acaba, a los hanoianos les vuelve a hacer falta… algo de qué quejarse.
+
+notes.es:
+1. Gió nồm … Hà Nội: nồm = el viento húmedo del sur / sureste que, en primavera, empapa el Norte (sobre todo Hanói). No es un tifón: es humedad pegada a la pared. Hà Nội (Fundamentos, lección 5). «Đổ mồ hôi» dicho de la pared: suda (hipérbole doméstica).
+2. Nồm ẩm … ẩm ướt: nồm ẩm = el nồm húmedo (el nombre completo que oyes en la calle y en el parte del tiempo). Ẩm ướt = húmedo / calado de humedad. Dính = pegajoso. Ầm ĩ = estruendoso: el nồm no grita; empapa.
+3. Áo phơi … nặng nước: phơi = tender. Vẫn nặng nước = sigue pesando agua (no seca). Khăn mặt = la toalla de cara. Cong = combarse (el papel).
+4. Mùa xuân miền Bắc … chum nước: mùa (Fundamentos, lección 47). Xuân = primavera. Chum = el cántaro grande de barro. La madre corta el romanticismo del «xuân» con una hipérbole de cocina.
+5. Kẻo trượt … «oạch»: kẻo (Fundamentos, lección 72). Trượt = resbalar. Ngã đánh «oạch» = caerse de golpe («oạch» imita el ruido de la caída). El hijo ilustra el suelo-pista.
+6. Máy hút ẩm: máy hút ẩm = el deshumidificador (a la letra «máquina que aspira humedad»). Thành viên mới = el nuevo miembro: la ironía de la lección. Bình nước = el depósito del agua recogida.
+7. «Nuôi» nó: nuôi = criar / alimentar: aquí, en comillas, cuidar el aparato como a un ser vivo. Cười trừ = sonreír a medias (lección 5).
+8. Mốc … túi nilon: mốc = el moho (nấm es la seta). Túi nilon (lección 58). Sách quý bọc nilon: la misma lógica del abuelo que guarda «por si acaso», aplicada al nồm.
+9. Đua nhau khoe … ẩm nhất phố: đua nhau = competir / picarse a. Khoe = presumir. La sátira: el ranking de quién sufre más. Người Hà Nội = los hanoianos (lección 4).
+10. Nuôi được cá trong phòng khách: hipérbole («se podrían criar peces en el salón»). Nghe quá = suena excesivo; gật = asentir igual: el gag es que la exageración se vuelve moneda común.
+11. Nồm dịu … thở phào: dịu = aflojar / suavizarse. Thở phào = respirar aliviado (aquí, el aparato «descansa»: ironía).
+12. Không còn gì để chê … mất cả đề tài: chê = criticar / quejarse de. Đề tài = el tema de conversación. Cuando el suelo deja de ser pista, falta el chiste del día.
+13. Nồm dứt … thấy thiếu … một thứ để than: dứt = cesar / cortarse. Thấy thiếu = echar en falta. Than = quejarse / lamentarse. El cierre: el nồm molesta; sin él, molesta no tener de qué quejarse.
+
+ex1:
+- Gió nồm làm tường ẩm ướt và sàn nhà trơn như sân băng.
+  es: El viento nồm deja las paredes húmedas y el suelo resbaladizo como una pista de hielo.
+- Áo phơi mãi không khô; cả nhà phải bật máy hút ẩm.
+  es: La ropa tendida no seca; toda la casa tiene que encender el deshumidificador.
+- Mẹ bảo sống trong nồm ẩm như sống trong chum nước.
+  es: Mamá dice que vivir con el nồm húmedo es como vivir dentro de un cántaro de agua.
+- Hàng xóm đua nhau khoe nhà mình ẩm nhất phố.
+  es: Los vecinos se pican a presumir de que su casa es la más húmeda de la calle.
+- Nồm dứt rồi, bố mẹ lại thấy thiếu một thứ để than.
+  es: Cuando el nồm se acaba, papá y mamá echan de menos algo de qué quejarse.
+
+ex2:
+- Trời [nồm ẩm], tường nhà như đổ mồ hôi.
+  es: Con el nồm húmedo, las paredes de casa parecen sudar.
+- Sàn [ẩm ướt] quá, đi tất kẻo trượt.
+  es: El suelo está demasiado húmedo; ve con calcetines, no sea que te resbales.
+- Nhà tôi mới mua [máy hút ẩm].
+  es: En casa acabamos de comprar un deshumidificador.
+- Giày góc tường lên [mốc] vì nồm.
+  es: Los zapatos del rincón sacan moho por el nồm.
+- Nồm [dứt] rồi, chẳng còn gì để [than].
+  es: El nồm ya cesó; ya no queda nada de qué quejarse.
+
+== 67 C1
+numeral: Bài thứ sáu mươi bảy
+title: Bùi Xuân Phái
+title.es: Bùi Xuân Phái
+
+dialogue:
+- Bùi Xuân Phái (một nghìn chín trăm hai mươi – một nghìn chín trăm tám mươi tám) là họa sĩ gắn với phố cũ Hà Nội hơn hầu hết tên nào khác.
+  es: Bùi Xuân Phái (mil novecientos veinte – mil novecientos ochenta y ocho) es el pintor ligado a las calles viejas de Hanói más que casi ningún otro nombre.
+- Ông vẽ mái ngói xám, ngõ vắng, ít bóng người; phố như vừa mưa xong hoặc như sắp mưa.
+  es: Pintaba tejados grises, callejones vacíos, poca gente; la calle parece que acaba de llover o que está a punto de llover.
+- Gam màu thường trầm: xám, nâu, xanh xỉn; rất ít đỏ rực, rất ít nắng gắt.
+  es: La gama de color suele ser apagada: gris, marrón, verde apagado; muy poco rojo vivo, muy poco sol fuerte.
+- Bố cục hay đẩy mắt người xem đi dọc theo tường và mái, rồi dừng ở một góc hẹp hoặc một bóng đèn.
+  es: La composición suele llevar la mirada a lo largo del muro y del tejado, y detenerla en un rincón estrecho o en una farola.
+- Nét vẽ không cầu kỳ cho «đẹp ảnh»; nó gợi hơi ẩm, gợi tường cũ, gợi chiều Hà Nội khi tiếng xe thưa lại.
+  es: El trazo no busca el «bonito de postal»; sugiere humedad, muro viejo, una tarde de Hanói cuando el ruido de las motos escasea.
+- Người ta gọi những con phố ấy là «phố Phái»: không phải tên biển, mà là phố nhìn bằng mắt ông.
+  es: A aquellas calles se las llama «phố Phái»: no es el nombre del letrero, sino la calle vista con sus ojos.
+- Trong tranh, người đi lại ít; những ngôi nhà nghiêng nghiêng như tựa vào nhau.
+  es: En los cuadros hay poca gente; las casas se inclinan, como apoyándose unas en otras.
+- Ông không vẽ lễ hội đông nghịt; ông vẽ sự im lặng còn sót lại giữa lòng đô thị.
+  es: No pintaba fiestas abarrotadas; pintaba el silencio que aún queda en medio de la ciudad.
+- Người Hà Nội nhìn tranh ông và nhận ra mái nhà mình, dù màu đã xỉn hơn trong nhớ.
+  es: Los hanoianos miran sus cuadros y reconocen su propio tejado, aunque el color esté más apagado que en el recuerdo.
+- Hoài niệm ở đây không ngọt: xưa cũ hiện ra bằng tường loang và ngõ hẹp, không bằng lời ca ngợi.
+  es: La nostalgia aquí no es dulce: lo antiguo aparece en el muro manchado y en el callejón estrecho, no en palabras de elogio.
+- Sau này có giải thưởng mang tên ông, dành cho những đóng góp gắn với tình yêu Hà Nội.
+  es: Más adelante hubo un premio con su nombre, destinado a aportes ligados al amor por Hanói.
+- Giải ấy không thay bức tranh; nó chỉ nhắc rằng phố ông vẽ vẫn còn người nhớ.
+  es: Ese premio no sustituye el cuadro; solo recuerda que la calle que él pintó aún tiene quien la recuerde.
+- Đứng trước một bức «phố Phái», người xem ít hỏi tên phố thật; họ hỏi mình đã đi ngõ ấy bao giờ chưa.
+  es: Ante un cuadro de «phố Phái», el espectador pregunta poco el nombre real de la calle; se pregunta si alguna vez pasó por aquel callejón.
+- Gam màu xám ấy gợi hơn cả một tấm ảnh sáng: ảnh ghi phút giây; tranh ông gợi cả một mùa trong trí nhớ.
+  es: Aquella gama gris sugiere más que una foto luminosa: la foto fija un instante; su pintura sugiere toda una estación en la memoria.
+- Nét vẽ dừng đúng lúc; bố cục để trống đúng chỗ; còn lại là hơi phố cũ.
+  es: El trazo se detiene a tiempo; la composición deja el vacío en el sitio justo; lo que queda es el aire de la calle vieja.
+- Phố vẫn đông hơn trong tranh; vậy mà mỗi khi mưa phùn, người ta lại thấy đúng gam màu của ông trên mái nhà.
+  es: La calle sigue más llena que en el cuadro; y aun así, cada vez que llovizna, la gente vuelve a ver justo su gama de color sobre los tejados.
+
+notes.es:
+1. Bùi Xuân Phái (1920–1988): họa sĩ = el pintor. Gắn với phố cũ Hà Nội: su tema más reconocido. Hà Nội (Fundamentos, lección 5).
+2. Mái ngói xám … ngõ vắng: mái ngói = el tejado de teja. Ngõ vắng = el callejón vacío / poco transitado. Ít bóng người = poca gente (pocas siluetas). Nghiêng nghiêng (frase 7) = algo inclinadas: sus casas parecen apoyarse unas en otras.
+3. Gam màu … trầm: gam màu = la gama / la paleta de color. Trầm = apagado / grave (poco chillón). Xám, nâu, xanh xỉn: la familia cromática habitual al describirlo. Xỉn = apagado, sin brillo.
+4. Bố cục: bố cục = la composición (cómo se reparte el espacio del cuadro). Đẩy mắt … đi dọc theo = llevar la mirada a lo largo de. Góc hẹp = el rincón estrecho. Para describir un cuadro no basta con «đẹp»: se nombra el orden visual.
+5. Nét vẽ … gợi: nét vẽ = el trazo / la línea del dibujo (nét, lección 23). Gợi = sugerir / evocar (sin nombrar del todo). Không cầu kỳ = sin rebuscamiento. «Đẹp ảnh» en comillas: lo fotogénico fácil.
+6. «Phố Phái»: etiqueta popular para las calles «como las de Phái» (miradas a su modo), no un topónimo oficial. Nhìn bằng mắt ông = vista con sus ojos.
+7. Im lặng còn sót lại giữa lòng đô thị: sót lại = quedar / restar. Lòng đô thị = el corazón de la ciudad. El contraste: ciudad ruidosa, cuadro callado.
+8. Hoài niệm … xưa cũ: hoài niệm = la nostalgia / el recuerdo añorante (Hán Việt). Xưa cũ = lo antiguo / lo de antes. Không ngọt = no dulzona: la nota corta el romanticismo fácil.
+9. Giải thưởng mang tên ông … tình yêu Hà Nội: giải thưởng = el premio; mang tên = llevar el nombre de. El premio con su nombre está ligado al amor por Hanói. Đóng góp = aporte / contribución.
+10. Đứng trước một bức …: bức clasifica el cuadro (lección 23). Người xem = el espectador. El efecto: reconocer un callejón antes que leer una placa.
+11. Ảnh ghi phút giây; tranh gợi cả một mùa: contraste foto / pintura con el verbo gợi. Phút giây = el instante. Trí nhớ = la memoria.
+12. Nét vẽ dừng đúng lúc; bố cục để trống đúng chỗ: vuelve el trío gam màu / bố cục / nét vẽ. Để trống = dejar vacío (espacio negativo).
+13. Mưa phùn … gam màu của ông trên mái nhà: mưa phùn = llovizna fina (clima de Hanói). Cierre llano: la ciudad real sigue más llena; la llovizna «devuelve» su gama sobre los tejados.
+
+ex1:
+- Bùi Xuân Phái vẽ mái ngói xám và ngõ vắng của Hà Nội.
+  es: Bùi Xuân Phái pintaba tejados grises y callejones vacíos de Hanói.
+- Gam màu trong tranh ông thường trầm: xám, nâu, xanh xỉn.
+  es: La gama de color en sus cuadros suele ser apagada: gris, marrón, verde apagado.
+- Bố cục đẩy mắt người xem dọc mái rồi dừng ở góc hẹp.
+  es: La composición lleva la mirada a lo largo del tejado y la detiene en un rincón estrecho.
+- Nét vẽ gợi hơi ẩm và tường cũ hơn là cảnh đẹp ảnh.
+  es: El trazo sugiere humedad y muro viejo más que una escena de postal.
+- Người ta gọi những phố ấy là «phố Phái» vì nhìn bằng mắt ông.
+  es: A aquellas calles se las llama «phố Phái» porque se miran con sus ojos.
+
+ex2:
+- [Gam màu] tranh ông ít khi rực rỡ.
+  es: La gama de color de sus cuadros rara vez es chillona.
+- [Bố cục] để trống một góc ngõ.
+  es: La composición deja vacío un rincón del callejón.
+- [Nét vẽ] gợi chiều mưa phùn.
+  es: El trazo sugiere una tarde de llovizna.
+- Tranh ông đầy [hoài niệm] về phố [xưa cũ].
+  es: Sus cuadros están llenos de nostalgia por la calle de antaño.
+- Có [giải thưởng] mang tên Bùi Xuân Phái.
+  es: Hay un premio que lleva el nombre de Bùi Xuân Phái.
+
+== 68 C1
+numeral: Bài thứ sáu mươi tám
+title: Thi vấn đáp
+title.es: Examen oral
+
+dialogue:
+- Trong phòng thi vấn đáp tiếng Việt, giám khảo nhìn phiếu rồi hỏi anh Pablo, sinh viên người Tây Ban Nha: «Em hiểu tục ngữ “Uống nước nhớ nguồn” thế nào?»
+  es: En la sala del examen oral de vietnamita, el examinador miró la ficha y preguntó a Pablo, estudiante español: «¿Cómo entiende el proverbio “Al beber agua, recuerda la fuente”?»
+- Pablo thở đều: «Thưa thầy, có thể cho rằng câu ấy chỉ nói về biết ơn người đã giúp mình.»
+  es: Pablo respiró con calma: «Profesor, se puede pensar que esa frase solo habla de agradecer a quien te ayudó.»
+- «Song xét cho cùng,» anh tiếp, «nó còn nhắc cả nguồn gốc: thầy cô, gia đình, cả đất mình đang đứng.»
+  es: «Pero, a fin de cuentas,» siguió, «también recuerda el origen: maestros, familia, incluso la tierra donde uno está.»
+- Giám khảo gật nhẹ: «Em nói tiếp.» Pablo nói cách khác: «Không phải là nhớ một ân huệ nhỏ, mà là nhớ cả mạch sống đã nuôi mình.»
+  es: El examinador asintió un poco: «Siga.» Pablo lo dijo de otro modo: «No es recordar un favor pequeño, sino toda la corriente de vida que te ha criado.»
+- «Giả sử quên nguồn,» anh thêm, «thì nước vẫn uống được, nhưng người uống sẽ nông.»
+  es: «Supongamos que se olvida la fuente,» añadió, «el agua aún se puede beber, pero quien bebe se queda superficial.»
+- Giám khảo hỏi: «Chưa hẳn ai quên cũng nông chứ?» Pablo đáp: «Chưa hẳn. Tuy nhiên, tục ngữ cảnh báo trước khi quá muộn.»
+  es: El examinador: «No está del todo claro que quien olvide sea siempre superficial, ¿no?» Pablo: «No del todo. Sin embargo, el proverbio avisa antes de que sea demasiado tarde.»
+- «Do đó,» anh kết một nhịp, «học tiếng Việt mà chỉ nhớ từ mới, quên người dạy, cũng là quên nguồn.»
+  es: «Por eso,» cerró un tramo, «estudiar vietnamita y solo recordar palabras nuevas, olvidando a quien enseña, también es olvidar la fuente.»
+- Giám khảo ghi vài chữ: «Lập luận chặt, bởi lẽ em gắn tục ngữ với việc học của chính em.»
+  es: El examinador anotó unas palabras: «El razonamiento es sólido, puesto que liga el proverbio a su propio estudio.»
+- Pablo hơi đỏ: «Thưa thầy, em không chắc mình đúng hết; em chỉ thử xét cho cùng.»
+  es: Pablo se puso un poco colorado: «Profesor, no estoy seguro de tenerlo todo bien; solo he intentado ir al fondo.»
+- Pablo nói thêm: «Nói cách khác, em đang thử lập luận chứ không chỉ dịch từng chữ.» Giám khảo cười: «Đúng.»
+  es: Pablo añadió: «Dicho de otro modo, intento argumentar, no solo traducir palabra por palabra.» El examinador sonrió: «Exacto.»
+- Giám khảo hỏi thêm về «không phải là… mà là…»: Pablo lấy ví dụ: «Không phải là sợ thầy chấm điểm, mà là sợ nói trống.»
+  es: Le preguntó también por «no es… sino…»: Pablo puso un ejemplo: «No es miedo a la nota del profesor, sino miedo a hablar en vacío.»
+- Giám khảo gật mạnh hơn: «Lập luận của em thuyết phục.» Pablo thở phào.
+  es: El examinador asintió con más fuerza: «Su argumentación convence.» Pablo respiró aliviado.
+- Rồi giám khảo khẽ lật phiếu, nhìn lại đề: im một giây.
+  es: Luego el examinador pasó suavemente la ficha y miró otra vez el enunciado: un segundo de silencio.
+- «À…» ông nói chậm, «đề hôm nay thầy hỏi tục ngữ “Ăn quả nhớ kẻ trồng cây”.»
+  es: «Ah…» dijo despacio, «el enunciado de hoy pedía el proverbio “Al comer la fruta, recuerda a quien plantó el árbol”.»
+- Pablo mở miệng: «Thưa thầy… hai câu gần nhau thật.» Giám khảo gật, vẫn cười: «Gần. Song không phải một câu.»
+  es: Pablo abrió la boca: «Profesor… las dos frases se parecen mucho.» El examinador asintió, aún sonriendo: «Se parecen. Pero no son la misma.»
+- Ông nhìn điểm đang viết dở: «Thầy bị thuyết phục thật. Mà thầy hỏi nhầm… à không: em trả lời đúng một câu khác.»
+  es: Miró la nota a medio escribir: «Usted me ha convencido de verdad. Y yo pregunté mal… o sea: usted contestó bien otra pregunta.»
+
+notes.es:
+1. Thi vấn đáp … giám khảo: thi vấn đáp = el examen oral (preguntas y respuestas). Giám khảo = el examinador. Sinh viên người Tây Ban Nha (Fundamentos, lección 4). Em / thầy: el estudiante sube el trato; el examinador llama em al alumno.
+2. «Uống nước nhớ nguồn» (lección 57): tục ngữ ya visto. Có thể cho rằng = se puede pensar / cabría sostener que…: atenuación propia de la argumentación (no afirma a martillazos).
+3. Song … xét cho cùng: song = pero / no obstante (registro escrito y de debate; hermano formal de nhưng). Xét cho cùng = a fin de cuentas / en el fondo. Nguồn gốc = el origen.
+4. Nói cách khác … không phải là … mà là …: nói cách khác = dicho de otro modo / en otras palabras. Không phải là A mà là B = no es A sino B: reformulación argumentativa, no solo corrección léxica. Ân huệ = el favor. Mạch sống = la corriente de vida (imagen del estudiante).
+5. Giả sử: giả sử + cláusula = supongamos que… / en el supuesto de que… Nông = superficial (aquí, de persona).
+6. Chưa hẳn: chưa hẳn = no del todo / no necesariamente (atenuación que recorta una generalización). Tuy nhiên = sin embargo. Cảnh báo = advertir.
+7. Do đó … bởi lẽ: do đó = por eso / por consiguiente. Bởi lẽ = por el hecho de que / puesto que (abre la razón). Par de causa y efecto del debate.
+8. Lập luận chặt … thuyết phục: lập luận = el razonamiento / la argumentación. Chặt = sólido / bien trabado. Thuyết phục = convencer / convincente. Thở phào = respirar aliviado (lección 66).
+9. Thử lập luận chứ không chỉ dịch từng chữ: chứ không = y no (contraste). Dịch từng chữ = traducir palabra por palabra. El examinador valora el C1: conectar, no calcar.
+10. Nói trống: hablar en vacío / sin sustancia (sin «fuente»). El ejemplo del estudiante vuelve a không phải là… mà là….
+11. «Ăn quả nhớ kẻ trồng cây»: tục ngữ hermano de «uống nước nhớ nguồn» (lección 57, nota 3). El gag: Pablo brilló con la frase «de al lado».
+12. Song không phải một câu: song otra vez. Gần = cercanas; no idénticas.
+13. Thầy bị thuyết phục … em trả lời đúng một câu khác: bị thuyết phục = quedar convencido. El cierre: el examinador admite el lío del enunciado; la nota a medio escribir es el guiño.
+
+ex1:
+- Có thể cho rằng tục ngữ ấy chỉ nói về biết ơn, song xét cho cùng nó rộng hơn.
+  es: Se puede pensar que ese proverbio solo habla de agradecimiento, pero a fin de cuentas es más amplio.
+- Nói cách khác, không phải là nhớ một ân nhỏ, mà là nhớ cả nguồn.
+  es: Dicho de otro modo, no es recordar un favor pequeño, sino toda la fuente.
+- Giả sử quên thầy cô, học vẫn được; tuy nhiên sẽ nông.
+  es: Supongamos que se olvida a los maestros: aún se puede estudiar; sin embargo, uno se queda superficial.
+- Do đó em gắn câu tục ngữ với việc học của chính em.
+  es: Por eso ligo el proverbio a mi propio estudio.
+- Giám khảo bị thuyết phục, mà đề lại hỏi một tục ngữ khác.
+  es: El examinador quedó convencido, pero el enunciado preguntaba otro proverbio.
+
+ex2:
+- [Giả sử] mưa to, ta ở lại nhà.
+  es: Supongamos que llueve fuerte: nos quedamos en casa.
+- [Xét cho cùng], điểm không quan trọng bằng cách nghĩ.
+  es: A fin de cuentas, la nota importa menos que el modo de pensar.
+- [Nói cách khác], em phải lập luận, không chỉ dịch.
+  es: Dicho de otro modo, tienes que argumentar, no solo traducir.
+- Đó [không phải là] sợ thầy, [mà là] sợ nói trống.
+  es: No es miedo al profesor, sino miedo a hablar en vacío.
+- Câu ấy hay; [tuy nhiên] đề hỏi câu khác.
+  es: La frase es buena; sin embargo el enunciado pregunta otra.
+
+== 69 C1
+numeral: Bài thứ sáu mươi chín
+title: Thư gửi bạn đọc
+title.es: Carta al lector
+
+dialogue:
+- Bạn đọc thân mến,
+  es: Querido lector, querida lectora:
+- Đến đây, khóa bảy mươi bài này đã gần hết trang.
+  es: Hasta aquí, este curso de setenta lecciones (Perfeccionamiento) ya casi ha terminado sus páginas.
+- Tôi viết vài dòng này như người đưa bạn ra cửa, không phải như người giữ bạn lại trong sách.
+  es: Escribo estas líneas como quien te acompaña hasta la puerta, no como quien te retiene dentro del libro.
+- Hết bài bảy mươi, hãy đi ra ngoài trang in: đọc báo, đọc tiểu thuyết, xem phim có phụ đề, nghe podcast, nghe hát.
+  es: Cuando acabes la lección setenta, sal de la página impresa: lee el periódico, lee novelas, mira películas con subtítulos, escucha pódcast, escucha canciones.
+- Mang theo một cuốn từ điển tốt; đừng xấu hổ khi phải tra.
+  es: Lleva un buen diccionario; no te dé vergüenza consultar.
+- Tôi khuyên bạn đọc chậm những câu khó, rồi đọc lại nhanh lần hai: tai và miệng cần cả hai nhịp.
+  es: Te aconsejo leer despacio las frases difíciles, y luego releerlas deprisa a la segunda: el oído y la boca necesitan los dos ritmos.
+- Tôi mong bạn giữ thói quen mỗi ngày một bài: sóng của khóa này vẫn chạy sau bài bảy mươi, mỗi ngày một bài cũ trở lại.
+  es: Espero que mantengas la costumbre de una lección al día: la ola de este curso sigue después de la setenta, y cada día vuelve una lección antigua.
+- Khóa tiếp theo dành cho ai muốn đi sâu hơn vào văn phong và nhiệm vụ viết.
+  es: El curso siguiente (Maestría) es para quien quiera ahondar más en el estilo y en las tareas de escritura.
+- Chưa sẵn sàng cũng không sao: thế giới tiếng Việt ngoài kia đủ rộng để luyện.
+  es: Si aún no estás listo, no pasa nada: el mundo del vietnamita ahí fuera es lo bastante amplio para practicar.
+- Tôi chúc bạn nghe được cả những gì không viết ra: cái cười, cái ngập ngừng, cái «không sao» khi chuyện chẳng ổn.
+  es: Te deseo que oigas también lo que no está escrito: la risa, la vacilación, el «không sao» cuando el asunto no va bien.
+- Nếu một ngày bạn mải học thành ngữ mà quên nói chuyện với người thật, hãy nhớ ông Tư ở bài đầu: bận «ăn» đủ thứ, trừ ăn cơm.
+  es: Si un día, entre tantas locuciones, te olvidas de hablar con gente de verdad, acuérdate del señor Tư de la primera lección: ocupado en «comer» de todo menos arroz.
+- Cảm ơn bạn đã đi hết những phố, những lá thư, những tục ngữ và cả một trận nồm.
+  es: Gracias por haber recorrido las calles, las cartas, los proverbios y hasta un episodio de nồm.
+- Giữ lấy tò mò; bỏ bớt nỗi sợ nói sai.
+  es: Quédate con la curiosidad; suelta un poco el miedo a equivocarte al hablar.
+- Hẹn gặp lại, ở bài tiếp theo hay ở Hà Nội.
+  es: Hasta la vista, en la próxima lección o en Hanói.
+- Người viết
+  es: El autor
+- (P/S: máy hút ẩm của bài sáu mươi sáu thì bạn tự quyết có mang theo hay không.)
+  es: (P. D.: en cuanto al deshumidificador de la lección sesenta y seis, decides tú si te lo llevas o no.)
+
+notes.es:
+1. Bạn đọc thân mến: apertura de carta al lector. Bạn đọc = el lector / la lectora. Thân mến = querido / afectuoso (carta, no correo administrativo).
+2. Khóa bảy mươi bài này: el Perfeccionamiento que estás terminando. Gần hết trang = casi al final de las páginas.
+3. Đưa bạn ra cửa … giữ bạn lại: la imagen del adiós: el libro no te encierra. La comparación hace de «no es A, sino…» sin nombrarlo.
+4. Hết bài bảy mươi … báo, tiểu thuyết, phim có phụ đề, podcast, hát: el plan de salida a textos reales (después del repaso de la 70). Phụ đề = subtítulos. Podcast se oye así en vietnamita corriente (préstamo).
+5. Từ điển tốt … tra: từ điển = el diccionario. Tra = consultar / buscar en el diccionario. Xấu hổ (lección 57).
+6. Tôi khuyên … đọc chậm … lần hai: khuyên = aconsejar (lección 60). Hai nhịp: lento para entender; rápido para el oído.
+7. Tôi mong … sóng … sau bài bảy mươi: mong = esperar / desear (Fundamentos, lección 39). Sóng = la ola del método (lección 2): después de la 70, cada día vuelve una lección anterior; la ola sigue.
+8. Khóa tiếp theo (Maestría): el siguiente curso del método. Văn phong = el estilo. Nhiệm vụ viết = las tareas de escritura.
+9. Không sao (Fundamentos, lección 16) (lecciones 2 y 36): vuelve la promesa del inicio del curso. Chưa sẵn sàng = si aún no estás listo.
+10. Tôi chúc … cái «không sao»: chúc = desear (Fundamentos, lección 90: chúc may mắn). Ngập ngừng = la vacilación / el titubeo. Oír lo no escrito: C1 de verdad.
+11. Ông Tư ở bài đầu (lección 1): guiño a la primera lección; aquí el arroz de verdad es la conversación con gente real. Mải = estar absorto en.
+12. Cảm ơn … phố, thư, tục ngữ, nồm: el recorrido de la semana y del curso en una lista breve. Tò mò = la curiosidad.
+13. Hẹn gặp lại (Fundamentos, lección 100): hasta la vista. Ở bài tiếp theo hay ở Hà Nội: el cierre: la próxima lección (Maestría u otra página) o la ciudad real. P/S = posdata; máy hút ẩm (lección 66): el guiño final.
+
+ex1:
+- Tôi khuyên bạn đọc báo và xem phim có phụ đề mỗi tuần.
+  es: Te aconsejo leer el periódico y ver películas con subtítulos cada semana.
+- Tôi mong bạn giữ thói quen mỗi ngày một bài.
+  es: Espero que mantengas la costumbre de una lección al día.
+- Tôi chúc bạn nghe được cả cái cười và cái ngập ngừng.
+  es: Te deseo que oigas también la risa y la vacilación.
+- Sóng của khóa này vẫn chạy sau bài bảy mươi.
+  es: La ola de este curso sigue después de la lección setenta.
+- Hẹn gặp lại, ở bài tiếp theo hay ở Hà Nội.
+  es: Hasta la vista, en la próxima lección o en Hanói.
+
+ex2:
+- Tôi [khuyên] bạn mang theo một cuốn từ điển tốt.
+  es: Te aconsejo llevar un buen diccionario.
+- Tôi [mong] bạn đừng xấu hổ khi phải tra từ.
+  es: Espero que no te dé vergüenza consultar una palabra.
+- Tôi [chúc] bạn giữ tò mò và bớt sợ nói sai.
+  es: Te deseo que conserves la curiosidad y tengas menos miedo a equivocarte.
+- [Hẹn gặp lại] ở Hà Nội nhé.
+  es: Hasta la vista en Hanói.
+- [Hết] bài bảy mươi, hãy đọc báo thật.
+  es: Cuando acabes la lección setenta, lee el periódico de verdad.
+
+== 70 C1
+kind: revision
+numeral: Bài thứ bảy mươi
+title: Ôn tập
+title.es: Repaso
+
+notes.es:
+La décima semana cierra el Perfeccionamiento en C1: Tây Nguyên y el café del phin, el «fantasma» que buscaba las gafas, el nồm y la máquina que pasó a ser de la familia, las calles de Bùi Xuân Phái, el examen oral que contestó al proverbio de al lado, y la carta de despedida. Como en las lecciones 7, 14, 21, 28, 35, 42, 49, 56 y 63, aquí no hay nada que memorizar: las tablas ordenan lo que leíste del 64 al 69. Si giả sử y xét cho cùng se te mezclan, o si gam màu y bố cục aún se te enredan, sigue adelante: vuelven en la ola y en Maestría. Lee las tablas una vez y haz los diez ejercicios del final.
+
+1. Conectores de argumentación (lección 68). En el debate y en el examen oral estos eslabones no son adorno: cada uno marca un paso (supuesto, fondo, reformulación, corrección, contraste, consecuencia, causa).
+
+| Forma | Matiz | Ejemplo |
+|---|---|---|
+| giả sử | supongamos que… | giả sử quên nguồn |
+| xét cho cùng | a fin de cuentas / en el fondo | xét cho cùng, nó còn nhắc nguồn gốc |
+| nói cách khác | dicho de otro modo | nói cách khác, không phải là… |
+| không phải là … mà là … | no es A sino B | không phải là nhớ một ân nhỏ, mà là nhớ cả nguồn |
+| song | pero / no obstante (debate, escrito) | song xét cho cùng… |
+| tuy nhiên | sin embargo | chưa hẳn… tuy nhiên tục ngữ cảnh báo |
+| do đó | por eso / por consiguiente | do đó em gắn tục ngữ với việc học |
+| bởi lẽ | por el hecho de que / puesto que | lập luận chặt, bởi lẽ em gắn… |
+
+Song y tuy nhiên se acercan; song suena un peldaño más de estrado. Không phải là… mà là… reformula el centro del argumento, no solo una palabra. En la 68, Pablo brilla con «uống nước nhớ nguồn» y el enunciado pedía el hermano «ăn quả nhớ kẻ trồng cây» (lección 57).
+
+2. Atenuación y certeza (lección 68). El C1 no solo afirma: también recorta, propone y mide la fuerza de lo dicho.
+
+| Forma | Fuerza | Ejemplo |
+|---|---|---|
+| có thể cho rằng | se puede pensar / cabría sostener | có thể cho rằng câu ấy chỉ nói về biết ơn |
+| chưa hẳn | no del todo / no necesariamente | chưa hẳn ai quên cũng nông |
+| tôi không chắc… | no estoy seguro de… | em không chắc mình đúng hết |
+| thuyết phục / bị thuyết phục | convencer / quedar convencido | lập luận thuyết phục; thầy bị thuyết phục |
+| lập luận chặt | razonamiento sólido | lập luận chặt, bởi lẽ… |
+
+Có thể cho rằng abre sin cerrar; chưa hẳn corta una generalización. Thuyết phục mide el efecto en el otro.
+
+3. Từ láy de sonido y palabras del miedo (lección 65). En el relato de miedo estos ecos hacen oír la casa antes de explicar la causa.
+
+| Forma | Tipo | Sentido | En el texto |
+|---|---|---|---|
+| im thin thít | silencio | silencio cerrado | ngoài sân im thin thít |
+| cót két | sonido | crujido (madera, escalera) | cầu thang cót két |
+| thoang thoảng | olor | olor que va y viene | mùi hương thoang thoảng |
+| lạnh toát | miedo / frío | helarse del todo | lạnh toát cả sống lưng |
+| run run | miedo | temblar | run run nắm tay |
+| rợn người | miedo | erizársele el cuerpo | họ rợn người |
+| chết trân | miedo | quedarse de piedra | đứng chết trân |
+
+Junto a ellos, el par tưởng … hóa ra y suýt / may mà (Fundamentos, lección 62) (lecciones 5 y 53) organizan el gag: no era un fantasma, era la abuela buscando las gafas.
+
+4. Describir arte (lección 67) (lección 23). Para un cuadro no basta «đẹp»: se nombra la gama, la composición, el trazo y lo que evocan.
+
+| Forma | Qué hace | Ejemplo |
+|---|---|---|
+| gam màu | la gama / paleta | gam màu trầm: xám, nâu, xanh xỉn |
+| bố cục | la composición | bố cục đẩy mắt dọc mái |
+| nét vẽ | el trazo | nét vẽ gợi hơi ẩm |
+| gợi | sugerir / evocar | gợi tường cũ; gợi một mùa trong trí nhớ |
+| hoài niệm | nostalgia añorante | hoài niệm không ngọt |
+| xưa cũ | lo antiguo / de antes | phố xưa cũ |
+| phố Phái | calle «como la de Phái» | không phải tên biển |
+
+Gam màu, bố cục y nét vẽ son el trípode de la descripción; gợi es el verbo que evita el inventario frío. Hoài niệm y xưa cũ marcan el tono de las calles grises de Bùi Xuân Phái (1920–1988).
+
+Tây Nguyên (xuất khẩu, sản lượng, được công nhận là, phin), el nồm (ẩm ướt, máy hút ẩm) y la carta (khuyên, mong, chúc, hẹn gặp lại) siguen en el cuaderno. La ola de este curso sigue después de la setenta; Maestría espera a quien quiera el siguiente escalón. Hẹn gặp lại.
+
+ex1:
+- Giả sử quên nguồn, nước vẫn uống được; xét cho cùng người uống sẽ nông.
+  es: Supongamos que se olvida la fuente: el agua aún se bebe; a fin de cuentas, quien bebe se queda superficial.
+- Nói cách khác, không phải là dịch từng chữ, mà là lập luận.
+  es: Dicho de otro modo, no es traducir palabra por palabra, sino argumentar.
+- Họ tưởng có ma; hóa ra bà đang tìm kính, và cầu thang chỉ cót két.
+  es: Creyeron que había un fantasma; resultó que la abuela buscaba las gafas, y la escalera solo crujía.
+- Gam màu tranh Phái trầm; nét vẽ gợi ngõ vắng hơn là phố đông.
+  es: La gama de color de Phái es apagada; el trazo sugiere el callejón vacío más que la calle llena.
+- Tôi khuyên bạn đọc báo mỗi ngày; hẹn gặp lại ở Hà Nội.
+  es: Te aconsejo leer el periódico cada día; hasta la vista en Hanói.
+
+ex2:
+- [Giả sử] đề hỏi câu khác, vẫn phải đọc kỹ.
+  es: Supongamos que el enunciado pregunta otra frase: aun así hay que leer con cuidado.
+- [Xét cho cùng], điều quan trọng là cách nghĩ.
+  es: A fin de cuentas, lo importante es el modo de pensar.
+- Nghe cót két ban đêm làm tôi [rợn người].
+  es: Oír un crujido de noche me eriza el cuerpo.
+- [Bố cục] tranh để trống một góc; [gam màu] thì xám.
+  es: La composición del cuadro deja vacío un rincón; la gama, en cambio, es gris.
+- Tôi [khuyên] bạn mang từ điển; tôi [chúc] bạn giữ tò mò.
+  es: Te aconsejo llevar diccionario; te deseo que conserves la curiosidad.

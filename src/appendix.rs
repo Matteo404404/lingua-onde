@@ -127,6 +127,7 @@ const BUILTIN: &[&str] = &[
     include_str!("../content/en/appendix-perfectionnement.it.txt"),
     include_str!("../content/en/appendix-mastery.it.txt"),
     include_str!("../content/vi/appendix-foundation.es.txt"),
+    include_str!("../content/vi/appendix-perfectionnement.es.txt"),
 ];
 
 pub fn builtin() -> Vec<Appendix> {

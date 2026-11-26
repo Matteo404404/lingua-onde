@@ -129,6 +129,22 @@ Rules:
 - Hanoi words in northern scenes: bát (not tô), cốc (not chén or ly for
   water), kem caramen (flan). A joke's logic must hold (the TV, not the
   lamp, uses the power).
+- Fixed phrases in their real shape: không biết trả lời ra sao, xới cơm
+  (not đổ cơm), hay ra trò (ra trò after an adjective), chưa ra hồn, nói
+  cho ra ngô ra khoai. If you are not sure a phrase is said that way,
+  write a plainer sentence.
+- Customs and scenes must hold: a giỗ is held where the altar is (the
+  eldest son's house); a character who does not share a language needs
+  someone to translate.
+- Notes contain no remarks about the lesson itself ("el foco C1 vive
+  aquí", "dato de manual", "no cites el cuerpo entero", "sin novelar")
+  and no English words.
+- Family terms follow the tree: ông nội is the father's father, so the
+  father of the house is his son and the mother his daughter-in-law.
+- Scenes fit Vietnamese life: no adversarial election campaigns or press
+  conferences; a contested vote fits a residents' or building board.
+  Northern verbs: giục, thúc (hối for "hurry" is southern).
+- In Spanish, family members use tú with each other.
 - `aside.es:` only where the plan says.
 - From lesson 50 the course is C1 and the active wave runs: do not describe
   how the app shows it beyond what lesson 49's aside says.

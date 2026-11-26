@@ -114,6 +114,23 @@ Rules:
 - Notes never mention the plan, the brief, the writer or copyright ("el gag
   del plan", "texto original", "no citamos…"): the learner never sees them.
   No writer's memo left in the text.
+- Fixed phrases in their real shape, and the word people really use: không
+  biết trả lời ra sao, xới cơm, hay ra trò, chưa ra hồn, nói cho ra ngô ra
+  khoai, mốc (mould; nấm is a mushroom), kính lão (reading glasses; kính
+  cận is for myopia), ngã đánh oạch. Northern verbs: giục, thúc (hối for
+  "hurry" is southern). If unsure a phrase is said that way, write a
+  plainer sentence.
+- Family terms follow the tree (ông nội is the father's father; the mother
+  of the house is then his daughter-in-law). Customs and scenes must hold:
+  a giỗ is held where the altar is; someone without the language needs an
+  interpreter; Vietnamese public life has no adversarial campaigns or
+  press-conference attacks (a contested vote fits a residents' board).
+- In the Spanish, family members use tú with each other.
+- A figure is right in its order of magnitude (coffee: over a million
+  tonnes a year) or left out.
+- Notes contain no remarks about the lesson itself ("el foco C1", "dato de
+  manual", "no inventamos…", "el cierre del plan") and no English words
+  ("hedging": write "atenuación").
 - Model answers in tasks are good, natural Vietnamese of the asked length
   and register, not a copy of the text, and they meet their own rubric.
 

@@ -325,3 +325,16 @@ word the tool figured wrongly, anything you were unsure of.
 - Aunque and por eso never go in the same sentence: "como ..., ..." is the
   way to give a cause.
 - A verb with its own se (volverse, irse) is not the impersonal se.
+
+## Rules added after week 13
+
+- Never write "culture.en: none."; leave the section out.
+- Abbreviations the tool cannot figure (P.D.) are written in full in a
+  dialogue line (Posdata).
+- Greetings or words in Spain's other languages only when you are sure of
+  them; leave out what you are not sure of.
+- In a lesson whose idioms are the point, the twist still has to be a
+  twist the scene sets up, not a line that repeats an idiom.
+- Read the whole scene once more before finishing: if a complaint, a
+  question or a fact is dropped halfway (the air conditioning that works
+  after all), the scene is rewritten.

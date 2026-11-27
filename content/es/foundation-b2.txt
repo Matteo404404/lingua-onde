@@ -698,24 +698,24 @@ From now on the notes explain less and show more: trust your ear.
 ex1:
 - Javier se enamoró de Marta.
   en: Javier fell in love with Marta.
-- Ella soñó con un hombre.
-  en: She dreamt of a man.
+- Tú soñaste con un hombre.
+  en: You dreamt of a man.
 - Contamos con todos vosotros.
   en: We are counting on all of you.
 - Se conocieron en la universidad.
   en: They met at university.
-- Nada más verla, se enamoró.
-  en: As soon as he saw her, he fell in love.
+- Nada más verte, se enamoró.
+  en: As soon as he saw you, he fell in love.
 
 ex2:
 - Javier se enamoró [de] Marta.
   en: Javier fell in love with Marta.
-- Ella siempre [soñó] con un hombre.
-  en: She always dreamt of a man.
+- Tú siempre [soñaste] con un hombre.
+  en: You always dreamt of a man.
 - Contamos [con] todos vosotros.
   en: We are counting on all of you.
-- Nada más [verla], se enamoró.
-  en: As soon as he saw her, he fell in love.
+- Nada más [verte], se enamoró.
+  en: As soon as he saw you, he fell in love.
 - Se conocieron en la [universidad].
   en: They met at university.
 
@@ -837,5 +837,567 @@ The os and les forms follow the same pattern for vosotros and ustedes, and they 
 | part of the day | por | por la mañana | lesson 36 |
 | doer of a passive | por | fue pintado por Velázquez | lesson 64 |
 | fixed phrase | por | por favor | lesson 1 |
+
+That closes the week: these forms come back in the lessons ahead, and each time they will feel a little more familiar.
+
+== 85 B2
+numeral: Lección ochenta y cinco
+numeral.pron.en: lék*cion* o*tchén*ta i *cin*co
+title: Pase lo que pase
+title.en: Whatever happens
+
+dialogue:
+- Tu equipo ha perdido otra vez. ¿Y sigues defendiéndolo?
+  en: Your team has lost again. And you still stick up for them?
+  pron.en: … é*ki*po … pér*di*do … *si*guéss défén*dién*dolo
+- Pase lo que pase, soy del Atleti.
+  en: Whatever happens, I'm an Atleti fan.
+  pron.en: *pa*ssé …
+- Pero tanto sufrimiento, ¿para qué?
+  en: But so much suffering, what for?
+  pron.en: … soufri*mién*to …
+- Digan lo que digan los demás, sufrir por el equipo es lo normal.
+  en: Whatever the others say, suffering for your team is normal.
+  pron.en: *di*gan … dé*mass* sou*frir* …
+- ¿No lo cambiarías ni por un millón de euros?
+  en: You wouldn't change it even for a million euros?
+  pron.en: … cambia*ri*ass … mi*yon* …
+- Ni por dos. Sea como sea, es mi equipo.
+  en: Not for two. Whatever happens, it's my team. (Be it as it may, ...)
+- Pues tu hermana dice que una vez fuiste al Bernabéu.
+  en: Well, your sister says you once went to the Bernabéu.
+  pron.en: … *fouiss*té … bérna*béou*
+- Eso es mentira. Mi hermana lo exagera todo.
+  en: That's not true. My sister exaggerates everything.
+  pron.en: … mén*ti*ra … éksa*Hé*ra …
+- ¿Entonces no fuiste nunca?
+  en: So you never went?
+- Fui una vez, hace muchos años, por curiosidad.
+  en: I went once, many years ago, out of curiosity.
+  pron.en: … couriossi*dad*
+- O sea, que es verdad.
+  en: So it's true.
+- Sí, pero que yo sepa, aquel día ganó el Atleti.
+  en: Yes, but as far as I know, Atleti won that day.
+  pron.en: … *sé*pa a*kél* … ga*no* …
+
+notes.en:
+1. Pase lo que pase (line 2) means "whatever happens". The verb is in the subjunctive, the mood of what is not yet known, as in aunque llueva (lesson 75). The same pattern repeats the verb: lo que pase, lo que digan.
+2. Digan lo que digan (line 4) is "whatever they say", and sea como sea (line 6) is "however it is". Sea is the subjunctive of ser, not es: the same verb changes its form when the sentence is not a plain fact.
+3. Eso es mentira (line 8): mentira, "a lie", is a noun; es mentira is "it's not true", stronger than the English sounds.
+4. O sea, que (line 11) means "that is to say, so". It restates what was just said as a conclusion, and the English is often "so" or "in other words".
+5. Que yo sepa (line 12) is a fixed phrase: "as far as I know". The verb is saber in the subjunctive, sepa, not the sé of the present.
+
+culture.en:
+Atlético de Madrid is called Atleti, or los colchoneros, after the red and white stripes of its shirt, which look like the ticking of a mattress. Its supporters are known for following the club through good seasons and bad. Across the city, the Bernabéu is the stadium of Real Madrid, the club's great rival.
+
+ex1:
+- Pase lo que pase, nos quedamos.
+  en: Whatever happens, we are staying.
+- Digan lo que digan, no cambio.
+  en: Whatever they say, I won't change.
+- Sea como sea, somos del Atleti.
+  en: However it is, we are Atleti fans.
+- Que yo sepa, no ha venido nadie.
+  en: As far as I know, nobody has come.
+- O sea, que es verdad.
+  en: So it's true.
+
+ex2:
+- [Pase] lo que pase, soy del Atleti.
+  en: Whatever happens, I am an Atleti fan.
+- [Digan] lo que digan, es mi equipo.
+  en: Whatever they say, it's my team.
+- [Sea] como sea, es mi equipo.
+  en: However it is, it is my team.
+- Que yo [sepa], ganó el Atleti.
+  en: As far as I know, Atleti won.
+- Tu hermana dice que [fuiste] una vez al Bernabéu.
+  en: Your sister says you went to the Bernabéu once.
+
+== 86 B2
+numeral: Lección ochenta y seis
+numeral.pron.en: lék*cion* o*tchén*ta i séïss
+title: Un momentito
+title.en: Just a moment
+
+dialogue:
+- Abuela, ¿me preparas un cafelito?
+  en: Grandma, could you make me a little coffee?
+  pron.en: … pré*pa*rass … café*li*to
+- Claro, cariño. Ahora mismo te lo preparo.
+  en: Of course, love. I'll make it for you right now.
+  pron.en: … pré*pa*ro
+- Vale. Y mientras, me echo una siestecita en el sofá.
+  en: Fine. And meanwhile I'll have a little nap on the sofa.
+  pron.en: … *é*tcho … siéssté*ci*ta … so*fa*
+- Pues cuidado, que el sofá es muy duro.
+  en: Well, mind, the sofa is very hard.
+  pron.en: … coui*da*do … *dou*ro
+- No pasa nada. Es solo un ratito.
+  en: It's fine. It's only a little while.
+  pron.en: … ra*ti*to
+- Ahora mismito te traigo el café, cariño.
+  en: I'll bring you the coffee right away, love.
+  pron.en: … miss*mi*to … *traï*go …
+- Llevo media hora esperando, abuela.
+  en: I've been waiting for half an hour, Grandma.
+- Ya lo sé, cariño. Ahora mismito.
+  en: I know, love. Right away.
+- ¿Ahora mismo, o ahora mismito?
+  en: Right now, or right now-ish?
+- Ahora mismito, que sí.
+  en: Right away, I said.
+- ¿Y el café, entonces?
+  en: So what about the coffee?
+- Mañana mismito, cariño, que ya no queda café.
+  en: Tomorrow, love, there's no coffee left.
+
+notes.en:
+1. Cafelito (line 1) is a diminutive of café: the accent goes, and -elito is added. Ratito (line 5) comes from rato, "a while", and siestecita (line 3) from siesta. The -ito and -ita endings make a thing small, and they also make it friendly.
+2. Ahora mismo (line 2) is "right now". Mismito adds the diminutive to it, and it is said with affection, so the same phrase can sound warm or teasing, as the speaker chooses.
+3. Te lo preparo and te lo traigo (lines 2 and 6): both pronouns come before the verb, in the order te then lo, as se lo does in lesson 18.
+4. Llevo media hora esperando (line 7): llevar with the gerund says that something has gone on for a time, as in llevo tres años pidiendo in lesson 39. The English uses "I've been", and the gerund is esperando.
+5. Me echo una siestecita (line 3): echarse una siesta is "to have a nap". The pronoun me comes before the verb, and the siesta is from lesson 82.
+6. The augmentative works the other way. Sartén is "frying pan", and sartenazo is a blow with one. The full table of both endings comes in the revision lesson.
+
+ex1:
+- Un cafelito, por favor.
+  en: A little coffee, please.
+- Me echo una siestecita.
+  en: I'm going to have a little nap.
+- Es solo un ratito.
+  en: It's only a little while.
+- Llevo media hora esperando.
+  en: I've been waiting for half an hour.
+- Ahora mismito te traigo el café.
+  en: I'll bring you the coffee right away.
+
+ex2:
+- Abuela, ¿me preparas un [cafelito]?
+  en: Grandma, could you make me a little coffee?
+- Me echo una [siestecita] en el sofá.
+  en: I'm going to have a little nap on the sofa.
+- Es solo un [ratito].
+  en: It's only a little while.
+- Llevo media hora [esperando].
+  en: I've been waiting for half an hour.
+- Ahora mismito te [lo] traigo.
+  en: I'll bring it to you right away.
+
+== 87 B2
+numeral: Lección ochenta y siete
+numeral.pron.en: lék*cion* o*tchén*ta i *sié*té
+title: Tomar el pelo
+title.en: Pulling someone's leg
+
+dialogue:
+- Oye, mañana te toca presentar el informe al director.
+  en: Listen, tomorrow it's your turn to present the report to the director.
+  pron.en: … préssén*tar* … diréc*tor*
+- ¿En serio? No me había enterado.
+  en: Really? I hadn't heard.
+  pron.en: … *sé*rio … énté*ra*do
+- No, hombre, que te estoy tomando el pelo.
+  en: No, mate, I'm pulling your leg.
+  pron.en: … to*man*do … *pé*lo
+- Ya me lo olía. ¿Y no me vas a echar una mano?
+  en: I thought as much. And aren't you going to give me a hand?
+  pron.en: … o*li*a … é*tchar* … *ma*no
+- Claro, pero no metas la pata con las cifras.
+  en: Of course, but don't put your foot in it with the figures.
+  pron.en: … *mé*tass … *pa*ta … *ci*frass
+- Tranquilo, que no voy a meter la pata.
+  en: Relax, I'm not going to put my foot in it.
+  pron.en: … mé*tér* …
+- Pues no te quedes en las nubes, que hay mucho trabajo.
+  en: Then don't stay up in the clouds, there's a lot of work.
+  pron.en: … *ké*déss … *nou*béss …
+- Vale. ¿Y el café de la reunión? El de abajo cuesta un ojo de la cara.
+  en: Right. And the coffee for the meeting? The one downstairs costs an arm and a leg.
+  pron.en: … *o*Ho … *ca*ra
+- Pues lo haces tú, que para ti es pan comido.
+  en: Then you make it, it's a piece of cake for you.
+- ¿Yo? Me estás tomando el pelo otra vez, ¿no?
+  en: Me? You're pulling my leg again, aren't you?
+- Lo del informe, sí. Lo del café, no.
+  en: The report, yes. The coffee, no.
+
+notes.en:
+1. Tomar el pelo (line 3) is literally "to take the hair", and it means "to pull someone's leg": to tease them with something that is not true. The person teased is the one with te, as in te estoy tomando el pelo.
+2. Echar una mano (line 4) is literally "to throw a hand", and it means "to give a hand". The verb echar is the one of echarse una siestecita (lesson 86); with mano it means to help.
+3. Meter la pata (lines 5 and 6) is literally "to put in the leg", and pata is the word for a paw or a leg. It means "to put one's foot in it", to make a blunder.
+4. Estar en las nubes (line 7) is literally "to be in the clouds". It is said of someone who is not paying attention.
+5. Costar un ojo de la cara (line 8) is literally "to cost an eye of the face". It means "to cost an arm and a leg", and it is said of something very expensive.
+6. Ser pan comido (line 9) is literally "to be bread already eaten". It means "to be a piece of cake", a task so easy that it needs no effort, and it takes the person it is said to with para.
+
+ex1:
+- Te estoy tomando el pelo.
+  en: I'm pulling your leg.
+- Estás en las nubes otra vez.
+  en: You're in the clouds again.
+- No metas la pata con el informe.
+  en: Don't put your foot in it with the report.
+- Es pan comido para ti.
+  en: It's a piece of cake for you.
+- Esto cuesta un ojo de la cara.
+  en: This costs an arm and a leg.
+
+ex2:
+- Oye, ¿me vas a [echar] una mano?
+  en: Listen, are you going to give me a hand?
+- Te estoy [tomando] el pelo.
+  en: I'm pulling your leg.
+- No [metas] la pata.
+  en: Don't put your foot in it.
+- Ese coche [cuesta] un ojo de la cara.
+  en: That car costs an arm and a leg.
+- Para ti, eso es [pan comido].
+  en: For you, that is a piece of cake.
+
+== 88 B2
+numeral: Lección ochenta y ocho
+numeral.pron.en: lék*cion* o*tchén*ta i *o*tcho
+title: Las lenguas de España
+title.en: The languages of Spain
+
+dialogue:
+- En toda España se habla castellano, que es la lengua oficial del Estado.
+  en: Castilian is spoken throughout Spain; it is the official language of the state.
+  pron.en: … cassté*ya*no … *lén*goua ofi*cial* …
+- En Cataluña, en las Islas Baleares y en la Comunidad Valenciana, el catalán también es oficial.
+  en: In Catalonia, the Balearic Islands and the Valencian Community, Catalan is also official.
+  pron.en: … cata*lou*gna … *iss*lass balé*a*réss … comouni*dad* balén*cia*na … cata*lan* …
+- En la Comunidad Valenciana se llama valenciano.
+  en: In the Valencian Community it is called valenciano.
+  pron.en: … balén*cia*no
+- En Galicia se habla gallego, una lengua parecida al portugués.
+  en: In Galicia, Galician is spoken, a language similar to Portuguese.
+  pron.en: … ga*li*cia … ga*yé*go … paré*ci*da … portou*guéss*
+- En el País Vasco y en parte de Navarra se habla euskera, que no tiene parentesco con el castellano.
+  en: In the Basque Country and part of Navarre, Basque is spoken, and it is not related to Castilian.
+  pron.en: … pa*iss* *bass*co … *par*té … na*ba*rra … éouss*ké*ra … parén*téss*co …
+- En el Valle de Arán se habla aranés, una variante del occitano.
+  en: In the Aran Valley, Aranese is spoken, a variety of Occitan.
+  pron.en: … *ba*yé … a*ran* … ara*néss* … ba*rian*té … okci*ta*no
+- Estas lenguas son cooficiales en su comunidad, y los carteles suelen estar en dos idiomas.
+  en: These languages are co-official in their region, and signs are often in two languages.
+  pron.en: … *lén*gouass … coofi*cia*léss … car*té*léss *soué*lén … i*dio*mass
+- Por eso muchos españoles son bilingües.
+  en: That is why many Spanish people are bilingual.
+  pron.en: … ésspa*gno*léss … bi*lin*gouéss
+- Cada lengua tiene su saludo.
+  en: Each language has its own greeting.
+  pron.en: … sa*lou*do
+- Buenos días, en castellano.
+  en: Good morning, in Castilian.
+- Bon dia, en catalán.
+  en: Good morning, in Catalan.
+  pron.en: bon dia …
+- Bo día, en gallego.
+  en: Good morning, in Galician.
+  pron.en: bo …
+- Egun on, en euskera.
+  en: Good morning, in Basque.
+  pron.en: *é*goun on …
+- Y en cualquier parte de España, buenos días se entiende.
+  en: And anywhere in Spain, buenos días is understood.
+  pron.en: … coual*kiér* …
+
+notes.en:
+1. Que es la lengua oficial del Estado (line 1): que is the relative, "which", and it refers back to castellano. Castellano and español are the same language, and both words are used in Spain.
+2. Se habla (lines 1, 4, 5 and 6) is the impersonal se of lesson 59: nobody is named as the speaker, so the verb stays singular, even when the language is named afterwards.
+3. Es oficial (line 2) and son cooficiales (line 7): the adjective agrees with its subject, el catalán in the first case and estas lenguas in the second, so the plural takes the plural form.
+4. En catalán, en gallego, en euskera (lines 11 to 13): the name of a language comes after en with no article, as English says "in Catalan".
+
+ex1:
+- El castellano es la lengua oficial del Estado.
+  en: Castilian is the official language of the state.
+- En Galicia se habla gallego.
+  en: Galician is spoken in Galicia.
+- Estas lenguas son cooficiales.
+  en: These languages are co-official.
+- En el País Vasco se habla euskera.
+  en: Basque is spoken in the Basque Country.
+- Buenos días, en castellano.
+  en: Good morning, in Castilian.
+
+ex2:
+- En Galicia se [habla] gallego.
+  en: Galician is spoken in Galicia.
+- El catalán [también] es oficial.
+  en: Catalan is also official.
+- Estas lenguas son [cooficiales].
+  en: These languages are co-official.
+- Por eso muchos españoles son [bilingües].
+  en: That is why many Spanish people are bilingual.
+- En la Comunidad Valenciana se [llama] valenciano.
+  en: In the Valencian Community it is called valenciano.
+
+== 89 B2
+numeral: Lección ochenta y nueve
+numeral.pron.en: lék*cion* o*tchén*ta i *noué*bé
+title: Una carta de reclamación
+title.en: A letter of complaint
+
+dialogue:
+- Estimados señores:
+  en: Dear Sirs:
+  pron.en: éssti*ma*doss sé*gno*réss
+- Les escribo para presentar una reclamación por la pérdida de mi maleta.
+  en: I am writing to make a complaint about the loss of my suitcase.
+  pron.en: … éss*cri*bo … réclama*cion* … *pér*dida … ma*lé*ta
+- El tres de mayo facturé la maleta en el aeropuerto de Barajas, en el vuelo de Madrid a Roma.
+  en: On the third of May I checked my suitcase in at Barajas airport, on the flight from Madrid to Rome.
+  pron.en: … *ma*yo factou*ré* … aéro*pouér*to … ba*ra*Hass … *boué*lo … *ro*ma
+- Al llegar a Roma, la maleta no estaba en la cinta.
+  en: When I arrived in Rome, the suitcase was not on the carousel.
+  pron.en: … *cin*ta
+- Pregunté en el mostrador, y me dijeron que no sabían nada.
+  en: I asked at the desk, and they told me they knew nothing.
+  pron.en: prégoun*té* … mosstra*dor* … di*Hé*ron … sa*bi*an …
+- Mi vecino, que viajó en el mismo vuelo que yo, recogió la suya enseguida.
+  en: My neighbour, who was on the same flight as me, collected his straight away.
+  pron.en: … bia*Ho* … réco*Hio* … *sou*ya énssé*gui*da
+- Adjunto copia del billete y del resguardo de la maleta.
+  en: I enclose a copy of the ticket and of the baggage receipt.
+  pron.en: ad*Houn*to *co*pia … réss*gouar*do …
+- La maleta es azul, igual que la de mi vecino, con dos ruedas y una etiqueta con mi nombre.
+  en: The suitcase is blue, like my neighbour's, with two wheels and a label with my name.
+  pron.en: … a*çoul* … *roué*dass … éti*ké*ta …
+- Dentro hay ropa, documentos y regalos para mi familia.
+  en: Inside there are clothes, documents and presents for my family.
+  pron.en: *dén*tro … *ro*pa docou*mén*toss … ré*ga*loss …
+- Ustedes me dijeron que la encontrarían en dos días, pero no lo han hecho.
+  en: You told me you would find it within two days, but you have not done so.
+  pron.en: ouss*té*déss … éncontra*ri*an …
+- Llevo tres semanas sin ropa limpia.
+  en: I have been without clean clothes for three weeks.
+  pron.en: … sé*ma*nass … *lim*pia
+- Les ruego que investiguen el caso lo antes posible.
+  en: I ask you to investigate the case as soon as possible.
+  pron.en: … *roué*go … inbéss*ti*guén … *ca*sso …
+- Les ruego que me devuelvan la maleta o que me paguen una indemnización.
+  en: I ask you to return my suitcase or to pay me compensation.
+  pron.en: … dé*bouél*ban … *pa*guén … indémniça*cion*
+- Si no recibo respuesta en quince días, presentaré una hoja de reclamaciones oficial.
+  en: If I do not get a reply within fifteen days, I will file an official complaint form.
+  pron.en: … ré*ci*bo réss*pouéss*ta … préssénta*ré* … *o*Ha … réclama*cio*néss …
+- Gracias por su atención. Quedo a la espera de su respuesta.
+  en: Thank you for your attention. I look forward to your reply.
+  pron.en: … atén*cion* *ké*do …
+- Atentamente,
+  en: Yours faithfully,
+  pron.en: a*tén*ta-*mén*té
+- Posdata: mi vecino acaba de traerme la maleta. Se había llevado la mía.
+  en: P.S.: My neighbour has just brought me the suitcase. He had taken mine.
+  pron.en: poss*da*ta … a*ca*ba …
+
+notes.en:
+1. Les escribo (line 2): the letter is written to a company, and a company is addressed as ustedes. The pronoun is les, "to you", and the verb takes the third person plural, as usted does in lesson 2. The greeting Estimados señores is "Dear Sirs".
+2. Les ruego que investiguen (line 12): ruego que means "I ask you to", and the verb after que is in the subjunctive, because what is asked has not yet happened. The same is true of devuelvan and paguen (line 13).
+3. Si no recibo, presentaré (line 14): the si clause takes the present, and the future goes in the main clause, as in lesson 44. Spanish never puts a future after si.
+4. Facturé (line 3) is the verb facturar, "to check in" a bag. The preterite is used because it is a single event on a day that is over.
+5. Quedo a la espera de su respuesta (line 15) is a set phrase for the end of a formal letter: "I look forward to your reply", with the literal sense "I remain at the wait for your answer".
+6. Atentamente is the usual close of a formal letter, and in British English it is "Yours faithfully". The posdata, often written P.D., is the postscript, written after the signature.
+
+culture.en:
+In Spain, businesses that serve the public must keep an official complaints form, the hoja de reclamaciones, and give it to a customer who asks for one. A formal letter like this one is put in writing, so that the company has a record of the complaint.
+
+ex1:
+- Les escribo para presentar una reclamación.
+  en: I am writing to make a complaint.
+- Les ruego que me devuelvan la maleta.
+  en: I ask you to return my suitcase.
+- Quedo a la espera de su respuesta.
+  en: I look forward to your reply.
+- Facturé la maleta en Barajas.
+  en: I checked my suitcase in at Barajas.
+- Si no recibo respuesta, presentaré una reclamación.
+  en: If I do not get a reply, I will make a complaint.
+
+ex2:
+- Les [escribo] para presentar una reclamación.
+  en: I am writing to make a complaint.
+- Les ruego que me [devuelvan] la maleta.
+  en: I ask you to return my suitcase.
+- Les ruego que [investiguen] el caso.
+  en: I ask you to investigate the case.
+- Quedo a la [espera] de su respuesta.
+  en: I look forward to your reply.
+- [Atentamente],
+  en: Yours faithfully,
+
+== 90 B2
+numeral: Lección noventa
+numeral.pron.en: lék*cion* no*bén*ta
+title: ¡Que te mejores!
+title.en: Get well soon!
+
+dialogue:
+- Estoy constipado desde el lunes.
+  en: I've had a cold since Monday.
+- ¡Que te mejores! Tómate un té con limón.
+  en: Get well soon! Have a tea with lemon.
+  pron.en: … *to*maté … té … li*mon*
+- Gracias. Me duele todo.
+  en: Thanks. Everything hurts.
+- Que descanses, y que aproveche la sopa.
+  en: Rest, and enjoy the soup.
+  pron.en: … apro*bé*tché … *so*pa
+- Ya me la he comido.
+  en: I've already had it.
+- ¿Mañana al médico? Que tengas suerte.
+  en: The doctor tomorrow? Good luck.
+  pron.en: … *mé*dico …
+- Que te mejores, y que vuelvas pronto.
+  en: Get well soon, and come back soon.
+  pron.en: … *bouél*bass *pron*to
+
+notes.en:
+1. Estoy constipado (line 1) means "I have a cold", as in lesson 20. Careful: for English speakers the word looks like "constipated", which is something else. The full list of such false friends comes in lesson 96.
+2. ¡Que te mejores! (line 2) is que with the subjunctive, used for a wish: literally "that you get better". The verb is mejorarse, and the pronoun te comes before the verb.
+3. The same pattern gives que descanses (line 4), que tengas suerte (line 6) and que vuelvas pronto (line 7). Each is a wish made to someone, and the verb is in the subjunctive: descanses, tengas, vuelvas.
+4. Que aproveche (line 4) is said before a meal, and it is the same as "enjoy your meal". Here it is said about the soup, which is still to be eaten.
+5. Ya me la he comido (line 5) is the perfect for today, with the soup as la. Comerse means "to eat up", and the me is part of it, so the pronouns come before the verb.
+
+culture.en:
+When someone sneezes, Spanish speakers often say ¡Jesús! or ¡Salud!, and the person who sneezed answers with gracias. Before a meal, people say ¡que aproveche! to each other, as the friend does here with the soup.
+
+ex1:
+- Que te mejores pronto.
+  en: Get well soon.
+- Que descanses esta noche.
+  en: Rest tonight.
+- Que tengas suerte mañana.
+  en: Good luck tomorrow.
+- Ya me he comido la sopa.
+  en: I have already eaten the soup.
+- Que vuelvas pronto.
+  en: Come back soon.
+
+ex2:
+- ¡Que te [mejores]!
+  en: Get well soon!
+- Que [descanses] esta noche.
+  en: Rest tonight.
+- Que [aproveche] la sopa.
+  en: Enjoy the soup.
+- Ya me la he [comido].
+  en: I have already had it.
+- Que [tengas] suerte.
+  en: Good luck.
+
+== 91 B2
+kind: revision
+numeral: Lección noventa y una
+numeral.pron.en: lék*cion* no*bén*ta i *ou*na
+title: Revisión y notas
+title.en: Revision and notes
+
+dialogue:
+- Buenas noches. Quería presentar una queja, por favor.
+  en: Good evening. I'd like to make a complaint, please.
+  refs: 45 89
+- Un momentito, señor. ¿Qué le pasa a la habitación?
+  en: Just a moment, sir. What's wrong with the room?
+  refs: 20 86
+- Nada. La habitación es preciosa.
+  en: Nothing. The room is lovely.
+  refs: 32 47
+- ¿Entonces el problema es la cama?
+  en: Then is the bed the problem?
+  refs: 49 57
+- No, la cama es lo mejor. Llevo tres noches durmiendo de maravilla.
+  en: No, the bed is the best part. I've been sleeping wonderfully for three nights.
+  refs: 39 67
+- ¿El aire acondicionado, quizás?
+  en: The air conditioning, perhaps?
+  refs: 54
+- Funciona perfectamente.
+  en: It works perfectly.
+  refs: 47
+- Pues no lo entiendo, señor. ¿Cuál es su queja?
+  en: Then I don't understand, sir. What is your complaint?
+  refs: 48 60
+- Siento tener que decírselo...
+  en: I'm sorry to have to tell you...
+  refs: 18 78
+- Dígamelo, por favor, pase lo que pase.
+  en: Tell me, please, whatever it is.
+  refs: 63 85
+- Me voy mañana.
+  en: I'm leaving tomorrow.
+  refs: 81
+- ¿Y eso es una queja?
+  en: And that's a complaint?
+  refs: 89
+- Sí. Mi queja es que no quiero marcharme nunca.
+  en: Yes. My complaint is that I never want to leave.
+  refs: 31 89
+
+notes.en:
+Nothing in this lesson needs to be learnt by heart. The subjunctive is the hardest part of the whole course so far, and doubts about it are normal. Every form here comes back in the lessons ahead, so use these tables as reminders, not as rules to memorise.
+
+1. The repeated subjunctive and the fixed expressions (lesson 85).
+
+| Expression | English | In lesson 85 |
+|---|---|---|
+| pase lo que pase | whatever happens | line 2 |
+| digan lo que digan | whatever they say | line 4 |
+| sea como sea | however it is | line 6 |
+| o sea, que | so, that is to say | line 11 |
+| que yo sepa | as far as I know | line 12 |
+
+2. Diminutives and augmentatives (lessons 34 and 86).
+
+| Word | Ending | Meaning | From the lessons |
+|---|---|---|---|
+| cafelito | -ito (café) | a little coffee | lesson 86, line 1 |
+| siestecita | -ecita (siesta) | a little nap | lesson 86, line 3 |
+| ratito | -ito (rato) | a little while | lesson 86, line 5 |
+| ahora mismito | -ito (ahora mismo) | right away, said warmly | lesson 86, lines 6 and 8 |
+| sartenazo | -azo (sartén) | a blow with a frying pan | sartén in lesson 34; the note to lesson 86 |
+
+3. The idioms met (lesson 87). The verb keeps its own sense, and the idiom only makes sense as a whole.
+
+| Idiom | Literal sense | English | From the lessons |
+|---|---|---|---|
+| tomar el pelo | to take the hair | to pull someone's leg | lesson 87, line 3 |
+| echar una mano | to throw a hand | to give a hand | lesson 87, line 4 |
+| meter la pata | to put in the leg | to put one's foot in it | lesson 87, lines 5 and 6 |
+| estar en las nubes | to be in the clouds | to be absent-minded | lesson 87, line 7 |
+| costar un ojo de la cara | to cost an eye of the face | to cost an arm and a leg | lesson 87, line 8 |
+| ser pan comido | to be bread already eaten | to be a piece of cake | lesson 87, lines 9 and 12 |
+
+4. The formal letter (lesson 89). Ustedes takes the third person, and les is the pronoun for it.
+
+| Phrase | English | From the lessons |
+|---|---|---|
+| Estimados señores: | Dear Sirs: | lesson 89, line 1 |
+| Les escribo para presentar una reclamación | I am writing to make a complaint | lesson 89, line 2 |
+| Les ruego que investiguen el caso | I ask you to investigate the case | lesson 89, line 12 |
+| Si no recibo respuesta, presentaré | If I do not get a reply, I will make | lesson 89, line 14 (si with the present, lesson 44) |
+| Quedo a la espera de su respuesta | I look forward to your reply | lesson 89, line 15 |
+| Atentamente, | Yours faithfully, | lesson 89, line 16 |
+
+5. Que with the subjunctive for wishes (lesson 90). The verb is always in the subjunctive, and the pronoun joins the front of it.
+
+| Wish | English | From the lessons |
+|---|---|---|
+| ¡Que te mejores! | get well soon | lesson 90, line 2 |
+| Que descanses | rest | lesson 90, line 4 |
+| Que aproveche | enjoy your meal | lesson 90, line 4 |
+| Que tengas suerte | good luck | lesson 90, line 6 |
+| Que vuelvas pronto | come back soon | lesson 90, line 7 |
+
+6. Tú, usted, vosotros and ustedes (lessons 2, 7, 86, 89 and 83). Tú is for friends, family and young people, and usted is for strangers who are older and for formal settings. Vosotros is "you all" in Spain, and ustedes is "you all" in the formal register.
+
+| Form | Used for | Example | From the lessons |
+|---|---|---|---|
+| tú | friends and family | ¿Me preparas un cafelito? | lesson 86, line 1 |
+| usted | a stranger, formal | Es usted muy amable | lesson 2; this lesson, line 5 |
+| vosotros | "you all", friends | Contamos con todos vosotros | lesson 83, line 9 |
+| ustedes | "you all", formal | Ustedes me dijeron | lesson 89, line 10 |
 
 That closes the week: these forms come back in the lessons ahead, and each time they will feel a little more familiar.

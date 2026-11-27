@@ -5,3 +5,749 @@ name: Spanish – Mastery (C1 → C2)
 name.it: Spagnolo – Padronanza (C1 → C2)
 name.en: Spanish – Mastery (C1 → C2)
 name.es: Español – Maestría (C1 → C2)
+
+== 1 C1
+numeral: Lección primera
+title: ¿Nos tuteamos?
+title.en: Shall we use tú?
+
+dialogue:
+- Hoy, en España, casi todo el mundo se trata de tú, y el usted ha quedado para unos pocos casos.
+  en: Today, in Spain, almost everyone uses tú with almost everyone, and usted has been kept for a few cases.
+- El banco me tutea en la aplicación del móvil, y el supermercado, en el ticket de la compra.
+  en: The bank says tú to me in its phone app, and the supermarket does so on the receipt.
+- Nadie se extraña ya de ello, y sin embargo hace unas décadas esa misma carta habría empezado por «Estimado señor».
+  en: Nobody is surprised by this now, and yet a few decades ago that same letter would have begun «Estimado señor».
+- Mis abuelos decían usted a sus propios padres, y lo hacían sin sentir distancia alguna, como quien menciona el tiempo que hace.
+  en: My grandparents said usted to their own parents, and felt no distance in doing so, the way one mentions the weather.
+- Mi madre trataba de usted a la portera hasta que las dos se hicieron amigas en la cola del mercado, y desde entonces fue de tú, para siempre.
+  en: My mother addressed the concierge as usted until the two of them became friends in the queue at the market, and from then on it was tú, for good.
+- Lo que cambió no fue la gramática, sino la idea de cercanía que cada cual quiere mostrar.
+  en: What changed was not the grammar but the idea of closeness that each person wants to show.
+- El tú se impuso como forma de igualdad, y la igualdad tiene la ventaja de llegar a veces sin que nadie la haya pedido.
+  en: Tú spread as a form of equality, and equality has the advantage of sometimes arriving without anyone having asked for it.
+- El usted, en cambio, dice algo que el tú no dice: que el otro tiene su espacio y que uno lo reconoce.
+  en: Usted, by contrast, says something tú does not: that the other person has their own space, and that one acknowledges it.
+- Lo digo sin nostalgia, porque también he recibido el usted de personas que me querían mucho, y lo sentí como una muestra de respeto.
+  en: I say this without nostalgia, because I too have received usted from people who were very fond of me, and I took it as a sign of respect.
+- Lo que de verdad me sorprendió fue el primer usted que alguien me dirigió a mí.
+  en: What really surprised me was the first usted that someone addressed to me.
+- Fue en la farmacia de mi barrio, a los veintisiete años, y tardé unos segundos en darme cuenta de que hablaban conmigo.
+  en: It was at the chemist's in my neighbourhood, when I was twenty-seven, and it took me a few seconds to realise they were speaking to me.
+- El farmacéutico, de mi edad más o menos, me preguntó: «¿Le pongo una bolsa?», y yo no supe qué contestar.
+  en: The pharmacist, roughly my age, asked: «Shall I put it in a bag for you?», and I did not know what to say.
+- Hasta entonces era yo el que tuteaba; de pronto alguien me hablaba desde lejos, como si hubiera llegado de golpe a una edad que no había notado que se acercaba.
+  en: Until then I was the one who used tú; suddenly someone was speaking to me from a distance, as if I had arrived all at once at an age I had not noticed approaching.
+- Desde entonces he observado que el usted es más frecuente en las cartas oficiales, en algunas tiendas de barrio y en boca de camareros muy jóvenes.
+  en: Since then I have noticed that usted is more common in official letters, in some neighbourhood shops, and from very young waiters.
+- Con las personas muy mayores también se usa, como una señal de respeto que se hereda y que nadie ha firmado.
+  en: It is also used with the very old, as a mark of respect that is passed down and that nobody has signed.
+- En América Latina el usted tiene más terreno: en parte de Colombia y en Costa Rica todavía se oye dentro de algunas familias.
+  en: In Latin America usted holds more ground: in parts of Colombia and in Costa Rica it can still be heard inside some families.
+- Tampoco hay que idealizarlo: en algunas casas, el usted entre padres e hijos era una distancia que nadie había elegido.
+  en: Nor should it be idealised: in some households, usted between parents and children was a distance that nobody had chosen.
+- Los dos sistemas tienen su lógica, y lo que molesta es el uso que no tiene ninguna.
+  en: Both systems have their logic, and what is annoying is the use that has none.
+- Cuando el banco escribe «Hola» y después pide que confirme una contraseña, el tú no es cercanía: es una estrategia.
+  en: When the bank writes «Hi» and then asks me to confirm a password, the tú is not closeness: it is a strategy.
+- La compañía de la luz me tutea con la misma familiaridad con la que me cobra el recibo.
+  en: The electricity company says tú to me with the same familiarity with which it charges me the bill.
+- Por eso no me molesta el usted de la administración pública, que al menos no pretende ser mi amigo.
+  en: That is why the usted of the public administration does not bother me: at least it does not claim to be my friend.
+- Lo que sí me molesta es el tuteo de los anuncios, que no deja más salida que aceptarlo.
+  en: What does annoy me is the tú of adverts, which leaves no way out but to accept it.
+- Hay quien dice que el tú es cosa de modernidad, y quien dice que es cosa de dejadez; yo creo que es, sobre todo, cuestión de quién decide.
+  en: Some say tú is a sign of modernity and others that it is a sign of carelessness; I think it is, above all, a question of who decides.
+- Por eso creo que lo correcto es preguntar, y no decidir por el otro.
+  en: So I think the right thing is to ask, and not to decide for the other person.
+- En el trabajo, con los compañeros más jóvenes, nos hemos tuteado sin decidirlo; con los mayores seguimos con el usted sin que nadie lo proponga.
+  en: At work, with my younger colleagues, we have ended up using tú without deciding to; with the older ones we have kept usted without anyone proposing it.
+- Hace poco, a los sesenta años, le dije a un camarero de veinte años: «Trátame de tú, por favor».
+  en: Not long ago, at sixty, I said to a waiter of twenty: «Please use tú with me».
+- Y él me contestó: «Como usted quiera, caballero».
+  en: And he answered: «As you wish, sir».
+
+notes.en:
+1. tratarse de tú (sentence 1): two people address each other as tú, and the reflexive makes the choice mutual. English "you" gives no such choice, so the Spanish verb shows the relationship. The forms themselves are in (Foundation, lesson 13). Example: Nos tratamos de tú desde el primer día, "we have been on tú terms since the first day".
+2. tutea (sentence 2): tutear is the verb for addressing someone as tú, and it takes a person as its object. A company can do it too, which is the point of the essay. Example: Mi jefe me tutea, pero yo le digo usted, "my boss says tú to me, but I say usted to him".
+3. Estimado señor (sentence 3): the usual opening of a formal letter to a man. A letter to a woman begins Estimada señora, and a letter to a company Estimados señores.
+4. decían usted (sentence 4): in many families of the older generation, children said usted to their parents. The sentence describes a habit, not a rule, and it says the habit felt natural.
+5. tratar de usted (sentence 5): tratar de usted and tratar de tú are the two set phrases for the two forms of address. A portera is the concierge who looks after a block of flats. Example: La trato de usted, aunque es mi cuñada, "I address her as usted, although she is my sister-in-law".
+6. en cambio (sentence 8): it sets one thing against another and sits between commas after the first part, as in (Perfectionnement, lesson 64, note 4). Example: Yo, en cambio, prefiero el tuteo, "I, on the other hand, prefer tú".
+7. tardé unos segundos en (sentence 11): tardar en with an infinitive means to take time to do something. Example: Tardé en contestarle, "it took me a while to answer him".
+8. le pongo (sentence 12): the pronoun le refers to the usted the pharmacist uses, and it means "for you". Shops say it all day: ¿Le pongo una bolsa?, "shall I put a bag in for you?".
+9. como si hubiera llegado (sentence 13): como si takes the imperfect or the pluperfect subjunctive when the comparison is not real. Hubiera llegado is the pluperfect subjunctive. Example: Me habló como si no me conociera, "he spoke to me as if he did not know me".
+10. en boca de (sentence 14): said by, coming from the mouth of someone. Example: Esa palabra, en boca de mi abuela, suena natural, "that word, from my grandmother, sounds natural".
+11. Latin America (sentence 16): usted is heard more widely in Latin America than in Spain. In Madrid a mother and daughter would say tú to each other; in parts of Colombia and in Costa Rica, usted can still be heard within families. Each country has its own usage, so no single rule covers the region.
+12. pretende ser (sentence 21): pretender means to try, or to claim, to be something. It does not mean to fake something, as English "pretend" often does. Example: Pretende saber mucho de vinos, "he claims to know a lot about wine".
+13. no deja más salida que (sentence 22): no dejar más salida que means to leave no choice but. Example: Nos deja más salida que esperar, "it leaves us no choice but to wait".
+14. cosa de (sentence 23): cosa de followed by a noun means a matter of, or a sign of. Example: Eso es cosa de niños, "that is a child's business", said of something childish.
+15. «Como usted quiera» (sentence 27): the formula grants the request in words, as you wish, and keeps usted in the form. The last line gives the choice back to the writer, who asked for it.
+16. caballero (sentence 27): the address waiters often use for a man in a restaurant. It goes with usted, and it sounds a little old-fashioned.
+
+ex1:
+- Señora Ruiz, le ruego que me disculpe el retraso, aunque el tren se paró media hora en Atocha.
+  en: Mrs Ruiz, I beg your pardon for being late, though the train stopped for half an hour at Atocha.
+- Tutear a alguien no es un gesto neutro: a veces es una invitación y otras veces, una imposición.
+  en: Using tú with someone is never a neutral gesture: sometimes it is an invitation, and sometimes an imposition.
+- «¿Ya no te acuerdas de mí?», me preguntó la vecina, a la que siempre había tuteado, y tardé en reconocerla.
+  en: "Don't you remember me?" the neighbour asked, a woman I had always addressed as tú, and it took me a while to recognise her.
+- A diferencia de mi madre, no me importa que mis alumnos me traten de tú, siempre que sepan dónde está el límite.
+  en: Unlike my mother, I do not mind my students addressing me as tú, as long as they know where the limit is.
+- «Mire, caballero, la mesa está reservada desde las nueve, pero si quiere esperar a que se libere la barra, con gusto le atiendo.»
+  en: "Look, sir, the table has been booked since nine, but if you would like to wait until a place at the bar frees up, I would be glad to serve you."
+
+ex2:
+- No tiene [pelos] en la lengua: dice lo que piensa, aunque le cueste algún amigo.
+  en: He does not mince his words: he says what he thinks, even if it costs him a friend.
+- Lo que me ha contado Sonia no tiene [ni pies] ni cabeza.
+  en: What Sonia told me makes no sense at all.
+- Lucía, no me [tomes] el pelo: ¿de verdad te ha tocado la lotería?
+  en: Lucía, don't pull my leg: has the lottery really come up for you?
+- Ayer estuve toda la cena en las [nubes]: no me enteré de nada de lo que hablábamos.
+  en: Yesterday I was daydreaming all through dinner: I did not catch a word of what we were talking about.
+- Vi a mi antiguo profesor en la calle y [pasé] de largo, sin saludarle.
+  en: I saw my old teacher in the street and walked straight past him without greeting him.
+
+tasks:
+- Hoy casi todo el mundo se trata de tú en España, y el usted se reserva para las personas muy mayores, las cartas oficiales y algunos camareros jóvenes. El tú se impuso como forma de igualdad, aunque a veces llega sin que nadie lo pida. El usted reconoce el espacio del otro. El autor, a los sesenta años, pidió a un camarero que le tratara de tú, y el camarero le contestó con un usted.
+  task.en: Summarise the essay in Spanish in about 60 words: what decided tú and usted, who uses usted today, what the author thinks, and how the text ends.
+  rubric.en: meaning: the summary gives the rule, the people who keep usted, the author's view and the waiter's answer; register: plain and neutral, with no personal judgement; structure: about 60 words, past tense for the author's own request and present for the general claims; idiom: tratarse de tú and tratar de usted are used in their set forms; effect: the ending is given in a summary sentence, not quoted at length.
+- Estimado profesor Gómez: gracias por su correo. Le confirmo que puedo pasar por su despacho el jueves a las diez. Mi trabajo todavía no está terminado, pero se lo enviaré a más tardar el lunes. Si prefiere hablar antes, dígamelo y lo organizo. Un cordial saludo.
+  task.en: A professor has written to you using tú. Reply in Spanish in a formal email: accept a meeting on Thursday at ten, say you will send the text by Monday at the latest, and offer to talk earlier. Use usted from the greeting to the sign-off.
+  rubric.en: meaning: the meeting, the Thursday and the ten o'clock, the Monday deadline and the offer to talk earlier are all there; register: usted throughout, with no tú; structure: greeting, body and closing of a formal email, with the greeting matched to the sign-off; idiom: Le confirmo, se lo enviaré, dígamelo and Un cordial saludo are used correctly; effect: courteous and not pressing.
+
+== 2 C1
+numeral: Lección segunda
+title: Dos mensajes, una queja
+title.en: Two messages, one complaint
+
+dialogue:
+- Hace una semana que el agua cae sobre mi balcón, y no hace falta ser un experto para saber de dónde viene.
+  en: For a week water has been falling onto my balcony, and you do not need to be an expert to know where it comes from.
+- Viene de la lavadora del piso de encima, que a las seis de la mañana empieza a centrifugar como si fuera un avión.
+  en: It comes from the washing machine in the flat above, which starts its spin cycle at six in the morning as if it were an aeroplane.
+- El ruido empieza antes de que salga el sol, y dura casi una hora.
+  en: The noise starts before the sun is up, and it lasts almost an hour.
+- Mi amiga Ana se había mudado al edificio el mes anterior, y lo primero que hice fue escribirle por WhatsApp.
+  en: My friend Ana had moved into the building the month before, and the first thing I did was write to her on WhatsApp.
+- Hacía años que no vivíamos cerca, así que su mudanza me pareció una buena noticia.
+  en: We had not lived near each other for years, so her move seemed to me good news.
+- El mensaje salió así: «Tía, no puedo más. La del cuarto pone la lavadora a las seis de la mañana, y el agua me gotea en el balcón desde hace una semana. Es que flipa, en serio.»
+  en: The message came out like this: «Tía, I can't take any more. The woman on the fourth floor runs her washing machine at six in the morning, and water has been dripping onto my balcony for a week. It's outrageous, honestly.»
+- Lo leí dos veces antes de enviarlo, y me pareció una queja con buen humor, de esas que se hacen entre amigas.
+  en: I read it twice before sending it, and it seemed to me a complaint with good humour, the kind one makes between friends.
+- No me pareció un texto grosero, solo impaciente.
+  en: It did not strike me as rude, only impatient.
+- Luego pensé que, para servir de algo, la queja tenía que llegar a quien podía arreglarlo, y eso ya era otra cosa.
+  en: Then I thought that, to be of any use, the complaint had to reach the person who could fix it, and that was a different matter.
+- Así que escribí al administrador de fincas, que es quien se ocupa en el edificio de todo lo que afecta a las zonas comunes.
+  en: So I wrote to the building's administrator, the administrador de fincas, who deals with everything that affects the common areas.
+- Con el correo cambié de registro por completo, como quien cambia de zapatos al salir de casa.
+  en: For the email I changed register completely, the way one changes shoes on leaving the house.
+- En él no había ni un tuteo, ni una exclamación, ni la palabra tía.
+  en: It contained no tú form at all, not one exclamation, and not the word tía.
+- Nunca había escrito un correo con tanta cortesía, ni con tan poca confianza.
+  en: I had never written an email with so much courtesy, or with so little familiarity.
+- Escribí: «Estimado señor Medina: le escribo para comunicarle que, desde hace una semana, el agua de una lavadora de la vivienda de encima gotea sobre mi balcón.»
+  en: I wrote: «Dear Mr Medina: I am writing to inform you that for a week water from a washing machine in the flat above has been dripping onto my balcony.»
+- «Le ruego que lo revise cuanto antes, porque el balcón ya no se puede usar. Quedo a la espera de sus noticias. Un cordial saludo.»
+  en: «I would be grateful if you would have it checked as soon as possible, as the balcony can no longer be used. I await your reply. Kind regards.»
+- Releí la carta tres veces para quitarle cualquier tono de reproche, y al final la dejé tal cual, con sus «le ruego» y sus «quedo».
+  en: I reread the letter three times to strip out any note of reproach, and in the end I left it as it was, with its «le ruego» and its «quedo».
+- Un correo sirve para que alguien actúe, y un mensaje, para que alguien se ría; el problema era el mismo, pero cada texto pedía algo distinto.
+  en: An email is there so that someone will act, and a message so that someone will laugh; the problem was the same, but each text asked for something different.
+- Las dos versiones eran verdad, y lo que cambiaba era la persona a la que iban dirigidas.
+  en: Both versions were true, and what changed was the person they were addressed to.
+- Dos días después, la respuesta del administrador llegó en tres líneas: un técnico pasaría por la vivienda de arriba el jueves.
+  en: Two days later the administrator's reply arrived in three lines: a technician would call at the flat upstairs on Thursday.
+- No pedía disculpas, pero tampoco era necesario: el tono de la respuesta era el de mi carta.
+  en: It did not apologise, but that was not necessary: the tone of the reply was the tone of my letter.
+- Me daba las gracias por el aviso, y firmaba sin ninguna frase de más.
+  en: He thanked me for letting him know, and signed without a single sentence too many.
+- Ana no había contestado ni al mensaje ni a la llamada que le hice después, y yo empezaba a pensar que se había ofendido.
+  en: Ana had answered neither the message nor the call I made afterwards, and I had begun to think she was offended.
+- Repasé mentalmente lo que le había escrito, y no encontré nada que pudiera ofenderla.
+  en: I went over in my mind what I had written to her, and found nothing that could offend her.
+- El jueves, mientras el técnico subía las escaleras, me llegó su respuesta por WhatsApp.
+  en: On Thursday, while the technician was climbing the stairs, her reply came through on WhatsApp.
+- Lo leí de pie, en el rellano, y tardé un momento en entenderlo.
+  en: I read it standing on the landing, and it took me a moment to understand it.
+- Fue muy corta: «Tía, la del cuarto soy yo.»
+  en: It was very short: «Tía, I'm the one on the fourth floor.»
+
+notes.en:
+1. tía (sentence 6): a woman's address to a female friend, common and warm in Spain, and it can carry surprise or complaint. It is not an aunt here. English has no close match, so the Spanish word stays in the message.
+2. la del cuarto (sentence 6): la with a floor, a place or a feature names a neighbour without a name. The same pattern gives la del quinto or la del tercero. It is said in buildings, and it is informal.
+3. Es que flipa, en serio (sentence 6): es que opens the complaint, and flipar, in this use, means that something is outrageous. En serio adds that the speaker means it. Both are colloquial, so they stay in the chat, not in the letter.
+4. de esas que se hacen entre amigas (sentence 7): de esas que followed by a verb means the kind of thing that is done; the relative clause describes a type, not one act. The sentence is in the register of the chat.
+5. administrador de fincas (sentence 10): the professional who manages a building for its owners, and who handles the zonas comunes, the common areas. English has no exact equivalent; managing agent is the nearest, but Spanish keeps the title.
+6. como quien cambia de zapatos (sentence 11): the comparison makes the change of register physical, as a change of clothes. Quien followed by a present tense means the one who, a generic person.
+7. Estimado señor Medina (sentence 14): the standard opening of a formal letter to a man, with his surname. For a woman it is Estimada señora, and for a company Estimados señores. The close must match the opening.
+8. le escribo para comunicarle que (sentence 14): le escribo para plus an infinitive opens a formal letter. Comunicar is more formal than decir and means to inform someone of a fact. Example: Le escribo para pedirle una cita, "I am writing to ask you for an appointment".
+9. le ruego que lo revise (sentence 15): rogar que with the subjunctive is a formal request, more formal than pedir. Example: Le ruego que me envíe el justificante, "I would be grateful if you would send me the receipt".
+10. quedo a la espera de sus noticias (sentence 15): quedar a la espera means to remain waiting, and it is the formal close of a letter. English "I look forward to hearing from you" is looser and friendlier.
+11. sus «le ruego» y sus «quedo» (sentence 16): the two phrases are the formulas of the letter, and they belong to writing, not to speech. Using them in a message would sound like a joke.
+12. sirve para que alguien actúe (sentence 17): servir para followed by que and the subjunctive means that something is there so that someone does something. The purpose clause is why the email and the message differ.
+13. nada que pudiera ofenderla (sentence 23): a relative clause after a negative word such as nada takes the imperfect subjunctive, because the thing is not known to exist. Pudiera ofenderla means it could hurt her.
+14. soy yo (sentence 26): soy yo is the way to say it is me, with the stress on yo. Spanish usually drops the subject pronoun, so yo is added only for emphasis or identification.
+
+ex1:
+- El vecino de abajo me habló de usted, aunque llevábamos años saludándonos de tú.
+  en: The neighbour downstairs addressed me as usted, although we had been greeting each other with tú for years.
+- No te preocupes si tardas en contestarme: ya sé que el trabajo te come el tiempo.
+  en: Do not worry if you take a while to answer me: I know work eats up your time.
+- Ese correo podía haber sido un mensaje de cuatro palabras, pero lo escribió como si fuera una carta notarial.
+  en: That email could have been a four-word message, but he wrote it as if it were a notarised letter.
+- Aunque el administrador contestó con tres líneas, su tono fue más amable de lo que esperaba.
+  en: Although the administrator replied in three lines, his tone was kinder than I expected.
+- «Le escribo para pedirle una copia del acta», me dijo mi hermana, que había preparado la carta en el móvil.
+  en: "I am writing to ask you for a copy of the minutes," my sister said; she had drafted the letter on her phone.
+
+ex2:
+- Vivo en el tercero, y la [del cuarto] pone la música a todas horas.
+  en: I live on the third floor, and the woman on the fourth floor plays music at all hours.
+- Me pidió disculpas por el ruido, pero [tampoco] cambió nada.
+  en: She apologised for the noise, but she did not change anything either.
+- Ya sé que es una tontería, pero [es que] me saca de quicio.
+  en: I know it is silly, but it really does drive me up the wall.
+- Le escribí dos veces, y [quedo] a la espera de su respuesta.
+  en: I wrote to him twice, and I am awaiting his reply.
+- No me hizo ninguna gracia, pero [me callé].
+  en: I did not find it funny at all, but I kept quiet.
+
+tasks:
+- Señor director: le escribo para dar a conocer una situación que afecta a mi balcón desde hace una semana. El agua de la lavadora de un piso superior gotea sobre él, y la máquina se pone en marcha a las seis de la mañana. No pido nada extraordinario: solo que los vecinos revisen sus electrodomésticos antes de que el problema vaya a más. Le agradezco la publicación de esta carta. Atentamente.
+  task.en: Rewrite the WhatsApp message from the text as a letter to the editor of a newspaper, in Spanish, about 80 words. Keep the complaint, change the register throughout, and close as a formal letter does.
+  rubric.en: meaning: the balcony, the water, the washing machine at six in the morning and the request are all there; register: formal and consistent, with no tú, no tía and no exclamation; structure: an opening to the editor, the complaint, a request and a closing; idiom: le escribo, le agradezco and Atentamente are used correctly; effect: the complaint is serious and public, without insult.
+
+== 3 C1
+numeral: Lección tercera
+title: La tutoría
+title.en: Parents' evening
+
+dialogue:
+- Señora Ortega nos recibe en el aula, entre las sillas pequeñas y los dibujos de los niños, con la carpeta de Dani abierta sobre la mesa, y empieza con una sonrisa: «Dani es un niño muy sociable».
+  en: Ms Ortega receives us in the classroom, among the small chairs and the children's drawings, with Dani's file open on the desk, and begins with a smile: «Dani is a very sociable boy».
+- Sonia responde: «Eso ya lo sabíamos, pero nos gustaría saber cómo va en general, y no solo en el recreo».
+  en: Sonia replies: «We knew that already, but we would like to know how he is getting on overall, and not only at break».
+- Ortega: «Hay que decir que tiene mucha personalidad. Se hace oír en clase, y eso se agradece. Lo digo con cariño».
+  en: «We should say that he has a great deal of personality. He makes himself heard in class, and that is appreciated. I say that with affection».
+- Jaime pregunta: «¿Y se hace oír en qué sentido?».
+  en: Jaime asks: «In what sense does he make himself heard?».
+- Ortega: «En el buen sentido. Participa mucho, y siempre tiene algo que decir, aunque a veces no sea lo que toca».
+  en: «In the good sense. He takes part a great deal, and he always has something to say, although it is sometimes not what is wanted».
+- Sonia: «Entonces, ¿va bien en los trabajos de grupo?».
+  en: Sonia: «So he does well in group work?».
+- Ortega: «Podría dar más de sí, si se concentrara un poco. Tiene todo para hacerlo. Yo lo veo cada día en el patio, y sé lo que digo».
+  en: «He could give more of himself, if he concentrated a little. He has everything it takes to do it. I see him every day in the playground, and I know what I am saying».
+- Jaime: «¿Más de sí? ¿En qué?».
+  en: Jaime: «More of himself? In what?».
+- Ortega: «En todo, en general. Tiene un gran potencial, como todos los chicos de su edad. A esa edad todo es nuevo».
+  en: «In everything, in general. He has great potential, like all boys his age. At that age everything is new».
+- Sonia: «¿Y en lengua?».
+  en: Sonia: «And in Spanish?».
+- Ortega: «En lengua se expresa muy bien, con mucha creatividad. Escribe redacciones muy largas, eso sí».
+  en: «He expresses himself very well in Spanish, with a great deal of creativity. He writes very long essays, that is true».
+- Jaime: «Y en el comportamiento, ¿cómo va?».
+  en: Jaime: «And how is he behaving?».
+- Ortega: «El comportamiento es cuestión de tiempo. Hay días muy buenos. Cuando se encuentra a gusto, es otro niño».
+  en: «Behaviour is a question of time. There are some very good days. When he feels at ease he is a different child».
+- Sonia: «¿Y los días malos?».
+  en: Sonia: «And the bad days?».
+- Ortega: «Los días malos son días de aprendizaje, y ya sabe usted que aprender cuesta. Lo importante es que no se rinda».
+  en: «Bad days are days of learning, and you know as well as I do that learning takes effort. What matters is that he does not give up».
+- Jaime: «¿Ha tenido algún parte de conducta este trimestre?».
+  en: Jaime: «Has he had any behaviour reports this term?».
+- Ortega: «Algún parte, sí, pero casi todos los chicos tienen alguno. No es nada grave».
+  en: «A few, yes, but almost all the children have had one. It is nothing serious».
+- Sonia: «¿Y ha hecho amigos en clase?».
+  en: Sonia: «And has he made friends in class?».
+- Ortega: «Tiene muchos amigos. Se lleva bien con todos, con los de un grupo y con los del otro. Juega en el recreo sin distinguir».
+  en: «He has a lot of friends. He gets on well with everyone, with one group and with the other. He plays at break without distinguishing».
+- Jaime: «Entonces, ¿qué nos recomienda?».
+  en: Jaime: «So what do you recommend?».
+- Ortega: «Que siga como está, y que en casa lo animen a leer, si le interesa. Que hablen con él de lo que lee».
+  en: «That he carries on as he is, and that at home you encourage him to read, if he is interested. Talk with him about what he reads».
+- Sonia: «¿Y qué cosas le interesan más?».
+  en: Sonia: «And what interests him most?».
+- Ortega: «Tiene curiosidad por todo. Pregunta mucho, sobre todo cuando la pregunta no viene a cuento. Hace preguntas en medio de los exámenes».
+  en: «He is curious about everything. He asks a great many questions, especially when the question is beside the point. He asks them in the middle of tests».
+- Jaime: «¿Y en matemáticas?».
+  en: Jaime: «And in maths?».
+- Ortega: «En matemáticas tiene mucha imaginación».
+  en: «In maths he has a great deal of imagination».
+
+notes.en:
+1. tutora (sentence 1): the form tutor, who holds the class's meeting with parents, the tutoría. Ms Ortega is the tutora of Dani's class, and the meeting is in the classroom, not in an office.
+2. muy sociable (sentence 1): in a school report, sociable usually means that the child talks a lot in class. The adjective is kind, and it is the first thing the tutora says.
+3. Eso ya lo sabíamos (sentence 2): the parents answer the praise with a polite correction: they already know that, and they want more. The tone is courteous without being warm.
+4. tiene mucha personalidad (sentence 3): hay que decir que introduces a qualification, and personalidad in a school report often means that a child is hard to manage. Se agradece is a formula of praise, used here for the same behaviour.
+5. en el buen sentido (sentence 5): the phrase answers a question and signals that another sense exists. The tutora does not name the other sense, and the parents do not ask for it.
+6. dar más de sí (sentence 7): dar de sí means to stretch or to yield, and dar más de sí means to do better than one is doing. It is said of a person who is not using his ability. Example: Este equipo puede dar más de sí, "this team can do better".
+7. en lengua (sentence 10): lengua, short for lengua castellana y literatura, is the Spanish language and literature class. English has no single word for it, so Spanish is the nearest.
+8. días de aprendizaje (sentence 15): aprendizaje is learning, and the tutora turns the bad days into lessons. Ya sabe usted is the polite form of address to the parents, and it closes the reply with a friendly reminder.
+9. parte de conducta (sentence 16): a parte is a written note sent to parents about a pupil's behaviour. Algún parte, sí means that one or two have been sent, and the tutora says that the number is normal.
+10. no viene a cuento (sentence 23): venir a cuento means to be relevant. The question is not called for, and the tutora says so with the phrase.
+11. mucha imaginación (sentence 25): in a school report, tener mucha imaginación is a polite way to say that the answers are not correct. The parents understand it at once, and the tutora does not need to say more.
+
+ex1:
+- Le agradecería que nos avisara si el niño falta a clase más de tres días seguidos.
+  en: I would be grateful if you would let us know if the boy misses more than three days of class in a row.
+- No es que sea mal estudiante: es que le cuesta sentarse y no sé cómo ayudarle.
+  en: It is not that he is a poor student: it is that he finds it hard to sit still, and I do not know how to help him.
+- Nos dijo que el niño tenía mucha personalidad, pero no explicó en qué sentido.
+  en: She told us the boy had a great deal of personality, but did not say in what sense.
+- Aunque el informe era correcto, al leerlo me pareció que faltaba algo importante.
+  en: Although the report was correct, on reading it I felt something important was missing.
+- A diferencia de su hermana, él no se queda callado nunca, ni siquiera en el examen.
+  en: Unlike his sister, he never stays quiet, not even during the exam.
+
+ex2:
+- Ese niño puede [dar más de sí] si se concentra.
+  en: That boy can do better if he concentrates.
+- Ese comentario [no viene a cuento], así que no lo contestaré.
+  en: That remark is beside the point, so I will not answer it.
+- Se [lleva bien] con todos sus compañeros, y eso es lo que más me alegra.
+  en: He gets on well with all his classmates, and that is what pleases me most.
+- Le [ha costado] mucho aprender a esperar su turno.
+  en: It has been very hard for him to learn to wait his turn.
+- Llamaron a la puerta y la tutora dijo: «Pasen», sin [levantarse] de la silla.
+  en: Someone knocked on the door, and the tutora said: «Come in», without getting up from her chair.
+
+tasks:
+- Dani es un niño muy sociable, y eso se nota: habla mucho en clase y a veces interrumpe a sus compañeros sin pedir la palabra. Se expresa muy bien en lengua y sabe contar historias, pero en matemáticas sus respuestas no son correctas, aunque a veces tiene ideas originales. En el último trimestre ha recibido dos partes de conducta, por llegar tarde y por contestar en clase. Creo que puede dar más de sí si aprende a esperar su turno y a estudiar con método. Lo más importante ahora es que lea más y que la familia le acompañe en casa.
+  task.en: Write the tutor's honest notes on Dani for his file, in Spanish, about 100 words. Say plainly what the meeting only hinted at: his behaviour, his results in Spanish and maths, the two behaviour reports, and what the family should do at home.
+  rubric.en: meaning: the notes state the behaviour, the maths results, the two reports and the advice to read and study with method, with nothing left vague; register: formal and professional, in the third person, with none of the meeting's euphemisms; structure: a description of the pupil, the subjects, the reports and a closing recommendation; idiom: dar más de sí, parte de conducta and llegar tarde are used correctly; effect: the notes are honest, and the tone stays respectful towards the boy.
+
+== 4 C1
+numeral: Lección cuarta
+title: En defensa de la charla
+title.en: In defence of small talk
+
+dialogue:
+- Vamos a ver: ¿de verdad alguien cree que la charla es una pérdida de tiempo?
+  en: Come on, does anyone really believe that small talk is a waste of time?
+- Yo llevo toda la vida haciendo cola en la frutería del barrio, y la verdad es que nunca he salido de allí con menos de tres noticias.
+  en: I have spent my whole life queuing at the greengrocer's in the neighbourhood, and the truth is that I have never left it with fewer than three pieces of news.
+- Te cuentan que el hijo de la vecina se ha ido a Valencia, que la del quinto ha vuelto a pintar la fachada, y que el tiempo, ya lo ves, sigue sin decidirse.
+  en: They tell you that the neighbour's son has moved to Valencia, that the woman on the fifth floor has had the front repainted again, and that the weather, as you can see, still cannot make up its mind.
+- ¿Y qué tiene eso de malo? Nada: es información, y de la buena.
+  en: And what is wrong with that? Nothing: it is information, and the good kind.
+- Ahora nos venden la eficiencia como si fuera una virtud: la caja automática, la aplicación del súper, el repartidor que deja la compra en la puerta sin mirarte a la cara.
+  en: Now efficiency is sold to us as if it were a virtue: the self-service till, the supermarket app, the delivery driver who leaves the shopping at the door without looking you in the eye.
+- ¿Y qué ganamos a cambio? Tres minutos de ahorro y la sensación de que nadie nos ha visto nunca.
+  en: And what do we gain in return? Three minutes saved and the feeling that nobody has ever seen us.
+- La caja automática, oye, no pregunta si has dormido bien.
+  en: The self-service till, mind you, never asks whether you slept well.
+- El frutero sí. El frutero te pregunta por tu madre, aunque no la conozca, y te dice que el melocotón de hoy está para comérselo ya.
+  en: The greengrocer does. He asks after your mother, even though he has never met her, and tells you the peaches today are ready to eat.
+- Eso no es ineficiencia: es un pequeño acuerdo para estar juntos.
+  en: That is not inefficiency: it is a small agreement to be together.
+- Y la charla del ascensor tampoco es una tontería: son cinco minutos sobre si llueve o no, con alguien que vive en tu edificio y al que, si no hablas, no llegarás a conocer nunca.
+  en: And the chat in the lift is no silly thing either: it is five minutes about whether it will rain, with someone who lives in your building and whom, if you never talk, you will never get to know.
+- ¿Cuántas veces ha salvado un vecino una situación porque antes le habías preguntado por el perro?
+  en: How many times has a neighbour rescued a situation because you had first asked after the dog?
+- No tengo estadísticas, pero tengo una vida entera de ejemplos, y casi todos empezaron con un «¿qué tal?» sin importancia.
+  en: I have no statistics, but I have a whole life of examples, and nearly all of them began with a «how are you?» that meant nothing much.
+- Dicen que hablar en el trabajo resta concentración. Pues a mí me parece que quien nunca habla no tiene nada que decir, o no quiere que se sepa.
+  en: They say that talking at work takes away concentration. Well, it seems to me that someone who never talks either has nothing to say, or does not want anyone to know it.
+- ¿Y qué tiene de malo, de verdad, que la señora de la cola le cuente al frutero su operación de cadera con todo detalle? A mí me parece un acto de confianza.
+  en: And what is so bad, honestly, about the woman in the queue telling the greengrocer about her hip operation in full detail? It seems to me an act of trust.
+- Vamos, que el que tiene prisa es el que se pone a mirar el reloj.
+  en: Come on, it is the one in a hurry who starts looking at his watch.
+- Yo tengo una teoría: la prisa es, sobre todo, falta de ganas de estar donde uno está.
+  en: I have a theory: hurry is, above all, a lack of wish to be where one is.
+- Hay que volver a la plaza, al mercado y a esa mesa del bar donde nadie te paga por estar, y donde el tiempo se pierde a propósito.
+  en: We have to go back to the square, to the market and to that bar table where nobody pays you to be there, and where time is wasted on purpose.
+- O sea, ¿el valor está en el tiempo ahorrado y no en el que se pasa con alguien? Pues no lo compro.
+  en: So the value lies in the time saved, and not in the time spent with someone? I do not buy it.
+- Mi propuesta es sencilla: cuando alguien te pregunte qué tal estás, contesta, aunque estés fatal.
+  en: My proposal is simple: when someone asks how you are, answer, even if you are doing badly.
+- Mira, el que pregunta espera algo, y el que contesta le regala un trozo de la mañana.
+  en: Look, the person who asks expects something, and the one who answers gives them a piece of the morning.
+- Por eso el otro día decidí practicar lo que predico, y fui a la frutería con la bolsa de rafia y sin prisa ninguna.
+  en: That is why the other day I decided to practise what I preach, and went to the greengrocer's with my raffia bag and no hurry at all.
+- Iba con la intención de preguntarle al frutero por su hija, de hablar del tiempo y de decir algo bonito de los melones.
+  en: I went meaning to ask the greengrocer after his daughter, to talk about the weather, and to say something nice about the melons.
+- Pero delante de mí estaba la señora de siempre, la que llena la cesta despacio y habla por los codos, y empezó a contarle al frutero, con todo detalle, la boda de su sobrina.
+  en: But in front of me was the usual woman, the one who fills her basket slowly and talks nineteen to the dozen, and she began to tell the greengrocer, in every detail, about her niece's wedding.
+- Dijo la iglesia, dijo los invitados, dijo el vestido, y dijo también que la novia había llorado en el coche antes de entrar.
+  en: She talked about the church, the guests and the dress, and said too that the bride had cried in the car before going in.
+- El frutero asentía con la cabeza, como si aquello fuera lo más interesante de la mañana, y la cola crecía a mi espalda.
+  en: The greengrocer nodded, as if it were the most interesting thing of the morning, and the queue grew behind me.
+- Yo miraba el reloj, suspiraba en voz alta y daba golpecitos a la bolsa de rafia, que es, como todo el mundo sabe, la forma más discreta de enfadarse.
+  en: I kept looking at my watch, sighed out loud and tapped the raffia bag, which is, as everyone knows, the most discreet way of getting annoyed.
+- Lo confieso: la teoría se me cayó en la fila, y la práctica me salió con el ceño fruncido.
+  en: I confess it: the theory fell apart in the queue, and the practice came out with a frown on my face.
+- La señora siguió hablando, ahora del pastel, y yo me puse a contar los melones como si fueran de mi familia.
+  en: The woman went on talking, now about the cake, and I started counting the melons as if they were family.
+- Y cuando por fin me tocó a mí, el frutero me preguntó con sorna: «¿Y tú qué tal, con tanta prisa?»
+  en: And when at last it was my turn, the greengrocer asked me with a sly smile: «And how are you, in such a hurry?»
+- Le dije que fatal, que la culpa era de la señora, que ya me sabía la boda de memoria, y que no pensaba volver a defender la charla hasta el año que viene.
+  en: I told him I was terrible, that it was the woman's fault, that I already knew the wedding by heart, and that I did not intend to defend small talk again until next year.
+
+notes.en:
+1. Vamos a ver (sentence 1): an opening that calls the reader to order, as if a debate were starting. It is the speech of someone who wants to make a point. Example: Vamos a ver, ¿quién ha roto el jarrón?, "let's see, who broke the vase?".
+2. la verdad es que (sentence 2): a set phrase that introduces a candid admission. It is the spoken way to say to be honest, and it sounds natural only with a personal statement. Example: La verdad es que no me apetece salir, "to be honest, I do not feel like going out".
+3. tres noticias (sentence 2): noticia is countable in Spanish, so the plural is natural. English "news" is uncountable, so the translation needs "pieces of news".
+4. Te cuentan (sentence 3): the tú form used in a general sense means anyone or people in general. Example: Te dan el cambio sin mirarte, "they give you your change without looking at you".
+5. de la buena (sentence 4): the noun is left out and de la buena means the good kind of something, said with humour. It is spoken, and it ends the sentence with a verdict.
+6. Ahora nos venden (sentence 5): the verb in the third person plural without a stated subject is the impersonal use: the market, the shops, the companies. English prefers a passive, "is sold to us", for the same effect. The como si clause takes the imperfect subjunctive, as the comparison is not real.
+7. la caja automática, oye (sentence 7): oye is a spoken call for attention. It is informal and it gives the next remark the tone of an aside, "mind you".
+8. El frutero sí (sentence 8): sí in this place is contrastive. It answers the machine of the previous sentence with the greengrocer, and it points to the difference between them.
+9. el tiempo (sentence 10): in Spanish el tiempo means both the time and the weather. Here it means the weather, and the English keeps that meaning in the word "weather".
+10. si no hablas, no llegarás (sentence 10): si with the present, then the future, is the correct pattern. Example: Si llueve, no iré, "if it rains, I will not come".
+11. ¿Cuántas veces...? (sentence 11): a rhetorical question that expects the answer "many". It is an argument, not a request for information.
+12. Pues a mí me parece (sentence 13): pues here answers the claim before it. A mí me parece gives the writer's own opinion after a general statement, and the two together set up a contrast.
+13. Vamos, que (sentence 15): vamos, que introduces the conclusion of the sentence before, in plainer words. Example: Vamos, que no hay sitio, "in other words, there is no room".
+14. a propósito (sentence 17): here it means on purpose. It is a false friend for English speakers, who may read it as "by the way".
+15. O sea (sentence 18): o sea introduces a restatement of the previous idea, usually as a conclusion the speaker draws. It is spoken, and it is more informal than en otras palabras.
+16. la forma más discreta de enfadarse (sentence 26): an ironic phrase. Tapping a bag is a quiet sign of annoyance, and the columnist uses the phrase with a wink.
+17. con sorna (sentence 29): sorna is a mocking tone, a sly smile that is not friendly. It describes how the greengrocer asks the question, and it prepares the reply.
+
+ex1:
+- Dicen que el tiempo es oro, pero yo prefiero gastarlo en una buena conversación.
+  en: They say time is gold, but I prefer to spend it on a good conversation.
+- «¿Qué tal?» no es siempre una pregunta: a veces es solo una forma de decir buenos días.
+  en: "How are you?" is not always a question: sometimes it is just a way of saying good morning.
+- Con esa frutera ya no hablo: la última vez me contó la boda de su hermana y llegué tarde a todo.
+  en: I have stopped talking to that greengrocer: the last time, she told me about her sister's wedding and I was late for everything.
+- ¿Qué tiene de malo que alguien te pregunte por la familia?
+  en: What is wrong with someone asking you about your family?
+- Vamos, que no tienes que contestar a todo: basta con sonreír y seguir con la compra.
+  en: In other words, you do not have to answer everything: it is enough to smile and carry on with the shopping.
+
+ex2:
+- Mamá, no me [des] la lata con la boda, que ya la sé.
+  en: Mum, do not nag me about the wedding, I know all about it already.
+- Durante todo el trayecto solo hablamos [del tiempo].
+  en: For the whole journey we talked only about the weather.
+- Cuando lo oí, me quedé [sin palabras].
+  en: When I heard it, I was speechless.
+- Lo dijo [a regañadientes], pero al final lo dijo.
+  en: He said it reluctantly, but in the end he said it.
+- No tengo [ni idea] de qué hablas, abuela.
+  en: Grandma, I have no idea what you are talking about.
+
+tasks:
+- No estoy de acuerdo con Inés en casi nada, aunque sí en lo del frutero. La charla es un regalo cuando la elige quien la escucha, y un castigo cuando no hay manera de salir de ella. Por eso la defiendo, pero no a cualquier precio. Esta semana la señora de la cola me contó su operación de rodilla durante cinco minutos, y la escuché con gusto. A la siguiente me despedí con la compra en la mano, sin dar explicaciones. La charla no es una trampa: la debemos los unos a los otros, pero también debemos saber cuándo nos toca salir.
+  task.en: Write a reply column in Spanish, about 110 words, arguing with the columnist. Agree with one point, disagree with another, and end with a clear position on when small talk is welcome.
+  rubric.en: meaning: the reply agrees with the greengrocer point and disagrees with the claim that chat is always good, and it gives a concrete example; register: a column voice, direct and warm, with the same tú as the original; structure: an opening position, a concession, a counter-argument with an example and a closing position; idiom: elegir, castigo, a cualquier precio and salir are used with their natural sense; effect: the reply answers the column's own examples and ends on a clear line.
+
+== 5 C1
+numeral: Lección quinta
+title: El saluda
+title.en: The welcome note
+
+dialogue:
+- Queridos vecinos: me dirijo a todos ustedes, en nombre de la comisión de fiestas, para dar la bienvenida a las fiestas de este año.
+  en: Dear neighbours: I address you all, on behalf of the fiesta committee, to welcome the festivities of this year.
+- Es para mí un honor presidir una comisión que lleva tantos años al servicio del pueblo, y que hoy se enfrenta a un reto de primera magnitud.
+  en: It is an honour for me to preside over a committee that has served the village for so many years, and that today faces a challenge of the first magnitude.
+- Como saben, la verbena del sábado se celebrará en la plaza, con orquesta, churros y el baile de siempre.
+  en: As you know, the verbena on Saturday will be held in the square, with a band, churros and the dancing as always.
+- Pero no puedo por menos que lamentar que, a día de hoy, la barra de la verbena siga sin voluntarios.
+  en: But I cannot help regretting that, as things stand today, the bar at the verbena still has no volunteers.
+- Sé que el trabajo es mucho, que el calor aprieta y que la paciencia de algunos ha llegado a su límite.
+  en: I know the work is considerable, that the heat is oppressive, and that the patience of some has reached its limit.
+- Nadie duda de su buena voluntad, pero la buena voluntad, sin manos, no sirve de mucho.
+  en: Nobody doubts your good will, but good will, without hands, is of little use.
+- Con todo, la comisión confía en que el espíritu de nuestro pueblo se imponga a la comodidad de cada cual.
+  en: Nevertheless, the committee trusts that the spirit of our village will prevail over each person's comfort.
+- Recordemos que la barra no se atiende sola, y que sin vasos no hay fiesta que valga.
+  en: Let us remember that the bar does not run itself, and that without glasses there is no fiesta worth the name.
+- Me permito, pues, hacer un llamamiento solemne a todos los vecinos en edad de servir.
+  en: I therefore take the liberty of making a solemn appeal to all the neighbours of an age to serve.
+- Hago extensivo este llamamiento a los que nunca se han acercado a la barra y a los que se acercan todos los años solo a pedir.
+  en: I extend this appeal to those who have never gone near the bar and to those who go up to it every year only to ask for something.
+- Ni la edad ni el cargo son excusa: la experiencia se gana sirviendo, no mirando.
+  en: Neither age nor office is an excuse: experience is earned by serving, not by watching.
+- La comisión lamenta, con profundo pesar, que la inacción de algunos haya llegado a este punto.
+  en: The committee regrets, with profound sorrow, that the inaction of some has come to this point.
+- No hace falta ser un experto en barras para colaborar: basta con buena voluntad y dos manos.
+  en: You do not need to be an expert on bars to help: good will and two pairs of hands are enough.
+- Los turnos se publicarán en el tablón del ayuntamiento, previa consulta a las personas interesadas.
+  en: The shifts will be published on the town hall notice board, after consulting the people concerned.
+- Quiero dejar constancia, en este programa, de que la comisión agradece de antemano cualquier ayuda, por pequeña que sea.
+  en: I wish to place on record in this programme that the committee thanks you in advance for any help, however small.
+- Aprovecho la ocasión para recordar que la programación incluye, además de la verbena, el concurso de tortillas, la carrera de sacos y la misa mayor del domingo.
+  en: I take this opportunity to remind you that the programme includes, besides the verbena, the omelette contest, the sack race and the High Mass on Sunday.
+- Cada acto contará con el apoyo de la comisión, de la que soy, con orgullo, humilde presidente.
+  en: Each event will have the committee's support, and of the committee I am, with pride, the humble president.
+- Tengo la firme convicción de que los vecinos responderán a la altura del pueblo que son.
+  en: I have a firm conviction that the neighbours will rise to the level of the village they are.
+- No hay duda de que, en este punto, el voluntariado ha dejado de ser una opción para convertirse en un deber.
+  en: There is no doubt that, at this point, volunteering has ceased to be an option and become a duty.
+- Ruego, pues, que cada cual se examine en conciencia y dé el paso que el pueblo le reclama.
+  en: I therefore ask that each person examine their conscience and take the step the village asks of them.
+- Por mi parte, puedo asegurarles que la comisión no cejará hasta encontrar a los voluntarios que necesita.
+  en: For my part, I can assure you that the committee will not rest until it finds the volunteers it needs.
+- Me despido con el afecto de siempre, con la esperanza de verles a todos en la verbena, detrás de la barra o delante de ella.
+  en: I take my leave with my usual affection, and in the hope of seeing you all at the verbena, behind the bar or in front of it.
+- Viva nuestro pueblo, y viva la verbena.
+  en: Long live our village, and long live the verbena.
+- Julián Herrera, presidente de la comisión de fiestas.
+  en: Julián Herrera, president of the fiesta committee.
+- Posdata: a fecha de hoy, el único voluntario para la barra de este año soy yo.
+  en: Postscript: as things stand today, the only volunteer for the bar this year is me.
+
+notes.en:
+1. Queridos vecinos (sentence 1): the opening of a public address to the people of a place. Vecinos are the neighbours, the people who live in the village, and the plural goes with ustedes. The whole text is a saluda: the word, a noun here (el saluda), names the formal greeting from the mayor or the committee printed at the front of a fiestas programme.
+2. me dirijo a todos ustedes (sentence 1): a set phrase of formal writing and speech. Me dirijo a means I address myself to, and it is the usual way to begin a notice to a group.
+3. Es para mí un honor (sentence 2): a stock phrase of public speeches, used when a speaker takes up a post. It is the Spanish equivalent of the English "It is an honour for me".
+4. presidir (sentence 2): to preside over, the verb for chairing a board or committee. Dar and presidir both sound formal, and a committee would use presidir.
+5. de primera magnitud (sentence 2): literally of the first magnitude, a phrase for something very important. It is a grand phrase, and it is more formal than English "of the first order".
+6. no puedo por menos que lamentar (sentence 4): no poder por menos de with the infinitive means one cannot but do something. It is a formal turn; the English "I cannot help regretting" is a plainer version.
+7. se imponga a la comodidad de cada cual (sentence 7): imponerse a means to prevail over, and the subjunctive follows confiar en que. Cada cual is a formal "each person".
+8. Recordemos (sentence 8): the first-person plural imperative, as the committee speaks for itself and the village together. It has the tone of a sermon, and it is common in public notices.
+9. hacer un llamamiento (sentence 9): the collocation for making an appeal. Llamamiento is formal and public, and it is used for appeals to a community.
+10. Ni la edad ni el cargo son excusa (sentence 11): ni... ni joins two things that both fail to be an excuse. The noun excusa has no article here, as in the English "is no excuse".
+11. tablón del ayuntamiento (sentence 14): the notice board of the ayuntamiento, the town council. Tablón de anuncios is the general term, and it is what the public reads.
+12. dejar constancia (sentence 15): to put on record, a formal phrase from minutes and official notices. It is less direct than decir.
+13. Aprovecho la ocasión (sentence 16): the stock phrase that opens a list of announcements. It is always followed by a "para" clause, here recordar que.
+14. humilde presidente (sentence 17): humilde is a self-deprecating adjective that goes before a title in formal speech. It is a formula, and the speaker is not being humble by saying it.
+15. Viva nuestro pueblo (sentence 23): a cry of praise, with the subjunctive viva used as an exclamation. It is a formula of public speeches and fiestas.
+16. Posdata (sentence 25): the postscript, placed after the signature, as in a letter. Written in full, it is how a letter adds a last point, and the abbreviation P.D. is the same thing.
+
+ex1:
+- Estimados vecinos, me complace comunicarles que este año la piscina abrirá en junio.
+  en: Dear neighbours, I am pleased to inform you that the swimming pool will open in June this year.
+- Tengo el honor de informarles de que el concurso de paellas queda aplazado por la lluvia.
+  en: I have the honour of informing you that the paella contest has been postponed because of the rain.
+- No puedo por menos que agradecer la paciencia de quienes han esperado tanto en la cola de la barra.
+  en: I cannot but thank those who have waited so long in the queue at the bar for their patience.
+- Mis queridos vecinos, no quiero robarles más tiempo, así que termino aquí.
+  en: My dear neighbours, I do not want to take up any more of your time, so I will end here.
+- Sé que el año pasado hubo quejas, y lo lamento profundamente.
+  en: I know there were complaints last year, and I deeply regret it.
+
+ex2:
+- Hago un [llamamiento] a todos los vecinos en edad de servir.
+  en: I make an appeal to all the neighbours of an age to serve.
+- No [hace falta] ser un experto para colaborar.
+  en: You do not need to be an expert to help.
+- Dejo [constancia] de que la comisión agradece cualquier ayuda.
+  en: I wish to record that the committee is grateful for any help.
+- Me [permito] recordarles que la barra no se atiende sola.
+  en: I take the liberty of reminding you that the bar does not run itself.
+- Soy, con [orgullo], humilde presidente de la comisión.
+  en: I am, with pride, the humble president of the committee.
+
+tasks:
+- Hola a todos: os escribo para contaros que la verbena es el sábado en la plaza, con orquesta y churros. Nos falta gente para la barra, así que si podéis echar una mano, avisadme. No hace falta saber de bares, solo tener ganas. Y ya que lo digo, yo también me apunto. ¡Nos vemos en la plaza!
+  task.en: Turn the greeting into a short, friendly message for the village WhatsApp group, in Spanish. Keep the verbena, the bar and the call for volunteers, drop the formal formulas, and use vosotros, the form for "you all" among neighbours and friends in Spain.
+  rubric.en: meaning: the verbena, the bar, the need for volunteers and the speaker's own offer are all there; register: informal and warm, with vosotros and no formal formulas; structure: a greeting, the news, the appeal and a closing line; idiom: echar una mano, apuntarse and no hace falta are used naturally; effect: short and friendly, and it ends on the speaker's own offer.
+
+== 6 C1
+numeral: Lección sexta
+title: Noventa años
+title.en: Ninety years
+
+dialogue:
+- Bueno, bueno, que me ponéis nervioso, así que voy a hablar despacio, que la abuela ya sabe cómo acaban estas cosas.
+  en: Right, right, you are making me nervous, so I will speak slowly, because Grandma knows how these things usually end.
+- Hace un rato, mi tía Sonia me ha pedido que sea breve, y yo le he prometido que lo intentaría.
+  en: A little while ago my aunt Sonia asked me to be brief, and I promised her I would try.
+- Os confieso que no me está resultando nada fácil.
+  en: I have to confess it is not proving easy at all.
+- Así que empiezo por lo más importante: hoy la abuela Pilar cumple noventa años, y en esta familia eso es casi un récord.
+  en: So I will start with the most important thing: today Grandma Pilar turns ninety, and in this family that is almost a record.
+- Noventa años dan para muchas historias, y yo, que las he oído casi todas, voy a contar una que nadie me ha pedido.
+  en: Ninety years make for a great many stories, and I, who have heard nearly all of them, am going to tell one that nobody asked me for.
+- Ella ha criado a tres hijos, ha cuidado a dos suegras y ha aguantado a cuatro nietos con la misma paciencia, y eso no es poco.
+  en: She has raised three children, looked after two mothers-in-law and put up with four grandchildren with the same patience, and that is no small thing.
+- Sus hijos la llaman todavía «mamá» con la voz de cuando eran pequeños.
+  en: Her children still call her «Mum» in the voice they had when they were small.
+- Dicen que la paciencia se hereda; yo creo que la abuela la ha ido repartiendo entre todos, aunque la mía, lo reconozco, se quedó por el camino.
+  en: They say patience is inherited; I think Grandma has been handing it out to all of us, although mine, I admit, got lost on the way.
+- Es la historia de la boda de la abuela y del abuelo Manuel, cuando el novio llegó a la iglesia en una bicicleta prestada y con los zapatos en la mano.
+  en: It is the story of Grandma's wedding and Grandpa Manuel's, when the groom arrived at the church on a borrowed bicycle, with his shoes in his hand.
+- Hasta aquí, todo va bien, pero la abuela me está mirando como si ya supiera lo que viene.
+  en: So far, so good, but Grandma is looking at me as if she already knows what is coming.
+- Y no tengo claro si el abuelo llegó tarde por culpa de la bicicleta, o si la abuela tardó dos horas en arreglarse y él tuvo que esperarla.
+  en: And I am not sure whether Grandpa was late because of the bicycle, or whether Grandma took two hours to get ready and he had to wait for her.
+- Abuela, perdona, me he liado: lo que quería decir es que el abuelo esperó en la puerta de la iglesia, y nunca se quejó de la espera.
+  en: Grandma, forgive me, I have got myself in a muddle: what I meant to say is that Grandpa waited at the church door, and never complained about the wait.
+- Esto sí es verdad: en la puerta de la iglesia, el abuelo le dijo que la esperaba desde hacía toda la vida, y ella le contestó que ya era hora.
+  en: This part is true: at the church door, Grandpa told her he had been waiting for her all his life, and she answered that it was about time.
+- Eso es lo que hay que contar de una boda: no los zapatos, sino la paciencia de quien espera y la prisa de quien llega.
+  en: That is what a wedding story should tell: not the shoes, but the patience of the one who waits and the hurry of the one who arrives.
+- Y es lo que ha hecho la abuela durante noventa años: esperar a los que llegan tarde y, cuando llegan, darles de comer.
+  en: And that is what Grandma has done for ninety years: waited for the ones who arrive late and, when they arrive, fed them.
+- Y eso, en una familia tan grande, es un trabajo a tiempo completo.
+  en: And in a family as large as this, that is a full-time job.
+- Mi madre dice que la abuela no ha cocinado nunca nada sin probarlo tres veces, y que la tercera siempre sale mejor.
+  en: My mother says Grandma has never cooked anything without tasting it three times, and that the third time it is always better.
+- Lo reconozco: tiene un punto de la sal que ningún libro de cocina ha conseguido copiar.
+  en: I admit it: she has a touch with salt that no cookery book has managed to copy.
+- Y no lo digo para hacerle la pelota, que ella me ha corregido siempre hasta la ortografía de las tarjetas.
+  en: And I am not saying it to butter her up, because she has always corrected even the spelling in my birthday cards.
+- Sé que la tía Sonia lleva años intentando copiar sus albóndigas, así que no le digáis nada.
+  en: I know my aunt Sonia has been trying to copy her meatballs for years, so do not tell her anything.
+- Por eso, si me permitís, quiero proponer un brindis, y que sea corto.
+  en: So, if you will allow me, I would like to propose a toast, and a short one.
+- Levantad las copas por la abuela Pilar, que cumple noventa años y no los aparenta, aunque hoy nos ha obligado a todos a fingir que lo creemos.
+  en: Raise your glasses to Grandma Pilar, who turns ninety and does not look it, although today she has made all of us pretend we believe it.
+- ¡Por la abuela, y por los que llegaron tarde!
+  en: To Grandma, and to those who arrived late!
+- Y ahora todos a la vez, que os sale del alma: ¡Que cumplas muchos más, abuela!
+  en: And now all together, since it comes from the heart: May you have many more, Grandma!
+- Y ella, que no se ha callado en toda la tarde, se levanta, da una palmada en la mesa y dice: «Con discursos como este, ni uno más.»
+  en: And she, who has not stopped talking all afternoon, stands up, claps her hand on the table and says: «With speeches like this, not one more.»
+
+notes.en:
+1. que me ponéis nervioso (sentence 1): ponéis is the vosotros form, used among family in Spain. Bueno, bueno is a spoken warm-up, a sign that the speaker is still finding his rhythm.
+2. Hace un rato, mi tía Sonia me ha pedido (sentence 2): in Spain the perfect is used for a recent event, when the time is not over, so me ha pedido, not me pidió. Hace un rato is a little while ago.
+3. no me está resultando nada fácil (sentence 3): resultar with an adjective means to turn out to be, and it is the spoken way to say that something is hard. Nada with fácil is an intensifier: not at all easy.
+4. dan para muchas historias (sentence 5): dar para means to be enough for, to stretch to. Example: Con ese presupuesto no da para más, "that budget does not stretch to anything more".
+5. Ella ha criado a tres hijos (sentence 6): criar means to raise a child, the verb for bringing up children, and aguantar means to put up with. Both are everyday verbs, and aguantar is colloquial.
+6. con la voz de cuando eran pequeños (sentence 7): the phrase is a detail of memory. The imperfect sets the background of the children's childhood, and the voice is the detail that makes it personal.
+7. Dicen que la paciencia se hereda (sentence 8): dicen que is the generic way to report a common saying, and se hereda is the passive reflexive: patience is inherited. Example: Dicen que el talento se hereda, "they say talent is inherited".
+8. cuando el novio llegó a la iglesia (sentence 9): the preterite marks the event of the story, the arrival. The imperfect would be used for what was going on at the time. The story moves on by preterites, one after another.
+9. Y no tengo claro si el abuelo llegó tarde (sentence 11): no tener claro si takes the indicative: the speaker is not sure what happened. Both the bicycle and the two hours are offered as possible causes.
+10. Abuela, perdona, me he liado (sentence 12): liarse means to get tangled or muddled, and it is colloquial. Example: Me he liado con las fechas, "I have got the dates mixed up".
+11. la esperaba desde hacía toda la vida (sentence 13): desde hacía plus a period describes something that had been going on for that long in the past. Example: Le dijo que la esperaba desde hacía años, "he told her he had been waiting for her for years".
+12. A los que llegan tarde (sentence 15): the preposition a plus the article and a relative clause, "those who arrive late".
+13. Que cumplas muchos más (sentence 24): que with the present subjunctive is the form of a wish, here addressed to the grandmother with tú. Ojalá cumplas is also possible, but que is the usual form in a toast, as in (Foundation, lesson 90).
+14. ni uno más (sentence 25): the last line says the speeches must stop. Con discursos como este, ni uno más is her verdict, and it closes the toast by taking it back. Ni uno más means not one more.
+15. hacerle la pelota (sentence 19): hacer la pelota is to flatter someone, and it is informal. The literal ball is no part of the meaning; the English "to butter up" has the same sense.
+16. lleva años intentando copiar (sentence 20): llevar años with the gerund means to have been doing something for years. The aunt's failed attempt sets up the family joke without saying more.
+
+ex1:
+- Como no he preparado nada, voy a hablar con el corazón, y ya sabéis lo que eso significa en mi familia.
+  en: As I have prepared nothing, I will speak from the heart, and you know what that means in my family.
+- Para cuando llegue el postre, ya habré contado todo lo que nos pasó en aquel viaje.
+  en: By the time dessert arrives, I will have told you everything that happened on that trip.
+- Nadie se acuerda ya del resultado del partido, pero yo todavía tengo la entrada guardada.
+  en: Nobody remembers the result of the match any more, but I still have the ticket.
+- Que el año que viene nos reunamos aquí otra vez, y que nadie falte.
+  en: May we meet here again next year, and may nobody be missing.
+- Mi abuelo decía que la paciencia se aprende a base de esperar, y mira por dónde, hoy me toca a mí.
+  en: My grandfather used to say patience is learnt by waiting, and look, today it is my turn.
+
+ex2:
+- Con ese sueldo, la verdad, no [da para] mucho.
+  en: On that salary, to be honest, it does not stretch to much.
+- La paciencia se [hereda], dicen.
+  en: Patience is inherited, they say.
+- Mi tía [lleva] años intentando copiar su tortilla.
+  en: My aunt has been trying to copy her omelette for years.
+- Me costó tres intentos, pero a la [tercera] va la vencida.
+  en: It took me three attempts, but third time lucky.
+- El discurso fue corto, [gracias a Dios].
+  en: The speech was short, thank God.
+
+tasks:
+- Queridos todos: no voy a alargarme, que mamá ya me está haciendo señas desde la cocina. Hace treinta años, mis padres se casaron con muy poco dinero y una cantidad de ilusión que todavía hoy me sorprende. Papá dice que fue la mejor decisión de su vida, y mamá dice que la decisión fue suya. Por eso brindo por ellos, por los treinta años y por los que vendrán. ¡Que cumpláis muchos más, y que nos sigáis aguantando!
+  task.en: Write a two-minute toast in Spanish, about 120 words, for your parents' thirtieth wedding anniversary. Open with a short remark, tell one true anecdote, propose the toast, and end with a wish using que and the subjunctive.
+  rubric.en: meaning: the toast gives the anniversary, one anecdote and the toast itself; register: warm and familiar, with vosotros for the whole table; structure: an opening remark, the anecdote, the toast and the wish as the last line; idiom: alargarse, brindar por and que cumpláis are used correctly; effect: short, with the wish as the last line and no speech after it.
+
+== 7 C1
+kind: revision
+numeral: Lección séptima
+title: Revisión y notas
+title.en: Revision and notes
+
+dialogue:
+- Pilar abre la puerta en Nochebuena y me dice: «Buenas noches, Jaime. Pase usted, que hace mucho frío.»
+  en: Pilar opens the door on Christmas Eve and says to me: "Good evening, Jaime. Come in, it's very cold." (usted)
+  refs: 1
+- Le contesto: «Buenas noches, Pilar. Feliz Navidad.»
+  en: I answer: "Good evening, Pilar. Happy Christmas."
+  refs: 1
+- Ella me responde: «Hijo, trátame de tú, que ya llevas quince años en esta casa.»
+  en: She replies: "Love, call me tú, you've been coming to this house for fifteen years."
+  refs: 1
+- Yo digo: «Lo intento, Pilar, pero me sale el usted solo.»
+  en: I say: "I'm trying, Pilar, but the usted just comes out on its own."
+  refs: 1
+- Sonia, desde la cocina: «Mamá, no le hagas caso, que es así desde la boda.»
+  en: Sonia, from the kitchen: "Mum, don't mind him, he's been like that since the wedding."
+  refs: 1
+- Rubén entra con el móvil en la mano: «Abuela, la sopa huele que flipas.»
+  en: Rubén comes in with his phone in his hand: "Grandma, the soup smells amazing."
+  refs: 2
+- Pilar empieza a contar lo que le pasó en la frutería, y Sonia le dice a Rubén: «¿No ves que la abuela está hablando? No la interrumpas.»
+  en: Pilar starts telling what happened at the greengrocer's, and Sonia says to Rubén: "Can't you see Grandma is talking? Don't interrupt her."
+  refs: 4
+- Julián se pone de pie con la copa: «Queridos familiares, es para mí un honor compartir esta mesa, y no puedo por menos que lamentar que no haya turrón de mi pueblo.»
+  en: Julián stands up with his glass: "Dear family, it is an honour for me to share this table, and I cannot help regretting that there is no nougat from my village."
+  refs: 5
+- Pilar le contesta: «Julián, no empieces con los discursos, que estamos en Nochebuena.»
+  en: Pilar answers him: "Julián, don't start with the speeches, it's Christmas Eve."
+  refs: 5 6
+- Para cambiar de tema, le pregunto a Dani por la tutoría.
+  en: To change the subject, I ask Dani about the meeting with his tutor.
+  refs: 3
+- Dani dice que la tutora lo encuentra muy sociable y que en matemáticas tiene mucha imaginación.
+  en: Dani says the tutor finds him very sociable and that in maths he has a lot of imagination.
+  refs: 3
+- Sonia me mira y no dice nada: los dos sabemos traducirlo.
+  en: Sonia looks at me and says nothing: we both know how to translate it.
+  refs: 3
+- Rubén levanta la copa: «Venga, brindis, pero corto, que el del cumpleaños lo di yo.»
+  en: Rubén raises his glass: "Come on, a toast, but a short one, I gave the birthday one."
+  refs: 6
+- Yo me levanto antes que él: «Por ti, Pilar, que cumpliste noventa y nos sigues mandando a todos.»
+  en: I stand up before he can: "To you, Pilar, who turned ninety and still have us all doing as we're told."
+  refs: 6
+- Pilar deja la copa en la mesa y me mira: «¿Lo ves, Jaime? Me has tratado de tú sin darte cuenta.»
+  en: Pilar puts her glass down and looks at me: "You see, Jaime? You've called me tú without noticing."
+  refs: 1
+- Le digo: «Será el vino, Pilar.»
+  en: I tell her: "It must be the wine, Pilar."
+  refs: 1
+- Y ella, muy seria: «Pues que no se acabe.»
+  en: And she, very seriously: "Then let's not let it run out."
+  refs: 6
+
+notes.en:
+This week's texts are the six lessons before this one, and this lesson puts their registers in order. Nothing new is taught here: each section names the lesson and quotes its lines as they stand in that lesson, so the learner can check them.
+1. Tú and usted (lesson 1): the form follows the relation and the wish of the person addressed, and a switch is a signal. Pilar, the one who is addressed as usted, asks for tú; Jaime keeps usted out of habit, until the toast, where the tú comes out on its own.
+| Speaker | To whom | Form | Line |
+|---|---|---|---|
+| Pilar | Jaime | usted, then the request for tú | «Pase usted» and «trátame de tú» |
+| Jaime | Pilar | usted, out of habit | «me sale el usted solo» |
+| Pilar | Julián | tú, within the family | «no empieces con los discursos» |
+| Jaime | Pilar | tú at last, without noticing | «Por ti, Pilar» |
+| Sonia | Rubén | tú, within the family | «no la interrumpas» |
+2. Two registers for one complaint (lesson 2): the same complaint can be sent as a message to a friend or as a letter to the administrator. The lines of each stand apart in the text, and the words belong to the register.
+| Register | Line from lesson 2 | Use |
+|---|---|---|
+| informal | «Es que flipa, en serio.» | to a friend, in a message |
+| formal | «le escribo para comunicarle que» | to the managing agent, in a letter |
+| formal | «Le ruego que lo revise cuanto antes» | a request in a letter |
+| formal | «Quedo a la espera de sus noticias.» | the close of a letter |
+3. What the tutor says (lesson 3): the school's words are polite, and the parents work out their meaning. The three lines below are the ones the family quotes at the table.
+| What is said | What it means | Line |
+|---|---|---|
+| «Dani es un niño muy sociable» | he talks a lot in class | the opening |
+| «Podría dar más de sí, si se concentrara un poco» | he does not use his ability | the middle |
+| «En matemáticas tiene mucha imaginación» | the answers are not correct | the last line |
+4. The chat and its defence (lesson 4): the column defends the chat at the greengrocer's and in the lift, and it admits, at the end, that the theory did not survive the queue. The lines below are the ones the family repeats.
+| Column line | Point | Line |
+|---|---|---|
+| «Y la charla del ascensor tampoco es una tontería» | the chat is a form of company | lesson 4, sentence 10 |
+| «Mira, el que pregunta espera algo» | a question is a gift of time | lesson 4, sentence 20 |
+| «Lo confieso: la teoría se me cayó en la fila» | the writer admits the lapse | lesson 4, sentence 27 |
+5. Set formulas of the greeting (lesson 5): the greeting is made of stock phrases, and each one carries a degree of solemnity. The formulas below come from the greeting in its order.
+| Formula | Use | Line |
+|---|---|---|
+| «Queridos vecinos:» | the opening of a public address | sentence 1 |
+| «Es para mí un honor presidir una comisión» | the speaker takes up a post | sentence 2 |
+| «no puedo por menos que lamentar» | a formal regret | sentence 4 |
+| «Viva nuestro pueblo, y viva la verbena.» | the closing cry | sentence 23 |
+| «el único voluntario para la barra de este año soy yo» | the postscript, where the plain fact comes out | sentence 25 |
+6. Wishes and toasts (lesson 6): a toast ends with a wish in que and the subjunctive, and the grandson's speech shows where the timing goes wrong. The formulas are in the lines below.
+| Form | Use | Line |
+|---|---|---|
+| «¡Que cumplas muchos más, abuela!» | a wish with que and the subjunctive | sentence 24 |
+| «Levantad las copas por la abuela Pilar» | a call to raise the glasses | sentence 22 |
+| «Eso es lo que hay que contar de una boda» | the point of a story | sentence 14 |
+| «Con discursos como este, ni uno más.» | the grandmother's last word | sentence 25 |
+
+tasks:
+- Familia, qué gusto tener a todos aquí, aunque os confieso que echo de menos el turrón del pueblo. Este año el de casa es de los buenos, así que no os quejéis. Venga, sentaos que se enfría todo, y el que hable, que sea corto.
+  task.en: Rewrite Julián's first speech (the line with «Queridos familiares») as Rubén would say it to his cousins: informal, in Spanish, about 50 words, with vosotros and no set formulas. Keep the nougat and the gathering.
+  rubric.en: meaning: the gathering, the missing nougat and the call to sit down are all there; register: informal and warm, with vosotros and none of the formal phrases of the original; structure: an opening, the complaint, a closing call; idiom: venga, sentaos and se enfría are used in their everyday sense; effect: shorter and warmer than the original, and it still ends on the joke about length.

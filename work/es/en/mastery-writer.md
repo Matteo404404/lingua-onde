@@ -383,3 +383,15 @@ Rules from the Spanish Foundation that apply here:
 Report briefly: per lesson items, words, notes, tasks; checker output; facts
 you were unsure of and what you did with them; any choice the plan did not
 settle; anything in the plan you think is wrong (quote it, do not change it).
+
+## Rules added after week 1 (Spanish)
+
+- A revision is one scene that moves forward to its own twist, never a
+  montage of lines that each recall a lesson; a character's line answers
+  the line before it, and the narrator ("yo") is never also named in the
+  third person.
+- The revision's ending is its own, not the punchline of a lesson of the
+  week repeated.
+- Keep the plan's words when they are real Spanish even if they look odd
+  (el saluda, the formal greeting of a fiestas programme, is not a typo).
+- A story told in the past stays in the past, line by line.

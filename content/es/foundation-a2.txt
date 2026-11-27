@@ -868,3 +868,569 @@ Before lo or los, le and les become se: pídeselos, "ask him for them" (33), and
 6. Hace with a time, "ago" (lesson 31). Hace takes the preterite, because the time is over: hace cinco años, "five years ago"; hace un año, "a year ago" (31).
 
 That is the week: the preterite for what is over, the perfect for what is not, and the tú command to tell someone what to do.
+
+== 36 A2
+numeral: Lección treinta y seis
+numeral.pron.en: lék*cion* *tréïn*ta i séïss
+title: Estaba en la ducha
+title.en: I was in the shower
+
+dialogue:
+- ¿Qué pasó ayer por la mañana?
+  en: What happened yesterday morning?
+  pron.en: … pa*sso* …
+- Estaba en la ducha cuando sonó el timbre.
+  en: I was in the shower when the doorbell rang.
+  pron.en: … so*no* … *tim*bré
+- ¿Y abriste?
+  en: And did you answer the door? (And did you open?)
+  pron.en: … a*briss*té
+- Sí, abrí con una toalla.
+  en: Yes, I opened it in a towel.
+  pron.en: … a*bri* … to*a*ya
+- ¿Quién era?
+  en: Who was it?
+- Un hombre con un paquete para el vecino de abajo.
+  en: A man with a parcel for the neighbour downstairs.
+  pron.en: … *om*bré … pa*ké*té … a*ba*Ho
+- ¿Y firmaste?
+  en: And did you sign?
+  pron.en: … fir*mass*té
+- Sí, pero mientras firmaba, se cerró la puerta.
+  en: Yes, but while I was signing, the door shut.
+  pron.en: … *mién*trass fir*ma*ba … cé*rro* …
+- ¿Y qué hiciste después?
+  en: And what did you do then?
+  pron.en: … déss*pouéss*
+- Nada. Esperé.
+  en: Nothing. I waited.
+  pron.en: … ésspé*ré*
+- ¿Y cuánto tiempo?
+  en: And how long?
+  pron.en: … *tiém*po
+- Una hora. En la escalera, con la toalla y su paquete.
+  en: An hour. On the stairs, with the towel and his parcel.
+  pron.en: … éssca*lé*ra …
+
+notes.en:
+1. Ayer por la mañana is a time that is over, so the story is in the past: the preterite for what happened (pasó, sonó, abrí, esperé, se cerró) and the imperfect for the scene around it (estaba, firmaba).
+2. Estaba en la ducha is the scene: the imperfect of estar, "I was in the shower". Ducha is the shower, and en la ducha is "in the shower".
+3. Sonó is the event: the bell rang, once, and it is over. Timbre is the doorbell here, and sonar is "to ring".
+4. Abrí is the preterite of abrir, "I opened". Con una toalla is "wearing a towel": con says what someone has on, as English "in a towel" does.
+5. Mientras, "while", takes the imperfect for what was going on: mientras firmaba is "while I was signing", and se cerró la puerta, "the door shut", is the event that broke into it.
+6. De abajo means "downstairs", the flat below. Su paquete at the end means "his parcel": su can be his, her or your, and the scene settles which.
+7. ¿Y cuánto tiempo?: "and how long?", literally "and how much time?". Tiempo is time; the answer, una hora, is "an hour".
+
+ex1:
+- Ayer por la mañana estaba en casa.
+  en: Yesterday morning I was at home.
+- Estaba en el trabajo cuando sonó el teléfono.
+  en: I was at work when the phone rang.
+- Fui a la puerta.
+  en: I went to the door.
+- No estaba en casa cuando llegaste.
+  en: I was not at home when you arrived.
+- Esperé una hora en la escalera.
+  en: I waited an hour on the stairs.
+
+ex2:
+- Ayer por la mañana [estaba] en casa.
+  en: Yesterday morning I was at home.
+- [Sonó] el timbre.
+  en: The doorbell rang.
+- Mientras [firmaba], se cerró la puerta.
+  en: While I was signing, the door shut.
+- [Abrí] con una toalla.
+  en: I opened it in a towel.
+- [Estuve] una hora en la escalera.
+  en: I was on the stairs for an hour.
+
+culture.en:
+In many Spanish blocks of flats there is a portero, a caretaker, who can keep a parcel for a neighbour when nobody is in.
+
+== 37 A2
+numeral: Lección treinta y siete
+numeral.pron.en: lék*cion* *tréïn*ta i *sié*té
+title: ¿A qué hora soléis cenar?
+title.en: What time do you usually have dinner?
+
+dialogue:
+- ¿A qué hora soléis cenar?
+  en: What time do you usually have dinner?
+  pron.en: … so*léïss* cé*nar*
+- A las diez, más o menos.
+  en: At ten, more or less.
+- ¿A las diez? Yo a las diez suelo estar en la cama.
+  en: At ten? I'm usually in bed by ten.
+  pron.en: … *ca*ma
+- ¿Y a qué hora comes?
+  en: And what time do you have lunch?
+  pron.en: … *co*méss
+- A la una.
+  en: At one.
+- ¿A la una? Aquí a la una tomamos el aperitivo.
+  en: At one? Here at one we have a drink before lunch.
+  pron.en: … to*ma*moss … apéri*ti*bo
+- ¿Y la merienda?
+  en: And the afternoon snack?
+  pron.en: … mé*rién*da
+- A las seis.
+  en: At six.
+  pron.en: … séïss
+- Entonces, ¿cuántas veces coméis al día?
+  en: So how many times a day do you eat?
+  pron.en: … *couan*tass … co*méïss* … *di*a
+- Cinco. Pero poco.
+  en: Five. But not much each time. (Five. But little.)
+- ¿Poco? ¿Eso es poco?
+  en: Not much? You call that not much? (Little? That is little?)
+  pron.en: … *é*sso …
+
+notes.en:
+1. Soler means "to usually do", and it takes an infinitive after it: suelo estar, "I am usually". Its stem changes to sue- in suelo, but not in soléis, the form for you all, which keeps the o.
+2. Soléis is the vosotros form, the Spanish "you all", used here to the whole family, as Spaniards use it for a group of people addressed together.
+3. Comer means both "to eat" and "to have lunch", the main meal of the middle of the day. So ¿A qué hora comes? is "What time do you have lunch?"
+4. Only one o'clock takes the singular: a la una. Every other hour takes the plural, a las diez, a las seis.
+5. Aperitivo is the drink, and often a small snack, before lunch. Tomamos is "we have", as in "we have a drink".
+6. English puts "usually" after "am"; Spanish puts suelo before the infinitive, so estar comes last: suelo estar en la cama.
+7. Poco means "little" or "not much". cinco, pero poco is "five, but not much each time".
+
+ex1:
+- Suelo cenar a las nueve.
+  en: I usually have dinner at nine.
+- ¿A qué hora comes?
+  en: What time do you have lunch?
+- Yo suelo estar en casa a las ocho.
+  en: I am usually at home at eight.
+- Coméis cuatro veces al día.
+  en: You eat four times a day.
+- Soléis cenar tarde, ¿no?
+  en: You usually have dinner late, don't you?
+
+ex2:
+- [Suelo] cenar tarde.
+  en: I usually have dinner late.
+- ¿A qué hora [comes]?
+  en: What time do you have lunch?
+- Yo [suelo] estar en casa a las ocho.
+  en: I am usually at home at eight.
+- [Coméis] cuatro veces al día.
+  en: You eat four times a day.
+- [Soléis] cenar tarde.
+  en: You usually have dinner late.
+
+culture.en:
+Spanish meal times are later than English ones: lunch is often at two or three, and dinner at nine or ten.
+
+== 38 A2
+numeral: Lección treinta y ocho
+numeral.pron.en: lék*cion* *tréïn*ta i *o*tcho
+title: ¡Qué vergüenza!
+title.en: How embarrassing!
+
+dialogue:
+- ¡Ay! He manchado el mantel.
+  en: Oh no! I've stained the tablecloth.
+  pron.en: … man*tcha*do … man*tél*
+- No pasa nada.
+  en: It doesn't matter.
+- ¡Qué vergüenza! Estoy muy embarazada.
+  en: How embarrassing! I'm very pregnant.
+  pron.en: … bér*gouén*ça … émbara*ça*da
+- ¿Embarazada? ¡Enhorabuena!
+  en: Pregnant? Congratulations!
+  pron.en: … énora*boué*na
+- Gracias.
+  en: Thank you.
+- ¿Para cuándo?
+  en: When is it due?
+- ¿Cómo?
+  en: Sorry?
+- El niño, ¿para cuándo?
+  en: The baby, when is it due?
+  pron.en: … *ni*gno …
+- No, no. Estoy avergonzada. Embarazada no.
+  en: No, no. I'm embarrassed. Not pregnant.
+  pron.en: … abérgon*ça*da …
+- Ah. ¿Entonces no hay niño?
+  en: Oh. So there's no baby?
+  pron.en: a …
+- No. Lo siento mucho.
+  en: No. I'm so sorry.
+- Pues qué pena. Ya teníamos el nombre.
+  en: Oh, what a shame. We'd already picked a name.
+  pron.en: … *pé*na … té*ni*amoss … *nom*bré
+
+notes.en:
+1. He manchado is the perfect, "I have stained", for a thing that has just happened, as in lesson 18. El mantel, the tablecloth, is masculine, so it is el.
+2. No pasa nada is "it doesn't matter", and it is said to someone who has broken or spilt something.
+3. Embarazada is a false friend: it means "pregnant". "Embarrassed" is avergonzado, or avergonzada for a woman.
+4. Estoy avergonzada uses estar with an adjective for how you feel. The -a ending agrees with the speaker, a woman.
+5. Enhorabuena is "congratulations" for good news, and it is said at once. Felicidades is for a birthday.
+6. ¿Para cuándo? is "for when?", the question people ask about a baby that is due.
+7. Ya teníamos el nombre: the imperfect of tener, "we had", for a state that went on in the scene, and ya means "already".
+
+ex1:
+- ¡Qué pena!
+  en: What a shame!
+- Estoy muy avergonzada.
+  en: I am very embarrassed.
+- He manchado el suelo.
+  en: I have stained the floor.
+- Ella está embarazada.
+  en: She is pregnant.
+- Enhorabuena por el trabajo.
+  en: Congratulations on the job.
+
+ex2:
+- ¡Qué [vergüenza]!
+  en: How embarrassing!
+- Estoy muy [avergonzada].
+  en: I am very embarrassed.
+- He [manchado] el suelo.
+  en: I have stained the floor.
+- Ella [está] embarazada.
+  en: She is pregnant.
+- [Enhorabuena] por el trabajo.
+  en: Congratulations on the job.
+
+sounds.en:
+1. The gü of vergüenza keeps its u: the g stays hard and the u is said, as the gw of the name Gwen.
+
+== 39 A2
+numeral: Lección treinta y nueve
+numeral.pron.en: lék*cion* *tréïn*ta i *noué*bé
+title: Hace tres años que vivo aquí
+title.en: I've lived here for three years
+
+dialogue:
+- Hace tres años que vivo en Madrid.
+  en: I've lived in Madrid for three years.
+- ¿Y te gusta?
+  en: And do you like it?
+- Me encanta.
+  en: I love it.
+- ¿Y estudias español?
+  en: And do you study Spanish?
+  pron.en: … éss*tou*diass …
+- Sí, pero es difícil.
+  en: Yes, but it's hard.
+  pron.en: … di*fi*cil
+- ¿Y hablas español con todo el mundo?
+  en: And do you speak Spanish with everybody?
+  pron.en: … *moun*do
+- Lo intento.
+  en: I try.
+  pron.en: … in*tén*to
+- ¿Cómo que lo intentas?
+  en: What do you mean, you try?
+  pron.en: … in*tén*tass
+- Llevo tres años pidiendo el café en español.
+  en: I've been asking for coffee in Spanish for three years.
+  pron.en: *yé*bo … pi*dién*do …
+- ¿Y?
+  en: And?
+- Y siempre me contestan en inglés.
+  en: And they always answer me in English.
+  pron.en: … con*téss*tan …
+
+notes.en:
+1. Hace tres años que vivo en Madrid: Spain uses the present for something that is still going on, with hace, a time, and que. English says "I've lived", and Spanish says "I live".
+2. Me encanta is "I love it", literally "it enchants me". As with gustar, the thing liked is the subject, so the verb agrees with it and not with the person.
+3. Lo intento: lo is "it", the thing tried, and intentar is "to try".
+4. ¿Cómo que lo intentas? is "What do you mean, you try?", a question that shows you are surprised.
+5. Llevo tres años pidiendo is llevar with a time and a gerund: "I've been asking for three years". It is the same present for something still going on as in the first line.
+6. Pedir is "to ask for" something, here el café, and preguntar is "to ask" a question. English speakers mix them up, so the pair is worth keeping apart.
+7. Contestar takes the person as its indirect object: me contestan is "they answer me", with no "a" before me.
+
+ex1:
+- Hace dos años que vivo aquí.
+  en: I've lived here for two years.
+- Llevo dos años aquí.
+  en: I've been here for two years.
+- Me encanta Madrid.
+  en: I love Madrid.
+- ¿Y te gusta el café?
+  en: And do you like coffee?
+- Hace un año que vivo en Londres.
+  en: I've lived in London for a year.
+
+ex2:
+- Hace tres años que [vivo] aquí.
+  en: I've lived here for three years.
+- [Llevo] tres años pidiendo el café.
+  en: I've been asking for coffee for three years.
+- ¿Y te [gusta]?
+  en: And do you like it?
+- [Me] encanta.
+  en: I love it.
+- Siempre [me] contestan en inglés.
+  en: They always answer me in English.
+
+culture.en:
+Many Spaniards switch to English as soon as they hear an accent, to be helpful. To keep the conversation in Spanish, keep answering in Spanish, even when it is slow.
+
+== 40 A2
+numeral: Lección cuarenta
+numeral.pron.en: lék*cion* coua*rén*ta
+title: Ayer no pude ir
+title.en: I couldn't go yesterday
+
+dialogue:
+- ¿Por qué no viniste ayer?
+  en: Why didn't you come yesterday?
+  pron.en: … bi*niss*té …
+- No pude.
+  en: I couldn't.
+  pron.en: … *pou*dé
+- ¿Por qué?
+  en: Why?
+- Tuve que trabajar hasta tarde.
+  en: I had to work until late.
+  pron.en: *tou*bé …
+- ¿Y después?
+  en: And then?
+- Después fui a casa de mis padres.
+  en: Then I went to my parents' house.
+- ¿Y después?
+  en: And then?
+- Después me puse enfermo.
+  en: Then I got ill.
+  pron.en: … *pou*ssé én*fér*mo
+- ¿Y después?
+  en: And then?
+- Después quise llamarte, pero no tenía tu número.
+  en: Then I wanted to call you, but I didn't have your number.
+  pron.en: … *ki*ssé ya*mar*té … té*ni*a …
+- Pero si estuviste en mi casa la semana pasada.
+  en: But you were at my house last week.
+  pron.en: … ésstou*biss*té … sé*ma*na pa*ssa*da
+- Sí, pero no traje el móvil.
+  en: Yes, but I didn't bring my mobile.
+  pron.en: … *tra*Hé …
+- ¿Y después?
+  en: And then?
+- Me acosté ayer a las siete y me desperté hoy.
+  en: I went to bed at seven yesterday and woke up today.
+  pron.en: … désspér*té* …
+
+notes.en:
+1. Viniste is venir in the preterite, "you came", and it is irregular. Ayer, a time that is over, takes the preterite, so it is the past for the whole lesson.
+2. No pude is poder in the preterite: "I couldn't", meaning I tried and could not. Tuve que is tener in the preterite with que, "I had to".
+3. Fui is ir in the preterite, and it is the same form as ser: the sentence decides, as in lesson 29.
+4. Puse is poner in the preterite. Me puse enfermo is "I got ill", with ponerse and an adjective.
+5. Quise, estuviste and traje are irregular preterites: quise is "I wanted", estuviste is "you were", and traje is "I brought". No tenía tu número is the imperfect: not having the number was a state, not an event. The full table comes in the revision lesson.
+6. Me acosté and me desperté are regular -ar verbs in the preterite, with reflexive me before the verb. Me acosté is "I went to bed", me desperté is "I woke up".
+7. Ayer and hoy both sit in the same sentence: the day that is over and the day that is here.
+
+aside.en:
+This is a long lesson. The next one is short.
+
+ex1:
+- Ayer no pude ir al cine.
+  en: Yesterday I couldn't go to the cinema.
+- Tuve que ir a casa.
+  en: I had to go home.
+- Puse la mesa a las ocho.
+  en: I set the table at eight.
+- Quise llamarte ayer.
+  en: I wanted to call you yesterday.
+- Estuve en Londres la semana pasada.
+  en: I was in London last week.
+
+ex2:
+- Ayer no [pude] ir a la fiesta.
+  en: Yesterday I couldn't go to the party.
+- [Tuve] que trabajar hasta tarde.
+  en: I had to work until late.
+- Me [puse] enfermo.
+  en: I got ill.
+- No [tenía] tu número.
+  en: I didn't have your number.
+- Me [acosté] ayer a las siete.
+  en: I went to bed yesterday at seven.
+
+== 41 A2
+numeral: Lección cuarenta y una
+numeral.pron.en: lék*cion* coua*rén*ta i *ou*na
+title: ¿Qué tiempo hace?
+title.en: What's the weather like?
+
+dialogue:
+- ¿Qué tiempo hace en Santiago?
+  en: What's the weather like in Santiago?
+  pron.en: … san*tia*go
+- Hoy hace sol.
+  en: Today it's sunny.
+  pron.en: … sol
+- ¿Y mañana?
+  en: And tomorrow?
+- Mañana dicen que va a llover.
+  en: They say it's going to rain tomorrow.
+  pron.en: … *di*cén … yo*bér*
+- ¿Y el domingo?
+  en: And Sunday?
+- El domingo lloverá.
+  en: It will rain on Sunday.
+  pron.en: … yobé*ra*
+- ¿Llevo el paraguas?
+  en: Shall I take the umbrella?
+  pron.en: … pa*ra*gouass
+- Lleva dos.
+  en: Take two.
+  pron.en: *yé*ba …
+- ¿Dos? ¿Por qué?
+  en: Two? Why?
+- Porque en Santiago, cuando no llueve, es que va a llover.
+  en: Because in Santiago, when it isn't raining, it's about to. (… when [it] does not rain, it is that [it] is going to rain.)
+  pron.en: … *youé*bé …
+
+sounds.en:
+1. The ll of llover is the y of yes, so llover is yo*bér*, with the r tapped once.
+
+notes.en:
+1. Tiempo here is the weather, not the time: ¿Qué tiempo hace? is "What's the weather like?". English uses "weather" for it, and Spanish uses tiempo, the same word that means "time".
+2. Hace with a noun is the weather: hace sol, "it is sunny". Hace takes no subject, and the weather is the whole sentence.
+3. Va a llover is ir a with an infinitive, "it is going to rain", as in lesson 11.
+4. Dicen que is "they say that": dicen is the present of decir, and que joins the clause that follows.
+5. Lloverá is the future of llover, "it will rain". The future is the next step, and we come back to it in lesson 43.
+6. ¿Llevo el paraguas?: llevar is "to take" something with you, and the present asks "shall I take?". Lleva dos is its tú command, "take two". It is the same verb as llevo tres años in lesson 39.
+7. Llueve is the present of llover, "it rains" or "it is raining": the o becomes ue, as in duermo (lesson 19). Es que va a llover is "it is that it is going to rain", with the es que of lesson 24.
+
+culture.en:
+Spain has many climates: Galicia in the north-west is green and rainy, Castile in the centre is dry, and the Mediterranean coast is sunnier.
+
+ex1:
+- ¿Qué tiempo hace hoy?
+  en: What's the weather like today?
+- Mañana va a llover.
+  en: It's going to rain tomorrow.
+- Dicen que el domingo hace sol.
+  en: They say it's sunny on Sunday.
+- Lleva el paraguas.
+  en: Take the umbrella.
+- Hoy no tengo tiempo.
+  en: Today I have no time.
+
+ex2:
+- ¿Qué [tiempo] hace hoy?
+  en: What's the weather like today?
+- Mañana [va] a llover.
+  en: It's going to rain tomorrow.
+- Dicen [que] el domingo hace sol.
+  en: They say it's sunny on Sunday.
+- [Llevo] el paraguas.
+  en: I'm taking the umbrella.
+- Hoy no tengo [tiempo].
+  en: Today I have no time.
+
+== 42 A2
+kind: revision
+numeral: Lección cuarenta y dos
+numeral.pron.en: lék*cion* coua*rén*ta i doss
+title: Revisión y notas
+title.en: Revision and notes
+
+dialogue:
+- ¿Quieres saber cómo conocí a la abuela?
+  en: Do you want to know how I met Grandma?
+  refs: 22 29
+- Sí, abuelo. ¿Dónde fue?
+  en: Yes, Grandad. Where was it?
+  refs: 29 35
+- En la calle, un día de lluvia. Llovía mucho. Yo esperaba el autobús.
+  en: In the street, on a rainy day. It was raining hard. I was waiting for the bus.
+  refs: 36 41
+- ¿Y ella?
+  en: And her?
+  refs: 36
+- Ella llegó con un paraguas grande y me lo dio.
+  en: She arrived with a big umbrella and gave it to me.
+  refs: 30 33
+- ¿Y no dijiste nada?
+  en: And didn't you say anything?
+  refs: 32
+- Dije gracias, nada más.
+  en: I said thank you, and nothing more.
+  refs: 32
+- ¿Y el autobús?
+  en: And the bus?
+  refs: 3
+- El autobús no llegó. Estuve dos horas hablando con ella.
+  en: The bus didn't come. I spent two hours talking to her.
+  refs: 24 29 30
+- ¿Dos horas? ¿Y qué hiciste después?
+  en: Two hours? And what did you do then?
+  refs: 29 36
+- Fuimos a tomar un café.
+  en: We went for a coffee.
+  refs: 32
+- ¿Y cuándo supiste que era ella?
+  en: And when did you know she was the one? (And when did you know that it was she?)
+  refs: 40
+- Ese mismo día lo supe. Se llamaba Carmen.
+  en: I knew that same day. Her name was Carmen.
+  refs: 36 40
+- Abuelo, la abuela se llama Pilar. Carmen era otra chica.
+  en: Grandad, Grandma's name is Pilar. Carmen was another girl.
+  refs: 2 36
+
+notes.en:
+Six lessons have gone by since the last revision, lessons 36 to 41. Nothing here needs to be learnt by heart. This lesson puts the past in order, then the time words and the weather. If a part seems too much, go on; it will come back, a little clearer each time. Doubts are normal, and every table here is a reminder, not a rule to memorise.
+
+1. The imperfect or the preterite? (lessons 29, 36). The imperfect is for the scene and for what went on; the preterite is for what happened, once, and ended.
+
+| Use | Tense | From the dialogue |
+|---|---|---|
+| a scene that was going on (English "was raining") | imperfect | Llovía mucho (line 3) |
+| what you were doing when something happened (English "was waiting") | imperfect | Yo esperaba el autobús (line 3) |
+| one event that is over (English "arrived") | preterite | Ella llegó (line 5) |
+| one act that is over (English "said") | preterite | Dije gracias (line 7) |
+
+2. The irregular preterites (lessons 29, 32, 40). Each group has its own stem, and all of them share the same endings: -e, -iste, -o, -imos, -isteis, -ieron. The I form and the he or she form carry no written accent: tuve, tuvo.
+
+| Group | Stem | Verbs | I | you (tú) | he, she, you (usted) | we | you (all) | they |
+|---|---|---|---|---|---|---|---|---|
+| u | tuv-, pud-, pus-, estuv-, sup- | tener, poder, poner, estar, saber | tuve, pude, puse, estuve, supe | tuviste, pudiste, pusiste, estuviste, supiste | tuvo, pudo, puso, estuvo, supo | tuvimos, pudimos, pusimos, estuvimos, supimos | tuvisteis, pudisteis, pusisteis, estuvisteis, supisteis | tuvieron, pudieron, pusieron, estuvieron, supieron |
+| i | hic-, quis-, vin- | hacer, querer, venir | hice, quise, vine | hiciste, quisiste, viniste | hizo, quiso, vino | hicimos, quisimos, vinimos | hicisteis, quisisteis, vinisteis | hicieron, quisieron, vinieron |
+| j | traj-, dij- | traer, decir | traje, dije | trajiste, dijiste | trajo, dijo | trajimos, dijimos | trajisteis, dijisteis | trajeron, dijeron |
+
+Ir and ser share one preterite: fui, fuiste, fue, fuimos, fuisteis, fueron. Fui is "I went" or "I was", and the sentence decides. The j group has no i in its ending: dijeron, not dijieron.
+
+3. Soler, "to usually" (lesson 37). Soler is followed by an infinitive, and its stem changes to ue except in the we and you-all forms (solemos, soléis).
+
+| Person | Form | From the dialogue |
+|---|---|---|
+| I | suelo | Yo a las diez suelo estar en la cama |
+| you all (Spain) | soléis | ¿A qué hora soléis cenar? |
+
+Spanish puts suelo before the infinitive; English puts "usually" after "am". The other forms (sueles, suele, solemos, suelen) follow the same pattern.
+
+4. Hace ... que, and llevar with a time (lessons 31, 39). For something still going on, Spanish uses the present, and English uses "have ... -ed". For a time that is over, hace means "ago".
+
+| Spanish | English | Lesson |
+|---|---|---|
+| Hace tres años que vivo en Madrid | I've lived in Madrid for three years | 39 |
+| Llevo tres años pidiendo el café | I've been asking for coffee for three years | 39 |
+| Fui hace cinco años | I went five years ago | 31 |
+
+5. The weather (lesson 41). Hacer and the weather, llover in the near future and the future: the forms of the lesson, and llovía from the scene here.
+
+| Spanish | English | Form |
+|---|---|---|
+| Hoy hace sol | Today it's sunny | hace with a noun |
+| Mañana va a llover | It's going to rain tomorrow | ir a with an infinitive |
+| El domingo lloverá | It will rain on Sunday | the future, lesson 43 |
+| Llovía mucho | It was raining hard | the imperfect of the scene |
+
+6. The false friends so far (lessons 3, 10, 20, 30, 38). Each looks like an English word and means something else.
+
+| Spanish | Looks like | Means | Met in |
+|---|---|---|---|
+| regular | regular | "so-so" | 3 |
+| constipado | constipated | "having a cold" | 20 |
+| simpático | sympathetic | "nice", "pleasant" | 10 |
+| ordenador | order | a computer | 30 |
+| embarazada | embarrassed | pregnant | 38 |
+
+Embarazada is the one that catches people out most, so keep it apart from avergonzada, "embarrassed". That is the week: the imperfect for the scene, the preterite for what happened, and the words that look like English but are not.

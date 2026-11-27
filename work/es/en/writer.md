@@ -234,3 +234,15 @@ word the tool figured wrongly, anything you were unsure of.
   alternation to end on the twist.
 - A vague question in a scene ("¿Y fue bueno?") is replaced by one that
   cannot be misread.
+
+## Rules added after week 6
+
+- Keep the plan's twist when it works; replace it only when it cannot
+  happen, and never with a flat statement of fact ("Santiago está lejos del
+  mar").
+- A state in the past (not knowing, not having) is the imperfect: no tenía
+  tu número, no sabía; saber in the preterite (supe) means "found out".
+- A note does not explain a form that is only in the exercises.
+- Every respelling in sounds.en uses the key's signs from figure_es.py
+  --say (yo*bér*), never an English-style "yoh-vair".
+- Word order in exercises is the natural one (coméis cuatro veces al día).

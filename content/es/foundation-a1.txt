@@ -1703,3 +1703,304 @@ With a mí, a ti, a él, a ella, a usted, a nosotros, a vosotros and a ellos, th
 7. Tener que and hay que (lessons 9, 20). Tener que with an infinitive is "have to": tengo que estar (9), tiene que descansar (20). Hay que, "one must", is one form with no subject: hay que descansar, "you have to rest".
 
 The week closes here: the forms of these six lessons come back in every lesson that follows, and each time they come a little more easily.
+
+== 22 A1
+numeral: Lección veintidós
+numeral.pron.en: lék*cion* béïnti*doss*
+title: ¿Conoces a Pedro?
+title.en: Do you know Pedro?
+
+dialogue:
+- ¿Conoces a Pedro, el nuevo?
+  en: Do you know Pedro, the new one?
+  pron.en: ¿co*no*céss a *pé*dro, él *noué*bo?
+- Sí, lo conozco. Es muy simpático.
+  en: Yes, I know him. He's very nice.
+  pron.en: si, lo co*noç*co. éss moui sim*pa*tico.
+- ¿Sabes dónde vive?
+  en: Do you know where he lives?
+  pron.en: ¿*sa*béss *don*dé *bi*bé?
+- No lo sé. ¿Por qué?
+  en: I don't know. Why?
+  pron.en: no lo sé. ¿por ké?
+- Tengo su cartera. Está en mi mesa.
+  en: I've got his wallet. It's on my desk.
+  pron.en: *tén*go sou car*té*ra. éss*ta* én mi *mé*ssa.
+- ¿Sabes su número de teléfono?
+  en: Do you know his phone number?
+  pron.en: ¿*sa*béss sou *nou*méro dé té*lé*fono?
+- No. Pero conozco a su novia.
+  en: No. But I know his girlfriend.
+  pron.en: no. *pé*ro co*noç*co a sou *no*bia.
+- ¿Y sabes dónde vive ella?
+  en: And do you know where she lives?
+  pron.en: ¿i *sa*béss *don*dé *bi*bé *é*ya?
+- Sí. Con Pedro.
+  en: Yes. With Pedro.
+  pron.en: si. con *pé*dro.
+
+sounds.en:
+1. The c of conozco is the k of cat, and the z after it is the th of think: co*noç*co.
+2. Sé with its accent and se without it are said alike: the accent only tells the eye that the verb is saber.
+
+notes.en:
+1. Saber is for facts and for knowing how to do something: ¿sabes dónde vive?, "do you know where he lives?". Conocer is for people and places: conozco a Pedro, "I know Pedro".
+2. The yo forms are the two irregular ones: sé and conozco. The others are regular: sabes, sabe, conoces, conoce. The accent on sé keeps it apart from se, the little word of lesson 18 in se lo he dado.
+3. A goes before a person who is the object: conozco a Pedro, as ¿has visto a Marta? did in lesson 18. Madrid is a place, so conozco Madrid has no a. Lo here means him, as lo meant it or him in lesson 18.
+4. Nuevo is "new": el nuevo is "the new one", said of a man, and la nueva for a woman. Novio is "boyfriend" and novia is "girlfriend", the two words for a couple.
+5. Cartera is a wallet, for money and cards. In some places a school bag is also a cartera, so take the meaning from the sentence.
+6. Su can mean his, her or your (usted). Here it is his, because the sentence is about Pedro.
+
+ex1:
+- Conozco Madrid.
+  en: I know Madrid.
+- No sé dónde vive.
+  en: I don't know where he lives.
+- Conozco a tu hermana.
+  en: I know your sister.
+- ¿Sabes su número?
+  en: Do you know his number?
+- Tengo su cartera.
+  en: I have his wallet.
+
+ex2:
+- ¿[Conoces] a Pedro?
+  en: Do you know Pedro?
+- No [sé] dónde vive.
+  en: I don't know where he lives.
+- Lo [conozco].
+  en: I know him.
+- ¿[Sabes] su número?
+  en: Do you know his number?
+- Conozco [a] su novia.
+  en: I know his girlfriend.
+
+== 23 A1
+numeral: Lección veintitrés
+numeral.pron.en: lék*cion* béïnti*tréss*
+title: Las mejores naranjas
+title.en: The best oranges
+
+dialogue:
+- Buenos días. ¿A cuánto están las naranjas?
+  en: Good morning. How much are the oranges? (At how much are the oranges?)
+  pron.en: *boué*noss *di*ass. ¿a *couan*to éss*tan* lass na*ran*Hass?
+- A dos euros el kilo. Son de Valencia.
+  en: Two euros a kilo. They're from Valencia.
+  pron.en: a doss *éou*ross él *ki*lo. son dé ba*lén*cia.
+- ¿Y las de Murcia? Son más baratas.
+  en: And the ones from Murcia? They're cheaper.
+  pron.en: ¿i lass dé *mour*cia? son mass ba*ra*tass.
+- Sí, pero son peores. Las de Valencia son las mejores.
+  en: Yes, but they're worse. The ones from Valencia are the best.
+  pron.en: si, *pé*ro son pé*o*réss. lass dé ba*lén*cia son lass mé*Ho*réss.
+- ¿Mejores que las de Murcia?
+  en: Better than the ones from Murcia?
+  pron.en: ¿mé*Ho*réss ké lass dé *mour*cia?
+- Mucho mejores. Y más dulces.
+  en: Much better. And sweeter.
+  pron.en: *mou*tcho mé*Ho*réss. i mass *doul*céss.
+- Pues un kilo de las mejores.
+  en: Right, a kilo of the best ones.
+  pron.en: pouéss oun *ki*lo dé lass mé*Ho*réss.
+- Aquí tiene. ¿Algo más?
+  en: Here you are. (Here [you] have.) Anything else?
+  pron.en: a*ki* *tié*né. ¿*al*go mass?
+- Sí. ¿De dónde es usted?
+  en: Yes. Where are you from?
+  pron.en: si. ¿dé *don*dé éss ouss*téd*?
+- De Valencia.
+  en: From Valencia.
+  pron.en: dé ba*lén*cia.
+
+sounds.en:
+1. The h of naranjas is the ch of Scottish loch, a rough breath at the back of the throat: lass na*ran*Hass.
+2. The r of Murcia is one quick tap, as in *mour*cia; the rr of churros in lesson 6 is rolled, and the two are never swapped.
+
+notes.en:
+1. Más before an adjective gives "more", or the -er of "cheaper": más baratas, más dulces. Que after it means "than": mejores que las de Murcia.
+2. Mejor is already "better" and peor is already "worse", so no más goes before them. The best is el mejor or la mejor, and plural las mejores, "the best ones": the article is needed.
+3. Las de Valencia: the word naranjas is left out after las, and de says where the oranges come from, "the ones from Valencia", as De Edimburgo did in lesson 2.
+4. At a market stall people ask ¿a cuánto están las naranjas?, "at how much are the oranges?", with estar. A price is said as a dos euros el kilo: a, then the price, then el and the unit.
+5. Pues starts an answer and means "well then" or "right": pues un kilo, "right, a kilo".
+6. ¿De dónde es usted?: usted, as in lesson 7, because the customer does not know the stallholder.
+
+culture.en:
+In a Spanish queue, the person who arrives asks ¿Quién es el último?, "who is last?", and stands behind that person.
+
+ex1:
+- Las naranjas son dulces.
+  en: The oranges are sweet.
+- Las de Murcia son más baratas.
+  en: The ones from Murcia are cheaper.
+- Mi móvil es mejor.
+  en: My mobile is better.
+- Las de aquí son peores.
+  en: The ones from here are worse.
+- Pues un kilo de naranjas.
+  en: Right, a kilo of oranges.
+
+ex2:
+- Las naranjas son [más] dulces que las de Murcia.
+  en: The oranges are sweeter than the ones from Murcia.
+- Las de Valencia son las [mejores].
+  en: The ones from Valencia are the best.
+- Pues un kilo de [naranjas].
+  en: Right, a kilo of oranges.
+- Las de Murcia son más [baratas].
+  en: The ones from Murcia are cheaper.
+- Son [peores] que las de Valencia.
+  en: They are worse than the ones from Valencia.
+
+== 24 A1
+numeral: Lección veinticuatro
+numeral.pron.en: lék*cion* béïnti*coua*tro
+title: ¿Qué estás haciendo?
+title.en: What are you doing?
+
+dialogue:
+- ¿Diga?
+  en: Hello?
+  pron.en: ¿*di*ga?
+- Hola, cariño. ¿Qué estás haciendo?
+  en: Hello, darling. What are you doing?
+  pron.en: *o*la, ca*ri*gno. ¿ké éss*tass* a*cién*do?
+- Estoy trabajando. Estoy escribiendo un informe.
+  en: I'm working. I'm writing a report.
+  pron.en: éss*toï* traba*Han*do. éss*toï* ésscri*bién*do oun in*for*mé.
+- ¿Y ese ruido?
+  en: And that noise?
+  pron.en: ¿i *é*ssé *roui*do?
+- Es la radio. Están hablando de fútbol.
+  en: It's the radio. They're talking about football.
+  pron.en: éss la *ra*dio. éss*tan* a*blan*do dé *fout*bol.
+- ¿De fútbol? Parece un partido.
+  en: About football? It sounds like a match.
+  pron.en: ¿dé *fout*bol? pa*ré*cé oun par*ti*do.
+- Sí, es un programa de deportes.
+  en: Yes, it's a sports programme.
+  pron.en: si, éss oun pro*gra*ma dé dé*por*téss.
+- Y ahora están gritando: ¡gol!
+  en: And now they're shouting: goal!
+  pron.en: i a*o*ra éss*tan* gri*tan*do: ¡gol!
+- Es que... es un programa muy bueno.
+  en: It's just that... it's a very good programme.
+  pron.en: éss ké... éss oun pro*gra*ma moui *boué*no.
+- Cariño, mira por la ventana. Estoy en el bar de enfrente.
+  en: Darling, look out of the window. I'm in the bar opposite.
+  pron.en: ca*ri*gno, *mi*ra por la bén*ta*na. éss*toï* én él bar dé én*frén*té.
+
+sounds.en:
+1. The stress of fútbol falls on the first syllable, as the accent shows: *fout*bol.
+2. The g of gritando is the hard g of go, because it comes before r: gri*tan*do, not the H of Javier.
+
+notes.en:
+1. Estar with the -ando or -iendo form is for what is going on now: estoy trabajando, estás haciendo. Verbs in -ar take -ando (trabajando, hablando, gritando); verbs in -er and -ir take -iendo (escribiendo).
+2. Spanish uses this less than English uses "-ing". For a habit, the plain present does the work, as in lesson 10: trabaja en un hospital, "she works in a hospital".
+3. ¿Diga? is one way of answering the phone in Spain. It comes from decir, "to say", and it means nothing more than a hello.
+4. Parecer means "to seem" or "to look like": parece un partido, "it sounds like a match".
+5. Es que... starts an excuse or a reason: "it's just that", "the thing is". Listen for it: the speaker is about to explain something.
+6. Cariño, "darling", is said to someone close, here to a partner.
+7. Programa is masculine, el programa, though it ends in -a, while la radio, the radio set, is feminine.
+
+culture.en:
+Football is followed closely in Madrid, where Real Madrid and Atlético both play, and many people listen to the matches on the radio.
+
+aside.en:
+The notes may seem many; you need not learn them, only read them.
+
+ex1:
+- Estoy trabajando.
+  en: I'm working.
+- Están hablando de fútbol.
+  en: They're talking about football.
+- ¿Qué estás haciendo?
+  en: What are you doing?
+- Es un programa muy bueno.
+  en: It's a very good programme.
+- Mira por la ventana.
+  en: Look out of the window.
+
+ex2:
+- Estoy [escribiendo] un informe.
+  en: I'm writing a report.
+- ¿Qué estás [haciendo]?
+  en: What are you doing?
+- Están [gritando].
+  en: They're shouting.
+- Parece un [partido].
+  en: It looks like a match.
+- Estoy en el bar de [enfrente].
+  en: I'm in the bar opposite.
+
+== 25 A1
+numeral: Lección veinticinco
+numeral.pron.en: lék*cion* béïnti*cin*co
+title: El veintinueve de febrero
+title.en: The twenty-ninth of February
+
+dialogue:
+- ¿Cuándo es tu cumpleaños?
+  en: When is your birthday?
+  pron.en: ¿*couan*do éss tou coumplé*a*gnoss?
+- El veintinueve de febrero.
+  en: The twenty-ninth of February.
+  pron.en: él béïnti*noué*bé dé fé*bré*ro.
+- ¡Qué mala suerte! Solo tienes fiesta cada cuatro años.
+  en: What bad luck! You only get a party every four years.
+  pron.en: ¡ké *ma*la *souér*té! *so*lo *tié*néss *fiéss*ta *ca*da *coua*tro *a*gnoss.
+- No, no. Lo celebro el veintiocho de febrero y el uno de marzo.
+  en: No, no. I celebrate it on the twenty-eighth of February and on the first of March.
+  pron.en: no, no. lo cé*lé*bro él béïn*tio*tcho dé fé*bré*ro i él *ou*no dé *mar*ço.
+- ¡Dos fiestas! ¿Y cuántos años tienes?
+  en: Two parties! And how old are you?
+  pron.en: ¡doss *fiéss*tass! ¿i *couan*toss *a*gnoss *tié*néss?
+- Cuarenta.
+  en: Forty.
+  pron.en: coua*rén*ta.
+- ¿Cuarenta?
+  en: Forty?
+  pron.en: ¿coua*rén*ta?
+- Bueno: cuarenta años... y diez cumpleaños.
+  en: Well: forty years... and ten birthdays.
+  pron.en: *boué*no: coua*rén*ta *a*gnoss... i diéç coumplé*a*gnoss.
+
+sounds.en:
+1. The ua of cuarenta and the ue of veintinueve glide into one syllable each: coua*rén*ta and béïnti*noué*bé.
+2. The ñ of cumpleaños is the gn of onion, and the first syllable is cou, with the ou glide of soup: coumplé*a*gnoss.
+
+notes.en:
+1. A date is el, the number, de and the month: el veintinueve de febrero, "the twenty-ninth of February". The first of the month is el uno in Spain, el uno de marzo; el primero de marzo is also heard.
+2. The months are small letters: febrero, marzo. Spanish does not start them with a capital, as English does.
+3. Cumpleaños ends in -s but is singular: el cumpleaños is one birthday. Cumplir años, "to turn a year older", is the verb for it.
+4. Cuándo, "when", and cuántos, "how many", carry an accent in the question. Cuántos agrees with años, so with a feminine noun it is cuántas.
+5. From 21 to 29 the number joins into one word: veintiuno, veintidós, veintinueve. From 30 on, y goes between: treinta y uno, treinta y dos.
+6. Solo means "only": solo tienes, "you only have". Fiesta is a party, and also a public holiday, un día de fiesta.
+7. ¡Qué mala suerte!: what bad luck! Mala is feminine because suerte is a feminine word.
+
+culture.en:
+In Spain friends may pull the ear of the birthday person, once for each year, and everyone sings Cumpleaños feliz.
+
+ex1:
+- Mi cumpleaños es en marzo.
+  en: My birthday is in March.
+- Tengo treinta años.
+  en: I am thirty.
+- Es el uno de marzo.
+  en: It's the first of March.
+- ¿Cuándo es la fiesta?
+  en: When is the party?
+- Celebro mi cumpleaños en casa.
+  en: I celebrate my birthday at home.
+
+ex2:
+- Mi cumpleaños es el veintiocho de [febrero].
+  en: My birthday is on the twenty-eighth of February.
+- ¿[Cuándo] es tu fiesta?
+  en: When is your party?
+- Solo tengo [cuatro] años.
+  en: I'm only four.
+- ¿[Cuántos] años tienes?
+  en: How old are you?
+- Es mala [suerte].
+  en: That's bad luck.

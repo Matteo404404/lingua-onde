@@ -204,3 +204,19 @@ word the tool figured wrongly, anything you were unsure of.
   -aba the stress is on the first a (lla*ma*ba), not on an í.
 - The answer to "¿Y las comedias?" is "Tampoco": translate the sense ("not
   those either"), not a stock phrase that does not fit ("me neither").
+
+## Rules added after week 4
+
+- A twist must be possible: nobody fails to recognise a sister. If the
+  plan's twist cannot happen, keep its setting and grammar and find a twist
+  that can, said in the last line.
+- Every line of a scene has a reason to be said by that speaker at that
+  moment (no customer asking for "another good shop" after buying).
+- No guillemets or quotes inside a dialogue line: write "están gritando:
+  ¡gol!", so the figured line stays right.
+- uno becomes un before a noun, also in compounds: ciento un euros,
+  veintiún años.
+- Plural claims: verde and azul have one form for both genders, but they do
+  take -s and -es in the plural.
+- A circular note ("as it is in ¡qué mala suerte!") is replaced by one that
+  says what the form is.

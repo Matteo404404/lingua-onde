@@ -1,3 +1,306 @@
 course: es
 stage: foundation
 bases: en
+
+== 26 A2
+numeral: Lección veintiséis
+numeral.pron.en: lék*cion* béïnti*sséïss*
+title: ¿Me la puedo probar?
+title.en: Can I try it on?
+
+dialogue:
+- Perdone, ¿me puedo probar esta chaqueta?
+  en: Excuse me, can I try on this jacket?
+  pron.en: pér*do*né, ¿mé *poué*do pro*bar* *éss*ta tcha*ké*ta?
+- Claro. Los probadores están al fondo.
+  en: Of course. The fitting rooms are at the back.
+  pron.en: *cla*ro. loss proba*do*réss éss*tan* al *fon*do.
+- Gracias.
+  en: Thank you.
+  pron.en: *gra*ciass.
+- ¿Qué tal le queda?
+  en: How does it fit you?
+  pron.en: ¿ké tal lé *ké*da?
+- Me queda un poco grande.
+  en: It's a bit big on me.
+  pron.en: mé *ké*da oun *po*co *gran*dé.
+- ¿Quiere una talla menos?
+  en: Would you like one size smaller?
+  pron.en: ¿*kié*ré *ou*na *ta*ya *mé*noss?
+- Sí, por favor.
+  en: Yes, please.
+  pron.en: si, por fa*bor*.
+- Lo siento. Es la última. ¿Y esa chaqueta negra? Me gusta mucho.
+  en: I'm sorry. It's the last one. And that black jacket? I like it a lot.
+  pron.en: lo *sién*to. éss la *oul*tima. ¿i *é*ssa tcha*ké*ta *né*gra? mé *gouss*ta *mou*tcho.
+- ¿Esa? Esa es mía.
+  en: That one? That one is mine.
+  pron.en: ¿*é*ssa? *é*ssa éss *mi*a.
+
+sounds.en:
+1. The ch of chaqueta is the ch of church, so the word starts with a tch: tcha*ké*ta.
+
+notes.en:
+1. Probarse is "to try something on": me puedo probar esta chaqueta. The me goes before puedo, as the pronouns did in lessons 15 and 18. Lesson 28 shows the same sentence with the pronoun joined on: puedo probármela.
+2. Quedar works like gustar when clothes fit: me queda grande, "it is big on me". The thing that fits is the subject, so the verb agrees with the jacket: ¿qué tal le queda?, "how does it fit you?", with le for usted.
+3. Un poco, "a bit", as in lesson 5: un poco grande.
+4. Talla is a clothes size. It has nothing to do with "tall", which is alto: una talla menos is "one size smaller".
+5. Colours agree with the noun, as adjectives do: negro for a masculine word, negra for chaqueta. Verde and azul have one form for both genders.
+6. Mía means "mine" and agrees with the thing owned, not with the owner: esa es mía, because chaqueta is feminine. Mío is the masculine form.
+7. Último means "last", the word of the queue question in lesson 23, ¿quién es el último? Es la última says that the one left is the last in stock.
+
+culture.en:
+The winter sales, las rebajas, start in January and the summer sales in July.
+
+ex1:
+- Me queda bien.
+  en: It fits me well.
+- Es mía.
+  en: It's mine.
+- La chaqueta negra es mía.
+  en: The black jacket is mine.
+- Quiere una talla menos.
+  en: He wants one size smaller.
+- Lo siento, es la última.
+  en: I'm sorry, it's the last one.
+
+ex2:
+- ¿Me puedo [probar] esta chaqueta?
+  en: Can I try on this jacket?
+- ¿Qué tal le [queda]?
+  en: How does it fit you?
+- Me queda un poco [grande].
+  en: It's a bit big on me.
+- [Esa] es mía.
+  en: That one is mine.
+- Los probadores están al [fondo].
+  en: The fitting rooms are at the back.
+
+== 27 A2
+numeral: Lección veintisiete
+numeral.pron.en: lék*cion* béïnti*ssié*té
+title: Un billete para Sevilla
+title.en: A ticket to Seville
+
+dialogue:
+- Un billete para Sevilla, por favor.
+  en: A ticket to Seville, please.
+  pron.en: oun bi*yé*té *pa*ra sé*bi*ya, por fa*bor*.
+- ¿Para hoy?
+  en: For today?
+  pron.en: ¿*pa*ra oï?
+- Sí, para el tren de las cinco.
+  en: Yes, for the five o'clock train.
+  pron.en: si, *pa*ra él trén dé lass *cin*co.
+- ¿Ida y vuelta?
+  en: Return?
+  pron.en: ¿*i*da i *bouél*ta?
+- Solo ida.
+  en: Just a single. (Only going.)
+  pron.en: *so*lo *i*da.
+- Son setenta euros.
+  en: That's seventy euros.
+  pron.en: son sé*tén*ta *éou*ross.
+- ¿Setenta euros por un billete?
+  en: Seventy euros for a ticket?
+  pron.en: ¿sé*tén*ta *éou*ross por oun bi*yé*té?
+- Es el AVE. Pasa por Córdoba y llega en dos horas y media.
+  en: It's the AVE. It goes through Córdoba and arrives in two and a half hours.
+  pron.en: éss él *a*bé. *pa*ssa por *cor*doba i *yé*ga én doss *o*rass i *mé*dia.
+- ¿No hay nada más barato?
+  en: Isn't there anything cheaper?
+  pron.en: ¿no aï *na*da mass ba*ra*to?
+- Hay un autobús esta noche. Llega mañana por la mañana.
+  en: There's a bus tonight. It arrives tomorrow morning.
+  pron.en: aï oun aouto*bouss* *éss*ta *no*tché. *yé*ga ma*gna*na por la ma*gna*na.
+- Pues el autobús. Así no pago hotel.
+  en: Right, the bus. That way I don't pay for a hotel.
+  pron.en: pouéss él aouto*bouss*. a*ssi* no *pa*go o*tél*.
+
+sounds.en:
+1. The v of Sevilla and vuelta is said as b, with the lips barely touching: sé*bi*ya, *bouél*ta.
+2. The ll of billete is the y of yes: bi*yé*té.
+
+notes.en:
+1. Para goes to where you are heading (para Sevilla), to a day or a time that is the limit (para hoy), and before an infinitive it means "in order to". We will come back to it.
+2. Por goes for the price you pay (setenta euros por un billete), for the way through (pasa por Córdoba) and for the part of the day (por la mañana).
+3. Ida y vuelta is the return ticket, there and back. Solo ida is one way only.
+4. Pasar por is "to go through" a place. Pasar on its own can mean "to happen", as in lesson 20: ¿qué le pasa?
+5. No hay nada: no goes before the verb and nada after it, the double negative of lesson 19. Nada más barato is "nothing cheaper", literally "nothing more cheap".
+6. Mañana can be "tomorrow", as in lesson 18, or the morning: llega mañana por la mañana is "it arrives tomorrow morning".
+7. Hotel takes no article here: no pago hotel is "I don't pay for a hotel". Así is "this way" or "like that".
+
+culture.en:
+The AVE, Spain's high-speed train, has run between Madrid and Seville since 1992. Atocha station in Madrid has an indoor tropical garden.
+
+ex1:
+- Un billete para Londres, por favor.
+  en: A ticket to London, please.
+- No hay nada en la mesa.
+  en: There is nothing on the table.
+- Pago en euros.
+  en: I pay in euros.
+- Es para hoy.
+  en: It's for today.
+- Llega mañana por la mañana.
+  en: It arrives tomorrow morning.
+
+ex2:
+- Un billete [para] Sevilla.
+  en: A ticket to Seville.
+- Pasa [por] Córdoba.
+  en: It goes through Córdoba.
+- [Solo] ida.
+  en: One way only.
+- No hay [nada] más barato.
+  en: There is nothing cheaper.
+- Pues el autobús. Así no [pago] hotel.
+  en: Right, the bus. That way I don't pay for a hotel.
+
+== 28 A2
+kind: revision
+numeral: Lección veintiocho
+numeral.pron.en: lék*cion* béïn*tio*tcho
+title: Revisión y notas
+title.en: Revision and notes
+
+dialogue:
+- Buenos días. ¿Qué quiere?
+  en: Good morning. What would you like? (Good morning. What do [you] want?)
+  pron.en: *boué*noss *di*ass. ¿ké *kié*ré?
+  refs: 1 3
+- Es el cumpleaños de mi hermana. ¿Qué tiene para ella?
+  en: It's my sister's birthday. What have you got for her?
+  pron.en: éss él coumplé*a*gnoss dé mi ér*ma*na. ¿ké *tié*né *pa*ra *é*ya?
+  refs: 10 25
+- Tengo dos bufandas. ¿Esta o aquella?
+  en: I've got two scarves. This one or that one?
+  pron.en: *tén*go doss bou*fan*dass. ¿*éss*ta o a*ké*ya?
+  refs: 9 12
+- ¿A cuánto está esta?
+  en: How much is this one?
+  pron.en: ¿a *couan*to éss*ta* *éss*ta?
+  refs: 12 23
+- Cuarenta euros. Y aquella, treinta y cinco.
+  en: Forty euros. And that one, thirty-five.
+  pron.en: coua*rén*ta *éou*ross. i a*ké*ya, *tréïn*ta i *cin*co.
+  refs: 13 23
+- Aquella es más barata que esta, pero esta es más grande.
+  en: That one is cheaper than this one, but this one is bigger.
+  pron.en: a*ké*ya éss mass ba*ra*ta ké *éss*ta, *pé*ro *éss*ta éss mass *gran*dé.
+  refs: 23 26
+- Para una hermana, la mejor es esta.
+  en: For a sister, this one is the best.
+  pron.en: *pa*ra *ou*na ér*ma*na, la mé*Hor* éss *éss*ta.
+  refs: 23
+- Pues esta. Mi hermana trabaja aquí, en la farmacia de la estación.
+  en: This one, then. My sister works here, in the station chemist's.
+  pron.en: pouéss *éss*ta. mi ér*ma*na tra*ba*Ha a*ki*, én la far*ma*cia dé la éssta*cion*.
+  refs: 8 10
+- ¿Cómo se llama?
+  en: What's her name? (How does [she] call herself?)
+  pron.en: ¿*co*mo sé *ya*ma?
+  refs: 2
+- Lucía. ¿La conoce?
+  en: Lucía. Do you know her?
+  pron.en: lou*ci*a. ¿la co*no*cé?
+  refs: 10 22
+- Claro que la conozco. Viene aquí todos los días.
+  en: Of course I know her. She comes here every day.
+  pron.en: *cla*ro ké la co*noç*co. *bié*né a*ki* *to*doss loss *di*ass.
+  refs: 15 22
+- ¿Y le va a gustar la bufanda?
+  en: And will she like the scarf? (And is the scarf going to please her?)
+  pron.en: ¿i lé ba a gouss*tar* la bou*fan*da?
+  refs: 11 19
+- Sí, mucho. Esta mañana se ha llevado una.
+  en: Yes, very much. She took one this morning. (... This morning [she] has taken one away.)
+  pron.en: si, *mou*tcho. *éss*ta ma*gna*na sé a yé*ba*do *ou*na.
+  refs: 18 19
+
+sounds.en:
+1. The ll of llama and llevado is the y of yes: sé *ya*ma, sé a yé*ba*do.
+2. The c of cinco is the th of think before i, and the k of cat before u: *cin*co, *couan*to.
+
+notes.en:
+Six lessons have gone by since the last revision, and nothing in them has to be learnt by heart. This lesson puts in order what you have read, heard and said in lessons 22 to 27. If a part seems too much, go on; it will come back in the lessons ahead, a little clearer each time. Doubts are normal, and every table here is a reminder rather than a rule to memorise.
+
+1. Saber and conocer, and the personal a (lessons 18, 22). Both mean "to know", but they are not interchangeable.
+
+| | saber | conocer |
+|---|---|---|
+| I | sé | conozco |
+| you (tú) | sabes | conoces |
+| he, she, you (usted) | sabe | conoce |
+| we | sabemos | conocemos |
+| you (all, Spain) | sabéis | conocéis |
+| they, you (all) | saben | conocen |
+
+Only the yo forms are irregular: sé (with its accent, so it is not se), conozco. Sé dónde vive, "I know where he lives" (22); conozco a Pedro, "I know Pedro" (22). A goes before a person who is the object, as in ¿has visto a Marta? (18), but not before a place: conozco Madrid (22).
+
+2. Comparisons (lessons 23, 26, 28). Spanish compares with más and menos, and English uses "-er" or "more".
+
+| Form | Meaning | Example |
+|---|---|---|
+| más + adjective | more, or the -er of "cheaper" | más baratas (23), más grande (28) |
+| menos + adjective | less | menos grande que aquella |
+| más ... que | ... -er than | más barata que esta (28) |
+| menos ... que | less ... than | menos grande que aquella |
+| tan ... como | as ... as | tan grande como esta |
+| mejor, peor | better, worse | mejores que las de Murcia (23), peores (23) |
+| el mejor, la mejor, las mejores | the best | las mejores (23) |
+| mayor, menor | older, younger (of people) | mi hermano mayor |
+
+Mejor and peor already mean "better" and "worse", so no más goes before them. Una talla menos (26) is "one size smaller", where menos stands alone.
+
+3. Estar and the -ando or -iendo form (lesson 24). It says what is going on now: estoy trabajando, "I am working".
+
+| Verb | Form | Met in |
+|---|---|---|
+| -ar: trabajar, hablar, gritar | trabajando, hablando, gritando | 24 |
+| -er: hacer | haciendo | 24 |
+| -ir: escribir | escribiendo | 24 |
+
+Complete with the gerund: Estoy ___ (leer), "I am reading": leyendo. Están ___ (dormir), "they are sleeping": durmiendo, where the o becomes u. Estás ___ (pedir), "you are asking for": pidiendo.
+
+4. Por and para (lessons 27, 28). Both can mean "for", and they are not swapped.
+
+| Word | Use | Example |
+|---|---|---|
+| para | where you are going | un billete para Sevilla (27) |
+| para | for whom | ¿Qué tiene para ella? (28) |
+| para | a time limit | para hoy (27) |
+| por | the price you pay | setenta euros por un billete (27) |
+| por | the way through | pasa por Córdoba (27) |
+| por | the part of the day | por la mañana (27) |
+| por | a place near you | por aquí, "round here" (8) |
+
+5. Dates and numbers to 1,000 (lessons 25, 28). After one hundred, cien is used alone, and ciento is used before another number.
+
+| Number | Spanish | Example |
+|---|---|---|
+| 100 | cien | cien euros |
+| 101 | ciento uno | ciento un euros |
+| 1,000 | mil | mil euros |
+
+Complete: Son ___ euros, "a hundred euros": cien. Es el ___ de febrero, "the twenty-eighth of February": veintiocho. Son ciento ___ euros, "a hundred and one euros": un, as uno becomes un before a noun. Son ___ euros, "a thousand euros": mil.
+
+6. Possessives (lessons 10, 21, 22, 26). Mi, tu and su go before the thing owned; mío, tuyo and suyo come after it, or stand alone, and agree with it.
+
+| Owner | Before the noun | After or alone |
+|---|---|---|
+| I | mi hermana (10) | mío, mía (esa es mía, 26) |
+| you (tú) | tu piso (21) | tuyo, tuya |
+| he, she, you (usted) | su novia (22) | suyo, suya |
+
+Su can mean his, her or your (usted), so the sentence must settle it, as su novia does in lesson 22. Complete: Esa bufanda es ___, "that scarf is mine": mía.
+
+7. Pronouns with two verbs (lessons 26, 28). The pronoun goes before the conjugated verb, or joins on to the infinitive, and the infinitive then keeps its stress with an accent.
+
+| Before the verb | Joined to the infinitive |
+|---|---|
+| me la puedo probar (26) | puedo probármela |
+| la voy a comprar | voy a comprarla |
+| le va a gustar (28) | va a gustarle |
+
+The week closes here: these forms come back in every lesson that follows, and each time they come a little more easily.

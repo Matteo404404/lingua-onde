@@ -327,3 +327,13 @@ you think is wrong (quote it, do not change it).
   in writing); use the line to set up the twist.
 - Satire may exaggerate habits, but not present an illegal habit as normal
   today (smoking indoors has been banned since 2011).
+
+## Rules added after week 5
+
+- Verse: write the lines in order, count each one aloud (sinalefa, the
+  last-stress rule), and check that every even line has the same
+  assonance; a capital letter only after a full stop.
+- A word lesson may be a list, but each line must still make sense on its
+  own (no "la de las maletas, que van siete, y así llevas las de perder").
+- Dates you are not sure to the year are given by decade (en los años
+  treinta).

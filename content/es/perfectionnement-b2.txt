@@ -2412,3 +2412,616 @@ ex2:
   en: I have been waiting for the bus for two hours.
 - Esa norma [tiene] que cumplirse.
   en: That rule has to be followed.
+
+== 29 B2
+numeral: Lección veintinueve
+title: Los suegros
+title.en: The in-laws
+
+dialogue:
+- Pasa, pasa, Tom, que el cocido se enfría.
+  en: Come in, come in, Tom. The stew is going cold.
+- Muchas gracias, señora. Qué piso tan bonito tiene usted.
+  en: Thank you very much, madam. What a lovely flat you have.
+- Ay, no me hables de usted, que me haces sentir una abuela. Tutéame, Tom.
+  en: Oh, don't use usted with me, it makes me feel like somebody's grandmother. Use tú, Tom.
+- Sí, claro... perdone, quiero decir, perdona. ¿Le ayudo con la mesa, Carmen?
+  en: Yes, of course... sorry, I mean, sorry. Shall I help with the table, Carmen?
+- Déjalo, Tom, que la mesa ya está puesta. Siéntate, que estás en tu casa.
+  en: Leave it, Tom, the table is already laid. Sit down, make yourself at home.
+- Gracias, señor. Soy muy contento de estar aquí con su familia.
+  en: Thank you, sir. I am very happy to be here with your family.
+- Estás contento, Tom, no eres contento: con estar, que es como uno se siente hoy. Y no me digas señor, que parece que has venido a leer el contador de la luz.
+  en: You're happy, Tom, not happy in the other way: estar is for how you feel today. And don't call me sir, you'd think you had come to read the electricity meter.
+- Perdone. Estoy muy contento, y el cocido está buenísimo.
+  en: Sorry. I am very happy, and the stew is delicious.
+- Ya le ha salido otra vez el usted, Ramón. Llevamos media hora así.
+  en: He's gone back to usted again, Ramón. We've been at it for half an hour.
+- Déjale, mujer. Es inglés, y allí no hay usted ni tú para nadie.
+  en: Leave him alone, love. He's English, and over there there's no "usted" or "tú" for anyone.
+- Es verdad. Lo del tú me cuesta más que el cocido.
+  en: It's true. The tú is harder for me than the stew.
+- Pues vamos con el postre: ¿quieres flan o tarta?
+  en: Right, on to pudding: do you want flan or tart?
+- Flan, por favor. Si es... si eres tan amable, Carmen.
+  en: Flan, please. If you are... if you're so kind, Carmen.
+- Así me gusta. No te preocupes por el tú, que a Ramón le costó dos años.
+  en: That's more like it. Don't worry about the tú, it took Ramón two years.
+- A mí me costó más. Mi suegro me trataba de usted hasta la boda.
+  en: It took me longer. My father-in-law kept to usted with me until the wedding.
+- Pues lo intento, pero el usted me sale solo, de tantas clases.
+  en: I'm trying, but the usted comes out on its own after all these lessons.
+- Pues el usted se te escapa, pero lo de estar ya no. Eso es progreso.
+  en: Well, the usted slips out now and then, but estar doesn't any more. That's progress.
+- Aquí tienes el café, con leche. El azúcar lo tiene Ramón.
+  en: Here's your coffee, with milk. Ramón has the sugar.
+- Gracias, Carmen. Ramón, ¿me pasa... ¿me pasas el azúcar?
+  en: Thanks, Carmen. Ramón, could you... can you pass me the sugar?
+- Ahora sí: ya hablas como uno de la familia.
+  en: Now, yes: you speak like one of the family.
+
+notes.en:
+1. usted (sentence 2): in Spain today tú is the form for most adults, among friends, family and colleagues, while usted is kept for older people, for formal service and to keep a distance (Foundation, lesson 13). In much of Latin America usted is used more widely, even between friends, and ustedes is the plural for everyone (Foundation, lesson 93). Example: ¿Es usted el dueño del bar?, "are you the owner of the bar?"
+2. hablar de usted, tutear (sentence 3): hablar de usted, or tratar de usted, means to use the usted form with someone, and tutear means to use tú with them. Example: Mi jefe me trata de usted, pero a mi compañera la tutea, "my boss uses usted with me, but he uses tú with my colleague".
+3. Tutéame (sentence 3): the tú command of tutear, with me attached at the end. The stress falls two syllables before the end, so it takes an accent, as in llámame. Example: Llámame mañana, "call me tomorrow".
+4. Le ayudo (sentence 4): with usted the verb takes the third person, and the object pronoun is le. The tú form would be te ayudo. Example: ¿Le llevo la maleta, señora?, "shall I carry your case, madam?".
+5. perdone, perdona (sentence 4): the same verb in two forms. Perdone is the usted form and perdona the tú form, and the ending shows which one the speaker has chosen (Foundation, lesson 13, note 3).
+6. Déjalo, Siéntate (sentence 5): tú commands with the pronoun joined on the end. Déjalo is leave it, and siéntate is sit down, from sentarse, with the reflexive pronoun on the end (Foundation, lesson 34). Example: Siéntate aquí, que ya llega el cocido, "sit here, the stew is almost here".
+7. Estás contento, no eres contento (sentence 7): estar describes how someone feels or is today, and ser describes what someone is, in a lasting way (Foundation, lesson 7, and lesson 3 for estar). Example: Soy inglés, pero hoy estoy cansado, "I'm English, but today I'm tired".
+8. Ya le ha salido el usted (sentence 9): salir with a pronoun means something comes out of someone or turns out for them. The subject is el usted, so the verb stays singular. Example: Me ha salido bien el examen, "the exam went well for me".
+9. no hay usted ni tú (sentence 10): English has one word, you, for both the familiar and the polite form. Spanish chooses between tú and usted, and the verb form shows the choice. The rule is the one in note 1.
+10. Me cuesta (sentence 11): costar with a pronoun means something is hard for someone, and cuesta agrees with the singular thing, el tú. Example: Me cuesta madrugar, "getting up early is hard for me".
+11. Mi suegro... trataba de usted hasta la boda (sentence 15): a suegro is a father-in-law, and the parents of a partner are the suegros. Trataba is the imperfect, a habit kept up over a period, and hasta la boda is until the wedding. Example: Mi suegra cocina de maravilla, "my mother-in-law cooks wonderfully".
+12. Ahora sí (sentence 20): ahora sí is said when someone finally gets something right, and uno de la familia is one of the family. Example: Ahora sí, así se hace, "now that's the way to do it".
+
+ex1:
+- ¿Me acompañas a la estación, por favor?
+  en: Will you come with me to the station, please? (to a friend)
+- Perdone, ¿sabe usted dónde está la farmacia?
+  en: Excuse me, do you know where the chemist's is? (formal)
+- No me hables de usted, que somos amigos.
+  en: Don't talk to me in the usted form, we are friends. (to a friend)
+- Pásame la sal, que el cocido está soso.
+  en: Pass me the salt, the stew is bland. (to a friend)
+- Señor, ¿puede usted repetirme el precio?
+  en: Sir, could you repeat the price for me? (formal)
+
+ex2:
+- ¿Me [pasas] el azúcar, Tom?
+  en: Can you pass me the sugar, Tom? (to a friend)
+- Mi suegro me [trataba] de usted hasta la boda.
+  en: My father-in-law kept to usted with me until the wedding.
+- Ya [le] ha salido otra vez el usted.
+  en: The usted slipped out of him again.
+- Siéntate, que [estás] en tu casa.
+  en: Sit down, you're at home. (to a friend)
+- Ayer [fui] a casa de mis suegros.
+  en: Yesterday I went to my in-laws' house.
+
+== 30 B2
+numeral: Lección treinta
+title: Canarias
+title.en: The Canary Islands
+
+dialogue:
+- Canarias es un archipiélago del océano Atlántico, frente a la costa de África.
+  en: The Canary Islands are an archipelago in the Atlantic Ocean, off the coast of Africa.
+- Las principales son Tenerife, Gran Canaria, Lanzarote, Fuerteventura, La Palma, La Gomera y El Hierro.
+  en: The main ones are Tenerife, Gran Canaria, Lanzarote, Fuerteventura, La Palma, La Gomera and El Hierro.
+- Tiene dos capitales: Santa Cruz de Tenerife y Las Palmas de Gran Canaria.
+  en: It has two capitals, Santa Cruz de Tenerife and Las Palmas de Gran Canaria.
+- El paisaje es volcánico, y el Teide, en Tenerife, es la montaña más alta de España.
+  en: The landscape is volcanic, and the Teide, on Tenerife, is the highest mountain in Spain.
+- En 2021 el volcán de La Palma entró en erupción durante casi tres meses, y destruyó casas y cultivos.
+  en: In 2021 the volcano on La Palma erupted for almost three months, and destroyed houses and crops.
+- Colón hizo escala en La Gomera en 1492, en su primer viaje hacia América.
+  en: Columbus stopped at La Gomera in 1492, on his first voyage to America.
+- En La Gomera se conserva el silbo gomero, un lenguaje silbado con el que se puede hablar a distancia.
+  en: On La Gomera the silbo gomero survives, a whistled language that can carry messages over a distance.
+- Muchos canarios emigraron a Cuba y a Venezuela a lo largo de los siglos.
+  en: Many Canarians emigrated to Cuba and Venezuela over the centuries.
+- En Canarias el autobús se llama guagua, y la patata, papa.
+  en: In the Canaries the bus is called a guagua, and the potato, papa.
+- Allí se dice ustedes vienen, donde en Madrid se dice vosotros venís.
+  en: There they say ustedes vienen, where in Madrid people say vosotros venís.
+- Hablan con seseo: cielo suena como sielo.
+  en: They speak with seseo: cielo sounds like sielo.
+- En varias islas hay playas de arena negra, y se cultivan plátanos.
+  en: Several islands have beaches of black sand, and bananas are grown.
+- Las papas arrugadas se cuecen con poca agua y sal hasta que la piel se arruga, y se comen con mojo.
+  en: Papas arrugadas are boiled in very little water with salt until the skin wrinkles, and they are eaten with mojo.
+- El mojo es una salsa de aceite y ajo, con pimentón en el rojo y con cilantro en el verde.
+  en: Mojo is a sauce of oil and garlic, with paprika in the red one and coriander in the green.
+- El gofio es harina de cereal tostado, que se mezcla con agua, leche o caldo.
+  en: Gofio is flour made from toasted cereal, which is mixed with water, milk or stock.
+- Para el postre, el bienmesabe es un dulce de almendra, yema y azúcar.
+  en: For dessert, bienmesabe is a sweet of almonds, egg yolk and sugar.
+- En la radio, cada hora, el locutor lo recuerda: en Canarias es una hora menos.
+  en: On the radio, every hour, the presenter reminds you: in the Canaries it is one hour behind.
+
+notes.en:
+1. frente a (sentence 1): in front of, or facing, and here it means off the coast. Example: La casa está frente a la playa, "the house is facing the beach".
+2. la montaña más alta de España (sentence 4): the superlative is el or la plus más plus the adjective, then de for the place. Example: Es el edificio más alto de la ciudad, "it is the tallest building in the city".
+3. entró en erupción (sentence 5): entrar en erupción means a volcano starts to erupt. Example: El volcán entró en erupción de madrugada, "the volcano erupted in the early hours".
+4. hizo escala (sentence 6): hacer escala means to stop on a journey before going on. Example: El avión hizo escala en Lisboa, "the plane stopped over in Lisbon".
+5. silbo gomero (sentence 7): the whistled language of La Gomera, and gomero means "of La Gomera". Example: Silbó para llamar al perro, "he whistled to call the dog".
+6. emigraron (sentence 8): emigrar is to leave one's country to live elsewhere, and inmigrar is the same move seen from the new country. Example: Mis abuelos emigraron a Argentina, "my grandparents emigrated to Argentina".
+7. guagua, papa (sentence 9): in the Canaries the bus is a guagua and the potato is a papa; in Madrid they are autobús and patata. Guagua is explained in Foundation, lesson 94. Example: Compré patatas en el mercado, "I bought potatoes at the market".
+8. ustedes vienen (sentence 10): in the Canaries ustedes is the plural you, and vosotros is not used. The verb is the third person, as with usted. Foundation, lesson 93, explains ustedes across Latin America.
+9. seseo (sentence 11): the c before e and i, and the z, said as an s, as in cielo. Foundation, lesson 94, explains it. Example: Dicen zapato y suena como sapato, "they say zapato and it sounds like sapato".
+10. se cultivan plátanos (sentence 12): the passive se, with the thing grown as the subject, so the verb agrees with it. Foundation, lesson 59, explains the pattern. Example: Se venden tomates en ese puesto, "tomatoes are sold at that stall".
+11. se arruga (sentence 13): arrugar is to wrinkle, and arrugarse is the same with a pronoun, for a thing that wrinkles by itself. Example: Se me ha arrugado la camisa, "my shirt has got creased".
+12. mojo (sentence 14): the sauce itself, a word of the Canaries. Mojar el pan means to dip bread in a sauce. Example: Mojo el pan en la salsa, "I dip the bread in the sauce".
+13. gofio (sentence 15): a flour of toasted cereal, and the word is said as it is written. Example: El gofio se toma con leche, "gofio is taken with milk".
+14. bienmesabe (sentence 16): the name is literally "it tastes good to me", bien me sabe, and the dessert takes that name. Example: Me sabe bien el café, "the coffee tastes good to me".
+15. lo recuerda (sentence 17): lo stands for the fact that comes after the colon, the time difference. Recordar here means to remind, and the listeners are the ones reminded. Example: Lo recuerdo bien, "I remember it well".
+
+ex1:
+- Canarias es un destino muy popular para el invierno.
+  en: The Canary Islands are a very popular winter destination.
+- El Teide es la montaña más alta de España.
+  en: The Teide is the highest mountain in Spain.
+- Mis abuelos emigraron a Venezuela cuando eran jóvenes.
+  en: My grandparents emigrated to Venezuela when they were young.
+- Cenamos papas arrugadas con mojo verde.
+  en: We had papas arrugadas with green mojo for dinner.
+- Mi madre se llama Carmen y vive en Tenerife.
+  en: My mother is called Carmen and lives in Tenerife.
+
+ex2:
+- El volcán [entró] en erupción de madrugada.
+  en: The volcano erupted in the early hours.
+- El avión [hizo] escala en Lisboa.
+  en: The plane stopped over in Lisbon.
+- En Canarias el autobús se llama [guagua].
+  en: In the Canaries the bus is called a guagua.
+- Lo [recuerdo] bien.
+  en: I remember it well.
+- Me [sabe] bien el café.
+  en: The coffee tastes good to me.
+
+== 31 B2
+numeral: Lección treinta y una
+title: La abuela de las fórmulas
+title.en: The grandmother of set phrases
+
+dialogue:
+- La abuela tiene una frase fija para cada ocasión, y casi nunca usa sus propias palabras.
+  en: Grandmother has a set phrase for every occasion, and almost never uses her own words.
+- Cuando alguien se sienta a comer, dice ¡Que aproveche!, aunque la comida todavía esté en la cocina.
+  en: When someone sits down to eat, she says ¡Que aproveche!, even though the food is still in the kitchen.
+- Cuando alguien se va de viaje, le dice ¡Que te vaya bien!
+  en: When someone goes away on a trip, she says ¡Que te vaya bien!
+- Cuando alguien dice que mañana hará sol, responde ¡Así sea!
+  en: When someone says that tomorrow will be sunny, she answers ¡Así sea!
+- Cuando alguien se equivoca de hora, exclama ¡Válgame Dios!
+  en: When someone gets the time wrong, she exclaims ¡Válgame Dios!
+- Cuando algo sale mal, suspira ¡Vaya por Dios!
+  en: When something goes wrong, she sighs ¡Vaya por Dios!
+- Cuando algo no tiene remedio, dice: sea como sea.
+  en: When something cannot be helped, she says: sea como sea.
+- Cuando alguien rompe un plato, dice: que en paz descanse.
+  en: When someone breaks a plate, she says: que en paz descanse.
+- Su familia la imita a sus espaldas, y los nietos repiten sus frases con voz de abuela.
+  en: Her family imitates her behind her back, and the grandchildren repeat her phrases in a grandmother's voice.
+- Los domingos ensayan delante del espejo, y apuestan a ver quién la imita mejor.
+  en: On Sundays they rehearse in front of the mirror, and bet on who imitates her best.
+- El mayor dice ¡Válgame Dios! con las manos en la cara, y el pequeño se ríe tanto que se cae de la silla.
+  en: The eldest says ¡Válgame Dios! with his hands over his face, and the little one laughs so much that he falls off his chair.
+- Ella lo oye todo desde la cocina, y no dice nada.
+  en: She hears all of it from the kitchen, and says nothing.
+- Ellos siguen riéndose, y ella sigue con sus frases, como si no pasara nada.
+  en: They keep on laughing, and she goes on with her phrases, as if nothing had happened.
+- Un día se resfría ella, y en plena comida estornuda sin parar.
+  en: One day she catches a cold, and in the middle of lunch she sneezes non-stop.
+- La familia la mira en silencio, esperando la frase de siempre.
+  en: The family looks at her in silence, waiting for the usual phrase.
+- Pero ella no dice nada, y sigue estornudando.
+  en: But she says nothing, and goes on sneezing.
+- Al tercer estornudo, el nieto pequeño ya no aguanta y se ríe.
+  en: At the third sneeze, the little grandson can't hold on any longer and laughs.
+- Toda la familia le contesta a coro: ¡Jesús! Y ella, por una vez, solo dice: ¡Amén!
+  en: The whole family answers her in chorus: ¡Jesús! And she, for once, says only: ¡Amén!
+
+notes.en:
+1. frase fija (sentence 1): a set phrase, the same words each time. Example: Tiene una frase fija para despedirse, "he has a set phrase for saying goodbye".
+2. ¡Que aproveche! (sentence 2): said before a meal, and que with the subjunctive makes a wish (Foundation, lesson 90). Aproveche is the subjunctive of aprovechar. Aunque takes the subjunctive when the speaker does not state the fact as true, as with la comida todavía esté (Foundation, lesson 75). Example: ¡Que aproveche, que la sopa está buena!, "enjoy your soup, it's good!" (to a friend).
+3. ¡Que te vaya bien! (sentence 3): que with the subjunctive, for a wish to someone who is leaving. Vaya is the subjunctive of ir. Example: ¡Que te lo pases bien en Sevilla!, "enjoy yourself in Seville!" (to a friend).
+4. ¡Así sea! (sentence 4): so be it, a wish that someone answers with the subjunctive of ser. It is the same kind of wish as ojalá (Foundation, lesson 51). Example: Ojalá llegue a tiempo, "I hope he gets there on time".
+5. ¡Válgame Dios! (sentence 5): an exclamation of surprise, from the subjunctive of valer, valga, with the pronoun me joined on: válgame. Example: ¡Válgame, qué calor!, "good heavens, how hot it is!".
+6. ¡Vaya por Dios! (sentence 6): vaya comes from ir and is a frozen subjunctive. The same is true of ¡Vaya!, ¡Venga! and ¡Viva!, which each keep an old subjunctive form and no longer change. Example: ¡Vaya, qué lástima!, "oh, what a pity!".
+7. sea como sea (sentence 7): be that as it may. Sea is the subjunctive of ser, and English has the same fossils: long live the King, God save the King, be that as it may. Example: Sea como sea, lo hacemos hoy, "be that as it may, we'll do it today".
+8. que en paz descanse (sentence 8): the phrase is said for someone who has died, and in English it is may he rest in peace. Example: Que en paz descanse, "may he rest in peace".
+9. a sus espaldas (sentence 9): literally at his or her back, so behind someone's back. Example: Lo dijo a mis espaldas, "he said it behind my back".
+10. a coro (sentence 18): in chorus, all saying the same thing at once. Example: Cantaron a coro, "they sang in chorus".
+11. ¡Jesús! (sentence 18): the word the family says to someone who has just sneezed, as Foundation, lesson 90, explains.
+12. Amén (sentence 18): the word that ends a prayer, and English uses it in the same way.
+13. por una vez (sentence 18): for once, this one time. Example: Por una vez, tú tienes razón, "for once, you are right".
+
+ex1:
+- Ojalá llegue el tren a tiempo.
+  en: I hope the train gets in on time.
+- ¡Que te lo pases bien en Sevilla!
+  en: Enjoy yourself in Seville! (to a friend)
+- Sea como sea, lo haremos hoy.
+  en: Be that as it may, we'll do it today.
+- Lo dijo a mis espaldas, sin que yo lo oyera.
+  en: He said it behind my back, without my hearing it.
+- Que en paz descanse.
+  en: May he rest in peace.
+
+ex2:
+- ¡[Vaya] por Dios! Se nos ha olvidado el paraguas.
+  en: Oh dear! We've forgotten the umbrella.
+- Mañana hará sol: ¡[Así] sea!
+  en: Tomorrow will be sunny: so be it!
+- Toda la clase contestó [a] coro.
+  en: The whole class answered in chorus.
+- Lo dijo a [mis] espaldas.
+  en: He said it behind my back.
+- ¡[Válgame] Dios, qué susto!
+  en: Good heavens, what a fright!
+
+== 32 B2
+numeral: Lección treinta y dos
+title: Federico García Lorca
+title.en: Federico García Lorca
+
+dialogue:
+- Federico García Lorca nació en Fuente Vaqueros, cerca de Granada, en 1898.
+  en: Federico García Lorca was born in Fuente Vaqueros, near Granada, in 1898.
+- De niño estudió música, y durante años pensaba que iba a ser músico antes que poeta.
+  en: As a boy he studied music, and for years he thought he would be a musician before he was a poet.
+- En Madrid vivió en la Residencia de Estudiantes, donde conoció a Dalí y a Buñuel.
+  en: In Madrid he lived at the Residencia de Estudiantes, where he met Dalí and Buñuel.
+- Allí trabó amistad con una generación de jóvenes escritores y artistas.
+  en: There he made friends with a generation of young writers and artists.
+- En 1928 publicó el Romancero gitano, un libro de romances que lo hizo famoso.
+  en: In 1928 he published the Romancero gitano, a book of romances that made him famous.
+- De 1929 a 1930 vivió en Nueva York, y de esa estancia salió Poeta en Nueva York.
+  en: From 1929 to 1930 he lived in New York, and Poeta en Nueva York came out of that stay.
+- Ese libro se publicó después de su muerte, y es muy distinto de sus romances.
+  en: That book was published after his death, and it is very different from his romances.
+- En los años treinta dirigió La Barraca, un grupo de teatro estudiantil que llevaba los clásicos a los pueblos.
+  en: In the thirties he directed La Barraca, a student theatre group that took the classics to the villages.
+- Sus funciones se hacían en plazas de pueblos, lejos de los teatros de las ciudades.
+  en: Its performances were given in village squares, far from the theatres of the cities.
+- Entre sus obras de teatro están Bodas de sangre, Yerma y La casa de Bernarda Alba.
+  en: Among his plays are Bodas de sangre, Yerma and La casa de Bernarda Alba.
+- La casa de Bernarda Alba se escribió en 1936, el año de su muerte.
+  en: La casa de Bernarda Alba was written in 1936, the year of his death.
+- En agosto de 1936, cerca de Granada, fue fusilado al principio de la guerra civil.
+  en: In August 1936, near Granada, he was shot at the start of the Civil War.
+- Su cuerpo nunca se encontró.
+  en: His body was never found.
+- Hoy su obra se lee en todo el mundo hispanohablante, y sus poemas se aprenden en los colegios.
+  en: Today his work is read across the whole Spanish-speaking world, and his poems are learnt in schools.
+- Sus versos están llenos de colores: el verde, el negro y el blanco aparecen una y otra vez.
+  en: His verses are full of colours: green, black and white appear again and again.
+- En el habla de todos los días, los colores también forman expresiones: verlo todo negro, quedarse en blanco, ponerse morado.
+  en: In everyday speech, colours also make expressions: verlo todo negro, quedarse en blanco, ponerse morado.
+- Su verso más famoso empieza con las palabras verde que te quiero verde.
+  en: His most famous line begins with the words verde que te quiero verde.
+- Pero cuidado: en la conversación, poner verde a alguien significa criticarlo sin piedad, y no tiene nada que ver con el amor.
+  en: But be careful: in conversation, poner verde a alguien means to criticise someone without mercy, and has nothing to do with love.
+
+notes.en:
+1. nació (sentence 1): the preterite for a birth, a single event that is over. Example: Nací en un pueblo cerca del mar, "I was born in a village near the sea".
+2. pensaba que iba a ser (sentence 2): the imperfect for a thought held over a period, and iba a ser is the plan he had then, "was going to be". Example: Pensaba que iba a ser médico, hasta que descubrí los idiomas, "I used to think I would be a doctor, until I discovered languages".
+3. la Residencia de Estudiantes (sentence 3): a student residence in Madrid, where Dalí and Buñuel also studied. Example: Vivía en una residencia de estudiantes, "he lived in a student residence".
+4. trabó amistad (sentence 4): trabar amistad is a formal way to say make friends. Example: Trabé amistad con mis vecinos, "I made friends with my neighbours".
+5. romances (sentence 5): a romance is a Spanish verse form of the ballad kind, with lines of eight syllables and assonance on the even lines. The same word is used for a love affair. Example: Vivieron un romance de juventud, "they had a youthful romance".
+6. salió (sentence 6): salir de means to come out of, here a book coming out of a stay abroad. Example: De esa idea salió un proyecto, "a project came out of that idea".
+7. dirigió La Barraca (sentence 8): dirigir means to direct or to lead a group, and La Barraca was a group that performed plays. Example: Dirige el coro del colegio, "he conducts the school choir".
+8. obras de teatro (sentence 10): English keeps the Spanish titles or translates them: Blood Wedding for Bodas de sangre, The House of Bernarda Alba for La casa de Bernarda Alba, and Yerma stays the same.
+9. se escribió (sentence 11): with se and a thing as the subject, the verb agrees with the thing and means was written. Example: Se escribió hace mucho tiempo, "it was written a long time ago".
+10. fue fusilado (sentence 12): ser with a participle for an act, with a date, as in lesson 23. Example: Fue detenido el lunes, "he was arrested on Monday".
+11. llenos de colores (sentence 15): lleno de means full of. Example: La plaza está llena de gente, "the square is full of people".
+12. verlo todo negro, quedarse en blanco, ponerse morado (sentence 16): each idiom keeps its colour. Verlo todo negro is literally to see everything black, and means to see only the bad side. Quedarse en blanco is to go blank, and ponerse morado is to stuff oneself. Example: Después de la cena me puse morado, "after dinner I stuffed myself".
+13. verde que te quiero verde (sentence 17): the first line of the poem Romance sonámbulo, in the Romancero gitano. The line means green, how I love you green.
+14. poner verde a alguien (sentence 18): to criticise someone harshly, as in lesson 25, note 18. Example: Lo puso verde por llegar tarde, "he tore him apart for arriving late".
+
+ex1:
+- Nací en un pueblo cerca del mar.
+  en: I was born in a village near the sea.
+- Pensaba que iba a ser médico, hasta que descubrí los idiomas.
+  en: I used to think I would be a doctor, until I discovered languages.
+- Trabé amistad con mis vecinos el primer año.
+  en: I made friends with my neighbours in the first year.
+- La casa de mis abuelos está llena de libros.
+  en: My grandparents' house is full of books.
+- Se publicó el libro el año pasado, y se vende mucho.
+  en: The book was published last year, and it sells a lot.
+
+ex2:
+- Verlo todo [negro] es ver solo lo malo.
+  en: To see everything black means to look only at the bad side.
+- Cuando le pregunté, se quedó [en] blanco.
+  en: When I asked him, he went blank.
+- Después de la cena me puse [morado].
+  en: After dinner I stuffed myself.
+- Trabé [amistad] con mis vecinos.
+  en: I made friends with my neighbours.
+- El libro se [publicó] después de su muerte.
+  en: The book was published after his death.
+
+== 33 B2
+numeral: Lección treinta y tres
+title: Llevar
+title.en: To carry, to take, to wear
+
+dialogue:
+- Rafa, ¿llevas tú la maleta grande, o la llevo yo?
+  en: Rafa, are you carrying the big case, or shall I?
+- La llevo yo, y tú llevas el bolso, que es más pesado.
+  en: I'll carry it, and you take the bag, which is heavier.
+- Siempre me llevas la contraria. El bolso no pesa nada.
+  en: You always contradict me. The bag isn't heavy at all.
+- ¿Y el hotel? ¿Lo has reservado ya, el de la playa?
+  en: And the hotel? Have you booked it yet, the one on the beach?
+- Sí, y me llevo bien con el recepcionista, que nos ha dado una habitación con vistas.
+  en: Yes, and I get on well with the receptionist, who has given us a room with a view.
+- Tú te llevas bien con todo el mundo. Yo, en cambio, me llevo mal con los aviones.
+  en: You get on with everybody. I, on the other hand, don't get on with planes.
+- Tú llevas la cuenta de los días que faltan para la playa, y eso ya es una manía.
+  en: You keep count of the days until the beach, and that's becoming a habit.
+- Y tú llevas siete maletas: con tanto equipaje, llevas las de perder.
+  en: And you are taking seven suitcases: with so much luggage, you are bound to lose.
+- Cada vez que cierro la maleta me llevo un susto.
+  en: Every time I close the case, I get a fright.
+- Ayer te llevaste un chasco con el precio del hotel, y no dijiste nada.
+  en: Yesterday you were let down by the price of the hotel, and you said nothing.
+- Vale, en eso llevas razón: el hotel es caro.
+  en: All right, you're right on that: the hotel is expensive.
+- Este año se lleva el amarillo, así que llévate la camiseta amarilla.
+  en: This year yellow is in fashion, so wear the yellow T-shirt.
+- ¿Me traes el protector solar del baño?
+  en: Can you bring me the sun cream from the bathroom?
+- Te lo traigo, y luego voy yo al coche a llevar el resto. ¿Vienes?
+  en: I'll bring it to you, and then I'll go to the car to take the rest. Are you coming?
+- Llevo dos horas esperando, y tú todavía no has decidido si tomamos el café aquí o para llevar.
+  en: I've been waiting two hours, and you still haven't decided whether we have coffee here or take it away.
+- ¿Y cuántas páginas llevas leídas del libro de la playa?
+  en: And how many pages have you read of the beach book so far?
+- Llevo leídas cien páginas, y todavía no sé quién es el asesino.
+  en: I have read a hundred pages so far, and I still don't know who the murderer is.
+- Llevas los pantalones en esta familia, y lo sabes.
+  en: You wear the trousers in this family, and you know it.
+- Y tú te llevas el gato al agua cada vez que me callo.
+  en: And you get your way every time I keep quiet.
+- Pues llevemos a cabo el plan, y llevemos adelante el viaje sin discutir.
+  en: Then let's carry out the plan, and see the trip through without arguing.
+- ¿Lleva usted algo que declarar?
+  en: Do you have anything to declare?
+- Sí: declaro que mi mujer siempre lleva razón.
+  en: Yes, I'd like to declare that my wife is always right.
+
+notes.en:
+1. llevar (sentence 1): the basic sense is to carry or take something from one place to another, and llevar is the verb for taking a thing away from where the speaker is. Example: Llevo la maleta al coche, "I'm carrying the case to the car".
+2. llevar la contraria (sentence 3): to contradict someone, literally to carry the opposite to them. Example: Nunca le llevo la contraria a mi jefe, "I never contradict my boss".
+3. llevarse bien con (sentence 5): to get on well with someone, with the person after con. Example: Me llevo bien con mis compañeros de trabajo, "I get on well with my colleagues".
+4. llevarse mal con (sentence 6): the opposite, to get on badly with someone or with something. Example: Mi padre se lleva mal con los móviles, "my father doesn't get on with mobile phones".
+5. llevar la cuenta (sentence 7): to keep count of something. Example: Llevo la cuenta de los kilómetros, "I'm keeping count of the kilometres".
+6. llevar las de perder (sentence 8): to be at a disadvantage, to be the one who will lose. Example: Con este equipo llevamos las de perder, "with this team we are in for a losing game".
+7. llevarse un susto (sentence 9): to get a fright. Example: Me llevé un susto con el trueno, "the thunder gave me a fright".
+8. llevarse un chasco (sentence 10): to be let down or disappointed. Example: Nos llevamos un chasco: el museo estaba cerrado, "we were disappointed: the museum was closed".
+9. llevar razón (sentence 11): to be right, literally to carry the reason. Example: Llevas razón, "you're right".
+10. se lleva el amarillo (sentence 12): when something is in fashion, it is worn, and with se the verb agrees with the thing. Example: Este año se llevan los pantalones anchos, "wide trousers are in this year".
+11. traes, traigo (sentence 13): traer means to bring towards the speaker, and llevar takes a thing away from the speaker. Example: ¿Me traes un vaso de agua?, "can you bring me a glass of water?".
+12. voy yo... ¿Vienes? (sentence 14): ir goes away from the speaker, and venir comes towards the speaker or along with them. Example: Voy al cine esta tarde, ¿vienes?, "I'm going to the cinema this afternoon, are you coming?".
+13. llevo dos horas esperando (sentence 15): llevar with a period of time and a gerund says how long something has been going on (Foundation, lesson 62). Example: Llevo tres meses estudiando inglés, "I have been studying English for three months".
+14. para llevar (sentence 15): a takeaway, something taken away instead of eaten in the place. Example: Dos cafés para llevar, por favor, "two coffees to take away, please".
+15. llevo leídas (sentence 17): llevar with a participle says how much of something has been done so far, and the participle agrees with the thing. Example: Llevo escritas cinco páginas, "I have written five pages so far".
+16. llevas los pantalones (sentence 18): to be the one in charge at home. Example: En mi casa lleva los pantalones mi madre, "in my house my mother is in charge".
+17. llevarse el gato al agua (sentence 19): to win through, to get one's way, literally to take the cat to the water. Example: Se llevó el gato al agua con su propuesta, "he got his proposal through".
+18. llevar a cabo (sentence 20): to carry out, to put a plan into action. Example: Vamos a llevar a cabo el proyecto en verano, "we are going to carry out the project in summer".
+19. llevar adelante (sentence 20): to keep something going, to see it through. Example: Llevó adelante la empresa durante años, "he kept the firm going for years".
+20. Expressions of this lesson, with the sentence and the note:
+llevar la contraria (sentence 3, note 2)
+llevarse bien con, llevarse mal con (sentence 5, note 3; sentence 6, note 4)
+llevar la cuenta (sentence 7, note 5)
+llevar las de perder (sentence 8, note 6)
+llevarse un susto (sentence 9, note 7)
+llevarse un chasco (sentence 10, note 8)
+llevar razón (sentence 11, note 9)
+se lleva el amarillo (sentence 12, note 10)
+llevar dos horas esperando (sentence 15, note 13)
+para llevar (sentence 15, note 14)
+llevar leídas (sentence 17, note 15)
+llevar los pantalones (sentence 18, note 16)
+llevarse el gato al agua (sentence 19, note 17)
+llevar a cabo (sentence 20, note 18)
+llevar adelante (sentence 20, note 19)
+
+ex1:
+- Llevo la bolsa al mercado todos los sábados.
+  en: I take the bag to the market every Saturday.
+- Nunca le llevo la contraria a mi madre.
+  en: I never contradict my mother.
+- Me llevo bien con los vecinos del segundo.
+  en: I get on well with the neighbours on the second floor.
+- Llevas razón: el tren sale a las ocho.
+  en: You're right: the train leaves at eight. (to a friend)
+- Este verano se llevan los sombreros de paja.
+  en: Straw hats are in fashion this summer.
+
+ex2:
+- Nos llevamos un [chasco] con la entrada: estaba cerrada.
+  en: We were let down: the entrance was closed.
+- ¿Me [traes] el libro de la mesa, por favor?
+  en: Can you bring me the book from the table, please? (to a friend)
+- Llevo tres semanas [esperando] la respuesta.
+  en: I have been waiting for the reply for three weeks.
+- Dos cafés [para] llevar, por favor.
+  en: Two coffees to take away, please.
+- Este año [llevo] la cuenta de mis gastos.
+  en: This year I'm keeping count of my spending.
+
+== 34 B2
+numeral: Lección treinta y cuatro
+title: Sobremesa
+title.en: After lunch
+
+dialogue:
+- Se acabó ya la comida,
+  en: The meal is over now,
+- pero nadie se levanta;
+  en: but nobody gets up;
+- llega el café con la copa
+  en: the coffee comes with the glass
+- y el licor de la montaña.
+  en: and the liqueur from the mountains.
+- Cada cual cuenta su parte,
+  en: Each one tells their part,
+- el primo saca la tarta,
+  en: the cousin brings out the cake,
+- la tía habla de política
+  en: the aunt talks about politics
+- y el abuelo no se calla.
+  en: and grandad will not be quiet.
+- Las horas pasan sin ruido,
+  en: The hours pass without a sound,
+- nadie mira la ventana,
+  en: nobody looks at the window,
+- el café se queda frío
+  en: the coffee goes cold
+- y la charla ya se alarga.
+  en: and the talk goes on and on.
+- Ya se ha dormido el abuelo
+  en: Grandad has fallen asleep by now
+- en el sofá de la sala,
+  en: on the sofa in the sitting room,
+- y nadie quiere decirlo:
+  en: and nobody wants to say it:
+- la sobremesa no acaba.
+  en: the sobremesa does not end.
+- La sobremesa terminó a las nueve, justo a tiempo para cenar, y el abuelo juró que no se había dormido.
+  en: The sobremesa ended at nine, just in time for dinner, and grandad swore he had not been asleep.
+
+notes.en:
+1. Se acabó ya la comida (line 1): the verse has eight syllables. Se and a meet, and vowel to vowel they make one syllable, so the line is sea-ca-bó-ya-la-co-mi-da. This join is called sinalefa.
+2. sinalefa (line 12): the same join happens in ya se alarga, where se and a form one syllable, sea-lar-ga. Example: Ya se acaba, "it's ending now" (the same join, se acaba).
+3. assonance (the even lines, 2 to 16): the even lines share only the stressed vowel and the last vowel, so levanta, montaña, tarta, calla, ventana, alarga, sala and acaba all have á and a. A full rhyme would also need the same consonants after the vowel, and this poem does not do that. The odd lines are free.
+4. the last-stress rule (line 7): a line ending on a word stressed on the second-to-last syllable counts as it is written; one ending on a word stressed on the last syllable counts one more, and one ending on an esdrújula counts one less. La tía habla de política has nine syllables as written and ends on política, so it counts eight.
+5. diphthongs (lines 5 and 9): ie, ua, ue and ui count as one syllable in verse. So cual in cada cual is one, and so is rui in ruido. Frío in line 11 is different: the stress is on the í, so the two vowels are two syllables, frí-o.
+6. la tía habla (line 7): tía is two syllables, tí-a, but its last a joins the a of habla, whose h is silent: tí-a_ha-bla.
+7. y el abuelo (line 8): three words, and in verse three vowels meeting can join into one sound: ye-la-bue-lo. The line counts eight.
+8. la sobremesa no acaba (line 16): the sobremesa is the time spent at the table talking after a meal, often longer than the meal itself. No and acaba join: no_a-ca-ba.
+9. Ya se ha dormido el abuelo (line 13): the h of ha is silent, so se and ha join into one syllable, and so do the o of dormido and the e of el.
+10. La sobremesa terminó a las nueve (line 17): this line is prose, not verse, so it has no fixed count. It closes the poem plainly, with the time and grandad's denial.
+
+ex1:
+- Nos quedamos de sobremesa hasta las nueve, hablando de todo.
+  en: We stayed at the table after lunch until nine, talking about everything.
+- ¿Tomamos un café o un licor de hierbas?
+  en: Shall we have a coffee or a herbal liqueur? (to a friend)
+- Ya no nos acordamos de la última discusión.
+  en: We no longer remember the last argument.
+- Mi tía trae la tarta cada domingo.
+  en: My aunt brings the cake every Sunday.
+- Se ha dormido en el sofá después de comer.
+  en: He has fallen asleep on the sofa after lunch.
+
+ex2:
+- Ya [se] acabó el café, ¿nos vamos?
+  en: The coffee is finished, shall we go? (to a friend)
+- Los niños [se] han dormido en el sofá.
+  en: The children have fallen asleep on the sofa.
+- Nos quedamos de sobremesa [hasta] las nueve.
+  en: We stayed at the table after lunch until nine.
+- Él siempre [lleva] la cuenta de las copas.
+  en: He always keeps count of the glasses.
+- No [me] gusta el licor de hierbas.
+  en: I don't like herbal liqueur.
+
+== 35 B2
+kind: revision
+numeral: Lección treinta y cinco
+title: Repaso y matices
+title.en: Revision and finer points
+
+notes.en:
+The fifth week of this course is finished. Nothing here needs learning by heart: the tables put in order what you have read in lessons 29 to 34, and those texts are your store of examples.
+If a point still feels unclear, go back to the example line in its lesson and read it aloud; it will be clearer each time. Then do the ten exercises at the end.
+1. tú and usted (lesson 29): who gets which form, and what goes with it in the verb, the pronoun and the possessive.
+| Who | What it does | Example from the week | In English |
+|---|---|---|---|
+| tú | friends, family, young people; the verb takes its own form, and the pronoun is te | Tutéame, Tom. (lesson 29) | Use tú, Tom. |
+| tú, a command | the tú command, with the pronoun joined on the end | Siéntate, que estás en tu casa. (lesson 29) | Sit down, make yourself at home. |
+| usted | older people, formal service, a distance; the verb takes the third person | Qué piso tan bonito tiene usted. (lesson 29) | What a lovely flat you have. |
+| usted, the object | the pronoun for usted is le, not te | ¿Le ayudo con la mesa, Carmen? (lesson 29) | Shall I help with the table, Carmen? |
+| usted, the possessive | su, not tu | Soy muy contento de estar aquí con su familia. (lesson 29) | I am very happy to be here with your family. |
+Spanish decides between tú and usted by the speaker and the relationship. English has one word, you, so the choice has to be made in Spanish, and the verb form tells the listener what was chosen.
+2. The subjunctive in fixed formulas (lesson 31): wishes and exclamations that keep their old form.
+| Formula | What it does | Example from the week | In English |
+|---|---|---|---|
+| ¡Que aproveche! | a wish before a meal | dice ¡Que aproveche! (lesson 31) | enjoy your meal |
+| ¡Que te vaya bien! | a wish to someone who goes away | ¡Que te vaya bien! (lesson 31) | have a good trip |
+| ¡Así sea! | so be it, an answer to a wish | responde ¡Así sea! (lesson 31) | so be it |
+| sea como sea | whatever happens, what cannot be helped | dice: sea como sea. (lesson 31) | be that as it may |
+| ¡Vaya por Dios! | oh dear | suspira ¡Vaya por Dios! (lesson 31) | oh dear |
+| que en paz descanse | said for someone who has died | dice: que en paz descanse. (lesson 31) | may he rest in peace |
+| ¡Válgame Dios! | a sudden exclamation | exclama ¡Válgame Dios! (lesson 31) | good heavens |
+English keeps its own fossils of the same kind: long live the King, God save the King, be that as it may, heaven forbid. The wish with que is the one Foundation taught in lesson 90, and ojalá (Foundation, lesson 51) is the same kind of wish.
+3. llevar, traer, ir and venir (lesson 33): the verb depends on where the speaker is.
+| Verb | Movement from where the speaker is | Example from the week | In English |
+|---|---|---|---|
+| llevar | away from the speaker, to a place somewhere else | voy yo al coche a llevar el resto (lesson 33) | I'll go to the car to take the rest |
+| traer | towards the speaker, to bring a thing here | ¿Me traes el protector solar del baño? (lesson 33) | Can you bring me the sun cream from the bathroom? |
+| ir | away from the speaker | voy yo al coche (lesson 33) | I'll go to the car |
+| venir | towards the speaker, or along with them | ¿Vienes? (lesson 33) | Are you coming? |
+Check where you are standing before you choose: if the thing or the person is going to you, traer and venir; if it is going away from you, llevar and ir.
+4. The romance and the colours (lessons 32 and 34): counting the syllables of a line, and colours in idioms.
+| Point | What it does | Example from the week | In English |
+|---|---|---|---|
+| sinalefa | the last vowel of one word and the first of the next make one syllable | Se acabó ya la comida, (lesson 34) | At last the meal is over. |
+| sinalefa with a silent h | se and ha join in one syllable | Ya se ha dormido el abuelo (lesson 34) | grandad has fallen asleep by now |
+| assonance | the even lines share only the stressed vowel and the last vowel | pero nadie se levanta; and y el licor de la montaña. (lesson 34) | levanta and montaña both end in á and a |
+| last stress | a line ending on a word stressed on the second-to-last syllable counts as it is written | pero nadie se levanta. (lesson 34) | but nobody gets up |
+| verlo todo negro | to see only the bad side | verlo todo negro (lesson 32) | to see everything black |
+| quedarse en blanco | to go blank | quedarse en blanco (lesson 32) | to go blank |
+| ponerse morado | to stuff oneself | ponerse morado (lesson 32) | to stuff oneself |
+| poner verde a alguien | to criticise someone harshly | poner verde a alguien significa criticarlo sin piedad (lesson 32) | to criticise someone without mercy |
+| verde que te quiero verde | the first line of Romance sonámbulo, by Lorca | Su verso más famoso empieza con las palabras verde que te quiero verde. (lesson 32) | green, how I love you green |
+Poetic lines hold the same grammar as prose: a subject can be left out, as in se ha dormido en la sala, when the reader can supply it.
+5. The llevar family (lesson 33): the idioms that carry the meaning of llevar.
+| Idiom | What it does | Example from the week | In English |
+|---|---|---|---|
+| llevar la contraria | to contradict | Siempre me llevas la contraria. (lesson 33) | You always contradict me. |
+| llevarse bien con | to get on well with | me llevo bien con el recepcionista (lesson 33) | I get on well with the receptionist. |
+| llevar razón | to be right | en eso llevas razón (lesson 33) | you're right on that |
+| llevar la cuenta | to keep count of | Tú llevas la cuenta de los días que faltan (lesson 33) | You keep count of the days until the beach. |
+| llevar las de perder | to be at a disadvantage | así llevas las de perder (lesson 33) | so you are at a disadvantage |
+| llevarse un susto | to get a fright | Cada vez que cierro la maleta me llevo un susto. (lesson 33) | Every time I close the case, I get a fright. |
+| llevarse un chasco | to be let down | te llevaste un chasco (lesson 33) | you were let down |
+| llevar los pantalones | to be in charge | Llevas los pantalones en esta familia (lesson 33) | You wear the trousers in this family. |
+| llevar a cabo | to carry out | llevemos a cabo el plan (lesson 33) | let's carry out the plan |
+| llevarse el gato al agua | to get one's way | te llevas el gato al agua (lesson 33) | you get your way |
+| para llevar | to take away | si tomamos el café aquí o para llevar (lesson 33) | whether we have coffee here or take it away |
+| llevar + participle | how far something has got | Llevo leídas cien páginas (lesson 33) | I have read a hundred pages so far. |
+
+Practice. Ten sentences, five to translate and five to fill in.
+
+ex1:
+- ¿Me traes la chaqueta del armario, por favor?
+  en: Can you bring me the jacket from the wardrobe, please? (to a friend)
+- Mi suegra sigue tratándome de usted, aunque ya somos amigos.
+  en: My mother-in-law still uses usted with me, although we are friends now.
+- ¡Que te vaya bien en el examen!
+  en: Good luck in the exam! (to a friend)
+- Ojalá llueva mañana, que el campo lo necesita.
+  en: I hope it rains tomorrow, the countryside needs it.
+- Me llevo mal con el frío, pero me encanta el verano.
+  en: I don't get on with the cold, but I love summer.
+
+ex2:
+- [Tutéame], por favor, que no somos extraños.
+  en: Please use tú with me, we are not strangers.
+- Te lo [traigo] ahora mismo.
+  en: I'll bring it to you right now.
+- Cada vez que cierro la maleta [me] llevo un susto.
+  en: Every time I close the case I get a fright.
+- [¡Vaya] por Dios, se nos ha roto la copa.
+  en: Oh dear, we've broken the glass.
+- Hemos [llevado] a cabo el plan.
+  en: We have carried out the plan.

@@ -3635,3 +3635,281 @@ ex2:
   en: I had a bad time at the dentist's.
 - Me [paso] el día leyendo.
   en: I spend the whole day reading.
+
+== 43 B2
+numeral: Lección cuarenta y tres
+title: El Río de la Plata
+title.en: The River Plate
+
+dialogue:
+- El Río de la Plata es un estuario tan ancho que parece un mar.
+  en: The River Plate is an estuary so wide that it looks like a sea.
+- En sus dos orillas están dos capitales: Buenos Aires, la de Argentina, y Montevideo, la de Uruguay.
+  en: On its two shores stand two capitals: Buenos Aires, the capital of Argentina, and Montevideo, the capital of Uruguay.
+- Las separa el agua, pero comparten mucho: el idioma, el tango y la costumbre del mate.
+  en: The water divides them, but they share a great deal: the language, the tango and the habit of mate.
+- A finales del siglo XIX y comienzos del XX llegaron allí muchísimos inmigrantes, sobre todo de Italia y de España.
+  en: At the end of the nineteenth century and the start of the twentieth, a great many immigrants arrived there, above all from Italy and Spain.
+- Muchos trajeron su manera de hablar, y el lunfardo, la jerga popular de Buenos Aires, tiene palabras de origen italiano.
+  en: Many brought their own way of speaking, and lunfardo, the popular slang of Buenos Aires, has many words of Italian origin.
+- Así, en Buenos Aires el trabajo se llama laburo, y a un chaval le dicen pibe.
+  en: So in Buenos Aires work is called laburo, and a lad is called a pibe.
+- La despedida es chau, que viene del italiano ciao; en España decimos adiós o hasta luego.
+  en: The goodbye is chau, which comes from the Italian ciao; in Spain we say adiós or hasta luego.
+- Los argentinos y los uruguayos usan el voseo: en vez de tú dicen vos, y con vos cambia el verbo.
+  en: Argentines and Uruguayans use the voseo: instead of tú they say vos, and the verb changes with it.
+- Dicen vos sos, vos tenés y vos vivís, donde en España decimos tú eres, tú tienes y tú vives.
+  en: They say vos sos, vos tenés and vos vivís, where in Spain we say tú eres, tú tienes and tú vives.
+- En el imperativo, la diferencia se oye más: vos hablá, tené, viví, donde en España se dice habla, ten, vive.
+  en: In the command form the difference is clearer: vos hablá, tené, viví, where in Spain we say habla, ten, vive.
+- Con vos, el pronombre te no cambia: vos te llamás, igual que tú te llamas, y el posesivo sigue siendo tu casa.
+  en: With vos the pronoun te does not change: vos te llamás, as tú te llamas, and the possessive is still tu casa.
+- El mate se toma en una calabaza, con una bombilla de metal, y se pasa de mano en mano.
+  en: Mate is drunk from a gourd, through a metal straw, and passed from hand to hand.
+- El asado es, sobre todo, una reunión de amigos alrededor de la parrilla, mucho más que una comida.
+  en: The asado is, above all, a gathering of friends around the grill, much more than a meal.
+- De postre, el dulce de leche, una crema de leche y azúcar cocidas hasta que se dora, está presente en muchas casas.
+  en: For dessert, dulce de leche, milk and sugar cooked until they turn golden, is found in many homes.
+- El tango nació en los barrios portuarios de las dos orillas, y los dos países lo sienten como propio.
+  en: Tango was born in the port districts on both shores, and both countries feel it as their own.
+- A un grupo de amigos le dicen ustedes, donde en España decimos vosotros.
+  en: To a group of friends they say ustedes, where in Spain we say vosotros.
+- En Buenos Aires la ye de yo y la elle de llamo suenan como una s suave, muy distinta de como se dice en Madrid.
+  en: In Buenos Aires the y of yo and the ll of llamo sound like a soft s, very unlike the way it is said in Madrid.
+- La última palabra es che, con la que se llama a alguien en Argentina, y que dio a Ernesto Guevara, argentino, su apodo: el Che.
+  en: The last word is che, the way of addressing someone in Argentina, and the word that gave Ernesto Guevara, an Argentine, his nickname: el Che.
+
+notes.en:
+1. Río de la Plata (sentence 1): the estuary is the wide mouth where a river meets the sea. In English it is the River Plate. Example: El Ebro desemboca en el Mediterráneo, "the Ebro flows into the Mediterranean".
+2. la de Argentina, la de Uruguay (sentence 2): la de means "the one of", and it stands for capital, which has already been said. Example: Mi casa es más grande que la de mi hermana, "my house is bigger than my sister's".
+3. a finales del siglo XIX, comienzos del XX (sentence 4): a finales de means at the end of, and comienzos de means at the start of, so a century is named as the end of one and the start of the next. Example: Te pago a finales del mes, "I'll pay you at the end of the month".
+4. lunfardo (sentence 5): the slang of Buenos Aires, with many words brought in by Italian immigrants. Example: Hay mucho lunfardo en las letras de los tangos, "there is a lot of lunfardo in the lyrics of the tangos".
+5. laburo, pibe (sentence 6): both are lunfardo. Laburo comes from Italian lavoro and means work, where Spain says trabajo; pibe means a lad. Examples: Hoy no tengo laburo, "I have no work today"; Ese pibe juega muy bien al fútbol, "that lad plays football very well" (both in Argentina).
+6. chau (sentence 7): from Italian ciao, the goodbye in Argentina and Uruguay. In Spain we say adiós or hasta luego. Example: Chau, nos vemos el jueves, "bye, see you on Thursday" (in Argentina).
+7. voseo (sentences 8 and 9): vos is used for tú in Argentina and Uruguay, and in parts of Central America, though not always with the same forms. Present: vos sos, vos tenés, vos vivís, where Spain says tú eres, tú tienes, tú vives. Example: ¿Vos tenés hambre?, "are you hungry?" (in Argentina).
+8. vos hablá, tené, viví (sentence 10): the command form of vos keeps the stress on the last syllable, so the accent is written. Spain says habla, ten, vive. Example: Vení acá, "come here" (in Argentina).
+9. vos te llamás, tu casa (sentence 11): the pronoun te and the possessive tu do not change with vos; only the verb changes. Example: ¿Cómo te llamás?, "what is your name?" (in Argentina).
+10. ye and elle (sentence 17): in Buenos Aires the y of yo and the ll of llamo sound like the s of pleasure, or close to it. In most of Spain, Madrid included, they sound like the y of yes. Example: Yo llamo mañana, "I'll ring tomorrow" (in Buenos Aires the y sounds soft).
+11. mate (sentence 12): a herb drink, yerba mate, taken from a gourd through a bombilla, a metal straw, and passed round the group. Example: Tomamos mate después de comer, "we drink mate after lunch" (in Argentina).
+12. asado (sentence 13): in Spain an asado is a roast. In Argentina and Uruguay it is a barbecue and the gathering around it. Example: Hacemos un asado el domingo, "we are having a barbecue on Sunday" (in Argentina).
+13. dulce de leche (sentence 14): milk and sugar cooked slowly until golden, eaten on bread, in cakes or with a spoon. Example: Me encanta el dulce de leche, "I love dulce de leche".
+14. ustedes (sentence 16): the plural you of Argentina and Uruguay, where Spain uses vosotros with friends. The grammar is explained in Foundation, lesson 93, and in this course, lesson 37, note 13.
+15. el Che (last line): che is the word of address in Argentina, and it is the nickname of Ernesto Guevara, who was born in Rosario in 1928. Example: Che, ¿me das una mano?, "hey, can you give me a hand?" (in Argentina).
+
+ex1:
+- En el puerto de Montevideo hay barcos de todo el mundo.
+  en: In the port of Montevideo there are ships from all over the world.
+- Mi abuelo viajó a Montevideo cuando era joven.
+  en: My grandfather travelled to Montevideo when he was young.
+- El asado de la fiesta del pueblo es para cien personas.
+  en: The asado at the village festival is for a hundred people.
+- Mi amigo argentino dice chau al despedirse, en vez de adiós.
+  en: My Argentine friend says chau when he leaves, instead of adiós.
+- A mi abuela le encanta el dulce de leche.
+  en: My grandmother loves dulce de leche.
+
+ex2:
+- El mate se toma con una [bombilla] de metal.
+  en: Mate is drunk through a metal straw.
+- Muchos inmigrantes llegaron de [Italia] y de España.
+  en: Many immigrants came from Italy and from Spain.
+- En Buenos Aires, el trabajo se llama [laburo].
+  en: In Buenos Aires, work is called laburo.
+- El mate se [pasa] de mano en mano.
+  en: Mate is passed from hand to hand.
+- A finales del siglo XIX, [llegaron] muchos italianos a Buenos Aires.
+  en: At the end of the nineteenth century, many Italians arrived in Buenos Aires.
+
+== 44 B2
+numeral: Lección cuarenta y cuatro
+title: La caja del tiempo
+title.en: The time capsule
+
+dialogue:
+- En 1995, la clase de niños de diez años de un colegio de un pueblo de Castilla enterró una caja de metal en el patio.
+  en: In 1995 the class of ten-year-olds at a village school in Castile buried a metal box in the playground.
+- La maestra, doña Elena, pidió a cada niño que escribiera una carta para sí mismo, para leerla dentro de treinta años.
+  en: Their teacher, doña Elena, asked each child to write a letter to themselves, to be read thirty years later.
+- Nacho escribió que sería astronauta y que vería la Tierra desde la Luna.
+  en: Nacho wrote that he would be an astronaut and would see the Earth from the Moon.
+- Marisa, que se sabía de memoria la alineación de todos los equipos, iba a ser futbolista de primera división.
+  en: Marisa, who knew every team's line-up by heart, was going to be a footballer in the top division.
+- Begoña escribió que sería actriz de cine y que algún día ganaría un Goya.
+  en: Begoña wrote that she would be a film actress and would one day win a Goya.
+- Álvaro escribió que sería cantante.
+  en: Álvaro wrote that he would be a singer.
+- Teo, el más callado, escribió una sola frase: «Yo seré el que organice la reunión para abrir esta caja».
+  en: Teo, the quietest of them, wrote a single sentence: «I will be the one who organises the meeting to open this box».
+- Pasaron los años, el colegio se quedó casi vacío y la caja siguió enterrada en el patio, olvidada por todos.
+  en: The years went by, the school was nearly empty, and the box stayed buried in the playground, forgotten by everyone.
+- En 2025, Teo convocó a sus antiguos compañeros en el pueblo, y todos acudieron, aunque ninguno se acordaba de la caja.
+  en: In 2025 Teo invited his old classmates to a meeting in the village, and they all came, though none of them remembered the box.
+- Nacho llegó con traje: trabajaba en una constructora y nunca había visto la Tierra desde la Luna.
+  en: Nacho arrived in a suit: he worked for a building firm and had never seen the Earth from the Moon.
+- Marisa, que iba a ser futbolista, acabó siendo profesora de educación física y ahora entrena al equipo del colegio.
+  en: Marisa, who was going to be a footballer, ended up as a PE teacher and now coaches the school team.
+- Begoña estuvo a punto de entrar en una escuela de teatro, pero se quedó en la tienda de muebles de su padre.
+  en: Begoña was about to join a drama school, but stayed on in her father's furniture shop.
+- Álvaro llegó a ser alcalde del pueblo vecino, y, por cierto, no sabe cantar.
+  en: Álvaro went on to become mayor of the neighbouring village, and, by the way, he cannot sing.
+- Por poco no encuentran el sitio: el patio ya no tiene ni porterías.
+  en: They nearly didn't find the spot: the playground no longer even has goalposts.
+- Para colmo, la caja estaba llena de agua, y si se podía leer algo, estaba por ver.
+  en: To make matters worse, the box was full of water, and whether anything could still be read remained to be seen.
+- Por si acaso, Teo había traído una cámara y una bolsa de bocadillos.
+  en: Just in case, Teo had brought a camera and a bag of sandwiches.
+- Abrieron la caja entre risas, y, por mucho que lo intentara, Marisa no recordaba lo que había escrito.
+  en: They opened the box, laughing, and however hard Marisa tried, she could not remember what she had written.
+- Solo se cumplió una carta: la de Teo, que escribió que organizaría la reunión para abrir la caja, y la organizó él.
+  en: Only one letter came true: Teo's, in which he wrote that he would organise the meeting to open the box, and he was the one who organised it.
+
+notes.en:
+1. enterró (sentence 1): the preterite for an event of 1995 that happened once and is over. Example: Enterraron a su padre en invierno, "they buried her father in winter".
+2. pidió a cada niño que escribiera (sentence 2): pedir que takes the subjunctive, and after a past verb it is the past subjunctive, as in Foundation, lesson 74. Example: Le pedí que viniera temprano, "I asked him to come early".
+3. escribió que sería astronauta (sentence 3): the future of the words written becomes the conditional after a past verb, as in Foundation, lesson 65. Example: Dijo que vendría mañana, "he said he would come tomorrow".
+4. iba a ser futbolista (sentence 4): ir a with an infinitive in the imperfect means was going to, a plan that did not happen. Example: Iba a llamarte, pero se me olvidó, "I was going to ring you, but I forgot".
+5. un Goya (sentence 5): the Goya is the Spanish film award, named after the painter Goya. Example: Ganó un Goya a la mejor actriz, "she won a Goya for best actress".
+6. el que organice (sentence 7): el que with the subjunctive names a person who is not yet known, as in busco a alguien que sepa inglés, "I'm looking for someone who knows English".
+7. acabó siendo profesora (sentence 11): acabar with a gerund means to end up being something, not what was planned. Example: Acabé trabajando en Madrid, "I ended up working in Madrid".
+8. estuvo a punto de entrar (sentence 12): estar a punto de with an infinitive means to be on the point of doing something. In the past it implies that it did not happen. Example: Estuve a punto de llamarte, "I was about to ring you".
+9. llegó a ser alcalde (sentence 13): llegar a with an infinitive means to end up becoming something, after a process; the a is the preposition, and the verb is ser. Example: Llegó a ser director del banco, "he became director of the bank".
+10. Por poco no encuentran (sentence 14): por poco with the present means nearly. Por poco me caigo, "I nearly fell", means I did not fall; por poco no encuentran means they nearly did not find it, so they found it only just. Example: Por poco me caigo al bajar del tren, "I nearly fell getting off the train".
+11. estaba por ver (sentence 15): estar por with an infinitive means is yet to be or remains to be. Example: Eso está por decidir, "that is yet to be decided".
+12. Para colmo (sentence 15): para colmo means to make matters worse, and it comes before the bad news. Example: Para colmo, llovió todo el día, "to make matters worse, it rained all day".
+13. Por si acaso (sentence 16): por si acaso means just in case, and it is followed by an ordinary clause, as here. Example: Llevo paraguas, por si acaso, "I'm taking an umbrella, just in case".
+14. por mucho que intentara (sentence 17): por mucho que with the subjunctive means however much, and the verb takes the subjunctive whatever the time. Example: Por mucho que lo intente, no me sale, "however much I try, it doesn't work out".
+
+ex1:
+- Guardé las llaves en el cajón, por si acaso.
+  en: I put the keys in the drawer, just in case.
+- Iba a llamarte ayer, pero se me olvidó. (to a friend)
+  en: I was going to ring you yesterday, but I forgot. (to a friend)
+- Por poco no llego a la estación, porque el autobús llegó tarde.
+  en: I nearly didn't get to the station, because the bus was late.
+- Mi hermana llegó a ser profesora de inglés.
+  en: My sister went on to become an English teacher.
+- Por mucho que lo intentes, no vas a convencerme. (to a friend)
+  en: However hard you try, you won't convince me. (to a friend)
+
+ex2:
+- Por [poco] me caigo al bajar del tren.
+  en: I nearly fell getting off the train.
+- Pasaremos la noche aquí, [por] si acaso.
+  en: We'll spend the night here, just in case.
+- La decisión [está] por tomar.
+  en: The decision is yet to be taken.
+- Él [llegó] a ser director del banco.
+  en: He went on to become director of the bank.
+- Por [mucho] que lo intentes, no lo conseguirás. (to a friend)
+  en: However hard you try, you won't manage it. (to a friend)
+
+== 45 B2
+numeral: Lección cuarenta y cinco
+title: Sacar
+title.en: To take out, to get
+
+dialogue:
+- Tomás, ¿has sacado ya las entradas del concierto de Navidad?
+  en: Tomás, have you bought the tickets for the Christmas concert yet?
+- Sí, las saqué ayer por internet, aunque cuestan una barbaridad.
+  en: Yes, I bought them online yesterday, though they cost a fortune.
+- Pues yo tengo que sacar dinero antes del viernes, con lo que ha subido todo.
+  en: Well, I have to take some money out before Friday, with everything that has gone up.
+- Mi nieta sacó buena nota en el examen de matemáticas, y eso sí que es una noticia.
+  en: My granddaughter got a good mark in her maths exam, and that really is news.
+- Ella se esfuerza. Lo malo es que su hermano no saca nada en claro de los apuntes.
+  en: She works hard. The trouble is that her brother can't make anything out of his notes.
+- Pues el carné de conducir se lo sacó a la primera, aunque no sabe aparcar.
+  en: Well, he got his driving licence first time, though he can't park.
+- Y no empecemos con el coche otra vez, que ya me sacaste de quicio con el aparcamiento.
+  en: And let's not start on the car again, you've already got on my nerves about the parking.
+- Tranquila, que hoy no me vas a sacar de mis casillas.
+  en: Calm down, you're not going to make me lose my temper today.
+- Venga, lo dejamos para luego. Papá, ¿te saco una foto con los nietos?
+  en: Right, let's leave it for later. Dad, shall I take a photo of you with the grandchildren?
+- Saca, hija, saca, pero no saques los pies del tiesto con las fotos de la boda.
+  en: Go on, love, take it, but don't overstep the mark with the wedding photos.
+- Papá, siempre sacas a relucir la boda de Mercedes.
+  en: Dad, you always bring up Mercedes's wedding.
+- Pues en aquella boda, el que más tajada sacó fue el fotógrafo.
+  en: Well, at that wedding the one who profited most was the photographer.
+- Eso lo dices tú, que te comiste el jamón entero.
+  en: You would say that, you ate the whole ham.
+- Pues lo que sacamos en claro es que el fotógrafo nos cobró una barbaridad.
+  en: Well, what we can conclude is that the photographer charged us a fortune.
+- Tú sí que sacas partido de todo, Tomás, que tienes el móvil lleno de fotos.
+  en: You really do make the most of everything, Tomás, your phone is full of photos.
+- Saco partido de lo que hay, que para eso están las fotos.
+  en: I make the most of what there is, that is what photos are for.
+- Rosa, tú siempre sacas las castañas del fuego cuando se pega la comida.
+  en: Rosa, you always pull our chestnuts out of the fire when the food sticks to the pan.
+- Y tú le sacas punta a todo, hermana.
+  en: And you nitpick everything, sister.
+- Mira al niño, que te está sacando la lengua.
+  en: Look at the boy, he's sticking his tongue out at you.
+- Pues ahora mismo saco a bailar a vuestra madre, que se está aburriendo.
+  en: Then I'll ask your mother to dance, she's getting bored.
+- Anda, que mamá no baila desde la boda.
+  en: Oh, Mum hasn't danced since the wedding.
+- Entonces el abuelo sacó la baraja, y se acabaron las discusiones.
+  en: Then Grandad took out the pack of cards, and the arguments stopped.
+
+notes.en:
+1. sacado las entradas (sentence 1): sacar with tickets means to buy them, and English says buy or get. Example: Saqué entradas para el teatro, "I bought tickets for the theatre".
+2. sacar dinero (sentence 3): to take money out, from a bank or a cash machine. Example: Voy a sacar dinero del cajero, "I'm going to take some money out at the cash machine".
+3. sacó buena nota (sentence 4): to get a good mark at school or in an exam. Example: Saqué un diez en lengua, "I got a ten in Spanish at school".
+4. no saca nada en claro (sentence 5): sacar en claro means to make out or to conclude, and it is usually negative. Example: No saco nada en claro de este manual, "I can't make anything out of this manual".
+5. se lo sacó (sentence 6): sacarse el carné de conducir means to get your driving licence, and the pronoun se lo is the one for the licence. Example: Me saqué el carné a la primera, "I passed my driving test first time".
+6. me sacaste de quicio (sentence 7): sacar de quicio means to drive someone up the wall, to annoy them very much. The line says ya me sacaste de quicio, "you've already got on my nerves". Example: Me saca de quicio el ruido, "the noise drives me up the wall".
+7. sacar de mis casillas (sentence 8): to make someone lose their temper. Casillas are the pigeonholes where a person keeps their composure. Example: Sus bromas me sacan de mis casillas, "his jokes make me lose my temper".
+8. saco una foto (sentence 9): sacar is the verb for take a photo, where English says take. Quitar is take off or away (quitar la mesa), and tomar is take or drink (tomar un café). Example: ¿Me sacas una foto?, "will you take a photo of me?"
+9. sacar los pies del tiesto (sentence 10): to go beyond what is allowed, to overstep the mark. The literal sense is to take your feet out of the flowerpot. Example: Con esa pregunta has sacado los pies del tiesto, "with that question you've overstepped the mark".
+10. sacas a relucir (sentence 11): to bring up a subject, often one that was better left alone. Example: Sacó a relucir lo de la herencia, "he brought up the business of the inheritance".
+11. más tajada sacó (sentence 12): to profit from something, a familiar phrase. Tajada is a slice. Example: Siempre saca tajada de las fiestas, "he always profits from the parties".
+12. sacas partido de (sentence 15): to make the most of something or to gain from it. Example: Saca partido de su idioma para trabajar fuera, "she makes the most of her languages to work abroad".
+13. sacas las castañas del fuego (sentence 17): to get someone out of trouble. The literal sense is pull the chestnuts out of the fire, the same image as in English. Example: Siempre me saca las castañas del fuego, "she always gets me out of trouble".
+14. le sacas punta a todo (sentence 18): to find fault with everything or make a fuss out of everything. Sacar punta is to sharpen a point. Example: No le saques punta a todo, "don't make a fuss about everything".
+15. sacando la lengua (sentence 19): to stick out your tongue. Example: Le saqué la lengua por la ventanilla, "I stuck my tongue out at him through the car window".
+16. saco a bailar (sentence 20): to ask someone to dance. Example: ¿Me sacas a bailar?, "will you ask me to dance?"
+17. sacó la baraja (sentence 22): sacar takes out, here a pack of cards from a drawer or a bag. Example: Saqué la baraja y jugamos una partida, "I took out the cards and we played a game".
+18. Expressions of this lesson, with the sentence and the note:
+sacar entradas (sentence 1, note 1)
+sacar dinero (sentence 3, note 2)
+sacar buena nota (sentence 4, note 3)
+sacar en claro (sentence 5, note 4)
+sacarse el carné de conducir (sentence 6, note 5)
+sacar de quicio (sentence 7, note 6)
+sacar de sus casillas (sentence 8, note 7)
+sacar una foto (sentence 9, note 8)
+sacar los pies del tiesto (sentence 10, note 9)
+sacar a relucir (sentence 11, note 10)
+sacar tajada (sentence 12, note 11)
+sacar partido de (sentence 15, note 12)
+sacar las castañas del fuego (sentence 17, note 13)
+sacarle punta a todo (sentence 18, note 14)
+sacar la lengua (sentence 19, note 15)
+sacar a bailar (sentence 20, note 16)
+
+ex1:
+- Ayer saqué dinero del cajero para pagar la comida.
+  en: Yesterday I took some money out at the cash machine to pay for the meal.
+- ¿Me sacas una foto delante de la catedral?
+  en: Will you take a photo of me in front of the cathedral? (to a friend)
+- Mi hermana se sacó el carné de conducir el año pasado.
+  en: My sister got her driving licence last year.
+- Hablar de la herencia en la comida fue un error.
+  en: Bringing up the inheritance at lunch was a mistake.
+- Mi tío siempre saca a bailar a mi madre en las bodas.
+  en: My uncle always asks my mother to dance at weddings.
+
+ex2:
+- Del debate no [saco] nada en claro.
+  en: I can't make anything out of the debate.
+- Ella siempre [saca] las castañas del fuego cuando hay un problema.
+  en: She always gets us out of trouble when there is a problem.
+- Este año saqué buena [nota] en matemáticas.
+  en: This year I got a good mark in maths.
+- Tu comentario me [sacó] de mis casillas.
+  en: Your comment made me lose my temper.
+- Vamos a sacar [partido] de la oferta antes de que termine.
+  en: Let's make the most of the offer before it ends.

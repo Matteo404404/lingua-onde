@@ -1,3 +1,342 @@
 course: es
 stage: perfectionnement
 bases: en
+
+== 46 C1
+numeral: Lección cuarenta y seis
+title: El club de lectura
+title.en: The book club
+
+dialogue:
+- Bueno, ¿empezamos? Hoy toca Cien años de soledad, y os confieso que, actualmente, voy por la mitad.
+  en: Right, shall we start? Today it's Cien años de soledad, and I have to confess that I'm currently halfway through.
+- Pues yo tampoco lo he terminado, pero en realidad lo leí hace diez años, así que ya nos vale.
+  en: Well, I haven't finished it either, but in fact I read it ten years ago, so that will have to do.
+- Eso no cuenta, Raúl: hace diez años no te acordarás de nada.
+  en: That doesn't count, Raúl: ten years ago you won't remember a thing.
+- Me acuerdo de lo importante: de los Buendía, de los Aurelianos y de los José Arcadios.
+  en: I remember the important things: the Buendías, the Aurelianos and the José Arcadios.
+- Eso es justo lo que me pasa a mí: todos se llaman igual y no sé quién es quién.
+  en: That's exactly my problem: they all have the same names, and I don't know who is who.
+- Es que el libro está hecho así, a propósito. Hay una familia en la que los nombres se repiten de generación en generación.
+  en: It's that the book is built this way, on purpose. In one family the names repeat from one generation to the next.
+- Por cierto, ¿no hay un Aureliano que se pasa la vida haciendo pescaditos de oro?
+  en: By the way, isn't there an Aureliano who spends his whole life making little gold fish?
+- Ese es el coronel, o eso creo. Y el otro Aureliano, el de los pergaminos, es distinto, ¿no?
+  en: That's the colonel, I think. And the other Aureliano, the one with the parchments, is a different one, isn't he?
+- Pues sí, pero a mí todos me suenan igual.
+  en: Yes, but they all sound the same to me.
+- No es que no lo haya leído, es que hay demasiados Aurelianos para distinguirlos.
+  en: It's not that I haven't read it, it's that there are too many Aurelianos to tell apart.
+- Total, que ninguno de nosotros tiene claro quién es quién.
+  en: So in the end none of us is clear about who is who.
+- En fin, a mí lo que más me gustó fue Macondo, ese pueblo que se va borrando del mapa.
+  en: Well, what I liked most was Macondo, the village that gets wiped off the map.
+- Hombre, eso es verdad: al final el viento se lo lleva todo.
+  en: Well, that's true: in the end the wind carries it all away.
+- De hecho, la última página es lo único que recuerdo con claridad.
+  en: In fact, the last page is the only thing I remember clearly.
+- Eso dices tú. A decir verdad, no lo entendí del todo hasta que lo volví a leer.
+  en: That's what you say. To be honest, I didn't really understand it until I read it again.
+- O sea, que hace falta releerlo. Pues yo lo releo, eventualmente, en verano.
+  en: So you have to read it again. Well, I might reread it in the summer.
+- Vamos, que si lo releemos todos, el mes que viene lo entendemos.
+  en: Right, so if we all reread it, we'll understand it next month.
+- A mí lo que me gusta es el tono, como si alguien lo contara en el mercado.
+  en: What I like is the tone, as if someone were telling it in the market.
+- Y que llueva durante años sin que nadie se extrañe.
+  en: And that it rains for years without anyone being surprised.
+- Yo lo he leído dos veces, y todavía no sé qué Aureliano es cuál.
+  en: I've read it twice, and I still don't know which Aureliano is which.
+
+notes.en:
+1. actualmente (sentence 1): currently, at present. It is a false friend: it does not mean actually, which is en realidad, as in Foundation, lesson 96. Example: Actualmente vivo en Sevilla, "I currently live in Seville".
+2. en realidad (sentence 2): in fact, actually, the English sense of the word. Example: En realidad no tengo hambre, "actually I'm not hungry".
+3. Es que (sentence 6): a way of starting an explanation, "it's just that" or "the thing is". Example: Es que llevo dos días sin dormir, "it's just that I haven't slept for two days".
+4. Por cierto (sentence 7): by the way, when a new point is added to the talk. Example: Por cierto, ¿has llamado a tu madre?, "by the way, did you ring your mother?"
+5. no es que ... es que (sentence 10): it is not that ..., it is that ...; the first verb takes the subjunctive, here the perfect haya leído, and the second has the indicative. Example: No es que no quiera ir, es que tengo trabajo, "it's not that I don't want to go, it's that I have work".
+6. Total, que (sentence 11): a familiar way of summing up, "so in the end" or "so, in short". Example: Total, que no vino nadie, "so in the end nobody came".
+7. En fin (sentence 12): an end to the talk, "well, in short", often with a note of resignation. Example: En fin, ya veremos, "well, we'll see".
+8. De hecho (sentence 14): in fact, to confirm something already said. Example: De hecho, ya lo sabía, "in fact I already knew it".
+9. A decir verdad (sentence 15): to be honest, before a frank opinion. Example: A decir verdad, no me gusta el café, "to be honest, I don't like coffee".
+10. O sea (sentence 16): that is to say, so; the usual way to restate a point. Example: O sea, que no vienes, "so you're not coming".
+11. eventualmente (sentence 16): a false friend: it means possibly, or at some point, not eventually in the sense of at last, which is al final. Example: Eventualmente podemos cenar juntos, "we may have dinner together at some point".
+12. Vamos, que (sentence 17): a familiar way of drawing a conclusion, "so, in short", often a little ironic. Example: Vamos, que no hay prisa, "so, there's no hurry".
+13. sin que nadie se extrañe (sentence 19): sin que takes the subjunctive, as in lesson 17, note 4. Example: Lo hago sin que nadie me lo pida, "I do it without anyone asking me to".
+
+ex1:
+- Hoy no tengo ganas de hablar, pero a decir verdad me encantaría escucharte.
+  en: I don't feel like talking today, but to be honest I'd love to listen to you. (to a friend)
+- En realidad, no me importa que llegues tarde.
+  en: Actually, I don't mind if you're late. (to a friend)
+- No es que no quiera venir, es que mañana trabajo temprano.
+  en: It's not that I don't want to come, it's that I work early tomorrow. (to a friend)
+- Actualmente estoy buscando piso, pero no encuentro nada.
+  en: I'm currently looking for a flat, but I can't find anything.
+- Por cierto, el libro que me dejaste está muy bien.
+  en: By the way, the book you lent me is very good. (to a friend)
+
+ex2:
+- [Actualmente] vivo en Sevilla.
+  en: I currently live in Seville.
+- Lo he leído [dos] veces, y sigo sin entenderlo.
+  en: I've read it twice, and I still don't understand it.
+- No es que [haya] perdido el tren, es que me he dormido.
+  en: It's not that I missed the train, it's that I overslept.
+- Mi hermana [lleva] tres años leyendo el mismo libro.
+  en: My sister has been reading the same book for three years.
+- Hice el examen sin [que] nadie me ayudara.
+  en: I took the exam without anyone helping me.
+
+== 47 C1
+numeral: Lección cuarenta y siete
+title: Alegaciones (1)
+title.en: An appeal (1)
+
+dialogue:
+- Doña Remedios Varela Ruiz, mayor de edad y jubilada, con domicilio en la calle Mayor, número 7, ante el Ayuntamiento comparece y, por medio del presente escrito, EXPONE:
+  en: Doña Remedios Varela Ruiz, of full age and retired, of 7 Calle Mayor, appears before the town hall and, by means of this letter, sets out:
+- Que el día 14 del mes pasado, a las once de la mañana, la Policía Local me notificó una sanción de 150 euros por regar los geranios de mi balcón.
+  en: That on the 14th of last month, at eleven in the morning, the local police served me with a fine of 150 euros for watering the geraniums on my balcony.
+- Que, según la ordenanza municipal, el riego de macetas está permitido a partir de las doce del mediodía.
+  en: That, according to the municipal bylaw, watering pots is allowed from twelve noon.
+- Que la abajo firmante no regó la vía pública, sino las macetas de su balcón, con una regadera de un litro, durante apenas unos minutos.
+  en: That the undersigned did not water the public highway, but the pots on her balcony, with a one-litre watering can, for barely a few minutes.
+- Que no se ha producido daño alguno ni molestia a ningún vecino.
+  en: That no damage or nuisance to any neighbour has occurred.
+- Que el agente me indicó que la infracción consistía en regar fuera de horario, y que no había nada que hacer.
+  en: That the officer told me the offence was watering outside the permitted hours, and that there was nothing to be done.
+- Que la notificación no cita el artículo de la ordenanza aplicado, lo que me impide defenderme con precisión.
+  en: That the notice does not cite the article of the bylaw applied, which prevents me from defending myself precisely.
+- Que, conforme a lo dispuesto en la ordenanza, la sanción debe calificarse, en todo caso, como leve y no como grave.
+  en: That, in accordance with what the bylaw lays down, the fine must in any case be classed as minor and not as serious.
+- Que la cuantía propuesta resulta desproporcionada en relación con el hecho denunciado.
+  en: That the amount proposed is out of all proportion to the act reported.
+- Que la abajo firmante ha abonado puntualmente todas sus tasas municipales, como consta en los registros del Ayuntamiento.
+  en: That the undersigned has paid all her municipal fees on time, as the town hall's records show.
+- Que, en virtud de mi derecho a alegar cuanto estime oportuno, presento este escrito dentro del plazo previsto.
+  en: That, by virtue of my right to put forward whatever I consider appropriate, I submit this letter within the period allowed.
+- SOLICITA: que se anule la sanción o, subsidiariamente, que se reduzca a la cuantía mínima.
+  en: REQUESTS: that the fine be cancelled or, failing that, reduced to the minimum amount.
+- Sírvase tener por presentado este escrito en tiempo y forma.
+  en: Please consider this letter submitted in due time and form.
+- Ruego que se me notifique la resolución en el domicilio indicado.
+  en: I ask that the decision be notified to me at the address given.
+- Sin otro particular, le saluda atentamente:
+  en: Without further ado, I remain, yours faithfully:
+- Remedios Varela Ruiz.
+  en: Remedios Varela Ruiz.
+
+notes.en:
+1. comparece y, por medio del presente escrito, EXPONE (item 1): the opening of a Spanish instancia, a formal request to the town hall. It gives the name, the age, the work and the address, then comparece, appears, and EXPONE, sets out, the facts. Example: El interesado comparece y EXPONE, "the applicant appears and sets out".
+2. Que el día 14 (item 2): each fact in an EXPONE section begins with Que, and the dates come in full. Example: Que el pedido llegó el martes, "that the order arrived on Tuesday".
+3. según la ordenanza municipal (item 3): the ordenanza is the bylaw of the town, and según names the source of the rule. Example: Según la ordenanza, el aparcamiento está prohibido de noche, "according to the bylaw, parking is forbidden at night".
+4. la abajo firmante (item 4): the person who signs below. A man says el abajo firmante. Example: El abajo firmante declara que es cierto, "the undersigned declares that it is true".
+5. ni molestia a ningún vecino (item 5): after a negative verb, Spanish adds the negative words again: no se ha producido daño alguno ni molestia, with alguno and ningún after the verb. Example: No vino ningún vecino, "no neighbour came".
+6. me indicó que (item 6): indicar que reports what the officer said; the indicative is used because it is a plain report of a fact. Example: Me indicó que el plazo terminaba el viernes, "he told me the deadline was Friday".
+7. no cita el artículo (item 7): citar means to cite or quote. A fine usually names the article it applies, so that the person can check it. Example: La sentencia cita la ley de 1995, "the judgment cites the law of 1995".
+8. conforme a lo dispuesto (item 8): conforme a means in accordance with, and lo dispuesto is what the rule lays down. Example: Conforme a lo acordado, pagamos en dos plazos, "in accordance with what was agreed, we pay in two instalments".
+9. en relación con (item 9): in relation to, the formal way of saying about or regarding. Example: En relación con su carta, le informo de lo siguiente, "with regard to your letter, I inform you of the following".
+10. abonado puntualmente (item 10): abonar is the formal verb for to pay, and tasas are fees charged by the town. Example: Abono el recibo a su vencimiento, "I pay the bill when it falls due".
+11. en virtud de (item 11): by virtue of, by reason of a right or a rule. Example: En virtud de este contrato, el alquiler se revisa cada año, "by virtue of this contract, the rent is reviewed each year".
+12. SOLICITA: que se anule (item 12): the request section of an instancia, with que and the present subjunctive. Subsidiariamente means as a fallback, if the first request is refused. Example: SOLICITA: que se admita la prueba, "REQUESTS: that the evidence be admitted".
+13. Sírvase tener por presentado (item 13): sírvase is the formal please, from servir, followed by an infinitive. Tener por presentado means to consider as submitted. Example: Sírvase enviarnos el justificante, "please send us the receipt".
+14. Ruego que se me notifique (item 14): ruego que is a formal request with the subjunctive, here passive se with notificar. Example: Ruego que me confirmen la cita, "I ask you to confirm the appointment".
+15. Sin otro particular, le saluda atentamente (item 15): the close of a formal letter, as in Foundation, lesson 89, where atentamente is "yours faithfully".
+
+ex1:
+- Por medio de la presente, la abajo firmante comunica su baja en el club.
+  en: By means of this letter, the undersigned gives notice of her resignation from the club. (formal)
+- En relación con su pedido, le informamos de que llegará el martes.
+  en: With regard to your order, we inform you that it will arrive on Tuesday. (formal)
+- Sírvase enviarme una copia del justificante, por favor.
+  en: Please send me a copy of the receipt. (formal)
+- Según el contrato, el alquiler se paga el primer día del mes.
+  en: According to the contract, the rent is paid on the first day of the month.
+- Ruego que me confirmen la hora de la cita.
+  en: I ask you to confirm the time of the appointment. (formal)
+
+ex2:
+- Por [medio] del presente escrito, la abajo firmante comunica su baja.
+  en: By means of this letter, the undersigned gives notice of her resignation.
+- Sírvase [enviarme] el justificante antes del viernes.
+  en: Please send me the receipt before Friday. (formal)
+- La abajo [firmante] declara que es cierto.
+  en: The undersigned declares that it is true. (formal)
+- En [virtud] de la ley, tiene derecho a recurrir.
+  en: By virtue of the law, he has the right to appeal. (formal)
+- SOLICITA: que se [anule] la sanción.
+  en: REQUESTS: that the fine be cancelled.
+
+== 48 C1
+numeral: Lección cuarenta y ocho
+title: Alegaciones (2)
+title.en: The reply
+
+dialogue:
+- Visto el expediente sancionador número 431/2026, incoado contra doña Remedios Varela Ruiz, y vistas las alegaciones presentadas por la interesada, se dicta la siguiente resolución:
+  en: Having examined the disciplinary file number 431/2026, opened against doña Remedios Varela Ruiz, and having considered the arguments put forward by the applicant, the following decision is issued:
+- Considerando que el escrito de alegaciones se presentó en tiempo y forma, procede su examen.
+  en: Considering that the statement of arguments was submitted in due time and form, it is to be examined.
+- Consta en el expediente el acta de la Policía Local, que describe el riego de macetas en el balcón a las once horas.
+  en: The local police report is on record in the file, describing the watering of pots on the balcony at eleven o'clock.
+- Se desestima la alegación relativa a la falta de daño, pues la norma no exige que se produzca perjuicio alguno para sancionar.
+  en: The argument about the lack of damage is rejected, since the rule does not require any harm to have been caused in order to impose a fine.
+- Se desestima asimismo la alegación sobre la cuantía, por cuanto la sanción se ajusta a la escala de infracciones leves.
+  en: The argument about the amount is also rejected, since the fine conforms to the scale for minor offences.
+- En cuanto a la falta de cita del artículo, la notificación se remitió conforme al modelo vigente, y no procede la nulidad.
+  en: As for the failure to cite the article, the notice was sent in accordance with the current model, and annulment does not apply.
+- Quien infringiere lo dispuesto en la ordenanza será sancionado conforme a su escala, si hubiere lugar.
+  en: Whoever breaches what the bylaw provides will be fined in line with its scale, where there is ground for it.
+- Vistos los preceptos aplicables, se acuerda desestimar el recurso y mantener la sanción de 150 euros.
+  en: Having looked at the applicable rules, it is agreed to dismiss the appeal and to keep the fine of 150 euros.
+- Procédase a la notificación de la presente resolución, con indicación de los recursos que contra ella caben.
+  en: The present decision is to be served, with notice of the appeals that may be lodged against it.
+- Contra la presente resolución cabe recurso de reposición en el plazo de un mes.
+  en: An appeal for reconsideration may be lodged against this decision within one month.
+- Lo que se comunica a los efectos oportunos.
+  en: This is communicated for the appropriate purposes.
+- Por delegación del alcalde, firma el jefe del Servicio de Sanciones.
+  en: By delegation of the mayor, the head of the Sanctions Department signs.
+- Firmado digitalmente: el jefe del Servicio de Sanciones.
+  en: Digitally signed: the head of the Sanctions Department.
+- Se advierte que, en caso de impago, la deuda se exigirá por vía de apremio.
+  en: Please note that, in the event of non-payment, the debt will be enforced by the executive procedure.
+- Notifíquese a la interesada en el domicilio que consta en el expediente.
+  en: The applicant is to be notified at the address on record in the file.
+- Posdata: la nueva ordenanza, que entrará en vigor el próximo mes, fija el inicio del riego de macetas a las once.
+  en: Postscript: the new bylaw, which comes into force next month, sets the start of watering pots at eleven.
+
+notes.en:
+1. Visto el expediente (item 1): a participle at the start of a decision, which sets out the grounds before the decision itself. Visto and vistas agree with what they describe. Plain Spanish: después de examinar el expediente, "after examining the file".
+2. Considerando que (item 2): the gerund opens the reasons, as in Visto el informe. Plain Spanish: como el escrito se presentó a tiempo, "since the letter was sent on time". Example: Considerando que la obra está terminada, se paga, "considering the work is finished, it is paid".
+3. Consta en el expediente (item 3): consta means is on record, and it is the usual way to say that something appears in the file. Plain Spanish: está en el expediente. Example: Consta en el acta que llegó tarde, "it is on record that he arrived late".
+4. Se desestima (item 4): passive se with desestimar, to reject a claim or an argument. Plain Spanish: se rechaza, "is refused". Example: Se desestima la solicitud, "the application is refused".
+5. Se desestima asimismo (item 5): asimismo is a formal word for también, "also". Example: Se aprueba asimismo el presupuesto, "the budget is also approved".
+6. En cuanto a (item 6): the formal way to start a new point, "as for" or "with regard to". Plain Spanish: sobre la falta de cita. Example: En cuanto a los plazos, no hay problema, "as for the deadlines, there is no problem".
+7. Quien infringiere (item 7): the future subjunctive of infringir. It is kept in laws and rules, and it survives in a few set phrases. Plain Spanish: quien incumpla, "whoever breaks". The -re forms are explained in lesson 49.
+8. si hubiere lugar (item 7): the future subjunctive of haber, hubiere, kept in this set legal phrase. Plain Spanish: si procede, "if it applies". Example: Si hubiere dudas, llámenos, "if there are any doubts, call us".
+9. Vistos los preceptos (item 8): preceptos are the articles of the law. Vistos, again a participle, sets out the reason. Plain Spanish: después de leer las normas que se aplican, "after reading the rules that apply". Example: Vistos los documentos, firmo, "having seen the documents, I sign".
+10. Procédase (item 9): the passive imperative of proceder, which tells the office what to do next. Plain Spanish: notifíquese, "notify". Example: Procédase al pago de la factura, "the invoice is to be paid".
+11. cabe recurso (item 10): caber means there is room for, so cabe recurso means an appeal can be lodged. Plain Spanish: puede presentar un recurso. Example: Contra esta decisión cabe recurso, "an appeal can be made against this decision".
+12. Por delegación (item 12): by delegation: the head signs for the mayor, who has passed the power to him. Example: Por delegación de la directora, firma el secretario, "by delegation of the director, the secretary signs".
+13. vía de apremio (item 14): the procedure to collect an unpaid debt by force, through the authorities. Plain Spanish: se cobrará de forma obligatoria, "it will be collected compulsorily". Example: La multa pasó a la vía de apremio, "the fine went to enforcement".
+14. Notifíquese (item 15): the imperative of notificar with se, here written as a command to the office. Example: Notifíquese al interesado, "the applicant is to be notified".
+15. Posdata (item 16): the postscript, written after the signature, as in Foundation, lesson 89. It is the last line of the letter, and it has the news.
+
+ex1:
+- Considerando que el plazo ha terminado, no es posible aceptar el escrito. (formal)
+  en: Considering that the deadline has passed, the letter cannot be accepted. (formal)
+- Visto el informe, se aprueba la obra.
+  en: Having seen the report, the work is approved.
+- Quien incumpliere el contrato pagará una multa. (formal)
+  en: Whoever breaks the contract will pay a fine. (formal)
+- Consta en el expediente que la factura se pagó en mayo.
+  en: It is on record in the file that the invoice was paid in May.
+- Contra esta resolución cabe recurso en el plazo de un mes.
+  en: An appeal can be lodged against this decision within one month.
+
+ex2:
+- Visto el informe, se [aprueba] la obra.
+  en: Having seen the report, the work is approved.
+- [Considerando] que el plazo ha vencido, no procede.
+  en: Considering that the period has expired, it is not appropriate.
+- Consta [en] el expediente el acta de la Policía.
+  en: The police report is on record in the file.
+- [Por] delegación del alcalde, firma el jefe.
+  en: By delegation of the mayor, the head signs.
+- Se [notifica] la resolución a la interesada.
+  en: The decision is notified to the applicant.
+
+== 49 C1
+kind: revision
+numeral: Lección cuarenta y nueve
+title: Repaso y matices
+title.en: Revision and finer points
+
+notes.en:
+The seventh week of this course is finished. Nothing here needs learning by heart: the tables put in order what you have read in lessons 43 to 48, and those texts are your store of examples.
+If a point still feels unclear, go back to the example line in its lesson and read it aloud; it will be clearer each time. Then do the ten exercises at the end.
+1. formal letters and the instancia (lesson 47): the structure of a Spanish request to the town hall, from the opening to the close.
+| Part | What it does | Example from the week | In English |
+|---|---|---|---|
+| opening with EXPONE | the signer gives the name and address, then appears and sets out the facts | Doña Remedios Varela Ruiz, mayor de edad y jubilada, con domicilio en la calle Mayor, número 7, ante el Ayuntamiento comparece y, por medio del presente escrito, EXPONE: (lesson 47) | appears and, by means of this letter, sets out |
+| EXPONE: Que ... | each fact begins with Que | Que el día 14 del mes pasado, a las once de la mañana (lesson 47) | That on the 14th of last month, at eleven in the morning |
+| SOLICITA: que ... | the request, with the present subjunctive | SOLICITA: que se anule la sanción o, subsidiariamente, que se reduzca a la cuantía mínima. (lesson 47) | REQUESTS: that the fine be cancelled or, failing that, reduced to the minimum amount |
+| Sírvase ... | the formal please, followed by an infinitive | Sírvase tener por presentado este escrito en tiempo y forma. (lesson 47) | Please consider this letter submitted in due time and form |
+| Ruego que ... | a polite request, with the subjunctive | Ruego que se me notifique la resolución en el domicilio indicado. (lesson 47) | I ask that the decision be notified to me at the address given |
+| closing | the formal goodbye before the signature | Sin otro particular, le saluda atentamente: (lesson 47) | Without further ado, I remain, yours faithfully |
+2. bureaucratic and plain Spanish (lesson 48): the official phrase, and what you would say in plain Spanish.
+| Official phrase | Plain Spanish | Example from the week | In English |
+|---|---|---|---|
+| Se desestima la alegación | Se rechaza la alegación | Se desestima la alegación relativa a la falta de daño (lesson 48) | The argument about the lack of damage is rejected |
+| Consta en el expediente | Está en el expediente | Consta en el expediente el acta de la Policía Local (lesson 48) | The local police report is on record in the file |
+| Procédase a la notificación | Notifíquese | Procédase a la notificación de la presente resolución (lesson 48) | The present decision is to be served |
+| Contra ... cabe recurso | Puede presentar un recurso contra ... | Contra la presente resolución cabe recurso de reposición en el plazo de un mes. (lesson 48) | An appeal for reconsideration may be lodged against this decision within one month |
+| En cuanto a | Sobre | En cuanto a la falta de cita del artículo (lesson 48) | As for the failure to cite the article |
+| Ruego que | Le pido que | Ruego que se me notifique la resolución en el domicilio indicado. (lesson 47) | I ask that the decision be notified to me |
+The future subjunctive survives in laws and rules, and in a few set phrases. Its -re forms are built on the third person plural of the preterite (infringieron, infringiere): infringiere (infringir), hubiere (haber), fuere (ser and ir), tuviere (tener), hablare (hablar), comiere (comer), viviere (vivir). Lesson 48 keeps two of them in a set legal phrase: Quien infringiere lo dispuesto en la ordenanza (lesson 48), and si hubiere lugar (lesson 48). In ordinary speech the present subjunctive does its job.
+3. the future in the past and por and para (lesson 44): the new uses of the story of the time capsule.
+| Form | What it does | Example from the week | In English |
+|---|---|---|---|
+| escribió que sería | the conditional, a future seen from a past moment | Nacho escribió que sería astronauta y que vería la Tierra desde la Luna. (lesson 44) | Nacho wrote that he would be an astronaut |
+| iba a ser | was going to be, a plan that did not happen | Marisa, que se sabía de memoria la alineación de todos los equipos, iba a ser futbolista de primera división. (lesson 44) | was going to be a footballer in the top division |
+| estuvo a punto de | was about to, and it did not happen | Begoña estuvo a punto de entrar en una escuela de teatro (lesson 44) | Begoña was about to join a drama school |
+| acabó siendo | ended up being | Marisa, que iba a ser futbolista, acabó siendo profesora de educación física (lesson 44) | ended up as a PE teacher |
+| llegó a ser | went on to become | Álvaro llegó a ser alcalde del pueblo vecino (lesson 44) | went on to become mayor of the neighbouring village |
+| por poco | nearly, with the present | Por poco no encuentran el sitio (lesson 44) | They nearly didn't find the spot |
+| por si acaso | just in case | Por si acaso, Teo había traído una cámara y una bolsa de bocadillos. (lesson 44) | Just in case, Teo had brought a camera and a bag of sandwiches |
+| por mucho que | however much, with the subjunctive | y, por mucho que lo intentara, Marisa no recordaba lo que había escrito (lesson 44) | however hard Marisa tried, she could not remember what she had written |
+| para colmo | to make matters worse | Para colmo, la caja estaba llena de agua (lesson 44) | To make matters worse, the box was full of water |
+| estar por + infinitive | is yet to be, remains to be | si se podía leer algo, estaba por ver (lesson 44) | whether anything could still be read remained to be seen |
+4. discourse markers and no es que ... es que (lesson 46): the words that link a speaker's talk, and the two false friends of the week.
+| Marker | What it does | Example from the week | In English |
+|---|---|---|---|
+| en realidad | in fact, actually | pero en realidad lo leí hace diez años (lesson 46) | but in fact I read it ten years ago |
+| de hecho | in fact, to confirm what was said | De hecho, la última página es lo único que recuerdo con claridad. (lesson 46) | In fact, the last page is the only thing I remember clearly |
+| por cierto | by the way, a new point | Por cierto, ¿no hay un Aureliano que se pasa la vida haciendo pescaditos de oro? (lesson 46) | By the way, isn't there an Aureliano who spends his whole life making little gold fish? |
+| a decir verdad | to be honest | A decir verdad, no lo entendí del todo hasta que lo volví a leer. (lesson 46) | To be honest, I didn't really understand it until I read it again |
+| o sea | that is to say, so | O sea, que hace falta releerlo. (lesson 46) | So you have to read it again |
+| total, que | so in the end, in short | Total, que ninguno de nosotros tiene claro quién es quién. (lesson 46) | So in the end none of us is clear about who is who |
+| no es que ... es que | it is not that ..., it is that ... | No es que no lo haya leído, es que hay demasiados Aurelianos para distinguirlos. (lesson 46) | It's not that I haven't read it, it's that there are too many Aurelianos to tell apart |
+The two false friends: actualmente means currently, not actually, as in Actualmente voy por la mitad (lesson 46); eventualmente means possibly, not in the end, which is al final.
+5. the sacar family (lesson 45): the idioms that carry the many meanings of sacar.
+| Idiom | What it does | Example from the week | In English |
+|---|---|---|---|
+| sacar de mis casillas | to make someone lose their temper | Tranquila, que hoy no me vas a sacar de mis casillas. (lesson 45) | Calm down, you're not going to make me lose my temper today |
+| sacar las castañas del fuego | to get someone out of trouble | Rosa, tú siempre sacas las castañas del fuego cuando se pega la comida. (lesson 45) | Rosa, you always pull our chestnuts out of the fire when the food sticks to the pan |
+| sacar a relucir | to bring up a subject | Papá, siempre sacas a relucir la boda de Mercedes. (lesson 45) | Dad, you always bring up Mercedes's wedding |
+| sacar partido de | to make the most of | Tú sí que sacas partido de todo, Tomás (lesson 45) | You really do make the most of everything, Tomás |
+| sacar tajada | to profit from something | Pues en aquella boda, el que más tajada sacó fue el fotógrafo. (lesson 45) | Well, at that wedding the one who profited most was the photographer |
+| sacar los pies del tiesto | to overstep the mark | pero no saques los pies del tiesto con las fotos de la boda (lesson 45) | but don't overstep the mark with the wedding photos |
+| sacar a bailar | to ask someone to dance | Pues ahora mismo saco a bailar a vuestra madre, que se está aburriendo. (lesson 45) | Then I'll ask your mother to dance, she's getting bored |
+Sacar is take out, get and bring up. Where English says take a photo, Spanish says sacar una foto; quitar is take off or away, and tomar is take or drink.
+
+Practice. Ten sentences, five to translate and five to fill in.
+
+aside.en:
+Tomorrow the active wave of this course begins.
+
+ex1:
+- Le ruego que me envíe el justificante de pago.
+  en: I ask you to send me the proof of payment. (formal)
+- Visto el contrato, el comité acepta la propuesta.
+  en: Having looked at the contract, the committee accepts the proposal.
+- Quien no pagare a tiempo perderá el descuento.
+  en: Whoever does not pay on time will lose the discount.
+- Por poco no llegamos a la cita.
+  en: We nearly didn't get to the appointment.
+- Eventualmente, podemos cambiar la hora si no le viene bien.
+  en: We may possibly change the time if it does not suit you. (formal)
+
+ex2:
+- Ese problema [está] por resolver.
+  en: That problem is yet to be solved.
+- [Llevo] dos horas esperando.
+  en: I have been waiting for two hours.
+- [Visto] el expediente, se aprueba la ayuda.
+  en: Having seen the file, the grant is approved. (formal)
+- La deuda pasó a la [vía] de apremio.
+  en: The debt went down the enforcement route.
+- Procédase [a] la notificación de la decisión.
+  en: Proceed with the notification of the decision. (formal)

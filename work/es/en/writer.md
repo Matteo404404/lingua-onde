@@ -298,3 +298,17 @@ word the tool figured wrongly, anything you were unsure of.
   Spanish; when unsure, use the plain que.
 - Valencian or Catalan spellings with à crash the tool: use the Spanish
   spelling the RAE gives (mascletá).
+
+## Rules added after week 11
+
+- Before writing a line, know who says it: in a two-person scene, count the
+  lines so that each speaker's words fit what that person knows and wants.
+- A non sequitur is not a joke ("Aunque sea un año, lo pago yo" answering
+  nothing).
+- An exercise sentence never contradicts the lesson's story or its own
+  logic (if booking earlier would have saved them from the room, it is "no
+  nos habría tocado").
+- culture.en, aside.en: the text goes on the line after the tag, as in the
+  models.
+- A back-reference names the lesson where the form was really taught (the
+  pluperfect is lesson 53; si with the present is lesson 44).

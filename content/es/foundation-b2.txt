@@ -1,3 +1,197 @@
 course: es
 stage: foundation
 bases: en
+
+== 76 B2
+numeral: Lección setenta y seis
+numeral.pron.en: lék*cion* sé*tén*ta i séïss
+title: Si lo hubiera sabido
+title.en: If I'd known
+
+dialogue:
+- Si hubiéramos reservado antes, no nos habría tocado esa habitación.
+  en: If we had booked earlier, we would not have got that room.
+  pron.en: … ou*bié*ramoss réssér*ba*do … a*bri*a to*ca*do …
+- Y si hubiéramos leído las reseñas y las opiniones, lo habríamos sabido.
+  en: And if we had read the reviews and the opinions, we would have known.
+  pron.en: … ré*ssé*gnass … opi*nio*néss … a*bri*amoss sa*bi*do
+- Pues ya ves, no las leímos.
+  en: Well, you see, we didn't read them.
+  pron.en: … béss … lé*i*moss
+- Y si no hubiéramos ido en agosto...
+  en: And if we hadn't gone in August...
+  pron.en: … *i*do …
+- Habríamos ido en septiembre, con la playa vacía.
+  en: We would have gone in September, with the beach empty.
+  pron.en: … sép*tiém*bré … ba*ci*a
+- Y no nos habríamos quemado.
+  en: And we would not have got burnt.
+  pron.en: … ké*ma*do
+- Tú te quemaste. Yo llevaba la sombrilla.
+  en: You got burnt. I had the beach umbrella.
+  pron.en: … ké*mass*té … yé*ba*ba … som*bri*ya
+- Pues la sombrilla se la llevó el viento.
+  en: Well, the wind took the umbrella away.
+  pron.en: … yé*bo* … *bién*to
+- Y si hubiera sabido lo de la carretera, no habría dicho que sí.
+  en: And if I had known about the main road, I would not have said yes.
+  pron.en: … ou*bié*ra … carré*té*ra …
+- Pues yo habría preguntado antes de reservar.
+  en: Well, I would have asked before booking.
+  pron.en: … prégoun*ta*do … réssér*bar*
+- Ya, ¿y qué más habríamos hecho diferente?
+  en: Yes, and what else would we have done differently?
+  pron.en: … difé*rén*té
+- Nada. Habríamos llegado igual.
+  en: Nothing. We would have arrived all the same.
+- ¿Y ahora qué le contamos a todo el mundo?
+  en: So what do we tell everyone now?
+  pron.en: … con*ta*moss …
+- Si no hubiéramos ido, no tendríamos nada que contar.
+  en: If we hadn't gone, we'd have nothing to tell.
+  pron.en: … tén*dri*amoss … con*tar*
+
+notes.en:
+1. Si hubiéramos reservado antes: si with the pluperfect subjunctive, hubiéramos plus the participle, for a past that did not happen: "if we had booked earlier". This is the -ra form of lesson 71, and it is the English "third conditional".
+2. No nos habría tocado: habría plus the participle is the conditional perfect, "would have". The pronoun comes in front of it, nos, as me había dado cuenta did in lesson 72.
+3. Lo habríamos sabido: lo stands for the reviews and the opinions, "we would have known it".
+4. Si hubiera sabido: hubiera is the I form of the same tense, "if I had known". The -se form comes in the revision lesson.
+5. Si no hubiéramos ido, no tendríamos nada que contar: the if-clause is in the past, but the answer is about now, so it takes the plain conditional tendríamos and not the conditional perfect. The English "we would have nothing to tell" follows the same pattern.
+
+culture.en:
+August is the month when many people in Spain go on holiday, and the beaches and the coast are at their busiest.
+
+ex1:
+- Si hubiera sabido, no habría dicho nada.
+  en: If I had known, I would not have said anything.
+- Si hubiéramos reservado antes, no nos habría tocado esa habitación.
+  en: If we had booked earlier, we would not have got that room.
+- Habríamos ido en septiembre.
+  en: We would have gone in September.
+- Y no nos habríamos quemado.
+  en: And we would not have got burnt.
+- Si lo hubiera leído, no habría dicho que sí.
+  en: If I had read it, I would not have said yes.
+
+ex2:
+- Si hubiéramos [reservado] antes, no nos habría tocado esa habitación.
+  en: If we had booked earlier, we would not have got that room.
+- Si lo hubiera [leído], no habría dicho nada.
+  en: If I had read it, I would not have said anything.
+- [Habríamos] ido en septiembre.
+  en: We would have gone in September.
+- Nos habríamos [quemado].
+  en: We would have got burnt.
+- Si hubiera [sabido] lo de la carretera, no habría dicho que sí.
+  en: If I had known about the main road, I would not have said yes.
+
+== 77 B2
+kind: revision
+numeral: Lección setenta y siete
+numeral.pron.en: lék*cion* sé*tén*ta i *sié*té
+title: Revisión y notas
+title.en: Revision and notes
+
+dialogue:
+- Si volviéramos a tener veinte años, ¿qué harías?
+  en: If we were twenty again, what would you do?
+  refs: 71
+- Estudiaría otra cosa, y viajaría más.
+  en: I would study something else, and travel more.
+  refs: 71
+- ¿Y dejarías el trabajo?
+  en: And would you leave your job?
+  refs: 71
+- Ojalá pudiera, pero el alquiler no se paga solo.
+  en: I wish I could, but the rent doesn't pay itself.
+  refs: 59 66 72
+- Pues yo me iría a la costa, como si no tuviera jefe.
+  en: Well, I'd go to the coast, as if I had no boss.
+  refs: 71 72 75
+- ¿Y quién paga el viaje?
+  en: And who pays for the trip?
+  refs: 27 75
+- Aunque sea caro, lo pago yo.
+  en: Even if it's expensive, I'll pay for it.
+  refs: 49 72 73
+- Y en cuanto lleguemos, pido sidra.
+  en: And as soon as we arrive, I'll order a cider.
+  refs: 73 75
+- ¿Y si no tenemos tiempo? Tendremos que pensarlo bien.
+  en: And what if we don't have time? We'll have to think it through.
+  refs: 44 71 73
+- Pues si no tenemos tiempo, no vamos.
+  en: Then if we don't have time, we won't go.
+  refs: 44 71
+- Mira, nunca tenemos tiempo. Hace años que lo decimos.
+  en: Look, we never have time. We have been saying it for years.
+  refs: 31 39
+- Tienes razón. ¿Y si lo hacemos ahora?
+  en: You're right. And what if we do it now?
+  refs: 21 24
+- ¿Ahora? Si acabamos de llegar.
+  en: Now? We have only just got here.
+  refs: 72
+- Pues mejor. Antes de que lo pensemos más, vamos a la estación.
+  en: Right then. Before we think about it any more, let's go to the station.
+  refs: 28 44 73
+- Vale. Vamos a la costa ahora mismo, como si tuviéramos veinte años.
+  en: Right. Let's go to the coast right now, as if we were twenty.
+  refs: 24 44 71 72
+
+notes.en:
+Nothing in this lesson needs to be learnt by heart. The imperfect subjunctive has two endings, and si, como si and the time words are the hardest part of the week, so doubts about them are normal. Each one comes back in the lessons ahead, so use the tables as reminders, not as rules to memorise.
+
+1. The imperfect subjunctive, -ra and -se (lessons 71, 74). Take the third person plural of the preterite, drop the -ron, and add the ending: tocaron gives tocara, tuvieron gives tuviera. The -ra forms are the ones the lessons have used: tocara (lesson 71), fuera (lessons 72 and 74), tuviéramos (this lesson, line 15).
+
+| Person | hablar, -ra | hablar, -se | tener, -ra | tener, -se |
+|---|---|---|---|---|
+| yo | hablara | hablase | tuviera | tuviese |
+| tú | hablaras | hablases | tuvieras | tuvieses |
+| él, ella, usted | hablara | hablase | tuviera | tuviese |
+| nosotros | habláramos | hablásemos | tuviéramos | tuviésemos |
+| vosotros | hablarais | hablaseis | tuvierais | tuvieseis |
+| ellos, ellas, ustedes | hablaran | hablasen | tuvieran | tuviesen |
+
+2. The three kinds of si sentence (lessons 44, 71, 76). Si never takes the future: si tiene, not si tendrá.
+
+| Kind | Si clause | Main clause | English | From the lessons |
+|---|---|---|---|---|
+| real, now or later | si + present | present, future or command | Si hace sol, nos quedamos en casa: "If it is sunny, we stay at home." | lesson 44 |
+| unlikely, now | si + imperfect subjunctive | conditional | Si me tocara la lotería, dejaría el trabajo: "If I won the lottery, I would leave my job." | lesson 71 |
+| unreal past | si + pluperfect subjunctive | conditional perfect | Si hubiéramos reservado antes, no nos habría tocado esa habitación: "If we had booked earlier, we would not have got that room." | lesson 76 |
+
+3. Como si and ojalá (lessons 51, 72, 77). Como si takes the imperfect subjunctive; ojalá takes the imperfect subjunctive for a wish that cannot come true now, and the present subjunctive for one that still may.
+
+| Phrase | Example | English | From the lessons |
+|---|---|---|---|
+| como si + imperfect subjunctive | Como si nada | as if nothing had happened | lesson 72 |
+| como si + imperfect subjunctive | Como si tuviéramos veinte años | as if we were twenty | this lesson, line 15 |
+| ojalá + imperfect subjunctive | Ojalá fuera verdad | I wish it were true | lesson 72 |
+| ojalá + present subjunctive | ¡Ojalá les toque! | I hope they win | lesson 51 |
+
+4. Time words with the subjunctive (lessons 52, 73). The subjunctive follows these words when the thing has not happened yet.
+
+| Word | Example | When the subjunctive | From the lessons |
+|---|---|---|---|
+| antes de que | Antes de que volvamos | always | lesson 73 |
+| hasta que | Hasta que te llamemos | when it has not happened yet | lesson 73 |
+| en cuanto | En cuanto te levantes | for a moment still to come | lesson 73 |
+| cuando | Cuando seas mayor | for a time still to come | lesson 52 |
+
+5. The sequence of tenses (lessons 50, 74). The tense of the main verb decides the tense after que.
+
+| Main verb | Verb after que | Example | From the lessons |
+|---|---|---|---|
+| present or future | present subjunctive | Quiero que empiece mañana | lesson 50 |
+| preterite or imperfect, a past | imperfect subjunctive | Me pidió que fuera testigo | lesson 74 |
+
+6. Aunque (lesson 75). With the indicative aunque states a fact; with the subjunctive it names a possibility.
+
+| Form | Example | English | From the lessons |
+|---|---|---|---|
+| aunque + indicative, a fact | Aunque hace frío | although it is cold | lesson 75 |
+| aunque + subjunctive, a possibility | Aunque llueva | even if it rains | lesson 75 |
+| aunque + subjunctive, a possibility | Aunque sea caro | even if it is expensive | this lesson, line 7 |
+
+That closes the week: the subjunctive has come a long way, and the rest of the course keeps using it.

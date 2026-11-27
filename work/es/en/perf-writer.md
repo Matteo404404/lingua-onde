@@ -337,3 +337,12 @@ you think is wrong (quote it, do not change it).
   own (no "la de las maletas, que van siete, y así llevas las de perder").
 - Dates you are not sure to the year are given by decade (en los años
   treinta).
+
+## Rules added after week 6
+
+- In a two-person dialogue, lines alternate: never give one speaker two
+  lines in a row without a reason, and never let a speaker ask for
+  something the scene has ruled out (the instructor is not in the car
+  during the test).
+- A line does not say the same word twice for nothing ("para charlar usan
+  platicar, donde aquí diríamos charlar").

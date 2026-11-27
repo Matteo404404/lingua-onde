@@ -308,3 +308,13 @@ you think is wrong (quote it, do not change it).
   that means nothing ("la ha convertido en acueducto").
 - An exercise never quotes a line that was cut or changed: check against
   the final dialogue.
+
+## Rules added after week 3
+
+- A first-person twist must not contradict what the narrator said earlier:
+  a narrator who turns out to be the singer cannot have complained about
+  hearing the singing; plant the clue instead (yo no lo oigo nunca, porque a
+  esa hora ya estoy en la ducha).
+- "otra obra de" only after the first work has been named.
+- A comparison must compare two different things (la crema catalana,
+  parecida a las natillas), never a thing with itself.

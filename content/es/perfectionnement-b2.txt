@@ -1195,3 +1195,604 @@ ex2:
   en: That suit suits your brother very well.
 - Ya no [queda] ni un trozo de tarta.
   en: There isn't a single piece of cake left.
+
+== 15 B2
+numeral: Lección quince
+title: Dar
+title.en: To give, and much more
+
+dialogue:
+- Sergio llega a la cafetería diez minutos antes, como siempre, y se sienta junto a la ventana, que da a una plaza pequeña.
+  en: Sergio arrives at the café ten minutes early, as always, and sits down by the window, which looks onto a small square.
+- Ha quedado con Irene a las ocho. Es la primera vez que se ven en persona, porque hasta ahora solo han hablado por el móvil.
+  en: He has arranged to meet Irene at eight. It is the first time they will meet in person, because until now they have only talked on the phone.
+- Son las ocho y cuarto, y Irene no ha llegado. Sergio se dice que no pasa nada: a esta hora el tráfico es un desastre.
+  en: It is a quarter past eight, and Irene has not arrived. Sergio tells himself there is nothing to worry about: at this hour the traffic is a disaster.
+- Llega un mensaje: «Me doy prisa, que mi sobrina me ha dado guerra toda la tarde.»
+  en: A message arrives: "I'm hurrying, my niece has been a real handful all afternoon."
+- La camarera, una mujer de unos cincuenta años, se acerca y le pregunta si quiere algo más.
+  en: The waitress, a woman of about fifty, comes over and asks whether he would like anything else.
+- «No quiero darle la lata, pero hay gente esperando a que se libere esta mesa.»
+  en: "I don't want to pester you, but there are people waiting for this table to be free."
+- Sergio responde: «Espero un rato más. No me da la gana irme sin verla.»
+  en: Sergio replies: "I'll wait a little longer. I'm not leaving without seeing her."
+- La camarera no insiste y vuelve a la barra. Sergio se da cuenta de que han pasado ya cuarenta minutos desde las ocho.
+  en: The waitress does not insist and goes back to the bar. Sergio realises that forty minutes have already gone by since eight.
+- Le da vergüenza seguir allí sin pedir nada, y le da igual lo que cueste: pide otro café, y luego otro.
+  en: He is embarrassed to stay there without ordering anything, and it does not matter to him what it costs: he orders another coffee, and then another.
+- Irene escribe otra vez: «Ya casi estoy.» Pero no llega, y no vuelve a escribir.
+  en: Irene writes again: "I'm almost there." But she does not arrive, and she does not write again.
+- Busca el móvil en el bolsillo del abrigo, y cuando por fin da con él, le da miedo mirarlo.
+  en: He searches for his phone in the pocket of his coat, and when he finally finds it, he is afraid to look at it.
+- Lo deja boca abajo sobre la mesa y sale a la plaza para dar una vuelta.
+  en: He puts it face down on the table and goes out to the square for a stroll.
+- Al volver, da la vuelta a la silla para ver la puerta de frente.
+  en: When he comes back, he turns the chair round to face the door.
+- En la mesa de al lado, un chico se las da de experto en cerveza, y explica a sus amigos cuál es la mejor del mundo.
+  en: At the next table a young man poses as an expert on beer, and explains to his friends which one is the best in the world.
+- La camarera pasa con una bandeja y se detiene un momento: su hija ha dado a luz esta semana, y le da pena verlo tan solo.
+  en: The waitress walks past with a tray and stops for a moment: her daughter has given birth this week, and she feels sorry to see him so alone.
+- «¿Sigue esperando a alguien?»
+  en: "Are you still waiting for someone?"
+- «Sí, a una chica. Quedamos a las ocho, pero no ha venido.»
+  en: "Yes, a girl. We arranged to meet at eight, but she hasn't come."
+- «Pues yo creo que le ha dado plantón. Casi siempre doy en el clavo con estas cosas.»
+  en: "Well, I think she has stood you up. I usually hit the nail on the head with these things."
+- «No diga eso. Irene no es de las que dan calabazas.»
+  en: "Don't say that. Irene is not the type to turn people down."
+- El reloj de la pared empieza a dar las diez, y Sergio cuenta las campanadas sin levantar la vista del móvil.
+  en: The wall clock starts to strike ten, and Sergio counts the chimes without looking up from his phone.
+- La camarera se quita el delantal, se acerca a su mesa y escribe un número en una servilleta.
+  en: The waitress takes off her apron, comes over to his table and writes a number on a serviette.
+- «Mi turno acaba a las diez. Si le han dado plantón, aquí tiene mi número.»
+  en: "My shift ends at ten. If you have been stood up, here is my number."
+
+notes.en:
+1. da a una plaza (sentence 1): dar a with a place means to look onto it or open onto it, as the window faces the square. Example: Mi cuarto da al patio, "my room looks onto the courtyard". The word ventana is in Foundation (Foundation, lesson 12: ventana).
+2. Me doy prisa (sentence 4): darse prisa means to hurry, and the reflexive pronoun stays in every form: me doy, te das, se da. The literal sense is "to give oneself haste". Example: Date prisa, que llegamos tarde, "hurry up, we're late" (to a friend).
+3. me ha dado guerra (sentence 4): dar guerra means to be a handful, to cause trouble, usually said of a child. The perfect says the afternoon is not over. Example: Este niño da mucha guerra, "this child is a real handful".
+4. darle la lata (sentence 6): dar la lata means to pester or bore someone. Lata is a tin can, and a rattling can is a nuisance. Example: Deja de darme la lata, "stop pestering me" (to a friend).
+5. No me da la gana irme (sentence 7): no me da la gana with an infinitive means "I don't feel like it, I'm not going to". The literal sense is "it does not give me the wish": gana is desire, as in tener ganas de. It is familiar and a little blunt. Example: No me da la gana ir al gimnasio hoy, "I don't feel like going to the gym today".
+6. se da cuenta de que (sentence 8): darse cuenta de means to realise, and the literal sense is "to give oneself account of". Do not use realizar for it: that is a false friend (Foundation, lesson 96: realizar). Example: Me di cuenta de que llovía, "I realised it was raining".
+7. Le da vergüenza (sentence 9): dar vergüenza means to make someone feel embarrassed or ashamed, and English says "to be embarrassed". The thing that causes the feeling is the subject, so the verb is in the third person. Example: Me da vergüenza pedir ayuda, "I'm embarrassed to ask for help". The noun is in Foundation (Foundation, lesson 38: vergüenza).
+8. le da igual lo que cueste (sentence 9): dar igual means it does not matter, and the literal sense is "to give the same". Lo que cueste is "whatever it costs". Example: Me da igual, "it doesn't matter to me, I don't mind".
+9. da con él (sentence 11): dar con means to find something after looking for it, often after some effort or by chance. Example: Por fin doy con las llaves, "I finally find the keys".
+10. le da miedo mirarlo (sentence 11): dar miedo means to frighten, and English says "to be afraid of". The feared thing is the subject, here the infinitive mirarlo. Example: Me da miedo la oscuridad, "I'm afraid of the dark".
+11. dar una vuelta (sentence 12): dar una vuelta means to go for a walk or a stroll, and the literal sense is "to give a turn". Example: Doy una vuelta antes de cenar, "I'm going for a stroll before dinner".
+12. da la vuelta a la silla (sentence 13): dar la vuelta a means to turn something round or over. The same phrase with a plate is in Foundation (Foundation, lesson 34: dale la vuelta con un plato). Example: Da la vuelta a la tortilla con un plato, "turn the omelette over with a plate".
+13. se las da de experto (sentence 14): dárselas de means to pose as something, to put on airs of being it. The pronouns go with it: me las doy de, te las das de, se las da de. The literal sense is "to give oneself them of", where las stands for the airs. Example: Se las da de gracioso, pero nadie se ríe, "he poses as the funny one, but nobody laughs".
+14. ha dado a luz (sentence 15): dar a luz means to give birth, and the literal sense is "to give to the light". The perfect is used because the week is not over. Example: Mi hermana dio a luz en marzo, "my sister gave birth in March".
+15. le da pena verlo (sentence 15): dar pena means that something makes you sad or sorry, and pena also means a pity. The word is in Foundation (Foundation, lesson 38: pena). Example: Me da pena que se vaya, "it's a pity he's leaving", with the subjunctive after the feeling.
+16. le ha dado plantón (sentence 18): dar plantón means to stand someone up: to leave them waiting and not turn up. The literal sense is to leave someone standing. Example: Me dio plantón en la puerta del cine, "she stood me up at the cinema door".
+17. doy en el clavo (sentence 18): dar en el clavo means to hit the nail on the head, to guess right. The literal sense is the same. Example: Has dado en el clavo, "you've hit the nail on the head".
+18. dan calabazas (sentence 19): dar calabazas means to turn someone down, mostly in love: the one who refuses a suitor gives calabazas. The literal sense is "to give pumpkins". Example: Le dio calabazas en la primera cita, "she turned him down on the first date".
+19. dar las diez (sentence 20): dar las plus an hour means the clock strikes that hour, and the chimes are the campanadas. Example: El reloj de la iglesia da las siete, "the church clock strikes seven".
+20. Expressions of this lesson, with the sentence and the note:
+da a una plaza (sentence 1, note 1)
+darse prisa (sentence 4, note 2)
+dar guerra (sentence 4, note 3)
+dar la lata (sentence 6, note 4)
+no me da la gana (sentence 7, note 5)
+darse cuenta de (sentence 8, note 6)
+dar vergüenza (sentence 9, note 7)
+dar igual (sentence 9, note 8)
+dar con (sentence 11, note 9)
+dar miedo (sentence 11, note 10)
+dar una vuelta (sentence 12, note 11)
+dar la vuelta a (sentence 13, note 12)
+dárselas de (sentence 14, note 13)
+dar a luz (sentence 15, note 14)
+dar pena (sentence 15, note 15)
+dar plantón (sentence 18, note 16)
+dar en el clavo (sentence 18, note 17)
+dar calabazas (sentence 19, note 18)
+dar las diez (sentence 20, note 19)
+
+ex1:
+- Me da igual lo que piense la gente.
+  en: I don't mind what people think.
+- Me da vergüenza pedir perdón en público.
+  en: I am embarrassed to apologise in public.
+- Se da cuenta de que la puerta está abierta.
+  en: He realises the door is open.
+- No me da la gana salir con este frío.
+  en: I don't feel like going out in this cold. (to a friend)
+- Mi hermana dio a luz en marzo.
+  en: My sister gave birth in March.
+
+ex2:
+- Date [prisa], que llegamos tarde.
+  en: Hurry up, we're late.
+- Me [da] pena verlo así.
+  en: It makes me sad to see him like this.
+- Mi hermano siempre me [da] la lata con lo mismo.
+  en: My brother always pesters me about the same thing.
+- Tu hermana ha [dado] en el clavo.
+  en: Your sister has hit the nail on the head.
+- Mi cuarto [da] al patio.
+  en: My room looks onto the courtyard.
+
+== 16 B2
+numeral: Lección dieciséis
+title: Velázquez
+title.en: Velázquez
+
+dialogue:
+- Diego Velázquez nació en Sevilla en 1599, y murió en Madrid en 1660.
+  en: Diego Velázquez was born in Seville in 1599, and died in Madrid in 1660.
+- Se formó en Sevilla con Francisco Pacheco, que más tarde sería su suegro.
+  en: He trained in Seville with Francisco Pacheco, who would later become his father-in-law.
+- Según los historiadores, en sus primeros años pintó escenas de cocina, con gente humilde y objetos de todos los días.
+  en: According to historians, in his early years he painted kitchen scenes, with humble people and everyday objects.
+- Una de ellas, una vieja que fríe huevos, pintada en 1618, se conserva hoy en Edimburgo.
+  en: One of them, an old woman frying eggs, painted in 1618, is preserved today in Edinburgh.
+- Otra, El aguador de Sevilla, está en Londres, en Apsley House.
+  en: Another, The Water Seller of Seville, is in London, at Apsley House.
+- En 1618 se casó con Juana Pacheco, la hija de su maestro.
+  en: In 1618 he married Juana Pacheco, his master's daughter.
+- En 1623 llegó a la corte de Madrid como pintor del rey Felipe IV, y al parecer el rey le tenía gran aprecio.
+  en: In 1623 he came to the court in Madrid as painter to King Philip IV, and apparently the king held him in high regard.
+- Pintó La rendición de Breda, que también se conoce como Las lanzas, y muestra la entrega de la ciudad a las tropas españolas en 1625.
+  en: He painted The Surrender of Breda, also known as Las lanzas (The Lances), and it shows the city handing itself over to Spanish troops in 1625.
+- Viajó dos veces a Italia.
+  en: He travelled to Italy twice.
+- En Roma, en 1650, retrató al papa Inocencio X.
+  en: In Rome, in 1650, he painted a portrait of Pope Innocent X.
+- En Londres, la National Gallery guarda la Venus del espejo.
+  en: In London, the National Gallery holds the Rokeby Venus.
+- Es un desnudo visto de espaldas, y su rostro se refleja en un espejo.
+  en: It is a nude seen from behind, and her face is reflected in a mirror.
+- En 1659, ya al final de su vida, Felipe IV lo hizo caballero de la Orden de Santiago.
+  en: In 1659, late in his life, Philip IV made him a knight of the Order of Santiago.
+- Su obra más famosa, Las meninas, sigue en el Prado y ha dado lugar a muchísimos estudios.
+  en: His most famous work, Las meninas, is still in the Prado and has given rise to a great many studies.
+- En el cuadro aparece el propio pintor, de pie ante un gran lienzo.
+  en: In the painting the painter himself appears, standing before a large canvas.
+- Sobre su pecho destaca una cruz roja, la de la Orden de Santiago.
+  en: On his chest a red cross stands out, that of the Order of Santiago.
+- Al parecer, la cruz no estaba al principio: se pintó después de recibir la orden.
+  en: Apparently the cross was not there at the start: it was painted after he received the order.
+- Según la leyenda, la pintó el propio rey.
+  en: According to legend, the king himself painted it.
+
+notes.en:
+1. Sería su suegro (sentence 2): the conditional here is the future seen from the past. At that time Pacheco was not yet his father-in-law, so sería says "would be". Example: Sabía que sería difícil, "he knew it would be difficult".
+2. Según los historiadores (sentence 3): según plus a source means "according to", and the source follows it. Example: Según el periódico, mañana llueve, "according to the paper, it will rain tomorrow".
+3. se conserva hoy (sentence 4): se conserva is the reflexive form for something that is kept, and hoy shows that it is still true today, so the present is used. Example: Este castillo se conserva muy bien, "this castle is very well preserved".
+4. está en Londres (sentence 5): estar says where a thing is, and ser says where an event takes place (Foundation, lesson 7: ser and estar). Example: El cuadro está en el museo, "the painting is in the museum".
+5. se casó con (sentence 6): casarse con means to marry, and the reflexive pronoun is part of the verb. Example: Se casó con su novio de la universidad, "she married her boyfriend from university". Maestro here means his teacher, the master in whose workshop he trained.
+6. Al parecer (sentence 7): al parecer means "apparently", and it reports what seems to be so from the evidence, more carefully than dicen que. Example: Al parecer, el tren llega con retraso, "apparently the train is late".
+7. se conoce como (sentence 8): se conoce como means "is known as", and the name after como is the one people use. Example: Ese postre se conoce como tarta de Santiago, "that dessert is known as tarta de Santiago".
+8. Viajó dos veces (sentence 9): viajó is the preterite, because the two journeys are over. The perfect, ha viajado, would be for a time that is not over. Example: Viajé a Roma el año pasado, "I went to Rome last year".
+9. retrató (sentence 10): retratar means to paint or draw a portrait of someone, from retrato. Example: Un pintor me retrató en su estudio, "a painter made a portrait of me in his studio".
+10. de espaldas (sentence 12): de espaldas means with the back turned, seen from behind. Example: Se sentó de espaldas a la ventana, "she sat with her back to the window".
+11. lo hizo caballero (sentence 13): hacer plus a noun or an adjective means to make someone into it, and lo is the pronoun for the man. Example: El jefe lo hizo responsable del proyecto, "the boss made him responsible for the project".
+12. Las meninas (sentence 14): the title keeps its Spanish form and the painting is in the Prado (Foundation, lesson 29: Las Meninas). Example: Vi Las Meninas en el Prado, "I saw Las Meninas in the Prado".
+13. después de recibir la orden (sentence 17): después de plus an infinitive means "after doing" something, and the infinitive has no subject of its own: here it is the painter who receives the order. Example: Después de comer, salimos a dar un paseo, "after eating, we went out for a walk".
+14. Según la leyenda (sentence 18): según la leyenda means "according to legend", the form for a story told as a legend. The conditional of rumour, habría pintado, is the newspaper form for what is reported but not confirmed. Example: Según la prensa, el cuadro habría sido retocado, "according to the press, the painting would have been touched up".
+15. Reporting what is said (this lesson): según, al parecer and según la leyenda are the forms above; por lo visto (familiar) means "apparently" in speech, as in Por lo visto, no ha venido nadie, "apparently nobody has come". Se dice que and dicen que mean "it is said that" and "they say that", and se cuenta que means "it is told that". The speaker does not vouch for what follows.
+
+ex1:
+- Según el profesor, el examen es el martes.
+  en: According to the teacher, the exam is on Tuesday.
+- Al parecer, el museo tiene una sala nueva.
+  en: Apparently the museum has a new room.
+- Se dice que el vino de esta zona es muy bueno.
+  en: They say the wine from this area is very good.
+- Viajé a Roma el año pasado.
+  en: I went to Rome last year.
+- Ese pastel se conoce como tarta de Santiago en todo el país.
+  en: That cake is known as tarta de Santiago all over the country.
+
+ex2:
+- [Según] la radio, hay tormentas esta tarde.
+  en: According to the radio, there are storms this afternoon.
+- Se [dice] que el hotel es muy bueno.
+  en: They say the hotel is very good.
+- Viajé a Londres [dos] veces.
+  en: I went to London twice.
+- Un pintor me [retrató] en su estudio.
+  en: A painter made a portrait of me in his studio.
+- Al [parecer], el tren llega tarde.
+  en: Apparently the train is late.
+
+== 17 B2
+numeral: Lección diecisiete
+title: El del quinto
+title.en: The man on the fifth floor
+
+dialogue:
+- En mi edificio de Madrid hay un patio de luces, y por ese patio se oye todo.
+  en: In my block of flats in Madrid there is a patio de luces, an inner light well, and through it you can hear everything.
+- Oigo a los vecinos de enfrente discutir, una radio en algún piso y un loro que dice «¡Ya voy!» a todas horas.
+  en: I hear the neighbours opposite arguing, a radio on some floor, and a parrot that says "I'm coming!" at all hours.
+- Lo peor, según los vecinos, llega cada mañana a las siete: alguien canta en la ducha, y canta muy mal.
+  en: The worst, according to the neighbours, comes every morning at seven: someone sings in the shower, and sings very badly.
+- Dicen que empieza antes de que suene el despertador. Yo no lo oigo nunca, porque a esa hora ya estoy en la ducha.
+  en: They say it starts before the alarm goes off. I never hear it, because at that time I'm already in the shower.
+- Un día, en el portal, oigo a dos vecinos hablar del mismo problema.
+  en: One day, in the entrance hall, I hear two neighbours talking about the same problem.
+- «Yo lo oí ayer cantando algo de la radio, y no paró en media hora», dice el del cuarto.
+  en: "I heard him yesterday singing something from the radio, and he didn't stop for half an hour", says the man from the fourth floor.
+- «Pues nadie le dice nada, y sigue cantando sin que nadie lo pare.»
+  en: "Well, nobody says anything to him, and he goes on singing without anyone stopping him."
+- «Pues en la reunión lo decimos todos», contesta la señora Pilar.
+  en: "Well, we'll all say it at the meeting", replies Pilar.
+- La reunión es el jueves a las ocho, en el portal, y acuden todos los vecinos.
+  en: The meeting is on Thursday at eight, in the entrance hall, and all the neighbours come.
+- Llegan con sus quejas: la pareja de enfrente, la señora de los gatos y el señor del primero.
+  en: They arrive with their complaints: the couple opposite, the lady with the cats and the man from the first floor.
+- «Yo no lo escucho, lo oigo, que es distinto», dice el señor del primero, y nadie le contesta.
+  en: "I don't listen to it, I hear it, which is different", says the man from the first floor, and nobody answers him.
+- Román, el presidente de la comunidad, pide la palabra y pregunta quién es el cantante.
+  en: Román, the chair of the residents' association, asks for the floor and wants to know who the singer is.
+- Nadie lo sabe: el sonido da tantas vueltas por el patio que no se sabe de qué piso viene.
+  en: Nobody knows: the sound goes round and round the patio, so nobody can tell which floor it comes from.
+- «Pues yo lo oigo desde el segundo, y el otro día lo vi bajando la escalera con la toalla al hombro: es el del quinto», dice la señora Pilar.
+  en: "Well, I hear him from the second floor, and the other day I saw him coming down the stairs with a towel over his shoulder: he's the one on the fifth", says Pilar.
+- «Pues habrá que escribirle una carta», propone Román, y todos asienten a la vez.
+  en: "Then we'll have to write him a letter", Román suggests, and everyone nods at once.
+- Yo asiento también, y apunto en el acta: «Carta al del quinto».
+  en: I nod too, and write in the minutes: "Letter to the man on the fifth".
+- Antes de que acabe la reunión, la señora Pilar me mira y pregunta: «¿Y usted de qué piso es?»
+  en: Before the meeting ends, Pilar looks at me and asks: "And which floor are you on?"
+- Tardo un momento en contestar, con el bolígrafo en la mano.
+  en: I take a moment to answer, with the pen in my hand.
+- «Pues yo vivo en el quinto.»
+  en: "Well, I live on the fifth floor."
+
+notes.en:
+1. Oigo a los vecinos (sentence 2): oír is to hear, the sound reaching you without any choice on your part. The neighbours are people, so the object takes the a. Example: Oigo la lluvia en el tejado, "I hear the rain on the roof".
+2. Oigo a los vecinos de enfrente discutir (sentence 2): oír with a person and an infinitive means you hear them doing something, and the infinitive is the action. Example: Oí a mi hermana reír en la cocina, "I heard my sister laughing in the kitchen".
+3. antes de que suene (sentence 4): antes de que always takes the subjunctive. The alarm has not gone off yet, so the verb is suene, not suena. Example: Llámame antes de que salgas, "call me before you leave".
+4. sin que nadie lo pare (sentence 7): sin que takes the subjunctive, because the thing that does not happen has not happened yet. The sense is "without anyone doing it". Example: Lo hago sin que nadie me lo pida, "I do it without anyone asking me".
+5. Yo no lo escucho, lo oigo (sentence 11): escuchar means to listen on purpose, while oír means to hear what reaches you. Example: Escucho lo que dices, pero no te oigo bien, "I listen to what you say, but I can't hear you well".
+6. pide la palabra (sentence 12): pedir la palabra means to ask to speak at a meeting, and the literal sense is "to ask for the word". Example: Pido la palabra, "I would like to say something".
+7. de qué piso viene (sentence 13): de qué plus a noun asks which one, and here the sound comes from some floor. Example: ¿De qué lado viene el viento? "which direction is the wind coming from?"
+8. lo vi bajando la escalera (sentence 14): ver with a gerund shows you saw the action in progress, caught halfway through, and English says "I saw him coming down". Example: Te vi cruzando la calle, "I saw you crossing the street".
+9. habrá que escribirle (sentence 15): habrá que plus an infinitive means "we will have to", and the pronoun le joins the infinitive at its end, so it means "to write him". Example: Habrá que llamar al fontanero, "we will have to call the plumber".
+10. el del quinto (sentences 14 and 16): el del plus a floor or a place names the person by where they live: el del quinto is "the one on the fifth floor". Example: El del tercero toca el piano, "the one on the third floor plays the piano".
+11. antes de que acabe (sentence 17): the second time antes de que takes the subjunctive, because the meeting has not ended yet. Pilar uses usted, the form for someone you do not know well. Example: Me voy antes de que empiece la lluvia, "I'm leaving before the rain starts".
+
+ex1:
+- Oigo a mi hermano silbar en la cocina.
+  en: I hear my brother whistling in the kitchen.
+- Te vi bajando del autobús esta mañana.
+  en: I saw you getting off the bus this morning. (to a friend)
+- Lo hago sin que nadie me lo pida.
+  en: I do it without anybody asking me.
+- Habrá que llamar al fontanero.
+  en: We will have to call the plumber.
+- Antes de que llueva, cerramos las ventanas.
+  en: Before it rains, we close the windows.
+
+ex2:
+- Antes de [que] suene el despertador, ya estoy despierto.
+  en: Before the alarm goes off, I am already awake.
+- Lo hago sin [que] nadie me lo pida.
+  en: I do it without anyone asking me.
+- [Habrá] que llamar al fontanero.
+  en: We will have to call the plumber.
+- La vecina [del] tercero toca el piano.
+  en: The neighbour on the third floor plays the piano.
+- Los [vi] cruzando el puente.
+  en: I saw them crossing the bridge.
+
+== 18 B2
+numeral: Lección dieciocho
+title: Cataluña
+title.en: Catalonia
+
+dialogue:
+- Cataluña está en el noreste de España, y tiene cuatro provincias: Barcelona, Girona, Lleida y Tarragona.
+  en: Catalonia is in the north-east of Spain, and it has four provinces: Barcelona, Girona, Lleida and Tarragona.
+- Aquí hay dos lenguas oficiales: el catalán y el castellano, y las dos se hablan en la calle.
+  en: Here there are two official languages: Catalan and Spanish, and both are spoken in the street.
+- La capital es Barcelona, y en su centro está la Rambla, un paseo largo y lleno de gente, con puestos de flores y de pájaros.
+  en: The capital is Barcelona, and in its centre is the Rambla, a long promenade full of people, with stalls selling flowers and birds.
+- En la ciudad está también el Park Güell, de Gaudí, con bancos de mosaico desde los que se ve toda la ciudad.
+  en: The city also has the Park Güell, another work by Gaudí, with mosaic benches from which you can see the whole city.
+- La Sagrada Familia, la gran obra de Gaudí, empezó a construirse en 1882, y sigue en obras más de un siglo después.
+  en: The Sagrada Familia, Gaudí's great work, began to be built in 1882, and it is still under construction more than a century later.
+- Las Olimpiadas de 1992 se celebraron en Barcelona, y todavía se ven en la costa los barrios que se hicieron para ellas.
+  en: The Olympic Games of 1992 were held in Barcelona, and the districts built for them can still be seen on the coast.
+- No muy lejos de la ciudad, en lo alto de una montaña, está el monasterio de Montserrat.
+  en: Not far from the city, high on a mountain, is the monastery of Montserrat.
+- Allí se venera la Moreneta, la imagen de la Virgen, a la que va muchísima gente cada año.
+  en: There the Moreneta, the image of the Virgin, is venerated, and a great many people visit her every year.
+- En Cataluña también se hacen los «castells», torres humanas de varios pisos, que se levantan con los hombros y las manos de muchas personas.
+  en: In Catalonia people also build «castells», human towers several storeys high, raised on the shoulders and hands of many people.
+- En el Penedès se hace el cava, un vino espumoso parecido al champán, pero que no puede llamarse así.
+  en: In the Penedès they make cava, a sparkling wine that is like champagne, but it may not be called champagne.
+- Para comer, uno de los platos más típicos es el pa amb tomàquet: pan tostado con tomate, aceite y sal.
+  en: For a meal, one of the most typical dishes is pa amb tomàquet: toasted bread with tomato, oil and salt.
+- De postre, la crema catalana, parecida a las natillas, con el azúcar quemado por encima.
+  en: For dessert, crema catalana, like a custard, with the sugar burnt on top.
+- En Tarragona, junto al mar, hay un anfiteatro romano.
+  en: In Tarragona, by the sea, there is a Roman amphitheatre.
+- En los carteles de las calles se leen «carrer» y «plaça», que en castellano son «calle» y «plaza».
+  en: On the street signs you read «carrer» and «plaça», which in Spanish are «calle» and «plaza».
+- Girona y Lleida son los nombres oficiales, pero en castellano se dice Gerona y Lérida.
+  en: Girona and Lleida are the official names, but in Spanish people say Gerona and Lérida.
+- En una panadería de Barcelona se puede oír «bon dia» y contestar «buenos días».
+  en: In a bakery in Barcelona you may hear «bon dia» and answer «buenos días».
+- Al despedirse, muchos dicen «adéu», que es el «adiós» de la lengua catalana.
+  en: On saying goodbye, many people say «adéu», the Catalan for «adiós».
+- Cada año, el 23 de abril, el día de Sant Jordi, la gente se regala una rosa y un libro.
+  en: Every year, on 23 April, Sant Jordi's day, people give each other a rose and a book.
+
+notes.en:
+1. el catalán (sentence 2): Catalan is a language of its own, not a dialect of Spanish, and it is official in the region next to Spanish, as Foundation shows (Foundation, lesson 88: catalán). The same is true of Galician (lesson 11, note 6). Example: En Cataluña se habla catalán en la calle, "in Catalonia Catalan is spoken in the street".
+2. la Sagrada Familia (sentence 5): the Spanish name of the church, which in Catalan is Sagrada Família, with an accent on the í. Building began in 1882, as the text says. Example: Visitamos la Sagrada Familia por la tarde, "we visited the Sagrada Familia in the afternoon".
+3. la Moreneta (sentence 8): in Catalan the name means "the little dark one", and it is the name of the image of the Virgin at Montserrat. Example: Muchos catalanes van a Montserrat a ver a la Moreneta, "many Catalans go to Montserrat to see the Moreneta".
+4. los «castells» (sentence 9): in Catalan the word means "castles", and the human towers are named after them. Example: Visitamos un castillo medieval, "we visited a medieval castle".
+5. el cava (sentence 10): the sparkling wine of the Penedès; the name champagne is kept for the French region, so cava may not be called champagne. Example: Nos sirvieron cava frío en la boda, "they served us cold cava at the wedding".
+6. pa amb tomàquet (sentence 11): in Catalan, pa amb tomàquet means "bread with tomato"; in Spanish it is pan con tomate. Example: En el bar pedí pan con tomate, "in the bar I ordered bread with tomato".
+7. «carrer» y «plaça» (sentence 14): in Catalan carrer is the Spanish calle, and plaça is plaza, as the street signs show. Example: Esa plaza está llena los domingos, "that square is full on Sundays".
+8. Girona, Lleida, Gerona, Lérida (sentence 15): Girona and Lleida are the official Catalan names; in Spanish the names are Gerona and Lérida. Example: Vamos a Gerona en tren, "we're going to Gerona by train".
+9. «bon dia» (sentence 16): the Catalan for "buenos días", which Foundation, lesson 88 also has (Foundation, lesson 88: bon dia). Example: Buenos días a todos, "good morning to everyone", in Spanish.
+10. «adéu» (sentence 17): the Catalan for "adiós"; "see you tomorrow" is fins demà in Catalan. Example: Adéu, fins demà, "goodbye, see you tomorrow", said in Catalan.
+11. Sant Jordi (sentence 18): the Catalan name of Saint George, San Jorge in Spanish; on 23 April people give each other a rose and a book. Example: Mi hermana me regaló un libro el 23 de abril, "my sister gave me a book on 23 April".
+
+ex1:
+- Me gusta pasear por las ramblas los domingos.
+  en: I like walking along the Ramblas on Sundays.
+- Hay un castillo en lo alto de la colina.
+  en: There is a castle at the top of the hill.
+- Ese tren va de Barcelona a Tarragona.
+  en: That train goes from Barcelona to Tarragona.
+- Nos sirvieron cava frío en la boda.
+  en: They served us cold cava at the wedding.
+- Me encanta el pan con tomate y aceite.
+  en: I love bread with tomato and oil.
+
+ex2:
+- Pedimos crema catalana [de] postre.
+  en: We ordered crema catalana for dessert.
+- Brindamos con una copa de [vino] espumoso.
+  en: We toast with a glass of sparkling wine.
+- Para desayunar tomamos pan con [aceite].
+  en: For breakfast we have bread with oil.
+- Hemos visto la Sagrada Familia, y [sigue] en obras.
+  en: We have seen the Sagrada Familia, and it is still under construction.
+- Visitamos un [anfiteatro] romano en Tarragona.
+  en: We visited a Roman amphitheatre in Tarragona.
+
+== 19 B2
+numeral: Lección diecinueve
+title: El telediario (1)
+title.en: The news, part 1
+
+dialogue:
+- Buenas noches. Empieza el telediario con la noticia del día: un nuevo carril bici en el centro de la ciudad.
+  en: Good evening. The bulletin begins with the news of the day: a new cycle lane in the city centre.
+- Lo anuncia el alcalde, que asegura que el carril estará listo antes de Navidad.
+  en: The mayor announces it, and assures us that the lane will be ready before Christmas.
+- Los ciclistas aplauden la medida, pero los taxistas la critican.
+  en: Cyclists welcome the measure, but taxi drivers criticise it.
+- Después, el sindicato de ferroviarios informa de que la huelga de trenes empieza el lunes.
+  en: Then the railway union reports that the train strike begins on Monday.
+- El portavoz declara que la huelga durará cuarenta y ocho horas.
+  en: The spokesman declares that the strike will last forty-eight hours.
+- Esta tarde, la empresa desmiente que haya recortes en las rutas, y asegura que el servicio volverá a la normalidad el jueves.
+  en: This afternoon the company denies that there are cuts to the routes, and says that the service will return to normal on Thursday.
+- Sobre los alquileres, el telediario ha hablado con una agencia inmobiliaria: ha subido el alquiler de los pisos del centro.
+  en: On rents, the bulletin has spoken to an estate agency: the rent on flats in the centre has gone up.
+- Según el informe, se han registrado un doce por ciento más de contratos de alquiler en el último trimestre.
+  en: According to the report, twelve per cent more rental contracts have been registered in the last quarter.
+- Se espera que los precios sigan subiendo en invierno, aunque nadie quiere dar una cifra.
+  en: Prices are expected to keep rising in winter, although nobody wants to give a figure.
+- Y ahora, la noticia que todos esperábamos: un lince ibérico filmado cerca de una autovía en Andalucía.
+  en: And now the news we have all been waiting for: an Iberian lynx, filmed near a dual carriageway in Andalusia.
+- Lo ha grabado la cámara de un ciclista, que lo vio cruzar el arcén.
+  en: It was recorded by a cyclist's camera, which saw it cross the hard shoulder.
+- El experto asegura que es una buena señal, aunque la especie sigue siendo muy escasa.
+  en: The expert says it is a good sign, although the species is still very rare.
+- Por último, el tiempo: llegan las lluvias al norte, y en el sur sigue el calor.
+  en: Finally, the weather: the rains arrive in the north, and in the south the heat continues.
+- Mañana, el sindicato confirma la reunión con la empresa, y si no hay acuerdo, la huelga seguirá.
+  en: Tomorrow the union confirms the meeting with the company, and if there is no agreement, the strike will go on.
+- Los expertos advierten de que las lluvias pueden llegar con granizo.
+  en: Experts warn that the rain may come with hail.
+- Eso es todo por esta noche. Buenas noches.
+  en: That is all for tonight. Good night.
+
+notes.en:
+1. Empieza el telediario, llegan las lluvias, sigue el calor (sentences 1 and 13): in news Spanish the verb often comes before its subject when the subject is the new information, while English keeps the order subject and verb. Example: Llega el tren con retraso, "the train is late" (said on the platform).
+2. Lo anuncia el alcalde (sentence 2): anunciar means to announce, a reporting verb for official news, and it names the source. Example: La empresa anuncia nuevos trenes para el verano, "the company announces new trains for the summer".
+3. asegura que (sentences 2, 6 and 12): asegurar que means to state something firmly as a fact, with the speaker standing behind it. Example: Asegura que no ha visto nada, "he says he has seen nothing".
+4. informa de que (sentence 4): informar de que means to report that something is the case. The preposition de is needed. Example: El colegio informa de que las clases empiezan el lunes, "the school reports that classes begin on Monday".
+5. declara que (sentence 5): declarar que means to state officially, in a public statement. Example: La directora declara que el colegio cerrará el viernes, "the headteacher states that the school will close on Friday".
+6. desmiente que haya recortes (sentence 6): desmentir means to deny, and the thing denied is followed by que and usually the subjunctive. Example: Desmiento que haya dicho eso, "I deny that I said that".
+7. ha subido el alquiler (sentence 7): news word order puts the verb first when the thing that happened is the new information. Spanish says ha subido el alquiler, not el alquiler ha subido. Example: Ha llegado el paquete, "the parcel has arrived".
+8. se han registrado (sentence 8): passive se in a report: the verb takes se and agrees with the thing registered, which comes after it, so it is se han registrado contratos. Example: Se han vendido muchas entradas, "many tickets have been sold".
+9. Se espera que (sentence 9): passive se with esperar takes que and the subjunctive, and English says "is expected to". Example: Se espera que llueva mañana, "rain is expected tomorrow".
+10. filmado (sentence 10): a participle after a noun works like a clause with "that was": un lince filmado cerca de una autovía is "a lynx that was filmed near a dual carriageway". Note the trap: an autovía is a dual carriageway, while an autopista is a motorway (Foundation, lesson 67: autopista). Example: Un coche aparcado en la acera, "a car parked on the pavement".
+11. lo vio cruzar (sentence 11): ver plus an infinitive shows the whole action, here the lynx crossing the hard shoulder. Example: La vi cruzar la calle, "I saw her cross the street".
+12. confirma la reunión (sentence 14): confirmar means to confirm, and it is used for meetings, flights and appointments. Example: Confirmo la cita para el martes, "I confirm the appointment for Tuesday".
+13. advierten de que (sentence 15): advertir means to warn, not to advertise, which is anunciar in Spanish. The preposition is de, as with informar. Example: Te advierto de que el café está muy caliente, "I warn you that the coffee is very hot".
+
+ex1:
+- Se han cerrado tres carreteras por la nieve.
+  en: Three roads have been closed because of the snow.
+- Ha llegado el autobús con retraso.
+  en: The bus has arrived late.
+- Confirmo que la reunión es el lunes.
+  en: I confirm that the meeting is on Monday.
+- Se espera que el tiempo mejore mañana.
+  en: The weather is expected to improve tomorrow.
+- El portavoz asegura que no habrá cortes de luz.
+  en: The spokesman assures us there will be no power cuts.
+
+ex2:
+- El banco [informa] de que el cajero está cerrado.
+  en: The bank reports that the cash machine is closed.
+- Los vecinos [advierten] de que hay obras.
+  en: The neighbours warn that there are roadworks.
+- [Ha] subido el precio del pan.
+  en: The price of bread has gone up.
+- Se [espera] que los precios bajen en primavera.
+  en: Prices are expected to fall in the spring.
+- Vimos una moto [aparcada] junto a la estación.
+  en: We saw a motorbike parked by the station.
+
+== 20 B2
+numeral: Lección veinte
+title: El telediario (2)
+title.en: The news, part 2
+
+dialogue:
+- Seguimos con los deportes: el partido más emocionante de la jornada se decidió en el descuento.
+  en: We move on to sport: the most exciting match of the day was decided in stoppage time.
+- El equipo local perdía por un gol, pero en el descuento marcó dos, y el estadio estalló.
+  en: The home side were a goal down, but in stoppage time they scored twice, and the stadium erupted.
+- El entrenador visitante no tira la toalla: dice que el equipo está en la recta final de la temporada y que aún puede ganar la liga.
+  en: The visiting coach does not give up: he says the team is in the final stretch of the season and can still win the league.
+- El visitante, salvado por la campana en el primer tiempo, no tuvo la misma suerte en el segundo.
+  en: The visitors, saved by the bell in the first half, were not so lucky in the second.
+- Y el árbitro, según el entrenador, le metió un gol a su equipo con la última decisión.
+  en: And the referee, according to the coach, put one over on his team with his last decision.
+- Detenido un hombre en Valencia por robar en varias farmacias.
+  en: A man arrested in Valencia for stealing from several chemist's.
+- Muere un perro que llevaba quince años en el mismo portal, y los vecinos lo lloran.
+  en: A dog that had lived for fifteen years in the same block has died, and the neighbours are mourning him.
+- Aprobada una ley para los parques de la ciudad, que entra en vigor en enero.
+  en: A law for the city's parks has been passed, and it comes into force in January.
+- En un pueblo de Soria, inaugurada una exposición de cerámica hecha por los vecinos.
+  en: In a village in Soria, an exhibition of pottery made by the villagers is opened.
+- Y el tiempo: una borrasca del Atlántico llega esta noche al noroeste, con chubascos y viento fuerte.
+  en: And the weather: an Atlantic low reaches the north-west tonight, with showers and strong wind.
+- La cota de nieve bajará hasta los mil doscientos metros en el norte.
+  en: The snow line will fall to 1,200 metres in the north.
+- En el sur, en cambio, el sol aguanta un día más.
+  en: In the south, by contrast, the sunshine holds out one more day.
+- Mañana, chubascos en la cornisa cantábrica, y en Madrid, cielo despejado.
+  en: Tomorrow, showers on the Cantabrian coast, and clear skies in Madrid.
+- Y la última noticia del día, de un pueblo de Teruel: el carnaval ha durado tres días, porque nadie encuentra la llave del ayuntamiento para cerrarlo.
+  en: And the last news of the day, from a village in Teruel: the carnival has lasted three days, because nobody can find the key to the town hall to close it.
+
+notes.en:
+1. en el descuento (sentence 1): the stoppage time, the minutes the referee adds at the end of each half. The phrase is used for goals and results decided at that point. Example: El gol llegó en el descuento, "the goal came in stoppage time".
+2. perdía por un gol (sentence 2): perder por plus a number of goals means to be losing by that many, and the imperfect describes the state during the match. Example: Ganábamos por dos goles al descanso, "we were winning by two goals at half-time".
+3. no tira la toalla (sentence 3): tirar la toalla means to give up, to throw in the towel. The literal sense comes from boxing, where a trainer throws in the towel to stop a fight. Example: Después de tres derrotas, el equipo tiró la toalla, "after three defeats the team gave up".
+4. en la recta final (sentence 3): en la recta final means in the final stretch, the last straight part of a race. Example: Estamos en la recta final del curso, "we are in the final stretch of the school year".
+5. salvado por la campana (sentence 4): salvado por la campana means saved at the last moment, literally saved by the bell that ends a boxing round. Example: Aprobé el examen salvado por la campana, "I passed the exam by the skin of my teeth".
+6. le metió un gol (sentence 5): meter un gol a alguien, literally to score a goal against someone, means to put one over on them, to trick them. Example: Me metió un gol con la excusa del tráfico, "he put one over on me with the excuse of the traffic".
+7. Detenido un hombre (sentence 6): headline grammar. The participle stands alone, with no auxiliary and no article, for an event that has happened. Detenido un hombre means "a man has been arrested". Example: Detenido el conductor del camión, "the lorry driver has been arrested".
+8. Muere un perro (sentence 7): headlines use the present for a past event, so Muere is "has died". Example: Cae la nieve en Soria, "snow has fallen in Soria".
+9. llevaba quince años (sentence 7): llevar plus a period means to have been somewhere for that long, and the imperfect says it was still so at the time spoken of (Foundation, lesson 39: llevo tres años). Example: Llevaba tres horas esperando, "he had been waiting for three hours".
+10. entra en vigor (sentence 8): entrar en vigor means a law comes into force, a set phrase for legal texts. Example: La norma entra en vigor el lunes, "the rule comes into force on Monday".
+11. la cota de nieve (sentence 11): the snow line, the height above which snow falls. Example: La cota de nieve está en los mil metros, "the snow line is at a thousand metres".
+12. aguanta un día más (sentence 12): aguantar means to hold out, to last. The sun lasts one more day, and the thing that holds out is the subject. Example: El buen tiempo aguanta hasta el viernes, "the good weather holds until Friday".
+13. ha durado tres días (sentence 14): the perfect says the period counts up to now, so the carnival is spoken of as having lasted. The reason follows porque with the indicative. Example: Ha llovido tres días seguidos, "it has rained three days in a row".
+
+ex1:
+- Ganamos el partido en el último minuto, salvados por la campana.
+  en: We won the match in the last minute, saved by the bell.
+- Ese conductor no tira la toalla nunca.
+  en: That driver never gives up.
+- Ha llegado un paquete para ti esta mañana.
+  en: A parcel has arrived for you this morning.
+- Llevo dos semanas esperando la respuesta.
+  en: I have been waiting for the answer for two weeks.
+- Ha sido aprobada la reforma del barrio.
+  en: The reform of the neighbourhood has been passed.
+
+ex2:
+- Marcaron el gol del empate en el [descuento].
+  en: They scored the equalising goal in stoppage time.
+- Ante tanta presión, el entrenador [tiró] la toalla.
+  en: Under so much pressure, the coach gave up.
+- Estamos en la [recta] final del proyecto.
+  en: We are in the final stretch of the project.
+- Nos [metió] un gol con una excusa muy buena.
+  en: He put one over on us with a very good excuse.
+- Llevábamos dos horas [esperando] cuando llegó el autobús.
+  en: We had been waiting for two hours when the bus arrived.
+
+== 21 B2
+kind: revision
+numeral: Lección veintiuna
+title: Repaso y matices
+title.en: Revision and finer points
+
+notes.en:
+The third week of this course is finished. Nothing here needs learning by heart: the tables put in order what you have read in lessons 15 to 20, and those texts are your store of examples.
+If a point still feels unclear, go back to the example line in its lesson and read it aloud; it will be clearer each time. Then do the ten exercises at the end.
+1. Reporting what is said (lessons 11, 16 and 19).
+| Form | What it does | Example from the week | In English |
+|---|---|---|---|
+| según + a source | according to a source, named first | Según los historiadores, en sus primeros años pintó escenas de cocina (lesson 16) | According to historians, in his early years he painted kitchen scenes |
+| al parecer | apparently, from what the evidence suggests | Al parecer, la cruz no estaba al principio (lesson 16) | Apparently the cross was not there at the start |
+| según la leyenda | a story told as a legend, not as fact | Según la leyenda, la pintó el propio rey (lesson 16) | According to legend, the king himself painted it |
+| dicen que | they say that, with no one named | Dicen que aquí se come bien (lesson 11) | They say the food here is good |
+| según el informe | according to a report, in the news | Según el informe, se han registrado un doce por ciento más de contratos de alquiler (lesson 19) | According to the report, twelve per cent more rental contracts have been registered |
+The conditional of rumour, habría pintado, is the newspaper form for what is reported but not confirmed (lesson 16, note 14).
+2. Verbs of perception: oír or ver with an infinitive or a gerund (lessons 17 and 19).
+| Pattern | What it does | Example from the week | In English |
+|---|---|---|---|
+| oigo a los vecinos discutir | oír plus a person and an infinitive: you hear the whole action | Oigo a los vecinos de enfrente discutir (lesson 17) | I hear the neighbours opposite arguing |
+| lo vi bajando la escalera | ver plus a gerund: the action caught in progress | y el otro día lo vi bajando la escalera con la toalla al hombro (lesson 17) | the other day I saw him coming down the stairs with a towel over his shoulder |
+| lo vio cruzar el arcén | ver plus an infinitive: the whole action, seen from start to end | que lo vio cruzar el arcén (lesson 19) | who saw it cross the hard shoulder |
+| oír against escuchar | oír is to hear what reaches you; escuchar is to listen on purpose | Yo no lo escucho, lo oigo, que es distinto (lesson 17) | I don't listen to it, I hear it, which is different |
+3. Word order: the verb first for new information (lessons 19 and 20).
+| Form | What it does | Example from the week | In English |
+|---|---|---|---|
+| verb before subject | the new information comes after the verb | Empieza el telediario con la noticia del día (lesson 19) | The bulletin begins with the news of the day |
+| verb before subject | the new event is the subject, so the verb comes first | llegan las lluvias al norte (lesson 19) | the rains arrive in the north |
+| verb before subject | the perfect for news, with the subject after | ha subido el alquiler de los pisos del centro (lesson 19) | the rent on flats in the centre has gone up |
+Headline grammar (lesson 20): the participle stands alone, the present stands for a past event, and no article is used.
+| Headline | What it does | Example from the week | In English |
+|---|---|---|---|
+| Detenido un hombre | participle alone, no article, for an event that has happened | Detenido un hombre en Valencia por robar en varias farmacias (lesson 20) | A man arrested in Valencia for stealing from several chemist's |
+| Muere un perro | the present for a past event | Muere un perro que llevaba quince años en el mismo portal (lesson 20) | A dog that had lived for fifteen years in the same block has died |
+| Aprobada una ley | the participle first, for a law that has been passed | Aprobada una ley para los parques de la ciudad (lesson 20) | A law for the city's parks has been passed |
+4. Catalan and Galician words met (lessons 11 and 18).
+| Word | Language | Spanish | English |
+|---|---|---|---|
+| carrer | Catalan | calle | street |
+| plaça | Catalan | plaza | square |
+| bon dia | Catalan | buenos días | good morning |
+| adéu | Catalan | adiós | goodbye |
+| castells | Catalan | castillos (for the human towers) | human towers |
+| pa amb tomàquet | Catalan | pan con tomate | bread with tomato |
+| Sant Jordi | Catalan | San Jorge | Saint George |
+| rúa | Galician | calle | street |
+| morriña | Galician | morriña, the same word in Spanish | homesickness for one's own land |
+5. The dar family (lesson 15).
+| Form | What it does | Example from the week | In English |
+|---|---|---|---|
+| se da cuenta de que | to realise | Sergio se da cuenta de que han pasado ya cuarenta minutos desde las ocho (lesson 15) | Sergio realises that forty minutes have already gone by since eight |
+| no me da la gana | I don't feel like it, I won't | No me da la gana irme sin verla (lesson 15) | I'm not leaving without seeing her |
+| le da vergüenza | to be embarrassed | Le da vergüenza seguir allí sin pedir nada (lesson 15) | He is embarrassed to stay there without ordering anything |
+| da con él | to find, after looking | cuando por fin da con él (lesson 15) | when he finally finds it |
+| da la vuelta a la silla | to turn round | Al volver, da la vuelta a la silla para ver la puerta de frente (lesson 15) | When he comes back, he turns the chair round to face the door |
+| se las da de experto | to pose as, to show off as | un chico se las da de experto en cerveza (lesson 15) | a young man poses as an expert on beer |
+| le ha dado plantón | to stand someone up | Pues yo creo que le ha dado plantón (lesson 15) | Well, I think she has stood you up |
+| doy en el clavo | to hit the nail on the head | Casi siempre doy en el clavo con estas cosas (lesson 15) | I usually hit the nail on the head with these things |
+
+Practice. Ten sentences, five to translate and five to fill in.
+
+ex1:
+- Según el periódico, el concierto empieza tarde.
+  en: According to the paper, the concert starts late.
+- Oí a mis vecinos cantar en la terraza.
+  en: I heard my neighbours singing on the terrace.
+- Escucho la radio mientras cocino.
+  en: I listen to the radio while I cook.
+- Habrá que pedir cita con el médico.
+  en: We will have to make an appointment with the doctor.
+- Ha empezado la huelga de autobuses.
+  en: The bus strike has started.
+
+ex2:
+- Ella [se las] da de experta en vinos.
+  en: She poses as an expert on wine.
+- Llevo tres meses [sin] ver a mi hermana.
+  en: I haven't seen my sister for three months.
+- Lo [vi] bajar del autobús esta mañana.
+  en: I saw him get off the bus this morning.
+- [Aprobado] el presupuesto del ayuntamiento.
+  en: The town hall budget has been passed.
+- Al [parecer], la tienda cierra los lunes.
+  en: Apparently the shop closes on Mondays.

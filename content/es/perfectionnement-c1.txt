@@ -1553,3 +1553,594 @@ ex2:
   en: That is, we'll see each other on Monday.
 - Tengo la [cena] hecha desde las dos.
   en: I've had the dinner ready since two.
+
+== 64 C1
+numeral: Lección sesenta y cuatro
+title: Madrid
+title.en: Madrid
+
+dialogue:
+- Madrid está en el centro de la península, y desde 1561, cuando Felipe II instaló allí la corte, es la capital.
+  en: Madrid lies in the centre of the peninsula, and since 1561, when Philip II settled the court there, it has been the capital.
+- Su kilómetro cero está en la Puerta del Sol, donde una placa marca el punto desde el que se miden las carreteras que salen de Madrid.
+  en: Its kilometre zero is in the Puerta del Sol, where a plaque marks the point from which the roads leaving Madrid are measured.
+- El escudo de la ciudad tiene un oso que se apoya en un madroño, el árbol cuyo fruto se parece a una fresa.
+  en: The city's coat of arms shows a bear leaning against a strawberry tree, whose fruit looks like a strawberry.
+- Tres grandes museos están a poca distancia unos de otros: el Museo Nacional del Prado, el Museo Reina Sofía y el Museo Thyssen-Bornemisza.
+  en: Three great museums are a short walk from one another: the Museo Nacional del Prado, the Museo Reina Sofía and the Museo Thyssen-Bornemisza.
+- El Prado guarda sobre todo pintura antigua; el Reina Sofía, en cambio, reúne arte del siglo XX, y allí está el Guernica de Picasso.
+  en: The Prado holds mainly old painting; the Reina Sofía, on the other hand, has twentieth-century art, and there is Picasso's Guernica.
+- A diferencia de los museos, el Retiro es un parque gratuito, con un estanque grande y un palacio de cristal.
+  en: Unlike the museums, the Retiro is a free park, with a large pond and a glass palace.
+- El domingo por la mañana, el Rastro llena las calles de La Latina con puestos de todo tipo.
+  en: On Sunday mornings the Rastro fills the streets of La Latina with stalls of every kind.
+- Mientras que el Prado atrae a muchos turistas, el Rastro es, sobre todo, cosa de madrileños, que van a regatear.
+  en: Whereas the Prado draws many tourists, the Rastro is mainly for people from Madrid, who go there to haggle.
+- El 15 de mayo es San Isidro, el patrón de la ciudad, y en las verbenas la gente sale vestida de chulapos y chulapas.
+  en: On 15 May comes San Isidro, the patron saint of the city, and at the verbenas people go out dressed as chulapos and chulapas.
+- Allí se baila el chotis, el baile de la ciudad, y a mi tía le dije que lo bailara conmigo.
+  en: There people dance the chotis, the dance of the city, and I asked my aunt to dance it with me.
+- El plato de invierno es el cocido madrileño: primero se toma el caldo, y después los garbanzos y la carne.
+  en: The winter dish is the cocido madrileño: first you have the broth, and then the chickpeas and the meat.
+- Para picar, el bocadillo de calamares, que se come en cualquier bar a cualquier hora.
+  en: For a snack, the squid sandwich, which you can eat in any bar at any hour.
+- Los madrileños tienen el apodo de gatos.
+  en: The people of Madrid are nicknamed cats.
+- Según la leyenda, a un soldado le vieron trepar por la muralla como un gato, y así empezó el apodo.
+  en: According to the legend, a soldier was seen climbing the city wall like a cat, and that is how the nickname began.
+- Barcelona tiene mar; Madrid no lo tiene, y tampoco lo necesita: la vida se hace en las terrazas y en la calle.
+  en: Barcelona has the sea; Madrid has none, and does not need one: life is lived on the terraces and in the street.
+- Muchos creen que es una ciudad fría; por el contrario, en julio hace un calor seco de meseta.
+  en: Many people think it is a cold city; on the contrary, in July the heat is dry, the heat of the plateau.
+- No es una ciudad de costa, sino de conversación y de paseo.
+  en: It is not a city by the coast, but one for talking and for strolling.
+- Como dicen los madrileños: de Madrid al cielo.
+  en: As the people of Madrid say: from Madrid to heaven.
+
+notes.en:
+1. Felipe II (sentence 1): Philip II, the king who moved the court to Madrid in 1561. The court stayed there, and Madrid has been the capital since. Example: Felipe II construyó El Escorial, "Philip II built El Escorial".
+2. kilómetro cero (sentence 2): the point from which the distances from the capital are measured. Madrid's plaque is in the Puerta del Sol. Example: Vivo a veinte kilómetros del kilómetro cero, "I live twenty kilometres from kilometre zero".
+3. madroño (sentence 3): the strawberry tree, whose red fruit looks like a strawberry. It is on the city's coat of arms with the bear. Example: El madroño tiene un fruto rojo y áspero, "the strawberry tree has a red, bumpy fruit".
+4. en cambio (sentence 5): on the other hand, it sets one thing against another and sits between commas after the first part, as in lesson 59, note 2. Example: Yo, en cambio, prefiero el mar, "I, on the other hand, prefer the sea".
+5. A diferencia de (sentence 6): unlike, followed by a noun. Example: A diferencia de mi hermana, yo nunca llego tarde, "unlike my sister, I am never late".
+6. Mientras que (sentence 8): whereas. It sets two facts side by side in one sentence and is followed by a full clause. Example: Mientras que tú lees, yo preparo la cena, "whereas you read, I cook dinner".
+7. verbena (sentence 9): a night-time street party, with music and dancing, held for a local festival. Example: Esta noche hay verbena en la plaza, "there is a street party in the square tonight".
+8. chulapos and chulapas (sentence 9): the people of Madrid's traditional festival dress, worn at San Isidro. Example: Mi abuela se puso un mantón de Manila para la fiesta, "my grandmother put on a Manila shawl for the festival".
+9. chotis (sentence 10): the dance of Madrid, whose name comes from the schottische, the dance from Scotland. It is danced in couples. Example: Bailaron el chotis hasta medianoche, "they danced the chotis until midnight".
+10. la dije (sentence 10): the standard form for telling someone is le dije, "I told her". In Madrid you will hear la dije, but it is not standard, and the text keeps le. Example: Le dije que sí, "I told her yes".
+11. cocido (sentence 11): a stew of chickpeas, vegetables and meat, usually eaten in winter. In Madrid the broth comes first, then the chickpeas and the meat. Example: Hace frío: hoy hacemos cocido, "it is cold: today we're making cocido".
+12. le vieron (sentence 14): with a man as direct object, central Spain says le, not lo, and the Academy accepts this. Lo vieron is also correct. Example: Al profesor le vi ayer, "I saw the teacher yesterday".
+13. Barcelona and Madrid (sentence 15): the two cities have a famous rivalry, most of all in football, where Real Madrid and Barcelona meet in El Clásico. Example: Mi padre es del Barça y mi hermano, del Madrid, "my father supports Barça and my brother supports Madrid".
+14. por el contrario (sentence 16): on the contrary, it introduces the opposite of what has just been said. Example: No es caro; por el contrario, es muy barato, "it is not expensive; on the contrary, it is very cheap".
+15. no ... sino (sentence 17): after a negative, sino gives the correct alternative. It is the same pattern as lesson 12, note 2. Example: No es Londres, sino Madrid, "it is not London, but Madrid".
+
+ex1:
+- Felipe II trasladó la corte a Madrid en 1561.
+  en: Philip II moved the court to Madrid in 1561.
+- No lo compré en el Rastro, sino en una tienda del centro.
+  en: I didn't buy it at the Rastro, but in a shop in the centre.
+- A diferencia de Londres, Madrid tiene pocos días de lluvia.
+  en: Unlike London, Madrid has few rainy days.
+- Mientras que mi padre madruga, mi madre trabaja hasta tarde. (to a friend)
+  en: Whereas my father gets up early, my mother works late. (to a friend)
+- Muchos creen que el café es malo; por el contrario, a mí me encanta. (to a friend)
+  en: Many people think coffee is bad; on the contrary, I love it. (to a friend)
+
+ex2:
+- Hace calor en julio, pero en enero hace [frío].
+  en: It is hot in July, but in January it is cold.
+- Mi hermana prefiere la montaña; yo, [en cambio], prefiero el mar.
+  en: My sister prefers the mountains; I, on the other hand, prefer the sea.
+- [Mientras que] tú lees, yo preparo la cena.
+  en: Whereas you read, I cook dinner.
+- [A diferencia de] mi hermana, yo nunca llego tarde.
+  en: Unlike my sister, I am never late.
+- No es una ciudad de costa, [sino] de paseo.
+  en: It is not a city by the coast, but one for strolling.
+
+== 65 C1
+numeral: Lección sesenta y cinco
+title: La casa de los ruidos
+title.en: The house of noises
+
+dialogue:
+- En el pueblo la llamaban la casa de los ruidos, y en abril se puso a la venta, tras la muerte de la abuela Carmen.
+  en: In the village they called it the house of noises, and in April it was put up for sale, after the death of Grandmother Carmen.
+- El abuelo Ramón, que nunca quiso vender, seguía viviendo en su cuarto de arriba.
+  en: Grandfather Ramón, who never wanted to sell, went on living in his room upstairs.
+- Cada vez que venía un comprador, se oían pasos en el pasillo, aunque no había nadie.
+  en: Every time a buyer came, footsteps could be heard in the corridor, although there was nobody there.
+- La primera visita fue una pareja de Valencia: se oyó arrastrar una silla en el piso de arriba.
+  en: The first visit was a couple from Valencia: a chair could be heard being dragged across the floor upstairs.
+- Ella se moría de miedo, y él se rió para no parecer cobarde, pero no dejó de mirar la escalera.
+  en: She was scared to death, and he laughed so as not to look like a coward, but he did not stop looking at the stairs.
+- En la segunda visita, la puerta del salón se abrió sola, y los dos se miraron sin decir nada.
+  en: On the second visit the sitting-room door opened by itself, and the two of them looked at each other without a word.
+- Desde arriba llegó un suspiro largo, como de persona cansada, que salía de la cañería.
+  en: From upstairs came a long sigh, like that of a tired person, rising through the pipe.
+- La tercera visita fue un viernes por la tarde, y a Nuria, la agente inmobiliaria, se le apagó el móvil al subir la escalera.
+  en: The third visit was on a Friday afternoon, and as Nuria, the estate agent, went up the stairs, her phone went dead.
+- Nuria no quería hablar de los ruidos, pero al final se lo dijo al marido, en voz baja.
+  en: Nuria did not want to talk about the noises, but in the end she told the husband, in a low voice.
+- Se marcharon a toda prisa, y el marido se olvidó el paraguas en el recibidor.
+  en: They left in a hurry, and the husband forgot his umbrella in the hall.
+- Esa noche, como casi todas las noches, el abuelo se levantó a las dos y bajó a la cocina.
+  en: That night, as on almost every night, Grandfather got up at two and went down to the kitchen.
+- Marta, su nieta, que dormía en el cuarto de al lado, oyó los pasos y pensó que eran de la casa.
+  en: Marta, his granddaughter, who slept in the next room, heard the footsteps and thought they came from the house.
+- Por la mañana, el abuelo se quejaba de que no había dormido, y nadie le preguntó por qué.
+  en: In the morning Grandfather complained that he had not slept, and nobody asked him why.
+- Los compradores llamaron a la agencia y dijeron que no volverían.
+  en: The buyers rang the agency and said they would not come back.
+- Nuria, al marcharse, dijo: «Esta casa está viva», y se fue sin cobrar la comisión.
+  en: As she left, Nuria said, "This house is alive", and went off without her commission.
+- Al final, la madre de Marta dijo que la casa no se vendía.
+  en: In the end, Marta's mother said that the house was not for sale.
+- El abuelo sonrió por primera vez en meses, y se comió la tarta entera.
+  en: Grandfather smiled for the first time in months, and ate the whole cake.
+- El día que la familia retiró la casa del mercado, los ruidos cesaron, y el abuelo durmió como un bebé.
+  en: The day the family took the house off the market, the noises stopped, and Grandfather slept like a baby.
+
+notes.en:
+1. se puso a la venta (sentence 1) and se oían pasos (sentence 3): a passive with se, used when the thing is the subject. The verb agrees with it, so one house is se vende and several houses are se venden. Example: Se venden pisos en esta calle, "flats are for sale in this street".
+2. se oyó arrastrar (sentence 4): impersonal se, with no subject, used when someone hears something and the speaker does not say who. The verb stays singular whatever is heard, because there is no subject for it to agree with. Example: Se oyó un grito en la plaza, "a shout was heard in the square" (Foundation, lesson 59).
+3. se moría de miedo and se rió (sentence 5): morirse de miedo means to be scared to death, an intensifier and not a real death, and the pronoun is part of the verb. Reírse is the same: it means to laugh, and it takes se. Example: Me reí mucho con el chiste, "I laughed a lot at the joke".
+4. se abrió sola (sentence 6): a door or window that opens or closes by itself, with no person doing it. The pronoun shows that the change just happens. Example: La ventana se cerró sola con el viento, "the window closed by itself in the wind".
+5. se miraron (sentence 6): reciprocal, the two of them look at each other. Example: Se quieren desde niños, "they have loved each other since they were children".
+6. se le apagó el móvil (sentence 8): involuntary se: the thing happens to the person, who did not mean it, and the person is the indirect object, le. Example: Se me cayó el vaso, "I dropped the glass" (Foundation, lesson 57).
+7. se lo dijo (sentence 9): when le and lo come together, le becomes se, so le dijo lo becomes se lo dijo (Foundation, lesson 18). Example: Se lo di a Ana ayer, "I gave it to Ana yesterday".
+8. se levantó (sentence 11): reflexive, the subject gets himself up. Levantarse does not take an object, but levantar does. Example: Me levanto a las siete, "I get up at seven".
+9. se fue sin cobrar (sentence 15): irse means to go away, and the pronoun is part of the verb, so it is me voy, not voy. Example: Me voy ya, "I'm going now".
+10. se comió la tarta entera (sentence 17): the se of completion. Comerse means to eat up, and the pronoun shows that the thing is finished. Example: Se bebió la botella entera, "he drank the whole bottle".
+
+ex1:
+- Se venden casas en el centro, pero son muy caras. (to a friend)
+  en: Houses are for sale in the centre, but they are very expensive. (to a friend)
+- Se oye el ruido de la calle desde mi cuarto.
+  en: The noise of the street can be heard from my room.
+- Me reí muchísimo con su broma.
+  en: I laughed a lot at his joke.
+- Nos miramos sin decir nada, y entendimos todo.
+  en: We looked at each other without saying a word, and understood everything.
+- Se nos olvidaron las llaves en el coche.
+  en: We left our keys in the car.
+
+ex2:
+- La puerta se [abrió] sola con el viento.
+  en: The door opened by itself in the wind.
+- Me [levanto] a las siete todos los días.
+  en: I get up at seven every day.
+- [Se me] cayó el vaso al suelo.
+  en: I dropped the glass on the floor.
+- Se [comió] la tarta entera.
+  en: He ate the whole cake.
+- Se [oyó] un grito en la plaza.
+  en: A shout could be heard in the square.
+
+== 66 C1
+numeral: Lección sesenta y seis
+title: Agosto
+title.en: August
+
+dialogue:
+- En agosto, España entera se va de vacaciones a la vez, y el país parece un pueblo abandonado.
+  en: In August the whole of Spain goes on holiday at the same time, and the country looks like an abandoned village.
+- En la puerta de cada tienda hay un cartel: «Cerrado por vacaciones».
+  en: On the door of every shop there is a sign: "Closed for holidays".
+- A las ocho de la mañana ya hay toallas en la arena, porque el sitio hay que guardarlo, y eso es lo más importante.
+  en: By eight in the morning there are already towels on the sand, because a place has to be kept, and that is the most important thing.
+- Quien llega a las nueve encuentra un hueco entre dos sombrillas, y dice: «No está mal».
+  en: Whoever arrives at nine finds a gap between two umbrellas and says, "It's not bad".
+- El chiringuito sirve cañas a las once y sangría a las doce, y nadie se queja.
+  en: The beach bar serves small beers at eleven and sangría at twelve, and nobody complains.
+- A las tres de la tarde, con cuarenta grados a la sombra, alguien suspira: «¡Menudo calor!».
+  en: At three in the afternoon, with forty degrees in the shade, someone sighs: "What a heat!"
+- En el pueblo de los abuelos son las fiestas, y la verbena dura hasta el amanecer.
+  en: In the grandparents' village it is the fiesta, and the verbena lasts until dawn.
+- Mi tío y mi padre discuten en el salón sobre el aire acondicionado: uno lo quiere a dieciocho grados, el otro a veintiocho.
+  en: My uncle and my father argue in the living room about the air conditioning: one wants it at eighteen degrees, the other at twenty-eight.
+- «¡Qué bien, otra vez el aire!», dice mi madre, con la sonrisa apretada.
+  en: "How lovely, the air conditioning again!" says my mother, with a tight smile.
+- «¡Vaya día!», añade mi tía, a las once de la mañana, con la camisa pegada a la espalda.
+  en: "What a day!" adds my aunt, at eleven in the morning, with her shirt stuck to her back.
+- Ojalá lloviera un poco, aunque fuera solo una tarde.
+  en: I wish it would rain a little, even if it were only for one afternoon.
+- ¡Quién pudiera irse a la montaña, aunque solo fuera un fin de semana!
+  en: If only I could go to the mountains, even if it were only for a weekend!
+- ¡Si al menos tuviéramos un ventilador!
+  en: If only we had a fan, at least!
+- Quien se queda en la ciudad disfruta de calles vacías, que es lo único bueno del mes.
+  en: Whoever stays in the city enjoys empty streets, which is the only good thing about the month.
+- En la radio suena siempre la misma canción del verano, y nadie se atreve a cambiarla.
+  en: On the radio the same summer song plays again and again, and nobody dares to change it.
+- Vuelven del chiringuito, del pueblo y del atasco, y dicen que ha sido el mejor verano de su vida.
+  en: They come back from the beach bar, the village and the traffic jam, and say it has been the best summer of their lives.
+- Pronto empieza la vuelta, con cuatro horas de atasco en la autopista, y todos dicen: «No está mal».
+  en: Soon the journey back begins, with four hours of traffic jam on the motorway, and everyone says, "It's not bad".
+- Y en septiembre todo el mundo sufre el síndrome postvacacional, y necesita unas vacaciones para recuperarse de las vacaciones.
+  en: And in September everyone suffers from the post-holiday blues, and needs a holiday to recover from the holiday.
+
+notes.en:
+1. Cerrado por vacaciones (sentence 2): the sign on a shop door, closed for holidays. Example: Cerrado por vacaciones hasta el lunes, "closed for holidays until Monday".
+2. no está mal (sentence 4): literally it is not bad. It is said of something good, but also of something poor when the speaker does not want to complain, and the tone decides which. Here the tone is the joke. Example: ¿Qué tal el hotel? No está mal, "how is the hotel? It's not bad".
+3. chiringuito (sentence 5): a simple bar on the beach, often with tables under a roof of reeds or cloth. Example: Comimos en un chiringuito junto al mar, "we ate at a beach bar by the sea".
+4. cañas (sentence 5): a small glass of draught beer, the usual thing to order in a bar. Example: Pidió dos cañas y una tapa, "he ordered two small beers and a snack".
+5. ¡Menudo calor! (sentence 6): menudo, in an exclamation, means what a, and it is often used for something big or annoying. Example: ¡Menudo lío! "what a mess!"
+6. verbena (sentence 7): a night-time street party with music and dancing, the same word as lesson 64, note 7. Example: Esta noche hay verbena en la plaza, "there is a street party in the square tonight".
+7. ¡Qué bien! (sentence 9): said with irony, "how lovely!" means the opposite. The speaker is annoyed, and con la sonrisa apretada means with a tight smile, the teeth held together. Example: ¡Qué bien, otra vez llueve!, "how lovely, it's raining again!" (said as a complaint).
+8. ¡Vaya día! (sentence 10): what a day! It can be a sigh about bad weather, or a joke, and the context shows which. Example: ¡Vaya tormenta! "what a storm!"
+9. Ojalá + imperfect subjunctive (sentence 11): a wish that cannot come true now, (Foundation, lesson 72). Example: Ojalá tuviera más tiempo, "I wish I had more time".
+10. ¡Quién pudiera! (sentence 12): if only I could, literally who could. Quién is followed by the imperfect subjunctive of the verb. Example: ¡Quién tuviera tu suerte! "if only I had your luck!"
+11. ¡Si al menos ...! (sentence 13): if only at least, a wish with the imperfect subjunctive and no main verb. Example: ¡Si al menos tuviera tiempo! "if only I had time, at least!"
+12. atasco (sentence 17): a traffic jam, a word of the road. Example: Hubo un atasco de dos horas, "there was a two-hour jam".
+13. síndrome postvacacional (sentence 18): the low mood people feel after the holidays, a term often heard in Spain. The English is post-holiday blues. Example: Después de las fiestas tengo el síndrome postvacacional, "after the festive season I have the post-holiday blues".
+
+ex1:
+- Ese chiringuito sirve cañas muy frías.
+  en: That beach bar serves very cold small beers.
+- Hay un atasco terrible en la autopista.
+  en: There is a terrible jam on the motorway.
+- Ojalá llueva mañana, que hace demasiado calor. (to a friend)
+  en: I hope it rains tomorrow, it's far too hot. (to a friend)
+- ¡Quién tuviera tu suerte con los exámenes! (to a friend)
+  en: If only I had your luck with the exams! (to a friend)
+- Cuando vuelvo de vacaciones tengo el síndrome postvacacional.
+  en: When I come back from holiday I have the post-holiday blues.
+
+ex2:
+- [Cerrado] por vacaciones hasta septiembre.
+  en: Closed for holidays until September.
+- Hay un [atasco] de dos horas en la autopista.
+  en: There is a two-hour jam on the motorway.
+- [Quién] pudiera irse a la playa.
+  en: If only I could go to the beach.
+- En septiembre todos sufren el síndrome [postvacacional].
+  en: In September everyone suffers from the post-holiday blues.
+- ¡Si al menos tuviéramos [un] ventilador!
+  en: If only we had a fan, at least!
+
+== 67 C1
+numeral: Lección sesenta y siete
+title: Pedro Almodóvar
+title.en: Pedro Almodóvar
+
+dialogue:
+- Pedro Almodóvar nació en 1949 en Calzada de Calatrava, un pueblo de la provincia de Ciudad Real, en La Mancha.
+  en: Pedro Almodóvar was born in 1949 in Calzada de Calatrava, a village in the province of Ciudad Real, in La Mancha.
+- De joven se fue a Madrid, donde trabajó en la compañía telefónica y rodó cortos por la noche, en su tiempo libre.
+  en: As a young man he moved to Madrid, where he worked for the telephone company and shot short films at night, in his spare time.
+- Los años ochenta fueron los de la Movida madrileña, un movimiento de música, moda y cine que llenó la ciudad de color.
+  en: The 1980s were the years of the Movida madrileña, a movement of music, fashion and film that filled the city with colour.
+- En 1988 estrenó Mujeres al borde de un ataque de nervios, una comedia que fue nominada al Oscar.
+  en: In 1988 he premiered Women on the Verge of a Nervous Breakdown, a comedy that was nominated for an Oscar.
+- En 1999 llegó Todo sobre mi madre, que ganó el Oscar a la mejor película de habla no inglesa.
+  en: In 1999 came All About My Mother, which won the Oscar for best foreign-language film.
+- Hable con ella, de 2002, ganó el Oscar al mejor guion original.
+  en: Talk to Her, from 2002, won the Oscar for best original screenplay.
+- En 2006 estrenó Volver, rodada en parte en La Mancha, su tierra de origen.
+  en: In 2006 he premiered Volver, shot partly in La Mancha, his home region.
+- Para el rodaje de Volver, el equipo se movió entre Madrid y La Mancha.
+  en: For the shoot of Volver, the crew moved between Madrid and La Mancha.
+- Escribió a menudo sus propios guiones, y eso le dio una voz propia.
+  en: He often wrote his own scripts, and that gave him a voice of his own.
+- Sus películas tenían colores fuertes, y a menudo, en el centro, había mujeres y madres.
+  en: His films had strong colours, and often at their centre were women and mothers.
+- Su cine hablaba de deseos, de familia y de amor, y la banda sonora lo acompañaba.
+  en: His films spoke of desire, family and love, and the soundtrack went with them.
+- Fue un gran director, y su cine llegó a muchos países en versión original.
+  en: He was a great director, and his films reached many countries in the original version.
+- En sus primeras películas aparecía la misma actriz, Carmen Maura, en papeles muy distintos.
+  en: In his early films the same actress, Carmen Maura, kept appearing, in very different roles.
+- Para un actor, un único papel podía cambiar toda una carrera.
+  en: For an actor, a single role could change a whole career.
+- Tomó del cine antiguo los melodramas, y los mezcló con la comedia.
+  en: He took melodrama from old films, and mixed it with comedy.
+- Muchos pensaban en Madrid cuando pensaban en su cine.
+  en: Many people thought of Madrid when they thought of his films.
+- Su nombre llegó a ser conocido en todo el mundo.
+  en: His name came to be known all over the world.
+- Un manchego que hizo de Madrid su plató.
+  en: A man from La Mancha who made Madrid his set.
+
+notes.en:
+1. rodó cortos (sentence 2): rodar means to shoot a film, and the shoot itself is el rodaje. Short films are cortos. Example: Rodamos la escena en una playa, "we shot the scene on a beach".
+2. la Movida madrileña (sentence 3): the lively cultural scene of Madrid in the 1980s, with music, fashion and film. Movida means a stir or a scene, and the word stays in Spanish in English texts. Example: Vivió la Movida desde dentro, "he lived through the Movida from the inside".
+3. nominada al Oscar (sentence 4): a nomination means the film was chosen among the finalists, not that it won. Example: La película fue nominada, pero no ganó, "the film was nominated, but did not win".
+4. habla no inglesa (sentence 5): the Oscar's English name is Best Foreign Language Film; the Spanish phrase, de habla no inglesa, is literally of speech not English. Example: Es una película de habla francesa, "it is a film in French".
+5. guion original (sentence 6): the script. An original script is one written for the film, not adapted from a book. Example: El guion está escrito en español, "the script is written in Spanish".
+6. rodada (sentence 7): the past participle agrees with the film, which is feminine, so rodada, shot. Example: La película, rodada en Madrid, se ve muy bien, "the film, shot in Madrid, looks very good".
+7. rodaje (sentence 8): the shoot, the time when a film is filmed. El equipo is the crew, and it moves between the locations. Example: El rodaje duró tres meses, "the shoot lasted three months".
+8. propios guiones (sentence 9): propio means own, and it stands before the noun here. Example: Escribe sus propias canciones, "he writes his own songs".
+9. banda sonora (sentence 11): the soundtrack, the music written for a film. Example: La banda sonora de esta película es preciosa, "the soundtrack of this film is lovely".
+10. gran director (sentence 12): gran before a singular noun means great, and grande, after the noun, means big or large. Example: Es un hombre grande: mide dos metros, "he is a big man: he is two metres tall".
+11. versión original (sentence 12): the film with its original language and soundtrack, usually with subtitles. Example: Vi la película en versión original con subtítulos, "I watched the film in the original version with subtitles".
+12. la misma actriz (sentence 13): the same actress, which means one who is also in other films, not one who is the same person. La actriz misma means the actress herself, as in La actriz misma lo dijo, "the actress herself said it". Example: Vi la misma película que el año pasado, "I saw the same film as last year".
+13. un único papel (sentence 14): un único means only one, a single role. Un papel único means a unique role, one of a kind. Example: Tuvo un único papel en la obra, "he had only one role in the play".
+14. cine antiguo (sentence 15): cine antiguo means old films, the films of an earlier time; el antiguo cine is the former cinema, the building that is no longer there. Example: El antiguo cine del barrio cerró hace años, "the former cinema in the neighbourhood closed years ago".
+
+ex1:
+- Es un gran cocinero, y su restaurante es muy famoso.
+  en: He is a great cook, and his restaurant is very famous.
+- Ese antiguo cine cerró hace diez años.
+  en: That former cinema closed ten years ago.
+- Vi la misma película que el año pasado.
+  en: I saw the same film as last year.
+- Tuve un único examen en junio.
+  en: I had only one exam in June.
+- El rodaje empieza el lunes, y el guion ya está escrito. (to a friend)
+  en: Filming starts on Monday, and the script is already written. (to a friend)
+
+ex2:
+- Ayer vi una película de Almodóvar en [versión original].
+  en: Yesterday I watched an Almodóvar film in the original version.
+- Ese es un [gran] director.
+  en: That is a great director.
+- Tuvo un [único] papel en la obra.
+  en: He had only one role in the play.
+- Ayer hablé con la [misma] actriz.
+  en: Yesterday I spoke with the same actress.
+- Escribió sus [propios] guiones.
+  en: He wrote his own scripts.
+
+== 68 C1
+numeral: Lección sesenta y ocho
+title: El examen oral
+title.en: The oral exam
+
+dialogue:
+- Buenos días. ¿Quiere un vaso de agua antes de empezar?
+  en: Good morning. Would you like a glass of water before we begin?
+- Buenos días. En primer lugar, dado que hace calor en esta sala y la prueba dura más de media hora, la hidratación es importante. Por un lado, el cuerpo pierde líquido; por otro, el cerebro se cansa antes, ya que trabaja peor sin agua. En el supuesto de que usted tenga agua fría, suponiendo que no sea una molestia, la aceptaría con gusto. En definitiva, a fin de cuentas, sí.
+  en: Good morning. In the first place, since it is hot in this room and the test lasts more than half an hour, hydration is important. On the one hand, the body loses fluid; on the other, the brain tires sooner, since it works worse without water. If you happen to have cold water, assuming it is no trouble, I would gladly accept it. All in all, then, yes.
+- Muy bien. Empecemos. ¿A qué se dedica usted?
+  en: Very well. Let's begin. What do you do for a living?
+- Soy traductor en una empresa de Londres, puesto que me gustan los idiomas desde niño. En primer lugar, traduzco manuales técnicos; por otro lado, doy clases de inglés los fines de semana, porque me gusta enseñar. Dado que el trabajo es muy variado, nunca me aburro.
+  en: I am a translator at a company in London, since I have loved languages since I was a boy. In the first place, I translate technical manuals; on the other hand, I teach English at weekends, because I like teaching. Given that the work is very varied, I am never bored.
+- ¿Y por qué estudia español?
+  en: And why do you study Spanish?
+- Como mi abuela era de Valencia, siempre he oído español en casa, y quiero hablarlo sin pedir disculpas.
+  en: As my grandmother was from Valencia, I have always heard Spanish at home, and I want to speak it without apologising.
+- Ya veo. ¿Y qué le parece Madrid?
+  en: I see. And what do you think of Madrid?
+- Me parece una ciudad muy viva. Mientras que Londres es más cara, Madrid tiene terrazas y museos, y se vive a otro ritmo. Suponiendo que tenga usted tiempo, le recomiendo el Prado.
+  en: I find it a very lively city. Whereas London is dearer, Madrid has terraces and museums, and life moves at a different pace. Assuming you have time, I recommend the Prado.
+- Gracias. Ahora, hábleme de un libro que le guste.
+  en: Thank you. Now tell me about a book you like.
+- Me gusta Don Quijote. En primer lugar, es divertido; por otro lado, Sancho habla con refranes, y eso ayuda a aprender el idioma. Lo leí dos veces, porque la primera no lo entendí del todo. Dado que cada lectura revela algo nuevo, para mí es un libro inagotable.
+  en: I like Don Quixote. In the first place, it is funny; on the other hand, Sancho talks in proverbs, which helps you learn the language. I read it twice, because I did not fully understand it the first time. Given that each reading reveals something new, for me it is an inexhaustible book.
+- ¿Y cuánto estudia al día?
+  en: And how much do you study a day?
+- Una hora, ya que es lo mínimo para avanzar. En el supuesto de que se acerque un examen, estudio dos.
+  en: One hour, since that is the minimum for making progress. In the event that an exam is coming up, I study two.
+- Entiendo. Le ruego que sea más breve, por favor.
+  en: I see. Could you be briefer, please?
+- Con gusto. Como usted lo pide, respondo en una frase: me encanta el español.
+  en: Gladly. As you ask, I will answer in one sentence: I love Spanish.
+- Muy bien. Para terminar, ¿quiere añadir algo?
+  en: Very good. To finish, would you like to add anything?
+- Sí. Puesto que es el último punto, quiero dar las gracias por su paciencia.
+  en: Yes. Since it is the last point, I want to thank you for your patience.
+- Entonces, ¿quiere un vaso de agua?
+  en: So, would you like a glass of water?
+- Sí, gracias. Por un lado, el agua hidrata; por otro, dado que hace calor, es lo más sensato. En el supuesto de que haya hielo, suponiendo que no sea una molestia, lo quiero con limón.
+  en: Yes, thank you. On the one hand, water hydrates; on the other, since it is hot, it is the most sensible choice. In the event that there is ice, assuming it is no trouble, I would like it with lemon.
+- Muy bien. Pero solo le había preguntado si quería un vaso de agua.
+  en: Very good. But I had only asked whether you wanted a glass of water.
+
+notes.en:
+1. dado que (sentences 2, 4, 10 and 18): the expression is followed by the indicative and means since or given that. It is formal, and it belongs to a written or formal register, as in an exam. Example: Dado que hay niebla, el vuelo sale más tarde, "since there is fog, the flight leaves later".
+2. en primer lugar, por un lado ... por otro (sentences 2, 4, 10 and 18): the order of an argument: first, one side, then the other. English uses "on the one hand ... on the other", but in Spanish the first point comes with en primer lugar, and the second with por otro lado. Example: Por un lado, es caro; por otro, es muy cómodo, "on the one hand it is expensive; on the other, it is very comfortable".
+3. ya que (sentence 2 and sentence 12): since, as, a reason that the listener already knows, with the indicative. It is less formal than dado que. Example: Ya que estás aquí, ayúdame, "since you're here, help me".
+4. en el supuesto de que and suponiendo que (sentences 2, 8, 12 and 18): both mark an assumption and take the subjunctive. En el supuesto de que is formal and written, while suponiendo que is common in speech. Example: Suponiendo que no llueva, vamos a la playa, "assuming it does not rain, we'll go to the beach".
+5. en definitiva and a fin de cuentas (sentence 2): both mean all in all, in the end, the final word of an argument. They are often used together, but one is enough. Example: En definitiva, no vale la pena, "all in all, it is not worth it".
+6. puesto que (sentences 4 and 16): since, because, a formal reason with the indicative, the same as dado que and ya que. Example: Puesto que no hay tren, vamos en coche, "since there is no train, we'll go by car".
+7. como (sentences 6 and 14): a cause that must open its sentence, with a verb in the indicative, followed by the main clause. Inside a sentence, como means like or as, as in Habla como su padre, "he talks like his father". Example: Como llovía, nos quedamos en casa, "as it was raining, we stayed at home".
+8. Mientras que (sentence 8): whereas, the contrast from lesson 64, note 6. Example: Mientras que tú lees, yo cocino, "whereas you read, I cook".
+9. porque (sentences 4 and 10): one word, it joins a reason to a clause, as in lesson 58, note 7. Porque is not por qué, the question. Example: Lo hice porque me lo pidió, "I did it because she asked me to".
+10. le había preguntado (sentence 19): the pluperfect, had asked, for an action finished before another past moment. The examiner had asked only about the water, before all the long answers (Foundation, lesson 53). Example: Ya lo había dicho antes, "I had already said it before".
+
+ex1:
+- Dado que no hay autobús, iremos a pie.
+  en: Since there is no bus, we will walk.
+- Por un lado, el piso es grande; por otro, está muy lejos.
+  en: On the one hand the flat is big; on the other, it is a long way off.
+- Suponiendo que llueva, cancelamos la excursión.
+  en: Assuming it rains, we'll cancel the trip.
+- Como hacía frío, nos quedamos en casa.
+  en: As it was cold, we stayed at home.
+- Le había dicho que llegaría a las ocho.
+  en: I had told him I would arrive at eight.
+
+ex2:
+- [Dado que] no tenemos tiempo, nos vamos.
+  en: Since we have no time, we're leaving.
+- Ya que [estás] aquí, ayúdame.
+  en: Since you're here, help me.
+- En el [supuesto] de que llueva, nos quedamos.
+  en: In the event that it rains, we stay.
+- [Como] llovía, nos quedamos en casa.
+  en: As it was raining, we stayed at home.
+- Lo leí dos veces, [porque] no lo entendí.
+  en: I read it twice, because I did not understand it.
+
+== 69 C1
+numeral: Lección sesenta y nueve
+title: Querido lector
+title.en: Dear reader
+
+dialogue:
+- Querido lector:
+  en: Dear reader:
+- Hemos llegado al final de este curso, y quiero darte las gracias por haber llegado hasta aquí.
+  en: We have reached the end of this course, and I want to thank you for getting this far.
+- Ahora empieza lo más difícil: usar el español fuera del libro.
+  en: Now comes the hardest part: using Spanish outside the book.
+- Te recomiendo que leas periódicos de España y de Hispanoamérica, aunque al principio te cueste.
+  en: I recommend that you read newspapers from Spain and from Spanish America, even if it is hard at first.
+- Lee novelas de España y de América, y ve películas y series en versión original con subtítulos en español.
+  en: Read novels from Spain and from the Americas, and watch films and series in the original version with Spanish subtitles.
+- Escucha Radio Nacional de España y las radios de Hispanoamérica, y, si puedes, los programas de audio en internet.
+  en: Listen to Radio Nacional de España and to the radio stations of Spanish America, and, if you can, to the audio programmes on the internet.
+- Ten siempre a mano un buen diccionario: el de la Real Academia Española es gratis en internet.
+  en: Always keep a good dictionary to hand: the Real Academia Española's dictionary is free on the internet.
+- Te aconsejo que lo consultes cada vez que dudes de una palabra.
+  en: I advise you to look it up every time you are unsure of a word.
+- Habla español aunque te contesten en inglés, porque así sigues practicando.
+  en: Speak Spanish even when people answer you in English, because that way you keep practising.
+- Te deseo que tengas buena suerte con tus lecturas y con tus conversaciones.
+  en: I wish you good luck with your reading and your conversations.
+- La segunda vuelta de este curso sigue después de esta lección.
+  en: The second wave of this course goes on after this lesson.
+- El paso siguiente es el curso de maestría.
+  en: The next step is the Mastery course.
+- No te preocupes si te equivocas: los propios españoles también se equivocan.
+  en: Don't worry if you make mistakes: Spaniards make mistakes too.
+- Recomiendo que escribas un diario en español, aunque sea de cinco frases al día.
+  en: I recommend that you write a diary in Spanish, even if it is only five sentences a day.
+- Que te vaya bien, y no dejes de hablar.
+  en: Good luck, and don't stop speaking.
+- Un fuerte abrazo.
+  en: A big hug.
+- Con cariño, tu autor.
+  en: With affection, your author.
+- Hasta pronto, en la próxima lección o en la barra de un bar.
+  en: See you soon, in the next lesson or at the bar counter.
+
+notes.en:
+1. Querido lector (sentence 1): the opening of a letter, dear reader. Querido is used for a friend or a reader you have come to know through the book. Example: Querida amiga: gracias por tu carta, "dear friend: thank you for your letter".
+2. Hemos llegado (sentence 2): the perfect, because the course has just ended and the time is not over. Example: Hemos llegado tarde, "we have arrived late".
+3. recomiendo que leas (sentence 4): recomendar que takes the subjunctive when the advice is for another person. Example: Te recomiendo que vayas al médico, "I recommend that you go to the doctor".
+4. versión original (sentence 5): the film or series with its original language and soundtrack, as in lesson 67, note 11. Example: Veo las series en versión original, "I watch the series in the original version".
+5. Radio Nacional de España (sentence 6): the national public radio of Spain, the station named in Foundation, lesson 99. Example: Escucho Radio Nacional por la mañana, "I listen to Radio Nacional in the morning".
+6. Real Academia Española (sentence 7): the institution that keeps the Spanish dictionary and its spelling, and its online dictionary is free. Example: Lo busqué en el diccionario de la Academia, "I looked it up in the Academy's dictionary".
+7. te aconsejo que lo consultes (sentence 8): aconsejar takes que and the subjunctive when the person advised is someone else. It can also take an infinitive, as in te aconsejo consultarlo, with the same meaning. Example: Te aconsejo que pidas cita, "I advise you to book an appointment".
+8. aunque te contesten (sentence 9): aunque with the subjunctive is for a case that may or may not happen, as in aunque llueva, "even if it rains". With a fact, the indicative is used: aunque llueve, "although it is raining". Example: Aunque no quieras, vienes, "even if you don't want to, you're coming".
+9. Te deseo que tengas (sentence 10): desear takes que and the subjunctive for a wish that another person may fulfil. Example: Te deseo que tengas un buen viaje, "I hope you have a good trip".
+10. el curso de maestría (sentence 12): maestría is mastery, a high skill in a field, and the next course of this series is called Mastery. Example: Tiene una gran maestría con el piano, "he has great mastery of the piano".
+11. No te preocupes (sentence 13): the negative tú command takes the subjunctive, from preocuparse, to worry. Example: No te preocupes, llego a tiempo, "don't worry, I'll be on time".
+12. aunque sea (sentence 14): aunque sea means even if it is, and it is used when the case is a small or minimum one. Example: Aunque sea un poco, come algo, "even if it is only a little, eat something".
+13. no dejes de (sentence 15): not to stop doing something, as in lesson 61, note 5. Que te vaya bien is the set phrase for good luck, from lesson 31. Un fuerte abrazo and con cariño are closings for friends, and un cordial saludo is the more formal one. Example: Un cordial saludo, "best regards".
+
+ex1:
+- Dado que no hay autobús, iremos a pie.
+  en: Since there is no bus, we'll walk.
+- Te recomiendo que leas el periódico todos los días.
+  en: I recommend that you read the newspaper every day.
+- Aunque llueva, vamos a la playa. (to a friend)
+  en: Even if it rains, we are going to the beach. (to a friend)
+- Te deseo que tengas buena suerte en el examen.
+  en: I wish you good luck in the exam.
+- No dejes de escribirme cuando llegues. (to a friend)
+  en: Don't stop writing to me when you arrive. (to a friend)
+
+ex2:
+- Te [aconsejo] que descanses hoy.
+  en: I advise you to rest today.
+- No te [preocupes], lo arreglamos mañana.
+  en: Don't worry, we'll fix it tomorrow.
+- Hemos [llegado] a la última lección.
+  en: We have reached the last lesson.
+- Aunque [sea] tarde, te llamo.
+  en: Even if it is late, I'll call you.
+- Que te [vaya] bien en el viaje.
+  en: Good luck on the trip.
+
+== 70 C1
+kind: revision
+numeral: Lección setenta
+title: Repaso y matices
+title.en: Revision and finer points
+
+notes.en:
+The tenth week of this course is finished, and with it the course. Nothing here needs learning by heart: the tables put in order what you have read in lessons 64 to 69, and the older lessons they point to are your store of examples.
+If a point still feels unclear, go back to the example line in its lesson and read it aloud; it will be clearer each time. Then do the ten exercises at the end.
+1. cause, condition and assumption (lessons 22, 26, 68): the words that give a reason, and the words that set a condition or an assumption.
+| Word | What it does | Example from the course | In English |
+|---|---|---|---|
+| porque | because, one word, joins a reason to a clause | Lo leí dos veces, porque la primera no lo entendí del todo (lesson 68) | I read it twice, because I did not fully understand it the first time |
+| como | as, because, opens the sentence | Como mi abuela era de Valencia, siempre he oído español en casa (lesson 68) | As my grandmother was from Valencia, I have always heard Spanish at home |
+| ya que | since, for a reason the listener already knows | ya que trabaja peor sin agua (lesson 68) | since it works worse without water |
+| puesto que | since, a formal reason | Puesto que es el último punto (lesson 68) | Since it is the last point |
+| dado que | given that, a formal reason | Dado que el trabajo es muy variado, nunca me aburro (lesson 68) | Given that the work is very varied, I am never bored |
+| si | if, with the present or past indicative, never the future | Si hay sitio en la barra, nunca te sientes en una mesa (lesson 26) | If there is a space at the bar, never sit at a table |
+| en caso de que | in the event that, with the subjunctive | en caso de que quede una libre, será suya (lesson 22) | in the event that one is left free, it will be yours |
+| siempre que | provided that, with the subjunctive | Acepto el puesto siempre que el sueldo sea el de mi experiencia (lesson 22) | I accept the post provided the salary is the one for my experience |
+| a no ser que | unless, with the subjunctive | a no ser que la empresa lo prohíba (lesson 22) | unless the company forbids it |
+| suponiendo que | assuming that, with the subjunctive | Suponiendo que tenga usted tiempo, le recomiendo el Prado (lesson 68) | Assuming you have time, I recommend the Prado |
+| en el supuesto de que | in the event that, formal, with the subjunctive | En el supuesto de que se acerque un examen, estudio dos (lesson 68) | In the event that an exam is coming up, I study two |
+2. se in all its uses (lesson 65): the one little word that does seven jobs, several of them taught in Foundation, lessons 57, 59 and 78.
+| Use | What it does | Example from the course | In English |
+|---|---|---|---|
+| reflexive | the subject does it to itself | el abuelo se levantó a las dos (lesson 65) | Grandfather got up at two |
+| reciprocal | the two of them do it to each other | los dos se miraron sin decir nada (lesson 65) | the two of them looked at each other without a word |
+| se for le before lo | le dijo lo becomes se lo dijo | se lo dijo al marido (lesson 65) | she told the husband it |
+| involuntary | the thing happens to the person | se le apagó el móvil al subir la escalera (lesson 65) | her phone went dead as she went up the stairs |
+| impersonal | no subject: one hears, one says | se oyó arrastrar una silla (lesson 65) | a chair could be heard being dragged |
+| passive | a thing is done or put up for sale | dijo que la casa no se vendía (lesson 65) | said that the house was not for sale |
+| completion or intensity | the action is finished, or is felt very strongly | se comió la tarta entera (lesson 65); se moría de miedo (lesson 65) | ate the whole cake; was scared to death |
+3. the position of the adjective (lesson 67): before the noun it can change the meaning, after the noun it is the plain word.
+| Form | What it means | Example from the course | In English |
+|---|---|---|---|
+| un gran director | a great director, gran before a singular noun | Fue un gran director (lesson 67) | He was a great director |
+| un hombre grande | a big man, grande after the noun | Es un hombre grande (lesson 67, note 10) | He is a big man |
+| sus propios guiones | his own scripts, propio before the noun | Escribió a menudo sus propios guiones (lesson 67) | He often wrote his own scripts |
+| la misma actriz | the same actress, another film with her | aparecía la misma actriz (lesson 67) | the same actress kept appearing |
+| la actriz misma | the actress herself | La actriz misma lo dijo (lesson 67, note 12) | The actress herself said it |
+| un único papel | only one role | un único papel podía cambiar toda una carrera (lesson 67) | a single role could change a whole career |
+| un papel único | a unique role, one of a kind | un papel único (lesson 67, note 13) | a unique role |
+| el antiguo cine | the former cinema | El antiguo cine del barrio cerró (lesson 67, note 14) | The former cinema in the neighbourhood closed |
+| el cine antiguo | the old films, the films of an earlier time | Tomó del cine antiguo los melodramas (lesson 67) | He took melodrama from old films |
+4. irony and wishes (lesson 66): what the speaker means, and what the words say.
+| Expression | What it does | Example from the course | In English |
+|---|---|---|---|
+| ¡Quién pudiera...! | if only I could, quién with the imperfect subjunctive | ¡Quién pudiera irse a la montaña, aunque solo fuera un fin de semana! (lesson 66) | If only I could go to the mountains |
+| ojalá + imperfect subjunctive | I wish, for a wish that cannot come true now | Ojalá lloviera un poco, aunque fuera solo una tarde (lesson 66) | I wish it would rain a little |
+| ¡Si al menos...! | if only at least, with the imperfect subjunctive | ¡Si al menos tuviéramos un ventilador! (lesson 66) | If only we had a fan, at least |
+| ¡Menudo calor! | what a heat, often ironic | «¡Menudo calor!» (lesson 66) | What a heat! |
+| ¡Vaya día! | what a day, a sigh | «¡Vaya día!» (lesson 66) | What a day! |
+| ¡Qué bien...! | how lovely, said with irony | «¡Qué bien, otra vez el aire!» (lesson 66) | How lovely, the air conditioning again! |
+| no está mal | it is not bad, said with understatement | «No está mal» (lesson 66) | It's not bad |
+5. the word families of the course: one idiom or two for each verb, with the place it is taught.
+echar en cara (lesson 60, sentence 6): to reproach someone for something.
+quedarse de piedra (lesson 9, sentence 11): to be stunned, the literal sense being to stay of stone.
+dar la cara (lesson 60, sentence 2): to face up to something, or to stand up for someone.
+dar señales de vida (lesson 57, sentence 9): to get in touch, or to show that you are still alive.
+poner buena cara (lesson 60, sentence 9): to put a brave face on something, to accept it politely.
+llevar la contraria (lesson 33, sentence 3): to contradict someone.
+pasarlo bien (lesson 40, sentence 5): to have a good time.
+pasar por alto (lesson 40, sentence 15): to overlook something.
+sacar de mis casillas (lesson 45, sentence 8): to make someone lose their temper.
+sacar a bailar (lesson 45, sentence 20): to ask someone to dance.
+tirar de la lengua (lesson 53, sentence 4): to get someone talking.
+tirar la casa por la ventana (lesson 53, sentence 1): to spare no expense.
+cara de póquer (lesson 60, sentence 4): a face that shows no feeling.
+plantar cara (lesson 60, sentence 8): to stand up to someone.
+de cara a (lesson 60, sentence 12): with a view to, in preparation for.
+
+This is the last lesson of this course. Go back to any text you liked, read it aloud as two people, and keep speaking Spanish even when the answer comes in English.
+
+Practice. Ten sentences, five to translate and five to fill in.
+
+ex1:
+- Iremos a la playa, a no ser que llueva.
+  en: We'll go to the beach, unless it rains.
+- Acepto el trabajo siempre que me paguen bien.
+  en: I'll accept the job provided they pay me well.
+- Se me olvidó el paraguas en el tren. (to a friend)
+  en: I left my umbrella on the train. (to a friend)
+- Ojalá tuviera más tiempo para leer.
+  en: I wish I had more time to read.
+- Me quedé de piedra cuando lo supe.
+  en: I was stunned when I found out.
+
+ex2:
+- Te dejo el coche siempre [que] vuelvas antes de las diez.
+  en: I'll lend you the car provided you are back before ten.
+- [Se] le apagó el móvil al subir la escalera.
+  en: Her phone went dead as she went up the stairs.
+- Por un lado, es caro; [por otro], es cómodo.
+  en: On the one hand it is expensive; on the other, it is comfortable.
+- [¡Menudo] lío!
+  en: What a mess!
+- Ella le [tiró] de la lengua a su cuñada.
+  en: She got her sister-in-law talking.

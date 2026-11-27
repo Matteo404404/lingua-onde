@@ -173,3 +173,20 @@ word the tool figured wrongly, anything you were unsure of.
   generated pron.en exactly (*lé*Hoss, not lé*Hos*).
 - Exercise sentences are things a person would say; never "Buenas tardes,
   ¿y tú?" with nothing before it.
+
+## Rules added after week 2
+
+- Never promise a lesson number for a later topic unless the plan's block
+  for that lesson says so; otherwise write "later" or "we will come back to
+  it". A back-reference must name the lesson where the word really appeared
+  (para was in lesson 6).
+- Bold marks in a quoted figure must open and close: *tréïn*ta, never
+  tréïn*ta.
+- A note explains the sentence the dialogue really has: if the line is "el
+  profesor soy yo", the note explains that, not a simpler "soy yo".
+- English word-order claims must be right ("she is always tired": always
+  comes after "is").
+- A revision scene keeps one setting and one pair of speakers, and tú or
+  usted stays the same for each speaker from first line to last.
+- A revision section does not repeat a table from an earlier revision; it
+  takes the next step.

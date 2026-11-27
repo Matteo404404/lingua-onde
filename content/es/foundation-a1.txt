@@ -572,3 +572,570 @@ Completions: Yo ___ (vivir) en Madrid: vivo. Ellos ___ (hablar) inglés: hablan.
 | 10 | diez | | |
 
 The week closes here: the words and forms of these lessons come back in every lesson that follows, and each time they come a little more easily.
+
+== 8 A1
+numeral: Lección octava
+numeral.pron.en: lék*cion* oc*ta*ba
+title: Una farmacia
+title.en: A chemist's
+
+dialogue:
+- Perdone, ¿hay una farmacia por aquí?
+  en: Excuse me, is there a chemist's near here?
+  pron.en: pér*do*né, ¿aï *ou*na far*ma*cia por a*ki*?
+- Sí, hay una en la plaza. Pero hoy es domingo y está cerrada.
+  en: Yes, there is one in the square. But today is Sunday and it is closed.
+  pron.en: si, aï *ou*na én la *pla*ça. *pé*ro oï éss do*min*go i éss*ta* cé*rra*da.
+- ¿Hay otra?
+  en: Is there another one?
+  pron.en: ¿aï *o*tra?
+- Sí. Hay una de guardia en la calle Mayor.
+  en: Yes. There is one on duty in Calle Mayor.
+  pron.en: si. aï *ou*na dé *gouar*dia én la *ca*yé ma*yor*.
+- ¿Está lejos?
+  en: Is [it] far?
+  pron.en: ¿éss*ta* *lé*Hoss?
+- No. Pero hay una cola muy larga.
+  en: No. But there is a very long queue.
+  pron.en: no. *pé*ro aï *ou*na *co*la moui *lar*ga.
+- ¿Muy larga?
+  en: Very long?
+  pron.en: ¿moui *lar*ga?
+- Sí. Empieza aquí.
+  en: Yes. [It] starts here.
+  pron.en: si. ém*pié*ça a*ki*.
+- ¿Aquí? ¡Entonces estoy en la cola!
+  en: Here? Then I'm in the queue!
+  pron.en: ¿a*ki*? ¡én*ton*céss éss*toï* én la *co*la!
+
+sounds.en:
+1. The gu of guardia keeps its u before the a, and it is said as an ou glide: *gouar*dia, the w of "war" with the vowel after it.
+2. The ll of calle is the y of yes, as in lesson 2: *ca*yé ma*yor*. The z of plaza is the th of think, written ç: *pla*ça.
+3. Hay is said aï, with the i closing the vowel as the y of "eye": aï *ou*na. Notice the h, silent, in hay and hoy.
+
+notes.en:
+1. Hay: there is and there are both say hay, for something that is there but not yet known to the listener: hay una farmacia, hay una cola. It never changes its form, so the number of things makes no difference.
+2. Una in hay una en la plaza stands for farmacia, which is feminine, and so it is una and not uno, as in lesson 6. Spanish does not need to repeat the noun: the one is left out.
+3. Está cerrada: estar is used for a state, open or closed, and the -a agrees with farmacia. Hoy es domingo uses ser, as it does for the day of the week and for the time (we will come back to the time in lesson 9).
+4. Otra: another, feminine, with no una before it, as otro was with no un in lesson 6: ¿hay otra? is "is there another one?".
+5. De guardia: literally "of guard", the English is "on duty". It is the chemist's that is on duty when the others are shut.
+6. Está lejos: estar again, this time for where something is, and lejos, far, from lesson 4. Spanish has no word for "it" here, so the English puts one in: [it] is far.
+7. Una cola muy larga: a very long queue. Larga is the feminine of largo, long, and it is a false friend: "large" is grande (lesson 3). Muy, very, goes before it, as in lesson 3.
+8. Empieza: from empezar, to start. Its e becomes ie when the stress falls on it, a change we will meet again in other verbs. For now, empieza aquí is simply "it starts here".
+
+ex1:
+- Hay una farmacia en la plaza.
+  en: There is a chemist's in the square.
+- ¿Hay una cola?
+  en: Is there a queue?
+- Hoy es domingo.
+  en: Today is Sunday.
+- La farmacia está cerrada.
+  en: The chemist's is closed.
+- Estoy en la cola.
+  en: I'm in the queue.
+
+ex2:
+- Perdone, ¿[hay] una farmacia?
+  en: Excuse me, is there a chemist's?
+- Hoy [es] domingo.
+  en: Today is Sunday.
+- La farmacia [está] cerrada.
+  en: The chemist's is closed.
+- Hay una [de] guardia.
+  en: There is one on duty.
+- ¿[Está] lejos?
+  en: Is it far?
+
+culture.en:
+The green cross over the door is the sign of a farmacia, the place for medicine and for advice on a cold or a cut. When the chemist's is shut, the farmacia de guardia is the one on duty instead.
+
+== 9 A1
+numeral: Lección novena
+numeral.pron.en: lék*cion* no*bé*na
+title: ¿Qué hora es?
+title.en: What time is it?
+
+dialogue:
+- Perdona, ¿qué hora es?
+  en: Excuse me, what time is it?
+  pron.en: pér*do*na, ¿ké *o*ra éss?
+- Son las nueve y cuarto.
+  en: It's a quarter past nine.
+  pron.en: son lass *noué*bé i *couar*to.
+- ¡Las nueve y cuarto! Tengo que estar en clase a las nueve.
+  en: A quarter past nine! I have to be in class at nine.
+  pron.en: ¡lass *noué*bé i *couar*to! *tén*go ké éss*tar* én *cla*ssé a lass *noué*bé.
+- Entonces llegas tarde.
+  en: So you're late.
+  pron.en: én*ton*céss *yé*gass *tar*dé.
+- No, no. La clase empieza cuando llego yo.
+  en: No, no. The class starts when I arrive.
+  pron.en: no, no. la *cla*ssé ém*pié*ça *couan*do *yé*go yo.
+- ¿Por qué?
+  en: Why?
+  pron.en: ¿por ké?
+- Porque el profesor soy yo.
+  en: Because I'm the teacher.
+  pron.en: *por*ké él profé*ssor* soï yo.
+
+sounds.en:
+1. The u of qué and que is silent, so the figured line writes ké; the u of cuarto is sounded before the a: ké *o*ra, *couar*to.
+2. The ll of llego is the y of yes, as in lesson 2: *yé*go. The g before o is the hard g of go, not the rough H of lesson 2.
+3. The c of cuando is the hard k of cat, not the th: *couan*do. In empieza the stress falls on the middle syllable, ém*pié*ça, as the rule for a word ending in a vowel says.
+
+notes.en:
+1. Son las nueve y cuarto: the time is said with son and las, "they are the nine and quarter". Only one hour takes es: es la una, "it is one o'clock". From two onwards it is son las dos, son las tres, and so on.
+2. Y cuarto is "quarter past", and y media is "half past". The third form, menos cuarto, is "quarter to": we will see the whole time, with the table, in the revision lesson.
+3. ¡Las nueve y cuarto!: the time repeated back in surprise, as an English speaker would say "a quarter past nine!" with a rise in the voice.
+4. Tengo que estar en clase: tener que plus an infinitive means "to have to", and it is the English "I have to be". Tengo is the first person of tener, to have: tengo, tienes, tiene. Estar here is the infinitive, "to be" in a place.
+5. A las nueve: "at nine". The word a goes before the time, and the las is the same las as in the hour: a las nueve, as in son las nueve.
+6. Empieza is the form of empezar, to start. Its e changes to ie in the stem, a change we will come back to, as the verbs of this kind are met.
+7. Llegas and llego, from llegar, to arrive: llego, "I arrive"; llegas, "you arrive" for a friend. Spanish does not need the yo or the tú, as in lesson 2.
+8. ¿Por qué? and porque: the question is two words with an accent on qué, and the answer is one word with no accent, "because". El profesor soy yo: literally "the teacher am I". The yo goes last to stress who it is, and the verb agrees with yo; English says "I'm the teacher".
+
+ex1:
+- Son las dos.
+  en: It's two o'clock.
+- Es la una y cuarto.
+  en: It's a quarter past one.
+- Tengo que estar aquí.
+  en: I have to be here.
+- Porque soy de Madrid.
+  en: Because I'm from Madrid.
+- ¿Qué hora es?
+  en: What time is it?
+
+ex2:
+- [Son] las nueve y cuarto.
+  en: It's a quarter past nine.
+- ¿Qué [hora] es?
+  en: What time is it?
+- Entonces llegas [tarde].
+  en: So you're late.
+- La clase [empieza] a las nueve.
+  en: The class starts at nine.
+- ¿[Por] qué?
+  en: Why?
+
+culture.en:
+Spain keeps the clock of Central Europe, one hour ahead of Britain. Lunch is late, usually from about two in the afternoon, and dinner comes later still.
+
+== 10 A1
+numeral: Lección décima
+numeral.pron.en: lék*cion* *dé*cima
+title: Mi hermana
+title.en: My sister
+
+dialogue:
+- ¿Quién es la chica de la foto?
+  en: Who is the girl in the photo?
+  pron.en: ¿kién éss la *tchi*ca dé la *fo*to?
+- Es mi hermana Lucía. Es médica.
+  en: It's my sister Lucía. She's a doctor.
+  pron.en: éss mi ér*ma*na lou*ci*a. éss *mé*dica.
+- ¿Y dónde vive?
+  en: And where does she live?
+  pron.en: ¿i *don*dé *bi*bé?
+- Vive en Londres. Trabaja en un hospital.
+  en: She lives in London. She works in a hospital.
+  pron.en: *bi*bé én *lon*dréss. tra*ba*Ha én oun osspi*tal*.
+- ¿Es simpática?
+  en: Is she nice?
+  pron.en: ¿éss sim*pa*tica?
+- Muy simpática. Pero siempre está cansada.
+  en: Very nice. But she is always tired.
+  pron.en: moui sim*pa*tica. *pé*ro *siém*pré éss*ta* can*ssa*da.
+- ¿Por el trabajo?
+  en: Because of work?
+  pron.en: ¿por él tra*ba*Ho?
+- No. Por sus tres niños.
+  en: No. Because of her three children.
+  pron.en: no. por souss tréss *ni*gnoss.
+
+sounds.en:
+1. The j of trabaja is the rough H of Javier in lesson 2: tra*ba*Ha. The h of hospital is silent.
+2. The stress falls on the first syllable of médica and on the second of simpática: *mé*dica, sim*pa*tica. Both words carry a written accent, which shows where the voice goes.
+3. The ñ of niños is the ni of onion, as in lesson 5: *ni*gnoss.
+
+notes.en:
+1. Es médica, es simpática, está cansada: ser for what someone is, a doctor and nice; estar for how someone is today, tired. The same person takes either verb, and English says "she is" for both, so the meaning must choose.
+2. Médica after ser is a job with no article: es médica, "she's a doctor", where English says "a doctor" and Spanish needs no un.
+3. Mi, tu, su: mi hermana, "my sister". Tu without an accent is "your", as in lesson 7; su, "his, her, their or your", takes an -s before a plural noun: sus tres niños, "her three children".
+4. Vive is the form of vivir, to live, for she: vivo was the form for I in lesson 5. Trabaja is trabajar, to work, with the same -ar ending as hablar and estudiar in lesson 7: trabaja for she.
+5. Simpática: "nice" or "friendly". It is not the English "sympathetic", which is comprensivo: a false friend to watch.
+6. Siempre está cansada: "she is always tired". Siempre, always, usually goes before the verb in Spanish, where English puts it after "is".
+7. Por el trabajo, por sus niños: por means "because of" here, a cause. The other word for "for", para, was in lesson 6: para hoy. Lesson 14 puts the two side by side.
+
+ex1:
+- Mi hermana vive en Londres.
+  en: My sister lives in London.
+- Es simpática.
+  en: She is nice.
+- Trabaja en el hospital.
+  en: She works in the hospital.
+- Mi hermana está cansada.
+  en: My sister is tired.
+- ¿Quién vive aquí?
+  en: Who lives here?
+
+ex2:
+- Mi hermana es [médica].
+  en: My sister is a doctor.
+- Mi hermana [vive] en Londres.
+  en: My sister lives in London.
+- Trabaja en un [hospital].
+  en: She works in a hospital.
+- ¿[Es] simpática?
+  en: Is she nice?
+- Pero siempre [está] cansada.
+  en: But she is always tired.
+
+culture.en:
+Spaniards have two surnames: the first from the father, the second from the mother. Married people keep their own names, and a woman does not have to take her husband's surname.
+
+== 11 A1
+numeral: Lección once
+numeral.pron.en: lék*cion* *on*cé
+title: ¿Adónde vas?
+title.en: Where are you going?
+
+dialogue:
+- ¿Adónde vas?
+  en: Where are you going?
+  pron.en: ¿a*don*dé bass?
+- Voy al mercado. ¿Vienes conmigo?
+  en: I'm going to the market. Are you coming with me?
+  pron.en: boï al mér*ca*do. ¿*bié*néss con*mi*go?
+- No puedo. Voy a estudiar.
+  en: I can't. I'm going to study.
+  pron.en: no *poué*do. boï a ésstou*diar*.
+- ¿Estudiar? ¡Pero hoy es sábado!
+  en: Study? But today is Saturday!
+  pron.en: ¿ésstou*diar*? ¡*pé*ro oï éss *sa*bado!
+- Mañana tengo un examen.
+  en: I have an exam tomorrow.
+  pron.en: ma*gna*na *tén*go oun ék*sa*mén.
+- ¿De qué?
+  en: What's it in?
+  pron.en: ¿dé ké?
+- De cocina. ¡Espera! Voy contigo.
+  en: Cooking. Wait! I'm coming with you.
+  pron.en: dé co*ci*na. ¡éss*pé*ra! boï con*ti*go.
+
+sounds.en:
+1. The x of examen, between two vowels, is a k followed by an s: ék*sa*mén. The stress is on sa, the middle syllable, because a word ending in n is stressed on the next-to-last syllable.
+2. Voy is said boï: the v is a b, as in lesson 1, and the oy closes on the i of boy: boï.
+3. The c of cocina before an i is the th of think, as the c of gracias was in lesson 1: co*ci*na.
+
+notes.en:
+1. Voy al mercado: ir, to go, is irregular: voy, "I go"; vas, "you go" to a friend; va, "he, she, you go" to a stranger. Its forms do not follow the -ar pattern of lesson 7.
+2. Al is a + el, the two words joined, as the mercado has the article el: "to the market". Spanish joins a and el but not a and la: a la plaza, "to the square", stays apart, as you will see in the revision lesson.
+3. Adónde and dónde: adónde asks "to where?", with the sense of going, and dónde asks "where?", as in lesson 4 for a place. Vas is with adónde because the question is about a journey.
+4. Voy a estudiar: voy a with an infinitive is "I'm going to study", the same pattern as English. Estudiar is the infinitive of the verb of lesson 5.
+5. Vienes conmigo: vienes is the tú form of venir, to come. Conmigo means "with me" and contigo, in Voy contigo, means "with you": con, "with", joins to mí and to ti in one word.
+6. No puedo: poder, to be able, has its o changed to ue in the stem, as in puedo. We will come back to these stem changes.
+7. Espera, "wait", is an order, from esperar, to wait. Esperar also means "to hope", so the sense comes from the sentence. We will meet orders in full in lesson 16.
+8. ¿De qué?: literally "of what?", the English is "what's it in?" and it is a question about the subject of the exam. De cocina answers it.
+
+ex1:
+- Voy al mercado.
+  en: I'm going to the market.
+- ¿Adónde vas?
+  en: Where are you going?
+- Mañana tengo un examen de cocina.
+  en: I have a cooking exam tomorrow.
+- No puedo. Voy a estudiar.
+  en: I can't. I'm going to study.
+- ¡Espera!
+  en: Wait!
+
+ex2:
+- ¿[Adónde] vas?
+  en: Where are you going?
+- Voy [al] mercado.
+  en: I'm going to the market.
+- ¿[Vienes] conmigo?
+  en: Are you coming with me?
+- Voy [contigo].
+  en: I'm coming with you.
+- ¡Pero hoy [es] sábado!
+  en: But today is Saturday!
+
+culture.en:
+A Spanish neighbourhood often has its own mercado, with stalls for fish, meat, fruit and vegetables. On a Saturday morning it is one of the places where people do their shopping for the week.
+
+== 12 A1
+numeral: Lección doce
+numeral.pron.en: lék*cion* *do*cé
+title: Este es el salón
+title.en: This is the living room
+
+dialogue:
+- Este es el salón.
+  en: This is the living room.
+  pron.en: *éss*té éss él sa*lon*.
+- ¡Qué pequeño!
+  en: How small!
+  pron.en: ¡ké pé*ké*gno!
+- Es pequeño, pero tiene mucha luz.
+  en: [It]'s small, but [it] has a lot of light.
+  pron.en: éss pé*ké*gno, *pé*ro *tié*né *mou*tcha louç.
+- ¿Y esta puerta?
+  en: And this door?
+  pron.en: ¿i *éss*ta *pouér*ta?
+- Esa es la cocina.
+  en: That's the kitchen.
+  pron.en: *é*ssa éss la co*ci*na.
+- ¿Y aquella ventana?
+  en: And that window over there?
+  pron.en: ¿i a*ké*ya bén*ta*na?
+- Aquella es del vecino.
+  en: That one is the neighbour's.
+  pron.en: a*ké*ya éss dél bé*ci*no.
+- ¿Y el dormitorio?
+  en: And the bedroom?
+  pron.en: ¿i él dormi*to*rio?
+- Señora, esto es todo el piso.
+  en: Madam, this is the whole flat.
+  pron.en: sé*gno*ra, *éss*to éss *to*do él *pi*sso.
+
+sounds.en:
+1. The ñ of pequeño is the ni of onion, as in lesson 5: pé*ké*gno.
+2. The z of luz is the th of think, written ç: louç, the same as the z of plaza in lesson 8.
+3. The v of ventana is said b, as in lesson 1: bén*ta*na, and the c of cocina before i is the th of think, as in lesson 11.
+
+notes.en:
+1. Este es el salón, esta puerta: este, "this", goes with a masculine noun such as salón, and esta with a feminine one such as puerta. The ending follows the noun, and it is the noun that decides, not the speaker.
+2. Spanish has three words where English has two: este, this, near me; ese or esa, that, near you; aquel or aquella, that over there, far from both of us. Esa es la cocina is "that's the kitchen", and aquella ventana is the window over there.
+3. Esto is this with no noun after it, for a thing not yet named, as in the last line. Eso is the same for that.
+4. ¡Qué pequeño!: qué with an adjective is "how small!", and the exclamation carries its own accent on qué. Pequeño agrees with the thing it describes.
+5. Mucha luz: mucho means "a lot of" and agrees with the noun, so it is mucha with luz, which is feminine. Tiene is the form of tener, to have, for he, she or it: tengo for I, as in lesson 9.
+6. Del vecino: de with el becomes del, as a with el became al in lesson 11. The word de also shows whose a thing is: "the neighbour's".
+7. Piso is a flat in Spain, and the same word is a floor of a building: el primer piso is the first floor. The floor you walk on is suelo, which comes later.
+
+ex1:
+- Este salón tiene mucha luz.
+  en: This living room has a lot of light.
+- ¿Y esa ventana?
+  en: And that window?
+- Aquella puerta es grande.
+  en: That door over there is big.
+- Esto es muy pequeño.
+  en: This is very small.
+- ¡Qué pequeño es el piso!
+  en: How small the flat is!
+
+ex2:
+- [Este] es el salón.
+  en: This is the living room.
+- ¡Qué [pequeño]!
+  en: How small!
+- Esa es la [cocina].
+  en: That's the kitchen.
+- Aquella [es] del vecino.
+  en: That one is the neighbour's.
+- ¿Y el [dormitorio]?
+  en: And the bedroom?
+
+culture.en:
+A Spanish flat is a piso, and the floors of a building are counted from the bajo, the ground floor, then primero, segundo and so on up the stairs.
+
+aside.en:
+There is a lot of groundwork in these first lessons; it gets easier.
+
+== 13 A1
+numeral: Lección trece
+numeral.pron.en: lék*cion* *tré*cé
+title: De usted
+title.en: Formally
+
+dialogue:
+- Buenas noches, señora. ¿Qué va a tomar?
+  en: Good evening, madam. What will you have?
+  pron.en: *boué*nass *no*tchéss, sé*gno*ra. ¿ké ba a to*mar*?
+- ¿Señora? ¡Tengo treinta años!
+  en: Madam? I'm thirty!
+  pron.en: ¿sé*gno*ra? ¡*tén*go *tréïn*ta *a*gnoss!
+- Perdona. ¿Qué vas a tomar?
+  en: Sorry. What will you have?
+  pron.en: pér*do*na. ¿ké bass a to*mar*?
+- Una caña, por favor.
+  en: A small beer, please.
+  pron.en: *ou*na *ca*gna, por fa*bor*.
+- ¿Y tu amigo?
+  en: And your friend?
+  pron.en: ¿i tou a*mi*go?
+- No es mi amigo. Es mi abuelo.
+  en: He isn't my friend. He's my grandfather.
+  pron.en: no éss mi a*mi*go. éss mi a*boué*lo.
+- Perdone, señor. ¿Usted qué va a tomar?
+  en: Excuse me, sir. What will you have?
+  pron.en: pér*do*né, sé*gnor*. ¿ouss*téd* ké ba a to*mar*?
+- Un vino tinto, joven.
+  en: A red wine, young man.
+  pron.en: oun *bi*no *tin*to, *Ho*bén.
+
+sounds.en:
+1. The ñ of caña is the ni of onion, as in lesson 5: *ca*gna.
+2. The j of joven is the rough H of Javier in lesson 2: *Ho*bén. The v is said b, as in lesson 1.
+3. The ei of treinta is the ey of they, closing on an i: *tréïn*ta. The t has no puff of air after it, as the p and t of the key say.
+
+notes.en:
+1. ¿Qué va a tomar?: with usted, the verb takes the form of he or she, va, from ir. Usted is the formal you, and the question needs no pronoun.
+2. ¿Qué vas a tomar?: with tú, the verb takes its own form, vas. The English says "what will you have?" both times, so Spanish is the only place where you can hear which you is meant.
+3. Perdona and perdone are the same word in the two forms: perdona for tú, perdone for usted. It is the ending of the verb that tells you which one the speaker has chosen.
+4. Tengo treinta años: tener, to have, is used for age, "I have thirty years". Soy treinta is wrong. The same tener is used for hunger and for cold, which we will meet later.
+5. Treinta is thirty. From twenty to a hundred the tens are veinte, treinta, cuarenta, cincuenta, sesenta, setenta, ochenta, noventa and cien for one hundred; the numbers between them join with y: treinta y uno, cuarenta y cinco.
+6. Una caña is a small glass of draught beer, and vino tinto is red wine. Señor and señora are "sir" and "madam", and joven is "young"; said to a waiter or a shop assistant, it is "young man" or "young lady".
+7. Buenas noches is said once it is dark, where buenas tardes was for the afternoon in lesson 6.
+8. ¿Y tu amigo?: tu, without an accent, is "your", as in lesson 7. With its accent, tú is the "you" of the verbs in lessons 2 and 5.
+
+ex1:
+- Es mi amigo.
+  en: He is my friend.
+- Un vino tinto, por favor.
+  en: A red wine, please.
+- Una caña para mi abuelo.
+  en: A small beer for my grandfather.
+- ¿Qué va a tomar?
+  en: What will you have?
+- Buenas noches, señor.
+  en: Good evening, sir.
+
+ex2:
+- ¿Qué [va] a tomar, señora?
+  en: What will you have, madam?
+- ¿Qué [vas] a tomar?
+  en: What will you have?
+- Tengo [treinta] años.
+  en: I'm thirty.
+- Un vino [tinto], joven.
+  en: A red wine, young man.
+- ¿Y [tu] amigo?
+  en: And your friend?
+
+culture.en:
+In Spain tú is used almost everywhere today, among friends, young people and colleagues. Usted is kept for older people, for formal settings and to show respect, and the phrase hablar de usted means to speak to someone in that way.
+
+== 14 A1
+kind: revision
+numeral: Lección catorce
+numeral.pron.en: lék*cion* ca*tor*cé
+title: Revisión y notas
+title.en: Revision and notes
+
+dialogue:
+- Perdona, ¿qué hora es?
+  en: Excuse me, what time is it?
+  pron.en: pér*do*na, ¿ké *o*ra éss?
+  refs: 9
+- Son las once y media, señora. Hay mucha cola hoy.
+  en: It's half past eleven, madam. There's a long queue today. (... There is much queue today.)
+  pron.en: son lass *on*cé i *mé*dia, sé*gno*ra. aï *mou*tcha *co*la oï.
+  refs: 8 9
+- Sí, mucha. ¿Y tú dónde vives?
+  en: Yes, very. And where do you live? (Yes, much. And you, where do [you] live?)
+  pron.en: si, *mou*tcha. ¿i tou *don*dé *bi*béss?
+  refs: 4 5
+- En la plaza. ¿Y usted?
+  en: In the square. And you?
+  pron.en: én la *pla*ça. ¿i ouss*téd*?
+  refs: 8 13
+- Aquí, en la calle Mayor.
+  en: Here, in Calle Mayor.
+  pron.en: a*ki*, én la *ca*yé ma*yor*.
+  refs: 8
+- ¿Está usted mal?
+  en: Are you unwell? (Are you bad?)
+  pron.en: ¿éss*ta* ouss*téd* mal?
+  refs: 3 13
+- No, no. Estoy muy bien.
+  en: No, no. I'm very well.
+  pron.en: no, no. éss*toï* moui bién.
+  refs: 3 5
+- ¿Y tiene familia?
+  en: And do you have [any] family?
+  pron.en: ¿i *tié*né fa*mi*lia?
+  refs: 10 12
+- Tengo tres hijos.
+  en: I have three children.
+  pron.en: *tén*go tréss *i*Hoss.
+  refs: 9 10
+- Entonces, ¿por qué está aquí?
+  en: Then why are you here?
+  pron.en: én*ton*céss, ¿por ké éss*ta* a*ki*?
+  refs: 8 9
+- Porque aquí están mis amigas.
+  en: Because my friends are here. (Because here are my friends.)
+  pron.en: *por*ké a*ki* éss*tan* miss a*mi*gass.
+  refs: 9 10
+
+notes.en:
+Thirteen lessons have gone by, and nothing in them has to be learnt by heart. This lesson is not a test: it puts in order what you have already read, heard and said. If a part seems too much, go on; it will come back in the lessons ahead, a little clearer each time. Doubts are normal, and every table here is a reminder rather than a rule to memorise.
+
+1. Vowels, syllables and the written accent (lessons 1, 5, 8). The vowels a, e and o are strong; i, u and y are weak. Two vowels together make one syllable when one of them is weak, and the stress falls on the strong one. An accent on the weak vowel breaks the pair into two syllables.
+
+| Pair | Example | Syllables | Lesson |
+|---|---|---|---|
+| ue | buenos | bue-nos | 1 |
+| ie | bien | bien | 5 |
+| ai | hay | hay | 8 |
+| í (accent on the weak vowel) | días | dí-as | 1 |
+
+2. Hay and está (lessons 4, 8, 12). Hay is one form for "there is" and "there are" for something that is there and new to the listener. Está is estar, for where a known thing is, or for a state.
+
+| Use | Spanish | Example |
+|---|---|---|
+| something new | hay | Hay una de guardia (8) |
+| where a known thing is | está | ¿Está lejos? (8) |
+| a state: open, closed | está | está cerrada (8) |
+
+3. Ser and estar, second step (lessons 2, 3, 8, 9, 10). Ser is for what someone is: origin, job, character, and for the time and the day. Estar is for where something is and how someone is today.
+
+| Use | ser | estar |
+|---|---|---|
+| origin | soy de Madrid (2) | |
+| job | es médica (10) | |
+| character | es simpática (10) | |
+| time and day | son las nueve (9), hoy es domingo (8) | |
+| place | | está lejos (8) |
+| how someone is today | | está cansada (10), estoy cansado (3) |
+
+4. The time (lesson 9). The hour takes es for one o'clock and son for all the others, with las. Y cuarto and y media, "quarter past" and "half past", come after the hour; menos cuarto, "quarter to", counts down to the next hour.
+
+| Time | Spanish |
+|---|---|
+| 1.00 | Es la una |
+| 2.00 | Son las dos |
+| 9.15 | Son las nueve y cuarto (9) |
+| 9.30 | Son las nueve y media |
+| 8.45 | Son las nueve menos cuarto |
+| at nine | a las nueve (9) |
+
+5. Ir and venir, the full present (lessons 11, 12). Al is a + el and del is de + el: al mercado (11), del vecino (12). Ir a with an infinitive says what is going to happen: voy a estudiar (11).
+
+| Person | ir | venir |
+|---|---|---|
+| I | voy | vengo |
+| you (a friend) | vas | vienes (11) |
+| he, she, you (usted) | va | viene |
+| we | vamos | venimos |
+| you (all, Spain) | vais | venís |
+| they, you (all) | van | vienen |
+
+6. Para and por, first look (lessons 1, 6, 10). Para is for a person or a goal the thing is meant for: para dos personas (6), para una (6). Por is for "because of": por el trabajo (10), por sus niños (10). Por favor (1) is a fixed phrase, "please", literally "for favour".
+
+7. Tú and usted (lessons 2, 9, 11, 13). Tú is for a friend, a child or anyone young; usted is for a stranger, an older person or a formal setting, and it takes the verb form of he and she. The lady in the queue says tú to the young man; he says usted to her.
+
+| tú | usted |
+|---|---|
+| perdona (9) | perdone (4) |
+| ¿qué vas a tomar? (13) | ¿qué va a tomar? (13) |
+| ¿dónde vives? | ¿dónde vive? |
+| ¿tienes familia? | ¿tiene familia? |
+| ¿estás mal? | ¿está mal? |
+
+Tener is used for age: tengo treinta años (13), never soy treinta. Numbers from twenty to a hundred, by tens: veinte (20), treinta (30), cuarenta (40), cincuenta (50), sesenta (60), setenta (70), ochenta (80), noventa (90), cien (100).
+
+The week closes here: the words and forms of these lessons come back in every lesson that follows, and each time they come a little more easily.

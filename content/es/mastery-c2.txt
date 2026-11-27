@@ -1109,3 +1109,783 @@ tasks:
 - Ayer la concejala visitó el centro, se reunió con los vecinos y, después, en el barrio se comentó la visita: unos la aplaudieron y otros la criticaron.
   task.en: Rewrite this vague text in Spanish, in two sentences, so that every vague word (fue, hizo, la gente, dijo) is replaced by its exact word, with no fact added: «Ayer la concejala fue al centro y hizo una cosa, y la gente habló de ello en el barrio y dijo cosas, no sé si bien o mal.»
   rubric.en: meaning: the visit, the meeting with the neighbours, the talk in the neighbourhood and the praise and the criticism all stay, with no fact added; register: plain Spanish, the same tone as the original; structure: two sentences in place of the one vague sentence; idiom: visitar, reunirse con and comentar are used in their normal senses; effect: each vague word is replaced by a precise one, and the reader sees the change at once.
+
+== 36 C2
+numeral: Lección treinta y seis
+title: Los estatutos
+title.en: The statutes
+
+dialogue:
+- Estatutos de la Asociación Huertos del Olivar Nuevo.
+  en: Statutes of the Huertos del Olivar Nuevo Association.
+- Artículo 1. Denominación y fines.
+  en: Article 1. Name and purposes.
+- La asociación se denomina Huertos del Olivar Nuevo y tiene por objeto el cultivo de parcelas de huerto urbano por parte de sus socios, con fines de ocio y de consumo propio.
+  en: The association is called Huertos del Olivar Nuevo, and its purpose is the cultivation of urban allotment plots by its members, for leisure and for their own consumption.
+- Artículo 2. Domicilio.
+  en: Article 2. Registered office.
+- El domicilio social se fija en la antigua casa de guardas del recinto, en el barrio del Olivar Nuevo.
+  en: The registered office is at the old keeper's house on the site, in the Olivar Nuevo district.
+- Artículo 3. Socios.
+  en: Article 3. Members.
+- Podrán ser socios las personas mayores de edad que acepten estos estatutos y abonen la cuota de entrada.
+  en: Any adult who accepts these statutes and pays the joining fee may become a member.
+- Artículo 4. Obligaciones de los socios.
+  en: Article 4. Duties of members.
+- 1. Los socios quedarán obligados a cultivar su parcela, a mantener limpios los caminos comunes y a respetar el turno de riego.
+  en: 1. Members will be bound to cultivate their plot, to keep the shared paths clean and to respect the irrigation rota.
+- 2. Quedan prohibidos el uso de productos no autorizados y la construcción de estructuras sin autorización previa de la Junta Directiva, salvo las de carácter provisional.
+  en: 2. The use of unauthorised products and the building of structures without prior authorisation from the board are prohibited, except temporary ones.
+- Artículo 5. Órganos de gobierno.
+  en: Article 5. Governing bodies.
+- Son órganos de la asociación la asamblea general y la Junta Directiva.
+  en: The association's bodies are the general meeting and the board.
+- Artículo 6. Asamblea general.
+  en: Article 6. General meeting.
+- La asamblea general es el órgano soberano de la asociación. La Junta Directiva la convocará al menos una vez al año y, a tal efecto, preparará el orden del día.
+  en: The general meeting is the association's supreme body. The board will call it at least once a year and, for that purpose, will prepare the agenda.
+- Artículo 7. Junta Directiva.
+  en: Article 7. The board.
+- La Junta Directiva estará formada por un presidente, un secretario, un tesorero y dos vocales, elegidos por la asamblea general.
+  en: The board is made up of a chair, a secretary, a treasurer and two members, elected by the general meeting.
+- Artículo 8. Cuotas.
+  en: Article 8. Fees.
+- Los socios abonarán la cuota anual que fije la asamblea general, sin perjuicio de las aportaciones extraordinarias que la asamblea acuerde para obras comunes.
+  en: Members will pay the annual fee set by the general meeting, without prejudice to any extra contributions the meeting agrees for shared works.
+- El socio que no pague dos cuotas seguidas quedará suspendido en sus derechos hasta que regularice su situación.
+  en: A member who fails to pay two consecutive fees will be suspended from their rights until they put their position right.
+- Artículo 9. Baja voluntaria.
+  en: Article 9. Voluntary withdrawal.
+- Un socio puede darse de baja en cualquier momento, mediante escrito dirigido a la Junta Directiva, sin perjuicio de pagar las cuotas vencidas.
+  en: A member may withdraw at any time by written notice to the board, without prejudice to paying the fees already due.
+- Artículo 10. Sanciones.
+  en: Article 10. Penalties.
+- La Junta Directiva podrá suspender, en su caso, el uso de la parcela cuando el socio incumpla gravemente el artículo 4.
+  en: The board may suspend, where applicable, use of the plot when a member seriously breaks article 4.
+- Artículo 11. Disposición final.
+  en: Article 11. Final provision.
+- En todo lo no previsto en los presentes estatutos, decidirá la Junta Directiva.
+  en: In all matters not provided for in these present statutes, the board shall decide.
+- Comentario en lenguaje llano.
+  en: A commentary in plain language.
+- Los artículos 3, 4 y 8 parecen los más prácticos, y de hecho lo son: dicen quién puede entrar, qué hay que hacer y cuánto hay que pagar.
+  en: Articles 3, 4 and 8 look the most practical, and indeed they are: they say who may join, what must be done and what must be paid.
+- Los artículos 6 y 7 explican quién manda, pero sin mucho detalle.
+  en: Articles 6 and 7 explain who decides, but without much detail.
+- Los artículos 9 y 10 dicen cómo se sale y qué pasa si no se cumple, y lo hacen con las fórmulas de siempre: en su caso, salvo, sin perjuicio de.
+  en: Articles 9 and 10 say how a member leaves and what happens if the rules are broken, and they do it in the usual formulas: where applicable, except, without prejudice to.
+- Quien lea el documento deprisa creerá que el último artículo es un trámite.
+  en: Anyone who reads the document quickly will think the last article is a formality.
+- Es todo lo contrario.
+  en: It is the opposite.
+- Todo lo que los estatutos no prevén pasa a manos de la Junta, y de todos los artículos, el único que de verdad importa es el último: «En todo lo no previsto en los presentes estatutos, decidirá la Junta Directiva».
+  en: Everything the statutes do not provide for passes to the board, and of all the articles, the only one that really matters is the last: «In all matters not provided for in these present statutes, the board shall decide».
+
+notes.en:
+1. Artículo 1, "Denominación y fines": statutes number each article and head it with a short noun phrase, not a sentence. Article 4 has two apartados, numbered 1 and 2 inside it, so that a reader can cite "apartado 2 del artículo 4". English does the same with "Name and purposes", but the Spanish heading is never a full clause.
+2. "Estatutos" and "reglamento" (the title): the estatutos are the basic rulebook of an association; a reglamento is usually a more detailed set of rules that develops them. The learner should keep the two apart when reading an association's documents.
+3. "quedarán obligados a cultivar": in a statute the future is not a forecast. It says what the rule establishes from now on. "Quedar obligado a" means to be bound to do something, and it stresses that the obligation comes into being through the statutes; "estar obligado a" is also correct.
+4. "Quedan prohibidos el uso de productos no autorizados": there are two subjects, so the verb is plural, quedan. Salvo before a noun means "except"; before a clause it becomes salvo que. The "las" of "las de carácter provisional" refers back to "estructuras", the feminine noun of the same sentence.
+5. "sin perjuicio de pagar las cuotas vencidas": the phrase means that the right to withdraw is not affected by the duty to pay what is already due. Translate it by its effect: "without prejudice" has a narrower legal meaning in English law.
+6. "a tal efecto": "for that purpose". It links a second duty to the first, here the agenda to the calling of the meeting, and it is the formula statutes use when one act is made for another.
+7. "en su caso": "where applicable". The measure depends on the case, and here the case is named in the same sentence: a member who seriously breaks article 4. The phrase can sit after the verb, as it does here.
+8. "socio" and "miembro": socio is the usual word for a member of an association in Spain; miembro is more used for a member of a body, as in "miembro de la Junta". The text keeps socio for the people and names the bodies separately.
+9. "la Junta" and "la asamblea": in this text la Junta always means the board, the Junta Directiva of article 7, and the general meeting is always la asamblea. Elsewhere junta can also mean a general meeting, so the learner should check which body is meant.
+10. The commentary is written in the plain present ("dicen", "explican"), so it drops the future and the formulas of the articles. The contrast between the statute and its commentary is the register of the whole text.
+11. "el único que de verdad importa es el último": the commentary sets the most routine article against the rest. The last one gives the board everything the others leave open, so it governs the cases that nobody wrote down. The ending says this plainly and adds no second point.
+
+ex1:
+- Las decisiones se tomarán por mayoría de los votos emitidos, salvo que los estatutos exijan otra cosa.
+  en: Decisions will be taken by a majority of the votes cast, unless the statutes require otherwise.
+- Los socios morosos quedarán suspendidos en sus derechos, salvo que la Junta acuerde un aplazamiento por escrito.
+  en: Members in arrears will be suspended from their rights, unless the board agrees a postponement in writing.
+- El secretario levantará acta de cada reunión y la firmará con el visto bueno del presidente.
+  en: The secretary will draw up minutes of each meeting and sign them with the chair's approval.
+- Esta norma no afecta a los derechos que los socios hayan adquirido antes de su aprobación.
+  en: This rule does not affect the rights that members acquired before its approval.
+- El socio que se dé de baja deberá devolver la llave de su parcela y dejarla en buen estado.
+  en: A member who withdraws must return the key to their plot and leave it in good condition.
+
+ex2:
+- Un socio puede [darse de baja] en cualquier momento.
+  en: A member may leave the association at any time.
+- Los gastos de riego se repartirán, [en su caso], entre las parcelas.
+  en: Irrigation costs will be shared, where applicable, between the plots.
+- [Sin perjuicio de] lo dispuesto en el artículo 7, la Junta podrá reunirse en cualquier momento.
+  en: Without prejudice to article 7, the board may meet at any time.
+- El acuerdo [entrará en vigor] el mismo día de su aprobación.
+  en: The agreement will come into force on the day it is approved.
+- Las parcelas se asignan [por sorteo] entre los socios nuevos.
+  en: Plots are allocated by drawing lots among the new members.
+
+tasks:
+- Los socios deben cultivar su parcela, mantener limpios los caminos comunes y respetar el turno de riego. No pueden usar productos no autorizados ni construir nada sin permiso de la Junta Directiva, salvo las estructuras provisionales. Deben pagar la cuota anual que fije la asamblea general, y las aportaciones extraordinarias que acuerde para obras comunes. Quien deja de pagar dos cuotas seguidas queda suspendido en sus derechos hasta que se ponga al día.
+  task.en: Summarise the members' duties from articles 4 and 8 in plain Spanish, in about 70 words, with no legal formula left in it.
+  rubric.en: meaning: the duties of cultivation, paths and irrigation, the ban on unauthorised products and structures, the annual fee and the suspension after two unpaid fees all stay, with nothing added; register: plain Spanish in the third person, with none of quedará obligado, sin perjuicio de or en su caso; structure: the duties first, then the fee and the suspension, in short sentences; idiom: deben and quedar suspendido en sus derechos are used in their normal senses; effect: a member reads it once and knows exactly what is expected of them.
+
+== 37 C2
+numeral: Lección treinta y siete
+title: La baja voluntaria
+title.en: The voluntary resignation
+
+dialogue:
+- Lucía Sanz tenía tres versiones de su carta de baja en el mismo documento, una debajo de otra.
+  en: Lucía Sanz had three versions of her resignation letter in the same document, one below the other.
+- Las escribió en una semana, entre dos reuniones de presupuesto y un café que se le enfrió.
+  en: She wrote them over one week, between two budget meetings and a coffee that went cold.
+- Una era una carta de rabia, otra una carta educada, y la tercera pretendía ser la perfecta.
+  en: One was an angry letter, another a polite one, and the third was meant to be the perfect one.
+- Cada una empezaba de forma distinta, y ninguna le parecía del todo bien.
+  en: Each one began differently, and none of them seemed quite right to her.
+- Primera versión: la furiosa.
+  en: First version: the furious one.
+- Señor Beltrán:
+  en: Mr Beltrán:
+- Después de seis años en esta empresa, le comunico que me doy de baja, y no pienso fingir que me da pena.
+  en: After six years at this company, I am informing you that I am leaving, and I do not intend to pretend I am sorry about it.
+- Hace tres años me prometió el puesto de jefa de compras, y sigo en el mismo despacho, con el mismo ordenador.
+  en: Three years ago you promised me the post of head of purchasing, and I am still in the same office, with the same computer.
+- Me voy cuando acabe el mes, y no me pida que sea amable al hacerlo.
+  en: I am leaving when the month ends, and do not ask me to be pleasant about it.
+- Los proveedores ya lo saben, porque se lo dije a Arturo el lunes, y él se lo contó a media oficina antes de la comida.
+  en: The suppliers already know, because I told Arturo on Monday, and he told half the office before lunch.
+- Lucía Sanz Ortega.
+  en: Lucía Sanz Ortega.
+- Segunda versión: la educada.
+  en: Second version: the polite one.
+- Estimado señor Beltrán:
+  en: Dear Mr Beltrán:
+- Le escribo para comunicarle mi baja voluntaria en la empresa, que surtirá efecto al término del preaviso establecido en mi contrato.
+  en: I am writing to inform you of my voluntary resignation from the company, which will take effect at the end of the notice period set out in my contract.
+- Agradezco la oportunidad de haber trabajado en el equipo de compras durante estos años, y el apoyo de mis compañeros.
+  en: I am grateful for the opportunity to have worked in the purchasing team over these years, and for my colleagues' support.
+- Quedo a su disposición para facilitar el traspaso de mis tareas.
+  en: I remain at your disposal to help with the handover of my duties.
+- Un cordial saludo,
+  en: Kind regards,
+- Lucía Sanz Ortega.
+  en: Lucía Sanz Ortega.
+- Tercera versión: la perfecta.
+  en: Third version: the perfect one.
+- Estimado señor Beltrán:
+  en: Dear Mr Beltrán:
+- Le comunico por escrito mi decisión de causar baja voluntaria, con el preaviso establecido en mi contrato.
+  en: I am informing you in writing of my decision to resign voluntarily, with the notice period set out in my contract.
+- Agradezco la confianza depositada en mí durante estos años, así como la formación que he recibido en el área de compras.
+  en: I am grateful for the trust placed in me over these years, and for the training I have received in the purchasing area.
+- Durante las próximas semanas, pondré a disposición de quien me sustituya los expedientes abiertos, con un informe de cada proveedor.
+  en: Over the coming weeks I will make the open files, with a report on each supplier, available to whoever replaces me.
+- Quedo a su entera disposición para cualquier aclaración.
+  en: I remain entirely at your disposal for any clarification.
+- Atentamente,
+  en: Yours sincerely,
+- Lucía Sanz Ortega.
+  en: Lucía Sanz Ortega.
+- Esa noche las dejó en el mismo documento, con el mismo título: «Baja».
+  en: That night she left them all in the same document, under the same title, «Baja».
+- Pensó leer la tercera con calma al día siguiente, en casa, con un café caliente.
+  en: She meant to read the third one calmly the next day, at home, with a hot coffee.
+- Pero a la mañana siguiente, en el metro, a dos paradas de la oficina, copió una de las tres en un correo sin volver a leerla.
+  en: But the next morning, on the metro, two stops from the office, she copied one of the three into an email without reading it again.
+- Pulsó enviar antes de bajarse.
+  en: She pressed send before getting off.
+- Y la que llegó al despacho del señor Beltrán fue la primera.
+  en: And the one that reached Mr Beltrán's office was the first.
+
+notes.en:
+1. "Señor Beltrán:" (the first version): the greeting of a formal letter is normally "Estimado señor Beltrán:", with the adjective agreeing with the addressee. Dropping it, as the furious letter does, makes the opening curt. The colon after the greeting is the usual punctuation of a Spanish letter.
+2. "le comunico que me doy de baja": the furious letter keeps the formal pronoun le, because the director is addressed as usted. The anger is in the verbs and the nouns, not in the forms of address, and the reader sees the same respect in every version.
+3. "no pienso fingir que me da pena": fingir is "to pretend", and dar pena means to make someone feel sorry or sad. The sentence says the opposite of what a polite letter would say, which is why it reads as rage.
+4. "no me pida que sea amable": for usted the negative command takes the subjunctive, here pida, and the pronoun comes before the verb, as in no me pida. The writer addresses the director directly, and the subjunctive keeps the command polite in form while it is rude in content.
+5. "surtirá efecto al término del preaviso": surtir efecto is the formal phrase for "to take effect", and it belongs to letters and notices. English "take effect" is the same register.
+6. "Agradezco la oportunidad de haber trabajado": the perfect infinitive haber trabajado names an action finished before the verb of thanking. It is the form a formal letter uses when it thanks someone for what has already happened.
+7. "Quedo a su disposición": quedar a disposición de alguien means to remain at someone's disposal. Quedo is the first person of quedar, and the letter uses it as a formula, as in quedo a la espera.
+8. The closing matches the opening: "Estimado señor Beltrán:" goes with "Un cordial saludo" or with "Atentamente". The polite letter closes warmly, and the perfect one closes with the most neutral form. In English the pair is "Dear Mr Beltrán" and "Yours sincerely".
+9. "la confianza depositada en mí": depositar confianza en alguien is a figure of speech, the trust placed like money in a bank. English "the trust placed in me" keeps the same image, and the perfect letter uses it once, in the place where a reader expects it.
+10. "causar baja voluntaria": causar baja is the formal phrase used in companies and in official forms. Darse de baja is the more common phrase of everyday speech, and both are correct in a letter of resignation.
+11. "con el preaviso establecido en mi contrato": the notice period is fixed by the law, the collective agreement or the contract. The letter cites the contract and gives no number, because the writer does not need one and a wrong number would be worse than none.
+12. "pondré a disposición de quien me sustituya los expedientes abiertos": the future states a promise, and the concrete detail is what makes the third letter perfect. It says what the writer will do, where the others only say what they feel.
+13. "lo que llegó al despacho del señor Beltrán fue la primera": the sentence puts the outcome at the end of the line, and the preterite fue marks an act that is finished. Nothing after it explains the mistake, and the reader sees the choice at once.
+
+ex1:
+- Lamento tener que comunicarle que no seguiré en la empresa después de este mes.
+  en: (to Mr Beltrán) I regret having to tell you that I will not stay with the company after this month.
+- Aunque la decisión es firme, estaré a su disposición durante la transición.
+  en: Although the decision is firm, I will be at your disposal during the handover.
+- Le agradezco de corazón la oportunidad que me dio, y espero que la empresa siga creciendo.
+  en: (to Mr Beltrán) I sincerely thank you for the opportunity you gave me, and I hope the company goes on growing.
+- No hace falta que me conteste hoy, señor Beltrán; basta con un correo de confirmación.
+  en: There is no need for you to reply today, Mr Beltrán; a confirmation email is enough.
+- Si mi decisión le resulta difícil de aceptar, lo entiendo.
+  en: (to Mr Beltrán) If my decision is hard for you to accept, I understand.
+
+ex2:
+- Le comunico [por escrito] mi decisión.
+  en: I am informing you in writing of my decision.
+- Agradezco la [confianza] depositada en mí.
+  en: I am grateful for the trust placed in me.
+- Cumpliré el [preaviso] que fija mi contrato.
+  en: I will work out the notice that my contract sets.
+- No [me queda] más remedio que irme.
+  en: I have no choice but to leave.
+- Las [llaves] del almacén se entregan el último día.
+  en: The keys to the warehouse are handed in on the last day.
+
+tasks:
+- Estimada señora Ibarra: le escribo para informarle de que dejo mi puesto en la empresa. Cumpliré el plazo de aviso que fija mi contrato y pasaré a la encargada de almacén todos los pedidos pendientes. Durante estos cuatro años he aprendido mucho de este equipo, y se lo agradezco de corazón. Si necesita que le explique algún expediente antes de mi salida, estaré encantado de hacerlo. Atentamente, Mario Pozo Lara.
+  task.en: Write a resignation letter from Mario Pozo Lara to Ms Ibarra, the manager of an invented hardware shop where he has worked for four years, about 90 words: the decision, the notice, the handover of pending orders and the thanks, in a perfect professional register.
+  rubric.en: meaning: the resignation, the notice set by the contract, the handover of pending orders and the thanks all stay, with nothing added; register: formal usted to Ms Ibarra, with Estimada and Atentamente agreeing with each other; structure: greeting, decision, notice and handover, thanks, close, in that order; idiom: cumplir el plazo and quedar a disposición are used in their normal senses; effect: the manager reads it and wishes the writer well, with no bitterness and no formula that is empty.
+
+== 38 C2
+numeral: Lección treinta y ocho
+title: La evaluación anual
+title.en: The annual review
+
+dialogue:
+- Mónica: Pasa, Rubén, siéntate. Hacemos la evaluación anual, que es un buen momento para los dos.
+  en: Come in, Rubén, sit down. We are doing the annual review, which is a good moment for both of us.
+- Rubén: Gracias. Ya tengo preparado lo que quería decirte.
+  en: Thanks. I already have ready what I wanted to say to you.
+- Mónica: Perfecto. Empiezo yo, si te parece, por lo que has hecho bien este año.
+  en: Perfect. I will start, if you don't mind, with what you have done well this year.
+- Rubén: Me parece bien.
+  en: That seems fine to me.
+- Mónica: Cerraste los proyectos del segundo trimestre a tiempo, y el cliente de Valencia lo ha reconocido por escrito.
+  en: You closed the second-quarter projects on time, and the client in Valencia has acknowledged it in writing.
+- Rubén: Lo reconoció por correo, sí. Aunque el mérito fue también del equipo de Irene.
+  en: He acknowledged it by email, yes. Though the credit also belongs to Irene's team.
+- Mónica: Irene ya lo sabe, y eso lo tengo apuntado para el informe. Pero hay algunas áreas de mejora que quiero comentar contigo.
+  en: Irene already knows, and I have that noted for the report. But there are some areas for improvement I want to discuss with you.
+- Rubén: Adelante.
+  en: Go ahead.
+- Mónica: Tienes que salir un poco de tu zona de confort: los informes se retrasan, y a veces no contestas a los correos el mismo día.
+  en: You need to step a little out of your comfort zone: the reports are late, and sometimes you do not reply to emails the same day.
+- Rubén: Los informes se retrasan cuando me llegan los datos tarde de contabilidad. No es que no los haga.
+  en: The reports are late when the figures reach me late from accounts. It is not that I do not do them.
+- Mónica: Ya, ya. Pero eso lo podemos mejorar entre todos. ¿Tú cómo lo ves?
+  en: Yes, yes. But we can improve that together. How do you see it?
+- Rubén: Yo lo veo con un calendario fijo de entregas, y con contabilidad avisando antes. Si no, seguiremos igual.
+  en: I see it with a fixed delivery calendar, and with accounts warning us in advance. Otherwise we will carry on the same way.
+- Mónica: Me parece una buena idea. Lo anoto. Y ahora, dime, ¿cómo ves tú el año?
+  en: I think that is a good idea. I will write it down. And now, tell me, how do you see the year yourself?
+- Rubén: Me he sentido más valorado en lo técnico que en lo humano. Me gustaría que alguien se interesara por cómo llevo la carga de trabajo.
+  en: I have felt more valued for the technical side than for the human side. I would like someone to take an interest in how I am managing the workload.
+- Mónica: Te escucho, de verdad. Y lo que dices es importante para el equipo.
+  en: I am listening, really. And what you say matters to the team.
+- Rubén: Pues te digo lo que pasó en agosto: trabajé dos fines de semana seguidos y nadie me lo explicó como un favor, sino como algo obligatorio.
+  en: Then I will tell you what happened in August: I worked two weekends in a row, and nobody explained it to me as a favour, but as something compulsory.
+- Mónica: Eso no debió pasar, y lo siento. Pero entendimos que el cierre era urgente.
+  en: That should not have happened, and I am sorry. But we understood that the closing was urgent.
+- Rubén: Lo entendí, pero hay una diferencia entre pedirlo y darlo por hecho.
+  en: I understood, but there is a difference between asking for it and taking it for granted.
+- Mónica: Tienes razón. Lo tengo en cuenta para el próximo cierre.
+  en: You are right. I will bear it in mind for the next closing.
+- Rubén: ¿Y cómo se va a notar eso en la evaluación?
+  en: And how is that going to show in the review?
+- Mónica: Te lo digo con cariño: el año que viene quiero verte llevar un proyecto de principio a fin, sin esperar a que te lo pidan.
+  en: I say it with affection: next year I want to see you run a project from start to finish, without waiting to be asked.
+- Rubén: Me gustaría, siempre que tenga los datos a tiempo.
+  en: I would like that, as long as I have the figures on time.
+- Mónica: Claro. Eso lo incluimos en el plan de desarrollo.
+  en: Of course. We will include that in the development plan.
+- Rubén: Pues ya que hablamos de mejorar, ¿tú qué cambiarías en cómo diriges el equipo? Te lo pregunto en serio.
+  en: Then, since we are talking about improving, what would you change in the way you run the team? I am asking you seriously.
+- Mónica: Me lo apunto.
+  en: I'll make a note of it.
+
+notes.en:
+1. "Hacemos la evaluación anual, que es un buen momento para los dos": this is the formula of a calendar invitation, and it presents the meeting as shared and useful. The learner will hear it in many Spanish offices, and the phrase tells the employee very little about what is coming.
+2. "eso lo tengo apuntado": apuntar means to write something down, and tener apuntado says that a point has been taken. In the office the phrase reports a note, not an action, and the review uses it before any decision is named.
+3. "algunas áreas de mejora": the set phrase of reviews. It means faults or weak points, and the word that would say so, errores or fallos, is never used. The euphemism is the register of the whole scene.
+4. "salir un poco de tu zona de confort": the idiom means to leave the familiar place where one works without effort. It comes from management language and is now common in Spanish offices; the English "step out of your comfort zone" is the same idiom.
+5. "¿Tú cómo lo ves?": the verb ver is used here for an opinion, and the question asks for a view without giving any power to the one who answers. English "What do you think?" is the nearest plain equivalent.
+6. "Te escucho, de verdad": te escucho means "I am listening" and is the usual formula of a listener. The adverb de verdad is added when the listening is in doubt, and the employee hears it that way.
+7. "No es que no los haga": no es que takes the subjunctive, and the phrase denies a cause that someone has suggested. Los refers back to the reports of the line before, and the English "It is not that I do not do them" keeps the same structure.
+8. "Lo anoto" and "Me lo apunto": anotar and apuntar both mean to write down. In Spain apuntar is the everyday verb, and anotar is more written and formal. The manager has used both verbs for her notes earlier in the review, so the verb is already familiar when it comes back at the end.
+9. "Lo tengo en cuenta": tener en cuenta means to take into account. It is a commitment with no date, and the employee asks at once how it will show in the review.
+10. "el plan de desarrollo": a plan of future goals and training, which in Spanish companies is usually written in the review. The English "development plan" is the same term.
+11. "Tú" throughout: manager and employee are colleagues who address each other as tú, as they do in most Spanish offices today. Usted would make the meeting formal, and the scene is about the limits of that informal tone.
+
+ex1:
+- Voy a ser franca contigo: no ha sido mal año, pero tampoco ha sido el mejor.
+  en: I will be frank with you: it has not been a bad year, but it has not been the best either.
+- Si algo no te cuadra, dímelo hoy y no en el pasillo.
+  en: If something does not sit right with you, tell me today and not in the corridor.
+- Me cuesta decir que no a los encargos de última hora, aunque sé que debería.
+  en: I find it hard to say no to last-minute jobs, although I know I should.
+- Lo que propones tiene sentido, pero quiero verlo por escrito antes del viernes.
+  en: What you propose makes sense, but I want to see it in writing before Friday.
+- No quiero que esto acabe en un correo que nadie abre.
+  en: I do not want this to end up in an email that nobody opens.
+
+ex2:
+- Hay que salir de la zona de [confort].
+  en: We need to step out of the comfort zone.
+- [Cuando] me llegan los datos tarde, no puedo cumplir los plazos.
+  en: When the figures reach me late, I cannot meet the deadlines.
+- El plan [de desarrollo] se revisa cada año.
+  en: The development plan is reviewed every year.
+- Esa propuesta [tiene] sentido.
+  en: That proposal makes sense.
+- No es buena idea [dejarlo] para el último día.
+  en: It is not a good idea to leave it until the last day.
+
+tasks:
+- Resumen para mi expediente. Este año he cerrado los proyectos del segundo trimestre a tiempo, y el cliente de Valencia lo ha reconocido por escrito, aunque el mérito también es del equipo de Irene. Los retrasos en los informes vienen de datos que llegan tarde desde contabilidad, y propongo un calendario fijo de entregas y un aviso previo. En agosto trabajé dos fines de semana seguidos, y se me presentó como algo obligatorio, no como un favor. Para el año que viene quiero llevar un proyecto de principio a fin, con los datos a tiempo.
+  task.en: Write the employee's honest summary for his file, in Spanish, about 100 words, in the first person: what he did well, what slowed him down, what happened in August and what he wants next year.
+  rubric.en: meaning: the closed projects, the late figures from accounts, the August weekends presented as compulsory and the wish to lead a project all stay, with nothing added; register: plain Spanish in the first person, with none of the manager's formulas such as áreas de mejora; structure: achievements, obstacles, the proposal and the goal, in that order; idiom: a tiempo, de principio a fin and calendario de entregas are used in their normal senses; effect: a reader of the file gets a clear, fair record and knows what to do next.
+
+== 39 C2
+numeral: Lección treinta y nueve
+title: Responder a todos
+title.en: Reply all
+
+dialogue:
+- Asunto: Acuerdos de la reunión del lunes.
+  en: Subject: Agreements from Monday's meeting.
+- Estimados compañeros y compañeras:
+  en: Dear colleagues:
+- Según lo acordado en la reunión del lunes, la reunión semanal pasa al jueves a las diez, en la sala pequeña.
+  en: As agreed at Monday's meeting, the weekly meeting moves to Thursday at ten, in the small room.
+- Les ruego que envíen sus datos del mes antes del miércoles a las seis de la tarde.
+  en: I ask you to send your figures for the month before Wednesday at six in the evening.
+- Cada responsable revisará los datos de su equipo antes de enviarlos a la dirección.
+  en: Each manager will check the figures of their team before sending them on.
+- Quedamos a la espera de sus comentarios sobre el orden del día.
+  en: We look forward to your comments on the agenda.
+- Gracias de antemano por su colaboración.
+  en: Thank you in advance for your cooperation.
+- Un cordial saludo.
+  en: Kind regards.
+- Elena Robles.
+  en: Elena Robles.
+- Jefa del Departamento de Operaciones.
+  en: Head of the Operations Department.
+- Julián: ¿Alguien se acuerda de lo que se acordó el lunes, o solo hablamos del café?
+  en: Does anyone remember what was agreed on Monday, or did we only talk about the coffee?
+- Marta: Que el jueves es la reunión, a las diez. Lo dijo ella al final, cuando ya nos íbamos.
+  en: That the meeting is on Thursday, at ten. She said it at the end, when we were already leaving.
+- Sara: Y lo de los datos, ¿era para el miércoles o para el jueves?
+  en: And the figures, were they due on Wednesday or on Thursday?
+- Nacho: El miércoles. Pero el correo pone «a las seis», y eso no lo dijo nadie.
+  en: Wednesday. But the email says «at six», and nobody said that.
+- Sara: Yo los tengo hechos desde el viernes, así que me da igual.
+  en: I have had mine done since Friday, so it makes no difference to me.
+- Marta: Pues yo también los tengo, pero no los mando hasta que lo confirme ella por escrito.
+  en: Well, I have mine too, but I will not send them until she confirms it in writing.
+- Julián: «Según lo acordado» para algo que no acordó nadie. Qué bonito suena.
+  en: «As agreed» for something nobody agreed to. It sounds so nice.
+- Nacho: Lo único que sí se acordó es que el café lo paga el que llegue tarde, y llegué yo.
+  en: The only thing that was agreed is that whoever arrives late pays for the coffee, and I arrived late.
+- Marta: Lo de «quedamos a la espera» me ha dado risa, la verdad. Como si fuera una cita con el banco.
+  en: The «we look forward to your comments» made me laugh, honestly. As if it were an appointment at the bank.
+- Tomás: Yo no contesto al correo. Los datos los mando el jueves por la mañana y ya está.
+  en: I am not replying to the email. I will send the figures on Thursday morning and that is that.
+- Sara: Tomás, que te va a preguntar por qué no has contestado.
+  en: Tomás, she will ask you why you have not replied.
+- Tomás: Lo que le diría de su corbata de tres colores no se puede escribir en un correo.
+  en: What I would say about her three-coloured tie cannot be written in an email.
+- Marta: Tomás, no lo escribas en el correo, que ella lo ve todo.
+  en: Tomás, do not write it in the email, because she sees everything.
+- Tomás: Tranquila, que lo escribo en el grupo y punto.
+  en: Relax, I will write it in the group and that's that.
+- Julián: Ojo, Tomás, que en el grupo no se borra nada.
+  en: Careful, Tomás, nothing gets deleted in the group.
+- Nacho: Pues yo contesto con un «recibido» y me quedo tan a gusto.
+  en: Well, I will reply with a «received» and feel perfectly fine about it.
+- Tomás (responder a todos): Vale, Elena, ok. El jueves perfecto. Y lo de la corbata de tres colores, que era para el grupo, no para aquí. Perdón.
+  en: Fine, Elena, ok. Thursday is perfect. And the three-coloured tie, that was meant for the group, not for here. Sorry.
+
+notes.en:
+1. "Asunto: Acuerdos de la reunión del lunes": asunto is the subject line of an email in Spanish. English "Subject" is the same field, and the Spanish word is the one the learner will see in every office inbox.
+2. "Estimados compañeros y compañeras": the plural greeting to a mixed group. The masculine plural alone is still used in formal writing, but the doubled form is the careful choice here, and it is common in formal emails today.
+3. "Según lo acordado en la reunión del lunes": the formula of an official summary. It presents the change as already decided, so the people reading it are informed rather than consulted.
+4. "Les ruego que envíen sus datos": rogar takes que and the subjunctive, and les is the plural of usted. The request is polite and firm at once, and the verb ruego makes it more formal than pido.
+5. "Quedamos a la espera de sus comentarios": quedar a la espera means to remain waiting. The English "We look forward to" sounds more eager than the Spanish, which is calm and formal.
+6. "Un cordial saludo" is a standard close for a formal email to a group. It stays the same whatever the email says.
+7. "¿Alguien se acuerda de lo que se acordó el lunes, o solo hablamos del café?": acordar means to agree, and acordarse de means to remember. Both verbs are in the same question, and the learner should note the difference between them.
+8. "Lo de «quedamos a la espera» me ha dado risa": dar risa is the idiom for "to make someone laugh", and the perfect ha dado is the right tense for a reaction that has just happened. The quotes mark that the phrase is the email's, not Marta's.
+9. "Tomás, que te va a preguntar": the colloquial que opens a warning or a comment on what someone will do. It is typical of chat and of speech, and it has no equivalent in the formal email.
+10. "Lo que le diría de su corbata de tres colores no se puede escribir en un correo": the conditional diría describes what he would say, and the sentence stops before it names the thing. The reader is left to notice the register, not the content.
+11. "Tranquila, que lo escribo en el grupo y punto": y punto closes a statement as final, and it is chat and speech only. The English "and that's that" is its equivalent.
+12. "responder a todos": the Spanish for "reply all". The action is the same in English, and the reply uses the chat's tone in a message that goes to the whole list, including the department head.
+13. "que era para el grupo, no para aquí": era says what the sentence was meant to be, and the preposition para gives its destination.
+
+ex1:
+- Les agradeceré que confirmen su asistencia antes del lunes, para preparar la sala.
+  en: (to the whole team) I would be grateful if you could confirm your attendance before Monday, so that the room can be prepared.
+- Dado que el informe llegó con retraso, lo revisaremos en la próxima reunión.
+  en: As the report arrived late, we will review it at the next meeting.
+- No es necesario que vuelvan a enviar los datos si ya los han entregado.
+  en: (to the team) There is no need for you to send the figures again if you have already handed them in.
+- Sin embargo, el orden del día se mantiene tal como lo fijó la jefa del departamento.
+  en: However, the agenda stays as the head of department set it.
+- Ruego que lean el documento adjunto antes de la reunión del jueves.
+  en: (to the team) I ask you to read the attached document before Thursday's meeting.
+
+ex2:
+- Esto no se ha [acordado] con nadie.
+  en: Nobody has agreed this with anyone.
+- Me ha [dado] risa el correo.
+  en: The email made me laugh.
+- No [me] acuerdo de nada.
+  en: I do not remember anything.
+- Quedamos a la [espera] de los datos del mes.
+  en: We are waiting for the month's figures.
+- Pues yo no contesto, [y punto].
+  en: Well, I am not replying, and that's that.
+
+tasks:
+- Gente, la reunión es el jueves a las diez, en la sala pequeña. Los datos del mes, antes del miércoles a las seis. Si los mandáis mañana tampoco pasa nada. Y lo de «quedamos a la espera», que alguien me lo traduzca, por favor.
+  task.en: Write the WhatsApp message that a colleague sends to the group about Elena's email, in Spanish, about 60 words: the day, the time and the room, the figures and their deadline, in the tone of the chat.
+  rubric.en: meaning: the Thursday meeting, the ten o'clock start, the small room and the Wednesday deadline all stay, with nothing added; register: the chat's tone, with vosotros, and none of the email's formulas; structure: the news first, then the deadline, then the joke; idiom: tampoco pasa nada and y punto are used in their normal senses; effect: each colleague knows at once what to do, and the message reads as a joke, not a complaint.
+
+== 40 C2
+numeral: Lección cuarenta
+title: En la notaría
+title.en: At the notary's
+
+dialogue:
+- Notario: Siéntese, doña Pilar. Antes de empezar, le leo los datos para comprobar que todo está bien.
+  en: Sit down, Doña Pilar. Before we start, I will read you the details to check that everything is correct.
+- Pilar: Lea usted, que la letra pequeña ya no la veo bien.
+  en: Go on, read, I cannot see the small print well any more.
+- Notario: Doña Pilar Montero Vega, viuda, con su documento de identidad en regla.
+  en: Doña Pilar Montero Vega, widowed, with a valid identity document.
+- Pilar: Sí, esa soy. Viuda desde hace once años, para que lo ponga bien.
+  en: Yes, that is me. Widowed for eleven years, so you get it right.
+- Notario: Dígame qué quiere dejar, y a quién. Lo que usted decida lo escribo yo, pero el testamento es suyo.
+  en: Tell me what you want to leave, and to whom. I will write down what you decide, but the will is yours.
+- Pilar: Tengo dos hijos, Luis y Carmen, y cuatro nietos. Y un piso en Chamartín, que es lo que hay.
+  en: I have two children, Luis and Carmen, and four grandchildren. And a flat in Chamartín, which is what there is.
+- Notario: Bien. Empecemos por lo que la ley reserva. Sus hijos tienen derecho a dos tercios de la herencia: es lo que se llama la legítima.
+  en: Good. Let us start with what the law reserves. Your children are entitled to two thirds of the estate: that is what is called the legítima.
+- Pilar: ¿Y si viviera en Galicia, que tiene su propio derecho civil?
+  en: And if I lived in Galicia, which has its own civil law?
+- Notario: Entonces habría que mirar esas normas, que no son iguales. Pero usted vive en Madrid, y aquí se aplica el Código Civil.
+  en: Then we would have to look at those rules, which are not the same. But you live in Madrid, and here the Civil Code applies.
+- Pilar: ¿Y el tercio que queda? Ese es mío, ¿no?
+  en: And the third that is left? That one is mine, is it not?
+- Notario: Ese es el tercio de libre disposición. Usted lo deja a quien quiera.
+  en: That is the free third. You leave it to whoever you want.
+- Pilar: Pues ese lo quiero dejar a un nieto. Pero no a cualquiera.
+  en: Well, that one I want to leave to a grandson. But not to just anyone.
+- Notario: Entonces tiene que decir a quién, con nombre y apellidos.
+  en: Then you must say to whom, with first and second names.
+- Pilar: Al que aprenda a hacer mi cocido. Eso no se queda en la cabeza: se pone en el papel.
+  en: To whoever learns to make my cocido. That does not stay in the head: it goes on paper.
+- Notario: ¿Quiere que ese nieto sea heredero de ese tercio, o prefiere un legado, es decir, un bien concreto?
+  en: Do you want that grandson to be an heir to that third, or would you rather leave a legacy, that is, one specific item?
+- Pilar: Heredero, que lo del legado suena a regalo de Navidad.
+  en: An heir, because a legacy sounds like a Christmas present.
+- Notario: Entonces el heredero recibe una parte de todo lo que quede, y el legado es un bien concreto.
+  en: Then the heir receives a share of everything left, and a legacy is one specific item.
+- Pilar: Vale. Y el piso, ¿cómo va?
+  en: All right. And the flat, how does that work?
+- Notario: Puede dejárselo a sus hijos y reservarse el usufructo: es decir, el derecho a vivir en él y disfrutarlo mientras viva.
+  en: You can leave it to your children and keep the usufruct: that is, the right to live in it and enjoy it for as long as you live.
+- Pilar: Eso lo quiero. Yo no me voy a mudar de mi casa por un papel.
+  en: I want that. I am not going to move out of my home for a piece of paper.
+- Notario: Nadie se lo pide. Y para cumplir su voluntad, ¿quién quiere que se encargue de todo?
+  en: Nobody is asking you to. And to carry out your wishes, who do you want to take charge of everything?
+- Pilar: Luis, que es el más organizado, y así no se queja.
+  en: Luis, who is the most organised, so he cannot complain.
+- Luis: Mamá, que yo me quejo lo justo.
+  en: Mum, I complain only as much as I should.
+- Notario: Entonces Luis será el albacea, es decir, la persona que cumple lo que usted ha dejado escrito.
+  en: Then Luis will be the executor, that is, the person who carries out what you have written down.
+- Luis: ¿Y eso qué implica, en la práctica?
+  en: And what does that involve in practice?
+- Notario: Pagar las deudas y repartir lo que quede, según lo que ella haya escrito.
+  en: Paying the debts and dividing what remains, according to what she has written.
+- Pilar: Y que nadie se queje de lo que escribo. Que ya no estaré para oírlo.
+  en: And let nobody complain about what I write. I will not be there to hear it.
+- Notario: Eso queda claro en el texto. El testamento se lee tal como usted lo dicta, y después se firma.
+  en: That will be clear in the text. The will is read exactly as you dictate it, and then it is signed.
+- Luis: Mamá, pero ¿la condición del cocido no es un poco rara?
+  en: Mum, but is the cocido condition not a bit odd?
+- Pilar: Lo raro es que ya nadie sabe hacerlo. Mi madre lo hacía en olla de barro.
+  en: What is odd is that nobody knows how to make it any more. My mother made it in a clay pot.
+- Notario: Una condición así se puede poner, siempre que no sea imposible ni contraria a la ley o a las buenas costumbres.
+  en: A condition of this kind can be set, provided it is not impossible or contrary to the law or to good customs.
+- Pilar: Pues ponga: al nieto que aprenda a hacer mi cocido, sin prisa y sin receta escrita.
+  en: Then write: to the grandchild who learns to make my cocido, without hurry and without a written recipe.
+- Notario: ¿Y ese nieto tiene que aprenderlo antes de una fecha, o cuando quiera?
+  en: Must that grandchild learn it by a certain date, or whenever he likes?
+- Pilar: Cuando quiera, que yo no tengo prisa. Pero tendrá que venir a la cocina a aprender.
+  en: Whenever he likes, I am in no hurry. But he will have to come into the kitchen to learn.
+- Luis: Mamá, ¿y tus nietos saben que lo tienen que aprender?
+  en: Mum, do your grandchildren know that they have to learn it?
+- Pilar: Ya lo saben, y así vendrán a verme los domingos.
+  en: They know now, and so they will come to see me on Sundays.
+
+notes.en:
+1. "Siéntese, doña Pilar": usted in the imperative, the notary's form for an older client. Doña and the first name is the courteous form of address for a woman of her age in a formal setting.
+2. "la letra pequeña": the small print of a contract or a document. The phrase is used literally here, and the English "small print" carries the same figure.
+3. "Viuda desde hace once años": desde hace takes the present for a state that still lasts. The sentence is elliptical, with soy left out, and it stays natural in speech.
+4. "Sus hijos tienen derecho a dos tercios de la herencia": in the Código Civil that applies in most of Spain, the children's legítima is two thirds of the estate. The term names the share the law keeps for them, which the testator cannot take away without a legal cause.
+5. "Galicia, que tiene su propio derecho civil": several regions, Galicia and Cataluña among them, have their own civil law, with rules that differ from the Código Civil. The notary says so once, and the scene applies the common rules because the flat is in Madrid.
+6. "el tercio de libre disposición": the third that the testator can leave to anyone. It is called free because the law does not reserve it for the family; the notary says that the choice is hers.
+7. "heredero" and "legado": an heir receives a share of the estate as a whole, while a legacy is a specific item, a flat or a sum or a painting. The difference is what makes the notary's question necessary.
+8. "el usufructo": the right to use and enjoy property that belongs to someone else, here the flat. The children become owners, and the mother keeps the right to live there for as long as she lives.
+9. "el albacea": the person named in the will to carry it out, paying debts and dividing what is left. In Spanish the word names a role, not a family relation.
+10. "siempre que no sea imposible ni contraria a la ley o a las buenas costumbres": the subjunctive sea after siempre que states the condition the notary sets. The conditions the law does not accept are described by their kind, not by a list.
+11. "y así vendrán a verme los domingos": así introduces the result of what has just been said, and vendrán is the future of an expectation. The English "so they will come" keeps the same logic.
+
+ex1:
+- Le agradezco que me haya atendido tan pronto.
+  en: (to the notary) I am grateful that you have seen me so promptly.
+- Si no lo tengo por escrito, no lo creo: así de simple.
+  en: If I do not have it in writing, I do not believe it: as simple as that.
+- La legítima de los hijos no se puede quitar sin una causa legal.
+  en: The children's legítima cannot be taken away without a legal cause.
+- El usufructo le da derecho a vivir en la casa, pero no a venderla.
+  en: The usufruct gives you the right to live in the house, but not to sell it.
+- El albacea debe cumplir lo que el testador dejó escrito, sin añadir nada.
+  en: The executor must carry out what the testator left written, without adding anything.
+
+ex2:
+- Me [dejó] el piso, con el usufructo para ella.
+  en: She left me the flat, with the usufruct kept for herself.
+- Un [legado] es un bien concreto, no una parte de todo.
+  en: A legacy is a specific item, not a share of everything.
+- El [albacea] cumplirá lo que usted ha dejado escrito.
+  en: The executor will carry out what you have written down.
+- Siempre que [sea] posible, lo hacemos esta tarde.
+  en: Provided it is possible, we will do it this afternoon.
+- El testamento se [firma] al final.
+  en: The will is signed at the end.
+
+tasks:
+- Doña Pilar deja a sus hijos los dos tercios de la herencia que marca la ley, la legítima. El tercio libre lo deja a un nieto, el que aprenda a hacer su cocido, y así lo recibe como heredero. Sus hijos reciben el piso, pero ella conserva el usufructo: puede vivir en él mientras viva. Luis será el albacea, es decir, el encargado de cumplir el testamento y de pagar las deudas.
+  task.en: Summarise the will in plain Spanish, in about 80 words: what the children receive by law, what goes to the grandchild and why, what happens to the flat, and who will carry the will out.
+  rubric.en: meaning: the two thirds for the children, the free third for the grandchild who learns the cocido, the flat with the usufruct and the executor all stay, with nothing added; register: plain Spanish for the family, with each legal term explained where it appears; structure: the law first, then the free third, then the flat and the executor; idiom: tener derecho a and cumplir lo que se ha dejado escrito are used in their normal senses; effect: the family understands the will at once and sees why it is written that way.
+
+== 41 C2
+numeral: Lección cuarenta y una
+title: Concepción Arenal
+title.en: Concepción Arenal
+
+dialogue:
+- Concepción Arenal nació en Ferrol en 1820, y en Vigo murió en 1893.
+  en: Concepción Arenal was born in Ferrol in 1820, and in Vigo she died in 1893.
+- De niña aprendió mucho en casa, con libros que no eran los que se daban a las niñas de su tiempo.
+  en: As a girl she learned a great deal at home, from books that were not the ones given to girls of her time.
+- Según se cuenta, de joven asistió a clases de Derecho en Madrid vestida de hombre.
+  en: As the story goes, as a young woman she attended law lectures in Madrid dressed as a man.
+- No se sabe con exactitud cuánto hay de cierto en esta historia, y la leyenda la ha vuelto más pintoresca de lo que fue.
+  en: It is not known exactly how much of this story is true, and legend has made it more colourful than it was.
+- Lo que sí es cierto es que en su tiempo las mujeres no podían ejercer la abogacía.
+  en: What is certain is that in her time women could not practise as lawyers.
+- Por eso estudió por su cuenta, leyó con atención las leyes y escribió sobre lo que veía.
+  en: So she studied on her own, read the laws closely and wrote about what she saw.
+- Lo que veía era, sobre todo, la cárcel.
+  en: What she saw was, above all, the prison.
+- Visitó prisiones de mujeres y de hombres, y se preguntó qué hacía la sociedad con quienes caían en el delito.
+  en: She visited women's and men's prisons, and asked herself what society was doing with those who fell into crime.
+- Su respuesta era distinta de la del castigo como venganza: quería que la cárcel sirviera para algo.
+  en: Her answer was different from punishment as revenge: she wanted prison to be good for something.
+- En El visitador del preso defendió que el recluso es, ante todo, una persona, y que la cárcel debe corregir y no solo castigar.
+  en: In El visitador del preso she argued that the prisoner is, above all, a person, and that prison should correct and not only punish.
+- Escribió también sobre los pobres, sobre la beneficencia y sobre la manera en que la sociedad los trataba.
+  en: She also wrote about the poor, about charity, and about the way society treated them.
+- Para ella la caridad no bastaba: hacía falta justicia, y eso exigía leyes y no solo buenas intenciones.
+  en: For her charity was not enough: justice was needed, and that required laws and not only good intentions.
+- Escribía sin estridencias, pero con datos, y eso la hacía más difícil de ignorar.
+  en: She wrote without fuss, but with facts, and that made her harder to ignore.
+- Sobre los derechos de la mujer escribió La mujer del porvenir, donde reclamó educación y trabajo para ellas.
+  en: On the rights of women she wrote La mujer del porvenir, in which she called for education and work for them.
+- Pidió que las mujeres pudieran estudiar y trabajar sin que eso pareciera una rareza.
+  en: She asked that women should be able to study and work without it seeming an oddity.
+- Creía en la educación y en la reforma poco a poco, y no en los cambios de un día para otro.
+  en: She believed in education and in reform step by step, and not in changes overnight.
+- No escribía para escandalizar, sino para que los lectores vieran lo que ya tenían delante.
+  en: She did not write to shock, but so that readers would see what was already in front of them.
+- Sus libros tuvieron lectores entre juristas y maestros, y todavía hoy se citan en los estudios sobre cárceles.
+  en: Her books had readers among lawyers and teachers, and they are still cited today in studies of prisons.
+- Nunca fue una escritora de un solo asunto: escribió sobre la cárcel, sobre la pobreza y sobre la educación a la vez.
+  en: She was never a writer of one subject: she wrote about the prison, about poverty and about education all at once.
+- Murió en Vigo después de una vida de escritura y de visitas a los presos y a los pobres.
+  en: She died in Vigo after a life of writing and of visiting prisoners and the poor.
+- En muchas ciudades hay hoy calles y colegios con su nombre.
+  en: In many cities there are streets and schools bearing her name today.
+- Hoy su nombre aparece en debates sobre la cárcel y la reinserción, aunque no siempre con su contexto.
+  en: Today her name appears in debates about prison and rehabilitation, though not always with its context.
+- Sus textos siguen sirviendo a quienes estudian la historia del derecho penal.
+  en: Her texts still serve those who study the history of criminal law.
+- Es una frase que parece sencilla, pero pide dos cosas a la vez: condenar el acto y respetar a la persona.
+  en: It is a phrase that seems simple, but it asks for two things at once: condemning the act and respecting the person.
+- Lo que pide, en el fondo, es que la justicia mire al delincuente como alguien que puede cambiar.
+  en: What it asks, at bottom, is that justice look at the offender as someone who can change.
+- Por eso su frase más citada es también la más exigente: «Odia el delito y compadece al delincuente».
+  en: That is why her most quoted phrase is also the most demanding: «Hate the crime and pity the criminal».
+
+notes.en:
+1. "nació en Ferrol en 1820, y en Vigo murió en 1893": the portrait gives the dates in full, and the years are written without a point, as Spanish does. Ferrol and Vigo keep their Spanish names in English too.
+2. "De niña aprendió mucho en casa": the imperfect "se daban" describes a habit of the time, and the preterite "aprendió" names what she did. The contrast is the grammar of biography: the events in the preterite, the background in the imperfect.
+3. "Según se cuenta": the phrase marks an anecdote that the writer does not vouch for. Spanish has several such markers, and this one is the common choice for a story told about a person.
+4. "No se sabe con exactitud": the claim is about what is known, not about what happened. The English "It is not known exactly" is the same kind of claim.
+5. "no podían ejercer la abogacía": ejercer la abogacía means to practise as a lawyer, and abogacía is the profession. The imperfect podían describes the rule of the time, not a single event.
+6. "Lo que sí es cierto": the marker separates the fact from the story above it. English "What is certain is" does the same job.
+7. "El visitador del preso" and "La mujer del porvenir": the titles stay in Spanish, and the English prose keeps them as they are. The first is about visiting prisoners, the second about women's education and work.
+8. "la caridad no bastaba: hacía falta justicia": bastar takes the imperfect here because it describes a general situation, and hacer falta is the verb for what is needed. The English "was needed" uses the same tense.
+9. "Odia el delito y compadece al delincuente": compadecer means to feel pity for someone in trouble, and the English "pity" keeps that sense. The maxim is usually quoted as hers, and the portrait gives it as the close of her ideas.
+10. "se citan en los estudios sobre cárceles": citar means to quote or cite. Se citan is the passive, so the verb agrees with its subject, libros, and the English "are still cited" is the same passive.
+11. "pide dos cosas a la vez": pedir takes a direct object and a clause after it. The English "asks for two things at once" is the same construction.
+
+ex1:
+- Se dice que estudió Derecho disfrazada de hombre, pero la historia tiene más de leyenda que de documento.
+  en: It is said that she studied law disguised as a man, but the story has more legend than document in it.
+- Visitaba las cárceles no para juzgar, sino para entender a quien estaba dentro.
+  en: She visited the prisons not to judge, but to understand the people inside.
+- La justicia sin caridad es fría, pero la caridad sin justicia no sirve de nada.
+  en: Justice without charity is cold, but charity without justice is of no use at all.
+- Pensar que el preso tiene nombre y familia era, en su tiempo, una idea poco corriente.
+  en: To think that the prisoner has a name and a family was, in her time, an uncommon idea.
+- Condenar el delito no obliga a despreciar al delincuente, aunque mucha gente lo crea.
+  en: Condemning the crime does not oblige you to despise the criminal, although many people believe it does.
+
+ex2:
+- Hacía [falta] un cambio en las leyes de la cárcel.
+  en: A change in the prison laws was needed.
+- Hay que [condenar] el acto, pero no despreciar a la persona.
+  en: The act must be condemned, but the person must not be despised.
+- La reinserción [depende] de muchos factores.
+  en: Rehabilitation depends on many factors.
+- Mi abuela [recuerda] cómo se trataba a los pobres en su pueblo.
+  en: My grandmother remembers how the poor were treated in her village.
+- Hace más de cien años, la mujer [no] podía votar en España.
+  en: More than a hundred years ago, women could not vote in Spain.
+
+tasks:
+- Concepción Arenal nació en Ferrol en 1820 y murió en Vigo en 1893. Según se cuenta, estudió Derecho vestida de hombre, aunque la leyenda exagera; lo cierto es que las mujeres de su tiempo no podían ejercer la abogacía. Visitó prisiones y escribió sobre los presos, sobre los pobres y sobre los derechos de la mujer, en obras como El visitador del preso y La mujer del porvenir. Su frase más famosa resume lo que pensaba: «Odia el delito y compadece al delincuente».
+  task.en: Summarise the portrait in Spanish, in about 80 words, in the order of the text: her birth and death, the story of her studies, her work on prisons, the poor and women, and her maxim.
+  rubric.en: meaning: the dates, the story of the studies marked as told, the prisons, the poor, the rights of women and the maxim all stay, with nothing added; register: encyclopaedic Spanish in the past tense, with a clear line between what is documented and what is said; structure: life, work, maxim, in that order; idiom: según se cuenta and lo cierto es que are used in their normal senses; effect: a reader can tell at once what is certain and what is legend.
+
+== 42 C2
+kind: revision
+numeral: Lección cuarenta y dos
+title: Revisión y notas
+title.en: Revision and notes
+
+dialogue:
+- Pepa: Ramiro, ya tenemos el año entero sobre la mesa, y no sé por dónde empezar.
+  en: Ramiro, the whole year is on the table now, and I do not know where to start.
+  refs: 36
+- Ramiro: Empieza por los estatutos, que es lo primero que nos piden los socios nuevos.
+  en: Start with the statutes, since they are the first thing new members ask for.
+  refs: 36
+- Pepa: Aquí, en el artículo 4: «Los socios quedarán obligados a cultivar su parcela».
+  en: Here, in article 4: «Members will be bound to cultivate their plot».
+  refs: 36
+- Ramiro: Y el artículo 9 dice que un socio puede darse de baja «sin perjuicio de pagar las cuotas vencidas».
+  en: And article 9 says that a member may withdraw «without prejudice to paying the fees already due».
+  refs: 36
+- Pepa: Pues por eso ha llegado la carta de Gregorio, el tesorero, que deja la Junta.
+  en: That is why Gregorio's letter has arrived: the treasurer is leaving the board.
+  refs: 37
+- Ramiro: Léela en voz alta, que yo me he dejado las gafas en casa.
+  en: Read it out loud, because I have left my glasses at home.
+  refs: 37
+- Pepa: «Le comunico por escrito mi decisión de causar baja voluntaria, con el preaviso establecido en mi contrato».
+  en: «I am informing you in writing of my decision to resign voluntarily, with the notice period set out in my contract».
+  refs: 37
+- Ramiro: ¿Qué contrato? Gregorio no tiene contrato con nosotros, es socio como los demás.
+  en: What contract? Gregorio has no contract with us, he is a member like the rest.
+  refs: 36
+- Pepa: Pues lo copió de una carta de empresa, seguro. Lo hacen todos los que tienen un jefe.
+  en: Then he copied it from a company letter, I am sure. Everyone who has a boss does it.
+  refs: 37
+- Ramiro: Pon en la respuesta «con el plazo que fijan los estatutos», que es lo que hay.
+  en: Put in the reply «within the period the statutes set», because that is what there is.
+  refs: 36
+- Pepa: Hecho. ¿Y el agradecimiento? Que no se vaya enfadado.
+  en: Done. And the thanks? He should not leave cross.
+  refs: 37
+- Ramiro: Pues «Agradecemos la confianza depositada en él», que suena bien y no compromete a nadie.
+  en: Then «We thank him for the trust placed in him», which sounds well and commits nobody.
+  refs: 37
+- Pepa: Ya he empezado la respuesta con «Según lo acordado», como en los correos de la asociación.
+  en: I have started the reply with «As agreed», as in the association's emails.
+  refs: 39
+- Ramiro: Pues ponle también «quedamos a la espera de sus comentarios», que la gente se lo toma más en serio.
+  en: Then add «we look forward to your comments» as well, because people take it more seriously.
+  refs: 39
+- Pepa: Y ahora lo gordo: si Gregorio se va, ¿quién lleva las cuentas? Yo ya le ayudo los martes.
+  en: And now the big one: if Gregorio goes, who keeps the accounts? I already help him on Tuesdays.
+  refs: 36
+- Ramiro: Según el artículo 7, las elige la asamblea, y la asamblea es en primavera.
+  en: According to article 7, the general meeting elects them, and the meeting is in spring.
+  refs: 36
+- Pepa: Pues el artículo 11 dice: «En todo lo no previsto en los presentes estatutos, decidirá la Junta Directiva».
+  en: Then article 11 says: «In all matters not provided for in these present statutes, the board shall decide».
+  refs: 36
+- Ramiro: Pero el hueco de tesorero no está previsto, porque nadie se había dado de baja antes.
+  en: But the treasurer's vacancy is not provided for, because nobody had withdrawn before.
+  refs: 36
+- Pepa: Pues a tal efecto, votamos hoy y ya está. ¿Quién propone a alguien?
+  en: Then for that purpose we vote today and that is that. Who proposes someone?
+  refs: 36
+- Ramiro: Yo propongo a Marisa Gil. Sus cuentas están al día, y lo tengo en cuenta.
+  en: I propose Marisa Gil. Her accounts are up to date, and I take it into account.
+  refs: 38
+- Pepa: Marisa no quiere: me lo ha dicho esta mañana, con una carta y todo.
+  en: Marisa does not want it: she told me this morning, with a letter and everything.
+  refs: 37
+- Ramiro: ¿Y entonces quién? No podemos quedarnos sin tesorero hasta la primavera.
+  en: Then who? We cannot be without a treasurer until spring.
+  refs: 36
+- Pepa: Pues tranquilo, que ya lo he resuelto yo, y lo tengo apuntado.
+  en: Do not worry, I have already sorted it out myself, and I have it noted down.
+  refs: 38
+- Ramiro: ¿Y qué has resuelto? Dime, que me lo apunto.
+  en: And what have you sorted out? Tell me, and I will note it down.
+  refs: 38
+- Pepa: Que la tesorera soy yo, Ramiro. Ya lo he puesto en la respuesta, con mi firma.
+  en: That the treasurer is me, Ramiro. I have already put it in the reply, with my signature.
+  refs: 36 37
+
+notes.en:
+This week's texts are lessons 36 to 41. Each section names its lesson and quotes its lines as they stand there, so the learner can find them;
+1. The statutes (lesson 36): the legal register is a set of short formulas, and each one says what the rule does.
+| Formula | What it does | Line from lesson 36 |
+|---|---|---|
+| quedarán obligados | the duty that the statutes create | Los socios quedarán obligados a cultivar su parcela |
+| salvo | except, before a noun | salvo las de carácter provisional |
+| en su caso | where applicable | podrá suspender, en su caso, el uso de la parcela |
+| a tal efecto | for that purpose | a tal efecto, preparará el orden del día |
+| sin perjuicio de | without prejudice to | sin perjuicio de pagar las cuotas vencidas |
+2. The resignation letter (lesson 37): the perfect letter names the rule it follows and thanks the person for the trust, not for the work.
+| Formula | What it does | Line from lesson 37 |
+|---|---|---|
+| causar baja voluntaria | the formal phrase for leaving | Le comunico por escrito mi decisión de causar baja voluntaria |
+| preaviso | the notice period set by the contract | con el preaviso establecido en mi contrato |
+| confianza depositada | the trust placed in someone | Agradezco la confianza depositada en mí |
+| a su entera disposición | at your full disposal | Quedo a su entera disposición para cualquier aclaración. |
+3. The review (lesson 38): the HR phrases soften a criticism, and each one stops short of a decision.
+| Phrase | What it does | Line from lesson 38 |
+|---|---|---|
+| ¿tú cómo lo ves? | asks for a view, without giving power to the answer | ¿Tú cómo lo ves? |
+| lo tengo en cuenta | takes a point into account, with no date | Lo tengo en cuenta para el próximo cierre. |
+| te escucho | the formula of a listener | Te escucho, de verdad. |
+| me lo apunto | a note, not an action | Me lo apunto. |
+4. The email (lesson 39): an official summary presents the decision as already made, and it asks for a reply.
+| Formula | What it does | Line from lesson 39 |
+|---|---|---|
+| según lo acordado | presents a decision as agreed | Según lo acordado en la reunión del lunes |
+| les ruego que | a polite request with the subjunctive | Les ruego que envíen sus datos del mes |
+| quedamos a la espera | waiting for an answer | Quedamos a la espera de sus comentarios sobre el orden del día. |
+| un cordial saludo | the close of a formal email to a group | Un cordial saludo. |
+5. The will (lesson 40): the legal terms are explained in the conversation, each one where it first appears.
+| Term | What it does | Line from lesson 40 |
+|---|---|---|
+| heredero | receives a share of everything left | el heredero recibe una parte de todo lo que quede |
+| legado | a specific item | el legado es un bien concreto |
+| usufructo | the right to use what belongs to another | Puede dejárselo a sus hijos y reservarse el usufructo |
+| albacea | the person who carries the will out | Entonces Luis será el albacea |
+
+
+tasks:
+- Estimados miembros de la Junta Directiva: les escribo para pedirles que aclaren quién lleva la tesorería, porque el puesto ha quedado vacante. Según el artículo 7, la asamblea elige al tesorero, y la asamblea no se reúne hasta la primavera. Por eso les ruego que decidan, a tal efecto, en la próxima reunión, según el artículo 11, y que me comuniquen la decisión por escrito. Quedo a la espera de su respuesta. Un cordial saludo. Teodoro Peña Lara.
+  task.en: Write a formal letter from a member to the board of the allotment association, about 90 words: the vacant post of treasurer, the rule that applies, the request for a decision, and a close that matches the greeting.
+  rubric.en: meaning: the vacant treasurer post, the rule of article 7, the spring assembly and the request under article 11 all stay, with nothing added; register: formal plural, with Estimados miembros and Un cordial saludo agreeing; structure: greeting, the problem, the rule, the request, close, in that order; idiom: a tal efecto, quedo a la espera and les ruego que are used in their normal senses; effect: the board reads a request it cannot put off.

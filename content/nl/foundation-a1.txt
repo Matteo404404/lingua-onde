@@ -1,7 +1,1989 @@
 course: nl
 stage: foundation
+bases: it
 name: Dutch – Foundation (A1 → B2)
 name.it: Olandese – Fondamenti (A1 → B2)
 name.en: Dutch – Foundation (A1 → B2)
 name.es: Neerlandés – Fundamentos (A1 → B2)
 
+== 1 A1
+numeral: Eerste les
+numeral.pron.it: *e‣r*stë lès
+title: Een kopje koffie
+title.it: Una tazza di caffè
+
+dialogue:
+- Goedemorgen! Een kopje koffie, alstublieft.
+  it: Buongiorno! Una tazza di caffè, per favore (una tazzina caffè, per favore).
+  pron.it: χudë*mor*χë! ën *kop*yë *ko*fi, alstü*blift*.
+- Goedemorgen. Met melk?
+  it: Buongiorno. Con latte?
+  pron.it: χudë*mor*χë. mèt mèlk?
+- Ja, graag.
+  it: Sì, grazie (sì, volentieri).
+  pron.it: ya‣, χra‣χ.
+- Alstublieft. Een kopje koffie met melk.
+  it: Ecco a lei. Una tazza di caffè con latte.
+  pron.it: alstü*blift*. ën *kop*yë *ko*fi mèt mèlk.
+- Dank u wel.
+  it: Grazie mille (ringrazio lei bene).
+  pron.it: dank ü wèl.
+
+sounds.it:
+1. Sotto ogni frase trovi la pronuncia figurata: leggila come se fosse italiano, con le convenzioni della guida alla pronuncia. La sillaba su cui cade la voce è in grassetto, in ogni parola di due o più sillabe; le parole di una sillaba non lo portano. Il segno ‣ dopo una vocale vuol dire che è lunga: in graag, χra‣χ, la a è tenuta più a lungo. La ë è la vocale debole, brevissima e indistinta: ën *kop*yë.
+2. La g e la ch dell'olandese, che la pronuncia figurata scrive χ, sono un solo suono di gola, ruvido, come la jota spagnola o la c aspirata dei toscani: si soffia raschiando in fondo alla bocca. Non è mai la nostra g di gatto né quella di gelato: goedemorgen, graag (χra‣χ), con la χ anche in fondo alla parola.
+3. Le lettere oe si leggono u, come la nostra u: goedemorgen si dice χudë*mor*χë. La u di dank u wel, invece, è un altro suono, tra la i e la u, a labbra in avanti: ü. E la a lunga di graag (χra‣χ) non è la a breve di dank: questa è breve e scura, quasi una o, dank.
+
+notes.it:
+1. Goedemorgen: buongiorno, letteralmente "buon mattino" (goede, buona, e morgen, mattina). Si usa fino a mezzogiorno circa, e lo dicono tutti, il cliente e il cameriere.
+2. Een kopje koffie: een vuol dire un, uno, una: un'unica forma per ogni nome, senza maschile e femminile. Nota che manca il nostro di: l'olandese dice "una tazzina caffè", een kopje koffie, senza nessuna parola in mezzo. Kopje viene da kop, tazza: la fine -je fa le cose piccole, come il nostro -ino. Di parole in -je ne incontrerai moltissime: le vedremo più avanti.
+3. Alstublieft: per favore. Si mette di solito in fondo alla frase. Nella quarta frase la stessa parola la dice il cameriere mentre porge il caffè: lì vuol dire "ecco a lei". In olandese, quando dai qualcosa a qualcuno, dici alstublieft.
+4. Met melk?: met vuol dire con. Una parola o due, dette con la voce che sale, sono già un'offerta: "Lo vuole con il latte?". Melk è come il nostro latte: non prende een.
+5. Ja, graag: ja è sì. Attenzione: graag somiglia a "grazie", ma vuol dire volentieri. Ja, graag (sì, volentieri) è il modo normale per accettare quello che ti offrono, dove noi diciamo "sì, grazie". Graag tornerà spesso, in molte frasi: lo vedremo più avanti.
+6. Dank u wel: grazie mille, letteralmente "ringrazio lei bene". U è il lei di cortesia: si dice a chi non si conosce, al bar, nei negozi. Tra amici si dice dank je wel; vedremo le due forme nella lezione 4.
+
+ex1:
+- Goedemorgen!
+  it: Buongiorno!
+- Een kopje koffie.
+  it: Una tazza di caffè.
+- Met melk?
+  it: Con latte?
+- Ja, graag.
+  it: Sì, grazie.
+- Dank u wel.
+  it: Grazie mille.
+
+ex2:
+- [Goedemorgen]!
+  it: Buongiorno!
+- Een [kopje] koffie, [alstublieft].
+  it: Una tazza di caffè, per favore.
+- Ja, [graag].
+  it: Sì, volentieri.
+- [Dank] u [wel].
+  it: Grazie mille.
+
+culture.it:
+Nei Paesi Bassi il caffè si beve a tutte le ore: a colazione, a metà mattina, dopo pranzo, e in ufficio la macchinetta del caffè è il punto d'incontro di tutti. Al bar il caffè arriva in una tazza più grande della nostra tazzina, e quasi sempre con un solo biscotto sul piattino. Anche a casa, quando arriva un ospite, la prima domanda è se vuole un caffè, e la scatola dei biscotti gira una volta sola: se ne prende uno, e la scatola si richiude. Chi vuole tanto latte chiede un koffie verkeerd, il "caffè sbagliato": più latte che caffè, il nostro caffellatte. Al bar basta poco: Een koffie, alstublieft.
+
+== 2 A1
+numeral: Tweede les
+numeral.pron.it: *twe‣*dë lès
+title: Aangenaam
+title.it: Piacere
+
+dialogue:
+- Hallo, ik ben Eva.
+  it: Ciao, sono Eva (io sono Eva).
+  pron.it: ha*lo‣*, Ig bèn *e‣*va.
+- Hoi! Ik ben Luca.
+  it: Ciao! Sono Luca.
+  pron.it: hoi! Ig bèn *lü*ka.
+- Ben jij Italiaans?
+  it: Sei italiano? (sei tu italiano)
+  pron.it: bèn yèi itali*a‣ns*?
+- Ja, uit Milaan. En jij?
+  it: Sì, di Milano (da Milano). E tu?
+  pron.it: ya‣, œit mi*la‣n*. èn yèi?
+- Ik ben Nederlands. Uit Utrecht.
+  it: Io sono olandese. Di Utrecht.
+  pron.it: Ig bè *ne‣*dërlants. œit *œ*trèχt.
+- Aangenaam, Eva.
+  it: Piacere, Eva (gradevole, Eva).
+  pron.it: anχë*na‣m*, *e‣*va.
+
+sounds.it:
+1. Le lettere ij, come in jij, sono un dittongo: una e aperta che scivola verso la i, a metà strada tra il nostro "ei" e il nostro "ai". La pronuncia figurata lo scrive èi: jij si dice yèi.
+2. La j olandese si legge come la i di ieri, e la pronuncia figurata la scrive y: ja (ya‣), jij (yèi). Non è mai la g di gelato. La I maiuscola di Ik (ik) non è una maiuscola: segna la i breve e rilassata dell'olandese, a metà tra la nostra i e la è.
+3. In Italiaans e aangenaam le due a si leggono come una a sola: lunga nella sillaba con l'accento, itali*a‣ns*, e più breve fuori dall'accento, anχë*na‣m*. Ritrovi la χ di gola della lezione 1 dentro la parola, e la ë debole nella sillaba senza voce.
+
+notes.it:
+1. Hallo, hoi: hallo è il saluto per tutti, a ogni ora; hoi è più amichevole, il nostro "ciao" quando si arriva. Per salutare chi conosci poco, o al mattino, va bene anche goedemorgen (lezione 1).
+2. Ik ben: io sono. In italiano basta "sono Eva"; in olandese il pronome c'è sempre: ik ben Eva, mai "ben Eva" da solo. Ik vuol dire io, e si scrive con la minuscola. Ben viene dal verbo zijn, essere: lo vedremo per intero nella lezione di ripasso.
+3. Ben jij Italiaans?: jij è il tu. Per fare la domanda si mette il verbo davanti: jij bent (tu sei) diventa ben jij? Hai visto? Bent perde la t quando jij viene dopo il verbo. Non è un capriccio: è una regola che vale per tutti i verbi, e la vedremo nella lezione 5.
+4. Italiaans, Nederlands: i nomi delle nazionalità e delle lingue si scrivono con la maiuscola. Italiaans vuol dire italiano, e anche la lingua italiana; Nederlands vuol dire olandese, e anche la lingua olandese. La parola non cambia: Eva è Nederlands, Luca è Italiaans.
+5. En jij?: en vuol dire e, e en jij? è "e tu?". Jij qui è in fondo alla frase e porta la voce: si dice pieno, yèi.
+6. Uit Milaan, uit Utrecht: uit vuol dire da, per dire da dove si viene, dove l'italiano dice spesso "di": ik ben uit Utrecht, sono di Utrecht. Molte città hanno un nome olandese: Milaan è Milano, Rome è Roma. Il suono di uit, œit, è nuovo per un italiano: ci torneremo più avanti.
+7. Aangenaam: piacere, letteralmente "gradevole". Si dice quando ci si presenta, di solito stringendo la mano, una volta sola: la volta dopo si dice hoi o hallo.
+
+ex1:
+- Hallo, ik ben Eva.
+  it: Ciao, sono Eva.
+- Ben jij Nederlands?
+  it: Sei olandese?
+- Ja. En jij?
+  it: Sì. E tu?
+- Ik ben Italiaans, uit Milaan.
+  it: Sono italiano, di Milano.
+- Aangenaam, Luca.
+  it: Piacere, Luca.
+
+ex2:
+- Hoi! [Ik] [ben] Luca.
+  it: Ciao! Sono Luca.
+- [Ben] jij Italiaans?
+  it: Sei italiano?
+- Ik ben [Nederlands], [uit] Utrecht.
+  it: Sono olandese, di Utrecht.
+- [Aangenaam], Eva.
+  it: Piacere, Eva.
+
+culture.it:
+Noi diciamo spesso Olanda, ma il paese si chiama Nederland, i Paesi Bassi: Holland è solo una parte, le due province di Noord-Holland e Zuid-Holland, con Amsterdam, Rotterdam e L'Aia. Gli abitanti di Utrecht o di Groninga, che non sono in Holland, preferiscono sentirsi dire Nederland, e anche il governo usa questo nome. Quando ci si presenta, ci si stringe la mano e si dice il proprio nome, anche solo quello, senza nient'altro: "Eva." "Luca." Tra amici e in famiglia, invece, ci si saluta con tre baci sulle guance, non due come da noi: destra, sinistra, destra. Ma tra persone appena presentate, la mano basta: Aangenaam.
+
+== 3 A1
+numeral: Derde les
+numeral.pron.it: *dèr*dë lès
+title: Hoe gaat het?
+title.it: Come va?
+
+dialogue:
+- Goedemorgen! Hoe gaat het met jou?
+  it: Buongiorno! Come stai?
+  pron.it: χudë*mor*χë! hu χa‣t ët mèt yau?
+- Niet zo goed. Ik heb slecht geslapen.
+  it: Non tanto bene. Ho dormito male.
+  pron.it: nit so‣ χut. Ik hèp slèχt χë*sla‣*pë.
+- O, wat jammer. Koffie?
+  it: Oh, che peccato. Un caffè?
+  pron.it: o‣, wat *ya*mër. *ko*fi?
+- Ja, lekker. Een grote.
+  it: Sì, volentieri. Una grande.
+  pron.it: ya‣, *lè*kër. ën *χro‣*të.
+- Komt eraan.
+  it: Arriva.
+  pron.it: komt è*ra‣n*.
+
+sounds.it:
+1. La o di grote è lunga, come in groot: si tiene più a lungo della o breve di koffie. In grote la sillaba finisce con la vocale, e la vocale resta lunga: la regola la vedremo nella lezione di ripasso.
+2. La ch di slecht è la stessa χ della lezione 1: si soffia raschiando in fondo alla gola, e non si addolcisce mai in fine di parola. Non dirla come la c di ciao.
+
+notes.it:
+1. Hoe gaat het met jou?: gaan vuol dire andare, e hoe gaat het? è "come va?", alla lettera "come va la cosa". Met vuol dire con, come in met melk (lezione 1), e dopo met la parola per tu non è jij ma jou: met jou, con te.
+2. Niet zo goed: niet zo vuol dire "non tanto". L'italiano dice "sto bene", l'olandese chiede come va la cosa: il verbo è gaan, non stare. Goed è "bene", e la risposta si accorcia spesso in goed.
+3. Ik heb slecht geslapen: ho dormito male. Heb (ho) sta al secondo posto, geslapen (dormito) in fondo alla frase: è il passato, con la sua forma ge-...-en. Lo vedremo più avanti, con calma.
+4. O, wat jammer: wat vuol dire "che", come nel nostro "che peccato"; jammer è "peccato". È una parola d'uso comune, da dire tal quale.
+5. Koffie?: una domanda di una parola sola, con la voce che sale, come Met melk? nella lezione 1. In olandese basta una parola per fare un'offerta.
+6. Ja, lekker. Een grote: lekker vuol dire buono, gustoso, ma qui è "volentieri". L'aggettivo grote prende il posto del nome: una grande, cioè una tazza grande di caffè. Il -e finale dell'aggettivo lo vedremo più avanti.
+
+ex1:
+- Hoe gaat het?
+  it: Come va?
+- Niet zo goed.
+  it: Non tanto bene.
+- Ik heb slecht geslapen.
+  it: Ho dormito male.
+- Wat jammer!
+  it: Che peccato!
+- Ja, lekker. Een grote.
+  it: Sì, volentieri. Una grande.
+
+ex2:
+- [Hoe] gaat het?
+  it: Come va?
+- Ik heb [slecht] geslapen.
+  it: Ho dormito male.
+- O, [wat] jammer.
+  it: Oh, che peccato.
+- [Ja], lekker.
+  it: Sì, volentieri.
+- Niet [zo] goed.
+  it: Non tanto bene.
+
+== 4 A1
+numeral: Vierde les
+numeral.pron.it: *vi‣r*dë lès
+title: Waar is het station?
+title.it: Dov'è la stazione?
+
+dialogue:
+- Pardon, ik zoek het station.
+  it: Scusi, cerco la stazione.
+  pron.it: par*don*, Ik suk ët sta*scion*.
+- Het station? Daar, links. Naast de bank.
+  it: La stazione? Lì, a sinistra. Accanto alla banca.
+  pron.it: ët sta*scion*? da‣r, lInks. na‣s dë bank.
+- Is het ver?
+  it: È lontano?
+  pron.it: Is ët fèr?
+- Nee, vijf minuten.
+  it: No, cinque minuti.
+  pron.it: ne‣, vèif *mi*nütë.
+- Dank u wel!
+  it: Grazie mille!
+  pron.it: dank ü wèl!
+- Graag gedaan.
+  it: Di niente.
+  pron.it: χra‣ χë*da‣n*.
+
+sounds.it:
+1. La ij di vijf è il dittongo di jij (lezione 2): èi, come in "vèif". La v di vijf e di ver è quasi una f, un po' sorda: non la dire come la v dolce di "vino".
+2. Alla fine di minuten la n non si sente: la -en finale si dice ë, una vocale debole. La parola si ferma sulla e debole, senza una n.
+
+notes.it:
+1. Pardon, ik zoek: pardon serve per attirare l'attenzione, come il nostro "scusi". Ik zoek è "cerco": zoeken è il verbo, e zoek è la forma che si usa con ik. Il presente si spiega nella lezione 5.
+2. Het station: het è l'articolo per la parola station, e de per la parola bank. Due parole per il/la: quale si usa lo impari parola per parola, e lo vedremo nella lezione 10.
+3. Daar, links: daar vuol dire "lì", links è "a sinistra" e rechts è "a destra". È una risposta breve, senza verbo: le indicazioni si danno così, con due parole.
+4. Naast de bank: naast vuol dire "accanto", e bank è la banca. Attenzione: bank vuol dire anche la panchina del parco e il divano di casa, la stessa parola con altri sensi.
+5. Is het ver?: la domanda sì/no mette il verbo per primo: is (è) passa davanti a het. La risposta è Het is ver, con il verbo al secondo posto. Lo vedremo più avanti, con la regola completa. Ver vuol dire lontano.
+6. Vijf minuten: minuten è il plurale di minuut con la fine -en, e anche qui la n non si dice. Lo riprenderemo nella lezione 6, con gli altri plurali.
+7. Dank u wel, graag gedaan: u è il lei di cortesia, e dank u wel è il nostro "grazie mille", come nella lezione 1. Graag gedaan è la risposta dopo il grazie, il nostro "prego" (di niente): non si dice alstublieft, che è per offrire qualcosa.
+
+ex1:
+- Pardon!
+  it: Scusi!
+- Daar, links.
+  it: Lì, a sinistra.
+- Naast de bank.
+  it: Accanto alla banca.
+- Is het ver?
+  it: È lontano?
+- Graag gedaan.
+  it: Di niente.
+
+ex2:
+- [Daar], links.
+  it: Lì, a sinistra.
+- Ik [zoek] het station.
+  it: Cerco la stazione.
+- Het station is [naast] de bank.
+  it: La stazione è accanto alla banca.
+- Is het [ver]?
+  it: È lontano?
+- [Graag] gedaan.
+  it: Di niente.
+
+culture.it:
+Nei Paesi Bassi le biciclette hanno una corsia tutta loro, il fietspad, spesso di asfalto rosso e separata da quella delle auto. Il fietspad non è un marciapiede: è la pista dei ciclisti, e a piedi non ci si cammina. Per chiedere la strada basta dire pardon, e la risposta è spesso una sola parola con il dito puntato: daar, là.
+
+== 5 A1
+numeral: Vijfde les
+numeral.pron.it: *vèiv*dë lès
+title: Woon je in Amsterdam?
+title.it: Abiti ad Amsterdam?
+
+dialogue:
+- Woon je in Amsterdam?
+  it: Abiti ad Amsterdam?
+  pron.it: wo‣n yë In amstër*dam*?
+- Nee, ik woon in Leiden. En jij?
+  it: No, abito a Leida. E tu?
+  pron.it: ne‣, Ik wo‣n In *lèi*dë. èn yèi?
+- In Rome. Maar ik werk hier een jaar.
+  it: A Roma. Ma lavoro qui per un anno.
+  pron.it: In *ro‣*më. ma‣r Ik wèrk hi‣r ën ya‣r.
+- Vind je Amsterdam mooi?
+  it: Trovi bella Amsterdam?
+  pron.it: vInt yë amstër*dam* mo‣i?
+- Heel mooi. Maar duur.
+  it: Molto bella. Ma cara.
+  pron.it: he‣l mo‣i. ma‣r dü‣r.
+- Net als Rome.
+  it: Proprio come Roma.
+  pron.it: nèt als *ro‣*më.
+
+sounds.it:
+1. La oo di woon e di mooi è lunga e chiusa: si dice wo‣n e mo‣i, con la bocca quasi tonda. Non è la o breve di koffie: la differenza tra le due la senti a ogni parola.
+2. La w di woon e di werk non è la nostra v né la w inglese: il labbro di sotto sfiora appena i denti, senza strisciare. Il suono è più dolce della v italiana.
+
+notes.it:
+1. Woon je in Amsterdam?: wonen vuol dire abitare. Ik woon è "io abito", e jij woont è "tu abiti": la -t cade quando je viene dopo il verbo, come in ben jij (lezione 2). Per questo la domanda dice woon je?, con la -t caduta.
+2. Nee, ik woon in Leiden: in con una città vuol dire "a" o "in": woon in Leiden è "abito a Leida". La forma del verbo cambia con la persona: ik woon, jij woont, hij woont. La riprenderemo nella lezione di ripasso.
+3. In Rome. Maar ik werk hier een jaar: maar è "ma", e in questo caso il verbo werk sta al secondo posto, dopo ik. Hier vuol dire "qui". Een jaar è un anno: una durata si dice senza preposizione, dove noi diciamo "per un anno".
+4. Vind je Amsterdam mooi?: vinden vuol dire "trovare", nel senso di giudicare. Vind je è "trovi", con je dopo il verbo e la -t che cade. Vinden con un aggettivo, come mooi, è un modo di dire che sentirai spesso: lo vedremo più avanti.
+5. Heel mooi. Maar duur: heel davanti a un aggettivo vuol dire "molto", come in heel mooi. Duur è "caro" (il prezzo): non va confuso con l'italiano duro, che in olandese è hard. Maar qui è il nostro "ma"; più avanti vedrai che può voler dire anche "solo".
+6. Net als Rome: net als vuol dire "proprio come", "come": net als Rome è "come Roma". Lo puoi usare per paragonare due cose: net als jij, come te.
+
+ex1:
+- Ik woon in Leiden.
+  it: Abito a Leida.
+- Ik werk hier een jaar.
+  it: Lavoro qui per un anno.
+- Vind je Amsterdam mooi?
+  it: Trovi bella Amsterdam?
+- Heel mooi, maar duur.
+  it: Molto bella, ma cara.
+- Net als Rome.
+  it: Proprio come Roma.
+
+ex2:
+- Woon [je] in Amsterdam?
+  it: Abiti ad Amsterdam?
+- Ik [werk] hier.
+  it: Lavoro qui.
+- Vind je Amsterdam [mooi]?
+  it: Trovi bella Amsterdam?
+- Het is heel [duur].
+  it: È molto cara.
+- [Net] als Rome.
+  it: Proprio come Roma.
+
+culture.it:
+Amsterdam, Rotterdam, L'Aia e Utrecht formano la Randstad, l'area urbana dell'ovest dei Paesi Bassi: le città sono vicine l'una all'altra, e in treno si va da una all'altra in meno di un'ora. Per questo molti olandesi abitano in una città e lavorano in un'altra. I treni sono frequenti, e il pendolare è una figura comune, non un'eccezione.
+
+== 6 A1
+numeral: Zesde les
+numeral.pron.it: *zèz*dë lès
+title: Twee stroopwafels
+title.it: Due stroopwafel
+
+dialogue:
+- Twee stroopwafels, alstublieft.
+  it: Due stroopwafel, per favore.
+  pron.it: twe‣ *stro‣p*wafëls, alstü*blift*.
+- Groot of klein?
+  it: Grandi o piccole?
+  pron.it: χro‣t of klèin?
+- Groot.
+  it: Grandi.
+  pron.it: χro‣t.
+- Dat is zes euro.
+  it: Sono sei euro.
+  pron.it: dat I sès *ø‣*ro.
+- Zes euro? Voor twee koekjes?
+  it: Sei euro? Per due biscotti?
+  pron.it: zès *ø‣*ro? vo‣r twe‣ *kuk*yës?
+- Mevrouw, het zijn geen koekjes. Het zijn stroopwafels.
+  it: Signora, non sono biscotti. Sono stroopwafel.
+  pron.it: më*vrau*, ët sèin χe‣n *kuk*yës. ët sèin *stro‣p*wafëls.
+
+sounds.it:
+1. La oo di stroop è lunga e chiusa, come in woon: stro‣p, con la bocca quasi tonda. Non è la o breve di koffie (lezione 1).
+2. Nei plurali stroopwafels e koekjes la e delle sillabe finali è debole, ë: si dice appena, come la -en di minuten (lezione 4), e la parola si chiude in fretta.
+
+notes.it:
+1. Twee stroopwafels: le parole in -je fanno il plurale in -s, come koekjes. Il plurale in -en lo hai visto con minuten nella lezione 4. Stroopwafel è il nome di un dolce: la cialda allo sciroppo, che si mangia in tutti i Paesi Bassi.
+2. Groot of klein?: groot è "grande", klein è "piccolo". Sono aggettivi: quando stanno da soli, dopo "is" o come risposta, non prendono nessuna fine. Per questo rispondi Groot., senza -e.
+3. Dat is zes euro: i numeri da 6 a 20 sono zes, zeven, acht, negen, tien, elf, twaalf, dertien, veertien, vijftien, zestien, zeventien, achttien, negentien, twintig. Attenzione: dopo un numero euro resta al singolare, come in italiano "sei euro". Uno, contando, si scrive één e si dice e‣n: è il numero, mentre een (ën) è l'articolo della lezione 1.
+4. Voor twee koekjes?: koekje è "biscotto". La torta è een taart, un'altra parola. Voor vuol dire "per", e qui la domanda è "per due biscotti?". La fine -je rende piccolo il nome, come il nostro -ino, e la rivedremo spesso.
+5. Mevrouw: il titolo di signora. Lo usi con una donna che non conosci, come nei negozi. Per un uomo si dice meneer.
+6. Het zijn geen koekjes: het zijn è "sono" al plurale, con het anche per le cose plurali. Geen sostituisce een: "non un biscotto" diventa geen koekje, e geen koekjes è "non biscotti". Lo vedremo nella lezione 17, con niet.
+
+ex1:
+- Twee stroopwafels, alstublieft.
+  it: Due stroopwafel, per favore.
+- Groot of klein?
+  it: Grandi o piccole?
+- Dat is zes euro.
+  it: Sono sei euro.
+- Voor twee koekjes?
+  it: Per due biscotti?
+- Mevrouw!
+  it: Signora!
+
+ex2:
+- [Twee] stroopwafels, alstublieft.
+  it: Due stroopwafel, per favore.
+- [Groot] of klein?
+  it: Grandi o piccole?
+- Dat is [zes] euro.
+  it: Sono sei euro.
+- Het zijn [geen] koekjes.
+  it: Non sono biscotti.
+- Het zijn [stroopwafels].
+  it: Sono stroopwafel.
+
+culture.it:
+La stroopwafel viene da Gouda, una città della provincia di Zuid-Holland. Sono due cialde sottili unite da uno strato di sciroppo, e si mangiano così, oppure si appoggiano sopra una tazza di caffè: il calore del caffè le ammorbidisce e lo sciroppo si scioglie un poco. Si trovano nei mercati e nelle stazioni, e il caffè e la stroopwafel si mangiano spesso insieme.
+
+aside.it:
+Domani c'è la lezione di ripasso: niente di nuovo, solo tutto messo in ordine. Prenditi il tempo che serve.
+
+== 7 A1
+kind: revision
+numeral: Zevende les
+numeral.pron.it: *ze‣*vëndë lès
+title: Herhaling
+title.it: Ripasso
+
+dialogue:
+- Pardon, is de koffie hier lekker?
+  it: Scusi, il caffè qui è buono?
+  pron.it: par*don*, Is dë *ko*fi hi‣r *lè*kër?
+  refs: 1 3 4 5
+- Heel lekker. Maar duur.
+  it: Buonissimo. Ma caro.
+  pron.it: he‣ *lè*kër. ma‣r dü‣r.
+  refs: 3 5
+- Duur? Hoe duur?
+  it: Caro? Quanto caro?
+  pron.it: dü‣r? hu dü‣r?
+  refs: 3 5
+- Twee euro. Voor een kopje!
+  it: Due euro. Per una tazzina!
+  pron.it: twe‣ *ø‣*ro. vo‣r ën *kop*yë!
+  refs: 1 6
+- O, dat is niet zo duur.
+  it: Oh, non è tanto caro.
+  pron.it: o‣, dat Is nit so‣ dü‣r.
+  refs: 3 5 6
+- Woont u hier?
+  it: Lei abita qui?
+  pron.it: wo‣nt ü hi‣r?
+  refs: 5
+- Nee, ik werk hier een jaar. Ik ben Italiaans.
+  it: No, lavoro qui per un anno. Sono italiano.
+  pron.it: ne‣, Ik wèrk hi‣r ën ya‣r. Ig bèn itali*a‣ns*.
+  refs: 2 5
+- Italiaans? Uit Rome?
+  it: Italiano? Di Roma?
+  pron.it: itali*a‣ns*? œit *ro‣*më?
+  refs: 2 5
+- Nee, uit Milaan. En u? Bent u Nederlands?
+  it: No, di Milano. E lei? Lei è olandese?
+  pron.it: ne‣, œit mi*la‣n*. èn ü? bènt ü *ne‣*dërlants?
+  refs: 1 2
+- Nee, ik ben Italiaans. Net als jij!
+  it: No, sono italiano. Proprio come te! (qui si passa dal lei al tu)
+  pron.it: ne‣, Ig bèn itali*a‣ns*. nèt als yèi!
+  refs: 2 5
+
+notes.it:
+Hai fatto sei lezioni, e hai già in mano le parole per ordinare un caffè, chiedere un prezzo e fare due chiacchiere. Non serve imparare a memoria queste tabelle: i dubbi sono normali, e l'olandese si impara ascoltando e parlando, non solo sui libri. Qui trovi tutto in ordine, da riprendere quando ti serve.
+
+1. Vocali lunghe e brevi (lezioni 1, 3, 4, 5, 6)
+
+| Suono | Lungo (lettera doppia o una sola in fine di sillaba) | Breve (doppia consonante dopo) |
+|---|---|---|
+| a | graag (1, la a lunga) | dank (1, la a breve e scura) |
+| e | heel (5) | melk (1), ver (4) |
+| o | groot (3), mooi (5), stroop (6) | koffie (1), kopje (1) |
+| u | duur (5) | (nessun esempio ancora) |
+
+Regola: una vocale è lunga quando è scritta doppia (aa, ee, oo, uu) oppure quando la sillaba finisce con la vocale, come la o di grote (lezione 3). Una vocale seguita da una consonante doppia (koffie) è breve, e lo è anche quando la sillaba finisce in consonante (kopje).
+
+2. Le vocali e i dittonghi incontrati (lezioni 1, 2, 4, 5)
+
+| Scrittura | Suono | Esempio |
+|---|---|---|
+| oe | u (come la nostra u) | goedemorgen (1) |
+| ij, ei | èi | jij (2), vijf (4), Leiden (5), klein (6) |
+| ui | œi, un suono che l'italiano non ha | uit (2) |
+| ie | i, la nostra i, breve; i‣, lunga, davanti a r | hier (5): hi‣r |
+| ou, au | au | jou (3) |
+| eu | ø‣ | euro (6): tra la e e la o, labbra in avanti |
+
+3. Consonanti e accento (lezioni 1, 2, 3, 4, 6)
+
+- g e ch: un suono di gola, χ: goedemorgen (1), graag (1), slecht (3). Mai la g di gatto.
+- w: un suono leggero, con il labbro di sotto che sfiora i denti: wat (3), woon (5).
+- v: quasi una f, spesso sorda: vijf, ver (4).
+- z: una s dolce, come in rosa: zes (6).
+- sch: la s seguita dalla χ, lo vedremo più avanti.
+- -en in fine di parola si dice ë, la n non si sente: minuten (4).
+- L'accento cade di solito sulla prima sillaba: koffie (1), minuten (4), Nederlands (2). Fanno eccezione le parole che vengono da altre lingue, come station (4), che porta l'accento sull'ultima sillaba: sta*scion*.
+
+4. zijn, essere, al presente (lezioni 2, 4, 6)
+
+| Persona | Forma | Esempio |
+|---|---|---|
+| ik | ben | Ik ben Eva (2) |
+| jij | bent | Ben jij Italiaans? (2, la t cade in domanda: ben jij) |
+| u | bent | Bent u Italiaans? (formale: la t resta) |
+| hij, zij, het | is | Is het ver? (4) |
+| wij, jullie, zij | zijn | Het zijn stroopwafels (6): la forma per il plurale |
+
+Ricorda: nel presente la t della forma per jij cade quando je o jij vanno dopo il verbo (ben jij, woon je), e resta con u (bent u, woont u).
+
+5. I pronomi soggetto, pieni e deboli (lezioni 1, 2, 5, 6)
+
+| Persona | Forma piena | Forma debole | Esempio |
+|---|---|---|---|
+| io | ik | ik | Ik woon in Leiden (5) |
+| tu | jij | je | Woon je in Amsterdam? (5) |
+| lei (formale) | u | u | Dank u wel (1), Woont u hier? (7) |
+| lui | hij | hij | completamento |
+| lei (ella) | zij | ze | completamento |
+| noi | wij | we | completamento |
+| voi | jullie | jullie | completamento |
+| loro | zij | ze | completamento |
+
+Quando je o jij vengono dopo il verbo, il verbo perde la -t (woon je); con u la tiene (woont u). Il pronome non si lascia mai cadere: ik woon, mai "woon" da solo.
+
+6. een, de, het, e i plurali (lezioni 1, 4, 6)
+
+| Articolo | Uso | Esempio |
+|---|---|---|
+| een | un, uno, una (per ogni nome) | een kopje koffie (1) |
+| de | per la maggior parte dei nomi, e per tutti i plurali | de bank (4) |
+| het | per circa un terzo dei nomi, da imparare parola per parola | het station (4) |
+
+Plurali: in -en per minuut, che diventa minuten (4); in -s per le parole che finiscono in -je o in -el, come koekjes (6) e stroopwafels (6). Dopo un numero euro resta singolare: zes euro (6).
+
+7. I numeri da 1 a 20 (lezioni 1, 4, 6)
+
+| Numero | Olandese | Numero | Olandese |
+|---|---|---|---|
+| 1 | één | 11 | elf |
+| 2 | twee | 12 | twaalf |
+| 3 | drie | 13 | dertien |
+| 4 | vier | 14 | veertien |
+| 5 | vijf | 15 | vijftien |
+| 6 | zes | 16 | zestien |
+| 7 | zeven | 17 | zeventien |
+| 8 | acht | 18 | achttien |
+| 9 | negen | 19 | negentien |
+| 10 | tien | 20 | twintig |
+
+Un'ultima cosa: il numero uno si scrive één, con gli accenti, e si dice e‣n; l'articolo een si dice ën. Lo riprenderemo nella lezione 8.
+
+Chiudiamo la settimana con le parole che hai già in mano: goedemorgen, alstublieft, dank u wel, graag gedaan. Ci vediamo nella lezione 8.
+
+== 8 A1
+numeral: Achtste les
+numeral.pron.it: *aχt*stë lès
+title: Een kamer voor vannacht
+title.it: Una stanza per stanotte
+
+dialogue:
+- Heeft u een kamer voor vannacht?
+  it: Ha una stanza per stanotte?
+  pron.it: he‣ft ü ën *ka‣*mër vo‣r *va*naχt?
+- Voor één persoon?
+  it: Per una sola persona?
+  pron.it: vo‣r e‣n pèr*so‣n*?
+- Ja. Is er een douche?
+  it: Sì. C'è una doccia?
+  pron.it: ya‣. Is ër ën dusc'?
+- Ja, en een mooi uitzicht.
+  it: Sì, e una bella vista.
+  pron.it: ya‣, èn ën mo‣i *œit*zIχt.
+- Op de zee?
+  it: Sul mare?
+  pron.it: ob dë ze‣?
+- Op de parkeerplaats.
+  it: Sul parcheggio.
+  pron.it: ob dë par*ke‣r*plats.
+- Prima. Ik neem hem.
+  it: Va bene. La prendo.
+  pron.it: *pri*ma. Ik ne‣m hèm.
+
+sounds.it:
+1. La ui di uitzicht si dice œi: il suono che l'italiano non ha. Lo stesso dittongo lo hai già sentito in uit (lezione 2). Arrotonda le labbra come per dire u, poi la voce scivola verso la i. Non dirla come "ui" italiano, né come "au": ascolta la registrazione e ripeti.
+
+notes.it:
+1. Heeft u een kamer voor vannacht?: hebben vuol dire avere. Heeft è la forma per u, e la t resta, come in bent u (lezione 7). Nella domanda il verbo va per primo, come in Is het ver? (lezione 4). Vannacht è stanotte. Tutte le forme di hebben le vedremo nella lezione di ripasso.
+2. Kamer: è la stanza, anche la stanza d'albergo. Non confonderla con la camera fotografica: in olandese quella è een camera, o un fototoestel. Voor vuol dire "per", come in voor twee koekjes (lezione 6).
+3. Voor één persoon?: il numero uno si scrive één, con l'accento, e si dice e‣n. L'articolo een, invece, si dice ën (lezione 1). Come ti avevo anticipato nella prima lezione, la differenza tra i due conta: qui è il numero, "una sola persona".
+4. Is er een douche?: er, con is davanti, vuol dire "c'è" o "ci sono". Is er apre la domanda, e il nome viene dopo, con een. Questo er lo vedremo più avanti, con tutti gli usi.
+5. Een mooi uitzicht: mooi è bello, come in heel mooi (lezione 5). Uitzicht è la vista, ed è una parola di genere het. Con een, l'aggettivo resta senza -e: een mooi uitzicht. Quando l'articolo cambia, la -e tornerà: lo vedremo più avanti.
+6. Op de zee, op de parkeerplaats: op vuol dire "sul" o "nel" quando si parla di un posto aperto, come il mare o un parcheggio. De zee è il mare, de parkeerplaats è il parcheggio; sono entrambe parole di genere de, come de bank (lezione 4).
+7. Prima. Ik neem hem: prima, qui, vuol dire "va bene, ottimo", non "prima" nel tempo. Nemen vuol dire prendere. Hem vuol dire "lo" o "la" per una parola di genere de: la kamer diventa hem, come de bank (lezione 4) diventa hem. Lo vedremo più avanti.
+
+ex1:
+- Is er een kamer voor één persoon?
+  it: C'è una stanza per una sola persona?
+- Het uitzicht is heel mooi.
+  it: La vista è molto bella.
+- Ik neem de kamer met douche.
+  it: Prendo la stanza con la doccia.
+- Prima, dat is goed.
+  it: Benissimo, va bene.
+- Heeft u een douche?
+  it: Ha una doccia?
+
+ex2:
+- [Heeft] u een kamer?
+  it: Ha una stanza?
+- Is er [een] douche?
+  it: C'è una doccia?
+- Voor [één] persoon.
+  it: Per una sola persona.
+- Het uitzicht is [mooi].
+  it: La vista è bella.
+- Ik [neem] hem.
+  it: La prendo.
+
+culture.it:
+Le case olandesi, soprattutto quelle antiche lungo i canali di Amsterdam, sono strette e alte, e le scale interne sono così ripide che somigliano più a una scala a pioli che alla nostra. Per questo i mobili grandi entrano ed escono spesso dalla finestra: in cima alla facciata sporge un gancio di ferro con una carrucola, e il divano sale dalla strada fino al piano di sopra. Molte case antiche lo conservano ancora, e chi lo vede capisce subito che la casa è vecchia.
+
+== 9 A1
+numeral: Negende les
+numeral.pron.it: *ne‣*χëndë lès
+title: Wat doet je zus?
+title.it: Che lavoro fa tua sorella?
+
+dialogue:
+- Wat doet jouw zus?
+  it: Che lavoro fa tua sorella?
+  pron.it: wa dut yau zœs?
+- Ze werkt bij een bank.
+  it: Lavora in una banca.
+  pron.it: zë wèrkd bèi ën bank.
+- Vindt ze haar werk leuk?
+  it: Le piace il suo lavoro?
+  pron.it: vInt së ha‣r wèrk lø‣k?
+- Nee, niet echt.
+  it: No, non proprio.
+  pron.it: ne‣, nit èχt.
+- Waarom niet? Ze houdt toch van geld?
+  it: Perché no? Ama il denaro, no?
+  pron.it: wa*rom* nit? zë hau toχ fan χèlt?
+- Ja, ze houdt van geld.
+  it: Sì, ama il denaro.
+  pron.it: ya‣, zë haut fan χèlt.
+- Maar het is altijd het geld van anderen.
+  it: Ma è sempre il denaro degli altri.
+  pron.it: ma‣r ët Is *al*tèit ët χèlt fan *an*dërë.
+
+sounds.it:
+1. La d finale si dice t, come nel goed della lezione 3 (χut). Lo stesso in vindt e houdt: la d si scrive, ma si legge una t sola, e la pronuncia figurata scrive vint e haut.
+2. La ou di houden si dice au, il suono della au di "auto": un solo suono scritto in due modi, come ij ed ei nella lezione 2.
+
+notes.it:
+1. Wat doet jouw zus?: doen vuol dire fare. Wat doet ...? chiede il lavoro, alla lettera "che cosa fa?". Zus è la sorella. Jouw è il tuo, davanti a un nome: lo vedremo più avanti, insieme a mijn e haar.
+2. Ze werkt bij een bank: werken vuol dire lavorare, e werk l'hai già incontrato nella lezione 5 (ik werk hier). Bij vuol dire "presso" o "in", come in bij een bank. La bank della lezione 4 è la banca, non la panchina. Con lui o lei la forma prende -t: werkt.
+3. Ze: è la forma debole di zij, ella. Senza enfasi si dice ze; quando la si mette in risalto si usa la forma piena, zij.
+4. Vindt ze haar werk leuk?: vinden, con un aggettivo, vuol dire trovare bello o piacevole, come vind je mooi (lezione 5). Vindt è la forma per lei: la stessa -t di werkt, scritta dt. Leuk vuol dire carino, piacevole, anche "divertente".
+5. Nee, niet echt: niet vuol dire non, e l'hai già visto nella lezione 3 (niet zo goed). Echt vuol dire davvero, veramente: niet echt è "non proprio".
+6. Waarom niet? Ze houdt toch van geld?: waarom è perché. Toch, in una domanda, chiede una conferma: "no?", "vero?". Houden van vuol dire amare, voler bene, come in ik hou van je. Non confonderlo con tenere: houden, da solo, vuol dire tenere, e lo vedremo più avanti.
+7. Het geld, van anderen: het geld è il denaro (het è l'articolo che hai visto nella lezione 4, con het station). Altijd vuol dire sempre; anderen sono gli altri, il plurale di ander, con la fine -en che hai visto in minuten (lezione 4). Van vuol dire "di" nel senso del possesso; con le persone lo vedremo più avanti.
+
+ex1:
+- Wat doet ze?
+  it: Che lavoro fa?
+- Ze werkt in Leiden.
+  it: Lavora a Leida.
+- Ze houdt van koffie.
+  it: Ama il caffè.
+- Dat is niet echt leuk.
+  it: Non è proprio piacevole.
+- Het is altijd duur.
+  it: È sempre caro.
+
+ex2:
+- Wat [doet] jouw zus?
+  it: Che lavoro fa tua sorella?
+- Ze [werkt] bij een bank.
+  it: Lavora in una banca.
+- Ze [houdt] van geld.
+  it: Ama il denaro.
+- Het is [altijd] het geld van anderen.
+  it: È sempre il denaro degli altri.
+- Waarom [niet]?
+  it: Perché no?
+
+culture.it:
+Nei Paesi Bassi lavorare a tempo parziale è molto comune: quasi la metà dei lavoratori ha un contratto a tempo parziale, e tra le donne la quota è ancora più alta. Chi lavora tre giorni alla settimana non è considerato un caso strano, anzi. Una domanda come "Wat doet jouw zus?" si fa spesso in famiglia e tra amici, senza nessuna curiosità particolare: è solo un modo per parlare.
+
+== 10 A1
+numeral: Tiende les
+numeral.pron.it: *tin*dë lès
+title: Is er een apotheek?
+title.it: C'è una farmacia?
+
+dialogue:
+- Is er een apotheek in de buurt?
+  it: C'è una farmacia qui vicino?
+  pron.it: Is ër ën apo*te‣k* In dë bü‣rt?
+- Ja, er is er een in de Dorpsstraat.
+  it: Sì, ce n'è una in Dorpsstraat.
+  pron.it: ya‣, ër Is ër ën In dë *dorps*strat.
+- Is die op zondag open?
+  it: È aperta la domenica?
+  pron.it: Is di op *son*daχ *o‣*pë?
+- Op zondag? Hier is op zondag niets open.
+  it: La domenica? Qui di domenica non è aperto niente.
+  pron.it: op *son*daχ? hi‣r Is op *son*daχ nits *o‣*pë.
+- Niets? Ook de supermarkt niet?
+  it: Niente? Neanche il supermercato?
+  pron.it: nits? o‣g dë *sü*përmarkt nit?
+- Alleen de kerk. Om tien uur.
+  it: Solo la chiesa. Alle dieci.
+  pron.it: a*le‣n* dë kèrk. om tin ü‣r.
+- Heeft de kerk ook paracetamol?
+  it: La chiesa ha anche il paracetamolo?
+  pron.it: he‣f dë kèrk o‣k *pa‣*rassetamol?
+
+sounds.it:
+1. La ee di apotheek e quella di een sono lunghe e chiuse: apo*te‣k*, come una e tenuta a lungo. La e di er è un'altra cosa: breve e debole, ër. Non allungarla: ascolta le due parole una dopo l'altra, e ripeti.
+
+notes.it:
+1. Is er een apotheek in de buurt?: er is vuol dire "c'è", ed è la stessa costruzione di Is er een douche? (lezione 8). In de buurt è "qui vicino", alla lettera "nel vicinato". Apotheek è la farmacia, dove si va con la ricetta del medico. Il drogist vende shampoo e le medicine più comuni, come il paracetamolo: non confonderli.
+2. Ja, er is er een: il secondo er sostituisce la parola apotheek, come il nostro "ce n'è". In italiano diciamo "ce n'è una", e in olandese er ripete la cosa. Questo secondo er lo vedremo più avanti, con tutti gli usi.
+3. Die: vuol dire "quella", ed è per una parola di genere de, come de apotheek. Per la parola het station (lezione 4) si direbbe dat. Ricorda che de e het sono i due articoli del nostro il e la: de per la maggior parte dei nomi, het per circa un terzo, da imparare con ogni parola.
+4. Op zondag, hier is op zondag niets open: op davanti a un giorno vuol dire "di", come "di domenica". Hier (lezione 5) vuol dire "qui". Quando una parola apre la frase, come hier, il verbo resta al secondo posto, e il soggetto viene dopo. La regola completa la vedremo più avanti.
+5. Niets: vuol dire niente. Niets open è "niente aperto". La domanda Niets? è una ripresa, come il nostro "Niente?".
+6. Ook de supermarkt niet?: ook vuol dire anche, e in una frase negativa diventa "neanche". Niet, il "non" che hai già visto nella lezione 3, qui va in fondo alla frase.
+7. Alleen de kerk. Om tien uur: alleen vuol dire solo. Om davanti a un'ora vuol dire "alle": om tien uur è "alle dieci". La parola uur è l'ora; l'orologio lo vedremo più avanti.
+
+ex1:
+- Is er een kerk in de buurt?
+  it: C'è una chiesa qui vicino?
+- De bank is op zondag niet open.
+  it: La banca non è aperta la domenica.
+- Alleen de kerk is open.
+  it: Solo la chiesa è aperta.
+- Ik heb geen koffie.
+  it: Non ho caffè.
+- Om tien uur ben ik hier.
+  it: Alle dieci sono qui.
+
+ex2:
+- Is er een apotheek in de [buurt]?
+  it: C'è una farmacia qui vicino?
+- Is die op zondag [open]?
+  it: È aperta la domenica?
+- [Hier] is op zondag niets open.
+  it: Qui di domenica non è aperto niente.
+- Alleen de [kerk].
+  it: Solo la chiesa.
+- Om [tien] uur.
+  it: Alle dieci.
+
+culture.it:
+Nelle grandi città molti negozi restano aperti anche la domenica. Nei piccoli paesi, soprattutto nelle zone della Bijbelgordel, la cintura protestante del paese, la domenica è un giorno di quiete: la gente va in chiesa e molte saracinesche restano abbassate. Chi ha bisogno di una medicina la domenica, nei paesi, spesso deve cercarla fuori dal paese.
+
+== 11 A1
+numeral: Elfde les
+numeral.pron.it: *èlv*dë lès
+title: Kun je koken?
+title.it: Sai cucinare?
+
+dialogue:
+- Kun je koken?
+  it: Sai cucinare?
+  pron.it: kœn yë *ko‣*kë?
+- Ja, een beetje. Pasta.
+  it: Sì, un po'. Pasta.
+  pron.it: ya‣, ën *be‣*cë. *pa*sta.
+- Kun je de badkamer schoonmaken?
+  it: Puoi pulire il bagno?
+  pron.it: kœn yë dë *bad*kamër *sχo‣n*makë?
+- Natuurlijk.
+  it: Certo.
+  pron.it: na*tü‣r*lëk.
+- En heb je een fiets?
+  it: E hai una bici?
+  pron.it: èn hèp yë ën fits?
+- Nee, ik heb geen fiets.
+  it: No, non ho nessuna bici.
+  pron.it: ne‣, Ik hèp χe‣n fits.
+- Geen fiets? Dank je wel. De volgende, alsjeblieft!
+  it: Nessuna bici? Grazie mille. Il prossimo, per favore!
+  pron.it: χe‣n fits? dank yë wèl. dë *vol*χëndë, alscë*blift*!
+
+sounds.it:
+1. Sch è una s seguita dalla χ di gola: *sχo‣n*makë. Non è la sc di scena: la s resta sorda, e poi arriva la χ, raschiata in fondo alla gola, come nella lezione 1.
+
+notes.it:
+1. Kun je koken?: kunnen vuol dire potere e anche sapere nel senso di saper fare. Kun je è "puoi" o "sai", e la domanda sì/no mette il verbo per primo, come in Is het ver? (lezione 4). Quando je viene dopo il verbo, la -t cade, come in woon je (lezione 5). Le altre forme le vedremo nella lezione di ripasso.
+2. Ja, een beetje: een beetje vuol dire "un po'", alla lettera "un pezzetto". Een è l'articolo della lezione 1, come in een kopje koffie.
+3. De badkamer: badkamer è il bagno, alla lettera "stanza da bagno". La seconda parte, kamer, è la stanza della lezione 8, e il bagno è una stanza come le altre. Schoonmaken vuol dire pulire: nella frase va in fondo, dopo kun je de badkamer. Il perché lo vedremo più avanti.
+4. Natuurlijk vuol dire certo, naturalmente. È una risposta breve, e nel parlato olandese la si dice spesso da sola.
+5. En heb je een fiets?: heb je è "hai", con la stessa caduta della -t di woon je (lezione 5). Heb è la forma dell'avere che hai già sentito nella lezione 3 (ik heb slecht geslapen). Fiets è la bici: la parola è di genere de, e lo vedremo più avanti.
+6. Nee, ik heb geen fiets: geen prende il posto di een, come in geen koekjes (lezione 6). Ik heb geen fiets è "non ho nessuna bici".
+7. Dank je wel. De volgende, alsjeblieft!: dank je wel è la forma con je, da dare del tu: a un amico o a un coinquilino si dice je, e a uno sconosciuto dank u wel (lezione 1). Alsjeblieft è la forma con je di alstublieft (lezione 1): il "per favore" di chi ti chiede o ti porge una cosa. Qui "dank je wel" è un "no, grazie" ironico, e la frase vuol dire "il prossimo!".
+
+ex1:
+- Kun je pasta koken?
+  it: Sai cucinare la pasta?
+- Kun je de fiets schoonmaken?
+  it: Puoi pulire la bici?
+- Natuurlijk heb ik een fiets.
+  it: Certo, ho una bici.
+- Ja, een beetje pasta.
+  it: Sì, un po' di pasta.
+- Alsjeblieft, een kopje koffie.
+  it: Ecco, una tazza di caffè.
+
+ex2:
+- [Kun] je koken?
+  it: Sai cucinare?
+- Ik [heb] geen fiets.
+  it: Non ho nessuna bici.
+- Kun je de badkamer [schoonmaken]?
+  it: Puoi pulire il bagno?
+- Dank je [wel].
+  it: Grazie mille.
+- De [volgende]!
+  it: Il prossimo!
+
+culture.it:
+Nei Paesi Bassi, quando una casa di studenti cerca un nuovo coinquilino, spesso organizza un hospiteren: una serata di colloqui in cui i candidati visitano la casa e rispondono alle domande dei coinquilini, a volte tutti insieme. Le domande sono pratiche: sai cucinare, chi pulisce il bagno, hai una bici. L'aria è più quella di un colloquio di lavoro che di un invito a cena, e chi non convince sente subito la frase: "De volgende, alsjeblieft!", il prossimo, per favore.
+
+aside.it:
+Due settimane sono fatte. Non cercare di ricordare tutto: le parole tornano, e le userai di nuovo nelle prossime lezioni.
+
+== 12 A1
+numeral: Twaalfde les
+numeral.pron.it: *twa‣lv*dë lès
+title: Een roze fiets
+title.it: Una bici rosa
+
+dialogue:
+- Pardon, is dit van u?
+  it: Scusi, è sua questa bici?
+  pron.it: par*don*, Is dIt fan ü?
+- Nee, die is van mijn man.
+  it: No, quella è di mio marito.
+  pron.it: ne‣, di Is fan mèin man.
+- Een roze fiets?
+  it: Una bici rosa?
+  pron.it: ën *ro‣*zë fits?
+- Ja. Een roze fiets steelt niemand, zegt hij.
+  it: Sì. Nessuno ruba una bici rosa, dice lui.
+  pron.it: ya‣. ën *ro‣*zë fit ste‣lt *ni*mant, zèχt hèi.
+- Wat slim! Heeft hij maar één fiets?
+  it: Che furbo! Ha una bici sola?
+  pron.it: wat slIm! he‣ft hèi ma‣r e‣n fits?
+- Nu wel. De andere twee zijn gestolen.
+  it: Ora sì. Le altre due sono state rubate.
+  pron.it: nü wèl. dë *an*dërë twe‣ zèin χë*sto‣*lë.
+- Dan koop ik ook een roze fiets!
+  it: Allora compro anch'io una bici rosa!
+  pron.it: dan ko‣p Ik o‣k ën *ro‣*zë fits!
+
+sounds.it:
+1. La ie di fiets e di niemand è la nostra i, tesa, a labbra distese: fits, *ni*mant. Non è la i rilassata di ik e di dit, che tende quasi a una e chiusa.
+2. La z di zegt e di zijn è dolce, come la s di rosa (lezione 6). Alla fine di zegt la g diventa la χ di gola, e la t resta: zeχt.
+
+notes.it:
+1. Is dit van u?: van u vuol dire "di lei", con la forma di cortesia u (lezione 1). Davanti a un nome, "di lei" diventa uw, "suo": uw fiets, che vedremo più avanti. Jouw, della lezione 9, è il tuo. Dit vuol dire "questo", e nelle domande come is dit? si usa anche con parole di genere de; dat l'hai già incontrato nella lezione 6, e die nella lezione 10.
+2. Die is van mijn man: die è "quella", per una parola di genere de, come la fiets. Van, con una persona, vuol dire "di": van mijn man è "di mio marito". Mijn è "mio" e "mia", e resta uguale per ogni parola: mijn man, mijn fiets.
+3. Een roze fiets steelt niemand: roze vuol dire "rosa", e non cambia. Steelt è la forma per lui o lei di stelen, rubare: come werkt (lezione 9), prende -t. Niemand è "nessuno", e si mette al posto del soggetto.
+4. Zegt hij: zeggen vuol dire dire. Hij è "lui", qui il marito: zegt hij, messo in fondo, è il nostro "dice lui".
+5. Wat slim!: wat è "che", come in wat jammer (lezione 3). Slim vuol dire furbo, sveglio: non è snello, che in olandese è slank.
+6. Heeft hij maar één fiets? Nu wel: maar qui vuol dire "solo", non "ma" (il "ma" lo hai visto nella lezione 5). Nu è "ora", e wel risponde a una domanda negativa o dubbiosa: nu wel, "ora sì".
+7. De andere twee zijn gestolen: zijn è "sono" (lezione 6), e gestolen è il participio di stelen, "rubati". Andere è "altre", e twee è "due" (lezione 6). Il participio e il passato con zijn li vedremo più avanti.
+8. Dan koop ik ook een roze fiets!: kopen vuol dire comprare. Dan, all'inizio della frase, lascia il verbo al secondo posto, e il soggetto viene dopo: la regola completa la vedremo più avanti. Ook è "anche", come in ook de supermarkt (lezione 10).
+
+ex1:
+- Dat is mijn fiets.
+  it: Quella è la mia bici.
+- Die roze fiets is van mijn zus.
+  it: Quella bici rosa è di mia sorella.
+- Niemand steelt mijn fiets.
+  it: Nessuno ruba la mia bici.
+- Wat zegt hij?
+  it: Cosa dice?
+- Ik koop nu een fiets.
+  it: Adesso compro una bici.
+
+ex2:
+- Die is van [mijn] man.
+  it: Quella è di mio marito.
+- [Niemand] steelt mijn fiets.
+  it: Nessuno ruba la mia bici.
+- [Wat] slim!
+  it: Che furbo!
+- De andere [twee] zijn gestolen.
+  it: Le altre due sono state rubate.
+- Dan [koop] ik ook een fiets.
+  it: Allora compro anch'io una bici.
+
+culture.it:
+Nelle città olandesi il furto di biciclette è frequente, e per questo molti usano due lucchetti, uno per la ruota e uno per il telaio. Chi ha una seconda bici, più vecchia e meno bella, la usa per le commissioni in centro: se la rubano, il danno è piccolo, e quella buona resta a casa. Una bici lasciata senza lucchetto, da queste parti, è quasi un invito.
+
+== 13 A1
+numeral: Dertiende les
+numeral.pron.it: *dèr*tindë lès
+title: Half negen
+title.it: Le otto e mezza
+
+dialogue:
+- Koud, hè?
+  it: Fa freddo, vero?
+  pron.it: kaut, hè?
+- Heel koud. Hoe laat is het?
+  it: Molto freddo. Che ore sono?
+  pron.it: he‣l kaut. hu la‣t Is hët?
+- Half negen.
+  it: Le otto e mezza.
+  pron.it: half *ne‣*χë.
+- De winkel gaat om negen uur open.
+  it: Il negozio apre alle nove.
+  pron.it: dë *wIn*kël χa‣t om *ne‣*χë ü‣r *o‣*pë.
+- Dan drinken we eerst koffie.
+  it: Allora prendiamo prima un caffè.
+  pron.it: dan *drIn*kë wë e‣rst *ko*fi.
+- Goed idee. Daar is een café.
+  it: Ottima idea. C'è un bar lì.
+  pron.it: χut i*de‣*. da‣r Is ën ka*fe‣*.
+- Dat gaat om tien uur open.
+  it: Il bar apre alle dieci.
+  pron.it: dat χa‣t om tin ü‣r *o‣*pë.
+- Dan wachten we toch maar bij de winkel. Koud, hè?
+  it: Allora aspettiamo lo stesso davanti al negozio. Fa freddo, vero?
+  pron.it: dan *waχ*të wë toχ ma‣r bèi dë *wIn*kël. kaut, hè?
+
+sounds.it:
+1. La uu di uur è una ü, tra la i e la u, con le labbra in avanti, come nella u tedesca: ü‣r. Non è la u di "uva", né una i di "vino" con le labbra distese.
+2. Idee e café hanno l'accento sull'ultima sillaba, come caffè in italiano: i*de‣*, ka*fe‣*. Non dirle con l'accento sulla prima.
+
+notes.it:
+1. Koud, hè?: koud vuol dire freddo. Hè, alla fine di una frase, chiede conferma: "vero?", "no?". Non è un'esitazione: è una domanda vera, alla quale si risponde.
+2. Hoe laat is het?: hoe l'hai già visto nella lezione 3 (hoe gaat het?). Laat vuol dire tardi, e anche l'ora: hoe laat è "che ore sono?", alla lettera "come tardi è?". Het is laat vuol dire "è tardi".
+3. Half negen: half vuol dire mezzo, e nell'ora guarda verso l'ora successiva: half negen è "le otto e mezza", cioè mezzo verso le nove. Attenzione: half negen è 8.30, mai 9.30; il 9.30 si dice half tien.
+4. De winkel gaat om negen uur open: winkel è il negozio, non la vetrina. Om vuol dire "alle", come in om tien uur (lezione 10). Gaat è la terza persona di gaan, già visto nella lezione 3 (hoe gaat het?), e open resta in fondo: il verbo di questa frase è in due pezzi. Lo vedremo più avanti.
+5. Dan drinken we eerst koffie: dan apre la frase, e il verbo sta al secondo posto, come in dan koop ik ook (lezione 12): dan drinken we. Drinken è bere. Eerst vuol dire "prima" nel senso del tempo: non è il prima della lezione 8, che voleva dire "va bene".
+6. Goed idee. Daar is een café: goed è buono, come in goed (lezione 3), e idee è l'idea. Daar, lì, lo hai visto nella lezione 4. Un café è un bar, dove si beve anche birra: non è il caffè italiano, che in olandese è koffie.
+7. Dat gaat om tien uur open. Dan wachten we toch maar bij de winkel: dat è "quello", come in dat is zes euro (lezione 6). Toch, come nella lezione 9, chiede conferma o dà un senso di "lo stesso": "aspettiamo lo stesso".
+
+ex1:
+- Het is koud en laat.
+  it: Fa freddo ed è tardi.
+- De winkel gaat om half tien open.
+  it: Il negozio apre alle nove e mezza.
+- Dan wachten we bij de bank.
+  it: Allora aspettiamo davanti alla banca.
+- Drinken we een kopje koffie?
+  it: Beviamo una tazza di caffè?
+- Het café gaat om negen uur open.
+  it: Il bar apre alle nove.
+
+ex2:
+- Hoe [laat] is het?
+  it: Che ore sono?
+- [Half] negen.
+  it: Le otto e mezza.
+- De winkel gaat om negen uur [open].
+  it: Il negozio apre alle nove.
+- Dan drinken we [eerst] koffie.
+  it: Allora prendiamo prima un caffè.
+- Goed [idee].
+  it: Ottima idea.
+
+culture.it:
+Nelle città olandesi c'è una sera alla settimana, la koopavond, in cui i negozi restano aperti più a lungo. Il giorno cambia da città a città, e in molte è il giovedì o il venerdì. Quella sera il centro si riempie di gente che fa la spesa dopo il lavoro, e la città è più viva che di giorno.
+
+== 14 A1
+kind: revision
+numeral: Veertiende les
+numeral.pron.it: *ve‣r*tindë lès
+title: Herhaling
+title.it: Ripasso
+
+dialogue:
+- Goedemorgen! Hoe laat is het?
+  it: Buongiorno! Che ore sono?
+  pron.it: χudë*mor*χë! hu la‣t Is hët?
+  refs: 1 3 13
+- Half tien.
+  it: Le nove e mezza.
+  pron.it: half tin.
+  refs: 13
+- Half tien? O, het is laat!
+  it: Le nove e mezza? Oh, è tardi!
+  pron.it: half tin? o‣, ët Is la‣t!
+  refs: 3 13
+- Laat? Waarom?
+  it: Tardi? Perché?
+  pron.it: la‣t? wa*rom*?
+  refs: 9 13
+- Om tien uur ben ik bij de bank.
+  it: Alle dieci devo essere in banca (alle dieci sono presso la banca).
+  pron.it: om tin ü‣r bèn Ig bèi dë bank.
+  refs: 2 4 9 10
+- Om tien uur? Dan heb je een half uur.
+  it: Alle dieci? Allora hai mezz'ora.
+  pron.it: om tin ü‣r? dan hèp yë ën half ü‣r.
+  refs: 10 11 12 13
+- Een half uur? Het is toch half elf?
+  it: Mezz'ora? Non sono le dieci e mezza?
+  pron.it: ën half ü‣r? ët Is toχ half èlf?
+  refs: 7 9 13
+- Nee. Half tien, niet half elf!
+  it: No. Le nove e mezza, non le dieci e mezza!
+  pron.it: ne‣. half tin, nit half èlf!
+  refs: 3 7 13
+- O, dan drinken we eerst koffie!
+  it: Oh, allora prima beviamo un caffè!
+  pron.it: o‣, dan *drIn*kë wë e‣rst *ko*fi!
+  refs: 3 13
+- Goed idee. Maar het is zondag, hè?
+  it: Ottima idea. Ma è domenica, no?
+  pron.it: χut i*de‣*. ma‣r ët I *son*daχ, hè?
+  refs: 3 5 10 13
+
+notes.it:
+Hai fatto sei lezioni, e hai già in mano quasi tutta la grammatica di base: il presente, i pronomi, i possessivi, l'orologio. Non serve impararla a memoria. I dubbi sono normali, e la lingua si fissa parlandola. Qui trovi tutto in ordine, da riprendere quando ti serve.
+
+1. Il presente: radice, radice + t, plurale in -en (lezioni 5, 8, 9)
+
+| Persona | wonen (abitare) | werken (lavorare) |
+|---|---|---|
+| ik (io) | woon | werk |
+| jij (tu) | woont | werkt |
+| u (lei) | woont | werkt |
+| hij, zij, het (lui, lei, esso) | woont | werkt |
+| wij, we (noi) | wonen | werken |
+| jullie (voi) | wonen | werken |
+| zij, ze (loro) | wonen | werken |
+
+Ricorda: per ik basta la radice, cioè l'infinito senza -en: werk da werken, woon da wonen (con la vocale lunga scritta doppia, come vedi sotto). Con jij, u, hij, zij, het si aggiunge -t. Il plurale prende -en, che in fine di parola si dice ë e non si sente la n (minuten, lezione 4). Jullie è il voi, zij e ze sono il loro.
+
+Ortografia, quattro regole:
+- Vocale lunga in sillaba chiusa: si scrive doppia (ik woon, con la n che chiude la sillaba). In sillaba aperta, come nell'infinito wo-nen, si scrive una volta sola.
+- Consonante doppia: nell'infinito zitten si scrive due volte, ma in ik zit una volta sola.
+- v e z diventano f e s alla fine della radice: leven (vivere) fa ik leef; lezen (leggere) fa ik lees.
+- d + t si scrive dt: vindt (lezione 9), houdt (lezione 9), e si dice t.
+
+2. La t dopo je e jij, e la t con u (lezioni 2, 5, 7, 8, 11)
+
+| Frase | Forma | Nota |
+|---|---|---|
+| woon je? | senza t | je dopo il verbo (lezione 5) |
+| ben jij? | senza t | jij dopo il verbo (lezione 2) |
+| heb je? | senza t | je dopo il verbo (lezione 11) |
+| kun je? | senza t | je dopo il verbo (lezione 11) |
+| bent u? | con t | u resta con la t (lezione 7) |
+| woont u? | con t | u resta con la t (lezione 7) |
+| heeft u? | con t | u resta con la t (lezione 8) |
+
+Regola: quando je o jij vengono dopo il verbo, la t cade. Con u la t resta.
+
+3. Hebben e kunnen, per intero (lezioni 3, 8, 11)
+
+| Persona | hebben (avere) | kunnen (potere, sapere) |
+|---|---|---|
+| ik (io) | heb (lezione 3) | kan |
+| jij (tu) | hebt, o heb je (lezione 11) | kunt, o kun je (lezione 11) |
+| u (lei) | heeft (lezione 8) | kunt |
+| hij, zij, het | heeft | kan |
+| wij, we | hebben | kunnen |
+| jullie (voi) | hebben | kunnen |
+| zij, ze (loro) | hebben | kunnen |
+
+Kunnen vuol dire sia potere sia sapere nel senso di saper fare: kun je koken? è "sai cucinare?" (lezione 11).
+
+4. I possessivi, per intero (lezioni 9, 12)
+
+| Persona | Possessivo | Esempio |
+|---|---|---|
+| ik (mio) | mijn | mijn man (lezione 12) |
+| jij (tuo) | jouw, o je | jouw zus (lezione 9) |
+| u (suo, di lei) | uw | uw fiets (completamento) |
+| hij (suo, di lui) | zijn | zijn fiets (completamento) |
+| zij, ze (sua, di lei) | haar | haar werk (lezione 9) |
+| wij (nostro) | ons, onze | ons huis (completamento) |
+| jullie (vostro) | jullie | jullie fiets (completamento) |
+| zij, ze (loro) | hun | hun fiets (completamento) |
+
+Mijn non cambia davanti a nessuna parola: mijn man, mijn fiets. Van vuol dire "di" con una persona o un gruppo di persone: van anderen (lezione 9), van mijn man (lezione 12).
+
+5. Er is, de e het, e hij per le cose (lezioni 4, 8, 10, 12)
+
+| Articolo | Uso | Esempio |
+|---|---|---|
+| een | un, uno, una, per ogni nome | een kopje koffie (lezione 1) |
+| de | la maggior parte dei nomi, e tutti i plurali | de bank (lezione 4), de fiets (lezione 11) |
+| het | circa un terzo dei nomi, da imparare con ogni parola | het station (lezione 4), het geld (lezione 9), het uitzicht (lezione 8) |
+
+Het si dice con la ë debole, ët: è la vocale di minuten (lezione 4), non una e breve.
+
+Per le cose, le parole de diventano hij: de fiets, hij is roze (completamento). Le parole het diventano het. Come oggetto, per le parole de si dice hem: ik neem hem (lezione 8).
+
+Er is vuol dire "c'è", er zijn vuol dire "ci sono" (completamento). Is er een douche? (lezione 8) è "c'è una doccia?". Il secondo er, in Er is er een (lezione 10), ripete il nome: lo vedremo più avanti.
+
+6. Il tempo: l'ora, i giorni (lezioni 10, 13)
+
+| Ora | Olandese | Italiano |
+|---|---|---|
+| 8.30 | half negen | le otto e mezza (lezione 13) |
+| 9.30 | half tien | le nove e mezza |
+| 10.30 | half elf | le dieci e mezza |
+| 9.00 | om negen uur | alle nove (lezione 13) |
+
+Half guarda all'ora successiva: half tien è le nove e mezza, non le dieci e mezza. Om con l'ora vuol dire "alle": om tien uur (lezione 10).
+I giorni, con op davanti (op zondag, lezione 10): maandag (lunedì), dinsdag (martedì), woensdag (mercoledì), donderdag (giovedì), vrijdag (venerdì), zaterdag (sabato), zondag (domenica).
+
+7. I numeri fino a cento (lezioni 6, 8, completamento)
+
+| Numero | Olandese | Numero | Olandese |
+|---|---|---|---|
+| 20 | twintig | 21 | eenentwintig (uno e venti) |
+| 22 | tweeëntwintig | 30 | dertig |
+| 40 | veertig | 50 | vijftig |
+| 60 | zestig | 70 | zeventig |
+| 80 | tachtig | 90 | negentig |
+| 100 | honderd | | |
+
+Le decine vengono dopo l'unità: eenentwintig è "uno e venti". Attenzione alla differenza: één (il numero uno, con l'accento, detto e‣n) e een (l'articolo, detto ën), come in voor één persoon (lezione 8).
+
+Chiudiamo la settimana con una parola che confonde molti italiani: half. Guarda sempre all'ora dopo: half tien sono le nove e mezza.
+
+== 15 A1
+numeral: Vijftiende les
+numeral.pron.it: *vèif*tindë lès
+title: Met mij
+title.it: Sono io
+
+dialogue:
+- Hoi, met mij. Wat doe je?
+  it: Ciao, sono io. Che fai?
+  pron.it: hoi, mèt mèi. wa du yë?
+- Ik kook.
+  it: Cucino.
+  pron.it: I ko‣k.
+- Wat kook je?
+  it: Che cucini?
+  pron.it: wat ko‣k yë?
+- Dat weet ik nog niet. Ik lees het recept.
+  it: Non lo so ancora. Leggo la ricetta.
+  pron.it: dat we‣t Ik noχ nit. Ik le‣s ët rë*ssèpt*.
+- Wat eten we dan vanavond?
+  it: Allora, cosa mangiamo stasera?
+  pron.it: wat *e‣*të wë dan va*na‣*vont?
+- Vanavond eten we brood, denk ik.
+  it: Stasera mangiamo pane, credo.
+  pron.it: va*na‣*vont *e‣*të wë bro‣t, dènk Ik.
+- Brood? Maar je kookt toch?
+  it: Pane? Ma non stai cucinando?
+  pron.it: bro‣t? ma‣r yë ko‣k toχ?
+- Ja. Het recept is in het Frans.
+  it: Sì. La ricetta è in francese.
+  pron.it: ya‣. ët rë*ssèpt* Is In ët frans.
+
+sounds.it:
+1. La r si scrive r anche nella pronuncia figurata, e in olandese si sente sempre, anche in fondo alla parola: recept, Frans. Non saltarla, come fa chi è abituato alle parole italiane che finiscono in vocale.
+
+notes.it:
+1. Hoi, met mij: hoi è il ciao della lezione 2. Al telefono met mij, alla lettera "con me", vuol dire "sono io". Chi risponde dice il proprio nome, come vedrai nella cultura.
+2. Wat doe je?: doen vuol dire fare. Wat doe je? è "che fai?". La forma per jij sarebbe doet, ma con je dopo il verbo la -t cade, come in woon je (lezione 5).
+3. Ik kook, wat kook je: koken vuol dire cucinare, e kook è la forma per ik. Ik kook è "cucino" e insieme "sto cucinando": l'olandese usa lo stesso presente. Con je dopo il verbo la -t cade, come in woon je (lezione 5) e kun je koken (lezione 11).
+4. Dat weet ik nog niet: weten vuol dire sapere un fatto. La forma per ik è weet. Nog niet è "non ancora": nog vuol dire ancora, e lo spiegheremo nella lezione 20. Per le persone e i luoghi si usa un altro verbo, kennen: lo vedremo nella lezione 19.
+5. Ik lees het recept: lezen vuol dire leggere. Recept, la ricetta, è una parola di genere het, come het station (lezione 4): la impari con l'articolo.
+6. Vanavond eten we brood, denk ik: vanavond, stasera, apre la frase, e il verbo eten sta al secondo posto, prima del soggetto we, come in dan drinken we (lezione 13). Denk ik, "credo", è un inciso messo in fondo: anche qui il verbo viene prima del soggetto, denk ik.
+7. Brood? Maar je kookt toch?: maar qui vuol dire "ma", e toch chiede conferma, come in ze houdt toch van geld (lezione 9). Qui je viene prima del verbo, per questo la -t resta: je kookt. Il troncamento della -t vale solo quando je o jij vengono dopo.
+8. Het recept is in het Frans: Frans è il francese, come Italiaans è l'italiano (lezione 2). Davanti alla lingua l'olandese mette het, e l'italiano no: in het Frans è "in francese". La battuta è questa: la ricetta è in francese, e chi cucina non lo legge.
+
+ex1:
+- Ik lees het recept.
+  it: Leggo la ricetta.
+- Wat eten we vanavond?
+  it: Cosa mangiamo stasera?
+- Dat weet ik niet.
+  it: Non lo so.
+- Ik kook niet.
+  it: Non cucino.
+- Wat doe je nu?
+  it: Che fai adesso?
+
+ex2:
+- [Wat] kook je?
+  it: Che cucini?
+- Ik [lees] het recept.
+  it: Leggo la ricetta.
+- Dat weet ik [nog niet].
+  it: Non lo so ancora.
+- [Vanavond] eten we brood.
+  it: Stasera mangiamo pane.
+- Het recept is in [het] Frans.
+  it: La ricetta è in francese.
+
+culture.it:
+Nei Paesi Bassi, al telefono, non si dice "pronto": si risponde con il proprio cognome, preceduto da met. Chi risponde dice "Met Jansen", e chi chiama capisce subito di avere il numero giusto. Tra parenti e amici, chi chiama può dire solo il proprio nome, come nella nostra scena: met mij, sono io. Il nome arriva prima di qualsiasi saluto: al telefono, dunque, si sente Met Jansen.
+
+== 16 A1
+numeral: Zestiende les
+numeral.pron.it: *zè*stindë lès
+title: Elke ochtend
+title.it: Ogni mattina
+
+dialogue:
+- Hoe laat sta je op?
+  it: A che ora ti alzi?
+  pron.it: hu la‣t sta‣ yë op?
+- Om zes uur.
+  it: Alle sei.
+  pron.it: om zès ü‣r.
+- Elke dag?
+  it: Ogni giorno?
+  pron.it: *èl*kë daχ?
+- Meestal. Ik fiets altijd een uur naar mijn werk.
+  it: Di solito. Vado sempre in bici al lavoro, per un'ora.
+  pron.it: *me‣*stal. Ik fits *al*tèit ën ü‣r na‣r mèin wèrk.
+- Slaap je nooit uit?
+  it: Non dormi mai fino a tardi?
+  pron.it: sla‣p yë no‣it œit?
+- Nooit. Mijn hond wil om zes uur naar buiten.
+  it: Mai. Il mio cane vuole uscire alle sei.
+  pron.it: no‣it. mèin hont wIl om zès ü‣r na‣r *bœi*të.
+- Dan is je hond de baas, hè?
+  it: Allora il cane comanda, no?
+  pron.it: dan Is yë hon dë ba‣s, hè?
+
+sounds.it:
+1. La ui di buiten è il dittongo œi, lo stesso di uit (lezione 2) e di uitzicht (lezione 8): la u si arrotonda e la voce scivola verso la i. Non dirla come "ui" italiano.
+
+notes.it:
+1. Hoe laat sta je op?: opstaan vuol dire alzarsi. Il verbo si spezza in due parti: sta è al secondo posto, e op va in fondo alla frase quando il verbo è intero. Con je dopo il verbo la -t cade: staat diventa sta je, come woon je (lezione 5). Lo vedremo per intero nella lezione 27.
+2. Om zes uur: om con un'ora vuol dire "alle", come in om tien uur (lezione 10). Hoe laat (lezione 13) chiede l'ora: "a che ora".
+3. Elke dag: ogni giorno. Elke va con le parole de, come dag; con le parole het si dice elk: elk kopje (kopje, lezione 1, è una parola het).
+4. Meestal, altijd, nooit: di solito, sempre, mai. Altijd e meestal stanno dopo il verbo: ik fiets altijd. Nooit, in una domanda, va prima della parte del verbo che si spezza: slaap je nooit uit?
+5. Ik fiets altijd een uur naar mijn werk: fietsen vuol dire andare in bici, e viene da fiets (lezione 11). Una durata si dice senza preposizione, come een jaar (lezione 5): een uur è "per un'ora". Naar vuol dire "verso", e werk è il lavoro (lezione 5).
+6. Mijn hond wil ... naar buiten: wil è "vuole", dal verbo willen, che vedremo nella lezione 24. Buiten da solo vuol dire fuori, e con naar diventa "verso fuori".
+7. Dan is je hond de baas, hè?: baas è il capo, una parola di genere de. Hè, in fondo, chiede conferma (lezione 13). La battuta: è il cane a decidere a che ora ci si alza.
+
+ex1:
+- Hoe laat sta je op?
+  it: A che ora ti alzi?
+- Ik fiets altijd naar mijn werk.
+  it: Vado sempre al lavoro in bici.
+- Ik slaap nooit uit.
+  it: Non dormo mai fino a tardi.
+- Elke dag, hè?
+  it: Ogni giorno, eh?
+- Mijn hond wil naar buiten.
+  it: Il mio cane vuole uscire.
+
+ex2:
+- [Elke] dag fiets ik naar mijn werk.
+  it: Ogni giorno vado in bici al lavoro.
+- Ik fiets [altijd] een uur.
+  it: Vado in bici sempre per un'ora.
+- Slaap je [nooit] uit?
+  it: Non dormi mai fino a tardi?
+- Hoe [laat] sta je op?
+  it: A che ora ti alzi?
+- Mijn hond wil om zes uur naar [buiten].
+  it: Il mio cane vuole uscire alle sei.
+
+culture.it:
+Nei Paesi Bassi si va in bicicletta con qualsiasi tempo. Ci sono più biciclette che abitanti, e chi pedala sotto la pioggia porta un paio di pantaloni antipioggia, o un impermeabile lungo fino alle ginocchia. La bici serve per la scuola, per il lavoro e per la spesa: in una famiglia ce ne sono spesso due o tre, e ognuno ha la sua.
+
+== 17 A1
+numeral: Zeventiende les
+numeral.pron.it: *ze‣*vëntindë lès
+title: Bij de huisarts
+title.it: Dal medico di famiglia
+
+dialogue:
+- Wat is er aan de hand?
+  it: Che cosa le succede? (che cosa c'è sulla mano?)
+  pron.it: wat Is ër a‣n dë hant?
+- Mijn rug doet pijn.
+  it: Mi fa male la schiena.
+  pron.it: mèin rœχ dut pèin.
+- Gaat u maar liggen. Doet het hier pijn?
+  it: Si stenda pure. Le fa male qui?
+  pron.it: χa‣t ü ma‣r *lI*χë. dut ët hi‣r pèin?
+- Ja.
+  it: Sì.
+  pron.it: ya‣.
+- En hier?
+  it: E qui?
+  pron.it: èn hi‣r?
+- Heel erg.
+  it: Moltissimo.
+  pron.it: he‣l èrχ.
+- U moet rust nemen. Twee weken geen tuinwerk.
+  it: Deve riposare. Due settimane niente lavoro in giardino.
+  pron.it: ü mut rœst *ne‣*më. twe‣ *we‣*kë χe‣n *tœin*wèrk.
+- Maar dokter, ik ben tuinman.
+  it: Ma dottore, io sono giardiniere.
+  pron.it: ma‣r *dok*tër, Ig bèn *tœin*man.
+
+sounds.it:
+1. La ui di tuin è œi, il dittongo di uit (lezione 2): la u si arrotonda e la voce scivola verso la i. La uu di uur (lezione 10) è invece ü, una u tesa con le labbra in avanti. Sono due suoni diversi: tuin si dice tœin, uur si dice ü‣r.
+
+notes.it:
+1. Wat is er aan de hand?: is er vuol dire "c'è", come in Is er een douche? (lezione 8). Aan de hand, alla lettera "sulla mano", è un modo fisso per "che cosa succede?". Il medico lo chiede a chi è entrato con un problema.
+2. Mijn rug doet pijn: rug è la schiena, una parola di genere de. Doen vuol dire fare, ma con pijn significa "fare male": pijn doen. In olandese il soggetto è la parte che fa male: mijn rug doet pijn, "la mia schiena fa male".
+3. Gaat u maar liggen: maar qui vuol dire "pure", e rende l'ordine più gentile. Liggen è "stendersi", o "essere sdraiati". Gli ordini cortesi come questo li vedremo nella lezione 29.
+4. Doet het hier pijn?: het è un soggetto vago, che non indica una cosa precisa: "fa male". Hier, qui, è la parola della lezione 5, e il verbo sta al secondo posto, come sempre nella frase principale.
+5. Heel erg: heel vuol dire "molto", come in heel mooi (lezione 5); erg, qui, rafforza. Insieme sono "moltissimo".
+6. U moet rust nemen: moet, deve, sta al secondo posto, e quando un verbo ne segue un altro, il secondo va in fondo alla frase: nemen, prendere, è l'ultima parola. Lo vedremo nella lezione 24. Rust è il riposo.
+7. Twee weken geen tuinwerk: geen sostituisce un articolo o un een davanti a un nome, come in geen koekjes (lezione 6) e geen fiets (lezione 11). Niet, invece, nega verbi, aggettivi e avverbi: dat is niet zo duur (lezione 7), con niet prima di zo. Qui tuinwerk non ha nessun articolo, quindi si usa geen.
+8. Ik ben tuinman: il mestiere si dice senza articolo, come in italiano: ik ben tuinman, "sono giardiniere". La battuta: il medico vieta proprio il lavoro di cui vive.
+
+ex1:
+- Ik heb pijn in mijn rug.
+  it: Ho male alla schiena.
+- Dat is niet zo erg.
+  it: Non è così grave.
+- Gaat u maar liggen.
+  it: Si stenda pure.
+- Ik moet naar mijn werk.
+  it: Devo andare al lavoro.
+- Ik heb geen koffie.
+  it: Non ho caffè.
+
+ex2:
+- Mijn [rug] doet pijn.
+  it: Mi fa male la schiena.
+- Gaat u maar [liggen].
+  it: Si stenda pure.
+- Twee weken [geen] tuinwerk.
+  it: Due settimane niente lavoro in giardino.
+- Ik ben [tuinman].
+  it: Sono giardiniere.
+- Het doet [heel erg] pijn.
+  it: Mi fa molto male.
+
+culture.it:
+Nei Paesi Bassi il primo medico da cercare è l'huisarts, il medico di famiglia. Ogni persona è iscritta presso uno, e per quasi tutto si comincia da lui: il raffreddore, il mal di schiena, un dolore che non passa. Il medico di famiglia visita, consiglia e decide se serve uno specialista; spesso dà più consigli che ricette. Per un appuntamento si chiama lo studio del medico, come si farebbe da noi con un ambulatorio.
+
+aside.it:
+Tre settimane sono fatte. Le cose cominciano a sistemarsi da sole: non avere fretta, e continua a leggere ad alta voce.
+
+== 18 A1
+numeral: Achttiende les
+numeral.pron.it: *aχ*tindë lès
+title: Zullen we uitgaan?
+title.it: Usciamo?
+
+dialogue:
+- Zullen we vanavond uitgaan?
+  it: Usciamo stasera?
+  pron.it: *zœ*lë wë va*na‣*vont *œit*χan?
+- Waar naartoe?
+  it: Dove andiamo?
+  pron.it: wa‣r nar*tu*?
+- Zullen we Bram en Lotte uitnodigen?
+  it: Invitiamo Bram e Lotte?
+  pron.it: *zœ*lë wë bram èn *lo*të *œit*nodëχë?
+- Hem? Hij praat de hele avond over zijn auto.
+  it: Lui? Parla tutta la sera della sua macchina.
+  pron.it: hèm? hèi pra‣ dë *he‣*lë *a‣*vont *o‣*vër zèin *au*to.
+- En haar?
+  it: E lei?
+  pron.it: èn ha‣r?
+- Zij praat ook over zijn auto.
+  it: Anche lei parla della sua macchina.
+  pron.it: zèi pra‣t o‣k *o‣*vër zèin *au*to.
+- Dan nodigen we ze maar niet uit.
+  it: Allora non li invitiamo.
+  pron.it: da *no‣*dëχë wë zë ma‣r nit œit.
+- Goed. Dan praat jij de hele avond over jouw auto.
+  it: Bene. Allora parli tu tutta la sera della tua macchina.
+  pron.it: χut. dan pra‣t yèi dë *he‣*lë *a‣*vont *o‣*vër yau *au*to.
+
+sounds.it:
+1. La au di auto è lo stesso dittongo della ou di houdt (lezione 9): un suono solo, scritto in due modi, come ij ed ei nella lezione 2. Si dice au, come nella parola italiana "auto".
+
+notes.it:
+1. Zullen we vanavond uitgaan?: zullen we è una formula fissa per proporre: "usciamo?", "che ne dici se...?". Uitgaan vuol dire uscire. Il verbo si spezza in due parti quando è coniugato: uit va in fondo alla frase. Lo vedremo nella lezione 27.
+2. Waar naartoe?: naartoe è "verso", e waar "dove": waar naartoe è "dove, verso dove?". Naar, verso, l'hai già incontrato nella lezione 16.
+3. Zullen we Bram en Lotte uitnodigen?: uitnodigen vuol dire invitare. Come uitgaan, il verbo si spezza quando è coniugato: nodigen we ... uit (vedi la nota 7).
+4. Hem? / En haar?: hem e haar sono le forme del complemento, "lui" e "lei" quando stanno da soli o come oggetto: l'hai già visto con ik neem hem (lezione 8). Hij e zij, invece, sono i soggetti: "lui parla", "lei parla".
+5. Hij praat de hele avond over zijn auto: praten over vuol dire parlare di. Hele è la forma di heel davanti a un nome, come in de hele avond, "tutta la sera". Zijn, "suo", non cambia davanti a auto.
+6. Zij praat ook over zijn auto: ook, anche, sta dopo il soggetto. È la stessa parola della lezione 10, ook de supermarkt.
+7. Dan nodigen we ze maar niet uit: ze è la forma debole di hen, "li, loro", per più persone: si dice ze, senza enfasi. Hen, la forma piena, si dice quando si mette in risalto. Uit va in fondo, come in uitgaan.
+8. Dan praat jij de hele avond over jouw auto: jouw è il tuo (lezione 9), e jij è il soggetto. La battuta: non invitano Bram e Lotte perché lui parla sempre della sua auto; ma la serata, a sentire l'amico, sarà uguale, perché anche chi propone di uscire parla solo della sua.
+
+ex1:
+- Zullen we koffie drinken?
+  it: Beviamo un caffè?
+- Ik praat niet over mijn auto.
+  it: Non parlo della mia macchina.
+- Hij praat over zijn auto.
+  it: Parla della sua macchina.
+- Zij praat de hele avond.
+  it: Lei parla tutta la sera.
+- En jij? Ook?
+  it: E tu? Anche tu?
+
+ex2:
+- Zullen we vanavond [uitgaan]?
+  it: Usciamo stasera?
+- [Waar] naartoe?
+  it: Dove andiamo?
+- Zullen we Bram en Lotte [uitnodigen]?
+  it: Invitiamo Bram e Lotte?
+- Hij praat de hele avond over [zijn] auto.
+  it: Parla tutta la sera della sua macchina.
+- Zij praat [ook] over zijn auto.
+  it: Anche lei parla della sua macchina.
+
+== 19 A1
+numeral: Negentiende les
+numeral.pron.it: *ne‣*χëntindë lès
+title: Gefeliciteerd!
+title.it: Auguri!
+
+dialogue:
+- Gefeliciteerd! Hoe oud ben je nu?
+  it: Auguri! Quanti anni compi? (quanti anni sei adesso?)
+  pron.it: χëfelissi*te‣rt*! hu aud bèn yë nü?
+- Ik ben veertig. Ga zitten, in de kring.
+  it: Ne ho quaranta. Siediti, nel cerchio.
+  pron.it: Ig bèn *ve‣r*tëχ. χa‣ *zI*të, In dë krIng.
+- Gefeliciteerd!
+  it: Auguri!
+  pron.it: χëfelissi*te‣rt*!
+- Waarmee?
+  it: Per che cosa?
+  pron.it: war*me‣*?
+- Met ... uw vrouw?
+  it: Per... sua moglie?
+  pron.it: mèt... üu vrau?
+- Mijn vrouw? Ik ben de buurman.
+  it: Mia moglie? Io sono il vicino di casa.
+  pron.it: mèin vrau? Ig bèn dë *bü‣r*man.
+- O, sorry. Gefeliciteerd met uw buurvrouw, dan!
+  it: Oh, scusi. Allora auguri alla sua vicina!
+  pron.it: o‣, *so*ri. χëfelissi*te‣rt* mèt üu *bü‣r*vrau, dan!
+- Dank u wel! U kent de Nederlandse gewoontes goed.
+  it: Grazie mille! Lei conosce bene le usanze olandesi.
+  pron.it: dank ü wèl! ü kèn dë *ne‣*dërlandsë χë*wo‣n*tës χut.
+
+sounds.it:
+1. La uu di buurman non è la u di "uva": è la ü di uur (lezione 13), tra la i e la u, con le labbra in avanti. Buurman si legge *bü‣r*man.
+2. L'accento di gefeliciteerd cade sull'ultima sillaba piena, teerd: χëfelissi*te‣rt*, con la t finale che si dice t, come in goed (lezione 3).
+
+notes.it:
+1. Gefeliciteerd!: vuol dire "auguri!" e "complimenti!", per un compleanno o per ogni occasione lieta. Chi compie gli anni è jarig: wie is er jarig?, chi festeggia? Gefeliciteerd con una persona vuol dire "auguri a" quella persona: gefeliciteerd met uw buurvrouw.
+2. Hoe oud ben je nu?: oud vuol dire "vecchio", ma è anche la parola che si usa per chiedere l'età: hoe oud è "quanti anni", a chiunque. Nu, adesso, l'hai già incontrato nella lezione 12 (nu wel).
+3. Ik ben veertig: l'età si dice con zijn, essere, non con avere: ik ben veertig, "ho quaranta anni", mai "ik heb veertig". Per un ragazzo di dieci anni: ik ben tien.
+4. Ga zitten, in de kring: zitten vuol dire sedere, e ga zitten è l'invito "siediti", come un ordine gentile. Kring è il cerchio, una parola di genere de: in de kring è "nel cerchio". Gli ordini li vedremo bene nella lezione 29.
+5. Waarmee?: è la domanda "con che cosa?", "per che cosa?", con waar- e met. Lo vedremo nella lezione 59, con le altre parole che si formano così. Qui basta capire che chiede il motivo.
+6. Ik ben de buurman: il vicino di casa. Confrontalo con la lezione 17: ik ben tuinman, senza articolo, perché è il mestiere. Qui invece c'è de, perché buurman è una persona precisa: il vicino.
+7. Gefeliciteerd met uw buurvrouw: uw è la forma di u (lezione 12): "suo", "di lei", come nel dare del lei. Met, con, qui indica la persona a cui vanno gli auguri.
+8. U kent de Nederlandse gewoontes goed: kennen vuol dire conoscere una persona, un luogo, una cosa che hai visto o provato: lo distingui da weten, sapere un fatto (lezione 15). Gewoonte è usanza, abitudine. Nederlandse, olandese, prende la -e perché è preceduto da de: de Nederlandse gewoontes.
+
+ex1:
+- Gefeliciteerd!
+  it: Auguri!
+- Hoe oud ben je?
+  it: Quanti anni hai?
+- Ik ben veertig.
+  it: Ho quarant'anni.
+- Ga zitten.
+  it: Siediti.
+- Dank je wel!
+  it: Grazie mille!
+
+ex2:
+- [Gefeliciteerd]!
+  it: Auguri!
+- Hoe [oud] ben je nu?
+  it: Quanti anni hai adesso?
+- Ik [ben] veertig.
+  it: Ho quarant'anni.
+- [Ga] zitten, in de kring.
+  it: Siediti, nel cerchio.
+- U [kent] de Nederlandse gewoontes goed.
+  it: Lei conosce bene le usanze olandesi.
+
+culture.it:
+Nei Paesi Bassi il compleanno si festeggia spesso in casa, con i parenti e gli amici, e gli invitati si siedono in cerchio. Chi arriva fa il giro del cerchio e dà la mano a tutti, uno dopo l'altro, e a ciascuno fa gli auguri per il festeggiato: gefeliciteerd met je moeder, auguri per tua madre; gefeliciteerd met je buurman, auguri per il tuo vicino. Così nessuno viene dimenticato. Di solito si offre il caffè con una fetta di torta.
+
+== 20 A1
+numeral: Twintigste les
+numeral.pron.it: *twIn*tëχstë lès
+title: Hebben we nog brood?
+title.it: Abbiamo ancora pane?
+
+dialogue:
+- Hebben we nog brood?
+  it: Abbiamo ancora pane?
+  pron.it: *hè*bë wë noχ bro‣t?
+- Nee, er is geen brood meer.
+  it: No, non c'è più pane.
+  pron.it: ne‣, ër Is χe‣n bro‣t me‣r.
+- En melk?
+  it: E latte?
+  pron.it: èn mèlk?
+- Ook geen melk.
+  it: Neanche il latte.
+  pron.it: o‣k χe‣n mèlk.
+- Is er nog kaas?
+  it: C'è ancora formaggio?
+  pron.it: Is ër noχ ka‣s?
+- Een beetje.
+  it: Un po'.
+  pron.it: ën *be‣*cë.
+- Hoeveel?
+  it: Quanto?
+  pron.it: hu*ve‣l*?
+- Niet veel. En hij is groen.
+  it: Non molto. Ed è verde.
+  pron.it: nit fe‣l. èn hèi Is χrun.
+
+sounds.it:
+1. La g di groen è la χ di gola della lezione 1, e la oe si dice u: χrun. Non è la g di "gatto".
+2. In kaas la aa è lunga e chiara, ka‣s, e si distingue dalla a breve di dank (lezione 1): la voce resta sulla a più a lungo.
+
+notes.it:
+1. Hebben we nog brood?: hebben vuol dire avere, e we è "noi": "abbiamo". Nog vuol dire "ancora", e si mette prima del nome: nog brood, "ancora pane". Lo stesso nog torna nella domanda sul formaggio.
+2. Er is geen brood meer: geen, come in geen koekjes (lezione 6), sostituisce l'articolo; meer, dopo il nome, vuol dire "più". Geen ... meer è quindi "non ... più": non c'è più pane. Con un verbo si usa niet meer: ik woon hier niet meer, "non vivo più qui".
+3. En melk? Ook geen melk: ook (anche, lezione 10) qui si unisce a geen, e vuol dire "neanche". Melk non prende articolo né plurale: la melk non si conta, come il pane o il formaggio.
+4. Is er nog kaas? Een beetje: er is, "c'è", come nella lezione 8. Een beetje, "un po'", l'hai già visto nella lezione 11 (ja, een beetje). Kaas è una parola de, e al suo posto si usa hij.
+5. Hoeveel?: vuol dire "quanto?", e la risposta di chi non ne ha molto è niet veel, "non molto". Veel vuol dire molto; il contrario è weinig, poco.
+6. En hij is groen: hij sostituisce kaas, perché è una parola di genere de (lezione 14), e groen vuol dire verde. La battuta: il formaggio è diventato verde, cioè ammuffito. "Niet veel" suona tranquillo, ma il formaggio no.
+7. Nog e weer: il nostro "ancora" ha due parole in olandese. Nog è "ancora" nel senso di "ancora un po'" o "ancora in corso"; weer è "di nuovo", come in "ci risiamo", e lo vedremo nella lezione 27.
+
+ex1:
+- Ik heb geen melk meer.
+  it: Non ho più latte.
+- Is er nog brood?
+  it: C'è ancora pane?
+- Hoeveel kaas is er?
+  it: Quanto formaggio c'è?
+- Dat is niet veel.
+  it: Non è molto.
+- Het brood is groen.
+  it: Il pane è verde.
+
+ex2:
+- Er is geen brood [meer].
+  it: Non c'è più pane.
+- Is er [nog] kaas?
+  it: C'è ancora formaggio?
+- [Hoeveel] kaas is er?
+  it: Quanto formaggio c'è?
+- Niet [veel].
+  it: Non molto.
+- Het brood is [groen].
+  it: Il pane è verde.
+
+culture.it:
+Il formaggio olandese si vende secondo la stagionatura: jong (giovane), belegen (stagionato) e oud (vecchio). Il gouda, il più noto, è spesso una forma tonda o un blocco di pasta gialla, e lo si compra a fette sottili al banco. Ad Alkmaar, in estate, c'è ancora il mercato del formaggio, con i portatori che trasportano le forme su una barella di legno: una tradizione che si vede ancora, anche se il mercato è soprattutto per i turisti.
+
+== 21 A1
+kind: revision
+numeral: Eenentwintigste les
+numeral.pron.it: enën*twIn*tëχstë lès
+title: Herhaling
+title.it: Ripasso
+
+dialogue:
+- Hoi, met mij. Kun je zondag?
+  it: Ciao, sono io. Ce la fai domenica? (puoi domenica?)
+  pron.it: hoi, mèt mèi. kœn yë *zon*daχ?
+  refs: 10 11 15
+- Ja. Hoe laat?
+  it: Sì. A che ora?
+  pron.it: ya‣. hu la‣t?
+  refs: 1 13
+- Om half elf. Hij is tien!
+  it: Alle dieci e mezza. Compie dieci anni! (lui è dieci)
+  pron.it: om half èlf. hèi Is tin!
+  refs: 10 12 13 14 19
+- Tien? Wat leuk! Wat koop ik?
+  it: Dieci? Che bello! Cosa compro?
+  pron.it: tin? wat lø‣k! wat ko‣p Ik?
+  refs: 3 9 12
+- Niets. Of een beetje kaas.
+  it: Niente. O un po' di formaggio.
+  pron.it: nits. of ën *be‣*cë ka‣s.
+  refs: 6 10 11 20
+- Kaas? Houdt hij van kaas?
+  it: Formaggio? Gli piace il formaggio?
+  pron.it: ka‣s? haut hèi van ka‣s?
+  refs: 9 20
+- Heel veel. En van brood.
+  it: Tantissimo. E il pane.
+  pron.it: he‣l ve‣l. èn van bro‣t.
+  refs: 5 9 15 20
+- En melk?
+  it: E il latte?
+  pron.it: èn mèlk?
+  refs: 1 20
+- Nee, hij drinkt geen melk.
+  it: No, non beve latte.
+  pron.it: ne‣, hèi drInkt χe‣n mèlk.
+  refs: 6 11 12 13
+- Goed, zondag om half elf. Gefeliciteerd!
+  it: Bene, domenica alle dieci e mezza. Auguri!
+  pron.it: χut, *zon*daχ om half èlf. χëfelissi*te‣rt*!
+  refs: 3 10 13 14 19
+- Dank je wel. Maar ik ben het niet: het is mijn hond!
+  it: Grazie. Ma il compleanno non è mio: è del mio cane! (ma non sono io, è il mio cane)
+  pron.it: dank yë wèl. ma‣r Ig bèn ët nit: ët Is mèin hont!
+  refs: 2 3 11 12 16
+
+notes.it:
+Hai fatto sei lezioni, dalla 15 alla 20: il presente, la domanda, il complemento, la negazione, il tempo e il cibo. Non serve impararle a memoria. Le tabelle qui sotto ti servono quando hai un dubbio, e il dubbio è normale: la lingua si fissa parlandola.
+
+1. Ordine delle parole I: il verbo al secondo posto (lezioni 4, 10, 12, 13, 15, 16)
+
+| Prima della frase | Verbo | Resto della frase | Lezione |
+|---|---|---|---|
+| Ik woon in Leiden. (soggetto) | woon | in Leiden | 5 |
+| Vanavond eten we brood. (tempo) | eten | we brood | 15 |
+| Dan drinken we koffie. (dan) | drinken | we koffie | 13 |
+| Hier is op zondag niets open. (luogo) | is | op zondag niets open | 10 |
+| Dan koop ik ook een fiets. (dan) | koop | ik ook een fiets | 12 |
+
+Quando la frase si apre con una parola diversa dal soggetto, il soggetto viene dopo il verbo. Nella domanda sì/no il verbo va per primo: Is het ver? (4), Kun je koken? (11).
+Con je o jij dopo il verbo, la -t cade: woon je (5), ben jij (2), kun je (11). Con u la -t resta: woont u (7). Quando je viene prima del verbo, la -t resta: Maar je kookt toch? (15).
+
+2. niet e geen (lezioni 3, 6, 7, 9, 11, 15, 20)
+
+| Esempio | Lezione | Regola |
+|---|---|---|
+| Ik heb geen fiets. | 11 | geen prende il posto di een |
+| Het zijn geen koekjes. | 6 | geen davanti a un nome plurale |
+| Er is geen brood meer. | 20 | geen davanti a un nome, con meer |
+| Niet zo goed. | 3 | niet davanti a zo e a un aggettivo |
+| Dat is niet zo duur. | 7 | niet davanti a zo |
+| Niet echt. | 9 | niet davanti a un avverbio |
+| Dat weet ik niet. | 15 | niet alla fine della frase |
+
+Regola: geen sostituisce un een o un nome senza articolo; niet nega tutto il resto, verbi, aggettivi e avverbi, e va alla fine della frase o prima della parola che nega.
+
+3. I pronomi personali, soggetto e complemento (lezioni 1, 2, 5, 6, 8, 15, 18)
+
+| Persona | Soggetto (forma piena / debole) | Complemento (forma piena / debole) | Esempio |
+|---|---|---|---|
+| io | ik / ik | mij / me | Met mij (15); me è completamento |
+| tu | jij / je | jou / je | Ben jij Italiaans? (2) |
+| lei (formale) | u / u | u / u | Dank u wel (1) |
+| lui | hij / hij | hem / hem | Ik neem hem (8); Hem? (18) |
+| lei (ella) | zij / ze | haar / haar | En haar? (18); Zij praat (18) |
+| esso | het / het | het / het | Is het ver? (4) |
+| noi | wij / we | ons / ons | completamento |
+| voi | jullie / jullie | jullie / jullie | completamento |
+| loro | zij / ze | hen / ze | Dan nodigen we ze (18) |
+
+La forma piena si usa da sola, in risposta, o dopo una preposizione (met mij, 15; naar mij, completamento). La forma debole si usa dentro la frase, senza enfasi: dan nodigen we ze maar niet uit (18).
+
+4. Le parole di frequenza e il loro posto: altijd, meestal, nooit, ook, nog (lezioni 10, 16, 18, 20)
+
+| Parola | Significato | Esempio | Posto | Lezione |
+|---|---|---|---|---|
+| altijd | sempre | Ik fiets altijd een uur. | dopo il verbo | 16 |
+| meestal | di solito | Meestal. | da solo, in risposta | 16 |
+| nooit | mai | Slaap je nooit uit? | prima della parte del verbo che si spezza | 16 |
+| ook | anche | Zij praat ook over zijn auto. | dopo il soggetto | 18 |
+| ook geen / ook niet | neanche | Ook geen melk. | con geen o niet | 10, 20 |
+| nog | ancora | Is er nog kaas? | prima del nome o del soggetto | 20 |
+
+5. Le parole interrogative (lezioni 3, 9, 13, 18, 19, 20)
+
+| Parola | Significato | Esempio | Lezione |
+|---|---|---|---|
+| wat | che, che cosa | Wat doet jouw zus? | 9 |
+| waar naartoe | dove, verso dove | Waar naartoe? | 18 |
+| waarmee | con che cosa, per che cosa | Waarmee? | 19 |
+| waarom | perché | Waarom niet? | 9 |
+| hoe | come | Hoe gaat het? | 3 |
+| hoe laat | a che ora | Hoe laat is het? | 13 |
+| hoe oud | quanti anni | Hoe oud ben je nu? | 19 |
+| hoeveel | quanto | Hoeveel kaas? | 20 |
+| wie | chi | completamento: Wie is dat? | completamento |
+| wanneer | quando | completamento: Wanneer? | completamento |
+
+Le parole interrogative aprono la frase, e il verbo va al secondo posto: Wat kook je? (15), Hoe laat sta je op? (16).
+
+6. kennen e weten (lezioni 15, 19)
+
+| Persona | weten (sapere un fatto) | kennen (conoscere una persona, un luogo) |
+|---|---|---|
+| ik | weet | ken (completamento) |
+| jij | weet | kent (completamento) |
+| u | weet | kent |
+| hij, zij, het | weet | kent (completamento) |
+| wij, jullie, zij | weten | kennen (completamento) |
+
+Esempi: Dat weet ik nog niet (15); U kent de Nederlandse gewoontes goed (19). Tra i due verbi la differenza è questa: weten per un fatto, kennen per una persona, un luogo, una cosa che conosci per esperienza.
+
+7. Ordinali e date (lezioni 15 e 21 nei titoli; completamento per il resto)
+
+| Ordinale | Olandese | Uso |
+|---|---|---|
+| primo | de eerste | completamento: de eerste mei |
+| secondo | de tweede | completamento: de tweede les |
+| quindicesimo | vijftiende | Vijftiende les (titolo della lezione 15) |
+| ventunesimo | eenentwintigste | Eenentwintigste les (titolo di questa lezione) |
+
+Per la data si usa op più il giorno e il mese: op drie mei, op de eerste mei (completamento). I giorni della settimana si dicono con op: op zondag (10).
+
+Chiudiamo la settimana con l'augurio che sentirai più spesso, a ogni compleanno: Gefeliciteerd!
+
+== 22 A1
+numeral: Tweeëntwintigste les
+numeral.pron.it: tweën*twIn*tëχstë lès
+title: Deze of die?
+title.it: Queste o quelle?
+
+dialogue:
+- Wat kosten deze appels?
+  it: Quanto costano queste mele?
+  pron.it: wat *ko*stë *de‣*zë *a*pëls?
+- Die rode? Twee euro vijftig per kilo.
+  it: Quelle rosse? Due euro e cinquanta al chilo.
+  pron.it: di *ro‣*dë? twe‣ *ø‣*ro *vèif*tëχ pèr *ki*lo.
+- En die groene?
+  it: E quelle verdi?
+  pron.it: èn di *χru*në?
+- Ook twee vijftig.
+  it: Anche due e cinquanta.
+  pron.it: o‣k twe‣ *vèif*tëχ.
+- Wat is dit?
+  it: Che cos'è questo?
+  pron.it: wat Is dIt?
+- Dat is rabarber.
+  it: È rabarbaro.
+  pron.it: dat Is ra*bar*bër.
+- Welke appels zijn het lekkerst?
+  it: Quali mele sono le più buone?
+  pron.it: *wèl*kë *a*pël sèin ët *lè*kërst?
+- Eerlijk gezegd?
+  it: A dire il vero?
+  pron.it: *e‣r*lëk χë*zèχt*?
+- Ja, graag.
+  it: Sì, volentieri.
+  pron.it: ya‣, χra‣χ.
+- Die van de buurman.
+  it: Quelle del vicino.
+  pron.it: di van dë *bü‣r*man.
+
+sounds.it:
+1. La e di deze è lunga e chiusa, come la ee di zee (lezione 8): de‣zë. La z è dolce, come la s di rosa, e la e finale si dice appena. Dit e dat, invece, hanno una i e una a brevi: non allungarle.
+
+notes.it:
+1. Wat kosten deze appels?: kosten è il verbo costare, e qui è al plurale perché le mele sono più di una. Per una sola cosa si direbbe wat kost. Wat kosten è "quanto costano".
+2. Deze appels: deze vuol dire "questo" o "questa", "questi" o "queste", per una cosa vicina a chi parla. Si usa davanti a una parola de e davanti a ogni plurale: deze appel, deze appels. Davanti a una parola het si dice dit: dit uitzicht (uitzicht è della lezione 8).
+3. Die rode?: die è il "quello" lontano, con le parole de e con i plurali: die appels. Dopo die l'aggettivo prende la -e: die rode, quelle rosse. Rood, da solo, non ha la -e, e lo vedremo bene nella lezione 23.
+4. Per kilo, twee euro vijftig: per vuol dire "al", come nel prezzo a unità. I soldi si dicono euro e poi i centesimi, senza una parola per la virgola: twee euro vijftig è "due euro e cinquanta". Ook twee vijftig, "anche due e cinquanta", usa ook, anche, come nella lezione 10.
+5. Wat is dit? Dat is rabarber: quando dit e dat stanno da soli, con is, indicano una cosa senza dire il genere: dat is rabarber, "quello è rabarbaro", anche se rabarber è una parola de.
+6. Welke appels zijn het lekkerst?: welke vuol dire "quali" e chiede una scelta tra più cose. Het lekkerst, "il più buono", è un superlativo: lo vedremo nella lezione 40.
+7. Eerlijk gezegd?: eerlijk vuol dire onesto, sincero. Eerlijk gezegd è il nostro "a dire il vero", e non va tradotto alla lettera. Lekker, che hai visto nella lezione 3, è buono, gustoso.
+8. Die van de buurman: die, qui, sostituisce le mele, senza ripeterle. Van vuol dire "di", come in van mijn man (lezione 12). De buurman è il vicino di casa, la persona che hai già incontrato nella lezione 19. La battuta: il venditore dice che le mele migliori sono quelle del vicino.
+
+ex1:
+- Wat kosten deze rode appels?
+  it: Quanto costano queste mele rosse?
+- Die groene is van de buurman.
+  it: Quella verde è del vicino.
+- Ik neem deze appels.
+  it: Prendo queste mele.
+- Dat is niet duur.
+  it: Non è caro.
+- Eerlijk gezegd vind ik de rabarber lekker.
+  it: A dire il vero trovo buono il rabarbaro.
+
+ex2:
+- Wat [kosten] deze appels?
+  it: Quanto costano queste mele?
+- [Welke] appels zijn het lekkerst?
+  it: Quali mele sono le più buone?
+- Die [rode] is niet duur.
+  it: Quella rossa non è cara.
+- [Dat] is rabarber.
+  it: Quello è rabarbaro.
+- [Eerlijk] gezegd?
+  it: A dire il vero?
+
+culture.it:
+Nei Paesi Bassi si paga quasi sempre con la carta di debito, con il codice pin: in olandese si dice pinnen. Il contante è sempre meno usato, e molti banchi del mercato, come anche i negozietti e i bar piccoli, accettano solo la carta. Se vedi il cartello "alleen pinnen", vuol dire solo con la carta. Prima di andare al mercato, controlla che la carta funzioni, e chiedi con gentilezza: Kan ik pinnen? Posso pagare con la carta?
+
+== 23 A1
+numeral: Drieëntwintigste les
+numeral.pron.it: driën*twIn*tëχstë lès
+title: Een oude fiets
+title.it: Una bici vecchia
+
+dialogue:
+- Ik zoek een goedkope fiets.
+  it: Cerco una bici economica.
+  pron.it: Ik suk ën *χut*kopë fits.
+- Deze blauwe? Vijftig euro.
+  it: Questa blu? Cinquanta euro.
+  pron.it: *de‣*zë *blau*ë? *vèif*tëχ *ø‣*ro.
+- Ik heb liever een zwarte.
+  it: Preferisco una nera.
+  pron.it: Ik hèp *li*vër ën *zwar*të.
+- Deze zwarte is ook goed. Oud, maar sterk.
+  it: Anche questa nera va bene. Vecchia, ma robusta.
+  pron.it: *de‣*zë *zwar*të Is o‣k χut. aut, ma‣r stèrk.
+- Gaat hij lang mee?
+  it: Dura a lungo?
+  pron.it: χa‣t hèi lang me‣?
+- Gaat u veel fietsen?
+  it: Va molto in bici?
+  pron.it: χa‣t ü ve‣l *fit*së?
+- Elke dag. Doen de remmen het?
+  it: Ogni giorno. I freni funzionano?
+  pron.it: *èl*kë daχ. dun dë *rè*më hët?
+- Nee. Maar de bel doet het wel. Heel hard.
+  it: No. Ma il campanello funziona. Fortissimo.
+  pron.it: ne‣. ma‣r dë bèl dut ët wèl. he‣l hart.
+- Hard? Dan koop ik hem.
+  it: Forte? Allora la compro.
+  pron.it: hart? dan ko‣p Ik hèm.
+
+sounds.it:
+1. Goedkoop unisce due suoni che abbiamo visto: la oe di goed (lezione 3), la nostra u, e la oo di koop (lezione 12), una o chiusa e lunga. Si dice *χut*ko‣p. Non sono la stessa vocale ripetuta.
+
+notes.it:
+1. Ik zoek een goedkope fiets: zoeken vuol dire cercare. Goedkoop, "economico", prende la -e davanti a fiets: una parola de, con een. Deze blauwe?: la stessa regola con deze, "questa": deze blauwe fiets, con fiets sottinteso. Davanti a una parola de, l'aggettivo prende -e.
+2. Ik heb liever een zwarte: liever vuol dire "piuttosto", "preferisco". Lo spiegheremo nella lezione 25. Zwarte è "nera" e sta per fiets: een zwarte, una nera, con la -e come sopra.
+3. Deze zwarte is ook goed: è la stessa parola di prima, ora con deze. Oud, maar sterk: oud vuol dire vecchio, sterk robusto. Dopo is l'aggettivo non prende -e: hij is oud, "lui è vecchio". Oud, da solo, è la forma base.
+4. Gaat hij lang mee?: meegaan vuol dire "durare", alla lettera "andare con". Il verbo si spezza: gaat va al secondo posto, e mee va in fondo. Lo vedremo bene nella lezione 27, come uitgaan (lezione 18).
+5. Gaat u veel fietsen?: gaan, con un altro verbo alla fine, dice quello che si farà: gaat u ... fietsen, "andrà in bici". L'infinito va in fondo, come kun je koken (lezione 11). Lo vedremo nella lezione 26.
+6. Doen de remmen het?: doen het vuol dire "funzionare": de remmen doen het, "i freni funzionano". Het è qui un pronome vago, come in het doet pijn (lezione 17), e il soggetto de remmen resta com'è.
+7. Maar de bel doet het wel. Heel hard: bel è il campanello, non il verbo bellen (suonare, telefonare). Maar vuol dire "ma", e wel, qui, dice "invece sì". Heel hard vuol dire "fortissimo", detto di un suono: hard, da solo, è anche "duro".
+8. Hard? Dan koop ik hem: dan apre la frase, e il verbo viene dopo: koop ik, come in dan koop ik ook (lezione 12). Hem è il pronome per una parola de, come la fiets: ik neem hem (lezione 8). La battuta: un campanello forte basta a convincere, anche senza freni.
+
+ex1:
+- Ik zoek een blauwe fiets.
+  it: Cerco una bici blu.
+- Deze zwarte fiets is oud.
+  it: Questa bici nera è vecchia.
+- Ik heb liever een zwarte fiets.
+  it: Preferisco una bici nera.
+- De remmen doen het niet.
+  it: I freni non funzionano.
+- Die blauwe fiets is niet duur.
+  it: Quella bici blu non è cara.
+
+ex2:
+- Ik zoek een [goedkope] fiets.
+  it: Cerco una bici economica.
+- [Deze] zwarte fiets is oud.
+  it: Questa bici nera è vecchia.
+- Gaat hij lang [mee]?
+  it: Dura a lungo?
+- Doen de remmen [het]?
+  it: I freni funzionano?
+- Hij is [oud].
+  it: È vecchio.
+
+culture.it:
+Molte biciclette olandesi, soprattutto le omafiets, le "bici della nonna", hanno il freno a contropedale: per frenare basta pedalare all'indietro. In olandese si chiama terugtraprem. Chi arriva da fuori spesso non lo conosce, e la prima volta sorprende. Se provi una bici usata, chiedi: Doen de remmen het? Funzionano i freni?
+
+== 24 A1
+numeral: Vierentwintigste les
+numeral.pron.it: virën*twIn*tëχstë lès
+title: Mag ik hier parkeren?
+title.it: Posso parcheggiare qui?
+
+dialogue:
+- Mag ik mijn fiets hier zetten?
+  it: Posso mettere la bici qui?
+  pron.it: maχ Ik mèin fits hi‣r *zè*të?
+- Nee, dat mag niet.
+  it: No, non è permesso.
+  pron.it: ne‣, dat maχ nit.
+- Waarom niet?
+  it: Perché no?
+  pron.it: wa*rom* nit?
+- U moet hem in de fietsenstalling zetten.
+  it: Deve metterla nel deposito bici.
+  pron.it: ü mut hèm In dë *fit*sënstalIng *zè*të.
+- Waar is die?
+  it: Dov'è?
+  pron.it: wa‣r Is di?
+- Onder het station. Hij is gratis.
+  it: Sotto la stazione. È gratis.
+  pron.it: *on*dër ët sta*scion*. hèi Is *χra‣*tIs.
+- Kan ik hem daar ook terugvinden?
+  it: Posso ritrovarla anche lì?
+  pron.it: kan Ik hèm da‣r o‣k të*rœχ*fIndë?
+- Dat is een andere vraag.
+  it: Questa è un'altra domanda.
+  pron.it: dat Is ën *an*dërë vra‣χ.
+
+sounds.it:
+1. La g finale di mag e di vraag si dice χ, la stessa di gola della lezione 1: maχ, vra‣χ. Non è la g di "gatto": la si raschia in fondo alla bocca, come in goed (lezione 3), e la vocale prima resta quella che è: a breve in mag, a lunga in vraag.
+
+notes.it:
+1. Mag ik mijn fiets hier zetten?: mogen vuol dire "è permesso", "posso" nel senso del permesso. Mag è la forma per ik, e mag ik ...? è la richiesta gentile: "posso...?". Zetten, "mettere", va in fondo alla frase, come schoonmaken nella lezione 11. Lo vedremo bene nella lezione di ripasso.
+2. Nee, dat mag niet: niet va in fondo alla frase, come in dat weet ik niet (lezione 15). Mag niet vuol dire "non si può", "non è permesso".
+3. Waarom niet?: come nella lezione 9, waarom vuol dire "perché". Niet, da solo, risponde al perché.
+4. U moet hem in de fietsenstalling zetten: moeten vuol dire "dovere", e moet sta al secondo posto, come in u moet rust nemen (lezione 17). Il verbo che segue, zetten, va in fondo. Hem è la fiets, una parola de (lezione 8). Fietsenstalling è il deposito per le bici: la parola è una somma di fiets e stalling.
+5. Onder het station. Hij is gratis: onder vuol dire "sotto", e gratis è "gratuito", che in olandese non cambia. Hij è la fietsenstalling, una parola de, come die nella domanda precedente.
+6. Kan ik hem daar ook terugvinden?: kunnen dice la possibilità: kan ik è "posso (riuscire a)". Mag, invece, dice il permesso. La differenza è il centro di questa scena: mag, il permesso; kan, la possibilità. Terugvinden, "ritrovare", va in fondo, come zetten.
+7. Dat is een andere vraag: andere vuol dire "altra", come de andere twee (lezione 12). Vraag è la domanda, e il verbo essere, is, sta al secondo posto. La risposta è ironica: lasciarla lì è permesso, ritrovarla tra migliaia di bici è un altro discorso.
+
+ex1:
+- Mag ik hier zitten?
+  it: Posso sedermi qui?
+- Dat mag niet.
+  it: Non è permesso.
+- Hij moet naar buiten.
+  it: Deve uscire.
+- Waar is de fietsenstalling?
+  it: Dov'è il deposito bici?
+- Kan ik hem daar ook zetten?
+  it: Posso metterla anche lì?
+
+ex2:
+- Mag ik mijn fiets hier [zetten]?
+  it: Posso mettere la bici qui?
+- Nee, dat [mag] niet.
+  it: No, non è permesso.
+- U [moet] hem in de fietsenstalling zetten.
+  it: Deve metterla nel deposito bici.
+- Onder het station. Hij is [gratis].
+  it: Sotto la stazione. È gratis.
+- Dat is een [andere] vraag.
+  it: Questa è un'altra domanda.
+
+culture.it:
+Davanti alle grandi stazioni olandesi ci sono depositi per le bici, spesso sotterranei e molto grandi: quello sotto la stazione di Utrecht è tra i più grandi del mondo. Lasciare la bici alla stazione è la cosa più normale: si prende il treno, e la bici resta lì ad aspettare. Se cerchi un posto gratis, chiedi: Is dit gratis? È gratis?
+
+aside.it:
+Un mese di olandese è quasi fatto. Leggi ad alta voce i numeri che vedi per strada, prezzi, orari e targhe: la pronuncia si fissa così, senza fatica.
+
+== 25 A1
+numeral: Vijfentwintigste les
+numeral.pron.it: vèifën*twIn*tëχstë lès
+title: Liever thee
+title.it: Meglio il tè
+
+dialogue:
+- Wil je koffie of thee?
+  it: Vuoi caffè o tè?
+  pron.it: wIl yë *ko*fi of te‣?
+- Graag thee.
+  it: Volentieri il tè.
+  pron.it: χra‣χ te‣.
+- Drink je niet graag koffie?
+  it: Non bevi volentieri il caffè?
+  pron.it: drInk yë nit χra‣χ *ko*fi?
+- Jawel, maar ik drink liever thee.
+  it: Sì che bevo, ma preferisco il tè.
+  pron.it: ya*wèl*, ma‣r Ig drInk *li*vër te‣.
+- En wat drink je het liefst?
+  it: E cosa bevi di preferenza?
+  pron.it: èn wa drInk yë ët lifst?
+- Chocolademelk. Met slagroom.
+  it: Latte al cioccolato. Con la panna.
+  pron.it: scioko*la‣*dëmèlk. mèt *slaχ*ro‣m.
+- Neem een koekje.
+  it: Prendi un biscotto.
+  pron.it: ne‣m ën *kuk*yë.
+- Dank je wel. Mag ik er nog een?
+  it: Grazie. Posso prenderne ancora uno?
+  pron.it: dank yë wèl. maχ Ik ër noχ e‣n?
+- Nog een? Je hebt er al een gehad!
+  it: Ancora uno? Ne hai già preso uno!
+  pron.it: noχ e‣n? yë hèpt ër al ën χë*hat*!
+
+sounds.it:
+1. La ie di liefst è una i tesa, come la nostra: lifst. La th di thee non si sente: si dice t, come in tè, e la ee è lunga: te‣.
+
+notes.it:
+1. Wil je koffie of thee?: willen vuol dire "volere". Wil è la forma per ik, come in mijn hond wil (lezione 16). Con je dopo il verbo la -t cade: wil je, come in woon je (lezione 5). Con u la -t resta: wilt u. Of vuol dire "o".
+2. Graag thee: graag vuol dire "volentieri", "con piacere", ed è un avverbio: non si traduce con grazie. Ik drink graag thee è "mi piace bere tè", alla lettera "bevo volentieri tè". Graag, da solo, è la risposta: Graag!, "volentieri!", come nella lezione 1.
+3. Drink je niet graag koffie?: niet graag vuol dire "non volentieri": la domanda vuole sapere se ti piace il caffè. Drink je, con je dopo il verbo, perde la -t, come in kun je koken (lezione 11).
+4. Jawel, maar ik drink liever thee: jawel è "sì che", e si usa quando si contraddice una domanda negativa. Liever è il comparativo di graag: "più volentieri", "preferisco". Ik heb liever een zwarte l'hai già visto nella lezione 23.
+5. En wat drink je het liefst?: het liefst è il superlativo di graag: "di preferenza", "più di tutto". Graag, liever, het liefst: volentieri, più volentieri, più di tutto. Lo vedremo nel ripasso della lezione 28.
+6. Chocolademelk. Met slagroom: chocolademelk è il latte al cioccolato, caldo. Slagroom è la panna montata, quella che si mette sulla cioccolata.
+7. Neem een koekje: nemen vuol dire prendere (lezione 8), e neem è la forma dell'invito, "prendi". Koekje è il biscotto, una parola het: het koekje, o in plurale koekjes (lezione 6).
+8. Mag ik er nog een?: er sostituisce la parola koekje, e een è "uno". Er nog een è "ancora uno di quelli". Il secondo er lo vedremo nella lezione 40, con tutti gli usi. Nog, "ancora", è la stessa parola della lezione 20.
+9. Je hebt er al een gehad!: qui je sta prima del verbo, quindi la -t resta, come in maar je kookt toch (lezione 15). Gehad è il participio di hebben, e con al ("già") dice che è successo: "ne hai già preso uno". Il passato con hebben lo vedremo nella lezione 31.
+
+ex1:
+- Ik drink graag koffie.
+  it: Bevo volentieri il caffè.
+- Wat drink jij het liefst?
+  it: Cosa bevi di preferenza?
+- Neem nog een kopje thee.
+  it: Prendi ancora una tazza di tè.
+- Chocolademelk met slagroom, alsjeblieft.
+  it: Latte al cioccolato con la panna, per favore.
+- Mag ik er nog een?
+  it: Posso prenderne ancora uno?
+
+ex2:
+- Wil je koffie [of] thee?
+  it: Vuoi caffè o tè?
+- [Graag] thee.
+  it: Volentieri il tè.
+- Jawel, maar ik drink [liever] thee.
+  it: Sì, ma preferisco il tè.
+- En wat drink je het [liefst]?
+  it: E cosa bevi di preferenza?
+- Neem een [koekje].
+  it: Prendi un biscotto.
+
+culture.it:
+In casa, con il caffè o il tè, quasi sempre si offre qualcosa di dolce: un koekje, un biscotto, o una fetta di torta. Chi ospita chiede: Wil je nog een koekje? Vuoi ancora un biscotto? La risposta gentile è Graag!, oppure, se sei sazio, Nee, dank je wel.

@@ -22,7 +22,7 @@ a new course, or fixes to an existing one.
 1. **Plan** the course: one block or table row per lesson, with its kind, the
    scene and its ending, the grammar or style focus, the tasks. Examples:
    `work/vi/es/foundation.md`, `work/vi/es/perfectionnement.md`,
-   `work/vi/es/mastery.md`, `work/en/*.md`.
+   `work/vi/es/mastery.md`, `work/nl/it/foundation.md`, `work/en/*.md`.
 2. **Brief** the writer: file format, length, note style, the language's
    pitfalls, and the checks to run (`work/BRIEF.md` for every course, then
    one writer file per course: `work/vi/es/writer.md`, `perf-writer.md`,
@@ -41,7 +41,10 @@ a new course, or fixes to an existing one.
    `python3 work/tools/first_seen.py work/vi/es/foundation 'word'` finds the
    first lesson whose dialogue has a word, for "(Fundamentos, lección N)"
    references. `work/tools/figure_vi.py` regenerates the Vietnamese figured
-   pronunciation from the key; `figure_en.py` does the English one.
+   pronunciation from the key; `figure_en.py` does the English one, and
+   `figure_nl.py` the Dutch one (espeak plus a FIX table of words whose
+   stress or sound espeak gets wrong: add to it rather than hand-editing
+   lines).
 5. **Teach the brief**: every error type found goes into the writer's brief
    as a rule ("Rules added after week N" in `work/en/mastery-writer.md` is
    the longest example). The next week's writer reads it.

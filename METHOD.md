@@ -48,7 +48,12 @@ layout, lesson lengths, notes, exercises, revision lessons and second wave.
    editions for that reader: for Italians, Italian spelling with the stressed
    syllable in bold and a few signs explained once (‣ after a long vowel, ë
    for the weak vowel, è for the open e, θ, as in Il Francese senza sforzo
-   and Lo Spagnolo). Vietnamese follows Le Vietnamien sans peine instead:
+   and Lo Spagnolo). Dutch for Italians keeps those signs and adds what Le
+   nouveau néerlandais sans peine shows for any reader: ie, oe, uu are short
+   (i, u, ü) except before r, a capital I is the relaxed short i, œ and ø
+   are the Dutch u and eu, χ is g and ch; ‣ is written only in a stressed
+   syllable or a word of one syllable, and the line follows the sounds
+   across words (op de fiets → ob dë fits). Vietnamese follows Le Vietnamien sans peine instead:
    each syllable respelled for the reader (for Spanish readers ñ, j, z…)
    with its tone arrow (→ ✓ ↑ ↓), high tones drawn on the upper row and low
    ones below, the whole line in lessons 1–14 and none after, since the

@@ -29,11 +29,15 @@ appendix; the interface is in Spanish too; Perfectionnement is complete too:
 70 lessons, an introduction, and an appendix with the grammar, a grammar index
 and the expressions; Mastery is complete too: 100 lessons with open tasks, an
 introduction, and an appendix with style and grammar, an index and the
+expressions), then Dutch for Italian speakers (Foundation is complete: 100
+lessons of the Dutch of the Netherlands with translations and notes in
+Italian, figured pronunciation respelled for Italian readers, an introduction
+and an appendix with the grammar, a grammar index, the words and the
 expressions). Spanish for Italian speakers has
-its first week, lessons 1–7. The other languages except Dutch have 13 sample
+its first week, lessons 1–7. The other languages have 13 sample
 lessons (lessons 1–8, 26, 51 and 76 of Foundation, one lesson each of
 Perfectionnement and Mastery), with translations and notes in Italian, English
-and Spanish; Dutch has none yet. The text has not been checked by a native
+and Spanish. The text has not been checked by a native
 speaker.
 
 This is private use only. You can build and run it for your own learning.

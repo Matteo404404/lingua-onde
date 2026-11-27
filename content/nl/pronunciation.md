@@ -1,198 +1,104 @@
-# Dutch figured pronunciation key
+# Come leggere la pronuncia figurata dell'olandese
 
-Variety: standard Dutch of the Netherlands at normal conversational speed.
-Used for every `pron.it:`, `pron.en:` and `pron.es:` line of lessons 1–50 (see work/PRON.md).
+Sotto le frasi dei dialoghi trovi la riga 🔈: l'olandese scritto come lo
+leggerebbe un italiano. L'olandese si legge in modo abbastanza regolare, ma
+con lettere che in italiano hanno un altro suono (g, ui, eu, ij, oe) e con
+vocali lunghe e brevi che cambiano il senso delle parole (man, uomo; maan,
+luna). La pronuncia figurata scrive ogni suono sempre allo stesso modo, con le
+lettere dell'italiano e pochi segni in più, come nei corsi Assimil per
+italiani. È la pronuncia standard dei Paesi Bassi, a velocità di
+conversazione. Nelle lezioni 1–28 è data per tutta la frase, poi solo per le
+parole nuove (… *re‣*këning …).
 
-## Rules for all readers
+## Per chi parla italiano (Italian readers)
 
-- Spell what is heard, word by word, in lower case. Keep the Dutch line's words, order and
-  punctuation (no ¿ ¡ added). Capitals appear only as English stress.
-- Doubled consonant letters sound single: write one (hallo → hal-). Only Italian writes ss (table).
-- Long vowels: aa, ee, oo, eu, and a, e, o, u that end a syllable (ja, ma-ken, be-ter, zo, nu).
-  Write the long spelling (aa, ee, oo, öö) only in stressed syllables and monosyllables;
-  unstressed syllables take the short spelling (Bologna → bo-, vakantie → va-).
-  An i that ends a syllable sounds like ie (Italië, taxi).
-- Schwa: unstressed e in -e, -en, -el, -er, -ig (əχ), -lijk (lək), be-, ge-, ver-, te-, and the
-  words de, je, me, we, ze, te, een (article), het/'t (ət), er (unstressed). één and geen keep ee.
-- -en ending a word of 2+ syllables loses its n (maken → maakə). Final b → p, d/dt → t (goed).
-- sj and ch in loanwords = sh; c = k before a, o, u and consonants, s before e, i;
-  qu = kv; x = ks; th = t; y in loanwords = ie.
-- Foreign names: as Dutch speakers say them, spelled with this key (Chiara [ˈkjaːra]).
-- Stress: dictionary stress, usually the root's first syllable; be-, ge-, ver-, her-, ont-, er- never;
-  one mark per compound, on its main stress. Monosyllables never get a mark.
+### L'accento tonico
 
-## Connected speech (all readers)
+La sillaba su cui cade la voce è in grassetto, in ogni parola di due o più
+sillabe: *ko*fi (koffie), më*vrau* (mevrouw), hu*ve‣l* (hoeveel). Le parole di
+una sillaba non lo portano: ka‣s (kaas). Di solito l'accento cade sulla prima
+sillaba della radice; be-, ge-, ver-, ont- non lo portano mai. Le altre
+sillabe sono deboli e veloci, e la loro e diventa spesso ë.
 
-1. No liaison or joining marks: each word stays separate; a word beginning with a vowel starts clean.
-2. Voicing: word-final k, p, t before a word beginning with b or d become g, b, d (ik ben).
-3. Devoicing: v and z after a word ending in p, t, k, s, f, ch become f and s (ik zie, op vakantie).
-4. Same consonant ending one word and starting the next (after 2–3): write it once, on the next word.
-5. Glide: between i, ie, ee or ij and a following vowel, add the j sound (Italië, zeeën).
-   Elision is only the n of -en and the weak forms; drop no other sound.
+### Le vocali
 
-## Italian readers (`pron.it`)
+L'olandese distingue vocali brevi e lunghe. Il segno ‣ dopo una vocale vuol
+dire che è lunga: ma‣n (maan) è una a tenuta più a lungo di man (man). Si
+segna solo nella sillaba accentata e nelle parole di una sillaba: fuori
+dall'accento la vocale si accorcia da sé. Ie, oe e uu sono brevi, come la
+nostra i e la nostra u: si allungano solo davanti a r (vi‣r, vier). La I
+maiuscola, come la O di Il Francese senza sforzo, segna una vocale diversa
+dalla nostra: la i breve e rilassata di zit e ik (zIt, Ik), a metà tra i ed
+è, come la scrive Le nouveau néerlandais sans peine.
 
-| Dutch | pron.it | Example |
-|---|---|---|
-| a (closed syllable) | a | dank → dank |
-| aa, open a | aa | Daan → daan, ja → iaa |
-| e (closed) | e | wel → vel |
-| ee, open e | ee | heet → heet, beter → béetər |
-| schwa (see rules) | ə | je → iə |
-| i / ie | i | ik → ik, wie → vi |
-| o (closed) | o | kom → kom |
-| oo, open o | oo | zo → soo |
-| oe | u | moe → mu |
-| u (closed) | ö | bus → bös |
-| uu, open u | ü | nu → nü, buurman → bǜrman |
-| eu | öö | deur → döör |
-| ui | öi | uit → öit |
-| ij, ei | ei | mijn → mein |
-| ou, au, ouw, auw | au | oud → aut |
-| aai, ooi, oei, ieuw, eeuw, uw | aai, ooi, ui, iu, eeu, üu | mooi → mooi, nieuw → niu |
-| b d f l m n p r t | as written | lamp → lamp |
-| k, c (= k) | k (never c or ch) | kaas → kaas |
-| g, ch | χ | goed → χut |
-| sch, -isch | sχ, is | school → sχool |
-| h | h | hallo → halóo |
-| j | i | jij → iei |
-| w, v | v | wie → vi, vijf → veif |
-| z | s | zo → soo |
-| s | s; between vowels ss | kassa → kàssa |
-| ng, nk | ng, nk (n of "fango", no g after it) | zingen → sìngə |
-| sj, ch (loans) | sh | meisje → mèishə |
-| tj | ci before a vowel | beetje → béeciə |
-| -tie | tsi; after n or s: si | vakantie → vakànsi |
+| Lettere | Figurata | Come si dice | Esempio |
+|---|---|---|---|
+| a (breve) | a | a breve e scura, un po' verso la o | man → man, dank → dank |
+| aa, a in fine di sillaba | a‣ | a lunga e chiara, come la nostra | maan → ma‣n, ja → ya‣ |
+| e (breve) | è | e aperta e breve | bed → bèt, les → lès |
+| ee, e in fine di sillaba | e‣ | e chiusa e lunga, che scivola appena verso la i | zee → ze‣, twee → twe‣ |
+| e debole | ë | la vocale debole: brevissima e indistinta, senza arrotondare le labbra | de → dë, maken → *ma‣*kë |
+| i (breve) | I | i breve e rilassata, tra la i e la è | zit → zIt, ik → Ik |
+| ie | i, i‣ | la nostra i, breve; lunga davanti a r | ziet → zit, vier → vi‣r |
+| o (breve) | o | o aperta e breve | pot → pot, kom → kom |
+| oo, o in fine di sillaba | o‣ | o chiusa e lunga | zo → zo‣, groot → χro‣t |
+| oe | u, u‣ | la nostra u, breve; lunga davanti a r | goed → χut, boer → bu‣r |
+| u (breve) | œ | tra la e e la o, labbra in avanti, breve | bus → bœs, druk → drœk |
+| uu, u in fine di sillaba | ü, ü‣ | tra la i e la u, labbra in avanti; lunga davanti a r | nu → nü, buren → *bü‣*rë |
+| eu | ø‣ | tra la e e la o, labbra in avanti, chiusa e lunga | deur → dø‣r, leuk → lø‣k |
 
-Stress: grave accent on the stressed vowel (à è ì ò ù); é and ó for closed ee and oo;
-on a doubled vowel or diphthong mark the first letter: àa, ée, óo, èi, àu, ǜ, ö̀, ö̀ö, ö̀i.
-Short e is è, short o is ò. Mark every word of two or more syllables; ə is never stressed.
+### I dittonghi
 
-Special symbols:
-- ə: vocale breve e neutra, labbra rilassate, come la e finale napoletana o il francese "le".
-- χ: soffio raspato in fondo alla gola, come la j spagnola o il ch di "Bach"; mai k.
-- h: soffio leggero, come in inglese "hello"; non va mai taciuta.
-- ü: di' i con le labbra arrotondate come per u (francese "tu", lombardo "lüna").
-- ö: di' e con le labbra arrotondate come per o (francese "deux"); öö è la stessa, più lunga.
+Due vocali in una sola sillaba, con la voce sulla prima.
 
-Connected speech: words stay apart, with no joining marks. Rules 1–5 come out as
-ik ben → ig ben, ik zie → ik si, op vakantie → op fakànsi, ik kom → i kom,
-het dak → ə dak, Italië → itàaliiə. Never add Italian final vowels or double consonants
-beyond the ss rule.
+| Lettere | Figurata | Come si dice | Esempio |
+|---|---|---|---|
+| ij, ei | èi | e aperta che scivola verso la i | mijn → mèin, klein → klèin |
+| ui | œi | la œ che scivola verso la i: un suono che l'italiano non ha | huis → hœis, uit → œit |
+| ou, au | au | a scura che scivola verso la u | oud → aut, blauw → blau |
+| aai, ooi, oei | a‣i, o‣i, ui | la vocale chiusa da una i | mooi → mo‣i, moei → mui |
+| ieuw, eeuw | iu, e‣u | la vocale chiusa da una u | nieuw → niu, leeuw → le‣u |
 
-## English readers (`pron.en`)
+### Le consonanti
 
-| Dutch | pron.en | Example |
-|---|---|---|
-| a (closed syllable) | ah | dank → dahnk |
-| aa, open a | aa | Daan → daan, ja → yaa |
-| e (closed) | e | wel → vel |
-| ee, open e | ay | heet → hayt, beter → BAY-tuhr |
-| schwa (see rules) | uh | je → yuh |
-| i | i | ik → ik |
-| ie | ee | wie → vee |
-| o (closed) | o | kom → kom |
-| oo, open o | oh | zo → zoh |
-| oe | oo | moe → moo |
-| u (closed) | ö | bus → bös |
-| uu, open u | ü | nu → nü, buurman → BÜR-mahn |
-| eu | öö | deur → döör |
-| ui | öy | uit → öyt |
-| ij, ei | ey | mijn → meyn |
-| ou, au, ouw, auw | ow | oud → owt |
-| aai, ooi, oei, ieuw, eeuw, uw | ahy, ohy, ooy, eew, ayw, üw | mooi → mohy, nieuw → neew |
-| b d f l m n p t | as written; p t k without a puff of air | lamp → lahmp |
-| r | r, also at the end of a syllable | maar → maar |
-| k, c (= k) | k | kaas → kaas |
-| g, ch | kh | goed → khoot |
-| sch, -isch | skh, is | school → skhohl |
-| h | h | hallo → hah-LOH |
-| j | y | jij → yey |
-| w, v | v (w: softer, lips barely touch) | wie → vee, vijf → veyf |
-| z | z | zo → zoh |
-| s | s (always as in "see") | kassa → KAH-sah |
-| ng, nk | ng, nk (as in "singer", never "finger") | zingen → ZING-uh |
-| sj, ch (loans) | sh | meisje → MEY-shuh |
-| tj | ch | beetje → BAY-chuh |
-| -tie | tsee; after n or s: see | vakantie → vah-KAHN-see |
+Le consonanti che non sono qui si leggono come in italiano (b, d, f, l, m, n,
+p, t, k, r). L'olandese non ha consonanti doppie: si dicono sempre semplici
+(koffie → *ko*fi). In fine di parola b e d si dicono p e t (heb → hèp, goed →
+χut).
 
-Stress: the stressed syllable in CAPITALS, hyphens between the syllables of every word of two
-or more syllables (BAY-tuhr, vah-KAHN-see); symbols take capitals too (BÜR, KHOH). Monosyllables
-stay lower case with no hyphen. A syllable starts with its consonant: BAY-tuhr, not BAYT-uhr.
+| Lettere | Figurata | Come si dice | Esempio |
+|---|---|---|---|
+| g, ch | χ | suono di gola, come la jota spagnola o la c aspirata toscana: si soffia raschiando in fondo alla bocca | goed → χut, acht → aχt |
+| sch | sχ | s seguita dalla χ | school → sχo‣l |
+| -isch | is | in fine di parola, la ch non si sente | praktisch → *prak*tis |
+| h | h | sempre pronunciata: un soffio leggero | huis → hœis |
+| j | y | come la i di ieri | ja → ya‣, jij → yèi |
+| w | w | una v leggera: il labbro inferiore sfiora appena i denti, senza soffio | wat → wat, water → *wa‣*tër |
+| v | v | v, spesso un po' sorda, quasi una f | vier → vi‣r |
+| z | z | s sonora, come in rosa (mai la z di zio) | zee → ze‣, zo → zo‣ |
+| s | s | sempre sorda, come in sole | les → lès |
+| ss | ss | la stessa s sorda tra due vocali, dove una s sola si leggerebbe come in rosa | kassa → *ka*ssa, gefeliciteerd → χëfelissi*te‣rt* |
+| sj, -sje | sc, sci, sc' | come sc in scena: sc davanti a e, i; sci davanti alle altre vocali; sc' in fine di parola | meisje → *mèi*scë, station → sta*scion* |
+| tj, dj, -tje | c, ci, c' | c dolce, con le stesse regole | katje → *ka*cë, broodje → *bro‣*cë |
+| ng | ng | n detta in fondo alla bocca, come in panca; la g non si sente | jongen → *yong*ë, zingen → *zIng*ë |
+| nk | nk | come in banca | dank → dank |
+| -en | ë | in fine di una parola di più sillabe la n non si dice | maken → *ma‣*kë, werken → *wèr*kë |
+| c | k, s | k davanti ad a, o, u e alle consonanti, s davanti a e, i | cola → *ko‣*la, citroen → sI*trun* |
 
-Special symbols:
-- kh: a rasping h at the back of the throat, as in Scottish "loch" or "Bach"; never k.
-- ü: say "ee" with your lips rounded tight as for "oo" (French "tu").
-- ö: round your lips as for "oh" and say the vowel of "her" without the r; öö is longer.
-- ey: start at the e of "bed" and glide to "ee"; wider than "ay" in "day", narrower than "eye".
+### Le parole deboli
 
-Connected speech: words stay apart, with no joining marks. Rules 1–5 come out as
-ik ben → ig ben, ik zie → ik see, op vakantie → op fah-KAHN-see, ik kom → i kom,
-het dak → uh dahk, Italië → ee-TAA-lee-yuh. Weak forms stay weak: een → uhn, het → uht.
+Le parole piccole het, een, de, te, je, ze, we, me dentro la frase si dicono
+deboli, con ë: ën *kop*yë *ko*fi (een kopje koffie), dë fits (de fiets). Het
+perde anche la h: ët Is χut (het is goed). In fondo alla frase tornano piene:
+Ik si hët (ik zie het). Één, "uno" contato, resta e‣n; geen resta χe‣n.
 
-## Spanish readers (`pron.es`)
+### Le parole che si legano
 
-| Dutch | pron.es | Example |
-|---|---|---|
-| a (closed syllable) | a | dank → dank |
-| aa, open a | aa | Daan → daan, ja → yaa |
-| e (closed) | e | wel → vel |
-| ee, open e | ee | heet → heet, beter → béetər |
-| schwa (see rules) | ə | je → yə |
-| i / ie | i | ik → ik, wie → vi |
-| o (closed) | o | kom → kom |
-| oo, open o | oo | zo → soo |
-| oe | u | moe → mu |
-| u (closed) | ö | bus → bös |
-| uu, open u | ü | nu → nü, buurman → bǘrman |
-| eu | öö | deur → döör |
-| ui | öi | uit → öit |
-| ij, ei | ei | mijn → mein |
-| ou, au, ouw, auw | au | oud → aut |
-| aai, ooi, oei, ieuw, eeuw, uw | aay, ooy, uy, iu, eeu, üu | mooi → mooy, nieuw → niu |
-| b d f l m n p r t | as written; r always single | lamp → lamp |
-| k, c (= k) | k (never c or qu) | kaas → kaas |
-| g, ch | j | goed → jut |
-| sch, -isch | sj, is | school → sjool |
-| h | h | hallo → halóo |
-| j | y | jij → yei |
-| w, v | v | wie → vi, vijf → veif |
-| z, s | s | zo → soo |
-| ng, nk | ng, nk (n of "tengo", no g after it) | zingen → síngə |
-| sj, ch (loans) | sh (as in English "show") | meisje → méishə |
-| tj | ch | beetje → béechə |
-| -tie | tsi; after n or s: si | vakantie → vakánsi |
-
-Stress: acute accent on the stressed vowel (á é í ó ú); on a doubled vowel or diphthong mark
-the first letter: áa, ée, óo, éi, áu, ǘ, ö́, ö́ö, ö́i. Mark every word of two or more syllables,
-even where Spanish rules would not need it; ə is never stressed.
-
-Special symbols:
-- ə: vocal breve y neutra, labios relajados, como la e del francés "le".
-- ü: di i con los labios redondeados como para u (francés "tu").
-- ö: di e con los labios redondeados como para o (francés "deux"); öö es igual, más larga.
-- h: soplo suave, como en inglés "hello"; mucho más suave que la j.
-- v: el labio inferior roza los dientes de arriba, como una f con voz; para la w, aún más suave.
-
-Connected speech: words stay apart, with no joining marks. Rules 1–5 come out as
-ik ben → ig ben, ik zie → ik si, op vakantie → op fakánsi, ik kom → i kom,
-het dak → ə dak, Italië → itáaliyə. Never read the doubled vowels as two syllables.
-
-## Examples
-
-Lesson 1, lines 1–3 (the it/en/es translation lines between them stay as they are, omitted here):
-
-```
-- Hallo! Ben jij Chiara?
-  pron.it: halóo! ben iei kiàara?
-  pron.en: hah-LOH! ben yey KYAA-rah?
-  pron.es: halóo! ben yei kyáara?
-- Ja, ik ben Chiara. En wie ben jij?
-  pron.it: iaa, ig ben kiàara. en vi ben iei?
-  pron.en: yaa, ig ben KYAA-rah. en vee ben yey?
-  pron.es: yaa, ig ben kyáara. en vi ben yei?
-- Ik ben Daan, je buurman.
-  pron.it: ig ben daan, iə bǜrman.
-  pron.en: ig ben daan, yuh BÜR-mahn.
-  pron.es: ig ben daan, yə bǘrman.
-```
+- Le parole restano separate da spazi, ma si legge ogni gruppo di parole in un
+  solo fiato.
+- Dopo una parola che finisce in p, t, k, s, f o χ, la v e la z della parola
+  seguente diventano f e s: Ik si (ik zie), op fa*kan*si (op vakantie).
+- Davanti a una parola che comincia con b o d, la k, la p e la t finali
+  diventano g, b e d: Ig bèn (ik ben), ob dë fits (op de fiets).
+- Quando una parola finisce con la consonante con cui comincia la seguente,
+  la consonante si dice una volta sola: kos dat (kost dat), wa të (wat te).

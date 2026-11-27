@@ -19,6 +19,11 @@
 /work/vi/es/*
 !/work/vi/es/*.md
 /work/vi/es/plan-*.md
+!/work/nl/
+/work/nl/*
+!/work/nl/it/
+/work/nl/it/*
+!/work/nl/it/*.md
 !/work/tools/
 /work/tools/*
 !/work/tools/cursor_week.sh
@@ -28,4 +33,5 @@
 !/work/tools/appendix_draft.py
 !/work/tools/figure_vi.py
 !/work/tools/figure_en.py
+!/work/tools/figure_nl.py
 !/work/tools/extra_checks.py

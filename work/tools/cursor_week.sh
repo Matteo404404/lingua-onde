@@ -10,7 +10,17 @@ A=$1; B=$2; MODEL=${3:-grok-4.7-medium}
 mkdir -p "$REPO/work/tools/logs"
 printf -v FA "%03d" "$A"; printf -v FB "%03d" "$B"
 PREV=$((A - 7)); printf -v FP "%03d" "$PREV"; printf -v FPE "%03d" $((A - 1))
-if [ "${STAGE:-perfectionnement}" = vi-foundation ]; then
+if [ "${STAGE:-perfectionnement}" = nl-foundation ]; then
+PROMPT="You write lessons $A–$B of the Dutch Foundation course for Italian speakers (standard Netherlands Dutch), in the repository $REPO.
+
+Your full instructions are in work/nl/it/writer.md: read it first and follow every rule, including everything it tells you to read (work/BRIEF.md sections, METHOD.md section 1, content/FORMAT.md, work/PATTERNS.md, the key content/nl/pronunciation.md). The plan is work/nl/it/foundation.md: your lessons are its blocks \"### $A\" to \"### $B\". Lessons already written and approved are in work/nl/it/foundation/: read all of them (at least the two weeks before yours) to reuse their words and match their voice, length and format exactly.
+
+Write work/nl/it/foundation/$FA.txt to $FB.txt, one file per lesson. Every 7th lesson is the revision lesson of the six before it: its dialogue is a NEW little scene between two people, never a montage of the week's lines. Never write pron.it lines by hand: the figure tool adds them. Italian text stays Italian: no Dutch words used as Italian words.
+
+Strict limits: create or edit only those lesson files. Never touch src/, content/, work/tools/ or any other file. Never run git or cargo. The only commands you may run besides reading files and grep are: target/release/lingua_onde --check work/nl/it/foundation/NNN.txt ; python3 -I work/tools/figure_nl.py work/nl/it/foundation/NNN.txt --write ; python3 -I work/tools/progression.py . nl/it foundation 1 $B
+
+Work strictly in order, one lesson at a time. Run the figure tool and the checker on each file and fix everything the checker reports. At the end report briefly as writer.md says."
+elif [ "${STAGE:-perfectionnement}" = vi-foundation ]; then
 PROMPT="You write lessons $A–$B of the Vietnamese Foundation course for Spanish speakers (northern Vietnamese), in the repository $REPO.
 
 Your full instructions are in work/vi/es/writer.md: read it first and follow every rule. The plan is work/vi/es/foundation.md: your lessons are its blocks \"### $A\" to \"### $B\". Lessons already written are in work/vi/es/foundation/: read all of them before writing, to reuse their words and match their format.

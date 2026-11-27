@@ -55,11 +55,16 @@ pub struct App {
     new_course_open: bool,
     /// The pronunciation guide window is open.
     pub key_open: bool,
+    /// The language whose guide is open, when it is not the active course's
+    /// (opened from another language's card on Courses).
+    key_lang: Option<String>,
     /// The back of each built-in course: grammar, indexes, words.
     pub appendices: Vec<crate::appendix::Appendix>,
     pub appendix_ui: crate::appendix::AppendixState,
     pub updater: crate::update::Updater,
     restarting: bool,
+    /// The first screen of a new learner: which language the app speaks.
+    welcome: bool,
 }
 
 /// What a course tile on the Courses screen asks for.
@@ -117,10 +122,12 @@ impl App {
             new_course_lang: "es".into(),
             new_course_open: false,
             key_open: false,
+            key_lang: None,
             appendices: crate::appendix::builtin(),
             appendix_ui: Default::default(),
             updater: Default::default(),
             restarting: false,
+            welcome: false,
         };
         crate::update::clean_up();
         if app.shot.is_none() {
@@ -129,14 +136,9 @@ impl App {
         if let Some(n) = app.saved.notice.take() {
             app.say(n);
         }
-        // A new learner starts on a course written for their own language
-        // (the default, English for Italians, is not one for a Spanish speaker).
-        let base = app.base();
-        let foreign = app.course_index(&app.saved.active_course.clone()).is_none_or(|ci| !app.courses[ci].speaks(&base));
-        if foreign && app.saved.lessons.is_empty() {
-            let first = app.courses.iter().find(|c| c.speaks(&base) && !c.lessons.is_empty()).or(app.courses.first());
-            app.saved.active_course = first.map(|c| c.id.clone()).unwrap_or_default();
-        }
+        app.fit_course_to_base();
+        // A new learner is first asked which language the app should speak.
+        app.welcome = open.as_deref() == Some("welcome") || (open.is_none() && !app.saved.language_chosen && app.saved.lessons.is_empty());
         match open.as_deref() {
             Some("courses") => app.screen = Screen::Courses,
             Some(s) if s.starts_with("review") => {
@@ -173,6 +175,17 @@ impl App {
     }
 
     // ------------------------------------------------------------ helpers
+
+    /// A new learner starts on a course written for their own language
+    /// (the default, English for Italians, is not one for a Spanish speaker).
+    fn fit_course_to_base(&mut self) {
+        let base = self.base();
+        let foreign = self.course_index(&self.saved.active_course.clone()).is_none_or(|ci| !self.courses[ci].speaks(&base));
+        if foreign && self.saved.lessons.is_empty() {
+            let first = self.courses.iter().find(|c| c.speaks(&base) && !c.lessons.is_empty()).or(self.courses.first());
+            self.saved.active_course = first.map(|c| c.id.clone()).unwrap_or_default();
+        }
+    }
 
     pub fn base(&self) -> String {
         self.saved.base.clone()
@@ -465,7 +478,7 @@ impl App {
         self.player.stop();
     }
 
-    fn pick_audio_folder(&mut self, ci: usize) {
+    pub(crate) fn pick_audio_folder(&mut self, ci: usize) {
         if let Some(dir) = rfd::FileDialog::new()
             .set_title(tr("Choose the folder with this course's recordings"))
             .pick_folder()
@@ -810,7 +823,8 @@ impl App {
                                         })
                                             .size(14.0)
                                             .color(light),
-                                    );
+                                    )
+                                    .on_hover_text(tr("The active wave: from that lesson on, each day you also go back to an earlier lesson and rebuild its text from your language. Review shows it."));
                                 }
                                 None => {}
                             }
@@ -1054,6 +1068,7 @@ impl App {
         theme::card().show(ui, |ui| {
             ui.set_width(ui.available_width());
             let mut all = false;
+            let mut reread = false;
             ui.horizontal(|ui| {
                 ui.vertical(|ui| {
                     ui.spacing_mut().item_spacing.y = 0.0;
@@ -1065,10 +1080,17 @@ impl App {
                 });
                 ui.with_layout(egui::Layout::right_to_left(egui::Align::Center), |ui| {
                     all = ui.add(theme::ghost(tr("All courses →"))).clicked();
+                    // Finished lessons can be read again in the book; the link says so where the progress is.
+                    if self.done_count(ci) > 0 {
+                        reread = ui.add(theme::ghost(tr("Reread a lesson →"))).clicked();
+                    }
                 });
             });
             if all {
                 self.go(Screen::Courses);
+            }
+            if reread {
+                self.open_book(2);
             }
             ui.add_space(6.0);
             let levels: Vec<Level> = Level::ALL
@@ -1273,7 +1295,7 @@ impl App {
         let mut link = None;
         let mut copy = None;
         let mut from_rec = None;
-        let mut guide = false;
+        let mut guide: Option<String> = None;
         let mut go_study = false;
         let mut new_course = false;
 
@@ -1287,7 +1309,6 @@ impl App {
         for lang in &langs {
             let mut ids: Vec<usize> = (0..self.courses.len()).filter(|&i| self.courses[i].builtin && &self.courses[i].lang == lang).collect();
             ids.sort_by_key(|&i| self.courses[i].stage.map(|s| s as u8));
-            let here = ids.contains(&active);
             theme::card().show(ui, |ui| {
                 ui.set_width(ui.available_width());
                 ui.horizontal(|ui| {
@@ -1300,11 +1321,9 @@ impl App {
                     });
                     if store::pronunciation_key(lang).is_some() {
                         ui.with_layout(egui::Layout::right_to_left(egui::Align::Center), |ui| {
+                            // Opens that language's guide without switching the course being studied.
                             if ui.add(theme::ghost(tr("🔈 Pronunciation"))).clicked() {
-                                if !here {
-                                    choose = Some(ids[0]);
-                                }
-                                guide = true;
+                                guide = Some(lang.clone());
                             }
                         });
                     }
@@ -1389,7 +1408,8 @@ impl App {
         if go_study {
             self.go(Screen::Study);
         }
-        if guide {
+        if let Some(lang) = guide {
+            self.key_lang = Some(lang);
             self.key_open = true;
         }
         if let Some(i) = link {
@@ -1459,8 +1479,10 @@ impl App {
                     } else if ui.add(theme::secondary(if done == 0 { tr("Start") } else { tr("Study") })).clicked() {
                         out = Tile::Choose;
                     }
-                    ui.with_layout(egui::Layout::right_to_left(egui::Align::Center), |ui| {
-                        ui.menu_button(RichText::new("…").size(18.0), |ui| {
+                });
+                // Labelled, on its own line, not a bare "…": recordings and copying are useful and were missed behind it.
+                ui.horizontal(|ui| {
+                    ui.menu_button(muted(tr("More actions")).size(13.0), |ui| {
                             if ui
                                 .button(tr("🎧  Link my recordings of this course…"))
                                 .on_hover_text(tr("A folder of audio files named by lesson, e.g. \"Lesson 12.mp3\""))
@@ -1477,9 +1499,6 @@ impl App {
                             {
                                 out = Tile::FromRecordings;
                             }
-                        })
-                        .response
-                        .on_hover_text(tr("More actions"));
                     });
                 });
             });
@@ -1675,6 +1694,102 @@ impl App {
         }
     }
 
+    /// The first screen: the app's language, asked in every language with a
+    /// translated interface so anyone can answer. Not passed through `tr`:
+    /// each line is written in its own language.
+    fn welcome_screen(&mut self, ui: &mut egui::Ui) {
+        const CHOICES: [(&str, &str, &str, &str, &str); 3] = [
+            (
+                "it",
+                "Italiano",
+                "Usa l'app in italiano: menu, traduzioni e note.",
+                "Corsi per chi parla italiano:",
+                "Nessun corso ancora: puoi scrivere le tue lezioni.",
+            ),
+            (
+                "en",
+                "English",
+                "Use the app in English: menus, translations and notes.",
+                "Courses for English speakers:",
+                "No course yet: Spanish is on the way. Meanwhile you can write your own lessons.",
+            ),
+            (
+                "es",
+                "Español",
+                "Usa la app en español: menús, traducciones y notas.",
+                "Cursos para hispanohablantes:",
+                "Todavía ningún curso: puedes escribir tus propias lecciones.",
+            ),
+        ];
+        let mut pick = None;
+        ui.add_space(24.0);
+        theme::page(ui, 640.0, |ui| {
+            ui.horizontal(|ui| {
+                theme::logo(ui, 40.0);
+                ui.label(bold("Lingua Onde").size(24.0));
+            });
+            ui.add_space(18.0);
+            ui.label(bold("Scegli la tua lingua").size(26.0));
+            ui.label(bold("Choose your language").size(26.0));
+            ui.label(bold("Elige tu idioma").size(26.0));
+            ui.add_space(14.0);
+            for (code, native, action, courses_title, none) in CHOICES {
+                let mut langs: Vec<String> = Vec::new();
+                for c in self.courses.iter().filter(|c| c.builtin && c.speaks(code) && !c.lessons.is_empty()) {
+                    // Italian and Spanish write language names in lower case inside a sentence.
+                    let name = if code == "en" { lang_name(&c.lang, code) } else { lang_name(&c.lang, code).to_lowercase() };
+                    if !langs.contains(&name) {
+                        langs.push(name);
+                    }
+                }
+                let courses = if langs.is_empty() {
+                    none.to_string()
+                } else {
+                    format!("{courses_title} {}", langs.join(", "))
+                };
+                let frame = theme::card().show(ui, |ui| {
+                    ui.set_width(ui.available_width());
+                    ui.horizontal(|ui| {
+                        theme::lang_badge(ui, code, lang_color(code), 48.0);
+                        ui.add_space(6.0);
+                        ui.vertical(|ui| {
+                            ui.spacing_mut().item_spacing.y = 2.0;
+                            ui.label(bold(native).size(22.0));
+                            ui.label(medium(action).size(15.0));
+                            ui.label(muted(courses).size(14.0));
+                        });
+                    });
+                });
+                let resp = ui.interact(frame.response.rect, ui.id().with(("welcome", code)), egui::Sense::click());
+                if resp.hovered() {
+                    ui.painter()
+                        .rect_stroke(frame.response.rect, 14, egui::Stroke::new(2.0, ACCENT()), egui::StrokeKind::Inside);
+                }
+                if resp.on_hover_cursor(egui::CursorIcon::PointingHand).clicked() {
+                    pick = Some(code);
+                }
+                ui.add_space(8.0);
+            }
+            ui.add_space(6.0);
+            for line in [
+                "Puoi cambiarla quando vuoi in Impostazioni e voci.",
+                "You can change it any time in Settings & voices.",
+                "Puedes cambiarlo cuando quieras en Ajustes y voces.",
+            ] {
+                ui.label(muted(line).size(13.5));
+            }
+        });
+        if let Some(code) = pick {
+            self.saved.base = code.to_string();
+            self.saved.language_chosen = true;
+            crate::i18n::set_base(code);
+            self.fit_course_to_base();
+            self.welcome = false;
+            self.screen = Screen::Home;
+            self.mark_dirty();
+        }
+    }
+
     fn settings_screen(&mut self, ui: &mut egui::Ui) {
         let base = self.base();
         theme::page_title(
@@ -1707,9 +1822,13 @@ impl App {
             ui.add_space(4.0);
             egui::ComboBox::from_id_salt("base").selected_text(lang_name(&self.saved.base, &base)).show_ui(ui, |ui| {
                 for code in ["it", "en", "es", "fr", "de", "pt"] {
-                    changed |= ui
+                    if ui
                         .selectable_value(&mut self.saved.base, code.to_string(), crate::model::lang(code).map(|l| l.native).unwrap_or(code))
-                        .changed();
+                        .changed()
+                    {
+                        changed = true;
+                        self.saved.language_chosen = true;
+                    }
                 }
             });
         });
@@ -1953,9 +2072,11 @@ impl App {
     /// The figured-pronunciation key of the language studied: the part for
     /// every reader and the part for this reader.
     fn key_window(&mut self, ctx: &egui::Context) {
-        let lang = self.courses.get(self.active()).map(|c| c.lang.clone()).unwrap_or_default();
+        let active = self.courses.get(self.active()).map(|c| c.lang.clone()).unwrap_or_default();
+        let lang = self.key_lang.clone().unwrap_or(active);
         let Some(key) = store::pronunciation_key(&lang) else {
             self.key_open = false;
+            self.key_lang = None;
             return;
         };
         let base = self.base();
@@ -1975,6 +2096,9 @@ impl App {
                 });
             });
         self.key_open = open;
+        if !open {
+            self.key_lang = None;
+        }
     }
 }
 
@@ -2111,11 +2235,13 @@ impl eframe::App for App {
 
         // A tiled or small window gets an icon-only navigation.
         let compact = ui.available_width() < 820.0;
-        egui::Panel::left("nav")
-            .exact_size(if compact { 72.0 } else { 232.0 })
-            .resizable(false)
-            .frame(egui::Frame::new().fill(NAV()).inner_margin(egui::Margin::symmetric(12, 18)))
-            .show(ui, |ui| self.nav(ui, compact));
+        if !self.welcome {
+            egui::Panel::left("nav")
+                .exact_size(if compact { 72.0 } else { 232.0 })
+                .resizable(false)
+                .frame(egui::Frame::new().fill(NAV()).inner_margin(egui::Margin::symmetric(12, 18)))
+                .show(ui, |ui| self.nav(ui, compact));
+        }
 
         if let Some((msg, at)) = self.toast.clone() {
             if at.elapsed() < Duration::from_secs(5) {
@@ -2145,6 +2271,11 @@ impl eframe::App for App {
             }
         }
 
+        if self.welcome {
+            egui::CentralPanel::default_margins().show(ui, |ui| {
+                egui::ScrollArea::vertical().auto_shrink([false; 2]).show(ui, |ui| self.welcome_screen(ui));
+            });
+        } else {
         egui::CentralPanel::default_margins().show(ui, |ui| match self.screen {
             Screen::Study => self.study_screen(ui),
             screen => {
@@ -2166,6 +2297,7 @@ impl eframe::App for App {
                 });
             }
         });
+        }
 
         if self.key_open {
             self.key_window(&ctx);

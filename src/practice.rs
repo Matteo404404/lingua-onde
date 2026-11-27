@@ -305,6 +305,9 @@ impl App {
                     "The voice says each sentence in your language, waits while you say it, then says it in the language you learn",
                 ))
                 .on_disabled_hover_text(tr("Download this language's voice in Settings first"));
+            if !target_ready {
+                ui.label(muted(tr("Download this language's voice in Settings first")).size(13.0));
+            }
             if b.clicked() {
                 if drilling {
                     self.stop_audio();

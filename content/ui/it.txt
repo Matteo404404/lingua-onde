@@ -335,7 +335,7 @@ Una cartella di file audio col numero della lezione nel nome, ad es. "Lezione 12
 ＋  Una lezione per ogni registrazione senza testo
 
 More actions
-Altre azioni
+Registrazioni e copia…
 
 ＋ Create
 ＋ Crea
@@ -362,7 +362,7 @@ again tomorrow
 di nuovo domani
 
 revision
-ripasso
+lezione di ripasso
 
 ex. {0}/{1}
 es. {0}/{1}
@@ -923,7 +923,7 @@ Lessons
 Lezioni
 
 Index
-Indice
+Indice grammaticale
 
 Words
 Parole
@@ -985,8 +985,8 @@ Amplia i tuoi corsi col tuo materiale: scrivi o incolla ogni dialogo con la sua 
 You have no course of your own yet.
 Non hai ancora un corso tuo.
 
-Create one for any language in Courses (“New course for your own material”), or copy a built-in course there to expand it.
-Creane uno per qualsiasi lingua in Corsi (“Nuovo corso per il tuo materiale”), oppure copia lì un corso incluso per ampliarlo.
+Create one for any language in Courses (“＋ New course”), or copy a built-in course there to expand it.
+Creane uno per qualsiasi lingua in Corsi (“＋ Nuovo corso”), oppure copia lì un corso incluso per ampliarlo.
 
 Go to Courses
 Vai a Corsi
@@ -1184,7 +1184,7 @@ Esercizio 1: ora dalla tua lingua
 ■ Ferma
 
 ▶ Prompt and answer
-▶ Domanda e risposta
+▶ Ascolta e traduci a voce
 
 The voice says each sentence in your language, waits while you say it, then says it in the language you learn
 La voce dice ogni frase nella tua lingua, aspetta mentre la dici tu, poi la dice nella lingua che studi
@@ -1362,3 +1362,9 @@ Tutti i corsi →
 
 How it sounds, spelled for your language: high tones above, low tones below
 Come suona, scritto per la tua lingua: i toni alti sopra, quelli bassi sotto
+
+Reread a lesson →
+Rileggi una lezione →
+
+The active wave: from that lesson on, each day you also go back to an earlier lesson and rebuild its text from your language. Review shows it.
+L'onda attiva: da quella lezione in poi, ogni giorno torni anche a una lezione precedente e ne ricostruisci il testo dalla tua lingua. La trovi in Ripasso.

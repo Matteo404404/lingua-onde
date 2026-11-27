@@ -7,6 +7,10 @@ exercises, a revision lesson every seven, and from lesson 50 an active wave
 that rebuilds earlier lessons from your language. How it works is in
 [METHOD.md](METHOD.md).
 
+The first time it opens, the app asks which language to speak (Italiano,
+English or Español, each written in its own language, with the courses ready
+for its speakers); Settings changes it later.
+
 Each language has three courses in a row: Foundation (first words to B2, 100
 lessons), Perfectionnement (B2 to C1, 70 lessons) and Mastery (C1 to C2, 100
 lessons). The built-in courses are original lessons written for this app
@@ -34,7 +38,9 @@ lessons of the Dutch of the Netherlands with translations and notes in
 Italian, figured pronunciation respelled for Italian readers, an introduction
 and an appendix with the grammar, a grammar index, the words and the
 expressions; Perfectionnement is complete too: 70 lessons, an introduction,
-and an appendix with the grammar, a grammar index and the expressions).
+and an appendix with the grammar, a grammar index and the expressions;
+Mastery is complete too: 100 lessons with open tasks, an introduction, and an
+appendix with style and grammar, an index and the expressions).
 Spanish for Italian speakers has
 its first week, lessons 1–7. The other languages have 13 sample
 lessons (lessons 1–8, 26, 51 and 76 of Foundation, one lesson each of
@@ -132,8 +138,8 @@ Progress is stored in `~/.local/share/lingua-onde/` (progress, your own
 courses, downloaded voices). `LINGUA_ONDE_HOME` overrides that folder. Only languages whose Foundation is complete are offered; `LINGUA_ONDE_DRAFTS=1` shows the drafts too.
 
 `--screenshot <file.png>` opens the window without focus, draws about 120
-frames, saves a picture and exits. `--open home|courses|settings|guide|study[:step]|editor[:lesson]|review[:tab[:search]]|appendix[:page]` (0–6: introduction, pronunciation, lessons, grammar, index, words, expressions)
-opens one screen directly (`guide` is the pronunciation guide), and `--size 950x520` sets the window size (a
+frames, saves a picture and exits. `--open welcome|home|courses|settings|guide|study[:step]|editor[:lesson]|review[:tab[:search]]|appendix[:page]` (0–6: introduction, pronunciation, lessons, grammar, index, words, expressions)
+opens one screen directly (`welcome` is the first-launch language choice, `guide` the pronunciation guide), and `--size 950x520` sets the window size (a
 narrow window shows the icon-only side bar). `--check <file>...` checks
 lesson files against the built-in rules and prints what is missing.
 

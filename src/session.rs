@@ -581,6 +581,21 @@ impl App {
                                 self.play_seq(tag, lang, texts(items), idx.saturating_sub(1), false);
                             }
                         }
+                        // The speed, here as well as in Settings: the learner finds the voice too fast or slow while listening.
+                        let speed = self.saved.speed;
+                        egui::ComboBox::from_id_salt("listen-speed")
+                            .width(64.0)
+                            .selected_text(format!("{speed:.2}×"))
+                            .show_ui(ui, |ui| {
+                                for v in [0.7_f32, 0.8, 0.9, 1.0, 1.1, 1.2, 1.3] {
+                                    if ui.selectable_label((self.saved.speed - v).abs() < 0.01, format!("{v:.1}×")).clicked() {
+                                        self.saved.speed = v;
+                                        self.mark_dirty();
+                                    }
+                                }
+                            })
+                            .response
+                            .on_hover_text(tr("Speed"));
                         if ui
                             .checkbox(&mut self.saved.repeat_pauses, tr("Pause to repeat"))
                             .on_hover_text(tr("The voice waits after each sentence so you can repeat it aloud"))
@@ -620,6 +635,10 @@ impl App {
                         }
                     });
                     ui.label(muted(tr("Or link your own recordings in Courses. Meanwhile, read the sentences aloud yourself.")).size(13.5));
+                    if ui.add(theme::ghost(tr("🎧  Link my recordings of this course…"))).clicked() {
+                        let ci = self.active();
+                        self.pick_audio_folder(ci);
+                    }
                 });
             });
         });
@@ -727,7 +746,19 @@ impl App {
         let width = ui.available_width();
         let seg = (width - gap * (n as f32 - 1.0)) / n as f32;
         let labels = seg >= 90.0;
-        let (rect, _) = ui.allocate_exact_size(egui::vec2(width, if labels { 30.0 } else { 10.0 }), egui::Sense::hover());
+        let (rect, _) = ui.allocate_exact_size(egui::vec2(width, 30.0), egui::Sense::hover());
+        if !labels {
+            // Too narrow for every name: at least the current step is named, so the bar reads as steps.
+            if let Some(st) = steps.get(at) {
+                ui.painter().text(
+                    egui::pos2(rect.left(), rect.top() + 20.0),
+                    egui::Align2::LEFT_CENTER,
+                    format!("{}/{} · {}", at + 1, n, st.title()),
+                    egui::FontId::new(11.5, theme::medium_family()),
+                    ACCENT(),
+                );
+            }
+        }
         let mut jump = None;
         for (i, st) in steps.iter().enumerate() {
             let x = rect.left() + i as f32 * (seg + gap);
@@ -851,7 +882,7 @@ impl App {
                 if lesson.numeral.is_empty() {
                     ui.label(muted(trf("Lesson {0}", &[&lesson.number])).size(15.0));
                 } else {
-                    let label = ui.label(muted(&lesson.numeral).size(15.0));
+                    let label = ui.label(muted(format!("{} · {}", trf("Lesson {0}", &[&lesson.number]), lesson.numeral)).size(15.0));
                     let pron = lesson.numeral_pron.get(&base).map(String::as_str).unwrap_or("");
                     label.on_hover_text(format!("{} {}", trf("Lesson {0}", &[&lesson.number]), pron.replace('*', "")));
                 }
@@ -948,9 +979,20 @@ impl App {
                     }
                     Step::Read | Step::ReadAgain => {
                         self.listen_panel(ui, "dlg", &lang, &lesson.dialogue, rec);
-                        if let Some(s) = self.session.as_mut() {
-                            ui.checkbox(&mut s.hide_tr, tr("Hide the translation"));
-                        }
+                        // The guide is offered where the spelled-out sounds are read, not only with the notes.
+                        let figured = lesson.dialogue.iter().any(|i| i.figured(&base).is_some());
+                        ui.horizontal(|ui| {
+                            if let Some(s) = self.session.as_mut() {
+                                ui.checkbox(&mut s.hide_tr, tr("Hide the translation"));
+                            }
+                            if figured && crate::store::pronunciation_key(&lang).is_some() {
+                                ui.with_layout(egui::Layout::right_to_left(egui::Align::Center), |ui| {
+                                    if ui.add(theme::ghost(tr("🔈 Pronunciation guide"))).clicked() {
+                                        self.key_open = true;
+                                    }
+                                });
+                            }
+                        });
                         let hide = self.session.as_ref().is_some_and(|s| s.hide_tr);
                         self.dialogue_block(ui, "dlg", &lang, &lesson.dialogue, true, !hide);
                     }
@@ -1220,10 +1262,12 @@ impl App {
             egui::Frame::new().fill(TRACK()).corner_radius(12).inner_margin(4).show(ui, |ui| {
                 ui.horizontal(|ui| {
                     ui.spacing_mut().item_spacing.x = 4.0;
-                    let mut tabs = vec![(1, trf("Active wave · {0}", &[&pending.len()])), (2, tr("Search").to_string())];
-                    if cards {
-                        tabs.push((0, trf("Daily sentences · {0}", &[&due])));
-                    }
+                    // The daily sentences tab is shown even when off, so the learner can find and turn it on.
+                    let tabs = vec![
+                        (1, trf("Active wave · {0}", &[&pending.len()])),
+                        (2, tr("Search").to_string()),
+                        (0, trf("Daily sentences · {0}", &[&due])),
+                    ];
                     for (i, t) in tabs {
                         let sel = self.review.tab == i;
                         let b = egui::Button::new(medium(&t).color(if sel { INK() } else { MUTED() }))
@@ -1241,6 +1285,20 @@ impl App {
             });
             ui.add_space(10.0);
             match self.review.tab {
+                0 if !cards => {
+                    theme::card().show(ui, |ui| {
+                        ui.set_width(ui.available_width());
+                        if ui
+                            .checkbox(
+                                &mut self.saved.cards_after_lesson,
+                                tr("Add each finished dialogue's sentences to a spaced review (an extra, not part of the Assimil method)"),
+                            )
+                            .changed()
+                        {
+                            self.mark_dirty();
+                        }
+                    });
+                }
                 0 => self.sentence_review(ui),
                 1 => self.wave_review(ui, ci, wci, &wave),
                 _ => self.search(ui),

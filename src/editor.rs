@@ -96,7 +96,7 @@ impl App {
             theme::card().show(ui, |ui| {
                 ui.set_width(ui.available_width());
                 ui.label(theme::bold(tr("You have no course of your own yet.")).size(18.0));
-                ui.label(muted(tr("Create one for any language in Courses (“New course for your own material”), or copy a built-in course there to expand it.")));
+                ui.label(muted(tr("Create one for any language in Courses (“＋ New course”), or copy a built-in course there to expand it.")));
                 if ui.add(theme::primary(tr("Go to Courses"))).clicked() {
                     self.go(Screen::Courses);
                 }

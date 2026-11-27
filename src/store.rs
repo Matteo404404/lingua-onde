@@ -275,8 +275,11 @@ pub struct Saved {
     /// A message for the learner about the file itself, shown once.
     #[serde(skip)]
     pub notice: Option<String>,
-    /// The learner's own language: translations and notes are shown in it.
+    /// The learner's own language: the interface, translations and notes are shown in it.
     pub base: String,
+    /// The learner picked `base` on the first screen (or in Settings); until
+    /// then a new learner is asked, in every language, which one they read.
+    pub language_chosen: bool,
     pub active_course: String,
     pub audio_dirs: BTreeMap<String, String>,
     pub speed: f32,
@@ -309,6 +312,7 @@ impl Default for Saved {
             version: PROGRESS_VERSION,
             notice: None,
             base: "it".into(),
+            language_chosen: false,
             active_course: "core-en".into(),
             audio_dirs: BTreeMap::new(),
             speed: 1.0,
@@ -350,6 +354,10 @@ impl Saved {
         match serde_json::from_str::<Saved>(&text) {
             Ok(mut s) => {
                 let _ = std::fs::copy(path, path.with_extension("backup.json"));
+                // A file from before the first-screen question: that learner already uses the app in their language.
+                if !text.contains("\"language_chosen\"") {
+                    s.language_chosen = true;
+                }
                 s.migrate();
                 s
             }
@@ -462,6 +470,10 @@ mod tests {
         assert!(s.lessons.contains_key("core-es-mastery#26"));
         assert_eq!(s.cards["core-es-perfectionnement#46#0"].reps, 4);
         assert!(dir.join("progress.backup.json").exists());
+        // A learner from before the first-screen question is not asked again; a new one is.
+        assert!(s.language_chosen && !Saved::default().language_chosen);
+        std::fs::write(&path, r#"{"base":"es","language_chosen":false}"#).unwrap();
+        assert!(!Saved::load_from(&path).language_chosen);
 
         // A current file is left as it is.
         let mut again = s.clone();

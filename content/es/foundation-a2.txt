@@ -304,3 +304,567 @@ Su can mean his, her or your (usted), so the sentence must settle it, as su novi
 | le va a gustar (28) | va a gustarle |
 
 The week closes here: these forms come back in every lesson that follows, and each time they come a little more easily.
+
+== 29 A2
+numeral: Lección veintinueve
+numeral.pron.en: lék*cion* béïnti*noué*bé
+title: ¿Qué hiciste el sábado?
+title.en: What did you do on Saturday?
+
+dialogue:
+- ¿Qué hiciste el sábado?
+  en: What did you do on Saturday?
+  pron.en: … i*ciss*té …
+- Fui al Prado.
+  en: I went to the Prado.
+  pron.en: foui … *pra*do
+- ¿Y qué viste?
+  en: And what did you see?
+  pron.en: … *biss*té
+- Vi Las Meninas, de Velázquez.
+  en: I saw Las Meninas, by Velázquez.
+  pron.en: bi … mé*ni*nass … bé*laç*kéç
+- ¿Te gustó?
+  en: Did you like it?
+  pron.en: … gouss*to*
+- Mucho. Pero solo estuve diez minutos delante del cuadro.
+  en: A lot. But I only stood in front of the painting for ten minutes.
+  pron.en: … éss*tou*bé … dé*lan*té … *coua*dro
+- ¿Solo diez minutos? ¿Por qué?
+  en: Only ten minutes? Why?
+- Porque me perdí.
+  en: Because I got lost.
+  pron.en: … pér*di*
+- ¿Y luego?
+  en: And then?
+  pron.en: … *loué*go
+- Pasé tres horas buscando la salida.
+  en: I spent three hours looking for the exit.
+  pron.en: pa*ssé* … bouss*can*do … sa*li*da
+
+sounds.en:
+1. The v of vi and viste is said as b, with the lips barely touching: *biss*té.
+2. The z of Velázquez is the th of think, and the qu before e is k: bé*laç*kéç.
+
+notes.en:
+1. Fui al Prado: this is the preterite, the past for a time that is over, such as el sábado. Fui means "I went". English uses one past here, not the "I have gone" of lesson 18, which is for today. Ir and ser share the form fui, so the sentence decides which one it is.
+2. Vi is "I saw", from ver. Las Meninas (1656) is the painting, and de Velázquez names the painter, "by Velázquez".
+3. ¿Te gustó? is gustar in the preterite. The thing liked is the subject, so the verb is singular: gustó, not gustaron. Lesson 19 has the present, gusta and gustan.
+4. Solo means "only" here, as in lesson 27, solo ida. Estuve is the preterite of estar: "I stood" or "I was" in a place. The irregular preterites, estuve among them, come in lesson 32.
+5. Me perdí is perderse, "to get lost", with me before the verb, as with me levanto in lesson 16. Perder without me, "to lose" or "to miss", comes in the next lesson.
+6. Luego means "then" or "later", as in English "and then?".
+7. Pasar with a length of time means "to spend" it: pasé tres horas is "I spent three hours". Lesson 20 had pasar as "to happen".
+8. Buscando is the gerund of buscar, "to look for", as in lesson 24. Salida is the exit; the look-alike éxito means "success".
+
+ex1:
+- Fui al cine el sábado.
+  en: I went to the cinema on Saturday.
+- Vi a Marta en el mercado.
+  en: I saw Marta at the market.
+- ¿Te gustó el cuadro?
+  en: Did you like the painting?
+- Pasé dos horas en el metro.
+  en: I spent two hours on the underground.
+- Me perdí en el mercado.
+  en: I got lost in the market.
+
+ex2:
+- El sábado [fui] al mercado.
+  en: On Saturday I went to the market.
+- [Vi] a Marta en el cine.
+  en: I saw Marta at the cinema.
+- Mucho. Pero solo [estuve] diez minutos.
+  en: A lot. But I only stood there ten minutes.
+- Me [perdí] en el metro.
+  en: I got lost on the underground.
+- [Pasé] tres horas buscando la salida.
+  en: I spent three hours looking for the exit.
+
+culture.en:
+The Prado opened as a museum in 1819, and its collection holds the great Spanish painters, Velázquez among them.
+
+== 30 A2
+numeral: Lección treinta
+numeral.pron.en: lék*cion* *tréïn*ta
+title: ¿Por qué llegaste tarde?
+title.en: Why were you late?
+
+dialogue:
+- ¿Por qué llegaste tarde ayer?
+  en: Why were you late yesterday?
+  pron.en: … yé*gass*té … a*yér*
+- Porque perdí el autobús.
+  en: Because I missed the bus.
+- ¿Y por qué perdiste el autobús?
+  en: And why did you miss the bus?
+  pron.en: … pér*diss*té …
+- Porque me levanté tarde.
+  en: Because I got up late.
+  pron.en: … léban*té* …
+- ¿Y por qué te levantaste tarde?
+  en: And why did you get up late?
+  pron.en: … léban*tass*té …
+- Porque me acosté a las tres.
+  en: Because I went to bed at three.
+  pron.en: … acoss*té* …
+- ¿A las tres? ¿Qué hiciste hasta las tres?
+  en: At three? What did you do until three?
+  pron.en: … *ass*ta …
+- Preparé la reunión de hoy.
+  en: I prepared today's meeting.
+  pron.en: prépa*ré* … réou*nion* …
+- ¿Y dónde está?
+  en: And where is it?
+- En mi ordenador. Y mi ordenador, en el autobús.
+  en: On my computer. And my computer is on the bus.
+  pron.en: … ordéna*dor* …
+
+sounds.en:
+1. The ll of llegaste is the y of yes, and so is the y of ayer: yé*gass*té, a*yér*.
+
+notes.en:
+1. Llegaste is the tú form of llegar in the preterite, "you arrived". Ayer is a time that is over, so it takes the preterite, not the perfect of lesson 18, which is for today.
+2. The regular preterite endings: for -ar verbs -é, -aste, -ó, -amos, -asteis, -aron; for -er and -ir verbs -í, -iste, -ió, -imos, -isteis, -ieron. So perdí is "I lost" or "I missed", and perdiste is the tú form.
+3. The yo form of llegar, llegué, is "I arrived". Before é a g would be soft, so Spanish writes a u to keep the g hard: llegué, said yé*gué*.
+4. Me levanté is me levanto (lesson 16) in the past: the pronoun goes before the verb, and te levantaste is the tú form.
+5. Acostarse, "to go to bed", works the same way: me acosté, "I went to bed". The time comes with a: a las tres, "at three", as in lesson 9.
+6. Hasta means "until": hasta las tres, "until three".
+7. Preparar is "to prepare" and reunión is "meeting", the word for a meeting at work. English "reunion" means a get-together of old friends, which is a different thing.
+8. Ordenador is the computer in Spain; in Latin America people say computadora.
+
+ex1:
+- Llegaste tarde al trabajo.
+  en: You arrived late for work.
+- Perdí el tren ayer.
+  en: I missed the train yesterday.
+- Me acosté a las once.
+  en: I went to bed at eleven.
+- Preparé el café.
+  en: I made the coffee.
+- Hasta las dos no me levanté.
+  en: I didn't get up until two.
+
+ex2:
+- ¿Ayer [llegaste] tarde?
+  en: Did you arrive late yesterday?
+- Me [levanté] tarde.
+  en: I got up late.
+- Me [acosté] a las tres.
+  en: I went to bed at three.
+- ¿[Perdiste] el autobús?
+  en: Did you miss the bus?
+- Preparé la [reunión] de hoy.
+  en: I prepared today's meeting.
+
+== 31 A2
+numeral: Lección treinta y una
+numeral.pron.en: lék*cion* *tréïn*ta i *ou*na
+title: ¿Has estado alguna vez en Granada?
+title.en: Have you ever been to Granada?
+
+dialogue:
+- ¿Has estado alguna vez en Granada?
+  en: Have you ever been to Granada?
+  pron.en: … éss*ta*do al*gou*na … gra*na*da
+- Sí, tres veces.
+  en: Yes, three times.
+  pron.en: … *bé*céss
+- ¿Y has visto la Alhambra?
+  en: And have you seen the Alhambra?
+  pron.en: … a*lam*bra
+- No, todavía no.
+  en: No, not yet.
+  pron.en: … toda*bi*a …
+- ¿Tres veces en Granada y nunca la has visto?
+  en: Three times in Granada and you've never seen it?
+  pron.en: … *noun*ca …
+- Fui hace cinco años, hace dos años y el año pasado.
+  en: I went five years ago, two years ago and last year.
+  pron.en: … *a*cé … *a*gno pa*ssa*do
+- ¿Y?
+  en: And?
+- Las tres veces no había entradas.
+  en: There were no tickets the three times.
+  pron.en: … én*tra*dass
+- ¿Y para mañana? ¿Ya las has comprado?
+  en: And for tomorrow? Have you already bought them?
+  pron.en: … com*pra*do
+- Sí. Las compré hace un año.
+  en: Yes. I bought them a year ago.
+  pron.en: … com*pré* …
+
+sounds.en:
+1. The h of Alhambra is silent, as in English "honest": a*lam*bra.
+
+notes.en:
+1. Has estado alguna vez is the perfect with alguna vez, "ever". In Spain the perfect is used for a time that is not over, and "ever" counts as one: lesson 18 had it for today.
+2. Vez means "time", as in one occasion; its plural is veces, and tres veces is "three times".
+3. Todavía no is "not yet", and nunca is "never". Both go with the perfect, as in nunca la has visto, "you have never seen it".
+4. Hace with a time means "ago": hace cinco años, "five years ago". The verb is in the preterite, fui, because that time is over. The rule for Spain: the perfect for a time not over (hoy, alguna vez), the preterite for one that is (ayer, el año pasado).
+5. Año pasado is "last year", and pasado is the word for "past" or "last".
+6. Había is the imperfect of hay, "there was" or "there were", as in lesson 17. Entrada here means a ticket for a place.
+7. Ya las he comprado: ya with the perfect means "already", and the pronoun las goes before the verb, as in lesson 26.
+8. Comprar is "to buy". Its perfect, he comprado, means "I have bought", as in lesson 18.
+
+ex1:
+- ¿Has estado alguna vez en Londres?
+  en: Have you ever been to London?
+- Sí, tres veces.
+  en: Yes, three times.
+- No, todavía no.
+  en: No, not yet.
+- Fui hace dos años.
+  en: I went two years ago.
+- Ya las he comprado.
+  en: I have already bought them.
+
+ex2:
+- ¿Has estado alguna [vez] en Granada?
+  en: Have you ever been to Granada?
+- Sí, tres [veces].
+  en: Yes, three times.
+- No, [todavía] no.
+  en: No, not yet.
+- [Fui] hace cinco años.
+  en: I went five years ago.
+- Ya las [he] comprado.
+  en: I have already bought them.
+
+culture.en:
+The Alhambra, the palace above Granada, is one of Spain's most visited monuments, and its tickets sell out weeks ahead. In Granada a drink often comes with a free tapa, a small plate of food.
+
+== 32 A2
+numeral: Lección treinta y dos
+numeral.pron.en: lék*cion* *tréïn*ta i doss
+title: Un fin de semana en Toledo
+title.en: A weekend in Toledo
+
+dialogue:
+- ¿Qué tal Toledo?
+  en: How was Toledo?
+  pron.en: … to*lé*do
+- Precioso. Pero no pudimos ver la catedral.
+  en: Lovely. But we couldn't see the cathedral.
+  pron.en: pré*cio*sso … pou*di*moss bér … caté*dral*
+- ¿Por qué?
+  en: Why?
+- Porque tuvimos que buscar aparcamiento.
+  en: Because we had to look for parking.
+  pron.en: … tou*bi*moss … bouss*car* aparca*mién*to
+- ¿Y lo encontrasteis?
+  en: And did the two of you find it?
+  pron.en: … éncon*trass*téïss
+- Sí, el domingo por la tarde.
+  en: Yes, on Sunday afternoon.
+- ¿Y qué hicisteis entonces?
+  en: And what did you two do then?
+  pron.en: … i*ciss*téïss …
+- Fuimos a ver la catedral.
+  en: We went to see the cathedral.
+  pron.en: *foui*moss …
+- ¿Y?
+  en: And?
+- Estaba cerrada.
+  en: It was closed.
+  pron.en: éss*ta*ba …
+- ¿Y qué dijisteis?
+  en: And what did you two say?
+  pron.en: … di*Hiss*téïss
+- Nada. Volvimos a Madrid en autobús y el coche está todavía en Toledo.
+  en: Nothing. We went back to Madrid by bus, and the car is still in Toledo.
+  pron.en: … bol*bi*moss … *co*tché …
+
+sounds.en:
+1. The c of catedral is the k of cat, before a: caté*dral*.
+2. The stress of encontrasteis falls on tras, not on the last syllable: éncon*trass*téïss.
+
+notes.en:
+1. Pudimos is poder in the preterite, "we could" or "we were able to", and tuvimos is tener, "we had". These verbs change their stem and take their own endings: pude, pudiste, pudo, pudimos, pudisteis, pudieron. The full table comes in the revision lesson.
+2. Fuimos is ir in the preterite, "we went". Ser has the same form, so the sentence decides, as in lesson 29 with fui.
+3. Vosotros is the plural "you" of Spain. Lo encontrasteis and qué hicisteis are asked of two people or more, and the -asteis and -isteis endings are the vosotros forms of the preterite. In Latin America people say ustedes.
+4. Estaba cerrada is the imperfect of estar: the state of the cathedral at that time, where fuimos is the event. We will see the imperfect and the preterite together in lesson 36.
+5. Nada is "nothing", the answer to ¿qué dijisteis?, as in no hay nada in lesson 27.
+6. Volver, "to go back", is regular in the preterite: volvimos, "we went back".
+7. Aparcamiento is a car park or a parking space, and buscar aparcamiento is "to look for a parking space".
+
+ex1:
+- No pudimos ir.
+  en: We couldn't go.
+- Tuvimos que buscar aparcamiento.
+  en: We had to look for parking.
+- Fuimos a ver la catedral.
+  en: We went to see the cathedral.
+- Volvimos a casa tarde.
+  en: We got home late.
+- Estaba cerrada el domingo.
+  en: It was closed on Sunday.
+
+ex2:
+- No [pudimos] ver la catedral.
+  en: We couldn't see the cathedral.
+- Tuvimos que buscar [aparcamiento].
+  en: We had to look for parking.
+- ¿Lo [encontrasteis]?
+  en: Did you two find it?
+- Estaba [cerrada].
+  en: It was closed.
+- [Volvimos] a Madrid en autobús.
+  en: We went back to Madrid by bus.
+
+culture.en:
+Toledo is called the city of three cultures, because Christians, Muslims and Jews lived there together for centuries. Its marzipan, mazapán, is famous.
+
+== 33 A2
+numeral: Lección treinta y tres
+numeral.pron.en: lék*cion* *tréïn*ta i tréss
+title: Pídeselo a tu padre
+title.en: Ask your father
+
+dialogue:
+- Mamá, ¿me das treinta euros?
+  en: Mum, will you give me thirty euros?
+  pron.en: … dass …
+- ¿Para qué?
+  en: What for?
+- Para el cine.
+  en: For the cinema.
+- Pídeselos a tu padre.
+  en: Ask your father for them.
+  pron.en: *pi*désséloss … *pa*dré
+- Ya se los he pedido.
+  en: I've already asked him for them.
+  pron.en: … pé*di*do
+- ¿Y qué te ha dicho?
+  en: And what did he say to you?
+- Me ha dicho que te los pida a ti.
+  en: He told me to ask you for them.
+  pron.en: … *pi*da …
+- Pues dile que yo no tengo dinero.
+  en: Then tell him I haven't got any money.
+  pron.en: … *di*lé … di*né*ro
+- ¿Y si me dice que te los pida a ti?
+  en: And if he says I should ask you for them?
+  pron.en: … si … *di*cé …
+- Entonces pídeselos a tu abuela.
+  en: Then ask your grandmother for them.
+
+notes.en:
+1. Me das is dar, "to give", in the tú form: me das, "you give me". Dar is irregular in the present, and the pronoun me means "to me" here.
+2. Pedir, "to ask for" something, changes e to i in the present: pido, pides, pide. It is for things: a favour, money. English says "ask" for this and for questions, but Spanish splits them: pedir for things, and preguntar for a question.
+3. Pídeselos means "ask him for them". Le becomes se before lo, la, los or las, so le plus los is se los: se los he pedido, "I've asked him for them". The se can mean to him, to her, or to you (usted), and the sentence says which.
+4. The little words me, te, le, nos, os and les tell you to whom: me das, te los pida. They come before the verb, or join on to a command: pídeselos.
+5. Ya se los he pedido: ya with the perfect means "already", and the pronouns go before he, as in lesson 31.
+6. Dile is decir, "to say" or "tell", in the tú command: di, "tell". The command is explained in lesson 34.
+7. Que te los pida a ti, "that I ask you for them": pida is a subjunctive, the form that follows decir que when it passes on an order. We will come back to it.
+
+ex1:
+- ¿Me das un café?
+  en: Will you give me a coffee?
+- Pídeselos a tu hermana.
+  en: Ask your sister for them.
+- Ya se lo he dado a mamá.
+  en: I've already given it to Mum.
+- Me ha dicho que no.
+  en: She told me no.
+- Mi abuela vive en Madrid.
+  en: My grandmother lives in Madrid.
+
+ex2:
+- ¿Me [das] treinta euros?
+  en: Will you give me thirty euros?
+- [Pídeselos] a tu padre.
+  en: Ask your father for them.
+- Ya se [lo] he dado.
+  en: I've already given it to him.
+- Me [ha] dicho que no.
+  en: She told me no.
+- Mi [abuela] vive en Madrid.
+  en: My grandmother lives in Madrid.
+
+aside.en:
+A third of the course is behind you.
+
+== 34 A2
+numeral: Lección treinta y cuatro
+numeral.pron.en: lék*cion* *tréïn*ta i *coua*tro
+title: La tortilla
+title.en: The Spanish omelette
+
+dialogue:
+- Pela las patatas y córtalas.
+  en: Peel the potatoes and cut them.
+  pron.en: *pé*la … pa*ta*tass … *cor*talass
+- Ya está.
+  en: Done.
+- Pon aceite en la sartén.
+  en: Put oil in the frying pan.
+  pron.en: pon a*céï*té … sar*tén*
+- ¿Mucho?
+  en: A lot?
+- Mucho. Fríe las patatas despacio.
+  en: A lot. Fry the potatoes slowly.
+  pron.en: … *fri*é … déss*pa*cio
+- ¿Y la cebolla?
+  en: And the onion?
+  pron.en: … cé*bo*ya
+- ¡En esta casa, nunca!
+  en: Not in this house, never!
+- Bueno. ¿Y ahora?
+  en: All right. And now?
+- Bate los huevos y échalos con las patatas.
+  en: Beat the eggs and put them in with the potatoes.
+  pron.en: *ba*té … *é*tchaloss …
+- Ya está.
+  en: Done.
+- Ahora dale la vuelta con un plato.
+  en: Now turn it over with a plate.
+  pron.en: … *da*lé … *pla*to
+- ¿Así?
+  en: Like this?
+- ¡No! ¡La tortilla está en el suelo!
+  en: No! The omelette is on the floor!
+  pron.en: … tor*ti*ya … *soué*lo
+
+sounds.en:
+1. The ll of cebolla is the y of yes: cé*bo*ya.
+2. The stress of sartén is on the last syllable, with the accent: sar*tén*.
+
+notes.en:
+1. The tú command of -ar verbs ends in -a: pela, corta, echa. Of -er and -ir verbs it ends in -e: bate, and fríe, from freír, which changes its stem too.
+2. Pon is the tú command of poner, "to put", and it is irregular. So are sal, ven, ten, di, haz and ve; the revision lesson puts them in order.
+3. The pronoun joins on to the affirmative command: córtalas, "cut them", échalos, "put them in", dale, "give it". The stress stays where it was, so échalos gets an accent.
+4. Dale la vuelta is dar la vuelta, "to turn over", with le for the omelette: "turn it over".
+5. Ya está is "that's it", "done", literally "already is".
+6. Despacio is "slowly", as in the English "take it slowly".
+7. Batir is "to beat" and echar here is "to put in" ("to throw" in other uses).
+
+ex1:
+- Pela las patatas.
+  en: Peel the potatoes.
+- Pon el café en la mesa.
+  en: Put the coffee on the table.
+- Bate los huevos.
+  en: Beat the eggs.
+- Ya está.
+  en: That's it.
+- Ahora dale la vuelta.
+  en: Now turn it over.
+
+ex2:
+- [Pela] las patatas.
+  en: Peel the potatoes.
+- Fríe las patatas [despacio].
+  en: Fry the potatoes slowly.
+- ¿Y la [cebolla]?
+  en: And the onion?
+- [Échalos] con las patatas.
+  en: Put them in with the potatoes.
+- Ahora dale la [vuelta].
+  en: Now turn it over.
+
+culture.en:
+The tortilla de patatas, the Spanish omelette, is made with potatoes, eggs and olive oil. Whether it should have onion is a question that Spaniards argue about with great enthusiasm.
+
+== 35 A2
+kind: revision
+numeral: Lección treinta y cinco
+numeral.pron.en: lék*cion* *tréïn*ta i *cin*co
+title: Revisión y notas
+title.en: Revision and notes
+
+dialogue:
+- ¿Qué tal el sábado?
+  en: How was Saturday?
+  refs: 3 11
+- Mal. Perdí el tren.
+  en: Bad. I missed the train.
+  refs: 3 27 29
+- ¿Y el domingo?
+  en: And Sunday?
+  refs: 8
+- Fui a la catedral y estaba cerrada.
+  en: I went to the cathedral and it was closed.
+  refs: 8 29 32
+- ¡Qué mala suerte! ¿Y qué hiciste luego?
+  en: What bad luck! And what did you do then?
+  refs: 25 29
+- Me perdí en el metro y llegué a casa a las tres.
+  en: I got lost on the underground and got home at three.
+  refs: 4 29 30
+- Pues yo estuve en casa.
+  en: Well, I stayed at home.
+  refs: 15 29
+- ¿Y qué hiciste en casa?
+  en: And what did you do at home?
+  refs: 29
+- Nada. Vi el fútbol y ya está.
+  en: Nothing. I watched the football, and that's all.
+  refs: 4 24 29 34
+- ¿Nada? ¿Y qué tal?
+  en: Nothing? And how was it?
+  refs: 1 4 29
+- Muy bien. Me acosté a las diez.
+  en: Very good. I went to bed at ten.
+  refs: 1 25 30
+- Pero si no hiciste nada.
+  en: But you didn't do anything! (But if [you] did nothing.)
+  refs: 8 29
+- Pues fue el mejor domingo del año.
+  en: Well, it was the best Sunday of the year.
+  refs: 15 23 29
+
+notes.en:
+Six lessons have gone by since the last revision, lessons 29 to 34. Nothing here needs to be learnt by heart. This lesson puts in order the past tenses and the commands that came up in them. If a part seems too much, go on; it will come back in the lessons ahead, a little clearer each time. Doubts are normal, and every table here is a reminder rather than a rule to memorise.
+
+1. The regular preterite (lessons 29, 30, 32). The ending tells you the person, and the verb's family decides which ending: -ar verbs or -er and -ir verbs.
+
+| Person | -ar: llegar | -er or -ir: perder, volver | Met in |
+|---|---|---|---|
+| I | llegué | perdí | 29, 30 |
+| you (tú) | llegaste | perdiste | 30 |
+| he, she, you (usted) | llegó | perdió | |
+| we | llegamos | volvimos | 32 |
+| you (all, Spain) | encontrasteis | perdisteis | 32 |
+| they, you (all) | llegaron | perdieron | |
+
+Verbs ending in -gar and -car change their spelling in the I form: llegué, not llegé, so the g stays hard (lesson 30).
+
+2. The irregular preterites met (lessons 29, 32). These verbs change their stem and take their own endings, not the regular ones.
+
+| Verb | Forms | Met in |
+|---|---|---|
+| ir and ser | fui, fuimos; fue (he, she, you usted) | 29, 32 |
+| hacer | hiciste, hicisteis | 29, 32 |
+| decir | dijisteis | 32 |
+| estar | estuve | 29 |
+| tener | tuvimos | 32 |
+| poder | pudimos | 32 |
+
+Fui can be "I went" or "I was": the sentence decides, as in lesson 29.
+
+3. Perfect or preterite? (lessons 18, 28, 30, 31). In Spain the perfect is for a time that is not over, and the preterite is for a time that is over. English is less strict, so the rule is worth learning.
+
+| Time word | Tense | Example |
+|---|---|---|
+| esta mañana (this morning) | perfect | Esta mañana se ha llevado una (28) |
+| alguna vez (ever) | perfect | ¿Has estado alguna vez en Granada? (31) |
+| ayer (yesterday) | preterite | ¿Por qué llegaste tarde ayer? (30) |
+| hace cinco años (five years ago) | preterite | Fui hace cinco años (31) |
+| el año pasado (last year) | preterite | Fui hace dos años y el año pasado (31) |
+
+4. Indirect pronouns and se lo (lessons 18, 33). These pronouns say to whom something is done, and they come before the verb.
+
+| Pronoun | Meaning | Example |
+|---|---|---|
+| me | to me | me das (33) |
+| te | to you (tú) | te los pida (33) |
+| le | to him, to her, to you (usted) | ¿Le has dado el informe? (18) |
+| nos, os, les | to us, to you (all), to them | |
+
+Before lo or los, le and les become se: pídeselos, "ask him for them" (33), and se los he pedido, "I have asked him for them" (33). Pedir means "to ask for" something, as in pídeselos. Preguntar means "to ask" a question, a different verb.
+
+5. The tú command (lessons 33, 34). For the command to a friend, -ar verbs take -a and -er or -ir verbs take -e: pela, echa, bate, fríe (34). Pronouns join on the end, and the stress keeps its place, so échalos has an accent. Irregular commands met: pon (34), di, in dile (33), and da, in dale (34). The others, haz, ve, sal, sé, ten and ven, are not in the dialogues yet.
+
+6. Hace with a time, "ago" (lesson 31). Hace takes the preterite, because the time is over: hace cinco años, "five years ago"; hace un año, "a year ago" (31).
+
+That is the week: the preterite for what is over, the perfect for what is not, and the tú command to tell someone what to do.

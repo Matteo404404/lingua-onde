@@ -220,3 +220,17 @@ word the tool figured wrongly, anything you were unsure of.
   take -s and -es in the plural.
 - A circular note ("as it is in ¡qué mala suerte!") is replaced by one that
   says what the form is.
+
+## Rules added after week 5
+
+- The dialogue obeys the lesson's own rule: hace un año takes the
+  preterite (las compré hace un año), never the perfect.
+- Before writing "lesson N" for a later topic, open that block of
+  foundation.md and see that it is there (lesson 36 is the imperfect with
+  the preterite; éxito is lesson 45). Otherwise write "later".
+- A note on a form explains the form in the dialogue; never cite a form the
+  dialogue does not have (se los pidas).
+- An odd number of lines is fine: the scene does not need strict
+  alternation to end on the twist.
+- A vague question in a scene ("¿Y fue bueno?") is replaced by one that
+  cannot be misread.

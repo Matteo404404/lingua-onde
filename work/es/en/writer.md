@@ -154,3 +154,22 @@ Files: work/es/en/foundation/NNN.txt, one lesson each, starting:
 
 Report briefly: per lesson the lines and new words, the checker output, any
 word the tool figured wrongly, anything you were unsure of.
+
+## Rules added after week 1
+
+- Never explain a joke in a note ("the joke is in the last line"): the last
+  line must work on its own. Notes explain language, not the story.
+- No invented trivia ("the number you hear most often on a bus"), no claims
+  about how a place works that you cannot be sure of (paying, opening hours,
+  logos). A culture paragraph says less rather than guess.
+- No literal gloss in brackets when it is the same as the translation.
+- A note does not say the same thing twice in two sentences.
+- refs in a revision lesson name earlier lesson numbers, not note sections.
+- A revision scene must hang together as one conversation: each line answers
+  the one before. Use the forms of the week (usted, también, hablamos).
+- Foreign place names that the tool cannot figure (Leeds) are avoided; use a
+  name Spanish writes in its own way (Brístol, Londres, Edimburgo).
+- The figured form quoted inside sounds.en or notes.en must match the
+  generated pron.en exactly (*lé*Hoss, not lé*Hos*).
+- Exercise sentences are things a person would say; never "Buenas tardes,
+  ¿y tú?" with nothing before it.

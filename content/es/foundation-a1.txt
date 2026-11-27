@@ -141,3 +141,434 @@ ex2:
 
 culture.en:
 Spaniards move to first names and to tú very quickly: two people introduced at a party or a bar say tú from the first sentence, as Fiona and Javier do. When they are introduced, women, and a man and a woman, greet each other with dos besos, two light kisses, one on each cheek, even at a first meeting; two men usually shake hands. In Madrid you will also find many intercambios, evenings in a bar where Spaniards and foreigners meet to swap languages: half an hour in English, half an hour in Spanish. They are the best place to say, for the first time and to a real person: Encantado, or Encantada.
+
+== 3 A1
+numeral: Lección tercera
+numeral.pron.en: lék*cion* tér*cé*ra
+title: ¿Qué tal?
+title.en: How are things?
+
+dialogue:
+- Buenos días. ¿Qué tal?
+  en: Good morning. How are things? (What so?)
+  pron.en: *boué*noss *di*ass. ¿ké tal?
+- Regular. He dormido muy mal.
+  en: So-so. I slept very badly. (So-so. I have slept very badly.)
+  pron.en: régou*lar*. é dor*mi*do moui mal.
+- ¿Estás cansado?
+  en: Are you tired?
+  pron.en: ¿éss*tass* can*ssa*do?
+- Sí, estoy muy cansado.
+  en: Yes, I'm very tired. (Yes, [I] am very tired.)
+  pron.en: si, éss*toï* moui can*ssa*do.
+- ¿Quieres un café?
+  en: [Do] you want a coffee?
+  pron.en: ¿*kié*réss oun ca*fé*?
+- Sí, por favor. Uno grande.
+  en: Yes, please. [A] big one. (Yes, please. One big.)
+  pron.en: si, por fa*bor*. *ou*no *gran*dé.
+
+sounds.en:
+1. The r at the start of a word is rolled, like the rr, though the figured line writes it r: regular is said with a fluttering tongue, not with the single tap of the English "better" said fast.
+2. Qu is a k before e and i, and the u is silent: quieres is *kié*réss. The ie is one syllable, with the stress on its first part, as the bold shows.
+3. A d between vowels is said with the th of this, soft and short, as in dormido and cansado: the tongue touches the back of the teeth and the breath never stops.
+
+notes.en:
+1. ¿Qué tal?: how are things? Literally "what so?", and it is a set phrase, not a question about one thing. The answer is usually a short one: regular, so-so, or muy bien, very well, as we will hear in lesson 5.
+2. Regular: so-so, not the English "regular". It is a false friend: in Spanish it means "so-so" or "average", and it is never a praise of something that is steady or normal.
+3. He dormido: I slept, literally "I have slept". Spain uses this form for last night when it is still morning, because today has not finished yet; a time that is over, like yesterday, takes another form, which comes much later. We will come back to this form in lesson 18.
+4. Estoy cansado: I'm tired. Estar is the second "to be" of Spanish. Soy, from lesson 2, says who you are; estoy says how you are today. Cansado agrees with the person: a woman says estoy cansada. The revision lesson puts ser and estar side by side.
+5. ¿Quieres un café?: do you want a coffee? Spanish has no word for the "do" of the English question: the verb quieres, "you want", is the question, and the voice rises at the end.
+6. Uno grande: "one big", with no un before it. Uno stands alone when the noun has already been named (un café, uno grande). Grande has one form for both genders: un café grande, una tostada grande.
+7. Muy: very, as in muy cansado and muy mal. Muy never changes, and it goes before an adjective or an adverb; mucho, as in muchas gracias, is for nouns and "a lot".
+
+ex1:
+- Estoy muy cansado.
+  en: I'm very tired. (a man speaking)
+- ¿Quieres uno grande?
+  en: Do you want a big one?
+- He dormido mal.
+  en: I slept badly.
+- ¿Quieres una tostada grande?
+  en: Do you want a big toast?
+- Estoy muy mal.
+  en: I feel very bad.
+
+ex2:
+- [Estoy] muy cansado.
+  en: I'm very tired.
+- ¿[Estás] muy mal?
+  en: Are you feeling very bad?
+- ¿[Quieres] un café?
+  en: Do you want a coffee?
+- [Uno] grande, por favor.
+  en: A large one, please.
+- [He] dormido mal.
+  en: I slept badly.
+
+== 4 A1
+numeral: Lección cuarta
+numeral.pron.en: lék*cion* *couar*ta
+title: ¿Dónde está el metro?
+title.en: Where's the underground?
+
+dialogue:
+- Perdone, ¿dónde está el metro?
+  en: Excuse me, where's the underground? (Pardon, where is the metro?)
+  pron.en: pér*do*né, ¿*don*dé éss*ta* él *mé*tro?
+- ¿El metro? Está allí, a la derecha.
+  en: The underground? [It's] over there, on the right. (The metro? Is there, to the right.)
+  pron.en: ¿él *mé*tro? éss*ta* a*yi*, a la dé*ré*tcha.
+- ¿Está lejos?
+  en: Is [it] far?
+  pron.en: ¿éss*ta* *lé*Hoss?
+- No, no. Cinco minutos.
+  en: No, no. Five minutes.
+  pron.en: no, no. *cin*co mi*nou*toss.
+- Muchas gracias.
+  en: Thank you very much. (Many thanks.)
+  pron.en: *mou*tchass *gra*ciass.
+- De nada.
+  en: You're welcome. (Of nothing.)
+  pron.en: dé *na*da.
+
+sounds.en:
+1. The d of nada, between two vowels, is the th of this, soft and short: *na*da, said with the tongue touching the back of the teeth, not the d of "dog".
+2. The j of lejos is the Scottish ch of loch, the rough breath of lesson 2: *lé*Hoss. Remember it with the H of Javier, not with the English j of "jot".
+3. The r of derecha is a single tap, as in lesson 1: the tongue flicks once against the roof of the mouth. The ch that follows is the tch of church: dé*ré*tcha.
+
+notes.en:
+1. Perdone: excuse me, said with usted, the form for an adult you do not know, which the barman of lesson 1 used with his customer. The friendly form, to someone you talk to as a friend, is perdona. The two forms are one of the first things to keep apart in Spain.
+2. ¿Dónde está el metro?: where is the underground? Dónde has a written accent because it is a question word, as cómo did in lesson 2. Está is the form of estar for a place: where something is, not who or what it is, which is ser.
+3. El metro: the, masculine. El is used for masculine nouns, la for feminine ones: el metro, la derecha. Metro ends in -o, and most such nouns are masculine, but the rule is a guide and the article tells you the gender.
+4. Está allí, a la derecha: over there, on the right. Allí is "there" for something further away than aquí, here. A la derecha is literally "to the right"; its opposite is a la izquierda, to the left.
+5. ¿Está lejos?: is it far? Lejos means far, and cerca, near, is its opposite. The word for "it" is not said: the form está already tells you that the thing is far, so Spanish leaves the pronoun out.
+6. No, no. Cinco minutos.: no is said twice to mean "not at all". Minutos is the plural of minuto, with the -s we will look at in the revision lesson. Cinco is five.
+7. Muchas gracias, de nada: thank you very much, and you're welcome, literally "of nothing". The answer to gracias is de nada; you will hear it all over Spain.
+
+ex1:
+- Perdone, ¿dónde está el café?
+  en: Excuse me, where is the café?
+- La tostada está aquí.
+  en: The toast is here.
+- El metro está lejos.
+  en: The underground is far.
+- Cinco minutos, por favor.
+  en: Five minutes, please.
+- No, no. El metro está allí.
+  en: No, no. The underground is over there.
+
+ex2:
+- ¿Dónde [está] el metro?
+  en: Where is the underground?
+- [Muchas] gracias.
+  en: Thank you very much.
+- El metro [está] allí.
+  en: The underground is over there.
+- [Cinco] minutos.
+  en: Five minutes.
+- [De] nada.
+  en: You're welcome.
+
+culture.en:
+Madrid opened the first underground line in Spain in 1919, between Sol and Cuatro Caminos, and el metro is still the way most people get around the city. Its sign is a red diamond with the word METRO across it, and many of its stations take their names from squares, streets and saints: Sol, Callao, Santo Domingo. Ask a stranger for the way, and you will be told a la derecha or a la izquierda, and often how many minutes it is: ¿Está lejos? Cinco minutos.
+
+== 5 A1
+numeral: Lección quinta
+numeral.pron.en: lék*cion* *kin*ta
+title: ¿Hablas inglés?
+title.en: Do you speak English?
+
+dialogue:
+- ¿Hablas inglés?
+  en: [Do] you speak English?
+  pron.en: ¿*a*blass in*gléss*?
+- Sí, un poco. ¿Eres inglés?
+  en: Yes, a little. Are [you] English?
+  pron.en: si, oun *po*co. ¿*é*réss in*gléss*?
+- No, soy irlandés. Vivo en Dublín.
+  en: No, I'm Irish. [I] live in Dublin.
+  pron.en: no, soï irlan*déss*. *bi*bo én dou*blin*.
+- ¿Y qué haces en España?
+  en: And what do you do in Spain?
+  pron.en: ¿i ké *a*céss én éss*pa*gna?
+- Estudio español en Madrid.
+  en: [I] study Spanish in Madrid.
+  pron.en: éss*tou*dio ésspa*gnol* én ma*drid*.
+- ¡Hablas muy bien!
+  en: You speak very well!
+  pron.en: ¡*a*blass moui bién!
+- Gracias. Hablo un poco.
+  en: Thanks. [I] speak a little.
+  pron.en: *gra*ciass. *a*blo oun *po*co.
+
+sounds.en:
+1. The ñ of España is written gn and sounds like the ni of onion: éss*pa*gna, not the n of "Espana".
+2. The -s at the end of hablas is always sounded, as the s of see and never the z of rose: *a*blass. The h of hablar is silent, and so is the h of hablo.
+3. The b of hablo, between two vowels, is made with the lips barely touching, so that the air leaks through: *a*blo. The v of vivo is said the same way, as the v of favor was in lesson 1.
+
+notes.en:
+1. ¿Hablas inglés?: do you speak English? Hablas is the form of hablar, to speak, for the person you talk to as a friend (tú). The ending -as says "you", so Spanish does not need the pronoun, as in lesson 2 with soy. A question is the same order as a statement, with the voice rising at the end.
+2. Sí, un poco: yes, a little, literally "a bit". Un poco is the way Spaniards say they speak a little, and it is used for anything in small measure: un poco de español, a little Spanish. The English "a" of "a little" is the un of the Spanish.
+3. ¿Eres inglés?: are you English? Inglés is the nationality and also the name of the language, and both take no capital letter in Spanish. The feminine is inglesa, as in lesson 2.
+4. Soy irlandés. Vivo en Dublín: I'm Irish, and I live in Dublin. Irlandés is the Irish man, irlandesa the Irish woman: it changes in the same way as inglés. Vivo is the form of vivir, to live, and vivir follows the same pattern as hablar, with the ending -o for I. In is en, and Dublín takes its stress on the last syllable, as its accent shows.
+5. ¿Y qué haces en España?: and what do you do in Spain? Haces is the form of hacer, to do or to make, for tú. Qué haces is the question you ask someone about their work or their studies, and the verb carries it. We will meet hacer in full in lesson 15.
+6. Estudio español: I study Spanish. Estudiar, to study, is another verb of the -ar pattern: estudio, estudias, estudia. Español, Spanish, is the language, with no capital letter.
+7. ¡Hablas muy bien!: you speak very well! Muy bien is very well, and muy is very, as in lesson 3.
+8. Gracias. Hablo un poco: thanks. I speak a little. The modest reply is the Spanish way: the speaker is praised and answers that they only speak a little, even when they speak well.
+
+The pattern of the three verbs so far is simple. The -ar verbs: hablo, hablas, habla; estudio, estudias, estudia. The -ir verbs: vivo, vives, vive. Only the ending changes, and the ending tells you who is speaking. We will put them side by side in the revision lesson.
+
+ex1:
+- Hablo inglés y español.
+  en: I speak English and Spanish.
+- Vivo en España.
+  en: I live in Spain.
+- Hablo un poco de español.
+  en: I speak a little Spanish.
+- Estudio inglés en Dublín.
+  en: I study English in Dublin.
+- ¿Eres de España?
+  en: Are you from Spain?
+
+ex2:
+- [Vivo] en Dublín.
+  en: I live in Dublin.
+- [Estudio] español en Madrid.
+  en: I study Spanish in Madrid.
+- ¿Eres [de] Madrid?
+  en: Are you from Madrid?
+- No, [soy] irlandés.
+  en: No, I'm Irish. (a man speaking)
+- Un [poco] de inglés.
+  en: A little English.
+
+culture.en:
+In Spain the language is called español, the name used everywhere in the world, and also castellano, from Castile, the old kingdom whose speech became the standard. Both names are correct, and in Madrid you will hear both. Where another language is spoken as well, as Catalan is in Barcelona and Basque in the north, people often say castellano to mark the difference, and the word español is the one used across the Spanish-speaking world. A quick "hablo un poco" will get you a warm reply.
+
+== 6 A1
+numeral: Lección sexta
+numeral.pron.en: lék*cion* *séss*ta
+title: Dos chocolates
+title.en: Two hot chocolates
+
+dialogue:
+- Buenas tardes. ¿Qué le pongo?
+  en: Good afternoon. What can I get you? (What [for] you do I put?)
+  pron.en: *boué*nass *tar*déss. ¿ké lé *pon*go?
+- Dos chocolates con churros, por favor.
+  en: Two hot chocolates with churros, please. (Two chocolates with churros, for favour.)
+  pron.en: doss tchoco*la*téss con *tchou*rross, por fa*bor*.
+- ¿Para dos personas?
+  en: For two people?
+  pron.en: ¿*pa*ra doss pér*sso*nass?
+- No, para una.
+  en: No, for one.
+  pron.en: no, *pa*ra *ou*na.
+- ¿Dos chocolates para una persona?
+  en: Two hot chocolates for one person?
+  pron.en: ¿doss tchoco*la*téss *pa*ra *ou*na pér*sso*na?
+- Sí: uno para hoy y otro para mañana.
+  en: Yes, one for today and another for tomorrow.
+  pron.en: si: *ou*no *pa*ra oï i *o*tro *pa*ra ma*gna*na.
+
+sounds.en:
+1. The ch of chocolates and churros is the tch of church, never the sh of "ship": tchoco*la*téss, *tchou*rross.
+2. The rr of churros is rolled, the tongue fluttering behind the teeth, while the r of para is one quick tap, like the tt of American "better". The two sounds are different letters, and they are different sounds.
+3. The ñ of mañana is the ni of onion, as in España in lesson 5: ma*gna*na.
+
+notes.en:
+1. Buenas tardes: good afternoon. It is said after lunch, until the evening, when buenas noches takes over. This is the afternoon greeting promised in lesson 1: buenos días for the morning, buenas tardes for the afternoon.
+2. ¿Qué le pongo?: what can I get you? It is the same question as the barman asked in lesson 1: le is the usted form, for the person you serve. You will hear it in most bars and churrerías.
+3. Dos chocolates con churros: two hot chocolates with churros. Dos is two, and the noun after it takes the plural -s: chocolate becomes chocolates. Churros are fried strips of dough, and they are already plural, as the -s shows. From one to ten: uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez; tomorrow's revision lists them up to twenty.
+4. ¿Para dos personas?: for two people? Para means "for" in the sense of the one a thing is meant for, and it is one of the two Spanish words for the English "for"; por is the other, and we will come to it in lesson 14. Persona, person, is feminine: una persona, dos personas.
+5. No, para una: no, for one. Una stands for the feminine persona, left unsaid, so it is una and not uno.
+6. Uno para hoy y otro para mañana: one for today and another for tomorrow. Otro means "another" and it takes no un before it: otro chocolate, never un otro. Uno and otro are a pair: the one and the other. Hoy is today and mañana is tomorrow, with the ñ of the ni of onion.
+
+ex1:
+- Dos churros, por favor.
+  en: Two churros, please.
+- Mañana estudio español.
+  en: Tomorrow I'm studying Spanish.
+- Un café para una persona.
+  en: A coffee for one person.
+- Buenas tardes. ¿Qué tal?
+  en: Good afternoon. How are things?
+- Hoy estudio, mañana hablo.
+  en: Today I study, tomorrow I speak.
+
+ex2:
+- [Buenas] tardes.
+  en: Good afternoon.
+- Dos chocolates, [por] favor.
+  en: Two hot chocolates, please.
+- [Para] dos personas.
+  en: For two people.
+- [Hoy] estoy cansado.
+  en: I'm tired today.
+- Uno [para] hoy.
+  en: One for today.
+
+culture.en:
+Churros con chocolate is the classic afternoon or late-night order in Madrid, and the most famous place to eat it is the San Ginés chocolatería, a few steps from the Puerta del Sol, open since 1894. The chocolate is thick, almost a pudding, and the churros are dipped in it. People go after a night out, or on Sunday morning after a walk, and they often order porras, the thicker version of the churro. Nobody will ask you to hurry.
+
+aside.en:
+Tomorrow is a revision lesson: nothing new, everything in order.
+
+== 7 A1
+kind: revision
+numeral: Lección séptima
+numeral.pron.en: lék*cion* *sép*tima
+title: Revisión y notas
+title.en: Revision and notes
+
+dialogue:
+- Perdone, ¿es usted de Madrid?
+  en: Excuse me, are you from Madrid?
+  pron.en: pér*do*né, ¿éss ouss*téd* dé ma*drid*?
+  refs: 2 4
+- No, no soy de aquí. Vivo aquí y estudio español.
+  en: No, I'm not from here. [I] live here and [I] study Spanish.
+  pron.en: no, no soï dé a*ki*. *bi*bo a*ki* i éss*tou*dio ésspa*gnol*.
+  refs: 2 5
+- ¡Yo también! ¿Qué tal el español?
+  en: Me too! How's the Spanish going? (I also! What so the Spanish?)
+  pron.en: ¡yo tam*bién*! ¿ké tal él ésspa*gnol*?
+  refs: 3 5
+- Regular. Hablo un poco.
+  en: So-so. [I] speak a little.
+  pron.en: régou*lar*. *a*blo oun *po*co.
+  refs: 3 5
+- Usted habla muy bien.
+  en: You speak very well.
+  pron.en: ouss*téd* *a*bla moui bién.
+  refs: 3 5
+- Gracias. ¿De dónde es usted?
+  en: Thank you. Where are you from? (Thanks. From where are you?)
+  pron.en: *gra*ciass. ¿dé *don*dé éss ouss*téd*?
+  refs: 1 4
+- De Brístol. ¿Y usted?
+  en: From Bristol. And you?
+  pron.en: dé *briss*tol. ¿i ouss*téd*?
+  refs: 2
+- ¡Yo también soy de Brístol!
+  en: I'm from Bristol too! (I also am from Bristol!)
+  pron.en: ¡yo tam*bién* soï dé *briss*tol!
+  refs: 2
+- ¿Sí? ¿Hablamos en inglés?
+  en: Really? Shall we speak English? (Yes? Do we speak in English?)
+  pron.en: ¿si? ¿a*bla*moss én in*gléss*?
+  refs: 2 5
+- No, no. Hablamos en español.
+  en: No, no. [We'll] speak Spanish. (No, no. We speak in Spanish.)
+  pron.en: no, no. a*bla*moss én ésspa*gnol*.
+  refs: 4 5
+
+notes.en:
+Six lessons have gone by, and nothing in them has to be learnt by heart. This lesson is not a test: it puts in order what you have already read, heard and said. If a part seems too much, go on; it will come back in the lessons ahead, a little clearer each time. What matters is being understood, not being perfect.
+
+1. Pronunciation (lessons 1, 2, 3, 5, 6). The five Spanish vowels are pure and short, and they never change, stressed or not. The figured line writes them as follows.
+
+| Vowel | Figured | Example |
+|---|---|---|
+| a | a | gracias (*gra*ciass) |
+| e | é | leche (*lé*tché) |
+| i | i | sí (si) |
+| o | o | hola (*o*la) |
+| u | ou | uno (*ou*no) |
+
+The c before e and i, and the z, are the th of think: gracias, lección. Ll and y are the y of yes: llamo (*ya*mo). The h is silent: hola, hablo. The j, and the g before e and i, are the rough H of Javier (Ha*biér*), as in lejos (*lé*Hoss). The ñ is gn, the ni of onion: España (éss*pa*gna). The single r is a tap, as in para, and the rr is rolled, as in churros. An s inside a word is always ss, never z: hablas (*a*blass).
+
+2. Stress and the written accent (lessons 1, 2, 4, 5). Without a written accent, a word ending in a vowel, n or s is stressed on the next-to-last syllable; a word ending in any other consonant is stressed on the last. The accent shows where the stress goes when the rule does not fit.
+
+| Word | Stress | Rule |
+|---|---|---|
+| escocesa | éssco*cé*ssa | vowel ending: next-to-last |
+| Madrid | ma*drid* | consonant ending: last |
+| cómo | *co*mo | written accent |
+| dónde | *don*dé | written accent, question word |
+| aquí | a*ki* | written accent, last syllable |
+
+The accent on question words (cómo, dónde, qué) is always written. Tú, with an accent, means "you", and tu without one means "your"; sí, with its accent, means "yes".
+
+3. Gender: un, una, el, la (lessons 1, 2, 4, 5). Every noun is masculine or feminine, and "a" and "the" agree with it. Most nouns ending in -o are masculine and most ending in -a are feminine, but café is masculine without ending in -o, so the article, not the ending, tells you the gender.
+
+| Masculine | Feminine |
+|---|---|
+| un café | una tostada |
+| el metro | la derecha |
+| inglés | inglesa |
+| irlandés | irlandesa |
+
+Nationality words agree with the person: a man is inglés, a woman inglesa. Persona, person, ends in -a and is feminine: una persona. The adjective grande has one form for both: un café grande, una tostada grande.
+
+4. The plural (lessons 3, 4, 6). The plural adds -s after a vowel and -es after a consonant. The article el and la becomes los and las.
+
+| Singular | Plural |
+|---|---|
+| chocolate | chocolates (lesson 6) |
+| minuto | minutos (lesson 4) |
+| tostada | tostadas |
+| inglés | ingleses |
+| el, la | los, las |
+
+Dos is two, and the noun after it is plural: dos personas. Inglés loses its written accent in the plural: ingleses ends in -s and is stressed on its next-to-last syllable, which the rule already covers.
+
+5. The subject pronouns (lessons 1, 2, 5, 7). The subject pronoun is dropped unless it contrasts or stresses: soy inglés, but yo soy Javier, where yo answers someone else. So it is in ¡yo también!, me too, where también, also, follows the yo it agrees with.
+
+| Person | Spanish | English |
+|---|---|---|
+| I | yo | I |
+| you (a friend) | tú | you |
+| you (a stranger, formal) | usted | you |
+| he, she | él, ella | he, she |
+| we | nosotros, nosotras | we |
+| you (all, Spain) | vosotros, vosotras | you (all) |
+| you (all, most of the world) | ustedes | you (all) |
+| they | ellos, ellas | they |
+
+Usted takes the verb form of he and she: ¿es usted de Madrid?, usted habla muy bien. Vosotros is "you all" among friends and family in Spain; ustedes is used for several people everywhere else, and in formal settings in Spain.
+
+6. Ser and estar (lessons 2, 3, 4, 5, 7): the full present. Ser is for who and what someone is, where they come from and their nationality; estar is for where something is, how someone is today, and the -ing forms we will meet later.
+
+| Person | ser | estar |
+|---|---|---|
+| I | soy | estoy |
+| you (a friend) | eres | estás |
+| he, she, you (usted) | es | está |
+| we | somos | estamos |
+| you (all, Spain) | sois | estáis |
+| they, you (all) | son | están |
+
+Examples from the lessons: soy inglés (lesson 5), es usted de Madrid (lesson 7), estoy cansado (lesson 3), está allí (lesson 4). The two verbs are not interchangeable: soy cansado calls you a tiresome person, and estoy cansado says you are tired today.
+
+7. The present of hablar, vivir and estudiar (lessons 5, 6, 7). Hablar and estudiar are -ar verbs, vivir is an -ir verb, and comer, to eat, is an -er verb. The ending tells you the person, so the pronoun is left out.
+
+| Person | hablar | vivir | estudiar | comer |
+|---|---|---|---|---|
+| I | hablo | vivo | estudio | como |
+| you (a friend) | hablas | vives | estudias | comes |
+| he, she, you (usted) | habla | vive | estudia | come |
+| we | hablamos | vivimos | estudiamos | comemos |
+| you (all, Spain) | habláis | vivís | estudiáis | coméis |
+| they, you (all) | hablan | viven | estudian | comen |
+
+Completions: Yo ___ (vivir) en Madrid: vivo. Ellos ___ (hablar) inglés: hablan. In the last line of this scene, hablamos is the we form of the same table.
+
+8. Numbers 0 to 20 (lessons 1, 4, 5, 6). Uno becomes un before a masculine noun and una before a feminine one; the other numbers do not change.
+
+| Number | Spanish | Number | Spanish |
+|---|---|---|---|
+| 0 | cero | 11 | once |
+| 1 | uno | 12 | doce |
+| 2 | dos | 13 | trece |
+| 3 | tres | 14 | catorce |
+| 4 | cuatro | 15 | quince |
+| 5 | cinco | 16 | dieciséis |
+| 6 | seis | 17 | diecisiete |
+| 7 | siete | 18 | dieciocho |
+| 8 | ocho | 19 | diecinueve |
+| 9 | nueve | 20 | veinte |
+| 10 | diez | | |
+
+The week closes here: the words and forms of these lessons come back in every lesson that follows, and each time they come a little more easily.

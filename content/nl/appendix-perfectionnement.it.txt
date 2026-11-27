@@ -1,0 +1,745 @@
+course: nl
+stage: perfectionnement
+base: it
+
+== intro
+## Il senso del Perfezionamento
+
+Questo libro vuole essere uno strumento per portare il vostro olandese dal livello in cui funziona al livello in cui suona giusto: dal B2 al C1. Oltre alla lingua, vi accompagna in un viaggio nel mondo che la parla: la Zelanda, Groninga, Leida, L'Aia, Rotterdam e le isole Wadden, Anversa e Gand nelle Fiandre, il Suriname e, con l'afrikaans, il Sudafrica; figure dell'arte e del pensiero, da Vermeer a Van Gogh, da Erasmo a Spinoza e ad Anne Frank; e la vita di tutti i giorni, dalla Tikkie dopo una cena al vagone del silenzio, dal colloquio di lavoro al ricorso contro una multa. Il tutto con molto umorismo, perché il modo di scherzare di un popolo dice molto di come pensa.
+
+## A chi è destinato
+
+A chi ha finito Fondamenti, ma anche a chiunque abbia già un buon livello d'olandese e voglia andare più a fondo: le parole più comuni con tutti i loro modi di dire (zitten, houden, lopen, zetten, halen, hand, staan, trekken, water), le particelle che danno il tono alla frase, le costruzioni che si conoscono ma si usano male, il registro, dalla Jip-en-Janneketaal alla lettera del comune, e le parole del Belgio e del Suriname accanto a quelle dei Paesi Bassi.
+
+## Come si presenta
+
+Come ogni corso Assimil: testi, note che spiegano la grammatica e il lessico, ed esercizi. Ogni lezione è un testo completo in sé, e il genere cambia di giorno in giorno: un dialogo, il ritratto di un luogo, un racconto, una satira, un notiziario, una poesia, una lettera, una biografia, tre barzellette, una nonna che risponde solo con i proverbi. Ogni sette o otto lezioni, una lezione è dedicata a una sola parola e ai suoi modi di dire, e le sue note finiscono con l'elenco delle espressioni.
+
+Ogni sette lezioni, una lezione di ripasso riprende in tabelle i punti più delicati della settimana. In fondo al libro trovate l'indice delle lezioni e, a corso finito, l'appendice grammaticale, l'indice degli argomenti e le espressioni: consultateli tutte le volte che vi serve. Dopo la lezione 70 viene Padronanza, il corso successivo: testi più lunghi e, alla fine di ogni lezione, un compito in cui scrivete voi.
+
+## Consigli per l'uso
+
+*Il primo percorso.* Ogni giorno, mezz'ora:
+
+1. ascoltate il testo;
+
+2. leggetelo in olandese, aiutandovi con le note e, quando serve, con la traduzione italiana;
+
+3. riascoltatelo;
+
+4. leggete ad alta voce ogni frase, poi ripetetela senza guardare, finché vi viene naturale;
+
+5. fate i due esercizi, tradurre e completare;
+
+6. riascoltate il testo un'ultima volta.
+
+*Le note.* Servono a capire le parole e le costruzioni nuove, ma anche ad allargare il vocabolario con altre parole ed espressioni intorno a quella del testo, e spesso vi rimandano a una lezione di Fondamenti o a una lezione precedente. Leggetele anche quando il testo vi sembra facile. La pronuncia figurata non c'è più: leggete l'ortografia olandese, che ormai conoscete. Dove l'accento è irregolare o decide il senso, la nota lo segna con l'accento grafico, come fanno gli olandesi stessi (vóórkomen, "capitare", e voorkómen, "prevenire"); dove conta un suono, usa gli stessi segni della chiave di pronuncia di Fondamenti (la trovate nella pagina dei corsi, alla voce «Pronuncia»).
+
+*La seconda onda.* Arrivati alla lezione 50, ricominciate dalla prima: la lezione 50 riporta la 1, la 51 la 2, e così via. Ogni giorno, dopo la lezione nuova, ne riprendete una vecchia, e questa volta traducete il testo dall'italiano all'olandese, poi controllate. Dopo la lezione 70 l'onda continua, una lezione al giorno, finché anche la settanta è tornata. Se venite da Fondamenti, la sua seconda onda intanto continua: le lezioni dalla 1 alla 49 di questo corso si portano dietro, una al giorno, le ultime lezioni di Fondamenti non ancora riprese, fino alla 100. Se cominciate direttamente da qui, la seconda onda arriva solo con la lezione 50.
+
+*I ripassi.* Non ripetono la grammatica di base, che conoscete già: precisano i punti in cui anche chi parla bene sbaglia ancora, e finiscono con dieci frasi da tradurre e da completare.
+
+Siete pronti? Allora... aan de slag!
+
+== grammar
+## 1 Le particelle e gli avverbi di grado
+
+Nel parlato le particelle non si traducono parola per parola: danno il tono. Toch, in fondo a una domanda, chiede conferma, "vero?". Ook alweer richiama una cosa già detta, "com'era?". Maar even attenua un ordine o un invito. Nou eenmaal dice che le cose stanno così e non cambiano. Dan, in una domanda, riprende la situazione, "allora". Joh rende il tono familiare, e hoor, in fondo alla frase, rassicura o insiste. Spesso stanno insieme, e il senso non si somma: cambia il tono. Gli avverbi di grado dicono quanto. Nogal è "piuttosto", con una punta di critica. Tamelijk è "abbastanza", neutro. Behoorlijk è "parecchio", ontzettend "terribilmente", hartstikke "davvero", ed è familiare. Prima di tradurre una particella, chiedetevi chi parla e a chi. (lezioni 3, 7, 8, 10, 14, 66)
+
+| Forma | Esempio | Lezione |
+|---|---|---|
+| toch | Dan is het voor mij drieënveertig euro twintig, toch? | 3 |
+| ook alweer | Wat was dat ook alweer? | 3 |
+| toch maar even | dan moet je het toch maar even overmaken | 3 |
+| nou eenmaal | Dat is nou eenmaal zo met jou. | 3 |
+| dan, in una domanda | Hoeveel heb je dan bij je? | 3 |
+| joh | Dan stuur ik je meteen een Tikkie voor de koffie, joh. | 3 |
+| hoor | Een beetje regen is niet verkeerd, hoor. | 66 |
+| nogal | Zijn buurman vindt hem nogal krenterig | 8 |
+| tamelijk | Tamelijk veel. | 8 |
+| behoorlijk | De oude auto is behoorlijk versleten | 8 |
+| ontzettend | Zijn vrouw Ineke vindt het ontzettend koud in huis | 8 |
+| hartstikke | Die cursus is hartstikke leuk, maar wel duur. | 8 |
+
+## 2 I tempi del passato: il racconto e le abitudini
+
+Un racconto olandese ha una cornice e un fondo. Il perfetto apre il racconto e lo commenta. L'imperfetto descrive lo sfondo e fa avanzare i fatti. Il trapassato va più indietro, a ciò che era già successo. Toen ha due usi. Come avverbio è "poi": il verbo resta al secondo posto, e il soggetto viene dopo. Come congiunzione è "quando", per un fatto unico del passato, e il verbo va in fondo. Net toen è "proprio mentre". Nog niet ... of e nauwelijks ... of legano due fatti vicinissimi, come "non ... ancora che" e "appena ... che", e il secondo pezzo comincia sempre con of. Dopo nauwelijks in testa il verbo viene subito: nauwelijks had ze. Con nog niet il verbo resta al suo posto. Zodra è "appena", con il verbo in fondo. Per un'abitudine che non c'è più si dice vroeger con l'imperfetto. Nello scritto si usa plegen, con te e l'infinito: placht ... te doen. (lezioni 5, 6, 7, 8, 14)
+
+| Forma | Esempio | Lezione |
+|---|---|---|
+| perfetto | Gisteren is er iets geks gebeurd | 5 |
+| imperfetto | Het was half acht 's avonds, en de trein was vol | 5 |
+| trapassato | hij was vergeten zijn telefoon op stil te zetten | 5 |
+| toen, "poi" | Toen ging de telefoon | 5 |
+| toen, "quando" | Toen de telefoon weer begon te rinkelen | 5 |
+| net toen | Net toen hij zijn jas uittrok, vond hij de telefoon in de binnenzak. | 5 |
+| nog niet ... of | Hij was nog niet op het strand of het begon te regenen. | 6 |
+| nauwelijks ... of | Nauwelijks had ze de app dichtgedaan, of het begon weer te regenen. | 6 |
+| zodra | Zodra het opklaarde, pakte Ruud zijn handdoek | 6 |
+| vroeger | Vroeger was hij veel royaler | 8 |
+| placht ... te | Vroeger placht hij zonder lijst boodschappen te doen | 8 |
+
+## 3 Il futuro anteriore e il futuro nel passato
+
+Per dire che una cosa sarà già fatta a un certo momento, nel parlato basta il perfetto con un'indicazione di tempo futura. La forma piena è zullen con hebben o zijn e il participio, ed è più scritta. Con leren kennen il participio diventa un infinito: hebben leren kennen. Tegen, con un giorno o un mese, è "entro". Visto da un momento del passato, il futuro si dice con zou o zouden e l'infinito, e in una subordinata il verbo va in fondo: "avrebbero trovato". Op het punt staan te dice ciò che sta o stava per succedere, e al passato è spesso interrotto da toen. (lezioni 2, 7, 44, 45, 49)
+
+| Forma | Esempio | Lezione |
+|---|---|---|
+| perfetto con il futuro | Volgende week heb je Zeeland al gezien | 2 |
+| tegen, "entro" | Tegen vrijdag heeft hij het hele verhaal gelezen. | 2 |
+| zullen + hebben | Over een jaar zal ik deze cursus hebben afgerond. | 2 |
+| hebben leren kennen | over vijf weken zul je Suriname hebben leren kennen | 2 |
+| zouden + infinito | ze wisten niet dat ze het nooit zouden vinden | 44 |
+| zou, frase riferita | Hij zei dat hij volgende week zou komen. | 49 |
+| stond op het punt | Kees stond op het punt naar bed te gaan toen hij onder de klok in de gang een briefje vond. | 44 |
+| op het punt staan | Dan sta ik op het punt te vertrekken. | 45 |
+
+## 4 Lo scopo e la conseguenza
+
+Om ... te dice lo scopo quando il soggetto è lo stesso, e te con l'infinito va in fondo. Zodat, "in modo che", ha di solito un altro soggetto, e il verbo va in fondo come in ogni subordinata. L'italiano dopo "affinché" vuole il congiuntivo, l'olandese tiene l'indicativo. Zodat dice anche una conseguenza, "così che". Zo e un aggettivo, poi dat, danno il risultato: "così ... che". Zo ... mogelijk è "il più ... possibile". Niets is zo ... als è "niente è così ... come". (lezioni 2, 7, 11, 39, 51)
+
+| Forma | Esempio | Lezione |
+|---|---|---|
+| om ... te | Lees hem één keer om de tekst te begrijpen | 2 |
+| zodat | Elke les is kort, zodat je hem in één keer kunt lezen. | 2 |
+| zodat, conseguenza | Hij sleep lenzen, zodat anderen beter konden zien. | 51 |
+| zo ... dat | Het land ligt zo laag dat men er vroeger op wierden woonde | 11 |
+| zo ... dat | Overdag moesten ze zo stil zijn dat de werknemers beneden niets hoorden. | 39 |
+| zo ... mogelijk | wil hem zo vaak mogelijk | 11 |
+| niets is zo ... als | Niets is zo kenmerkend voor de stad als de Martinitoren | 11 |
+
+## 5 Il diminutivo e i suoi sensi
+
+Ogni diminutivo è una parola het, e il plurale finisce in -s. Le forme (-je, -tje, -pje, -etje) le avete viste in Fondamenti. Qui conta il senso, perché il diminutivo non dice sempre "piccolo". Rende vago un tempo, een uurtje. Rende amichevole una cosa, een biertje, een praatje. Rende modesto un regalo, een kleinigheidje, e spregiativo un lavoro, een baantje. A volte fa una parola nuova: een kaartje non è una piccola kaart, è un biglietto, e een toetje è il dolce. Gli avverbi in -jes, come eventjes, zachtjes, netjes e stilletjes, addolciscono. Al telefono een momentje è cortese, e può durare molto. Nelle Fiandre il diminutivo finisce spesso in -ke. (lezioni 13, 14, 43)
+
+| Forma | Esempio | Lezione |
+|---|---|---|
+| tempo vago | Men neemt een uurtje, een weekje | 13 |
+| conversazione | er is altijd tijd voor een praatje | 13 |
+| giretto e pisolino | Een ommetje is een korte wandeling, en een dutje is een slaapje | 13 |
+| modestia | Wie een kleinigheidje meeneemt, brengt een cadeau, maar zegt het bescheiden. | 13 |
+| parola nuova | met een kaartje stap je in de trein, met een kaart zoek je de weg | 13 |
+| il dolce | Een toetje is het nagerecht | 13 |
+| spregiativo | Een baantje is een lichte, vaak onbelangrijke baan | 13 |
+| avverbi in -jes | Blijf eventjes staan, en praat zachtjes. | 13 |
+| al telefono | Een momentje, alstublieft | 13 |
+| fiammingo, -ke | neemt een zakje neuzekes mee | 43 |
+
+## 6 La probabilità, la deduzione e il sentito dire
+
+Dalla frase più sicura alla meno sicura: naar verwachting, "secondo le previsioni", e waarschijnlijk, "probabilmente", sono alti. Vermoedelijk, "presumibilmente", si basa su indizi. Het zou kunnen dat e mogelijk aprono una possibilità, e de kans op la misura. Het kan wel eens gebeuren è "può anche capitare". Per dedurre da una prova si usa moet, "dev'essere". Kan niet è "non può essere". Zal wel è "sarà", una supposizione un po' scettica. Per il passato si aggiungono hebben e il participio: moet ... gezien hebben. La voce degli altri ha forme sue. Zou con hebben e il participio è "pare che abbia". Naar verluidt è "a quanto si dice", men neemt aan dat "si ritiene che". Così il giornale e il libro di storia riportano senza garantire. (lezioni 10, 14, 16, 21, 27, 28, 51)
+
+| Forma | Esempio | Lezione |
+|---|---|---|
+| naar verwachting | Naar verwachting waait het vanavond hard | 10 |
+| waarschijnlijk | Waarschijnlijk valt het wel mee | 10 |
+| vermoedelijk | het is vermoedelijk gevaarlijk om op de fiets naar huis te gaan | 10 |
+| de kans op | De kans op een storm is klein | 10 |
+| het zou kunnen dat | Het zou kunnen dat die straks op iemands hoofd terechtkomt | 10 |
+| mogelijk | Mogelijk komt de storm pas 's nachts | 10 |
+| moet | Het water moet ergens vandaan komen | 27 |
+| kan niet | Dat kan niet kloppen | 27 |
+| zal wel | Dat zal wel | 27 |
+| moet + hebben | Hij moet het ergens gezien hebben | 27 |
+| zou + hebben | Vermeer zou een camera obscura hebben gebruikt | 16 |
+| naar verluidt | Naar verluidt werkte hij heel langzaam | 16 |
+| men neemt aan dat | Men neemt aan dat hij er een gebruikte, maar het bewijs ontbreekt. | 16 |
+
+## 7 I verbi di percezione, hoeven e i gruppi di verbi
+
+Zien e horen vogliono un oggetto e l'infinito senza te. Al perfetto il participio sparisce, e restano due infiniti: heeft ... niet zien aankomen. Lo stesso accade con i modali: had moeten zeggen. Had niet hoeven con l'infinito giudica un'azione già fatta e inutile, "non c'era bisogno". Hoefde niet te racconta solo un fatto, "non ho dovuto". Al presente, niet hoeven te è "non dover": hoeven vuole te e una negazione. Had moeten è il rimpianto, "avrei dovuto". Had kunnen è una possibilità mancata, "avrebbe potuto". Nella frase principale il verbo finito sta al secondo posto, e gli infiniti vanno in fila in fondo. (lezioni 17, 20, 21, 38, 42)
+
+| Forma | Esempio | Lezione |
+|---|---|---|
+| zien + infinito | ziet hij de buurman met zijn krant onder de arm langs de deur lopen | 17 |
+| horen + infinito | hoort hij de hond van de overkant blaffen | 17 |
+| perfetto, due infiniti | Hij heeft de bezorger niet zien aankomen | 17 |
+| had niet hoeven | Je had niet hoeven remmen. | 38 |
+| hoefde niet te | Gisteren hoefde ik niet te remmen | 38 |
+| hoeft niet te | Je hoeft niet bang te zijn. | 38 |
+| hoefde te, con nooit | dat hij nog nooit hoefde te wachten | 20 |
+| had moeten | Ik had het je eerder moeten zeggen | 38 |
+| had kunnen | Dat had hij kunnen weten | 38 |
+
+## 8 Le ipotesi, le condizioni e i desideri
+
+Il periodo misto mette il passato nella condizione e il presente nella conseguenza: se allora fosse andata diversamente, adesso sarebbe diverso. Senza als il verbo va al primo posto, e la principale si apre spesso con dan. Mocht e il soggetto sono un'ipotesi cortese, "se dovesse". Stel dat è "supponiamo che", e gesteld dat è la forma più formale. Aangenomen dat ed ervan uitgaande dat partono da un presupposto. In het geval dat è "nel caso in cui". Tenzij è "a meno che", mits "purché". Il verbo va in fondo, e l'olandese tiene l'indicativo dove l'italiano mette il congiuntivo. Il desiderio che non si avvera ha il verbo in testa e maar: was het maar, had ik maar. Als ... nou eens è "se per una volta". (lezioni 22, 28, 66, 68, 70)
+
+| Forma | Esempio | Lezione |
+|---|---|---|
+| periodo misto | Als ik dat had geweten, zat ik nu niet hier | 22 |
+| senza als | Had ik meer ruimte, dan zou ik u er dertig geven | 22 |
+| mocht | Mocht u na een jaar nog vragen hebben over de vrijdagen, dan praten we erover. | 22 |
+| stel dat | Stel dat ik dat op vrijdag toesta, dan willen alle collega's dat ook. | 22 |
+| mits | Ik werk graag thuis, mits de verbinding goed is. | 22 |
+| tenzij | Tenzij u een andere datum voorstelt, begin ik op de eerste van de maand. | 22 |
+| gesteld dat | Gesteld dat die klok goed loopt, dan heb ik het juiste antwoord. | 68 |
+| aangenomen dat | Aangenomen dat hij achter mij hangt, moet ik me omdraaien. | 68 |
+| in het geval dat | In het geval dat ik me omdraai, verlies ik u uit het oog. | 68 |
+| ervan uitgaande dat | Ervan uitgaande dat de klok niet stilstaat, zie ik kwart over elf. | 68 |
+| desiderio | Was het maar droog, dan konden we buiten eten. | 66 |
+| desiderio, al passato | Had ik maar een paraplu meegenomen. | 66 |
+| als ... nou eens | Als het nou eens een week zo bleef, dan kocht ik morgen een hoed. | 66 |
+
+## 9 I separabili e gli inseparabili: i prefissi e l'accento
+
+Be-, ont- e ver- non si staccano mai dal verbo, e il participio non prende ge-: belegerd, verdreven, verwoest, verbrand. Con voor, onder e over decide l'accento. Vóórkomen, con l'accento sulla particella, si separa e mette ge- in mezzo, voorgekomen, e vuol dire "capitare". Voorkómen, con l'accento sul verbo, non si separa e non prende ge-, e vuol dire "prevenire". Lo stesso vale per óndergaan, "tramontare", e ondergáán, "subire", e per óverkomen, "fare un'impressione", e overkómen, "capitare a qualcuno". I verbi separabili come klaarzetten mettono ge- tra la particella e il verbo: klaargezet. (lezioni 2, 24, 25, 28, 29, 35, 64, 66)
+
+| Forma | Esempio | Lezione |
+|---|---|---|
+| be-, senza ge- | De stad is belegerd door de vijand | 24 |
+| ver-, senza ge- | De Spanjaarden werden verdreven | 24 |
+| ont-, un nome | Op 3 oktober 1574 kwam het ontzet | 24 |
+| ver-, participio | een groot deel van het centrum werd verwoest | 64 |
+| ver-, participio | mijn schouders zijn in één middag verbrand | 66 |
+| vóórkomen | Dat komt in de beste families voor. | 29 |
+| voorkómen | Een goede bril voorkomt veel ongelukken op de fiets. | 29 |
+| óndergaan | In de winter gaat de zon vroeg onder. | 29 |
+| ondergáán | Ik heb een kleine operatie ondergaan | 29 |
+| overkómen | Wat is hem vorige week overkomen? | 29 |
+| óverkomen | Hij komt aardig over op de televisie. | 35 |
+| ge- in mezzo | Maarten heeft alles klaargezet | 25 |
+
+## 10 I composti e i nomi derivati
+
+Un composto si scrive in una parola sola, e l'articolo viene dall'ultima parte. Kleur è de, ma het kleurvlak, perché vlak è het; douche è de, ma het douchegordijn. Tra le due parti compare spesso una -s-: stadswapen. Un verbo o un aggettivo diventa nome con un suffisso, e l'articolo è quello del suffisso. -ing e -heid fanno parole de: de verzuiling, de vrijheid. -schap fa spesso parole het: het lidmaatschap. Ont- davanti a un nome di processo ne dice il contrario: ontzuiling. Het e l'infinito fanno un nome d'azione: het stemmen, het fietsen. Lo stile nominale è quello dello scritto serio. Nel parlato il verbo è più chiaro. (lezioni 23, 24, 26, 28, 36, 37, 38, 39, 42)
+
+| Forma | Esempio | Lezione |
+|---|---|---|
+| het kleurvlak | Voor hem is een kleurvlak een rechthoek | 23 |
+| het douchegordijn | Het douchegordijn hangt nat aan de stang. | 23 |
+| -s- | Op het stadswapen staan sleutels. | 24 |
+| de bakfiets | vervoer de kinderen in de bakfiets | 26 |
+| het regenwoud | Het binnenland is bedekt door regenwoud | 37 |
+| -ing | Daardoor bleef de verzuiling nog decennia sterk | 36 |
+| ont- + -ing | Dat proces heet ontzuiling | 36 |
+| -heid | de grote verdeeldheid van vroeger is verdwenen | 36 |
+| -schap | Het lidmaatschap was vanzelfsprekend | 36 |
+| het + infinito | het stemmen werd een persoonlijke keuze | 36 |
+| het + infinito | het fietsen gaat voor het bellen | 26 |
+
+## 11 Le subordinate dello scritto: relative, participi e domande indirette
+
+Nello scritto curato la relativa ha forme che il parlato non usa. Wiens è "il cui" per un nome maschile o una parola het, wier per un nome femminile o un plurale. Dopo viene subito il nome, senza articolo. Nel parlato si dice waarvan. Hetgeen, "cosa che", riprende tutta la frase di prima. Welke vale die, in tono scritto. Con una preposizione si usa waar e la preposizione, in una parola: waarin, waarbij, e op grond waarvan, "in base a cui". La frase di participio accorcia una relativa, e il suo soggetto è quello della frase principale. Una domanda dentro una frase ha il verbo in fondo, come ogni subordinata. Of è il "se" della domanda indiretta, als il "se" della condizione. (lezioni 4, 7, 51, 54, 56)
+
+| Forma | Esempio | Lezione |
+|---|---|---|
+| wier | Vlissingen, een stad wier geschiedenis aan de zee gebonden is | 4 |
+| wiens | Het huis, wiens dak in de storm is beschadigd | 4 |
+| wiens | De filosoof wiens naam nu in elk handboek staat | 51 |
+| welke | verdiende zijn geld met lenzen welke anderen gebruikten | 51 |
+| hetgeen | hetgeen weinig opbracht | 51 |
+| waarbij | waarbij hij de vrijheid van denken verdedigde | 51 |
+| waarin | Zijn Ethica, waarin hij God en de natuur met elkaar gelijkstelt | 51 |
+| op grond waarvan | op grond waarvan hij later vaak als voorloper van de Verlichting wordt gezien | 51 |
+| frase di participio | Omringd door water en gelegen aan de Schelde, trekt Zeeland elk jaar veel toeristen. | 4 |
+| wie | weet jij toevallig wie De Nachtwacht heeft geschilderd | 54 |
+| of | Ik vraag me alleen af of hij het in 1642 heeft gemaakt | 54 |
+| wat | Het hangt ervan af wat de quizmaster precies vraagt. | 54 |
+| als, condizione | Als het jaar een aparte vraag is, denken we er later over na. | 54 |
+
+## 12 Er in profondità
+
+Er fa da soggetto apparente quando il soggetto vero è indeterminato: er was eens. Nel passivo senza soggetto apre o regge la frase: er werd geklopt, "si bussò". Con un numero vale "ne": er lagen er drie, dove il primo er è il soggetto apparente e il secondo è il "ne". Er sostituisce anche una cosa dopo una preposizione, e la preposizione può staccarsi e andare in fondo: er ... van. In er niet zeker van zijn dat, er annuncia la subordinata che segue. Con spoken e con i verbi del tempo il soggetto è het, non er. (lezioni 8, 44, 50, 65, 68, 70)
+
+| Forma | Esempio | Lezione |
+|---|---|---|
+| soggetto apparente | Er was eens een oude boerderij aan de rand van het dorp | 65 |
+| passivo senza soggetto | In de eerste nacht werd er drie keer geklopt | 65 |
+| passivo, er in testa | Er wordt 's nachts geklopt | 65 |
+| er ... er, "ne" | Er lagen er drie op de trap | 65 |
+| er ... er, "ne" | maar er stonden er wel twintig | 44 |
+| passivo con un modale | Naar Vlieland mag er door bezoekers geen auto meegenomen worden | 50 |
+| er ... van, staccati | ik heb er nooit iets van uitgegeven | 8 |
+| er annuncia la frase | ben ik er niet zeker van dat de klok de juiste tijd aangeeft | 68 |
+| het, non er | Het spookt hier, zeg ik je | 65 |
+
+## 13 Pas, alleen, maar e la storia raccontata
+
+L'italiano dice "solo" per tre cose diverse. Pas è "solo" nel tempo: una cosa avviene più tardi del previsto, o non prima di un momento. Alleen è "soltanto", per una quantità o una persona, e anche "da solo". Maar è soprattutto "ma". Come "solo" sta davanti a un numero piccolo, e in alleen maar rafforza. Chi racconta la storia ha bisogno anche di altre parole. Nadat, "dopo che", vuole il trapassato per il fatto di prima. Sindsdien è "da allora", inmiddels "nel frattempo, ormai", e porta il racconto fino a oggi. (lezioni 10, 16, 37, 39, 42, 64, 67, 68, 69, 70)
+
+| Forma | Esempio | Lezione |
+|---|---|---|
+| pas, nel tempo | Pas in 1947 werd het dagboek gepubliceerd | 39 |
+| pas na | Pas na zijn dood werd zijn werk beroemd | 67 |
+| pas op | Pas op zijn zevenentwintigste begon hij serieus te tekenen. | 67 |
+| pas als | zoek een woord pas op als je de hele zin hebt gelezen | 69 |
+| alleen, "soltanto" | Maar ik vroeg alleen hoe laat het is. | 68 |
+| alleen, "da solo" | Hij woonde alleen in een klein huis. | 67 |
+| maar, "solo" | hij maakte maar twee of drie schilderijen per jaar | 16 |
+| alleen maar | de storm was alleen maar een storm | 10 |
+| maar, "ma" | Rotterdam ziet er wel modern uit, maar er zijn nog oude hoeken | 64 |
+| nadat | Nadat de Duitsers het land hadden bezet | 39 |
+| sindsdien | sindsdien herdenkt men op 1 juli Keti Koti | 37 |
+| inmiddels | Inmiddels wonen er veel Surinamers in Nederland | 37 |
+
+## 14 Le coppie correlative e i connettivi
+
+Le coppie legano due elementi. Zowel ... als è "sia ... sia". Niet alleen ... maar ook è "non solo ... ma anche". Noch ... noch è "né ... né", ed è già negativo, senza niet. Hetzij ... hetzij è "o ... o" nello scritto formale, of ... of nel parlato. Gli avverbi di collegamento legano due frasi. Se aprono la frase, il verbo viene subito dopo: bovendien hield hij, daarentegen waren. Immers ed echter stanno di solito dopo il verbo o dopo il soggetto, e anche namelijk, che precisa. Derhalve è scritto, dus è di tutti i giorni. Terwijl oppone due frasi, "mentre invece", con il verbo in fondo. In tegenstelling tot vuole un nome. Wel ... maar concede e poi limita. (lezioni 12, 14, 59, 63, 64, 70)
+
+| Forma | Esempio | Lezione |
+|---|---|---|
+| zowel ... als | Zowel de keuken als de slaapkamer zijn precies goed | 12 |
+| niet alleen ... maar ook | niet alleen om de ligging, maar ook omdat we niets anders vinden | 12 |
+| noch ... noch | Dus noch de vloer, noch het plafond is in orde? | 12 |
+| hetzij ... hetzij | Hetzij de trein, hetzij de buren, daar kunnen we mee leven. | 12 |
+| of ... of | Of u doet dat, of u gaat naar huis. | 12 |
+| immers | dat was immers de taal die de geleerden in heel Europa gemeenschappelijk hadden | 59 |
+| bovendien | bovendien hield hij van het Grieks | 59 |
+| derhalve | derhalve kon hij de tekst van het Nieuwe Testament zelf vergelijken | 59 |
+| echter | zijn kritiek was echter niet altijd welkom | 59 |
+| daarentegen | Daarentegen waren veel geleerden en vorsten blij met zijn werk. | 59 |
+| namelijk | Ik kom niet, ik ben namelijk ziek. | 63 |
+| terwijl | Terwijl Amsterdam bekend is om zijn grachten, is Rotterdam bekend om zijn haven. | 64 |
+| in tegenstelling tot | In tegenstelling tot Amsterdam zijn er in Rotterdam weinig oude huizen | 64 |
+| wel ... maar | Hij is wel rijk, maar niet gelukkig. | 64 |
+
+## 15 Nella conversazione: i segnali del discorso e le risposte brevi
+
+I segnali del discorso non aggiungono un fatto: dicono come va preso quello che segue. Weliswaar concede, e vuole maar dopo. Overigens e trouwens aggiungono, "a proposito, del resto". Nou ja cede a metà. Eerlijk gezegd annuncia una franchezza. Al met al e hoe dan ook tirano le somme. Quando aprono la frase, il verbo viene subito dopo: overigens is, al met al is. Nelle risposte brevi una piccola parola sostituisce una frase intera. Ik denk van wel e ik denk van niet sono "credo di sì" e "credo di no". Dat hoop ik e ik hoop het sono "lo spero", e dat dacht ik al "lo immaginavo". Ook aggiunge "anch'io". (lezioni 46, 49, 61, 63, 68)
+
+| Forma | Esempio | Lezione |
+|---|---|---|
+| weliswaar ... maar | Weliswaar hebben we het allemaal gelezen, maar niemand weet nog hoe het afloopt. | 46 |
+| overigens | Overigens is Droogstoppel niet de hoofdpersoon. | 46 |
+| trouwens | Trouwens dacht ik dat het over koffie ging | 46 |
+| nou ja | Nou ja, de naam is hetzelfde | 46 |
+| eerlijk gezegd | Eerlijk gezegd vond ik het vooral lang | 46 |
+| al met al | Al met al is het een belangrijk boek | 46 |
+| hoe dan ook | Hoe dan ook is het een klassieker | 46 |
+| ik denk van wel | Ik denk van wel. | 61 |
+| ik denk van niet | Ik denk van niet. | 61 |
+| dat hoop ik | Dat hoop ik. | 61 |
+| ik hoop het | Ik hoop het. | 61 |
+| dat hoop ik ook | Dat hoop ik ook. | 61 |
+| dat dacht ik al | Dat dacht ik al | 61 |
+| dat doe ik al | Dat doe ik al | 61 |
+
+## 16 Il registro: dal congiuntivo alla lettera ufficiale
+
+Il registro va dalla Jip-en-Janneketaal, frasi brevi e parole di tutti, alla lingua degli uffici. Il congiuntivo vive solo in formule fisse: lang leve, het zij zo, godzijdank, zij het, men neme, hoe het ook zij, het ga je goed. Oggi si dice hoe dan ook, ook al, neem. La lettera formale ha un ordine fisso: il destinatario, Betreft per l'oggetto, chi scrive, la richiesta, l'attesa della risposta e Hoogachtend. La risposta si apre con Geachte e il nome. Tra persone che si conoscono si scrive Beste e si chiude con Met hartelijke groet. Il linguaggio burocratico allunga le frasi: inzake è over, alsmede è en ook, middels è met, derhalve è dus, ten behoeve van è voor. Il titolo di giornale toglie l'articolo e spesso il verbo. La poesia e il parlato accorciano: 't, 'k, m'n, z'n. (lezioni 20, 21, 26, 31, 32, 34, 35, 47, 48, 49, 69)
+
+| Forma | Esempio | Lezione |
+|---|---|---|
+| lang leve | Lang leve het bruidspaar! | 31 |
+| het zij zo | Het zij zo. | 31 |
+| zij het | Graag, zij het met mate | 31 |
+| men neme | Men neme een glas, en we proosten. | 31 |
+| hoe het ook zij | Hoe het ook zij, we zijn er | 31 |
+| het ga je goed | Het ga je goed. | 31 |
+| oggetto | Betreft: bezwaar tegen de boete | 47 |
+| chi scrive | Ondergetekende, mevrouw A. van Dijk, maakt hierbij bezwaar | 47 |
+| richiesta | Ik verzoek u om de boete in te trekken. | 47 |
+| attesa | In afwachting van uw reactie, | 47 |
+| chiusura | Hoogachtend, | 47 |
+| saluto formale | Geachte mevrouw Van Dijk, | 48 |
+| burocratico | Inzake de overtreding blijft de boete onverminderd van kracht. | 48 |
+| burocratico | Middels deze brief wordt de boete derhalve gehandhaafd. | 48 |
+| saluto cordiale | Beste lezer, | 69 |
+| chiusura cordiale | Met hartelijke groet | 69 |
+| titolo di giornale | Gemeenteraad akkoord over nieuwe fietsenstalling. | 20 |
+| forme deboli | de wind blaast recht door m'n haar | 34 |
+| forme deboli | Bij de zee draai 'k om en fiets terug | 34 |
+| z'n | fiets altijd met z'n tweeën naast elkaar | 26 |
+
+## 17 La grafia: la n di mezzo, la d e la t, gli omofoni
+
+Nei composti la n di mezzo si scrive quando la prima parte è un nome con il plurale in -en: pannenkoek, perché pannen è il plurale di pan, e boekenkast. Non si scrive quando la prima parte indica una cosa sola, come zon: zonneschijn. Nei verbi la -d e la -t finali suonano uguali, e decide la grammatica. Gebeurt è il presente, het gebeurt. Gebeurd è il participio, het is gebeurd. Word si scrive senza t quando je viene subito dopo il verbo: word je. Con un altro soggetto la t resta: wordt je broer. Anche ei e ij hanno lo stesso suono, e reizen e rijzen si pronunciano uguali: la battuta sta tutta nella grafia. E la grafia cambia nel tempo: mensch e zoo sono diventati mens e zo. (lezioni 41, 42, 58, 63, 67)
+
+| Forma | Esempio | Lezione |
+|---|---|---|
+| -n-, plurale | het moet pannenkoek zijn, met een n ertussen, want pannen is het meervoud van pan | 58 |
+| -n- | Mijn zus heeft in haar kamer een boekenkast die bijna omvalt. | 58 |
+| senza n | Het is zonneschijn, niet zonnenschijn. | 58 |
+| participio con d | Gebeurd, met d. Het is gebeurd, niet gebeurt. | 58 |
+| word je | Word je moe, zonder t, want je staat direct na het werkwoord. | 58 |
+| wordt je broer | Maar wordt je broer moe? houdt de t | 58 |
+| rijzen e reizen | Het deeg moest rijzen, maar het is gereisd. | 41 |
+| bank e bank | De bank is vandaag gesloten, dus ik ga morgen naar de bank. | 41 |
+| la grafia di un tempo | In het Nederlands van zijn tijd schreef hij nog mensch en zoo | 67 |
+
+## 18 L'olandese, il fiammingo, il Suriname e l'afrikaans
+
+L'olandese di questo corso è quello dei Paesi Bassi, ma la stessa lingua si parla nelle Fiandre e in Suriname, e l'afrikaans ne è una lingua figlia. Nelle Fiandre cambiano alcune parole: frieten per patat, beenhouwer per slager, gsm per mobiel, kot per la stanza dello studente, kiné per fysiotherapeut. La tussentaal, tra il dialetto e la lingua standard, dice ge per je, e il diminutivo finisce in -ke. In Suriname l'olandese è la lingua ufficiale, e per la strada si sente il sranantongo, da cui vengono parole come mattie. L'afrikaans non ha desinenze personali, e nega due volte: nie ... nie. Per scrivere usate la forma dei Paesi Bassi; per capire, tenete le orecchie aperte. (lezioni 18, 37, 43, 55, 56)
+
+| Forma | Esempio | Lezione |
+|---|---|---|
+| frieten | Wie in Antwerpen om frieten vraagt, bedoelt wat in Nederland patat heet | 18 |
+| beenhouwer | De beenhouwer, in Nederland de slager, verkoopt vlees | 18 |
+| amai, content | Wie iets lekkers proeft, zegt amai, en wie tevreden is, is content | 18 |
+| kot | veel van hen zoeken een kot, zoals ze hier de studentenkamer noemen | 43 |
+| kiné | Wie hier een fysiotherapeut nodig heeft, zoekt een kiné: zo heet die in België. | 43 |
+| ge | zegt men ge waar men in Nederland je of jij zegt | 43 |
+| mattie | Wie in Nederland "mattie" hoort, hoort een woord uit het Sranantongo: mati, vriend. | 37 |
+| afrikaans, il verbo | ek is, jy is, hy is | 55 |
+| nie ... nie | ek praat nie Afrikaans nie | 55 |
+| baie dankie | "Baie dankie" betekent heel hartelijk bedankt | 55 |
+
+## 19 Le famiglie di parole
+
+Nove parole hanno una lezione intera, e le note finiscono con l'elenco delle espressioni, ciascuna con la sua frase e la sua nota. Qui una riga per parola: le espressioni sono tutte nell'indice delle espressioni, e il senso preciso sta nella lezione. Zitten, staan e liggen dicono anche dove sta una cosa: zitten per ciò che è dentro o attaccato, staan per ciò che è dritto o scritto, liggen per ciò che è steso. (lezioni 1, 7, 9, 14, 15, 21, 25, 28, 33, 35, 40, 42, 45, 49, 53, 56, 60, 63, 70)
+
+| Forma | Esempio | Lezione |
+|---|---|---|
+| zitten | en daarna zit hij op zwart zaad | 1 |
+| zitten, una cosa dentro | Zijn sleutels zitten in zijn jas | 1 |
+| houden | Ik houd het hoofd koel, en ik houd me aan mijn plan. | 9 |
+| lopen | Binnen een uur loopt het feest uit de hand | 15 |
+| zetten | Om zeven uur zet hij een punt achter de voorbereidingen. | 25 |
+| halen | Koen haalt zijn schouders op. | 33 |
+| hand | Steek nu eens de handen uit de mouwen, dan gaat het sneller. | 40 |
+| staan | Ik sta al jaren op eigen benen | 45 |
+| staan, una cosa scritta | Dat staat op het bord bij de kassa | 45 |
+| trekken | de gids trok aan de bel | 53 |
+| water | het water stond mijn vader tot de lippen | 60 |
+
+== index
+abitudini passate (vroeger, plegen) | 8 14
+accento che decide il senso (vóórkomen, voorkómen) | 29 35
+afrikaans | 55 56
+al met al e hoe dan ook | 46 49 68
+alleen e alleen maar | 10 67 68 70
+animali nei modi di dire | 62 63
+avverbi di collegamento (immers, echter, bovendien) | 59 63
+avverbi di grado (nogal, tamelijk, behoorlijk) | 8 14
+avverbi in -jes | 13
+barzellette (mop, clou) | 41
+burocratico e linguaggio semplice | 32 48 49
+composti e articolo | 23 24 26 28 37 38 39
+congiuntivo nelle formule | 31 35 69
+connettivi di contrasto (terwijl, daarentegen) | 59 64 70
+coppie correlative (zowel ... als, noch ... noch) | 12 14
+deduzione (moet, kan niet, zal wel) | 27 28
+desideri (was het maar, had ik maar) | 66
+diminutivo fiammingo in -ke | 43
+diminutivo, i sensi | 13 14
+domande indirette (of, wie, wat) | 54 56
+doppio infinito | 2 17 21 38 42
+elisione e forme deboli ('t, 'k, m'n, z'n) | 26 34 35
+ellissi e sostituzione (ik denk van wel) | 61 63
+er con un numero (er lagen er drie) | 44 65 70
+er con una preposizione (erin, ervan) | 8 39 44 68
+er soggetto apparente | 2 65 70
+fiammingo, le parole del Belgio | 18 43 56
+frase di participio | 4 7
+futuro anteriore | 2
+futuro nel passato (zou, zouden) | 29 44 49
+gergo d'ufficio | 52
+had moeten e had kunnen | 38
+had niet hoeven e hoefde niet te | 38 42
+halen, la famiglia di | 33 35 38 70
+hand, la famiglia di | 40 42 70
+het + infinito come nome | 26 36 42
+het con i fenomeni (het spookt) | 65 70
+hetgeen, welke, waarbij, waarin | 51 56
+houden, la famiglia di | 9 14 26 70
+inmiddels e sindsdien | 37 39 42
+ipotesi senza als | 22 28
+lettere formali | 47 48 49
+lettere tra conoscenti | 69
+lopen, la famiglia di | 15 21 70
+men e je generico | 4 26
+mits e tenzij | 22 28 68 70
+mocht (ipotesi cortese) | 22 28 70
+naar verluidt | 16 21 51
+nadat con il trapassato | 39 42
+nauwelijks ... of | 6 7
+nog niet ... of | 6 7
+nominalizzazione (-ing, -heid, -schap) | 36 42
+notiziario e titoli di giornale | 19 20 21
+om ... te | 2 7
+omofoni e doppi sensi | 41 42 44
+op het punt staan | 44 45 49
+ordine nel centro della frase | 19 20 21
+ortografia: la d e la t dei verbi | 58 63
+particelle modali | 3 7 66
+pas (solo, non prima di) | 16 17 39 42 67 69 70
+passivo con er | 11 50 65 70
+perfetto e imperfetto nel racconto | 5 7
+periodo ipotetico misto | 22 28
+poesia, rima e ritmo | 34
+prefissi inseparabili (be-, ont-, ver-) | 24 28 64 66
+probabilità (waarschijnlijk, vermoedelijk) | 10 14
+proverbi | 57 63
+registro (Jip-en-Janneketaal) | 32 35 48
+relative scritte (wiens, wier) | 4 7 51 56
+sentito dire (zou, men neemt aan dat) | 16 21
+separabili e inseparabili | 29 35
+staan, la famiglia di | 45 49 70
+stel dat, gesteld dat, aangenomen dat | 22 28 68 70
+superlativo con aller- | 11
+Suriname e sranantongo | 37 56
+ten eerste, ten tweede | 26 68
+toen, avverbio e congiunzione | 5 7 39
+trekken, la famiglia di | 53 56 70
+tussen-n | 58 63
+tussentaal e ge | 43 56
+verbi che riferiscono (melden, ontkennen, bevestigen) | 19 21
+verbi di percezione (zien, horen) | 17 21
+verbi inglesi in olandese (updaten) | 52 56
+water, la famiglia di | 60 63 70
+wel ... maar | 64
+zetten, la famiglia di | 25 28 70
+zetten, leggen, stellen | 25
+zitten, la famiglia di | 1 7 70
+zitten, liggen, staan | 1
+zo ... dat e zo ... mogelijk | 11 39
+zodat | 2 7 51
+zodra | 6
+
+== phrases
+aan de bel trekken | dare l'allarme | 53 56 70
+aan de touwtjes trekken | tirare le fila | 53
+aan het kortste eind trekken | avere la peggio | 53 56
+achter de feiten aanlopen | arrivare sempre dopo | 15
+adem halen | riprendere fiato | 33
+afstemmen op | allineare a | 52
+afzetten (zet af) | far scendere; spegnere; truffare | 25
+al draagt een aap een gouden ring, het is en blijft een lelijk ding | il lusso non rende bello ciò che è brutto | 57
+al met al | tutto sommato | 46 68
+als een kip zonder kop | come una gallina senza testa, senza meta | 62 63
+als twee druppels water | come due gocce d'acqua | 60
+Beste lezer | Caro lettore | 69
+beter een goede buur dan een verre vriend | meglio un buon vicino che un amico lontano | 57
+Betreft | Oggetto (in una lettera) | 47
+bezwaar maken tegen | fare ricorso contro | 47
+bijhouden (houdt alles bij) | tenere nota | 3 9
+blijven zitten | ripetere l'anno | 1 41
+boven de vraagprijs bieden | offrire più del prezzo richiesto | 12
+boven water komen | venire a galla | 60
+buitenspel staan | essere in fuorigioco, tagliato fuori | 20
+daar ben ik gebleven | sono arrivato fin lì | 46
+daar blijft het bij | la cosa finisce lì | 22
+daar gaat het om | è questo che conta | 46
+daar komt ... nog bij | a questo si aggiunge | 22
+daar zit ik niet mee | non mi preoccupa | 1
+daar zit wat in | c'è del vero | 1 7
+dat dacht ik al | lo immaginavo | 61
+dat had ik niet door | non me n'ero accorto | 29
+dat hoop ik | lo spero | 61 63
+dat is nogal wat | non è poco | 8
+dat is nou eenmaal zo | è fatto così, è così | 3
+dat klopt | è giusto, torna | 12 29 46 52
+dat komt in de beste families voor | capita nelle migliori famiglie | 29
+dat zit er niet in | non se ne parla | 1
+de conclusie trekken | trarre la conclusione | 53
+de hand in eigen boezem steken | fare un esame di coscienza | 40
+de handen uit de mouwen steken | rimboccarsi le maniche | 40 42 70
+de handen vol hebben aan | avere un gran daffare con | 40
+de kat uit de boom kijken | aspettare a vedere come va | 62 63
+de klok loopt achter | l'orologio è indietro | 15 68
+de mouwen opstropen | rimboccarsi le maniche | 64
+de puntjes op de i zetten | mettere i puntini sulle i | 25
+de schouders ophalen | alzare le spalle | 33 70
+de spuigaten uit lopen | superare ogni misura | 15
+de stoute schoenen aantrekken | farsi coraggio | 53
+de telefoon op stil zetten | mettere il telefono in silenzioso | 5 25
+de thee laten trekken | lasciare il tè in infusione | 53
+de trein halen | fare in tempo per il treno | 33
+de wekker zetten | puntare la sveglia | 25
+door elkaar halen | confondere | 33 46
+doorzetten (zet door) | non mollare | 25
+draagvlak creëren | creare consenso | 52
+een bod doen | fare un'offerta | 12
+een call inplannen | fissare una call | 52
+een eigen doelpunt | un'autorete | 20
+een gegeven paard kijk je niet in de bek | a caval donato non si guarda in bocca | 62 63
+een gezicht trekken | fare una smorfia | 53
+een kat in de zak kopen | comprare a scatola chiusa | 62
+een momentje | un attimo | 13
+een mop vertellen | raccontare una barzelletta | 41
+een ommetje maken | fare un giretto | 13 14
+een praatje | due chiacchiere | 13
+een punt achter iets zetten | mettere la parola fine | 25 70
+een slag in het water | un buco nell'acqua | 60
+een Tikkie sturen | mandare una richiesta di pagamento | 2 3
+een voldoende halen | prendere la sufficienza | 33
+een vreemde eend in de bijt | un pesce fuor d'acqua | 62 63
+een zucht slaken | sospirare | 34
+eerlijk duurt het langst | l'onestà paga alla lunga | 57
+eerlijk gezegd | a dire il vero | 46
+er alleen voor staan | cavarsela da soli | 45 49
+er gaat niets boven | non c'è niente di meglio di | 11
+er is vraag naar | c'è richiesta di | 19
+er was eens | c'era una volta | 65
+er zal nog heel wat water door de Rijn stromen | ne passerà di acqua sotto i ponti | 60
+ergens achter staan | sostenere qualcosa | 45 49
+ergens mee zitten | avere un pensiero | 1
+ernaast zitten | sbagliare | 1 46 54
+even sparren | scambiarsi due idee | 52
+Geachte mevrouw | Gentile signora | 48
+gelijk hebben | avere ragione | 26
+gelukkig maar | meno male | 62
+geslaagd zijn | aver superato l'esame | 38
+godzijdank | grazie a Dio, meno male | 31
+haastige spoed is zelden goed | la fretta è cattiva consigliera | 57
+handen en voeten geven aan | dare forma concreta a | 40 42
+het contract loopt tot juni | il contratto dura fino a giugno | 15 21
+het ga je goed | stammi bene | 31 69
+het giet | piove a dirotto | 6
+het hangt ervan af | dipende | 54 56
+het hoofd boven water houden | restare a galla | 60 63
+het hoofd koel houden | mantenere la calma | 9
+het kan wel eens gebeuren | può anche capitare | 10
+het laatste woord hebben | avere l'ultima parola | 59
+het loopt goed af | finisce bene | 15 70
+het niet halen | non farcela | 33
+het paard achter de wagen spannen | mettere il carro davanti ai buoi | 62 63
+het spookt hier | qui ci sono i fantasmi | 65
+het staat iemand goed | stare bene a qualcuno | 45
+het staat vast | è certo | 45 49
+het toch halen | farcela lo stesso | 33 38
+het valt wel mee | non è poi così grave | 10
+het water staat hem tot de lippen | avere l'acqua alla gola | 60 70
+het werk neerleggen | scioperare | 19
+het zij zo | e sia, pazienza | 31
+het zit 'm in | il segreto sta in | 1
+het zit erop | è finita | 1
+het zit wel goed | va tutto bene | 1
+hierbij | con la presente | 47
+hoe dan ook | in ogni caso | 46 49
+hoe het ook zij | comunque sia | 31
+hoe staat het ervoor? | a che punto siamo? | 45 49
+hoe zit dat? | com'è la storia? | 1 7
+honger lijden | soffrire la fame | 24
+Hoogachtend | Distinti saluti | 47 48
+hou je taai | tieni duro | 9
+houden van | amare, voler bene | 9
+iemand aan het lijntje houden | tenere sulla corda | 9
+iemand de hand boven het hoofd houden | proteggere qualcuno | 40 42
+iemand op handen dragen | adorare qualcuno | 40
+iemand op zijn plaats zetten | rimettere qualcuno al suo posto | 25
+iemand te woord staan | rispondere a qualcuno | 45 49
+iets bij de hand hebben | avere a portata di mano | 40
+iets voor zich houden | tenere per sé | 9
+ik denk van niet | credo di no | 61
+ik denk van wel | credo di sì | 61
+ik hoop het | lo spero | 61
+ik raad je aan om | ti consiglio di | 69
+ik verzoek u om | la prego di | 47
+ik vraag me af of | mi chiedo se | 54 56
+in afwachting van | in attesa di | 47
+in de hand werken | favorire | 40
+in de put zitten | essere giù di morale | 1
+in de verlenging gaan | andare ai supplementari | 20
+in de war | confuso | 29 44
+in elkaar zetten | montare | 25 28
+in het geheim | di nascosto | 44
+in het oog lopen | dare nell'occhio | 15 21
+in het water vallen | andare a monte | 60
+in twijfel trekken | mettere in dubbio | 53 56
+inhalen | raggiungere, recuperare | 33
+inzake | in merito a | 48
+klaarzetten (klaargezet) | preparare, mettere pronto | 25
+koffie zetten | fare il caffè | 5 25
+kortom | insomma, in breve | 68
+laaghangend fruit | un risultato facile | 52
+lang leve | viva | 31
+lang zal hij leven | che viva a lungo (il canto di compleanno) | 31
+lekker dan | bella roba (ironico) | 66
+lootjes trekken | tirare a sorte | 53 56
+mag het ietsje meer zijn? | posso abbondare un po'? | 22
+men neemt aan dat | si ritiene che | 16 21
+men neme | si prenda | 31
+met de handen in het haar zitten | mettersi le mani nei capelli | 1
+met de kippen op stok gaan | andare a letto con le galline | 62 63
+Met hartelijke groet | Un caro saluto | 69
+met ingang van | a partire da | 48
+met lege handen | a mani vuote | 18
+met pensioen gaan | andare in pensione | 38
+met z'n tweeën | in due | 26
+naar aanleiding van | a seguito di | 47
+naar verluidt | a quanto si dice | 16 51
+namens | a nome di | 48
+niet verkeerd | niente male | 66
+nou ja | beh, insomma | 46
+om de dag | un giorno sì e uno no | 8
+Ondergetekende | il sottoscritto, la sottoscritta | 47
+ongelijk hebben | avere torto | 26
+onverminderd van kracht | in vigore senza riduzioni | 48
+oost west, thuis best | casa propria è la migliore | 57
+op afbetaling | a rate | 8
+op de valreep | all'ultimo momento | 20
+op één lijn zitten | essere d'accordo, sulla stessa linea | 52
+op eigen benen staan | essere indipendente | 45 49 70
+op gespannen voet staan met | essere ai ferri corti con | 45
+op goed geluk | a casaccio, alla cieca | 44
+op het nippertje | per un pelo | 44
+op het punt staan | stare per | 44 45 49
+op het spel zetten | rischiare | 25
+op hete kolen zitten | stare sui carboni ardenti | 1
+op loopafstand | a due passi, a piedi | 12
+op losse schroeven staan | essere in bilico | 45 49
+op rolletjes lopen | filare liscio | 15 21
+op touw zetten | organizzare | 25
+op zijn kop zetten | mettere a soqquadro | 25
+op zijn strepen staan | non transigere sulle regole | 45
+op zwart zaad zitten | essere al verde | 1 70
+opgelucht uitademen | tirare un sospiro di sollievo | 5
+ophalen (haalt op) | andare a prendere | 25 33 35
+ophouden met (hield op, hou op) | smettere | 5 9
+over je bril kijken | guardare da sopra gli occhiali | 5
+overhalen (haalt over) | convincere | 33
+overigens | a proposito, del resto | 46
+rekening houden met | tenere conto di | 9 14
+rood aanlopen | diventare rosso | 5
+slapende honden wakker maken | svegliare il can che dorme | 62 63
+stille wateren hebben diepe gronden | chi tace nasconde molto | 60
+stilstaan bij | soffermarsi su | 45 49
+storm lopen op | precipitarsi su | 15
+te danken hebben aan | dovere a | 4
+te hard van stapel lopen | partire troppo in fretta | 15
+te kijk staan | essere in mostra | 45 49
+tegen de lamp lopen | essere beccati | 15 21
+ten behoeve van | per, a vantaggio di | 48
+ten eerste, ten tweede | in primo luogo, in secondo luogo | 26 68
+ten onrechte | a torto | 47
+ten slotte | infine | 41 44 60
+terugkomen op | tornare su un argomento | 52
+terugkoppelen (terug te koppelen) | riferire il risultato | 52
+tijd uittrekken voor | riservare tempo a | 53
+tot slot | per finire | 19 20
+tot ziens | arrivederci | 31 69
+trek hebben in | avere voglia di | 53 56
+trouwens | del resto, tra l'altro | 45 46 57
+tussen wal en schip vallen | cadere tra due sedie | 60
+twee linkerhanden hebben | essere imbranato | 40 42
+twee vliegen in één klap slaan | prendere due piccioni con una fava | 62
+uit de hand lopen | sfuggire di mano | 15 21 40
+uit het oog verliezen | perdere di vista | 68
+uit je hoofd | a memoria | 2 44 66
+uithalen (uitgehaald) | combinarne una | 33
+uithouden (hou je dat uit) | sopportare, resistere | 9
+van de hand doen | vendere, disfarsi di | 40
+van een mug een olifant maken | fare di una mosca un elefante | 62 63
+van oudsher | da sempre | 30
+vastzitten (het zit vast) | essere bloccato | 61
+voet aan wal zetten | sbarcare | 25
+volhouden (houd het vol) | resistere fino in fondo | 9
+voor de gek houden | prendere in giro | 9
+voor de hand liggen | essere ovvio | 40 42
+voor de neus wegrijden | partire sotto il naso | 33
+voor schut staan | fare una figuraccia | 45 49
+voorschieten (voorgeschoten) | anticipare un pagamento | 3
+vrij spel hebben | avere campo libero | 11
+wat de boer niet kent, dat eet hij niet | non si assaggia quel che non si conosce | 57
+wat is er aan de hand? | che succede? | 15 40
+wat was dat ook alweer? | com'era, già? | 3
+water bij de wijn doen | fare un compromesso | 60
+water naar de zee dragen | portare acqua al mare | 60
+watertanden (watertandden) | avere l'acquolina in bocca | 60
+weet jij toevallig | sai per caso | 54
+weglopen met iemand | scappare con qualcuno | 15
+weliswaar ... maar | è vero che ... ma | 46 49
+wie het kleine niet eert, is het grote niet weerd | chi non rispetta il poco non merita il molto | 57
+wie niet waagt, wie niet wint | chi non risica non rosica | 57
+zich doof houden | fare finta di non sentire | 9 14
+zich houden aan | attenersi a, rispettare | 9 26 70
+zich iets aantrekken | prendersela | 53 56
+zich iets in het hoofd halen | mettersi in testa | 33
+zich over iets heen zetten | superare, passarci sopra | 25
+zij het | anche se, sebbene | 31
+zijn eigen plan trekken | fare di testa propria | 53
+zit niet zo te zeuren | smettila di lamentarti | 1
+zitten te (zit te wachten) | stare a fare (sta aspettando) | 1
+zo lijkt het | a quanto pare | 11

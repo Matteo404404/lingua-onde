@@ -22,7 +22,8 @@ a new course, or fixes to an existing one.
 1. **Plan** the course: one block or table row per lesson, with its kind, the
    scene and its ending, the grammar or style focus, the tasks. Examples:
    `work/vi/es/foundation.md`, `work/vi/es/perfectionnement.md`,
-   `work/vi/es/mastery.md`, `work/nl/it/foundation.md`, `work/en/*.md`.
+   `work/vi/es/mastery.md`, `work/nl/it/foundation.md`,
+   `work/nl/it/perfectionnement.md`, `work/nl/it/mastery.md`, `work/en/*.md`.
 2. **Brief** the writer: file format, length, note style, the language's
    pitfalls, and the checks to run (`work/BRIEF.md` for every course, then
    one writer file per course: `work/vi/es/writer.md`, `perf-writer.md`,

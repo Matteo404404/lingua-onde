@@ -1,3 +1,2075 @@
 course: nl
 stage: perfectionnement
+bases: it
 
+== 46 C1
+numeral: Zesenveertigste les
+title: De leesclub
+title.it: Il circolo di lettura
+
+dialogue:
+- Welkom bij de leesclub. Vanavond bespreken we Max Havelaar, het boek dat we allemaal hebben gelezen. Of toch niet?
+  it: Benvenuti al circolo di lettura. Stasera parliamo di Max Havelaar, il libro che tutti abbiamo letto. O forse no?
+- Weliswaar hebben we het allemaal gelezen, maar niemand weet nog hoe het afloopt.
+  it: È vero che lo abbiamo letto tutti, ma nessuno ricorda come va a finire.
+- Ik weet het nog wel. Het gaat over Batavus Droogstoppel, een koffiemakelaar in Amsterdam, toch?
+  it: Io sì. Parla di Batavus Droogstoppel, un mediatore di caffè di Amsterdam, no?
+- Overigens is Droogstoppel niet de hoofdpersoon. Dat is Max Havelaar, een ambtenaar op Java.
+  it: A proposito, Droogstoppel non è il protagonista. Lo è Max Havelaar, un funzionario di Giava.
+- Trouwens dacht ik dat het over koffie ging, net als het keurmerk op de supermarktkoffie.
+  it: Del resto pensavo che parlasse di caffè, come il marchio sul caffè del supermercato.
+- Dat ook, want het boek gaat over de koffieplantages op Java en over de boeren die er voor weinig geld werkten.
+  it: Anche quello, perché il libro parla delle piantagioni di caffè di Giava e dei contadini che vi lavoravano per poco.
+- Het keurmerk is van 1988, het boek van 1860: je haalt ze door elkaar.
+  it: Il marchio è del 1988, il libro del 1860: li confondi.
+- Nou ja, de naam is hetzelfde, dus ik zat er niet zo ver naast.
+  it: Beh, il nome è lo stesso, quindi non ero poi così lontano.
+- Eerlijk gezegd vond ik het vooral lang, maar dat zegt iedereen over klassiekers.
+  it: A dire il vero lo trovavo soprattutto lungo, ma lo dicono tutti dei classici.
+- Al met al is het een belangrijk boek, daar zijn we het over eens.
+  it: Tutto sommato è un libro importante, su questo siamo d'accordo.
+- Het is een aanklacht tegen het koloniale bestuur, en daar gaat het om.
+  it: È un atto d'accusa contro l'amministrazione coloniale, ed è questo che conta.
+- Hoe dan ook is het een klassieker, en klassiekers lees je niet om te weten hoe ze eindigen.
+  it: In ogni caso è un classico, e i classici non si leggono per sapere come finiscono.
+- Dat klopt, en niemand van ons geeft toe dat hij het niet heeft uitgelezen.
+  it: È vero, e nessuno di noi ammette di non averlo finito.
+- "Ik heb het wél gelezen," zegt Liesbeth achterin, "tot de eerste zin: 'Ik ben makelaar in koffie.' Daar ben ik gebleven."
+  it: "L'ho letto, eccome," dice Liesbeth dal fondo, "fino alla prima frase: 'Sono mediatore di caffè.' Lì mi sono fermata."
+
+notes.it:
+1. Weliswaar ... maar (frase 2): vuol dire "è vero che ... ma"; ammette un fatto e poi lo oppone a un'altra cosa; esempio: Weliswaar is het duur, maar het is goed, "è vero che costa, ma è buono".
+2. Overigens (frase 4): vuol dire "a proposito, comunque, tra l'altro", e introduce una precisazione; esempio: Overigens ben ik het niet met je eens, "comunque non sono d'accordo con te".
+3. Trouwens (frase 5): vuol dire "del resto, tra l'altro" e aggiunge una ragione o un ricordo; esempio: Trouwens, hij komt toch niet, "del resto non viene comunque".
+4. Max Havelaar (frase 4): è il romanzo del 1860 di Multatuli, pseudonimo di Eduard Douwes Dekker, che in latino vuol dire "ho sofferto molto"; denuncia gli abusi del dominio coloniale a Giava.
+5. Makelaar in koffie (frase 3): makelaar è il mediatore o l'agente; esempio: Hij is makelaar in huizen, "fa l'agente immobiliare".
+6. Keurmerk (frase 5 e 7): è il marchio di qualità; quello del commercio equo che porta il nome del romanzo esiste nei Paesi Bassi dal 1988.
+7. Door elkaar halen (frase 7): vuol dire "confondere, mettere insieme per errore"; door elkaar sta prima del verbo, che nella principale va al secondo posto: je haalt ze door elkaar; esempio: Hij haalt altijd de broers door elkaar, "confonde sempre i fratelli".
+8. Nou ja (frase 8): vuol dire "beh, insomma", e si usa per concedere qualcosa senza entusiasmo; esempio: Nou ja, het had erger gekund, "beh, poteva andare peggio".
+9. Er niet zo ver naast zitten (frase 8): vuol dire "non essere lontano dal vero, sbagliare di poco"; letteralmente "sedere accanto a quella cosa"; esempio: Je zit er niet ver naast, "non sei lontano".
+10. Eerlijk gezegd (frase 9): vuol dire "a dire il vero, francamente"; esempio: Eerlijk gezegd begrijp ik het niet, "a dire il vero non lo capisco".
+11. Al met al (frase 10): vuol dire "tutto sommato, nel complesso"; esempio: Al met al was het een goede avond, "nel complesso è stata una bella serata".
+12. Daar gaat het om (frase 11): vuol dire "è questo che conta, è il punto"; esempio: Het gaat om de inhoud, daar gaat het om, "conta il contenuto, è questo il punto".
+13. Aanklacht (frase 11): vuol dire "atto d'accusa, denuncia scritta"; il verbo è aanklagen; esempio: De krant schreef een aanklacht tegen het bestuur, "il giornale scrisse un atto d'accusa contro il governo".
+14. Hoe dan ook (frase 12): vuol dire "in ogni caso, comunque sia"; esempio: Hoe dan ook, we moeten gaan, "in ogni caso dobbiamo andare".
+15. Daar ben ik gebleven (frase 14): si dice quando ci si ferma a una certa parte di un testo o di un discorso; esempio: Waar was ik gebleven? "dove ero rimasto?".
+
+ex1:
+- Het museum is weliswaar klein, maar de collectie is verrassend.
+  it: Il museo è piccolo, è vero, ma la collezione sorprende.
+- Overigens heeft niemand het verslag gelezen, dus we beginnen opnieuw.
+  it: Del resto nessuno ha letto la relazione, quindi ricominciamo.
+- Eerlijk gezegd begrijp ik de grap niet, maar ik lach toch mee.
+  it: A dire il vero non capisco la battuta, ma rido lo stesso.
+- De krant schreef een scherpe aanklacht tegen het gemeentebestuur.
+  it: Il giornale scrisse un duro atto d'accusa contro l'amministrazione comunale.
+- Al met al was de reis mooi, ook al regende het de hele week.
+  it: Tutto sommato il viaggio è stato bello, anche se ha piovuto tutta la settimana.
+
+ex2:
+- Het is [weliswaar] waar, maar het is niet het hele verhaal.
+  it: È vero, ma non è tutta la storia.
+- Ik vind het [eerlijk gezegd] niet mooi.
+  it: A dire il vero non mi piace.
+- Het boek is een [aanklacht] tegen het koloniale bestuur.
+  it: Il libro è un atto d'accusa contro l'amministrazione coloniale.
+- Max Havelaar is een [ambtenaar] op Java.
+  it: Max Havelaar è un funzionario a Giava.
+- Het boek is een [klassieker] en wordt nog steeds gelezen.
+  it: Il libro è un classico e si legge ancora.
+
+== 47 C1
+numeral: Zevenenveertigste les
+title: Bezwaarschrift
+title.it: Ricorso amministrativo
+
+dialogue:
+- Aan het college van burgemeester en wethouders van de gemeente.
+  it: Al collegio del sindaco e degli assessori del comune.
+- Betreft: bezwaar tegen de boete wegens het te vroeg buitenzetten van de vuilnisbak.
+  it: Oggetto: ricorso contro la multa per aver messo fuori il bidone troppo presto.
+- Ondergetekende, mevrouw A. van Dijk, maakt hierbij bezwaar tegen de beschikking van de vorige maand.
+  it: La sottoscritta, la signora A. van Dijk, presenta con la presente ricorso contro il provvedimento del mese scorso.
+- Naar aanleiding van die beschikking heb ik een boete van veertig euro ontvangen.
+  it: In seguito a quel provvedimento ho ricevuto una multa di quaranta euro.
+- De vuilnisbak stond op woensdagavond buiten, terwijl de inzameling pas op donderdag was.
+  it: Il bidone era fuori il mercoledì sera, mentre il ritiro era previsto solo per il giovedì.
+- De volgende ochtend heb ik gezien hoe de vuilniswagen hem leegde.
+  it: La mattina dopo ho visto il camion svuotarlo.
+- Volgens het reglement mag de bak alleen op de dag van de inzameling buiten worden gezet.
+  it: Secondo il regolamento il bidone può essere messo fuori solo il giorno del ritiro.
+- Het gaat om een kleine overtreding, zonder enige gevolgen.
+  it: Si tratta di un'infrazione lieve, senza alcuna conseguenza.
+- Niemand heeft er last van gehad, en derhalve vind ik de boete ten onrechte opgelegd.
+  it: Nessuno ne ha subito disturbo, e pertanto ritengo che la multa sia stata inflitta a torto.
+- Ik ben lerares geweest en weet hoe belangrijk een regel is; juist daarom verwacht ik dat hij zorgvuldig wordt toegepast.
+  it: Sono stata insegnante e so quanto è importante una regola; proprio per questo mi aspetto che sia applicata con cura.
+- Ik verzoek u om de boete in te trekken.
+  it: La prego di ritirare la multa.
+- Ik dien erop te wijzen dat dit bezwaar binnen de wettelijke termijn van zes weken is ingediend.
+  it: Devo far notare che questo ricorso è presentato entro il termine di legge di sei settimane.
+- In afwachting van uw reactie,
+  it: In attesa della sua risposta,
+- Hoogachtend,
+  it: Distinti saluti,
+- A. van Dijk.
+  it: A. van Dijk.
+
+notes.it:
+1. Betreft (frase 2): è la riga dell'oggetto in una lettera formale, come Oggetto in italiano; esempio: Betreft: uw brief van vorige week, "oggetto: la sua lettera della settimana scorsa".
+2. Bezwaar maken tegen (frase 2 e 3): vuol dire "fare ricorso contro, presentare obiezione"; il bezwaar è l'atto, il bezwaarschrift è la lettera; esempio: Hij maakt bezwaar tegen de nieuwe regels, "fa ricorso contro le nuove regole".
+3. Ondergetekende (frase 3): è la formula con cui chi scrive si presenta, "il sottoscritto" o "la sottoscritta"; esempio: Ondergetekende verklaart dat de gegevens kloppen, "il sottoscritto dichiara che i dati sono corretti".
+4. Hierbij (frase 3): vuol dire "con la presente", ed è la formula tipica della lettera formale; l'esempio è in Fondamenti, lezione 89: Dan wordt het: hierbij wil ik mijn ongenoegen uiten.
+5. Naar aanleiding van (frase 4): vuol dire "a seguito di, in seguito a"; esempio: Naar aanleiding van uw vraag bel ik u terug, "in seguito alla sua domanda la richiamo".
+6. Lerares (frase 10): è il femminile di leraar, con il suffisso -es; esempio: Mijn moeder was lerares Frans, "mia madre era insegnante di francese".
+7. Derhalve (frase 9): vuol dire "pertanto, quindi", ed è più formale di dus; esempio: Hij was niet op tijd, derhalve gaat hij later, "non era in orario, quindi andrà più tardi".
+8. Ten onrechte (frase 9): vuol dire "a torto, senza motivo"; esempio: Hij werd ten onrechte beschuldigd, "fu accusato a torto".
+9. Verzoeken om (frase 11): vuol dire "chiedere, con tono formale"; esempio: Wij verzoeken u om spoedig te reageren, "vi preghiamo di rispondere presto".
+10. Dienen te (frase 12): vuol dire "dovere", più formale di moeten; esempio: Men dient de regels te volgen, "si devono seguire le regole".
+11. Wettelijke termijn (frase 12): vuol dire "termine di legge"; nei Paesi Bassi il termine per un bezwaar è in genere di sei settimane, come dice la lettera.
+12. In afwachting van (frase 13): vuol dire "in attesa di"; esempio: In afwachting van uw antwoord, "in attesa della sua risposta".
+13. Hoogachtend (frase 14): è la chiusura formale, "distinti saluti"; per la formula più comune, Met vriendelijke groet, si veda Fondamenti, lezione 89, nota 8.
+
+ex1:
+- Ik vraag u om mijn bezwaar serieus te nemen en het dossier nog eens te bekijken.
+  it: La prego di prendere sul serio il mio ricorso e di esaminare di nuovo il fascicolo.
+- In afwachting van uw antwoord blijf ik bereikbaar op het gebruikelijke nummer.
+  it: In attesa della sua risposta resto raggiungibile al solito numero.
+- Naar aanleiding van uw brief wil ik graag een afspraak maken.
+  it: In seguito alla sua lettera vorrei fissare un appuntamento.
+- Derhalve verzoek ik u de procedure op te schorten.
+  it: Pertanto la prego di sospendere la procedura.
+- Ondergetekende verklaart hierbij dat de gegevens volledig en naar waarheid zijn ingevuld.
+  it: Il sottoscritto dichiara con la presente che i dati sono stati compilati in modo completo e veritiero.
+
+ex2:
+- Ondergetekende [verklaart] dat de gegevens juist zijn.
+  it: Il sottoscritto dichiara che i dati sono corretti.
+- De boete is [ten onrechte] opgelegd.
+  it: La multa è stata inflitta a torto.
+- In [afwachting] van uw reactie.
+  it: In attesa della sua risposta.
+- Mijn moeder was [lerares] Frans.
+  it: Mia madre era insegnante di francese.
+- De wettelijke [termijn] is zes weken.
+  it: Il termine legale è di sei settimane.
+
+== 48 C1
+numeral: Achtenveertigste les
+title: Uw bezwaar
+title.it: Il suo ricorso
+
+dialogue:
+- Geachte mevrouw Van Dijk,
+  it: Gentile signora Van Dijk,
+- Inzake uw bezwaarschrift delen wij u mede dat het in behandeling nemen ervan heeft geleid tot de volgende conclusie.
+  it: In merito al suo ricorso, la informiamo che l'esame dello stesso ha portato alle seguenti conclusioni.
+- Wij hebben het dossier opgevraagd, alsmede het verslag van de handhavingsambtenaar.
+  it: Abbiamo richiesto il fascicolo, nonché la relazione dell'agente addetto ai controlli.
+- Uw bezwaar is ontvankelijk, doch ongegrond.
+  it: Il suo ricorso è ammissibile, ma infondato.
+- Uw verzoek om kwijtschelding wordt niet gehonoreerd.
+  it: La sua richiesta di remissione non viene accolta.
+- Het college acht de stelling dat de bak niemand heeft gehinderd niet van belang, daar de regel niet op hinder is gebaseerd.
+  it: La giunta considera irrilevante la tesi secondo cui il bidone non ha arrecato disturbo, dato che la norma non si basa sul disturbo.
+- Ten behoeve van een geordende inzameling is vastgesteld dat afvalbakken uitsluitend op de dag van inzameling buiten mogen worden gezet.
+  it: Per garantire un ritiro ordinato è stabilito che i bidoni possano essere esposti solo il giorno del ritiro.
+- Inzake de overtreding blijft de boete onverminderd van kracht.
+  it: Riguardo all'infrazione, la multa resta in vigore senza riduzioni.
+- Middels deze brief wordt de boete derhalve gehandhaafd.
+  it: Con la presente la multa è quindi confermata.
+- Tegen dit besluit staat binnen zes weken beroep open bij de rechtbank.
+  it: Contro la presente decisione è possibile ricorrere entro sei settimane al tribunale.
+- De afdeling Handhaving blijft ook in de toekomst toezien op de naleving van de regels.
+  it: Il servizio Controlli continuerà a vigilare sul rispetto delle norme anche in futuro.
+- Hoogachtend,
+  it: Distinti saluti,
+- Namens het college, de afdeling Handhaving.
+  it: Per conto della giunta, il servizio Controlli.
+- P.S. Met ingang van volgende maand wordt het afval een dag eerder opgehaald; de nieuwe kalender is bijgevoegd.
+  it: P.S. A partire dal mese prossimo i rifiuti saranno ritirati un giorno prima; il nuovo calendario è allegato.
+
+notes.it:
+1. Geachte mevrouw (frase 1): è il saluto formale, "gentile signora"; si usa quando non si conosce la persona o per una lettera ufficiale; l'opposto informale è Beste.
+2. Inzake (frase 2 e 8): vuol dire "riguardo a, in merito a"; è una parola dello stile burocratico, e nel linguaggio semplice si dice over.
+3. Mede delen (frase 2): vuol dire "comunicare, far sapere", con mede separabile in fondo: delen wij u mede, "la informiamo"; nel linguaggio semplice si dice laten weten.
+4. In behandeling nemen (frase 2): vuol dire "esaminare, prendere in carico una pratica"; ervan rimanda a bezwaarschrift; nel linguaggio semplice si dice bekijken.
+5. Alsmede (frase 3): vuol dire "come anche, nonché", e unisce due elementi allo stesso livello; nel linguaggio semplice si dice en ook.
+6. Ontvankelijk e ongegrond (frase 4): ontvankelijk vuol dire "ammissibile", il ricorso è accettato nella forma; ongegrond vuol dire "infondato", non è fondato nel merito; esempio: Het beroep is ongegrond, "il ricorso è infondato".
+7. Kwijtschelding (frase 5): vuol dire "remissione, condono di un debito o di una multa"; esempio: Hij vroeg kwijtschelding van de schuld, "chiese il condono del debito".
+8. Ten behoeve van (frase 7): vuol dire "a vantaggio di, per", e nel linguaggio semplice si dice voor; esempio: Ten behoeve van de kinderen is er een speeltuin, "per i bambini c'è un parco giochi".
+9. Onverminderd van kracht (frase 8): vuol dire "resta in vigore senza riduzioni"; nel linguaggio semplice si dice blijft gelden; esempio: De regel blijft onverminderd van kracht, "la regola resta in vigore".
+10. Middels (frase 9): vuol dire "mediante, tramite", e nel linguaggio semplice si dice met o door middel van; esempio: Middels een brief werd hij geïnformeerd, "fu informato tramite una lettera".
+11. Derhalve (frase 9): vuol dire "pertanto, quindi", più formale di dus; è la stessa parola della lettera 47 (lezione 47, nota 7).
+12. Beroep (frase 10): vuol dire "ricorso in tribunale", che è un passo dopo il bezwaar; esempio: Hij is in beroep gegaan bij de rechter, "ha fatto ricorso in tribunale".
+13. Hoogachtend e namens het college (frase 12 e 13): la chiusura è la stessa della lettera 47 (lezione 47, nota 13); namens vuol dire "per conto di"; esempio: Namens het bestuur, "per conto del consiglio".
+14. Met ingang van (frase 14): vuol dire "a partire da", e il P.S. dà spesso la notizia più utile; esempio: Met ingang van morgen is de winkel dicht, "da domani il negozio è chiuso".
+15. Jip-en-Janneketaal (frase 2, 3, 7, 8, 9): ecco le parole di questa lettera nel linguaggio semplice, come nella lezione 32, nota 8: inzake è over, mede delen è laten weten, in behandeling nemen è bekijken, alsmede è en ook, ten behoeve van è voor, onverminderd van kracht è blijft gelden, middels è met, derhalve è dus.
+
+ex1:
+- Wij hebben het college gevraagd de cijfers toe te lichten.
+  it: Abbiamo chiesto alla giunta di spiegare le cifre.
+- Ten behoeve van de jeugd blijft het park dit jaar langer open.
+  it: Per i giovani il parco quest'anno resta aperto più a lungo.
+- Middels een brief is de vergunning ingetrokken.
+  it: Con una lettera è stato ritirato il permesso.
+- Het college acht het verzoek om uitstel niet van belang.
+  it: La giunta ritiene irrilevante la richiesta di proroga.
+- De boete blijft onverminderd van kracht tot de uitspraak.
+  it: La multa resta in vigore senza riduzioni fino alla sentenza.
+
+ex2:
+- Het bezwaar is [ontvankelijk], maar ongegrond.
+  it: Il ricorso è ammissibile, ma infondato.
+- De boete blijft [onverminderd] van kracht.
+  it: La multa resta in vigore senza riduzioni.
+- De [handhavingsambtenaar] heeft verslag uitgebracht.
+  it: L'agente addetto ai controlli ha redatto una relazione.
+- [Kwijtschelding] van de boete wordt niet verleend.
+  it: La remissione della multa non viene concessa.
+- Het afval wordt volgende maand een dag [eerder] opgehaald.
+  it: Dal mese prossimo i rifiuti saranno ritirati un giorno prima.
+
+== 49 C1
+kind: revision
+numeral: Negenenveertigste les
+title: Herhaling
+title.it: Ripasso
+
+notes.it:
+La settima settimana del corso è finita. Come nelle lezioni 7, 14, 21, 28, 35 e 42, qui non c'è niente da imparare a memoria: le tabelle mettono in ordine quello che hai letto nelle lezioni 43-48.
+Ogni esempio è una frase vera di quelle lezioni, con il numero della frase, e i testi sono il tuo serbatoio di esempi.
+Leggi le tabelle una volta, poi fai i dieci esercizi in fondo.
+1. Le lettere formali (lezione 47, e lezione 48 per la risposta): la struttura è sempre la stessa, dal destinatario alla chiusura.
+
+| Parte della lettera | Esempio della settimana | In italiano |
+|---|---|---|
+| destinatario | Aan het college van burgemeester en wethouders van de gemeente (lezione 47, frase 1) | Al collegio del sindaco e degli assessori del comune |
+| oggetto | Betreft: bezwaar tegen de boete wegens het te vroeg buitenzetten van de vuilnisbak (lezione 47, frase 2) | Oggetto: ricorso contro la multa per aver messo fuori il bidone troppo presto |
+| chi scrive | Ondergetekende, mevrouw A. van Dijk, maakt hierbij bezwaar tegen de beschikking van de vorige maand (lezione 47, frase 3) | La sottoscritta, la signora A. van Dijk, presenta con la presente ricorso contro il provvedimento del mese scorso |
+| richiesta | Ik verzoek u om de boete in te trekken (lezione 47, frase 11) | La prego di ritirare la multa |
+| attesa | In afwachting van uw reactie, (lezione 47, frase 13) | In attesa della sua risposta |
+| chiusura | Hoogachtend, (lezione 47, frase 14) | Distinti saluti |
+
+2. Il linguaggio burocratico e quello semplice (lezione 48): nel linguaggio semplice, quello di Jip-en-Janneketaal (lezione 32, nota 8), ogni parola ufficiale ha un equivalente più corto.
+
+| Parola burocratica | Nel linguaggio semplice | Esempio della settimana | In italiano |
+|---|---|---|---|
+| inzake | over | Inzake de overtreding blijft de boete onverminderd van kracht (lezione 48, frase 8) | riguardo all'infrazione, la multa resta in vigore |
+| het in behandeling nemen van | bekijken | het in behandeling nemen ervan heeft geleid tot de volgende conclusie (lezione 48, frase 2) | l'esame della pratica ha portato a questa conclusione |
+| alsmede | en ook | Wij hebben het dossier opgevraagd, alsmede het verslag van de handhavingsambtenaar (lezione 48, frase 3) | nonché la relazione dell'agente addetto ai controlli |
+| ten behoeve van | voor | Ten behoeve van een geordende inzameling (lezione 48, frase 7) | per garantire un ritiro ordinato |
+| onverminderd van kracht | blijft gelden | blijft de boete onverminderd van kracht (lezione 48, frase 8) | la multa resta in vigore senza riduzioni |
+| middels | met | Middels deze brief wordt de boete derhalve gehandhaafd (lezione 48, frase 9) | con la presente la multa è confermata |
+| derhalve | dus | en derhalve vind ik de boete ten onrechte opgelegd (lezione 47, frase 9) | pertanto ritengo che la multa sia stata inflitta a torto |
+
+3. Il futuro visto dal passato (lezione 44, e Fondamenti, lezione 73 per zou): zou più infinito dice ciò che doveva ancora accadere, visto da un momento passato; le altre forme servono a raccontare ciò che stava per succedere.
+
+| Forma | Esempio della settimana | In italiano |
+|---|---|---|
+| zou + infinito, al plurale | ze wisten niet dat ze het nooit zouden vinden (lezione 44, frase 3) | non sapevano che non l'avrebbero mai trovato |
+| zouden + infinito in una frase secondaria | Hij dacht dat we de sleutel nooit zouden vinden (lezione 44, esercizi) | pensava che non avremmo mai trovato la chiave |
+| stond op het punt te + infinito | Kees stond op het punt naar bed te gaan (lezione 44, frase 6) | stava per andare a letto |
+| gingen op zoek naar | De volgende middag gingen ze op zoek naar de rozenstruik in de tuin (lezione 44, frase 9) | il pomeriggio dopo andarono alla ricerca del cespuglio di rose |
+
+4. I segnali del discorso (lezione 46): sono parole che collegano, concedono, correggono o chiudono un'idea, e in una conversazione danno il tono.
+
+| Segnale | Esempio della settimana | In italiano |
+|---|---|---|
+| weliswaar ... maar | Weliswaar hebben we het allemaal gelezen, maar niemand weet nog hoe het afloopt (lezione 46, frase 2) | è vero che lo abbiamo letto tutti, ma nessuno ricorda come va a finire |
+| overigens | Overigens is Droogstoppel niet de hoofdpersoon (lezione 46, frase 4) | a proposito, Droogstoppel non è il protagonista |
+| trouwens | Trouwens dacht ik dat het over koffie ging (lezione 46, frase 5) | del resto pensavo che parlasse di caffè |
+| nou ja | Nou ja, de naam is hetzelfde (lezione 46, frase 8) | beh, il nome è lo stesso |
+| eerlijk gezegd | Eerlijk gezegd vond ik het vooral lang (lezione 46, frase 9) | a dire il vero lo trovavo soprattutto lungo |
+| al met al | Al met al is het een belangrijk boek (lezione 46, frase 10) | tutto sommato è un libro importante |
+| hoe dan ook | Hoe dan ook is het een klassieker (lezione 46, frase 12) | in ogni caso è un classico |
+
+5. La famiglia di staan (lezione 45): staan vuol dire "stare in piedi", ma nelle espressioni il senso viene dalla preposizione e dalla parola accanto.
+
+| Espressione | Senso | Esempio della settimana | In italiano |
+|---|---|---|---|
+| voor schut staan | fare una figuraccia | ik wil niet voor schut staan (lezione 45, frase 1) | non voglio fare una figuraccia |
+| te kijk staan | essere esposto | Het staat hier al een week te kijk (lezione 45, frase 2) | è esposto da una settimana |
+| er alleen voor staan | cavarsela da soli | dus ik sta er alleen voor (lezione 45, frase 5) | quindi devo cavarmela da solo |
+| op eigen benen staan | essere indipendenti | Ik sta al jaren op eigen benen (lezione 45, frase 9) | sono indipendente da anni |
+| op losse schroeven staan | essere traballante | mijn budget staat op losse schroeven (lezione 45, frase 9) | il mio budget è traballante |
+| op het punt staan | stare per | Dan sta ik op het punt te vertrekken (lezione 45, frase 11) | allora sto per andarmene |
+| stilstaan bij | soffermarsi su | Laten we nog even stilstaan bij de prijs (lezione 45, frase 13) | soffermiamoci ancora un momento sul prezzo |
+
+Ora le dieci frasi: prima le cinque da tradurre, poi le cinque con i blanks.
+
+ex1:
+- Het huis is weliswaar oud, maar het is comfortabel.
+  it: La casa è vecchia, è vero, ma è comoda.
+- Hoe dan ook komen we morgen terug naar de leesclub.
+  it: In ogni caso domani torniamo al circolo di lettura.
+- Het staat vast: de bus vertrekt om negen uur.
+  it: È certo: il pullman parte alle nove.
+- Hij zei dat we het nooit zouden vinden.
+  it: Disse che non l'avremmo mai trovato.
+- Ik sta achter mijn besluit, ook al is het moeilijk.
+  it: Sostengo la mia decisione, anche se è difficile.
+
+ex2:
+- Het verslag is [weliswaar] lang, maar het is duidelijk.
+  it: La relazione è lunga, è vero, ma è chiara.
+- De baas staat ons [te woord].
+  it: Il capo risponde alle nostre domande.
+- Wij staan volledig [achter] het plan.
+  it: Sosteniamo pienamente il piano.
+- Hij zei dat hij volgende week [zou] komen.
+  it: Disse che sarebbe venuto la settimana dopo.
+- Hij staat op het [punt] te vertrekken.
+  it: Sta per partire.
+
+aside.it:
+Da domani, con la lezione 50, il corso aggiunge una fase attiva: ogni lezione nuova riporta una lezione già fatta, 49 lezioni indietro, quindi la 50 riporta la 1 e la 51 la 2.
+
+== 50 C1
+numeral: Vijftigste les
+title: De Waddeneilanden
+title.it: Le isole Wadden
+
+dialogue:
+- De Waddeneilanden liggen in het noorden van het land, tussen de Waddenzee en de Noordzee.
+  it: Le isole Wadden si trovano nel nord del paese, tra il Mare dei Wadden e il Mare del Nord.
+- Er zijn vijf bewoonde eilanden: Texel, Vlieland, Terschelling, Ameland en Schiermonnikoog.
+  it: Le isole abitate sono cinque: Texel, Vlieland, Terschelling, Ameland e Schiermonnikoog.
+- Sinds 2009 staat de Waddenzee op de Werelderfgoedlijst van de UNESCO.
+  it: Dal 2009 il Mare dei Wadden è nella lista del patrimonio mondiale dell'UNESCO.
+- Bij eb valt een groot deel van de zee droog, en dan ontstaan de wadplaten: vlakten van zand en modder.
+  it: Con la bassa marea gran parte del mare si ritira e compaiono i wadplaten, distese di sabbia e fango.
+- Bij vloed komt het water terug, en dat gaat sneller dan de meeste bezoekers denken.
+  it: Con l'alta marea l'acqua torna, e più in fretta di quanto pensano la maggior parte dei visitatori.
+- Het getij bepaalt het leven op de eilanden: de veerboten, de wandelingen en de excursies volgen de eb en de vloed.
+  it: La marea regola la vita delle isole: traghetti, passeggiate ed escursioni seguono la bassa e l'alta marea.
+- Op de kwelders en in de duinen broeden vogels, en op de zandbanken liggen zeehonden in de zon.
+  it: Nelle paludi salmastre e nelle dune nidificano gli uccelli, e sui banchi di sabbia le foche prendono il sole.
+- Wie wil wadlopen, loopt over de zeebodem terwijl het water weg is, en dat doet hij meestal met een gids.
+  it: Chi vuole fare il wadlopen cammina sul fondo del mare mentre l'acqua si è ritirata, e di solito lo fa con una guida.
+- Het is verboden de zeehonden te storen, en op de duinen mag je niet van het pad af.
+  it: È vietato disturbare le foche, e sulle dune non si può uscire dal sentiero.
+- Naar Vlieland mag er door bezoekers geen auto meegenomen worden, en dat maakt het eiland stil.
+  it: A Vlieland i visitatori non possono portare l'auto, e questo rende l'isola tranquilla.
+- Op Texel grazen de schapen in de weilanden, en hun vlees en hun kaas staan op veel tafels.
+  it: A Texel le pecore pascolano nei prati, e la loro carne e il loro formaggio arrivano su molte tavole.
+- Texel is het grootste eiland, en het belangrijkste dorp is Den Burg.
+  it: Texel è l'isola più grande, e il centro principale è Den Burg.
+- Op het vasteland bouwden de bewoners vroeger hun huizen op terpen, kunstmatige heuvels die het water moesten tegenhouden.
+  it: Sulla terraferma un tempo gli abitanti costruivano le case sulle terpen, colline artificiali che dovevano tenere lontana l'acqua.
+- Het landschap is open en vlak, en er waait bijna altijd wind.
+  it: Il paesaggio è aperto e piatto, e quasi sempre c'è vento.
+- Wie erheen wil, neemt de boot: vanuit Den Helder naar Texel, vanuit Harlingen naar Vlieland en Terschelling.
+  it: Chi vuole andarci prende il traghetto: da Den Helder per Texel, da Harlingen per Vlieland e Terschelling.
+- Op de eilanden schrijft het getij de dienstregeling, niet de rederij.
+  it: Sulle isole l'orario lo scrive la marea, non la compagnia di navigazione.
+
+notes.it:
+1. De Waddeneilanden (frase 1): sono le isole della fascia nord del paese; wad è il fondale di sabbia e fango che l'acqua scopre con la bassa marea, e il plurale è Waddeneilanden.
+2. Waddenzee (frase 3): è il mare fra le isole e la costa; la parola è già nella lezione 88 di Fondamenti, dove l'Afsluitdijk separa l'IJsselmeer dalla Waddenzee (Fondamenti, lezione 88).
+3. Werelderfgoed (frase 3): è il patrimonio mondiale, composto da wereld, "mondo", ed erfgoed, "patrimonio"; la lista si chiama werelderfgoedlijst, come la parola lijst, "elenco".
+4. Eb en vloed (frase 4 e 5): eb è la bassa marea e vloed è l'alta marea; il getij è il ciclo di marea nel suo insieme, e torna nella frase 6.
+5. Wadplaten (frase 4): plaat vuol dire "lastra", qui "banco"; i wadplaten sono i banchi del wad che emergono con la bassa marea.
+6. Volgen (frase 6): vuol dire "seguire, adeguarsi a"; esempio: De bus volgt de dienstregeling, "l'autobus segue l'orario".
+7. Broeden (frase 7): vuol dire "covare, nidificare"; esempio: De vogel broedt op de grond, "l'uccello nidifica a terra".
+8. Wadlopen (frase 8): è lopen, "camminare", unito a wad; esempio: Hij loopt elke ochtend naar zijn werk, "ogni mattina va al lavoro a piedi".
+9. Het is verboden te (frase 9): è la forma impersonale per il divieto; con storen, "disturbare", l'infinito vuole te; esempio: Het is verboden hier te roken, "è vietato fumare qui".
+10. Er mag door bezoekers geen auto meegenomen worden (frase 10): è il passivo con er, senza soggetto; esempio: Er mag hier niet gefietst worden, "qui non si può andare in bici".
+11. Terpen (frase 13): sono rialzi di terra costruiti dagli abitanti per non restare sommersi, e le case vi stavano sopra; il verbo della frase è all'imperfetto, perché si racconta un passato chiuso.
+12. Het landschap (frase 14): landschap è un het-woord e vuol dire "paesaggio"; esempio: Het landschap van Zeeland is vlak, "il paesaggio della Zelanda è piatto".
+13. Erheen (frase 15): vuol dire "lì, verso quel posto", ed è un avverbio con er e heen; esempio: Ik ga erheen met de trein, "ci vado in treno".
+14. Dienstregeling (frase 16): è l'orario dei trasporti; esempio: De dienstregeling van de trein verandert in de zomer, "l'orario del treno cambia in estate".
+15. Rederij (frase 16): è la compagnia di navigazione, da reder, "armatore"; esempio: De rederij heeft de boot afgelast, "la compagnia ha cancellato il traghetto".
+
+ex1:
+- De boot naar Texel vertrekt vanuit Den Helder, om negen uur 's ochtends.
+  it: Il traghetto per Texel parte da Den Helder alle nove del mattino.
+- Bij eb kun je op het wad lopen, maar houd de vloed goed in de gaten.
+  it: Con la bassa marea si può camminare sul wad, ma tieni d'occhio l'alta marea.
+- Het is verboden de vogels op de kwelder te storen.
+  it: È vietato disturbare gli uccelli sulla palude salmastra.
+- Mijn oom heeft op Ameland een huis met uitzicht op het water.
+  it: Mio zio ha una casa ad Ameland con vista sul mare.
+- Hoe laat vertrekt de laatste boot terug naar het vasteland?
+  it: A che ora parte l'ultimo traghetto per la terraferma?
+
+ex2:
+- Bij [eb] valt een groot deel van de zee droog.
+  it: Con la bassa marea gran parte del mare si ritira.
+- Op Vlieland mag geen auto [meegenomen] worden.
+  it: Su Vlieland non si può portare l'auto.
+- Het is [verboden] de zeehonden te storen.
+  it: È vietato disturbare le foche.
+- Texel is de [grootste] van de Waddeneilanden.
+  it: Texel è la più grande delle isole Wadden.
+- Vroeger [bouwden] de bewoners hun huizen op terpen.
+  it: Un tempo gli abitanti costruivano le case sulle terpen.
+
+== 51 C1
+numeral: Eenenvijftigste les
+title: Spinoza
+title.it: Spinoza
+
+dialogue:
+- Baruch de Spinoza werd in 1632 in Amsterdam geboren, in een gezin van joden met Portugese wortels.
+  it: Baruch de Spinoza nacque nel 1632 ad Amsterdam, in una famiglia di ebrei di origine portoghese.
+- Hij heette eerst Bento; Baruch en Benedictus zijn de Hebreeuwse en de Latijnse vorm, en alle drie betekenen "gezegend".
+  it: Si chiamava dapprima Bento; Baruch e Benedictus sono le forme ebraica e latina, e tutte e tre vogliono dire "benedetto".
+- In 1656 werd hij uit de joodse gemeente van Amsterdam gezet, en de precieze reden is nooit helemaal duidelijk geworden.
+  it: Nel 1656 fu espulso dalla comunità ebraica di Amsterdam, e il motivo preciso non è mai stato chiarito del tutto.
+- Hij verdiende zijn brood met het slijpen van lenzen, hetgeen weinig opbracht maar hem wel tijd gaf om na te denken.
+  it: Si guadagnava da vivere molando lenti, cosa che rendeva poco ma gli lasciava tempo per pensare.
+- Hij woonde achtereenvolgens in Rijnsburg, in Voorburg en in Den Haag, waar hij in 1677 overleed.
+  it: Visse in successione a Rijnsburg, a Voorburg e all'Aia, dove morì nel 1677.
+- In 1670 verscheen anoniem zijn Tractatus theologico-politicus, waarbij hij de vrijheid van denken verdedigde.
+  it: Nel 1670 uscì anonimo il suo Tractatus theologico-politicus, in cui difendeva la libertà di pensiero.
+- Zijn Ethica, waarin hij God en de natuur met elkaar gelijkstelt, verscheen pas na zijn dood.
+  it: La sua Ethica, in cui identifica Dio e la natura, uscì solo dopo la sua morte.
+- Hij zag God en de natuur als een en dezelfde werkelijkheid, en dat was in die tijd een gevaarlijke gedachte.
+  it: Vedeva Dio e la natura come un'unica e medesima realtà, e a quel tempo era un'idea pericolosa.
+- Hij schreef zijn hoofdwerk in het Latijn; de volledige titel luidde Ethica, ordine geometrico demonstrata.
+  it: Scrisse l'opera principale in latino; il titolo completo era Ethica, ordine geometrico demonstrata.
+- In 1673 kreeg hij een leerstoel in Heidelberg aangeboden, maar hij weigerde, naar verluidt omdat hij zijn vrijheid niet wilde opgeven.
+  it: Nel 1673 gli fu offerta una cattedra a Heidelberg, ma rifiutò, si dice perché non voleva rinunciare alla sua libertà.
+- De filosoof wiens naam nu in elk handboek staat, verdiende zijn geld met lenzen welke anderen gebruikten.
+  it: Il filosofo il cui nome compare oggi in ogni manuale guadagnava con lenti che usavano altri.
+- Hij stierf op vierenveertigjarige leeftijd, en daarna werden zijn boeken verkocht.
+  it: Morì a quarantaquattro anni, e in seguito i suoi libri furono venduti.
+- Zijn ideeën over de vrijheid van denken, op grond waarvan hij later vaak als voorloper van de Verlichting wordt gezien, bleven lang omstreden.
+  it: Le sue idee sulla libertà di pensiero, in base alle quali più tardi è spesso considerato un precursore dell'Illuminismo, rimasero a lungo controverse.
+- Hij sleep lenzen, zodat anderen beter konden zien.
+  it: Molava lenti, perché gli altri potessero vedere meglio.
+
+notes.it:
+1. Baruch de Spinoza (frase 1): in italiano si scrive Spinoza; il suo nome di nascita era Bento (frase 2), e Baruch è la forma ebraica.
+2. Joden met Portugese wortels (frase 1): molti ebrei di Amsterdam nel Seicento discendevano da famiglie venute dal Portogallo; esempio: Mijn oma heeft Portugese wortels, "mia nonna ha radici portoghesi".
+3. Gezegend (frase 2): è il participio di zegenen, "benedire", e vuol dire "benedetto"; esempio: Hij is gezegend met een goede gezondheid, "ha una buona salute".
+4. Uit ... gezet (frase 3): gezet, da zetten, vuol dire "cacciato" nel senso di "escluso da un gruppo"; esempio: Hij werd uit de club gezet, "fu cacciato dal circolo".
+5. Hetgeen (frase 4): è il relativo che riprende un'intera frase e vuol dire "ciò che" o "cosa che"; esempio: Hij kwam te laat, hetgeen niemand verbaasde, "arrivò in ritardo, cosa che non sorprese nessuno".
+6. Slijpen (frase 4): vuol dire "molare, levigare" il vetro o il metallo; il passato è sleep e il participio è geslepen; esempio: Dit glas is mooi geslepen, "questo vetro è molato bene".
+7. Achtereenvolgens (frase 5): vuol dire "uno dopo l'altro, in successione"; in italiano Den Haag si scrive L'Aia.
+8. Waarbij (frase 6): è un relativo introdotto da una preposizione, tipico dello scritto; esempio: Het plan, waarbij de weg wordt verbreed, is goedgekeurd, "il progetto, con cui la strada viene allargata, è stato approvato".
+9. Waarin (frase 7): è il relativo "in cui" riferito a una cosa; gelijkstellen vuol dire "mettere sullo stesso piano, identificare".
+10. Wiens e wier (lezione 4, frase 5): per una città, come de stad, il possessivo è wier; per un nome maschile si usa wiens, come qui con filosoof; per i femminili e per il plurale vale sempre wier.
+11. Luidde (frase 9): è il passato di luiden, detto di un testo che "dice, recita"; esempio: De tekst luidt als volgt, "il testo dice così".
+12. Leerstoel (frase 10): è la cattedra universitaria; esempio: Hij kreeg een leerstoel aan de universiteit, "ottenne una cattedra all'università".
+13. Naar verluidt (frase 10): vuol dire "a quanto si dice", e serve a riferire una voce senza garantirla; esempio: Naar verluidt is het huis verkocht, "a quanto si dice la casa è stata venduta".
+14. Wiens (frase 11): qui il relativo possessivo riprende filosoof, un nome maschile; esempio: De man wiens hond ik heb gevonden, "l'uomo il cui cane ho trovato".
+15. Op grond waarvan (frase 13): è la forma formale di "in base a cui", con la preposizione davanti al relativo; come waarbij, è tipica dello scritto.
+ex1:
+- Het boek waarin hij zijn denkbeelden uiteenzet, is nogal moeilijk.
+  it: Il libro in cui espone le sue idee è piuttosto difficile.
+- Hij weigerde de leerstoel, omdat hij zijn vrijheid wilde behouden.
+  it: Rifiutò la cattedra, perché voleva conservare la sua libertà.
+- De man wiens fiets hier staat, woont op de eerste verdieping.
+  it: L'uomo la cui bici è qui abita al primo piano.
+- Het besluit, op grond waarvan de school is gesloten, werd gisteren bekendgemaakt.
+  it: La decisione in base alla quale la scuola è stata chiusa è stata annunciata ieri.
+- Hij pakte een lens, waardoor hij het kleine insect veel beter kon zien.
+  it: Prese una lente, e così riusciva a vedere molto meglio il piccolo insetto.
+
+ex2:
+- Hij heeft in 1670 zijn boek [anoniem] uitgegeven.
+  it: Nel 1670 pubblicò il suo libro in forma anonima.
+- De filosoof [wiens] naam iedereen kent, woonde in Den Haag.
+  it: Il filosofo il cui nome tutti conoscono viveva all'Aia.
+- Hij is in 1677 in Den [Haag] overleden.
+  it: È morto nel 1677 all'Aia.
+- Hij heeft de lens [geslepen], zodat hij beter kan zien.
+  it: Ha molato la lente, così può vedere meglio.
+- De stad, [wier] straten smal zijn, heeft een mooi plein.
+  it: La città, le cui strade sono strette, ha una bella piazza.
+
+== 52 C1
+numeral: Tweeënvijftigste les
+title: Even sparren
+title.it: Scambiare due idee
+
+dialogue:
+- Goed, we hebben veertig minuten, en ik wil even sparren over de invoering van het nieuwe systeem, zegt Marijke.
+  it: Bene, abbiamo quaranta minuti, e vorrei scambiare due idee sull'introduzione del nuovo sistema, dice Marijke.
+- We moeten het systeem nog updaten voordat we live gaan, zegt Joost.
+  it: Prima di metterlo in funzione dobbiamo ancora aggiornare il sistema, dice Joost.
+- Daar ben ik het mee eens, maar eerst een call inplannen met de IT-afdeling.
+  it: Sono d'accordo, ma prima bisogna fissare una videochiamata con il reparto IT.
+- Ik heb de tool al twee keer geüpdatet, en hij werkt nog steeds niet.
+  it: Ho già aggiornato lo strumento due volte, e ancora non funziona.
+- Heb je de oude bestanden verwijderd? Want ze staan nog op de server.
+  it: Hai eliminato i vecchi file? Perché sono ancora sul server.
+- Ik heb ze verwijderd, maar ze staan nog in de back-up.
+  it: Li ho eliminati, ma sono ancora nel backup.
+- Dat is laaghangend fruit: die back-up moet er gewoon uit, dan zitten we op één lijn.
+  it: È un risultato alla portata di mano: il backup va tolto e così siamo tutti d'accordo.
+- Wie is hier eigenlijk verantwoordelijk voor de planning? vraagt Sanne.
+  it: Chi è davvero responsabile della pianificazione? chiede Sanne.
+- Daar komen we straks op terug, zegt Marijke. Eerst wil ik draagvlak creëren bij de directie.
+  it: Ci torniamo più tardi, dice Marijke. Prima voglio creare consenso presso la direzione.
+- Dan stemmen we de agenda af op de vergadering van volgende week, zegt Ruud.
+  it: Allora allineiamo l'ordine del giorno alla riunione della settimana prossima, dice Ruud.
+- Mag ik er nog even op terugkomen? Ik weet niet zeker of het budget al is vastgelegd.
+  it: Posso tornarci un momento? Non sono sicura che il budget sia già stato fissato.
+- Volgens mij is er al besloten, maar ik weet het niet zeker.
+  it: Credo che sia già stato deciso, ma non ne sono sicuro.
+- Wat is er precies besloten?
+  it: Che cosa si è deciso, esattamente?
+- Dat staat in de notulen, of stond er toch in.
+  it: Sta nel verbale, o almeno ci stava.
+- Wie heeft de notulen geüpdatet, en wie heeft ze gedeeld?
+  it: Chi ha aggiornato il verbale, e chi lo ha condiviso?
+- Niemand. Die staan nog in de versie van vorige maand.
+  it: Nessuno. Sono ancora nella versione del mese scorso.
+- Dan koppelen we het terug aan iedereen, zegt Joost, zodat niemand het achteraf anders herinnert.
+  it: Allora lo riferiamo a tutti, dice Joost, così nessuno lo ricorderà diversamente dopo.
+- Dat klopt, en dan plannen we een vervolgoverleg om alles terug te koppelen.
+  it: Esatto, e allora fissiamo una riunione di seguito per riferire tutto.
+
+notes.it:
+1. Even sparren (frase 1): vuol dire "scambiare due idee, discutere senza decidere"; sparren è propriamente l'allenamento con un compagno di pugilato, e il senso figurato resta quello di un confronto leggero; esempio: Laten we even sparren over de vakantie, "parliamo un po' delle vacanze".
+2. Invoering (frase 1): è l'introduzione di un prodotto o di un sistema; nel resto della riunione la parola olandese lascia il posto all'inglese.
+3. Updaten e geüpdatet (frase 2 e 4): updaten è il verbo inglese "aggiornare" usato in ufficio; il participio si scrive geüpdatet, come una parola olandese; esempio: Ik heb de app geüpdatet, "ho aggiornato l'app".
+4. Een call inplannen (frase 3): call è la videochiamata o la telefonata di lavoro; l'olandese dell'ufficio accetta la parola inglese, e inplannen vuol dire "fissare in agenda"; esempio: Ik plan een call in voor donderdag, "fisso una call per giovedì".
+5. Verwijderen (frase 5 e 6): è la parola olandese per "eliminare" un file; l'inglese deleten è spesso sentito in ufficio, ma verwijderen è la forma standard; esempio: Hij heeft het bericht verwijderd, "ha eliminato il messaggio".
+6. Laaghangend fruit (frase 7): letteralmente "frutto appeso basso", cioè a portata di mano; vuol dire "risultato facile da ottenere, occasione comoda"; esempio: Die klant is laaghangend fruit, "questo cliente è un'occasione facile".
+7. Op één lijn zitten (frase 7): vuol dire "essere d'accordo, procedere sulla stessa linea"; letteralmente "sedere sulla stessa linea"; esempio: Wij zitten op één lijn over de prijs, "siamo d'accordo sul prezzo".
+8. Draagvlak creëren (frase 9): draagvlak è il sostegno di persone che accettano un piano; creëren vuol dire "creare"; esempio: Het plan heeft weinig draagvlak, "il piano ha poco consenso".
+9. Afstemmen op (frase 10): vuol dire "allineare a, adattare a"; esempio: De planning is afgestemd op de behoeften van de klant, "la pianificazione è adattata alle esigenze del cliente".
+10. Terugkomen op (frase 9 e 11): vuol dire "tornare su un argomento"; esempio: Ik kom op dat punt terug in de volgende vergadering, "riprenderò quel punto alla prossima riunione".
+11. Notulen (frase 14 e 15): sono il verbale di una riunione; esempio: De notulen van de vorige vergadering zijn goedgekeurd, "il verbale della riunione precedente è stato approvato".
+12. Terugkoppelen (frase 17 e 18): vuol dire "riferire, far sapere il risultato a chi ha partecipato"; esempio: Ik koppel de uitslag terug aan de klant, "comunico il risultato al cliente".
+13. Vervolgoverleg (frase 18): è una riunione di seguito, per proseguire una discussione; la parola è composta da vervolg, "seguito", e overleg, "consultazione".
+
+ex1:
+- Laten we even sparren over de planning, maar nog niets beslissen.
+  it: Scambiamo due idee sulla pianificazione, ma non decidiamo ancora niente.
+- Ik heb het bestand vanochtend geüpdatet.
+  it: Stamattina ho aggiornato il file.
+- Zij heeft de oude notulen verwijderd.
+  it: Lei ha eliminato il vecchio verbale.
+- Het plan heeft nog weinig draagvlak bij de directie.
+  it: Il piano ha ancora poco consenso presso la direzione.
+- Daar komen we later op terug, want nu hebben we geen tijd.
+  it: Ci torneremo più tardi, perché adesso non abbiamo tempo.
+
+ex2:
+- Die klant is [laaghangend] fruit.
+  it: Questo cliente è un'occasione facile.
+- Wij zitten [op] één lijn over de prijs.
+  it: Siamo d'accordo sul prezzo.
+- De notulen moeten worden [gedeeld] met het team.
+  it: Il verbale va condiviso con la squadra.
+- Ik kom op dat punt straks [terug] in de vergadering.
+  it: Riprenderò quel punto più tardi, nella riunione.
+- Wij koppelen het resultaat aan de klant [terug].
+  it: Riferiamo il risultato al cliente.
+
+== 53 C1
+numeral: Drieënvijftigste les
+title: Trekken
+title.it: Tirare, camminare, trarre
+
+dialogue:
+- Ik wilde een trektocht maken, tien dagen te voet door de Veluwe, met rugzak en tent.
+  it: Volevo fare un trekking di dieci giorni a piedi nella Veluwe, con lo zaino e la tenda.
+- Mijn zus zei: "Trek het je niet aan, het is maar een wandeling." Maar ik trok het me wel aan.
+  it: Mia sorella disse: "Non prenderla a cuore, è solo una passeggiata." Ma io me la presi.
+- Mijn vrienden vroegen of ik de stoute schoenen had aangetrokken.
+  it: I miei amici chiesero se avessi trovato il coraggio.
+- Bij de start trokken we lootjes om te bepalen wie de tent zou dragen.
+  it: Alla partenza tirammo a sorte per decidere chi avrebbe portato la tenda.
+- Ik trok het kortste lootje, en dus trok ik aan het kortste eind.
+  it: Pescai la pagliuzza più corta, e così ebbi la peggio.
+- Op de tweede dag verdwaalden we, en de gids trok aan de bel.
+  it: Il secondo giorno ci perdemmo, e la guida diede l'allarme.
+- Ik trok de juistheid van de kaart in twijfel, want die was van vorig jaar.
+  it: Misi in dubbio l'esattezza della mappa, perché era dell'anno prima.
+- Uit alles trok ik de conclusie dat we op de verkeerde weg zaten.
+  it: Da tutto questo trassi la conclusione che eravamo sulla strada sbagliata.
+- Op de derde dag regende het, en ik kreeg trek in koffie.
+  it: Il terzo giorno piovve, e mi venne voglia di caffè.
+- Toen bleek dat er geen koffie was, trok ik een gezicht.
+  it: Quando risultò che non c'era caffè, feci una smorfia.
+- Die avond trok ik tijd uit om mijn natte sokken te drogen.
+  it: Quella sera dedicai un po' di tempo ad asciugare i calzini bagnati.
+- Op de vierde dag trok ik mijn eigen plan en liep ik alleen, over een andere route.
+  it: Il quarto giorno seguii la mia strada: andai da solo, per un altro percorso.
+- Wie aan de touwtjes trok, was de gids, en die had alles geregeld.
+  it: A tirare i fili era la guida, che aveva organizzato tutto.
+- Op de zesde dag liet ik de thee lang trekken, want ik had geen haast.
+  it: Il sesto giorno lasciai in infusione il tè a lungo, perché non avevo fretta.
+- Na tien dagen te voet heb ik vooral trek in een stoel.
+  it: Dopo dieci giorni a piedi, la cosa che desidero di più è una sedia.
+
+notes.it:
+1. Trektocht (frase 1): è una camminata lunga, un trekking; il verbo trekken, in questo senso, vuol dire "andare a piedi per molto tempo".
+2. Trekken (frase 1): è un verbo con molti sensi: "tirare" (het paard trekt de wagen, "il cavallo tira il carro"), "disegnare" (een lijn trekken, "tracciare una linea"), "camminare a lungo" e "trarre"; il contesto dice quale.
+3. Trek (frase 1 e 15): il sostantivo indica l'appetito o la voglia, come in trek hebben in, e la migrazione degli animali; esempio: De trek van de ganzen gaat naar het zuiden, "la migrazione delle oche va verso sud".
+4. Zich iets aantrekken (frase 2): vuol dire "prendere a cuore, preoccuparsi di qualcosa"; trek het je niet aan è il consiglio di non dare peso; esempio: Hij trekt zich de kritiek niet aan, "non si preoccupa delle critiche".
+5. De stoute schoenen aantrekken (frase 3): vuol dire "farsi coraggio, decidersi a osare"; letteralmente "mettersi le scarpe audaci"; esempio: Zij trok de stoute schoenen aan en vroeg om een verhoging, "si fece coraggio e chiese un aumento".
+6. Lootjes trekken (frase 4): vuol dire "tirare a sorte"; un lootje è un bigliettino per il sorteggio; esempio: We trokken lootjes om te bepalen wie begon, "abbiamo tirato a sorte per decidere chi cominciava".
+7. Aan het kortste eind trekken (frase 5): vuol dire "avere la peggio"; letteralmente "tirare dal lato più corto"; esempio: Hij trok aan het kortste eind in de onderhandeling, "ha avuto la peggio nella trattativa".
+8. Aan de bel trekken (frase 6): vuol dire "dare l'allarme, protestare ad alta voce"; letteralmente "tirare il campanello"; esempio: De buren trokken aan de bel bij de gemeente, "i vicini hanno protestato presso il comune".
+9. In twijfel trekken (frase 7): vuol dire "mettere in dubbio"; esempio: Niemand trok zijn bewijs in twijfel, "nessuno mise in dubbio le sue prove".
+10. Conclusies trekken (frase 8): vuol dire "trarre conclusioni"; esempio: Wie uit één zin conclusies trekt, maakt vaak een fout, "chi trae conclusioni da una sola frase spesso sbaglia".
+11. Trek hebben in (frase 9 e 15): vuol dire "avere voglia di qualcosa", detto soprattutto di cibo e bevande; esempio: Ik heb trek in ijs, "ho voglia di gelato".
+12. Een gezicht trekken (frase 10): vuol dire "fare una smorfia, storcere la bocca"; esempio: Hij trok een gezicht bij de prijs, "ha fatto una smorfia davanti al prezzo".
+13. Tijd uittrekken voor (frase 11): vuol dire "riservare tempo a qualcosa"; esempio: Ik trek elke week een uur uit voor de administratie, "ogni settimana riservo un'ora alla contabilità".
+14. Zijn eigen plan trekken (frase 12): vuol dire "fare di testa propria, seguire la propria strada"; esempio: Zij trekt altijd haar eigen plan, "lei fa sempre di testa sua".
+15. Aan de touwtjes trekken (frase 13): vuol dire "tirare le fila, controllare dietro le quinte"; letteralmente "tirare i fili"; esempio: Wie trekt hier aan de touwtjes? "chi tira le fila, qui?"
+16. De thee laten trekken (frase 14): vuol dire "lasciare in infusione il tè", detto della bustina o delle foglie; esempio: Laat de thee vijf minuten trekken, "lascia in infusione il tè per cinque minuti".
+17. Le espressioni di questa lezione, con il numero della frase e della nota:
+trekken (frase 1, nota 2)
+trek (frase 1, nota 3)
+zich iets aantrekken (frase 2, nota 4)
+de stoute schoenen aantrekken (frase 3, nota 5)
+lootjes trekken (frase 4, nota 6)
+aan het kortste eind trekken (frase 5, nota 7)
+aan de bel trekken (frase 6, nota 8)
+in twijfel trekken (frase 7, nota 9)
+conclusies trekken (frase 8, nota 10)
+trek hebben in (frase 9, nota 11)
+een gezicht trekken (frase 10, nota 12)
+tijd uittrekken voor (frase 11, nota 13)
+zijn eigen plan trekken (frase 12, nota 14)
+aan de touwtjes trekken (frase 13, nota 15)
+de thee laten trekken (frase 14, nota 16)
+
+ex1:
+- Hij trekt zich weinig aan van de regels.
+  it: Si cura poco delle regole.
+- Niemand trok de uitslag in twijfel.
+  it: Nessuno mise in dubbio il risultato.
+- Ik heb trek in een kop thee, dus ik zet er één.
+  it: Ho voglia di una tazza di tè, quindi ne preparo una.
+- Wie aan de touwtjes trekt, moet ook de gevolgen dragen.
+  it: Chi tira le fila deve anche sopportare le conseguenze.
+- Hij trok een gezicht toen hij het resultaat zag.
+  it: Quando vide il risultato fece una smorfia.
+
+ex2:
+- Trek het je niet [aan], het is maar een wandeling.
+  it: Non prenderla a cuore, è solo una passeggiata.
+- Hij heeft de [stoute] schoenen aangetrokken.
+  it: Ha trovato il coraggio.
+- Wij moeten [lootjes] trekken om te beslissen.
+  it: Dobbiamo tirare a sorte per decidere.
+- Ik trek elke week een uur [uit] voor de administratie.
+  it: Ogni settimana riservo un'ora alla contabilità.
+- Wie aan het [kortste] eind trekt, verliest.
+  it: Chi ha la peggio perde.
+
+== 54 C1
+numeral: Vierenvijftigste les
+title: De kroegquiz
+title.it: Il quiz del pub
+
+dialogue:
+- Ronde één: weet jij toevallig wie De Nachtwacht heeft geschilderd, Dirk?
+  it: Primo giro: tu sai per caso chi ha dipinto La ronda di notte, Dirk?
+- Rembrandt, toch? Ik vraag me alleen af of hij het in 1642 heeft gemaakt, of wat later.
+  it: Rembrandt, no? Mi chiedo solo se l'abbia fatto nel 1642 o un po' più tardi.
+- Het is 1642. Dat weet ik zeker, want het stond in mijn schoolboek.
+  it: È il 1642. Ne sono sicura, perché stava sul mio libro di scuola.
+- Ik weet niet of het in jouw schoolboek stond, Yasmina, maar misschien is het De Staalmeesters.
+  it: Non so se fosse nel tuo libro, Yasmina, ma forse è De Staalmeesters.
+- Het hangt ervan af wat de quizmaster precies vraagt. Schrijven we Rembrandt op?
+  it: Dipende da che cosa chiede esattamente il conduttore. Scriviamo Rembrandt?
+- Ja, Rembrandt. Als het jaar een aparte vraag is, denken we er later over na.
+  it: Sì, Rembrandt. Se l'anno è una domanda a parte, ci penseremo dopo.
+- Ronde twee: welke rivier stroomt door Keulen? Tom, weet jij dat?
+  it: Secondo giro: quale fiume scorre attraverso Colonia? Tom, tu lo sai?
+- De Maas. Rotterdam ligt toch ook aan de Maas, dus het is vast de Maas.
+  it: La Mosa. Anche Rotterdam sta sulla Mosa, quindi sarà sicuramente la Mosa.
+- Keulen ligt aan de Rijn, dat weet ik zeker. Tom, je zit er ver naast.
+  it: Colonia sta sul Reno, ne sono sicura. Tom, sei lontanissimo.
+- Weet je zeker dat Keulen niet in België ligt?
+  it: Sei sicura che Colonia non sia in Belgio?
+- Keulen ligt in Duitsland, Tom. Daar hoeven we niet over te twisten.
+  it: Colonia è in Germania, Tom. Su questo non c'è niente da discutere.
+- Ronde drie: wie schreef Max Havelaar, en wanneer verscheen het boek?
+  it: Terzo giro: chi ha scritto Max Havelaar, e quando è uscito il libro?
+- Multatuli, dat weet iedereen. En het jaar is 1880, toch?
+  it: Multatuli, lo sa chiunque. E l'anno è il 1880, no?
+- Nee, 1860. Het is ouder dan het keurmerk op de koffie.
+  it: No, 1860. È più vecchio del marchio sul caffè.
+- Dan schrijven we 1860 op. Dat is het enige wat ik vandaag zeker weet.
+  it: Allora scriviamo 1860. È l'unica cosa che oggi sono sicuro di sapere.
+- Ronde vier, de laatste: wie heeft het meisje met de parel geschilderd? Vermeer, toch?
+  it: Quarto giro, l'ultimo: chi ha dipinto La ragazza con l'orecchino di perla? Vermeer, no?
+- Nee, Rembrandt. Die doet alles met licht, dus het is Rembrandt.
+  it: No, Rembrandt. Lui fa tutto con la luce, quindi è Rembrandt.
+- Ik vraag me af of hij het zelf weet, maar schrijf het maar op.
+  it: Mi chiedo se lo sappia lui stesso, ma scrivilo pure.
+- Goed, Rembrandt, zegt de quizmaster. En zo winnen jullie de avond: ik had het ook zo opgeschreven.
+  it: Giusto, Rembrandt, dice il conduttore. E così vincete la serata: anch'io l'avevo scritto così.
+
+notes.it:
+1. Weet jij toevallig wie (frase 1): è una domanda indiretta, introdotta da wie, "chi"; nella subordinata il verbo va alla fine; esempio: Weet jij toevallig waar de bus stopt? "Sai per caso dove si ferma l'autobus?".
+2. Wie De Nachtwacht heeft geschilderd (frase 1): nella subordinata i due verbi vanno in fondo: heeft geschilderd, o anche geschilderd heeft; tutti e due gli ordini sono corretti.
+3. De Nachtwacht (frase 1): il titolo olandese del quadro di Rembrandt, in italiano La ronda di notte; il dipinto è al Rijksmuseum di Amsterdam.
+4. Ik vraag me af of (frase 2): vuol dire "mi chiedo se", e la subordinata con of è una domanda indiretta; il verbo va in fondo, come heeft gemaakt.
+5. Of e als (frase 2, 4 e 6): of introduce una domanda indiretta, cioè il "se" di "mi chiedo se"; als è il "se" della condizione, come in Als het jaar een aparte vraag is, "se l'anno è una domanda a parte"; per la domanda indiretta si usa of.
+6. Het hangt ervan af wat (frase 5): vuol dire "dipende da ciò che", e ervan rinvia a quello che segue; l'interrogativo wat introduce la subordinata, con il verbo alla fine: wat de quizmaster precies vraagt.
+7. Ronde (frase 1, 7, 12 e 16): nel quiz la ronde è il giro di domande, con un tema; esempio: De eerste ronde gaat over geschiedenis, "il primo giro riguarda la storia".
+8. De Maas (frase 8): in italiano la Mosa; a Rotterdam scorre la Nieuwe Maas, un ramo del delta, e il nome può ingannare chi non lo sa.
+9. Keulen (frase 9 e 11): è il nome olandese di Colonia, in Germania, che sorge sul Reno, in olandese Rijn.
+10. Er ver naast zitten (frase 9): vuol dire "sbagliarsi di molto"; qui Hanneke dice che Tom sbaglia; la stessa espressione torna nella forma er niet zo ver naast (lezione 46, nota 9).
+11. Multatuli (frase 13): è lo pseudonimo di Eduard Douwes Dekker, autore di Max Havelaar, uscito nel 1860; è lo stesso romanzo della lezione 46 (lezione 46, nota 4).
+12. Keurmerk (frase 14): il marchio sul caffè, del 1988; la battuta è che il libro è più vecchio del marchio, e il confronto si trova già nella lezione 46 (lezione 46, nota 6).
+13. Het meisje met de parel (frase 16): il dipinto di Vermeer, detto La ragazza con l'orecchino di perla, si trova al Mauritshuis dell'Aia; l'autore è Vermeer, non Rembrandt.
+14. Doet alles met licht (frase 17): è la motivazione sbagliata di Dirk, una battuta sul pittore della luce; la risposta è sbagliata, ma il finale mostra che il conduttore l'aveva scritta allo stesso modo.
+15. Ik had het ook zo opgeschreven (frase 19): vuol dire "anch'io l'avevo scritto così"; la frase chiude il quiz con l'ironia del conduttore, che ha sbagliato come la squadra.
+
+ex1:
+- Weet jij toevallig waar het museum is?
+  it: Sai per caso dov'è il museo?
+- Ik vraag me af of de trein vandaag vertrekt.
+  it: Mi chiedo se il treno parta oggi.
+- Het hangt ervan af wat het weer morgen wordt.
+  it: Dipende da come sarà il tempo domani.
+- Hij wil weten wie de prijs heeft gewonnen.
+  it: Vuole sapere chi ha vinto il premio.
+- Ik weet niet of zij het antwoord al kent.
+  it: Non so se lei conosca già la risposta.
+
+ex2:
+- Weet jij toevallig [wie] het boek heeft geschreven?
+  it: Sai per caso chi ha scritto il libro?
+- Het hangt ervan af [wat] de quizmaster vraagt.
+  it: Dipende da che cosa chiede il conduttore.
+- Weet je toevallig [waar] de bus stopt?
+  it: Sai per caso dove si ferma l'autobus?
+- Dirk wil weten welke rivier door Keulen [stroomt].
+  it: Dirk vuole sapere quale fiume attraversa Colonia.
+- Ik vraag me af wie het meisje met de parel [heeft] geschilderd.
+  it: Mi chiedo chi abbia dipinto La ragazza con l'orecchino di perla.
+
+== 55 C1
+numeral: Vijfenvijftigste les
+title: Afrikaans
+title.it: Afrikaans
+
+dialogue:
+- Afrikaans is een dochtertaal van het Nederlands, en wordt vooral gesproken in Zuid-Afrika en Namibië.
+  it: L'afrikaans è una lingua figlia dell'olandese, parlata soprattutto in Sudafrica e in Namibia.
+- De taal ontstond aan de Kaap, waar de Nederlanders in 1652 onder leiding van Jan van Riebeeck een verversingspost van de VOC stichtten.
+  it: La lingua nacque al Capo di Buona Speranza, dove nel 1652, sotto la guida di Jan van Riebeeck, gli olandesi fondarono una stazione di rifornimento della VOC.
+- Daarna kwamen er Franse hugenoten en Duitsers, en slaven uit Azië en Afrika.
+  it: In seguito arrivarono ugonotti francesi e tedeschi, e schiavi dall'Asia e dall'Africa.
+- In 1925 werd het een officiële taal van de Unie van Zuid-Afrika, naast het Engels.
+  it: Nel 1925 divenne lingua ufficiale dell'Unione Sudafricana, accanto all'inglese.
+- Het landschap rond de Kaap is bergachtig, en op de hellingen liggen wijngaarden.
+  it: Il paesaggio intorno al Capo è montuoso, e sulle pendici ci sono vigneti.
+- In Namibië, verder naar het noorden, is het land droog en zijn de afstanden groot.
+  it: In Namibia, più a nord, il paese è arido e le distanze sono grandi.
+- "Baie dankie" betekent heel hartelijk bedankt, en "lekker" betekent hier hetzelfde als in het Nederlands.
+  it: "Baie dankie" vuol dire grazie di cuore, e "lekker" qui ha lo stesso significato che in olandese.
+- Het werkwoord heeft geen persoonsuitgangen: ek is, jy is, hy is, en de vorm blijft steeds dezelfde.
+  it: Il verbo non ha desinenze per persona: ek is, jy is, hy is, e la forma resta sempre la stessa.
+- Men ontkent met nie ... nie, zoals in: ek praat nie Afrikaans nie.
+  it: Si nega con nie ... nie, come in: ek praat nie Afrikaans nie.
+- Bij de braai, de barbecue, eet men biltong, gedroogd vlees dat je ook tussendoor eet.
+  it: Alla braai, il barbecue, si mangia il biltong, carne essiccata che si mangia anche tra un pasto e l'altro.
+- Na het eten drinkt men rooibos, een thee van een rode struik die van nature alleen in het westen van de Kaapprovincie groeit.
+  it: Dopo cena si beve il rooibos, un tè di un arbusto rosso che cresce allo stato naturale solo nella parte occidentale della provincia del Capo.
+- Ook veel woorden zijn in het Engels terechtgekomen, zoals trek en veld.
+  it: Anche molte parole sono finite in inglese, come trek e veld.
+- Een Nederlander begrijpt de meeste woorden van een pagina, en lacht om de rest.
+  it: Un olandese capisce la maggior parte delle parole di una pagina, e ride del resto.
+
+notes.it:
+1. Dochtertaal (frase 1): è una lingua nata da un'altra; l'afrikaans discende dall'olandese del Seicento e del Settecento, e la parola Afrikaans indica la lingua, non il continente.
+2. Kaap (frase 2): de Kaap è il Capo di Buona Speranza, all'estremo sud dell'Africa; la VOC era la Compagnia olandese delle Indie orientali.
+3. Verversingspost (frase 2): è una stazione di rifornimento, dove le navi prendevano acqua e viveri; esempio: Het schip verversde zijn voorraad water, "la nave rinnovò la scorta d'acqua".
+4. Hugenoten (frase 3): sono i protestanti francesi, detti ugonotti in italiano; esempio: De hugenoten vluchtten uit Frankrijk, "gli ugonotti fuggirono dalla Francia".
+5. Naast (frase 4): vuol dire "accanto a", e qui indica che l'afrikaans e l'inglese sono entrambi ufficiali.
+6. Hellingen (frase 5): sono le pendici di una collina o di una montagna; esempio: Het huis staat op de helling van de heuvel, "la casa sta sul pendio della collina".
+7. Baie (frase 7): vuol dire "molto" e rafforza la parola che segue, come in baie dankie, "grazie mille"; in olandese si direbbe heel erg bedankt.
+8. Lekker (frase 7): in entrambe le lingue vuol dire "buono, piacevole"; esempio: Dat ruikt lekker, "ha un buon profumo".
+9. Persoonsuitgang (frase 8): è la desinenza che cambia con la persona, come in ik ben, jij bent; l'afrikaans ha ek is, jy is, hy is, con la stessa forma per tutte le persone.
+10. Nie ... nie (frase 9): è la negazione dell'afrikaans; nell'olandese si dice niet o geen, nell'afrikaans nie, ripetuto come in ek praat nie Afrikaans nie, "io non parlo afrikaans".
+11. Braai (frase 10): è il barbecue, e il verbo braai vuol dire "arrostire sulla griglia"; esempio: Vanavond braaien we, "stasera facciamo il barbecue".
+12. Rooibos (frase 11): è composto da rooi, "rosso", e bos, "cespuglio"; è un tè di un arbusto che cresce solo in una zona della Kaapprovincie.
+13. Trek e veld (frase 12): sono parole afrikaans passate all'inglese; trek vuol dire "lungo viaggio" e veld vuol dire "campagna aperta, pianura".
+14. Nederlands e Afrikaans naast elkaar (tabella):
+
+| Nederlands | Afrikaans | In italiano |
+|---|---|---|
+| ik ben | ek is | io sono |
+| jij bent | jy is | tu sei |
+| dank je wel | dankie | grazie |
+| goedemorgen | goeie môre | buongiorno |
+| niet | nie | non |
+| geen | geen | nessuno |
+| ik spreek geen Afrikaans | ek praat nie Afrikaans nie | io non parlo afrikaans |
+| ik weet het niet | ek weet nie | io non lo so |
+| boter | botter | burro |
+| water | water | acqua |
+
+ex1:
+- Mijn vader spreekt Afrikaans, omdat hij in Namibië heeft gewoond.
+  it: Mio padre parla afrikaans, perché ha vissuto in Namibia.
+- In het Afrikaans heeft het werkwoord voor alle personen dezelfde vorm.
+  it: In afrikaans il verbo ha la stessa forma per tutte le persone.
+- Die wijn uit de Kaap is heel lekker, zeggen mijn vrienden.
+  it: Dicono i miei amici che il vino del Capo è davvero buono.
+- Ik begrijp de meeste woorden van die krant, al snap ik de grammatica niet.
+  it: Capisco la maggior parte delle parole di quel giornale, anche se non capisco la grammatica.
+- Bij de braai eten we biltong, en daarna drinken we rooibos.
+  it: Alla braai mangiamo il biltong, e poi beviamo il rooibos.
+
+ex2:
+- Het Afrikaans heeft werkwoorden zonder [uitgangen].
+  it: L'afrikaans ha verbi senza desinenze.
+- Ek praat [nie] Afrikaans nie.
+  it: Io non parlo afrikaans.
+- In 1925 werd het Afrikaans een officiële [taal].
+  it: Nel 1925 l'afrikaans divenne lingua ufficiale.
+- Rooibos is een thee van een [rode] struik.
+  it: Il rooibos è un tè di un arbusto rosso.
+- Een Nederlander [begrijpt] de woorden van een Afrikaanse krant.
+  it: Un olandese capisce le parole di un giornale afrikaans.
+
+== 56 C1
+kind: revision
+numeral: Zesenvijftigste les
+title: Herhaling
+title.it: Ripasso
+
+notes.it:
+Ottava settimana del corso finita: dalla lezione 50 alla 55 hai letto un paesaggio, un filosofo, un ufficio, un quiz, una lingua e una camminata.
+Qui non c'è niente da imparare a memoria: le tabelle mettono in ordine quello che hai letto nelle lezioni 50-55, e ogni esempio è una frase vera di quelle lezioni, con il numero della frase.
+Leggi le tabelle una volta, poi fai i dieci esercizi in fondo.
+1. I relativi della lingua scritta (lezione 51, e lezione 4 per wier): sono le forme che introducono una frase relativa in un testo formale, dove il parlato userebbe die o waar.
+
+| Relativo | Senso | Esempio della settimana | In italiano |
+|---|---|---|---|
+| hetgeen | ciò che, cosa che | Hij verdiende zijn brood met het slijpen van lenzen, hetgeen weinig opbracht maar hem wel tijd gaf om na te denken (lezione 51, frase 4) | Si guadagnava da vivere molando lenti, cosa che rendeva poco ma gli lasciava tempo per pensare |
+| waarbij | in cui, con cui | In 1670 verscheen anoniem zijn Tractatus theologico-politicus, waarbij hij de vrijheid van denken verdedigde (lezione 51, frase 6) | Nel 1670 uscì anonimo il suo Tractatus theologico-politicus, in cui difendeva la libertà di pensiero |
+| waarin | in cui | Zijn Ethica, waarin hij God en de natuur met elkaar gelijkstelt, verscheen pas na zijn dood (lezione 51, frase 7) | La sua Ethica, in cui identifica Dio e la natura, uscì solo dopo la sua morte |
+| welke | che (forma scritta) | De filosoof wiens naam nu in elk handboek staat, verdiende zijn geld met lenzen welke anderen gebruikten (lezione 51, frase 11) | Il filosofo il cui nome compare oggi in ogni manuale guadagnava con lenti che usavano altri |
+| wiens | il cui (nome maschile o het-woord) | De filosoof wiens naam nu in elk handboek staat, verdiende zijn geld met lenzen welke anderen gebruikten (lezione 51, frase 11) | Il filosofo il cui nome compare oggi in ogni manuale guadagnava con lenti che usavano altri |
+| wier | il cui (nome femminile o plurale) | Vlissingen, een stad wier geschiedenis aan de zee gebonden is, ligt aan de monding van de Westerschelde (lezione 4, frase 5) | Vlissingen, una città la cui storia è legata al mare, si trova alla foce della Schelda occidentale |
+| op grond waarvan | in base a cui | Zijn ideeën over de vrijheid van denken, op grond waarvan hij later vaak als voorloper van de Verlichting wordt gezien, bleven lang omstreden (lezione 51, frase 13) | Le sue idee sulla libertà di pensiero, in base alle quali più tardi è spesso considerato un precursore dell'Illuminismo, rimasero a lungo controverse |
+
+2. I verbi dell'ufficio (lezione 52): accanto all'inglese updaten c'è la parola olandese verwijderen, e il participio si scrive come in ogni verbo olandese.
+
+| Infinitief | Voltooid deelwoord | Zin uit de les |
+|---|---|---|
+| updaten | geüpdatet | Ik heb de tool al twee keer geüpdatet, en hij werkt nog steeds niet (lezione 52, frase 4) |
+| verwijderen | verwijderd | Heb je de oude bestanden verwijderd? (lezione 52, frase 5) |
+
+3. La domanda indiretta, con of e als (lezione 54): la subordinata con of o wat o wie ha il verbo alla fine, e als è il "se" della condizione.
+
+| Forma | Senso | Esempio della settimana | In italiano |
+|---|---|---|---|
+| weet jij toevallig wie | sai per caso chi | Ronde één: weet jij toevallig wie De Nachtwacht heeft geschilderd, Dirk? (lezione 54, frase 1) | Primo giro: tu sai per caso chi ha dipinto La ronda di notte, Dirk? |
+| ik vraag me af of | mi chiedo se | Ik vraag me alleen af of hij het in 1642 heeft gemaakt, of wat later (lezione 54, frase 2) | Mi chiedo solo se l'abbia fatto nel 1642 o un po' più tardi |
+| het hangt ervan af wat | dipende da ciò che | Het hangt ervan af wat de quizmaster precies vraagt (lezione 54, frase 5) | Dipende da che cosa chiede esattamente il conduttore |
+| als (condizione) | se | Als het jaar een aparte vraag is, denken we er later over na (lezione 54, frase 6) | Se l'anno è una domanda a parte, ci penseremo dopo |
+
+4. Olandese, fiammingo, olandese del Suriname e afrikaans (lezione 43, lezione 55 e Fondamenti, lezione 97): sono varietà della stessa famiglia, con parole e forme che cambiano da un paese all'altro.
+
+| Forma | Dove si usa | Esempio della settimana | In italiano |
+|---|---|---|---|
+| je / ge | je nei Paesi Bassi; ge nel fiammingo delle Fiandre | In de tussentaal, die tussen dialect en standaardtaal in ligt, zegt men ge waar men in Nederland je of jij zegt (lezione 43, frase 12) | Nella tussentaal si dice ge dove nei Paesi Bassi si dice je o jij |
+| kot | Belgio, stanza per studenti | De universiteit trekt elk jaar veel studenten, en veel van hen zoeken een kot, zoals ze hier de studentenkamer noemen (lezione 43, frase 9) | L'università attira ogni anno molti studenti, e molti di loro cercano un kot, come qui chiamano la stanza dello studente |
+| kiné | Belgio, fisioterapista | Wie hier een fysiotherapeut nodig heeft, zoekt een kiné: zo heet die in België (lezione 43, frase 10) | Chi qui ha bisogno di un fisioterapista cerca un kiné: in Belgio si chiama così |
+| Nederlands in Suriname | lingua ufficiale | In Suriname is het Nederlands de officiële taal (Fondamenti, lezione 97) | In Suriname l'olandese è la lingua ufficiale |
+| mattie | Suriname e Paesi Bassi, dal sranantongo | Wie in Nederland "mattie" hoort, hoort een woord uit het Sranantongo: mati, vriend (lezione 37, frase 16) | Chi sente "mattie" nei Paesi Bassi sente una parola del sranantongo: mati, amico |
+| afrikaans, grazie | Sudafrica e Namibia | "Baie dankie" betekent heel hartelijk bedankt (lezione 55, frase 7) | "Baie dankie" vuol dire grazie di cuore |
+| afrikaans, negazione | Sudafrica e Namibia | Men ontkent met nie ... nie, zoals in: ek praat nie Afrikaans nie (lezione 55, frase 9) | Si nega con nie ... nie, come in: ek praat nie Afrikaans nie |
+
+5. La famiglia di trekken (lezione 53): trekken vuol dire tirare, camminare a lungo o trarre, e le espressioni vanno imparate con la preposizione che portano.
+
+| Espressione | Senso | Esempio della settimana | In italiano |
+|---|---|---|---|
+| lootjes trekken | tirare a sorte | Bij de start trokken we lootjes om te bepalen wie de tent zou dragen (lezione 53, frase 4) | Alla partenza tirammo a sorte per decidere chi avrebbe portato la tenda |
+| aan het kortste eind trekken | avere la peggio | Ik trok het kortste lootje, en dus trok ik aan het kortste eind (lezione 53, frase 5) | Pescai la pagliuzza più corta, e così ebbi la peggio |
+| in twijfel trekken | mettere in dubbio | Ik trok de juistheid van de kaart in twijfel, want die was van vorig jaar (lezione 53, frase 7) | Misi in dubbio l'esattezza della mappa, perché era dell'anno prima |
+| trek hebben in | avere voglia di | Op de derde dag regende het, en ik kreeg trek in koffie (lezione 53, frase 9) | Il terzo giorno piovve, e mi venne voglia di caffè |
+
+Ora le dieci frasi: prima le cinque da tradurre, poi le cinque con i blanks.
+
+ex1:
+- Het besluit, waarbij de school sluit, is al genomen.
+  it: La decisione con cui la scuola chiude è già stata presa.
+- Ik vraag me af of de bus vandaag rijdt.
+  it: Mi chiedo se l'autobus passi oggi.
+- Het hangt ervan af wat je wilt eten.
+  it: Dipende da che cosa vuoi mangiare.
+- Als het morgen regent, blijven we thuis.
+  it: Se domani piove, restiamo a casa.
+- Ik heb trek in iets zoets.
+  it: Ho voglia di qualcosa di dolce.
+
+ex2:
+- Hij trekt zich de kritiek niet [aan].
+  it: Non si prende a cuore le critiche.
+- De gids trok aan de [bel] toen het mistig werd.
+  it: La guida diede l'allarme quando si alzò la nebbia.
+- De klant heeft de tool al [geüpdatet].
+  it: Il cliente ha già aggiornato lo strumento.
+- Dit is de vrouw [wier] tuin ik bewonder.
+  it: Questa è la donna il cui giardino ammiro.
+- In de tussentaal zegt men [ge] waar men in Nederland je zegt.
+  it: Nella tussentaal si dice ge dove nei Paesi Bassi si dice je.
+
+== 57 C1
+numeral: Zevenenvijftigste les
+title: Oost west, thuis best
+title.it: Ad est o ad ovest, casa è la migliore
+
+dialogue:
+- Oma, ik heb een vraag. Volgend jaar wil ik een half jaar in Berlijn studeren. Wat vind jij ervan?
+  it: Nonna, ho una domanda. L'anno prossimo vorrei studiare sei mesi a Berlino. Che ne pensi?
+- Oost west, thuis best. Dat weet je toch al?
+  it: Ad est o ad ovest, casa è la migliore. Questo lo sai già, no?
+- Ja, maar dat is geen antwoord. Ik wil weten wat jij denkt.
+  it: Sì, ma non è una risposta. Voglio sapere che cosa pensi tu.
+- Ik denk wat de spreekwoorden denken. Die zijn al eeuwen door veel mensen uitgeprobeerd.
+  it: Penso quello che pensano i proverbi. Per secoli molte persone li hanno messi alla prova.
+- Dan vraag ik het aan de spreekwoorden zelf. Moet ik het risico nemen?
+  it: Allora lo chiedo ai proverbi stessi. Devo correre il rischio?
+- Wie niet waagt, wie niet wint.
+  it: Chi non osa non vince.
+- Maar ik ken niemand in Berlijn, en de kamer kost bijna alles wat ik in een maand verdien.
+  it: Ma a Berlino non conosco nessuno, e la stanza costa quasi tutto quello che guadagno in un mese.
+- Beter een goede buur dan een verre vriend.
+  it: Meglio un buon vicino che un amico lontano.
+- De buurvrouw van de overkant ken ik nauwelijks. Ze heeft alleen een kat.
+  it: La vicina di fronte la conosco appena. Ha solo un gatto.
+- Wie het kleine niet eert, is het grote niet weerd.
+  it: Chi non rispetta le cose piccole non merita quelle grandi.
+- Dan breng ik haar een doosje pralines. Wat betekent weerd? Dat woord ken ik niet.
+  it: Allora le porto una scatola di praline. Che cosa vuol dire weerd? Non conosco questa parola.
+- Weerd is de oude vorm van waard. Het rijmt op eert, en daarom is het in het spreekwoord blijven staan.
+  it: Weerd è la forma antica di waard. Rima con eert, e per questo è rimasta nel proverbio.
+- Dan iets anders. Mijn verslag moet vandaag af, en ik zit al twee uur te typen zonder resultaat. Hoe pak ik het aan?
+  it: Allora un'altra cosa. Oggi devo finire la relazione, e da due ore scrivo senza combinare niente. Come lo affronto?
+- Haastige spoed is zelden goed.
+  it: La fretta raramente porta bene.
+- Het moet morgen om negen uur ingeleverd worden, dus ik moet door. Vanavond eet ik iets uit de Ethiopische winkel, iets wat ik nog nooit heb geproefd.
+  it: Va consegnata domani alle nove, quindi devo andare avanti. Stasera mangio qualcosa dal negozio etiope, una cosa che non ho mai assaggiato.
+- Wat de boer niet kent, dat eet hij niet.
+  it: Il contadino non mangia ciò che non conosce.
+- Je hebt het nog niet eens geproefd, oma! En oom Ruud heeft trouwens net gouden velgen op zijn auto laten zetten.
+  it: Non l'hai nemmeno assaggiato, nonna! E zio Ruud ha appena fatto mettere dei cerchioni dorati sulla macchina.
+- Al draagt een aap een gouden ring, het is en blijft een lelijk ding.
+  it: Anche se una scimmia porta un anello d'oro, resta sempre una brutta cosa.
+- Zeg dat niet tegen hem, oma, hij is er heel trots op.
+  it: Non dirglielo, nonna, è molto orgoglioso.
+- Eerlijk duurt het langst.
+  it: L'onestà dura più a lungo.
+- Waar komen al die spreekwoorden eigenlijk vandaan?
+  it: Ma da dove vengono tutti questi proverbi?
+- Van iedereen, en al heel lang. Pieter Bruegel heeft er in 1559 tientallen op één schilderij gezet, en wie goed kijkt, herkent er nog veel.
+  it: Da tutti, e da moltissimo tempo. Nel 1559 Pieter Bruegel ne ha messi decine in un unico quadro, e chi guarda bene ne riconosce ancora molti.
+- Wie zijn oma iets vraagt, krijgt altijd een spreekwoord.
+  it: Chi chiede qualcosa alla nonna riceve sempre un proverbio.
+
+notes.it:
+1. Oost west, thuis best (frase 2): il proverbio dice che la propria casa è la migliore, ovunque si vada; oost e west non indicano una direzione, vogliono dire "dovunque".
+2. Spreekwoord (frase 4): è il proverbio, composto da spreken, "parlare", e woord, "parola"; una frase che la gente ripete da secoli.
+3. Uitproberen (frase 4): vuol dire "provare, mettere alla prova"; esempio: Ik heb de nieuwe fiets uitgeprobeerd, "ho provato la bici nuova".
+4. Wie niet waagt, wie niet wint (frase 6): waagt viene da wagen, "osare, rischiare"; esempio: Hij waagde het en won de prijs, "osò e vinse il premio".
+5. Beter een goede buur dan een verre vriend (frase 8): beter è il comparativo di goed; il proverbio mette il vicino prima dell'amico lontano; esempio: Beter laat dan nooit, "meglio tardi che mai".
+6. Eren (frase 10): vuol dire "onorare, rispettare"; qui il senso è "chi non rispetta le cose piccole".
+7. Weerd (frase 10 e 12): è la forma antica di waard; oggi si dice waard, come in Het is de moeite waard, "ne vale la pena".
+8. Haastige spoed (frase 14): spoed vuol dire "fretta, urgenza" e suona più formale di haast; il proverbio dice che la fretta raramente porta bene.
+9. De boer (frase 16): boer è il contadino; il proverbio vale anche per chi mangia solo ciò che conosce, come in Hij eet alleen wat hij kent, dus nooit sushi, "lui mangia solo ciò che conosce, quindi mai sushi".
+10. Oom Ruud (frase 17): oom è lo zio, il fratello di uno dei genitori; gouden velgen sono cerchioni dorati, e velg vuol dire "cerchione".
+11. Al draagt een aap een gouden ring (frase 18): il proverbio dice che anche con un ornamento prezioso una cosa brutta resta brutta; in italiano si dice "la scimmia è sempre scimmia, anche se vestita di seta".
+12. Eerlijk duurt het langst (frase 20): duurt viene da duren, "durare"; la nonna rifiuta di tacere e dice che sarà sincera con Ruud, perché l'onestà alla lunga paga.
+13. Pieter Bruegel (frase 22): è il pittore dei Paesi Bassi meridionali del Cinquecento; il quadro si chiama in olandese Nederlandse spreekwoorden, del 1559, ed è conservato a Berlino.
+14. Wie zijn oma iets vraagt (frase 23): la battuta finale ha la forma dei proverbi della nonna, wie ... , ...; la nipote la rovescia contro la nonna e inventa un proverbio su di lei.
+
+ex1:
+- Wie vroeg opstaat, heeft de hele ochtend voor zich.
+  it: Chi si alza presto ha tutta la mattina davanti a sé.
+- Mijn buurman is een goede buur: hij helpt me altijd met de fiets.
+  it: Il mio vicino è un buon vicino: mi aiuta sempre con la bici.
+- Dit boek is de moeite waard, ook al is het lang.
+  it: Questo libro vale la pena, anche se è lungo.
+- Zij eet nooit iets wat ze niet kent.
+  it: Lei non mangia mai ciò che non conosce.
+- Haast je, want de bus vertrekt over vijf minuten.
+  it: Sbrigati, perché l'autobus parte tra cinque minuti.
+
+ex2:
+- Het weekend in Groningen is de [moeite] waard.
+  it: Il fine settimana a Groninga vale la pena.
+- Hij [eet] liever geen vis.
+  it: Lui non mangia volentieri il pesce.
+- Mijn [buurvrouw] heeft een kat.
+  it: La mia vicina ha un gatto.
+- Dit gerecht heb ik nog nooit [geproefd].
+  it: Non ho mai assaggiato questo piatto.
+- Hij heeft gouden [velgen] op zijn auto.
+  it: Ha dei cerchioni dorati sulla macchina.
+
+== 58 C1
+numeral: Achtenvijftigste les
+title: De betweter
+title.it: Il saputello
+
+dialogue:
+- Goedemorgen, meneer Blom. Uw bord is klaar. Wilt u het eerst zien?
+  it: Buongiorno, signor Blom. La sua insegna è pronta. Vuole vederla prima?
+- Ja, maar eerst de tekst. Ik heb u mijn briefje gegeven.
+  it: Sì, ma prima il testo. Le ho dato il mio biglietto.
+- Dat klopt. Ik heb alles letter voor letter overgenomen.
+  it: È vero. Ho copiato tutto lettera per lettera.
+- Dat zie ik. U schreef "pannekoek", zonder n. Dat is fout: het moet pannenkoek zijn, met een n ertussen, want pannen is het meervoud van pan.
+  it: Lo vedo. Lei ha scritto "pannekoek", senza n. È sbagliato: deve essere pannenkoek, con la n in mezzo, perché pannen è il plurale di pan.
+- Dat staat ook zo op uw briefje, meneer.
+  it: Anche sul suo biglietto c'è scritto così, signore.
+- Dat was een kladje, mevrouw. Een kladje telt niet.
+  it: Era una minuta, signora. Una minuta non conta.
+- Dan is het bord ook een kladje?
+  it: Allora anche il cartello è una minuta?
+- Het bord is de tekst die ik heb goedgekeurd: "Pannekoeken, de beste van de stad." Schilder die maar.
+  it: Il cartello è il testo che ho approvato: "Pannekoeken, la migliore della città." Lo dipinga pure.
+- Maar net hebt u mij verbeterd, meneer. Waarom mag het bord dan zonder n?
+  it: Ma poco fa mi ha corretta, signore. Perché il cartello può essere senza n?
+- Voor u geldt de spelling. Voor het bord geldt mijn smaak.
+  it: Per lei vale l'ortografia. Per il cartello vale il mio gusto.
+- En zonneschijn? Schrijf ik dat met een n of zonder?
+  it: E zonneschijn? Lo scrivo con la n o senza?
+- Zonder, want er is maar één zon. Het is zonneschijn, niet zonnenschijn.
+  it: Senza, perché c'è un solo sole. Si scrive zonneschijn, non zonnenschijn.
+- Dan nog één vraag: schrijf ik "het is gebeurd" of "het is gebeurt"?
+  it: E un'ultima domanda: scrivo "het is gebeurd" o "het is gebeurt"?
+- Gebeurd, met d. Het is gebeurd, niet gebeurt. Iedereen die de regels kent, ziet dat meteen.
+  it: Gebeurd, con la d. Het is gebeurd, non gebeurt. Chiunque conosca le regole lo vede subito.
+- En "word je moe" of "wordt je moe"? Ik zie het zo vaak fout.
+  it: E "word je moe" o "wordt je moe"? Lo vedo sbagliato così spesso.
+- Word je moe, zonder t, want je staat direct na het werkwoord. Maar wordt je broer moe? houdt de t, omdat je broer het onderwerp is.
+  it: Word je moe, senza t, perché je sta subito dopo il verbo. Ma wordt je broer moe? conserva la t, perché il soggetto è je broer.
+- Dank u, meneer. Het bord is klaar, ik hang het nu op.
+  it: Grazie, signore. L'insegna è pronta, la appendo adesso.
+- Mooi. Hang het boven de deur, dan zien de mensen meteen wat ze kunnen verwachten.
+  it: Bene. Appendila sopra la porta, così la gente vede subito che cosa può aspettarsi.
+- Dat doe ik al. Kijk maar naar buiten, meneer. Boven uw eigen winkel hangt het nu: Pannekoeken, zonder n.
+  it: Lo sto già facendo. Guardi pure fuori, signore. Sopra il suo negozio ora c'è scritto: Pannekoeken, senza n.
+
+notes.it:
+1. Briefje e kladje (frase 2, 6): il briefje è il biglietto scritto a mano; un kladje è la minuta, la brutta copia; esempio: Dit is maar een kladje, "questa è solo una minuta".
+2. Pannekoek e pannenkoek (frase 4): nell'ortografia di oggi la parola si scrive pannenkoek, con la n in mezzo; la n c'è perché il primo elemento è pannen, plurale di pan.
+3. Tussen-n (frase 4, 12): la n che si trova fra due parole composte, come in boekenkast, "libreria", da boeken, "libri", e kast, "armadio"; non tutti i composti la hanno, e quindi bisogna guardare la parola.
+4. Betweter (titolo): una persona che "weet het altijd beter", "sa sempre tutto meglio"; il termine viene da weten, "sapere", e il senso è ironico.
+5. Verbeteren (frase 9): vuol dire "correggere, migliorare"; esempio: Hij verbetert altijd de spelling van zijn collega's, "corregge sempre l'ortografia dei colleghi".
+6. Smaak (frase 10): qui il senso è "gusto personale", contrapposto all'ortografia, che è una regola; la battuta è che il betweter applica le regole agli altri, ma non a se stesso.
+7. Zonneschijn (frase 12): la parola si scrive senza n perché zon è al singolare: c'è un solo sole, e il composto non ha un plurale da cui venire; esempio: De zonneschijn is vandaag heel fel, "il sole è molto forte oggi".
+8. Gebeurd e gebeurt (frase 14): gebeurt è il presente di gebeuren, "succedere" (het gebeurt, "succede"), gebeurd è il participio passato: nel perfetto si usa sempre gebeurd, come in Het is gebeurd, "è successo".
+9. Ik word, hij wordt (frase 16): sono le forme del presente di worden, "diventare"; la t dipende dalla persona, e con je davanti al verbo si decide tutto.
+10. Word je e wordt je broer (frase 16): dopo il verbo il pronome je perde la t, come in word je moe?; se il soggetto è un nome, come je broer, la t resta: wordt je broer moe?
+11. Boven uw eigen winkel (frase 19): la battuta finale è che l'errore che il betweter ha voluto sta proprio sulla sua porta, dove tutti lo leggono, e la sua regola sulla n non vale per il proprio cartello.
+
+ex1:
+- Hij weet het altijd beter, en dat vinden de mensen vervelend.
+  it: Lui sa sempre tutto meglio, e la gente lo trova noioso.
+- Mijn zus heeft in haar kamer een boekenkast die bijna omvalt.
+  it: In camera sua mia sorella ha una libreria che quasi cade.
+- Het is gisteren gebeurd, en niemand weet waarom.
+  it: È successo ieri, e nessuno sa perché.
+- Wordt je broer ook zo moe van zijn werk?
+  it: Anche tuo fratello si stanca così tanto del suo lavoro?
+- Er is maar één zon aan de hemel.
+  it: C'è un solo sole in cielo.
+
+ex2:
+- Ik [word] moe van al die regels.
+  it: Mi stanco di tutte quelle regole.
+- Dat is nog nooit [gebeurd] in onze straat.
+  it: Non è mai successa una cosa del genere nella nostra strada.
+- Mijn [oom] heeft een grote tuin.
+  it: Mio zio ha un grande giardino.
+- Hij [weet] het altijd beter.
+  it: Lui sa sempre meglio.
+- Ik heb een [kladje] gemaakt.
+  it: Ho fatto una minuta.
+
+== 59 C1
+numeral: Negenenvijftigste les
+title: Erasmus
+title.it: Erasmo
+
+dialogue:
+- Desiderius Erasmus, bekend als Erasmus van Rotterdam, werd in de jaren zestig van de vijftiende eeuw geboren.
+  it: Desiderius Erasmus, noto come Erasmo da Rotterdam, nacque negli anni sessanta del Quattrocento.
+- Hij schreef in het Latijn: dat was immers de taal die de geleerden in heel Europa gemeenschappelijk hadden.
+  it: Scrisse in latino: era infatti la lingua che i dotti di tutta Europa avevano in comune.
+- Hij was priester, maar hij woonde zelden lang op één plek.
+  it: Era sacerdote, ma raramente restava a lungo nello stesso posto.
+- Hij reisde van Parijs naar Leuven, van Cambridge naar Bazel, en overal schreef hij brieven aan vrienden.
+  it: Viaggiò da Parigi a Lovanio, da Cambridge a Basilea, e ovunque scrisse lettere agli amici.
+- Die brieven zijn in grote aantallen bewaard; dus weten we veel over zijn reizen.
+  it: Quelle lettere si sono conservate in gran numero, e quindi sappiamo molto dei suoi viaggi.
+- In 1509 schreef hij, te gast bij zijn vriend Thomas More in Engeland, het boek Lof der zotheid.
+  it: Nel 1509, ospite dell'amico Thomas More in Inghilterra, scrisse il libro Elogio della follia.
+- De Latijnse titel Moriae encomium speelt met de naam More, want moriae betekent "van de dwaasheid".
+  it: Il titolo latino Moriae encomium gioca con il nome More, perché moriae vuol dire "della follia".
+- Het boek werd in 1511 gedrukt en daarna in heel Europa gelezen.
+  it: Il libro fu stampato nel 1511 e poi letto in tutta Europa.
+- Het bespot geleerden, monniken en vorsten, en het doet dat met veel humor.
+  it: Prende in giro dotti, monaci e principi, e lo fa con molta ironia.
+- Hij was een scherp criticus van de kerk; bovendien hield hij van het Grieks.
+  it: Era un critico severo della Chiesa; inoltre amava il greco.
+- Hij kende het Grieks goed; derhalve kon hij de tekst van het Nieuwe Testament zelf vergelijken.
+  it: Conosceva bene il greco; perciò poteva confrontare da sé il testo del Nuovo Testamento.
+- In 1516 gaf hij het Griekse Nieuwe Testament uit, met een nieuwe Latijnse vertaling ernaast.
+  it: Nel 1516 pubblicò il Nuovo Testamento in greco, con una nuova traduzione latina accanto.
+- Hij bleef katholiek; zijn kritiek was echter niet altijd welkom.
+  it: Restò cattolico; la sua critica, però, non era sempre gradita.
+- Daarentegen waren veel geleerden en vorsten blij met zijn werk.
+  it: Al contrario, molti dotti e principi erano lieti del suo lavoro.
+- Hij verhuisde naar Bazel, waar hij in 1536 overleed.
+  it: Si trasferì a Basilea, dove morì nel 1536.
+- Vandaag draagt een universiteit in Rotterdam zijn naam, namelijk de Erasmus Universiteit.
+  it: Oggi a Rotterdam un'università porta il suo nome, cioè l'Università Erasmus.
+- Er is ook een brug naar hem vernoemd, en een Europees uitwisselingsprogramma voor studenten heet naar hem.
+  it: Anche un ponte porta il suo nome, e un programma europeo di scambi per studenti si chiama come lui.
+- In het boek krijgt de Zotheid het laatste woord, en ook Erasmus had een beetje zotheid nodig.
+  it: Nel libro è la Follia ad avere l'ultima parola, e anche Erasmo aveva bisogno di un po' di follia.
+
+notes.it:
+1. Immers (frase 2): vuol dire "come si sa, infatti" e ricorda qualcosa che chi legge conosce già; dat was immers de taal, "era infatti la lingua".
+2. Leuven e Bazel (frase 4): in olandese sono i nomi di Lovanio, in Belgio, e di Basilea, in Svizzera; in italiano si usano Lovanio e Basilea.
+3. Zotheid (frase 6): da zot, "matto, sciocco", con -heid che fa un nome astratto; il titolo in italiano è Elogio della follia.
+4. Moriae encomium (frase 7): è il titolo latino; moriae è il genitivo di moria, "follia", parola greca, e il gioco sta nel suono del nome More.
+5. Dus (frase 5): vuol dire "quindi", e introduce una conseguenza; esempio: Het regent, dus nemen we een paraplu, "piove, quindi prendiamo un ombrello".
+6. Bovendien (frase 10): vuol dire "inoltre, in più"; aggiunge un argomento nuovo; esempio: Het is laat en bovendien regent het, "è tardi e inoltre piove".
+7. Derhalve (frase 11): vuol dire "perciò, pertanto" ed è tipico dello scritto; esempio: Hij heeft de regels gevolgd en is derhalve geslaagd, "ha seguito le regole e perciò è stato promosso".
+8. Echter (frase 13): vuol dire "tuttavia, però"; di solito viene dopo il verbo o dopo il soggetto, come in Het plan was echter niet goed, "il piano però non era buono".
+9. Daarentegen (frase 14): vuol dire "al contrario, invece" e oppone due cose; esempio: Hij is rustig, zij daarentegen is altijd druk, "lui è calmo, lei invece è sempre agitata".
+10. Uitgeven (frase 12): detto di un libro vuol dire "pubblicare"; esempio: Die uitgeverij geeft vooral romans uit, "quella casa editrice pubblica soprattutto romanzi".
+11. Namelijk (frase 16): vuol dire "cioè, vale a dire" e precisa quello che precede; di solito non apre la frase; esempio: Ik ben vrij, namelijk op dinsdag, "sono libero, cioè il martedì".
+12. Het laatste woord (frase 18): è l'espressione het laatste woord hebben, "avere l'ultima parola"; esempio: De baas heeft altijd het laatste woord, "il capo ha sempre l'ultima parola".
+
+ex1:
+- Hij woonde in Leuven, maar hij werkte vaak in Bazel.
+  it: Viveva a Lovanio, ma lavorava spesso a Basilea.
+- De reis was lang, en bovendien was het weer slecht.
+  it: Il viaggio era lungo e inoltre il tempo era brutto.
+- Het plan was goed; het budget was echter te klein.
+  it: Il piano era buono; il budget però era troppo piccolo.
+- Hij heeft het boek gelezen; derhalve kan hij erover praten.
+  it: Ha letto il libro; perciò può parlarne.
+- Het is laat, dus we gaan naar huis.
+  it: È tardi, quindi andiamo a casa.
+
+ex2:
+- Hij is rustig; [daarentegen] zij is altijd druk.
+  it: Lui è calmo; lei invece è sempre agitata.
+- De baas heeft altijd het [laatste] woord.
+  it: Il capo ha sempre l'ultima parola.
+- Dat boek is door een kleine uitgeverij [uitgegeven].
+  it: Quel libro è stato pubblicato da una piccola casa editrice.
+- Hij kent het Grieks en [bovendien] het Latijn.
+  it: Conosce il greco e inoltre il latino.
+- Ik ben vrij, [namelijk] op dinsdag.
+  it: Sono libero, cioè il martedì.
+
+== 60 C1
+numeral: Zestigste les
+title: Water
+title.it: Acqua
+
+dialogue:
+- Mijn vader wilde al jaren een bootvakantie met de hele familie maken, en dit jaar zou het eindelijk gebeuren.
+  it: Mio padre voleva da anni una vacanza in barca con tutta la famiglia, e quest'anno doveva finalmente succedere.
+- Hij had het plan helemaal uitgewerkt: twee weken varen, elke avond een andere haven en geen enkele file.
+  it: Aveva studiato il piano in ogni dettaglio: due settimane di navigazione, ogni sera un porto diverso e nessuna coda.
+- Mijn moeder las de route, keek hem aan en zei: "Je draagt water naar de zee, Peter. Mijn broer vaart daar al dertig jaar."
+  it: Mia madre lesse il percorso, lo guardò e disse: "Porti acqua al mare, Peter. Mio fratello ci naviga da trent'anni."
+- Oom Joost zei niets. Stille wateren hebben diepe gronden, en hij wist meer dan hij liet merken.
+  it: Lo zio Joost non disse niente. Le acque calme hanno fondali profondi, e sapeva più di quanto lasciasse vedere.
+- De boot was al gehuurd, en het water stond mijn vader tot de lippen.
+  it: La barca era già noleggiata, e mio padre aveva l'acqua alla gola.
+- Mijn moeder hield haar hoofd boven water met extra diensten in het ziekenhuis.
+  it: Mia madre teneva la testa a galla con turni extra in ospedale.
+- Toen kwam boven water dat mijn vader de boot nog niet had betaald.
+  it: Poi venne a galla che mio padre non aveva ancora pagato la barca.
+- Mijn zus en ik waren als twee druppels water, en we dachten precies hetzelfde.
+  it: Mia sorella e io eravamo come due gocce d'acqua, e pensavamo esattamente la stessa cosa.
+- Bij de kiosk aan de haven watertandden we allebei van het ijs in de vitrine.
+  it: Al chiosco del porto ci venne l'acquolina in bocca a tutti e due, davanti al gelato nella vetrina.
+- Mijn vader deed water bij de wijn en huurde een kleinere boot, met één slaapkamer minder.
+  it: Mio padre fece un compromesso e noleggiò una barca più piccola, con una cabina in meno.
+- Het eerste bezoek aan de haven was een slag in het water: de sluis was dicht.
+  it: La prima visita al porto fu un buco nell'acqua: la chiusa era sbarrata.
+- Mijn tante viel tussen wal en schip: ze wilde mee, maar moest werken.
+  it: Mia zia cadde tra due sedie: voleva venire, ma doveva lavorare.
+- "Voordat mijn vader het geld terugbetaalt," zei mijn moeder, "zal er nog heel wat water door de Rijn stromen."
+  it: "Prima che mio padre restituisca i soldi," disse mia madre, "ne passerà ancora di acqua sotto i ponti."
+- Ten slotte viel de vakantie in het water: het regende twee weken lang, en de boot bleef in de haven.
+  it: Alla fine la vacanza andò a monte: per due settimane piovve, e la barca rimase in porto.
+
+notes.it:
+1. De haven (frase 2): è il porto; esempio: De haven van Harlingen is klein, "il porto di Harlingen è piccolo".
+2. Water naar de zee dragen (frase 3): vuol dire "portare acqua al mare", cioè fare una cosa inutile, perché chi la riceve la sa già o la sa fare meglio; esempio: Hem uitleggen hoe je moet zwemmen is water naar de zee dragen, "spiegargli come si nuota è portare acqua al mare".
+3. Stille wateren hebben diepe gronden (frase 4): letteralmente "le acque calme hanno fondali profondi": chi parla poco può nascondere molto; esempio: Wees voorzichtig met hem, stille wateren hebben diepe gronden, "stai attento con lui: chi tace sa molto".
+4. Huren (frase 5): vuol dire "noleggiare, affittare"; esempio: We huren een fiets voor de dag, "noleggiamo una bici per la giornata".
+5. Het water staat hem tot de lippen (frase 5): letteralmente "l'acqua gli arriva alle labbra": essere con l'acqua alla gola, in gravi difficoltà; esempio: Na de verbouwing staat het water hem tot de lippen, "dopo i lavori è con l'acqua alla gola".
+6. Het hoofd boven water houden (frase 6): riuscire a restare a galla, a farcela con fatica; esempio: Ze houdt het hoofd boven water met twee banen, "ce la fa con due lavori".
+7. Boven water komen (frase 7): venire a galla, di un fatto che era nascosto; esempio: Het verhaal kwam pas jaren later boven water, "la storia venne a galla solo anni dopo".
+8. Als twee druppels water (frase 8): uguali come due gocce d'acqua; esempio: De tweeling lijkt als twee druppels water op elkaar, "i gemelli si assomigliano come due gocce d'acqua".
+9. Watertanden (frase 9): far venire l'acquolina in bocca, detto soprattutto del cibo; esempio: De geur van de pannenkoeken doet me watertanden, "l'odore delle crêpe mi fa venire l'acquolina in bocca".
+10. Water bij de wijn doen (frase 10; Fondamenti, lezione 95): fare un compromesso, abbassare le pretese; esempio: Hij deed water bij de wijn en nam de kleinere wagen, "ha fatto un compromesso e ha preso la macchina più piccola".
+11. Een slag in het water (frase 11): un buco nell'acqua, un tentativo fallito; esempio: De onderhandelingen waren een slag in het water, "la trattativa è stata un buco nell'acqua".
+12. Sluis (frase 11): è la chiusa, il bacino che regola il livello dell'acqua per far passare le barche; esempio: De sluis gaat om acht uur open, "la chiusa si apre alle otto".
+13. Tussen wal en schip vallen (frase 12): letteralmente "cadere tra la banchina e la nave": restare fra due sedie, esclusi da entrambe le parti; esempio: Wie tussen wal en schip valt, krijgt van beide kanten geen steun, "chi cade tra due sedie non riceve appoggio da nessuna delle due parti".
+14. Er zal nog heel wat water door de Rijn stromen (frase 13): ci vorrà ancora molto tempo, ne dovrà passare di acqua sotto i ponti; esempio: Er zal nog heel wat water door de Rijn stromen voordat we de uitslag weten, "ci vorrà ancora molto prima di conoscere il risultato".
+15. In het water vallen (frase 14): andare a monte, non avere luogo; esempio: Het feest is in het water gevallen door de regen, "la festa è andata a monte per la pioggia".
+16. Le espressioni di questa lezione, con il numero della frase e della nota:
+water naar de zee dragen (frase 3, nota 2)
+stille wateren hebben diepe gronden (frase 4, nota 3)
+het water staat hem tot de lippen (frase 5, nota 5)
+het hoofd boven water houden (frase 6, nota 6)
+boven water komen (frase 7, nota 7)
+als twee druppels water (frase 8, nota 8)
+watertanden (frase 9, nota 9)
+water bij de wijn doen (frase 10, nota 10)
+een slag in het water (frase 11, nota 11)
+tussen wal en schip vallen (frase 12, nota 13)
+er zal nog heel wat water door de Rijn stromen (frase 13, nota 14)
+in het water vallen (frase 14, nota 15)
+
+ex1:
+- Met die regen valt ons weekend zeker in het water.
+  it: Con questa pioggia il nostro weekend andrà sicuramente a monte.
+- Hij houdt zijn hoofd boven water, maar het is moeilijk.
+  it: Riesce a restare a galla, ma è difficile.
+- De twee zussen lijken als twee druppels water op elkaar.
+  it: Le due sorelle si assomigliano come due gocce d'acqua.
+- Dat plan was een slag in het water, en niemand was verbaasd.
+  it: Quel piano è stato un buco nell'acqua, e nessuno si è stupito.
+- Hij moet nog wat water bij de wijn doen, anders komt er geen deal.
+  it: Deve ancora fare un compromesso, altrimenti non si chiude l'accordo.
+
+ex2:
+- Haar plan is [gevallen] in het water.
+  it: Il suo piano è andato a monte.
+- Dat was een [slag] in het water.
+  it: Quello è stato un buco nell'acqua.
+- Na de verbouwing staat het water hem tot de [lippen].
+  it: Dopo i lavori è con l'acqua alla gola.
+- Het verhaal kwam pas later [boven] water.
+  it: La storia è venuta a galla solo più tardi.
+- Die tweeling lijkt als twee [druppels] water.
+  it: Quei gemelli si assomigliano come due gocce d'acqua.
+
+== 61 C1
+numeral: Eenenzestigste les
+title: De verhuizing
+title.it: Il trasloco
+
+dialogue:
+- Mevrouw, is dit de nieuwe flat in Den Bosch?
+  it: Signora, è questo il nuovo appartamento a Den Bosch?
+- Ik denk van wel. Het adres klopt, in elk geval.
+  it: Credo di sì. In ogni caso l'indirizzo è giusto.
+- Dan staan we op de derde verdieping. Hoe steil is die trap?
+  it: Allora siamo al terzo piano. Quanto è ripida la scala?
+- Niet te steil, denk ik. Ik heb de flat alleen op foto's gezien.
+  it: Non troppo, credo. Ho visto l'appartamento solo in foto.
+- Dat hoop ik. Want van beneden ziet hij er al steil uit.
+  it: Lo spero. Vista da sotto sembra già ripida.
+- Dan gaat de kast niet over de trap. Hij gaat door het raam.
+  it: Allora l'armadio non passa per le scale. Entra dalla finestra.
+- Door het raam? Dat dacht ik al, want de hijskraan staat er al.
+  it: Dalla finestra? Lo immaginavo, la gru è già lì fuori.
+- Past hij er wel door?
+  it: Ci passa, però?
+- Ik hoop het. Anders zagen we hem in tweeën, en dat wilt u vast niet.
+  it: Lo spero. Altrimenti lo segheremo in due, e questo lei non lo vuole di certo.
+- Dat wil ik niet. Dat hoop ik ook.
+  it: No, non lo voglio. Lo spero anch'io.
+- Doet u het raam dan open? Dan kan de kraan naar binnen.
+  it: Allora apra la finestra? Così la gru può entrare.
+- Dat doe ik al, maar het zit vast. Het is al jaren niet open geweest.
+  it: Lo sto già facendo, ma è bloccata. Non si apre da anni.
+- Ken jij Den Bosch, Bram? Dan weet je misschien hoe de straten lopen.
+  it: Conosci Den Bosch, Bram? Così forse sai come sono disposte le strade.
+- Ik denk van niet. Ik ben alleen in 's-Hertogenbosch geweest, en dat twee keer.
+  it: Credo di no. Sono stato solo a 's-Hertogenbosch, e per due volte.
+- Dat is dezelfde stad, meneer. Den Bosch is de gewone naam van 's-Hertogenbosch.
+  it: È la stessa città, signore. Den Bosch è il nome comune di 's-Hertogenbosch.
+- Ik dacht van niet.
+  it: Pensavo di no.
+
+notes.it:
+1. Den Bosch (frase 1, 15): è il nome comune della città, e 's-Hertogenbosch il nome ufficiale; in italiano non esiste una forma diversa, e si usa il nome olandese.
+2. Ik denk van wel (frase 2): "credo di sì"; van wel e van niet sostituiscono un'intera frase, come in Komt hij vanavond? Ik denk van wel, "viene stasera? Credo di sì".
+3. Steil (frase 3): vuol dire "ripido"; esempio: Die weg is erg steil, "questa strada è molto ripida".
+4. Dat hoop ik (frase 5): dat rinvia a tutta la frase precedente, e vuol dire "lo spero"; esempio: Het regent morgen. Dat hoop ik niet, "domani piove. Spero di no".
+5. Dat dacht ik al (frase 7): "lo pensavo già", ed è la risposta di chi aveva previsto qualcosa; esempio: Het is weer druk. Dat dacht ik al, "è di nuovo affollato. Lo immaginavo".
+6. De hijskraan (frase 7): è la gru, quella che solleva i mobili; esempio: De hijskraan tilt de auto over de muur, "la gru solleva l'auto sopra il muro".
+7. Ik hoop het (frase 9): qui het sostituisce una frase intera, come in Ik weet het niet, "non lo so"; con hopen si può dire sia dat hoop ik sia ik hoop het.
+8. Ook (frase 10): in Dat hoop ik ook, ook vuol dire "anch'io"; con niet diventa "neanche io", come in Ik ook niet.
+9. Dat doe ik al (frase 12): vuol dire "lo sto già facendo", e dat rinvia all'azione appena nominata; esempio: Wil jij de tafel dekken? Dat doe ik al, "vuoi apparecchiare la tavola? Lo sto già facendo".
+10. Vast zitten (frase 12): letteralmente "stare fermo": essere bloccato, incastrato; esempio: De deur zit vast, "la porta è bloccata".
+11. Van niet (frase 14): "credo di no", come van wel nella frase 2; il senso è sempre quello di una risposta che sostituisce la frase.
+12. Dacht (frase 16): è il passato di denken; Ik dacht van niet, "pensavo di no", è la battuta finale, perché Bram pensava che Den Bosch e 's-Hertogenbosch fossero due città diverse.
+
+ex1:
+- Verschijnt hij vanavond? Ik denk van wel.
+  it: Si presenta stasera? Credo di sì.
+- Regent het morgen? Dat hoop ik niet.
+  it: Domani piove? Spero di no.
+- Heeft zij de sleutel? Ik weet het niet, maar ik hoop het.
+  it: Ha lei la chiave? Non lo so, ma lo spero.
+- Ga jij mee naar de markt? Ik ook.
+  it: Vieni al mercato? Anch'io.
+- Is de kast al gebracht? Dat dacht ik al.
+  it: L'armadio è già stato portato? Lo immaginavo.
+
+ex2:
+- Komt hij vanavond? Ik denk van [wel].
+  it: Viene stasera? Credo di sì.
+- Dat wil ik niet. Dat [hoop] ik ook.
+  it: Non lo voglio. Lo spero anch'io.
+- Wil jij de tafel dekken? Dat doe ik [al].
+  it: Vuoi apparecchiare la tavola? Lo sto già facendo.
+- De trap is erg [steil].
+  it: La scala è molto ripida.
+- Het raam zit [vast].
+  it: La finestra è bloccata.
+
+== 62 C1
+numeral: Tweeënzestigste les
+title: De kat uit de boom
+title.it: Il gatto sull'albero
+
+dialogue:
+- Tijdens de teamvergadering vroeg de directeur wie het nieuwe leesprogramma wilde uitproberen, en iedereen keek naar het plafond.
+  it: Durante la riunione di team il preside chiese chi volesse provare il nuovo programma di lettura, e tutti guardarono il soffitto.
+- Wim wilde eerst de kat uit de boom kijken en zei dat hij er later nog wel naar zou kijken.
+  it: Wim preferì aspettare a vedere come andava, e disse che ci avrebbe pensato più avanti.
+- Lotte gaat altijd met de kippen op stok, en daarom vertrok ze om tien uur, halverwege de vergadering, zonder een woord.
+  it: Lotte va sempre a letto con le galline, e così alle dieci, a metà della riunione, se ne andò senza dire una parola.
+- Erik had vorig jaar een methode gekocht zonder hem vooraf te lezen: een kat in de zak kopen.
+  it: Erik l'anno prima aveva comprato un metodo senza leggerlo prima: comprare il gatto nel sacco.
+- Hij verdedigde zich: "Het was de enige methode die nog op de plank stond."
+  it: Si difese: "Era l'unico metodo rimasto sullo scaffale."
+- Marjolein liep rond als een kip zonder kop, met papieren onder haar arm en de sleutel van de kopieerruimte in haar hand.
+  it: Marjolein girava come una gallina senza testa, con i fogli sotto il braccio e la chiave della fotocopiatrice in mano.
+- De directeur wilde het programma meteen invoeren en de doelen niet eerst bespreken: dat is het paard achter de wagen spannen, zei Wim.
+  it: Il preside voleva introdurre subito il programma senza discutere prima gli obiettivi: "È mettere il carro davanti ai buoi", disse Wim.
+- Ik vond het voorstel goed en besloot het niet af te wijzen: een gegeven paard kijk je niet in de bek.
+  it: Trovavo buona la proposta e decisi di non rifiutarla: a cavallo donato non si guarda in bocca.
+- Maar ik stelde Erik zoveel vragen dat ik slapende honden wakker maakte.
+  it: Ma feci tante domande a Erik che svegliai il can che dorme.
+- Met één vraag sloeg ik twee vliegen in één klap: Erik antwoordde, en de hele vergadering luisterde.
+  it: Con una sola domanda presi due piccioni con una fava: Erik rispose, e tutta la riunione ascoltò.
+- Marjolein zuchtte: "Dat was al de tweede keer dat we die vraag stelden."
+  it: Marjolein sospirò: "Era già la seconda volta che facevamo quella domanda."
+- Wim vond me een vreemde eend in de bijt, want ik was de enige die iets wilde uitproberen.
+  it: Wim mi trovava un pesce fuor d'acqua, perché ero l'unica che voleva provare qualcosa.
+- Erik had maar één opmerking gemaakt, en Marjolein maakte er meteen een olifant van.
+  it: Erik aveva fatto un'unica osservazione, e Marjolein ne fece subito un elefante.
+- Achteraf zei Marjolein: "Zij is een vreemde eend in de bijt, en gelukkig maar."
+  it: Dopo, Marjolein disse: "Lei è un pesce fuor d'acqua, e meno male."
+
+notes.it:
+1. De kat uit de boom kijken (frase 2): vuol dire "aspettare a vedere come vanno le cose prima di decidere"; in italiano non c'è la stessa immagine: si dice stare a vedere o prendere tempo.
+2. Met de kippen op stok gaan (frase 3): vuol dire "andare a letto molto presto"; in italiano si dice andare a letto con le galline, e l'animale è lo stesso.
+3. Een kat in de zak kopen (frase 4): vuol dire "comprare senza sapere che cosa si compra"; in italiano si dice comprare il gatto nel sacco, con lo stesso gatto.
+4. Als een kip zonder kop (frase 6): vuol dire "agitarsi senza una direzione"; in italiano si dice girare come una gallina senza testa, con la stessa immagine.
+5. Het paard achter de wagen spannen (frase 7): vuol dire "mettere le cose nell'ordine sbagliato"; in italiano è mettere il carro davanti ai buoi, e qui l'animale è il bue, non il cavallo.
+6. Een gegeven paard niet in de bek kijken (frase 8): vuol dire "non criticare un regalo"; in italiano si dice a cavallo donato non si guarda in bocca, quasi la stessa frase.
+7. Slapende honden wakker maken (frase 9): vuol dire "risvegliare un problema che stava tranquillo"; in italiano si dice non svegliare il can che dorme, con lo stesso cane.
+8. Twee vliegen in één klap slaan (frase 10): vuol dire "ottenere due risultati con una sola azione"; in italiano si dice prendere due piccioni con una fava, e qui l'animale è il piccione.
+9. Een vreemde eend in de bijt (frase 12 e 14): vuol dire "chi è fuori posto e non si adatta al gruppo"; in italiano si dice un pesce fuor d'acqua, e cambia l'animale: qui è l'anatra, lì il pesce.
+10. Van een mug een olifant maken (frase 13): vuol dire "esagerare un problema piccolo"; in italiano si dice fare di una mosca un elefante, con l'insetto e il grosso animale.
+11. Il registro (frase 2 e 14): le battute sono scherzose e pungenti, ma non sono insulti; il tono resta amichevole anche quando la frase è tagliente.
+12. Gelukkig maar (frase 14): vuol dire "meno male, per fortuna"; esempio: Het regent, gelukkig maar, want de tuin had water nodig, "piove, meno male, perché il giardino aveva bisogno d'acqua".
+
+ex1:
+- Ik kijk de kat uit de boom voordat ik een nieuwe auto koop.
+  it: Aspetto a vedere come vanno le cose prima di comprare un'auto nuova.
+- Mijn oom gaat altijd met de kippen op stok.
+  it: Mio zio va sempre a letto con le galline.
+- Je moet een gegeven paard niet in de bek kijken.
+  it: A cavallo donato non si guarda in bocca.
+- Hij maakt van elk klein probleem meteen een olifant.
+  it: Fa di ogni piccolo problema subito un elefante.
+- Met één afspraak sloeg ik twee vliegen in één klap.
+  it: Con un solo appuntamento ho preso due piccioni con una fava.
+
+ex2:
+- Niemand wil de slapende honden [wakker] maken.
+  it: Nessuno vuole svegliare il can che dorme.
+- Ze is als een kip zonder [kop] in de keuken.
+  it: In cucina è come una gallina senza testa.
+- Het paard achter de [wagen] spannen.
+  it: Mettere il carro davanti ai buoi.
+- Hij kijkt altijd de kat uit de [boom].
+  it: Lui aspetta sempre a vedere come vanno le cose.
+- Wie moe is, gaat met de [kippen] op stok.
+  it: Chi è stanco va a letto con le galline.
+
+== 63 C1
+kind: revision
+numeral: Drieënzestigste les
+title: Herhaling
+title.it: Ripasso
+
+notes.it:
+Nona settimana del corso finita: dalla lezione 57 alla 62 hai letto un proverbio della nonna, un saputello, Erasmo, l'acqua, un trasloco e una riunione piena di modi di dire sugli animali.
+Qui non c'è niente da imparare a memoria: le tabelle mettono in ordine quello che hai letto nelle lezioni 57-62, e ogni esempio è una frase vera di quelle lezioni, con il numero della frase.
+Leggi le tabelle una volta, poi fai i dieci esercizi in fondo.
+1. Gli avverbi di collegamento (lezione 59): sono parole che legano due frasi o due idee, e non tutte possono aprire la frase.
+
+| Avverbio | Senso | Esempio della settimana | Può aprire la frase? |
+|---|---|---|---|
+| immers | come si sa, infatti | Hij schreef in het Latijn: dat was immers de taal die de geleerden in heel Europa gemeenschappelijk hadden (lezione 59, frase 2) | di solito no: va dopo il soggetto o il verbo |
+| echter | tuttavia, però | Hij bleef katholiek; zijn kritiek was echter niet altijd welkom (lezione 59, frase 13) | di solito no: va dopo il verbo |
+| bovendien | inoltre | Hij was een scherp criticus van de kerk; bovendien hield hij van het Grieks (lezione 59, frase 10) | sì |
+| daarentegen | al contrario, invece | Daarentegen waren veel geleerden en vorsten blij met zijn werk (lezione 59, frase 14) | sì |
+| derhalve | perciò, pertanto | Hij kende het Grieks goed; derhalve kon hij de tekst van het Nieuwe Testament zelf vergelijken (lezione 59, frase 11) | sì, ma è tipico dello scritto |
+| namelijk | cioè, vale a dire | Vandaag draagt een universiteit in Rotterdam zijn naam, namelijk de Erasmus Universiteit (lezione 59, frase 16) | di solito no |
+| dus | quindi | Die brieven zijn in grote aantallen bewaard; dus weten we veel over zijn reizen (lezione 59, frase 5) | sì |
+
+2. Ortografia: la n di mezzo e la d o la t dei verbi (lezione 58): la n di mezzo compare spesso quando il primo elemento è un plurale in -en, come in pannenkoek; nei verbi la t o la d dipende dalla persona e dal tempo.
+
+| Forma | Senso | Esempio della settimana | In italiano |
+|---|---|---|---|
+| pannenkoek | con la n in mezzo, perché pannen è il plurale di pan | U schreef "pannekoek", zonder n. Dat is fout: het moet pannenkoek zijn, met een n ertussen, want pannen is het meervoud van pan (lezione 58, frase 4) | Lei ha scritto "pannekoek", senza n. È sbagliato: deve essere pannenkoek, con la n in mezzo, perché pannen è il plurale di pan |
+| zonneschijn | senza n, perché c'è un solo sole | Zonder, want er is maar één zon. Het is zonneschijn, niet zonnenschijn (lezione 58, frase 12) | Senza, perché c'è un solo sole. Si scrive zonneschijn, non zonnenschijn |
+| gebeurd | participio passato, con la d | Gebeurd, met d. Het is gebeurd, niet gebeurt (lezione 58, frase 14) | Gebeurd, con la d. Het is gebeurd, non gebeurt |
+| word je | pronome dopo il verbo: senza t | Word je moe, zonder t, want je staat direct na het werkwoord (lezione 58, frase 16) | Word je moe, senza t, perché je sta subito dopo il verbo |
+| wordt je broer | soggetto un nome: la t resta | Maar wordt je broer moe? houdt de t, omdat je broer het onderwerp is (lezione 58, frase 16) | Ma wordt je broer moe? conserva la t, perché il soggetto è je broer |
+
+3. Ellissi e sostituzione (lezione 61): una risposta breve può sostituire un'intera frase, con van wel, van niet, het, dat, al e ook.
+
+| Forma | Senso | Esempio della settimana | In italiano |
+|---|---|---|---|
+| ik denk van wel | credo di sì | Ik denk van wel. Het adres klopt, in elk geval (lezione 61, frase 2) | Credo di sì. In ogni caso l'indirizzo è giusto |
+| ik denk van niet | credo di no | Ik denk van niet. Ik ben alleen in 's-Hertogenbosch geweest, en dat twee keer (lezione 61, frase 14) | Credo di no. Sono stato solo a 's-Hertogenbosch, e per due volte |
+| dat hoop ik | lo spero | Dat hoop ik. Want van beneden ziet hij er al steil uit (lezione 61, frase 5) | Lo spero. Vista da sotto sembra già ripida |
+| ik hoop het | lo spero, con het che sostituisce la frase | Ik hoop het. Anders zagen we hem in tweeën, en dat wilt u vast niet (lezione 61, frase 9) | Lo spero. Altrimenti lo segheremo in due, e questo lei non lo vuole di certo |
+| dat hoop ik ook | lo spero anch'io | Dat wil ik niet. Dat hoop ik ook (lezione 61, frase 10) | No, non lo voglio. Lo spero anch'io |
+| dat dacht ik al | lo pensavo già | Door het raam? Dat dacht ik al, want de hijskraan staat er al (lezione 61, frase 7) | Dalla finestra? Lo immaginavo, la gru è già lì fuori |
+| dat doe ik al | lo sto già facendo | Dat doe ik al, maar het zit vast (lezione 61, frase 12) | Lo sto già facendo, ma è bloccata |
+
+4. Proverbi e modi di dire con animali (lezioni 57 e 62): alcuni hanno un senso letterale che in italiano diventa un'immagine diversa, altri hanno la stessa immagine.
+
+| Espressione | Senso letterale e senso reale | Esempio della settimana | In italiano |
+|---|---|---|---|
+| wie niet waagt, wie niet wint | chi non osa non vince, proverbio | Wie niet waagt, wie niet wint (lezione 57, frase 6) | Chi non osa non vince |
+| beter een goede buur dan een verre vriend | meglio un vicino vicino che un amico lontano, proverbio | Beter een goede buur dan een verre vriend (lezione 57, frase 8) | Meglio un buon vicino che un amico lontano |
+| haastige spoed is zelden goed | la fretta raramente porta bene, proverbio | Haastige spoed is zelden goed (lezione 57, frase 14) | La fretta raramente porta bene |
+| de kat uit de boom kijken | aspettare a vedere come vanno le cose | Wim wilde eerst de kat uit de boom kijken (lezione 62, frase 2) | Wim preferì aspettare a vedere come andava |
+| met de kippen op stok gaan | andare a letto molto presto | Lotte gaat altijd met de kippen op stok (lezione 62, frase 3) | Lotte va sempre a letto con le galline |
+| een kat in de zak kopen | comprare senza sapere che cosa si compra | Erik had vorig jaar een methode gekocht zonder hem vooraf te lezen: een kat in de zak kopen (lezione 62, frase 4) | Erik l'anno prima aveva comprato un metodo senza leggerlo prima: comprare il gatto nel sacco |
+| van een mug een olifant maken | esagerare un problema piccolo | Marjolein maakte er meteen een olifant van (lezione 62, frase 13) | ne fece subito un elefante |
+
+5. La famiglia di water (lezione 60): quasi tutte le espressioni parlano di acqua, a galla o a fondo, e la più usata è il senso figurato.
+
+| Espressione | Senso | Esempio della settimana | In italiano |
+|---|---|---|---|
+| water naar de zee dragen | fare una cosa inutile | Je draagt water naar de zee, Peter (lezione 60, frase 3) | Porti acqua al mare, Peter |
+| stille wateren hebben diepe gronden | chi tace può sapere molto | Stille wateren hebben diepe gronden, en hij wist meer dan hij liet merken (lezione 60, frase 4) | Le acque calme hanno fondali profondi, e sapeva più di quanto lasciasse vedere |
+| het water staat hem tot de lippen | essere con l'acqua alla gola | De boot was al gehuurd, en het water stond mijn vader tot de lippen (lezione 60, frase 5) | La barca era già noleggiata, e mio padre aveva l'acqua alla gola |
+| het hoofd boven water houden | restare a galla | Mijn moeder hield haar hoofd boven water met extra diensten in het ziekenhuis (lezione 60, frase 6) | Mia madre teneva la testa a galla con turni extra in ospedale |
+| boven water komen | venire a galla | Toen kwam boven water dat mijn vader de boot nog niet had betaald (lezione 60, frase 7) | Poi venne a galla che mio padre non aveva ancora pagato la barca |
+| als twee druppels water | uguali come due gocce d'acqua | Mijn zus en ik waren als twee druppels water (lezione 60, frase 8) | Mia sorella e io eravamo come due gocce d'acqua |
+| watertanden | far venire l'acquolina in bocca | Bij de kiosk aan de haven watertandden we allebei van het ijs in de vitrine (lezione 60, frase 9) | Al chiosco del porto ci venne l'acquolina in bocca a tutti e due |
+| water bij de wijn doen | fare un compromesso | Mijn vader deed water bij de wijn en huurde een kleinere boot (lezione 60, frase 10) | Mio padre fece un compromesso e noleggiò una barca più piccola |
+| een slag in het water | un buco nell'acqua | Het eerste bezoek aan de haven was een slag in het water (lezione 60, frase 11) | La prima visita al porto fu un buco nell'acqua |
+| tussen wal en schip vallen | cadere tra due sedie | Mijn tante viel tussen wal en schip (lezione 60, frase 12) | Mia zia cadde tra due sedie |
+| er zal nog heel wat water door de Rijn stromen | ne dovrà passare di acqua sotto i ponti | Voordat mijn vader het geld terugbetaalt, zal er nog heel wat water door de Rijn stromen (lezione 60, frase 13) | Prima che mio padre restituisca i soldi, ne passerà ancora di acqua sotto i ponti |
+| in het water vallen | andare a monte | Ten slotte viel de vakantie in het water (lezione 60, frase 14) | Alla fine la vacanza andò a monte |
+
+Ora le dieci frasi: prima le cinque da tradurre, poi le cinque con i blanks.
+
+ex1:
+- Het weer is slecht; derhalve blijven we thuis.
+  it: Il tempo è brutto, perciò restiamo a casa.
+- Het huis is mooi, en bovendien is het goedkoop.
+  it: La casa è bella, e inoltre è economica.
+- Komt de trein op tijd? Dat hoop ik.
+  it: Il treno arriva in orario? Lo spero.
+- Hij is rustig; zijn zus daarentegen praat altijd.
+  it: Lui è calmo; sua sorella invece parla sempre.
+- Ik kom niet, ik ben namelijk ziek.
+  it: Non vengo, sono malato, in effetti.
+
+ex2:
+- Dat was niet mijn schuld; [bovendien] was het al laat.
+  it: Non era colpa mia, e inoltre era già tardi.
+- Een gegeven paard niet in de [bek] kijken.
+  it: A cavallo donato non si guarda in bocca.
+- Ze heeft het hoofd [boven] water gehouden.
+  it: È riuscita a restare a galla.
+- Dat was een vreemde [eend] in de bijt.
+  it: Era un pesce fuor d'acqua.
+- Hij maakt van een mug een [olifant].
+  it: Fa di una mosca un elefante.
+
+== 64 C1
+numeral: Vierenzestigste les
+title: Rotterdam
+title.it: Rotterdam
+
+dialogue:
+- Rotterdam ligt aan de Nieuwe Maas, en het is de tweede stad van het land, na Amsterdam.
+  it: Rotterdam si trova sulla Nieuwe Maas, ed è la seconda città del paese, dopo Amsterdam.
+- Terwijl Amsterdam bekend is om zijn grachten, is Rotterdam bekend om zijn haven.
+  it: Mentre Amsterdam è famosa per i suoi canali, Rotterdam lo è per il suo porto.
+- De haven is de grootste van Europa, en de schepen komen uit de hele wereld.
+  it: Il porto è il più grande d'Europa, e le navi arrivano da tutto il mondo.
+- Het oude centrum is daarentegen bijna verdwenen.
+  it: Il centro antico, invece, è quasi scomparso.
+- Op 14 mei 1940 bombardeerden Duitse vliegtuigen de stad, en een groot deel van het centrum werd verwoest.
+  it: Il 14 maggio 1940 aerei tedeschi bombardarono la città, e gran parte del centro fu distrutta.
+- Na de oorlog bouwde men de stad opnieuw, vooral met glas en beton.
+  it: Dopo la guerra la città fu ricostruita, soprattutto con vetro e calcestruzzo.
+- Rotterdam ziet er wel modern uit, maar er zijn nog oude hoeken, zoals Delfshaven.
+  it: Rotterdam sembra davvero moderna, ma ci sono ancora angoli antichi, come Delfshaven.
+- Delfshaven was vroeger een havendorp, en nu ligt het midden in de stad.
+  it: Delfshaven era un tempo un villaggio portuale, e ora si trova in mezzo alla città.
+- De Erasmusbrug, uit 1996, is wit en heeft één hoge pyloon, en de kabels lopen schuin van de pyloon naar het dek.
+  it: Il ponte Erasmus, del 1996, è bianco e ha un unico alto pilone, e i cavi scendono in diagonale dal pilone fino all'impalcato.
+- Vlakbij staan de kubuswoningen van Piet Blom: huizen die op een hoek zijn gezet, als grote dobbelstenen.
+  it: Lì vicino ci sono le case cubiche di Piet Blom: abitazioni messe su un angolo, come grandi dadi.
+- Wie ze voor het eerst ziet, denkt dat ze zijn omgevallen, maar ze staan er al jaren stevig.
+  it: Chi le vede per la prima volta pensa che siano cadute, ma stanno lì solide da anni.
+- De Markthal is een overdekte markt met woningen erboven, in de vorm van een hoefijzer.
+  it: La Markthal è un mercato coperto con abitazioni sopra, a forma di ferro di cavallo.
+- Mensen komen er om te eten, te winkelen of gewoon om rond te lopen.
+  it: Ci vengono per mangiare, fare spese o semplicemente per passeggiare.
+- In tegenstelling tot Amsterdam zijn er in Rotterdam weinig oude huizen, want de oorlog heeft er zoveel verwoest.
+  it: A differenza di Amsterdam, a Rotterdam ci sono poche case antiche, perché la guerra ne ha distrutte tante.
+- Feyenoord speelt in De Kuip, het stadion van de club uit Rotterdam.
+  it: Il Feyenoord gioca al De Kuip, lo stadio della squadra di Rotterdam.
+- De Rotterdammers zeggen zelf dat ze meer doen dan praten, en dat de Amsterdammers meer praten dan ze doen.
+  it: I rotterdamesi dicono di fare più che parlare, e che gli amsterdamesi parlano più di quanto fanno.
+- Daarom, zeggen ze, verkopen ze in Rotterdam zelfs overhemden met de mouwen al opgestroopt.
+  it: Per questo, dicono, a Rotterdam vendono perfino le camicie con le maniche già rimboccate.
+
+notes.it:
+1. Nieuwe Maas (frase 1): è un ramo del delta del Reno e della Mosa che attraversa la città; nieuw vuol dire "nuovo", e Maas è la Mosa. Il nome della città compare già in Fondamenti, lezione 37.
+2. Amsterdam e Rotterdam (frase 2): entrambi i nomi finiscono in -dam, "diga": Amsterdam sta su una diga dell'Amstel, Rotterdam su una diga della Rotte.
+3. Terwijl (frase 2): congiunzione che qui oppone due cose, "mentre, invece"; può anche indicare due azioni insieme, come in Terwijl hij kookt, lees ik de krant, "mentre lui cucina, io leggo il giornale".
+4. Daarentegen (frase 4): "al contrario, invece"; può stare subito dopo il verbo, come in Het oude centrum is daarentegen bijna verdwenen, e si riferisce alla frase precedente.
+5. Verwoest (frase 5): ver- è un prefisso inseparabile, quindi il participio è verwoest, senza ge-; esempio: De storm heeft het dak verwoest, "la tempesta ha distrutto il tetto".
+6. Wel ... maar (frase 7): wel concede qualcosa e maar introduce il limite; esempio: Het is wel duur, maar het is de moeite waard, "è vero che costa, ma ne vale la pena".
+7. Havendorp (frase 8): è un villaggio con un porto; dorp vuol dire "villaggio", haven "porto".
+8. Kubuswoningen (frase 10): kubus è "cubo", woning è "abitazione"; le case sono montate su un angolo, come dadi appoggiati su una punta.
+9. Markthal (frase 12): è un mercato coperto con abitazioni sopra; hal vuol dire "sala", e hoefijzer è "ferro di cavallo".
+10. In tegenstelling tot (frase 14): "a differenza di", con un nome dopo tot; esempio: In tegenstelling tot mijn broer hou ik van de regen, "a differenza di mio fratello, mi piace la pioggia".
+11. De Kuip (frase 15): è il nome dello stadio del Feyenoord; kuip vuol dire "tinozza".
+12. Rotterdammers, Amsterdammers (frase 16): i nomi degli abitanti finiscono in -er; in italiano si dice rotterdamesi e amsterdamesi, e la battuta vive della rivalità tra le due città.
+13. Opgestroopt (frase 17): de mouwen opstropen vuol dire "rimboccarsi le maniche"; opstropen è separabile, quindi il participio è opgestroopt, con ge- dopo op-.
+14. La battuta finale: rimboccarsi le maniche vuol dire anche "lavorare sodo", e la città lo prende alla lettera: le camicie sono già pronte al lavoro.
+
+ex1:
+- Mijn broer woont in Rotterdam, maar hij werkt in Amsterdam.
+  it: Mio fratello abita a Rotterdam, ma lavora ad Amsterdam.
+- Terwijl het regent, lezen we een boek bij het raam.
+  it: Mentre piove, leggiamo un libro vicino alla finestra.
+- Het huis is oud; de tuin is daarentegen nieuw.
+  it: La casa è vecchia; il giardino invece è nuovo.
+- In tegenstelling tot mijn zus ben ik altijd op tijd.
+  it: A differenza di mia sorella, sono sempre puntuale.
+- Het is wel koud, maar de zon komt er al door.
+  it: È vero che fa freddo, ma il sole sta già filtrando.
+
+ex2:
+- Hij is [wel] rijk, maar niet gelukkig.
+  it: È vero che è ricco, ma non è felice.
+- In [tegenstelling] tot zijn broer houdt hij van de zee.
+  it: A differenza di suo fratello, ama il mare.
+- De stad is klein; het dorp is [daarentegen] groot.
+  it: La città è piccola; il paese invece è grande.
+- [Terwijl] de kinderen spelen, drinken wij koffie.
+  it: Mentre i bambini giocano, noi beviamo un caffè.
+- De oude kerk is [verwoest], maar de toren staat nog.
+  it: La vecchia chiesa è stata distrutta, ma il campanile è ancora in piedi.
+
+== 65 C1
+numeral: Vijfenzestigste les
+title: Het spookt hier
+title.it: Qui c'è un fantasma
+
+dialogue:
+- Er was eens een oude boerderij aan de rand van het dorp, met een rieten dak en een koude gang.
+  it: C'era una volta una vecchia fattoria ai margini del paese, con il tetto di canne e un corridoio freddo.
+- Honderd jaar lang was het er stil, tot de familie Kuiper er kwam wonen.
+  it: Per cento anni tutto fu tranquillo, finché la famiglia Kuiper non vi si trasferì.
+- In de eerste nacht werd er drie keer geklopt, en daarna was het stil.
+  it: La prima notte si bussò tre volte, e poi tornò il silenzio.
+- "Het is de wind," zei meneer Kuiper, en hij ging weer naar bed.
+  it: "È il vento," disse il signor Kuiper, e tornò a letto.
+- De volgende nacht hoorden ze voetstappen op de zolder, en een deur ging langzaam open.
+  it: La notte dopo sentirono passi in soffitta, e una porta si aprì lentamente.
+- In de muur zuchtte de waterleiding, als iemand die te veel werk heeft.
+  it: Nel muro la tubatura sospirava, come qualcuno che ha troppo da fare.
+- Sanne, de dochter, vond vijf kaarsen die niemand had aangestoken.
+  it: Sanne, la figlia, trovò cinque candele che nessuno aveva acceso.
+- Er lagen er drie op de trap, en er lagen er twee in de gang.
+  it: Tre ne stavano sulle scale, e due nel corridoio.
+- Haar neef Thijs zwoer dat hij iemand had gezien bij het raam op de zolder.
+  it: Il cugino Thijs giurò di aver visto qualcuno alla finestra della soffitta.
+- "Het spookt hier, zeg ik je," zei hij, en niemand lachte.
+  it: "Qui c'è un fantasma, te lo dico io," disse, e nessuno rise.
+- De familie besloot het huis te verkopen, en de makelaar kwam langs om de kamers te bekijken.
+  it: La famiglia decise di vendere la casa, e l'agente immobiliare passò a vedere le stanze.
+- "Zijn er problemen met het huis?" vroeg hij. "Er wordt 's nachts geklopt," antwoordde mevrouw Kuiper eerlijk.
+  it: "Ci sono problemi con la casa?" chiese. "Di notte si bussa," rispose con franchezza la signora Kuiper.
+- De makelaar glimlachte en knikte. "Dat is geen probleem, mevrouw. Dat is een troef."
+  it: L'agente sorrise e annuì. "Non è un problema, signora. È un asso nella manica."
+- Hij schreef de advertentie en zette die op internet.
+  it: Scrisse l'annuncio e lo mise in rete.
+- In de advertentie stonden de prijs, de kamers en de ligging van het dorp.
+  it: Nell'annuncio c'erano il prezzo, le stanze e la posizione del paese.
+- Een week later was de prijs omhoog gegaan, en onderaan de advertentie stond nog altijd: spook inbegrepen.
+  it: Una settimana dopo il prezzo era salito, e in fondo all'annuncio c'era ancora scritto: fantasma incluso.
+
+notes.it:
+1. Er was eens (frase 1): è la formula delle fiabe, "c'era una volta"; er fa da soggetto apparente, e was è l'imperfetto di zijn.
+2. Rieten dak (frase 1): riet vuol dire "canna"; rieten è l'aggettivo, quindi il tetto è di canne, come nelle vecchie case di campagna.
+3. Er werd geklopt (frase 3): è il passivo senza soggetto: er fa da soggetto apparente e il verbo resta alla terza persona singolare, come in Er wordt hier niet gerookt, "qui non si fuma".
+4. Er lagen er drie (frase 8): il primo er apre la frase, come in er is (Fondamenti, lezione 10); il secondo er è il pronome che sostituisce le candele e vuol dire "ne"; esempio: Er zijn er veel, "ce ne sono molti".
+5. Het spookt hier (frase 10): con spoken il soggetto è het, non er; si dice Het spookt in dit huis, come Het regent, "piove".
+6. Zwoer (frase 9): zweren, "giurare", ha il passato zwoer; nella subordinata con dat il verbo va in fondo: dat hij iemand had gezien, "che aveva visto qualcuno".
+7. Zuchtte (frase 6): zuchten vuol dire "sospirare"; qui la tubatura sembra una persona, e in italiano il verbo resta lo stesso.
+8. Besloot het huis te verkopen (frase 11): besluiten te + infinito, "decidere di"; una casa in vendita, invece, staat te koop: Het huis staat te koop, "la casa è in vendita".
+9. Makelaar (frase 11): è l'agente immobiliare, e il mestiere di chi vende e affitta case; esempio: Een makelaar kent alle prijzen van de buurt, "un agente immobiliare conosce tutti i prezzi della zona".
+10. Een troef (frase 13): troef è la carta vincente; een troef zijn vuol dire "essere un vantaggio", come l'italiano asso nella manica.
+11. Inbegrepen (frase 16): vuol dire "incluso, compreso"; esempio: Het ontbijt is inbegrepen, "la colazione è inclusa".
+12. Omhoog gaan (frase 16): detto di un prezzo vuol dire "salire"; esempio: De huren gaan omhoog, "gli affitti salgono".
+13. Gli altri usi di er, già visti nel corso di base, sono riassunti in (Fondamenti, lezione 98, nota 4).
+
+ex1:
+- Er staat een oude fiets achter het huis.
+  it: Dietro la casa c'è una vecchia bici.
+- Er wordt 's avonds vaak gelezen in deze kamer.
+  it: In questa stanza di sera si legge spesso.
+- Het spookt in het oude bos, zeggen de mensen.
+  it: Dicono che nel vecchio bosco ci sia un fantasma.
+- Op de tafel lagen er twee brieven, en er lag er nog één op de vloer.
+  it: Sul tavolo c'erano due lettere, e ce n'era ancora una sul pavimento.
+- Er werd gisteren aan de deur gebeld.
+  it: Ieri si è suonato alla porta.
+
+ex2:
+- Er [was] eens een koning die niet kon slapen.
+  it: C'era una volta un re che non riusciva a dormire.
+- Er lagen er [drie] op de trap.
+  it: Tre ne stavano sulle scale.
+- Er wordt 's nachts [geklopt].
+  it: Di notte si bussa.
+- Het [spookt] in dit huis.
+  it: In questa casa c'è un fantasma.
+- De prijs is [omhoog] gegaan.
+  it: Il prezzo è salito.
+
+== 66 C1
+numeral: Zesenzestigste les
+title: De Nederlandse zomer
+title.it: L'estate olandese
+
+dialogue:
+- Eindelijk zon, buurman! Het is bijna zomer, zegt de weerman.
+  it: Finalmente il sole, vicino! Dice il meteorologo che l'estate è quasi arrivata.
+- Het is zomer, buurvrouw. Ik heb de barbecue net aangestoken, en nu begint het ook nog te regenen.
+  it: È estate, vicina. Ho appena acceso la griglia, e ora comincia anche a piovere.
+- Was het maar droog, dan konden we buiten eten.
+  it: Magari fosse asciutto, così potremmo mangiare fuori.
+- Een beetje regen is niet verkeerd, hoor. We eten gewoon binnen, met de deur open.
+  it: Un po' di pioggia non è male, eh. Mangiamo dentro, con la porta aperta.
+- Had ik maar een paraplu meegenomen. Dan stond ik nu niet zo nat in mijn tuin.
+  it: Avessi almeno preso un ombrello. Così adesso non sarei così bagnata in giardino.
+- Nu is de zon er weer, en lekker dan: mijn schouders zijn in één middag verbrand, terwijl ik alleen de krant las.
+  it: Adesso è tornato il sole, e bella roba: mi sono bruciato le spalle in un solo pomeriggio, mentre leggevo il giornale.
+- Als het nou eens een week zo bleef, dan kocht ik morgen een hoed.
+  it: Se per una volta restasse così per una settimana, domani mi comprerei un cappello.
+- Een week? Dat heet hier een hittegolf. Het KNMI noemt het zo als er minstens vijf dagen achter elkaar 25 graden of meer zijn in De Bilt, en daarvan minstens drie met 30 graden of meer.
+  it: Una settimana? Qui si chiama ondata di calore. Il KNMI la definisce così quando ci sono almeno cinque giorni di seguito a 25 gradi o più a De Bilt, di cui almeno tre a 30 gradi o più.
+- En dat weet je zomaar uit je hoofd?
+  it: E questo lo sai a memoria, così?
+- Ik heb het gisteren op de radio gehoord, tussen twee regenbuien door.
+  it: L'ho sentito ieri alla radio, tra due acquazzoni.
+- Zo, de radio weet het altijd beter.
+  it: Ma guarda, la radio ne sa sempre più di tutti.
+- Vandaag is het hele land naar zee, hoorde ik. Iedereen op dezelfde dag, en iedereen met dezelfde koelbox.
+  it: Oggi tutto il paese è andato al mare, ho sentito. Tutti lo stesso giorno, e tutti con la stessa borsa frigo.
+- Had ik maar een strandstoel gereserveerd, dan zat ik nu niet op een handdoek in het gras.
+  it: Avessi almeno prenotato una sdraio, adesso non sarei seduta su un asciugamano nell'erba.
+- Drie dagen van dertig graden, en ik smeek al om een beetje lekker fris weer.
+  it: Tre giorni a trenta gradi, e già supplico per un po' di fresco come si deve.
+
+notes.it:
+1. Eindelijk (frase 1): avverbio che esprime sollievo, "finalmente"; esempio: Eindelijk is het weekend, "finalmente è weekend".
+2. Niet verkeerd (frase 4): una negazione che attenua, "non è male"; dice che va bene, senza entusiasmo; è il tipico understatement del paese.
+3. Hoor (frase 4): particella che rende la frase familiare, come l'italiano "eh, sai"; esempio: Het is niet erg, hoor, "non è grave, sai".
+4. Was het maar droog (frase 3): il desiderio si fa con l'imperfetto in prima posizione e maar, "magari fosse asciutto"; esempio: Was ik maar rijk, "magari fossi ricco".
+5. Had ik maar (frase 5): "avessi almeno", con had in prima posizione e il participio alla fine: Had ik maar geweten dat het zou regenen, "avessi almeno saputo che avrebbe piovuto".
+6. Verbrand (frase 6): verbranden ha il prefisso inseparabile ver-, quindi il participio è verbrand, senza ge-; mijn schouders zijn verbrand descrive uno stato, con zijn.
+7. Lekker dan (frase 6): detto con ironia, lekker vuol dire "bravo, bella roba", il contrario del significato letterale; esempio: Lekker dan, je bent weer te laat, "bravo, sei di nuovo in ritardo".
+8. Terwijl (frase 6): "mentre", qui con un'azione che accompagna l'altra; esempio: Terwijl ik wacht, lees ik, "mentre aspetto, leggo".
+9. Als het nou eens (frase 7): "se per una volta"; nou dà alla frase il tono del desiderio; esempio: Als je nou eens stil bent, "se per una volta stessi zitto".
+10. Hittegolf (frase 8): "ondata di calore"; il KNMI è l'istituto meteorologico nazionale, e De Bilt è la stazione di riferimento vicino a Utrecht.
+11. Op de radio (frase 10): "alla radio"; tussen twee regenbuien door vuol dire "tra due acquazzoni", con door alla fine.
+12. Smeken om (frase 14): "supplicare, implorare" con om; esempio: Hij smeekt om een tweede kans, "implora una seconda occasione".
+13. Lekker fris (frase 14): detto del tempo, vuol dire "piacevolmente fresco"; esempio: Het is lekker fris buiten, "fuori è piacevolmente fresco".
+
+ex1:
+- Had ik maar een jas meegenomen.
+  it: Avessi almeno preso un giaccone.
+- Was het maar zomer, dan zaten we in de tuin.
+  it: Magari fosse estate, saremmo in giardino.
+- Als het nou eens een week droog bleef, dan gingen we naar het strand.
+  it: Se per una volta restasse asciutto per una settimana, andremmo al mare.
+- Lekker dan! Ik ben helemaal nat geworden.
+  it: Bravo, davvero! Mi sono bagnato fino alle ossa.
+- Het is niet verkeerd, hoor, dat we binnen eten.
+  it: Non è male, eh, che mangiamo dentro.
+
+ex2:
+- Was het maar [droog].
+  it: Magari fosse asciutto.
+- Had ik maar een [paraplu] meegenomen.
+  it: Avessi almeno preso un ombrello.
+- Het is niet [verkeerd], hoor.
+  it: Non è male, eh.
+- [Lekker] dan! Mijn schouders zijn verbrand.
+  it: Bravo, davvero! Mi sono bruciato le spalle.
+- Ik [verlang] naar lekker fris weer.
+  it: Desidero un po' di fresco come si deve.
+
+== 67 C1
+numeral: Zevenenzestigste les
+title: Van Gogh
+title.it: Van Gogh
+
+dialogue:
+- Vincent van Gogh werd in 1853 geboren in Zundert, een dorp in Brabant.
+  it: Vincent van Gogh nacque nel 1853 a Zundert, un paese del Brabante.
+- Zijn vader was predikant, een protestantse dominee.
+  it: Suo padre era pastore protestante.
+- Vincent werkte jaren bij een kunsthandelaar, in Den Haag, Londen en Parijs.
+  it: Per anni lavorò presso un mercante d'arte, all'Aia, a Londra e a Parigi.
+- Hij verkocht prenten en schilderijen, maar het werk werd hem steeds zwaarder.
+  it: Vendeva stampe e quadri, ma il lavoro gli pesava sempre di più.
+- Daarna ging hij als prediker naar de Borinage, een mijnstreek in België.
+  it: Poi andò come predicatore nel Borinage, una zona di miniere in Belgio.
+- Pas op zijn zevenentwintigste begon hij serieus te tekenen.
+  it: Solo a ventisette anni cominciò a disegnare sul serio.
+- In 1885 schilderde hij in Nuenen, in Brabant, De aardappeleters: een donker doek met boerenhanden rond een tafel met een lamp.
+  it: Nel 1885 a Nuenen, nel Brabante, dipinse I mangiatori di patate, un quadro scuro con mani di contadini intorno a un tavolo con una lampada.
+- Daarna trok hij naar Parijs, waar zijn broer Theo werkte en hem onderhield.
+  it: Poi andò a Parigi, dove il fratello Theo lavorava e lo manteneva.
+- In Parijs leerde hij de schilders van het impressionisme kennen, en zijn kleuren werden helderder.
+  it: A Parigi conobbe i pittori dell'impressionismo, e i suoi colori diventarono più chiari.
+- In 1888 vertrok hij naar Arles, in het zuiden van Frankrijk, en daar schilderde hij zonnebloemen, het gele huis en de slaapkamer.
+  it: Nel 1888 partì per Arles, nel sud della Francia, e lì dipinse girasoli, la casa gialla e la camera da letto.
+- Hij schreef honderden brieven, en de meeste schreef hij aan Theo.
+  it: Scrisse centinaia di lettere, e la maggior parte le scrisse a Theo.
+- In die brieven beschreef hij zijn schilderijen, zijn twijfels en zijn armoede.
+  it: In quelle lettere descriveva i suoi quadri, i suoi dubbi e la sua povertà.
+- In het Nederlands van zijn tijd schreef hij nog mensch en zoo, want zo spelde men toen.
+  it: Nell'olandese del suo tempo scriveva ancora mensch e zoo, perché allora si scriveva così.
+- In 1889 liet hij zich opnemen in een ziekenhuis bij Saint-Rémy, in Zuid-Frankrijk.
+  it: Nel 1889 si fece ricoverare in un ospedale vicino a Saint-Rémy, nel sud della Francia.
+- Hij verkocht in zijn leven bijna niets, en Theo betaalde de verf, het brood en de huur.
+  it: In vita vendette quasi nulla, e Theo pagava i colori, il pane e l'affitto.
+- In 1890 ging hij naar Auvers-sur-Oise, bij Parijs, en daar overleed hij in juli.
+  it: Nel 1890 andò ad Auvers-sur-Oise, vicino a Parigi, e lì morì a luglio.
+- Pas na zijn dood werd zijn werk beroemd, en nu hangen zijn schilderijen in musea over de hele wereld.
+  it: Solo dopo la sua morte il suo lavoro diventò famoso, e oggi i suoi quadri sono nei musei di tutto il mondo.
+- In Amsterdam is zijn werk te zien in het Van Gogh Museum, en op de Hoge Veluwe in het Kröller-Müller Museum.
+  it: Ad Amsterdam i suoi lavori si vedono al Van Gogh Museum, e sull'Hoge Veluwe al Kröller-Müller Museum.
+- Theo heeft de brieven bewaard, en daardoor weten wij nu hoe hij dacht.
+  it: Theo ha conservato le lettere, e così oggi sappiamo come pensava.
+
+notes.it:
+1. Vincent van Gogh (frase 1): il nome è Vincent, il cognome van Gogh, con van minuscolo anche in italiano; nato nel 1853 e morto nel 1890.
+2. Zundert (frase 1): è un paese del Brabante, la provincia del sud dei Paesi Bassi che in olandese si chiama Brabant.
+3. Predikant (frase 2): è il pastore protestante, la dominee; esempio: De predikant preekt elke zondag, "il pastore predica ogni domenica".
+4. Kunsthandelaar (frase 3): è il mercante d'arte, da handel, "commercio"; esempio: Hij is handelaar in tweedehands boeken, "è un commerciante di libri usati".
+5. Borinage (frase 5): è una regione di miniere nel sud del Belgio, di lingua francese; il nome in italiano resta Borinage.
+6. Pas, alleen, maar (frase 6, frase 17): pas, detto del tempo, vuol dire "solo, soltanto"; alleen vuol dire "solo, da solo" e riguarda persone e cose; maar, nel senso di "soltanto" con le quantità, come in Ik heb maar één broer, "ho solo un fratello"; esempio: Ik heb pas om vijf uur gegeten, "ho mangiato solo alle cinque".
+7. De aardappeleters (frase 7): aardappel vuol dire "patata", e eter è chi mangia; in italiano il titolo è I mangiatori di patate.
+8. Nuenen (frase 7): è un paese del Brabante dove Van Gogh visse e dipinse per qualche anno.
+9. Theo (frase 8): il fratello Theo era mercante d'arte a Parigi, e aiutava Vincent con il denaro; esempio: Hij betaalt de huur, "paga l'affitto".
+10. Impressionisme (frase 9): è il movimento dei pittori che cercano la luce e il colore del momento; in olandese la parola è la stessa dell'italiano.
+11. Mensch en zoo (frase 13): sono le forme vecchie di mens, "uomo", e zo, "così"; la riforma ortografica del dopoguerra le ha cambiate, e oggi si scrive mens e zo.
+12. Pas na zijn dood (frase 17): pas na zijn dood vuol dire "solo dopo la sua morte": il senso è di tempo, non di quantità.
+13. Van Gogh Museum (frase 18): è il museo di Amsterdam dedicato al pittore; il Kröller-Müller si trova sull'Hoge Veluwe, nel parco nazionale.
+14. Daardoor (frase 19): "per questo, grazie a questo", indica la causa: daardoor weten wij nu hoe hij dacht, "così oggi sappiamo come pensava".
+
+ex1:
+- Pas om tien uur kwam de trein aan.
+  it: Il treno arrivò solo alle dieci.
+- Ik ben alleen naar het museum gegaan, maar het was mooi.
+  it: Sono andato al museo da solo, ma era bello.
+- Hij woont nog steeds in dezelfde stad.
+  it: Abita ancora nella stessa città.
+- Heb je ooit een schilderij van Van Gogh gezien?
+  it: Hai mai visto un quadro di Van Gogh?
+- Ze heeft pas na het eten gebeld.
+  it: Ha chiamato solo dopo cena.
+
+ex2:
+- Hij begon [pas] op zijn dertigste met schilderen.
+  it: Cominciò a dipingere solo a trent'anni.
+- Hij woonde [alleen] in een klein huis.
+  it: Viveva da solo in una piccola casa.
+- Het schilderij hangt er [nog steeds].
+  it: Il quadro è ancora lì.
+- Hebt u [ooit] een brief van hem gelezen?
+  it: Ha mai letto una sua lettera?
+- Hij heeft het doek [verkocht].
+  it: Ha venduto il dipinto.
+
+== 68 C1
+numeral: Achtenzestigste les
+title: Het mondeling
+title.it: L'esame orale
+
+dialogue:
+- Goedemiddag, meneer. Gaat u zitten. Mijn eerste vraag is kort: hoe laat is het?
+  it: Buongiorno, signore. Si accomodi. La mia prima domanda è breve: che ore sono?
+- Dat is een goede vraag, en het antwoord hangt af van een paar dingen. Ten eerste heb ik geen horloge bij me.
+  it: È una buona domanda, e la risposta dipende da alcune cose. Prima di tutto non ho l'orologio con me.
+- Ga door.
+  it: Vada avanti.
+- Stel dat er in dit lokaal een klok hangt, dan kan ik de tijd aflezen. Gesteld dat die klok goed loopt, dan heb ik het juiste antwoord.
+  it: Supponiamo che in quest'aula ci sia un orologio: allora posso leggere l'ora. Ammesso che l'orologio vada bene, ho la risposta giusta.
+- Er hangt een klok, meneer. Die staat achter u.
+  it: C'è un orologio, signore. È alle sue spalle.
+- Aangenomen dat hij achter mij hangt, moet ik me omdraaien. In het geval dat ik me omdraai, verlies ik u uit het oog.
+  it: Ammesso che sia dietro di me, devo girarmi. Nel caso in cui mi giri, perdo di vista lei.
+- Draait u zich dan maar om, en zeg het.
+  it: Allora si giri pure, e lo dica.
+- Ik draai me om. Ervan uitgaande dat de klok niet stilstaat, zie ik kwart over elf.
+  it: Mi giro. Partendo dal presupposto che l'orologio non sia fermo, vedo le undici e un quarto.
+- En verder?
+  it: E poi?
+- Ten tweede is het licht buiten, dus het is overdag, en dat helpt niet veel.
+  it: In secondo luogo fuori c'è luce, quindi è giorno, ma questo non aiuta molto.
+- Ja, dat zie ik.
+  it: Sì, questo lo vedo.
+- Daarnaast ben ik er niet zeker van dat de klok de juiste tijd aangeeft, tenzij iemand hem onlangs heeft nagekeken. Al met al weet ik het dus niet zeker.
+  it: Inoltre non sono sicuro che l'orologio segni l'ora giusta, a meno che qualcuno non l'abbia controllato di recente. Tutto sommato, quindi, non ne sono certo.
+- Ik luister.
+  it: Ascolto.
+- Kortom: het is kwart over elf, tenzij de klok stilstaat, en dan weet ik het niet.
+  it: Insomma: sono le undici e un quarto, a meno che l'orologio non sia fermo, e in quel caso non lo so.
+- Prima. Maar ik vroeg alleen hoe laat het is.
+  it: Bene, bravo. Ma le ho chiesto soltanto che ore sono.
+
+notes.it:
+1. Het mondeling (titolo): è l'esame orale, in cui la prova si fa a voce; mondeling vuol dire "a voce, orale".
+2. Ten eerste (frase 2): è il modo di elencare, "in primo luogo"; lo stesso vale per ten tweede (frase 10) (lezione 26, nota 2).
+3. Stel dat (frase 4): vuol dire "supponiamo che"; il verbo della subordinata va in fondo, e la principale ricomincia con dan; esempio: Stel dat het regent, dan blijven we thuis, "supponiamo che piova, allora restiamo a casa" (lezione 28, nota 1).
+4. Gesteld dat (frase 4): stesso senso di stel dat, ma più formale; si trova spesso nei testi scritti e nei discorsi ufficiali.
+5. Aangenomen dat (frase 6): vuol dire "ammesso che", e presenta un'ipotesi come punto di partenza; il verbo va in fondo.
+6. In het geval dat (frase 6): vuol dire "nel caso in cui"; esempio: In het geval dat het regent, blijven we binnen, "nel caso piova, restiamo dentro".
+7. Ervan uitgaande dat (frase 8): vuol dire "partendo dal presupposto che"; dopo questa frase la principale riparte con il verbo: ..., zie ik kwart over elf.
+8. Kwart over elf (frase 8, 14): kwart over elf vuol dire "undici e un quarto", cioè 11.15; kwart voor elf sarebbe 10.45.
+9. Uit het oog verliezen (frase 6): vuol dire "perdere di vista"; esempio: Ik verlies mijn sleutels nooit uit het oog, "non perdo mai di vista le chiavi".
+10. Tenzij (frase 12, 14): vuol dire "a meno che", e il verbo va in fondo; è uno dei connettivi delle ipotesi, come nella lezione 28, nota 1.
+11. Er niet zeker van zijn dat (frase 12): vuol dire "non essere sicuri che"; er anticipa van, e la subordinata con dat viene dopo.
+12. Al met al (frase 12): vuol dire "tutto sommato, nel complesso" e chiude un ragionamento con un giudizio; esempio: Al met al was het een goede avond, "nel complesso è stata una bella serata".
+13. Prima (frase 15): detto con ironia, prima vuol dire "bene, bravo" e segnala che la risposta non basta; è la battuta finale.
+14. Ga door e Ik luister (frase 3, 13): sono le frasi con cui l'esaminatore invita a continuare, "vada avanti" e "ascolto".
+15. Alleen (frase 15): vuol dire "soltanto"; ik vroeg alleen hoe laat het is, "le ho chiesto soltanto che ore sono".
+
+ex1:
+- Stel dat het morgen regent, dan blijven we thuis.
+  it: Supponiamo che domani piova: allora restiamo a casa.
+- Ervan uitgaande dat de bus op tijd is, zijn we om negen uur in de stad.
+  it: Partendo dal presupposto che l'autobus sia puntuale, saremo in città alle nove.
+- Tenzij je haast hebt, lopen we even langs de markt.
+  it: A meno che tu non abbia fretta, passiamo un attimo dal mercato.
+- Ten eerste hebben we geen tijd, en ten tweede hebben we geen geld.
+  it: In primo luogo non abbiamo tempo, e in secondo luogo non abbiamo soldi.
+- Kortom: we gaan niet mee.
+  it: Insomma: non veniamo.
+
+ex2:
+- Stel dat je [morgen] vrij bent, dan gaan we zwemmen.
+  it: Supponiamo che tu sia libero domani: allora andiamo a nuotare.
+- In het [geval] dat je ziek bent, bel je me.
+  it: Nel caso in cui tu stia male, mi chiami.
+- Ik ben er niet zeker [van] dat de bus komt.
+  it: Non sono sicuro che arrivi l'autobus.
+- [Tenzij] je haast hebt, blijven we even.
+  it: A meno che tu non abbia fretta, restiamo un momento.
+- Ik verlies de sleutel niet uit het [oog].
+  it: Non perdo di vista le chiavi.
+
+== 69 C1
+numeral: Negenenzestigste les
+title: Beste lezer
+title.it: Caro lettore
+
+dialogue:
+- Beste lezer,
+  it: Caro lettore,
+- Als je dit leest, ben je bij de laatste lessen van deze cursus.
+  it: Se stai leggendo questo, sei arrivato alle ultime lezioni di questo corso.
+- Na deze brief komt er nog één les, en dat is een herhaling.
+  it: Dopo questa lettera resta ancora una lezione, ed è un ripasso.
+- Ik hoop dat je na die herhaling niet stopt, want de taal wordt pas echt van jou als je verder leest.
+  it: Spero che dopo quel ripasso tu non ti fermi, perché la lingua diventa davvero tua solo quando continui a leggere.
+- Ga nu naar echte teksten: een krant, zoals de NRC of de Volkskrant.
+  it: Passa ora a testi veri: un giornale, come il NRC o la Volkskrant.
+- Lees één artikel per dag, niet de hele krant; dat houdt de taal levend.
+  it: Leggi un articolo al giorno, non tutto il giornale: così la lingua resta viva.
+- Luister ook naar de radio, bijvoorbeeld naar het NOS-journaal of naar een podcast.
+  it: Ascolta anche la radio, per esempio il telegiornale della NOS o un podcast.
+- Kijk series, ook uit Vlaanderen, met Nederlandse ondertiteling, als die er is.
+  it: Guarda serie tv, anche quelle fiamminghe, con i sottotitoli in olandese, se ci sono.
+- Ik raad je aan om een goed woordenboek te gebruiken, en zoek een woord pas op als je de hele zin hebt gelezen.
+  it: Ti consiglio di usare un buon dizionario, e cerca una parola solo quando hai letto tutta la frase.
+- Lees af en toe een paar zinnen hardop, want anders blijft de uitspraak niet in je hoofd.
+  it: Leggi ogni tanto qualche frase ad alta voce, perché altrimenti la pronuncia non resta in testa.
+- De actieve golf van deze cursus gaat door, één les per dag, tot ook les zeventig is teruggehaald.
+  it: L'onda attiva di questo corso continua, una lezione al giorno, finché anche la lezione settanta non sarà tornata.
+- Wil je daarna verder, dan volgt het volgende deel: langere teksten, en aan het eind van elke les een opdracht waarin je zelf schrijft.
+  it: Se vuoi andare avanti, viene il corso successivo: testi più lunghi e, alla fine di ogni lezione, un compito in cui scrivi.
+- Niets hoeft perfect te zijn; het is genoeg om door te gaan, ook op de dagen dat het zwaar is.
+  it: Niente deve essere perfetto: basta andare avanti, anche nei giorni in cui è dura.
+- Als je een krantenkop begrijpt en een grap je laat lachen voordat je hem hebt vertaald, dan heeft deze cursus zijn werk gedaan.
+  it: Se capisci un titolo di giornale e una battuta ti fa ridere prima che tu l'abbia tradotta, il corso ha fatto il suo lavoro.
+- Ik wens je veel plezier met de krant, de series en de radio.
+  it: Ti auguro buon divertimento con il giornale, le serie e la radio.
+- Het ga je goed, ook als de grammatica tegenvalt.
+  it: Stammi bene, anche quando la grammatica ti delude.
+- Tot ziens, in de volgende les of op de fiets.
+  it: Arrivederci, alla prossima lezione o in bicicletta.
+- Met hartelijke groet, de schrijver van deze cursus.
+  it: Un caro saluto, l'autore di questo corso.
+
+notes.it:
+1. Beste lezer (frase 1): beste è l'aggettivo che apre una lettera, "caro", come in Beste vriend, "caro amico"; lezer vuol dire "lettore".
+2. Ik hoop dat (frase 4): hopen dat vuol dire "sperare che", e la subordinata porta il verbo in fondo: Ik hoop dat het mooi weer wordt, "spero che il tempo sia bello".
+3. Ik raad je aan om (frase 9): aanraden vuol dire "consigliare", e con om si usa l'infinito con te: Ik raad je aan om vroeg te komen, "ti consiglio di arrivare presto".
+4. Pas als (frase 9): pas, con als, vuol dire "solo quando", come nella lezione 67; esempio: Pas als je klaar bent, mag je weg, "solo quando hai finito puoi andare".
+5. Tegenvallen (frase 16): vuol dire "deludere, andare peggio del previsto"; esempio: Het weer viel tegen, "il tempo è stato una delusione".
+6. Ik wens je (frase 15): wensen vuol dire "augurare"; esempio: Ik wens je een fijne dag, "ti auguro una bella giornata".
+7. Het ga je goed (frase 16): è la formula d'addio già vista (lezione 31, nota 8).
+8. Met hartelijke groet (frase 18): è la chiusura cordiale di una lettera, "un caro saluto"; per una lettera formale si usa Met vriendelijke groet, "cordiali saluti".
+9. Tot ziens (frase 17): vuol dire "arrivederci", da zien, "vedere", e contiene la promessa di rivedersi.
+10. Op de fiets (frase 17): in olandese si dice op de fiets, "in bicicletta", non in de fiets; la lettera finisce con l'immagine più olandese che c'è.
+11. De NRC e de Volkskrant (frase 5): sono due quotidiani nazionali dei Paesi Bassi; de Volkskrant è il nome del giornale, con l'articolo.
+12. Het NOS-journaal (frase 7): è il telegiornale della radiotelevisione pubblica olandese; journaal è la parola usata per il telegiornale.
+
+ex1:
+- Ik kijk elke avond naar het journaal, om het Nederlands te horen.
+  it: Ogni sera guardo il telegiornale, per sentire l'olandese.
+- Wie zijn huiswerk niet maakt, leert weinig.
+  it: Chi non fa i compiti impara poco.
+- Ik hoop dat we elkaar ooit weer zien.
+  it: Spero che ci rivedremo un giorno.
+- Ze raadt me aan om het boek twee keer te lezen.
+  it: Mi consiglia di leggere il libro due volte.
+- Het valt tegen, maar het weer is ook niet slecht.
+  it: È una delusione, ma anche il tempo non è male.
+
+ex2:
+- Ik wens je [veel] plezier.
+  it: Ti auguro molto divertimento.
+- Ik raad je aan om vroeg [te] komen.
+  it: Ti consiglio di arrivare presto.
+- [Pas] als je klaar bent, mag je weg.
+  it: Solo quando hai finito puoi andare.
+- Ik [hoop] dat het goed met je gaat.
+  it: Spero che tu stia bene.
+- Tot [ziens].
+  it: A presto.
+
+== 70 C1
+kind: revision
+numeral: Zeventigste les
+title: Herhaling
+title.it: Ripasso
+
+notes.it:
+Ultima settimana del corso: dalla lezione 64 alla 69 hai letto Rotterdam, un fantasma in vendita, l'estate olandese, Van Gogh, un esame orale fatto di condizionali e una lettera di commiato.
+Qui non c'è niente da imparare a memoria: le tabelle mettono in ordine quello che hai letto, e ogni esempio è una frase vera di quelle lezioni, con il numero della frase.
+Leggi le tabelle una volta, poi fai i dieci esercizi in fondo.
+1. Condizioni e presupposti (lezioni 22, 28 e 68): sono i modi di dire "supponiamo che", "a meno che" e "nel caso in cui"; il verbo della subordinata va in fondo.
+
+| Forma | Senso | Esempio della settimana | In italiano |
+|---|---|---|---|
+| stel dat | supponiamo che | Stel dat er in dit lokaal een klok hangt, dan kan ik de tijd aflezen (lezione 68, frase 4) | Supponiamo che in quest'aula ci sia un orologio: allora posso leggere l'ora |
+| gesteld dat | ammesso che, più formale | Gesteld dat die klok goed loopt, dan heb ik het juiste antwoord (lezione 68, frase 4) | Ammesso che l'orologio vada bene, ho la risposta giusta |
+| mocht | se mai, qualora | Mocht u na een jaar nog vragen hebben over de vrijdagen, dan praten we erover (lezione 22, frase 21) | Se dovesse avere ancora domande, ne parleremo |
+| tenzij | a meno che | tenzij iemand hem onlangs heeft nagekeken (lezione 68, frase 12) | a meno che qualcuno non l'abbia controllato di recente |
+| mits | purché | Ik werk graag thuis, mits de verbinding goed is (lezione 22, frase 14) | Lavoro volentieri da casa, purché la connessione sia buona |
+| in het geval dat | nel caso in cui | In het geval dat ik me omdraai, verlies ik u uit het oog (lezione 68, frase 6) | Nel caso in cui mi giri, perdo di vista lei |
+
+2. Er in profondità (lezioni 10, 64 e 65): er fa cose diverse nella stessa frase, e spesso ce ne sono due.
+
+| Forma | Senso | Esempio della settimana | In italiano |
+|---|---|---|---|
+| er soggetto apparente | c'è, c'era | Er was eens een oude boerderij aan de rand van het dorp (lezione 65, frase 1) | C'era una volta una vecchia fattoria ai margini del paese |
+| er nel passivo senza soggetto | si fa qualcosa | In de eerste nacht werd er drie keer geklopt (lezione 65, frase 3) | La prima notte si bussò tre volte |
+| er più un numero | ne, di loro | Er lagen er drie op de trap (lezione 65, frase 8) | Tre ne stavano sulle scale |
+| er in una domanda | ci sono? | Zijn er problemen met het huis? (lezione 65, frase 12) | Ci sono problemi con la casa? |
+| het, non er, con i fenomeni | qui c'è un fantasma | Het spookt hier, zeg ik je (lezione 65, frase 10) | Qui c'è un fantasma, te lo dico io |
+
+3. Pas, alleen, maar (lezioni 64, 67 e 68): pas è il tempo, alleen è "da solo", maar è il contrasto.
+
+| Forma | Senso | Esempio della settimana | In italiano |
+|---|---|---|---|
+| pas | solo, soltanto (nel tempo) | Pas op zijn zevenentwintigste begon hij serieus te tekenen (lezione 67, frase 6) | Solo a ventisette anni cominciò a disegnare sul serio |
+| pas na | solo dopo | Pas na zijn dood werd zijn werk beroemd (lezione 67, frase 17) | Solo dopo la sua morte il suo lavoro diventò famoso |
+| alleen | solo, soltanto | Maar ik vroeg alleen hoe laat het is (lezione 68, frase 15) | Ma le ho chiesto soltanto che ore sono |
+| maar | ma | Rotterdam ziet er wel modern uit, maar er zijn nog oude hoeken (lezione 64, frase 7) | Rotterdam sembra davvero moderna, ma ci sono ancora angoli antichi |
+
+4. Connettivi di contrasto (lezioni 59 e 64): oppongono due cose, e alcuni possono aprire la frase, altri no.
+
+| Forma | Senso | Esempio della settimana | In italiano |
+|---|---|---|---|
+| terwijl | mentre, mentre invece | Terwijl Amsterdam bekend is om zijn grachten, is Rotterdam bekend om zijn haven (lezione 64, frase 2) | Mentre Amsterdam è famosa per i suoi canali, Rotterdam lo è per il suo porto |
+| daarentegen | invece, al contrario | Het oude centrum is daarentegen bijna verdwenen (lezione 64, frase 4) | Il centro antico, invece, è quasi scomparso |
+| in tegenstelling tot | a differenza di | In tegenstelling tot Amsterdam zijn er in Rotterdam weinig oude huizen (lezione 64, frase 14) | A differenza di Amsterdam, a Rotterdam ci sono poche case antiche |
+| echter | tuttavia, però | Hij bleef katholiek; zijn kritiek was echter niet altijd welkom (lezione 59, frase 13) | Restò cattolico; la sua critica, però, non era sempre gradita |
+
+5. La famiglia delle parole del corso: una riga per parola, con un'espressione presa dalle lezioni di parola.
+
+| Parola | Espressione | Senso | Dove |
+|---|---|---|---|
+| zitten | op zwart zaad zitten | essere al verde | lezione 1, nota 7 |
+| houden | zich houden aan | attenersi a | lezione 9, nota 9 |
+| lopen | het loopt goed af | finire bene | lezione 15, nota 9 |
+| zetten | een punt achter iets zetten | mettere la parola fine | lezione 25, nota 15 |
+| halen | de schouders ophalen | alzare le spalle | lezione 33, nota 9 |
+| hand | de handen uit de mouwen steken | rimboccarsi le maniche | lezione 40, nota 4 |
+| staan | op eigen benen staan | cavarsela da soli | lezione 45, nota 11 |
+| trekken | aan de bel trekken | dare l'allarme | lezione 53, nota 8 |
+| water | het water staat hem tot de lippen | essere con l'acqua alla gola | lezione 60, nota 5 |
+
+Questo è l'ultimo ripasso del corso: da qui in avanti il lavoro è tuo, e ogni giorno di lettura conta più di qualsiasi tabella.
+
+ex1:
+- Stel dat je morgen vrij bent, dan kunnen we samen eten.
+  it: Supponiamo che tu sia libero domani: allora possiamo mangiare insieme.
+- Mocht je hulp nodig hebben, dan bel je me maar.
+  it: Se mai avessi bisogno di aiuto, chiamami pure.
+- Er hangen er drie schilderijen in de gang.
+  it: Nel corridoio ce ne sono tre appesi.
+- Pas na het eten vertelde hij ons waarom hij gekomen was.
+  it: Solo dopo cena ci disse perché era venuto.
+- Ik ben er niet zeker van dat hij komt, tenzij hij ons belt.
+  it: Non sono sicuro che venga, a meno che non ci chiami.
+
+ex2:
+- [Mits] je op tijd komt, gaan we samen naar het concert.
+  it: Purché tu arrivi in tempo, andiamo insieme al concerto.
+- Terwijl hij zingt, [danst] zij.
+  it: Mentre lui canta, lei balla.
+- [Alleen] mijn vader weet het.
+  it: Solo mio padre lo sa.
+- Er [wordt] om tien uur gesloten.
+  it: Alle dieci si chiude.
+- Ik ben [er] niet zeker van dat hij komt.
+  it: Non sono sicuro che venga.

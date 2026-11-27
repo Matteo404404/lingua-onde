@@ -1796,3 +1796,619 @@ ex2:
   en: The town hall budget has been passed.
 - Al [parecer], la tienda cierra los lunes.
   en: Apparently the shop closes on Mondays.
+
+== 22 B2
+numeral: Lección veintidós
+title: Hablemos de condiciones
+title.en: Let's talk terms
+
+dialogue:
+- Buenos días, siéntese, por favor. Soy la señora Gil, la jefa de personal.
+  en: Good morning, please sit down. I am Mrs Gil, the head of personnel.
+- Buenos días. El puesto me interesa mucho, siempre que podamos hablar de algunas condiciones.
+  en: Good morning. I am very interested in the post, provided we can talk about a few conditions.
+- Por supuesto. Dígame cuáles son.
+  en: Of course. Tell me what they are.
+- La primera es el sueldo. Acepto el puesto siempre que el sueldo sea el de mi experiencia, y no el que pone en el anuncio.
+  en: The first is the salary. I will accept the post provided the salary matches my experience, not the one in the advert.
+- Es razonable. ¿Cuánto espera usted?
+  en: That is reasonable. How much do you expect?
+- Tres mil doscientos euros brutos al mes. Si no me lo suben, no firmo nada.
+  en: Three thousand two hundred euros gross a month. If they don't raise it to that, I won't sign anything.
+- Tres mil doscientos es mucho para este puesto. Lo estudiaré, con tal de que cumpla los objetivos del primer año.
+  en: Three thousand two hundred is a lot for this post. I will look into it, provided you meet the targets for the first year.
+- Los objetivos no son problema. Y las vacaciones: treinta días, no veintidós.
+  en: The targets are no problem. And holidays: thirty days, not twenty-two.
+- Treinta días, de acuerdo, siempre que no los coja todos en agosto.
+  en: Thirty days, agreed, as long as you do not take them all in August.
+- Entonces, de acuerdo. Y los viernes: me gustaría trabajar desde casa, a no ser que la empresa lo prohíba.
+  en: Agreed, then. And Fridays: I would like to work from home, unless the company forbids it.
+- Los viernes puede trabajar desde casa, salvo que haya reunión.
+  en: On Fridays you may work from home, unless there is a meeting.
+- Perfecto. Y una plaza de aparcamiento en el garaje, porque en el centro nunca encuentro sitio.
+  en: Perfect. And a parking space in the garage, because in the centre I never find a space.
+- Eso es más difícil, porque la plaza es para la dirección. Pero, en caso de que quede una libre, será suya.
+  en: That is harder, because the space is for management. But in the event that one is left free, it will be yours.
+- Muy bien. Si hubiera negociado así en mi anterior empresa, ahora tendría un sueldo mejor.
+  en: Very good. If I had negotiated like this at my last firm, I would be earning more now.
+- De haberlo sabido antes, le habría ofrecido esto desde el principio.
+  en: Had I known that before, I would have offered you all this from the start.
+- Pues ahora ya lo sabe. Como no me den una respuesta por escrito hoy, me voy.
+  en: Well, now you know. If I don't get a written answer today, I am leaving.
+- Por escrito, de acuerdo. Y le confieso una cosa: llevo dos años queriendo jubilarme, y nunca había encontrado a nadie que negociara así.
+  en: In writing, agreed. And I will confess something: I have been wanting to retire for two years, and I had never found anyone who negotiated like this.
+- ¿Y cuándo quiere que empiece?
+  en: And when do you want me to start?
+- Cuanto antes, mejor.
+  en: The sooner, the better.
+- Perfecto. ¿Y quién será mi jefe?
+  en: Perfect. And who will my boss be?
+- Nadie: empieza usted mañana, en mi puesto. Con lo que sabe negociar, yo me jubilo.
+  en: Nobody: you start tomorrow, in my post. With the way you negotiate, I'm retiring.
+
+notes.en:
+1. siempre que (sentence 2): provided that. The subjunctive follows it for a condition not yet met (podamos). With the indicative it means whenever, for a habit: Siempre que llueve, me duele la rodilla, "whenever it rains, my knee hurts". Example: Te ayudo siempre que tengas tiempo, "I'll help you provided you have time".
+2. el que pone (sentence 4): el que stands for a noun already named, here el sueldo, so the phrase means "the one that the advert gives". Example: Quiero el que está en el escaparate, "I want the one in the window".
+3. Si no me lo suben (sentence 6): suben has no subject, which is the usual way to say "they raise" without naming anyone. The pronouns me lo come before the verb, so it means "they raise it for me". Example: Si no me lo arreglan, lo cambio, "if they don't fix it for me, I'll change it".
+4. con tal de que (sentence 7): provided that, firmer than siempre que, and always with the subjunctive. It sets the terms of a deal. Example: Te acompaño con tal de que me dejes elegir la película, "I'll come with you as long as you let me choose the film".
+5. coja (sentence 9): coger in Spain means to take, as in coger las vacaciones, to take a holiday, and coja is its subjunctive after siempre que. In much of Latin America people avoid coger and say tomar. Example: Cogí dos días de vacaciones en mayo, "I took two days' holiday in May".
+6. a no ser que (sentence 10): unless, a fixed phrase that always takes the subjunctive. Example: Iremos en tren, a no ser que llueva, "we'll go by train, unless it rains".
+7. salvo que (sentence 11): unless, used for a rule with an exception: the thing is usual, except when the condition holds. Example: Abrimos todos los días, salvo que sea festivo, "we open every day, unless it is a public holiday".
+8. sitio (sentence 12): here sitio is a space or room, as in no hay sitio, "there is no room". The plaza de aparcamiento is the parking space, and aparcar is the verb to park. Example: No encuentro sitio para aparcar, "I can't find anywhere to park".
+9. en caso de que (sentence 13): in the event that, and the verb after it is in the subjunctive (quede). Quede comes from quedar, to be left over: queda una plaza, "there is one space left". Example: En caso de que haya problemas, llámame, "if there are any problems, call me".
+10. Si hubiera negociado (sentence 14): a mixed condition. Si with the pluperfect subjunctive gives the past that did not happen (Foundation, lesson 76), and the conditional tendría gives the result now. Example: Si hubiera estudiado derecho, ahora tendría más opciones, "if I had studied law, I would have more options now".
+11. De haberlo sabido (sentence 15): the same meaning as si lo hubiera sabido, "had I known". Here de plus the infinitive haber plus the participle replaces si, and lo means the fact. Example: De haberlo sabido, no habría venido, "had I known, I wouldn't have come".
+12. Como no me den (sentence 16): como plus the subjunctive gives a warning or a threat, and the result follows. Example: Como no vengas, me enfado, "if you don't come, I'll be cross" (to a friend). Compare como with the indicative, which gives a reason: Como llueve, no salimos, "as it's raining, we're not going out".
+13. llevo dos años queriendo jubilarme (sentence 17): llevar plus a period plus the gerund says that something has been going on for that long (Foundation, lesson 62: Llevo dos horas esperando). The pronoun joins the gerund, so queriendo jubilarme. Jubilarse is to retire from work. Example: Llevo tres meses estudiando inglés, "I have been studying English for three months".
+14. Cuanto antes, mejor (sentence 19): the sooner, the better. Spanish says it with cuanto antes, not with a word for "possible". Example: Lo necesito cuanto antes, "I need it as soon as possible".
+15. puesto (sentence 21): post or job, a position in a company. En mi puesto means "in my job", the one she holds. Example: Me han ofrecido un puesto en Sevilla, "I have been offered a post in Seville".
+
+ex1:
+- Te dejo el coche siempre que vuelvas antes de las diez.
+  en: I'll lend you the car provided you are back before ten. (to a friend)
+- Iré a la fiesta, a no ser que llueva.
+  en: I'll go to the party, unless it rains.
+- Como no me llames esta noche, me enfado.
+  en: If you don't call me tonight, I'll be cross. (to a friend)
+- De haberlo sabido, habría traído el paraguas.
+  en: Had I known, I would have brought the umbrella.
+- Si hubiera llegado antes, habríamos visto la película entera.
+  en: If I had arrived earlier, we would have seen the whole film.
+
+ex2:
+- Te presto la bici [siempre] que me la devuelvas el lunes.
+  en: I'll lend you the bike provided you give it back on Monday.
+- De [haberlo] sabido, no habría venido.
+  en: Had I known, I would not have come.
+- Lo haremos en [caso] de que haya tiempo.
+  en: We'll do it in case there is time.
+- Llevo tres meses [estudiando] inglés.
+  en: I have been studying English for three months.
+- Si hubiera [ahorrado] más, hoy tendría un coche nuevo.
+  en: If I had saved more, I would have a new car today.
+
+== 23 B2
+numeral: Lección veintitrés
+title: Goya
+title.en: Goya
+
+dialogue:
+- Francisco de Goya nació en Fuendetodos, en Aragón, en 1746.
+  en: Francisco de Goya was born in Fuendetodos, in Aragon, in 1746.
+- Al principio pintó cartones para la Real Fábrica de Tapices, con escenas de la vida popular: ferias, meriendas y juegos al aire libre.
+  en: At first he painted cartoons for the royal tapestry factory, with scenes of popular life: fairs, picnics and games outdoors.
+- Más tarde fue pintor de cámara del rey, y pintó a la familia de Carlos IV, obra que hoy se conserva en el Museo del Prado.
+  en: Later he became painter to the royal household, and he painted the family of Charles IV, a work that is preserved today in the Prado.
+- En el Prado están también las dos majas, una vestida y otra desnuda.
+  en: The Prado also has the two majas, one dressed and one naked.
+- Entre 1792 y 1793 una enfermedad lo dejó sordo.
+  en: Between 1792 and 1793 an illness left him deaf.
+- En 1799 publicó Los caprichos, una serie de estampas sobre la sociedad y sus vicios.
+  en: In 1799 he published Los caprichos, a series of prints about society and its vices.
+- Después grabó Los desastres de la guerra, sobre la guerra contra la invasión francesa, con imágenes muy duras.
+  en: Later he made Los desastres de la guerra, about the war against the French invasion, with very harsh images.
+- Los cuadros El dos de mayo y El tres de mayo de 1808 fueron pintados en 1814, varios años después de los hechos.
+  en: The paintings The Second of May and The Third of May 1808 were painted in 1814, several years after the events.
+- Luego se fue a vivir a una casa de las afueras de Madrid, la Quinta del Sordo, cuyas paredes estaban pintadas.
+  en: Afterwards he moved to a house on the outskirts of Madrid, the Quinta del Sordo, whose walls were painted.
+- Esas pinturas negras, hoy en el Prado, muestran a Saturno devorando a uno de sus hijos.
+  en: Those Black Paintings, now in the Prado, show Saturn devouring one of his sons.
+- Sus últimos años los pasó en Burdeos, en el exilio, y allí murió en 1828.
+  en: He spent his last years in Bordeaux, in exile, and died there in 1828.
+- Sus retratos se pintaron casi siempre al óleo sobre lienzo, con pinceladas sueltas que se ven de cerca.
+  en: His portraits were almost always painted in oil on canvas, with loose brushstrokes that show up close.
+- Un grabado se hace sobre una plancha de cobre, y después se imprime en papel con una prensa.
+  en: An engraving is made on a copper plate, and afterwards it is printed on paper with a press.
+- En muchas de sus escenas, el claroscuro separa las figuras de la oscuridad.
+  en: In many of his scenes, the chiaroscuro separates the figures from the darkness.
+- En muchos de sus cuadros el fondo tira a grisáceo, y las mejillas, a rojizo.
+  en: In many of his paintings the background tends to grey, and the cheeks to a reddish tone.
+- Hoy muchos críticos lo consideran un punto de partida del arte moderno.
+  en: Today many critics regard him as a starting point of modern art.
+- Vivió en una época de guerras y cambios políticos, y su obra refleja esa época.
+  en: He lived in a time of wars and political change, and his work reflects that time.
+- Su estampa más famosa lleva por título El sueño de la razón produce monstruos, y ese título se puede leer de dos maneras, porque sueño significa a la vez dormir y soñar.
+  en: His most famous print is titled The sleep of reason produces monsters, and the title can be read in two ways, because sueño means both sleep and dream.
+
+notes.en:
+1. cartones (sentence 2): a cartoon here is the full-size design for a tapestry, not cardboard. Example: El cartón tiene el mismo tamaño que el tapiz, "the cartoon is the same size as the tapestry".
+2. pintor de cámara (sentence 3): the painter of the royal household, who worked for the king. Cámara is the household of the king. Example: El pintor de cámara trabajaba para el rey, "the court painter worked for the king".
+3. lo dejó sordo (sentence 5): dejar plus an adjective means to leave someone in a state. Example: La lluvia nos dejó empapados, "the rain left us soaked".
+4. estampas (sentence 6): a print, the sheet that comes off an engraved plate. Example: Tengo una estampa antigua de la catedral, "I have an old print of the cathedral".
+5. fueron pintados (sentence 8): ser plus a participle shows the act of painting, with the date. Example: La puerta fue pintada ayer, "the door was painted yesterday".
+6. estaban pintadas (sentence 9): estar plus a participle shows the state that results, not the act. Example: La puerta está pintada de verde, "the door is painted green". Compare the note above: the same verb form with ser shows the action, and with estar the result.
+7. pasó (sentence 11): pasar plus a period means to spend it. Example: Pasamos el verano en la costa, "we spent the summer on the coast".
+8. óleo sobre lienzo (sentence 12): óleo is oil paint, lienzo is canvas, and the two make the usual phrase for an oil painting on canvas. Example: Es un óleo sobre lienzo, "it is an oil on canvas".
+9. pinceladas (sentence 12): a pincelada is one stroke of the brush, from pincel, the brush. Example: Dio una pincelada roja en la esquina, "he put a red stroke in the corner".
+10. plancha (sentence 13): a plate or a metal sheet. The word also means the iron for clothes, which is the usual sense in everyday speech. Example: Plancho la camisa antes de salir, "I iron my shirt before going out".
+11. claroscuro (sentence 14): from claro, light, and oscuro, dark. It is the contrast of light and shade in a picture, and English uses the same word, chiaroscuro. Example: Este cuadro tiene mucho claroscuro, "this painting has a lot of chiaroscuro".
+12. rojizo (sentence 15): colour adjectives in -izo, -áceo and -oso mean "tending to" the colour. Rojizo is reddish, grisáceo is greyish and verdoso is greenish. Example: Tiene el pelo rojizo, "she has reddish hair".
+13. punto de partida (sentence 16): a starting point, the place where something begins. Example: Esta idea es el punto de partida del proyecto, "this idea is the starting point of the project".
+14. sueño (sentence 18): one spelling with two senses. Sueño is sleep, the thing you do at night, and it is also a dream. Example: Tengo sueño, "I'm sleepy"; Tuve un sueño raro, "I had a strange dream".
+
+ex1:
+- Este cuadro fue pintado en 1900, según el catálogo.
+  en: This painting was painted in 1900, according to the catalogue.
+- La puerta está pintada de azul.
+  en: The door is painted blue.
+- Pasamos la tarde en el museo.
+  en: We spent the afternoon in the museum.
+- El grabado es una estampa muy antigua.
+  en: The engraving is a very old print.
+- Tiene la cara rojiza por el sol.
+  en: Her face is reddish from the sun.
+
+ex2:
+- Este [cartón] es el dibujo a tamaño real para el tapiz.
+  en: This cartoon is the full-size design for the tapestry.
+- La lluvia nos [dejó] empapados.
+  en: The rain left us soaked.
+- Tengo mucho [sueño] después de comer.
+  en: I'm very sleepy after lunch.
+- El cuadro está [pintado] sobre tela.
+  en: The painting is painted on fabric.
+- Dio una [pincelada] azul en el cielo.
+  en: He put a blue stroke on the sky.
+
+== 24 B2
+numeral: Lección veinticuatro
+title: Euskadi
+title.en: The Basque Country
+
+dialogue:
+- Euskadi, o País Vasco, está en el norte de España, junto al mar Cantábrico.
+  en: Euskadi, or the Basque Country, is in the north of Spain, on the Cantabrian Sea.
+- Tiene tres provincias: Álava, Vizcaya y Guipúzcoa.
+  en: It has three provinces: Álava, Vizcaya and Guipúzcoa.
+- En euskera se llaman Araba, Bizkaia y Gipuzkoa.
+  en: In Basque they are called Araba, Bizkaia and Gipuzkoa.
+- La capital administrativa es Vitoria-Gasteiz, donde tiene su sede el Gobierno vasco.
+  en: The administrative capital is Vitoria-Gasteiz, where the Basque government has its seat.
+- Bilbao, la ciudad en la que se levanta el Museo Guggenheim, es la más grande del País Vasco.
+  en: Bilbao, the city where the Guggenheim Museum stands, is the largest in the Basque Country.
+- El Guggenheim es obra del arquitecto Frank Gehry y se inauguró en 1997.
+  en: The Guggenheim is the work of the architect Frank Gehry and opened in 1997.
+- San Sebastián, en Guipúzcoa, tiene una bahía en forma de concha, que se llama La Concha.
+  en: San Sebastián, in Guipúzcoa, has a bay shaped like a shell, which is called La Concha.
+- En euskera se llama Donostia, y los dos nombres son oficiales.
+  en: In Basque it is called Donostia, and both names are official.
+- En Gernika, en Vizcaya, hay un roble bajo el cual se reunían las Juntas Generales.
+  en: In Gernika, in Vizcaya, there is an oak tree under which the General Assemblies used to meet.
+- Ese roble es el símbolo de las libertades vascas.
+  en: That oak is the symbol of Basque liberties.
+- El 26 de abril de 1937 la villa fue bombardeada por aviones alemanes e italianos.
+  en: On 26 April 1937 the town was bombed by German and Italian planes.
+- Picasso pintó el Guernica, un cuadro sobre aquel bombardeo, que hoy se conserva en el Museo Reina Sofía, en Madrid.
+  en: Picasso painted Guernica, a picture of that bombing, which is now in the Reina Sofía Museum in Madrid.
+- El euskera no tiene parentesco con ninguna otra lengua conocida, y también se habla en parte de Navarra y en el País Vasco francés.
+  en: Basque is not related to any other known language, and it is also spoken in part of Navarre and in the French Basque Country.
+- En euskera se saluda con kaixo, se despide con agur y se dan las gracias con eskerrik asko.
+  en: In Basque you greet with kaixo, say goodbye with agur, and thank someone with eskerrik asko.
+- El paisaje es verde: colinas de prados y bosques, y, al lado, el mar.
+  en: The landscape is green: hills of meadows and woods, and the sea beside them.
+- En la costa hay puertos de pesca, donde el pescado es muy popular.
+  en: On the coast there are fishing ports, where fish is very popular.
+- Para beber, el txakoli, un vino blanco ligero y un poco chispeante, con el que se acompaña el pescado.
+  en: To drink, there is txakoli, a light white wine with a little fizz, which goes with the fish.
+- Como plato, el bacalao al pil-pil, y de queso, el Idiazábal, un queso de oveja que a veces se ahuma.
+  en: As a main dish there is bacalao al pil-pil, and for cheese there is Idiazábal, a sheep's cheese that is sometimes smoked.
+- Y uno de los pinchos más conocidos de San Sebastián, la gilda, lleva el nombre de la película Gilda, protagonizada por Rita Hayworth, según se cuenta.
+  en: And one of the best-known pinchos of San Sebastián, the gilda, is named after the film Gilda, starring Rita Hayworth, so the story goes.
+
+notes.en:
+1. Euskadi (sentence 1): the Basque name of the region, which Spanish uses too. País Vasco is the Spanish name, and in English we say the Basque Country. Example: Viví un año en el País Vasco, "I lived in the Basque Country for a year".
+2. Araba, Bizkaia y Gipuzkoa (sentence 3): the Basque names, official in Euskadi. Bizkaia is the Basque form of Vizcaya, Gipuzkoa of Guipúzcoa, and Araba of Álava. Basque uses k, and tx for one sound: Bizkaia, Gipuzkoa and txakoli are spelled that way. Example: Vivimos en Gipuzkoa, "we live in Gipuzkoa", in Basque spelling.
+3. Vitoria-Gasteiz (sentence 4): an official double name, Spanish and Basque together. It is the seat of the Basque government, the place where the government has its offices. Example: La sede de la empresa está en Madrid, "the company's head office is in Madrid".
+4. en la que se levanta (sentence 5): a relative after a preposition. English leaves the preposition at the end (the city where the museum stands), while Spanish puts it before the relative, with the article: en la que, con el que, bajo el cual. Example: La casa en la que nací está cerca del mar, "the house I was born in is near the sea".
+5. se inauguró (sentence 6): inaugurar means to open a building or a service officially. With se and the thing opened as the subject, the verb agrees with that thing. Example: La nueva biblioteca se inauguró la primavera pasada, "the new library opened last spring".
+6. en forma de concha (sentence 7): en forma de means in the shape of. Concha is a shell, and the bay takes its name from its shape. Example: Una mesa en forma de media luna, "a table in the shape of a half moon".
+7. Donostia (sentence 8): the Basque name of San Sebastián. Both names are official, and the Spanish text may use either, with the Basque name in Basque. Example: Donostia está en Guipúzcoa, "Donostia is in Guipúzcoa".
+8. bajo el cual se reunían (sentence 9): the relative after bajo, which English puts as "under which". Se reunían is the imperfect, because the assemblies met there as a habit. Example: El árbol bajo el cual nos sentábamos ha desaparecido, "the tree we used to sit under has gone".
+9. fue bombardeada (sentence 11): ser plus a participle for the event of the bombing, with a date. Example: El puente fue reparado el año pasado, "the bridge was repaired last year".
+10. el Guernica (sentence 12): the painting keeps its Spanish title, Guernica, while the town is called Gernika in Basque. Example: Vimos el Guernica en el Reina Sofía, "we saw Guernica at the Reina Sofía".
+11. parentesco (sentence 13): kinship between languages, and no tiene parentesco means it is not related to any other. Example: El español y el italiano tienen parentesco, "Spanish and Italian are related".
+12. kaixo, agur, eskerrik asko (sentence 14): three Basque words quoted and named. In Basque, kaixo is hola, agur is adiós and eskerrik asko is gracias. Example: Kaixo, en Euskadi, es lo mismo que hola, "kaixo, in the Basque Country, is the same as hola".
+13. txakoli (sentence 17): a Basque white wine, spelled with tx for the sound of the ch in the Spanish chico. Example: Pedí un txakoli para acompañar el pescado, "I ordered a txakoli to go with the fish".
+14. al pil-pil (sentence 18): al plus a noun is a way of cooking, as in pollo al ajillo, chicken with garlic. The cod is cooked in oil and garlic, and the sauce is made by moving the pan. Example: Pollo al ajillo, "chicken with garlic".
+15. gilda (sentence 19): a pincho, a snack on a stick, in the Spanish word. In Basque it is a pintxo, with the tx spelling. The name is said to come from the film Gilda, and según se cuenta marks it as a story told, not a proven fact. Example: Tomamos una gilda con la caña, "we had a gilda with the beer".
+
+ex1:
+- La casa en la que nací está cerca del mar.
+  en: The house I was born in is near the sea.
+- El árbol bajo el cual nos sentamos es muy viejo.
+  en: The tree we sat under is very old.
+- Este es el amigo con el que fui a Bilbao.
+  en: This is the friend I went to Bilbao with.
+- El puente fue reparado el año pasado.
+  en: The bridge was repaired last year.
+- La nueva biblioteca se inauguró la primavera pasada.
+  en: The new library opened last spring.
+
+ex2:
+- La ciudad [en] la que vivo tiene muchos parques.
+  en: The city I live in has many parks.
+- El árbol [bajo] el cual jugábamos ha desaparecido.
+  en: The tree under which we used to play has disappeared.
+- El museo [se] inauguró en 2010.
+  en: The museum opened in 2010.
+- Pedimos un [txakoli] y unas gildas.
+  en: We ordered a txakoli and some gildas.
+- En euskera se [llama] Donostia.
+  en: In Basque it is called Donostia.
+
+== 25 B2
+numeral: Lección veinticinco
+title: Poner
+title.en: To put
+
+dialogue:
+- Mi hermano Javier cumple cuarenta años el sábado, y yo me encargo de la fiesta sorpresa.
+  en: My brother Javier turns forty on Saturday, and I am in charge of the surprise party.
+- Lo primero es poner la fecha, y poner los puntos sobre las íes: el sábado a las nueve de la mañana, con churros, en el bar de siempre.
+  en: The first thing is to set the date, and to spell things out: Saturday at nine in the morning, with churros, in the usual bar.
+- Mi madre pone el grito en el cielo, porque nadie le ha contado nada.
+  en: My mother is outraged, because nobody has told her anything.
+- Laura, mi cuñada, se pone nerviosa solo de pensar en la sorpresa.
+  en: Laura, my sister-in-law, gets nervous just thinking about the surprise.
+- Le digo: ponte las pilas, que la tarta hay que encargarla ya.
+  en: I tell her to get a move on, because the cake has to be ordered now.
+- Y Javier me pone de los nervios, porque siempre sospecha de todo.
+  en: And Javier gets on my nerves, because he always suspects everything.
+- Para que no sospeche, le pongo una excusa: tiene que ir al bar a recoger unos papeles.
+  en: So that he does not suspect, I give him an excuse: he has to go to the bar to collect some papers.
+- El dueño del bar pone pegas: el sábado tiene una boda.
+  en: The owner of the bar raises objections: he has a wedding on Saturday.
+- Al final pone de su parte: nos deja el local y la música.
+  en: In the end he does his bit: he lets us have the room and the music.
+- Yo pongo las cartas sobre la mesa: si no hay bar, no hay fiesta.
+  en: I put my cards on the table: if there is no bar, there is no party.
+- Él se pone a pensar y acepta, con una condición: nada de canciones de cumpleaños.
+  en: He starts thinking, and agrees, on one condition: no birthday songs.
+- Ayer me pusieron una multa por aparcar delante del bar, así que ahora voy andando.
+  en: Yesterday I was given a fine for parking in front of the bar, so now I walk everywhere.
+- Esta semana pongo en marcha el plan: lista de invitados, tarta y globos.
+  en: This week I set the plan in motion: guest list, cake and balloons.
+- La tarta me pone a prueba: nunca he encargado una con cuarenta velas.
+  en: The cake puts me to the test: I have never ordered one with forty candles.
+- Me pongo en el lugar de Javier: a los cuarenta, nadie quiere una fiesta, pero todos quieren un regalo.
+  en: I put myself in Javier's place: at forty, nobody wants a party, but everybody wants a present.
+- El viernes me pongo a escribir las invitaciones, y las meto en los buzones de los vecinos.
+  en: On Friday I start writing the invitations, and I put them in the neighbours' letterboxes.
+- Esa noche me pongo el pijama, pongo la tele y me quedo dormida en el sofá.
+  en: That night I put on my pyjamas, switch the telly on and fall asleep on the sofa.
+- El despertador lo pongo mañana, que hoy ya no me quedan fuerzas.
+  en: I'll set the alarm tomorrow, because I have no energy left today.
+- El sábado me despierto a las nueve y media, con el sol en la cara.
+  en: On Saturday I wake up at half past nine, with the sun in my face.
+- Laura me pone verde por teléfono, así que me pongo las pilas, y en cinco minutos ya estoy vestida.
+  en: Laura tears me apart on the phone, so I get a move on, and in five minutes I am dressed.
+- Mi hermano llegó a su fiesta sorpresa a las nueve en punto, y la única que llegó tarde fui yo, porque se me olvidó poner el despertador.
+  en: My brother arrived at his surprise party at nine o'clock sharp, and the only one who arrived late was me, because I forgot to set the alarm.
+
+notes.en:
+1. poner los puntos sobre las íes (sentence 2): literally to put the dots on the i's, that is to say exactly what one means, with nothing left vague. Example: Pongamos los puntos sobre las íes: ¿quién paga la tarta?, "let's be clear: who pays for the cake?".
+2. poner el grito en el cielo (sentence 3): literally to raise a cry to heaven, to be outraged or to make a fuss. Example: Cuando sube el precio del café, todos ponen el grito en el cielo, "when the price of coffee goes up, everybody makes a fuss".
+3. se pone nerviosa (sentence 4): ponerse with an adjective means to become or to get, a change in the person (Foundation, lesson 61). Example: Me pongo nerviosa cuando hablo en público, "I get nervous when I speak in public".
+4. ponte las pilas (sentence 5): literally to put new batteries in, so to get a move on or to wake up and act. The pronoun joins the affirmative command, ponte. Example: Ponte las pilas, que llegamos tarde, "get a move on, we're late" (to a friend).
+5. me pone de los nervios (sentence 6): poner de los nervios means to get on someone's nerves, and the person is the object of the verb. Example: Este ruido me pone de los nervios, "this noise gets on my nerves".
+6. poner pegas (sentence 8): pegas are objections or problems, and poner pegas means to raise them. Example: Siempre pones pegas a todo, "you always raise objections to everything" (to a friend).
+7. pone de su parte (sentence 9): poner de su parte means to do one's share or to help, literally to put something from one's side. Example: Si cada uno pone de su parte, terminamos hoy, "if everyone does their share, we'll finish today".
+8. poner las cartas sobre la mesa (sentence 10): literally to lay the cards on the table, so to be open and say what you mean. Example: Mejor pongamos las cartas sobre la mesa, "we'd better be open with each other".
+9. se pone a pensar (sentence 11): ponerse a plus an infinitive means to begin to do something. The reflexive pronoun stays with ponerse. Example: Me puse a estudiar a las cinco, "I started studying at five".
+10. una multa (sentence 12): poner una multa is to give a fine, said of the police or the authority. The fine is the object and the one fined is the indirect object. Example: Le pusieron una multa por aparcar en doble fila, "he was given a fine for double parking".
+11. pongo en marcha (sentence 13): poner en marcha means to set in motion, to start a project or a machine. Example: Vamos a poner en marcha un servicio nuevo, "we are going to launch a new service".
+12. pone a prueba (sentence 14): poner a prueba means to put to the test, to try someone's patience or ability. Example: El examen pone a prueba lo que sabes, "the exam tests what you know".
+13. Me pongo en el lugar de Javier (sentence 15): ponerse en el lugar de alguien means to put oneself in someone else's place. Example: Ponte en mi lugar, "put yourself in my place" (to a friend).
+14. las meto (sentence 16): meter means to put something inside a container or a slot, where poner puts something on or down. Example: Mete la llave en la cerradura, "put the key in the lock".
+15. me pongo el pijama (sentence 17): with clothes, poner becomes ponerse, to put on, and the reflexive pronoun goes with it. Example: Me pongo el abrigo, que hace frío, "I'm putting my coat on, it's cold".
+16. pongo la tele (sentence 17): with a machine or a light, poner means to switch on, not to put. Example: Pon la radio, por favor, "turn the radio on, please".
+17. El despertador lo pongo (sentence 18): with an alarm, poner means to set it. The alarm comes first as the topic, and lo repeats it before the verb. Example: Pon el despertador a las siete, "set the alarm for seven".
+18. pone verde (sentence 20): poner verde a alguien means to criticise someone harshly, literally to make them green. Example: Lo puso verde por llegar tarde, "he gave him a dressing-down for arriving late".
+19. Expressions of this lesson, with the sentence and the note:
+poner los puntos sobre las íes (sentence 2, note 1)
+poner el grito en el cielo (sentence 3, note 2)
+ponerse nervioso, nerviosa (sentence 4, note 3)
+ponerse las pilas (sentence 5, note 4)
+poner de los nervios (sentence 6, note 5)
+poner pegas (sentence 8, note 6)
+poner de su parte (sentence 9, note 7)
+poner las cartas sobre la mesa (sentence 10, note 8)
+ponerse a pensar (sentence 11, note 9)
+poner una multa (sentence 12, note 10)
+poner en marcha (sentence 13, note 11)
+poner a prueba (sentence 14, note 12)
+ponerse en el lugar de alguien (sentence 15, note 13)
+ponerse el pijama (sentence 17, note 15)
+poner verde a alguien (sentence 20, note 18)
+
+ex1:
+- Ponte el abrigo, que hace frío.
+  en: Put your coat on, it's cold. (to a friend)
+- Me pongo nerviosa cuando hablo en público.
+  en: I get nervous when I speak in public.
+- Pon la radio, por favor.
+  en: Turn the radio on, please. (to a friend)
+- Nos pusieron una multa por usar el móvil al volante.
+  en: They gave us a fine for using our phone while driving.
+- Vamos a poner en marcha un servicio nuevo.
+  en: We are going to launch a new service.
+
+ex2:
+- Siempre [pones] pegas a todo.
+  en: You always raise objections to everything. (to a friend)
+- Me [puse] a estudiar a las cinco.
+  en: I started studying at five.
+- Esta semana [pongo] en marcha el plan.
+  en: This week I am setting the plan in motion.
+- El examen [pone] a prueba tu paciencia.
+  en: The exam puts your patience to the test.
+- [Ponte] en mi lugar, por favor.
+  en: Put yourself in my place, please. (to a friend)
+
+== 26 B2
+numeral: Lección veintiséis
+title: Cómo comportarse en un bar español
+title.en: How to behave in a Spanish bar
+
+dialogue:
+- Bienvenido al bar español: lo primero es saber que aquí no se espera a nadie.
+  en: Welcome to the Spanish bar. The first thing to know is that here nobody waits for anybody.
+- Entras, te acercas a la barra y pides, aunque haya gente delante.
+  en: You walk in, go up to the bar and order, even if there are people in front of you.
+- Si hay sitio en la barra, nunca te sientes en una mesa, porque en la barra se está mucho mejor.
+  en: If there is room at the bar, never sit down at a table, because it is much better at the bar.
+- Llamas al camarero con un ¡Oiga! o con un ¡Perdona!, y nunca con la mano.
+  en: You call the waiter with a "Oiga" or a "Perdona", and never with your hand.
+- Pides una caña, que es una cerveza de barril en un vaso pequeño.
+  en: You order a caña, which is a draught beer in a small glass.
+- Comer de pie es lo normal, y sentarse, para los turistas.
+  en: Eating standing up is normal, and sitting down is for the tourists.
+- Hablas alto, lo bastante para que toda la barra se entere de tu opinión sobre el fútbol.
+  en: You speak loudly enough for the whole bar to hear your opinion on football.
+- El hablar bajo se considera cosa de extranjeros.
+  en: Speaking quietly is considered a foreign habit.
+- Si te toca pagar, discute la cuenta, que es un deporte nacional.
+  en: When it is your turn to pay, argue about the bill: it is a national sport.
+- Nunca te vayas antes de la penúltima.
+  en: Never leave before the penultimate round.
+- En la puerta pone No aparcar, y siempre hay una moto delante.
+  en: The sign on the door says No parking, and there is always a motorbike in front of it.
+- Si pone Empujar, empuja, aunque tengas las manos llenas de tapas.
+  en: If the door says Push, push, even if your hands are full of tapas.
+- Uno pide lo que quiere, y no lo que dice la carta.
+  en: One orders what one wants, not what the menu says.
+- La gente de la barra se conoce por la bebida: quien pide un tinto de verano ya es un habitual.
+  en: People at the bar are known by their drink: whoever orders a tinto de verano is already a regular.
+- Cuando el camarero anuncia la última ronda, pide otra.
+  en: When the waiter announces the last round, order another.
+- Y si nadie la pide, la pides tú, que siempre queda una más.
+  en: And if nobody orders it, you order it, because there is always one more.
+- Regla número uno: aquí no hay última, y la última ronda se llama la penúltima.
+  en: Rule number one: there is never a last round, and the last round is always called the penultimate.
+
+notes.en:
+1. aquí no se espera a nadie (sentence 1): se with the third person and no subject is the generic statement: it describes what is done here, by anyone. Example: Aquí se cena tarde, "here people have dinner late".
+2. Entras, te acercas y pides (sentence 2): the tú form used for anyone, as in "you" in English. Spanish manuals and advice use it all the time. Example: Entras en el pueblo y ves la plaza, "you come into the village and see the square".
+3. ¡Oiga! and ¡Perdona! (sentence 4): both are used to call a waiter. Oiga is the usted command of oír, and perdona is the tú form of perdonar. Example: ¡Oiga, por favor! "excuse me, please!" (to a waiter).
+4. caña (sentence 5): a small glass of draught beer, the usual order in many bars in Spain. Example: Dos cañas, por favor, "two small beers, please".
+5. comer de pie, sentarse (sentence 6): the infinitive can be the subject of a sentence, as a noun. English uses the -ing form for this, but Spanish never says comiendo here. Example: Fumar aquí está prohibido, "smoking is forbidden here".
+6. para que toda la barra se entere (sentence 7): para que always takes the subjunctive, because the result has not happened yet. Se entere is the reflexive enterarse, to find out. Example: Lo digo para que lo sepas, "I'm saying it so that you know".
+7. El hablar bajo (sentence 8): the article el with an infinitive makes a noun, and it can be followed by an adjective. Example: El comer temprano es sano, "eating early is healthy".
+8. discute la cuenta (sentence 9): discutir la cuenta means to argue about the bill, the thing that comes after the meal. Who pays the round is the subject of lesson 3. Example: Pedimos la cuenta al final, "we asked for the bill at the end".
+9. penúltima (sentence 10): penúltimo means second to last, from último. It is a formal word for the round before the last one. Example: Esta es la penúltima parada, "this is the second-last stop".
+10. No aparcar (sentence 11): a sign uses the infinitive, with no subject and no need for a command. Example: No fumar, "no smoking".
+11. Empujar (sentence 12): the same infinitive form on a door, where it tells you the action without naming a person. Example: Tirar, "pull".
+12. Uno pide (sentence 13): uno is a generic pronoun for "one" or "a person", and the verb after it is in the third person singular. Example: Uno nunca sabe cuándo va a llover, "one never knows when it is going to rain".
+13. La gente de la barra (sentence 14): la gente is a singular noun for "people" in general, so the verb is singular. Example: La gente de este pueblo es muy amable, "the people of this village are very kind".
+14. tinto de verano (sentence 14): tinto is red wine in Spain, and tinto de verano is red wine mixed with a soft drink, a summer drink. Example: Un tinto de verano, por favor, "a tinto de verano, please".
+15. la última ronda (sentence 15): a ronda is a round of drinks bought for the table, and última is the last. Example: Esta es la última ronda, "this is the last round".
+
+ex1:
+- Aquí se cena tarde, sobre las diez.
+  en: Here people have dinner late, around ten.
+- Entras y te sientas donde quieras.
+  en: You walk in and sit wherever you like. (to a friend)
+- Comer deprisa no es sano.
+  en: Eating fast is not healthy.
+- Uno siempre aprende algo nuevo en el extranjero.
+  en: One always learns something new abroad.
+- Hablas bajo para que no te oigan.
+  en: You speak quietly so that they don't hear you. (to a friend)
+
+ex2:
+- Aquí [se] habla muy alto.
+  en: People talk very loudly here.
+- Pide una [caña], que es la cerveza de barril.
+  en: Order a caña, the draught beer.
+- [Comer] de pie es lo normal.
+  en: Eating standing up is normal.
+- Nunca te vayas antes de la [penúltima].
+  en: Never leave before the penultimate round.
+- Hablas alto para que toda la barra se [entere].
+  en: You speak loudly so that the whole bar finds out. (to a friend)
+
+== 27 B2
+numeral: Lección veintisiete
+title: Frida Kahlo
+title.en: Frida Kahlo
+
+dialogue:
+- Frida Kahlo nació en Coyoacán, en la Ciudad de México, en 1907.
+  en: Frida Kahlo was born in Coyoacán, in Mexico City, in 1907.
+- Ella prefería decir que había nacido en 1910, el año en que empezó la Revolución mexicana.
+  en: She preferred to say that she had been born in 1910, the year the Mexican Revolution began.
+- Debe de ser que le gustaba pensar que había nacido con la Revolución.
+  en: It must be that she liked to think she had been born with the Revolution.
+- De niña tuvo polio, y una pierna le quedó más delgada que la otra.
+  en: As a child she had polio, and one of her legs stayed thinner than the other.
+- En 1925 sufrió un accidente de autobús que le dejó graves lesiones en la columna y en la pelvis.
+  en: In 1925 she was in a bus accident that left her with serious injuries to her spine and pelvis.
+- Durante meses estuvo en cama, y allí empezó a pintar, con un espejo colocado encima.
+  en: For months she stayed in bed, and there she began to paint, with a mirror placed above her.
+- Como no podía levantarse, se pintó a sí misma, y eso debe de ser la razón de tantos autorretratos.
+  en: As she could not get up, she painted herself, and that must be the reason for so many self-portraits.
+- En 1929 se casó con Diego Rivera, un pintor mucho mayor que ella.
+  en: In 1929 she married Diego Rivera, a painter much older than she was.
+- Se divorciaron en 1939, y ese mismo año pintó Las dos Fridas.
+  en: They divorced in 1939, and that same year she painted The Two Fridas.
+- En 1940 volvieron a casarse.
+  en: In 1940 they married again.
+- Hoy, la casa de Coyoacán es un museo, y se conoce como la Casa Azul.
+  en: Today the house in Coyoacán is a museum, and it is known as the Casa Azul.
+- En México, la gente dice ahorita para decir en un momento, y padre para decir que algo está muy bien; ¿mande? sirve para pedir que repitan.
+  en: In Mexico people say ahorita for in a moment, and padre for something that is very good; ¿mande? is what you say to ask someone to repeat.
+- Un museo debe cuidar sus obras y explicarlas bien.
+  en: A museum must look after its works and explain them well.
+- Imagina un cuadro sin firma: un autorretrato con las cejas juntas y flores en el pelo.
+  en: Imagine an unsigned painting: a self-portrait with eyebrows that meet and flowers in the hair.
+- Debe de ser de ella, porque esas son sus señas más conocidas.
+  en: It must be hers, because those are her best-known features.
+- Si en lugar de una mujer hay un paisaje, no puede ser de ella.
+  en: If there is a landscape instead of a woman, it can't be hers.
+- Pero si la mujer tiene flores en el pelo y el fondo es de México, tiene que ser ella.
+  en: But if the woman has flowers in her hair and the background is of Mexico, it has to be her.
+- ¿Cuántos años tendría cuando lo pintó? Tendría unos veinte, a juzgar por la cara.
+  en: How old would she have been when she painted it? She would have been about twenty, judging by the face.
+- Cerca del final de su vida pintó unas sandías, y sobre ellas escribió Viva la vida.
+  en: Near the end of her life she painted some watermelons, and on them she wrote Viva la vida.
+
+notes.en:
+1. Coyoacán (sentence 1): a district of Mexico City, in the south of the city. Example: Vivo en Coyoacán, "I live in Coyoacán".
+2. prefería decir (sentence 2): the imperfect of preferir, the preference that held for a time, followed by an infinitive. Example: Prefería viajar de noche, "she preferred to travel at night".
+3. Debe de ser (sentence 3): deber de plus an infinitive makes a likely guess, while deber without de is an obligation. Example: Debe de ser tarde, ya está oscuro, "it must be late, it is already dark".
+4. mayor (sentence 8): for a person, mayor means older, and it is the usual word in Spain for someone's age. Example: Mi hermana es mayor que yo, "my sister is older than me".
+5. la Casa Azul (sentence 11): the name the house is known by, and the adjective azul is the colour of its walls. Example: La casa es azul por fuera, "the house is blue on the outside".
+6. ahorita (sentence 12): a Mexican word for in a moment. In Spain you would say ahora mismo or en un momento. Example in Spain: Ahora mismo voy, "I'm coming right now".
+7. ¿mande? (sentence 12): a Mexican way to ask someone to repeat. In Spain you would say ¿perdón? or ¿cómo? Example in Spain: ¿Cómo?, "pardon?".
+8. padre (sentence 12): a Mexican word for great or very good, from the everyday use. In Spain padre means father, and you would say genial or estupendo. Example in Mexico: Esa película está padre, "that film is great".
+9. debe cuidar (sentence 13): deber plus an infinitive means must or should, an obligation. Example: Debes cuidar tu salud, "you must look after your health".
+10. no puede ser (sentence 16): no puede ser says that something is impossible. Example: No puede ser verdad, "it can't be true".
+11. tiene que ser (sentence 17): tener que plus the infinitive for a conclusion that the evidence leaves no other choice for. Example: Tiene que ser Ana, nadie más tiene esa voz, "it must be Ana, nobody else has that voice".
+12. tendría unos veinte (sentence 18): the conditional of probability refers to a past time, as a guess. Example: Tendría unos treinta años cuando se mudó, "she would have been about thirty when she moved".
+13. Viva la vida (sentence 19): viva is the form of vivir used in the phrase long live, and vida is life. Example: ¡Viva la libertad!, "long live freedom!".
+
+ex1:
+- Debe de haber llovido, el suelo está mojado.
+  en: It must have rained, the ground is wet.
+- Tiene que ser mi hermano, nadie más tiene ese coche.
+  en: It must be my brother, nobody else has that car.
+- Esa historia no puede ser cierta.
+  en: That story can't be true.
+- Un profesor debe explicar bien la lección.
+  en: A teacher must explain the lesson well.
+- Mi madre era mayor que mi padre.
+  en: My mother was older than my father.
+
+ex2:
+- No [puede] ser verdad.
+  en: It can't be true. (to a friend)
+- Cuando la vi, [tendría] unos veinte años.
+  en: When I saw her, she was probably about twenty.
+- [Viva] la libertad.
+  en: Long live freedom.
+- La casa es [azul] por fuera.
+  en: The house is blue on the outside.
+- Pedro [debe] de estar en casa, la luz está encendida.
+  en: Pedro must be at home, the light is on.
+
+== 28 B2
+kind: revision
+numeral: Lección veintiocho
+title: Repaso y matices
+title.en: Revision and finer points
+
+notes.en:
+The fourth week of this course is finished. Nothing here needs learning by heart: the tables put in order what you have read in lessons 22 to 27, and those texts are your store of examples.
+If a point still feels unclear, go back to the example line in its lesson and read it aloud; it will be clearer each time. Then do the ten exercises at the end.
+1. Conditions: si, the mixed type and the other ways to say "if" or "provided" (lesson 22).
+| Form | What it does | Example from the week | In English |
+|---|---|---|---|
+| si + present, present | a real condition | Si no me lo suben, no firmo nada (lesson 22) | If they don't raise it to that, I won't sign anything |
+| si + pluperfect subjunctive, conditional | the mixed type: a past that did not happen, with its result now | Si hubiera negociado así en mi anterior empresa, ahora tendría un sueldo mejor (lesson 22) | If I had negotiated like this at my last firm, I would be earning more now |
+| de + infinitive | the same as si with the pluperfect subjunctive | De haberlo sabido antes, le habría ofrecido esto desde el principio (lesson 22) | Had I known that before, I would have offered you all this from the start |
+| siempre que + subjunctive | provided that, for a condition not yet met | siempre que podamos hablar de algunas condiciones (lesson 22) | provided we can talk about a few conditions |
+| con tal de que + subjunctive | provided that, firmer, as the terms of a deal | con tal de que cumpla los objetivos del primer año (lesson 22) | provided you meet the targets for the first year |
+| a no ser que + subjunctive | unless | a no ser que la empresa lo prohíba (lesson 22) | unless the company forbids it |
+| salvo que + subjunctive | unless, for a rule with an exception | salvo que haya reunión (lesson 22) | unless there is a meeting |
+| en caso de que + subjunctive | in the event that | en caso de que quede una libre (lesson 22) | in the event that one is left free |
+| como + subjunctive | a warning: if you do not, the result follows | Como no me den una respuesta por escrito hoy, me voy (lesson 22) | If I don't get a written answer today, I am leaving |
+The third type, si with the pluperfect subjunctive and the conditional for the past, is in (Foundation, lesson 76); this week's mixed type joins it to a present result.
+2. Deduction: must, can't, probably, and the past (lesson 27).
+| Form | What it does | Example from the week | In English |
+|---|---|---|---|
+| debe de + infinitive | a likely guess | Debe de ser de ella, porque esas son sus señas más conocidas (lesson 27) | It must be hers, because those are her best-known features |
+| tiene que + infinitive | a conclusion the evidence allows in no other way | Pero si la mujer tiene flores en el pelo y el fondo es de México, tiene que ser ella (lesson 27) | But if the woman has flowers in her hair and the background is of Mexico, it has to be her |
+| no puede ser | impossible | Si en lugar de una mujer hay un paisaje, no puede ser de ella (lesson 27) | If there is a landscape instead of a woman, it can't be hers |
+| conditional of probability, about a past time | a guess about the past | Tendría unos veinte, a juzgar por la cara (lesson 27) | She would have been about twenty, judging by the face |
+| debe de haber + participle | a guess about something past | Debe de haber llovido, el suelo está mojado (exercise, lesson 27) | It must have rained, the ground is wet |
+3. The passive: ser + participle, estar + participle, and passive se (lessons 23 and 24).
+| Form | What it does | Example from the week | In English |
+|---|---|---|---|
+| ser + participle | the act, with a date or a time | Los cuadros El dos de mayo y El tres de mayo de 1808 fueron pintados en 1814 (lesson 23) | The paintings The Second of May and The Third of May 1808 were painted in 1814 |
+| estar + participle | the state that results | cuyas paredes estaban pintadas (lesson 23) | whose walls were painted |
+| se + verb, agreeing with the thing | passive se, with a thing as the subject | se inauguró en 1997 (lesson 24) | opened in 1997 |
+| se + verb, for a process | passive se, with no one named | Un grabado se hace sobre una plancha de cobre (lesson 23) | An engraving is made on a copper plate |
+4. Relatives after a preposition (lesson 24).
+English leaves the preposition at the end of the clause; Spanish puts it before the relative, with the article.
+| Form | What it does | Example from the week | In English |
+|---|---|---|---|
+| en la que | the place or thing where | la ciudad en la que se levanta el Museo Guggenheim (lesson 24) | the city where the Guggenheim Museum stands |
+| bajo el cual | under which | un roble bajo el cual se reunían las Juntas Generales (lesson 24) | an oak tree under which the General Assemblies used to meet |
+| con el que | with which | con el que se acompaña el pescado (lesson 24) | which goes with the fish |
+5. The poner family (lesson 25).
+| Form | What it does | Example from the week | In English |
+|---|---|---|---|
+| poner la fecha | to set a date | Lo primero es poner la fecha (lesson 25) | The first thing is to set the date |
+| poner el grito en el cielo | to be outraged | Mi madre pone el grito en el cielo (lesson 25) | My mother is outraged |
+| ponerse nervioso, nerviosa | to become, to get (with an adjective) | Laura, mi cuñada, se pone nerviosa (lesson 25) | Laura gets nervous |
+| ponte las pilas | to get a move on | Le digo: ponte las pilas (lesson 25) | I tell her to get a move on |
+| poner de los nervios | to get on someone's nerves | Y Javier me pone de los nervios (lesson 25) | Javier gets on my nerves |
+| poner verde a alguien | to criticise someone harshly | Laura me pone verde por teléfono (lesson 25) | Laura tears me apart on the phone |
+| ponerse en el lugar de alguien | to put oneself in someone's place | Me pongo en el lugar de Javier (lesson 25) | I put myself in Javier's place |
+| poner de su parte | to do one's share | Al final pone de su parte (lesson 25) | In the end he does his bit |
+
+Practice. Ten sentences, five to translate and five to fill in.
+
+ex1:
+- Te acompaño siempre que me dejes conducir.
+  en: I'll come with you provided you let me drive. (to a friend)
+- Si no llegas a tiempo, empezamos sin ti.
+  en: If you are not on time, we start without you. (to a friend)
+- De haberlo sabido, no habría comprado la entrada.
+  en: Had I known, I would not have bought the ticket.
+- Ese libro tiene que ser suyo, lleva su nombre.
+  en: That book must be his, it has his name on it.
+- Las ventanas fueron pintadas en mayo.
+  en: The windows were painted in May.
+
+ex2:
+- Esa carta [fue] escrita en 1890.
+  en: That letter was written in 1890.
+- El museo [se] inauguró el mes pasado.
+  en: The museum opened last month.
+- La casa [en] la que vivió él tiene un jardín.
+  en: The house he lived in has a garden.
+- Llevo dos horas [esperando] el autobús.
+  en: I have been waiting for the bus for two hours.
+- Esa norma [tiene] que cumplirse.
+  en: That rule has to be followed.

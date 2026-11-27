@@ -318,3 +318,12 @@ you think is wrong (quote it, do not change it).
 - "otra obra de" only after the first work has been named.
 - A comparison must compare two different things (la crema catalana,
   parecida a las natillas), never a thing with itself.
+
+## Rules added after week 4
+
+- Times in a story must agree with each other: if she wakes at half past
+  nine and is late, the party was in the morning.
+- Do not repeat a request already settled two lines before (the contract
+  in writing); use the line to set up the twist.
+- Satire may exaggerate habits, but not present an illegal habit as normal
+  today (smoking indoors has been banned since 2011).

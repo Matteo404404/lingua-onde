@@ -39,6 +39,7 @@ FIX = {
     "psicóloga": "ssi*co*loga",
     "ninot": "ni*not*",
     "ninots": "ni*nots*",
+    "hemingway": "*Hé*minguéï",
 }
 
 # Words ending in -mente that are not adverbs in -mente (two stresses).

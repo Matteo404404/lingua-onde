@@ -195,3 +195,647 @@ Nothing in this lesson needs to be learnt by heart. The imperfect subjunctive ha
 | aunque + subjunctive, a possibility | Aunque sea caro | even if it is expensive | this lesson, line 7 |
 
 That closes the week: the subjunctive has come a long way, and the rest of the course keeps using it.
+
+== 78 B2
+numeral: Lección setenta y ocho
+numeral.pron.en: lék*cion* sé*tén*ta i *o*tcho
+title: Se me ha roto
+title.en: It broke on me
+
+dialogue:
+- Huele a quemado, ¿no?
+  en: Something smells burnt, doesn't it?
+  pron.en: *oué*lé …
+- Perdona, el arroz se me ha quemado.
+  en: Sorry, I've burnt the rice. (The rice has burnt itself on me.)
+  pron.en: … a*rroç* …
+- No pasa nada. ¿Y qué más se te ha roto?
+  en: It doesn't matter. What else have you broken? (What else has broken itself on you?)
+  pron.en: … *ro*to
+- Se me ha roto el plato grande, justo al traerlo.
+  en: I've broken the big plate, just as I was bringing it in. (The big plate has broken itself on me, just as I brought it.)
+  pron.en: … *Houss*to … tra*ér*lo
+- ¿Y el vino? ¿Queda algo?
+  en: And the wine? Is there any left?
+- Se nos ha acabado antes del postre.
+  en: We've run out before dessert. (It has run out on us before the dessert.)
+  pron.en: … aca*ba*do … *poss*tré
+- ¿Y el hielo? ¿Quién lo iba a comprar?
+  en: And the ice? Who was going to buy it?
+  pron.en: … *yé*lo … com*prar*
+- Mi hermano. Se le ha olvidado comprarlo.
+  en: My brother. He has forgotten to buy it. (To buy it has forgotten itself on him.)
+  pron.en: … ér*ma*no … com*prar*lo
+- Pues qué desastre. ¿Y ya sabes cómo nos llamamos?
+  en: What a disaster. And do you know our names yet?
+  pron.en: … dé*ssass*tré …
+- Casi ninguno. Se me han olvidado.
+  en: Hardly any. I've forgotten them. (They have forgotten themselves on me.)
+  pron.en: … an …
+- Pues yo me llamo Pablo, por si acaso.
+  en: Well, I'm Pablo, just in case.
+  pron.en: … *pa*blo … a*ca*sso
+- Pablo, claro. Ya no se me olvida.
+  en: Pablo, of course. I won't forget it now. (It won't forget itself on me now.)
+- Venga, no te disculpes más. Nos hemos reído mucho.
+  en: Come on, stop apologising. We've laughed a lot.
+  pron.en: *bén*ga … diss*coul*péss … *é*moss ré*i*do …
+- ¿Reíros? ¿Con el arroz quemado?
+  en: Laughed? With the rice burnt?
+  pron.en: ré*i*ross …
+- Pues para mí es la mejor cena de los últimos años.
+  en: Well, for me it's the best dinner in years. (Of the last years.)
+  pron.en: … *oul*timoss …
+
+notes.en:
+1. Se me ha quemado el arroz: the involuntary se of lesson 57, with a person in front. The thing does it to the person, so the verb agrees with the thing: se me ha roto el plato, but se me han olvidado los nombres. The pronoun comes before the verb.
+2. The pronoun changes with the person: me, te, le, nos. The table is the whole set for this week; os and les follow the same pattern, but they are not in this dialogue.
+
+| Pronoun | Meaning | Example in this lesson | Notes |
+|---|---|---|---|
+| me | to me | Se me ha roto el plato grande (line 4) | the most common |
+| te | to you | ¿Y qué más se te ha roto? (line 3) | the same verb, one person |
+| le | to him, to her, to you (usted) | Se le ha olvidado comprarlo (line 8) | the same form for three people |
+| nos | to us | Se nos ha acabado antes del postre (line 6) | acabarse is "to run out" |
+
+3. Se nos ha acabado: acabarse is "to run out". The wine is not named again, because the line before it named it.
+4. Se le ha olvidado comprarlo: the thing forgotten is the infinitive, so the verb stays singular, as in lesson 67 (se me ha olvidado poner gasolina). The lo at the end is the ice, joined to the infinitive.
+5. Se me han olvidado: here the names are the thing forgotten, so the verb is plural. Casi ninguno is "hardly any", with ninguno standing for a person.
+6. Ya no se me olvida: the same se me with olvidar, now in the present; ya no is "not any more". In no te disculpes the te comes after no, as in no te preocupes (lesson 57).
+7. La mejor cena de los últimos años: mejor is "better", and with la it is "the best". De los últimos años is literally "of the last years", and the nearest English is "in years".
+
+culture.en:
+Paella comes from Valencia, and the word means the wide, shallow pan it is cooked in. The rice is spread evenly and left alone, so that the crust at the bottom, the socarrat, can form.
+
+ex1:
+- Se me ha quemado la comida.
+  en: I've burnt the food.
+- Se nos ha acabado el vino.
+  en: We've run out of wine.
+- Se me ha roto el plato.
+  en: I've broken the plate.
+- Se le ha olvidado el hielo.
+  en: He has forgotten the ice.
+- Se me ha olvidado el nombre.
+  en: I've forgotten the name.
+
+ex2:
+- [Se] me ha quemado el pan.
+  en: I've burnt the bread.
+- Se [nos] ha acabado el postre.
+  en: We've run out of dessert.
+- Se [le] ha olvidado el hielo.
+  en: He has forgotten the ice.
+- ¿Se [te] ha roto el plato?
+  en: Have you broken the plate?
+- Se me [ha] olvidado comprar el hielo.
+  en: I've forgotten to buy the ice.
+
+== 79 B2
+numeral: Lección setenta y nueve
+numeral.pron.en: lék*cion* sé*tén*ta i *noué*bé
+title: San Fermín
+title.en: Saint Fermin
+
+dialogue:
+- Pamplona celebra sus fiestas de San Fermín del seis al catorce de julio.
+  en: Pamplona holds its San Fermín festival from 6 to 14 July.
+  pron.en: pam*plo*na cé*lé*bra … fér*min* … ca*tor*cé … *Hou*lio
+- El seis de julio, a mediodía, se lanza el chupinazo desde el balcón del Ayuntamiento.
+  en: On 6 July, at noon, the chupinazo is launched from the balcony of the town hall.
+  pron.en: … médio*di*a … *lan*ça … tchoupi*na*ço … bal*con* …
+- Es un cohete, y la plaza entera grita: ¡Viva San Fermín!
+  en: It is a rocket, and the whole square shouts Viva San Fermín!
+  pron.en: … co*é*té … én*té*ra *gri*ta *bi*ba …
+- Durante esos días, la ciudad se llena de gente.
+  en: During those days, the city fills with people.
+  pron.en: … *é*ssoss … ciou*dad* … *yé*na …
+- Cada mañana, a las ocho, se corre el encierro.
+  en: Every morning at eight, the encierro is run.
+  pron.en: … *co*rré … én*cié*rro
+- Los toros salen de los corrales y corren unos ochocientos cincuenta metros hasta la plaza de toros.
+  en: The bulls leave the pens and run about 850 metres to the bullring.
+  pron.en: … *to*ross *sa*lén … co*rra*léss … *co*rrén *ou*noss otcho*cién*toss … *mé*tross …
+- El encierro dura solo unos minutos, pero mucha gente lo ve desde los balcones.
+  en: The run lasts only a few minutes, but many people watch it from the balconies.
+  pron.en: … *dou*ra … bal*co*néss
+- Los corredores van vestidos de blanco, con un pañuelo rojo al cuello.
+  en: The runners are dressed in white, with a red scarf at the neck.
+  pron.en: … corré*do*réss ban béss*ti*doss … pa*gnoué*lo … *coué*yo
+- Muchos turistas llevan también un pañuelo rojo, aunque no corran.
+  en: Many tourists also wear a red scarf, even if they do not run.
+  pron.en: … *yé*ban … *co*rran
+- Hay encierros en otros pueblos, pero este es el más famoso.
+  en: There are encierros in other towns, but this one is the most famous.
+  pron.en: … én*cié*rross … *o*tross *poué*bloss …
+- Hemingway escribió sobre estas fiestas en una novela de mil novecientos veintiséis.
+  en: Hemingway wrote about these festivals in a novel of 1926.
+  pron.en: *Hé*minguéï ésscri*bio* *so*bré *éss*tass … no*bé*la … nobé*cién*toss béïnti*sséïss*
+- A medianoche del catorce, la gente canta el Pobre de mí.
+  en: At midnight on the fourteenth, people sing the Pobre de mí.
+  pron.en: … média*no*tché … *can*ta … *po*bré …
+- Después de la fiesta, la ciudad vuelve a su ritmo de siempre.
+  en: After the festival, the city goes back to its usual pace.
+  pron.en: … *bouél*bé … *rit*mo …
+- Y el año que viene, todo empieza otra vez el seis de julio, a mediodía.
+  en: And next year, it all starts again on 6 July, at noon.
+
+notes.en:
+1. Se celebra, se lanza, se corre: the passive se, as in lesson 59. With a singular noun the verb stays singular: se corre el encierro, se lanza el chupinazo.
+2. El chupinazo is the firework, a rocket, and the word cohete is the general one for any rocket. It is launched from a balcony above the crowd.
+3. Encierro comes from encerrar, "to shut in": the bulls are shut in their pens, then let out to run to the bullring. The word names the run as a whole.
+4. Aunque no corran: aunque with the subjunctive names a possibility, "even if", as in aunque llueva (lesson 75). Corran is the third person plural of correr.
+5. Vestidos de blanco: vestido is the participle of vestirse, as in lesson 72, and it agrees with the runners.
+6. Mil novecientos veintiséis: the year is read as a number in words, mil (a thousand), novecientos (nine hundred), veintiséis (twenty-six). English says "nineteen twenty-six".
+
+ex1:
+- Pamplona celebra sus fiestas en julio.
+  en: Pamplona holds its festival in July.
+- Cada mañana se corre el encierro.
+  en: Every morning the encierro is run.
+- Los corredores van vestidos de blanco.
+  en: The runners are dressed in white.
+- Hay encierros en otros pueblos.
+  en: There are encierros in other towns.
+- Se lanza el cohete a mediodía.
+  en: The rocket is launched at noon.
+
+ex2:
+- El seis de julio, a [mediodía], se lanza el chupinazo.
+  en: On 6 July, at noon, the chupinazo is launched.
+- Cada mañana, a las ocho, se [corre] el encierro.
+  en: Every morning at eight, the encierro is run.
+- Los toros salen de los [corrales].
+  en: The bulls leave the pens.
+- Muchos turistas llevan un pañuelo rojo, aunque no [corran].
+  en: Many tourists wear a red scarf, even if they do not run.
+- Hemingway escribió sobre estas [fiestas].
+  en: Hemingway wrote about these festivals.
+
+== 80 B2
+numeral: Lección ochenta
+numeral.pron.en: lék*cion* o*tchén*ta
+title: Cuyo
+title.en: Whose
+
+dialogue:
+- Buenas noches. Leo el acta de la reunión anterior.
+  en: Good evening. I'll read the minutes of the last meeting.
+  pron.en: … *lé*o … *ac*ta … anté*rior*
+- Perdone, ¿y lo de la derrama?
+  en: Excuse me, what about the special levy?
+  pron.en: … dé*rra*ma
+- Ese punto, el cual se aplazó dos veces, sigue pendiente.
+  en: That item, which was postponed twice, is still pending.
+  pron.en: … coual … apla*ço* … pén*dién*té
+- ¿Y quién lo propuso?
+  en: And who proposed it?
+  pron.en: … pro*pou*sso
+- El vecino del quinto, cuyo piso tiene humedad.
+  en: The neighbour on the fifth floor, whose flat has damp.
+  pron.en: … *kin*to *cou*yo … oumé*dad*
+- Pues quienes pagamos la derrama somos los del primero.
+  en: Well, we who pay the levy are the people on the first floor.
+  pron.en: … *kié*néss pa*ga*moss … *so*moss …
+- Lo cual es cierto, y se tendrá en cuenta.
+  en: Which is true, and it will be taken into account.
+  pron.en: … *ciér*to … tén*dra* …
+- ¿Y el ascensor? Siempre se estropea.
+  en: And the lift? It always breaks down.
+  pron.en: … ésstro*pé*a
+- Ese asunto se estudiará en la próxima reunión.
+  en: That matter will be studied at the next meeting.
+  pron.en: … a*ssoun*to … ésstoudia*ra* … *prok*sima …
+- ¿Y qué se ha decidido hoy, entonces?
+  en: So what has been decided today, then?
+  pron.en: … déci*di*do …
+- Todo queda pendiente, señora, hasta que lo estudiemos.
+  en: Everything stays pending, madam, until we study it.
+  pron.en: … ésstou*dié*moss
+- ¿Y qué se ha acordado, por fin?
+  en: So what has been agreed, at last?
+  pron.en: … acor*da*do …
+- El único acuerdo es volver a reunirnos el mes que viene.
+  en: The only agreement is to meet again next month.
+  pron.en: … *ou*nico a*couér*do … réou*nir*noss … méss …
+
+notes.en:
+1. Cuyo means "whose", and it agrees with the thing owned, not with the owner: cuyo piso, because piso is masculine. With a feminine noun it would be cuya, as in cuya cuenta.
+2. El cual and lo cual (lines 3 and 7): el cual agrees with the noun it follows, el punto. Lo cual points back to a whole statement, so it means "which" for what has just been said.
+3. Quienes is the plural of quien and stands for people: quienes pagamos is "we who pay" (line 6). Los del primero is "the people on the first floor". Quién, with the accent, asks who (line 4).
+4. Hasta que lo estudiemos: hasta que takes the subjunctive when the thing has not yet happened, as in lesson 73. Lo stands for the matter, the derrama.
+5. Se ha acordado and acuerdo: acordar is "to agree on", and acuerdo is the agreement that is made. Se ha acordado has no one named, so it is the impersonal se, "it has been agreed".
+6. Volver a reunirnos: the nos is joined to the end of the infinitive, as the lo is in comprarlo (lesson 78).
+
+culture.en:
+A block of flats in Spain is run by a comunidad de vecinos, the owners' association. It meets to approve the accounts, and a derrama is an extra payment for repairs or other costs that the ordinary budget does not cover.
+
+ex1:
+- El vecino del quinto, cuyo piso tiene humedad.
+  en: The neighbour on the fifth floor, whose flat has damp.
+- Lo cual es cierto.
+  en: Which is true.
+- Quienes pagamos somos los del primero.
+  en: We who pay are the people on the first floor.
+- Hasta que lo estudiemos, todo queda pendiente.
+  en: Until we study it, everything stays pending.
+- El único acuerdo es volver a reunirnos.
+  en: The only agreement is to meet again.
+
+ex2:
+- El vecino del quinto, [cuyo] piso tiene humedad.
+  en: The neighbour on the fifth floor, whose flat has damp.
+- Ese punto, [el] cual se aplazó dos veces.
+  en: That item, which was postponed twice.
+- [Quienes] pagamos la derrama somos los del primero.
+  en: Those of us who pay the levy are the people on the first floor.
+- Todo queda pendiente hasta que lo [estudiemos].
+  en: Everything stays pending until we study it.
+- Se ha [acordado] volver a reunirnos.
+  en: It has been agreed to meet again.
+
+== 81 B2
+numeral: Lección ochenta y una
+numeral.pron.en: lék*cion* o*tchén*ta i *ou*na
+title: Sin embargo
+title.en: However
+
+dialogue:
+- Además del alquiler, el ruido de la calle me cansa.
+  en: On top of the rent, the street noise wears me out.
+  pron.en: adé*mass* … *can*ssa
+- Ya, pero en un pueblo hay menos tiendas.
+  en: I know, but a village has fewer shops.
+  pron.en: … *poué*blo … *tién*dass
+- Sin embargo, con el teletrabajo podemos vivir donde queramos.
+  en: However, with teleworking we can live wherever we like.
+  pron.en: … ém*bar*go … télétra*ba*Ho po*dé*moss bi*bir* *don*dé ké*ra*moss
+- Eso es verdad. Por lo tanto, ¿podríamos irnos este año?
+  en: That's true. So could we leave this year?
+  pron.en: … *tan*to … *ir*noss …
+- En el pueblo de mi madre, en cambio, se duerme muy bien.
+  en: In my mother's village, on the other hand, you sleep very well.
+  pron.en: … *cam*bio … *douér*mé …
+- A pesar de que lo dice tu madre, no me lo imagino.
+  en: Even though your mother says so, I can't picture it.
+  pron.en: … pé*ssar* … ima*Hi*no
+- Aun así, me gustaría probarlo.
+  en: Even so, I'd like to try it.
+  pron.en: aoun … pro*bar*lo
+- Vale, pues vamos un fin de semana a ver un pueblo.
+  en: Right, then let's spend a weekend looking at a village.
+- ¿Y cuál?
+  en: Which one?
+- Uno cerca de Madrid, en la sierra.
+  en: One near Madrid, in the hills.
+  pron.en: … *cér*ca …
+- No, mejor lejos de Madrid.
+  en: No, better far from Madrid.
+- ¿Lejos? Pues entonces no sé cuál.
+  en: Far? Then I don't know which.
+- Te lo llevo diciendo toda la noche.
+  en: I've been telling you all evening.
+  pron.en: … di*cién*do …
+- Entonces, nos vamos al pueblo de tu madre.
+  en: So we're going to your mother's village.
+
+notes.en:
+1. The connectors do one of three jobs: adding, contrasting and concluding. The table has them in the order they come in the dialogue, with the line where each one is.
+
+| Job | Connector | English | In this lesson |
+|---|---|---|---|
+| adding | además | besides, on top of | line 1: Además del alquiler |
+| contrasting | sin embargo | however | line 3 |
+| contrasting | en cambio | on the other hand | line 5 |
+| contrasting | a pesar de que | even though | line 6 |
+| contrasting | aun así | even so | line 7 |
+| concluding | por lo tanto | so, therefore | line 4 |
+
+2. Además del alquiler: además is "besides", and the del is de plus el, "of the rent". Put it at the start of the sentence, and the rest follows.
+3. Sin embargo and en cambio both turn against what was just said, but en cambio puts two things side by side, as English "on the other hand" does. Sin embargo simply goes on to the other point.
+4. A pesar de que lo dice tu madre: the verb after a pesar de que is in the indicative, because the speaker states it as a fact. The lo stands for what the mother says, that people sleep well there.
+5. Te lo llevo diciendo: llevar with the gerund means something has gone on for some time, as in llevo dos horas esperando in lesson 62. Lo is the thing said, and te is the person it is said to.
+6. Nos vamos al pueblo de tu madre: the present of irse is used for a plan already settled, "we are going".
+
+culture.en:
+Many villages in inland Spain have lost most of their people over the decades. The phrase la España vaciada, the emptied Spain, names these villages as a group.
+
+ex1:
+- Además del alquiler, hay ruido.
+  en: On top of the rent, there is noise.
+- Sin embargo, podemos vivir en un pueblo.
+  en: However, we can live in a village.
+- En cambio, mi madre vive en el pueblo.
+  en: On the other hand, my mother lives in the village.
+- Aun así, me gustaría ir.
+  en: Even so, I would like to go.
+- Por lo tanto, ¿podríamos irnos?
+  en: So could we leave?
+
+ex2:
+- Además del [alquiler], el ruido me cansa.
+  en: On top of the rent, the noise wears me out.
+- Ya, pero en un pueblo hay menos [tiendas].
+  en: I know, but a village has fewer shops.
+- Sin [embargo], podemos vivir donde queramos.
+  en: However, we can live wherever we like.
+- A pesar de [que] lo dice tu madre.
+  en: Even though your mother says so.
+- Te lo llevo [diciendo] toda la noche.
+  en: I've been telling you all evening.
+
+== 82 B2
+numeral: Lección ochenta y dos
+numeral.pron.en: lék*cion* o*tchén*ta i doss
+title: La siesta
+title.en: The siesta
+
+dialogue:
+- La siesta es una de las costumbres más conocidas de España.
+  en: The siesta is one of the best-known habits in Spain.
+  pron.en: … *siéss*ta … coss*toum*bréss … cono*ci*dass …
+- Pero en un día de trabajo, pocas personas duermen después de comer.
+  en: But on a working day, few people sleep after lunch.
+  pron.en: … *po*cass … *douér*mén … co*mér*
+- Muchos extranjeros creen que todo el mundo la duerme, pero no es así.
+  en: Many foreigners believe everyone takes one, but that is not so.
+  pron.en: … ésstran*Hé*ross *cré*én …
+- Lo que sí es normal es comer tarde: la comida llega hacia las dos.
+  en: What is normal is eating late: lunch comes at around two.
+  pron.en: … nor*mal* … *a*cia …
+- La cena empieza a partir de las nueve, y a veces mucho después.
+  en: Dinner starts from nine, and sometimes much later.
+  pron.en: … par*tir* …
+- Ese horario tiene que ver con la jornada partida: una pausa larga a mediodía.
+  en: That timetable has to do with the split working day: a long break at midday.
+  pron.en: … o*ra*rio … Hor*na*da par*ti*da … *paou*ssa …
+- España tiene la hora de Europa Central desde mil novecientos cuarenta.
+  en: Spain keeps Central European time, which it has used since 1940.
+  pron.en: … éou*ro*pa cén*tral* …
+- Como su territorio está más al oeste que la mayoría de esos países, anochece tarde.
+  en: As its land lies further west than most of those countries, it gets dark late.
+  pron.en: … térri*to*rio … o*éss*té … mayo*ri*a … pa*i*sséss ano*tché*cé …
+- Así, el día es largo, y la pausa de mediodía tiene sentido.
+  en: So the day is long, and the midday break makes sense.
+  pron.en: … sén*ti*do
+- La siesta, en cambio, se ha vuelto rara en las ciudades.
+  en: The siesta, on the other hand, has become rare in the cities.
+  pron.en: … *bouél*to *ra*ra … ciou*da*déss
+- En muchas oficinas, la pausa es para comer, no para dormir.
+  en: In many offices, the break is for eating, not for sleeping.
+  pron.en: … ofi*ci*nass …
+- Todavía se duerme en algunos pueblos, sobre todo en verano.
+  en: People still sleep in some villages, especially in summer.
+  pron.en: … al*gou*noss … bé*ra*no
+- Hay quien la hace cada día, y quien nunca la hace.
+  en: Some people take one every day, and some never do.
+- Así que la siesta es, a la vez, un mito y una realidad.
+  en: So the siesta is, at the same time, a myth and a reality.
+  pron.en: … *mi*to … réali*dad*
+
+notes.en:
+1. Pocas personas: pocas means "few", and it agrees with the noun after it, personas, which is feminine and plural. Muchos extranjeros is the same pattern with "many".
+2. Se duerme: the impersonal se, as in lesson 59: no one is named, so the verb is singular. Se ha vuelto rara is different: volverse, "to become", has its own se, as in the table of lesson 63.
+3. La comida is the main meal of the day in Spain, and it is eaten at around two. La cena is the evening meal.
+4. Jornada partida is a working day in two parts, with a long break in the middle. Horario is the timetable, the set times of the day.
+5. Hay quien la hace: hay quien means "there are those who", and the quien is the one of lesson 64, for people. Hay quien and quien nunca are in the same pattern.
+
+ex1:
+- Pocas personas duermen después de comer.
+  en: Few people sleep after lunch.
+- Se duerme en algunos pueblos.
+  en: People sleep in some villages.
+- La comida llega hacia las dos.
+  en: Lunch comes at around two.
+- La siesta es una de las costumbres de España.
+  en: The siesta is one of the habits of Spain.
+- Hay quien la hace cada día.
+  en: Some people take one every day.
+
+ex2:
+- Pocas [personas] duermen después de comer.
+  en: Few people sleep after lunch.
+- La cena empieza a [partir] de las nueve.
+  en: Dinner starts from nine.
+- Hay [quien] la hace cada día.
+  en: Some people take one every day.
+- España tiene la hora de Europa [Central] desde mil novecientos cuarenta.
+  en: Spain has kept Central European time since 1940.
+- La siesta es, a la [vez], un mito.
+  en: The siesta is, at the same time, a myth.
+
+== 83 B2
+numeral: Lección ochenta y tres
+numeral.pron.en: lék*cion* o*tchén*ta i tréss
+title: Soñar con
+title.en: To dream of
+
+dialogue:
+- Como padrino de Javier, os voy a contar cómo se conocieron.
+  en: As Javier's padrino, I'm going to tell you how they met.
+  pron.en: … oss … cono*cié*ron
+- Vale, Roberto, pero que sea corto.
+  en: Fine, Roberto, but keep it short.
+  pron.en: … ro*bér*to … *cor*to
+- Javier y Marta se conocieron en la universidad, en una clase de Historia.
+  en: Javier and Marta met at university, in a history class.
+  pron.en: … ounibérssi*dad* … iss*to*ria
+- Eso ya lo sabemos, Roberto.
+  en: We know that already, Roberto.
+  pron.en: … sa*bé*moss …
+- Javier se enamoró de ti nada más verte.
+  en: Javier fell in love with you as soon as he saw you.
+  pron.en: … énamo*ro* … *bér*té
+- ¿Y yo? ¿Qué pensé yo?
+  en: And me? What did I think?
+  pron.en: … pén*ssé* …
+- Tú siempre soñaste con un hombre que te hiciera reír.
+  en: You always dreamt of a man who would make you laugh.
+  pron.en: … so*gnass*té … i*cié*ra ré*ir*
+- Eso lo dirás tú.
+  en: That's what you say.
+  pron.en: … di*rass* …
+- Y ahora contamos con todos vosotros para brindar.
+  en: And now we are counting on all of you to raise a toast.
+  pron.en: … bo*sso*tross … brin*dar*
+- Pues que sea ya, que tengo sed.
+  en: Then let it be now, I'm thirsty.
+  pron.en: … séd
+- Por Laura y por Roberto, los novios de hoy.
+  en: To Laura and Roberto, today's bride and groom.
+  pron.en: … *laou*ra … *no*bioss …
+- ¿Laura? ¿Roberto?
+  en: Laura? Roberto?
+- Eh... sí, eso. Por los novios, pues.
+  en: Er... yes, that. To the bride and groom, then.
+  pron.en: é …
+- Roberto, esas notas son de tu boda.
+  en: Roberto, those notes are from your wedding.
+  pron.en: … *é*ssass *no*tass …
+
+notes.en:
+1. Soñar con (line 7) means "to dream of", and the preposition is con, not de: soñar con un hombre is "to dream of a man". The verb after que is subjunctive, hiciera in que te hiciera reír, because the man is imagined, not known, as in lesson 66. Hiciera is the imperfect subjunctive after a past verb (lesson 74).
+2. Enamorarse de (line 5) is "to fall in love with", and it takes de. Nada más verte is "as soon as he saw you": nada más with an infinitive, and the pronoun te joined to the end of the infinitive.
+3. Contar con (line 9) is "to count on". It takes con, as soñar does, and the English "on" is a different word from the Spanish one.
+4. The verbs with their preposition, in the order of the table. The first three are in this dialogue; the others are the list to learn, and the English prepositions often differ from the Spanish.
+
+| Verb and preposition | English | In this lesson |
+|---|---|---|
+| soñar con | to dream of | line 7 |
+| enamorarse de | to fall in love with | line 5 |
+| contar con | to count on | line 9 |
+| pensar en | to think about | not in this lesson |
+| casarse con | to marry | not in this lesson |
+| acordarse de | to remember | not in this lesson |
+| depender de | to depend on | not in this lesson |
+| tardar en | to take long to | not in this lesson |
+
+5. The padrino stands beside the couple at a Spanish wedding, as lesson 61 says. English has no exact word for it, so the Spanish word is kept, and "best man" is only the nearest.
+
+aside.en:
+From now on the notes explain less and show more: trust your ear.
+
+ex1:
+- Javier se enamoró de Marta.
+  en: Javier fell in love with Marta.
+- Ella soñó con un hombre.
+  en: She dreamt of a man.
+- Contamos con todos vosotros.
+  en: We are counting on all of you.
+- Se conocieron en la universidad.
+  en: They met at university.
+- Nada más verla, se enamoró.
+  en: As soon as he saw her, he fell in love.
+
+ex2:
+- Javier se enamoró [de] Marta.
+  en: Javier fell in love with Marta.
+- Ella siempre [soñó] con un hombre.
+  en: She always dreamt of a man.
+- Contamos [con] todos vosotros.
+  en: We are counting on all of you.
+- Nada más [verla], se enamoró.
+  en: As soon as he saw her, he fell in love.
+- Se conocieron en la [universidad].
+  en: They met at university.
+
+== 84 B2
+kind: revision
+numeral: Lección ochenta y cuatro
+numeral.pron.en: lék*cion* o*tchén*ta i *coua*tro
+title: Revisión y notas
+title.en: Revision and notes
+
+dialogue:
+- Perdone, su coche está otra vez en mi plaza de garaje.
+  en: Excuse me, your car is in my parking space again.
+  refs: 4 8 17
+- Se equivoca, señora. Esa plaza ya no es de los vecinos del segundo.
+  en: You're mistaken, madam. That space no longer belongs to the neighbours on the second floor.
+  refs: 12 74
+- ¿Cómo que no? Yo soy la vecina del segundo.
+  en: What do you mean? I am the neighbour on the second floor.
+  refs: 65
+- Si hubiera venido a la última reunión, lo sabría.
+  en: If you had come to the last meeting, you would know.
+  refs: 76 80
+- No pude venir, lo cual no es culpa mía.
+  en: I couldn't come, which is not my fault.
+  refs: 40 80
+- Sin embargo, la reunión aprobó un reparto nuevo de las plazas.
+  en: Nevertheless, the meeting approved a new allocation of the spaces.
+  refs: 80 81
+- ¿Y quién lo propuso?
+  en: And who proposed it?
+  refs: 80
+- Los vecinos del cuarto, cuya plaza era pequeñísima.
+  en: The neighbours on the fourth floor, whose space was tiny.
+  refs: 47 80
+- Por lo tanto, ¿mi plaza ahora es de ellos?
+  en: So my space is theirs now?
+  refs: 81
+- Eso es. Se me ha olvidado traer el acta, pero lo dice.
+  en: That's right. I've forgotten to bring the minutes, but they say so.
+  refs: 78 80
+- Pues tráigala para la próxima reunión, y la leemos juntos.
+  en: Then bring them to the next meeting, and we'll read them together.
+  refs: 27 63 80
+- Con mucho gusto, señora.
+  en: With great pleasure, madam.
+  refs: 19
+- Y entonces, ¿por qué está su coche en la plaza de los del cuarto?
+  en: And then why is your car in the space of the people on the fourth floor?
+  refs: 4 80
+- Porque los del cuarto somos mi mujer y yo.
+  en: Because the people on the fourth floor are my wife and me.
+  refs: 80
+
+notes.en:
+Nothing in this lesson needs to be learnt by heart. The pluperfect subjunctive and the conditional perfect are the hardest part of the week, and doubts about the connectors and por and para are normal. Each one comes back in the lessons ahead, so use the tables as reminders, not as rules to memorise.
+
+1. The pluperfect subjunctive and the conditional perfect (lessons 76 and 53). Haber in the -ra form of the imperfect subjunctive, plus the participle, follows si for a past that did not happen. Habría plus the participle is "would have". The pluperfect of lesson 53, había dado, is for ordinary past events, and it is a different tense.
+
+| Person | Pluperfect subjunctive | Conditional perfect | From the lessons |
+|---|---|---|---|
+| yo, usted | hubiera sabido, hubiera venido | habría dicho | Si hubiera sabido (lesson 76); Si hubiera venido (this lesson, line 4) |
+| nosotros | hubiéramos reservado | habríamos ido | Si hubiéramos reservado (lesson 76); Habríamos ido en septiembre (lesson 76) |
+| tú, él, ella, usted, ellos | hubieras, hubiera, hubieran | habrías, habría, habrían | the same pattern, with haber in each person |
+
+When the result is about now, the main clause takes the plain conditional, as in lesson 76: si hubiera venido a la última reunión, lo sabría (line 4).
+
+2. Involuntary se (lessons 57, 63, 78). The thing happens to the person, so the verb agrees with the thing.
+
+| Pronoun | Example | From the lessons |
+|---|---|---|
+| me | Se me ha olvidado traer el acta | this lesson, line 10; Se me ha olvidado el número (lesson 63) |
+| te | ¿Y qué más se te ha roto? | lesson 78, line 3 |
+| le | Se le ha olvidado comprarlo | lesson 78, line 8 |
+| nos | Se nos ha acabado antes del postre | lesson 78, line 6 |
+
+The os and les forms follow the same pattern for vosotros and ustedes, and they have not come up in a dialogue yet.
+
+3. Cuyo, el cual, quien (lessons 64 and 80). Cuyo and el cual agree with the noun they refer to, and lo cual points back to a statement.
+
+| Form | Example | From the lessons |
+|---|---|---|
+| cuyo, cuya | El vecino del quinto, cuyo piso tiene humedad | lesson 80, line 5; this lesson, line 8 (cuya plaza) |
+| el cual, la cual | Ese punto, el cual se aplazó dos veces | lesson 80, line 3 |
+| lo cual | Lo cual es cierto | lesson 80, line 7; this lesson, line 5 |
+| quien, quienes | Quienes pagamos la derrama | lesson 80, line 6; quien mira el cuadro (lesson 64) |
+
+4. Connectors (lesson 81). Each one does one job: adding, contrasting or concluding.
+
+| Job | Connector | English | From the lessons |
+|---|---|---|---|
+| adding | además | besides | lesson 81, line 1 |
+| contrasting | sin embargo | however | lesson 81, line 3; this lesson, line 6 |
+| contrasting | en cambio | on the other hand | lesson 81, line 5 |
+| contrasting | a pesar de que | even though | lesson 81, line 6 |
+| concluding | por lo tanto | so | lesson 81, line 4; this lesson, line 9 |
+
+5. Verbs with a fixed preposition (lesson 83). The preposition goes with the verb, and English often uses another.
+
+- soñar con: to dream of (lesson 83, line 7)
+- enamorarse de: to fall in love with (lesson 83, line 5)
+- contar con: to count on (lesson 83, line 9)
+- pensar en: to think about (lesson 83 list)
+- casarse con: to marry (lesson 83 list)
+- acordarse de: to remember (lesson 83 list)
+- depender de: to depend on (lesson 83 list)
+- tardar en: to take long to (lesson 83 list)
+
+6. Por and para: the full table. Para is for a goal, a person, a destination or a time limit. Por is for a cause, a price, a way through, a part of the day or the doer of a passive.
+
+| Use | Word | Example | From the lessons |
+|---|---|---|---|
+| for a person | para | para dos personas (lesson 6); para el jefe (lesson 18) | lessons 6, 18 |
+| destination | para | un billete para Sevilla | lesson 27 |
+| time limit | para | para hoy (lesson 27); tráigala para la próxima reunión (this lesson, line 11) | lesson 27 |
+| cause | por | por el trabajo | lesson 10 |
+| price | por | setenta euros por un billete | lesson 27 (note) |
+| way through | por | mira por la ventana; pasa por Córdoba | lesson 24; lesson 27 (note) |
+| part of the day | por | por la mañana | lesson 36 |
+| doer of a passive | por | fue pintado por Velázquez | lesson 64 |
+| fixed phrase | por | por favor | lesson 1 |
+
+That closes the week: these forms come back in the lessons ahead, and each time they will feel a little more familiar.

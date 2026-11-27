@@ -312,3 +312,16 @@ word the tool figured wrongly, anything you were unsure of.
   models.
 - A back-reference names the lesson where the form was really taught (the
   pluperfect is lesson 53; si with the present is lesson 44).
+
+## Rules added after week 12
+
+- A twist that hangs on a name must be consistent with every earlier line:
+  if the best man reads his own wedding notes, the names he reads are his
+  own (Laura y Roberto), and nobody else in the scene contradicts that.
+- In a formal argument, the twist reveals a motive the scene has hidden
+  (the neighbour who proposed the change is the one who gains from it).
+- With haber the participle never agrees (se me ha roto el plato, se me
+  han olvidado los nombres); only the verb follows the thing.
+- Aunque and por eso never go in the same sentence: "como ..., ..." is the
+  way to give a cause.
+- A verb with its own se (volverse, irse) is not the impersonal se.

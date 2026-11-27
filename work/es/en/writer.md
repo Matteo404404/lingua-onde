@@ -190,3 +190,17 @@ word the tool figured wrongly, anything you were unsure of.
   usted stays the same for each speaker from first line to last.
 - A revision section does not repeat a table from an earlier revision; it
   takes the next step.
+
+## Rules added after week 3
+
+- The twist line must say the reveal plainly in the scene's own words ("La
+  jefa es ella"), not lean on a reading the learner has to guess.
+- Translate the English that a British speaker would say: "I saw her this
+  morning", "I got up at eight", with the literal Spanish perfect in the
+  (gloss) if useful.
+- Exercises use only forms already explained; no new phrase like "ya no"
+  slipped into ex1.
+- Stress claims about endings must be checked against the figured line: in
+  -aba the stress is on the first a (lla*ma*ba), not on an í.
+- The answer to "¿Y las comedias?" is "Tampoco": translate the sense ("not
+  those either"), not a stock phrase that does not fit ("me neither").

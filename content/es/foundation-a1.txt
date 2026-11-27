@@ -1139,3 +1139,567 @@ Thirteen lessons have gone by, and nothing in them has to be learnt by heart. Th
 Tener is used for age: tengo treinta años (13), never soy treinta. Numbers from twenty to a hundred, by tens: veinte (20), treinta (30), cuarenta (40), cincuenta (50), sesenta (60), setenta (70), ochenta (80), noventa (90), cien (100).
 
 The week closes here: the words and forms of these lessons come back in every lesson that follows, and each time they come a little more easily.
+
+== 15 A1
+numeral: Lección quince
+numeral.pron.en: lék*cion* *kin*cé
+title: La lista de la compra
+title.en: The shopping list
+
+dialogue:
+- Voy a hacer la compra. ¿Necesitas algo?
+  en: I'm going to do the shopping. Do you need anything?
+  pron.en: boï a a*cér* la *com*pra. ¿nécé*ssi*tass *al*go?
+- Sí. ¿Puedes traerme pan?
+  en: Yes. Can you bring me [some] bread?
+  pron.en: si. ¿*poué*déss tra*ér*mé pan?
+- Claro. ¿Algo más?
+  en: Of course. Anything else?
+  pron.en: *cla*ro. ¿*al*go mass?
+- Leche, huevos y tomates.
+  en: Milk, eggs and tomatoes.
+  pron.en: *lé*tché, *oué*boss i to*ma*téss.
+- ¿Por qué no me escribes una lista?
+  en: Why don't you write me a list?
+  pron.en: ¿por ké no mé éss*cri*béss *ou*na *liss*ta?
+- Porque siempre la olvidas en casa.
+  en: Because you always forget it at home.
+  pron.en: *por*ké *siém*pré la ol*bi*dass én *ca*ssa.
+- Bueno, pues dímelo otra vez.
+  en: All right, then, tell it to me again. (Well, then, tell-me-it another time.)
+  pron.en: *boué*no, pouéss *di*mélo *o*tra béç.
+- Pan, leche, huevos y tomates.
+  en: Bread, milk, eggs and tomatoes.
+  pron.en: pan, *lé*tché, *oué*boss i to*ma*téss.
+- Pan, leche, huevos... ¿y qué más?
+  en: Bread, milk, eggs... and what else?
+  pron.en: pan, *lé*tché, *oué*boss... ¿i ké mass?
+- Mira, mejor voy yo.
+  en: Look, I'd better go myself. (Look, better I go.)
+  pron.en: *mi*ra, mé*Hor* boï yo.
+
+sounds.en:
+1. The h of huevo is silent, and ue is the we of wet: *oué*boss.
+2. The v of olvidas is said b, as in lesson 1: ol*bi*dass.
+
+notes.en:
+1. Voy a hacer la compra: hacer, "to do" or "to make", is used for the shopping: hacer la compra. Voy a with an infinitive is "going to", as in lesson 11. First person: hago, I do.
+2. ¿Puedes traerme pan?: the pronoun me is joined to the end of the infinitive traer, "to bring": traerme, "to bring me". It can also go in front of the verb, as in ¿me puedes traer pan?, with the same sense.
+3. ¿Algo más?: "Anything else?", as in lesson 1, where the barman asked the same thing.
+4. La lista, la olvidas: a feminine noun is la, and when you mean "it" for that noun you say la again. English "it" has no gender; Spanish chooses la or lo by the gender of the noun, and lesson 18 has more.
+5. Dímelo: the command of decir, "tell", is dime, and the pronouns me and lo join on the end to give dímelo, "tell it to me". The accent stays on the í. Mira, "look", is a command too; commands come in lesson 16.
+6. Bueno, pues: bueno is "OK" or "well", and pues is a filler, "well then". Neither needs translating word for word.
+7. Mejor voy yo: mejor, "better", and voy yo, "I go". Yo comes last and is stressed: I, not you.
+
+ex1:
+- ¿Puedes traerme leche?
+  en: Can you bring me milk?
+- Necesitas una lista.
+  en: You need a list.
+- Siempre la olvidas.
+  en: You always forget it.
+- Mira, es muy tarde.
+  en: Look, it's very late.
+- Dímelo mañana.
+  en: Tell me tomorrow.
+
+ex2:
+- Voy a [hacer] la compra.
+  en: I'm going to do the shopping.
+- ¿Necesitas [algo]?
+  en: Do you need anything?
+- Siempre [la] olvidas.
+  en: You always forget the list.
+- Pues [dímelo] otra vez.
+  en: Well, then, tell it to me again.
+- Mira, [mejor] voy yo.
+  en: Look, I'd better go myself.
+
+culture.en:
+Many people in Spain buy bread every day at the panadería, the baker's, and ask for a barra, a long, thin loaf.
+
+== 16 A1
+numeral: Lección dieciséis
+numeral.pron.en: lék*cion* diéci*sséïss*
+title: ¡Levántate!
+title.en: Get up!
+
+dialogue:
+- ¡Nacho! Son las siete y media. ¡Levántate!
+  en: Nacho! It's half past seven. Get up!
+  pron.en: ¡*na*tcho! son lass *sié*té i *mé*dia. ¡lé*ban*taté!
+- Cinco minutos más, mamá...
+  en: Five more minutes, Mum...
+  pron.en: *cin*co mi*nou*toss mass, ma*ma*...
+- ¡Ya! Vas a llegar tarde.
+  en: Now! You're going to be late.
+  pron.en: ¡ya! bass a yé*gar* *tar*dé.
+- Ya me levanto, ya me levanto.
+  en: I'm getting up, I'm getting up.
+  pron.en: ya mé lé*ban*to, ya mé lé*ban*to.
+- ¿Y la ducha?
+  en: And the shower?
+  pron.en: ¿i la *dou*tcha?
+- Me ducho y me visto en cinco minutos.
+  en: I'll shower and get dressed in five minutes.
+  pron.en: mé *dou*tcho i mé *biss*to én *cin*co mi*nou*toss.
+- ¿Y el desayuno?
+  en: And breakfast?
+  pron.en: ¿i él déssa*you*no?
+- Desayuno en el autobús.
+  en: I'll have breakfast on the bus.
+  pron.en: déssa*you*no én él aouto*bouss*.
+- Ay, Nacho... perdona. Hoy es sábado.
+  en: Oh, Nacho... sorry. Today is Saturday.
+  pron.en: aï, *na*tcho... pér*do*na. oï éss *sa*bado.
+
+sounds.en:
+1. The stress of lé*ban*taté falls on ban, and the written accent on the á keeps it there when the pronoun is added.
+2. The ch of ducha is the tch of church, and the stress falls on dou: *dou*tcha.
+
+notes.en:
+1. ¡Levántate!: the tú command of levantarse, "get up". Without the pronoun it is levanta, and te joins on the end, with an accent to keep the stress where it was.
+2. Levantarse, ducharse, vestirse: these are reflexive verbs, with a pronoun that goes back to the subject: me levanto, te levantas, se levanta. Vestirse changes its e to i in the present: me visto.
+3. Ya: "already" or "now". ¡Ya! is a sharp "Now!", and ya me levanto is "I'm getting up now"; the repetition is the way Spanish says it.
+4. Me ducho y me visto: Spanish repeats me before each verb, where English says "I shower and get dressed" once.
+5. Desayuno is both "breakfast" and "I have breakfast"; desayunar is the verb, "to have breakfast".
+6. Vas a llegar tarde: ir a with an infinitive again, as in lesson 11. Tarde means "afternoon" in buenas tardes (lesson 6), and "late" here.
+7. Hoy es sábado: the day of the week goes with ser, as the time does in lesson 9.
+
+ex1:
+- ¡Levántate ya!
+  en: Get up now!
+- Me levanto a las siete.
+  en: I get up at seven.
+- Me ducho en cinco minutos.
+  en: I shower in five minutes.
+- Desayuno en casa.
+  en: I have breakfast at home.
+- Hoy es sábado.
+  en: Today is Saturday.
+
+ex2:
+- Me [levanto] a las siete.
+  en: I get up at seven.
+- Ya [me] ducho.
+  en: I'm showering now.
+- [Desayuno] en casa.
+  en: I have breakfast at home.
+- Vas a [llegar] tarde.
+  en: You're going to be late.
+- Hoy es [sábado].
+  en: Today is Saturday.
+
+== 17 A1
+numeral: Lección diecisiete
+numeral.pron.en: lék*cion* diéci*ssié*té
+title: Antes
+title.en: In the old days
+
+dialogue:
+- Abuelo, ¿cómo era Madrid antes?
+  en: Grandad, what was Madrid like before?
+  pron.en: a*boué*lo, ¿*co*mo *é*ra ma*drid* *an*téss?
+- Era más pequeño. No había tantos coches.
+  en: It was smaller. There weren't so many cars.
+  pron.en: *é*ra mass pé*ké*gno. no a*bi*a *tan*toss *co*tchéss.
+- ¿Y qué hacías los domingos?
+  en: And what did you do on Sundays?
+  pron.en: ¿i ké a*ci*ass loss do*min*goss?
+- Iba al Retiro con mis padres.
+  en: I went to the Retiro with my parents.
+  pron.en: *i*ba al ré*ti*ro con miss *pa*dréss.
+- ¿Y tenías móvil?
+  en: And did you have a mobile?
+  pron.en: ¿i té*ni*ass *mo*bil?
+- No, hija. No había móviles.
+  en: No, love. There weren't any mobiles.
+  pron.en: no, *i*Ha. no a*bi*a *mo*biléss.
+- Entonces, ¿cómo llamabas a la abuela?
+  en: So how did you ring Grandma?
+  pron.en: én*ton*céss, ¿*co*mo ya*ma*bass a la a*boué*la?
+- No la llamaba. Vivía en el piso de arriba.
+  en: I didn't ring her. She lived in the flat upstairs.
+  pron.en: no la ya*ma*ba. bi*bi*a én él *pi*sso dé a*rri*ba.
+
+sounds.en:
+1. The stress of a*ci*ass, a*bi*a and té*ni*ass falls on the í, which is a syllable of its own, so the vowels do not join.
+2. The ll of ya*ma*ba is the y of yes, the same sound as the y of ya in lesson 16: the two letters say one sound.
+
+notes.en:
+1. Era, iba, hacías, tenías: the imperfect, the past of description and habit, "was", "used to" and "was ... -ing". Era is ser and iba is ir; the others follow the regular endings.
+2. The endings: -aba for -ar verbs (llamaba, "rang" or "used to ring"), and -ía for -er and -ir verbs (tenía, vivía, hacía). In -ía the í is stressed and is a syllable of its own; in -aba the stress falls on the first a: ya*ma*ba.
+3. Había is the imperfect of hay, one form for "there was" and "there were", as hay is one form for "there is" and "there are" in lesson 8.
+4. Más pequeño is "smaller", and tantos coches is "so many cars": tanto agrees with the noun, so it becomes tantos with the plural coches.
+5. Padres means "parents", not "fathers": the word for father is padre.
+6. Hija is "daughter", but it is also said as a fond address to a granddaughter or a young woman, as here.
+7. The other past, the one for an event that happened once, is the preterite, and it comes in lesson 29.
+
+ex1:
+- Antes había muchas personas.
+  en: There used to be lots of people.
+- Iba al Retiro los domingos.
+  en: I went to the Retiro on Sundays.
+- Mi abuela vivía en Madrid.
+  en: My grandmother lived in Madrid.
+- No tenías móvil.
+  en: You didn't have a mobile.
+- Era más pequeño.
+  en: It was smaller.
+
+ex2:
+- Abuelo, ¿cómo [era] Madrid antes?
+  en: Grandad, what was Madrid like before?
+- No [había] móviles.
+  en: There weren't any mobiles.
+- Vivía en el piso de [arriba].
+  en: She lived in the flat upstairs.
+- Iba al Retiro con mis [padres].
+  en: I went to the Retiro with my parents.
+- Yo la [llamaba] a las nueve.
+  en: I rang her at nine.
+
+culture.en:
+El Retiro was a royal park and was opened to the public in 1868, with a lake where you can row a boat and the Palacio de Cristal, the Crystal Palace.
+
+== 18 A1
+numeral: Lección dieciocho
+numeral.pron.en: lék*cion* dié*cio*tcho
+title: Se lo he dicho
+title.en: I've told her
+
+dialogue:
+- ¿Has visto a Marta hoy?
+  en: Have you seen Marta today?
+  pron.en: ¿ass *biss*to a *mar*ta oï?
+- Sí, la he visto esta mañana.
+  en: Yes, I saw her this morning. (Yes, her I have seen this morning.)
+  pron.en: si, la é *biss*to *éss*ta ma*gna*na.
+- ¿Le has dado el informe?
+  en: Have you given her the report?
+  pron.en: ¿lé ass *da*do él in*for*mé?
+- Sí, se lo he dado.
+  en: Yes, I've given it to her.
+  pron.en: si, sé lo é *da*do.
+- ¿Y le has dicho que es para el jefe?
+  en: And have you told her it's for the boss?
+  pron.en: ¿i lé ass *di*tcho ké éss *pa*ra él *Hé*fé?
+- Sí, se lo he dicho.
+  en: Yes, I've told her so.
+  pron.en: si, sé lo é *di*tcho.
+- ¿Y qué ha dicho?
+  en: And what did she say?
+  pron.en: ¿i ké a *di*tcho?
+- Nada. Lo ha leído y se lo ha llevado.
+  en: Nothing. She read it and took it away.
+  pron.en: *na*da. lo a lé*i*do i sé lo a yé*ba*do.
+- ¿Y no se lo ha dado al jefe?
+  en: And hasn't she given it to the boss?
+  pron.en: ¿i no sé lo a *da*do al *Hé*fé?
+- No. La jefa es ella.
+  en: No. She's the boss. (No. The boss is she.)
+  pron.en: no. la *Hé*fa éss *é*ya.
+
+sounds.en:
+1. The ch of dicho is the tch of church: *di*tcho.
+2. The h of hoy and the h of he are silent: the word starts on the vowel, as in hablo in lesson 5.
+
+notes.en:
+1. The perfect: he, has, ha, hemos, habéis, han, then the participle: he visto, he dado, he leído. Regular participles end in -ado for -ar verbs (dado, llevado) and -ido for -er verbs (leído).
+2. Some participles are irregular: visto (from ver, to see) and dicho (from decir, to say). You will meet more of them in the revision lesson.
+3. Spanish uses the perfect for today and this morning, while the time is still going: esta mañana, "this morning". Mañana on its own is also "tomorrow", and that is a trap for the English speaker. Yesterday takes the other past, which comes in lesson 29.
+4. La is "her" and lo is "him" or "it": la he visto, I've seen her; lo ha leído, she has read it. Informe is a masculine word, so the it of the report is lo, not la.
+5. Le is "to her", and le plus lo becomes se lo: se lo he dado, I've given it to her. The le changes to se before lo, so the two sounds do not come together.
+6. A before a person: ¿has visto a Marta? The a has no sense in English; it marks Marta as the person who is seen.
+7. La jefa es ella: a woman who is the boss is la jefa. The subject pronoun is usually dropped, so ella is said only to stress the person: she, and nobody else.
+
+ex1:
+- ¿Has visto a Marta?
+  en: Have you seen Marta?
+- He dado el informe.
+  en: I've given the report.
+- Lo he leído.
+  en: I've read it.
+- Nada, gracias.
+  en: Nothing, thanks.
+- Es para el jefe.
+  en: It's for the boss.
+
+ex2:
+- ¿Has [visto] a Marta hoy?
+  en: Have you seen Marta today?
+- Sí, la he [visto] esta mañana.
+  en: Yes, I've seen her this morning.
+- ¿Le has [dado] el informe?
+  en: Have you given her the report?
+- Sí, [se] lo he dicho.
+  en: Yes, I've told her so.
+- Lo ha [leído] y se lo ha llevado.
+  en: She has read it and taken it away.
+
+aside.en:
+When you have read a sentence, see if you can say it again without looking: that is how you begin to think in Spanish.
+
+== 19 A1
+numeral: Lección diecinueve
+numeral.pron.en: lék*cion* diéci*noué*bé
+title: ¿Te gusta el cine?
+title.en: Do you like the cinema?
+
+dialogue:
+- ¿Te gusta el cine?
+  en: Do you like the cinema?
+  pron.en: ¿té *gouss*ta él *ci*né?
+- Me encanta. ¿Y a ti?
+  en: I love it. And you?
+  pron.en: mé én*can*ta. ¿i a ti?
+- A mí también. ¿Te gustan las películas de miedo?
+  en: Me too. Do you like horror films?
+  pron.en: a mi tam*bién*. ¿té *gouss*tan lass pé*li*coulass dé *mié*do?
+- No, no me gustan nada.
+  en: No, I don't like them at all.
+  pron.en: no, no mé *gouss*tan *na*da.
+- ¿Y las comedias?
+  en: And comedies?
+  pron.en: ¿i lass co*mé*diass?
+- Tampoco.
+  en: Not those either. (Neither.)
+  pron.en: tam*po*co.
+- Entonces, ¿qué te gusta?
+  en: So what do you like?
+  pron.en: én*ton*céss, ¿ké té *gouss*ta?
+- Las películas largas, en blanco y negro, en sueco...
+  en: Long films, in black and white, in Swedish...
+  pron.en: lass pé*li*coulass *lar*gass, én *blan*co i *né*gro, én *soué*co...
+- ¿Con subtítulos?
+  en: With subtitles?
+  pron.en: ¿con soub*ti*touloss?
+- No, sin subtítulos. Así duermo mejor.
+  en: No, without subtitles. That way I sleep better.
+  pron.en: no, sin soub*ti*touloss. a*ssi* *douér*mo mé*Hor*.
+
+sounds.en:
+1. The g of gusta is hard, as the g of go, and not the H of Javier in lesson 2.
+2. The s of sueco is said s, never z, as in lesson 1, and the ue is said as in huevo in lesson 15: *soué*co.
+
+notes.en:
+1. Gustar turned round: me gusta el cine means "the cinema pleases me". The thing liked is the subject, so the verb agrees with it: me gusta el cine, but me gustan las películas.
+2. Me encanta works the same way, and it is stronger: "it enchants me", which in English is "I love it".
+3. A mí and a ti say who is meant, to stress it: ¿y a ti? is "and you?". A mí también is the answer "me too".
+4. También, "too, also", follows a yes; tampoco, "not ... either", follows a no: a mí también, "me too"; tampoco, "not those either".
+5. No ... nada: Spanish needs both no and nada round the verb, where English says "I don't like them at all".
+6. Dormir changes its o to ue: duermo, "I sleep". The o stays in nosotros and vosotros: dormimos, dormís.
+
+culture.en:
+In Spain most foreign films are dubbed into Spanish, dobladas, but the bigger cities also have cinemas that show the versión original, VO, with subtitles.
+
+ex1:
+- Me gusta el café.
+  en: I like coffee.
+- ¿Te gusta la tostada?
+  en: Do you like toast?
+- A mí no me gusta el tomate.
+  en: I don't like tomato.
+- Me encanta esto.
+  en: I love this.
+- Duermo bien los domingos.
+  en: I sleep well on Sundays.
+
+ex2:
+- Me [gusta] el cine.
+  en: I like the cinema.
+- Me [gustan] las comedias.
+  en: I like comedies.
+- A mí [también].
+  en: Me too.
+- No me gustan [nada].
+  en: I don't like them at all.
+- Así [duermo] mejor.
+  en: That way I sleep better.
+
+== 20 A1
+numeral: Lección veinte
+numeral.pron.en: lék*cion* *béïn*té
+title: Me duele la cabeza
+title.en: I've got a headache
+
+dialogue:
+- Buenos días, doctora.
+  en: Good morning, Doctor.
+  pron.en: *boué*noss *di*ass, doc*to*ra.
+- Buenos días. ¿Qué le pasa?
+  en: Good morning. What's the matter?
+  pron.en: *boué*noss *di*ass. ¿ké lé *pa*ssa?
+- Me duele la cabeza y me duele la garganta.
+  en: My head hurts, and my throat hurts.
+  pron.en: mé *doué*lé la ca*bé*ça i mé *doué*lé la gar*gan*ta.
+- ¿Tiene fiebre?
+  en: Have you got a temperature?
+  pron.en: ¿*tié*né *fié*bré?
+- Un poco. Y estoy muy constipado.
+  en: A little. And I've got a bad cold.
+  pron.en: oun *po*co. i éss*toï* moui conssti*pa*do.
+- Es un resfriado. Tiene que descansar y beber mucha agua.
+  en: It's a cold. You have to rest and drink lots of water.
+  pron.en: éss oun réss*fria*do. *tié*né ké désscan*ssar* i bé*bér* *mou*tcha *a*goua.
+- ¿Puedo ir a trabajar?
+  en: Can I go to work?
+  pron.en: ¿*poué*do ir a traba*Har*?
+- ¿Quiere ir a trabajar?
+  en: Do you want to go to work?
+  pron.en: ¿*kié*ré ir a traba*Har*?
+- No.
+  en: No.
+  pron.en: no.
+- Entonces no puede.
+  en: Then you can't.
+  pron.en: én*ton*céss no *poué*dé.
+
+sounds.en:
+1. The g of garganta is the hard g of go: gar*gan*ta, and the stress falls on gan.
+2. The r at the start of resfriado is rolled, though it is written as one r: réss*fria*do.
+
+notes.en:
+1. Me duele la cabeza: doler works like gustar, so the thing that hurts is the subject, "the head hurts me". With a plural it is me duelen, as in me duelen los pies.
+2. The part of the body takes el or la, not "my": me duele la cabeza, "my head hurts". Spanish does not need the "my" for the body.
+3. ¿Qué le pasa?: with usted, le means "you", and pasar is "happen": "what is happening to you?", which in English is "what's the matter?".
+4. Tener fiebre: tener, "to have", is used for fever, as it is for age in lesson 13.
+5. Tiene que descansar: tener que with an infinitive is "have to", as in lesson 9, where tengo que estar meant "I have to be".
+6. Constipado means "with a cold". The English word "constipated" is estreñido, a false friend to avoid.
+7. El agua: agua is a feminine word, but it takes el in the singular, because the a is stressed. The adjective stays feminine, so it is mucha agua.
+
+culture.en:
+In Spain the family doctor is the médico de cabecera, and you see them at the centro de salud, the local health centre.
+
+ex1:
+- No me duele nada.
+  en: Nothing hurts.
+- No tengo fiebre.
+  en: I haven't got a temperature.
+- Tengo que descansar.
+  en: I have to rest.
+- Puedo beber agua.
+  en: I can drink water.
+- No puedo ir hoy.
+  en: I can't go today.
+
+ex2:
+- ¿Te [duele] la cabeza?
+  en: Does your head hurt?
+- ¿Qué le [pasa]?
+  en: What's the matter?
+- Es un [resfriado].
+  en: It's a cold.
+- Tiene que [descansar].
+  en: You have to rest.
+- ¿Tiene [fiebre]?
+  en: Have you got a temperature?
+
+== 21 A1
+kind: revision
+numeral: Lección veintiuna
+numeral.pron.en: lék*cion* béïn*tiou*na
+title: Revisión y notas
+title.en: Revision and notes
+
+dialogue:
+- ¿Mamá? ¿Pasa algo?
+  en: Mum? Is something wrong?
+  pron.en: ¿ma*ma*? ¿*pa*ssa *al*go?
+  refs: 16 20 1
+- No. ¿Ya te has levantado?
+  en: No. Have you got up yet?
+  pron.en: no. ¿ya té ass léban*ta*do?
+  refs: 16 2 18
+- Sí, me he levantado a las ocho.
+  en: Yes, I got up at eight. (Yes, I have got up at eight.)
+  pron.en: si, mé é léban*ta*do a lass *o*tcho.
+  refs: 16 18 9
+- ¿Y te has duchado?
+  en: And have you had a shower?
+  pron.en: ¿i té ass dou*tcha*do?
+  refs: 18 16
+- Sí, me he duchado.
+  en: Yes, I've had a shower.
+  pron.en: si, mé é dou*tcha*do.
+  refs: 18 16
+- ¿Has desayunado?
+  en: Have you had breakfast?
+  pron.en: ¿ass déssayou*na*do?
+  refs: 18 16
+- Sí, he desayunado. Dos tostadas con tomate.
+  en: Yes, I've had breakfast. Two [slices of] toast with tomato.
+  pron.en: si, é déssayou*na*do. doss toss*ta*dass con to*ma*té.
+  refs: 18 16 6 1
+- ¿Y has estudiado?
+  en: And have you studied?
+  pron.en: ¿i ass ésstou*dia*do?
+  refs: 18 5
+- Sí, toda la mañana.
+  en: Yes, all morning.
+  pron.en: si, *to*da la ma*gna*na.
+  refs: 12 6
+- ¿Y te duele la cabeza?
+  en: And does your head hurt?
+  pron.en: ¿i té *doué*lé la ca*bé*ça?
+  refs: 2 20
+- No, no me duele nada.
+  en: No, nothing hurts.
+  pron.en: no, no mé *doué*lé *na*da.
+  refs: 4 20
+- Estoy en tu piso. Y tú no estás.
+  en: I'm in your flat. And you're not.
+  pron.en: éss*toï* én tou *pi*sso. i tou no éss*tass*.
+  refs: 3 4 13 12
+
+notes.en:
+Six lessons have gone by, and nothing in them has to be learnt by heart. This lesson is not a test: it puts in order what you have already read, heard and said. If a part seems too much, go on; it will come back in the lessons ahead, a little clearer each time. Doubts are normal, and every table here is a reminder rather than a rule to memorise.
+
+1. Object pronouns (lessons 15, 18, 19). They go before the conjugated verb, and they join on to an infinitive or a command.
+
+| Pronoun | Meaning | Example |
+|---|---|---|
+| me | me | ¿Puedes traerme pan? (15) |
+| te | you (tú) | ¿Te gusta el cine? (19) |
+| lo | him, or it (masculine) | lo ha leído (18) |
+| la | her, or it (feminine) | la he visto (18) |
+| le | to him, to her, to you (usted) | ¿Le has dado el informe? (18) |
+| nos | us | |
+| os | you all (Spain) | |
+| los | them (masculine) | |
+| las | them (feminine) | |
+| les | to them | |
+
+Le plus lo becomes se lo: se lo he dado, "I've given it to her" (18). Joined: dímelo (15), levántate (16).
+
+2. Reflexive verbs (lesson 16). The pronoun comes back to the subject, and it goes before the verb. Levantarse in the present: me levanto, te levantas, se levanta, nos levantamos, os levantáis, se levantan. Ducharse and vestirse follow the same pattern: me ducho (16), me visto (16), and vestirse changes its e to i.
+
+3. The tú command (lessons 15, 16). For -ar verbs, the command is the tú form without its s: levantas becomes levanta, and mirar's miras becomes mira (15). The command di, "tell", is irregular, and with the pronouns it becomes dímelo (15). With a pronoun joined, a written accent keeps the stress where it was: levanta, levántate (16).
+
+4. The imperfect (lesson 17). The regular endings are these: -aba for -ar verbs and -ía for -er and -ir verbs. The imperfect means "was", "used to" and "was ... -ing".
+
+| Person | llamar | tener | ser | ir | ver |
+|---|---|---|---|---|---|
+| I | llamaba | tenía | era | iba | veía |
+| you (tú) | llamabas | tenías | eras | ibas | veías |
+| he, she, you (usted) | llamaba | tenía | era | iba | veía |
+| we | llamábamos | teníamos | éramos | íbamos | veíamos |
+| you (all, Spain) | llamabais | teníais | erais | ibais | veíais |
+| they, you (all) | llamaban | tenían | eran | iban | veían |
+
+Había is the imperfect of hay, one form for "there was" and "there were" (17). Vivía (17) and tenías (17) follow the same endings.
+
+5. The perfect (lessons 18, 21). Haber in full: he, has, ha, hemos, habéis, han, then the participle. The participle is -ado for -ar verbs (dado, llevado) and -ido for -er verbs (leído). The irregular participles met so far are visto (from ver) and dicho (from decir): he visto (18), se lo he dicho (18).
+
+6. Gustar, encantar and doler (lessons 19, 20). The thing that pleases or hurts is the subject, so the verb agrees with it.
+
+| | gustar | encantar | doler |
+|---|---|---|---|
+| one thing | me gusta | me encanta | me duele |
+| more than one | me gustan | me encantan | me duelen |
+
+With a mí, a ti, a él, a ella, a usted, a nosotros, a vosotros and a ellos, the person is named to stress it: a mí también (19), ¿y a ti? (19). The pronoun le goes with a él, a ella and a usted; les goes with a ellos and a ellas.
+
+7. Tener que and hay que (lessons 9, 20). Tener que with an infinitive is "have to": tengo que estar (9), tiene que descansar (20). Hay que, "one must", is one form with no subject: hay que descansar, "you have to rest".
+
+The week closes here: the forms of these six lessons come back in every lesson that follows, and each time they come a little more easily.

@@ -1,812 +1,143 @@
 course: es
 stage: foundation
-bases: it
+bases: en
 name: Spanish – Foundation (A1 → B2)
 name.it: Spagnolo – Fondamenti (A1 → B2)
 name.en: Spanish – Foundation (A1 → B2)
 name.es: Español – Fundamentos (A1 → B2)
 
 == 1 A1
-title: Un vecino nuevo
-title.it: Un vicino nuovo
 numeral: Lección primera
-numeral.pron.it: lecthióm priméra
+numeral.pron.en: lék*cion* pri*mé*ra
+title: En el bar
+title.en: At the bar
 
 dialogue:
-- Buenos días. Perdona, ¿vives aquí?
-  it: Buongiorno (buoni giorni). Scusa (perdona), abiti qui?
-  pron.it: buénos dìas. perdóna, bìbes achì?
-- Sí, vivo en el tercero. Me llamo Lucía. ¿Y tú?
-  it: Sì, abito al terzo piano (vivo nel terzo). Mi chiamo Lucía. E tu?
-  pron.it: si, bìbo en el terthéro. me jàmo luthìa. i tu?
-- Yo soy Marco. Soy italiano, de Bolonia.
-  it: Io sono Marco. Sono italiano, di Bologna.
-  pron.it: jo soi màrco. soi italiàno, de bolónia.
-- ¡Encantada, Marco! ¿Y qué tal Madrid?
-  it: Piacere (incantata), Marco! E come ti trovi a Madrid (e che tale Madrid)?
-  pron.it: encantàda, màrco! i che tal madrìd?
-- Muy bien, pero no hablo bien español.
-  it: Molto bene, ma non parlo bene lo spagnolo.
-  pron.it: mui bien, péro no àblo bien espagnól.
-- ¡Hablas muy bien, hombre! ¿Y vives en el segundo?
-  it: Parli molto bene, dai (uomo)! E abiti al secondo piano?
-  pron.it: àblas mui bien, ómbre! i bìbes en el segùndo?
-- Sí, en el segundo B. Bueno, hasta luego, Lucía.
-  it: Sì, al secondo, porta B. Be' (buono), a dopo (fino a poi), Lucía.
-  pron.it: si, en el segùndo be. buéno, àsta luégo, luthìa.
-- ¡Hasta luego! ¡Y bienvenido al barrio!
-  it: A dopo! E benvenuto nel quartiere!
-  pron.it: àsta luégo! i biembenìdo al bàrrio!
+- ¡Buenos días!
+  en: Good morning! (Good days!)
+  pron.en: ¡*boué*noss *di*ass!
+- Buenos días. ¿Qué le pongo?
+  en: Good morning. What can I get you? (What [for] you do I put?)
+  pron.en: *boué*noss *di*ass. ¿ké lé *pon*go?
+- Un café con leche, por favor.
+  en: A white coffee, please. (A coffee with milk, for favour.)
+  pron.en: oun ca*fé* con *lé*tché, por fa*bor*.
+- ¿Algo más?
+  en: Anything else? (Something more?)
+  pron.en: ¿*al*go mass?
+- Sí, una tostada con tomate.
+  en: Yes, a [slice of] toast with tomato.
+  pron.en: si, *ou*na toss*ta*da con to*ma*té.
+- Aquí tiene.
+  en: Here you are. (Here [you] have.)
+  pron.en: a*ki* *tié*né.
+- Muchas gracias.
+  en: Thank you very much. (Many thanks.)
+  pron.en: *mou*tchass *gra*ciass.
 
-sounds.it:
-1. Sotto ogni frase del dialogo trovi la pronuncia figurata: leggila con le
-   regole dell'italiano. L'accento segna la sillaba su cui cade la voce, in ogni
-   parola di due o più sillabe: buénos dìas, perdóna, bìbes achì. Sulla e e
-   sulla o è sempre acuto (é, ó), perché in spagnolo sono vocali chiuse, come
-   in sera e sole. Le parole di una sillaba non hanno accento: si, tu, de, mui.
-2. La h non si pronuncia mai: hombre, hasta luego, hablo si dicono ómbre, àsta
-   luégo, àblo, e nella pronuncia figurata la h non c'è. La v si pronuncia come
-   la b: vives, vivo → bìbes, bìbo. Davanti a b, v e p la n diventa m, anche tra
-   due parole: bienvenido → biembenìdo, en Bolonia → em bolónia.
-3. La ll, e la y davanti a vocale, suonano come la i di ieri, ma più tesa, con
-   la lingua che quasi sfrega il palato: nella pronuncia figurata si scrivono j.
-   Me llamo → me jàmo, yo → jo. La y che vuol dire "e", e la y in fondo alla
-   parola, si leggono i: y tú → i tu, soy → soi, muy → mui.
+sounds.en:
+1. Under each sentence you find the figured pronunciation: read it as if it were English, with the conventions of the pronunciation guide. The syllable that carries the stress is in bold, in every word of two or more syllables; words of one syllable have none. Every e is written é, so that you never leave it silent, and u is written ou, as in soup: *boué*noss *di*ass.
+2. Spanish vowels are short and clear, and they never change: an unstressed vowel keeps its full sound and is never swallowed into the "uh" of English. Leche is *lé*tché and tomate is to*ma*té, with the last é sounded. An s is always the s of see, never the z of rose, so the figured line writes ss inside a word: *mou*tchass.
+3. In Madrid a c before e or i is said with the tongue between the teeth, like the th of think: gracias is *gra*ciass. The v of favor is a b (fa*bor*), and the r is a single quick tap of the tongue, like the tt of "better" said fast.
 
-notes.it:
-1. Perdona, ¿vives aquí?: perdona (scusa) è la forma del tú; a una persona a cui
-   si dà del lei si dice perdone. Le domande si aprono con ¿ e si chiudono con ?,
-   le esclamazioni si aprono con ¡ e si chiudono con !.
-2. Vives, vivo, hablo, hablas: presente di vivir (vivere, abitare) e di hablar
-   (parlare). I verbi in -ir come vivir fanno vivo, vives, vive; quelli in -ar
-   come hablar fanno hablo, hablas, habla. Come in italiano, il pronome soggetto
-   di solito si omette; in Yo soy Marco il pronome yo serve a fare contrasto
-   (lei è Lucía, io sono Marco). La negazione no va davanti al verbo: no hablo
-   bien español.
-3. Soy italiano, de Bolonia: soy (sono) viene da ser, essere. Per dire da dove
-   si viene si usa ser de, come il nostro "essere di": soy de Bolonia.
-4. Me llamo Lucía corrisponde a "mi chiamo Lucía". ¡Encantada! (incantata) è il
-   nostro "piacere!" e concorda con chi parla: Lucía dice encantada, Marco
-   direbbe encantado.
-5. ¡Hablas muy bien, hombre!: hombre (uomo) come esclamazione vuol dire più o
-   meno "dai, ma va", e si dice anche a una donna. Bueno all'inizio della frase
-   significa "be', allora", non "buono".
-6. En el tercero, en el segundo B: in Spagna l'indirizzo indica piano e porta:
-   el tercero (il terzo piano), el segundo B (secondo piano, porta B), che si
-   scrive 2.º B. In bienvenido al barrio, al è a + el (a il).
+notes.en:
+1. Buenos días: good morning, literally "good days", in the plural. It is said until lunch, which in Spain is at about two o'clock, so the Spanish morning is a long one. The afternoon greeting comes later in the course.
+2. ¿Qué le pongo?: what the barman says to every customer, literally "what [for] you do I put?". Notice the upside-down question mark: Spanish opens every question with ¿ and every exclamation with ¡, so that you know from the first word how the sentence will sound.
+3. Un café con leche: every Spanish noun is either masculine or feminine, and "a" is un before a masculine noun and una before a feminine one: un café, una tostada. Most nouns ending in -o are masculine and most ending in -a feminine, but café shows there are others: learn each noun with its un or una. A café con leche is half coffee, half hot milk: the Spanish white coffee.
+4. Por favor: please, literally "for favour". It can go at the end of the sentence, as here, or at the beginning.
+5. ¿Algo más?: anything else? Algo means "something" or "anything", and más means "more". Más carries a written accent, which also tells you where the stress falls when a word has more than one syllable.
+6. Aquí tiene: here you are, literally "here [you] have". The barman does not say "you": the ending of the verb is enough, and Spanish usually leaves the person out. We will come back to this in the next lesson. Aquí, here, is stressed on its last syllable, as its written accent shows: a*ki*.
+7. Muchas gracias: thank you very much, literally "many thanks". Mucho, "much, many", agrees with its noun: gracias is feminine and plural, so it becomes muchas.
 
 ex1:
-- ¿Vives en Madrid?
-  it: Abiti a Madrid?
-- Buenos días, Lucía. ¿Qué tal?
-  it: Buongiorno, Lucía. Come va (che tale)?
-- Me llamo Marco y vivo en el segundo.
-  it: Mi chiamo Marco e abito al secondo piano.
-- Soy italiano, pero vivo en Madrid.
-  it: Sono italiano, ma abito a Madrid.
-- Lucía, ¿hablas italiano?
-  it: Lucía, parli italiano?
+- ¡Buenos días!
+  en: Good morning!
+- Un café, por favor.
+  en: A coffee, please.
+- ¿Algo más?
+  en: Anything else?
+- Una tostada con tomate.
+  en: Toast with tomato.
+- Aquí tiene.
+  en: Here you are.
 
 ex2:
-- [Me] [llamo] Marco y soy de Bolonia.
-  it: Mi chiamo Marco e sono di Bologna.
-- Lucía [vive] en el [tercero].
-  it: Lucía abita al terzo piano.
-- ¿[Vives] [aquí]?
-  it: Abiti qui?
-- No [hablo] bien [español].
-  it: Non parlo bene lo spagnolo.
-- ¡Hasta [luego]! ¡[Bienvenido] al barrio!
-  it: A dopo! Benvenuto nel quartiere!
+- [Buenos] [días].
+  en: Good morning.
+- Un café [con] [leche], por favor.
+  en: A coffee with milk, please.
+- ¿[Algo] [más]?
+  en: Anything else?
+- [Muchas] [gracias].
+  en: Thank you very much.
 
-culture.it:
-In Spagna buenos días si dice fino all'ora di pranzo, cioè fin verso le due;
-poi si passa a buenas tardes, che vale per tutto il pomeriggio, e verso sera,
-quando fa buio o si va a cena, a buenas noches, che serve sia per salutare
-sia per augurare la buonanotte. Tra vicini e tra persone giovani si passa
-subito al tú, anche senza conoscersi: Marco e Lucía se lo danno fin dalla
-prima frase.
+culture.en:
+Many Spaniards have breakfast at the bar, standing at the counter on the way to work or in a break in the middle of the morning. The classic order is the one in the dialogue: a café con leche and a tostada, a slice of toasted bread with grated tomato and olive oil, or with butter and jam. A small black coffee is un café solo, and a cortado is a black coffee "cut" with a dash of milk. Nobody minds a short order: two or three words and por favor are polite enough, and you usually pay at the end, at the counter. To ask how much it is, say: ¿Cuánto es?
 
 == 2 A1
-title: Un café en el bar de Carmen
-title.it: Un caffè al bar di Carmen
 numeral: Lección segunda
-numeral.pron.it: lecthión segùnda
+numeral.pron.en: lék*cion* sé*goun*da
+title: ¿Cómo te llamas?
+title.en: What's your name?
 
 dialogue:
-- ¡Buenos días, Carmen! Mira, este es Marco, el vecino nuevo.
-  it: Buongiorno, Carmen! Guarda (mira), questo è Marco, il nuovo vicino.
-  pron.it: buénos dìas, càrmen! mìra, éste es màrco, el bethìno nuébo.
-- ¡Hola, guapo! ¿Qué te pongo?
-  it: Ciao, bello! Cosa ti porto (cosa ti metto)?
-  pron.it: óla, guàpo! che te póngo?
-- Un café con leche, por favor. Y una tostada con tomate.
-  it: Un caffellatte (caffè con latte), per favore. E una fetta di pane tostato con pomodoro.
-  pron.it: un café con léce, por fabór. i ùna tostàda con tomàte.
-- ¿Y para ti, Lucía? ¿Lo de siempre?
-  it: E per te, Lucía? Il solito (quello di sempre)?
-  pron.it: i pàra ti, luthìa? lo de siémpre?
-- Sí, un cortado. Hoy tengo mucha prisa.
-  it: Sì, un macchiato (un tagliato). Oggi ho molta fretta.
-  pron.it: si, un cortàdo. oi téngo mùcia prìsa.
-- ¿Cuánto es, Carmen?
-  it: Quant'è, Carmen?
-  pron.it: cuànto es, càrmen?
-- Son cuatro euros con cincuenta. Hoy invita la casa... ¡Es broma!
-  it: Sono quattro euro e cinquanta (con cinquanta). Oggi offre (invita) la casa... Scherzo (è scherzo)!
-  pron.it: son cuàtro éuros con thincuénta. oi imbìta la càsa... es bróma!
-- ¡Qué graciosa! Toma, y gracias.
-  it: Che spiritosa (che graziosa)! Tieni (prendi), e grazie.
-  pron.it: che grathiósa! tóma, i gràthias.
+- Hola. ¿Cómo te llamas?
+  en: Hello. What's your name? (How yourself do [you] call?)
+  pron.en: *o*la. ¿*co*mo té *ya*mass?
+- Me llamo Fiona. ¿Y tú?
+  en: My name is Fiona. (Myself [I] call Fiona.) And you?
+  pron.en: mé *ya*mo *fio*na. ¿i tou?
+- Yo soy Javier. ¿Eres inglesa?
+  en: I'm Javier. Are [you] English?
+  pron.en: yo soï Ha*biér*. ¿*é*réss in*glé*ssa?
+- No, soy escocesa. De Edimburgo.
+  en: No, I'm Scottish. From Edinburgh.
+  pron.en: no, soï éssco*cé*ssa. dé édim*bour*go.
+- Yo soy de aquí, de Madrid.
+  en: I'm from here, from Madrid.
+  pron.en: yo soï dé a*ki*, dé ma*drid*.
+- Encantada.
+  en: Pleased to meet you. (Delighted, said by a woman.)
+  pron.en: éncan*ta*da.
+- Encantado.
+  en: Pleased to meet you. (Delighted, said by a man.)
+  pron.en: éncan*ta*do.
 
-sounds.it:
-1. La c davanti a e, i e la z si pronunciano con la punta della lingua tra i
-   denti, soffiando, senza voce, come il th inglese di think: nella pronuncia
-   figurata th. Gracias → gràthias, cincuenta → thincuénta, graciosa →
-   grathiósa; così anche Lucía → luthìa e tercero → terthéro. In America
-   Latina, alle Canarie e in parte dell'Andalusia questo suono è una semplice s
-   (seseo).
-2. Il ch spagnolo è la nostra c dolce: leche → léce, mucha → mùcia. Il suono
-   del nostro ch, invece, davanti a e e i si scrive qu, e la u non si sente:
-   ¿qué? → che, aquí → achì.
-3. La s è sempre sorda, come in sole, anche tra due vocali, dove in molte parti
-   d'Italia diventa sonora come in rosa: casa → càsa, prisa → prìsa, graciosa
-   → grathiósa.
+sounds.en:
+1. The j of Javier is a sound English does not have: a rough breath at the back of the throat, like the ch of Scottish loch. The figured line writes it H: Ha*biér*. Notice the v too, said b, as in lesson 1.
+2. The h of Spanish is always silent: hola is *o*la. The double l is said like the y of yes: llamas is *ya*mass, llamo *ya*mo.
+3. Remember the stress rule. Without a written accent, a word ending in a vowel, n or s is stressed on the next-to-last syllable: éssco*cé*ssa, *ya*mo. A word ending in any other consonant is stressed on the last: ma*drid*. A written accent breaks the rule and shows where the stress goes: *co*mo.
 
-notes.it:
-1. Mira, este es Marco: per presentare qualcuno si dice este es (questo è), o
-   esta es se è una donna. Mira (guarda) serve ad attirare l'attenzione.
-2. ¿Qué te pongo? (cosa ti metto?) è la domanda tipica di chi serve al bar. Si
-   risponde semplicemente Un café, por favor, oppure Ponme un café (mettimi un
-   caffè). Lo de siempre (quello di sempre) = il solito.
-3. Hoy tengo mucha prisa: tengo (ho) viene da tener, avere; tener prisa = avere
-   fretta. Mucho concorda con il nome come il nostro molto: mucha prisa, mucho
-   café.
-4. ¿Y para ti?: proprio al contrario dell'italiano, prima del verbo si usa te
-   (¿qué te pongo? = cosa ti porto?) e dopo una preposizione ti (para ti = per
-   te). "Per me" si dice para mí, con l'accento che lo distingue da mi (mio).
-5. Son cuatro euros con cincuenta: i prezzi si dicono con con, oppure solo
-   cuatro cincuenta. Hoy invita la casa = oggi offre la casa; ¡es broma! = è
-   uno scherzo, scherzo!
-6. ¡Qué graciosa!: falso amico. Gracioso, graciosa vuol dire spiritoso,
-   divertente; il nostro "grazioso" si dice mono o bonito. Guapo, guapa = bello,
-   bella: al bar è un modo affettuoso di rivolgersi al cliente. Toma (prendi) =
-   tieni, ecco.
-
-ex1:
-- Un cortado y una tostada, por favor.
-  it: Un macchiato e una fetta di pane tostato, per favore.
-- ¿Cuánto es el café con leche?
-  it: Quant'è il caffellatte?
-- Hola, Carmen. Lo de siempre, por favor.
-  it: Ciao, Carmen. Il solito (quello di sempre), per favore.
-- Carmen, este es Marco, de Bolonia.
-  it: Carmen, questo è Marco, di Bologna.
-- Hoy no tengo prisa.
-  it: Oggi non ho fretta.
-
-ex2:
-- ¿Qué te [pongo]?
-  it: Cosa ti porto?
-- Un café [con] leche, [por] favor.
-  it: Un caffellatte, per favore.
-- Son [cuatro] euros [con] cincuenta.
-  it: Sono quattro euro e (con) cinquanta.
-- Hoy [tengo] mucha [prisa].
-  it: Oggi ho molta fretta.
-- ¿Y [para] [ti], Lucía?
-  it: E per te, Lucía?
-
-culture.it:
-In Spagna il bar è il posto della colazione: molti ci prendono un caffè e
-qualcosa da mangiare prima del lavoro o a metà mattina. Il café con leche,
-servito in tazza o in bicchiere, è il più diffuso; il cortado somiglia al
-nostro macchiato e il café solo è l'espresso. Con il caffè si ordina spesso
-una tostada: pane tostato con olio d'oliva e pomodoro grattugiato, oppure con
-burro e marmellata.
-
-== 3 A1
-title: ¿Dónde está el mercado?
-title.it: Dov'è il mercato?
-numeral: Lección tercera
-numeral.pron.it: lecthión terthéra
-
-dialogue:
-- Lucía, una pregunta: ¿dónde está el mercado?
-  it: Lucía, una domanda: dov'è il mercato?
-  pron.it: luthìa, ùna pregùnta: dónde està el mercàdo?
-- Muy cerca, en la calle de al lado. ¿Vamos juntos?
-  it: Molto vicino, nella via accanto (di al lato). Andiamo insieme?
-  pron.it: mui thérca, en la càje de al làdo. bàmos khùntos?
-- Vale. ¿Y hay un supermercado también?
-  it: Va bene (vale). E c'è anche un supermercato?
-  pron.it: bàle. i ai un supermercàdo también?
-- Sí, hay dos: uno a la derecha, al lado del bar de Carmen, y otro enfrente del metro.
-  it: Sì, ce ne sono due: uno a destra, accanto al bar di Carmen, e un altro di fronte alla metro.
-  pron.it: si, ai dos: ùno a la derécia, al làdo del bar de càrmen, i ótro enfrénte del métro.
-- ¿Y el metro está lejos?
-  it: E la metro è lontana?
-  pron.it: i el métro està lékhos?
-- No, a cinco minutos andando. Mira, está allí, a la izquierda.
-  it: No, a cinque minuti a piedi (camminando). Guarda, è là, a sinistra.
-  pron.it: no, a thìnco minùtos andàndo. mìra, està ajì, a la ithchiérda.
-- ¡Perfecto! Me gusta mucho el barrio.
-  it: Perfetto! Il quartiere mi piace molto.
-  pron.it: perfécto! me gùsta mùcio el bàrrio.
-- A mí también. Bueno, ¿un café en el bar de Carmen primero?
-  it: Anche a me. Allora (buono), un caffè al bar di Carmen, prima?
-  pron.it: a mi también. buéno, un café en el bar de càrmem priméro?
-
-sounds.it:
-1. La j, e la g davanti a e, i, sono un suono aspirato e raschiato che nasce in
-   fondo alla gola, come il ch tedesco di Bach o la c aspirata toscana di "la
-   hasa": nella pronuncia figurata kh. Juntos → khùntos, lejos → lékhos.
-2. Come in italiano caro e carro, in spagnolo pero (ma) e perro (cane) sono due
-   parole diverse. La r semplice, tra vocali, prima di consonante e in fondo
-   alla parola, è una sola vibrazione: derecha → derécia, perfecto → perfécto,
-   primero → priméro. La rr vibra forte: barrio → bàrrio. Vibra forte anche la
-   r a inizio parola, o dopo l, n, s, anche se si scrive semplice: nella
-   pronuncia figurata rr, come in Roma → rróma. Nessuna r resta muta.
-3. La d tra due vocali è morbida: la lingua sfiora appena i denti, senza
-   chiudere del tutto: lado, mercado → làdo, mercàdo. In fondo alla parola si
-   sente appena: Madrid → madrìd. Nella pronuncia figurata si scrive comunque d.
-
-notes.it:
-1. ¿Dónde está el mercado? / Está allí: estar (stare, trovarsi) dice dove si
-   trova una cosa o una persona precisa: el mercado está cerca, el metro está
-   allí. Hay (c'è, ci sono), dal verbo haber, dice invece che qualcosa esiste,
-   ed è invariabile: hay un supermercado, hay dos. Non si dice "está un
-   supermercado".
-2. Al lado del bar: a + el diventa al e de + el diventa del: al lado del bar,
-   enfrente del metro, bienvenido al barrio (lezione 1). Con la non si fondono:
-   a la derecha, a la izquierda.
-3. ¿Vamos juntos?: vamos (andiamo) viene da ir, andare. Attenzione al falso
-   amico andando: andar vuol dire camminare, quindi a cinco minutos andando = a
-   cinque minuti a piedi. Juntos (insieme) concorda: due donne direbbero
-   juntas.
-4. Vale = va bene, d'accordo: lo sentirai continuamente in Spagna. Calle = via,
-   strada (la calle veneziana viene dalla stessa parola latina, callis,
-   sentiero). Cerca = vicino, lejos = lontano, enfrente de = di fronte a.
-5. Me gusta mucho el barrio: gustar funziona come piacere, e ciò che piace è il
-   soggetto (me gusta el barrio = mi piace il quartiere; con un plurale, me
-   gustan). A mí también = anche a me; al negativo, a mí tampoco = neanche a
-   me.
-6. El metro è maschile, perché è l'abbreviazione di el metropolitano; in
-   italiano diciamo invece la metro.
-
-ex1:
-- ¿Dónde está el bar de Carmen?
-  it: Dov'è il bar di Carmen?
-- Hay un supermercado a la izquierda.
-  it: C'è un supermercato a sinistra.
-- El metro no está lejos: está a cinco minutos.
-  it: La metro non è lontana: è a cinque minuti.
-- ¿Te gusta el barrio? A mí me gusta mucho.
-  it: Ti piace il quartiere? A me piace molto.
-- Vamos juntos al mercado.
-  it: Andiamo insieme al mercato.
-
-ex2:
-- El supermercado está a la [derecha].
-  it: Il supermercato è a destra.
-- [Hay] un mercado muy [cerca].
-  it: C'è un mercato molto vicino.
-- ¿[Dónde] [está] el mercado?
-  it: Dov'è il mercato?
-- [Vale], vamos [juntos].
-  it: Va bene, andiamo insieme.
-- El bar está al [lado] [del] mercado.
-  it: Il bar è accanto al mercato.
-
-== 4 A1
-title: En el mercado
-title.it: Al mercato
-numeral: Lección cuarta
-numeral.pron.it: lecthión cuàrta
-
-dialogue:
-- Buenos días. ¿Quién es el último?
-  it: Buongiorno. Chi è l'ultimo?
-  pron.it: buénos dìas. chien es el ùltimo?
-- Soy yo, hijo.
-  it: Sono io, caro (figlio).
-  pron.it: soi jo, ìkho.
-- ¡Hola, Lucía! ¿Qué te pongo hoy?
-  it: Ciao, Lucía! Cosa ti do (cosa ti metto) oggi?
-  pron.it: óla, luthìa! che te póngo oi?
-- Un kilo de naranjas y medio de tomates, por favor.
-  it: Un chilo di arance e mezzo (chilo) di pomodori, per favore.
-  pron.it: un chìlo de narànkhas i médio de tomàtes, por fabór.
-- Aquí tienes. ¿Algo más?
-  it: Ecco qua (qui hai). Qualcos'altro (qualcosa più)?
-  pron.it: achì tiénes. àlgo mas?
-- Nada más, gracias. ¿Y tú, Marco? ¿Quieres algo?
-  it: Nient'altro (niente più), grazie. E tu, Marco? Vuoi qualcosa?
-  pron.it: nàda mas, gràthias. i tu, màrco? chiéres àlgo?
-- Sí, quiero manzanas. ¿Cuánto cuestan?
-  it: Sì, vorrei (voglio) delle mele. Quanto costano?
-  pron.it: si, chiéro manthànas. cuànto cuéstan?
-- Dos euros el kilo. Son de Asturias, ¡buenísimas!
-  it: Due euro al chilo (il chilo). Sono delle Asturie, buonissime!
-  pron.it: dos éuros el chìlo. son de astùrias, buenìsimas!
-- Pues un kilo, por favor. ¡Me gusta mucho este mercado!
-  it: Allora un chilo, per favore. Mi piace molto questo mercato!
-  pron.it: pues un chìlo, por fabór. me gùsta mùcio éste mercàdo!
-
-sounds.it:
-1. In spagnolo l'accento scritto segue regole fisse. Le parole che finiscono per
-   vocale, n o s si appoggiano sulla penultima sillaba (naranjas, tomates,
-   cuestan, quieres); le altre sull'ultima (favor, Madrid, español). Quando una
-   parola non segue questa regola porta l'accento scritto: aquí, días, último,
-   buenísimas. Così, anche senza la pronuncia figurata, sai sempre dove cade la
-   voce.
-2. La k si trova solo in poche parole venute da altre lingue e si legge come la
-   nostra c dura: kilo si dice proprio come il nostro chilo, e nella pronuncia
-   figurata si scrive chìlo.
-
-notes.it:
-1. ¿Quién es el último? chiede chi è arrivato per ultimo, per mettersi in fila
-   dopo di lui (vedi la nota culturale). Si risponde Yo o Soy yo. Hijo, hija
-   (figlio, figlia) è un modo affettuoso con cui le persone più anziane si
-   rivolgono ai giovani.
-2. Quiero, quieres: presente di querer (volere): quiero, quieres, quiere,
-   queremos, queréis, quieren. Quando l'accento cade sulla radice la e diventa
-   ie; in queremos e queréis, accentate sulla desinenza, resta e. Allo stesso
-   modo in costar la o diventa ue: ¿cuánto cuesta? (singolare), ¿cuánto
-   cuestan? (plurale). Nei negozi quiero è normale e non suona scortese.
-3. Naranjas, tomates: il plurale si forma con -s dopo vocale (naranja, naranjas;
-   tomate, tomates) e con -es dopo consonante (el bar, los bares). Gli articoli
-   sono el, la al singolare e los, las al plurale. Dopo una quantità, come in
-   italiano, c'è solo de: un kilo de naranjas.
-4. Aquí tienes (qui hai) = ecco qua, quando si porge qualcosa. ¿Algo más?
-   (qualcosa più?) = qualcos'altro?; nada más (niente più) = nient'altro.
-5. Dos euros el kilo: il prezzo per unità vuole l'articolo (el kilo = al
-   chilo). Buenísimas: il superlativo in -ísimo funziona come il nostro -issimo
-   (buenísimo = buonissimo).
-6. Pues all'inizio della frase vuol dire "allora, be'": pues un kilo = allora
-   un chilo. Non confonderlo con "poi", che si dice luego o después. Manzana,
-   in Spagna, è la mela ma anche l'isolato, il blocco di case tra quattro
-   strade.
-
-ex1:
-- ¿Cuánto cuestan las naranjas?
-  it: Quanto costano le arance?
-- Quiero medio kilo de tomates, por favor.
-  it: Vorrei (voglio) mezzo chilo di pomodori, per favore.
-- Perdona, ¿quién es el último?
-  it: Scusa, chi è l'ultimo?
-- Las manzanas de Asturias son buenísimas.
-  it: Le mele delle Asturie sono buonissime.
-- Hoy no quiero naranjas: quiero manzanas.
-  it: Oggi non voglio arance: voglio mele.
-
-ex2:
-- ¿[Cuánto] [cuesta] el kilo de manzanas?
-  it: Quanto costa un chilo di mele?
-- Un kilo de [naranjas] y [medio] de tomates.
-  it: Un chilo di arance e mezzo di pomodori.
-- ¿Algo [más]? No, [nada] más, gracias.
-  it: Qualcos'altro? No, nient'altro, grazie.
-- Yo [quiero] manzanas, ¿y tú qué [quieres]?
-  it: Io voglio delle mele, e tu cosa vuoi?
-- ¿Quién es el [último]? Soy [yo].
-  it: Chi è l'ultimo? Sono io.
-
-culture.it:
-Nei mercati e nei piccoli negozi spagnoli spesso non ci sono numeri da
-prendere. Chi arriva chiede ¿quién es el último? (oppure ¿quién da la vez?),
-guarda bene chi ha risposto e passerà subito dopo: si dice pedir la vez,
-chiedere il turno. Molti quartieri di Madrid hanno il loro mercato coperto,
-con banchi di frutta, verdura, carne, pesce e formaggi. Le mele di Marco
-vengono dalle Asturie, nel nord, la regione del sidro: lì lo si versa
-dall'alto, con il braccio alzato, perché sbattendo nel bicchiere prenda aria
-e faccia un po' di schiuma.
-
-== 5 A1
-title: Mi hermano Andrés
-title.it: Mio fratello Andrés
-numeral: Lección quinta
-numeral.pron.it: lecthión chìnta
-
-dialogue:
-- ¡Marco! Ven, te presento a mi hermano Andrés.
-  it: Marco! Vieni, ti presento mio fratello Andrés.
-  pron.it: màrco! ben, te presénto a mi ermàno andrés.
-- ¡Hola, Marco! Por fin. Mi hermana habla mucho de ti.
-  it: Ciao, Marco! Finalmente (per fine). Mia sorella parla molto di te.
-  pron.it: óla, màrco! por fin. mi ermàna àbla mùcio de ti.
-- ¡Andrés! ¡Qué cosas dices!
-  it: Andrés! Ma che dici (che cose dici)!
-  pron.it: andrés! che cósas dìthes!
-- Encantado, Andrés. ¿Tú también vives en el barrio?
-  it: Piacere (incantato), Andrés. Anche tu abiti nel quartiere?
-  pron.it: encantàdo, andrés. tu tambiém bìbes en el bàrrio?
-- No, yo vivo en Alcalá de Henares, con mi mujer y mis dos hijos.
-  it: No, io abito ad Alcalá de Henares, con mia moglie (mia donna) e i miei due figli.
-  pron.it: no, jo bìbo en alcalà de enàres, con mi mukhér i mis dos ìkhos.
-- ¿Y cuántos años tienen?
-  it: E quanti anni hanno?
-  pron.it: i cuàntos àgnos tiénen?
-- La niña tiene seis años y el niño, tres. ¿Y tú? ¿Tienes hermanos?
-  it: La bambina ha sei anni e il bambino tre. E tu? Hai fratelli?
-  pron.it: la nìgna tiéne seis àgnos i el nìgno, tres. i tu? tiénes ermànos?
-- No, soy hijo único. Mis padres viven en Bolonia.
-  it: No, sono figlio unico. I miei genitori (padri) abitano a Bologna.
-  pron.it: no, soi ìkho ùnico. mis pàdres bìben em bolónia.
-- ¡Hola, familia! ¿Qué os pongo?
-  it: Ciao, famiglia! Cosa vi porto (cosa vi metto)?
-  pron.it: óla, famìlia! che os póngo?
-
-sounds.it:
-1. La ñ si legge come il nostro gn, solo un po' più breve: niña, niño, años →
-   nìgna, nìgno, àgnos.
-2. Siccome la h non si pronuncia, la parola che la precede si lega alla vocale
-   che segue: mis hijos → mis ìkhos, che si dice quasi mi-sì-khos; mi hermano →
-   mi ermàno.
-3. La n davanti a b, v e p diventa m anche tra due parole dette di seguito:
-   también vives → tambiém bìbes, viven en Bolonia → bìben em bolónia.
-
-notes.it:
-1. Te presento a mi hermano: quando il complemento oggetto è una persona, lo
-   spagnolo ci mette davanti la preposizione a (te presento a Andrés). Con le
-   cose non si usa: quiero manzanas.
-2. Mi hermano, mis padres: i possessivi davanti al nome sono mi, tu, su al
-   singolare e mis, tus, sus al plurale, e non vogliono mai l'articolo: mi
-   hermano = mio fratello, mis padres = i miei genitori.
-3. ¿Cuántos años tienen? / La niña tiene seis años: l'età si dice con tener,
-   come in italiano con avere: tengo, tienes, tiene, tenemos, tenéis, tienen.
-   Cuánto concorda con il nome: ¿cuántos años?, ¿cuántas manzanas? I numeri da
-   uno a dieci: uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez.
-4. ¡Qué cosas dices! (che cose dici!) si dice a chi ci mette in imbarazzo con
-   un complimento o una battuta; dices viene da decir, dire. Por fin =
-   finalmente, mentre finalmente in spagnolo vuol dire "alla fine, infine".
-5. La famiglia: mujer = donna, ma anche moglie (mi mujer = mia moglie); padres
-   = genitori; hermanos = fratelli, oppure fratelli e sorelle; hijos = figli,
-   maschi o in generale. Niño, niña = bambino, bambina.
-6. ¿Qué os pongo?: os è il "vi" di vosotros, il "voi" che in Spagna si usa con
-   più persone a cui si dà del tú.
-
-ex1:
-- Te presento a mis padres.
-  it: Ti presento i miei genitori.
-- ¿Cuántos años tiene Andrés?
-  it: Quanti anni ha Andrés?
-- Mi hermana habla mucho de Marco.
-  it: Mia sorella parla molto di Marco.
-- Andrés tiene dos hijos: un niño y una niña.
-  it: Andrés ha due figli: un bambino e una bambina.
-- ¿Tienes hermanos? Sí, una hermana.
-  it: Hai fratelli? Sì, una sorella.
-
-ex2:
-- Te [presento] [a] mi hermano Andrés.
-  it: Ti presento mio fratello Andrés.
-- La niña [tiene] seis [años].
-  it: La bambina ha sei anni.
-- No tengo hermanos: soy hijo [único].
-  it: Non ho fratelli: sono figlio unico.
-- ¡Hola, familia! ¿Qué [os] [pongo]?
-  it: Ciao, famiglia! Cosa vi porto?
-- Andrés vive con [su] [mujer] y sus dos hijos.
-  it: Andrés abita con sua moglie e i suoi due figli.
-
-culture.it:
-In Spagna ognuno ha due cognomi: di solito il primo è il primo cognome del
-padre e il secondo il primo cognome della madre, ma oggi i genitori possono
-scegliere l'ordine. Le donne non cambiano cognome quando si sposano. Così
-Lucía e Andrés, fratelli, hanno gli stessi due cognomi: Sanz Molina.
-
-== 6 A1
-title: El piso de Marco
-title.it: L'appartamento di Marco
-numeral: Lección sexta
-numeral.pron.it: lecthión séxta
-
-dialogue:
-- ¿Se puede? Mira, una planta para tu piso nuevo.
-  it: Permesso (si può)? Guarda, una pianta per il tuo appartamento nuovo.
-  pron.it: se puéde? mìra, ùna plànta pàra tu pìso nuébo.
-- ¡Qué detalle! Muchas gracias, Lucía. Pasa, pasa.
-  it: Che pensiero gentile (che dettaglio)! Grazie mille (molte grazie), Lucía. Entra (passa), entra.
-  pron.it: che detàje! mùcias gràthias, luthìa. pàsa, pàsa.
-- ¡Qué piso tan bonito, Marco!
-  it: Che bell'appartamento (che appartamento così bello), Marco!
-  pron.it: che pìso tam bonìto, màrco!
-- Es pequeño, pero tiene mucha luz. Mira, este es el salón y allí está la cocina.
-  it: È piccolo, ma ha molta luce. Guarda, questo è il soggiorno e lì c'è (sta) la cucina.
-  pron.it: es pechégno, péro tiéne mùcia luth. mìra, éste es el salón i ajì està la cothìna.
-- ¿Y el dormitorio?
-  it: E la camera da letto?
-  pron.it: i el dormitório?
-- Al fondo, al lado del baño. Pero todavía no tengo muchos muebles.
-  it: In fondo, accanto al bagno. Ma non ho ancora molti mobili.
-  pron.it: al fóndo, al làdo del bàgno. péro todabìa no téngo mùcios muébles.
-- Ya veo: una cama, una mesa, dos sillas... ¿Y no tienes lámpara?
-  it: Vedo (già vedo): un letto, un tavolo, due sedie... E non hai una lampada?
-  pron.it: ja béo: ùna càma, ùna mésa, dos sìjas... i no tiénes làmpara?
-- No, todavía no. ¿Hay tiendas de muebles por aquí?
-  it: No, non ancora. Ci sono negozi di mobili qui intorno (per qui)?
-  pron.it: no, todabìa no. ai tiéndas de muébles por achì?
-- Sí, pero para una lámpara bonita y barata, el Rastro, el domingo por la mañana.
-  it: Sì, ma per una lampada bella ed economica, il Rastro, domenica mattina (la domenica per la mattina).
-  pron.it: si, péro pàra ùna làmpara bonìta i baràta, el rràstro, el domìngo por la magnàna.
-
-sounds.it:
-1. La r a inizio parola vibra forte anche se si scrive semplice: Rastro →
-   rràstro.
-2. Anche in fondo alla parola la z si pronuncia th: luz → luth. Lo stesso suono
-   torna in cocina → cothìna.
-
-notes.it:
-1. Piso: in Spagna è l'appartamento (tu piso nuevo = il tuo appartamento
-   nuovo), ma anche il piano di un edificio (el segundo piso = il secondo
-   piano). Planta vuol dire pianta e anche piano: la planta baja è il piano
-   terra.
-2. ¿Se puede? (si può?) si dice affacciandosi a una porta, come il nostro
-   "permesso?". Pasa, pasa (passa, passa) = entra, entra: l'imperativo ripetuto
-   suona caloroso. ¡Qué detalle! (che dettaglio!) = che pensiero gentile.
-3. ¡Qué piso tan bonito!: per esclamare si usa qué + nome + tan + aggettivo
-   (letteralmente "che appartamento così bello!"), oppure qué + aggettivo
-   (¡qué bonito!) o qué + nome (¡qué detalle!).
-4. Bonito, bonita: come in italiano, gli aggettivi concordano con il nome: un
-   piso bonito, una lámpara bonita y barata; mucha luz, muchos muebles.
-5. Falsi amici: dormitorio = camera da letto (non il dormitorio di un
-   collegio); salón = soggiorno; barato, barata = economico, che costa poco;
-   tienda = negozio (la tenda della finestra si dice cortina). Al fondo = in
-   fondo.
-6. Todavía no = non ancora. Ya veo (già vedo) = vedo, capisco. El domingo por
-   la mañana = domenica mattina: con i giorni della settimana si usa
-   l'articolo (el domingo = domenica, los domingos = ogni domenica).
-
-ex1:
-- La cocina está al lado del salón.
-  it: La cucina è accanto al soggiorno.
-- ¿Tienes una mesa para el salón?
-  it: Hai un tavolo per il soggiorno?
-- Mi hermano tiene un piso muy bonito en Alcalá.
-  it: Mio fratello ha un appartamento molto bello ad Alcalá.
-- Hay una tienda de muebles enfrente del mercado.
-  it: C'è un negozio di mobili di fronte al mercato.
-- El domingo por la mañana vamos al Rastro.
-  it: Domenica mattina andiamo al Rastro.
-
-ex2:
-- ¡Qué piso [tan] [bonito]!
-  it: Che bell'appartamento (che appartamento così bello)!
-- El dormitorio está al [fondo], al lado del [baño].
-  it: La camera da letto è in fondo, accanto al bagno.
-- ¿[Se] [puede]? ¡Hola, Marco!
-  it: Permesso? Ciao, Marco!
-- Todavía [no] tengo muchos [muebles].
-  it: Non ho ancora molti mobili.
-- Quiero una lámpara [bonita] y [barata].
-  it: Voglio una lampada bella ed economica.
-
-culture.it:
-Il Rastro è il mercato all'aperto più famoso di Madrid: ogni domenica e nei
-giorni festivi, la mattina, centinaia di bancarelle riempiono la Ribera de
-Curtidores e le strade intorno, a due passi da Lavapiés. Si trova di tutto:
-oggetti usati e antichi, vestiti, libri, dischi, mobili e curiosità. Conviene
-andarci presto, prima della folla, e alle bancarelle si contratta sul prezzo.
-
-== 7 A1
-title: Repaso
-title.it: Ripasso
-numeral: Lección séptima
-numeral.pron.it: lecthión séptima
-kind: revision
-
-dialogue:
-- ¡Buenos días, guapo! ¿Qué te pongo? ¿Un café con leche?
-  it: Buongiorno, bello! Cosa ti porto (cosa ti metto)? Un caffellatte (caffè con latte)?
-  pron.it: buénos dìas, guàpo! che te póngo? un café con léce?
-  refs: 1 2
-- Sí, lo de siempre, por favor. Y mira: un kilo de manzanas de Asturias para ti.
-  it: Sì, il solito (quello di sempre), per favore. E guarda: un chilo di mele delle Asturie per te.
-  pron.it: si, lo de siémpre, por fabór. i mìra: un chìlo de manthànas de astùrias pàra ti.
-  refs: 1 2 4
-- ¿Para mí? ¡Qué detalle, hijo! Muchas gracias.
-  it: Per me? Che pensiero gentile (che dettaglio), caro (figlio)! Grazie mille (molte grazie).
-  pron.it: pàra mi? che detàje, ìkho! mùcias gràthias.
-  refs: 2 3 4 6
-- ¡Hola, Marco! ¿Qué tal mi planta?
-  it: Ciao, Marco! Come sta (che tale) la mia pianta?
-  pron.it: óla, màrco! che tal mi plànta?
-  refs: 1 2 5 6
-- Muy bien, en el salón: ¡tiene mucha luz!
-  it: Benissimo (molto bene), in soggiorno: ha molta luce!
-  pron.it: mui bien, en el salón: tiéne mùcia luth!
-  refs: 1 6
-- ¿Y el piso? ¿Es bonito?
-  it: E l'appartamento? È bello?
-  pron.it: i el pìso? es bonìto?
-  refs: 1 2 6
-- Es pequeño, pero me gusta mucho. ¡Y tu bar está muy cerca!
-  it: È piccolo, ma mi piace molto. E il tuo bar è molto vicino!
-  pron.it: es pechégno, péro me gùsta mùcio. i tu bar està mui thérca!
-  refs: 1 2 3 6
-- ¡Qué gracioso! ¿Y tienes familia en Madrid?
-  it: Che spiritoso (che grazioso)! E hai dei parenti (famiglia) a Madrid?
-  pron.it: che grathióso! i tiénes famìlia en madrìd?
-  refs: 1 2 5
-- No, mis padres viven en Bolonia. Pero aquí tengo una familia nueva.
-  it: No, i miei genitori (padri) abitano a Bologna. Però qui ho una nuova famiglia.
-  pron.it: no, mis pàdres bìben em bolónia. péro achì téngo ùna famìlia nuéba.
-  refs: 1 2 5 6
-- ¡Qué cosas dices, hombre! Toma, tu café con leche.
-  it: Ma che dici (che cose dici), dai (uomo)! Tieni (prendi), il tuo caffellatte.
-  pron.it: che cósas dìthes, ómbre! tóma, tu café con léce.
-  refs: 1 2 5 6
-
-notes.it:
-1. Pronuncia e scrittura (lezioni 1–6). La h non si pronuncia (hola, hijo); b
-   e v suonano entrambe b (vives, bueno); c davanti a e, i e la z si dicono th
-   (gracias, cerca, luz); la j, e la g davanti a e, i, si dicono kh (juntos,
-   naranja); la ll, e la y davanti a vocale, si dicono j (llamo, allí, yo); ch
-   è la nostra c dolce (leche, mucho), mentre il suono del nostro ch si scrive
-   qu (qué, aquí); ñ è il nostro gn (niña, años); la r semplice tra vocali è
-   una sola vibrazione (pero), la rr e la r iniziale vibrano forte (barrio,
-   Rastro); la s è sempre sorda (casa). Le parole che finiscono per vocale, n
-   o s si appoggiano sulla penultima sillaba (casa, tienen, naranjas), le
-   altre sull'ultima (favor, español, Madrid); quando non seguono questa
-   regola portano l'accento scritto (aquí, café, salón, lámpara, último).
-   L'accento scritto distingue anche tú (tu, pronome) da tu (tuo) e mí (me) da
-   mi (mio), e sta sempre sulle parole interrogative: qué, quién, dónde,
-   cuánto.
-2. Nomi e articoli (lezioni 1, 3, 4, 6). Articoli determinativi: el, la al
-   singolare (el piso, la calle), los, las al plurale (los bares, las
-   naranjas); indeterminativi: un, una (un café, una planta). A + el diventa al
-   e de + el diventa del: bienvenido al barrio, al lado del bar, enfrente del
-   metro; con la, los, las non succede: a la derecha. Il plurale si fa con -s
-   dopo vocale (tomate, tomates; silla, sillas) e con -es dopo consonante (bar,
-   bares). Il genere non è sempre quello italiano: el metro. Gli aggettivi
-   concordano come in italiano: el piso nuevo, una lámpara bonita y barata,
-   manzanas buenísimas; encantado o encantada secondo chi parla. Dopo una
-   quantità c'è solo de: un kilo de naranjas, medio kilo de tomates.
-3. Ser, estar e hay (lezioni 1, 2, 3, 6). Ser (essere): soy, eres, es, somos,
-   sois, son. Dice chi è o che cos'è qualcuno o qualcosa, da dove viene, com'è,
-   quanto costa: soy Marco, soy de Bolonia, es pequeño, son cuatro euros.
-   Estar (stare, trovarsi): estoy, estás, está, estamos, estáis, están. Dice
-   dove si trova una cosa o una persona precisa: ¿dónde está el mercado?, está
-   allí, la cocina está al lado del salón. Hay (dal verbo haber), uguale al
-   singolare e al plurale, dice che qualcosa esiste: hay un supermercado, hay
-   dos, ¿hay tiendas por aquí? Perciò el mercado está cerca (quel mercato che
-   conosciamo), ma hay un mercado cerca (ce n'è uno).
-4. Il presente (lezioni 1, 2, 4, 5, 6). Verbi regolari: hablar fa hablo,
-   hablas, habla, hablamos, habláis, hablan; vivir fa vivo, vives, vive,
-   vivimos, vivís, viven. Il pronome soggetto si dice solo per contrasto o per
-   insistere: yo soy Marco, ¿y tú? Alcuni verbi cambiano la vocale della
-   radice quando l'accento cade lì: querer fa quiero, quieres, quiere,
-   queremos, queréis, quieren (la e diventa ie); costar fa cuesta, cuestan e
-   poder fa puede (la o diventa ue). Tener cambia la e in ie e in più ha una g
-   alla prima persona: tengo, tienes, tiene, tenemos, tenéis, tienen; anche
-   poner fa pongo (¿qué te pongo?). Mira, toma, pasa, perdona e ven sono
-   imperativi del tú: guarda, prendi, entra, scusa, vieni.
-5. Pronomi e possessivi (lezioni 1, 2, 3, 5, 6). Prima del verbo: me (me
-   llamo, me gusta), te (¿qué te pongo?, te presento a mi hermano), os (¿qué
-   os pongo?, detto a più persone). Dopo una preposizione: mí, ti (a mí, para
-   mí, para ti, de ti), al contrario dell'italiano, che dice ti porto ma per
-   te. Gustar si costruisce come piacere: me gusta el barrio, me gusta mucho
-   este mercado; a mí también = anche a me, a mí tampoco = neanche a me. I
-   possessivi stanno davanti al nome, senza articolo: mi, tu, su (mi hermano,
-   tu piso), mis, tus, sus (mis padres, mis hijos). Davanti a una persona
-   complemento oggetto si mette a: te presento a mi hermano.
-6. Domande, esclamazioni e negazione (lezioni 1–6). Domande ed esclamazioni si
-   aprono con ¿ e ¡. Spesso basta l'intonazione: ¿vives aquí?, ¿tienes
-   hermanos? Le parole interrogative portano l'accento: ¿qué te pongo?, ¿quién
-   es el último?, ¿dónde está el mercado?, ¿cuánto es? Cuánto concorda come un
-   aggettivo: ¿cuántos años tienen? ¿Qué tal? chiede come va (¿qué tal
-   Madrid?). Per esclamare si usa qué: ¡qué graciosa!, ¡qué detalle!, ¡qué
-   cosas dices!, ¡qué piso tan bonito! La negazione no sta prima del verbo e
-   dei suoi pronomi: no hablo bien español, ¿y no tienes lámpara?; todavía no
-   = non ancora, nada más = nient'altro.
-7. Numeri, prezzi ed età (lezioni 2, 3, 4, 5). Da uno a dieci: uno, dos, tres,
-   cuatro, cinco, seis, siete, ocho, nueve, diez; uno diventa un davanti a un
-   nome maschile (un kilo, un café) e una al femminile (una tostada).
-   Cincuenta = cinquanta. I prezzi: ¿cuánto es?, son cuatro euros con
-   cincuenta, dos euros el kilo, ¿cuánto cuestan? Le quantità: un kilo de
-   manzanas, medio kilo de tomates. L'età si dice con tener: ¿cuántos años
-   tienes?, la niña tiene seis años.
-
-== 8 A1
-title: El lunes empiezo
-title.it: Lunedì comincio
-title.en: I start on Monday
-
-dialogue:
-- Marco, ¿cuándo empiezas a trabajar?
-  it: Marco, quando cominci a lavorare?
-  en: Marco, when do you start work (start to work)?
-- El lunes. ¡Y hoy ya es jueves!
-  it: Lunedì (il lunedì). E oggi è già giovedì!
-  en: On Monday (the Monday). And today's already Thursday!
-- ¿Y a qué hora entras?
-  it: E a che ora attacchi (entri)?
-  en: And what time do you start (enter)?
-- A las nueve. La oficina está un poco lejos: son veinticinco minutos en metro.
-  it: Alle nove. L'ufficio è un po' lontano: sono venticinque minuti di (in) metro.
-  en: At nine. The office is a bit far: it's twenty-five minutes by (in) metro.
-- Entonces tienes que salir de casa a las ocho y cuarto, más o menos.
-  it: Allora devi (hai che) uscire di casa alle otto e un quarto, più o meno.
-  en: Then you have to leave home (leave from house) at a quarter past eight, more or less.
-- ¡Y antes, un café aquí! Abro a las siete.
-  it: E prima, un caffè qui! Apro alle sette.
-  en: And before that, a coffee here! I open at seven.
-- Vale, pero el lunes pago yo, ¿eh?
-  it: Va bene, ma lunedì pago io, eh?
-  en: OK, but on Monday I'm paying (pay I), all right?
-- Nada de eso: el primer día invita la casa. ¡Y no es broma!
-  it: Neanche per sogno (niente di questo): il primo giorno offre (invita) la casa. E non è uno scherzo!
-  en: No way (nothing of that): on the first day it's on the house (the house invites). And I'm not kidding (it's not a joke)!
-- ¡Muchas gracias, Carmen! Eres un sol.
-  it: Grazie mille, Carmen! Sei un tesoro (un sole).
-  en: Thanks a lot, Carmen! You're a star (a sun).
-
-notes.it:
-1. I giorni della settimana: lunes, martes, miércoles, jueves, viernes,
-   sábado, domingo. Si scrivono con la minuscola e sono maschili. El lunes =
-   lunedì (prossimo), los lunes = il lunedì, tutti i lunedì; hoy es jueves,
-   senza articolo. Mañana = domani, ma la mañana = la mattina.
-2. L'ora: ¿qué hora es? Es la una; son las dos, son las nueve. Poi y cuarto,
-   y media, menos cuarto: las ocho y cuarto (8.15), las nueve menos cuarto
-   (8.45). ¿A qué hora...? A las nueve. Le decine sono veinte, treinta,
-   cuarenta, cincuenta; da 21 a 29 si scrive tutto attaccato: veinticinco.
-3. Empiezo, empiezas: empezar cambia la e in ie, come querer (empiezo,
-   empiezas, empieza, empezamos, empezáis, empiezan). Empezar a + infinito =
-   cominciare a: empiezo a trabajar. Tener que + infinito = dovere: tienes que
-   salir = devi uscire.
-4. Falsi amici: salir = uscire, partire (salire si dice subir); entrar a
-   trabajar = attaccare, cominciare il turno; ¡nada de eso! (niente di questo)
-   = neanche per sogno. Eres un sol (sei un sole) si dice a una persona molto
-   gentile, come il nostro "sei un tesoro".
-5. In Spagna molti fanno colazione al bar prima del lavoro o a metà mattina.
-   Gli orari dei pasti sono tardi: si pranza verso le due e si cena verso le
-   nove o le dieci di sera.
 notes.en:
-1. Days of the week: lunes, martes, miércoles, jueves, viernes, sábado,
-   domingo. They are written in lower case and are masculine. El lunes = on
-   Monday, los lunes = on Mondays, every Monday; hoy es jueves (today is
-   Thursday), with no article. Mañana = tomorrow, but la mañana = the morning.
-2. Telling the time: ¿qué hora es? Es la una (it's one o'clock); son las dos,
-   son las nueve. Then y cuarto, y media, menos cuarto: las ocho y cuarto
-   (8:15), las nueve menos cuarto (8:45). ¿A qué hora...? A las nueve. The tens
-   are veinte, treinta, cuarenta, cincuenta; 21 to 29 are written as one word:
-   veinticinco.
-3. Empiezo, empiezas: empezar changes e to ie, like querer (empiezo, empiezas,
-   empieza, empezamos, empezáis, empiezan). Empezar a + infinitive = to start
-   doing something: empiezo a trabajar. Tener que + infinitive = to have to:
-   tienes que salir = you have to leave.
-4. Useful phrases: salir = to go out, to leave; entrar a trabajar = to start
-   work, to start your shift; ¡nada de eso! (nothing of that) = no way. Eres un
-   sol (you're a sun) is said to a very kind person, like "you're a star".
-5. In Spain many people have breakfast at a bar before work or in the middle
-   of the morning. Meal times are late: lunch is around two and dinner around
-   nine or ten in the evening.
+1. ¿Cómo te llamas?: what's your name? Literally "how do you call yourself?". The answer is me llamo, "I call myself": me llamo Fiona, my name is Fiona. Cómo, how, has a written accent in a question.
+2. ¿Y tú?: and you? Y means "and", and tú is the "you" for one person you talk to as a friend: a young person, a colleague, a member of your family. At a language exchange everybody says tú. Strangers in a shop or older people are usually spoken to with usted, as the barman did in lesson 1. Tú has a written accent; tu without one means "your".
+3. Yo soy Javier: I am Javier. Soy, "I am", and eres, "you are", come from ser, "to be". Spanish does not need the yo: the ending of soy already says "I". Javier uses it because he is setting himself against Fiona, "and me, I'm Javier"; when she answers she simply says soy escocesa. English cannot leave out its "I"; Spanish leaves it out most of the time.
+4. ¿Eres inglesa?: are you English? A question needs no change of order in Spanish: eres inglesa, "you are English", becomes a question with the question marks and the voice rising at the end.
+5. Inglesa, escocesa: words of nationality agree with the person: a man is inglés or escocés, a woman inglesa or escocesa. In Spanish they take no capital letter. The written accent of inglés goes away in inglesa: the word now ends in a vowel, so the stress falls on the next-to-last syllable by the rule, in*glé*ssa.
+6. De Edimburgo, de Madrid: de means "from" (and also "of"). Soy de Madrid: I'm from Madrid.
+7. Encantada, encantado: pleased to meet you, literally "delighted". Like the words of nationality, it agrees with the person who says it: Fiona says encantada, Javier encantado.
 
 ex1:
-- ¿Qué hora es? Son las ocho y media.
-  it: Che ore sono? Sono le otto e mezza.
-  en: What time is it? It's half past eight.
-- Los sábados el mercado abre a las nueve.
-  it: Il sabato il mercato apre alle nove.
-  en: On Saturdays the market opens at nine.
-- Hoy es viernes y mañana es sábado.
-  it: Oggi è venerdì e domani è sabato.
-  en: Today is Friday and tomorrow is Saturday.
-- Tengo que salir de casa a las ocho.
-  it: Devo uscire di casa alle otto.
-  en: I have to leave home at eight.
+- Hola, me llamo Fiona.
+  en: Hello, my name is Fiona.
+- ¿Cómo te llamas?
+  en: What's your name?
+- Soy escocesa.
+  en: I'm Scottish. (a woman speaking)
+- ¿Eres de Madrid?
+  en: Are you from Madrid?
+- Encantado.
+  en: Pleased to meet you. (a man speaking)
 
 ex2:
-- ¿A qué [hora] [entras] a trabajar?
-  it: A che ora cominci a lavorare?
-  en: What time do you start work?
-- El [lunes] [empiezo] a trabajar.
-  it: Lunedì comincio a lavorare.
-  en: I start work on Monday.
-- Son las nueve [menos] [cuarto].
-  it: Sono le nove meno un quarto.
-  en: It's a quarter to nine.
-- [Tienes] [que] salir a las ocho y cuarto.
-  it: Devi uscire alle otto e un quarto.
-  en: You have to leave at a quarter past eight.
+- ¿[Cómo] te [llamas]?
+  en: What's your name?
+- [Me] [llamo] Javier.
+  en: My name is Javier.
+- ¿[Eres] inglesa?
+  en: Are you English?
+- Soy [de] Madrid.
+  en: I'm from Madrid.
+
+culture.en:
+Spaniards move to first names and to tú very quickly: two people introduced at a party or a bar say tú from the first sentence, as Fiona and Javier do. When they are introduced, women, and a man and a woman, greet each other with dos besos, two light kisses, one on each cheek, even at a first meeting; two men usually shake hands. In Madrid you will also find many intercambios, evenings in a bar where Spaniards and foreigners meet to swap languages: half an hour in English, half an hour in Spanish. They are the best place to say, for the first time and to a real person: Encantado, or Encantada.

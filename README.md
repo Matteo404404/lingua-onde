@@ -41,8 +41,10 @@ expressions; Perfectionnement is complete too: 70 lessons, an introduction,
 and an appendix with the grammar, a grammar index and the expressions;
 Mastery is complete too: 100 lessons with open tasks, an introduction, and an
 appendix with style and grammar, an index and the expressions).
-Spanish for Italian speakers has
-its first week, lessons 1–7. The other languages have 13 sample
+Spanish (of Madrid) for English speakers is
+being written: its plan and its first two lessons, with figured pronunciation
+for English readers in the signs of Assimil's *Spanish with Ease*. The other
+languages have 13 sample
 lessons (lessons 1–8, 26, 51 and 76 of Foundation, one lesson each of
 Perfectionnement and Mastery), with translations and notes in Italian, English
 and Spanish. The text has not been checked by a native

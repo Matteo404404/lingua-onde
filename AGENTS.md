@@ -23,11 +23,13 @@ a new course, or fixes to an existing one.
    scene and its ending, the grammar or style focus, the tasks. Examples:
    `work/vi/es/foundation.md`, `work/vi/es/perfectionnement.md`,
    `work/vi/es/mastery.md`, `work/nl/it/foundation.md`,
-   `work/nl/it/perfectionnement.md`, `work/nl/it/mastery.md`, `work/en/*.md`.
+   `work/nl/it/perfectionnement.md`, `work/nl/it/mastery.md`,
+   `work/es/en/foundation.md`, `work/en/*.md`.
 2. **Brief** the writer: file format, length, note style, the language's
    pitfalls, and the checks to run (`work/BRIEF.md` for every course, then
    one writer file per course: `work/vi/es/writer.md`, `perf-writer.md`,
-   `mastery-writer.md`, `work/en/perf-writer.md`, `mastery-writer.md`).
+   `mastery-writer.md`, `work/nl/it/writer.md`, `work/es/en/writer.md`,
+   `work/en/perf-writer.md`, `mastery-writer.md`).
 3. **Write** one week:
    `STAGE=vi-perfectionnement work/tools/cursor_week.sh 8 14 auto`
    (stages: `vi-foundation`, `vi-perfectionnement`, `vi-mastery`, the
@@ -45,7 +47,9 @@ a new course, or fixes to an existing one.
    pronunciation from the key; `figure_en.py` does the English one, and
    `figure_nl.py` the Dutch one (espeak plus a FIX table of words whose
    stress or sound espeak gets wrong: add to it rather than hand-editing
-   lines).
+   lines); `figure_es.py` writes the Spanish one for English readers from
+   the spelling alone (rules, a FIX table, and a self-test:
+   `python3 -I work/tools/figure_es.py --test`).
 5. **Teach the brief**: every error type found goes into the writer's brief
    as a rule ("Rules added after week N" in `work/en/mastery-writer.md` is
    the longest example). The next week's writer reads it.

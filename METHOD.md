@@ -17,7 +17,8 @@ Each language has three courses, studied one after the other:
 | Mastery | C1 → C2 | 100 | Lingua Onde's own |
 
 A course is written for the speakers of one language at a time (`bases:` in
-its files): English is written first for Italian speakers, then Spanish.
+its files): English is written first for Italian speakers; Spanish is
+written for English speakers.
 
 What follows was checked against the books themselves (Lo Spagnolo, German
 with ease, Espagnol perfectionnement, Perfectionnement Allemand): their
@@ -57,7 +58,10 @@ layout, lesson lengths, notes, exercises, revision lessons and second wave.
    each syllable respelled for the reader (for Spanish readers ñ, j, z…)
    with its tone arrow (→ ✓ ↑ ↓), high tones drawn on the upper row and low
    ones below, the whole line in lessons 1–14 and none after, since the
-   spelling itself marks every tone.
+   spelling itself marks every tone. Spanish for English readers follows
+   Spanish with Ease: é for every e, ou for u, ss for an s inside a word, H
+   for the jota, c and ç for the th of think, gn for ñ, tch for ch, ï for the
+   i closing a diphthong, the stressed syllable in bold.
 4. **Pronunciation observations** (mostly in the early lessons): a few
    "remember" points on the new or tricky sounds of the lesson, compared
    with your language.

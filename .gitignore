@@ -24,6 +24,11 @@
 !/work/nl/it/
 /work/nl/it/*
 !/work/nl/it/*.md
+!/work/es/
+/work/es/*
+!/work/es/en/
+/work/es/en/*
+!/work/es/en/*.md
 !/work/tools/
 /work/tools/*
 !/work/tools/cursor_week.sh
@@ -34,4 +39,5 @@
 !/work/tools/figure_vi.py
 !/work/tools/figure_en.py
 !/work/tools/figure_nl.py
+!/work/tools/figure_es.py
 !/work/tools/extra_checks.py

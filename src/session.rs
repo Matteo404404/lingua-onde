@@ -1741,14 +1741,14 @@ mod tests {
     fn second_wave_comes_with_its_partner_lesson() {
         // SAFETY: the only other reader of this variable is in ignored tests.
         unsafe { std::env::set_var("LINGUA_ONDE_HOME", std::env::temp_dir().join("lingua-onde-test-home")) };
-        // The Spanish draft course stands in for any language with two courses.
+        // The French draft course stands in for any language with two courses.
         unsafe { std::env::set_var("LINGUA_ONDE_DRAFTS", "1") };
         let mut app = App::new(&egui::Context::default(), None, None);
         app.saved = crate::store::Saved {
             wave2_gap: 2,
             ..Default::default()
         };
-        let ci = app.course_index("core-es").unwrap();
+        let ci = app.course_index("core-fr").unwrap();
         let key = |app: &App, i: usize| app.courses[ci].lesson_key(app.courses[ci].lessons[i].number);
         for i in 0..2 {
             let k = key(&app, i);
@@ -1763,7 +1763,7 @@ mod tests {
         // The next course of the language carries the earlier one's wave on.
         let mut next = app.courses[ci].clone();
         next.stage = Some(crate::model::Stage::Perfectionnement);
-        next.id = "core-es-perfectionnement".into();
+        next.id = "core-fr-perfectionnement".into();
         app.courses.push(next);
         let pi = app.courses.len() - 1;
         for i in 2..4 {
@@ -1792,7 +1792,7 @@ mod tests {
             assert_eq!(app.wave2_due(ci), by_gap[1..].to_vec(), "no tail lesson once one is rebuilt today");
         }
         // Starting from the later course leaves the earlier one out of it.
-        app.saved.lessons.retain(|k, _| !k.starts_with("core-es#"));
+        app.saved.lessons.retain(|k, _| !k.starts_with("core-fr#"));
         assert!(app.wave2_pending(pi).iter().all(|&(c, _)| c == pi));
     }
 

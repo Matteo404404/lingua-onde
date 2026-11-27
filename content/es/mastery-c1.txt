@@ -1,7 +1,7 @@
 course: es
 stage: mastery
+bases: en
 name: Spanish – Mastery (C1 → C2)
 name.it: Spagnolo – Padronanza (C1 → C2)
 name.en: Spanish – Mastery (C1 → C2)
 name.es: Español – Maestría (C1 → C2)
-

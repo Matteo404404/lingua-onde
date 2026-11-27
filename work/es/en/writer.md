@@ -246,3 +246,16 @@ word the tool figured wrongly, anything you were unsure of.
 - Every respelling in sounds.en uses the key's signs from figure_es.py
   --say (yo*bér*), never an English-style "yoh-vair".
 - Word order in exercises is the natural one (coméis cuatro veces al día).
+
+## Rules added after week 7
+
+- The twist is the last line. Never add a reply after it.
+- A revision scene is one conversation that moves forward: every line
+  follows from the one before, nobody contradicts what they said two lines
+  earlier, and it ends on the plan's twist.
+- A note never wanders off the dialogue (no "a burglary is un robo" when no
+  line has robo).
+- A culture paragraph does not repeat an earlier lesson's (the portero was
+  lesson 36).
+- When a line is unclear in English ("the red one is mine" for "I have the
+  same one"), change the Spanish so it says what is meant.

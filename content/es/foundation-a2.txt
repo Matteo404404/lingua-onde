@@ -1434,3 +1434,593 @@ Spanish puts suelo before the infinitive; English puts "usually" after "am". The
 | embarazada | embarrassed | pregnant | 38 |
 
 Embarazada is the one that catches people out most, so keep it apart from avergonzada, "embarrassed". That is the week: the imperfect for the scene, the preterite for what happened, and the words that look like English but are not.
+
+== 43 A2
+numeral: Lección cuarenta y tres
+numeral.pron.en: lék*cion* coua*rén*ta i tréss
+title: El horóscopo
+title.en: The horoscope
+
+dialogue:
+- Escucha. Tendrás una semana muy buena.
+  en: Listen. You'll have a very good week.
+  pron.en: éss*cou*tcha tén*drass* … *boué*na
+- ¿Sí?
+  en: Really?
+- Harás un viaje.
+  en: You'll go on a trip.
+  pron.en: a*rass* … *bia*Hé
+- ¿Adónde?
+  en: Where to?
+- No lo dice. Conocerás a una persona interesante.
+  en: It doesn't say. You'll meet an interesting person.
+  pron.en: … conocé*rass* … intéré*ssan*té
+- ¿Y qué más?
+  en: And what else?
+- Recibirás dinero.
+  en: You'll get some money.
+  pron.en: récibi*rass* …
+- ¡Qué bien!
+  en: How lovely!
+- Y podrás pagar todas tus deudas.
+  en: And you'll be able to pay all your debts.
+  pron.en: … po*drass* pa*gar* *to*dass touss *déou*dass
+- ¿Todas? ¡Es el mejor horóscopo del mundo!
+  en: All of them? It's the best horoscope in the world!
+  pron.en: … o*ross*copo …
+- Espera... no. Este es mi horóscopo, no el tuyo.
+  en: Wait... no. This is my horoscope, not yours.
+  pron.en: … *tou*yo
+
+notes.en:
+1. Tendrás una semana muy buena: "you will have" is one word in Spanish, made from the stem tendr- and the ending -ás. There is no separate word for "will".
+2. The future is built on the whole infinitive: conocerás from conocer, recibirás from recibir. Poder, hacer and tener change their stem to podr-, har- and tendr-, and then take the same endings: podrás, harás, tendrás.
+3. Harás un viaje is "you'll go on a trip". Spanish makes a trip (hacer un viaje), where English goes on one.
+4. ¿Adónde? is "where to?", the question you ask with movement, as in lesson 11 (¿Adónde vas?).
+5. No lo dice is "it doesn't say (so)". Lo stands for the thing that is not said, and it goes before the verb.
+6. Deudas is the plural of deuda, "debt", a feminine word, so the todas before it agrees with it.
+7. Ir a with an infinitive is the other way to speak of the future, for something planned, as in voy a estudiar from lesson 11. The whole future comes back in the revision lesson.
+8. No el tuyo: "not yours". El tuyo stands for tu horóscopo: when the noun is left out, the possessive takes the article, el tuyo, el mío.
+
+ex1:
+- Mañana recibirás dinero.
+  en: You'll get money tomorrow.
+- Conocerás a una persona.
+  en: You'll meet a person.
+- ¿Podrás pagar el café?
+  en: Will you be able to pay for the coffee?
+- Escucha, ¿qué dice el horóscopo?
+  en: Listen, what does the horoscope say?
+- ¿Qué más dice?
+  en: What else does it say?
+
+ex2:
+- [Tendrás] una semana muy buena.
+  en: You'll have a very good week.
+- No lo [dice].
+  en: It doesn't say.
+- [Conocerás] a una persona interesante.
+  en: You'll meet an interesting person.
+- [Recibirás] dinero.
+  en: You'll get some money.
+- [Podrás] pagar todas tus deudas.
+  en: You'll be able to pay all your debts.
+
+== 44 A2
+numeral: Lección cuarenta y cuatro
+numeral.pron.en: lék*cion* coua*rén*ta i *coua*tro
+title: Si hace sol
+title.en: If it's sunny
+
+dialogue:
+- Si hace sol, iremos a la sierra.
+  en: If it's sunny, we'll go to the mountains.
+  pron.en: … i*ré*moss … *sié*rra
+- Si vamos a la sierra, tendremos que salir temprano.
+  en: If we go to the mountains, we'll have to leave early.
+  pron.en: … *ba*moss … tén*dré*moss … sa*lir* tém*pra*no
+- Si salimos temprano, no podré dormir.
+  en: If we leave early, I won't be able to sleep.
+  pron.en: … sa*li*moss … po*dré* dor*mir*
+- Si no duermes, estarás de mal humor.
+  en: If you don't sleep, you'll be in a bad mood.
+  pron.en: … *douér*méss éssta*rass* … ou*mor*
+- Si estoy de mal humor, discutiremos.
+  en: If I'm in a bad mood, we'll argue.
+  pron.en: … disscouti*ré*moss
+- Si discutimos, volveremos a casa.
+  en: If we argue, we'll come back home.
+  pron.en: … disscou*ti*moss bolbé*ré*moss …
+- Entonces...
+  en: So then...
+- Si hace sol, nos quedamos en casa.
+  en: If it's sunny, we'll stay at home.
+  pron.en: … noss ké*da*moss …
+- ¿Y si llueve?
+  en: And if it rains?
+- Si llueve, nos quedamos también.
+  en: If it rains, we'll stay in too.
+- Así no discutimos.
+  en: That way we won't argue.
+- Me encanta la sierra.
+  en: I love the mountains.
+
+notes.en:
+1. Si hace sol, iremos a la sierra: the rule is si with the present, then the future. Spanish never puts the future after si, so it is not si iremos.
+2. Sierra is a mountain range, and la sierra is the one near Madrid. Tendremos que salir is tener que with an infinitive, "we'll have to leave", as in lesson 40 (tuve que trabajar).
+3. Salimos is salir, "to leave" or "to go out", in the present, and it stands for the near future after si. Temprano is "early".
+4. Duermes is dormir, which changes its o to ue, as in duermo in lesson 19. Estarás de mal humor is the future of estar: Spanish uses estar for a mood, not ser.
+5. Discutiremos: discutir usually means "to argue" in everyday Spanish; "to talk something over" is more often hablar de.
+6. Nos quedamos is quedarse, "to stay" where you are, here en casa, "at home". The nos comes before the verb, as the me did in lesson 30.
+7. Así no discutimos: así is "that way" or "like this", and it refers to what has just been said.
+
+ex1:
+- Si hace sol, vamos a la sierra.
+  en: If it's sunny, we're going to the mountains.
+- Si llueve, vamos al cine.
+  en: If it rains, we're going to the cinema.
+- Si salimos temprano, vamos en coche.
+  en: If we leave early, we'll go by car.
+- Si estás de mal humor, hablamos mañana.
+  en: If you're in a bad mood, we'll talk tomorrow.
+- Si tengo tiempo, te llamo.
+  en: If I have time, I'll call you.
+
+ex2:
+- Si hace sol, iremos a la [sierra].
+  en: If it's sunny, we'll go to the mountains.
+- Si [salimos] temprano, no podré dormir.
+  en: If we leave early, I won't be able to sleep.
+- Si no [duermes], estarás de mal humor.
+  en: If you don't sleep, you'll be in a bad mood.
+- Si llueve, nos [quedamos] en casa.
+  en: If it rains, we'll stay at home.
+- [Discutimos] mucho.
+  en: We argue a lot.
+
+culture.en:
+The Sierra de Guadarrama is the range of mountains to the north-west of Madrid. People from Madrid go there to walk, and in winter there is often snow on the peaks.
+
+== 45 A2
+numeral: Lección cuarenta y cinco
+numeral.pron.en: lék*cion* coua*rén*ta i *cin*co
+title: El éxito
+title.en: The exit
+
+dialogue:
+- Buenas tardes. ¿Podría ayudarme?
+  en: Good afternoon. Could you help me?
+  pron.en: … po*dri*a ayou*dar*mé
+- Claro, señor. ¿Qué necesita?
+  en: Of course, sir. What do you need?
+  pron.en: … nécé*ssi*ta
+- Me gustaría ver el museo.
+  en: I'd like to see the museum.
+  pron.en: … goussta*ri*a … mou*ssé*o
+- Muy bien. ¿Le importaría esperar un momento?
+  en: Very well. Would you mind waiting a moment?
+  pron.en: … importa*ri*a ésspé*rar* … mo*mén*to
+- No, claro. Pero primero querría salir del hotel.
+  en: No, of course. But first I'd like to leave the hotel.
+  pron.en: … pri*mé*ro ké*rri*a …
+- ¿Salir?
+  en: Leave?
+- Sí. ¿Dónde está el éxito?
+  en: Yes. Where is the éxito?
+  pron.en: … *ék*sito
+- ¿El éxito?
+  en: The éxito?
+- Sí, el éxito del hotel.
+  en: Yes, the hotel's éxito.
+- Señor, aquí todos buscamos el éxito.
+  en: Sir, here we all look for success.
+  pron.en: … bouss*ca*moss …
+- ¿Cómo?
+  en: Sorry?
+- La salida está a la derecha.
+  en: The exit is on the right.
+
+sounds.en:
+1. The x of éxito is said as k and s together, as in the English "exit", so the figured line is *ék*sito, with the stress on the first syllable.
+
+notes.en:
+1. Podría ayudarme is "could you help me": the conditional of poder, which is the future stem podr- with the ending -ía. Spanish uses it to ask politely, where English uses "could" and "would".
+2. Me gustaría and querría are the conditional of gustar and querer. The ending -ía is the same for every person; only the stem changes from verb to verb.
+3. Ayudarme is ayudar with me joined on at the end, so that the pronoun stays with the infinitive.
+4. ¿Le importaría esperar? Importar here means "to mind", as in "would you mind waiting?". It has nothing to do with "to import", so keep it apart.
+5. Éxito is "success", and it looks like the English "exit" but means something else. The exit is la salida, which you met in lesson 29.
+6. Buscamos is buscar, "to look for", in the we form. The stress falls on ca, the middle syllable.
+
+ex1:
+- ¿Podría ayudarme, por favor?
+  en: Could you help me, please?
+- Me gustaría un café.
+  en: I'd like a coffee.
+- ¿Le importaría esperar?
+  en: Would you mind waiting?
+- La salida está allí.
+  en: The exit is over there.
+- Primero, ¿qué necesita?
+  en: First, what do you need?
+
+ex2:
+- ¿[Podría] ayudarme?
+  en: Could you help me?
+- Me [gustaría] ver el museo.
+  en: I'd like to see the museum.
+- ¿Le [importaría] esperar?
+  en: Would you mind waiting?
+- Primero [querría] salir del hotel.
+  en: First I'd like to leave the hotel.
+- ¿Dónde está la [salida]?
+  en: Where's the exit?
+
+== 46 A2
+numeral: Lección cuarenta y seis
+numeral.pron.en: lék*cion* coua*rén*ta i séïss
+title: No he visto a nadie
+title.en: I haven't seen anybody
+
+dialogue:
+- ¿Ha visto a alguien esta noche?
+  en: Have you seen anyone tonight?
+  pron.en: … *al*guién …
+- No, no he visto a nadie.
+  en: No, I haven't seen anybody.
+  pron.en: … *na*dié
+- ¿Ha oído algo?
+  en: Did you hear anything?
+  pron.en: … o*i*do …
+- No, no he oído nada.
+  en: No, I didn't hear anything.
+- ¿Alguna puerta abierta?
+  en: Any door open?
+  pron.en: … a*biér*ta
+- Ninguna.
+  en: None.
+  pron.en: nin*gou*na
+- ¿Nunca sale de la portería?
+  en: Do you never leave the porter's lodge?
+  pron.en: … *sa*lé … porté*ri*a
+- Nunca.
+  en: Never.
+- ¿Y ninguno de los vecinos ha llamado?
+  en: And has none of the neighbours called?
+  pron.en: … nin*gou*no … bé*ci*noss … ya*ma*do
+- Tampoco.
+  en: Not them either.
+- Usted es el portero de noche, ¿no?
+  en: You're the night porter, aren't you?
+  pron.en: … por*té*ro …
+- Sí, señor.
+  en: Yes, sir.
+- ¿Y por la noche qué hace?
+  en: And what do you do at night?
+- Por la noche, duermo.
+  en: At night, I sleep.
+
+sounds.en:
+1. The r of portero and portería is a single tap, as in para, and the stress falls on ri: porté*ri*a.
+
+notes.en:
+1. ¿Ha visto a alguien? is "Have you seen anyone?". Alguien is a person, so it takes the a that comes before a person who is the object, as in ¿has visto a Marta? (lesson 18). The perfect ha visto is used for tonight, a time that is not over yet.
+2. No he visto a nadie is "I haven't seen anybody", and it is the double negative: Spanish puts the no before the verb and keeps the second negative after it, where English would use only one. A second negative does not cancel the first.
+3. Nadie and nada are the pair for people and things: "nobody" and "nothing". Alguien and algo are the same pair in a question: ¿ha oído algo?, "did you hear anything?".
+4. Oído is the past participle of oír, "to hear", so he oído is "I have heard".
+5. Ninguna is "none", the feminine form of ninguno, and it refers to la puerta. Before a masculine noun, ninguno becomes ningún, and the revision lesson has the table.
+6. Nunca comes before the verb with no second no: nunca sale, "he never goes out". Tampoco, in the reply to ¿y ninguno...?, means "not them either".
+7. Usted es el portero de noche, ¿no?: ¿no? at the end asks for a yes, like the English "aren't you?".
+8. Duermo is dormir, o becoming ue, as in lesson 19. Por la noche is "at night", and the porter is answering what he does at night.
+
+aside.en:
+You are making progress, even if you do not feel it.
+
+ex1:
+- ¿Ha visto a alguien?
+  en: Have you seen anyone?
+- No he visto nada.
+  en: I haven't seen anything.
+- Nunca duermo tarde.
+  en: I never go to bed late.
+- Ninguna de mis amigas vive aquí.
+  en: None of my friends lives here.
+- Tampoco tengo tiempo.
+  en: I don't have time either.
+
+ex2:
+- ¿Ha visto a [alguien]?
+  en: Have you seen anyone?
+- No he visto [nada].
+  en: I haven't seen anything.
+- ¿Ha [oído] algo?
+  en: Have you heard anything?
+- [Nunca] sale de la portería.
+  en: He never leaves the porter's lodge.
+- No ha llamado [nadie].
+  en: Nobody has called.
+
+culture.en:
+In many blocks of flats in Madrid there is a portero, a caretaker who looks after the entrance and the building. The portería is his little office by the front door.
+
+== 47 A2
+numeral: Lección cuarenta y siete
+numeral.pron.en: lék*cion* coua*rén*ta i *sié*té
+title: El piso más bonito de Madrid
+title.en: The prettiest flat in Madrid
+
+dialogue:
+- Este es el piso más bonito de Madrid.
+  en: This is the prettiest flat in Madrid.
+  pron.en: … bo*ni*to …
+- ¡Es pequeñísimo!
+  en: It's tiny!
+  pron.en: … péké*gni*ssimo
+- Es pequeño, pero es luminosísimo.
+  en: It's small, but it's very bright.
+  pron.en: … loumino*ssi*ssimo
+- ¿Y la cocina? ¿Dónde está?
+  en: And the kitchen? Where is it?
+- En el salón. Es lo mejor del piso.
+  en: In the living room. It's the best part of the flat.
+- ¿Y el baño?
+  en: And the bathroom?
+  pron.en: … *ba*gno
+- Está al lado de la cocina.
+  en: It's next to the kitchen.
+  pron.en: … *la*do …
+- ¿En el salón también?
+  en: In the living room too?
+- Es un piso muy práctico.
+  en: It's a very practical flat.
+  pron.en: … *prac*tico
+- ¿Y el precio?
+  en: And the price?
+  pron.en: … *pré*cio
+- Eso es lo más interesante: carísimo.
+  en: That's the most interesting part: very expensive.
+  pron.en: … ca*ri*ssimo
+
+sounds.en:
+1. The stress of -ísimo words falls on the í, shown in bold in the figured line: ca*ri*ssimo, with the ri stressed and the ssimo said with a full s.
+
+notes.en:
+1. El piso más bonito de Madrid: after a superlative Spanish says de for "of" or "in", never en: el más bonito de Madrid, "the prettiest in Madrid".
+2. Pequeñísimo and luminosísimo: -ísimo is added to the adjective after dropping its last vowel, so pequeño becomes pequeñísimo and luminoso becomes luminosísimo. It means "very", or "extremely".
+3. Lo mejor del piso: lo with mejor, "the best", gives "the best part of the flat". Lo más interesante is the same pattern, with más, "the most interesting part".
+4. Carísimo: caro, "expensive", drops its o and takes -ísimo.
+5. Al lado de is "next to": al is a + el joined in one word, as in al mercado in lesson 11. Está al lado de la cocina is "it's next to the kitchen".
+6. Está al lado de la cocina uses estar, because it says where a thing is; es un piso muy práctico uses ser, because it says what the flat is.
+
+culture.en:
+In Spain a flat is un piso, and the adverts give its size in metros cuadrados, the square metres. Alquiler is the word for renting, and venta means for sale.
+
+ex1:
+- Es el coche más bonito.
+  en: It's the prettiest car.
+- Es pequeñísimo.
+  en: It's very small.
+- El baño está al lado del salón.
+  en: The bathroom is next to the living room.
+- Eso es lo más difícil.
+  en: That's the hardest part.
+- ¿Dónde está el salón?
+  en: Where is the living room?
+
+ex2:
+- Es el piso más [bonito] de Madrid.
+  en: It's the prettiest flat in Madrid.
+- Es [pequeñísimo].
+  en: It's very small.
+- La cocina es [lo] mejor del piso.
+  en: The kitchen is the best part of the flat.
+- El baño está [al] lado de la cocina.
+  en: The bathroom is next to the kitchen.
+- Eso es lo más [interesante].
+  en: That's the most interesting part.
+
+== 48 A2
+numeral: Lección cuarenta y ocho
+numeral.pron.en: lék*cion* coua*rén*ta i *o*tcho
+title: ¿Cuál prefieres?
+title.en: Which one do you prefer?
+
+dialogue:
+- ¿Qué le compramos a mamá?
+  en: What are we buying for Mum?
+  pron.en: … com*pra*moss …
+- ¿Un bolso?
+  en: A bag?
+  pron.en: … *bol*sso
+- ¿Cuál? ¿El rojo o el negro?
+  en: Which one? The red or the black?
+  pron.en: coual … *ro*Ho …
+- ¿Cuál prefieres tú?
+  en: Which one do you prefer?
+  pron.en: … pré*fié*réss …
+- El negro. El rojo es muy llamativo.
+  en: The black one. The red one is very eye-catching.
+  pron.en: … yama*ti*bo
+- Pues el rojo es como el mío.
+  en: Well, the red one is like mine.
+  pron.en: … *co*mo … *mi*o
+- ¿Como el tuyo?
+  en: Like yours?
+- Sí, tengo uno igual.
+  en: Yes, I have one just the same.
+  pron.en: … i*goual*
+- Entonces, el negro.
+  en: Then the black one.
+- ¿Y si tiene uno?
+  en: And what if she has one?
+- Pues se lo cambiamos y nos compramos dos bombones.
+  en: Then we'll exchange it for her, and buy ourselves two chocolates.
+  pron.en: … cam*bia*moss … bom*bo*néss
+
+notes.en:
+1. ¿Qué le compramos a mamá? uses qué alone, "what", for a thing we are asking about. Le is "to her", and mamá is "Mum": a person who is the receiver takes le, as in lesson 33.
+2. ¿Cuál? is "which one?", the question for choosing one of several. It stands alone, while qué goes before a noun: ¿qué bolso? is "which bag?", and ¿cuál prefieres? is "which one do you prefer?".
+3. Llamativo is "eye-catching" or "striking", and it describes something that draws the eye.
+4. El mío and el tuyo are the possessive pronouns, "mine" and "yours". The article before them agrees with the noun they replace, so el bolso gives el mío, and el suyo is "his" or "hers".
+5. Prefieres is preferir, which changes its e to ie, as querer does in quiero.
+6. Se lo cambiamos: when le or les comes before lo, it becomes se, so le + lo is se lo, "to her it". It is the same rule as lesson 33.
+7. Tengo uno igual: uno is "one" for a masculine noun, and igual is "the same", so the sentence is "I have one the same".
+
+culture.en:
+Mother's Day in Spain, el Día de la Madre, is on the first Sunday of May.
+
+ex1:
+- ¿Cuál quieres?
+  en: Which one do you want?
+- ¿Qué compramos hoy?
+  en: What are we buying today?
+- El negro es más bonito.
+  en: The black one is prettier.
+- El mío es el rojo.
+  en: Mine is the red one.
+- Se lo compramos a mamá.
+  en: We're buying it for Mum.
+
+ex2:
+- ¿[Qué] bolso prefieres?
+  en: Which bag do you prefer?
+- ¿[Cuál] prefieres?
+  en: Which one do you prefer?
+- El negro es el [tuyo].
+  en: The black one is yours.
+- [Se] lo compramos a mamá.
+  en: We're buying it for Mum.
+- Nos compramos dos [bombones].
+  en: We're buying two chocolates.
+
+== 49 A2
+kind: revision
+numeral: Lección cuarenta y nueve
+numeral.pron.en: lék*cion* coua*rén*ta i *noué*bé
+title: Revisión y notas
+title.en: Revision and notes
+
+dialogue:
+- En agosto iremos a Valencia, ¿no?
+  en: In August we'll go to Valencia, won't we?
+  refs: 23 43 46
+- Sí. ¿Cuántos días estaremos?
+  en: Yes. How many days will we be there?
+  refs: 25 43
+- Una semana. Me gustaría ir en tren.
+  en: A week. I'd like to go by train.
+  refs: 27 40 45
+- El tren es carísimo. ¿Podríamos ir en coche?
+  en: The train is terribly expensive. Could we go by car?
+  refs: 32 45 47
+- Si vamos en coche, discutiremos.
+  en: If we go by car, we'll argue.
+  refs: 44
+- Bueno. ¿Y el hotel?
+  en: All right. And the hotel?
+  refs: 15 45
+- En agosto no hay ninguno barato.
+  en: In August there isn't a single cheap one. (In August there is none cheap.)
+  refs: 23 46
+- ¿Ninguno? Entonces, ¿qué haremos?
+  en: None? Then what will we do?
+  refs: 43 46
+- No sé... ¿Sabes qué me gustaría?
+  en: I don't know... Do you know what I'd like?
+  refs: 22 45
+- ¿Qué?
+  en: What?
+  refs: 1
+- Quedarme en Madrid.
+  en: To stay in Madrid.
+  refs: 44
+- ¿En agosto? ¿En Madrid?
+  en: In August? In Madrid?
+  refs: 2
+- Sí. No hay nadie, no hay colas, no hay coches.
+  en: Yes. There's nobody about, no queues, no cars.
+  refs: 8 46
+- Pues ¿sabes qué? A mí también me gustaría.
+  en: Well, do you know what? I'd like that too.
+  refs: 19 45
+- Entonces lo mejor de Madrid es agosto.
+  en: Then the best thing about Madrid is August.
+  refs: 47
+
+notes.en:
+Six lessons have gone by since the last revision, lessons 43 to 48. Nothing here needs to be learnt by heart. This lesson puts the future and the conditional in order, then the negatives and the superlatives. If a part seems too much, go on; it will come back, a little clearer each time. Doubts are normal, and every table here is a reminder, not a rule to memorise.
+
+1. The future (lesson 43) and si with the present and the future (lesson 44).
+
+| Use | Form | From the lessons |
+|---|---|---|
+| the infinitive, then the ending: -é, -ás, -á, -emos, -éis, -án | hablaré, hablarás, hablará ... | the same endings for every verb |
+| I | -é | No podré dormir (lesson 44, line 3) |
+| you (tú) | -ás | Tendrás una semana muy buena (lesson 43, line 1) |
+| he, she, you (usted) | -á | El domingo lloverá (lesson 41, line 6) |
+| we | -emos | Si hace sol, iremos a la sierra (lesson 44, line 1) |
+
+Some verbs take a shorter stem before the same endings. The lessons so far use three of them: tendr- (tener), har- (hacer), podr- (poder). Saldr-, vendr-, dir-, querr-, sabr- and pondr- follow the same pattern.
+
+| Infinitive | Stem | From the lessons |
+|---|---|---|
+| tener | tendr- | Tendrás (lesson 43) |
+| hacer | har- | Harás un viaje (lesson 43) |
+| poder | podr- | Podrás pagar todas tus deudas (lesson 43) |
+
+Si takes the present, then the future, and never the future after si: Si hace sol, iremos a la sierra (lesson 44). Si no duermes, estarás de mal humor (lesson 44).
+
+2. The conditional for politeness (lesson 45). It takes the same stems as the future, with the ending -ía for every person.
+
+| Spanish | English | From the lessons |
+|---|---|---|
+| podría | could | ¿Podría ayudarme? (lesson 45, line 1) |
+| querría | would like | Querría salir del hotel (lesson 45, line 5) |
+| me gustaría | I'd like | Me gustaría ver el museo (lesson 45, line 3) |
+
+3. The negatives (lessons 19, 39, 46). Spanish puts no before the verb and the negative word after it, so the double negative is correct: no he visto a nadie.
+
+| Positive | Negative | From the lessons |
+|---|---|---|
+| alguien, somebody | nadie, nobody | ¿Ha visto a alguien? (lesson 46); No he visto a nadie (lesson 46) |
+| algo, something | nada, nothing | ¿Ha oído algo? (lesson 46); No he oído nada (lesson 46) |
+| alguno, some | ninguno, none | ¿Alguna puerta abierta? (lesson 46); no hay ninguno barato (line 7) |
+| siempre, always | nunca, never | Y siempre me contestan en inglés (lesson 39); Nunca (lesson 46) |
+| también, too | tampoco, neither | Tampoco (lesson 46) |
+
+4. The superlatives and -ísimo (lesson 47), and mejor, peor, mayor, menor.
+
+| Form | English | From the lessons |
+|---|---|---|
+| el más bonito de Madrid | the prettiest in Madrid | Este es el piso más bonito de Madrid (lesson 47, line 1) |
+| -ísimo, very | very small, very bright | ¡Es pequeñísimo! (lesson 47, line 2); luminosísimo (lesson 47, line 3) |
+| lo mejor | the best (part) | Es lo mejor del piso (lesson 47, line 5) |
+| mejor | better, best | lo mejor del piso (lesson 47) |
+| peor | worse | not yet in a dialogue |
+| mayor, menor | older or bigger, younger or smaller | not yet in a dialogue |
+
+5. Qué or cuál (lessons 41, 48). Qué goes before a noun, and cuál stands alone when you choose one of several.
+
+| Question | English | From the lessons |
+|---|---|---|
+| ¿Qué tiempo hace? | What's the weather like? | lesson 41, line 1 |
+| ¿Qué le compramos a mamá? | What are we buying for Mum? | lesson 48, line 1 |
+| ¿Cuál? ¿El rojo o el negro? | Which one? The red or the black? | lesson 48, line 3 |
+
+The possessive pronouns take the article and agree with the noun they replace.
+
+| Masculine | Feminine | English | From the lessons |
+|---|---|---|---|
+| el mío | la mía | mine | Pues el rojo es como el mío (lesson 48, line 6) |
+| el tuyo | la tuya | yours | ¿Como el tuyo? (lesson 48, line 7) |
+| el suyo | la suya | his, hers | not yet in a dialogue |
+
+6. The relatives que, donde and lo que. These link one clause to the next: que for "the one that", donde for "where", lo que for "what". They come in the lessons ahead; here they are only named.
+
+| Relative | Meaning | From the lessons |
+|---|---|---|
+| que | the one that, the thing that | not yet in a dialogue |
+| donde | where | not yet in a dialogue |
+| lo que | what | not yet in a dialogue |
+
+aside.en:
+The second wave is coming: the instructions are in tomorrow's lesson.

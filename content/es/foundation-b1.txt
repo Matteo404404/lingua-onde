@@ -1,3 +1,488 @@
 course: es
 stage: foundation
 bases: en
+
+== 51 B1
+numeral: Lección cincuenta y una
+numeral.pron.en: lék*cion* cin*couén*ta i *ou*na
+title: Ojalá les toque
+title.en: Let's hope they win
+
+dialogue:
+- Perdone, ¿es esta la cola de la lotería?
+  en: Excuse me, is this the queue for the lottery?
+  pron.en: … loté*ri*a
+- Sí. ¿Cuánto tiempo lleva en la cola?
+  en: Yes. How long have you been in the queue?
+- Dos horas.
+  en: Two hours.
+- ¿Y para cuántos décimos?
+  en: And how many décimos are you buying?
+  pron.en: … *dé*cimoss
+- Veinte. Para todos mis compañeros.
+  en: Twenty. For all my colleagues.
+  pron.en: *béïn*té … compa*gné*ross
+- ¡Ojalá les toque!
+  en: I hope they win!
+  pron.en: oHa*la* léss *to*ké
+- Ojalá.
+  en: I hope so.
+- ¿Y usted no juega?
+  en: And don't you play?
+  pron.en: … *Houé*ga
+- Yo nunca juego.
+  en: I never play.
+  pron.en: … *Houé*go
+- ¿Y entonces?
+  en: So?
+- Si les toca a todos y a mí no, ¿qué hago? ¿Voy a trabajar solo?
+  en: If they all win and I don't, what do I do? Am I going to work on my own?
+  pron.en: … *to*ca … *a*go …
+- ¿Y qué va a hacer?
+  en: And what are you going to do?
+- Pues compro uno más. Para mí.
+  en: Well, I'll buy one more. For myself.
+  pron.en: … *com*pro …
+
+notes.en:
+1. Ojalá means "I hope", and it is followed by the subjunctive: ¡Ojalá les toque! is "I hope it falls to them", which in English is "I hope they win".
+2. The present subjunctive has its own endings. Verbs in -ar take -e in the third person (toque from tocar, hable from hablar), and verbs in -er and -ir take -a (coma from comer, viva from vivir). Only the third person is needed for now.
+3. Tocar, said of a prize, means that it falls to someone. Les toque is the subjunctive after ojalá, because the wish is about them.
+4. Si les toca a todos y a mí no is a real possibility, so Spanish uses the present, toca, with si, not the subjunctive. The subjunctive is for wishes, doubts and what is wanted, as in quiero que, which you met in lesson 50.
+5. Para mí, "for me", has an accent on the í, so that it is not mistaken for mi, "my".
+6. ¿Voy a trabajar solo? uses ir a with the infinitive, as in lesson 11, and it asks "am I going to work on my own?".
+
+culture.en:
+El Gordo is the Christmas lottery, drawn on 22 December, when the children of the San Ildefonso school sing the numbers. Each whole ticket is divided into ten décimos.
+
+ex1:
+- ¡Ojalá les toque!
+  en: I hope they win!
+- ¡Ojalá hable inglés!
+  en: I hope he speaks English!
+- Quiero que empiece hoy.
+  en: I want him to start today.
+- Yo nunca juego.
+  en: I never play.
+- Pues yo no juego.
+  en: Well, I don't play.
+
+ex2:
+- ¡Ojalá [hable] inglés!
+  en: I hope he speaks English!
+- Quiero que [empiece] mañana.
+  en: I want him to start tomorrow.
+- ¡Ojalá les [toque] a todos!
+  en: I hope it falls to all of them!
+- Si les [toca] a todos, ¿qué hago?
+  en: If it falls to all of them, what do I do?
+- Compro uno más para [mí].
+  en: I'm buying one more for myself.
+
+== 52 B1
+numeral: Lección cincuenta y dos
+numeral.pron.en: lék*cion* cin*couén*ta i doss
+title: Cuando seas mayor
+title.en: When you're older
+
+dialogue:
+- Escúchame un momento. Ahorra la mitad de tu paga.
+  en: Listen to me for a moment. Save half of your pocket money.
+  pron.en: éss*cou*tchamé … a*o*rra … mi*tad* … *pa*ga
+- ¿Para qué?
+  en: What for?
+- Para que tengas algo cuando seas mayor.
+  en: So that you have something when you're older.
+  pron.en: … *tén*gass … *sé*ass …
+- Pues yo no lo entiendo.
+  en: Well, I don't get it.
+  pron.en: … én*tién*do
+- Cuando seas mayor, lo entenderás.
+  en: You'll understand it when you're older.
+  pron.en: … énténdé*rass*
+- ¿El qué?
+  en: What, exactly?
+- Que te digo esto para que aprendas.
+  en: That I'm telling you this so that you learn.
+  pron.en: … *di*go … a*prén*dass
+- ¿Y qué tengo que aprender?
+  en: And what am I supposed to learn?
+  pron.en: … aprén*dér*
+- A no gastar la paga en un día.
+  en: Not to spend the pocket money in one day.
+  pron.en: … gass*tar* …
+- Vale, papá.
+  en: Okay, Dad.
+  pron.en: *ba*lé pa*pa*
+- Y ahora, ¿cómo pongo el móvil en silencio?
+  en: And now, how do I put the mobile on silent?
+  pron.en: … si*lén*cio
+- Cuando seas joven, lo entenderás.
+  en: You'll understand it when you're young.
+
+notes.en:
+1. Cuando seas mayor is a time still to come, so Spanish uses the subjunctive after cuando. A habit takes the present, as in cuando llego a casa, ceno ("when I get home, I have dinner"), where nothing is still to come.
+2. Para que tengas algo: para que, "so that", is followed by the subjunctive. Tengas is the tú form of tener in the subjunctive, and it is irregular, with the same stem as tenga; seas, the tú form of ser, follows the same pattern with sea.
+3. Lo entenderás is the future of entender, "you will understand", with lo before it. The future ending -ás is the one from lesson 43.
+4. ¿El qué?: "what, exactly?", a colloquial way to ask what someone means. The answer starts with que: (lo que entenderás es) que te digo esto...
+5. A no gastar la paga: aprender takes a before an infinitive (aprender a ahorrar); with no in front it is "not to spend".
+6. Joven, "young", is the opposite of mayor, and it takes the same seas, because it follows the same cuando.
+
+ex1:
+- Escúchame un momento.
+  en: Listen to me for a moment.
+- Vale, papá.
+  en: Okay, Dad.
+- Pues yo no lo entiendo.
+  en: Well, I don't get it.
+- Para que aprendas, ahorra.
+  en: So that you learn, save.
+- ¿Para qué?
+  en: What for?
+
+ex2:
+- Cuando [seas] joven, lo entenderás.
+  en: When you're young, you'll understand it.
+- Ahorra para que [tengas] algo.
+  en: Save so that you have something.
+- Para que [aprendas], escúchame.
+  en: So that you learn, listen to me.
+- Ahorra la [mitad] de tu paga.
+  en: Save half of your pocket money.
+- No tengo que [aprender] nada.
+  en: I don't have to learn anything.
+
+== 53 B1
+numeral: Lección cincuenta y tres
+numeral.pron.en: lék*cion* cin*couén*ta i tréss
+title: El tren ya había salido
+title.en: The train had already left
+
+dialogue:
+- ¿Qué tal el viaje?
+  en: How was the journey?
+- Horrible. Llegué al andén y el tren ya había salido.
+  en: Horrible. I got to the platform and the train had already left.
+  pron.en: o*rri*blé … an*dén* … sa*li*do
+- ¿Y qué hiciste?
+  en: And what did you do?
+- Llamé al hotel, pero ya habían dado mi habitación.
+  en: I phoned the hotel, but they had already given away my room.
+  pron.en: ya*mé* … a*bi*an … abita*cion*
+- ¡Qué faena! ¿Y dónde dormiste?
+  en: What a nuisance! And where did you sleep?
+  pron.en: … fa*é*na … dor*miss*té
+- En un banco de la estación. Hasta las cinco.
+  en: On a bench in the station. Until five.
+  pron.en: … *ban*co …
+- ¿Y llegaste a casa?
+  en: And did you get home?
+- Por fin, a las nueve de la noche.
+  en: At last, at nine in the evening.
+  pron.en: … fin …
+- ¿Y tu marido te esperaba?
+  en: And was your husband waiting for you?
+  pron.en: … ma*ri*do …
+- Eso creía yo.
+  en: That's what I thought.
+  pron.en: … cré*i*a …
+- ¿Y qué pasó?
+  en: And what happened?
+- Cuando llegué, mi marido ya se había comido mi cena.
+  en: When I got in, my husband had already eaten my dinner.
+  pron.en: … co*mi*do … *cé*na
+
+notes.en:
+1. El tren ya había salido is the pluperfect, "the train had already left": había, the imperfect of haber, followed by the past participle salido. It is used for an event that came before another past event.
+2. Ya goes before había, as in ya había salido and ya se había comido: it is the English "already", and it sits between the subject and the verb.
+3. Dado, the participle of dar, stays the same after había and habían, whatever the noun is, because the participle that follows haber never changes its ending.
+4. Esperaba is the imperfect, "was waiting", which sets the scene. We met it in lesson 36, where the preterite was used for what happened.
+5. Se había comido: comerse is "to eat up", with the pronoun se attached to comer. The se goes before había, never between había and comido.
+6. ¡Qué faena! Faena means a job or task, and in Madrid it is used as an exclamation for "what a nuisance!".
+
+culture.en:
+Renfe runs most of Spain's trains, and the Cercanías are the commuter trains around the big cities, Madrid among them.
+
+ex1:
+- Cuando llegué, el tren ya había salido.
+  en: When I arrived, the train had already left.
+- Yo ya había comido.
+  en: I had already eaten.
+- Yo esperaba en el andén.
+  en: I was waiting on the platform.
+- Ya se había comido la cena.
+  en: He had already eaten the dinner.
+- Ya habían dado mi habitación.
+  en: They had already given away my room.
+
+ex2:
+- Cuando [llegué], el tren ya había salido.
+  en: When I arrived, the train had already left.
+- Mi marido ya [se] había comido la cena.
+  en: My husband had already eaten the dinner.
+- Llamé al hotel, pero ya [habían] dado mi habitación.
+  en: I called the hotel, but they had already given away my room.
+- Yo [esperaba] en la estación.
+  en: I was waiting at the station.
+- Ya [habían] comido.
+  en: They had already eaten.
+
+== 54 B1
+numeral: Lección cincuenta y cuatro
+numeral.pron.en: lék*cion* cin*couén*ta i *coua*tro
+title: No creo que ganen
+title.en: I don't think they'll win
+
+dialogue:
+- Creo que ganará el Atleti.
+  en: I think Atleti will win.
+  pron.en: *cré*o … gana*ra* … at*lé*ti
+- Pues yo no creo que gane.
+  en: Well, I don't think they'll win.
+  pron.en: … *ga*né
+- Es posible que llueva y el campo esté mal.
+  en: It may rain, and the pitch may be bad. (It is possible that it rains and the pitch is bad.)
+  pron.en: … po*ssi*blé … *youé*ba … *cam*po éss*té* …
+- Puede que llueva, pero el Madrid va a ganar.
+  en: It may rain, but Madrid are going to win.
+  pron.en: … ga*nar*
+- Quizás. ¿Apostamos una cena?
+  en: Maybe. Shall we bet a dinner?
+  pron.en: ki*çass* aposs*ta*moss …
+- Vale. Si gana el Madrid, me invitas tú.
+  en: Okay. If Madrid win, you're buying me dinner.
+  pron.en: … *ga*na … in*bi*tass …
+- Y si gana el Atleti, me invitas tú a mí.
+  en: And if Atleti win, you buy me dinner.
+- ¿Y si empatan?
+  en: And if they draw?
+  pron.en: … ém*pa*tan
+- No creo que empaten.
+  en: I don't think they'll draw.
+  pron.en: … ém*pa*tén
+- ¡Uno a uno! Empate.
+  en: One-all! A draw.
+  pron.en: … ém*pa*té
+- Pues pagas tú, que dijiste que ganaba el Madrid.
+  en: Then you pay, since you said Madrid would win.
+  pron.en: … *pa*gass … ga*na*ba …
+- No, paga tú, que dijiste que ganaba el Atleti.
+  en: No, you pay, since you said Atleti would win.
+
+notes.en:
+1. Creo que ganará el Atleti: creo que is followed by the indicative, the normal form after "I think", and ganará is the future from lesson 43.
+2. No creo que gane: after no creo que, Spanish uses the subjunctive, gane, where English keeps "they'll win" in the future. It is the same -ar ending as in lesson 51.
+3. Es posible que and puede que both take the subjunctive, llueva, because the rain is not yet certain. Llueva is the subjunctive of llover, and it has the same stem change as llueve, "it rains".
+4. Empatar is "to draw", said of a match; the noun is empate, the draw itself.
+5. Quizás means "maybe". It can stand alone, as here, or come before a verb in the subjunctive, as in quizás ganen.
+6. Dijiste que ganaba el Madrid reports what was said earlier, with the imperfect ganaba, which we met in lesson 36.
+
+culture.en:
+The Madrid derby is the match between Real Madrid and Atlético de Madrid, the two big clubs of the city.
+
+ex1:
+- Creo que llueve.
+  en: I think it's raining.
+- No creo que gane.
+  en: I don't think he'll win.
+- Puede que empaten.
+  en: They may draw.
+- Quizás llueva.
+  en: Perhaps it will rain.
+- Apostamos una cena.
+  en: We're betting a dinner.
+
+ex2:
+- Creo que [ganará] el Madrid.
+  en: I think Madrid will win.
+- No creo que [gane] el Atleti.
+  en: I don't think Atleti will win.
+- Es posible que [llueva].
+  en: It's possible that it will rain.
+- Puede que [empaten].
+  en: They may draw.
+- ¡Uno a uno! [Empate].
+  en: One-all! A draw.
+
+== 55 B1
+numeral: Lección cincuenta y cinco
+numeral.pron.en: lék*cion* cin*couén*ta i *cin*co
+title: Es importante que descanses
+title.en: It's important you rest
+
+dialogue:
+- ¿Qué tengo que hacer esta noche?
+  en: What do I have to do tonight?
+- Como entrenador te digo que es importante que descanses.
+  en: As your coach, I'm telling you it's important that you rest.
+  pron.en: … éntréna*dor* … impor*tan*té … déss*can*sséss
+- ¿Y cenar?
+  en: And dinner?
+- Es mejor que comas pasta.
+  en: It's better that you eat pasta.
+  pron.en: … *co*mass *pass*ta
+- ¿Y puedo salir un rato?
+  en: And can I go out for a while?
+  pron.en: … *ra*to
+- No, no salgas.
+  en: No, don't go out.
+  pron.en: … *sal*gass
+- ¿Ni a tomar algo?
+  en: Not even for a drink?
+- Ni a tomar algo. Hace falta que duermas.
+  en: Not even for a drink. You need to get some sleep.
+  pron.en: … *fal*ta … *douér*mass
+- ¿Y tú? ¿Qué haces esta noche?
+  en: And you? What are you doing tonight?
+- Pues voy a un concierto.
+  en: Well, I'm going to a concert.
+  pron.en: … con*ciér*to
+- ¿Y no tienes que descansar?
+  en: And don't you have to rest?
+- Yo no corro mañana.
+  en: I'm not running tomorrow.
+  pron.en: … *co*rro …
+
+notes.en:
+1. Es importante que descanses: after es importante que, Spanish uses the subjunctive. For tú, -ar verbs take -es, so descansar gives descanses, and the -e of the third person from lesson 51 becomes -es with tú.
+2. Es mejor que comas: for tú, -er verbs take -as, so comer gives comas. The pattern is the same as in lesson 51, with the tú ending.
+3. Hace falta que duermas: hace falta, "it is needed", takes que and the subjunctive. Dormir changes its o to ue, as in duermes, so the subjunctive is duermas.
+4. No salgas is the negative command, "don't go out". It uses the subjunctive with no in front, so it is the same form as the subjunctive you have just met: salgas.
+5. Ni a tomar algo: ni means "not even", as we saw in lesson 50, and it comes at the front of the phrase.
+6. Yo no corro mañana is in the present indicative, because it states a plan, not a wish or an obligation. Corro is the first person of correr, "to run".
+
+aside.en:
+The subjunctive will not be learnt in a week: you are meeting it, and that is enough.
+
+ex1:
+- Es importante que comas.
+  en: It's important that you eat.
+- No salgas esta noche.
+  en: Don't go out tonight.
+- Hace falta que descanses.
+  en: You need to rest.
+- Es mejor que comas poco.
+  en: It's better that you don't eat much.
+- Yo no corro mañana.
+  en: I'm not running tomorrow.
+
+ex2:
+- Es importante que [descanses].
+  en: It's important that you rest.
+- Es mejor que [comas] pasta.
+  en: It's better that you eat pasta.
+- Hace falta que [duermas].
+  en: You need to get some sleep.
+- No [salgas] esta noche.
+  en: Don't go out tonight.
+- Yo no [corro] mañana.
+  en: I'm not running tomorrow.
+
+== 56 B1
+kind: revision
+numeral: Lección cincuenta y seis
+numeral.pron.en: lék*cion* cin*couén*ta i séïss
+title: Revisión y notas
+title.en: Revision and notes
+
+dialogue:
+- Mamá, ¿me ayudas con esto?
+  en: Mum, will you help me with this?
+  refs: 45 16
+- Claro. Pero llámame cuando estés en tu piso.
+  en: Of course. But call me when you're in your flat.
+  refs: 15 40 52
+- ¿Cada día?
+  en: Every day?
+  refs: 25 28
+- Sí. Quiero que me llames todos los días.
+  en: Yes. I want you to call me every day.
+  refs: 50 28
+- Vale, mamá.
+  en: Okay, Mum.
+  refs: 16
+- Ojalá comas bien.
+  en: I hope you eat well.
+  refs: 51 55
+- Como bien.
+  en: I eat well.
+  refs: 37
+- No. Comes siempre en el bar.
+  en: No. You always eat at the bar.
+  refs: 10 23 37
+- Bueno, a veces.
+  en: Well, sometimes.
+  refs: 1
+- Y no invites a muchas amigas.
+  en: And don't invite lots of friends.
+  refs: 14 54
+- ¿Por qué no?
+  en: Why not?
+  refs: 9
+- Porque el piso es pequeñísimo.
+  en: Because the flat is tiny.
+  refs: 12 47
+- ¿Y cuándo vuelves a casa?
+  en: And when are you going back home?
+  refs: 44 15
+- No vuelvo. Me he quedado con el piso de al lado.
+  en: I'm not going back. I've taken the flat next door.
+  refs: 49 12 47
+
+notes.en:
+Nothing in this lesson needs to be learnt by heart. The subjunctive is new, and doubts about it are normal: it comes back in every lesson ahead, and each time it will feel more familiar. Use the tables as reminders, not as rules to memorise.
+
+1. The present subjunctive (lessons 50, 51, 52, 55). For -ar verbs the endings are -e and -es, for -er and -ir verbs -a and -as.
+
+| Verb | he, she, you (usted) | you (tú) | From the lessons |
+|---|---|---|---|
+| hablar | hable | hables | que hable inglés (lesson 50) |
+| comer | coma | comas | Es mejor que comas pasta (lesson 55) |
+| vivir | viva | vivas | not yet in a dialogue |
+| ser | sea | seas | Cuando seas mayor (lesson 52) |
+| estar | esté | estés | cuando estés en tu piso (this lesson, line 2) |
+| tener | tenga | tengas | Para que tengas algo (lesson 52) |
+| ir | vaya | vayas | not yet in a dialogue |
+| haber | haya | hayas | not yet in a dialogue |
+| saber | sepa | sepas | not yet in a dialogue |
+| hacer | haga | hagas | not yet in a dialogue |
+| decir | diga | digas | not yet in a dialogue |
+| poder | pueda | puedas | not yet in a dialogue |
+
+Some verbs change their stem in the subjunctive, as they do in the present. Empezar gives empiece (quiero que empiece mañana, lesson 50), dormir gives duerma and duermas (Hace falta que duermas, lesson 55), and llover gives llueva (Es posible que llueva, lesson 54).
+
+2. When it comes. The subjunctive appears after a phrase that wishes, aims, doubts or says what is needed, and after cuando when the time is still to come.
+
+| Use | Phrase | From the lessons |
+|---|---|---|
+| a wish | ojalá, ¡Ojalá les toque! | lesson 51 |
+| a wish, or what someone wants | quiero que, Quiero que empiece mañana | lesson 50 |
+| a purpose | para que, Para que tengas algo | lesson 52 |
+| a time still to come | cuando, Cuando seas mayor | lesson 52 |
+| a doubt | no creo que, No creo que gane; puede que, Puede que llueva | lesson 54 |
+| what is important or needed | es importante que, Es importante que descanses; hace falta que | lesson 55 |
+
+3. The pluperfect (lesson 53): había or habían with the past participle, for an event before another past event.
+
+| Person | haber in the imperfect | From the lessons |
+|---|---|---|
+| I, he, she, you (usted) | había | El tren ya había salido (lesson 53) |
+| you (tú) | habías | not yet in a dialogue |
+| they, you all (ustedes) | habían | ya habían dado mi habitación (lesson 53) |
+
+Ya goes before the verb group: ya había salido, ya se había comido.
+
+4. Creo que against no creo que (lesson 54). After creo que comes the indicative; after no creo que comes the subjunctive.
+
+| Phrase | Mood | From the lessons |
+|---|---|---|
+| Creo que | indicative | Creo que ganará el Atleti (lesson 54) |
+| No creo que | subjunctive | No creo que gane (lesson 54); No creo que empaten (lesson 54) |
+
+5. The negative command (lesson 55): no with the subjunctive, for tú and for usted.
+
+| Person | Negative command | From the lessons |
+|---|---|---|
+| tú, -ar verbs | no + -es | No invites a muchas amigas (this lesson, line 10) |
+| tú, -er and -ir verbs | no + -as | No, no salgas (lesson 55) |
+| usted | no + the usted form | not yet in a dialogue |

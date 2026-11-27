@@ -259,3 +259,14 @@ word the tool figured wrongly, anything you were unsure of.
   lesson 36).
 - When a line is unclear in English ("the red one is mine" for "I have the
   same one"), change the Spanish so it says what is meant.
+
+## Rules added after week 8
+
+- If the plan's scene has no twist, make one that the scene sets up (the
+  candidate's mother is from Cádiz, so he will understand the cook), not a
+  line that repeats what has already happened.
+- No line after the twist to tidy the story up ("Pues pagamos los dos").
+- A blank never hides a number or a word the English gives away letter for
+  letter; blank the verb form the lesson teaches.
+- A verb's preposition is explained with the verb (aprender a), not called
+  a "to-infinitive".

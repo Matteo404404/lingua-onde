@@ -2024,3 +2024,89 @@ The possessive pronouns take the article and agree with the noun they replace.
 
 aside.en:
 The second wave is coming: the instructions are in tomorrow's lesson.
+
+== 50 A2
+numeral: Lección cincuenta
+numeral.pron.en: lék*cion* cin*couén*ta
+title: Se busca camarero
+title.en: Waiter wanted
+
+dialogue:
+- ¿Habla usted inglés?
+  en: Do you speak English?
+- Sí, soy de Brístol.
+  en: Yes, I'm from Bristol.
+- ¿Y español?
+  en: And Spanish?
+- Un poco.
+  en: A little.
+- ¿Ha trabajado en un bar?
+  en: Have you worked in a bar?
+  pron.en: … traba*Ha*do …
+- Sí. Trabajé dos años en Londres.
+  en: Yes. I worked for two years in London.
+  pron.en: … traba*Hé* …
+- Perfecto. Quiero que empiece mañana.
+  en: Perfect. I want you to start tomorrow.
+  pron.en: pér*féc*to *kié*ro … ém*pié*cé …
+- ¿A qué hora empiezo?
+  en: What time do I start?
+  pron.en: … ém*pié*ço
+- A las ocho. Aquí vienen muchos turistas.
+  en: At eight. Lots of tourists come here.
+  pron.en: … *bié*nén *mou*tchoss tou*riss*tass
+- Ya lo veo. ¿Y el cocinero habla inglés?
+  en: I can see that. Does the cook speak English?
+  pron.en: … *bé*o … coci*né*ro …
+- No. Es de Cádiz, y habla tan deprisa que no lo entiende nadie.
+  en: No. He's from Cádiz, and he speaks so fast that nobody understands him.
+  pron.en: … *ca*diç … tan dé*pri*ssa … én*tién*dé …
+- ¿Ni usted?
+  en: Not even you?
+  pron.en: ni …
+- Yo menos. Por eso necesito a alguien que hable inglés... y que lo entienda.
+  en: Even less. (Me less.) That's why I need someone who speaks English... and who understands him.
+  pron.en: … nécé*ssi*to … *a*blé … én*tién*da
+- Pues mi madre es de Cádiz.
+  en: Well, my mother is from Cádiz.
+  pron.en: … *ma*dré …
+
+notes.en:
+1. ¿Habla usted inglés? uses usted, the form for a stranger in a formal setting such as an interview. The candidate answers with usted too, so each keeps the same form from the first line to the last.
+2. Soy de Brístol is "I'm from Bristol": ser, with de for the place someone comes from.
+3. ¿Ha trabajado en un bar? is the perfect, "have you ever worked in a bar?", because the time is not over. Trabajé dos años is the preterite, since two years is a time that is over (lesson 29).
+4. Quiero que empiece mañana: when the person who starts is someone else, Spanish puts que after the verb and uses a different form, empiece, where English says "I want you to start". We will come back to that form in lesson 51.
+5. Tan deprisa que: tan ... que means "so ... that", and the two parts go together, as in English. Deprisa is "fast" and is an adverb, so it does not change.
+6. No lo entiende nadie: as in lesson 46, no comes before the verb and nadie comes after it, so the double negative is correct.
+7. Yo menos is short for "I understand him even less", and the verb is left out because the question before has already said it.
+8. Necesito a alguien: the a comes before alguien, because alguien is a person and the object, as in lesson 46. Que lo entienda is the same form after alguien que: a person the boss is looking for, not one he knows.
+
+culture.en:
+The Santiago Bernabéu is the stadium of Real Madrid, named after Santiago Bernabéu, who was the club's president for many years.
+
+aside.en:
+The second wave starts today: after this lesson, take lesson 1, cover the Spanish, say it aloud from the English, then check.
+
+ex1:
+- ¿Habla usted español?
+  en: Do you speak Spanish?
+- Trabajé dos años en Londres.
+  en: I worked for two years in London.
+- Quiero que empiece hoy.
+  en: I want you to start today.
+- Ya lo veo.
+  en: I can see that.
+- No lo entiende nadie.
+  en: Nobody understands him.
+
+ex2:
+- ¿[Ha] trabajado en un bar?
+  en: Have you worked in a bar?
+- [Trabajé] dos años en Londres.
+  en: I worked two years in London.
+- Habla tan [deprisa] que no lo entiende nadie.
+  en: He speaks so fast that nobody understands him.
+- ¿A qué [hora] empiezo?
+  en: What time do I start?
+- Necesito a [alguien] que hable inglés.
+  en: I need someone who speaks English.

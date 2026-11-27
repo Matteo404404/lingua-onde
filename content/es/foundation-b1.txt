@@ -486,3 +486,562 @@ Ya goes before the verb group: ya había salido, ya se había comido.
 | tú, -ar verbs | no + -es | No invites a muchas amigas (this lesson, line 10) |
 | tú, -er and -ir verbs | no + -as | No, no salgas (lesson 55) |
 | usted | no + the usted form | not yet in a dialogue |
+
+== 57 B1
+numeral: Lección cincuenta y siete
+numeral.pron.en: lék*cion* cin*couén*ta i *sié*té
+title: El Camino
+title.en: The Way
+
+dialogue:
+- ¿Tienes el mapa en la mochila?
+  en: Have you got the map in your backpack?
+  pron.en: … *ma*pa … mo*tchi*la
+- No. Se me ha olvidado.
+  en: No. I've forgotten it. (It has forgotten itself on me.)
+  pron.en: … olbi*da*do
+- ¿Y el agua?
+  en: And the water?
+- Tampoco. Se me ha olvidado.
+  en: No water either. I've forgotten that too.
+- ¿Y la crema solar?
+  en: And the sun cream?
+  pron.en: … *cré*ma so*lar*
+- Esa también. Se me ha olvidado.
+  en: That one too. I've forgotten it.
+- No te preocupes.
+  en: Don't worry.
+  pron.en: … préo*cou*péss
+- ¿Y si no hay agua?
+  en: And what if there is no water?
+- Pues no te pares, y no mires atrás.
+  en: Then don't stop, and don't look back.
+  pron.en: … *pa*réss … *mi*réss a*trass*
+- ¿Y por qué no miro atrás?
+  en: And why mustn't I look back?
+  pron.en: … *mi*ro …
+- Porque si miras atrás, quieres volver.
+  en: Because if you look back, you want to go back.
+  pron.en: … *mi*rass … bol*bér*
+- Mira, el albergue de los peregrinos. Está completo.
+  en: Look, the pilgrims' hostel. It's full.
+  pron.en: … al*bér*gué … péré*gri*noss … com*plé*to
+- No te preocupes. Tenemos camas.
+  en: Don't worry. We've got beds.
+  pron.en: … té*né*moss *ca*mass
+- ¿Sí? ¿Llamaste ayer?
+  en: Really? Did you call yesterday?
+  pron.en: … ya*mass*té …
+- Se me ha olvidado.
+  en: I've forgotten.
+
+notes.en:
+1. Se me ha olvidado is the involuntary se: the forgetting happens to me, so Spanish says the thing has forgotten itself on me. The verb agrees with the thing forgotten, not with me.
+2. Tampoco is the opposite of también: it means "not that either", and it answers the question by itself.
+3. No te preocupes: preocuparse is "to worry", and in the negative command for tú the pronoun goes between no and the verb. The verb is the subjunctive form, so preocuparse gives preocupes.
+4. No mires atrás: mirar takes -es for tú in the negative command, as salgas did in lesson 55. Atrás means "back", as in "behind".
+5. Pararse is "to stop", and in no te pares the te comes after no, as with preocuparse. Completo means "full" here, not "complete": there are no beds left.
+6. Llamaste is the preterite of llamar, "did you call", for yesterday, a time that is over: the same tense as in lesson 29.
+
+culture.en:
+The Camino de Santiago is the old pilgrims' way to Santiago de Compostela. Walkers follow the shell symbol and the yellow arrows painted on walls, posts and stones, and they stop at albergues, the pilgrims' hostels.
+
+aside.en:
+From now on, watch for phrases with no word-for-word English: the notes give their literal sense.
+
+ex1:
+- Se me ha olvidado el agua.
+  en: I've forgotten the water.
+- No te preocupes.
+  en: Don't worry.
+- No te pares.
+  en: Don't stop.
+- No mires atrás.
+  en: Don't look back.
+- Tampoco tengo mapa.
+  en: I haven't got a map either.
+
+ex2:
+- Se me ha [olvidado] la crema solar.
+  en: I've forgotten the sun cream.
+- No te [preocupes].
+  en: Don't worry.
+- No [mires] atrás.
+  en: Don't look back.
+- No te [pares] ahora.
+  en: Don't stop now.
+- ¿Tú [llamaste] ayer?
+  en: Did you call yesterday?
+
+== 58 B1
+numeral: Lección cincuenta y ocho
+numeral.pron.en: lék*cion* cin*couén*ta i *o*tcho
+title: La compostela
+title.en: The compostela
+
+dialogue:
+- Buenos días. ¿Me da la credencial, por favor?
+  en: Good morning. Your credential, please?
+  pron.en: … da … crédén*cial* …
+- Aquí la tiene, con todos los sellos.
+  en: Here you are, with all the stamps. (Here [you] have it.)
+  pron.en: … *sé*yoss
+- Muy bien. ¿Cuántos kilómetros ha hecho a pie?
+  en: Very good. How many kilometres have you walked?
+  pron.en: … ki*lo*métross … *é*tcho … pié
+- Casi todos. Desde Sarria, a pie.
+  en: Nearly all of them. From Sarria, on foot.
+  pron.en: *ca*ssi … *déss*dé *sa*rria …
+- ¿Y dónde ha dormido?
+  en: And where have you slept?
+- En albergues, y una noche en un granero.
+  en: In hostels, and one night in a barn.
+  pron.en: … al*bér*guéss … gra*né*ro
+- Menos mal que no llovió.
+  en: It's just as well it didn't rain.
+  pron.en: … yo*bio*
+- Sí. Solo llovió un día.
+  en: Yes. It rained only one day.
+- ¿Y hoy ha llegado a Santiago?
+  en: And did you arrive in Santiago today?
+  pron.en: … yé*ga*do …
+- Sí. Al llegar, lo primero fue la catedral.
+  en: Yes. On arriving, the first thing was the cathedral.
+- Muy bien. ¿Y la última etapa la hizo a pie?
+  en: Very good. And did you walk the last stage?
+  pron.en: … é*ta*pa … *i*ço …
+- Pues la última la hice en autobús.
+  en: Well, I did the last stage by bus.
+  pron.en: … *i*cé …
+- Entonces no le puedo dar la compostela.
+  en: Then I can't give you the compostela.
+  pron.en: … dar … composs*té*la
+
+notes.en:
+1. Menos mal means "just as well", literally "less badly". Menos mal que no llovió is "it's just as well it didn't rain": the nearest English is "thank goodness".
+2. Llovió is the preterite of llover, "it rained", for a time that is over, as in lesson 29. Solo means "only".
+3. Ha llegado is the perfect, "have arrived", because hoy, "today", is not over yet, as in lesson 18.
+4. Al llegar: al is a + el, and a verb in the infinitive after it means "on arriving", or "when I arrived". Lo primero is "the first thing".
+5. La última la hice: la última etapa comes first, and the pronoun la repeats it before the verb. Hice is the preterite of hacer, "I did".
+
+culture.en:
+The compostela is the certificate given at the pilgrims' office in Santiago to those who have walked at least the last 100 kilometres, or the last 200 by bicycle.
+
+ex1:
+- Menos mal que no llovió.
+  en: It's just as well it didn't rain.
+- Al llegar, lo primero es la catedral.
+  en: On arriving, the first thing is the cathedral.
+- Llovió solo un día.
+  en: It rained only one day.
+- Hoy ha llegado a Santiago.
+  en: Today he has arrived in Santiago.
+- La última etapa la hice en autobús.
+  en: I did the last stage by bus.
+
+ex2:
+- Menos mal que no [llovió].
+  en: It's just as well it didn't rain.
+- Al [llegar], lo primero fue la catedral.
+  en: On arriving, the first thing was the cathedral.
+- Hoy ha [llegado] a Santiago.
+  en: Today he has arrived in Santiago.
+- La última etapa la [hice] en autobús.
+  en: I did the last stage by bus.
+- ¿Cuántos kilómetros ha [hecho] a pie?
+  en: How many kilometres have you walked?
+
+== 59 B1
+numeral: Lección cincuenta y nueve
+numeral.pron.en: lék*cion* cin*couén*ta i *noué*bé
+title: Se habla inglés
+title.en: English spoken
+
+dialogue:
+- Buenos días. ¿Se habla inglés aquí?
+  en: Good morning. Is English spoken here?
+- Sí.
+  en: Yes.
+- ¿Se venden recuerdos de Madrid?
+  en: Are souvenirs of Madrid sold here?
+  pron.en: … *bén*dén ré*couér*doss …
+- Sí.
+  en: Yes.
+- ¿Y se alquilan bicicletas?
+  en: And are bicycles rented?
+  pron.en: … al*ki*lan bici*clé*tass
+- Sí.
+  en: Yes.
+- ¿Y usted habla inglés?
+  en: And do you speak English?
+- ¿Yo? No, ni una palabra.
+  en: Me? No, not a word.
+  pron.en: … pa*la*bra
+- Pero el cartel dice que se habla inglés.
+  en: But the sign says English is spoken.
+  pron.en: … car*tél* …
+- Sí: se habla. Lo habla mi hijo.
+  en: Yes: it is spoken. My son speaks it.
+  pron.en: … *i*Ho
+- ¿Y dónde está su hijo?
+  en: And where is your son?
+- En Londres.
+  en: In London.
+
+notes.en:
+1. Se habla inglés is the impersonal se: nobody is named, and the verb stays singular, so the sign says "English is spoken", literally "one speaks English".
+2. Se venden recuerdos and se alquilan bicicletas use the passive se: the noun after the verb is the thing sold or rented, and the verb agrees with it. Se vende un recuerdo is singular; se venden recuerdos is plural.
+3. Recuerdo is a souvenir, something to take home. The verb recordar is "to remember", not "to record", which is grabar.
+4. ¿Y usted habla inglés?: usted, because the tourist speaks to the shopkeeper as a stranger. Lo habla mi hijo: lo stands for el inglés, the language. Ni una palabra is "not a single word".
+5. We will see the whole table of the se forms, impersonal and passive, in the revision lesson, lesson 63.
+
+ex1:
+- Se habla español aquí.
+  en: Spanish is spoken here.
+- Se venden recuerdos.
+  en: Souvenirs are sold.
+- Se alquilan bicicletas.
+  en: Bicycles are rented.
+- Aquí se espera mucho.
+  en: One waits a lot here.
+- Aquí se habla mucho.
+  en: People talk a lot here.
+
+ex2:
+- Se [habla] inglés aquí.
+  en: English is spoken here.
+- Se [venden] recuerdos.
+  en: Souvenirs are sold.
+- Se [alquilan] bicicletas.
+  en: Bicycles are rented.
+- Aquí [se] espera mucho.
+  en: One waits a lot here.
+- ¿Se [habla] español aquí?
+  en: Is Spanish spoken here?
+
+== 60 B1
+numeral: Lección sesenta
+numeral.pron.en: lék*cion* sé*ssén*ta
+title: Estoy aburrida
+title.en: I'm bored
+
+dialogue:
+- ¿Qué tal la película?
+  en: How is the film?
+  pron.en: … pé*li*coula
+- Muy larga. Estoy aburrida.
+  en: Very long. I'm bored.
+  pron.en: … abou*rri*da
+- ¿Soy aburrido?
+  en: Am I boring?
+  pron.en: … abou*rri*do
+- No. Tú no eres aburrido. La película es aburrida.
+  en: No. You're not boring. The film is boring.
+- Vale. ¿Cenamos? En el bar de enfrente la comida está muy rica.
+  en: Okay. Shall we have dinner? The food in the bar opposite is very tasty.
+  pron.en: … cé*na*moss … co*mi*da … *ri*ca
+- Sí. ¿Estás listo para cenar?
+  en: Yes. Are you ready for dinner?
+  pron.en: … *liss*to …
+- Sí. Soy muy listo.
+  en: Yes. I'm very clever.
+- No te pregunto si eres listo. Te pregunto si estás listo.
+  en: I'm not asking if you're clever. I'm asking if you're ready.
+  pron.en: … pré*goun*to …
+- Ah, perdona. Pues sí, estoy listo.
+  en: Oh, sorry. Well, yes, I'm ready.
+- Entonces, ¿nos vamos?
+  en: Then shall we go?
+- Vale. ¿Y tú estás lista?
+  en: Okay. And are you ready?
+- Soy lista: me voy.
+  en: I'm clever: I'm off.
+
+notes.en:
+1. Estoy aburrida: with estar, aburrido means "bored", a feeling that can change from one minute to the next. Eres aburrido, with ser, would say what you are like, as a person.
+2. La película es aburrida: the film is boring, with ser, because that is what the film is like, not how someone feels.
+3. Listo changes with the verb: with ser, soy listo, it means "clever"; with estar, estoy listo, it means "ready". Notice that both sentences in the dialogue use the same word.
+4. La comida está muy rica: rica, "tasty", is said of food with estar. Said of a person with ser, rico means "rich".
+5. The full table of ser and estar with adjectives, with the other adjectives that change their meaning, is in the revision lesson, lesson 63.
+
+ex1:
+- Estoy aburrido.
+  en: I'm bored.
+- Eres aburrida.
+  en: You are boring.
+- Estoy listo.
+  en: I'm ready.
+- Soy listo.
+  en: I'm clever.
+- La comida está muy rica.
+  en: The food is very tasty.
+
+ex2:
+- Estoy [aburrida] en casa.
+  en: I'm bored at home.
+- La película es [aburrida].
+  en: The film is boring.
+- ¿Estás [listo] para cenar?
+  en: Are you ready for dinner?
+- Tú no eres [aburrido].
+  en: You are not boring.
+- Ella es [lista].
+  en: She is clever.
+
+== 61 B1
+numeral: Lección sesenta y una
+numeral.pron.en: lék*cion* sé*ssén*ta i *ou*na
+title: Me puse rojo
+title.en: I went red
+
+dialogue:
+- ¿Qué tal la boda?
+  en: How was the wedding?
+  pron.en: … *bo*da
+- Bien. Yo era el padrino.
+  en: Fine. I was the padrino.
+  pron.en: … pa*dri*no
+- ¿Y el discurso?
+  en: And the speech?
+  pron.en: … diss*cour*sso
+- Me puse rojo nada más empezar.
+  en: I went red as soon as I started. (I put myself red as soon as I started.)
+  pron.en: … émpé*çar*
+- ¿Y eso?
+  en: Why was that?
+- Porque todos me miraban.
+  en: Because everybody was looking at me.
+  pron.en: … mi*ra*ban
+- ¿Y luego?
+  en: And then?
+- Me quedé en blanco. No sabía qué decir.
+  en: I went blank. I didn't know what to say.
+  pron.en: … ké*dé* … sa*bi*a … dé*cir*
+- ¿Y qué hiciste?
+  en: And what did you do?
+- Me quedé callado.
+  en: I went quiet.
+  pron.en: … ca*ya*do
+- ¿Y la gente qué dijo?
+  en: And what did people say?
+  pron.en: … *Hén*té … *di*Ho
+- Nada. Fue el mejor discurso de la noche: nadie lo escuchó.
+  en: Nothing. It was the best speech of the night: nobody heard it.
+  pron.en: … ésscou*tcho*
+
+notes.en:
+1. Me puse rojo: ponerse with an adjective means "to go" or "to get", a change in the person. Me puse nervioso would be "I got nervous".
+2. Me quedé en blanco and me quedé callado: quedarse with an adjective is "to go" as well, and en blanco is "blank". Quedarse also means "to stay", as in nos quedamos en casa in lesson 44.
+3. Me puse and me quedé are the preterite, one moment that is over. Todos me miraban is the imperfect, the background of the scene, as in lesson 36.
+4. Nada más empezar: nada más with an infinitive means "as soon as", as in nada más llegar.
+5. Yo era el padrino: era is the imperfect of ser, for a role the speaker had at that time. Padrino is "godfather" at a christening; at a wedding it is the man who walks with the couple, traditionally the bride's father. English has no exact word: "best man" is the nearest.
+
+culture.en:
+A Spanish wedding has no best man as in Britain: the padrino and the madrina, traditionally the bride's father and the groom's mother, walk with the couple to the altar.
+
+ex1:
+- Me puse enfermo.
+  en: I got ill.
+- Me quedé callado.
+  en: I went quiet.
+- Me quedé en blanco.
+  en: I went blank.
+- Todos me miraban.
+  en: Everybody was looking at me.
+- Nada más empezar.
+  en: As soon as I started.
+
+ex2:
+- Me [puse] rojo.
+  en: I went red.
+- Me [quedé] callado.
+  en: I went quiet.
+- Todos me [miraban].
+  en: Everybody was looking at me.
+- Fue el mejor [discurso].
+  en: It was the best speech.
+- Yo [era] el padrino.
+  en: I was the padrino.
+
+== 62 B1
+numeral: Lección sesenta y dos
+numeral.pron.en: lék*cion* sé*ssén*ta i doss
+title: Llevo dos horas esperando
+title.en: I've been waiting two hours
+
+dialogue:
+- Buenos días. ¿Tiene número?
+  en: Good morning. Do you have a number?
+- Tengo cita previa en el ayuntamiento a las diez.
+  en: I have an appointment at the town hall at ten.
+  pron.en: … *ci*ta *pré*bia … ayounta*mién*to …
+- Son las doce y media. Siga esperando, por favor.
+  en: It's half past twelve. Keep waiting, please.
+  pron.en: … *do*cé … *si*ga ésspé*ran*do …
+- Llevo dos horas esperando.
+  en: I've been waiting for two hours.
+- Ya lo sé. La cola va bajando. Siga esperando.
+  en: I know. The queue is getting shorter. Keep waiting.
+  pron.en: … ba*Han*do …
+- ¿Y cuándo llega el jefe?
+  en: And when does the boss arrive?
+- El jefe todavía no ha llegado. Siga esperando.
+  en: The boss hasn't arrived yet. Keep waiting.
+- ¿Y a qué hora suele llegar?
+  en: And what time does he usually arrive?
+  pron.en: … *soué*lé …
+- Cuando llegue. Siga esperando.
+  en: When he arrives. Keep waiting.
+  pron.en: … *yé*gué …
+- ¿Y usted es el funcionario de esta ventanilla?
+  en: And are you the civil servant at this window?
+  pron.en: … founcio*na*rio … bénta*ni*ya
+- Sí. ¿Y usted quién es?
+  en: Yes. And who are you?
+- Pues siga esperando usted: el nuevo jefe soy yo.
+  en: Well, you keep waiting, then: I'm the new boss.
+
+notes.en:
+1. Llevo dos horas esperando: llevar with a time and the gerund says how long something has been going on. English says "I've been waiting", and Spanish counts the hours, as in lesson 39 with llevo tres años.
+2. Siga esperando: seguir with the gerund means "keep on waiting". Siga is the usted form, which the clerk uses to a stranger in an office.
+3. La cola va bajando: ir with the gerund shows something that changes step by step. Va bajando is "is getting shorter".
+4. Cuando llegue: cuando with the subjunctive is used for a time still to come, as in lesson 52 with cuando seas mayor. Llegue is the subjunctive of llegar.
+5. Suele llegar: soler with the infinitive means "usually", as in lesson 37 with suelo estar.
+
+culture.en:
+Many Spanish offices, town halls among them, work by cita previa: you book a time in advance and go to the office at that time.
+
+ex1:
+- Llevo tres horas esperando.
+  en: I've been waiting three hours.
+- Siga esperando, por favor.
+  en: Keep waiting, please.
+- La cola va bajando.
+  en: The queue is getting shorter.
+- Suele llegar tarde.
+  en: He usually arrives late.
+- Cuando llegue el jefe.
+  en: When the boss arrives.
+
+ex2:
+- Llevo dos horas [esperando].
+  en: I've been waiting two hours.
+- [Siga] esperando, por favor.
+  en: Keep waiting, please.
+- La cola va [bajando].
+  en: The queue is getting shorter.
+- Yo [suelo] llegar tarde.
+  en: I usually arrive late.
+- Cuando [llegue] el jefe.
+  en: When the boss arrives.
+
+== 63 B1
+kind: revision
+numeral: Lección sesenta y tres
+numeral.pron.en: lék*cion* sé*ssén*ta i tréss
+title: Revisión y notas
+title.en: Revision and notes
+
+dialogue:
+- Perdone, ¿es usted el último de la cola?
+  en: Excuse me, are you the last in the queue?
+  refs: 4 7 26 49
+- Sí. Llevo dos horas esperando.
+  en: Yes. I've been waiting two hours.
+  refs: 39 62
+- ¿Dos horas? Yo llevo tres.
+  en: Two hours? I've been waiting three.
+  refs: 39
+- Pues no se vaya: la cola va bajando.
+  en: Then don't go: the queue is getting shorter.
+  refs: 55 62
+- No me voy. Se me ha olvidado el número.
+  en: I'm not going. I've forgotten the number.
+  refs: 57 62
+- No se preocupe. Aquí pone que se ruega silencio.
+  en: Don't worry. It says here that silence is requested.
+  refs: 57 59
+- Y allí: se prohíbe usar el móvil.
+  en: And there: using mobile phones is forbidden.
+  refs: 59 17
+- Pues apague el móvil, que está sonando.
+  en: Then switch off the phone, it's ringing.
+  refs: 34 17 24
+- Perdone, tiene razón. Me he puesto nerviosa.
+  en: Sorry, you're right. I've got nervous.
+  refs: 4 40 61
+- No se ponga nerviosa. Aquí se espera mucho.
+  en: Don't get nervous. Here one waits a lot.
+  refs: 61 59
+- Ya lo veo. ¿A qué hora cierra la oficina?
+  en: I can see that. What time does the office close?
+  refs: 50 9
+- A las dos, creo. Mire: no hay nadie en la ventanilla.
+  en: At two, I think. Look: there's nobody at the window.
+  refs: 54 46 15
+- Es verdad. Y ya son las tres.
+  en: That's true. And it's already three.
+  refs: 9 53
+- La oficina cerró hace una hora. Nadie nos lo ha dicho.
+  en: The office closed an hour ago. Nobody has told us.
+  refs: 31 46 18
+
+notes.en:
+Nothing in this lesson needs to be learnt by heart. Commands, se and the verbs of change are the hardest part of the week, and doubts about them are normal. Each one comes back in the lessons ahead, so use the tables as reminders, not as rules to memorise.
+
+1. Commands, affirmative and negative (lessons 34, 55, 57, 62, 63). Negative commands take the subjunctive; affirmative tú commands are regular except for a few, such as pon (lesson 34).
+
+| Person | Affirmative | Negative | From the lessons |
+|---|---|---|---|
+| tú | espera | no esperes | Pon aceite (lesson 34); no salgas (lesson 55); no te pares (lesson 57) |
+| usted | espere | no espere | Siga esperando (lesson 62); Mire (this lesson, line 12); No se preocupe (this lesson, line 6) |
+| vosotros | esperad | no esperéis | not yet in a dialogue |
+| ustedes | esperen | no esperen | not yet in a dialogue |
+
+The pronoun goes after an affirmative command and joins it, as in levántate. It goes before a negative command: no se preocupe, no te pares.
+
+2. Involuntary se (lesson 57). The thing forgets itself on the person, so the verb agrees with the thing and not with the person.
+
+| Pronoun | Example | From the lessons |
+|---|---|---|
+| me | Se me ha olvidado | lesson 57; Se me ha olvidado el número (this lesson, line 5) |
+| te | Se te ha olvidado | not yet in a dialogue |
+| le, les | Se le ha olvidado, Se les han olvidado | not yet in a dialogue |
+| nos | Se nos ha olvidado | not yet in a dialogue |
+
+3. Impersonal and passive se (lesson 59). Impersonal se has no subject and a singular verb. Passive se has a noun as the subject, and the verb agrees with it.
+
+| Form | Example | From the lessons |
+|---|---|---|
+| impersonal, singular verb | Se habla inglés | lesson 59; Aquí se espera mucho (this lesson, line 10) |
+| impersonal, with an infinitive | Se prohíbe usar el móvil | this lesson, line 7 |
+| passive, plural noun | Se venden recuerdos; Se alquilan bicicletas | lesson 59 |
+| passive, singular noun | Se ruega silencio | this lesson, line 6 |
+
+4. Ser and estar with adjectives that change meaning (lesson 60). Ser says what someone or something is like; estar says how someone is now.
+
+| Adjective | With ser | With estar | From the lessons |
+|---|---|---|---|
+| aburrido | boring: Tú no eres aburrido | bored: Estoy aburrida | lesson 60 |
+| listo | clever: Soy muy listo | ready: ¿Estás listo para cenar? | lesson 60 |
+| rico | rich: not yet in a dialogue | tasty: La comida está muy rica | lesson 60 |
+
+5. Verbs of change (lessons 40, 61). Ponerse and quedarse take an adjective or a phrase, and English uses "go", "get" or "become". Quedarse also means "to stay", as in nos quedamos en casa (lesson 44).
+
+| Verb | With | Meaning | From the lessons |
+|---|---|---|---|
+| ponerse | rojo, nervioso, enfermo | to go, to get | Me puse rojo (lesson 61); Me puse enfermo (lesson 40); Me he puesto nerviosa (this lesson, line 9) |
+| quedarse | en blanco, callado | to go blank, to go quiet | Me quedé en blanco; Me quedé callado (lesson 61) |
+| volverse | loco | to go mad | not yet in a dialogue |
+| hacerse | rico, famoso | to become | not yet in a dialogue |
+
+6. Llevar, seguir and ir with the gerund (lessons 24, 39, 62). Each one shows a different kind of ongoing action: how long something has lasted, that it keeps going, or that it changes step by step.
+
+| Phrase | Meaning | From the lessons |
+|---|---|---|
+| llevar + time + gerund | for a time already: Llevo dos horas esperando | lesson 39 (Llevo tres años pidiendo); lesson 62 |
+| seguir + gerund | keep on: Siga esperando | lesson 62 |
+| ir + gerund | a change step by step: La cola va bajando | lesson 62 |
+| estar + gerund | happening now: Estoy trabajando | lesson 24 |
+
+That closes the week: these forms come back in the lessons ahead, and each time they will feel a little more familiar.

@@ -270,3 +270,15 @@ word the tool figured wrongly, anything you were unsure of.
   letter; blank the verb form the lesson teaches.
 - A verb's preposition is explained with the verb (aprender a), not called
   a "to-infinitive".
+
+## Rules added after week 9
+
+- A joke must survive its own language: if the whole scene is in Spanish,
+  a character cannot be shown not understanding Spanish.
+- Pronoun position in the negative command: no + pronoun + verb (no te
+  pares); the pronoun never comes before no.
+- Cultural words with no English match (padrino at a wedding) keep the
+  Spanish word in the translation and the note says what it is; never
+  force a wrong English equivalent ("best man").
+- A line never contradicts the one before ("¿Hay camas?" "Sí, pero está
+  completo").

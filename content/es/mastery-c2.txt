@@ -1,3 +1,333 @@
 course: es
 stage: mastery
 bases: en
+
+== 26 C2
+numeral: Lección veintiséis
+title: Domingo por la tarde
+title.en: A Sunday afternoon
+
+dialogue:
+- Las campanas de la catedral llamaban a misa mayor, y doña Matilde, que las oía desde la cama como se oye la lluvia, decidió que aquel domingo sería igual que los demás.
+  en: The cathedral bells were calling to the High Mass, and Doña Matilde, who heard them from her bed the way one hears rain, decided that this Sunday would be like the others.
+- Igual que los demás: la misa de once, el sermón del chantre sobre la paciencia, el paseo hasta el río y la tarde larga que empezaba después de comer.
+  en: Like the others: the eleven o'clock Mass, the canon's sermon on patience, the walk down to the river and the long afternoon that began after lunch.
+- Don Ernesto ya se había ido al casino con el periódico de Madrid bajo el brazo, y la casa quedaba para ella, con sus cortinas de damasco y el ruido de la criada en la cocina.
+  en: Don Ernesto had already gone to the club with the Madrid newspaper under his arm, and the house was left to her, with its damask curtains, its clocks and the noise of the maid in the kitchen.
+- ¡Qué aburrimiento, Dios mío! No era que no quisiera a su marido; lo quería, a su manera, como se quiere un mueble bien conservado.
+  en: What boredom, good God! It was not that she did not love her husband; she loved him, in her way, as one loves a well-kept piece of furniture.
+- Se sentó junto a la ventana del salón y miró la calle, donde no pasaba nada, salvo un perro que buscaba sombra y un muchacho que vendía periódicos atrasados.
+  en: She sat down by the sitting-room window and looked at the street, where nothing was happening, except a dog looking for shade and a boy selling old newspapers.
+- Pensó en las cartas de su prima Adela, que vivía en Madrid y escribía cada mes sobre teatros, modas y bailes de la Corte, con una alegría que a Matilde le parecía casi una falta de respeto.
+  en: She thought of the letters from her cousin Adela, who lived in Madrid and wrote every month about theatres, fashions and balls at Court, with a gaiety that struck Matilde as almost a lack of respect.
+- Adela decía que en Madrid se podía hablar sin que lo oyera toda la ciudad, y eso, para doña Matilde, era lo más parecido a la libertad que había imaginado nunca.
+  en: Adela said that in Madrid one could speak without the whole city hearing, and for Doña Matilde that was the closest thing to freedom she had ever imagined.
+- Hacía tres meses que no llegaba carta. Quizá el correo se había retrasado con las lluvias, o quizá Adela se había cansado de escribirle a una mujer que nunca contestaba nada interesante.
+  en: It had been three months since a letter came. Perhaps the post had been held up by the rains, or perhaps Adela had tired of writing to a woman who never answered with anything interesting.
+- Se levantó, fue al escritorio y sacó el papel de carta azul pálido, el que reservaba para las ocasiones, y lo dejó sobre la mesa sin escribir nada.
+  en: She got up, went to the desk and took out the pale blue writing paper she kept for special occasions, and left it on the table without writing anything.
+- ¿Qué contar? ¿Que había ido a misa, que el chantre había predicado sobre la paciencia, que la criada había quemado el puchero?
+  en: What was there to tell? That she had been to Mass, that the canon had preached on patience, that the maid had burnt the stew pot?
+- Lo del puchero era, al menos, una novedad, y doña Matilde se permitió sonreír ante la idea de que aquello fuera el acontecimiento de la semana.
+  en: The stew pot was at least something new, and Doña Matilde allowed herself a smile at the thought that it might be the event of the week.
+- Afuera, el sol se había escondido detrás de una nube gris que venía del lado de la sierra, y el aire olía a tierra mojada desde la lluvia de la mañana.
+  en: Outside, the sun had hidden behind a grey cloud coming from the direction of the mountains, and the air smelt of wet earth since the morning's rain.
+- Pensó que tal vez el paseo fuera imposible, y sintió una pequeña decepción que no supo explicarse.
+  en: She thought that perhaps the walk would be impossible, and felt a small disappointment she could not account for.
+- En la calle, un coche de caballos pasó despacio, con las cortinillas echadas, y doña Matilde se preguntó quién iría dentro, y adónde, y si alguien pensaría en ella con la misma curiosidad.
+  en: In the street a carriage went slowly past, with its blinds drawn, and Doña Matilde wondered who was inside, and where to, and whether anyone thought about her with the same curiosity.
+- Nunca sabía nada de nadie, y eso era lo que más le pesaba.
+  en: She never knew anything about anyone, and that was what weighed on her most.
+- Las campanas volvieron a sonar, esta vez para las vísperas, y su eco se quedó un rato colgado sobre los tejados como una pregunta sin respuesta.
+  en: The bells rang again, this time for vespers, and their echo hung for a while over the roofs like a question without an answer.
+- Doña Matilde contó las campanadas sin proponérselo, y al llegar a seis se dio cuenta de que el día había pasado sin que ella hiciera nada, como pasaban los demás.
+  en: Doña Matilde counted the strokes without meaning to, and on reaching six she realised that the day had gone by without her doing anything, as the other days did.
+- Se acordó de un baile del casino, de un joven ingeniero que hablaba de los ferrocarriles como otros hablan de Dios, y que la miró una sola vez, durante una polca.
+  en: She remembered a ball at the club, a young engineer who talked about railways the way others talk about God, and who looked at her only once, during a polka.
+- Se llamaba Ángel, o eso creía recordar, y se había marchado a Bilbao, o a Cuba, o a ninguna parte.
+  en: His name was Ángel, or so she believed she remembered, and he had gone to Bilbao, or to Cuba, or to nowhere in particular.
+- Ya nunca sabría si la había querido de verdad, y esa duda era lo único bonito que le quedaba de aquel verano.
+  en: She would never know whether he had really loved her, and this doubt was the only pleasant thing left to her from that summer.
+- «Doña Matilde, ¿no sale usted?», le preguntó la criada desde la puerta, con el delantal todavía manchado de harina.
+  en: «Doña Matilde, aren't you going out?» the maid asked from the door, her apron still floury.
+- «No, Pascuala. Hoy no.»
+  en: «No, Pascuala. Not today.»
+- «Pues el señor ha dejado recado de que vendrá tarde.»
+  en: «Well, the master left word that he will be late.»
+- Doña Matilde asintió sin preguntar más, porque la noticia le daba igual: don Ernesto siempre venía tarde los domingos, y ella siempre fingía que no lo esperaba.
+  en: Doña Matilde nodded without asking anything more, since the news made no difference to her: Don Ernesto always came home late on Sundays, and she always pretended not to be waiting for him.
+- Se levantó, se acercó al espejo del pasillo y se quitó el prendedor de azabache, que le apretaba como una promesa que nadie le había hecho.
+  en: She got up, went to the hall mirror and took off the jet brooch, which pressed on her like a promise nobody had made.
+- Tal vez mañana llegara la carta de Madrid, con su letra apretada y sus noticias de teatros; tal vez Adela contara algo que valiera la pena contestar.
+  en: Perhaps tomorrow the letter from Madrid would come, with its cramped handwriting and its news of the theatres; perhaps Adela would say something worth answering.
+- Mientras tanto, el sol volvió a salir un instante por detrás de la nube, y la luz se posó sobre el papel azul de la mesa, como si alguien lo hubiera escrito ya.
+  en: Meanwhile, the sun came out for a moment from behind the cloud, and the light settled on the blue paper on the table, as if someone had already written on it.
+
+notes.en:
+1. Las campanas de la catedral (sentence 1): the city is not named, as the narrator does not need it. The bells call to the misa mayor, the main Mass of the Sunday, and they ring again for vespers later in the afternoon.
+2. la misa de once (sentence 2): the eleven o'clock Mass, a regular Sunday time in a Spanish town; the list gives the routine she wishes were different.
+3. el casino (sentence 3): the club where the men of a provincial town spent their afternoons, reading the papers and playing cards; it was for men. Don Ernesto goes there while his wife stays at home.
+4. ¡Qué aburrimiento, Dios mío! (sentence 4): the exclamation belongs to Doña Matilde, but it is not in quotation marks; this is free indirect style, the narrator's sentence taking on the woman's own voice. Clarín's La Regenta (1884–1885) is the best-known example in Spanish; this text borrows its manner only.
+5. como se quiere un mueble bien conservado (sentence 4): se with the third person is impersonal here: one loves a piece of furniture the way one looks after it. The comparison is her joke at her own marriage, and the narrator lets it stand.
+6. Hacía tres meses que no llegaba carta (sentence 8): hacía with the imperfect says how long a state had lasted up to the moment described. The sentence is about the past, so the imperfect is right.
+7. ¿Qué contar? (sentence 10): the questions are her own thoughts, with no speaker tag, and they are answered by her own list of trivia.
+8. Tal vez el paseo fuera imposible (sentence 13): tal vez takes the subjunctive when the possibility is in doubt; fuera is the imperfect subjunctive because the sentence is about the past.
+9. sin proponérselo (sentence 17): without meaning to. The pronoun se is attached to the infinitive proponer and points back to Doña Matilde, the one who counts.
+10. como una promesa que nadie le había hecho (sentence 25): the pluperfect for an earlier event, the promise that nobody had made; the simile sits in her own perception of the brooch.
+11. fingía que no lo esperaba (sentence 24): fingir with que and the indicative; the imperfect says it was a habit of every Sunday.
+12. como si alguien lo hubiera escrito ya (sentence 27): como si takes the pluperfect subjunctive for a past that did not happen; the image closes on the blue paper that is still blank.
+
+ex1:
+- Aunque no lo dijera, Matilde sabía que el silencio de su marido era una forma de respuesta.
+  en: Although he did not say so, Matilde knew that her husband's silence was a kind of answer.
+- Si le hubieran dado una oportunidad, habría hablado de muchas cosas, pero nadie le preguntaba.
+  en: If she had been given the chance, she would have talked about many things, but nobody asked her.
+- Que nadie sepa lo que pienso es lo único que me consuela de esta casa.
+  en: That nobody knows what I think is the only thing that comforts me about this house.
+- No sé si la carta llegará mañana o dentro de un mes; en esta ciudad el correo tiene su propio calendario.
+  en: I do not know whether the letter will arrive tomorrow or in a month; in this town the post keeps its own calendar.
+- Acabó por reconocer que lo que más le dolía no era la soledad, sino la costumbre de fingir que no la sentía.
+  en: In the end she admitted that what hurt her most was not the loneliness, but the habit of pretending that she did not feel it.
+
+ex2:
+- Me [apetece] pasear, aunque haga frío.
+  en: I feel like walking, even though it is cold.
+- Fingió [que] no había oído nada.
+  en: She pretended that she had not heard anything.
+- Lo hizo [como si] nada hubiera pasado.
+  en: He did it as if nothing had happened.
+- [Desde que] murió su madre, la casa está en silencio.
+  en: Since her mother died, the house has been silent.
+- Aún no sabe [si] volverá.
+  en: She does not yet know whether she will come back.
+
+tasks:
+- Sonó el despertador a las siete y media, y durante un rato Lucía fingió que no lo había oído. ¡Otra vez el mismo café, otra vez la misma prisa! Se levantó, abrió la ventana, y el ruido de la calle entró como un vecino que no pide permiso. Pensó en el correo que tenía que contestar antes de las nueve, y en lo poco que le apetecía hacerlo. Tal vez el día fuera distinto, tal vez alguien llamara con una noticia que valiera la pena. Mientras tanto, se preparó el café, que ya estaba frío, y se lo bebió de pie, junto a la ventana.
+  task.en: Write in Spanish, about 120 words, ten minutes of your own morning in the free indirect style of the text: no quotation marks around thoughts, the narrator close to your mind, and questions and exclamations inside the narration.
+  rubric.en: meaning: the text covers ten minutes of one morning, from the alarm to the cold coffee, with the small dissatisfactions and hopes of the day; register: third person close to the narrator, with the speaker's own voice in exclamations and questions; structure: one continuous narration, with no dialogue; idiom: fingir que, tal vez with the subjunctive and mientras tanto are used in their normal senses; effect: the ending is a small domestic image, not a conclusion about the day.
+
+== 27 C2
+numeral: Lección veintisiete
+title: El abuelo y la final del 64
+title.en: Grandad and the 1964 final
+
+dialogue:
+- Elena: Abuelo, cuéntanos otra vez lo de la final del 64, que hoy se ha acordado papá.
+  en: Grandad, tell us again about the 1964 final, since Dad brought it up today.
+- Julián: ¡Que me acuerdo perfectamente! Fue en junio, en el Bernabéu, con el estadio lleno hasta la última grada.
+  en: I remember it perfectly! It was in June, at the Bernabéu, with the stadium full up to the top tier.
+- Javier: Ya empieza.
+  en: Here we go.
+- Julián: Enfrente estaba la Unión Soviética, que venía con un equipo de acero, y ganamos tres a uno.
+  en: Facing us was the Soviet Union, which had come with a team of steel, and we won three–one.
+- Pilar: (Dos a uno, Julián.)
+  en: (Two–one, Julián.)
+- Julián: Tres a uno, Pilar, que lo vi con mis ojos.
+  en: Three–one, Pilar, I saw it with my own eyes.
+- Javier: (Dos a uno, papá. Lo pone en todas las crónicas.)
+  en: (Two–one, Dad. It is in every report.)
+- Julián: Vale, dos. Y el gol de la victoria lo metió un extremo con la pierna izquierda, desde fuera del área.
+  en: Fine, two. And the winning goal was scored by a winger with his left foot, from outside the box.
+- Elena: (De cabeza, abuelo. Fue Marcelino.)
+  en: (A header, Grandad. It was Marcelino.)
+- Julián: Hija, que yo estaba allí y tú no habías nacido.
+  en: Girl, I was there and you had not been born.
+- Elena: (Ni yo ni papá habíamos nacido, abuelo, y lo sabemos todos.)
+  en: (Neither I nor Dad had been born, Grandad, and we all know it.)
+- Julián: Pues por eso lo cuento yo.
+  en: Then that is why I am the one telling it.
+- Pilar: (Tú no estabas en la grada, Julián.)
+  en: (You were not in the stand, Julián.)
+- Julián: ¿Cómo que no? Si tengo la entrada guardada en el cajón.
+  en: What do you mean, not? I have the ticket kept in the drawer.
+- Pilar: (Esa entrada es la de tu cuñado. Y tú estabas en el bar de enfrente, con un vaso de cerveza, que lo sabe todo el barrio.)
+  en: (That ticket is your brother-in-law's. And you were in the bar opposite, with a glass of beer, as the whole neighbourhood knows.)
+- Julián: Entré un rato al bar, eso sí, pero solo para hacer tiempo.
+  en: I did go into the bar for a while, I admit it, but only to pass the time.
+- Javier: (Un rato de hora y media, papá, que el partido dura lo que dura.)
+  en: (An hour and a half, Dad, and the match lasts as long as it lasts.)
+- Pilar: (Y luego te dieron una tapa de jamón para que te callaras.)
+  en: (And then they gave you a slice of ham to keep you quiet.)
+- Julián: Eso fue después del gol, Pilar, no cuenta.
+  en: That was after the goal, Pilar, it does not count.
+- Elena: Abuelo, ¿y dónde estabas cuando marcó Marcelino?
+  en: Grandad, where were you when Marcelino scored?
+- Julián: Arriba, en la grada, te lo he dicho. Lo vi todo desde allí.
+  en: Up in the stand, I told you. I saw all of it from up there.
+- Elena: Pues cuéntanos qué vio, abuelo, que yo no he visto ni un partido entero.
+  en: Then tell us what you saw, Grandad, because I have never watched a whole match.
+- Pilar: (Desde la barra, con la ventana llena de anuncios de cerveza.)
+  en: (From the bar counter, with the window full of beer adverts.)
+- Julián: Eso no es verdad, Pilar. Los anuncios los pusieron después.
+  en: That is not true, Pilar. They put the adverts up later.
+- Javier: Mamá, déjalo, que ahora sale lo de la radio.
+  en: Mum, leave him alone, now he'll bring up the radio.
+- Julián: La radio dijo el gol cuando la gente ya lo había gritado, pero el estadio gritó antes que la radio.
+  en: The radio announced the goal after the crowd had already shouted it, but the stadium roared before the radio did.
+- Pilar: (El estadio no grita, Julián. Grita la gente.)
+  en: (The stadium does not shout, Julián. The people do.)
+- Elena: Entonces, ¿estabas en el bar o en el estadio?
+  en: So were you in the bar or in the stadium?
+- Julián: Estaba en el Bernabéu, en el bar de enfrente, y oí el gol antes que nadie del bar.
+  en: I was at the Bernabéu, in the bar opposite, and I heard the goal before anyone in the bar did.
+
+notes.en:
+1. Julián (sentence 2): the grandfather is the one telling the story at the table, and his family answers him in round brackets; the brackets are the family's interruptions, not the narration.
+2. el Bernabéu (sentence 2): the Santiago Bernabéu, the stadium of Real Madrid, named after the club's former president. The final of the European Nations' Cup was played there in June 1964.
+3. Unión Soviética (sentence 4): the country is named with its article, la Unión Soviética, as Spanish does; it is the name for the opposing team in the story.
+4. tres a uno (sentence 4): a score is read with a: dos a uno, "two–one". Julián says three; the family's corrections give the true score, two goals to one in Spain's favour.
+5. Vale, dos (sentence 8): vale is the common way of giving in; dos is the correction he accepts, and the reader sees him change his figures in front of his family.
+6. De cabeza (sentence 9): a header, with the head. The phrase is said of a goal scored with the head, and it is set against the winger's left foot that Julián gave before.
+7. no habías nacido (sentence 10): the pluperfect for a state before 1964. Habías is the tú form, because the grandfather speaks to his granddaughter.
+8. Pues por eso lo cuento yo (sentence 12): por eso points to the line before it; the grandfather's claim is that the fact of being older gives the right to tell the story.
+9. Entré un rato al bar (sentence 16): entrar al bar means going in for a drink; the grandfather admits the bar, but calls it a short visit.
+10. hacer tiempo (sentence 16): to pass the time while waiting, a fixed phrase. The phrase is the one the grandfather uses for his own excuse.
+11. lo que dura (sentence 17): lo que dura means for as long as it lasts, a fixed phrase that Javier turns against his father.
+12. tapa de jamón (sentence 18): a small plate of food served with a drink in a bar; here it is the reason the grandfather stayed.
+13. antes que la radio (sentence 26): antes que takes the indicative when it compares two events that have happened, here the roar of the stadium and the radio.
+14. antes que nadie del bar (sentence 29): antes que nadie with the indicative, the claim that closes the story. Nadie is the subject of the comparison, and del bar says whose ears are meant.
+
+ex1:
+- Dice que la final fue en el Bernabéu, pero cualquiera que haya estado allí sabe que el estadio se oye desde la calle.
+  en: He says the final was at the Bernabéu, but anyone who has been there knows you can hear the stadium from the street.
+- Si hubiera estado en la grada, habría visto el gol de cerca, aunque nadie le crea.
+  en: If he had been in the stand, he would have seen the goal close up, though nobody believes him.
+- Por mucho que insista en la grada, la entrada está en el cajón de mi cuñado.
+  en: However much he insists about the stand, the ticket is in my brother-in-law's drawer.
+- Abuela, no hace falta que lo repitas tres veces: ya nos lo sabemos.
+  en: Grandma, there is no need to repeat it three times: we already know it.
+- Lo que cuenta de verdad, según él, no es el resultado, sino el momento en que se levantó toda la grada.
+  en: What really matters, in his view, is not the score but the moment the whole stand got to its feet.
+
+ex2:
+- Ganamos dos [a uno].
+  en: We won two–one.
+- Ya [no] se acuerda de nada.
+  en: He no longer remembers anything.
+- No [hace] falta que lo repitas.
+  en: There is no need for you to repeat it.
+- El gol fue [de cabeza].
+  en: The goal was a header.
+- Cenamos [antes de que] empezara el partido.
+  en: We had dinner before the match began.
+
+tasks:
+- Yo no entiendo de fútbol, pero sí de Julián. Aquel día fui a misa de once con mi madre y volví a casa a las tres, con un pollo asado en la bolsa. Julián no estaba en la grada: estaba en el bar de enfrente, con la camisa abierta y un vaso de cerveza delante. Desde la calle se oía el estadio, y en el bar hubo un silencio que duró lo que tarda una persona en subir una escalera. Lo del gol de cabeza lo sé porque me lo contó mi hermano, que sí estaba arriba, en la grada, y que no ha dejado de contármelo desde entonces.
+  task.en: Write grandma's version of the 1964 final in Spanish, as Pilar, about 120 words: first person, what she knows for certain and what she heard from others, and where her husband was.
+  rubric.en: meaning: the version gives where Julián was, the header and the score only as far as Pilar heard them; register: first person, warm and dry, the voice of a wife who has heard the story many times; structure: a plain order of events, then a remark about the story; idiom: entender de, lo que tarda una persona en and no ha dejado de are used in their normal senses; effect: she says what she is sure of and no more, so the reader trusts her version without being told to.
+
+== 28 C2
+kind: revision
+numeral: Lección veintiocho
+title: Revisión y notas
+title.en: Revision and notes
+
+dialogue:
+- Javier: Ya nos hemos comido las doce uvas, así que toca la historia de la noche.
+  en: We have eaten the twelve grapes, so it is time for the story of the night.
+  refs: 27
+- Pilar: Yo no quiero oír otra vez lo de la grada, que me lo sé de memoria.
+  en: I do not want to hear the stand story again, I know it by heart.
+  refs: 27
+- Julián: Pues hoy no la cuento. Hoy la enseño.
+  en: Then I will not tell it today. Today I will show it.
+  refs: 27
+- Elena: ¿La entrada? ¿La del cajón de la cómoda?
+  en: The ticket? The one from the chest of drawers?
+  refs: 27
+- Julián: La misma, con su sobre y todo.
+  en: The same one, envelope and all.
+  refs: 27
+- Javier: Papá, que la sacas cada año y cada año cuentas una cosa distinta.
+  en: Dad, you take it out every year and every year you tell a different version.
+  refs: 27
+- Pilar: Y cada año la grada está más arriba.
+  en: And every year the stand is a little higher.
+  refs: 27
+- Elena: Déjame verla, abuelo. Está muy limpia para tener sesenta años.
+  en: Let me see it, Grandad. It is very clean for something sixty years old.
+  refs: 27
+- Julián: Lo que se guarda con cariño dura más que el papel.
+  en: What is kept with care lasts longer than paper.
+  refs: 25
+- Pilar: Lo que dura es el cuento, Julián, no el papel.
+  en: What lasts is the story, Julián, not the paper.
+  refs: 27
+- Elena: Yo leí una en una revista, de esas de una frase: «Mi madre ya no sabe cocinar, pero cada domingo me pregunta si he comido».
+  en: I read one in a magazine, one of those one-sentence stories: «My mother no longer knows how to cook, but every Sunday she asks me whether I have eaten».
+  refs: 25
+- Javier: Esas son las que la mitad la pone el lector, hija.
+  en: Those are the ones where the reader supplies half, love.
+  refs: 25
+- Pilar: Pues yo prefiero las que cuentan algo entero, como el búho que sale de Cibeles casi vacío.
+  en: I prefer the ones that tell something whole, like the owl that leaves Cibeles almost empty.
+  refs: 22
+- Julián: Hoy me callo con un silencio cortés, que es lo que pide la familia.
+  en: Tonight I will keep quiet with a courteous silence, which is what the family asks for.
+  refs: 23
+- Elena: Ese silencio no te lo crees ni tú, abuelo.
+  en: You do not believe in that silence yourself, Grandad.
+  refs: 27
+- Javier: Pues cuento yo la del pueblo: el agua salía fresca porque el barro suda por fuera.
+  en: Then I will tell the one about the village: the water came out cool because the clay sweats on the outside.
+  refs: 24
+- Elena: Esa la cuentas tú cada verano, papá, y nunca es igual.
+  en: You tell that one every summer, Dad, and it is never the same.
+  refs: 24
+- Pilar: ¡Qué aburrimiento, Dios mío! Hablad de algo que pase.
+  en: What boredom, good God! Talk about something that happens.
+  refs: 26
+- Elena: Pues el año pasado pasé por el Rastro y había un puesto lleno de cosas viejas.
+  en: Well, last year I went past the Rastro, and there was a stall full of old things.
+  refs: 27
+- Julián: Yo no he ido nunca al Rastro, que hay mucho ladrón.
+  en: I have never been to the Rastro, there are too many thieves.
+  refs: 27
+- Pilar: La entrada es de mi hermano, Julián, y no me digas que no.
+  en: The ticket is my brother's, Julián, and do not tell me it isn't.
+  refs: 27
+- Elena: Abuelo, ¿y la entrada te la dio el tío o la compraste tú?
+  en: Grandad, did the uncle give you the ticket, or did you buy it?
+  refs: 27
+- Javier: Déjala, Elena, que ya la contará él.
+  en: Leave it, Elena, he'll tell it himself.
+  refs: 27
+- Julián: La compré yo en el Rastro, el año pasado, por tres euros. La historia, en cambio, es mía desde el sesenta y cuatro.
+  en: Julián: I bought it at the Rastro last year, for three euros. The story, on the other hand, has been mine since sixty-four.
+  refs: 27
+
+notes.en:
+This week's texts are the six lessons before this one, and this lesson puts their devices in order. Each section names the lesson and quotes its lines as they stand in that lesson, so the learner can check them.
+1. Present and past in a story (lesson 22): the story is told in the present, and the past comes in only where a speaker or a background clause needs it.
+| Form | What it does | Line from lesson 22 |
+|---|---|---|
+| present, for a scene as it is seen | the reader watches each move | Ella se sienta junto a la puerta, con una carpeta grande de dibujos |
+| preterite, for a period that is over | a life that has ended | Yo trabajé muchos años enfrente |
+| como si with the imperfect subjunctive | a comparison that is not true | como si también él estuviera esperando |
+2. Habit, finished time and sound (lesson 24): the imperfect keeps a routine going, the preterite with hace años closes a past event, and solo se oía keeps a quiet scene quiet.
+| Form | What it does | Line from lesson 24 |
+|---|---|---|
+| imperfect, for a habit | the same thing every day | Yo no dormía nunca la siesta |
+| preterite with hace años | the event is over | La casa se vendió hace años |
+| solo se oía | the single sound in a still room | En la penumbra solo se oía el zumbido de una mosca |
+3. What the text leaves unsaid (lesson 25): a sentence can hand the reader a question instead of an answer, and one verb can carry what the text does not say.
+| Device | What it does | Line from lesson 25 |
+|---|---|---|
+| a question left open | the reader supplies the reason | Ninguna de estas frases dice por qué, ni cuándo, ni quién habla |
+| a verb with more in it than its meaning | the story is told by the verb | pero no ha dejado de cuidar |
+4. Free indirect style (lesson 26): the narrator's sentence takes on the voice of the person, with no quotation marks.
+| Device | What it does | Line from lesson 26 |
+|---|---|---|
+| a question in the narration | her own thought, with no speaker | ¿Qué contar? |
+| an exclamation without quotation marks | her own voice in the narrator's sentence | ¡Qué aburrimiento, Dios mío! |
+| tal vez with the subjunctive | a doubt she does not settle | tal vez el paseo fuera imposible |
+5. The narrator who cannot be trusted (lesson 27): the family's corrections in round brackets work against the speaker, and a claim that shrinks is the best sign of it.
+| Device | What it does | Line from lesson 27 |
+|---|---|---|
+| a correction in round brackets | the listener's record against the speaker | (Dos a uno, Julián.) |
+| an admission that shrinks the claim | the claim gives way on one point | Entré un rato al bar, eso sí, pero solo para hacer tiempo. |
+
+tasks:
+- Durante seis meses, Julio escribió cada semana a una mujer de Oviedo que había respondido a su anuncio para cambiar libros. Se llamaba Carmen Vigil, y sus cartas, con una letra apretada, siempre terminaban con una pregunta sobre su vida. Él empezó a guardar las respuestas en el cajón del escritorio, junto a las facturas, y a releerlas los domingos por la tarde. Su madre se había ido a Oviedo cuando él tenía diez años, y no habían vuelto a verse. Durante el viaje repasó las preguntas que pensaba hacerle, y al llegar se dio cuenta de que ya no recordaba ninguna. Llamó a la puerta de la dirección de la última carta, y le abrió una mujer mayor, que lo miró un buen rato sin decir nada y le pidió que pasara, porque el café ya estaba hecho. En la mesa de la cocina había un montón de cartas, ordenadas, con las esquinas dobladas de tanto leerlas. Entonces la mujer se sentó frente a él y dijo: «Julio, soy tu madre.»
+  task.en: Write in Spanish, about 200 words, a story with a twist: one person, one place, the past for the events and the present for what still holds. The twist must be set up by the story and given in the last sentence, and it must not be the twist of this lesson.
+  rubric.en: meaning: the story has a single twist, set up by the letters and the handwriting and given in the last sentence; register: plain narration, with one or two dialogue lines at most; structure: events in order, with the twist last; idiom: por fin, junto a and the pluperfect for an earlier fact are used in their normal senses; effect: the reader sees the twist at once and does not have to be told what it means.

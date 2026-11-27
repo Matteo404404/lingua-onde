@@ -2294,3 +2294,424 @@ tasks:
 - Vecinos de Cerrollano: sabemos que la era es un trozo de historia, y que el coche no la va a borrar. Pero el pueblo necesita aparcar, y la era se puede conservar en parte. Por eso propongo una franja de tierra para el trillo, un aparcamiento en el resto y una plaza para la guardería. Lo digo sin prisa: no pido que votéis hoy, pido que lo penséis. Aquí se trilló a mano y aquí se aprendió a esperar; ahora toca aprender a aparcar sin olvidarnos de dónde venimos. Muchas gracias.
   task.en: Write in Spanish a one-minute persuasive talk to the residents, about 120 words, that wins over the people who oppose the car park. Use one concession, one rebuttal and one closing line that asks for the vote.
   rubric.en: meaning: the talk gives the concession about the threshing floor, a reason for the car park and the proposal of a strip of earth; register: spoken and warm, with vosotros or ustedes to the residents and usted to the chair; structure: opening address, concession, rebuttal, proposal, closing request; idiom: es cierto que, lo de and aquí se are used in their set senses; effect: the closing line asks for thought rather than a vote, so the opposition hears a plan.
+
+== 22 C1
+numeral: Lección veintidós
+title: El búho
+title.en: The owl
+
+dialogue:
+- Son casi las tres de la madrugada y el búho, el último autobús de la noche, sale de Cibeles casi vacío.
+  en: It is nearly three in the morning, and the owl, the last bus of the night, leaves Cibeles almost empty.
+- Por la ventanilla se ven la diosa de la fuente, con su carro tirado por leones, y, al fondo, el palacio de Correos, con todas las luces encendidas para nadie.
+  en: Through the window one can see the goddess of the fountain, on her chariot pulled by lions, and, further back, the Palacio de Correos, with all its lights on for no one.
+- Hay dos pasajeros en todo el autobús, y ninguno de los dos mira al otro.
+  en: There are two passengers on the whole bus, and neither of them looks at the other.
+- Ella se sienta junto a la puerta, con una carpeta grande de dibujos apoyada en las rodillas, y se pone los auriculares, aunque no suena nada.
+  en: She sits by the door, with a big folder of drawings resting on her knees, and puts in her earphones, although nothing is playing.
+- Él viaja dos filas más atrás, con un abrigo claro y una bolsa de papel en el regazo que no ha abierto desde que subió.
+  en: He travels two rows further back, in a pale coat, with a paper bag on his lap that he has not opened since he got on.
+- El autobús toma la calle de Alcalá. Las persianas de las tiendas están bajadas, y un cartel de rebajas se mueve con el aire que entra por la ventanilla.
+  en: The bus turns into the Calle de Alcalá. The shop shutters are down, and a sale poster moves in the air coming through the window.
+- En el cristal, ella ve reflejado al hombre, que la mira a su vez, y los dos apartan los ojos a la vez.
+  en: In the glass she sees the man reflected, looking at her in turn, and both of them look away at the same time.
+- En cada parada hay un banco vacío y una marquesina iluminada, y ni sube ni baja nadie.
+  en: At every stop there is an empty bench and a lit shelter, and nobody gets on or off.
+- El conductor pone la radio muy bajita: alguien habla de un partido que terminó hace horas.
+  en: The driver turns the radio down very low: someone is talking about a match that ended hours ago.
+- Ella abre la carpeta por la mitad y saca un dibujo a lápiz: la fuente de Cibeles vista desde arriba, los leones con las patas juntas.
+  en: She opens the folder halfway and takes out a pencil drawing: the fountain of Cibeles seen from above, the lions with their paws together.
+- El hombre se inclina hacia delante y reconoce el dibujo al instante: son los mismos leones que vio durante treinta años desde la oficina de enfrente.
+  en: The man leans forward and recognises the drawing at once: they are the same lions he watched for thirty years from the office across the square.
+- Ella no levanta la vista. Cierra la carpeta despacio, como si no quisiera que se le cayera nada.
+  en: She does not look up. She closes the folder slowly, as if she did not want anything to fall out of it.
+- El autobús frena en un semáforo, y se oye el clic del intermitente.
+  en: The bus brakes at a traffic light, and the indicator clicks.
+- «Perdone, ¿ha dibujado usted la fuente de memoria?»
+  en: «Excuse me, did you draw the fountain from memory?»
+- Ella contesta sin girarse: «De memoria, no. Lo hice desde la ventana de mi padre.»
+  en: She answers without turning round: «Not from memory. I drew it from my father's window.»
+- El hombre sonríe a su reflejo, no a ella.
+  en: The man smiles at his reflection, not at her.
+- «Yo trabajé muchos años enfrente. Tenía la misma vista, y nunca la dibujé.»
+  en: «I worked across the square for many years. I had the same view, and I never drew it.»
+- Ella por fin se gira. Ve la corbata torcida, la bolsa de papel que sigue cerrada y las manos, que no saben dónde ponerse.
+  en: At last she turns round. She sees the crooked tie, the paper bag that is still shut, and the hands that do not know where to go.
+- «¿Y ahora a qué se dedica?», pregunta ella.
+  en: «And what do you do now?» she asks.
+- «Ahora no trabajo», contesta él. «Y todavía me quedan varias paradas.»
+  en: «I don't work now», he answers. «And I still have several stops to go.»
+- «¿Y eso qué lleva ahí?», pregunta ella, señalando la bolsa.
+  en: «And what have you got in there?» she asks, pointing at the bag.
+- «Un bollo. Lo compré ayer por la tarde para el desayuno, y se me olvidó comerlo.»
+  en: «A bun. I bought it yesterday afternoon for breakfast, and I forgot to eat it.»
+- Ella se ríe por primera vez, un poco sorprendida de haberse reído.
+  en: She laughs for the first time, a little surprised to have done so.
+- En la siguiente parada se abre la puerta con un silbido, y entra un aire frío de noviembre.
+  en: At the next stop the doors open with a hiss, and cold November air comes in.
+- Nadie sube. La puerta se cierra. Nadie baja.
+  en: Nobody gets on. The doors close. Nobody gets off.
+- Ella tiene la carpeta en las rodillas, y el dibujo ha quedado a medio sacar sobre el asiento vacío de al lado, donde él podría sentarse.
+  en: She has the folder on her knees, and the drawing has been left half out on the empty seat beside her, where he could sit down.
+- Él se levanta un poco, se apoya en el respaldo del asiento de delante y espera.
+  en: He gets up a little, leans on the back of the seat in front and waits.
+- El conductor mira por el retrovisor, y el autobús sigue por la calle de Alcalá sin prisa, como si también él estuviera esperando.
+  en: The driver looks in the mirror, and the bus goes on along the Calle de Alcalá without hurry, as if he too were waiting.
+- Ella tiene que decidir antes de la próxima parada, y el autobús ya empieza a frenar.
+  en: She has to decide before the next stop, and the bus is already beginning to slow down.
+
+notes.en:
+1. Son casi las tres de la madrugada (sentence 1): madrugada is the hours between midnight and dawn, so three in the morning is las tres de la madrugada. The whole story is told in the present (sale, se ven, se sienta, se abre) and stays there to the last line. The past comes only in a background clause, durante treinta años (sentence 11), or in a speaker's words, as yo trabajé (sentence 17). Example: Son casi las cinco de la madrugada, "it is nearly five in the morning".
+2. el búho, el último autobús de la noche (sentence 1): búho is an owl; in Madrid the night buses are called búhos, and the title comes from them.
+3. Por la ventanilla se ven la diosa de la fuente (sentence 2): the impersonal se with a plural subject. The things seen (the goddess and the palace) are the subject, so the verb is plural. Example: Desde la terraza se ven las estrellas, "from the terrace the stars can be seen".
+4. la diosa de la fuente, con su carro tirado por leones (sentence 2): the fountain of Cibeles, at the head of the Paseo del Prado, shows the goddess Cybele on a chariot drawn by two lions. Madrileños say simply Cibeles.
+5. el palacio de Correos (sentence 2): the building was first the central post office. Its official name is Palacio de Comunicaciones, but many people still say Correos, and the name is kept here as the speakers would use it.
+6. Hay dos pasajeros (sentence 3): haber stays in the singular whatever number follows, so hay goes with two passengers. Example: Había muchas personas en la parada, "there were many people at the stop".
+7. ni sube ni baja nadie (sentence 8): ni ... ni wraps the two verbs, and nadie follows them as the subject. Example: Ni llama ni escribe nadie, "nobody calls or writes".
+8. Perdone, ¿ha dibujado usted la fuente de memoria? (sentence 14): between two strangers Spanish uses usted, and perdone opens the question; English has only one word for you. The perfect ha dibujado is used for a drawing that is still there to be seen. Example: ¿Ha visto usted mi paraguas?, "have you seen my umbrella?"
+9. De memoria, no (sentence 15): de memoria means from memory, and the answer rejects the idea with a plain no. Lo hice desde la ventana de mi padre uses the preterite for an act that is finished. Example: Lo hice ayer, "I did it yesterday".
+10. Yo trabajé muchos años enfrente (sentence 17): the preterite for a period that is over, set against Ahora no trabajo (sentence 20), where the present says what is true now. A question about work with dedicarse a takes a noun. Example: Me dedico a la enseñanza, "I work in teaching".
+11. se me olvidó comerlo (sentence 22): with olvidar and se me, the person is the indirect object and the thing forgotten is the subject. Here the subject is the infinitive comerlo, so the English is "I forgot to eat it". Example: Se me olvidó la llave, "I forgot the key".
+12. ayer por la tarde (sentence 22): the day is over, so the preterite lo compré is used, not the perfect. The perfect needs a time that is still running. Example: Hoy lo he comprado, "I have bought it today".
+13. un silbido (sentence 24): silbido is a hiss or whistle, the sound a bus door makes as it opens; a pitido is a beep. Example: un pitido de la máquina, "a beep from the machine".
+14. ya empieza a frenar (sentence 29): ya with the present means already, and empezar a with an infinitive means to begin to. Example: Ya empieza a llover, "it is already starting to rain".
+15. como si también él estuviera esperando (sentence 28): como si takes the imperfect subjunctive when the comparison is not true. Example: Habla como si lo supiera todo, "he talks as if he knew everything".
+
+ex1:
+- Llevábamos media hora esperando, y cuando por fin llegó el autobús, ni siquiera se paró del todo.
+  en: We had been waiting for half an hour, and when the bus finally arrived, it did not even stop completely.
+- No me importa que llegue tarde, siempre que llegue.
+  en: I do not mind if it is late, as long as it comes.
+- Mamá, por mucho que insistas, no pienso dejar el asiento de la ventanilla.
+  en: Mum, however much you insist, I am not giving up the window seat.
+- Dijo que el búho pasaba a las tres, pero a las tres menos cuarto todavía no había llegado.
+  en: He said the owl came through at three, but at a quarter to three it had not yet arrived.
+- Ojalá hubiera cogido el taxi: habría llegado a casa mucho antes y no tendría frío.
+  en: I wish I had taken the taxi: I would have got home much earlier and would not be cold.
+
+ex2:
+- Lo hizo [de memoria], sin mirar el papel.
+  en: He did it from memory, without looking at the paper.
+- Se me [olvidó] la llave en casa.
+  en: I forgot my key at home.
+- [Ya] son las tres, y no hay nadie en la parada.
+  en: It is already three o'clock, and there is nobody at the stop.
+- Mi hermano [tiene que] madrugar mañana.
+  en: My brother has to get up early tomorrow.
+- Ella [se rió] cuando oyó la noticia.
+  en: She laughed when she heard the news.
+
+tasks:
+- Ella cierra la carpeta del todo y se levanta. Camina hasta la fila de atrás y deja el dibujo sobre el asiento vacío, junto a él. «Para usted», dice, sin mirarle todavía. Él lo coge con cuidado, como si fuera un objeto frágil, y por fin levanta la vista. «¿Se baja usted en la próxima?», pregunta ella. El hombre se pone de pie, se abotona el abrigo y responde: «Depende de si me invita a contarme cómo dibujó esos leones.» La puerta se abre con su silbido.
+  task.en: Write the ending of the story in Spanish, in the present, about 100 words: what she does at the next stop and what the man says. Keep usted between them.
+  rubric.en: meaning: the ending answers the question of the next stop and gives the drawing back to the man; register: usted between the two strangers, kept throughout; structure: she moves, gives the drawing, asks her question, he answers, the doors open; idiom: depender de, sin mirarle and como si with the imperfect subjunctive are used in their set senses; effect: the ending brings the two of them together and leaves the next step open.
+
+== 23 C1
+numeral: Lección veintitrés
+title: Cuadro de costumbres
+title.en: A sketch of manners
+
+dialogue:
+- Don Procopio Ruiz de Tejada, propietario de tres viñas, dos mulas y una opinión sobre todas las cosas, llegó a Madrid en la diligencia de Cuenca un martes de octubre.
+  en: Don Procopio Ruiz de Tejada, owner of three vineyards, two mules and an opinion on everything, arrived in Madrid on the Cuenca stagecoach one Tuesday in October.
+- Traía un baúl, un paraguas de seda que nunca abrió y una carta de su sobrino Eusebio.
+  en: He brought a trunk, a silk umbrella he never opened, and a letter from his nephew Eusebio.
+- En la carta, Eusebio le rogaba que se hospedase en su casa «el tiempo que tuviera a bien», y don Procopio entendió que eran tres semanas.
+  en: In the letter Eusebio begged him to stay in his house «for as long as he saw fit», and Don Procopio understood that this meant three weeks.
+- Eusebio era oficial segundo en una oficina de Hacienda, y tenía mujer, dos niñas y un salón con un reloj de pared que atrasaba cuatro minutos cada día.
+  en: Eusebio was a second-class clerk in a Treasury office, and he had a wife, two little girls and a sitting room with a wall clock that lost four minutes a day.
+- Doña Dolores había preparado el mejor mantel y un silencio cortés, que pensaba mantener hasta que el visitante terminara de hablar.
+  en: Doña Dolores had prepared the best tablecloth and a polite silence, which she meant to keep until the visitor had finished speaking.
+- Don Procopio entró con la levita abotonada hasta el cuello y saludó a cada niña por su nombre completo.
+  en: Don Procopio came in with his frock coat buttoned up to the neck and greeted each girl by her full name.
+- Las niñas, de once y nueve años, lo miraban como quien mira una estatua que de pronto empieza a hablar.
+  en: The girls, aged eleven and nine, looked at him as one looks at a statue that suddenly starts to speak.
+- Después se sentó en el sillón de Eusebio y habló de la cosecha, de lo malos que estaban los caminos reales y de la necesidad de hombres de bien que no vivieran en la Corte.
+  en: Then he sat down in Eusebio's armchair and talked about the harvest, about how bad the royal roads were, and about the need for men of good character who did not live at Court.
+- Eusebio, que había aprendido hace años que las interrupciones solo alargan los discursos, asentía en los puntos que parecían de acuerdo.
+  en: Eusebio, who had learnt years ago that interruptions only lengthen speeches, nodded at the points that seemed to agree.
+- Lo peor de aquella primera tarde fue el anuncio de que había traído un lechón asado y dos quesos de Cuenca para los vecinos del cuarto piso, a quienes no conocía.
+  en: The worst of that first afternoon was his announcement that he had brought a roast suckling pig and two cheeses from Cuenca for the neighbours on the fourth floor, whom he did not know.
+- Doña Dolores dijo que sería una atención muy delicada, y que ella misma llevaría los quesos.
+  en: Doña Dolores said it would be a most thoughtful gesture, and that she would take the cheeses round herself.
+- Al día siguiente, a las seis de la mañana, abrió las ventanas del salón de par en par y dio tres vueltas a la manzana para conocer el barrio.
+  en: The next day, at six in the morning, he threw open the windows of the sitting room and walked three times round the block to get to know the neighbourhood.
+- Regresó sin aliento y muy satisfecho: las calles de la Corte eran sucias, estrechas y poco dignas de una capital.
+  en: He came back out of breath and very pleased: the streets of the Court were dirty, narrow and unworthy of a capital.
+- Eusebio le preguntó si había visto el teatro, y el tío contestó que no había necesitado ver nada, porque conocía de memoria el de su pueblo.
+  en: Eusebio asked whether he had seen the theatre, and the uncle replied that he had not needed to see anything, because he knew his village's by heart.
+- Allí se representaba El sí de las niñas las noches de San Antonio, y eso sí que era cultura.
+  en: There El sí de las niñas was performed on the nights of Saint Anthony, and that was real culture.
+- Después del almuerzo se quedó dormido en el sillón, y al despertar declaró que la Corte le había pedido consejo sobre cómo empedrar sus calles.
+  en: After lunch he fell asleep in the armchair, and on waking he declared that the Court had asked him for advice on how to pave its streets.
+- Doña Dolores le sirvió chocolate, y don Procopio lo probó con los ojos cerrados, como un crítico de teatro.
+  en: Doña Dolores served him chocolate, and Don Procopio tasted it with his eyes shut, like a theatre critic.
+- Dijo que era aceptable, aunque el de su tía Gertrudis, en Cuenca, lo superaba en espesor y en amargura.
+  en: He said it was acceptable, though his aunt Gertrudis's, in Cuenca, surpassed it in thickness and bitterness.
+- Desde aquel día, la visita se convirtió en costumbre, y todos la sobrellevaban con la paciencia de quien espera a que escampe.
+  en: From that day the visit became a habit, and everyone bore it with the patience of someone waiting for the rain to stop.
+- El tío hablaba de los campos, de los impuestos y de la falta de respeto de los dependientes, y las niñas aprendieron tres de sus frases para usarlas en el colegio.
+  en: The uncle talked about the countryside, taxes and the shop assistants' lack of respect, and the girls learnt three of his sayings to use at school.
+- Escribió a su mujer una carta de nueve páginas en la que describía la mesa de la familia, el precio de los garbanzos y un cochero que le había cobrado dos reales de más.
+  en: He wrote to his wife a nine-page letter describing the family's table, the price of chickpeas and a coachman who had charged him two reales too much.
+- Pasaron las semanas. Eusebio, que había prometido a su mujer una visita de quince días, tachaba las jornadas en el calendario de la cocina.
+  en: Weeks went by. Eusebio, who had promised his wife a fortnight's visit, crossed off the days on the kitchen calendar.
+- Una mañana de sábado, el tío hizo las maletas, y Eusebio lo acompañó a la puerta con el alma en paz.
+  en: One Saturday morning the uncle packed his bags, and Eusebio saw him to the door with an easy mind.
+- En el portal, don Procopio se detuvo, miró las escaleras con desconfianza y se volvió con el gesto de quien va a pronunciar la última frase de un discurso.
+  en: In the hall, Don Procopio stopped, eyed the stairs with suspicion and turned round with the look of someone about to deliver the last sentence of a speech.
+- «Sobrino», dijo, «un hombre de bien no sale de casa de su familia sin dejar algo de sí mismo.»
+  en: «Nephew», he said, «a good man does not leave his family's house without leaving something of himself behind.»
+- Eusebio asintió, ya con la mano en la puerta, y el tío le tomó del brazo y bajó la voz.
+  en: Eusebio nodded, his hand already on the door, and his uncle took him by the arm and lowered his voice.
+- «Y, por cierto, sobrino, ¿me prestas doscientos reales para la diligencia? Que en la Corte no fía nadie.»
+  en: «And by the way, nephew, will you lend me two hundred reales for the stagecoach? In the Court nobody gives credit.»
+
+notes.en:
+1. Don Procopio Ruiz de Tejada (sentence 1): the sketch imitates the costumbrista article, a short prose piece on manners that Mariano José de Larra (1809–1837) and other writers printed in the Madrid press in the 1830s. Larra's "Vuelva usted mañana" (1833) is named here for its place in the genre; this sketch takes none of its story.
+2. propietario de tres viñas, dos mulas y una opinión sobre todas las cosas (sentence 1): the appositive counts the uncle's property in one breath, and his opinion is counted with the vines and the mules.
+3. el tiempo que tuviera a bien (sentence 3): tener a bien is the formal phrase of a letter, "for as long as you think fit". The uncle reads it as an invitation to stay for weeks, and the sentence shows what he took from it.
+4. oficial segundo en una oficina de Hacienda (sentence 4): oficial segundo is a rank in the civil service of the period, and Hacienda is the Treasury. The phrase places Eusebio in an office, not in the upper ranks of a ministry.
+5. la levita abotonada hasta el cuello (sentence 6): the levita is a frock coat, the formal dress of the period. Abotonada is a past participle used as an adjective: buttoned.
+6. como quien mira una estatua que de pronto empieza a hablar (sentence 7): como quien with the present describes a general way of looking, not one particular look. The verb is in the present because the comparison holds for anyone.
+7. lo malos que estaban los caminos reales (sentence 8): lo with an adjective and que is the old way of saying how bad; modern Spanish would say qué malos. The sentence keeps adding its topics one after another, as a speech does; modern prose would break it into three or four.
+8. de par en par (sentence 12): the phrase means wide open, and it is used with windows and doors. Par en par is fixed, so it does not change with the noun.
+9. El sí de las niñas (sentence 15): a comedy by Leandro Fernández de Moratín, written at the start of the nineteenth century and still named in Spanish theatre histories. It is quoted by its title only.
+10. la paciencia de quien espera a que escampe (sentence 19): escampar is said of rain that stops, and esperar a que takes the subjunctive, so the phrase means waiting for the weather to clear.
+11. dos reales de más (sentence 21): the real is an old silver coin, used before the peseta. Dos reales is a sum of two of them, and de más means too much.
+12. quince días (sentence 22): quince días is the usual Spanish way to say a fortnight, fifteen days. Dos semanas is also said, but quince días is the usual phrase for a stay.
+13. no fía nadie (sentence 27): fiar means to give credit, to lend on trust. The note explains the word; the reader takes the rest from the line.
+
+ex1:
+- Si mi tío viniera hoy, seguramente diría que la ciudad ha perdido el decoro, aunque luego se quedase a cenar.
+  en: If my uncle came today, he would probably say the city had lost its decorum, even though he would then stay on for supper.
+- Me pidió que le dejara el paraguas, aunque no lloviera, porque quería llevarlo abierto por la calle.
+  en: He asked me to lend him the umbrella, even though it was not raining, because he wanted to carry it open down the street.
+- No sé si fue la levita o el sombrero lo que le dio aquel aire de juez, pero nadie se atrevió a contradecirle.
+  en: I do not know whether it was the frock coat or the hat that gave him that air of a judge, but nobody dared to contradict him.
+- Por lo general, los vecinos del cuarto piso no se saludaban, pero aquella tarde bajaron todos a ver el lechón.
+  en: As a rule the neighbours on the fourth floor did not greet one another, but that afternoon they all came down to see the suckling pig.
+- Hay gente que habla tanto que, al final, uno agradece el silencio como si fuera un regalo.
+  en: There are people who talk so much that, in the end, one is grateful for silence as if it were a gift.
+
+ex2:
+- Hace dos años que no [he ido] al pueblo.
+  en: I have not been to the village for two years.
+- Ayer me [pidió] que le llevara la maleta.
+  en: Yesterday he asked me to carry his suitcase.
+- Ella [llevaba] el paraguas abierto por la calle.
+  en: She was carrying the umbrella open down the street.
+- Me [alegro] de que hayas venido, papá.
+  en: I am glad you came, Dad.
+- No tengo [ganas] de discutir.
+  en: I do not feel like arguing.
+
+tasks:
+- Se sentó en el sillón de Eusebio y habló de la cosecha de aquel año. Se quejó de que los caminos reales estaban fatal. Según él, el país necesitaba hombres de bien que no vivieran en la Corte.
+  task.en: Rewrite the uncle's speech (sentence 8) in modern Spanish, about 40 words: shorter sentences, no period words, the same topics in the same order.
+  rubric.en: meaning: the rewrite keeps the harvest, the roads, and the need for men of good character who do not live at Court, in that order; register: neutral modern Spanish of Spain, with no archaic forms; structure: several short sentences in place of the one long one; idiom: estaban fatal and según él are used in their normal senses; effect: without the long sentence the pomp goes, and the speech reads as plain talk.
+
+== 24 C1
+numeral: Lección veinticuatro
+title: La casa del pueblo
+title.en: The house in the village
+
+dialogue:
+- La casa de mis abuelos estaba al final de la calle del Pozo, en un pueblo de Castilla con una sola plaza y una iglesia de piedra gris cuyo reloj se oía desde cualquier esquina.
+  en: My grandparents' house was at the end of the Calle del Pozo, in a village in Castile with one square and a grey stone church whose clock could be heard from any corner.
+- La puerta era de madera, pintada de verde hasta que el sol la dejó del color del pan.
+  en: The door was wooden, painted green until the sun left it the colour of bread.
+- Al entrar, el frescor del zaguán nos recibía como una segunda puerta, y olía a cal, a leña y a sopa de ajo.
+  en: On entering, the coolness of the entrance hall greeted us like a second door, and it smelt of lime, firewood and garlic soup.
+- En un rincón del patio, colgado de un clavo, estaba el botijo, de barro sin esmaltar, que mi abuelo llenaba cada mañana en la fuente.
+  en: In a corner of the courtyard, hanging from a nail, was the botijo, a jar of unglazed clay, which my grandfather filled every morning at the fountain.
+- El agua salía fresca porque el barro suda por fuera, y mi abuelo decía que aquella era la única nevera que necesitaba una persona decente.
+  en: The water came out cool because the clay sweats on the outside, and my grandfather used to say that it was the only fridge a decent person needed.
+- Yo bebía a morro, con las dos manos, y el agua me corría por la barbilla hasta la camisa, y nadie me reñía por ello.
+  en: I drank straight from the spout, with both hands, and the water ran down my chin onto my shirt, and nobody scolded me for it.
+- Por la mañana, el olor del pan de horno de leña se colaba por la ventana de la cocina.
+  en: In the morning the smell of bread from the wood oven came in through the kitchen window.
+- Mi abuelo se lavaba las manos en la pila del patio antes de sentarse a comer, sin prisa, como si tuviera toda la tarde por delante.
+  en: My grandfather washed his hands at the courtyard basin before sitting down to eat, unhurriedly, as if he had the whole afternoon ahead of him.
+- Después de comer llegaba la siesta, y la casa entera se quedaba quieta detrás de los postigos cerrados.
+  en: After lunch came the siesta, and the whole house stayed still behind the closed shutters.
+- En la penumbra solo se oía el zumbido de una mosca contra el cristal de la alcoba.
+  en: In the half-light the only sound was the buzz of a fly against the bedroom window.
+- Yo no dormía nunca la siesta, pero fingía hacerlo, porque era la única manera de que me dejaran tumbarme en la cama grande.
+  en: I never slept the siesta, but I pretended to, because it was the only way they would let me lie down on the big bed.
+- Cuando el calor aflojaba, salíamos a la puerta, y cada cual sacaba su silla de enea y la ponía en la acera, a la sombra de la pared.
+  en: When the heat let up, we went out to the door, and each of us took out a rush chair and set it on the pavement, in the shade of the wall.
+- Allí se tomaba el fresco, se comentaba quién había pasado en coche y quién volvía de la viña con las mulas.
+  en: There people sat out in the cool of the evening, discussing who had driven past and who was coming back from the vineyard with the mules.
+- Las vecinas hablaban de sus hijos, que vivían en Madrid y en Barcelona, y de lo que costaba el pan, y mi abuelo les contestaba con monosílabos y con el sombrero sobre los ojos.
+  en: The neighbours talked about their children, who lived in Madrid and in Barcelona, and about what bread cost, and my grandfather answered them in single words, with his hat over his eyes.
+- Yo me sentaba en el suelo, con la espalda contra la pared encalada, y escuchaba sin entender la mitad.
+  en: I sat on the ground, my back against the whitewashed wall, and listened without understanding half of it.
+- Al atardecer, las golondrinas cruzaban la calle tan bajas que casi rozaban los tejados, y la luz se ponía dorada en la pared de la iglesia.
+  en: At dusk the swallows crossed the street so low that they almost brushed the roofs, and the light turned gold on the church wall.
+- Entonces la campana daba las horas, y cada golpe tardaba en apagarse sobre los tejados, como si el pueblo entero lo estuviera contando.
+  en: Then the bell struck the hours, and each stroke took its time to die away over the roofs, as if the whole village were counting it.
+- Nadie en el pueblo miraba el reloj de la muñeca; todos se fiaban del de la iglesia, aunque a veces se equivocaba.
+  en: Nobody in the village looked at their wristwatch; everyone trusted the church clock, though it was sometimes wrong.
+- Cuando anochecía, mi abuelo encendía una bombilla de cuarenta vatios que alumbraba la mesa del patio y nada más.
+  en: When night fell, my grandfather switched on a forty-watt bulb that lit the courtyard table and nothing else.
+- Cenábamos tortilla y pan, que siempre se partía con la mano.
+  en: We had omelette and bread for supper, and the bread was always broken by hand.
+- Después volvíamos a la puerta, a tomar el fresco, y la calle se llenaba de niños que jugaban a la comba hasta que una madre los llamaba por su nombre completo.
+  en: Afterwards we went back to the door to sit out, and the street filled with children skipping rope until a mother called them by their full names.
+- Una tarde de agosto cayó una tormenta breve; nos metimos todos en el zaguán, y el agua olía a polvo y a tierra mojada.
+  en: One August afternoon a brief storm fell; we all went into the entrance hall, and the rain smelt of dust and wet earth.
+- Tardé años en entender que aquellas tardes eran lo que más echaba de menos; entonces solo quería que se acabaran para irme a la cama.
+  en: It took me years to understand that those afternoons were what I missed most; back then I only wanted them to end so that I could go to bed.
+- Hoy, cuando alguien me pregunta por mi infancia, lo primero que me viene a la cabeza es el agua del botijo cayendo por mi barbilla.
+  en: Today, when someone asks me about my childhood, the first thing that comes to mind is the water from the botijo running down my chin.
+- La casa se vendió hace años, y el patio ya tiene otra puerta, otro color y otra familia.
+  en: The house was sold years ago, and the courtyard now has another door, another colour and another family.
+- Pero el tañido de la campana, al atardecer, sigue sonando en mi cabeza con la misma calma de entonces.
+  en: But the toll of the bell at dusk still rings in my head with the same calm as then.
+
+notes.en:
+1. la calle del Pozo (sentence 1): the name means the street of the well, and many Spanish villages have a street with that name.
+2. de barro sin esmaltar (sentence 4): the botijo is a jar of unglazed clay. Because the clay is porous, water seeps through the walls and evaporates, and the water inside stays cool.
+3. el barro suda por fuera (sentence 5): the grandfather's words are folk talk, but the clay does sweat: the water seeps through and evaporates, and that evaporation is what cools the jar.
+4. a morro (sentence 6): drinking straight from the spout of a jar, without a glass. Example: Bebió a morro de la botella, "he drank straight from the bottle".
+5. la siesta (sentence 9): the custom and its myths are taught in (Foundation, lesson 82). Here it is a memory of the shutters and the stillness, not a lesson about it.
+6. fingía hacerlo (sentence 11): hacerlo stands for dormir la siesta, so the pronoun points back to the sentence before. The imperfect fingía says it was a habit, not one afternoon.
+7. de enea (sentence 12): enea is the bulrush or reed mace, a plant whose stalks were woven into rush seats for chairs.
+8. tomar el fresco (sentence 13): to sit outside in the cool of the evening, a custom of Spanish summer evenings. Example: Salimos a tomar el fresco, "we went out to sit in the cool of the evening".
+9. tardaba en apagarse (sentence 17): tardar en with an infinitive means to take time to do something, here to die away. The subject is cada golpe, so the verb is singular.
+10. se fiaban del de la iglesia (sentence 18): fiarse de means to trust, and del de la iglesia is the clock of the church, the word reloj left out after de.
+11. Tardé años en entender (sentence 23): tardar en with a period of time, años, says how long it took. Entender is the infinitive that follows.
+12. La casa se vendió hace años (sentence 25): the preterite after hace años, because the sale is over. A perfect would need a time that is still running.
+
+ex1:
+- Cuando el abuelo hablaba de la guerra, cambiaba de tema antes de llegar al final, como quien cierra una puerta sin hacer ruido.
+  en: When grandfather spoke of the war, he changed the subject before he reached the end, like someone closing a door without making a sound.
+- Recuerdo que la casa olía a cal y a leña, aunque nunca supe de dónde venía el olor.
+  en: I remember that the house smelt of lime and firewood, though I never found out where the smell came from.
+- Si hubiéramos vuelto al pueblo en agosto, habríamos encontrado a los abuelos sentados en la puerta.
+  en: If we had gone back to the village in August, we would have found the grandparents sitting at the door.
+- Ojalá pudiera volver una tarde de julio y sentarme otra vez en el suelo, contra la pared encalada.
+  en: I wish I could go back to one July afternoon and sit on the floor again, against the whitewashed wall.
+- Todavía hoy, cuando el calor aprieta, me acuerdo de la sombra de aquel patio y me quedo quieto un rato.
+  en: Even today, when the heat is intense, I remember the shade of that courtyard and stay still for a while.
+
+ex2:
+- Bebió [a morro], sin vaso.
+  en: He drank straight from the jug, without a glass.
+- [Fingió] estar dormido para que no le riñeran.
+  en: He pretended to be asleep so that they would not scold him.
+- Nos fuimos de Madrid [hace] tres años.
+  en: We left Madrid three years ago.
+- [Ya] es de noche, así que cerramos los postigos.
+  en: It is already night, so we close the shutters.
+- Mi abuelo [se quitaba] la gorra al entrar.
+  en: My grandfather used to take off his cap when he came in.
+
+tasks:
+- La cocina de mi madre era pequeña, y tenía una ventana que daba a un patio con una parra. Por la mañana entraba una luz blanca, y el aire olía a café recién hecho y a aceite caliente. Mi madre cantaba mientras freía, siempre la misma canción, y nunca supe si se acordaba de la letra. Los domingos, la mesa se alargaba con una tabla que guardábamos detrás de la despensa, y entonces la cocina parecía más grande de lo que era. Cuando vendimos la casa me llevé la cuchara de madera con la que removía el arroz, y todavía la guardo en el cajón de la mía. Cuando la saco, el olor vuelve, aunque sea muy débil.
+  task.en: Write in Spanish, about 150 words, a memoir of a place you remember well: a house, a street or a room. Use the imperfect for the background and the preterite for the events, and end on an image, not on a conclusion.
+  rubric.en: meaning: the text describes one place from childhood with its sounds, smells and light; register: first person, warm and plain; structure: a general picture first, then one or two events, then an image; idiom: tomar el fresco, a morro or hace años are used only where they fit; effect: the ending is an image, so the reader feels the place without being told what it meant.
+
+== 25 C1
+numeral: Lección veinticinco
+title: Seis cuentos de una frase
+title.en: Six stories of one sentence
+
+dialogue:
+- Un microrrelato cabe en una frase, y a veces en una sola palabra que el lector tiene que terminar.
+  en: A microrrelato fits into one sentence, and sometimes into a single word that the reader has to finish.
+- Unos lo llaman minicuento y otros prefieren microrrelato, y los dos nombres sirven para lo mismo.
+  en: Some call it a minicuento and others prefer microrrelato, and both names serve for the same thing.
+- No es un cuento corto, sino un género con sus propias reglas, y en él lo que no se cuenta pesa más que lo que se cuenta.
+  en: It is not a short story, but a genre with its own rules, and in it what is not told weighs more than what is told.
+- En español la tradición es larga, y tiene una referencia que casi todos conocen: Augusto Monterroso (1921–2003), cuyo «El dinosaurio» es probablemente la más famosa de las historias de una sola frase en la lengua.
+  en: In Spanish the tradition is long, and it has a reference that almost everyone knows: Augusto Monterroso (1921–2003), whose «El dinosaurio» is probably the most famous one-sentence story in the language.
+- Lo que hace el género es sugerir: el personaje, el tiempo y la causa se quedan fuera, y el lector los pone.
+  en: What the genre does is suggest: the character, the time and the cause are left out, and the reader supplies them.
+- Una buena última frase no explica nada; deja una puerta abierta que el lector cierra cuando quiere.
+  en: A good last sentence explains nothing; it leaves a door open which the reader closes when they like.
+- A continuación hay seis, cada una en una sola frase y sin título, porque aquí la frase es el título.
+  en: Below there are six, each in a single sentence and without a title, because here the sentence is the title.
+- Durante dieciocho años esperó una carta de su hijo, y cuando por fin llegó la leyó dos veces en la cocina y la guardó en el cajón, sin contestarla.
+  en: For eighteen years she waited for a letter from her son, and when at last it came she read it twice in the kitchen and put it in the drawer, without answering it.
+- Mi madre ya no sabe cocinar, pero cada domingo me pregunta si he comido, y yo le contesto que sí, para que ella sienta que todavía cuida de alguien.
+  en: My mother no longer knows how to cook, but every Sunday she asks me whether I have eaten, and I tell her yes, so that she feels she is still looking after someone.
+- Desde que murió su marido, dejaba la luz del pasillo encendida para que él encontrara el camino de vuelta, y cada mañana la apagaba sin decírselo a nadie.
+  en: Since her husband died, she left the hall light on so that he could find his way back, and every morning she switched it off without telling anyone.
+- El viajero preguntó en la estación cuánto tardaba el tren hasta su pueblo, y el empleado, con una sonrisa, le contestó que ya había llegado.
+  en: At the station the traveller asked how long the train took to his village, and the clerk, with a smile, told him that he had already arrived.
+- Ella no volvió a llamarle, pero cada año, el día de su cumpleaños, le llegaba una postal sin firma con una sola frase: «Todavía no es tarde».
+  en: She never called him again, but every year, on his birthday, a postcard arrived without a signature, with a single sentence: «It is not too late yet».
+- En su última carta le pidió perdón por tres cosas, y solo escribió dos, porque la tercera era la única que ella no le había perdonado.
+  en: In his last letter he asked her to forgive him for three things, and wrote only two, because the third was the only one she had not forgiven him for.
+- Ninguna de estas frases dice por qué, ni cuándo, ni quién habla, y sin embargo cada una deja al lector con una pregunta concreta.
+  en: None of these sentences says why, when, or who is speaking, and yet each one leaves the reader with a precise question.
+- Cada una tiene su propio clima: la primera es lenta, la tercera es casi tierna y la cuarta es seca.
+  en: Each one has its own mood: the first is slow, the third is almost tender and the fourth is dry.
+- En la primera, los dieciocho años se entienden en un solo gesto: leer la carta dos veces, y guardarla sin contestar.
+  en: In the first, the eighteen years are understood through a single gesture: reading the letter twice, and putting it away without an answer.
+- En la segunda, el verbo cuidar dice lo que el texto calla, porque la madre ya no cocina, pero no ha dejado de cuidar.
+  en: In the second, the verb cuidar says what the text leaves unsaid, because the mother no longer cooks, but she has not stopped looking after people.
+- En la tercera, la luz encendida hace el trabajo que una descripción haría peor, y basta con la palabra apagaba.
+  en: In the third, the light left on does the work that a description would do worse, and the word apagaba is enough.
+- En la cuarta, una sola palabra cambia el sentido de todo, y el empleado la pronuncia una vez, sin subrayarla.
+  en: In the fourth, a single word changes the meaning of everything, and the clerk says it once, without emphasis.
+- En la quinta hay una postal, una frase y una firma que falta, y eso basta para que el lector sepa algo de los dos.
+  en: In the fifth there is a postcard, a sentence and a missing signature, and that is enough for the reader to know something about both of them.
+- La sexta, la del perdón, es la más difícil de escribir, porque hay que contar la tercera cosa sin nombrarla.
+  en: The sixth, the one about forgiveness, is the hardest to write, because the third thing has to be told without being named.
+- Escribir uno de estos textos cuesta más de lo que parece, porque hay que decidir qué se calla y confiar en que el lector lo encuentre solo.
+  en: Writing one of these texts costs more than it seems, because you have to decide what to leave out and trust the reader to find it alone.
+- Conviene leerla en voz alta antes de darla por buena, porque una frase que no suena bien tampoco se entiende en silencio.
+  en: It is worth reading it aloud before calling it finished, because a sentence that does not sound right does not make sense in silence either.
+- Nadie se queda con el número de palabras; el lector recuerda la impresión que le deja el final.
+  en: Nobody remembers the number of words; the reader remembers the impression the ending leaves.
+- Por eso el género se aprende leyendo mucho y corrigiendo más, con una regla sencilla: cada palabra tiene que trabajar.
+  en: That is why the genre is learnt by reading a great deal and correcting even more, with one simple rule: every word has to work.
+
+notes.en:
+1. microrrelato (sentence 1): the Spanish word for the very short story, which the next sentence compares with minicuento. Both are current; neither is more correct.
+2. «El dinosaurio» (sentence 4): a story by Augusto Monterroso (1921–2003), named here by its title only. It is one of the best-known stories in Spanish.
+3. cabe en una frase (sentence 1): caber is irregular in the first person (quepo), and cabe is the third-person form: it fits. The sentence says the story fits into a single sentence, and sometimes a single word.
+4. pesa más (sentence 3): pesar used figuratively means to matter, to count for more. Here it is the unstated part of a story that counts most.
+5. Durante dieciocho años esperó (sentence 8): the preterite for a period that is over, and for the events that follow it. Esperaba would describe a habit; esperó says the waiting ended.
+6. sin contestarla (sentence 8): sin with an infinitive means without doing something. The pronoun la points back to the letter, which is feminine.
+7. le contesto que sí (sentence 9): contestar takes the person as indirect object (le) and a clause after que. Sí answers the question with a plain yes.
+8. dejaba la luz del pasillo encendida (sentence 10): the imperfect for a habit, dejaba, and the adjective encendida, which agrees with la luz. Desde que murió uses the preterite for a finished event.
+9. para que él encontrara (sentence 10): para que takes the subjunctive, here the imperfect, because the purpose is in the past.
+10. ya había llegado (sentence 11): the pluperfect, because the arrival comes before the question. Ya here means already.
+11. le llegaba una postal sin firma (sentence 12): llegar with the person as indirect object (le) means a letter or card reached someone. Sin firma is without a signature.
+12. «Todavía no es tarde» (sentence 12): the phrase is said as a sign of hope; it stays in Spanish in the quotation, with its punctuation.
+13. le había perdonado (sentence 13): the pluperfect for an earlier fact: she had not forgiven him before the letter. Pedir perdón takes por before the thing forgiven.
+14. cuidar dice lo que el texto calla (sentence 17): cuidar means to look after or to take care of; the sentence sets it against callar, to leave unsaid.
+15. basta con la palabra apagaba (sentence 18): bastar con means to be enough with. The verb apagaba, in the imperfect, is the habit of switching the light off.
+
+ex1:
+- No te preocupes por el tren: si pierdes este, siempre queda el de las nueve, aunque tardes más en llegar.
+  en: Do not worry about the train: if you miss this one, there is always the nine o'clock, even if you take longer to arrive.
+- Le escribí tres veces, y las tres cartas siguen en el cajón, sin abrir.
+  en: I wrote to him three times, and the three letters are still in the drawer, unopened.
+- Hija, si me hubieras preguntado antes, te habría dicho que sí, pero ya era tarde para contestar.
+  en: Daughter, if you had asked me earlier, I would have told you yes, but it was already too late to answer.
+- Nadie sabe por qué el abuelo guardaba las llaves de todas las casas del pueblo, pero nunca se las pidió nadie.
+  en: Nobody knows why grandfather kept the keys to every house in the village, but nobody ever asked him for them.
+- Por mucho que lo intentara, la frase no le salía: siempre le sobraba una palabra.
+  en: However hard she tried, the sentence would not come out right: there was always one word too many.
+
+ex2:
+- El telegrama llegó [demasiado] tarde.
+  en: The telegram arrived too late.
+- Ahora ya [no] espero nada de él.
+  en: Now I no longer expect anything from him.
+- Ella [se quedó] callada hasta el final.
+  en: She stayed silent until the end.
+- Aquella noche, [se apagó] la luz del pasillo.
+  en: That night the hall light went out.
+- Lo que más [me duele] es el silencio.
+  en: What hurts me most is the silence.
+
+tasks:
+- Cada tarde, el abuelo ponía dos tazas en la mesa, y al cabo de un rato guardaba una sin decir nada. Mi hija dejó de llamarme cuando empezó a escribir mensajes, y desde entonces cada uno empieza igual: «Estoy bien, mamá». Cuando se jubiló, el cartero siguió dando la vuelta por el barrio cada mañana, y los vecinos le daban los buenos días sin preguntarle por qué.
+  task.en: Write three micro-stories in Spanish, each one sentence, with no title; the reader has to work out the missing part. About 60 words in all.
+  rubric.en: meaning: each sentence tells a whole story with a cause or a time left out; register: plain, not flowery; structure: exactly three sentences, one story each; idiom: al cabo de un rato, dejar de and dar los buenos días are used in their normal senses; effect: each sentence ends on the detail that opens the question, not on an explanation.

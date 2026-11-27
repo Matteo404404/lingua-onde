@@ -37,6 +37,8 @@ FIX = {
     "subrayar": "soubra*yar*",
     "psicólogo": "ssi*co*logo",
     "psicóloga": "ssi*co*loga",
+    "ninot": "ni*not*",
+    "ninots": "ni*nots*",
 }
 
 # Words ending in -mente that are not adverbs in -mente (two stresses).

@@ -282,3 +282,19 @@ word the tool figured wrongly, anything you were unsure of.
   force a wrong English equivalent ("best man").
 - A line never contradicts the one before ("¿Hay camas?" "Sí, pero está
   completo").
+
+## Rules added after week 10
+
+- The conditional of probability is about the past (estaría cansada,
+  "she must have been tired"); a guess about now takes the future (estará
+  cansada).
+- Facts with a number are given as safely as they are known ("a más de
+  doscientos kilómetros"), never rounded into something false.
+- Within one lesson the times and promises stay consistent (if the clerk
+  said "en media hora", nobody later says "a las doce").
+- A note never calls a correct variant wrong (en camino and de camino are
+  both said).
+- Spanish relatives: "una pregunta a la que el cuadro no dice nada" is not
+  Spanish; when unsure, use the plain que.
+- Valencian or Catalan spellings with à crash the tool: use the Spanish
+  spelling the RAE gives (mascletá).

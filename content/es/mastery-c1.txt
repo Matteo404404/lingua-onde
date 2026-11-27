@@ -751,3 +751,775 @@ tasks:
 - Familia, qué gusto tener a todos aquí, aunque os confieso que echo de menos el turrón del pueblo. Este año el de casa es de los buenos, así que no os quejéis. Venga, sentaos que se enfría todo, y el que hable, que sea corto.
   task.en: Rewrite Julián's first speech (the line with «Queridos familiares») as Rubén would say it to his cousins: informal, in Spanish, about 50 words, with vosotros and no set formulas. Keep the nougat and the gathering.
   rubric.en: meaning: the gathering, the missing nougat and the call to sit down are all there; register: informal and warm, with vosotros and none of the formal phrases of the original; structure: an opening, the complaint, a closing call; idiom: venga, sentaos and se enfría are used in their everyday sense; effect: shorter and warmer than the original, and it still ends on the joke about length.
+
+== 8 C1
+numeral: Lección octava
+title: Es que...
+title.en: It's just that...
+
+dialogue:
+- Cuando un visitante británico pide algo en un bar de Madrid, a menudo suena más seco de lo que pretendía.
+  en: When a British visitor orders something in a Madrid bar, he often sounds more curt than he intended.
+- En inglés, pedir una cerveza suele ir envuelto en fórmulas de cortesía; en Madrid basta con decir «Ponme una caña».
+  en: In English, ordering a beer is usually wrapped in courtesy formulas; in Madrid, saying «Ponme una caña» is enough.
+- Dicho así, sin más, es perfectamente educado en la barra, y quien lo dice no pretende ser grosero.
+  en: Said like that, with nothing more, it is perfectly polite at the bar, and the person saying it does not mean to be rude.
+- El oído inglés, en cambio, lo oye como una orden, y de ahí viene buena parte del malentendido.
+  en: An English ear, however, hears it as an order, and much of the misunderstanding comes from there.
+- En la mesa pasa lo mismo: «¿Me pasas la sal?» no es una petición torpe, sino la forma corriente entre amigos.
+  en: At the table it is the same: «¿Me pasas la sal?» is not a clumsy request, but the ordinary form between friends.
+- Con desconocidos la cosa cambia: ese mismo tú, dicho a un señor mayor en un restaurante, resultaría demasiado familiar.
+  en: With strangers things change: that same tú, said to an older gentleman in a restaurant, would seem far too familiar.
+- El inglés hace lo contrario: cuanto más lejana es la relación, más fórmulas usa, y al oído español eso le suena frío.
+  en: English does the opposite: the more distant the relationship, the more formulas it uses, and to a Spanish ear that sounds cold.
+- Una frase como «Le ruego que me pase la sal» es correcta en una carta, pero en la mesa suena rebuscada, como si se escribiera para pedir un favor pequeño.
+  en: A phrase like «Le ruego que me pase la sal» is correct in a letter, but at the table it sounds over-elaborate, as if written to ask a small favour.
+- Ninguna de las dos formas es mejor: son dos maneras de mostrar que uno cuenta con el otro.
+  en: Neither form is better: they are two ways of showing that one counts on the other.
+- Para suavizar una petición, el español tiene un repertorio de palabras pequeñas que casi nunca se traducen bien.
+  en: To soften a request, Spanish has a stock of small words that rarely translate well.
+- La primera es «es que». Abre una excusa, y la excusa viene después: «Es que no me apetece salir esta noche, de verdad».
+  en: The first is «es que». It opens an excuse, and the excuse comes afterwards: «It's just that I don't feel like going out tonight, honestly».
+- La segunda es «a ver», que pide tiempo antes de decir algo que todavía no se sabe: «A ver, que lo miro y te digo».
+  en: The second is «a ver», which asks for time before saying something that is not yet known: «Let's see, I'll look and tell you».
+- Después viene «bueno», que puede ser un sí, una resignación o una forma de cerrar la conversación sin cerrarla.
+  en: Then comes «bueno», which can be a yes, a resignation, or a way of closing a conversation without closing it.
+- Ninguna de estas palabras dice gran cosa por sí sola; su fuerza está en el tono y en lo que sigue.
+  en: None of these words says much on its own; their force lies in the tone and in what follows them.
+- Luego están las palabras de cantidad, que bajan el tono de una petición sin cambiar la frase: un poco, un momentito.
+  en: Then there are the words of quantity, which lower the tone of a request without changing the sentence: un poco, un momentito.
+- «¿Podrías bajar un poco la música?» pide lo mismo que «Baja la música», pero deja al otro la puerta abierta para decir que no.
+  en: «¿Podrías bajar un poco la música?» asks for the same thing as «Baja la música», but leaves the other person a way to say no.
+- El condicional hace lo mismo con más elegancia: «¿Te importaría cerrar la ventana?» pregunta por la voluntad del otro y no da una orden.
+  en: The conditional does the same more elegantly: «¿Te importaría cerrar la ventana?» asks about the other person's willingness and gives no order.
+- El presente también sirve para pedir, y suena más natural que el futuro: «¿Me dejas el coche el sábado?».
+  en: The present can also make a request, and it sounds more natural than the future: «¿Me dejas el coche el sábado?»
+- Un momentito es uno de los casos más claros: rara vez dura un momento, y todos entienden que es una espera educada de duración indefinida.
+  en: Un momentito is one of the clearest cases: it rarely lasts a moment, and everyone understands it as a polite wait of uncertain length.
+- Los ingleses, que suelen decir «just a second» y cumplirlo, se sorprenden cuando el momentito de Madrid dura veinte minutos.
+  en: English speakers, who usually say «just a second» and keep to it, are surprised when a Madrid momentito lasts twenty minutes.
+- Con «igual» pasa algo parecido: «Igual viene más tarde» quiere decir que quizá venga más tarde, y no que dé lo mismo cuándo llegue.
+  en: «Igual» works in a similar way: «Igual viene más tarde» means that he may perhaps come later, not that it does not matter when he arrives.
+- Un poco es otra palabra de cortesía, a veces sincera y a veces una manera de decir mucho sin decirlo: «Estoy un poco cansada» puede significar que no quiere salir.
+  en: Un poco is another polite word, sometimes sincere and sometimes a way of saying much without saying it: «Estoy un poco cansada» can mean that she would rather not go out.
+- El oyente entiende lo que no se ha dicho, porque el español confía en que el otro sepa leer entre líneas: eso no es falta de franqueza, sino consideración.
+  en: The listener understands what has not been said, because Spanish relies on the other person's ability to read between the lines: that is not a lack of frankness, but consideration.
+- El inglés suele pedir que se diga todo; cuando algo queda sin decir, puede parecer sospechoso.
+  en: English tends to ask for everything to be said outright; when something is left unsaid, it can seem suspicious.
+- Ninguno de los dos sistemas es más sincero que el otro; cada uno tiene su modo de expresar el mismo cuidado.
+  en: Neither system is more sincere than the other; each has its own way of expressing the same care.
+- Un pequeño glosario, para acabar.
+  en: A small glossary, to finish.
+- A ver: todavía no hay respuesta.
+  en: A ver: there is no answer yet.
+- Bueno: la conversación sigue, aunque no se haya decidido nada.
+  en: Bueno: the conversation goes on, although nothing has been decided.
+- Un momentito: una espera de duración indefinida.
+  en: Un momentito: a wait of indefinite length.
+- Es que...: la excusa viene después.
+  en: Es que...: the excuse comes next.
+
+notes.en:
+1. suena más seco (sentence 1): seco describes a manner here, a curt tone, and not weather or wine. Example: Me contestó con un tono muy seco, "he answered me in a very curt tone".
+2. Ponme una caña (sentence 2): the tú imperative of poner, the ordinary way to order at a Madrid bar. The usted form, póngame una caña, is heard in more formal places. Example: Ponme un café, "get me a coffee".
+3. sin más (sentence 3): with nothing added, and no more words. Example: Me lo dijo sin más, "he told me, and that was all".
+4. El oído inglés (sentence 4): oído here is the ear as a way of hearing, a sense for what is said. Example: Tiene buen oído para los idiomas, "she has a good ear for languages".
+5. ¿Me pasas la sal? (sentence 5): pasar something to someone; the tú form is the everyday one among friends and family. Example: ¿Me pasas el pan?, "can you pass me the bread?".
+6. Con desconocidos (sentence 6): the choice between tú and usted is set out in (lesson 1), and an older stranger is addressed as usted. Example: Perdone, ¿me pasa la sal?, "excuse me, could you pass me the salt?".
+7. cuanto más lejana es la relación, más fórmulas usa (sentence 7): the correlative cuanto más ... más, "the more ... the more". Example: Cuanto más tarde llegues, más difícil será aparcar, "the later you arrive, the harder it will be to park".
+8. Le ruego que me pase la sal (sentence 8): the formula le ruego que comes from the complaint letter of (lesson 2), where it is used in writing. At a table it is too stiff, which is the point of the sentence. Example: Su explicación fue muy rebuscada, "his explanation was very over-elaborate", with the same sense of rebuscado.
+9. es que (sentence 11): the phrase that opens an excuse, and the reason follows it. Example: Es que llegué tarde, "it's just that I was late".
+10. a ver (sentence 12): a hedge that means "let's see", said before the speaker commits to an answer. It is not the verb ver. Example: A ver si me acuerdo, "let's see if I remember".
+11. bueno (sentence 13): the same word can agree, give in or close a talk. The tone decides. Example: Bueno, como quieras, "well, as you like".
+12. un poco and un momentito (sentence 15): poco lowers the request, and the diminutive -ito does the same for time, as in Foundation, lesson 86, where the -ito ending is taught.
+13. ¿Podrías bajar un poco la música? (sentence 16): the conditional of poder with the tú form. Example: ¿Podrías ayudarme?, "could you help me?".
+14. ¿Te importaría cerrar...? (sentence 17): importar means "to matter", so the question asks whether closing the window would matter to the other person. Example: ¿Te importaría esperarme?, "would you mind waiting for me?".
+15. ¿Me dejas el coche el sábado? (sentence 18): the present used for asking permission, one of the everyday softeners. Example: ¿Me dejas tu bolígrafo?, "can I borrow your pen?".
+16. igual (sentence 21): in Spain igual can mean "perhaps", as in the sentence, and it can also mean "the same". Example: Da igual, "it doesn't matter".
+17. Estoy un poco cansada (sentence 22): un poco here is a hedge. The speaker says less than she means, and the listener is expected to understand. Example: Hablo un poco de francés, "I speak a little French".
+18. leer entre líneas (sentence 23): the idiom "to read between the lines" is the same image in English, so the sense carries over. Example: Sabe leer entre líneas, "she reads between the lines".
+
+ex1:
+- Perdona, no quería sonar brusco: es que llevo toda la mañana de un lado para otro.
+  en: Sorry, I did not mean to sound abrupt: it's just that I have been rushing about all morning.
+- Igual podemos quedar mañana, a ver si me sale algo en el trabajo.
+  en: We might perhaps meet tomorrow; let's see whether something comes up at work.
+- Señor Ortega, ¿le importaría repetir la última frase? Es que no me he enterado de nada.
+  en: Mr Ortega, would you mind repeating the last sentence? I'm afraid I didn't catch a word of it.
+- Oye, Sara, ponme un café con leche, que llevo dos horas sin tomar nada.
+  en: Listen, Sara, get me a white coffee, I've had nothing for two hours.
+- Mire, señora, la mesa de la ventana ya está reservada; ¿le importaría esperar un momentito en la barra?
+  en: Look, madam, the window table is already booked; would you mind waiting at the bar for a moment?
+
+ex2:
+- Hoy no voy, [es que] estoy agotado.
+  en: I'm not going today, it's just that I'm exhausted.
+- ¿[Te importaría] cerrar la ventana, Ana?
+  en: Ana, would you mind closing the window?
+- Ese chico siempre tiene la cabeza en las [nubes].
+  en: That boy always has his head in the clouds.
+- [A ver] si llegamos antes de las nueve.
+  en: Let's see whether we get there before nine.
+- Me [da igual] lo que digan.
+  en: I don't care what they say.
+
+tasks:
+- A small glossary, to finish. A ver: there is no answer yet, so the speaker buys time. Bueno: the conversation goes on, although nothing has been decided. Un momentito: a wait of indefinite length, rarely a minute. Es que...: the excuse comes next.
+  task.en: Translate the glossary at the end of the essay into honest English. Keep the sense of each entry, not only its words, so that a learner knows what the word does in a conversation.
+  rubric.en: meaning: all four entries are translated, with the wait of indefinite length and the excuse that comes next kept; register: plain English in a glossary, with no Spanish left in the entries; structure: four entries in the order of the text; idiom: a ver, bueno and es que are explained by what they do, not by a dictionary word; effect: the last entry still reads as the excuse that follows.
+
+== 9 C1
+numeral: Lección novena
+title: La peor noche de mi vida
+title.en: The worst night of my life
+
+dialogue:
+- Fue el año que decidimos irnos de camping a la costa, y lo decidimos en julio, que ya es decir.
+  en: It was the year we decided to go camping on the coast, and we decided in July, which tells you something.
+- Mi padre había dicho que el coche aguantaría el viaje, y no lo aguantó: el aire acondicionado se rindió a los cinco minutos.
+  en: My father had said the car would survive the journey, and it did not: the air conditioning gave up after five minutes.
+- Desde entonces el viaje fue un horno con ruedas, con el termómetro del salpicadero marcando cuarenta y dos grados.
+  en: From then on the journey was an oven on wheels, with the dashboard thermometer reading forty-two degrees.
+- Llegamos al camping después de tres horas que duraron mil años, con mi hermano Nacho preguntando cada cinco minutos si faltaba mucho.
+  en: We reached the campsite after three hours that lasted a thousand years, with my brother Nacho asking every five minutes whether we were nearly there.
+- La tienda estaba bajo un bosque de pinos, y el suelo era tan duro que me dolió la espalda hasta en sueños.
+  en: The tent was under a pine wood, and the ground was so hard that my back ached even in my sleep.
+- Mi madre, que siempre encuentra el lado bueno, dijo que la brisa del mar era un regalo del cielo, y la brisa no llegó en toda la semana.
+  en: My mother, who always finds the bright side, said the sea breeze was a gift from heaven, and the breeze did not arrive all week.
+- Esa noche, los mosquitos nos comieron vivos: Nacho contó más de cien picaduras en una pierna, y yo dejé de contar a las doce.
+  en: That night the mosquitoes ate us alive: Nacho counted more than a hundred bites on one leg, and I stopped counting at midnight.
+- Mi padre, que había jurado que no se quejaría, se quejó mil veces antes de medianoche.
+  en: My father, who had sworn he would not complain, complained a thousand times before midnight.
+- Dijo que se moría de calor dentro de la tienda, y mi madre le contestó que, si se moría, al menos lo haría con vistas al mar.
+  en: He said he was dying of the heat inside the tent, and my mother replied that if he was going to die, at least he would do it with a sea view.
+- A la mañana siguiente, el café del camping tardó tanto que Nacho aseguró que había envejecido diez años esperándolo.
+  en: The next morning the coffee at the campsite took so long that Nacho swore he had aged ten years waiting for it.
+- La playa estaba a cinco minutos andando, según el folleto, y tardamos una eternidad, porque cada persona que se cruzaba con nosotros nos paraba para hablar del calor.
+  en: The beach was five minutes' walk away, according to the brochure, and it took us an eternity, because everyone who crossed our path stopped us to talk about the heat.
+- Cuando por fin llegamos, el mar estaba tan lleno de medusas que no cabía ni una más.
+  en: When we finally arrived, the sea was so full of jellyfish that there was not room for one more.
+- Mi padre se metió hasta las rodillas, gritó «¡Está hirviendo!» y salió corriendo como si le hubiera mordido un tiburón.
+  en: My father waded in up to his knees, shouted «It's boiling!» and ran out as if a shark had bitten him.
+- Esa tarde, la tormenta llegó como si el cielo se hubiera abierto por la mitad, y la tienda se llenó de agua hasta la cintura.
+  en: That afternoon the storm came as if the sky had split in two, and the tent filled with water up to the waist.
+- Llovió tanto que el barro llegó a la mesa de picnic, y el camping entero se quedó sin luz durante tres días.
+  en: It rained so hard that the mud reached the picnic table, and the whole campsite was without electricity for three days.
+- Nacho se pasó la tormenta gritando, para que el cielo lo oyera.
+  en: Nacho spent the storm shouting, so that the sky would hear him.
+- Mi madre, mientras, bailó sobre un charco como si fuera la primera vez que veía la lluvia.
+  en: My mother, meanwhile, danced in a puddle as if it were the first time she had seen rain.
+- Al día siguiente salió un sol que nos dejó tostados en media hora, y nos pasamos el resto de la semana colorados como cangrejos.
+  en: The next day a sun came out that roasted us in half an hour, and we spent the rest of the week as red as crabs.
+- Yo me quemé la espalda tanto que no pude ponerme la mochila en toda una semana.
+  en: I burnt my back so badly that I could not put my rucksack on for a whole week.
+- Mi padre se pasó el día bajo la única sombrilla del camping, y la defendió como si fuera el último trozo de tierra firme.
+  en: My father spent the day under the campsite's only umbrella, and defended it as if it were the last piece of dry land.
+- Por la noche volvieron los mosquitos, y eran más que las estrellas.
+  en: At night the mosquitoes came back, and there were more of them than stars.
+- Nacho se durmió con la sábana por la cabeza, roncando como un tractor que no se para nunca.
+  en: Nacho fell asleep with the sheet over his head, snoring like a tractor that never stops.
+- Yo no pegué ojo en toda la noche, y a las seis me levanté con la sensación de haber dormido sobre una pila de piedras.
+  en: I did not sleep a wink all night, and at six I got up feeling as if I had slept on a heap of stones.
+- Mi madre propuso ir a un hotel, y mi padre, que llevaba días diciendo que los hoteles eran para cobardes, dijo que ni hablar.
+  en: My mother suggested we go to a hotel, and my father, who had spent days saying hotels were for cowards, said absolutely not.
+- Llevábamos tres días sin una ducha como Dios manda, y el agua caliente tardaba tanto en llegar que daba tiempo a leer una novela.
+  en: We had gone three days without a proper shower, and the hot water took so long to arrive that there was time to read a novel.
+- Nacho aseguró que la ducha caliente estaba en otro país, y lo dijo con tanta seriedad que nos lo creímos.
+  en: Nacho swore the hot shower was in another country, and he said it with such seriousness that we believed him.
+- Al final de la semana estábamos tan morenos, tan picados y tan cansados que parecíamos tres náufragos que acababan de llegar a una isla.
+  en: By the end of the week we were so brown, so bitten and so tired that we looked like three castaways who had just reached an island.
+- Recogimos la tienda entre gritos, y un mosquito que había resistido toda la semana nos acompañó en el coche hasta casa.
+  en: We packed the tent up amid shouting, and a mosquito that had survived the whole week came with us in the car all the way home.
+- Durante el viaje de vuelta, con el aire acondicionado otra vez roto, mi padre miró el mar por la ventanilla y no dijo ni una palabra en cien kilómetros.
+  en: On the way back, with the air conditioning broken again, my father looked at the sea through the window and did not say a single word for a hundred kilometres.
+- Cuando llegamos a casa, descargó la última bolsa, se secó la frente con el brazo y dijo: «El año que viene, repetimos».
+  en: When we got home, he unloaded the last bag, wiped his forehead with his arm and said: «Next year, we'll go again».
+
+notes.en:
+1. que ya es decir (sentence 1): a fixed phrase that means "which tells you something", said when a fact is surprising in itself. Example: Acabó la carrera en cuatro años, que ya es decir, "he finished the degree in four years, which tells you something".
+2. un horno con ruedas (sentence 3): the metaphor puts the image first: a car in July is an oven. English tends to understate here, with "it was a bit warm", and Spanish piles the image on. Example: Esta cocina es un horno, "this kitchen is an oven".
+3. mil años (sentence 4): tardar mil años means "to take ages". Spanish takes the round number and makes it bigger, and the same is done with numbers that are exact in form (sentence 10, diez años). Example: Tardó mil años en contestarme, "it took him ages to answer me".
+4. hasta en sueños (sentence 5): even in my sleep, a way of saying that the pain never stopped. The phrase follows the verb directly. Example: Lo recuerdo hasta en sueños, "I remember it even in my dreams".
+5. nos comieron vivos (sentence 7): to be eaten alive, the same image as in English. Example: Los del jurado nos comieron vivos, "the panel ate us alive".
+6. mil veces (sentence 8): mil, a thousand, means "many times" and not an exact count. Example: Te lo he dicho mil veces, "I've told you a thousand times".
+7. se moría de calor (sentence 9): morirse de means to be dying of a feeling or a sensation, and it is said often and without alarm. Example: Me muero de sueño, "I'm dying for sleep".
+8. tardó tanto que (sentence 10): tanto ... que is the intensive construction, here with envejecer diez años, "to age ten years". Example: Llovió tanto que se inundó el sótano, "it rained so much that the cellar flooded".
+9. una eternidad (sentence 11): the set phrase for a very long time, as in English "forever". Example: Tardó una eternidad en llegar, "it took forever to arrive".
+10. no cabía ni una más (sentence 12): ni una más, "not one more", is the emphatic form of "there was no room". Example: En el autobús no cabía ni una persona más, "there was no room for one more person on the bus".
+11. ¡Está hirviendo! (sentence 13): hervir is used of water as boiling, and it can be said of anything much too hot, a sea included. Example: La sopa está hirviendo, "the soup is boiling hot".
+12. como si le hubiera mordido un tiburón (sentence 13): como si with the pluperfect subjunctive, as in (lesson 1, note 9), for a comparison that is not real. Example: Me miró como si no me conociera, "he looked at me as if he did not know me".
+13. Nacho se pasó la tormenta gritando (sentence 16): pasarse + a time + gerund means "to spend the time doing something". Example: Me pasé la tarde leyendo, "I spent the afternoon reading".
+14. colorados como cangrejos (sentence 18): colorado is the red of sunburn and of blushing, and the simile is the usual one in Spain. Example: Se puso colorada de vergüenza, "she went red with embarrassment".
+15. daba tiempo a leer una novela (sentence 25): dar tiempo a plus an infinitive means "there is time to". Example: Da tiempo a ducharse antes de cenar, "there is time to shower before dinner".
+16. ni hablar (sentence 24): a fixed refusal, "not a chance". Example: ¿Me prestas el coche? Ni hablar, "can I borrow the car? No way".
+17. repetimos (sentence 30): the present for a plan in the near future, as in English "we're going again". Example: El lunes volvemos a Madrid, "on Monday we are going back to Madrid".
+
+ex1:
+- Tardé mil años en encontrar el camping, y cuando por fin llegué, ya no me quedaba ni una gota de paciencia.
+  en: It took me ages to find the campsite, and when I finally arrived I had not a drop of patience left.
+- Mi madre dice que la playa está a un paso, aunque yo no me creo ni una palabra.
+  en: My mother says the beach is a stone's throw away, though I don't believe a word of it.
+- Me muero de ganas de volver al mar, aunque sea de noche y con los mosquitos de siempre.
+  en: I'm dying to get back to the sea, even at night and with the usual mosquitoes.
+- Te lo he dicho mil veces, y mil veces me lo has olvidado.
+  en: I have told you a thousand times, and a thousand times you have forgotten it.
+- Dormí como un tronco aunque la tienda era un horno: el cansancio pudo más que el calor.
+  en: I slept like a log although the tent was an oven: tiredness won over the heat.
+
+ex2:
+- Te lo he dicho [mil] veces: no hay nada que hacer.
+  en: I've told you a thousand times: there is nothing to be done.
+- El café de la cafetería tardó [una eternidad] en llegar.
+  en: The coffee in the café took forever to arrive.
+- Nos [comieron vivos] los mosquitos.
+  en: The mosquitoes ate us alive.
+- No tengo ni [idea] de dónde está la playa.
+  en: I have no idea where the beach is.
+- Se pasó la tarde [leyendo] bajo la sombrilla.
+  en: She spent the afternoon reading under the umbrella.
+
+tasks:
+- Fuimos de camping a la costa en julio. El coche no tenía aire acondicionado, y el viaje fue largo y caluroso: tardamos tres horas en llegar, y Nacho preguntó varias veces si faltaba mucho. La tienda estaba bajo unos pinos, y dormimos mal porque el suelo era duro. Por la noche picaron muchos mosquitos, y mi padre se quejó bastante. La playa estaba a unos diez minutos andando, según el folleto, y el mar tenía algunas medusas. El tercer día hubo una tormenta, y la tienda se mojó. Al final, mi padre dijo: «El año que viene, repetimos».
+  task.en: Retell the story in Spanish, in the past, for a friend who was not there, without one exaggeration: say what happened in plain words and plain numbers, about 120 words.
+  rubric.en: meaning: the car without air conditioning, the long journey, the campsite, the mosquitoes, the storm, the sunburn and the father's last line are all there; register: informal, between friends, with tú; structure: past tense throughout, the imperfect for the background and the preterite for the events; idiom: no mil, no eternidad, no me muero, no horno, no como un tractor; effect: plainer than the original, so the reader sees how much the first version exaggerated.
+
+== 10 C1
+numeral: Lección décima
+title: Una crítica
+title.en: A review
+
+dialogue:
+- Cenar en Umbral es una experiencia que nadie olvida, sobre todo porque nadie sabe muy bien qué ha comido.
+  en: Dining at Umbral is an experience nobody forgets, above all because nobody is quite sure what they have eaten.
+- El local es elegante, con una iluminación tan baja que la carta hay que leerla con el móvil, y el camarero la explica con la seriedad de quien da una clase de física cuántica.
+  en: The room is elegant, with lighting so low that the menu has to be read by phone, and the waiter explains it with the seriousness of someone giving a lecture on quantum physics.
+- La sala, por cierto, tiene aire de galería de arte: cuadros que nadie mira y una música que nadie escucha.
+  en: The room, incidentally, has the air of an art gallery: paintings nobody looks at and music nobody listens to.
+- Ni una mancha en el mantel, ni un ruido en la sala: todo es de una limpieza casi clínica.
+  en: Not a stain on the tablecloth, not a sound in the room: everything is almost clinically clean.
+- Pedimos el menú degustación, que consta de catorce pasos, y no hay en él nada que se parezca a la comida tal como la conocemos.
+  en: We order the tasting menu, which runs to fourteen courses, and nothing on it resembles food as we know it.
+- Las «croquetas deconstruidas» llegan en un plato blanco como una hoja de papel: un poco de bechamel en forma de punto, una lámina de jamón y unas migas que el camarero llama «la textura».
+  en: The «deconstructed croquettes» arrive on a white plate like a sheet of paper: a dab of béchamel shaped like a full stop, a sliver of ham, and some crumbs that the waiter calls «the texture».
+- Lo que la croqueta tiene de bueno, el relleno caliente y el rebozado crujiente, se ha quedado en la cocina, donde nadie lo ha visto.
+  en: What is good about a croquette, the hot filling and the crisp coating, has stayed in the kitchen, where nobody has seen it.
+- Mi acompañante pregunta si el jamón es de bellota; el camarero contesta que es una cuestión de filosofía, y no volvemos a hablar del jamón.
+  en: My companion asks whether the ham is acorn-fed; the waiter replies that it is a matter of philosophy, and we do not come back to the ham.
+- Después llega el cocido, o eso dice la carta, en forma de esferas transparentes que estallan en la boca con un caldo de garbanzo.
+  en: Then comes the cocido, or so the menu says, in the form of transparent spheres that burst in the mouth with a chickpea broth.
+- La idea es ingeniosa, aunque el cocido de cualquier abuela necesita más de una cucharilla y, sobre todo, más de cinco minutos.
+  en: The idea is ingenious, though the cocido of any grandmother needs more than one teaspoon and, above all, more than five minutes.
+- Los platos siguen en la misma línea: un rodaballo llega a la mesa en tres temperaturas distintas, cada una en su cuenco, para que el comensal decida cuál le gusta menos.
+  en: The dishes continue along the same lines: a turbot arrives at the table in three different temperatures, each in its own bowl, so that the diner can decide which he likes least.
+- Ninguno de los platos está mal; el problema es que ninguno parece querer ser comido.
+  en: None of the dishes is bad; the trouble is that none of them seems to want to be eaten.
+- Confieso que tardo en entender la carta, impresa en letra muy pequeña sobre un papel que se deshace, y que necesita unas gafas que no traje.
+  en: I confess it takes me a while to read the menu, printed in very small type on paper that crumbles, and that it needs a pair of glasses I did not bring.
+- El vino es correcto, sin más; el sumiller explica su origen con una pasión que no me convence de que el vino sepa a algo.
+  en: The wine is decent, nothing more; the sommelier explains its origin with a passion that does not persuade me the wine tastes of anything.
+- El postre es un helado de aceite de oliva sobre una lámina de hielo seco, y el humo tarda más en desaparecer que el helado.
+  en: The dessert is an olive-oil ice cream on a sheet of dry ice, and the smoke takes longer to disappear than the ice cream does.
+- El servicio es atento y muy rápido, sobre todo para retirar los platos antes de que hayamos entendido lo que había en ellos.
+  en: The service is attentive and very quick, above all in clearing the plates before we have understood what was on them.
+- Pero vayamos a lo esencial, que es el pan.
+  en: But let us come to what matters, which is the bread.
+- Llega en una cesta de mimbre, caliente, con una corteza que cruje al partirla y una miga húmeda que huele a horno de leña.
+  en: It arrives in a wicker basket, warm, with a crust that cracks as it is broken and a moist crumb that smells of a wood-fired oven.
+- No aparece en la carta, nadie lo presenta con nombre ni con explicación, y por eso mismo es lo único de la noche que me hace sentir en casa.
+  en: It is not on the menu, nobody introduces it with a name or an explanation, and for exactly that reason it is the one thing of the evening that makes me feel at home.
+- Repito dos veces, y no pienso en el precio hasta que llega la cuenta.
+  en: I have seconds twice, and I do not think about the price until the bill arrives.
+- Cuando pido más, el camarero me mira como si le hubiera hecho una pregunta de otro siglo, y me trae otra cesta sin una palabra de explicación.
+  en: When I ask for more, the waiter looks at me as if I had asked a question from another century, and brings another basket without a word of explanation.
+- Con el pan, la noche tiene la sencillez que el resto del menú ha olvidado.
+  en: With the bread, the evening has the simplicity that the rest of the menu has forgotten.
+- Si hay que hacer una recomendación, pido a Umbral que añada la cesta de pan a la carta, con su nombre y con su precio, porque es lo que sus clientes recordarán mañana.
+  en: If a recommendation is needed, I ask Umbral to add the bread basket to the menu, with its name and its price, because it is what its customers will remember tomorrow.
+- El resto del menú lo dejo al gusto de quien tenga una cuenta corriente generosa y ningún interés en el cocido.
+  en: The rest of the menu I leave to the taste of anyone with a generous current account and no interest in cocido.
+- Yo volveré, aunque sea solo por el pan, que sabe exactamente a lo que sabe.
+  en: I shall go back, even if only for the bread, which tastes exactly of what it is.
+- Y el pan, que no aparece en la carta, es lo mejor de Umbral.
+  en: And the bread, which is not on the menu, is the best thing at Umbral.
+
+notes.en:
+1. «croquetas deconstruidas» (sentence 6): the quotation marks show that the phrase is the restaurant's own, as on a menu. Deconstruir is a cooking term borrowed for a dish whose parts are served apart. Example: Un plato deconstruido, "a deconstructed dish".
+2. una lámina de jamón y unas migas (sentence 6): a lámina is a thin sheet, and migas, in Spain, are also a dish of fried breadcrumbs. Example: Unas migas con chorizo, "some fried breadcrumbs with chorizo".
+3. «la textura» (sentence 6): the waiter gives the crumbs a technical name, and the critic puts the word in quotation marks to keep her distance from it. The same register appears in the menu's other terms.
+4. de bellota (sentence 8): jamón de bellota is ham from acorn-fed Iberian pigs. The word bellota is the acorn, and the phrase is said without an article. Example: Compré jamón de bellota para la cena, "I bought acorn-fed ham for dinner".
+5. no volvemos a hablar del jamón (sentence 8): volver a plus an infinitive means "to do again", and here the negative means the topic is dropped for good. Example: No volvió a llamarme, "he did not call me again".
+6. o eso dice la carta (sentence 9): the critic does not vouch for the menu's claim. Example: Es de Valencia, o eso dice, "he is from Valencia, or so he says".
+7. La idea es ingeniosa, aunque (sentence 10): the concession gives the praise first and the limit after it, which is the usual shape of a critic's judgement. Example: La idea es buena, aunque el resultado no lo sea, "the idea is good, though the result is not".
+8. para que el comensal decida (sentence 11): para que takes the subjunctive when the purpose is someone else's action. The comensal is the diner, a formal word that suits the menu's tone. Example: Lo dejo aquí para que lo veas, "I'll leave it here so that you can see it".
+9. Confieso que tardo en entender (sentence 13): confesar que introduces a candid admission, and the critic uses it for a small fault of her own. Example: Confieso que no lo he leído, "I confess I have not read it".
+10. correcto, sin más (sentence 14): correcto is faint praise in Spanish. It means decent and no more, and sin más closes the judgement. Example: El hotel es correcto, sin más, "the hotel is decent, nothing more".
+11. tarda más en desaparecer que (sentence 15): tardar más en plus an infinitive plus que compares two times. Example: Tarda más en llegar el autobús que el metro, "the bus takes longer to arrive than the metro".
+12. vayamos a lo esencial (sentence 17): ir a lo esencial means to come to what matters. Example: Vayamos al grano, "let's get to the point".
+13. horno de leña (sentence 18): a wood-fired oven, the phrase bakers and menus use to describe bread. Example: Pan de horno de leña, "bread from a wood-fired oven".
+14. por eso mismo (sentence 19): por eso mismo is stronger than por eso, and it points at one reason as the only one. Example: Por eso mismo no lo dije, "for exactly that reason I did not say it".
+15. Repito dos veces (sentence 20): repetir means to have a second helping, a use common in Spain. Example: ¿Repites?, "are you having seconds?".
+16. dejo al gusto de (sentence 24): dejar algo al gusto de alguien means to leave a choice to someone's taste. Example: Lo dejo a tu gusto, "I leave it to your taste".
+17. aunque sea solo por el pan (sentence 25): aunque with the subjunctive concedes a condition, and the critic's reason for going back is the smallest one. Example: Iré aunque sea un momento, "I'll go even if only for a moment".
+18. Y el pan, que no aparece en la carta (sentence 26): the last line gives the warmest praise to the one item the menu leaves out, and it repeats the bread from sentence 19 in a plain sentence.
+
+ex1:
+- No dudo de que el cocido sea bueno, pero no me pidan que lo coma en una cucharilla.
+  en: I don't doubt the cocido is good, but do not ask me to eat it from a teaspoon.
+- Un plato que se deshace en la boca antes de que uno lo identifique no es un plato, es un truco.
+  en: A dish that dissolves in the mouth before one can identify it is not a dish, it is a trick.
+- Mi tía, que cocina desde hace cuarenta años, no entiende que alguien pague por una lámina de nada.
+  en: My aunt, who has been cooking for forty years, cannot understand why anyone would pay for a sheet of nothing.
+- Lo confieso: el pan me conquistó antes que el menú, y eso, en una crítica, dice bastante.
+  en: I confess: the bread won me over before the menu did, and in a review, that says quite a lot.
+- Nadie nos preguntó si queríamos otro plato; simplemente llegó otro.
+  en: Nobody asked whether we wanted another course; another one simply arrived.
+
+ex2:
+- No hay que hacer [caso] a las modas.
+  en: One should not pay attention to fashions.
+- Lo que dijo el sumiller me [dio que pensar].
+  en: What the sommelier said gave me food for thought.
+- Déjame [en paz], que estoy leyendo.
+  en: Leave me alone, I'm reading.
+- Hay que [tener] paciencia con los camareros nuevos.
+  en: One has to be patient with new waiters.
+- Para el aniversario [tiraron la casa por la ventana].
+  en: For the anniversary they spared no expense.
+
+tasks:
+- Cenamos el sábado en la Taberna del Muelle, un local pequeño y ruidoso, con mesas de madera y una pizarra con lo del día. El pescado frito estaba crujiente y ligero, y el pulpo, tierno y bien sazonado. La ensalada, en cambio, llegó tibia y con demasiado vinagre. El camarero fue amable y nos recomendó el vino de la casa, que cumplió. El postre, una tarta de queso, no me convenció: estaba demasiado dulce. En conjunto, la cena merece la pena, sobre todo por el pescado frito. Yo volvería solo para eso.
+  task.en: Write in Spanish a sincere review of a meal you remember, about 120 words, for a friend who was not there: say what was good, what was not, and what you would order again.
+  rubric.en: meaning: the meal, its best and worst dishes and the verdict are all there; register: plain and honest, as a review, with no irony; structure: an opening, the dishes in order, the verdict; idiom: merecer la pena and sobre todo are used in their set senses; effect: the praise is sincere and specific, so the reader trusts the verdict.
+
+== 11 C1
+numeral: Lección once
+title: La visita al bebé
+title.en: Visiting the baby
+
+dialogue:
+- ¡Enhorabuena, Laura! ¿Cómo estás?
+  en: Congratulations, Laura! How are you?
+- Gracias, Marisa. Estoy hecha polvo, pero muy contenta.
+  en: Thank you, Marisa. I'm worn out, but very happy.
+- ¡Qué rico! Déjame verla, que me muero de ganas desde esta mañana.
+  en: How lovely! Let me see her, I've been dying to since this morning.
+- Pasa, que está dormida. Mírala desde la puerta, que si entras se despierta.
+  en: Come in, she's asleep. Look at her from the doorway, because if you go in she'll wake up.
+- Desde aquí ya se le ve la carita. ¡Es clavadita a su padre!
+  en: From here you can already see her little face. She's the spitting image of her father!
+- Eso dicen todos. Yo creo que tiene la nariz de mi madre.
+  en: Everyone says that. I think she has my mother's nose.
+- Pues mi madre dice que tiene mi boca, y la tuya, que tiene la de tu abuela.
+  en: Well, my mother says she has my mouth, and yours says she has your grandmother's.
+- Pobrecita, le ha tocado un poco de cada uno.
+  en: Poor thing, she's got a bit of each of you.
+- ¡Ay, qué guapa! ¿Y cómo se llama?
+  en: Oh, how pretty she is! And what's her name?
+- Martina, tía. Martina Gil Herrero.
+  en: Martina, Auntie. Martina Gil Herrero.
+- Martina Gil Herrero. Qué nombre tan bonito, y qué bien le queda.
+  en: Martina Gil Herrero. What a lovely name, and how well it suits her.
+- Es el de mi abuela, la que tenía la boca.
+  en: It's my grandmother's name, the one with the mouth.
+- ¿Y cuánto pesa? Está hecha un bombón.
+  en: And how much does she weigh? She's a little gem.
+- Tres kilos y medio al nacer, y ahora ya no sé ni cuánto come.
+  en: Three and a half kilos at birth, and now I don't even know how much she eats.
+- Mira, te traje un jersey de lana que tejió mi madre, para cuando haga frío.
+  en: Look, I brought you a woollen jumper my mother knitted, for when it gets cold.
+- Qué detalle, Dolores. Se lo pondrá el domingo, que ya refresca.
+  en: How thoughtful, Dolores. She'll wear it on Sunday, since it's getting cooler.
+- ¡Qué bueno es! Ni se mueve.
+  en: She's so good! She doesn't even move.
+- Sí, sí, muy buena. Duerme que da gusto, sobre todo de día.
+  en: Yes, yes, very good. She sleeps beautifully, especially in the daytime.
+- ¿Y tú, Laura, duermes algo?
+  en: And you, Laura, are you getting any sleep?
+- Poquito, pero no me quejo. Es lo que toca.
+  en: A little, but I don't complain. It's what one has to expect.
+- Eso dicen todas las madres. Yo no me lo creería hasta vivirlo.
+  en: That's what all mothers say. I wouldn't believe it until I had lived it.
+- Pues ya lo vivirás, Marisa, y entonces me darás la razón.
+  en: Well, you'll live it, Marisa, and then you'll agree with me.
+- A mí me pasó igual con Javier, y mírale ahora: fuerte como un roble.
+  en: The same thing happened to me with Javier, and look at him now: strong as an oak.
+- Gracias, tía. Ya veremos qué tal la noche, que todavía quedan muchas horas.
+  en: Thanks, Auntie. We'll see how the night goes, there are still many hours to go.
+- Ojalá todas fueran así.
+  en: I wish they were all like that.
+- Ojalá, Marisa. De momento, lo que me toca es comer, que la sopa se me está enfriando.
+  en: I wish too, Marisa. For now, what I have to do is eat, before my soup goes cold.
+- Pues come, mujer, que yo te hago compañía.
+  en: Well, eat, dear, and I'll keep you company.
+- Gracias, tía, que tengo más hambre que sueño.
+  en: Thanks, Auntie, I'm hungrier than I am sleepy.
+- Buenas, perdonad el retraso, que he tenido que dejar el coche en el sótano, y ya sabéis que allí no hay quien aparque. Llevo media hora en el salón con Javier, y no la he oído ni una vez. ¿Dónde está?
+  en: Hello, sorry I'm late, I had to leave the car in the basement, and you know nobody can park down there. I've been in the living room with Javier for half an hour, and I haven't heard her once. Where is she?
+- Está en su cuna, en el cuarto de al lado.
+  en: She's in her cot, in the room next door.
+- ¡Qué tranquila! ¡No ha llorado nada!
+  en: What a calm little thing! She hasn't cried at all!
+- Es que de día duerme.
+  en: It's just that she sleeps in the daytime.
+
+notes.en:
+1. ¡Enhorabuena! (sentence 1): the formula for good news, a birth included. It is said to the parents, and it is usually the first thing a visitor says. Example: Enhorabuena por el premio, "congratulations on the prize".
+2. Estoy hecha polvo (sentence 2): hecho polvo means worn out, and the adjective agrees with the speaker, so Laura says hecha. Example: Llegué hecho polvo, "I arrived worn out", said by a man.
+3. ¡Qué rico! (sentence 3): in Spain rico is said of anything that pleases, a baby included, and it is a warm exclamation rather than a comment on food. Example: ¡Qué rico, un día libre!, "how lovely, a free day!".
+4. me muero de ganas (sentence 3): morirse de ganas means to be dying to do something, which is stronger than "to want". Example: Me muero de ganas de verte, "I'm dying to see you".
+5. que si entras se despierta (sentence 4): que introduces the reason, and the si clause uses the present for a condition that could happen. Example: Vete ya, que llegas tarde, "go now, you're late".
+6. clavadita a su padre (sentence 5): clavado a means the spitting image of, and the diminutive -ita makes the compliment warm. Example: Es clavado a su abuelo, "he is the spitting image of his grandfather".
+7. la tuya (sentence 7): la tuya stands for your mother, with the noun left out because it has already been named. Example: Mi casa es más grande que la tuya, "my house is bigger than yours".
+8. Martina Gil Herrero (sentence 10): a Spanish child usually takes the first surname of each parent, and by custom the father's comes first. Here Gil is the father's and Herrero the mother's.
+9. Qué nombre tan bonito (sentence 11): qué plus noun plus tan plus adjective is the standard form of praise. Example: Qué casa tan bonita, "what a lovely house".
+10. el de mi abuela (sentence 12): el de followed by a noun means the one of, and it replaces a noun already named. Example: Este paraguas es el de mi hermano, "this umbrella is my brother's".
+11. Está hecha un bombón (sentence 13): un bombón, a chocolate, is said of a person who looks delightful, and it is used of babies too. Example: Estás hecho un bombón, "you look gorgeous".
+12. ¡Qué bueno es! (sentence 17): the stock praise for a baby's nature. Bueno here means good-natured, not good in quality. Example: Qué bueno es tu perro, "your dog is so good-natured".
+13. Duerme que da gusto (sentence 18): dar gusto means to be a pleasure to watch, and que introduces the result. Example: Cocina que da gusto, "she cooks a pleasure to watch".
+14. Es lo que toca (sentence 20): tocar in this set phrase means that something is due or to be expected. Example: Hay que madrugar, es lo que toca, "one has to get up early, that is the way it is".
+15. igual con Javier (sentence 23): igual here means the same, not perhaps, as in (lesson 8, note 16). Example: Tengo el mismo problema, igual que tú, "I have the same problem, just as you do".
+16. Ojalá todas fueran así (sentence 25): ojalá with the imperfect subjunctive wishes for something not true now. Example: Ojalá tuviera más tiempo, "I wish I had more time".
+17. ¡No ha llorado nada! (sentence 31): no plus a verb plus nada is the emphatic negative, "not at all". Example: No ha dicho nada, "he has said nothing".
+18. Es que de día duerme (sentence 32): es que introduces the reason, as in (lesson 8, note 9). The reason is given plainly and needs no further gloss.
+
+ex1:
+- Enhorabuena por el nuevo bebé, aunque no sé cómo vais a aguantar las noches.
+  en: Congratulations on the new baby, though I don't know how you two will cope with the nights.
+- Llevo dos noches sin dormir, pero no me quejo.
+  en: I've had two nights without sleep, but I don't complain.
+- ¡Qué guapa es! Tiene la nariz de su padre, pero la boca es de su abuela.
+  en: She's so pretty! She has her father's nose, but her grandmother's mouth.
+- Dicen que los bebés duermen mucho, pero el mío se despertaba cada dos horas, sin excepción.
+  en: They say babies sleep a lot, but mine woke every two hours, without exception.
+- Doña Teresa, le pido perdón por no haber venido antes; el niño me ha dado más trabajo de lo que pensaba.
+  en: Doña Teresa, I apologise for not coming sooner; the baby has been more work than I expected.
+
+ex2:
+- Mi suegra [no para] de hablar del bebé.
+  en: My mother-in-law never stops talking about the baby.
+- No me [des la lata], Javier, que estoy cansada.
+  en: Stop nagging me, Javier, I'm tired.
+- Ya [te lo dije], Laura: los bebés no duermen de noche.
+  en: I told you so, Laura: babies don't sleep at night.
+- Los vecinos se han [quejado] del ruido.
+  en: The neighbours have complained about the noise.
+- Ayer no pude [pegar ojo].
+  en: Yesterday I could not sleep a wink.
+
+tasks:
+- Marisa, en el portal: «¡Qué guapa es, y qué bien lleva Laura todo esto!». Dolores, en el coche: «Yo ya le dije a Javier que la nariz era de mi madre». Ángel, en la escalera: «¡Qué tranquila es la niña! No ha llorado nada».
+  task.en: Write what each visitor says on the way home, one line each, with the speaker named. Keep the visit's formulas and the tone of each person.
+  rubric.en: meaning: each visitor's line follows from the visit, and Ángel's line keeps his view of the baby; register: spoken and informal, with tú among the visitors; structure: one line per visitor, in the order they leave; idiom: qué bien lleva, no ha llorado nada and the formulas of the visit are used correctly; effect: Ángel's line is said without any hint of the reason, so the reader sees the ending again.
+
+== 12 C1
+numeral: Lección doce
+title: Una modesta proposición
+title.en: A modest proposal
+
+dialogue:
+- Observatorio Nacional de la Sobremesa. Documento de trabajo número cuatro: propuesta de gravamen por horas.
+  en: National Observatory of the Sobremesa. Working paper number four: a proposal for a charge by the hour.
+- Resumen. El presente documento propone gravar la sobremesa por horas, con el fin de ordenar un tiempo que hoy carece de regulación.
+  en: Summary. This paper proposes taxing the sobremesa by the hour, in order to bring to order a period of time that at present has no regulation.
+- La sobremesa es el tiempo que transcurre entre el último plato y el primer café, durante el cual la conversación continúa sin que nadie pueda precisar su duración.
+  en: The sobremesa is the time between the last course and the first coffee, during which conversation goes on and nobody can say exactly how long it lasts.
+- Según los datos disponibles, la sobremesa media de una comida familiar supera las dos horas. Este Observatorio no puede confirmar la cifra, pero la considera verosímil.
+  en: According to the data available, the average sobremesa after a family meal lasts more than two hours. This Observatory cannot confirm the figure, but finds it plausible.
+- Durante ese tiempo, el coste de oportunidad de la siesta aumenta de forma no contabilizada.
+  en: During that time, the opportunity cost of the siesta rises in a way that is not recorded.
+- Justificación. El Observatorio ha constatado que la sobremesa genera rentas de conversación que no tributan.
+  en: Justification. The Observatory has found that the sobremesa generates conversation income that is not taxed.
+- Ningún otro sector productivo dispone de un tiempo tan amplio sin contribuir a las arcas públicas.
+  en: No other productive sector has so much time at its disposal without contributing to the public purse.
+- Se propone, por tanto, un gravamen de 2,50 euros por hora o fracción de sobremesa.
+  en: It is therefore proposed that a charge of 2.50 euros be levied for each hour or fraction of sobremesa.
+- El gravamen se devengará desde que se retire el último plato hasta que alguien se levante, o se sirva el café, lo que ocurra antes.
+  en: The charge will accrue from the removal of the last plate until someone gets up or the coffee is served, whichever comes first.
+- Ámbito de aplicación. Quedan sujetas las sobremesas en el domicilio, en el restaurante y en cualquier bar que sirva un segundo café.
+  en: Scope. Sobremesas in the home, in restaurants, and in any bar that serves a second coffee are subject to the charge.
+- Quedan exentas las comidas de Navidad, las bodas y las comuniones, cuya duración es notoria y no admite control.
+  en: Exempt are Christmas lunches, weddings and first communions, whose length is notorious and admits of no control.
+- Quedan asimismo exentas las conversaciones que traten de la salud, de la suegra o de la hipoteca, por ser materias de interés público.
+  en: Conversations about health, the mother-in-law or the mortgage are likewise exempt, as matters of public interest.
+- La medida no afecta a los silencios, que se consideran rendimiento del trabajo de escucha.
+  en: The measure does not affect silences, which are considered the return on the work of listening.
+- Tipo reducido. El café se gravará a 0,40 euros la taza, dado que acorta la sobremesa al obligar a alguien a levantarse para servirlo.
+  en: Reduced rate. Coffee will be charged at 0.40 euros a cup, since it shortens the sobremesa by obliging someone to get up to serve it.
+- El carajillo, en cambio, quedará sujeto al tipo general, porque alarga la conversación.
+  en: The carajillo, however, will be subject to the standard rate, because it lengthens the conversation.
+- El Observatorio precisa que el gravamen no pretende castigar la conversación, sino ordenarla. Una tertulia de dos horas merece el mismo respeto que una de cuatro, aunque tribute por la diferencia.
+  en: The Observatory clarifies that the charge is not meant to punish conversation, but to put it in order. A two-hour talk deserves the same respect as a four-hour one, although it pays tax on the difference.
+- Impacto. La recaudación permitirá financiar un servicio de quitamanchas para los hogares, cuya demanda parece ilimitada.
+  en: Impact. The revenue will pay for a stain-removal service for homes, whose demand appears unlimited.
+- Un informe ulterior medirá el efecto de la medida sobre la siesta.
+  en: A later report will measure the effect of the measure on the siesta.
+- La inspección correrá a cargo de un funcionario con cronómetro, de los que ya quedan pocos.
+  en: Inspection will be carried out by an official with a stopwatch, of whom there are now few left.
+- Alternativas. Se descartó la prohibición de la sobremesa, por inaplicable en el ámbito doméstico.
+  en: Alternatives. A ban on the sobremesa was ruled out, as impossible to apply in the home.
+- Se descartó también la supresión del postre, que genera el cuarenta por ciento de la sobremesa total.
+  en: The removal of dessert was also ruled out, since it accounts for forty per cent of the total sobremesa.
+- Calendario. La medida entraría en vigor el primer día del mes siguiente a su publicación, sin período de adaptación, para que nadie pueda acogerse a la costumbre.
+  en: Timetable. The measure would take effect on the first day of the month after publication, with no transitional period, so that nobody can shelter behind custom.
+- El Observatorio agradece la colaboración de quienes han leído este documento hasta el final, aunque sea de pie.
+  en: The Observatory thanks those who have read this paper to the end, even if standing.
+- Evaluación. El Observatorio recomienda una revisión anual, en la que se comparará la recaudación con el número de tertulias y de bostezos registrados.
+  en: Review. The Observatory recommends an annual review, comparing the revenue with the number of talks and yawns recorded.
+- Conclusión. La sobremesa no es un tiempo perdido, sino un tiempo que nadie ha tasado todavía.
+  en: Conclusion. The sobremesa is not wasted time, but time that nobody has yet put a price on.
+- Anexo. Gravamen devengado por la redacción de este documento, que se redactó durante una sobremesa de cuatro horas: 10 euros, ya abonados.
+  en: Annex. Charge accrued by the drafting of this paper, which was written during a sobremesa of four hours: 10 euros, already paid.
+
+notes.en:
+1. Documento de trabajo (sentence 1): the paper's title is the Spanish one of Jonathan Swift's A Modest Proposal (1729), whose calm tone this paper borrows. The paper keeps the tone of a policy file and lets the absurdity come from the content. Example: Documento de trabajo, "working paper".
+2. Resumen (sentence 2): the headings of a Spanish policy paper, resumen, justificación, ámbito de aplicación, are its register. Resumen ejecutivo is the phrase for an executive summary. Example: Un resumen ejecutivo de dos páginas, "a two-page executive summary".
+3. coste de oportunidad (sentence 5): a term from economics, the value of what is given up by a choice, here used for a nap. Example: El coste de oportunidad de quedarse en casa, "the opportunity cost of staying at home".
+4. rentas de conversación (sentence 6): renta means income, and the economic word is applied to talk. The effect of the term is its seriousness. Example: Las rentas del alquiler, "rental income".
+5. por hora o fracción (sentence 8): a formula from parking charges and tariffs, where any part of an hour is charged as a whole. Example: Aparcamiento por hora o fracción, "parking by the hour or part of an hour".
+6. se devengará (sentence 9): devengar is the legal verb for a tax falling due, and the future makes the rule sound settled. Example: El impuesto se devenga el día de la compra, "the tax accrues on the day of purchase".
+7. quedan exentas (sentence 11): exento means exempt, and the list of exemptions is the usual layout of a policy paper. Example: Quedan exentos los menores de edad, "minors are exempt".
+8. materias de interés público (sentence 12): the phrase is the official way of saying that a subject concerns the public, and the list after it shows how wide the term is stretched. Example: Es una cuestión de interés público, "it is a matter of public interest".
+9. tipo reducido (sentence 14): tipo is the rate of a tax, reducido its reduced form, and dado que gives the reason in policy style. Example: Un tipo reducido para los alimentos básicos, "a reduced rate for basic foods".
+10. carajillo (sentence 15): coffee with a measure of brandy or a liqueur, a drink of the Spanish café. Example: Pidió un carajillo tras la comida, "he ordered a coffee with brandy after lunch".
+11. no pretende castigar la conversación, sino ordenarla (sentence 16): the construction no ... sino contrasts an aim with the one it is not. Example: No quiero discutir, sino hablar, "I do not want to argue, but to talk".
+12. quitamanchas (sentence 17): the noun for a stain remover, and a word for a service as well as a product. Example: Un quitamanchas para la tapicería, "an upholstery stain remover".
+13. ulterior (sentence 18): formal for later or subsequent. Example: Una revisión ulterior, "a later review".
+14. Se descartó la prohibición (sentence 20): descartar means to rule out, and por inaplicable gives the reason in one adjective. Example: Descartamos la idea por cara, "we ruled out the idea because it was expensive".
+15. acogerse a (sentence 22): acogerse a means to shelter under a rule or a custom, and it takes a. Example: Se acogió a la jubilación anticipada, "he took early retirement".
+16. ya abonados (sentence 26): the participle agrees with the amount, which is masculine and plural, and abonar means to pay a sum that is due. Example: Los gastos, ya abonados, "the costs, already paid".
+
+ex1:
+- Ni el tiempo ni el dinero son el problema: lo que falta es alguien que decida cuándo se acaba la conversación.
+  en: Neither time nor money is the problem: what is missing is someone who decides when the conversation ends.
+- Se propone una medida que, según su autor, no pretende castigar a nadie, sino ordenar lo que nadie ordena.
+  en: A measure is proposed which, according to its author, is not meant to punish anyone, but to organise what nobody organises.
+- Los informes oficiales hablan de «ámbitos de actuación», pero nadie ha definido todavía dónde empieza una sobremesa.
+  en: Official reports speak of "areas of action", but nobody has yet defined where a sobremesa begins.
+- Nos cobraron por hora o fracción, así que el último minuto nos costó lo mismo que la hora entera.
+  en: They charged us by the hour or part of an hour, so the last minute cost us as much as the whole hour.
+- Los menores de edad quedan exentos, aunque no está claro quién paga la sobremesa de sus padres.
+  en: Minors are exempt, although it is not clear who pays for their parents' sobremesa.
+
+ex2:
+- Lo tomamos [a broma], pero el informe iba en serio.
+  en: We took it as a joke, but the report was in earnest.
+- El [coste de oportunidad] de quedarse a hablar es muy alto.
+  en: The opportunity cost of staying to talk is very high.
+- Tenía el cronómetro [en la mano].
+  en: He had the stopwatch in his hand.
+- Pidió un [carajillo] con el postre.
+  en: With dessert he ordered a coffee with brandy.
+- Nos cobraron el doble y, [a cambio], nos dieron una factura.
+  en: They charged us double and, in return, gave us an invoice.
+
+tasks:
+- Propuesta alternativa. Este documento propone lo contrario: subvencionar la sobremesa, con un bono de media hora por comida familiar, canjeable por una segunda tarta. Se justifica porque la conversación es un bien común que nadie paga. El coste se financiaría con un impuesto sobre las prisas, aplicado a cada reloj de pared que se consulte antes de las diez de la noche. Quedan exentas las comidas en las que nadie pregunte la hora. Se propone una revisión a los seis meses, con recuento de las risas registradas.
+  task.en: Write a counter-proposal in Spanish, in the same policy register, that argues the opposite of this paper: about 120 words, with a summary, a justification, a scope and one exemption.
+  rubric.en: meaning: the counter-proposal argues against the charge with reasons and answers the paper's own points about time, cost and the siesta; register: formal policy language, with the paper's headings (resumen, justificación, ámbito de aplicación) and terms (exentas, se propone); structure: the headings in order, one exemption and a review date; idiom: por tanto, quedan exentas and dado que are used in their policy sense; effect: deadpan, in the same calm tone, so the reader sees the paper turned round.
+
+== 13 C1
+numeral: Lección trece
+title: Cartas al director
+title.en: Letters to the editor
+
+dialogue:
+- Señor director:
+  en: Dear Editor:
+- Le escribo para denunciar un abuso que se ha cometido en mi barrio sin que nadie haya dicho ni pío.
+  en: I am writing to denounce an outrage committed in my neighbourhood without anyone having said a word.
+- Desde el pasado lunes, el bar de la esquina cobra por las aceitunas que siempre han acompañado la caña.
+  en: Since last Monday, the bar on the corner has been charging for the olives that have always come with the caña.
+- El aviso lo pusieron en una pizarra pequeña, junto a la caja, con letra muy pequeña, como si les diera vergüenza.
+  en: The notice was put on a small board beside the till, in very small writing, as if they were ashamed of it.
+- Soy cliente fiel del bar Gregorio desde que abrió, y nunca había protestado por nada.
+  en: I have been a loyal customer of the bar Gregorio since it opened, and I had never complained about anything.
+- Hablo de la aceituna, no de un capricho de lujo.
+  en: I am talking about the olive, not a luxury whim.
+- Hasta ahora, la caña llegaba con su pequeño cuenco de aceitunas, y nadie pensaba que aquello tuviera precio.
+  en: Until now the caña came with its little dish of olives, and nobody thought that it could have a price.
+- Era un detalle de los que ya no se estilan.
+  en: It was the sort of kindness that is no longer done.
+- Ahora el cuenco cuesta un euro y medio, y el camarero lo llama «aperitivo de cortesía», que es el nombre más triste que he oído.
+  en: Now the dish costs a euro and a half, and the waiter calls it a "courtesy appetiser", which is the saddest name I have ever heard.
+- ¿Y qué será lo próximo? ¿El pan, el agua del grifo, el saludo?
+  en: And what will be next? The bread, the tap water, the greeting?
+- ¿Se puede cobrar una cortesía? Yo creía que no, pero el camarero me dijo que sí, con una sonrisa que no admitía réplica.
+  en: Can a courtesy be charged for? I thought not, but the waiter told me it could, with a smile that allowed no reply.
+- Llevo cuarenta años en este barrio, y en cuarenta años nunca había visto una aceituna con precio.
+  en: I have lived in this neighbourhood for forty years, and in forty years I had never seen an olive with a price.
+- Nunca me he quejado del precio de un café.
+  en: I have never complained about the price of a coffee.
+- He dejado de pedir la caña, y ahora tomo el café en el bar de enfrente, donde nadie cobra por respirar.
+  en: I have stopped ordering the caña, and now I take my coffee in the bar opposite, where nobody charges for breathing.
+- Ya sé que no es un asunto de Estado, señor director, pero los asuntos de Estado también empiezan con una aceituna.
+  en: I know this is not a matter of state, Editor, but matters of state also begin with an olive.
+- Pido al Ayuntamiento que estudie el caso, y a los vecinos que se planten, aunque sea con una aceituna en la mano.
+  en: I ask the town hall to look into the case, and the neighbours to take a stand, even if it is with an olive in hand.
+- En cuanto a mí, no pienso ceder ni un milímetro.
+  en: As for me, I am not giving an inch.
+- Me consta que otros vecinos han protestado en voz baja, y eso, señor director, es lo peor: una protesta que no llega a ninguna parte.
+  en: I know for a fact that other neighbours have complained in a low voice, and that, Editor, is the worst of it: a complaint that goes nowhere.
+- Mi mujer dice que exagero, y yo le contesto que las aceitunas no exageran nunca.
+  en: My wife says I exaggerate, and I tell her that olives never exaggerate.
+- Le ruego que publique esta carta, para que el barrio sepa lo que se cobra en la esquina.
+  en: I ask you to publish this letter, so that the neighbourhood knows what is being charged for on the corner.
+- Gracias de antemano por su atención.
+  en: Thank you in advance for your attention.
+- Quedo a la espera de su respuesta, y de la de la aceituna, si es que llega.
+  en: I await your reply, and that of the olive, if it ever arrives.
+- Atentamente,
+  en: Yours faithfully,
+- Eusebio Sánchez Martín, vecino de la calle de las Acacias.
+  en: Eusebio Sánchez Martín, resident of Acacias Street.
+- Y que conste que a mí no me gustan las aceitunas.
+  en: And let it be on record that I do not like olives.
+
+notes.en:
+1. Señor director (sentence 1): the opening of a letter to the editor of a paper, with the title written in full. In English the same letter begins "Dear Editor". Compare Estimado señor in (lesson 1, note 3): the form of the greeting follows the addressee.
+2. ni pío (sentence 2): a fixed phrase, "not a word", said of silence. Example: No dijo ni pío en toda la reunión, "he did not say a word in the whole meeting".
+3. cobra por las aceitunas (sentence 3): cobrar por means to charge for something, and the present with siempre and the perfect share a habit that has lasted up to now. Example: Me cobran por el aparcamiento, "they charge me for parking".
+4. como si les diera vergüenza (sentence 4): como si with the imperfect subjunctive for a comparison that is not real, and vergüenza is what the writer thinks the bar feels. Example: Me miró como si le debiera dinero, "he looked at me as if I owed him money".
+5. cliente fiel (sentence 5): a regular customer. The adjective fiel goes after the noun, and the phrase has a warm tone. Example: Es un cliente fiel de la panadería, "he is a loyal customer of the bakery".
+6. Era un detalle de los que ya no se estilan (sentence 8): estilarse means to be done or fashionable, and ya no shows that the custom has ended. Example: Ya no se estila mandar cartas, "nobody writes letters any more".
+7. aperitivo de cortesía (sentence 9): cortesía is a gift or a courtesy, and the bar uses it to name something it now charges for. Example: Una copa de cortesía, "a complimentary drink".
+8. ¿Se puede cobrar una cortesía? (sentence 11): the writer asks a question and gives the answer in the next sentence, a common pattern of the letter. Example: ¿Quién va a pagar? Yo, "who is going to pay? I am".
+9. no admitía réplica (sentence 11): no admitir réplica means to leave no room for an answer, with the smile as the sign of it. Example: Su tono no admitía réplica, "his tone left no room for reply".
+10. Nunca me he quejado (sentence 13): the present perfect for a life that is not over, so the claim reaches to today. Example: Nunca he visto una ballena, "I have never seen a whale".
+11. He dejado de pedir la caña (sentence 14): dejar de plus an infinitive means to stop doing something. Example: He dejado de fumar, "I have stopped smoking".
+12. Ya sé que no es un asunto de Estado (sentence 15): asunto de Estado, a matter of state, is the phrase for something of the greatest weight. Example: No es un asunto de Estado, "it is not a matter of state".
+13. Pido al Ayuntamiento que estudie el caso (sentence 16): pedir que takes the subjunctive, and el Ayuntamiento is the town hall of the municipality. Example: Pido que me expliquen el precio, "I ask for the price to be explained to me".
+14. no pienso ceder ni un milímetro (sentence 17): ni un milímetro, not one millimetre, is the emphatic refusal to give way. Example: No pienso ceder ni un milímetro, "I'm not giving an inch".
+15. Me consta que (sentence 18): me consta is a formal way of saying "I know for a fact". Example: Me consta que el tren sale a las ocho, "I know for a fact that the train leaves at eight".
+16. Le ruego que publique esta carta (sentence 20): the formula le ruego que comes from the complaint letter of (lesson 2), and it asks the editor for the favour in the same register.
+17. Gracias de antemano por su atención (sentence 21): the closing formula of a letter, thanking the reader before the reply. Example: Gracias de antemano por su ayuda, "thank you in advance for your help".
+18. Quedo a la espera (sentence 22): quedar a la espera means to wait for something, here the reply. Example: Quedo a la espera de sus noticias, "I look forward to hearing from you".
+
+ex1:
+- Señor director, le escribo para felicitarle por el suplemento, aunque el de la semana pasada tenía demasiadas erratas.
+  en: Dear Editor, I am writing to congratulate you on the supplement, though last week's had too many misprints.
+- Me consta que el bar ha subido los precios, pero no sé si el aumento es justo, y por eso le pido que lo investigue.
+  en: I know for a fact that the bar has put up its prices, but I do not know whether the rise is fair, and so I ask you to look into it.
+- No me dio tiempo a leer el resto del periódico, porque la carta me llevó toda la mañana.
+  en: I did not have time to read the rest of the paper, because the letter took me the whole morning.
+- ¿Se puede pedir una caña sin aceitunas? Yo creía que sí, hasta que el camarero me las cobró.
+  en: Can one order a caña without olives? I thought so, until the waiter charged me for them.
+- Le ruego que disculpe la extensión de esta carta, que se ha alargado más de lo que pensaba.
+  en: I beg you to excuse the length of this letter, which has grown longer than I intended.
+
+ex2:
+- Dejó de [fumar] hace un año.
+  en: He stopped smoking a year ago.
+- Nos [cobraron] por el agua del grifo.
+  en: They charged us for tap water.
+- Me [consta] que el bar cerró ayer.
+  en: I know for a fact that the bar closed yesterday.
+- ¿[Quién] va a pagar la cuenta?
+  en: Who is going to pay the bill?
+- Llevo [treinta] años sin probar una aceituna.
+  en: I have not tasted an olive for thirty years.
+
+tasks:
+- Señor director: le escribo en respuesta a la carta del señor Sánchez Martín, cliente de la casa desde hace años, a quien agradezco su fidelidad. Entiendo su sorpresa: el cuenco de aceitunas se servía sin cargo, y dejar de regalarlo no ha sido una decisión sencilla. El precio del aceite y de la aceituna ha subido mucho este año, y cobrar un euro y medio por el cuenco es la única manera de seguir sirviéndolo. El cambio se ha anunciado en la pizarra de la barra. Lamento que haya causado incomodidad, y si el señor Sánchez Martín prefiere el café del bar de enfrente, lo comprendo perfectamente. Atentamente, Gregorio Lozano Ortiz, propietario del bar Gregorio.
+  task.en: Answer the letter as the bar's owner, in Spanish, in a letter to the editor of about 120 words. Reply to each of the reader's points in turn, calmly, and keep the letter's formulas.
+  rubric.en: meaning: the price, the word cortesía, the notice, the other bar and the complaint are each answered; register: formal, with usted to the editor and the señor for the reader; structure: greeting, reply, closing and signature in the order of a letter; idiom: le escribo en respuesta, lamento que haya causado incomodidad and Atentamente are used in their set forms; effect: courteous and calm, with no sarcasm, so the reader is answered and not mocked.
+
+== 14 C1
+kind: revision
+numeral: Lección catorce
+title: Revisión y notas
+title.en: Revision and notes
+
+dialogue:
+- Ana (3.º A): «Son las doce menos cuarto y el piano del cuarto B sigue sonando. ¿Soy la única que lo oye?»
+  en: Ana (3A): "It's a quarter to twelve and the piano in 4B is still going. Am I the only one who can hear it?"
+  refs: 8 9
+- Marcos (2.º B): «No, Ana, lo oímos todos. Mil veces he pensado decírselo, pero, bueno, es su piano y es su casa.»
+  en: Marcos (2B): "No, Ana, we can all hear it. I've thought of telling him a thousand times, but, well, it's his piano and his flat."
+  refs: 8
+- Ana (3.º A): «Pues alguien tendrá que decírselo. Yo ya le hablé el mes pasado, y aquí seguimos.»
+  en: Ana (3A): "Well, somebody will have to tell him. I spoke to him last month, and here we are."
+  refs: 9
+- Pilar (1.º A): «Estimados vecinos: les ruego que no escriban en el grupo a estas horas. Lo tratamos el jueves en la reunión.»
+  en: Pilar (1A): "Dear neighbours: I would ask you not to write in the group at this hour. We shall deal with it on Thursday at the meeting."
+  refs: 13
+- Marcos (2.º B): «Perdona, Pilar, pero a estas horas es cuando suena. ¿Tú no lo oyes desde el primero?»
+  en: Marcos (2B): "Sorry, Pilar, but this is the time it plays. Can't you hear it from the first floor?"
+  refs: 8
+- Pilar (1.º A): «Lo oigo, Marcos, y muy bien. Sobre todo las escalas, que se repiten un poco.»
+  en: Pilar (1A): "I hear it, Marcos, and very well. Above all the scales, which are a little repetitive."
+  refs: 10
+- Luis (4.º B): «Buenas noches, vecinos. Perdonad si he molestado. Es que tengo un examen el lunes y repito cada pasaje hasta que me sale.»
+  en: Luis (4B): "Good evening, neighbours. Sorry if I've been a nuisance. It's just that I have an exam on Monday and I repeat each passage until I get it right."
+  refs: 8
+- Ana (3.º A): «Muy bonito, Luis, sin duda. Ya nos lo sabemos todos de memoria.»
+  en: Ana (3A): "Very nice, Luis, no doubt. We all know it by heart by now."
+  refs: 10 11
+- Luis (4.º B): «¡Qué bien que os guste! Es la pieza de Chopin que más me cuesta.»
+  en: Luis (4B): "How lovely that you like it! It's the Chopin piece I find hardest."
+  refs: 11
+- Marcos (2.º B): «Luis, ¿te importaría dejar lo de Chopin para la tarde? Es que mañana madrugo.»
+  en: Marcos (2B): "Luis, would you mind leaving the Chopin for the afternoon? It's just that I'm up early tomorrow."
+  refs: 8
+- Luis (4.º B): «Vale, Marcos, lo intento. ¿Y a qué hora empieza la noche para cada uno?»
+  en: Luis (4B): "All right, Marcos, I'll try. And what time does night start for each of you?"
+  refs: 12
+- Ana (3.º A): «Para mí, a las diez. Y a esa hora no pienso aguantar ni un acorde más.»
+  en: Ana (3A): "For me, at ten. And at that hour I'm not putting up with one more chord."
+  refs: 9
+- Pilar (1.º A): «Estimados vecinos: la comunidad acuerda que el piano sonará de tres a cinco de la tarde. Atentamente, Pilar.»
+  en: Pilar (1A): "Dear neighbours: the residents agree that the piano will be played from three to five in the afternoon. Yours sincerely, Pilar."
+  refs: 13
+- Luis (4.º B): «¡Enhorabuena a todos! Ya es oficial: de lunes a sábado, de tres a cinco.»
+  en: Luis (4B): "Congratulations, everyone! It's official: Monday to Saturday, three to five."
+  refs: 11
+- Marcos (2.º B): «Pues asunto arreglado. Buenas noches a todos.»
+  en: Marcos (2B): "Well, that's settled. Good night, everyone."
+  refs: 8
+- Ana (3.º A): «Buenas noches. Y, Luis, una cosa.»
+  en: Ana (3A): "Good night. And, Luis, one thing."
+  refs: 8
+- Luis (4.º B): «Dime, Ana.»
+  en: Luis (4B): "Go on, Ana."
+  refs: 12
+- Ana (3.º A): «¿Mañana a las tres tocarás la de Chopin? Es que yo también la canto en la ducha.»
+  en: Ana (3A): "Will you play the Chopin tomorrow at three? It's just that I sing it in the shower too."
+  refs: 11
+
+notes.en:
+This week's texts are the six lessons before this one, and this lesson puts their directness in order. Nothing new is taught here: each section names the lesson and quotes its lines as they stand in that lesson, so the learner can check them.
+1. Softeners and hedges (lesson 8): the forms that make a request or an admission gentler, with the line where each one is used.
+| Form | What it does | Line from lesson 8 |
+|---|---|---|
+| es que | opens an excuse, which comes next | «Es que no me apetece salir esta noche, de verdad». |
+| a ver | asks for time before an answer | «A ver, que lo miro y te digo». |
+| conditional | asks about willingness, not an order | «¿Te importaría cerrar la ventana?» |
+| present | asks for something as if already settled | «¿Me dejas el coche el sábado?» |
+| diminutive | lowers the time asked | Un momentito es uno de los casos más claros: rara vez dura un momento, y todos entienden que es una espera educada de duración indefinida. |
+2. Hyperbole (lesson 9): the big number and the big feeling, said as everyday speech, with the line from the holiday.
+| Form | What it does | Line from lesson 9 |
+|---|---|---|
+| mil veces | a round number for many times | Mi padre, que había jurado que no se quejaría, se quejó mil veces antes de medianoche. |
+| ¡Está hirviendo! | heat stated as more than it is | Mi padre se metió hasta las rodillas, gritó «¡Está hirviendo!» y salió corriendo como si le hubiera mordido un tiburón. |
+3. Irony in praise (lesson 10): the compliment that carries its limit with it, with the line where the praise is given.
+| Praise | What it means | Line from lesson 10 |
+|---|---|---|
+| an idea praised, its result not | the praise is real and the limit is named | La idea es ingeniosa, aunque el cocido de cualquier abuela necesita más de una cucharilla y, sobre todo, más de cinco minutos. |
+| nothing wrong, and no pleasure | the damning praise of a dish that is correct | Ninguno de los platos está mal; el problema es que ninguno parece querer ser comido. |
+| warmest praise, sincere | the praise that is meant | Yo volveré, aunque sea solo por el pan, que sabe exactamente a lo que sabe. |
+4. Formulas of the visit (lesson 11): the ritual words said at a birth, with the answer that keeps the parents polite.
+| Formula | Use | Line from lesson 11 |
+|---|---|---|
+| ¡Enhorabuena! | the congratulation at a birth | ¡Enhorabuena, Laura! ¿Cómo estás? |
+| ¡Qué bueno es! | praise for a baby's temper | ¡Qué bueno es! Ni se mueve. |
+| es que | the reason, given plainly | Es que de día duerme. |
+5. Formal writing (lessons 12 and 13): the policy and letter forms that give a message its distance.
+| Form | What it does | Line |
+|---|---|---|
+| quedan exentas | a list of exemptions in a policy paper | Quedan exentas las comidas de Navidad, las bodas y las comuniones, cuya duración es notoria y no admite control. |
+| le ruego que | a request in a letter | Le ruego que publique esta carta, para que el barrio sepa lo que se cobra en la esquina. |
+| quedo a la espera | the close of a letter, asking for a reply | Quedo a la espera de su respuesta, y de la de la aceituna, si es que llega. |
+
+tasks:
+- Primero: «Luis, deja el piano para la tarde». Después: «Luis, ¿te importaría dejar el piano para la tarde? Es que mañana madrugo». Y por último: «Luis, perdona la molestia, pero ¿te importaría, si puedes, pasar el piano a la tarde? Por la noche, un poco de silencio nos vendría muy bien a todos».
+  task.en: Soften the blunt message «Luis, quita el piano de la noche» in three steps, writing each version in Spanish: the first only moves the piano to the afternoon, the second adds a reason, the third adds an apology and a softener, and keeps tú as the chat does.
+  rubric.en: meaning: the request to move the piano to the afternoon is the same in all three steps; register: each step is softer than the one before, with tú to Luis throughout; structure: three steps in order, each a short sentence or two; idiom: ¿te importaría, es que and un poco are used in their set senses; effect: the third step is polite without grovelling, so the reader sees the change of tone.

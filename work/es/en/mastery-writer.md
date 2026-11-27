@@ -395,3 +395,12 @@ settle; anything in the plan you think is wrong (quote it, do not change it).
 - Keep the plan's words when they are real Spanish even if they look odd
   (el saluda, the formal greeting of a fiestas programme, is not a typo).
 - A story told in the past stays in the past, line by line.
+
+## Rules added after week 2 (Spanish)
+
+- A chat or group conversation is still a conversation: each message
+  answers the one before it, nobody repeats a phrase of the week just to
+  use it ("un momentito, y ya está"), and nobody's reply is nonsense
+  ("una flauta no tiene pedales").
+- The phrases the week teaches go where a speaker would really say them;
+  if a phrase does not fit the scene, leave it to the tables.

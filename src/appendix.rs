@@ -126,6 +126,7 @@ const BUILTIN: &[&str] = &[
     include_str!("../content/en/appendix-foundation.it.txt"),
     include_str!("../content/en/appendix-perfectionnement.it.txt"),
     include_str!("../content/en/appendix-mastery.it.txt"),
+    include_str!("../content/es/appendix-foundation.en.txt"),
     include_str!("../content/nl/appendix-foundation.it.txt"),
     include_str!("../content/nl/appendix-perfectionnement.it.txt"),
     include_str!("../content/nl/appendix-mastery.it.txt"),

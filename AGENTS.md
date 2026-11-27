@@ -24,12 +24,13 @@ a new course, or fixes to an existing one.
    `work/vi/es/foundation.md`, `work/vi/es/perfectionnement.md`,
    `work/vi/es/mastery.md`, `work/nl/it/foundation.md`,
    `work/nl/it/perfectionnement.md`, `work/nl/it/mastery.md`,
-   `work/es/en/foundation.md`, `work/en/*.md`.
+   `work/es/en/foundation.md`, `work/es/en/perfectionnement.md`,
+   `work/es/en/mastery.md`, `work/en/*.md`.
 2. **Brief** the writer: file format, length, note style, the language's
    pitfalls, and the checks to run (`work/BRIEF.md` for every course, then
    one writer file per course: `work/vi/es/writer.md`, `perf-writer.md`,
    `mastery-writer.md`, `work/nl/it/writer.md`, `work/es/en/writer.md`,
-   `work/en/perf-writer.md`, `mastery-writer.md`).
+   `perf-writer.md`, `mastery-writer.md`, `work/en/perf-writer.md`, `mastery-writer.md`).
 3. **Write** one week:
    `STAGE=vi-perfectionnement work/tools/cursor_week.sh 8 14 auto`
    (stages: `vi-foundation`, `vi-perfectionnement`, `vi-mastery`, the

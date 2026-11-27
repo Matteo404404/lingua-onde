@@ -31,7 +31,7 @@ are fine.
 | Pair | Lesson files | Plan | Key | Approved examples |
 |---|---|---|---|---|
 | English for Italian speakers | `work/en/foundation/NNN.txt` | `work/en/syllabus.md` | `content/en/pronunciation.md` | lessons 1–7 in `work/en/foundation/` (checked) |
-| Spanish for English speakers | `work/es/en/foundation/NNN.txt` | `work/es/en/foundation.md` (writer: `work/es/en/writer.md`) | `content/es/pronunciation.md`, English readers | lessons 1–2 in `work/es/en/foundation/` |
+| Spanish for English speakers | `work/es/en/foundation/NNN.txt` | `work/es/en/foundation.md` (writer: `work/es/en/writer.md`) | `content/es/pronunciation.md`, English readers | Foundation being written week by week; Perfectionnement (`perfectionnement.md`, `perf-writer.md`) and Mastery (`mastery.md`, `mastery-writer.md`) planned, with no figured lines |
 
 Lessons are written in order, one week (seven lessons) at a time, never in
 parallel: each lesson builds on exactly what came before it.

@@ -58,7 +58,13 @@ How the course works:
   them. A Mastery lesson may glance back at them in a note; it never retells
   them. Before writing starts, the reviewer checks this plan against the
   Perfectionnement plan and replaces any figure or place both courses
-  portray.
+  portray. Checked against the finished Perfectionnement plan: no figure is
+  portrayed twice. Machado (Perfectionnement 59) is only named in lesson 64's
+  note, pointing back. Perfectionnement portrays Andalucía (4), Canarias
+  (30), México (37), the Río de la Plata (43), the Caribbean (50) and the US
+  with a glance at Spanglish (55) as places; Mastery 50–55 and 96 are about
+  the way they speak, and point back to those portraits instead of
+  describing the places again.
 
 The book around the lessons, as for Perfectionnement: an introduction
 (`content/es/appendix-mastery.en.txt`, `== intro`: what the course is for,

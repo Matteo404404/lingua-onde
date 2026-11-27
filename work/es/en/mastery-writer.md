@@ -410,3 +410,10 @@ settle; anything in the plan you think is wrong (quote it, do not change it).
 - A revision may bring back the week's characters, but its twist is new:
   never a lesson's punchline again (the car at the door), and never a
   character who appears only in the last line.
+
+## Rules added after week 5 (Spanish)
+
+- A grammar example in a note must be checked as carefully as the text:
+  por que (two words) follows a verb with por (se esfuerza por que...),
+  never insistir, which takes en que.
+- One speaker never repeats the other's last sentence as an answer.

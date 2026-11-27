@@ -1523,3 +1523,774 @@ tasks:
 - Primero: «Luis, deja el piano para la tarde». Después: «Luis, ¿te importaría dejar el piano para la tarde? Es que mañana madrugo». Y por último: «Luis, perdona la molestia, pero ¿te importaría, si puedes, pasar el piano a la tarde? Por la noche, un poco de silencio nos vendría muy bien a todos».
   task.en: Soften the blunt message «Luis, quita el piano de la noche» in three steps, writing each version in Spanish: the first only moves the piano to the afternoon, the second adds a reason, the third adds an apology and a softener, and keeps tú as the chat does.
   rubric.en: meaning: the request to move the piano to the afternoon is the same in all three steps; register: each step is softer than the one before, with tú to Luis throughout; structure: three steps in order, each a short sentence or two; idiom: ¿te importaría, es que and un poco are used in their set senses; effect: the third step is polite without grovelling, so the reader sees the change of tone.
+
+== 15 C1
+numeral: Lección quince
+title: El pregón
+title.en: The opening proclamation
+
+dialogue:
+- Desde el balcón del ayuntamiento, con la plaza llena hasta la fuente, Ramiro Lozano se aclara la garganta, ajusta el micrófono y empieza como suelen empezar los pregones: con la voz más alta de lo que pensaba.
+  en: From the town hall balcony, with the square full as far as the fountain, Ramiro Lozano clears his throat, adjusts the microphone and begins as proclamations usually begin: with a voice louder than he had meant.
+- ¡Vecinos de Cerrollano! ¡Vosotros, los que nacisteis aquí y no os habéis movido nunca; vosotros, los que os fuisteis y volvéis cada agosto con el maletero lleno; vosotros, los que llegasteis hace poco y ya sabéis dónde está la mejor fuente!
+  en: Neighbours of Cerrollano! You who were born here and have never moved; you who left and come back every August with the boot full; you who arrived not long ago and already know where the best fountain is!
+- Hoy el pueblo se pone la camisa de los domingos, el alcalde se pone la corbata y yo me pongo a hablar, que es lo que me han pedido.
+  en: Today the village puts on its Sunday shirt, the mayor puts on his tie, and I start talking, which is what I was asked to do.
+- Sé lo que pensáis: que yo siempre tengo mucho que decir. Y es verdad, pero esta noche no hablo por gusto. Hablo por San Bartolomé, que tiene derecho a su fiesta, y por vosotros, que tenéis derecho a cenar.
+  en: I know what you are thinking: that I always have a great deal to say. And it is true, but tonight I am not talking for pleasure. I am talking for Saint Bartholomew, who is entitled to his fiesta, and for you, who are entitled to your supper.
+- Cerrollano es un pueblo de piedra y de cerezo, de eras que ya nadie trilla y de vecinos que no se marcharían aunque les pagaran el viaje.
+  en: Cerrollano is a village of stone and cherry trees, of threshing floors that nobody uses any more, and of neighbours who would not leave even if someone paid their fare.
+- Aquí se aprendió a madrugar, a esperar la lluvia y a sacar adelante lo que parecía imposible con dos brazos y un burro.
+  en: Here people learnt to get up early, to wait for the rain and to make something of what seemed impossible with two arms and a donkey.
+- Aquí se aprendió, sobre todo, a saludar al que pasa, aunque no sea del pueblo, y a ofrecerle un vaso de agua aunque no lo pida.
+  en: Above all, people learnt here to greet whoever passes through, even if they are not from the village, and to offer them a glass of water even if they do not ask for one.
+- Aquí se aprendió a quedarse. Aquí se aprendió a volver. Y aquí, vecinos, se aprendió a no dejar que nadie se marche sin cenar.
+  en: Here people learnt to stay. Here people learnt to come back. And here, neighbours, people learnt never to let anyone leave without supper.
+- ¡Cerrollano, pueblo mío, que has sido tantas cosas: granero, escuela, taberna y refugio! ¿Y quién te ha querido más que nosotros?
+  en: Cerrollano, my village, you have been so many things: a granary, a school, a tavern and a refuge! And who has loved you more than we have?
+- Hay quien dice que los pregones son largos. Lo sé. Pero os prometo que este va a ser corto.
+  en: Some people say proclamations are long. I know. But I promise you this one is going to be short.
+- Me han pedido que hable de la fiesta, de la historia y del futuro. Empiezo por la fiesta, que es lo que más os interesa, y sigo con la historia, que es lo que más me interesa a mí.
+  en: I have been asked to speak about the fiesta, the history and the future. I shall start with the fiesta, which is what interests you most, and go on to the history, which is what interests me most.
+- Según cuentan los mayores, la fiesta empezó con una procesión, una banda que no sabía tocar y un toro que no quiso salir del corral.
+  en: According to the older people, the fiesta began with a procession, a band that could not play and a bull that would not leave the pen.
+- Desde entonces, cada agosto, la banda toca un poco mejor, el toro sale un poco más tarde y el pueblo ríe un poco más fuerte. Eso es progreso, y nadie lo puede discutir.
+  en: Since then, each August, the band plays a little better, the bull comes out a little later and the village laughs a little louder. That is progress, and nobody can dispute it.
+- Ha cambiado también la plaza, que ahora tiene wifi, aunque nadie lo usa, porque la mejor conexión sigue siendo la de la taberna.
+  en: The square has changed too: it has wifi now, although nobody uses it, because the best connection is still the one in the tavern.
+- Hablemos del futuro, que es lo que piden las autoridades. Hablemos de los jóvenes que se quedan, de los que vuelven y de los que todavía no saben qué van a hacer.
+  en: Let us speak of the future, which is what the authorities ask for. Let us speak of the young people who stay, of those who come back, and of those who still do not know what they are going to do.
+- Hay quien se fue a Madrid con una maleta y la promesa de volver en Navidad, y volvió a los cuarenta años con dos hijos, un perro y la misma promesa.
+  en: Some people left for Madrid with a suitcase and the promise to come back at Christmas, and came back at forty with two children, a dog and the same promise.
+- Y hablemos, sobre todo, de los niños que corren por la plaza sin mirar el reloj, que son los únicos que no esperan a que termine el pregón.
+  en: And let us speak above all of the children running round the square without looking at the clock, who are the only ones not waiting for the proclamation to end.
+- Fijaos en el reloj del ayuntamiento: lleva parado desde la última verbena, y aun así todos sabemos que es hora de cenar.
+  en: Look at the town hall clock: it has been stopped since the last dance in the square, and even so all of us know it is time for supper.
+- Por eso os pido que levantéis la copa, o el vaso, o la botella de la nevera, que aquí nadie se queda sin algo en la mano.
+  en: So I ask you to raise your glass, or your tumbler, or the bottle from the fridge, because nobody here is left without something in their hand.
+- Por Cerrollano, que aguanta. Por los que se quedan, por los que vuelven y por los que llegaron ayer.
+  en: To Cerrollano, which endures. To those who stay, to those who come back, and to those who arrived yesterday.
+- Por la banda, aunque toque mal. Por el toro, aunque no salga. Y por el alcalde, que ha pagado la verbena y ya no sabe dónde esconderse.
+  en: To the band, though it plays badly. To the bull, though it will not come out. And to the mayor, who paid for the dance and no longer knows where to hide.
+- Llevo veinte minutos en este balcón, y ya veo al alcalde mirando la corbata de reojo.
+  en: I have been on this balcony for twenty minutes, and already I can see the mayor glancing sideways at his tie.
+- Así que el final será el de siempre, como manda la tradición: ¡Viva Cerrollano, y que empiecen las fiestas!
+  en: So the ending will be the usual one, as tradition requires: Long live Cerrollano, and let the fiesta begin!
+- La plaza aplaude, la banda toca por fin, y el alcalde ya me hace señas para que baje del balcón.
+  en: The square applauds, the band plays at last, and the mayor is already signalling to me to come down from the balcony.
+- Pero el aplauso me ha dado fuerzas, y ya que estoy aquí arriba, os digo una última cosa.
+  en: But the applause has given me strength, and since I am up here, I'll tell you one last thing.
+- Y ya termino, que seré breve.
+  en: And I'm finishing now, I shall be brief.
+
+notes.en:
+1. Un pregón is the speech with which many Spanish towns open their fiestas. It is given from the town hall balcony by a person chosen for the occasion, and it is spoken, not read: the sentences are short, the rhythm is the point, and the crowd is part of the speech.
+2. Vosotros (sentence 2): the plural of tú used in Spain to address a crowd of friends and neighbours. Each group in the list gets its own clause, and the speaker moves from one to the next. Example: Vosotros, que me conocéis, "you who know me".
+3. Tense in the list (sentence 2): nacisteis and llegasteis are preterites for events that are over, and volvéis is the present for something that happens each August. The list therefore tells three different kinds of time. Example: Nací aquí, "I was born here".
+4. Vecinos de Cerrollano (sentence 2): the apostrophe, a direct address to the people as if the place could hear it. Example: ¡Amigos, escuchadme!, "friends, listen to me!".
+5. de piedra y de cerezo (sentence 5): the preposition de is repeated at the start of each item, so the list builds from stone to people. Example: Una casa de piedra, de madera y de cal, "a house of stone, wood and lime".
+6. Aquí se aprendió (sentences 6 to 8): anaphora, the same words three times. The third repetition changes its second half, from learning to stay and to come back to learning never to let anyone leave without supper. Example: Aquí se trabaja, aquí se descansa, "here people work, here people rest".
+7. ¿Y quién te ha querido más que nosotros? (sentence 9): a rhetorical question, asked for the effect and not for an answer. Example: ¿Y quién no ha querido volver alguna vez?, "and who has not wanted to come back at some point?".
+8. Según cuentan los mayores (sentence 12): the story is told as the older people tell it, so it is marked as something heard and not checked. Example: Según cuentan, el río se secó una vez, "so they say, the river once dried up".
+9. un poco (sentence 13): the phrase comes three times, and its small quantity is the point: the progress is real but modest. See (lesson 8, note 17), where un poco softens a sentence. Example: Estoy un poco cansada, "I am a little tired".
+10. wifi (sentence 14): the standard Spanish word for wireless internet, used without translation in Spain. Example: La contraseña del wifi está en la nevera, "the wifi password is on the fridge".
+11. aun así (sentence 18): even so, written without an accent. It concedes the point of the sentence before, here the clock that does not work. Example: Llueve, aun así salimos, "it is raining, even so we go out".
+12. Llevo veinte minutos (sentence 22): llevar plus a period of time and the present is used for an action that began earlier and is still going on. Example: Llevo dos horas esperando, "I have been waiting for two hours".
+13. que empiecen las fiestas (sentence 23): que plus the present subjunctive expresses a wish or an order to others, as it does in Foundation, lesson 90. Example: ¡Que aproveche!, "enjoy your meal!".
+14. quedarse sin algo (sentence 19): quedarse sin means to be left without a thing. Example: Me quedé sin dinero, "I was left without money".
+15. aunque toque mal (sentence 21): aunque with the subjunctive concedes a case not yet settled, and the list of toasts depends on it. See (lesson 10, note 17), where the same construction is used for the critic's reason. Example: Iré aunque llueva, "I shall go even if it rains".
+16. no sabe dónde esconderse (sentence 21): the idiom for being embarrassed to the point of wanting to hide, with the word order fixed. Example: Cuando me vio, no sabía dónde esconderme, "when he saw me, I did not know where to hide".
+17. Ya termino (sentence 26): ya with the present means "I am finishing now", a phrase said often at the end of a speech. Its meaning depends on who says it and how long they have been speaking. Example: Ya voy, "I'm coming".
+
+ex1:
+- Ya sé que no me necesitáis para empezar la fiesta, pero siempre se agradece que alguien lo diga desde un balcón.
+  en: I know you do not need me to start the fiesta, but it is always welcome when someone says so from a balcony.
+- Vosotros, los que os fuisteis, sois los que más hablan de este pueblo cuando estáis lejos.
+  en: You who left are the ones who talk most about this village when you are far away.
+- Por mucho que me guste mi propia voz, nadie escucha un discurso que no tiene final.
+  en: However much I enjoy the sound of my own voice, nobody listens to a speech that has no ending.
+- Llevábamos tres horas de discursos cuando por fin llegó la banda, y la plaza aplaudió como si nadie hubiera hablado.
+  en: We had been listening to speeches for three hours when the band finally arrived, and the square applauded as though nobody had spoken at all.
+- Mi abuela decía que un pregón se recuerda por el final, y que el principio ya lo olvida todo el mundo.
+  en: My grandmother used to say that a proclamation is remembered for its ending, and that everyone forgets the beginning anyway.
+
+ex2:
+- Mi tío tiene muy buena [memoria]; recuerda cada pregón desde que era niño.
+  en: My uncle has a very good memory; he remembers every proclamation since he was a child.
+- Cuando vio la cola en la barra, el concejal se [quedó] sin palabras.
+  en: When he saw the queue at the bar, the councillor was left speechless.
+- [Llevo] veinte minutos hablando, y nadie me ha dicho que pare.
+  en: I have been talking for twenty minutes, and nobody has told me to stop.
+- El ayuntamiento tiró la casa [por la ventana] para la verbena.
+  en: The town hall spared no expense for the dance.
+- Ese pregonero siempre está [en las nubes].
+  en: That proclaimer is always in a world of his own.
+
+tasks:
+- ¡Socios y vecinos del barrio! Vosotros, los que aprendisteis a nadar aquí con los manguitos puestos; vosotros, los que habéis sido entrenadores sin cobrar un euro; y vosotros, los que venís solo a ver quién llega el último a la piscina, sois la razón de que este club cumpla veinticinco años. Aquí se aprendió a no tener miedo al agua. Aquí se aprendió a perder carreras y a ganar amigos. Aquí se aprendió, sobre todo, a aplaudir al que llega el último. Así que, por los veinticinco años del club: ¡felicidades, y que la piscina no se vacíe nunca!
+  task.en: Write in Spanish the opening proclamation for the twenty-fifth anniversary of a neighbourhood swimming club, about 150 words, spoken by a member from the club's balcony. Use one triad, one anaphora and one closing cry.
+  rubric.en: meaning: the anniversary, the members and the club's history are all there; register: spoken and warm, with vosotros to the members; structure: greeting, triad, anaphora, closing cry in that order; idiom: sin cobrar un euro and aprender a nadar are used in their everyday senses; effect: the closing cry comes after the anaphora, so the crowd joins in at the right moment.
+
+== 16 C1
+numeral: Lección dieciséis
+title: Cocina sin cocinar
+title.en: Cooking without cooking
+
+dialogue:
+- ¿Cansado de cocinar? Olvídate de los fogones para siempre con Sabrosín 3, el robot de cocina más silencioso del mercado.
+  en: Tired of cooking? Forget the hobs for good with the Sabrosín 3, the quietest kitchen robot on the market.
+- Sabrosín no te pide que sepas cocinar. Te pide que sepas pulsar un botón, y eso lo sabe hacer, por fin, cualquiera.
+  en: The Sabrosín does not ask you to know how to cook. It asks you to know how to press a button, and at last, anyone can do that.
+- Sabrosín es para quien no cocina y no va a empezar nunca.
+  en: The Sabrosín is for anyone who does not cook and never will.
+- Sin fuego, sin humo y sin una gota de aceite salpicada en la pared.
+  en: No flame, no smoke, and not one drop of oil spattered on the wall.
+- Y no hace falta tener tiempo, ni ganas, ni la menor idea de qué es un pimiento asado.
+  en: And you do not need time, or the will, or the faintest idea what a roasted pepper is.
+- Mira qué sencillo: echa los ingredientes, cierra la tapa y elige el programa Sorpresa.
+  en: Look how simple it is: put in the ingredients, close the lid and choose the Surprise programme.
+- Sabrosín decide la temperatura, el tiempo y la sal. Tú solo decides si tienes hambre.
+  en: The Sabrosín decides the temperature, the time and the salt. All you decide is whether you are hungry.
+- Hasta el arroz sale perfecto, aunque no sepas qué es el arroz.
+  en: Even the rice comes out perfect, though you do not know what rice is.
+- Con ocho programas, nunca tendrás que repetir un plato: el robot tiene más recetas que cualquier abuela.
+  en: With eight programmes you will never have to make the same dish twice: the robot knows more recipes than any grandmother.
+- Olvida también la paciencia: el aviso del programa te dirá cuándo está listo, y no tendrás que mirar la olla ni una vez.
+  en: Forget patience too: the programme's signal will tell you when it is ready, and you will not have to look at the pot even once.
+- Tus invitados pensarán que sabes cocinar, y no hará falta que lo sepas.
+  en: Your guests will think you can cook, and you will not need to know how.
+- Y cuando termine, no tendrás nada que lavar: Sabrosín se limpia solo, con su propio programa de limpieza.
+  en: And when it has finished, you will have nothing to wash up: the Sabrosín cleans itself, with its own cleaning programme.
+- Con Sabrosín 3 no hay excusas: la cocina ya no es un problema, es un botón.
+  en: With the Sabrosín 3 there are no excuses: the kitchen is no longer a problem, it is a button.
+- Hasta tú te lo creerás, y eso es lo mejor de Sabrosín 3.
+  en: Even you will believe it, and that is the best thing about the Sabrosín 3.
+- Mismo texto, con las notas de Ignacio Mora, que compró el aparato en oferta.
+  en: The same text, with the notes of Ignacio Mora, who bought the machine on offer.
+- «Olvídate de los fogones para siempre»: el imperativo con tú finge una cercanía que no existe, y en publicidad rinde mucho.
+  en: «Forget the hobs for good»: the imperative with tú pretends to a closeness that does not exist, and in advertising that pays well.
+- «el robot de cocina más silencioso del mercado»: un superlativo sin segunda cifra ni segunda marca, así que nadie puede comprobarlo.
+  en: «the quietest kitchen robot on the market»: a superlative with no second figure and no second brand, so nobody can check it.
+- «Por fin» hace creer al lector que llevaba años esperando un robot que friega, y el anuncio se lo cree por él.
+  en: «At last» makes the reader believe he has been waiting years for a robot that washes up, and the advert believes it for him.
+- «Sin fuego, sin humo y sin una gota de aceite»: tres sin seguidos, que dicen lo que no hay y callan lo que sí hay, que es el sabor.
+  en: «No flame, no smoke, and not one drop of oil»: three nos in a row, which say what is missing and keep quiet about what is there, which is the flavour.
+- «Mira qué sencillo»: el imperativo de mirar pide que el lector confíe antes de comprobar nada.
+  en: «Look how simple it is»: the imperative of look asks the reader to trust before checking anything.
+- «Hasta el arroz sale perfecto» usa hasta en su sentido más fuerte: el arroz es lo más difícil de hacer bien, y por eso es el ejemplo.
+  en: «Even the rice comes out perfect» uses hasta in its strongest sense: rice is the hardest thing to get right, which is why it is the example.
+- «Con ocho programas»: una cifra redonda, sin ninguna lista detrás.
+  en: «With eight programmes»: a round figure, with no list behind it.
+- «Hasta tú te lo creerás»: el anuncio habla al lector como si ya dudara, y lo tranquiliza antes de que pregunte nada.
+  en: «Even you will believe it»: the advert speaks to the reader as if he already doubted, and reassures him before he has asked anything.
+- «se limpia solo» es la frase que más me gustó del anuncio, y la creí hasta esta mañana.
+  en: «cleans itself» is the line I liked most in the advert, and I believed it until this morning.
+- En la página ocho, con letra muy pequeña, el manual dice que la olla se lava a mano.
+  en: On page eight, in very small print, the manual says the pot is washed by hand.
+- Lo he comprobado esta mañana: el que friega a Sabrosín soy yo.
+  en: I checked this morning: the one who washes up the Sabrosín is me.
+
+notes.en:
+1. The advert is one long act of persuasion in the register of Spanish advertising: the reader is addressed with tú, the verbs are imperatives, and the claims come in superlatives and round numbers. The sceptic's notes quote the advert word for word and say what each form does.
+2. ¿Cansado de cocinar? (sentence 1): cansado de plus an infinitive means tired of doing something. The adjective is masculine because adverts address a general reader in that form. Example: Cansado de esperar, se fue, "tired of waiting, he left".
+3. Olvídate de los fogones (sentence 1): the imperative of olvidarse, with the pronoun attached to the end. Fogones are the rings of a cooker; in England they are called hobs. Example: Olvídate del tema, "forget the subject".
+4. el robot de cocina más silencioso del mercado (sentence 1): the superlative is el más plus an adjective, followed by de and the place where the comparison holds. Example: Es el hotel más céntrico de la ciudad, "it is the most central hotel in the town".
+5. Te pide que sepas pulsar un botón (sentence 2): pedir que takes the subjunctive, and the advert makes the product the one asking. Example: Te pido que me escuches, "I ask you to listen to me".
+6. por fin (sentence 2): por fin means at last, and it is placed so that the reader feels a long wait is over. Example: Por fin llegó el verano, "summer has come at last".
+7. para quien no cocina (sentence 3): para quien means for whoever, with the indefinite quien and no antecedent. Example: Es para quien lo necesite, "it is for whoever needs it".
+8. Sin fuego, sin humo (sentence 4): sin plus a noun names what is absent. The advert sells the machine by taking things away. Example: Café sin azúcar, "coffee without sugar".
+9. Mira qué sencillo (sentence 6): mira used to draw attention, and qué plus an adjective makes an exclamation. Example: Mira qué bonito, "look how lovely".
+10. Hasta el arroz sale perfecto (sentence 8): hasta means even, and marks the extreme case in a list. Example: Hasta mi madre lo sabe, "even my mother knows it".
+11. se limpia solo (sentence 12): the reflexive se with a verb that has no object means the thing does the action on itself. Example: La puerta se cierra sola, "the door shuts by itself".
+12. Te lo creerás (sentence 14): the pronouns te and lo come before the verb. Example: Te lo creerás cuando lo veas, "you will believe it when you see it".
+13. creí hasta esta mañana (sentence 24): creer hasta with a time means believe until. The preterite creí is a belief that has now ended. Example: Lo creí hasta ayer, "I believed it until yesterday".
+14. el que friega a Sabrosín soy yo (sentence 26): el que plus a verb puts the person doing the action in focus, and the pronoun yo closes the sentence. Example: El que llega tarde paga la cena, "whoever arrives late pays for dinner".
+
+ex1:
+- Dicen que la cocina no es un problema, pero yo tardé tres horas en encontrar la sal.
+  en: They say the kitchen is no problem, but it took me three hours to find the salt.
+- Mi padre dice que él no cocina porque nadie se lo ha pedido nunca.
+  en: My father says he does not cook because nobody has ever asked him to.
+- El anuncio promete que el robot lo hace todo, aunque el manual pide que alguien esté presente.
+  en: The advert promises that the robot does everything, though the manual asks for someone to be present.
+- Es el aparato más barato de la tienda, aunque no sé si eso es un argumento a su favor.
+  en: It is the cheapest machine in the shop, though I am not sure that is an argument in its favour.
+- Ni siquiera sé qué es un pimiento asado, pero te aseguro que el de mi suegra es el mejor.
+  en: I do not even know what a roasted pepper is, but I can assure you my mother-in-law's is the best.
+
+ex2:
+- Esa oferta es tan buena que parece que no [tiene truco].
+  en: That offer is so good it seems there must be a catch.
+- Ese anuncio promete todo sin [esfuerzo].
+  en: That advert promises everything without any effort.
+- El robot prometía cocinar sin [una gota] de aceite.
+  en: The robot promised to cook without a single drop of oil.
+- Por fin entendí por qué nadie [se lo creía].
+  en: At last I understood why nobody believed it.
+- Lo compré en oferta, pero ahora me [arrepiento].
+  en: I bought it on offer, but now I regret it.
+
+tasks:
+- El anuncio de Sabrosín 3 vende la comodidad, pero el producto es honrado si dice lo que hace y lo que no hace. Un anuncio honesto de la misma olla diría que cocina bien el arroz con un poco de atención, que el aparato se lava a mano y que no sustituye a quien sabe cocinar. Así, quien lo compre sabrá qué esperar.
+  task.en: Write an honest advert in Spanish, about 100 words, for the same machine: say what it does, what it does not do and what the buyer must still do, in the same tú register as the first advert.
+  rubric.en: meaning: what the machine does, what it does not do and what the buyer still does are all stated; register: the tú and imperative of an advert, kept without exaggeration; structure: opening claim, then honest limits, then a closing line; idiom: sin and hasta are used in their ordinary senses, and the superlatives are dropped; effect: the honest version sells less and reads more truthfully than the first.
+
+== 17 C1
+numeral: Lección diecisiete
+title: Moción: fuera los coches del centro
+title.en: Motion: cars out of the centre
+
+dialogue:
+- Irene: Buenas tardes. Se abre la sesión del club de debate del instituto. La moción de hoy es esta: que el centro de la ciudad quede libre de coches.
+  en: Irene: Good afternoon. The debating club's session is open. Today's motion is this: that the city centre be free of cars.
+- Irene: Antes de empezar, pido que alguien mueva el coche que está en doble fila delante de la puerta, con las luces encendidas.
+  en: Irene: Before we start, I ask someone to move the car that is double-parked in front of the door, with its lights on.
+- Irene: Hablará primero una persona a favor, después una en contra, y cada intervención durará cinco minutos. Lucía, tienes la palabra.
+  en: Irene: First a speaker for the motion, then one against, and each speech will last five minutes. Lucía, you have the floor.
+- Lucía (a favor): Buenas tardes a todos. Es cierto que el coche nos da comodidad, pero también nos quita el aire, el silencio y la calle.
+  en: Lucía (for): Good afternoon, everyone. It is true that the car gives us comfort, but it also takes away our air, our quiet and our street.
+- Lucía: Si bien hay vecinos que necesitan el coche para ir al médico, muchos conductores cruzan el centro solo para buscar dónde aparcar.
+  en: Lucía: Although some neighbours need the car to get to the doctor, many drivers cross the centre only to look for somewhere to park.
+- Lucía: Aun reconociendo que el comercio teme perder clientes, las calles peatonales de nuestro barrio se llenaron de gente, no se vaciaron.
+  en: Lucía: Even granting that shops fear losing customers, the pedestrian streets of our neighbourhood filled with people; they did not empty.
+- Lucía: Por mucho que nos guste el coche, ninguno de nosotros puede decir que la calle sea segura para un niño de siete años.
+  en: Lucía: However much we like the car, none of us can say that the street is safe for a seven-year-old.
+- Lucía: Por eso propongo tres cosas: un centro para peatones, un autobús que llegue a los barrios y aparcamientos en las afueras.
+  en: Lucía: So I propose three things: a centre for pedestrians, a bus that reaches the neighbourhoods, and car parks on the outskirts.
+- Lucía: La ciudad no es un garaje, y el centro tampoco. Gracias.
+  en: Lucía: The city is not a garage, and neither is the centre. Thank you.
+- Irene: Gracias, Lucía. Ahora, en contra: Daniel.
+  en: Irene: Thank you, Lucía. Now, against: Daniel.
+- Daniel (en contra): Buenas tardes. Lucía ha hablado bien, pero yo voy a hablar de lo que pasa a las ocho de la mañana, cuando mi madre deja a mi hermana en el colegio.
+  en: Daniel (against): Good afternoon. Lucía has spoken well, but I am going to talk about what happens at eight in the morning, when my mother drops my sister off at school.
+- Daniel: Es cierto que el centro necesita aire, pero no se puede pedir a la gente que deje el coche donde no hay ninguna alternativa.
+  en: Daniel: It is true the centre needs air, but people cannot be asked to leave the car where there is no alternative at all.
+- Daniel: Aun reconociendo que el autobús sirve a muchos, en mi barrio el último pasa antes de las ocho de la tarde.
+  en: Daniel: Even granting that the bus serves many people, in my neighbourhood the last one goes before eight in the evening.
+- Daniel: ¿Y qué hacen los que trabajan de madrugada o los que cargan con la compra? ¿Vienen andando con dos bolsas y un niño de la mano?
+  en: Daniel: And what do those who work at dawn, or those who carry the shopping, do? Do they walk with two bags and a child by the hand?
+- Daniel: Lucía dice que la calle es para los niños. Estoy de acuerdo, pero la calle también es para la furgoneta del pan y para la ambulancia, y no todas las ideas bonitas caben en un bordillo.
+  en: Daniel: Lucía says the street is for children. I agree, but the street is also for the bread van and the ambulance, and not every pretty idea fits on a kerb.
+- Daniel: Propongo que se estudie cada calle antes de cerrarla, y que decidan los que viven en el centro, con sus vecinos.
+  en: Daniel: I propose that each street be studied before it is closed, and that the people who live in the centre decide, with their neighbours.
+- Daniel: Y una última cosa: el que quiera un centro sin coches debería decir cuánto cuesta el taxi a su abuela.
+  en: Daniel: And one last thing: whoever wants a centre without cars should say how much a taxi costs for his grandmother.
+- Irene: Gracias, Daniel. Segunda intervención a favor: Marta.
+  en: Irene: Thank you, Daniel. Second speech for the motion: Marta.
+- Marta (a favor): Daniel ha hablado de la ambulancia, y tiene razón en que nadie quiere una calle cerrada en una emergencia. Pero una emergencia no necesita aparcar delante del ayuntamiento: necesita una calle libre, y eso se puede pactar.
+  en: Marta (for): Daniel has spoken about the ambulance, and he is right that nobody wants a street closed in an emergency. But an emergency does not need a parking space in front of the town hall: it needs a clear street, and that can be agreed.
+- Marta: Lo de la furgoneta del pan también tiene solución: puede entrar a una hora fija, como ocurre en muchas ciudades con las entregas.
+  en: Marta: As for the bread van, that also has a solution: it can come in at a fixed hour, as deliveries do in many cities.
+- Marta: Por eso la moción no es un muro, sino una puerta: se cierra el centro a los coches y se deja entrar a quien tenga que entrar.
+  en: Marta: That is why the motion is not a wall but a door: the centre is closed to cars, and whoever needs to come in is let in.
+- Marta: Y cuando Daniel dice que el autobús pasa a las ocho, le contesto que nadie lo ha pedido nunca en serio.
+  en: Marta: And when Daniel says the bus goes at eight, I answer that it goes at eight because nobody has ever asked for it seriously.
+- Irene: Gracias, Marta. Cierra el turno en contra Óscar.
+  en: Irene: Thank you, Marta. Óscar closes the speeches against.
+- Óscar (en contra): Buenas tardes. Voy a hablar de lo que nadie ha mencionado: de las familias que no pueden elegir.
+  en: Óscar (against): Good afternoon. I am going to talk about what nobody has mentioned: the families who cannot choose.
+- Óscar: Es cierto que el centro sería más tranquilo, pero aun reconociendo que el silencio es un bien, no es el único que cuenta.
+  en: Óscar: It is true the centre would be quieter, but even granting that quiet is a good thing, it is not the only thing that counts.
+- Óscar: Por mucho que queráis una ciudad sin coches, hay madres que llevan a sus hijos al colegio en coche porque no tienen otra manera.
+  en: Óscar: However much you want a city without cars, there are mothers who leave their children at school at half past eight, and they do it by car because they have no other way.
+- Óscar: Si bien Lucía propone aparcamientos en las afueras, nadie me ha dicho quién lleva a los niños desde allí, con dos bolsas de la compra y un paraguas.
+  en: Óscar: Although Lucía proposes car parks on the outskirts, nobody has told me who takes the children from there, with two shopping bags and an umbrella.
+- Óscar: Así que propongo algo más sencillo: que cada calle se estudie y que el centro no se cierre antes de tener alternativa.
+  en: Óscar: So I propose something simpler: that each street be studied, and that the centre is not closed before there is an alternative.
+- Irene: Gracias, Óscar. ¿Alguien sabe de quién es el coche de la puerta? Lleva ya cuarenta minutos con las luces encendidas.
+  en: Irene: Thank you, Óscar. Does anyone know whose car is at the door? It has been there forty minutes with its lights on.
+- Óscar: Ya que lo preguntas, Irene: es el de mi padre, que me ha traído hoy porque llueve.
+  en: Óscar: Since you ask, Irene: it is my father's, who has brought me today because it is raining.
+
+notes.en:
+1. The debating session follows fixed formulas: se abre la sesión, tienes la palabra, cierra el turno. Each speaker is named with the side they take, and the speeches are timed.
+2. Es cierto que el coche nos da comodidad, pero (sentence 4): es cierto que concedes the point first, and pero then turns the sentence. The same pattern returns in Óscar's sentence 25. Example: Es cierto que llueve, pero salimos igualmente, "it is true it is raining, but we are going out anyway".
+3. Si bien hay vecinos (sentence 5): si bien concedes a point in a formal register; the argument stands in the main clause after the comma. Example: Si bien el plan es bueno, el presupuesto no alcanza, "although the plan is good, the budget is not enough".
+4. Aun reconociendo que el comercio (sentence 6): aun with the gerund concedes a point and then goes on. Aun is written without an accent here, as in aun así (lesson 15, note 11). Example: Aun reconociendo su error, nunca pidió perdón, "even admitting his mistake, he never apologised".
+5. Por mucho que nos guste el coche (sentence 7): por mucho que takes the subjunctive, because the amount is not yet fixed. Compare aunque with the subjunctive (lesson 10, note 17). Example: Por mucho que insistas, no cambio de opinión, "however much you insist, I do not change my mind".
+6. Lo de la furgoneta del pan (sentence 20): lo de plus a noun introduces a point from the other side, as "as for". Example: Lo del presupuesto lo hablamos mañana, "as for the budget, we'll talk about it tomorrow".
+7. tiene razón en que (sentence 19): the phrase for granting that someone is right on one point before answering the rest. Example: Tienes razón en que hace frío, "you are right that it is cold".
+8. no es un muro, sino una puerta (sentence 21): no plus es plus a noun, sino plus a noun, contrasts two images, and the rebuttal takes the image of the other side and turns it round. Example: No es un error, sino una decisión, "it is not a mistake but a decision".
+9. Cuando Daniel dice que el autobús pasa a las ocho (sentence 22): the rebuttal quotes the opponent's words in the present (dice) and answers them. Example: Cuando dice que no tiene tiempo, le digo que sí, "when he says he has no time, I tell him he has".
+10. cargan con la compra (sentence 14): cargar con means to carry something heavy or unpleasant, and here the shopping. Example: Cargó con las maletas hasta el tren, "he carried the cases to the train".
+11. doble fila (sentence 2): a car parked alongside another that is already at the kerb, so that it blocks the lane. Example: Dejó el coche en doble fila un momento, "he left the car double-parked for a moment".
+12. el de mi padre (sentence 30): el de followed by a noun for the one that belongs to someone. See (lesson 11, note 10). Example: Esta bici es la de mi hermana, "this bike is my sister's".
+13. Lleva ya cuarenta minutos (sentence 29): llevar with a period and ya, for an action that began earlier and is still going on. See (lesson 15, note 12). Example: Lleva ya dos horas lloviendo, "it has been raining for two hours".
+14. Ya que lo preguntas (sentence 30): ya que gives the reason, "since"; here the reason is the question itself. Example: Ya que estás aquí, ayúdame, "since you are here, help me".
+
+ex1:
+- Ya sé que el centro necesita aire, pero no me pidan que aparque a dos kilómetros con una niña de la mano.
+  en: I know the centre needs air, but do not ask me to park two kilometres away with a little girl by the hand.
+- Por mucho que nos guste la calle sin coches, el que tiene que llevar a su madre al hospital necesita una calle abierta.
+  en: However much we may like a street without cars, the person who has to take their mother to hospital needs an open street.
+- Aun reconociendo que el argumento es bueno, no me convence que la solución sea cerrar el barrio entero.
+  en: Even granting that the argument is good, I am not convinced that the solution is to close the whole neighbourhood.
+- Lo del autobús lo dejamos para otro día, que ahora nos toca hablar de los que no tienen coche.
+  en: As for the bus, let us leave it for another day, since now it is our turn to talk about those who have no car.
+- Tienes razón en que la ciudad está llena de coches, aunque no sé si eso basta para prohibirlos.
+  en: You are right that the city is full of cars, though I do not know whether that is enough to ban them.
+
+ex2:
+- [Lo de] la furgoneta lo hablamos mañana, que hoy ya no da tiempo.
+  en: As for the van, we shall talk about it tomorrow, since there is no time today.
+- No es un argumento, [sino] una queja.
+  en: It is not an argument but a complaint.
+- [Llevo] ya dos horas esperando el autobús.
+  en: I have been waiting for the bus for two hours now.
+- El concejal [cargó con] la culpa de la moción.
+  en: The councillor took the blame for the motion.
+- Llevamos una hora [haciendo] cola para el autobús.
+  en: We have been queuing for the bus for an hour.
+
+tasks:
+- Para cerrar, quiero recordar lo que hemos dicho esta tarde. Es cierto que el centro necesita aire y silencio, pero también necesita a quienes trabajan, cargan con la compra y no tienen otra manera de llegar. Lucía habló de los niños, y tiene razón; sin embargo, un niño no llega solo al colegio si nadie le explica por dónde ir. Marta dijo que la moción es una puerta; yo digo que una puerta sin llave no es lo mismo que una puerta abierta. Por eso pido que cada calle se estudie y que nadie cierre el centro sin una alternativa. Muchas gracias.
+  task.en: Write the closing speech against the motion in Spanish, about 120 words, answering at least two of the other side's points by name and using a concession with sin embargo.
+  rubric.en: meaning: the speech answers Lucía's point about children and Marta's image of a door; register: formal debating Spanish, with usted or tú kept to the audience throughout; structure: summary, concession, rebuttal, proposal, thanks; idiom: es cierto que ... sin embargo and tener razón en que are used in their set senses; effect: the closing image of the open door is turned into an argument, not repeated.
+
+== 18 C1
+numeral: Lección dieciocho
+title: Palabras que hicieron un país
+title.en: Words that made a country
+
+dialogue:
+- El 19 de marzo de 1812, día de San José, las Cortes reunidas en Cádiz proclamaron una Constitución en plena Guerra de la Independencia, con buena parte del país ocupada por las tropas napoleónicas.
+  en: On 19 March 1812, the feast of Saint Joseph, the Cortes gathered in Cádiz proclaimed a Constitution in the middle of the War of Independence, with much of the country occupied by Napoleon's troops.
+- Las Cortes habían empezado en la Isla de León y se trasladaron a Cádiz, la ciudad que resistía el asedio, con diputados de varias partes de América entre sus miembros.
+  en: The Cortes had begun on the Isla de León and moved to Cádiz, the city that was holding out against the siege, with deputies from several parts of America among their members.
+- Los diputados trabajaron durante meses con el ejército francés alrededor de la ciudad, y con el calor y las prisas de cualquier asamblea.
+  en: The deputies worked for months with the French army around the city, and with the heat and the hurry of any assembly.
+- El texto recibió enseguida el nombre de la Pepa, por el santo del día, y ese nombre familiar acabó siendo más conocido que el oficial.
+  en: The text was soon given the name la Pepa, after the saint of the day, and that familiar name ended up better known than the official one.
+- Al principio se llamó simplemente Constitución, y el apodo tardó poco en ganarle.
+  en: At first it was simply called the Constitution, and the nickname did not take long to win out.
+- Fue una de las primeras constituciones de la historia de España, y su influencia llegó a otros países de Europa y de América.
+  en: It was one of the first constitutions in Spanish history, and its influence reached other countries in Europe and America.
+- Los liberales de la época la vieron como una promesa, y los absolutistas como una amenaza.
+  en: The liberals of the day saw it as a promise, and the absolutists as a threat.
+- Su vigencia se interrumpió y se recuperó más de una vez en el siglo siguiente, y muchos la tuvieron por una promesa que no siempre se cumplió.
+  en: Its validity was interrupted and restored more than once in the century that followed, and many regarded it as a promise that was not always kept.
+- Más de siglo y medio después, otra Constitución volvió a poner de acuerdo al país: la de 1978.
+  en: More than a century and a half later, another Constitution brought the country together again: that of 1978.
+- Políticos que habían estado en bandos opuestos durante la guerra civil se sentaron a la misma mesa, y el texto se pactó más que se impuso.
+  en: Politicians who had been on opposite sides during the civil war sat at the same table, and the text was agreed more than it was imposed.
+- Hubo discusiones largas sobre el reparto del poder entre el Estado y las regiones, y sobre casi todo lo demás.
+  en: There were long arguments about how power was to be shared between the state and the regions, and about almost everything else.
+- Al final, el texto salió adelante con amplio apoyo en las Cortes.
+  en: In the end the text went through with broad support in the Cortes.
+- La Constitución fue aprobada en referéndum el 6 de diciembre de 1978, después de casi cuarenta años de dictadura.
+  en: The Constitution was approved in a referendum on 6 December 1978, after almost forty years of dictatorship.
+- Ese día sigue siendo festivo, y el Día de la Constitución se celebra cada año.
+  en: That day is still a public holiday, and the Day of the Constitution is celebrated every year.
+- Tres años después, en la madrugada del 24 de febrero de 1981, el rey habló por televisión para condenar el intento de golpe de Estado que había empezado la tarde anterior.
+  en: Three years later, in the early hours of 24 February 1981, the king spoke on television to condemn the attempted coup that had begun the previous afternoon.
+- La democracia tenía entonces poco más de tres años, y el país había votado en unas elecciones generales en 1977 y en otras en 1979.
+  en: Democracy was then barely three years old, and the country had voted in general elections in 1977 and again in 1979.
+- Aquella tarde, un grupo de guardias civiles y militares había irrumpido en el Congreso de los Diputados durante la votación para elegir presidente del Gobierno.
+  en: That afternoon, a group of Civil Guards and soldiers had burst into the Congress of Deputies during the vote to elect a prime minister.
+- Los diputados permanecieron sentados en sus escaños durante horas, y la imagen de aquel día se vio en todo el mundo.
+  en: The deputies stayed seated in their benches for hours, and the image of that day was seen all over the world.
+- El rey apareció de madrugada con uniforme militar y pronunció un discurso breve: defendió la Constitución, pidió a los ejércitos que se mantuvieran fieles al orden constitucional y dejó claro que la democracia no se negociaba.
+  en: In the early hours the king appeared in military uniform and gave a short speech: he defended the Constitution, asked the armed forces to remain loyal to the constitutional order, and made clear that democracy was not up for negotiation.
+- El intento fracasó esa misma noche, y a la mañana siguiente el país volvió a sus quehaceres.
+  en: The attempt failed that same night, and the next morning the country went back to its everyday business.
+- Desde entonces, el 23-F se recuerda como el día en que la democracia resistió, y las palabras de aquella madrugada forman parte de la memoria del país.
+  en: Since then, 23-F has been remembered as the day democracy held firm, and the words of that night are part of the country's memory.
+- La Constitución de 1812 y la de 1978 nacieron en momentos de crisis, y en los dos casos las palabras se escogieron con cuidado.
+  en: The Constitution of 1812 and that of 1978 were born in times of crisis, and in both cases the words were chosen with care.
+- El himno nacional, la Marcha Real, suena en los actos oficiales y en los partidos de la selección.
+  en: The national anthem, the Marcha Real, is played at official ceremonies and at the matches of the national team.
+- Suena sin palabras, como una marcha de desfile.
+  en: It is played without words, like a march for a parade.
+- Y, sin embargo, sigue sin letra oficial.
+  en: And yet it still has no official lyrics.
+
+notes.en:
+1. This is the solemn register of Spanish history writing: the past for events that are over, the present only for what is still true, the names of wars and institutions with capitals, and dates written out in full. Most of the sentences are in the past, and the last three say what holds today.
+2. en plena Guerra de la Independencia (sentence 1): en plena with a noun means in the middle of it, and the war's name is written with capitals as a proper name. Example: en plena crisis, "in the middle of the crisis".
+3. habían empezado ... se trasladaron (sentence 2): the pluperfect habían empezado is an earlier event, and the preterite se trasladaron is the move that followed. Example: Ya habían salido cuando empezó la lluvia, "they had already left when the rain began".
+4. la Pepa (sentence 4): the nickname takes the article la. Pepa is a familiar form of Josefa and of José, so the name recalls the saint's day. Example: Mi tía Pepa, "my aunt Pepa".
+5. se llamó simplemente Constitución (sentence 5): the reflexive se with llamar means was called. Example: Se llamaba Pepa, "she was called Pepa".
+6. una de las primeras constituciones (sentence 6): una de las plus a superlative-like plural noun. Example: Es una de las mejores películas del año, "it is one of the best films of the year".
+7. la vieron como una promesa (sentence 7): como gives the way something is seen, and la refers back to the Constitution. Example: Lo tomó como una broma, "he took it as a joke".
+8. se interrumpió y se recuperó (sentence 8): the reflexive passive, with no agent named, for something that stopped and started again. Example: La línea se interrumpió, "the line was cut off".
+9. Más de siglo y medio (sentence 9): más de with a figure means more than, and siglo y medio is one and a half centuries. Example: Más de cien personas, "more than a hundred people".
+10. en bandos opuestos (sentence 10): bando is a side in a conflict. Example: Estaban en bandos opuestos, "they were on opposite sides".
+11. aprobada en referéndum (sentence 13): referéndum takes an accent in Spanish. Example: Se votó en referéndum, "it was put to a referendum".
+12. sigue siendo festivo (sentence 14): seguir siendo means still to be, the present of a thing that has not changed. Example: Sigue siendo el mismo, "he is still the same".
+13. en la madrugada del 24 de febrero de 1981 (sentence 15): dates in full, lower case for the months, and no point in the year. See the phrase de madrugada for the early hours. Example: Llegó de madrugada, "he arrived in the early hours".
+14. el 23-F (sentence 21): Spaniards name the 1981 coup by its date, with the day, a hyphen and the letter F. Example: el 23-F, "the 23rd of February attempt".
+15. sin embargo, y sin embargo (sentence 25): sin embargo joins a contrast and means however, not without. Example: Llovía; sin embargo, salimos, "it was raining; however, we went out".
+16. sigue sin letra oficial (sentence 25): seguir sin with a noun means still without it. Example: Sigue sin respuesta, "it is still unanswered".
+
+ex1:
+- El texto se leyó en voz alta desde el balcón del ayuntamiento, y la gente guardó silencio hasta que terminó la última frase.
+  en: The text was read aloud from the balcony of the town hall, and people kept silent until the last sentence was finished.
+- Aquel año la ciudad estaba sitiada, y sin embargo los periódicos seguían saliendo cada mañana.
+  en: That year the city was besieged, and yet the newspapers still came out every morning.
+- Los liberales y los absolutistas se miraban como si se conocieran de siempre, aunque hasta entonces nunca habían hablado.
+  en: The liberals and the absolutists looked at each other as if they had known each other for years, though until then they had never spoken.
+- Aún no se había aprobado el texto cuando el pueblo empezó a llamarlo por su apodo.
+  en: The text had not yet been passed when the people began to call it by its nickname.
+- Después de tantos años, la familia seguía sin saber quién había escrito la carta.
+  en: After so many years, the family still did not know who had written the letter.
+
+ex2:
+- El texto fue aprobado en [referéndum] por una mayoría amplia.
+  en: The text was approved in a referendum by a broad majority.
+- Los dos bandos [se sentaron] a la misma mesa, por primera vez en años.
+  en: The two sides sat at the same table, for the first time in years.
+- El intento de golpe [fracasó] esa misma noche.
+  en: The coup attempt failed that same night.
+- La ciudad [resistió] el asedio durante más de dos años.
+  en: The city held out against the siege for more than two years.
+- Se [recuperó] la vigencia del texto después de la guerra.
+  en: The validity of the text was restored after the war.
+
+tasks:
+- En 1812, las Cortes reunidas en Cádiz proclamaron una Constitución el día de San José, en plena Guerra de la Independencia. El texto se llamó la Pepa por el santo del día, fue una de las primeras constituciones de España y tuvo una vigencia interrumpida. En 1978, una nueva Constitución se aprobó en referéndum, tras casi cuarenta años de dictadura. En 1981, el rey habló de madrugada para defender la democracia durante el intento de golpe del 23-F. El himno nacional, la Marcha Real, suena sin palabras y sigue sin letra oficial.
+  task.en: Summarise the passage in Spanish, in about 80 words, keeping the three texts in order and the anthem at the end.
+  rubric.en: meaning: the 1812 Constitution, the 1978 Constitution, the king's message and the anthem are all in the summary; register: solemn, past for events, present only for the anthem; structure: the order of the passage, with the anthem last; idiom: en plena, de madrugada and sigue sin are used in their set senses; effect: the summary keeps the solemn tone and ends on the anthem, as the passage does.
+
+== 19 C1
+numeral: Lección diecinueve
+title: Llaman a la puerta
+title.en: Someone at the door
+
+dialogue:
+- Rubén: Buenas tardes, señora. Perdone que la moleste, pero vengo de parte de una empresa que revisa facturas de la luz en este pueblo.
+  en: Rubén: Good afternoon, madam. Sorry to disturb you, but I come on behalf of a company that checks electricity bills in this village.
+- Remedios: Buenas tardes, hijo. La factura de la luz la pago yo cada mes, y nadie me la ha explicado nunca.
+  en: Remedios: Good afternoon, son. I pay the electricity bill myself every month, and nobody has ever explained it to me.
+- Rubén: Es solo un momento, señora. Si me enseña la última factura, le digo en tres minutos cuánto puede ahorrar.
+  en: Rubén: It's only a moment, madam. If you show me your last bill, I'll tell you in three minutes how much you could save.
+- Remedios: En tres minutos, hijo, me dicen cualquier cosa. ¿Y cuánto es cualquier cosa?
+  en: Remedios: In three minutes, son, they can tell me anything at all. And how much is anything at all?
+- Rubén: Depende del consumo, pero una casa como la suya suele ahorrar bastante sin cambiar nada: ni el contador, ni los electrodomésticos.
+  en: Rubén: It depends on the usage, but a house like yours usually saves quite a lot without changing anything: neither the meter nor the appliances.
+- Remedios: Mi marido, que en paz descanse, decía que todo lo que se ahorra por teléfono se acaba gastando en bolígrafos.
+  en: Remedios: My husband, may he rest in peace, used to say that whatever you save over the phone ends up being spent on biros.
+- Rubén: Entonces, déjeme ver la factura, y así no tiene que creerme. Solo es un momento.
+  en: Rubén: Then let me see the bill, so you don't have to take my word for it. It's only a moment.
+- Remedios: Ya vuelves con el momento, hijo. Pasa, que la factura está en el cajón del aparador, y no te quedes en la puerta.
+  en: Remedios: Here you go again with your moment, son. Come in, the bill is in the sideboard drawer, and do not stand in the doorway.
+- Rubén: Gracias, señora. Mire: con esta tarifa paga usted bastante más de lo que le corresponde.
+  en: Rubén: Thank you, madam. Look: on this tariff you are paying a good deal more than you should.
+- Remedios: ¿Más de lo que me corresponde? ¿Y quién decide lo que me corresponde a mí, hijo?
+  en: Remedios: More than I should be paying? And who decides what I should be paying, son?
+- Rubén: La tarifa actual, señora. Con nuestra oferta, la misma luz le sale más barata cada mes.
+  en: Rubén: The current tariff, madam. With our offer, the same electricity comes out cheaper every month.
+- Remedios: Y si la misma luz sale más barata, ¿por qué no la regalan?
+  en: Remedios: And if the same electricity comes out cheaper, why don't you give it away?
+- Rubén: Porque no sería un negocio, señora. Pero la oferta de hoy incluye un descuento el primer año.
+  en: Rubén: Because it would not be a business, madam. But today's offer includes a discount for the first year.
+- Remedios: ¿Y hasta cuándo es el descuento?
+  en: Remedios: And until when is the discount?
+- Rubén: Hasta el final del día. La oferta acaba hoy.
+  en: Rubén: Until the end of the day. The offer ends today.
+- Remedios: Hijo, las ofertas que acaban hoy son las que más se repiten: la de mi cuñada acaba hoy desde hace veinte años.
+  en: Remedios: Son, the offers that end today are the ones that come round most often: my sister-in-law's has been ending today for twenty years.
+- Rubén: Esta es distinta, señora.
+  en: Rubén: This one is different, madam.
+- Remedios: Todas son distintas, hijo. Eso también lo dicen todas.
+  en: Remedios: They are all different, son. They all say that too.
+- Rubén: ¿Quiere que le pida una cita con un asesor para que se lo explique con calma?
+  en: Rubén: Would you like me to ask for an appointment with an adviser, so that they can explain it to you calmly?
+- Remedios: No, hijo, que el asesor ya me conoce: tiene la misma voz que el de hace un año y un nombre distinto cada vez.
+  en: Remedios: No, son, the adviser already knows me: he has the same voice as the one from last year and a different name each time.
+- Rubén: Entonces, ¿firmamos? Solo necesito su DNI y su firma aquí.
+  en: Rubén: So shall we sign? I only need your ID card and your signature here.
+- Remedios: Firmo cuando me enseñes el contrato entero, letra pequeña incluida. Y mientras, ¿has comido?
+  en: Remedios: I'll sign when you show me the whole contract, small print included. And in the meantime, have you eaten?
+- Rubén: Gracias, pero no tengo tiempo. Es solo un momento, señora.
+  en: Rubén: Thank you, but I have no time. It's only a moment, madam.
+- Remedios: Pues como tienes tanta prisa, te propongo otra cosa: la parroquia tiene un décimo del Gordo, y hoy se venden participaciones.
+  en: Remedios: Well, since you are in such a hurry, I'll offer you something else: the parish has a tenth of the Gordo, and shares are being sold today.
+- Rubén: ¿Y cuánto cuesta una participación?
+  en: Rubén: And how much does a share cost?
+- Remedios: Cinco euros. El sorteo es el 22 de diciembre, y la oferta acaba hoy, hijo.
+  en: Remedios: Five euros. The draw is on 22 December, and the offer ends today, son.
+- Rubén: Yo no juego a la lotería, señora. Lo siento.
+  en: Rubén: I do not play the lottery, madam. I'm sorry.
+- Remedios: Nadie juega a la lotería hasta que le toca, hijo. Pues ya tienes un motivo para volver el 22.
+  en: Remedios: Nobody plays the lottery until their turn comes, son. Well, now you have a reason to come back on the 22nd.
+- Rubén: Bueno... a ver. Me llevo una participación, aunque no entiendo por qué.
+  en: Rubén: Well... let's see. I'll take a share, though I don't see why.
+- Remedios: Porque así vuelves el 22 a preguntarme si ha salido, y a mí me viene bien la compañía.
+  en: Remedios: Because that way you come back on the 22nd to ask me whether it came up, and I could do with the company.
+- Rubén: ¿Y el contrato? ¿No lo firmo?
+  en: Rubén: And the contract? Shall I not sign it?
+- Remedios: No, hijo. El contrato lo firmas en otra casa, que yo ya tengo luz y lotería.
+  en: Remedios: No, son. You sign the contract somewhere else, because I already have electricity and the lottery.
+- Rubén: Pues gracias, señora, y perdone la molestia.
+  en: Rubén: Well, thank you, madam, and sorry for the bother.
+- Remedios: Pues ya te vas con tu participación y sin contrato, que es lo que más te conviene.
+  en: Remedios: Well, you're going off with your share and without a contract, which is what suits you best.
+
+notes.en:
+1. The visit runs on set phrases on both sides: the seller's sales lines and the grandmother's answers to them. Each line answers the line before it, and the grandmother keeps the upper hand from the first reply to the last.
+2. Es solo un momento, señora (sentence 3): the seller's opening evasion, a short wait promised as if it were nothing. The grandmother takes it up in line 8 and again in line 23. Compare the momentito of (lesson 8, note 12), where the diminutive makes the time sound small.
+3. Pasa, que la factura (sentence 8): tú is the grandmother's form to the young man, while he uses usted to her. The two forms show the difference of age and the distance they have, and the switch is taught in (lesson 1).
+4. Mire: con esta tarifa paga usted (sentence 9): mire is the usted form of the command mirar, used to draw attention. The seller keeps usted to the end of the visit.
+5. ¿Más de lo que me corresponde? (sentence 10): corresponder means to be due or right, and lo que me corresponde is what I ought to pay. The grandmother turns the word back on him.
+6. Firmo cuando me enseñes (sentence 22): after cuando with a future sense, Spanish uses the subjunctive, so the verb is enseñes and not enseñas. The grandmother's whole reply is set in that future.
+7. El Gordo (sentence 24): the Christmas lottery, drawn on 22 December, when a whole ticket is divided into ten décimos (Foundation, lesson 51). A participación is a share of one décimo.
+8. a ver (sentence 29): a hedge meaning let's see, said before committing to an answer (lesson 8, note 10).
+9. hasta que le toca (sentence 28): tocar here means that it is someone's turn, and the phrase is said of waiting for luck. Compare es lo que toca (lesson 11, note 14).
+10. el de hace un año (sentence 20): el de with a noun names the one of the year before, as in (lesson 11, note 10).
+11. Mi marido, que en paz descanse (sentence 6): the standard formula when a dead person is named, said without any sadness in the tone of the grandmother's speech.
+12. que el asesor ya me conoce (sentence 20): que introduces the reason, here the grandmother's knowledge of the adviser's voice, which she gives as her reason.
+13. Pues ya te vas (sentence 34): pues opens the last line and closes the scene; the reader sees the trade at once because the share was offered in sentence 24 and taken in sentence 29.
+
+ex1:
+- Dígame, ¿es usted de la empresa o del ayuntamiento? Porque ya me han visitado dos personas con el mismo chaleco.
+  en: Tell me, are you from the company or the town hall? Two people have already visited me in the same waistcoat.
+- Yo no firmo nada sin leerlo entero, aunque el vendedor me diga que solo es un momento.
+  en: I don't sign anything without reading it through, even if the salesman tells me it is only a moment.
+- Mi nieto dice que sabe mucho de electricidad, aunque nunca ha cambiado un fusible.
+  en: My grandson says he knows a great deal about electricity, though he has never changed a fuse.
+- Cuando el asesor llame, dígale que la señora Varela ya tiene su propia tarifa, y que no hace falta que vuelva.
+  en: When the adviser calls, tell him that Mrs Varela already has her own tariff, and that he needn't come back.
+- Me llevo la participación, pero no me llamen el 22, que yo ya sé si me ha tocado.
+  en: I'll take the share, but don't ring me on the 22nd, since I'll know myself whether it came up.
+
+ex2:
+- Pues ya le [digo] que no me interesa, señora.
+  en: Well, I'm telling you I'm not interested, madam.
+- Esa oferta acaba [hoy], así que no tiene que decidirlo mañana.
+  en: That offer ends today, so you don't have to decide tomorrow.
+- Yo no [juego] a la lotería, señora.
+  en: I do not play the lottery, madam.
+- Lo siento, pero no puedo [firmar] nada sin leerlo.
+  en: I'm sorry, but I can't sign anything without reading it.
+- Ahora mismo no tengo [tiempo] para hablar de la luz.
+  en: Right now I don't have time to talk about the electricity.
+
+tasks:
+- Hoy ha venido un chico de la empresa de la luz. Le he enseñado la factura, que es la de siempre, y me ha dicho que pagaba de más. Le he preguntado quién decide lo que me corresponde, y me ha contestado con la tarifa, que no es lo mismo. Le he ofrecido algo de comer, y no ha querido. Al final se ha llevado una participación del Gordo, cinco euros, y no ha firmado nada. Los chicos de hoy tienen mucha prisa, y a mí me ha dado pena. Mañana le llamo para que venga el 22.
+  task.en: Write the grandmother's diary entry for that evening, in Spanish, in the first person and about 120 words: the past tense for the visit, and the present for what she thinks of it now.
+  rubric.en: meaning: the visit, the bill, the offer, the share and the refusal to sign are all in the entry; register: a private diary, warm and dry, with tú for the young man as in the visit; structure: the visit in order, then the feeling at the end; idiom: me corresponde, se ha quedado callado and la oferta acaba hoy are used in their set senses; effect: the entry is kinder to the young man than the visit was, so the reader sees her change of mind.
+
+== 20 C1
+numeral: Lección veinte
+title: El arte de decir que no
+title.en: The art of saying no
+
+dialogue:
+- Hay una frase que casi todo el mundo en España ha dicho alguna vez y casi nadie ha cumplido: «A ver si quedamos».
+  en: There is a phrase almost everyone in Spain has said at some point and almost nobody has kept: «Let's see if we can meet up».
+- Es la forma más corriente de decir que no sin decirlo, y sirve para casi todo: para una boda a la que no quieres ir, para un café con un antiguo compañero o para una cena con la familia política.
+  en: It is the most common way of saying no without saying it, and it serves for almost anything: for a wedding you do not want to attend, for a coffee with a former colleague, or for a dinner with the in-laws.
+- Lo curioso es que la frase no es una mentira del todo, sino una cortesía con la fecha en blanco.
+  en: The curious thing is that the phrase is not quite a lie, but a courtesy with the date left blank.
+- Quien la dice tiene intención de quedar algún día, o al menos de no volver a pensar en ello, y quien la recibe sabe que el día no llegará.
+  en: The one who says it intends to meet up some day, or at least not to think about it again, and the one who hears it knows the day will not come.
+- La frase tiene parientes cercanos, y cada uno tiene su carácter.
+  en: The phrase has close relatives, and each has its own character.
+- «Ya te diré» es el primo más educado: promete una respuesta que casi nunca llega.
+  en: «I'll let you know» is the most polite cousin: it promises an answer that almost never comes.
+- «Lo miro y te digo» es el hermano que trabaja: lo mira, claro, con la tranquilidad de quien sabe que no hay nada que mirar.
+  en: «I'll check and tell you» is the working brother: he does look, of course, with the calm of someone who knows there is nothing to look at.
+- «Me pilla fatal» es la excusa de quien no tiene otra mejor: la fecha no le viene bien, y lo dice sin entrar en el motivo.
+  en: «It's a bad time for me» is the excuse of someone who has no better one: the date does not suit, and they say so without going into the reason.
+- Ninguna de estas frases dice que no, y todas lo dicen perfectamente.
+  en: None of these phrases says no, and all of them say it perfectly.
+- Yo las uso con cariño, y con los años he aprendido a usarlas en orden, de la más suave a la más directa.
+  en: I use them fondly, and over the years I have learnt to use them in order, from the gentlest to the most direct.
+- Para los amigos de siempre sirve «ya te diré», que deja la puerta entreabierta sin prometer nada.
+  en: For old friends «I'll let you know» will do, leaving the door ajar without promising anything.
+- Para el jefe, o para la suegra, es mejor «lo miro y te digo», que suena a trámite y da tiempo para pensar.
+  en: For the boss, or the mother-in-law, «I'll check and tell you» is better, since it sounds like a formality and gives time to think.
+- Para cuando no queda otra, queda «me pilla fatal», dicho con pena, como si la fecha fuera la culpable.
+  en: When there is no alternative, there is «it's a bad time for me», said with regret, as if the date were to blame.
+- Cada una pide su registro. Con tú basta «ya te diré»; con usted conviene decir «lo miro y le digo», que es la forma de las oficinas y de los trámites.
+  en: Each one needs its own register. With tú, «ya te diré» is enough; with usted it is better to say «lo miro y le digo», the form used in offices and formalities.
+- El tono lo decide todo: si la frase suena alegre, parece una promesa; si suena seria, parece un rechazo, y el otro lo entiende a la primera.
+  en: Tone decides everything: if the phrase sounds cheerful, it sounds like a promise; if it sounds serious, it sounds like a refusal, and the other person understands at once.
+- Muchos angloparlantes prefieren un no claro, y lo consideran más honesto, aunque a veces sea más brusco.
+  en: Many English speakers prefer a clear no, and consider it more honest, even though it can sometimes be blunter.
+- Yo confieso que, durante años, creí que «a ver si quedamos» era una forma de mentir. Hasta que la dije yo y entendí para qué sirve.
+  en: I confess that for years I thought «let's see if we can meet up» was a way of lying. Until I said it myself and understood what it is for.
+- Sirve para que los dos salgan sin cara perdida, y para que el que no quiere ir no tenga que explicar por qué.
+  en: It lets both sides come out without losing face, and it spares the one who does not want to go from having to explain why.
+- Eso sí, tiene un límite: si la repites tres veces con la misma persona, ya no es cortesía, es un compromiso que nadie cumple.
+  en: Still, it has its limits: if you repeat it three times to the same person, it is no longer a courtesy, but a promise that nobody keeps.
+- El que la oye tiene también su parte: no debe contestar «sí, claro, pongamos el jueves», porque entonces el jueves llega y hay que cumplir.
+  en: The one who hears it has a part to play too: they should not answer «yes, of course, let's say Thursday», because then Thursday comes and somebody has to turn up.
+- Por eso la mejor respuesta, cuando alguien te propone algo que no quieres, es esta: «Pues ya nos vemos», que suena a cita y no lo es.
+  en: That is why, when someone proposes something you do not want, the best answer is this: «Well, we'll see each other», which sounds like an arrangement and is not one.
+- Hace unas semanas le conté a mi amiga Nuria mi plan: dejar de usar estas frases y decir que no con claridad, una vez en la vida.
+  en: A few weeks ago I told my friend Nuria my plan: to stop using these phrases and say no clearly, just once in my life.
+- Le pareció una buena idea, y dijo que lo intentaría esa misma semana.
+  en: She thought it was a good idea, and said she would try that same week.
+- Después de leer este artículo, Nuria me escribió por WhatsApp, en el tono de siempre:
+  en: After reading this article, Nuria wrote to me on WhatsApp, in her usual tone:
+- Muy buena. A ver si quedamos.
+  en: Very good. Let's see if we can meet up.
+
+notes.en:
+1. A ver si quedamos (sentence 1): a ver here means let's see, as in (lesson 8, note 10), and quedar means to arrange a meeting. The phrase is said without a date. Example: A ver si quedamos un día, "let's see if we can meet up one day".
+2. la familia política (sentence 2): the in-laws, the family of one's husband or wife. Example: Cenamos con la familia política, "we had dinner with the in-laws".
+3. Ya te diré (sentence 6): ya plus the future of decir means I will tell you later. The future promises an answer without giving a date. Example: Ya te diré algo, "I'll tell you something later".
+4. Lo miro y te digo (sentence 7): both verbs are in the present, and the pair is a set formula of offices and formalities, meaning I'll look into it and let you know. Example: Lo miro y te digo mañana, "I'll look into it and let you know tomorrow".
+5. Me pilla fatal (sentence 8): pillar, in the colloquial sense of coming at a bad moment; the speaker says the moment is awkward, not the person. Example: Me pilla fatal el martes, "Tuesday is a bad day for me".
+6. Cada una pide su registro (sentence 14): with tú, ya te diré is enough; with usted, lo miro y le digo is the form for usted, with le and not te. Tú and usted are set out in (lesson 1).
+7. de la más suave a la más directa (sentence 10): a graded list, with the gentlest first. Example: Desde el más sencillo al más difícil, "from the simplest to the hardest".
+8. cuando no queda otra (sentence 13): queda otra with no before it means there is no other choice. Example: No queda otra, "there is no other way".
+9. la dije yo (sentence 17): the feminine pronoun la refers back to the phrase, which is feminine. Example: La dije sin pensar, "I said it without thinking".
+10. pongamos el jueves (sentence 20): poner in the first-person plural subjunctive proposes a time, let's say Thursday. Example: Pongamos a las seis, "let's say at six".
+11. Pues ya nos vemos (sentence 21): pues opens a closing remark, and ya nos vemos means see you, said without a date. Example: Pues ya nos vemos, "well, see you then".
+12. le conté (sentence 22): the preterite, because the telling happened and is over. Example: Le conté lo que pasó, "I told him what happened".
+13. Nuria me escribió (sentence 24): the preterite for a message sent after the reading, which ends the sequence. Example: Me escribió ayer, "she wrote to me yesterday".
+
+ex1:
+- Me dijo que lo miraría, pero yo sé que su «lo miro» quería decir que no.
+  en: He told me he would look into it, but I know his «I'll look into it» meant no.
+- Con mi suegra no puedo decir «me pilla fatal» tantas veces; a la tercera se ofende.
+  en: With my mother-in-law I cannot say «it's a bad time for me» so often; by the third time she takes offence.
+- Si quieres decir que no, dilo con voz seria, que el tono es lo que cuenta.
+  en: If you mean no, say it in a serious voice, because tone is what counts.
+- Te invito a la cena del sábado, aunque sé que me vas a decir que lo miras.
+  en: I'm inviting you to Saturday's dinner, though I know you are going to say you'll look into it.
+- Dijo que sí a todo, y el lunes ya no se acordaba de nada.
+  en: She said yes to everything, and by Monday she no longer remembered any of it.
+
+ex2:
+- Ya te [diré], que ahora no sé nada.
+  en: I'll let you know, since I don't know anything right now.
+- Ese día me [pilla] fatal.
+  en: That day is a bad one for me.
+- A ver si [quedamos] un día de estos.
+  en: Let's see if we can meet up one of these days.
+- Cuando no [queda] otra, dices que no.
+  en: When there is no alternative, you say no.
+- Cuidado: si repites la misma frase tres veces, [deja] de ser cortés.
+  en: Be careful: if you repeat the same phrase three times, it stops being polite.
+
+tasks:
+- Ana, qué pena, pero el sábado no puedo: me toca cuidar a mi sobrina. Ya nos vemos otro día, de verdad. Señora Ruiz, muchas gracias por la invitación a la cena del jueves. Lamentablemente no podré asistir, porque tengo un compromiso familiar. Le deseo una velada muy agradable. Pablo, lo miro y te digo, que ahora mismo no sé cómo me queda la semana. Te aviso el lunes.
+  task.en: Write three short refusals in Spanish, one to each invitation: a friend (tú), a boss (usted) and a colleague (tú, evasive), each in the form of address its speaker would use.
+  rubric.en: meaning: each message declines its invitation, and the colleague's is left open; register: tú to the friend and the colleague, usted to the boss, kept throughout each message; structure: one short message for each invitation, in the order of the task; idiom: ya nos vemos, lo miro y te digo and me toca are used in their set senses; effect: the boss's refusal is the most formal of the three and the colleague's leaves a door open.
+
+== 21 C1
+kind: revision
+numeral: Lección veintiuna
+title: Revisión y notas
+title.en: Revision and notes
+
+dialogue:
+- Sergio: Buenas noches, vecinos. Se abre la sesión pública sobre el nuevo aparcamiento de las eras de abajo.
+  en: Sergio: Good evening, neighbours. The public session on the new car park at the lower threshing floors is open.
+  refs: 17
+- Ramiro: ¡Vecinos de Cerrollano! Hablo como desde el balcón, aunque hoy sin micrófono y sin corbata.
+  en: Ramiro: Neighbours of Cerrollano! I am speaking as I did from the balcony, though today without a microphone or a tie.
+  refs: 15
+- Remedios: Ramiro, hijo, que aquí no hay balcón.
+  en: Remedios: Ramiro, love, there's no balcony here.
+  refs: 15 17
+- Ramiro: Cerrollano es un pueblo de piedra, de eras y de vecinos que nunca se marcharon, y ahora nos quieren poner un coche donde trillábamos.
+  en: Ramiro: Cerrollano is a village of stone, of threshing floors and of neighbours who never left, and now they want to put a car where we threshed.
+  refs: 15
+- Sergio: Nadie quiere poner coches donde se trillaba, señor Lozano. Por fin tenemos un proyecto que el pueblo pide desde hace años.
+  en: Sergio: Nobody wants cars where people threshed, Mr Lozano. At last we have a project the village has been asking for for years.
+  refs: 16
+- Remedios: ¿Y quién lo pide, hijo? Porque yo no lo he pedido, y eso que soy vecina desde hace cuarenta años.
+  en: Remedios: And who is asking for it, son? Because I have not asked for it, and I have been a neighbour for forty years.
+  refs: 19
+- Anselmo: Es cierto que hacen falta plazas, pero las eras son lo único del pueblo que todavía tiene memoria.
+  en: Anselmo: It is true that spaces are needed, but the threshing floors are the only thing in the village that still has a memory.
+  refs: 17
+- Patricia: Aun reconociendo eso, yo llevo a mis hijos a la guardería andando y no encuentro dónde dejar el coche ni un minuto.
+  en: Patricia: Even granting that, I walk my children to the nursery and cannot find anywhere to leave the car for a minute.
+  refs: 17
+- Sergio: Por mucho que nos guste la era, el pueblo necesita aparcar. Hay que decidir ya.
+  en: Sergio: However much we like the threshing floor, the village needs somewhere to park. We have to decide now.
+  refs: 17
+- Ramiro: Lo de la era tiene solución: dejamos una franja de tierra para el trillo, y el resto es para el coche.
+  en: Ramiro: As for the threshing floor, there is a solution: we leave a strip of earth for the threshing sledge, and the rest is for the car.
+  refs: 17
+- Remedios: Y lo de la furgoneta del pan, ¿dónde la meten, hijo?
+  en: Remedios: And as for the bread van, where do they put it, son?
+  refs: 17
+- Sergio: Por la calle de atrás, señora Varela, y a una hora fija.
+  en: Sergio: Through the street at the back, Mrs Varela, and at a fixed hour.
+  refs: 17
+- Remedios: Eso también lo dicen todos, hijo.
+  en: Remedios: They all say that too, son.
+  refs: 19
+- Anselmo: Pido que conste en acta que el solar de las eras no se vende. Hace más de cien años se trabajó aquí con las manos de todos, y eso no se pacta en una tarde.
+  en: Anselmo: I ask that it be recorded in the minutes that the threshing ground is not for sale. More than a hundred years ago it was worked here by everyone's hands, and that cannot be agreed in an afternoon.
+  refs: 18
+- Sergio: Nadie vende nada, don Anselmo. Se construye el aparcamiento y se conserva la era.
+  en: Sergio: Nobody is selling anything, Mr Anselmo. The car park is built and the threshing floor is kept.
+  refs: 18
+- Ramiro: Aquí se trilló a mano, aquí se aprendió a esperar la lluvia, y aquí, vecinos, no se aparca nada sin votarlo.
+  en: Ramiro: Here people threshed by hand, here people learnt to wait for the rain, and here, neighbours, nothing is parked without a vote.
+  refs: 15
+- Patricia: Pues yo voto que sí, si la era queda como está, y que me reserven una plaza cerca de la guardería.
+  en: Patricia: Well, I vote yes, if the threshing floor stays as it is, and if they keep me a space near the nursery.
+  refs: 17
+- Sergio: Antes de votar, ¿alguien tiene algo que decir? Hablemos claro, que no hay prisa.
+  en: Sergio: Before we vote, does anyone have something to say? Let us speak plainly, there is no hurry.
+  refs: 17
+- Remedios: Yo, hijo, lo miro y te digo, que votar es lo que más me cuesta.
+  en: Remedios: For my part, son, I'll look into it and let you know, because voting is what I find hardest.
+  refs: 20
+- Sergio: Pues lo miramos juntos, señora Varela, y le digo el resultado al final.
+  en: Sergio: Then we'll look into it together, Mrs Varela, and I'll tell you the result at the end.
+  refs: 20
+- Ramiro: Votemos ya, que yo ya he hablado más de lo que me toca.
+  en: Ramiro: Let's vote now, since I have already spoken more than my share.
+  refs: 15
+- Sergio: Quien esté a favor del aparcamiento en las eras, que levante la mano. Doce manos. Ahora, en contra. Nueve. Hay dos abstenciones, y el resultado es favorable.
+  en: Sergio: Whoever is in favour of the car park on the threshing floors, please raise a hand. Twelve hands. Now, against. Nine. There are two abstentions, and the result is in favour.
+  refs: 17
+- Ramiro: Pues ya no hay vuelta atrás. Aparcaremos donde trillábamos, y así lo recordaremos.
+  en: Ramiro: Well, there is no going back. We shall park where we threshed, and that is how we shall remember it.
+  refs: 18
+- Sergio: Se levanta la sesión. Gracias a todos por venir.
+  en: Sergio: The meeting is closed. Thank you all for coming.
+  refs: 17
+- Remedios: Espera, hijo, que yo he levantado la mano las dos veces, por si acaso.
+  en: Remedios: Wait, love, I put my hand up both times, just in case.
+  refs: 19
+
+notes.en:
+This week's texts are the six lessons before this one, and this lesson puts their devices in order. Nothing new is taught here: each section names the lesson and quotes its lines as they stand in that lesson, so the learner can check them.
+1. Rhetorical devices (lesson 15): the speech's own tools, used in the meeting, with the line where each one first appears in the pregón.
+| Device | What it does | Line from lesson 15 |
+|---|---|---|
+| apostrophe | addresses the village as if it could hear | ¡Vecinos de Cerrollano! |
+| triad | three items that build to the last | Cerrollano es un pueblo de piedra y de cerezo |
+| anaphora | the same opening three times | Aquí se aprendió a madrugar |
+| rhetorical question | asked for the effect, not for an answer | ¿Y quién te ha querido más que nosotros? |
+| an aside about time | the speaker counts the minutes he has spoken | Llevo veinte minutos en este balcón |
+2. Concession and rebuttal (lesson 17): the debate's way of granting a point and then turning it, with the line where each form is used.
+| Form | What it does | Line from lesson 17 |
+|---|---|---|
+| es cierto que ... pero | grants the point and then turns the sentence | Es cierto que el coche nos da comodidad, pero también nos quita el aire |
+| aun reconociendo que | grants a point and then goes on | Aun reconociendo que el autobús sirve a muchos |
+| por mucho que + subjunctive | a concession that holds for any amount | Por mucho que nos guste el coche |
+| lo de + noun | takes up a point from the other side | Lo de la furgoneta del pan también tiene solución |
+3. The formulas of the meeting (lesson 17): the chair's words and the way the vote is taken.
+| Formula | Use | Line from lesson 17 |
+|---|---|---|
+| se abre la sesión | opens the debate | Se abre la sesión del club de debate del instituto. |
+| tienes la palabra | gives the floor | Lucía, tienes la palabra. |
+| cierra el turno | the last speaker of a side | Cierra el turno en contra Óscar. |
+4. Forms of address and set phrases (lessons 19 and 20): the same phrase changes with tú and usted, and the usted form is the one of offices.
+| Phrase | With whom | Line from lesson 20 |
+|---|---|---|
+| lo miro y te digo | a friend, or the same speaker to tú | «Lo miro y te digo» es el hermano que trabaja |
+| lo miro y le digo | an office, a boss, usted | Con usted conviene decir «lo miro y le digo» |
+| ya te diré | a friend, with tú | «Ya te diré» es el primo más educado |
+5. The solemn register of the history lesson (lesson 18): the past for events, the present for what still holds.
+| Form | What it does | Line from lesson 18 |
+|---|---|---|
+| sin embargo at the end | a contrast after the events | Y, sin embargo, sigue sin letra oficial. |
+| se pactó más que se impuso | an agreement, not an order | el texto se pactó más que se impuso |
+| de madrugada | the early hours | El rey apareció de madrugada con uniforme militar |
+
+tasks:
+- Vecinos de Cerrollano: sabemos que la era es un trozo de historia, y que el coche no la va a borrar. Pero el pueblo necesita aparcar, y la era se puede conservar en parte. Por eso propongo una franja de tierra para el trillo, un aparcamiento en el resto y una plaza para la guardería. Lo digo sin prisa: no pido que votéis hoy, pido que lo penséis. Aquí se trilló a mano y aquí se aprendió a esperar; ahora toca aprender a aparcar sin olvidarnos de dónde venimos. Muchas gracias.
+  task.en: Write in Spanish a one-minute persuasive talk to the residents, about 120 words, that wins over the people who oppose the car park. Use one concession, one rebuttal and one closing line that asks for the vote.
+  rubric.en: meaning: the talk gives the concession about the threshing floor, a reason for the car park and the proposal of a strip of earth; register: spoken and warm, with vosotros or ustedes to the residents and usted to the chair; structure: opening address, concession, rebuttal, proposal, closing request; idiom: es cierto que, lo de and aquí se are used in their set senses; effect: the closing line asks for thought rather than a vote, so the opposition hears a plan.

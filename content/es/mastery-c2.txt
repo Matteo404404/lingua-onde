@@ -1889,3 +1889,790 @@ tasks:
 - Estimados miembros de la Junta Directiva: les escribo para pedirles que aclaren quién lleva la tesorería, porque el puesto ha quedado vacante. Según el artículo 7, la asamblea elige al tesorero, y la asamblea no se reúne hasta la primavera. Por eso les ruego que decidan, a tal efecto, en la próxima reunión, según el artículo 11, y que me comuniquen la decisión por escrito. Quedo a la espera de su respuesta. Un cordial saludo. Teodoro Peña Lara.
   task.en: Write a formal letter from a member to the board of the allotment association, about 90 words: the vacant post of treasurer, the rule that applies, the request for a decision, and a close that matches the greeting.
   rubric.en: meaning: the vacant treasurer post, the rule of article 7, the spring assembly and the request under article 11 all stay, with nothing added; register: formal plural, with Estimados miembros and Un cordial saludo agreeing; structure: greeting, the problem, the rule, the request, close, in that order; idiom: a tal efecto, quedo a la espera and les ruego que are used in their normal senses; effect: the board reads a request it cannot put off.
+
+== 43 C2
+numeral: Lección cuarenta y tres
+title: Las mariposas del alma
+title.en: The butterflies of the soul
+
+dialogue:
+- Buenas tardes, señoras y señores, y gracias por venir con este tiempo.
+  en: Good afternoon, ladies and gentlemen, and thank you for coming in this weather.
+- Hoy hablamos de un hombre que dibujaba con una precisión extraordinaria y que, sin embargo, pasó a la historia por lo que veía a través del microscopio.
+  en: Today we are going to talk about a man who drew with extraordinary precision and who nevertheless went down in history for what he saw through the microscope.
+- Me refiero a Santiago Ramón y Cajal, que vivió entre 1852 y 1934.
+  en: I am referring to Santiago Ramón y Cajal, who lived from 1852 to 1934.
+- Perdonen, que ahora pongo la lámina, porque la primera imagen merece verse antes de que yo diga nada.
+  en: Forgive me, I will put up the picture now, because the first image deserves to be seen before I say anything.
+- Lo que ven en la pantalla no es un mapa de carreteras: son células nerviosas dibujadas a mano, con una precisión que hoy se consigue con cámaras.
+  en: What you see on the screen is not a road map: these are nerve cells drawn by hand, with a precision that today is achieved with cameras.
+- Y no era un pasatiempo: cada dibujo era un dato.
+  en: And it was not a pastime: each drawing was a piece of data.
+- Hasta entonces, muchos científicos creían que el tejido nervioso era una red continua, una especie de malla sin cortes.
+  en: Until then, many scientists believed that nervous tissue was a continuous network, a kind of mesh without breaks.
+- Cajal sostuvo lo contrario: las neuronas son células separadas, cada una con su identidad, que se tocan pero no se funden.
+  en: Cajal held the opposite view: neurons are separate cells, each with its own identity, which touch but do not merge.
+- Parece una discusión de detalle, pero de ella depende casi todo lo que sabemos sobre cómo viaja una señal.
+  en: It looks like a question of detail, but almost everything we know about how a signal travels depends on it.
+- Ahora bien, ¿cómo se ve una neurona si el tejido es casi transparente? Ahí entra la tinción.
+  en: Now, how does one see a neuron when the tissue is almost transparent? That is where staining comes in.
+- Cajal usó la tinción con plata que había ideado Camillo Golgi, y la afinó hasta que solo se teñían unas pocas células, pero completas.
+  en: Cajal used the silver stain that Camillo Golgi had devised, and refined it until only a few cells took the dye, but whole ones.
+- Dicho en términos sencillos: la tinción marcaba pocas células a la vez, y eso era justo lo que hacía falta.
+  en: Put simply, the stain marked a few cells at a time, and that was exactly what was needed.
+- Así se podía ver la forma entera de una célula: su cuerpo, sus ramas y esa prolongación larga que hoy llamamos axón.
+  en: That made it possible to see the whole shape of a cell: its body, its branches and that long extension which we now call the axon.
+- Y ahí está lo que me emociona: el dibujo no es un esquema, es lo que el ojo vio, y tenía que convencer a otros científicos.
+  en: And that is what moves me: the drawing is not a diagram, it is what the eye saw, and it had to convince other scientists.
+- En un congreso, un dibujo se mira; una cifra se discute.
+  en: At a congress, a drawing is looked at; a figure is argued over.
+- Ustedes me dirán qué tiene que ver esto con el premio.
+  en: You will be asking what this has to do with the prize.
+- Pues tiene que ver todo, porque en 1906 Cajal y Golgi compartieron el Premio Nobel de Fisiología o Medicina.
+  en: Well, it has everything to do with it, because in 1906 Cajal and Golgi shared the Nobel Prize in Physiology or Medicine.
+- Lo compartieron, pero no compartieron la idea: Golgi seguía defendiendo su red continua, y Cajal, su doctrina de la neurona.
+  en: They shared the prize, but not the idea: Golgi went on defending his continuous network, and Cajal his neuron doctrine.
+- Sin el método de Golgi no habría habido aquellos dibujos, así que el premio es de los dos.
+  en: Without Golgi's method there would have been no such drawings, so the prize belongs to both of them.
+- Antes de seguir, les dejo una pregunta: ¿qué ocurre en el cerebro cuando recuerdan el nombre de alguien?
+  en: Before I go on, let me leave you a question: what happens in the brain when you remember someone's name?
+- Nadie lo sabe del todo, y eso es lo apasionante: cada generación encuentra lo que Cajal no pudo ver.
+  en: Nobody fully knows, and that is what is thrilling: each generation finds what Cajal could not see.
+- Cajal escribió también sobre la voluntad, sobre la atención y sobre el estudio, y dejó consejos para los jóvenes que quieren investigar.
+  en: Cajal also wrote about willpower, attention and study, and left advice for young people who want to do research.
+- Yo les daría un consejo que no viene de él: miren antes de explicar.
+  en: I would give you a piece of advice that does not come from him: look before you explain.
+- Miren, por ejemplo, las células de Purkinje, que llevan el nombre de otro científico y que Cajal dibujó con mucho detalle.
+  en: Look, for example, at the Purkinje cells, which bear the name of another scientist and which Cajal drew in great detail.
+- Se ve una ramificación que parece un árbol de otoño sin hojas, y el dibujo está hecho para que se vea la forma, no para que quede bonito.
+  en: You can see a branching that looks like an autumn tree without leaves, and the drawing is made so that the shape can be seen, not so that it looks pretty.
+- Si me permiten una imagen, son como mariposas con las alas abiertas, y de ahí el título de esta charla, que es mío y no de Cajal.
+  en: If you will allow me an image, they look like butterflies with their wings open, and that is where the title of this talk comes from, which is mine and not Cajal's.
+- Y ahora la pregunta que me hacen siempre: ¿por qué un hombre tan riguroso dibujaba tanto?
+  en: And now the question I am always asked: why did such a rigorous man draw so much?
+- Según cuentan sus biógrafos, de joven pensó en otros caminos, y acabó estudiando Medicina.
+  en: According to his biographers, as a young man he thought of other paths, and he ended up studying medicine.
+- Para él, dibujar era una manera de estudiar, y no lo veía como algo aparte.
+  en: For him, drawing was a way of studying, and he did not see it as something separate.
+- Gracias por su atención, y perdonen que haya hablado tanto de dibujos.
+  en: Thank you for your attention, and forgive me for talking so much about drawings.
+- De niño quería ser pintor, y en cierto modo lo fue.
+  en: As a boy he wanted to be a painter, and in a way he was one.
+
+notes.en:
+1. "Buenas tardes, señoras y señores": the opening of a talk in Spain. The speaker addresses a room of strangers with ustedes, the formal plural, and the English "you" hides that choice; the formula is the same whatever the lecture is about.
+2. "Perdonen, que ahora pongo la lámina": perdonen is the ustedes form of the imperative, and the que clause gives the reason for the request. Lámina is the illustration itself; in a slide show the speaker might say diapositiva, which is also used in Spain.
+3. "con una precisión que hoy se consigue con cámaras": se consigue is the passive with se. The verb agrees with precisión, the singular subject, so the sentence says the precision is achieved, not that someone achieves it.
+4. "Hasta entonces, muchos científicos creían": the imperfect describes the belief as the state of things before Cajal's work, and it is the background for the claim that follows. The English "believed" carries the same background sense.
+5. "Cajal sostuvo lo contrario": sostener means to hold a view as true, a more exact verb than decir in a lecture. Lo contrario is the neuter article with an adjective used as a noun, and it refers to the whole idea just stated.
+6. "se tocan pero no se funden": tocarse and fundirse are the two verbs that describe contact without fusion. The English "touch but do not merge" is literal, and the difference between them is the whole argument.
+7. "Dicho en términos sencillos": the marker the speaker uses to move from the technical account to the popular one. Put simply is the English equivalent, and the lecture uses it more than once.
+8. "la tinción con plata que había ideado Camillo Golgi": había ideado is the pluperfect for an invention that came before Cajal used it. The stain is Golgi's, and the sentence keeps the credit where it belongs.
+9. "Ustedes me dirán qué tiene que ver esto": the future of anticipation, used by a speaker who expects the question from the room. It is a lecturer's device, and the English "You will be asking" keeps the same sense.
+10. "compartieron el Premio Nobel de Fisiología o Medicina": the official name of the prize, with the capital on the first word only. The next line repeats the verb on purpose: they shared the prize, and the same verb is then denied for the idea.
+11. "Golgi seguía defendiendo su red continua": seguir with the gerund says the activity went on after the moment described. Defender is the verb of argument, a view defended against another, and it is stronger than the sostener of the earlier line.
+12. "Sin el método de Golgi no habría habido aquellos dibujos": the conditional habría habido gives the result of a condition that is not met. Here sin el método de Golgi is the condition, and the English "there would have been no" is the same construction.
+13. "Nadie lo sabe del todo": lo stands for what happens in the brain, the question of the line before, and the claim is hedged by del todo. The lecturer states what is not known, which is the honest form of an expert's claim.
+14. "Según cuentan sus biógrafos": según with a plural verb names the source of a statement that the speaker does not vouch for. It is how a lecture hedges a detail it cannot check, and the next claim, about his studies, is stated plainly.
+15. "que es mío y no de Cajal": the speaker separates his own title from the scientist's words, so the audience knows who is responsible for the image. The English "which is mine and not Cajal's" is a plain statement of that difference.
+16. "en cierto modo lo fue": en cierto modo is the hedge that keeps the last claim modest. The speaker does not say that Cajal was a painter; he says that the drawings did a painter's work, and the English "in a way" keeps that limit.
+
+ex1:
+- Antes de explicar nada, miren un momento este dibujo: enseña la forma antes de que entiendan la explicación.
+  en: (to the audience) Before I explain anything, look at this drawing for a moment: it shows the shape before you understand the explanation.
+- Una explicación sin dibujo se queda en el aire, y el público lo nota enseguida.
+  en: An explanation without a drawing stays in the air, and the audience notices at once.
+- Hay preguntas que parecen de aula y que, en realidad, cambian la manera de mirar un laboratorio.
+  en: Some questions sound like classroom questions but in fact change the way you look at a laboratory.
+- No es que sus colegas no le creyeran: nadie había visto todavía lo que él estaba viendo.
+  en: It was not that his colleagues did not believe him: nobody had yet seen what he was seeing.
+- Si me permiten una pausa, respiren un momento, que el próximo dato es el más difícil de todos.
+  en: (to the audience) If you will allow me a pause, take a breath, because the next fact is the hardest of all.
+
+ex2:
+- Los dos hermanos [compartieron] la casa de sus padres hasta los veinte años.
+  en: The two brothers shared their parents' house until they were twenty.
+- Mi abuela siempre [cuenta] la misma historia del tren.
+  en: My grandmother always tells the same story about the train.
+- En aquella época, [había] una sola puerta en el pasillo.
+  en: At that time, there was only one door in the corridor.
+- [Antes] de la cena, la anfitriona nos enseñó la casa.
+  en: Before dinner, the hostess showed us round the house.
+- Ella no [tiene] pelos en la lengua.
+  en: She does not mince her words.
+
+tasks:
+- Resumen. Esta comunicación examina la contribución de Santiago Ramón y Cajal (1852–1934) al estudio del sistema nervioso a partir de sus dibujos. Frente a la idea, extendida en su tiempo, de que el tejido nervioso formaba una red continua, Cajal sostuvo que las neuronas son células separadas que se tocan sin fundirse. Para observarlas empleó la tinción con plata que había desarrollado Camillo Golgi, y la afinó para teñir pocas células de forma completa, de modo que pudiera verse su cuerpo, sus ramas y su prolongación, hoy llamada axón. Los dibujos resultantes se presentan aquí como datos y no como simples ilustraciones. La comunicación analiza, además, por qué la diferencia de interpretación con Golgi no impidió que ambos compartieran el Premio Nobel de Fisiología o Medicina en 1906, y sostiene que la observación directa sigue siendo el punto de partida de cualquier explicación sobre la transmisión de señales.
+  task.en: Turn the lecture into an abstract for the congress programme, about 150 words in Spanish: the aim, the method, the result and the conclusion, in the third person.
+  rubric.en: meaning: the neuron doctrine against the continuous network, the silver stain, the drawings as data and the 1906 prize all stay, with nothing added; register: an academic abstract, impersonal and in the present tense; structure: aim, method, result, conclusion, in that order; idiom: sostener and defender are used in their normal senses; effect: a reviewer knows what the paper claims after one reading.
+
+== 44 C2
+numeral: Lección cuarenta y cuatro
+title: El estudio que no demostró nada
+title.en: The study that proved nothing
+
+dialogue:
+- Resumen.
+  en: Abstract.
+- La siesta es una costumbre extendida en algunos países mediterráneos, y se ha sugerido que mejora la memoria, aunque la evidencia disponible es escasa.
+  en: The siesta is a widespread custom in some Mediterranean countries, and it has been suggested that it improves memory, although the available evidence is scarce.
+- El objetivo de este trabajo fue comprobar si una siesta breve se asocia con un mejor recuerdo de pares de palabras.
+  en: The aim of this study was to test whether a short nap is associated with better recall of word pairs.
+- Se reclutaron sesenta y dos voluntarios sanos, de entre dieciocho y treinta y cinco años.
+  en: Sixty-two healthy volunteers, aged between eighteen and thirty-five, were recruited.
+- El protocolo fue aprobado por un comité de ética, y todos los participantes firmaron su consentimiento.
+  en: The protocol was approved by an ethics committee, and all the participants signed their consent.
+- Métodos. Los participantes se dividieron al azar en dos grupos: uno hizo una siesta de veinte minutos, y el otro permaneció despierto en una sala tranquila.
+  en: Methods. The participants were divided at random into two groups: one took a twenty-minute nap, and the other stayed awake in a quiet room.
+- La siesta se hizo en camas del mismo modelo para todos los participantes, a una temperatura de veintiún grados.
+  en: The nap took place in beds of the same model for all the participants, at a temperature of twenty-one degrees.
+- Todos aprendieron, antes del descanso, una lista de cuarenta pares de palabras.
+  en: All of them learned, before the rest period, a list of forty word pairs.
+- El grupo de la siesta fue despertado a los veinte minutos por un sonido suave.
+  en: The nap group was woken after twenty minutes by a soft sound.
+- Tres horas después, se pidió a cada participante que recordara la segunda palabra de cada par al ver la primera.
+  en: Three hours later, each participant was asked to recall the second word of each pair when shown the first.
+- Las pruebas se hicieron siempre a la misma hora del día.
+  en: The tests were always carried out at the same time of day.
+- En el análisis se excluyó a tres participantes que no completaron la prueba.
+  en: In the analysis, three participants who did not complete the test were excluded.
+- Los resultados sugieren que el grupo de la siesta recordó algunos pares más que el grupo que permaneció despierto.
+  en: The results suggest that the nap group recalled a few more pairs than the group that stayed awake.
+- La diferencia fue pequeña, y parece indicar una tendencia más que un efecto claro.
+  en: The difference was small, and it seems to indicate a trend rather than a clear effect.
+- Conviene señalar que la diferencia no alcanza la significación estadística que se exigiría para afirmar el efecto.
+  en: It should be pointed out that the difference does not reach the statistical significance that would be required to assert the effect.
+- Por otra parte, el número de participantes por grupo es reducido, y cabe pensar que las diferencias individuales pesan más de lo deseable.
+  en: On the other hand, the number of participants in each group is small, and it is reasonable to think that individual differences weigh more than is desirable.
+- No puede descartarse que la diferencia se deba al azar.
+  en: It cannot be ruled out that the difference is due to chance.
+- Tampoco puede descartarse que los participantes del grupo despierto hayan rendido peor por cansancio, dado que muchos llegaron tras una comida copiosa.
+  en: Nor can it be ruled out that the participants in the awake group performed worse because of tiredness, given that many of them arrived after a heavy lunch.
+- Estos datos no permiten concluir que la siesta mejora la memoria, aunque tampoco permiten descartarlo.
+  en: These data do not allow us to conclude that the siesta improves memory, although they do not allow us to rule it out either.
+- Se requieren más estudios, con muestras mayores y con una medición del sueño que no dependa de lo que declaran los participantes.
+  en: More studies are required, with larger samples and with a measure of sleep that does not depend on what the participants report.
+- Discusión. Los hallazgos son compatibles con la hipótesis de que una siesta breve favorece la consolidación de la memoria, si bien la evidencia actual es insuficiente para afirmarlo.
+  en: Discussion. The findings are compatible with the hypothesis that a short nap favours the consolidation of memory, although the current evidence is not enough to assert it.
+- Es posible que el efecto, de existir, dependa de la duración de la siesta y de la hora en que se toma.
+  en: It is possible that the effect, if there is one, depends on the length of the nap and on the time of day at which it is taken.
+- Los autores no pretenden extraer una conclusión práctica para quienes trabajan por la tarde.
+  en: The authors do not intend to draw a practical conclusion for people who work in the afternoon.
+- Sería prematuro recomendar la siesta como método de estudio.
+  en: It would be premature to recommend the siesta as a study method.
+- Entre las limitaciones, la principal es el tamaño de la muestra, seguida de la medición de la calidad del sueño, que no se controló.
+  en: Among the limitations, the main one is the size of the sample, followed by the measurement of sleep quality, which was not controlled.
+- Declaración de intereses: el estudio fue financiado en parte por Lecho Sereno, S. L., fabricante de las camas en las que se hizo la siesta, que no intervino en el diseño del estudio ni en el análisis de los datos.
+  en: Declaration of interests: the study was financed in part by Lecho Sereno, S. L., the manufacturer of the beds on which the nap was taken, which had no part in the design of the study or in the analysis of the data.
+
+notes.en:
+1. "Resumen": in a Spanish article this is the abstract, the short account of the study placed at the top. The word also means a summary in general, but in a journal it names that section.
+2. "se ha sugerido que mejora la memoria": the impersonal se with haber leaves the source unnamed. Nobody is said to have suggested it, and the claim is kept at the level of a suggestion. The siesta as a myth and a habit is the subject of (Foundation, lesson 82), and this article does not retell it.
+3. "Se reclutaron sesenta y dos voluntarios": the passive with se, where the verb agrees with its plural subject, voluntarios. The English "were recruited" has no agent for the same reason.
+4. "Los resultados sugieren que": the noun results is the subject, so the article says what the data point to without saying "we show". Sugerir takes que and the indicative, and it is weaker than demostrar, a verb the article never uses.
+5. "parece indicar una tendencia más que un efecto claro": parecer with an infinitive gives the impression of the data, not the fact. Indicar is a more exact verb than sugerir here, and the English "it seems to indicate" keeps the hedge.
+6. "Conviene señalar que": convenir is used impersonally for what is advisable. The formula introduces a caveat the reader must not skip, and the English "It should be pointed out" is the same move.
+7. "que se exigiría para afirmar el efecto": the conditional exigiría gives the standard that a rule would set, and the passive se leaves the agent out. Afirmar is stronger than sugerir, and the article keeps the two apart.
+8. "cabe pensar que": caber here means it is reasonable or possible. The subject is the clause that follows, so no one has to say "I think", which is the noun style of the article.
+9. "No puede descartarse que": the impersonal passive with se and poder. The subject is the clause, and the English "cannot be ruled out" is the same passive.
+10. "dado que muchos llegaron tras una comida copiosa": dado que is a formal causal connector, with the indicative after it. It states the reason as a fact, which is why the sentence can say so without hedging.
+11. "no permiten concluir que la siesta mejora la memoria": permitir takes an infinitive, and the data are the subject. The article does not reject the claim outright; it says that the data do not allow the conclusion.
+12. "de existir": a conditional phrase with de and an infinitive, common in formal writing. The English "if there is one" keeps the same condition, and the sentence allows for the effect not being there at all.
+13. "Se requieren más estudios": requerir with se is passive, so the verb is plural to agree with estudios. A singular "se requiere más estudio" would be wrong.
+14. "Sería prematuro recomendar": the conditional states a judgement about the present, and the adjective prematuro is a standard way to close a discussion without a flat "no".
+15. "Declaración de intereses": the heading for a statement of conflicts of interest, placed at the end of a Spanish article. The English "Declaration of interests" is the same heading, with the same position.
+16. "S. L.": the abbreviation of sociedad limitada, the usual form for a Spanish private limited company. The English "Ltd" is its equivalent, and the full form is written out in the company's name.
+17. "fabricante de las camas en las que se hizo la siesta": the relative with a preposition, en las que, is the form the English "on which" needs. The last line keeps the register of the article to the end: a formal disclosure in the same hedged noun style.
+
+ex1:
+- Los autores son prudentes: dicen que los resultados sugieren algo, y no que lo prueban.
+  en: The authors are cautious: they say the results suggest something, not that they prove it.
+- Parece tratarse de un efecto pequeño, aunque no puede descartarse que sea fruto del azar.
+  en: It seems to be a small effect, although it cannot be ruled out that it is a matter of chance.
+- La muestra es reducida, de modo que se requieren más estudios antes de sacar conclusiones prácticas.
+  en: The sample is small, so more studies are required before any practical conclusions are drawn.
+- De existir un efecto, dependería de la duración de la siesta.
+  en: If there is an effect, it would depend on how long the nap lasts.
+- Estos datos no permiten recomendar la siesta a los estudiantes antes de un examen.
+  en: These data do not allow the siesta to be recommended to students before an exam.
+
+ex2:
+- Los resultados [sugieren] que la siesta podría ayudar.
+  en: The results suggest that the siesta might help.
+- La diferencia es pequeña, y [parece] indicar una tendencia.
+  en: The difference is small, and it seems to indicate a trend.
+- [Cabe] pensar que la muestra era demasiado pequeña.
+  en: It is reasonable to think that the sample was too small.
+- Se [requieren] más estudios antes de recomendar nada.
+  en: More studies are required before recommending anything.
+- Dado [que] muchos llegaron cansados, la comparación es difícil.
+  en: Given that many arrived tired, the comparison is difficult.
+
+tasks:
+- Primera versión: La siesta mejora la memoria, según un nuevo estudio. Los participantes que durmieron recordaron mucho más, y los expertos confirman que el efecto es claro. Se demuestra que la siesta es la mejor manera de estudiar. Corrección: Un estudio pequeño sugiere que una siesta breve podría favorecer el recuerdo de pares de palabras. La diferencia fue leve y no alcanza la significación estadística. Los autores advierten de que se requieren más estudios antes de hacer recomendaciones.
+  task.en: Write a press release of about 90 words, as a press office would send it to a newspaper, on the results of the study. Then correct it: rewrite the same release with its exaggerations removed, so that each claim matches what the article says.
+  rubric.en: meaning: the nap group's slight advantage, the small difference, the missing significance and the need for more studies all stay, with nothing added; register: formal press Spanish, in the third person, with no first person; structure: the finding first, then the caveats, then the call for more research; idiom: sugerir, no alcanzar la significación and se requieren are used in their normal senses; effect: a journalist cannot turn the release into a headline that the study does not support.
+
+== 45 C2
+numeral: Lección cuarenta y cinco
+title: El plural de modestia
+title.en: The plural of modesty
+
+dialogue:
+- Quien lea un artículo académico en español encontrará muy pocos pronombres de primera persona del singular.
+  en: Anyone who reads an academic article in Spanish will find very few first-person singular pronouns.
+- En su lugar aparecen el nosotros, las formas impersonales y la pasiva refleja, que dejan al autor fuera de la frase.
+  en: In their place there are the we, impersonal forms and the reflexive passive, which leave the author out of the sentence.
+- En inglés, el autor suele escribir I con naturalidad, y el lector sabe quién afirma cada cosa.
+  en: In English, the author usually writes "I" without any fuss, and the reader knows who claims each thing.
+- En español, la misma frase suele sonar a presunción, y el autor prefiere borrarse para que el argumento hable por sí mismo.
+  en: In Spanish, the same sentence often sounds like boasting, so the author prefers to erase himself and let the argument speak for itself.
+- Este es el primer recurso: el plural de modestia.
+  en: This is the first resource: the plural of modesty.
+- Consiste en usar el nosotros para hablar de una sola persona, y el lector no tiene por qué saberlo.
+  en: It consists of using we to speak of one person alone, and the reader has no need to know it.
+- Así, «creemos que el argumento es sólido» es, en realidad, la opinión de quien escribe, con el tono de un consenso.
+  en: So "we believe the argument is sound" is, in reality, the opinion of the writer, in the tone of a consensus.
+- Conviene distinguir este nosotros del de la familia, que sí incluye a alguien más: «¿Nos vamos ya?».
+  en: It is worth distinguishing this we from the we of the family, which does include someone else: "Shall we go now?"
+- El nosotros académico es también el de las ponencias: «hemos comprobado» suena más serio que «comprobé».
+  en: The academic we is also the one of conference papers: "we have checked" sounds more serious than "I checked".
+- Hay una razón práctica: el autor nombra el trabajo, no a la persona que lo hizo.
+  en: There is a practical reason: the author names the work, not the person who did it.
+- Segundo recurso: la pasiva refleja, que pone el verbo en el centro y deja la acción sin agente expreso.
+  en: Second resource: the reflexive passive, which puts the verb at the centre and leaves the action without a stated agent.
+- Se recogieron las muestras en tres ciudades, se codificaron las respuestas y se analizaron con un programa estadístico.
+  en: The samples were collected in three cities, the answers were coded, and they were analysed with a statistical programme.
+- Ninguna de estas frases dice quién recogió las muestras, y el lector no necesita saberlo para evaluar el método.
+  en: None of these sentences says who collected the samples, and the reader does not need to know it in order to assess the method.
+- Tercer recurso: el impersonal con se, que describe lo que se hace sin nombrar a nadie.
+  en: Third resource: the impersonal se, which describes what is done without naming anyone.
+- Conviene distinguir: en «se recogieron las muestras» el verbo concuerda con las muestras, mientras que en «se trabaja mucho» va en singular, porque no tiene sujeto.
+  en: Note the difference: in "the samples were collected" the verb agrees with the samples, whereas in "much work is done" it is singular, because it has no subject.
+- Se entiende que un método es válido si puede repetirse en otro contexto.
+  en: It is understood that a method is valid if it can be repeated in another context.
+- El problema no es una cuestión de vanidad, sino de estilo.
+  en: The problem is not one of vanity, but of style.
+- Cuarto recurso: el estilo nominal, que convierte las acciones en sustantivos: la recogida de muestras, el análisis de los datos, la discusión de los resultados.
+  en: Fourth resource: the noun style, which turns actions into nouns: the collection of samples, the analysis of the data, the discussion of the results.
+- Con ello, el texto gana densidad y pierde personas: nadie recoge, nadie analiza, y solo quedan la recogida y el análisis.
+  en: With this, the text gains density and loses people: nobody collects, nobody analyses, and only the collection and the analysis remain.
+- El inglés académico hace algo parecido, aunque con menos frecuencia y con más verbos.
+  en: English academic writing does something similar, though less often and with more verbs.
+- En español, la nominalización es casi una marca de la prosa científica, y conviene no abusar de ella.
+  en: In Spanish, nominalisation is almost a mark of scientific prose, and it is wise not to overuse it.
+- Hay quien cree que un texto científico no puede prescindir de los verbos personales.
+  en: Some people think that a scientific text cannot do without personal verbs.
+- Dudamos de ello, pero es verdad que la densidad sin personas cansa al lector.
+  en: We doubt it, but it is true that density without people wears the reader down.
+- Para verlo, tomemos un párrafo escrito en primera persona: «Yo recogí las muestras en tres ciudades, las codifiqué y las analicé con un programa estadístico».
+  en: To see it, let us take a paragraph written in the first person: "I collected the samples in three cities, coded them and analysed them with a statistical programme".
+- Pasado al estilo académico, queda así: se recogieron las muestras en tres ciudades, se codificaron y se analizaron con un programa estadístico.
+  en: In academic style, it becomes: the samples were collected in three cities, coded and analysed with a statistical programme.
+- Pierde a la persona, pero no pierde nada del método.
+  en: It loses the person, but it loses nothing of the method.
+- Lo que el lector necesita saber sigue ahí; lo único que desaparece es la vanidad, o la sospecha de ella.
+  en: What the reader needs to know is still there; the only thing that disappears is the vanity, or the suspicion of it.
+- Quizá por eso la modestia académica resulta tan persuasiva: parece que nadie habla, y sin embargo alguien ha decidido cada palabra.
+  en: Perhaps that is why academic modesty is so persuasive: it seems that nobody is speaking, and yet someone has decided every word.
+- Este ensayo ha intentado mostrarlo con sus propias frases.
+  en: This essay has tried to show it with its own sentences.
+- Creemos haberlo demostrado.
+  en: We believe we have shown it.
+
+notes.en:
+1. "En inglés, el autor suele escribir I": soler with an infinitive means that something is usual, not always the case. The essay says suele where it could say siempre, which keeps the claim about English true.
+2. "«creemos que el argumento es sólido»": creemos is the nosotros form of creer. The quoted sentence is what one writer says in the voice of a group, and the verb agrees with the plural, so the writer stays unnamed.
+3. "el de la familia": the family we includes the speaker and somebody else. In «¿Nos vamos ya?» the listener is part of the action, which the academic we does not do.
+4. "«hemos comprobado» suena más serio que «comprobé»": the perfect hemos comprobado keeps the result present in the text, while the preterite comprobé places the act in the past and names the person who did it.
+5. "la pasiva refleja": se with a transitive verb and a plural subject. The verb agrees with the subject, not with se, and the English "were collected" has the same structure with a passive verb.
+6. "se recogieron las muestras": the plural verb recogieron agrees with muestras, which is the subject. If the sentence had a singular noun, the verb would be singular too.
+7. "se trabaja mucho": the impersonal se with an intransitive verb has no subject, so the verb stays singular. The grammar of this form is taught in (Foundation, lesson 59), and the essay uses it for the same effect.
+8. "Se entiende que un método es válido": the impersonal se with entender. The subject is the clause that follows, and nobody is named as the one who understands.
+9. "no es una cuestión de vanidad, sino de estilo": no ... sino contrasts a negation with its correction. The first part is refused and the second is put in its place, so the sino must come after a negative clause.
+10. "el estilo nominal": verbs turned into nouns, as in la recogida de muestras. The English "the collection of samples" makes the same move, and both languages use it in scientific prose.
+11. "nadie recoge, nadie analiza": nadie takes a singular verb even when the sentence means many people. The two short clauses describe what the nominal style does to the text.
+12. "Hay quien cree que": hay quien means some people, and the phrase takes the indicative after cree. The writer answers an opinion that nobody is named as holding.
+13. "«Yo recogí las muestras ... las codifiqué»": the first-person example that the essay turns into the academic version. Codifiqué keeps the spelling change of codificar before e, from c to qu.
+14. "Pasado al estilo académico, queda así": pasar al estilo is the way to say a text is translated into a style. The English "In academic style, it becomes" keeps the change of form without the change of meaning.
+15. "Quizá por eso la modestia académica resulta tan persuasiva": quizá often takes the indicative, as here, when the speaker thinks it probable. The hedge is in the adverb, so the verb can be stated without a second hedge.
+16. "Creemos haberlo demostrado": the clitic lo goes with the infinitive haber, so the pronoun comes before the auxiliary in the compound. The plural we returns to close the essay in the voice it has used throughout, and the English "We believe we have shown it" keeps the modest claim.
+
+ex1:
+- Este capítulo presenta los datos de la encuesta y propone una lectura de ellos.
+  en: This chapter presents the survey data and proposes a reading of them.
+- Los datos se presentan en la tabla siguiente, y no es necesario repetirlos aquí.
+  en: The data are presented in the table below, and there is no need to repeat them here.
+- Hemos revisado la bibliografía y, a nuestro juicio, la hipótesis carece de apoyo sólido.
+  en: We have reviewed the literature and, in our view, the hypothesis lacks solid support.
+- Se trabaja con cautela en un campo donde nadie tiene la última palabra.
+  en: Work proceeds with caution in a field where nobody has the last word.
+- Puede objetarse que la muestra es pequeña, aunque se ha intentado compensarlo.
+  en: It may be objected that the sample is small, although an attempt has been made to offset this.
+
+ex2:
+- Damos [por] supuesto que el lector conoce el método.
+  en: We take it for granted that the reader knows the method.
+- Esa conclusión no [tiene] sentido con estos datos.
+  en: That conclusion does not make sense with these data.
+- A [falta] de datos más claros, no podemos decidir.
+  en: For lack of clearer data, we cannot decide.
+- No es una cuestión de vanidad, sino de [estilo].
+  en: It is not a matter of vanity, but of style.
+- El texto gana [densidad] y pierde personas.
+  en: The text gains density and loses people.
+
+tasks:
+- Se diseñó una encuesta de veinte preguntas, que se distribuyó en tres centros de mayores de la ciudad. Se obtuvieron ciento doce respuestas válidas, que se codificaron y se analizaron con un programa estadístico. Como se observa en la tabla 2, la mayoría de los participantes declara leer a diario, aunque la diferencia entre grupos es pequeña. Creemos que el resultado merece una replicación con una muestra más amplia, pues el estudio no puede generalizarse sin reservas.
+  task.en: Write a paragraph of about 80 words in academic Spanish, describing a survey you carried out: the design, the distribution, the answers, the result and a cautious conclusion. Use nosotros, the impersonal se and the passive with se, and do not use yo.
+  rubric.en: meaning: the survey, its distribution, the valid answers, the small difference and the call for replication all stay, with nothing added beyond what the paragraph states; register: formal academic Spanish with no yo; structure: method first, then result, then the cautious conclusion; idiom: se observa, creemos que and no puede generalizarse are used in their normal senses; effect: the reader trusts the account because no sentence claims more than the data show.
+
+== 46 C2
+numeral: Lección cuarenta y seis
+title: La defensa
+title.en: The defence
+
+dialogue:
+- Presidente: Buenos días. Se abre el acto de defensa de la tesis doctoral de doña Irene Salcedo Mora, titulada «La masa frita: historia social del churro». Dispone de veinte minutos para exponer su trabajo.
+  en: Good morning. The defence of the doctoral thesis of Doña Irene Salcedo Mora, entitled "The fried dough: a social history of the churro", is now open. You have twenty minutes to present your work.
+- Irene: Muchas gracias, señor presidente. Quiero agradecer al tribunal su tiempo y a mi directora, la profesora Gloria Ferrández, su paciencia con mis capítulos más largos.
+  en: Thank you very much, Mr President. I want to thank the tribunal for its time, and my supervisor, Professor Gloria Ferrández, for her patience with my longest chapters.
+- Presidente: Adelante, cuando quiera.
+  en: Go ahead, whenever you are ready.
+- Irene: Empiezo por la pregunta que me hizo cambiar de tema: ¿por qué una masa tan sencilla tiene tantas historias?
+  en: I will begin with the question that made me change my subject: why does such a simple dough have so many stories?
+- Secretario: Perdone, doctoranda, antes de que empiece le recuerdo que en esta sala no se come, y que las bebidas deben quedarse fuera.
+  en: Excuse me, candidate, before you start I must remind you that food is not eaten in this room, and that drinks must stay outside.
+- Irene: Tomo nota, señor secretario. La tesis tiene cinco capítulos, y cada uno responde a una de las preguntas que me hice al principio.
+  en: Noted, Mr Secretary. The thesis has five chapters, and each one answers one of the questions I asked myself at the start.
+- Vocal: Antes de seguir, ¿alguien más ha notado un olor a aceite en el pasillo?
+  en: Before we go on, has anyone else noticed a smell of oil in the corridor?
+- Irene: Será la cafetería de abajo, señora vocal. Yo no he traído nada.
+  en: It will be the café downstairs, madam. I have brought nothing.
+- Vocal: Pues volvamos al segundo capítulo, que cuenta la historia de los pastores que freían la masa en la sierra. ¿Es una fuente o una leyenda?
+  en: Then let us go back to the second chapter, which tells the story of the shepherds who fried the dough in the mountains. Is it a source or a legend?
+- Irene: Es una leyenda, y así lo digo en el texto. La cuentan muchas familias, pero ningún documento la confirma.
+  en: It is a legend, and I say so in the text. Many families tell it, but no document confirms it.
+- Vocal: Entonces, ¿por qué la incluye?
+  en: Then why do you include it?
+- Irene: Porque la leyenda dice algo cierto sobre cómo se quería el churro: barato, caliente y para comer de pie.
+  en: Because the legend says something true about how people wanted the churro: cheap, hot, and to be eaten standing up.
+- Presidente: Me gusta esa respuesta. ¿Qué papel tienen en su trabajo las entrevistas?
+  en: I like that answer. What part do the interviews play in your work?
+- Irene: Son el capítulo más difícil, porque la memoria de cada persona cambia y las versiones no siempre coinciden.
+  en: They are the hardest chapter, because each person's memory changes and the versions do not always agree.
+- Vocal: Esa es la objeción que esperaba. ¿Cómo distingue el recuerdo del dato?
+  en: That is the objection I was expecting. How do you tell a memory from a fact?
+- Irene: Contrasto cada entrevista con la prensa de la época y con los recetarios, y lo que no aparece en esas fuentes queda fuera del argumento.
+  en: I cross-check each interview with the press of the time and with the cookery books, and anything that does not appear in those sources is left out of the argument.
+- Secretario: Una cuestión de procedimiento: ¿cuántas entrevistas hay en el anexo?
+  en: A point of procedure: how many interviews are there in the appendix?
+- Irene: Cuarenta y una, señor secretario, todas transcritas y con el consentimiento firmado de cada persona.
+  en: Forty-one, Mr Secretary, all transcribed and with the signed consent of each person.
+- Presidente: Eso se nota en el anexo.
+  en: That shows in the appendix.
+- Secretario: Gracias. Y de esas, ¿cuántas le sirven para algo más que una anécdota?
+  en: Thank you. And of those, how many are useful for more than an anecdote?
+- Irene: Doce. Son las que sostienen el tercer capítulo; el resto ilustra, pero no demuestra.
+  en: Twelve. They are the ones that hold up the third chapter; the rest illustrates, but does not prove.
+- Vocal: Una objeción más: su conclusión dice que la masa cambió de nombre según la ciudad. ¿Qué ciudades estudia?
+  en: One more objection: your conclusion says that the dough changed its name according to the city. Which cities do you study?
+- Irene: Madrid, Sevilla y Valencia, porque es donde encontré la prensa más completa de la época.
+  en: Madrid, Seville and Valencia, because that is where I found the most complete press of the period.
+- Secretario: Una cosa más, doctoranda: en la bibliografía aparece un libro que no encuentro en el catálogo. ¿Me lo puede indicar?
+  en: One thing more, candidate: the bibliography lists a book that I cannot find in the catalogue. Could you point it out to me?
+- Irene: Lo cito con la signatura que tenía en el depósito; lo corregiré en la versión final.
+  en: I cite it with the shelf mark it had in the stacks; I will correct it in the final version.
+- Presidente: Hemos terminado las preguntas. Solo nos queda una cosa, y después deliberamos.
+  en: We have finished the questions. There is only one thing left, and then we deliberate.
+- Irene: Estoy a su disposición, señor presidente.
+  en: I am at your disposal, Mr President.
+- Presidente: Y una última cosa, doctora: ¿ha traído churros?
+  en: And one last thing, doctor: have you brought churros?
+
+notes.en:
+1. "Se abre el acto de defensa": the passive with se, in the formal opening of an academic act. The title of the thesis stays in Spanish quotation marks, and English uses its own quotation marks for the same job.
+2. "Dispone de veinte minutos": disponer de means to have something available, and it is the formal verb for a time allowance. The English "You have twenty minutes" is plainer, and the register is the tribunal's.
+3. "señor presidente" and "la profesora Gloria Ferrández": the candidate addresses the tribunal with usted. Spanish speech calls doctor and doctora mostly medical doctors, so an academic is called profesor or profesora in the room, and Dr. or Dra. belongs to writing.
+4. "Tomo nota": the formula for accepting a remark without arguing. It does not say that the point is right, only that it has been heard, which is what the English "Noted" says.
+5. "¿alguien más ha notado un olor a aceite en el pasillo?": the perfect for an action with a present result, in a question about what people have noticed now. The vocal asks the room, so the question is open to anyone.
+6. "Será la cafetería de abajo": the future of probability, used for a guess about the present. Será means "it will probably be" in English, and the candidate is guessing, not stating a fact.
+7. "volvamos al segundo capítulo": the first person plural of the subjunctive used as an exhortation, "let us go back". It is the normal form for a chair who moves a discussion along.
+8. "La cuentan muchas familias": the verb has an unstated subject, the people who tell the story, and the sentence leaves them unnamed. The legend is described as told, not as documented.
+9. "Porque la leyenda dice algo cierto": decir takes an object that is a claim, and algo cierto is the claim the candidate defends. The English "says something true" keeps the same sense.
+10. "Me gusta esa respuesta": gustar turned round, with the answer as the subject and the speaker as the one pleased. The English "I like that answer" has the same subject order.
+11. "Esa es la objeción que esperaba": the imperfect esperaba describes what the vocal had expected before the answer came, and the English "was expecting" is the same tense.
+12. "Contrasto cada entrevista": contrastar means to check one source against another, a more exact verb than comparar. The English "cross-check" is the same act.
+13. "el resto ilustra, pero no demuestra": ilustrar and demostrar are the two verbs of a good argument. An example illustrates a point, and only a proof demonstrates it, so the candidate is precise about what each part of the thesis does.
+14. "Hemos terminado las preguntas": the formula that closes the questions. Deliberamos follows it, and the English "we deliberate" is the same formal step before the decision.
+15. "la signatura que tenía en el depósito": the signatura is the shelf mark of a book in a library, and the depósito is the store where it is kept. The English "shelf mark" is the same term.
+16. "Y una última cosa, doctora: ¿ha traído churros?": the perfect ha traído is for a thing still present in the room. The phrase Y una última cosa is the formal way to introduce a final question, and the question closes the defence.
+
+ex1:
+- Señor presidente, agradezco al tribunal sus preguntas y su paciencia con una versión tan larga.
+  en: Mr President, I thank the tribunal for its questions and its patience with such a long version.
+- Su objeción es justa, y la contestaré con los documentos del archivo.
+  en: (to the tribunal member) Your objection is fair, and I will answer it with the documents from the archive.
+- Si la leyenda no tiene fuentes, ¿por qué sigue viva en las familias?
+  en: If the legend has no sources, why does it still live on in families?
+- Hemos llegado al final de las preguntas, así que el tribunal se retira a deliberar.
+  en: We have come to the end of the questions, so the tribunal withdraws to deliberate.
+- Sostengo que la masa cambió de nombre según la ciudad, aunque no lo demuestro en todos los casos.
+  en: I maintain that the dough changed its name according to the city, although I do not prove it in every case.
+
+ex2:
+- Quiero [agradecer] a mi familia su paciencia en estos años.
+  en: I want to thank my family for their patience over these years.
+- Su respuesta me [ha] dado mucho que pensar.
+  en: Your answer has given me a lot to think about.
+- Me [pregunto] si el tribunal ha leído el anexo.
+  en: I wonder whether the tribunal has read the appendix.
+- Las entrevistas están [transcritas] en el anexo.
+  en: The interviews are transcribed in the appendix.
+- Ya es tarde, así que el tribunal [deliberará] en privado.
+  en: It is late, so the tribunal will deliberate in private.
+
+tasks:
+- Pregunta: ¿Por qué no incluye en el estudio a las familias que nunca compraron churros en la calle? Respuesta: Porque no encontré entrevistas ni documentos que me permitieran hablar de ellas sin suponer. Prefiero dejarlas fuera a inventar lo que no sé. Pregunta: ¿No corre el riesgo de confundir la popularidad de un plato con su historia? Respuesta: Sí, es un riesgo que señalo en la introducción. Por eso separo lo que dice la prensa de lo que recuerda la gente.
+  task.en: Write two hard questions the tribunal could put to the candidate about the thesis, and answer each one as the candidate would, in formal Spanish, about 100 words in total.
+  rubric.en: meaning: the candidate's answers stay within what the thesis has said, with nothing new added; register: the tribunal's questions in usted, the answers in usted as well; structure: question, then answer, twice; idiom: prefiero dejarlas fuera and separo lo que dice are used in their normal senses; effect: each question is hard, and each answer concedes the risk before the tribunal can press it.
+
+== 47 C2
+numeral: Lección cuarenta y siete
+title: ¿A qué altura está Madrid?
+title.en: How high is Madrid?
+
+dialogue:
+- ¿A qué altura está Madrid? La pregunta parece tonta, pero tiene respuesta.
+  en: How high is Madrid? The question sounds silly, but it has an answer.
+- Lo primero que hay que saber es que la altura no se mide desde cualquier punto del suelo.
+  en: The first thing to know is that height is not measured from just any point on the ground.
+- En España, las alturas se miden desde el nivel medio del mar, y el punto de referencia está en Alicante.
+  en: In Spain, heights are measured from mean sea level, and the reference point is at Alicante.
+- Allí hay un mareógrafo, un aparato que registra durante años la subida y la bajada del mar, y de esos datos sale una media.
+  en: There is a tide gauge there, an instrument that records the rise and fall of the sea over many years, and an average comes out of those data.
+- Esa media, conocida como nivel medio del mar en Alicante, es el cero desde el que se cuentan las alturas del país.
+  en: That average, known as the mean sea level at Alicante, is the zero from which the heights of the country are counted.
+- Con ese criterio, Madrid está a unos seiscientos cincuenta metros sobre el mar.
+  en: On that basis, Madrid lies about six hundred and fifty metres above the sea.
+- Para quien llega de la costa, el cambio se nota: Madrid está en la meseta, y la meseta es un terreno elevado.
+  en: For anyone who arrives from the coast, the change shows: Madrid is on the plateau, and the plateau is high ground.
+- La meseta, en efecto, es una gran llanura elevada en el centro del país, y eso explica muchas cosas del clima, desde los inviernos fríos hasta los veranos secos.
+  en: The plateau, in fact, is a large raised plain in the centre of the country, and that explains many things about the climate, from cold winters to dry summers.
+- Ahora bien, no todas las cumbres de España están en la meseta.
+  en: Now, not all the peaks of Spain are on the plateau.
+- El punto más alto del país es el Teide, en Tenerife, que supera los tres mil setecientos metros.
+  en: The highest point in Spain is the Teide, on Tenerife, which rises above three thousand seven hundred metres.
+- Es un volcán, y muchos visitantes llegan hasta cerca de su cima en teleférico.
+  en: It is a volcano, and many visitors go up almost to its summit by cable car.
+- Lo que no todos saben es que el Teide no está en la península, sino en una isla del Atlántico.
+  en: What not everyone knows is that the Teide is not on the peninsula, but on an island in the Atlantic.
+- En la península, la cumbre más alta es el Mulhacén, en Sierra Nevada, cerca de Granada.
+  en: On the peninsula, the highest peak is the Mulhacén, in the Sierra Nevada, near Granada.
+- Hay, pues, dos respuestas, según lo que se entienda por España.
+  en: So there are two answers, depending on what is meant by Spain.
+- Y ahora la pregunta que siempre sale en clase: ¿y las distancias? ¿Desde dónde se cuentan?
+  en: And now the question that always comes up in class: and the distances? Where are they counted from?
+- Las carreteras que salen de Madrid cuentan sus kilómetros desde un punto de la ciudad, no desde el mar.
+  en: The roads that leave Madrid count their kilometres from a point in the city, not from the sea.
+- Ese punto es el kilómetro cero, y está en la Puerta del Sol, donde una placa lo señala.
+  en: That point is kilometre zero, and it is in the Puerta del Sol, where a plaque marks it.
+- Así que la ciudad es el origen de las distancias, pero no el de las alturas.
+  en: So the city is the origin of distances, but not of heights.
+- La contradicción es solo aparente: las distancias se miden sobre el terreno, y las alturas, sobre el mar.
+  en: The contradiction is only apparent: distances are measured along the ground, and heights are measured from the sea.
+- Una carretera que sube a la sierra cuenta kilómetros desde Madrid, y la altura que alcanza se cuenta desde Alicante.
+  en: A road that climbs into the sierra counts its kilometres from Madrid, and the height it reaches is counted from Alicante.
+- Dos sistemas, dos orígenes, y ninguno de los dos es el que elegiría la lógica cotidiana.
+  en: Two systems, two origins, and neither of them is the one that everyday logic would choose.
+- Si pregunta cuántos kilómetros hay hasta una ciudad vecina por carretera, la cuenta empieza en Madrid.
+  en: If you ask how many kilometres it is to a neighbouring city by road, the count starts in Madrid.
+- Pero si pregunta a qué altura está esa ciudad, la respuesta se calcula desde el mar en Alicante.
+  en: But if you ask how high that city is, the answer is calculated from the sea at Alicante.
+- Esta mezcla de puntos de partida confunde a muchos visitantes extranjeros, y no sin razón.
+  en: This mix of starting points confuses many foreign visitors, and not without reason.
+- Conviene recordar que una referencia no es mejor que otra: son acuerdos, y cada acuerdo tiene su historia.
+  en: It is worth remembering that one reference is no better than another: they are agreements, and each agreement has its history.
+- Madrid es el cero de las carreteras, pero su altura se cuenta desde Alicante.
+  en: Madrid is zero for the roads, but its height is counted from Alicante.
+
+notes.en:
+1. "¿A qué altura está Madrid?": the question asks for a height with a qué altura, and estar is used for a place's position. The English "How high is Madrid?" is the same question, and the answer depends on the reference.
+2. "La pregunta parece tonta, pero tiene respuesta": parecer with an adjective gives the impression, and tener respuesta means the question can be answered. The contrast with pero shows that the first impression is wrong.
+3. "las alturas se miden desde el nivel medio del mar": the passive with se, where the verb agrees with its plural subject, las alturas. The English "heights are measured" uses the same plural.
+4. "un aparato que registra durante años la subida y la bajada del mar": registrar means to record, and durante años gives the length of the process. Subida and bajada are a pair, and the English "rise and fall" is the same pair.
+5. "de esos datos sale una media": salir with a result gives what comes out of the data. The English "an average comes out of those data" keeps the verb of result, not the verb of calculation.
+6. "Para quien llega de la costa, el cambio se nota": para quien means for whoever, and the sentence speaks to the reader without naming them. Se nota is "shows", as the change is noticed by the one who arrives.
+7. "La meseta, en efecto, es una gran llanura elevada": en efecto confirms a point already made, and it is more formal than es verdad. The English "in fact" keeps the same confirming force.
+8. "Ahora bien, no todas las cumbres de España": ahora bien introduces a qualification of the point before, and it is more formal than pero. The Teide is the subject of (Perfectionnement, lesson 30).
+9. "que supera los tres mil setecientos metros": supera means exceeds, and the figure is written in words. The English "rises above" is the same verb of height.
+10. "el Teide no está en la península, sino en una isla del Atlántico": the negation with sino, a correction that is put in place of the first claim. The English "not ... but" is the same construction.
+11. "la cumbre más alta es el Mulhacén": the highest peak on the peninsula. The mountain is already described in (Perfectionnement, lesson 4), and the note here only places it in the count.
+12. "según lo que se entienda por España": según with the subjunctive se entienda, because the meaning of Spain depends on what the speaker takes it to be. The English "depending on what is meant by Spain" makes the same choice.
+13. "las carreteras que salen de Madrid cuentan sus kilómetros": contar with kilómetros means to count them, and the roads are the subject. The English "count their kilometres" is literal.
+14. "Ese punto es el kilómetro cero": the zero point of the road distances, which is described in (Perfectionnement, lesson 64, note 2). Here the note names it only as the start of the count.
+15. "La contradicción es solo aparente": solo without an accent, and aparente means that it seems so and is not. The English "only apparent" is the same adjective.
+16. "Si pregunta cuántos kilómetros hay": pregunta with usted for a general reader, and the sentence turns the reader into the one asking. The conditional clause with si takes the present, as in Spanish grammar generally.
+17. "Conviene recordar que una referencia no es mejor que otra": convenir with an infinitive is the formal way to advise a reader. The contrast between one reference and another is stated as a general point.
+18. "pero su altura se cuenta desde Alicante": the last sentence joins the two counts with pero, the contrast the whole text has prepared. The English "but" keeps the same link.
+
+ex1:
+- Si mide usted desde la calle, obtiene una altura distinta de la que da el mar.
+  en: If you measure from the street, you get a different height from the one the sea gives.
+- La altura de una ciudad depende de un acuerdo sobre el punto de partida, y no solo de la montaña.
+  en: A city's height depends on an agreement about the starting point, and not only on the mountain.
+- Sin el nivel del mar como referencia, no podríamos comparar la altura de dos lugares.
+  en: Without sea level as a reference, we could not compare the height of two places.
+- Los kilómetros que marca una señal de carretera parten de un punto que todo el mundo conoce.
+  en: The kilometres on a road sign start from a point that everybody knows.
+- Un buen mapa muestra a la vez la distancia y el relieve, aunque cada una se mide de forma distinta.
+  en: A good map shows distance and relief at the same time, although each is measured in a different way.
+
+ex2:
+- La ciudad está a unos seiscientos metros [sobre] el nivel del mar.
+  en: The city is about six hundred metres above sea level.
+- Hay que [tener] en cuenta el punto de partida.
+  en: The starting point has to be taken into account.
+- [Ahora] bien, eso depende de quién pregunte.
+  en: Now, that depends on who is asking.
+- [Por] comodidad, se eligió ese punto.
+  en: For convenience, that point was chosen.
+- El cálculo se hizo [a] ojo.
+  en: The estimate was made by eye.
+
+tasks:
+- ¿Por qué hace más frío en la montaña? La explicación es más sencilla de lo que parece. El aire se calienta sobre todo desde el suelo, que recibe la luz del sol y devuelve parte de ese calor a la atmósfera. Cuanto más alto estamos, menos aire tenemos encima, y el aire que hay se calienta menos. Por eso, al subir, la temperatura baja, y las cumbres tienen inviernos mucho más fríos que las costas.
+  task.en: Explain one idea from your own field to a non-specialist, in simple Spanish, in about 100 words. The model explains why it is colder on a mountain.
+  rubric.en: meaning: the air is warmed mainly from the ground, and less air above means less warming, with nothing added beyond the explanation; register: plain Spanish for a general reader, with usted or the impersonal; structure: the question, the simple answer, the reason, the consequence; idiom: por eso and cuanto más ... menos are used in their normal senses; effect: a reader who knows nothing about the topic can repeat the explanation at dinner.
+
+== 48 C2
+numeral: Lección cuarenta y ocho
+title: Una reseña
+title.en: A review
+
+dialogue:
+- Reseña. La tapa: historia de un pretexto, de Lorenzo Maestre Ocaña (Ediciones del Mostrador Verde).
+  en: Review. The tapa: history of a pretext, by Lorenzo Maestre Ocaña (Ediciones del Mostrador Verde).
+- Lorenzo Maestre Ocaña ha escrito un libro que se lee con gusto y que, sin embargo, pide más de lo que da en sus páginas centrales.
+  en: Lorenzo Maestre Ocaña has written a book that is a pleasure to read and yet asks more of the reader than it gives on its central pages.
+- Su punto de partida es sugerente: la tapa no sería un plato, sino una forma de retener al cliente en la barra.
+  en: Its starting point is suggestive: the tapa would not be a dish, but a way of keeping the customer at the bar.
+- La idea no es nueva, pero el autor la desarrolla con paciencia y con una documentación poco común.
+  en: The idea is not new, but the author develops it patiently and with unusually rich documentation.
+- Maestre ha consultado cartas de taberneros, listas de precios y reglamentos municipales, y esa es la mejor parte del libro.
+  en: Maestre has consulted tavern keepers' letters, price lists and municipal regulations, and that is the best part of the book.
+- Los reglamentos, sobre todo, permiten ver cómo las autoridades intentaban poner orden en el consumo de vino en la calle.
+  en: The regulations, above all, allow us to see how the authorities tried to impose order on the drinking of wine in the street.
+- En cambio, el capítulo de los orígenes resulta menos riguroso de lo que promete su título.
+  en: The chapter on origins, however, is less rigorous than its title promises.
+- Se detiene en la leyenda del vaso tapado con una rebanada, la cuenta como anécdota y después la trata como si fuera prueba.
+  en: It dwells on the legend of the glass covered with a slice, tells it as an anecdote, and then treats it as if it were evidence.
+- Es un error que el lector reconoce a la primera, y que el autor podría haber evitado con una frase sencilla: según se cuenta.
+  en: It is an error that the reader spots at once, and that the author could have avoided with a simple phrase: as the story goes.
+- El capítulo tercero empieza en una taberna de pueblo y acaba en una barra de la capital, sin explicar el salto.
+  en: The third chapter begins in a village tavern and ends at a bar in the capital, without explaining the jump.
+- La cronología, además, salta de un siglo a otro sin avisar.
+  en: The chronology, moreover, jumps from one century to another without warning.
+- La prosa es clara, sin alardes, y eso se agradece en un tema que suele vestirse de nostalgia.
+  en: The prose is clear, without showiness, and that is welcome in a subject that tends to dress itself in nostalgia.
+- Hay momentos de buena escritura, sobre todo cuando describe la barra al mediodía, con el ruido de las conversaciones y el olor de la fritura.
+  en: There are moments of good writing, above all when he describes the bar at midday, with the noise of conversations and the smell of frying.
+- Pero el tono se vuelve a veces lacrimoso, y las frases que quieren emocionar acaban sonando a folleto.
+  en: But the tone sometimes turns maudlin, and the sentences that want to move us end up sounding like a brochure.
+- Los dibujos de la portada son bonitos, pero no tienen pie de imagen.
+  en: The drawings on the cover are attractive, but they have no captions.
+- El índice de nombres es escaso, y se echa en falta una tabla de precios que el autor cita en el texto, pero no reproduce.
+  en: The index of names is thin, and one misses a table of prices that the author cites in the text but does not reproduce.
+- Habría sido útil un glosario, porque algunas palabras cambian de sentido según la ciudad.
+  en: A glossary would have been useful, because some words change their meaning from one city to another.
+- Por lo demás, las notas están bien ordenadas y remiten con precisión a las fuentes de archivo.
+  en: Otherwise, the notes are well ordered and refer precisely to the archive sources.
+- Por otra parte, la bibliografía mezcla estudios académicos con libros de divulgación sin distinguirlos, y esa mezcla desconcierta.
+  en: On the other hand, the bibliography mixes academic studies with popular books without distinguishing them, and this mix is disconcerting.
+- Para un lector que quiera empezar, es una buena puerta de entrada; para un especialista, es un libro que obliga a comprobar todas las citas.
+  en: For a reader who wants to begin, it is a good way in; for a specialist, it is a book that forces them to check every reference.
+- El conjunto es convincente en la parte que describe la vida de la barra, y discutible en la que explica su origen.
+  en: On the whole, it is convincing in the part that describes life at the bar, and debatable in the part that explains its origin.
+- Quien busque una historia definitiva de la tapa seguirá sin encontrarla; quien busque un libro que mire las barras con atención, lo encontrará.
+  en: Anyone looking for a definitive history of the tapa will still not find one; anyone looking for a book that looks at bars with attention will find it.
+- Lo que el libro propone, en el fondo, es algo sencillo: que la tapa se entienda como costumbre social antes que como plato.
+  en: What the book proposes, at bottom, is something simple: that the tapa be understood as a social custom before it is understood as a dish.
+- Esa tesis merece discusión, y el autor la ha abierto con honradez.
+  en: That thesis deserves discussion, and the author has opened it up honestly.
+- Lo recomiendo, con una advertencia: la leyenda del vaso debe leerse con un lápiz en la mano.
+  en: I recommend it, with one warning: the legend of the glass should be read with a pencil in hand.
+
+notes.en:
+1. "Reseña": the name of the genre, a critical notice of a book. The title of the book keeps its Spanish form, and "pretexto" is a pretext, a reason given for something that is really for another purpose.
+2. "un libro que se lee con gusto": leer con gusto is the evaluative formula for a pleasant reading, and the English "a pleasure to read" is a plain equivalent. Sin embargo introduces the reservation the review is building towards.
+3. "pide más de lo que da": the contrast between two verbs, pedir and dar, is the reviewer's own balance. The English "asks more of the reader than it gives" keeps the same two verbs.
+4. "La idea no es nueva, pero": a concession followed by a qualification. The reviewer grants the point before saying what is missing.
+5. "esa es la mejor parte del libro": the demonstrative esa refers to the list of sources, and the superlative names the best part. Evaluation in a review works through these short judgements.
+6. "se agradece": agradecer in the passive with se is the normal evaluative form for something welcome. The English "that is welcome" is a close match.
+7. "según se cuenta": the phrase marks a story told about a thing without a document behind it, as in (lesson 41, note 3). The review asks for the same marker here.
+8. "Es un error que el lector reconoce a la primera": a la primera means at the first attempt, or at once, and it is used of something easy to see. The English "spots at once" keeps that sense.
+9. "se echa en falta": echar en falta is the formal verb for missing something. Echar de menos is the common alternative, and both are correct, but the review keeps the more formal one.
+10. "Pero el tono se vuelve a veces lacrimoso": volverse with an adjective means that a state arrives, not that the subject changes its nature. Lacrimoso describes a tone too sentimental, and the English "maudlin" is the exact word.
+11. "remiten con precisión a las fuentes": remitir a is to refer the reader to a source. The adverb con precisión says that the reference is exact, which is the praise the reviewer gives.
+12. "libros de divulgación": popular books, written for a general reader. Divulgación is a precise term, and the review names it as the category that the bibliography has mixed up.
+13. "obliga a comprobar todas las citas": obligar a with an infinitive means that the book forces a specialist to do something. The English "forces them to check" is the same structure.
+14. "Lo que el libro propone, en el fondo, es algo sencillo": the sentence starts with lo que, and the verb ser gives the key idea after it. The English "What the book proposes is" is the same cleft.
+15. "Esa tesis merece discusión": merecer takes a noun for what is deserved, and the English "deserves discussion" keeps the same noun. The review ends its argument with a judgement the reader can take up.
+16. "Lo recomiendo, con una advertencia": the closing judgement in the first person. The warning is set against the recommendation in the same sentence, and it stays in the review's voice.
+17. "debe leerse con un lápiz en la mano": deber with a reflexive infinitive gives the sense of "should be read", with the legend as its subject. The last note is about register: this is the close of a review in plain, dry Spanish.
+
+ex1:
+- Esa cifra es discutible, pero el método está bien explicado y se puede seguir paso a paso.
+  en: That figure is debatable, but the method is well explained and can be followed step by step.
+- El libro pone todo en el mismo plano, y el lector no sabe qué es un hecho y qué es una sospecha.
+  en: The book puts everything on the same level, and the reader does not know which is a fact and which is a suspicion.
+- Se agradece el esfuerzo, aunque el resultado no esté a la altura de lo que promete el título.
+  en: The effort is welcome, although the result does not match what the title promises.
+- Un buen índice vale más que cien elogios en la contraportada.
+  en: A good index is worth more than a hundred compliments on the back cover.
+- Quien tenga prisa, que lea el capítulo final; quien tenga tiempo, que lea el libro entero.
+  en: Whoever is in a hurry should read the final chapter; whoever has time should read the whole book.
+
+ex2:
+- Se [echa] de menos un índice de nombres.
+  en: One misses an index of names.
+- Esa interpretación [merece] discusión.
+  en: That interpretation deserves discussion.
+- [En] el fondo, la obra es sencilla.
+  en: At bottom, the work is simple.
+- Con esa frase, el autor da en el [clavo].
+  en: With that sentence, the author hits the nail on the head.
+- El libro [acierta] en lo principal.
+  en: The book gets the main point right.
+
+tasks:
+- Don Quijote de la Mancha es una lectura que cuesta al principio y recompensa después. Su primera parte, publicada en 1605, tiene un ritmo irregular, con episodios que parecen añadidos sobre la marcha; la segunda, de 1615, es más compacta y más consciente de su propio éxito. Lo mejor es la relación entre el caballero y Sancho, que va cambiando hasta que casi intercambian sus ideas. Lo peor, a mi juicio, son las novelas intercaladas de la primera parte, que se hacen largas. Recomiendo leerlo con una buena edición anotada, porque muchas referencias se pierden sin ella.
+  task.en: Review a book you know well, in Spanish, in about 120 words: a short account of what it is, its strongest part, its weakest part, and a verdict for a reader. The model reviews Don Quijote.
+  rubric.en: meaning: the two parts and their dates, the relation between the knight and Sancho, the weak inserted novels and the advice on an annotated edition all stay, with nothing added that the review does not claim; register: an evaluative review in the first person, with a verdict at the end; structure: what the book is, its strength, its weakness, the verdict; idiom: cuesta al principio, a mi juicio and recomiendo leer are used in their normal senses; effect: a reader who does not know the book knows whether to start it.
+
+== 49 C2
+kind: revision
+numeral: Lección cuarenta y nueve
+title: Revisión y notas
+title.en: Revision and notes
+
+dialogue:
+- Irene: Buenos días. Abrimos las jornadas sobre el desayuno en España. Doy la palabra al señor Maestre, que habla primero, y pido a todos que terminen con sus límites.
+  en: Good morning. We open the conference on breakfast in Spain. I give the floor first to Mr Maestre, who speaks first, and I ask everyone to finish with their limits.
+  refs: 46
+- Maestre: Gracias. Mi libro sobre la tapa defendía que el plato es, sobre todo, un pretexto para quedarse en la barra. Hoy quiero llevar esa idea a la tostada.
+  en: Thank you. My book on the tapa argued that the dish is, above all, a pretext for staying at the bar. Today I want to take that idea to toast.
+  refs: 48
+- Ferrández: ¿En qué fuentes se apoya para la tostada de hace un siglo?
+  en: What sources do you rely on for the toast of a century ago?
+  refs: 46
+- Maestre: En las cartas de taberneros y en los reglamentos municipales. Los datos sugieren que la tostada servía para aguantar hasta el mediodía.
+  en: In the letters of tavern keepers and in the municipal regulations. The data suggest that toast was there to keep people going until midday.
+  refs: 44, 48
+- Ferrández: ¿Sugieren o demuestran? La diferencia entre una cosa y otra es grande.
+  en: Do they suggest or do they prove? The difference between the two is large.
+  refs: 44, 46
+- Maestre: Sugieren. Y cabe pensar que la tostada aguanta hasta el mediodía, aunque no puede descartarse que sea el café.
+  en: They suggest. And it is reasonable to think that toast keeps people going until midday, although it cannot be ruled out that it is the coffee.
+  refs: 44
+- Irene: Gracias, señor Maestre. Ahora hablo yo del desayuno de chocolate y churros. La leyenda de los pastores la cuentan muchas familias, y yo la trato como tal.
+  en: Thank you, Mr Maestre. Now it is my turn to speak about the breakfast of chocolate and churros. The legend of the shepherds is told by many families, and I treat it as such.
+  refs: 46
+- Maestre: Irene, su tesis dice que la leyenda no tiene documentos. ¿Por qué la cuenta?
+  en: Irene, your thesis says the legend has no documents. Why do you tell it?
+  refs: 46
+- Irene: Porque dice algo cierto sobre cómo se quería el churro: barato, caliente y para comer de pie.
+  en: Because it says something true about how people wanted the churro: cheap, hot, and to be eaten standing up.
+  refs: 46
+- Ferrández: Tomo nota, Irene. Sigamos con el tercer ponente, que tiene prisa.
+  en: Noted, Irene. Let us move on to the third speaker, who is in a hurry.
+  refs: 46
+- Iván: Gracias. Yo hablo de la memoria y del desayuno. Los resultados sugieren que el grupo que desayuna con calma recuerda algo más por la mañana, aunque la diferencia es pequeña.
+  en: Thank you. I speak about memory and breakfast. The results suggest that the group that has breakfast calmly remembers a little more in the morning, although the difference is small.
+  refs: 44
+- Maestre: Eso lo dice con cuidado, profesor. ¿Cuántos participantes no completaron la prueba?
+  en: You say that carefully, Professor. How many participants did not complete the test?
+  refs: 44
+- Iván: Tres, y se excluyeron del análisis.
+  en: Three, and they were excluded from the analysis.
+  refs: 44
+- Ferrández: Ha dicho «sin duda» dos veces en la diapositiva. ¿No quería decir «cabe pensar»?
+  en: You said «sin duda» twice on the slide. Did you not mean «cabe pensar»?
+  refs: 44
+- Iván: Tiene razón. Cabe pensar que el efecto se deba a algo más que el desayuno, y lo escribiré así.
+  en: You are right. It is reasonable to think that the effect is due to something more than breakfast, and I will write it that way.
+  refs: 44
+- Irene: Adelante, profesor Ruano, la pantalla está lista.
+  en: Go ahead, Professor Ruano, the screen is ready.
+  refs: 46
+- Iván: Miren, para terminar, la prueba: esto es lo que desayuné esta mañana.
+  en: Look, to finish, the proof: this is what I had for breakfast this morning.
+  refs: 43
+- Maestre: ¿Una prueba? Eso es una anécdota, no un dato.
+  en: A proof? That is an anecdote, not a fact.
+  refs: 46
+- Iván: Es una anécdota con tradición: la tostada con aceite y tomate, como dice el libro que a usted tanto le gusta.
+  en: It is an anecdote with a tradition behind it: toast with oil and tomato, as the book you like so much says.
+  refs: 46, 48
+- Maestre: Yo no escribí que sea tradición. Escribí que el plato es un pretexto.
+  en: I did not write that it is a tradition. I wrote that the dish is a pretext.
+  refs: 48
+- Ferrández: ¿Y eso es lo que usted desayuna?
+  en: And is that what you have for breakfast?
+  refs: 46
+- Iván: Es lo que desayuné esta mañana, tal como lo ven en la pantalla.
+  en: It is what I had this morning, just as you see it on the screen.
+  refs: 43
+- Irene: Pues la vemos con calma, que la pantalla es grande.
+  en: Then let us look at it calmly, the screen is big.
+  refs: 43
+- Iván: Con mantequilla, lo confieso; cabe pensar que la tradición no me perdone.
+  en: With butter, I confess; it is reasonable to think that tradition will not forgive me.
+  refs: 44
+
+notes.en:
+This week's texts are lessons 43 to 48. Each section names its lesson and quotes its lines as they stand there, so the learner can find them;
+1. The lecture (lesson 43): a speaker who guides an audience through slides asks leave, announces each step and expects the questions.
+| Form | What it does | Line from lesson 43 |
+|---|---|---|
+| dicho en términos sencillos | moves from the technical account to the plain one | Dicho en términos sencillos: la tinción marcaba pocas células a la vez, y eso era justo lo que hacía falta. |
+| si me permiten una imagen | asks leave before a comparison | Si me permiten una imagen, son como mariposas con las alas abiertas, y de ahí el título de esta charla, que es mío y no de Cajal. |
+| ustedes me dirán | expects the question of the room | Ustedes me dirán qué tiene que ver esto con el premio. |
+| miren, por ejemplo | points the audience to the drawing | Miren, por ejemplo, las células de Purkinje, que llevan el nombre de otro científico y que Cajal dibujó con mucho detalle. |
+2. The hedges (lesson 44): the article never says "we show"; each verb or phrase keeps the claim at the level it can bear.
+| Hedge | What it does | Line from lesson 44 |
+|---|---|---|
+| sugieren | the results point to something | Los resultados sugieren que el grupo de la siesta recordó algunos pares más que el grupo que permaneció despierto. |
+| parece indicar | the data give an impression | La diferencia fue pequeña, y parece indicar una tendencia más que un efecto claro. |
+| cabe pensar | a reasonable view with no "I" | cabe pensar que las diferencias individuales pesan más de lo deseable. |
+| no puede descartarse | the rival explanation stays open | No puede descartarse que la diferencia se deba al azar. |
+| se requieren más estudios | the call for more research | Se requieren más estudios, con muestras mayores y con una medición del sueño que no dependa de lo que declaran los participantes. |
+3. The defence (lesson 46): the formulas of a tribunal, in the order of the act.
+| Formula | What it does | Line from lesson 46 |
+|---|---|---|
+| se abre el acto | the formal opening | Se abre el acto de defensa de la tesis doctoral de doña Irene Salcedo Mora, titulada «La masa frita: historia social del churro». |
+| dispone de veinte minutos | the time allowed to the candidate | Dispone de veinte minutos para exponer su trabajo. |
+| tomo nota | accepts a remark without agreeing | Tomo nota, señor secretario. |
+| hemos terminado las preguntas | closes the questions before the vote | Hemos terminado las preguntas. |
+4. The impersonal and passive se, and the academic we (lesson 45): the verb agrees with a subject in one case and has none in the other.
+| Form | What it does | Line from lesson 45 |
+|---|---|---|
+| pasiva con se | the verb agrees with the plural subject | Se recogieron las muestras en tres ciudades, se codificaron las respuestas y se analizaron con un programa estadístico. |
+| impersonal con se | no subject, so the verb is singular | Se trabaja con cautela en un campo donde nadie tiene la última palabra. |
+| nosotros académico | the author hides behind the we | «hemos comprobado» suena más serio que «comprobé». |
+| the last sentence of the essay | the modest claim closes the text | Creemos haberlo demostrado. |
+5. Popular science and the review (lessons 47 and 48): a fact is marked as told, a gap is named, and a verdict is given in one line.
+| Phrase | What it does | Line from lesson 47 or 48 |
+|---|---|---|
+| según se cuenta | a story is told, not documented | Es un error que el lector reconoce a la primera, y que el autor podría haber evitado con una frase sencilla: según se cuenta. |
+| se echa en falta | what the reviewer misses | El índice de nombres es escaso, y se echa en falta una tabla de precios que el autor cita en el texto, pero no reproduce. |
+| lo que ... propone | the cleft that gives the main idea | Lo que el libro propone, en el fondo, es algo sencillo: que la tapa se entienda como costumbre social antes que como plato. |
+| conviene recordar | advice to the reader | Conviene recordar que una referencia no es mejor que otra: son acuerdos, y cada acuerdo tiene su historia. |
+
+tasks:
+- Resumen. Este trabajo presenta un estudio piloto sobre el efecto del desayuno en la memoria a corto plazo. Participaron ochenta y tres personas, repartidas al azar en dos grupos, que recordaron pares de palabras tres horas después de la prueba. Los resultados sugieren que el grupo que desayunó con calma recordó algo más, aunque la diferencia es pequeña y no alcanza la significación estadística. Cabe pensar que el efecto se deba a factores distintos del desayuno, y no puede descartarse el azar. Se requieren más estudios, con muestras mayores, antes de extraer recomendaciones prácticas.
+  task.en: Write the conference abstract for the third talk, about 90 words in Spanish: the aim, the sample, the result, the limits and the call for more research. Keep the hedges of the week, and do not claim more than the talk did.
+  rubric.en: meaning: the pilot study, the two groups, the small difference, the lack of significance and the need for more studies all stay, with nothing claimed beyond the talk; register: an abstract in the third person and the present tense, with no yo; structure: aim, sample, result, limits, call for research; idiom: sugieren, cabe pensar, no puede descartarse and se requieren are used in their normal senses; effect: a reader sees at once what was found and how far it can be trusted.
+
+aside.en:
+Tomorrow the Mastery wave begins: from lesson 50 each lesson brings back an earlier lesson of this course (lesson 50 brings back lesson 1, and so on), and you rebuild its Spanish from the English, with the same meaning, tone and effect, before you compare it with the original.

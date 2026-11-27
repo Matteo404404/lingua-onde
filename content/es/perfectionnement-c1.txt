@@ -942,3 +942,614 @@ ex2:
   en: I got him talking and he told me everything.
 - Llegó tarde, lo [cual] molestó a todos.
   en: He arrived late, which annoyed everyone.
+
+== 57 C1
+numeral: Lección cincuenta y siete
+title: Refranes de la abuela
+title.en: Grandma's proverbs
+
+dialogue:
+- Abuela, he suspendido Estadística.
+  en: Grandma, I have failed statistics.
+- No hay mal que por bien no venga, hija. Así tendrás tiempo para otras cosas.
+  en: Every cloud has a silver lining, dear. That way you will have time for other things.
+- ¿Y si me apunto al piano, al inglés y al curso de cocina?
+  en: And if I sign up for the piano, the English and the cookery course?
+- Quien mucho abarca poco aprieta. Elige uno.
+  en: Whoever takes on too much holds very little. Choose one.
+- Pues el piano. Y mamá me ha regalado un viaje a Londres. ¿Lo acepto?
+  en: Then the piano. And Mum has given me a trip to London. Shall I accept it?
+- A caballo regalado no le mires el diente. Y llévate el abrigo, que en Londres llueve mucho.
+  en: Don't look a gift horse in the mouth. And take a coat, because it rains a lot in London.
+- Empiezo a estudiar mañana, de verdad.
+  en: I'm starting to study tomorrow, really.
+- Camarón que se duerme se lo lleva la corriente. Empieza hoy, hija.
+  en: A shrimp that falls asleep is carried off by the current. Start today, dear.
+- Vale. ¿Y Nacho? ¿Lo llamo yo? Lleva una semana sin dar señales.
+  en: Right. And Nacho? Should I ring him? He has not been in touch for a week.
+- Ojos que no ven, corazón que no siente. Tú verás.
+  en: Out of sight, out of mind. Your call.
+- A mí me duele, abuela.
+  en: It hurts me, Grandma.
+- Ya sabes: a buen entendedor, pocas palabras bastan. Y ahora come, que estás en los huesos.
+  en: You know the saying: a word to the wise is enough. And now eat, you're all skin and bone.
+- Sancho Panza hablaba igual que tú, abuela, con un refrán para cada cosa.
+  en: Sancho Panza talked just like you, Grandma, with a proverb for everything.
+- Sancho era muy sabio, hija. Y tú, ¿qué has comido hoy?
+  en: Sancho was very wise, dear. And you, what have you eaten today?
+- Un yogur, abuela. ¿Y tú no tienes ningún refrán nuevo?
+  en: A yoghurt, Grandma. And don't you have a new proverb?
+- Ninguno que tú no sepas ya.
+  en: None that you don't already know.
+- Pues yo tengo uno: a buena abuela, pocos refranes bastan.
+  en: Then I have one: to a good grandmother, a few proverbs are enough.
+
+notes.en:
+1. he suspendido (sentence 1): in Spain suspender means to fail an exam, and aprobar means to pass it. The perfect is used because the result still stands today, a time not over. Example: He aprobado el examen de conducir, "I passed the driving test".
+2. No hay mal que por bien no venga (sentence 2): the literal sense is that there is no harm which does not come for some good. Venga is in the subjunctive, because the proverb speaks of any harm, and no hay mal que ... is a fixed form. Foundation, lesson 95 gave six other proverbs, and these are new. Example: No hay mal que por bien no venga: la avería nos dio una tarde libre, "every cloud has a silver lining: the breakdown gave us a free afternoon".
+3. hija (sentence 2): a grandmother, or any older woman, calls a young woman hija, and it means dear, as in Foundation, lesson 17. Example: ¿Qué quieres, hija?, "what do you want, dear?"
+4. Quien mucho abarca poco aprieta (sentence 4): the literal sense is that whoever embraces a lot grips little. Abarcar is to take in, to cover, and apretar is to squeeze, to hold tight. Example: Quien mucho abarca poco aprieta: tienes tres trabajos y ninguno bien hecho, "whoever takes on too much does none of it well: you have three jobs and not one is done properly".
+5. A caballo regalado no le mires el diente (sentence 6): the literal sense is do not look at a horse's teeth when it was given to you, since the teeth show its age. In a negative command the pronoun comes before the verb, no le mires, as no + pronoun + verb. Example: No lo mires tanto, que es un regalo, "don't look at it so hard, it's a present".
+6. Llévate el abrigo (sentence 6): llevarse means to take something with you, and the pronoun joins onto the affirmative command: llévate. Example: Llévate las llaves, que vuelvo tarde, "take the keys with you, I'm coming back late".
+7. Camarón que se duerme (sentence 8): the literal sense is that a shrimp which falls asleep is carried away by the current. It is said of someone who waits too long to act. Example: Apúntate hoy al curso, que camarón que se duerme se lo lleva la corriente, "sign up for the course today, because if you wait you miss it".
+8. Lo llamo yo (sentence 9): llamar takes a before a person, llamar a Nacho, and the pronoun lo stands for him. Example: Lo llamé ayer y no me contestó, "I rang him yesterday and he didn't answer".
+9. sin dar señales (sentence 9): dar señales de vida means to get in touch, or to show that you are still alive. Example: Hace meses que no da señales de vida, "he has not been in touch for months".
+10. Ojos que no ven (sentence 10): the nearest English is "out of sight, out of mind", and the proverb is completed by corazón que no siente. Tú verás means it is your decision, you'll see. Example: Tú verás lo que haces, "it's your decision what you do".
+11. a buen entendedor (sentence 12): ya sabes introduces a saying the speaker only starts, and the listener is expected to finish it. The full proverb is a buen entendedor, pocas palabras bastan, "a word to the wise is enough". Example: Ya sabes, a buen entendedor, pocas palabras bastan, "you know, a word to the wise is enough".
+12. estás en los huesos (sentence 12): the literal sense is that you are in the bones; it means very thin, skin and bone. Example: Después de la gripe estaba en los huesos, "after the flu he was skin and bone".
+13. Sancho Panza (sentence 13): the squire of Don Quijote in Cervantes' novel, famous for speaking in proverbs, as in Foundation, lesson 97. Example: Mi tío habla como Sancho, con un refrán para cada cosa, "my uncle talks like Sancho, with a proverb for everything".
+14. ningún refrán / ninguno (sentence 15, 16): ninguno and ningún mean none, and before a masculine noun the form is shortened to ningún. Ninguno stands on its own. Example: No tengo ninguno, "I haven't got one".
+15. a buena abuela (sentence 17): buena agrees with abuela, a feminine noun, as buen agrees with entendedor in the proverb, and buen is the short form before a masculine noun. Example: Es una buena idea, "it's a good idea".
+
+ex1:
+- Perdimos el tren, pero encontramos un café estupendo: no hay mal que por bien no venga.
+  en: We missed the train, but we found a wonderful café: every cloud has a silver lining.
+- Quien mucho abarca poco aprieta, así que elige una sola asignatura. (to a friend)
+  en: Whoever takes on too much holds very little, so choose just one subject. (to a friend)
+- Me han regalado una bici: a caballo regalado no le miro el diente.
+  en: They have given me a bike: I'm not looking a gift horse in the mouth.
+- Empiezo a estudiar en serio mañana, de verdad. (to a friend)
+  en: I'm starting to study seriously tomorrow, honestly. (to a friend)
+- Llevo dos meses sin ver a mi primo: ojos que no ven, corazón que no siente.
+  en: I haven't seen my cousin for two months: out of sight, out of mind.
+
+ex2:
+- Ya sabes: a buen [entendedor], pocas palabras bastan.
+  en: You know the saying: a word to the wise is enough.
+- [Lo llamé] ayer, pero no me contestó.
+  en: I rang him yesterday, but he didn't answer.
+- Hace meses que no da [señales] de vida.
+  en: He hasn't been in touch for months.
+- Llévate [el paraguas], que va a llover.
+  en: Take your umbrella with you, it's going to rain.
+- Sancho Panza hablaba con un [refrán] para cada cosa.
+  en: Sancho Panza talked with a proverb for everything.
+
+== 58 C1
+numeral: Lección cincuenta y ocho
+title: El corrector
+title.en: The know-it-all
+
+dialogue:
+- Mamá, ¿has visto el grupo de la familia? Papá lleva toda la tarde corrigiendo.
+  en: Mum, have you seen the family group? Dad has been correcting people all afternoon.
+- Otra vez. ¿Y ahora a quién?
+  en: Again. Who this time?
+- A la prima. Ha escrito pienso de que vendrá, y dice que se escribe pienso que vendrá, sin de.
+  en: Our cousin. She wrote "I think of that he'll come", and Dad says it is "I think he'll come", with no de.
+- ¿Y al tío Paco? Ha escrito que habían muchas personas en su boda, ¿verdad?
+  en: And Uncle Paco? He wrote that there were lots of people at his wedding, didn't he?
+- Sí, y papá le ha contestado que había, en singular, porque el haber impersonal siempre va en singular.
+  en: Yes, and Dad replied that it is había, in the singular, because impersonal haber is always singular.
+- Pues ya tenemos al tío ofendido. ¿Y la prima no ha contestado?
+  en: Well, now Uncle Paco is offended. Didn't your cousin reply?
+- Ha escrito me alegro que venga el tío Paco, y papá le ha corregido: me alegro de que.
+  en: She wrote "I'm glad Uncle Paco is coming", and Dad corrected it to "I'm glad that" with de.
+- ¿Y a ti también te ha escrito? Se te ve en la cara.
+  en: Has he written to you too? It shows on your face.
+- Sí: haber si vienes el sábado. ¡Él, que corrige a todo el mundo!
+  en: Yes: haber si you're coming on Saturday. Him, who corrects everybody!
+- ¿Y qué le has contestado?
+  en: And what did you reply?
+- Que es a ver, en dos palabras, y que sí, que voy, con tilde en el sí.
+  en: That it's a ver, in two words, and that yes, I'm coming, with the accent on the sí.
+- ¿Y se ha quedado contento?
+  en: And is he happy now?
+- No. Y hasta a la abuela le ha corregido: ella escribió porqué no viene el tío, y él le ha dicho que la pregunta lleva por qué, en dos palabras.
+  en: No. He has even corrected Grandma: she wrote porqué for why Uncle isn't coming, and he told her the question takes por qué, in two words.
+- ¡Pobre abuela! Se ha pasado la tarde respondiendo.
+  en: Poor Grandma! She has spent the afternoon replying.
+- Ya. Y como dice que su cumpleaños tiene que salir perfecto, le he encargado la tarta.
+  en: Yes. And since he insists his birthday must go perfectly, I have ordered the cake.
+- ¿Y qué pone?
+  en: And what does it say?
+- Felicidades, papá. Y debajo: haber si te jubilas.
+  en: Happy birthday, Dad. And underneath: haber si te jubilas.
+- ¡Sonia! Va a querer corregir la tarta antes de cortarla.
+  en: Sonia! He'll want to correct the cake before he cuts it.
+- No, mamá. Lo hemos escrito así a propósito.
+  en: No, Mum. We wrote it that way on purpose.
+
+notes.en:
+1. corrigiendo (sentence 1): corregir means to correct, and it changes e to i in the stem: corrige, corrigiendo. Example: Corrige los errores del texto, "correct the mistakes in the text".
+2. pienso de que (sentence 3): with pensar, the usual form is pensar que, without de, when the verb means to think that. The test is to replace the clause with eso: pienso eso gives pienso que, not pienso de que. Example: Pienso que tienes razón, "I think you're right".
+3. habían muchas personas (sentences 4 and 5): impersonal haber is always singular, so había muchas personas, "there were many people", and hubo problemas, "there were problems". Example: Había mucha gente en la plaza, "there were a lot of people in the square".
+4. me alegro que (sentence 7): alegrarse takes de, so the form is me alegro de que venga, "I'm glad he's coming". Test it as before: me alegro de eso gives me alegro de que. Example: Me alegro de que hayas venido, "I'm glad you came".
+5. haber si / a ver si (sentence 9): a ver si means "let's see whether", and it is written as two words, with ver as the verb. Example: A ver si llegamos a tiempo, "let's see whether we get there on time".
+6. sí / si (sentence 11): sí with an accent means yes, and si without an accent means if. Example: Sí, quiero, "yes, I do". Si llueve, nos quedamos, "if it rains, we stay".
+7. porqué / por qué / porque (sentence 13): por qué is two words in a question, porqué is a noun meaning the reason, and porque is one word and joins a reason to a clause. Example: Llegué tarde porque perdí el autobús, "I was late because I missed the bus".
+8. encargar (sentence 15): encargar means to order or to ask for something to be made, as in encargar una tarta. Example: He encargado el pan para el sábado, "I have ordered the bread for Saturday".
+9. jubilarse (sentence 17): jubilarse means to retire from work, and the reflexive pronoun stays with the verb. Example: Mi padre se jubila el año que viene, "my father retires next year".
+10. a propósito (sentence 19): a propósito means on purpose, and it also means by the way when it starts a sentence. Example: No lo hizo a propósito, "he didn't do it on purpose".
+
+ex1:
+- Había muchas personas en la plaza esta mañana.
+  en: There were a lot of people in the square this morning.
+- Creo que tienes razón, pero no lo digas en voz alta. (to a friend)
+  en: I think you're right, but don't say it out loud. (to a friend)
+- Me alegro de que hayas aprobado el examen.
+  en: I'm glad you passed the exam.
+- ¿Por qué no me lo has dicho antes? (to a friend)
+  en: Why didn't you tell me before? (to a friend)
+- Le he encargado una tarta para su cumpleaños.
+  en: I have ordered a cake for his birthday.
+
+ex2:
+- A [ver] si llegamos a tiempo al tren.
+  en: Let's see whether we get to the train on time.
+- Pienso [que] tienes razón.
+  en: I think you're right.
+- Llegué tarde [porque] perdí el autobús.
+  en: I was late because I missed the bus.
+- Mi padre se [jubila] el año que viene.
+  en: My father retires next year.
+- Me alegro [de que] hayas venido.
+  en: I'm glad you came.
+
+== 59 C1
+numeral: Lección cincuenta y nueve
+title: Antonio Machado
+title.en: Antonio Machado
+
+dialogue:
+- Antonio Machado nació en Sevilla en 1875, y era hermano del poeta Manuel Machado.
+  en: Antonio Machado was born in Seville in 1875, and he was the brother of the poet Manuel Machado.
+- En 1907 consiguió una plaza de profesor de francés en Soria, una ciudad fría de Castilla.
+  en: In 1907 he won a post as a teacher of French in Soria, a cold town in Castile.
+- Allí se casó con Leonor Izquierdo, y allí escribió muchos de los poemas de Campos de Castilla.
+  en: There he married Leonor Izquierdo, and there he wrote many of the poems in Campos de Castilla.
+- Los pinares y los pueblos de Soria aparecen una y otra vez en sus versos.
+  en: The pine woods and the villages of Soria appear again and again in his verses.
+- Leonor murió en 1912. Sin embargo, ese mismo año se publicó Campos de Castilla, un libro sobre la tierra de Soria.
+  en: Leonor died in 1912. Even so, that same year Campos de Castilla was published, a book about the land of Soria.
+- El Duero pasa por Soria, y el río es uno de los protagonistas del libro.
+  en: The Duero flows through Soria, and the river is one of the subjects of the book.
+- Después dejó Soria y enseñó en Baeza y en Segovia. Soria, en cambio, quedó para siempre en sus poemas.
+  en: Later he left Soria and taught in Baeza and in Segovia. Soria, on the other hand, stayed in his poems for ever.
+- Con su hermano Manuel escribió varias obras de teatro.
+  en: With his brother Manuel he wrote several plays.
+- Sus Proverbios y cantares tienen versos muy citados. No obstante, muchos los repiten sin saber de quién son.
+  en: His Proverbios y cantares contain lines that are often quoted. Even so, many people repeat them without knowing whose they are.
+- Uno de ellos dice: caminante, no hay camino; se hace camino al andar. Por consiguiente, el camino no existe antes de recorrerlo.
+  en: One of them says: traveller, there is no road; the road is made as you walk. Therefore the road does not exist before you travel it.
+- Al final de la guerra civil cruzó la frontera con su madre, pues miles de personas huían hacia Francia en aquellos días.
+  en: At the end of the Civil War he crossed the border with his mother, since thousands of people were fleeing to France at that time.
+- Murió en Colliure, un pueblo de la costa francesa, en febrero de 1939. Es decir, murió lejos de Castilla.
+  en: He died in Colliure, a village on the French coast, in February 1939. That is, he died far from Castile.
+- Así pues, el poeta de los caminos acabó su vida en Francia.
+  en: So the poet of the roads ended his life in France.
+- En el bolsillo de su abrigo se encontró un papel con una última línea: Estos días azules y este sol de la infancia.
+  en: In the pocket of his coat a sheet of paper was found, with one last line: Estos días azules y este sol de la infancia.
+
+notes.en:
+1. Sin embargo (sentence 5): a connector of contrast, "even so", with a comma after it. It joins two sentences where the second goes against what the first led you to expect, as in Foundation, lesson 81. Example: Llovía; sin embargo, salimos a pasear, "it was raining; even so, we went out for a walk".
+2. en cambio (sentence 7): on the other hand, it sets one thing against another and sits between commas after the first part. Foundation, lesson 81 has it too. Example: Mi hermano vive en Madrid; yo, en cambio, vivo en Sevilla, "my brother lives in Madrid; I, on the other hand, live in Seville".
+3. No obstante (sentence 9): a more formal way to say even so, as sin embargo is. Written texts use it more than speech does. Example: Es caro; no obstante, lo compraré, "it is expensive; even so, I'll buy it".
+4. Por consiguiente (sentence 10): therefore, a formal connector that shows a result. It takes commas, and in speech people say por eso. Example: Llovió toda la semana; por consiguiente, se suspendió la excursión, "it rained all week; therefore the trip was cancelled".
+5. se hace camino al andar (sentence 10): the verse comes from his Proverbios y cantares, a section of his poetry. Al + infinitive means on or while doing something. Example: Al llegar, llamé a mi madre, "on arriving, I rang my mother".
+6. pues (sentence 11): in written style pues means since or for and gives the reason. It comes after the main clause, never at the start of the sentence in this use. The spoken pues at the start, as in Pues vale, means well. Example: No vino a la cena, pues estaba enfermo, "he did not come to dinner, since he was ill".
+7. Colliure (sentence 12): Spanish writes the village Colliure, and English writes Collioure. It is in France, on the coast near the Spanish border.
+8. Es decir (sentence 12): that is to say, it restates the sentence before in other words, with commas. Example: Vive en Oviedo, es decir, en Asturias, "he lives in Oviedo, that is, in Asturias".
+9. Así pues (sentence 13): so, therefore. It concludes a passage, and it can open the sentence. Example: Así pues, no hay más que hablar, "so there is nothing more to say".
+
+ex1:
+- Mi hermana vive en Londres; yo, en cambio, vivo en Madrid.
+  en: My sister lives in London; I, on the other hand, live in Madrid.
+- Hablamos de Sevilla, es decir, de Andalucía.
+  en: We are talking about Seville, that is, about Andalusia.
+- Es caro, así que no lo compramos.
+  en: It's expensive, so we didn't buy it.
+- Así pues, nos vamos ya.
+  en: So we are leaving now.
+- Sí, quiero ir contigo. (to a friend)
+  en: Yes, I want to go with you. (to a friend)
+
+ex2:
+- Vive en Oviedo, [es decir], en Asturias.
+  en: He lives in Oviedo, that is, in Asturias.
+- Al [salir] de casa, llamé a mi madre.
+  en: On leaving the house, I rang my mother.
+- Mi hermana vive en Londres; yo, [en cambio], vivo en Madrid.
+  en: My sister lives in London; I, on the other hand, live in Madrid.
+- Murió en [Colliure], en Francia.
+  en: He died in Collioure, in France.
+- El Duero [pasa] por Soria.
+  en: The Duero flows through Soria.
+
+== 60 C1
+numeral: Lección sesenta
+title: Cara
+title.en: Face
+
+dialogue:
+- Inés y Gonzalo llevaban tres horas sentados cara a cara en la mesa de la cocina, sin decidir dónde pasar el verano.
+  en: Inés and Gonzalo had been sitting face to face at the kitchen table for three hours, without deciding where to spend the summer.
+- Hugo, el hijo mayor, no quería dar la cara en la discusión, y se quedó en el sofá con el móvil.
+  en: Hugo, the eldest son, did not want to face up to the argument, and stayed on the sofa with his mobile.
+- Inés quería la playa, Gonzalo quería la sierra, y el hotel de la montaña, que acababa de recibir un lavado de cara, costaba un ojo de la cara.
+  en: Inés wanted the beach, Gonzalo wanted the mountains, and the mountain hotel, which had just had a facelift, cost an arm and a leg.
+- Gonzalo, con cara de póquer, dijo que nadie hace nada por su cara bonita, y que el hotel le parecía una broma.
+  en: Gonzalo, with a poker face, said that nobody does anything for nothing, and that the hotel seemed a joke to him.
+- Inés le contestó que tenía mucha cara: el hotel lo había encontrado ella.
+  en: Inés told him he had a nerve: she was the one who had found the hotel.
+- Gonzalo le echó en cara que siempre se salía con la suya.
+  en: Gonzalo reproached her for always getting her own way.
+- Inés tenía cara de pocos amigos, y Hugo lo notó desde el sofá.
+  en: Inés looked unfriendly, and Hugo noticed it from the sofa.
+- Hugo dijo que él no iba a plantar cara a nadie, y que le daba igual el destino.
+  en: Hugo said he was not going to stand up to anyone, and that he did not mind where they went.
+- Entonces Inés propuso jugárselo a cara o cruz, y Gonzalo puso buena cara, aunque no le hacía ninguna gracia.
+  en: Then Inés suggested tossing a coin for it, and Gonzalo put a good face on it, though he did not find it funny at all.
+- Hugo se levantó, sacó del bolsillo una moneda de cinco euros y la enseñó a los dos.
+  en: Hugo got up, took a five-euro coin out of his pocket and showed it to both of them.
+- Inés y Gonzalo se vieron las caras, y los dos supieron que ya no había vuelta atrás.
+  en: Inés and Gonzalo faced each other, and both knew there was no going back.
+- De cara a las vacaciones, lo de menos era quién ganaba; lo importante era no volver a discutir.
+  en: With a view to the holidays, who won did not matter; what mattered was not to argue again.
+- Hugo lanzó la moneda, que dio vueltas en el aire, y nadie se atrevió a mirar mientras caía.
+  en: Hugo tossed the coin, which spun in the air, and nobody dared to look while it fell.
+- Gonzalo se quedó callado: se le cayó la cara de vergüenza al recordar la apuesta del año pasado.
+  en: Gonzalo fell silent: his face fell with shame when he remembered last year's bet.
+- La moneda cayó de canto sobre la mesa.
+  en: The coin landed on its edge on the table.
+
+notes.en:
+1. cara a cara (sentence 1): face to face, the two people facing each other in person. Example: Hablamos cara a cara en la oficina, "we talked face to face in the office".
+2. dar la cara (sentence 2): to face up to something, to take the responsibility, or to stand up for someone. The literal sense is to give one's face. Example: Siempre das la cara por tus amigos, "you always stand up for your friends".
+3. costar un ojo de la cara (sentence 3): to cost a fortune. The literal sense is to cost an eye from the face. As in Foundation, lesson 87. The adjective cara is a different word, meaning expensive: la gasolina está muy cara, "petrol is very expensive".
+4. lavado de cara (sentence 3): dar or recibir un lavado de cara is to give something a superficial makeover, such as a new coat of paint on a building, without changing what is inside. Example: Le han dado un lavado de cara al bar, "they've given the bar a facelift".
+5. cara de póquer (sentence 4): a face that shows no feeling, a poker face. Example: Tiene cara de póquer: nunca sabes lo que piensa, "he has a poker face: you never know what he thinks".
+6. por su cara bonita (sentence 4): for nothing, without a reason. It is used with a negative, nadie hace nada por su cara bonita, "nobody does anything for nothing". The literal sense is for his pretty face.
+7. tener cara / ser un caradura (sentence 5): tener mucha cara means to have a lot of nerve, and a caradura is a shameless person. Example: Tiene mucha cara: llega tarde y todavía se queja, "he has a nerve: he arrives late and still complains".
+8. echar en cara (sentence 6): to reproach someone for something, as in lesson 1, note 7. The literal sense is to throw in someone's face. Example: Me echó en cara que no la había llamado, "she reproached me for not ringing her".
+9. cara de pocos amigos (sentence 7): to look unfriendly, to look as if you do not want company. Example: Hoy tienes cara de pocos amigos, "you look unfriendly today".
+10. plantar cara (sentence 8): to stand up to someone, to face them and not give way. Example: Por fin le planté cara al jefe, "at last I stood up to the boss".
+11. cara o cruz (sentence 9): heads or tails, the two sides of a coin. Cara is the face side, and cruz is the other. Example: ¿Cara o cruz?, "heads or tails?"
+12. poner buena cara (sentence 9): to put a good face on something, to accept it politely even when you do not like it. Example: Puso buena cara y aceptó el regalo, "he put a brave face on it and accepted the present".
+13. verse las caras (sentence 11): to face each other in a confrontation, to come to grips. Example: Los dos se vieron las caras en la reunión, "the two of them came to grips at the meeting".
+14. de cara a (sentence 12): with a view to, in preparation for. Example: De cara al examen, repaso cada día, "with a view to the exam I revise every day".
+15. caérsele a uno la cara de vergüenza (sentence 14): to be so ashamed that one blushes or looks crestfallen. The pronoun comes before the verb, as in se le cayó. Example: Se me cayó la cara de vergüenza cuando lo supe, "I was mortified when I found out".
+16. de canto (sentence 15): standing on its edge, not lying flat. Example: Puso el libro de canto en la estantería, "he stood the book on its edge on the shelf".
+17. Expressions of this lesson, with the sentence and the note:
+cara a cara (sentence 1, note 1)
+dar la cara (sentence 2, note 2)
+costar un ojo de la cara (sentence 3, note 3)
+recibir un lavado de cara (sentence 3, note 4)
+cara de póquer (sentence 4, note 5)
+por su cara bonita (sentence 4, note 6)
+tener mucha cara (sentence 5, note 7)
+echar en cara (sentence 6, note 8)
+cara de pocos amigos (sentence 7, note 9)
+plantar cara (sentence 8, note 10)
+cara o cruz (sentence 9, note 11)
+poner buena cara (sentence 9, note 12)
+verse las caras (sentence 11, note 13)
+de cara a (sentence 12, note 14)
+caérsele a uno la cara de vergüenza (sentence 14, note 15)
+de canto (sentence 15, note 16)
+
+ex1:
+- Nos sentamos cara a cara en el bar.
+  en: We sat face to face in the café.
+- Ese bolso cuesta un ojo de la cara, así que no lo compro.
+  en: That handbag costs a fortune, so I'm not buying it.
+- Mi hermana tiene cara de póquer cuando juega.
+  en: My sister has a poker face when she plays.
+- Tienes mucha cara, después de lo que dijiste. (to a friend)
+  en: You've got a nerve, after what you said. (to a friend)
+- Dejé el libro de canto en la estantería.
+  en: I put the book on its edge on the shelf.
+
+ex2:
+- Nos sentamos [cara a cara] en el bar.
+  en: We sat face to face in the café.
+- Hoy tienes [cara] de pocos amigos, ¿qué te pasa?
+  en: You look unfriendly today, what's wrong?
+- Me [echó en cara] que no la llamé.
+  en: She threw in my face that I hadn't rung her.
+- [De cara a] las vacaciones, ahorro cada mes.
+  en: With a view to the holidays, I save every month.
+- Puso [buena cara] y aceptó la oferta.
+  en: He put a brave face on it and accepted the offer.
+
+== 61 C1
+numeral: Lección sesenta y una
+title: En el banco del parque
+title.en: On the park bench
+
+dialogue:
+- Ya está otra vez la chica del abrigo rojo, hablando por el móvil.
+  en: There's the girl in the red coat again, talking on her phone.
+- Acaba de salir de la farmacia, y ya vuelve a llamar.
+  en: She has just come out of the chemist's, and she's calling again already.
+- ¿Tendrá novio?
+  en: Do you think she has a boyfriend?
+- Pues yo creo que sí: tiene un novio que no deja de llamarla.
+  en: Well, I think so: she has a boyfriend who won't stop ringing her.
+- ¿Y tú cómo lo sabes?
+  en: And how do you know?
+- Porque su madre anda diciendo por el bar que el novio es de Valladolid.
+  en: Because her mother keeps going round the bar saying the boyfriend is from Valladolid.
+- ¿Y será buen chico?
+  en: And is he a good lad, do you think?
+- Eso espero, que ya era hora de que alguien la quisiera.
+  en: I hope so, because it was high time somebody loved her.
+- Ya lo sabía yo. Tiene cara de estar enamorada desde el verano.
+  en: I knew it. She has looked like someone in love since the summer.
+- Pues aquel señor de la esquina también lo parece, y no deja de mirarla.
+  en: Well, that man on the corner seems so too, and he won't stop looking at her.
+- ¿Ese? Ese viene a ser como el panadero: mucha pinta y poco más.
+  en: That one? He's more or less like the baker: all show and not much else.
+- Bueno, ¿y tú no ibas a ir al mercado?
+  en: Well, weren't you going to the market?
+- Ya no. Tengo la cena hecha desde las dos, así que no tengo prisa.
+  en: Not any more. I've had dinner ready since two, so I'm in no hurry.
+- Pues yo me quedo contigo un rato más, que hace buena tarde.
+  en: Then I'll stay with you a bit longer, it's a lovely afternoon.
+- Oye, ese señor del sombrero, ¿qué tal te cae? Lleva media hora mirándonos.
+  en: Listen, that man in the hat, what do you make of him? He's been looking at us for half an hour.
+- No me gusta nada ese señor del sombrero.
+  en: I don't like that man in the hat at all.
+- A mí tampoco.
+  en: Nor do I.
+- Es mi marido.
+  en: He's my husband.
+- Por eso.
+  en: That's why.
+
+notes.en:
+1. Ya está otra vez (sentence 1): said with some irritation, "there he goes again" or "here she goes again". Example: Ya está otra vez con lo mismo, "here he goes again with the same thing".
+2. acaba de salir (sentence 2): acabar de + infinitive means to have just done something. Example: Acabo de llegar a casa, "I've just got home".
+3. vuelve a llamar (sentence 2): volver a + infinitive means to do something again. Example: Vuelve a llamar cada hora, "she rings again every hour".
+4. creo que sí (sentence 4): a short answer. Say creo que sí or creo que no instead of repeating the clause. Example: ¿Viene mañana? Creo que sí, "is he coming tomorrow? I think so".
+5. no deja de (sentences 4 and 10): dejar de + infinitive means to stop, and with no it means to keep on doing something. Example: No deja de llover, "it won't stop raining".
+6. anda diciendo (sentence 6): andar + gerund is familiar, and it describes someone going about doing something. Example: Anda diciendo que se va a casar, "he's going round saying he's getting married".
+7. Eso espero (sentence 8): "I hope so", a short answer to a hope. Example: ¿Llegaremos a tiempo? Eso espero, "will we get there on time? I hope so".
+8. Ya lo sabía yo (sentence 9): ya + imperfect means I already knew. Example: Ya lo sabía yo: te lo dije ayer, "I knew it: I told you yesterday".
+9. lo parece (sentence 10): lo stands for an adjective said before, as English says so. It works with ser, estar and parecer. Example: ¿Es simpático? Lo parece, "is he nice? He seems so".
+10. viene a ser (sentence 11): venir a + infinitive means roughly, more or less. Example: Viene a costar unos treinta euros, "it comes to about thirty euros".
+11. tengo la cena hecha (sentence 13): tener + participle describes a thing in a finished state. The participle agrees with the thing: hecha agrees with cena. Example: Tengo las maletas hechas desde ayer, "I have had the cases packed since yesterday".
+12. no me gusta nada (sentence 16): with gustar-type verbs the thing liked is the subject, and nada makes the negative stronger. Example: No me gusta nada el frío, "I don't like the cold at all".
+13. A mí tampoco (sentence 17): tampoco answers a negative, and a mí adds emphasis. In English it is "nor do I" or "me neither". Example: A mí tampoco me gusta el café, "I don't like coffee either".
+14. Por eso (sentence 19): that is why, it gives the cause of what was just said. Example: Llovía, por eso no salimos, "it was raining, that's why we didn't go out".
+
+ex1:
+- Acabo de hablar con mi madre.
+  en: I've just spoken to my mother.
+- Vuelve a llover, y no tengo paraguas.
+  en: It's raining again, and I have no umbrella.
+- ¿Viene esta tarde? Creo que no.
+  en: Is he coming this afternoon? I don't think so.
+- Mi hermano no deja de hablar de la boda.
+  en: My brother won't stop talking about the wedding.
+- Tengo la maleta hecha desde ayer.
+  en: I've had the case packed since yesterday.
+
+ex2:
+- Acabo [de] llegar a casa.
+  en: I've just got home.
+- Vuelve [a] llamar cada hora.
+  en: She rings again every hour.
+- ¿Es simpático? Lo [parece].
+  en: Is he nice? He seems so.
+- No me [gusta] nada el frío.
+  en: I don't like the cold at all.
+- Viene [a] costar unos cien euros.
+  en: It comes to about a hundred euros.
+
+== 62 C1
+numeral: Lección sesenta y dos
+title: Como el perro y el gato
+title.en: Like cat and dog
+
+dialogue:
+- Ayer me tocó la reunión del claustro, y fue un gallinero.
+  en: Yesterday I had to sit through the staff meeting, and it was a complete free-for-all.
+- ¿Y eso? ¿Quién estaba?
+  en: What happened? Who was there?
+- Éramos cuatro gatos: el director, Esteban, Nieves y yo.
+  en: There were four of us: the head, Esteban, Nieves and me.
+- ¿Y Esteban? Ese siempre está como pez en el agua con el micrófono.
+  en: And Esteban? He's always in his element with a microphone.
+- Pues hoy hizo el ganso todo el rato, y el director no le dijo nada.
+  en: Well, today he clowned around the whole time, and the head said nothing to him.
+- ¿Y Nieves? ¿Le buscó tres pies al gato a todo?
+  en: And Nieves? Did she nitpick everything?
+- Ella es un lince: no se le escapa ni una coma del acta, aunque sí le busca tres pies al gato a todo lo demás.
+  en: She's sharp: not a single comma of the minutes gets past her, though she does nitpick everything else.
+- ¿Y Esteban y Nieves se llevan bien?
+  en: And do Esteban and Nieves get on?
+- Se llevan como el perro y el gato, y el director es un pez gordo que no escucha a nadie.
+  en: They get on like cat and dog, and the head is a big shot who doesn't listen to anyone.
+- ¿Y qué propuso el pez gordo?
+  en: And what did the big shot propose?
+- Nos ha dado gato por liebre: dijo que el horario era voluntario, y no lo es.
+  en: He has palmed us off: he said the timetable was voluntary, and it isn't.
+- ¿Y tú tuviste la mosca detrás de la oreja?
+  en: And did you smell a rat?
+- Desde el primer minuto. Entonces cogí el toro por los cuernos y propuse que cada departamento hiciera su propio horario.
+  en: From the first minute. So I took the bull by the horns and proposed that each department make its own timetable.
+- Eso es matar dos pájaros de un tiro: acabas con el lío y nadie se queda sin horario.
+  en: That's killing two birds with one stone: you end the mess and nobody is left without a timetable.
+- Ya, pero Samuel no vino, y es la oveja negra del departamento. Además es un gallina cuando hay que hablar en público.
+  en: Yes, but Samuel didn't come, and he is the black sheep of the department. He is also a coward when he has to speak in public.
+- ¿Y Lorenzo? Ese siempre paga el pato cuando algo sale mal.
+  en: And Lorenzo? He always takes the blame when something goes wrong.
+- Pues hoy le ha tocado otra vez pagar el pato, sin tener nada que ver.
+  en: Well, today it was his turn to take the blame again, though he had nothing to do with it.
+- Pues en la sala de profesores dicen que tú estás como una cabra.
+  en: Well, in the staff room they say you're off your head.
+
+notes.en:
+1. gallinero (sentence 1): a henhouse, and figuratively a noisy place where everyone talks at once. Example: La oficina es un gallinero los lunes, "the office is a madhouse on Mondays".
+2. cuatro gatos (sentence 3): a handful of people, literally four cats. Example: Solo vinieron cuatro gatos a la charla, "only a handful of people came to the talk".
+3. como pez en el agua (sentence 4): to be in one's element, literally like a fish in water. Example: En la cocina está como pez en el agua, "in the kitchen she is in her element".
+4. hacer el ganso (sentence 5): to clown around, to play the fool. The literal sense is to do the goose. Example: Deja de hacer el ganso y ponte serio, "stop clowning around and be serious".
+5. buscar tres pies al gato (sentences 6 and 7): to nitpick, to look for complications where there are none. The literal sense is to look for three feet on a cat. Example: No le busques tres pies al gato: el plan es bueno, "don't nitpick: the plan is good".
+6. ser un lince (sentence 7): to be sharp and observant. A lince is a lynx, which is said to have sharp eyes. Example: Eres un lince para encontrar errores, "you're sharp at spotting mistakes".
+7. como el perro y el gato (sentence 9): to get on very badly, like cat and dog. The English is also an animal pair. Example: Mis dos hermanos se llevan como el perro y el gato, "my two brothers get on like cat and dog".
+8. pez gordo (sentence 9): a big shot, an important person. The literal sense is a fat fish. Example: En la empresa es un pez gordo, "in the company he's a big shot".
+9. dar gato por liebre (sentence 11): to pass off something worse as something better. The literal sense is to give cat for hare. The English equivalent is to sell someone a pig in a poke, which means buying something without seeing it first. Example: Nos dieron gato por liebre con el coche usado, "they sold us a dud as a good car".
+10. tener la mosca detrás de la oreja (sentence 12): to be suspicious. The literal sense is to have the fly behind the ear, and the English is to smell a rat. Example: Tengo la mosca detrás de la oreja, "I smell a rat".
+11. coger el toro por los cuernos (sentence 13): to face a difficulty head on. The literal sense is to take the bull by the horns. Example: Hay que coger el toro por los cuernos y hablar con él, "you have to face it head on and talk to him".
+12. matar dos pájaros de un tiro (sentence 14): to kill two birds with one stone. Example: Con una sola llamada matamos dos pájaros de un tiro, "with one call we killed two birds with one stone".
+13. gallina (sentence 15): a coward, usually as un gallina. The literal sense is a hen. Example: No seas gallina y pide el aumento, "don't be a chicken, ask for the rise".
+14. la oveja negra (sentence 15): the black sheep of a family or group. Example: Mi tío es la oveja negra de la familia, "my uncle is the black sheep of the family".
+15. pagar el pato (sentences 16 and 17): to take the blame or the cost for something one did not do. The literal sense is to pay for the duck. Example: Siempre pago el pato de los errores de los demás, "I always take the blame for other people's mistakes".
+16. estar como una cabra (sentence 18): to be mad, off one's head. The literal sense is to be like a goat. Example: Con este calor estoy como una cabra, "this heat is driving me mad".
+17. Expressions of this lesson, with the sentence and the note:
+gallinero (sentence 1, note 1)
+cuatro gatos (sentence 3, note 2)
+como pez en el agua (sentence 4, note 3)
+hacer el ganso (sentence 5, note 4)
+buscar tres pies al gato (sentence 6, note 5)
+ser un lince (sentence 7, note 6)
+como el perro y el gato (sentence 9, note 7)
+pez gordo (sentence 9, note 8)
+dar gato por liebre (sentence 11, note 9)
+tener la mosca detrás de la oreja (sentence 12, note 10)
+coger el toro por los cuernos (sentence 13, note 11)
+matar dos pájaros de un tiro (sentence 14, note 12)
+gallina (sentence 15, note 13)
+la oveja negra (sentence 15, note 14)
+pagar el pato (sentence 16, note 15)
+estar como una cabra (sentence 18, note 16)
+
+ex1:
+- La fiesta fue un gallinero desde el principio.
+  en: The party was chaos from the start.
+- Mi hermana está como pez en el agua en la piscina.
+  en: My sister is in her element in the swimming pool.
+- No le busques tres pies al gato: el plan es bueno. (to a friend)
+  en: Don't nitpick: the plan is good. (to a friend)
+- Tengo la mosca detrás de la oreja con ese precio.
+  en: That price makes me smell a rat.
+- Siempre me toca pagar el pato.
+  en: I always end up taking the blame.
+
+ex2:
+- Es un [lince] para los detalles.
+  en: He is sharp when it comes to details.
+- No seas [gallina]. (to a friend)
+  en: Don't be a chicken. (to a friend)
+- Mi hermano es la [oveja negra] de la familia.
+  en: My brother is the black sheep of the family.
+- Nos ha dado [gato por liebre] con el coche usado.
+  en: He sold us a dud, passing a worse car off as a good one.
+- Hace [el ganso] en la fiesta.
+  en: He's clowning about at the party.
+
+== 63 C1
+kind: revision
+numeral: Lección sesenta y tres
+title: Repaso y matices
+title.en: Revision and finer points
+
+notes.en:
+The ninth week of this course is finished. Nothing here needs learning by heart: the tables put in order what you have read in lessons 57 to 62, and those texts are your store of examples.
+If a point still feels unclear, go back to the example line in its lesson and read it aloud; it will be clearer each time. Then do the ten exercises at the end.
+1. connectors of argument and their position (lesson 59): the words that link one reason or result to the next, and whether they can open a sentence.
+| Connector | What it does | Can it open the sentence? | Example from the week |
+|---|---|---|---|
+| sin embargo | even so, a contrast with what went before | yes, with a comma after it | Leonor murió en 1912. Sin embargo, ese mismo año se publicó Campos de Castilla, un libro sobre la tierra de Soria. (lesson 59) |
+| no obstante | even so, more formal than sin embargo | yes, with a comma after it | No obstante, muchos los repiten sin saber de quién son. (lesson 59) |
+| en cambio | on the other hand, setting one thing against another | usually after the first part, between commas | Soria, en cambio, quedó para siempre en sus poemas. (lesson 59) |
+| por consiguiente | therefore, a result that follows | yes, with a comma after it | Por consiguiente, el camino no existe antes de recorrerlo. (lesson 59) |
+| es decir | that is to say, a restatement | yes, when it restates the sentence before | Es decir, murió lejos de Castilla. (lesson 59) |
+| así pues | so, a conclusion at the end of a passage | yes | Así pues, el poeta de los caminos acabó su vida en Francia. (lesson 59) |
+| pues | since, for, giving a reason in written style | never first in this use | cruzó la frontera con su madre, pues miles de personas huían hacia Francia en aquellos días. (lesson 59) |
+2. the norm and usage (lessons 58 and 59): the forms that spoken Spanish blurs, and the test that settles them.
+| Form | Standard | Example from the week |
+|---|---|---|
+| pienso de que / pienso que | pensar takes que without de when it means to think that; test with eso: pienso eso gives pienso que | A la prima. Ha escrito pienso de que vendrá, y dice que se escribe pienso que vendrá, sin de. (lesson 58) |
+| me alegro que / me alegro de que | alegrarse takes de; test with eso: me alegro de eso gives me alegro de que | y papá le ha corregido: me alegro de que. (lesson 58) |
+| habían / había | impersonal haber is always singular | porque el haber impersonal siempre va en singular (lesson 58) |
+| haber si / a ver si | a ver si means let's see whether, and it is two words | Que es a ver, en dos palabras (lesson 58) |
+| Pair | What it means | Example from the week |
+|---|---|---|
+| tú / tu | tú is the pronoun, with the accent, and tu (no accent) is the possessive | Sancho era muy sabio, hija. Y tú, ¿qué has comido hoy? (lesson 57) |
+| él / el | él is the pronoun for a man, and el is the article | ¡Él, que corrige a todo el mundo! (lesson 58) |
+| sí / si | sí means yes or the pronoun after a preposition, and si means if | que sí, que voy, con tilde en el sí (lesson 58) |
+| por qué / porqué / porque | por qué is two words in a question, porqué is a noun meaning the reason, and porque joins a reason to a clause | la pregunta lleva por qué, en dos palabras (lesson 58); Llegué tarde porque perdí el autobús (lesson 58, note 7) |
+3. periphrases and short answers (lesson 61): a verb with another verb in front of it, and the answers that do not repeat the clause.
+| Periphrasis | Meaning | Example from the week | In English |
+|---|---|---|---|
+| acabar de + infinitive | to have just done something | Acaba de salir de la farmacia (lesson 61) | She has just come out of the chemist's |
+| volver a + infinitive | to do something again | ya vuelve a llamar (lesson 61) | she is calling again already |
+| dejar de + infinitive | to stop; with no, to keep on | no deja de llamarla (lesson 61) | he won't stop ringing her |
+| andar + gerund | to keep going about doing something (familiar) | anda diciendo por el bar (lesson 61) | she keeps going round the bar saying |
+| venir a + infinitive | roughly, more or less | Ese viene a ser como el panadero (lesson 61) | he's more or less like the baker |
+| tener + participle | a thing in a finished state; the participle agrees | Tengo la cena hecha desde las dos (lesson 61) | I've had dinner ready since two |
+| Short answer | What it does | Example from the week | In English |
+|---|---|---|---|
+| creo que sí / creo que no | answers yes or no without repeating the clause | Pues yo creo que sí (lesson 61) | Well, I think so |
+| eso espero | answers a hope | Eso espero, que ya era hora de que alguien la quisiera. (lesson 61) | I hope so, because it was high time somebody loved her |
+| lo parece | lo stands for an adjective said before | también lo parece (lesson 61) | seems so too |
+| también / tampoco | also, and neither after a negative | ¿Y a ti también te ha escrito? (lesson 58); A mí tampoco. (lesson 61) | Has he written to you too?; Nor do I |
+4. proverbs and animal idioms (lessons 57 and 62): the literal sense first, then the meaning, then the English match.
+| Idiom | Literal sense | Meaning | English |
+|---|---|---|---|
+| No hay mal que por bien no venga | there is no harm that does not come for some good | a setback can bring something good | every cloud has a silver lining |
+| A caballo regalado no le mires el diente | do not look at a horse's teeth when it was given to you | do not criticise a gift | don't look a gift horse in the mouth |
+| Ojos que no ven, corazón que no siente | eyes that do not see, a heart that does not feel | you stop caring about what you do not see | out of sight, out of mind |
+| Camarón que se duerme se lo lleva la corriente | a shrimp that falls asleep is carried off by the current | whoever waits too long loses out | no exact English match; close to strike while the iron is hot |
+| como el perro y el gato | like a dog and a cat | to get on very badly | like cat and dog |
+| dar gato por liebre | to give cat for hare | to pass off something worse as something better | to sell a pig in a poke |
+| pagar el pato | to pay for the duck | to take the blame or the cost | to carry the can |
+| matar dos pájaros de un tiro | to kill two birds with one shot | to solve two problems at once | to kill two birds with one stone |
+| tener la mosca detrás de la oreja | to have the fly behind the ear | to be suspicious | to smell a rat |
+| estar como una cabra | to be like a goat | to be mad | to be off one's head |
+5. the cara family (lesson 60): the many ways the word for face is used in idioms.
+| Expression | What it does | Example from the week | In English |
+|---|---|---|---|
+| cara a cara | face to face, in person | llevaban tres horas sentados cara a cara en la mesa de la cocina (lesson 60) | had been sitting face to face at the kitchen table for three hours |
+| dar la cara | to face up to something, or to stand up for someone | no quería dar la cara en la discusión (lesson 60) | did not want to face up to the argument |
+| poner buena cara | to put a brave face on something | Gonzalo puso buena cara, aunque no le hacía ninguna gracia (lesson 60) | put a good face on it, though he did not find it funny |
+| cara de póquer | a face that shows no feeling | Gonzalo, con cara de póquer (lesson 60) | with a poker face |
+| de cara a | with a view to, in preparation for | De cara a las vacaciones, lo de menos era quién ganaba (lesson 60) | with a view to the holidays, who won did not matter |
+
+Practice. Ten sentences, five to translate and five to fill in.
+
+ex1:
+- Tengo la mosca detrás de la oreja con ese vecino. (to a friend)
+  en: I smell a rat about that neighbour. (to a friend)
+- Creo que sí, pero llámale tú para estar seguro. (to a friend)
+  en: I think so, but ring him yourself to be sure. (to a friend)
+- Acaba de llamar mi hermana.
+  en: My sister has just rung.
+- Estudio por las mañanas; por la tarde, en cambio, trabajo.
+  en: I study in the mornings; in the afternoon, on the other hand, I work.
+- Tienes mucha cara, después de lo que has dicho. (to a friend)
+  en: You've got a nerve, after what you have said. (to a friend)
+
+ex2:
+- No [dejó] de llover en toda la semana.
+  en: It didn't stop raining all week.
+- Siempre [das] la cara por tus amigos.
+  en: You always stand up for your friends.
+- Lo [parece], pero no lo es.
+  en: He seems so, but he isn't.
+- [Es decir], nos vemos el lunes.
+  en: That is, we'll see each other on Monday.
+- Tengo la [cena] hecha desde las dos.
+  en: I've had the dinner ready since two.

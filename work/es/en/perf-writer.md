@@ -346,3 +346,11 @@ you think is wrong (quote it, do not change it).
   during the test).
 - A line does not say the same word twice for nothing ("para charlar usan
   platicar, donde aquí diríamos charlar").
+
+## Rules added after week 9
+
+- A dialogue built on short answers still needs each answer to answer the
+  line before it: "Pues yo creo que sí" after a question, never after a
+  statement.
+- After changing a line, grep the revision tables and notes for every
+  fragment quoted from it.

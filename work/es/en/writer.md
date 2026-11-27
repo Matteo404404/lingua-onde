@@ -338,3 +338,11 @@ word the tool figured wrongly, anything you were unsure of.
 - Read the whole scene once more before finishing: if a complaint, a
   question or a fact is dropped halfway (the air conditioning that works
   after all), the scene is rewritten.
+
+## Rules added after week 14
+
+- A line meant to be said in English has the same text in its en: line;
+  figure_es.py then leaves it without a figure. Use this only where the
+  plan asks for English.
+- A recap scene is not padded with polite lines that lead nowhere; each
+  line moves the conversation to its twist.

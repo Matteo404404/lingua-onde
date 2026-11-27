@@ -332,7 +332,9 @@ def fill(path, write):
             while j < len(lines) and lines[j].startswith("  "):
                 block.append(lines[j])
                 j += 1
-            text = figure(line[2:]) if full else new_words_only(line[2:], met)
+            # A line said in English (its translation is the line itself) gets no Spanish figure.
+            english = any(b.strip() == f"{BASE}: {line[2:]}" for b in block)
+            text = None if english else figure(line[2:]) if full else new_words_only(line[2:], met)
             if text is not None:
                 at = next((k for k, b in enumerate(block) if b.strip().startswith(f"{BASE}:")), len(block) - 1)
                 block.insert(at + 1, f"  pron.{BASE}: {text}")

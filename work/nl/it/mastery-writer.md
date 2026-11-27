@@ -243,6 +243,78 @@ title.it "Ripasso".
   their own rubric (if the rubric asks for u, the model has u), and add no
   facts the rubric forbids.
 
+Rules added after week 1:
+- Formal formulas agree with the noun: Geacht bestuur (het-word), Geachte leden, Geachte heer/mevrouw.
+- A scene that happens once (a ten-minute parents' meeting) cannot refer to "last week's" meeting; references in time must fit the scene.
+- When the narrator tells events in order, do not announce with a past perfect what happens in the next sentence ("Ik had het aanbod als een cadeau bedoeld. Ik zei: ...").
+- Similes must say what is meant: "alsof hij toevallig in de buurt was", not a vague "een gezicht alsof hij er alleen maar voor was".
+
+Rules added after week 2:
+- A story or chat over several days keeps its own timeline: nothing can be "coming in two weeks" and "there since yesterday" in the same text.
+- The last line is the last line: nothing after "en hij deed het licht uit"; put the punchline last.
+- Who offers and who refuses must be consistent in one exchange (the waiter cannot offer what he then says is forbidden).
+
+Rules added after week 4:
+- Work out clock and time jokes before writing them: a clock that runs five minutes slow strikes twelve five minutes AFTER midnight.
+- In a story with corrections (an unreliable narrator), every correction must point the same way: the witnesses do not contradict each other unless that is the joke.
+
+Rules added after week 6:
+- Never ask the same question twice in one scene, and never let one speaker have two consecutive dialogue lines: merge them into one line.
+- Nobody asks a question and answers it in the same line unless "zei X" marks the change of speaker.
+- A sentence starting with "Het" or "Dat" refers to the line just before it: when you add a line (a later reply, a side remark), check that the next line's pronoun still points at the right thing.
+- A letter quoted in the text contains only what the writer would really send: no P.S. telling the reader about the drafts; put that in the narrator's voice.
+- Who does what follows from the rules the text states: a codicil is written by hand by the testator, so the notary cannot "regulate it in the codicil" for her.
+- Revision texts claim only what the earlier texts say: a reply cannot thank someone for a remark her letter never made.
+- Facts with dates: "enkele jaren later" must match the gap (Mare clausum came ten years after 1625, and answered Mare liberum, not the later book).
+
+Rules added after week 7:
+- An aside to the audience must make sense in the scene: no joke about people reaching for their wallets at a free lecture; an evening lecture ends with a borrel, not lunch.
+- Names keep their article: de Royal Society; "Dokter" is a medical doctor, so address academics as meneer/mevrouw or by title in writing (dr.).
+- Body positions stay consistent: a candidate who stands at the lectern cannot "sit up straight"; paranimfen stand beside her.
+- "Daarom", "dus", "dat betekent" must follow from the line just before; when they do not, rewrite the link.
+- An ex1 or ex2 sentence copies no line whose joke needs the scene; every sentence makes sense alone.
+- A light stelling is an actual joke that can be argued, not a plain observation.
+
+Rules added after week 8:
+- A character keeps one variety: a Fleming speaks with ge/gij/u to everyone ("zou u deugd doen", not "zou je helpen"); a Dutch character never slips into ge.
+- A character's own definitions stay consistent: if Hilde says "schoon is mooi", she cannot then translate proper as "schoon".
+- No meta references in a story ("de les over het Fries"); people in the story do not know they are in a course.
+- An answer agrees with the answer before it: do not follow "the soft g is southern" with "it is not that simple" unless the text explains why.
+- Do not explain a name's origin unless the facts are given (why Stroop said "polder").
+
+Rules added after week 9:
+- Before a punchline, say in one sentence why it is funny; if the essay after a poem names the poem's last line, quote it exactly.
+- A rhyme must be correct Dutch first: "Ja hoor, ik doe" is not a sentence; change the rhyme word, not the grammar.
+- A sketch built on rules ends with a twist that follows from those rules; check every step against the rules as stated.
+- A revision quotes the lessons' lines exactly as they now stand, in full sentences, never cut into ungrammatical fragments; no Italian word (bici) in a Dutch line.
+- Idioms keep their fixed form: "de kat uit de boom kijken", not "uit de boom kijken".
+- A satire's title must be what the text is about: say plainly once what the absurd thing is (a stalling for the stallingen).
+
+Rules added after week 10:
+- Fixed formulas keep their verb: "iets raakt kant noch wal", never "heeft geen kant noch wal"; check every idiom's full form, not only its nouns.
+- Rhyme lines are full sentences with correct tense ("dat had ik niet verwacht", not "niet wat ik verwacht"); a bike "draagt" its rider, it does not "rijden" him.
+- A frame story keeps its own facts: a poem written on the way to work is not written "op de terugweg".
+- In a revision, each person says or reads only what is theirs (the caller did not write the presenter's poem); address people by surname with mevrouw/meneer.
+
+Rules added after week 11:
+- A twist ending ("the debate was about the coffee machine") must be true of the whole text: keep the real topic vague from the first line and reveal it only in the last; do not name it halfway (in a motion) and then "reveal" it again.
+- An example of a fallacy must match its own explanation: if the neighbour asked for one tree, the straw man cannot start from "less asphalt in the garden".
+- A letter against a plan argues against it ("Dit plan deugt niet, want het deugt niet").
+- People cannot quote what has not happened yet: on Friday a newsroom cannot cite "Saturday's paper" except as its own coming edition.
+- Tag every line in a debate with its speaker unless the line before names who answers.
+
+Rules added after week 12:
+- A revision is ONE scene that happens in time (a dinner, a meeting), where the people talk to each other about what happened in the week; never a string of lines copied from the lessons and given to whoever is at the table. Characters may quote a lesson's line, saying who said it.
+- Small talk must still follow: a line about the weather on the market day cannot jump to a bike lamp in daylight; check every reply answers the line before.
+- A detail is not asked twice: once the price per bakje is said, nobody asks it again.
+- Each first voicemail or message identifies the speaker once ("Met Gijs"), and then does not say "met mij" in the next sentence.
+
+Rules added after week 13:
+- Each lesson has its own people: do not reuse a name of the same week for a different person (two Tons), and do not let a revision family quote a stranger from another lesson ("zoals de dierenarts zei") or take over another lesson's act.
+- Keep u/je consistent between two people for the whole scene.
+- Fixed formulas complete: "het minste wat ik kon doen", "laten inslapen"; "kwetsuur" is a physical injury, not hurt feelings.
+- An opening line must not contradict the next one ("I'll keep it short ... it would be rude to keep it short").
+
 ## Checks before you finish
 
 - `target/release/lingua_onde --check work/nl/it/mastery/NNN.txt` prints ok

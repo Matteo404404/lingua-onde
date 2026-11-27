@@ -285,3 +285,16 @@ Report briefly: per lesson items, words, notes; checker output; facts you
 were unsure of and what you did with them; any word figure_es.py --say
 figured wrongly; any choice the plan did not settle; anything in the plan
 you think is wrong (quote it, do not change it).
+
+## Rules added after week 1
+
+- A scene of bickering (who pays) must still make sense line by line: a
+  speaker who has just given in does not argue again two lines later, and a
+  waiter does not ask a question that his next line makes pointless.
+- The second wave is called la segunda vuelta, as in Foundation lesson 100.
+- An anecdote's twist must be one the reader can see at once (the cross was
+  showing the time, not the degrees), not a muddle of two readings.
+- Narration keeps one tense frame: in a present-tense day, ha quedado, not
+  quedó.
+- No dash at the start of a dialogue line.
+- When a revision table quotes a line, copy it from the final lesson file.

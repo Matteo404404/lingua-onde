@@ -601,3 +601,597 @@ ex2:
   en: At last I managed to finish the report.
 - Mi hermana está sentada en la mesa del [fondo].
   en: My sister is sitting at the table at the back.
+
+== 8 B2
+numeral: Lección octava
+title: El puntual
+title.en: The punctual man
+
+dialogue:
+- Julián ha sido puntual toda la vida, y en un país donde «a las nueve» quiere decir más o menos las nueve, eso lo convierte en una rareza.
+  en: Julián has been punctual all his life, and in a country where "at nine" means roughly nine, that makes him a rarity.
+- De joven solía llegar al cine antes de que abriera la taquilla, y se quedaba junto a la puerta con la entrada en la mano, mirando el reloj.
+  en: As a young man he used to arrive at the cinema before the box office opened, and he would stand by the door with his ticket in his hand, watching the clock.
+- En las cenas, cuando el anfitrión todavía estaba en la ducha, él ya estaba sentado a la mesa con la servilleta puesta.
+  en: At dinners, when the host was still in the shower, he was already sitting at the table with his napkin on.
+- Le molestaba que la gente llegara tarde, pero le extrañaba todavía más que nadie se disculpara.
+  en: It annoyed him that people arrived late, but it surprised him even more that nobody apologised.
+- Cuando lo invitaban a una boda, acostumbraba a llegar a la iglesia media hora antes, y el novio le preguntaba si se encontraba bien.
+  en: When he was invited to a wedding, he was in the habit of getting to the church half an hour early, and the groom would ask him whether he was feeling all right.
+- Los amigos lo querían, aunque algunos decían que era un poco pesado con la puntualidad.
+  en: His friends were fond of him, though some said he was a bit of a bore about punctuality.
+- Él no lo entendía: para él, llegar tarde era una falta de respeto, y no soportaba que alguien se lo tomara a broma.
+  en: He did not understand it: for him, arriving late was a lack of respect, and he could not stand anyone taking it as a joke.
+- Con los años se había vuelto algo más flexible, o eso decía él.
+  en: Over the years he had become a little more flexible, or so he said.
+- Pero seguía sin soportar que alguien dijera «hacia las nueve».
+  en: But he still could not bear anyone saying "around nine".
+- Un viernes de octubre, sus amigos lo invitaron a cenar en casa de Marcos. La invitación decía «a las ocho en punto».
+  en: One Friday in October his friends invited him to dinner at Marcos's flat. The invitation said "eight o'clock sharp".
+- Julián salió a las siete y media, pero el autobús se averió en la avenida y no llegó a casa de Marcos hasta las nueve.
+  en: Julián left at half past seven, but the bus broke down on the avenue and did not reach Marcos's flat until nine.
+- Por primera vez en su vida llegaba tarde, y se sentía raro, como si hubiera olvidado algo.
+  en: For the first time in his life he was late, and he felt odd, as if he had forgotten something.
+- Llamó al timbre, y Marcos le abrió sonriendo, con una copa en la mano.
+  en: He rang the bell, and Marcos opened the door smiling, with a glass in his hand.
+- Dentro sonaba música, y nadie le preguntó por el retraso: todos estaban sentados a la mesa, con las copas llenas y cara de haber llegado a su hora.
+  en: Music was playing inside, and nobody asked him about the delay: everyone was sitting at the table, with full glasses and the look of having arrived on time.
+- Julián miró a su alrededor y no supo qué decir, porque nunca había visto a sus amigos tan puntuales.
+  en: Julián looked around and did not know what to say, because he had never seen his friends so punctual.
+- Marcos le sirvió otra copa y le pidió que se sentara, que todo estaba listo.
+  en: Marcos poured him another glass and asked him to sit down, because everything was ready.
+- Julián se sentó sin entender nada, y miró el reloj: las nueve y diez.
+  en: Julián sat down without understanding anything, and looked at his watch: ten past nine.
+- Era su fiesta sorpresa, y el único que había llegado tarde era él.
+  en: It was his surprise party, and the only one who had arrived late was him.
+
+notes.en:
+1. a las nueve (line 1; Foundation, lesson 9): in everyday Spanish a clock time with a las is often a rough guide, and the text says it means more or less nine. Example: Quedamos a las nueve, "let's meet at nine".
+2. solía llegar (line 2): soler plus an infinitive gives a habit, "used to" or "usually"; in the past it takes the imperfect, solía or solíamos. Foundation lesson 37 has soler in the present, suelo. Example: Solíamos cenar en el jardín, "we used to have dinner in the garden".
+3. antes de que abriera (line 2): antes de que always takes the subjunctive, here the imperfect one, abriera, because the opening is in the past. Example: Salí antes de que llegaran los invitados, "I left before the guests arrived".
+4. ya estaba sentado (line 3): estar with a past participle describes the state that has been reached, here already seated; ya adds that it was before the others were. Example: Cuando llegué, la tienda ya estaba cerrada, "when I got there, the shop was already closed".
+5. le molestaba que la gente llegara tarde (line 4): a feeling about a whole clause takes que plus the subjunctive, where English uses an ordinary verb: "it annoyed him that people arrived late". The same pattern goes with le extraña que, no soporta que and le parece mal que. Foundation lesson 55 gave es importante que as the same kind of trigger. Example: Le molesta que la gente llegue tarde, "it annoys him that people arrive late".
+6. le extrañaba (line 4): in Spain extrañar means to find something strange or surprising, not to miss someone; that is echar de menos, lesson 1, note 2. In much of Latin America extrañar does mean to miss. Example: Me extraña que no haya llamado, "it surprises me that he hasn't rung".
+7. acostumbraba a llegar (line 5): acostumbrar a plus an infinitive means "to be in the habit of", a little more formal than soler. Example: Acostumbra a cenar a las diez, "he is in the habit of having dinner at ten".
+8. se encontraba bien (line 5): encontrarse bien means to feel well, and it is the usual polite way to ask after someone's health. Example: ¿Te encuentras bien? "Are you all right?" (to a friend).
+9. se lo tomara a broma (line 7): tomarse algo a broma means to take something as a joke. Lo is the lateness, and the verb keeps its reflexive se, so the two words come out as se lo. Example: No te lo tomes a mal, "don't take it badly".
+10. no soportaba que (line 7; no soportar que, line 9): soportar means "to bear" or "to stand", and it takes que plus the subjunctive when another person does the thing. Example: No soporto que me interrumpan, "I can't stand being interrupted".
+11. hacia las nueve (line 9): hacia with a time means around that time, the looser version of the a las nueve of note 1. Example: Nos vemos hacia las siete, "let's meet around seven".
+12. como si hubiera olvidado algo (line 12): como si means "as if", and for something imagined in the past it takes the pluperfect subjunctive, hubiera olvidado. Foundation lesson 72 has como si nada. Example: Habla como si lo supiera todo, "he talks as if he knew everything".
+13. a su hora (line 14): at the time that was set, on time. It is said of a thing or a person that keeps the agreed hour. Example: El tren llegó a su hora, "the train arrived on time".
+
+ex1:
+- Me molesta que la gente hable en el cine.
+  en: It annoys me that people talk in the cinema.
+- No soporto que me digas siempre lo mismo.
+  en: I can't stand it when you always tell me the same thing (to a friend).
+- Antes de que llegaran los invitados, ya había recogido la casa.
+  en: I had tidied the house before the guests arrived.
+- Solía levantarse a las seis para salir a correr.
+  en: He used to get up at six to go running.
+- ¿Le parece mal que llegue un poco tarde?
+  en: Do you mind if I arrive a little late? (formal)
+
+ex2:
+- Mi padre [solía] llegar a casa a las siete.
+  en: My father used to get home at seven.
+- Me extraña que no [haya] llamado.
+  en: It surprises me that he hasn't rung.
+- Lo termino antes de [que] vengas.
+  en: I will finish it before you come.
+- Llegamos a las ocho, y el cine ya [estaba] abierto.
+  en: We arrived at eight, and the cinema was already open.
+- Le molesta que la gente [llegue] tarde a las reuniones.
+  en: It annoys him that people arrive late to meetings.
+
+== 9 B2
+numeral: Lección novena
+title: Quedar
+title.en: To meet, to stay, to fit
+
+dialogue:
+- Ana y Dani llevan tres meses juntos, y por fin toca presentar a sus familias.
+  en: Ana and Dani have been together for three months, and at last it is time to introduce their families.
+- Ana propone quedar con las dos familias en casa de Dani, para cenar el sábado.
+  en: Ana proposes meeting both families at Dani's flat for dinner on Saturday.
+- «¿Y en qué quedamos? ¿El sábado o el domingo?», pregunta Dani, que ya no recuerda nada.
+  en: "So what did we agree? Saturday or Sunday?" asks Dani, who no longer remembers anything.
+- Ana le recuerda que han quedado en el sábado a las nueve, y que su madre lo ha apuntado.
+  en: Ana reminds him that they agreed on Saturday at nine, and that her mother has written it down.
+- Dani asiente, pero teme quedar mal con su madre si se le olvida algo.
+  en: Dani nods, but he is afraid of letting his mother down if he forgets something.
+- Ana le asegura que no va a quedar mal con nadie, y que el traje le queda muy bien.
+  en: Ana assures him that he will not let anyone down, and that the suit suits him very well.
+- Él se mira en el espejo, y el traje le queda grande por los hombros, así que lo lleva al sastre.
+  en: He looks in the mirror, and the suit is too big for him across the shoulders, so he takes it to the tailor.
+- El sastre dice que tardará dos días, y Dani se queda con la chaqueta vieja, que ya le queda pequeña.
+  en: The tailor says it will take two days, so Dani keeps the old jacket, which is too small for him now.
+- Aún queda por hacer lo más difícil: decidir quién lleva el postre.
+  en: The hardest part still remains to be done: deciding who brings the dessert.
+- Ana habla con su madre, que dice que sí, pero que no hará el flan, porque se ha quedado sin azúcar.
+  en: Ana speaks to her mother, who says yes, but who will not make the flan, because she has run out of sugar.
+- Dani llama a su padre y le pide ayuda para ensayar: su padre se queda de piedra, porque nunca se la ha pedido.
+  en: Dani rings his father and asks for help rehearsing: his father is stunned, because Dani has never asked him for help.
+- El padre responde que no queda más remedio que hacerlo bien.
+  en: His father says there is no choice but to do it properly.
+- Ana se queda con el número de la pastelería, por si acaso.
+  en: Ana keeps the number of the cake shop, just in case.
+- El jueves por la noche, Dani propone quedar otra vez para repasar, y Ana le contesta: «¿Te estás quedando conmigo?».
+  en: On Thursday night Dani suggests meeting again to go over everything, and Ana answers, "Are you pulling my leg?"
+- Él jura que va en serio, y que quedan dos días para el sábado.
+  en: He swears he is serious, and that there are two days left until Saturday.
+- El sábado por la tarde, Ana se prueba el vestido, y le queda perfecto.
+  en: On Saturday afternoon Ana tries on her dress, and it fits her perfectly.
+- Dani se abotona la chaqueta nueva y se promete que su mente no se quedará en blanco.
+  en: Dani buttons up his new jacket and promises himself that his mind will not go blank.
+- A las ocho y media, Ana propone echarse un rato antes de que lleguen, y Dani dice que sí.
+  en: At half past eight Ana suggests lying down for a while before the guests arrive, and Dani agrees.
+- Se tumban en el sofá, con la idea de cerrar los ojos cinco minutos.
+  en: They lie down on the sofa, meaning to close their eyes for five minutes.
+- A las nueve en punto suena el timbre: los padres de Dani y los de Ana están en la puerta, con una tarta.
+  en: At nine sharp the doorbell rings: Dani's parents and Ana's are at the door, with a cake.
+- Nadie contesta al timbre, y los cuatro se miran sin saber qué pensar.
+  en: Nobody answers the bell, and the four parents look at one another, not knowing what to think.
+- Las dos familias han llegado a las nueve, puntuales, tal como habían quedado. Ana y Dani, no: se han quedado dormidos.
+  en: The two families have arrived at nine, on time, just as they had arranged. Ana and Dani have not: they have fallen asleep.
+
+notes.en:
+1. quedar con las dos familias (sentence 2): quedar con someone means to arrange to meet them. Without se, quedar means to arrange, agree, fit or be left; with se, quedarse means to stay, to keep or to become. Example: He quedado con Marta a las siete, "I've arranged to meet Marta at seven".
+2. ¿En qué quedamos? (sentence 3): a question asked when two people are no longer sure what they agreed. The answer is the plan itself. Example: ¿En qué quedamos, el viernes o el sábado? "so what did we agree, Friday or Saturday?"
+3. han quedado en el sábado (sentence 4): quedar en with a day, a time or a place means to agree on it, and it always takes en. Before an infinitive it means to agree to do something. Example: Quedamos en vernos el lunes, "we agreed to see each other on Monday".
+4. quedar mal con su madre (sentences 5 and 6): quedar mal con someone means to let them down, to fall short of what they expected, and quedar bien is its opposite, to come across well. Example: Quedaste muy bien en la entrevista, "you came across very well at the interview".
+5. le queda muy bien (sentence 6): said of clothes, quedar means to fit or to suit. The thing is the subject, and the person wearing it is le, me or te. English turns it round: "it suits him". Example: Esas botas te quedan muy bien, "those boots suit you very well" (to a friend).
+6. le queda grande, le queda pequeña (sentences 7 and 8): too big or too small for someone. The adjective agrees with the thing, so grande and pequeña match el traje and la chaqueta. Example: Este abrigo me queda pequeño, "this coat is too small for me".
+7. se queda con la chaqueta (sentence 8; sentence 13): quedarse con means to keep something or to take it. Example: Quédate con el cambio, "keep the change" (to a friend).
+8. queda por hacer (sentence 9): quedar por plus an infinitive means that something is still left to be done. Example: Queda mucho por hacer en la cocina, "there is still a lot to do in the kitchen".
+9. se ha quedado sin azúcar (sentence 10): quedarse sin means to run out of something, literally "to stay without". The se stays in every form. Example: Nos hemos quedado sin gasolina en la autopista, "we ran out of petrol on the motorway".
+10. se queda de piedra (sentence 11): quedarse de piedra means to be stunned, to be dumbfounded; the literal image is "to stay of stone". Example: Me quedé de piedra al ver el precio, "I was stunned when I saw the price".
+11. no queda más remedio (sentence 12): no quedar más remedio que plus an infinitive means there is no other option. Example: No queda más remedio que esperar, "there is no choice but to wait".
+12. ¿Te estás quedando conmigo? (sentence 14): familiar in Spain, it means to be teasing someone, to pull their leg. The literal sense is "are you staying with me?", and the idiom is the same with the verb in the present, as in the line.
+13. quedan dos días (sentence 15): quedar as "to be left", said of time and of things. The verb agrees with what is left. Example: Quedan tres semanas para las vacaciones, "there are three weeks left until the holidays".
+14. quedarse en blanco (sentence 17): to go blank, to lose one's mind for a moment; en blanco means blank, as a page is blank. Foundation, lesson 61, has the same pattern with quedarse and an adjective. Example: Me quedé en blanco en el examen, "my mind went blank in the exam".
+15. se han quedado dormidos (sentence 22): quedarse dormido means "to fall asleep", and the adjective agrees with the people in the sentence, so dormidos is plural. Foundation, lesson 61, has quedarse with an adjective. Example: Me quedé dormida en el tren, "I fell asleep on the train" (said by a woman).
+16. Expressions of this lesson, with the sentence and the note:
+quedar con alguien (sentence 2, note 1)
+¿en qué quedamos? (sentence 3, note 2)
+quedar en (sentence 4, note 3)
+quedar mal con alguien (sentence 5, note 4)
+le queda muy bien (sentence 6, note 5)
+le queda grande (sentence 7, note 6)
+le queda pequeña (sentence 8, note 6)
+quedarse con (sentence 8, note 7)
+quedar por hacer (sentence 9, note 8)
+quedarse sin (sentence 10, note 9)
+quedarse de piedra (sentence 11, note 10)
+no quedar más remedio (sentence 12, note 11)
+quedarse con alguien (sentence 14, note 12)
+quedan dos días (sentence 15, note 13)
+quedarse en blanco (sentence 17, note 14)
+quedarse dormido (sentence 22, note 15)
+
+ex1:
+- Hemos quedado con los vecinos para tomar algo el viernes.
+  en: We have arranged to meet the neighbours for a drink on Friday.
+- Quedamos en vernos a las siete, ¿te parece?
+  en: We agreed to see each other at seven, does that suit you? (to a friend)
+- Este abrigo me queda grande, ¿no tienes uno más pequeño?
+  en: This coat is too big for me, haven't you got a smaller one? (to a friend)
+- Queda mucho por hacer antes del viernes.
+  en: A lot still has to be done before Friday.
+- Me quedé de piedra cuando me lo contó.
+  en: I was stunned when she told me.
+
+ex2:
+- Ana y su hermana [quedaron] en la plaza a las seis.
+  en: Ana and her sister arranged to meet in the square at six.
+- Ese vestido te [queda] muy bien.
+  en: That dress suits you very well.
+- Lo siento, ya no me [queda] dinero.
+  en: I'm sorry, I have no money left.
+- Él se [quedó] de piedra al verla.
+  en: He was stunned when he saw her.
+- [Quedan] dos días para la boda.
+  en: There are two days left until the wedding.
+
+== 10 B2
+numeral: Lección décima
+title: El puente
+title.en: The long weekend
+
+dialogue:
+- En este país el año se planifica según el calendario de festivos, y en enero todo el mundo ya cuenta los puentes.
+  en: In this country the year is planned around the holiday calendar, and in January everybody is already counting the bridges.
+- Un puente es un día libre que une un festivo con el fin de semana: si el festivo cae en jueves, el viernes se convierte en puente.
+  en: A bridge is a day off that links a holiday to the weekend: if the holiday falls on a Thursday, the Friday becomes a bridge.
+- Un puente de cuatro días es un puente largo, y uno de cinco ya es un acueducto.
+  en: A bridge of four days is a long bridge, and one of five is already an aqueduct.
+- En enero nadie habla del sueldo: todos hablan de dónde cae el puente.
+  en: In January nobody talks about salary: everyone talks about where the bridge falls.
+- A lo mejor hacemos puente el viernes, dice el jefe de ventas, y todo el departamento se pone a sacar cuentas.
+  en: Maybe we'll take Friday off and make a long weekend, says the sales manager, and the whole department starts working out the sums.
+- Quizá nos den el viernes, dice otro, aunque nadie ha visto el decreto.
+  en: Perhaps they will give us Friday, says another, though nobody has seen the decree.
+- Puede que el Gobierno lo apruebe, pero también puede que no, y en la oficina ya hay apuestas.
+  en: The government may approve it, but it may also not, and there are already bets in the office.
+- Igual nos dan el viernes, dice la secretaria, que lleva veinte años en la empresa y nunca se equivoca.
+  en: Maybe they'll give us Friday, says the secretary, who has been with the firm for twenty years and is never wrong.
+- Lo más seguro es que el decreto llegue el último día de enero, cuando ya no quede tiempo para nada.
+  en: The most likely thing is that the decree will arrive on the last day of January, when there is no time left for anything.
+- Se prevé que el año tenga once puentes y dos acueductos, según las cuentas de Recursos Humanos.
+  en: It is forecast that the year will have eleven bridges and two aqueducts, according to the figures from Human Resources.
+- El director presenta la previsión anual con una gráfica en forma de arco, y todos aplauden la forma.
+  en: The director presents the annual forecast with a graph in the shape of an arch, and everyone applauds the shape.
+- Los trabajadores suman los días que les tocan: diez días de vacaciones, cuatro puentes y un acueducto, si Dios quiere.
+  en: The workers add up the days they are due: ten days of holiday, four bridges and an aqueduct, God willing.
+- Las carreteras se llenan los jueves por la tarde, y los hoteles de la costa se preparan con un mes de antelación.
+  en: The roads fill up on Thursday afternoons, and the hotels on the coast get ready a month in advance.
+- Un pueblo de la costa vive del puente, y tiene un cartel que dice: «Llegue el puente que llegue, aquí le esperamos».
+  en: A coastal village lives off the bridges, and has a sign that says: "Whatever bridge comes, we will be waiting for you here."
+- Solo hay un empleado que nunca se toma un puente. Se llama Ernesto, y su mesa siempre está ordenada.
+  en: There is only one employee who never takes a bridge. His name is Ernesto, and his desk is always tidy.
+- Sus compañeros lo miran con respeto, pero no entienden por qué no quiere un día libre cuando se lo ofrecen.
+  en: His colleagues look at him with respect, but they do not understand why he does not want a day off when it is offered to him.
+- En diciembre, el jefe anuncia que este año habrá un acueducto de verdad, y nadie sabe qué significa.
+  en: In December the boss announces that this year there will be a real aqueduct, and nobody knows what he means.
+- El viernes, Ernesto llega a las ocho, como siempre, y encuentra la oficina cerrada: el acueducto de verdad era para todos, también para él.
+  en: On Friday Ernesto arrives at eight, as always, and finds the office shut: the real aqueduct was for everyone, him included.
+
+notes.en:
+1. hacer puente (line 5): to take the day between a holiday and the weekend off, so that the break runs on from the holiday. The noun puente is the bridge, the day itself. Example: Este año hacemos puente en mayo, "this year we are taking a bridge in May".
+2. acueducto (line 3): literally an aqueduct, the Roman structure that carries water across a valley; in this text it is a playful word for a very long bridge, and un puente largo is the bridge of four days. Example: Un acueducto de tres kilómetros lleva agua a la ciudad, "a three-kilometre aqueduct brings water to the city".
+3. cae en jueves (line 2): caer en plus a day means that a holiday falls on that day. Example: La fiesta cae en martes este año, "the holiday falls on a Tuesday this year".
+4. a lo mejor hacemos (line 5): a lo mejor means "maybe" and it is followed by the indicative, never the subjunctive. Example: A lo mejor llego tarde, "I may arrive late".
+5. quizá nos den (line 6): quizá, quizás and tal vez can take either mood: the indicative for what is likely, and the subjunctive for what is still open. Foundation, lesson 54, has quizás ganen. Example: Quizá vengan mañana, "maybe they will come tomorrow".
+6. puede que lo apruebe (line 7): puede que takes the subjunctive, as in Foundation, lesson 54, because the event is not certain. Example: Puede que llueva esta tarde, "it may rain this afternoon".
+7. igual nos dan (line 8): igual is the familiar word for "maybe" in Spain, and it is often followed by the indicative in speech. Example: Igual llego tarde, "I might be late" (to a friend).
+8. lo más seguro es que llegue (line 9): lo más seguro es que means "the most likely thing is that", and the verb after que takes the subjunctive, since the event is not yet known. Example: Lo más seguro es que el tren llegue con retraso, "the train is most likely to be late".
+9. se prevé que tenga (line 10): se prevé que means "it is forecast that", and the verb after que takes the subjunctive. Example: Se prevé que el precio de la luz suba en invierno, "the price of electricity is expected to rise in winter".
+10. sacar cuentas (line 5): sacar cuentas means to work out the sums, close in sense to echar cuentas, lesson 1, note 12. Example: Saca cuentas antes de comprar el coche, "she works out the sums before buying the car".
+11. llegue el puente que llegue (line 14): the verb comes twice, after the noun and after que, and both are in the subjunctive, as in pase lo que pase, Foundation, lesson 85. Example: Pase lo que pase, nos vemos el sábado, "whatever happens, we will see each other on Saturday".
+12. en forma de arco (line 11): en forma de plus a noun means "in the shape of". Example: El edificio tiene forma de barco, "the building is shaped like a ship".
+
+ex1:
+- A lo mejor llego un poco tarde, no me esperéis.
+  en: Maybe I'll be a little late, don't wait for me (to friends).
+- Quizá vengan mañana, pero no estoy seguro.
+  en: Perhaps they will come tomorrow, but I'm not sure.
+- Puede que haga frío esta noche, llévate una chaqueta.
+  en: It may be cold tonight, take a jacket (to a friend).
+- Lo más seguro es que el tren llegue con retraso.
+  en: The train is most likely to be late.
+- Se prevé que el precio de la luz suba en invierno.
+  en: The price of electricity is expected to rise in winter.
+
+ex2:
+- Este año la fiesta cae [en] martes.
+  en: This year the holiday falls on a Tuesday.
+- Puede [que] llueva esta tarde.
+  en: It may rain this afternoon.
+- Lo más seguro es [que] el jefe nos dé el viernes.
+  en: Most likely the boss will give us Friday.
+- Se prevé que el año [tenga] once puentes.
+  en: It is forecast that the year will have eleven bridges.
+- Ernesto [encuentra] la oficina cerrada.
+  en: Ernesto finds the office shut.
+
+== 11 B2
+numeral: Lección once
+title: Galicia
+title.en: Galicia
+
+dialogue:
+- Galicia es la esquina noroeste de España, y tiene cuatro provincias: A Coruña, Lugo, Ourense y Pontevedra.
+  en: Galicia is the north-west corner of Spain, and it has four provinces: A Coruña, Lugo, Ourense and Pontevedra.
+- Su capital es Santiago de Compostela, al final del Camino de Santiago, la ruta de peregrinos que se recorre desde hace siglos.
+  en: Its capital is Santiago de Compostela, at the end of the Camino de Santiago, the pilgrims' route that has been walked for centuries.
+- En A Coruña, la Torre de Hércules es un faro de origen romano que todavía funciona.
+  en: In A Coruña, the Tower of Hercules is a lighthouse of Roman origin that still works.
+- Lugo conserva casi completa su muralla romana, y se puede dar la vuelta a la ciudad andando por lo alto.
+  en: Lugo keeps its Roman wall almost complete, and you can walk all the way round the city along the top of it.
+- La costa está llena de rías, que son entradas largas del mar en la tierra, y llueve bastante, así que todo es verde.
+  en: The coast is full of rías, long inlets of the sea running into the land, and it rains quite a lot, so everything is green.
+- En Galicia se habla gallego, una lengua cooficial muy parecida al portugués.
+  en: In Galicia people speak Galician, a co-official language very close to Portuguese.
+- La palabra gallega «rúa» es lo que en español es «calle», y Ourense se llama Orense en castellano.
+  en: The Galician word "rúa" is what in Spanish is "calle", meaning street, and Ourense is called Orense in Spanish.
+- La morriña es la nostalgia de la tierra, una palabra gallega que el español ha tomado.
+  en: Morriña is homesickness for one's own land, a Galician word that Spanish has taken over.
+- Hay un dicho sobre las meigas, las brujas. En gallego: «Eu non creo nas meigas, mais habelas, hainas». En castellano: «No creo en las brujas, pero haberlas, haylas».
+  en: There is a saying about meigas, witches. In Galician: "Eu non creo nas meigas, mais habelas, hainas". In Spanish: "No creo en las brujas, pero haberlas, haylas": I don't believe in witches, but there are some.
+- Del mar sale el marisco, y el pulpo á feira es uno de los platos más famosos: cocido, cortado a tijera y aliñado con pimentón y aceite.
+  en: The sea provides the shellfish, and pulpo á feira is one of the most famous dishes: boiled, cut with scissors and dressed with paprika and oil.
+- La empanada gallega, de atún o de zamburiñas, es un pan relleno que se come en casi cualquier bar.
+  en: Galician empanada, with tuna or with zamburiñas, is a filled bread eaten in almost any bar.
+- Para beber, el albariño, un vino blanco de las Rías Baixas, que va muy bien con el marisco.
+  en: To drink, there is albariño, a white wine from the Rías Baixas, which goes very well with shellfish.
+- En la costa, las casas de piedra tienen hórreos, graneros elevados sobre pilares para que la humedad no llegue al grano.
+  en: On the coast, the stone houses have hórreos, granaries raised on pillars so that the damp does not reach the grain.
+- En Santiago, la catedral recibe cada año a peregrinos de todo el mundo.
+  en: In Santiago, the cathedral welcomes pilgrims from all over the world every year.
+- En Ourense, el agua sale caliente de la tierra, y hay termas junto al río Miño.
+  en: In Ourense, the water comes up hot out of the ground, and there are thermal baths beside the River Miño.
+- Dicen que aquí se come bien, y que uno nunca sabe si va a llover.
+  en: They say the food here is good, and that you never know whether it is going to rain.
+- Y para terminar, el queso de tetilla, que lleva el nombre de su forma.
+  en: And to finish, tetilla cheese, which takes its name from its shape.
+
+notes.en:
+1. A Coruña (line 1): the Galician name of the city, which in Spanish is La Coruña. Lugo and Pontevedra are the same in both languages. Example: Viajamos a La Coruña en tren, "we travelled to A Coruña by train".
+2. Camino de Santiago (line 2; Foundation, lesson 57): the pilgrims' route, which Foundation, lesson 57, describes; this text only names its end. Example: Hacer el Camino de Santiago lleva semanas, "walking the Camino de Santiago takes weeks".
+3. faro (line 3): a lighthouse, the Spanish word for the same thing. Example: El faro marca la entrada del puerto, "the lighthouse marks the entrance to the harbour".
+4. casi completa (line 4): casi plus an adjective means "almost", and completa agrees with the feminine muralla. Example: La casa está casi terminada, "the house is almost finished".
+5. rías (line 5): a ría is a long inlet where the sea runs into a river valley; English has the word ria from it. Example: Vivimos junto a la ría, "we live beside the inlet".
+6. cooficial (line 6): co-official, shared by two languages in the same region. Galician is the language of Galicia, close to Portuguese, and it is not a dialect of Spanish. Example: En Galicia, el gallego y el castellano son cooficiales, "in Galicia, Galician and Spanish are both official".
+7. rúa, calle (line 7): rúa is the Galician word and calle the Spanish, both meaning street. Example: Vivo en una calle tranquila, "I live on a quiet street" (in Galician, rúa).
+8. morriña (line 8): a Galician word for homesickness, longing for one's own land, now used in Spanish too. Example: Tiene morriña de su tierra, "she is homesick for her land".
+9. Eu non creo nas meigas (line 9): a Galician saying. Mais is Galician for pero, and habelas, hainas is haberlas, haylas, which the Spanish line gives. Example: Pero haberlas, haylas, "but there are some", the Spanish form of the saying.
+10. pulpo á feira (line 10): octopus of the fair, a Galician dish; in Spanish menus it is often called pulpo a la gallega. Example: Pedimos pulpo a la gallega de primero, "we ordered Galician-style octopus to start".
+11. empanada (line 11): a filled bread, here with tuna or zamburiñas, a small scallop. Example: Una empanada de atún, "a tuna empanada".
+12. albariño (line 12): a white wine from the Rías Baixas, in Spanish Rías Bajas. Example: Un albariño bien frío, "a well-chilled albariño".
+13. hórreos (line 13): granaries raised on stone or wood pillars, so that the damp does not reach the grain. Example: El hórreo guarda el maíz, "the granary keeps the maize".
+14. dicen que, aquí se come (line 14): dicen que means "they say that", and aquí se come is the impersonal se, "people eat here", for a general truth. Example: Aquí se habla gallego en la calle, "here people speak Galician in the street".
+15. tetilla (line 17): literally "small nipple", and the cheese takes its name from its rounded shape. Example: Un trozo de queso de tetilla, "a piece of tetilla cheese".
+
+ex1:
+- Me encantan las empanadas de atún, sobre todo recién hechas.
+  en: I love tuna empanadas, especially freshly made.
+- Después de un mes en Madrid, tenía morriña de Galicia.
+  en: After a month in Madrid, I was homesick for Galicia.
+- Dicen que en Galicia se come de maravilla.
+  en: They say you eat wonderfully in Galicia.
+- Ayer probamos el albariño en un bar junto a la ría.
+  en: Yesterday we tried the albariño in a bar beside the inlet.
+- Me gusta el pulpo a la gallega, sobre todo con un poco de pimentón.
+  en: I like Galician-style octopus, especially with a little paprika.
+
+ex2:
+- En Galicia se habla gallego, una lengua [cooficial].
+  en: In Galicia people speak Galician, a co-official language.
+- La [torre] de Hércules es un faro de origen romano.
+  en: The Tower of Hercules is a lighthouse of Roman origin.
+- Me gusta el vino [blanco] de las Rías Baixas.
+  en: I like the white wine from the Rías Baixas.
+- Dicen que aquí [se] come bien.
+  en: They say you eat well here.
+- Lugo tiene una muralla [romana] casi completa.
+  en: Lugo has an almost complete Roman wall.
+
+== 12 B2
+numeral: Lección doce
+title: Acogedor y luminoso
+title.en: Cosy and bright
+
+dialogue:
+- Pasen, pasen. Este es el piso del que les hablé por teléfono. Es muy acogedor.
+  en: Come in, come in. This is the flat I told you about on the phone. It is very cosy.
+- ¿Acogedor? Es muy pequeño, ¿no?
+  en: Cosy? It's very small, isn't it?
+- No es pequeño, sino práctico. Cada metro cuenta.
+  en: It's not small, it's practical. Every metre counts.
+- Bueno. ¿Y hay mucha luz? Aquí está todo un poco oscuro.
+  en: Well. And is there a lot of light? It's all a bit dark in here.
+- Es muy luminoso. No tiene cortinas, así que de noche la farola de la calle lo ilumina todo.
+  en: It's very bright. It has no curtains, so at night the street lamp lights up the whole place.
+- Ya veo. ¿Y las paredes? Están un poco feas.
+  en: I see. And the walls? They're a bit ugly.
+- Es un piso para reformar: no hace falta arreglar nada, sino empezar de cero.
+  en: It's a flat to renovate: there's no need to repair anything, but to start again from scratch.
+- Nuestro presupuesto es muy justo. No podemos gastar mucho.
+  en: Our budget is very tight. We can't spend much.
+- Tranquilos. Con lo que pueden pagar, no hay muchos pisos así.
+  en: Don't worry. With what you can pay, there aren't many flats like this.
+- ¿Y el ruido? Se oye mucho desde la calle.
+  en: And the noise? You can hear a lot from the street.
+- No solo es céntrico, sino también muy animado: los bares cierran a las tres, y nunca estarán solos.
+  en: Not only is it central, it is also very lively: the bars close at three, and you will never be alone.
+- ¿Y cuántas habitaciones tiene?
+  en: And how many bedrooms does it have?
+- No tiene habitaciones, sino un espacio muy versátil. Aquí cabe todo lo que no usan.
+  en: It doesn't have bedrooms, but a very versatile space. Everything you don't use fits in here.
+- ¿Y dónde dormimos?
+  en: And where do we sleep?
+- Pues ahí, entre las cajas. Ya verán cómo se acomodan.
+  en: Well, there, among the boxes. You'll see how well you settle in.
+- ¿Y la cocina? Es muy estrecha.
+  en: And the kitchen? It's very narrow.
+- No es estrecha, sino compacta. Todo lo que necesitan está a un paso.
+  en: It's not narrow, it's compact. Everything you need is one step away.
+- Bueno, la verdad es que nos encanta. Nos lo quedamos.
+  en: Well, the truth is we love it. We'll take it.
+- Me alegro, porque es lo único que pueden pagar. Es un trastero.
+  en: I'm glad, because it's the only thing you can afford. It's a storage room.
+
+notes.en:
+1. acogedor (line 1): cosy, warm and welcoming. In property adverts the word is a common euphemism, and it can hide a small size, which is why the couple asks in line 2. Example: Es un hotel muy acogedor, "it is a very cosy hotel".
+2. sino (line 3): after a negative, sino corrects the first part: no es pequeño, sino práctico, "it is not small but practical". Plain pero would keep both parts: es pequeño pero práctico, "it is small but practical". English "but" does both jobs, so the choice is only clear in Spanish.
+3. luminoso (line 5): bright, full of light. The agent uses it for a flat lit only by the lamp in the street. Example: Nuestra cocina es muy luminosa, "our kitchen is very bright".
+4. farola (line 5): a street lamp, the post with a lamp on the top. Example: La farola de la esquina se ha fundido, "the street lamp on the corner has gone out".
+5. sino empezar (line 7): no hace falta plus an infinitive is "you do not need to", and sino then gives what is needed instead. Example: No hace falta reservar, sino llegar pronto, "you do not need to book, but to arrive early".
+6. para reformar (line 7): a flat for renovating; reformar means to renovate, and para plus the infinitive says what the flat is for. Example: Una casa para reformar, "a house to be done up".
+7. no solo ... sino también (line 11): the correlative pair for "not only ... but also". Example: No solo habla bien inglés, sino también francés, "he speaks not only good English but also French".
+8. versátil (line 13): versatile, able to be used for many purposes. Example: Un mueble versátil sirve de mesa y de estantería, "a versatile piece of furniture works as a table and a shelf".
+9. Aquí cabe todo (line 13): caber means to fit, and the thing that fits is the subject. Example: En la maleta no cabe nada más, "nothing more fits in the suitcase".
+10. nos encanta (line 18): encantar works like gustar, so the thing liked is the subject and the person is the object pronoun. Example: Me encanta este barrio, "I love this neighbourhood".
+11. Me alegro, porque (line 19): alegrarse means to be glad; me alegro followed by a reason with porque, "I'm glad because". Example: Me alegro de que hayas venido, "I'm glad you came".
+12. trastero (line 19): a storage room, often a small one in a block of flats, where people keep things they do not use every day. Example: Guardo las bicis en el trastero, "I keep the bikes in the storage room".
+
+ex1:
+- No es un coche caro, sino uno práctico.
+  en: It is not an expensive car, but a practical one.
+- No solo es simpático, sino también muy trabajador.
+  en: He is not only friendly, but also very hard-working.
+- Esta cocina es pequeña, pero funciona muy bien.
+  en: This kitchen is small, but it works very well.
+- Nos encanta el barrio, aunque es muy ruidoso.
+  en: We love the neighbourhood, although it is very noisy.
+- Guardamos las bicis en el trastero.
+  en: We keep the bikes in the storage room.
+
+ex2:
+- No hace falta llegar pronto, [sino] llegar a tiempo.
+  en: You do not need to arrive early, but rather on time.
+- Es caro, [pero] vale la pena.
+  en: It is expensive, but it is worth it.
+- [No] solo es simpático, sino también muy listo.
+  en: He is not only friendly, but also very clever.
+- Me [encanta] el barrio, aunque hay mucho ruido.
+  en: I love the neighbourhood, although there is a lot of noise.
+- Ya no [cabe] nada en el armario.
+  en: There is no room left in the wardrobe.
+
+== 13 B2
+numeral: Lección trece
+title: A ver si quedamos
+title.en: We must meet up some time
+
+dialogue:
+- «¿Qué tal?» es la pregunta que más se hace en España, y la que menos pide respuesta.
+  en: "¿Qué tal?" is the question most often asked in Spain, and the one that asks for the least answer.
+- Alguien te la hace en el ascensor, tú contestas «bien», y ahí termina todo.
+  en: Someone asks you in the lift, you say "bien", and that is the end of it.
+- Otras frases son más difíciles, porque no significan lo que dicen.
+  en: Other phrases are harder, because they do not mean what they say.
+- «A ver si quedamos» es la más famosa. Se dice al despedirse de un amigo al que hace tiempo que no se ve.
+  en: "A ver si quedamos" is the most famous. It is said when saying goodbye to a friend you have not seen for a long time.
+- Todo el mundo lo dice, y casi nadie lo cumple: puede repetirse durante años sin que nadie proponga una fecha.
+  en: Everybody says it, and almost nobody keeps it: it can be repeated for years without anyone proposing a date.
+- «Ya te llamaré» no quiere decir que vaya a llamar, sino que la conversación ha terminado.
+  en: "Ya te llamaré" does not mean that the caller will ring, but that the conversation is over.
+- «En cinco minutos estoy» suele significar veinte, y «ahora voy» significa dentro de un rato.
+  en: "En cinco minutos estoy" usually means twenty minutes, and "ahora voy" means in a while.
+- «Lo que tú digas» quiere decir que no estás de acuerdo, y «como quieras» que lo vas a lamentar.
+  en: "Lo que tú digas" means that I don't agree, and "como quieras" that you will regret it.
+- Nadie lo dice en voz alta: el tono lo dice todo.
+  en: Nobody says it out loud: the tone says it all.
+- Lo que sí se dice con claridad es «cuando puedas» o «donde prefieras», que dejan la elección abierta.
+  en: What is said clearly is "cuando puedas" or "donde prefieras", which leave the choice open.
+- «Ahora mismo» puede querer decir dentro de un rato, y «luego» puede querer decir cualquier otro día.
+  en: "Ahora mismo" can mean in a while, and "luego" can mean any other day.
+- Se aprende a escuchar estas frases como se aprende un idioma: poco a poco, y acabas por entender el tono antes que las palabras.
+  en: You learn to listen to these phrases the way you learn a language: little by little, and in the end you understand the tone before the words.
+- Las palabras que más se usan son las que más esconden.
+  en: The words used most are the ones that hide the most.
+- Por eso, cuando alguien dice una fecha, la frase suele ser sincera.
+  en: So when someone gives a date, the phrase is usually sincere.
+- Hay excepciones, claro: el amigo que de verdad quiere quedar dice el día y la hora.
+  en: There are exceptions, of course: the friend who really wants to meet says the day and the time.
+- Entre tanta frase vacía, esa sí cuenta.
+  en: Among so many empty phrases, that one does count.
+- Hace diez años, un viejo amigo me escribió: «A ver si quedamos un día». Todavía lo estoy esperando, y acabo de mandarle el mismo mensaje.
+  en: Ten years ago an old friend wrote to me: "Let's see if we can meet up one day". I am still waiting, and I have just sent him the same message.
+
+notes.en:
+1. ¿Qué tal? (line 1): a greeting that asks a question nobody waits to have answered in full; "bien" closes it. Example: ¿Qué tal el fin de semana? "how was the weekend?" (to a friend), when the answer is short.
+2. a ver si quedamos (line 4): a ver si followed by the indicative is "let's see whether", and in this phrase it is a wish with no plan behind it. Quedar means to meet up, as in lesson 9, note 1. Example: A ver si nos vemos el sábado, "let's see if we can meet on Saturday".
+3. ya te llamaré (line 6): the future for a vague promise; the speaker does not commit to a day. Example: Ya lo veremos, "we'll see".
+4. sino que (line 6): after a negative clause, sino que introduces a verb or a clause. Example: No te llamo para pedirte nada, sino que quiero hablar, "I'm not calling to ask you for anything, but because I want to talk".
+5. en cinco minutos estoy (line 7): estar used for a future arrival, "I'll be there", and the time given is often not the time meant. Example: Estoy en la puerta, "I'm at the door".
+6. ahora voy (line 7): ir in the present with ahora, "I'm coming", and here it means soon, later. Example: ¿Vienes? Ahora voy, "are you coming? In a bit".
+7. lo que tú digas (line 8): the subjunctive of the open choice, the same pattern as pase lo que pase in Foundation, lesson 85. Example: Lo que tú digas, "whatever you say".
+8. como quieras (line 8): the same subjunctive of the open choice, here with como. Example: Como quieras, yo me voy, "as you like, I'm going".
+9. cuando puedas, donde prefieras (line 10): cuando and donde with a subjunctive leave the choice to the other person. Example: Ven cuando puedas, "come when you can".
+10. ahora mismo, luego (line 11): ahora mismo is "right now", and luego is "later". In speech both are used loosely, and the time they name is not always the time meant. Example: Luego te llamo, "I'll call you later".
+11. quedar (line 17): the verb of lesson 9, to meet up. Example: He quedado con Marta el martes, "I've arranged to meet Marta on Tuesday".
+
+ex1:
+- A ver si quedamos un día de estos, ¿vale?
+  en: Let's see if we can meet up one of these days, OK? (to a friend)
+- Ya te llamaré, pero no sé cuándo.
+  en: I'll call you, but I don't know when.
+- Como quieras, pero yo creo que es mejor ir mañana.
+  en: As you like, but I think it's better to go tomorrow.
+- Pásate por casa cuando puedas.
+  en: Drop by the house when you can (to a friend).
+- Ahora mismo voy, que me estoy cambiando.
+  en: I'm coming right away, I'm getting changed (to a friend).
+
+ex2:
+- [A ver si] nos vemos esta semana.
+  en: Let's see if we can see each other this week.
+- Lo que tú [digas], yo acepto.
+  en: Whatever you say, I accept.
+- Ya te [llamaré] esta semana.
+  en: I'll call you this week.
+- Ven [cuando] puedas.
+  en: Come when you can.
+- Ahora [mismo] te lo traigo.
+  en: I'll bring it to you right away.
+
+== 14 B2
+kind: revision
+numeral: Lección catorce
+title: Repaso y matices
+title.en: Revision and finer points
+
+notes.en:
+The second week of this course is finished. Nothing here needs learning by heart: the tables put in order what you have read in lessons 8 to 13, and those texts are your store of examples.
+If a point still feels unclear, go on anyway: it will come back in other texts, and each time it will be clearer. Read the tables once, then do the ten exercises at the end.
+1. Sino and pero (lessons 10 to 13).
+| Word | What it does | Example from the week | In English |
+|---|---|---|---|
+| pero | adds a contrast, and both parts stand | Puede que el Gobierno lo apruebe, pero también puede que no (lesson 10) | The government may approve it, but it may also not |
+| sino | corrects a negative: the first part is dropped | No es pequeño, sino práctico (lesson 12) | It's not small, it's practical |
+| sino que | corrects a negative with a verb or a clause | no quiere decir que vaya a llamar, sino que la conversación ha terminado (lesson 13) | does not mean that the caller will ring, but that the conversation is over |
+| no solo ... sino también | the pair for "not only ... but also" | No solo es céntrico, sino también muy animado (lesson 12) | Not only is it central, it is also very lively |
+2. Probability and hedging (lessons 10 and 13), from the likeliest to the least likely.
+| Expression | Mood it takes | Example from lesson 10 | In English |
+|---|---|---|---|
+| lo más seguro es que | subjunctive | Lo más seguro es que el decreto llegue el último día de enero | The most likely thing is that the decree will arrive on the last day of January |
+| se prevé que | subjunctive | Se prevé que el año tenga once puentes | It is forecast that the year will have eleven bridges |
+| a lo mejor | indicative, never the subjunctive | A lo mejor hacemos puente el viernes | Maybe we'll take Friday off |
+| quizá, quizás, tal vez | either mood | Quizá nos den el viernes | Perhaps they will give us Friday |
+| igual | familiar in Spain, often with the indicative | Igual nos dan el viernes | Maybe they'll give us Friday |
+| puede que | subjunctive | Puede que el Gobierno lo apruebe | It may be that the government approves it |
+3. Past habits and the subjunctive of feelings (lesson 8).
+| Form | What it does | Example from lesson 8 | In English |
+|---|---|---|---|
+| solía llegar | soler in the imperfect: a past habit | De joven solía llegar al cine antes de que abriera la taquilla | As a young man he used to arrive at the cinema before the box office opened |
+| acostumbraba a llegar | acostumbrar a in the imperfect: the habit, a little more formal | acostumbraba a llegar a la iglesia media hora antes | he was in the habit of getting to the church half an hour early |
+| le molestaba que llegara | a feeling about a clause takes que and the subjunctive | Le molestaba que la gente llegara tarde | It annoyed him that people arrived late |
+| le extrañaba que nadie se disculpara | extrañar in Spain means to surprise, not to miss | le extrañaba todavía más que nadie se disculpara | It surprised him even more that nobody apologised |
+| no soportaba que alguien se lo tomara a broma | soportar with que and the subjunctive | no soportaba que alguien se lo tomara a broma | He could not stand anyone taking it as a joke |
+4. Phrases that mean something else, and the subjunctive of the open choice (lessons 10 and 13).
+| Phrase | What it really means | Example from the week | In English |
+|---|---|---|---|
+| ya te llamaré | a vague promise, with no day given | «Ya te llamaré» (lesson 13) | I'll call you |
+| en cinco minutos estoy | some time later, often twenty minutes | «En cinco minutos estoy» (lesson 13) | I'll be there in five minutes |
+| lo que tú digas | I don't agree | «Lo que tú digas» (lesson 13) | Whatever you say |
+| como quieras | you will regret it | «como quieras» (lesson 13) | As you like |
+| cuando puedas, donde prefieras | the choice is left to the other person | «cuando puedas» o «donde prefieras» (lesson 13) | When you can, wherever you prefer |
+| llegue el puente que llegue | whatever comes: the verb repeats after the noun and que | Llegue el puente que llegue (lesson 10) | Whatever bridge comes |
+5. The quedar family (lesson 9).
+| Expression | What it does | Example from lesson 9 | In English |
+|---|---|---|---|
+| quedar con | to arrange to meet someone | Ana propone quedar con las dos familias | Ana suggests meeting both families |
+| quedar en | to agree on a day or a time | Ana le recuerda que han quedado en el sábado a las nueve | Ana reminds him that they agreed on Saturday at nine |
+| quedarse con | to keep | Dani se queda con la chaqueta vieja | Dani keeps the old jacket |
+| le queda grande | too big for someone | el traje le queda grande por los hombros | the suit is too big for him across the shoulders |
+| quedarse sin | to run out of | porque se ha quedado sin azúcar | because she has run out of sugar |
+| quedarse de piedra | to be stunned | su padre se queda de piedra | his father is stunned |
+| quedan dos días | to be left | quedan dos días para el sábado | there are two days left until Saturday |
+
+Practice. Ten sentences, five to translate and five to fill in.
+
+ex1:
+- No es un piso grande, sino uno práctico.
+  en: It is not a big flat, but a practical one.
+- A lo mejor llego un poco tarde.
+  en: Maybe I'll arrive a little late.
+- Me extraña que todavía no haya llegado.
+  en: It surprises me that he has not arrived yet.
+- Lo que tú digas, pero yo lo tengo claro.
+  en: Whatever you say, but I'm clear about it. (to a friend)
+- Quedamos en vernos en el bar del puerto.
+  en: We agreed to meet at the bar by the harbour.
+
+ex2:
+- No es grande, [sino] práctico.
+  en: It is not big, but rather practical.
+- Lo más seguro es [que] llueva mañana.
+  en: It will most likely rain tomorrow.
+- Ya [te] llamaré esta semana.
+  en: I'll call you this week.
+- Ese traje [le] queda muy bien a tu hermano.
+  en: That suit suits your brother very well.
+- Ya no [queda] ni un trozo de tarta.
+  en: There isn't a single piece of cake left.

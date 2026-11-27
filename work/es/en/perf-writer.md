@@ -298,3 +298,13 @@ you think is wrong (quote it, do not change it).
   quedó.
 - No dash at the start of a dialogue line.
 - When a revision table quotes a line, copy it from the final lesson file.
+
+## Rules added after week 2
+
+- The last line of a story states the twist cleanly (era su fiesta
+  sorpresa, y el único que había llegado tarde era él), not a summary of
+  what the reader already knows.
+- A satire's last line must be literal enough to be understood: no image
+  that means nothing ("la ha convertido en acueducto").
+- An exercise never quotes a line that was cut or changed: check against
+  the final dialogue.

@@ -185,3 +185,580 @@ Come in italiano, i tempi si spostano indietro: il presente diventa imperfetto. 
 
 
 Chiudiamo il ripasso: la prossima lezione è la 78, con mandar, deixar e fazer seguiti dall'infinito.
+
+== 78 B2
+numeral: Septuagésima oitava lição
+numeral.pron.it: sëptua*jè*zima oi*ta*va li*sauⁿ*
+title: Mandei arranjar o carro
+title.it: Ho fatto riparare la macchina
+
+dialogue:
+- Bom dia. Telefono por causa do carro. Já está pronto?
+  it: Buongiorno. Telefono per la macchina. È già pronta?
+  pron.it: … të'l*fó*nu … *ca*rru …
+- Quase. Mandei vir uma peça da Alemanha.
+  it: Quasi. Ho fatto venire un pezzo dalla Germania.
+  pron.it: … maⁿ*dèi* … *pè*sa … a'l*ma*gna
+- Quanto tempo?
+  it: Quanto tempo?
+- Duas semanas.
+  it: Due settimane.
+- E entretanto?
+  it: E nel frattempo?
+  pron.it: … eⁿtrë*taⁿ*tu
+- Deixe-me pensar... Pode alugar um.
+  it: Mi lasci pensare... può noleggiarne uno.
+  pron.it: *dèi*scë-më … alu*gar* …
+- Alugar um? Eu não tenho dinheiro para isso.
+  it: Noleggiarne uno? Io non ho i soldi per questo.
+- E já mandei arranjar o motor. Os travões também.
+  it: E ho già fatto riparare il motore. Anche i freni.
+  pron.it: … arraⁿ*jar* … mu*tór* … tra*voiⁿsh* …
+- E está tudo mau?
+  it: E va tutto male?
+- Pior. Deixe-me ver a conta.
+  it: Peggio. Mi lasci vedere il conto.
+  pron.it: pi*òr* … *coⁿ*ta
+- Então, quanto fica?
+  it: Allora, quanto viene?
+- Mil e quinhentos euros.
+  it: Millecinquecento euro.
+- Mil e quinhentos? Isso é mais do que o carro vale!
+  it: Millecinquecento? È più di quanto vale la macchina!
+- Pois.
+  it: Già.
+- Quer que o mande arranjar ou que o mande para a sucata?
+  it: Vuole che la faccia riparare o che la mandi allo sfasciacarrozze?
+  pron.it: … *maⁿ*dë … su*ca*ta
+
+notes.it:
+1. Mandei vir uma peça da Alemanha: mandar più l'infinito vuol dire "far fare" qualcosa, come l'italiano "far venire". Mandei vir è "ho fatto venire"; peça è il pezzo di ricambio.
+2. Mandei arranjar o motor: arranjar vuol dire "riparare", ma anche "trovare", come in arranjar emprego (trovare lavoro).
+3. Deixe-me pensar: deixar più l'infinito vuol dire "lasciare" qualcuno a fare qualcosa. Il pronome me si attacca a deixe con il trattino, perché la frase è affermativa: "mi lasci pensare".
+4. Pode alugar um: alugar è "noleggiare", e um sta per carro. Il portoghese non ripete la parola: um basta, come in italiano "ne".
+5. Deixe-me ver a conta: deixar più l'infinito, con il pronome dopo il verbo e il trattino: "mi lasci vedere". Il meccanico chiede tempo per guardare il conto prima di dirne la cifra.
+6. Isso é mais do que o carro vale: valer vuol dire "valere", e mais do que è "più di quanto".
+7. Quer que o mande arranjar: quer que vuole il congiuntivo, mande, e il pronome o si mette prima del verbo, dopo que.
+8. Ou que o mande para a sucata: sucata è il rottame, e mandar para a sucata è "mandare allo sfasciacarrozze". Mandar torna qui con due sensi, "far riparare" e "mandare via": la battuta sta in questo doppio senso.
+
+ex1:
+- Mandei arranjar a porta ontem.
+  it: Ieri ho fatto riparare la porta.
+- Deixe-me ver o carro.
+  it: Mi lasci vedere la macchina.
+- Pode alugar um para a semana.
+  it: Può noleggiarne uno per la settimana.
+- Isso é mais do que vale.
+  it: È più di quanto vale.
+- Quer que o mande para casa?
+  it: Vuole che lo mandi a casa?
+
+ex2:
+- Mandei [vir] uma peça da Alemanha.
+  it: Ho fatto venire un pezzo dalla Germania.
+- [Deixe-me] pensar um pouco.
+  it: Mi lasci pensare un po'.
+- Quer que o [mande] arranjar?
+  it: Vuole che la faccia riparare?
+- Pode [alugar] um.
+  it: Può noleggiarne uno.
+- Quanto [fica] a conta?
+  it: Quanto viene il conto?
+
+== 79 B2
+numeral: Septuagésima nona lição
+numeral.pron.it: sëptua*jè*zima *nó*na li*sauⁿ*
+title: Quanto mais, melhor
+title.it: Più siamo, meglio è
+
+dialogue:
+- Vamos fazer um arraial no quintal, para Santo António.
+  it: Facciamo un arraial (una festa) in cortile, per sant'Antonio.
+  pron.it: … arrai*al* … chiⁿ*tal* …
+- Quanto mais gente, mais alegria.
+  it: Più gente c'è, più allegria.
+  pron.it: … *jeⁿ*të … zalë*gri*a
+- E quanto mais gente, mais sardinhas.
+  it: E più gente c'è, più sardine ci vogliono.
+- Quanto mais sardinhas, mais fumo.
+  it: Più sardine ci sono, più fumo c'è.
+  pron.it: … *fu*mu
+- E quanto mais fumo, mais vizinhos a reclamar.
+  it: E più fumo c'è, più vicini pronti a lamentarsi ci sono.
+  pron.it: … rrëcla*mar*
+- Cada vez mais vizinhos reclamam.
+  it: Sempre più vicini si lamentano.
+  pron.it: … rrë*cla*mauⁿ
+- Então convidamos os vizinhos.
+  it: Allora invitiamo i vicini.
+  pron.it: … coⁿvi*da*muz …
+- Todos?
+  it: Tutti?
+- Todos. E eu grelho as sardinhas no grelhador do quintal.
+  it: Tutti. E io griglio le sardine sulla griglia del cortile.
+  pron.it: … *grè*gliu … grëglia*dór* …
+- E o vinho? Quem o compra?
+  it: E il vino? Chi lo compra?
+  pron.it: … *coⁿ*pra
+- Tu. Eu trato das cadeiras.
+  it: Tu. Io mi occupo delle sedie.
+  pron.it: … *tra*tu … ca*dèi*rash
+- Então vou comprar o vinho e o pão.
+  it: Allora vado a comprare il vino e il pane.
+- Está bem. E quanto mais vizinhos estiverem aqui, menos ficam em casa a reclamar.
+  it: Va bene. Più vicini ci sono qui, meno restano in casa a lamentarsi.
+  pron.it: … 'shti*vè*reiⁿ …
+
+notes.it:
+1. Quanto mais gente, mais alegria: quanto mais ... mais ... vuol dire "più ... più ...", come in italiano "più gente c'è, più allegria". Il verbo qui è sottinteso: c'è, ci sono.
+2. E quanto mais gente, mais sardinhas: la battuta ripete lo schema con una cosa in più. Quanto menos ... menos ... è il contrario: "meno ... meno".
+3. Mais vizinhos a reclamar: a più infinito dopo un nome dice che cosa stanno facendo, come "vicini a lamentarsi". Reclamar vuol dire "lamentarsi" e anche "protestare".
+4. Cada vez mais vizinhos reclamam: cada vez mais vuol dire "sempre più", e si usa per un crescere continuo. Cada vez mais gente è la stessa idea di "sempre più gente".
+5. Quanto mais vizinhos estiverem aqui: il futuro del congiuntivo (estiverem, da estar) dopo quanto mais parla di un fatto che ancora deve avvenire, come "più vicini ci saranno".
+6. Eu grelho as sardinhas: grelhar vuol dire "grigliare". Il grelhador è la griglia da giardino; in italiano diciamo "griglia".
+7. Tu. Eu trato das cadeiras: tratar de vuol dire "occuparsi di", come in quem trata das contas (lezione 73). Das è de più as, la stessa contrazione della lezione 65.
+8. Está bem. E quanto mais ...: è la risposta di chi accetta, come "va bene", e apre la frase che segue.
+
+culture.it:
+Le sardinhas sono al meglio d'estate, quando sono più grasse, e durante i santi popolari si servono grigliate intere su una fetta di pane che assorbe il succo. Da dire: Mais uma sardinha? (Ancora una sardina?).
+
+ex1:
+- Quanto mais chove, mais gente fica em casa.
+  it: Più piove, più gente resta in casa.
+- Quanto mais gente, melhor.
+  it: Più gente c'è, meglio è.
+- Cada vez mais gente gosta de sardinhas.
+  it: Sempre più gente ama le sardine.
+- Os vizinhos estão a reclamar.
+  it: I vicini si stanno lamentando.
+- O vinho é para todos.
+  it: Il vino è per tutti.
+
+ex2:
+- Quanto mais gente, mais [alegria].
+  it: Più gente c'è, più allegria.
+- Cada vez [mais] vizinhos reclamam.
+  it: Sempre più vicini si lamentano.
+- Então [convidamos] os vizinhos.
+  it: Allora invitiamo i vicini.
+- Eu [grelho] as sardinhas.
+  it: Io griglio le sardine.
+- Quanto mais vizinhos [estiverem] aqui, menos ficam em casa.
+  it: Più vicini ci sono qui, meno restano in casa.
+
+== 80 B2
+numeral: Octogésima lição
+numeral.pron.it: utu*jè*zima li*sauⁿ*
+title: O fado
+title.it: Il fado
+
+dialogue:
+- O fado nasceu em Lisboa, nos bairros pobres.
+  it: Il fado è nato a Lisbona, nei quartieri poveri.
+  pron.it: … ba*i*rrush *pó*brësh
+- Diz-se que nasceu na Alfama.
+  it: Si dice che sia nato nell'Alfama.
+- A palavra vem do latim, e quer dizer destino.
+  it: La parola viene dal latino, e vuol dire destino.
+  pron.it: … pa*la*vra … la*tiⁿ* … dësh*ti*nu
+- Uma cantora do século dezanove foi a primeira grande lenda do fado.
+  it: Una cantante dell'Ottocento fu la prima grande leggenda del fado.
+  pron.it: … caⁿ*tó*ra … pri*mèi*ra … *leⁿ*da …
+- Amália Rodrigues levou o fado para o mundo.
+  it: Amália Rodrigues portò il fado nel mondo.
+  pron.it: a*ma*lia rru*dri*ghësh lë*vó* … *muⁿ*du
+- O fado é cantado com a guitarra portuguesa e a viola.
+  it: Il fado è cantato con la guitarra portuguesa e la viola.
+  pron.it: … caⁿ*ta*du … vi*ò*la
+- Muitas fadistas usavam xaile preto.
+  it: Molte fadiste portavano lo scialle nero.
+  pron.it: … fa*dish*ta zu*za*vauⁿ *sciai*lë …
+- Em Coimbra, o fado é cantado pelos estudantes.
+  it: A Coimbra il fado è cantato dagli studenti.
+  pron.it: … *pé*lush 'shtu*daⁿ*tësh
+- Em 2011, a UNESCO declarou o fado património da humanidade.
+  it: Nel 2011 l'UNESCO ha dichiarato il fado patrimonio dell'umanità.
+  pron.it: … u*nésh*cu dëcla*ró* … patri*moⁿ*iu … umani*da*dë
+- Hoje há cantores novos.
+  it: Oggi ci sono cantanti nuovi.
+  pron.it: … caⁿ*tó*rësh *nò*vush
+- Cantam o fado de outra maneira.
+  it: Cantano il fado in un altro modo.
+  pron.it: … ma*nèi*ra
+- A melhor maneira de conhecer o fado é ouvi-lo numa taberna de Lisboa.
+  it: Il modo migliore per conoscere il fado è ascoltarlo in una taverna di Lisbona.
+  pron.it: … cu'gn*sér* … o*vi*-lu … ta*bèr*na …
+
+notes.it:
+1. Nasceu è il pretérito perfeito di nascer: un fatto concluso nel passato. In italiano si dice "è nato", con il passato prossimo.
+2. A palavra vem do latim, e quer dizer destino: quer dizer vuol dire "significa", e il fado porta il nome della parola latina fatum.
+3. Foi a grande lenda: foi è il pretérito perfeito di ser, "fu". Levou, poi, è il perfeito di levar, "portare": Amália ha portato il fado nel mondo, un fatto finito.
+4. É cantado: il passivo, con ser più il participio, come nella lezione 64. Viola è la chitarra acustica che tiene il ritmo sotto la guitarra portuguesa, non la viola italiana.
+5. Usavam è l'imperfetto: un'abitudine del passato, "portavano" sempre, non un fatto preciso.
+6. Pelos estudantes: pelos è por + os, e introduce chi compie l'azione, come pelo rei nella lezione 64.
+7. Ouvi-lo: il pronome lo si attacca all'infinito con il trattino, "ascoltarlo".
+
+aside.it:
+Da ora in poi leggi per piacere: capisci molto più di quanto pensi.
+
+ex1:
+- O fado é cantado em Lisboa.
+  it: Il fado è cantato a Lisbona.
+- A palavra vem do latim.
+  it: La parola viene dal latino.
+- Hoje há cantores novos.
+  it: Oggi ci sono cantanti nuovi.
+- Os estudantes cantam em Coimbra.
+  it: Gli studenti cantano a Coimbra.
+- Eu gosto muito de fado.
+  it: Mi piace molto il fado.
+
+ex2:
+- O fado [nasceu] em Lisboa.
+  it: Il fado è nato a Lisbona.
+- Uma cantora foi a primeira grande [lenda] do fado.
+  it: Una cantante fu la prima grande leggenda del fado.
+- O fado é [cantado] com a viola.
+  it: Il fado è cantato con la viola.
+- Muitas fadistas [usavam] xaile preto.
+  it: Molte fadiste portavano lo scialle nero.
+- A palavra vem do [latim].
+  it: La parola viene dal latino.
+
+== 81 B2
+numeral: Octogésima primeira lição
+numeral.pron.it: utu*jè*zima pri*mèi*ra li*sauⁿ*
+title: Diz-se que...
+title.it: Si dice che...
+
+dialogue:
+- Diz-se que o estrangeiro comprou o monte do senhor Joaquim.
+  it: Si dice che lo straniero ha comprato la tenuta del signor Joaquim.
+  pron.it: … 'shtraⁿ*jèi*ru coⁿ*pró* … jua*chiⁿ*
+- Dizem que é italiano.
+  it: Dicono che è italiano.
+- Diz-se que não sabe fazer nada.
+  it: Si dice che non sappia fare niente.
+- E que planta tomates em janeiro.
+  it: E che pianta pomodori a gennaio.
+  pron.it: … *plaⁿ*ta tu*ma*tëz … ja*nèi*ru
+- Na aldeia fala-se muito dele.
+  it: Al paese si parla molto di lui.
+  pron.it: … *fa*la-së …
+- E alguém já falou com ele?
+  it: E qualcuno gli ha già parlato?
+  pron.it: … fa*ló* …
+- Ninguém. Mas sabe-se tudo.
+  it: Nessuno. Ma si sa tutto.
+- Ouvi dizer que quer alugar os quartos da casa velha.
+  it: Ho sentito dire che vuole affittare le stanze della casa vecchia.
+  pron.it: … *cuar*tush … *vè*glia
+- Então, quem os limpa?
+  it: Allora chi le pulisce?
+  pron.it: … *liⁿ*pa
+- Ninguém quer ir lá.
+  it: Nessuno vuole andarci.
+- Porque ninguém fala com ele, não é?
+  it: Perché nessuno gli parla, no?
+- Então, como é que se sabe tudo?
+  it: Allora come si fa a sapere tutto?
+- Sabe-se também que ele percebe português. Bom dia.
+  it: Si sa anche che capisce il portoghese. Buongiorno.
+
+notes.it:
+1. Diz-se que: il se unito al verbo, alla terza persona singolare, vuol dire "si dice che". In italiano è la stessa idea, con il si davanti al verbo.
+2. Dizem que é italiano: anche la terza persona plurale, senza soggetto, vuol dire "si dice che", come "dicono che" in italiano.
+3. Fala-se muito dele: fala-se è "si parla", e dele è "di lui", come in são dele nella lezione 64.
+4. Sabe-se tudo: il se con il verbo ripete la forma di diz-se. Qui la frase vuol dire "si sa tutto".
+5. Alugar os quartos: alugar vuol dire "affittare" o "dare in affitto". Alugam-se quartos è il cartello "si affittano stanze", con il verbo al plurale come i quartos.
+6. Como é que se sabe tudo: é que mette in rilievo la domanda, come in tu é que ficaste nella lezione 74.
+7. Percebe português: in Portogallo perceber vuol dire "capire", come in italiano. Non percebo a letra dela lo abbiamo visto nella lezione 15.
+
+ex1:
+- Diz-se que o estrangeiro não fala português.
+  it: Si dice che lo straniero non parli portoghese.
+- Dizem que ele planta tomates.
+  it: Dicono che lui coltivi pomodori.
+- Ninguém sabe nada.
+  it: Nessuno sa niente.
+- Na aldeia fala-se de tudo.
+  it: Al paese si parla di tutto.
+- Ele já comprou a casa velha.
+  it: Lui ha già comprato la casa vecchia.
+
+ex2:
+- Na aldeia [fala-se] muito dele.
+  it: Al paese si parla molto di lui.
+- Mas [sabe-se] tudo.
+  it: Ma si sa tutto.
+- Ouvi [dizer] que quer alugar os quartos.
+  it: Ho sentito dire che vuole affittare le stanze.
+- Ele [planta] tomates.
+  it: Lui pianta pomodori.
+- [Dizem] que é italiano.
+  it: Dicono che è italiano.
+
+== 82 B2
+numeral: Octogésima segunda lição
+numeral.pron.it: utu*jè*zima së*guⁿ*da li*sauⁿ*
+title: Parece que funciona
+title.it: Sembra che funzioni
+
+dialogue:
+- Parece que a máquina nova faz bicas.
+  it: Pare che la macchina nuova faccia le bicas (gli espressi di Lisbona).
+  pron.it: pa*rè*së … *bi*cash
+- Pelos vistos faz tudo: galões, meias de leite, abatanados.
+  it: A quanto pare fa tutto: galão, meia de leite, abatanado.
+  pron.it: … *vish*tush … ga*loiⁿsh* *mèi*ash … *lèi*të abata*na*dush
+- Deve ter custado uma fortuna.
+  it: Dev'essere costata una fortuna.
+  pron.it: … cush*ta*du … fur*tu*na
+- Parece que foi o chefe que a escolheu.
+  it: Pare che sia stato il capo a sceglierla.
+  pron.it: … *scè*fë … 'shcu*gliéu*
+- E ele sabe usá-la?
+  it: E lui sa usarla?
+  pron.it: … u*za*-la
+- Pelos vistos não. Está há meia hora a carregar em botões.
+  it: A quanto pare no. È da mezz'ora che preme i pulsanti.
+  pron.it: … ca'rr*gar* … bu*toiⁿsh*
+- E quem é que a vai limpar?
+  it: E chi la pulirà?
+  pron.it: … liⁿ*par*
+- Parece que és tu.
+  it: Sembra che tocchi a te.
+- Não me digas. Então serve para quê?
+  it: Non dirmelo. Allora a che cosa serve?
+  pron.it: … *di*gash … *sèr*vë …
+- Para dar trabalho ao chefe.
+  it: A dare lavoro al capo.
+  pron.it: … dar …
+- Pois. E o café, então?
+  it: Già. E il caffè, allora?
+- Parece-me que vamos ao café da esquina, como sempre.
+  it: Mi sembra che andiamo al bar all'angolo, come sempre.
+  pron.it: … 'sh*chi*na …
+
+notes.it:
+1. Parece que a máquina nova faz bicas: parecer que vuol dire "sembra che", e vuole l'indicativo: parece que funciona, dove l'italiano dice "sembra che funzioni", con il congiuntivo.
+2. Pelos vistos: "a quanto pare". Nella battuta pelos vistos não, "a quanto pare no", è la risposta che nega quello che l'altro ha detto.
+3. Deve ter custado uma fortuna: dever più ter più il participio dice una probabilità, "dev'essere costata". Non è un obbligo: è quello che si deduce.
+4. Foi o chefe que a escolheu: a è il pronome "la", riferito a máquina; dopo que il pronome va prima del verbo, come in que o mande nella lezione 78.
+5. Usá-la: dopo l'infinito il pronome si attacca con il trattino, "usarla". Con que davanti, invece, il pronome va prima: quem é que a vai limpar.
+6. Está há meia hora a carregar em botões: estar più há più il tempo dice "è da mezz'ora che"; carregar em vuol dire "premere". Da solo carregar vuol dire anche "caricare".
+7. Para dar trabalho ao chefe: dar trabalho vuol dire "dare da fare", e ao è a + o, come in italiano "al capo".
+8. Parece-me que vamos: parecer-me è "mi sembra", con il pronome me dopo il verbo e il trattino. La battuta finale è quella che dice tutto: il café da esquina è il bar all'angolo.
+
+culture.it:
+A Lisbona, al bar, si ordina il caffè con parole precise: la bica è l'espresso, il pingado è l'espresso con un goccio di latte, il galão è il latte macchiato servito in un bicchiere alto, la meia de leite è il caffelatte in tazza e l'abatanado è un caffè lungo, con più acqua calda. Da dire: Uma bica, se faz favor. (Un espresso, per favore.)
+
+ex1:
+- Parece que o café está frio.
+  it: Pare che il caffè sia freddo.
+- Deve ter custado caro.
+  it: Dev'essere costato caro.
+- Pelos vistos, ela já chegou.
+  it: A quanto pare lei è già arrivata.
+- Parece-me que vamos ao café.
+  it: Mi sembra che andiamo al bar.
+- Ele escolheu um café grande.
+  it: Lui ha scelto un caffè grande.
+
+ex2:
+- Parece que a máquina nova faz [bicas].
+  it: Pare che la macchina nuova faccia le bicas.
+- Deve [ter] custado uma fortuna.
+  it: Dev'essere costata una fortuna.
+- E ele sabe [usá-la]?
+  it: E lui sa usarla?
+- Pelos [vistos] não.
+  it: A quanto pare no.
+- Parece-me que vamos ao [café] da esquina.
+  it: Mi sembra che andiamo al bar all'angolo.
+
+== 83 B2
+numeral: Octogésima terceira lição
+numeral.pron.it: utu*jè*zima tër*sèi*ra li*sauⁿ*
+title: O 25 de Abril
+title.it: Il 25 aprile
+
+dialogue:
+- Em 25 de abril de 1974, jovens capitães acabaram com a ditadura.
+  it: Il 25 aprile 1974 giovani capitani dell'esercito posero fine alla dittatura.
+  pron.it: … a*bril* … *jò*veiⁿsh capi*taiⁿsh* aca*ba*rauⁿ … dita*du*ra
+- A ditadura durava há mais de quarenta anos.
+  it: La dittatura durava da più di quarant'anni.
+  pron.it: … du*ra*va …
+- Depois da meia-noite, a rádio tocou «Grândola, Vila Morena»: era o sinal combinado.
+  it: Dopo mezzanotte la radio trasmise «Grândola, Vila Morena»: era il segnale concordato.
+  pron.it: … *graⁿ*dula *vi*la mu*ré*na … si*nal* coⁿbi*na*du
+- Nas ruas de Lisboa, o povo saiu de casa.
+  it: Nelle strade di Lisbona il popolo uscì di casa.
+  pron.it: … *pó*vu …
+- O exército e o povo estavam do mesmo lado.
+  it: L'esercito e il popolo stavano dalla stessa parte.
+  pron.it: … i*zèr*situ …
+- As pessoas deram cravos aos soldados.
+  it: La gente diede garofani ai soldati.
+  pron.it: … *dè*rauⁿ *cra*vuz … sul*da*dush
+- Os soldados tinham cravos vermelhos nas espingardas.
+  it: I soldati avevano garofani rossi nei fucili.
+  pron.it: … vër*mè*gliush … 'shpiⁿ*gar*dash
+- Por isso, a revolução ficou conhecida como a revolução dos cravos.
+  it: Per questo la rivoluzione è nota come la rivoluzione dei garofani.
+  pron.it: … rrëvulu*sauⁿ* … cu'gn*si*da …
+- Quase não houve sangue.
+  it: Quasi non ci fu sangue.
+  pron.it: … *ó*vë *saⁿ*guë
+- Pouco depois, as colónias tornaram-se independentes.
+  it: Poco dopo, le colonie diventarono indipendenti.
+  pron.it: … cu*lò*niash tur*na*rauⁿ-së iⁿ'dpeⁿ*deⁿ*tësh
+- Um ano depois, em 1975, houve as primeiras eleições livres.
+  it: Un anno dopo, nel 1975, ci furono le prime elezioni libere.
+  pron.it: … pri*mèi*ra zilèi*soiⁿsh* *li*vrësh
+- Hoje, 25 de abril é feriado: chama-se Dia da Liberdade.
+  it: Oggi il 25 aprile è festa nazionale: si chiama Giorno della Libertà.
+  pron.it: … fëri*a*du *scia*ma-së …
+- Ainda hoje, no 25 de abril, há cravos nas ruas.
+  it: Ancora oggi, il 25 aprile, ci sono garofani nelle strade.
+
+notes.it:
+1. Em 25 de abril de 1974: la data si scrive con de tra giorno, mese e anno. Acabaram è il perfetto di acabar, "posero fine": un fatto concluso.
+2. Durava há mais de quarenta anos: con l'imperfetto, há vuol dire "da", e il tempo si conta fino al momento di cui si parla: "da più di quarant'anni".
+3. Era o sinal combinado: combinado vuol dire "concordato", "stabilito in anticipo". Il sinal è il segnale, e la musica era il segnale per cominciare.
+4. Tinham cravos vermelhos: cravo vuol dire "garofano", qui il fiore. L'imperfetto tinham descrive quello che i soldati avevano quel giorno.
+5. Ficou conhecida: ficar più il participio vuol dire "diventare" o "restare": la rivoluzione è diventata nota così.
+6. As colónias tornaram-se independentes: tornar-se più aggettivo vuol dire "diventare", con il pronome riflessivo dopo il verbo.
+7. Um ano depois, em 1975, houve as primeiras eleições livres: houve è il perfetto di haver, "ci fu"; primeiras è il plurale di primeira, "prime".
+8. No 25 de abril: no è em + o, come no Porto nella lezione 69: "il 25 aprile".
+
+ex1:
+- A ditadura durava há muitos anos.
+  it: La dittatura durava da molti anni.
+- Por isso, a revolução ficou conhecida.
+  it: Per questo la rivoluzione è diventata nota.
+- Os soldados tinham cravos.
+  it: I soldati avevano garofani.
+- Quase não houve sangue.
+  it: Quasi non ci fu sangue.
+- Hoje é feriado.
+  it: Oggi è festa.
+
+ex2:
+- Em 25 de abril de 1974, jovens capitães [acabaram] com a ditadura.
+  it: Il 25 aprile 1974 giovani capitani posero fine alla dittatura.
+- A ditadura [durava] há mais de quarenta anos.
+  it: La dittatura durava da più di quarant'anni.
+- Era o sinal [combinado].
+  it: Era il segnale concordato.
+- Pouco depois, as colónias [tornaram-se] independentes.
+  it: Poco dopo, le colonie diventarono indipendenti.
+
+== 84 B2
+kind: revision
+numeral: Octogésima quarta lição
+numeral.pron.it: utu*jè*zima *cuar*ta li*sauⁿ*
+title: Revisão
+title.it: Ripasso
+
+dialogue:
+- Desculpe, é o senhor que faz o arraial?
+  it: Scusi, è lei che fa la festa di sant'Antonio?
+  refs: 4 79
+- Sou eu. O senhor é novo no prédio?
+  it: Sì, sono io. Lei è nuovo nel palazzo?
+  refs: 15 3 19 8
+- Acabei de chegar a este prédio. Quem trata das sardinhas?
+  it: Sono appena arrivato in questo palazzo. Chi si occupa delle sardine?
+  refs: 36 43 8 73 20
+- Eu. O grelhador já está no quintal.
+  it: Io. La griglia è già in cortile.
+  refs: 79
+- Quanto mais gente, melhor. Convida toda a gente?
+  it: Più gente c'è, meglio è. Invita tutti?
+  refs: 79 24 41
+- Quase toda. Falta a senhora de cima, que se queixa de tudo.
+  it: Quasi tutti. Manca la signora del piano di sopra, che si lamenta di tutto.
+  refs: 16 24 34 11 70
+- Então é melhor convidá-la: quem está na festa não se queixa.
+  it: Allora è meglio invitarla: chi è alla festa non si lamenta.
+  refs: 41 79 9 39
+- Ela diz que não vem. Parece que o barulho lhe faz mal.
+  it: Dice che non viene. Pare che il rumore le faccia male.
+  refs: 53 82 9 39 44
+- Então deixe-me falar com ela.
+  it: Allora mi lasci parlare con lei.
+  refs: 78 46 35
+- Não vale a pena. Já falei com ela.
+  it: Non serve. Ci ho già parlato.
+  refs: 76 75 35
+- Então não a convida?
+  it: Allora non la invita?
+  refs: 41 79
+- Convido-a eu, claro. É a minha mãe.
+  it: La invito io, certo. È mia madre.
+  refs: 41 21
+
+notes.it:
+Hai fatto le sei lezioni dalla 78 alla 83. Non serve impararle a memoria: rileggi i dialoghi, e i dubbi sono normali. Qui trovi in ordine quello che quelle lezioni hanno portato.
+
+1. Mandar e deixar più l'infinito (lezione 78)
+
+| Forma | Esempio | Italiano |
+|---|---|---|
+| mandar più infinito | Mandei vir uma peça da Alemanha (lezione 78) | ho fatto venire un pezzo dalla Germania |
+| mandar più infinito | Já mandei arranjar o motor (lezione 78) | ho già fatto riparare il motore |
+| deixar più infinito | Deixe-me pensar (lezione 78) | mi lasci pensare |
+| deixar più infinito | Deixe-me ver a conta (lezione 78) | mi lasci vedere il conto |
+| pronome dopo que | Quer que o mande arranjar (lezione 78) | vuole che la faccia riparare |
+
+Il pronome segue il verbo con il trattino nella frase affermativa (deixe-me), e va davanti al verbo dopo que (que o mande).
+
+2. Quanto mais e cada vez mais (lezione 79)
+
+| Forma | Esempio | Italiano |
+|---|---|---|
+| quanto mais ..., mais ... | Quanto mais gente, mais alegria (lezione 79) | più gente c'è, più allegria |
+| quanto mais più futuro del congiuntivo | Quanto mais vizinhos estiverem aqui (lezione 79) | più vicini ci saranno qui |
+| cada vez mais | Cada vez mais vizinhos reclamam (lezione 79) | sempre più vicini si lamentano |
+
+3. Il se con il verbo: "si" (lezione 81)
+
+| Forma | Esempio | Italiano |
+|---|---|---|
+| diz-se que | Diz-se que o estrangeiro comprou o monte (lezione 81) | si dice che lo straniero ha comprato la tenuta |
+| fala-se | Na aldeia fala-se muito dele (lezione 81) | al paese si parla molto di lui |
+| sabe-se | Mas sabe-se tudo (lezione 81) | ma si sa tutto |
+| dizem que | Dizem que é italiano (lezione 81) | si dice che è italiano |
+
+
+4. Parecer e dever, con la probabilità (lezione 82)
+
+| Forma | Esempio | Italiano |
+|---|---|---|
+| parece que | Parece que a máquina nova faz bicas (lezione 82) | sembra che la macchina nuova faccia le bicas |
+| parece-me que | Parece-me que vamos ao café (lezione 82) | mi sembra che andiamo al bar |
+| deve ter più participio | Deve ter custado uma fortuna (lezione 82) | dev'essere costata una fortuna |
+| pelos vistos | Pelos vistos não (lezione 82) | a quanto pare no |
+
+5. Il registro: tu, o senhor, a senhora
+
+| Forma | Con chi | Esempio | Italiano |
+|---|---|---|---|
+| tu | amici, colleghi della stessa età | Tu. Eu trato das cadeiras (lezione 79) | tu. Io mi occupo delle sedie |
+| o senhor | sconosciuti | E o senhor? (lezione 3) | e lei? |
+| a senhora | sconosciute, negozi, uffici | A senhora mora em Lisboa? (lezione 7) | lei abita a Lisbona? |
+
+Nelle lettere formali si scrive Exmo. Senhor (Excelentíssimo Senhor), e si chiude con Com os melhores cumprimentos.
+
+6. Numeri grandi e approssimazioni (lezioni 16, 26, 55)
+
+| Espressione | Esempio | Italiano |
+|---|---|---|
+| mil | Mil e quinhentos euros (lezione 55) | millecinquecento euro |
+| quase | Quase sempre (lezione 16) | quasi sempre |
+| mais de | Mais de duzentos quilómetros (lezione 26) | più di duecento chilometri |
+
+
+Chiudiamo il ripasso: la prossima lezione è la 85.

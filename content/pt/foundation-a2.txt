@@ -863,3 +863,601 @@ I verbi in -ar fanno -ava, i verbi in -er e -ir fanno -ia. Ser e vir sono irrego
 Il fatto preciso e finito sta al perfetto, lo sfondo, ciò che durava o si ripeteva, sta all'imperfetto. Come in italiano: l'imperfetto e il passato prossimo.
 
 Chiudiamo il ripasso: ci vediamo nella lezione 36.
+
+== 36 A2
+numeral: Trigésima sexta lição
+numeral.pron.it: tri*jè*zima *sèish*ta li*sauⁿ*
+title: Já está?
+title.it: È fatto?
+
+dialogue:
+- Já mandaste o email ao cliente?
+  it: Hai già mandato l'email al cliente?
+  pron.it: … maⁿ*dash*të … ima*il* … cli*eⁿ*të
+- Ainda não.
+  it: Non ancora.
+- Já ligaste ao fornecedor?
+  it: Hai già chiamato il fornitore?
+  pron.it: … li*gash*të … fur'nsë*dór*
+- Acabei de ligar. Não atendeu.
+  it: Ho appena chiamato. Non ha risposto.
+  pron.it: aca*bèi* … li*gar* … ateⁿ*déu*
+- Já fizeste a apresentação?
+  it: Hai già fatto la presentazione?
+  pron.it: … aprëzeⁿta*sauⁿ*
+- Está quase pronta.
+  it: È quasi pronta.
+  pron.it: … *proⁿ*ta
+- Já reservaste a sala?
+  it: Hai già prenotato la sala?
+  pron.it: … rrëzër*vash*të … *sa*la
+- Ainda não.
+  it: Non ancora.
+- E os pastéis para a reunião? Já os compraste?
+  it: E i pasticcini per la riunione? Li hai già comprati?
+  pron.it: … rrëuni*auⁿ* … coⁿ*prash*të
+- Já. Comprei uma dúzia às oito.
+  it: Sì. Ho comprato una dozzina alle otto.
+  pron.it: … *du*zia …
+- Ainda bem! Então onde estão?
+  it: Meno male! Allora dove sono?
+- Pois... acabei de os comer.
+  it: Beh... ho appena finito di mangiarli.
+  pron.it: poish … cu*mér*
+
+sounds.it:
+1. Dúzia si dice *du*zia: la ú si dice u, e la z tra due vocali è una s sonora, come in rosa.
+2. Já si dice ja: la j è quella di garage, e la a resta piena.
+
+notes.it:
+1. Já mandaste o email ao cliente?: já vuol dire "già". Con già in una domanda si usa il perfetto semplice (mandaste), dove l'italiano dice "hai mandato": la forma con tens mandado la vedrai nella lezione 40.
+2. Ainda não: ainda vuol dire "ancora", e ainda não è "non ancora". Alla domanda con já si risponde Já., che vuol dire "sì, già".
+3. Ligar a: ligar a una persona vuol dire "telefonare a". Ao è a + o, come in "ao cliente", "ao fornecedor".
+4. Acabei de ligar. Não atendeu.: acabar de + infinito vuol dire "avere appena fatto": acabei de ligar, "ho appena chiamato". Atender vuol dire "rispondere" (al telefono), e il soggetto, il fornecedor, è sottinteso.
+5. Está quase pronta: pronto è "pronto", e concorda con il femminile: a apresentação è pronta. Quase vuol dire "quasi".
+6. Já os compraste? Já. Comprei uma dúzia às oito.: os è il pronome per i pastéis, "li", e va prima del verbo dopo già. Uma dúzia è "una dozzina", e às è a + as.
+7. Acabei de os comer: dopo la preposizione de il pronome va prima dell'infinito, os comer. Lo stesso si può dire comê-los, con il trattino, come nella lezione 30.
+8. Ainda bem: vuol dire "meno male", e lo diciamo quando una cosa va come volevamo.
+
+ex1:
+- Ainda não ligaste ao cliente?
+  it: Non hai ancora chiamato il cliente?
+- Acabei de comer.
+  it: Ho appena mangiato.
+- Ainda bem que compraste os pastéis.
+  it: Meno male che hai comprato i pasticcini.
+- A reunião é às três.
+  it: La riunione è alle tre.
+- Ele não atendeu o telemóvel.
+  it: Lui non ha risposto al cellulare.
+
+ex2:
+- Já [reservaste] a mesa?
+  it: Hai già prenotato il tavolo?
+- Acabei de [ligar] ao cliente.
+  it: Ho appena chiamato il cliente.
+- A reunião é às [três].
+  it: La riunione è alle tre.
+- Os pastéis estão [em] cima da mesa.
+  it: I pasticcini sono sopra il tavolo.
+- [Ainda] não.
+  it: Non ancora.
+
+== 37 A2
+numeral: Trigésima sétima lição
+numeral.pron.it: tri*jè*zima *sè*tima li*sauⁿ*
+title: Lisboa ou Porto?
+title.it: Lisbona o Porto?
+
+dialogue:
+- Lisboa é maior do que o Porto.
+  it: Lisbona è più grande di Porto.
+  pron.it: … mai*òr* …
+- Mas o Porto é mais bonito.
+  it: Ma Porto è più bello.
+  pron.it: … bu*ni*tu
+- Lisboa tem mais sol.
+  it: Lisbona ha più sole.
+  pron.it: … sòl
+- O Porto tem melhor comida. A francesinha!
+  it: Porto ha il cibo migliore. La francesinha!
+  pron.it: … cu*mi*da … fraⁿ's*zi*gna
+- Lisboa tem o Tejo, mais largo do que o Douro.
+  it: Lisbona ha il Tago, più largo del Douro.
+  pron.it: … *té*ju … *lar*gu … *dó*ru
+- O Douro tem o vinho do Porto.
+  it: Il Douro ha il vino di Porto.
+- Lisboa é a capital.
+  it: Lisbona è la capitale.
+  pron.it: … capi*tal*
+- O Porto deu o nome ao país.
+  it: Porto ha dato il nome al paese.
+  pron.it: … déu … *nó*më … pa*ish*
+- Então porque é que vives em Lisboa?
+  it: Allora perché vivi a Lisbona?
+  pron.it: … *vi*vë …
+- Para poder dizer todos os dias que o Porto é melhor.
+  it: Per poter dire ogni giorno che Porto è migliore.
+  pron.it: … pu*dér* …
+
+sounds.it:
+1. Melhor si dice më*gliòr*: lh si dice gli, come in figlio, e la o è aperta. Anche pior, pi*òr*, ha la o aperta.
+
+notes.it:
+1. Lisboa é maior do que o Porto: maior è il comparativo di grande, "più grande". Do que vuol dire "di" e introduce il secondo termine del paragone, come "di" in "più grande di"; de + o si contrae in do.
+2. Mas o Porto é mais bonito: mais davanti a un aggettivo vuol dire "più", come in "più bello". Anche menos ... do que vuol dire "meno ... di", e tão ... como vuol dire "così ... come": tão bonito como, "così bello come".
+3. Lisboa tem mais sol: mais davanti a un nome vuol dire "più" + nome, "più sole".
+4. O Porto tem melhor comida: bom diventa melhor, "migliore", e mau diventa pior, "peggiore": sono forme irregolari, da imparare come "migliore" e "peggiore" in italiano.
+5. Mais largo do que o Douro: largo vuol dire "largo", "ampio". Attenzione: a Lisbona largo è anche una piccola piazza, come il Largo do Carmo.
+6. O Porto deu o nome ao país: dar vuol dire "dare", e dar o nome a qualcosa è "dare il nome a". Ao è a + o.
+7. Para poder dizer: para più infinito vuol dire "per" + infinito, e poder dizer è "poter dire". Ricorda: poder è "potere", come in "posso" della lezione 18.
+
+culture.it:
+Il nome del paese, Portugal, viene secondo la storia più diffusa da Portus Cale, il nome romano della zona dove oggi c'è Porto. Chi è nato a Porto si chiama tripeiro, e chi è nato a Lisbona alfacinha, da alface, la lattuga: sono soprannomi che si usano per scherzare. La francesinha, un panino con formaggio, carne e una salsa calda, è il piatto simbolo di Porto.
+
+ex1:
+- Porto é mais pequeno do que Lisboa.
+  it: Porto è più piccolo di Lisbona.
+- Este castelo é mais antigo.
+  it: Questo castello è più antico.
+- A comida aqui é melhor.
+  it: Il cibo qui è migliore.
+- Tens mais sol em Lisboa?
+  it: Hai più sole a Lisbona?
+- O Tejo é largo, e o Douro também.
+  it: Il Tago è largo, e anche il Douro.
+
+ex2:
+- Lisboa é [maior] do que o Porto.
+  it: Lisbona è più grande di Porto.
+- O vinho é [melhor] aqui.
+  it: Il vino è migliore qui.
+- Lisboa tem [mais] sol.
+  it: Lisbona ha più sole.
+- O Porto é [mais] bonito do que Lisboa.
+  it: Porto è più bello di Lisbona.
+- O Porto deu o [nome] ao país.
+  it: Porto ha dato il nome al paese.
+
+== 38 A2
+numeral: Trigésima oitava lição
+numeral.pron.it: tri*jè*zima oi*ta*va li*sauⁿ*
+title: Há quanto tempo?
+title.it: Da quanto tempo?
+
+dialogue:
+- Há quanto tempo moras em Lisboa?
+  it: Da quanto tempo abiti a Lisbona?
+  pron.it: … *mò*ra …
+- Há cinco anos.
+  it: Da cinque anni.
+- E desde quando falas português?
+  it: E da quando parli portoghese?
+  pron.it: … *fa*lash …
+- Há duas semanas.
+  it: Da due settimane.
+- Só? E antes?
+  it: Solo? E prima?
+  pron.it: … *aⁿ*tësh
+- Antes falava italiano.
+  it: Prima parlavo italiano.
+  pron.it: … fa*la*va …
+- Com os portugueses?
+  it: Con i portoghesi?
+  pron.it: … purtu*ghé*zësh
+- Sim. Devagar e com as mãos.
+  it: Sì. Piano e con le mani.
+  pron.it: … mauⁿsh
+- E eles percebiam?
+  it: E capivano?
+  pron.it: … *é*lësh për's*bi*auⁿ
+- Percebiam tudo.
+  it: Capivano tutto.
+- Então porque é que aprendeste português?
+  it: Allora perché hai imparato il portoghese?
+  pron.it: … capreⁿ*désh*të …
+- Porque eles respondiam-me em italiano.
+  it: Perché mi rispondevano in italiano.
+  pron.it: … rrëshpoⁿ*di*auⁿ-më …
+
+sounds.it:
+1. Mãos si dice mauⁿsh: la ã è nasale e scivola verso la u, e la s finale fruscia come sc.
+2. Antes si dice *aⁿ*tësh: la a è nasale, la e finale è una ë appena accennata, e la s fruscia.
+
+notes.it:
+1. Há quanto tempo moras em Lisboa? Há cinco anos.: há con un periodo di tempo vuol dire "da", quando il verbo è al presente: moras há cinco anos, "abiti qui da cinque anni". Há quanto tempo? vuol dire "da quanto tempo?"
+2. E desde quando falas português?: desde quando vuol dire "da quando". Desde vuol dire "da" o "dal", come in italiano, e serve per il punto di partenza.
+3. Há duas semanas: con un verbo al passato, há vuol dire "fa", come in "due settimane fa". Per esempio, há duas semanas fui a Sintra, "due settimane fa sono andato a Sintra".
+4. Só? E antes?: só vuol dire "solo", e antes vuol dire "prima", "in precedenza".
+5. Antes falava italiano.: falava è l'imperfetto di falar, e dice ciò che si faceva di solito: "parlavo italiano". Per i verbi in -ar si dice -ava, come in "falavas", "falávamos".
+6. Eles percebiam tudo.: percebiam è l'imperfetto di perceber, "capire", e per i verbi in -er si dice -iam: percebiam, respondiam.
+7. Porque eles respondiam-me em italiano.: il pronome sta dopo il verbo in una frase affermativa, anche quando c'è il soggetto (eles): respondiam-me, "mi rispondevano". Responder vuol dire "rispondere".
+
+culture.it:
+Italiano e portoghese derivano dal latino, e molte parole si somigliano, come tempo, cidade, ponte. Per questo si capisce molto di quello che si legge; a voce le vocali si indeboliscono e la s fruscia, e conviene dire: Pode falar devagar, por favor?
+
+ex1:
+- Há quanto tempo estás aqui?
+  it: Da quanto tempo sei qui?
+- Há cinco anos, e falas bem.
+  it: Da cinque anni, e parli bene.
+- Antes falava português com os amigos.
+  it: Prima parlavo portoghese con gli amici.
+- Eles respondiam-me sempre.
+  it: Mi rispondevano sempre.
+- Falas bem português?
+  it: Parli bene il portoghese?
+
+ex2:
+- Há quanto [tempo] moras em Lisboa?
+  it: Da quanto tempo abiti a Lisbona?
+- Há cinco anos. Antes [falava] italiano.
+  it: Da cinque anni. Prima parlavo italiano.
+- Eles [percebiam] tudo.
+  it: Capivano tutto.
+- E desde [quando] falas português?
+  it: E da quando parli portoghese?
+- Sim. Devagar e com as [mãos].
+  it: Sì. Piano e con le mani.
+
+== 39 A2
+numeral: Trigésima nona lição
+numeral.pron.it: tri*jè*zima *nó*na li*sauⁿ*
+title: Acho que vêm ondas grandes
+title.it: Credo che arrivino onde grandi
+
+dialogue:
+- Achas que hoje vêm ondas grandes à Nazaré?
+  it: Credi che oggi arrivino onde grandi a Nazaré?
+  pron.it: *a*sciash … veiⁿ *oⁿ*dash *graⁿ*dë … naza*rè*
+- Dizem que vêm ondas de vinte metros.
+  it: Dicono che arrivano onde di venti metri.
+  pron.it: *di*zeiⁿ … *mé*trush
+- Vinte metros! Como um prédio de seis andares?
+  it: Venti metri! Come un palazzo di sei piani?
+  pron.it: … zaⁿ*da*rësh
+- Mais ou menos.
+  it: Più o meno.
+  pron.it: … *mé*nush
+- E tu vens surfar?
+  it: E tu vieni a fare surf?
+  pron.it: … veiⁿsh sur*far*
+- Venho, claro. Trouxe a prancha.
+  it: Certo che vengo. Ho portato la tavola.
+  pron.it: *vè*gnu … *tró*së … *praⁿ*scia
+- E não tens medo?
+  it: E non hai paura?
+  pron.it: … *mé*du
+- Medo? Acho que não.
+  it: Paura? Credo di no.
+  pron.it: … *a*sciu …
+- Então onde é que vais entrar na água?
+  it: Allora dove entri in acqua?
+  pron.it: … zeⁿ*trar* …
+- Na praia ao lado. Lá as ondas são de meio metro.
+  it: Sulla spiaggia accanto. Lì le onde sono di mezzo metro.
+  pron.it: … *prai*a … *mèi*u *mè*tru
+
+sounds.it:
+1. Vêm si dice veiⁿ: la vocale nasale scivola verso la i, come in bem (beiⁿ), e la m non si pronuncia.
+2. Onda si dice *oⁿ*da: la o è nasale, e la d è dolce, come in Italia.
+
+notes.it:
+1. Achas que hoje vêm ondas grandes?: achar que vuol dire "credere che", "pensare che". In portoghese dopo acho que, achas que e dizem que si usa l'indicativo: vêm, "arrivano". In italiano "credo che arrivino" vuole il congiuntivo, ma in portoghese no.
+2. Dizem que vêm ondas de vinte metros: dizer que vuol dire "dire che", e anche qui il verbo dopo que è all'indicativo. De prima di un numero e di una misura si usa come "di": ondas de vinte metros, "onde di venti metri".
+3. Como um prédio de seis andares?: prédio, già visto nella lezione 8, è il palazzo. Andar è "piano": um prédio de seis andares è un palazzo di sei piani.
+4. E tu vens surfar?: vir (venire) davanti a un infinito non vuole a: vens surfar, "vieni a fare surf". Venho, vens, vem: la prima persona è venho, con la h che non si sente.
+5. Trouxe a prancha: trouxe è il perfetto di trazer, "portare", e significa "ho portato" o "ha portato". Lo vedremo nella lezione di ripasso 42.
+6. E não tens medo? Medo? Acho que não.: ter medo vuol dire "avere paura", come in italiano avere paura. Acho que não vuol dire "credo di no", la risposta.
+7. Lá as ondas são de meio metro: ser è usato per una misura, "sono di mezzo metro". Meio vuol dire "mezzo".
+
+culture.it:
+Nazaré, sulla costa a nord di Lisbona, ha onde grandi d'inverno, perché un profondo canyon sottomarino le fa salire. Qui i surfisti hanno cavalcato onde di oltre venti metri, e Nazaré è una delle spiagge più famose tra i surfisti.
+
+ex1:
+- Achas que vêm ondas hoje?
+  it: Credi che oggi arrivino onde?
+- Dizem que vêm pessoas de Lisboa.
+  it: Dicono che vengono persone da Lisbona.
+- Trouxe a prancha, e tu?
+  it: Ho portato la tavola, e tu?
+- Não tenho medo das ondas grandes.
+  it: Non ho paura delle onde grandi.
+- Venho amanhã com o meu irmão.
+  it: Vengo domani con mio fratello.
+
+ex2:
+- Achas que hoje [vêm] ondas grandes?
+  it: Credi che oggi arrivino onde grandi?
+- Dizem que vêm ondas de [vinte] metros.
+  it: Dicono che arrivano onde di venti metri.
+- E tu [vens] surfar?
+  it: E tu vieni a fare surf?
+- E não [tens] medo?
+  it: E non hai paura?
+- Lá as ondas são de [meio] metro.
+  it: Lì le onde sono di mezzo metro.
+
+== 40 A2
+numeral: Quadragésima lição
+numeral.pron.it: cuadra*jè*zima li*sauⁿ*
+title: Como tens andado?
+title.it: Come te la passi?
+
+dialogue:
+- Então, como tens andado?
+  it: Allora, come te la passi?
+  pron.it: … zaⁿ*da*du
+- Mal. Tenho dormido pouco.
+  it: Male. Ultimamente dormo poco.
+  pron.it: mal … dur*mi*du …
+- Porquê? Tens trabalhado muito?
+  it: Perché? Lavori molto, ultimamente?
+  pron.it: … traba*glia*du …
+- Tenho trabalhado de noite.
+  it: Lavoro di notte.
+- De noite?
+  it: Di notte?
+- Sim. Tenho visto séries até às três.
+  it: Sì. Guardo serie fino alle tre.
+  pron.it: … *vish*tu *sè*rië …
+- E tens comido bem?
+  it: E mangi bene?
+  pron.it: … cu*mi*du …
+- Tenho comido pizza todos os dias.
+  it: Mangio pizza tutti i giorni.
+  pron.it: … *pit*sa …
+- E desporto? Tens feito desporto?
+  it: E sport? Fai dello sport?
+  pron.it: … dësh*pór*tu … *fèi*tu …
+- Tenho visto muito desporto. Na televisão.
+  it: Guardo un sacco di sport. In tv.
+- Pá, tens de mudar de vida.
+  it: Dai, devi cambiare vita.
+  pron.it: … mu*dar* … *vi*da
+- Eu sei. Tenho pensado muito nisso.
+  it: Lo so. Ci penso parecchio.
+  pron.it: … peⁿ*sa*du … *ni*su
+- E?
+  it: E?
+- E penso melhor no sofá.
+  it: Penso meglio sul divano.
+  pron.it: … *peⁿ*su …
+
+sounds.it:
+1. Dormido si dice dur*mi*du: la o non accentata diventa u, e anche la o finale diventa u.
+
+notes.it:
+1. Como tens andado?: andar vuol dire "stare", e in questa domanda chiede come va ultimamente. Come te la passi? è la traduzione più naturale.
+2. Tenho dormido pouco: ter più il participio (dormido) è il perfetto composto: parla di ciò che succede o si ripete fino a oggi, "ultimamente". Non è il passato prossimo italiano: ho dormito male stanotte si dice dormi mal esta noite, con il perfetto semplice, come comi ieri sera nella lezione 24.
+3. De noite: vuol dire "di notte". Ontem à noite della lezione 24 era "ieri sera".
+4. Tenho visto séries: ver vuol dire "guardare" quando si parla di film o serie. Anche qui il perfetto composto dice ciò che si fa in questo periodo.
+5. Tenho comido pizza todos os dias: comer è "mangiare", e il composto dice "mangio pizza tutti i giorni" in questo periodo. Non è "ho mangiato", che si dice comi, come nella lezione 24.
+6. Tens feito desporto? Desporto è lo sport, in Portogallo; in Brasile si dice esporte. Fazer desporto vuol dire "fare sport".
+7. Tenho pensado muito nisso: pensar em vuol dire "pensare a", e nisso è em + isso, "a questo". In italiano diremmo "ci penso molto".
+8. Penso melhor no sofá: penso è il verbo pensar, "pensare", e melhor vuol dire "meglio". No è em + o, "sul" o "nel", come in no sofá.
+
+aside.it:
+Le lezioni si allungano: ormai sai già molto. Prenditi il tuo tempo, e se vuoi leggerla due volte, va bene.
+
+ex1:
+- Tens dormido bem?
+  it: Hai dormito bene?
+- Tenho visto a televisão até tarde.
+  it: Guardo la televisione fino a tardi.
+- Tens comido pão todos os dias?
+  it: Mangi pane tutti i giorni?
+- Pá, tens feito muita coisa.
+  it: Dai, fai molte cose.
+- Tenho pensado em ti.
+  it: Penso a te.
+
+ex2:
+- Como tens [andado]?
+  it: Come te la passi?
+- Tenho [dormido] pouco.
+  it: Ultimamente dormo poco.
+- Tenho [trabalhado] de noite.
+  it: Lavoro di notte.
+- Tenho comido pizza todos os [dias].
+  it: Mangio pizza tutti i giorni.
+- Tens de [mudar] de vida.
+  it: Devi cambiare vita.
+
+== 41 A2
+numeral: Quadragésima primeira lição
+numeral.pron.it: cuadra*jè*zima pri*mèi*ra li*sauⁿ*
+title: Não te esqueças!
+title.it: Non dimenticare!
+
+dialogue:
+- Vou estar fora uma semana. Rega as plantas.
+  it: Starò fuori una settimana. Annaffia le piante.
+  pron.it: … 'sh*tar* … *rrè*ga … *plaⁿ*tash
+- Está bem.
+  it: Va bene.
+- Dá comida ao gato. Duas vezes por dia.
+  it: Dai da mangiare al gatto. Due volte al giorno.
+  pron.it: da … *ga*tu …
+- Está bem.
+  it: Va bene.
+- Não comas o meu queijo.
+  it: Non mangiare il mio formaggio.
+  pron.it: … *có*ma …
+- Não como.
+  it: Non lo mangio.
+- Não convides ninguém para cá.
+  it: Non invitare nessuno qui.
+  pron.it: … coⁿ*vi*dësh niⁿ*gueiⁿ* … ca
+- Não convido.
+  it: Non invito nessuno.
+  pron.it: … coⁿ*vi*du
+- E não te esqueças de pagar a renda.
+  it: E non dimenticarti di pagare l'affitto.
+  pron.it: … 'sh*ché*sash … pa*gar* … *rreⁿ*da
+- Não me esqueço. Mais alguma coisa?
+  it: Non me ne dimentico. Qualcos'altro?
+  pron.it: … 'sh*ché*su …
+- Sim. Vais ter saudades minhas.
+  it: Sì. Mi sentirai la mancanza.
+  pron.it: … tér sau*da*dësh …
+- Uma semana? Vou tentar.
+  it: Una settimana? Ci proverò.
+  pron.it: … teⁿ*tar*
+
+sounds.it:
+1. Saudades si dice sau*da*dësh: il dittongo au è un solo suono, e la s finale fruscia.
+
+notes.it:
+1. Rega as plantas: l'imperativo di tu si ricava dalla terza persona del presente: ele rega, rega; ele dá, dá; ele faz, faz; ele vai, vai; ele tem, tem. Con i verbi in -ar è la forma uguale alla terza persona: rega, "annaffia".
+2. Dá comida ao gato. Duas vezes por dia: dá è l'imperativo di dar, "dai". Ao è a + o, come in ao cliente della lezione 36, e por dia vuol dire "al giorno".
+3. Não comas o meu queijo: nella forma negativa l'imperativo di tu cambia: não comas, não convides, não te esqueças. Sono le forme del congiuntivo presente, che vedrai nella lezione 44.
+4. Não te esqueças de pagar a renda: esquecer-se de vuol dire "dimenticarsi di". Dopo não il pronome sta prima del verbo, come in não me esqueço; nella frase affermativa del tu sta dopo il verbo.
+5. Vais ter saudades minhas: ter saudades de vuol dire "sentire la mancanza di". Con il possessivo si dice saudades minhas, "la mancanza di me". Saudade è una parola che non ha un equivalente preciso: ne parliamo nella nota di cultura.
+6. Renda vuol dire "affitto", e non "rendita": pagar a renda è "pagare l'affitto".
+7. Vou tentar: tentar vuol dire "provare", "tentare", ed è la risposta ironica di chi non promette molto.
+
+culture.it:
+Saudade è una delle parole più tipiche del portoghese: indica una nostalgia dolce di qualcuno o di qualcosa che manca. Si dice ter saudades de alguém, "sentire la mancanza di qualcuno", e nei messaggi si chiude spesso con beijinhos e saudades, "baci e nostalgia".
+
+ex1:
+- Não te esqueças do telemóvel.
+  it: Non dimenticarti il cellulare.
+- Rega as plantas, por favor.
+  it: Annaffia le piante, per favore.
+- Dá-me o queijo, por favor.
+  it: Dammi il formaggio, per favore.
+- Tens de pagar a renda hoje.
+  it: Oggi devi pagare l'affitto.
+- Não comas tudo!
+  it: Non mangiare tutto!
+
+ex2:
+- [Rega] as plantas.
+  it: Annaffia le piante.
+- Não [comas] o meu queijo.
+  it: Non mangiare il mio formaggio.
+- Não te [esqueças] de pagar a renda.
+  it: Non dimenticarti di pagare l'affitto.
+- Vais ter [saudades] minhas.
+  it: Mi sentirai la mancanza.
+- Dá comida ao [gato].
+  it: Dai da mangiare al gatto.
+
+== 42 A2
+kind: revision
+numeral: Quadragésima segunda lição
+numeral.pron.it: cuadra*jè*zima së*guⁿ*da li*sauⁿ*
+title: Revisão
+title.it: Ripasso
+
+dialogue:
+- Bom dia! Já tomaste a bica?
+  it: Buongiorno! Hai già preso l'espresso?
+  refs: 1 33 36
+- Ainda não. Esta máquina faz muito barulho.
+  it: Non ancora. Questa macchinetta fa molto rumore.
+  refs: 9 29 36
+- E o fim de semana? Foste a algum lado?
+  it: E il fine settimana? Sei andato da qualche parte?
+  refs: 11 30 31
+- Fui à praia.
+  it: Sono andato al mare.
+  refs: 4 8 31
+- Eu fui à Nazaré, a surfar.
+  it: Io sono andato a Nazaré a fare surf.
+  refs: 31 39
+- Surfar? Tu? Ainda tens medo das ondas?
+  it: Surf? Tu? Hai ancora paura delle onde?
+  refs: 36 39
+- Não tenho. Surfei ondas de vinte metros.
+  it: No, non ho paura. Ho cavalcato onde alte venti metri.
+  refs: 24 39
+- Vinte metros? Não acredito.
+  it: Venti metri? Non ci credo.
+  refs: 39
+- Vinte metros, quase um prédio de sete andares.
+  it: Venti metri, quasi un palazzo di sette piani.
+  refs: 8 34 39
+- Eu também fui à Nazaré, no domingo.
+  it: Anch'io sono stato a Nazaré, domenica.
+  refs: 10 31 39
+- Ah, sim? E surfaste também?
+  it: Ah, davvero? E hai fatto surf anche tu?
+  refs: 14 24 39
+- Não. Fui para a praia ao lado.
+  it: No. Sono andato sulla spiaggia accanto.
+  refs: 29 31 39
+- Lá não há ondas grandes.
+  it: Lì non ci sono onde grandi.
+  refs: 10 39
+- Pois não. Vi-te lá, e as tuas ondas de vinte metros eram de meio metro.
+  it: Infatti no. Ti ho visto lì, e le tue onde di venti metri erano di mezzo metro.
+  refs: 11 16 32 33 39
+
+notes.it:
+Hai fatto le sei lezioni dalla 36 alla 41. Non serve impararle a memoria: rileggi i dialoghi, e i dubbi sono normali. Qui trovi in ordine quello che quelle lezioni hanno portato.
+
+1. Já, ainda, acabar de (lezioni 36, 40)
+
+| Portoghese | Esempio | Italiano |
+|---|---|---|
+| já | Já mandaste o email? | Hai già mandato l'email? |
+| ainda | Ainda tens medo? | Hai ancora paura? |
+| ainda não | Ainda não. | Non ancora. |
+| acabar de + infinito | Acabei de ligar. | Ho appena chiamato. |
+
+2. Comparativi (lezione 37)
+
+| Portoghese | Esempio | Italiano |
+|---|---|---|
+| maior, menor | Lisboa é maior do que o Porto. | Lisbona è più grande di Porto. |
+| melhor, pior | O Porto tem melhor comida. | Porto ha il cibo migliore. |
+| mais ... do que | O Tejo é mais largo do que o Douro. | Il Tago è più largo del Douro. |
+| menos ... do que | Este quarto é menos caro do que aquele. | Questa camera è meno cara di quella. |
+| tão ... como | Hoje está tão frio como ontem. | Oggi fa freddo come ieri. |
+
+3. Há e desde (lezioni 31, 38)
+
+| Portoghese | Esempio | Italiano |
+|---|---|---|
+| há + tempo, con il presente | Moro aqui há cinco anos. | Abito qui da cinque anni. |
+| há ... que, con il presente | Há cinco anos que moro aqui. | Abito qui da cinque anni. |
+| há + tempo, con il passato | Há duas semanas fui a Sintra. | Due settimane fa sono andato a Sintra. |
+| desde quando | Desde quando falas português? | Da quando parli portoghese? |
+
+4. Achar que, dizer que, e vir e trazer (lezioni 39, 42)
+
+Dopo acho que e dizem que il portoghese usa l'indicativo, dove l'italiano usa il congiuntivo: acho que vêm, "credo che arrivino". Vir e trazer sono irregolari:
+
+| Verbo | eu | tu | você, ele, ela | nós | vocês, eles, elas |
+|---|---|---|---|---|---|
+| vir, presente | venho | vens | vem | vimos | vêm |
+| vir, perfeito | vim | vieste | veio | viemos | vieram |
+| trazer, presente | trago | trazes | traz | trazemos | trazem |
+| trazer, perfeito | trouxe | trouxeste | trouxe | trouxemos | trouxeram |
+
+5. Perfetto semplice o composto? (lezioni 24, 40)
+
+| Italiano | Portoghese | Tempo |
+|---|---|---|
+| ho mangiato ieri sera | comi ontem à noite | perfetto semplice |
+| ho dormito male stanotte | dormi mal esta noite | perfetto semplice |
+| in questi giorni dormo poco | tenho dormido pouco | composto |
+| in questi giorni mangio pizza | tenho comido pizza | composto |
+
+Il composto, ter più il participio, dice ciò che succede o si ripete fino a oggi. Non è il passato prossimo italiano: tenho comido pizza vuol dire "mangio pizza in questo periodo".
+
+6. L'imperativo (lezioni 29, 35, 41)
+
+| Verbo | tu, affermativo | tu, negativo | o senhor, a senhora, affermativo | o senhor, a senhora, negativo |
+|---|---|---|---|---|
+| falar | fala | não fales | fale | não fale |
+| comer | come | não comas | coma | não coma |
+| entrar | entra | não entres | entre | não entre |
+| dar | dá | não dês | dê | não dê |
+| ir | vai | não vás | vá | não vá |
+
+Il pronome sta dopo il verbo nell'affermativo (Dá-me, segure-se) e prima del verbo nel negativo (não te esqueças).
+
+Chiudiamo il ripasso: ci vediamo nella lezione 43.

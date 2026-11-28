@@ -1,6 +1,6 @@
-# Lingua Onde
+# Marea
 
-A desktop app for learning languages by assimilation: a short dialogue a
+Marea (formerly Lingua Onde) is a desktop app for learning languages by assimilation: a short dialogue a
 day, heard and repeated aloud, understood through your own language, with figured pronunciation, notes, two
 exercises, a revision lesson every seven, and from lesson 50 an active wave
 that rebuilds earlier lessons from your language. The voice reads each
@@ -77,19 +77,23 @@ of the old one and restarts. Your progress is kept. Settings, Updates shows
 the version and checks on request. Versions before v1.4.0 have to be
 downloaded by hand once.
 
+Marea was called Lingua Onde before version 1.11. A copy installed under
+that name updates itself to Marea and moves its progress to the new data
+folder on its own; nothing to reinstall.
+
 The downloads below exist once a version is published on
-[Releases](https://github.com/Matteo404404/lingua-onde/releases). Until that
+[Releases](https://github.com/Matteo404404/marea/releases). Until that
 first release, use [Build from source](#build-from-source).
 
 **Linux** (x86_64, Ubuntu 22.04 or newer, or a distro from about 2022 onward).
-Paste this in a terminal, then open "Lingua Onde" from the app menu:
+Paste this in a terminal, then open "Marea" from the app menu:
 
 ```
-curl -fsSL https://raw.githubusercontent.com/Matteo404404/lingua-onde/main/packaging/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/Matteo404404/marea/main/packaging/install.sh | sh
 ```
 
 The same command updates the app. To remove it and keep your progress:
-`curl -fsSL https://raw.githubusercontent.com/Matteo404404/lingua-onde/main/packaging/install.sh | sh -s -- --uninstall`.
+`curl -fsSL https://raw.githubusercontent.com/Matteo404404/marea/main/packaging/install.sh | sh -s -- --uninstall`.
 
 Sound works out of the box (PipeWire, PulseAudio or ALSA). Installing `mpv`
 (`sudo apt install mpv`, `sudo dnf install mpv` or `sudo pacman -S mpv`) adds
@@ -100,25 +104,25 @@ is missing. On Ubuntu that is usually
 The microphone goes through ALSA (`libasound.so.2`, part of every desktop's
 sound system; `sudo apt install libasound2` if the installer names it).
 
-**Windows** (10 or newer). Download `lingua-onde-setup-windows-x86_64.exe` from
-[Releases](https://github.com/Matteo404404/lingua-onde/releases/latest) and
+**Windows** (10 or newer). Download `marea-setup-windows-x86_64.exe` from
+[Releases](https://github.com/Matteo404404/marea/releases/latest) and
 double-click it. If Windows warns about an unknown app, choose "More info",
 then "Run anyway". The setup needs no administrator rights: it installs for
-you only, adds Lingua Onde to the Start menu (and, if you tick it, the
+you only, adds Marea to the Start menu (and, if you tick it, the
 desktop), and puts an uninstaller in Settings, Apps. Uninstalling asks
 whether to delete your progress too; the answer "No" keeps it. If you prefer
-no install, `lingua-onde-windows-x86_64.exe` is the same app as one file
+no install, `marea-windows-x86_64.exe` is the same app as one file
 that runs from any folder. The voices play out of the box through Windows' own sound
 player. To play your own MP3 recordings, download the Windows build from
 https://mpv.io/installation/ and unzip it so `mpv.exe` and the other files
 from that zip sit in the same folder as the app (with the setup, that is
-`%LOCALAPPDATA%\Programs\Lingua Onde`).
+`%LOCALAPPDATA%\Programs\Marea`).
 
-**macOS (macOS 11 or newer).** Download `lingua-onde-macos-arm64.dmg` for
-Apple silicon (M1 and later) or `lingua-onde-macos-x86_64.dmg` for Intel Macs
+**macOS (macOS 11 or newer).** Download `marea-macos-arm64.dmg` for
+Apple silicon (M1 and later) or `marea-macos-x86_64.dmg` for Intel Macs
 (Apple menu, About This Mac: "Chip" means Apple silicon, "Processor" Intel) from
-[Releases](https://github.com/Matteo404404/lingua-onde/releases/latest),
-open it and drag "Lingua Onde" onto the Applications folder beside it. (The
+[Releases](https://github.com/Matteo404404/marea/releases/latest),
+open it and drag "Marea" onto the Applications folder beside it. (The
 `.zip` files hold the same app; the updater uses them.) The first time, right-click
 it and choose Open. If macOS still blocks it, open System Settings, Privacy
 & Security, and choose Open Anyway. Sound works out of the box (`afplay`).
@@ -136,14 +140,14 @@ library needs ALSA's headers to build: `sudo apt install libasound2-dev
 pkg-config` (Fedora: `alsa-lib-devel`, Arch: `alsa-lib`).
 
 ```
-git clone https://github.com/Matteo404404/lingua-onde
-cd lingua-onde
+git clone https://github.com/Matteo404404/marea
+cd marea
 cargo run --release
 ```
 
 The first release build takes a few minutes. Later starts are the binary in
-`target/release/lingua_onde`. On Linux, `./packaging/install.sh` builds it
-and adds it to the app launcher (`~/.local/bin/lingua-onde`, a menu entry and
+`target/release/marea`. On Linux, `./packaging/install.sh` builds it
+and adds it to the app launcher (`~/.local/bin/marea`, a menu entry and
 an icon); `--uninstall` removes those three files and keeps your progress.
 
 Push `main` first, then tag it. The installer script is read from `main`, and
@@ -161,8 +165,8 @@ finish. "Run workflow" on the Actions tab builds the same files without
 publishing them. "Check platforms" (also run by hand) downloads the voices
 and speaks on Linux, Windows and macOS (Apple silicon and Intel): run it before the tag.
 
-Progress is stored in `~/.local/share/lingua-onde/` (progress, your own
-courses, downloaded voices). `LINGUA_ONDE_HOME` overrides that folder. Only languages whose Foundation is complete are offered; `LINGUA_ONDE_DRAFTS=1` shows the drafts too.
+Progress is stored in `~/.local/share/marea/` (progress, your own
+courses, downloaded voices). `MAREA_HOME` overrides that folder. Only languages whose Foundation is complete are offered; `MAREA_DRAFTS=1` shows the drafts too.
 
 `--screenshot <file.png>` opens the window without focus, draws about 120
 frames, saves a picture and exits. `--open welcome|home|courses|settings|guide|study[:step]|editor[:lesson]|review[:tab[:search]]|appendix[:page]` (0–6: introduction, pronunciation, lessons, grammar, index, words, expressions)
@@ -175,7 +179,7 @@ if needed, transcribes the file and prints what was heard, each word marked
 
 Speech recognition is whisper.cpp's `whisper-cli` (v1.9.5), built for each
 system by `packaging/build-whisper.sh` in the release workflow and attached
-to every release as `lingua-onde-speech-<system>.tar.gz` (`.zip` on Windows);
+to every release as `marea-speech-<system>.tar.gz` (`.zip` on Windows);
 the app downloads the one of its own version, with the multilingual
 `ggml-small-q5_1.bin` model (181 MB) from Hugging Face, into the data folder's
 `speech/`. A build from source has no version: it takes the latest release's,
@@ -326,7 +330,7 @@ format is in `content/FORMAT.md`.
   `level_tests` holds each language's test or first-lesson choice. Older
   versions ignore both fields.
 - `packaging/` the launcher entry, icon, `install.sh`, the Windows setup
-  script `lingua-onde.iss` (Inno Setup) and `build-whisper.sh` (the speech
+  script `marea.iss` (Inno Setup) and `build-whisper.sh` (the speech
   engine); `.github/workflows/release.yml` builds the downloads (with the
   Windows setup, the macOS disk images and the speech engines),
   `.github/workflows/check-platforms.yml` checks the voices, sound and

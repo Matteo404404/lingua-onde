@@ -126,7 +126,7 @@ impl App {
             if let Some(m) = pick {
                 self.open_editor(Some((m, None)));
             }
-            if ui.add(theme::secondary(tr("📂 Open the lesson files"))).clicked() {
+            if ui.add(theme::secondary(tr("Open the lesson files"))).clicked() {
                 let dir = store::courses_dir();
                 let _ = std::fs::create_dir_all(&dir);
                 open_path(&dir);
@@ -140,7 +140,8 @@ impl App {
 
         if !self.editor.msg.is_empty() {
             let ok = !self.editor.msg.starts_with('⚠');
-            ui.label(RichText::new(&self.editor.msg).color(if ok { GOOD() } else { BAD() }));
+            // The ⚠ only marks an error; the colour says it.
+            ui.label(RichText::new(self.editor.msg.trim_start_matches("⚠ ")).color(if ok { GOOD() } else { BAD() }));
         }
 
         if !self.editor.editing {
@@ -174,7 +175,7 @@ impl App {
                         plural(l.ex1.len() + l.ex2.len(), "{0} exercise", "{0} exercises")
                     )));
                     ui.with_layout(egui::Layout::right_to_left(egui::Align::Center), |ui| {
-                        if ui.add(theme::ghost(tr("✏ Edit"))).clicked() {
+                        if ui.add(theme::ghost(tr("Edit"))).clicked() {
                             edit = Some(li);
                         }
                     });
@@ -258,7 +259,7 @@ impl App {
                 let lines: Vec<&str> = self.editor.paste_target.lines().map(str::trim).filter(|l| !l.is_empty()).collect();
                 let trs: Vec<&str> = self.editor.paste_tr.lines().map(str::trim).filter(|l| !l.is_empty()).collect();
                 if !trs.is_empty() && trs.len() != lines.len() {
-                    ui.label(RichText::new(trf("⚠ Sentences: {0}, translations: {1}", &[&lines.len(), &trs.len()])).color(BAD()));
+                    ui.label(RichText::new(trf("Sentences: {0}, translations: {1}", &[&lines.len(), &trs.len()])).color(BAD()));
                 }
                 if !lines.is_empty() && ui.add(theme::primary(plural(lines.len(), "Add {0} sentence", "Add {0} sentences"))).clicked() {
                     d.dialogue.retain(|i| !i.text.trim().is_empty());
@@ -302,7 +303,7 @@ impl App {
         theme::tinted(ACCENT_SOFT()).show(ui, |ui| {
             ui.set_width(ui.available_width());
             ui.horizontal(|ui| {
-                save = ui.add(theme::big_primary(tr("💾 Save lesson"))).clicked();
+                save = ui.add(theme::big_primary(tr("Save lesson"))).clicked();
                 cancel = ui.add(theme::secondary(tr("Back to the list"))).clicked();
                 if self.editor.lesson.is_some() {
                     if self.editor.confirm_delete {
@@ -311,7 +312,7 @@ impl App {
                         if ui.button(tr("No")).clicked() {
                             self.editor.confirm_delete = false;
                         }
-                    } else if ui.add(theme::ghost(tr("🗑 Delete lesson"))).clicked() {
+                    } else if ui.add(theme::ghost(tr("Delete lesson"))).clicked() {
                         self.editor.confirm_delete = true;
                     }
                 }

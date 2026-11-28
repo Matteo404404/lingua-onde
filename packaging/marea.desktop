@@ -1,11 +1,11 @@
 [Desktop Entry]
 Type=Application
-Name=Lingua Onde
+Name=Marea
 GenericName=Language course
 Comment=Learn languages by assimilation: a short dialogue a day
-Exec=lingua-onde
-Icon=lingua-onde
+Exec=marea
+Icon=marea
 Terminal=false
 Categories=Education;Languages;
 Keywords=language;learning;course;Spanish;French;German;Dutch;Portuguese;Chinese;Latin;Vietnamese;
-StartupWMClass=lingua-onde
+StartupWMClass=marea

@@ -3,7 +3,7 @@
 //! or the macOS app bundle) and starts again. Progress lives in the data
 //! folder, apart from the program, so it is untouched.
 //!
-//! Only release builds know their version (`LINGUA_ONDE_VERSION`, set by
+//! Only release builds know their version (`MAREA_VERSION`, set by
 //! .github/workflows/release.yml from the tag); a build from source never
 //! checks.
 
@@ -15,11 +15,11 @@ use eframe::egui;
 use crate::audio::{command, curl, find_program};
 use crate::i18n::{tr, trf};
 
-pub const REPO: &str = "Matteo404404/lingua-onde";
+pub const REPO: &str = "Matteo404404/marea";
 
 /// This build's release tag, such as "v1.3.1".
 pub fn current() -> Option<&'static str> {
-    option_env!("LINGUA_ONDE_VERSION")
+    option_env!("MAREA_VERSION")
 }
 
 /// "v1.10.2" → (1, 10, 2); anything else is not a release.
@@ -32,10 +32,10 @@ fn parse(tag: &str) -> Option<(u32, u32, u32)> {
 /// The download for this computer, as release.yml names it.
 fn asset() -> Option<&'static str> {
     Some(match (std::env::consts::OS, std::env::consts::ARCH) {
-        ("linux", "x86_64") => "lingua-onde-linux-x86_64",
-        ("windows", "x86_64") => "lingua-onde-windows-x86_64.exe",
-        ("macos", "aarch64") => "lingua-onde-macos-arm64.zip",
-        ("macos", "x86_64") => "lingua-onde-macos-x86_64.zip",
+        ("linux", "x86_64") => "marea-linux-x86_64",
+        ("windows", "x86_64") => "marea-windows-x86_64.exe",
+        ("macos", "aarch64") => "marea-macos-arm64.zip",
+        ("macos", "x86_64") => "marea-macos-x86_64.zip",
         _ => return None,
     })
 }
@@ -156,7 +156,7 @@ fn replace_self(tag: &str) -> Result<(), String> {
     let target = target().ok_or(tr("This copy is not an installed app; download the new version from the release page"))?;
     // Opened straight from the mounted disk image, which is read-only.
     if cfg!(target_os = "macos") && target.starts_with("/Volumes") {
-        return Err(tr("Lingua Onde is running from the disk image: drag it onto Applications, open it from there, then update").to_string());
+        return Err(tr("Marea is running from the disk image: drag it onto Applications, open it from there, then update").to_string());
     }
     let dir = target.parent().ok_or("no folder")?.to_path_buf();
     let url = format!("https://github.com/{REPO}/releases/download/{tag}/{name}");
@@ -171,12 +171,21 @@ fn replace_self(tag: &str) -> Result<(), String> {
         return Err(fail(tr("the download is incomplete").to_string()));
     }
     let new = if cfg!(target_os = "macos") {
-        let unpacked = dir.join(".lingua-onde-update");
+        let unpacked = dir.join(".marea-update");
         let _ = std::fs::remove_dir_all(&unpacked);
         let ok = command("ditto").args(["-x", "-k"]).arg(&part).arg(&unpacked).status().map_err(|e| fail(e.to_string()))?;
         let _ = std::fs::remove_file(&part);
         let app = unpacked.join(target.file_name().ok_or("no name")?);
-        let app = if ok.success() && app.is_dir() { app } else { unpacked.join("Lingua Onde.app") };
+        // A copy installed before the rename is "Lingua Onde.app": it keeps
+        // its name, and the bundle in the zip ("Marea.app") takes its place.
+        let app = if ok.success() && app.is_dir() {
+            app
+        } else {
+            std::fs::read_dir(&unpacked)
+                .ok()
+                .and_then(|d| d.flatten().map(|e| e.path()).find(|p| p.extension().is_some_and(|x| x == "app")))
+                .unwrap_or_else(|| unpacked.join("Lingua Onde.app"))
+        };
         if !app.is_dir() {
             return Err(fail(tr("the download is incomplete").to_string()));
         }
@@ -198,8 +207,8 @@ fn replace_self(tag: &str) -> Result<(), String> {
         let _ = std::fs::rename(&o, &target);
         return Err(fail(e.to_string()));
     }
-    let _ = std::fs::remove_dir_all(dir.join(".lingua-onde-update"));
-    // Installed with the setup (packaging/lingua-onde.iss): Settings, Apps
+    let _ = std::fs::remove_dir_all(dir.join(".marea-update"));
+    // Installed with the setup (packaging/marea.iss): Settings, Apps
     // reads the version from the uninstall entry, keyed by the setup's AppId.
     if cfg!(windows) && dir.join("unins000.exe").is_file() {
         let key = r"HKCU\Software\Microsoft\Windows\CurrentVersion\Uninstall\{4AC3DCD0-819C-4F78-A97A-0F9342519D3B}_is1";

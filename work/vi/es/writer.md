@@ -120,7 +120,7 @@ Files: work/vi/es/foundation/NNN.txt, one lesson each, starting:
   lesson of 1–14: it rewrites every pron.es line by the key. Then make the
   sounds lines and notes quote the same figures.
 
-- `target/release/lingua_onde --check work/vi/es/foundation/NNN.txt` prints
+- `target/release/marea --check work/vi/es/foundation/NNN.txt` prints
   ok with no problem, for each file. It checks every 🔈 line against the
   tones of its sentence: fix every arrow it reports. A `gap:` line is a
   missing part: add it.

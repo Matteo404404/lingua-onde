@@ -317,7 +317,7 @@ Rules added after week 13:
 
 ## Checks before you finish
 
-- `target/release/lingua_onde --check work/nl/it/mastery/NNN.txt` prints ok
+- `target/release/marea --check work/nl/it/mastery/NNN.txt` prints ok
   with no problem and no `gap:` line, for each file.
 - `python3 -I work/tools/extra_checks.py work/nl/it/mastery/*.txt` reports
   no repeated title (the revision lessons' "Herhaling" excepted) and no

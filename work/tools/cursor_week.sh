@@ -17,7 +17,7 @@ Your full instructions are in work/nl/it/writer.md: read it first and follow eve
 
 Write work/nl/it/foundation/$FA.txt to $FB.txt, one file per lesson. Every 7th lesson is the revision lesson of the six before it: its dialogue is a NEW little scene between two people, never a montage of the week's lines. Never write pron.it lines by hand: the figure tool adds them. Italian text stays Italian: no Dutch words used as Italian words.
 
-Strict limits: create or edit only those lesson files. Never touch src/, content/, work/tools/ or any other file. Never run git or cargo. The only commands you may run besides reading files and grep are: target/release/lingua_onde --check work/nl/it/foundation/NNN.txt ; python3 -I work/tools/figure_nl.py work/nl/it/foundation/NNN.txt --write ; python3 -I work/tools/progression.py . nl/it foundation 1 $B
+Strict limits: create or edit only those lesson files. Never touch src/, content/, work/tools/ or any other file. Never run git or cargo. The only commands you may run besides reading files and grep are: target/release/marea --check work/nl/it/foundation/NNN.txt ; python3 -I work/tools/figure_nl.py work/nl/it/foundation/NNN.txt --write ; python3 -I work/tools/progression.py . nl/it foundation 1 $B
 
 Work strictly in order, one lesson at a time. Run the figure tool and the checker on each file and fix everything the checker reports. At the end report briefly as writer.md says."
 elif [ "${STAGE:-perfectionnement}" = vi-foundation ]; then
@@ -27,7 +27,7 @@ Your full instructions are in work/vi/es/writer.md: read it first and follow eve
 
 Write work/vi/es/foundation/$FA.txt to $FB.txt, one file per lesson. Every 7th lesson is the revision lesson of the six before it. Its dialogue is a NEW little scene between two people, as in 035.txt and 042.txt, never a montage of the week's lines. No Vietnamese words inside Spanish sentences. Nobody says vâng, dạ or ạ to someone younger.
 
-Strict limits: create or edit only those lesson files. Never touch src/, content/, work/tools/ or any other file. Never run git or cargo. The only commands you may run besides reading files and grep are: target/release/lingua_onde --check work/vi/es/foundation/NNN.txt and python3 work/tools/figure_vi.py work/vi/es/foundation/NNN.txt
+Strict limits: create or edit only those lesson files. Never touch src/, content/, work/tools/ or any other file. Never run git or cargo. The only commands you may run besides reading files and grep are: target/release/marea --check work/vi/es/foundation/NNN.txt and python3 work/tools/figure_vi.py work/vi/es/foundation/NNN.txt
 
 Work strictly in order, one lesson at a time. Run the checker on each file and fix everything it reports. At the end report briefly as writer.md says."
 elif [ "${STAGE:-perfectionnement}" = vi-perfectionnement ]; then
@@ -37,7 +37,7 @@ Your full instructions are in work/vi/es/perf-writer.md: read it first and follo
 
 Write work/vi/es/perfectionnement/$FA.txt to $FB.txt, one file per lesson. The last lesson of the week is the revision lesson of the six before it. Word lessons end their notes with the expression list. Exercise 1 sentences are new, never copies of text lines. No Vietnamese words used as Spanish words inside Spanish sentences. Nobody says vâng, dạ, ạ or thưa to someone younger.
 
-Strict limits: create or edit only those lesson files. Never touch src/, content/, work/tools/ or any other file. Never run git or cargo. The only command you may run besides reading files and grep is: target/release/lingua_onde --check work/vi/es/perfectionnement/NNN.txt
+Strict limits: create or edit only those lesson files. Never touch src/, content/, work/tools/ or any other file. Never run git or cargo. The only command you may run besides reading files and grep is: target/release/marea --check work/vi/es/perfectionnement/NNN.txt
 
 Work strictly in order, one lesson at a time. Run the checker on each file, reread each lesson against the checks in perf-writer.md, and verify every Fundamentos reference and every \"(lección N, nota M)\" reference by opening the cited text. At the end report briefly as perf-writer.md says."
 elif [ "${STAGE:-perfectionnement}" = vi-mastery ]; then
@@ -47,7 +47,7 @@ Your full instructions are in work/vi/es/mastery-writer.md: read it first and fo
 
 Write work/vi/es/mastery/$FA.txt to $FB.txt, one file per lesson. Every 7th lesson is the revision lesson of the six before it. Exercise 1 sentences are new, never copies of text lines. No Vietnamese words used as Spanish words inside Spanish sentences. Nobody says vâng, dạ, ạ or thưa to someone younger. Notes never mention the plan.
 
-Strict limits: create or edit only those lesson files. Never touch src/, content/, work/tools/ or any other file. Never run git or cargo. The only commands you may run besides reading files and grep are: target/release/lingua_onde --check work/vi/es/mastery/NNN.txt and python3 work/tools/first_seen.py DIR 'pattern'
+Strict limits: create or edit only those lesson files. Never touch src/, content/, work/tools/ or any other file. Never run git or cargo. The only commands you may run besides reading files and grep are: target/release/marea --check work/vi/es/mastery/NNN.txt and python3 work/tools/first_seen.py DIR 'pattern'
 
 Work strictly in order, one lesson at a time. Run the checker on each file, reread each lesson against the checks in mastery-writer.md, and verify every reference by opening the cited text. At the end report briefly as mastery-writer.md says."
 elif [ "${STAGE:-perfectionnement}" = mastery ]; then
@@ -57,7 +57,7 @@ Your full instructions are in work/en/mastery-writer.md: read it first and follo
 
 Write work/en/mastery/$FA.txt to $FB.txt, one file per lesson. Every 7th lesson is the revision lesson of the six before it.
 
-Strict limits: create or edit only those lesson files. Never touch src/, content/, work/tools/ or any other file. Never run git or cargo. The only command you may run besides reading files and grep is: target/release/lingua_onde --check work/en/mastery/NNN.txt
+Strict limits: create or edit only those lesson files. Never touch src/, content/, work/tools/ or any other file. Never run git or cargo. The only command you may run besides reading files and grep is: target/release/marea --check work/en/mastery/NNN.txt
 
 Work strictly in order, one lesson at a time. Run the checker on each file, reread each lesson against the checks in mastery-writer.md, and verify every reference by opening the cited text. At the end report briefly as mastery-writer.md says."
 else
@@ -67,7 +67,7 @@ Your full instructions are in work/en/perf-writer.md: read it first and follow e
 
 Write work/en/perfectionnement/$FA.txt to $FB.txt, each to its section in work/en/perfectionnement.md (sections \"### $A\" to \"### $B\"). The last lesson of the week is the revision lesson of the six before it. Word lessons end their notes with the expression list, as in 040.txt and 045.txt.
 
-Strict limits: create or edit only those lesson files. Never touch src/, content/, work/tools/ or any other file. Never run git or cargo. The only command you may run besides reading files is: target/release/lingua_onde --check work/en/perfectionnement/NNN.txt
+Strict limits: create or edit only those lesson files. Never touch src/, content/, work/tools/ or any other file. Never run git or cargo. The only command you may run besides reading files is: target/release/marea --check work/en/perfectionnement/NNN.txt
 
 Work strictly in order, one lesson at a time. Run the checker on each file, reread each lesson against the checks in perf-writer.md, and verify every Fondamenti reference and every \"(lezione N, nota M)\" reference by opening the cited text. At the end report briefly as perf-writer.md says."
 fi

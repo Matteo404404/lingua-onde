@@ -1,6 +1,6 @@
 # Writing courses with AI agents
 
-Lingua Onde's built-in courses (English for Italian speakers, Vietnamese for
+Marea's built-in courses (English for Italian speakers, Vietnamese for
 Spanish speakers, more to come) are written by AI agents under one reviewing
 agent, one week of lessons at a time. This file explains the loop and where
 its pieces are, so you can run it with your own agents: a new language pair,
@@ -37,7 +37,7 @@ a new course, or fixes to an existing one.
    default English `perfectionnement`, `mastery`; the third argument is the
    model). The writer edits only `work/<lang>[/<base>]/<stage>/NNN.txt`
    and may run only the checker. A log goes to `work/tools/logs/`.
-4. **Check** every file: `target/release/lingua_onde --check FILE` (format,
+4. **Check** every file: `target/release/marea --check FILE` (format,
    levels, tone marks of figured pronunciation, gaps). Then the reviewer
    reads every lesson in full: the checker cannot see a wrong fact, an
    unnatural line, a joke that does not work, a blank with two right

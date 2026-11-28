@@ -217,7 +217,7 @@ Rules added after week 6:
 
 ## Checks before you finish
 
-- `target/release/lingua_onde --check work/nl/it/perfectionnement/NNN.txt`
+- `target/release/marea --check work/nl/it/perfectionnement/NNN.txt`
   prints ok with no problem for each file.
 - `python3 -I work/tools/extra_checks.py work/nl/it/perfectionnement/*.txt`
   reports no repeated title (the revision lessons' "Herhaling" excepted)

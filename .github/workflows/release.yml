@@ -21,23 +21,35 @@ jobs:
           # 22.04: an older glibc, so the Linux binary runs on more distributions.
           - os: ubuntu-22.04
             target: linux
-            file: lingua-onde-linux-x86_64
-            speech: lingua-onde-speech-linux-x86_64.tar.gz
+            file: marea-linux-x86_64
+            # the same build under the old name, for copies from before the
+            # rename to Marea: their updater asks for this file
+            old: lingua-onde-linux-x86_64
+            speech: marea-speech-linux-x86_64.tar.gz
           - os: windows-latest
             target: windows
-            file: lingua-onde-windows-x86_64.exe
-            speech: lingua-onde-speech-windows-x86_64.zip
+            file: marea-windows-x86_64.exe
+            # the same build under the old name, for copies from before the
+            # rename to Marea: their updater asks for this file
+            old: lingua-onde-windows-x86_64.exe
+            speech: marea-speech-windows-x86_64.zip
           # macos-14 was removed on 2026-11-02. macos-15 is still Apple silicon.
           - os: macos-15
             target: macos
-            file: lingua-onde-macos-arm64.zip
-            speech: lingua-onde-speech-macos-arm64.tar.gz
+            file: marea-macos-arm64.zip
+            # the same build under the old name, for copies from before the
+            # rename to Marea: their updater asks for this file
+            old: lingua-onde-macos-arm64.zip
+            speech: marea-speech-macos-arm64.tar.gz
           # Intel Macs (older ones, macOS 11 and 12 included): built natively,
           # so the x86_64 voice engine is the one tested.
           - os: macos-15-intel
             target: macos-intel
-            file: lingua-onde-macos-x86_64.zip
-            speech: lingua-onde-speech-macos-x86_64.tar.gz
+            file: marea-macos-x86_64.zip
+            # the same build under the old name, for copies from before the
+            # rename to Marea: their updater asks for this file
+            old: lingua-onde-macos-x86_64.zip
+            speech: marea-speech-macos-x86_64.tar.gz
     runs-on: ${{ matrix.os }}
     steps:
       - uses: actions/checkout@v4
@@ -63,7 +75,7 @@ jobs:
         run: cargo build --release --locked
         env:
           # the tag: the app compares it with the latest release to offer updates
-          LINGUA_ONDE_VERSION: ${{ github.ref_type == 'tag' && github.ref_name || '' }}
+          MAREA_VERSION: ${{ github.ref_type == 'tag' && github.ref_name || '' }}
       - name: Speech engine
         shell: bash
         # whisper-cli, which the app downloads from this release for speech
@@ -75,62 +87,68 @@ jobs:
           set -euo pipefail
           case "${{ runner.os }}" in
             Linux)
-              cp target/release/lingua_onde "${{ matrix.file }}"
+              cp target/release/marea "${{ matrix.file }}"
+              cp "${{ matrix.file }}" "${{ matrix.old }}"
               ;;
             Windows)
-              cp target/release/lingua_onde.exe "${{ matrix.file }}"
+              cp target/release/marea.exe "${{ matrix.file }}"
+              cp "${{ matrix.file }}" "${{ matrix.old }}"
               # the setup (Start menu entry, uninstaller) around the same exe
               iscc="/c/Program Files (x86)/Inno Setup 6/ISCC.exe"
               [ -f "$iscc" ] || choco install innosetup -y --no-progress
               # no MSYS path conversion: it would turn /DVersion into a path
-              MSYS_NO_PATHCONV=1 "$iscc" "/DVersion=${GITHUB_REF_NAME#v}" packaging/lingua-onde.iss
-              test -f lingua-onde-setup-windows-x86_64.exe
+              MSYS_NO_PATHCONV=1 "$iscc" "/DVersion=${GITHUB_REF_NAME#v}" packaging/marea.iss
+              test -f marea-setup-windows-x86_64.exe
               ;;
             macOS)
-              app="Lingua Onde.app/Contents"
+              app="Marea.app/Contents"
               mkdir -p "$app/MacOS" "$app/Resources"
-              cp target/release/lingua_onde "$app/MacOS/lingua_onde"
-              chmod +x "$app/MacOS/lingua_onde"
+              cp target/release/marea "$app/MacOS/marea"
+              chmod +x "$app/MacOS/marea"
               # the Finder and Dock icon, every size from the 1024 px picture
-              set="$RUNNER_TEMP/lingua-onde.iconset"
+              set="$RUNNER_TEMP/marea.iconset"
               mkdir -p "$set"
               for s in 16 32 128 256 512; do
                 sips -z $s $s packaging/icon-1024.png --out "$set/icon_${s}x${s}.png" >/dev/null
                 sips -z $((s*2)) $((s*2)) packaging/icon-1024.png --out "$set/icon_${s}x${s}@2x.png" >/dev/null
               done
-              iconutil -c icns "$set" -o "$app/Resources/lingua-onde.icns"
+              iconutil -c icns "$set" -o "$app/Resources/marea.icns"
               ver="${GITHUB_REF_NAME#v}"
               cat > "$app/Info.plist" <<PLIST
           <?xml version="1.0" encoding="UTF-8"?>
           <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
           <plist version="1.0"><dict>
-            <key>CFBundleName</key><string>Lingua Onde</string>
-            <key>CFBundleDisplayName</key><string>Lingua Onde</string>
-            <key>CFBundleIdentifier</key><string>io.github.matteo404404.lingua-onde</string>
-            <key>CFBundleExecutable</key><string>lingua_onde</string>
-            <key>CFBundleIconFile</key><string>lingua-onde</string>
+            <key>CFBundleName</key><string>Marea</string>
+            <key>CFBundleDisplayName</key><string>Marea</string>
+            <key>CFBundleIdentifier</key><string>io.github.matteo404404.marea</string>
+            <key>CFBundleExecutable</key><string>marea</string>
+            <key>CFBundleIconFile</key><string>marea</string>
             <key>CFBundlePackageType</key><string>APPL</string>
             <key>CFBundleShortVersionString</key><string>${ver}</string>
             <key>CFBundleVersion</key><string>${ver}</string>
             <key>CFBundleInfoDictionaryVersion</key><string>6.0</string>
             <key>LSMinimumSystemVersion</key><string>11.0</string>
             <key>NSHighResolutionCapable</key><true/>
-            <key>NSMicrophoneUsageDescription</key><string>Lingua Onde listens while you press Record, to check your pronunciation. Recognition runs on this Mac; nothing is sent anywhere.</string>
+            <key>NSMicrophoneUsageDescription</key><string>Marea listens while you press Record, to check your pronunciation. Recognition runs on this Mac; nothing is sent anywhere.</string>
           </dict></plist>
           PLIST
               # the zip is what the updater downloads (src/update.rs);
               # the disk image, with its Applications shortcut, is for people
               # an ad-hoc signature over the whole bundle: no Apple account,
               # but macOS then offers "Open Anyway" instead of "damaged"
-              codesign --force --deep --sign - "Lingua Onde.app"
-              ditto -c -k --keepParent "Lingua Onde.app" "${{ matrix.file }}"
+              codesign --force --deep --sign - "Marea.app"
+              ditto -c -k --keepParent "Marea.app" "${{ matrix.file }}"
+              # copies from before the rename look for "Lingua Onde.app" in their zip
+              mkdir old-root
+              ditto "Marea.app" "old-root/Lingua Onde.app"
+              (cd old-root && ditto -c -k --keepParent "Lingua Onde.app" "../${{ matrix.old }}")
               dmg="${{ matrix.file }}"; dmg="${dmg%.zip}.dmg"
               mkdir dmg-root
-              ditto "Lingua Onde.app" "dmg-root/Lingua Onde.app"
+              ditto "Marea.app" "dmg-root/Marea.app"
               ln -s /Applications dmg-root/Applications
               # hdiutil on the runners sometimes fails once with "Resource busy"
               for i in 1 2 3; do
-                hdiutil create -volname "Lingua Onde" -srcfolder dmg-root -ov -format UDZO "$dmg" && break
+                hdiutil create -volname "Marea" -srcfolder dmg-root -ov -format UDZO "$dmg" && break
                 sleep 10
               done
               test -f "$dmg"
@@ -143,26 +161,28 @@ jobs:
         # uninstall entry made, program removed, progress kept
         run: |
           $ErrorActionPreference = 'Stop'
-          Start-Process -Wait .\lingua-onde-setup-windows-x86_64.exe -ArgumentList '/VERYSILENT','/SUPPRESSMSGBOXES','/NORESTART'
-          $dir = "$env:LOCALAPPDATA\Programs\Lingua Onde"
-          if (!(Test-Path "$dir\lingua-onde.exe")) { throw 'not installed' }
-          if (!(Test-Path "$env:APPDATA\Microsoft\Windows\Start Menu\Programs\Lingua Onde.lnk")) { throw 'no Start menu entry' }
+          Start-Process -Wait .\marea-setup-windows-x86_64.exe -ArgumentList '/VERYSILENT','/SUPPRESSMSGBOXES','/NORESTART'
+          $dir = "$env:LOCALAPPDATA\Programs\Marea"
+          if (!(Test-Path "$dir\marea.exe")) { throw 'not installed' }
+          if (!(Test-Path "$env:APPDATA\Microsoft\Windows\Start Menu\Programs\Marea.lnk")) { throw 'no Start menu entry' }
           $key = 'HKCU:\Software\Microsoft\Windows\CurrentVersion\Uninstall\{4AC3DCD0-819C-4F78-A97A-0F9342519D3B}_is1'
           "Settings, Apps: $((Get-ItemProperty $key).DisplayName) $((Get-ItemProperty $key).DisplayVersion)"
-          New-Item -ItemType Directory -Force "$env:APPDATA\LinguaOnde" | Out-Null
-          Set-Content "$env:APPDATA\LinguaOnde\progress.json" '{}'
+          New-Item -ItemType Directory -Force "$env:APPDATA\Marea" | Out-Null
+          Set-Content "$env:APPDATA\Marea\progress.json" '{}'
           Start-Process -Wait "$dir\unins000.exe" -ArgumentList '/VERYSILENT','/SUPPRESSMSGBOXES'
           # the uninstaller hands over to a copy of itself: wait for it
-          for ($i = 0; $i -lt 60 -and (Test-Path "$dir\lingua-onde.exe"); $i++) { Start-Sleep 1 }
-          if (Test-Path "$dir\lingua-onde.exe") { throw 'not uninstalled' }
+          for ($i = 0; $i -lt 60 -and (Test-Path "$dir\marea.exe"); $i++) { Start-Sleep 1 }
+          if (Test-Path "$dir\marea.exe") { throw 'not uninstalled' }
           if (Test-Path $key) { throw 'uninstall entry left behind' }
-          if (!(Test-Path "$env:APPDATA\LinguaOnde\progress.json")) { throw 'progress deleted' }
+          if (!(Test-Path "$env:APPDATA\Marea\progress.json")) { throw 'progress deleted' }
           'setup ok'
       - uses: actions/upload-artifact@v4
         with:
           name: ${{ matrix.target }}
           # the matrix file, the speech engine, plus the Windows setup or the macOS disk image
-          path: lingua-onde-*
+          path: |
+            marea-*
+            lingua-onde-*
           if-no-files-found: error
 
   publish:
@@ -178,17 +198,21 @@ jobs:
           merge-multiple: true
       - name: Check downloads
         run: |
+          test -f dist/marea-linux-x86_64
+          test -f dist/marea-windows-x86_64.exe
+          test -f dist/marea-setup-windows-x86_64.exe
+          test -f dist/marea-macos-arm64.zip
+          test -f dist/marea-macos-x86_64.zip
+          test -f dist/marea-macos-arm64.dmg
+          test -f dist/marea-macos-x86_64.dmg
+          test -f dist/marea-speech-linux-x86_64.tar.gz
+          test -f dist/marea-speech-windows-x86_64.zip
+          test -f dist/marea-speech-macos-arm64.tar.gz
+          test -f dist/marea-speech-macos-x86_64.tar.gz
           test -f dist/lingua-onde-linux-x86_64
           test -f dist/lingua-onde-windows-x86_64.exe
-          test -f dist/lingua-onde-setup-windows-x86_64.exe
           test -f dist/lingua-onde-macos-arm64.zip
           test -f dist/lingua-onde-macos-x86_64.zip
-          test -f dist/lingua-onde-macos-arm64.dmg
-          test -f dist/lingua-onde-macos-x86_64.dmg
-          test -f dist/lingua-onde-speech-linux-x86_64.tar.gz
-          test -f dist/lingua-onde-speech-windows-x86_64.zip
-          test -f dist/lingua-onde-speech-macos-arm64.tar.gz
-          test -f dist/lingua-onde-speech-macos-x86_64.tar.gz
       - uses: softprops/action-gh-release@v2
         with:
           generate_release_notes: true
@@ -196,20 +220,24 @@ jobs:
           body: |
             ## Download
 
-            - **Windows 10 or newer:** `lingua-onde-setup-windows-x86_64.exe`. Double-click it; if Windows warns about an unknown app, choose "More info", then "Run anyway".
-            - **Mac with Apple silicon (M1 and later):** `lingua-onde-macos-arm64.dmg`. **Intel Mac:** `lingua-onde-macos-x86_64.dmg`. Open it and drag Lingua Onde onto Applications. The first time, open System Settings, Privacy & Security, and choose "Open Anyway".
-            - **Linux:** paste in a terminal: `curl -fsSL https://raw.githubusercontent.com/Matteo404404/lingua-onde/main/packaging/install.sh | sh`
+            - **Windows 10 or newer:** `marea-setup-windows-x86_64.exe`. Double-click it; if Windows warns about an unknown app, choose "More info", then "Run anyway".
+            - **Mac with Apple silicon (M1 and later):** `marea-macos-arm64.dmg`. **Intel Mac:** `marea-macos-x86_64.dmg`. Open it and drag Marea onto Applications. The first time, open System Settings, Privacy & Security, and choose "Open Anyway".
+            - **Linux:** paste in a terminal: `curl -fsSL https://raw.githubusercontent.com/Matteo404404/marea/main/packaging/install.sh | sh`
 
-            Already installed? The app updates itself; nothing to download. The other files are used by the app: the plain `.exe`, the `.zip` files and the Linux binary by the updater, and the four `lingua-onde-speech-*` files (the speech recognition engine) when you turn on pronunciation checking.
+            Already installed? The app updates itself; nothing to download. The other files are used by the app: the plain `.exe`, the `.zip` files and the Linux binary by the updater, and the four `marea-speech-*` files (the speech recognition engine) when you turn on pronunciation checking. The four `lingua-onde-*` files are the same app under its old name, so copies installed before the rename to Marea can update.
           files: |
+            dist/marea-linux-x86_64
+            dist/marea-windows-x86_64.exe
+            dist/marea-setup-windows-x86_64.exe
+            dist/marea-macos-arm64.zip
+            dist/marea-macos-x86_64.zip
+            dist/marea-macos-arm64.dmg
+            dist/marea-macos-x86_64.dmg
+            dist/marea-speech-linux-x86_64.tar.gz
+            dist/marea-speech-windows-x86_64.zip
+            dist/marea-speech-macos-arm64.tar.gz
+            dist/marea-speech-macos-x86_64.tar.gz
             dist/lingua-onde-linux-x86_64
             dist/lingua-onde-windows-x86_64.exe
-            dist/lingua-onde-setup-windows-x86_64.exe
             dist/lingua-onde-macos-arm64.zip
             dist/lingua-onde-macos-x86_64.zip
-            dist/lingua-onde-macos-arm64.dmg
-            dist/lingua-onde-macos-x86_64.dmg
-            dist/lingua-onde-speech-linux-x86_64.tar.gz
-            dist/lingua-onde-speech-windows-x86_64.zip
-            dist/lingua-onde-speech-macos-arm64.tar.gz
-            dist/lingua-onde-speech-macos-x86_64.tar.gz

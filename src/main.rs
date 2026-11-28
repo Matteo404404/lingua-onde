@@ -56,6 +56,8 @@ fn main() -> eframe::Result {
     if let Some(i) = args.iter().position(|a| a == "--speech-test") {
         std::process::exit(speech::self_test(&args[i + 1..]));
     }
+    #[cfg(target_os = "linux")]
+    store::refresh_old_launcher();
     let value = |flag: &str| args.iter().position(|a| a == flag).and_then(|i| args.get(i + 1)).cloned();
     let screenshot = value("--screenshot").map(PathBuf::from);
     let open = value("--open");
@@ -65,8 +67,10 @@ fn main() -> eframe::Result {
         .and_then(|s| s.split_once('x').and_then(|(w, h)| Some([w.parse().ok()?, h.parse().ok()?])))
         .unwrap_or([1280.0, 820.0]);
     let mut viewport = egui::ViewportBuilder::default()
-        .with_title("Lingua Onde")
-        .with_app_id("lingua-onde")
+        .with_title("Marea")
+        // A screenshot run gets its own id, so a tiling compositor can be told
+        // to float it at the requested size without touching the real app.
+        .with_app_id(if screenshot.is_some() { "marea-shot" } else { "marea" })
         .with_inner_size(size)
         .with_min_inner_size([900.0, 600.0]);
     // The window and taskbar icon; the Windows exe and the macOS bundle carry
@@ -95,7 +99,7 @@ fn main() -> eframe::Result {
     }
 
     eframe::run_native(
-        "Lingua Onde",
+        "Marea",
         options,
         Box::new(move |cc| {
             theme::setup(&cc.egui_ctx);

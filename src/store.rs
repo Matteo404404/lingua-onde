@@ -88,22 +88,65 @@ pub fn builtin_courses() -> (Vec<Course>, Vec<String>) {
     (out, problems)
 }
 
+/// The data folder: progress, own courses, voices, the speech engine.
+/// `MAREA_HOME` (or the older `LINGUA_ONDE_HOME`) overrides it.
 pub fn data_dir() -> PathBuf {
-    if let Ok(p) = std::env::var("LINGUA_ONDE_HOME") {
+    static DIR: std::sync::OnceLock<PathBuf> = std::sync::OnceLock::new();
+    if let Some(p) = std::env::var_os("MAREA_HOME").or_else(|| std::env::var_os("LINGUA_ONDE_HOME")) {
         return PathBuf::from(p);
     }
+    DIR.get_or_init(|| {
+        let (new, old) = default_dirs();
+        migrate(&new, &old)
+    })
+    .clone()
+}
+
+/// A Linux install from before the rename keeps its launcher file
+/// (packaging/install.sh wrote it): give it the new name and the new icon.
+#[cfg(target_os = "linux")]
+pub fn refresh_old_launcher() {
+    let Ok(home) = std::env::var("HOME") else { return };
+    let base = std::env::var("XDG_DATA_HOME").unwrap_or_else(|_| format!("{home}/.local/share"));
+    let entry = Path::new(&base).join("applications/lingua-onde.desktop");
+    let Ok(text) = std::fs::read_to_string(&entry) else { return };
+    if !text.contains("Name=Lingua Onde") {
+        return;
+    }
+    let text = text.replace("Name=Lingua Onde", "Name=Marea").replace("StartupWMClass=lingua-onde", "StartupWMClass=marea");
+    let _ = std::fs::write(&entry, text);
+    let icon = Path::new(&base).join("icons/hicolor/scalable/apps/lingua-onde.svg");
+    if icon.exists() {
+        let _ = std::fs::write(icon, include_str!("../packaging/marea.svg"));
+    }
+}
+
+/// The folder by its name since the rename to Marea, and by its old name.
+fn default_dirs() -> (PathBuf, PathBuf) {
     let home = std::env::var("HOME")
         .or_else(|_| std::env::var("USERPROFILE"))
         .unwrap_or_else(|_| ".".into());
-    if cfg!(windows) {
-        let base = std::env::var("APPDATA").unwrap_or(home);
-        return Path::new(&base).join("LinguaOnde");
+    let (base, new, old) = if cfg!(windows) {
+        (std::env::var("APPDATA").unwrap_or(home), "Marea", "LinguaOnde")
+    } else if cfg!(target_os = "macos") {
+        (format!("{home}/Library/Application Support"), "Marea", "LinguaOnde")
+    } else {
+        (std::env::var("XDG_DATA_HOME").unwrap_or_else(|_| format!("{home}/.local/share")), "marea", "lingua-onde")
+    };
+    (Path::new(&base).join(new), Path::new(&base).join(old))
+}
+
+/// Copies from before the rename kept everything in the old folder: move it
+/// to the new name once. If the move fails, keep using the old folder, so
+/// progress is never left behind.
+fn migrate(new: &Path, old: &Path) -> PathBuf {
+    if new.exists() || !old.exists() {
+        return new.to_path_buf();
     }
-    if cfg!(target_os = "macos") {
-        return Path::new(&home).join("Library/Application Support/LinguaOnde");
+    match std::fs::rename(old, new) {
+        Ok(()) => new.to_path_buf(),
+        Err(_) => old.to_path_buf(),
     }
-    let base = std::env::var("XDG_DATA_HOME").unwrap_or_else(|_| format!("{home}/.local/share"));
-    Path::new(&base).join("lingua-onde")
 }
 
 pub fn courses_dir() -> PathBuf {
@@ -500,7 +543,7 @@ mod tests {
 
     #[test]
     fn progress_survives_updates() {
-        let dir = std::env::temp_dir().join(format!("lingua-onde-progress-{}", std::process::id()));
+        let dir = std::env::temp_dir().join(format!("marea-progress-{}", std::process::id()));
         let _ = std::fs::remove_dir_all(&dir);
         std::fs::create_dir_all(&dir).unwrap();
         let path = dir.join("progress.json");
@@ -584,5 +627,18 @@ mod tests {
         assert_eq!(c.interval, 0);
         assert_eq!(c.due, day_key(t));
         assert!(c.ease < 2.5);
+    }
+
+    #[test]
+    fn old_data_folder_moves_to_the_new_name() {
+        let base = std::env::temp_dir().join(format!("marea-migrate-{}", std::process::id()));
+        let (new, old) = (base.join("marea"), base.join("lingua-onde"));
+        std::fs::create_dir_all(&old).unwrap();
+        std::fs::write(old.join("progress.json"), "{}").unwrap();
+        assert_eq!(migrate(&new, &old), new);
+        assert!(new.join("progress.json").exists() && !old.exists());
+        // Already moved: nothing changes.
+        assert_eq!(migrate(&new, &old), new);
+        let _ = std::fs::remove_dir_all(&base);
     }
 }

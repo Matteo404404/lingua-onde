@@ -163,7 +163,7 @@ Rules:
   and register, not a copy of the text, and they meet their own rubric.
 
 Checks before you finish:
-- `target/release/lingua_onde --check work/vi/es/mastery/NNN.txt` prints ok
+- `target/release/marea --check work/vi/es/mastery/NNN.txt` prints ok
   with no problem and no `gap:` line, for each file.
 - Count items and syllables of each text against the plan's ranges.
 - Reread every lesson: the ending and the joke work and the notes explain

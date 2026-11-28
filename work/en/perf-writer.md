@@ -108,7 +108,7 @@ Rules:
 - `aside.it:` only where the plan says.
 
 Checks before you finish:
-- `target/release/lingua_onde --check work/en/perfectionnement/NNN.txt` prints
+- `target/release/marea --check work/en/perfectionnement/NNN.txt` prints
   ok with no problem for each file.
 - Reread every lesson: the joke works and the notes explain it correctly,
   natural British English, natural Italian, one answer per blank, no doubtful

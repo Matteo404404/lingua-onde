@@ -46,10 +46,10 @@ pub fn dir() -> PathBuf {
 /// The engine archive for this computer, as release.yml names it.
 fn engine_asset() -> Option<&'static str> {
     Some(match (std::env::consts::OS, std::env::consts::ARCH) {
-        ("linux", "x86_64") => "lingua-onde-speech-linux-x86_64.tar.gz",
-        ("windows", "x86_64") => "lingua-onde-speech-windows-x86_64.zip",
-        ("macos", "aarch64") => "lingua-onde-speech-macos-arm64.tar.gz",
-        ("macos", "x86_64") => "lingua-onde-speech-macos-x86_64.tar.gz",
+        ("linux", "x86_64") => "marea-speech-linux-x86_64.tar.gz",
+        ("windows", "x86_64") => "marea-speech-windows-x86_64.zip",
+        ("macos", "aarch64") => "marea-speech-macos-arm64.tar.gz",
+        ("macos", "x86_64") => "marea-speech-macos-x86_64.tar.gz",
         _ => return None,
     })
 }
@@ -549,7 +549,7 @@ fn start(id: egui::Id, lang: &str, expected: &str, ctx: &egui::Context) {
             // Under half a second, or nothing above the noise: no voice reached it.
             let peak = samples.iter().fold(0.0f32, |m, s| m.max(s.abs()));
             if samples.len() < rate as usize / 2 || peak < 0.003 {
-                return Err(tr("No sound reached the microphone. Check that it is connected and that Lingua Onde may use it (macOS: System Settings, Privacy & Security, Microphone).").to_string());
+                return Err(tr("No sound reached the microphone. Check that it is connected and that Marea may use it (macOS: System Settings, Privacy & Security, Microphone).").to_string());
             }
             let dir = dir();
             std::fs::create_dir_all(&dir).map_err(|e| e.to_string())?;
@@ -579,7 +579,7 @@ pub fn offer(ui: &mut egui::Ui, lang: &str) {
             return;
         }
         if ui
-            .add(theme::secondary(trf("🎤 Check your pronunciation: download speech recognition ({0} MB)", &[&DOWNLOAD_MB])))
+            .add(theme::secondary(trf("Check your pronunciation: download speech recognition ({0} MB)", &[&DOWNLOAD_MB])))
             .on_hover_text(tr("Recognition runs on this computer; your voice is not sent anywhere."))
             .clicked()
         {
@@ -612,7 +612,7 @@ pub fn check_button(ui: &mut egui::Ui, lang: &str, expected: &str) -> Option<Att
         None => {
             let free = !busy();
             if ui
-                .add_enabled(free, theme::secondary(tr("🎤 Record")))
+                .add_enabled(free, theme::secondary(tr("Record")))
                 .on_hover_text(tr("Say the sentence aloud; the app checks what it hears"))
                 .clicked()
             {
@@ -653,7 +653,7 @@ pub fn check_button(ui: &mut egui::Ui, lang: &str, expected: &str) -> Option<Att
                     ui.label(RichText::new(e).color(BAD()));
                 }
             }
-            if ui.add_enabled(!busy(), theme::ghost(tr("🎤 Try again"))).clicked() {
+            if ui.add_enabled(!busy(), theme::ghost(tr("Try again"))).clicked() {
                 start(id, lang, expected, &ctx);
             }
         }
@@ -668,7 +668,7 @@ pub fn check_button(ui: &mut egui::Ui, lang: &str, expected: &str) -> Option<Att
 /// Exit code 0 when the score is at least 0.6, 1 below, 2 on an error.
 pub fn self_test(args: &[String]) -> i32 {
     let [lang, file, expected] = args else {
-        eprintln!("usage: lingua_onde --speech-test LANG FILE.wav \"expected sentence\"");
+        eprintln!("usage: marea --speech-test LANG FILE.wav \"expected sentence\"");
         return 2;
     };
     if engine().is_none() || !model_ready() {
@@ -847,7 +847,7 @@ mod tests {
         if to.is_file() {
             return to;
         }
-        let v = crate::audio::Voices::new(std::env::temp_dir().join("lingua-onde-voice-test"), egui::Context::default());
+        let v = crate::audio::Voices::new(std::env::temp_dir().join("marea-voice-test"), egui::Context::default());
         v.download(code, egui::Context::default());
         let start = Instant::now();
         while !v.ready(code) && start.elapsed() < Duration::from_secs(600) {
@@ -906,7 +906,7 @@ mod tests {
         let rate = u32::from_le_bytes(bytes[24..28].try_into().unwrap());
         let data = bytes.windows(4).position(|w| w == b"data").unwrap() + 8;
         let samples: Vec<f32> = bytes[data..].chunks_exact(2).map(|b| i16::from_le_bytes([b[0], b[1]]) as f32 / 32768.0).collect();
-        let take = std::env::temp_dir().join("lingua-onde-take.wav");
+        let take = std::env::temp_dir().join("marea-take.wav");
         std::fs::write(&take, wav(&to_16k(&samples, rate))).unwrap();
         let a = score(code, text, &transcribe(code, &take).unwrap());
         println!("{a:?}");

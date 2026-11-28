@@ -358,7 +358,7 @@ Rules from the Spanish Foundation that apply here:
 
 ## Checks before you finish
 
-- `target/release/lingua_onde --check work/es/en/mastery/NNN.txt` prints ok
+- `target/release/marea --check work/es/en/mastery/NNN.txt` prints ok
   with no problem and no `gap:` line, for each file.
 - `python3 -I work/tools/extra_checks.py work/es/en/mastery/*.txt` reports
   no repeated title (the revision lessons' "Revisión y notas" excepted) and

@@ -264,7 +264,7 @@ Rules added after each reviewed week go at the end of this section, under
 
 ## Checks before you finish
 
-- `target/release/lingua_onde --check work/es/en/perfectionnement/NNN.txt`
+- `target/release/marea --check work/es/en/perfectionnement/NNN.txt`
   prints ok with no problem for each file.
 - `python3 -I work/tools/extra_checks.py work/es/en/perfectionnement/*.txt`
   reports no repeated title (the revision lessons' "Repaso y matices"

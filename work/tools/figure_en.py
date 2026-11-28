@@ -27,7 +27,8 @@ import progression  # noqa: E402
 
 FULL = 28  # FULL_FIGURED in src/format.rs
 
-PIPER = Path.home() / ".local/share/lingua-onde/voices/piper"
+# the app's data folder, by its name since the rename to Marea or the old one
+PIPER = next((d for d in (Path.home() / ".local/share/marea/voices/piper", Path.home() / ".local/share/lingua-onde/voices/piper") if d.exists()), Path.home() / ".local/share/marea/voices/piper")
 CACHE = Path.home() / ".cache/lingua-onde-espeak/espeak-ng"
 
 # espeak-ng's British voice gets these wrong or old-fashioned.

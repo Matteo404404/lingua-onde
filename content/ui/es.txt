@@ -10,9 +10,6 @@ Elige la carpeta con las grabaciones de este curso
 Recordings linked to {1}: {0}
 Grabaciones vinculadas a {1}: {0}
 
-learn by assimilation
-aprende por asimilación
-
 {0} of {1}
 {0} de {1}
 
@@ -63,18 +60,6 @@ Has hecho todas las lecciones escritas hasta ahora; el resto del curso aún se e
 
 You finished every lesson of this course. Pick another in Courses or add your own.
 Has terminado todas las lecciones de este curso. Elige otro en Cursos o crea el tuyo.
-
-Good morning
-Buenos días
-
-Good afternoon
-Buenas tardes
-
-Good evening
-Buenas noches
-
-{0} · listen, repeat aloud, understand
-{0} · escucha, repite en voz alta, entiende
 
 study streak
 racha de estudio
@@ -148,9 +133,6 @@ diciembre
 {0} {1} {2}
 {0} {1} {2}
 
-Continue · {0}
-Continuar · {0}
-
 Lesson {0} of {1}
 Lección {0} de {1}
 
@@ -190,8 +172,8 @@ ola activa: {0}, lección {1}
 ▶  Start today's lesson
 ▶  Empezar la lección de hoy
 
-📖  Start with the introduction
-📖  Empezar por la introducción
+Start with the introduction
+Empezar por la introducción
 
 ✔  You're done for today
 ✔  Por hoy has terminado
@@ -214,11 +196,11 @@ Ya conozco el método: empezar la lección 1
 ■  Stop
 ■  Detener
 
-⏱  Only a few minutes today? Listen to lesson {0} again and repeat it aloud.
-⏱  ¿Solo unos minutos hoy? Vuelve a escuchar la lección {0} y repítela en voz alta.
+Only a few minutes today? Listen to lesson {0} again and repeat it aloud.
+¿Solo unos minutos hoy? Vuelve a escuchar la lección {0} y repítela en voz alta.
 
-⏱  Only a few minutes today? Read lesson {0} again, aloud.
-⏱  ¿Solo unos minutos hoy? Vuelve a leer la lección {0} en voz alta.
+Only a few minutes today? Read lesson {0} again, aloud.
+¿Solo unos minutos hoy? Vuelve a leer la lección {0} en voz alta.
 
 Next lessons on the way
 Nuevas lecciones en camino
@@ -250,8 +232,8 @@ La ola activa continúa: {0} aún por reconstruir, una al día, como pide el mé
 {0} still to rebuild: the next one comes back tomorrow.
 {0} aún por reconstruir: la siguiente vuelve mañana.
 
-🎉 Course complete
-🎉 Curso completado
+Course complete
+Curso completado
 
 You finished every lesson of this course, and its active wave too. {0} is next.
 Has terminado todas las lecciones del curso, y también su ola activa. Ahora toca {0}.
@@ -259,8 +241,8 @@ Has terminado todas las lecciones del curso, y también su ola activa. Ahora toc
 You finished every lesson of this course, and its active wave too. Choose a new one in Courses, or add your own lessons.
 Has terminado todas las lecciones del curso, y también su ola activa. Elige uno nuevo en Cursos, o añade lecciones tuyas.
 
-📖  The end of the book: the grammar summary and the indexes
-📖  El final del libro: el resumen gramatical y los índices
+The end of the book: the grammar summary and the indexes
+El final del libro: el resumen gramatical y los índices
 
 Your path
 Tu recorrido
@@ -313,8 +295,8 @@ Más
 Less
 Menos
 
-🔈 Pronunciation
-🔈 Pronunciación
+Pronunciation
+Pronunciación
 
 for now in {0}
 por ahora en {0}
@@ -322,8 +304,8 @@ por ahora en {0}
 coming soon
 próximamente
 
-🎧  Link my recordings of this course…
-🎧  Vincular mis grabaciones de este curso…
+Link my recordings of this course…
+Vincular mis grabaciones de este curso…
 
 A folder of audio files named by lesson, e.g. "Lesson 12.mp3"
 Una carpeta de archivos de audio con el número de la lección en el nombre, p. ej. "Lección 12.mp3"
@@ -466,8 +448,8 @@ Gratuitas y sin conexión tras la descarga. Una voz natural lee en voz alta cada
 Ready ✔
 Lista ✔
 
-⬇ Download
-⬇ Descargar
+Download
+Descargar
 
 Your files
 Tus archivos
@@ -475,8 +457,8 @@ Tus archivos
 Progress, your courses and voices are kept in {0}
 Los progresos, tus cursos y las voces se guardan en {0}
 
-📂 Open the folder
-📂 Abrir la carpeta
+Open the folder
+Abrir la carpeta
 
 How to read the pronunciation · {0}
 Cómo leer la pronunciación figurada · {0}
@@ -646,8 +628,8 @@ Lección {0} hecha, ¡buen trabajo! Hasta mañana para la siguiente.
 Lesson {0} done again. See you tomorrow for the next one.
 Lección {0} rehecha. Hasta mañana para la siguiente.
 
-⏹ Stop
-⏹ Detener
+Stop
+Detener
 
 Play the recording
 Reproducir la grabación
@@ -655,11 +637,8 @@ Reproducir la grabación
 Play the lesson recording
 Reproducir la grabación de la lección
 
-🎧 {0} · pause after each sentence and repeat it aloud
-🎧 {0} · pon en pausa después de cada frase y repítela en voz alta
-
-Stop
-Detener
+{0} · pause after each sentence and repeat it aloud
+{0} · pon en pausa después de cada frase y repítela en voz alta
 
 Listen
 Escuchar
@@ -670,8 +649,8 @@ Frase {0} de {1}
 preparing the voice…
 preparo la voz…
 
-🔊 listen…
-🔊 escucha…
+listen…
+escucha…
 
 ● repeat aloud now
 ● ahora repite en voz alta
@@ -706,8 +685,8 @@ La voz espera después de cada frase para que puedas repetirla en voz alta
 No audio for this lesson yet
 Aún no hay audio para esta lección
 
-⬇ Get the {0} voice (free, ~60 MB)
-⬇ Descargar la voz en {0} (gratis, ~60 MB)
+Get the {0} voice (free, ~60 MB)
+Descargar la voz en {0} (gratis, ~60 MB)
 
 Or link your own recordings in Courses. Meanwhile, read the sentences aloud yourself.
 O vincula tus propias grabaciones en Cursos. Mientras tanto, lee tú las frases en voz alta.
@@ -745,8 +724,8 @@ Hecho, paso siguiente  ›
 Step {0} of {1}
 Paso {0} de {1}
 
-📖 This lesson has no text yet: follow it in your book while you listen. You can add the text any time in “My lessons”.
-📖 Esta lección aún no tiene texto: síguela en tu libro mientras escuchas. Puedes añadir el texto cuando quieras en “Mis lecciones”.
+This lesson has no text yet: follow it in your book while you listen. You can add the text any time in “My lessons”.
+Esta lección aún no tiene texto: síguela en tu libro mientras escuchas. Puedes añadir el texto cuando quieras en “Mis lecciones”.
 
 Peek at the text (only if you are stuck)
 Echa un vistazo al texto (solo si te atascas)
@@ -754,11 +733,8 @@ Echa un vistazo al texto (solo si te atascas)
 Hide the translation
 Ocultar la traducción
 
-🔈 Pronunciation guide
-🔈 Guía de pronunciación
-
-Pronunciation
-Pronunciación
+Pronunciation guide
+Guía de pronunciación
 
 Culture
 Cultura
@@ -994,8 +970,8 @@ Ir a Cursos
 Course:
 Curso:
 
-📂 Open the lesson files
-📂 Abrir los archivos de las lecciones
+Open the lesson files
+Abrir los archivos de las lecciones
 
 ＋ New lesson
 ＋ Nueva lección
@@ -1015,8 +991,8 @@ Aún no hay lecciones.
 {0} exercises
 {0} ejercicios
 
-✏ Edit
-✏ Editar
+Edit
+Editar
 
 Edit lesson
 Editar la lección
@@ -1060,8 +1036,8 @@ Frases en {0}
 Translations in {0}
 Traducciones en {0}
 
-⚠ Sentences: {0}, translations: {1}
-⚠ Frases: {0}, traducciones: {1}
+Sentences: {0}, translations: {1}
+Frases: {0}, traducciones: {1}
 
 Add {0} sentence
 Añadir {0} frase
@@ -1084,8 +1060,8 @@ Ejercicio 2 · palabras que faltan
 Put each missing word in [square brackets], e.g. “Muy [bien], [gracias].”
 Pon cada palabra que falta entre [corchetes], p. ej. “Muy [bien], [gracias].”
 
-💾 Save lesson
-💾 Guardar la lección
+Save lesson
+Guardar la lección
 
 Back to the list
 Volver a la lista
@@ -1099,8 +1075,8 @@ Sí, eliminar
 No
 No
 
-🗑 Delete lesson
-🗑 Eliminar la lección
+Delete lesson
+Eliminar la lección
 
 Saved lesson {0}.
 Lección {0} guardada.
@@ -1265,8 +1241,8 @@ Mastery
 Maestría
 
 # Updates
-A new version of Lingua Onde is available: {0}
-Hay una nueva versión de Lingua Onde disponible: {0}
+A new version of Marea is available: {0}
+Hay una nueva versión de Marea disponible: {0}
 
 Update now
 Actualizar ahora
@@ -1310,8 +1286,8 @@ No hay una versión lista para este equipo
 This copy is not an installed app; download the new version from the release page
 Esta copia no es una app instalada: descarga la nueva versión desde la página de la release
 
-Lingua Onde is running from the disk image: drag it onto Applications, open it from there, then update
-Lingua Onde está abierta desde la imagen de disco: arrástrala a Aplicaciones, ábrela desde ahí y luego actualiza
+Marea is running from the disk image: drag it onto Applications, open it from there, then update
+Marea está abierta desde la imagen de disco: arrástrala a Aplicaciones, ábrela desde ahí y luego actualiza
 
 the download is incomplete
 la descarga está incompleta
@@ -1395,11 +1371,8 @@ Pasa el puntero sobre una nota para iluminar su línea en el diálogo; haz clic 
 ▶  Start from the first lesson
 ▶  Empieza por la primera lección
 
-🎯  Find your level
-🎯  Descubre tu nivel
-
-🎯 Find your level
-🎯 Descubre tu nivel
+Find your level
+Descubre tu nivel
 
 Skipped: the level test started you after this lesson
 Saltada: la prueba de nivel te hizo empezar después de esta lección
@@ -1427,9 +1400,6 @@ Empieza por la primera lección
 
 The course takes you from your very first words, one lesson a day.
 El curso te lleva desde tus primeras palabras, una lección al día.
-
-Find your level
-Descubre tu nivel
 
 About ten minutes of reading, listening, writing and speaking, from A1 up. It stops at the first level that is too hard, and you start at the lesson that fits.
 Unos diez minutos de lectura, escucha, escritura y expresión oral, desde A1 hacia arriba. Se detiene en el primer nivel demasiado difícil, y empiezas en la lección que te corresponde.
@@ -1496,8 +1466,8 @@ Mejor empieza por la primera lección
 
 # Speech recognition
 
-🎤 Check your pronunciation: download speech recognition ({0} MB)
-🎤 Comprueba tu pronunciación: descarga el reconocimiento de voz ({0} MB)
+Check your pronunciation: download speech recognition ({0} MB)
+Comprueba tu pronunciación: descarga el reconocimiento de voz ({0} MB)
 
 Recognition runs on this computer; your voice is not sent anywhere.
 El reconocimiento se hace en este ordenador; tu voz no se envía a ninguna parte.
@@ -1517,8 +1487,8 @@ no hay un motor de reconocimiento de voz para este ordenador
 the speech engine is missing from the download
 falta el motor de reconocimiento de voz en la descarga
 
-🎤 Record
-🎤 Grabar
+Record
+Grabar
 
 Say the sentence aloud; the app checks what it hears
 Di la frase en voz alta; la aplicación comprueba lo que oye
@@ -1538,9 +1508,6 @@ oído: {0}
 nothing
 nada
 
-🎤 Try again
-🎤 Otra vez
-
 No microphone found. Connect one, or check the system's sound settings.
 No se encuentra ningún micrófono. Conecta uno o revisa los ajustes de sonido del sistema.
 
@@ -1550,8 +1517,8 @@ No se puede abrir el micrófono: {0}
 The microphone stopped: {0}
 El micrófono se ha detenido: {0}
 
-No sound reached the microphone. Check that it is connected and that Lingua Onde may use it (macOS: System Settings, Privacy & Security, Microphone).
-No ha llegado ningún sonido al micrófono. Comprueba que esté conectado y que Lingua Onde pueda usarlo (macOS: Ajustes del Sistema, Privacidad y seguridad, Micrófono).
+No sound reached the microphone. Check that it is connected and that Marea may use it (macOS: System Settings, Privacy & Security, Microphone).
+No ha llegado ningún sonido al micrófono. Comprueba que esté conectado y que Marea pueda usarlo (macOS: Ajustes del Sistema, Privacidad y seguridad, Micrófono).
 
 Speech recognition does not know this language
 El reconocimiento de voz no conoce este idioma
@@ -1571,8 +1538,8 @@ el motor de reconocimiento de voz ha fallado: {0}
 The speech engine took too long
 El motor de reconocimiento de voz ha tardado demasiado
 
-🎤  Check your pronunciation
-🎤  Comprueba tu pronunciación
+Check your pronunciation
+Comprueba tu pronunciación
 
 Say each sentence aloud after pressing Record: the words in green were understood, the red ones are worth another try.
 Di cada frase en voz alta después de pulsar Grabar: las palabras en verde se han entendido, las rojas merecen otro intento.

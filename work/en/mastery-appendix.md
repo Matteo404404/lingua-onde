@@ -19,6 +19,6 @@ One line per topic, `topic in Italian (English term in brackets where the lesson
 
 Rules: everything in Italian except the English forms; keep technical terms as the lessons write them; lowercase lei; "Fondamenti", "Perfezionamento", "Padronanza", never the English course names, in Italian text; no fact or rule the lessons do not contain. No pronunciation transcriptions. No remarks about originality or copyright.
 
-Strict limits: edit only content/en/appendix-mastery.it.txt. Never touch src/, work/, other content files. Never run git or cargo. You may run grep and read files, and `target/release/lingua_onde --check content/en/appendix-mastery.it.txt` if it accepts the file.
+Strict limits: edit only content/en/appendix-mastery.it.txt. Never touch src/, work/, other content files. Never run git or cargo. You may run grep and read files, and `target/release/marea --check content/en/appendix-mastery.it.txt` if it accepts the file.
 
 Before finishing: check every table example and every first lesson in `== phrases` with grep against work/en/mastery/NNN.txt. Report briefly: number of grammar sections, index lines, phrases; anything you were unsure of.

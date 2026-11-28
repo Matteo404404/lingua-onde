@@ -291,7 +291,7 @@ English). The learner is C1 and becoming C2.
   ...
   ```
 
-- `target/release/lingua_onde --check work/<lang>/foundation/NNN.txt` must
+- `target/release/marea --check work/<lang>/foundation/NNN.txt` must
   print `ok` with no problem and no `gap:` line.
 - `python3 -I work/tools/progression.py . <lang> foundation <first> <last>`
   lists, for each lesson, its lines and its new words, and any exercise word

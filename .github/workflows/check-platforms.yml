@@ -36,20 +36,20 @@ jobs:
           cargo build --release --locked
           # the engine unpacked where the app unpacks its download, with the
           # tar the app uses (Windows' own, which also reads .zip)
-          export LINGUA_ONDE_HOME="$RUNNER_TEMP/lingua-onde-home"
-          mkdir -p "$LINGUA_ONDE_HOME/speech"
+          export MAREA_HOME="$RUNNER_TEMP/marea-home"
+          mkdir -p "$MAREA_HOME/speech"
           if [ "$RUNNER_OS" = Windows ]; then
             bash packaging/build-whisper.sh speech.zip
-            /c/Windows/System32/tar.exe -xf speech.zip -C "$(cygpath -w "$LINGUA_ONDE_HOME/speech")"
+            /c/Windows/System32/tar.exe -xf speech.zip -C "$(cygpath -w "$MAREA_HOME/speech")"
           else
             bash packaging/build-whisper.sh speech.tar.gz
-            tar -xf speech.tar.gz -C "$LINGUA_ONDE_HOME/speech"
+            tar -xf speech.tar.gz -C "$MAREA_HOME/speech"
           fi
-          echo "LINGUA_ONDE_HOME=$LINGUA_ONDE_HOME" >> "$GITHUB_ENV"
+          echo "MAREA_HOME=$MAREA_HOME" >> "$GITHUB_ENV"
           cargo test --release --locked -- --ignored speech_fixtures --nocapture
           # the model downloads here, through the app's own code
-          target/release/lingua_onde --speech-test pt target/speech-check/pt.wav "Uma bica e um pastel de nata, se faz favor."
-          target/release/lingua_onde --speech-test it target/speech-check/it.wav "Buongiorno, vorrei un caffè e un cornetto, per favore."
+          target/release/marea --speech-test pt target/speech-check/pt.wav "Uma bica e um pastel de nata, se faz favor."
+          target/release/marea --speech-test it target/speech-check/it.wav "Buongiorno, vorrei un caffè e un cornetto, per favore."
           # the recording format (16 kHz, 16-bit) through whisper
           cargo test --release --locked -- --ignored recorded_format_transcribes --nocapture
       - name: Microphone

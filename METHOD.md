@@ -1,10 +1,10 @@
-# The Lingua Onde method
+# The Marea method
 
-Lingua Onde teaches by assimilation, the classic self-study method: a short
+Marea teaches by assimilation, the classic self-study method: a short
 text a day, heard and repeated aloud, understood through your own language,
 first passively and then actively. The first two courses of each language
 follow the traditional shape of a beginner course and a Perfectionnement
-course; the third, Mastery, is Lingua Onde's own extension to C2, built on
+course; the third, Mastery, is Marea's own extension to C2, built on
 the same principles. All lessons, recordings and notes are original.
 
 Each language has three courses, studied one after the other:
@@ -253,4 +253,4 @@ register and effect.
   request.
 - Notes, corrections and the figured pronunciation are written in the
   learner's language.
-- Every built-in lesson passes `lingua_onde --check` before it is added.
+- Every built-in lesson passes `marea --check` before it is added.

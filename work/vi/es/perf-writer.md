@@ -150,7 +150,7 @@ Rules:
   how the app shows it beyond what lesson 49's aside says.
 
 Checks before you finish:
-- `target/release/lingua_onde --check work/vi/es/perfectionnement/NNN.txt`
+- `target/release/marea --check work/vi/es/perfectionnement/NNN.txt`
   prints ok with no problem for each file.
 - Reread every lesson: the joke works and the notes explain it correctly,
   natural Vietnamese, natural Spanish, one answer per blank, no doubtful

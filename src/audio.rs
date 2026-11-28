@@ -59,7 +59,7 @@ pub struct Player {
 
 impl Default for Player {
     fn default() -> Self {
-        let sock = std::env::temp_dir().join(format!("lingua-onde-{}.sock", std::process::id()));
+        let sock = std::env::temp_dir().join(format!("marea-{}.sock", std::process::id()));
         Player {
             child: None,
             sock,
@@ -714,7 +714,7 @@ mod tests {
     #[test]
     #[ignore]
     fn voice_download_and_speech() {
-        let dir = std::env::temp_dir().join("lingua-onde-voice-test");
+        let dir = std::env::temp_dir().join("marea-voice-test");
         let v = Voices::new(dir.clone(), egui::Context::default());
         let speak = |code: &str, text: &str| {
             let out = v.speech_file(code, text).unwrap();
@@ -767,7 +767,7 @@ mod tests {
     #[test]
     #[ignore]
     fn recording_pause_and_position() {
-        let dir = std::env::temp_dir().join("lingua-onde-voice-test");
+        let dir = std::env::temp_dir().join("marea-voice-test");
         let v = Voices::new(dir, egui::Context::default());
         let file = v.speech_file("es", "Hola, ¿qué tal?").unwrap();
         let mut p = Player::default();

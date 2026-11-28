@@ -210,7 +210,7 @@ Rules added after week 14:
   form.
 
 Checks before you finish:
-- `target/release/lingua_onde --check work/en/mastery/NNN.txt` prints ok
+- `target/release/marea --check work/en/mastery/NNN.txt` prints ok
   with no problem and no `gap:` line, for each file.
 - Count items and words of each text against the plan's ranges.
 - Reread every lesson: the ending and the joke work and the notes explain

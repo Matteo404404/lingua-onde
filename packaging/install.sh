@@ -1,8 +1,8 @@
 #!/bin/sh
-# Installs Lingua Onde for the current user (Linux) and adds it to the app launcher.
+# Installs Marea for the current user (Linux) and adds it to the app launcher.
 #
 #   From the internet (no Rust needed):
-#     curl -fsSL https://raw.githubusercontent.com/Matteo404404/lingua-onde/main/packaging/install.sh | sh
+#     curl -fsSL https://raw.githubusercontent.com/Matteo404404/marea/main/packaging/install.sh | sh
 #   From a clone (builds from source with cargo):
 #     ./packaging/install.sh
 #   Remove it (your progress stays):
@@ -11,14 +11,17 @@
 # Run it again to update.
 set -eu
 
-repo="Matteo404404/lingua-onde"
-bin="$HOME/.local/bin/lingua-onde"
-desktop="$HOME/.local/share/applications/lingua-onde.desktop"
-icon="$HOME/.local/share/icons/hicolor/scalable/apps/lingua-onde.svg"
+repo="Matteo404404/marea"
+bin="$HOME/.local/bin/marea"
+desktop="$HOME/.local/share/applications/marea.desktop"
+icon="$HOME/.local/share/icons/hicolor/scalable/apps/marea.svg"
+# the same files from before the rename to Marea, removed on install
+old="$HOME/.local/bin/lingua-onde $HOME/.local/share/applications/lingua-onde.desktop $HOME/.local/share/icons/hicolor/scalable/apps/lingua-onde.svg"
 
 if [ "${1:-}" = "--uninstall" ]; then
-    rm -f "$bin" "$desktop" "$icon"
-    echo "Removed Lingua Onde. Your progress stays in ~/.local/share/lingua-onde/."
+    # shellcheck disable=SC2086
+    rm -f "$bin" "$desktop" "$icon" $old
+    echo "Removed Marea. Your progress stays in ~/.local/share/marea/."
     exit 0
 fi
 
@@ -27,9 +30,9 @@ here="$(cd "$(dirname "$0")" 2>/dev/null && pwd)" || here=""
 if [ -n "$here" ] && [ -f "$here/../Cargo.toml" ] && command -v cargo >/dev/null; then
     cargo build --release --manifest-path "$here/../Cargo.toml"
     # Copy, so `cargo clean` never breaks the launcher.
-    install -m 755 "$here/../target/release/lingua_onde" "$bin"
-    install -m 644 "$here/lingua-onde.svg" "$icon"
-    entry="$here/lingua-onde.desktop"
+    install -m 755 "$here/../target/release/marea" "$bin"
+    install -m 644 "$here/marea.svg" "$icon"
+    entry="$here/marea.desktop"
 else
     if [ "$(uname -m)" != "x86_64" ]; then
         echo "Ready-made builds are for x86_64 only. Build from source instead: see the README." >&2
@@ -37,32 +40,34 @@ else
     fi
     tmp="$(mktemp -d)"
     trap 'rm -rf "$tmp"' EXIT
-    echo "Downloading Lingua Onde…"
-    url="https://github.com/$repo/releases/latest/download/lingua-onde-linux-x86_64"
-    if ! curl -fL --progress-bar -o "$tmp/lingua-onde" "$url"; then
+    echo "Downloading Marea…"
+    url="https://github.com/$repo/releases/latest/download/marea-linux-x86_64"
+    if ! curl -fL --progress-bar -o "$tmp/marea" "$url"; then
         echo "Could not download the app. That file exists only after a release is published." >&2
         echo "Until then, clone the repo and run ./packaging/install.sh (that build needs Rust)." >&2
         exit 1
     fi
     # a GitHub error page is small; the app is tens of megabytes
-    size=$(wc -c < "$tmp/lingua-onde")
+    size=$(wc -c < "$tmp/marea")
     if [ "$size" -lt 1000000 ]; then
         echo "The download is too small to be the app. Check the latest release on GitHub." >&2
         exit 1
     fi
-    curl -fsSL -o "$tmp/lingua-onde.svg" "https://raw.githubusercontent.com/$repo/main/packaging/lingua-onde.svg"
-    curl -fsSL -o "$tmp/lingua-onde.desktop" "https://raw.githubusercontent.com/$repo/main/packaging/lingua-onde.desktop"
-    install -m 755 "$tmp/lingua-onde" "$bin"
-    install -m 644 "$tmp/lingua-onde.svg" "$icon"
-    entry="$tmp/lingua-onde.desktop"
+    curl -fsSL -o "$tmp/marea.svg" "https://raw.githubusercontent.com/$repo/main/packaging/marea.svg"
+    curl -fsSL -o "$tmp/marea.desktop" "https://raw.githubusercontent.com/$repo/main/packaging/marea.desktop"
+    install -m 755 "$tmp/marea" "$bin"
+    install -m 644 "$tmp/marea.svg" "$icon"
+    entry="$tmp/marea.desktop"
 fi
 
+# shellcheck disable=SC2086
+rm -f $old
 # Launchers do not search PATH reliably: point Exec at the installed file.
 sed "s|^Exec=.*|Exec=$bin|" "$entry" > "$desktop"
 command -v update-desktop-database >/dev/null && update-desktop-database -q "$(dirname "$desktop")" || true
 command -v gtk-update-icon-cache >/dev/null && gtk-update-icon-cache -q -t "$HOME/.local/share/icons/hicolor" || true
 
-echo "Installed. Open \"Lingua Onde\" from your app menu, or run $bin"
+echo "Installed. Open \"Marea\" from your app menu, or run $bin"
 # the voices play through PipeWire, PulseAudio or ALSA; mpv only adds pause and rewind
 if ! command -v mpv >/dev/null && ! command -v pw-play >/dev/null && ! command -v paplay >/dev/null && ! command -v aplay >/dev/null; then
     echo "No sound player found. Install mpv with your package manager, for example:"

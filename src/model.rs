@@ -46,15 +46,9 @@ impl Level {
         }
     }
 
+    /// Levels are stretches of one line: they take the line's colour.
     pub fn color(self) -> Color32 {
-        match self {
-            Level::A1 => Color32::from_rgb(76, 175, 120),
-            Level::A2 => Color32::from_rgb(52, 152, 160),
-            Level::B1 => Color32::from_rgb(66, 120, 200),
-            Level::B2 => Color32::from_rgb(120, 96, 200),
-            Level::C1 => Color32::from_rgb(196, 98, 150),
-            Level::C2 => Color32::from_rgb(214, 120, 60),
-        }
+        crate::theme::FILL()
     }
 }
 
@@ -363,7 +357,7 @@ pub const LANGS: &[LangInfo] = &[
         italian: "Spagnolo",
         spanish: "Español",
         native: "Español",
-        color: Color32::from_rgb(214, 74, 60),
+        color: Color32::from_rgb(196, 50, 34),
         voice: ("es/es_ES/davefx/medium/es_ES-davefx-medium", None),
     },
     LangInfo {
@@ -372,7 +366,7 @@ pub const LANGS: &[LangInfo] = &[
         italian: "Francese",
         spanish: "Francés",
         native: "Français",
-        color: Color32::from_rgb(58, 102, 196),
+        color: Color32::from_rgb(44, 88, 178),
         voice: ("fr/fr_FR/siwis/medium/fr_FR-siwis-medium", None),
     },
     LangInfo {
@@ -381,7 +375,7 @@ pub const LANGS: &[LangInfo] = &[
         italian: "Tedesco",
         spanish: "Alemán",
         native: "Deutsch",
-        color: Color32::from_rgb(60, 60, 70),
+        color: Color32::from_rgb(58, 58, 68),
         voice: ("de/de_DE/thorsten/medium/de_DE-thorsten-medium", None),
     },
     LangInfo {
@@ -390,7 +384,7 @@ pub const LANGS: &[LangInfo] = &[
         italian: "Olandese",
         spanish: "Neerlandés",
         native: "Nederlands",
-        color: Color32::from_rgb(232, 118, 34),
+        color: Color32::from_rgb(184, 78, 12),
         voice: ("nl/nl_NL/pim/medium/nl_NL-pim-medium", None),
     },
     LangInfo {
@@ -399,7 +393,7 @@ pub const LANGS: &[LangInfo] = &[
         italian: "Portoghese",
         spanish: "Portugués",
         native: "Português",
-        color: Color32::from_rgb(40, 150, 90),
+        color: Color32::from_rgb(27, 125, 68),
         voice: ("pt/pt_PT/tug%C3%A3o/medium/pt_PT-tug%C3%A3o-medium", None),
     },
     LangInfo {
@@ -408,7 +402,7 @@ pub const LANGS: &[LangInfo] = &[
         italian: "Cinese",
         spanish: "Chino",
         native: "中文",
-        color: Color32::from_rgb(200, 40, 50),
+        color: Color32::from_rgb(180, 34, 46),
         voice: ("zh/zh_CN/huayan/medium/zh_CN-huayan-medium", None),
     },
     LangInfo {
@@ -417,7 +411,7 @@ pub const LANGS: &[LangInfo] = &[
         italian: "Latino",
         spanish: "Latín",
         native: "Latina",
-        color: Color32::from_rgb(150, 110, 50),
+        color: Color32::from_rgb(138, 98, 46),
         voice: ("it/it_IT/paola/medium/it_IT-paola-medium", Some("la")),
     },
     LangInfo {
@@ -426,7 +420,7 @@ pub const LANGS: &[LangInfo] = &[
         italian: "Vietnamita",
         spanish: "Vietnamita",
         native: "Tiếng Việt",
-        color: Color32::from_rgb(218, 160, 30),
+        color: Color32::from_rgb(224, 168, 30),
         voice: ("vi/vi_VN/vais1000/medium/vi_VN-vais1000-medium", None),
     },
     LangInfo {
@@ -435,7 +429,7 @@ pub const LANGS: &[LangInfo] = &[
         italian: "Italiano",
         spanish: "Italiano",
         native: "Italiano",
-        color: Color32::from_rgb(30, 140, 70),
+        color: Color32::from_rgb(32, 128, 72),
         voice: ("it/it_IT/paola/medium/it_IT-paola-medium", None),
     },
     LangInfo {
@@ -444,7 +438,7 @@ pub const LANGS: &[LangInfo] = &[
         italian: "Inglese",
         spanish: "Inglés",
         native: "English",
-        color: Color32::from_rgb(40, 70, 140),
+        color: Color32::from_rgb(40, 74, 154),
         voice: ("en/en_GB/cori/medium/en_GB-cori-medium", None),
     },
 ];

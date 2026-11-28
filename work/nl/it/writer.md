@@ -122,7 +122,7 @@ Files: work/nl/it/foundation/NNN.txt, one lesson each, starting:
 ## Checks before you finish
 
 - Run figure_nl.py --write on each lesson (see above).
-- `target/release/lingua_onde --check work/nl/it/foundation/NNN.txt` prints
+- `target/release/marea --check work/nl/it/foundation/NNN.txt` prints
   ok with no problem and no `gap:` line, for each file.
 - `python3 -I work/tools/progression.py . nl/it foundation 1 N`: no unmet
   exercise word, the new words within the plan's size.

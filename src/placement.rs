@@ -551,14 +551,13 @@ impl App {
             &trf("{0}: where do you start?", &[&lang_name(&st.lang, &base)]),
             tr("From the very first lesson, or from the lesson that fits what you already know. You can take the test again any time from Courses."),
         );
-        let card = |ui: &mut egui::Ui, icon: &str, title: &str, text: &str, button: egui::Button<'static>| -> bool {
+        let card = |ui: &mut egui::Ui, title: &str, text: &str, button: egui::Button<'static>| -> bool {
             ui.with_layout(egui::Layout::top_down(egui::Align::Min), |ui| {
                 theme::card()
                     .show(ui, |ui| {
                         ui.set_width(ui.available_width());
                         ui.set_min_height(190.0);
-                        theme::icon_circle(ui, icon, ACCENT(), ACCENT_SOFT(), 46.0);
-                        ui.label(bold(title).size(19.0));
+                        ui.label(theme::display(title).size(20.0));
                         ui.label(muted(text).size(14.5));
                         ui.add_space(8.0);
                         ui.add(button).clicked()
@@ -570,7 +569,6 @@ impl App {
         let first = |ui: &mut egui::Ui| {
             card(
                 ui,
-                "▶",
                 tr("Start from the first lesson"),
                 tr("The course takes you from your very first words, one lesson a day."),
                 theme::secondary(tr("Start from the first lesson")),
@@ -579,7 +577,6 @@ impl App {
         let find = |ui: &mut egui::Ui| {
             card(
                 ui,
-                "🎯",
                 tr("Find your level"),
                 tr("About ten minutes of reading, listening, writing and speaking, from A1 up. It stops at the first level that is too hard, and you start at the lesson that fits."),
                 theme::primary(tr("Find your level")),
@@ -675,7 +672,7 @@ impl App {
                                 if theme::round_button(ui, glyph, 46.0, ACCENT()).on_hover_text(tr("Listen again")).clicked() {
                                     self.play_seq("level-test", &lang, vec![text.clone()], 0, true);
                                 }
-                                ui.label(muted(if playing { tr("🔊 listen…") } else { tr("Listen again") }));
+                                ui.label(muted(if playing { tr("listen…") } else { tr("Listen again") }));
                             });
                         }
                         if no_sound && ui.add(theme::secondary(tr("Skip the listening questions"))).clicked() {
@@ -960,7 +957,7 @@ mod tests {
     #[test]
     fn placing_starts_the_learner_without_inventing_history() {
         // SAFETY: the only other reader of this variable is in ignored tests.
-        unsafe { std::env::set_var("LINGUA_ONDE_HOME", std::env::temp_dir().join("lingua-onde-test-home")) };
+        unsafe { std::env::set_var("MAREA_HOME", std::env::temp_dir().join("marea-test-home")) };
         let mut app = App::new(&egui::Context::default(), None, None);
         app.saved = crate::store::Saved {
             base: "en".into(),
@@ -1015,7 +1012,7 @@ mod tests {
     #[test]
     fn test_screens_draw() {
         // SAFETY: the only other reader of this variable is in ignored tests.
-        unsafe { std::env::set_var("LINGUA_ONDE_HOME", std::env::temp_dir().join("lingua-onde-test-home")) };
+        unsafe { std::env::set_var("MAREA_HOME", std::env::temp_dir().join("marea-test-home")) };
         let ctx = egui::Context::default();
         theme::setup(&ctx);
         let mut app = App::new(&ctx, None, None);

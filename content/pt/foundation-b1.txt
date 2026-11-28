@@ -1109,3 +1109,568 @@ A Lisbona l'azione in corso si dice con estar a o andar a più l'infinito, mai c
 Lá indica un luogo lontano da chi parla, cá un luogo vicino a chi parla. Spesso stanno prima del verbo: já cá vim, nunca lá estive.
 
 Chiudiamo il ripasso: la prossima lezione è la 64, con il passivo.
+
+== 64 B1
+numeral: Sexagésima quarta lição
+numeral.pron.it: sëcsa*jè*zima *cuar*ta li*sauⁿ*
+title: Os Jerónimos
+title.it: I Jerónimos
+
+dialogue:
+- Desculpe, é aqui a igreja dos Jerónimos?
+  it: Scusi, è qui la chiesa dei Jerónimos?
+  pron.it: … i*gré*ja …
+- É, sim. E o mosteiro também.
+  it: Sì, e anche il monastero.
+- E é antiga?
+  it: Ed è antica?
+  pron.it: … aⁿ*ti*ga
+- Mais de quinhentos anos. O mosteiro foi mandado construir pelo rei D. Manuel I.
+  it: Più di cinquecento anni. Il monastero fu fatto costruire dal re Manuele I.
+  pron.it: … maⁿ*da*du coⁿshtru*ir* … rrèi dé manu*èl* i
+- Para quê?
+  it: Per quale motivo?
+- Para celebrar a viagem de Vasco da Gama à Índia.
+  it: Per celebrare il viaggio di Vasco da Gama in India.
+  pron.it: … sëlë*brar* … *vash*cu … *ga*ma … *iⁿ*dia
+- E Vasco da Gama? Está aqui?
+  it: E Vasco da Gama? È qui?
+- Está sepultado aqui, sim. E ali está o túmulo de Camões.
+  it: È sepolto qui, sì. E lì c'è la tomba di Camões.
+  pron.it: … sëpul*ta*du … *tu*mulu … ca*moiⁿsh*
+- Camões também?
+  it: Anche Camões?
+- Os ossos foram trazidos para aqui em 1880. Mas ninguém tem a certeza de que são dele.
+  it: Le ossa furono portate qui nel 1880. Ma nessuno ha la certezza che siano sue.
+  pron.it: … *zò*sush *fó*rauⁿ tra*zi*dush … sër*té*za …
+- Então pode ser outra pessoa?
+  it: Allora può essere un'altra persona?
+- Pode. Uma pessoa com um túmulo muito bonito.
+  it: Può. Una persona con una tomba molto bella.
+
+sounds.it:
+1. Mosteiro si dice mush*tèi*ru: la s davanti alla t fruscia come sc, come in português, e la e non accentata diventa ë.
+
+notes.it:
+1. Foi mandado construir pelo rei D. Manuel I: il passivo è ser più il participio, che concorda con il soggetto (o mosteiro, maschile singolare, quindi mandado). Il complemento di chi compie l'azione va con por: pelo rei è por più o, come in pelo Cais do Sodré (lezione 61).
+2. Mandar construir vuol dire far costruire, cioè dare l'ordine di costruire: il re ha ordinato la costruzione. Lo ritroverai più avanti con altri verbi.
+3. Para quê?: il quê ha l'accento perché chiude la domanda, e chiede lo scopo, "per quale motivo?". La risposta usa para più l'infinito, come para ver nella lezione 52: para celebrar dice a che scopo.
+4. Está sepultado aqui: estar più il participio dice lo stato in cui una cosa si trova adesso, "è sepolto". Foi sepultado sarebbe l'azione della sepoltura, "fu sepolto"; la differenza tra ser ed estar la spieghiamo nella lezione 66.
+5. Tem a certeza de que: in Portogallo si dice ter a certeza, con la a, "avere la certezza che". Il dele è "di lui", come in Qual é o segredo dele? (lezione 19): são dele vuol dire "sono suoi".
+6. Pode ser outra pessoa: pode ser è "può essere", e la risposta Pode è una conferma breve, "può".
+
+culture.it:
+Il monastero dei Jerónimos è in stile manuelino, dal nome del re Manuele I: la pietra è scolpita con corde, sfere armillari e motivi del mare, ricordo dei navigatori portoghesi. Fu pagato con le ricchezze del commercio delle spezie con l'India. Camões scrisse Os Lusíadas, il poema sul viaggio di Vasco da Gama, pubblicato nel 1572. Una frase da usare all'uscita: Vale a pena! (ne vale la pena).
+
+ex1:
+- Esta igreja é muito antiga.
+  it: Questa chiesa è molto antica.
+- Os bilhetes custam dois euros.
+  it: I biglietti costano due euro.
+- Ali está o túmulo do rei.
+  it: Lì c'è la tomba del re.
+- Pode ser outra pessoa.
+  it: Può essere un'altra persona.
+- Para celebrar a festa, vamos ao mosteiro.
+  it: Per festeggiare, andiamo al monastero.
+
+ex2:
+- O mosteiro foi [mandado] construir pelo rei.
+  it: Il monastero fu fatto costruire dal re.
+- Vasco da Gama está [sepultado] aqui.
+  it: Vasco da Gama è sepolto qui.
+- Os ossos foram [trazidos] para aqui.
+  it: Le ossa furono portate qui.
+- Ninguém tem a [certeza] de que são dele.
+  it: Nessuno ha la certezza che siano suoi.
+- Então pode [ser] outra pessoa?
+  it: Allora può essere un'altra persona?
+
+== 65 B1
+numeral: Sexagésima quinta lição
+numeral.pron.it: sëcsa*jè*zima *chiⁿ*ta li*sauⁿ*
+title: O terramoto de 1755
+title.it: Il terremoto del 1755
+
+dialogue:
+- Na manhã de 1 de novembro de 1755, Dia de Todos os Santos, as pessoas estavam na igreja.
+  it: La mattina del 1° novembre 1755, giorno di Ognissanti, la gente era in chiesa.
+  pron.it: … ma*gnaⁿ* … nu*veⁿ*bru … *saⁿ*tush … 'sh*ta*vauⁿ …
+- Por volta das dez, a terra tremeu.
+  it: Verso le dieci la terra tremò.
+  pron.it: … *vòl*ta … *tè*rra trë*méu*
+- O terramoto durou vários minutos.
+  it: La scossa durò parecchi minuti.
+  pron.it: … du*ró* *va*riush …
+- Depois, o mar subiu.
+  it: Poi il mare salì.
+  pron.it: … mar su*bi*u
+- Os incêndios continuaram durante dias.
+  it: Gli incendi continuarono per giorni.
+  pron.it: … ziⁿ*seⁿ*diush coⁿtinu*a*rauⁿ …
+- Grande parte de Lisboa foi destruída.
+  it: Gran parte di Lisbona fu distrutta.
+  pron.it: *graⁿ*dë *par*të … dështru*i*da
+- Muitas pessoas morreram.
+  it: Morirono molte persone.
+  pron.it: … mu*rré*rauⁿ
+- Diz-se que o futuro marquês de Pombal respondeu: «Enterrar os mortos e cuidar dos vivos.»
+  it: Si dice che il futuro marchese di Pombal rispose: «Seppellire i morti e curare i vivi.»
+  pron.it: … fu*tu*ru mar*chésh* … poⁿ*bal* rrëshpoⁿ*déu* eⁿ't*rrar* … *mòr*tuz … cui*dar* … *vi*vush
+- A Baixa reconstruiu-se com ruas direitas.
+  it: La Baixa si ricostruì con strade dritte.
+  pron.it: … *bai*scia rrëcoⁿshtru*i*u-së … di*rèi*tash
+- As casas novas tinham uma gaiola de madeira.
+  it: Le case nuove avevano una gabbia di legno.
+  pron.it: … *nó*vash *ti*gnauⁿ … gai*ò*la …
+- A notícia chocou a Europa.
+  it: La notizia sconvolse l'Europa.
+  pron.it: … nu*ti*sia sciu*có* … éu*rò*pa
+- Hoje, a Baixa é um bairro cheio de cafés.
+  it: Oggi la Baixa è un quartiere pieno di caffè.
+  pron.it: … ca*fèsh*
+
+notes.it:
+1. Na manhã de 1 de novembro de 1755: la data si scrive giorno de mese de anno, con de tra le parti. Dia de Todos os Santos è Ognissanti, il giorno in cui la gente va in chiesa.
+2. Por volta das dez: por volta de vuol dire "verso, intorno a". Das è de più as, la stessa contrazione di do e da.
+3. Depois, o mar subiu: mar è il mare, e subir è "salire". Il verbo è al perfeito simples, perché è un fatto concluso.
+4. Diz-se que: vuol dire "si dice che". Il se unito al verbo è impersonale, e lo vedremo meglio più avanti.
+5. Grande parte de Lisboa foi destruída: foi destruída è il passivo della lezione 64, e il participio è al femminile perché parte è femminile.
+6. A Baixa reconstruiu-se: il se unito al verbo vuol dire "si ricostruì"; la stessa forma di diz-se.
+7. Gaiola è la gabbia: la gaiola pombalina è la struttura di legno delle case della Baixa, che prende il nome da Pombal.
+
+ex1:
+- O mar subiu muito.
+  it: Il mare salì molto.
+- O terramoto durou pouco.
+  it: Il terremoto durò poco.
+- Ninguém sabe a resposta.
+  it: Nessuno sa la risposta.
+- O bairro é pequeno.
+  it: Il quartiere è piccolo.
+- Muitas pessoas estavam em casa.
+  it: Molte persone erano a casa.
+
+ex2:
+- Grande parte de Lisboa foi [destruída].
+  it: Gran parte di Lisbona fu distrutta.
+- Depois, o mar [subiu].
+  it: Poi il mare salì.
+- Os incêndios [continuaram] durante dias.
+  it: Gli incendi continuarono per giorni.
+- O terramoto [durou] vários minutos.
+  it: La scossa durò parecchi minuti.
+- A Baixa [reconstruiu-se] com ruas direitas.
+  it: La Baixa si ricostruì con strade dritte.
+
+== 66 B1
+numeral: Sexagésima sexta lição
+numeral.pron.it: sëcsa*jè*zima *sèish*ta li*sauⁿ*
+title: Está tudo pago
+title.it: È tutto pagato
+
+dialogue:
+- As flores estão entregues?
+  it: I fiori sono stati consegnati?
+  pron.it: … *fló*rësh … eⁿ*tré*ghësh
+- Estão.
+  it: Sì (sono).
+- O bolo está pago?
+  it: La torta nuziale è pagata?
+- Está pago.
+  it: Sì, è pagata.
+- Os convites foram enviados?
+  it: Gli inviti sono stati spediti?
+  pron.it: … coⁿ*vi*tësh … eⁿvi*a*dush
+- Foram todos enviados há um mês.
+  it: Sono stati spediti tutti un mese fa.
+  pron.it: … mésh
+- E a igreja?
+  it: E la chiesa?
+- Está aberta e enfeitada.
+  it: È aperta e addobbata.
+  pron.it: … eⁿfèi*ta*da
+- E o noivo?
+  it: E lo sposo?
+  pron.it: … *noi*vu
+- O noivo... está desaparecido.
+  it: Lo sposo... è scomparso.
+  pron.it: … dëzapa'r*si*du
+- Desaparecido?!
+  it: Scomparso?!
+- Está no café ao lado, a ver o jogo do Benfica.
+  it: È al bar qui accanto, a guardare la partita del Benfica.
+  pron.it: … *jó*gu …
+
+notes.it:
+1. As flores estão entregues?: estar più il participio dice lo stato di una cosa adesso, "sono consegnate". Il portoghese non mette l'azione in primo piano: la domanda chiede com'è la situazione.
+2. Os convites foram enviados?: ser più il participio dice l'azione compiuta, "sono stati spediti", come foi mandado construir nella lezione 64. Ser dice l'azione, estar il risultato.
+3. Está pago: pago ed entregue sono participi brevi, quelli che si usano con ser ed estar: está pago, estão entregues. La tabella è nel ripasso della lezione 70.
+4. Foram todos enviados há um mês: há con il passato vuol dire "fa", come in há trinta anos della lezione 53 (con il presente, da). Todos concorda con il plurale: tutti.
+5. Está aberta e enfeitada: enfeitada è addobbata, decorata con fiori o nastri; il femminile è dato da igreja.
+6. O noivo: noivo è il fidanzato, e il giorno delle nozze lo sposo; la forma femminile è noiva. Convite è l'invito, come in convites.
+7. Está no café ao lado, a ver o jogo do Benfica: estar a più l'infinito dice che l'azione è in corso adesso, come nella lezione 9. A ver è "guardare".
+
+ex1:
+- Os convites já foram enviados.
+  it: Gli inviti sono già stati spediti.
+- O bolo está pago, e as flores estão entregues.
+  it: La torta è pagata e i fiori sono consegnati.
+- A igreja está aberta.
+  it: La chiesa è aperta.
+- O noivo está no café.
+  it: Lo sposo è al bar.
+- O café é caro.
+  it: Il caffè è caro.
+
+ex2:
+- As flores [estão] entregues.
+  it: I fiori sono consegnati.
+- O bolo [está] pago.
+  it: La torta è pagata.
+- Os convites [foram] enviados.
+  it: Gli inviti sono stati spediti.
+- A igreja [está] enfeitada.
+  it: La chiesa è addobbata.
+- O noivo está [desaparecido].
+  it: Lo sposo è scomparso.
+
+== 67 B1
+numeral: Sexagésima sétima lição
+numeral.pron.it: sëcsa*jè*zima *sè*tima li*sauⁿ*
+title: Enquanto estiveram fora
+title.it: Mentre eravate via
+
+dialogue:
+- Enquanto estiveram fora, o gato portou-se bem.
+  it: Mentre eravate via, il gatto si è comportato bene.
+  pron.it: eⁿ*cuaⁿ*tu 'shti*vè*rauⁿ … pur*tó*-së …
+- E não estragou nada?
+  it: E non ha rovinato niente?
+  pron.it: … 'shtra*gó* …
+- Nada. Só andou pela casa.
+  it: Niente. Ha solo girato per casa.
+  pron.it: … aⁿ*dó* …
+- A sério?
+  it: Davvero?
+- Logo que saíram, foi para a vossa cama.
+  it: Appena siete usciti, è andato nel vostro letto.
+  pron.it: … *vò*sa *ca*ma
+- Para a nossa cama?
+  it: Nel nostro letto?
+  pron.it: … *nò*sa …
+- Antes de eu chegar, já tinha aberto o armário.
+  it: Prima che arrivassi io, aveva già aperto l'armadio.
+  pron.it: … scë*gar* … a*bèr*tu …
+- E depois?
+  it: E poi?
+- Depois de comer, dormiu doze horas.
+  it: Dopo aver mangiato, ha dormito dodici ore.
+  pron.it: … dur*mi*u *dó*zë …
+- E as plantas?
+  it: E le piante?
+- Embora tenha ração, prefere as plantas.
+  it: Benché abbia le crocchette, preferisce le piante.
+  pron.it: eⁿ*bò*ra … rra*sauⁿ* prë*fè*rë …
+- Então portou-se bem?
+  it: Allora si è comportato bene?
+- Para um gato, sim.
+  it: Per un gatto, sì.
+
+notes.it:
+1. Enquanto estiveram fora: enquanto vuol dire "mentre" e vuole l'indicativo. Estiveram è il perfeito di estar per vocês (ed eles), come estive nella lezione 52: estiveram fora, "siete stati via", che l'italiano dice "eravate via".
+2. Logo que saíram: logo que vuol dire "appena", e come enquanto vuole l'indicativo. Assim que è identico: assim que chego, "non appena arrivo".
+3. Antes de eu chegar: antes de più l'infinito dice "prima di". Quando il soggetto è diverso da quello della frase principale, come eu qui, l'infinito si coniuga: è l'infinito personale della lezione 46 (para termos mesa).
+4. Já tinha aberto o armário: è il mais-que-perfeito composto visto nella lezione 57 e spiegato nella lezione 58, "aveva già aperto". Il gatto ha aperto l'armadio prima che arrivasse chi lo accudiva.
+5. Depois de comer: depois de più l'infinito dice "dopo aver mangiato". Qui il soggetto è lo stesso del verbo principale, il gatto, e l'infinito resta senza persona.
+6. Embora tenha ração: embora vuol dire "benché", "anche se", e vuole il congiuntivo, qui è il presente di ter, tenha. Il congiuntivo presente lo abbiamo già visto in que tenha varanda (lezione 55), e lo riprendiamo nella lezione 70.
+7. Portou-se bem: portar-se è "comportarsi", e il pronome se sta dopo il verbo con il trattino, come in sentar-se (lezione 60).
+
+ex1:
+- Enquanto espero, fico aqui.
+  it: Mentre aspetto, resto qui.
+- Antes de sair, fecha a janela.
+  it: Prima di uscire, chiudi la finestra.
+- O gato dormiu no sofá.
+  it: Il gatto ha dormito sul divano.
+- Ele já tinha comido.
+  it: Lui aveva già mangiato.
+- Ele portou-se mal.
+  it: Lui si è comportato male.
+
+ex2:
+- [Enquanto] estiveram fora, o gato portou-se bem.
+  it: Mentre eravate via, il gatto si è comportato bene.
+- Logo [que] saíram, foi para a cama.
+  it: Appena siete usciti, è andato a letto.
+- Antes de eu [chegar], já tinha aberto o armário.
+  it: Prima che arrivassi io, aveva già aperto l'armadio.
+- Depois de [comer], dormiu doze horas.
+  it: Dopo aver mangiato, ha dormito dodici ore.
+- [Embora] tenha ração, prefere as plantas.
+  it: Benché abbia le crocchette, preferisce le piante.
+
+== 68 B1
+numeral: Sexagésima oitava lição
+numeral.pron.it: sëcsa*jè*zima oi*ta*va li*sauⁿ*
+title: Na Loja do Cidadão
+title.it: All'ufficio del cittadino
+
+dialogue:
+- Bom dia. Queria pedir o NIF.
+  it: Buongiorno. Vorrei richiedere il NIF.
+  pron.it: … nif
+- Tirou senha?
+  it: Ha preso il numerino?
+  pron.it: ti*ró* *sè*gna
+- Não tirei. Devia ter tirado?
+  it: No. Avrei dovuto prenderlo?
+  pron.it: … ti*rèi* dë*vi*a … ti*ra*du
+- Devia. A máquina está ali.
+  it: Sì, avrebbe dovuto. La macchinetta è lì.
+- Número 245. E agora?
+  it: Numero 245. E adesso?
+  pron.it: *nu*mëru …
+- Agora espere. Vamos no 98.
+  it: Adesso aspetti. Siamo al 98.
+- Podia ter-me dito antes!
+  it: Avrebbe potuto dirmelo prima!
+  pron.it: … *di*tu …
+- Podia. Mas o senhor não perguntou.
+  it: Certo (avrei potuto). Ma lei non ha chiesto.
+  pron.it: … përguⁿ*tó*
+- E para o NIF, o que é preciso?
+  it: E per il NIF, che cosa serve?
+- O passaporte e uma morada. Espero que tenha trazido o passaporte.
+  it: Il passaporto e un indirizzo. Spero che abbia portato il passaporto.
+  pron.it: … pasa*pòr*të … mu*ra*da … tra*zi*du …
+- Trouxe. Mas uma morada em Portugal? Para arrendar casa preciso do NIF.
+  it: L'ho portato. Ma un indirizzo in Portogallo? Per affittare casa ho bisogno del NIF.
+  pron.it: … arreⁿ*dar* …
+- E para o NIF precisa de morada. Bem-vindo a Portugal.
+  it: E per il NIF serve un indirizzo. Benvenuto in Portogallo.
+  pron.it: … prë*si*za … beiⁿ-*viⁿ*du …
+
+notes.it:
+1. Queria pedir o NIF: pedir vuol dire "chiedere" nel senso di richiedere, avere qualcosa; perguntar, della lezione 50, è domandare una cosa. Qui si chiede un documento, quindi pedir.
+2. Tirou senha?: tirar senha vuol dire "prendere il numerino", come tirar fotografias della lezione 60. Senha è il numero della fila; la stessa parola vale anche per la password.
+3. Devia ter tirado?: devia ter più il participio dice "avrebbe dovuto", un rimprovero o un consiglio su quello che non si è fatto. Ci torniamo nella lezione 70, con la tabella di devia ter e podia ter.
+4. A máquina está ali: máquina è la macchinetta, non l'auto: in Portogallo l'auto è carro, come in conduzir carros (lezione 50).
+5. Agora espere. Vamos no 98: il funzionario si rivolge a uno sconosciuto con espere, e no è em più o: vamos no 98 vuol dire "siamo al 98", il numero che sta servendo lo sportello.
+6. Podia ter-me dito antes!: podia ter più il participio dice "avrebbe potuto", e il pronome me si unisce a ter con il trattino: ter-me dito, "dirmelo". La risposta Podia ripete il verbo della domanda, come Posso nella lezione 54, dove l'italiano dice certo.
+7. Espero que tenha trazido o passaporte: espero que vuole il congiuntivo; tenha trazido è il perfetto del congiuntivo, "abbia portato". Lo vedremo bene nel ripasso della lezione 70.
+8. Para arrendar casa: arrendar vuol dire "affittare" in Portogallo (in Brasile si dice alugar). Morada è l'indirizzo di residenza; in Brasile si dice endereço.
+
+culture.it:
+Il NIF è il numero di identificazione fiscale, il numero del contribuente: serve per lavorare, per affittare una casa e per molte pratiche con lo Stato. In molti negozi, alla cassa, si sente chiedere «Contribuinte?», cioè qual è il NIF. La Loja do Cidadão riunisce in un solo edificio molti uffici pubblici, così non bisogna andare di sportello in sportello. Da chiedere: Tem NIF?
+
+aside.it:
+Sei a due terzi del corso: ogni lezione fatta ti tiene già dentro la lingua, anche quando hai l'impressione di non ricordare niente.
+
+ex1:
+- Queria pedir um café.
+  it: Vorrei ordinare un caffè.
+- Devia ter comido mais.
+  it: Avrei dovuto mangiare di più.
+- Podia ter vindo cedo.
+  it: Avrebbe potuto venire presto.
+- A máquina está ali, à direita.
+  it: La macchinetta è lì, a destra.
+- Espero que tenha tempo.
+  it: Spero che lei abbia tempo.
+
+ex2:
+- Tirou [senha]?
+  it: Ha preso il numerino?
+- Devia [ter] tirado.
+  it: Avrebbe dovuto prenderlo.
+- Podia ter-me [dito] antes!
+  it: Avrebbe potuto dirmelo prima!
+- Espero que tenha [trazido] o passaporte.
+  it: Spero che abbia portato il passaporto.
+- Vamos [no] 98.
+  it: Siamo al 98.
+
+== 69 B1
+numeral: Sexagésima nona lição
+numeral.pron.it: sëcsa*jè*zima *nó*na li*sauⁿ*
+title: Os Santos Populares
+title.it: I santi di giugno
+
+dialogue:
+- Na noite de 12 de junho, Lisboa festeja Santo António.
+  it: La notte del 12 giugno Lisbona festeggia sant'Antonio.
+  pron.it: … *ju*gnu … fësh*té*ja *saⁿ*tu aⁿ*toⁿ*iu
+- Santo António nasceu em Lisboa e foi sepultado em Pádua.
+  it: Sant'Antonio nacque a Lisbona e fu sepolto a Padova.
+  pron.it: … na*séu* … *pa*dua
+- É o santo mais popular de Lisboa.
+  it: È il santo più amato di Lisbona.
+  pron.it: … pupu*lar* …
+- Na noite de 12 há marchas populares na Avenida da Liberdade.
+  it: La notte del 12 ci sono sfilate popolari sull'Avenida da Liberdade.
+  pron.it: … *mar*sciash pupu*la*rësh … a'v*ni*da … libër*da*dë
+- Cada bairro tem a sua marcha.
+  it: Ogni quartiere ha la sua sfilata.
+  pron.it: *ca*da … *mar*scia
+- Nos arraiais de Alfama há sardinha assada no pão e sangria.
+  it: Nelle feste di strada dell'Alfama ci sono sardine arrostite sul pane e la sangria.
+  pron.it: … zarrai*aish* … sar*di*gna a*sa*da … saⁿ*gri*a
+- O manjerico vem num vaso, com um cravo de papel e uma quadra.
+  it: Il manjerico arriva in un vasetto, con un garofano di carta e una quartina.
+  pron.it: … maⁿ'j*ri*cu veiⁿ … *va*zu … *cra*vu … pa*pèl* … *cua*dra
+- Muitos namorados oferecem um manjerico às namoradas.
+  it: Molti fidanzati regalano un manjerico alle fidanzate.
+  pron.it: … namu*ra*du zu'f*rè*seiⁿ … namu*ra*dash
+- Nesse dia há também os casamentos de Santo António.
+  it: Quel giorno ci sono anche i matrimoni di sant'Antonio.
+  pron.it: *né*së … caza*meⁿ*tush …
+- No Porto, a festa é São João, na noite de 23 de junho.
+  it: A Porto la festa è quella di San Giovanni, la notte del 23 giugno.
+  pron.it: … ju*auⁿ* …
+- No céu sobem balões de papel.
+  it: In cielo salgono palloncini di carta.
+  pron.it: … sèu … ba*loiⁿsh* …
+- Em junho, Lisboa e o Porto estão na rua.
+  it: A giugno Lisbona e Porto fanno festa per strada (sono in strada).
+
+notes.it:
+1. Foi sepultado em Pádua: foi sepultado è il passivo della lezione 64, "fu sepolto". In Italia è sant'Antonio di Padova, e Pádua è la città dove riposa.
+2. Marchas populares: marcha qui è la sfilata di un quartiere, con i suoi colori e il suo tema.
+3. Arraiais: sono le feste di strada all'aperto, con cibo e musica; sardinha assada è la sardina arrostita, servita sul pane.
+4. Manjerico: è un basilico dalle foglie piccole, in vaso; per la festa porta un garofano di carta e una quadra, cioè una breve strofa. Il basilico comune si chiama manjericão.
+5. Muitos namorados oferecem um manjerico às namoradas: namorado è il fidanzato e namorada la fidanzata; às è a + as, come aos nella lezione 50.
+6. Casamentos de Santo António: sono matrimoni celebrati insieme, lo stesso giorno della festa.
+7. No Porto: con Porto l'articolo si contrae: no Porto, come in moro no Porto della lezione 5.
+
+ex1:
+- Santo António nasceu em Lisboa.
+  it: Sant'Antonio è nato a Lisbona.
+- O manjerico tem um cravo de papel.
+  it: Il manjerico ha un garofano di carta.
+- A festa é no dia 13 de junho.
+  it: La festa è il 13 giugno.
+- Há sardinha assada na rua.
+  it: C'è sardina arrostita in strada.
+- Os balões sobem ao céu à noite.
+  it: I palloncini salgono in cielo di notte.
+
+ex2:
+- Santo António foi [sepultado] em Pádua.
+  it: Sant'Antonio fu sepolto a Padova.
+- Cada bairro tem a sua [marcha].
+  it: Ogni quartiere ha la sua sfilata.
+- No Porto, a festa é São [João].
+  it: A Porto la festa è quella di San Giovanni.
+- No céu sobem [balões] de papel.
+  it: In cielo salgono palloncini di carta.
+- Muitos namorados oferecem um [manjerico] às namoradas.
+  it: Molti fidanzati regalano un manjerico alle fidanzate.
+
+== 70 B1
+kind: revision
+numeral: Septuagésima lição
+numeral.pron.it: sëptua*jè*zima li*sauⁿ*
+title: Revisão
+title.it: Ripasso
+
+dialogue:
+- Está há muito tempo nesta fila?
+  it: È in fila da molto tempo?
+  refs: 53 61
+- Desde as nove. Enquanto espero, já li o jornal duas vezes.
+  it: Dalle nove. Mentre aspetto, ho già letto il giornale due volte.
+  refs: 15 67
+- Eu devia ter chegado mais cedo.
+  it: Avrei dovuto arrivare prima.
+  refs: 59 68
+- Pois. E eu devia ter trazido um livro.
+  it: Già. E io avrei dovuto portare un libro.
+  refs: 63 68
+- Eu tinha-me esquecido da morada. Voltei a casa.
+  it: Io avevo dimenticato l'indirizzo. Sono tornato a casa.
+  refs: 53 57 68
+- Ninguém nos disse nada, e a fila já vai até à porta.
+  it: Nessuno ci ha detto niente, e la fila arriva fino alla porta.
+  refs: 55 61
+- Já passou a hora de almoço, e ainda não chamaram a minha senha.
+  it: È già passata l'ora di pranzo, e non hanno ancora chiamato il mio numero.
+  refs: 68
+- Pois. E eu nem preciso de NIF: já tenho um.
+  it: Già. E io non ho nemmeno bisogno del NIF: ce l'ho già.
+  refs: 59 68
+- Então porque está aqui?
+  it: E allora perché è qui?
+  refs: 9
+- Porque, para me queixar, a fila é o melhor sítio.
+  it: Perché, per lamentarmi, la fila è il posto migliore.
+  refs: 57 61
+
+notes.it:
+Hai fatto le sei lezioni dalla 64 alla 69. Non serve impararle a memoria: rileggi i dialoghi, e i dubbi sono normali. Qui trovi in ordine quello che quelle lezioni hanno portato.
+
+1. Il passivo: ser più il participio, ed estar più il participio (lezioni 64, 65, 66, 69)
+
+| Forma | Esempio | Italiano |
+|---|---|---|
+| ser più participio, azione compiuta | O mosteiro foi mandado construir (lezione 64) | il monastero fu fatto costruire |
+| ser più participio, al plurale | Os ossos foram trazidos (lezione 64) | le ossa furono portate |
+| estar più participio, stato attuale | Está sepultado aqui (lezione 64) | è sepolto qui |
+
+Ser più il participio si coniuga in tutti i tempi, e il participio concorda sempre con il soggetto. Il complemento di chi compie l'azione va con por: pelo rei (lezione 64), per il re. Estar dice il risultato di un'azione già avvenuta, ser l'azione stessa.
+
+2. I participi brevi (lezioni 65, 66)
+
+| Verbo | Participio breve | Esempio | Italiano |
+|---|---|---|---|
+| pagar | pago | O bolo está pago (lezione 66) | la torta è pagata |
+| entregar | entregue | Estão entregues (lezione 66) | sono consegnati |
+| morrer | morto | enterrar os mortos (lezione 65) | seppellire i morti |
+
+Con ser ed estar si usa la forma breve: está pago, estão entregues, foi aceite. Con ter, per pagar, gastar e ganhar si usa spesso anche la breve (tinha pago, tinha gasto); per gli altri verbi quella lunga (tinha aceitado, tinha entregado).
+
+3. Le congiunzioni di tempo e di concessione (lezioni 53, 67)
+
+| Congiunzione | Modo | Esempio | Italiano |
+|---|---|---|---|
+| enquanto | indicativo | Enquanto estiveram fora (lezione 67) | mentre eravate via |
+| logo que | indicativo | Logo que saíram (lezione 67) | appena siete usciti |
+| embora | congiuntivo | Embora tenha ração (lezione 67) | benché abbia le crocchette |
+| até | infinito | Hei de dizer até conseguir (lezione 53) | finché non ci riuscirò |
+| antes de | infinito personale | Antes de eu chegar (lezione 67) | prima che arrivassi io |
+| depois de | infinito | Depois de comer (lezione 67) | dopo aver mangiato |
+
+Antes de e depois de vogliono l'infinito, personale se il soggetto cambia, semplice se è lo stesso.
+
+4. Devia ter e podia ter più participio (lezione 68)
+
+| Forma | Esempio | Italiano |
+|---|---|---|
+| devia ter più participio | Devia ter tirado? (lezione 68) | avrebbe dovuto prenderlo? |
+| podia ter più participio | Podia ter-me dito antes! (lezione 68) | avrebbe potuto dirmelo prima! |
+
+Corrispondono all'italiano "avrei dovuto" e "avrei potuto" con l'infinito: devia ter tirado, "avrebbe dovuto prendere". Dicono un rimprovero o un rammarico per quello che non è successo.
+
+5. Il congiuntivo finora: presente, futuro e perfetto (lezioni 50, 51, 55, 68)
+
+| Tempo | Forma | Esempio | Italiano |
+|---|---|---|---|
+| presente | tenha | Procuro um T1 que tenha varanda (lezione 55) | cerco un bilocale che abbia un balcone |
+| futuro | quiser | Leve o que quiser (lezione 51) | prenda quello che vuole |
+| perfetto | tenha trazido | Espero que tenha trazido o passaporte (lezione 68) | spero che abbia portato il passaporto |
+
+Il presente si usa dopo que e embora, il futuro dopo se, quando e o que per un fatto che deve ancora avvenire, il perfetto per un fatto già compiuto al momento in cui si parla.
+
+6. Anni, date e ordinali detti a voce (lezioni 53, 65)
+
+Il 1° novembre 1755 si legge um de novembro (o primeiro de novembro) de mil setecentos e cinquenta e cinco: l'anno si legge come un numero intero, con e tra centinaia, decine e unità. Gli ordinali sono quelli dei numeri delle lezioni.
+
+| Numero | Ordinale | Esempio |
+|---|---|---|
+| 1 | primeiro | o primeiro dia |
+| 2 | segundo | o segundo dia |
+| 10 | décimo | o décimo andar |
+| 20 | vigésimo | a vigésima lição |
+| 100 | centésimo | o centésimo aniversário |
+
+Chiudiamo il ripasso: la prossima lezione è la 71, con il discorso indiretto.

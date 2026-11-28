@@ -106,6 +106,9 @@ jobs:
           PLIST
               # the zip is what the updater downloads (src/update.rs);
               # the disk image, with its Applications shortcut, is for people
+              # an ad-hoc signature over the whole bundle: no Apple account,
+              # but macOS then offers "Open Anyway" instead of "damaged"
+              codesign --force --deep --sign - "Lingua Onde.app"
               ditto -c -k --keepParent "Lingua Onde.app" "${{ matrix.file }}"
               dmg="${{ matrix.file }}"; dmg="${dmg%.zip}.dmg"
               mkdir dmg-root
@@ -149,6 +152,15 @@ jobs:
       - uses: softprops/action-gh-release@v2
         with:
           generate_release_notes: true
+          # above the generated notes: one download per system
+          body: |
+            ## Download
+
+            - **Windows 10 or newer:** `lingua-onde-setup-windows-x86_64.exe`. Double-click it; if Windows warns about an unknown app, choose "More info", then "Run anyway".
+            - **Mac with Apple silicon (M1 and later):** `lingua-onde-macos-arm64.dmg`. **Intel Mac:** `lingua-onde-macos-x86_64.dmg`. Open it and drag Lingua Onde onto Applications. The first time, open System Settings, Privacy & Security, and choose "Open Anyway".
+            - **Linux:** paste in a terminal: `curl -fsSL https://raw.githubusercontent.com/Matteo404404/lingua-onde/main/packaging/install.sh | sh`
+
+            Already installed? The app updates itself; nothing to download. The other files (the plain `.exe`, the `.zip` files, the Linux binary) are what the updater uses.
           files: |
             dist/lingua-onde-linux-x86_64
             dist/lingua-onde-windows-x86_64.exe

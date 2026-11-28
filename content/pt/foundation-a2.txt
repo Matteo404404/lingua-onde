@@ -2081,3 +2081,96 @@ Chiudiamo il ripasso: ci vediamo domani nella lezione 50.
 
 aside.it:
 Il secondo giro sta per cominciare: le istruzioni sono nella lezione di domani.
+
+== 50 A2
+numeral: Quinquagésima lição
+numeral.pron.it: cuiⁿcua*jè*zima li*sauⁿ*
+title: A entrevista
+title.it: Il colloquio
+
+dialogue:
+- Sente-se, por favor.
+  it: Si accomodi, per favore.
+  pron.it: *seⁿ*të-së …
+- Obrigada.
+  it: Grazie.
+- Porque quer trabalhar connosco?
+  it: Perché vuole lavorare con noi?
+  pron.it: … chèr … coⁿ*nósh*cu
+- Gostaria de mostrar Lisboa aos turistas.
+  it: Vorrei far vedere Lisbona ai turisti.
+  pron.it: gushta*ri*a … mush*trar* … aush …
+- Conhece bem a cidade?
+  it: Conosce bene la città?
+  pron.it: cu*gnè*së … si*da*dë
+- Conheço todas as ruas de Alfama.
+  it: Conosco tutte le strade dell'Alfama.
+  pron.it: cu*gné*su … *rru*ash … al*fa*ma
+- E sabe conduzir um tuk-tuk?
+  it: E sa guidare un tuk-tuk?
+  pron.it: … coⁿdu*zir* … tuc-tuc
+- Sei conduzir carros. Um tuk-tuk deve ser mais fácil.
+  it: So guidare le auto. Un tuk-tuk dev'essere più facile.
+  pron.it: … *ca*rrush … *dè*vë … *fa*sil
+- E a história de Lisboa? O terramoto, os Descobrimentos?
+  it: E la storia di Lisbona? Il terremoto, le grandi scoperte?
+  pron.it: … ish*tò*ria … tërra*mò*tu … dëshcubri*meⁿ*tush
+- Sei muitas histórias.
+  it: So tante storie.
+  pron.it: … *muiⁿ*ta zish*tò*riash
+- Histórias verdadeiras?
+  it: Storie vere?
+  pron.it: … vërda*dèi*rash
+- Algumas. Os turistas não perguntam.
+  it: Alcune. Tanto i turisti non chiedono.
+  pron.it: al*gu*mash … për*guⁿ*tauⁿ
+- Quando poderia começar?
+  it: Quando potrebbe cominciare?
+  pron.it: … pu'd*ri*a cu'm*sar*
+- Hoje mesmo, se quiser.
+  it: Oggi stesso, se vuole.
+  pron.it: … chi*zèr*
+- Então comece. Mas com histórias verdadeiras, se faz favor.
+  it: Allora cominci. Ma con storie vere, per favore.
+  pron.it: … cu*mè*së …
+
+sounds.it:
+1. Terramoto si dice tërra*mò*tu: la e non accentata diventa ë, la o accentata è aperta, e la rr di terra è forte, come in carro.
+2. Conduzir si dice coⁿdu*zir*: la n davanti alla d non si sente, ma la vocale che la precede diventa nasale, e la z tra due vocali è sonora, come in rosa.
+
+notes.it:
+1. Sente-se, por favor: sentar-se è "sedersi". È l'imperativo di cortesia, quello che si usa con il senhor e la senhora, e il pronome se sta dopo il verbo con il trattino, come in fica-me bem (lezione 48). Por favor è "per favore".
+2. Porque quer trabalhar connosco?: connosco è com + nós, "con noi". Come comigo, "con me" (lezione 52), ha con- davanti; tutte le forme sono nel ripasso della lezione 56; in Portogallo si scrive con due n, in Brasile conosco.
+3. Gostaria de mostrar Lisboa aos turistas: gostaria è "vorrei", il condizionale di cortesia, spiegato nella lezione 54. Mostrar è "far vedere", e aos è a + os, come ao (lezione 10) con il plurale.
+4. Conheço todas as ruas de Alfama: conhecer è "conoscere" (persone e luoghi). Con un verbo che segue si usa saber, "sapere": sabe conduzir, non conhece conduzir.
+5. Sei conduzir carros: conduzir è "guidare" (in Brasile si dice dirigir). Un tuk-tuk deve ser mais fácil: dever con ser dice una supposizione, "dev'essere", e non un obbligo.
+6. O terramoto, os Descobrimentos: o terramoto è il terremoto di cui si è detto nella lezione 8; os Descobrimentos sono le grandi scoperte dei navigatori portoghesi, il periodo dei viaggi per mare.
+7. Algumas. Os turistas não perguntam: algumas è "alcune", il femminile plurale di algum, spiegato nella lezione 55. Perguntar è "chiedere", nel senso di domandare, e não perguntam è "non chiedono".
+8. Hoje mesmo, se quiser. Então comece: hoje mesmo è "proprio oggi", con mesmo che vuol dire "stesso" (lezione 44). Se quiser è il congiuntivo futuro di querer (lezioni 43 e 46), e comece è l'imperativo di cortesia di começar, "cominci".
+
+ex1:
+- Queres ir connosco?
+  it: Vuoi venire con noi?
+- Conheço bem esta cidade.
+  it: Conosco bene questa città.
+- Sabe conduzir carros?
+  it: Sa guidare le auto?
+- Gosto muito de Lisboa.
+  it: Mi piace molto Lisbona.
+- Posso começar amanhã, se quiser.
+  it: Posso cominciare domani, se vuole.
+
+ex2:
+- Sente-[se], por favor.
+  it: Si accomodi, per favore.
+- Porque quer trabalhar [connosco]?
+  it: Perché vuole lavorare con noi?
+- Gostaria de mostrar Lisboa aos [turistas].
+  it: Vorrei far vedere Lisbona ai turisti.
+- Um tuk-tuk [deve] ser mais fácil.
+  it: Un tuk-tuk dev'essere più facile.
+- Então [comece]. Mas com histórias verdadeiras, se faz favor.
+  it: Allora cominci. Ma con storie vere, per favore.
+
+aside.it:
+Da oggi il corso ti dà un lavoro in più: la seconda onda. Dopo ogni lezione nuova l'app aggiunge un passo che ti riporta una lezione già fatta: oggi la lezione 1, domani la 2, e così via, sempre 49 lezioni indietro, fino alla lezione 100, che riporta la 51. Il dialogo e l'esercizio 1 ti vengono mostrati solo in italiano: dici ogni frase ad alta voce in portoghese, poi fai comparire il portoghese e confronti. Gli errori fanno parte del lavoro: vuol dire che stai cercando la frase invece di riconoscerla.

@@ -5,3 +5,519 @@ name: Portuguese (Portugal) – Foundation (A1 → B2)
 name.it: Portoghese (Portogallo) – Fondamenti (A1 → B2)
 name.en: Portuguese (Portugal) – Foundation (A1 → B2)
 name.es: Portugués (Portugal) – Fundamentos (A1 → B2)
+
+== 51 B1
+numeral: Quinquagésima primeira lição
+numeral.pron.it: cuiⁿcua*jè*zima pri*mèi*ra li*sauⁿ*
+title: Perdidos e achados
+title.it: Oggetti smarriti
+
+dialogue:
+- Perdi o guarda-chuva que comprei em Roma.
+  it: Ho perso l'ombrello che ho comprato a Roma.
+  pron.it: … *guar*da-*sciu*va …
+- Onde é que o perdeu?
+  it: Dove l'ha perso?
+  pron.it: … për*déu*
+- No comboio que chegou de Coimbra às dez.
+  it: Sul treno che è arrivato da Coimbra alle dieci.
+  pron.it: … coⁿ*bòi*u …
+- Como é?
+  it: Com'è?
+- É preto, com uma pega de madeira.
+  it: È nero, con il manico di legno.
+  pron.it: … *pré*tu … *pè*ga …
+- Temos muitos que são pretos.
+  it: Ne abbiamo tanti che sono neri.
+  pron.it: *té*mush … *pré*tush
+- O meu tem umas letras bordadas, que são as minhas iniciais.
+  it: Il mio ha delle lettere ricamate, che sono le mie iniziali.
+  pron.it: … *u*mash *lé*trash bur*da*dash … zinisi*aish*
+- Espere, vou buscar a caixa.
+  it: Un momento, vado a prendere la scatola.
+  pron.it: 'sh*pè*rë … bush*car* … *cai*scia
+- Quantos tem?
+  it: Quanti ne ha?
+  pron.it: *cuaⁿ*tush …
+- Tenho aqui oitenta e sete guarda-chuvas pretos. Leve o que quiser.
+  it: Ne ho qui ottantasette neri. Prenda quello che vuole.
+  pron.it: … *guar*da-*sciu*vash … *lè*vë …
+- Mas o meu tem as minhas iniciais!
+  it: Ma il mio ha le mie iniziali!
+- Então leve um e escreva-as.
+  it: Allora ne prenda uno e ci scriva le iniziali.
+  pron.it: … 'sh*cré*va-ash
+
+sounds.it:
+1. Comboio si dice coⁿ*bòi*u: la m davanti alla b non si sente, la o diventa nasale e la o finale è u.
+
+notes.it:
+1. Perdi o guarda-chuva que comprei em Roma: que è il relativo, "che", per le cose e per le persone, e come in italiano non si omette mai: o guarda-chuva que comprei è "l'ombrello che ho comprato".
+2. Onde é que o perdeu?: onde é que introduce una domanda con "dove". Il pronome o (lo) sta prima del verbo dopo que, come in Já os compraste? (lezione 36). Perdeu è il perfetto semplice di perder, "ha perso", con il senhor e la senhora.
+3. No comboio que chegou de Coimbra às dez: comboio è il treno (in Brasile trem). Chegou è "è arrivato", il perfetto semplice (lezione 13), e que è di nuovo il relativo, "che", legato a comboio.
+4. Temos muitos que são pretos: muitos, usato senza nome, vuol dire "tanti", e que introduce la frase che dice quali: "ne abbiamo tanti che sono neri".
+5. O meu tem umas letras bordadas, que são as minhas iniciais: o meu è "il mio", con l'articolo davanti al possessivo, come o teu (lezione 12). Iniciais, "iniziali", è femminile plurale: as minhas.
+6. Leve o que quiser: o que vuol dire "quello che" o "ciò che", con quiser al congiuntivo futuro (lezione 50). Levar è "portare via", "prendere con sé", e leve è l'imperativo di cortesia.
+7. Então leve um e escreva-as: escreva-as è escreva + as, con il trattino, come in fica-me bem (lezione 48): as sono le iniziali, femminile plurale, e il pronome segue il verbo all'imperativo.
+8. Negli esercizi trovi altri due relativi. Quem è il relativo per le persone, e la preposizione gli sta davanti: a senhora com quem vou falar, "la signora con cui vado a parlare". Onde è il relativo per i luoghi: a cidade onde moro, "la città dove abito".
+
+culture.it:
+A Lisbona le due grandi stazioni dei treni sono Santa Apolónia e Oriente, e da qui partono i treni delle CP, le ferrovie portoghesi: l'Alfa Pendular per le città più grandi, gli Intercidades e le linee regionali per il resto del paese. Per il biglietto basta dire: «Um bilhete para Coimbra, se faz favor.»
+
+ex1:
+- O meu guarda-chuva é preto.
+  it: Il mio ombrello è nero.
+- A senhora com quem vou falar está aqui.
+  it: La signora con cui vado a parlare è qui.
+- A cidade onde moro é bonita.
+  it: La città dove abito è bella.
+- Leve o que quiser, por favor.
+  it: Prenda quello che vuole, per favore.
+- Os guarda-chuvas que são pretos custam pouco.
+  it: Gli ombrelli che sono neri costano poco.
+
+ex2:
+- Perdi o guarda-chuva [que] comprei em Roma.
+  it: Ho perso l'ombrello che ho comprato a Roma.
+- [Onde] é que o perdeu?
+  it: Dove l'ha perso?
+- A senhora [com quem] vou falar está aqui.
+  it: La signora con cui vado a parlare è qui.
+- Leve o [que] quiser.
+  it: Prenda quello che vuole.
+- Então leve um e escreva-[as].
+  it: Allora ne prenda uno e ci scriva le iniziali.
+
+== 52 B1
+numeral: Quinquagésima segunda lição
+numeral.pron.it: cuiⁿcua*jè*zima së*guⁿ*da li*sauⁿ*
+title: Nunca lá estive
+title.it: Non ci sono mai stato
+
+dialogue:
+- Já alguma vez foste aos Açores?
+  it: Ci sei mai stato alle Azzorre?
+  pron.it: … za*só*rësh
+- Nunca lá estive.
+  it: Non ci sono mai stato.
+  pron.it: … 'sh*ti*vë
+- Vou lá amanhã. Vens comigo?
+  it: Ci vado domani. Vieni con me?
+  pron.it: … cu*mi*gu
+- O que há lá para ver?
+  it: Cosa c'è da vedere, lì?
+- Vacas, vulcões, lagoas e chá.
+  it: Mucche, vulcani, laghi e tè.
+  pron.it: *va*cash vul*coiⁿsh* la*gó*az … scia
+- Chá? Nos Açores?
+  it: Tè? Alle Azzorre?
+  pron.it: … nuz …
+- Há plantações de chá em São Miguel.
+  it: Ci sono piantagioni di tè a São Miguel.
+  pron.it: … plaⁿta*soiⁿsh* … mi*ghèl*
+- E o tempo?
+  it: E il tempo?
+- Num só dia há as quatro estações.
+  it: In un solo giorno ci sono tutte e quattro le stagioni.
+  pron.it: … 'shta*soiⁿsh*
+- Então o que é que levo?
+  it: Allora cosa porto?
+  pron.it: … *lè*vu
+- Tudo: o guarda-chuva, o protetor solar e o casaco.
+  it: Tutto: l'ombrello, la crema solare e la giacca.
+  pron.it: … prutë*tór* su*lar* …
+- Então não vou. A minha mala é pequena.
+  it: Allora non vengo. La mia valigia è piccola.
+  pron.it: … pë*ché*na
+
+sounds.it:
+1. Açores si dice a*só*rësh: la ç si legge s sorda, come in sole, e la s finale fruscia come sc, mentre la e finale diventa ë.
+
+notes.it:
+1. Já alguma vez foste aos Açores?: in portoghese "ci sei mai stato?" si dice con il perfetto semplice, foste, dove l'italiano preferisce il passato prossimo. È la stessa forma di compraste (lezione 36), e foste è di ir: "sei andato".
+2. Nunca lá estive: lá vuol dire "ci", "lì" o "là", come in italiano ci. Nunca va prima del verbo, come não. Estive è "sono stato", il perfetto semplice di estar.
+3. Vou lá amanhã. Vens comigo?: comigo è "con me", com + mim; per le altre persone la forma è nella lezione 56. Vens è la seconda persona di vir, "venire".
+4. O que há lá para ver?: há è il "c'è" della lezione 10, e non cambia con il plurale: há plantações, "ci sono piantagioni". Para ver è "da vedere": para con l'infinito dice a che cosa serve, come nella lezione 46.
+5. Vacas, vulcões, lagoas e chá: lagoa è il lago, ma si usa anche per la laguna. Vulcões è il plurale di vulcão: le parole in -ão fanno spesso il plurale in -ões, come estação, estações (nota 8).
+6. Chá? Nos Açores?: nos è em + os, "nei", "negli": nos Açores, "alle Azzorre". Chá è il tè, sia la bevanda sia la pianta.
+7. Há plantações de chá em São Miguel: em São Miguel senza articolo, come em Lisboa (lezione 5). Plantações è il plurale di plantação, "piantagione".
+8. Num só dia há as quatro estações: num è em + um, "in un": num só dia è "in un solo giorno". Estação vuol dire stagione; è la stessa parola di stazione (lezione 4).
+9. Então o que é que levo?: levar vuol dire "portare via con sé", "prendere"; o que é que è il modo parlato di chiedere "che cosa", come onde é que per "dove" (lezione 51).
+10. Tudo: o guarda-chuva, o protetor solar e o casaco: tudo è "tutto" usato da solo, spiegato nella lezione 55. Protetor solar è la crema solare, e casaco è la giacca.
+
+culture.it:
+Le Azzorre sono nove isole vulcaniche in mezzo all'Atlantico, appartengono al Portogallo e hanno un clima che cambia in fretta: per questo il dialogo dice che in un solo giorno ci sono tutte le stagioni. Sull'isola di São Miguel ci sono i laghi di Sete Cidades e le piantagioni di tè, mentre a Furnas il cozido si cuoce nel terreno caldo, sotto la terra. Vamos às Furnas?
+
+ex1:
+- Nunca estive em Lisboa.
+  it: Non sono mai stato a Lisbona.
+- Há vulcões nos Açores.
+  it: Ci sono vulcani alle Azzorre.
+- Queres ir comigo?
+  it: Vuoi venire con me?
+- Quero o protetor solar.
+  it: Voglio la crema solare.
+- Há lagoas em São Miguel.
+  it: Ci sono laghi a São Miguel.
+
+ex2:
+- Vou lá amanhã. Vens [comigo]?
+  it: Ci vado domani. Vieni con me?
+- O que [há] lá para ver?
+  it: Cosa c'è da vedere, lì?
+- Há plantações de chá em [São Miguel].
+  it: Ci sono piantagioni di tè a São Miguel.
+- Num só dia há as [quatro] estações.
+  it: In un solo giorno ci sono tutte e quattro le stagioni.
+- Então o que é que [levo]?
+  it: Allora cosa porto?
+
+== 53 B1
+numeral: Quinquagésima terceira lição
+numeral.pron.it: cuiⁿcua*jè*zima tër*sèi*ra li*sauⁿ*
+title: Hei de voltar
+title.it: Ci tornerò
+
+dialogue:
+- Para o ano hei de voltar para Portugal.
+  it: L'anno prossimo tornerò in Portogallo.
+  pron.it: … èi … vul*tar* … purtu*gal*
+- Para sempre?
+  it: Per sempre?
+- Para sempre. Hei de comprar uma casa na aldeia.
+  it: Per sempre. Comprerò una casa al paese.
+  pron.it: … coⁿ*prar* … al*dèi*a
+- E o teu trabalho?
+  it: E il tuo lavoro?
+- Hei de reformar-me primeiro.
+  it: Prima andrò in pensione.
+  pron.it: … rrëfur*mar*-më pri*mèi*ru
+- E os teus filhos?
+  it: E i tuoi figli?
+  pron.it: … téush *fi*gliush
+- Os meus filhos hão de vir no verão.
+  it: I miei figli verranno d'estate.
+  pron.it: … méush … *zauⁿ* … vir … vë*rauⁿ*
+- E a tua mulher?
+  it: E tua moglie?
+- Ela diz que há de pensar.
+  it: Dice che ci penserà.
+- Há quanto tempo dizes isso?
+  it: Da quanto tempo lo dici?
+  pron.it: … *di*zëz …
+- Há trinta anos.
+  it: Da trent'anni.
+- E vais dizer mais trinta?
+  it: E ne dirai altri trenta?
+- Hei de dizer até conseguir.
+  it: Lo dirò finché non ci riuscirò.
+  pron.it: … coⁿ's*ghir*
+
+sounds.it:
+1. Hei si dice èi: la h non si pronuncia mai, e la e di hei si apre verso la i, come in primeiro (pri*mèi*ru).
+2. Hão si dice auⁿ: la h è muta e la -ão finale è una a nasale che scivola verso la u.
+
+notes.it:
+1. Para o ano hei de voltar: para o ano vuol dire "l'anno prossimo". Hei de è haver de + infinito, e dice un'intenzione ferma, "ci tornerò", più forte del semplice futuro.
+2. Hei de comprar uma casa na aldeia: na è em + a, "in" con l'articolo femminile: na aldeia, "al paese". Aldeia è un paese piccolo, di campagna.
+3. Hei de reformar-me primeiro: reformar-se vuol dire "andare in pensione". Il pronome sta dopo l'infinito, con il trattino: reformar-me.
+4. Os meus filhos hão de vir no verão: hão è la terza persona plurale di haver, e serve per una promessa o una certezza. Ela diz que há de pensar è la stessa forma al singolare: "dice che ci penserà".
+5. Há quanto tempo dizes isso?: con il presente há vuol dire "da": há trinta anos è "da trent'anni", non "fa trent'anni". Il tempo passato con há vuol dire invece "fa", e lo vedremo nella lezione 54.
+6. E vais dizer mais trinta?: vais dizer è il futuro con ir più l'infinito (lezione 26). Mais trinta è "altri trenta", "ancora trenta".
+7. Hei de dizer até conseguir: até vuol dire "fino a" e con il verbo "finché non". Conseguir non è "conseguire" nel senso di "ottenere", ma "riuscire a": conseguir fazer è "riuscire a fare".
+
+culture.it:
+Molti portoghesi vivono all'estero, soprattutto in Francia, in Svizzera e in Lussemburgo, e in estate, quando tornano per le vacanze, i paesi del Trás-os-Montes e del Minho si riempiono di auto immatricolate in altri paesi. Per dire "ci tornerò" basta dire: Hei de voltar.
+
+ex1:
+- Hei de falar com a senhora.
+  it: Parlerò con la signora.
+- Há um ano que moro aqui.
+  it: È un anno che abito qui.
+- Os meus amigos hão de vir amanhã.
+  it: I miei amici verranno domani.
+- Vou comprar uma casa na aldeia.
+  it: Comprerò una casa al paese.
+- Quanto tempo vais ficar?
+  it: Quanto tempo resti?
+
+ex2:
+- Para o ano [hei] de voltar para Portugal.
+  it: L'anno prossimo tornerò in Portogallo.
+- Hei de comprar uma casa [na] aldeia.
+  it: Comprerò una casa al paese.
+- Hei de reformar-[me] primeiro.
+  it: Prima andrò in pensione.
+- Há trinta [anos].
+  it: Da trent'anni.
+- E vais dizer mais [trinta]?
+  it: E ne dirai altri trenta?
+
+== 54 B1
+numeral: Quinquagésima quarta lição
+numeral.pron.it: cuiⁿcua*jè*zima *cuar*ta li*sauⁿ*
+title: Podia baixar o rádio?
+title.it: Potrebbe abbassare la radio?
+
+dialogue:
+- Desculpe, podia baixar o rádio?
+  it: Scusi, potrebbe abbassare la radio?
+  pron.it: … pu*di*a bai*sciar* … *rra*diu
+- Posso.
+  it: Certo (posso).
+- E podia fechar a janela?
+  it: E potrebbe chiudere il finestrino?
+  pron.it: … fë*sciar* …
+- Posso.
+  it: Certo (posso).
+- Gostava também que...
+  it: Vorrei anche che...
+  pron.it: gush*ta*va …
+- Diga.
+  it: Dica.
+  pron.it: *di*ga
+- Seria possível ir mais devagar?
+  it: Sarebbe possibile andare più piano?
+  pron.it: së*ri*a pu*si*vèl …
+- Seria.
+  it: Certo (sarebbe).
+- E poderia não falar ao telemóvel?
+  it: E potrebbe non parlare al cellulare?
+- Poderia.
+  it: Certo (potrei).
+- O senhor é muito simpático.
+  it: Lei è molto gentile.
+  pron.it: … siⁿ*pa*ticu
+- E a senhora já podia sair. Chegámos há cinco minutos.
+  it: E lei potrebbe già scendere. Siamo arrivati cinque minuti fa.
+  pron.it: … sa*ir* scë*ga*muz …
+
+sounds.it:
+1. Telemóvel si dice tèlë*mò*vèl: l'accento cade sulla ó aperta, come in cosa, e la l finale è una l scura, in fondo alla bocca.
+
+notes.it:
+1. Podia baixar o rádio?: il condizionale di solito è l'infinito più -ia (poderia, seria, gostaria della lezione 50), ma nel parlato di tutti i giorni per la cortesia si usa spesso l'imperfetto: podia, queria, gostava. Queria um café è "vorrei un caffè", come l'italiano "volevo un caffè".
+2. Posso: il tassista risponde ripetendo il verbo della domanda: Podia...? Posso. È il modo più comune di dire sì in portoghese, dove l'italiano dice "certo". Così anche Seria e Poderia più avanti.
+3. E podia fechar a janela?: fechar vuol dire "chiudere". Janela è la finestra, e in macchina il finestrino.
+4. Gostava também que...: la frase resta a metà, e il portoghese, come l'italiano, la può lasciare in sospeso. Il tassista risponde Diga, "dica", la forma di cortesia di dizer.
+5. Seria possível ir mais devagar?: seria è il condizionale di ser, "sarebbe". Devagar è "piano", "lentamente": mais devagar, "più piano".
+6. E poderia não falar ao telemóvel?: ao è a + o, "al", come nella lezione 10. Telemóvel è il cellulare; in Brasile si dice celular. Não sta prima dell'infinito: não falar, "non parlare".
+7. O senhor é muito simpático: simpático vuol dire "gentile", "cordiale", vicino all'italiano simpatico.
+8. E a senhora já podia sair: já podia sair è "potrebbe già scendere": l'imperfetto è la stessa cortesia della nota 1, qui usata per invitare a scendere.
+9. Chegámos há cinco minutos: chegámos è "siamo arrivati", il perfetto semplice di chegar al noi; con un verbo al passato há vuol dire "fa", come con il presente vuol dire "da" (lezione 53).
+
+aside.it:
+Siamo a metà del corso. Hai già fatto più strada di quanto ti sembri: ogni lezione lascia qualcosa, anche quando non te ne accorgi.
+
+ex1:
+- Podia falar mais devagar, por favor?
+  it: Potrebbe parlare più piano, per favore?
+- Gostava de ir a Sintra.
+  it: Vorrei andare a Sintra.
+- Seria possível fechar a porta?
+  it: Sarebbe possibile chiudere la porta?
+- Posso fechar a janela.
+  it: Posso chiudere il finestrino.
+- Chegámos ontem a Lisboa.
+  it: Siamo arrivati ieri a Lisbona.
+
+ex2:
+- Desculpe, podia baixar o [rádio]?
+  it: Scusi, potrebbe abbassare la radio?
+- Seria possível ir mais [devagar]?
+  it: Sarebbe possibile andare più piano?
+- E poderia não falar ao [telemóvel]?
+  it: E potrebbe non parlare al cellulare?
+- Chegámos há [cinco] minutos.
+  it: Siamo arrivati cinque minuti fa.
+- Posso [fechar] a janela?
+  it: Posso chiudere il finestrino?
+
+== 55 B1
+numeral: Quinquagésima quinta lição
+numeral.pron.it: cuiⁿcua*jè*zima *chiⁿ*ta li*sauⁿ*
+title: Não tem nada
+title.it: Non ha niente
+
+dialogue:
+- Procuro um T1 que tenha varanda.
+  it: Cerco un bilocale che abbia un balcone.
+  pron.it: pru*cu*ru … té … *tè*gna va*raⁿ*da
+- Varanda não tem nenhuma.
+  it: Balconi, non ne ha nessuno.
+  pron.it: … ni*gnu*ma
+- Tem elevador?
+  it: C'è l'ascensore?
+- Elevador também não.
+  it: Neanche l'ascensore.
+- Há alguma coisa perto? Metro, supermercado?
+  it: C'è qualcosa qui vicino? Metro, supermercato?
+  pron.it: … supërmër*ca*du
+- Não há nada perto.
+  it: Non c'è niente qui vicino.
+- Alguém mora no prédio?
+  it: Abita qualcuno nel palazzo?
+- Ninguém. Só eu.
+  it: Nessuno. Solo io.
+- E a renda?
+  it: E l'affitto?
+- Mil e quinhentos euros.
+  it: Millecinquecento euro.
+  pron.it: mil … chi*gneⁿ*tuz …
+- Por nada?
+  it: Per niente?
+- Por tudo isso. É em Lisboa.
+  it: Per tutto questo. È a Lisbona.
+
+notes.it:
+1. Procuro um T1 que tenha varanda: procurar vuol dire "cercare". Tenha è il congiuntivo presente (lezione 44): non si sa se un appartamento così esista, e il portoghese lo dice con il congiuntivo, come l'italiano abbia.
+2. Um T1: il T1 è un bilocale, una camera e soggiorno; il T0 è un monolocale e il T2 ha due camere.
+3. Varanda não tem nenhuma: nenhum e nenhuma concordano con il nome, come algum e alguma: varanda è femminile, quindi nenhuma.
+4. Elevador também não: também não vuol dire "neanche", "nemmeno": elevador também não, "neanche l'ascensore".
+5. Há alguma coisa perto? Não há nada perto: alguma coisa è "qualcosa", nada è "niente". Il portoghese mette due negazioni come l'italiano: não há nada, "non c'è niente".
+6. Alguém mora no prédio? Ninguém. Só eu: alguém è "qualcuno", ninguém è "nessuno". Quando la parola negativa sta prima del verbo, come ninguém mora, non si mette não.
+7. E a renda? Mil e quinhentos euros: renda è l'affitto; mil e quinhentos è 1500, mille e cinquecento, uniti da e (lezione 26).
+8. Por nada? Por tudo isso: por nada qui vuol dire "per niente", cioè per una casa che non ha niente; de nada è invece "prego", la risposta a un grazie. Tudo da solo vuol dire "tutto": todo o dia è "tutto il giorno", todos os dias è "ogni giorno".
+9. É em Lisboa: il nome della città vuole em senza articolo, come em São Miguel (lezione 52): em Lisboa, non no Lisboa.
+
+culture.it:
+A Lisbona gli annunci per l'affitto usano le sigle T: T0 è un monolocale, T1 un bilocale, T2 un appartamento con due camere. Per prendere in affitto si può chiedere una caução, cioè una cauzione, o un fiador, un garante, e negli ultimi anni gli affitti sono saliti molto. Puoi chiedere: Quanto custa o T1?
+
+ex1:
+- Quero um T1 perto do metro.
+  it: Voglio un bilocale vicino alla metro.
+- Ninguém sabe onde fica a estação.
+  it: Nessuno sa dove si trova la stazione.
+- Não há nada na mesa.
+  it: Non c'è niente sul tavolo.
+- Alguém quer ver a casa?
+  it: Qualcuno vuole vedere la casa?
+- Tudo isso custa muito.
+  it: Tutto questo costa molto.
+
+ex2:
+- Procuro um T1 que [tenha] varanda.
+  it: Cerco un bilocale che abbia un balcone.
+- Varanda não tem [nenhuma].
+  it: Balconi, non ne ha nessuno.
+- Há alguma coisa perto? Não há [nada] perto.
+  it: C'è qualcosa qui vicino? Non c'è niente qui vicino.
+- [Ninguém] mora no prédio.
+  it: Nessuno abita nel palazzo.
+- Mil e [quinhentos] euros.
+  it: Millecinquecento euro.
+
+== 56 B1
+kind: revision
+numeral: Quinquagésima sexta lição
+numeral.pron.it: cuiⁿcua*jè*zima *sèish*ta li*sauⁿ*
+title: Revisão
+title.it: Ripasso
+
+dialogue:
+- Desculpe, este autocarro vai para o Cais do Sodré?
+  it: Scusi, quest'autobus va al Cais do Sodré?
+  refs: 13 29
+- Vai, sim. Já esteve cá antes?
+  it: Sì, ci va. È già stato qui?
+  refs: 38 41 52
+- Nunca. Cheguei ontem de Coimbra.
+  it: Mai. Sono arrivato ieri da Coimbra.
+  refs: 13 23 52
+- E vai ficar em Lisboa?
+  it: E resterà a Lisbona?
+  refs: 5 48
+- Vou. Hoje às cinco vou ver um T1 em Alfama.
+  it: Sì. Oggi alle cinque vado a vedere un bilocale nell'Alfama.
+  refs: 26 50 55
+- Com varanda, mas sem elevador?
+  it: Con il balcone, ma senza ascensore?
+  refs: 17 55
+- Sim! Como é que sabe?
+  it: Sì! Come fa a saperlo?
+  refs: 34 50
+- Porque eu também vou lá às cinco.
+  it: Perché alle cinque ci vado anch'io.
+  refs: 9 52
+- Então um de nós fica na rua.
+  it: Allora uno di noi resta in strada.
+  refs: 29 48
+- Ou podíamos morar os dois.
+  it: Oppure potremmo abitarci tutti e due.
+  refs: 13 54
+
+notes.it:
+Hai fatto le sei lezioni dalla 50 alla 55. Non serve impararle a memoria: rileggi i dialoghi, e i dubbi sono normali. Qui trovi in ordine quello che quelle lezioni hanno portato.
+
+1. Il relativo: que, quem, onde, o que (lezione 51)
+
+| Parola | Per | Esempio | Italiano |
+|---|---|---|---|
+| que | cose e persone | o guarda-chuva que comprei | l'ombrello che ho comprato |
+| quem | persone, dopo una preposizione | a senhora com quem vou falar | la signora con cui parlerò |
+| onde | luoghi | a cidade onde moro | la città dove abito |
+| o que | quello che, ciò che | leve o que quiser | prenda quello che vuole |
+
+Il relativo in portoghese non si omette mai, e la preposizione sta sempre prima di quem.
+
+2. Lá, cá, aqui, ali (lezioni 4, 5, 41, 52)
+
+| Parola | Italiano | Esempio |
+|---|---|---|
+| aqui | qui | (lezione 5) Mas este ano trabalho aqui, ma quest'anno lavoro qui |
+| ali | là, lì | (lezione 4) ali, à direita: lì, a destra |
+| cá | qui, verso chi parla | (lezione 41) não convides ninguém para cá, non inviti nessuno qui |
+| lá | ci, lì, là | (lezione 52) nunca lá estive, non ci sono mai stato |
+
+Aqui e ali indicano un punto preciso; cá e lá dicono più in generale "da queste parti" e "da quelle parti": já esteve cá?, nunca lá estive.
+
+3. Haver de + infinito (lezione 53)
+
+| Forma | Italiano | Esempio |
+|---|---|---|
+| hei de | ci tornerò (io) | hei de voltar |
+| há de | ci penserà (lei) | ela diz que há de pensar |
+| hão de | verranno (loro) | os meus filhos hão de vir |
+
+Haver de con l'infinito dice un'intenzione ferma o una promessa, più forte del futuro semplice. Con un pronome: hei de reformar-me (lezione 53).
+
+4. Il condizionale e l'imperfetto di cortesia (lezioni 50, 54)
+
+| Forma | Italiano | Esempio |
+|---|---|---|
+| poderia | potrebbe | E poderia não falar ao telemóvel? |
+| seria | sarebbe | Seria possível ir mais devagar? |
+| gostaria | vorrei | Gostaria de mostrar Lisboa aos turistas |
+| podia | potrebbe (cortesia) | Desculpe, podia baixar o rádio? |
+| gostava | vorrei (cortesia) | Gostava também que... |
+| queria | vorrei | queria um café |
+
+Il condizionale di solito si forma con l'infinito più -ia. Nel parlato quotidiano la cortesia spesso è affidata all'imperfetto: podia e gostava suonano più morbidi di posso e gosto.
+
+5. Algum, nenhum, alguém, ninguém, nada, tudo (lezioni 11, 55)
+
+| Parola | Italiano | Esempio |
+|---|---|---|
+| algum | qualche | (lezione 11) Tocas algum instrumento? |
+| nenhuma | nessuna | (lezione 55) Varanda não tem nenhuma |
+| alguém | qualcuno | (lezione 55) Alguém mora no prédio? |
+| ninguém | nessuno | (lezione 55) Ninguém. Só eu. |
+| nada | niente | (lezione 55) Não há nada perto |
+| tudo | tutto | (lezione 55) Por tudo isso |
+
+Le parole negative si usano con il não quando stanno dopo il verbo: não há nada, "non c'è niente", come in italiano. Quando la parola negativa sta prima del verbo, il não sparisce: ninguém mora.
+
+6. Comigo, contigo, consigo, connosco, convosco (lezioni 50, 52)
+
+| Persona | Forma | Italiano |
+|---|---|---|
+| eu | comigo | con me |
+| tu | contigo | con te |
+| o senhor, a senhora | consigo | con Lei |
+| ele, ela | com ele, com ela | con lui, con lei |
+| nós | connosco | con noi |
+| vocês | convosco | con voi |
+
+Sono le forme della preposizione com con i pronomi: Vens comigo? (lezione 52) e Porque quer trabalhar connosco? (lezione 50). In Portogallo connosco si scrive con due n.
+
+Chiudiamo il ripasso: il prossimo passo è la lezione 57.

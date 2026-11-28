@@ -1064,6 +1064,28 @@ fn note_label(ui: &mut Ui, text: &str, header: bool) {
 /// A small Markdown subset for the pronunciation keys and the notes:
 /// headings, pipe tables, bullets and paragraphs (wrapped lines join up);
 /// `**` and backticks are dropped, `*...*` (a stressed syllable) is bold.
+/// The pronunciation key, learnt step by step: a line saying it need not
+/// be read in one go, the part before the first `###` open, and every `###`
+/// section folded until the learner opens it.
+pub fn key_markdown(ui: &mut Ui, text: &str, lead: &str) {
+    tinted(ACCENT_SOFT()).show(ui, |ui| {
+        ui.set_width(ui.available_width());
+        ui.label(medium(lead));
+    });
+    ui.add_space(8.0);
+    let mut parts = text.split("\n### ");
+    if let Some(head) = parts.next() {
+        markdown(ui, head);
+    }
+    for (i, part) in parts.enumerate() {
+        let (title, body) = part.split_once('\n').unwrap_or((part, ""));
+        egui::CollapsingHeader::new(display(title.trim()).size(16.0))
+            .id_salt(("key-section", i))
+            .default_open(false)
+            .show(ui, |ui| markdown(ui, body));
+    }
+}
+
 pub fn markdown(ui: &mut Ui, text: &str) {
     enum Block {
         Para(String),

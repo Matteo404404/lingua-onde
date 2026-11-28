@@ -215,7 +215,7 @@ impl App {
                 ui.set_width(ui.available_width());
                 ui.horizontal_wrapped(|ui| {
                     ui.label(medium(if foundation {
-                        tr("Before lesson 1: read the introduction, then the pronunciation key.")
+                        tr("Before lesson 1: read the introduction. The pronunciation key can wait: each lesson explains the sounds it uses.")
                     } else {
                         tr("Before lesson 1: read the introduction.")
                     }));
@@ -246,7 +246,11 @@ impl App {
                     Some(p) => {
                         ui.vertical(|ui| {
                             ui.set_max_width(720.0);
-                            theme::markdown(ui, &p);
+                            if self.appendix_ui.tab == 1 {
+                                theme::key_markdown(ui, &p, tr("You don't need to read all of this now: each lesson explains the sounds it uses. Open a section when a sound puzzles you."));
+                            } else {
+                                theme::markdown(ui, &p);
+                            }
                         });
                     }
                     None => {

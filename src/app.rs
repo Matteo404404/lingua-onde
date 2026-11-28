@@ -2095,7 +2095,7 @@ impl App {
                 let height = ctx.content_rect().height() * 0.7;
                 egui::ScrollArea::vertical().max_height(height).show(ui, |ui| {
                     ui.set_max_width(ui.available_width());
-                    theme::markdown(ui, &reader_part(key, &base));
+                    theme::key_markdown(ui, &reader_part(key, &base), tr("You don't need to read all of this now: each lesson explains the sounds it uses. Open a section when a sound puzzles you."));
                 });
             });
         self.key_open = open;

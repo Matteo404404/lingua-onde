@@ -975,7 +975,7 @@ dialogue:
   pron.it: … déu … *nó*më … pa*ish*
 - Então porque é que vives em Lisboa?
   it: Allora perché vivi a Lisbona?
-  pron.it: … *vi*vë …
+  pron.it: … *vi*vëz …
 - Para poder dizer todos os dias que o Porto é melhor.
   it: Per poter dire ogni giorno che Porto è migliore.
   pron.it: … pu*dér* …
@@ -1028,7 +1028,7 @@ title.it: Da quanto tempo?
 dialogue:
 - Há quanto tempo moras em Lisboa?
   it: Da quanto tempo abiti a Lisbona?
-  pron.it: … *mò*ra …
+  pron.it: … *mò*raz …
 - Há cinco anos.
   it: Da cinque anni.
 - E desde quando falas português?
@@ -1055,7 +1055,7 @@ dialogue:
   it: Capivano tutto.
 - Então porque é que aprendeste português?
   it: Allora perché hai imparato il portoghese?
-  pron.it: … capreⁿ*désh*të …
+  pron.it: … apreⁿ*désh*të …
 - Porque eles respondiam-me em italiano.
   it: Perché mi rispondevano in italiano.
   pron.it: … rrëshpoⁿ*di*auⁿ-më …
@@ -1109,7 +1109,7 @@ title.it: Credo che arrivino onde grandi
 dialogue:
 - Achas que hoje vêm ondas grandes à Nazaré?
   it: Credi che oggi arrivino onde grandi a Nazaré?
-  pron.it: *a*sciash … veiⁿ *oⁿ*dash *graⁿ*dë … naza*rè*
+  pron.it: *a*sciash … veiⁿ *oⁿ*dash *graⁿ*dëz … naza*rè*
 - Dizem que vêm ondas de vinte metros.
   it: Dicono che arrivano onde di venti metri.
   pron.it: *di*zeiⁿ … *mé*trush
@@ -1200,7 +1200,7 @@ dialogue:
   it: Di notte?
 - Sim. Tenho visto séries até às três.
   it: Sì. Guardo serie fino alle tre.
-  pron.it: … *vish*tu *sè*rië …
+  pron.it: … *vish*tu *sè*riëz …
 - E tens comido bem?
   it: E mangi bene?
   pron.it: … cu*mi*du …
@@ -1283,7 +1283,7 @@ dialogue:
   it: Va bene.
 - Não comas o meu queijo.
   it: Non mangiare il mio formaggio.
-  pron.it: … *có*ma …
+  pron.it: … *có*maz …
 - Não como.
   it: Non lo mangio.
 - Não convides ninguém para cá.
@@ -1461,3 +1461,623 @@ Il composto, ter più il participio, dice ciò che succede o si ripete fino a og
 Il pronome sta dopo il verbo nell'affermativo (Dá-me, segure-se) e prima del verbo nel negativo (não te esqueças).
 
 Chiudiamo il ripasso: ci vediamo nella lezione 43.
+
+== 43 A2
+numeral: Quadragésima terceira lição
+numeral.pron.it: cuadra*jè*zima tër*sèi*ra li*sauⁿ*
+title: Quando chegares
+title.it: Quando arriverai
+
+dialogue:
+- Quando chegares a Coimbra, liga-me.
+  it: Quando arriverai a Coimbra, chiamami.
+  pron.it: … scë*ga*rëz … cu*iⁿ*bra *li*ga-më
+- Sim, mãe.
+  it: Sì, mamma.
+- Se tiveres fome, há sopa na mala.
+  it: Se avrai fame, c'è della zuppa nella valigia.
+  pron.it: … ti*vé*rësh *fó*më …
+- Sopa? Na mala?
+  it: Zuppa? Nella valigia?
+- Num frasco. E se precisares de dinheiro, diz.
+  it: In un barattolo. E se avrai bisogno di soldi, dillo.
+  pron.it: nuⁿ *frash*cu … prësi*za*rësh … di*gnèi*ru …
+- Digo.
+  it: Lo dirò.
+  pron.it: *di*gu
+- Quando vires a residência, manda fotografias.
+  it: Quando vedrai il collegio, manda delle foto.
+  pron.it: … *vi*rëz … rrëzi*deⁿ*sia *maⁿ*da futugra*fi*ash
+- Mando.
+  it: Certo, te le mando.
+  pron.it: *maⁿ*du
+- E se fores a uma festa, não bebas muito.
+  it: E se andrai a una festa, non bere troppo.
+  pron.it: … *fó*rëz … *fèsh*ta … *bé*bash …
+- Mãe, vou para Coimbra estudar.
+  it: Mamma, vado a Coimbra a studiare.
+  pron.it: … 'shtu*dar*
+- Eu sei. Eu também fui estudar para Coimbra.
+  it: Lo so. Anch'io sono andata a Coimbra a studiare.
+- E então?
+  it: E allora?
+- Então conheci o teu pai numa festa.
+  it: Allora ho conosciuto tuo padre a una festa.
+  pron.it: … cu'gn*si* … *nu*ma …
+
+sounds.it:
+1. Coimbra si dice cu*iⁿ*bra: la o non accentata diventa u, e la m davanti a b rende nasale la i.
+2. Dinheiro si dice di*gnèi*ru: nh è il suono gn di bagno, e ei si legge èi, con la voce sulla sillaba accentata.
+
+notes.it:
+1. Quando chegares a Coimbra: quando con il congiuntivo futuro dice ciò che accadrà, come l'italiano "quando arriverai". Nei verbi regolari la forma è quella dell'infinito con la terminazione: chegar, chegares, chegarmos, chegarem. Lo rivedrai nell'infinito personale della lezione 46.
+2. Liga-me: ligar vuol dire "telefonare" (lezione 36), e qui ha come oggetto il pronome me. Nella frase affermativa il pronome sta dopo il verbo, con il trattino: liga-me, "chiamami".
+3. Tiveres, fores, vires: il congiuntivo futuro dei verbi irregolari viene dalla terza persona plurale del perfetto. Tiveram dà tiveres (ter), foram dà fores (ser e ir), viram dà vires (ver). Sono le forme che il futuro del congiuntivo prende dopo quando e se.
+4. Sopa na mala: na è em + a, "nella". Sopa è la zuppa della lezione 19 e mala è la valigia, come nella lezione 30. Num frasco: num è em + um, "in un barattolo".
+5. Residência: qui è il collegio universitario, la casa dove vivono gli studenti. Manda fotografias: manda è l'imperativo di tu di mandar, "manda", e fotografias è al plurale, "delle foto".
+6. Não bebas muito: la forma negativa di tu è la stessa del congiuntivo presente, come não comas nella lezione 41. Bebas viene da beber, "bere".
+7. Eu também fui estudar para Coimbra: fui è il perfetto di ir, "sono andata". Il portoghese dice ir estudar, senza preposizione, dove l'italiano dice "andare a studiare".
+8. Então conheci o teu pai: conhecer vuol dire "conoscere" e, per una persona incontrata la prima volta, "incontrare". Conheci è la prima persona del perfetto, "ho conosciuto", e il teu pai è "tuo padre".
+
+culture.it:
+Coimbra è una delle università più antiche d'Europa: fondata nel 1290, fu per secoli spostata tra Lisbona e Coimbra prima di restare nella città. Gli studenti portano il mantello nero, la capa, e a maggio si festeggia la Queima das Fitas; il fado di Coimbra, invece, è tradizionalmente cantato dagli uomini.
+
+ex1:
+- Quando chegares, liga-me.
+  it: Quando arriverai, chiamami.
+- Se tiveres fome, há sopa.
+  it: Se avrai fame, c'è la zuppa.
+- Não te esqueças de ligar!
+  it: Non dimenticarti di chiamare!
+- Quando vires o pai, diz-lhe que venho.
+  it: Quando vedrai tuo padre, digli che arrivo.
+- Não bebas muito vinho.
+  it: Non bere troppo vino.
+
+ex2:
+- Quando [chegares] a Coimbra, liga-me.
+  it: Quando arriverai a Coimbra, chiamami.
+- Se tiveres [fome], há sopa na mala.
+  it: Se avrai fame, c'è della zuppa nella valigia.
+- Quando [vires] a residência, manda fotografias.
+  it: Quando vedrai il collegio, manda delle foto.
+- E se [fores] a uma festa, não bebas muito.
+  it: E se andrai a una festa, non bere troppo.
+- Eu também [fui] estudar para Coimbra.
+  it: Anch'io sono andata a Coimbra a studiare.
+
+== 44 A2
+numeral: Quadragésima quarta lição
+numeral.pron.it: cuadra*jè*zima *cuar*ta li*sauⁿ*
+title: Espero que gostes
+title.it: Spero che ti piaccia
+
+dialogue:
+- Espero que gostes de bacalhau à Brás.
+  it: Spero che ti piaccia il baccalà alla Brás.
+  pron.it: 'sh*pè*ru … *gósh*tësh … brash
+- Adoro bacalhau à Brás.
+  it: Adoro il baccalà alla Brás.
+  pron.it: a*dò*ru …
+- Talvez esteja um pouco salgado.
+  it: Forse è un po' salato.
+  pron.it: tal*vésh* 'sh*té*ja … sal*ga*du
+- Não faz mal.
+  it: Non fa niente.
+- Quero que proves com azeitonas.
+  it: Voglio che tu lo assaggi con le olive.
+  pron.it: … *pró*vësh … azèi*tó*nash
+- Hum... muito bom.
+  it: Mmm... molto buono.
+  pron.it: uⁿ …
+- Quero que sejas sincero. Gostas mesmo?
+  it: Voglio che tu sia sincero. Ti piace davvero?
+  pron.it: … *sé*jash siⁿ*sè*ru … *méj*mu
+- Gosto mesmo. Está ótimo.
+  it: Mi piace davvero. È ottimo.
+- Ainda bem.
+  it: Meno male.
+- Porquê 'ainda bem'?
+  it: Perché "meno male"?
+  pron.it: … beiⁿ
+- Porque fiz bacalhau para a semana toda.
+  it: Perché ho fatto il baccalà per tutta la settimana.
+  pron.it: … fish … *tó*da
+
+sounds.it:
+1. Talvez si dice tal*vésh*: la z finale fruscia come sc.
+2. Esteja si dice 'sh*té*ja: la e iniziale è muta e la s diventa sh, come in estar; la j è quella di garage.
+
+notes.it:
+1. Espero que gostes: espero que vuole il congiuntivo presente, come l'italiano "spero che ti piaccia". Gostar diventa gostes per tu: i verbi in -ar cambiano in -e, quelli in -er e -ir in -a, e sono le stesse forme del negativo di tu della lezione 41: não comas.
+2. Talvez esteja um pouco salgado: talvez vuol dire "forse", e quando sta davanti al verbo vuole il congiuntivo (esteja, da estar), dove l'italiano dice semplicemente "forse è". Um pouco è "un po'" e salgado è "salato".
+3. Quero que proves, quero que sejas: quero que vuole il congiuntivo, come "voglio che tu assaggi" e "voglio che tu sia". Gli irregolari più comuni sono seja, esteja, tenha, faça, vá, saiba, queira e diga.
+4. Gostas mesmo?: mesmo qui vuol dire "davvero", come nell'italiano "ti piace davvero?". Nella lezione 48 vedrai che la stessa parola vuol dire anche "stesso".
+5. Está ótimo: estar dice come una cosa è in questo momento. Ser direbbe che cosa è di solito, mentre il piatto è buono adesso, e quindi è estar.
+6. Ainda bem: lo abbiamo visto nella lezione 36, e vuol dire "meno male". Porquê? con l'accento è la domanda, "perché?"; porque, senza accento, è la risposta, "perché".
+7. Porque fiz bacalhau para a semana toda: fiz è il perfetto di fazer, "ho fatto", e para indica a che cosa serve il baccalà: per tutta la settimana.
+
+culture.it:
+Il bacalhau, il merluzzo salato, è uno dei piatti più amati del Portogallo, e il bacalhau à Brás è un classico di Lisbona: merluzzo sfilacciato, patatine fritte a bastoncino e uova, con qualche oliva.
+
+ex1:
+- Quero que proves o bacalhau.
+  it: Voglio che tu assaggi il baccalà.
+- Não faz mal, está bom.
+  it: Non fa niente, è buono.
+- Espero que gostes da sopa.
+  it: Spero che ti piaccia la zuppa.
+- Gosto mesmo do vinho.
+  it: Mi piace davvero il vino.
+- Ainda bem que fizeste sopa.
+  it: Meno male che hai fatto la zuppa.
+
+ex2:
+- Espero que [gostes] de bacalhau à Brás.
+  it: Spero che ti piaccia il baccalà alla Brás.
+- Quero que [proves] com azeitonas.
+  it: Voglio che tu lo assaggi con le olive.
+- Quero que [sejas] sincero.
+  it: Voglio che tu sia sincero.
+- Gostas [mesmo]?
+  it: Ti piace davvero?
+- Porque [fiz] bacalhau para a semana toda.
+  it: Perché ho fatto il baccalà per tutta la settimana.
+
+== 45 A2
+numeral: Quadragésima quinta lição
+numeral.pron.it: cuadra*jè*zima *chiⁿ*ta li*sauⁿ*
+title: O que dizem os astros
+title.it: Che cosa dicono le stelle
+
+dialogue:
+- Lês o horóscopo?
+  it: Leggi l'oroscopo?
+  pron.it: léz … u*ròsh*cupu
+- Todos os domingos. Qual é o teu signo?
+  it: Ogni domenica. Qual è il tuo segno?
+  pron.it: … du*miⁿ*gush … *sig*nu
+- Carneiro.
+  it: Ariete.
+  pron.it: car*nèi*ru
+- "Carneiro: 'Esta semana terá uma surpresa no trabalho.'"
+  it: "Ariete: 'Questa settimana avrà una sorpresa al lavoro.'"
+  pron.it: … të*ra* … sur*pré*za …
+- Boa! E o amor?
+  it: Bene! E l'amore?
+  pron.it: … a*mór*
+- "No amor, conhecerá uma pessoa especial."
+  it: "In amore incontrerà una persona speciale."
+  pron.it: … cu'gnsë*ra* … 'shpësi*al*
+- E o dinheiro?
+  it: E i soldi?
+- "Receberá dinheiro de alguém da família."
+  it: "Riceverà soldi da qualcuno di famiglia."
+  pron.it: rrë'sbë*ra* … al*gheiⁿ* … fa*mi*lia
+- Que semana fantástica! E o teu?
+  it: Che settimana fantastica! E il tuo?
+  pron.it: … faⁿ*tash*tica …
+- "Escorpião: 'Esta semana perderá a carteira.'"
+  it: "Scorpione: 'Questa settimana perderà il portafoglio.'"
+  pron.it: 'shcurpi*auⁿ* … për'd*ra* … car*tèi*ra
+- Coitado!
+  it: Poverino!
+  pron.it: coi*ta*du
+- Espera... que jornal é este?
+  it: Aspetta... che giornale è questo?
+  pron.it: 'sh*pè*ra …
+- É o de domingo passado.
+  it: È quello di domenica scorsa.
+  pron.it: … pa*sa*du
+- Então foi por isso que perdi a carteira na quarta-feira!
+  it: Allora è per questo che ho perso il portafoglio mercoledì!
+  pron.it: … foi … *i*su … për*di* … *cuar*ta-*fèi*ra
+
+sounds.it:
+1. Perderá si dice për'd*ra*: la e centrale è muta, e la voce cade sull'ultima sillaba.
+2. Perdi si dice për*di*: la i finale è accentata e si legge piena, come in italiano.
+
+notes.it:
+1. Lês o horóscopo?: ler vuol dire "leggere", e alla tu fa lês. Todos os domingos vuol dire "ogni domenica": todos os seguito dal giorno.
+2. Qual é o teu signo?: signo è il segno zodiacale, come in italiano. Teu è "tuo", ed è preceduto dall'articolo come in italiano: o teu signo.
+3. Carneiro e Escorpião: sono i nomi dei segni in portoghese. Carneiro vuol dire anche "montone", come l'italiano "ariete".
+4. Terá, conhecerá, receberá, perderá: il futuro si forma con l'infinito più le terminazioni -ei, -ás, -á, -emos, -eis, -ão. Terá è "avrà", dal verbo ter, "avere".
+5. No amor: no è em + o, "in amore". Conhecerá, come conheci nella lezione 43, qui vuol dire "incontrerà".
+6. Receberá dinheiro de alguém da família: receber è "ricevere", de alguém è "di qualcuno", e da família è de + a, la contrazione "di famiglia".
+7. Perderá a carteira: perder è "perdere", e carteira vuol dire "portafoglio", non "cartella".
+8. Então foi por isso que perdi a carteira na quarta-feira!: perdi è il perfetto semplice di perder, "ho perso", come comi nella lezione 24. La battuta: il giornale è di domenica scorsa, quindi la previsione parlava proprio della settimana in cui il portafoglio è già sparito.
+
+ex1:
+- Lês o jornal todos os dias?
+  it: Leggi il giornale tutti i giorni?
+- A minha carteira está na mala.
+  it: Il mio portafoglio è nella valigia.
+- Vais ter uma surpresa.
+  it: Avrai una sorpresa.
+- Perdi o telemóvel na praia.
+  it: Ho perso il cellulare in spiaggia.
+- Esta semana vou trabalhar muito.
+  it: Questa settimana lavorerò molto.
+
+ex2:
+- Esta semana [terá] uma surpresa no trabalho.
+  it: Questa settimana avrà una sorpresa al lavoro.
+- No amor, [conhecerá] uma pessoa especial.
+  it: In amore incontrerà una persona speciale.
+- [Receberá] dinheiro de alguém da família.
+  it: Riceverà soldi da qualcuno di famiglia.
+- Esta semana [perderá] a carteira.
+  it: Questa settimana perderà il portafoglio.
+- Eu [perdi] a carteira na quarta-feira.
+  it: Ho perso il portafoglio mercoledì.
+
+== 46 A2
+numeral: Quadragésima sexta lição
+numeral.pron.it: cuadra*jè*zima *sèish*ta li*sauⁿ*
+title: É melhor irmos cedo
+title.it: Meglio andare presto
+
+dialogue:
+- Amanhã vamos ao fado?
+  it: Domani andiamo al fado?
+  pron.it: … *va*muz …
+- É melhor irmos cedo para a casa de fados.
+  it: Meglio andare presto alla casa di fado.
+  pron.it: … *ir*mush *sé*du … *fa*dush
+- Porquê?
+  it: Perché?
+- Para termos mesa. Às dez já não há lugar.
+  it: Per avere un tavolo. Alle dieci non c'è più posto.
+  pron.it: … *tér*mush … dèsh …
+- E é preciso reservar?
+  it: E bisogna prenotare?
+  pron.it: … prë*si*zu rrëzër*var*
+- Liguei. Disseram para estarmos lá às nove.
+  it: Ho chiamato. Hanno detto di essere lì alle nove.
+  pron.it: li*ghèi* di*sè*rauⁿ … 'sh*tar*mush …
+- E durante o fado podemos falar?
+  it: E durante il fado possiamo parlare?
+  pron.it: … du*raⁿ*të … pu*dé*mush fa*lar*
+- Nem pensar! Quando cantam, todos ficam calados.
+  it: Neanche per sogno! Quando cantano, tutti restano zitti.
+  pron.it: … peⁿ*sar* … *caⁿ*tauⁿ … *fi*cauⁿ ca*la*dush
+- E se quisermos pedir outro vinho?
+  it: E se vogliamo ordinare un altro vino?
+  pron.it: … chi*zér*mush pë*dir* *ó*tru …
+- Esperamos até eles acabarem.
+  it: Aspettiamo che finiscano.
+  pron.it: 'shpë*ra*muz … zaca*ba*reiⁿ
+- E se cantarem a noite toda?
+  it: E se cantano tutta la notte?
+  pron.it: … caⁿ*ta*reiⁿ …
+- Então pedimos duas garrafas antes de eles começarem.
+  it: Allora ordiniamo due bottiglie prima che comincino.
+  pron.it: … pë*di*mush … ga*rra*faz … cu'm*sa*reiⁿ
+
+sounds.it:
+1. Calados si dice ca*la*dush: la o finale del plurale diventa u, e la s finale fruscia come sc.
+2. Fados si dice *fa*dush: la s finale del plurale fruscia, come in calados.
+
+notes.it:
+1. É melhor irmos cedo: è meglio andare presto. Irmos è l'infinito personale: l'infinito ir con la desinenza di noi (-mos). Dice chi fa l'azione, dove l'italiano usa l'infinito semplice o "che andiamo".
+2. Para termos mesa: para più l'infinito personale (termos, "avere" con il noi) dice lo scopo, "per avere". L'italiano usa l'infinito semplice; il portoghese aggiunge la persona.
+3. Às dez já não há lugar: já não vuol dire "non più", e há è il "c'è" della lezione 10. Às dez è a + as dez, "alle dieci".
+4. Disseram para estarmos lá: disseram è il perfetto di dizer, "hanno detto", e para estarmos è "di essere", con il noi.
+5. Quando cantam, todos ficam calados: quando cantam dice "quando cantano". Calado vuol dire "zitto", non "calato", e ficar con un aggettivo vuol dire "restare".
+6. E se quisermos pedir: il congiuntivo futuro di querer si forma dal perfetto quiseram, come tiveres nella lezione 43: quisermos, "se vogliamo".
+7. Esperamos até eles acabarem: até con l'infinito personale vuol dire "fino a che", e acabarem è "finiscano": eles, "loro", fa il soggetto dentro l'infinito.
+8. Antes de eles começarem: come nella battuta finale, antes de si usa con l'infinito personale. Per i verbi regolari la forma è la stessa del futuro del congiuntivo della lezione 43, chegarem.
+
+culture.it:
+Nelle case di fado si fa silenzio quando inizia il canto: il fado si ascolta, e chi parla durante una canzone attira gli sguardi di tutti. Le più famose sono nell'Alfama e nel Bairro Alto, mentre il fado vadio è quello dei dilettanti, che cantano per passione.
+
+aside.it:
+Stai facendo progressi, anche se non ti sembra: ogni lezione lascia qualcosa, anche quando non te ne accorgi.
+
+ex1:
+- É melhor irmos cedo.
+  it: Meglio andare presto.
+- Quero pedir duas garrafas.
+  it: Voglio ordinare due bottiglie.
+- Podemos falar antes de eles cantarem.
+  it: Possiamo parlare prima che cantino.
+- Esperamos até ao fim.
+  it: Aspettiamo fino alla fine.
+- Nem pensar, é preciso reservar.
+  it: Neanche per sogno, bisogna prenotare.
+
+ex2:
+- É melhor [irmos] cedo.
+  it: Meglio andare presto.
+- Esperamos até eles [acabarem].
+  it: Aspettiamo che finiscano.
+- E se [quisermos] pedir outro vinho?
+  it: E se vogliamo ordinare un altro vino?
+- [Nem] pensar!
+  it: Neanche per sogno!
+- Então pedimos duas garrafas antes de eles [começarem].
+  it: Allora ordiniamo due bottiglie prima che comincino.
+
+== 47 A2
+numeral: Quadragésima sétima lição
+numeral.pron.it: cuadra*jè*zima *sè*tima li*sauⁿ*
+title: Só mais um bocadinho
+title.it: Solo un pochino
+
+dialogue:
+- Come mais um bocadinho, filho.
+  it: Mangia ancora un pochino, figlio mio.
+  pron.it: *có*më … buca*di*gnu …
+- Avó, já comi muito.
+  it: Nonna, ho già mangiato molto.
+- Só uma sopinha.
+  it: Solo una zuppetta.
+  pron.it: … su*pi*gna
+- Está bem. Uma sopinha.
+  it: Va bene. Una zuppetta.
+- E um pratinho de arroz de pato.
+  it: E un piattino di riso all'anatra.
+  pron.it: … pra*ti*gnu … a*rrósh* … *pa*tu
+- Um pratinho pequenino.
+  it: Un piattino piccolino.
+  pron.it: … pë'c*ni*nu
+- E uma fatiazinha de bolo.
+  it: E una fettina di torta.
+  pron.it: … fatia*zi*gna … *bó*lu
+- Avó, estou cheio.
+  it: Nonna, sono pieno.
+  pron.it: … *scèi*u
+- Cheio? Estás tão magrinho!
+  it: Pieno? Sei così magrolino!
+  pron.it: … ma*gri*gnu
+- Avó, tenho trinta anos e oitenta quilos.
+  it: Nonna, ho trent'anni e ottanta chili.
+  pron.it: … oi*teⁿ*ta *chi*lush
+- Pois. Quando eras miúdo comias o dobro.
+  it: Già. Da piccolo mangiavi il doppio.
+  pron.it: … mi*u*du cu*mi*az … *dó*bru
+
+sounds.it:
+1. Bocadinho si dice buca*di*gnu: la o non accentata diventa u, e -inho si legge -ignu, con la voce sulla i.
+2. Arroz si dice a*rrósh*: la rr è forte, come in carro, e la z finale fruscia come sc.
+
+notes.it:
+1. Come mais um bocadinho: bocadinho è "pezzettino", la forma piccola di bocado. Il diminutivo -inho, come l'italiano -ino, dice "un po'" e fa la frase più affettuosa. Mais um bocadinho vuol dire "ancora un pochino".
+2. Só uma sopinha: sopinha viene da sopa, la zuppa della lezione 19. Il diminutivo ha la stessa forma per il femminile: -inha.
+3. Um pratinho de arroz de pato: pratinho viene da prato, "piatto": il piattino è piccolo e quasi cortese. Arroz de pato è "riso all'anatra".
+4. Uma fatiazinha de bolo: -zinho è la forma che -inho prende con alcune parole, come fatiazinha e cafezinho. Per ora riconoscila e basta.
+5. Estou cheio: estar dice lo stato di adesso, e cheio è "pieno": estou cheio è "sono sazio".
+6. Estás tão magrinho!: tão più l'aggettivo vuol dire "così", come in tão ... como della lezione 37. Magro è "magro" e magrinho è la forma affettiva, "magrolino".
+7. Tenho trinta anos: per l'età il portoghese usa ter, "avere": ho trent'anni, non "sono trent'anni". Quilos è "chili", al plurale.
+8. Quando eras miúdo comias o dobro: quando eras è l'imperfetto, come quando eras nova nella lezione 32. Miúdo è "bambino", e o dobro è "il doppio".
+
+culture.it:
+Il pranzo della domenica in famiglia, a casa dei nonni, è un'abitudine ancora molto diffusa in Portogallo, con più piatti e spesso un dolce. Nei messaggi tra familiari e amici si chiude spesso con beijinhos, "bacetti": il diminutivo rende il saluto affettuoso.
+
+ex1:
+- Estou cheio, avó, obrigado.
+  it: Sono pieno, nonna, grazie.
+- Quando eras miúdo, comias muito.
+  it: Da piccolo mangiavi molto.
+- Só mais um bocadinho de arroz.
+  it: Solo ancora un pochino di riso.
+- Quero um bolo pequenino.
+  it: Voglio una torta piccolina.
+- Estou cheio? Não, tenho fome.
+  it: Sono sazio? No, ho fame.
+
+ex2:
+- Come mais um [bocadinho], filho.
+  it: Mangia ancora un pochino, figlio mio.
+- Só uma [sopinha].
+  it: Solo una zuppetta.
+- E uma [fatiazinha] de bolo.
+  it: E una fettina di torta.
+- Avó, estou [cheio].
+  it: Nonna, sono pieno.
+- Quando eras miúdo comias o [dobro].
+  it: Da piccolo mangiavi il doppio.
+
+== 48 A2
+numeral: Quadragésima oitava lição
+numeral.pron.it: cuadra*jè*zima oi*ta*va li*sauⁿ*
+title: Fica-te bem
+title.it: Ti sta bene
+
+dialogue:
+- Este vestido fica-me bem?
+  it: Questo vestito mi sta bene?
+  pron.it: … vësh*ti*du …
+- Fica-te lindamente.
+  it: Ti sta benissimo.
+  pron.it: … liⁿda*meⁿ*të
+- Sabes se há outro tamanho?
+  it: Sai se c'è un'altra taglia?
+  pron.it: … ta*ma*gnu
+- Não sei se há. Pergunta à senhora.
+  it: Non so se ce n'è. Chiedi alla signora.
+  pron.it: … për*guⁿ*ta …
+- E sabes quanto custa?
+  it: E sai quanto costa?
+- Não sei, mas sei onde vai ficar.
+  it: Non lo so, ma so dove resterà.
+  pron.it: … fi*car*
+- Onde?
+  it: Dove?
+- No meu armário, com a minha roupa. Somos do mesmo tamanho.
+  it: Nel mio armadio, con i miei vestiti. Siamo della stessa taglia.
+  pron.it: … ar*ma*riu … *rró*pa *só*mush …
+
+sounds.it:
+1. Lindamente si dice liⁿda*meⁿ*të: il nasale in lin e in men fa sentire la n senza pronunciarla, e la e finale è una ë debole.
+
+notes.it:
+1. Este vestido fica-me bem?: ficar con un pronome vuol dire "stare bene", e si dice di un vestito che sta a una persona. Fica-me bem è "mi sta bene", con il pronome dopo il verbo, come in una frase affermativa.
+2. Fica-te lindamente: lindamente è un avverbio, "splendidamente", da lindo, "bello". Fica-te è "ti sta", con te come pronome di tu.
+3. Sabes se há outro tamanho?: saber se vuol dire "sapere se", e come in italiano il verbo dopo resta all'indicativo. Há è il "c'è" della lezione 10.
+4. Pergunta à senhora: perguntar vuol dire "chiedere" nel senso di domandare, e perguntar a qualcuno è "chiedere a qualcuno". À è a + a, la contrazione. A senhora è la commessa, da chiamare con il titolo di cortesia.
+5. Não sei, mas sei onde vai ficar: ficar vuol dire "stare" o "restare", e onde fica è "dove si trova", come nella lezione 4. Vai ficar è "resterà", con il futuro di ir.
+6. No meu armário, com a minha roupa: no è em + o, "nell'armadio". Roupa è "i vestiti" in genere, mentre vestido è il vestito da donna: un abito da uomo si dice fato.
+7. Somos do mesmo tamanho: ser serve per la taglia, che è una cosa che si è; do è de + o, "della". Mesmo qui vuol dire "stesso", come la stessa parola della lezione 44 voleva dire "davvero".
+
+ex1:
+- Este tamanho fica-me bem?
+  it: Questa taglia mi sta bene?
+- Sabes quanto custa o vestido?
+  it: Sai quanto costa il vestito?
+- Não sei onde fica a estação.
+  it: Non so dove si trova la stazione.
+- Pergunta à senhora quanto custa.
+  it: Chiedilo alla signora, quanto costa.
+- Vou ficar com o vestido.
+  it: Prendo il vestito.
+
+ex2:
+- Este vestido [fica-me] bem?
+  it: Questo vestito mi sta bene?
+- Sabes se há outro [tamanho]?
+  it: Sai se c'è un'altra taglia?
+- Não sei, mas sei onde vai [ficar].
+  it: Non lo so, ma so dove resterà.
+- No meu armário, com a minha [roupa].
+  it: Nel mio armadio, con i miei vestiti.
+- Somos do [mesmo] tamanho.
+  it: Siamo della stessa taglia.
+
+== 49 A2
+kind: revision
+numeral: Quadragésima nona lição
+numeral.pron.it: cuadra*jè*zima *nó*na li*sauⁿ*
+title: Revisão
+title.it: Ripasso
+
+dialogue:
+- A máquina ainda não acabou?
+  it: La lavatrice non ha ancora finito?
+  refs: 36
+- Ainda não. Acabei de pôr a roupa.
+  it: Non ancora. Ho appena messo il bucato.
+  refs: 13 36
+- A minha roupa branca também está lá dentro?
+  it: Anche i miei panni bianchi sono lì dentro?
+  refs: 12 30
+- Está. Com a minha roupa vermelha.
+  it: Sì. Con i miei panni rossi.
+  refs: 12 30
+- Com a vermelha? Sabes mesmo lavar roupa?
+  it: Con quelli rossi? Sai davvero lavare i panni?
+  refs: 11 44
+- Sei, sim. Lavo a minha roupa há muitos anos.
+  it: Certo. Lavo i miei panni da molti anni.
+  refs: 5 38
+- E a tua roupa branca nunca ficou vermelha?
+  it: E i tuoi panni bianchi non sono mai diventati rossi?
+  refs: 29 48
+- Nunca.
+  it: Mai.
+  refs: 29
+- Porquê?
+  it: Perché?
+  refs: 16
+- Porque eu não tenho roupa branca.
+  it: Perché io non ho panni bianchi.
+  refs: 8 16
+
+notes.it:
+Hai fatto le sei lezioni dalla 43 alla 48. Non serve impararle a memoria: rileggi i dialoghi, e i dubbi sono normali. Qui trovi in ordine quello che quelle lezioni hanno portato.
+
+1. Il congiuntivo futuro (lezioni 43, 46)
+
+| Verbo | eu | tu | ele, ela | nós | eles, elas |
+|---|---|---|---|---|---|
+| falar | falar | falares | falar | falarmos | falarem |
+| ter | tiver | tiveres | tiver | tivermos | tiverem |
+| ser, ir | for | fores | for | formos | forem |
+| ver | vir | vires | vir | virmos | virem |
+| fazer | fizer | fizeres | fizer | fizermos | fizerem |
+| querer | quiser | quiseres | quiser | quisermos | quiserem |
+
+Si usa dopo quando e se, per ciò che accadrà: quando chegares, "quando arriverai"; se tiveres fome, "se avrai fame"; se quisermos pedir, "se vogliamo ordinare". I verbi regolari prendono la forma dell'infinito; per gli irregolari basta ricordare la terza persona plurale del perfetto: tiveram dà tiver, foram dà for, viram dà vir, fizeram dà fizer, quiseram dà quiser.
+
+2. Il congiuntivo presente (lezioni 44, 46)
+
+| Verbo | eu | tu | ele, ela | nós | eles, elas |
+|---|---|---|---|---|---|
+| gostar | goste | gostes | goste | gostemos | gostem |
+| comer | coma | comas | coma | comamos | comam |
+| ser | seja | sejas | seja | sejamos | sejam |
+| estar | esteja | estejas | esteja | estejamos | estejam |
+| ter | tenha | tenhas | tenha | tenhamos | tenham |
+| saber | saiba | saibas | saiba | saibamos | saibam |
+
+Lo richiedono espero que, quero que, talvez e é preciso que: espero que gostes, "spero che ti piaccia"; quero que sejas sincero, "voglio che tu sia sincero"; talvez esteja, "forse sia". Anche l'imperativo negativo di tu è questo: não comas, lezione 41.
+
+3. Il futuro (lezioni 41, 45)
+
+| Verbo | eu | tu | ele, ela | nós | eles, elas |
+|---|---|---|---|---|---|
+| falar | falarei | falarás | falará | falaremos | falarão |
+| ter | terei | terás | terá | teremos | terão |
+| fazer | farei | farás | fará | faremos | farão |
+| dizer | direi | dirás | dirá | diremos | dirão |
+| trazer | trarei | trarás | trará | traremos | trarão |
+
+Il futuro si forma con l'infinito più -ei, -ás, -á, -emos, -eis, -ão. Nel parlato, però, si dice più spesso con il presente o con ir più l'infinito:
+
+| Modo | Portoghese | Italiano |
+|---|---|---|
+| ir + infinito | Vou estar fora uma semana. | Starò fuori una settimana. |
+| ir + infinito | Vais ter saudades minhas. | Mi sentirai la mancanza. |
+| futuro | Esta semana terá uma surpresa. | Questa settimana avrà una sorpresa. |
+
+4. L'infinito personale (lezione 46)
+
+| Verbo | eu | tu | ele, ela | nós | eles, elas |
+|---|---|---|---|---|---|
+| falar | falar | falares | falar | falarmos | falarem |
+| ser | ser | seres | ser | sermos | serem |
+| ir | ir | ires | ir | irmos | irem |
+
+Si usa dopo é melhor, para, antes de, depois de, até e sem, quando l'infinito ha un soggetto suo, come noi in irmos o loro in começarem: é melhor irmos cedo, "è meglio andare presto"; para termos mesa, "per avere un tavolo"; antes de eles começarem, "prima che comincino". L'italiano usa l'infinito semplice o che con il congiuntivo; il portoghese ha questa forma in più.
+
+5. I diminutivi (lezione 47)
+
+| Parola | Diminutivo | Italiano |
+|---|---|---|
+| bocado | bocadinho | pezzettino |
+| sopa | sopinha | zuppetta |
+| prato | pratinho | piattino |
+| magro | magrinho | magrolino |
+| fatia | fatiazinha | fettina |
+| pequeno | pequenino | piccolino |
+
+Il diminutivo è -inho o -inha, come l'italiano -ino, e con alcune parole diventa -zinho. Serve per dire "un po'" e per essere affettuosi: estou cheio, "sono pieno", ma una fatiazinha de bolo è "una fettina di torta".
+
+6. Ficar (lezioni 4, 8, 14, 46, 48)
+
+| Significato | Esempio | Italiano |
+|---|---|---|
+| dove si trova (lezione 4) | Onde fica a estação? | Dov'è la stazione? |
+| restare (lezione 14) | Mas eu fico aqui. | Ma io resto qui. |
+| prendere (lezione 8) | Fico com ele. | Lo prendo. |
+| restare con un aggettivo (lezione 46) | Todos ficam calados. | Tutti restano zitti. |
+| stare bene (lezione 48) | Fica-me bem. | Mi sta bene. |
+
+Ficar ha più significati: per capire quale, guarda la frase intera, come per stare e restare in italiano.
+
+7. Il pronome dopo il verbo (lezioni 36, 41, 43)
+
+| Base | Forma | Italiano |
+|---|---|---|
+| comer + os | comê-los | mangiarli |
+| comprar + o | comprá-lo | comprarlo |
+| fazer + a | fazê-la | farla |
+| fiz + o | fi-lo | l'ho fatto |
+| pôr + a | põe-na | mettila |
+
+Nella frase affermativa il pronome sta dopo il verbo, con il trattino: liga-me (lezione 43), e cambia la grafia quando il verbo perde la r o la z finali. Dopo não, já e que il pronome va prima del verbo: Já os compraste? (lezione 36), Não me esqueço (lezione 41).
+
+Chiudiamo il ripasso: ci vediamo domani nella lezione 50.
+
+aside.it:
+Il secondo giro sta per cominciare: le istruzioni sono nella lezione di domani.

@@ -5,3 +5,522 @@ name: Portuguese (Portugal) – Foundation (A1 → B2)
 name.it: Portoghese (Portogallo) – Fondamenti (A1 → B2)
 name.en: Portuguese (Portugal) – Foundation (A1 → B2)
 name.es: Portugués (Portugal) – Fundamentos (A1 → B2)
+
+== 1 A1
+numeral: Primeira lição
+numeral.pron.it: pri*mèi*ra li*sauⁿ*
+title: Uma bica
+title.it: Un caffè
+
+dialogue:
+- Bom dia! Uma bica, se faz favor.
+  it: Buongiorno! Un caffè, per favore (se fa favore).
+  pron.it: boⁿ *di*a! *u*ma *bi*ca, së fash fa*vór*.
+- Mais alguma coisa?
+  it: Altro (più qualche cosa)?
+  pron.it: mai zal*gu*ma *coi*za?
+- Um pastel de nata.
+  it: Una pasta alla crema (un pasticcino di panna).
+  pron.it: uⁿ pash*tèl* dë *na*ta.
+- Aqui está.
+  it: Ecco qua (qui sta).
+  pron.it: a*chi* 'sh*ta*.
+- Obrigada!
+  it: Grazie (obbligata)!
+  pron.it: ubri*ga*da!
+
+sounds.it:
+1. Sotto ogni frase trovi la pronuncia figurata: leggila come se fosse italiano, con le convenzioni della guida alla pronuncia. La sillaba su cui cade la voce è in grassetto, in ogni parola di due o più sillabe; le parole di una sillaba non lo portano. Tieni piena la sillaba in grassetto e fai le altre deboli e veloci: è il ritmo del portoghese.
+2. Il segno ⁿ vuol dire che la vocale passa per il naso, come se fossi raffreddato: bom si dice boⁿ, um si dice uⁿ. La n non si pronuncia e la lingua non tocca il palato.
+3. Fuori dall'accento le vocali si chiudono: la o diventa u (obrigada → ubri*ga*da), la e diventa una ë brevissima (de → dë, se → së). La s in fondo alla parola fruscia come sc: faz → fash. Ma davanti a una vocale si lega alla parola dopo e diventa z: mais alguma → mai zal*gu*ma.
+
+notes.it:
+1. Bom dia: buongiorno. Si dice fino all'ora di pranzo; dopo si passa a un altro saluto, che vedremo più avanti. Bom vuol dire buono, dia giorno: come in italiano, ma con la vocale nasale (boⁿ).
+2. Uma bica: uma vuol dire una, um vuol dire un. Il genere delle parole è quasi sempre quello dell'italiano: o café (il caffè), a bica. La bica è il nome che a Lisbona si dà al caffè espresso; nel resto del Portogallo si dice soprattutto um café, e a Porto um cimbalino.
+3. Se faz favor: per favore, letteralmente "se fa favore". È il modo più comune di chiedere qualcosa al bar o in un negozio, e si mette di solito in fondo alla frase. Faz viene dal verbo fazer, fare: lo rivedremo più avanti.
+4. Mais alguma coisa?: altro?, letteralmente "più qualche cosa?". Mais vuol dire più, alguma qualche, coisa cosa. È la domanda che ti farà chiunque stia dietro un banco.
+5. Um pastel de nata: il celebre dolce portoghese, una piccola sfoglia ripiena di crema. Pastel è un dolce, nata vuol dire panna (non "nata"!). In Portogallo non serve dire altro: tutti sanno che cos'è.
+6. Aqui está: ecco qua, letteralmente "qui sta". Lo dice chi porge qualcosa. Aqui vuol dire qui, e está viene dal verbo estar, stare: lo incontreremo spesso.
+7. Obrigada: grazie, letteralmente "obbligata". In portoghese grazie si accorda con chi parla: una donna dice obrigada, un uomo obrigado, qualunque sia la persona che ringraziano. Qui parla una cliente, quindi obrigada.
+
+ex1:
+- Bom dia!
+  it: Buongiorno!
+- Uma bica.
+  it: Un caffè.
+- Se faz favor.
+  it: Per favore.
+- Aqui está.
+  it: Ecco qua.
+- Obrigada!
+  it: Grazie! (lo dice una donna)
+
+ex2:
+- [Bom] dia!
+  it: Buongiorno!
+- Uma bica, se faz [favor].
+  it: Un caffè, per favore.
+- Mais [alguma] coisa?
+  it: Altro?
+- [Aqui] está.
+  it: Ecco qua.
+
+culture.it:
+In Portogallo il caffè si beve in piedi al banco, come in Italia, e costa poco. La bica di Lisbona è un espresso corto e forte; chi lo vuole più lungo chiede um café cheio, chi lo vuole macchiato chiede um pingo. Accanto alla tazzina arriva spesso un pastel de nata, appena tiepido, da spolverare con cannella e zucchero a velo. Il più famoso si vende a Belém, vicino al monastero dos Jerónimos, in una pasticceria che lo prepara dal 1837 con una ricetta tenuta segreta; ma un buon pastel de nata si trova in quasi ogni pastelaria del paese.
+
+== 2 A1
+numeral: Segunda lição
+numeral.pron.it: së*guⁿ*da li*sauⁿ*
+title: Muito prazer
+title.it: Piacere
+
+dialogue:
+- Olá! Eu sou a Marta.
+  it: Ciao! Io sono Marta (la Marta).
+  pron.it: ò*la*! éu so a *mar*ta.
+- Muito prazer. Sou o Luca.
+  it: Piacere (molto piacere). Sono Luca (il Luca).
+  pron.it: *muiⁿ*tu pra*zér*. so u *lu*ca.
+- É italiano?
+  it: È italiano?
+  pron.it: è ita*lia*nu?
+- Sou, sim. E a Marta?
+  it: Sì (sono, sì). E lei (e la Marta)?
+  pron.it: so, siⁿ. i a *mar*ta?
+- Sou portuguesa. De Lisboa.
+  it: Sono portoghese. Di Lisbona.
+  pron.it: so purtu*ghé*za. dë lij*bó*a.
+- Muito prazer, Marta.
+  it: Piacere, Marta.
+  pron.it: *muiⁿ*tu pra*zér*, *mar*ta.
+
+sounds.it:
+1. La s in fondo alla parola fruscia come la sc di scena, ma breve: português si dice purtu*ghésh*. Al femminile la s sta tra due vocali e diventa una s sonora, come in rosa: portuguesa → purtu*ghé*za. Davanti a b, d, g, l, m, n, r, v lo stesso fruscio prende la voce e si scrive j: Lisboa → lij*bó*a.
+2. Il dittongo ou si dice come una sola o chiusa: sou → so. E muito ha una u nasale, anche se non si vede nessuna n: *muiⁿ*tu.
+3. La e da sola, la congiunzione e, si dice i: E a Marta? → i a *mar*ta?
+
+notes.it:
+1. Olá: ciao, salve. Si dice tra persone che si incontrano in modo informale, anche la prima volta, come a una festa. Eu vuol dire io.
+2. Eu sou a Marta: io sono Marta. Il portoghese mette l'articolo davanti al nome di persona, a Marta, o Luca, come in certe parti d'Italia si dice "la Marta". Lo vedremo meglio nella lezione 12.
+3. Muito prazer: piacere, letteralmente "molto piacere". È la formula normale quando ci si presenta; in italiano diciamo solo "piacere". Muito vuol dire molto.
+4. Sou: sono, dal verbo ser, essere. Come in italiano, il soggetto si può lasciare sottinteso: sou italiano, sono italiano. È italiano? vuol dire "(lei) è italiano?": é è la stessa forma per lui, lei e per il lei di cortesia.
+5. Sou, sim: sì. Per rispondere di sì il portoghese preferisce ripetere il verbo della domanda: É italiano? Sou, sim (sono, sì). Il solo sim suona più secco.
+6. E a Marta?: e lei? Per dare del lei a una persona appena conosciuta, i portoghesi spesso non usano un pronome ma il suo nome, con il verbo alla terza persona: "e la Marta?". È il modo più gentile e più comune; ne parleremo nella lezione di ripasso.
+7. Portuguesa, italiano: gli aggettivi di nazionalità cambiano al femminile come in italiano: português, portuguesa; italiano, italiana. Si scrivono con l'iniziale minuscola.
+
+ex1:
+- Olá!
+  it: Ciao!
+- Sou italiano.
+  it: Sono italiano.
+- Sou portuguesa.
+  it: Sono portoghese.
+- Muito prazer.
+  it: Piacere.
+- Sou de Lisboa.
+  it: Sono di Lisbona.
+
+ex2:
+- Eu [sou] a Marta.
+  it: Io sono Marta.
+- [Muito] prazer.
+  it: Piacere.
+- É [italiano]?
+  it: È italiano?
+- Sou [portuguesa]. De Lisboa.
+  it: Sono portoghese. Di Lisbona.
+
+culture.it:
+In Portogallo, quando ci si presenta, tra donne e tra un uomo e una donna ci si scambiano due baci sulle guance, dois beijinhos, cominciando dalla destra; tra uomini ci si stringe la mano. Anche al primo incontro il bacio è normale in un ambiente informale, a una festa o tra amici di amici. Al lavoro o con una persona molto più anziana, invece, la stretta di mano resta la scelta più sicura.
+
+== 3 A1
+numeral: Terceira lição
+numeral.pron.it: tër*sèi*ra li*sauⁿ*
+title: Tudo bem?
+title.it: Tutto bene?
+
+dialogue:
+- Bom dia, Dona Rosa! Tudo bem?
+  it: Buongiorno, signora Rosa! Tutto bene?
+  pron.it: boⁿ *di*a, *dó*na *rrò*za! *tu*du beiⁿ?
+- Tudo bem, obrigada. E o senhor?
+  it: Tutto bene, grazie. E lei?
+  pron.it: *tu*du beiⁿ, ubri*ga*da. i u së*gnór*?
+- Estou bem. Um pouco cansado.
+  it: Sto bene. Un po' stanco.
+  pron.it: 'sh*tó* beiⁿ. uⁿ *pó*cu caⁿ*sa*du.
+- Muito trabalho?
+  it: Tanto lavoro?
+  pron.it: *muiⁿ*tu tra*ba*gliu?
+- Sim, muito.
+  it: Sì, parecchio.
+  pron.it: siⁿ, *muiⁿ*tu.
+
+sounds.it:
+1. Il lh si dice gli, come in figlio: trabalho si legge tra*ba*gliu. Il nh si dice gn, come in bagno: senhor si legge së*gnór*.
+2. Nella parola estou la e iniziale quasi scompare: si dice 'sh*tó*, con la s che fruscia come sc di scena.
+
+notes.it:
+1. Tudo bem: tutto bene. È il modo più comune di chiedere "come va?", e si risponde con tudo bem o con estou bem (sto bene).
+2. Bom dia, Dona Rosa: il bom dia della lezione 1. Dona si mette davanti al nome di battesimo di una signora più grande, come tra vicini di casa.
+3. Obrigada: grazie, detto da una donna. Come nella lezione 1, la parola cambia con chi parla: un uomo dice obrigado.
+4. E o senhor?: e lei? Per dare del lei a un uomo si dice o senhor, per una donna a senhora, con il verbo alla terza persona, come in "E a Marta?" (lezione 2).
+5. Estou bem: sto bene. Estar serve per come si sta adesso; lo vedremo a fondo nella lezione 9.
+6. Um pouco cansado: un po' stanco. Cansado è maschile: per una donna si dice cansada, come portuguesa (lezione 2).
+7. Muito trabalho?: molto lavoro? Trabalho vuol dire lavoro, e il verbo trabalhar lo ritroverai nella lezione 5 (Mas este ano trabalho aqui).
+
+ex1:
+- Tudo bem?
+  it: Tutto bene?
+- Estou bem, obrigada.
+  it: Sto bene, grazie.
+- Estou um pouco cansado.
+  it: Sono un po' stanco.
+- Muito prazer, Dona Rosa.
+  it: Piacere, signora Rosa.
+- Sim, muito trabalho.
+  it: Sì, tanto lavoro.
+
+ex2:
+- [Tudo] bem?
+  it: Tutto bene?
+- Bom dia, Dona [Rosa]!
+  it: Buongiorno, signora Rosa!
+- Estou [bem], obrigada.
+  it: Sto bene, grazie.
+- [Um] pouco cansado.
+  it: Un po' stanco.
+- [Muito] trabalho?
+  it: Tanto lavoro?
+
+culture.it:
+In Portogallo si usa molto il titolo con il nome: Dona prima del nome di una signora più grande, Senhor e Senhora per chi non si conosce, e si dà del lei senza dire lei, ma con il senhor o la senhora.
+
+== 4 A1
+numeral: Quarta lição
+numeral.pron.it: *cuar*ta li*sauⁿ*
+title: Onde fica a estação?
+title.it: Dov'è la stazione?
+
+dialogue:
+- Desculpe, onde fica a estação do Rossio?
+  it: Scusi, dov'è la stazione del Rossio?
+  pron.it: dësh*cul*pë, *oⁿ*dë *fi*ca a 'shta*sauⁿ* du rru*si*u?
+- Ali, à direita.
+  it: Là, a destra.
+  pron.it: a*li*, a di*rèi*ta.
+- É longe?
+  it: È lontano?
+  pron.it: è *loⁿ*jë?
+- Não, é perto. Cinco minutos.
+  it: No, è vicino. Cinque minuti.
+  pron.it: nauⁿ, è *pèr*tu. *siⁿ*cu mi*nu*tush.
+- Obrigado!
+  it: Grazie!
+  pron.it: ubri*ga*du!
+- De nada.
+  it: Prego (di niente).
+  pron.it: dë *na*da.
+
+sounds.it:
+1. Il ão si dice auⁿ, con la voce che passa per il naso e scivola verso la u: não si legge nauⁿ, estação si legge 'shta*sauⁿ*.
+2. Fuori dall'accento la e si indebolisce: nella parola estação la prima e quasi non si sente, come se la parola cominciasse con la s.
+
+notes.it:
+1. Desculpe, onde fica a estação do Rossio?: scusi, dov'è la stazione del Rossio? Desculpe è la forma di cortesia con cui ci si rivolge a un estraneo; la costruzione che la spiega, l'imperativo, arriva nella lezione 29.
+2. Onde fica: dov'è. Ficar, per dire dove si trova un luogo, non ha un corrispondente preciso in italiano; in altri contesti vuol dire restare o diventare, e lo vedremo più avanti.
+3. A estação do Rossio: de più o si scrive do, come il "del" italiano. La stessa unione torna in do Algarve (lezione 6).
+4. Ali, à direita: ali vuol dire là, à è la contrazione di a più a (a direita, a destra). Direita vuol dire destra, non dritto: dritto si dice em frente.
+5. É longe? Não, é perto: lontano? No, vicino. Longe e perto sono opposti, e la domanda si fa solo con la voce, come in italiano.
+6. Cinco minutos: minutos è il plurale in -s, come minuto. I numeri da uno a cinque sono um/uma, dois/duas, três, quatro, cinco: dois e duas cambiano secondo il genere, come in duas horas (due ore).
+7. De nada: prego, letteralmente "di niente". L'uomo dice obrigado, come nella lezione 1 (obrigada per una donna).
+
+ex1:
+- Onde fica a estação?
+  it: Dov'è la stazione?
+- É perto?
+  it: È vicino?
+- Cinco minutos, obrigado.
+  it: Cinque minuti, grazie.
+- Ali, à direita.
+  it: Là, a destra.
+- Desculpe, é longe?
+  it: Scusi, è lontano?
+
+ex2:
+- Desculpe, onde [fica] a estação?
+  it: Scusi, dov'è la stazione?
+- A estação [do] Rossio.
+  it: La stazione del Rossio.
+- [Ali], à direita.
+  it: Là, a destra.
+- Não, é [perto].
+  it: No, è vicino.
+- [Cinco] minutos.
+  it: Cinque minuti.
+
+culture.it:
+La stazione del Rossio, a Lisbona, ha una facciata in stile neomanuelino con archi a ferro di cavallo, e da qui partono i treni per Sintra.
+
+== 5 A1
+numeral: Quinta lição
+numeral.pron.it: *chiⁿ*ta li*sauⁿ*
+title: Mora em Lisboa?
+title.it: Abita a Lisbona?
+
+dialogue:
+- Mora em Lisboa?
+  it: Abita a Lisbona?
+  pron.it: *mò*ra eiⁿ lij*bó*a?
+- Não, moro no Porto. E a senhora?
+  it: No, abito a Porto. E lei?
+  pron.it: nauⁿ, *mò*ru nu *pór*tu. i a së*gnó*ra?
+- Moro em Roma. Mas este ano trabalho aqui.
+  it: Abito a Roma. Ma quest'anno lavoro qui.
+  pron.it: *mò*ru eiⁿ *rró*ma. ma *zésh*të *a*nu tra*ba*gliu a*chi*.
+- Gosta de Lisboa?
+  it: Le piace Lisbona?
+  pron.it: *gòsh*ta dë lij*bó*a?
+- Gosto muito. Mas é cara.
+  it: Mi piace molto. Ma è cara.
+  pron.it: *gósh*tu *muiⁿ*tu. ma *zè* *ca*ra.
+- Como Roma.
+  it: Come Roma.
+  pron.it: *có*mu *rró*ma.
+
+sounds.it:
+1. La r iniziale di Roma è forte, detta in gola: *rró*ma. La r fra due vocali di mora è un solo colpo leggero di lingua: *mò*ra.
+
+notes.it:
+1. Mora em Lisboa?: abita a Lisbona? Mora è la terza persona di morar, abitare: non ha niente a che fare con morire.
+2. Moro no Porto: io abito a Porto. No è la contrazione di em più o: Porto vuole l'articolo, Lisboa no (em Lisboa), e sono usi da imparare così.
+3. E a senhora?: e lei? Come nella lezione 3 (E o senhor?), con la senhora per una donna.
+4. Mas este ano trabalho aqui: ma quest'anno lavoro qui. Moro e trabalho sono alla prima persona (io): i verbi in -ar, come morar e trabalhar, al presente hanno -o alla prima persona.
+5. Gosta de Lisboa?: le piace Lisbona? Gostar de vuol dire piacere, e la costruzione con de la vedremo bene nella lezione 25.
+6. Mas é cara: ma è cara. Caro e cara vogliono dire costoso; cara è femminile perché Lisboa è femminile.
+7. Como Roma: come Roma. Como vuol dire come, con il senso di "allo stesso modo".
+
+ex1:
+- Moro em Roma.
+  it: Abito a Roma.
+- Trabalho aqui.
+  it: Lavoro qui.
+- Gosto muito de Lisboa.
+  it: Mi piace molto Lisbona.
+- Mas Roma é cara.
+  it: Ma Roma è cara.
+- Moro em Lisboa, mas trabalho em Roma.
+  it: Abito a Lisbona, ma lavoro a Roma.
+
+ex2:
+- [Mora] em Lisboa?
+  it: Abita a Lisbona?
+- Não, [moro] no Porto.
+  it: No, abito a Porto.
+- Mas este ano [trabalho] aqui.
+  it: Ma quest'anno lavoro qui.
+- [Gosta] de Lisboa?
+  it: Le piace Lisbona?
+- Mas é [cara].
+  it: Ma è cara.
+
+culture.it:
+L'Alfa Pendular collega Lisbona e Porto in circa tre ore, ed è il treno più rapido per questa tratta.
+
+== 6 A1
+numeral: Sexta lição
+numeral.pron.it: *sèish*ta li*sauⁿ*
+title: Um sumo de laranja
+title.it: Una spremuta d'arancia
+
+dialogue:
+- Um sumo de laranja, se faz favor.
+  it: Una spremuta d'arancia, per favore.
+  pron.it: uⁿ *su*mu dë la*raⁿ*ja, së fash fa*vór*.
+- Natural ou de garrafa?
+  it: Fresca (naturale) o in bottiglia?
+  pron.it: natu*ral* o dë ga*rra*fa?
+- Natural.
+  it: Fresca.
+  pron.it: natu*ral*.
+- São quatro euros.
+  it: Sono quattro euro.
+  pron.it: sauⁿ *cua*tru *éu*rush.
+- Quatro euros? Por um sumo?
+  it: Quattro euro? Per una spremuta?
+  pron.it: *cua*tru *éu*rush? pur uⁿ *su*mu?
+- Por um sumo não, minha senhora: por três laranjas do Algarve.
+  it: Non per una spremuta, signora: per tre arance dell'Algarve.
+  pron.it: pur uⁿ *su*mu nauⁿ, *mi*gna së*gnó*ra: pur trésh la*raⁿ*jash du al*gar*vë.
+
+sounds.it:
+1. Davanti a n la a si fa nasale e la n non si dice: laranja si legge la*raⁿ*ja, con la a che passa per il naso.
+2. La rr di garrafa è forte, spesso in gola a Lisbona: garrafa si legge ga*rra*fa. La r semplice fra vocali è un colpo leggero, la rr è forte.
+
+notes.it:
+1. Um sumo de laranja: una spremuta d'arancia. Sumo vuol dire succo, e a Lisbona si dice sumo in ogni bar (in Brasile si dice suco).
+2. Natural ou de garrafa?: fresca o in bottiglia? Natural è la spremuta fatta al momento, de garrafa è in bottiglia; ou vuol dire o, e garrafa vuol dire bottiglia, non caraffa.
+3. Natural: la risposta breve, con la sola parola che serve, come si fa spesso in portoghese (lezione 2: Sou, sim).
+4. São quatro euros: sono quattro euro. São è il plurale di ser, essere; lo vedremo nella lezione di ripasso. Euros è plurale, come minutos (lezione 4).
+5. Por um sumo não: non per una spremuta. Per correggere qualcuno si dice la cosa e poi não, e subito dopo la cosa giusta: por um sumo não, por três laranjas. Di solito, invece, não va prima del verbo, come vedremo presto.
+6. Minha senhora: signora mia. È un modo cortese di rivolgersi a una cliente.
+7. Três laranjas do Algarve: tre arance dell'Algarve. Do è de + o, come nella lezione 4 (do Rossio). I numeri fino a venti li trovi tutti nella lezione di ripasso.
+
+ex1:
+- Um sumo natural, se faz favor.
+  it: Una spremuta fresca, per favore.
+- São três euros.
+  it: Sono tre euro.
+- Natural ou de garrafa?
+  it: Fresca o in bottiglia?
+- Quatro euros por um pastel de nata.
+  it: Quattro euro per una pasta alla crema.
+- Obrigada, minha senhora.
+  it: Grazie, signora.
+
+ex2:
+- Um [sumo] de laranja.
+  it: Una spremuta d'arancia.
+- [Natural] ou de garrafa?
+  it: Fresca o in bottiglia?
+- São [quatro] euros.
+  it: Sono quattro euro.
+- Por um sumo [não].
+  it: Non per una spremuta.
+- [Minha] senhora.
+  it: Signora mia.
+
+culture.it:
+In Portogallo il succo d'arancia appena spremuto è un classico dei caffè, e le arance dell'Algarve, la regione più a sud del Portogallo continentale, sono famose.
+
+aside.it:
+Domani c'è la lezione di ripasso: niente di nuovo, solo tutto in ordine.
+
+== 7 A1
+kind: revision
+numeral: Sétima lição
+numeral.pron.it: *sè*tima li*sauⁿ*
+title: Revisão
+title.it: Ripasso
+
+dialogue:
+- Desculpe, onde fica a estação do Rossio?
+  it: Scusi, dov'è la stazione del Rossio?
+  pron.it: dësh*cul*pë, *oⁿ*dë *fi*ca a 'shta*sauⁿ* du rru*si*u?
+  refs: 4
+- A estação? Ali, à direita.
+  it: La stazione? Là, a destra.
+  pron.it: a 'shta*sauⁿ*? a*li*, a di*rèi*ta.
+  refs: 4
+- É longe?
+  it: È lontano?
+  pron.it: è *loⁿ*jë?
+  refs: 4
+- Não, é perto. Cinco minutos.
+  it: No, è vicino. Cinque minuti.
+  pron.it: nauⁿ, è *pèr*tu. *siⁿ*cu mi*nu*tush.
+  refs: 4
+- Obrigado! A senhora mora em Lisboa?
+  it: Grazie! Lei abita a Lisbona?
+  pron.it: ubri*ga*du! a së*gnó*ra *mò*ra eiⁿ lij*bó*a?
+  refs: 4 5
+- Não, moro no Porto. E o senhor?
+  it: No, abito a Porto. E lei?
+  pron.it: nauⁿ, *mò*ru nu *pór*tu. i u së*gnór*?
+  refs: 3 5
+- Sou italiano. Moro em Roma.
+  it: Sono italiano. Abito a Roma.
+  pron.it: so ita*lia*nu. *mò*ru eiⁿ *rró*ma.
+  refs: 2 5
+- Muito prazer. Gosta de Lisboa?
+  it: Piacere. Le piace Lisbona?
+  pron.it: *muiⁿ*tu pra*zér*. *gòsh*ta dë lij*bó*a?
+  refs: 2 5
+- Gosto muito. Mas a estação é à direita?
+  it: Mi piace molto. Ma la stazione è a destra?
+  pron.it: *gósh*tu *muiⁿ*tu. ma za 'shta*sauⁿ* è a di*rèi*ta?
+  refs: 4 5
+- À direita... ou não. Eu moro no Porto!
+  it: A destra... o no. Io abito a Porto!
+  pron.it: a di*rèi*ta... o nauⁿ. éu *mò*ru nu *pór*tu!
+  refs: 5 6
+
+notes.it:
+Hai fatto sei lezioni e hai già in mano frasi per un caffè, per chiedere la strada e per presentarti. Non serve imparare a memoria queste tabelle: i dubbi sono normali, e il portoghese si impara ascoltandolo e parlando, non solo sui libri. Qui trovi tutto in ordine, da riprendere quando ti serve.
+
+1. Vocali e accento (lezioni 1, 2, 4, 6)
+
+| Vocale | Accentata | Fuori dall'accento | Esempio |
+|---|---|---|---|
+| o | ò, ó | u | obrigada → ubri*ga*da (1); um sumo → uⁿ *su*mu (6) |
+| e | è, é | ë, oppure muta | de Lisboa → dë lij*bó*a (2); estação → 'shta*sauⁿ* (4) |
+
+Regola: l'accento cade sulla penultima sillaba, come in italiano; cade sull'ultima nelle parole che finiscono in r, l, z, i, u o in una vocale nasale: aqui (1), natural (6), estação (4). Quando c'è un accento scritto, vale quello.
+
+2. Vocali nasali e dittonghi (lezioni 1, 2, 3, 4, 5, 6)
+
+| Scrittura | Figurata | Esempio |
+|---|---|---|
+| om, um | oⁿ, uⁿ | bom dia → boⁿ *di*a (1); um → uⁿ (1) |
+| im | iⁿ | sim → siⁿ (2) |
+| em | eiⁿ | em Lisboa → eiⁿ lij*bó*a (5) |
+| ão | auⁿ | não → nauⁿ (4) |
+| an, a prima di n | aⁿ | laranja → la*raⁿ*ja (6) |
+| ui nasale | uiⁿ | muito → *muiⁿ*tu (3) |
+| ou | o | sou → so (2) |
+
+3. La s, lh, nh e la rr (lezioni 1, 2, 3, 4)
+
+- La s finale di parola si dice sh: faz → fash (1), se faz favor → së fash fa*vór*.
+- La s davanti a una vocale, anche della parola dopo, si dice z: mais alguma → mai zal*gu*ma (1).
+- La s fra due vocali si dice z sonora: portuguesa → purtu*ghé*za (2).
+- La s davanti a b, d, g, l, m, n, r, v si dice j: Lisboa → lij*bó*a (2).
+- Il lh si dice gli e il nh si dice gn: trabalho → tra*ba*gliu (3); senhor → së*gnór* (3).
+- La r iniziale di parola è forte, detta in gola: Rossio → rru*si*u (4).
+
+4. Ser, essere, al presente (lezioni 2, 6)
+
+| Persona | Forma | Esempio |
+|---|---|---|
+| eu | sou | Sou portuguesa (2) |
+| tu | és | completamento |
+| você, o senhor, a senhora, ele, ela | é | É italiano? (2); É longe? (4) |
+| nós | somos | completamento |
+| vocês, os senhores, eles, elas | são | São quatro euros (6) |
+
+Ser dice che cosa è una cosa o una persona: sou italiano, sono italiano; é cara, è cara (5).
+
+5. Le forme di cortesia (lezioni 2, 3, 4, 5, 6)
+
+- O senhor o a senhora si usano con gli sconosciuti e con le persone più grandi, e il verbo va alla terza persona: E o senhor? (3); E a senhora? (5).
+- Anche il nome va con la terza persona: E a Marta? (2).
+- Dona si mette davanti al nome di battesimo di una signora più grande: Dona Rosa (3).
+- Minha senhora (6) è un modo cortese di dire signora.
+- Il tu e il você li vedremo più avanti: per ora usa il senhor e la senhora con gli adulti che non conosci.
+
+6. Articoli, genere e plurale (lezioni 1, 2, 4, 5, 6)
+
+| | Maschile | Femminile |
+|---|---|---|
+| un/una | um (1, 6) | uma (1) |
+| il/la | o (2, 3, 5) | a (2, 4, 5) |
+| i/le | os | as |
+
+Il plurale si fa con la -s: minutos (4), euros (6), laranjas (6). Con i nomi di città l'articolo non è fisso: o Porto vuole l'articolo (no Porto, 5), Lisboa no (em Lisboa, 5).
+
+7. I numeri da 1 a 20 (lezioni 1, 4, 6)
+
+| Numero | Portoghese | Numero | Portoghese |
+|---|---|---|---|
+| 1 | um, uma (1) | 11 | onze |
+| 2 | dois, duas (lezione 4, nota 6) | 12 | doze |
+| 3 | três (6) | 13 | treze |
+| 4 | quatro (6) | 14 | catorze |
+| 5 | cinco (4) | 15 | quinze |
+| 6 | seis | 16 | dezasseis |
+| 7 | sete | 17 | dezassete |
+| 8 | oito | 18 | dezoito |
+| 9 | nove | 19 | dezanove |
+| 10 | dez | 20 | vinte |
+
+Chiudiamo la settimana: il ripasso è fatto. Ci vediamo nella lezione 8, dove troverai una camera per stanotte.

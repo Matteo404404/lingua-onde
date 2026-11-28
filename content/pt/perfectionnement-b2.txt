@@ -484,7 +484,7 @@ dialogue:
   it: Spiegherò tutto questo nella prossima lezione, tra un attimo (da qui a niente).
 
 notes.it:
-1. Logo (frase 1): davanti al presente o al futuro vuol dire "più tardi, oggi stesso": até logo (frase 17), "a più tardi"; logo à noite, "stasera"; logo se vê, "poi si vedrà". Dopo un verbo al passato vuol dire invece "subito": fui logo à esquadra, "sono andato subito al commissariato" (Fondamenti, lezione 57). Logo a seguir è "subito dopo", e logo que è "appena": logo que saíram, "appena sono usciti" (Fondamenti, lezione 67).
+1. Logo (frase 1) ha due facce. Da solo, accanto a un verbo, vuol dire "subito": fui logo à esquadra, "sono andato subito al commissariato" (Fondamenti, lezione 57). Nei saluti e con le parti del giorno vuol dire "più tardi, oggi stesso": até logo (frase 17), "a più tardi"; logo à noite, "stasera"; logo se vê, "poi si vedrà". Logo a seguir è "subito dopo", e logo que è "appena": logo que saíram, "appena sono usciti" (Fondamenti, lezione 67).
 2. Já (frase 2): vuol dire "già", ma anche "subito, adesso": vou já (frase 10), "arrivo subito"; até já (frase 14), "a tra poco". Con não è "non più": já não há (Fondamenti, lezione 20). Já a seguir è "subito dopo": Já a seguir falamos, "ne parliamo subito dopo".
 3. Onde ficava a Sé (frase 5): ficar dice dove si trova un luogo. Nella domanda indiretta il portoghese tiene l'indicativo, ficava, dove l'italiano preferisce il congiuntivo, "dove fosse". La Sé è la cattedrale: a Lisbona, a Porto e in altre città si chiama così.
 4. É já ali (frase 6) vuol dire "è proprio lì, è qui vicino": il già rafforza la vicinanza. Lo si dice indicando con la mano, e non dice nulla della salita.
@@ -615,3 +615,581 @@ ex2:
   it: Gli ho chiesto il libro, ma lui non me l'ha dato.
 - No sábado vou passar [pelo] Minho.
   it: Sabato passerò per il Minho.
+
+== 8 B2
+numeral: Oitava lição
+title: O pessimista
+title.it: Il pessimista
+
+dialogue:
+- O Armando nunca esperou nada de bom da vida, e acha que é assim que deve ser.
+  it: Armando non si è mai aspettato niente di buono dalla vita, e ritiene che così debba essere.
+- Quando acorda, diz logo: «Isto vai correr mal», ainda antes de abrir a janela.
+  it: Quando si sveglia dice subito: «Va a finire male», prima ancora di aprire la finestra.
+- Já em novo costumava levar o guarda-chuva em agosto e a camisola para a praia, porque no verão nunca se sabe.
+  it: Già da giovane era solito portare l'ombrello ad agosto e il maglione in spiaggia, perché d'estate non si sa mai.
+- Irrita-o que as pessoas estejam bem-dispostas sem motivo, e custa-lhe que os outros sejam felizes.
+  it: Lo irrita che la gente sia di buonumore senza motivo, e gli pesa che gli altri siano felici.
+- Estranha que um desconhecido lhe diga «Bom dia», e desconfia de quem sorri na fila do multibanco.
+  it: Trova strano che uno sconosciuto gli dica «buongiorno», e diffida di chi sorride in fila al bancomat.
+- Quando o comboio chega à hora, fica admirado, e não se fia nos horários.
+  it: Quando il treno arriva in orario, resta sorpreso, e non si fida degli orari.
+- Não é que seja infeliz: tem o hábito de se preparar para o pior, e isso dá-lhe uma certa paz.
+  it: Non è che sia infelice: ha l'abitudine di prepararsi al peggio, e questo gli dà una certa pace.
+- Quando lhe perguntam como está, responde: «Assim-assim», e não acrescenta mais nada.
+  it: Quando gli chiedono come sta, risponde: «Così così», e non aggiunge altro.
+- Para ele, as coisas estão sempre bastante caras, o bolo das festas está sempre um bocado seco, e as festas não são nada divertidas.
+  it: Per lui le cose sono sempre piuttosto care, la torta delle feste è sempre un po' secca, e le feste non sono per niente divertenti.
+- Os vizinhos dizem que nunca o viram rir, e ele responde que não há motivo para tanto.
+  it: I vicini dicono che non l'hanno mai visto ridere, e lui risponde che non ce n'è motivo.
+- Gosta imenso de ter razão, e repete: «Eu bem dizia!»
+  it: Gli piace moltissimo avere ragione, e ripete: «L'avevo detto, io!»
+- Quando as coisas correm bem, é porque ainda não se viu a parte má.
+  it: Quando le cose vanno bene, è perché non si è ancora vista la parte brutta.
+- Um dia, o Armando ganha o Euromilhões, e a notícia chega-lhe por SMS às sete da manhã.
+  it: Un giorno Armando vince l'Euromilhões, e la notizia gli arriva per SMS alle sette del mattino.
+- Lê a mensagem duas vezes, olha para o bilhete, e fica uns minutos sem dizer nada.
+  it: Legge il messaggio due volte, guarda il biglietto, e resta qualche minuto senza dire niente.
+- Por fim, com o bilhete na mão, diz: «Agora é que vão ser elas.»
+  it: Alla fine, con il biglietto in mano, dice: «Ora cominciano i guai» (alla lettera: «ora saranno loro»).
+
+notes.it:
+1. Acha que é assim (frase 1): achar que di solito vuole l'indicativo, come acho que (Fondamenti, lezione 39). L'italiano qui vuole il congiuntivo: acha que é assim que deve ser, "ritiene che così debba essere". Con la negazione anche il portoghese passa spesso al congiuntivo: não acho que seja verdade, "non credo che sia vero".
+2. Já em novo costumava levar (frase 3): em novo è "da giovane"; costumar più infinito vuol dire "essere solito", e per un'abitudine passata sta all'imperfetto. Esempi: Costumo ir à praia em setembro, "di solito vado al mare a settembre"; Costumávamos jantar tarde, "eravamo soliti cenare tardi". Anche l'imperfetto da solo dice un'abitudine: levava sempre o guarda-chuva, "portava sempre l'ombrello". Costumava dice più chiaramente che si trattava di un'abitudine ripetuta, non di un fatto isolato.
+3. Irrita-o que (frase 4): irritar vuole il pronome diretto, o, e vuol dire "lo irrita". Dopo il verbo di sentimento che vuole il congiuntivo, come in italiano: Irrita-me que chegues tarde, "mi irrita che tu arrivi tardi". Custar + lhe vuol dire "pesare, dispiacere": custa-lhe que os outros sejam felizes, "gli pesa che gli altri siano felici".
+4. Estranha que um desconhecido lhe diga (frase 5): estranhar vuol dire "trovare strano", e vuole il congiuntivo dopo que: Estranho que ele ainda não tenha chegado, "trovo strano che non sia ancora arrivato". Lhe è il complemento indiretto, "a lui": lhe diga, "gli dica". Il pronome sta prima del verbo perché c'è que davanti.
+5. Ter o hábito de (frase 7): avere l'abitudine di, più infinito, come in italiano. Esempio: Tenho o hábito de tomar um café antes de sair, "ho l'abitudine di prendere un caffè prima di uscire". Il pronome riflessivo sta prima dell'infinito: de se preparar, "di prepararsi". Attenzione: hábito non vuol dire "abito", il vestito, che in portoghese è roupa.
+6. Assim-assim (frase 8): "così così", la risposta di chi non si sbilancia. Le due parti si scrivono con il trattino perché è una sola espressione. Esempio: Como correu o exame? Assim-assim, "com'è andato l'esame? Così così".
+7. Bastante (frase 9): davanti a un aggettivo, come avverbio, vuol dire "abbastanza, piuttosto". Esempi: as coisas estão sempre bastante caras, "le cose sono sempre piuttosto care"; O filme é bastante bom, "il film è abbastanza bello". Davanti a un nome, bastante vuol dire "parecchio": Havia bastante gente, "c'era parecchia gente".
+8. Um bocado (frase 9): familiare, "un po', piuttosto": o bolo está um bocado seco, "la torta è un po' secca". Si usa anche con i verbi: Esperei um bocado, "ho aspettato un po'". In un testo scritto si preferisce um pouco, ma nel parlato di Lisbona um bocado è la forma naturale.
+9. Não são nada divertidas (frase 9): nada davanti a un aggettivo rafforza la negazione: "per niente, affatto". Esempio: A comida não estava nada má, "il cibo non era affatto male". Con il verbo: Não gosto nada, "non mi piace per niente". Come pronome, nada vuol dire "niente": não disse nada, "non ha detto niente".
+10. Gosta imenso (frase 11): imenso come avverbio, con gostar, vuol dire "moltissimo" ed è familiare. Come aggettivo è "immenso": um mar imenso, "un mare immenso". Esempio: Gosto imenso da torta de laranja, "mi piace moltissimo la torta all'arancia".
+11. Eu bem dizia (frase 11): l'imperfetto esprime una cosa già detta nel momento in cui si rivela vera, e si usa nelle esclamazioni: Eu bem te dizia!, "te l'avevo detto!". L'italiano usa il trapassato prossimo, "l'avevo detto"; bem rafforza, come "io sì che".
+12. Euromilhões (frase 13): la lotteria europea che si gioca in Portogallo e in altri paesi, già incontrata nella lezione 73 dei Fondamenti (Se eu ganhasse o Euromilhões). Si dice ganhar o Euromilhões, e anche ganhar no Euromilhões.
+13. Agora é que vão ser elas (frase 15): modo di dire: "ora cominciano i guai". Alla lettera "adesso sì che saranno loro": elas non si riferisce a niente di preciso, come il "la" dell'italiano "farla grossa". Agora é que mette in rilievo il momento in cui qualcosa comincia davvero: Agora é que começa a parte difícil, "adesso comincia la parte difficile".
+
+ex1:
+- Costumávamos jantar tarde, quando os meus avós ainda estavam cá.
+  it: Eravamo soliti cenare tardi, quando i miei nonni erano ancora qui.
+- Irrita-me que o autocarro chegue sempre tarde.
+  it: Mi irrita che l'autobus arrivi sempre tardi.
+- Tenho o hábito de tomar um café antes de sair de casa.
+  it: Ho l'abitudine di prendere un caffè prima di uscire di casa.
+- O filme foi bastante bom, mas o fim foi um bocado mau.
+  it: Il film è stato abbastanza bello, ma il finale è stato un po' brutto.
+- Estranho que ele ainda não tenha chegado.
+  it: Trovo strano che lui non sia ancora arrivato.
+
+ex2:
+- Ela [costumava] jantar cedo, antes do trabalho.
+  it: Lei era solita cenare presto, prima del lavoro.
+- Irrita-me que os vizinhos [façam] barulho à noite.
+  it: Mi irrita che i vicini facciano rumore di notte.
+- Ele fala [bastante] bem português.
+  it: Lui parla abbastanza bene il portoghese.
+- Gosto [imenso] do bolo de laranja.
+  it: Mi piace moltissimo la torta all'arancia.
+- O filme não é [nada] mau.
+  it: Il film non è affatto male.
+
+== 9 B2
+numeral: Nona lição
+title: Ficar
+title.it: Restare, diventare, stare
+
+dialogue:
+- A Beatriz e o Duarte prepararam uma festa surpresa para os pais, que faziam quarenta anos de casamento no sábado.
+  it: Beatriz e Duarte hanno preparato una festa a sorpresa per i genitori, che sabato compivano quarant'anni di matrimonio.
+- Quando a Beatriz viu a lista dos convidados, ficou de boca aberta: eram sessenta pessoas.
+  it: Quando Beatriz ha visto la lista degli invitati è rimasta a bocca aperta: erano sessanta persone.
+- O Duarte ficou sem palavras, e depois disse que ainda faltavam os tios.
+  it: Duarte è rimasto senza parole, e poi ha detto che mancavano ancora gli zii.
+- Quando fizeram as contas ao jantar, ficaram com os cabelos em pé.
+  it: Quando hanno fatto i conti della cena, gli si sono rizzati i capelli (sono rimasti con i capelli in piedi).
+- Convidaram também os vizinhos, para não ficarem mal vistos.
+  it: Hanno invitato anche i vicini, per non fare brutta figura (per non restare mal visti).
+- O salão ficou caro, mas valeu a pena, e o bolo ficou encomendado na pastelaria da esquina.
+  it: La sala è venuta cara, ma ne è valsa la pena, e la torta è stata ordinata alla pasticceria all'angolo.
+- A mãe não sabia de nada, e o Duarte dizia: «Quando souber da festa, vai ficar contente.»
+  it: La madre non sapeva niente, e Duarte diceva: «Quando saprà della festa, sarà contenta.»
+- O pai ficou de pé atrás quando o Duarte lhe pediu que ficasse em casa no sábado à tarde.
+  it: Il padre si è messo sulla difensiva (è rimasto con il piede indietro) quando Duarte gli ha chiesto di restare a casa sabato pomeriggio.
+- A mãe ficou com a pulga atrás da orelha quando viu o Duarte sair da pastelaria com uma caixa.
+  it: La madre si è insospettita (è rimasta con la pulce dietro l'orecchio) quando ha visto Duarte uscire dalla pasticceria con una scatola.
+- Quando o pai lhe perguntou porquê, a Beatriz ficou a olhar para ele, sem saber o que dizer.
+  it: Quando il padre le ha chiesto perché, Beatriz è rimasta a guardarlo senza sapere che cosa dire.
+- A tia ficou de mal com o Duarte, porque ele se esqueceu de lhe dizer a hora.
+  it: La zia ha tenuto il broncio a Duarte, perché lui si era dimenticato di dirle l'ora.
+- O tio Alberto ficou de cama com gripe, e mandou um presente.
+  it: Lo zio Alberto è rimasto a letto con l'influenza, e ha mandato un regalo.
+- Na sexta-feira à noite, o bolo ficou à espera no frigorífico, e o Duarte ficou a dever um favor ao irmão, que trouxe as cadeiras.
+  it: Venerdì sera la torta è rimasta ad aspettare in frigorifero, e Duarte è rimasto in debito di un favore con il fratello, che ha portato le sedie.
+- No sábado, o salão estava cheio, e os convidados ficaram-se pelo vinho branco, porque o tinto estava quente.
+  it: Sabato la sala era piena, e gli invitati si sono fermati al vino bianco, perché il rosso era caldo.
+- Às oito da noite ligou a mãe: estavam cansados, e ficaram em casa.
+  it: Alle otto di sera ha chiamato la madre: erano stanchi, e sono rimasti a casa.
+- Quando os convidados foram embora, ficaram os dois sozinhos no salão, com sessenta copos sujos e um bolo intacto.
+  it: Quando gli invitati se ne sono andati, sono rimasti loro due soli nella sala, con sessanta bicchieri sporchi e una torta intatta.
+- A Beatriz olhou para o Duarte, e o Duarte olhou para o bolo.
+  it: Beatriz ha guardato Duarte, e Duarte ha guardato la torta.
+- «Pois», disse a Beatriz, «ficámos a ver navios. Pelo menos o bolo ficou para nós.»
+  it: «Già», ha detto Beatriz, «siamo rimasti a bocca asciutta (a guardare le navi). Almeno la torta è rimasta a noi.»
+
+notes.it:
+1. Ficar ha i sensi che conosci dalla lezione 48 di Fondamenti: stare in un luogo (onde fica a estação?), restare, diventare, andare bene a qualcuno (Este vestido fica-me bem?, "questo vestito mi sta bene?"). Nelle espressioni di questa lezione il senso è quasi sempre "restare" o "diventare", e l'italiano usa spesso un altro verbo (Fondamenti, lezione 48).
+2. Ficou de boca aberta (frase 2): "è rimasta a bocca aperta", per la sorpresa. Ficar de + nome dice in che posizione o in che stato si resta: ficar de pé, "restare in piedi"; ficar de cama (frase 12), "restare a letto", per una malattia: ficou de cama com gripe, "è rimasto a letto con l'influenza".
+3. Ficou sem palavras (frase 3): ficar sem + nome è "restare senza": ficar sem dinheiro, "restare senza soldi"; ficar sem palavras, "restare senza parole". Faltavam os tios: faltar al plurale, "mancavano gli zii".
+4. Ficaram com os cabelos em pé (frase 4): "gli si sono rizzati i capelli", per lo spavento o, come qui, per una cifra. Alla lettera "sono rimasti con i capelli in piedi". Fazer as contas a qualcosa è "fare i conti di qualcosa".
+5. Para não ficarem mal vistos (frase 5): ficar mal visto è "fare brutta figura, essere giudicato male"; il contrario è ficar bem visto. Ficarem è l'infinito personale, con la desinenza di loro, dopo para (Fondamenti, lezione 46).
+6. O salão ficou caro (frase 6): ficar + aggettivo dice un risultato, qui "venire a costare". Se è una qualità stabile si usa ser: o salão é caro, "la sala è cara".
+7. O bolo ficou encomendado (frase 6): ficar + participio dice che una cosa è fatta e resta così; l'italiano usa essere: "la torta è stata ordinata". Esempio: O jantar ficou marcado para as nove, "la cena è stata fissata per le nove".
+8. Quando souber, vai ficar contente (frase 7): dopo quando, per ciò che accadrà, il congiuntivo futuro, souber, dove l'italiano ha il futuro, "quando saprà" (Fondamenti, lezione 43). Vai ficar contente è "sarà contenta": ficar dice che lo diventerà; está contente direbbe che lo è già.
+9. Ficou de pé atrás (frase 8): ficar de pé atrás, con qualcuno o con qualcosa, è "mettersi sulla difensiva, diffidare". Alla lettera "restare con il piede indietro". Esempio: Fico de pé atrás com quem me promete tudo, "diffido di chi mi promette tutto". Pediu-lhe que ficasse: pedir que vuole il congiuntivo, qui imperfetto perché il verbo principale è al passato, come l'italiano "gli ha chiesto che restasse", più spesso "di restare".
+10. Ficou com a pulga atrás da orelha (frase 9): "si è insospettita"; alla lettera "è rimasta con la pulce dietro l'orecchio", l'immagine della "pulce nell'orecchio" italiana. In Fondamenti, lezione 95, hai visto estar com a pulga atrás da orelha, che dice lo stato; ficar dice il momento in cui il sospetto nasce.
+11. Ficou a olhar para ele (frase 10): ficar a + infinito è "restare a fare qualcosa": "è rimasta a guardarlo". Esempio: Fiquei a ver televisão até tarde, "sono rimasto a guardare la televisione fino a tardi".
+12. Ficou de mal com o Duarte (frase 11): ficar de mal com alguém è "tenere il broncio a qualcuno, non parlargli più"; il contrario, per fare la pace, è ficar de bem. Porque ele se esqueceu: il pronome prima del verbo, dopo porque.
+13. O bolo ficou à espera (frase 13): ficar à espera è "restare ad aspettare"; estar à espera (lezione 3, nota 11) dice lo stato di chi aspetta. Esempio: Fiquei à espera de notícias, "sono rimasto in attesa di notizie".
+14. Ficou a dever um favor ao irmão (frase 13): ficar a dever è "restare in debito": ficar a dever dinheiro, "restare a dovere dei soldi". Tra amici: Fico-te a dever uma, "te ne devo una".
+15. Ficaram-se pelo vinho branco (frase 14): ficar-se por è "fermarsi a, limitarsi a". Esempio: Fiquei-me pelo café, "mi sono fermato al caffè"; Ficámo-nos pelas primeiras páginas, "ci siamo fermati alle prime pagine". Il tinto è il vino rosso: vinho tinto.
+16. Ficaram em casa (frase 15), ficaram os dois sozinhos (frase 16): ficar nel senso più semplice, "restare". Nella frase 16 il soggetto viene dopo il verbo: ficaram os dois, "sono rimasti loro due".
+17. Ficámos a ver navios (frase 18): "siamo rimasti a bocca asciutta"; l'immagine è di chi guarda dalla riva le navi partire senza di lui. O bolo ficou para nós: ficar para alguém è "restare a qualcuno, toccare a qualcuno". Esempio: O último pedaço ficou para ti, "l'ultimo pezzo è rimasto a te".
+18. Le espressioni di questa lezione, con il numero della frase e della nota:
+ficar de boca aberta (frase 2, nota 2)
+ficar sem palavras (frase 3, nota 3)
+ficar com os cabelos em pé (frase 4, nota 4)
+ficar mal visto (frase 5, nota 5)
+ficar caro (frase 6, nota 6)
+ficar encomendado (frase 6, nota 7)
+ficar de pé atrás (frase 8, nota 9)
+ficar com a pulga atrás da orelha (frase 9, nota 10)
+ficar a olhar (frase 10, nota 11)
+ficar de mal com alguém (frase 11, nota 12)
+ficar de cama (frase 12, nota 2)
+ficar à espera (frase 13, nota 13)
+ficar a dever (frase 13, nota 14)
+ficar-se por (frase 14, nota 15)
+ficar a ver navios (frase 18, nota 17)
+ficar para alguém (frase 18, nota 17)
+
+ex1:
+- O carro novo fica-me muito caro.
+  it: La macchina nuova mi viene a costare moltissimo.
+- De quem ficaste à espera?
+  it: Chi stavi aspettando? (a un amico)
+- Ele ficou de mal com a irmã, por causa do jantar.
+  it: Ha tenuto il broncio alla sorella per via della cena.
+- Fiquei a dever um favor à minha vizinha, que me guardou o gato.
+  it: Devo un favore alla mia vicina, che mi ha tenuto il gatto.
+- Com este frio, ficou em casa toda a tarde.
+  it: Con questo freddo è rimasto in casa tutto il pomeriggio.
+
+ex2:
+- Ela [ficou] de boca aberta quando viu o preço.
+  it: Lei è rimasta a bocca aperta quando ha visto il prezzo.
+- O salão [ficou] caro, mas valeu a pena.
+  it: La sala è venuta cara, ma ne è valsa la pena.
+- Ao ouvir isto, o pai [ficou] com a pulga atrás da orelha.
+  it: Sentendo questo, il padre si è insospettito.
+- Ele [ficou] sem palavras quando ouviu a notícia.
+  it: È rimasto senza parole quando ha sentito la notizia.
+- Fiquei-me [pelo] café, porque o bolo estava caro.
+  it: Mi sono fermato al caffè, perché la torta era cara.
+
+== 10 B2
+numeral: Décima lição
+title: A cunha
+title.it: La raccomandazione
+
+dialogue:
+- Neste país não se precisa de muito: basta conhecer alguém que conheça alguém.
+  it: In questo paese non serve molto: basta conoscere qualcuno che conosca qualcuno.
+- Uma pessoa pede uma consulta no centro de saúde, e a resposta é sempre a mesma: daqui a três meses.
+  it: Uno chiede una visita all'ambulatorio, e la risposta è sempre la stessa: fra tre mesi.
+- Mas há sempre quem meta uma cunha: o primo da cunhada trabalha lá, e a consulta é na quinta-feira.
+  it: Ma c'è sempre chi fa una raccomandazione: il cugino della cognata lavora lì, e la visita è giovedì.
+- Nas escolas, as listas de espera são longas; quem tem cunha não espera nada.
+  it: Nelle scuole le liste d'attesa sono lunghe; chi ha una raccomandazione non aspetta affatto.
+- A carta de condução também se tira depressa, desde que se conheça alguém na escola de condução.
+  it: Anche la patente si prende in fretta, purché si conosca qualcuno nell'autoscuola.
+- Uma pessoa tenta fazer tudo pelas regras, mas as regras são para quem não tem primos.
+  it: Uno cerca di fare tutto secondo le regole, ma le regole sono per chi non ha cugini.
+- Eu fiz tudo pelas regras durante anos, e sabem o que ganhei? Nada.
+  it: Ho fatto tutto secondo le regole per anni, e sapete che cosa ho ottenuto? Niente.
+- Vergonha! O primo do meu vizinho entrou para a câmara sem concurso, porque o pai conhece o presidente da câmara.
+  it: Vergogna! Il cugino del mio vicino è entrato in comune senza concorso, perché il padre conosce il sindaco.
+- E ninguém diz nada, porque toda a gente tem alguém a quem pedir alguma coisa.
+  it: E nessuno dice niente, perché tutti hanno qualcuno a cui chiedere qualcosa.
+- Cada um tem o seu primo, o seu cunhado, o seu amigo do liceu, e assim o país anda para a frente.
+  it: Ognuno ha il suo cugino, il suo cognato, il suo amico del liceo, e così il paese va avanti.
+- Quando se perde um documento, a repartição manda-nos para outra repartição, e essa manda-nos de volta.
+  it: Quando si perde un documento, l'ufficio ci manda in un altro ufficio, e quello ci rimanda indietro.
+- Dizem que noutros sítios a burocracia demora meses, mas aqui, com um telefonema, tudo fica resolvido em dois dias.
+  it: Dicono che altrove la burocrazia richiede mesi, ma qui, con una telefonata, tutto si risolve in due giorni.
+- A gente sabe isto, mas ninguém se queixa em voz alta, porque é preciso conhecer alguém até para se queixar.
+  it: Noi lo sappiamo, ma nessuno si lamenta ad alta voce, perché bisogna conoscere qualcuno perfino per lamentarsi.
+- Eu, claro, sou contra as cunhas: sempre fui, e disse-o a toda a gente.
+  it: Io, naturalmente, sono contro le raccomandazioni: lo sono sempre stato, e l'ho detto a tutti.
+- Se alguém me pedir uma cunha, digo que não, e digo-o com a cara séria.
+  it: Se qualcuno mi chiede una raccomandazione, dico di no, e lo dico con la faccia seria.
+- E, se precisarem de um bom canalizador, conheço um. É meu primo.
+  it: E se avete bisogno di un bravo idraulico, ne conosco uno. È mio cugino.
+
+notes.it:
+1. Não se precisa de muito (frase 1): se davanti a un verbo di terza persona singolare vuol dire "si" generico, "uno". Qui precisar de vuole la preposizione: não se precisa de muito, "non serve molto". Lo stesso se vale per Diz-se que (nota 9).
+2. Uma pessoa (frase 2 e frase 6): alla lettera "una persona", è il "uno" generico dell'italiano, e vuole il verbo alla terza persona singolare: uma pessoa pede, "uno chiede". Nel parlato spesso vuol dire "io", detto con un po' di distacco: uma pessoa cansa-se, "mi stanco". Il tono è quello di chi parla di sé come di un caso generale.
+3. Há sempre quem meta (frase 3): há quem vuole il congiuntivo, come nella lezione 6, nota 10: c'è chi, c'è qualcuno che, "c'è sempre qualcuno che fa". Meter uma cunha vuol dire "fare una raccomandazione", alla lettera "mettere un cuneo"; cunha è il cuneo, e l'espressione è familiare. Esempio: Meteu uma cunha para o filho, "ha fatto una raccomandazione per il figlio".
+4. Quem tem cunha (frase 4): quem vuol dire "chi" senza un antecedente, e il verbo sta all'indicativo: quem tem, "chi ha". Esempio: Quem chega primeiro é atendido primeiro, "chi arriva prima viene servito prima". Anche in italiano il verbo è all'indicativo, e il portoghese non cambia modo.
+5. Desde que se conheça (frase 5): desde que con il congiuntivo vuol dire "purché, a patto che". Attenzione: con l'indicativo, desde que vuol dire "da quando": Desde que chegou, não fala, "da quando è arrivato, non parla". L'italiano "purché" e "da quando" sono due parole diverse, e il portoghese usa la stessa forma.
+6. Pelas regras (frasi 6 e 7): pelas è por + as, la contrazione già vista nei Fondamenti. Fazer tudo pelas regras vuol dire "fare tutto secondo le regole". Il nada della stessa frase è la risposta breve: "niente".
+7. Cada um (frase 10): cada um vuole il verbo al singolare, come l'italiano "ognuno", e il possessivo seu: cada um tem o seu primo, "ognuno ha il suo cugino"; ricorda cada um paga o seu (lezione 3, nota 12). O país anda para a frente: "il paese va avanti".
+8. Quando se perde (frase 11): se impersonale con un verbo transitivo: se perde um documento, "si perde un documento". Il verbo resta al singolare con un oggetto singolare: quando se faz a fila, "quando si fa la fila".
+9. Dizem que e diz-se que (frase 12): dizem que vuol dire "dicono che", e il soggetto è generico, come in italiano. Diz-se que, invece, è "si dice che", con il se impersonale (Fondamenti, lezione 65): Diz-se que este restaurante é o melhor da cidade, "si dice che questo ristorante sia il migliore della città". Dizem que è la forma più comune nel parlato.
+10. A gente (frase 13): nel parlato del Portogallo a gente vuol dire quasi sempre "noi", e vuole il verbo alla terza persona singolare: a gente sabe, "noi lo sappiamo"; a gente vai, "andiamo". Nello scritto si preferisce nós. Per "la gente" si dice as pessoas, e per "tutti" toda a gente (frase 9). Il pronome se di se queixar sta dopo para, prima dell'infinito, perché para è una preposizione: para se queixar, "per lamentarsi".
+11. Se alguém me pedir (frase 15): dopo se, per ciò che può accadere, il portoghese usa il congiuntivo futuro: pedir, come in quando chegares (Fondamenti, lezione 43). L'italiano dice "se qualcuno mi chiederà", con il futuro indicativo: in portoghese il futuro indicativo non si usa dopo se. Nella frase principale basta il presente, come in italiano: digo que não, "dico di no"; digo-o, "lo dico", con il pronome dopo il verbo.
+12. Conheço um (frase 16): um sostituisce il nome già detto, un canalizador (il bravo idraulico), e senza articolo: conheço um, "ne conosco uno". Nell'italiano il pronome ne serve allo stesso scopo.
+
+ex1:
+- Uma pessoa acaba por se cansar de tudo.
+  it: Uno finisce per stancarsi di tutto.
+- Quem chega tarde não encontra lugar.
+  it: Chi arriva tardi non trova posto.
+- Diz-se que este restaurante é o melhor da cidade.
+  it: Si dice che questo ristorante sia il migliore della città.
+- Se alguém me pedir um favor, eu vejo o que posso fazer.
+  it: Se qualcuno mi chiede un favore, vedo che cosa posso fare.
+- Cada um tem a sua maneira de ver as coisas.
+  it: Ognuno ha il suo modo di vedere le cose.
+
+ex2:
+- [Diz-se] que o autocarro vai chegar tarde hoje.
+  it: Si dice che l'autobus oggi arriverà in ritardo.
+- Quando [se] perde o passaporte, é preciso ir à repartição.
+  it: Quando si perde il passaporto, bisogna andare all'ufficio.
+- Cada [um] tem o seu jeito.
+  it: Ognuno ha il suo modo.
+- Se alguém me [pedir] dinheiro, digo que não.
+  it: Se qualcuno mi chiede dei soldi, dico di no.
+- Não tenho primos na câmara, por isso [ninguém] me dá nada.
+  it: Non ho cugini al comune, perciò nessuno mi dà niente.
+
+== 11 B2
+numeral: Décima primeira lição
+title: Trás-os-Montes
+title.it: Trás-os-Montes
+
+dialogue:
+- Trás-os-Montes quer dizer «para lá dos montes», e é uma das regiões mais altas do país, no nordeste.
+  it: Trás-os-Montes vuol dire «al di là dei monti», ed è una delle regioni più alte del paese, nel nord-est.
+- A paisagem é alta e pedregosa, e fica longe do mar.
+  it: Il paesaggio è alto e pieno di pietre, e si trova lontano dal mare.
+- Bragança tem um castelo e uma cidadela amuralhada, no alto da colina.
+  it: Bragança ha un castello e una cittadella cinta da mura, in cima alla collina.
+- Chaves tem uma ponte romana sobre o rio Tâmega.
+  it: Chaves ha un ponte romano sul fiume Tâmega.
+- Miranda do Douro fica em cima de um desfiladeiro profundo do Douro, junto à fronteira com Espanha.
+  it: Miranda do Douro sorge su una gola profonda del Douro, al confine con la Spagna.
+- Aqui fala-se o mirandês, uma língua própria, da família asturo-leonesa, e não um dialeto do português.
+  it: Qui si parla il mirandese, una lingua a sé, della famiglia asturo-leonese, e non un dialetto del portoghese.
+- Uma lei de 1999 reconheceu-o como língua.
+  it: Una legge del 1999 lo ha riconosciuto come lingua.
+- Os pauliteiros de Miranda dançam com paus, que batem uns nos outros ao ritmo da música.
+  it: I pauliteiros di Miranda ballano con i bastoni, che battono l'uno contro l'altro al ritmo della musica.
+- O inverno é frio, friíssimo nas aldeias altas, e o verão pode ser quentíssimo: por isso há quem diga «nove meses de inverno e três de inferno».
+  it: L'inverno è freddo, freddissimo nei villaggi alti, e l'estate può essere caldissima: per questo c'è chi dice «nove mesi d'inverno e tre d'inferno».
+- Algumas aldeias ficam em sítios altíssimos, e as estradas que lá sobem são estreitíssimas.
+  it: Alcuni villaggi sorgono in posti altissimi, e le strade che vi salgono sono strettissime.
+- Quem quer sossego vai o mais longe possível da estrada principal.
+  it: Chi cerca tranquillità va il più lontano possibile dalla strada principale.
+- Dizem que a vida lá é dura, mas é facílimo ficar, por causa do silêncio.
+  it: Dicono che la vita lì sia dura, ma è facilissimo restarci, per via del silenzio.
+- A alheira faz-se com pão e carne de aves, e segundo se conta foi inventada por judeus obrigados a converter-se, para parecerem cristãos que comiam enchidos de porco.
+  it: L'alheira si fa con pane e carne di pollame, e secondo quel che si racconta fu inventata da ebrei costretti a convertirsi, per sembrare cristiani che mangiavano salumi di maiale.
+- A posta mirandesa é uma fatia grossa de vitela grelhada na brasa, e costuma comer-se com batatas.
+  it: La posta mirandesa è una fetta spessa di vitello alla brace, e di solito si mangia con le patate.
+- Para acabar, o pastel de Chaves, de massa folhada e carne: Chaves é a única cidade do país onde se compram chaves numa pastelaria.
+  it: Per finire, il pastel de Chaves, di pasta sfoglia e carne: Chaves è l'unica città del paese dove le chiavi si comprano in pasticceria.
+
+notes.it:
+1. Uma das regiões mais altas (frase 1): uma das + nome plurale + mais + aggettivo è "una delle regioni più alte", con de per il gruppo, come l'italiano "di". Mais davanti all'aggettivo è "più" (Fondamenti, lezione 37). Trás-os-Montes vuol dire alla lettera "dietro i monti".
+2. Cidadela amuralhada (frase 3): amuralhada è un participio usato come aggettivo, "cinta di mura", da muralha (lezione 4, nota 5); si accorda con cidadela, femminile. Ricorda situado (lezione 4, nota 1).
+3. Junto à fronteira (frase 5): junto a è "vicino a, accanto a", e con l'articolo a fa à. Fica em cima de um desfiladeiro: em cima de è "sopra", e desfiladeiro è la gola stretta e profonda di un fiume.
+4. Fala-se o mirandês (frase 6): se impersonale, "si parla". Le lingue vogliono l'articolo: o mirandês, o português. Il mirandese è una lingua a sé, non un dialetto. Uma lei de 1999 reconheceu-o (frase 7): il pronome va dopo il verbo anche quando la frase comincia con il soggetto; reconhecer como è "riconoscere come".
+5. Pauliteiros (frase 8): il pauliteiro è chi danza con i paus, i bastoni; il suffisso -eiro indica chi fa qualcosa, come padeiro, "fornaio". Batem uns nos outros: "battono l'uno contro l'altro", con em + os = nos.
+6. Friíssimo, quentíssimo (frase 9): il superlativo assoluto in -íssimo, come l'italiano -issimo: frio fa friíssimo, con due i, quente fa quentíssimo. Nel parlato si dice più spesso muito frio, muito quente. Há quem diga, con il congiuntivo, presenta il detto (lezione 6, nota 10): «nove meses de inverno e três de inferno».
+7. Altíssimos, estreitíssimas (frase 10): il superlativo si accorda con il nome, altíssimos con sítios, estreitíssimas con estradas. As estradas que lá sobem: lá prima del verbo, dopo que, "che vi salgono".
+8. O mais longe possível (frase 11): o mais + avverbio + possível è "il più ... possibile", e possível non cambia: o mais depressa possível, "il più in fretta possibile". Sossego è la quiete, la tranquillità.
+9. Facílimo (frase 12): superlativo dotto di fácil, con -ílimo; nello scritto si incontrano anche le forme in -érrimo, come paupérrimo (da pobre) e celebérrimo (da célebre). Nel parlato si dice anche facilíssimo, o muito fácil.
+10. Segundo se conta (frase 13): "secondo quel che si racconta": il testo presenta la storia dell'alheira come racconto popolare. Faz-se com pão è il se impersonale, "si fa con il pane". Para parecerem è l'infinito personale, con la desinenza di loro, gli ebrei convertiti (Fondamenti, lezione 46). Aves sono gli uccelli, e in cucina il pollame.
+11. Costuma comer-se com batatas (frase 14): "di solito si mangia con le patate". Con costumar il se impersonale va di solito sull'infinito: costuma comer-se, costuma dizer-se. Posta è una fetta spessa di carne o di pesce, e vitela è il vitello.
+12. Chaves (frase 15): la battuta sta nel nome. Chaves con la maiuscola è la città, chaves con la minuscola sono le chiavi: chi compra pastéis de Chaves in pasticceria compra, a parole, delle chiavi. Massa folhada è la pasta sfoglia.
+
+ex1:
+- A casa do avô é velhíssima, mas muito bonita.
+  it: La casa del nonno è vecchissima, ma molto bella.
+- Esta pergunta é facílima para quem estudou bem.
+  it: Questa domanda è facilissima per chi ha studiato bene.
+- Pensei o mais depressa possível e encontrei uma resposta.
+  it: Ho pensato il più in fretta possibile e ho trovato una risposta.
+- A cidade é antiquíssima, e ainda se veem muralhas romanas.
+  it: La città è antichissima, e si vedono ancora mura romane.
+- O inverno foi friíssimo, e a chuva não parou.
+  it: L'inverno è stato freddissimo, e la pioggia non si è fermata.
+
+ex2:
+- A serra é [altíssima] e vê-se de longe.
+  it: La catena montuosa è altissima e si vede da lontano.
+- As estradas que [lá] sobem são estreitíssimas.
+  it: Le strade che vi salgono sono strettissime.
+- Há [quem] diga que o inverno lá é duríssimo.
+  it: C'è chi dice che lì l'inverno è durissimo.
+- Ele vai para casa o [mais] depressa [possível].
+  it: Lui torna a casa il più in fretta possibile.
+- A ponte romana de Chaves fica [sobre] o rio Tâmega.
+  it: Il ponte romano di Chaves si trova sul fiume Tâmega.
+
+== 12 B2
+numeral: Décima segunda lição
+title: O anúncio
+title.it: L'annuncio
+
+dialogue:
+- Ouve isto: um anúncio de uma casa no Algarve. «Apartamento a cinco minutos da praia.»
+  it: Senti questo: un annuncio di una casa nell'Algarve. «Appartamento a cinque minuti dalla spiaggia.»
+- A pé ou de carro?
+  it: A piedi o in macchina?
+- Não diz. Mas, como não diz «a pé», deve ser de carro.
+  it: Non lo dice. Ma, visto che non dice «a piedi», sarà in macchina.
+- E «vista mar»?
+  it: E «vista mare»?
+- Vista mar, sim: é preciso subir ao telhado e debruçar-se.
+  it: Vista mare, sì: bisogna salire sul tetto e sporgersi.
+- E «ambiente familiar»?
+  it: E «ambiente familiare»?
+- A família do dono vive no rés-do-chão: não só ouve tudo, mas também comenta tudo.
+  it: La famiglia del proprietario vive al pianterreno: non solo sente tutto, ma commenta anche tutto.
+- E «acolhedor»?
+  it: E «accogliente»?
+- Acolhedor quer dizer minúsculo. Tanto a cozinha como o quarto se veem da mesma cadeira.
+  it: Accogliente vuol dire minuscolo. Sia la cucina che la camera si vedono dalla stessa sedia.
+- E «zona tranquila»?
+  it: E «zona tranquilla»?
+- Quer dizer que não há nada num raio de dez quilómetros, nem sequer uma padaria.
+  it: Vuol dire che non c'è niente in un raggio di dieci chilometri, nemmeno un panificio.
+- Nem padaria, nem café?
+  it: Né panetteria né bar?
+- Nem uma coisa nem outra. Ou se vai de carro, ou se fica em casa.
+  it: Né l'una né l'altra cosa. O si va in macchina, o si resta a casa.
+- Pois eu gosto. Quer chova quer faça sol, passamos lá as férias.
+  it: Be', a me piace. Che piova o che faccia sole, passiamo lì le vacanze.
+- Seja verão, seja inverno, o sossego é garantido.
+  it: Che sia estate o inverno, la tranquillità è garantita.
+- Então vamos ligar ao dono e confirmar a reserva.
+  it: Allora chiamiamo il proprietario e confermiamo la prenotazione.
+- Boa tarde, queremos confirmar a reserva. Só mais uma pergunta: a praia fica a cinco minutos a pé ou de carro?
+  it: Buon pomeriggio, vogliamo confermare la prenotazione. Solo un'altra domanda: la spiaggia è a cinque minuti a piedi o in macchina?
+- Nem a pé nem de carro. De barco.
+  it: Né a piedi né in macchina. In barca.
+
+notes.it:
+1. Apartamento a cinco minutos da praia (frase 1): la lingua degli annunci vive di eufemismi, parole gentili per cose meno gentili. A cinco minutos non dice come ci si arriva, e il lettore deve indovinarlo. Ouve isto!, "senti questa!", tra due persone che si danno del tu.
+2. Deve ser de carro (frase 3): dever ser è la supposizione, "sarà, dev'essere" (lezione 5, nota 4). Con i mezzi di trasporto si usa de: de carro, de barco, de comboio; ma a pé, "a piedi".
+3. Vista mar (frase 5): senza articolo e senza preposizione, come si scrive negli annunci. Debruçar-se è "sporgersi"; dopo é preciso il pronome si attacca all'infinito: é preciso debruçar-se, "bisogna sporgersi".
+4. Ambiente familiar (frase 7): un altro eufemismo, per dire che la famiglia del proprietario vive di sotto. Rés-do-chão è il pianterreno.
+5. Não só ... mas também (frase 7) somma due cose: não só ouve tudo, mas também comenta tudo, "non solo sente tutto, ma commenta anche tutto". Si dice anche não só ... como também.
+6. Acolhedor (frase 9), "accogliente", negli annunci vuol dire spesso "piccolo". Tanto a cozinha como o quarto: tanto ... como è "sia ... che"; con due soggetti il verbo va al plurale, se veem, "si vedono".
+7. Nem sequer (frase 11) rafforza la negazione: nem sequer uma padaria, "neanche un panificio". Num raio de dez quilómetros: em + um = num, "in un raggio di dieci chilometri".
+8. Nem ... nem (frasi 12 e 13) nega due cose insieme: nem padaria, nem café, "né panificio né bar"; nem uma coisa nem outra, "né l'una né l'altra". Con due soggetti il verbo va al plurale: nem ele nem a irmã sabiam, "né lui né la sorella sapevano".
+9. Ou ... ou (frase 13) propone due possibilità che si escludono, come l'italiano "o ... o". Ou se vai, ou se fica: il se impersonale, "o si va, o si resta".
+10. Quer chova quer faça sol (frase 14): quer ... quer con il congiuntivo presente è "che ... o che": la cosa vale in tutti e due i casi. Pois eu gosto: pois all'inizio della frase dà il tono di chi tira le somme, "be', a me piace".
+11. Seja verão, seja inverno (frase 15): seja ... seja, il congiuntivo di ser, fa lo stesso lavoro con i nomi: "che sia estate o inverno".
+12. Vamos ligar ao dono (frase 16): vamos + infinito è il modo più naturale di proporre una cosa da fare insieme, "chiamiamo". Ligar a alguém è "telefonare a qualcuno".
+13. Nem a pé nem de carro. De barco (frase 18): il proprietario risponde con il nem ... nem della frase 13, e la domanda della frase 2 ha finalmente la sua risposta.
+
+ex1:
+- Quer venhas de comboio, quer venhas de avião, diz-me.
+  it: Che tu venga in treno o in aereo, fammi sapere. (a un amico)
+- Nem ele nem a irmã sabiam onde estava o bilhete.
+  it: Né lui né la sorella sapevano dove fosse il biglietto.
+- Não só cozinha bem, mas também faz bolos.
+  it: Non solo cucina bene, ma fa anche torte.
+- Ou fazes o trabalho agora, ou ficas sem jantar.
+  it: O fai il lavoro adesso, o resti senza cena. (a un amico)
+- Tanto o avô como a avó gostam de ver futebol.
+  it: Sia il nonno che la nonna amano guardare il calcio.
+
+ex2:
+- Tanto o pai [como] a mãe trabalham à noite.
+  it: Sia il padre che la madre lavorano di notte.
+- Quer [estejas] cansado, quer não, vais à festa.
+  it: Che tu sia stanco o no, vieni alla festa. (a un amico)
+- [Seja] de dia, [seja] de noite, o café está sempre aberto.
+  it: Che sia di giorno o di notte, il bar è sempre aperto.
+- Daqui não se vê nem [sequer] o mar.
+  it: Da qui non si vede neanche il mare.
+- [Ou] vens hoje, ou vens amanhã.
+  it: O vieni oggi, o vieni domani. (a un amico)
+
+== 13 B2
+numeral: Décima terceira lição
+title: Um jantarão
+title.it: Una cenona
+
+dialogue:
+- Depois do diminutivo chega o aumentativo, com o sufixo -ão, que faz as coisas grandes.
+  it: Dopo il diminutivo arriva l'accrescitivo, con il suffisso -ão, che rende le cose grandi.
+- Um jantar grande é um jantarão, e um calor grande é um calorão.
+  it: Una cena grande è una cenona, e un caldo grande è un caldo tremendo.
+- Um carro grande é um carrão, e uma casa grande e velha é um casarão.
+  it: Un'auto grande è una macchinona, e una casa grande e vecchia è un casone.
+- Mas há sufixos que servem para desprezar: um jornal mau é um jornaleco, e um papel sem valor é um papelucho.
+  it: Ma ci sono suffissi che servono a disprezzare: un giornale scadente è un giornalaccio, e un foglio senza valore è un foglietto da niente.
+- Um rapaz novo e atrevido é um rapazola.
+  it: Un ragazzo giovane e sfacciato è un ragazzotto.
+- A -ada é outra família: quando há muitos papéis, há uma papelada, e quando há muitos rapazes juntos, há uma rapaziada.
+  it: L'-ada è un'altra famiglia: quando ci sono tante carte ci sono le scartoffie, e quando ci sono tanti ragazzi insieme c'è una combriccola di ragazzi.
+- A -ada também é um golpe: uma facada é uma coltellata, e uma dentada é um morso.
+  it: L'-ada indica anche un colpo: una facada è una coltellata, e una dentada è un morso.
+- Depois há as palavras que já não são grandes: um portão não é uma porta enorme, é a grade de entrada de um jardim.
+  it: Poi ci sono le parole che grandi non lo sono più: un portão non è una porta enorme, è il cancello d'ingresso di un giardino.
+- Um cartão não é uma carta grande: é o cartão de crédito, ou o Cartão de Cidadão.
+  it: Un cartão non è una carta grande: è la carta di credito, o il Cartão de Cidadão, cioè la carta d'identità.
+- Um fogão é o que se usa para cozinhar, e não tem nada de grande.
+  it: Un fogão è il fornello su cui si cucina, e non ha niente di grande.
+- Um caixão não é uma caixa grande: é a caixa onde se enterra um morto.
+  it: Un caixão non è una cassa grande: è la bara, la cassa in cui si seppellisce un morto.
+- Um palavrão é uma palavra feia, e nada tem a ver com o tamanho.
+  it: Un palavrão è una parolaccia, e non c'entra niente con le dimensioni.
+- Quanto ao género, o portão é masculino, mas a mão é feminina, apesar do -ão.
+  it: Quanto al genere, portão è maschile, ma mão è femminile, nonostante la -ão.
+- Por fim, a palavra mais comprida que se costuma citar, anticonstitucionalissimamente: é a maior palavra que há, e não é um palavrão.
+  it: Infine, la parola più lunga che si cita di solito, anticonstitucionalissimamente: è la parola più grande che ci sia, e non è un palavrão (una parolaccia; alla lettera una parolona).
+
+notes.it:
+1. Diminutivo e aumentativo (frase 1): il diminutivo -inho lo conosci (Fondamenti, lezione 47). L'aumentativo -ão fa il contrario: rende grande ciò che la parola dice, e spesso aggiunge un giudizio, d'ammirazione o d'ironia.
+2. Jantarão, calorão, carrão, casarão (frasi 2 e 3): il suffisso si attacca alla parola di base: jantar fa jantarão, calor calorão, carro carrão, casa casarão. L'italiano usa -one: cenona, macchinona, casone. Gli accrescitivi in -ão sono maschili anche quando vengono da un nome femminile: a casa, o casarão.
+3. Jornaleco, papelucho, rapazola (frasi 4 e 5): questi suffissi non ingrandiscono, disprezzano, come l'italiano -accio o -etto: jornaleco è un giornale da poco, papelucho un pezzo di carta senza valore, rapazola un ragazzotto sfacciato. Si usano con ironia o con fastidio.
+4. Papelada, rapaziada (frase 6): -ada indica una massa, una quantità: papelada, "le scartoffie"; rapaziada, "i ragazzi, la combriccola". Queste parole sono femminili anche se il nome di base è maschile: o papel, a papelada.
+5. Uma facada, uma dentada (frase 7): -ada indica anche un colpo, come l'italiano -ata: facada da faca, "coltello", è la coltellata; dentada da dente è il morso. Dar uma facada è "accoltellare".
+6. Portão, cartão, fogão, caixão, palavrão (frasi 8–12): parole nate con il suffisso -ão che hanno cambiato senso e non dicono più la misura: portão è il cancello, cartão la tessera o il cartoncino, fogão la cucina a gas o il fornello, caixão la bara (da caixa, "cassa"), palavrão la parolaccia (da palavra). Il Cartão de Cidadão è la carta d'identità portoghese.
+7. Apesar do -ão (frase 13): apesar de è "nonostante", e qui de + o fa do. Non tutte le parole in -ão sono accrescitivi: a mão è femminile, e lo sono quasi tutte quelle in -ção, come a lição, a estação, a canção. Il genere di una parola in -ão va imparato con la parola.
+8. Anticonstitucionalissimamente (frase 14): anti- + constitucional + il superlativo -íssimo + -mente, che fa l'avverbio; nell'avverbio l'accento scritto cade: -issimamente. A palavra mais comprida que se costuma citar: comprido è "lungo", e se costuma citar è "si cita di solito". La battuta finale gioca su palavrão, che alla lettera sarebbe "parolona".
+
+ex1:
+- Esta sala é um salão enorme, com lugar para mil pessoas.
+  it: Questa sala è un salone enorme, con posto per mille persone.
+- Não consigo ler toda esta papelada hoje.
+  it: Oggi non riesco a leggere tutte queste carte.
+- As palavras dele foram uma facada.
+  it: Le sue parole sono state una coltellata.
+- Ela chamou-lhe rapazola, e ele não gostou.
+  it: Lei lo ha chiamato ragazzotto, e lui non ha gradito.
+- A minha avó ainda cozinha no fogão.
+  it: Mia nonna cucina ancora sul fornello.
+
+ex2:
+- A entrada da quinta é um [portão] grande.
+  it: L'ingresso della fattoria è un cancello grande.
+- Ele comprou um [carrão] novo.
+  it: Ha comprato una macchinona nuova.
+- Quando ouvi a notícia, senti uma [facada] no peito.
+  it: Quando ho sentito la notizia, ho sentito una coltellata nel petto.
+- Ele é um [rapazola] que nunca pensa.
+  it: È un ragazzotto che non pensa mai.
+- O [caixão] tinha muitas flores.
+  it: La bara aveva molti fiori.
+
+== 14 B2
+kind: revision
+numeral: Décima quarta lição
+title: Revisão
+title.it: Ripasso
+
+notes.it:
+La seconda settimana del corso è finita. Come nella prima, qui non c'è niente da imparare a memoria: le tabelle mettono in ordine quello che hai letto nelle lezioni 8–13, e quei testi sono il tuo serbatoio di esempi.
+Se un punto ti sembra ancora confuso, vai avanti: tornerà in altri testi, e ogni volta sarà più chiaro. Leggi le tabelle una volta, poi fai i dieci esercizi in fondo.
+1. Le abitudini del passato e i gradi (lezione 8). Per un'abitudine passata bastano l'imperfeito o costumar all'imperfeito; ter o hábito de vale per ogni tempo. Le parole di grado attenuano o rafforzano un aggettivo o un verbo.
+
+| Forma | Che cosa fa | Esempio | In italiano |
+|---|---|---|---|
+| costumava + infinito | un'abitudine passata | já em novo costumava levar o guarda-chuva em agosto (frase 3) | già da giovane era solito portare l'ombrello ad agosto |
+| ter o hábito de + infinito | un'abitudine | tem o hábito de se preparar para o pior (frase 7) | ha l'abitudine di prepararsi al peggio |
+| bastante | piuttosto, parecchio | as coisas estão sempre bastante caras (frase 9) | le cose sono sempre piuttosto care |
+| um bocado | un po' (familiare) | o bolo das festas está sempre um bocado seco (frase 9) | la torta delle feste è sempre un po' secca |
+| nada | per niente | as festas não são nada divertidas (frase 9) | le feste non sono per niente divertenti |
+| imenso | moltissimo (familiare) | gosta imenso de ter razão (frase 11) | gli piace moltissimo avere ragione |
+| assim-assim | così così | responde: «Assim-assim» (frase 8) | risponde: «Così così» |
+
+Dopo i verbi di sentimento viene il congiuntivo, come in italiano: irrita-o que as pessoas estejam bem-dispostas (frase 4), estranha que um desconhecido lhe diga «Bom dia» (frase 5).
+
+2. I soggetti generici (lezione 10). Il portoghese ha più modi per dire "uno", "noi", "si" e "chi".
+
+| Forma | Che cosa fa | Esempio | In italiano |
+|---|---|---|---|
+| uma pessoa | uno, e spesso "io" | uma pessoa pede uma consulta (frase 2) | uno chiede una visita |
+| a gente | noi, nel parlato | a gente sabe isto (frase 13) | noi lo sappiamo |
+| se | si impersonale | quando se perde um documento (frase 11) | quando si perde un documento |
+| dizem que | dicono che | dizem que noutros sítios a burocracia demora meses (frase 12) | dicono che altrove la burocrazia richiede mesi |
+| quem | chi | quem tem cunha não espera nada (frase 4) | chi ha una raccomandazione non aspetta affatto |
+| cada um | ognuno | cada um tem o seu primo (frase 10) | ognuno ha il suo cugino |
+| toda a gente | tutti | toda a gente tem alguém (frase 9) | tutti hanno qualcuno |
+
+3. Le coppie correlative (lezione 12). Uniscono o oppongono due elementi; quer ... quer e seja ... seja vogliono il congiuntivo.
+
+| Forma | In italiano | Esempio |
+|---|---|---|
+| tanto ... como | sia ... che | tanto a cozinha como o quarto se veem da mesma cadeira (frase 9) |
+| não só ... mas também | non solo ... ma anche | não só ouve tudo, mas também comenta tudo (frase 7) |
+| nem ... nem | né ... né | nem padaria, nem café? (frase 12) |
+| ou ... ou | o ... o | ou se vai de carro, ou se fica em casa (frase 13) |
+| nem sequer | neanche | nem sequer uma padaria (frase 11) |
+| quer ... quer + congiuntivo | che ... o che | quer chova quer faça sol (frase 14) |
+| seja ... seja | che sia ... o | seja verão, seja inverno (frase 15) |
+
+4. Accrescitivi, peggiorativi e -ada (lezione 13).
+
+| Suffisso | Che cosa fa | Esempio | In italiano |
+|---|---|---|---|
+| -ão | ingrandisce | um jantarão (frase 2) | una cenona |
+| -arão | ingrandisce | um casarão (frase 3) | un casone |
+| -eco | disprezza | um jornaleco (frase 4) | un giornalaccio |
+| -ola | disprezza | um rapazola (frase 5) | un ragazzotto |
+| -ada | una massa | uma papelada (frase 6) | le scartoffie |
+| -ada | un colpo | uma facada (frase 7) | una coltellata |
+| -ão senza misura | un altro senso | um palavrão (frase 12) | una parolaccia |
+
+5. Ficar e il superlativo (lezioni 9 e 11). Ficar dice il cambiamento o il risultato, dove estar dice lo stato: vai ficar contente (lezione 9, frase 7), "sarà contenta". Il superlativo assoluto si fa con -íssimo, e in alcune parole dotte con -ílimo.
+
+| Forma | Che cosa fa | Esempio | In italiano |
+|---|---|---|---|
+| ficar de + nome | restare in uno stato | ficou de boca aberta (lezione 9, frase 2) | è rimasta a bocca aperta |
+| ficar + aggettivo | diventare, venire a costare | o salão ficou caro (lezione 9, frase 6) | la sala è venuta cara |
+| ficar a + infinito | restare a fare | ficou a olhar para ele (lezione 9, frase 10) | è rimasta a guardarlo |
+| ficar-se por | fermarsi a | ficaram-se pelo vinho branco (lezione 9, frase 14) | si sono fermati al vino bianco |
+| ficar a ver navios | restare a bocca asciutta | ficámos a ver navios (lezione 9, frase 18) | siamo rimasti a bocca asciutta |
+| -íssimo | superlativo assoluto | friíssimo nas aldeias altas (lezione 11, frase 9) | freddissimo nei villaggi alti |
+| -ílimo | superlativo dotto | é facílimo ficar (lezione 11, frase 12) | è facilissimo restarci |
+| o mais ... possível | il più ... possibile | o mais longe possível (lezione 11, frase 11) | il più lontano possibile |
+
+ex1:
+- Costumávamos ir à praia em agosto, quando éramos miúdos.
+  it: Eravamo soliti andare al mare ad agosto, quando eravamo bambini.
+- Uma pessoa deve pensar antes de falar.
+  it: Uno dovrebbe pensare prima di parlare.
+- Nem o pai nem a mãe quiseram vir à festa.
+  it: Né il padre né la madre hanno voluto venire alla festa.
+- Quer estudes hoje, quer não, amanhã há exame.
+  it: Che tu studi oggi o no, domani c'è l'esame. (a un amico)
+- Esta sopa está um bocado quente, mas está boa.
+  it: Questa zuppa è un po' calda, ma è buona.
+
+ex2:
+- Ele [costumava] jantar tarde ao sábado.
+  it: Lui era solito cenare tardi il sabato.
+- Quer [venhas] cedo, quer tarde, há lugar.
+  it: Che tu venga presto o tardi, c'è posto. (a un amico)
+- Ela [ficou] de mal com a irmã.
+  it: Lei ha tenuto il broncio alla sorella.
+- Esta casa é um [casarão] velho.
+  it: Questa casa è un casone vecchio.
+- Quero chegar o [mais] cedo possível.
+  it: Voglio arrivare il più presto possibile.

@@ -154,6 +154,10 @@ fn target() -> Option<PathBuf> {
 fn replace_self(tag: &str) -> Result<(), String> {
     let name = asset().ok_or(tr("No ready-made build for this computer"))?;
     let target = target().ok_or(tr("This copy is not an installed app; download the new version from the release page"))?;
+    // Opened straight from the mounted disk image, which is read-only.
+    if cfg!(target_os = "macos") && target.starts_with("/Volumes") {
+        return Err(tr("Lingua Onde is running from the disk image: drag it onto Applications, open it from there, then update").to_string());
+    }
     let dir = target.parent().ok_or("no folder")?.to_path_buf();
     let url = format!("https://github.com/{REPO}/releases/download/{tag}/{name}");
     let part = dir.join(format!(".{name}.part"));

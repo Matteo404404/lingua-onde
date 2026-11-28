@@ -1464,15 +1464,6 @@ Scrivi le parole che mancano.
 Say the sentence aloud.
 Di' la frase ad alta voce.
 
-listening to you…
-ti sto ascoltando…
-
-🎙  Say it
-🎙  Dilla
-
-Heard: {0}
-Sentito: {0}
-
 Skip this item
 Salta questa domanda
 
@@ -1579,3 +1570,9 @@ il motore di riconoscimento vocale non è riuscito: {0}
 
 The speech engine took too long
 Il motore di riconoscimento vocale ha impiegato troppo tempo
+
+🎤  Check your pronunciation
+🎤  Controlla la tua pronuncia
+
+Say each sentence aloud after pressing Record: the words in green were understood, the red ones are worth another try.
+Di' ogni frase ad alta voce dopo aver premuto Registra: le parole in verde sono state capite, quelle in rosso vale la pena di riprovarle.

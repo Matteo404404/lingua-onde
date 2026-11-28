@@ -10,7 +10,6 @@
 //! each frame, like the voices and the updater.
 
 // shortcut: until the lesson and placement screens call `check_button`; remove then.
-#![allow(dead_code)]
 
 use std::collections::HashMap;
 use std::path::{Path, PathBuf};

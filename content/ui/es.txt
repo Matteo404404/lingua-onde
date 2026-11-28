@@ -1464,15 +1464,6 @@ Escribe las palabras que faltan.
 Say the sentence aloud.
 Di la frase en voz alta.
 
-listening to you…
-te estoy escuchando…
-
-🎙  Say it
-🎙  Dila
-
-Heard: {0}
-Oído: {0}
-
 Skip this item
 Saltar esta pregunta
 
@@ -1579,3 +1570,9 @@ el motor de reconocimiento de voz ha fallado: {0}
 
 The speech engine took too long
 El motor de reconocimiento de voz ha tardado demasiado
+
+🎤  Check your pronunciation
+🎤  Comprueba tu pronunciación
+
+Say each sentence aloud after pressing Record: the words in green were understood, the red ones are worth another try.
+Di cada frase en voz alta después de pulsar Grabar: las palabras en verde se han entendido, las rojas merecen otro intento.

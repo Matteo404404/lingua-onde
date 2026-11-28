@@ -1062,6 +1062,7 @@ impl App {
                             egui::CollapsingHeader::new(muted(tr("Peek at the text (only if you are stuck)"))).show(ui, |ui| {
                                 self.dialogue_block(ui, "dlg", &lang, &lesson.dialogue, true, false);
                             });
+                            pronunciation_check(ui, &lang, &lesson.dialogue);
                         }
                     }
                     Step::ListenBase => {
@@ -1752,6 +1753,27 @@ impl App {
 /// listen again. A revision lesson is its grammar recap and its revision
 /// dialogue (exercises only if it has them); a Mastery lesson ends with open
 /// tasks; the active wave comes after, from lesson 50.
+/// After the last listening: say each sentence and see which words were
+/// understood. Optional; it needs the speech engine, offered once here.
+fn pronunciation_check(ui: &mut egui::Ui, lang: &str, dialogue: &[Item]) {
+    if !crate::speech::supported(lang) || dialogue.is_empty() {
+        return;
+    }
+    ui.add_space(12.0);
+    egui::CollapsingHeader::new(medium(tr("🎤  Check your pronunciation"))).id_salt("pron-check").show(ui, |ui| {
+        ui.label(muted(tr("Say each sentence aloud after pressing Record: the words in green were understood, the red ones are worth another try.")).size(14.5));
+        crate::speech::offer(ui, lang);
+        if !crate::speech::available(lang) {
+            return;
+        }
+        for (i, item) in dialogue.iter().enumerate() {
+            ui.add_space(6.0);
+            ui.label(RichText::new(format!("{}. {}", i + 1, item.plain())).size(17.0));
+            let _ = crate::speech::check_button(ui, lang, &item.plain());
+        }
+    });
+}
+
 fn lesson_steps(lesson: &Lesson) -> Vec<Step> {
     use Step::*;
     // Every lesson of every course goes the same way; a revision lesson reads

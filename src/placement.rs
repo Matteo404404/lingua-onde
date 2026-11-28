@@ -4,8 +4,7 @@
 //! the lessons before it are marked as placed (passed by, not studied).
 
 use std::collections::HashSet;
-use std::sync::mpsc::{Receiver, channel};
-use std::time::{Duration, SystemTime, UNIX_EPOCH};
+use std::time::{SystemTime, UNIX_EPOCH};
 
 use eframe::egui::{self, RichText};
 
@@ -17,30 +16,7 @@ use crate::practice::{Verdict, compare, fold};
 use crate::store::{LevelTest, day_key, today};
 use crate::theme::{self, ACCENT, ACCENT_SOFT, BAD, CARD, GOOD, INK, LINE, bold, caps, medium, muted};
 
-/// The speaking hook. `crate::speech`, written apart, will provide these;
-/// until it is merged speaking items are left out. To wire it, delete this
-/// module and `use crate::speech;` (and check `record`'s name and arguments).
-#[allow(dead_code)]
-mod speech {
-    pub struct Attempt {
-        pub heard: String,
-        /// From 0 to 1.
-        pub score: f32,
-        /// Each expected word, and whether it was heard.
-        pub words: Vec<(String, bool)>,
-    }
-
-    /// The engine and the model are ready for this language.
-    pub fn available(_lang: &str) -> bool {
-        false
-    }
-
-    /// Records from the microphone until `max` passes, transcribes, and
-    /// scores what was heard against `expected`.
-    pub fn record(_lang: &str, _expected: &str, _max: std::time::Duration) -> Result<Attempt, String> {
-        Err(String::new())
-    }
-}
+use crate::speech;
 
 /// Items per skill and level: six to eight a level, the whole test within
 /// about ten minutes.
@@ -387,7 +363,6 @@ pub struct LevelState {
     typed: Vec<String>,
     /// The question last played aloud, as (level, question).
     played: Option<(usize, usize)>,
-    recording: Option<Receiver<Result<speech::Attempt, String>>>,
     attempt: Option<speech::Attempt>,
 }
 
@@ -524,7 +499,6 @@ impl App {
             st.choice = None;
             st.typed.clear();
             st.attempt = None;
-            st.recording = None;
         };
         match act {
             Act::None => {}
@@ -764,43 +738,11 @@ impl App {
                     ui.label(RichText::new(item.plain()).size(22.0));
                     ui.label(muted(clean(item.tr(&base))).size(15.0));
                     ui.add_space(6.0);
-                    if let Some(rx) = &st.recording {
-                        match rx.try_recv() {
-                            Ok(Ok(a)) => {
-                                st.attempt = Some(a);
-                                st.recording = None;
-                            }
-                            Ok(Err(e)) => {
-                                st.recording = None;
-                                if !e.is_empty() {
-                                    self.say(e);
-                                }
-                            }
-                            Err(_) => {
-                                ui.horizontal(|ui| {
-                                    ui.spinner();
-                                    ui.label(muted(tr("listening to you…")));
-                                });
-                                ui.ctx().request_repaint_after(Duration::from_millis(200));
-                            }
-                        }
-                    } else if ui.add(theme::primary(tr("🎙  Say it"))).clicked() {
-                        let (tx, rx) = channel();
-                        let (l, t, ctx) = (lang.clone(), item.plain(), ui.ctx().clone());
-                        let max = Duration::from_millis(3000 + 80 * t.chars().count() as u64);
-                        std::thread::spawn(move || {
-                            let _ = tx.send(speech::record(&l, &t, max));
-                            ctx.request_repaint();
-                        });
-                        st.recording = Some(rx);
+                    // The Record button draws the heard words itself.
+                    if let Some(a) = speech::check_button(ui, &lang, &item.plain()) {
+                        st.attempt = Some(a);
                     }
                     if let Some(a) = &st.attempt {
-                        ui.label(muted(trf("Heard: {0}", &[&a.heard])).size(14.5));
-                        ui.horizontal_wrapped(|ui| {
-                            for (w, ok) in &a.words {
-                                ui.label(RichText::new(w).size(17.0).color(if *ok { GOOD() } else { BAD() }));
-                            }
-                        });
                         score = Some(a.score);
                     }
                 }
@@ -1095,7 +1037,9 @@ mod tests {
             asked += 1;
         }
         draw(&mut app);
-        assert_eq!(asked, 18);
+        // three levels asked (A1, A2 passed, B1 not), speaking only where the engine is installed
+        let skills = if speech::available("es") { 4 } else { 3 };
+        assert_eq!(asked, 3 * PER_SKILL * skills);
         assert!(app.placement.is_some(), "the result waits for the learner's choice");
         app.stop_audio();
     }

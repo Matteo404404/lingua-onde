@@ -62,7 +62,10 @@ You cannot sell it or use it commercially. The full rules are in [LICENSE](LICEN
 
 No programming tools needed. Lessons and fonts are inside the app. Voices
 download from the app the first time you need them (that step uses `curl`
-and `tar`, which are already on Linux, macOS and Windows 10).
+and `tar`, which are already on Linux, macOS and Windows 10). So does speech
+recognition, which checks what you say aloud (about 85 MB, on request; it
+needs a microphone, and runs on your computer: your voice is not sent
+anywhere).
 
 Updates install themselves (from v1.4.0): when a new version is out, the app
 says so at the top of the screen; "Update now" downloads it, puts it in place
@@ -90,6 +93,8 @@ pause and rewind and plays your own MP3 recordings. The window uses the graphics
 a normal desktop (Vulkan, Wayland or X11). The installer names anything that
 is missing. On Ubuntu that is usually
 `sudo apt install mesa-vulkan-drivers libxkbcommon0 libwayland-client0 libx11-6`.
+The microphone goes through ALSA (`libasound.so.2`, part of every desktop's
+sound system; `sudo apt install libasound2` if the installer names it).
 
 **Windows** (10 or newer). Download `lingua-onde-setup-windows-x86_64.exe` from
 [Releases](https://github.com/Matteo404404/lingua-onde/releases/latest) and
@@ -113,14 +118,18 @@ open it and drag "Lingua Onde" onto the Applications folder beside it. (The
 `.zip` files hold the same app; the updater uses them.) The first time, right-click
 it and choose Open. If macOS still blocks it, open System Settings, Privacy
 & Security, and choose Open Anyway. Sound works out of the box (`afplay`).
-`brew install mpv` adds pause and rewind.
+`brew install mpv` adds pause and rewind. The first recording asks for the
+microphone; if you said no, allow it in System Settings, Privacy & Security,
+Microphone.
 
 ## Build from source
 
 You need Rust 1.95 or newer (`edition = "2024"`). Install the current stable
 toolchain from https://rustup.rs if `cargo` is missing. The voices play
 through the system's own player; `mpv`, if installed, adds pause and rewind.
-The first voice download uses `curl` and `tar`.
+The first voice download uses `curl` and `tar`. On Linux the microphone
+library needs ALSA's headers to build: `sudo apt install libasound2-dev
+pkg-config` (Fedora: `alsa-lib-devel`, Arch: `alsa-lib`).
 
 ```
 git clone https://github.com/Matteo404404/lingua-onde
@@ -156,6 +165,19 @@ frames, saves a picture and exits. `--open welcome|home|courses|settings|guide|s
 opens one screen directly (`welcome` is the first-launch language choice, `guide` the pronunciation guide), and `--size 950x520` sets the window size (a
 narrow window shows the icon-only side bar). `--check <file>...` checks
 lesson files against the built-in rules and prints what is missing.
+`--speech-test LANG FILE.wav "expected sentence"` installs speech recognition
+if needed, transcribes the file and prints what was heard, each word marked
+`+` (heard) or `-`, and the score; it exits with 1 below 0.6.
+
+Speech recognition is whisper.cpp's `whisper-cli` (v1.9.5), built for each
+system by `packaging/build-whisper.sh` in the release workflow and attached
+to every release as `lingua-onde-speech-<system>.tar.gz` (`.zip` on Windows);
+the app downloads the one of its own version, with the multilingual
+`ggml-base-q8_0.bin` model (78 MB) from Hugging Face, into the data folder's
+`speech/`. A build from source has no version: it takes the latest release's,
+or a `whisper-cli` on the PATH (`packaging/build-whisper.sh whisper.tar.gz`
+builds one into that archive, with CMake and a C++ compiler; unpack it into
+`speech/` or onto the PATH).
 
 ## The daily lesson
 
@@ -247,8 +269,17 @@ time, Home offers the last dialogue to listen to and repeat.
   made by the voice engine itself. `mpv`, if present, is used first: it adds
   pause, rewind 5 s and position (Linux and macOS) and plays your own MP3
   recordings; `ffplay` also plays them, without pause.
+- Speech recognition: the 🎤 Record button records you from the default
+  microphone (until Stop, or a few seconds more than the sentence needs),
+  whisper.cpp transcribes it offline, and the sentence comes back with the
+  words heard in green and the others in red, and a score. Case,
+  punctuation, accents and tone marks are forgiven, as is one letter in
+  four in words of four letters or more; numbers written as digits count
+  as the words (0–20; Chinese 0–99); Chinese is compared character by
+  character. The recording is deleted once transcribed.
 - Before a release, the "Check platforms" workflow (run by hand in GitHub
-  Actions) downloads the voices and speaks on Linux, Windows and macOS.
+  Actions) downloads the voices and speaks on Linux, Windows and macOS, and
+  transcribes two spoken sentences with the speech engine built there.
 
 ## Your material
 
@@ -263,7 +294,9 @@ format is in `content/FORMAT.md`.
   review. `src/practice.rs` the active wave, Mastery's open tasks and the
   answer check. `src/placement.rs` the level test ("Find your level").
   `src/editor.rs` My lessons. `src/audio.rs` player, recordings, voices,
-  the joined dialogue recording. `src/format.rs` lesson files and the built-in lesson rules.
+  the joined dialogue recording. `src/speech.rs` speech recognition:
+  download, microphone, transcription, scoring and the Record button.
+  `src/format.rs` lesson files and the built-in lesson rules.
   `src/store.rs` data folder, progress, review schedule. `src/theme.rs`
   colours, fonts and shared widgets. `src/i18n.rs` the interface in the
   learner's language, from `content/ui/<base>.txt` (Italian so far).
@@ -285,10 +318,12 @@ format is in `content/FORMAT.md`.
   lesson the level test skipped has `placed` (a day) and no `completed`;
   `level_tests` holds each language's test or first-lesson choice. Older
   versions ignore both fields.
-- `packaging/` the launcher entry, icon, `install.sh` and the Windows setup
-  script `lingua-onde.iss` (Inno Setup); `.github/workflows/release.yml`
-  builds the downloads (with the Windows setup and the macOS disk images), `.github/workflows/check-platforms.yml` checks the
-  voices and sound on each system.
+- `packaging/` the launcher entry, icon, `install.sh`, the Windows setup
+  script `lingua-onde.iss` (Inno Setup) and `build-whisper.sh` (the speech
+  engine); `.github/workflows/release.yml` builds the downloads (with the
+  Windows setup, the macOS disk images and the speech engines),
+  `.github/workflows/check-platforms.yml` checks the voices, sound and
+  speech recognition on each system.
 - `assets/NotoSans-*.ttf` is Noto Sans (Regular, Medium, Bold), under the SIL
   Open Font License in `assets/NotoSans-OFL.txt`. The app license does not
   replace that font license.
@@ -308,8 +343,12 @@ With network (and, for the listening test, mpv with a muted config:
 cargo test -- --ignored
 ```
 
-That also downloads voices, speaks, and runs the listening both ways: sentence
-by sentence with pauses, and the whole dialogue as one recording.
+That also downloads voices, speaks, and runs the listening both ways
+(sentence by sentence with pauses, and the whole dialogue as one
+recording), makes two spoken sentences for speech recognition
+(`speech_fixtures`), transcribes one (`recorded_format_transcribes`, which
+needs the speech engine: a release's, or `whisper-cli` on the PATH) and opens
+the microphone (`microphone_answers`).
 
 ## License
 

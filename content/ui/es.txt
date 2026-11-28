@@ -1502,3 +1502,80 @@ Empieza aquí
 
 Start from the first lesson instead
 Mejor empieza por la primera lección
+
+# Speech recognition
+
+🎤 Check your pronunciation: download speech recognition ({0} MB)
+🎤 Comprueba tu pronunciación: descarga el reconocimiento de voz ({0} MB)
+
+Recognition runs on this computer; your voice is not sent anywhere.
+El reconocimiento se hace en este ordenador; tu voz no se envía a ninguna parte.
+
+Starting…
+Iniciando…
+
+Downloading the speech engine…
+Descargando el motor de reconocimiento de voz…
+
+Downloading the speech model ({0} MB)…
+Descargando el modelo de voz ({0} MB)…
+
+no speech engine is published for this computer
+no hay un motor de reconocimiento de voz para este ordenador
+
+the speech engine is missing from the download
+falta el motor de reconocimiento de voz en la descarga
+
+🎤 Record
+🎤 Grabar
+
+Say the sentence aloud; the app checks what it hears
+Di la frase en voz alta; la aplicación comprueba lo que oye
+
+Listening…
+Escuchando…
+
+stops by itself in {0} s
+se detiene sola en {0} s
+
+Checking…
+Comprobando…
+
+heard: {0}
+oído: {0}
+
+nothing
+nada
+
+🎤 Try again
+🎤 Otra vez
+
+No microphone found. Connect one, or check the system's sound settings.
+No se encuentra ningún micrófono. Conecta uno o revisa los ajustes de sonido del sistema.
+
+The microphone cannot be opened: {0}
+No se puede abrir el micrófono: {0}
+
+The microphone stopped: {0}
+El micrófono se ha detenido: {0}
+
+No sound reached the microphone. Check that it is connected and that Lingua Onde may use it (macOS: System Settings, Privacy & Security, Microphone).
+No ha llegado ningún sonido al micrófono. Comprueba que esté conectado y que Lingua Onde pueda usarlo (macOS: Ajustes del Sistema, Privacidad y seguridad, Micrófono).
+
+Speech recognition does not know this language
+El reconocimiento de voz no conoce este idioma
+
+The speech engine is not installed
+El motor de reconocimiento de voz no está instalado
+
+The speech model is not installed
+El modelo de voz no está instalado
+
+could not start the speech engine: {0}
+no se pudo iniciar el motor de reconocimiento de voz: {0}
+
+the speech engine failed: {0}
+el motor de reconocimiento de voz ha fallado: {0}
+
+The speech engine took too long
+El motor de reconocimiento de voz ha tardado demasiado

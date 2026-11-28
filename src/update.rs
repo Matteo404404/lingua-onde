@@ -15,7 +15,7 @@ use eframe::egui;
 use crate::audio::{command, curl, find_program};
 use crate::i18n::{tr, trf};
 
-const REPO: &str = "Matteo404404/lingua-onde";
+pub const REPO: &str = "Matteo404404/lingua-onde";
 
 /// This build's release tag, such as "v1.3.1".
 pub fn current() -> Option<&'static str> {

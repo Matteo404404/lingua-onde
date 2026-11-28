@@ -3,8 +3,13 @@
 A desktop app for learning languages by assimilation: a short dialogue a
 day, heard and repeated aloud, understood through your own language, with figured pronunciation, notes, two
 exercises, a revision lesson every seven, and from lesson 50 an active wave
-that rebuilds earlier lessons from your language. How it works is in
-[METHOD.md](METHOD.md).
+that rebuilds earlier lessons from your language. The voice reads each
+dialogue in one go, as a recording does; the notes sit beside the dialogue,
+the line they explain lit when you point at them. A ten-minute level test
+(reading, listening, writing, speaking) can start you at the lesson that
+fits what you already know, and after the last listening of each lesson the
+app can check your pronunciation, sentence by sentence, with speech
+recognition that runs offline. How it works is in [METHOD.md](METHOD.md).
 
 The first time it opens, the app asks which language to speak (Italiano,
 English or Español, each written in its own language, with the courses ready
@@ -200,7 +205,10 @@ every lesson goes:
 6. Exercise 1: translate. Exercise 2: fill in the missing words (one dot per
    letter; checked, accents forgiven with a warning). Mastery adds open tasks.
 7. Read it again with the translation hidden.
-8. Listen once more without the text.
+8. Listen once more without the text; then, if you like, "Check your
+   pronunciation": press Record, say each sentence, and see the words
+   understood in green and the ones to try again in red (speech recognition,
+   about 195 MB, downloaded on request, offline).
 9. Read and listen to the two previous dialogues.
 10. From lesson 50, the active wave: the lesson 49 places back (50 brings
     back 1), its dialogue and exercise 1 in your language only, to say (and
@@ -212,8 +220,8 @@ level test takes about ten minutes and is built from the course's own
 lessons: per level, from A1 up, two questions each of reading (a line and its
 meaning among four), listening (the same, only heard; it needs the voice, or
 can be skipped and then does not count), writing (an exercise 2 sentence,
-accents required, half right without them) and, once the speech module is in,
-speaking. A level is passed at 70% of the questions that counted, and the test
+accents required, half right without them) and speaking (say a line aloud;
+it needs speech recognition, offered there, or is left out). A level is passed at 70% of the questions that counted, and the test
 stops at the first level not passed. The result gives the level, one line per
 skill, and the lesson to start at: the first lesson of the level above (A2
 passed: Foundation 51; B2: Perfectionnement 46; C1: Mastery 26), within the

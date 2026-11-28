@@ -94,8 +94,8 @@ is in `work/PATTERNS.md` (measured in the books).
 How to study it (one lesson a day, about half an hour). Every lesson of the
 three courses goes the same way:
 
-1. Listen to the dialogue without any text, repeating each sentence aloud in
-   the pause, imitating the voice.
+1. Listen to the whole dialogue without any text, then repeat it aloud,
+   imitating the voice.
 2. The same, reading the translation in your language.
 3. The same, reading the original.
 4. Read the dialogue aloud in the original, with the translation and the
@@ -103,13 +103,25 @@ three courses goes the same way:
 5. Read the pronunciation observations and the notes. Do not learn by heart.
 6. Do the two exercises and compare with the corrections.
 7. Read the dialogue once more, the translation hidden.
-8. Listen without the text one last time, repeating each sentence.
+8. Listen without the text one last time, repeating each sentence; then,
+   if you like, say each sentence to the app and see which words it
+   understood.
 9. Read and listen to the dialogues of the two lessons before.
 
 In the app the voice reads the dialogue in one go, as the recordings do;
 "Pause to repeat", chosen step by step, gives the pause after each sentence
 for repeating it. The notes are shown beside the dialogue, the line a note
-is about lit when you point at it.
+is about lit when you point at it. After the last listening the app can
+check your pronunciation: you say each sentence after pressing Record, and
+offline speech recognition shows the words it understood in green and the
+ones to try again in red.
+
+Starting a new language you can take a level test instead of beginning at
+lesson 1: about ten minutes of reading, listening, writing and speaking
+questions taken from the courses themselves, level by level from A1, which
+stops at the first level not passed and starts you at the first lesson of
+the level above. Lessons skipped this way never come back in the active
+wave or the reviews.
 
 The early recordings are slow; the pace grows towards natural speed. One
 lesson a day is the rhythm: more is not better. A hard lesson can be gone

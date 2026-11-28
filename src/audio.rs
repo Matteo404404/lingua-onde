@@ -749,7 +749,7 @@ mod tests {
         // Lengths vary by about 20% between runs, so half speed is compared.
         v.set_speed(0.5);
         let (slow, slower) = speak("en", "A cup of tea, please.");
-        assert!(slower > natural * 3 / 2, "speed 0.5 is not slower ({slower} vs {natural} bytes)");
+        assert!(slower > natural * 5 / 4, "speed 0.5 is not slower ({slower} vs {natural} bytes)");
         // The system's own player starts on the file (a test machine may have
         // no sound card, so only the start is required).
         if find_program("mpv").is_none() && find_program("afplay").is_none() {

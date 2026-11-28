@@ -5843,3 +5843,806 @@ tasks:
 - El pleno municipal debatirá mañana la ordenanza que regula las terrazas de los bares. La propuesta fija un paso libre a lo largo de toda la acera, un horario de cierre a las once en las calles con viviendas y una inspección nocturna. «No queremos prohibir nada», ha dicho la concejala de Urbanismo, Teresa Vidal, «pero una norma que nadie vigila no sirve de nada». Los hosteleros piden más plazo para adaptar sus terrazas. La votación está prevista para la tarde y, si se aprueba, la ordenanza entrará en vigor tras su publicación.
   task.en: Write a short news report in Spanish, of about 90 words, about tomorrow's council vote on the terrace by-law: the lead first, then the details, one quote from a councillor you invent, and what happens next. Do not state the result of the vote.
   rubric.en: meaning: the report gives the lead, the details, a quote and the next step, and does not state the result of the vote; register: the neutral news register, with the quote in « » and the verb of saying in the past; structure: the lead sentence first, then details in order of importance, then what comes next; idiom: entrará en vigor and tras su publicación are used in their normal senses; effect: the last line tells the reader what to watch for, so the report ends on the next step.
+
+== 78 C2
+numeral: Lección setenta y ocho
+title: Una conversación de verdad
+title.en: A real conversation
+
+dialogue:
+- Nerea: Oye, ¿tú sabes dónde están las copas? O sea, las buenas, no las de plástico.
+  en: Listen, do you know where the glasses are? I mean the good ones, not the plastic ones.
+- Javier: En el armario de arriba. No sé si están limpias, que las he lavado yo esta mañana, pero bueno, ya lo verás.
+  en: In the top cupboard. I don't know if they're clean, I washed them myself this morning, but well, you'll see.
+- Nerea: Vale. Oye, ¿y Quique? Me dijo que venía, pero llevo aquí una hora y no lo he visto.
+  en: Right. Listen, what about Quique? He said he was coming, but I've been here an hour and I haven't seen him.
+- Javier: Pues a mí me dijo lo mismo. Ya lo conoces, es de los de "llego en diez minutos" y luego aparece a medianoche.
+  en: He told me the same. You know him, he's one of those who says "I'll be there in ten minutes" and then turns up at midnight.
+- Nerea: Ya, ya. Y encima te dice "tranquilo, que ya voy", como si tú le hubieras pedido algo.
+  en: Yes, yes. And on top of that he says "don't worry, I'm on my way", as if you had asked him for something.
+- Javier: Total, que igual no viene, y si viene, se pone a hablar con la de la guitarra.
+  en: Anyway, he may not come, and if he does, he'll end up talking to the one with the guitar.
+- Nerea: ¿La de la guitarra? ¿La que canta esas canciones de... de... digamos de otra época?
+  en: The one with the guitar? The one who sings those songs from... let's say from another era?
+- Javier: Esa misma. Oye, que yo no sé cantar, pero ella, en plan, lo intenta con toda el alma.
+  en: That one. I can't sing, but she, like, tries with her whole soul.
+- Nerea: Ya, pero la canción de la otra noche duraba once minutos.
+  en: Yes, but the song the other night lasted eleven minutes.
+- Javier: ¿Once? Pues a mí me parecieron veinte, eh, que yo estaba al lado del altavoz.
+  en: Eleven? It felt like twenty to me, mind, because I was next to the speaker.
+- Nerea: Es que tú siempre te pones al lado del altavoz, ¿sabes?, como si quisieras que te hiciera daño.
+  en: That's because you always stand next to the speaker, you know, as if you wanted it to hurt you.
+- Javier: (se ríe) Ya, pero es que ahí es donde está el sofá.
+  en: (laughs) Yes, but that's where the sofa is.
+- Nerea: Pues siéntate en el sofá, hombre, que tú no eres el altavoz.
+  en: Then sit on the sofa, for heaven's sake, you're not the speaker.
+- Javier: Vale, vale. Oye, y tú, ¿qué tal con lo de tu hermana? Que el otro día me dijiste que...
+  en: Right, right. And you, how are things with your sister? The other day you told me that...
+- Nerea: Pues mira, bien, o sea, dentro de lo que cabe. Lo de la boda lo ha dejado para... para más adelante, digamos.
+  en: Well, look, fine, I mean, as well as can be expected. She's put the wedding thing off... for later on, let's say.
+- Javier: ¿Para cuándo? Porque si es para el año que viene, nos vamos a ver en la cola del registro civil.
+  en: When? Because if it's next year, we'll be seeing each other in the queue at the registry office.
+- Nerea: No sé. Ella dice que lo decide ella, y yo le digo que vale, pero que el catering lo pague papá.
+  en: I don't know. She says she'll decide, and I tell her that's fine, but that Dad should pay for the caterer.
+- Javier: Pues no te lo tiene que pagar todo tu padre, ¿no? Digo yo, que para eso están los padres, pero...
+  en: Well, your father doesn't have to pay for all of it, does he? That's my view, that's what parents are for, but...
+- Nerea: Mis padres ya pagaron el bautizo de Lucas, y eso fue lo que...
+  en: My parents already paid for Lucas's christening, and that was the...
+- Javier: Ya, ya. Pues nada, que no sé ni de qué estamos hablando.
+  en: Yes, yes. Well, never mind, I don't even know what we're talking about.
+- Nerea: Es que hablamos de todo, ¿no?, de la boda, de la cola, del sofá...
+  en: That's the thing, we talk about everything, don't we? The wedding, the queue, the sofa...
+- Javier: (se ríe) Del sofá, sí. Bueno, el sofá también tiene su historia.
+  en: (laughs) The sofa, yes. Well, the sofa has its history too.
+- Nerea: Tú a lo tuyo. Oye, ¿y el de la barra? El que te estaba mirando desde las diez.
+  en: Mind your own business. Listen, what about the one at the bar? The one who was looking at you from ten o'clock.
+- Javier: ¿Quién? ¿Ese? Ese es el primo de Quique, creo, que vive en Cuenca... o en Guadalajara, no sé.
+  en: Who? Him? That's Quique's cousin, I think, who lives in Cuenca... or in Guadalajara, I don't know.
+- Nerea: Pues el primo de Quique se ha ido. Ha salido por la puerta de atrás, en plan con prisa, con el abrigo en el brazo.
+  en: Well, Quique's cousin has gone. He left by the back door, like in a hurry, with his coat over his arm.
+- Javier: ¿Y tú cómo lo sabes?
+  en: And how do you know?
+- Nerea: Porque me lo ha dicho él. Me ha pedido que te diga que lo siento, que no puede quedarse. Y Quique, no sé, que yo tampoco lo he visto.
+  en: Because he told me himself. He asked me to tell you he's sorry, that he can't stay. And Quique, I don't know, I haven't seen him either.
+- Javier: Pues mejor, que así no tengo que hablar de la boda. ¿Y la de la guitarra? ¿Sigue cantando?
+  en: Well, good, then I don't have to talk about the wedding. And the one with the guitar, is she still singing?
+- Nerea: No, que ahora se ha puesto a enseñarle acordes a alguien. Oye, ¿a que no sabes a quién?
+  en: No, she's started teaching chords to someone now. Listen, bet you don't know who?
+- Javier: Pues no. ¿A quién?
+  en: No idea. Who?
+- Nerea: A Quique, que lleva ahí detrás de ti desde que has empezado con lo del sofá, y no te has enterado.
+  en: To Quique, who has been standing right behind you since you started on about the sofa, and you haven't noticed.
+
+notes.en:
+1. "O sea, las buenas" (line 1): o sea means "that is to say" and in speech it narrows what has just been said. Nerea is not translating; she specifies which glasses she means.
+2. "es de los de" (line 4): de los de followed by a verb or a phrase names a type of person by a habit, here the friend who always promises to arrive early. The English "he's one of those who" does the same job.
+3. "Ya, ya" (line 5): said twice, it agrees and also says the speaker has heard this before. The tone is tired and friendly, not cold; "yes, yes" in English does some of it.
+4. "Total, que" (line 6): total closes an account of what has happened and "que" introduces the result, with a shrug. "Anyway" gives the sense; there is no exact English equivalent.
+5. "digamos de otra época" (line 7): digamos is said to soften a word the speaker is not sure of, here época. It is the Spanish version of "let's say", and it is not a request for the other person to agree.
+6. "en plan, lo intenta" (line 8): en plan is a colloquial filler, common across Spain and especially in young speech, that softens the claim before the verb. "Like" fits many uses in English, but not every one.
+7. "como si quisieras que te hiciera daño" (line 11): como si takes the imperfect subjunctive when the comparison is not true. The sentence is a joke about Javier's habit, said as if it were a plain fact.
+8. "¿sabes?" (line 11): a check-in marker, put at the end of a clause to make sure the listener is still with the speaker. In English it is "you know", used in the same way.
+9. "(se ríe)" (line 12): the transcript marks a laugh in parentheses, as transcribers do. The laugh answers the line before, so Javier's next words follow it.
+10. "Pues nada, que no sé ni de qué" (line 20): pues nada ends a subject that has gone nowhere. "Well, never mind" closes it in English. The ni de qué is the spoken form of "I don't even know".
+11. "Tú a lo tuyo" (line 23): an idiom meaning "mind your own business", said with a smile between friends. The literal sense is "you, to your own things". Nerea uses tú with Javier throughout.
+12. "enseñarle acordes a alguien" (line 29): the pronoun le, attached to the infinitive, repeats the indirect object a alguien, and acordes is the direct object. The person is named after the verb, as is usual in speech.
+13. "y no te has enterado" (line 31): enterarse de means to find out or to notice something that is happening. The reflexive keeps its pronoun: no te has enterado, not no has enterado.
+14. The dots in lines 14, 15, 19, 21 and 24 mark sentences that trail off or are cut short. A transcript keeps them; the reader fills the gap, as the speakers do.
+
+ex1:
+- Pues no sé, digamos que lo pensaré, o sea, mañana te digo algo.
+  en: Well, I don't know, let's say I'll think about it, I mean, I'll tell you something tomorrow.
+- Déjame en paz, que ya me las arreglo yo con mi madre.
+  en: Leave me alone, I'll sort it out with my mother myself.
+- Hombre, no es para tanto, aunque sea verdad que llegó tarde.
+  en: Come on, it's not that bad, even if it's true that he came late.
+- Pues como quieras, pero que luego no digas que no te avisé.
+  en: Well, as you like, but don't say later that I didn't warn you.
+- Es que, la verdad, me da igual lo que digan los de la oficina.
+  en: The thing is, honestly, I don't care what the people at the office say.
+
+ex2:
+- ¿Tú [sabes] si la tienda abre los domingos?
+  en: Do you know whether the shop opens on Sundays?
+- Mis padres no [tienen] por qué pagar el catering.
+  en: My parents do not have to pay for the caterer.
+- Pues [mejor] que vengas en taxi, que yo no conduzco.
+  en: Well, you'd better take a taxi, then, because I'm not driving.
+- Ahora mismo no me acuerdo de [nada].
+  en: Right now I don't remember anything at all.
+- Lleva una hora [esperando] en la puerta.
+  en: He has been waiting at the door for an hour.
+
+tasks:
+- Nerea preguntó a Javier dónde estaban las copas buenas, no las de plástico. Él contestó que en el armario de arriba, y que no estaba seguro de que estuvieran limpias, aunque las había lavado esa misma mañana. Después preguntó por Quique, que le había dicho que venía, pero no aparecía. Javier respondió que a él le había dicho lo mismo: Quique prometía llegar en diez minutos y siempre llegaba a medianoche. Hablaron de la chica de la guitarra, que según Nerea había cantado durante once minutos. Javier dijo que a él le habían parecido veinte, porque estaba junto al altavoz, y Nerea comentó que se ponía allí como si quisiera que le hiciera daño.
+  task.en: Turn lines 1 to 11 of the transcript into written prose in Spanish, of about 120 words, in the past tense, as a short narrative. Remove the fillers and the false starts, and keep every fact exactly.
+  rubric.en: meaning: the prose keeps the facts of lines 1 to 11, the glasses, Quique's ten minutes, the eleven-minute song and the speaker by the sofa; register: standard written Spanish, with no fillers and no quotation marks around speech; structure: the events follow the order of the transcript in the past tense, with reported speech where the transcript quotes; idiom: prometer, aparecer and recordar are used in their normal senses; effect: the prose keeps the warmth of two friends in a kitchen, without explaining their jokes.
+
+== 79 C2
+numeral: Lección setenta y nueve
+title: Ya, ya
+title.en: Yes, yes
+
+dialogue:
+- Jesús: ¿Estás en el coche, Teo? Suena como si estuvieras dentro de un tambor.
+  en: Are you in the car, Teo? It sounds as if you're inside a drum.
+- Teo: Sí, papá, en la autovía. Acabo de salir de Madrid.
+  en: Yes, Dad, on the motorway. I've just left Madrid.
+- Jesús: ¿Y tu madre sabe que sales hoy? Porque me dijo que la llamaras.
+  en: Does your mother know you're going out today? Because she told me to get you to call her.
+- Teo: Vale, luego la llamo. ¿Qué pasa?
+  en: Right, I'll call her later. What's up?
+- Jesús: Nada, que quiere saber si comes con nosotros el domingo.
+  en: Nothing, she wants to know whether you're eating with us on Sunday.
+- Teo: Pues no sé, papá, que tengo que pasar por el taller.
+  en: Well, I don't know, Dad, I have to stop at the garage.
+- Jesús: ¿El taller? ¿Pero el coche no estaba bien?
+  en: The garage? But wasn't the car all right?
+- Teo: Ya, ya, pero el mecánico dice que el embrague... bueno, da igual.
+  en: Yes, yes, but the mechanic says the clutch... well, never mind.
+- Jesús: Hombre, no te me quedes tirado por el camino, ¿eh?
+  en: For heaven's sake, don't break down on the way, eh?
+- Teo: Que no, papá, que hoy no va a pasar nada.
+  en: No, Dad, nothing is going to happen today.
+- Jesús: Ya, pero tú siempre dices lo mismo, y luego te llamo yo a medianoche desde casa, con el coche en el arcén.
+  en: Yes, but you always say the same thing, and then I ring you at midnight from home, with the car on the hard shoulder.
+- Teo: Que no, que ahora voy con el depósito lleno, mira, la gasolinera está ahí mismo, y no pienso parar en el arcén.
+  en: No, I'm not, I've got a full tank now, look, the petrol station is right there, and I'm not stopping on the hard shoulder.
+- Jesús: Vale. Oye, ¿y el traje? ¿Ya te lo has probado?
+  en: Right. Listen, the suit? Have you tried it on yet?
+- Teo: Ya, ya. Me lo probé el jueves, y me queda bien, ¿no?
+  en: Yes, yes. I tried it on on Thursday, and it fits me well, doesn't it?
+- Jesús: ¿El gris, eh? Que el azul en una boda de día parece de notario.
+  en: The grey, eh? Because the blue at a daytime wedding looks like a notary's.
+- Teo: Sí, el gris. El azul lo guardo para los funerales.
+  en: Yes, the grey. I keep the blue for funerals.
+- Jesús: Anda, no digas esas cosas. Y no te olvides del regalo, que Álvaro es muy suyo para eso.
+  en: Come on, don't say things like that. And don't forget the present, because Álvaro is very particular about that.
+- Teo: Venga, papá, que el regalo también lo tengo.
+  en: Right then, Dad, I've got the present too.
+- Jesús: Pues a ver si es verdad, que el año pasado me dijiste lo mismo con el reloj.
+  en: Well, let's see if it's true, because last year you said the same about the watch.
+- Teo: Que sí, papá, que el reloj ya lo devolví, y esta vez no hay devolución.
+  en: Yes, Dad, I took the watch back, and this time there's no returning anything.
+- Jesús: ¿Y qué le has comprado? Que no vayas a llevar otra vez la batidora.
+  en: And what have you bought him? Don't turn up with the blender again.
+- Teo: ¡Qué va! Algo para la casa. Lo elegí con Irene, ¿sabes?
+  en: Not at all! Something for the house. I chose it with Irene, you know?
+- Jesús: Ah, Irene. La novia de Álvaro, ¿no? Qué bien, qué bien.
+  en: Ah, Irene. Álvaro's girlfriend, isn't she? How nice, how nice.
+- Teo: ¿Cómo que la novia de Álvaro, papá? Irene es mi novia.
+  en: What do you mean, Álvaro's girlfriend, Dad? Irene is my girlfriend.
+- Jesús: Ya, ya, la tuya. Entonces, ¿se casa Álvaro el sábado o no?
+  en: Yes, yes, yours. So is Álvaro getting married on Saturday or not?
+- Teo: Que no se casa, papá, que es el padrino. Ya te lo he dicho dos veces.
+  en: He isn't getting married, Dad, he's the padrino. I've told you that twice.
+- Jesús: Vaya lío. Pues el padrino tiene que ir de traje, ¿eh?
+  en: What a mess. Well, the padrino has to wear a suit, eh?
+- Teo: Pues sí, el gris, que ya lo sabes.
+  en: Well, yes, the grey, as you know.
+- Jesús: Y entonces, ¿qué boda es el sábado?
+  en: So then, which wedding is on Saturday?
+- Teo: Papá. La mía. Que me caso yo, y llevo dos horas diciéndotelo.
+  en: Dad. Mine. I'm the one getting married, and I've been telling you for two hours.
+
+notes.en:
+1. "Ya, ya" (lines 8 and 14): said as agreement, and at the same time as a sign that the speaker is not giving the words much weight. The English "yes, yes" carries the same doubled tone.
+2. "Vale, luego la llamo" (line 4): vale answers and agrees to a request; luego means "later" and is the usual spoken word in Spain for it.
+3. "¿eh?" (lines 9 and 15): a tag that asks for the listener's agreement or attention. It is sharper and more spoken than "¿no?", which expects a yes.
+4. "¿no?" (lines 14 and 23): the tag that closes a statement with a question and expects a yes, the English "isn't she?" or "doesn't it?" in its place.
+5. "¿Ya te lo has probado?" (line 13): ya with the perfect asks whether something has happened by now, and the answer is yes or no.
+6. "Me lo probé el jueves" (line 14): a day that is over takes the preterite, so the trying-on is a finished event.
+7. "parece de notario" (line 15): parecer de with a noun means to look like the kind of person named. A dark blue suit is said to look formal and sober.
+8. "Anda, no digas esas cosas" (line 17): anda is a mild reproach, a way of telling someone to stop a joke or a remark.
+9. "Venga, papá" (line 18): venga closes a point and moves on, with a note of agreement. The English "right then" gives the same shift.
+10. "¡Qué va!" (line 22): a denial, "not at all" or "no way", used when the speaker wants to correct the idea behind the question.
+11. "¿sabes?" (line 22): a check-in marker, put at the end of a clause; in English "you know", used the same way.
+12. "la novia de Álvaro" (line 23): novia can mean girlfriend or fiancée, and the context decides which. Here the father takes the word in one of its senses.
+13. "la tuya" (line 25): the feminine pronoun agrees with novia, the word just used, so la tuya means "yours" in that sense.
+14. "el padrino" (line 26): at a Spanish wedding the padrino is a person close to the couple who stands with them at the ceremony. The Spanish word stays because the role is not the same as the English best man.
+15. "Vaya lío" (line 27): vaya marks surprise or annoyance at a situation; "what a mess" gives the sense.
+16. "Llevo dos horas diciéndotelo" (line 30): llevar with a gerund counts an action that began in the past and is still going on. The time word dos horas sets the length.
+
+ex1:
+- Ya, ya, pero es que tú no sabes lo que me costó.
+  en: Yes, yes, but you don't know what it cost me.
+- Hombre, si lo dices así, pues no me extraña.
+  en: Well, if you put it like that, I'm not surprised.
+- Oye, ¿tú no tendrías que estar ya en el trabajo, hombre?
+  en: Listen, shouldn't you already be at work, for heaven's sake?
+- No, mujer, que eso no lo ha hecho nadie.
+  en: No, love, nobody has ever done that.
+- Venga, que lo dejamos para el sábado y ya veremos.
+  en: Right, let's leave it till Saturday and we'll see.
+
+ex2:
+- El año pasado en Sevilla, [probé] tres trajes y no compré ninguno.
+  en: Last year in Seville, I tried on three suits and bought none.
+- No te [olvides] de llamar a tu madre.
+  en: Don't forget to call your mother.
+- Llevo [tres] horas esperando en el taller.
+  en: I have been waiting at the garage for three hours.
+- ¿Me estás [escuchando] o no?
+  en: Are you listening to me or not?
+- Vale, pero que [conste].
+  en: All right, but let it be on record.
+
+tasks:
+- Teo: Claro, papá, la llamo luego. ¿Qué pasa? Jesús: Nada, que quiere saber si comes con nosotros el domingo. Teo: Pues no sé, que tengo que pasar por el taller. Jesús: ¿El taller? ¿Pero el coche no estaba bien? Teo: Sí, pero el mecánico dice que el embrague... en fin, no importa. Jesús: Pues mira, no te me quedes tirado por el camino. Teo: No, papá, que hoy no va a pasar nada. He cambiado las muletillas: vale pasa a claro, ya, ya a sí, sí, bueno, da igual a en fin, no importa, y hombre a pues mira. La conversación sigue igual, pero el tono queda más neutro y con menos confianza, porque ya no hay esa forma de no escuchar del todo.
+  task.en: Rewrite lines 4 to 10 of the dialogue with other response words and markers of the same register, keeping each line's content and the order of the speakers. Then explain in Spanish, in about 50 words, which markers you changed and how the tone moves.
+  rubric.en: meaning: the rewrite keeps the content of lines 4 to 10, the call, the garage, the clutch and the warning; register: the new markers are of the same informal register, with no formal usted; structure: the lines alternate and each answers the one before; idiom: claro, en fin and pues mira are used in their normal senses; effect: the explanation names each marker changed and says how the tone moves, without repeating the lesson's notes.
+
+== 80 C2
+numeral: Lección ochenta
+title: Tacos
+title.en: Swearing
+
+dialogue:
+- En España se dicen tacos, y no es raro oír a alguien pedir perdón por "un taco" después de soltar una palabra fuerte delante de los niños.
+  en: In Spain they are called tacos, and it is not unusual to hear someone apologise for "a taco" after letting a strong word out in front of the children.
+- Decir tacos es hablar mal, pero hay gente que los suelta sin pensar, como quien tose o estornuda.
+  en: Saying tacos is speaking badly, but there are people who let them out without thinking, the way one coughs or sneezes.
+- Conviene distinguir entre el taco que se escapa con el golpe del martillo y el que se elige para herir a alguien.
+  en: It is worth distinguishing between the taco that slips out when the hammer hits your thumb and the one that is chosen to hurt someone.
+- Lo primero es el registro: en una conversación entre amigos, la palabrota aparece cada pocas frases, y en una reunión de trabajo o en una entrevista desaparece casi por completo.
+  en: The first thing is the register: in a conversation between friends the swear word turns up every few sentences, and in a work meeting or a job interview it almost disappears altogether.
+- Los suaves tienen su lugar propio: jolín, jope, ostras, caray, mecachis y miércoles sirven para la sorpresa o el disgusto sin decir nada que moleste.
+  en: The mild ones have a place of their own: jolín, jope, ostras, caray, mecachis and miércoles serve for surprise or annoyance without saying anything that offends.
+- Jolín y jope son de los más extendidos, y se oyen en boca de adultos y de niños, aunque algunos los sienten como más infantiles.
+  en: Jolín and jope are among the most widespread, and they are heard from adults and children alike, although some people feel them to be more childish.
+- Ostras es el más neutro de todos: casi nadie lo toma por una palabrota, y se oye con frecuencia en casi todas partes.
+  en: Ostras is the most neutral of all: almost nobody takes it for a swear word, and it is heard often almost everywhere.
+- Caray es una exclamación antigua, que muchas personas mayores usan con gusto para cortar una frase sin perder la sonrisa.
+  en: Caray is an old-fashioned exclamation, which many older people use gladly to cut off a sentence without losing their smile.
+- Mecachis es casi una broma: con él se expresa un contratiempo pequeño, como cuando se cae un vaso o se olvida la llave.
+  en: Mecachis is almost a joke: it expresses a small setback, such as when a glass falls or the key is forgotten.
+- Miércoles, en cambio, es un eufemismo de algo más fuerte: el nombre del día de la semana se usa para decir lo que no se quiere decir.
+  en: Miércoles, on the other hand, is a euphemism for something stronger: the name of the day of the week is used to say what one does not want to say.
+- Los tacos fuertes son otra cosa: se oyen en la calle, en el bar y en el estadio, y su peso depende casi siempre del tono y de quién los escucha.
+  en: Strong swear words are another matter: they are heard in the street, in the bar and at the stadium, and their weight depends almost always on the tone and on who is listening.
+- Muchas personas los emplean a diario, a veces como señal de confianza entre amigos y a veces como simple puntuación de la frase.
+  en: Many people use them every day, sometimes as a sign of trust between friends and sometimes as plain punctuation in a sentence.
+- Entre los más fuertes están coño y hostia, que mucha gente considera de las más ofensivas, y que conviene no usar ante desconocidos.
+  en: Among the strongest are coño and hostia, which many people consider among the most offensive, and which should not be used in front of strangers.
+- Hay tacos de uso muy corriente que sirven para la sorpresa, el dolor o el enfado, y su fuerza cambia según el grupo en el que se digan.
+  en: There are very common swear words that serve for surprise, pain or anger, and their force changes according to the group in which they are said.
+- El uso también cambia con la edad: los jóvenes los emplean como muletilla, y algunos mayores los consideran una falta de educación.
+  en: Use also changes with age: young people use them as a filler, and some older people consider them bad manners.
+- Pero la palabrota tiene además una función más antigua: sirve para descargar la tensión cuando algo sale mal, y muchos la usan así sin pensar en quien escucha.
+  en: But the swear word also has an older function: it serves to release tension when something goes wrong, and many people use it that way without thinking about who is listening.
+- En otros países de habla hispana, algunas palabras corrientes en Madrid pueden sonar mal, y conviene tener cuidado con ellas.
+  en: In other Spanish-speaking countries, some words that are ordinary in Madrid can sound bad, and it is wise to be careful with them.
+- El ejemplo más conocido es coger: en Madrid, coger el autobús o coger el metro es lo más normal del mundo.
+  en: The best-known example is coger: in Madrid, coger el autobús or coger el metro is the most normal thing in the world.
+- En México y en buena parte de Argentina, coger tiene un sentido sexual, y una frase tan corriente puede escandalizar a quien la oye.
+  en: In Mexico and in much of Argentina, coger has a sexual sense, and a sentence as ordinary as this can shock the person who hears it.
+- Por eso, al hablar con un amigo mexicano o argentino, conviene decir tomar el autobús y dejar el otro verbo para otra ocasión.
+  en: So, when talking with a Mexican or Argentine friend, it is better to say tomar el autobús and leave the other verb for another occasion.
+- Para un amigo inglés que empieza a aprender español, las palabras seguras son jolín, ostras, caray y mecachis, que sirven para casi cualquier sorpresa sin ofender a nadie.
+  en: For an English friend who is beginning to learn Spanish, the safe words are jolín, ostras, caray and mecachis, which serve for almost any surprise without offending anyone.
+- Para usar tacos más fuertes hace falta conocer el grupo, y eso no se aprende en un libro.
+  en: To use stronger swear words you need to know the group, and that is not learnt from a book.
+- Lo que sí conviene es notar cuándo un grupo de amigos los usa como cariño y cuándo los usa como insulto.
+  en: What is worth doing is noticing when a group of friends uses them as affection and when they use them as an insult.
+- Quien no lo sepa, mejor que se calle: en la mayoría de las conversaciones, el silencio no molesta a nadie.
+  en: Whoever is not sure should keep quiet: in most conversations, silence bothers nobody.
+- Y si alguna vez se escapa un taco delante de la abuela, lo mejor es pedir perdón con una sonrisa y seguir.
+  en: And if a taco ever slips out in front of Grandma, the best thing is to apologise with a smile and carry on.
+
+notes.en:
+1. "En España se dicen tacos" (sentence 1): taco is the Spanish word for a swear word. "Soltar" means to let out, here a swear word that escapes the speaker.
+2. "como quien tose o estornuda" (sentence 2): the comparison says what is meant: the word comes out without intention, as a cough does. Hablar mal means to speak badly, in the sense of bad language.
+3. "el golpe del martillo" (sentence 3): the example is the swear word that comes at once when something hurts; the contrast is with the one chosen to offend.
+4. "lo primero es el registro" (sentence 4): register is the level of speech for a situation. Swearing moves down in friendly talk and almost leaves a work interview.
+5. "Los suaves" (sentence 5): the mild forms are the softened swear words, called euphemisms. Each one is used for surprise or annoyance and none is taken for a strong word.
+6. "Jolín y jope" (sentence 6): both are mild and used across Spain, and their register is the lowest. Some speakers hear them as childish.
+7. "Ostras" (sentence 7): the most neutral of the mild forms. Register: informal, with no offence intended.
+8. "Caray" (sentence 8): register: old-fashioned and mild, the word of an older generation. The English "gosh" is near it in force.
+9. "Mecachis" (sentence 9): a softened form of a stronger oath, used for a small setback, in a light register.
+10. "Miércoles" (sentence 10): a euphemism for the strong word mierda. The weekday is the same word and the pun is what makes it a euphemism.
+11. "coño y hostia" (sentence 13): the strongest words, named once. Many find them the most offensive, and they are best kept away from strangers.
+12. "coger el autobús" (sentence 18): in Madrid coger is the ordinary verb for taking transport, the English "catch" or "take". The note names the countries that use it differently.
+13. "En México y en buena parte de Argentina" (sentence 19): in Mexico and Argentina coger has a sexual sense. Madrid's ordinary use is not shared there, and the note gives the Madrid word as the usual replacement.
+14. "tomar el autobús" (sentence 20): in Mexico and in the Río de la Plata tomar is the common verb for taking a bus, where Madrid says coger.
+15. "las palabras seguras" (sentence 21): register: mild, and safe for a learner, since each one covers surprise without offence.
+
+ex1:
+- Lo de las palabrotas depende mucho del grupo, y lo que a unos les hace gracia a otros les parece una falta de respeto.
+  en: Swearing depends a great deal on the group, and what some people find funny others consider a lack of respect.
+- Ostras, qué frío hace, y encima me he dejado el paraguas en casa.
+  en: Blimey, it's cold, and on top of that I've left my umbrella at home.
+- Mecachis, otra vez se me ha olvidado la llave del portal.
+  en: Oh, blast, I've forgotten the front door key again.
+- Entre amigos se puede decir casi cualquier cosa, pero delante de mi abuela, nada.
+  en: Among friends you can say almost anything, but in front of my grandmother, nothing.
+- No es que sea un taco fuerte, pero en una entrevista de trabajo no lo diría ni en broma.
+  en: It isn't that it is a strong swear word, but I wouldn't say it at a job interview, not even as a joke.
+
+ex2:
+- Jolín, qué [calor] hace hoy.
+  en: Gosh, it's hot today.
+- Caray, qué [susto] me has dado.
+  en: Blimey, what a fright you gave me.
+- Miércoles, otra vez se me ha [caído] el móvil.
+  en: Damn, my phone has fallen again.
+- Las palabrotas [suenan] mal en una entrevista de trabajo.
+  en: Swear words sound bad at a job interview.
+- Para un amigo inglés, las palabras [seguras] son las suaves.
+  en: For an English friend, the safe words are the mild ones.
+
+tasks:
+- Hola, Tom. Me preguntas qué palabras puedes usar sin problemas, y te lo digo en serio: jolín, ostras, caray y mecachis son seguras con casi cualquier persona. Jope también, aunque algunos lo oirán como algo de niños. Lo que no te recomiendo es imitar a los amigos cuando sueltan los tacos fuertes, porque en España hay gente que se ofende mucho y en México algunas palabras corrientes aquí suenan mal. Cuando dudes, usa una de las suaves, sonríe y sigue hablando.
+  task.en: Write a message in Spanish of about 90 words to an English friend, Tom, who asks which swear words are safe to use in Spain. Use tú, name at least four mild words and say which kind of word to avoid, and say what the safe choice is when he is not sure.
+  rubric.en: meaning: the message names at least four mild words as safe and says which kind to avoid; register: friendly and informal, with tú, and no strong word written out; structure: a short answer, then the reasons, then the advice for doubtful cases; idiom: sin problemas, cuando dudes and seguir hablando are used in their normal senses; effect: the last line gives Tom one clear rule, so the message ends on the practical advice.
+
+== 81 C2
+numeral: Lección ochenta y una
+title: Abuela, eso renta
+title.en: Grandma, that's worth it
+
+dialogue:
+- Dani: tío, la profe de historia nos ha soltado un examen random sin avisar, q mazo de injusto
+  en: mate, the history teacher sprang a random test on us without warning, so unfair
+- Carmen: ¿Random? ¿Y eso qué es? Lo tengo que buscar, que con tanta palabra inglesa una ya no entiende nada.
+  en: Random? What's that? I'll have to look it up, with so many English words an old woman can't follow a thing.
+- Dani: bro, xq no me avisaste ayer, que te pasé los apuntes y ni los miraste
+  en: bro, why didn't you warn me yesterday, I sent you the notes and you didn't even look at them
+- Carmen: ¿Bro? Pues si es hermano, ¿Sergio tiene hermanos nuevos y no me ha dicho nada? Y los apuntes, ¿los de la compra?
+  en: Bro? Well, if it means brother, has Sergio got new brothers and not told anyone? And the notes, the shopping ones?
+- Dani: qué fuerte lo de Marina, me ha escrito "tía, qué mal", tb se ha quedado con cero en mates, ns si se lo ha tomado bien
+  en: how intense about Marina, she wrote "girl, how awful", she got zero in maths too, and I don't know if she took it well
+- Carmen: ¿Marina? ¿La de la farmacia? Pobrecilla. Y ¿qué es eso de tomárselo bien? En mi época eso se llamaba aguantar.
+  en: Marina? The one from the chemist's? Poor thing. And what's this about taking it well? In my day that was called putting up with it.
+- Dani: jaja tío, la profe es mazo chunga, pone exámenes cada dos por tres, literal lo peor del insti
+  en: haha mate, the teacher is so difficult, she sets tests every five minutes, honestly the worst thing about school
+- Carmen: ¿Chunga? Eso será chungo, ¿no? Ya lo entiendo: lo que es difícil es chungo, y lo que es muy difícil es mazo chungo.
+  en: "Chunga"? That must be chungo, mustn't it? Now I get it: what is difficult is chungo, and what is very difficult is really chungo.
+- Dani: y el chaval de la tienda del barrio me ha dicho que pa qué estudio si no me renta
+  en: and the lad at the corner shop asked me what's the point of studying if it isn't worth it
+- Carmen: ¿Que no te renta? ¿Y eso? Ese chaval es un pesado, y él también tendrá que estudiar.
+  en: It isn't worth it? Why? That lad is a nuisance, and he'll have to study too.
+- Dani: pues renta si sacas un ocho, no te digo más, que eso se paga solo
+  en: well, it's worth it if you get an eight, I won't say more, because that pays for itself
+- Carmen: Ya, pero un ocho es notable, ¿no? Renta solo la conozco como lo que se paga por el piso.
+  en: Yes, but an eight is a B-plus, isn't it? I only know renta as the rent you pay on the flat.
+- Dani: jajaja no, tío, renta es que compensa, que vale la pena. Un ocho es un ocho, en serio
+  en: hahaha no, mate, renta means it pays off, it's worth the effort. An eight is an eight, honestly
+- Carmen: Pues ya está: renta es lo que compensa. Y lo de la foto del grupo, ¿qué pasó con Marina? Que no me he enterado.
+  en: Right, so renta is what pays off. And what happened with Marina and the group photo? I didn't follow that.
+- Dani: lo de la foto fue muy cringe, tío, muerto. Se puso a hacer poses en el pasillo y todo el mundo lo vio
+  en: the photo thing was so cringe, mate, I'm dead. She started striking poses in the corridor and everyone saw
+- Carmen: ¿Cringe? Lo he buscado en el móvil del chico, y pone que es sentir vergüenza ajena. Eso lo entiendo, que a mí me da lo mismo cuando salen los políticos en la tele.
+  en: Cringe? I looked it up on the boy's phone, and it says it's feeling embarrassed for someone else. I understand that, it gives me the same feeling when the politicians come on the television.
+- Dani: jajaja, tío, y no se lo cuentes a mi abuela, que lo mira todo
+  en: hahaha mate, and don't tell my grandma, she checks everything
+- Carmen: Pues mira, ya lo estoy leyendo yo. Qué fuerte es el chico.
+  en: Well, look, I'm reading it now. What a cheek the boy has.
+- Dani: tío, mi madre me ha escrito que compre leche y ns si voy, que estoy de vagos
+  en: mate, my mum has messaged me to buy milk and I don't know if I'll go, I'm being lazy
+- Carmen: Pues que vaya el padre, que el chico ya tiene bastante con los exámenes.
+  en: Then let his father go, the boy has enough on his plate with the tests.
+- Dani: vale, tío, lo de la leche ya no es mi problema
+  en: fine, mate, the milk is no longer my problem
+- Carmen: ¿Y de quién es, entonces? ¿De la nevera?
+  en: Whose is it, then? The fridge's?
+- Dani: ns, mañana quedamos en el parque, que viene Marina y se monta algo chulo
+  en: no idea, we're meeting in the park tomorrow, Marina's coming, and something cool will kick off
+- Carmen: ¿Chulo? En mis tiempos chulo era el que se daba importancia. Pero bueno, que sea lo que sea.
+  en: Cool? In my day a chulo was a man who made a show of himself. Still, whatever it is.
+- Dani: no, tío, que chulo es guay, en serio. Luego te cuento
+  en: no, mate, chulo means cool, honestly. I'll tell you later
+- Carmen: Ya le preguntaré yo cuando lo vea, que ahora me he quedado con lo de los apuntes. ¿Estudiará algo o no?
+  en: I'll ask him myself when I see him, I'm stuck on the notes now. Will he study anything or not?
+- Dani: flipo con lo de la profe, tío, ya estoy mazo cansado. Me ducho y luego veo si sale algo del examen
+  en: I'm losing it over the teacher, mate, I'm really tired. I'm off for a shower and then I'll see if anything from the test comes up
+- Carmen: Sergio, tío, soy la abuela de Dani, que el móvil lo tengo yo. Pues eso, que renta un montón estudiar, que la profe es mazo chunga pero tú a por ello. Qué fuerte, ¿no? Mazo de bien, bro.
+  en: Sergio, mate, it's Dani's grandma, I've got his phone. So, studying is well worth it, the teacher is a real pain but go for it. Intense, isn't it? Really good, bro.
+
+notes.en:
+1. "mazo de injusto" (line 1): mazo before an adjective or adverb means very or really, in Madrid youth speech, as in mazo de bueno. The English "so" or "really" does the same work.
+2. "random" (lines 1 and 2): an English word used in Spanish youth speech for something unexpected or odd. Carmen does not know it and looks it up.
+3. "bro" (lines 3 and 4): taken from English, used between young friends as the equivalent of "mate". Carmen reads it in its English sense, brother.
+4. "xq", "q", "tb" and "ns" (lines 1, 3, 5 and 23): the chat abbreviations for porque, que, también and no sé. They are typed fast and are not spoken.
+5. "qué fuerte" (line 5): an exclamation of surprise or shock, close to "how intense" or "wow", and common among young people across Spain.
+6. "tía, qué mal" (line 5): tía is the word for a girl or a woman as an address between friends, the feminine of tío. Marina's words are quoted inside Dani's message.
+7. "la profe es mazo chunga" (line 7): chunga agrees with profe, the feminine noun. Chungo is a colloquial adjective for difficult, bad or dangerous, and it comes from caló.
+8. "literal lo peor del insti" (line 7): literal is used as an intensifier, "honestly" or "literally", and insti is the familiar word for the secondary school.
+9. "el chaval de la tienda" (line 9): chaval is a boy, a kid or a lad. It comes from caló, and it is the everyday word in Spain.
+10. "renta" (lines 9, 11 and 13): in youth speech renta means it is worth the effort or it pays off, and no renta means it is not worth it. Carmen knows it as rent or income, the older senses.
+11. "un ocho es notable" (line 12): in the Spanish marking scale an eight is a notable grade, below sobresaliente, which begins at nine.
+12. "cringe" and "muerto" (lines 15): cringe, from English, is the feeling of embarrassment for someone else, and muerto said of oneself is a hyperbole for "I'm dying of embarrassment or laughter".
+13. "vergüenza ajena" (line 16): the Spanish phrase Carmen finds in the dictionary, and it is a translation of cringe, as embarrassment felt for another person.
+14. "chulo" (lines 24 and 25): in the older sense chulo was a showy, boastful man, and in youth speech it means cool or nice. Both are real, and the context shows which.
+15. "estoy de vagos" (line 19): de vagos means being lazy, from vago, and it is said of a day or a mood, not of a person's character.
+16. "mazo de bien" (line 28): the last message uses mazo to mean very or a lot, as in the earlier lines, so the grandmother writes in the same register.
+
+ex1:
+- Tío, lo has pasado mal con el examen, pero el año que viene te lo tomas con más calma.
+  en: Mate, you had a rough time with the exam, but next year take it more calmly.
+- Renta estudiar si te lo tomas en serio, aunque no hace falta que te mates por ello.
+  en: Studying is worth it if you take it seriously, though you don't need to kill yourself over it.
+- Lo que me cuentas de la foto me da vergüenza ajena, pero seguro que se le pasa.
+  en: What you tell me about the photo gives me secondhand embarrassment, but I'm sure she'll get over it.
+- Mi abuela dice que en su época un chulo era otra cosa, y tiene razón.
+  en: My grandmother says that in her day a chulo was something else, and she's right.
+- Mazo de chungo lo de la profe, pero al final aprobamos todos.
+  en: The teacher was really a nightmare, but in the end we all passed.
+
+ex2:
+- Oye, ¿tú [sabes] si hay examen mañana?
+  en: Hey, do you know whether there's a test tomorrow?
+- Dicen que ese examen no [renta], pero yo creo que sí.
+  en: They say that test isn't worth it, but I think it is.
+- Mi madre dice que yo estoy de [vagos].
+  en: My mum says I'm being lazy.
+- Eso es mucho [mejor] que nada.
+  en: That's a lot better than nothing.
+- Me da vergüenza [ajena] verlo.
+  en: Watching it makes me embarrassed for him.
+
+tasks:
+- Abuela, mi amigo me ha escrito para contarme que la profesora es muy difícil y que pone exámenes cada dos por tres. También dice que lo que ha hecho Marina en la foto da mucha vergüenza ajena, y que quedamos mañana en el parque, porque va a ser un buen plan. Mazo quiere decir muy, chunga quiere decir difícil y, en este caso, chulo significa que va a estar bien. Vergüenza ajena es lo que sientes cuando otra persona hace algo que te incomoda. No te preocupes, que no pasa nada grave.
+  task.en: A friend's message reads: "Mate, the teacher's a nightmare, she sets tests every five minutes. What Marina did in the photo is so cringe. We're meeting in the park tomorrow, it'll be chulo." Write in Spanish, in about 70 words, a message to your grandmother that translates it into standard Spanish, with no slang, and explains the three words that are not standard. Use tú.
+  rubric.en: meaning: the message gives the complaint, the photo and the meeting, and explains cringe and chulo correctly; register: standard Spanish with no slang, and no abbreviations; structure: the translation in the order of the original, then the explanations; idiom: vergüenza ajena, pasar and no pasa nada are used in their normal senses; effect: the last line reassures the grandmother, so the message closes on a calm note.
+
+== 82 C2
+numeral: Lección ochenta y dos
+title: Soy yo
+title.en: It's me
+
+dialogue:
+- Contestador: Mensaje recibido hoy a las nueve y cuatro de la noche.
+  en: Message received today at four minutes past nine in the evening.
+- Gonzalo: Hola, Marta, soy Gonzalo. Nada importante, de verdad. Llámame cuando puedas.
+  en: Hi, Marta, it's Gonzalo. Nothing important, honestly. Call me when you can.
+- Contestador: Mensaje recibido hoy a las nueve y diez de la noche.
+  en: Message received today at ten past nine in the evening.
+- Gonzalo: Hola otra vez, Marta. Te llamaba por lo del coche, pero no es nada grave, que lo tengo todo controlado. Me llamas cuando quieras.
+  en: Hi again, Marta. I was ringing about that business with the car, but it's nothing serious, I've got everything under control. Ring me whenever you like.
+- Contestador: Mensaje recibido hoy a las nueve y veintidós de la noche.
+  en: Message received today at twenty-two minutes past nine in the evening.
+- Gonzalo: Bueno, Marta, que igual no lo he explicado bien. Lo del coche, que sí, que lo he tocado un poco. Un poco, vamos, nada que no se arregle. Llámame.
+  en: Well, Marta, maybe I didn't explain it properly. The car, yes, I did touch it a bit. A bit, I mean, nothing that can't be fixed. Ring me.
+- Contestador: Mensaje recibido hoy a las nueve y media de la noche.
+  en: Message received today at half past nine in the evening.
+- Gonzalo: Mira, lo del aparcamiento es que la columna está muy cerca, y cualquiera se hubiera dado un golpe. Es en la puerta de atrás, tampoco es para tanto. Ya me dirás.
+  en: Look, the thing about the car park is that the pillar is very close, and anyone would have dented it. It's on the back door, it's not that bad either. You'll let me know.
+- Contestador: Mensaje recibido hoy a las nueve y cuarenta y uno de la noche.
+  en: Message received today at forty-one minutes past nine in the evening.
+- Gonzalo: Y el del taller dice que la puerta hay que cambiarla entera, y eso ya no es un golpecito, ¿sabes? Bueno, que lo hablamos cuando quieras, ¿vale?
+  en: And the man at the garage says the whole door has to be replaced, and that's not a little dent any more, you know? Well, we can talk about it whenever you want, all right?
+- Contestador: Mensaje recibido hoy a las nueve y cuarenta y ocho de la noche.
+  en: Message received today at forty-eight minutes past nine in the evening.
+- Gonzalo: Te cuento lo del taller: me han dado un presupuesto, pero digamos que es un poco alto. Que no te preocupes, que lo pago yo, lo que pasa es que el papel es muy largo de leer. Llámame.
+  en: Let me tell you about the garage: they've given me an estimate, but let's say it's a bit high. Don't worry, I'll pay for it, it's just that the paperwork is very long to read. Ring me.
+- Contestador: Mensaje recibido hoy a las diez menos diez de la noche.
+  en: Message received today at ten minutes to ten in the evening.
+- Gonzalo: Marta, que a lo mejor te interesa saber que el señor de la grúa dijo que aquello no tenía arreglo, y yo le dije que sí, que lo tenía, y ahora no sé quién tenía razón. Llámame.
+  en: Marta, you may want to know that the tow-truck man said it couldn't be fixed, and I said it could, and now I don't know who was right. Ring me.
+- Contestador: Mensaje recibido hoy a las diez de la noche.
+  en: Message received today at ten in the evening.
+- Gonzalo: Oye, que mi madre dice que tú eres muy buena persona y que no te vas a enfadar, y yo le he dicho que eso ya lo sé. Pero bueno, por si acaso, te lo digo yo también: no te vas a enfadar, ¿no?
+  en: Look, my mum says you're a very good person and you won't get cross, and I told her I already knew that. But well, just in case, I'll say it too: you're not going to get cross, are you?
+- Contestador: Mensaje recibido hoy a las diez y diez de la noche.
+  en: Message received today at ten past ten in the evening.
+- Gonzalo: Y lo de la puerta, que no sé qué te habrá dicho tu hermana, pero la pintura del Fiat del vecino está igual de rayada, así que es la misma historia. Llámame.
+  en: And about the door, I don't know what your sister has told you, but the paint on the neighbour's Fiat is just as scratched, so it's the same story. Ring me.
+- Contestador: Mensaje recibido hoy a las diez y veinte de la noche.
+  en: Message received today at twenty past ten in the evening.
+- Gonzalo: Marta, en serio, no te preocupes, que ya he hablado con el seguro, y dicen que cubre casi todo. Eso lo sabré mañana, y entonces te lo confirmo, o no, que ya veremos.
+  en: Marta, honestly, don't worry, I've already rung the insurance, and they say it covers almost everything. I'll know that tomorrow, and then I'll confirm it, or not, we'll see.
+- Contestador: Mensaje recibido hoy a las diez y media de la noche.
+  en: Message received today at half past ten in the evening.
+- Gonzalo: Vale, vale, que me estoy liando. Lo que te quería decir es que el motor va perfecto, y que yo, en el fondo, soy un desastre con los aparcamientos desde el año pasado, pero eso ya lo sabes.
+  en: Right, right, I'm getting in a muddle. What I wanted to say is that the engine runs perfectly, and that, deep down, I've been hopeless at car parks since last year, but you know that already.
+- Contestador: Mensaje recibido hoy a las diez y cuarenta de la noche.
+  en: Message received today at forty minutes past ten in the evening.
+- Gonzalo: Marta, tú llámame cuando quieras, que yo estoy aquí, en el sofá, con el móvil en la mano, como un idiota. No hace falta que contestes esta noche. Ni mañana, si quieres.
+  en: Marta, call me whenever you like, I'm here on the sofa with the phone in my hand, like an idiot. You don't need to answer tonight. Or tomorrow, if you'd rather not.
+- Contestador: Mensaje recibido hoy a las once menos diez de la noche.
+  en: Message received today at ten to eleven in the evening.
+- Gonzalo: Soy yo. Llámame.
+  en: It's me. Call me.
+
+notes.en:
+1. "Hola, Marta, soy Gonzalo" (first voicemail): the caller names himself once, as the phone opener does in Spain: hola, then soy with the name. Later voicemails leave the name out, since she knows the voice by now.
+2. "Nada importante, de verdad" (first voicemail): a hedge that tells the listener something is wrong, and de verdad asks her to believe it. The effect comes from the mismatch between the two.
+3. "lo del coche" (second voicemail): spoken Spanish names a matter without naming it, with lo de plus a noun, as in "lo del coche" or "lo de la boda".
+4. "Bueno, ... que igual no lo he explicado bien" (third voicemail): bueno opens a correction; igual means "maybe" in Spain and takes the indicative, as in "igual no lo he explicado bien".
+5. "lo he tocado un poco. Un poco, vamos" (third voicemail): tocar in colloquial Spanish can mean to damage something slightly. The speaker repeats a little and then corrects himself with vamos, "I mean".
+6. "cualquiera se hubiera dado un golpe" (fourth voicemail): cualquiera with the pluperfect subjunctive is a hypothetical, "anyone would have". The imperfect subjunctive hubiera with a past participle is the form that carries the conditional sense.
+7. "tampoco es para tanto" (fourth voicemail): a phrase that makes bad news smaller, and tampoco links it to the line before. In English "it's not that bad either" is the nearest.
+8. "¿sabes?" (fifth voicemail): a check-in tag, as in English "you know", and it works here with the word golpecito, which he uses to make the damage sound small.
+9. "por si acaso" (eighth voicemail): just in case; it has the same use as in English and marks a remark he would rather not have made.
+10. "soy un desastre" (eleventh voicemail): colloquial, "I'm hopeless", a self-criticism said to sound light.
+11. "como un idiota" (twelfth voicemail): a mild self-insult, with the same warmth as the English "like an idiot".
+12. "Soy yo. Llámame." (last voicemail): on the phone, soy yo is what a person says when the listener knows the voice and no name is needed. It is the shortest of his messages, after twelve longer ones.
+13. "Mensaje recibido hoy a las ..." (automatic lines): the time is said in full, in the Spanish style, from nine in the evening to ten to eleven. The times increase from one message to the next.
+
+ex1:
+- Oye, no te enfades, pero creo que he roto algo en tu casa, y no sé cómo decírtelo.
+  en: Listen, don't get cross, but I think I've broken something in your flat, and I don't know how to tell you.
+- Pues mira, la verdad es que no me acuerdo de si lo dejé cerrado o no.
+  en: Well, honestly, I don't remember whether I left it locked or not.
+- No te preocupes, que ya veremos cómo lo arreglamos, aunque cueste un poco.
+  en: Don't worry, we'll see how we fix it, even if it takes a bit of doing.
+- Si te llamo tanto es porque me da vergüenza escribírtelo.
+  en: If I'm ringing you so much, it's because I'm too embarrassed to write it to you.
+- Ojalá me hubiera callado la primera vez, porque ahora lo tengo peor.
+  en: I wish I'd kept quiet the first time, because now it's worse.
+
+ex2:
+- Te [llamaba] para decirte algo del coche.
+  en: I was ringing to tell you something about the car.
+- Igual [me] he equivocado de número.
+  en: Maybe I've got the wrong number.
+- Es que no [sé] cómo decírtelo.
+  en: The thing is, I don't know how to tell you.
+- No [hace] falta que contestes esta noche.
+  en: You don't need to answer tonight.
+- Pues mira, a ver si [quedamos] mañana.
+  en: Well, let's see if we can meet tomorrow.
+
+tasks:
+- Hola, Marta, soy Gonzalo. Te he dado un golpe con tu coche en el aparcamiento, en la puerta de atrás. Sé que te va a molestar, y lo siento. Llámame cuando puedas, que quiero explicártelo bien y ver cómo lo arreglamos.
+  task.en: Gonzalo should have left this voicemail first. Write it in Spanish, of about 50 words: it names the speaker once, tells Marta plainly what happened to her car, and asks her to call back. Use tú.
+  rubric.en: meaning: the voicemail says plainly what happened to the car and asks for a call back; register: informal tú, with a sincere apology and no hedging words such as nada importante; structure: the name first, then the fact, then the apology and the request; idiom: dar un golpe, lo siento and ver cómo lo arreglamos are used in their normal senses; effect: the voicemail is short and direct, so the reader sees what the later messages avoided.
+
+== 83 C2
+numeral: Lección ochenta y tres
+title: El del mercadillo
+title.en: The market stallholder
+
+dialogue:
+- Ramón: ¡Señora, mire qué calidad! Estos tomates son de la huerta de Aranjuez, y se los vendo a un euro el kilo, que es el precio de hace veinte años.
+  en: Madam, look at the quality! These tomatoes come from the market garden in Aranjuez, and I'm selling them at a euro a kilo, the price of twenty years ago.
+- Encarna: Hombre, pues a mí me parecen un poco pequeños. ¿Y cómo sé yo que son de Aranjuez?
+  en: Well, they look a bit small to me. And how do I know they're from Aranjuez?
+- Ramón: Porque lo pone el papel, señora, y porque yo se lo digo. Cuando un tomate no es de Aranjuez, se le nota en el rojo.
+  en: Because the sign says so, madam, and because I tell you so. When a tomato isn't from Aranjuez, you can see it in the red.
+- Encarna: ¿Y el rojo de qué color es? Que yo solo veo tomates.
+  en: And what colour is the red? All I see is tomatoes.
+- Ramón: ¡Mire, señora, qué color! ¡Qué color, qué sabor, qué todo! Llévese tres y le pongo una bolsa de regalo.
+  en: Look, madam, what a colour! What a flavour, what the whole thing is! Take three and I'll throw in a bag.
+- Encarna: Tres no, que son para una ensalada. Póngame dos, y la bolsa, si es verdad que es de regalo.
+  en: Not three, they're for a salad. Give me two, and the bag, if it really is free.
+- Ramón: ¡Dos, dice! ¡Dos! Pues dos, y la bolsa de regalo, que por la bolsa no me paga nadie.
+  en: Two, she says! Two! Well, two, and the bag is free, because nobody pays me for the bag.
+- Encarna: Anda, qué bien. ¿Y los pepinos cuánto son?
+  en: Oh, good. And how much are the cucumbers?
+- Ramón: ¡A euro, señora, a euro! Los pepinos a euro, los calabacines a euro, y el melón, mire, también a euro, que el melón a euro es el que nadie se lleva.
+  en: A euro, madam, a euro! Cucumbers at a euro, courgettes at a euro, and the melon, look, at a euro too, because the melon at a euro is the one nobody takes.
+- Encarna: Pues el melón me lo pensaré, que está muy verde.
+  en: Well, I'll think about the melon, it's very green.
+- Ramón: ¿Verde? Señora, eso no es verde, eso es esperanza. Un melón verde es un melón que madura en casa, con paciencia y con música.
+  en: Green? Madam, that isn't green, that's hope. A green melon is one that ripens at home, with patience and with music.
+- Encarna: Ya, ya. Con música, dice. ¿Y me pone usted un poco de música en el melón?
+  en: Yes, yes. With music, you say. Will you put a bit of music in the melon for me?
+- Ramón: Eso no se lo puedo garantizar, señora, pero la báscula sí: está calibrada desde el año pasado.
+  en: That I can't guarantee, madam, but the scales I can: they've been calibrated since last year.
+- Encarna: ¿Desde el año pasado? Pues mire, el de al lado me ha dicho que esa báscula pesa lo que quiere.
+  en: Since last year? Well, the man next door told me that scale weighs whatever it likes.
+- Ramón: ¡Ese! Ese no vende nada, señora. No tiene nada que vender, y le da por hablar mal de los demás. Cuidado con él, que es muy triste.
+  en: That one! He doesn't sell anything, madam. He has nothing to sell, and he likes to speak ill of other people. Be careful of him, he's very gloomy.
+- Encarna: Bueno, bueno. ¿Y la fruta de la semana pasada?
+  en: All right, all right. And the fruit from last week?
+- Ramón: ¿La de la semana pasada? Esa ya se la han comido los pájaros, señora. Hoy es la de hoy, que es la mejor fruta del año.
+  en: Last week's? The birds have eaten that, madam. Today's is today's, and it's the best fruit of the year.
+- Encarna: Pues venga, póngame un kilo de ciruelas, que se me ha antojado.
+  en: Right then, give me a kilo of plums, I've taken a fancy to them.
+- Ramón: ¡Un kilo de ciruelas! Señora, le hace usted un favor al mercado. Y ahora, las ciruelas, a euro el kilo, ¡a euro!
+  en: A kilo of plums! Madam, you're doing the market a favour. And now, the plums, a euro a kilo, at a euro!
+- Encarna: Pues eso, a euro el kilo. Que ya no sé cuánto cuesta cada cosa.
+  en: So, a euro a kilo. I don't know any more what anything costs.
+- Ramón: Ya no le hace falta saberlo, señora, que aquí todo cuesta lo mismo: un euro, y lo demás, la alegría.
+  en: You don't need to know any more, madam, because everything here costs the same: a euro, and the rest is cheerfulness.
+- Encarna: Qué bonito lo dice, y qué poco le paga el ayuntamiento por decirlo.
+  en: What a nice way to put it, and how little the council pays you for saying it.
+- Ramón: ¡Eso es lo que me duele, señora! Pero aquí sigo, con mi puesto, mi voz y mis ciruelas, desde las siete de la mañana.
+  en: That's what hurts, madam! But here I am, with my stall, my voice and my plums, since seven this morning.
+- Encarna: Pues usted sí que cansa. Bueno, ¿cuánto le debo?
+  en: Well, you do wear a person out. All right, how much do I owe you?
+- Ramón: Por todo, señora, lo que quiera usted poner. Que lo que vendo es la charla, y la charla va a euro.
+  en: For everything, madam, whatever you care to pay. What I'm really selling is the chat, and the chat is a euro.
+- Encarna: Pues la charla me ha costado más que las ciruelas.
+  en: Well, the chat has cost me more than the plums.
+- Ramón: Son ocho cosas en total, señora, ocho euros. Y el melón, aunque esté verde, se lo dejo de regalo, que yo ya no lo voy a ver madurar.
+  en: That's eight things in all, madam, eight euros. And the melon, green as it is, I'll give you for nothing, since I won't be around to see it ripen.
+- Encarna: ¿Cómo que no lo va a ver? ¿Se va usted de viaje?
+  en: What do you mean, you won't be around to see it? Are you going away?
+- Ramón: Me jubilo, señora. El puesto entero, a euro, con la báscula y con el de al lado incluidos.
+  en: I'm retiring, madam. The whole stall, at a euro, with the scales and the man next door included.
+
+notes.en:
+1. "¡Señora, mire qué calidad!" (line 1): the opener of a stallholder. Mire is the usted imperative, since the vendor speaks to a customer he does not know, and he keeps usted to the end.
+2. "se los vendo a un euro el kilo" (line 1): the price is said with el kilo, and the pronoun se los agrees with the tomatoes. The English "at a euro a kilo" is the same construction.
+3. "Hombre, pues" (line 2): hombre opens a reply of mild doubt, and pues carries on from it. Encarna is not rude; she is haggling.
+4. "se nota en el rojo" (line 3): notarse means to show or be noticed, here in the colour of the tomato. The colour is the sign of origin the vendor claims.
+5. "¡Qué color, qué sabor, qué todo!" (line 5): a run of qué with nouns, the rhythm of a patter. Qué todo is colloquial for the whole thing, and it is said for effect.
+6. "Pues dos, y la bolsa de regalo" (line 7): pues answers with agreement to a number he had not expected to hear.
+7. "a euro" (line 9): the market form of the price, a euro each, with no article. The same phrase covers a kilo, a bunch or a piece.
+8. "eso es esperanza" (line 11): a metaphor, the green melon as hope. Spanish uses eso to point at a thing that has just been named.
+9. "Eso no se lo puedo garantizar" (line 13): with usted the pronoun order is se lo, since le becomes se before lo. The "eso" is the thing she asked about, music in the melon.
+10. "le da por hablar mal" (line 15): darle a alguien por hacer algo means that person takes to doing it. Colloquial, and used of habits.
+11. "Ya no le hace falta saberlo" (line 21): hacer falta takes the thing needed as subject and the person as an indirect object, so le hace falta.
+12. "se me ha antojado" (line 18): antojarse means to fancy something suddenly. The verb is in the singular, since the thing desired is a kilo of plums.
+13. "Me jubilo" (last line): jubilarse means to retire, a standard verb that takes the reflexive me.
+14. "la charla va a euro" (line 25): the stallholder sells the chat itself, and the market form a euro is used for it, the same as for the fruit.
+
+ex1:
+- Hombre, si me lo pone así, pues no le digo que no.
+  en: Well, if you put it like that, I can't say no.
+- Mire, la verdad es que los pepinos no están tan frescos como usted cree.
+  en: Look, the truth is the cucumbers aren't as fresh as you think.
+- Ese puesto lleva en el mismo sitio desde hace más de treinta años.
+  en: That stall has been in the same spot for more than thirty years.
+- Si quiere, se lo dejo a un euro, pero no me lo pida más barato.
+  en: If you like, I'll let you have it for a euro, but don't ask me for less.
+- Aunque el melón esté verde, lo compro, que mi marido sabe madurarlo.
+  en: Even though the melon is green, I'll buy it, because my husband knows how to ripen it.
+
+ex2:
+- Pues [mire], que le enseño las ciruelas.
+  en: Well, look, let me show you the plums.
+- Le [garantizo] que la báscula está calibrada.
+  en: I guarantee you the scales are calibrated.
+- Esa báscula no [pesa] lo que quiere.
+  en: That scale doesn't weigh whatever it likes.
+- Ahora mismo se lo [pongo] en la bolsa.
+  en: I'll put it in the bag for you right now.
+- Me [jubilo] el año que viene.
+  en: I retire next year.
+
+tasks:
+- En el mercadillo semanal, Ramón vende desde las siete de la mañana, y su voz se oye antes que su puesto. Hoy ofrece tomates de Aranjuez a un euro el kilo, ciruelas, pepinos y un melón que, según él, «no es verde, es esperanza». Una clienta le pide dos tomates y una bolsa, y discute si el melón está verde. Ramón asegura que su báscula está calibrada desde el año pasado y que el vecino de al lado exagera. Al final, cuando la clienta le pregunta por qué no verá madurar el melón, Ramón lo aclara: se jubila, y el puesto entero se vende a un euro, con la báscula y con el vecino incluidos.
+  task.en: Retell the patter as a newspaper profile of the stallholder, in Spanish, of about 90 words: third person, one quotation from him in « », and the neutral news register. Keep the facts of the scene and its order, with the last fact at the end.
+  rubric.en: meaning: the profile keeps the prices, the tomatoes, the melon, the scales, the neighbour and the retirement, and the sale of the whole stall; register: neutral news Spanish in the third person, with the quote in « » and a verb of saying in the past; structure: the scene in order, with the retirement last; idiom: a un euro el kilo, calibrado and se jubila are used in their normal senses; effect: the profile ends on the sale, so the reader meets the twist at the end as in the scene.
+
+== 84 C2
+kind: revision
+numeral: Lección ochenta y cuatro
+title: Revisión y notas
+title.en: Revision and notes
+
+dialogue:
+- Carmen: Pues ya está la mesa. Dani, graba, que tu madre dice que lo tienes que entregar el lunes.
+  en: Right, the table's ready. Dani, record it, your mum says you have to hand it in on Monday.
+  refs: 81
+- Dani: Vale, abuela. Empiezo yo: tío, la profe de historia nos ha soltado un examen sin avisar.
+  en: Right, Grandma. I'll start: mate, the history teacher sprang a test on us without warning.
+  refs: 81
+- Jesús: Ya, ya. Eso del examen sin avisar lo sabe todo el mundo menos yo.
+  en: Yes, yes. Everyone knows about that test without warning except me.
+  refs: 79, 81
+- Carmen: Pues yo no lo sabía, y lo he buscado en el móvil del chico.
+  en: Well, I didn't know, and I looked it up on the boy's phone.
+  refs: 81
+- Lourdes: Mamá, que el chico lo que quiere es que le ayudes, no que le leas los mensajes.
+  en: Mum, the boy only wants you to help him, not to read his messages.
+  refs: 81
+- Carmen: Pues le leo lo que quiera, que yo también tengo mi móvil. O sea, que ya sé lo que es un mensaje.
+  en: Then I'll read what I like, I have a phone too. I mean, I know what a message is.
+  refs: 78, 81
+- Dani: Abuela, es que lo de los apuntes es de historia, en serio.
+  en: Grandma, the notes are for history, honestly.
+  refs: 81
+- Jesús: ¿Y los apuntes ya los has mirado, o no?
+  en: And have you looked at the notes yet, or not?
+  refs: 81
+- Dani: Pues no sé, abuelo, que tenía que mirarlos.
+  en: Well, I don't know, Grandad, I had to look at them.
+  refs: 81
+- Teo: Ya te digo, papá, que el mecánico ha dicho que el embrague... bueno, da igual.
+  en: I'm telling you, Dad, the mechanic said the clutch... well, never mind.
+  refs: 79
+- Jesús: ¿El embrague otra vez? Hombre, no te me quedes tirado por el camino, ¿eh?
+  en: The clutch again? For heaven's sake, don't break down on the way, eh?
+  refs: 79
+- Teo: No te preocupes, papá, que hoy no pasa nada.
+  en: Don't worry, Dad, nothing is happening today.
+  refs: 79
+- Carmen: Eso dices tú. Oye, ¿y el melón? Que lo he traído del mercadillo, de un señor muy hablador.
+  en: That's what you say. Listen, what about the melon? I brought it from the market, from a very talkative man.
+  refs: 83
+- Dani: ¿El de la báscula, abuela? ¿Y es verde?
+  en: The one with the scales, Grandma? And is it green?
+  refs: 83
+- Carmen: Verde, sí. «Un melón verde es un melón que madura en casa, con paciencia y con música», dice el señor.
+  en: Green, yes. "A green melon is one that ripens at home, with patience and with music," the man says.
+  refs: 83
+- Jesús: Ya, ya, con música. Anda, ponle la radio, mujer.
+  en: Yes, yes, with music. Go on, put the radio on for it, love.
+  refs: 79
+- Carmen: Anda tú, que el que no escucha eres tú. Dani, ¿y lo de la foto?
+  en: Oh, you're one to talk, you're the one who never listens. Dani, what about the photo thing?
+  refs: 79, 81
+- Dani: Abuela, lo de la foto fue una vergüenza ajena, tío, muerto.
+  en: Grandma, the photo thing was secondhand embarrassment, mate, I'm dead.
+  refs: 81
+- Lourdes: Pues dile a Marina que tampoco es para tanto, que a todos nos pasa algo alguna vez.
+  en: Well, tell Marina it's not that bad either, it happens to everyone now and then.
+  refs: 82
+- Teo: Eso lo dice todo el mundo cuando se ha dado un golpe con el coche, ¿eh?
+  en: Everyone says that when they've dented the car, eh?
+  refs: 82
+- Jesús: ¿Un golpe? ¿Y tú cuándo te has dado un golpe?
+  en: A dent? And when did you dent it?
+  refs: 82
+- Teo: Nada, papá, nada importante, de verdad.
+  en: Not me, Dad, nothing important, honestly.
+  refs: 82
+- Carmen: Ya, ya, que todos decís lo mismo. Lourdes, saca las copas. O sea, las buenas, no las de plástico.
+  en: Yes, yes, you all say the same. Lourdes, get the glasses out. I mean the good ones, not the plastic ones.
+  refs: 78, 79
+- Lourdes: Ya están puestas, mamá. Las buenas, sí.
+  en: They're already out, Mum. The good ones, yes.
+  refs: 78
+- Dani: Abuela, ¿y tú qué sacaste en el examen? Que yo saqué un cinco, que la profe lo puso sin avisar.
+  en: Grandma, what did you get on the test? I got a five, the teacher set it without warning.
+  refs: 81
+- Lourdes: Dani, tú no te quejes, que el examen era de historia y tú estabas con el móvil.
+  en: Dani, don't complain, the test was on history and you were on your phone.
+  refs: 81
+- Carmen: Pues yo he sacado un nueve, hijo.
+  en: Well, I got a nine, son.
+  refs: 81
+- Dani: ¿Un nueve? Abuela, ¿tú de qué examen hablas?
+  en: A nine? Grandma, what test are you talking about?
+  refs: 81
+- Carmen: Del mismo, hijo, el de sin avisar. Que los martes voy a la escuela de adultos, en el mismo instituto, y tu profe de historia es la mía también.
+  en: The same one, son, the random one. I go to the adult evening class on Tuesdays, in the same school, and your history teacher is mine too.
+  refs: 81
+
+notes.en:
+The week's texts are lessons 78 to 83. Each section names its lessons and quotes their lines as they stand there, so the learner can find them. The scene is one Sunday lunch, and every line answers the one before it.
+1. Spoken markers (lesson 78): the markers of a transcript, each with the line where it stands.
+| Form | What it does | Line from lesson 78 |
+|---|---|---|
+| o sea | narrows or corrects what has just been said | O sea, las buenas, no las de plástico. |
+| en plan | softens a claim before the verb | pero ella, en plan, lo intenta con toda el alma |
+| digamos | hedges a word the speaker is not sure of | ¿La que canta esas canciones de... de... digamos de otra época? |
+| total | sums up what has gone before | Total, que igual no viene, y si viene, se pone a hablar con la de la guitarra. |
+| pues nada | closes a subject that has gone nowhere | Pues nada, que no sé ni de qué estamos hablando. |
+2. Response words (lesson 79): the small answers that carry the meaning, with their line.
+| Form | What it does | Line from lesson 79 |
+|---|---|---|
+| ya, ya | agrees while the speaker has not really listened | Ya, ya, pero el mecánico dice que el embrague... bueno, da igual. |
+| vale | agrees and moves to the next point | Vale, luego la llamo. ¿Qué pasa? |
+| venga | closes a point with agreement | Venga, papá, que el regalo también lo tengo. |
+| anda | a mild reproach that stops a remark | Anda, no digas esas cosas. |
+| ¡qué va! | a denial, "not at all" | ¡Qué va! Algo para la casa. |
+| ¿eh? | a tag that asks for agreement or attention | Hombre, no te me quedes tirado por el camino, ¿eh? |
+3. Swearing and the soft forms (lesson 80): the mild words of lesson 80, with the sentence that gives each one.
+| Form | What it does | Line from lesson 80 |
+|---|---|---|
+| jolín, jope | mild surprise, heard from adults and children | Jolín y jope son de los más extendidos |
+| ostras | the most neutral of the mild forms | Ostras es el más neutro de todos |
+| caray | an old-fashioned exclamation | Caray es una exclamación antigua |
+| mecachis | a light setback, as when a glass falls | Mecachis es casi una broma |
+| miércoles | a euphemism, the name of a weekday used for a stronger word | Miércoles, en cambio, es un eufemismo de algo más fuerte |
+4. Messages and youth words (lesson 81): the words of the chat, with the message where each one is.
+| Form | What it does | Line from lesson 81 |
+|---|---|---|
+| mazo | very, or a lot, before an adjective | jaja tío, la profe es mazo chunga |
+| chungo | difficult or bad, and from caló | Eso será chungo, ¿no? |
+| renta | it is worth the effort, or it pays off | pues renta si sacas un ocho, no te digo más, que eso se paga solo |
+| chaval | a lad or a kid, from caló | el chaval de la tienda del barrio me ha dicho que pa qué estudio si no me renta |
+5. Voicemails (lesson 82): the hedges a speaker uses to make bad news sound small, and the last line of the series.
+| Form | What it does | Line from lesson 82 |
+|---|---|---|
+| nada importante | a hedge that a listener hears as a warning | Nada importante, de verdad. Llámame cuando puedas. |
+| un poco | a slip of the words, corrected at once | Lo del coche, que sí, que lo he tocado un poco. Un poco, vamos, nada que no se arregle. |
+| tampoco es para tanto | makes bad news smaller | Es en la puerta de atrás, tampoco es para tanto. |
+| soy yo | on the phone, the voice is known and no name is needed | Soy yo. Llámame. |
+6. The patter (lesson 83): the rhythm of a stallholder, with the sentence that shows each device.
+| Form | What it does | Line from lesson 83 |
+|---|---|---|
+| ¡Señora, mire qué calidad! | the opener, with usted | ¡Señora, mire qué calidad! Estos tomates son de la huerta de Aranjuez |
+| a euro | the market price, with no article | ¡A euro, señora, a euro! |
+| qué todo | the whole thing, said for effect | ¡Qué color, qué sabor, qué todo! |
+| eso es esperanza | a metaphor for a green melon | Señora, eso no es verde, eso es esperanza. |
+
+tasks:
+- Buenas. Me llamo Dani y les voy a hablar de los domingos en casa de mi abuela. O sea, de la comida, que es lo que más nos gusta a todos. Mi abuela compra los tomates en el mercadillo, a un euro el kilo, y dice que el melón madura con música, según un señor del puesto, que, digamos, habla más que el melón. Mi tío Teo dice «ya, ya» a todo lo que le cuentan, aunque luego se entera de todo. Y mi madre siempre dice que lo de las palabras nuevas renta, porque ayuda a hablar mejor. Así que, en resumen, el domingo no es solo comer: es practicar el español con las palabras de la semana, sin darnos cuenta. Muchas gracias.
+  task.en: Record a two-minute talk in Spanish, of about 170 words, about a family lunch. Use at least three of the week's markers and response words from sections 1 and 2, one quotation in « », and end with a line that closes the talk.
+  rubric.en: meaning: the talk says who is speaking, what the lunch is and why it matters, with examples from the week; register: informal but clear, for a class, with tú and no slang beyond the markers; structure: greeting, topic, examples in order, closing; idiom: a euro el kilo, renta and sin darnos cuenta are used in their normal senses; effect: the closing line returns to the opening, so the talk ends where it began.

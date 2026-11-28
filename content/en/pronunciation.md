@@ -5,7 +5,7 @@ leggerebbe un italiano. L'inglese non si legge come si scrive: la stessa
 lettera ha suoni diversi (cat, car, cake) e lo stesso suono si scrive in tanti
 modi (see, sea, piece). La pronuncia figurata scrive invece ogni suono sempre
 allo stesso modo, con le lettere dell'italiano e pochi segni in più, come nei
-corsi Assimil per italiani. È la pronuncia britannica standard, quella del sud
+manuali di lingue per italiani. È la pronuncia britannica standard, quella del sud
 dell'Inghilterra. Nelle lezioni 1–28 è data per tutta la frase, poi solo per
 le parole nuove (… *sè*tëdei …).
 

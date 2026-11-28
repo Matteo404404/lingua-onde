@@ -4,7 +4,7 @@
 
 Under each sentence of the dialogues you find the 🔈 line: the Spanish spelled
 as an English speaker would read it aloud, with the letters you know and a few
-signs explained below, as in Assimil's Spanish with Ease. It is the Castilian
+signs explained below. It is the Castilian
 of Madrid. In lessons 1–28 the whole sentence is figured; from lesson 29 only
 the words that are new in the lesson (… pér*do*na …). Spanish spelling is
 regular: once you know these rules you can read any word, and the figured line

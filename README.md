@@ -1,8 +1,7 @@
 # Lingua Onde
 
-A desktop app for learning languages by assimilation, following the method of
-the Assimil courses: a short dialogue a day, heard and repeated aloud,
-understood through your own language, with figured pronunciation, notes, two
+A desktop app for learning languages by assimilation: a short dialogue a
+day, heard and repeated aloud, understood through your own language, with figured pronunciation, notes, two
 exercises, a revision lesson every seven, and from lesson 50 an active wave
 that rebuilds earlier lessons from your language. How it works is in
 [METHOD.md](METHOD.md).
@@ -27,8 +26,8 @@ expressions),
 then Vietnamese for Spanish speakers (Foundation is complete: 100 lessons of
 northern Vietnamese with translations and notes in Spanish, figured
 pronunciation respelled for Spanish readers with a tone arrow after each
-syllable, high tones drawn on the upper row and low ones below, as in
-Assimil's *Le Vietnamien sans peine*, in lessons 1–14; an introduction and an
+syllable, high tones drawn on the upper row and low ones below, in lessons
+1–14; an introduction and an
 appendix; the interface is in Spanish too; Perfectionnement is complete too:
 70 lessons, an introduction, and an appendix with the grammar, a grammar index
 and the expressions; Mastery is complete too: 100 lessons with open tasks, an
@@ -43,7 +42,7 @@ Mastery is complete too: 100 lessons with open tasks, an introduction, and an
 appendix with style and grammar, an index and the expressions).
 Spanish (of Madrid) for English speakers is complete too (Foundation: 100
 lessons with translations and notes in English, figured pronunciation for
-English readers in the signs of Assimil's *Spanish with Ease*, an introduction
+English readers, an introduction
 and an appendix with the grammar, a grammar index, the words and the
 expressions; Perfectionnement: 70 lessons, an introduction, and an appendix
 with the grammar, a grammar index and the expressions; Mastery: 100 lessons
@@ -230,13 +229,13 @@ At the end of a lesson you can choose to go over it again the next day.
 One lesson a day is the rhythm: once it is done, Home says you are done for
 today and offers the next lesson only through a quieter link. Review holds the
 active wave and Search (any sentence of the language); a spaced daily
-sentence review, not part of the Assimil method, can be turned on in Settings. The active
+sentence review, an extra beside the method, can be turned on in Settings. The active
 wave of lesson *n* comes due when you finish lesson *n + 49* (Settings,
 "Second wave starts"), and after the last lesson the rest come back one a day,
 also alongside the next course of the language, until every lesson you studied
 has been rebuilt.
 
-The book (side menu) is laid out like an Assimil volume: before the lessons
+The book (side menu) is laid out like a course book: before the lessons
 the introduction (how to study, the two waves) and, in Foundation, the
 pronunciation key; then the list of lessons; and at the end a grammar summary,
 a grammar index, the words in both directions (Foundation only) and the

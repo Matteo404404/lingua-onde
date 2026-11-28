@@ -1,20 +1,19 @@
 # The Lingua Onde method
 
-Lingua Onde follows the method of the Assimil courses: assimilation through
-a short text a day, heard and repeated aloud, understood through your own
-language, first passively and then actively. The first two courses of each
-language follow the structure of Assimil's own books ("senza sforzo" /
-"sans peine" and "Perfectionnement"). The third, Mastery, is Lingua Onde's
-own extension to C2, built on the same principles. All lessons, recordings
-and notes are original: only the teaching structure is shared.
+Lingua Onde teaches by assimilation, the classic self-study method: a short
+text a day, heard and repeated aloud, understood through your own language,
+first passively and then actively. The first two courses of each language
+follow the traditional shape of a beginner course and a Perfectionnement
+course; the third, Mastery, is Lingua Onde's own extension to C2, built on
+the same principles. All lessons, recordings and notes are original.
 
 Each language has three courses, studied one after the other:
 
-| Course | Level | Lessons | Model |
-|---|---|---|---|
-| Foundation | first words → B2 | 100 | Assimil beginner course |
-| Perfectionnement | B2 → C1 | 70 | Assimil Perfectionnement |
-| Mastery | C1 → C2 | 100 | Lingua Onde's own |
+| Course | Level | Lessons |
+|---|---|---|
+| Foundation | first words → B2 | 100 |
+| Perfectionnement | B2 → C1 | 70 |
+| Mastery | C1 → C2 | 100 |
 
 A course is written for the speakers of one language at a time (`bases:` in
 its files): English is written first for Italian speakers; Spanish is
@@ -44,9 +43,8 @@ layout, lesson lengths, notes, exercises, revision lessons and second wave.
    reader of your language would read it aloud, following a fixed key for
    each pair of languages (`content/<lang>/pronunciation.md`). The whole line
    in lessons 1–28; from lesson 29 only the words new in that lesson, the
-   rest left out, each on the first line where it appears, as German with
-   ease does. The key follows the Assimil
-   editions for that reader: for Italians, Italian spelling with the stressed
+   rest left out, each on the first line where it appears. The key follows the
+   conventions that reader already knows from language books: for Italians, Italian spelling with the stressed
    syllable in bold and a few signs explained once (‣ after a long vowel, ë
    for the weak vowel, è for the open e, θ, as in Il Francese senza sforzo
    and Lo Spagnolo). Dutch for Italians keeps those signs and adds what Le
@@ -148,7 +146,7 @@ every day has two parts:
 
 After lesson 100 the active wave goes on, one lesson a day, until lesson 100
 itself has been rebuilt: lessons 52–100 come back on the 49 days after the
-book is read, as in the Assimil books. The learner need not wait for them:
+book is read. The learner need not wait for them:
 the next course (Perfectionnement) can start the next day, and each of its
 first lessons brings one of Foundation's last lessons back with it, so the
 two waves never pile up. The same holds from Perfectionnement to Mastery.
@@ -160,8 +158,7 @@ advice, the two waves), read before lesson 1 (a new learner is led through it,
 and can skip it); in Foundation the pronunciation key; the lessons; and at the
 end a grammar appendix, a grammar index, a two-way word index and an index of
 expressions, each entry with its lessons (`content/<lang>/appendix-<stage>.<base>.txt`).
-Perfectionnement follows the Assimil Perfectionnement volumes (Spanish,
-German): introduction (what the course is for, for whom, how it is laid out,
+Perfectionnement has an introduction (what the course is for, for whom, how it is laid out,
 advice for the first pass, the second wave, the notes, the revisions), no
 pronunciation key, and at the end a grammar appendix and a grammar index,
 plus the expressions of its word lessons (no word list).
@@ -170,7 +167,7 @@ the end; the app's voice does the same in Foundation, natural from lesson 50.
 
 ## 2. Perfectionnement (B2 → C1), 70 lessons
 
-Assimil's Perfectionnement keeps the beginner course's frame for a learner who
+Perfectionnement keeps the beginner course's frame for a learner who
 already has the basics:
 
 - **Texts**, each complete in itself and of a different kind from day to
@@ -201,7 +198,7 @@ already has the basics:
 
 ## 3. Mastery (C1 → C2), 100 lessons
 
-Assimil stops at C1. Mastery keeps the method's core (a long text a day, heard
+Classic self-study courses stop at C1. Mastery keeps the method's core (a long text a day, heard
 and read closely; notes; translation; delayed active reconstruction; revision
 every 7th lesson) and changes what is asked of you, because at C2 the goal is
 no longer to understand and say correct sentences but to master meaning,

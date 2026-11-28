@@ -5,7 +5,7 @@
 En las lecciones 1 a 14, bajo cada frase del diálogo, está la línea 🔈: el
 vietnamita escrito como lo leería un hispanohablante. Es el vietnamita del
 norte, el de Hanói. Desde la lección 15 la línea desaparece, como en el
-libro de Assimil: para entonces leerás directamente la ortografía
+libro: para entonces leerás directamente la ortografía
 vietnamita, que es regular y marca todos los tonos.
 
 Cada sílaba es una palabra y se escribe aparte. No hay acento de

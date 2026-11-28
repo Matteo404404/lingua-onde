@@ -6,7 +6,7 @@ velocità di conversazione. Sulla carta somiglia all'italiano e allo spagnolo;
 a voce no: le vocali senza accento si chiudono o spariscono, la s in fine di
 sillaba fruscia come sc, e molte vocali passano per il naso. La pronuncia
 figurata scrive ogni suono sempre allo stesso modo, con le lettere
-dell'italiano e i pochi segni dei corsi Assimil di portoghese (ë, ', ⁿ, sh).
+dell'italiano e pochi segni in più (ë, ', ⁿ, sh).
 Nelle lezioni 1–28 è data per tutta la frase, poi solo per le parole nuove
 (… *ca*za …).
 

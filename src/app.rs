@@ -1928,7 +1928,7 @@ impl App {
                 changed |= ui
                     .checkbox(
                         &mut self.saved.cards_after_lesson,
-                        tr("Add each finished dialogue's sentences to a spaced review (an extra, not part of the Assimil method)"),
+                        tr("Add each finished dialogue's sentences to a spaced review (an extra, beside the method)"),
                     )
                     .changed();
             });

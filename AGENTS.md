@@ -70,9 +70,9 @@ a new course, or fixes to an existing one.
 
 ## Rules that keep it honest
 
-- Everything is original. The method follows the Assimil books' structure
-  (measured in `work/PATTERNS.md`), never their text; writers never open the
-  books.
+- Everything is original. The method follows the classic assimilation
+  courses' structure (measured in `work/PATTERNS.md`), never their text;
+  writers never open the reference books.
 - Real places, people and history: only well-established facts, legends
   marked as legends.
 - A native speaker has not yet reviewed the Vietnamese; reports of errors are

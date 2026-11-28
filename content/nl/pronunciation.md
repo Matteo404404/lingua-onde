@@ -5,7 +5,7 @@ leggerebbe un italiano. L'olandese si legge in modo abbastanza regolare, ma
 con lettere che in italiano hanno un altro suono (g, ui, eu, ij, oe) e con
 vocali lunghe e brevi che cambiano il senso delle parole (man, uomo; maan,
 luna). La pronuncia figurata scrive ogni suono sempre allo stesso modo, con le
-lettere dell'italiano e pochi segni in più, come nei corsi Assimil per
+lettere dell'italiano e pochi segni in più, come nei manuali di lingue per
 italiani. È la pronuncia standard dei Paesi Bassi, a velocità di
 conversazione. Nelle lezioni 1–28 è data per tutta la frase, poi solo per le
 parole nuove (… *re‣*këning …).

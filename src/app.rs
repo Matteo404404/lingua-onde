@@ -2264,7 +2264,8 @@ impl eframe::App for App {
                             })
                             .show(ui, |ui| {
                                 ui.set_max_width(560.0);
-                                ui.label(RichText::new(msg).color(Color32::WHITE));
+                                // The inverse of the page: ground-coloured text on ink, readable in both themes.
+                                ui.label(RichText::new(msg).color(theme::BG()));
                             });
                     });
                 ctx.request_repaint_after(Duration::from_millis(500));

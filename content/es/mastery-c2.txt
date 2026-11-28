@@ -5080,3 +5080,766 @@ tasks:
 - Ya en la barra, una tarde / alguien lee sin prisa, / y el café se enfría / sin que nadie lo note. / Al final, nadie pide la cuenta: / todos se quedan para oír el último verso.
   task.en: Write a short poem in Spanish in any form of this week (a copla, a romance stanza, free verse or a slogan) about the evening in this lesson. Use words that the lesson already has, and make the last line turn the poem.
   rubric.en: meaning: the poem stays with the evening, the reading and the café, with nothing added about the poets; register: plain and warm, with tú if anyone is addressed; structure: the chosen form is kept, with its count and rhyme if it is a copla or a romance stanza, and free lines if it is free verse; idiom: pedir la cuenta is used in its normal sense; effect: the last line turns the poem, and the reader hears the ending before it is said.
+
+== 71 C2
+numeral: Lección setenta y una
+title: El editorial
+title.en: The editorial
+
+dialogue:
+- Hace veinte años, una terraza era una mesa y cuatro sillas junto a la puerta, y en invierno se guardaba todo en el portal.
+  en: Twenty years ago a terrace was a table and four chairs by the door, and in winter everything was put away in the hall.
+- Hoy, en muchas calles de nuestra ciudad, la terraza es otra cosa: ocupa la acera entera, devora las plazas de aparcamiento y se extiende hasta la calzada, con sus sombrillas, sus estufas y sus cadenas de plástico.
+  en: Today, in many streets of our city, the terrace is something else: it takes over the whole pavement, eats up the parking spaces and spreads into the roadway, with its parasols, its patio heaters and its plastic chains.
+- Este periódico no está en contra de los bares, y lo decimos antes que nadie, porque sabemos lo que vale una mesa al sol en un día de mayo.
+  en: This paper is not against bars, and we say so before anyone else, because we know what a table in the sun is worth on a May day.
+- Lo que nos preocupa es el reparto del espacio, porque la calle no es de quien sirve, sino de quien pasa.
+  en: What concerns us is how the space is shared out, because the street belongs not to whoever serves in it but to whoever walks through it.
+- Una acera estrecha, con mesas a un lado y sillas al otro, deja un paso de apenas medio metro, y por ahí no caben un cochecito de bebé ni una silla de ruedas.
+  en: A narrow pavement, with tables on one side and chairs on the other, leaves a gap of barely half a metre, and through it neither a pushchair nor a wheelchair can pass.
+- El mes pasado, una vecina de la calle del Carmen tuvo que bajar a la calzada con su madre, que va en silla de ruedas, porque la terraza de la esquina no dejaba otro camino.
+  en: Last month a neighbour in Calle del Carmen had to step down into the road with her mother, who uses a wheelchair, because the corner terrace left no other way through.
+- Los hosteleros responden que la terraza da vida al barrio, que sostiene a muchos empleados y que sin ella cerraría la mitad de los locales.
+  en: The bar owners reply that the terrace brings life to the neighbourhood, that it keeps many staff in work and that without it half the premises would close.
+- Es un argumento serio, y no conviene despacharlo con una sonrisa, porque tiene razón en lo esencial: un bar con sol es un bar que vende.
+  en: It is a serious argument, and it should not be brushed aside with a smile, because it is right in essentials: a bar with sun is a bar that sells.
+- Pero el espacio público no se reparte según lo que necesita cada negocio, sino según lo que cada vecino tiene derecho a usar.
+  en: But public space is not shared out according to what each business needs, but according to what each neighbour has a right to use.
+- Ese derecho no admite excepciones de temporada: el paso de quien va con bastón es el mismo en agosto que en enero.
+  en: That right admits no seasonal exceptions: someone who walks with a stick needs the same passage in August as in January.
+- Hay además un problema menos visible, el del ruido, porque las mesas que llenan la acera hasta medianoche obligan a cerrar las ventanas en pleno verano a quienes viven encima.
+  en: There is also a less visible problem, which is noise, because tables that fill the pavement until midnight force those who live upstairs to keep their windows shut in the middle of summer.
+- La ordenanza de nuestra ciudad ya fija normas para las terrazas: distancias de los pasos de peatones, horarios y ocupación de la vía pública.
+  en: The by-law of our city already sets rules for terraces: distances from pedestrian crossings, opening hours and the use of the public highway.
+- El problema no está en la norma, sino en que nadie la vigila, y una regla que nadie comprueba acaba siendo una sugerencia.
+  en: The problem is not the rule but that nobody checks it, and a rule that nobody checks ends up as a suggestion.
+- Pedimos, por tanto, tres cosas sencillas: un paso libre a lo largo de toda la acera, un horario que termine a las once en las calles con viviendas y una inspección de noche, cuando las mesas ya están fuera.
+  en: We therefore ask for three simple things: a clear passage along the whole pavement, a closing time of eleven in streets with homes, and an inspection at night, when the tables are already out.
+- Ninguna de las tres es un castigo para el bar: es la manera de que la terraza y la vida de la calle puedan convivir.
+  en: None of the three is a punishment for the bar: it is the way for the terrace and the life of the street to live side by side.
+- Un paso libre no ha cerrado nunca un bar; lo que cierra un bar es perder a sus vecinos.
+  en: A clear passage has never closed a bar; what closes a bar is losing its neighbours.
+- Conviene recordar que la acera es el único espacio que les queda a quienes caminan despacio, con un bebé o con un bastón.
+  en: It is worth remembering that the pavement is the only space left to those who walk slowly, with a baby or with a stick.
+- Los hosteleros no son enemigos de nadie: son vecinos con una licencia, que a veces olvidan que la licencia no les da la calle entera.
+  en: The bar owners are no one's enemies: they are neighbours with a licence, who sometimes forget that the licence does not give them the whole street.
+- Quien quiera una mesa en la acera debe pedirla, medirla y respetar lo que se le concede, como cualquiera que use un bien común.
+  en: Whoever wants a table on the pavement should ask for it, measure it and respect what is granted, like anyone who uses what is shared.
+- Quien crea que exagerábamos, que pase un sábado a las nueve de la noche por la calle Mayor e intente llegar a la farmacia con un cochecito.
+  en: Whoever thinks we exaggerate should walk down Calle Mayor at nine on a Saturday night and try to reach the chemist's with a pushchair.
+- Lo que pedimos no es mucho: que la acera siga siendo de todos, aunque la cerveza esté en la mesa de fuera.
+  en: What we ask is not much: that the pavement should remain everyone's, even when the beer is on the table outside.
+- Hay una mesa en la acera, delante de la farmacia, que lleva ahí desde marzo y que no ha pedido permiso a nadie.
+  en: There is one table on the pavement, in front of the chemist's, that has been there since March and has asked permission from no one.
+- No es un delito, pero tampoco es un derecho.
+  en: It is not a crime, but it is not a right either.
+- Mañana la ordenanza volverá a discutirse en el pleno, y esperamos que los concejales vayan a pasear por la calle antes de votar.
+  en: Tomorrow the by-law comes back to the full council, and we hope the councillors will walk along the street before they vote.
+- Dicen los hosteleros que la terraza atrae a la gente al barrio; pues la gente llega por la acera, y si no hay paso, tampoco llega a la mesa.
+  en: The bar owners say the terrace brings people to the neighbourhood; well, people arrive on foot, along the pavement, and if there is no passage, they never reach the table.
+
+notes.en:
+The notes follow the editorial in order, one sentence at a time.
+1. "Hace veinte años" (sentence 1): an editorial often opens with a picture of how things were. The imperfect era describes the old custom, and se guardaba (everything was put away) is the reflexive passive, with no one named as the agent.
+2. "la terraza es otra cosa" (sentence 2): es otra cosa means that it is a different matter altogether. The list of sombrillas, estufas and cadenas shows the space taken without saying how much of it there is; the estufas are the patio heaters, and the cadenas are the plastic chains that fence the tables off.
+3. "Este periódico no está en contra de los bares" (sentence 3): an editorial speaks for the paper with este periódico or nosotros, and keeps the writer out of the sentence. "lo decimos antes que nadie" gets in first, before the paper's critics have spoken.
+4. "el reparto del espacio" (sentence 4): repartir is to share out, and the noun reparto is the English "how the space is shared out". The contrast no es de quien sirve, sino de quien pasa is the core of the argument: not X but Y, with the second half carrying the claim.
+5. "no caben un cochecito de bebé ni una silla de ruedas" (sentence 5): caber means to fit through a space. The verb is plural because the two things are its subject, and the English "neither ... can pass" keeps the two together. Cochecito is the everyday word in Madrid for a pushchair.
+6. "tuvo que bajar a la calzada" (sentence 6): tener que with an infinitive is obligation. La calzada is the part of the road for vehicles, as against la acera. "no dejaba otro camino" is in the imperfect, because it describes the state of the terrace on that day.
+7. "Los hosteleros responden" (sentence 7): hostelero is the trade word for the owner of a bar or restaurant. The conditional cerraría gives the result of the imagined case in which the terrace is gone: half the premises would close.
+8. "Pero el espacio público" (sentence 9): pero joins two things that really contrast: what a business needs and what a neighbour has a right to use. Según takes the indicative, as it does for a known fact.
+9. "una regla que nadie comprueba acaba siendo una sugerencia" (sentence 13): acabar with a gerund means to end up being something. The English "ends up as a suggestion" is the plain match.
+10. "un horario que termine a las once" (sentence 14): the subjunctive termine is used because the paper is asking for a timetable that does not yet exist. An existing timetable would take the indicative.
+11. "Un paso libre no ha cerrado nunca un bar" (sentence 16): the perfect ha cerrado is used because nunca covers a time up to now. The claim is the paper's own, put as a flat statement: it is an argument, not a fact to check. The cleft sentence lo que cierra un bar es ... puts the cause at the end.
+12. "Quien crea que exagerábamos, que pase" (sentence 20): que pase is an imperative with the subjunctive, a challenge to the reader. Intente is joined by e, not y, because the next word begins with an i sound.
+13. "lleva ahí desde marzo" (sentence 22): the present with desde marks an action that began in the past and still goes on. Ha pedido permiso is the perfect, since the table has not asked for permission at any point up to now.
+14. "pues la gente llega por la acera" (sentence 25): pues at the start of a reply means well then, and it takes the bar owners' own claim back. The argument turns on the last sentence, which is where the editorial ends.
+
+ex1:
+- No es que los bares molesten a todos: es que molestan a quienes no pueden esquivarlos.
+  en: It is not that the bars bother everyone: it is that they bother those who cannot get round them.
+- Mientras el pleno debata la ordenanza, los concejales deberían pasar un sábado por la calle, porque ahí verán el problema mejor que en cualquier informe.
+  en: While the council debates the by-law, the councillors should spend a Saturday in the street, because there they will see the problem better than in any report.
+- Ni los hosteleros ni los vecinos tienen toda la razón, aunque cada uno esté seguro de tenerla.
+  en: Neither the bar owners nor the neighbours are entirely right, although each is sure of being so.
+- Aunque el vecino de arriba nunca se haya quejado, el bar debería haber previsto el ruido.
+  en: Even if the neighbour upstairs has never complained, the bar should have foreseen the noise.
+- Lo que ocupa la acera no es un problema de metros cuadrados, sino de quién tiene derecho a pasar por ella sin pedir permiso.
+  en: What takes up the pavement is not a question of square metres, but of who has the right to pass along it without asking permission.
+
+ex2:
+- Los hosteleros [tienen razón] en lo esencial.
+  en: The bar owners are right in essentials.
+- Los vecinos se [quedaron] sin paso en mitad de la acera.
+  en: The neighbours were left without a passage in the middle of the pavement.
+- Hay que [medir] la mesa antes de pedirla.
+  en: The table must be measured before it is asked for.
+- Ese bar no [cumple] la ordenanza desde marzo.
+  en: That bar has not complied with the by-law since March.
+- Lo que pedimos no es [mucho].
+  en: What we ask is not much.
+
+tasks:
+- Hace unos días leímos en un periódico de la ciudad que las terrazas deben dejar libre la acera. Estamos de acuerdo con que nadie se quede sin paso, pero no con que se castigue a quien da vida a la calle. Una terraza bien ordenada no estorba a nadie: deja un hueco para el cochecito, cierra a una hora razonable y pone sus mesas donde marca la norma. El problema no es la mesa, sino la mesa mal medida. Pidamos que la ordenanza se cumpla y que se aplique con sentido común, porque una acera sin bares también es una acera vacía.
+  task.en: Write a reply editorial of about 110 words in Spanish to the paper's editorial in this lesson. Accept the need for a clear passage, defend the bars, and write no sentence of the lesson.
+  rubric.en: meaning: the reply accepts a clear passage and defends the bars, without repeating the editorial's sentences; register: the editorial's "we" and a formal tone, with no slang; structure: a short argument of four or five sentences, one claim each, ending on a turn; idiom: estar de acuerdo con and marcar la norma are used in their normal senses; effect: the last line turns the argument back to the pavement, so the reader sees both sides of the street.
+
+== 72 C2
+numeral: Lección setenta y dos
+title: Falacias
+title.en: Fallacies
+
+dialogue:
+- Una falacia es un argumento que parece correcto y no lo es, y el español tiene nombres para casi todas las que aparecen en una discusión.
+  en: A fallacy is an argument that looks correct and is not, and Spanish has names for almost all the ones that appear in an argument.
+- Conviene conocerlas no para ganar discusiones en la sobremesa, sino para no perderlas sin darse cuenta.
+  en: It is worth knowing them not in order to win arguments over the coffee after lunch, but so as not to lose them without noticing.
+- Algunas toman el nombre de una imagen, como el hombre de paja, y otras de lo que hacen, como el falso dilema.
+  en: Some take their name from an image, like the straw man, and others from what they do, like the false dilemma.
+- El hombre de paja consiste en cambiar la postura del otro por una caricatura más fácil de derribar.
+  en: The straw man consists in swapping the other person's position for a caricature that is easier to knock down.
+- Si alguien pide que se revisen los horarios de las obras, el hombre de paja contesta que quiere cerrar la ciudad y dejarnos a todos a oscuras.
+  en: If someone asks for the roadworks timetable to be checked, the straw man replies that they want to close the city and leave us all in the dark.
+- Lo que la caricatura pierde es precisamente lo que el otro quería decir, y eso casi nunca se nota en el momento.
+  en: What the caricature loses is exactly what the other person meant, and that is hardly ever noticed at the time.
+- La pendiente resbaladiza afirma que un paso pequeño lleva por fuerza a un desastre grande, sin probar que sea así.
+  en: The slippery slope claims that a small step necessarily leads to a great disaster, without proving that it does.
+- La palabra clave es resbaladiza: la pendiente se da por hecha y nadie se molesta en medir la cuesta.
+  en: The key word is slippery: the slope is taken for granted, and nobody bothers to measure the hill.
+- Si dejamos que el perro duerma en la cama, mañana dormirá en la de los invitados, y pasado mañana en la mesa del comedor, y al final no habrá sitio para nadie.
+  en: If we let the dog sleep on the bed, tomorrow it will sleep in the guest bed, and the day after in the dining-room table, and in the end there will be no room for anyone.
+- El razonamiento circular da por demostrado lo que quería demostrar, y así la conclusión es la premisa con otro traje.
+  en: Circular reasoning takes for proved what it set out to prove, so the conclusion is the premise in another suit.
+- Un ejemplo: el vecino del cuarto dice que el ascensor es seguro porque nunca se ha caído, y que nunca se ha caído porque es seguro.
+  en: An example: the neighbour on the fourth floor says that the lift is safe because it has never fallen, and that it has never fallen because it is safe.
+- El truco está en que la conclusión parece nueva, pero solo cambia el orden de las palabras.
+  en: The trick is that the conclusion looks new, but only the order of the words has changed.
+- El ataque personal no discute el argumento, sino a quien lo presenta: en lugar de rebatir la propuesta, se rebate el peinado.
+  en: The personal attack does not argue with the point but with the person who makes it: instead of answering the proposal, it answers the haircut.
+- Puede ser cierto que quien habla tenga mal genio o un historial poco brillante, pero eso no dice nada de si lo que dice es verdad.
+  en: It may well be true that the speaker has a short temper or a not very brilliant record, but that says nothing as to whether what he says is true.
+- Lo que cuenta es lo que se dice, y eso se puede comprobar sin conocer al que lo dice.
+  en: What counts is what is said, and that can be checked without knowing the person who says it.
+- Si alguien propone pintar la escalera de la comunidad, le responden que cómo va a opinar sobre pinturas quien nunca llega a tiempo a las juntas.
+  en: If someone proposes painting the stairwell of the building, they are told that someone who never arrives on time at the meetings has no business giving an opinion on paint.
+- El falso dilema presenta solo dos opciones cuando hay tres o cuatro, y así obliga a elegir la peor.
+  en: The false dilemma offers only two options when there are three or four, and so forces a choice of the worse one.
+- O nos vamos de vacaciones a la playa, o nos quedamos en casa a pintar el salón, sin que nadie mencione el pueblo, la montaña o el sofá.
+  en: Either we go on holiday to the beach, or we stay at home to paint the living room, with nobody mentioning the village, the mountains or the sofa.
+- Ninguna de las dos opciones es forzosa, pero la frase las presenta como si lo fueran.
+  en: Neither of the two options is compulsory, but the sentence presents them as if they were.
+- Para verlo basta con dibujar la tercera puerta, y a veces ni siquiera hace falta dibujarla, porque se ve a simple vista.
+  en: To see it, it is enough to draw the third door, and sometimes there is not even any need to draw it, because it is visible at a glance.
+- Cada una de estas falacias suena bien en voz alta, y ese es su mayor peligro, porque el oído aprueba lo que la razón todavía no ha revisado.
+  en: Each of these fallacies sounds well when spoken aloud, and that is their greatest danger, because the ear approves what reason has not yet checked.
+- Y quien las usa rara vez se da cuenta, porque le parece que está razonando.
+  en: And whoever uses them rarely notices, because it seems to them that they are reasoning.
+- Por eso conviene leer con lápiz, marcar el argumento y preguntarse qué falta en él.
+  en: That is why it is worth reading with a pencil, marking the argument and asking what is missing from it.
+- Un buen lector no se fía del tono ni de la prisa de quien habla; mira si cada frase se sostiene sin ayuda de las demás.
+  en: A good reader does not trust the tone or the hurry of the speaker; they check whether each sentence holds up without the help of the others.
+- Y ahora, mi propia falacia, que dejo para el final porque es la más difícil de ver.
+  en: And now, my own fallacy, which I leave for the end because it is the hardest to see.
+- Nadie ha demostrado que este ensayo sea aburrido, así que, con toda lógica, es el más interesante de los que se han escrito este año.
+  en: Nobody has shown that this essay is boring, so, with perfect logic, it is the most interesting of those written this year.
+
+notes.en:
+1. "Algunas toman el nombre de una imagen, como el hombre de paja, y otras de lo que hacen" (sentence 3): some names describe a picture, as a straw man is a figure made of straw that is easy to knock down, and others describe what the fallacy does, as a false dilemma offers a choice that is not real. The sentence names the two kinds of name.
+2. "El hombre de paja consiste en cambiar la postura del otro" (sentence 4): consistir en means to consist in, and the English "straw man" is the usual term. The fallacy has two steps, the swap and then the knock-down, and the next sentence gives an example of both.
+3. "quiere cerrar la ciudad y dejarnos a todos a oscuras" (sentence 5): the example shows the fallacy. A request to check a timetable is answered as if it were a demand to close the city. A oscuras is used figuratively for being left without the light, not literally.
+4. "lo que el otro quería decir" (sentence 6): quería is the imperfect, because it is what the other person meant at that moment, and the sentence speaks of it as already past. The caricature loses that meaning.
+5. "La pendiente resbaladiza afirma que un paso pequeño lleva por fuerza a un desastre grande" (sentence 7): pendiente resbaladiza is the slippery slope in English. The argument claims a chain of steps without showing that any one step leads to the next, and por fuerza means necessarily.
+6. "Si dejamos que el perro duerma en la cama" (sentence 9): dejar que takes the subjunctive, duerma, for a condition that is only a possibility. The future dormirá and the rest of the sentence show the chain the fallacy invents, step by step.
+7. "da por demostrado lo que quería demostrar" (sentence 10): dar por with an adjective or a participle means to take something as being such: dar por demostrado is to take as proved. Lo que quería demostrar is what the argument set out to prove, in the imperfect because the aim was in the past.
+8. "que nunca se ha caído porque es seguro" (sentence 11): the perfect se ha caído is used because the lift has not fallen at any time up to now. The example is circular: each claim is the reason for the other, so neither is ever proved.
+9. "se rebate el peinado" (sentence 13): rebatir means to answer a point and refute it. The personal attack, ataque personal, answers the person and not the proposal, and the haircut is the comic version of the same move.
+10. "tenga mal genio o un historial poco brillante" (sentence 14): puede ser cierto que takes the subjunctive, because it is a possibility and not a fact. The sentence grants the point about the person and then sets it aside.
+11. "que cómo va a opinar sobre pinturas" (sentence 16): cómo takes its accent in an indirect question, as the Real Academia Española writes it. The reply turns to the speaker's habits, not to the proposal.
+12. "El falso dilema presenta solo dos opciones cuando hay tres o cuatro" (sentence 17): cuando hay tres o cuatro takes the indicative, because the number of options is a plain fact about the situation. The English "false dilemma" is the usual term, and the fallacy forces a choice of the worse of the two options.
+13. "O nos vamos de vacaciones a la playa, o nos quedamos en casa" (sentence 18): o ... o gives two options, as English "either ... or" does. The sofa at the end is a third option that the sentence leaves out.
+14. "quien las usa rara vez se da cuenta, porque le parece que está razonando" (sentence 22): le parece que takes the indicative, because the appearance is taken as true. The sentence explains why the fallacies are hard to see: the user believes they are reasoning.
+15. "Nadie ha demostrado que este ensayo sea aburrido, así que ... es el más interesante" (sentence 26): this is the writer's own fallacy, the appeal to ignorance, in Spanish the apelación a la ignorancia. Because a claim has not been disproved, it is taken as proved. The subjunctive sea is used after the verb of not having shown.
+
+ex1:
+- Aunque el argumento suene bien en voz alta, no basta con que suene bien para que sea válido.
+  en: Even though the argument may sound right when spoken aloud, sounding right is not enough for it to be valid.
+- Quien propone bajar el precio del café no ha dicho que quiera arruinar a los hosteleros, y no conviene fingir que lo ha dicho.
+  en: Whoever proposes lowering the price of coffee has not said that they want to ruin the bar owners, and it is not fair to pretend that they have.
+- Dices que el ascensor no falla porque no lo has visto fallar; eso no demuestra nada, pero tampoco prueba lo contrario.
+  en: You say the lift does not fail because you have never seen it fail; that proves nothing, but it does not prove the opposite either.
+- Nos das a elegir entre pagar el arreglo o perder la casa, como si no hubiera ninguna otra solución.
+  en: You give us the choice between paying for the repair or losing the flat, as if there were no other solution.
+- La conclusión de tu argumento es la misma frase que la primera, solo que dicha con más seguridad.
+  en: The conclusion of your argument is the same sentence as the first one, only said with more confidence.
+
+ex2:
+- Das por [hecho] que todos lo sabíamos.
+  en: You take it for granted that we all knew it.
+- Eso no [viene] a cuento.
+  en: That is beside the point.
+- Nunca llega [a tiempo] a las juntas.
+  en: He never arrives at the meetings on time.
+- Nos das a [elegir] entre pagar y perder.
+  en: You give us the choice between paying and losing.
+- Puede ser cierto, pero no dice nada [de si] lo que dice es verdad.
+  en: It may be true, but it says nothing as to whether what he says is true.
+
+tasks:
+- Si aprobamos pintar la escalera, mañana pintaremos el portal, y luego el ascensor, y al final no quedará dinero para nada. Quien pide pintar quiere que vivamos en un palacio sin pagar la cuota, y eso no se puede consentir. Pues ya veremos qué opina él, que nunca paga la cuota a tiempo. Tenemos que elegir entre pintura o caldera, porque no hay más opciones. La escalera necesita arreglo porque está estropeada, y está estropeada porque necesita arreglo.
+  task.en: Read this argument from a residents' meeting, one line at a time, and name each of its five fallacies in Spanish. Quote the line where each one occurs and say in English what it does.
+  rubric.en: meaning: the five names are right and each is matched to its line, in order: la pendiente resbaladiza, el hombre de paja, el ataque personal, el falso dilema, el razonamiento circular; register: the fallacies are named in plain Spanish, with no English term; structure: five lines named and quoted, one short explanation each; idiom: the names keep their articles and their Spanish form; effect: the explanation says what each line does to the argument, with no added fallacy.
+
+== 73 C2
+numeral: Lección setenta y tres
+title: Señorías
+title.en: Honourable Members
+
+dialogue:
+- Presidenta: Pasamos a la siguiente pregunta. Tiene la palabra el señor diputado.
+  en: We move on to the next question. The honourable Member has the floor.
+- Diputado: Gracias, señora presidenta. Señorías, señor ministro: la pregunta es sencilla, aunque la materia no lo sea. ¿Va a asumir el Gobierno la cuestión de fondo que trae hoy a esta Cámara?
+  en: Thank you, Madam Chair. Honourable Members, Minister: the question is simple, although the matter is not. Will the government take on the core issue that brings it to this House today?
+- Ministro: Señora presidenta, señorías. Agradezco la pregunta, que es muy oportuna. El Gobierno es sensible a todas las preocupaciones de esta Cámara, y quiero decirlo desde el principio.
+  en: Madam Chair, honourable Members. I thank the Member for the question, which is very timely. The government is sensitive to all the concerns of this House, and I want to say so from the start.
+- Diputado: Eso ya lo sabíamos, señor ministro. Lo que le pregunto es si va a asumirla.
+  en: We knew that already, Minister. What I am asking you is whether you will take it on.
+- Ministro: Le respondo que el Gobierno trabaja en el asunto con la prudencia que requiere, porque la materia no admite atajos.
+  en: I answer that the government is working on the matter with the caution it requires, because the matter allows no shortcuts.
+- Diputado: Prudencia y atajos. Son palabras muy bonitas, pero no contestan a la pregunta.
+  en: Caution and shortcuts. Those are very fine words, but they do not answer the question.
+- Ministro: Sí contestan, señoría, aunque no con la rapidez que usted desearía. Un asunto de este calibre merece el análisis que merece.
+  en: They do answer, Member, although not with the speed you would wish for. A matter of this weight deserves the analysis it deserves.
+- Diputado: Pues lo analizamos desde hace meses, señor ministro, y el análisis ha vuelto a la misma mesa con los mismos papeles.
+  en: Well, we have been analysing it for months, Minister, and the analysis has come back to the same table with the same papers.
+- Ministro: Los papeles cambian, señoría, y el Gobierno tiene que seguir el ritmo de quienes los escriben. Además, hay un informe en curso.
+  en: The papers change, Member, and the government has to keep up with the people who write them. Besides, there is a report under way.
+- Diputado: ¿Y cuándo estará ese informe? Porque hace dos semanas nos dijo que estaba a punto.
+  en: And when will that report be ready? Because two weeks ago you told us it was almost finished.
+- Ministro: Estará cuando esté, y no antes de tiempo. No voy a dar fechas que no pueda cumplir.
+  en: It will be ready when it is ready, and not a moment before. I am not going to give dates that I cannot keep.
+- Diputado: Es la respuesta más honesta que le he oído hoy, señor ministro, y eso ya es algo.
+  en: That is the most honest answer I have heard from you today, Minister, and that is something in itself.
+- Presidenta: Señorías, un poco de silencio, por favor. Tiene la palabra el señor ministro para la dúplica.
+  en: Honourable Members, a little quiet, please. The Minister has the floor for his rejoinder.
+- Ministro: Gracias, señora presidenta. La honestidad consiste en no prometer lo que no se puede hacer, y el Gobierno no lo promete.
+  en: Thank you, Madam Chair. Honesty consists in not promising what cannot be done, and the government does not promise it.
+- Diputado: Pues permítame que le haga una pregunta concreta, para que no quede duda de lo que pregunto.
+  en: Then allow me to put a specific question, so that there is no doubt about what I am asking.
+- Ministro: Con gusto, señoría, aunque le adelanto que la respuesta será igual de prudente.
+  en: Gladly, Member, although I warn you in advance that the answer will be just as cautious.
+- Diputado: Usted dijo esta mañana, en comisión, que el asunto se resolvería en las próximas semanas. ¿Lo mantiene?
+  en: This morning, in committee, you said that the matter would be resolved in the coming weeks. Do you stand by that?
+- Ministro: Lo que dije es que se trabajaba en ello, y eso sigue siendo cierto, señoría.
+  en: What I said is that work was being done on it, and that is still true, Member.
+- Diputado: Eso no es lo que dijo, señor ministro, y lo tiene en el acta.
+  en: That is not what you said, Minister, and it is in the record.
+- Ministro: Las actas son muy fieles, señoría, pero a veces recogen las palabras y no el tono.
+  en: Records are very faithful, Member, but they sometimes take down the words and not the tone.
+- Presidenta: Señorías, las preguntas se contestan dentro del tiempo. Continúe, señor diputado.
+  en: Honourable Members, questions must be answered within the time. Please continue, honourable Member.
+- Diputado: Gracias. No pido fechas ni compromisos, señor ministro: pido una opinión sobre algo que está en el centro de todo esto.
+  en: Thank you. I am not asking for dates or commitments, Minister: I am asking for an opinion on something that lies at the centre of all this.
+- Ministro: Mi opinión, señoría, es la del Gobierno, y el Gobierno ya la ha expresado.
+  en: My opinion, Member, is the government's, and the government has already expressed it.
+- Diputado: Pues la expresa en voz baja, porque en la cafetería de esta casa se ha dicho lo contrario.
+  en: Then it has been expressed in a whisper, because in this building's cafeteria people have said the opposite.
+- Ministro: Señora presidenta, no sé de qué cafetería habla el señor diputado, y no voy a entrar en lo que se dice en los pasillos.
+  en: Madam Chair, I do not know which cafeteria the honourable Member is talking about, and I am not going to go into what is said in the corridors.
+- Diputado: Entonces entremos en lo que se sirve en la barra, señor ministro, que es lo que el público ha visto.
+  en: Then let us go into what is served at the counter, Minister, which is what the public has seen.
+- Presidenta: Ruego a los señores diputados que se ciñan a la pregunta.
+  en: I ask honourable Members to keep to the question.
+- Diputado: Me ciño, señora presidenta. La cuestión de fondo es esta, señor ministro: ¿la tortilla de la cafetería de esta Cámara lleva cebolla o no?
+  en: I keep to it, Madam Chair. The core issue is this, Minister: does the omelette in this House's cafeteria have onion in it or not?
+
+notes.en:
+1. "Tiene la palabra el señor diputado" (sentence 1): the chair gives the floor with tiene la palabra, the usual formula in a chamber. The English "the honourable Member has the floor" is the standard match, and el señor diputado is how the chair names the member.
+2. "Señorías, señor ministro" (sentence 2): the plural señorías addresses the whole House, and the singular señor ministro names the minister. A speaker uses both in one breath, as a deputy does here.
+3. "¿Va a asumir el Gobierno la cuestión de fondo" (sentence 2): asumir means to take on a responsibility, and cuestión de fondo is the core of an issue, as against its details. The phrase names the matter without saying what it is, which is the usual register of the chamber.
+4. "Agradezco la pregunta, que es muy oportuna" (sentence 3): this is the minister's first move, the thanks for a question he has not yet answered. The English "I thank the Member for the question" is the standard form, and the relative clause que es muy oportuna is praise that costs nothing.
+5. "la materia no admite atajos" (sentence 5): admitir here means to allow or to accept. The negative with no is the signal that the answer will delay, as the next line shows.
+6. "Sí contestan, señoría" (sentence 7): sí, with a stress, is the emphatic reply to a claim that the words do not answer. The conditional desearía is the polite form of a wish, "that you would wish for".
+7. "Un asunto de este calibre merece el análisis que merece" (sentence 7): the sentence repeats the verb merecer with a new noun, so that it adds nothing. The English "deserves the analysis it deserves" keeps the empty circle of the phrase.
+8. "Pues lo analizamos desde hace meses" (sentence 8): desde hace with the present is used for an action that began in the past and goes on now. Pues opens the reply and takes the minister's point back.
+9. "el Gobierno tiene que seguir el ritmo de quienes los escriben" (sentence 9): quienes with the indicative escriben is an indefinite group, the people who write the papers. The minister shifts the cause to them.
+10. "¿Y cuándo estará ese informe?" (sentence 10): the future estará is used for a question about a time not yet known. Hace dos semanas nos dijo takes the preterite, because the statement is over and closed.
+11. "No voy a dar fechas que no pueda cumplir" (sentence 11): voy a with an infinitive is the plain intention. The subjunctive pueda is used because the dates are any dates of that kind, and no particular one is in mind.
+12. "para la dúplica" (sentence 13): the rejoinder of the member is the réplica, and the minister's second answer in the same exchange is the dúplica. The English "rejoinder" is the usual match for the second reply.
+13. "La honestidad consiste en no prometer lo que no se puede hacer" (sentence 14): consistir en says what something is made of. The minister turns the member's praise into a rule of his own.
+14. "Las actas son muy fieles" (sentence 20): the acta is the official record of what was said in the session. Recoger takes down the words, and the minister's point is that the record keeps words and loses the tone.
+15. "Ruego a los señores diputados que se ciñan a la pregunta" (sentence 27): ceñirse a means to keep strictly to. The chair asks with ruego que and the subjunctive ciñan, a request and not a command.
+16. "lleva cebolla o no" (sentence 28): llevar with an ingredient means to contain it, as a menu says of a dish. The omelette is the tortilla de patatas and its onion, as in (Foundation, lesson 34), and the question ends with o no, a plain yes or no.
+
+ex1:
+- Agradezco la pregunta, señoría, aunque la respuesta no será la que espera, porque el Gobierno no puede anticipar un acuerdo que aún no existe.
+  en: I thank the Member for the question, although the answer will not be the one expected, because the government cannot anticipate an agreement that does not yet exist.
+- Si la Cámara quiere saber cuándo se decidirá, deberá preguntárselo al órgano competente, y no a quien solo ejecuta lo que se le encarga.
+  en: If the House wants to know when a decision will be taken, it must ask the competent body, and not the one that only carries out what it is given.
+- No es que el Gobierno no quiera responder: es que la materia exige un informe que todavía no ha llegado.
+  en: It is not that the government does not want to answer: it is that the matter requires a report that has not yet arrived.
+- Le ruego que se ciña al tiempo, señor diputado, porque hay otras preguntas y las señorías tienen derecho a escucharlas.
+  en: I ask you to keep to your time, honourable Member, because there are other questions and the members have the right to hear them.
+- Tiene razón el señor diputado en que el asunto preocupa, aunque no en que el Gobierno lo haya descuidado.
+  en: The honourable Member is right that the matter causes concern, though not that the government has neglected it.
+
+ex2:
+- Tiene la [palabra] el señor diputado.
+  en: The honourable Member has the floor.
+- [Pido] la palabra, señora presidenta.
+  en: I ask for the floor, Madam Chair.
+- Ruego que se [ciñan] a la pregunta.
+  en: I ask that they keep to the question.
+- La honestidad [consiste] en no prometer lo que no se puede hacer.
+  en: Honesty consists in not promising what cannot be done.
+- No voy a [dar] fechas que no pueda cumplir.
+  en: I am not going to give dates that I cannot keep.
+
+tasks:
+- Señor ministro, el informe lleva meses anunciándose: ¿cuándo lo tendremos y qué va a hacer el Gobierno hasta entonces? Señor diputado, agradezco la pregunta, que es muy oportuna. El Gobierno no descuida ningún plazo, y el informe llegará en su momento, sin fechas que luego no se cumplan; mientras tanto, seguimos trabajando con todo el rigor que la materia exige.
+  task.en: Write one question for the minister about a report that is late, and then the minister's answer in Spanish, in the parliamentary register. The answer must thank the Member and give no date.
+  rubric.en: meaning: the question asks for a date and for a plan, and the answer gives neither; register: formal, with señor ministro, señor diputado and señorías as the forms of address; structure: one question with a question mark and one answer that names the Member; idiom: agradezco la pregunta and en su momento are used in their normal senses; effect: the answer sounds complete, and the reader notices that it gives no date.
+
+== 74 C2
+numeral: Lección setenta y cuatro
+title: La investidura
+title.en: The investiture
+
+dialogue:
+- Cuando termina una elección general en España, nadie gobierna todavía, y eso es lo primero que conviene recordar a quien llega de fuera.
+  en: When a general election ends in Spain, nobody governs yet, and that is the first thing to remember for anyone arriving from outside.
+- El Gobierno no sale de las urnas: sale de una votación en el Congreso de los Diputados, la cámara donde se sientan los diputados elegidos.
+  en: The government does not come out of the ballot boxes: it comes out of a vote in the Congreso de los Diputados, the chamber where the elected deputies sit.
+- Primero, el Rey, después de consultar con los representantes de los grupos parlamentarios, propone un candidato a la presidencia del Gobierno.
+  en: First, the King, after consulting the representatives of the parliamentary groups, proposes a candidate for the presidency of the Government.
+- Esa consulta no es un trámite de cortesía: de ella depende quién tiene opciones reales de reunir apoyos.
+  en: That consultation is not a courtesy formality: on it depends who has a real chance of gathering support.
+- El candidato expone al Congreso el programa de su Gobierno, con las medidas que quiere aplicar y los compromisos que está dispuesto a asumir.
+  en: The candidate sets out to the Congreso the programme of the government, with the measures it wants to apply and the commitments it is prepared to take on.
+- El programa no tiene que ser perfecto; tiene que ser votable.
+  en: The programme does not have to be perfect; it has to be votable.
+- Antes de la votación, cada grupo explica desde la tribuna por qué vota como vota, y esas explicaciones suelen ser más largas que el acuerdo.
+  en: Before the vote, each group explains from the rostrum why it votes as it does, and those explanations are usually longer than the agreement.
+- Después viene la votación de investidura, que es la prueba decisiva.
+  en: Then comes the investiture vote, which is the decisive test.
+- Para ganarla en primera votación hace falta la mayoría absoluta, es decir, al menos 176 de los 350 diputados.
+  en: To win it in the first vote an absolute majority is needed, that is, at least 176 of the 350 deputies.
+- Si nadie llega a esa cifra, se celebra una nueva votación cuarenta y ocho horas después.
+  en: If nobody reaches that figure, a new vote is held forty-eight hours later.
+- En esa segunda votación basta con que haya más votos a favor que en contra, lo que se llama mayoría simple.
+  en: In that second vote it is enough for there to be more votes in favour than against, which is called a simple majority.
+- El proceso no termina ahí: el reloj corre dos meses desde la primera votación, y en ese tiempo el Rey puede proponer otro candidato.
+  en: The process does not end there: the clock runs for two months from the first vote, and in that time the King may propose another candidate.
+- Si al cabo de esos dos meses nadie ha conseguido la confianza, el Rey disuelve ambas Cámaras y convoca nuevas elecciones.
+  en: If after those two months nobody has won the confidence of the House, the King dissolves both chambers and calls new elections.
+- Por eso, la negociación con los demás grupos pesa tanto como la campaña.
+  en: That is why the negotiation with the other groups weighs as much as the campaign.
+- Para una mayoría absoluta de 176 no basta con un bloque ideológico: hacen falta votos concretos, y quien los da suele pedir algo a cambio.
+  en: For an absolute majority of 176, an ideological bloc is not enough: specific votes are needed, and whoever gives them usually asks for something in return.
+- Ahí entran las palabras de la negociación, que son más importantes de lo que parecen.
+  en: That is where the words of the negotiation come in, and they matter more than they seem to.
+- La primera es acuerdo: un documento o un pacto donde se fijan las medidas que cada parte acepta.
+  en: The first is agreement: a document or a pact in which the measures that each side accepts are set down.
+- La segunda es abstención: no votar a favor ni en contra, pero dejar pasar al candidato, que a veces basta para que gobierne.
+  en: The second is abstention: not voting for or against, but letting the candidate through, which is sometimes enough for him to govern.
+- La tercera es línea roja: un límite que un partido anuncia que no cruzará, aunque lo negocie todo lo demás.
+  en: The third is red line: a limit that a party announces it will not cross, even if it negotiates everything else.
+- La cuarta es apoyo puntual: el voto para una ley concreta, sin compromiso para el resto de la legislatura.
+  en: The fourth is one-off support: the vote for one particular law, with no commitment for the rest of the term.
+- Un Gobierno que depende de apoyos puntuales tiene que negociar cada ley por separado, y eso alarga los plazos y cansa a todos.
+  en: A government that depends on one-off support has to negotiate each law separately, and that lengthens the timetable and wears everyone down.
+- Eso se llama aritmética, y la aritmética no tiene simpatías.
+  en: That is called arithmetic, and arithmetic has no sympathies.
+- Cuando el candidato consigue la confianza, el Rey lo nombra presidente del Gobierno, y el presidente propone a los ministros, a los que el Rey nombra.
+  en: When the candidate wins the confidence of the House, the King appoints him president of the Government, and the president proposes the ministers, whom the King then appoints.
+- Los nuevos ministros toman posesión de su cargo y prometen o juran acatar la Constitución.
+  en: The new ministers take up their posts and promise or swear to abide by the Constitution.
+- La ceremonia es breve y suele ser sobria, y lo que queda después es la lista de compromisos, que se leerá con atención durante meses.
+  en: The ceremony is brief and usually sober, and what remains afterwards is the list of commitments, which will be read closely for months.
+- Dos días después, o quizá dos semanas, alguien ya cuenta los días que faltan para la próxima elección.
+  en: Two days later, or perhaps two weeks, someone is already counting the days left until the next election.
+
+notes.en:
+1. "El Gobierno no sale de las urnas" (sentence 2): salir de is used figuratively here: the government does not come out of the ballot as a result, it comes out of a later vote. The sentence corrects a belief the English reader may hold.
+2. "Primero, el Rey, después de consultar con los representantes" (sentence 3): the King proposes, but he does so only after the consultation, which takes the form of a meeting with the representatives of the parliamentary groups. The English "after consulting" keeps the infinitive.
+3. "Esa consulta no es un trámite de cortesía" (sentence 4): a trámite is a formal step that must be taken. De cortesía means done out of courtesy, which this is not. De ella depende takes the preposition from the noun, a fronted phrase.
+4. "votable" (sentence 6): the adjective is used in political talk for a programme that can win a vote. The English "votable" is the plain match, though it is less common than in Spanish.
+5. "explica desde la tribuna" (sentence 7): tribuna is the rostrum from which members speak in the chamber. The comparison with más largas que el acuerdo says that the speeches are longer than the agreement they explain.
+6. "hace falta la mayoría absoluta, es decir, al menos 176 de los 350 diputados" (sentence 9): hace falta means is needed, and es decir introduces the figure in other words. The absolute majority is more than half of all the members of the Congreso, whether they are present or not.
+7. "basta con que haya más votos a favor que en contra" (sentence 11): bastar con que takes the subjunctive, because the condition is what must happen. Lo que se llama mayoría simple names the rule. The abstentions of sentence 18 work in the same way.
+8. "el reloj corre dos meses desde la primera votación" (sentence 12): correr is used for the running of time, as a clock runs. The subjunctive is not needed here, because the length of the period is a fact.
+9. "Si al cabo de esos dos meses nadie ha conseguido la confianza" (sentence 13): al cabo de means after a period has passed. The perfect ha conseguido is used because nothing has been achieved up to now.
+10. "Para una mayoría absoluta de 176 no basta con un bloque ideológico" (sentence 15): a bloque is a group of parties that agree on the same ideas. Quien los da suele pedir algo a cambio has the indefinite quien with the indicative, and suele marks what usually happens.
+11. "La segunda es abstención" (sentence 18): abstención is not a vote against; it is the choice of not voting. The English "abstention" is the exact word, and it helps the candidate because the yes votes need only to be more than the no votes.
+12. "La tercera es línea roja" (sentence 19): línea roja is the same image in English, and it is a fixed phrase in negotiation. Aunque lo negocie todo lo demás has aunque with the subjunctive for a concession that may happen.
+13. "a los que el Rey nombra" (sentence 23): the relative with a and a pronoun, a los que, refers back to the ministers. The sentence joins two steps of the same process: the president proposes, the King appoints.
+
+ex1:
+- No basta con tener más votos que el rival: hace falta que esos votos se sumen en la votación correcta.
+  en: It is not enough to have more votes than the rival: those votes must be added up in the right vote.
+- Si el acuerdo llega en la última semana, la votación podrá celebrarse antes de que venza el plazo.
+  en: If the agreement arrives in the last week, the vote can be held before the period runs out.
+- Los partidos pequeños no tienen votos de sobra, pero sí una ventaja: su abstención puede decidir la votación.
+  en: The small parties have no spare votes, but they have one advantage: their abstention can decide the vote.
+- Que un partido se abstenga no significa que esté de acuerdo, sino que prefiere no ser quien tumbe al candidato.
+  en: That a party abstains does not mean it agrees, but that it prefers not to be the one who brings the candidate down.
+- Nadie gobierna hasta que se nombra a los ministros, aunque la votación haya salido bien hace días.
+  en: Nobody governs until the ministers are appointed, even if the vote went well days earlier.
+
+ex2:
+- La abstención [basta] para que gobierne.
+  en: Abstention is enough for him to govern.
+- Una línea [roja] que nadie quiere cruzar.
+  en: A red line that nobody wants to cross.
+- El Gobierno [depende] de apoyos puntuales.
+  en: The government depends on one-off support.
+- Cada ley se negocia [por separado].
+  en: Each law is negotiated separately.
+- Si al cabo de dos meses nadie logra la confianza, el Rey [disuelve] ambas Cámaras.
+  en: If after two months nobody wins the confidence of the House, the King dissolves both chambers.
+
+tasks:
+- En España, después de las elecciones generales, el Rey consulta a los representantes de los grupos parlamentarios y propone a un candidato para la presidencia del Gobierno. Ese candidato presenta su programa y el Congreso vota la investidura. En la primera votación hace falta la mayoría absoluta, es decir, 176 de los 350 diputados; si nadie la consigue, se vuelve a votar cuarenta y ocho horas después, y basta entonces con más votos a favor que en contra. Si pasan dos meses desde la primera votación sin que nadie gobierne, el Rey disuelve las Cámaras y se convocan elecciones nuevas. Por eso la política de estos meses se juega sobre todo en la negociación: un acuerdo, una abstención o un voto para una sola ley.
+  task.en: Explain in Spanish, in about 100 words, to an English friend how a Spanish government is formed. Use the terms of the lesson, the figures and the order of the steps, and do not copy the lesson's sentences.
+  rubric.en: meaning: the steps are in order (consultation, proposal, programme, first vote, second vote, the two months, dissolution) and the figures are right; register: plain and clear, as one explains to a friend; structure: a short paragraph of the steps, in order, with the reason at the end; idiom: hace falta, basta con and por eso are used in their normal senses; effect: the last sentence shows why the negotiation matters, without any party named.
+
+== 75 C2
+numeral: Lección setenta y cinco
+title: La tertulia
+title.en: The panel
+
+dialogue:
+- Presentadora: Buenas noches, o buenas tardes, según la hora que tengan ustedes. Hoy tenemos en la tertulia a Anselmo Estrada, que acaba de publicar un libro, y a Gregorio Peña, que lo ha leído, dice, por encima.
+  en: Good evening, or good afternoon, depending on the time you are listening. Tonight we have on the panel Anselmo Estrada, who has just published a book, and Gregorio Peña, who has read it, he says, skimming it.
+- Gregorio: Lo he leído, y lo he leído con atención, que es más de lo que puede decir la mitad de la tertulia.
+  en: I have read it, and I have read it carefully, which is more than half the panel could say.
+- Presentadora: Pues empecemos por el libro. Anselmo, ¿de qué trata?
+  en: Then let us start with the book. Anselmo, what is it about?
+- Estrada: Trata de todo lo que nos importa, Marta, y de algunas cosas que no nos importan pero que deberían.
+  en: It is about everything that matters to us, Marta, and about some things that do not matter to us but ought to.
+- Gregorio: Eso es un índice, no un tema.
+  en: That is a table of contents, not a subject.
+- Estrada: Un índice bien hecho es ya una forma de pensar, Gregorio, y yo tengo el mío en orden.
+  en: A well-made table of contents is already a way of thinking, Gregorio, and mine is in order.
+- Presentadora: Pero ¿qué dice el primer capítulo? Lo pregunto porque hay quien lo ha comprado y se ha quedado en la página tres.
+  en: But what does the first chapter say? I ask because there are people who bought it and got stuck on page three.
+- Estrada: El primer capítulo habla del silencio, que es un tema muy agradecido en la radio, porque nadie se atreve a interrumpirlo.
+  en: The first chapter is about silence, which is a very grateful subject on the radio, because nobody dares to interrupt it.
+- Gregorio: Pues aquí llevamos tres interrupciones.
+  en: Well, we have had three interruptions here already.
+- Estrada: Y ninguna me ha molestado, que es lo que hace una buena tertulia.
+  en: And none of them has bothered me, which is what makes a good panel.
+- Presentadora: Anselmo, la pregunta es más sencilla: ¿por qué escribió el libro, y para quién?
+  en: Anselmo, the question is simpler than that: why did you write the book, and for whom?
+- Estrada: Lo escribí porque la vida es corta, y para quien tenga tiempo, que cada vez es menos.
+  en: I wrote it because life is short, and for whoever has time, which is less and less.
+- Gregorio: Eso lo dice cualquiera que haya escrito algo.
+  en: Anyone who has written anything could say that.
+- Estrada: Pues cualquiera que haya escrito algo, Gregorio, lo dice con razón.
+  en: Then anyone who has written something says it with good reason, Gregorio.
+- Presentadora: Vamos a algo más concreto: el precio del libro. ¿Cuánto cuesta, y por qué ese precio y no otro?
+  en: Let us move to something more concrete: the price of the book. How much does it cost, and why that price and not another?
+- Estrada: El precio lo fija la editorial, que sabe más de números que yo y menos de libros.
+  en: The price is set by the publisher, who knows more about numbers than I do and less about books.
+- Gregorio: Eso no es una respuesta, es una confesión.
+  en: That is not an answer, it is a confession.
+- Estrada: Depende de quién confiese y de qué, Gregorio, y no conviene precipitarse.
+  en: It depends on who confesses and to what, Gregorio, and it is not wise to rush.
+- Presentadora: Anselmo, ¿y cuántos ejemplares ha vendido ya?
+  en: Anselmo, and how many copies have you sold so far?
+- Estrada: Los suficientes para que la editorial me llame, y los insuficientes para que me llame el cine.
+  en: Enough for the publisher to call me, and not enough for the cinema to call.
+- Gregorio: Eso es decir que no lo sabe.
+  en: That is saying that you do not know.
+- Estrada: Eso es decir que la cifra no me hace más inteligente, que es lo que busca quien pregunta.
+  en: That is saying that the figure would not make me any cleverer, which is what the questioner is looking for.
+- Presentadora: Pues la cifra sí la tiene la editorial, y la pregunta sigue en el aire.
+  en: Well, the publisher does have the figure, and the question is still up in the air.
+- Estrada: Eso tendrá que preguntárselo a la editorial, Marta, que para eso cobra.
+  en: You will have to ask the publisher that, Marta, because that is what it is paid for.
+- Gregorio: Llevamos cuarenta minutos y no hemos sabido de qué trata el libro, ni por qué existe, ni cuánto cuesta.
+  en: We have been going for forty minutes and we have not learnt what the book is about, why it exists, or how much it costs.
+- Estrada: Eso lo sabrá el oyente cuando lo compre, Gregorio, y ya es mucho saber para una tertulia.
+  en: The listener will know that when he buys it, Gregorio, and that is a lot to know for a panel.
+- Presentadora: Anselmo, le hago la última pregunta: ¿qué dice el libro sobre la tertulia?
+  en: Anselmo, I am asking you one last question: what does the book say about the panel?
+- Estrada: Que la tertulia es el único sitio donde se habla sin contestar, y eso lo dice en la página ochenta.
+  en: That the panel is the only place where people talk without answering, and it says so on page eighty.
+- Presentadora: Muchas gracias, señor Estrada. Le agradecemos su tiempo, que es lo único que nos ha dado de sobra.
+  en: Thank you, Mr Estrada. We thank you for your time, which is the one thing you have given us in plenty.
+
+notes.en:
+1. "según la hora que tengan ustedes" (sentence 1): según with a noun means depending on, so the presenter says the greeting depends on the listeners' time. The opening is the usual one for a broadcast heard at different hours.
+2. "que es más de lo que puede decir la mitad de la tertulia" (sentence 2): the comparative más de lo que puede decir gives a number without a figure. The English "more than half the panel could say" keeps the Spanish comparison.
+3. "Trata de todo lo que nos importa" (sentence 4): tratar de is to be about, and the guest uses the verb as a way to say nothing in particular. The English "it is about" is the plain match.
+4. "Eso es un índice, no un tema" (sentence 5): an índice is a table of contents, and tema is a subject. The sentence sets two kinds of answer side by side, so that the reader sees the difference.
+5. "Un índice bien hecho es ya una forma de pensar" (sentence 6): the guest's claim, in the style of a man who likes his own words. Ya marks that the claim is made at once, before any proof.
+6. "un tema muy agradecido en la radio" (sentence 8): tema agradecido is a subject that always works well, one that people enjoy talking about. The English "a grateful subject" is the usual sense.
+7. "para quien tenga tiempo, que cada vez es menos" (sentence 12): para quien takes the subjunctive, because the reader is not known, and the relative clause que cada vez es menos is the indicative for a fact. Cada vez means more and more or less and less, here less.
+8. "sabe más de números que yo y menos de libros" (sentence 16): the comparative more about x than y, with the second part also a comparative, which is the joke of the sentence. The English keeps both comparisons, in the same order.
+9. "Depende de quién confiese y de qué" (sentence 18): depende de with two question words leaves the answer open, and the guest uses that openness to delay. The English "it depends on who confesses and to what" keeps the open form.
+10. "Los suficientes para que la editorial me llame" (sentence 20): para que takes the subjunctive when the aim is another person's act, here the publisher calling. The contrast with the cinema is made in the same grammar.
+11. "Eso tendrá que preguntárselo a la editorial" (sentence 24): tendrá que is an obligation in the future, and the pronouns follow the infinitive, preguntárselo, the se for the indirect person. The English "you will have to ask the publisher that" keeps the pronoun.
+12. "Eso lo sabrá el oyente cuando lo compre" (sentence 26): cuando lo compre takes the subjunctive, because the buying is still to happen. The English "when he buys it" is the same sense.
+13. "que es lo único que nos ha dado de sobra" (sentence 29): dar de sobra means to give more than enough, in plenty. The English "in plenty" is the exact sense.
+
+ex1:
+- Le agradezco que haya venido, aunque no le hayamos pedido nada que no fuera una respuesta.
+  en: I thank you for coming, although we asked for nothing but an answer.
+- Si el oyente quiere saber cuánto cuesta el libro, tiene que llamar a la editorial y no a la tertulia.
+  en: If the listener wants to know how much the book costs, they have to ring the publisher and not the panel.
+- Llevamos media hora de tertulia sin una sola cifra, y eso es precisamente lo que el público no perdona.
+  en: We have been on air for half an hour without a single figure, and that is exactly what the audience does not forgive.
+- Cuanto más habla el invitado, menos sabemos de su libro, y eso no puede ser casualidad.
+  en: The more the guest talks, the less we know about his book, and that cannot be chance.
+- Si usted no ha leído el libro, dígalo, que el público lo agradecerá más que un resumen inventado.
+  en: If you have not read the book, say so, because the audience will thank you for that more than for an invented summary.
+
+ex2:
+- Eso no es una respuesta, es una [confesión].
+  en: That is not an answer, it is a confession.
+- Nos ha dado [de sobra] de todo, menos respuestas.
+  en: He has given us plenty of everything, except answers.
+- Eso lo sabrá el oyente cuando lo [compre].
+  en: The listener will know that when he buys it.
+- Buenas noches, o buenas tardes, según [la hora] que tengan ustedes.
+  en: Good evening, or good afternoon, depending on the time you are listening.
+- Los suficientes para que la editorial me [llame].
+  en: Enough for the publisher to call me.
+
+tasks:
+- ¿Cuánto cuesta el libro, y quién decide ese precio? ¿Cuántos ejemplares se han vendido, y cuántos necesita vender para que la editorial no pierda dinero? ¿De qué trata el primer capítulo, dicho en una sola frase? ¿Qué quiere que entienda el oyente antes de comprarlo? ¿Por qué debería leerlo alguien que no quiere escuchar a nadie?
+  task.en: Write the five questions that should have been asked in this panel, in Spanish, in the order the presenter would put them. Each must ask for one fact.
+  rubric.en: meaning: the five questions ask for the price, the sales, the subject of the first chapter, what the listener should understand and why to read it, and each one can be answered in one fact; register: polite and direct, as a presenter puts questions to a guest on the air; structure: five questions, each with its question mark, in order; idiom: quién decide ese precio and dicho en una sola frase keep their normal meaning; effect: the last question closes the list with the one a listener would most want answered.
+
+== 76 C2
+numeral: Lección setenta y seis
+title: Dos columnas, una pregunta
+title.en: Two columns, one question
+
+dialogue:
+- Rosario Mena escribe que los colegios bilingües funcionan, y que quien dice lo contrario no ha pisado ninguno.
+  en: Rosario Mena writes that bilingual schools work, and that whoever says otherwise has never set foot in one.
+- Lo ha visto en la clase de sus propios hijos, donde se canta en inglés a las nueve y en español a las diez, sin que nadie se queje.
+  en: She has seen it in her own children's classes, where they sing in English at nine and in Spanish at ten, and nobody complains.
+- Un niño de seis años que cuenta en inglés no aprende menos matemáticas: aprende a pensar en dos lenguas, y eso le sirve toda la vida.
+  en: A six-year-old who counts in English does not learn less maths: he learns to think in two languages, and that serves him all his life.
+- La escuela pública tiene un deber con las familias que no pueden pagar academias de idiomas, y para muchas de ellas el colegio bilingüe es la única puerta.
+  en: The state school has a duty to families who cannot pay for language academies, and for many of them the bilingual school is the only door.
+- Se dice que los profesores no están preparados, y es cierto en algunos casos, pero eso es un problema de formación y no de la idea.
+  en: It is said that the teachers are not prepared, and that is true in some cases, but that is a problem of training, not of the idea.
+- Lo que hace falta es formar al profesorado, pagar bien a quienes enseñan en otra lengua y evaluar cada programa con datos y no con rumores.
+  en: What is needed is to train the teachers, to pay well those who teach in another language, and to assess each programme with data and not with rumours.
+- Quien tiene miedo a que los niños pierdan el español no conoce a los niños: el español llega solo, en la calle, en casa y en la televisión.
+  en: Whoever is afraid that children will lose their Spanish does not know children: Spanish arrives on its own, in the street, at home and on television.
+- Los que lo critican suelen comparar el colegio ideal con el colegio real, y eso no es una comparación: es una coartada.
+  en: Those who criticise it usually compare the ideal school with the real one, and that is not a comparison: it is an alibi.
+- Un colegio bilingüe bien hecho enseña la historia, la ciencia y la música en otra lengua sin rebajar el contenido, porque el contenido es lo que se aprende.
+  en: A well-run bilingual school teaches history, science and music in another language without lowering the content, because the content is what is learnt.
+- Los que defienden la inmersión como una tortura olvidan que los niños aprenden más deprisa de lo que creen los adultos.
+  en: Those who call immersion a torture forget that children learn faster than adults think.
+- No hay que caer en la ingenuidad: un programa mal diseñado enseña menos, pero el remedio es mejorarlo, no cerrarlo.
+  en: One must not fall into naivety: a badly designed programme teaches less, but the remedy is to improve it, not to close it.
+- Cerrarlos porque algunos no funcionan es como cerrar las bibliotecas porque hay libros malos.
+  en: To close them because some do not work is like closing the libraries because there are bad books.
+- Y los niños que hoy estudian así serán los que, dentro de unos años, hablarán con medio mundo sin pedir perdón por su acento.
+  en: And the children who study this way today will be the ones who, in a few years, speak with half the world without apologising for their accent.
+- Hugo Teruel escribe que el problema de los colegios bilingües no está en sus intenciones, sino en lo que ocurre dentro de la clase.
+  en: Hugo Teruel writes that the problem with bilingual schools is not their intentions, but what happens inside the classroom.
+- Conozco a una profesora de ciencias que dio la mitad de la lección en un inglés que ella misma reconoce como mejorable, y los alumnos lo notaron en el examen.
+  en: I know a science teacher who gave half the lesson in an English that she herself admits could be better, and the pupils felt it in the exam.
+- Eso no es una anécdota: es la consecuencia de haber puesto la lengua antes que el contenido.
+  en: That is not an anecdote: it is the result of putting the language before the content.
+- El alumno tiene derecho a entender lo que estudia, y eso empieza por la lengua en la que piensa, no por una traducción a medias.
+  en: A pupil has the right to understand what he studies, and that starts with the language he thinks in, not with a half translation.
+- La lengua materna no es un obstáculo que haya que saltar cuanto antes; es el suelo sobre el que se construye todo lo demás.
+  en: The mother tongue is not an obstacle to be cleared as quickly as possible; it is the floor on which everything else is built.
+- Que el inglés sea útil nadie lo discute, pero la utilidad no justifica que se enseñe la biología en una lengua que el alumno todavía no domina.
+  en: That English is useful nobody disputes, but usefulness does not justify teaching biology in a language the pupil does not yet command.
+- Los defensores hablan de resultados, pero los resultados dependen de quién los mida, y en muchos casos los mide quien ya ha decidido que el programa funciona.
+  en: The supporters speak of results, but results depend on who measures them, and in many cases they are measured by someone who has already decided that the programme works.
+- Tampoco es verdad que todos los colegios puedan ofrecer el mismo programa: el que tiene buen profesorado lo consigue, y el que no lo tiene se queda con el nombre en la puerta.
+  en: Nor is it true that every school can offer the same programme: the one with good teachers manages it, and the one without them is left with the name on the door.
+- Así se crea una desigualdad nueva: unos colegios con idiomas y otros sin ellos, y las familias que pueden elegir son las que menos lo necesitan.
+  en: That creates a new inequality: some schools with languages and others without them, and the families who can choose are the ones who need it least.
+- Hay que hablar de dinero, que es lo que nunca se menciona en los discursos: formar profesores cuesta, y ese gasto no siempre llega a donde hace falta.
+  en: We must talk about money, which is what is never mentioned in the speeches: training teachers costs, and that spending does not always reach where it is needed.
+- No propongo cerrar nada: propongo que el colegio enseñe primero la lengua de la casa y después la otra, sin prisas y con mejores maestros.
+  en: I do not propose closing anything: I propose that the school teaches the language of the home first and the other one afterwards, without rush and with better teachers.
+- Lo que pido es sencillo: que nadie tenga que elegir entre el inglés y el dominio de lo que estudia.
+  en: What I ask is simple: that nobody should have to choose between English and a command of what they study.
+- Y si alguien cree que esto es nostalgia, que pregunte a los alumnos de la clase de ciencias si entendieron el examen, y que lo haga en español.
+  en: And if anyone thinks this is nostalgia, let them ask the pupils in the science class whether they understood the exam, and let them ask in Spanish.
+
+notes.en:
+1. "quien dice lo contrario no ha pisado ninguno" (sentence 1): quien with the indicative dice is a generic person, and the perfect ha pisado is used because the visits are not over. Pisar is to set foot in a place, and the English "has never set foot in one" is the plain match.
+2. "donde se canta en inglés a las nueve y en español a las diez" (sentence 2): the timetable is the evidence the columnist offers, and se canta is the passive reflexive, with no one named as the singer. The two times show the programme at work.
+3. "Un niño de seis años que cuenta en inglés no aprende menos matemáticas" (sentence 3): cuenta here means counts, and the que clause describes the child. No aprende menos is the plain claim that the English does not cost him maths.
+4. "y para muchas de ellas el colegio bilingüe es la única puerta" (sentence 4): ellas refers back to the families, and the metaphor of the door is the columnist's own; the English "the only door" is the same image.
+5. "Se dice que los profesores no están preparados" (sentence 5): se dice que is the impersonal way of reporting a view that is common without naming who holds it. Formación is the training of teachers, not education in general.
+6. "Quien tiene miedo a que los niños pierdan el español" (sentence 7): tener miedo a que takes the subjunctive, because the thing feared has not happened. The columnist answers the fear in the same sentence that states it.
+7. "es una coartada" (sentence 8): coartada is an alibi, a reason offered to hide a real position. The English word is the usual one, and the sentence puts the critics' comparison in that light.
+8. "Cerrarlos porque algunos no funcionan es como cerrar las bibliotecas porque hay libros malos" (sentence 12): the comparison is between two things of the same kind, the schools and the libraries, and porque hay takes the indicative, because the bad books are a fact.
+9. "medio mundo" (sentence 13): medio mundo is an idiom for a large part of the world, a hyperbole. The English "half the world" keeps the exaggeration.
+10. "sin pedir perdón por su acento" (sentence 13): pedir perdón is to apologise, and the Spanish speaker's accent is what the children will not have to excuse. The English "without apologising for their accent" is the exact sense.
+11. "el problema de los colegios bilingües no está en sus intenciones, sino en lo que ocurre dentro de la clase" (sentence 14): no ... sino is a contrast that moves the argument from the intention to the act, and the Hugo Teruel column starts from that move.
+12. "en un inglés que ella misma reconoce como mejorable" (sentence 15): reconocer takes the indicative, because the teacher does recognise it. Mejorable is what can be improved; the English "could be better" is the plain sense.
+13. "la lengua materna no es un obstáculo que haya que saltar cuanto antes" (sentence 18): haya que saltar is the impersonal obligation with the subjunctive after a noun that is not yet known. The image of the floor in the next sentence follows from it.
+14. "los resultados dependen de quién los mida" (sentence 20): depender de with a question word takes the subjunctive, because who will measure is still open. The next line says who usually does.
+15. "el que tiene buen profesorado lo consigue" (sentence 21): el que takes the indicative for a fact the columnist states. The pronoun lo refers back to the programme, so the sentence needs no repetition.
+16. "y que lo haga en español" (sentence 26): the subjunctive haga is a command to a third person, let him do it. The last line gives the argument its close, and the English keeps the same verb.
+
+ex1:
+- Quien defiende el programa con cifras debe enseñar también las cifras que no le convienen.
+  en: Whoever defends the programme with figures must also show the figures that do not suit them.
+- Nadie niega que un profesor bien formado valga más que un manual perfecto, pero ninguno de los dos basta sin el otro.
+  en: Nobody denies that a well-trained teacher is worth more than a perfect textbook, but neither of the two is enough without the other.
+- Si el colegio tuviera más recursos, la discusión sería otra; el problema es que los recursos siempre llegan tarde.
+  en: If the school had more resources, the argument would be a different one; the problem is that resources always arrive late.
+- Los niños no piden una lengua u otra: piden que alguien les explique lo que no entienden.
+  en: Children do not ask for one language or another: they ask someone to explain what they do not understand.
+- Cuanto más se discute la idea, menos se mira la clase, y ahí es donde se decide todo.
+  en: The more the idea is argued about, the less anyone looks at the classroom, and that is where everything is decided.
+
+ex2:
+- Quien tiene [miedo] a perder el idioma no conoce a su hijo.
+  en: Whoever is afraid of losing the language does not know their child.
+- Los que critican el programa [suelen] olvidar las horas de clase.
+  en: Those who criticise the programme usually forget the hours of teaching.
+- Eso no es una cifra, es una [coartada].
+  en: That is not a figure, it is an alibi.
+- Formar a un buen profesor [cuesta] mucho dinero.
+  en: Training a good teacher costs a great deal of money.
+- Con ese acento habla con [medio] mundo sin problema.
+  en: With that accent he talks with half the world without any trouble.
+
+tasks:
+- Los colegios bilingües no son buenos ni malos por sí mismos: lo que decide su valor es cómo se enseña y quién lo enseña. Tienen razón quienes defienden la segunda lengua, porque abre puertas y la escuela pública debe ofrecerla; y tienen razón quienes advierten que la materia no puede sacrificarse al idioma. Lo justo sería exigir formación del profesorado, evaluaciones independientes y un reparto de recursos que no deje a ningún centro sin programa. Así, la pregunta de si funcionan tendría una respuesta más útil: funcionan cuando se hacen bien, y no cuando solo se anuncian.
+  task.en: Write a third column in Spanish, of about 120 words, that answers the question of this lesson in a balanced way: give the strongest point of each side, then the condition under which the answer is yes. Take no party.
+  rubric.en: meaning: the strongest point of each column is given fairly, and the answer depends on how the programme is run; register: an opinion column, formal and plain, with no insult to either side; structure: one paragraph of two sides and a conclusion; idiom: tener razón quienes and no puede sacrificarse are used in their normal senses; effect: the last sentence is a conclusion that a reader from either side could accept.
+
+== 77 C2
+kind: revision
+numeral: Lección setenta y siete
+title: Revisión y notas
+title.en: Revision and notes
+
+dialogue:
+- Pilar: Son las nueve y media, y a las once cierro la portada. Tenemos cinco candidatas: la terraza, la investidura, la tertulia y las dos columnas.
+  en: It is half past nine, and I close the front page at eleven. We have five candidates: the terrace, the investiture, the panel and the two columns.
+  refs: 71, 74, 75, 76
+- Gregorio: Yo voto por la tertulia. Estrada dice que ha vendido los suficientes para que la editorial le llame, y no dice cuántos.
+  en: I vote for the panel. Estrada says he has sold enough for the publisher to call him, and he does not say how many.
+  refs: 75
+- Pilar: Eso no es una cifra, Gregorio, es una coartada.
+  en: That is not a figure, Gregorio, it is an alibi.
+  refs: 76
+- Gregorio: Pues la coartada la pone él, que es el único que no contesta a nada.
+  en: Then the alibi is his, since he is the only one who answers nothing.
+  refs: 75
+- Hugo: Entonces propongo la investidura, que tiene números: 176 de 350 y dos meses de plazo.
+  en: Then I propose the investiture, which has numbers: 176 of 350 and a deadline of two months.
+  refs: 74
+- Rosario: La aritmética no tiene simpatías, Hugo, y el lector tampoco.
+  en: Arithmetic has no sympathies, Hugo, and neither does the reader.
+  refs: 74
+- Pilar: Pues la terraza. Es lo que se vota mañana en el pleno, y es lo que la gente ve al salir de casa.
+  en: Then the terrace. It is what is voted on at the council tomorrow, and it is what people see when they leave home.
+  refs: 71
+- Hugo: El problema es que el editorial lo escribimos nosotros, y el editorial dice cosas muy duras contra las terrazas.
+  en: The problem is that we wrote the editorial, and the editorial says very harsh things about the terraces.
+  refs: 71
+- Pilar: Por eso va en portada: lo decimos antes que nadie.
+  en: That is why it goes on the front: we say it before anyone else.
+  refs: 71
+- Rosario: Pues yo prefiero mi columna de los colegios, que ya está escrita.
+  en: Well, I have the column on the schools, which is already written.
+  refs: 76
+- Hugo: Tu columna dice que los colegios funcionan, y yo conozco a una profesora de ciencias que dio la mitad de la lección en un inglés que nadie entendió.
+  en: Your column says that the schools work, and I know a science teacher who gave half the lesson in an English that nobody understood.
+  refs: 76
+- Rosario: Tu profesora no existe, Hugo, o si existe no ha pisado ninguno de los colegios que defiendo.
+  en: Your teacher does not exist, Hugo, or if she does, she has never set foot in any of the schools I defend.
+  refs: 76
+- Gregorio: Dejad los colegios: tengo una foto de la terraza, con las mesas en primer plano.
+  en: Leave the schools alone: I have a photo of the terrace, with the tables in the foreground.
+  refs: 71
+- Pilar: ¿Desde qué acera? Si es la de la calle Mayor, esa ya la tiene el fotógrafo de ayer.
+  en: From which pavement? If it is the one in Calle Mayor, the photographer has that one already from yesterday.
+  refs: 71
+- Gregorio: Desde la mesa de la farmacia, Pilar. Estaba sentado allí esta tarde con el portátil.
+  en: From the table in front of the chemist's, Pilar. I was sitting there this afternoon with the laptop.
+  refs: 71
+- Hugo: ¿La mesa de la farmacia? La que lleva ahí desde marzo y que no ha pedido permiso a nadie.
+  en: The table in front of the chemist's? The one that has been there since March and has asked permission from no one.
+  refs: 71
+- Pilar: Gregorio, ¿y tú desde cuándo te sientas ahí?
+  en: Gregorio, and since when have you been sitting there?
+  refs: 71
+- Gregorio: Desde marzo, todas las tardes, a la misma hora, con el café que cobra el bar.
+  en: Since March, every afternoon, at the same hour, with the coffee the bar charges for.
+  refs: 71
+- Rosario: No me digas que la mesa es nuestra.
+  en: Do not tell me the table is ours.
+  refs: 71
+- Gregorio: Es nuestra desde marzo, Rosario. El camarero nos la guarda, y no se queja.
+  en: It has been ours since March, Rosario. The waiter keeps it for us, and does not complain.
+  refs: 71
+- Hugo: Pues el editorial dice que no es un delito, pero tampoco es un derecho, y eso lo dijimos nosotros.
+  en: Well, the editorial says it is not a crime, but it is not a right either, and we are the ones who said so.
+  refs: 71
+- Rosario: Entonces la portada no puede ser la terraza.
+  en: Then the front page cannot be the terrace.
+  refs: 71
+- Hugo: Al contrario: es la portada perfecta, con la foto de la mesa y el titular de siempre.
+  en: On the contrary: it is the perfect front page, with the photo of the table and the usual headline.
+  refs: 71
+- Gregorio: ¿Y cuál es el titular?
+  en: And what is the headline?
+  refs: 71
+- Pilar: El titular ya lo teníamos: el editorial lo hemos escrito nosotros, sentados en la mesa que denunciamos.
+  en: We already had the headline: we wrote the editorial ourselves, sitting at the table we denounce.
+  refs: 71
+
+notes.en:
+The week's texts are lessons 71 to 76. Each section names its lessons and quotes their lines as they stand there, so the learner can find them. The scene is one evening in a newsroom, and every line answers the one before it.
+1. Editorial and register (lesson 71): the paper speaks for itself, and the argument is set out in nouns and short sentences.
+| Form | What it does | Line from lesson 71 |
+|---|---|---|
+| the paper's we | the paper speaks for itself and says so before others | Este periódico no está en contra de los bares |
+| the noun style | the change is named as a thing | el reparto del espacio |
+| the plain verdict | a claim with no softening | No es un delito, pero tampoco es un derecho |
+2. Fallacies in an argument (lesson 72): each fallacy has its Spanish name and a comic example that matches its explanation.
+| Form | What it does | Line from lesson 72 |
+|---|---|---|
+| the straw man | the other position is made easier to knock down | el hombre de paja consiste en cambiar la postura del otro |
+| the false dilemma | two options where there are more | O nos vamos de vacaciones a la playa, o nos quedamos en casa |
+| the appeal to ignorance | a claim taken as proved because it is not disproved | Nadie ha demostrado que este ensayo sea aburrido |
+3. Evasion in the chamber (lesson 73): the answer thanks the Member, then says nothing that can be checked.
+| Form | What it does | Line from lesson 73 |
+|---|---|---|
+| the thanks first | the question is praised before it is answered | Agradezco la pregunta, que es muy oportuna |
+| the shortcut denied | the matter is said to allow no quick answer | la materia no admite atajos |
+| the record | the words are checked against what was said | Eso no es lo que dijo, señor ministro, y lo tiene en el acta |
+4. The investiture and its numbers (lesson 74): the figures are exact, and the words of the negotiation are named one by one.
+| Form | What it does | Line from lesson 74 |
+|---|---|---|
+| the absolute majority | more than half the members, so 176 of 350 | Para ganarla en primera votación hace falta la mayoría absoluta |
+| the abstention | a silence that can let the candidate through | La segunda es abstención |
+| the red line | a limit a party will not cross | La tercera es línea roja |
+5. The panel and its questions (lesson 75): a guest who talks at length can give no fact, and the presenter closes on it.
+| Form | What it does | Line from lesson 75 |
+|---|---|---|
+| the table of contents | a list is not a subject | Eso es un índice, no un tema |
+| the figure that is not given | sales are said to be enough, without a number | Los suficientes para que la editorial me llame |
+| the plenty | the last line gives back what the guest did give | que es lo único que nos ha dado de sobra |
+6. Two columns, one question (lesson 76): each column states its view with a case and answers the other.
+| Form | What it does | Line from lesson 76 |
+|---|---|---|
+| the columnist's claim | the column opens with its thesis and a name | Rosario Mena escribe que los colegios bilingües funcionan |
+| the rebuttal | the other column sets its point against the first | Hugo Teruel escribe que el problema de los colegios bilingües no está en sus intenciones |
+| the question to the reader | the close is a request, in the same language as the question | y que lo haga en español |
+
+tasks:
+- El pleno municipal debatirá mañana la ordenanza que regula las terrazas de los bares. La propuesta fija un paso libre a lo largo de toda la acera, un horario de cierre a las once en las calles con viviendas y una inspección nocturna. «No queremos prohibir nada», ha dicho la concejala de Urbanismo, Teresa Vidal, «pero una norma que nadie vigila no sirve de nada». Los hosteleros piden más plazo para adaptar sus terrazas. La votación está prevista para la tarde y, si se aprueba, la ordenanza entrará en vigor tras su publicación.
+  task.en: Write a short news report in Spanish, of about 90 words, about tomorrow's council vote on the terrace by-law: the lead first, then the details, one quote from a councillor you invent, and what happens next. Do not state the result of the vote.
+  rubric.en: meaning: the report gives the lead, the details, a quote and the next step, and does not state the result of the vote; register: the neutral news register, with the quote in « » and the verb of saying in the past; structure: the lead sentence first, then details in order of importance, then what comes next; idiom: entrará en vigor and tras su publicación are used in their normal senses; effect: the last line tells the reader what to watch for, so the report ends on the next step.

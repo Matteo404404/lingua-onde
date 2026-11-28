@@ -5,3 +5,183 @@ name: Portuguese (Portugal) – Foundation (A1 → B2)
 name.it: Portoghese (Portogallo) – Fondamenti (A1 → B2)
 name.en: Portuguese (Portugal) – Foundation (A1 → B2)
 name.es: Portugués (Portugal) – Fundamentos (A1 → B2)
+
+== 76 B2
+numeral: Septuagésima sexta lição
+numeral.pron.it: sëptua*jè*zima *sèish*ta li*sauⁿ*
+title: Apesar da chuva
+title.it: Nonostante la pioggia
+
+dialogue:
+- Apesar da chuva, vamos à Ribeira.
+  it: Nonostante la pioggia, andiamo alla Ribeira.
+  pron.it: a'p*zar* … rri*bèi*ra
+- Com esta chuva? Tu és mesmo teimoso.
+  it: Con questa pioggia? Sei proprio testardo.
+  pron.it: … tèi*mó*zu
+- Não sou. Embora esteja a chover, não gosto de ficar em casa.
+  it: Non lo sono. Anche se piove, non mi piace stare in casa.
+  pron.it: … sciu*vér* …
+- Mesmo que chova a noite toda?
+  it: Anche se piove tutta la notte?
+  pron.it: … *sció*va …
+- Mesmo que chova. Por mais que chova, a francesinha está sempre quente.
+  it: Anche se piove. Per quanto piova, la francesinha è sempre calda.
+  pron.it: … *cheⁿ*të
+- E se ficarmos doentes?
+  it: E se ci ammaliamo?
+  pron.it: … fi*car*mush du*eⁿ*tësh
+- Vale a pena.
+  it: Ne vale la pena.
+  pron.it: *va*lë …
+- Já chove há uma semana.
+  it: Piove da una settimana.
+  pron.it: … *sciò*vë …
+- Pois. Mas o Porto é assim mesmo.
+  it: Già. Ma Porto è proprio così.
+- Gostas mesmo do Porto.
+  it: Ti piace davvero Porto.
+- Gosto. Apesar de tudo.
+  it: Mi piace. Nonostante tutto.
+- De tudo o quê?
+  it: Di tutto che cosa?
+- Apesar de ser do Benfica.
+  it: Nonostante io sia del Benfica.
+
+notes.it:
+1. Apesar da chuva: apesar de con un nome vuol dire "nonostante"; apesar de con l'infinito, come apesar de ser, ha lo stesso senso: "nonostante sia".
+2. Embora esteja a chover: embora vuole il congiuntivo (esteja). In italiano diciamo spesso "anche se piove" con l'indicativo, ma in portoghese il congiuntivo è obbligatorio. Embora è già nella lezione 67 (embora tenha ração).
+3. Mesmo que chova: mesmo que vuol dire "anche se", con il congiuntivo, e mesmo da solo vuol dire "proprio" o "anche".
+4. Por mais que chova: per quanto con il congiuntivo, come "per quanto piova" in italiano. Por mais que digas vale allo stesso modo.
+5. Se ficarmos doentes: se con il futuro del congiuntivo (ficarmos), come in "se quisermos" della lezione 46. Ficar doente vuol dire "ammalarsi"; ficar con un aggettivo vuol dire "diventare" o "restare".
+6. Vale a pena: valer a pena è "valere la pena", con lo stesso senso dell'italiano.
+7. Já chove há uma semana: já con il presente e há più il tempo vuol dire "da una settimana", cioè la pioggia continua.
+8. Apesar de tudo: "nonostante tutto". La battuta sta nel fatto che la risposta riprende le parole apesar de in modo letterale: nonostante io sia tifoso del Benfica, la squadra di Lisbona.
+
+culture.it:
+La Ribeira è la zona vecchia di Porto, sul Douro, con le case colorate lungo il fiume; il ponte Dom Luís I, a due piani, è dell'Ottocento, e dall'altra parte del fiume c'è Vila Nova de Gaia, con le cantine del vino di Porto. La francesinha è il panino di Porto con carne, formaggio e una salsa calda. Da dire: Vamos ao Porto? (Andiamo a Porto?).
+
+ex1:
+- Apesar da chuva, vou sair.
+  it: Nonostante la pioggia, esco.
+- Embora esteja cansado, vou trabalhar.
+  it: Anche se sono stanco, vado al lavoro.
+- Por mais que chova, não vou.
+  it: Per quanto piova, non vado.
+- Mesmo que chova, vale a pena ir.
+  it: Anche se piove, vale la pena andarci.
+- Apesar de ser tarde, ainda vou.
+  it: Nonostante sia tardi, ci vado comunque.
+
+ex2:
+- [Apesar] da chuva, vamos à Ribeira.
+  it: Nonostante la pioggia, andiamo alla Ribeira.
+- Embora [esteja] a chover, vamos.
+  it: Anche se piove, andiamo.
+- Por [mais] que chova, a francesinha está quente.
+  it: Per quanto piova, la francesinha è calda.
+- Mesmo que [chova] a noite toda, vamos.
+  it: Anche se piove tutta la notte, andiamo.
+- Gosto do Porto, [apesar] de tudo.
+  it: Mi piace Porto, nonostante tutto.
+
+== 77 B2
+kind: revision
+numeral: Septuagésima sétima lição
+numeral.pron.it: sëptua*jè*zima *sè*tima li*sauⁿ*
+title: Revisão
+title.it: Ripasso
+
+dialogue:
+- Desculpe, o avião para a Madeira já saiu?
+  it: Scusi, l'aereo per la Madeira è già partito?
+  refs: 4 74
+- Não saiu. Por causa do vento, só vai amanhã.
+  it: Non è partito. Per via del vento, parte solo domani.
+  refs: 74
+- Que pena. Se tivesse sabido, tinha ficado em casa.
+  it: Peccato. Se l'avessi saputo, sarei rimasta a casa.
+  refs: 74
+- Eu também. Se tivesse visto as notícias, não tinha vindo tão cedo.
+  it: Anch'io. Se avessi visto il notiziario, non sarei venuto così presto.
+  refs: 68 74
+- No balcão disseram-me que amanhã vai estar bom.
+  it: Al banco mi hanno detto che domani sarà bel tempo.
+  refs: 58 71 74
+- Pois. E mesmo que esteja mau, o avião vai.
+  it: Già. E anche se è brutto, l'aereo parte.
+  refs: 76
+- Como é que o senhor sabe?
+  it: Come fa a saperlo?
+  refs: 34 50
+- Porque sou eu que o levo.
+  it: Perché sono io a portarlo (sono io il pilota).
+  refs: 74
+
+notes.it:
+Hai fatto le sei lezioni dalla 71 alla 76. Non serve impararle a memoria: rileggi i dialoghi, e i dubbi sono normali. Qui trovi in ordine quello che quelle lezioni hanno portato.
+
+1. Il congiuntivo imperfetto (lezione 73): si forma dalla terza persona plurale del pretérito perfeito, togliendo -ram e mettendo -sse.
+
+| Perfeito | Congiuntivo imperfetto | Esempio | Italiano |
+|---|---|---|---|
+| ganharam | ganhasse | Se eu ganhasse o Euromilhões (lezione 73) | se vincessi |
+| foram | fosse | Se eu fosse a ti (lezione 73) | se fossi in te |
+
+Dopo se, nella frase principale il parlato usa l'imperfetto: comprava (lezione 73) vale "comprerei", e lo scritto usa il condizionale, compraria.
+
+2. Il trapassato congiuntivo e il passato irreale (lezione 74): si forma con ter all'imperfetto congiuntivo più il participio.
+
+| Forma | Esempio | Italiano |
+|---|---|---|
+| se tivéssemos saído | Se tivéssemos saído mais cedo (lezione 74) | se fossimo usciti prima |
+| se tivesses ido | Se não tivesses ido buscar o casaco (lezione 74) | se non fossi andata a prendere la giacca |
+| tínhamos perdido | não tínhamos perdido o avião (lezione 74) | non avremmo perso l'aereo |
+
+Nella frase principale il parlato usa spesso l'indicativo, tínhamos perdido, dove lo scritto ha teríamos perdido.
+
+3. Le concessive: apesar de, embora, mesmo que, por mais que (lezione 76)
+
+| Forma | Esempio | Italiano |
+|---|---|---|
+| apesar da + nome | Apesar da chuva, vamos à Ribeira. (lezione 76) | nonostante la pioggia |
+| embora + congiuntivo | Embora esteja a chover, não gosto de ficar em casa. (lezione 76) | anche se piove |
+| mesmo que + congiuntivo | Mesmo que chova a noite toda? (lezione 76) | anche se piove tutta la notte |
+| por mais que + congiuntivo | Por mais que chova, a francesinha está sempre quente. (lezione 76) | per quanto piova |
+
+Embora vuole il congiuntivo già dalla lezione 67 (embora tenha ração). In italiano l'indicativo è spesso possibile, in portoghese no.
+
+4. Le relative con preposizione: de que, com quem, ao qual (lezione 75)
+
+| Forma | Esempio | Italiano |
+|---|---|---|
+| de que | Este é o restaurante de que te falei (lezione 75) | il ristorante di cui ti ho parlato |
+| com quem | o senhor com quem falei ao telefone (lezione 75) | il signore con cui ho parlato al telefono |
+| ao qual | E este queijo, ao qual não resisti? (lezione 75) | e questo formaggio, al quale non ho resistito? |
+
+Il pronome relativo segue la preposizione: falar de, falar com, resistir a. Qual si accorda con il nome a cui si riferisce, come in ao qual per queijo.
+
+5. Il discorso indiretto: i tempi (lezione 71)
+
+| Diretto | Indiretto | Esempio | Italiano |
+|---|---|---|---|
+| tenho de andar | tinha de andar | O médico disse que eu tinha de andar mais (lezione 71) | dovevo camminare di più |
+| não posso comer doces | não podia comer | Disse que não podia comer doces (lezione 71) | non potevo mangiare dolci |
+| deixei de fumar | tinha deixado de fumar | Disse-lhe que tinha deixado de fumar (lezione 71) | avevo smesso di fumare |
+
+Come in italiano, i tempi si spostano indietro: il presente diventa imperfetto. Perguntar se (lezione 71) introduce la domanda riportata: perguntou se fumavas, "ti ha chiesto se fumavi".
+
+6. Le parole del parlato (lezione 72): la lista di quelle già incontrate, in registro informale, tra amici.
+
+| Parola | Italiano | Esempio |
+|---|---|---|
+| então | allora, e allora? | Então, pá? (lezione 72) |
+| pois | già, sì | Pois... mais ou menos. (lezione 72) |
+| pronto | vabbè, ecco | Bem, pronto. (lezione 72) |
+| olha | senti | Olha, perdi o emprego. (lezione 72) |
+| já agora | già che ci siamo | Já agora, pagas tu os copos? (lezione 72) |
+| a sério | davvero | A sério? (lezione 72) |
+| fixe | a posto, bello | Tudo fixe. (lezione 72) |
+
+
+Chiudiamo il ripasso: la prossima lezione è la 78, con mandar, deixar e fazer seguiti dall'infinito.

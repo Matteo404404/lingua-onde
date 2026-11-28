@@ -348,7 +348,7 @@ ex2:
 
 == 80 B2
 numeral: Octogésima lição
-numeral.pron.it: utu*jè*zima li*sauⁿ*
+numeral.pron.it: òtu*jè*zima li*sauⁿ*
 title: O fado
 title.it: Il fado
 
@@ -427,7 +427,7 @@ ex2:
 
 == 81 B2
 numeral: Octogésima primeira lição
-numeral.pron.it: utu*jè*zima pri*mèi*ra li*sauⁿ*
+numeral.pron.it: òtu*jè*zima pri*mèi*ra li*sauⁿ*
 title: Diz-se que...
 title.it: Si dice che...
 
@@ -460,6 +460,7 @@ dialogue:
   it: Nessuno vuole andarci.
 - Porque ninguém fala com ele, não é?
   it: Perché nessuno gli parla, no?
+  pron.it: … *fa*la …
 - Então, como é que se sabe tudo?
   it: Allora come si fa a sapere tutto?
 - Sabe-se também que ele percebe português. Bom dia.
@@ -500,7 +501,7 @@ ex2:
 
 == 82 B2
 numeral: Octogésima segunda lição
-numeral.pron.it: utu*jè*zima së*guⁿ*da li*sauⁿ*
+numeral.pron.it: òtu*jè*zima së*guⁿ*da li*sauⁿ*
 title: Parece que funciona
 title.it: Sembra che funzioni
 
@@ -579,7 +580,7 @@ ex2:
 
 == 83 B2
 numeral: Octogésima terceira lição
-numeral.pron.it: utu*jè*zima tër*sèi*ra li*sauⁿ*
+numeral.pron.it: òtu*jè*zima tër*sèi*ra li*sauⁿ*
 title: O 25 de Abril
 title.it: Il 25 aprile
 
@@ -658,7 +659,7 @@ ex2:
 == 84 B2
 kind: revision
 numeral: Octogésima quarta lição
-numeral.pron.it: utu*jè*zima *cuar*ta li*sauⁿ*
+numeral.pron.it: òtu*jè*zima *cuar*ta li*sauⁿ*
 title: Revisão
 title.it: Ripasso
 
@@ -762,3 +763,581 @@ Nelle lettere formali si scrive Exmo. Senhor (Excelentíssimo Senhor), e si chiu
 
 
 Chiudiamo il ripasso: la prossima lezione è la 85.
+
+== 85 B2
+numeral: Octogésima quinta lição
+numeral.pron.it: òtu*jè*zima *chiⁿ*ta li*sauⁿ*
+title: Lembras-te?
+title.it: Ti ricordi?
+
+dialogue:
+- Lembras-te de quando nos conhecemos?
+  it: Ti ricordi di quando ci siamo conosciuti?
+  pron.it: *leⁿ*brash-të … cu'gn*sé*mush
+- Lembro-me. Estava a chover.
+  it: Mi ricordo. Stava piovendo.
+  pron.it: *leⁿ*bru-më …
+- Estava sol.
+  it: C'era il sole.
+- Estava a chover, e tu esqueceste-te do guarda-chuva.
+  it: Stava piovendo, e tu hai dimenticato l'ombrello.
+  pron.it: … 'shchë*sésh*të-të …
+- Fui eu que me esqueci? Tu é que te esqueceste!
+  it: Sono stato io a dimenticarmi? Sei stata tu a dimenticarti!
+  pron.it: … 'shchë*si* …
+- Estás a gritar.
+  it: Stai urlando.
+- Pronto, não te zangues.
+  it: Va bene, non ti arrabbiare.
+  pron.it: … *zaⁿ*guësh
+- Não me zango. Só me queixo.
+  it: Non mi arrabbio. Mi lamento e basta.
+  pron.it: … *zaⁿ*gu … *chèi*sciu
+- Queixas-te há cinquenta anos.
+  it: Ti lamenti da cinquant'anni.
+  pron.it: *chèi*sciash-të … siⁿ*cueⁿ*ta …
+- Os pombos sujam o banco.
+  it: I piccioni sporcano la panchina.
+  pron.it: … *poⁿ*bush *su*jauⁿ … *baⁿ*cu
+- Então senta-te na sombra.
+  it: Allora siediti all'ombra.
+  pron.it: … *seⁿ*ta-të … *soⁿ*bra
+- Na sombra o banco é húmido.
+  it: All'ombra la panchina è umida.
+  pron.it: … *u*midu
+- Então queixa-te do banco.
+  it: Allora lamentati della panchina.
+- E tu habituaste-te.
+  it: E tu ti sei abituato.
+  pron.it: … abitu*ash*të-të
+- Habituei-me. Até gosto.
+  it: Mi sono abituato. Anzi, mi piace.
+  pron.it: abitu*èi*-më …
+
+notes.it:
+1. Lembras-te de quando nos conhecemos: lembrar-se de vuol dire "ricordarsi di". Il pronome -te sta dopo il verbo perché la frase è affermativa. Nos conhecemos, dopo quando, è il "ci conosciamo" reciproco: il pronome va prima del verbo.
+2. Estava a chover: estar a più infinito, "stava piovendo", come in "Estás a trabalhar?" della lezione 9.
+3. Esqueceste-te do guarda-chuva: esquecer-se de vuol dire "dimenticarsi di"; do è de più o: di + il, cioè "dell'ombrello".
+4. Fui eu que me esqueci? Tu é que te esqueceste!: é que mette in rilievo chi ha fatto l'azione: "sei tu che ti sei dimenticato". Dopo que il pronome va prima del verbo: que me esqueci, que te esqueceste.
+5. Pronto, não te zangues: zangar-se com vuol dire "arrabbiarsi con". Dopo não il pronome va prima del verbo: não te zangues, não me zango. Pronto è il "vabbè" della lezione 72.
+6. Queixas-te há cinquenta anos: con il presente, há indica una cosa che dura da tanto tempo, "da cinquant'anni"; lo hai già visto nella lezione 38 (Há quanto tempo?).
+7. Habituei-me. Até gosto.: habituar-se a vuol dire "abituarsi a", come nella lezione 62. Até qui non è "fino a": vuol dire "perfino", e l'italiano lo rende con "anzi".
+
+culture.it:
+Nel Jardim da Estrela, a Lisbona, c'è un coreto, il piccolo padiglione per la musica all'aperto. La sueca è il gioco di carte portoghese, in coppia, a quattro giocatori. Da dire: Vamos jogar uma sueca? (Facciamo una partita a sueca?)
+
+ex1:
+- Não me zango.
+  it: Non mi arrabbio.
+- Lembro-me do guarda-chuva.
+  it: Mi ricordo dell'ombrello.
+- Ela queixa-se há muitos anos.
+  it: Lei si lamenta da molti anni.
+- Esqueceste-te do dinheiro?
+  it: Ti sei dimenticato dei soldi?
+- Os vizinhos estão a habituar-se ao barulho.
+  it: I vicini si stanno abituando al rumore.
+
+ex2:
+- [Lembras]-te de mim?
+  it: Ti ricordi di me?
+- Ele [queixa]-se do frio.
+  it: Lui si lamenta del freddo.
+- Eu [habituei]-me ao frio.
+  it: Mi sono abituato al freddo.
+- Não te [zangues] comigo.
+  it: Non ti arrabbiare con me.
+- Eu [esqueci]-me do guarda-chuva.
+  it: Mi sono dimenticato dell'ombrello.
+
+== 86 B2
+numeral: Octogésima sexta lição
+numeral.pron.it: òtu*jè*zima *sèish*ta li*sauⁿ*
+title: Pediu-me que estacionasse
+title.it: Mi ha chiesto di parcheggiare
+
+dialogue:
+- Então, como correu o exame de condução?
+  it: Allora, com'è andato l'esame di guida?
+  pron.it: … cu*rréu* … i*za*më … coⁿdu*sauⁿ*
+- O examinador perguntou-me se eu já tinha conduzido em Lisboa.
+  it: L'esaminatore mi ha chiesto se avevo già guidato a Lisbona.
+  pron.it: … izamina*dór* … coⁿdu*zi*du …
+- E tu? O que é que respondeste?
+  it: E tu? Che cosa hai risposto?
+  pron.it: … rrëshpoⁿ*désh*të
+- Respondi que sim, claro.
+  it: Ho risposto di sì, certo.
+  pron.it: rrëshpoⁿ*di* …
+- E então?
+  it: E allora?
+- Pediu-me que estacionasse na Graça.
+  it: Mi ha chiesto di parcheggiare alla Graça.
+  pron.it: pë*di*u-më … 'shtasiu*na*së …
+- Na Graça?! Num sábado?
+  it: Alla Graça?! Di sabato?
+- E depois disse-me para virar à esquerda numa rua de sentido único.
+  it: Poi mi ha detto di girare a sinistra in una via a senso unico.
+  pron.it: … vi*rar* … 'sh*chér*da … seⁿ*ti*du *u*nicu
+- E viraste?
+  it: E hai girato?
+  pron.it: … vi*rash*të
+- Virei. Ele mandou-me parar.
+  it: Ho girato. Mi ha fatto fermare.
+  pron.it: vi*rèi* … maⁿ*dó*-më pa*rar*
+- E passaste?
+  it: E hai superato l'esame?
+  pron.it: … pa*sash*të
+- Passei.
+  it: Sì, l'ho superato.
+  pron.it: pa*sèi*
+- E ele, o que disse?
+  it: E lui, che cosa ha detto?
+- Disse que quem estaciona na Graça merece a carta.
+  it: Ha detto che chi parcheggia alla Graça si merita la patente.
+  pron.it: … 'shtasi*ó*na … më*rè*së … *car*ta
+
+notes.it:
+1. Como correu o exame de condução: correr vuol dire "andare", detto di un fatto ("com'è andato"). Exame de condução è l'esame di guida.
+2. Perguntou-me se eu já tinha conduzido: perguntar se vuol dire "chiedere se". Il verbo del discorso riportato torna indietro, come nella lezione 71: la domanda já conduziu? diventa se eu já tinha conduzido, "se avevo già guidato".
+3. Respondi que sim, claro: responder que sim vuol dire "rispondere di sì"; claro è il "certo" dell'italiano.
+4. Pediu-me que estacionasse: pedir que più il congiuntivo imperfetto vuol dire "chiedere di", e qui è "mi ha chiesto di parcheggiare". Estacionasse si forma come ganhasse nella lezione 73.
+5. Disse-me para virar à esquerda: dizer-me para più infinito è più parlato e vuol dire "mi ha detto di girare". Virar è "girare", "svoltare".
+6. Ele mandou-me parar: mandar più infinito vuol dire "far fare", come mandei arranjar nella lezione 78: "mi ha fatto fermare".
+7. Passei... merece a carta: passar vuol dire "superare" un esame. Carta de condução è la patente, e nel parlato basta a carta: tirar a carta, "prendere la patente". Carta è anche la lettera. Merecer è "meritare".
+
+ex1:
+- Ele pediu-me que estacionasse aqui.
+  it: Lui mi ha chiesto di parcheggiare qui.
+- Disse-me para parar.
+  it: Mi ha detto di fermarmi.
+- Eu já tinha conduzido em Lisboa.
+  it: Avevo già guidato a Lisbona.
+- Passei no exame.
+  it: Ho superato l'esame.
+- Eu respondi que sim.
+  it: Ho risposto di sì.
+
+ex2:
+- O examinador [perguntou]-me se eu já tinha conduzido.
+  it: L'esaminatore mi ha chiesto se avevo già guidato.
+- Ele mandou-me [parar].
+  it: Mi ha fatto fermare.
+- Pediu-me que [estacionasse] na Graça.
+  it: Mi ha chiesto di parcheggiare alla Graça.
+- Disse-me para [virar] à esquerda.
+  it: Mi ha detto di girare a sinistra.
+- Eu [passei] no exame.
+  it: Ho superato l'esame.
+
+== 87 B2
+numeral: Octogésima sétima lição
+numeral.pron.it: òtu*jè*zima *sè*tima li*sauⁿ*
+title: Era suposto
+title.it: Doveva essere così
+
+dialogue:
+- Era suposto o Rui trazer o pão.
+  it: Il pane doveva portarlo Rui.
+  pron.it: … su*pósh*tu … rrui tra*zér* …
+- E o Rui?
+  it: E Rui?
+- Ficou de vir às duas.
+  it: Si era impegnato a venire alle due.
+- Já são quatro.
+  it: Sono già le quattro.
+- Estava para sair de casa quando a mãe lhe ligou.
+  it: Stava per uscire quando la madre gli ha telefonato.
+  pron.it: … li*gó*
+- E a Inês?
+  it: E Inês?
+  pron.it: … i*nésh*
+- Ficou de trazer o carvão.
+  it: Si era impegnata a portare il carbone.
+  pron.it: … car*vauⁿ*
+- E já chegou?
+  it: Ed è già arrivata?
+- Ainda não. Era suposto.
+  it: Non ancora. Doveva arrivare.
+- E tu? O que é que ficaste de trazer?
+  it: E tu? Che cosa ti eri impegnato a portare?
+- O grelhador.
+  it: La griglia.
+- E trouxeste?
+  it: E l'hai portata?
+  pron.it: … tro*sèsh*të
+- Trouxe. Mas sem pão e sem carvão, é um enfeite.
+  it: L'ho portata. Ma senza pane e senza carbone è solo una decorazione.
+  pron.it: … eⁿ*fèi*të
+
+notes.it:
+1. Era suposto o Rui trazer o pão: era suposto più infinito vuol dire "doveva", "era previsto che", con il soggetto tra suposto e l'infinito (o Rui trazer). Attenzione: suposto qui è "previsto", non "supposto" nel senso di ipotizzato.
+2. Ficou de vir às duas: ficar de più infinito vuol dire "impegnarsi a". Ficar, nella lezione 48, voleva dire "restare"; qui, con de, vuol dire "impegnarsi a".
+3. Já são quatro: l'ora si dice con são, come nella lezione 13 (São oito e meia).
+4. Estava para sair de casa: estar para più infinito vuol dire "stare per". Lo hai già visto con estar a nella lezione 9: qui la forma è con para.
+5. A mãe lhe ligou: ligar a qualcuno vuol dire "telefonare a qualcuno". Lhe vale "gli" o "le", come nella lezione 26 (Vou dizer-lhe amanhã).
+6. Ficou de trazer o carvão: lo stesso ficar de, con un'altra persona: Inês è il soggetto sottinteso.
+7. E tu? O que é que ficaste de trazer?: la domanda ha il tu e il perfetto ficaste: "che cosa ti eri impegnato a portare?", con é que, come in Tu é que ficaste a ver o jogo (lezione 74).
+8. Trouxe. Mas sem pão e sem carvão, é um enfeite: trazer vuol dire "portare", e trouxe si riferisce a o grelhador. La battuta sta in enfeite, che è un ornamento: senza pane e carbone la griglia serve solo a decorare.
+
+culture.it:
+Monsanto è un grande parco forestale nella parte occidentale di Lisbona, dentro i confini della città. Da dire: Vamos ao piquenique a Monsanto? (Andiamo al picnic a Monsanto?)
+
+ex1:
+- Era suposto estar aqui às duas.
+  it: Doveva essere qui alle due.
+- Ela ficou de trazer o pão.
+  it: Lei si è impegnata a portare il pane.
+- Eu estava para sair.
+  it: Stavo per uscire.
+- Já são cinco.
+  it: Sono già le cinque.
+- O carvão é para o grelhador.
+  it: Il carbone è per la griglia.
+
+ex2:
+- Era suposto o Rui [trazer] o pão.
+  it: Il pane doveva portarlo Rui.
+- [Ficou] de vir às duas.
+  it: Si era impegnato a venire alle due.
+- Estava [para] sair de casa.
+  it: Stava per uscire di casa.
+- A mãe [lhe] ligou.
+  it: La madre gli ha telefonato.
+- Isso [era] suposto.
+  it: Doveva essere così.
+
+== 88 B2
+numeral: Octogésima oitava lição
+numeral.pron.it: òtu*jè*zima oi*ta*va li*sauⁿ*
+title: Fernando Pessoa
+title.it: Fernando Pessoa
+
+dialogue:
+- Fernando Pessoa nasceu em Lisboa em 1888.
+  it: Fernando Pessoa è nato a Lisbona nel 1888.
+  pron.it: fër*naⁿ*du …
+- Em 1905 voltou a Lisboa, depois de anos fora.
+  it: Nel 1905 tornò a Lisbona, dopo anni all'estero.
+  pron.it: … vul*tó* …
+- Para viver, escrevia cartas para empresas.
+  it: Per vivere scriveva lettere per delle ditte.
+  pron.it: … vi*vér* … eⁿ*pré*zash
+- Escreveu também com outros nomes, os heterónimos.
+  it: Scrisse anche con altri nomi, gli eteronimi.
+  pron.it: 'shcrë*véu* … *ó*trush *nó*mësh … zi't*rò*nimush
+- Cada um tinha a sua vida e o seu estilo.
+  it: Ognuno aveva una vita e uno stile propri.
+  pron.it: … 'sh*ti*lu
+- Um dos seus livros é o Livro do Desassossego.
+  it: Uno dei suoi libri è il Libro dell'inquietudine.
+  pron.it: … séush *li*vruz … dëzasu*sè*gu
+- Em vida, publicou um só livro de poemas em português, em 1934.
+  it: In vita pubblicò un solo libro di poesie in portoghese, nel 1934.
+  pron.it: … publi*có* … pu*é*maz …
+- Quando morreu, em 1935, encontraram um baú com os papéis que escrevera.
+  it: Quando morì, nel 1935, trovarono un baule con le carte che aveva scritto.
+  pron.it: … mu*rréu* … eⁿcoⁿ*tra*rauⁿ … ba*u* … pa*pèish* … 'shcrë*vé*ra
+- Hoje, uma estátua dele está sentada à porta de um café do Chiado.
+  it: Oggi una sua statua è seduta davanti a un caffè del Chiado.
+  pron.it: … 'sh*ta*tua … seⁿ*ta*da … sci*a*du
+- Num dos seus poemas mais famosos, Autopsicografia, escreveu:
+  it: In una delle sue poesie più famose, Autopsicografia, scrisse:
+  pron.it: … fa*mó*zush autupsicugra*fi*a …
+- «O poeta é um fingidor.»
+  it: «Il poeta è un fingitore.»
+  pron.it: … pu*è*ta … fiⁿji*dór*
+
+notes.it:
+1. Nasceu, voltou, publicou, morreu: il pretérito perfeito racconta fatti conclusi, e in italiano si traduce con il passato remoto o con il passato prossimo.
+2. Para viver, escrevia cartas para empresas: para più infinito vuol dire "per vivere"; escrevia è l'imperfetto dell'abitudine, come usavam nella lezione 80. Empresas sono le ditte.
+3. Os heterónimos: sono nomi inventati con cui uno stesso autore firma opere diverse, ciascuna con una sua vita e un suo stile.
+4. A sua vida, o seu estilo: il possessivo concorda con la cosa posseduta, non con chi la possiede: a sua è femminile perché vida è femminile, o seu è maschile.
+5. Um dos seus livros é o Livro do Desassossego: il titolo italiano è "Libro dell'inquietudine". Um dos più il plurale vuol dire "uno dei ...".
+6. Em vida, publicou um só livro: em vida vuol dire "in vita", e só è "solo", come nella lezione 85 (Só me queixo).
+7. Escrevera: è il mais-que-perfeito simples di escrever, "aveva scritto". Nel parlato si dice tinha escrito, e la forma semplice si usa quasi solo nello scritto.
+8. O poeta é um fingidor: fingidor è chi finge, il simulatore. È la prima riga della poesia Autopsicografia, e la citiamo come la scrisse l'autore.
+
+ex1:
+- Ele escreveu poemas.
+  it: Lui ha scritto poesie.
+- Os papéis estavam num baú.
+  it: Le carte erano in un baule.
+- A estátua está no Chiado.
+  it: La statua è al Chiado.
+- Ele voltou a Lisboa em 1905.
+  it: Lui tornò a Lisbona nel 1905.
+- Cada um tinha o seu estilo.
+  it: Ognuno aveva il suo stile.
+
+ex2:
+- Fernando Pessoa [nasceu] em Lisboa.
+  it: Fernando Pessoa è nato a Lisbona.
+- Em vida, publicou um só [livro] de poemas.
+  it: In vita pubblicò un solo libro di poesie.
+- O poeta é um [fingidor].
+  it: Il poeta è un fingitore.
+- Encontraram os papéis que [escrevera].
+  it: Trovarono le carte che aveva scritto.
+- Ele [escrevia] cartas para empresas.
+  it: Lui scriveva lettere per delle ditte.
+
+== 89 B2
+numeral: Octogésima nona lição
+numeral.pron.it: òtu*jè*zima *nó*na li*sauⁿ*
+title: O livro de reclamações
+title.it: Il libro dei reclami
+
+dialogue:
+- Escreve: "Exmos. Senhores".
+  it: Scrivi: «Egregi Signori».
+  pron.it: 'sh*crè*vë *ésh*mush së*gnó*rësh
+- Pronto. E agora?
+  it: Va bene. E adesso?
+- Isto é uma vergonha!
+  it: Questa è una vergogna!
+  pron.it: *ish*tu … vër*gó*gna
+- Pai, não se escreve assim.
+  it: Papà, non si scrive così.
+- Então como é que se escreve?
+  it: E allora come si scrive?
+- "Venho por este meio manifestar o meu descontentamento."
+  it: «Con la presente esprimo il mio malcontento.»
+  pron.it: … manifësh*tar* … dëshcoⁿteⁿta*meⁿ*tu
+- Descontentamento? Eu estou furioso!
+  it: Malcontento? Io sono furioso!
+  pron.it: … furi*ó*zu
+- Por isso mesmo. Descontentamento é a palavra de quem se queixa com educação.
+  it: Proprio per questo. «Malcontento» è la parola di chi si lamenta con garbo.
+  pron.it: … iduca*sauⁿ*
+- Quero o meu dinheiro de volta.
+  it: Voglio i miei soldi indietro.
+- "Solicito a devolução do valor pago."
+  it: «Chiedo la restituzione dell'importo pagato.»
+  pron.it: suli*si*tu … dëvulu*sauⁿ* … va*lór* …
+- Pagámos por um peixe que sabia a sabão.
+  it: Abbiamo pagato un pesce che sapeva di sapone.
+  pron.it: pa*ga*mush … *pèi*scë … sa*bi*a … sa*bauⁿ*
+- "Com os melhores cumprimentos."
+  it: «Con i migliori saluti.»
+  pron.it: … cuⁿpri*meⁿ*tush
+- Muito bem. Envia já.
+  it: Molto bene. Invia subito.
+  pron.it: … eⁿ*vi*a …
+- Enviado. Chegou a resposta.
+  it: Inviata. È arrivata la risposta.
+  pron.it: eⁿvi*a*du …
+- E então?
+  it: E allora?
+- "Para compensar, temos o prazer de lhe oferecer um jantar."
+  it: «Per compensare, abbiamo il piacere di offrirle una cena.»
+  pron.it: … coⁿpeⁿ*sar* … u'frë*sér* …
+- Um jantar? Onde?
+  it: Una cena? Dove?
+- No nosso restaurante.
+  it: Nel nostro ristorante.
+
+notes.it:
+1. Exmos. Senhores: è l'inizio di una lettera formale, con Exmo. (Excelentíssimo) per l'uomo, Exma. per la donna e Exmos. al plurale. Alla fine si scrive Com os melhores cumprimentos.
+2. Pronto: il "va bene" della lezione 72, qui per chiudere e passare alla frase dopo.
+3. Pai, não se escreve assim: il se impersonale vuol dire "si" senza soggetto preciso, come diz-se nella lezione 81: non si scrive, si scrive.
+4. Venho por este meio manifestar: è la formula "con la presente", da "vengo per questo mezzo". Manifestar vuol dire "esprimere", "far sapere".
+5. Descontentamento è il "malcontento" dell'italiano scritto; quem se queixa com educação è chi protesta con garbo.
+6. Solicito a devolução do valor pago: solicitar vuol dire "chiedere formalmente"; devolução è la "restituzione"; valor qui è l'importo pagato, non il "valore" dell'italiano.
+7. Temos o prazer de lhe oferecer um jantar: temos o prazer de più infinito vuol dire "abbiamo il piacere di". Lhe, con oferecer, è "a Lei", la forma di cortesia.
+8. Nelle lettere formali il pronome può stare dentro il futuro e il condizionale, come agradecer-lhe-ia ("Le sarei grato"): si trova solo per scritto. Nel parlato si dice agradecia-lhe.
+
+aside.it:
+Lezione lunga, oggi: domani una più leggera.
+
+culture.it:
+In Portogallo ogni negozio e ristorante deve avere il livro de reclamações, il libro dei reclami, e consegnarlo a chi lo chiede: oggi esiste anche in versione online. Da dire: Quero o livro de reclamações! (Voglio il libro dei reclami!)
+
+ex1:
+- Quero o meu dinheiro.
+  it: Voglio i miei soldi.
+- Pagámos por um peixe caro.
+  it: Abbiamo pagato un pesce caro.
+- Venho por este meio.
+  it: Con la presente.
+- Solicito a devolução do valor.
+  it: Chiedo la restituzione dell'importo.
+- Não se escreve assim.
+  it: Non si scrive così.
+
+ex2:
+- Venho por este [meio] manifestar o meu descontentamento.
+  it: Con la presente esprimo il mio malcontento.
+- Eu [solicito] a devolução do valor pago.
+  it: Chiedo la restituzione dell'importo pagato.
+- Temos o [prazer] de lhe oferecer um jantar.
+  it: Abbiamo il piacere di offrirle una cena.
+- Isto é uma [vergonha]!
+  it: Questa è una vergogna!
+- Pagámos por um peixe que [sabia] a sabão.
+  it: Abbiamo pagato un pesce che sapeva di sapone.
+
+== 90 B2
+numeral: Nonagésima lição
+numeral.pron.it: nuna*jè*zima li*sauⁿ*
+title: Boa sorte!
+title.it: In bocca al lupo!
+
+dialogue:
+- Boa sorte!
+  it: In bocca al lupo!
+- Obrigado.
+  it: Grazie.
+- Força! Vai correr tudo bem. Estou a fazer figas.
+  it: Coraggio! Andrà tutto bene. Sto incrociando le dita.
+  pron.it: *fór*sa … cu*rrér* … *fi*gash
+- É canja.
+  it: È una passeggiata.
+  pron.it: … *caⁿ*ja
+- Então porque estás tão nervoso?
+  it: Allora perché sei così nervoso?
+  pron.it: … nër*vó*zu
+- Porque é a sétima vez.
+  it: Perché è la settima volta.
+  pron.it: … *sè*tima …
+
+notes.it:
+1. Boa sorte: "buona fortuna". In italiano diciamo "in bocca al lupo", e chi lo sente risponde "crepi".
+2. Obrigado: il "grazie" di chi parla è maschile. Una donna dice obrigada, come nella lezione 3 (Tudo bem, obrigada.).
+3. Força! Vai correr tudo bem: força è "coraggio". Correr vuol dire "andare", detto di una cosa che succede, come nella lezione 86. Vai correr è il futuro con ir, come vais fazer nella lezione 26.
+4. Estou a fazer figas: fazer figas vuol dire "incrociare le dita". Il gesto è un pugno con il pollice tra l'indice e il medio.
+5. É canja: canja è il brodo di pollo. Detto di un compito, vuol dire che è una cosa facile: "è una passeggiata".
+6. Então porque estás tão nervoso?: tão più aggettivo vuol dire "così"; estás è estar, perché è come si sta in questo momento.
+7. Porque é a sétima vez: sétima è il numero ordinale, "settima", e vez è "volta", come in uma vez, duas vezes.
+
+ex1:
+- Boa sorte para o exame!
+  it: In bocca al lupo per l'esame!
+- Estou a fazer figas.
+  it: Sto incrociando le dita.
+- Vai correr tudo bem hoje.
+  it: Oggi andrà tutto bene.
+- É canja para ela.
+  it: Per lei è una passeggiata.
+- Estás tão nervoso hoje.
+  it: Oggi sei così nervoso.
+
+ex2:
+- Boa [sorte]!
+  it: In bocca al lupo!
+- Vai [correr] tudo bem.
+  it: Andrà tutto bene.
+- Porque é a [sétima] vez.
+  it: Perché è la settima volta.
+- Então porque estás tão [nervoso]?
+  it: Allora perché sei così nervoso?
+- [É] canja.
+  it: È una passeggiata.
+
+== 91 B2
+kind: revision
+numeral: Nonagésima primeira lição
+numeral.pron.it: nuna*jè*zima pri*mèi*ra li*sauⁿ*
+title: Revisão
+title.it: Ripasso
+
+dialogue:
+- Desculpe, também está a escrever sobre o problema da rua?
+  it: Scusi, anche lei sta scrivendo del problema della strada?
+  refs: 3 89
+- Estou. Há duas semanas que a rua está assim.
+  it: Sì. È da due settimane che la strada è così.
+  refs: 38 85
+- Eu escrevi ontem à noite: «Venho por este meio manifestar o meu descontentamento.»
+  it: Io ho scritto ieri sera: «Con la presente esprimo il mio malcontento.»
+  refs: 89
+- Muito bem. Eu só escrevi: «Isto é uma vergonha!»
+  it: Molto bene. Io ho scritto solo: «Questa è una vergogna!»
+  refs: 89
+- Pois. Isso não se escreve assim.
+  it: Già. Questo non si scrive così.
+  refs: 81 89
+- Já não vale a pena. Olhe para a rua.
+  it: Ormai non ne vale la pena. Guardi la strada.
+  refs: 57 76
+- Então?
+  it: Allora?
+  refs: 13
+- Arranjaram-na hoje de manhã.
+  it: L'hanno sistemata stamattina.
+  refs: 78
+- Então já não mandamos as cartas?
+  it: Allora non mandiamo più le lettere?
+  refs: 57 78
+- Mandamos. Mas a minha agora começa: «Exmos. Senhores, obrigado.»
+  it: Sì, le mandiamo. Ma adesso la mia comincia: «Egregi Signori, grazie.»
+  refs: 89
+
+notes.it:
+Hai fatto le sei lezioni dalla 85 alla 90. Non serve impararle a memoria: rileggi i dialoghi, e i dubbi sono normali. Qui trovi in ordine quello che quelle lezioni hanno portato.
+
+1. Verbi con se e preposizione (lezioni 85, 62)
+
+| Verbo | Esempio | Italiano |
+|---|---|---|
+| lembrar-se de | Lembras-te de quando nos conhecemos? (lezione 85) | Ti ricordi di quando ci siamo conosciuti? |
+| esquecer-se de | Esqueceste-te do guarda-chuva (lezione 85) | hai dimenticato l'ombrello |
+| queixar-se de | Então queixa-te do banco. (lezione 85) | allora lamentati della panchina |
+| habituar-se a | Os vizinhos estão a habituar-se. (lezione 62) | i vicini si stanno abituando |
+
+Il pronome sta dopo il verbo nella frase affermativa, e prima del verbo dopo não, que, quem:
+
+| Posizione | Esempio | Italiano |
+|---|---|---|
+| dopo il verbo, frase affermativa | Lembro-me. (lezione 85) | Mi ricordo. |
+| prima del verbo, dopo não | Não me zango. (lezione 85) | Non mi arrabbio. |
+| prima del verbo, dopo que | Fui eu que me esqueci? (lezione 85) | Sono stato io a dimenticarmi? |
+
+2. Discorso riportato: domande e ordini (lezione 86)
+
+| Forma | Esempio | Italiano |
+|---|---|---|
+| perguntar se | O examinador perguntou-me se eu já tinha conduzido em Lisboa. (lezione 86) | L'esaminatore mi ha chiesto se avevo già guidato a Lisbona. |
+| pedir que + congiuntivo imperfetto | Pediu-me que estacionasse na Graça. (lezione 86) | Mi ha chiesto di parcheggiare alla Graça. |
+| dizer-me para + infinito | E depois disse-me para virar à esquerda. (lezione 86) | Poi mi ha detto di girare a sinistra. |
+
+3. Era suposto, ficar de, estar para, haver de (lezioni 87, 53)
+
+| Forma | Esempio | Italiano |
+|---|---|---|
+| era suposto + infinito | Era suposto o Rui trazer o pão. (lezione 87) | Il pane doveva portarlo Rui. |
+| ficar de + infinito | Ficou de vir às duas. (lezione 87) | Si era impegnato a venire alle due. |
+| estar para + infinito | Estava para sair de casa. (lezione 87) | Stava per uscire di casa. |
+| haver de + infinito | Para o ano hei de voltar para Portugal. (lezione 53) | L'anno prossimo tornerò in Portogallo. |
+
+4. Registro: tu, o senhor, a senhora, le lettere formali (lezioni 3, 7, 79, 89)
+
+| Forma | Con chi | Esempio | Italiano |
+|---|---|---|---|
+| tu | amici e colleghi della stessa età | Tu. Eu trato das cadeiras. (lezione 79) | tu. Io mi occupo delle sedie. |
+| o senhor | sconosciuti | Tudo bem, obrigada. E o senhor? (lezione 3) | e lei? |
+| a senhora | sconosciute, negozi, uffici | A senhora mora em Lisboa? (lezione 7) | lei abita a Lisbona? |
+| Exmos. Senhores | lettere formali | Escreve: "Exmos. Senhores". (lezione 89) | Scrivi: «Egregi Signori». |
+
+5. Mais-que-perfeito simples e mesoclisi (lezioni 88, 89)
+
+| Forma | Esempio | Italiano |
+|---|---|---|
+| mais-que-perfeito simples (= tinha escrito) | os papéis que escrevera (lezione 88) | le carte che aveva scritto |
+| mesoclisi, solo per iscritto | agradecer-lhe-ia (lezione 89, nota 8) | Le sarei grato |
+
+6. Espressioni incontrate (lista)
+
+- pelos vistos: a quanto pare (lezione 82)
+- pronto: va bene (lezione 72)
+- pois: già, sì (lezione 78)
+- parece-me que: mi sembra che (lezione 82)
+- é canja: è una passeggiata (lezione 90)
+- fazer figas: incrociare le dita (lezione 90)
+
+7. Nomi di genere diverso dall'italiano (lezioni 16, 78)
+
+- o carro (lezione 78): maschile in portoghese, la macchina è femminile in italiano.
+- o pequeno-almoço (lezione 16): maschile in portoghese, la colazione è femminile in italiano.
+
+Chiudiamo il ripasso: la prossima lezione è la 92, con parole che hanno viaggiato da una lingua all'altra.

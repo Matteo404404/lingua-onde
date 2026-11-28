@@ -159,6 +159,8 @@ impl App {
                 }
             }
             Some("settings") => app.screen = Screen::Settings,
+            // "today": what pressing Today's lesson does (on a day already done: the toast).
+            Some("today") => app.go(Screen::Study),
             Some(s) if s.starts_with("placement") => {
                 // "placement" (the start choice) or "placement:test" (its first question).
                 let lang = app.courses.get(app.active()).map(|c| c.lang.clone()).unwrap_or_default();

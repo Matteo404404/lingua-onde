@@ -591,7 +591,7 @@ pub fn offer(ui: &mut egui::Ui, lang: &str) {
     });
 }
 
-/// 🎤 Record, then ■ Stop while listening, then the sentence with the words
+/// Record, then Stop while listening, then the sentence with the words
 /// heard in green and the others in red, a score and "Try again". Returns
 /// the attempt once, in the frame it is ready. Offers the download while
 /// speech recognition is not installed; draws nothing for a language it
@@ -620,7 +620,7 @@ pub fn check_button(ui: &mut egui::Ui, lang: &str, expected: &str) -> Option<Att
             }
         }
         Some(Phase::Listening { since, max, stop }) => {
-            if ui.add(theme::secondary(tr("■ Stop"))).clicked() {
+            if theme::icon_button(ui, theme::secondary(theme::icon_room(tr("Stop"), false)), theme::Icon::Stop, theme::INK(), false).clicked() {
                 stop.store(true, Ordering::Relaxed);
             }
             let left = max.saturating_sub(since.elapsed()).as_secs() + 1;

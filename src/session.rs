@@ -14,7 +14,7 @@ use crate::model::{Item, Lesson, lang_color, lang_name};
 use crate::practice::{Practice, Verdict, compare};
 use crate::store::{Card, Grade, day_key, today};
 use crate::theme::{
-    self, ACCENT, ACCENT_SOFT, BAD, CARD, GOOD, GOOD_SOFT, HIGHLIGHT, INK, MUTED, TRACK, WARN, WARN_SOFT, bold, caps, medium,
+    self, ACCENT, ACCENT_SOFT, BAD, CARD, GOOD, GOOD_SOFT, HIGHLIGHT, INK, MUTED, WARN, WARN_SOFT, bold, caps, medium,
     muted,
 };
 
@@ -347,7 +347,7 @@ impl App {
         let msg = if s.again {
             trf("Lesson {0} done. Tomorrow you'll go over it once more — that's how it settles.", &[&lesson.number])
         } else if first {
-            trf("Lesson {0} done — well done! See you tomorrow for the next one.", &[&lesson.number])
+            trf("Lesson {0} done, well done. See you tomorrow for the next one.", &[&lesson.number])
         } else {
             trf("Lesson {0} done again. See you tomorrow for the next one.", &[&lesson.number])
         };
@@ -518,7 +518,7 @@ impl App {
     /// sentence with pauses), else how to get audio.
     pub(crate) fn listen_panel(&mut self, ui: &mut egui::Ui, tag: &str, lang: &str, items: &[Item], recording: Option<PathBuf>) {
         let voice = self.voices.ready(lang);
-        theme::tinted(ACCENT_SOFT()).corner_radius(14).show(ui, |ui| {
+        theme::tinted(ACCENT_SOFT()).show(ui, |ui| {
             ui.set_width(ui.available_width());
             let use_recording = recording.is_some() && !(self.saved.prefer_voice && voice);
             if let (true, Some(rec)) = (use_recording, recording) {
@@ -526,13 +526,14 @@ impl App {
                 let name = rec.file_name().unwrap_or_default().to_string_lossy().to_string();
                 ui.horizontal(|ui| {
                     if this && self.player.busy() {
-                        let glyph = if self.player.paused || !self.player.controllable {
-                            "▶"
+                        let icon = if !self.player.controllable {
+                            theme::Icon::Stop
+                        } else if self.player.paused {
+                            theme::Icon::Play
                         } else {
-                            "⏸"
+                            theme::Icon::Pause
                         };
-                        let glyph = if self.player.controllable { glyph } else { "■" };
-                        if theme::round_button(ui, glyph, 46.0, ACCENT()).clicked() {
+                        if theme::round_button(ui, icon, 46.0, ACCENT()).clicked() {
                             if self.player.controllable {
                                 self.player.toggle_pause();
                             } else {
@@ -560,12 +561,16 @@ impl App {
                             if ui.add(theme::ghost(tr("Stop"))).clicked() {
                                 self.player.stop();
                             }
-                            if self.player.controllable && ui.add(theme::ghost("⏪ 5 s")).clicked() {
+                            if self.player.controllable
+                                && theme::icon_button(ui, theme::ghost(theme::icon_room("5 s", false)), theme::Icon::Rewind, MUTED(), false)
+                                    .on_hover_text(tr("Back 5 seconds"))
+                                    .clicked()
+                            {
                                 self.player.seek(-5.0);
                             }
                         });
                     } else {
-                        if theme::round_button(ui, "▶", 46.0, ACCENT())
+                        if theme::round_button(ui, theme::Icon::Play, 46.0, ACCENT())
                             .on_hover_text(tr("Play the recording"))
                             .clicked()
                         {
@@ -595,13 +600,13 @@ impl App {
                 let key = self.pause_key(tag);
                 let mut pauses = self.saved.pause_steps.contains(&key);
                 ui.horizontal(|ui| {
-                    let (glyph, hint) = match (running, pausable, self.player.paused) {
-                        (true, true, false) => ("⏸", tr("Pause")),
-                        (true, true, true) => ("▶", tr("Listen")),
-                        (true, false, _) => ("■", tr("Stop")),
-                        _ => ("▶", tr("Listen")),
+                    let (icon, hint) = match (running, pausable, self.player.paused) {
+                        (true, true, false) => (theme::Icon::Pause, tr("Pause")),
+                        (true, true, true) => (theme::Icon::Play, tr("Listen")),
+                        (true, false, _) => (theme::Icon::Stop, tr("Stop")),
+                        _ => (theme::Icon::Play, tr("Listen")),
                     };
-                    if theme::round_button(ui, glyph, 46.0, ACCENT()).on_hover_text(hint).clicked() {
+                    if theme::round_button(ui, icon, 46.0, ACCENT()).on_hover_text(hint).clicked() {
                         if pausable {
                             self.player.toggle_pause();
                         } else if running {
@@ -621,13 +626,13 @@ impl App {
                                         ui.label(muted(tr("preparing the voice…")));
                                     }
                                     Phase::Play(_) if self.player.paused => {
-                                        ui.label(medium(tr("⏸ paused")).color(MUTED()));
+                                        theme::icon_label(ui, theme::Icon::Pause, medium(tr("paused")), 15.0, MUTED());
                                     }
                                     Phase::Play(_) => {
                                         ui.label(medium(tr("listen…")).color(ACCENT()));
                                     }
                                     Phase::Gap(until, len) if repeat => {
-                                        ui.label(medium(tr("● repeat aloud now")).color(WARN()));
+                                        theme::icon_label(ui, theme::Icon::Dot, medium(tr("repeat aloud now")), 15.0, WARN());
                                         let left =
                                             until.saturating_duration_since(Instant::now()).as_secs_f32() / len.as_secs_f32().max(0.01);
                                         theme::bar_on(ui, left, 120.0, WARN(), CARD());
@@ -636,7 +641,7 @@ impl App {
                                 });
                             }
                             Some((Phase::Done, ..)) => {
-                                ui.label(medium(tr("✔ Finished")).color(GOOD()));
+                                theme::icon_label(ui, theme::Icon::Check, medium(tr("Finished")), 15.0, GOOD());
                                 ui.label(muted(tr("Press ▶ to listen again.")).size(13.5));
                             }
                             _ => {
@@ -657,13 +662,13 @@ impl App {
                             if pausable && ui.add(theme::ghost(tr("Stop"))).clicked() {
                                 self.stop_audio();
                             }
-                            if ui.add(theme::ghost("⏭")).on_hover_text(tr("Next sentence")).clicked() {
+                            if theme::icon_ghost(ui, theme::Icon::SkipNext, tr("Next sentence")).clicked() {
                                 self.play_seq(tag, lang, texts(items), idx + 1, false);
                             }
-                            if ui.add(theme::ghost("⟲")).on_hover_text(tr("Repeat this sentence")).clicked() {
+                            if theme::icon_ghost(ui, theme::Icon::Review, tr("Repeat this sentence")).clicked() {
                                 self.play_seq(tag, lang, texts(items), idx, false);
                             }
-                            if ui.add(theme::ghost("⏮")).on_hover_text(tr("Previous sentence")).clicked() {
+                            if theme::icon_ghost(ui, theme::Icon::SkipBack, tr("Previous sentence")).clicked() {
                                 self.play_seq(tag, lang, texts(items), idx.saturating_sub(1), false);
                             }
                         }
@@ -703,13 +708,13 @@ impl App {
                 return;
             }
             ui.horizontal(|ui| {
-                theme::icon_circle(ui, "🔈", ACCENT(), CARD(), 46.0);
+                theme::icon_circle(ui, theme::Icon::Speaker, ACCENT(), CARD(), 46.0);
                 ui.vertical(|ui| {
                     ui.spacing_mut().item_spacing.y = 4.0;
                     ui.label(medium(tr("No audio for this lesson yet")));
                     self.get_voice(ui, lang);
                     ui.label(muted(tr("Or link your own recordings in Courses. Meanwhile, read the sentences aloud yourself.")).size(13.5));
-                    if ui.add(theme::ghost(tr("Link my recordings of this course…"))).clicked() {
+                    if ui.add(theme::secondary(tr("Link my recordings of this course…"))).clicked() {
                         let ci = self.active();
                         self.pick_audio_folder(ci);
                     }
@@ -778,14 +783,14 @@ impl App {
         let fill = if highlight { ACCENT_SOFT() } else { Color32::TRANSPARENT };
         egui::Frame::new()
             .fill(fill)
-            .corner_radius(10)
+            .corner_radius(4)
             .inner_margin(egui::Margin::symmetric(10, 8))
             .show(ui, |ui| {
                 ui.set_width(ui.available_width());
                 ui.horizontal_top(|ui| {
                     theme::number(ui, n, highlight);
                     if can_play {
-                        clicked = ui.add(theme::ghost("▶").small()).on_hover_text(tr("Listen")).clicked();
+                        clicked = theme::icon_ghost(ui, theme::Icon::Play, tr("Listen")).clicked();
                     }
                     ui.vertical(|ui| {
                         ui.spacing_mut().item_spacing.y = 3.0;
@@ -845,11 +850,13 @@ impl App {
         let (rect, _) = ui.allocate_exact_size(egui::vec2(width, if labels { 44.0 } else { 40.0 }), egui::Sense::hover());
         let y = rect.top() + 12.0;
         let x = |i: usize| rect.left() + pad + seg * i as f32;
-        let line = theme::FILL();
-        let track = theme::lerp(line, theme::BG(), 0.7);
+        let line = theme::line_ink();
+        let track = theme::line_track();
+        // The travelled line runs on to the new station instead of jumping.
+        let end = x(0) + seg * theme::glide(ui, ui.id().with("stepper-end"), at as f32, 0.22);
         let p = ui.painter();
         p.line_segment([egui::pos2(x(0), y), egui::pos2(x(n - 1), y)], egui::Stroke::new(5.0, track));
-        p.line_segment([egui::pos2(x(0), y), egui::pos2(x(at), y)], egui::Stroke::new(5.0, line));
+        p.line_segment([egui::pos2(x(0), y), egui::pos2(end, y)], egui::Stroke::new(5.0, line));
         if !labels {
             // Too narrow for every name: the current step is named under the line.
             if let Some(st) = steps.get(at) {
@@ -870,17 +877,20 @@ impl App {
                 .interact(hit, ui.id().with(("step", i)), egui::Sense::click())
                 .on_hover_text(st.title())
                 .on_hover_cursor(egui::CursorIcon::PointingHand);
-            let grow = if resp.hovered() { 1.15 } else { 1.0 };
+            let grow = 1.0 + 0.15 * theme::ease(ui, ui.id().with(("step-hover", i)), resp.hovered(), 0.12);
+            // Today's station grows into its ring; the one left behind shrinks back.
+            let here = theme::ease(ui, ui.id().with(("step-here", i)), i == at, 0.2);
+            let r = (6.0 + 3.0 * here) * grow;
             let p = ui.painter();
             if i == at {
-                p.circle_filled(c, 9.0 * grow, theme::CARD());
-                p.circle_stroke(c, 9.0 * grow, egui::Stroke::new(3.5, line));
+                p.circle_filled(c, r, theme::CARD());
+                p.circle_stroke(c, r, egui::Stroke::new(3.5, line));
             } else if done[i] {
-                p.circle_filled(c, 6.0 * grow, line);
+                p.circle_filled(c, r, line);
                 p.circle_filled(c, 2.5 * grow, theme::CARD());
             } else {
-                p.circle_filled(c, 6.0 * grow, theme::CARD());
-                p.circle_stroke(c, 6.0 * grow, egui::Stroke::new(2.5, track));
+                p.circle_filled(c, r, theme::CARD());
+                p.circle_stroke(c, r, egui::Stroke::new(2.5, track));
             }
             if labels {
                 let (family, col) = if i == at { (theme::sign_family(), INK()) } else { (egui::FontFamily::Proportional, MUTED()) };
@@ -959,11 +969,9 @@ impl App {
         ui.add_space(6.0);
         let jump = theme::page(ui, STUDY_W, |ui| {
             ui.horizontal(|ui| {
-                if ui
-                    .add(theme::secondary("×"))
-                    .on_hover_text(tr("Close — your place in the lesson is kept"))
-                    .clicked()
-                {
+                let close = ui.add(theme::secondary("").min_size(egui::vec2(36.0, 36.0)));
+                theme::Icon::Close.paint(ui.painter(), egui::Rect::from_center_size(close.rect.center(), egui::vec2(12.0, 12.0)), INK());
+                if close.on_hover_text(tr("Close — your place in the lesson is kept")).clicked() {
                     self.stop_audio();
                     self.session = None;
                     self.screen = Screen::Home;
@@ -1008,16 +1016,17 @@ impl App {
             .show(ui, |ui| {
                 theme::page(ui, STUDY_W, |ui| {
                     ui.horizontal(|ui| {
-                        if step_i > 0 && ui.add(theme::secondary(tr("‹  Back")).min_size(egui::vec2(100.0, 46.0))).clicked() {
+                        if step_i > 0 && theme::icon_button(ui, theme::secondary(theme::icon_room(tr("Back"), false)).min_size(egui::vec2(100.0, 48.0)), theme::Icon::Back, INK(), false).clicked() {
                             back = true;
                         }
                         ui.with_layout(egui::Layout::right_to_left(egui::Align::Center), |ui| {
-                            let label = if last {
-                                tr("✔  Finish the lesson")
+                            let (label, icon) = if last {
+                                (tr("Finish the lesson"), theme::Icon::Check)
                             } else {
-                                tr("Done — next step  ›")
+                                (tr("Done — next step"), theme::Icon::Forward)
                             };
-                            if ui.add(theme::big_primary(label)).clicked() {
+                            let button = theme::big_primary(theme::icon_room(label, !last));
+                            if theme::icon_button(ui, button, icon, theme::ON_FILL(), !last).clicked() {
                                 next = true;
                             }
                             ui.label(muted(trf("Step {0} of {1}", &[&(step_i + 1), &steps.len()])));
@@ -1078,7 +1087,7 @@ impl App {
                             }
                             if figured && crate::store::pronunciation_key(&lang).is_some() {
                                 ui.with_layout(egui::Layout::right_to_left(egui::Align::Center), |ui| {
-                                    if ui.add(theme::ghost(tr("Pronunciation guide"))).clicked() {
+                                    if ui.add(theme::secondary(tr("Pronunciation guide"))).clicked() {
                                         self.key_open = true;
                                     }
                                 });
@@ -1109,7 +1118,7 @@ impl App {
                             ui.add_space(8.0);
                             ui.horizontal(|ui| {
                                 theme::badge(ui, pl.level.name(), pl.level.color());
-                                ui.label(bold(trf("Lesson {0} · {1}", &[&pl.number, &pl.title])).size(18.0));
+                                ui.label(theme::display(trf("Lesson {0} · {1}", &[&pl.number, &pl.title])).size(18.0));
                                 ui.label(muted(pl.title_in(&base)));
                             });
                             let tag = format!("prev{j}");
@@ -1216,7 +1225,7 @@ impl App {
             return event;
         }
         let figured = lesson.dialogue.iter().any(|i| i.figured(&base).is_some());
-        if figured && crate::store::pronunciation_key(lang).is_some() && ui.add(theme::ghost(tr("Pronunciation guide"))).clicked() {
+        if figured && crate::store::pronunciation_key(lang).is_some() && ui.add(theme::secondary(tr("Pronunciation guide"))).clicked() {
             self.key_open = true;
         }
         titled(ui, tr("Pronunciation"), lesson.sounds_in(&base));
@@ -1241,7 +1250,7 @@ impl App {
                 let on = lit.contains(&i);
                 let row = egui::Frame::new()
                     .fill(if on { HIGHLIGHT() } else { Color32::TRANSPARENT })
-                    .corner_radius(8)
+                    .corner_radius(4)
                     .inner_margin(egui::Margin::symmetric(8, 5))
                     .show(ui, |ui| {
                         ui.set_width(ui.available_width());
@@ -1269,7 +1278,7 @@ impl App {
         let base = self.base();
         let can_play = self.voices.ready(lang);
         let mut shown = self.session.as_ref().map(|s| s.shown.clone()).unwrap_or_default();
-        if ui.add(theme::ghost(tr("Show all translations"))).clicked() {
+        if ui.add(theme::secondary(tr("Show all translations"))).clicked() {
             shown.extend(0..lesson.ex1.len());
         }
         let mut play = None;
@@ -1280,7 +1289,7 @@ impl App {
                     ui.set_width(ui.available_width());
                     ui.horizontal_top(|ui| {
                         theme::number(ui, i + 1, false);
-                        if can_play && ui.add(theme::ghost("▶").small()).clicked() {
+                        if can_play && theme::icon_ghost(ui, theme::Icon::Play, tr("Listen")).clicked() {
                             play = Some(i);
                         }
                         ui.vertical(|ui| {
@@ -1343,11 +1352,10 @@ impl App {
                                     ui.add_enabled(!s.checked, edit);
                                     if s.checked {
                                         match compare(answer, &text).verdict {
-                                            Verdict::Right => ui.label(medium("✔").color(GOOD())),
-                                            Verdict::Accents => ui
-                                                .label(medium(format!("≈ {text}")).color(WARN()))
+                                            Verdict::Right => theme::icon_label(ui, theme::Icon::Check, medium(""), 16.0, GOOD()),
+                                            Verdict::Accents => theme::icon_label(ui, theme::Icon::Check, medium(&text), 16.0, WARN())
                                                 .on_hover_text(tr("Almost: check the accents")),
-                                            Verdict::Wrong => ui.label(medium(format!("✗ {text}")).color(BAD())),
+                                            Verdict::Wrong => theme::icon_label(ui, theme::Icon::Close, medium(&text), 16.0, BAD()),
                                         };
                                     }
                                     k += 1;
@@ -1355,7 +1363,7 @@ impl App {
                             });
                             if s.checked {
                                 ui.horizontal(|ui| {
-                                    if can_play && ui.add(theme::ghost("▶").small()).clicked() {
+                                    if can_play && theme::icon_ghost(ui, theme::Icon::Play, tr("Listen")).clicked() {
                                         play = Some(i);
                                     }
                                     ui.label(RichText::new(it.plain()).color(ACCENT()));
@@ -1452,30 +1460,19 @@ impl App {
                 self.review.tab = 1;
             }
             // A segmented control for the two kinds of review.
-            egui::Frame::new().fill(TRACK()).corner_radius(12).inner_margin(4).show(ui, |ui| {
-                ui.horizontal(|ui| {
-                    ui.spacing_mut().item_spacing.x = 4.0;
-                    // The daily sentences tab is shown even when off, so the learner can find and turn it on.
-                    let tabs = vec![
-                        (1, trf("Active wave · {0}", &[&pending.len()])),
-                        (2, tr("Search").to_string()),
-                        (0, trf("Daily sentences · {0}", &[&due])),
-                    ];
-                    for (i, t) in tabs {
-                        let sel = self.review.tab == i;
-                        let b = egui::Button::new(medium(&t).color(if sel { INK() } else { MUTED() }))
-                            .fill(if sel { CARD() } else { Color32::TRANSPARENT })
-                            .stroke(egui::Stroke::NONE)
-                            .corner_radius(9)
-                            .min_size(egui::vec2(150.0, 34.0));
-                        if ui.add(b).clicked() {
-                            self.review.tab = i;
-                            self.review.practice = None;
-                            self.stop_audio();
-                        }
-                    }
-                });
-            });
+            // The daily sentences tab is shown even when off, so the learner can find and turn it on.
+            let tabs = [1, 2, 0];
+            let names = [
+                trf("Active wave · {0}", &[&pending.len()]),
+                tr("Search").to_string(),
+                trf("Daily sentences · {0}", &[&due]),
+            ];
+            let at = tabs.iter().position(|&t| t == self.review.tab).unwrap_or(0);
+            if let Some(k) = theme::segmented(ui, &names, at, 150.0) {
+                self.review.tab = tabs[k];
+                self.review.practice = None;
+                self.stop_audio();
+            }
             ui.add_space(10.0);
             match self.review.tab {
                 0 if !cards => {
@@ -1514,8 +1511,8 @@ impl App {
                 ui.set_width(ui.available_width());
                 ui.vertical_centered(|ui| {
                     ui.add_space(12.0);
-                    theme::icon_circle(ui, "✔", GOOD(), GOOD_SOFT(), 60.0);
-                    ui.label(bold(tr("Nothing left to review today")).size(21.0));
+                    theme::icon_circle(ui, theme::Icon::Check, GOOD(), GOOD_SOFT(), 60.0);
+                    ui.label(theme::display(tr("Nothing left to review today")).size(21.0));
                     let next = self.saved.cards.values().map(|c| c.due.clone()).min();
                     ui.label(muted(match next {
                         Some(d) => trf(
@@ -1564,14 +1561,25 @@ impl App {
                             self.play_seq(&tag, &lang, vec![item.plain()], 0, true);
                         }
                     }
-                    ui.label(muted(tr("or press Space")).size(12.5));
+                    // The shortcut as a key cap, the pair centred under the button.
+                    let (lead, key) = (tr("or press"), tr("Space"));
+                    let p = ui.painter();
+                    let w = p.layout_no_wrap(lead.into(), egui::FontId::proportional(12.5), MUTED()).size().x
+                        + p.layout_no_wrap(key.into(), egui::FontId::new(12.0, theme::medium_family()), INK()).size().x
+                        + 20.0;
+                    ui.horizontal(|ui| {
+                        ui.spacing_mut().item_spacing.x = 6.0;
+                        ui.add_space(((ui.available_width() - w) / 2.0).max(0.0));
+                        ui.label(muted(lead).size(12.5));
+                        theme::keycap(ui, key);
+                    });
                     return;
                 }
                 ui.horizontal(|ui| {
                     // Centre the answer and its ▶ together.
                     let w = (item.plain().chars().count() as f32 * 14.0 + 40.0).min(ui.available_width());
                     ui.add_space(((ui.available_width() - w) / 2.0).max(0.0));
-                    if self.voices.ready(&lang) && ui.add(theme::ghost("▶")).clicked() {
+                    if self.voices.ready(&lang) && theme::icon_ghost(ui, theme::Icon::Play, tr("Listen")).clicked() {
                         self.play_seq(&tag, &lang, vec![item.plain()], 0, true);
                     }
                     ui.label(bold(item.plain()).size(25.0).color(ACCENT()));
@@ -1605,7 +1613,7 @@ impl App {
                     let b = egui::Button::new(medium(format!("{name}\n{when}")).color(color))
                         .fill(theme::soft(color))
                         .stroke(egui::Stroke::new(1.0, theme::lerp(color, Color32::WHITE, 0.6)))
-                        .corner_radius(12);
+                        .corner_radius(4);
                     let w = col.available_width();
                     let resp = col.add_sized(egui::vec2(w, 56.0), b).on_hover_text(trf("Key {0}", &[&(k + 1)]));
                     if resp.clicked() || col.input(|i| i.key_pressed(keys[k])) {
@@ -1657,7 +1665,7 @@ impl App {
         }
         if let Some((_, pli)) = self.review.practice.filter(|&(c, li)| c == ci && li < course.lessons.len()) {
             let l = course.lessons[pli].clone();
-            if ui.add(theme::secondary(tr("‹  All lessons"))).clicked() {
+            if theme::icon_button(ui, theme::secondary(theme::icon_room(tr("All lessons"), false)), theme::Icon::Back, INK(), false).clicked() {
                 self.review.practice = None;
                 self.stop_audio();
                 return;
@@ -1672,11 +1680,11 @@ impl App {
             self.reconstruct(ui, ci, pli, &mut p);
             self.review.practice_state = p;
             let label = if due {
-                tr("✔  Second wave done for this lesson")
+                tr("Second wave done for this lesson")
             } else {
-                tr("✔  Done")
+                tr("Done")
             };
-            if ui.add(theme::big_primary(label)).clicked() {
+            if theme::icon_button(ui, theme::big_primary(theme::icon_room(label, false)), theme::Icon::Check, theme::ON_FILL(), false).clicked() {
                 if due {
                     let key = course.lesson_key(l.number);
                     self.saved.lessons.entry(key.clone()).or_default().wave2 = Some(day_key(today()));
@@ -1812,7 +1820,7 @@ impl App {
         ui.add_space(12.0);
         theme::card().show(ui, |ui| {
             ui.set_width(ui.available_width());
-            ui.label(bold(tr("How did it go?")).size(18.0));
+            ui.label(theme::display(tr("How did it go?")).size(18.0));
             if struggled {
                 ui.label(muted(tr(
                     "The exercises were hard today. Going over this lesson again tomorrow often makes it click.",
@@ -1862,7 +1870,7 @@ impl App {
                 egui::Frame::new().inner_margin(egui::Margin::symmetric(10, 5)).show(ui, |ui| {
                     ui.set_width(ui.available_width());
                     ui.horizontal_top(|ui| {
-                        if can_play && ui.add(theme::ghost("▶").small()).clicked() {
+                        if can_play && theme::icon_ghost(ui, theme::Icon::Play, tr("Listen")).clicked() {
                             play = Some(it.plain());
                         }
                         ui.vertical(|ui| {
@@ -1948,7 +1956,7 @@ fn notes_rows(ui: &mut egui::Ui, notes: &str, refs: Option<&[Vec<usize>]>, lit: 
             let linked = refs.and_then(|r| r.get(k)).is_some_and(|r| !r.is_empty());
             let row = egui::Frame::new()
                 .fill(if linked && lit == Some(k) { HIGHLIGHT() } else { Color32::TRANSPARENT })
-                .corner_radius(8)
+                .corner_radius(4)
                 .inner_margin(egui::Margin::symmetric(6, 4))
                 .show(ui, |ui| {
                     ui.horizontal_top(|ui| {

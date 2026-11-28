@@ -95,8 +95,8 @@ impl App {
         if mine.is_empty() {
             theme::card().show(ui, |ui| {
                 ui.set_width(ui.available_width());
-                ui.label(theme::bold(tr("You have no course of your own yet.")).size(18.0));
-                ui.label(muted(tr("Create one for any language in Courses (“＋ New course”), or copy a built-in course there to expand it.")));
+                ui.label(theme::display(tr("You have no course of your own yet.")).size(18.0));
+                ui.label(muted(tr("Create one for any language in Courses (“New course”), or copy a built-in course there to expand it.")));
                 if ui.add(theme::primary(tr("Go to Courses"))).clicked() {
                     self.go(Screen::Courses);
                 }
@@ -154,7 +154,7 @@ impl App {
     fn lesson_index(&mut self, ui: &mut egui::Ui, ci: usize) {
         let base = self.base();
         let c = self.courses[ci].clone();
-        if ui.add(theme::big_primary(tr("＋ New lesson"))).clicked() {
+        if ui.add(theme::primary(tr("New lesson"))).clicked() {
             self.new_lesson(ci);
             return;
         }
@@ -245,7 +245,7 @@ impl App {
 
         theme::card().show(ui, |ui| {
             ui.set_width(ui.available_width());
-            ui.label(theme::bold(tr("Dialogue")).size(18.0));
+            ui.label(theme::display(tr("Dialogue")).size(18.0));
             ui.label(muted(trf("One sentence per row: the sentence in {0}, its translation in {1} (put the literal sense in brackets if useful) and, if you like, a pronunciation hint.", &[&in_sentence(&target_name), &in_sentence(&base_name)])));
             item_rows(ui, &mut d.dialogue, &base, "dlg", &target_name, &base_name);
             ui.collapsing(tr("Paste many sentences at once"), |ui| {
@@ -278,7 +278,7 @@ impl App {
 
         theme::card().show(ui, |ui| {
             ui.set_width(ui.available_width());
-            ui.label(theme::bold(trf("Notes (in {0})", &[&in_sentence(&base_name)])).size(18.0));
+            ui.label(theme::display(trf("Notes (in {0})", &[&in_sentence(&base_name)])).size(18.0));
             ui.label(muted(tr("Number each note: “1. word — explanation”.")));
             ui.add(
                 egui::TextEdit::multiline(d.notes.entry(base.clone()).or_default())
@@ -289,10 +289,10 @@ impl App {
 
         theme::card().show(ui, |ui| {
             ui.set_width(ui.available_width());
-            ui.label(theme::bold(tr("Exercise 1 · sentences to translate")).size(18.0));
+            ui.label(theme::display(tr("Exercise 1 · sentences to translate")).size(18.0));
             item_rows(ui, &mut d.ex1, &base, "ex1", &target_name, &base_name);
             ui.add_space(6.0);
-            ui.label(theme::bold(tr("Exercise 2 · missing words")).size(18.0));
+            ui.label(theme::display(tr("Exercise 2 · missing words")).size(18.0));
             ui.label(muted(tr("Put each missing word in [square brackets], e.g. “Muy [bien], [gracias].”")));
             item_rows(ui, &mut d.ex2, &base, "ex2", &target_name, &base_name);
         });
@@ -400,10 +400,10 @@ fn item_rows(ui: &mut egui::Ui, items: &mut Vec<Item>, base: &str, id: &str, tar
                     egui::TextEdit::singleline(it.tr.entry(base.to_string()).or_default()),
                 );
                 ui.add_sized([widths[2], 30.0], egui::TextEdit::singleline(&mut it.pron));
-                if i > 0 && ui.add(theme::ghost("↑").small()).on_hover_text(tr("Move up")).clicked() {
+                if i > 0 && theme::icon_ghost(ui, theme::Icon::Up, tr("Move up")).clicked() {
                     up = Some(i);
                 }
-                if ui.add(theme::ghost("✕").small()).on_hover_text(tr("Remove")).clicked() {
+                if theme::icon_ghost(ui, theme::Icon::Close, tr("Remove")).clicked() {
                     remove = Some(i);
                 }
             });
@@ -415,7 +415,7 @@ fn item_rows(ui: &mut egui::Ui, items: &mut Vec<Item>, base: &str, id: &str, tar
     if let Some(i) = up {
         items.swap(i, i - 1);
     }
-    if ui.add(theme::secondary(tr("＋ Add sentence"))).clicked() {
+    if ui.add(theme::secondary(tr("Add sentence"))).clicked() {
         items.push(Item::default());
     }
 }

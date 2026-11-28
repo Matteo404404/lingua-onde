@@ -242,7 +242,13 @@ impl App {
             theme::card().show(ui, |ui| {
                 ui.set_width(ui.available_width());
                 match page {
-                    Some(p) => theme::markdown(ui, &p),
+                    // A book's measure: long lines across a wide window tire the eye.
+                    Some(p) => {
+                        ui.vertical(|ui| {
+                            ui.set_max_width(720.0);
+                            theme::markdown(ui, &p);
+                        });
+                    }
                     None => {
                         ui.label(RichText::new(tr(
                             "Not written yet for this course. As in the books, the introduction and the appendix come with the finished course: a grammar summary, an index of grammar topics, a word list in both directions and the expressions, each with its lessons.",
@@ -255,14 +261,14 @@ impl App {
                 ui.add_space(10.0);
                 ui.horizontal(|ui| {
                     if self.appendix_ui.tab == 0 && foundation {
-                        if ui.add(theme::primary(tr("Next: the pronunciation key  →"))).clicked() {
+                        if theme::icon_button(ui, theme::primary(theme::icon_room(tr("Next: the pronunciation key"), true)), theme::Icon::Arrow, theme::ON_FILL(), true).clicked() {
                             self.appendix_ui.tab = 1;
                         }
                     } else if newcomer {
-                        if ui.add(theme::primary(tr("Begin: lesson 1  →"))).clicked() {
+                        if theme::icon_button(ui, theme::primary(theme::icon_room(tr("Begin: lesson 1"), true)), theme::Icon::Arrow, theme::ON_FILL(), true).clicked() {
                             self.begin_course(ci);
                         }
-                    } else if ui.add(theme::primary(tr("Next: the lessons  →"))).clicked() {
+                    } else if theme::icon_button(ui, theme::primary(theme::icon_room(tr("Next: the lessons"), true)), theme::Icon::Arrow, theme::ON_FILL(), true).clicked() {
                         self.appendix_ui.tab = 2;
                     }
                 });
@@ -446,13 +452,13 @@ impl App {
                 let fill = if is_next { ACCENT_SOFT() } else { egui::Color32::TRANSPARENT };
                 let r = egui::Frame::new()
                     .fill(fill)
-                    .corner_radius(8)
+                    .corner_radius(4)
                     .inner_margin(egui::Margin::symmetric(8, 2))
                     .show(ui, |ui| {
                         ui.set_width(ui.available_width());
                         ui.horizontal(|ui| {
-                            let mark = if done { "✔" } else if is_next { "▶" } else { "·" };
-                            ui.label(RichText::new(mark).size(15.0).color(if done || is_next { ACCENT() } else { MUTED() }));
+                            let mark = if done { theme::Icon::Check } else if is_next { theme::Icon::Play } else { theme::Icon::Station };
+                            theme::icon_mark(ui, mark, if done || is_next { ACCENT() } else { theme::PENDING() });
                             ui.allocate_ui_with_layout(
                                 egui::vec2(28.0, 20.0),
                                 egui::Layout::right_to_left(egui::Align::Center),
@@ -486,7 +492,7 @@ impl App {
         if !c.lessons.is_empty() {
             ui.add_space(10.0);
             ui.horizontal(|ui| {
-                if ui.add(theme::ghost(tr("Then, at the end of the book: the grammar  →"))).clicked() {
+                if theme::icon_button(ui, theme::ghost(theme::icon_room(tr("Then, at the end of the book: the grammar"), true)), theme::Icon::Arrow, theme::MUTED(), true).clicked() {
                     self.appendix_ui.tab = 3;
                 }
             });

@@ -1,0 +1,1024 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-28T11:36:15+00:00",
+  "title": "Design System: Marea",
+  "extensions": {
+    "colorMeta": {
+      "line-en": {
+        "role": "primary",
+        "displayName": "English Cobalt",
+        "canonical": "#284A9A",
+        "tonalRamp": [
+          "#192133",
+          "#273860",
+          "#304D91",
+          "#3460C7",
+          "#6886CE",
+          "#99ACD7",
+          "#C6CFE4",
+          "#EFF1F6"
+        ]
+      },
+      "line-es": {
+        "role": "primary",
+        "displayName": "Signal Red",
+        "canonical": "#C43222",
+        "tonalRamp": [
+          "#361A17",
+          "#652821",
+          "#9B3226",
+          "#D53726",
+          "#D8695D",
+          "#DD9A93",
+          "#E7C7C3",
+          "#F6EFEE"
+        ]
+      },
+      "line-fr": {
+        "role": "primary",
+        "displayName": "Clear Blue",
+        "canonical": "#2C58B2",
+        "tonalRamp": [
+          "#192234",
+          "#263961",
+          "#2F4F92",
+          "#3264C9",
+          "#6689D0",
+          "#98ADD7",
+          "#C6D0E4",
+          "#EFF1F6"
+        ]
+      },
+      "line-de": {
+        "role": "primary",
+        "displayName": "Slate",
+        "canonical": "#3A3A44",
+        "tonalRamp": [
+          "#242428",
+          "#404047",
+          "#5A5A67",
+          "#747488",
+          "#9494A2",
+          "#B4B4BC",
+          "#D3D3D7",
+          "#F2F2F3"
+        ]
+      },
+      "line-nl": {
+        "role": "primary",
+        "displayName": "Burnt Orange",
+        "canonical": "#B84E0C",
+        "tonalRamp": [
+          "#3A2213",
+          "#6E3A19",
+          "#A95018",
+          "#EB6410",
+          "#E7894E",
+          "#E6AD8A",
+          "#EBD0BF",
+          "#F7F1ED"
+        ]
+      },
+      "line-pt": {
+        "role": "primary",
+        "displayName": "Tile Green",
+        "canonical": "#1B7D44",
+        "tonalRamp": [
+          "#183524",
+          "#24633E",
+          "#2B9658",
+          "#2DCE71",
+          "#63D392",
+          "#96DAB2",
+          "#C5E5D2",
+          "#EEF6F2"
+        ]
+      },
+      "line-zh": {
+        "role": "primary",
+        "displayName": "Crimson",
+        "canonical": "#B4222E",
+        "tonalRamp": [
+          "#35171A",
+          "#642228",
+          "#992832",
+          "#D32937",
+          "#D65F69",
+          "#DC949A",
+          "#E6C4C7",
+          "#F6EEEF"
+        ]
+      },
+      "line-la": {
+        "role": "primary",
+        "displayName": "Bronze",
+        "canonical": "#8A622E",
+        "tonalRamp": [
+          "#31281B",
+          "#5C472B",
+          "#8A6637",
+          "#BC863F",
+          "#C6A16F",
+          "#D2BB9E",
+          "#E2D7C9",
+          "#F5F3EF"
+        ]
+      },
+      "line-vi": {
+        "role": "primary",
+        "displayName": "Saffron",
+        "canonical": "#E0A81E",
+        "tonalRamp": [
+          "#372D15",
+          "#68531E",
+          "#A07B22",
+          "#DDA61F",
+          "#DDB758",
+          "#E0C990",
+          "#E8DDC2",
+          "#F7F4EE"
+        ]
+      },
+      "line-it": {
+        "role": "primary",
+        "displayName": "Basil Green",
+        "canonical": "#208048",
+        "tonalRamp": [
+          "#193424",
+          "#26603F",
+          "#2F9258",
+          "#33C871",
+          "#66CF92",
+          "#99D7B3",
+          "#C6E4D3",
+          "#EFF6F2"
+        ]
+      },
+      "brand-enamel-red": {
+        "role": "secondary",
+        "displayName": "Brand Enamel Red",
+        "canonical": "#C83424",
+        "tonalRamp": [
+          "#361A17",
+          "#652822",
+          "#9A3227",
+          "#D43827",
+          "#D76A5E",
+          "#DC9B94",
+          "#E6C7C4",
+          "#F6EFEE"
+        ]
+      },
+      "station-ground": {
+        "role": "neutral",
+        "displayName": "Station Ground",
+        "canonical": "#F3F2EF",
+        "tonalRamp": [
+          "#292823",
+          "#4A473C",
+          "#6C6655",
+          "#8F876C",
+          "#A7A18E",
+          "#BFBCB1",
+          "#D9D7D2",
+          "#F3F3F1"
+        ]
+      },
+      "station-ground-dark": {
+        "role": "neutral",
+        "displayName": "Station Ground Dark",
+        "canonical": "#121212",
+        "tonalRamp": [
+          "#262626",
+          "#434343",
+          "#616161",
+          "#7E7E7E",
+          "#9B9B9B",
+          "#B8B8B8",
+          "#D5D5D5",
+          "#F2F2F2"
+        ]
+      },
+      "enamel-panel": {
+        "role": "neutral",
+        "displayName": "Enamel Panel",
+        "canonical": "#FFFFFF",
+        "tonalRamp": [
+          "#262626",
+          "#434343",
+          "#616161",
+          "#7E7E7E",
+          "#9B9B9B",
+          "#B8B8B8",
+          "#D5D5D5",
+          "#F2F2F2"
+        ]
+      },
+      "enamel-panel-dark": {
+        "role": "neutral",
+        "displayName": "Enamel Panel Dark",
+        "canonical": "#1E1E1E",
+        "tonalRamp": [
+          "#262626",
+          "#434343",
+          "#616161",
+          "#7E7E7E",
+          "#9B9B9B",
+          "#B8B8B8",
+          "#D5D5D5",
+          "#F2F2F2"
+        ]
+      },
+      "sign-ink": {
+        "role": "neutral",
+        "displayName": "Sign Ink",
+        "canonical": "#1C1C1C",
+        "tonalRamp": [
+          "#262626",
+          "#434343",
+          "#616161",
+          "#7E7E7E",
+          "#9B9B9B",
+          "#B8B8B8",
+          "#D5D5D5",
+          "#F2F2F2"
+        ]
+      },
+      "sign-ink-dark": {
+        "role": "neutral",
+        "displayName": "Sign Ink Dark",
+        "canonical": "#ECECEC",
+        "tonalRamp": [
+          "#262626",
+          "#434343",
+          "#616161",
+          "#7E7E7E",
+          "#9B9B9B",
+          "#B8B8B8",
+          "#D5D5D5",
+          "#F2F2F2"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Muted",
+        "canonical": "#646464",
+        "tonalRamp": [
+          "#262626",
+          "#434343",
+          "#616161",
+          "#7E7E7E",
+          "#9B9B9B",
+          "#B8B8B8",
+          "#D5D5D5",
+          "#F2F2F2"
+        ]
+      },
+      "muted-dark": {
+        "role": "neutral",
+        "displayName": "Muted Dark",
+        "canonical": "#9E9E9E",
+        "tonalRamp": [
+          "#262626",
+          "#434343",
+          "#616161",
+          "#7E7E7E",
+          "#9B9B9B",
+          "#B8B8B8",
+          "#D5D5D5",
+          "#F2F2F2"
+        ]
+      },
+      "hairline": {
+        "role": "neutral",
+        "displayName": "Hairline",
+        "canonical": "#E2DFDA",
+        "tonalRamp": [
+          "#292724",
+          "#49453E",
+          "#6B6357",
+          "#8D816F",
+          "#A59D90",
+          "#BEBAB2",
+          "#D8D6D2",
+          "#F3F2F2"
+        ]
+      },
+      "hairline-dark": {
+        "role": "neutral",
+        "displayName": "Hairline Dark",
+        "canonical": "#343434",
+        "tonalRamp": [
+          "#262626",
+          "#434343",
+          "#616161",
+          "#7E7E7E",
+          "#9B9B9B",
+          "#B8B8B8",
+          "#D5D5D5",
+          "#F2F2F2"
+        ]
+      },
+      "track": {
+        "role": "neutral",
+        "displayName": "Track",
+        "canonical": "#E8E5E0",
+        "tonalRamp": [
+          "#2A2723",
+          "#4B453C",
+          "#6D6454",
+          "#90826B",
+          "#A89E8E",
+          "#C0BAB0",
+          "#D9D6D1",
+          "#F3F2F1"
+        ]
+      },
+      "track-dark": {
+        "role": "neutral",
+        "displayName": "Track Dark",
+        "canonical": "#323232",
+        "tonalRamp": [
+          "#262626",
+          "#434343",
+          "#616161",
+          "#7E7E7E",
+          "#9B9B9B",
+          "#B8B8B8",
+          "#D5D5D5",
+          "#F2F2F2"
+        ]
+      },
+      "station-wall": {
+        "role": "neutral",
+        "displayName": "Station Wall",
+        "canonical": "#1C1C1C",
+        "tonalRamp": [
+          "#262626",
+          "#434343",
+          "#616161",
+          "#7E7E7E",
+          "#9B9B9B",
+          "#B8B8B8",
+          "#D5D5D5",
+          "#F2F2F2"
+        ]
+      },
+      "station-wall-dark": {
+        "role": "neutral",
+        "displayName": "Station Wall Dark",
+        "canonical": "#0C0C0C",
+        "tonalRamp": [
+          "#262626",
+          "#434343",
+          "#616161",
+          "#7E7E7E",
+          "#9B9B9B",
+          "#B8B8B8",
+          "#D5D5D5",
+          "#F2F2F2"
+        ]
+      },
+      "wall-text": {
+        "role": "neutral",
+        "displayName": "Wall Text",
+        "canonical": "#D6D6D6",
+        "tonalRamp": [
+          "#262626",
+          "#434343",
+          "#616161",
+          "#7E7E7E",
+          "#9B9B9B",
+          "#B8B8B8",
+          "#D5D5D5",
+          "#F2F2F2"
+        ]
+      },
+      "wall-muted": {
+        "role": "neutral",
+        "displayName": "Wall Muted",
+        "canonical": "#969696",
+        "tonalRamp": [
+          "#262626",
+          "#434343",
+          "#616161",
+          "#7E7E7E",
+          "#9B9B9B",
+          "#B8B8B8",
+          "#D5D5D5",
+          "#F2F2F2"
+        ]
+      },
+      "field": {
+        "role": "neutral",
+        "displayName": "Field",
+        "canonical": "#F7F6F3",
+        "tonalRamp": [
+          "#2B2822",
+          "#4D483A",
+          "#716950",
+          "#978A65",
+          "#ACA489",
+          "#C2BDAE",
+          "#DAD8D0",
+          "#F3F3F1"
+        ]
+      },
+      "field-dark": {
+        "role": "neutral",
+        "displayName": "Field Dark",
+        "canonical": "#181818",
+        "tonalRamp": [
+          "#262626",
+          "#434343",
+          "#616161",
+          "#7E7E7E",
+          "#9B9B9B",
+          "#B8B8B8",
+          "#D5D5D5",
+          "#F2F2F2"
+        ]
+      },
+      "control": {
+        "role": "neutral",
+        "displayName": "Control",
+        "canonical": "#EAE7E2",
+        "tonalRamp": [
+          "#2A2723",
+          "#4B453C",
+          "#6E6453",
+          "#92836A",
+          "#A99E8D",
+          "#C0BAB0",
+          "#D9D6D1",
+          "#F3F2F1"
+        ]
+      },
+      "control-dark": {
+        "role": "neutral",
+        "displayName": "Control Dark",
+        "canonical": "#383838",
+        "tonalRamp": [
+          "#262626",
+          "#434343",
+          "#616161",
+          "#7E7E7E",
+          "#9B9B9B",
+          "#B8B8B8",
+          "#D5D5D5",
+          "#F2F2F2"
+        ]
+      },
+      "control-line": {
+        "role": "neutral",
+        "displayName": "Control Line",
+        "canonical": "#D2CEC7",
+        "tonalRamp": [
+          "#292724",
+          "#49453E",
+          "#6A6358",
+          "#8B8170",
+          "#A49D91",
+          "#BEBAB2",
+          "#D8D6D2",
+          "#F3F2F2"
+        ]
+      },
+      "control-line-dark": {
+        "role": "neutral",
+        "displayName": "Control Line Dark",
+        "canonical": "#4C4C4C",
+        "tonalRamp": [
+          "#262626",
+          "#434343",
+          "#616161",
+          "#7E7E7E",
+          "#9B9B9B",
+          "#B8B8B8",
+          "#D5D5D5",
+          "#F2F2F2"
+        ]
+      },
+      "pending": {
+        "role": "neutral",
+        "displayName": "Pending",
+        "canonical": "#C4C0B8",
+        "tonalRamp": [
+          "#282724",
+          "#48453F",
+          "#686359",
+          "#898272",
+          "#A39E93",
+          "#BDBAB3",
+          "#D7D6D3",
+          "#F3F2F2"
+        ]
+      },
+      "pending-dark": {
+        "role": "neutral",
+        "displayName": "Pending Dark",
+        "canonical": "#5A5A5A",
+        "tonalRamp": [
+          "#262626",
+          "#434343",
+          "#616161",
+          "#7E7E7E",
+          "#9B9B9B",
+          "#B8B8B8",
+          "#D5D5D5",
+          "#F2F2F2"
+        ]
+      },
+      "good": {
+        "role": "status",
+        "displayName": "Good",
+        "canonical": "#208048",
+        "tonalRamp": [
+          "#193424",
+          "#26603F",
+          "#2F9258",
+          "#33C871",
+          "#66CF92",
+          "#99D7B3",
+          "#C6E4D3",
+          "#EFF6F2"
+        ]
+      },
+      "good-dark": {
+        "role": "status",
+        "displayName": "Good Dark",
+        "canonical": "#54BE7A",
+        "tonalRamp": [
+          "#1C3023",
+          "#2E593D",
+          "#3B8656",
+          "#46B66E",
+          "#74C290",
+          "#A1CFB1",
+          "#CAE0D2",
+          "#F0F5F2"
+        ]
+      },
+      "good-soft": {
+        "role": "status",
+        "displayName": "Good Soft",
+        "canonical": "#E0F0E5",
+        "tonalRamp": [
+          "#1F2E23",
+          "#33543D",
+          "#447D56",
+          "#52A96D",
+          "#7CB98F",
+          "#A6CAB1",
+          "#CCDED2",
+          "#F0F4F1"
+        ]
+      },
+      "good-soft-dark": {
+        "role": "status",
+        "displayName": "Good Soft Dark",
+        "canonical": "#1E3426",
+        "tonalRamp": [
+          "#202C25",
+          "#365040",
+          "#4A775B",
+          "#5C9F75",
+          "#83B294",
+          "#AAC6B4",
+          "#CEDCD3",
+          "#F1F4F2"
+        ]
+      },
+      "warn": {
+        "role": "status",
+        "displayName": "Warn",
+        "canonical": "#A06008",
+        "tonalRamp": [
+          "#3A2912",
+          "#6F4A18",
+          "#AB6C16",
+          "#EE8F0D",
+          "#EAA74C",
+          "#E7BF89",
+          "#ECD9BE",
+          "#F8F3ED"
+        ]
+      },
+      "warn-dark": {
+        "role": "status",
+        "displayName": "Warn Dark",
+        "canonical": "#E6A646",
+        "tonalRamp": [
+          "#372A15",
+          "#684B1F",
+          "#9F6D22",
+          "#DD911F",
+          "#DDA858",
+          "#E0C090",
+          "#E8D9C2",
+          "#F7F3EE"
+        ]
+      },
+      "warn-soft": {
+        "role": "status",
+        "displayName": "Warn Soft",
+        "canonical": "#FAEED6",
+        "tonalRamp": [
+          "#382C15",
+          "#69501E",
+          "#A17620",
+          "#DF9E1C",
+          "#DFB257",
+          "#E1C68F",
+          "#E9DCC2",
+          "#F7F4EE"
+        ]
+      },
+      "warn-soft-dark": {
+        "role": "status",
+        "displayName": "Warn Soft Dark",
+        "canonical": "#3E301A",
+        "tonalRamp": [
+          "#2F281D",
+          "#574830",
+          "#82683F",
+          "#B1894B",
+          "#BFA377",
+          "#CDBDA3",
+          "#DFD7CB",
+          "#F5F3F0"
+        ]
+      },
+      "bad": {
+        "role": "status",
+        "displayName": "Bad",
+        "canonical": "#C03C32",
+        "tonalRamp": [
+          "#331B19",
+          "#602B27",
+          "#913730",
+          "#C73F35",
+          "#CE6F68",
+          "#D79E99",
+          "#E4C8C6",
+          "#F6EFEF"
+        ]
+      },
+      "bad-dark": {
+        "role": "status",
+        "displayName": "Bad Dark",
+        "canonical": "#EC6C62",
+        "tonalRamp": [
+          "#381715",
+          "#69231D",
+          "#A12920",
+          "#DF2A1C",
+          "#DF6056",
+          "#E1958F",
+          "#E9C4C1",
+          "#F7EEEE"
+        ]
+      },
+      "highlight": {
+        "role": "status",
+        "displayName": "Highlight",
+        "canonical": "#FFF0C4",
+        "tonalRamp": [
+          "#3C3110",
+          "#745B13",
+          "#B3890E",
+          "#FABB01",
+          "#F2C644",
+          "#ECD284",
+          "#EEE1BC",
+          "#F8F5EC"
+        ]
+      },
+      "highlight-dark": {
+        "role": "status",
+        "displayName": "Highlight Dark",
+        "canonical": "#4A3E1C",
+        "tonalRamp": [
+          "#302B1C",
+          "#594E2E",
+          "#86723B",
+          "#B69945",
+          "#C2AE73",
+          "#CFC3A0",
+          "#E0DBCA",
+          "#F5F4F0"
+        ]
+      },
+      "figured": {
+        "role": "status",
+        "displayName": "Figured",
+        "canonical": "#965C1E",
+        "tonalRamp": [
+          "#352717",
+          "#644423",
+          "#98622A",
+          "#D1802B",
+          "#D59D61",
+          "#DBB995",
+          "#E6D6C4",
+          "#F6F2EE"
+        ]
+      },
+      "figured-dark": {
+        "role": "status",
+        "displayName": "Figured Dark",
+        "canonical": "#DEA868",
+        "tonalRamp": [
+          "#342718",
+          "#624624",
+          "#95652C",
+          "#CE842E",
+          "#D3A063",
+          "#D9BB97",
+          "#E5D6C5",
+          "#F6F3EE"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Today's lesson title in the hero (Archivo Bold 52px)."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Page titles and hero end states (30px); egui Heading is 26px."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Card and settings section titles (18-19px)."
+      },
+      "sign": {
+        "displayName": "Sign",
+        "purpose": "Text on a line or ink fill: band 17px, tiles and today's station 14px, badges 12.5px."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "All reading text."
+      },
+      "button": {
+        "displayName": "Button",
+        "purpose": "Buttons and nav labels; 16px on the big primary."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Sentence-case small labels above a group, muted."
+      },
+      "small": {
+        "displayName": "Small",
+        "purpose": "Station numbers, metadata, counts."
+      }
+    },
+    "derivedLineSteps": [
+      {
+        "name": "accent",
+        "value": "line; light lines mixed 45% to black; dark theme mixed 35% to white",
+        "purpose": "Links, focus rings, selection stroke."
+      },
+      {
+        "name": "accent-soft",
+        "value": "line mixed 88% into panel (78% dark)",
+        "purpose": "Selected options, tinted notice panels."
+      },
+      {
+        "name": "hover",
+        "value": "line mixed 95% into panel (88% dark)",
+        "purpose": "Hover surface of secondary, ghost, icon buttons and links."
+      },
+      {
+        "name": "hover-fill",
+        "value": "line mixed 80% into panel (68% dark)",
+        "purpose": "Hovered control fills (checkboxes, sliders)."
+      },
+      {
+        "name": "accent-dark",
+        "value": "line mixed 25% to black",
+        "purpose": "Pressed control stroke."
+      },
+      {
+        "name": "line-ink",
+        "value": "line; dark theme mixed 35% to white",
+        "purpose": "Travelled rail and stations."
+      },
+      {
+        "name": "line-track",
+        "value": "line mixed 70% to ground (dark: 70% to #707070)",
+        "purpose": "Untravelled rail and stations ahead."
+      },
+      {
+        "name": "text-on",
+        "value": "#1C1C1C when WCAG luminance > 0.3, else #FFFFFF",
+        "purpose": "Text on any line fill."
+      }
+    ],
+    "shadows": [
+      {
+        "name": "window",
+        "value": "0 2px 18px rgba(0,0,0,0.094)",
+        "purpose": "Floating windows only."
+      },
+      {
+        "name": "popup",
+        "value": "0 2px 12px rgba(0,0,0,0.078)",
+        "purpose": "Menus, combo popups, tooltips."
+      },
+      {
+        "name": "toast",
+        "value": "0 4px 16px rgba(0,0,0,0.196)",
+        "purpose": "The ink toast at the bottom."
+      }
+    ],
+    "motion": [
+      {
+        "name": "ease-out",
+        "value": "cubic-bezier(0.33, 1, 0.68, 1)",
+        "purpose": "egui cubic_out, shared by ease() and glide()."
+      },
+      {
+        "name": "station-hover",
+        "value": "0.12s, grow 15%",
+        "purpose": "A pointed station or step swells."
+      },
+      {
+        "name": "segmented-chip",
+        "value": "0.18s",
+        "purpose": "Chip glides to the new choice."
+      },
+      {
+        "name": "step-here",
+        "value": "0.2s",
+        "purpose": "Current lesson step grows in."
+      },
+      {
+        "name": "stepper-end",
+        "value": "0.22s",
+        "purpose": "Travelled end of the lesson stepper glides."
+      },
+      {
+        "name": "here-ring",
+        "value": "0.24s, once",
+        "purpose": "Today's station ring grows in on first sight."
+      },
+      {
+        "name": "press",
+        "value": "1px sink",
+        "purpose": "Pressed controls sink instead of scaling."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "compact-nav",
+        "value": "820px",
+        "purpose": "Below this window width the station wall is 72px icon-only (232px otherwise)."
+      },
+      {
+        "name": "wide-home",
+        "value": "760px",
+        "purpose": "Home content switches to its wide arrangement."
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "The line-coloured main action; darkens on hover and press.",
+      "html": "<button class=\"ds-btn-primary\">Inizia la lezione di oggi</button>",
+      "css": ".ds-btn-primary{background:#284A9A;color:#fff;font:500 15px 'Noto Sans', sans-serif;height:36px;padding:7px 14px;border:none;border-radius:4px;cursor:pointer}.ds-btn-primary:hover{background:#234188}.ds-btn-primary:active{background:#203B7B;transform:translateY(1px)}.ds-btn-primary:focus-visible{outline:1.5px solid #284A9A;outline-offset:2px}"
+    },
+    {
+      "name": "Secondary Button",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "Outlined alternative action on enamel.",
+      "html": "<button class=\"ds-btn-secondary\">Ripassa 52 frasi</button>",
+      "css": ".ds-btn-secondary{background:#fff;color:#1C1C1C;font:500 15px 'Noto Sans', sans-serif;height:36px;padding:7px 14px;border:1px solid #D2CEC7;border-radius:4px;cursor:pointer}.ds-btn-secondary:hover{background:#F4F6FA;border-color:#284A9A}.ds-btn-secondary:active{background:#E5E9F3;border-color:#1E386E;transform:translateY(1px)}.ds-btn-secondary:focus-visible{outline:1.5px solid #284A9A;outline-offset:2px}"
+    },
+    {
+      "name": "Ghost Button",
+      "kind": "button",
+      "refersTo": "button-ghost",
+      "description": "Quiet borderless action; its surface shows on hover.",
+      "html": "<button class=\"ds-btn-ghost\">Rileggi una lezione</button>",
+      "css": ".ds-btn-ghost{background:transparent;color:#646464;font:400 15.5px 'Noto Sans', sans-serif;padding:7px 14px;border:none;border-radius:4px;cursor:pointer}.ds-btn-ghost:hover{background:#F4F6FA;color:#1C1C1C}.ds-btn-ghost:focus-visible{outline:1.5px solid #284A9A;outline-offset:2px}"
+    },
+    {
+      "name": "Text Field",
+      "kind": "input",
+      "refersTo": "text-field",
+      "description": "Field a step off the panel; accent ring on focus.",
+      "html": "<input class=\"ds-input\" placeholder=\"Scrivi la frase\">",
+      "css": ".ds-input{background:#F7F6F3;color:#1C1C1C;font:400 15.5px 'Noto Sans', sans-serif;padding:7px 10px;border:1px solid #D2CEC7;border-radius:4px;width:240px}.ds-input:focus-visible{outline:none;border-color:#284A9A;box-shadow:0 0 0 0.5px #284A9A}"
+    },
+    {
+      "name": "Station Wall Nav",
+      "kind": "nav",
+      "refersTo": "nav-item-selected",
+      "description": "Near-black sidebar; the selected item is filled in the line colour.",
+      "html": "<nav class=\"ds-nav\"><a class=\"ds-nav-item ds-on\">Inizio</a><a class=\"ds-nav-item\">Lezione di oggi</a><a class=\"ds-nav-item\">Ripasso<span>52</span></a></nav>",
+      "css": ".ds-nav{background:#1C1C1C;padding:18px 12px;width:208px;display:flex;flex-direction:column;gap:2px}.ds-nav-item{display:flex;justify-content:space-between;align-items:center;height:36px;padding:0 12px 0 42px;border-radius:4px;color:#D6D6D6;font:500 15px 'Noto Sans', sans-serif;cursor:pointer}.ds-nav-item span{color:#969696;font-size:12.5px}.ds-nav-item:hover{background:rgba(255,255,255,0.055)}.ds-nav-item.ds-on{background:#284A9A;color:#fff}"
+    },
+    {
+      "name": "Level Badge",
+      "kind": "chip",
+      "refersTo": "level-badge",
+      "description": "An ink square with light letters, as on a station sign.",
+      "html": "<span class=\"ds-badge\">A1</span>",
+      "css": ".ds-badge{display:inline-block;background:#1C1C1C;color:#F3F2EF;font:600 12.5px 'Archivo', 'Noto Sans', sans-serif;padding:1px 6px;border-radius:3px}"
+    },
+    {
+      "name": "Enamel Card",
+      "kind": "card",
+      "refersTo": "card",
+      "description": "White enamel panel with a hairline; the hero carries a 12px line-colour header.",
+      "html": "<div class=\"ds-card\"><div class=\"ds-card-head\"></div><h2>What does she do?</h2><p>Che lavoro fa?</p></div>",
+      "css": ".ds-card{position:relative;background:#fff;border:1px solid #E2DFDA;border-radius:6px;padding:36px 28px 24px;width:420px}.ds-card-head{position:absolute;top:0;left:0;right:0;height:12px;background:#284A9A;border-radius:6px 6px 0 0}.ds-card h2{margin:0;font:700 40px/1.1 'Archivo', 'Noto Sans', sans-serif;color:#1C1C1C}.ds-card p{margin:6px 0 0;font:400 19px 'Noto Sans', sans-serif;color:#646464}"
+    },
+    {
+      "name": "Line Band",
+      "kind": "custom",
+      "refersTo": "line-band",
+      "description": "The 52px band in the line colour naming the course and lesson.",
+      "html": "<div class=\"ds-band\"><span class=\"ds-band-tile\">A1</span>Inglese · Fondamenti · Lezione 9 di 100<em>Sabato 28 novembre</em></div>",
+      "css": ".ds-band{display:flex;align-items:center;gap:12px;height:52px;padding:0 16px;background:#284A9A;color:#fff;border-radius:4px;font:600 17px 'Archivo', 'Noto Sans', sans-serif;width:560px}.ds-band-tile{background:#fff;color:#284A9A;font:600 14px 'Archivo', 'Noto Sans', sans-serif;width:34px;height:26px;display:grid;place-items:center;border-radius:3px}.ds-band em{margin-left:auto;font:500 14px 'Noto Sans', sans-serif;font-style:normal}"
+    },
+    {
+      "name": "Segmented Control",
+      "kind": "custom",
+      "refersTo": "segmented-track",
+      "description": "Choices on a track; the chosen one sits on a gliding white chip.",
+      "html": "<div class=\"ds-seg\"><button class=\"ds-on\">Chiaro</button><button>Scuro</button><button>Sistema</button></div>",
+      "css": ".ds-seg{display:inline-flex;gap:4px;padding:4px;background:#E8E5E0;border-radius:6px}.ds-seg button{min-width:110px;height:34px;border:none;border-radius:4px;background:transparent;color:#646464;font:500 15px 'Noto Sans', sans-serif;cursor:pointer;transition:background .18s cubic-bezier(.33,1,.68,1)}.ds-seg button:hover{background:#F4F2F0}.ds-seg button.ds-on{background:#fff;color:#1C1C1C}"
+    },
+    {
+      "name": "Line Rail",
+      "kind": "custom",
+      "refersTo": "line-band",
+      "description": "The signature: a course as a metro line; done filled, today ringed, ahead hollow, revisions interchange.",
+      "html": "<svg class=\"ds-rail\" viewBox=\"0 0 360 60\" width=\"360\" height=\"60\"><line x1=\"0\" y1=\"20\" x2=\"360\" y2=\"20\" stroke=\"#B6C0D5\" stroke-width=\"8.8\"/><line x1=\"0\" y1=\"20\" x2=\"200\" y2=\"20\" stroke=\"#284A9A\" stroke-width=\"8.8\"/><circle cx=\"20\" cy=\"20\" r=\"8\" fill=\"#284A9A\"/><circle cx=\"20\" cy=\"20\" r=\"3.4\" fill=\"#fff\"/><circle cx=\"110\" cy=\"20\" r=\"8\" fill=\"#284A9A\"/><circle cx=\"110\" cy=\"20\" r=\"3.4\" fill=\"#fff\"/><circle cx=\"110\" cy=\"20\" r=\"15.2\" fill=\"none\" stroke=\"#284A9A\" stroke-width=\"1.5\"/><circle cx=\"200\" cy=\"20\" r=\"12\" fill=\"#fff\" stroke=\"#284A9A\" stroke-width=\"4.4\"/><circle cx=\"290\" cy=\"20\" r=\"8\" fill=\"#fff\" stroke=\"#B6C0D5\" stroke-width=\"3.2\"/><text x=\"200\" y=\"54\" text-anchor=\"middle\" font-family=\"Archivo, sans-serif\" font-weight=\"600\" font-size=\"14\" fill=\"#1C1C1C\">9</text><text x=\"290\" y=\"54\" text-anchor=\"middle\" font-family=\"Noto Sans, sans-serif\" font-size=\"12.5\" fill=\"#646464\">10</text></svg>",
+      "css": ".ds-rail{display:block}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Station Sign",
+    "overview": "Marea treats a course as a metro line and every lesson as a station on it. The whole interface is lettered like mid-century enamel station signage: a warm grey ground, white enamel panels with a thin hairline, a near-black wall for the sidebar, and one line colour per course that does all the colour work. The chrome itself is colourless; colour arrives only from the line the learner is riding.\n\nDensity is calm and book-like. One centred column of panels, generous padding inside each, big Archivo titles over quiet Noto Sans reading text. Depth is flat: panels separate from the ground by tone and a 1px hairline, never by shadow. Motion is small and purposeful: the current station's ring grows in once, a pointed station swells a little, the segmented chip and the lesson stepper glide with a strong ease-out.\n\nThe signature is the line rail, drawn wherever progress shows: the home path, the ten-step lesson stepper. Done stations are filled, today's is a large ring, those ahead are hollow, revisions carry a second interchange ring.",
+    "keyCharacteristics": [
+      "One line colour per course, set each frame; it fills the primary button, the selected nav item, the band and the travelled rail.",
+      "Archivo Bold and SemiBold for signage (titles, band, badges, station names); Noto Sans for everything read.",
+      "Square-ish corners: 3px tiles, 4px controls, 6px panels.",
+      "Flat enamel panels on a warm grey ground; a near-black station wall on the left.",
+      "Drawn one-stroke icons, never emoji or typed symbols.",
+      "Every colour has a light and a dark pair."
+    ],
+    "rules": [
+      {
+        "name": "The One Line Rule",
+        "body": "Colour on the chrome comes from the course's line colour and nothing else. A new surface takes `FILL`/`ACCENT` and their mixes; it never introduces its own accent hue.",
+        "section": "colors"
+      },
+      {
+        "name": "The Dark Pair Rule",
+        "body": "Every palette entry is declared as a light and a dark pair in `theme.rs`; marks drawn on the ground in a line colour go through `mark()` so they are lifted on dark.",
+        "section": "colors"
+      },
+      {
+        "name": "The Signage Voice Rule",
+        "body": "Archivo is for things a station sign would say: titles, the band, badges, station names. Anything the learner reads at length is Noto Sans.",
+        "section": "typography"
+      },
+      {
+        "name": "The Sentence Case Rule",
+        "body": "Labels are sentence case at 13px medium muted. No uppercase tracking.",
+        "section": "typography"
+      },
+      {
+        "name": "The Enamel Flat Rule",
+        "body": "Nothing on the page casts a shadow. Only floating layers (windows, popups, toasts) do.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do take every accent from the course's line colour (`FILL`, `ACCENT`, `ACCENT_SOFT`, `HOVER`) and put text on it with `text_on`.",
+      "Do declare any new colour as a light and dark pair in `theme.rs`.",
+      "Do set titles and signage in Archivo (`display`, `sign_family`) and reading text in Noto Sans.",
+      "Do use the `Btn` variants (primary, secondary, ghost, on-line) so every button answers hover and press.",
+      "Do draw progress as the line rail: filled done, ringed today, hollow ahead, double-ringed revisions.",
+      "Do keep corners at 3px, 4px or 6px and panels flat with a 1px hairline.",
+      "Do ease marks in with the shared cubic ease-out (`ease`, `glide`) at 0.12–0.24s."
+    ],
+    "donts": [
+      "Don't give the chrome its own accent hue or use the brand red outside the logo.",
+      "Don't colour level badges per level; they are ink squares on one line.",
+      "Don't put shadows under panels on the page.",
+      "Don't use emoji or typed symbols as icons; draw them with `Icon`.",
+      "Don't set uppercase tracked labels; labels are sentence case.",
+      "Don't use Archivo for paragraphs, translations or notes."
+    ]
+  }
+}

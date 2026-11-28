@@ -165,10 +165,10 @@ pub fn show_comparison(ui: &mut egui::Ui, c: &Comparison) {
         ui.spacing_mut().item_spacing.x = 5.0;
         match c.verdict {
             Verdict::Right => {
-                ui.label(medium(tr("✔ Right")).color(GOOD()));
+                theme::icon_label(ui, theme::Icon::Check, medium(tr("Right")), 15.5, GOOD());
                 return;
             }
-            Verdict::Accents => ui.label(medium(tr("≈ Right, check the accents:")).color(WARN())),
+            Verdict::Accents => theme::icon_label(ui, theme::Icon::Check, medium(tr("Right, check the accents:")), 15.5, WARN()),
             Verdict::Wrong => ui.label(medium(tr("Compare:")).color(BAD())),
         };
         for (w, mark) in &c.words {
@@ -255,7 +255,7 @@ impl App {
         let rec = self.recording(ci, wi);
         ui.horizontal(|ui| {
             theme::badge(ui, lesson.level.name(), lesson.level.color());
-            ui.label(bold(trf("Lesson {0} · {1}", &[&lesson.number, &lesson.title])).size(18.0));
+            ui.label(theme::display(trf("Lesson {0} · {1}", &[&lesson.number, &lesson.title])).size(18.0));
             ui.label(muted(lesson.title_in(&base)));
         });
         if lesson.revision {
@@ -298,9 +298,10 @@ impl App {
         let target_ready = self.voices.ready(lang);
         ui.horizontal_wrapped(|ui| {
             let drilling = self.current(tag).is_some();
-            let label = if drilling { tr("■ Stop") } else { tr("▶ Prompt and answer") };
-            let b = ui
-                .add_enabled(target_ready, theme::secondary(label))
+            let (label, icon) = if drilling { (tr("Stop"), theme::Icon::Stop) } else { (tr("Prompt and answer"), theme::Icon::Play) };
+            let b = ui.add_enabled(target_ready, theme::secondary(theme::icon_room(label, false)));
+            theme::button_icon(ui, &b, icon, if target_ready { theme::INK() } else { theme::MUTED() }, false);
+            let b = b
                 .on_hover_text(tr(
                     "The voice says each sentence in your language, waits while you say it, then says it in the language you learn",
                 ))
@@ -339,7 +340,7 @@ impl App {
                 let fill = if cur == Some(i) { ACCENT_SOFT() } else { egui::Color32::TRANSPARENT };
                 egui::Frame::new()
                     .fill(fill)
-                    .corner_radius(10)
+                    .corner_radius(4)
                     .inner_margin(egui::Margin::symmetric(10, 8))
                     .show(ui, |ui| {
                         ui.set_width(ui.available_width());
@@ -367,7 +368,7 @@ impl App {
                                     });
                                 } else {
                                     ui.horizontal(|ui| {
-                                        if target_ready && ui.add(theme::ghost("▶").small()).clicked() {
+                                        if target_ready && theme::icon_ghost(ui, theme::Icon::Play, tr("Listen")).clicked() {
                                             play = Some(i);
                                         }
                                         ui.label(bold(it.plain()).size(18.0).color(ACCENT()));
@@ -452,7 +453,7 @@ impl App {
                     ui.set_width(ui.available_width());
                     ui.horizontal(|ui| {
                         ui.label(caps(tr("A model answer")));
-                        if can_play && ui.add(theme::ghost("▶").small()).clicked() {
+                        if can_play && theme::icon_ghost(ui, theme::Icon::Play, tr("Listen")).clicked() {
                             play = Some(i);
                         }
                     });

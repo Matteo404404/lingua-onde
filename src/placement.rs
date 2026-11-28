@@ -14,7 +14,7 @@ use crate::i18n::{tr, trf};
 use crate::model::{Course, Item, Lesson, Level, lang_name};
 use crate::practice::{Verdict, compare, fold};
 use crate::store::{LevelTest, day_key, today};
-use crate::theme::{self, ACCENT, ACCENT_SOFT, BAD, CARD, GOOD, INK, LINE, bold, caps, medium, muted};
+use crate::theme::{self, ACCENT, ACCENT_SOFT, BAD, GOOD, INK, LINE, caps, medium, muted};
 
 use crate::speech;
 
@@ -543,7 +543,7 @@ impl App {
     fn level_choice(&mut self, ui: &mut egui::Ui, st: &LevelState) -> Act {
         let base = self.base();
         let mut act = Act::None;
-        if ui.add(theme::ghost(tr("‹  Back"))).clicked() {
+        if theme::icon_button(ui, theme::ghost(theme::icon_room(tr("Back"), false)), theme::Icon::Back, theme::MUTED(), false).clicked() {
             act = Act::Back;
         }
         theme::page_title(
@@ -551,7 +551,7 @@ impl App {
             &trf("{0}: where do you start?", &[&lang_name(&st.lang, &base)]),
             tr("From the very first lesson, or from the lesson that fits what you already know. You can take the test again any time from Courses."),
         );
-        let card = |ui: &mut egui::Ui, title: &str, text: &str, button: egui::Button<'static>| -> bool {
+        let card = |ui: &mut egui::Ui, title: &str, text: &str, button: theme::Btn| -> bool {
             ui.with_layout(egui::Layout::top_down(egui::Align::Min), |ui| {
                 theme::card()
                     .show(ui, |ui| {
@@ -624,7 +624,7 @@ impl App {
         let mut act = Act::None;
 
         ui.horizontal(|ui| {
-            ui.label(bold(tr("Find your level")).size(24.0));
+            ui.label(theme::display(tr("Find your level")).size(24.0));
             ui.with_layout(egui::Layout::right_to_left(egui::Align::Center), |ui| {
                 if ui.add(theme::ghost(tr("Stop the test"))).clicked() {
                     act = Act::Stop;
@@ -640,9 +640,9 @@ impl App {
                 };
                 theme::badge(ui, l.name(), color);
             }
-            ui.label(muted(trf("Level {0} · question {1} of {2}", &[&levels[at.0].name(), &k, &n])));
+            ui.label(muted(trf("Level {0} · {1} · question {2} of {3}", &[&levels[at.0].name(), &q.skill.name(), &k, &n])));
         });
-        theme::bar(ui, (k - 1) as f32 / n.max(1) as f32, ui.available_width(), levels[at.0].color());
+        theme::bar(ui, (k - 1) as f32 / n.max(1) as f32, ui.available_width(), theme::mark(levels[at.0].color()));
         ui.add_space(10.0);
 
         // Listening needs a voice and a player; without them it can only be skipped.
@@ -650,8 +650,6 @@ impl App {
         let mut score = None;
         theme::card().inner_margin(22).show(ui, |ui| {
             ui.set_width(ui.available_width());
-            ui.label(caps(q.skill.name()));
-            ui.add_space(2.0);
             match &q.kind {
                 Kind::Choice { text, options, answer } => {
                     if q.skill == Skill::Listening {
@@ -668,7 +666,7 @@ impl App {
                             }
                             let playing = self.current("level-test").is_some();
                             ui.horizontal(|ui| {
-                                let glyph = if playing { "🔊" } else { "▶" };
+                                let glyph = if playing { theme::Icon::Speaker } else { theme::Icon::Play };
                                 if theme::round_button(ui, glyph, 46.0, ACCENT()).on_hover_text(tr("Listen again")).clicked() {
                                     self.play_seq("level-test", &lang, vec![text.clone()], 0, true);
                                 }
@@ -688,10 +686,10 @@ impl App {
                             let on = st.choice == Some(i);
                             let b = egui::Button::new(RichText::new(o).size(16.0).color(INK()))
                                 .wrap()
-                                .fill(if on { ACCENT_SOFT() } else { CARD() })
-                                .stroke(egui::Stroke::new(if on { 2.0 } else { 1.0 }, if on { ACCENT() } else { LINE() }))
-                                .corner_radius(12)
+                                .corner_radius(4)
                                 .min_size(egui::vec2(ui.available_width(), 44.0));
+                            // Only the chosen answer is fixed; the others keep the hover step.
+                            let b = if on { b.fill(ACCENT_SOFT()).stroke(egui::Stroke::new(2.0, ACCENT())) } else { b };
                             if ui.add(b).clicked() {
                                 st.choice = Some(i);
                             }
@@ -753,7 +751,7 @@ impl App {
                     act = Act::Answer(0.0);
                 }
                 ui.with_layout(egui::Layout::right_to_left(egui::Align::Center), |ui| {
-                    if ui.add_enabled(score.is_some(), theme::big_primary(tr("Next  ›"))).clicked() {
+                    if ui.add_enabled(score.is_some(), theme::big_primary(tr("Next"))).clicked() {
                         act = Act::Answer(score.unwrap_or(0.0));
                     }
                 });
@@ -769,7 +767,7 @@ impl App {
         let level = test.reached();
         let start = start_band(&self.level_bands(&st.lang), level).and_then(|b| self.band_start(b));
         let mut act = Act::None;
-        ui.label(bold(tr("Find your level")).size(24.0));
+        ui.label(theme::display(tr("Find your level")).size(24.0));
         ui.add_space(6.0);
         theme::card().inner_margin(22).show(ui, |ui| {
             ui.set_width(ui.available_width());
@@ -777,10 +775,10 @@ impl App {
             ui.horizontal(|ui| match level {
                 Some(l) => {
                     theme::badge(ui, l.name(), l.color());
-                    ui.label(bold(l.describe()).size(24.0));
+                    ui.label(theme::display(l.describe()).size(24.0));
                 }
                 None => {
-                    ui.label(bold(tr("A fresh start: the first lesson is the right one")).size(22.0));
+                    ui.label(theme::display(tr("A fresh start: the first lesson is the right one")).size(22.0));
                 }
             });
             ui.add_space(6.0);
@@ -801,7 +799,7 @@ impl App {
                 ui.label(caps(tr("You start at")));
                 ui.horizontal(|ui| {
                     theme::badge(ui, l.level.name(), l.level.color());
-                    ui.label(bold(format!("{} · {}", self.course_label(ci), trf("Lesson {0}", &[&l.number]))).size(18.0));
+                    ui.label(theme::display(format!("{} · {}", self.course_label(ci), trf("Lesson {0}", &[&l.number]))).size(18.0));
                 });
                 ui.label(medium(format!("{} · {}", l.title, l.title_in(&base))));
                 if li > 0 || self.level_courses(&st.lang).first() != Some(&ci) {

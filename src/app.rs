@@ -618,8 +618,7 @@ impl App {
                         Some(st) => format!("{}   {}", st.name(&base), st.span()),
                         None => sc.name_in(&base).to_string(),
                     };
-                    let mark = if i == ci { "✔  " } else { "     " };
-                    if ui.add(egui::Button::selectable(i == ci, format!("{mark}{name}"))).clicked() {
+                    if ui.add(egui::Button::selectable(i == ci, name)).clicked() {
                         pick = Some(i);
                     }
                 }
@@ -692,8 +691,6 @@ impl App {
     fn home(&mut self, ui: &mut egui::Ui) {
         let ci = self.active();
         let t = today();
-        let today_log = self.saved.days.get(&day_key(t)).cloned().unwrap_or_default();
-        let total_done: usize = (0..self.courses.len()).map(|i| self.done_count(i)).sum();
         let due = self.cards_due();
         let wide = ui.available_width() >= 760.0;
 
@@ -729,31 +726,6 @@ impl App {
         }
         ui.add_space(16.0);
 
-        // The day in three plain figures.
-        let minutes = (today_log.seconds / 60.0).floor() as u32;
-        let goal = self.saved.daily_goal_min.max(1);
-        let stats = [
-            (days(self.saved.streak()), tr("study streak")),
-            (trf("{0} / {1} min", &[&minutes, &goal]), tr("studied today")),
-            (total_done.to_string(), tr("lessons completed")),
-        ];
-        theme::card().show(ui, |ui| {
-            ui.set_width(ui.available_width());
-            let per_row = if ui.available_width() >= 520.0 { 3 } else { 1 };
-            for row in stats.chunks(per_row) {
-                ui.columns(per_row, |cols| {
-                    for (col, (value, label)) in cols.iter_mut().zip(row) {
-                        col.with_layout(egui::Layout::top_down(egui::Align::Min), |ui| {
-                            ui.spacing_mut().item_spacing.y = 2.0;
-                            ui.label(theme::display(value.as_str()).size(26.0));
-                            ui.label(muted(*label).size(13.5));
-                        });
-                    }
-                });
-            }
-        });
-        ui.add_space(16.0);
-
         if let Some(c) = self.courses.get(ci).cloned() {
             self.path_card(ui, ci, &c, wide);
         }
@@ -772,21 +744,20 @@ impl App {
     fn hero(&mut self, ui: &mut egui::Ui, ci: usize, c: &Course, studied_today: bool, due: usize) {
         let base = self.base();
         let light = MUTED();
-        theme::card()
-            .inner_margin(egui::Margin::symmetric(28, 24))
+        let panel = theme::card()
+            .inner_margin(egui::Margin { left: 28, right: 28, top: 36, bottom: 24 })
             .show(ui, |ui| {
                 ui.set_width(ui.available_width());
                 match self.next_lesson(ci) {
                     Some(li) => {
                         let l = &c.lessons[li];
-                        ui.label(theme::display(&l.title).size(44.0).color(INK()));
+                        ui.label(theme::display(&l.title).size(52.0).color(INK()));
                         ui.label(RichText::new(l.title_in(&base)).size(19.0).color(light));
-                        ui.add_space(8.0);
-                        ui.add_space(6.0);
+                        ui.add_space(12.0);
                         if studied_today {
                             ui.label(
                                 RichText::new(tr(
-                                    "✔ You did today's lesson. One lesson a day is the rhythm of the method: the next one will be easier tomorrow.",
+                                    "You did today's lesson. One lesson a day is the rhythm of the method: the next one will be easier tomorrow.",
                                 ))
                                 .size(14.0)
                                 .color(light),
@@ -794,7 +765,7 @@ impl App {
                         }
                         if self.saved.progress(&c.lesson_key(l.number)).is_some_and(|p| p.again) {
                             ui.label(
-                                RichText::new(tr("↻ You chose to go over this lesson again. Repeating is part of the method."))
+                                RichText::new(tr("You chose to go over this lesson again. Repeating is part of the method."))
                                     .size(14.0)
                                     .color(light),
                             );
@@ -802,12 +773,17 @@ impl App {
                         // Today's path: the new lesson, the active wave, the sentence review.
                         let gold = WARN();
                         ui.horizontal_wrapped(|ui| {
+                            // Each item wraps as a whole, never leaving a word alone.
+                            ui.style_mut().wrap_mode = Some(egui::TextWrapMode::Extend);
+                            // Each part of today is a station: hollow to do, ticked when done.
                             let step = |ui: &mut egui::Ui, done: bool, text: String| {
-                                let (icon, color) = if done { ("✔", light) } else { ("○", INK()) };
-                                ui.label(RichText::new(format!("{icon} {text}")).size(14.0).color(color));
+                                let (icon, color) = if done { (theme::Icon::Check, light) } else { (theme::Icon::Station, INK()) };
+                                theme::icon_label(ui, icon, RichText::new(text), 14.0, color);
                             };
                             ui.label(medium(tr("Today")).size(14.0).color(INK()));
                             step(ui, studied_today, trf("new lesson {0}", &[&l.number]));
+                            let minutes = (self.saved.days.get(&day_key(today())).map_or(0.0, |d| d.seconds) / 60.0).floor() as u32;
+                            ui.label(RichText::new(format!("· {}", trf("{0} / {1} min", &[&minutes, &self.saved.daily_goal_min.max(1)]))).size(14.0).color(light));
                             match self.wave2_for(ci, li) {
                                 Some((wc, w)) if wc == ci => {
                                     step(ui, false, trf("active wave: lesson {0}", &[&c.lessons[w].number]))
@@ -819,21 +795,17 @@ impl App {
                                 ),
                                 None if l.number < self.saved.wave2_gap + 1 => {
                                     let carried = self.wave2_left(ci) > self.wave2_open(ci).len();
-                                    ui.label(
-                                        RichText::new(if carried {
-                                            tr("✔ today's active wave done").to_string()
-                                        } else {
-                                            trf("· active wave from lesson {0}", &[&(self.saved.wave2_gap + 1)])
-                                        })
-                                            .size(14.0)
-                                            .color(light),
-                                    )
-                                    .on_hover_text(tr("The active wave: from that lesson on, each day you also go back to an earlier lesson and rebuild its text from your language. Review shows it."));
+                                    let hint = if carried {
+                                        theme::icon_label(ui, theme::Icon::Check, RichText::new(tr("today's active wave done")), 14.0, light)
+                                    } else {
+                                        ui.label(RichText::new(trf("· active wave from lesson {0}", &[&(self.saved.wave2_gap + 1)])).size(14.0).color(light))
+                                    };
+                                    hint.on_hover_text(tr("The active wave: from that lesson on, each day you also go back to an earlier lesson and rebuild its text from your language. Review shows it."));
                                 }
                                 None => {}
                             }
                             if due > 0 {
-                                ui.label(RichText::new(plural(due, "○ review {0} sentence", "○ review {0} sentences")).size(14.0).color(gold));
+                                theme::icon_label(ui, theme::Icon::Station, RichText::new(plural(due, "review {0} sentence", "review {0} sentences")), 14.0, gold);
                             }
                         });
                         ui.add_space(8.0);
@@ -842,48 +814,25 @@ impl App {
                                 .saved
                                 .progress(&c.lesson_key(l.number))
                                 .is_some_and(|p| !p.steps_done.is_empty());
-                            let start = egui::Button::new(
-                                medium(if resumable {
-                                    tr("▶  Continue the lesson")
-                                } else {
-                                    tr("▶  Start today's lesson")
-                                })
-                                .size(16.0)
-                                .color(theme::ON_FILL()),
-                            )
-                            .fill(theme::FILL())
-                            .stroke(egui::Stroke::NONE)
-                            .corner_radius(4)
-                            .min_size(egui::vec2(220.0, 48.0));
+                            let hero = egui::vec2(220.0, 48.0);
+                            let start = theme::big_primary(theme::icon_room(
+                                if resumable { tr("Continue the lesson") } else { tr("Start today's lesson") },
+                                false,
+                            ))
+                            .min_size(hero);
                             let intro_first = self.needs_intro(ci);
                             // A new language: its first lesson, or the level test.
                             let offer = self.offer_placement(ci);
-                            let start_first = egui::Button::new(medium(tr("▶  Start from the first lesson")).size(16.0).color(theme::ON_FILL()))
-                                .fill(theme::FILL())
-                                .stroke(egui::Stroke::NONE)
-                                .corner_radius(4)
-                                .min_size(egui::vec2(220.0, 48.0));
-                            let start = if intro_first {
-                                egui::Button::new(medium(tr("Start with the introduction")).size(16.0).color(theme::ON_FILL()))
-                                    .fill(theme::FILL())
-                                    .stroke(egui::Stroke::NONE)
-                                    .corner_radius(4)
-                                    .min_size(egui::vec2(220.0, 48.0))
-                            } else {
-                                start
-                            };
+                            let start_first = theme::big_primary(theme::icon_room(tr("Start from the first lesson"), false)).min_size(hero);
+                            let start = if intro_first { theme::big_primary(tr("Start with the introduction")).min_size(hero) } else { start };
                             // After today's lesson the method says stop: the next one
                             // stays reachable, but only through a quieter link below.
                             let rest = studied_today && !resumable && !intro_first;
                             if offer {
-                                if ui.add(start_first).clicked() {
+                                if theme::icon_button(ui, start_first, theme::Icon::Play, theme::ON_FILL(), false).clicked() {
                                     self.first_lesson(&c.lang, None);
                                 }
-                                let find = egui::Button::new(medium(tr("Find your level")).color(INK()))
-                                    .fill(theme::CARD())
-                                    .stroke(egui::Stroke::new(1.0, theme::CONTROL_LINE()))
-                                    .corner_radius(4)
-                                    .min_size(egui::vec2(0.0, 48.0));
+                                let find = theme::secondary(tr("Find your level")).min_size(egui::vec2(0.0, 48.0));
                                 if ui.add(find).clicked() {
                                     self.open_placement(&c.lang);
                                 }
@@ -893,9 +842,9 @@ impl App {
                                     .corner_radius(4)
                                     .inner_margin(egui::Margin::symmetric(18, 13))
                                     .show(ui, |ui| {
-                                        ui.label(medium(tr("✔  You're done for today")).size(16.0).color(INK()));
+                                        theme::icon_label(ui, theme::Icon::Check, medium(tr("You're done for today")), 16.0, INK());
                                     });
-                            } else if ui.add(start).clicked() {
+                            } else if (if intro_first { ui.add(start) } else { theme::icon_button(ui, start, theme::Icon::Play, theme::ON_FILL(), false) }).clicked() {
                                 if intro_first {
                                     self.open_book(0);
                                 } else {
@@ -903,12 +852,9 @@ impl App {
                                 }
                             }
                             if due > 0 {
-                                let review = egui::Button::new(medium(plural(due, "⟳  Review {0} sentence", "⟳  Review {0} sentences")).color(INK()))
-                                    .fill(theme::CARD())
-                                    .stroke(egui::Stroke::new(1.0, theme::CONTROL_LINE()))
-                                    .corner_radius(4)
+                                let review = theme::secondary(theme::icon_room(&plural(due, "Review {0} sentence", "Review {0} sentences"), false))
                                     .min_size(egui::vec2(0.0, 48.0));
-                                if ui.add(review).clicked() {
+                                if theme::icon_button(ui, review, theme::Icon::Review, INK(), false).clicked() {
                                     self.go(Screen::Review);
                                 }
                             }
@@ -919,14 +865,8 @@ impl App {
                             .is_some_and(|p| !p.steps_done.is_empty());
                         if studied_today && !resumable && !self.needs_intro(ci) {
                             ui.add_space(6.0);
-                            let more = egui::Button::new(
-                                RichText::new(trf("I really want to do another lesson today: start lesson {0}", &[&l.number]))
-                                    .size(13.5)
-                                    .color(light)
-                                    .underline(),
-                            )
-                            .frame(false);
-                            if ui.add(more).clicked() {
+                            let more = trf("I really want to do another lesson today: start lesson {0}", &[&l.number]);
+                            if theme::text_link(ui, more, 13.5).clicked() {
                                 self.start_session(ci, li);
                             }
                         }
@@ -938,11 +878,7 @@ impl App {
                                     .size(14.0)
                                     .color(light),
                             );
-                            let skip = egui::Button::new(
-                                RichText::new(tr("I already know the method: start lesson 1")).size(13.5).color(light).underline(),
-                            )
-                            .frame(false);
-                            if ui.add(skip).clicked() {
+                            if theme::text_link(ui, tr("I already know the method: start lesson 1"), 13.5).clicked() {
                                 self.begin_course(ci);
                             }
                         }
@@ -956,14 +892,14 @@ impl App {
                             let playing = self.seq.as_ref().is_some_and(|s| s.tag == "short");
                             let pl = &c.lessons[j];
                             let label = if playing {
-                                tr("■  Stop").to_string()
+                                tr("Stop").to_string()
                             } else if self.voices.ready(&c.lang) {
                                 trf("Only a few minutes today? Listen to lesson {0} again and repeat it aloud.", &[&pl.number])
                             } else {
                                 trf("Only a few minutes today? Read lesson {0} again, aloud.", &[&pl.number])
                             };
                             ui.add_space(6.0);
-                            if ui.add(egui::Button::new(RichText::new(label).size(14.0).color(light)).frame(false)).clicked() {
+                            if theme::text_link(ui, label, 14.0).clicked() {
                                 if playing {
                                     self.stop_audio();
                                 } else if self.voices.ready(&c.lang) {
@@ -977,7 +913,7 @@ impl App {
                         }
                     }
                     None if self.unwritten(ci) => {
-                        ui.label(bold(tr("Next lessons on the way")).size(30.0).color(INK()));
+                        ui.label(theme::display(tr("Next lessons on the way")).size(30.0).color(INK()));
                         ui.label(
                             RichText::new(tr(
                                 "You have done every lesson written so far; the rest of this course is still being written. Meanwhile, review, or choose another course in Courses.",
@@ -1007,7 +943,7 @@ impl App {
                         let left = self.wave2_left(ci);
                         if let Some(&(wc, w)) = pending.first() {
                             let wl = &self.courses[wc].lessons[w];
-                            ui.label(bold(tr("✔ Every lesson read")).size(30.0).color(INK()));
+                            ui.label(theme::display(tr("Every lesson read")).size(30.0).color(INK()));
                             ui.label(
                                 RichText::new(format!(
                                     "{} {then}",
@@ -1021,20 +957,16 @@ impl App {
                             );
                             ui.add_space(8.0);
                             let label = if wc == ci {
-                                trf("▶  Active wave: lesson {0}", &[&wl.number])
+                                trf("Active wave: lesson {0}", &[&wl.number])
                             } else {
-                                trf("▶  Active wave: {0} lesson {1}", &[&self.stage_name(wc), &wl.number])
+                                trf("Active wave: {0} lesson {1}", &[&self.stage_name(wc), &wl.number])
                             };
-                            let go = egui::Button::new(medium(label).size(16.0).color(theme::ON_FILL()))
-                                .fill(theme::FILL())
-                                .stroke(egui::Stroke::NONE)
-                                .corner_radius(4)
-                                .min_size(egui::vec2(220.0, 48.0));
-                            if ui.add(go).clicked() {
+                            let go = theme::big_primary(theme::icon_room(&label, false)).min_size(egui::vec2(220.0, 48.0));
+                            if theme::icon_button(ui, go, theme::Icon::Play, theme::ON_FILL(), false).clicked() {
                                 self.open_wave(wc, w);
                             }
                         } else if left > 0 {
-                            ui.label(bold(tr("✔ Today's active wave is done")).size(30.0).color(INK()));
+                            ui.label(theme::display(tr("Today's active wave is done")).size(30.0).color(INK()));
                             ui.label(
                                 RichText::new(format!(
                                     "{} {then}",
@@ -1047,7 +979,7 @@ impl App {
                                 .color(light),
                             );
                         } else {
-                            ui.label(bold(tr("Course complete")).size(30.0).color(INK()));
+                            ui.label(theme::display(tr("Course complete")).size(30.0).color(INK()));
                             ui.label(
                                 RichText::new(match next_stage {
                                     Some(si) => trf(
@@ -1062,17 +994,17 @@ impl App {
                         // The book ends with its appendix: the grammar to look back on.
                         if self.appendix().is_some_and(|a| !a.grammar.is_empty()) {
                             ui.add_space(6.0);
-                            let book = egui::Button::new(
-                                RichText::new(tr("The end of the book: the grammar summary and the indexes")).size(14.0).color(light),
-                            )
-                            .frame(false);
-                            if ui.add(book).clicked() {
+                            if theme::text_link(ui, tr("The end of the book: the grammar summary and the indexes"), 14.0).clicked() {
                                 self.open_book(3);
                             }
                         }
                     }
                 }
             });
+        // The sign's enamel header: a strip of the line's colour across the top.
+        let rect = panel.response.rect;
+        let head = egui::Rect::from_min_size(rect.min, egui::vec2(rect.width(), 12.0));
+        ui.painter().rect_filled(head, egui::CornerRadius { nw: 6, ne: 6, sw: 0, se: 0 }, theme::FILL());
     }
 
     /// Progress through the language's three courses and the levels of this one.
@@ -1082,7 +1014,7 @@ impl App {
             ui.set_width(ui.available_width());
             let mut all = false;
             let mut reread = false;
-            ui.horizontal(|ui| {
+            let title = |ui: &mut egui::Ui| {
                 ui.vertical(|ui| {
                     ui.spacing_mut().item_spacing.y = 0.0;
                     ui.label(theme::display(tr("Your path")).size(19.0));
@@ -1091,14 +1023,25 @@ impl App {
                         &[&self.course_label(ci), &self.done_count(ci), &c.lessons.len()],
                     )));
                 });
-                ui.with_layout(egui::Layout::right_to_left(egui::Align::Center), |ui| {
-                    all = ui.add(theme::ghost(tr("All courses →"))).clicked();
-                    // Finished lessons can be read again in the book; the link says so where the progress is.
-                    if self.done_count(ci) > 0 {
-                        reread = ui.add(theme::ghost(tr("Reread a lesson →"))).clicked();
-                    }
+            };
+            // The links: "All courses" and, once a lesson is done, rereading
+            // one in the book, where the progress is.
+            let links = |ui: &mut egui::Ui, all: &mut bool, reread: &mut bool| {
+                *all = theme::icon_button(ui, theme::ghost(theme::icon_room(tr("All courses"), true)), theme::Icon::Arrow, MUTED(), true).clicked();
+                if self.done_count(ci) > 0 {
+                    *reread = theme::icon_button(ui, theme::ghost(theme::icon_room(tr("Reread a lesson"), true)), theme::Icon::Arrow, MUTED(), true).clicked();
+                }
+            };
+            if ui.available_width() >= 760.0 {
+                ui.horizontal(|ui| {
+                    title(ui);
+                    ui.with_layout(egui::Layout::right_to_left(egui::Align::Center), |ui| links(ui, &mut all, &mut reread));
                 });
-            });
+            } else {
+                // Too narrow to share a row: the links go under the title.
+                title(ui);
+                ui.horizontal(|ui| links(ui, &mut all, &mut reread));
+            }
             if all {
                 self.go(Screen::Courses);
             }
@@ -1123,7 +1066,17 @@ impl App {
                         } else {
                             theme::Stop::Ahead
                         };
-                        (stop, l.revision, l.number.to_string())
+                        // Stations are named as on the map: revisions as such, and
+                        // today's with its title.
+                        let label = if stop == theme::Stop::Here {
+                            let t: String = l.title.chars().take(24).collect();
+                            format!("{} {}{}", l.number, t, if l.title.chars().count() > 24 { "…" } else { "" })
+                        } else if l.revision {
+                            format!("{} {}", l.number, tr("Review"))
+                        } else {
+                            l.number.to_string()
+                        };
+                        (stop, l.revision, label)
                     })
                     .collect();
                 let (resp, hovered) = theme::line_rail(ui, &stops, 40.0);
@@ -1153,7 +1106,7 @@ impl App {
                         col.with_layout(egui::Layout::top_down(egui::Align::Min), |ui| {
                             ui.spacing_mut().item_spacing.y = 4.0;
                             let frac = if keys.is_empty() { 0.0 } else { done as f32 / keys.len() as f32 };
-                            theme::bar_on(ui, frac, ui.available_width(), theme::FILL(), theme::TRACK());
+                            theme::bar_on(ui, frac, ui.available_width(), theme::line_ink(), theme::TRACK());
                             ui.horizontal(|ui| {
                                 theme::badge(ui, lvl.name(), lvl.color());
                                 ui.label(medium(format!("{done} / {}", keys.len())).color(if here { INK() } else { MUTED() }));
@@ -1171,9 +1124,9 @@ impl App {
             ui.set_width(ui.available_width());
             let weeks = (((ui.available_width() - 22.0) / 17.0).floor() as usize).clamp(8, 30);
             ui.horizontal(|ui| {
-                ui.label(bold(tr("Study calendar")).size(18.0));
+                ui.label(theme::display(tr("Study calendar")).size(18.0));
                 ui.with_layout(egui::Layout::right_to_left(egui::Align::Center), |ui| {
-                    ui.label(muted(trf("last {0} weeks", &[&weeks])).size(13.0));
+                    ui.label(muted(format!("{} · {}", days(self.saved.streak()), trf("last {0} weeks", &[&weeks]))).size(13.0));
                 });
             });
             self.heatmap(ui, weeks);
@@ -1186,7 +1139,7 @@ impl App {
         let active_lang = self.courses.get(active).map(|c| c.lang.clone()).unwrap_or_default();
         theme::card().show(ui, |ui| {
             ui.set_width(ui.available_width());
-            ui.label(bold(tr("Your languages")).size(18.0));
+            ui.label(theme::display(tr("Your languages")).size(18.0));
             ui.add_space(2.0);
             let bar_w = (ui.available_width() - 290.0).clamp(40.0, 200.0);
             let mut choose = None;
@@ -1226,7 +1179,7 @@ impl App {
                         .unwrap_or_else(|| tr("your lessons").into());
                     let (bar, _) = ui.allocate_exact_size(egui::vec2(bar_w, 8.0), egui::Sense::hover());
                     ui.put(bar, |ui: &mut egui::Ui| {
-                        theme::bar(ui, done as f32 / c.lessons.len().max(1) as f32, bar_w, lang_color(&lang));
+                        theme::bar(ui, done as f32 / c.lessons.len().max(1) as f32, bar_w, theme::mark(lang_color(&lang)));
                         ui.response()
                     })
                     .on_hover_text(stage);
@@ -1340,39 +1293,55 @@ impl App {
         for lang in &langs {
             let mut ids: Vec<usize> = (0..self.courses.len()).filter(|&i| self.courses[i].builtin && &self.courses[i].lang == lang).collect();
             ids.sort_by_key(|&i| self.courses[i].stage.map(|s| s as u8));
-            theme::card().show(ui, |ui| {
+            // One station sign per language: its line colour as the head, its
+            // three courses as cells divided by rules.
+            let color = lang_color(lang);
+            let fg = theme::text_on(color);
+            theme::card().inner_margin(0).show(ui, |ui| {
                 ui.set_width(ui.available_width());
-                ui.horizontal(|ui| {
-                    theme::lang_badge(ui, lang, lang_color(lang), 44.0);
-                    ui.vertical(|ui| {
-                        ui.spacing_mut().item_spacing.y = 0.0;
-                        ui.label(bold(lang_name(lang, &base)).size(20.0));
-                        let native = crate::model::lang(lang).map(|l| l.native).unwrap_or(lang);
-                        ui.label(muted(native));
-                    });
-                    ui.with_layout(egui::Layout::right_to_left(egui::Align::Center), |ui| {
-                        // Opens that language's guide without switching the course being studied.
-                        if store::pronunciation_key(lang).is_some() && ui.add(theme::ghost(tr("Pronunciation"))).clicked() {
-                            guide = Some(lang.clone());
-                        }
-                        if !self.level_bands(lang).is_empty() && ui.add(theme::ghost(tr("Find your level"))).clicked() {
-                            find_level = Some(lang.clone());
-                        }
-                    });
-                });
-                ui.add_space(10.0);
-                ui.columns(ids.len().max(1), |cols| {
-                    for (col, &i) in cols.iter_mut().zip(&ids) {
-                        match self.course_tile(col, i, i == active) {
-                            Tile::Choose => choose = Some(i),
-                            Tile::Study => go_study = true,
-                            Tile::Link => link = Some(i),
-                            Tile::Copy => copy = Some(i),
-                            Tile::FromRecordings => from_rec = Some(i),
-                            Tile::None => {}
-                        }
+                let (head, _) = ui.allocate_exact_size(egui::vec2(ui.available_width(), 60.0), egui::Sense::hover());
+                let p = ui.painter();
+                p.rect_filled(head, egui::CornerRadius { nw: 6, ne: 6, sw: 0, se: 0 }, color);
+                let tile = egui::Rect::from_center_size(egui::pos2(head.left() + 36.0, head.center().y), egui::vec2(36.0, 36.0));
+                p.rect_filled(tile, 4, fg);
+                p.text(tile.center(), egui::Align2::CENTER_CENTER, lang.to_uppercase(), egui::FontId::new(15.0, theme::sign_family()), color);
+                p.text(egui::pos2(tile.right() + 14.0, head.center().y - 9.0), egui::Align2::LEFT_CENTER, lang_name(lang, &base), egui::FontId::new(20.0, theme::display_family()), fg);
+                let native = crate::model::lang(lang).map(|l| l.native).unwrap_or(lang);
+                p.text(egui::pos2(tile.right() + 14.0, head.center().y + 12.0), egui::Align2::LEFT_CENTER, native, egui::FontId::proportional(13.5), theme::lerp(fg, color, 0.3));
+                // The language's own actions, on the sign's head.
+                let actions = egui::Rect::from_min_max(egui::pos2(head.center().x, head.top()), egui::pos2(head.right() - 12.0, head.bottom()));
+                ui.scope_builder(egui::UiBuilder::new().max_rect(actions).layout(egui::Layout::right_to_left(egui::Align::Center)), |ui| {
+                    let action = |t: &str| theme::on_line(t, fg);
+                    // Opens that language's guide without switching the course being studied.
+                    if store::pronunciation_key(lang).is_some() && ui.add(action(tr("Pronunciation"))).clicked() {
+                        guide = Some(lang.clone());
+                    }
+                    if !self.level_bands(lang).is_empty() && ui.add(action(tr("Find your level"))).clicked() {
+                        find_level = Some(lang.clone());
                     }
                 });
+                let body = egui::Frame::new().inner_margin(egui::Margin::same(16)).show(ui, |ui| {
+                    ui.set_width(ui.available_width());
+                    ui.columns(ids.len().max(1), |cols| {
+                        for (col, &i) in cols.iter_mut().zip(&ids) {
+                            match self.course_tile(col, i, i == active) {
+                                Tile::Choose => choose = Some(i),
+                                Tile::Study => go_study = true,
+                                Tile::Link => link = Some(i),
+                                Tile::Copy => copy = Some(i),
+                                Tile::FromRecordings => from_rec = Some(i),
+                                Tile::None => {}
+                            }
+                        }
+                    });
+                });
+                // Rules between the courses.
+                let r = body.response.rect;
+                let n = ids.len().max(1);
+                for k in 1..n {
+                    let x = r.left() + 16.0 + (r.width() - 32.0) * k as f32 / n as f32;
+                    ui.painter().vline(x, (r.top() + 12.0)..=(r.bottom() - 12.0), egui::Stroke::new(1.0, LINE()));
+                }
             });
             ui.add_space(8.0);
         }
@@ -1382,7 +1351,7 @@ impl App {
         ui.horizontal(|ui| {
             theme::section(ui, tr("Your own courses"));
             ui.with_layout(egui::Layout::right_to_left(egui::Align::Center), |ui| {
-                new_course |= ui.add(theme::secondary(tr("＋ New course"))).clicked();
+                new_course |= ui.add(theme::secondary(tr("New course"))).clicked();
             });
         });
         let own: Vec<usize> = (0..self.courses.len()).filter(|&i| !self.courses[i].builtin).collect();
@@ -1422,7 +1391,7 @@ impl App {
                                 ui.selectable_value(&mut self.new_course_lang, l.code.to_string(), lang_name(l.code, &base));
                             }
                         });
-                    if ui.add(theme::primary(tr("＋ Create"))).clicked() {
+                    if ui.add(theme::primary(tr("Create"))).clicked() {
                         let lang = self.new_course_lang.clone();
                         self.create_course(&lang);
                         self.new_course_open = false;
@@ -1470,31 +1439,33 @@ impl App {
         let done = c.lessons.iter().filter(|l| self.saved.is_done(&c.lesson_key(l.number))).count();
         let planned = c.stage.filter(|_| c.builtin).map(|s| s.size() as usize).unwrap_or(c.lessons.len());
         let mut out = Tile::None;
-        let stroke = if active { egui::Stroke::new(1.5, ACCENT()) } else { egui::Stroke::new(1.0, LINE()) };
+        // A built-in course is a cell of its language's sign; one of your own
+        // courses stands alone with a border.
+        let stroke = if c.builtin { egui::Stroke::NONE } else { egui::Stroke::new(1.0, LINE()) };
         egui::Frame::new()
-            .fill(if active { ACCENT_SOFT() } else { theme::CARD() })
+            .fill(if active { theme::soft(color) } else { Color32::TRANSPARENT })
             .stroke(stroke)
-            .corner_radius(12)
-            .inner_margin(egui::Margin::same(14))
+            .corner_radius(4)
+            .inner_margin(egui::Margin::same(12))
             .show(ui, |ui| {
                 ui.set_width(ui.available_width());
                 ui.spacing_mut().item_spacing.y = 4.0;
                 match c.stage.filter(|_| c.builtin) {
                     Some(st) => {
-                        ui.label(bold(st.name(&base)).size(16.0));
+                        ui.label(theme::display(st.name(&base)).size(16.0));
                         ui.label(muted(st.span()).size(13.0));
                     }
                     None => {
-                        ui.label(bold(c.name_in(&base)).size(16.0));
+                        ui.label(theme::display(c.name_in(&base)).size(16.0));
                         ui.label(muted(lang_name(&c.lang, &base)).size(13.0));
                     }
                 }
                 ui.add_space(4.0);
-                theme::bar(ui, done as f32 / planned.max(1) as f32, ui.available_width(), color);
+                theme::bar(ui, done as f32 / planned.max(1) as f32, ui.available_width(), theme::mark(color));
                 let status = if c.lessons.is_empty() {
                     tr("coming soon").to_string()
                 } else if done >= planned && planned > 0 {
-                    tr("✔ Complete").to_string()
+                    tr("Complete").to_string()
                 } else {
                     trf("{0} of {1}", &[&done, &plural(planned, "{0} lesson", "{0} lessons")])
                 };
@@ -1505,7 +1476,7 @@ impl App {
                     .filter(|l| self.saved.progress(&c.lesson_key(l.number)).is_some_and(|p| p.placed.is_some() && p.completed.is_none()))
                     .count();
                 if placed > 0 {
-                    ui.label(muted(trf("↷ {0} skipped by the level test", &[&placed])).size(12.5));
+                    ui.label(muted(trf("{0} skipped by the level test", &[&placed])).size(12.5));
                 }
                 if !c.lessons.is_empty() && !c.speaks(&base) {
                     let names: Vec<String> = c.bases().iter().map(|b| in_sentence(&lang_name(b, &base))).collect();
@@ -1534,12 +1505,12 @@ impl App {
                             {
                                 out = Tile::Link;
                             }
-                            if c.builtin && ui.button(tr("📋  Copy to my own courses, to change it")).clicked() {
+                            if c.builtin && ui.button(tr("Copy to my own courses, to change it")).clicked() {
                                 out = Tile::Copy;
                             }
                             if !c.builtin
                                 && self.saved.audio_dirs.contains_key(&c.id)
-                                && ui.button(tr("＋  A lesson for each recording without text")).clicked()
+                                && ui.button(tr("A lesson for each recording without text")).clicked()
                             {
                                 out = Tile::FromRecordings;
                             }
@@ -1578,21 +1549,21 @@ impl App {
                             let is_next = Some(li) == next;
                             egui::Frame::new()
                                 .fill(if is_next { ACCENT_SOFT() } else { Color32::TRANSPARENT })
-                                .corner_radius(8)
+                                .corner_radius(4)
                                 .inner_margin(egui::Margin::symmetric(8, 4))
                                 .show(ui, |ui| {
                                     ui.set_width(ui.available_width());
                                     ui.horizontal(|ui| {
                                         let (icon, color) = if p.completed.is_some() {
-                                            ("✔", GOOD())
+                                            (theme::Icon::Check, GOOD())
                                         } else if is_next {
-                                            ("▶", ACCENT())
+                                            (theme::Icon::Play, ACCENT())
                                         } else if p.placed.is_some() {
-                                            ("↷", MUTED())
+                                            (theme::Icon::SkipNext, MUTED())
                                         } else {
-                                            ("○", theme::PENDING())
+                                            (theme::Icon::Station, theme::PENDING())
                                         };
-                                        let mark = ui.add_sized(egui::vec2(18.0, 22.0), egui::Label::new(RichText::new(icon).color(color)));
+                                        let mark = theme::icon_mark(ui, icon, color);
                                         if p.placed.is_some() && p.completed.is_none() {
                                             mark.on_hover_text(tr("Skipped: the level test started you after this lesson"));
                                         }
@@ -1611,11 +1582,11 @@ impl App {
                                             if open && ui.add(btn).clicked() {
                                                 start = Some(li);
                                             }
-                                            if !c.builtin && ui.add(theme::ghost("")).on_hover_text(tr("Edit this lesson")).clicked() {
+                                            if !c.builtin && theme::icon_ghost(ui, theme::Icon::Pencil, tr("Edit this lesson")).clicked() {
                                                 edit = Some(li);
                                             }
                                             if p.wave2.is_some() {
-                                                theme::pill(ui, tr("active ✔"), GOOD(), GOOD_SOFT());
+                                                theme::pill(ui, tr("active"), GOOD(), GOOD_SOFT());
                                             } else if wave.contains(&li) {
                                                 theme::pill(ui, tr("active wave due"), WARN(), WARN_SOFT());
                                             }
@@ -1780,9 +1751,9 @@ impl App {
                 ui.label(theme::display("Marea").size(26.0));
             });
             ui.add_space(18.0);
-            ui.label(bold("Scegli la tua lingua").size(26.0));
-            ui.label(bold("Choose your language").size(26.0));
-            ui.label(bold("Elige tu idioma").size(26.0));
+            ui.label(theme::display("Scegli la tua lingua").size(26.0));
+            ui.label(theme::display("Choose your language").size(26.0));
+            ui.label(theme::display("Elige tu idioma").size(26.0));
             ui.add_space(14.0);
             for (code, native, action, courses_title, none) in CHOICES {
                 let mut langs: Vec<String> = Vec::new();
@@ -1805,7 +1776,7 @@ impl App {
                         ui.add_space(6.0);
                         ui.vertical(|ui| {
                             ui.spacing_mut().item_spacing.y = 2.0;
-                            ui.label(bold(native).size(22.0));
+                            ui.label(theme::display(native).size(22.0));
                             ui.label(medium(action).size(15.0));
                             ui.label(muted(courses).size(14.0));
                         });
@@ -1851,10 +1822,12 @@ impl App {
         let mut changed = false;
         let label_w = 210.0;
         let row = |ui: &mut egui::Ui, title: &str, hint: &str, add: &mut dyn FnMut(&mut egui::Ui)| {
-            ui.horizontal(|ui| {
+            // Top-aligned, the title on the first line of its control (32 high).
+            ui.horizontal_top(|ui| {
                 ui.allocate_ui_with_layout(egui::vec2(label_w, 0.0), egui::Layout::top_down(egui::Align::Min), |ui| {
                     ui.set_width(label_w);
                     ui.spacing_mut().item_spacing.y = 0.0;
+                    ui.add_space(6.0);
                     ui.label(medium(title));
                     if !hint.is_empty() {
                         ui.label(muted(hint).size(12.5));
@@ -1868,7 +1841,7 @@ impl App {
 
         theme::card().show(ui, |ui| {
             ui.set_width(ui.available_width());
-            ui.label(bold(tr("Your language")).size(18.0));
+            ui.label(theme::display(tr("Your language")).size(18.0));
             ui.label(muted(tr("Translations, notes and the spelled-out pronunciation are shown in this language. The built-in courses are written for Italian, English and Spanish speakers, one pair at a time: Courses shows when a course is not yet in your language. Your own lessons can use any.")).size(14.0));
             ui.add_space(4.0);
             egui::ComboBox::from_id_salt("base").selected_text(lang_name(&self.saved.base, &base)).show_ui(ui, |ui| {
@@ -1887,22 +1860,26 @@ impl App {
 
         theme::card().show(ui, |ui| {
             ui.set_width(ui.available_width());
-            ui.label(bold(tr("Appearance")).size(18.0));
+            ui.label(theme::display(tr("Appearance")).size(18.0));
             ui.add_space(4.0);
             row(ui, tr("Theme"), "", &mut |ui| {
-                ui.horizontal(|ui| {
-                    for (value, label) in [("system", tr("Automatic")), ("light", tr("Light")), ("dark", tr("Dark"))] {
-                        changed |= ui.selectable_value(&mut self.saved.theme, value.to_string(), label).changed();
-                    }
-                });
+                let values = ["system", "light", "dark"];
+                let names = [tr("Automatic").to_string(), tr("Light").to_string(), tr("Dark").to_string()];
+                let at = values.iter().position(|v| *v == self.saved.theme).unwrap_or(0);
+                if let Some(k) = theme::segmented(ui, &names, at, 110.0) {
+                    changed |= self.saved.theme != values[k];
+                    self.saved.theme = values[k].to_string();
+                }
             });
         });
         ui.add_space(4.0);
 
         theme::card().show(ui, |ui| {
             ui.set_width(ui.available_width());
-            ui.label(bold(tr("Method")).size(18.0));
+            ui.label(theme::display(tr("Method")).size(18.0));
             ui.add_space(4.0);
+            // A slider's travelled part is the line, not the soft selection tint.
+            ui.visuals_mut().selection.bg_fill = theme::FILL();
             row(ui, tr("Daily goal"), tr("minutes of study a day"), &mut |ui| {
                 changed |= ui
                     .add(egui::Slider::new(&mut self.saved.daily_goal_min, 5..=90).suffix(" min"))
@@ -1932,8 +1909,9 @@ impl App {
 
         theme::card().show(ui, |ui| {
             ui.set_width(ui.available_width());
-            ui.label(bold(tr("Listening")).size(18.0));
+            ui.label(theme::display(tr("Listening")).size(18.0));
             ui.add_space(4.0);
+            ui.visuals_mut().selection.bg_fill = theme::FILL();
             row(ui, tr("Speed"), "", &mut |ui| {
                 changed |= ui
                     .add(
@@ -1972,9 +1950,9 @@ impl App {
             });
             row(ui, tr("Audio player"), "", &mut |ui| {
                 if crate::audio::find_program("mpv").is_some() {
-                    theme::pill(ui, "mpv ✔", GOOD(), GOOD_SOFT());
+                    theme::pill(ui, "mpv", GOOD(), GOOD_SOFT());
                 } else if Player::available() {
-                    theme::pill(ui, tr("System player ✔"), GOOD(), GOOD_SOFT());
+                    theme::pill(ui, tr("System player"), GOOD(), GOOD_SOFT());
                     ui.label(muted(tr("mpv adds pause and rewind, and plays your own MP3 recordings")).size(13.0));
                 } else {
                     ui.label(RichText::new(tr("No player found: install mpv to hear audio")).color(BAD()));
@@ -1985,7 +1963,7 @@ impl App {
 
         theme::card().show(ui, |ui| {
             ui.set_width(ui.available_width());
-            ui.label(bold(tr("Voices")).size(18.0));
+            ui.label(theme::display(tr("Voices")).size(18.0));
             ui.label(muted(tr("Free and offline after the download. A natural-sounding voice reads every sentence aloud when you have no recordings. Each voice is about 60 MB; the first one also fetches the voice engine (25 MB). Latin is read by the Italian voice with Latin pronunciation rules.")).size(14.0));
             ui.add_space(6.0);
             for l in LANGS {
@@ -1997,7 +1975,7 @@ impl App {
                     });
                     let status = self.voices.status_of(l.code);
                     if self.voices.ready(l.code) {
-                        theme::pill(ui, tr("Ready ✔"), GOOD(), GOOD_SOFT());
+                        theme::pill(ui, tr("Ready"), GOOD(), GOOD_SOFT());
                     } else if crate::audio::downloading(&status) {
                         let mb = self.voices.partial_mb(l.code).map(|m| format!(" {m:.0} MB")).unwrap_or_default();
                         ui.spinner();
@@ -2020,7 +1998,7 @@ impl App {
 
         theme::card().show(ui, |ui| {
             ui.set_width(ui.available_width());
-            ui.label(bold(tr("Your files")).size(18.0));
+            ui.label(theme::display(tr("Your files")).size(18.0));
             let dir = store::data_dir();
             ui.label(muted(trf("Progress, your courses and voices are kept in {0}", &[&dir.display()])).size(14.0));
             if ui.add(theme::secondary(tr("Open the folder"))).clicked() {
@@ -2041,7 +2019,7 @@ impl App {
 /// The study calendar's shades, from no study to the daily goal and beyond.
 /// The calendar's five steps, from the empty track to the line's colour.
 fn heat() -> [Color32; 5] {
-    let (track, line) = (theme::TRACK(), theme::FILL());
+    let (track, line) = (theme::TRACK(), theme::line_ink());
     [0.0, 0.3, 0.55, 0.8, 1.0].map(|t| theme::lerp(track, line, t))
 }
 
@@ -2099,7 +2077,12 @@ impl App {
         };
         let base = self.base();
         let mut open = self.key_open;
-        egui::Window::new(trf("How to read the pronunciation · {0}", &[&lang_name(&lang, &base)]))
+        // A sign-sized title: the page's own heading follows inside.
+        let title = RichText::new(trf("How to read the pronunciation · {0}", &[&lang_name(&lang, &base)]))
+            .family(theme::sign_family())
+            .size(17.0);
+        egui::Window::new(title)
+            .frame(egui::Frame::window(&ctx.global_style()).inner_margin(egui::Margin::symmetric(20, 12)))
             .open(&mut open)
             .default_width(680.0)
             .max_width(680.0)
@@ -2187,7 +2170,7 @@ impl App {
         use crate::update::{State, current};
         theme::card().show(ui, |ui| {
             ui.set_width(ui.available_width());
-            ui.label(bold(tr("Updates")).size(18.0));
+            ui.label(theme::display(tr("Updates")).size(18.0));
             let Some(version) = current() else {
                 ui.label(muted(tr("Built from source: update with git pull and cargo build.")).size(14.0));
                 return;
@@ -2201,7 +2184,7 @@ impl App {
                 }
                 match self.updater.state() {
                     State::Current => {
-                        theme::pill(ui, tr("Up to date ✔"), GOOD(), GOOD_SOFT());
+                        theme::pill(ui, tr("Up to date"), GOOD(), GOOD_SOFT());
                     }
                     State::Available(tag) => {
                         ui.label(trf("{0} is available", &[&tag]));
@@ -2271,7 +2254,7 @@ impl eframe::App for App {
                     .show(&ctx, |ui| {
                         egui::Frame::new()
                             .fill(INK())
-                            .corner_radius(12)
+                            .corner_radius(6)
                             .inner_margin(egui::Margin::symmetric(18, 12))
                             .shadow(egui::Shadow {
                                 offset: [0, 4],

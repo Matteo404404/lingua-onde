@@ -39,9 +39,10 @@ palette! {
     NAV = (28, 28, 28), (12, 12, 12);
     NAV_TEXT = (214, 214, 214), (214, 214, 214);
     NAV_MUTED = (150, 150, 150), (150, 150, 150);
-    GOOD = (38, 136, 78), (84, 190, 122);
+    // GOOD and WARN are dark enough on the light theme to be read as text (4.5:1).
+    GOOD = (32, 128, 72), (84, 190, 122);
     GOOD_SOFT = (224, 240, 229), (30, 52, 38);
-    WARN = (190, 120, 20), (230, 166, 70);
+    WARN = (160, 96, 8), (230, 166, 70);
     WARN_SOFT = (250, 238, 214), (62, 48, 26);
     BAD = (192, 60, 50), (236, 108, 98);
     HIGHLIGHT = (255, 240, 196), (74, 62, 28);
@@ -85,6 +86,11 @@ fn luminance(c: Color32) -> f32 {
     0.2126 * ch(c.r()) + 0.7152 * ch(c.g()) + 0.0722 * ch(c.b())
 }
 
+/// Text on a fill of `color`: white, or ink on a light colour (yellow).
+pub fn text_on(color: Color32) -> Color32 {
+    if luminance(color) > 0.3 { Color32::from_rgb(28, 28, 28) } else { Color32::WHITE }
+}
+
 /// The line colour as a fill: buttons, the selected item, the band.
 #[allow(non_snake_case)]
 pub fn FILL() -> Color32 {
@@ -94,7 +100,7 @@ pub fn FILL() -> Color32 {
 /// Text on FILL: white, or ink on a light line (yellow).
 #[allow(non_snake_case)]
 pub fn ON_FILL() -> Color32 {
-    if luminance(FILL()) > 0.3 { Color32::from_rgb(28, 28, 28) } else { Color32::WHITE }
+    text_on(FILL())
 }
 
 /// The line colour as ink: links, small marks, readable on the ground.
@@ -263,15 +269,18 @@ pub fn apply_visuals(ctx: &egui::Context) {
         v.panel_fill = BG();
         v.window_fill = CARD();
         v.window_stroke = Stroke::new(1.0, LINE());
-        v.window_corner_radius = CornerRadius::same(8);
+        v.window_corner_radius = CornerRadius::same(6);
         v.menu_corner_radius = CornerRadius::same(6);
         v.window_shadow = shadow(18, 24);
         v.popup_shadow = shadow(12, 20);
         // Text boxes must stand out on cards.
         v.extreme_bg_color = FIELD();
         v.override_text_color = Some(INK());
-        v.selection.bg_fill = FILL();
-        v.selection.stroke = Stroke::new(1.5, ON_FILL());
+        // A selected tab or option is a soft step of the line with ink text (the
+        // override above keeps text ink, so a full line fill was unreadable);
+        // the stroke is also the focus ring of text boxes, so it must show.
+        v.selection.bg_fill = ACCENT_SOFT();
+        v.selection.stroke = Stroke::new(1.5, ACCENT());
         v.hyperlink_color = ACCENT();
         v.slider_trailing_fill = true;
         v.handle_shape = egui::style::HandleShape::Circle;
@@ -405,72 +414,176 @@ pub fn pill(ui: &mut Ui, text: &str, fg: Color32, bg: Color32) -> Response {
         .response
 }
 
-pub fn primary(text: impl Into<String>) -> egui::Button<'static> {
-    egui::Button::new(medium(text).color(ON_FILL()))
-        .fill(FILL())
-        .stroke(Stroke::NONE)
-        .corner_radius(4)
-        .min_size(vec2(0.0, 36.0))
+/// A key of the keyboard as a small cap ("Space").
+pub fn keycap(ui: &mut Ui, key: &str) -> Response {
+    let galley = ui.painter().layout_no_wrap(key.to_string(), FontId::new(12.0, medium_family()), INK());
+    let (rect, resp) = ui.allocate_exact_size(galley.size() + vec2(12.0, 4.0), Sense::hover());
+    ui.painter().rect(rect, 4, CARD(), Stroke::new(1.0, CONTROL_LINE()), egui::StrokeKind::Inside);
+    ui.painter().galley(rect.min + vec2(6.0, 2.0), galley, INK());
+    resp
 }
 
-pub fn big_primary(text: impl Into<String>) -> egui::Button<'static> {
-    egui::Button::new(medium(text).color(ON_FILL()).size(16.0))
-        .fill(FILL())
-        .stroke(Stroke::NONE)
-        .corner_radius(4)
-        .min_size(vec2(200.0, 48.0))
+/// The app's one set of buttons: the line-coloured primary, the outlined
+/// secondary and the quiet ghost. Each answers the pointer (a hover step,
+/// a press that sinks), which a fixed `Button::fill` would switch off.
+pub struct Btn {
+    button: egui::Button<'static>,
+    kind: Kind,
 }
 
-pub fn secondary(text: impl Into<String>) -> egui::Button<'static> {
-    egui::Button::new(medium(text).color(INK()))
-        .fill(CARD())
-        .stroke(Stroke::new(1.0, CONTROL_LINE()))
-        .corner_radius(4)
-        .min_size(vec2(0.0, 36.0))
+#[derive(Clone, Copy)]
+enum Kind {
+    Primary,
+    Secondary,
+    Ghost,
+    /// On a band of a line colour, in that band's text colour.
+    OnLine(Color32),
 }
 
-/// A borderless small button for icons and quiet actions.
-pub fn ghost(text: impl Into<String>) -> egui::Button<'static> {
-    egui::Button::new(RichText::new(text.into()).color(MUTED()))
-        .fill(Color32::TRANSPARENT)
-        .stroke(Stroke::NONE)
-        .corner_radius(4)
+impl Btn {
+    pub fn min_size(self, size: egui::Vec2) -> Self {
+        Btn { button: self.button.min_size(size), ..self }
+    }
 }
 
-/// A round filled button with one glyph (play, stop...); play, pause,
-/// stop and the speaker are drawn, not typed.
-pub fn round_button(ui: &mut Ui, glyph: &str, size: f32, fill: Color32) -> Response {
+impl egui::Widget for Btn {
+    fn ui(self, ui: &mut Ui) -> Response {
+        ui.scope(|ui| {
+            let w = &mut ui.visuals_mut().widgets;
+            match self.kind {
+                Kind::Primary => {
+                    let fill = FILL();
+                    for (state, t) in [(&mut w.inactive, 0.0), (&mut w.hovered, 0.12), (&mut w.active, 0.2)] {
+                        state.weak_bg_fill = lerp(fill, Color32::BLACK, t);
+                        state.bg_stroke = Stroke::NONE;
+                    }
+                }
+                // The widget visuals of `apply_visuals` are this button's.
+                Kind::Secondary => {}
+                Kind::Ghost => {
+                    w.hovered.bg_stroke = Stroke::NONE;
+                    w.active.bg_stroke = Stroke::NONE;
+                }
+                Kind::OnLine(fg) => {
+                    for (state, a) in [(&mut w.hovered, 36), (&mut w.active, 56)] {
+                        state.weak_bg_fill = Color32::from_rgba_unmultiplied(fg.r(), fg.g(), fg.b(), a);
+                        state.bg_stroke = Stroke::NONE;
+                    }
+                }
+            }
+            ui.add(self.button)
+        })
+        .inner
+    }
+}
+
+pub fn primary(text: impl Into<String>) -> Btn {
+    let button = egui::Button::new(medium(text).color(ON_FILL())).corner_radius(4).min_size(vec2(0.0, 36.0));
+    Btn { button, kind: Kind::Primary }
+}
+
+pub fn big_primary(text: impl Into<String>) -> Btn {
+    let button = egui::Button::new(medium(text).color(ON_FILL()).size(16.0)).corner_radius(4).min_size(vec2(200.0, 48.0));
+    Btn { button, kind: Kind::Primary }
+}
+
+pub fn secondary(text: impl Into<String>) -> Btn {
+    let button = egui::Button::new(medium(text).color(INK())).corner_radius(4).min_size(vec2(0.0, 36.0));
+    Btn { button, kind: Kind::Secondary }
+}
+
+/// A quiet action on a band of the line colour, in `fg` (the band's text).
+pub fn on_line(text: impl Into<String>, fg: Color32) -> Btn {
+    let button = egui::Button::new(medium(text).color(fg)).frame_when_inactive(false).corner_radius(4);
+    Btn { button, kind: Kind::OnLine(fg) }
+}
+
+/// A quiet action inside running copy: underlined text that gains a soft
+/// surface under the pointer (painted beneath it, so the text stays sharp).
+pub fn text_link(ui: &mut Ui, text: impl Into<String>, size: f32) -> Response {
+    let under = ui.painter().add(egui::Shape::Noop);
+    let r = ui.add(egui::Label::new(RichText::new(text.into()).size(size).color(MUTED()).underline()).sense(Sense::click()));
+    if r.hovered() || r.has_focus() {
+        ui.painter().set(under, egui::Shape::rect_filled(r.rect.expand2(vec2(4.0, 2.0)), 4, HOVER()));
+    }
+    r.on_hover_cursor(egui::CursorIcon::PointingHand)
+}
+
+/// A borderless button for quiet actions; its surface shows on hover.
+pub fn ghost(text: impl Into<String>) -> Btn {
+    let button = egui::Button::new(RichText::new(text.into()).color(MUTED())).frame_when_inactive(false).corner_radius(4);
+    Btn { button, kind: Kind::Ghost }
+}
+
+/// A round filled button with one drawn icon (play, pause, stop).
+pub fn round_button(ui: &mut Ui, icon: Icon, size: f32, fill: Color32) -> Response {
     let (rect, resp) = ui.allocate_exact_size(vec2(size, size), Sense::click());
     let fill = if resp.hovered() { lerp(fill, Color32::BLACK, 0.15) } else { fill };
     // Pressed: the button sinks a little, so the click is felt.
     let r = if resp.is_pointer_button_down_on() { size * 0.47 } else { size / 2.0 };
     ui.painter().circle_filled(rect.center(), r, fill);
-    let fg = if luminance(fill) > 0.3 { Color32::from_rgb(28, 28, 28) } else { Color32::WHITE };
-    match Icon::from_glyph(glyph) {
-        Some(icon) => icon.paint(ui.painter(), egui::Rect::from_center_size(rect.center(), vec2(size * 0.42, size * 0.42)), fg),
-        None => {
-            ui.painter().text(rect.center(), egui::Align2::CENTER_CENTER, glyph, FontId::proportional(size * 0.42), fg);
-        }
-    }
+    icon.paint(ui.painter(), egui::Rect::from_center_size(rect.center(), vec2(size * 0.42, size * 0.42)), text_on(fill));
+    focus_ring(ui, &resp, rect.expand(2.0), size / 2.0 + 2.0);
     resp.on_hover_cursor(egui::CursorIcon::PointingHand)
 }
 
-/// A glyph centred in a soft circle, for stat tiles and empty states.
-pub fn icon_circle(ui: &mut Ui, glyph: &str, fg: Color32, bg: Color32, size: f32) {
+/// A drawn icon centred in a soft circle, for empty and finished states.
+pub fn icon_circle(ui: &mut Ui, icon: Icon, fg: Color32, bg: Color32, size: f32) {
     let (rect, _) = ui.allocate_exact_size(vec2(size, size), Sense::hover());
     ui.painter().circle_filled(rect.center(), size / 2.0, bg);
-    match Icon::from_glyph(glyph) {
-        Some(icon) => icon.paint(ui.painter(), egui::Rect::from_center_size(rect.center(), vec2(size * 0.44, size * 0.44)), fg),
-        None => {
-            ui.painter().text(rect.center(), egui::Align2::CENTER_CENTER, glyph, FontId::proportional(size * 0.48), fg);
-        }
+    icon.paint(ui.painter(), egui::Rect::from_center_size(rect.center(), vec2(size * 0.44, size * 0.44)), fg);
+}
+
+/// A quiet square button holding one drawn icon (play a sentence, next,
+/// remove); `hint` is its tooltip and its name for screen readers.
+pub fn icon_ghost(ui: &mut Ui, icon: Icon, hint: &str) -> Response {
+    let side = ui.spacing().interact_size.y.min(28.0);
+    let (rect, resp) = ui.allocate_exact_size(vec2(side, side), Sense::click());
+    let hot = resp.hovered() || resp.has_focus();
+    if hot {
+        ui.painter().rect_filled(rect, 4, HOVER());
     }
+    // Pressed: the icon sinks, as the other buttons do.
+    let s = if resp.is_pointer_button_down_on() { 12.0 } else { 13.0 };
+    icon.paint(ui.painter(), egui::Rect::from_center_size(rect.center(), vec2(s, s)), if hot { INK() } else { MUTED() });
+    focus_ring(ui, &resp, rect, 4.0);
+    let label = hint.to_string();
+    resp.widget_info(|| egui::WidgetInfo::labeled(egui::WidgetType::Button, true, &label));
+    resp.on_hover_text(hint).on_hover_cursor(egui::CursorIcon::PointingHand)
+}
+
+/// The keyboard focus ring of the drawn buttons, in the line's ink.
+fn focus_ring(ui: &Ui, resp: &Response, rect: egui::Rect, radius: f32) {
+    if resp.has_focus() {
+        ui.painter().rect_stroke(rect, radius, Stroke::new(1.5, ACCENT()), egui::StrokeKind::Outside);
+    }
+}
+
+/// A drawn icon before a short status label, both in `color` ("Finished",
+/// "Right", "paused"): one icon set instead of typed symbols.
+pub fn icon_label(ui: &mut Ui, icon: Icon, text: RichText, size: f32, color: Color32) -> Response {
+    ui.horizontal(|ui| {
+        ui.spacing_mut().item_spacing.x = (size * 0.4).round();
+        let (r, _) = ui.allocate_exact_size(vec2(size * 0.8, size), Sense::hover());
+        let label = ui.label(text.size(size).color(color));
+        let y = label.rect.top() + label.rect.height().min(size * 1.4) / 2.0;
+        icon.paint(ui.painter(), egui::Rect::from_center_size(egui::pos2(r.center().x, y), vec2(size * 0.72, size * 0.72)), color);
+        label
+    })
+    .inner
+}
+
+/// A drawn icon in a fixed box, for the status column of a list.
+pub fn icon_mark(ui: &mut Ui, icon: Icon, color: Color32) -> Response {
+    let (r, resp) = ui.allocate_exact_size(vec2(18.0, 22.0), Sense::hover());
+    icon.paint(ui.painter(), egui::Rect::from_center_size(r.center(), vec2(12.0, 12.0)), color);
+    resp
 }
 
 /// A number in a small circle (sentence and note numbers).
 pub fn number(ui: &mut Ui, n: usize, active: bool) {
     let (rect, _) = ui.allocate_exact_size(vec2(24.0, 24.0), Sense::hover());
-    let (bg, fg) = if active { (FILL(), Color32::WHITE) } else { (TRACK(), MUTED()) };
+    let (bg, fg) = if active { (FILL(), ON_FILL()) } else { (TRACK(), MUTED()) };
     ui.painter().circle_filled(rect.center(), 12.0, bg);
     ui.painter().text(
         rect.center(),
@@ -487,7 +600,7 @@ pub fn lang_badge(ui: &mut Ui, code: &str, color: Color32, size: f32) -> Respons
     // A line's marker, as on a station sign: its code on a square of its colour.
     let (r, resp) = ui.allocate_exact_size(vec2(size, size), Sense::hover());
     ui.painter().rect_filled(r, size * 0.12, color);
-    let fg = if luminance(color) > 0.3 { Color32::from_rgb(28, 28, 28) } else { Color32::WHITE };
+    let fg = text_on(color);
     ui.painter().text(r.center(), egui::Align2::CENTER_CENTER, code.to_uppercase(), FontId::new(size * 0.38, sign_family()), fg);
     resp
 }
@@ -565,21 +678,21 @@ pub enum Icon {
     Sliders,
     Check,
     Speaker,
+    Close,
+    Back,
+    Forward,
+    Arrow,
+    /// Today's path: a step still to do, drawn as a hollow station.
+    Station,
+    /// A live status ("repeat aloud now").
+    Dot,
+    Rewind,
+    SkipBack,
+    SkipNext,
+    Up,
 }
 
 impl Icon {
-    pub fn from_glyph(g: &str) -> Option<Icon> {
-        Some(match g.trim() {
-            "▶" => Icon::Play,
-            "⏸" => Icon::Pause,
-            "■" => Icon::Stop,
-            "⟳" | "↻" => Icon::Review,
-            "✔" | "✓" => Icon::Check,
-            "🔈" | "🔊" => Icon::Speaker,
-            _ => return None,
-        })
-    }
-
     pub fn paint(self, p: &egui::Painter, r: egui::Rect, color: Color32) {
         let w = r.width();
         let st = Stroke::new((w * 0.1).clamp(1.5, 3.0), color);
@@ -617,10 +730,13 @@ impl Icon {
                 p.add(egui::Shape::line(vec![end + vec2(-w * 0.2, -w * 0.02), end, end + vec2(-w * 0.02, w * 0.2)], st));
             }
             Icon::Lines => {
-                for y in [0.22, 0.5, 0.78] {
-                    p.add(line(&[(0.1, y), (0.9, y)]));
-                    p.circle_filled(at(0.32 + y * 0.4, y), w * 0.09, color);
-                }
+                // A route: a line that bends, through two hollow stations.
+                let r = w * 0.14;
+                p.add(line(&[(0.02, 0.78), (0.24 - 0.14, 0.78)]));
+                p.circle_stroke(at(0.24, 0.78), r, st);
+                p.add(line(&[(0.34, 0.7), (0.66, 0.3)]));
+                p.circle_stroke(at(0.76, 0.22), r, st);
+                p.add(line(&[(0.9, 0.22), (0.98, 0.22)]));
             }
             Icon::Book => {
                 p.add(line(&[(0.5, 0.22), (0.5, 0.86)]));
@@ -640,12 +756,151 @@ impl Icon {
             Icon::Check => {
                 p.add(line(&[(0.12, 0.52), (0.4, 0.8), (0.9, 0.2)]));
             }
+            Icon::Close => {
+                p.add(line(&[(0.2, 0.2), (0.8, 0.8)]));
+                p.add(line(&[(0.8, 0.2), (0.2, 0.8)]));
+            }
+            Icon::Back => {
+                p.add(line(&[(0.64, 0.16), (0.3, 0.5), (0.64, 0.84)]));
+            }
+            Icon::Forward => {
+                p.add(line(&[(0.36, 0.16), (0.7, 0.5), (0.36, 0.84)]));
+            }
+            Icon::Arrow => {
+                p.add(line(&[(0.1, 0.5), (0.86, 0.5)]));
+                p.add(line(&[(0.58, 0.22), (0.86, 0.5), (0.58, 0.78)]));
+            }
             Icon::Speaker => {
                 p.add(fill_poly(&[(0.08, 0.36), (0.3, 0.36), (0.56, 0.12), (0.56, 0.88), (0.3, 0.64), (0.08, 0.64)]));
                 p.add(line(&[(0.72, 0.32), (0.8, 0.5), (0.72, 0.68)]));
             }
+            Icon::Station => {
+                p.circle_stroke(r.center(), w * 0.34, st);
+            }
+            Icon::Dot => {
+                p.circle_filled(r.center(), w * 0.3, color);
+            }
+            Icon::Rewind => {
+                p.add(fill_poly(&[(0.5, 0.18), (0.5, 0.82), (0.04, 0.5)]));
+                p.add(fill_poly(&[(0.96, 0.18), (0.96, 0.82), (0.5, 0.5)]));
+            }
+            Icon::SkipBack => {
+                p.rect_filled(egui::Rect::from_min_max(at(0.12, 0.16), at(0.26, 0.84)), 1.0, color);
+                p.add(fill_poly(&[(0.88, 0.14), (0.88, 0.86), (0.3, 0.5)]));
+            }
+            Icon::SkipNext => {
+                p.add(fill_poly(&[(0.12, 0.14), (0.7, 0.5), (0.12, 0.86)]));
+                p.rect_filled(egui::Rect::from_min_max(at(0.74, 0.16), at(0.88, 0.84)), 1.0, color);
+            }
+            Icon::Up => {
+                p.add(line(&[(0.16, 0.66), (0.5, 0.32), (0.84, 0.66)]));
+            }
         }
     }
+}
+
+/// The part of a line not yet travelled: light on the light theme, and
+/// still visible (3:1 or more) but dimmer than `line_ink` on the dark one.
+pub fn line_track() -> Color32 {
+    if dark() { lerp(FILL(), Color32::from_gray(112), 0.7) } else { lerp(FILL(), BG(), 0.7) }
+}
+
+/// A colour drawn as a mark on the ground (a line, a bar): as it is on the
+/// light theme, lifted on the dark one, where a deep line colour fell under 3:1.
+pub fn mark(color: Color32) -> Color32 {
+    if dark() { lerp(color, Color32::WHITE, 0.35) } else { color }
+}
+
+/// The travelled line: the line colour, lifted on the dark theme.
+pub fn line_ink() -> Color32 {
+    mark(FILL())
+}
+
+/// 0 to 1 over `secs` with a strong ease-out, from 0 the first time `id` is
+/// seen, so a mark can grow in once; later changes of `on` ease both ways.
+pub fn ease(ui: &Ui, id: egui::Id, on: bool, secs: f32) -> f32 {
+    let ctx = ui.ctx();
+    if on && !ctx.data(|d| d.get_temp::<bool>(id).is_some()) {
+        ctx.data_mut(|d| d.insert_temp(id, true));
+        ctx.animate_bool_with_time(id, false, secs);
+    }
+    ctx.animate_bool_with_time_and_easing(id, on, secs, egui::emath::easing::cubic_out)
+}
+
+/// A position that moves to a new `target` over `secs` with the same
+/// ease-out, from wherever it was (egui's own value tween is linear).
+pub fn glide(ui: &Ui, id: egui::Id, target: f32, secs: f32) -> f32 {
+    let now = ui.input(|i| i.time);
+    let (from, to, start) = ui.ctx().data(|d| d.get_temp::<(f32, f32, f64)>(id)).unwrap_or((target, target, now));
+    let t = ((now - start) as f32 / secs).clamp(0.0, 1.0);
+    let at = from + (to - from) * egui::emath::easing::cubic_out(t);
+    if to != target {
+        ui.ctx().data_mut(|d| d.insert_temp(id, (at, target, now)));
+        ui.ctx().request_repaint();
+        return at;
+    }
+    if t < 1.0 {
+        ui.ctx().request_repaint();
+    }
+    at
+}
+
+/// Two or three choices side by side on a track; the chosen one sits on a
+/// white chip that slides to a new choice. Returns the choice clicked.
+pub fn segmented(ui: &mut Ui, options: &[String], selected: usize, min_width: f32) -> Option<usize> {
+    let mut clicked = None;
+    egui::Frame::new().fill(TRACK()).corner_radius(6).inner_margin(4).show(ui, |ui| {
+        ui.horizontal(|ui| {
+            ui.spacing_mut().item_spacing.x = 4.0;
+            // Painted under the labels once their places are known.
+            let (hover_slot, chip_slot) = (ui.painter().add(egui::Shape::Noop), ui.painter().add(egui::Shape::Noop));
+            let mut rects = Vec::new();
+            for (i, text) in options.iter().enumerate() {
+                let on = i == selected;
+                let b = egui::Button::new(medium(text).color(if on { INK() } else { MUTED() }))
+                    .fill(Color32::TRANSPARENT)
+                    .stroke(Stroke::NONE)
+                    .corner_radius(4)
+                    .min_size(vec2(min_width, 34.0));
+                let r = ui.add(b);
+                if r.hovered() && !on {
+                    ui.painter().set(hover_slot, egui::Shape::rect_filled(r.rect, 4, lerp(TRACK(), CARD(), 0.5)));
+                }
+                if r.clicked() {
+                    clicked = Some(i);
+                }
+                rects.push(r.rect);
+            }
+            // Glides by choice, not by pixel, so a resize never drags it.
+            if selected < rects.len() {
+                let at = glide(ui, ui.id().with("segmented-chip"), selected as f32, 0.18);
+                let (a, b) = (rects[at.floor() as usize], rects[(at.ceil() as usize).min(rects.len() - 1)]);
+                let t = at.fract();
+                let chip = egui::Rect::from_min_max(a.min + (b.min - a.min) * t, a.max + (b.max - a.max) * t);
+                ui.painter().set(chip_slot, egui::Shape::rect_filled(chip, 4, CARD()));
+            }
+        });
+    });
+    clicked
+}
+
+/// A button with a drawn icon beside its text: before it, or after it when
+/// `trailing` (next, more). The icon takes the text's colour.
+pub fn icon_button(ui: &mut Ui, button: Btn, icon: Icon, color: Color32, trailing: bool) -> Response {
+    let r = ui.add(button);
+    button_icon(ui, &r, icon, color, trailing);
+    r
+}
+
+/// Paints `icon` in the room `icon_room` left in a button already added.
+pub fn button_icon(ui: &Ui, r: &Response, icon: Icon, color: Color32, trailing: bool) {
+    let x = if trailing { r.rect.right() - 20.0 } else { r.rect.left() + 20.0 };
+    icon.paint(ui.painter(), egui::Rect::from_center_size(egui::pos2(x, r.rect.center().y), vec2(13.0, 13.0)), color);
+}
+
+/// Room for the drawn icon of `icon_button`, before or after the text.
+pub fn icon_room(text: &str, trailing: bool) -> String {
+    if trailing { format!("{text}      ") } else { format!("      {text}") }
 }
 
 /// One station on the line.
@@ -677,25 +932,26 @@ pub fn line_rail(ui: &mut Ui, stops: &[(Stop, bool, String)], height: f32) -> (R
     };
     let y = rect.center().y;
     let thick = (height * 0.22).clamp(4.0, 10.0);
-    let line = FILL();
-    let track = lerp(line, BG(), 0.7);
+    let line = line_ink();
+    let track = line_track();
     let here = stops.iter().position(|s| s.0 == Stop::Here).unwrap_or_else(|| stops.iter().rposition(|s| s.0 == Stop::Done).unwrap_or(0));
     p.line_segment([egui::pos2(rect.left(), y), egui::pos2(rect.right(), y)], Stroke::new(thick, track));
     p.line_segment([egui::pos2(rect.left(), y), egui::pos2(x(here), y)], Stroke::new(thick, line));
     let r = (height * 0.2).clamp(5.0, 12.0);
     let hovered = resp.hover_pos().and_then(|m| (0..n).min_by_key(|&i| (x(i) - m.x).abs() as i32).filter(|&i| (x(i) - m.x).abs() < r * 2.0));
-    for (i, (stop, interchange, label)) in stops.iter().enumerate() {
+    for (i, (stop, interchange, _)) in stops.iter().enumerate() {
         let (stop, interchange) = (*stop, *interchange);
         let c = egui::pos2(x(i), y);
-        let grow = if hovered == Some(i) { 1.15 } else { 1.0 };
+        // A pointed station grows a little, quickly, so it answers the pointer.
+        let grow = 1.0 + 0.15 * ease(ui, ui.id().with(("station-hover", i)), hovered == Some(i), 0.12);
         match stop {
             Stop::Done => {
                 p.circle_filled(c, r * grow, line);
                 p.circle_filled(c, r * 0.42 * grow, CARD());
             }
             Stop::Here => {
-                // The current station eases in once, so the eye finds it.
-                let t = ui.ctx().animate_bool_with_time(ui.id().with("here-ring"), true, 0.35);
+                // The current station grows in once, so the eye finds it.
+                let t = ease(ui, ui.id().with("here-ring"), true, 0.24);
                 let big = r * (1.0 + 0.5 * t) * grow;
                 p.circle_filled(c, big, CARD());
                 p.circle_stroke(c, big, Stroke::new(r * 0.55, line));
@@ -708,12 +964,28 @@ pub fn line_rail(ui: &mut Ui, stops: &[(Stop, bool, String)], height: f32) -> (R
         if interchange {
             p.circle_stroke(c, r * 1.9 * grow, Stroke::new(1.5, if stop == Stop::Ahead { track } else { line }));
         }
-        let (font, color) = if stop == Stop::Here {
+    }
+    // Names under the stations: today's first, then the others where they
+    // fit, so a long name hides its neighbours' numbers instead of covering them.
+    let mut order: Vec<usize> = (0..n.min(stops.len())).collect();
+    order.sort_by_key(|&i| (stops[i].0 != Stop::Here, !stops[i].1));
+    let mut taken: Vec<(f32, f32)> = Vec::new();
+    for i in order {
+        let (stop, _, label) = &stops[i];
+        let (font, color) = if *stop == Stop::Here {
             (FontId::new(14.0, sign_family()), INK())
         } else {
             (FontId::new(12.5, FontFamily::Proportional), MUTED())
         };
-        p.text(egui::pos2(c.x, rect.bottom() + 4.0), egui::Align2::CENTER_TOP, label, font, color);
+        let galley = p.layout_no_wrap(label.clone(), font, color);
+        let w = galley.size().x;
+        let left = (x(i) - w / 2.0).clamp(rect.left(), rect.right() - w);
+        let span = (left - 6.0, left + w + 6.0);
+        if taken.iter().any(|&(a, b)| span.0 < b && a < span.1) {
+            continue;
+        }
+        taken.push(span);
+        p.galley(egui::pos2(left, rect.bottom() + 4.0), galley, color);
     }
     (resp, hovered)
 }
@@ -760,7 +1032,8 @@ pub fn tone_rows(ui: &mut Ui, target: &str, figured: &str, size: f32, color: Col
     }
     let r = ui.horizontal_wrapped(|ui| {
         ui.spacing_mut().item_spacing = vec2(6.0, 0.0);
-        ui.label(RichText::new("🔈").size(size).color(color));
+        let (mark, _) = ui.allocate_exact_size(vec2(size, size * 1.3), Sense::hover());
+        Icon::Speaker.paint(ui.painter(), egui::Rect::from_center_size(mark.center(), vec2(size * 0.8, size * 0.8)), color);
         for (tok, syl) in tokens.iter().zip(&syllables) {
             let low = low_tone(syl);
             ui.vertical(|ui| {
@@ -839,8 +1112,8 @@ pub fn markdown(ui: &mut Ui, text: &str) {
         while let Some((_, level, h)) = next_heading.next_if(|(at, _, _)| *at == i) {
             ui.add_space(if *level <= 2 { 8.0 } else { 4.0 });
             ui.label(match level {
-                1 => bold(h.as_str()).size(21.0),
-                2 => bold(h.as_str()).size(18.0),
+                1 => display(h.as_str()).size(21.0),
+                2 => display(h.as_str()).size(18.0),
                 _ => medium(h.as_str()).size(15.5),
             });
         }

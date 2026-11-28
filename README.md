@@ -309,7 +309,9 @@ format is in `content/FORMAT.md`.
   download, microphone, transcription, scoring and the Record button.
   `src/format.rs` lesson files and the built-in lesson rules.
   `src/store.rs` data folder, progress, review schedule. `src/theme.rs`
-  colours, fonts and shared widgets. `src/i18n.rs` the interface in the
+  colours (each course is a metro line in its language's colour), fonts,
+  the drawn icons, the logo, the line rail and the shared widgets;
+  `DESIGN.md` describes the look, `PRODUCT.md` whom it is for. `src/i18n.rs` the interface in the
   learner's language, from `content/ui/<base>.txt` (Italian so far).
 - `content/<lang>/<course>-<level>.txt` the built-in courses
   (`es/foundation-a1.txt` … `es/mastery-c2.txt`; the list is `BUILTIN` in
@@ -336,8 +338,10 @@ format is in `content/FORMAT.md`.
   `.github/workflows/check-platforms.yml` checks the voices, sound and
   speech recognition on each system.
 - `assets/NotoSans-*.ttf` is Noto Sans (Regular, Medium, Bold), under the SIL
-  Open Font License in `assets/NotoSans-OFL.txt`. The app license does not
-  replace that font license.
+  Open Font License in `assets/NotoSans-OFL.txt`; `assets/Archivo-*.ttf`
+  (Bold, SemiBold: the titles) is Archivo, under the same license in
+  `assets/Archivo-OFL.txt`. The app license does not replace those font
+  licenses.
 
 ## Tests
 

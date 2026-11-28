@@ -61,17 +61,8 @@ Has hecho todas las lecciones escritas hasta ahora; el resto del curso aún se e
 You finished every lesson of this course. Pick another in Courses or add your own.
 Has terminado todas las lecciones de este curso. Elige otro en Cursos o crea el tuyo.
 
-study streak
-racha de estudio
-
 {0} / {1} min
 {0} / {1} min
-
-studied today
-estudiados hoy
-
-lessons completed
-lecciones completadas
 
 Monday
 Lunes
@@ -136,11 +127,11 @@ diciembre
 Lesson {0} of {1}
 Lección {0} de {1}
 
-✔ You did today's lesson. One lesson a day is the rhythm of the method: the next one will be easier tomorrow.
-✔ Has hecho la lección de hoy. Una lección al día es el ritmo del método: mañana la siguiente te parecerá más fácil.
+You did today's lesson. One lesson a day is the rhythm of the method: the next one will be easier tomorrow.
+Has hecho la lección de hoy. Una lección al día es el ritmo del método: mañana la siguiente te parecerá más fácil.
 
-↻ You chose to go over this lesson again. Repeating is part of the method.
-↻ Has elegido volver a hacer esta lección. Repetir forma parte del método.
+You chose to go over this lesson again. Repeating is part of the method.
+Has elegido volver a hacer esta lección. Repetir forma parte del método.
 
 Today
 Hoy
@@ -154,35 +145,35 @@ ola activa: lección {0}
 active wave: {0} lesson {1}
 ola activa: {0}, lección {1}
 
-✔ today's active wave done
-✔ ola activa de hoy hecha
+today's active wave done
+ola activa de hoy hecha
 
 · active wave from lesson {0}
 · ola activa desde la lección {0}
 
-○ review {0} sentence
-○ repasa {0} frase
+review {0} sentence
+repasa {0} frase
 
-○ review {0} sentences
-○ repasa {0} frases
+review {0} sentences
+repasa {0} frases
 
-▶  Continue the lesson
-▶  Continuar la lección
+Continue the lesson
+Continuar la lección
 
-▶  Start today's lesson
-▶  Empezar la lección de hoy
+Start today's lesson
+Empezar la lección de hoy
 
 Start with the introduction
 Empezar por la introducción
 
-✔  You're done for today
-✔  Por hoy has terminado
+You're done for today
+Por hoy has terminado
 
-⟳  Review {0} sentence
-⟳  Repasar {0} frase
+Review {0} sentence
+Repasar {0} frase
 
-⟳  Review {0} sentences
-⟳  Repasar {0} frases
+Review {0} sentences
+Repasar {0} frases
 
 I really want to do another lesson today: start lesson {0}
 De verdad quiero hacer otra lección hoy: empezar la lección {0}
@@ -192,9 +183,6 @@ New here? The introduction comes first, as in the book: ten minutes on how the c
 
 I already know the method: start lesson 1
 Ya conozco el método: empezar la lección 1
-
-■  Stop
-■  Detener
 
 Only a few minutes today? Listen to lesson {0} again and repeat it aloud.
 ¿Solo unos minutos hoy? Vuelve a escuchar la lección {0} y repítela en voz alta.
@@ -214,20 +202,20 @@ Puedes empezar {0} ahora: cada una de sus lecciones trae consigo una de estas.
 Then choose a new course in Courses, or add your own lessons.
 Luego elige un curso nuevo en Cursos, o añade lecciones tuyas.
 
-✔ Every lesson read
-✔ Todas las lecciones leídas
+Every lesson read
+Todas las lecciones leídas
 
 The active wave goes on: {0} still to rebuild, one a day, as the method asks.
 La ola activa continúa: {0} aún por reconstruir, una al día, como pide el método.
 
-▶  Active wave: lesson {0}
-▶  Ola activa: lección {0}
+Active wave: lesson {0}
+Ola activa: lección {0}
 
-▶  Active wave: {0} lesson {1}
-▶  Ola activa: {0}, lección {1}
+Active wave: {0} lesson {1}
+Ola activa: {0}, lección {1}
 
-✔ Today's active wave is done
-✔ La ola activa de hoy está hecha
+Today's active wave is done
+La ola activa de hoy está hecha
 
 {0} still to rebuild: the next one comes back tomorrow.
 {0} aún por reconstruir: la siguiente vuelve mañana.
@@ -310,17 +298,17 @@ Vincular mis grabaciones de este curso…
 A folder of audio files named by lesson, e.g. "Lesson 12.mp3"
 Una carpeta de archivos de audio con el número de la lección en el nombre, p. ej. "Lección 12.mp3"
 
-📋  Copy to my own courses, to change it
-📋  Copiar a mis cursos, para modificarlo
+Copy to my own courses, to change it
+Copiar a mis cursos, para modificarlo
 
-＋  A lesson for each recording without text
-＋  Una lección por cada grabación sin texto
+A lesson for each recording without text
+Una lección por cada grabación sin texto
 
 More actions
-Grabaciones y copia…
+Más…
 
-＋ Create
-＋ Crear
+Create
+Crear
 
 Then add lessons in “My lessons”: type or paste the dialogue, notes and exercises.
 Luego añade lecciones en “Mis lecciones”: escribe o pega el diálogo, las notas y los ejercicios.
@@ -334,8 +322,8 @@ De nuevo
 Edit this lesson
 Editar esta lección
 
-active ✔
-2ª ola ✔
+active
+2ª ola
 
 active wave due
 2ª ola por hacer
@@ -430,8 +418,8 @@ Usar la voz aunque haya una grabación vinculada
 Audio player
 Reproductor de audio
 
-System player ✔
-Reproductor del sistema ✔
+System player
+Reproductor del sistema
 
 mpv adds pause and rewind, and plays your own MP3 recordings
 mpv añade pausa y rebobinado, y reproduce tus propias grabaciones MP3
@@ -444,9 +432,6 @@ Voces
 
 Free and offline after the download. A natural-sounding voice reads every sentence aloud when you have no recordings. Each voice is about 60 MB; the first one also fetches the voice engine (25 MB). Latin is read by the Italian voice with Latin pronunciation rules.
 Gratuitas y sin conexión tras la descarga. Una voz natural lee en voz alta cada frase cuando no tienes grabaciones. Cada voz pesa unos 60 MB; la primera descarga también el motor de voz (25 MB). El latín lo lee la voz italiana con las reglas de la pronunciación latina.
-
-Ready ✔
-Lista ✔
 
 Download
 Descargar
@@ -622,8 +607,8 @@ La ola activa: el diálogo y el ejercicio 1 de una lección anterior, mostrados 
 Lesson {0} done. Tomorrow you'll go over it once more — that's how it settles.
 Lección {0} hecha. Mañana la repasarás una vez más: así es como se fija.
 
-Lesson {0} done — well done! See you tomorrow for the next one.
-Lección {0} hecha, ¡buen trabajo! Hasta mañana para la siguiente.
+Lesson {0} done, well done. See you tomorrow for the next one.
+Lección {0} hecha, buen trabajo. Hasta mañana para la siguiente.
 
 Lesson {0} done again. See you tomorrow for the next one.
 Lección {0} rehecha. Hasta mañana para la siguiente.
@@ -652,11 +637,11 @@ preparo la voz…
 listen…
 escucha…
 
-● repeat aloud now
-● ahora repite en voz alta
+repeat aloud now
+ahora repite en voz alta
 
-✔ Finished
-✔ Terminado
+Finished
+Terminado
 
 Press ▶ to listen again.
 Pulsa ▶ para volver a escuchar.
@@ -712,14 +697,14 @@ Cerrar: el punto en el que estás en la lección queda guardado
 Lesson {0}
 Lección {0}
 
-‹  Back
-‹  Atrás
+Back
+Atrás
 
-✔  Finish the lesson
-✔  Terminar la lección
+Finish the lesson
+Terminar la lección
 
-Done — next step  ›
-Hecho, paso siguiente  ›
+Done — next step
+Hecho, paso siguiente
 
 Step {0} of {1}
 Paso {0} de {1}
@@ -805,8 +790,11 @@ quedan {0}
 Said it aloud — show me
 La he dicho en voz alta: muéstrala
 
-or press Space
-o pulsa Espacio
+or press
+o pulsa
+
+Space
+Espacio
 
 Hard
 Difícil
@@ -829,17 +817,17 @@ Tecla {0}
 The active wave is the second half of the method: from lesson {0} on, each day you also rebuild an earlier lesson — you see it in your language and say it aloud in {1}. After the last lesson the remaining ones come back one a day, also while you go on with the next course, until every lesson has been rebuilt. Settings → “Second wave starts” changes the distance.
 La ola activa es la segunda mitad del método: a partir de la lección {0}, cada día reconstruyes también una lección anterior: la ves en tu idioma y la dices en voz alta en {1}. Tras la última lección, las que quedan vuelven una al día, también mientras sigues con el curso siguiente, hasta que cada lección haya sido reconstruida. Ajustes → “Inicio de la segunda ola” cambia la distancia.
 
-‹  All lessons
-‹  Todas las lecciones
+All lessons
+Todas las lecciones
 
 Extra practice: this lesson's active wave is not due today, so it is not recorded. It comes back on its own day.
 Práctica de más: la ola activa de esta lección no toca hoy, así que no se registra. Volverá en su día.
 
-✔  Second wave done for this lesson
-✔  Segunda ola hecha para esta lección
+Second wave done for this lesson
+Segunda ola hecha para esta lección
 
-✔  Done
-✔  Hecho
+Done
+Hecho
 
 Second wave of lesson {0} done.
 Segunda ola de la lección {0} hecha.
@@ -925,14 +913,14 @@ Antes de la lección 1: lee la introducción.
 Not written yet for this course. As in the books, the introduction and the appendix come with the finished course: a grammar summary, an index of grammar topics, a word list in both directions and the expressions, each with its lessons.
 Aún no escrito para este curso. Como en los libros, la introducción y el apéndice llegan con el curso terminado: un resumen gramatical, un índice de temas de gramática, un léxico en los dos sentidos y las expresiones, cada uno con sus lecciones.
 
-Next: the pronunciation key  →
-Siguiente: la guía de pronunciación  →
+Next: the pronunciation key
+Siguiente: la guía de pronunciación
 
-Begin: lesson 1  →
-Empezar: lección 1  →
+Begin: lesson 1
+Empezar: lección 1
 
-Next: the lessons  →
-Siguiente: las lecciones  →
+Next: the lessons
+Siguiente: las lecciones
 
 Not written yet for this course: the indexes come with the finished course.
 Aún no escrito para este curso: los índices llegan con el curso terminado.
@@ -952,8 +940,8 @@ Aún no hay lecciones escritas para este curso.
 {0} · revision
 {0} · repaso
 
-Then, at the end of the book: the grammar  →
-Luego, al final del libro: la gramática  →
+Then, at the end of the book: the grammar
+Luego, al final del libro: la gramática
 
 Expand your courses with your own material: type or paste each dialogue with its translation, notes and exercises. Lessons are saved as plain text files, so you can also edit them in any text editor.
 Amplía tus cursos con tu propio material: escribe o pega cada diálogo con su traducción, las notas y los ejercicios. Las lecciones se guardan como archivos de texto sencillo, así que también puedes editarlas con cualquier editor de texto.
@@ -961,8 +949,8 @@ Amplía tus cursos con tu propio material: escribe o pega cada diálogo con su t
 You have no course of your own yet.
 Aún no tienes un curso tuyo.
 
-Create one for any language in Courses (“＋ New course”), or copy a built-in course there to expand it.
-Crea uno para cualquier idioma en Cursos (“＋ Nuevo curso”), o copia allí un curso incluido para ampliarlo.
+Create one for any language in Courses (“New course”), or copy a built-in course there to expand it.
+Crea uno para cualquier idioma en Cursos (“Nuevo curso”), o copia allí un curso incluido para ampliarlo.
 
 Go to Courses
 Ir a Cursos
@@ -973,8 +961,8 @@ Curso:
 Open the lesson files
 Abrir los archivos de las lecciones
 
-＋ New lesson
-＋ Nueva lección
+New lesson
+Nueva lección
 
 No lessons yet.
 Aún no hay lecciones.
@@ -996,9 +984,6 @@ Editar
 
 Edit lesson
 Editar la lección
-
-New lesson
-Nueva lección
 
 Number
 Número
@@ -1102,14 +1087,14 @@ Subir
 Remove
 Quitar
 
-＋ Add sentence
-＋ Añadir frase
+Add sentence
+Añadir frase
 
-✔ Right
-✔ Correcto
+Right
+Correcto
 
-≈ Right, check the accents:
-≈ Correcto, comprueba los acentos:
+Right, check the accents:
+Correcto, comprueba los acentos:
 
 Compare:
 Compara:
@@ -1156,11 +1141,8 @@ El diálogo
 Exercise 1 — now from your language
 Ejercicio 1: ahora desde tu idioma
 
-■ Stop
-■ Detener
-
-▶ Prompt and answer
-▶ Escucha y traduce en voz alta
+Prompt and answer
+Escucha y traduce en voz alta
 
 The voice says each sentence in your language, waits while you say it, then says it in the language you learn
 La voz dice cada frase en tu idioma, espera mientras la dices tú, luego la dice en el idioma que estudias
@@ -1271,8 +1253,8 @@ Versión {0}. La app busca una nueva versión en cada arranque; la actualizació
 Check for updates
 Buscar actualizaciones
 
-Up to date ✔
-Actualizada ✔
+Up to date
+Actualizada
 
 {0} is available
 Está disponible la {0}
@@ -1312,8 +1294,8 @@ Oscuro
 All courses…
 Todos los cursos…
 
-✔ Complete
-✔ Completado
+Complete
+Completado
 
 Continue
 Continuar
@@ -1327,8 +1309,8 @@ Idioma del nuevo curso:
 Lessons you write or paste yourself, with your own recordings if you have them.
 Lecciones que escribes o pegas tú, con tus propias grabaciones si las tienes.
 
-＋ New course
-＋ Nuevo curso
+New course
+Nuevo curso
 
 Start
 Empezar
@@ -1336,14 +1318,14 @@ Empezar
 Your own courses
 Tus cursos
 
-All courses →
-Todos los cursos →
+All courses
+Todos los cursos
 
 How it sounds, spelled for your language: high tones above, low tones below
 Cómo suena, escrito para tu idioma: los tonos altos arriba, los bajos abajo
 
-Reread a lesson →
-Releer una lección →
+Reread a lesson
+Releer una lección
 
 The active wave: from that lesson on, each day you also go back to an earlier lesson and rebuild its text from your language. Review shows it.
 La ola activa: desde esa lección, cada día vuelves también a una lección anterior y reconstruyes su texto desde tu idioma. Está en Repaso.
@@ -1353,8 +1335,8 @@ La ola activa: desde esa lección, cada día vuelves también a una lección ant
 Pause
 Pausa
 
-⏸ paused
-⏸ en pausa
+paused
+en pausa
 
 The whole dialogue in one go, as on a recording.
 Todo el diálogo seguido, como en una grabación.
@@ -1368,17 +1350,14 @@ las frases se grabaron en formatos de audio distintos
 Point at a note to light up its line in the dialogue; click to keep it lit.
 Pasa el puntero sobre una nota para iluminar su línea en el diálogo; haz clic para dejarla iluminada.
 
-▶  Start from the first lesson
-▶  Empieza por la primera lección
-
 Find your level
 Descubre tu nivel
 
 Skipped: the level test started you after this lesson
 Saltada: la prueba de nivel te hizo empezar después de esta lección
 
-↷ {0} skipped by the level test
-↷ {0} saltadas con la prueba de nivel
+{0} skipped by the level test
+{0} saltadas con la prueba de nivel
 
 Reading
 Lectura
@@ -1410,8 +1389,8 @@ Lecciones saltadas con tu última prueba de nivel: {0}. Si eliges la primera lec
 Stop the test
 Detener la prueba
 
-Level {0} · question {1} of {2}
-Nivel {0} · pregunta {1} de {2}
+Level {0} · {1} · question {2} of {3}
+Nivel {0} · {1} · pregunta {2} de {3}
 
 Listen, then choose what it means.
 Escucha y luego elige qué significa.
@@ -1437,8 +1416,8 @@ Di la frase en voz alta.
 Skip this item
 Saltar esta pregunta
 
-Next  ›
-Siguiente  ›
+Next
+Siguiente
 
 Your level
 Tu nivel
@@ -1543,3 +1522,6 @@ Comprueba tu pronunciación
 
 Say each sentence aloud after pressing Record: the words in green were understood, the red ones are worth another try.
 Di cada frase en voz alta después de pulsar Grabar: las palabras en verde se han entendido, las rojas merecen otro intento.
+
+Back 5 seconds
+Atrás 5 segundos

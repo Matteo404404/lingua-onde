@@ -1836,21 +1836,6 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "d4a5ff6bcca6c4867b1c4fd4ef63e4db7436ef363e0ad7531d1558856bae64f4"
 
 [[package]]
-name = "marea"
-version = "0.1.0"
-dependencies = [
- "chrono",
- "cpal",
- "eframe",
- "png",
- "rfd",
- "serde",
- "serde_json",
- "winit",
- "winresource",
-]
-
-[[package]]
 name = "linux-raw-sys"
 version = "0.4.15"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1894,6 +1879,21 @@ name = "mach2"
 version = "0.6.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "dae608c151f68243f2b000364e1f7b186d9c29845f7d2d85bd31b9ad77ad552b"
+
+[[package]]
+name = "marea"
+version = "0.1.0"
+dependencies = [
+ "chrono",
+ "cpal",
+ "eframe",
+ "png",
+ "rfd",
+ "serde",
+ "serde_json",
+ "winit",
+ "winresource",
+]
 
 [[package]]
 name = "memchr"

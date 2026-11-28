@@ -52,7 +52,11 @@ and an appendix with the grammar, a grammar index, the words and the
 expressions; Perfectionnement: 70 lessons, an introduction, and an appendix
 with the grammar, a grammar index and the expressions; Mastery: 100 lessons
 with open tasks, an introduction, and an appendix with style and grammar, an
-index and the expressions). The other
+index and the expressions). Portuguese of Lisbon for Italian speakers has
+Foundation complete (100 lessons with translations and notes in Italian,
+figured pronunciation respelled for Italian readers, an introduction and an
+appendix with the grammar, a grammar index, the words and the expressions);
+its Perfectionnement and Mastery still have sample lessons only. The other
 languages have 13 sample
 lessons (lessons 1–8, 26, 51 and 76 of Foundation, one lesson each of
 Perfectionnement and Mastery), with translations and notes in Italian, English

@@ -8197,3 +8197,223 @@ tasks:
 - La carta antigua se leía en cada boda de la casa, y este año la novia pidió la versión inglesa. Su padre la había traducido línea por línea, y la tarjeta pasó de mano en mano por la mesa, junto al vino de la familia. No se había dejado nada fuera, dijo, salvo la posdata, que era para la familia. —¿Quiere usted que la lea otra vez, abuela? —preguntó el novio, y ella dijo que sí. —¡Léela ya, que tenemos hambre! —gritó un primo. Cuando el novio leyó la posdata en voz alta, en español, los invitados se rieron con lo del chocolate. Entonces la novia dio la vuelta a la tarjeta, y en letra pequeña, al pie, había una línea en inglés: su mujer pedía chocolate cada día. El novio sonrió y dijo que la tarjeta siempre había sido para la familia.
   task.en: Translate this short English story into Spanish, of about the same length, with tú for the family and usted for the grandmother, and keep the chocolate joke. Then, in English, name two of your choices. Story: The old letter was read at every wedding in the house, and this year the bride asked for the English version. Her father had translated it line by line, and the card went round the table with the family wine. Nothing was left out, he said, except the postscript, which was for the family. "Would you like it read again, Grandmother?" the groom asked, and she said yes. "Read it, you lot, we are hungry!" shouted a cousin. When the groom read the postscript aloud, in Spanish, the guests laughed at the chocolate. Then the bride turned the card over, and in small print at the bottom was a line in English: his wife asked for chocolate every day. The groom smiled and said the card had always been for the family.
   rubric.en: meaning: the wedding, the card, the postscript and the chocolate joke are kept, and nothing is added; register: tú for the family, usted for the grandmother, the Spanish of Spain; structure: the story keeps its order, with the card turned over at the same point; idiom: the passive and the possessive are rendered as Spanish does them, with se and the article; effect: the last laugh about the chocolate lands in Spanish as it does in English.
+
+== 99 C2
+numeral: Lección noventa y nueve
+title: Vivir en español
+title.en: Living in Spanish
+
+dialogue:
+- Querido amigo:
+  en: Dear friend:
+- No sé si decirte adiós o hasta luego. Creo que las dos cosas son verdad.
+  en: I do not know whether to say goodbye or see you later. I think both are true.
+- Este curso termina aquí, pero lo que viene ahora no lo marca ningún temario: lo decides tú, cada semana.
+  en: This course ends here, but what comes next is not set by any syllabus: you decide it, every week.
+- Un curso puede enseñarte palabras y reglas, pero no puede hacerte pensar en español a las ocho de la mañana. Eso solo lo hace el uso.
+  en: A course can teach you words and rules, but it cannot make you think in Spanish at eight in the morning. Only use does that.
+- Por eso te propongo tres hábitos, y no más, porque las listas largas son las que se abandonan.
+  en: So I suggest three habits, and no more, because long lists are the ones that get dropped.
+- El primero es escribir. Escribe cartas a un amigo que hable español, o a alguien que te corrija con cariño, y no te desanimes si tardas.
+  en: The first is writing. Write letters to a friend who speaks Spanish, or to someone who will correct you kindly, and do not lose heart if it takes you a long time.
+- Una carta de una página vale más que diez ejercicios que nunca vas a releer.
+  en: One page of letter is worth more than ten exercises you will never read again.
+- El segundo es leer. Elige una novela de un autor español y otra de un autor de Hispanoamérica, y lee un capítulo cada noche, aunque al principio no entiendas todo.
+  en: The second is reading. Choose a novel by a Spanish writer and another by a writer from Latin America, and read one chapter each night, even if at first you do not understand everything.
+- Las novelas tienen una ventaja sobre los periódicos: la historia te obliga a seguir, y las palabras que no conoces vuelven en las páginas siguientes.
+  en: Novels have one advantage over the papers: the story keeps you going, and the words you do not know come back on the next pages.
+- Los periódicos tienen otra: cada día repiten las mismas palabras de la política, de la economía y del tiempo, y al cabo de unas semanas ya no necesitarás el diccionario para leer un titular.
+  en: The papers have another: every day they repeat the same words of politics, the economy and the weather, and after a few weeks you will no longer need a dictionary to read a headline.
+- Lee primero el titular, después la primera frase y, al final, la noticia entera.
+  en: Read the headline first, then the first sentence and, at the end, the whole story.
+- El tercero es hablar, y ahí entra el teatro. Ve al teatro en español cuando puedas: un clásico y una obra de hoy.
+  en: The third is speaking, and that is where theatre comes in. Go to the theatre in Spanish when you can: a classic and a play from today.
+- Un actor que dice una frase en voz alta te enseña el ritmo mejor que cualquier regla.
+  en: An actor saying a line out loud teaches you the rhythm better than any rule.
+- Federico García Lorca escribió obras que se siguen representando en toda España, y sus diálogos se pueden leer en voz alta en casa.
+  en: Federico García Lorca wrote plays that are still staged all over Spain, and their dialogue can be read aloud at home.
+- La radio es el cuarto apoyo. Escúchala mientras cocinas o caminas, aunque no entiendas cada palabra: el oído se acostumbra antes de lo que crees.
+  en: Radio is the fourth support. Listen while you cook or walk, even if you do not follow every word: the ear gets used to it sooner than you think.
+- La radio pública de España, Radio Nacional de España, tiene varias emisoras con noticias y programas culturales, y muchas de sus emisiones se pueden escuchar después en internet.
+  en: Spain's public radio, Radio Nacional de España, has several stations with news and cultural programmes, and many of its broadcasts can be heard afterwards on the internet.
+- RTVE es la corporación pública que la agrupa, así que ese es el nombre que debes buscar.
+  en: RTVE is the public corporation that includes it, so that is the name to look for.
+- Las series son el quinto apoyo. Elige una de otro país de habla hispana y mira una escena dos veces: una vez para la historia y otra para las palabras.
+  en: Series are the fifth support. Choose one from another Spanish-speaking country and watch a scene twice: once for the story, and once for the words.
+- Notarás que los personajes de cada país hablan de forma distinta, y ahí empieza la curiosidad de verdad.
+  en: You will notice that characters from each country speak differently, and that is where real curiosity begins.
+- Si te gusta hablar en grupo, busca un grupo de conversación. En muchas bibliotecas y centros culturales de España y de América hay gente que se reúne para hablar sin examen.
+  en: If you like talking in a group, look for a conversation group. In many libraries and cultural centres in Spain and Latin America there are people who meet to talk, with no exam.
+- Pregunta en la biblioteca de tu barrio: es el primer sitio donde mirar.
+  en: Ask at the library in your neighbourhood: it is the first place to look.
+- Y cuando alguien te conteste en inglés, dile en una frase: «Prefiero seguir en español, aunque tarde un poco».
+  en: And when someone answers you in English, say in one sentence: "I would rather go on in Spanish, even if it takes a little longer."
+- Eso también es hablar, y es lo que más cuesta.
+  en: That too is speaking, and it is what costs the most.
+- Hay una cosa más: la vuelta del curso de maestría no termina aquí. Desde la lección cincuenta, cada lección te devuelve un texto anterior, y tú lo reconstruyes desde el inglés, con el mismo sentido, el mismo tono y el mismo efecto, antes de compararlo con el original.
+  en: One more thing: the Mastery wave does not end here. From lesson 50 onwards each lesson brings back an earlier text, and you rebuild it from the English, with the same meaning, tone and effect, before you compare it with the original.
+- Cuando reconstruyas un texto, no busques la frase exacta: busca lo que quería decir, y solo después compara.
+  en: When you rebuild a text, do not look for the exact sentence: look for what it meant, and only then compare.
+- Y no te exijas la perfección: lo que importa es que la frase llegue.
+  en: And do not demand perfection of yourself: what matters is that the sentence gets across.
+- Dentro de un año, vuelve a leer las cartas que escribiste el primer mes, y verás lo que ha cambiado.
+  en: In a year's time, go back and read the letters you wrote in the first month, and you will see what has changed.
+- El ejercicio de esta lección es escribir un plan para el año que viene, en español, con cosas concretas. Un plan sin fechas ni metas se queda en buenas intenciones.
+  en: This lesson's exercise is to write a plan for next year, in Spanish, with concrete things in it. A plan without dates or aims stays a matter of good intentions.
+- Cuando te quedes sin palabras, no te rindas: rodea la palabra que te falta y sigue.
+  en: When you run out of words, do not give up: go round the word you are missing and carry on.
+- Has hecho lo más difícil: volver cada día.
+  en: You have done the hardest thing: coming back every day.
+- Nos vemos en la lección cien, y después, en la calle.
+  en: See you in lesson one hundred, and after that, in the street.
+
+notes.en:
+1. "Querido amigo" (sentence 1): the opening of a letter to a reader you have come to know (Perfectionnement, lesson 69, note 1). The letter uses tú from the first line to the last, as a teacher who has become a friend would.
+2. "adiós" and "hasta luego" (sentence 2): adiós is the plain farewell, while hasta luego expects another meeting. The writer does not know which is right, so both are said.
+3. "hacerte pensar" (sentence 4): with an infinitive, the object pronoun can attach to the end, as in hacerte pensar, or come before the conjugated verb, as in te hace pensar. Both are correct, and the first is the one used here.
+4. "Por eso" (sentence 5): the consequence of the line before. Because only use teaches what a course cannot, the writer suggests habits.
+5. "El primero es escribir" (sentence 6): the ordinals are primero, segundo, tercero, cuarto and quinto. Primero shortens to primer before a masculine noun, as in el primer mes (sentence 27).
+6. "Hispanoamérica" (sentence 8): the Spanish-speaking countries of the Americas. In English the same area is called Latin America, which is the term used in these notes.
+7. "al cabo de unas semanas" (sentence 10): al cabo de with a period of time means after that time has passed, as in "after a few weeks".
+8. "Ve al teatro" (sentence 12): the tú imperative of ir, to go. Ve is irregular: it is not the infinitive ir, and it does not take the -e ending that regular verbs have in the tú imperative.
+9. "Federico García Lorca" (sentence 14): a poet and playwright of the twentieth century, whose plays are still staged in many Spanish towns. A play is an obra de teatro, and obra on its own is any kind of work.
+10. "Radio Nacional de España" (sentence 16): the national radio network, which (Foundation, lesson 99) names. The next sentence gives RTVE, the public broadcaster that includes it, so the learner knows which name to search for.
+11. "aunque tarde" (sentence 22): aunque with the subjunctive is for a case that may or may not happen (Perfectionnement, lesson 69, note 8). Whether the learner will take a long time is not known, so the verb is in the subjunctive.
+12. "la vuelta del curso de maestría" (sentence 24): the Mastery wave. From lesson 50 each lesson brings back an earlier text (lesson 50 brings back lesson 1), and the learner rebuilds it from the English, then compares it with the original. The wave goes on after this course, so the sentence says it does not end here.
+13. "dentro de un año" and "ha cambiado" (sentence 27): dentro de points to a moment in the future, and the English "in a year's time" fits it. The perfect ha cambiado is right because the change still shows now.
+14. "buenas intenciones" (sentence 28): a fixed phrase, quedarse en buenas intenciones, for a plan that is never carried out. The English "a matter of good intentions" is its exact sense.
+15. "Nos vemos" (last sentence): the reflexive form of ver, to see, used as a farewell to people you expect to meet again. It closes the letter, and the last phrase places the meeting in the street, not in the book.
+
+ex1:
+- No hace falta que te lo diga todo hoy; con que empieces ya es bastante.
+  en: You do not have to tell me everything today; it is enough that you make a start.
+- Espero que me escribas pronto, aunque sea una línea.
+  en: I hope you write to me soon, even if it is only a line.
+- Llevo tres meses sin hablar con nadie en español, así que hoy hablo con el espejo.
+  en: I have not spoken to anyone in Spanish for three months, so today I am talking to the mirror.
+- Pensaba que el curso acabaría antes, pero todavía me queda mucho por leer.
+  en: I thought the course would finish sooner, but I still have a lot left to read.
+- Si sigues leyendo cada noche, dentro de un año no reconocerás el primer capítulo que leíste. (to a friend)
+  en: If you keep reading every night, in a year you will not recognise the first chapter you read. (to a friend)
+
+ex2:
+- Llevo dos semanas sin [escribir] nada en español.
+  en: I have not written anything in Spanish for two weeks.
+- Ponlo en [práctica] cada día, aunque sea un minuto.
+  en: Put it into practice every day, even if it is only a minute.
+- No estés en las [nubes] y presta atención.
+  en: Do not daydream, and pay attention.
+- Ojalá [consiga] terminar la novela este año.
+  en: I hope I manage to finish the novel this year.
+- Me [alegro] de que hayas vuelto a escribirme.
+  en: I am glad you have written to me again.
+
+tasks:
+- Mi plan para el año que viene tiene tres metas, y cada una tiene fecha. Escribiré una carta de una página cada semana a una amiga de Sevilla, para no dejar de escribir en español. Antes de junio leeré dos novelas, una de España y otra de Latinoamérica, y consultaré el diccionario de la Academia cada vez que dude de una palabra. En febrero me apuntaré a un grupo de conversación de la biblioteca de mi barrio, y cuando alguien me conteste en inglés le diré: «Prefiero seguir en español». En diciembre volveré a leer mis primeras cartas para ver lo que ha cambiado.
+  task.en: Write a plan for your next year in Spanish, of about 110 words: three aims, a date for each, and what you will say when someone answers you in English.
+  rubric.en: meaning: three aims are set out, each with a date, and the English reply is included; register: first person, plain and warm, the Spanish of Spain; structure: the aims follow the order of the year, from the letters to the reading to the group and the end-of-year check; idiom: apuntarse a, no dejar de and consultar el diccionario are used in their real sense; effect: the plan reads as one a learner could really keep.
+
+== 100 C2
+numeral: Lección cien
+title: La última palabra
+title.en: The last word
+
+dialogue:
+- ¿Qué significa dominar una lengua?
+  en: What does it mean to master a language?
+- La respuesta que da cualquier manual es que hay que saberla bien, pero eso no dice nada, porque nadie sabe una lengua del todo.
+  en: The answer every textbook gives is that you must know it well, but that says nothing, because nobody knows a language completely.
+- Tampoco la sabe entera un hablante nativo: cada persona tiene su propio registro, sus palabras de la familia y sus silencios.
+  en: Nor does a native speaker know it entirely: each person has their own register, their family words and their silences.
+- Así que dominar no es tenerlo todo, sino tener lo necesario para la vida que uno lleva.
+  en: So mastery is not having everything, but having what is necessary for the life one leads.
+- Pero lo necesario cambia con cada conversación, y ahí está la dificultad.
+  en: But what is necessary changes with every conversation, and that is where the difficulty lies.
+- En el primer curso se aprende a pedir; en el segundo, a entender; en este, a elegir.
+  en: In the first course you learn to ask for things; in the second, to understand; in this one, to choose.
+- Elegir es decidir entre dos palabras que casi significan lo mismo y saber cuál va en cada sitio.
+  en: To choose is to decide between two words that almost mean the same and to know which one goes where.
+- Morir y fallecer dicen lo mismo, pero no suenan igual en una esquela.
+  en: "Morir" and "fallecer" mean the same thing, but they do not sound the same in a death notice.
+- Elegir también es notar cuándo una palabra es demasiado fuerte: decir «estoy cabreado» en una reunión de trabajo no es lo mismo que decirlo con los amigos.
+  en: Choosing is also noticing when a word is too strong: saying "estoy cabreado" in a work meeting is not the same as saying it with friends.
+- El dominio se nota también en lo que no se dice: en el silencio que llega a tiempo, o en el «ya veremos» que deja una conversación abierta sin decir que no.
+  en: Mastery shows in what is left unsaid too: in the silence that comes at the right moment, or in the "ya veremos" that leaves a conversation open without saying no.
+- Quien domina la lengua sabe cuándo se dice tú y cuándo usted, y que el cambio de una forma a otra ya dice algo.
+  en: Whoever masters the language knows when to say tú and when usted, and that the change from one form to the other already says something.
+- Sabe también reírse, porque en español la broma es, a menudo, lo más difícil.
+  en: They also know how to laugh, because in Spanish the joke is, often, the hardest part.
+- Un chiste contado con la palabra exacta funciona; con la palabra casi exacta, no.
+  en: A joke told with the exact word works; with the almost exact one, it does not.
+- Confieso que tuve miedo al escribir esta última página, y el miedo era a equivocarme.
+  en: I confess that I was afraid when I wrote this last page, and the fear was of making a mistake.
+- De ese miedo no se sale del todo, y tampoco hace falta.
+  en: One never quite gets over that fear, and there is no need to.
+- Dominar una lengua es aceptar que uno va a equivocarse un poco, siempre.
+  en: Mastering a language means accepting that you will go on making small mistakes, always.
+- Lo que cambia es el tamaño del error: al principio, un artículo; después, un matiz.
+  en: What changes is the size of the mistake: at first, an article; later, a nuance.
+- Y el matiz pesa más en español de lo que parece, porque una sola palabra puede cambiar el sentido de toda una frase.
+  en: And nuance weighs more in Spanish than it seems, because a single word can change the meaning of a whole sentence.
+- Piensa en un café. En la primera lección, pedirlo era una frase de libro, y el camarero preguntaba y tú contestabas con lo que te habían enseñado.
+  en: Think of ordering a coffee. In the first lesson, asking for one was a sentence from a book, and the barman asked, and you answered with what you had been taught.
+- Hoy pedirlo es lo de menos: lo que cuenta es que puedes decir algo más, y que el camarero se ríe de tu broma.
+  en: Today ordering it is the least of it: what counts is that you can say something more, and that the barman laughs at your joke.
+- Así que la última palabra no es la del libro, sino la que se dice en la barra, sin pensar.
+  en: So the last word is not the one in the book, but the one said at the bar, without thinking.
+- En la primera lección, el camarero hace una pregunta que parece pequeña.
+  en: In the first lesson, the barman asks a question that seems small.
+- Quizá sea la mejor imagen de todo esto: siempre hay algo más.
+  en: Perhaps it is the best picture of all this: there is always something more.
+- No hay último café, ni última palabra, ni última lengua que uno domine del todo.
+  en: There is no last coffee, no last word, no last language that one masters completely.
+- Y, aun así, uno puede sentarse en la barra y sentirse en casa.
+  en: And yet one can sit at the bar and feel at home.
+- Eso, creo, es dominar: no tener que pensar cada palabra para decir lo que uno quiere decir.
+  en: That, I think, is what mastering means: not having to think about each word in order to say what one wants to say.
+- ¿Algo más?
+  en: Anything else?
+- Sí, una tostada con tomate, lo mismo que la primera vez.
+  en: Yes, a slice of toast with tomato, the same as the first time.
+
+notes.en:
+1. "dominar una lengua" (sentence 1): dominar means to have command of a language or a skill. "To master" is the closest English word; saber, "to know", is weaker, because a person can know a language and still not command it.
+2. "Tampoco la sabe entera" (sentence 3): tampoco is a negative word, and in this clause it stands before the verb without a no, so the sentence has one negative only.
+3. "Morir" and "fallecer" (sentence 8): both mean to die. Fallecer is the common word in an esquela, the printed death notice in the papers, and "to pass away" is its softer English equivalent. "To die" is the plain word.
+4. "cabreado" (sentence 9): informal Spanish for angry, most used among friends in Spain. Enfadado is the neutral choice at work. "Furious" is too strong for either.
+5. "ya veremos" (sentence 10): "we'll see", said to leave a question open without refusing. It ends a conversation without a no.
+6. "tú" and "usted" (sentence 11): Spain uses tú with friends and usted with strangers and in formal settings. English has only "you", so the switch is visible in Spanish only.
+7. "se ríe" (sentence 20): reírse de is to laugh at something. The accent on the i of ríe is written because the stress falls there.
+8. "el matiz" (sentence 18): a matiz is a shade of meaning. "Nuance" is the close English word, and "detail" is wrong here.
+9. "lo que cuenta es que" (sentence 20): what matters is that. The verbs after it are in the indicative, because the points are facts about the learner, not wishes.
+10. "¿Algo más?" (sentence 27): the barman's question, whose words algo and más are explained in (Foundation, lesson 1, note 5). The learner answers with the same order as in Foundation, lesson 1, sentence 5.
+11. The last line: lo mismo que la primera vez repeats the answer of the first lesson word for word. The order is the same, but it is now said without thought, and the question still leaves room for something more.
+
+ex1:
+- Hablar sin errores no es lo que hace falta; lo que hace falta es saber qué hacer con ellos.
+  en: Speaking without mistakes is not what is needed; what is needed is knowing what to do with them.
+- El dependiente me llamó «caballero» y yo no supe si era cortesía o ironía.
+  en: The shop assistant called me "sir", and I did not know whether it was courtesy or irony.
+- No es que no sepa la respuesta, es que no sé si quiero darla hoy.
+  en: It is not that I do not know the answer; it is that I do not know whether I want to give it today.
+- Me costó años decirlo sin pensar, y hoy lo digo sin esfuerzo.
+  en: It took me years to say it without thinking, and today I say it without effort.
+- Cuando llegue el invierno, espero haber vuelto a leer todo lo que dejé a medias.
+  en: When winter comes, I hope I have gone back to reading everything I left unfinished.
+
+ex2:
+- Mi padre es de [pocas] palabras, pero cuando habla, todos escuchan.
+  en: My father is a man of few words, but when he speaks, everyone listens.
+- Ve al [grano], que no tenemos todo el día.
+  en: Get to the point, we do not have all day.
+- Diste [en] el clavo con tu respuesta.
+  en: You hit the nail on the head with your answer.
+- Aprendí mucho a [lo] largo de este curso.
+  en: I learnt a great deal over this course.
+- Hizo la [vista] gorda ante el error del camarero.
+  en: He turned a blind eye to the waiter's mistake.
+
+tasks:
+- Dominar una lengua, para mí, es poder decir lo que quiero sin buscar cada palabra. No lo he conseguido del todo, y creo que nadie lo consigue. Pero hoy entiendo el chiste del camarero, elijo el registro sin pensarlo y me equivoco sin que me dé vergüenza. Para mí, la última palabra es la que todavía no he dicho. Así que sigo: mañana leeré otro capítulo y escribiré una carta más.
+  task.en: Write your own last word to this course, in Spanish, of about 80 words, in the first person: what mastering a language means to you, and what you will do next.
+  rubric.en: meaning: mastery is defined as a choice of words and registers, with one concrete example and one plan; register: first person, plain and warm, the Spanish of Spain; structure: a short argument in three moves, ending on a line of your own; idiom: sin buscar cada palabra, sin que me dé vergüenza and la última palabra are used in their real sense; effect: the closing line sounds like your own voice, not the lesson's.

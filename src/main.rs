@@ -8,6 +8,7 @@ mod editor;
 mod format;
 mod i18n;
 mod model;
+mod placement;
 mod practice;
 mod session;
 mod store;

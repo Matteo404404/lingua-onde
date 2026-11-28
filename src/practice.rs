@@ -78,7 +78,7 @@ fn is_cjk(c: char) -> bool {
 }
 
 /// Words, without punctuation; Chinese characters one by one.
-fn tokens(s: &str) -> Vec<String> {
+pub(crate) fn tokens(s: &str) -> Vec<String> {
     let mut out = Vec::new();
     let mut word = String::new();
     for c in s.chars() {

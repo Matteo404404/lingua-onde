@@ -162,22 +162,44 @@ lesson files against the built-in rules and prints what is missing.
 The full method, course by course, is in [METHOD.md](METHOD.md). In the app,
 every lesson goes:
 
-1. Listen without the text, repeating each sentence aloud in the pause.
+1. Listen without the text: the voice reads the whole dialogue in one go, as
+   a recording does, and lights the sentence it is on. "Pause to repeat",
+   ticked for a step, makes it wait after each sentence for you to repeat it
+   aloud (sentence by sentence, as before).
 2. The same, reading the translation in your language.
 3. The same, reading the original.
 4. Read the dialogue with the translation (literal sense in brackets) and,
    the figured pronunciation for your language: the whole sentence in
    lessons 1–28, then the new words (the guide is under Notes,
    "Pronunciation guide").
-5. Pronunciation observations, notes and, in some lessons, a cultural note.
+5. Pronunciation observations, notes and, in some lessons, a cultural note,
+   with the dialogue beside them (above them on a narrow window): pointing at
+   a note lights the line it is about, found from the line it cites
+   ("(sentence 3)") or the words it opens with; a click keeps it lit.
 6. Exercise 1: translate. Exercise 2: fill in the missing words (one dot per
    letter; checked, accents forgiven with a warning). Mastery adds open tasks.
 7. Read it again with the translation hidden.
-8. Listen once more without the text, repeating.
+8. Listen once more without the text.
 9. Read and listen to the two previous dialogues.
 10. From lesson 50, the active wave: the lesson 49 places back (50 brings
     back 1), its dialogue and exercise 1 in your language only, to say (and
     optionally type) in the language you learn, then compare.
+
+Starting a new language offers two ways in: "Start from the first lesson", or
+"Find your level", also on each language's card in Courses at any time. The
+level test takes about ten minutes and is built from the course's own
+lessons: per level, from A1 up, two questions each of reading (a line and its
+meaning among four), listening (the same, only heard; it needs the voice, or
+can be skipped and then does not count), writing (an exercise 2 sentence,
+accents required, half right without them) and, once the speech module is in,
+speaking. A level is passed at 70% of the questions that counted, and the test
+stops at the first level not passed. The result gives the level, one line per
+skill, and the lesson to start at: the first lesson of the level above (A2
+passed: Foundation 51; B2: Perfectionnement 46; C1: Mastery 26), within the
+courses written for your language. The lessons before it are marked as
+skipped, not studied: they never come back in the active wave or the reviews,
+Courses counts them apart, and they can still be opened. Taking the test
+again, or choosing the first lesson, takes the marks off.
 
 Every 7th lesson is a revision lesson: a revision dialogue whose lines name
 the lessons they come from, studied the same way, with the grammar of the
@@ -214,7 +236,11 @@ time, Home offers the last dialogue to listen to and repeat.
   you already own. Do not put someone else's course recordings into this repo.
 - Voices: Settings and voices, "Download" fetches the free offline Piper
   engine (about 25 MB, once) and one voice per language (about 60 MB). Latin
-  is read by the Italian voice with Latin pronunciation rules.
+  is read by the Italian voice with Latin pronunciation rules. In the
+  listening steps the voice speaks every sentence once (cached), joins them
+  into one WAV with a short silence between lines (a little longer after a
+  question), and plays it in one go; the lit sentence follows from the
+  sentences' lengths. "Pause to repeat" is kept per step.
 - The voices need nothing installed: they play through the system's own
   player (Windows' sound player, `afplay` on macOS, PipeWire, PulseAudio or
   ALSA on Linux), and their speed, slower in Foundation's first lessons, is
@@ -235,8 +261,9 @@ format is in `content/FORMAT.md`.
 - `src/main.rs` window, `--screenshot`, `--check`. `src/app.rs` navigation,
   home, courses, settings. `src/session.rs` the guided lesson, listening,
   review. `src/practice.rs` the active wave, Mastery's open tasks and the
-  answer check. `src/editor.rs` My lessons. `src/audio.rs` player, recordings,
-  voices. `src/format.rs` lesson files and the built-in lesson rules.
+  answer check. `src/placement.rs` the level test ("Find your level").
+  `src/editor.rs` My lessons. `src/audio.rs` player, recordings, voices,
+  the joined dialogue recording. `src/format.rs` lesson files and the built-in lesson rules.
   `src/store.rs` data folder, progress, review schedule. `src/theme.rs`
   colours, fonts and shared widgets. `src/i18n.rs` the interface in the
   learner's language, from `content/ui/<base>.txt` (Italian so far).
@@ -254,7 +281,10 @@ format is in `content/FORMAT.md`.
   keep it. Never rename a course id (`Stage::course_id`). The last good file
   is copied to `progress.backup.json`; a file that cannot be read is set
   aside as `progress.unreadable-<time>.json`, never overwritten. Files from
-  v1.0.0 (one 300-lesson course per language) are converted on load.
+  v1.0.0 (one 300-lesson course per language) are converted on load. A
+  lesson the level test skipped has `placed` (a day) and no `completed`;
+  `level_tests` holds each language's test or first-lesson choice. Older
+  versions ignore both fields.
 - `packaging/` the launcher entry, icon, `install.sh` and the Windows setup
   script `lingua-onde.iss` (Inno Setup); `.github/workflows/release.yml`
   builds the downloads (with the Windows setup and the macOS disk images), `.github/workflows/check-platforms.yml` checks the
@@ -267,8 +297,10 @@ format is in `content/FORMAT.md`.
 
 `cargo test` checks the lesson format, every built-in course (complete in
 Italian, English and Spanish, numbered inside its level's range, pinyin and
-Latin vowel lengths where due), answer checking, the review schedule, and
-that every interface text has its Italian translation.
+Latin vowel lengths where due), answer checking, the review schedule, the
+joined dialogue recording and its timings, the lines notes refer to, the level
+test (levels to lessons, the stop, placing and taking it back), and that every
+interface text has its Italian and Spanish translation.
 With network (and, for the listening test, mpv with a muted config:
 `MPV_HOME` with `ao=null`):
 
@@ -276,7 +308,8 @@ With network (and, for the listening test, mpv with a muted config:
 cargo test -- --ignored
 ```
 
-That also downloads voices, speaks, and runs the listen, pause, repeat sequence.
+That also downloads voices, speaks, and runs the listening both ways: sentence
+by sentence with pauses, and the whole dialogue as one recording.
 
 ## License
 

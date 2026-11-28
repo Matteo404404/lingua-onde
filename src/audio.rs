@@ -523,6 +523,51 @@ impl Voices {
         Some(self.dir.join("cache").join(format!("{:016x}.wav", fnv(&key))))
     }
 
+    /// The sentences as one recording, a short silence between them, and the
+    /// second each sentence starts at; None while one is still being spoken.
+    pub fn joined(&self, code: &str, texts: &[String]) -> Option<Result<(PathBuf, Vec<f64>), String>> {
+        let texts: Vec<String> = texts.iter().map(|t| t.replace(['[', ']'], "")).collect();
+        let spoken: Vec<usize> = (0..texts.len()).filter(|&i| !texts[i].trim().is_empty()).collect();
+        let files: Vec<PathBuf> = spoken.iter().map(|&i| self.speech_file(code, &texts[i])).collect::<Option<_>>()?;
+        if !files.iter().all(|f| f.is_file()) {
+            return None;
+        }
+        let parts = match files.iter().map(std::fs::read).collect::<Result<Vec<_>, _>>() {
+            Ok(p) => p,
+            Err(e) => return Some(Err(e.to_string())),
+        };
+        // A question is mostly answered by the other speaker: a longer breath there.
+        let gaps: Vec<f32> = (0..spoken.len())
+            .map(|k| match k {
+                0 => 0.0,
+                _ if texts[spoken[k - 1]].trim_end_matches(['"', '\'', '»', '”', ')']).ends_with('?') => 0.85,
+                _ => 0.6,
+            })
+            .collect();
+        let (wav, at) = match join_wavs(&parts, &gaps) {
+            Ok(j) => j,
+            Err(e) => return Some(Err(e)),
+        };
+        // A line with no text starts where the next one does.
+        let mut starts = vec![0.0; texts.len()];
+        let mut next = f64::INFINITY;
+        for i in (0..texts.len()).rev() {
+            if let Some(k) = spoken.iter().position(|&s| s == i) {
+                next = at[k];
+            }
+            starts[i] = next;
+        }
+        let key: String = files.iter().zip(&gaps).map(|(f, g)| format!("{}|{g}\n", f.display())).collect();
+        let out = self.dir.join("cache").join(format!("dlg-{:016x}.wav", fnv(&key)));
+        if !out.is_file() {
+            let tmp = out.with_extension("part.wav");
+            if let Err(e) = std::fs::write(&tmp, &wav).and_then(|_| std::fs::rename(&tmp, &out)) {
+                return Some(Err(e.to_string()));
+            }
+        }
+        Some(Ok((out, starts)))
+    }
+
     /// Queue sentences to be spoken ahead of time; files appear as they're done.
     pub fn prepare(&self, code: &str, texts: &[String]) {
         if !self.ready(code) {
@@ -545,6 +590,69 @@ impl Voices {
             }
         }
     }
+}
+
+/// The format block (its first 16 bytes) and the samples of a PCM WAV file.
+fn wav_parts(bytes: &[u8]) -> Result<(&[u8], &[u8]), String> {
+    if bytes.len() < 12 || &bytes[..4] != b"RIFF" || &bytes[8..12] != b"WAVE" {
+        return Err(tr("not a WAV file").into());
+    }
+    let (mut fmt, mut data) = (None, None);
+    let mut at = 12;
+    while at + 8 <= bytes.len() {
+        let len = u32::from_le_bytes([bytes[at + 4], bytes[at + 5], bytes[at + 6], bytes[at + 7]]) as usize;
+        // A streamed file may give a longer length than it has.
+        let body = &bytes[at + 8..at.saturating_add(8).saturating_add(len).min(bytes.len())];
+        match &bytes[at..at + 4] {
+            b"fmt " => fmt = Some(body),
+            b"data" => data = Some(body),
+            _ => {}
+        }
+        at = at.saturating_add(8).saturating_add(len).saturating_add(len & 1);
+    }
+    let fmt = fmt.filter(|f| f.len() >= 16 && f[..2] == [1, 0]).ok_or(tr("not a WAV file"))?;
+    Ok((&fmt[..16], data.ok_or(tr("not a WAV file"))?))
+}
+
+/// WAV files of one format joined into one, with `gaps[i]` seconds of
+/// silence before part i; also the second each part starts at.
+pub fn join_wavs(parts: &[Vec<u8>], gaps: &[f32]) -> Result<(Vec<u8>, Vec<f64>), String> {
+    let mut fmt: Option<&[u8]> = None;
+    let mut data = Vec::new();
+    let mut starts = Vec::new();
+    for (i, p) in parts.iter().enumerate() {
+        let (f, d) = wav_parts(p)?;
+        if fmt.is_some_and(|x| x != f) {
+            return Err(tr("the sentences were spoken in different sound formats").into());
+        }
+        fmt = Some(f);
+        let rate = u32::from_le_bytes([f[4], f[5], f[6], f[7]]) as f64;
+        let block = u16::from_le_bytes([f[12], f[13]]).max(1) as usize;
+        let bits = u16::from_le_bytes([f[14], f[15]]);
+        let silence = (gaps.get(i).copied().unwrap_or(0.0) as f64 * rate).round() as usize * block;
+        // Eight-bit samples are unsigned: their silence is 128.
+        data.resize(data.len() + silence, if bits == 8 { 128 } else { 0 });
+        starts.push((data.len() / block) as f64 / rate.max(1.0));
+        data.extend_from_slice(&d[..d.len() - d.len() % block]);
+    }
+    let fmt = fmt.ok_or(tr("not a WAV file"))?;
+    let pad = data.len() % 2;
+    let mut out = Vec::with_capacity(44 + data.len() + pad);
+    out.extend_from_slice(b"RIFF");
+    out.extend_from_slice(&((36 + data.len() + pad) as u32).to_le_bytes());
+    out.extend_from_slice(b"WAVEfmt ");
+    out.extend_from_slice(&16u32.to_le_bytes());
+    out.extend_from_slice(fmt);
+    out.extend_from_slice(b"data");
+    out.extend_from_slice(&(data.len() as u32).to_le_bytes());
+    out.extend_from_slice(&data);
+    out.resize(out.len() + pad, 0);
+    Ok((out, starts))
+}
+
+/// The sentence playing `secs` into a recording whose sentences start at `starts`.
+pub fn sentence_at(starts: &[f64], secs: f64) -> usize {
+    starts.partition_point(|&s| s <= secs).saturating_sub(1)
 }
 
 /// One long-running piper per language, fed one JSON line per sentence.
@@ -672,6 +780,60 @@ mod tests {
         assert!(p.paused);
         p.stop();
         assert!(!p.busy());
+    }
+
+    /// A WAV file as piper writes it (16-bit mono), with an extra chunk
+    /// before the samples as other writers add.
+    fn wav(rate: u32, samples: &[i16]) -> Vec<u8> {
+        let data: Vec<u8> = samples.iter().flat_map(|s| s.to_le_bytes()).collect();
+        let mut v = b"RIFF\0\0\0\0WAVEfmt ".to_vec();
+        v.extend(16u32.to_le_bytes());
+        v.extend(1u16.to_le_bytes());
+        v.extend(1u16.to_le_bytes());
+        v.extend(rate.to_le_bytes());
+        v.extend((rate * 2).to_le_bytes());
+        v.extend(2u16.to_le_bytes());
+        v.extend(16u16.to_le_bytes());
+        v.extend(b"LIST");
+        v.extend(3u32.to_le_bytes());
+        v.extend(b"abc\0");
+        v.extend(b"data");
+        v.extend((data.len() as u32).to_le_bytes());
+        v.extend(data);
+        let riff = (v.len() - 8) as u32;
+        v[4..8].copy_from_slice(&riff.to_le_bytes());
+        v
+    }
+
+    #[test]
+    fn sentences_join_into_one_recording() {
+        let (a, b) = (wav(1000, &[1, 2, 3, 4]), wav(1000, &[5, 6]));
+        let (out, starts) = join_wavs(&[a.clone(), b], &[0.0, 0.5]).unwrap();
+        // 4 samples, 500 of silence, 2 samples: the second starts at 0.504 s.
+        assert_eq!(starts, vec![0.0, 0.504]);
+        let (fmt, data) = wav_parts(&out).unwrap();
+        assert_eq!(fmt, wav_parts(&a).unwrap().0);
+        assert_eq!(data.len(), (4 + 500 + 2) * 2);
+        assert_eq!(&data[..8], &[1, 0, 2, 0, 3, 0, 4, 0]);
+        assert!(data[8..1008].iter().all(|&b| b == 0));
+        assert_eq!(&data[1008..], &[5, 0, 6, 0]);
+        assert_eq!(u32::from_le_bytes(out[4..8].try_into().unwrap()) as usize, out.len() - 8);
+        assert_eq!(out.len(), 44 + data.len());
+        // Different formats are refused rather than played at the wrong speed.
+        assert!(join_wavs(&[a, wav(2000, &[1])], &[]).is_err());
+        assert!(join_wavs(&[b"not a wav".to_vec()], &[]).is_err());
+    }
+
+    #[test]
+    fn elapsed_time_finds_its_sentence() {
+        let starts = [0.0, 1.5, 3.2];
+        assert_eq!(sentence_at(&starts, 0.0), 0);
+        assert_eq!(sentence_at(&starts, 1.49), 0);
+        assert_eq!(sentence_at(&starts, 1.5), 1);
+        assert_eq!(sentence_at(&starts, 9.0), 2);
+        assert_eq!(sentence_at(&[], 1.0), 0);
+        // A line with no sound (start at infinity) is never the one playing.
+        assert_eq!(sentence_at(&[0.0, f64::INFINITY], 5.0), 0);
     }
 
     #[test]

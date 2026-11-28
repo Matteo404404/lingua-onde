@@ -110,6 +110,7 @@ mod tests {
         ("i18n.rs", include_str!("i18n.rs")),
         ("main.rs", include_str!("main.rs")),
         ("model.rs", include_str!("model.rs")),
+        ("placement.rs", include_str!("placement.rs")),
         ("practice.rs", include_str!("practice.rs")),
         ("session.rs", include_str!("session.rs")),
         ("store.rs", include_str!("store.rs")),

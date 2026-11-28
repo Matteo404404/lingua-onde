@@ -8,7 +8,7 @@ use chrono::{Duration, Local, NaiveDate};
 use serde::{Deserialize, Serialize};
 
 use crate::format::{parse_course, write_course};
-use crate::model::{Course, Stage};
+use crate::model::{Course, Level, Stage};
 
 /// The layout of the progress file; older files are converted on load.
 const PROGRESS_VERSION: u32 = 1;
@@ -171,7 +171,7 @@ pub fn day_key(d: NaiveDate) -> String {
     d.format("%Y-%m-%d").to_string()
 }
 
-#[derive(Clone, Default, Serialize, Deserialize, Debug)]
+#[derive(Clone, Default, Serialize, Deserialize, Debug, PartialEq)]
 #[serde(default)]
 pub struct LessonProgress {
     /// Day the guided session was completed (first time).
@@ -187,6 +187,20 @@ pub struct LessonProgress {
     pub again: bool,
     /// Day the lesson was last finished, first time or repeat.
     pub last: Option<String>,
+    /// Day the level test placed the learner after this lesson: passed by,
+    /// not studied, so it has no active wave and no review.
+    pub placed: Option<String>,
+}
+
+/// A language's level test, or the choice to start from its first lesson.
+#[derive(Clone, Default, Serialize, Deserialize, Debug, PartialEq)]
+#[serde(default)]
+pub struct LevelTest {
+    pub day: String,
+    /// The level the test found; None when it found none or was not taken.
+    pub level: Option<Level>,
+    /// The lesson the learner was placed at (course id # number); None: the first.
+    pub start: Option<String>,
 }
 
 /// A sentence in spaced review (an SM-2 style schedule).
@@ -294,8 +308,10 @@ pub struct Saved {
     pub cards_after_lesson: bool,
     pub show_pron: bool,
     pub prefer_voice: bool,
-    /// The voice pauses after each sentence so the learner can repeat it.
-    pub repeat_pauses: bool,
+    /// The listening steps (or lists, outside a lesson) where the voice waits
+    /// after each sentence for the learner to repeat it; elsewhere the
+    /// sentences play as one recording, as the books' recordings do.
+    pub pause_steps: std::collections::BTreeSet<String>,
     pub lessons: BTreeMap<String, LessonProgress>,
     pub cards: BTreeMap<String, Card>,
     pub days: BTreeMap<String, DayLog>,
@@ -304,6 +320,9 @@ pub struct Saved {
     pub read_intro: std::collections::BTreeSet<String>,
     /// "light", "dark", or anything else to follow the system.
     pub theme: String,
+    /// By language: the level test taken, or the first lesson chosen, so a
+    /// new language offers the choice once.
+    pub level_tests: BTreeMap<String, LevelTest>,
 }
 
 impl Default for Saved {
@@ -324,12 +343,13 @@ impl Default for Saved {
             cards_after_lesson: false,
             show_pron: true,
             prefer_voice: false,
-            repeat_pauses: true,
+            pause_steps: Default::default(),
             lessons: BTreeMap::new(),
             cards: BTreeMap::new(),
             days: BTreeMap::new(),
             read_intro: Default::default(),
             theme: "system".into(),
+            level_tests: BTreeMap::new(),
         }
     }
 }
@@ -441,8 +461,36 @@ impl Saved {
         self.lessons.get(key)
     }
 
+    /// Studied: finished at least once.
     pub fn is_done(&self, key: &str) -> bool {
         self.lessons.get(key).is_some_and(|p| p.completed.is_some())
+    }
+
+    /// Behind the learner: studied, or passed by through the level test.
+    pub fn is_passed(&self, key: &str) -> bool {
+        self.lessons.get(key).is_some_and(|p| p.completed.is_some() || p.placed.is_some())
+    }
+
+    /// Marks lessons as passed by the level test; studied ones stay as they are.
+    pub fn place(&mut self, keys: &[String], day: &str) {
+        for k in keys {
+            let p = self.lessons.entry(k.clone()).or_default();
+            if p.completed.is_none() {
+                p.placed = Some(day.to_string());
+            }
+        }
+    }
+
+    /// Takes the level test's marks off the lessons of these courses; what
+    /// was studied stays.
+    pub fn unplace(&mut self, courses: &[String]) {
+        self.lessons.retain(|k, p| {
+            if !k.split_once('#').is_some_and(|(c, _)| courses.iter().any(|x| x == c)) {
+                return true;
+            }
+            p.placed = None;
+            *p != LessonProgress::default()
+        });
     }
 }
 
@@ -492,6 +540,34 @@ mod tests {
         assert_eq!(kept.len(), 1);
         assert_eq!(std::fs::read_to_string(kept[0].path()).unwrap(), "{ not json");
         let _ = std::fs::remove_dir_all(&dir);
+    }
+
+    #[test]
+    fn placing_and_unplacing_keep_what_was_studied() {
+        // A learner who studied Spanish lessons 1 and 3, began 4, and whose
+        // file also has an English lesson.
+        let mut s: Saved = serde_json::from_str(
+            r#"{"lessons":{"core-es#1":{"completed":"2026-01-01","times":1},"core-es#3":{"completed":"2026-01-02","wave2":"2026-03-01"},
+            "core-es#4":{"steps_done":[0,1]},"core-en#2":{"completed":"2026-01-03"}}}"#,
+        )
+        .unwrap();
+        let keys: Vec<String> = (1..=50).map(|n| format!("core-es#{n}")).collect();
+        s.place(&keys, "2026-02-01");
+        assert!(s.is_done("core-es#1") && s.lessons["core-es#1"].placed.is_none(), "studied stays studied");
+        assert!(!s.is_done("core-es#2") && s.is_passed("core-es#2"), "placed is passed, not done");
+        assert!(s.lessons["core-es#2"].completed.is_none() && s.lessons["core-es#2"].wave2.is_none());
+        assert_eq!(s.lessons["core-es#4"].steps_done, vec![0, 1]);
+        assert!(!s.is_passed("core-es#51"));
+
+        // Written and read again; older versions skip the field they do not know.
+        let back: Saved = serde_json::from_str(&serde_json::to_string(&s).unwrap()).unwrap();
+        assert_eq!(back.lessons["core-es#20"].placed.as_deref(), Some("2026-02-01"));
+
+        s.unplace(&["core-es".to_string(), "core-es-perfectionnement".to_string()]);
+        assert_eq!(s.lessons.len(), 4, "only the studied and the begun lessons are left");
+        assert!(s.is_done("core-es#1") && s.is_done("core-es#3") && s.is_done("core-en#2"));
+        assert_eq!(s.lessons["core-es#3"].wave2.as_deref(), Some("2026-03-01"));
+        assert!(!s.is_passed("core-es#2") && s.lessons["core-es#4"].steps_done == vec![0, 1]);
     }
 
     #[test]

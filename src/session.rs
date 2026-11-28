@@ -79,13 +79,13 @@ impl Step {
                 tr("A revision lesson: nothing new. Read how the grammar of the last six lessons fits together, with examples you already know.")
             }
             Step::BlindListen => {
-                tr("Don't look at any text. Listen to the whole dialogue and repeat every sentence aloud in the pause, imitating the voice. It's fine not to understand yet: you are tuning your ear.")
+                tr("Don't look at any text. Listen to the whole dialogue, as on a recording. It's fine not to understand yet: you are tuning your ear. To repeat each sentence aloud, imitating the voice, tick “Pause to repeat”.")
             }
             Step::ListenBase => {
-                tr("Listen again while you read the translation in your own language. Keep repeating each sentence aloud: the sound and the meaning start to connect.")
+                tr("Listen again while you read the translation in your own language: the sound and the meaning start to connect. With “Pause to repeat” you say each sentence aloud after the voice.")
             }
             Step::ListenTarget => {
-                tr("Now follow the original text while you listen, and repeat each sentence aloud. Notice how the words are written.")
+                tr("Now follow the original text while you listen. Notice how the words are written. With “Pause to repeat” you say each sentence aloud after the voice.")
             }
             Step::Read => {
                 tr("Read the dialogue aloud, sentence by sentence, with the translation beside it. The literal sense in brackets shows how the language thinks. Click ▶ to hear a sentence.")
@@ -102,7 +102,7 @@ impl Step {
                 tr("Read the dialogue once more, aloud. Try hiding the translation: you should understand almost all of it now.")
             }
             Step::FinalListen => {
-                tr("Last time, eyes off the text: listen and repeat each sentence aloud. Notice how much more you understand than at the start.")
+                tr("Last time, eyes off the text: listen to the whole dialogue. Notice how much more you understand than at the start.")
             }
             Step::Previous => {
                 tr("Read and listen to the two lessons before this one, aloud. Old material comes back easily and keeps growing roots.")
@@ -132,6 +132,11 @@ pub struct Session {
     pub tasks: Practice,
     /// "Go over this lesson again tomorrow", chosen at the end.
     pub again: bool,
+    /// The note under the pointer and the note clicked, whose dialogue lines
+    /// are lit; `note_seek` brings the lines into view once.
+    pub note_hover: Option<usize>,
+    pub note_pick: Option<usize>,
+    pub note_seek: bool,
 }
 
 #[derive(Clone, Copy, PartialEq)]
@@ -157,6 +162,11 @@ pub struct Seq {
     pub repeat: bool,
     pub single: bool,
     asked: usize,
+    /// The sentences play as one recording, as the books' recordings do;
+    /// `starts` are the seconds each starts at in it, from sentence `first`.
+    pub whole: bool,
+    first: usize,
+    starts: Vec<f64>,
 }
 
 impl Seq {
@@ -261,6 +271,9 @@ impl App {
             wave: Practice::default(),
             tasks: Practice::default(),
             again: false,
+            note_hover: None,
+            note_pick: None,
+            note_seek: false,
         });
         self.screen = Screen::Study;
     }
@@ -271,6 +284,7 @@ impl App {
             s.step = to.min(s.steps.len() - 1);
             s.shown.clear();
             s.hide_tr = s.steps[s.step] == Step::ReadAgain;
+            (s.note_hover, s.note_pick) = (None, None);
         }
     }
 
@@ -361,21 +375,34 @@ impl App {
         self.start_seq(tag, parts, 2, 0, false);
     }
 
+    /// What the learner's choice to pause after each sentence is kept under:
+    /// the lesson step being studied, else the list itself.
+    fn pause_key(&self, tag: &str) -> String {
+        match self.session.as_ref().filter(|_| self.screen == Screen::Study) {
+            Some(s) => format!("{:?}", s.steps[s.step]),
+            None => tag.to_string(),
+        }
+    }
+
     fn start_seq(&mut self, tag: &str, parts: Vec<(String, String)>, stride: usize, from: usize, single: bool) {
         self.player.stop();
         if parts.is_empty() {
             self.seq = None;
             return;
         }
+        let repeat = !single && self.saved.pause_steps.contains(&self.pause_key(tag));
         self.seq = Some(Seq {
             tag: tag.to_string(),
             idx: (from * stride).min(parts.len() - stride),
             parts,
             stride,
             phase: Phase::Wait,
-            repeat: self.saved.repeat_pauses && !single,
+            repeat,
             single,
             asked: usize::MAX,
+            whole: stride == 1 && !single && !repeat,
+            first: from,
+            starts: Vec::new(),
         });
     }
 
@@ -385,6 +412,41 @@ impl App {
         if let Some(seq) = self.seq.as_mut() {
             let now = Instant::now();
             match seq.phase {
+                Phase::Wait if seq.whole => {
+                    let lang = seq.parts[seq.idx].0.clone();
+                    let texts: Vec<String> = seq.parts[seq.idx..].iter().map(|(_, t)| t.clone()).collect();
+                    let joined = if self.voices.ready(&lang) { self.voices.joined(&lang, &texts) } else { Some(Err(String::new())) };
+                    match joined {
+                        None if seq.asked != seq.idx => {
+                            seq.asked = seq.idx;
+                            self.voices.prepare(&lang, &texts);
+                        }
+                        None => {}
+                        Some(Ok((file, starts))) => match self.player.play(&file, 1.0) {
+                            Ok(()) => {
+                                (seq.first, seq.starts) = (seq.idx, starts);
+                                seq.phase = Phase::Play(now);
+                            }
+                            Err(e) => {
+                                error = Some(e);
+                                seq.phase = Phase::Stopped;
+                            }
+                        },
+                        Some(Err(e)) => {
+                            error = Some(e).filter(|e| !e.is_empty());
+                            seq.phase = Phase::Stopped;
+                        }
+                    }
+                }
+                Phase::Play(t0) if seq.whole => {
+                    if self.player.busy() {
+                        // mpv knows where it is, also after a pause; the others play straight through.
+                        let at = if self.player.controllable { self.player.position().0 } else { t0.elapsed().as_secs_f64() };
+                        seq.idx = seq.first + crate::audio::sentence_at(&seq.starts, at);
+                    } else {
+                        seq.phase = Phase::Done;
+                    }
+                }
                 Phase::Wait => {
                     let (lang, text) = seq.parts[seq.idx].clone();
                     if !self.voices.ready(&lang) && seq.is_prompt() {
@@ -452,10 +514,10 @@ impl App {
     }
 
     /// Play/pause controls for a list of sentences: the lesson recording when
-    /// there is one, else the voice sentence by sentence, else how to get audio.
+    /// there is one, else the voice (the whole list in one go, or sentence by
+    /// sentence with pauses), else how to get audio.
     pub(crate) fn listen_panel(&mut self, ui: &mut egui::Ui, tag: &str, lang: &str, items: &[Item], recording: Option<PathBuf>) {
         let voice = self.voices.ready(lang);
-        let base = self.base();
         theme::tinted(ACCENT_SOFT()).corner_radius(14).show(ui, |ui| {
             ui.set_width(ui.available_width());
             let use_recording = recording.is_some() && !(self.saved.prefer_voice && voice);
@@ -526,12 +588,23 @@ impl App {
                     .seq
                     .as_ref()
                     .filter(|s| s.tag == tag)
-                    .map(|s| (s.phase, s.sentence(), s.sentences()));
+                    .map(|s| (s.phase, s.sentence(), s.sentences(), s.whole, s.repeat));
                 let running = matches!(seq_state, Some((p, ..)) if !matches!(p, Phase::Stopped | Phase::Done));
+                // One recording under mpv can pause; everything else stops.
+                let pausable = matches!(seq_state, Some((Phase::Play(_), _, _, true, _))) && self.player.controllable;
+                let key = self.pause_key(tag);
+                let mut pauses = self.saved.pause_steps.contains(&key);
                 ui.horizontal(|ui| {
-                    let (glyph, hint) = if running { ("■", tr("Stop")) } else { ("▶", tr("Listen")) };
+                    let (glyph, hint) = match (running, pausable, self.player.paused) {
+                        (true, true, false) => ("⏸", tr("Pause")),
+                        (true, true, true) => ("▶", tr("Listen")),
+                        (true, false, _) => ("■", tr("Stop")),
+                        _ => ("▶", tr("Listen")),
+                    };
                     if theme::round_button(ui, glyph, 46.0, ACCENT()).on_hover_text(hint).clicked() {
-                        if running {
+                        if pausable {
+                            self.player.toggle_pause();
+                        } else if running {
                             self.stop_audio();
                         } else {
                             self.play_seq(tag, lang, texts(items), 0, false);
@@ -540,17 +613,20 @@ impl App {
                     ui.vertical(|ui| {
                         ui.spacing_mut().item_spacing.y = 3.0;
                         match seq_state {
-                            Some((phase, idx, n)) if running => {
+                            Some((phase, idx, n, _, repeat)) if running => {
                                 ui.label(medium(trf("Sentence {0} of {1}", &[&(idx + 1), &n])));
                                 ui.horizontal(|ui| match phase {
                                     Phase::Wait => {
                                         ui.spinner();
                                         ui.label(muted(tr("preparing the voice…")));
                                     }
+                                    Phase::Play(_) if self.player.paused => {
+                                        ui.label(medium(tr("⏸ paused")).color(MUTED()));
+                                    }
                                     Phase::Play(_) => {
                                         ui.label(medium(tr("🔊 listen…")).color(ACCENT()));
                                     }
-                                    Phase::Gap(until, len) if self.saved.repeat_pauses => {
+                                    Phase::Gap(until, len) if repeat => {
                                         ui.label(medium(tr("● repeat aloud now")).color(WARN()));
                                         let left =
                                             until.saturating_duration_since(Instant::now()).as_secs_f32() / len.as_secs_f32().max(0.01);
@@ -565,12 +641,22 @@ impl App {
                             }
                             _ => {
                                 ui.label(medium(plural(items.len(), "Listen · {0} sentence", "Listen · {0} sentences")));
-                                ui.label(muted(tr("The voice reads each sentence; repeat it aloud in the pause.")).size(13.5));
+                                ui.label(
+                                    muted(if pauses {
+                                        tr("The voice reads each sentence; repeat it aloud in the pause.")
+                                    } else {
+                                        tr("The whole dialogue in one go, as on a recording.")
+                                    })
+                                    .size(13.5),
+                                );
                             }
                         }
                     });
                     ui.with_layout(egui::Layout::right_to_left(egui::Align::Center), |ui| {
-                        if let (true, Some((_, idx, _))) = (running, seq_state) {
+                        if let (true, Some((_, idx, ..))) = (running, seq_state) {
+                            if pausable && ui.add(theme::ghost(tr("⏹ Stop"))).clicked() {
+                                self.stop_audio();
+                            }
                             if ui.add(theme::ghost("⏭")).on_hover_text(tr("Next sentence")).clicked() {
                                 self.play_seq(tag, lang, texts(items), idx + 1, false);
                             }
@@ -596,44 +682,32 @@ impl App {
                             })
                             .response
                             .on_hover_text(tr("Speed"));
+                        // Chosen per step: one may be for listening straight through, another for repeating.
                         if ui
-                            .checkbox(&mut self.saved.repeat_pauses, tr("Pause to repeat"))
+                            .checkbox(&mut pauses, tr("Pause to repeat"))
                             .on_hover_text(tr("The voice waits after each sentence so you can repeat it aloud"))
                             .changed()
                         {
+                            if pauses {
+                                self.saved.pause_steps.insert(key.clone());
+                            } else {
+                                self.saved.pause_steps.remove(&key);
+                            }
                             self.mark_dirty();
-                            if let Some(s) = self.seq.as_mut() {
-                                s.repeat = self.saved.repeat_pauses;
+                            if running {
+                                self.stop_audio();
                             }
                         }
                     });
                 });
                 return;
             }
-            let status = self.voices.status_of(lang);
             ui.horizontal(|ui| {
                 theme::icon_circle(ui, "🔈", ACCENT(), CARD(), 46.0);
                 ui.vertical(|ui| {
                     ui.spacing_mut().item_spacing.y = 4.0;
                     ui.label(medium(tr("No audio for this lesson yet")));
-                    ui.horizontal_wrapped(|ui| {
-                        if crate::audio::downloading(&status) {
-                            ui.spinner();
-                            let mb = self.voices.partial_mb(lang).map(|m| format!(" {m:.0} MB")).unwrap_or_default();
-                            ui.label(format!("{status}{mb}"));
-                            ui.ctx().request_repaint_after(Duration::from_millis(400));
-                        } else {
-                            if ui
-                                .add(theme::primary(trf("⬇ Get the {0} voice (free, ~60 MB)", &[&in_sentence(&lang_name(lang, &base))])))
-                                .clicked()
-                            {
-                                self.voices.download(lang, ui.ctx().clone());
-                            }
-                            if !status.is_empty() {
-                                ui.label(RichText::new(&status).color(BAD()));
-                            }
-                        }
-                    });
+                    self.get_voice(ui, lang);
                     ui.label(muted(tr("Or link your own recordings in Courses. Meanwhile, read the sentences aloud yourself.")).size(13.5));
                     if ui.add(theme::ghost(tr("🎧  Link my recordings of this course…"))).clicked() {
                         let ci = self.active();
@@ -641,6 +715,27 @@ impl App {
                     }
                 });
             });
+        });
+    }
+
+    /// The voice's download button, or how far the download is.
+    pub(crate) fn get_voice(&mut self, ui: &mut egui::Ui, lang: &str) {
+        let status = self.voices.status_of(lang);
+        ui.horizontal_wrapped(|ui| {
+            if crate::audio::downloading(&status) {
+                ui.spinner();
+                let mb = self.voices.partial_mb(lang).map(|m| format!(" {m:.0} MB")).unwrap_or_default();
+                ui.label(format!("{status}{mb}"));
+                ui.ctx().request_repaint_after(Duration::from_millis(400));
+            } else {
+                let name = in_sentence(&lang_name(lang, &self.base()));
+                if ui.add(theme::primary(trf("⬇ Get the {0} voice (free, ~60 MB)", &[&name]))).clicked() {
+                    self.voices.download(lang, ui.ctx().clone());
+                }
+                if !status.is_empty() {
+                    ui.label(RichText::new(&status).color(BAD()));
+                }
+            }
         });
     }
 
@@ -996,26 +1091,7 @@ impl App {
                         let hide = self.session.as_ref().is_some_and(|s| s.hide_tr);
                         self.dialogue_block(ui, "dlg", &lang, &lesson.dialogue, true, !hide);
                     }
-                    Step::Notes => {
-                        let figured = lesson.dialogue.iter().any(|i| i.figured(&base).is_some());
-                        if figured
-                            && crate::store::pronunciation_key(&lang).is_some()
-                            && ui.add(theme::ghost(tr("🔈 Pronunciation guide"))).clicked()
-                        {
-                            self.key_open = true;
-                        }
-                        titled(ui, tr("Pronunciation"), lesson.sounds_in(&base));
-                        if !lesson.sounds_in(&base).trim().is_empty() {
-                            ui.label(caps(tr("Notes")));
-                        }
-                        notes(ui, lesson.notes_in(&base));
-                        titled(ui, tr("Culture"), lesson.culture_in(&base));
-                        titled(ui, tr("From the author"), lesson.aside_in(&base));
-                    }
-                    Step::Recap => {
-                        notes(ui, lesson.notes_in(&base));
-                        titled(ui, tr("From the author"), lesson.aside_in(&base));
-                    }
+                    Step::Notes | Step::Recap => self.notes_step(ui, &lang, &lesson, step == Step::Recap),
                     Step::Tasks => {
                         let mut p = self.session.as_mut().map(|s| std::mem::take(&mut s.tasks)).unwrap_or_default();
                         self.tasks_step(ui, &lang, &lesson.tasks, &mut p);
@@ -1070,6 +1146,127 @@ impl App {
                 ui.add_space(16.0);
             });
         });
+    }
+
+    /// The notes (a revision lesson's grammar) with the lesson's dialogue
+    /// beside them, or above them on a narrow window: pointing at a note
+    /// lights the lines it is about, clicking keeps them lit.
+    fn notes_step(&mut self, ui: &mut egui::Ui, lang: &str, lesson: &Lesson, recap: bool) {
+        let text = lesson.notes_in(&self.base()).to_string();
+        let refs: Vec<Vec<usize>> = paragraphs(&text).iter().map(|(_, p, _)| note_lines(p, &lesson.dialogue)).collect();
+        let lit_note = self.session.as_ref().and_then(|s| s.note_hover.or(s.note_pick));
+        let lit = lit_note.and_then(|k| refs.get(k)).cloned().unwrap_or_default();
+        let mut event = None;
+        if lesson.dialogue.is_empty() {
+            event = self.notes_column(ui, lang, lesson, recap, &refs, lit_note);
+        } else if ui.available_width() >= 760.0 {
+            // Both columns scroll on their own, so the dialogue stays in sight.
+            let height = (ui.clip_rect().bottom() - ui.cursor().top() - 30.0).max(260.0);
+            ui.horizontal_top(|ui| {
+                let left = ((ui.available_width() - 16.0) * 0.58).floor();
+                ui.allocate_ui_with_layout(egui::vec2(left, height), egui::Layout::top_down(egui::Align::Min), |ui| {
+                    ui.set_width(left);
+                    egui::ScrollArea::vertical().id_salt("notes-left").max_height(height).show(ui, |ui| {
+                        event = self.notes_column(ui, lang, lesson, recap, &refs, lit_note);
+                    });
+                });
+                ui.add_space(8.0);
+                ui.allocate_ui_with_layout(egui::vec2(ui.available_width(), height), egui::Layout::top_down(egui::Align::Min), |ui| {
+                    ui.set_width(ui.available_width());
+                    ui.label(caps(tr("The dialogue")));
+                    egui::ScrollArea::vertical().id_salt("notes-dialogue").max_height(height - 24.0).show(ui, |ui| {
+                        self.side_dialogue(ui, lesson, &lit);
+                    });
+                });
+            });
+        } else {
+            egui::CollapsingHeader::new(medium(tr("The dialogue")))
+                .default_open(true)
+                .show(ui, |ui| self.side_dialogue(ui, lesson, &lit));
+            event = self.notes_column(ui, lang, lesson, recap, &refs, lit_note);
+        }
+        if let Some(s) = self.session.as_mut() {
+            let hover = event.map(|(k, _)| k);
+            if hover != s.note_hover {
+                // On a narrow window the dialogue is drawn before the notes.
+                ui.ctx().request_repaint();
+            }
+            s.note_hover = hover;
+            if let Some((k, true)) = event {
+                s.note_pick = if s.note_pick == Some(k) { None } else { Some(k) };
+                s.note_seek = true;
+            }
+        }
+    }
+
+    /// What the notes step reads: the pronunciation, the notes, the culture
+    /// and the author's word, or a revision lesson's grammar.
+    fn notes_column(
+        &mut self,
+        ui: &mut egui::Ui,
+        lang: &str,
+        lesson: &Lesson,
+        recap: bool,
+        refs: &[Vec<usize>],
+        lit: Option<usize>,
+    ) -> Option<(usize, bool)> {
+        let base = self.base();
+        if !lesson.dialogue.is_empty() && refs.iter().any(|r| !r.is_empty()) {
+            ui.label(muted(tr("Point at a note to light up its line in the dialogue; click to keep it lit.")).size(13.5));
+        }
+        if recap {
+            let event = notes_rows(ui, lesson.notes_in(&base), Some(refs), lit);
+            titled(ui, tr("From the author"), lesson.aside_in(&base));
+            return event;
+        }
+        let figured = lesson.dialogue.iter().any(|i| i.figured(&base).is_some());
+        if figured && crate::store::pronunciation_key(lang).is_some() && ui.add(theme::ghost(tr("🔈 Pronunciation guide"))).clicked() {
+            self.key_open = true;
+        }
+        titled(ui, tr("Pronunciation"), lesson.sounds_in(&base));
+        if !lesson.sounds_in(&base).trim().is_empty() {
+            ui.label(caps(tr("Notes")));
+        }
+        let event = notes_rows(ui, lesson.notes_in(&base), Some(refs), lit);
+        titled(ui, tr("Culture"), lesson.culture_in(&base));
+        titled(ui, tr("From the author"), lesson.aside_in(&base));
+        event
+    }
+
+    /// The dialogue beside the notes: numbered, the original with its
+    /// translation small under it, the lines in `lit` highlighted.
+    fn side_dialogue(&mut self, ui: &mut egui::Ui, lesson: &Lesson, lit: &[usize]) {
+        let base = self.base();
+        let seek = self.session.as_ref().is_some_and(|s| s.note_seek);
+        theme::card().inner_margin(8).show(ui, |ui| {
+            ui.set_width(ui.available_width());
+            ui.spacing_mut().item_spacing.y = 2.0;
+            for (i, it) in lesson.dialogue.iter().enumerate() {
+                let on = lit.contains(&i);
+                let row = egui::Frame::new()
+                    .fill(if on { HIGHLIGHT() } else { Color32::TRANSPARENT })
+                    .corner_radius(8)
+                    .inner_margin(egui::Margin::symmetric(8, 5))
+                    .show(ui, |ui| {
+                        ui.set_width(ui.available_width());
+                        ui.horizontal_top(|ui| {
+                            theme::number(ui, i + 1, on);
+                            ui.vertical(|ui| {
+                                ui.spacing_mut().item_spacing.y = 1.0;
+                                ui.add(egui::Label::new(RichText::new(it.plain()).size(16.0)).wrap());
+                                ui.add(egui::Label::new(muted(it.tr(&base)).size(13.0)).wrap());
+                            });
+                        });
+                    })
+                    .response;
+                if seek && lit.first() == Some(&i) {
+                    row.scroll_to_me(Some(egui::Align::Center));
+                }
+            }
+        });
+        if let Some(s) = self.session.as_mut() {
+            s.note_seek = false;
+        }
     }
 
     fn ex1(&mut self, ui: &mut egui::Ui, lang: &str, lesson: &Lesson) {
@@ -1667,8 +1864,6 @@ impl App {
     }
 }
 
-/// The lesson notes: one numbered row per note; the lines under a numbered
-/// line flow into it.
 /// A titled card of free text (pronunciation observations, culture); nothing when empty.
 fn titled(ui: &mut egui::Ui, title: &str, text: &str) {
     if text.trim().is_empty() {
@@ -1679,58 +1874,173 @@ fn titled(ui: &mut egui::Ui, title: &str, text: &str) {
     ui.add_space(4.0);
 }
 
+/// The lesson notes: one numbered row per note.
 pub(crate) fn notes(ui: &mut egui::Ui, notes: &str) {
+    notes_rows(ui, notes, None, None);
+}
+
+/// The notes as paragraphs: (number, text, is a table). The lines under a
+/// numbered line flow into it; a table's rows stay lines of their own.
+fn paragraphs(notes: &str) -> Vec<(Option<usize>, String, bool)> {
+    let mut paragraphs: Vec<(Option<usize>, String, bool)> = Vec::new();
+    for line in notes.lines() {
+        let t = line.trim();
+        if t.starts_with('|') {
+            match paragraphs.last_mut() {
+                Some((_, p, true)) => {
+                    p.push('\n');
+                    p.push_str(t);
+                }
+                _ => paragraphs.push((None, t.to_string(), true)),
+            }
+            continue;
+        }
+        let numbered = t
+            .split_once(". ")
+            .filter(|(n, _)| !n.is_empty() && n.chars().all(|c| c.is_ascii_digit()))
+            .map(|(n, rest)| (n.parse().ok(), rest.to_string()));
+        match (numbered, paragraphs.last_mut()) {
+            (Some((n, rest)), _) => paragraphs.push((n, rest, false)),
+            (None, Some((_, p, false))) if !t.is_empty() && !p.is_empty() => {
+                p.push(' ');
+                p.push_str(t);
+            }
+            (None, _) => paragraphs.push((None, t.to_string(), false)),
+        }
+    }
+    paragraphs.retain(|(_, p, _)| !p.is_empty());
+    paragraphs
+}
+
+/// The notes, one row per paragraph. With `refs` (the dialogue lines each
+/// paragraph is about) a row with lines can be pointed at; returns the row
+/// under the pointer and whether it was clicked. `lit` is drawn highlighted.
+fn notes_rows(ui: &mut egui::Ui, notes: &str, refs: Option<&[Vec<usize>]>, lit: Option<usize>) -> Option<(usize, bool)> {
+    let mut event = None;
     theme::card().show(ui, |ui| {
         ui.set_width(ui.available_width());
         if notes.trim().is_empty() {
             ui.label(muted(tr("This lesson has no notes.")));
         }
-        // (number, text, is a table): a table's rows stay lines of their own.
-        let mut paragraphs: Vec<(Option<usize>, String, bool)> = Vec::new();
-        for line in notes.lines() {
-            let t = line.trim();
-            if t.starts_with('|') {
-                match paragraphs.last_mut() {
-                    Some((_, p, true)) => {
-                        p.push('\n');
-                        p.push_str(t);
-                    }
-                    _ => paragraphs.push((None, t.to_string(), true)),
-                }
-                continue;
-            }
-            let numbered = t
-                .split_once(". ")
-                .filter(|(n, _)| !n.is_empty() && n.chars().all(|c| c.is_ascii_digit()))
-                .map(|(n, rest)| (n.parse().ok(), rest.to_string()));
-            match (numbered, paragraphs.last_mut()) {
-                (Some((n, rest)), _) => paragraphs.push((n, rest, false)),
-                (None, Some((_, p, false))) if !t.is_empty() && !p.is_empty() => {
-                    p.push(' ');
-                    p.push_str(t);
-                }
-                (None, _) => paragraphs.push((None, t.to_string(), false)),
-            }
-        }
-        for (k, (n, p, table)) in paragraphs.iter().filter(|(_, p, _)| !p.is_empty()).enumerate() {
+        for (k, (n, p, table)) in paragraphs(notes).iter().enumerate() {
             if *table {
                 // Each table keeps its own column widths.
                 ui.push_id(k, |ui| theme::markdown(ui, p));
                 continue;
             }
-            ui.horizontal_top(|ui| {
-                if let Some(n) = n {
-                    theme::number(ui, *n, true);
+            let linked = refs.and_then(|r| r.get(k)).is_some_and(|r| !r.is_empty());
+            let row = egui::Frame::new()
+                .fill(if linked && lit == Some(k) { HIGHLIGHT() } else { Color32::TRANSPARENT })
+                .corner_radius(8)
+                .inner_margin(egui::Margin::symmetric(6, 4))
+                .show(ui, |ui| {
+                    ui.horizontal_top(|ui| {
+                        if let Some(n) = n {
+                            theme::number(ui, *n, true);
+                        }
+                        ui.vertical(|ui| {
+                            ui.set_width(ui.available_width());
+                            let color = ui.visuals().text_color();
+                            ui.add(egui::Label::new(theme::starred(p, 16.0, color)).wrap());
+                        });
+                    });
+                })
+                .response;
+            if linked {
+                let r = ui
+                    .interact(row.rect, ui.id().with(("note", k)), egui::Sense::click())
+                    .on_hover_cursor(egui::CursorIcon::PointingHand);
+                if r.hovered() {
+                    event = Some((k, r.clicked()));
                 }
-                ui.vertical(|ui| {
-                    ui.set_width(ui.available_width());
-                    let color = ui.visuals().text_color();
-                    ui.add(egui::Label::new(theme::starred(p, 16.0, color)).wrap());
-                });
-            });
-            ui.add_space(8.0);
+            }
+            ui.add_space(2.0);
         }
     });
+    event
+}
+
+/// Words compared without case, accents or punctuation.
+fn words(s: &str) -> Vec<String> {
+    crate::practice::tokens(&crate::practice::fold(s))
+}
+
+/// The dialogue lines (from 0) a note is about: the ones it cites, as
+/// "(sentence 3)", "(frase 3 e 5)", "(lines 2 to 4)", "(línea 3)" (not a
+/// line of another lesson: "lesson 44, line 3"); else the lines holding the
+/// words before its colon ("Buenos días: good morning..."), or one of the
+/// words or phrases there ("Hallo, hoi: ..."), or its first words
+/// ("Constipado means...").
+pub fn note_lines(note: &str, dialogue: &[Item]) -> Vec<usize> {
+    const LINE: [&str; 14] = [
+        "sentence", "sentences", "line", "lines", "frase", "frasi", "frases", "riga", "righe", "linea", "linee", "lineas", "oracion",
+        "oraciones",
+    ];
+    const LESSON: [&str; 8] = ["lesson", "lessons", "lezione", "lezioni", "leccion", "lecciones", "les", "lessen"];
+    const AND: [&str; 3] = ["and", "e", "y"];
+    const TO: [&str; 3] = ["to", "a", "al"];
+    let mut cited: Vec<usize> = Vec::new();
+    // Within a stretch between brackets, full stops and semicolons: after a
+    // line word its numbers count, after a lesson word nothing does.
+    for stretch in note.split(['(', ')', ';', '.', ':']) {
+        let (mut on, mut foreign, mut range) = (false, false, false);
+        for w in words(stretch) {
+            if let Ok(n) = w.parse::<usize>() {
+                if on && n > 0 {
+                    // "2 to 4": the lines after the last one cited, up to this one.
+                    let from = if range { cited.last().map_or(n, |&l| l + 2) } else { n };
+                    cited.extend((from.min(n)..=n).map(|k| k - 1));
+                }
+                range = false;
+            } else if LINE.contains(&w.as_str()) {
+                on = !foreign;
+            } else if LESSON.contains(&w.as_str()) {
+                (on, foreign) = (false, true);
+            } else if on && TO.contains(&w.as_str()) {
+                range = true;
+            } else if !AND.contains(&w.as_str()) {
+                on = false;
+            }
+        }
+    }
+    let lines: Vec<Vec<String>> = dialogue.iter().map(|it| words(&it.plain())).collect();
+    let holding = |phrase: &[String]| -> Vec<usize> {
+        (0..lines.len())
+            .filter(|&i| !phrase.is_empty() && lines[i].windows(phrase.len()).any(|w| w == phrase))
+            .collect()
+    };
+    let mut found: Vec<usize> = if !cited.is_empty() {
+        cited.into_iter().filter(|&i| i < dialogue.len()).collect()
+    } else {
+        let head = note.split_once(':').map_or("", |(h, _)| h);
+        let whole = words(head);
+        let mut v = if whole.len() <= 30 { holding(&whole) } else { Vec::new() };
+        if v.is_empty() && whole.len() <= 8 {
+            for piece in head.split([',', '/', '…']).map(words) {
+                for part in piece.split(|w| ["and", "or", "e", "o", "y", "u"].contains(&w.as_str())) {
+                    if part.concat().chars().count() >= 2 {
+                        v.extend(holding(part));
+                    }
+                }
+            }
+        }
+        if v.is_empty() {
+            // "Constipado means...", "¿Te gustó? is...": the longest run of
+            // opening words found in a line, too short to be a stray "a" or "la".
+            let opening = words(note);
+            v = (1..=opening.len().min(6))
+                .rev()
+                .map(|k| &opening[..k])
+                .filter(|p| p.concat().chars().count() >= 3)
+                .map(|p| holding(p))
+                .find(|v| !v.is_empty())
+                .unwrap_or_default();
+        }
+        v
+    };
+    found.sort_unstable();
+    found.dedup();
+    found
 }
 
 #[cfg(test)]
@@ -1796,6 +2106,51 @@ mod tests {
         assert!(app.wave2_pending(pi).iter().all(|&(c, _)| c == pi));
     }
 
+    /// The dialogue lines each note of a built-in lesson is about.
+    fn lines_of(course: &str, number: u32, base: &str) -> Vec<Vec<usize>> {
+        let (courses, _) = crate::store::builtin_courses();
+        let c = courses.iter().find(|c| c.id == course).unwrap();
+        let l = c.lessons.iter().find(|l| l.number == number).unwrap();
+        paragraphs(l.notes_in(base)).iter().map(|(_, p, _)| note_lines(p, &l.dialogue)).collect()
+    }
+
+    #[test]
+    fn notes_find_their_lines() {
+        // English for Italians, lesson 1: Good morning, A cup of tea, Please,
+        // Milk?, Here you are, Thank you.
+        assert_eq!(lines_of("core-en", 1, "it"), vec![vec![0, 1], vec![0, 3], vec![0, 2], vec![1], vec![3], vec![4]]);
+        // Spanish for English speakers: ¡Buenos días!, ¿Qué le pongo?... with
+        // their marks, accents and capitals.
+        assert_eq!(
+            lines_of("core-es", 1, "en"),
+            vec![vec![0, 1], vec![1], vec![2], vec![2], vec![3], vec![5], vec![6]]
+        );
+        // Dutch for Italians, lesson 2: "Hallo, hoi" names two lines; the
+        // whole of "Ja, graag" (lesson 1) one; Alstublieft is in two.
+        let nl2 = lines_of("core-nl", 2, "it");
+        assert_eq!(nl2[0], vec![0, 1]);
+        assert_eq!(nl2[3], vec![2, 4], "Italiaans, Nederlands");
+        let nl1 = lines_of("core-nl", 1, "it");
+        assert_eq!(nl1[2], vec![0, 3], "Alstublieft");
+        assert_eq!(nl1[4], vec![2], "Ja, graag");
+
+        // Cited lines win over the opening words, never another lesson's.
+        let d: Vec<Item> = (1..=8)
+            .map(|n| Item {
+                text: format!("Line number {n}."),
+                ..Default::default()
+            })
+            .collect();
+        assert_eq!(note_lines("take off (frasi 7 e 4, note 9 e 17)", &d), vec![3, 6]);
+        assert_eq!(note_lines("ăn cơm (frases 2 y 5, notas 2 y 14)", &d), vec![1, 4]);
+        assert_eq!(note_lines("Line number 1: see the past (sentences 2 to 4 and 6).", &d), vec![1, 2, 3, 5]);
+        assert!(note_lines("As in lesson 44, line 3: the same past.", &d).is_empty());
+        assert_eq!(note_lines("Nella frase 3 la stessa parola (Fondamenti, lezione 12).", &d), vec![2]);
+        assert_eq!(note_lines("(línea 8; oración 1) ok", &d), vec![0, 7]);
+        assert!(note_lines("Le espressioni di questa lezione: nessuna riga", &d).is_empty());
+        assert!(note_lines("(sentence 99)", &d).is_empty());
+    }
+
     /// Needs mpv and a downloaded Spanish voice in LINGUA_ONDE_HOME; sound
     /// goes nowhere through MPV_HOME=<dir with "ao=null" in mpv.conf>.
     /// Run on purpose: `cargo test -- --ignored listening`.
@@ -1805,29 +2160,39 @@ mod tests {
         let ctx = egui::Context::default();
         let mut app = App::new(&ctx, None, None);
         assert!(app.voices.ready("es"), "download the Spanish voice first");
-        app.play_seq("t", "es", vec!["Hola.".into(), "Muy bien.".into()], 0, false);
-        let mut seen = Vec::new();
-        let start = Instant::now();
-        while start.elapsed() < Duration::from_secs(30) {
-            app.drive_audio(&ctx);
-            let s = app.seq.as_ref().unwrap();
-            let name = match s.phase {
-                Phase::Wait => "wait",
-                Phase::Play(_) => "play",
-                Phase::Gap(..) => "gap",
-                Phase::Stopped => "stopped",
-                Phase::Done => "done",
-            };
-            if seen.last().map(|(n, i)| (*n, *i)) != Some((name, s.idx)) {
-                seen.push((name, s.idx));
+        let run = |app: &mut App| {
+            app.play_seq("t", "es", vec!["Hola.".into(), "Muy bien.".into()], 0, false);
+            let mut seen = Vec::new();
+            let start = Instant::now();
+            while start.elapsed() < Duration::from_secs(30) {
+                app.drive_audio(&ctx);
+                let s = app.seq.as_ref().unwrap();
+                let name = match s.phase {
+                    Phase::Wait => "wait",
+                    Phase::Play(_) => "play",
+                    Phase::Gap(..) => "gap",
+                    Phase::Stopped => "stopped",
+                    Phase::Done => "done",
+                };
+                if seen.last().map(|(n, i)| (*n, *i)) != Some((name, s.idx)) {
+                    seen.push((name, s.idx));
+                }
+                if matches!(s.phase, Phase::Done | Phase::Stopped) {
+                    break;
+                }
+                std::thread::sleep(Duration::from_millis(20));
             }
-            if matches!(s.phase, Phase::Done | Phase::Stopped) {
-                break;
-            }
-            std::thread::sleep(Duration::from_millis(20));
-        }
-        let names: Vec<&str> = seen.iter().map(|(n, _)| *n).collect();
-        assert_eq!(names.last(), Some(&"done"), "{seen:?}");
+            seen
+        };
+        // Sentence by sentence, with a pause to repeat after each.
+        app.saved.pause_steps.insert("t".into());
+        let seen = run(&mut app);
+        assert_eq!(seen.last().map(|s| s.0), Some("done"), "{seen:?}");
         assert!(seen.contains(&("gap", 0)) && seen.contains(&("play", 1)), "{seen:?}");
+        // The default: one recording, the second sentence lit while it plays.
+        app.saved.pause_steps.clear();
+        let seen = run(&mut app);
+        assert_eq!(seen.last().map(|s| s.0), Some("done"), "{seen:?}");
+        assert!(seen.contains(&("play", 0)) && seen.contains(&("play", 1)) && !seen.iter().any(|s| s.0 == "gap"), "{seen:?}");
     }
 }

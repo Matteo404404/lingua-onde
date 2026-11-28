@@ -25,6 +25,8 @@ pub enum Screen {
     Editor,
     Settings,
     Appendix,
+    /// Where to start a language: its first lesson, or the level test.
+    Placement,
 }
 
 struct Shot {
@@ -65,6 +67,7 @@ pub struct App {
     restarting: bool,
     /// The first screen of a new learner: which language the app speaks.
     welcome: bool,
+    pub placement: Option<crate::placement::LevelState>,
 }
 
 /// What a course tile on the Courses screen asks for.
@@ -128,6 +131,7 @@ impl App {
             updater: Default::default(),
             restarting: false,
             welcome: false,
+            placement: None,
         };
         crate::update::clean_up();
         if app.shot.is_none() {
@@ -155,6 +159,14 @@ impl App {
                 }
             }
             Some("settings") => app.screen = Screen::Settings,
+            Some(s) if s.starts_with("placement") => {
+                // "placement" (the start choice) or "placement:test" (its first question).
+                let lang = app.courses.get(app.active()).map(|c| c.lang.clone()).unwrap_or_default();
+                app.open_placement(&lang);
+                if s.ends_with(":test") {
+                    app.start_level_test();
+                }
+            }
             Some(s) if s.starts_with("appendix") => {
                 // "appendix" or "appendix:<page>": introduction, pronunciation, lessons, grammar, index, words, expressions.
                 app.screen = Screen::Appendix;
@@ -209,7 +221,7 @@ impl App {
                 .progress(&c.lesson_key(l.number))
                 .is_some_and(|p| p.again && p.last.as_deref() != Some(today.as_str()))
         });
-        again.or_else(|| c.lessons.iter().position(|l| !self.saved.is_done(&c.lesson_key(l.number))))
+        again.or_else(|| c.lessons.iter().position(|l| !self.saved.is_passed(&c.lesson_key(l.number))))
     }
 
     /// Lessons whose active wave is due: lesson n comes back once lesson
@@ -250,13 +262,14 @@ impl App {
     }
 
     /// Whether the course is behind the learner, so its last lessons need no
-    /// partner to come back: every lesson read (a built-in course still being
-    /// written is not finished), or a later course of the language started.
-    /// Someone who starts from a later course has studied nothing here, so
-    /// nothing comes back from it.
+    /// partner to come back: every lesson read or placed by the level test (a
+    /// built-in course still being written is not finished), or a later
+    /// course of the language started. Someone who starts from a later course
+    /// has studied nothing here, so nothing comes back from it; placed lessons
+    /// were not studied, so they never come back either (`wave2_open`).
     fn wave2_tail(&self, ci: usize) -> bool {
         let c = &self.courses[ci];
-        let read = !c.lessons.is_empty() && c.lessons.iter().all(|l| self.saved.is_done(&c.lesson_key(l.number))) && !self.unwritten(ci);
+        let read = !c.lessons.is_empty() && c.lessons.iter().all(|l| self.saved.is_passed(&c.lesson_key(l.number))) && !self.unwritten(ci);
         let moved_on = c.stage.filter(|_| c.builtin && self.saved.active_course != c.id).is_some_and(|st| {
             self.stages_of(&c.lang)
                 .into_iter()
@@ -407,6 +420,11 @@ impl App {
     pub fn begin_course(&mut self, ci: usize) {
         self.saved.read_intro.insert(self.courses[ci].id.clone());
         self.mark_dirty();
+        if self.offer_placement(ci) {
+            let lang = self.courses[ci].lang.clone();
+            self.open_placement(&lang);
+            return;
+        }
         if let Some(li) = self.next_lesson(ci) {
             self.start_session(ci, li);
         }
@@ -623,6 +641,12 @@ impl App {
     pub fn go(&mut self, screen: Screen) {
         if screen == Screen::Study && self.session.is_none() {
             let ci = self.active();
+            // A new language starts with a choice: its first lesson, or the level test.
+            if self.courses.get(ci).is_some() && self.offer_placement(ci) {
+                let lang = self.courses[ci].lang.clone();
+                self.open_placement(&lang);
+                return;
+            }
             if self.needs_intro(ci) {
                 self.say(tr("As in the book, the introduction comes before lesson 1."));
                 self.appendix_ui.tab = 0;
@@ -852,6 +876,13 @@ impl App {
                             .corner_radius(12)
                             .min_size(egui::vec2(220.0, 46.0));
                             let intro_first = self.needs_intro(ci);
+                            // A new language: its first lesson, or the level test.
+                            let offer = self.offer_placement(ci);
+                            let start_first = egui::Button::new(medium(tr("▶  Start from the first lesson")).size(16.5).color(ACCENT_DARK()))
+                                .fill(Color32::WHITE)
+                                .stroke(egui::Stroke::NONE)
+                                .corner_radius(12)
+                                .min_size(egui::vec2(220.0, 46.0));
                             let start = if intro_first {
                                 egui::Button::new(medium(tr("📖  Start with the introduction")).size(16.5).color(ACCENT_DARK()))
                                     .fill(Color32::WHITE)
@@ -864,7 +895,19 @@ impl App {
                             // After today's lesson the method says stop: the next one
                             // stays reachable, but only through a quieter link below.
                             let rest = studied_today && !resumable && !intro_first;
-                            if rest {
+                            if offer {
+                                if ui.add(start_first).clicked() {
+                                    self.first_lesson(&c.lang, None);
+                                }
+                                let find = egui::Button::new(medium(tr("🎯  Find your level")).color(Color32::WHITE))
+                                    .fill(Color32::from_white_alpha(20))
+                                    .stroke(egui::Stroke::new(1.0, Color32::from_white_alpha(70)))
+                                    .corner_radius(12)
+                                    .min_size(egui::vec2(0.0, 46.0));
+                                if ui.add(find).clicked() {
+                                    self.open_placement(&c.lang);
+                                }
+                            } else if rest {
                                 egui::Frame::new()
                                     .fill(Color32::from_white_alpha(20))
                                     .corner_radius(12)
@@ -908,7 +951,7 @@ impl App {
                             }
                         }
                         // As in the books, the introduction comes before lesson 1.
-                        if self.needs_intro(ci) {
+                        if self.needs_intro(ci) && !self.offer_placement(ci) {
                             ui.add_space(6.0);
                             ui.label(
                                 RichText::new(tr("New here? The introduction comes first, as in the book: ten minutes on how the course works."))
@@ -1296,6 +1339,7 @@ impl App {
         let mut copy = None;
         let mut from_rec = None;
         let mut guide: Option<String> = None;
+        let mut find_level: Option<String> = None;
         let mut go_study = false;
         let mut new_course = false;
 
@@ -1319,14 +1363,15 @@ impl App {
                         let native = crate::model::lang(lang).map(|l| l.native).unwrap_or(lang);
                         ui.label(muted(native));
                     });
-                    if store::pronunciation_key(lang).is_some() {
-                        ui.with_layout(egui::Layout::right_to_left(egui::Align::Center), |ui| {
-                            // Opens that language's guide without switching the course being studied.
-                            if ui.add(theme::ghost(tr("🔈 Pronunciation"))).clicked() {
-                                guide = Some(lang.clone());
-                            }
-                        });
-                    }
+                    ui.with_layout(egui::Layout::right_to_left(egui::Align::Center), |ui| {
+                        // Opens that language's guide without switching the course being studied.
+                        if store::pronunciation_key(lang).is_some() && ui.add(theme::ghost(tr("🔈 Pronunciation"))).clicked() {
+                            guide = Some(lang.clone());
+                        }
+                        if !self.level_bands(lang).is_empty() && ui.add(theme::ghost(tr("🎯 Find your level"))).clicked() {
+                            find_level = Some(lang.clone());
+                        }
+                    });
                 });
                 ui.add_space(10.0);
                 ui.columns(ids.len().max(1), |cols| {
@@ -1412,6 +1457,10 @@ impl App {
             self.key_lang = Some(lang);
             self.key_open = true;
         }
+        if let Some(lang) = find_level {
+            self.open_placement(&lang);
+            return;
+        }
         if let Some(i) = link {
             self.pick_audio_folder(i);
         }
@@ -1463,6 +1512,14 @@ impl App {
                     trf("{0} of {1}", &[&done, &plural(planned, "{0} lesson", "{0} lessons")])
                 };
                 ui.label(muted(status).size(12.5));
+                let placed = c
+                    .lessons
+                    .iter()
+                    .filter(|l| self.saved.progress(&c.lesson_key(l.number)).is_some_and(|p| p.placed.is_some() && p.completed.is_none()))
+                    .count();
+                if placed > 0 {
+                    ui.label(muted(trf("↷ {0} skipped by the level test", &[&placed])).size(12.5));
+                }
                 if !c.lessons.is_empty() && !c.speaks(&base) {
                     let names: Vec<String> = c.bases().iter().map(|b| in_sentence(&lang_name(b, &base))).collect();
                     ui.label(RichText::new(trf("for now in {0}", &[&names.join(", ")])).color(WARN()).size(12.5));
@@ -1543,10 +1600,15 @@ impl App {
                                             ("✔", GOOD())
                                         } else if is_next {
                                             ("▶", ACCENT())
+                                        } else if p.placed.is_some() {
+                                            ("↷", MUTED())
                                         } else {
                                             ("○", theme::PENDING())
                                         };
-                                        ui.add_sized(egui::vec2(18.0, 22.0), egui::Label::new(RichText::new(icon).color(color)));
+                                        let mark = ui.add_sized(egui::vec2(18.0, 22.0), egui::Label::new(RichText::new(icon).color(color)));
+                                        if p.placed.is_some() && p.completed.is_none() {
+                                            mark.on_hover_text(tr("Skipped: the level test started you after this lesson"));
+                                        }
                                         ui.add_sized(
                                             egui::vec2(30.0, 22.0),
                                             egui::Label::new(medium(l.number.to_string()).color(MUTED()).size(13.5)),
@@ -1556,7 +1618,7 @@ impl App {
                                         ui.with_layout(egui::Layout::right_to_left(egui::Align::Center), |ui| {
                                             // A built-in course goes in order, as the book does: done
                                             // lessons can be reread, the next one studied, the rest wait.
-                                            let open = !c.builtin || p.completed.is_some() || is_next;
+                                            let open = !c.builtin || p.completed.is_some() || p.placed.is_some() || is_next;
                                             let label = if p.completed.is_some() { tr("Again") } else { tr("Study") };
                                             let btn = if is_next { theme::primary(label) } else { theme::ghost(label) };
                                             if open && ui.add(btn).clicked() {
@@ -1590,7 +1652,9 @@ impl App {
             ui.label(muted(tr("No lessons yet. Add them in “My lessons”.")));
         }
         if let Some(li) = start {
-            if self.needs_intro(ci) {
+            if self.offer_placement(ci) {
+                self.open_placement(&c.lang);
+            } else if self.needs_intro(ci) {
                 self.open_book(0);
             } else {
                 self.start_session(ci, li);
@@ -1915,7 +1979,7 @@ impl App {
                 changed |= ui
                     .checkbox(
                         &mut self.saved.prefer_voice,
-                        tr("Use the voice even when a recording is linked (sentence by sentence)"),
+                        tr("Use the voice even when a recording is linked"),
                     )
                     .changed();
             });
@@ -2290,6 +2354,7 @@ impl eframe::App for App {
                             Screen::Editor => self.editor_screen(ui),
                             Screen::Settings => self.settings_screen(ui),
                             Screen::Appendix => self.appendix_screen(ui),
+                            Screen::Placement => self.placement_screen(ui),
                             Screen::Study => {}
                         }
                     });

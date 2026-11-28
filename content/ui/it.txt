@@ -442,8 +442,8 @@ quanto aspetta la voce dopo ogni frase
 Recordings vs voice
 Registrazioni o voce
 
-Use the voice even when a recording is linked (sentence by sentence)
-Usa la voce anche quando è collegata una registrazione (frase per frase)
+Use the voice even when a recording is linked
+Usa la voce anche quando è collegata una registrazione
 
 Audio player
 Lettore audio
@@ -601,14 +601,14 @@ Active
 A revision lesson: nothing new. Read how the grammar of the last six lessons fits together, with examples you already know.
 Una lezione di ripasso: niente di nuovo. Leggi come si collega la grammatica delle ultime sei lezioni, con esempi che conosci già.
 
-Don't look at any text. Listen to the whole dialogue and repeat every sentence aloud in the pause, imitating the voice. It's fine not to understand yet: you are tuning your ear.
-Non guardare nessun testo. Ascolta tutto il dialogo e ripeti ogni frase ad alta voce nella pausa, imitando la voce. Va bene non capire ancora: stai allenando l'orecchio.
+Don't look at any text. Listen to the whole dialogue, as on a recording. It's fine not to understand yet: you are tuning your ear. To repeat each sentence aloud, imitating the voice, tick “Pause to repeat”.
+Non guardare nessun testo. Ascolta tutto il dialogo, come in una registrazione. Va bene non capire ancora: stai allenando l'orecchio. Per ripetere ogni frase ad alta voce, imitando la voce, spunta “Pausa per ripetere”.
 
-Listen again while you read the translation in your own language. Keep repeating each sentence aloud: the sound and the meaning start to connect.
-Ascolta di nuovo mentre leggi la traduzione nella tua lingua. Continua a ripetere ogni frase ad alta voce: il suono e il significato cominciano a collegarsi.
+Listen again while you read the translation in your own language: the sound and the meaning start to connect. With “Pause to repeat” you say each sentence aloud after the voice.
+Ascolta di nuovo mentre leggi la traduzione nella tua lingua: il suono e il significato cominciano a collegarsi. Con “Pausa per ripetere” dici ogni frase ad alta voce dopo la voce.
 
-Now follow the original text while you listen, and repeat each sentence aloud. Notice how the words are written.
-Ora segui il testo originale mentre ascolti, e ripeti ogni frase ad alta voce. Osserva come si scrivono le parole.
+Now follow the original text while you listen. Notice how the words are written. With “Pause to repeat” you say each sentence aloud after the voice.
+Ora segui il testo originale mentre ascolti. Osserva come si scrivono le parole. Con “Pausa per ripetere” dici ogni frase ad alta voce dopo la voce.
 
 Read the dialogue aloud, sentence by sentence, with the translation beside it. The literal sense in brackets shows how the language thinks. Click ▶ to hear a sentence.
 Leggi il dialogo ad alta voce, frase per frase, con la traduzione accanto. Il senso letterale tra parentesi mostra come ragiona la lingua. Fai clic su ▶ per sentire una frase.
@@ -628,8 +628,8 @@ I compiti aperti non hanno un'unica risposta giusta. Prima scrivi o di' la tua, 
 Read the dialogue once more, aloud. Try hiding the translation: you should understand almost all of it now.
 Rileggi il dialogo ancora una volta, ad alta voce. Prova a nascondere la traduzione: ora dovresti capirne quasi tutto.
 
-Last time, eyes off the text: listen and repeat each sentence aloud. Notice how much more you understand than at the start.
-Ultima volta, senza guardare il testo: ascolta e ripeti ogni frase ad alta voce. Nota quanto capisci in più rispetto all'inizio.
+Last time, eyes off the text: listen to the whole dialogue. Notice how much more you understand than at the start.
+Ultima volta, senza guardare il testo: ascolta tutto il dialogo. Nota quanto capisci in più rispetto all'inizio.
 
 Read and listen to the two lessons before this one, aloud. Old material comes back easily and keeps growing roots.
 Leggi e ascolta ad alta voce le due lezioni prima di questa. Il materiale già visto torna facilmente e continua a mettere radici.
@@ -1371,3 +1371,134 @@ Rileggi una lezione →
 
 The active wave: from that lesson on, each day you also go back to an earlier lesson and rebuild its text from your language. Review shows it.
 L'onda attiva: da quella lezione in poi, ogni giorno torni anche a una lezione precedente e ne ricostruisci il testo dalla tua lingua. La trovi in Ripasso.
+
+# The whole dialogue in one go, notes beside the dialogue, the level test.
+
+Pause
+Pausa
+
+⏸ paused
+⏸ in pausa
+
+The whole dialogue in one go, as on a recording.
+Tutto il dialogo di fila, come in una registrazione.
+
+not a WAV file
+non è un file WAV
+
+the sentences were spoken in different sound formats
+le frasi sono state registrate in formati audio diversi
+
+Point at a note to light up its line in the dialogue; click to keep it lit.
+Passa sopra una nota per illuminare la sua riga nel dialogo; clicca per tenerla accesa.
+
+▶  Start from the first lesson
+▶  Comincia dalla prima lezione
+
+🎯  Find your level
+🎯  Trova il tuo livello
+
+🎯 Find your level
+🎯 Trova il tuo livello
+
+Skipped: the level test started you after this lesson
+Saltata: il test di livello ti ha fatto cominciare dopo questa lezione
+
+↷ {0} skipped by the level test
+↷ {0} saltate con il test di livello
+
+Reading
+Lettura
+
+Writing
+Scrittura
+
+Speaking
+Parlato
+
+{0}: where do you start?
+{0}: da dove cominci?
+
+From the very first lesson, or from the lesson that fits what you already know. You can take the test again any time from Courses.
+Dalla primissima lezione, o dalla lezione adatta a quello che sai già. Puoi rifare il test quando vuoi da Corsi.
+
+Start from the first lesson
+Comincia dalla prima lezione
+
+The course takes you from your very first words, one lesson a day.
+Il corso ti accompagna dalle tue primissime parole, una lezione al giorno.
+
+Find your level
+Trova il tuo livello
+
+About ten minutes of reading, listening, writing and speaking, from A1 up. It stops at the first level that is too hard, and you start at the lesson that fits.
+Circa dieci minuti di lettura, ascolto, scrittura e parlato, da A1 in su. Si ferma al primo livello troppo difficile, e cominci dalla lezione adatta a te.
+
+Lessons skipped by your last level test: {0}. Choosing the first lesson takes them back; what you studied stays.
+Lezioni saltate con il tuo ultimo test di livello: {0}. Scegliendo la prima lezione tornano da fare; quello che hai studiato resta.
+
+Stop the test
+Interrompi il test
+
+Level {0} · question {1} of {2}
+Livello {0} · domanda {1} di {2}
+
+Listen, then choose what it means.
+Ascolta, poi scegli che cosa vuol dire.
+
+The listening questions need the voice of this language.
+Le domande di ascolto hanno bisogno della voce di questa lingua.
+
+Listen again
+Ascolta di nuovo
+
+Skip the listening questions
+Salta le domande di ascolto
+
+What does it mean?
+Che cosa vuol dire?
+
+Write the missing words.
+Scrivi le parole che mancano.
+
+Say the sentence aloud.
+Di' la frase ad alta voce.
+
+listening to you…
+ti sto ascoltando…
+
+🎙  Say it
+🎙  Dilla
+
+Heard: {0}
+Sentito: {0}
+
+Skip this item
+Salta questa domanda
+
+Next  ›
+Avanti  ›
+
+Your level
+Il tuo livello
+
+A fresh start: the first lesson is the right one
+Si parte da zero: la prima lezione è quella giusta
+
+Speaking is not part of the test yet: its questions were left out.
+Il parlato non fa ancora parte del test: le sue domande sono state tralasciate.
+
+The listening questions were skipped: they do not count.
+Le domande di ascolto sono state saltate: non contano.
+
+You start at
+Cominci da
+
+The lessons before it are marked as skipped, not as studied: they never come back in the active wave or in the reviews, and you can still open them. Taking the test again, or choosing the first lesson, takes the marks off.
+Le lezioni prima di questa sono segnate come saltate, non come studiate: non tornano mai nella seconda onda né nei ripassi, e puoi comunque aprirle. Rifare il test, o scegliere la prima lezione, toglie il segno.
+
+Start here
+Comincia da qui
+
+Start from the first lesson instead
+Comincia invece dalla prima lezione

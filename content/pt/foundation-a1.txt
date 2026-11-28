@@ -524,3 +524,581 @@ Il plurale si fa con la -s: minutos (4), euros (6), laranjas (6). Con i nomi di 
 | 10 | dez | 20 | vinte |
 
 Chiudiamo la settimana: il ripasso è fatto. Ci vediamo nella lezione 8, dove troverai una camera per stanotte.
+
+== 8 A1
+numeral: Oitava lição
+numeral.pron.it: oi*ta*va li*sauⁿ*
+title: Um quarto para esta noite
+title.it: Una camera per stanotte
+
+dialogue:
+- Boa noite. Tem um quarto para esta noite?
+  it: Buonasera. Ha una camera per stanotte?
+  pron.it: *bó*a *noi*të. teiⁿ uⁿ *cuar*tu *pa*ra *èsh*ta *noi*të?
+- Para uma pessoa?
+  it: Per una persona?
+  pron.it: *pa*ra *u*ma pë*só*a?
+- Sim. Tem casa de banho?
+  it: Sì. C'è il bagno?
+  pron.it: siⁿ. teiⁿ *ca*za dë *ba*gnu?
+- Tem, e uma vista bonita.
+  it: Sì, e una bella vista.
+  pron.it: teiⁿ, i *u*ma *vish*ta bu*ni*ta.
+- Para o rio?
+  it: Verso il fiume?
+  pron.it: *pa*ra u *rri*u?
+- Para o prédio da frente.
+  it: Sul palazzo di fronte.
+  pron.it: *pa*ra u *prè*diu da *freⁿ*të.
+- Está bem. Fico com ele.
+  it: Va bene. Lo prendo.
+  pron.it: 'sh*ta* beiⁿ. *fi*cu coⁿ *é*lë.
+
+sounds.it:
+1. La e finale di noite è quasi muta: noite si legge *noi*të, con la e appena accennata.
+2. Il nh di banho si dice gn, come in bagno: banho si legge *ba*gnu.
+3. Il qu davanti a a si dice c, come in italiano per casa: quarto si legge *cuar*tu.
+
+notes.it:
+1. Boa noite: buonasera, ma anche buonanotte. Bom dia (lezione 1) è per la mattina. Bom e boa si accordano con il nome, come buon giorno e buona sera in italiano: noite è femminile, quindi boa.
+2. Tem um quarto?: ha una camera? Tem è la terza persona di ter, avere. Tem casa de banho? è letteralmente "ha bagno?": la camera ha il bagno? E la risposta Tem ripete il verbo, come Sou, sim nella lezione 2. Tutte le forme di ter le vedremo nella lezione di ripasso.
+3. Um quarto: camera, stanza. Quarto vuol dire anche quarto, come nell'ora: lo ritroverai nella lezione 13. Esta noite vuol dire stanotte: esta è il femminile di este, questo, che vedremo bene nella lezione 22.
+4. Para uma pessoa?: per una persona? Para vuol dire per, o verso, e lo incontrerai ancora spesso. Uma pessoa: una persona.
+5. Casa de banho: il bagno. Non è una casa da bagno: è il nome normale in Portogallo (in Brasile si dice banheiro). Attenzione a non cercare la parola casa nel senso di abitazione.
+6. Uma vista bonita: una bella vista. Bonito e bonita sono bello e bella per le cose, e si accordano con il nome: vista è femminile, quindi bonita. O rio è il fiume: a Lisbona è il Tejo, il Tago.
+7. Prédio: palazzo, edificio. Da frente vuol dire di fronte: da è de + a, come do è de + o nella lezione 4 (do Rossio).
+8. Fico com ele: lo prendo. Ficar, come in onde fica (lezione 4), vuol dire anche restare, e con com prendere o scegliere: ficar com è l'espressione da usare per dire "lo tengo" o "lo prendo". Ele vuol dire lui, e qui è il quarto, che è maschile.
+
+ex1:
+- Boa noite!
+  it: Buonasera!
+- Um quarto para uma pessoa.
+  it: Una camera per una persona.
+- Tem casa de banho?
+  it: C'è il bagno?
+- Uma vista bonita.
+  it: Una bella vista.
+- Fico com ele.
+  it: Lo prendo.
+
+ex2:
+- Boa [noite]. Tem um quarto?
+  it: Buonasera. Ha una camera?
+- Tem [casa] de banho?
+  it: C'è il bagno?
+- Para uma [pessoa]?
+  it: Per una persona?
+- Uma vista [bonita].
+  it: Una bella vista.
+- Fico com [ele].
+  it: Lo prendo.
+
+culture.it:
+Alfama è il quartiere più antico di Lisbona, con vicoli ripidi, scale e case addossate l'una all'altra sulla collina sotto il castello. Il terremoto del 1755, che distrusse gran parte della Baixa, la risparmiò in buona parte, ed è per questo che ci si può ancora perdere tra le sue viuzze. Una pensione, come quella del dialogo, può trovarsi in un palazzo antico con le scale di pietra.
+
+== 9 A1
+numeral: Nona lição
+numeral.pron.it: *nó*na li*sauⁿ*
+title: Estás a trabalhar?
+title.it: Stai lavorando?
+
+dialogue:
+- Olá, filho! Estás a trabalhar?
+  it: Ciao, figlio! Stai lavorando?
+  pron.it: ò*la*, *fi*gliu! 'sh*tash* a traba*gliar*?
+- Estou, mãe. Estou a trabalhar muito.
+  it: Sì, mamma. Sto lavorando molto.
+  pron.it: 'sh*tó*, maiⁿ. 'sh*tó* a traba*gliar* *muiⁿ*tu.
+- E esse barulho?
+  it: E quel rumore?
+  pron.it: i *é*së ba*ru*gliu?
+- É a televisão do vizinho.
+  it: È la televisione del vicino.
+  pron.it: è a të'lvi*zauⁿ* du vi*zi*gnu.
+- O vizinho está a ver futebol?
+  it: Il vicino sta guardando il calcio?
+  pron.it: u vi*zi*gnu 'sh*ta* a vér fu't*bòl*?
+- Está. O Benfica está a jogar.
+  it: Sì. Il Benfica sta giocando.
+  pron.it: 'sh*ta*. u beⁿ*fi*ca 'sh*ta* a ju*gar*.
+- E porque é que tu estás a gritar "golo"?
+  it: E perché stai gridando "gol"?
+  pron.it: i *pur*chë è chë tu 'sh*tash* a gri*tar* *gó*lu?
+
+sounds.it:
+1. La ãe finale si dice aiⁿ, con la a che passa per il naso e scivola verso la i: mãe si legge maiⁿ.
+2. Il lh si dice gli, come in figlio: filho si legge *fi*gliu, e barulho si legge ba*ru*gliu.
+
+notes.it:
+1. Olá, filho!: ciao, figlio! Olá è il saluto che hai già incontrato nella lezione 2. La mamma parla al figlio con tu, come si fa in famiglia e tra amici.
+2. Estás a trabalhar? Estou a trabalhar: stai lavorando? Sto lavorando. Estar a più infinito vuol dire stare più gerundio: è la forma per ciò che succede adesso. Estou e estás vengono da estar, già visto nella lezione 3 (estou bem).
+3. Estou. Está.: la risposta ripete il verbo, come in sou, sim della lezione 2. Estou è io sto, está è lui o lei sta, e lo ritroverai presto.
+4. Esse barulho: quel rumore. Esse è un dimostrativo come este, questo, e lo vedremo bene nella lezione 22.
+5. Do vizinho: del vicino. Do è de + o, la stessa unione della lezione 4 (do Rossio).
+6. Está a ver futebol: sta guardando il calcio. Ver vuol dire vedere, e con la televisione o una partita vuol dire guardare.
+7. O Benfica está a jogar: il Benfica sta giocando. Jogar vuol dire giocare.
+8. Porque é que tu estás a gritar "golo"?: perché stai gridando "gol"? Porque é que vuol dire perché, letteralmente "perché è che": nelle domande il portoghese parlato lo preferisce al semplice porque. Golo è il gol: in Brasile si dice gol.
+
+ex1:
+- Estou a trabalhar.
+  it: Sto lavorando.
+- Olá, filho!
+  it: Ciao, figlio!
+- O vizinho está a jogar.
+  it: Il vicino sta giocando.
+- Estás a gritar?
+  it: Stai gridando?
+- É a televisão.
+  it: È la televisione.
+
+ex2:
+- [Estou] a trabalhar muito.
+  it: Sto lavorando molto.
+- Olá, [filho]!
+  it: Ciao, figlio!
+- É a televisão do [vizinho].
+  it: È la televisione del vicino.
+- O Benfica está a [jogar].
+  it: Il Benfica sta giocando.
+- Porque é que tu estás a [gritar] "golo"?
+  it: Perché stai gridando "gol"?
+
+culture.it:
+In Portogallo le tre grandi squadre di calcio sono il Benfica, lo Sporting e il Porto, ciascuna con i suoi tifosi in tutto il paese. Per chiedere a qualcuno per quale squadra tifa si dice És de que clube?, di che squadra sei?
+
+== 10 A1
+numeral: Décima lição
+numeral.pron.it: *dè*sima li*sauⁿ*
+title: Há uma farmácia aqui perto?
+title.it: C'è una farmacia qui vicino?
+
+dialogue:
+- Desculpe, há uma farmácia aqui perto?
+  it: Scusi, c'è una farmacia qui vicino?
+  pron.it: dësh*cul*pë, a *u*ma far*ma*sia a*chi* *pèr*tu?
+- Há duas: uma na praça e outra na estação.
+  it: Ce ne sono due: una in piazza e l'altra alla stazione.
+  pron.it: a *du*ash: *u*ma na *pra*sa i *ó*tra na 'shta*sauⁿ*.
+- Estão abertas ao domingo?
+  it: Sono aperte la domenica?
+  pron.it: 'sh*tauⁿ* a*bèr*ta zau du*miⁿ*gu?
+- Ao domingo só está aberta a farmácia de serviço.
+  it: La domenica è aperta solo la farmacia di turno.
+  pron.it: au du*miⁿ*gu sò 'sh*ta* a*bèr*ta a far*ma*sia dë sër*vi*su.
+- E qual é a farmácia de serviço?
+  it: E qual è la farmacia di turno?
+  pron.it: i cual è a far*ma*sia dë sër*vi*su?
+- Hoje é a de Alcabideche.
+  it: Oggi è quella di Alcabideche.
+  pron.it: *ó*jë è a dalcabi*dè*scë.
+- Alcabideche? É longe?
+  it: Alcabideche? È lontano?
+  pron.it: alcabi*dè*scë? è *loⁿ*jë?
+- A pé? Chega amanhã.
+  it: A piedi? Ci arriva domani.
+  pron.it: a pè? *scé*ga ama*gnaⁿ*.
+
+sounds.it:
+1. Il ç si dice s sorda, come in sole: praça si legge *pra*sa.
+2. La h non si pronuncia mai: hoje si legge *ó*jë, con la j come nella parola garage.
+3. La s finale si dice sh, come in italiano scena ma breve: abertas si legge a*bèr*tash.
+
+notes.it:
+1. Há uma farmácia: c'è una farmacia. Há viene da haver e non cambia mai: vale per c'è e per ci sono (há duas, ce ne sono due).
+2. Há duas: uma na praça e outra na estação: ce ne sono due, una in piazza e l'altra alla stazione. Uma è una (lezione 1), duas è due al femminile, come dois al maschile. Outra vuol dire l'altra.
+3. Estão abertas: sono aperte. Estar serve anche per lo stato di una cosa, come estou bem nella lezione 3, e qui concorda con farmácias, femminile plurale.
+4. Ao domingo: la domenica. A + o si scrive ao, come em + a si scrive na (na praça) e de + o si scrive do (do Rossio, lezione 4).
+5. Farmácia de serviço: la farmacia di turno. Serviço non vuol dire "servizio" in questo senso: de serviço è il turno di chi è di guardia.
+6. Qual é: quale è. Qual serve per chiedere quale: la forma completa delle parole interrogative la vedremo nel ripasso.
+7. A de Alcabideche: quella di Alcabideche. A può sostituire farmácia, che si capisce dal contesto: è un modo comune di parlare.
+8. A pé: a piedi. Chegar vuol dire arrivare, e chega qui è la terza persona: lo ritroverai nella lezione 13.
+
+ex1:
+- Há uma farmácia aqui perto?
+  it: C'è una farmacia qui vicino?
+- Ao domingo só está aberta a farmácia de serviço.
+  it: La domenica è aperta solo la farmacia di turno.
+- Hoje é domingo.
+  it: Oggi è domenica.
+- É longe?
+  it: È lontano?
+- A pé? Chega amanhã.
+  it: A piedi? Ci arriva domani.
+
+ex2:
+- Há [uma] farmácia aqui perto?
+  it: C'è una farmacia qui vicino?
+- [Ao] domingo só está aberta a farmácia de serviço.
+  it: La domenica è aperta solo la farmacia di turno.
+- Hoje é a de [Alcabideche].
+  it: Oggi è quella di Alcabideche.
+- [Estão] abertas ao domingo?
+  it: Sono aperte la domenica?
+- A pé? [Chega] amanhã.
+  it: A piedi? Ci arriva domani.
+
+culture.it:
+In Portogallo ogni farmacia si riconosce dalla croce verde sull'insegna. Sulla porta di ogni farmacia c'è l'elenco delle farmacie di turno della zona: così, anche di domenica, si sa dove andare.
+
+== 11 A1
+numeral: Décima primeira lição
+numeral.pron.it: *dè*sima pri*mèi*ra li*sauⁿ*
+title: Sabes cozinhar?
+title.it: Sai cucinare?
+
+dialogue:
+- Sabes cozinhar?
+  it: Sai cucinare?
+  pron.it: *sa*bësh cuzi*gnar*?
+- Sei, um pouco.
+  it: Sì, un po'.
+  pron.it: sèi, uⁿ *pó*cu.
+- Tocas algum instrumento?
+  it: Suoni qualche strumento?
+  pron.it: *tó*ca zal*guⁿ* iⁿshtru*meⁿ*tu?
+- Toco guitarra elétrica. À noite.
+  it: Suono la chitarra elettrica. Di notte.
+  pron.it: *tò*cu ghi*ta*rra i*lè*trica. a *noi*të.
+- À noite? Muito alto?
+  it: Di notte? Molto forte?
+  pron.it: a *noi*të? *muiⁿ*tu *al*tu?
+- Muito alto.
+  it: Molto forte.
+  pron.it: *muiⁿ*tu *al*tu.
+- Ótimo! O quarto é teu. O vizinho de cima toca bateria.
+  it: Ottimo! La stanza è tua. Il vicino di sopra suona la batteria.
+  pron.it: *ò*timu! u *cuar*tu è téu. u vi*zi*gnu dë *si*ma *tò*ca ba't*ri*a.
+
+sounds.it:
+1. Il gui davanti a a si legge ghi, come in ghiro: guitarra si legge ghi*ta*rra.
+2. La o accentata di ótimo è aperta: ótimo si legge *ò*timu.
+3. Il nh di cozinhar si dice gn, come in bagno: cozinhar si legge cuzi*gnar*.
+
+notes.it:
+1. Sabes cozinhar?: sai cucinare? Sabes è la seconda persona di saber, sapere: con un infinito vuol dire saper fare. Il tu si usa tra amici, in famiglia e tra coinquilini.
+2. Sei, um pouco: so, un po'. Sei è la prima persona di saber, io so, e um pouco lo hai già visto nella lezione 3.
+3. Tocas algum instrumento?: suoni qualche strumento? Algum è la forma maschile di alguma, qualche, che hai già incontrato nella lezione 1 (alguma coisa).
+4. Toco guitarra elétrica: suono la chitarra elettrica. Tocar vuol dire suonare uno strumento, e anche toccare.
+5. À noite: di notte. À è a più a, la stessa contrazione di à direita (lezione 4). Noite la conosci dalla lezione 8.
+6. Muito alto: molto forte. Riferito a un suono, alto vuol dire forte, come il volume di una radio.
+7. Ótimo: ottimo. Con la sola t, come impone l'ortografia del 1990 in Portogallo.
+8. O quarto é teu: la stanza è tua. Teu vuol dire tuo, e i possessivi li vedrai bene nella lezione 12. O vizinho de cima: il vicino di sopra, da vizinho della lezione 9.
+
+ex1:
+- Sabes cozinhar?
+  it: Sai cucinare?
+- Sei, um pouco.
+  it: Sì, un po'.
+- Toco guitarra elétrica.
+  it: Suono la chitarra elettrica.
+- Ótimo! O quarto é teu.
+  it: Ottimo! La stanza è tua.
+- À noite, muito alto.
+  it: Di notte, molto forte.
+
+ex2:
+- Sabes [cozinhar]?
+  it: Sai cucinare?
+- [Sei], um pouco.
+  it: Sì, un po'.
+- Toco [guitarra] elétrica.
+  it: Suono la chitarra elettrica.
+- [À] noite.
+  it: Di notte.
+- O vizinho de [cima] toca bateria.
+  it: Il vicino di sopra suona la batteria.
+
+culture.it:
+La guitarra portuguesa, lo strumento del fado, ha dodici corde e un corpo a forma di pera. È diversa dalla chitarra elettrica del dialogo: il suo suono è quello del fado.
+
+aside.it:
+Due settimane sono fatte: non cercare di ricordare tutto, la lezione di ripasso ti aiuterà.
+
+== 12 A1
+numeral: Décima segunda lição
+numeral.pron.it: *dè*sima së*guⁿ*da li*sauⁿ*
+title: De quem é?
+title.it: Di chi è?
+
+dialogue:
+- De quem é esta toalha?
+  it: Di chi è questo asciugamano?
+  pron.it: dë cheiⁿ è *èsh*ta tu*a*glia?
+- É minha.
+  it: È mia.
+  pron.it: è *mi*gna.
+- E este chapéu?
+  it: E questo cappello?
+  pron.it: i *ésh*të scia*pèu*?
+- É do teu pai.
+  it: È di tuo padre.
+  pron.it: è du téu pai.
+- E os óculos?
+  it: E gli occhiali?
+  pron.it: i u *zò*culush?
+- São da avó.
+  it: Sono della nonna.
+  pron.it: sauⁿ da a*vò*.
+- E este cão?
+  it: E questo cane?
+  pron.it: i *ésh*të cauⁿ?
+- Não é nosso... mas gosta muito das nossas sandes.
+  it: Non è nostro... ma gli piacciono molto i nostri panini.
+  pron.it: nauⁿ è *nò*su... mash *gòsh*ta *muiⁿ*tu dash *nò*sash *saⁿ*dësh.
+
+sounds.it:
+1. Avó, la nonna, si legge a*vò*, con la o aperta; avô, il nonno, si legge a*vó*, con la o chiusa: l'accento scritto ti dice chi è.
+2. Il ch di chapéu si dice sc, come in scena, e la é accentata è aperta: chapéu si legge scia*pèu*.
+
+notes.it:
+1. De quem é esta toalha?: di chi è questo asciugamano? De quem vuol dire di chi, e si costruisce come in italiano. Esta, questa, è il femminile di este, come esta noite della lezione 8.
+2. É minha: è mia. Dopo ser il possessivo va senza articolo; davanti al nome l'articolo c'è: a minha toalha, il mio asciugamano. Il possessivo concorda con la cosa posseduta, non con chi la possiede.
+3. Este chapéu: questo cappello. Este è il maschile di esta, e lo ritrovi anche nel dialogo con il cane.
+4. É do teu pai: è di tuo padre. Do è de + o e da è de + a, come nella lezione 4 (do Rossio). Teu, tuo, è il possessivo che hai già incontrato nella lezione 11.
+5. Os óculos: gli occhiali. Óculos è sempre plurale, come occhiali in italiano.
+6. Este cão: questo cane. Nosso e nossas, il nostro e i nostri, si accordano come i possessivi di prima: o nosso cão, a nossa toalha, os nossos.
+7. Gosta muito das nossas sandes: gli piacciono molto i nostri panini. Gostar de vuol dire piacere, come in gosta de Lisboa della lezione 5. Das è de + as. Sandes vuol dire panino: in Brasile si dice sanduíche.
+
+ex1:
+- De quem é este cão?
+  it: Di chi è questo cane?
+- Esta toalha é minha.
+  it: Questo asciugamano è mio.
+- Os óculos são da avó.
+  it: Gli occhiali sono della nonna.
+- O chapéu é do teu pai.
+  it: Il cappello è di tuo padre.
+- Não é nosso.
+  it: Non è nostro.
+
+ex2:
+- De [quem] é esta toalha?
+  it: Di chi è questo asciugamano?
+- É [minha].
+  it: È mia.
+- Os [óculos] são da avó.
+  it: Gli occhiali sono della nonna.
+- E este [cão]?
+  it: E questo cane?
+- Gosta muito das [nossas] sandes.
+  it: Gli piacciono molto i nostri panini.
+
+culture.it:
+Le spiagge dell'Algarve, la regione più a sud del Portogallo continentale, si affacciano sull'Atlantico, dove l'acqua resta fresca anche in agosto, più di quanto ci si aspetti dal sud.
+
+== 13 A1
+numeral: Décima terceira lição
+numeral.pron.it: *dè*sima tër*sèi*ra li*sauⁿ*
+title: São oito e meia
+title.it: Sono le otto e mezza
+
+dialogue:
+- Desculpe, que horas são?
+  it: Scusi, che ore sono?
+  pron.it: dësh*cul*pë, chë *ò*rash sauⁿ?
+- São oito e meia.
+  it: Sono le otto e mezza.
+  pron.it: sauⁿ *oi*tu i *mèi*a.
+- E o autocarro das oito e um quarto?
+  it: E l'autobus delle otto e un quarto?
+  pron.it: i u autu*ca*rru da *zoi*tu i uⁿ *cuar*tu?
+- Ainda não chegou.
+  it: Non è ancora arrivato.
+  pron.it: a*iⁿ*da nauⁿ scë*gó*.
+- E o das oito e meia?
+  it: E quello delle otto e mezza?
+  pron.it: i u da *zoi*tu i *mèi*a?
+- Também não.
+  it: Neanche quello.
+  pron.it: taⁿ*beiⁿ* nauⁿ.
+- Então quando chegam?
+  it: Allora quando arrivano?
+  pron.it: eⁿ*tauⁿ* *cuaⁿ*du *scé*gauⁿ?
+- Às nove. Os dois juntos, como sempre.
+  it: Alle nove. Tutti e due insieme, come sempre.
+  pron.it: ash *nò*vë. ush doish *juⁿ*tush, *có*mu *seⁿ*prë.
+
+sounds.it:
+1. Il -am finale del verbo si dice auⁿ: chegam si legge *scé*gauⁿ, come il não della lezione 4.
+2. Il ch davanti a e si dice sc, come in scena: chegar si legge scë*gar*, e autocarro si legge autu*ca*rru, con la rr forte.
+
+notes.it:
+1. Que horas são?: che ore sono? Horas è il plurale di hora, ora, e con l'ora si usa il verbo ser. All'una si dice é uma hora, al singolare: é è la terza persona singolare.
+2. São oito e meia: sono le otto e mezza. Meia è mezza, e un quarto è um quarto: la stessa parola quarto della lezione 8, ma qui vuol dire un quarto d'ora. Um quarto para as nove vuol dire le nove meno un quarto.
+3. O autocarro das oito e um quarto: l'autobus delle otto e un quarto. Das è de + as, come do nella lezione 4 (do Rossio).
+4. Ainda não chegou: non è ancora arrivato. Ainda vuol dire ancora, non anche: per anche si usa também, che vedi nella nota 5. Chegou è il passato semplice di chegar, arrivare, e lo vedremo meglio nella lezione 24.
+5. Também não: neanche quello. Também vuol dire anche, e con não diventa neanche: non confonderlo con ainda, che è ancora.
+6. Então quando chegam?: allora quando arrivano? Quando vuol dire quando, e chegam è la terza persona plurale: arrivano, in -am, come vedi nel suono della prima nota.
+7. Às nove: alle nove. Às è a + as, la contrazione che hai già visto con à (lezione 4). A indica l'ora: às oito, às nove.
+8. Os dois juntos, como sempre: tutti e due insieme, come sempre. Os dois sono i due, juntos vuol dire insieme, e sempre vuol dire sempre, come in italiano.
+
+ex1:
+- Que horas são?
+  it: Che ore sono?
+- São oito e meia.
+  it: Sono le otto e mezza.
+- Ainda não chegou.
+  it: Non è ancora arrivato.
+- Também não.
+  it: Neanche quello.
+- Às nove.
+  it: Alle nove.
+
+ex2:
+- Que [horas] são?
+  it: Che ore sono?
+- São oito e [meia].
+  it: Sono le otto e mezza.
+- Ainda [não] chegou.
+  it: Non è ancora arrivato.
+- Também [não].
+  it: Neanche quello.
+- Então quando [chegam]?
+  it: Allora quando arrivano?
+
+culture.it:
+La Carris è l'azienda che gestisce gli autobus, i tram e gli elevatori di Lisbona, le funicolari che salgono le colline della città. Su questi mezzi si viaggia anche con una carta ricaricabile, che si usa su più corse senza comprare ogni biglietto.
+
+== 14 A1
+kind: revision
+numeral: Décima quarta lição
+numeral.pron.it: *dè*sima *cuar*ta li*sauⁿ*
+title: Revisão
+title.it: Ripasso
+
+dialogue:
+- Desculpe, que horas são?
+  it: Scusi, che ore sono?
+  pron.it: dësh*cul*pë, chë *ò*rash sauⁿ?
+  refs: 4 13
+- São nove e meia.
+  it: Sono le nove e mezza.
+  pron.it: sauⁿ *nò*vë i *mèi*a.
+  refs: 13
+- E o autocarro das nove e um quarto?
+  it: E l'autobus delle nove e un quarto?
+  pron.it: i u autu*ca*rru dash *nò*vë i uⁿ *cuar*tu?
+  refs: 13
+- Ainda não chegou. E o das nove também não.
+  it: Non è ancora arrivato. E neanche quello delle nove.
+  pron.it: a*iⁿ*da nauⁿ scë*gó*. i u dash *nò*vë taⁿ*beiⁿ* nauⁿ.
+  refs: 13
+- Então quando chega?
+  it: Allora quando arriva?
+  pron.it: eⁿ*tauⁿ* *cuaⁿ*du *scé*ga?
+  refs: 10 13
+- Não sei. Mas eu fico aqui.
+  it: Non lo so. Ma io resto qui.
+  pron.it: nauⁿ sèi. ma *zéu* *fi*cu a*chi*.
+  refs: 4 11
+- Hoje é domingo, não é?
+  it: Oggi è domenica, vero?
+  pron.it: *ó*jë è du*miⁿ*gu, nauⁿ è?
+  refs: 10
+- É, sim.
+  it: Sì.
+  pron.it: è, siⁿ.
+  refs: 2
+- Ao domingo não há autocarro aqui.
+  it: La domenica qui non passa nessun autobus.
+  pron.it: au du*miⁿ*gu nauⁿ a autu*ca*rru a*chi*.
+  refs: 10 13
+- Ah... Então porque é que o senhor está aqui?
+  it: Ah... E allora lei perché è qui?
+  pron.it: a... eⁿ*tauⁿ* *pur*chë è cu së*gnór* 'sh*ta* a*chi*?
+  refs: 3 9 13
+
+notes.it:
+Hai fatto tredici lezioni, e il portoghese comincia a suonare familiare. Non serve imparare a memoria queste tabelle: tornaci quando ti serve, e i dubbi sono normali, perché questa lingua si impara parlando, non solo sui libri.
+
+1. Verbi in -ar al presente (lezioni 5, 9, 13)
+
+| Persona | falar (parlare) | morar (abitare) | trabalhar (lavorare) |
+|---|---|---|---|
+| eu | falo | moro | trabalho |
+| tu | falas | moras | trabalhas |
+| você, ele, ela, o senhor, a senhora | fala | mora | trabalha |
+| nós | falamos | moramos | trabalhamos |
+| vocês, eles, elas, os senhores | falam | moram | trabalham |
+
+Con il senhor e la senhora il verbo va alla terza persona: E a senhora? Mora em Lisboa? (5). Il plurale in -am si dice auⁿ, come chegam (13).
+
+2. Ser ed estar al presente (lezioni 2, 3, 6, 9)
+
+| Persona | ser (essere) | estar (stare) |
+|---|---|---|
+| eu | sou | estou |
+| tu | és | estás |
+| você, ele, ela, o senhor, a senhora | é | está |
+| nós | somos | estamos |
+| vocês, eles, elas, os senhores | são | estão |
+
+Ser dice che cosa una cosa o una persona è: sou italiano (2), são quatro euros (6). Estar dice come si sta adesso o dove qualcosa si trova: estou bem (3), está aberta (10). Estar a + infinito vuol dire stare facendo: estás a trabalhar (9), estou a trabalhar.
+
+3. Ter e haver: tem, há (lezioni 8, 10)
+
+| Persona | ter (avere) |
+|---|---|
+| eu | tenho |
+| tu | tens |
+| você, ele, ela, o senhor, a senhora | tem |
+| nós | temos |
+| vocês, eles, elas, os senhores | têm |
+
+Tem, nel parlato, si sente come c'è: tem casa de banho? (8). Há è invariabile e vuol dire c'è o ci sono: há uma farmácia (10), há duas (10).
+
+4. I possessivi, con l'articolo (lezioni 11, 12)
+
+| | maschile singolare | femminile singolare | maschile plurale | femminile plurale |
+|---|---|---|---|---|
+| meu, minha (mio) | o meu | a minha | os meus | as minhas |
+| teu, tua (tuo) | o teu | a tua | os teus | as tuas |
+| seu, sua (suo) | o seu | a sua | os seus | as suas |
+| nosso, nossa (nostro) | o nosso | a nossa | os nossos | as nossas |
+
+Il possessivo concorda con la cosa posseduta. Davanti al nome c'è l'articolo: a minha toalha, il mio asciugamano. Dopo ser l'articolo cade: é minha (12), o quarto é teu (11). Vosso, la vostra, è rara nel parlato.
+
+5. Le contrazioni con em, de, a (lezioni 4, 5, 10, 13)
+
+| | o | a | os | as |
+|---|---|---|---|---|
+| em (in) | no | na | nos | nas |
+| de (di) | do | da | dos | das |
+| a (a) | ao | à | aos | às |
+
+Esempi: no Porto (5), na praça (10), do Rossio (4), à direita (4), ao domingo (10), das oito (13), às nove (13). Attenzione: con le città l'articolo non è fisso, e Lisboa vuole em senza articolo (em Lisboa, 5), mentre Porto lo vuole (no Porto, 5).
+
+6. Le ore (lezioni 13, 4)
+
+| Espressione | Significato |
+|---|---|
+| que horas são? | che ore sono? |
+| é uma hora | è l'una |
+| são duas, são três... | sono le due, sono le tre... |
+| e meia, e um quarto | e mezza, e un quarto |
+| um quarto para as nove | le nove meno un quarto |
+| às nove | alle nove |
+
+Si usa é con l'una e são con tutte le altre ore, come in italiano si dice sono le due.
+
+7. I numeri (lezioni 1, 4, 6, 13)
+
+| Numero | Portoghese | Numero | Portoghese |
+|---|---|---|---|
+| 1 | um, uma | 11 | onze |
+| 2 | dois, duas | 12 | doze |
+| 3 | três | 13 | treze |
+| 4 | quatro | 14 | catorze |
+| 5 | cinco | 15 | quinze |
+| 6 | seis | 16 | dezasseis |
+| 7 | sete | 17 | dezassete |
+| 8 | oito | 18 | dezoito |
+| 9 | nove | 19 | dezanove |
+| 10 | dez | 20 | vinte |
+| 21 | vinte e um | 60 | sessenta |
+| 30 | trinta | 70 | setenta |
+| 40 | quarenta | 80 | oitenta |
+| 50 | cinquenta | 90 | noventa |
+| 100 | cem | | |
+
+Chiudiamo la settimana: il ripasso è fatto, e da qui in avanti ogni lezione porta soltanto qualche parola nuova. Ci vediamo nella lezione 15, dove qualcuno risponderà al telefono.

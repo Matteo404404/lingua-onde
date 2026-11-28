@@ -26,15 +26,15 @@ use crate::i18n::{tr, trf};
 use crate::practice::{fold, tokens};
 use crate::theme::{self, BAD, GOOD, medium, muted};
 
-/// whisper.cpp's multilingual base model, 8-bit: nearly the full model's
-/// accuracy at half its size (tiny and the 5-bit base misheard piper test
-/// sentences that this one gets right).
-const MODEL: &str = "ggml-base-q8_0.bin";
-const MODEL_BYTES: u64 = 81_768_585;
+/// whisper.cpp's multilingual small model, 5-bit. The base model misheard
+/// correctly spoken European Portuguese (scores of 0.2–0.8 on piper's
+/// Lisbon voice); small gets those sentences right, in about 5 s each.
+const MODEL: &str = "ggml-small-q5_1.bin";
+const MODEL_BYTES: u64 = 190_085_487;
 const MODEL_URL: &str =
-    "https://huggingface.co/ggerganov/whisper.cpp/resolve/5359861c739e955e79d9a303bcbc70fb988958b1/ggml-base-q8_0.bin";
+    "https://huggingface.co/ggerganov/whisper.cpp/resolve/5359861c739e955e79d9a303bcbc70fb988958b1/ggml-small-q5_1.bin";
 /// The engine (2–4 MB) and the model together, for the download prompt.
-pub const DOWNLOAD_MB: u32 = 85;
+pub const DOWNLOAD_MB: u32 = 195;
 
 /// The longest a transcription may take before it is given up.
 const TIMEOUT: Duration = Duration::from_secs(120);
@@ -915,7 +915,7 @@ mod tests {
 
     /// The sentences of `speech_fixtures`, also passed to `--speech-test`.
     const FIXTURES: [(&str, &str); 2] = [
-        ("pt", "Bom dia, eu me chamo Pedro e moro no Rio de Janeiro."),
+        ("pt", "Uma bica e um pastel de nata, se faz favor."),
         ("it", "Buongiorno, vorrei un caffè e un cornetto, per favore."),
     ];
 }

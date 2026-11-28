@@ -63,7 +63,7 @@ You cannot sell it or use it commercially. The full rules are in [LICENSE](LICEN
 No programming tools needed. Lessons and fonts are inside the app. Voices
 download from the app the first time you need them (that step uses `curl`
 and `tar`, which are already on Linux, macOS and Windows 10). So does speech
-recognition, which checks what you say aloud (about 85 MB, on request; it
+recognition, which checks what you say aloud (about 195 MB, on request; it
 needs a microphone, and runs on your computer: your voice is not sent
 anywhere).
 
@@ -173,7 +173,7 @@ Speech recognition is whisper.cpp's `whisper-cli` (v1.9.5), built for each
 system by `packaging/build-whisper.sh` in the release workflow and attached
 to every release as `lingua-onde-speech-<system>.tar.gz` (`.zip` on Windows);
 the app downloads the one of its own version, with the multilingual
-`ggml-base-q8_0.bin` model (78 MB) from Hugging Face, into the data folder's
+`ggml-small-q5_1.bin` model (181 MB) from Hugging Face, into the data folder's
 `speech/`. A build from source has no version: it takes the latest release's,
 or a `whisper-cli` on the PATH (`packaging/build-whisper.sh whisper.tar.gz`
 builds one into that archive, with CMake and a C++ compiler; unpack it into

@@ -48,7 +48,7 @@ jobs:
           echo "LINGUA_ONDE_HOME=$LINGUA_ONDE_HOME" >> "$GITHUB_ENV"
           cargo test --release --locked -- --ignored speech_fixtures --nocapture
           # the model downloads here, through the app's own code
-          target/release/lingua_onde --speech-test pt target/speech-check/pt.wav "Bom dia, eu me chamo Pedro e moro no Rio de Janeiro."
+          target/release/lingua_onde --speech-test pt target/speech-check/pt.wav "Uma bica e um pastel de nata, se faz favor."
           target/release/lingua_onde --speech-test it target/speech-check/it.wav "Buongiorno, vorrei un caffè e un cornetto, per favore."
           # the recording format (16 kHz, 16-bit) through whisper
           cargo test --release --locked -- --ignored recorded_format_transcribes --nocapture

@@ -444,7 +444,7 @@ fn engine_command(dir: &Path) -> Command {
 }
 
 /// Unpack `archive` into `into`; `extra` selects members and strips folders.
-fn untar(archive: &Path, into: &Path, extra: &[&str]) -> Result<(), String> {
+pub fn untar(archive: &Path, into: &Path, extra: &[&str]) -> Result<(), String> {
     let tar = find_program("tar").ok_or(tr("tar is needed to unpack the voice engine"))?;
     let out = command(tar)
         .arg("-xf")

@@ -112,6 +112,7 @@ mod tests {
         ("model.rs", include_str!("model.rs")),
         ("practice.rs", include_str!("practice.rs")),
         ("session.rs", include_str!("session.rs")),
+        ("speech.rs", include_str!("speech.rs")),
         ("store.rs", include_str!("store.rs")),
         ("theme.rs", include_str!("theme.rs")),
         ("update.rs", include_str!("update.rs")),

@@ -70,15 +70,15 @@ if ! command -v mpv >/dev/null && ! command -v pw-play >/dev/null && ! command -
     echo "  sudo dnf install mpv    (Fedora)"
     echo "  sudo pacman -S mpv      (Arch)"
 fi
-# the window loads these by name; a desktop usually has them, a minimal install may not
+# the window loads these by name and the app needs ALSA (the microphone); a desktop usually has them, a minimal install may not
 if command -v ldconfig >/dev/null 2>&1; then
     libs=$(ldconfig -p 2>/dev/null || true)
     missing=""
-    for lib in libvulkan.so.1 libxkbcommon.so.0 libwayland-client.so.0 libX11.so.6; do
+    for lib in libvulkan.so.1 libxkbcommon.so.0 libwayland-client.so.0 libX11.so.6 libasound.so.2; do
         printf '%s\n' "$libs" | grep -q "$lib" || missing="$missing $lib"
     done
     if [ -n "$missing" ]; then
         echo "The window may not open. Missing:$missing"
-        echo "On Ubuntu: sudo apt install mesa-vulkan-drivers libxkbcommon0 libwayland-client0 libx11-6"
+        echo "On Ubuntu: sudo apt install mesa-vulkan-drivers libxkbcommon0 libwayland-client0 libx11-6 libasound2"
     fi
 fi

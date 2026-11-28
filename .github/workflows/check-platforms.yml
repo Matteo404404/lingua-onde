@@ -1,6 +1,10 @@
 # Run by hand (Actions, "Check platforms", Run workflow) before a release:
 # on Linux, Windows and macOS it builds the app, downloads the voice engine
-# and three voices, speaks at two speeds, and starts the system's own player.
+# and three voices, speaks at two speeds, and starts the system's own player;
+# then it builds the speech recognition engine as release.yml does, has two
+# sentences spoken by the app's voices, transcribes them with --speech-test
+# (score 0.6 or more) and opens the microphone (the runners have none: the
+# app must answer, not crash or hang).
 # Release builds stay in release.yml.
 name: Check platforms
 
@@ -20,5 +24,33 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: dtolnay/rust-toolchain@stable
+      - name: Linux libraries
+        if: runner.os == 'Linux'
+        run: sudo apt-get update && sudo apt-get install -y libasound2-dev
       - name: Voices and sound
         run: cargo test --release --locked -- --ignored voice_download_and_speech --nocapture
+      - name: Speech recognition
+        shell: bash
+        run: |
+          set -euo pipefail
+          cargo build --release --locked
+          # the engine unpacked where the app unpacks its download, with the
+          # tar the app uses (Windows' own, which also reads .zip)
+          export LINGUA_ONDE_HOME="$RUNNER_TEMP/lingua-onde-home"
+          mkdir -p "$LINGUA_ONDE_HOME/speech"
+          if [ "$RUNNER_OS" = Windows ]; then
+            bash packaging/build-whisper.sh speech.zip
+            /c/Windows/System32/tar.exe -xf speech.zip -C "$(cygpath -w "$LINGUA_ONDE_HOME/speech")"
+          else
+            bash packaging/build-whisper.sh speech.tar.gz
+            tar -xf speech.tar.gz -C "$LINGUA_ONDE_HOME/speech"
+          fi
+          echo "LINGUA_ONDE_HOME=$LINGUA_ONDE_HOME" >> "$GITHUB_ENV"
+          cargo test --release --locked -- --ignored speech_fixtures --nocapture
+          # the model downloads here, through the app's own code
+          target/release/lingua_onde --speech-test pt target/speech-check/pt.wav "Bom dia, eu me chamo Pedro e moro no Rio de Janeiro."
+          target/release/lingua_onde --speech-test it target/speech-check/it.wav "Buongiorno, vorrei un caffè e un cornetto, per favore."
+          # the recording format (16 kHz, 16-bit) through whisper
+          cargo test --release --locked -- --ignored recorded_format_transcribes --nocapture
+      - name: Microphone
+        run: cargo test --release --locked -- --ignored microphone_answers --nocapture

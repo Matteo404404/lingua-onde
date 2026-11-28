@@ -10,6 +10,7 @@ mod i18n;
 mod model;
 mod practice;
 mod session;
+mod speech;
 mod store;
 mod theme;
 mod update;
@@ -50,6 +51,9 @@ fn main() -> eframe::Result {
     let args: Vec<String> = std::env::args().collect();
     if let Some(i) = args.iter().position(|a| a == "--check") {
         std::process::exit(check(&args[i + 1..]));
+    }
+    if let Some(i) = args.iter().position(|a| a == "--speech-test") {
+        std::process::exit(speech::self_test(&args[i + 1..]));
     }
     let value = |flag: &str| args.iter().position(|a| a == flag).and_then(|i| args.get(i + 1)).cloned();
     let screenshot = value("--screenshot").map(PathBuf::from);

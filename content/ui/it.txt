@@ -1371,3 +1371,80 @@ Rileggi una lezione →
 
 The active wave: from that lesson on, each day you also go back to an earlier lesson and rebuild its text from your language. Review shows it.
 L'onda attiva: da quella lezione in poi, ogni giorno torni anche a una lezione precedente e ne ricostruisci il testo dalla tua lingua. La trovi in Ripasso.
+
+# Speech recognition
+
+🎤 Check your pronunciation: download speech recognition ({0} MB)
+🎤 Controlla la tua pronuncia: scarica il riconoscimento vocale ({0} MB)
+
+Recognition runs on this computer; your voice is not sent anywhere.
+Il riconoscimento avviene su questo computer; la tua voce non viene inviata da nessuna parte.
+
+Starting…
+Avvio…
+
+Downloading the speech engine…
+Download del motore di riconoscimento vocale…
+
+Downloading the speech model ({0} MB)…
+Download del modello vocale ({0} MB)…
+
+no speech engine is published for this computer
+non esiste un motore di riconoscimento vocale per questo computer
+
+the speech engine is missing from the download
+nel download manca il motore di riconoscimento vocale
+
+🎤 Record
+🎤 Registra
+
+Say the sentence aloud; the app checks what it hears
+Di' la frase ad alta voce; l'app controlla che cosa sente
+
+Listening…
+In ascolto…
+
+stops by itself in {0} s
+si ferma da sola tra {0} s
+
+Checking…
+Controllo…
+
+heard: {0}
+sentito: {0}
+
+nothing
+niente
+
+🎤 Try again
+🎤 Riprova
+
+No microphone found. Connect one, or check the system's sound settings.
+Nessun microfono trovato. Collegane uno, o controlla le impostazioni audio del sistema.
+
+The microphone cannot be opened: {0}
+Impossibile aprire il microfono: {0}
+
+The microphone stopped: {0}
+Il microfono si è fermato: {0}
+
+No sound reached the microphone. Check that it is connected and that Lingua Onde may use it (macOS: System Settings, Privacy & Security, Microphone).
+Al microfono non è arrivato alcun suono. Controlla che sia collegato e che Lingua Onde possa usarlo (macOS: Impostazioni di Sistema, Privacy e sicurezza, Microfono).
+
+Speech recognition does not know this language
+Il riconoscimento vocale non conosce questa lingua
+
+The speech engine is not installed
+Il motore di riconoscimento vocale non è installato
+
+The speech model is not installed
+Il modello vocale non è installato
+
+could not start the speech engine: {0}
+impossibile avviare il motore di riconoscimento vocale: {0}
+
+the speech engine failed: {0}
+il motore di riconoscimento vocale non è riuscito: {0}
+
+The speech engine took too long
+Il motore di riconoscimento vocale ha impiegato troppo tempo

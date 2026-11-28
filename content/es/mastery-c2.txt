@@ -6646,3 +6646,782 @@ tasks:
 - Buenas. Me llamo Dani y les voy a hablar de los domingos en casa de mi abuela. O sea, de la comida, que es lo que más nos gusta a todos. Mi abuela compra los tomates en el mercadillo, a un euro el kilo, y dice que el melón madura con música, según un señor del puesto, que, digamos, habla más que el melón. Mi tío Teo dice «ya, ya» a todo lo que le cuentan, aunque luego se entera de todo. Y mi madre siempre dice que lo de las palabras nuevas renta, porque ayuda a hablar mejor. Así que, en resumen, el domingo no es solo comer: es practicar el español con las palabras de la semana, sin darnos cuenta. Muchas gracias.
   task.en: Record a two-minute talk in Spanish, of about 170 words, about a family lunch. Use at least three of the week's markers and response words from sections 1 and 2, one quotation in « », and end with a line that closes the talk.
   rubric.en: meaning: the talk says who is speaking, what the lunch is and why it matters, with examples from the week; register: informal but clear, for a class, with tú and no slang beyond the markers; structure: greeting, topic, examples in order, closing; idiom: a euro el kilo, renta and sin darnos cuenta are used in their normal senses; effect: the closing line returns to the opening, so the talk ends where it began.
+
+== 85 C2
+numeral: Lección ochenta y cinco
+title: Te acompaño en el sentimiento
+title.en: I am with you in your grief
+
+dialogue:
+- Querida Marta: no sé por dónde empezar, así que empiezo por lo más sencillo: lo siento muchísimo.
+  en: Dear Marta, I don't know where to begin, so I'll start with the simplest thing: I am so very sorry.
+- Mi más sentido pésame por la muerte de tu padre.
+  en: My deepest condolences on the death of your father.
+- Te acompaño en el sentimiento, de verdad, aunque sé que las palabras sirven de poco en estos días.
+  en: I am with you in your grief, truly, though I know words are of little use these days.
+- Sé que no es momento para cartas largas, así que serán pocas líneas.
+  en: I know this is no time for long letters, so there will be only a few lines.
+- Vi la esquela en el periódico de esta mañana, con su nombre completo y el «descanse en paz» de siempre al final.
+  en: I saw the death notice in this morning's paper, with his full name and the "rest in peace" that always comes at the end.
+- Ayer fui al tanatorio, pero había tanta gente que no pude acercarme a ti.
+  en: Yesterday I went to the funeral home, but there were so many people that I could not get near you.
+- Tu hermano me dijo que estabas agotada y que te dejara tranquila, y yo me quedé un rato en la puerta, mirando las flores.
+  en: Your brother told me you were exhausted and that I should leave you in peace, and I stayed for a while at the door, looking at the flowers.
+- Había muchas personas que venían a darte el pésame, y tu familia tenía que atenderlas a todas.
+  en: Many people came to give you their condolences, and your family had to look after every one of them.
+- Ya sé que a ti no te apetecía ver a nadie, y no te lo reprocho.
+  en: I know you did not feel like seeing anyone, and I do not hold it against you.
+- Cuando estés preparada, cuéntame cómo era él en sus últimos meses, o no me lo cuentes nunca si prefieres guardártelo.
+  en: When you are ready, tell me what he was like in his last months, or never tell me at all if you would rather keep it to yourself.
+- Te digo lo que recuerdo yo, que es poco y muy tonto: tu padre me enseñó a montar en bici en la calle de tu abuela, y me caí cuatro veces.
+  en: Let me tell you what I remember, which is little and very silly: your father taught me to ride a bicycle in your grandmother's street, and I fell off four times.
+- Él no se enfadó ni una vez; se limitaba a levantarme y a decirme: «Otra vez».
+  en: He never once lost his temper; he simply picked me up and said, "Once more."
+- Siempre estaba enseñándonos algo, aunque nadie se lo pidiera.
+  en: He was always teaching us something, even when nobody had asked him to.
+- Escribir cuesta, lo sé, así que no hace falta que contestes a esta carta.
+  en: Writing is hard, I know, so you do not need to answer this letter.
+- Solo quiero que sepas que pienso en ti a todas horas, y que lo seguiré haciendo.
+  en: I only want you to know that I think about you all the time, and that I will go on doing so.
+- No te escribo por cumplir: te escribo porque no se me ocurre otra forma de decirte que te quiero.
+  en: I am not writing out of duty: I am writing because I cannot think of another way to tell you that I love you.
+- Lo que sí puedo hacer es estar aquí: si quieres que vaya a comer contigo, o que me siente a tu lado sin decir nada, dímelo y voy.
+  en: What I can do is be here: if you want me to come and have lunch with you, or to sit beside you without saying anything, tell me and I will come.
+- No te voy a decir que el tiempo lo cura todo, porque sé que no te sirve de nada oírlo.
+  en: I am not going to tell you that time heals everything, because I know it is no use to you hearing it.
+- No te preocupes por las cartas que no contestes; la gente lo entiende, y tú ya tienes bastante.
+  en: Do not worry about the letters you do not answer; people understand, and you already have enough on your plate.
+- Mientras tanto, la puerta de mi casa está abierta, y en mi nevera hay una tortilla que te he hecho, por si te apetece venir a por ella sin tener que hablar con nadie.
+  en: In the meantime my door is open, and there is a Spanish omelette in my fridge that I made for you, in case you feel like coming to get it without having to talk to anyone.
+- Y si esta noche no puedes dormir, llámame, aunque sea para no decir nada.
+  en: And if you cannot sleep tonight, call me, even if it is only to say nothing.
+- Dale un abrazo a tu madre de mi parte, y a tu hermano, que tiene que comer aunque no le apetezca.
+  en: Give your mother a hug from me, and your brother too, who has to eat even if he does not feel like it.
+- Cuando murió mi abuela, mi madre me dijo que el dolor no tiene prisa, y tenía razón.
+  en: When my grandmother died, my mother told me that grief is in no hurry, and she was right.
+- Tómate tu tiempo para contestarme, y olvídate de todo lo demás esta semana.
+  en: Take your time answering me, and forget everything else this week.
+- Lo único que te pido es que comas algo, aunque sea de pie, en la cocina.
+  en: The only thing I ask is that you eat something, even if it is standing up in the kitchen.
+- Un abrazo muy fuerte, de tu amiga de siempre, Inés.
+  en: A big hug, from your oldest friend, Inés.
+
+notes.en:
+1. "Querida Marta" (line 1): the opening of a letter to a close friend. A formal letter would begin "Estimada Marta", and the choice of "Querida" tells Marta at once that this letter is personal. Inés uses tú throughout.
+2. "lo siento muchísimo" (line 1): the everyday form of sympathy, with the adverb muchísimo for emphasis. It comes before the formula, as a friend would say it before a formal line.
+3. "Mi más sentido pésame" (line 2): the set formula for a death, written or said to the family. Sentido means felt or heartfelt, and más sentido is the usual superlative. "My deepest condolences" is the nearest English, not a literal one.
+4. "Te acompaño en el sentimiento" (line 3): the full formula. Acompañar is used figuratively here, and the phrase is complete only with "en el sentimiento"; cut short to "te acompaño" it sounds unfinished.
+5. "no es momento para cartas largas" (line 4): the writer chooses a short letter as a form of tact. English says "this is no time for", the same frame.
+6. "la esquela" (line 5): the death notice printed in the newspaper, with the full name and a closing "descanse en paz", often shortened to D.E.P. It often gives the details of the wake or the funeral, so friends read it to learn when and where they can go.
+7. "el tanatorio" (line 6): the funeral home, a building with rooms for the wake. Friends go there to give their condolences to the family, and the phrase "dar el pésame" is what they do when they arrive.
+8. "te dejara tranquila" (line 7): an order reported with que after a verb of saying, so the verb is in the imperfect subjunctive. English reports it as "that I should leave you in peace".
+9. "no te lo reprocho" (line 9): reprochar something to someone means to blame them for it. The pronoun lo points at what Marta did, not wanting to see anyone, and the English "I do not hold it against you" gives the same sense.
+10. "cuando estés preparada" (line 10): after cuando, a future time takes the present subjunctive, so estés and not estás or estarás. The adjective agrees with Marta, the woman addressed.
+11. "se limitaba a levantarme" (line 12): limitarse a with an infinitive means to do nothing beyond what is named. The imperfect describes what the father always did, as a memory does.
+12. "Escribir cuesta" (line 14): costar takes an infinitive as its subject, and the verb stays singular. English uses "is hard", which is near enough, but the Spanish says that the act itself takes effort.
+13. "No te escribo por cumplir" (line 16): por cumplir means out of duty, as a formality one must observe. Inés denies it at once, which makes the next clause warmer.
+14. "no te sirve de nada oírlo" (line 18): servir de nada means to be no use. Inés refuses the set consolation el tiempo lo cura todo, which English also has as "time heals everything", and gives Marta something she can use.
+15. "por si te apetece venir a por ella" (line 20): por si with the present indicative marks a possibility. Venir a por algo is everyday Spanish of Spain, and in a letter it shows how close the two women are.
+16. "Un abrazo muy fuerte" (last line): the sign-off of close friends, warmer than "Un cordial saludo". The letter ends on what the writer can do, not on what the reader should feel.
+
+ex1:
+- Señora Rivas, no sé cómo darle el pésame sin sonar frío, así que le escribo porque su marido era muy querido en el barrio.
+  en: Mrs Rivas, I do not know how to offer my condolences without sounding cold, so I am writing because your husband was much loved in the neighbourhood.
+- Señor Gómez, mi más sentido pésame a usted y a sus hijos; no hace falta que conteste.
+  en: Mr Gómez, my deepest condolences to you and your children; you do not need to reply.
+- Me alegro de que hayas dormido un poco, aunque sea solo una noche.
+  en: I am glad you have slept a little, even if it is only one night.
+- Mañana, si te viene bien, paso a dejarte la comida, y no hace falta que me abras la puerta.
+  en: Tomorrow, if it suits you, I'll drop the food off, and you do not need to open the door for me.
+- Ayer me dijeron que tu madre no ha dormido desde el lunes, así que llamé para preguntar si necesitáis algo.
+  en: Yesterday I was told that your mother has not slept since Monday, so I rang to ask whether you two need anything.
+
+ex2:
+- Se me hizo un nudo en la [garganta] cuando vi su foto.
+  en: A lump came to my throat when I saw her photograph.
+- Estoy aquí para lo que [necesites].
+  en: I am here for whatever you need.
+- No te [preocupes] por el coche; ya lo llevo yo.
+  en: Do not worry about the car; I'll take it from here.
+- Me [alegro] de que hayas podido descansar.
+  en: I am glad you have been able to rest.
+- Mi madre quiere ir al [tanatorio] con nosotras.
+  en: My mother wants to come to the funeral home with us.
+
+tasks:
+- Querido Álvaro: acabo de enterarme de lo de tu padre y lo siento muchísimo. Mi más sentido pésame a ti y a toda tu familia. No sé qué decir, así que solo quiero que sepas que estoy aquí. Si necesitas que cubra algo en la oficina durante estos días, dímelo, y no hace falta que contestes a este mensaje.
+  task.en: Write a short condolence message of 40 to 60 words to a colleague, using tú, whose father has died. Use the full formulas, offer one concrete help and do not ask for a reply.
+  rubric.en: meaning: the message expresses sympathy for the death and offers one concrete help; register: tú, warm and short, as between colleagues; structure: greeting, condolence, offer, a line that frees the reader from replying; idiom: mi más sentido pésame and te acompaño en el sentimiento are used whole; effect: the message is short enough that nobody has to answer it.
+
+== 86 C2
+numeral: Lección ochenta y seis
+title: Para doña Carmen
+title.en: For Doña Carmen
+
+dialogue:
+- Buenas tardes. Me llamo Rubén Castillo y fui alumno de doña Carmen Yuste en tercero B, en el colegio de la plaza del Olivo, durante dos cursos que, según ella, se me hicieron largos por mi culpa.
+  en: Good afternoon. My name is Rubén Castillo, and I was a pupil of Doña Carmen Yuste in class 3B, at the school in the Plaza del Olivo, for two school years that, by her account, felt long because of me.
+- Lo sé porque me lo repitió muchas veces, siempre con la misma sonrisa, que tardé años en entender.
+  en: I know, because she told me so many times, always with the same smile, which took me years to understand.
+- Doña Carmen dio clase durante treinta y cinco años, y en todo ese tiempo nunca levantó la voz más de lo necesario, aunque sí lo suficiente para que la oyera el pasillo.
+  en: Doña Carmen taught for thirty-five years, and in all that time she never raised her voice more than she needed to, though she raised it enough for the corridor to hear.
+- Tenía una regla, escrita en la pizarra desde el primer día: el que habla sin levantar la mano, se queda sin recreo.
+  en: She had one rule, written on the board from the first day: whoever talks without raising a hand stays in at break.
+- Yo me quedé sin recreo casi todos los días de tercero, y no me arrepiento, porque hoy sé escribir un informe y sé callarme en una reunión, dos cosas que entonces me parecían imposibles.
+  en: I stayed in at break almost every day in the third year, and I have no regrets, because today I can write a report and keep quiet in a meeting, two things that then seemed impossible to me.
+- Ella no castigaba por castigar: después de quedarte sin recreo, te sentaba a su lado y te explicaba el problema otra vez, despacio, hasta que lo entendías.
+  en: She did not punish for the sake of it: after you had stayed in at break, she sat you down beside her and explained the problem again, slowly, until you understood it.
+- Hoy, con más de cuarenta años, cuando alguien me pide que explique algo en el trabajo, pienso en ella y en su pizarra.
+  en: Today, at well over forty, when someone asks me to explain something at work, I think of her and her blackboard.
+- Tenía además un sexto sentido para la tarea: sabía si la habíamos hecho nosotros o nuestros padres, y nunca nos lo dijo, pero lo sabía.
+  en: She also had a sixth sense for homework: she knew whether we had done it ourselves or our parents had, and she never told us, but she knew.
+- A mí me pilló una vez con un dibujo de mi padre, y en vez de castigarme me dijo que estaba muy bien, pero que la próxima vez lo firmara yo.
+  en: Once she caught me with a drawing my father had done, and instead of punishing me she said it was very good, but that next time I should sign it myself.
+- Mi padre, por cierto, se lo tomó peor que yo.
+  en: My father, by the way, took it worse than I did.
+- Corregía con bolígrafo rojo, pero con un rojo tan suave que a veces parecía que te estaba haciendo un favor.
+  en: She corrected in red pen, but in such a gentle red that sometimes it seemed she was doing you a favour.
+- Tenía una frase para cada error: «Esto está bien, pero aún no está», y la repetía tanto que todos la imitábamos en el patio.
+  en: She had a phrase for every mistake: "This is right, but it is not finished yet", and she said it so often that we all copied it in the playground.
+- Esa frase me la he dicho a mí mismo más veces de las que quisiera, sobre todo con los correos.
+  en: I have said that phrase to myself more often than I would like, especially about emails.
+- Un año, su clase ganó el concurso de redacción de la comarca, y ella no quiso subir al escenario: dijo que las redacciones eran nuestras, no suyas.
+  en: One year her class won the district writing competition, and she would not go up on the stage: she said the essays were ours, not hers.
+- Subimos nosotros, con las manos sudadas y con miedo a quedarnos sin palabras, y ella se quedó en la primera fila con su sonrisa de siempre.
+  en: We went up, with sweaty hands and afraid of running out of words, and she stayed in the front row with her usual smile.
+- Cuando bajamos, nos dijo que el tercer párrafo de Lucía era flojo, y que la conclusión de Javi era la mejor que había leído en sus treinta y cinco años de clase.
+  en: When we came down, she told us that Lucía's third paragraph was weak, and that Javi's conclusion was the best she had read in her thirty-five years of teaching.
+- Esa fue la única vez que la vi llorar de alegría, aunque no lo admitió, y se le cayó al suelo el bolígrafo rojo.
+  en: That was the only time I saw her cry for joy, although she would not admit it, and her red pen fell on the floor.
+- Hay algo que nunca le conté: una tarde de junio la esperé a la puerta del colegio para decirle que quería ser maestro.
+  en: There is one thing I never told her: one afternoon in June I waited for her at the school gate to say I wanted to be a teacher.
+- Me miró por encima de las gafas, como miraba a los que tenían la tarea sin hacer, y me dijo: «Pues explícamelo, despacio, y lo hablamos».
+  en: She looked at me over her glasses, the way she looked at those who had not done their homework, and said, "Then explain it to me, slowly, and we'll talk about it."
+- Esa tarde se lo expliqué yo, con un bocadillo en la mano y el sol en el portal, y ella me escuchó hasta el final, como siempre.
+  en: That afternoon I explained it to her, with a sandwich in my hand and the sun on the doorstep, and she listened to the end, as she always did.
+- Y ahora, doña Carmen, ya nadie me castiga por hablar sin levantar la mano, pero lo hago igual, porque usted no está aquí para decirme que no.
+  en: And now, Doña Carmen, nobody punishes me any more for talking without raising my hand, but I am doing it anyway, because you are not here to tell me not to.
+- Gracias, doña Carmen. Descanse en paz.
+  en: Thank you, Doña Carmen. Rest in peace.
+- Después de la ceremonia nos fuimos a la cafetería de enfrente, como hacíamos a la salida del colegio, y pedimos por turnos, sin levantar la mano, como en clase.
+  en: After the ceremony we went to the café opposite, as we used to after school, and we ordered in turn, without raising a hand, as in class.
+- Éramos doce, y nadie se acordaba de quién había sacado el diez en el dictado, aunque todos discutíamos sobre quién había sido el peor de la clase.
+  en: There were twelve of us, and nobody could remember who had got the ten in the dictation, though we all argued about who had been the worst in the class.
+- Lucía dijo que había sido Javi, Javi dijo que había sido yo, y yo no dije nada, porque sabía que era verdad.
+  en: Lucía said it was Javi, Javi said it was me, and I said nothing, because I knew it was true.
+- Cuando por fin me tocó, la camarera me miró con una sonrisa que me resultaba conocida.
+  en: When at last it was my turn, the waitress looked at me with a smile that I knew.
+- Le dije: «Un café solo, por favor», y ella contestó sin dejar de sonreír: «Ya me lo imaginaba. Yo también fui alumna suya, en tercero B».
+  en: I said, "A black coffee, please," and she answered, without stopping smiling: "I had a feeling. I was her pupil too, in class 3B."
+
+notes.en:
+1. "Buenas tardes" (line 1): the opening of a formal speech, as a eulogy at a ceremony usually begins. The speech stays formal for a few lines and loosens as the speaker remembers his teacher.
+2. "doña Carmen Yuste" (line 1): doña with the first name is how pupils addressed a teacher, and the speaker keeps that form at the funeral.
+3. "según ella, se me hicieron largos por mi culpa" (line 1): according to the teacher, the years felt long because of the speaker. He reports her view and takes the blame himself, so the funeral opens with a smile.
+4. "la misma sonrisa, que tardé años en entender" (line 2): the relative clause with que is a time marker: years to understand. The sentence is the first reference to the smile, which runs through the whole speech.
+5. "treinta y cinco años" (line 3): the number that the speech keeps. It comes back in line 16 with the same thirty-five years of teaching.
+6. "el que habla sin levantar la mano, se queda sin recreo" (line 4): quedarse sin recreo means to stay in at break as a punishment. In the rule, el que with a verb names anyone who does it.
+7. "castigaba por castigar" (line 6): castigar por castigar means punishing for the sake of punishing. Negated, it tells us her punishments had a point.
+8. "un sexto sentido para la tarea" (line 8): tener un sexto sentido para algo is an idiom: an instinct, a gift for knowing something. English has "a sixth sense" with the same sense.
+9. "lo firmara yo" (line 9): que with the imperfect subjunctive reports an instruction: she said that next time I should sign it. The pronoun lo points at the drawing.
+10. "se lo tomó peor que yo" (line 10): tomarse algo peor, to take it worse. Se lo is the pronoun for the father's reaction to the drawing.
+11. "«Esto está bien, pero aún no está»" (line 12): the teacher's phrase, quoted with « ». The accent on aún marks it as the word for "still" or "yet", as opposed to aun, "even".
+12. "Esa frase me la he dicho a mí mismo" (line 13): the pronoun order is me la, with the indirect pronoun first. A mí mismo adds emphasis to the reflexive.
+13. "la comarca" (line 14): a comarca is a district within a region, larger than a town. "District" is the nearest English word, not an exact equivalent.
+14. "Lucía" and "Javi" (lines 16 and 25): Javi is the familiar form of Javier. The two pupils are named once with their work, then named again in the café.
+15. "usted no está aquí" (line 21): the speech stays in the third person until Rubén turns to her directly. Then it moves to usted, the form he kept for a teacher he respected, even after her death.
+16. "Descanse en paz" (line 22): the form used at funerals, with usted in the imperative. English "rest in peace" is the same formula.
+17. "pedimos por turnos, sin levantar la mano, como en clase" (line 23): the classroom rule comes back in the café.
+18. "Yo también fui alumna suya" (line 27): the last line gives the one fact the speech did not give: the waitress was a pupil of the same teacher.
+
+ex1:
+- Mi madre decía que los funerales son para los que se quedan, no para el muerto.
+  en: My mother used to say that funerals are for the people left behind, not for the dead.
+- Señor Peña, no hace falta que diga nada; con que venga usted al café ya es bastante.
+  en: Mr Peña, you do not need to say anything; just coming to the café is enough.
+- Aunque no lo digas, sé que te gustaría que la recordaran con una sonrisa.
+  en: Even if you do not say so, I know you would like her to be remembered with a smile.
+- Cuando éramos pequeños hacíamos los deberes juntos en la mesa de la cocina, y mi hermano siempre tachaba mis errores con un lápiz rojo.
+  en: When we were little we did our homework together at the kitchen table, and my brother always crossed out my mistakes with a red pencil.
+- Lo siento, pero hoy no puedo ir a la comida; tengo que estar en el colegio a las cinco.
+  en: I am sorry, but I cannot go to lunch today; I have to be at the school at five.
+
+ex2:
+- Tenía un [sexto] sentido para las mentiras.
+  en: She had a sixth sense for lies.
+- Se me quedó la mente en [blanco].
+  en: My mind went blank.
+- Se me [hizo] largo el curso.
+  en: The school year felt long to me.
+- Hemos [quedado] con los del colegio en el café.
+  en: We have arranged to meet the people from school at the café.
+- No tienes que [dar] explicaciones a nadie.
+  en: You do not have to explain yourself to anyone.
+
+tasks:
+- Don Ignacio Herrera dio clase de Matemáticas en este instituto durante veintiocho años. Quienes pasamos por sus clases aprendimos a sumar y, sobre todo, a equivocarnos sin vergüenza. Tenía una libreta de cuadros donde apuntaba nuestros errores favoritos, y al final de curso nos los leía en voz alta, sin dar nombres. Nunca supimos cuántas páginas tenía. Cuando alguno se atascaba en un problema, él le decía: «Eso no sale, pero se ve que lo has pensado». Nunca nos dejó copiar, pero siempre nos explicó la solución. Descanse en paz, don Ignacio.
+  task.en: Write a tribute of about 100 words for a teacher who has died, for the school's noticeboard: say what the teacher taught, give one memory, quote one thing the teacher used to say, and close with a formula of farewell.
+  rubric.en: meaning: the tribute says what the teacher taught, gives one memory and one quotation; register: formal enough for a noticeboard, with the teacher in the third person; structure: who the teacher was, the memory, the quotation, the closing formula; idiom: descanse en paz is used whole, and the quotation is in tú, as the teacher spoke to a pupil; effect: the memory makes the reader smile, as the eulogy does.
+
+== 87 C2
+numeral: Lección ochenta y siete
+title: Malas noticias
+title.en: Bad news
+
+dialogue:
+- Siéntense, por favor. Pancho está tranquilo; no se preocupen.
+  en: Please sit down. Pancho is calm; do not worry.
+- Gracias, Elena. Mario, siéntate con Lía.
+  en: Thank you, Elena. Mario, sit down with Lía.
+- Usted dirá. Nos lo imaginábamos, pero díganos la verdad, por favor.
+  en: Go ahead. We had an idea, but please tell us the truth.
+- Pancho tiene los riñones muy dañados. Es algo que se agrava con los años, y en su caso ya no tiene arreglo.
+  en: Pancho's kidneys are badly damaged. It is something that gets worse with the years, and in his case it can no longer be put right.
+- ¿Quiere decir que no va a mejorar?
+  en: Are you saying he won't get better?
+- Lo siento, pero no. Hay medicinas que le ayudan a estar cómodo, y eso sí podemos hacerlo. Pero no hay ningún tratamiento que le devuelva lo que ha perdido.
+  en: I am sorry, but no. There are medicines that help him to be comfortable, and we can do that. But there is no treatment that will give back what he has lost.
+- ¿Y cuánto tiempo le queda?
+  en: And how much time does he have left?
+- Es difícil decirlo con exactitud, porque cada perro es distinto. Lo que sí les puedo decir es que los próximos días serán cada vez más duros para él, y no quiero que lo vivan sin saberlo.
+  en: It is hard to say exactly, because every dog is different. What I can tell you is that the coming days will get harder for him each time, and I do not want you to go through them without knowing that.
+- ¿Pancho se va a morir?
+  en: Is Pancho going to die?
+- Sí, Lía. Y tienes derecho a saberlo, aunque duela.
+  en: Yes, Lía. And you have a right to know, even if it hurts.
+- ¿Y por qué le duele?
+  en: Why does it hurt him?
+- Cuando los riñones dejan de funcionar bien, el cuerpo se va llenando de cosas que no debe tener, y eso le produce cansancio y malestar.
+  en: When the kidneys stop working properly, the body fills up with things it should not have, and that makes him tired and unwell.
+- ¿No hay otra opción?
+  en: Is there no other option?
+- Hemos probado lo que se puede probar. No quiero darles una esperanza que luego tenga que quitarles. Mi trabajo ahora es que Pancho esté cómodo mientras esté con ustedes.
+  en: We have tried what can be tried. I do not want to give you a hope that I would then have to take away. My job now is to keep Pancho comfortable for as long as he is with you.
+- Gracias por hablarnos con tanta claridad.
+  en: Thank you for speaking to us so clearly.
+- Tiene catorce años, pero hace una semana corría detrás de la pelota, y ayer se quedó dormido en el sofá sin que nadie le llamara.
+  en: He is fourteen, but a week ago he was running after the ball, and yesterday he fell asleep on the sofa without anyone calling him.
+- Es normal. Muchos perros disimulan, y se les nota más cuando ya están muy cansados. No ha empeorado de golpe: es que ustedes ya lo han visto.
+  en: That is common. Many dogs hide how they feel, and it shows more when they are very tired. He has not got worse all at once; it is that you have seen it now.
+- Yo lo noté el martes, y no quise decir nada.
+  en: I noticed it on Tuesday, and I did not want to say anything.
+- Hicieron bien en venir. Ahora lo importante es pensar en él, y en lo que él necesita de ustedes.
+  en: You were right to come. Now the important thing is to think about him, and about what he needs from you.
+- ¿Y qué necesita?
+  en: And what does he need?
+- Una manta, su sitio al lado del radiador, la comida que le gusta aunque no sea la de siempre, y mucha calma. Y que nadie le ponga cara de pena.
+  en: A blanket, his place by the radiator, food he likes even if it is not his usual, and a lot of calm. And nobody should look at him with sad faces.
+- ¿Y puedo despedirme?
+  en: Can I say goodbye?
+- Claro que sí, Lía. Puedes despedirte cuando quieras y decirle lo que quieras. Los perros no entienden la muerte como nosotros, pero saben quién les quiere.
+  en: Of course you can, Lía. You can say goodbye whenever you like and tell him whatever you want. Dogs do not understand death the way we do, but they know who loves them.
+- ¿Y cuándo? ¿Hay prisa?
+  en: And when? Is there a hurry?
+- Cuando estén listos lo decidimos juntos. No hay prisa, pero tampoco hay que dejar que sufra mientras esperan.
+  en: When you are ready, we decide together. There is no rush, but he must not suffer while you wait.
+- ¿Y cómo se hace? ¿Podemos estar con él?
+  en: And how is it done? Can we be with him?
+- Primero le damos algo para que se relaje, y después un medicamento que lo duerme sin dolor. Él no se da cuenta.
+  en: First we give him something to make him relax, and then a medicine that puts him to sleep without pain. He won't notice.
+- Mañana es sábado. ¿Podemos esperar al domingo? Así Lía puede pasar el día con él.
+  en: Tomorrow is Saturday. Could we wait until Sunday? That way Lía can spend the day with him.
+- Claro. El domingo por la mañana está bien. Les dejo la receta de los calmantes hasta entonces, y si empeora por la noche, llamen a este número.
+  en: Of course. Sunday morning is fine. I'll leave you the prescription for his painkillers until then, and if he gets worse at night, call this number.
+- Gracias. ¿Y hay algo que podamos hacer con él estos días?
+  en: Thank you. And is there anything we can do with him these days?
+- Lo que quieran, aunque no tenga sentido. Lo importante es que lo que hagan sea para él, no para ustedes.
+  en: Whatever you like, even if it makes no sense. What matters is that whatever you do is for him, not for you.
+- Pues sí. El domingo cumple quince años, y tengo el gorro de cumpleaños escondido en el armario desde el martes.
+  en: Yes, actually. On Sunday he turns fifteen, and I have had his party hat hidden in the wardrobe since Tuesday.
+
+notes.en:
+1. "Siéntense, por favor" (line 1): usted in the plural, the form the vet uses for both parents. Mario and Sonia answer in usted as well.
+2. "Gracias, Elena. Mario, siéntate con Lía" (line 2): Sonia uses tú with her husband and usted with the vet, so two forms of address are in one room, and the scene keeps each of them.
+3. "Usted dirá" (line 3): a formula that hands the floor to the other person. The parents ask for the news without asking for it outright.
+4. "ya no tiene arreglo" (line 4): arreglo is the word for a repair. Said of a body, it is gentler than the word for death, and the vet's sentence is kept short and exact.
+5. "Lo siento, pero no" (line 6): the vet answers a yes-or-no question with the no at once, and apologises before the explanation. English does the same with "I am sorry, but no."
+6. "ningún tratamiento que le devuelva lo que ha perdido" (line 6): the subjunctive after a negative noun phrase with no known treatment. The phrase describes what is lost, not the end of the dog's life.
+7. "Es difícil decirlo con exactitud" (line 8): the vet will not give a number she cannot be sure of. The reason, cada perro es distinto, is general, not a diagnosis.
+8. "Sí, Lía. Y tienes derecho a saberlo" (line 10): the vet answers the child with the plain yes the parents did not say. Tienes is the tú form, because she speaks to a child.
+9. "el cuerpo se va llenando de cosas que no debe tener" (line 12): the vet describes the illness through its effect, in general terms. Tener here means "to contain", and the phrase avoids naming the disease.
+10. "luego tenga que quitarles" (line 14): tener que takes an infinitive. The subjunctive tenga follows una esperanza que, a hope the vet refuses to give, so it is hypothetical.
+11. "sin que nadie le llamara" (line 16): sin que takes the subjunctive, here the imperfect of an action that did not happen. The sofa is the detail that shows the change.
+12. "No ha empeorado de golpe" (line 17): de golpe means all at once. The vet says that the decline came slowly and only now became visible to the family.
+13. "Hicieron bien en venir" (line 19): hacer bien means to do the right thing. The plural is used because two parents came together.
+14. "que nadie le ponga cara de pena" (line 21): poner cara de pena is an idiom for looking sad at someone. The indirect pronoun le marks the dog as the one who would be looked at.
+15. "Los perros no entienden la muerte como nosotros" (line 23): the vet makes a general claim about dogs and keeps it modest: what a dog understands is one thing, and who loves it is another.
+16. "lo duerme sin dolor" (line 27): dormir is the euphemism that vets and families use for euthanasia. The English "put to sleep" is the same euphemism, which is why the note gives both.
+17. "el gorro de cumpleaños" (line 32): the last line gives the fact that the scene did not give before. Lía has noticed the change first, and has already bought the hat, since the Tuesday in line 18.
+
+ex1:
+- Mi abuelo decía que a los perros hay que decirles la verdad, aunque no la entiendan.
+  en: My grandfather used to say that you should tell dogs the truth, even if they do not understand it.
+- Señora Ruiz, ¿le importa que su hijo se quede en la sala mientras hablamos?
+  en: Mrs Ruiz, would you mind if your son stayed in the room while we talk?
+- Quiero que sepas que nadie te culpa por no haber llevado antes al veterinario.
+  en: I want you to know that nobody blames you for not having taken him to the vet sooner.
+- Las pastillas se dan con comida, a la misma hora, y si no se las come, avísame.
+  en: The tablets are given with food, at the same time each day, and if he does not eat them, let me know.
+- Cuando los niños preguntan si duele, la respuesta honesta es que sí, pero que se puede aliviar.
+  en: When children ask whether it hurts, the honest answer is yes, but that it can be eased.
+
+ex2:
+- Le [dimos] de comer aunque no quisiera.
+  en: We gave him something to eat even though he did not want it.
+- Llámame si [empeora] por la noche.
+  en: Call me if he gets worse at night.
+- Cuando ustedes [estén] listos, pasen a la sala de al lado.
+  en: When you two are ready, go through to the room next door.
+- Tú no tienes que [decidir] nada hoy.
+  en: You do not have to decide anything today.
+- Ya no le [queda] mucho tiempo.
+  en: He does not have much time left.
+
+tasks:
+- Lía, Pancho está muy cansado, y sus riñones ya no le ayudan como antes. No es culpa tuya ni de tus papás. Vamos a cuidarlo mucho estos días, para que esté cómodo y tranquilo. Puedes acariciarlo, hablarle y sentarte a su lado. Y si hay alguna pregunta que te dé miedo, hazla igual: aquí estoy para contestarte todas. Ahora lo más importante es que estemos todos juntos, y que sepas que puedes contarme lo que sientes.
+  task.en: Write what the vet says to Lía, who is eight, in about 80 words: tú, short sentences, the illness explained without the word for death, one thing the child can do, and an open door for questions.
+  rubric.en: meaning: the vet says the dog is very ill and will not get better, without the bluntest words, and offers one thing Lía can do; register: tú, with sentences a child can follow; structure: what is wrong, what is not her fault, what she can do, an open invitation to ask; idiom: no es culpa tuya and cuidar are used in their normal senses; effect: the child is told the truth and is not left alone with it.
+
+== 88 C2
+numeral: Lección ochenta y ocho
+title: Perdón
+title.en: Sorry
+
+dialogue:
+- Estimada señora Ortiz: en respuesta a su reclamación, lamentamos que alguien se haya sentido ofendido por el trato recibido.
+  en: Dear Mrs Ortiz, in reply to your complaint, we regret that someone has felt offended by the treatment received.
+- Nuestro departamento ha revisado el pedido, y si el sofá presenta daños, le rogamos que nos lo comunique dentro del plazo establecido.
+  en: Our department has checked the order, and if the sofa shows any damage, we ask you to tell us within the period set out.
+- Le informamos de que un técnico visitará su domicilio en un plazo de diez días hábiles.
+  en: We inform you that a technician will visit your home within ten working days.
+- Hasta entonces, le rogamos que no retire el embalaje ni modifique el sofá.
+  en: Until then, we ask you not to remove the packaging or alter the sofa.
+- Gracias por su paciencia.
+  en: Thank you for your patience.
+- En caso de que la situación le haya causado molestias, pedimos disculpas.
+  en: If the situation has caused you any inconvenience, we apologise.
+- Atentamente. Sergio Ibáñez, responsable de atención al cliente, Mobiliario Carrasco, S. L.
+  en: Yours sincerely. Sergio Ibáñez, customer service manager, Mobiliario Carrasco, S. L.
+- Estimada señora Ortiz: le escribo a título personal, y no en nombre de la empresa.
+  en: Dear Mrs Ortiz, I am writing to you in a personal capacity, and not on behalf of the company.
+- Soy el de la furgoneta, el que subió el sofá con mi compañero Raúl el martes.
+  en: I am the man from the van, the one who carried the sofa up with my colleague Raúl on Tuesday.
+- Usted no me conoce, pero me acuerdo de usted: estaba en la puerta con una taza de café en la mano.
+  en: You do not know me, but I remember you: you were standing in the doorway with a cup of coffee in your hand.
+- Le pido perdón de verdad, porque rayé el sofá al subirlo por la escalera, y no se lo dije.
+  en: I truly beg your pardon, because I scratched the sofa while carrying it up the stairs, and I did not tell you.
+- Cuando usted me lo señaló en el portal, me puse nervioso y le dije: «Perdone, señora, no era mi intención».
+  en: When you pointed it out to me in the entrance hall, I got nervous and said: "Excuse me, madam, I did not mean to."
+- Raúl, que lo oyó, me dijo por lo bajo: «Perdona, que no es para tanto».
+  en: Raúl, who heard it, said to me under his breath: "Sorry, it's not that bad."
+- Después me fui a la furgoneta sin decir nada más, y eso fue peor.
+  en: Afterwards I went back to the van without saying anything more, and that was worse.
+- Lo siento mucho. Lo siento de verdad, y sé que una disculpa no vale si no dice qué pasó.
+  en: I am very sorry. I am truly sorry, and I know an apology is worth nothing if it does not say what happened.
+- No espero que me crea solo porque lo escribo.
+  en: I do not expect you to believe me just because I am writing it down.
+- Así que lo digo: el arañazo es mío, y la reparación la pagamos nosotros, no usted.
+  en: So I will say it: the scratch is mine, and we will pay for the repair, not you.
+- Disculpe que no se lo dijera en el momento; llevaba el sofá a cuestas y no pensaba con claridad.
+  en: Forgive me for not telling you at the time; I had the sofa on my back and was not thinking clearly.
+- No le pido que me perdone pronto, ni que me conteste; solo quería que lo supiera de mi boca.
+  en: I am not asking you to forgive me soon, or to reply; I only wanted you to hear it from me.
+- Lamento haber tardado tanto en decirlo, y lamento todavía más haberle escrito una carta que no decía nada.
+  en: I regret taking so long to say it, and I regret even more having written you a letter that said nothing.
+- Pedir perdón es fácil por carta; lo difícil es hacerlo en el portal, delante del sofá.
+  en: Asking for forgiveness is easy by letter; the hard part is doing it in the entrance hall, in front of the sofa.
+- Perdone que sea tan largo: me ha costado más esta carta que el sofá.
+  en: Forgive me for being so long: this letter has cost me more than the sofa did.
+- Si quiere, pase por la tienda un día de estos y le enseño el sofá con la reparación hecha.
+  en: If you like, come into the shop one of these days and I will show you the sofa with the repair done.
+- Perdone las molestias que le he causado con mis palabras, que fueron peores que el arañazo.
+  en: Forgive the trouble I have caused with my words, which were worse than the scratch.
+- Un saludo, y otra vez perdón por todo. Sergio.
+  en: Kind regards, and once again I am sorry for everything. Sergio.
+- Posdata: la carta de la empresa la escribí yo también, palabra por palabra, y le pido perdón por cada una de sus frases.
+  en: P.S. I wrote the letter from the company too, word for word, and I ask your forgiveness for every one of its sentences.
+
+notes.en:
+1. "lamentamos que alguien se haya sentido ofendido" (line 1): the non-apology. The company regrets that someone felt something, but it does not say who did anything, and the subject of the offence stays hidden in the passive se haya sentido.
+2. "le rogamos que nos lo comunique" (line 2): rogar que with the subjunctive is the polite request of an official letter. The pronoun lo refers to the damage.
+3. "Le informamos de que" (line 3): informar de que takes the indicative in this sentence, and it is the formal way of announcing a visit. The form is standard in letters from firms and offices.
+4. "Hasta entonces, le rogamos que no retire" (line 4): the same request form, with the negation before the verb; the company tells the customer what to keep, not what to feel.
+5. "En caso de que la situación le haya causado molestias" (line 6): the conditional clause and the perfect subjunctive make the apology depend on whether the customer was affected. That is the mark of a non-apology.
+6. "Atentamente" (line 7): the usual closing of a formal letter. With a named reader, British English says "Yours sincerely", which is the match used here.
+7. "a título personal" (line 8): the phrase separates the person from the company. Sergio writes as himself, and the English "in a personal capacity" gives the same sense.
+8. "Soy el de la furgoneta" (line 9): el de with a noun names someone by what they did or where they were. It is everyday speech, and here it introduces a man the customer may not remember.
+9. "rayé el sofá al subirlo" (line 11): al with an infinitive means on or when carrying out an action. The pronoun lo is attached to the infinitive, subirlo, and the sofa is the object.
+10. "«Perdone, señora, no era mi intención»" (line 12): perdone is the usted form, and it is the apology given on the spot, which is not enough. Note the register: the speaker is correct but cold.
+11. "«Perdona, que no es para tanto»" (line 13): Raúl uses tú with his colleague and shrinks the matter with no es para tanto. Spoken, that is the non-apology of the lesson, in one person's mouth.
+12. "Lo siento mucho. Lo siento de verdad" (line 15): the same formula twice, the second time with de verdad to show it is meant. English makes the same move with "truly".
+13. "Disculpe que no se lo dijera" (line 18): disculpar used for an omission, here asking to be excused for not having said something. Disculpe is the usted form of the verb.
+14. "Lamento haber tardado tanto" (line 20): lamentar with an infinitive expresses regret for a past action. It is more formal than lo siento, and the speaker uses it for his delay.
+15. "Pedir perdón es fácil por carta" (line 21): pedir perdón, to ask forgiveness, is the phrase the whole letter tests. The sentence states what the letter is for.
+16. "Perdone las molestias" (line 24): perdone las molestias is a set phrase for inconvenience. Here the apology covers the words, not the sofa.
+17. "Un saludo, y otra vez perdón por todo" (line 25): the closing of a personal letter, with the apology repeated before the name.
+18. "Posdata" (last line): the Spanish word for postscript, written in full; the abbreviation is P.D. The last line tells the reader who wrote the company letter, and that the writer apologises for it too.
+
+ex1:
+- Señora Pardo, si le he hecho daño con mis palabras, pido perdón sin condiciones.
+  en: Mrs Pardo, if I have hurt you with my words, I ask your forgiveness without conditions.
+- Señor Lozano, le pido disculpas por haber llegado tarde a la reunión sin avisar.
+  en: Mr Lozano, I apologise for arriving late to the meeting without letting you know.
+- Perdona, no quería pisarte el pie; ha sido sin querer.
+  en: Sorry, I did not mean to step on your foot; it was an accident.
+- Lo lamento mucho, pero no puedo ir a tu boda; me ha surgido un viaje.
+  en: I am very sorry, but I cannot come to your wedding; a trip has come up.
+- Disculpe, creo que este asiento es el mío.
+  en: Excuse me, I think this seat is mine.
+
+ex2:
+- Se me [olvidó] la fecha de tu cumpleaños.
+  en: I forgot the date of your birthday.
+- Tengo un [nudo] en el estómago desde ayer.
+  en: I have had a knot in my stomach since yesterday.
+- No [hay] excusa que valga.
+  en: There is no excuse that will do.
+- Ya [está] arreglado, no te preocupes.
+  en: It is already sorted, don't worry.
+- Me [costó] mucho decirlo.
+  en: It was very hard for me to say it.
+
+tasks:
+- Teresa, anoche te dejé plantada en el restaurante y ni te llamé. No tengo excusa: me olvidé de la hora y de ti. Lo siento de verdad, y te pido perdón. Esta semana te invito yo a cenar, si me dejas. Sé que no basta con una cena, pero es lo menos que puedo hacer. Hasta entonces, lamentamos que alguien se haya sentido molesto por la falta de aviso, y pedimos disculpas en caso de que la situación haya causado inconvenientes.
+  task.en: Write, for a friend who waited for you in a restaurant, a real apology and then a non-apology, about 100 words in all, the friend addressed as tú.
+  rubric.en: meaning: the real apology names what happened and takes the blame; the non-apology stays vague about who did what; register: tú to the friend, and the official phrasing only in the non-apology; structure: the real apology first, then the non-apology; idiom: lo siento de verdad, pido perdón and en caso de que are used in their normal senses; effect: the difference between the two shows without the writer naming it.
+
+== 89 C2
+numeral: Lección ochenta y nueve
+title: Sobremesa, estrenar, vergüenza ajena
+title.en: Three words English cannot say
+
+dialogue:
+- En inglés, la comida acaba cuando alguien recoge los platos o cuando la gente se levanta de la mesa; en español hay una palabra para lo que pasa después.
+  en: In English, the meal ends when someone clears the plates or when people get up from the table; in Spanish there is a word for what happens afterwards.
+- Esa palabra es sobremesa, y la forman dos palabras que cualquiera reconoce: sobre y mesa.
+  en: That word is sobremesa, and it is made of two words anyone can recognise: sobre and mesa.
+- Literalmente, lo que está sobre la mesa; en la práctica, el tiempo que la gente pasa sentada después de comer, mientras los platos siguen ahí.
+  en: Literally, what is on the table; in practice, the time people spend sitting after a meal, while the plates are still there.
+- Puede ser un café, una copa de algo dulce, una naranja que alguien pela sin prisa, o simplemente una conversación que nadie quiere cortar.
+  en: It can be a coffee, a glass of something sweet, an orange that someone peels without hurry, or simply a conversation that nobody wants to end.
+- Lo importante no es la comida, sino no levantarse todavía.
+  en: What matters is not the food, but not getting up just yet.
+- En inglés se puede decir una expresión que significa charla después de cenar, y se entiende, pero no es lo mismo: la frase describe una charla, y la sobremesa describe un tiempo, con su propio ritmo.
+  en: In English you can say "after-dinner conversation", and people will understand, but it is not the same: the phrase describes a talk, while the sobremesa describes a stretch of time with its own rhythm.
+- En muchas casas, la sobremesa empieza cuando alguien dice que va a recoger y no lo hace, y dura lo que dure la buena conversación.
+  en: In many homes the sobremesa begins when someone says they will clear the table and does not, and it lasts as long as the good conversation does.
+- Nadie la marca con un reloj, aunque en algunas familias hay un límite no escrito: lo que se pueda aguantar antes de que alguien diga «bueno, ya está».
+  en: Nobody times it by the clock, although some families have an unwritten limit: as long as people can bear before someone says, "Right, that's enough."
+- La sobremesa tiene fama de ser la parte más española de la comida, aunque no es exclusiva de España, y en muchos lugares de habla hispana también se alarga la mesa.
+  en: The sobremesa has a reputation as the most Spanish part of the meal, though it is not confined to Spain, and in many Spanish-speaking places the table is also kept long.
+- La palabra no se inventó para una charla suelta, sino para ese rato concreto, y por eso cuesta encontrarle equivalente.
+  en: The word was not made for a loose chat, but for that particular stretch of time, which is why it is hard to find an equivalent.
+- La segunda palabra es más pequeña: estrenar, que significa usar algo por primera vez.
+  en: The second word is smaller: estrenar, which means to use something for the first time.
+- Se estrenan zapatos, camisas, coches y casas; y en el teatro, estrenar una obra es darla por primera vez al público.
+  en: The verb is used for shoes, shirts, cars and houses; and in the theatre, estrenar a play means showing it to the public for the first time.
+- Pero lo que la palabra revela es otra cosa: en muchas casas se guarda lo mejor para una ocasión que nunca llega.
+  en: But what the word reveals is something else: in many homes the best things are kept for an occasion that never comes.
+- El mantel bueno, la vajilla de los domingos, el vestido de la boda de una prima: se guardan en el armario, y se sacan para una visita importante o cuando alguien pregunta: ¿para qué lo guardas, si no lo estrenas nunca?
+  en: The good tablecloth, the Sunday crockery, a cousin's wedding dress: they are kept in the cupboard and brought out for an important visit, or when someone asks, "What are you keeping it for, if you never use it?"
+- Esa costumbre viene de lejos, y no ha desaparecido del todo: basta abrir el armario de una casa de abuela.
+  en: That habit comes from a long way back, and it has not disappeared altogether: it is enough to open the cupboard of a grandmother's house.
+- Quien estrena algo cada semana suele llevarse alguna broma en la sobremesa, y quien lo guarda todo suele llevarse otra.
+  en: Someone who uses something new every week tends to get teased about it over coffee, and someone who keeps everything tends to get teased about that too.
+- La tercera palabra es la que más cuesta explicar a quien no la ha vivido: vergüenza ajena.
+  en: The third word is the one hardest to explain to someone who has never lived it: vergüenza ajena.
+- Es la vergüenza que se siente por otra persona, cuando esa persona hace el ridículo y no parece darse cuenta.
+  en: It is the embarrassment felt for another person, when that person makes a fool of themselves and does not seem to notice.
+- Se siente delante de la tele, en una boda, en un discurso que no termina nunca y en un cantante que se equivoca en el estribillo.
+  en: It is felt in front of the television, at a wedding, during a speech that never ends, or when a singer gets the chorus wrong.
+- En inglés hay una expresión que se acerca, pero se queda corta: la vergüenza ajena se siente de verdad, en el cuerpo, como si fuera propia.
+  en: English has a phrase that comes close, "secondhand embarrassment", but it falls short: vergüenza ajena is felt for real, in the body, as if it were one's own.
+- Lo curioso es que la palabra no pide que el otro sea culpable de nada; basta con que se equivoque en público.
+  en: The curious thing is that the word does not require the other person to be guilty of anything; it is enough that they make a mistake in public.
+- Eso dice algo del país, o al menos de cómo se mira a los demás: se siguen sus pasos y se sufre por ellos, aunque no se les conozca.
+  en: That says something about the country, or at least about how people look at others: their steps are followed and people feel for them, even when they are not known.
+- Pero conviene no exagerar: estas tres palabras no son de todos, ni de todas las casas, ni de todas las regiones.
+  en: But it is wise not to exaggerate: these three words do not belong to everyone, nor to every home, nor to every region.
+- Hay casas donde la comida acaba en cinco minutos, con el móvil al lado del plato, y gente que se levanta antes del postre.
+  en: There are homes where a meal is over in five minutes, with the phone beside the plate, and people who get up before dessert.
+- Y hay personas que nunca han sentido vergüenza ajena, o que dicen no sentirla, y eso también se puede creer.
+  en: And there are people who have never felt embarrassment for anyone else, or who say they have not, and that can be believed too.
+- Lo que sí se puede decir es que una palabra que no se traduce suele señalar una costumbre que se practica a menudo.
+  en: What can be said is that a word that does not translate usually points to a habit that people practise often.
+- Por eso estas tres palabras dicen algo de quien habla español, aunque cada casa lo diga a su manera.
+  en: That is why these three words say something about those who speak Spanish, though every home says it in its own way.
+- Lo dejo aquí, porque la sobremesa todavía no ha terminado.
+  en: I will leave it here, because the "sobremesa" is not over yet.
+
+notes.en:
+1. "sobremesa" (line 2): a compound of sobre and mesa, so the word is built from two plain words. Its sense is the time after a meal, not the meal itself. The word first appears in a dialogue (Perfectionnement, lesson 4), where a speaker says that the sobremesa is the real tradition of the region.
+2. "lo que está sobre la mesa" (line 3): the literal sense is given first, then the practical one, the way the essay wants the reader to see the word. "Sobre" here means "on".
+3. "una conversación que nadie quiere cortar" (line 4): the relative clause is in the indicative, because the conversation is real. Cortar means to cut off, as in to end a talk.
+4. "after-dinner conversation" (line 6): the English phrase is fair and is understood, so the essay does not say it is wrong. It says that the Spanish word names a period, not an activity.
+5. "y dura lo que dure la buena conversación" (line 7): lo que dure takes the present subjunctive, because the length is not known and is left to the talk. Lo que has a sense of "as long as".
+6. "bueno, ya está" (line 8): bueno is a marker that closes a matter, and ya está means that is enough. "That's enough" carries both, though the English is shorter.
+7. "lo que se pueda aguantar" (line 8): the free relative takes the present subjunctive, and se pueda is the impersonal se with the verb poder. The sentence says the limit is set by how much people can bear.
+8. "la parte más española de la comida" (line 9): the phrase is a reputation, not a fact, and the essay names it as one. "No es exclusiva de España" keeps the claim honest.
+9. "estrenar" (line 11): a verb for first use. English has no single verb for it: "to wear for the first time" fits clothes, "to open" fits a house, and the essay lists the cases.
+10. "estrenar una obra" (line 12): in the theatre, estrenar means to present a play to the public for the first time. The English "to premiere" is the same sense, and the sentence uses the Spanish form.
+11. "para qué lo guardas, si no lo estrenas nunca" (line 14): the question is spoken in tú, the form of close family, and the double negative with no and nunca is normal in speech.
+12. "llevarse alguna broma" (line 16): llevarse a joke means to be teased. The sentence balances two habits, using and keeping, and the second clause repeats the verb to make the balance clear.
+13. "vergüenza ajena" (line 17): ajena means belonging to another, so the phrase is the shame felt for someone else. Spanish speakers use it for the embarrassment of a stranger too.
+14. "en el estribillo" (line 19): the chorus of a song, the part that comes back. The singer who gets it wrong is the one who causes the feeling.
+15. "secondhand embarrassment" (line 20): the English phrase is named, and the essay says it falls short. The Spanish feeling is in the body, which the English phrase does not claim.
+16. "Eso dice algo del país, o al menos" (line 22): the hedge is the point. The essay says what the words suggest, then limits the claim.
+17. "Lo dejo aquí" (last line): the essay ends by staying at the table: the sobremesa of the essay is still going. The ending turns the title word into the last thing said.
+
+ex1:
+- Cuando los niños piden el postre, la abuela contesta siempre lo mismo: primero, a sentarse un rato.
+  en: When the children ask for dessert, Grandma always gives the same answer: first, we sit down for a while.
+- No estrenes el vestido todavía; espera a una ocasión de verdad.
+  en: Do not wear the dress for the first time yet; wait for a proper occasion.
+- Me da vergüenza ajena verlo cantar así en la boda, y eso que no lo conozco.
+  en: Watching him sing like that at the wedding makes me embarrassed for him, even though I do not know him.
+- Señora Ruiz, no tiene por qué quedarse a la sobremesa si tiene prisa, pero le agradeceríamos que se sentara un rato.
+  en: Mrs Ruiz, you do not have to stay for the after-meal talk if you are in a hurry, but we would be grateful if you sat down for a while.
+- Las palabras que no se traducen dicen mucho de quien las usa, y yo creo que la mía es «sobremesa».
+  en: Words that do not translate say a lot about the people who use them, and I think mine is "sobremesa".
+
+ex2:
+- Nadie se levantó de la [mesa] hasta que llegó el café.
+  en: Nobody got up from the table until the coffee arrived.
+- Llevaba meses sin [estrenar] los zapatos.
+  en: She had not worn the shoes for the first time in months.
+- Cuando empezó a cantar, sentí [vergüenza] ajena.
+  en: When he started to sing, I felt embarrassed for him.
+- Eso no le [hace] gracia a nadie.
+  en: Nobody finds that funny.
+- Mi abuela guarda el mantel para una [ocasión] especial.
+  en: My grandmother keeps the tablecloth for a special occasion.
+
+tasks:
+- Hola, Tom: te cuento una palabra que no tiene traducción exacta. Estrenar significa usar algo por primera vez: unos zapatos, una camisa, un coche. Mi abuela tiene un mantel bueno que guarda en el armario, y cuando le pregunto por qué no lo estrena, me dice que espera a que llegue alguien importante. Eso es estrenar en su sentido más pleno: guardar lo mejor hasta el día justo. Ya me dirás si lo entiendes, y si quieres, lo hablamos el domingo con un café largo. Un abrazo, Julia.
+  task.en: Write a message of about 100 words in Spanish to an English friend who is learning Spanish, explaining one of the three words and why it has no single English match; use tú and one example from your own life or family.
+  rubric.en: meaning: the message explains one word and its sense, and says why English has no single word for it; register: tú, friendly, plain Spanish a learner can follow; structure: the word, its sense, an example, an invitation to reply; idiom: estrenar and guardar lo mejor are used in their normal senses; effect: the example makes the sense clear without a dictionary.
+
+== 90 C2
+numeral: Lección noventa
+title: La jubilación
+title.en: A retirement speech
+
+dialogue:
+- Señoras y señores, compañeros del archivo, buenas tardes: he preparado un discurso de cinco minutos, y voy a cumplirlo.
+  en: Ladies and gentlemen, colleagues from the archive, good afternoon: I have prepared a five-minute speech, and I am going to keep to it.
+- Joaquín, no te escondas detrás de la cafetera, que te veo.
+  en: Joaquín, do not hide behind the coffee machine, I can see you.
+- Llevas treinta y seis años en este archivo, y en todo ese tiempo has dicho la misma frase más veces que nadie en la provincia: «Eso ya está en el legajo».
+  en: You have worked in this archive for thirty-six years, and in all that time you have said the same phrase more often than anyone in the province: "That's already in the file."
+- Si alguien pregunta por un acta de 1902, contestas que está en el legajo; y si pregunta por el sueldo de un funcionario de 1930, contestas lo mismo.
+  en: If someone asks about a council minute from 1902, you say it is in the file; and if someone asks about the salary of a civil servant in 1930, you say the same.
+- Y casi siempre tenías razón, que es lo más molesto de todo.
+  en: And you were almost always right, which is the most annoying thing of all.
+- Yo llegué a este archivo hace diecinueve años, con un contrato de seis meses, una libreta y mucho miedo.
+  en: I came to this archive nineteen years ago, on a six-month contract, with a notebook and a great deal of fear.
+- El primer día me dio una lupa, un guante de algodón y una caja de cartón que pesaba más que yo, y me dijo: «Empieza por el principio, que el final ya vendrá».
+  en: On my first day he gave me a magnifying glass, a cotton glove and a cardboard box that weighed more than I did, and said: "Start at the beginning; the end will come."
+- Pensé que hablaba de la caja. Tardé dos meses en darme cuenta de que hablaba de todo.
+  en: I thought he meant the box. It took me two months to realise that he meant everything.
+- Joaquín me enseñó a leer la letra de los escribanos antiguos, esa que parece una telaraña y que hoy nadie escribe.
+  en: Joaquín taught me to read the handwriting of the old scribes, the kind that looks like a cobweb and that nobody writes today.
+- Me enseñó a leer las abreviaturas, a reconocer un sello de cera, y a no fiarme nunca de una fecha sin mirar el papel por detrás.
+  en: He taught me to read abbreviations, to recognise a wax seal, and never to trust a date without looking at the back of the paper.
+- Y me enseñó la paciencia, que es lo más difícil de enseñar y lo único que no se compra en ninguna tienda.
+  en: And he taught me patience, which is the hardest thing to teach and the one thing you cannot buy in any shop.
+- Durante mucho tiempo le tuve miedo. Hablaba poco, y cuando hablaba, corregía.
+  en: For a long time I was afraid of him. He spoke little, and when he did speak, he corrected.
+- Hace unos años me dijo que una transcripción mía estaba bien. Volví a casa en autobús y me bajé tres paradas tarde, de tanto sonreír.
+  en: A few years ago he told me that one of my transcriptions was good. I went home by bus and got off three stops late, from smiling so much.
+- Ese día entendí que el miedo había sido respeto, y que el respeto, con él, llevaba años.
+  en: That day I understood that the fear had been respect, and that with him respect took years.
+- Nadie ha leído tantos papeles como tú, y nadie los ha leído tan despacio.
+  en: Nobody has read as many papers as you have, and nobody has read them as slowly.
+- Te oí decir «no lo sé» una sola vez, la semana pasada, y creo que lo dijiste para no tener que levantarte.
+  en: I heard you say "I don't know" only once, last week, and I think you said it so that you would not have to get up.
+- Por eso, esta tarde, quiero darte algo que no sale en ningún legajo: las gracias.
+  en: So this afternoon I want to give you something that is not in any file: thanks.
+- Gracias por la paciencia, por las correcciones que dolían un poco y por esas dos horas de café en la sala de atrás, donde me contabas cómo se escribían las cartas en tu pueblo.
+  en: Thank you for your patience, for the corrections that hurt a little, and for those two-hour coffees in the back room, where you told me how letters used to be written in your village.
+- Hemos hecho una colecta, y el regalo es una caja de cartón con tapa, para que guardes ahí todo lo que quieras.
+  en: We have made a collection, and the present is a cardboard box with a lid, so that you can keep in it whatever you like.
+- Te la damos vacía, que ya sé que eres de los que llenan las cosas desde el primer día.
+  en: We are giving it to you empty, because I know you are someone who fills things from the very first day.
+- Joaquín, el archivo se queda, y la llave de la sala de actas también, aunque tú nunca la has devuelto.
+  en: Joaquín, the archive stays here, and so does the key to the minutes room, even though you have never given it back.
+- Así que ya sabes: el lunes, a las nueve, la sala seguirá abierta, y el café seguirá en su sitio. Yo no digo que vengas; digo que está abierta.
+  en: So you know: on Monday, at nine, the room will still be open, and the coffee will still be in its place. I am not saying you should come; I am saying it is open.
+- Ahora te toca lo que no está en ningún legajo: el tiempo libre, que no sé si sabes usar.
+  en: Now you have the part that is not in any file: free time, which I am not sure you know how to use.
+- Tendrás que aprender a vivir sin mirar el papel por detrás.
+  en: You will have to learn to live without looking at the back of the paper.
+- Te deseo que lo hagas despacio, como nos enseñaste, y que empieces por el principio, que el final, esta vez, ya ha llegado.
+  en: I wish you would do it slowly, as you taught us, and that you start at the beginning, because this time the end has already come.
+- Enhorabuena, Joaquín. Y ya termino, que he dicho cinco minutos, y llevo siete. Eso también estará en el legajo.
+  en: Congratulations, Joaquín. And I am finishing now, because I said five minutes, and I have been talking for seven. That too will be in the file.
+
+notes.en:
+1. "Señoras y señores, compañeros del archivo" (line 1): the formal opening of a public speech, with the audience named in full. The speaker stays formal for the first sentence, then turns to one man, as the speech becomes personal.
+2. "no te escondas detrás de la cafetera" (line 2): tú is the form colleagues use at work, and the sentence is spoken across the room. The speaker is public, but she speaks to Joaquín.
+3. "Eso ya está en el legajo" (line 3): a legajo is a bundle of papers kept together in an archive, and the phrase is a way of saying the matter is settled and filed. The English "That's already in the file" is literal; the sense is the same.
+4. "y casi siempre tenías razón, que es lo más molesto de todo" (line 5): the line is a complaint on the surface and praise underneath. The speaker names the praise by calling it a nuisance.
+5. "un contrato de seis meses, una libreta y mucho miedo" (line 6): a list of three, with the fear last. The order lets the fear arrive as the final and most honest item.
+6. "Empieza por el principio, que el final ya vendrá" (line 7): the advice is literal in the first week, and the last line of the speech brings the end back as a fact. Ya vendrá is the future of venir in its usual sense.
+7. "Tardé dos meses en darme cuenta" (line 8): tardar with en plus an infinitive means to take time to do something. Darse cuenta means to realise, and the reflexive pronoun is kept.
+8. "la letra de los escribanos antiguos" (line 9): escribano, in the old sense, is the scribe or notary who wrote official documents. The handwriting is the one the reader has to learn to read.
+9. "a no fiarme nunca de una fecha" (line 10): fiarse de means to trust. The sentence teaches a rule of the archive, which the speech then turns into a rule for life.
+10. "Hablaba poco, y cuando hablaba, corregía" (line 12): the imperfect describes a habit. The two clauses balance a silence with a correction.
+11. "me bajé tres paradas tarde, de tanto sonreír" (line 13): de tanto plus an infinitive gives the cause: so much smiling. The speaker missed her stop because of it.
+12. "llevaba años" (line 14): llevar with a time expression means the respect needed years, or had taken years to grow. The imperfect describes the state of the respect.
+13. "Te oí decir «no lo sé» una sola vez" (line 16): the quoted phrase is the one thing he would not say, and the speaker reports it with the verb oír in the past. The explanation is left to the reader.
+14. "las gracias" (line 17): dar las gracias takes the article in the plural, las gracias, and that is how the speech asks for thanks in public.
+15. "aunque tú nunca la has devuelto" (line 21): aunque with the indicative states a fact the speaker knows, not a doubt. The perfect has devuelto runs up to now.
+16. "Yo no digo que vengas; digo que está abierta" (line 22): the contrast between saying and meaning is the point. The speaker is careful to say she is not inviting him, and is inviting him anyway.
+17. "que el final, esta vez, ya ha llegado" (line 25): the end of the speech repeats the advice of the first week, now with its real sense. Ya ha llegado is the perfect for an event that has happened.
+18. "Eso también estará en el legajo" (last line): the speech ends by filing itself. The phrase of line 3 comes back, now about the speech, and that is the last thing said.
+
+ex1:
+- Señora Gil, le agradecería que leyera el discurso despacio, que la sala es grande.
+  en: Mrs Gil, I would be grateful if you read the speech slowly, because the room is large.
+- Mi padre se jubiló el año pasado y todavía se levanta a las siete para ir a ninguna parte.
+  en: My father retired last year and still gets up at seven to go nowhere.
+- Si me pides que hable cinco minutos, hablaré cinco minutos, y ni un segundo más.
+  en: If you ask me to speak for five minutes, I will speak for five minutes and not a second more.
+- Llevo treinta años escribiendo informes, y la única frase que me sé de memoria es «en el plazo previsto».
+  en: I have been writing reports for thirty years, and the only phrase I know by heart is "within the agreed period".
+- Cuando te jubiles, no vuelvas a la oficina cada día para ver si te echan de menos.
+  en: When you retire, do not go back to the office every day to see whether they miss you.
+
+ex2:
+- Esa señora lleva [cuarenta] años en la empresa.
+  en: That lady has been with the company for forty years.
+- Brindemos por ti, que nos has [enseñado] mucho.
+  en: Let's raise a glass to you, because you have taught us a great deal.
+- Dicen que el tiempo [vuela].
+  en: They say time flies.
+- Quiero darte las [gracias] por todo.
+  en: I want to thank you for everything.
+- Me [hizo] gracia tu discurso.
+  en: I found your speech funny.
+
+tasks:
+- Querida Ana: te deseo una jubilación con poco reloj y mucha calle. Durante veinte años has sido la persona que sabía dónde estaba cada cosa, y eso no lo vamos a poder decir de nadie. No hace falta que vengas a la oficina a ver si te echamos de menos: te echamos de menos. Y si se te olvida algo, llámanos, que todavía sabemos dónde guardas las llaves. Un abrazo muy grande, de todos los que te queremos.
+  task.en: Write a farewell message of about 90 words for a colleague who is retiring, on a card to be signed by the office, with tú.
+  rubric.en: meaning: the message wishes the colleague well, names one thing she did and says what the office will miss; register: tú, warm and short, as a card between colleagues; structure: greeting, wish, one quality, a line of humour, sign-off; idiom: te echamos de menos and un abrazo muy grande are used in their normal senses; effect: the last line is personal, not a formula.
+
+== 91 C2
+kind: revision
+numeral: Lección noventa y una
+title: Revisión y notas
+title.en: Revision and notes
+
+dialogue:
+- Sonia: Ya está la caja de cartón. Un año de tarjetas, y cabe todo dentro.
+  en: There it is, the cardboard box. A year of cards, and it all fits inside.
+  refs: 90
+- Mario: Pues mira cuántas. La de la clínica está encima de todas.
+  en: Well, look how many there are. The one from the clinic is on top of all of them.
+  refs: 87
+- Lía: Léela tú, papá, que yo ya me la sé de memoria.
+  en: Read it yourself, Dad, I know it by heart already.
+  refs: 87
+- Mario: «Hicieron bien en venir.» Eso lo escribió la veterinaria tal cual lo dijo aquel día.
+  en: "You were right to come." The vet wrote it down exactly as she said it that day.
+  refs: 87
+- Sonia: Pues esa frase nos sirvió más que todo lo que nos dijeron los demás.
+  en: Well, that sentence helped us more than anything the others said.
+  refs: 85
+- Lía: Mamá, quiero escribirle una carta para darle las gracias.
+  en: Mum, I want to write her a letter to thank her.
+  refs: 88
+- Sonia: Muy bien. ¿Cómo empiezas? ¿Querida Elena o Estimada Elena?
+  en: Good. How do you start? Dear Elena, the warm way, or the formal way?
+  refs: 85, 88
+- Lía: Querida, que ya nos conoce. Estimada suena a reclamación por el sofá.
+  en: "Querida", since she already knows us. "Estimada" sounds like a complaint about a sofa.
+  refs: 88
+- Mario: Pues querida, vale. Pero no le pongas perdón, que ella no tiene que perdonar nada.
+  en: All right, "querida" then. But do not put in an apology, because she has nothing to forgive.
+  refs: 88
+- Lía: Pero quiero decirle que fue buena, que nos lo dijo claro.
+  en: But I want to tell her she was good, that she told us plainly.
+  refs: 87
+- Sonia: Eso sí. Dile que lo que más agradecimos fue que no nos hablara como a niños.
+  en: Yes, that. Tell her what we appreciated most was that she did not talk to us as if we were children.
+  refs: 87
+- Mario: Y dile que el sitio de Pancho sigue al lado del radiador, como ella nos dijo.
+  en: And tell her that Pancho's place is still by the radiator, as she told us.
+  refs: 87
+- Lía: Ya lo tengo. Escucha: «Gracias por decirnos la verdad, y por no dejarnos solos con ella».
+  en: I've got it. Listen: "Thank you for telling us the truth, and for not leaving us alone with it."
+  refs: 85, 87
+- Sonia: Qué bien suena. ¿Y cómo lo cierras?
+  en: That sounds good. And how do you close it?
+  refs: 88
+- Lía: Con un abrazo muy fuerte, de Lía.
+  en: With a big hug, from Lía.
+  refs: 85
+- Mario: ¿Y lo del gorro? ¿Se lo vas a contar?
+  en: And the hat? Are you going to tell her about it?
+  refs: 87
+- Lía: No hace falta, que eso ya lo sabe.
+  en: There is no need, she already knows.
+  refs: 85, 87
+- Sonia: Pues tú decides, que es tu carta.
+  en: Then you decide, it is your letter.
+  refs: 88
+- Lía: Ya lo he decidido. Cuando la termine, la meto en la caja con las demás.
+  en: I have decided already. When I finish it, I will put it in the box with the others.
+  refs: 90
+- Mario: Pues mete también el gorro, que es de sus cosas.
+  en: Then put the hat in as well; it belongs with his things.
+  refs: 87
+- Lía: Ese no, papá. El gorro sigue sin estrenar.
+  en: Not that one, Dad. The hat is still unworn.
+  refs: 87, 89
+
+notes.en:
+The week's texts are lessons 85 to 90. Each section names its lessons and quotes their lines as they stand there, so the learner can find them. The scene is one Sunday in a family's house, a year after the visit to the vet, and every line answers the one before it.
+1. Condolence (lesson 85): the formulas of sympathy, with the line where each one stands.
+| Form | What it does | Line from lesson 85 |
+|---|---|---|
+| mi más sentido pésame | the set formula for a death, said to the family | Mi más sentido pésame por la muerte de tu padre. |
+| te acompaño en el sentimiento | the full formula; cut short, it sounds unfinished | Te acompaño en el sentimiento, de verdad, aunque sé que las palabras sirven de poco en estos días. |
+| el tiempo lo cura todo | the consolation the writer refuses | No te voy a decir que el tiempo lo cura todo, porque sé que no te sirve de nada oírlo. |
+| un abrazo muy fuerte | the warm sign-off of close friends | Un abrazo muy fuerte, de tu amiga de siempre, Inés. |
+2. The eulogy (lesson 86): the speech at a funeral, with its closing words and its last surprise.
+| Form | What it does | Line from lesson 86 |
+|---|---|---|
+| descanse en paz | the closing of a speech at a funeral | Gracias, doña Carmen. Descanse en paz. |
+| un sexto sentido | a gift for knowing something without being told | Tenía además un sexto sentido para la tarea: sabía si la habíamos hecho nosotros o nuestros padres, y nunca nos lo dijo, pero lo sabía. |
+| yo también fui alumna suya | the last line, when a stranger turns out to be a pupil | Yo también fui alumna suya, en tercero B |
+3. The vet (lesson 87): how a hard fact is said without the bluntest words.
+| Form | What it does | Line from lesson 87 |
+|---|---|---|
+| lo siento, pero no | the answer no, given at once, with the apology first | Lo siento, pero no. |
+| hicieron bien en venir | praise for coming, said to the family | Hicieron bien en venir. |
+| saben quién les quiere | what a dog understands, put modestly | Los perros no entienden la muerte como nosotros, pero saben quién les quiere. |
+| lo duerme sin dolor | the euphemism for the last treatment | un medicamento que lo duerme sin dolor |
+4. The apology (lesson 88): a real apology and a non-apology, side by side.
+| Form | What it does | Line from lesson 88 |
+|---|---|---|
+| lamentamos que alguien se haya sentido ofendido | the non-apology: the passive hides who was offended and who did wrong | lamentamos que alguien se haya sentido ofendido por el trato recibido |
+| pedir perdón | to ask forgiveness, the phrase the real apology must earn | Pedir perdón es fácil por carta; lo difícil es hacerlo en el portal, delante del sofá. |
+| perdone las molestias | a set phrase for inconvenience, here used for words | Perdone las molestias que le he causado con mis palabras |
+5. Culture-bound words (lesson 89): three words English cannot say in one word.
+| Form | What it does | Line from lesson 89 |
+|---|---|---|
+| sobremesa | the time after a meal, not the meal itself | Literalmente, lo que está sobre la mesa |
+| estrenar | to use something for the first time | Se estrenan zapatos, camisas, coches y casas |
+| vergüenza ajena | the embarrassment felt for someone else | Es la vergüenza que se siente por otra persona |
+6. The retirement speech (lesson 90): the phrases a speech can carry from its opening to its last line.
+| Form | What it does | Line from lesson 90 |
+|---|---|---|
+| eso ya está en el legajo | the archive's way of saying a matter is settled and filed | «Eso ya está en el legajo» |
+| empieza por el principio, que el final ya vendrá | the advice that the speech's end brings back | «Empieza por el principio, que el final ya vendrá» |
+| eso también estará en el legajo | the last line, which files the speech itself | Eso también estará en el legajo. |
+
+tasks:
+- Estimado señor Varela: le escribo para darle las gracias por la paciencia que tuvo con mi madre durante el invierno. Cada vez que le preguntábamos algo, nos lo explicaba despacio, sin hacernos sentir pesados, y eso nos ayudó más de lo que usted cree. Espero que algún día podamos devolverle el favor. Atentamente, Pablo Serrano.
+  task.en: Write a letter of thanks of about 80 words to a doctor who was patient with your mother during the winter, in usted, ending with a formal close.
+  rubric.en: meaning: the letter thanks the doctor for one specific kindness and says what it meant; register: usted, formal and warm; structure: greeting, thanks, one example, the wish to return the favour, formal close; idiom: dar las gracias and atentamente are used in their normal senses; effect: the example makes the thanks precise, not general.

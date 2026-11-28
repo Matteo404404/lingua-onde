@@ -108,6 +108,11 @@ three courses goes the same way:
 8. Listen without the text one last time, repeating each sentence.
 9. Read and listen to the dialogues of the two lessons before.
 
+In the app the voice reads the dialogue in one go, as the recordings do;
+"Pause to repeat", chosen step by step, gives the pause after each sentence
+for repeating it. The notes are shown beside the dialogue, the line a note
+is about lit when you point at it.
+
 The early recordings are slow; the pace grows towards natural speed. One
 lesson a day is the rhythm: more is not better. A hard lesson can be gone
 over again the next day ("go over this lesson again tomorrow").

@@ -441,7 +441,8 @@ impl App {
                 }
                 let done = self.saved.is_done(&c.lesson_key(l.number));
                 let is_next = next == Some(li);
-                let reachable = done || (is_next && !newcomer);
+                // A lesson the level test skipped can be read like a studied one.
+                let reachable = done || self.saved.is_passed(&c.lesson_key(l.number)) || (is_next && !newcomer);
                 let fill = if is_next { ACCENT_SOFT() } else { egui::Color32::TRANSPARENT };
                 let r = egui::Frame::new()
                     .fill(fill)

@@ -91,19 +91,26 @@ a normal desktop (Vulkan, Wayland or X11). The installer names anything that
 is missing. On Ubuntu that is usually
 `sudo apt install mesa-vulkan-drivers libxkbcommon0 libwayland-client0 libx11-6`.
 
-**Windows** (10 or newer). Download `lingua-onde-windows-x86_64.exe` from
+**Windows** (10 or newer). Download `lingua-onde-setup-windows-x86_64.exe` from
 [Releases](https://github.com/Matteo404404/lingua-onde/releases/latest) and
 double-click it. If Windows warns about an unknown app, choose "More info",
-then "Run anyway". The voices play out of the box through Windows' own sound
+then "Run anyway". The setup needs no administrator rights: it installs for
+you only, adds Lingua Onde to the Start menu (and, if you tick it, the
+desktop), and puts an uninstaller in Settings, Apps. Uninstalling asks
+whether to delete your progress too; the answer "No" keeps it. If you prefer
+no install, `lingua-onde-windows-x86_64.exe` is the same app as one file
+that runs from any folder. The voices play out of the box through Windows' own sound
 player. To play your own MP3 recordings, download the Windows build from
 https://mpv.io/installation/ and unzip it so `mpv.exe` and the other files
-from that zip sit in the same folder as the app.
+from that zip sit in the same folder as the app (with the setup, that is
+`%LOCALAPPDATA%\Programs\Lingua Onde`).
 
-**macOS (macOS 11 or newer).** Download `lingua-onde-macos-arm64.zip` for
-Apple silicon (M1 and later) or `lingua-onde-macos-x86_64.zip` for Intel Macs
+**macOS (macOS 11 or newer).** Download `lingua-onde-macos-arm64.dmg` for
+Apple silicon (M1 and later) or `lingua-onde-macos-x86_64.dmg` for Intel Macs
 (Apple menu, About This Mac: "Chip" means Apple silicon, "Processor" Intel) from
 [Releases](https://github.com/Matteo404404/lingua-onde/releases/latest),
-unzip it and move "Lingua Onde" to Applications. The first time, right-click
+open it and drag "Lingua Onde" onto the Applications folder beside it. (The
+`.zip` files hold the same app; the updater uses them.) The first time, right-click
 it and choose Open. If macOS still blocks it, open System Settings, Privacy
 & Security, and choose Open Anyway. Sound works out of the box (`afplay`).
 `brew install mpv` adds pause and rewind.
@@ -248,8 +255,9 @@ format is in `content/FORMAT.md`.
   is copied to `progress.backup.json`; a file that cannot be read is set
   aside as `progress.unreadable-<time>.json`, never overwritten. Files from
   v1.0.0 (one 300-lesson course per language) are converted on load.
-- `packaging/` the launcher entry, icon and `install.sh`; `.github/workflows/release.yml`
-  builds the downloads, `.github/workflows/check-platforms.yml` checks the
+- `packaging/` the launcher entry, icon, `install.sh` and the Windows setup
+  script `lingua-onde.iss` (Inno Setup); `.github/workflows/release.yml`
+  builds the downloads (with the Windows setup and the macOS disk images), `.github/workflows/check-platforms.yml` checks the
   voices and sound on each system.
 - `assets/NotoSans-*.ttf` is Noto Sans (Regular, Medium, Bold), under the SIL
   Open Font License in `assets/NotoSans-OFL.txt`. The app license does not

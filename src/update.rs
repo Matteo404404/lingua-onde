@@ -195,6 +195,12 @@ fn replace_self(tag: &str) -> Result<(), String> {
         return Err(fail(e.to_string()));
     }
     let _ = std::fs::remove_dir_all(dir.join(".lingua-onde-update"));
+    // Installed with the setup (packaging/lingua-onde.iss): Settings, Apps
+    // reads the version from the uninstall entry, keyed by the setup's AppId.
+    if cfg!(windows) && dir.join("unins000.exe").is_file() {
+        let key = r"HKCU\Software\Microsoft\Windows\CurrentVersion\Uninstall\{4AC3DCD0-819C-4F78-A97A-0F9342519D3B}_is1";
+        let _ = command("reg").args(["add", key, "/v", "DisplayVersion", "/d", tag.trim_start_matches('v'), "/f"]).status();
+    }
     Ok(())
 }
 

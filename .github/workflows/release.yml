@@ -66,6 +66,12 @@ jobs:
               ;;
             Windows)
               cp target/release/lingua_onde.exe "${{ matrix.file }}"
+              # the setup (Start menu entry, uninstaller) around the same exe
+              iscc="/c/Program Files (x86)/Inno Setup 6/ISCC.exe"
+              [ -f "$iscc" ] || choco install innosetup -y --no-progress
+              # no MSYS path conversion: it would turn /DVersion into a path
+              MSYS_NO_PATHCONV=1 "$iscc" "/DVersion=${GITHUB_REF_NAME#v}" packaging/lingua-onde.iss
+              test -f lingua-onde-setup-windows-x86_64.exe
               ;;
             macOS)
               app="Lingua Onde.app/Contents"
@@ -98,13 +104,26 @@ jobs:
             <key>NSHighResolutionCapable</key><true/>
           </dict></plist>
           PLIST
+              # the zip is what the updater downloads (src/update.rs);
+              # the disk image, with its Applications shortcut, is for people
               ditto -c -k --keepParent "Lingua Onde.app" "${{ matrix.file }}"
+              dmg="${{ matrix.file }}"; dmg="${dmg%.zip}.dmg"
+              mkdir dmg-root
+              ditto "Lingua Onde.app" "dmg-root/Lingua Onde.app"
+              ln -s /Applications dmg-root/Applications
+              # hdiutil on the runners sometimes fails once with "Resource busy"
+              for i in 1 2 3; do
+                hdiutil create -volname "Lingua Onde" -srcfolder dmg-root -ov -format UDZO "$dmg" && break
+                sleep 10
+              done
+              test -f "$dmg"
               ;;
           esac
       - uses: actions/upload-artifact@v4
         with:
           name: ${{ matrix.target }}
-          path: ${{ matrix.file }}
+          # the matrix file, plus the Windows setup or the macOS disk image
+          path: lingua-onde-*
           if-no-files-found: error
 
   publish:
@@ -122,13 +141,19 @@ jobs:
         run: |
           test -f dist/lingua-onde-linux-x86_64
           test -f dist/lingua-onde-windows-x86_64.exe
+          test -f dist/lingua-onde-setup-windows-x86_64.exe
           test -f dist/lingua-onde-macos-arm64.zip
           test -f dist/lingua-onde-macos-x86_64.zip
+          test -f dist/lingua-onde-macos-arm64.dmg
+          test -f dist/lingua-onde-macos-x86_64.dmg
       - uses: softprops/action-gh-release@v2
         with:
           generate_release_notes: true
           files: |
             dist/lingua-onde-linux-x86_64
             dist/lingua-onde-windows-x86_64.exe
+            dist/lingua-onde-setup-windows-x86_64.exe
             dist/lingua-onde-macos-arm64.zip
             dist/lingua-onde-macos-x86_64.zip
+            dist/lingua-onde-macos-arm64.dmg
+            dist/lingua-onde-macos-x86_64.dmg

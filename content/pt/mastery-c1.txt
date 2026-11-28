@@ -1,7 +1,7 @@
 course: pt
 stage: mastery
-name: Portuguese (Brazil) – Mastery (C1 → C2)
-name.it: Portoghese (Brasile) – Padronanza (C1 → C2)
-name.en: Portuguese (Brazil) – Mastery (C1 → C2)
-name.es: Portugués (Brasil) – Maestría (C1 → C2)
-
+bases: it
+name: Portuguese (Portugal) – Mastery (C1 → C2)
+name.it: Portoghese (Portogallo) – Padronanza (C1 → C2)
+name.en: Portuguese (Portugal) – Mastery (C1 → C2)
+name.es: Portugués (Portugal) – Maestría (C1 → C2)

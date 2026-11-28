@@ -1,7 +1,7 @@
 course: pt
 stage: perfectionnement
-name: Portuguese (Brazil) – Perfectionnement (B2 → C1)
-name.it: Portoghese (Brasile) – Perfezionamento (B2 → C1)
-name.en: Portuguese (Brazil) – Perfectionnement (B2 → C1)
-name.es: Portugués (Brasil) – Perfeccionamiento (B2 → C1)
-
+bases: it
+name: Portuguese (Portugal) – Perfectionnement (B2 → C1)
+name.it: Portoghese (Portogallo) – Perfezionamento (B2 → C1)
+name.en: Portuguese (Portugal) – Perfectionnement (B2 → C1)
+name.es: Portugués (Portugal) – Perfeccionamiento (B2 → C1)

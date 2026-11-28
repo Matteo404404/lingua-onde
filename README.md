@@ -14,7 +14,7 @@ for its speakers); Settings changes it later.
 Each language has three courses in a row: Foundation (first words to B2, 100
 lessons), Perfectionnement (B2 to C1, 70 lessons) and Mastery (C1 to C2, 100
 lessons). The built-in courses are original lessons written for this app
-(English, Spanish, French, German, Dutch, Portuguese from Brazil, Mandarin
+(English, Spanish, French, German, Dutch, Portuguese from Portugal, Mandarin
 with pinyin, Latin with vowel lengths, and Vietnamese). They are being written
 one pair of languages at a time: English for Italian speakers first
 (Foundation is complete: 100 lessons with translations and notes in Italian,

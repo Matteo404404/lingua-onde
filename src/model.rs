@@ -400,7 +400,7 @@ pub const LANGS: &[LangInfo] = &[
         spanish: "Portugués",
         native: "Português",
         color: Color32::from_rgb(40, 150, 90),
-        voice: ("pt/pt_BR/faber/medium/pt_BR-faber-medium", None),
+        voice: ("pt/pt_PT/tug%C3%A3o/medium/pt_PT-tug%C3%A3o-medium", None),
     },
     LangInfo {
         code: "zh",

@@ -41,9 +41,14 @@ expressions; Perfectionnement is complete too: 70 lessons, an introduction,
 and an appendix with the grammar, a grammar index and the expressions;
 Mastery is complete too: 100 lessons with open tasks, an introduction, and an
 appendix with style and grammar, an index and the expressions).
-Spanish (of Madrid) for English speakers is
-being written: its plan and its first two lessons, with figured pronunciation
-for English readers in the signs of Assimil's *Spanish with Ease*. The other
+Spanish (of Madrid) for English speakers is complete too (Foundation: 100
+lessons with translations and notes in English, figured pronunciation for
+English readers in the signs of Assimil's *Spanish with Ease*, an introduction
+and an appendix with the grammar, a grammar index, the words and the
+expressions; Perfectionnement: 70 lessons, an introduction, and an appendix
+with the grammar, a grammar index and the expressions; Mastery: 100 lessons
+with open tasks, an introduction, and an appendix with style and grammar, an
+index and the expressions). The other
 languages have 13 sample
 lessons (lessons 1–8, 26, 51 and 76 of Foundation, one lesson each of
 Perfectionnement and Mastery), with translations and notes in Italian, English

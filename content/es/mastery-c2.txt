@@ -3461,3 +3461,814 @@ tasks:
 - ¡Chacho, qué boda tan bonita, mi niña! ¡Che, qué boda tan linda, vení a brindar con nosotros! ¡Órale, qué boda tan padrísima! ¿Me das la receta del mojo?
   task.en: Write one line in three varieties, each sentence in its own voice: Canarian, Río de la Plata and Mexican, all saying "What a lovely wedding!", with a request in the last one. Keep each variety's forms and do not mix them.
   rubric.en: meaning: each sentence says what a wedding guest would say, and the last asks for a recipe; register: a friendly toast at a wedding, with tú or the local forms throughout; structure: three sentences, in the order Canarian, Río de la Plata, Mexican; idiom: chacho, vení and órale are used in their own varieties and not swapped; effect: a reader hears three speakers and their accents at once.
+
+== 57 C2
+numeral: Lección cincuenta y siete
+title: Compartir piso a los cuarenta
+title.en: Sharing a flat at forty
+
+dialogue:
+- Buenas noches. Me llamo Germán, tengo cuarenta años y comparto piso.
+  en: Good evening. My name is Germán, I am forty, and I share a flat.
+- Cuando lo digo, la primera fila se ríe, y yo me río también, porque a los veinte compartir piso era una etapa, y a los cuarenta es un estado civil.
+  en: When I say it, the front row laughs, and I laugh too, because at twenty sharing a flat was a stage in life, and at forty it is a marital status.
+- Hay gente aquí que tiene piso propio, y os envidio, de verdad.
+  en: Some of you here have your own flat, and I envy you, honestly.
+- A los veinte, la nevera tenía una cerveza, un bote de mostaza y un cartel que decía: «Prohibido tocar mi yogur».
+  en: At twenty, the fridge held one beer, a jar of mustard and a sign that said: "Do not touch my yoghurt".
+- Hoy tiene un cuadrante de limpieza.
+  en: Today it has a cleaning rota.
+- El cuadrante lo pegamos con celo en la puerta, y lo firmamos los dos sin leerlo, como quien firma un contrato con la nevera.
+  en: We stuck the rota to the door with sticky tape, and we both signed it without reading it, like people who sign a contract with the fridge.
+- Tenemos reuniones de piso, con orden del día y con acta.
+  en: We hold flat meetings, with an agenda and minutes.
+- El acta la escribe ella, con letra clara, y no se puede discutir.
+  en: She writes the minutes, in clear handwriting, and they cannot be argued with.
+- Yo friego los martes.
+  en: I wash up on Tuesdays.
+- Ella friega los jueves.
+  en: She washes up on Thursdays.
+- Los miércoles no friega nadie, y ahí está el secreto de la convivencia.
+  en: Nobody washes up on Wednesdays, and that is the secret of living together.
+- Ella paga la mitad del alquiler.
+  en: She pays half the rent.
+- La otra mitad la paga en bizcochos, y el bizcocho, como comprenderéis, no se devuelve.
+  en: She pays the other half in sponge cake, and sponge cake, as you will understand, is not refundable.
+- Vivimos en un tercero sin ascensor, en un barrio con más bares que farmacias.
+  en: We live on the third floor with no lift, in a neighbourhood with more bars than chemist's.
+- Ella dice que el barrio tiene mucha vida.
+  en: She says the neighbourhood is full of life.
+- Yo le digo que la vida empieza a las diez y media de la noche, que es cuando ella se acuesta.
+  en: I tell her that life begins at half past ten at night, which is when she goes to bed.
+- Ella se acuesta a las diez y media, y yo me acuesto cuando puedo.
+  en: She goes to bed at half past ten, and I go to bed when I can.
+- En un piso compartido, eso se llama tener horarios distintos.
+  en: In a shared flat, that is called having different hours.
+- El otro día llegué a la una y media de la madrugada, con las llaves en la mano y la sensación de tener dieciséis años.
+  en: The other night I came home at half past one in the morning, with my keys in my hand and the feeling of being sixteen.
+- Y ella estaba en el pasillo, con la bata puesta y la luz encendida.
+  en: And she was in the hall, in her dressing gown, with the light on.
+- Me dijo: «Germán, son la una y media».
+  en: She said: "Germán, it is half past one."
+- Y le dije: «Ya lo sé, no hace falta que me lo recuerdes».
+  en: And I said: "I know, there is no need to remind me."
+- Y me contestó: «Pues ya te lo recuerdo, por si acaso».
+  en: And she replied: "Well, I will remind you anyway, just in case."
+- Me ha dejado la cena en un tupper con mi nombre en la tapa.
+  en: She has left my dinner in a plastic tub with my name on the lid.
+- Dice la etiqueta: «Calentar tres minutos. No tocar, que es para Germán».
+  en: The label says: "Heat for three minutes. Do not touch, this is for Germán."
+- Antes de salir, me pide que le mande un mensaje cuando llegue a la calle, y otro cuando llegue al metro.
+  en: Before I leave, she asks me to send her a message when I reach the street, and another when I reach the metro.
+- Me despierta a las siete con la radio puesta, que en Madrid es ya la única forma de levantarse sin ganas.
+  en: She wakes me at seven with the radio on, which in Madrid is now the only way to get up without wanting to.
+- Cuando le digo que estoy cansado, me responde con la frase de siempre: «Pues te acuestas antes».
+  en: When I tell her I am tired, she gives me her usual answer: "Then go to bed earlier."
+- Así que me tengo que ir ya, que mi compañera de piso me espera despierta, y se enfada si llego después de medianoche, con razón.
+  en: So I have to go now, because my flatmate waits up for me, and she gets cross if I come in after midnight, and she is right to.
+- Es mi madre.
+  en: She is my mother.
+
+notes.en:
+1. "comparto piso" (sentence 1): compartir piso is the usual way to say that you live in a flat with other people, often renting a room. Piso is the Spanish word for a flat, and the English "flat" is the nearest match.
+2. "una etapa" and "un estado civil" (sentence 2): etapa is a stage of life, and estado civil is the official term for marital status, the box ticked on a form. The sentence puts the two side by side.
+3. "os envidio" (sentence 3): the comedian speaks to the audience as vosotros, the plural of tú. The object pronoun os goes before the verb.
+4. "A los veinte ... tenía" and "Hoy tiene" (sentences 4 and 5): the imperfect describes the fridge as it was at twenty, and the present describes it as it is now.
+5. "lo pegamos ... lo firmamos" (sentence 6): lo refers back to el cuadrante, the rota, which is masculine. "Como quien firma un contrato" means "like someone who signs a contract", with quien used for an unnamed person.
+6. "acta" (sentence 8): the minutes of a meeting, written down and signed.
+7. "friego" (sentences 9 to 11): fregar is the usual verb for washing up in Spain. Lavar los platos is also heard, mostly in Latin America.
+8. "no se devuelve" (sentence 13): the se with a verb in the third person is the passive with se, and it means that a thing is not given back. The English "is not refundable" is the closest natural match.
+9. "tercero" (sentence 14): in Spain the ground floor is the bajo, so tercero is the third floor, three floors up from the street.
+10. "más bares que farmacias" (sentence 14): the comparison más ... que with two nouns. The English "more bars than chemist's" keeps the same order.
+11. "la sensación de tener dieciséis años" (sentence 19): sensación de with an infinitive describes how something feels, here the feeling of being sixteen again.
+12. "son la una y media" (sentence 21): the time is given with son la, in the singular for one o'clock, and y media for half past. The other hours take the plural son.
+13. "no hace falta que me lo recuerdes" (sentence 22): hacer falta takes a subject that follows it, and que takes the subjunctive when a person is asked to do something. The double pronoun me lo means "remind me of it".
+14. "Calentar tres minutos" (sentence 25): labels and instructions in Spanish use the infinitive as a command, where English would use "Heat for three minutes" in the imperative.
+15. "Pues te acuestas antes" (sentence 28): the tú form of the present is used for a sharp instruction, and the pronoun te comes before the verb. The English "Then go to bed earlier" is the plain sense.
+16. "me tengo que ir ya" (sentence 29): tener que plus an infinitive means "to have to", and ya adds "now". The English "I have to go now" keeps both.
+
+ex1:
+- Mi hermana y yo compartimos piso desde hace tres años, y todavía discutimos por el cubo de la basura.
+  en: My sister and I have shared a flat for three years, and we still argue about the bin.
+- Lo peor de compartir piso no es fregar, sino saber quién ha dejado la luz encendida.
+  en: The worst part of sharing a flat is not washing up, but knowing who left the light on.
+- Si buscas un piso sin normas, tendrás que vivir solo, y eso también tiene sus inconvenientes.
+  en: If you are looking for a flat with no rules, you will have to live alone, and that has its drawbacks too.
+- Mi vecina sabe a qué hora entro en casa, y nunca le he dado permiso para saberlo.
+  en: My neighbour knows what time I come in, and I have never given her permission to know.
+- Compartir piso a los cuarenta no es triste, es práctico, o eso me repito cada mañana.
+  en: Sharing a flat at forty is not sad, it is practical, or so I keep telling myself every morning.
+
+ex2:
+- Ver la factura me dejó [a cuadros].
+  en: The bill left me speechless.
+- Se pasa el día [en las nubes] desde que llegó el verano.
+  en: She spends all day with her head in the clouds since summer began.
+- Hay que [hacer cola] para entrar en el baño.
+  en: You have to queue to get into the bathroom.
+- Cuando vio el cuadrante, [perdió] la paciencia.
+  en: When she saw the rota, she lost her patience.
+- No me [tomes el pelo], que sé qué hora es.
+  en: Do not pull my leg, I know what time it is.
+
+tasks:
+- Yo tengo un coche y no tengo sitio para aparcarlo. Llevo tres años dando vueltas a la misma manzana, y cada vez que paso por los bares de la esquina, alguien me saluda como si fuera su vecino de toda la vida. Mi plan era sencillo: encontrar un hueco en la calle y no pagar. Hoy lo he encontrado, delante de una boca de incendios. He bajado a por un café, y cuando he vuelto había una grúa. El guardia me ha dicho: «Pues tiene usted suerte, es la única plaza libre de Madrid».
+  task.en: Write a short stand-up routine in Spanish, about 100 words, on an everyday problem of your own choosing, in the first person, with a build-up of three or four details and a last line that is the punchline. The model is about parking.
+  rubric.en: meaning: the problem, the search and the tow truck all stay in one story, with nothing added that the routine does not claim; register: spoken and warm, with the first person and a comic tone, and no slang the audience would not know; structure: a short opening, a build-up of details, then a last line that ends the routine; idiom: dar vueltas a la misma manzana, de toda la vida and tener suerte are used in their normal senses; effect: the audience laughs at the last line, not before it.
+
+== 58 C2
+numeral: Lección cincuenta y ocho
+title: El examen de español de verdad
+title.en: The real Spanish test
+
+dialogue:
+- Examen de español. Simulacro de prueba para la nacionalidad, sin ningún valor oficial.
+  en: Spanish test. A mock test for nationality, with no official value at all.
+- Lea cada pregunta y marque una sola respuesta.
+  en: Read each question and tick only one answer.
+- Está prohibido consultar el móvil, salvo para llamar a su suegra.
+  en: Using your phone is forbidden, except to call your mother-in-law.
+- Tiempo: lo que tarde usted en llegar a la conclusión de que el examen es más difícil que el de conducir.
+  en: Time: however long it takes you to conclude that the test is harder than the driving test.
+- Parte uno. Preguntas de costumbres.
+  en: Part one. Questions about customs.
+- Pregunta 1. ¿A qué hora se cena en España? a) A las seis de la tarde, como en Inglaterra. b) A la hora en que el resto del mundo se acuesta. c) Cuando ya no quede nada en la nevera.
+  en: Question 1. What time is dinner eaten in Spain? a) At six in the evening, as in England. b) At the hour when the rest of the world goes to bed. c) When there is nothing left in the fridge.
+- Pregunta 2. ¿Cuántos besos se dan al saludar a una amiga? a) Uno, siempre. b) Dos, siempre. c) Depende de la región, de la confianza y de quién se acerque primero.
+  en: Question 2. How many kisses are given when greeting a female friend? a) One, always. b) Two, always. c) It depends on the region, on how close you are, and on who moves first.
+- Pregunta 3. En la cola de la carnicería, alguien pregunta: «¿Quién es el último?». ¿Qué significa? a) Que alguien ha llegado el último y quiere ser el primero. b) Que la persona que pregunta quiere irse a casa. c) Que la persona que pregunta quiere saber quién está delante de quién, y quien contesta «yo» pasa a ser su referencia.
+  en: Question 3. In the butcher's queue, somebody asks: "Who is the last one?" What does it mean? a) That someone arrived last and wants to be first. b) That the person asking wants to go home. c) That the person asking wants to know who is in front of whom, and whoever answers "me" becomes their point of reference.
+- Pregunta 4. ¿Qué significa «a ver si quedamos»? a) Una cita fijada para el martes a las ocho. b) Una propuesta que se hace sin intención de fijar nada. c) Una amenaza de pelea en la plaza.
+  en: Question 4. What does "a ver si quedamos" mean? a) An appointment fixed for Tuesday at eight. b) A suggestion made without any intention of fixing anything. c) A threat of a fight in the square.
+- Pregunta 5. ¿Qué se pide en un bar cuando uno quiere un café sin nada más? a) Un cortado, que lleva un poco de leche. b) Un café solo, por favor. c) Un carajillo, que lleva un chorro de licor.
+  en: Question 5. What do you order in a bar when you want a coffee with nothing else? a) A cortado, which has a little milk. b) A café solo, please. c) A carajillo, which has a shot of liqueur.
+- Parte dos. Preguntas de lengua.
+  en: Part two. Questions about the language.
+- Pregunta 6. ¿Cuál de estas frases es correcta? a) Hay muchas personas en la cola. b) Han muchas personas en la cola. c) Hubieron muchas personas en la cola.
+  en: Question 6. Which of these sentences is correct? a) There are many people in the queue. b) There have many people in the queue. c) There were many people in the queue.
+- Parte tres. Conversación con el examinador.
+  en: Part three. Conversation with the examiner.
+- Examinador: Buenos días. ¿Dónde vive usted?
+  en: Examiner: Good morning. Where do you live?
+- Candidato: En un barrio con mucho ruido y poco aparcamiento.
+  en: Candidate: In a neighbourhood with a lot of noise and little parking.
+- Examinador: ¿Y qué hace los domingos?
+  en: Examiner: And what do you do on Sundays?
+- Candidato: Me echo la siesta, que es lo que hacen todos en España.
+  en: Candidate: I have a nap, which is what everybody in Spain does.
+- Examinador: Eso no lo sabemos. Cuéntenos algo más.
+  en: Examiner: We do not know that. Tell us something more.
+- Candidato: Pues paseo un rato, hasta la hora de comer, que luego ya nadie se levanta.
+  en: Candidate: Well, I go for a walk for a while, until lunchtime, because after that nobody gets up.
+- Examinador: ¿Y a qué hora come usted?
+  en: Examiner: And what time do you have lunch?
+- Candidato: A las tres. Y ceno cuando sale el sol, según la estación.
+  en: Candidate: At three. And I have dinner when the sun goes down, depending on the season.
+- Examinador: Muy bien. ¿Tiene amigos españoles?
+  en: Examiner: Very good. Do you have Spanish friends?
+- Candidato: Muchos. Quedamos siempre, aunque nunca fijamos nada, que para eso está «a ver si quedamos».
+  en: Candidate: Lots. We always arrange to meet, although we never fix anything, because that is what "let's see if we can meet" is for.
+- Examinador: Ha terminado el examen. Su resultado le llegará por carta.
+  en: Examiner: The test is over. Your result will reach you by letter.
+- Candidato: ¿Y cuándo?
+  en: Candidate: And when?
+- Examinador: En el plazo de dos años, o de dos años y medio, según la cola.
+  en: Examiner: Within two years, or two years and a half, depending on the queue.
+
+notes.en:
+1. "Simulacro de prueba" (sentence 1): a simulacro is a practice or mock version of an exam. The exam here has no official value, and the first line says so plainly. The real test is the CCSE, which covers the Spanish Constitution and social life in Spain.
+2. "Lea cada pregunta y marque" (sentence 2): these are usted forms, the formal address used with a candidate one does not know. Lea and marque are the usted imperative, and the exam keeps that form to the end.
+3. "salvo para llamar a su suegra" (sentence 3): salvo para means "except for". The possessive su keeps the usted address in the same line.
+4. "lo que tarde usted" (sentence 4): lo que tarde takes the present subjunctive after lo que, meaning however long it takes. The English "however long it takes you" keeps the same sense.
+5. "Parte uno", "Parte dos", "Parte tres" (sentences 5, 11 and 13): cardinal numbers are used as headings for the parts of the paper, uno, dos and tres.
+6. "¿A qué hora se cena en España?" (sentence 6): se cena is the impersonal se with a transitive verb, meaning that dinner is eaten, with no subject named. The English "What time is dinner eaten" follows the same pattern.
+7. "¿Cuántos besos se dan" (sentence 7): the verb agrees with the plural noun besos. Al saludar is al with an infinitive, meaning "when greeting".
+8. "¿Quién es el último?" (sentence 8): in a queue, the person who answers "yo" becomes the last one there, and the next arrival joins the queue behind them.
+9. "a ver si quedamos" (sentence 9): quedar means to arrange to meet. The phrase is often said without any plan behind it, so it is not a promise, and the option with a date is wrong.
+10. "un café solo", "un cortado", "un carajillo" (sentence 10): café solo is an espresso served without milk, a cortado is an espresso with a little milk, and a carajillo is coffee with a spirit. These are ordinary words on the menu of a Spanish bar.
+11. "Hay muchas personas" (sentence 12): haber is impersonal, so hay stays singular before a plural noun. The options with han and hubieron are wrong for the same reason.
+12. "Me echo la siesta" (sentence 17): echarse la siesta is the usual way to say that someone takes a nap, with the reflexive pronoun me before the verb.
+13. "según la estación" (sentence 21): según with a noun means "depending on", and it is used for answers that depend on circumstances.
+14. "que para eso está «a ver si quedamos»" (sentence 23): para eso está names the purpose of a phrase, and the quotation marks show that the phrase is quoted, not used.
+15. "según la cola" (last line): according to, followed by a noun, gives the cause of the delay, and the English "depending on the queue" is its plain sense.
+
+ex1:
+- Aunque el examen sea un simulacro, hay que leer cada pregunta dos veces.
+  en: Even though the test is a mock one, you must read every question twice.
+- Si no sabe la respuesta, marque la que menos mal le suene.
+  en: If you do not know the answer, tick the one that sounds least wrong to you.
+- Los domingos por la tarde, la mayoría de la gente se echa la siesta, o eso dicen los anuncios.
+  en: On Sunday afternoons most people have a nap, or so the adverts say.
+- Como la cena es tan tarde, se aguanta el hambre hasta la noche.
+  en: Because dinner is so late, people manage their hunger until the night.
+- Quedamos el jueves, o al menos eso decimos, porque nunca sabemos si va en serio.
+  en: We will meet on Thursday, or at least that is what we say, because we never know whether it is meant seriously.
+
+ex2:
+- Lea cada pregunta y [marque] una sola respuesta.
+  en: Read each question and tick only one answer.
+- Señor, no [pierda] la calma, que esto es un simulacro.
+  en: Sir, do not lose your calm, this is only a mock test.
+- La cola [da] la vuelta a la esquina.
+  en: The queue stretches round the corner.
+- A ver si [quedamos] un día de estos.
+  en: Let's see if we can meet up one of these days.
+- Hace frío, así que me [pongo] el abrigo.
+  en: It is cold, so I am putting my coat on.
+
+tasks:
+- 1. ¿Qué se toma a las cuatro de la tarde en Inglaterra? a) Un café solo, sin más. b) Un té, a menudo con pastas. c) Un vaso de vino tinto. 2. ¿Qué se pide en un bar inglés cuando uno quiere cerveza de barril? a) Una caña. b) Una pinta. c) Un vermú. 3. ¿Qué se dice cuando uno pisa a alguien sin querer? a) Ya era hora. b) Lo siento, de verdad. c) Me da igual. 4. ¿Qué se come el 25 de diciembre en muchas casas británicas? a) Un pudin de Navidad. b) Una paella. c) Un bocadillo de calamares. 5. ¿Qué se celebra el 5 de noviembre? a) La noche de los fuegos artificiales de Guy Fawkes. b) El día de la independencia. c) El día de la Hispanidad.
+  task.en: Write five questions in Spanish for a test on being British, in the same mock-exam style: each with three options a), b) and c), one correct answer and a light tone. Keep all the text in Spanish, with no English word.
+  rubric.en: meaning: each question is about a real British custom, and only one answer is right; register: the usted of an exam paper, with the three options in the same form; structure: five numbered questions, each with a), b) and c) on the same line; idiom: pinta, caña and lo siento are used in their normal senses; effect: the test is a little absurd, and the reader laughs without being misled about the facts.
+
+== 59 C2
+numeral: Lección cincuenta y nueve
+title: Una chirigota
+title.en: A chirigota
+
+dialogue:
+- Pilar, nuestra presidenta,
+  en: Pilar, our president,
+- sube la cuota, porfía,
+  en: raises the fee, she insists,
+- sube con pena al tercero
+  en: climbs sadly to the third floor
+- sin ascensor todavía.
+  en: with no lift, still.
+- Va vestida de escalera,
+  en: She comes dressed as a staircase,
+- y se planta con la junta,
+  en: and she stands up to the meeting,
+- y la cuota ya le sube,
+  en: and the fee goes up for her,
+- y dice: ¿quién me pregunta?
+  en: and she says: who is asking me?
+- Nadie quiere ser vecino
+  en: Nobody wants to be a neighbour
+- con la cuota de Pilar,
+  en: at Pilar's fee,
+- sube, sube, sin cesar,
+  en: up, up, without a pause,
+- sin ascensor, sin cenar.
+  en: no lift, no dinner.
+- ¡Sube, Pilar, sube, sube!
+  en: Up, Pilar, up, up!
+- ¡Pero el ascensor no sube!
+  en: but the lift will not go up!
+- La chirigota es un grupo que canta en el carnaval de Cádiz, y su canción funciona porque se entiende a la primera.
+  en: The chirigota is a group that sings at the Cádiz carnival, and its song works because it is understood at once.
+- Primero está la noticia del año, y aquí la noticia es que el ascensor del edificio lleva meses averiado.
+  en: First comes the news of the year, and here the news is that the lift in the building has been broken for months.
+- Después viene el juego de palabras, que en este caso es el verbo subir, con sus dos sentidos: subir la cuota y subir por la escalera.
+  en: Then comes the pun, which here is the verb subir, with its two meanings: to raise the fee and to go up the stairs.
+- El ingenio está en que el oyente lo entiende antes de que el estribillo lo diga.
+  en: The cleverness lies in the listener understanding it before the chorus says it.
+- El disfraz completa el chiste: la presidenta sale vestida de escalera, y el público no necesita más explicación.
+  en: The costume completes the joke: the president comes on dressed as a staircase, and the audience needs no further explanation.
+- La letra está en octosílabos, el verso de los romances y de muchas coplas, así que el público sigue el compás con las palmas.
+  en: The words are in octosyllables, the verse of the old ballads and of many coplas, so the audience keeps time with its hands.
+- Las rimas son sencillas, porque el público termina el verso antes de que lo cante el grupo, y eso le hace sentirse parte de la broma.
+  en: The rhymes are simple, because the audience finishes the line before the group sings it, and that makes them feel part of the joke.
+- El estribillo es lo que se queda en la cabeza, porque se repite y el público lo canta a coro al salir a la calle.
+  en: The chorus is what stays in the head, because it is repeated and the audience sings it together when they come out into the street.
+- La broma tiene un límite: pica, pero no hiere, porque el blanco es el cargo y no la persona.
+  en: The joke has a limit: it stings, but it does not wound, because the target is the post and not the person.
+- La canción tiene tres estrofas de cuatro versos y un estribillo de dos, y el último verso de todo es «¡Pero el ascensor no sube!».
+  en: The song has three stanzas of four lines and a chorus of two, and the last line of all is "but the lift will not go up!"
+- Por eso el género funciona: el público ya sabe de qué va, y lo que le gusta es oír cómo se dice.
+  en: That is why the genre works: the audience already knows what it is about, and what it enjoys is hearing how it is said.
+- Y el barrio se reconoce en cada verso, porque la noticia es de todos, y todos han subido alguna vez a pie al tercero.
+  en: And the whole neighbourhood recognises itself in every line, because the news belongs to everyone, and everyone has once climbed to the third floor on foot.
+- El coro se escribe el último, porque es lo que el público se lleva a casa.
+  en: The chorus is written last, because it is what the audience takes home.
+- Además, la letra habla de cosas que todos han visto en la escalera de su propio edificio.
+  en: Besides, the words are about things everyone has seen on the stairs of their own building.
+
+notes.en:
+1. "Pilar, nuestra presidenta" (sentence 1): presidenta is the feminine of presidente, the word for a woman who holds the office. The possessive nuestra shows that the speakers are her neighbours.
+2. "sube la cuota, porfía" (sentence 2): la cuota is the fee each owner pays to the building. Porfiar means to insist stubbornly, and the verb is the rhyme of the line.
+3. "sube con pena al tercero" (sentence 3): tercero is the third floor, counted from the bajo, the ground floor. Con pena means "sadly", and the line keeps the verb subir in its sense of climbing.
+4. "sin ascensor todavía" (sentence 4): a fragment with no verb, as a song allows. Todavía is still, stressed on ví, and the line is the first of the rhyme with porfía.
+5. "Va vestida de escalera" (sentence 5): vestida de means dressed as. The chirigotas come on in costume, and this one is dressed as a staircase.
+6. "se planta con la junta" (sentence 6): plantarse means to stand firm or take a stand. La junta is the meeting of the owners of a building, the junta de propietarios.
+7. "y la cuota ya le sube" (sentence 7): the verb subir is used for a fee that rises. The pronoun le shows for whom the fee rises.
+8. "¿quién me pregunta?" (sentence 8): a question that is a challenge, not a request for information. It rhymes with junta, in the same way as porfía and todavía.
+9. "Nadie quiere ser vecino" (sentence 9): nadie quiere takes an infinitive, and ser vecino means to be a neighbour in the same block. It has eight syllables, with no sinalefa.
+10. "con la cuota de Pilar" (sentence 10): the line ends on a stressed syllable, Pilar, so it counts one syllable more than it has. In the metre it is eight.
+11. "sube, sube, sin cesar" and "sin ascensor, sin cenar" (sentences 11 and 12): both lines end on a stressed syllable, cesar and cenar, and both count eight. The two lines rhyme on -ar.
+12. The metre (sentences 1 to 14): every line is an octosyllable. In "sube con pena al tercero" the a of pena and the a of al make one syllable, which is the sinalefa, joining two vowels across a word boundary.
+13. The rhymes: porfía and todavía share the stressed vowel and everything after it, so they are a consonant rhyme. Junta and pregunta, and Pilar and cenar, rhyme in the same way. The song has three stanzas and a chorus.
+14. The chorus (sentences 13 and 14): "¡sube, Pilar, sube, sube!" is the part the audience can sing without the words. The last line ends on the verb sube again, and it is quoted here as the song gives it.
+15. The essay (sentences 15 to 28): the chirigota is a group of the Cádiz carnival, and the word names the song as well as the group. The essay refers to the news, the pun, the costume and the chorus, the four things it names in order.
+16. Contrast with English: a pun in English is often a clever word, while the Spanish sube here is one verb with two sensible meanings, raise and climb.
+
+ex1:
+- Los vecinos se quejan del ascensor desde la primavera, pero nadie quiere ser presidente.
+  en: The neighbours have complained about the lift since spring, but nobody wants to be president.
+- Si la cuota sube otra vez, habrá que hablarlo en la junta, aunque nadie vaya a ir.
+  en: If the fee goes up again, it will have to be discussed at the meeting, although nobody is going to turn up.
+- Cantar en el carnaval es fácil; lo difícil es que el público entienda el juego de palabras.
+  en: Singing at the carnival is easy; the difficult part is for the audience to understand the pun.
+- A la presidenta le gusta el disfraz, pero no quiere que se rían de ella en la calle.
+  en: The president likes the costume, but she does not want people laughing at her in the street.
+- Mi vecino sube a pie al tercero desde que el ascensor se rompió, y dice que está en forma.
+  en: My neighbour has climbed the stairs to the third floor since the lift broke, and says he is in good shape.
+
+ex2:
+- Subió al tercero a [pie].
+  en: He climbed to the third floor on foot.
+- La presidenta [tomó la palabra] en la junta.
+  en: The president took the floor at the meeting.
+- Todos estamos [de] acuerdo en que el ascensor es urgente.
+  en: Everyone agrees that the lift is urgent.
+- Eso no [viene] a cuento.
+  en: That is beside the point.
+- No hay que [darle] más vueltas.
+  en: There is no point going over it again.
+
+tasks:
+- Rubén, siempre llegas tarde / y el café ya se enfría. / Tú tienes excusa lista: / la culpa es del tranvía. / Hoy llegaste con retraso, / con bizcocho y sin prisa, / y no te riño, ya ves, / con excusa y sonrisa.
+  task.en: Write eight lines in Spanish for a colleague who is always late: teasing, kind, in octosyllables, with the even lines rhyming. Name the colleague in the first line, and write the lines as verse, not as prose.
+  rubric.en: meaning: the lateness, the cold coffee, the excuse and the forgiveness all stay, with nothing added about the colleague; register: friendly teasing, with tú throughout; structure: eight lines of eight syllables, with the even lines rhyming; idiom: tener excusa lista and con excusa y sonrisa are used in their normal sense; effect: the colleague laughs and feels forgiven at the end.
+
+== 60 C2
+numeral: Lección sesenta
+title: Cita previa
+title.en: Prior appointment
+
+dialogue:
+- Ernesto: Buenos días. Quería pedir cita.
+  en: Good morning. I wanted to ask for an appointment.
+- Rocío: ¿Tiene usted cita previa?
+  en: Do you have a prior appointment?
+- Ernesto: Para eso vengo, para pedir una cita previa.
+  en: That is why I came, to ask for a prior appointment.
+- Rocío: Pues sin cita previa no le puedo atender.
+  en: Well, without a prior appointment I cannot serve you.
+- Ernesto: ¿Y no hay excepciones, señora?
+  en: And are there no exceptions, madam?
+- Rocío: Sí, para los que ya tienen cita.
+  en: Yes, for those who already have one.
+- Ernesto: ¿Y cómo se consigue?
+  en: And how does one get one?
+- Rocío: Por internet, por teléfono o aquí, en esta ventanilla.
+  en: Online, by phone or here, at this counter.
+- Ernesto: Pues aquí estoy.
+  en: Well, here I am.
+- Rocío: Aquí se pide la cita, sí, pero para estar en la ventanilla hace falta tenerla.
+  en: Yes, you ask for the appointment here, but to be at the counter you need to have one.
+- Ernesto: ¿Y por teléfono?
+  en: And by phone?
+- Rocío: Por teléfono solo se atiende con el número de cita.
+  en: By phone we only deal with the appointment number.
+- Ernesto: ¿Y el número de cita se pide por teléfono?
+  en: And is the appointment number asked for by phone?
+- Rocío: Eso es, señor. Con su número de cita, que es el que todavía no tiene.
+  en: Exactly, sir. With your appointment number, which you do not have yet.
+- Ernesto: Pues vaya círculo.
+  en: Well, what a circle.
+- Rocío: Es un sistema muy claro, señor, y muy antiguo.
+  en: It is a very clear system, sir, and a very old one.
+- Ernesto: Entonces, ¿qué le digo al teléfono?
+  en: So what do I say on the phone?
+- Rocío: Que quiere pedir cita. Y le contestarán que necesita cita previa.
+  en: That you want to ask for an appointment. And they will reply that you need a prior appointment.
+- Ernesto: ¿Y por internet?
+  en: And online?
+- Rocío: Por internet hay que entrar con el código de la cita, y el código de la cita sale de la cita.
+  en: Online you have to log in with the appointment code, and the appointment code comes from the appointment.
+- Ernesto: Pues explíqueme qué hago sin internet, sin teléfono y sin cita.
+  en: Then explain to me what I should do without internet, without a phone and without an appointment.
+- Rocío: Esperar. La cola es lo único que no pide cita.
+  en: Wait. The queue is the only thing that does not need an appointment.
+- Ernesto: ¿Y la cola también es una cita?
+  en: And is the queue an appointment too?
+- Rocío: La cola es una cola, señor. Nadie la pide.
+  en: The queue is a queue, sir. Nobody asks for it.
+- Ernesto: Llevo cuarenta minutos en ella.
+  en: I have been in it for forty minutes.
+- Rocío: Pues sí que es mucho tiempo, señor.
+  en: Well, that is a long time, sir.
+- Ernesto: Ya lo sé, por eso vengo a pedir la cita.
+  en: I know, that is why I came to ask for the appointment.
+- Rocío: Entonces ya lleva usted el tiempo de una cita.
+  en: Then you already have the time of an appointment.
+- Ernesto: Pues quiero mi cita.
+  en: Then I want my appointment.
+- Rocío: Espere, que lo miro con calma. Aquí pone que usted pidió cita en octubre, por internet y desde casa.
+  en: Wait, I will look calmly. It says here that you asked for an appointment in October, online and from home.
+- Ernesto: ¿Sí? No me acuerdo.
+  en: Did I? I do not remember.
+- Rocío: Pues aquí lo pone, con su nombre y todo.
+  en: Well, it says so here, with your name and everything.
+- Ernesto: Entonces será verdad, aunque yo no lo recuerde.
+  en: Then it must be true, although I do not remember it.
+- Rocío: Pues es para hoy, a las diez.
+  en: Well, it is for today, at ten.
+- Ernesto: Son las diez y cinco.
+  en: It is five past ten.
+- Rocío: Entonces llega usted a tiempo. La cita sigue vigente hasta las diez y media.
+  en: Then you are in time. The appointment is valid until half past ten.
+- Ernesto: ¿Y para qué era la cita de octubre?
+  en: And what was the October appointment for?
+- Rocío: Para pedir cita.
+  en: To ask for an appointment.
+- Ernesto: ¿Y eso ya lo he pedido?
+  en: And have I already asked for that?
+- Rocío: Desde octubre, señor. Pues ya la tiene. Siguiente.
+  en: Since October, sir. Then you have it. Next.
+
+notes.en:
+1. "Quería pedir cita" (sentence 1): quería is the imperfect, and it makes the request softer than quiero. The clerk answers in the present, which is the tense of a rule.
+2. "¿Tiene usted cita previa?" (sentence 2): cita previa is the Spanish term for an appointment booked before the visit. The clerk addresses a member of the public with usted, as an official does.
+3. "Para eso vengo" (sentence 3): para eso followed by a verb means "that is what I came for". The sentence answers the question, and it is not a new one.
+4. "no le puedo atender" (sentence 4): atender means to attend to, to serve, and le is the usted pronoun for the person served.
+5. "¿Y cómo se consigue?" (sentence 7): se consigue is the impersonal se with a transitive verb, meaning how one gets it, with no subject named.
+6. "Por internet, por teléfono o aquí" (sentence 8): the three ways are listed with o before the last one, and aquí follows it without any change.
+7. "hace falta tenerla" (sentence 10): hacer falta with an infinitive means "to need to". La refers back to cita previa and is placed before the infinitive.
+8. "solo se atiende con el número de cita" (sentence 12): the impersonal se with atender, meaning that the person is served only with the number. The English "we only deal with" is the closest natural match.
+9. "Eso es, señor" (sentence 14): eso es is the phrase for "exactly" or "that is it", used to agree with what has just been said.
+10. "Pues vaya círculo" (sentence 15): vaya plus a noun is an exclamation of annoyance, and pues opens the reply.
+11. "Que quiere pedir cita" (sentence 18): the clerk tells him what to say, and the sentence is a reported instruction with the verb in the present.
+12. "el código de la cita sale de la cita" (sentence 20): salir de means to come from, so the code comes out of the appointment. The English "comes from the appointment" keeps the verb and its preposition.
+13. "Espere, que lo miro" (sentence 30): espere is the usted imperative, and que introduces a reason for the request.
+14. "Son las diez y cinco" (sentence 35): the time is given with son, plural for any hour except one, and y cinco for five past.
+15. "llega usted a tiempo" (sentence 36): llegar a tiempo means to arrive in time, and it is the opposite of llegar tarde.
+16. "Para pedir cita" (sentence 38): para with an infinitive gives the purpose of the appointment, and the answer is short because the purpose is the whole point.
+17. "Desde octubre, señor" (sentence 40): desde with a month means since that month, and the form is used for an action that began in the past and is still in effect.
+18. "Siguiente" (last line): the word is the one an office shouts to call the next person in a queue, and it is the last word of the sketch.
+
+ex1:
+- Llevo una hora en la cola, y la ventanilla sigue cerrada sin ningún motivo.
+  en: I have been in the queue for an hour, and the counter is still shut for no reason at all.
+- Si quiere una cita, tiene que pedirla con antelación, y no cuando ya está en la puerta.
+  en: If you want an appointment, you have to ask for it in advance, and not when you are already at the door.
+- Mi padre dice que en su época bastaba con llegar temprano y esperar sentado.
+  en: My father says that in his day it was enough to arrive early and wait sitting down.
+- Cuando el funcionario me dijo que volviera, ya era la hora de comer, y no quedaba nadie.
+  en: When the clerk told me to come back, it was already lunchtime and nobody was left.
+- Me consta que la cita existe, pero nadie sabe dónde está el papel que la confirma.
+  en: I am sure the appointment exists, but nobody knows where the paper that confirms it is.
+
+ex2:
+- Me [dan] cita para el jueves.
+  en: They gave me an appointment for Thursday.
+- Llegué [a tiempo] a la ventanilla.
+  en: I reached the counter in time.
+- Llevo [una hora] esperando en la cola.
+  en: I have been waiting in the queue for an hour.
+- No [olvide] traer el papel, señora.
+  en: Do not forget to bring the paper, madam.
+- Se me [olvidó] el número.
+  en: I forgot the number.
+
+tasks:
+- Consuelo: Buenos días, traigo cita para lo del bizcocho. / Rocío: ¿Y qué cita es esa, señora? / Consuelo: La que pedí en septiembre, para hoy a las doce. / Rocío: Aquí pone que pidió usted cita para llevar un bizcocho. / Consuelo: Pues el bizcocho ya lo he traído. / Rocío: Entonces la cita ya no hace falta, señora, que el bizcocho no tiene número. / Consuelo: ¿Y qué hago con él? / Rocío: Pues entonces no es una cita, es una merienda.
+  task.en: Write the next scene of the sketch: a different customer with a different errand, the same clerk, a new turn that follows from the rules of the counter, and a last line that is not the old punchline. Keep usted throughout, and answer each line to the one before.
+  rubric.en: meaning: the rules of the counter stay the same, and the new turn follows from them; register: usted in a public office, with the clerk brief and the customer polite; structure: two voices, alternating, and a last line that ends the scene; idiom: hace falta, pedir cita and no es una cita are used in their normal senses; effect: the reader sees the loop again, and the ending is a small surprise.
+
+== 61 C2
+numeral: Lección sesenta y una
+title: Greguerías
+title.en: Greguerías
+
+dialogue:
+- Ramón Gómez de la Serna nació en Madrid en 1888 y murió en Buenos Aires en 1963.
+  en: Ramón Gómez de la Serna was born in Madrid in 1888 and died in Buenos Aires in 1963.
+- Inventó una forma breve y propia, a la que llamó greguería.
+  en: He invented a short and personal form, which he called greguería.
+- Según él, la greguería es humor más metáfora, y en esa frase cabe casi todo.
+  en: According to him, the greguería is humour plus metaphor, and almost everything fits into that.
+- Yo llevo una semana intentando escribir una, y todavía no sé si la metáfora me hace reír o me avergüenza.
+  en: I have spent a week trying to write one, and I still do not know whether the metaphor makes me laugh or embarrasses me.
+- El lunes escribí: «El tren es una lombriz con prisa».
+  en: On Monday I wrote: "The train is a worm in a hurry."
+- El martes lo borré, porque la lombriz ya la había usado alguien mucho mejor que yo.
+  en: On Tuesday I deleted it, because someone much better than me had already used the worm.
+- El miércoles probé con el paraguas: «El paraguas es una casa que se cierra cuando llueve».
+  en: On Wednesday I tried the umbrella: "The umbrella is a house that shuts when it rains."
+- Me pareció bonita, pero no me hizo gracia, y la greguería necesita las dos cosas.
+  en: I found it pretty, but it did not make me laugh, and the greguería needs both.
+- El jueves no escribí nada.
+  en: On Thursday I wrote nothing.
+- El viernes escribí demasiado: diez greguerías, nueve malas y una sobre las gotas de lluvia.
+  en: On Friday I wrote too much: ten greguerías, nine of them bad and one about raindrops.
+- Lo que más me cuesta no es la metáfora, sino el giro, esa última palabra que tiene que caer sin que nadie la espere.
+  en: What costs me most is not the metaphor but the twist, that last word which has to land without anyone expecting it.
+- Un giro es lo que el lector no ve venir, pero tiene que parecer inevitable cuando llega.
+  en: A twist is what the reader does not see coming, but it has to seem inevitable when it arrives.
+- Un giro mal puesto es un chiste, y una metáfora sin giro es una felicitación de cumpleaños.
+  en: A twist put in the wrong place is a joke, and a metaphor without a twist is a birthday card.
+- Gómez de la Serna tenía a su favor la costumbre de mirar las cosas como si nunca las hubiera visto.
+  en: Gómez de la Serna had on his side the habit of looking at things as if he had never seen them.
+- Hizo greguerías sobre casi todo: el café, las estatuas, el reloj de pared, la noche.
+  en: He wrote greguerías about almost everything: coffee, statues, the wall clock, the night.
+- Esa es la clave, creo: mirar un objeto cotidiano como si viniera de otro planeta, y decir lo que se ve.
+  en: That is the key, I think: to look at an everyday object as if it came from another planet, and say what you see.
+- El sábado salí a la calle con una libreta y empecé a mirar a la gente.
+  en: On Saturday I went out into the street with a notebook and began to watch people.
+- Un señor hablaba solo con la farola, y escribí: «Habla con la farola: es el único que le escucha».
+  en: A man was talking to the street lamp on his own, and I wrote: "He talks to the lamp: it is the only one who listens to him."
+- El domingo lo leí en casa, y nadie se rió.
+  en: On Sunday I read it out at home, and nobody laughed.
+- Mi mujer dijo que era una mezcla de cursi y de broma.
+  en: My wife said it was a mixture of sentimental and joke.
+- Entonces mi hija de ocho años, Lucía, que pintaba en el suelo, levantó la cabeza.
+  en: Then my eight-year-old daughter, Lucía, who was painting on the floor, looked up.
+- Dijo: «Papá, las nubes son el cielo tendiendo la ropa».
+  en: She said: "Daddy, the clouds are the sky hanging out the washing."
+- Nadie dijo nada durante un rato, y yo pensé que era la mejor frase que había oído en años.
+  en: Nobody said anything for a while, and I thought it was the best sentence I had heard in years.
+- La copié en la libreta, con su nombre al lado.
+  en: I copied it into my notebook, with her name beside it.
+- Es una frase sencilla, sin metáfora difícil, y eso me molesta un poco.
+  en: It is a simple sentence, with no difficult metaphor, and that annoys me a little.
+- Esta semana no he conseguido escribir ninguna buena.
+  en: This week I have not managed to write a single good one.
+- La mejor greguería de la semana no la escribí yo: la dijo mi hija, que tiene ocho años.
+  en: The best greguería of the week was not written by me: my daughter said it, and she is eight.
+
+notes.en:
+1. "Ramón Gómez de la Serna" (sentence 1): a Spanish writer of the twentieth century, named with both surnames as they are written. The dates in the sentence are his years of birth and death.
+2. "a la que llamó greguería" (sentence 2): llamar takes a with its object, so the relative pronoun is a la que, and greguería is the name he gave to the form.
+3. "Según él" (sentence 3): según with a pronoun means "according to him", and it introduces his own definition in his own terms.
+4. "humor más metáfora" (sentence 3): the definition is two nouns joined by más, and the English "humour plus metaphor" keeps the same pattern.
+5. "me hace reír o me avergüenza" (sentence 4): hacer reír takes the object pronoun me before the verb, and the o sets the two outcomes against each other.
+6. "El tren es una lombriz con prisa" (sentence 5): the metaphor is a noun phrase with ser, with the train as the subject and the worm as what it is taken to be.
+7. "la lombriz ya la había usado" (sentence 6): the pluperfect for an action before the Tuesday of the column, and la refers back to lombriz, which is feminine.
+8. "Me pareció bonita" (sentence 8): the adjective agrees with the thing described, here the metaphor as a feminine noun. Parecer with an adjective is the normal way to give a judgement.
+9. "no me hizo gracia" (sentence 8): hacer gracia means to amuse, so the English "it did not make me laugh" is the literal equivalent.
+10. "Lo que más me cuesta" (sentence 11): lo que plus a verb is "what", and me cuesta means "it costs me" or "it is hard for me".
+11. "un giro mal puesto" (sentence 13): puesto is the past participle of poner, used as an adjective meaning "placed". The sentence is about placing, and the English "in the wrong place" keeps that sense.
+12. "felicitación de cumpleaños" (sentence 13): a greeting card for a birthday, the kind a Spanish family sends with a short line of good wishes.
+13. "como si nunca las hubiera visto" (sentence 14): como si with the imperfect subjunctive means "as if", and the pluperfect subjunctive shows that the seeing never happened.
+14. "Hizo greguerías sobre casi todo" (sentence 15): hacer is used in the sense of to produce or to write, and the list shows the range of his subjects.
+15. "mirar un objeto cotidiano" (sentence 16): mirar with a direct object means to look at and pay attention to, not merely to see.
+16. "la farola" (sentence 18): the street lamp, a word used in Spain for the lamp on a post. The English "street lamp" is the nearest match.
+17. "Papá" (sentence 22): the way a child addresses a father, written with an accent on the last syllable. The English "Daddy" keeps the affection.
+18. "tendiendo la ropa" (sentence 22): tender la ropa means to hang the washing out to dry, and the word tender is the one used for a clothes line in Spain.
+
+ex1:
+- Escribir una greguería exige ver algo que los demás pasan por alto.
+  en: Writing a greguería requires seeing something that other people overlook.
+- Si la metáfora es demasiado obvia, el lector se aburre antes del giro.
+  en: If the metaphor is too obvious, the reader gets bored before the twist.
+- Mi abuelo decía que las nubes eran algodón sucio, y nadie le hacía caso.
+  en: My grandfather used to say that clouds were dirty cotton, and nobody paid any attention to him.
+- La frase es breve, pero cada palabra tiene que estar donde debe.
+  en: The sentence is short, but every word has to be where it belongs.
+- Lo que a ti te parece una tontería puede ser la mejor idea de la mañana.
+  en: What seems silly to you may be the best idea of the morning.
+
+ex2:
+- Me [cuesta] escribir de noche.
+  en: It is hard for me to write at night.
+- Tomé [nota] de todo lo que vi.
+  en: I took a note of everything I saw.
+- Esa imagen da en el [clavo].
+  en: That image hits the nail on the head.
+- Nadie [pasó] por alto el chiste.
+  en: Nobody overlooked the joke.
+- Lo leí en [voz] alta.
+  en: I read it aloud.
+
+tasks:
+- El semáforo es un guardia que se viste de colores para no tener que hablar. La lluvia es el cielo que se ducha sin avisar. Los calcetines son el único matrimonio que se separa en la lavadora.
+  task.en: Write three greguerías in Spanish: each one a single sentence with a metaphor and a twist in its last words, about an everyday object of your choice. Do not explain them.
+  rubric.en: meaning: each greguería has one image and one twist, and the images are not explained; register: a short literary sentence, in the present tense; structure: three numbered sentences, each complete on its own; idiom: tener que hablar, sin avisar and separarse are used in their normal senses; effect: the reader smiles at the twist of each one, and it is not the same twist three times.
+
+== 62 C2
+numeral: Lección sesenta y dos
+title: El Ayuntamiento crea una comisión para estudiar la creación de comisiones
+title.en: The council sets up a committee to study the setting up of committees
+
+dialogue:
+- El pleno del Ayuntamiento de Villamarco del Pleno aprobó ayer, por unanimidad, la creación de una comisión especial para estudiar la creación de comisiones.
+  en: The plenary session of the Villamarco del Pleno council approved yesterday, unanimously, the setting up of a special committee to study the setting up of committees.
+- La propuesta, presentada por el equipo de gobierno, fue defendida por el alcalde, Anselmo Berrocal, en un discurso de cuarenta minutos.
+  en: The proposal, put forward by the governing group, was defended by the mayor, Anselmo Berrocal, in a speech of forty minutes.
+- «Necesitamos una comisión que nos diga cómo se crean las comisiones», explicó el alcalde a los periodistas.
+  en: "We need a committee that tells us how committees are set up," the mayor explained to the journalists.
+- El acuerdo salió adelante con los votos del equipo de gobierno y la abstención de la oposición, que pidió tiempo para estudiar la propuesta.
+  en: The agreement went through with the votes of the governing group and the abstention of the opposition, which asked for time to study the proposal.
+- La oposición preguntó quién formaría parte de la comisión, y el secretario respondió que lo decidirá la propia comisión.
+  en: The opposition asked who would be part of the committee, and the secretary replied that the committee itself will decide.
+- El texto establece que la comisión estará formada por tres concejales, un técnico y un observador, sin fecha de disolución.
+  en: The text establishes that the committee will be made up of three councillors, one technician and one observer, with no date of dissolution.
+- Según el acuerdo, la comisión deberá presentar un informe en un plazo de noventa días, prorrogables por otros noventa.
+  en: According to the agreement, the committee must present a report within ninety days, extendable by another ninety.
+- Ese informe deberá proponer un procedimiento para crear comisiones, que será estudiado por una subcomisión.
+  en: That report must propose a procedure for setting up committees, which will be studied by a sub-committee.
+- Hay antecedentes: en la legislatura anterior se creó una comisión para estudiar las consultas a los vecinos, y todavía no ha celebrado su primera reunión.
+  en: There is a precedent: in the previous term a committee was set up to study consultations with residents, and it has still not held its first meeting.
+- El portavoz de la oposición, Teodoro Quesada, calificó la medida de «encomiable y repetida».
+  en: The opposition spokesman, Teodoro Quesada, described the measure as "praiseworthy and repeated."
+- «Hemos creado una comisión para estudiar comisiones, y no hay ninguna para estudiar las aceras», afirmó.
+  en: "We have set up a committee to study committees, and there is none to study the pavements," he declared.
+- El alcalde respondió que las aceras serán estudiadas por una comisión que se creará en cuanto se apruebe el procedimiento.
+  en: The mayor replied that the pavements will be studied by a committee that will be set up as soon as the procedure is approved.
+- La concejala de Hacienda, Marta Olmedo, señaló que la primera fase de la comisión costará cero euros, porque sus reuniones se celebrarán en el propio Ayuntamiento.
+  en: The councillor for finance, Marta Olmedo, pointed out that the first phase of the committee will cost zero euros, because its meetings will be held in the council building itself.
+- Preguntada por el coste de la segunda fase, explicó que dependerá de la comisión de costes, que todavía no existe.
+  en: Asked about the cost of the second phase, she explained that it will depend on the costs committee, which does not yet exist.
+- La oposición presentó una enmienda para crear una comisión que estudie la enmienda.
+  en: The opposition tabled an amendment to set up a committee to study the amendment.
+- La enmienda fue rechazada por nueve votos en contra y dos a favor.
+  en: The amendment was rejected by nine votes against and two in favour.
+- El primer encuentro de la comisión está previsto para el mes que viene, y se fijará en el orden del día de la propia comisión.
+  en: The committee's first meeting is planned for next month, and it will be fixed on the agenda of the committee itself.
+- Su primer punto será decidir quién la preside, y en caso de empate se creará una subcomisión.
+  en: Its first item will be to decide who chairs it, and in case of a tie a sub-committee will be set up.
+- Un vecino que asistía al pleno preguntó al secretario cuál era el objetivo final de todo aquello.
+  en: A resident who was attending the session asked the secretary what the final aim of all this was.
+- El secretario contestó que el objetivo es tener, en el futuro, una comisión que decida qué comisiones necesita el Ayuntamiento.
+  en: The secretary replied that the aim is to have, in the future, a committee that decides which committees the council needs.
+- El vecino pidió una copia del acuerdo, que le fue entregada en tres ejemplares, con un informe sobre la forma de copiarlo.
+  en: The resident asked for a copy of the agreement, which was handed to him in three copies, with a report on how to copy it.
+- El acuerdo entrará en vigor al día siguiente de su publicación en el boletín oficial, que fijará la comisión.
+  en: The agreement will come into force the day after its publication in the official bulletin, which the committee will set.
+- El acuerdo también prevé que la comisión tenga una página web, que se actualizará cuando haya algo que publicar.
+  en: The agreement also provides that the committee will have a website, which will be updated when there is something to publish.
+- Hasta entonces, los vecinos pueden consultar el acta de la sesión, que no incluye ninguna decisión.
+  en: Until then, residents may consult the minutes of the session, which include no decision at all.
+- La comisión se reunirá por primera vez en cuanto se haya creado la comisión que fije la fecha de su primera reunión.
+  en: The committee will meet for the first time as soon as the committee that sets the date of its first meeting has been created.
+
+notes.en:
+1. "El pleno del Ayuntamiento" (sentence 1): the plenary session, the full meeting of the councillors of a town. Ayuntamiento is the Spanish word for the council, both the body and the building.
+2. "por unanimidad" (sentence 1): the adverb-like phrase means that all the votes were in favour, and the English "unanimously" is its match.
+3. "la creación de una comisión especial" (sentence 1): creación is a noun of action, and comisión is a body of councillors that studies a matter. The same word is used for a committee of the council and for a committee in Parliament.
+4. "el equipo de gobierno" (sentence 2): the group of councillors that governs the council. The others form the opposition, la oposición.
+5. "«Necesitamos una comisión ...», explicó" (sentence 3): quoted speech in « », introduced by the reporting verb explicó in the past, as in news writing.
+6. "salió adelante" (sentence 4): salir adelante means to go through, to be approved. Con los votos is the usual form for naming who voted for a measure.
+7. "la abstención de la oposición" (sentence 4): abstention, not voting against; the opposition neither supports nor opposes.
+8. "estará formada por tres concejales" (sentence 6): formada agrees with the feminine comisión. Concejal is the word for a councillor, one of the members of the council.
+9. "prorrogables por otros noventa" (sentence 7): a period that can be extended, with the adjective in the plural to agree with plazo.
+10. "subcomisión" (sentence 8): the prefix sub- for a smaller body under a committee, as in the English sub-committee.
+11. "en la legislatura anterior" (sentence 9): a legislatura is the term of office of a council, from one election to the next, and anterior means the one before.
+12. "«encomiable y repetida»" (sentence 10): encomiable means worthy of praise, and repetida is the past participle used as an adjective, meaning done again. The two adjectives are given in the quotation.
+13. "no hay ninguna para estudiar las aceras" (sentence 11): ninguna is the feminine of ningún, used because it refers to comisión, and the aceras are the pavements.
+14. "cero euros" (sentence 13): the number zero is followed by the currency in the plural, as usual.
+15. "Preguntada por el coste" (sentence 14): a past participle used at the start of a sentence as a clause meaning "when she was asked", with the participle agreeing with the speaker.
+16. "una enmienda para crear una comisión que estudie la enmienda" (sentence 15): enmienda is an amendment to a proposal, and estudie is the subjunctive after a purpose clause with que.
+17. "por nueve votos en contra y dos a favor" (sentence 16): the vote is given with por and the number of votes, first against and then in favour.
+18. "entrará en vigor" (sentence 22): entrar en vigor means to come into force, the usual phrase for a law or agreement that starts to apply.
+
+ex1:
+- El concejal de Urbanismo reconoció que el proyecto llega con retraso, aunque defendió su necesidad.
+  en: The councillor for planning admitted that the project is late, although he defended its need.
+- Según el informe, la obra costará más de lo previsto, y el plazo se ha ampliado por segunda vez.
+  en: According to the report, the work will cost more than planned, and the deadline has been extended for a second time.
+- La portavoz de la oposición pidió que el debate se trasladara al pleno de la semana próxima.
+  en: The opposition spokeswoman asked for the debate to be moved to the plenary session of next week.
+- Los vecinos aprobaron el acuerdo a mano alzada, sin que nadie leyera el texto completo.
+  en: The residents approved the agreement by show of hands, without anyone reading the full text.
+- Quien quiera consultar el expediente deberá pedir cita en la oficina de atención al ciudadano.
+  en: Anyone who wants to consult the file will have to make an appointment at the citizens' advice office.
+
+ex2:
+- El acuerdo [entra] en vigor mañana.
+  en: The agreement comes into force tomorrow.
+- El Ayuntamiento ha puesto en [marcha] el plan.
+  en: The council has set the plan in motion.
+- Lo aprobó por [mayoría] absoluta.
+  en: He approved it by an absolute majority.
+- Ni [siquiera] lo leyeron.
+  en: They did not even read it.
+- La oposición presentó una [enmienda].
+  en: The opposition tabled an amendment.
+
+tasks:
+- Desde el Ayuntamiento queremos agradecer el trabajo de la comisión especial, que ya ha celebrado su primera reunión para fijar la fecha de la segunda. Nadie duda de la utilidad de estudiar las comisiones, y por eso propondremos una subcomisión que estudie el calendario. Lamentamos que la oposición piense que la medida es repetitiva: la repetición es la mejor manera de asegurarnos de que las cosas se hacen bien. Gracias a todos, y nos vemos en la próxima comisión.
+  task.en: Write the mayor's press statement on the new committee, in Spanish, about 100 words, in the formal register of a council communiqué, answering the opposition's remark that the measure is repetitive. Write it as one statement, in the first person plural.
+  rubric.en: meaning: the committee, its first meeting, the sub-committee for the calendar and the reply to the remark about repetition all stay, with nothing added that the council has not decided; register: formal official statement, with we and the council as subject; structure: thanks, the facts, the answer to the opposition, the closing; idiom: celebrar una reunión, fijar la fecha and nos vemos are used in their normal senses; effect: the statement sounds serious and the reader sees the absurdity without a comment from the writer.
+
+== 63 C2
+kind: revision
+numeral: Lección sesenta y tres
+title: Revisión y notas
+title.en: Revision and notes
+
+dialogue:
+- Germán: Siéntate, Sophie, que el bar cierra a la una y todavía me falta la última página.
+  en: en: Sit down, Sophie, the bar shuts at one and I still have the last page to do.
+  refs: 61
+- Sophie: Vale, pero léeme la libreta en voz alta, que no entiendo ni la mitad de tus chistes.
+  en: en: Fine, but read me the notebook out loud, because I understand half of your jokes at most.
+  refs: 57
+- Germán: Empiezo por la nevera: el cuadrante lo firmamos sin leerlo, como quien firma un contrato con la nevera.
+  en: en: I start with the fridge: we signed the rota without reading it, like people signing a contract with the fridge.
+  refs: 57
+- Sophie: Eso ya lo entiendo, pero ¿por qué no lo leéis nunca?
+  en: en: I understand that part, but why do you never read it?
+  refs: 57
+- Germán: Porque en un piso compartido nadie quiere leer lo que firma, y el secreto está en los miércoles.
+  en: en: Because in a shared flat nobody wants to read what they sign, and the secret is in Wednesdays.
+  refs: 57
+- Sophie: Vale. ¿Y el examen? Lo tienes apuntado en la página dos.
+  en: en: Right. And the test? You have it noted on page two.
+  refs: 58
+- Germán: Pregunta 1: ¿a qué hora se cena en España? La respuesta correcta es la b, la del resto del mundo que se acuesta.
+  en: en: Question 1: what time is dinner eaten in Spain? The correct answer is b, the one about the rest of the world going to bed.
+  refs: 58
+- Sophie: Pues yo marqué la a, que en Inglaterra cenamos a las seis.
+  en: en: Well, I ticked a, because in England we have dinner at six.
+  refs: 58
+- Germán: Entonces suspendes, y en la pregunta tres te quedas en la cola.
+  en: en: Then you fail, and on question three you stay in the queue.
+  refs: 58
+- Sophie: ¿Y en la tres qué marco?
+  en: en: And on three, what do I tick?
+  refs: 58
+- Germán: La c: el que contesta «yo» pasa a ser la referencia de la cola.
+  en: en: C: whoever answers "me" becomes the point of reference for the queue.
+  refs: 58
+- Sophie: Vale. Y la canción, ¿quién es Pilar?
+  en: en: Right. And the song, who is Pilar?
+  refs: 59
+- Germán: Pilar es la presidenta de la comunidad: sube la cuota, sube al tercero, y el ascensor sigue roto.
+  en: en: Pilar is the president of the residents' association: she raises the fee, she climbs to the third floor, and the lift is still broken.
+  refs: 59
+- Sophie: ¿Y el juego de palabras?
+  en: en: And the pun?
+  refs: 59
+- Germán: Sube, sube, sin cesar, y al final el estribillo dice lo contrario que el ascensor.
+  en: en: Up, up, without a pause, and at the end the chorus says the opposite of what the lift does.
+  refs: 59
+- Sophie: Me gusta más la cita previa, la de Rocío.
+  en: en: I like the prior appointment better, the one with Rocío.
+  refs: 60
+- Germán: Pues Rocío me dijo que para pedir cita hacía falta cita, y que la cola no pedía nada.
+  en: en: Well, Rocío told me that to ask for an appointment you needed an appointment, and that the queue asked for nothing.
+  refs: 60
+- Sophie: ¿Y al final?
+  en: en: And in the end?
+  refs: 60
+- Germán: Al final resultó que la cita ya la tenía, desde octubre, y yo sin enterarme.
+  en: en: In the end it turned out I already had one, since October, and I had not noticed.
+  refs: 60
+- Sophie: ¿Y la página de las greguerías?
+  en: en: And the greguería page?
+  refs: 61
+- Germán: La copio, la de la niña del periódico: «Papá, las nubes son el cielo tendiendo la ropa».
+  en: en: I copy it, the one from the girl in the newspaper: "Daddy, the clouds are the sky hanging out the washing."
+  refs: 61
+- Sophie: Esa sí que la entiendo, y además es corta.
+  en: en: That one I understand, and it is short too.
+  refs: 61
+- Germán: Y la última página es de la comisión, que me ha llegado hoy por carta.
+  en: en: And the last page is about the committee, which came to me by letter today.
+  refs: 62
+- Sophie: ¿Qué comisión? ¿La de las aceras?
+  en: en: Which committee? The one for the pavements?
+  refs: 62
+- Germán: La que estudia las comisiones. La sala de mañana es municipal, y la cesión queda pendiente de esa comisión.
+  en: en: The one that studies committees. Tomorrow's hall belongs to the council, and the booking is pending on that committee.
+  refs: 62
+- Sophie: Entonces, ¿hay función?
+  en: en: So is there a show?
+  refs: 62
+- Germán: Hay comisión. Y la función, si acaso, la estudiará la comisión de la semana que viene.
+  en: en: There is a committee. And the show, if at all, will be studied by the committee of next week.
+  refs: 62
+
+notes.en:
+This week's texts are lessons 57 to 62. Each section names its lesson and quotes its lines as they stand there, so the learner can find them.
+1. Timing and the build-up (lesson 57): the routine goes from small details to the last line, and each detail prepares the one after it.
+| Form | What it does | Line from lesson 57 |
+|---|---|---|
+| the list of small facts | the fridge, the rota and the sponge cake set up the ordinary life | A los veinte, la nevera tenía una cerveza, un bote de mostaza y un cartel que decía: «Prohibido tocar mi yogur». |
+| the days of the week | three days make the pattern, and the joke sits in the middle one | Los miércoles no friega nadie, y ahí está el secreto de la convivencia. |
+| the imperfect and the present | the past of the fridge against its present | Hoy tiene un cuadrante de limpieza. |
+2. Parody and the mock test (lesson 58): an official form is copied with its own tone, and each question is a small joke with three answers.
+| Form | What it does | Line from lesson 58 |
+|---|---|---|
+| the usted instruction | the exam speaks as an official does | Lea cada pregunta y marque una sola respuesta. |
+| the answer that is a scene | the answer is a little story with a set-up | Candidato: Me echo la siesta, que es lo que hacen todos en España. |
+| the bureaucratic close | the result comes after a time that cannot be fixed | Examinador: En el plazo de dos años, o de dos años y medio, según la cola. |
+3. Comic verse (lesson 59): a song is built on the verb, the costume and the chorus, and each stanza keeps the same metre.
+| Form | What it does | Line from lesson 59 |
+|---|---|---|
+| the pun on the verb | one verb with two meanings | sube con pena al tercero |
+| the chorus | the line the audience takes away | ¡Pero el ascensor no sube! |
+| the costume | the visual part of the joke | Va vestida de escalera, |
+4. Absurd dialogue (lesson 60): a rule is followed to the letter until it produces its own result.
+| Form | What it does | Line from lesson 60 |
+|---|---|---|
+| the circle of rules | each rule needs the one that cannot be met | Pues vaya círculo. |
+| the clerk's reply | a flat answer that closes the loop | Desde octubre, señor. Pues ya la tiene. Siguiente. |
+5. Wordplay and the comic image (lesson 61): a metaphor with a short turn at the end.
+| Form | What it does | Line from lesson 61 |
+|---|---|---|
+| the metaphor with a turn | an image and a last word that lands | El lunes escribí: «El tren es una lombriz con prisa». |
+| the child's image | a plain picture from a plain child | Dijo: «Papá, las nubes son el cielo tendiendo la ropa». |
+6. Satire in news register (lesson 62): the form of a report carries an absurd plan with no comment added.
+| Form | What it does | Line from lesson 62 |
+|---|---|---|
+| the quoted adjective | a word from the opposition, kept as spoken | El portavoz de la oposición, Teodoro Quesada, calificó la medida de «encomiable y repetida». |
+| the last line as a plain fact | the committee meets when a committee is set up | La comisión se reunirá por primera vez en cuanto se haya creado la comisión que fije la fecha de su primera reunión. |
+
+tasks:
+- En mi libreta hay un chiste de tres pasos: un ascensor roto, una presidenta que sube la cuota y un estribillo que dice lo contrario de lo que pasa. Mi amiga inglesa no lo entiende a la primera, así que se lo explico: el verbo subir quiere decir aumentar una cuota y también subir por las escaleras, y en la canción aparece en las dos formas. Cuando lo entiende, se ríe, y ya no le hace falta que se lo explique otra vez.
+  task.en: Explain in Spanish one joke from this week to an English friend, about 90 words, so that the joke still works once it is explained. Choose one joke from lessons 57 to 62 and keep the lines of the lesson exact when you quote them.
+  rubric.en: meaning: the joke, the verb and the chorus are explained in the right order, and the English friend understands the two senses of the verb; register: a friendly explanation between two people, with tú to the friend; structure: the set-up, the double sense, the reaction, the close; idiom: subir la cuota, subir por la escalera and dicen lo contrario are used in their normal senses; effect: the friend laughs, and the reader sees that the explanation did not kill the joke.

@@ -417,3 +417,9 @@ settle; anything in the plan you think is wrong (quote it, do not change it).
   por que (two words) follows a verb with por (se esfuerza por que...),
   never insistir, which takes en que.
 - One speaker never repeats the other's last sentence as an answer.
+
+## Rules added after week 10 (Spanish)
+
+- A verse line must be grammatical before it is metrical: read each
+  sentence of a poem as prose first ("un pastor ... y ve el trigo" has no
+  verb for its subject).

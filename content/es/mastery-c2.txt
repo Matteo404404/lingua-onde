@@ -4272,3 +4272,811 @@ tasks:
 - En mi libreta hay un chiste de tres pasos: un ascensor roto, una presidenta que sube la cuota y un estribillo que dice lo contrario de lo que pasa. Mi amiga inglesa no lo entiende a la primera, así que se lo explico: el verbo subir quiere decir aumentar una cuota y también subir por las escaleras, y en la canción aparece en las dos formas. Cuando lo entiende, se ríe, y ya no le hace falta que se lo explique otra vez.
   task.en: Explain in Spanish one joke from this week to an English friend, about 90 words, so that the joke still works once it is explained. Choose one joke from lessons 57 to 62 and keep the lines of the lesson exact when you quote them.
   rubric.en: meaning: the joke, the verb and the chorus are explained in the right order, and the English friend understands the two senses of the verb; register: a friendly explanation between two people, with tú to the friend; structure: the set-up, the double sense, the reaction, the close; idiom: subir la cuota, subir por la escalera and dicen lo contrario are used in their normal senses; effect: the friend laughs, and the reader sees that the explanation did not kill the joke.
+
+== 64 C2
+numeral: Lección sesenta y cuatro
+title: Cielo de Castilla
+title.en: Castilian sky
+
+dialogue:
+- El cielo de la meseta
+  en: The sky over the meseta
+- es un mar de luz callada,
+  en: is a sea of still light,
+- tan ancho que el ojo busca
+  en: so wide that the eye looks for
+- un árbol, y ni una rama.
+  en: a tree, and not a single branch.
+- Por la tarde sopla un viento
+  en: In the afternoon a wind blows
+- que pasa sin tocar nada.
+  en: that passes without touching anything.
+- Un pastor con el cayado
+  en: A shepherd with his crook
+- mira el trigo sin guadaña.
+  en: looks at the wheat with no scythe.
+- Del norte viene una nube
+  en: A cloud comes from the north
+- y llega ya muy cansada,
+  en: and arrives already very tired,
+- que no sabe si hay tormenta
+  en: not knowing whether there will be a storm
+- y se borra en la mañana.
+  en: and fades away in the morning.
+- Escribí este romance una tarde de agosto, sentado en un banco de un pueblo de la meseta, con el cielo encima y nadie alrededor.
+  en: I wrote this romance one August afternoon, sitting on a bench in a village on the meseta, with the sky overhead and nobody around.
+- Lo hice en octosílabos, porque es el verso que el romance ha usado siempre, y porque quería que el ritmo fuera tan lento como la tarde.
+  en: I used octosyllables, because that is the line the romance has always used, and because I wanted the rhythm to be as slow as the afternoon.
+- Los versos pares tienen asonancia y no rima completa: solo cuentan la vocal tónica y la última vocal, y aquí las dos son a.
+  en: The even lines have assonance and not a full rhyme: only the stressed vowel and the last vowel count, and here both are a.
+- Por eso callada, rama, nada, guadaña, cansada y mañana suenan parecidas, aunque sus consonantes no siempre coinciden.
+  en: That is why callada, rama, nada, guadaña, cansada and mañana sound alike, although their consonants do not always match.
+- Los versos impares se quedan libres, sin rima, como en el romance de la tradición, y eso les da un aire de conversación.
+  en: The odd lines are left free, without rhyme, as in the traditional romance, and that gives them the air of talk.
+- Conté las sílabas una a una, y en la primera versión tenía un verso de nueve que cojeaba.
+  en: I counted the syllables one by one, and in the first version I had a line of nine that limped.
+- Lo arreglé quitando una palabra, y el verso volvió a ocho, como debía ser.
+  en: I fixed it by taking out one word, and the line went back to eight, as it should be.
+- Lo que más me costó fue el final, porque no quería que la nube trajera tormenta ni que la tarde acabara mal.
+  en: The ending cost me most, because I did not want the cloud to bring a storm, nor the afternoon to end badly.
+- Al final la nube se borra en la mañana, y eso pasa más de una vez en la meseta, aunque los labradores no siempre lo agradecen.
+  en: In the end the cloud fades in the morning, and that happens more than once on the meseta, although the farmers do not always thank it.
+- Antonio Machado escribió sobre esos paisajes en Campos de Castilla, y yo lo leí antes de empezar.
+  en: Antonio Machado wrote about these landscapes in Campos de Castilla, and I read it before I started.
+- Lo llamo «Cielo de Castilla», porque es lo único que hay.
+  en: I call it "Castilian sky", because it is the only thing there is.
+- Ahora lo dejo para que alguien lo lea en voz alta, y que haga la pausa al final de cada verso par, que es donde se oye la asonancia.
+  en: Now I leave it for someone to read aloud, pausing at the end of each even line, which is where the assonance can be heard.
+- Quien lo cuente con los dedos verá que son doce versos y que ninguno pasa de ocho sílabas.
+  en: Anyone who counts it on their fingers will see that there are twelve lines and that none goes over eight syllables.
+- Y si alguien pregunta por la sinalefa, le digo que es la unión de dos vocales vecinas, que cuentan como una sola.
+  en: And if someone asks about the sinalefa, I tell them it is the joining of two neighbouring vowels, which count as one.
+- El verso «Un pastor con el cayado» no necesita ninguna unión, porque cayado es palabra llana y el verso cuenta ocho tal como está.
+  en: The line "Un pastor con el cayado" needs no join, because cayado is stressed on the penultimate syllable and the line counts eight as it stands.
+- Espero que quien lo lea sienta el calor de la tarde, aunque el romance no diga ni una vez la palabra calor.
+  en: I hope whoever reads it feels the heat of the afternoon, although the romance does not once say the word heat.
+
+notes.en:
+1. "El cielo de la meseta" (sentence 1): the first line has no verb. The subject waits for es in the next line, which verse allows and prose would not. The meseta is the high central plain of Spain, where the sky seems to reach every side.
+2. "es un mar de luz callada," (sentence 2): the sky is a sea, and its light is still. Callada is the feminine form, agreeing with luz, not with mar; the adjective is the quiet of a sea without wind.
+3. "tan ancho que el ojo busca" (sentence 3): tan ... que gives the result, "so wide that". Buscar is to look for, and its object comes in the next line: the sentence runs over the line end, as in sentences 9 and 10.
+4. "un árbol, y ni una rama." (sentence 4): the eye looks for a tree and finds not even a branch. Ni una rama means "not a single branch", and in the metre the i of ni and the u of una make one syllable, so the line counts eight.
+5. "Por la tarde sopla un viento" (sentence 5): counted one word at a time, the line has nine syllables. In the metre it has eight, because the a of sopla and the u of un make one syllable. This join is the sinalefa, which Perfectionnement taught (Perfectionnement, lesson 34).
+6. "que pasa sin tocar nada." (sentence 6): nada is the object of tocar, and it means anything at all. Sin with an infinitive gives "without doing", so the English "without touching anything" is the plain sense.
+7. The assonance, in sentences 2, 4, 6, 8, 10 and 12: callada, rama, nada, guadaña, cansada and mañana. In each the stressed vowel and the last vowel are a. Assonance is looser than a full rhyme: rama and nada share only the vowels, not their consonants.
+8. "Un pastor con el cayado" (sentence 7): the cayado is the shepherd's crook. The line counts eight without any join, because cayado is stressed on the penultimate syllable. There are no sheep in the poem, only the crook.
+9. "mira el trigo sin guadaña." (sentence 8): mira and el join into one syllable in the metre. The wheat is standing, and the scythe has not come. The detail is the waiting itself, and the English "without a scythe" keeps it.
+10. "Del norte viene una nube / y llega ya muy cansada," (sentences 9 and 10): viene and llega share one subject, una nube, which comes after its verb in the first line. The sentence runs over the line break, so line 9 has no stop and line 10 ends with a comma.
+11. "que no sabe si hay tormenta" (sentence 11): no saber si is an open question, with si and the indicative: the cloud does not know whether a storm will come. The h of hay is silent, so si and hay join as one syllable, as ya se ha dormido does in Perfectionnement (Perfectionnement, lesson 34, note 9).
+12. "y se borra en la mañana." (sentence 12): borrarse means to fade out, from borrar, to rub out. The reflexive form says the cloud goes by itself. Mañana is stressed on the penultimate syllable, so the last line needs no extra syllable.
+13. The last-stress rule: "sube, sube, sin cesar" (lesson 59) ends on cesar, stressed on its last syllable. It has seven syllables and counts eight. A line that ends on an esdrújula, as música does, counts one syllable fewer than it has.
+14. Antonio Machado (Perfectionnement, lesson 59) wrote Campos de Castilla in 1912, a book of poems about the landscape and the towns of Castile. This is the same country and the same kind of sky.
+15. Escribí, lo hice and conté are in the preterite, because the afternoon is over. In Spain the preterite is the usual form for an act that is finished, so the author speaks of his afternoon as past.
+
+ex1:
+- Aunque el romance tenga solo doce versos, cada uno debe medirse dos veces antes de darlo por bueno.
+  en: Even though the romance has only twelve lines, each one must be measured twice before it can be passed as finished.
+- Si el verso acaba en palabra aguda, cuenta una sílaba más, y no hay manera de evitarlo.
+  en: If the line ends on a word stressed on its last syllable, it counts one more, and there is no way round it.
+- El pastor no ve ningún rebaño; solo mira el trigo, que nadie ha venido a segar.
+  en: The shepherd sees no flock; he only looks at the wheat, which nobody has come to cut.
+- Llevo toda la tarde dándole vueltas a la última rima, y todavía no me convence.
+  en: I have been going over the last rhyme all afternoon, and it still does not convince me.
+- Ojalá la tormenta se quede en el norte, porque si llega aquí, el pueblo entero se quedará sin luz.
+  en: I hope the storm stays in the north, because if it reaches here, the whole village will be left without light.
+
+ex2:
+- Se me [olvidó] la última rima.
+  en: I forgot the last rhyme.
+- Ese verso tiene nueve sílabas, así que le [sobra] una.
+  en: That line has nine syllables, so it has one too many.
+- Me [quedé] en blanco a mitad del poema.
+  en: My mind went blank halfway through the poem.
+- A [estas alturas] nadie espera ya la lluvia.
+  en: By now nobody expects the rain any more.
+- El público se quedó [boquiabierto] al final.
+  en: The audience was left open-mouthed at the end.
+
+tasks:
+- Sobre mi pueblo, el verano / pone una luz muy temprana, / el campo sigue tan quieto, / el sol sube por la llana.
+  task.en: Write four octosyllables in Spanish about a sky you know well, one line each, with the even lines in assonance on a and a. Count each line before you hand it in.
+  rubric.en: meaning: the sky is the subject from the first line to the last, and nothing is added about the place; structure: four lines of eight syllables, the second and fourth in assonance; register: poetic but plain, with no slang; idiom: pone una luz and sube por la llana are used in their normal senses; effect: the last line lands on the open plain, as the sun comes up.
+
+== 65 C2
+numeral: Lección sesenta y cinco
+title: ¿Qué es poesía?
+title.en: What is poetry?
+
+dialogue:
+- Un alumno me preguntó una vez qué es poesía, y yo le contesté con otra pregunta, que es lo que suelen hacer los profesores cuando no saben qué decir.
+  en: A student once asked me what poetry is, and I answered with another question, which is what teachers usually do when they do not know what to say.
+- Bécquer ya había dejado la respuesta, o al menos la había preguntado de una forma que todavía nos sirve.
+  en: Bécquer had already left the answer, or at least had asked the question in a way that still serves us.
+- Sus Rimas se publicaron en 1871, ya después de su muerte, y son poemas breves, a veces de cuatro versos, donde cabe una pregunta, un paisaje o una lágrima.
+  en: His Rimas were published in 1871, after his death, and they are short poems, sometimes of four lines, in which there is room for a question, a landscape or a tear.
+- La rima que todo el mundo recuerda empieza preguntando y termina respondiendo en el último verso con una frase muy corta.
+  en: The rhyme everyone remembers begins by asking and ends by answering, in its last line, with a very short phrase.
+- Esa respuesta, «Poesía... eres tú», no define nada, y por eso se queda en la memoria.
+  en: That answer, "Poetry... you are", defines nothing, and that is why it stays in the memory.
+- Lo primero que se oye es el sonido: un ritmo de frases cortas y una pausa antes de la respuesta.
+  en: The first thing one hears is the sound: a rhythm of short phrases and a pause before the answer.
+- Rubén Darío, nacido en 1867 y muerto en 1916, llegó después con otra idea de la forma: el modernismo, un movimiento que buscaba una lengua más musical y más llena de colores.
+  en: Rubén Darío, born in 1867 and dead in 1916, came later with another idea of form: modernismo, a movement that sought a more musical language, fuller of colours.
+- Su libro Azul..., de 1888, es el ejemplo más claro: cuentos y versos que parecen pintados.
+  en: His book Azul..., of 1888, is the clearest example: stories and verses that look painted.
+- El azul del título no es un adorno: es el mundo de un poeta que quiere decir lo que no tiene nombre.
+  en: The blue in the title is not decoration: it is the world of a poet who wants to say what has no name.
+- Pero lo que más se nota es la música. Verlaine lo había dicho antes, en francés, y Darío lo leyó y lo hizo suyo en castellano.
+  en: But what one notices most is the music. Verlaine had said it before, in French, and Darío read it and made it his own in Spanish.
+- Por eso sus versos buscan primero la sílaba que suena bien, y después la idea.
+  en: That is why his lines look first for the syllable that sounds right, and then for the idea.
+- Darío cambió los metros de la tradición: usó el alejandrino, más largo que el verso de ocho o de once sílabas, y ritmos que sonaban nuevos a sus lectores.
+  en: Darío changed the metres of tradition: he used the alexandrine, longer than the eight- or eleven-syllable line, and rhythms that sounded new to his readers.
+- El romance tenía versos de ocho sílabas, y el soneto, catorce versos; Darío los tomó como quien toma prestada una herramienta.
+  en: The romance had eight-syllable lines, and the sonnet fourteen lines; Darío took them as one borrows a tool.
+- ¿Qué es una rima? Es la coincidencia del sonido desde la última vocal tónica hasta el final de los dos versos; la asonancia, en cambio, solo repite las vocales.
+  en: What is a rhyme? It is the matching of sound from the last stressed vowel to the end of the two lines; assonance, by contrast, repeats only the vowels.
+- Lo leí en voz alta muchas veces, y la última palabra cae sin ruido, como una hoja.
+  en: I read it aloud many times, and the last word falls without a sound, like a leaf.
+- La poesía se oye antes de entenderse: el niño que recita no sabe lo que dice, y sin embargo lo siente.
+  en: Poetry is heard before it is understood: the child who recites does not know what he is saying, and yet he feels it.
+- Eso no quiere decir que el sentido no importe.
+  en: That does not mean that the meaning does not matter.
+- Bécquer escribe de cosas pequeñas y cercanas; Darío escribe de jardines y palacios.
+  en: Bécquer writes about small, near things; Darío writes about gardens and palaces.
+- Los dos buscan lo mismo: decir algo que no cabe en la prosa.
+  en: The two of them are looking for the same thing: to say something that does not fit into prose.
+- Y los dos hacen que la lengua suene distinta, aunque uno diga poco y el otro mucho.
+  en: And both make the language sound different, although one says little and the other a great deal.
+- Por eso la pregunta del alumno tiene dos respuestas: la de Bécquer, que cabe en dos palabras, y la de Darío, que llena una página.
+  en: That is why the student's question has two answers: Bécquer's, which fits into two words, and Darío's, which fills a page.
+- Ninguna es completa, y las dos son poesía.
+  en: Neither is complete, and both are poetry.
+- Un buen modo de empezar es leer en voz alta el primer verso de cualquiera de los dos y escuchar qué pasa con las vocales.
+  en: A good way to begin is to read aloud the first line of either of them and listen to what happens to the vowels.
+- Después se pregunta por la idea, y casi nunca es la primera.
+  en: Afterwards one asks about the idea, and it is almost never the first thing.
+- Cuando un alumno me pregunta otra vez, le leo primero el último verso y después le pido que lo lea en voz alta sin entenderlo del todo.
+  en: When a student asks me again, I first read him the last line, and then I ask him to read it aloud without quite understanding it.
+- Casi siempre entiende más de lo que cree.
+  en: Nearly always he understands more than he thinks.
+- Eso es, en el fondo, lo que la poesía pide: una lectura que empiece por el oído y acabe en el sentido.
+  en: That, at bottom, is what poetry asks for: a reading that starts with the ear and ends with the sense.
+
+notes.en:
+1. "me preguntó qué es poesía" (sentence 1): in an indirect question the qué keeps its accent, as the RAE asks. The verb preguntar takes the question without a que before it, so the English "what poetry is" is one clause.
+2. "Sus Rimas se publicaron en 1871, ya después de su muerte" (sentence 3): Gustavo Adolfo Bécquer, from Seville, died in 1870, and his Rimas came out after his death. The title is plural and keeps the capital only on its first word.
+3. "a veces de cuatro versos" (sentence 3): a veces is a hedge. The rimas vary in length, and some are short, so the sentence does not promise that all of them have four lines.
+4. "«Poesía... eres tú»" (sentence 5): the last line of the rima that asks what poetry is, quoted with its ellipsis. The answer is in the second person, eres tú, and it names no quality, so it does not define anything, as the sentence says.
+5. "el modernismo" (sentence 7): a movement of Spanish-language poets from the late 1800s, led by Darío. In English it is a borrowed term, and it does not mean the English modernism of the same years, so keep the Spanish word.
+6. "Azul..., de 1888" (sentence 8): the title with its ellipsis is the book's name as it is usually printed. It is a mix of stories and verse, and the colour is in the title and in the prose.
+7. "lo había dicho antes, en francés" (sentence 10): Verlaine said it in his poem Art poétique, which begins with the words "De la musique avant toute chose". Darío admired Verlaine, which is why the essay makes the link.
+8. "el alejandrino" (sentence 12): a line of fourteen syllables. Spanish poets had used it long before Darío, from Gonzalo de Berceo in the thirteenth century, so the text says Darío used it, not that he invented it.
+9. "El romance tenía versos de ocho sílabas, y el soneto, catorce versos" (sentence 13): the romance is the eight-syllable line of lesson 64. The sonnet has fourteen lines, usually of eleven syllables, and the count of the sonnet is the count of its lines, not its syllables.
+10. "la coincidencia del sonido" (sentence 14): a full rhyme repeats every sound from the last stressed vowel to the end. Assonance repeats only the vowels, as in lesson 64, note 7.
+11. "el niño que recita" (sentence 16): the child reciting does not know the meaning of every word, and yet he feels the rhythm and the tone. The sentence describes a common experience, not a rule.
+12. "Eso no quiere decir" (sentence 17): eso refers to the whole of sentence 16, that poetry is heard before it is understood. The sentence blocks the wrong conclusion that meaning does not matter.
+13. "Bécquer escribe de cosas pequeñas y cercanas; Darío escribe de jardines y palacios" (sentence 18): the contrast is one of scale and setting. It describes the tendency of each writer, not every poem in either book.
+14. "la de Bécquer, que cabe en dos palabras, y la de Darío, que llena una página" (sentence 21): eres tú is two words, and the essay answers the student with a page of comparison. In English one would say "two words" and "a page" in the same way.
+
+ex1:
+- Me gustaría que el alumno leyera el poema en voz alta antes de explicarle nada.
+  en: I would like the student to read the poem aloud before I explain anything to him.
+- Por mucho que Darío use los colores, el sentido nunca desaparece del todo.
+  en: However much Darío uses colour, the meaning never quite disappears.
+- Cuando un verso no suena bien, lo cambio aunque el sentido quede igual.
+  en: When a line does not sound right, I change it even when the meaning stays the same.
+- Bécquer escribió poco, pero cada rima parece dicha al oído.
+  en: Bécquer wrote little, but each rhyme seems to have been said into the ear.
+- Si un alumno pregunta qué es poesía, la mejor respuesta es leer una rima en voz alta.
+  en: If a student asks what poetry is, the best answer is to read a rhyme aloud.
+
+ex2:
+- El público se quedó [sin palabras] al final.
+  en: At the end the audience was left speechless.
+- Ese verso no [hace caso] a la métrica.
+  en: That line pays no attention to the metre.
+- A él le [hizo gracia] el verso del azul.
+  en: He found the line about the blue funny.
+- El soneto tiene catorce [versos].
+  en: The sonnet has fourteen lines.
+- Tardé una hora en [dar con] la rima que buscaba.
+  en: It took me an hour to hit upon the rhyme I was looking for.
+
+tasks:
+- Conozco un poema de Robert Frost sobre una parada en un bosque nevado, y la rima de Bécquer que termina en «eres tú». Frost cuenta una parada en el bosque con un paisaje casi sin sonido, y la pausa del poema está en el final. Bécquer no describe nada: pregunta y responde en pocas palabras, y la música está en el ritmo de la pregunta. Los dos poemas confían en una pausa, pero el inglés se aleja del ruido y el español se acerca al oído.
+  task.en: Compare in Spanish, in about 100 words, an English poem you know with the Bécquer rhyme of this lesson. Say what each one does with sound and with its last line, and quote only titles and the words of Bécquer's last line.
+  rubric.en: meaning: the comparison covers sound and the last line in both poems, with nothing invented about the English poem; register: an essay in plain Spanish, with tú or usted kept as the writer chooses for the whole piece; structure: the first poem, the second poem, then the point of contrast; idiom: confiar en una pausa and acercarse al oído are used in their normal senses; effect: the reader sees why the two poems end on a pause.
+
+== 66 C2
+numeral: Lección sesenta y seis
+title: Una copla
+title.en: A copla
+
+dialogue:
+- Te me fuiste en el agosto,
+  en: You left me in the August,
+- aire mío, mi querido,
+  en: my air, my dear,
+- y la casa es ya un infierno
+  en: and the house has become a hell
+- y ya no tengo sentido.
+  en: and I have lost my wits.
+- Ven, aire, que yo me muero,
+  en: Come back, air, for I am dying,
+- que sin ti no sé vivir.
+  en: for without you I do not know how to live.
+- Tú me dabas cada día
+  en: You used to give me every day
+- una brisa tan templada,
+  en: a breeze so mild,
+- pero en agosto, sin ruido,
+  en: but in August, without a sound,
+- pues hoy me dejas sin nada.
+  en: so today you leave me with nothing.
+- Ven, aire, que yo me muero,
+  en: Come back, air, for I am dying,
+- que sin ti no sé vivir.
+  en: for without you I do not know how to live.
+- Ya no zumba en la ventana
+  en: No longer does it hum in the window,
+- tanto silencio da pena,
+  en: so much silence is a sorrow,
+- el verano se hace largo
+  en: the summer grows long
+- y sin ti, qué triste cena.
+  en: and without you, what a sad supper.
+- Ven, aire, que yo me muero,
+  en: Come back, air, for I am dying,
+- que sin ti no sé vivir.
+  en: for without you I do not know how to live.
+- Esta copla está escrita como las de los años cuarenta y cincuenta, cuando la canción española llenaba los teatros y las radios.
+  en: This copla is written as those of the forties and fifties were written, when the Spanish song filled the theatres and the radios.
+- Tiene estrofas de cuatro versos de ocho sílabas, y en cada estrofa riman los versos segundo y cuarto.
+  en: It has stanzas of four lines of eight syllables, and in each stanza the second and fourth lines rhyme.
+- El estribillo lo forman dos versos que vuelven entre estrofa y estrofa, y el público los canta sin haberlos aprendido.
+  en: The refrain is two lines that come back between one stanza and the next, and the audience sings them without having learnt them.
+- La rima es consonante: las palabras comparten la vocal tónica y todo lo que sigue, como en «querido» y «sentido».
+  en: The rhyme is a full rhyme: the words share the stressed vowel and everything after it, as in "querido" and "sentido".
+- Lo que la copla hace es convertir un aparato que se estropea en agosto en una pena de amor.
+  en: What the copla does is turn an appliance that breaks down in August into a sorrow of love.
+- Por eso la primera persona le habla al aire como a alguien que se ha ido.
+  en: That is why the first person speaks to the air as to someone who has gone.
+- El sentimiento se dice sin rodeos, porque la copla no tiene miedo de la exageración.
+  en: The feeling is said without circumlocution, because the copla is not afraid of exaggeration.
+- La estrofa del medio cambia de tiempo: el imperfecto habla de lo que daba cada día, y el presente de lo que queda hoy.
+  en: The middle stanza changes tense: the imperfect speaks of what it gave every day, and the present of what is left today.
+- Las cantantes de la copla sabían alargar una vocal hasta que el público suspiraba, y eso no se escribe, se canta.
+  en: The singers of the copla knew how to hold a vowel until the audience sighed, and that is not written down, it is sung.
+- Se escribe primero la estrofa que duele, y después el estribillo que consuela.
+  en: You write the stanza that hurts first, and then the refrain that comforts.
+- Yo la escribí en agosto, cuando el aire de casa dejó de funcionar y la tarde no daba tregua.
+  en: I wrote it in August, when the air conditioning at home stopped working and the afternoon gave no respite.
+- El aire no tiene culpa, pero la copla lo trata como a una persona, que es lo que hace el género con todo lo que se pierde.
+  en: The air is not to blame, but the copla treats it like a person, which is what the genre does with everything that is lost.
+- Un buen estribillo cabe en dos versos, y no hace falta más para que el público se lo lleve a casa.
+  en: A good refrain fits into two lines, and nothing more is needed for the audience to take it home.
+- Al final, el aire sigue sin volver, y la copla se queda con la pena.
+  en: In the end the air still does not come back, and the copla keeps the sorrow.
+
+notes.en:
+1. "Te me fuiste en el agosto" (sentence 1): te me fuiste is the second person of the informal address, with a dative me: "you went away from me". The air conditioner is the one who left, and the poem speaks to it as tú.
+2. "aire mío, mi querido" (sentence 2): mío and querido are the words of love songs, given here to an appliance. The sentiment is meant seriously, and the copla gives the machine the language of a lover.
+3. "y la casa es ya un infierno" (sentence 3): infierno, hell, is the usual way to say that a place is unbearable in the heat. The English "a hell" is the nearest natural match, and the exaggeration belongs to the genre.
+4. "y ya no tengo sentido" (sentence 4): sentido here means the wits, the judgement of a person, as in perder el sentido, to lose one's senses. The English "I have lost my wits" keeps the sense of the Spanish.
+5. "Ven, aire, que yo me muero," (sentences 5, 11 and 17): the refrain returns three times, always with the same two lines. Me muero is an exaggeration of feeling, not a literal death, and the English "I am dying" keeps the same force.
+6. "que sin ti no sé vivir." (sentences 6, 12 and 18): vivir is stressed on its last syllable, so the line has seven syllables when counted word by word and counts eight in the metre.
+7. "Tú me dabas cada día" (sentence 7) and "pues hoy me dejas sin nada" (sentence 10): the imperfect dabas describes a habit, and the present dejas describes what is true today. The change of tense is the story of the stanza.
+8. "una brisa tan templada" (sentence 8): templada means mild, neither cold nor hot. A breeze that is mild is what the air conditioner used to give, and the English "a breeze so mild" is exact.
+9. "pero en agosto, sin ruido," (sentence 9): the o of pero and the e of en join in one syllable, a sinalefa. The line counts eight, with ruido stressed on its penultimate syllable.
+10. "templada" (sentence 8) and "nada" (sentence 10): the second and fourth lines of the stanza rhyme on -ada. It is a full rhyme: the stressed vowel and everything after it are the same.
+11. "Ya no zumba en la ventana" (sentence 13): zumbar means to hum, the sound a machine makes at work. The window is where the unit sat, and the verb is in the present, as the silence is now.
+12. "el verano se hace largo" (sentence 15): the silent h of hace joins with the se before it, so the two make one syllable, as in ya se ha dormido, which Perfectionnement explained (Perfectionnement, lesson 34, note 9).
+13. "y sin ti, qué triste cena" (sentence 16): qué with an adjective makes an exclamation, "what a sad supper". Cena rhymes with pena (sentence 14), which is a full rhyme on -ena.
+14. The copla (sentence 19): the copla is a popular Spanish song form of the forties and fifties, and its stanza is a quatrain of octosyllables. In those years the copla was the Spanish popular song of films and radio.
+
+ex1:
+- Te me fuiste sin decir adiós, y la casa se quedó sin aire.
+  en: You left me without saying goodbye, and the house was left without air.
+- Aunque el técnico viniera el lunes, el calor ya se había instalado en el salón.
+  en: Even if the technician came on Monday, the heat had already settled into the living room.
+- Cuanto más calor hace, más canciones tristes se escuchan en la radio.
+  en: The hotter it gets, the more sad songs one hears on the radio.
+- No sé si llorar por el aire acondicionado o por el recibo de la luz.
+  en: I do not know whether to cry over the air conditioning or over the electricity bill.
+- Ya no lo arreglan: dicen que la pieza no existe desde hace años.
+  en: They no longer repair it: they say the part has not existed for years.
+
+ex2:
+- Me [quedé] sin aire en mitad de la siesta.
+  en: I was left without air in the middle of the siesta.
+- Si [hace] menos calor, saldremos esta noche.
+  en: If it is less hot, we will go out tonight.
+- [Cuanto] antes llegue el técnico, mejor.
+  en: The sooner the technician arrives, the better.
+- Llevo tres días [sin aire] en casa.
+  en: I have had no air at home for three days.
+- Ojalá [llegue] el técnico antes del domingo.
+  en: I hope the technician arrives before Sunday.
+
+tasks:
+- Ya no sé si volverás, / aire fresco del verano; / el técnico no ha llamado / y nadie me da la mano.
+  task.en: Add a fourth stanza in Spanish to the copla, in the same metre, with the second and fourth lines rhyming in the same way as the others. The new stanza should wait for the technician. Write four lines of eight syllables and count them.
+  rubric.en: meaning: the stanza waits for the technician and adds nothing about the air conditioner that the copla does not already say; register: tú to the air conditioner, as in the rest of the copla; structure: four lines of eight syllables, the second and fourth rhyming; idiom: dar la mano is used in its normal sense, to give a hand, and volver is in the second person to the air; effect: the last line falls back into the loneliness of the refrain.
+
+== 67 C2
+numeral: Lección sesenta y siete
+title: A trancas y barrancas
+title.en: Twin formulas
+
+dialogue:
+- El español tiene una manía que los lingüistas llaman binomios, y que la gente llama, sencillamente, dos palabras que van juntas.
+  en: Spanish has a habit that linguists call binomials, and that people simply call two words that go together.
+- Basta con escuchar a alguien que se queja del tráfico para oír dos o tres a la vez: a trancas y barrancas, a diestro y siniestro.
+  en: It is enough to listen to someone complaining about the traffic to hear two or three at once: a trancas y barrancas, a diestro y siniestro.
+- Estas fórmulas no suelen significar más que sus dos mitades, y lo que se oye primero es el ritmo.
+  en: These formulas usually mean no more than their two halves, and what one hears first is the rhythm.
+- Pensemos en sano y salvo: nadie diría sano solo ni salvo solo sin sentir que algo falta.
+  en: Take sano y salvo: nobody would say sano alone or salvo alone without feeling that something is missing.
+- La pareja da equilibrio: dos palabras que se apoyan, como las dos patas de una banqueta.
+  en: The pair gives balance: two words that lean on each other, like the two legs of a stool.
+- A veces las dos palabras casi quieren decir lo mismo: dimes y diretes son los rumores y las réplicas de cualquier vecindario.
+  en: Sometimes the two words almost mean the same: dimes y diretes are the gossip and the replies of any neighbourhood.
+- Otras veces son opuestas, como a diestro y siniestro, que significa en todas las direcciones y sin mirar.
+  en: At other times they are opposites, as in a diestro y siniestro, which means in every direction and without looking.
+- Contra viento y marea es la fórmula de los discursos: se usa cuando algo sale adelante contra todo pronóstico.
+  en: Contra viento y marea is the formula of speeches: it is used when something succeeds against every forecast.
+- A tontas y a locas describe una forma de hacer las cosas sin pensar y sin orden ni plan.
+  en: A tontas y a locas describes a way of doing things without thinking and without order or plan.
+- Sin ton ni son suena a rima, y quiere decir sin motivo ni razón.
+  en: Sin ton ni son sounds like a rhyme, and it means without reason or cause.
+- Ni fu ni fa es la fórmula de quien no se moja: ni bien ni mal, sin opinión.
+  en: Ni fu ni fa is the formula of someone who does not commit: neither good nor bad, with no opinion.
+- Erre que erre sirve para la testarudez: se insiste una y otra vez, y la erre fuerte y repetida va bien con la idea.
+  en: Erre que erre serves for stubbornness: one insists again and again, and the strong, repeated erre suits the idea.
+- Por activa y por pasiva es otra manera de insistir, pero de todas las formas posibles, y el nombre viene de la gramática, de la voz activa y de la pasiva.
+  en: Por activa y por pasiva is another way of insisting, but in every possible way, and the name comes from grammar, from the active and passive voice.
+- Estas fórmulas se repiten en los carteles y en los eslóganes, porque suenan bien aunque nadie las piense.
+  en: These formulas are repeated on posters and in slogans, because they sound good even when nobody thinks about them.
+- Ahí funciona la aliteración: repetir un sonido al principio de las palabras, como la d de dimes y diretes, o la f de fu y fa.
+  en: That is where alliteration works: repeating a sound at the start of words, like the d of dimes y diretes, or the f of fu y fa.
+- Un eslogan se recuerda por el sonido antes que por la idea, porque el público repite lo que puede cantar.
+  en: A slogan is remembered for its sound before its idea, because the public repeats what it can sing.
+- Un cartel de un bar de barrio con «sano y salvo» dice más que cualquier explicación de la carta.
+  en: A poster in a neighbourhood bar that says "sano y salvo" says more than any explanation of the menu.
+- La trampa es usar demasiadas: si todas las frases llevan pareja, nadie escucha ninguna.
+  en: The trap is using too many: if every sentence has a pair, nobody hears any of them.
+- Una fórmula gastada se nota en seguida, como erre que erre cuando aparece en cada párrafo.
+  en: A worn-out formula shows at once, like erre que erre when it appears in every paragraph.
+- Antes de escribir un eslogan hay que decirlo en voz alta y cambiar una palabra si suena a tópico.
+  en: Before writing a slogan, say it aloud and change one word if it sounds like a cliché.
+- La pausa también cuenta: sin ella la pareja se pierde y la frase suena a prisa.
+  en: The pause counts too: without it the pair is lost and the sentence sounds hurried.
+- Un eslogan que no dice nada, aunque tenga dos palabras por frase, sigue siendo ruido.
+  en: A slogan that says nothing, even with two words to each phrase, is still just noise.
+- Por eso la regla es sencilla: una pareja, una idea y una pausa al final.
+  en: That is why the rule is simple: one pair, one idea and a pause at the end.
+- Lo que no se pierde nunca es el oído: quien escribe bien siempre ha escuchado antes.
+  en: What is never lost is the ear: whoever writes well has always listened first.
+- Yo empiezo casi siempre por la pareja, y después busco la idea que le quepa.
+  en: I almost always start with the pair, and then look for the idea that fits it.
+- El resultado puede sonar a broma, pero la gente se acuerda, y eso es lo que pide un eslogan.
+  en: The result may sound like a joke, but people remember it, and that is what a slogan asks for.
+- Y si la frase suena natural, el lector no ve la fórmula antes de oírla.
+  en: And if the sentence sounds natural, the reader does not see the formula before hearing it.
+
+notes.en:
+1. "binomios" (sentence 1): the linguists' term for two words joined by y, or by a preposition, that are used as one fixed unit. The English "binomial" is the same term.
+2. "a trancas y barrancas" (sentence 2): the phrase means with difficulty, with obstacles at every step. It is used for a plan that gets there by force, and the English "with difficulty" is the plain sense.
+3. "a diestro y siniestro" (sentence 7): it means in every direction, without looking, as when someone hits out at everyone. Diestro is the right side and siniestro the left, and the phrase keeps both.
+4. "sano y salvo" (sentence 4): safe and sound. The adjectives agree with a masculine noun, so for a woman one says sana y salva. Both words have the same meaning, and the pair makes it stronger.
+5. "dimes y diretes" (sentence 6): the plural words are the small talk, the gossip and the answers that go back and forth. The English "bickering" is the closest natural match, and the phrase is nearly always in the plural.
+6. "Contra viento y marea" (sentence 8): it means in spite of every obstacle, against every forecast, and it is common in political and sporting speeches. The English "against all odds" is the nearest equivalent.
+7. "a tontas y a locas" (sentence 9): the preposition a is repeated before each noun, which is common in this kind of pair. The meaning is without thinking and without a plan, at random.
+8. "sin ton ni son" (sentence 10): ton is an old word for tono, which is why the rhyme sounds archaic. The pair means without reason, and the English "without rhyme or reason" is the nearest match.
+9. "Ni fu ni fa" (sentence 11): neither good nor bad, with no opinion. The two sounds fu and fa are the point of the phrase, and it is said of something that leaves a person indifferent.
+10. "erre que erre" (sentence 12): the erre is the name of the letter r, and the phrase means stubbornly, insisting over and over. The English "stubbornly" is the plain sense.
+11. "Por activa y por pasiva" (sentence 13): it means in every possible way, from the grammar of the active and passive voice, and it is used to say that someone insists in all forms. The English "every which way" is loose; "in every possible way" is closer.
+12. "la aliteración" (sentence 15): alliteration, the repetition of a sound at the start of words. Spanish uses it as English does, and the examples here are the d of dimes and diretes and the f of fu and fa.
+13. "los eslóganes" (sentence 14): the plural of eslogan, with the stress on the o, is eslóganes. Slogans are repeated because they sound good, and the sentence says that the sound is what makes them stick.
+14. English has the same kind of pair: "safe and sound" works like sano y salvo, with two words that agree in meaning and are said together as one unit.
+
+ex1:
+- La obra avanza a trancas y barrancas, pero terminaremos a tiempo, contra viento y marea.
+  en: The work is making slow progress, but we will finish on time, come what may.
+- Si el perro sale corriendo a diestro y siniestro, nadie sabe por dónde volverá.
+  en: If the dog runs off in all directions, nobody knows where it will come back.
+- Ayer discutimos por dimes y diretes, y hoy ni siquiera recordamos el motivo.
+  en: Yesterday we bickered over nothing, and today we cannot even remember why.
+- Del examen no tengo opinión: lo veo ni fu ni fa.
+  en: I have no opinion on the exam: I think it is neither good nor bad.
+- Insistió erre que erre hasta que el jefe cedió, y yo ya no sabía qué pensar.
+  en: He insisted and insisted until the boss gave in, and I no longer knew what to think.
+
+ex2:
+- Llegó sano y [salvo] a casa después de la tormenta.
+  en: He got home safe and sound after the storm.
+- Lo hizo a tontas y [a locas], sin mirar el mapa.
+  en: He did it at random, without looking at the map.
+- Discutieron sin ton [ni son].
+  en: They argued without rhyme or reason.
+- Contra viento y [marea] salió adelante el proyecto.
+  en: Against all odds the project came through.
+- Le da igual, es un ni fu [ni fa].
+  en: He does not care either way; he is indifferent.
+
+tasks:
+- Contra viento y marea, tu bici llega sana y salva. / A trancas y barrancas, pero siempre en marcha. / Erre que erre: revisamos cada rueda hasta que gira bien.
+  task.en: Write three short slogans in Spanish for an invented bicycle repair café called El Pedal Corto. Each slogan must use one of the formulas of this lesson and at least one alliteration. Keep each slogan under about fifteen words.
+  rubric.en: meaning: each slogan says something about the repair café, and none promises what the café could not do; register: the friendly, direct tone of a neighbourhood shop; structure: three separate slogans, each with one formula and one pause; idiom: contra viento y marea, a trancas y barrancas and erre que erre are used in their normal senses; effect: the slogans are easy to remember and sound natural when read aloud.
+
+== 68 C2
+numeral: Lección sesenta y ocho
+title: Cercanías
+title.en: Commuter train
+
+dialogue:
+- Son las siete y diez, y el tren
+  en: It is ten past seven, and the train
+- sale con la luz todavía de noche.
+  en: leaves with the light still night-time.
+- Un hombre duerme con la bolsa en las rodillas
+  en: A man sleeps with his bag on his knees
+- como si la bolsa fuera a irse sola.
+  en: as if the bag were going to leave on its own.
+- Enfrente, una chica cuenta las paradas
+  en: Opposite, a girl counts the stops
+- en voz baja, como quien reza.
+  en: under her breath, like someone praying.
+- Yo miro el cristal:
+  en: I look at the glass:
+- en el reflejo, la cara de otro
+  en: in the reflection, the face of another man
+- que también viene a trabajar.
+  en: who is also coming to work.
+- Fuera pasan las naves, los muros con pintadas,
+  en: Outside go the sheds, the walls with graffiti,
+- una cometa atascada en un alambre
+  en: a kite caught on a wire
+- y un perro que no se mueve de su sitio.
+  en: and a dog that does not move from its spot.
+- Dentro, nadie habla; se oye el traqueteo
+  en: Inside, nobody speaks; the rattle can be heard
+- y el aviso de la siguiente parada, que nadie escucha.
+  en: and the announcement of the next stop, which nobody listens to.
+- Un bebé mira todo con la boca abierta.
+  en: A baby looks at everything with its mouth open.
+- Hay una señora con el abrigo puesto
+  en: There is a woman with her coat on
+- y las gafas en la frente,
+  en: and her glasses on her forehead,
+- que lee el periódico de ayer.
+  en: who is reading yesterday's newspaper.
+- El tren entra en el túnel
+  en: The train goes into the tunnel
+- y el cristal se vuelve un espejo negro.
+  en: and the window turns into a black mirror.
+- Ahí me veo otra vez,
+  en: There I see myself again,
+- con el café frío en la mano
+  en: with the cold coffee in my hand
+- y la cara de quien ya ha llegado a la mitad del día.
+  en: and the face of someone who has already reached the middle of the day.
+- Cuando salimos,
+  en: When we come out,
+- Madrid es una luz amarilla en la estación
+  en: Madrid is a yellow light in the station
+- y la gente se levanta toda a la vez,
+  en: and everybody gets up all at once,
+- como si todos hubieran decidido
+  en: as if everyone had decided
+- que hoy era el día de empezar.
+  en: that today was the day to begin.
+- Este poema no tiene rima ni medida, y se escribió como se respira: cada verso acaba donde acaba el aire.
+  en: This poem has no rhyme and no fixed measure, and it was written the way one breathes: each line ends where the breath ends.
+- Eso no quiere decir que no tenga orden; el orden está en el ritmo de las pausas y en las palabras que se repiten, como «fuera» y «dentro».
+  en: That does not mean it has no order; the order is in the rhythm of the pauses and in the words that come back, like "outside" and "inside".
+- En español, el verso libre tiene una larga tradición, y Hijos de la ira, de Dámaso Alonso, publicado en 1944, es uno de sus hitos.
+  en: In Spanish, free verse has a long tradition, and Hijos de la ira, by Dámaso Alonso, published in 1944, is one of its landmarks.
+- Hijos de la ira es un libro de tono duro, sobre la angustia de vivir, y su manera de cortar el verso marcó a muchos lectores.
+  en: Hijos de la ira is a book with a hard tone, about the anguish of living, and its way of breaking the line marked many readers.
+- Subirse cada mañana a un tren de cercanías es, a su manera, un poema de verso libre: la gente no rima, pero se parece.
+  en: Getting on a commuter train every morning is, in its own way, a free-verse poem: people do not rhyme, but they look alike.
+- Los viajeros tienen su propio ritmo: se levantan cuando el tren frena, y no antes.
+  en: Travellers have their own rhythm: they stand up when the train brakes, and not before.
+- Escribí la mayor parte en el tren de ida, con el cuaderno sobre la rodilla, y lo corregí en el de vuelta, con la luz ya apagada en el vagón.
+  en: I wrote most of it on the train going in, with the notebook on my knee, and I corrected it on the way back, with the light already off in the carriage.
+- Por eso el poema empieza con la luz de la madrugada y acaba en la estación, con la luz amarilla de Madrid.
+  en: That is why the poem begins with the light of early morning and ends in the station, with the yellow light of Madrid.
+- La estación no tiene nombre en el poema, porque cualquier estación de Madrid a esa hora se parece a todas.
+  en: The station has no name in the poem, because any station in Madrid at that hour looks like all the others.
+- Lo que más me costó fue el último verso, porque no quería decir nada de ánimo, y sin embargo lo hay.
+  en: What cost me most was the last line, because I did not want to say anything encouraging, and yet there is something encouraging in it.
+- Leer un poema así en voz alta es un modo de viajar: se respira en los cortes y se llega adonde el verso se detiene.
+  en: Reading a poem like this aloud is a way of travelling: one breathes at the breaks and arrives where the line stops.
+
+notes.en:
+1. "Son las siete y diez" (sentence 1): Spanish gives the time with son las and the hour in the feminine, and y diez adds the minutes. The line ends on el tren, and the verb comes in the next line.
+2. "con la luz todavía de noche" (sentence 2): todavía means still, and the light is still that of the night. The English "still night-time" is the plain sense.
+3. "como si la bolsa fuera a irse sola" (sentences 3 and 4): como si takes the imperfect subjunctive, here fuera, and ir a plus an infinitive gives the near future of the bag. The English "as if the bag were going to leave on its own" keeps both.
+4. "como quien reza" (sentence 6): quien means a person who, without a named subject. The girl counts under her breath, and the simile says how she counts, not what she counts.
+5. "la cara de otro" (sentence 8): otro here means another man, a stranger. The reflection shows a face that belongs to someone else on the same train.
+6. "Hay una señora" (sentence 16): haber stays in the singular before a singular noun, and the woman is the subject of the scene. The English "There is a woman" is the same construction.
+7. "que lee el periódico de ayer" (sentence 18): the paper is yesterday's, and the sentence says only that she reads it. Nothing else is claimed about her.
+8. "y el cristal se vuelve un espejo negro" (sentence 20): se vuelve means becomes, with the pronoun se, and the window stops being a window once the train is in the tunnel.
+9. "como si todos hubieran decidido" (sentence 27): the pluperfect subjunctive hubieran decidido describes an action that is finished before the moment of the verse. The English "had decided" keeps the same order of times.
+10. "verso libre" (sentence 29): free verse has no fixed metre and no regular rhyme. The lines are set by the breath and the sense, and the English "free verse" is the same term.
+11. "Hijos de la ira" (sentence 31): the book by Dámaso Alonso, published in 1944, is a landmark of free verse in Spanish and of its poetry after the Civil War. The text names it and does not describe its content further.
+12. "fuera" and "dentro" (sentence 30): the two words come back in the poem, and they give order to free verse. The repetition is what holds the lines together, not a rhyme.
+13. "la gente no rima, pero se parece" (sentence 33): the sentence uses the idea of rhyme to say that people look alike, and it makes that point without any rhyme.
+14. "Los viajeros tienen su propio ritmo" (sentence 34): the line sets the rhythm of the travellers against the rhythm of the train, which brakes at every stop.
+15. "Hay" and "haber" (sentence 16): compare with the English "there is" and "there are": in Spanish hay does not change for the plural, so "hay muchas señoras" is also correct.
+16. English uses the same term, free verse, so the learner can compare the Spanish poem with the English poems read at school.
+
+ex1:
+- El tren nunca llega a la hora, pero todos actúan como si fuera puntual.
+  en: The train is never on time, but everybody acts as though it were punctual.
+- Me sé la línea de memoria: las paradas, los túneles y la señora que siempre se sienta junto a la puerta.
+  en: I know the line by heart: the stops, the tunnels, and the woman who always sits by the door.
+- Si pierdo este tren, tendré que esperar otros veinte minutos.
+  en: If I miss this train, I will have to wait another twenty minutes.
+- Nadie habla hasta que se cierran las puertas, y luego todos hablan a la vez.
+  en: Nobody speaks until the doors close, and then everybody talks at once.
+- El poema no tiene rima, pero tiene un ritmo que el lector nota en la respiración.
+  en: The poem has no rhyme, but it has a rhythm that the reader feels in the breath.
+
+ex2:
+- Nadie se levanta a [esas horas] sin una razón.
+  en: Nobody gets up at that hour without a reason.
+- Me [quedé dormido] y pasé de mi parada.
+  en: I fell asleep and missed my stop.
+- Hay que [hacer cola] para subir al tren en hora punta.
+  en: You have to queue to board the train at rush hour.
+- No [hace falta] madrugar tanto para llegar a tiempo.
+  en: There is no need to get up so early to arrive on time.
+- Me tomé el café [frío] de la máquina.
+  en: I drank the cold coffee from the machine.
+
+tasks:
+- Cojo el autobús de las seis, / con el abrigo todavía en la mochila, / y el pueblo se queda atrás / como una frase que nadie termina. / En la ventanilla, un río / lleva lo que le sobra al mar. / Al bajar, el aire huele a sal / y yo no sé si he llegado / o si solo he cambiado de sueño.
+  task.en: Write a free-verse poem in Spanish about a journey you know: a trip by bus, train or on foot. Use lines of different lengths, with no regular rhyme, and make the last line turn on the arrival. Write about twelve lines.
+  rubric.en: meaning: the journey, its start and its arrival stay in the poem, with nothing added that is not in the scene; register: first person, plain and close to speech; structure: free verse, with lines set by breath and sense, not by a rhyme; idiom: quedarse atrás and cambiar de sueño are used in their normal or figurative sense; effect: the last line leaves the arrival in doubt.
+
+== 69 C2
+numeral: Lección sesenta y nueve
+title: La hora de la poesía
+title.en: The hour of poetry
+
+dialogue:
+- Buenas tardes a quien nos escucha. Hoy leemos un poema con más lluvia que sol, y eso ya es una pista.
+  en: Good afternoon to everyone listening. Today we read a poem with more rain than sun, and that is already a clue.
+- Lo escribió una voz de hoy, pero el tono es el de Rosalía de Castro, que nació en 1837 y murió en 1885.
+  en: It was written by a voice of today, but the tone is that of Rosalía de Castro, who was born in 1837 and died in 1885.
+- Escribió en gallego y en castellano, y en castellano publicó En las orillas del Sar, en 1884.
+  en: She wrote in Galician and in Spanish, and in Spanish she published En las orillas del Sar, in 1884.
+- En ese libro, el río, la lluvia y la ausencia de quien se ha ido ocupan casi todo el paisaje.
+  en: In that book, the river, the rain and the absence of whoever has gone take up almost the whole landscape.
+- Antes de leerlo, un aviso: no es de ella, sino un poema nuevo, escrito a su manera.
+  en: Before reading it, a warning: it is not hers, but a new poem, written in her manner.
+- Lo leo despacio, porque la lluvia no tiene prisa.
+  en: I read it slowly, because the rain is in no hurry.
+- Llueve sobre el río viejo,
+  en: It rains over the old river,
+- llueve sobre el tejado,
+  en: it rains on the roof,
+- y en la ventana me quedo
+  en: and at the window I stay
+- con lo que aún no ha acabado.
+  en: with what has not yet come to an end.
+- Pasa el agua por el puente
+  en: The water passes under the bridge
+- sin pedir ni dar perdón,
+  en: asking for nothing and giving no pardon,
+- y se lleva lo que nunca
+  en: and it carries off what was never
+- fue de nadie: el corazón.
+  en: anybody's: the heart.
+- Yo tengo tierra lejana
+  en: I have a faraway land
+- y un río que no se olvida,
+  en: and a river I cannot forget,
+- y cada vez que llueve en Madrid
+  en: and every time it rains in Madrid
+- se me abre la herida.
+  en: the wound opens for me.
+- Llueve sobre el río viejo,
+  en: It rains over the old river,
+- llueve sobre el tejado,
+  en: it rains on the roof,
+- y en la ventana me quedo
+  en: and at the window I stay
+- con lo que aún no ha acabado.
+  en: with what has not yet come to an end.
+- El primer verso vuelve al final como un estribillo, y así el poema cierra donde empezó.
+  en: The first line comes back at the end as a refrain, and so the poem closes where it began.
+- Lo que hace el poema es volver al mismo sitio, como quien vuelve a la ventana.
+  en: What the poem does is return to the same place, like someone going back to the window.
+- El río viejo no pasa por la ciudad: pasa por la memoria de quien habla.
+  en: The old river does not run through the city: it runs through the memory of the speaker.
+- La nostalgia de la tierra lejana está en las cosas pequeñas: un tejado, un puente, una orilla.
+  en: The longing for a distant land lies in small things: a roof, a bridge, a bank.
+- En la estrofa de Madrid, la lluvia cae en otra ciudad, y eso hace que la tierra lejana se note más.
+  en: In the stanza about Madrid, the rain falls in another city, and that makes the faraway land stand out more.
+- El último verso no cierra nada, y así debe ser: la pena no se termina en un poema.
+  en: The last line closes nothing, and that is as it should be: grief does not end in a poem.
+- Al leerlo, no conviene correr hasta el final, para que la pausa haga su trabajo.
+  en: When reading it, it is better not to rush to the end, so that the pause can do its work.
+- Pero antes, una cosa: quien lo lea en casa, que pare en cada coma.
+  en: But first, one thing: whoever reads it at home should pause at every comma.
+- Quien escucha con atención nota que el poema casi no usa palabras raras: la lluvia, el río y la ventana bastan.
+  en: Anyone listening closely notices that the poem hardly uses unusual words: the rain, the river and the window are enough.
+- Eso es todo por hoy. Gracias por escuchar, y mañana seguimos con otro poema, si no llueve.
+  en: That is all for today. Thank you for listening, and tomorrow we go on with another poem, if it does not rain.
+
+notes.en:
+1. "Buenas tardes a quien nos escucha" (sentence 1): a radio greeting that does not name the listener, a common way to open a programme. The English "everyone listening" is the plain sense.
+2. "Rosalía de Castro" (sentence 2): born in 1837 and dead in 1885, she wrote in Galician and in Spanish. Her Galician book Cantares gallegos came out in 1863, and her Spanish one in 1884.
+3. "En las orillas del Sar" (sentence 3): the book of 1884, written in Spanish, about the river and the longing of the Galician countryside. The title is quoted as it is printed.
+4. "la ausencia de quien se ha ido" (sentence 4): the perfect for a time that is not over, as in Spain: the person has gone and is still away.
+5. "un aviso" (sentence 5): the presenter says the poem is new and in her manner, so the programme is honest about it. The text does not claim that Rosalía wrote it.
+6. "Llueve sobre el río viejo," (sentences 7 and 19): the first line is repeated at the end as a refrain, with the same words. The English keeps the repetition exactly.
+7. "tejado" and "acabado" (sentences 8 and 10): the second and fourth lines of the stanza rhyme on -ado. It is a full rhyme, not an assonance, since the consonants after the stressed vowel are the same.
+8. "perdón" and "corazón" (sentences 12 and 14): a full rhyme on -ón, in the second and fourth lines of the stanza.
+9. "olvida" and "herida" (sentences 16 and 18): a full rhyme on -ida, with the stress on the i of both words.
+10. "Pasa el agua por el puente / sin pedir ni dar perdón" (sentences 11 and 12): the water passes without asking or giving pardon, which gives it a human action. The sentence personifies the river.
+11. The Galician word morriña, homesickness for one's own land, is the nearest term to the longing in these lines. It is used in Spanish too, but the programme does not use it and says "la nostalgia de la tierra lejana" (sentence 26) instead.
+12. "en Madrid" (sentence 17): the stanza in which the rain falls on the city where the speaker lives. The place is named, so the faraway land is the contrast, as sentence 27 says.
+13. "El último verso no cierra nada" (sentence 28): the sentence says the poem's ending gives no resolution, and that this is right for grief. It describes the ending and does not explain its meaning.
+14. "quien lo lea en casa, que pare en cada coma" (sentence 30): the subjunctive pare follows a relative clause that asks for an action, as in a request: whoever reads it should stop at each comma.
+
+ex1:
+- El programa dura una hora, y la presentadora lee un poema cada tarde.
+  en: The programme lasts an hour, and the presenter reads a poem every afternoon.
+- El ruido de la lluvia en un tejado viejo devuelve a mucha gente a su pueblo.
+  en: The sound of rain on an old roof takes many people back to their village.
+- Llevo años fuera, y cada vez que llueve pienso en el río de casa.
+  en: I have been away for years, and every time it rains I think of the river at home.
+- Aunque el poema sea corto, el oyente siente que lleva lloviendo mucho tiempo.
+  en: Although the poem is short, the listener feels that it has been raining for a long time.
+- El último verso no debe leerse deprisa, para que la pausa haga su trabajo.
+  en: The last line should not be read quickly, so that the pause can do its work.
+
+ex2:
+- La lluvia no [tiene prisa] en la tarde de domingo.
+  en: The rain is in no hurry on Sunday afternoon.
+- Lleva años [sin volver] a su pueblo.
+  en: He has not gone back to his village for years.
+- Nunca volvió a [pisar] la orilla del río.
+  en: He never set foot on the river bank again.
+- El río [se lleva] lo que nadie quiso guardar.
+  en: The river carries off what nobody wanted to keep.
+- La lluvia [cae] sobre el tejado de la escuela.
+  en: The rain falls on the school roof.
+
+tasks:
+- Este poema habla de una vuelta. Quien lo escribe está lejos de casa y, cada vez que llueve en la ciudad, piensa en el río del pueblo. No hace falta decir más: el tejado, el puente y la orilla hacen el trabajo. El último verso conviene oírlo sin prisa, porque es ahí donde el poema se queda con quien lo escucha.
+  task.en: Present an original poem in Spanish for a radio programme, in about one minute. Introduce the poem in two or three sentences, say what it is about without explaining it, and then read the final stanza aloud, in your own words, while keeping its last line exact.
+  rubric.en: meaning: the presentation names the poem's subject, the distance and the river, and the poem's last line is kept exact; register: a warm, unhurried radio voice, with no direct address that needs a form of tú or usted; structure: two or three sentences of introduction, then the stanza; idiom: hacer falta and hacer el trabajo are used in their normal senses; effect: the listener hears the pause before the last line and does not hear it explained.
+
+== 70 C2
+kind: revision
+numeral: Lección setenta
+title: Revisión y notas
+title.en: Revision and notes
+
+dialogue:
+- Clara: Buenas noches a quien ha venido a oír versos, que esta noche no hay otra cosa en carta.
+  en: Good evening to everyone who has come to hear verse, because tonight there is nothing else on the menu.
+  refs: 69
+- Julia: Empiezo yo, con el romance del cielo: «El cielo de la meseta / es un mar de luz callada».
+  en: I will start, with the romance about the sky: "The sky over the meseta / is a sea of still light".
+  refs: 64
+- Clara: Doce versos, Julia, y ni uno más. Lo he contado con los dedos antes de venir.
+  en: Twelve lines, Julia, and not one more. I counted them on my fingers before I came.
+  refs: 64
+- Julia: Pues ya ves: por la tarde sopla un viento que pasa sin tocar nada.
+  en: Well, you see: in the afternoon a wind blows that passes without touching anything.
+  refs: 64
+- Tomás: Yo después, con una copla. Mi aire acondicionado se rompió en agosto, sin ruido: «Te me fuiste en el agosto, / aire mío, mi querido».
+  en: I am after, with a copla. My air conditioner broke down in August, without a sound: "You left me in the August, / my air, my dear".
+  refs: 66
+- Julia: ¿Y todavía no lo ha arreglado nadie?
+  en: And nobody has fixed it yet?
+  refs: 66
+- Tomás: El técnico prometió venir el lunes, y todavía no ha llamado.
+  en: The technician promised to come on Monday, and he has still not called.
+  refs: 66
+- Clara: Pues el estribillo es lo único que funciona en esta casa. Cántalo, Tomás.
+  en: Then the refrain is the only thing that works in this place. Sing it, Tomás.
+  refs: 66
+- Tomás: «Ven, aire, que yo me muero, / que sin ti no sé vivir».
+  en: "Come back, air, for I am dying, / for without you I do not know how to live".
+  refs: 66
+- Marta: Yo leo algo sin rima: un poema de tren que escribí en el tren de ida, con el cuaderno en la rodilla.
+  en: I read something without rhyme: a train poem that I wrote on the train going in, with the notebook on my knee.
+  refs: 68
+- Julia: ¿Y no tiene medida?
+  en: And has it no measure?
+  refs: 68
+- Marta: Ni rima ni medida: cada verso acaba donde acaba el aire.
+  en: No rhyme and no measure: each line ends where the breath ends.
+  refs: 68
+- Julia: Pues en el tuyo el tren sale con la luz todavía de noche y llega con la de Madrid.
+  en: Well, in yours the train leaves with the light still night-time and arrives with the light of Madrid.
+  refs: 68
+- Marta: Y la gente se levanta toda a la vez, como si todos hubieran decidido que hoy era el día de empezar.
+  en: And everybody gets up all at once, as if everyone had decided that today was the day to begin.
+  refs: 68
+- Clara: Yo traigo tres eslóganes para la barra, que un café también es un sitio de versos. El primero dice: «Contra viento y marea, el café sigue abierto».
+  en: I have three slogans for the bar, because a café is also a place for verse. The first says: "Against all odds, the café stays open."
+  refs: 67
+- Tomás: Suena bien, aunque mi aire va a trancas y barrancas.
+  en: It sounds good, although my air conditioner goes with difficulty.
+  refs: 67
+- Clara: El segundo: «Erre que erre: el café sale caliente».
+  en: The second: "Stubbornly, the café comes out hot."
+  refs: 67
+- Julia: Pues eso me recuerda al poema de anoche en la radio, que también insiste: «Llueve sobre el río viejo».
+  en: Well, that reminds me of the poem on the radio last night, which also insists: "It rains over the old river".
+  refs: 69
+- Clara: Lo leyó una presentadora, y antes de la última frase hizo una pausa que duró una eternidad.
+  en: A presenter read it, and before the last sentence she made a pause that lasted an eternity.
+  refs: 69
+- Julia: Y yo me quedé con la pausa, no con la lluvia.
+  en: And I was left with the pause, not with the rain.
+  refs: 69
+- Samuel: Perdón, que me toca a mí. Llevo toda la noche con la libreta de los pedidos, y he escrito un poema con lo que me han pedido.
+  en: Sorry, it is my turn. I have had the order pad all night, and I have written a poem with what you have asked me for.
+  refs: 66
+- Clara: Adelante, Samuel, que aquí se lee sin pedir permiso.
+  en: Go ahead, Samuel, because here people read without asking permission.
+  refs: 69
+- Samuel: Dos cafés con un cortado, / y tostada de jamón, / dos zumos con un vermú: / son veintidós, con perdón.
+  en: Two coffees with a cortado, / and toast with ham, / two juices with a vermouth: / they come to twenty-two, with pardon.
+  refs: 64
+- Julia: Qué bonito. ¿Y de qué va?
+  en: How lovely. And what is it about?
+  refs: 65
+- Tomás: Espera, que el cortado lo he pedido yo, y me suena el precio.
+  en: Wait, I ordered the cortado, and the price sounds familiar.
+  refs: 64
+- Samuel: Es la cuenta, señores: mesa seis, veintidós con perdón.
+  en: It is the bill, ladies and gentlemen: table six, twenty-two with pardon.
+  refs: 64
+
+notes.en:
+This week's texts are lessons 64 to 69. Each section names its lesson and quotes its lines as they stand there, so the learner can find them. The scene is one evening, and each reader reads only the poem that is theirs.
+1. Verse and counting (lesson 64): the line that needs no join, the join itself, and a sentence that waits for its verb across the line.
+| Form | What it does | Line from lesson 64 |
+|---|---|---|
+| the line with no join | eight syllables with no vowel meeting another | Un pastor con el cayado |
+| the join | two vowels across a word boundary make one syllable | Por la tarde sopla un viento |
+| the sentence across the line | the subject comes first and the verb follows | El cielo de la meseta |
+2. Sound and the question (lessons 65 and 68): an essay that begins with a question, and a last line that is a plain fact.
+| Form | What it does | Line from lesson 65 |
+|---|---|---|
+| the question of the student | the essay starts from a question asked in class | Un alumno me preguntó una vez qué es poesía |
+| the last sentence as a fact | the poem ends on a sensation, not a definition | Lo leí en voz alta muchas veces |
+3. The copla and its refrain (lesson 66): a stanza of four lines, a refrain that comes back, and a shift from the imperfect to the present.
+| Form | What it does | Line from lesson 66 |
+|---|---|---|
+| the refrain | two lines that come back after each stanza | Ven, aire, que yo me muero |
+| the habit and the present | the imperfect for what used to be, the present for now | Tú me dabas cada día |
+| the plain image of loss | a silent machine stands for the loss | Ya no zumba en la ventana |
+4. Formulas and alliteration (lesson 67): a pair of words that keeps its meaning, a pair that is only sound, and a repetition that suits the idea.
+| Form | What it does | Line from lesson 67 |
+|---|---|---|
+| the pair with its meaning | a formula used in its normal sense | a trancas y barrancas |
+| the pair that is only sound | a rhyme that means nothing special | Sin ton ni son suena a rima |
+| the stubborn repetition | the sound that fits the idea | Erre que erre sirve para la testarudez |
+5. Reading aloud (lessons 68 and 69): a free-verse train poem and a radio poem that return to their first line and leave a pause.
+| Form | What it does | Line from lesson 68 or 69 |
+|---|---|---|
+| the refrain of the radio poem | the first line comes back and the poem closes where it began | Llueve sobre el río viejo |
+| the river in memory | the river is a place the speaker remembers | Pasa el agua por el puente |
+| the pause at the stop | the verse stops and the reader stops with it | Dentro, nadie habla |
+
+tasks:
+- Ya en la barra, una tarde / alguien lee sin prisa, / y el café se enfría / sin que nadie lo note. / Al final, nadie pide la cuenta: / todos se quedan para oír el último verso.
+  task.en: Write a short poem in Spanish in any form of this week (a copla, a romance stanza, free verse or a slogan) about the evening in this lesson. Use words that the lesson already has, and make the last line turn the poem.
+  rubric.en: meaning: the poem stays with the evening, the reading and the café, with nothing added about the poets; register: plain and warm, with tú if anyone is addressed; structure: the chosen form is kept, with its count and rhyme if it is a copla or a romance stanza, and free lines if it is free verse; idiom: pedir la cuenta is used in its normal sense; effect: the last line turns the poem, and the reader hears the ending before it is said.

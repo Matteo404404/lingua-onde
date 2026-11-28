@@ -1102,3 +1102,577 @@ Si usa é con l'una e são con tutte le altre ore, come in italiano si dice sono
 | 100 | cem | | |
 
 Chiudiamo la settimana: il ripasso è fatto, e da qui in avanti ogni lezione porta soltanto qualche parola nuova. Ci vediamo nella lezione 15, dove qualcuno risponderà al telefono.
+
+== 15 A1
+numeral: Décima quinta lição
+numeral.pron.it: *dè*sima *chiⁿ*ta li*sauⁿ*
+title: Estou?
+title.it: Pronto?
+
+dialogue:
+- Estou?
+  it: Pronto?
+  pron.it: 'sh*tó*?
+- Olá, sou eu. O que é que estás a fazer?
+  it: Ciao, sono io. Che cosa stai facendo?
+  pron.it: ò*la*, so éu. u chè chë 'sh*tash* a fa*zér*?
+- Estou a cozinhar bacalhau.
+  it: Sto cucinando il baccalà.
+  pron.it: 'sh*tó* a cuzi*gnar* baca*gliau*.
+- Bacalhau? Sabes fazer bacalhau?
+  it: Baccalà? Sai fare il baccalà?
+  pron.it: baca*gliau*? *sa*bësh fa*zér* baca*gliau*?
+- Estou a ler a receita da tua mãe.
+  it: Sto leggendo la ricetta di tua madre.
+  pron.it: 'sh*tó* a lér a rrë*sèi*ta da *tu*a maiⁿ.
+- E então?
+  it: E allora?
+  pron.it: i eⁿ*tauⁿ*?
+- E então comemos pão com queijo. Não percebo a letra dela.
+  it: E allora mangiamo pane e formaggio. Non riesco a decifrare la sua calligrafia.
+  pron.it: i eⁿ*tauⁿ* cu*mé*mush pauⁿ coⁿ *chèi*ju. nauⁿ për*sé*bu a *lé*tra *dè*la.
+
+sounds.it:
+1. Il lh si dice gli, come in figlio: bacalhau si legge baca*gliau*, con l'accento sull'ultima sillaba.
+2. Il qu davanti a e si dice ch, come in che: queijo si legge *chèi*ju, e la j finale è la j di garage.
+
+notes.it:
+1. Estou?: è il modo di rispondere al telefono in Portogallo. Il verbo è estar, stare, ma qui è una formula da usare così.
+2. Olá, sou eu: ciao, sono io. Sou è il presente di ser, che dice chi si è (sou italiano, lezione 2): qui dice chi parla.
+3. O que é que estás a fazer?: "o que é que" introduce una domanda, ed è molto usato in Portogallo. Estás a fazer è estar a + infinito (lezione 9): stai facendo.
+4. Sabes fazer bacalhau?: sabes è il presente di saber, sapere (lezione 11), e con un infinito vuol dire saper fare: sai fare.
+5. A receita da tua mãe: da è de + a, la contrazione della lezione 4 (do Rossio). Tua è il femminile di teu (lezione 11): tua madre.
+6. Comer, mangiare: como, comes, come, comemos, comem. Le desinenze dei verbi in -er sono quasi quelle dei verbi italiani in -ere (credo, credi, crede). Ler, leggere, è irregolare: leio, lês, lê.
+7. Não percebo: perceber vuol dire capire. In italiano percepire è un'altra cosa, sentire o notare, e il portoghese non lo usa in questo senso. Dela, di lei, la vedremo meglio nella lezione 19.
+8. Letra vuol dire anche lettera dell'alfabeto, ma qui è la scrittura a mano: la calligrafia di tua madre.
+
+ex1:
+- Comemos pão com queijo ao domingo.
+  it: La domenica mangiamo pane e formaggio.
+- O que é que estás a ler?
+  it: Che cosa stai leggendo?
+- Não percebo a receita.
+  it: Non capisco la ricetta.
+- Comemos bacalhau ao domingo.
+  it: La domenica mangiamo il baccalà.
+- Sabes fazer pão?
+  it: Sai fare il pane?
+
+ex2:
+- [Comemos] pão com queijo.
+  it: Mangiamo pane e formaggio.
+- O que é que [estás] a ler?
+  it: Che cosa stai leggendo?
+- Olá, [sou] eu.
+  it: Ciao, sono io.
+- [Comemos] bacalhau ao domingo.
+  it: La domenica mangiamo il baccalà.
+- Não [sei] fazer bacalhau.
+  it: Non so fare il baccalà.
+
+culture.it:
+Il bacalhau è il merluzzo salato e essiccato, pescato nell'Atlantico del Nord. In Portogallo è un piatto di tutti i giorni, e si dice che le sue ricette siano tante quanti sono i giorni dell'anno: un modo di dire, ma rende l'idea. La sera di Natale, la consoada, il piatto tradizionale è a base di bacalhau. Bom apetite!
+
+== 16 A1
+numeral: Décima sexta lição
+numeral.pron.it: *dè*sima *sèish*ta li*sauⁿ*
+title: Todos os dias
+title.it: Tutti i giorni
+
+dialogue:
+- A que horas te levantas?
+  it: A che ora ti alzi?
+  pron.it: a chë *ò*rash të lë*vaⁿ*tash?
+- Levanto-me às seis.
+  it: Mi alzo alle sei.
+  pron.it: lë*vaⁿ*tu-më ash sèish.
+- Todos os dias?
+  it: Tutti i giorni?
+  pron.it: *tó*du zush *di*ash?
+- Quase sempre. Vou a pé para o trabalho.
+  it: Quasi sempre. Vado a piedi al lavoro.
+  pron.it: *cua*zë *seⁿ*prë. vo a pè *pa*ra u tra*ba*gliu.
+- E ao sábado?
+  it: E il sabato?
+  pron.it: i au *sa*badu?
+- Ao sábado levanto-me às cinco.
+  it: Il sabato mi alzo alle cinque.
+  pron.it: au *sa*badu lë*vaⁿ*tu-më ash *siⁿ*cu.
+- Às cinco? Porquê?
+  it: Alle cinque? Perché?
+  pron.it: ash *siⁿ*cu? pur*ché*?
+- Porque a minha mulher dorme até tarde, e o pequeno-almoço é só meu.
+  it: Perché mia moglie dorme fino a tardi, e la colazione è solo mia.
+  pron.it: *pur*chë a *mi*gna mu*glièr* *dòr*më a*tè* *tar*dë, i u pë*ché*nu-al*mó*su è sò méu.
+
+sounds.it:
+1. Il lh di mulher si dice gli, come in figlio: mulher si legge mu*glièr*, con la è aperta e l'accento sull'ultima sillaba.
+2. Nel verbo riflessivo la e di -me è debolissima: levanto-me si legge lë*vaⁿ*tu-më, con la prima e appena accennata.
+
+notes.it:
+1. Levanto-me: levantar-se vuol dire alzarsi. In una frase affermativa il pronome va dopo il verbo, con il trattino: levanto-me, mi alzo. È il contrario dell'italiano, che lo mette davanti.
+2. A que horas te levantas?: dopo una parola interrogativa il pronome va davanti al verbo, come in italiano: te levantas, ti alzi. Lo stesso con não: não me levanto, non mi alzo.
+3. Todos os dias: ogni giorno, tutti i giorni. Quase sempre vuol dire quasi sempre, e sempre è la parola della lezione 13.
+4. Vou a pé para o trabalho: vou è la prima persona di ir, andare, che vedremo nella lezione 18. A pé vuol dire a piedi (lezione 10), e para o trabalho resta in due parole: para non si contrae con o.
+5. Ao sábado: il sabato, di sabato in generale, ogni sabato. Per il sabato di questa settimana si dice no sábado, lo vedremo nella lezione 21.
+6. Porquê?: si scrive con l'accento quando è da solo, in fondo a una domanda. Nella risposta si dice porque: perché.
+7. Mulher vuol dire donna e moglie. Pequeno-almoço vuol dire colazione: in Brasile si dice café da manhã.
+8. Dorme è di dormir, dormire: lo vedremo meglio nella lezione di ripasso.
+
+ex1:
+- Quase sempre vou a pé.
+  it: Quasi sempre vado a piedi.
+- Não me levanto às seis.
+  it: Non mi alzo alle sei.
+- Porque é que te levantas às cinco?
+  it: Perché ti alzi alle cinque?
+- O pequeno-almoço é teu?
+  it: La colazione è tua?
+- Também ao sábado?
+  it: Anche il sabato?
+
+ex2:
+- Todos os dias [vou] a pé.
+  it: Ogni giorno vado a piedi.
+- [Levanto-me] às seis.
+  it: Mi alzo alle sei.
+- A que horas [te] levantas?
+  it: A che ora ti alzi?
+- Não [me] levanto às cinco.
+  it: Non mi alzo alle cinque.
+- A minha [mulher] dorme até tarde.
+  it: Mia moglie dorme fino a tardi.
+
+culture.it:
+I giorni della settimana, da lunedì a venerdì, sono segunda-feira, terça-feira, quarta-feira, quinta-feira e sexta-feira: sono numeri a partire dalla domenica, secondo un'antica usanza della Chiesa. Sábado viene dall'ebraico, e domingo è il giorno del Signore. Per salutare si dice bom fim de semana.
+
+== 17 A1
+numeral: Décima sétima lição
+numeral.pron.it: *dè*sima *sè*tima li*sauⁿ*
+title: No centro de saúde
+title.it: Dal medico
+
+dialogue:
+- Então, o que é que tem?
+  it: Allora, che cos'ha?
+  pron.it: eⁿ*tauⁿ*, u chè chë teiⁿ?
+- Dói-me a cabeça, senhor doutor.
+  it: Mi fa male la testa, dottore.
+  pron.it: dòi-ma ca*bé*sa, së*gnór* do*tór*.
+- Desde quando?
+  it: Da quando?
+  pron.it: *déj*dë *cuaⁿ*du?
+- Desde segunda-feira.
+  it: Da lunedì.
+  pron.it: *déj*dë së*guⁿ*da-*fèi*ra.
+- Qual é a sua profissão?
+  it: Qual è la sua professione?
+  pron.it: cual è a *su*a prufi*sauⁿ*?
+- Sou professor de português para estrangeiros.
+  it: Sono professore di portoghese per stranieri.
+  pron.it: so pru'f*sór* dë purtu*ghésh* *pa*ra 'shtraⁿ*jèi*rush.
+- Ah. Tem de descansar. Duas semanas sem verbos irregulares.
+  it: Ah. Deve riposare. Due settimane senza verbi irregolari.
+  pron.it: a. teiⁿ dë dëshcaⁿ*sar*. *du*ash së*ma*nash seiⁿ *vér*bu zi'rrgu*la*rësh.
+
+sounds.it:
+1. La e di pro-fes-sor sparisce, e la sillaba accentata è l'ultima: professor si legge pru'f*sór*.
+2. Il ç di cabeça è una s sorda: ca*bé*sa, come in sole.
+
+notes.it:
+1. O que é que tem?: vuol dire che cos'ha, cioè che cosa non va. Non vuol dire "che cosa possiede": tem è il presente di ter, avere (lezione 8), usato qui per la salute.
+2. Dói-me a cabeça: doer, fare male. In portoghese la cosa che fa male è il soggetto (a cabeça dói), e la persona è un pronome dopo il verbo (me): mi fa male la testa.
+3. Desde quando?: da quando? Desde vuol dire da, nel senso di a partire da: desde segunda-feira, da lunedì.
+4. Qual é a sua profissão?: a sua è il possessivo seu, sua della lezione 14, usato qui con il senhor: la sua professione.
+5. Sou professor, estou cansado: ser dice che cosa una persona è (sono professore), estar come sta adesso (sono stanco, lezione 3). L'italiano usa essere per tutti e due.
+6. Tem de descansar: ter de più infinito vuol dire dovere: deve riposare. In Brasile si dice più spesso ter que.
+
+ex1:
+- Estou cansado desde segunda-feira.
+  it: Sono stanco da lunedì.
+- A senhora tem de descansar.
+  it: La signora deve riposare.
+- Sou professor de português.
+  it: Sono professore di portoghese.
+- Qual é a tua profissão?
+  it: Qual è il tuo lavoro?
+- Não me dói a cabeça.
+  it: Non mi fa male la testa.
+
+ex2:
+- Dói-me a [cabeça].
+  it: Mi fa male la testa.
+- Sou [professor] de português.
+  it: Sono professore di portoghese.
+- Tem [de] descansar.
+  it: Deve riposare.
+- Estou [cansado] desde segunda-feira.
+  it: Sono stanco da lunedì.
+- O que é que [tem]?
+  it: Che cos'ha?
+
+culture.it:
+In Portogallo la sanità pubblica si riceve al centro de saúde. Ognuno ha un médico de família e un número de utente, il numero con cui è iscritto al servizio sanitario. Doutor è il titolo che si dà ai medici e, più in generale, a chi ha una laurea: per questo il paziente dice senhor doutor.
+
+aside.it:
+Sei quasi arrivato alla terza settimana: le cose cominciano ad assestarsi da sole.
+
+== 18 A1
+numeral: Décima oitava lição
+numeral.pron.it: *dè*sima oi*ta*va li*sauⁿ*
+title: Vamos ao cinema?
+title.it: Andiamo al cinema?
+
+dialogue:
+- Queres ir ao cinema hoje?
+  it: Vuoi andare al cinema oggi?
+  pron.it: *chè*rë *zir* au si*né*ma *ó*jë?
+- Hoje não posso. Amanhã pode ser.
+  it: Oggi non posso. Domani può essere.
+  pron.it: *ó*jë nauⁿ *pò*su. ama*gnaⁿ* *pò*dë sér.
+- Amanhã há um filme italiano.
+  it: Domani c'è un film italiano.
+  pron.it: ama*gnaⁿ* a uⁿ *fil*më ita*lia*nu.
+- Em italiano?
+  it: In italiano?
+  pron.it: eiⁿ ita*lia*nu?
+- Sim, com legendas em português.
+  it: Sì, con i sottotitoli in portoghese.
+  pron.it: siⁿ, coⁿ lë*jeⁿ*da zeiⁿ purtu*ghésh*.
+- Então quero.
+  it: Allora sì (allora voglio).
+  pron.it: eⁿ*tauⁿ* *chè*ru.
+- Mas tu és italiano. Para quê as legendas?
+  it: Ma tu sei italiano. Per che cosa i sottotitoli?
+  pron.it: mash tu è zita*lia*nu. *pa*ra ché ash lë*jeⁿ*dash?
+- Para aprender português, claro.
+  it: Per imparare il portoghese, certo.
+  pron.it: *pa*ra apreⁿ*dér* purtu*ghésh*, *cla*ru.
+
+sounds.it:
+1. La s finale di legendas si dice sh, come in scena ma più breve: lë*jeⁿ*dash, con la g che si dice j.
+2. Il nh di amanhã si dice gn, come in bagno, e la vocale è nasale: ama*gnaⁿ*.
+
+notes.it:
+1. Queres ir: querer vuol dire volere e ir vuol dire andare. Il presente è quero, queres, quer, e la forma seguita da un infinito, come querer ir, è come in italiano: vuoi andare.
+2. Ao cinema: a + o si scrive ao, come ao domingo (lezione 10). Ir a vuol dire andare a un posto: ir ao cinema, andare al cinema.
+3. Hoje não posso: poder vuol dire potere, e il presente è posso, podes, pode. Anche qui si usa con l'infinito, come in italiano.
+4. Pode ser: può darsi, va bene, perché no. Si usa per accettare una proposta.
+5. Ir: vou, vais, vai, vamos, vão. Lo ritrovi nella lezione 16 (vou a pé) e in questa.
+6. Em italiano: in italiano. Con il nome di una lingua non si mette l'articolo: em italiano, em português.
+7. Legendas sono i sottotitoli. Non confonderle con lenda, che è la leggenda.
+8. Para aprender: per imparare. Para con l'infinito vuol dire per fare qualcosa, e claro vuol dire certo, naturalmente.
+
+ex1:
+- Queres ir a pé ao cinema?
+  it: Vuoi andare al cinema a piedi?
+- Amanhã não posso.
+  it: Domani non posso.
+- Quero ver um filme italiano.
+  it: Voglio vedere un film italiano.
+- Pode ser hoje?
+  it: Può essere oggi?
+- Tu és italiano, claro.
+  it: Tu sei italiano, certo.
+
+ex2:
+- [Queres] ir ao cinema amanhã?
+  it: Vuoi andare al cinema domani?
+- Hoje não [posso].
+  it: Oggi non posso.
+- Amanhã [pode] ser.
+  it: Domani può essere.
+- Quero um filme [com] legendas.
+  it: Voglio un film con i sottotitoli.
+- Para [quê] as legendas?
+  it: Per che cosa i sottotitoli?
+
+culture.it:
+In Portogallo i film e le serie straniere si sottotitolano, invece di essere doppiati: i cartoni animati sono l'eccezione. Chi guarda film in lingua originale sente molto l'inglese, e si dice spesso che proprio per questo molti portoghesi lo parlano bene.
+
+== 19 A1
+numeral: Décima nona lição
+numeral.pron.it: *dè*sima *nó*na li*sauⁿ*
+title: Parabéns!
+title.it: Auguri!
+
+dialogue:
+- Parabéns! De quem são os anos?
+  it: Auguri! Di chi è il compleanno?
+  pron.it: para*beiⁿsh*! dë cheiⁿ sauⁿ u *za*nush?
+- Do meu avô. Faz cem anos hoje.
+  it: Di mio nonno. Oggi compie cento anni.
+  pron.it: du méu a*vó*. fash seiⁿ *a*nu *zó*jë.
+- Cem anos! Qual é o segredo dele?
+  it: Cento anni! Qual è il suo segreto (il segreto di lui)?
+  pron.it: seiⁿ *a*nush! cual è u së*gré*du *dé*lë?
+- Ele diz que é um copo de vinho tinto todos os dias.
+  it: Dice che è un bicchiere di vino rosso ogni giorno.
+  pron.it: *é*lë dish chè uⁿ *cò*pu dë *vi*gnu *tiⁿ*tu *tó*du zush *di*ash.
+- E o médico dele?
+  it: E il suo dottore?
+  pron.it: i u *mè*dicu *dé*lë?
+- O médico diz que é a sopa.
+  it: Il dottore dice che è la zuppa.
+  pron.it: u *mè*dicu dish chè a *só*pa.
+- E quem tem razão?
+  it: E chi ha ragione?
+  pron.it: i cheiⁿ teiⁿ rra*zauⁿ*?
+- O avô diz que o médico é muito novo para perceber.
+  it: Il nonno dice che il dottore è troppo giovane per capire.
+  pron.it: u a*vó* dish cu *mè*dicu è *muiⁿ*tu *nó*vu *pa*ra për's*bér*.
+
+sounds.it:
+1. La in di tinto è una i nasale: la n non si sente, e tinto si legge *tiⁿ*tu.
+2. Il nh di vinho si dice gn: *vi*gnu, come in bagno.
+
+notes.it:
+1. Parabéns: auguri, complimenti. Si dice da sola, come l'italiano auguri, senza articolo.
+2. De quem são os anos?: de quem vuol dire di chi (lezione 12). Os anos sono i compleanni: di chi è il compleanno. Fazer anos vuol dire compiere gli anni.
+3. Faz cem anos hoje: oggi compie cento anni; faz è la terza persona di fazer, fare. Per l'età si usa il verbo ter, avere: tenho trinta anos.
+4. Qual é o segredo dele?: dele vuol dire di lui, e viene dopo il nome, come dela di lei (la letra dela, lezione 15): o segredo dele. O seu potrebbe essere di lui, di lei o di Lei: dele è chiaro, vuol dire di lui.
+5. Ele diz que é um copo: dizer vuol dire dire, e diz è la terza persona: lo vedremo meglio nella lezione 26. Que introduce la frase, come in italiano che.
+6. Vinho tinto è il vino rosso: tinto vuol dire colorato di rosso, e vinho branco è quello bianco. Copo è il bicchiere.
+7. Quem tem razão?: quem vuol dire chi. Ter razão vuol dire avere ragione: ter è avere, come in italiano.
+8. Novo vuol dire giovane, e anche nuovo: muito novo, molto giovane. Qui è il significato di giovane.
+
+ex1:
+- Faz cem anos amanhã.
+  it: Compie cento anni domani.
+- De quem é o copo?
+  it: Di chi è il bicchiere?
+- O vinho tinto é bom.
+  it: Il vino rosso è buono.
+- Ele tem razão.
+  it: Lui ha ragione.
+- O médico é novo.
+  it: Il dottore è giovane.
+
+ex2:
+- Faz cem [anos] hoje.
+  it: Oggi compie cento anni.
+- Qual é o segredo [dele]?
+  it: Qual è il suo segreto?
+- [Quem] tem razão?
+  it: Chi ha ragione?
+- O avô diz que o médico é [muito] novo.
+  it: Il nonno dice che il dottore è molto giovane.
+- Ele diz que é um [copo] de vinho tinto.
+  it: Dice che è un bicchiere di vino rosso.
+
+culture.it:
+"Parabéns a você" è la canzone di compleanno: si canta sulla stessa melodia dell'inglese "Happy birthday", con parole portoghesi.
+
+== 20 A1
+numeral: Vigésima lição
+numeral.pron.it: vi*jè*zima li*sauⁿ*
+title: Ainda há?
+title.it: Ce n'è ancora?
+
+dialogue:
+- Boa tarde. Esta tasca ainda tem bacalhau?
+  it: Buon pomeriggio. Questa trattoria ha ancora baccalà?
+  pron.it: *bó*a *tar*dë. *èsh*ta *tash*ca a*iⁿ*da teiⁿ baca*gliau*?
+- Já não há.
+  it: Non c'è più.
+  pron.it: ja nauⁿ a.
+- E sardinhas?
+  it: E le sardine?
+  pron.it: i sar*di*gnash?
+- Também já não.
+  it: Anche quelle, non ci sono più.
+  pron.it: taⁿ*beiⁿ* ja nauⁿ.
+- Então o que é que ainda há?
+  it: Allora che cosa c'è ancora?
+  pron.it: eⁿ*tauⁿ* u chè ca*iⁿ*da a?
+- Ainda há sopa.
+  it: C'è ancora la zuppa.
+  pron.it: a*iⁿ*da a *só*pa.
+- Sopa de quê?
+  it: Zuppa di che cosa?
+  pron.it: *só*pa dë ché?
+- De tudo o que já não há.
+  it: Di tutto quello che non c'è più.
+  pron.it: dë *tu*du u chë ja nauⁿ a.
+
+sounds.it:
+1. La s di sardinhas si dice sh, e il nh è gn: sardinhas si legge sar*di*gnash.
+2. Il já si dice ja: la á è una a piena, come in casa, e la voce cade su di lei.
+
+notes.it:
+1. Ainda vuol dire ancora, ancora adesso: ainda há sopa, c'è ancora la zuppa. Lo abbiamo già visto con ainda não, non ancora (lezione 13).
+2. Já vuol dire già, ma con não diventa non più: já não há, non c'è più.
+3. Também já não: neanche più. Também vuol dire anche, e con não diventa neanche (lezione 13): qui, anche quelle non ci sono più.
+4. Sardinhas: il plurale di sardinha, sardina: il plurale si fa con la s finale.
+5. De quê?: la forma con l'accento di que, usata alla fine della domanda: sopa de quê vuol dire zuppa di che cosa.
+6. Há: c'è, ci sono (lezione 10), invariabile. Non cambia nemmeno con il plurale: há sopa, há sardinhas.
+7. Tudo o que já não há: tutto quello che non c'è più. Tudo è tutto e o que è il che relativo: è una risposta che capovolge la domanda.
+8. Ainda non vuol dire di nuovo: per di nuovo si dice outra vez, e ainda resta sempre per ancora.
+
+ex1:
+- Ainda há sardinhas?
+  it: C'è ancora qualche sardina?
+- Também já não há pão.
+  it: Neanche il pane c'è più.
+- Já não estou cansado.
+  it: Non sono più stanco.
+- Pão de quê?
+  it: Pane di che tipo?
+- Tudo o que ainda há.
+  it: Tutto quello che c'è ancora.
+
+ex2:
+- [Já] não há bacalhau.
+  it: Non c'è più baccalà.
+- Ainda [não] chegou.
+  it: Non è ancora arrivato.
+- Sopa de [quê]?
+  it: Zuppa di che cosa?
+- [Também] já não há sardinhas.
+  it: Anche le sardine non ci sono più.
+- [Tudo] o que já não há.
+  it: Tutto quello che non c'è più.
+
+culture.it:
+La tasca è una trattoria semplice e familiare, con pochi tavoli e il cibo di casa. Spesso ha il prato do dia, il piatto del giorno, scritto su un cartello. Il caldo verde, una zuppa di patate e cavolo verde tagliato a striscioline, è una delle zuppe portoghesi più note.
+
+== 21 A1
+kind: revision
+numeral: Vigésima primeira lição
+numeral.pron.it: vi*jè*zima pri*mèi*ra li*sauⁿ*
+title: Revisão
+title.it: Ripasso
+
+dialogue:
+- Estou?
+  it: Pronto?
+  pron.it: 'sh*tó*?
+  refs: 15
+- Olá, sou eu. Queres ir ao cinema no sábado?
+  it: Ciao, sono io. Vuoi andare al cinema sabato?
+  pron.it: ò*la*, so éu. *chè*rë *zir* au si*né*ma nu *sa*badu?
+  refs: 15 18
+- Posso. Às oito?
+  it: Posso. Alle otto?
+  pron.it: *pò*su. a *zoi*tu?
+  refs: 13 18
+- Às oito, sim. E onde é que comemos?
+  it: Alle otto, sì. E dove mangiamo?
+  pron.it: a *zoi*tu, siⁿ. i *oⁿ*dë è chë cu*mé*mush?
+  refs: 13 15
+- Em casa da tua mãe.
+  it: A casa di tua madre.
+  pron.it: eiⁿ *ca*za da *tu*a maiⁿ.
+  refs: 15
+- Porquê? A minha mãe faz bacalhau?
+  it: Perché? Mia madre fa il baccalà?
+  pron.it: pur*ché*? a *mi*gna maiⁿ fash baca*gliau*?
+  refs: 15 16 19
+- Faz. E o bacalhau dela é ótimo.
+  it: Sì (fa). E il suo baccalà è ottimo.
+  pron.it: fash. i u baca*gliau* *dè*la è *ò*timu.
+  refs: 11 15 19
+- É, sim. Mas porquê no sábado?
+  it: È vero. Ma perché sabato?
+  pron.it: è, siⁿ. mash pur*ché* nu *sa*badu?
+  refs: 2 16
+- Tu não sabes?
+  it: Non lo sai?
+  pron.it: tu nauⁿ *sa*bësh?
+  refs: 11
+- Não.
+  it: No.
+  pron.it: nauⁿ.
+  refs: 4
+- A tua mãe faz anos no sábado.
+  it: Tua madre compie gli anni sabato.
+  pron.it: a *tu*a maiⁿ fa *za*nush nu *sa*badu.
+  refs: 16 19
+- A minha mãe faz anos no sábado?!
+  it: Mia madre compie gli anni sabato?!
+  pron.it: a *mi*gna maiⁿ fa *za*nush nu *sa*badu?!
+  refs: 16 19
+
+notes.it:
+Hai fatto ventuno lezioni. Non serve imparare a memoria queste tabelle: i dubbi sono normali, e il portoghese si impara parlando, non solo sui libri. Qui trovi in ordine quello che le ultime sei lezioni hanno portato.
+
+1. Verbi in -er e in -ir al presente (lezioni 15, 16)
+
+| Persona | comer (mangiare) | dormir (dormire) |
+|---|---|---|
+| eu | como | durmo |
+| tu | comes | dormes |
+| você, ele, ela, o senhor, a senhora | come | dorme |
+| nós | comemos | dormimos |
+| vocês, eles, elas, os senhores | comem | dormem |
+
+Le uscite dei verbi in -er sono quasi quelle dell'italiano. Dormir cambia la o in u solo nella prima persona: durmo, ma dormes e dorme (lezione 16). Ler, leggere, fa leio, lês, lê, lemos, leem (lezione 15).
+
+2. Verbi irregolari al presente (lezioni 11, 15, 16, 18)
+
+| Persona | ir (andare) | querer (volere) | poder (potere) | saber (sapere) | fazer (fare) |
+|---|---|---|---|---|---|
+| eu | vou | quero | posso | sei | faço |
+| tu | vais | queres | podes | sabes | fazes |
+| você, ele, ela, o senhor, a senhora | vai | quer | pode | sabe | faz |
+| nós | vamos | queremos | podemos | sabemos | fazemos |
+| vocês, eles, elas, os senhores | vão | querem | podem | sabem | fazem |
+
+Sabes è nella lezione 11, vou nella 16, queres e posso nella 18. Faço, fazes e fazemos sono forme di completamento: fazer compare nella lezione 15, faz nella 19.
+
+3. Ser ed estar: le differenze (lezioni 2, 3, 9, 15, 17)
+
+| Uso | Esempio | Italiano |
+|---|---|---|
+| che cosa o chi una cosa è (ser) | sou professor (17) | sono professore |
+| come si sta adesso, dove si è (estar) | estou cansado (17) | sono stanco |
+| un'azione in corso, estar a + infinito | estou a ler (15) | sto leggendo |
+
+L'italiano usa essere per tutti e tre. Il portoghese distingue ser da estar, e estar a + infinito dice che l'azione è in corso.
+
+4. Verbi riflessivi e posto del pronome (lezione 16)
+
+| Frase | Esempio | Italiano |
+|---|---|---|
+| affermativa: il pronome dopo il verbo | levanto-me às seis (16) | mi alzo alle sei |
+| dopo não: il pronome prima del verbo | não me levanto às cinco (16) | non mi alzo alle cinque |
+| dopo una parola interrogativa: prima del verbo | a que horas te levantas? (16) | a che ora ti alzi? |
+
+Il pronome dopo il verbo, con il trattino, è la regola delle frasi semplici: dói-me a cabeça (17) ha lo stesso schema.
+
+5. Ter de, dele e dela contro o seu (lezioni 15, 17, 19)
+
+| Forma | Esempio | Italiano |
+|---|---|---|
+| ter de + infinito | tem de descansar (17) | deve riposare |
+| dele, di lui, dopo il nome | o segredo dele (19) | il segreto di lui |
+| dela, di lei, dopo il nome | a letra dela (15) | la sua calligrafia |
+
+O seu può voler dire di lui, di lei o di Lei: per questo dele e dela sono più chiari.
+
+6. Parole interrogative (lezioni 4, 10, 12, 13, 15, 16, 19, 20)
+
+| Parola | Esempio | Italiano |
+|---|---|---|
+| o que é que | o que é que estás a fazer? (15) | che cosa stai facendo? |
+| quem | quem tem razão? (19) | chi ha ragione? |
+| onde | onde fica a estação? (4) | dov'è la stazione? |
+| quando | então quando chegam? (13) | allora quando arrivano? |
+| qual | qual é a farmácia de serviço? (10) | qual è la farmacia di turno? |
+| de quem | de quem é esta toalha? (12) | di chi è questo asciugamano? |
+| a que horas | a que horas te levantas? (16) | a che ora ti alzi? |
+| porquê | às cinco? Porquê? (16) | alle cinque? Perché? |
+| de quê | sopa de quê? (20) | zuppa di che cosa? |
+
+7. Ainda, já, já não, também não (lezioni 13, 20)
+
+| Parola | Esempio | Italiano |
+|---|---|---|
+| ainda | ainda há sopa (20) | c'è ancora la zuppa |
+| já não | já não há (20) | non c'è più |
+| ainda não | ainda não chegou (13) | non è ancora arrivato |
+| também não | também não (13) | neanche quello |
+
+I giorni della settimana sono segunda-feira, terça-feira, quarta-feira, quinta-feira, sexta-feira, sábado e domingo. I mesi, con la minuscola come nell'ortografia del 1990, sono janeiro, fevereiro, março, abril, maio, junho, julho, agosto, setembro, outubro, novembro e dezembro.
+
+Chiudiamo il ripasso: ci vediamo nella lezione 22, dove impareremo a dire questo e quello.

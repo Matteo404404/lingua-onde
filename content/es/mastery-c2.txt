@@ -7425,3 +7425,775 @@ tasks:
 - Estimado señor Varela: le escribo para darle las gracias por la paciencia que tuvo con mi madre durante el invierno. Cada vez que le preguntábamos algo, nos lo explicaba despacio, sin hacernos sentir pesados, y eso nos ayudó más de lo que usted cree. Espero que algún día podamos devolverle el favor. Atentamente, Pablo Serrano.
   task.en: Write a letter of thanks of about 80 words to a doctor who was patient with your mother during the winter, in usted, ending with a formal close.
   rubric.en: meaning: the letter thanks the doctor for one specific kindness and says what it meant; register: usted, formal and warm; structure: greeting, thanks, one example, the wish to return the favour, formal close; idiom: dar las gracias and atentamente are used in their normal senses; effect: the example makes the thanks precise, not general.
+
+== 92 C2
+numeral: Lección noventa y dos
+title: Del latín al castellano
+title.en: From Latin to Castilian
+
+dialogue:
+- El latín que se hablaba en las provincias del Imperio romano no era el de Cicerón, sino una lengua viva del mercado, del campo y de los soldados.
+  en: The Latin spoken in the provinces of the Roman Empire was not Cicero's Latin, but a living language of the market, the countryside and the soldiers.
+- Con los siglos, cada zona se fue alejando de las demás, y de ese latín hablado nacieron las lenguas romances: el gallego, el portugués, el catalán, el occitano, el francés, el italiano y el castellano.
+  en: Over the centuries each area drifted away from the others, and from that spoken Latin came the Romance languages: Galician, Portuguese, Catalan, Occitan, French, Italian and Castilian.
+- Nadie decidió que el castellano naciera en una fecha concreta; se fue formando de un habla que dejó de ser latín sin que nadie lo anunciara.
+  en: Nobody decided that Castilian should be born on a particular date; it formed out of a speech that stopped being Latin without anyone announcing it.
+- Las glosas emilianenses, según la tradición, están entre los primeros testimonios escritos del romance: son anotaciones al margen de un manuscrito latino del monasterio de San Millán de la Cogolla, en La Rioja.
+  en: The Glosas Emilianenses are traditionally counted among the earliest written traces of the vernacular: they are notes in the margin of a Latin manuscript from the monastery of San Millán de la Cogolla, in La Rioja.
+- Quien las escribió no pensaba en la historia de su lengua: anotaba, al margen, cómo se decían en su tiempo algunas palabras difíciles del texto latino.
+  en: The person who wrote them was not thinking about the history of their language: in the margin they noted how some difficult words of the Latin text were said in their own time.
+- Así entró el romance en la historia, por la puerta de una tarea rutinaria y no por la de un gran acontecimiento.
+  en: That is how the vernacular entered history: through the door of a routine task, not through a great event.
+- Más adelante, la lengua se afirmó con obras de mayor empeño. El Cantar de mio Cid, poema épico de Castilla, se conserva en un único manuscrito, copiado en 1207 por un copista llamado Per Abbat.
+  en: Later the language grew stronger through works of greater ambition. The Cantar de mio Cid, an epic poem of Castile, survives in a single manuscript, copied in 1207 by a copyist called Per Abbat.
+- Alfonso X el Sabio, que reinó en el siglo XIII, dio al castellano el trabajo que hasta entonces había tenido el latín: las leyes, la historia y la ciencia.
+  en: Alfonso X the Wise, who reigned in the thirteenth century, gave Castilian the work that Latin had done until then: the law, history and science.
+- Sus juristas redactaron en castellano las Siete Partidas, y sus cronistas contaron la historia de España en esa misma lengua.
+  en: His jurists drafted the Siete Partidas in Castilian, and his chroniclers told the history of Spain in that same language.
+- Con él, el castellano empezó a ocupar sitios que hasta entonces eran del latín.
+  en: With it, Castilian began to occupy places that had belonged to Latin until then.
+- Sería exagerado decir que el castellano era entonces la lengua del saber, pero dejó de ser una lengua sin lugar en los documentos.
+  en: It would be an exaggeration to say that Castilian was then the language of learning, but it had stopped being a language with no place in official documents.
+- Hay otra capa, muy distinta, que llegó con la presencia árabe en la península, desde el año 711 hasta 1492.
+  en: There is another layer, very different, which came with the Arab presence in the peninsula, from 711 until 1492.
+- Esa presencia dejó en el castellano un vocabulario que usamos a diario sin pensar en su origen: aceite, azúcar, almohada, azotea y ajedrez.
+  en: That presence left Castilian a vocabulary we use every day without thinking about its origin: oil, sugar, pillow, flat roof and chess.
+- No son pocas: el al- es el artículo árabe, y por eso tantas palabras empiezan así: alcalde, albañil, aldea.
+  en: There are plenty of them: al- is the Arabic definite article, and that is why so many words begin with it: alcalde, albañil, aldea.
+- El alcalde de hoy preside un ayuntamiento, pero la palabra venía de otra que significaba juez, el que decidía en la ciudad.
+  en: The alcalde of today presides over a town council, but the word came from another that meant judge, the one who decided in the town.
+- Cada palabra prestada se acomodó a la pronunciación castellana, y casi ninguna conservó su forma original.
+  en: Each borrowed word was adapted to Castilian pronunciation, and almost none kept its original form.
+- Muchas de estas palabras llegaron por la vida diaria, en la huerta, en la casa y en el oficio, y no por los libros.
+  en: Many of these words came through everyday life, in the market garden, the house and the trade, and not through books.
+- Por eso el árabe no es un capítulo aparte de la historia del español, sino una parte de su vocabulario de cada día.
+  en: That is why Arabic is not a separate chapter in the history of Spanish, but a part of its everyday vocabulary.
+- Al inglés le pasa algo parecido: álgebra y alcohol vienen también del árabe.
+  en: English has something similar: algebra and alcohol also come from Arabic.
+- Ninguna lengua llega pura a sus hablantes; todas se han llenado de palabras de otros pueblos.
+  en: No language reaches its speakers pure; every one of them has filled up with words from other peoples.
+- Hay quien cree que el castellano se formó en una sola fecha, pero una lengua no tiene partida de nacimiento.
+  en: Some people believe that Castilian was formed on a single date, but a language has no birth certificate.
+- Quedan los rastros: un nombre de calle, un refrán, una palabra que se dice en la cocina sin que nadie la piense.
+  en: The traces remain: a street name, a proverb, a word said in the kitchen without anyone thinking about it.
+- La historia de una lengua se cuenta mejor en la cocina que en los libros.
+  en: The history of a language is told better in the kitchen than in books.
+- Nadie sabe cuántas palabras se perdieron por el camino, y eso también forma parte de su historia.
+  en: Nobody knows how many words were lost along the way, and that too is part of its history.
+- Lo decimos cada día sin pensar en Dios: ojalá, que viene del árabe, quiere decir «si Dios quiere».
+  en: We say it every day without thinking of God: ojalá, which comes from Arabic, means "if God wills".
+
+notes.en:
+1. "las lenguas romances" (sentence 2): romance here names the languages that grew out of Latin, not a love story. English uses the same term, "the Romance languages", for that group.
+2. "el de Cicerón" (sentence 1): Cicero, who lived from 106 to 43 BC, wrote the classical Latin that schoolchildren still read. The sentence sets it against the spoken Latin of the market and the camp.
+3. "Según la tradición" (sentence 4): the Glosas Emilianenses are dated to about the tenth century and are traditionally counted among the earliest written Romance. The hedge is deliberate: the status of the notes as the first Castilian is a tradition, not something the manuscript states.
+4. "Quien las escribió" (sentence 5): nobody knows who wrote the glosses, so the sentence says quien and gives no name.
+5. "un copista llamado Per Abbat" (sentence 7): the Cantar de mio Cid survives in one manuscript, and the copyist's name is written at its end, which is how the text knows who made the copy.
+6. "mio" (sentence 7): mio is the old form of mi, the possessive my, as it stood before the modern form. The title keeps it as it was written.
+7. "Alfonso X el Sabio" (sentence 8): el Sabio is a nickname, the Wise, and the king reigned from 1252 to 1284. The thirteenth century is the period, and the sentence names no more exact date.
+8. "Sería exagerado decir" (sentence 11): the conditional sería makes the claim softer than es would. Spanish uses the conditional for a judgement one does not want to press, where English says "it would be an exaggeration to say".
+9. "No son pocas" (sentence 14): the sentence answers the question the reader has at this point, how many such words there are. Son agrees with the plural palabras, as it would in English with "there are plenty".
+10. "el al- es el artículo árabe" (sentence 14): al- is the Arabic definite article, the English "the". The other part of alcalde, albañil and aldea comes from the Arabic word that follows it.
+11. "alcalde" (sentence 15): the word comes from the Arabic for judge. English "mayor" has a different origin, in Latin, and the two words do the same job in different cities.
+12. "álgebra y alcohol" (sentence 19): English has borrowed from Arabic too, with algebra and alcohol among the best known examples. The point of the line is that the borrowing is not special to Spanish.
+13. "casi ninguna" (sentence 16): the hedge matches the claim: many loanwords changed their form, but some kept it, so no sweeping "none" is written.
+14. "partida de nacimiento" (sentence 21): in Spain the document is the partida de nacimiento. In much of Latin America the same document is called the acta de nacimiento, which is why the phrase is named as the Spanish one.
+15. "ojalá" (last sentence): Foundation, lesson 51, taught ojalá with the subjunctive as a wish. Here the point is its origin: it comes from an Arabic phrase, law šā' Allāh, which means "if God wills". The last line gives the origin, not a summary of the text.
+
+ex1:
+- Los eruditos discuten la fecha exacta de esas notas, pero casi todos aceptan que la lengua ya era castellana cuando alguien las escribió.
+  en: Scholars argue about the exact date of those notes, but almost all of them accept that the language was already Castilian when someone wrote them.
+- Cuando llegaron los romanos, las tribus de la región hablaban lenguas propias; con el tiempo, casi todas dejaron de usarlas.
+  en: When the Romans arrived, the tribes of the region spoke their own languages; over time, almost all of them stopped using them.
+- Muchas palabras del campo que usamos hoy llegaron del árabe, aunque quien las dice rara vez lo advierte.
+  en: Many countryside words we use today came from Arabic, although the person saying them rarely notices.
+- Ojalá llueva el sábado, que llevamos todo el verano sin una gota de agua.
+  en: I hope it rains on Saturday, because we have had the whole summer without a drop of water.
+- El rey no pidió que las leyes se escribieran en latín; ordenó que se redactaran en castellano.
+  en: The king did not ask for the laws to be written in Latin; he ordered that they be drafted in Castilian.
+
+ex2:
+- No tiene [pelos] en la lengua: dice lo que piensa delante de quien sea.
+  en: He never holds back what he thinks, whoever is listening.
+- Lo entendí todo, [aunque] no hablaba muy bien el idioma.
+  en: I understood everything, although I did not speak the language very well.
+- La palabra «alcalde» viene del [árabe].
+  en: The word alcalde comes from Arabic.
+- Ojalá [llegue] el tren a tiempo.
+  en: I hope the train arrives on time.
+- Esto no es latín, [sino] castellano.
+  en: This is not Latin but Castilian.
+
+tasks:
+- En el siglo XIII el castellano ya servía para las leyes y para la historia, y sigue llevando la huella de muchas lenguas. Las glosas, anotaciones de un monasterio riojano, muestran cómo sonaban las palabras en un tiempo en que el latín seguía siendo la lengua escrita. El latín hablado dio origen a las lenguas romances, y el árabe, durante casi ocho siglos en la península, dejó muchísimas palabras, desde aceite hasta alcalde. Lo que menos se piensa es lo que más se usa: ojalá viene del árabe y significa «si Dios quiere». Así que la lengua que hablamos es la misma de hace siglos, pero con las huellas de cada pueblo que la tocó.
+  task.en: Summarise the text in about 100 words in Spanish, for a classmate who has not read it. Cover the spoken Latin, the first written traces, Alfonso X and the Arabic layer, and end with ojalá.
+  rubric.en: meaning: the summary keeps the spoken Latin, the glosses, Alfonso X, the Arabic layer and the origin of ojalá; register: a clear, neutral summary in the present, with no opinion added; structure: the points follow the order of the text, in one paragraph of about 100 words; idiom: the summary uses huella, durante casi ocho siglos and lo que menos se piensa without calques; effect: the classmate knows what the text says without reading it.
+
+== 93 C2
+numeral: Lección noventa y tres
+title: Limpia, fija y da esplendor
+title.en: Clean, fixed and splendid
+
+dialogue:
+- En 1492 pasaron muchas cosas a la vez: Colón llegó a América, Granada se rindió a los Reyes Católicos y los judíos fueron expulsados de los reinos.
+  en: In 1492 many things happened at once: Columbus reached America, Granada surrendered to the Catholic Monarchs, and the Jews were expelled from the kingdoms.
+- Ese mismo año, Elio Antonio de Nebrija publicó en Salamanca su Gramática de la lengua castellana, una de las primeras gramáticas de una lengua europea moderna.
+  en: That same year, Elio Antonio de Nebrija published in Salamanca his Gramática de la lengua castellana, one of the first grammars of a modern European language.
+- La dedicó a la reina Isabel, y en el prólogo escribió que la lengua había sido siempre compañera del imperio.
+  en: He dedicated it to Queen Isabella, and in the preface he wrote that language had always been the companion of empire.
+- No la escribió para quienes ya la hablaban, sino para quienes tenían que aprenderla.
+  en: He did not write it for those who already spoke it, but for those who had to learn it.
+- Una lengua, pensaba, merecía reglas como las que tenía el latín, y sin reglas no había manera de enseñarla ni de medir lo que se decía.
+  en: A language, he thought, deserved rules like the ones Latin had, and without rules there was no way to teach it or to measure what was said.
+- El libro tenía algo de fe y algo de orgullo, y en eso no se diferencia de la mayoría de los manuales.
+  en: The book had something of faith and something of pride, and in that it is no different from most textbooks.
+- Más de dos siglos después, en 1713, nació la Real Academia Española, con otra idea: fijar la lengua de una vez.
+  en: More than two centuries later, in 1713, the Real Academia Española was founded with another idea: to fix the language once and for all.
+- Su lema fue «Limpia, fija y da esplendor», y sigue siendo el lema de la institución.
+  en: Its motto was "Clean, fixed and splendid", and it is still the motto of the institution.
+- Las tres palabras son una promesa: que la lengua se limpie de lo que la ensucia, que se fije en una forma y que brille.
+  en: The three words are a promise: that the language will be cleaned of what soils it, that it will settle into one form, and that it will shine.
+- Para cumplirla, la Academia publicó el Diccionario de autoridades entre 1726 y 1739, con citas de escritores que justificaban cada palabra.
+  en: To keep that promise, the Academy published the Diccionario de autoridades between 1726 and 1739, with quotations from writers to justify each word.
+- Las autoridades eran los escritores, no los académicos; una palabra entraba si algún autor respetado la había usado.
+  en: The authorities were the writers, not the academicians; a word got in if some respected author had used it.
+- Hoy el diccionario es menos solemne, pero la idea de que el uso decide sigue siendo la que manda.
+  en: Today the dictionary is less solemn, but the idea that use decides still has the final say.
+- Lo que sí ha cambiado con los siglos es la ortografía.
+  en: What has changed over the centuries is the spelling.
+- En 2010, la Ortografía dejó de contar el ch y la ll como letras del abecedario, y la y pasó a llamarse ye.
+  en: In 2010, the Ortografía stopped counting ch and ll as letters of the alphabet, and the letter y came to be called ye.
+- Quien aprendió el abecedario con la ch detrás de la c todavía la busca donde estaba, y no es el único.
+  en: Anyone who learned the alphabet with ch after c still looks for it where it used to be, and is not the only one.
+- Hubo quien protestó, como siempre que alguien toca lo que la gente ya sabía de memoria.
+  en: Some people protested, as always when someone touches what people already knew by heart.
+- Desde 1951 existe la Asociación de Academias de la Lengua Española, que reúne a las academias de los países hispanohablantes.
+  en: Since 1951 there has been the Asociación de Academias de la Lengua Española, which brings together the academies of the Spanish-speaking countries.
+- Cada academia tiene su propia voz, y la Asociación tiene la tarea de que no se separen demasiado.
+  en: Each academy has its own voice, and the Association's task is to keep them from drifting too far apart.
+- Es una idea sensata y un poco optimista: la lengua es una sola, pero cada país la habla con su acento y sus palabras.
+  en: It is a sensible and slightly optimistic idea: the language is one, but each country speaks it with its own accent and words.
+- Creo que ahí está el mérito, y no en los diccionarios que pretenden detener el tiempo.
+  en: I think that is where the merit lies, not in dictionaries that pretend to stop time.
+- Los diccionarios sirven para consultar, no para mandar en la calle.
+  en: Dictionaries are there to be consulted, not to give orders in the street.
+- Nebrija la quiso como compañera del imperio, y la Academia, como guardiana de la pureza.
+  en: Nebrija wanted it as the companion of empire, and the Academy wanted it as the guardian of purity.
+- Cada época la ha usado para lo que le convenía, y ninguna ha conseguido que se quede quieta.
+  en: Each age has used it for what suited it, and none has managed to keep it still.
+- Y el lema más citado de la Academia acabó un día en la puerta del cuarto de un adolescente, pegado por su madre con cinta adhesiva.
+  en: And the Academy's most quoted motto ended up one day on the bedroom door of a teenager, stuck there by his mother with sticky tape.
+- El lema sigue en la puerta, y el adolescente dice que no lo ha leído, aunque lo lee cada mañana al salir.
+  en: The motto is still on the door, and the teenager says he has not read it, although he reads it every morning on his way out.
+
+notes.en:
+1. "En 1492" (sentence 1): four events of one year are put in one breath, with no link between them. The sentence crowds them together so that the reader feels how much happened at once.
+2. "Elio Antonio de Nebrija" (sentence 2): the full name of the grammarian, who taught at Salamanca. The name is given once in full, as a reference book would give it, and then as Nebrija.
+3. "una de las primeras gramáticas" (sentence 2): the claim is hedged with una de las, which says one of several, not the first. A stronger word would need a date that the text does not give.
+4. "había sido siempre compañera del imperio" (sentence 3): the phrase reports what Nebrija wrote in his preface, in indirect speech. The text does not quote him word for word.
+5. "No la escribió para quienes ya la hablaban" (sentence 4): the contrast is between speakers and learners. It shows that the grammar was written as a tool, which is why its rules are set out so plainly.
+6. "la Real Academia Española" (sentence 7): the article is part of the name, as in la Real Academia Española and el Prado. Real means royal, and the institution was founded in 1713.
+7. "Limpia, fija y da esplendor" (sentence 8): three short verbs, each with a clear sense: to clean, to fix, to give splendour. English needs a longer phrase to keep the three steps, so the translation is only a rough equivalent.
+8. "Diccionario de autoridades" (sentence 10): the authorities are the writers quoted in the dictionary, not the people who compiled it. Johnson's English dictionary of 1755 also used quotations from writers, for the same reason.
+9. "el uso decide" (sentence 12): the phrase states the Academy's modern position, that use settles what is correct. It is also the reason the dictionary changed its tone.
+10. "En 2010" (sentence 14): the Ortografía changed the alphabetical order, not the spelling of the words. Ch and ll were removed as letters, and y was given the name ye.
+11. "Quien aprendió el abecedario con la ch detrás de la c" (sentence 15): in the old order ch came after c and ll after l, so anyone taught that order looks in a different place today.
+12. "Desde 1951" (sentence 17): the association is named in full, with each word of its title capitalised as its official name has it. The date is a year, given because the text states it.
+13. "pero cada país la habla con su acento" (sentence 19): the contrast is between one language and many speakers. English "but" does the same job here.
+14. "Y el lema más citado" (sentence 24): the scene is the ending. The motto returns on the door, and the reader sees the joke: the teenager claims not to read a sign he passes every morning.
+
+ex1:
+- Nebrija pensó que una lengua merecía reglas, como las tenía el latín, y escribió una gramática de la suya.
+  en: Nebrija thought a language deserved rules, as Latin had, and he wrote a grammar of his own.
+- Cuando la Academia dice que el uso decide, no abre la puerta a cualquier cosa, pero tampoco la cierra del todo.
+  en: When the Academy says that use decides, it does not open the door to anything, but it does not shut it completely either.
+- Por mucho que intenten fijarla, las lenguas no se quedan quietas.
+  en: However hard they try to fix it, languages do not stand still.
+- Mi madre pegó el lema en la puerta, y yo, en vez de leerlo, lo he aprendido de memoria sin querer.
+  en: My mother stuck the motto on the door, and instead of reading it, I have learnt it by heart without meaning to.
+- No me digas que la ch y la ll ya no son letras; para mí lo seguirán siendo.
+  en: Do not tell me that ch and ll are no longer letters; for me they always will be.
+
+ex2:
+- Me [alegro] de que hayas aprobado el examen.
+  en: I am glad you passed the exam.
+- Me estás [tomando el pelo], ¿verdad?
+  en: You are pulling my leg, aren't you?
+- No es que no lo sepa, [sino] que no me apetece decirlo.
+  en: It is not that I do not know it, but that I do not feel like saying it.
+- Las palabras nuevas [entran] en el diccionario cuando la gente las usa.
+  en: New words get into the dictionary when people use them.
+- Es la [ortografía] la que ha cambiado, no las palabras.
+  en: It is the spelling that has changed, not the words.
+
+tasks:
+- Mamá, ya sé lo que dice el papel. Limpia, fija y da esplendor. Lo leo cada mañana, pero la limpieza de mi cuarto no es asunto de la Academia. Deja de pegar cosas en mi puerta, por favor, que ya no cabe nada.
+  task.en: Write the teenager's reply, a note in Spanish of about 40 to 60 words, under the motto on the door. He is funny and a little rude, but he answers the mother's point.
+  rubric.en: meaning: the reply answers the motto and the mother's remark, and says why the room is not the Academy's business; register: informal tú, a teenager's voice, with no insult; structure: a short reply in three or four sentences, with a last line that closes the joke; idiom: the teenager uses fixed phrases such as no me hace falta and dejad de without calques; effect: the reply is quick and funny, not a lecture.
+
+== 94 C2
+numeral: Lección noventa y cuatro
+title: Una carta de 1605
+title.en: A letter of 1605
+
+dialogue:
+- Hermano mío de mi alma: con esta mía, escrita en Sevilla a diez de agosto de mil seiscientos y cinco, doy a vuestra merced noticia de mi salud, que es buena, loado sea Dios.
+  en: My dear brother: with this letter of mine, written in Seville on the tenth of August 1605, I give your worship news of my health, which is good, God be praised.
+- Agora, que la flota se apresta para Nueva España, no quiero que el correo se vaya sin una palabra de vuestra merced.
+  en: Now that the fleet is being made ready for New Spain, I would not have the post leave without a word from your worship.
+- Dicen en la Casa de la Contratación que la flota saldrá de Sanlúcar antes de que acabe el mes, y que el general pide más gente de mar de la que hay.
+  en: They say at the Casa de la Contratación that the fleet will sail from Sanlúcar before the month is out, and that the general is asking for more sailors than there are.
+- He cargado en el navío que llaman Santa Brígida tres cajas de paños de Segovia y dos barriles de aceite, y, sobre eso, un cajón de papel, que sé que harto le hace falta para sus cuentas.
+  en: I have loaded onto the ship they call Santa Brígida three chests of Segovia cloth and two barrels of oil, and on top of that a case of paper, which I know your worship badly needs for the accounts.
+- Ansí, por el mesmo navío, va la cuenta de los dos años pasados, con el saldo que vuestra merced me debe.
+  en: Likewise, on the same ship goes the account of the last two years, with the balance that your worship owes me.
+- No crea vuestra merced que me quejo, que la cuenta no está mal, aunque el flete ha subido harto.
+  en: Do not think, your worship, that I complain, for the account is not bad, although the freight has risen a great deal.
+- Sabrá vuestra merced que su sobrino Gonzalo se ha concertado con la hija del escribano de Triana, y que la boda será después de Navidad, si Dios quiere.
+  en: Your worship will know that his nephew Gonzalo has agreed to marry the daughter of the notary of Triana, and that the wedding will be after Christmas, God willing.
+- Ya le dije a mi mujer que la dote ha de ser de dos mil ducados, y ella dice que mesmo en la plata de las Indias no se hallan tales joyas.
+  en: I have already told my wife that the dowry must be two thousand ducats, and she says that not even the silver of the Indies can produce such jewels.
+- Harto trabajo nos da este muchacho, que anda entre la gente del puerto y no piensa sino en sus cosas.
+  en: This lad gives us a great deal of trouble, for he goes about among the people of the port and thinks of nothing but his own affairs.
+- Mire vuestra merced que no le hago yo el agravio de quejarme a cada rato, que bien sé que en esa tierra también hay trabajos.
+  en: Let your worship bear in mind that I do not do you the wrong of complaining at every turn, for I know well that in that land there is hardship too.
+- Dése por sabido que el precio del azúcar ha bajado en esta plaza, y que el de los cueros ha subido, como sucede cada año con la flota.
+  en: Let it be known that the price of sugar has fallen in this market, and that of hides has risen, as happens every year with the fleet.
+- Del pleito con el mercader de Cádiz no sé qué decir todavía; los letrados piden tiempo, y ellos no lo dan de gracia.
+  en: As for the lawsuit with the merchant of Cádiz, I do not yet know what to say; the lawyers ask for time, and they do not give it for nothing.
+- Pero aseguro a vuestra merced que, si el juez falla a mi favor, le enviaré la mitad de lo ganado, como quedamos.
+  en: But I assure your worship that, if the judge finds in my favour, I will send you half of what is won, as we agreed.
+- Y las cajas, cuando lleguen, mire que no falte ninguna, que el año pasado se perdió un barril en el muelle.
+  en: And when the chests arrive, see that none is missing, for last year a barrel was lost on the quay.
+- Eso sí, nadie me ha pedido que pague los derechos dos veces, y no pienso empezar ahora.
+  en: Mind you, nobody has asked me to pay the duties twice, and I do not intend to start now.
+- Ya sé que vuestra merced no gusta de ver letras en los papeles, y por eso se lo digo claro.
+  en: I know that your worship does not like to see letters in the papers, and so I tell you plainly.
+- Mi mujer le manda sus encomiendas, y los niños le besan las manos, que ya saben escribir y dicen que quieren carta de tío.
+  en: My wife sends her regards, and the children kiss your hands, for they can write now and say they want a letter from their uncle.
+- Que Dios le guarde en esa tierra tan lejos, que aquí hace calor harto y el río viene bajo.
+  en: May God keep you in that land so far away, for it is very hot here and the river is running low.
+- Si la flota se retrasa, no me culpe; sabe vuestra merced que el tiempo de la mar no lo manda nadie.
+  en: If the fleet is delayed, do not blame me; your worship knows that nobody commands the weather at sea.
+- Y si pasa por esas partes algún conocido de vuestra merced, dígale de mi parte que la casa de Sevilla tiene las puertas abiertas.
+  en: And if some acquaintance of your worship passes through those parts, tell him from me that the house in Seville has its doors open to him.
+- Agora no más, que el correo se va, y la tinta se me seca.
+  en: That is all for now, for the post is leaving and the ink is drying on my pen.
+- Guarde Dios a vuestra merced muchos años, como este su hermano desea.
+  en: May God keep your worship for many years, as this brother of yours wishes.
+- Beso las manos de vuestra merced, su hermano y servidor,
+  en: I kiss your worship's hands, your brother and servant,
+- Andrés de Ocaña.
+  en: Andrés de Ocaña.
+- Posdata: si puede, que mande chocolate, que mi mujer lo pide cada día y yo ya no sé qué responderle.
+  en: Postscript: if you can, send some chocolate, for my wife asks for it every day and I no longer know what to answer her.
+
+notes.en:
+1. "Hermano mío de mi alma" (sentence 1): the opening of a letter to a close relative. Mío after a noun of kinship is the old warm form, and de mi alma adds the feeling of the Golden Age letter.
+2. "con esta mía" (sentence 1): esta mía, "this letter of mine", is how a writer of the period refers to the letter in hand. Modern Spanish would say esta carta.
+3. "vuestra merced" (sentence 1): the polite address that became usted. The person addressed takes a third-person verb, as in sabrá vuestra merced (sentence 7), and the English "your worship" is the nearest old form.
+4. "loado sea Dios" (sentence 1): a formula of thanks, with the subjunctive of ser in a wish. Modern Spanish uses gracias a Dios.
+5. "Agora" (sentence 2): the old form of ahora, "now". The modern form is ahora, with the same sense.
+6. "la Casa de la Contratación" (sentence 3): the office in Seville that managed the trade with the Indies, and the fleets that sailed from Sanlúcar de Barrameda, on the coast of Cádiz. The name is kept as it stood in the period.
+7. "navío" (sentence 4): a ship, the general word for a vessel in the period. Modern Spanish would say barco or buque, and English "ship" is the same word in sense.
+8. "harto" (sentence 4): a common word of the time for "very" or "a great deal", and still known in modern Spanish as "estar harto", to be fed up. Here it means a lot.
+9. "Ansí" (sentence 5): the old form of así, "so" or "likewise". The modern form is así.
+10. "mesmo" (sentence 8): the old form of mismo, "same" or "even". Mismo is the modern form, and the sense in this sentence is "not even".
+11. "Dése por sabido" (sentence 11): a formula that asks the reader to take a fact as known. Modern Spanish would say téngalo por sabido, which is the same idea.
+12. "Del pleito con el mercader de Cádiz" (sentence 12): the sentence turns to a lawsuit, which the letter takes up with a plain statement that the lawyers ask for time and do not work for nothing.
+13. "la plata de las Indias" (sentence 8): plata is silver, the metal the fleets carried from America to Seville. The wife's comparison makes the point that the dowry is larger than anything the silver could buy.
+14. "Posdata" (last sentence): the postscript, written in full, as the letter writers of the period wrote it. The final line asks for chocolate, which the brother can send from the Indies, and it ends the letter with a family joke.
+
+ex1:
+- Señora Vega, ya que tanto insiste, le diré lo que pienso, aunque no le guste.
+  en: Señora Vega, since you insist so much, I will tell you what I think, even if you do not like it.
+- Eso mismo pensaba yo hace veinte años, cuando llegué a Sevilla con una maleta y poco dinero.
+  en: That is exactly what I thought twenty years ago, when I arrived in Seville with one suitcase and little money.
+- Harto de esperar, el comerciante se marchó sin firmar, y nadie volvió a verlo en el puerto.
+  en: Fed up with waiting, the merchant left without signing, and nobody saw him at the port again.
+- Estimado señor Ruiz: le escribo para comunicarle que el pedido llegará con retraso, y le pido disculpas por ello.
+  en: Dear Mr Ruiz: I am writing to tell you that the order will arrive late, and I apologise for it.
+- Querida tía: no se preocupe por la casa, que el vecino ya la ha limpiado de arriba abajo.
+  en: Dear Aunt: do not worry about the house, as the neighbour has already cleaned it from top to bottom.
+
+ex2:
+- Llevo tres horas [de pie] esperando el autobús.
+  en: I have been standing for three hours waiting for the bus.
+- Lo [siento] de corazón, de verdad.
+  en: I am truly sorry.
+- Hay que [cuadrar] las cuentas antes de que acabe el mes.
+  en: The accounts have to balance before the month ends.
+- Estoy [de acuerdo] contigo en eso.
+  en: I agree with you on that.
+- Ese proyecto nos ha [costado] un ojo de la cara.
+  en: That project cost us an arm and a leg.
+
+tasks:
+- Hermano mío: te escribo desde Sevilla el diez de agosto de 1605 para darte noticias de mi salud, que es buena, gracias a Dios. La flota sale de Sanlúcar antes de que acabe el mes, y te envío tres cajas de paños de Segovia, dos barriles de aceite y un cajón de papel para tus cuentas. También te mando la cuenta de los dos años pasados, con el saldo que me debes. No te quejes del flete, que ha subido mucho. Mi sobrino Gonzalo se casa después de Navidad con la hija del escribano de Triana. Mi mujer te manda recuerdos, y los niños quieren una carta del tío. Y si puedes, envía chocolate, que mi mujer lo pide cada día.
+  task.en: Modernise the letter: write it in the Spanish of today, as a letter from a merchant to his brother in New Spain. Keep every fact and family detail, use tú, and make the register natural, about 150 words.
+  rubric.en: meaning: every fact of the letter is kept, the cloths, the oil, the account, the nephew's wedding, the family news and the chocolate; register: tú, a warm and natural letter of today, with no archaic word left; structure: opening, news, business, family, a closing line; idiom: fixed phrases such as gracias a Dios and mucho más are used as today's Spanish uses them; effect: the modern letter keeps the dry humour of the chocolate line at the end.
+
+== 95 C2
+numeral: Lección noventa y cinco
+title: La lengua de Sefarad
+title.en: The language of Sepharad
+
+dialogue:
+- Cuando los Reyes Católicos firmaron el decreto de expulsión en 1492, los judíos que no se convirtieron tuvieron que salir de los reinos de Castilla y Aragón.
+  en: When the Catholic Monarchs signed the edict of expulsion in 1492, the Jews who did not convert had to leave the kingdoms of Castile and Aragon.
+- Muchos se llevaron consigo la lengua de Castilla tal como se hablaba a finales del siglo XV, y la conservaron durante siglos lejos de la península.
+  en: Many took with them the Castilian of the late fifteenth century, as it was spoken then, and kept it for centuries far from the peninsula.
+- Se establecieron en el Imperio otomano, en ciudades como Salónica, Estambul o Sarajevo, y también en el norte de Marruecos.
+  en: They settled in the Ottoman Empire, in cities such as Thessaloniki, Istanbul or Sarajevo, and also in northern Morocco.
+- En el norte de Marruecos la variedad se llamó haketía; en otros lugares se habla de judeoespañol.
+  en: In northern Morocco the variety was called haketía; elsewhere it is called Judeo-Spanish.
+- El término ladino se usó para la lengua, aunque en sentido estricto designa las traducciones palabra por palabra de textos sagrados.
+  en: The word ladino was used for the language, although in its strict sense it means the word-for-word translations of sacred texts.
+- Esas traducciones seguían tan de cerca el hebreo que a veces se entendían mejor con el original al lado.
+  en: Those translations followed the Hebrew so closely that they were sometimes easier to understand with the original beside them.
+- Pero la lengua de la calle era otra cosa: se hablaba en la casa, en el mercado y en las canciones.
+  en: But the language of the street was something else: it was spoken at home, in the market and in songs.
+- Durante siglos se escribió con letras hebreas, y hoy se escribe también con las latinas.
+  en: For centuries it was written in Hebrew letters, and today it is written in Latin ones too.
+- Conservó sonidos y palabras que el castellano de Castilla fue perdiendo, y por eso un oído madrileño nota en ella algo antiguo.
+  en: It kept sounds and words that Castilian in Castile gradually lost, so that a Madrid ear notices something old in it.
+- Esa es la paradoja: una lengua que se quedó quieta fuera de España suena, para un madrileño, a un pasado que aquí se fue.
+  en: That is the paradox: a language that stood still outside Spain sounds, to a Madrileño, like a past that moved on here.
+- Durante unos cinco siglos, en las casas de Salónica o de Sarajevo, la gente siguió diciendo en esa lengua lo que se cocinaba, lo que se rezaba y lo que se cantaba.
+  en: For about five centuries, in the homes of Thessaloniki or Sarajevo, people went on saying in that language what was cooked, what was prayed and what was sung.
+- No todo se conservó igual: las palabras de la vida moderna llegaron por los idiomas de cada país, y el turco, el francés o el serbocroata dejaron su huella.
+  en: Not everything stayed the same: the words of modern life came in through the languages of each country, and Turkish, French or Serbo-Croatian left their mark.
+- Hoy quedan pocos hablantes, y casi todos son mayores.
+  en: Today there are few speakers left, and nearly all of them are old.
+- Muchos jóvenes la entienden a medias, y la transmisión en casa se ha ido debilitando.
+  en: Many young people understand it only in part, and its transmission at home has grown weaker.
+- Hay grupos, publicaciones y algunos cursos, pero nada de eso sustituye a la voz de una abuela cantando en la cocina.
+  en: There are groups, publications and some courses, but none of them replaces the voice of a grandmother singing in the kitchen.
+- Los romances que llegaron con los expulsados se guardaban de memoria, de madres a hijas, y algunas de esas canciones ya no se cantan en España.
+  en: The romances that came with the expelled Jews were kept by heart, from mothers to daughters, and some of those songs are no longer sung in Spain.
+- Los estudiosos han recogido muchas de ellas en cuadernos y grabaciones, sobre todo desde el siglo XX.
+  en: Scholars have collected many of them in notebooks and recordings, above all since the twentieth century.
+- Un romance no se enseña como una gramática: se aprende cantándolo.
+  en: A ballad is not taught like a grammar: it is learnt by singing it.
+- Las canciones hablan de amores, de reyes y de viajes, y cada familia cambiaba una palabra o dos según su memoria.
+  en: The songs speak of love, of kings and of journeys, and each family changed a word or two according to its memory.
+- Quien las canta hoy suele hacerlo sin saber del todo lo que dicen, y eso también es una forma de conservarlas.
+  en: Whoever sings them today often does not fully know what they say, and that too is a way of keeping them.
+- En una ciudad como Estambul, la lengua convive con el turco de la calle y con las lenguas de los turistas.
+  en: In a city like Istanbul, the language lives alongside the Turkish of the street and the languages of the tourists.
+- En las ciudades grandes, las lenguas se mezclan sin que nadie se extrañe.
+  en: In big cities, languages mix without anyone finding it strange.
+- La lengua sigue existiendo porque alguien sigue cantándola, y eso es más frágil de lo que parece.
+  en: The language goes on existing because someone goes on singing it, and that is more fragile than it looks.
+- Una nieta de Estambul, en un café del barrio viejo, oye a un turista de Madrid tararear algo en voz baja.
+  en: A granddaughter from Istanbul, in a café in the old quarter, hears a tourist from Madrid humming something under his breath.
+- Reconoce la melodía de su abuela, cantada en español por un desconocido, y no dice nada.
+  en: She recognises her grandmother's melody, sung in Spanish by a stranger, and she says nothing.
+
+notes.en:
+1. "el decreto de expulsión" (sentence 1): the edict of 1492, known as the Alhambra Decree from the palace in Granada where it was signed. The Catholic Monarchs are los Reyes Católicos in Spanish and the Catholic Monarchs in English.
+2. "Castilla y Aragón" (sentence 1): the two kingdoms that the edict named as the places the Jews had to leave.
+3. "a finales del siglo XV" (sentence 2): the period given as a century, not a year, because the text means the language as it was then, not a single date.
+4. "Salónica" (sentence 3): the Spanish name of the city, which English calls Thessaloniki. The text keeps the Spanish form, as it does with Sarajevo and Estambul.
+5. "haketía" (sentence 4): the name of the variety spoken in northern Morocco, and not a general name for the language. The note says so, as the text does: "en el norte de Marruecos".
+6. "judeoespañol" (sentence 4): the general name for the language. English writes Judeo-Spanish, with a hyphen and capitals.
+7. "en sentido estricto" (sentence 5): ladino is used for the language in ordinary speech. In its strict sense, the word names only the word-for-word translations of sacred texts, which is why the sentence uses the hedge.
+8. "Esas traducciones seguían tan de cerca el hebreo" (sentence 6): the translations follow the word order and the vocabulary of the original, so closely that a reader needed the Hebrew beside them.
+9. "Pero la lengua de la calle era otra cosa" (sentence 7): the contrast with the translations is between a text and the speech of daily life. Pero joins two things that really differ.
+10. "un oído madrileño" (sentence 9): the old features are not listed in the note; the point of the line is the listener, who hears them as old.
+11. "unos cinco siglos" (sentence 11): counted from 1492 to the late twentieth century, the period is about five centuries. Unos marks the figure as a rough one.
+12. "el turco, el francés o el serbocroata" (sentence 12): the languages that gave the local speech its newer words. Each city had its own mix.
+13. "Hoy quedan pocos hablantes" (sentence 13): the sentence gives no figure, and the note gives none either. Quedan means what is left, a common Spanish way to say that a language is fading.
+14. "los romances" (sentence 16): the medieval ballads of Spain, which the English calls ballads. The Spanish word is kept because the genre has its own name in both languages.
+15. "se aprende cantándolo" (sentence 18): the gerund cantándolo shows the manner of learning, and the object pronoun lo attaches to it.
+16. "Reconoce la melodía de su abuela" (last sentence): the last line gives the point of the scene: the language is gone from the street, but its music is still known by the young. Nothing is said aloud.
+
+ex1:
+- La editorial anunció que el libro saldrá en la primavera, aunque el autor todavía no ha entregado el último capítulo.
+  en: The publisher announced that the book will come out in the spring, although the author has not yet handed in the last chapter.
+- Mi abuela decía que nadie le había enseñado a cocinar, que lo aprendió mirando a su madre.
+  en: My grandmother used to say that nobody had taught her to cook; she had learnt by watching her mother.
+- Si el tren llega con retraso, esperaremos en la cafetería de la estación, que tiene buen café.
+  en: If the train is late, we will wait in the station café, which does good coffee.
+- Hace años que no oigo a nadie hablar la lengua de sus abuelos, y eso me apena más de lo que digo.
+  en: I have not heard anyone speak their grandparents' language for years, and it saddens me more than I say.
+- Pese a que la lengua se ha ido perdiendo, todavía hay familias que cantan en la cocina.
+  en: Although the language has been dying out, there are still families who sing in the kitchen.
+
+ex2:
+- El catedrático dio una conferencia sobre los [romances] sefardíes, pero nadie la siguió del todo.
+  en: The professor gave a lecture on the Sephardic ballads, but nobody quite followed it.
+- Pese a [que] la lengua ya no se habla en la calle, sigue viva en las canciones.
+  en: Even though the language is no longer spoken in the street, it lives on in the songs.
+- Los jóvenes apenas la [hablan] en casa.
+  en: Young people hardly speak it at home.
+- La familia guarda [de memoria] las canciones que cantaba la abuela.
+  en: The family keeps by heart the songs the grandmother used to sing.
+- Hay que [aprender] la lengua en la casa, no en los libros.
+  en: The language has to be learnt at home, not from books.
+
+tasks:
+- El judeoespañol nació de la lengua que se llevaron los judíos expulsados en 1492. Se habló en Salónica, Estambul, Sarajevo y el norte de Marruecos, donde se llamó haketía. Durante unos cinco siglos fue la lengua de las casas, con sus canciones y sus traducciones de textos sagrados. Conservó sonidos y palabras que el castellano de Castilla perdió, y hoy quedan pocos hablantes, casi todos mayores. Los jóvenes la entienden a medias, y los romances se conservan sobre todo en cuadernos y grabaciones. El texto acaba con una nieta de Estambul que reconoce en un turista de Madrid la melodía de su abuela.
+  task.en: Summarise the text in about 100 words in Spanish, for a classmate who has not read it. Cover the expulsion, the cities and the variety in Morocco, what the language kept, its present speakers, and the final scene.
+  rubric.en: meaning: the summary keeps the expulsion, the cities, haketía, what was kept, the present speakers and the ending; register: a neutral summary in the past and the present, with no opinion added; structure: one paragraph of about 100 words, in the order of the text; idiom: the summary uses fixed phrases such as quedan pocos hablantes and a medias without calques; effect: the classmate knows the whole text without reading it.
+
+== 96 C2
+numeral: Lección noventa y seis
+title: Spanglish
+title.en: Spanglish
+
+dialogue:
+- Mauro: Beto, ¿dónde puedo aparcar? Hay más coches aquí que gente.
+  en: Beto, where can I park? There are more cars here than people.
+- Beto: Aquí se dice parquear, primo. Ponlo en la sombra, que el parking está full.
+  en: Here we say parquear, cousin. Put it in the shade, because the parking lot is full.
+- Mauro: Pues aparco en la sombra, aunque la palabra me suene a otro idioma. ¿Y eso de full? Dilo en español.
+  en: Then I will park in the shade, although the word sounds to me like another language. And that full? Say it in Spanish.
+- Beto: Lleno, ya, pero full suena más, bro.
+  en: Lleno, yes, but full sounds better, bro.
+- Lupe: Ay, déjalo, que el primo viene de Madrid y ya está en plan académico.
+  en: Oh, leave it, the cousin has come from Madrid and is already being all academic about it.
+- Mauro: No es eso. Es que mi abuela no decía parquear jamás, y eso que vivió en Vallecas toda la vida.
+  en: It is not that. It is just that my grandmother never once said parquear, and she lived in Vallecas all her life.
+- Beto: Pues la mía sí lo decía, y nunca se quejó del idioma.
+  en: Well, mine did say it, and she never complained about the language.
+- Mauro: Ya, ya. Y dime una cosa: ¿qué es eso de la troca? ¿Un camión?
+  en: Right, right. And tell me something: what is this troca? A lorry?
+- Beto: Sí, un camión, bro. Pero mira qué bonita, con la caja pintada y todo.
+  en: Yes, a lorry, bro. But look how nice it is, with the bed painted and everything.
+- Lupe: Pues ahora vamos al lonche. Beto, ¿pedimos los tacos de siempre o qué?
+  en: Right, now we go to lunch. Beto, do we order the usual tacos or what?
+- Mauro: Yo quiero algo que no pique, que en Madrid no estamos acostumbrados.
+  en: I want something that is not spicy, because we are not used to it in Madrid.
+- Lupe: Pues pide el lonche de pollo, que ese no pica.
+  en: Then order the chicken lonche, that one is not spicy.
+- Mauro: ¿Lonche? Pues un bocadillo de pollo, que en Madrid es lo que se pide.
+  en: Lonche? Then a chicken bocadillo, which is what people order in Madrid.
+- Beto: Bocadillo, lonche, es lo mismo, primo, y el pollo también.
+  en: Bocadillo, lonche, it is the same thing, cousin, and the chicken is the same too.
+- Mauro: Pues un bocadillo y un café con leche, que el café de aquí parece agua.
+  en: Then a bocadillo and a coffee with milk, because the coffee here tastes like water.
+- Lupe: No es agua, primo, es un americano, y es lo que hay.
+  en: It is not water, cousin, it is an americano, and it is what there is.
+- Mauro: En Madrid, un americano es un café con agua caliente, y nadie lo pide para desayunar.
+  en: In Madrid, an americano is an espresso with hot water, and nobody orders it for breakfast.
+- Beto: Pues te lo tomas, que sale gratis con el lonche.
+  en: Then you drink it, because it comes free with the lunch.
+- Lupe: Oye, Mauro, ¿sabes que yo ya apliqué para el trabajo de la biblioteca? Todavía no me llaman.
+  en: Listen, Mauro, did you know I have already applied for the job at the library? They still have not called me.
+- Mauro: Pues qué bien, mujer. En Madrid dirías: me he presentado a la plaza de la biblioteca.
+  en: Well done, love. In Madrid you would say: I have put my name forward for the post at the library.
+- Lupe: Ya, pero «presentarme» suena a fiesta de cumpleaños, primo.
+  en: Yes, but "presentarme" sounds like a birthday party, cousin.
+- Beto: Pues en el trabajo todo el mundo dice aplicar, bro, y nadie se queja.
+  en: Well, at work everybody says aplicar, bro, and nobody complains.
+- Mauro: Ya lo sé, y me parece random. Aplicar para no es español.
+  en: I know, and it seems random to me. Aplicar para is not Spanish.
+- Beto: Pues yo lo digo como lo siento, primo, y me entienden todos en la oficina.
+  en: Well, I say it the way I feel it, cousin, and everyone at the office understands me.
+- Lupe: Y tú hablas raro con tanto vale y tanto tío, que aquí eso no lo entiende nadie.
+  en: And you talk oddly with so many vales and tíos, which nobody here understands.
+- Mauro: Lo mío es Madrid, y en Madrid no mezclamos así. Mira: «te llamo luego», no «te llamo pa'trás».
+  en: Mine is Madrid, and in Madrid we do not mix like this. Look: "te llamo luego", not "te llamo pa'trás".
+- Beto: Pues te llamo pa'trás, que ahora tengo que colgar, el parking está full.
+  en: Well, I will call you back, because I have to hang up now, the parking is full.
+- Mauro: Eso, en Madrid, sería: te llamo en un rato y me cuentas.
+  en: There you are. In Madrid it would be: I will ring you in a while and you can tell me.
+- Lupe: Mira qué pesado con Madrid, Beto. Ya ni dejamos que se nos olvide.
+  en: Look how tiresome he is about Madrid, Beto. We cannot even let it slip.
+- Beto: Oye, Mauro, ¿y en Madrid no mezclan nada? ¿Ni una palabra en inglés, nada de nada?
+  en: Listen, Mauro, does nobody in Madrid mix anything? Not a single English word, nothing at all?
+- Mauro: Qué va. Me voy a hacer un poco de running antes del brunch, que hoy me porto sano.
+  en: Not at all. I am off to do a bit of running before the brunch, since I am being good today.
+
+notes.en:
+1. "aparcar" (sentence 1): the Spanish of Spain word for parking a car. Parquear, from the English park, is the word of the Spanish of the United States, and Beto names it as such in the next line.
+2. "parquear" (sentence 2): in the Spanish of the United States the English park takes Spanish endings. The Madrid words are aparcar and aparcamiento, and in English the same place is a car park.
+3. "el parking está full" (sentence 2): two English words in one Spanish sentence. Parking and full are both common in the Spanish of the United States, while Madrid says el aparcamiento está lleno.
+4. "full suena más, bro" (sentence 4): full and bro are English words used in informal Spanish of the United States. Madrid would use lleno and tío for the same ideas.
+5. "Vallecas" (sentence 6): a district of Madrid, where the grandmother lived all her life. The name places the grandmother in the city, so the reader knows which Madrid speech she had.
+6. "la troca" (sentence 8): in Mexican and Mexican-American Spanish a pickup or a lorry is called troca. Madrid says camión, or camioneta for a small pickup.
+7. "el lonche" (sentence 10): lunch, in the Spanish of the United States. The Spanish of Spain says comida for the midday meal, and almuerzo for a mid-morning snack.
+8. "el lonche de pollo" (sentence 12): a sandwich or packed lunch in the Spanish of the United States. In Madrid the same thing is a bocadillo, and lonche is not usual there.
+9. "un americano" (sentence 16): in Spain an americano is an espresso with hot water added. Mauro's sentence in the next line gives the Madrid sense of the drink.
+10. "aplicar para" (sentence 19): a calque on the English apply for. In Madrid one says presentarse a una plaza or solicitar un puesto.
+11. "presentarme" (sentence 21): presentarme means to introduce oneself, so the word sounds social, not like a job application. Mauro's use in the line before is the Madrid form for the same act.
+12. "random" (sentence 23): an English adjective for something odd or without a clear reason. Many young speakers of the Spanish of the United States use it as an everyday word.
+13. "vale" and "tío" (sentence 25): the fillers of Madrid speech, the first a word of agreement and the second a way to address a friend. Lupe hears them as strange, which is why she mentions them.
+14. "te llamo pa'trás" (sentence 26): a phrase of the Spanish of the United States, with pa' for para, that means I will call you back. The Madrid form is te llamo luego or te devuelvo la llamada.
+15. "running" and "brunch" (last sentence): running is an English word that Spanish uses for jogging, as in hacer running; the Spanish word is correr. Brunch is the English word for a late breakfast eaten as a lunch.
+16. "Qué va" (last sentence): an answer that means not at all, given to the question about mixing.
+17. The Academia Norteamericana de la Lengua Española is the academy of Spanish in the United States. It studies the Spanish spoken there, and it is named here only for that.
+
+ex1:
+- Señor Ortega, ¿le importa que aparque aquí un momento mientras busco la factura?
+  en: Mr Ortega, do you mind if I park here for a moment while I look for the invoice?
+- Ana, ya te dije que el trabajo es para el lunes, y no hace falta que me lo recuerdes cada hora.
+  en: Ana, I told you the work is due on Monday, and you do not need to remind me every hour.
+- Te llamo luego, que ahora estoy en la cola del banco.
+  en: I will ring you later, I am in the queue at the bank.
+- En Madrid suena a broma; en Los Ángeles, es lo normal.
+  en: In Madrid it sounds like a joke; in Los Angeles it is perfectly normal.
+- Nos sentamos a comer, y de postre pidió un americano que sabía a agua.
+  en: We sat down to eat, and for dessert he ordered an americano, which tasted of water.
+
+ex2:
+- Hoy no tengo [ganas] de cocinar.
+  en: I do not feel like cooking today.
+- Me [alegro] de que hayas venido.
+  en: I am glad you came.
+- Hay que [aparcar] fuera del centro.
+  en: You have to park outside the centre.
+- Me [da] igual lo que pidas.
+  en: I do not mind what you order.
+- Esto no [tiene] pies ni cabeza.
+  en: This makes no sense at all.
+
+tasks:
+- Beto, aquí se dice parquear, primo. Ponlo en la sombra, que el parking está full.
+  task.en: Rewrite Beto's line in Madrid Spanish, with no English word, then give a British English version of the same line. Keep the cousin's warmth and the order of the ideas.
+  rubric.en: meaning: the Madrid version says the car goes in the shade because the car park is full; register: a relaxed cousin's tú, Madrid words only; structure: two short sentences as in the original; idiom: aparcar, aparcamiento and lleno are used in their Madrid senses; effect: the English version reads as natural British speech, not as a translation of Spanglish.
+
+== 97 C2
+numeral: Lección noventa y siete
+title: Diario de una traductora
+title.en: A translator's diary
+
+dialogue:
+- Lunes, 9 de marzo. Hoy empiezo a traducir la novela inglesa, y lo primero que me detiene es el título.
+  en: Monday, 9 March. Today I start translating the English novel, and the first thing that stops me is the title.
+- El original es corto, pero en español necesita una preposición que en inglés no hace falta.
+  en: The original is short, but in Spanish it needs a preposition that English does not need.
+- Decido «Un invierno en Hallam Row», con mayúscula solo en la primera palabra, como pide la ortografía española de los títulos.
+  en: I decide on "Un invierno en Hallam Row", with a capital only on the first word, as Spanish spelling asks for titles.
+- En inglés las palabras importantes del título llevan mayúscula; en español, solo la primera y los nombres propios, y ese detalle me ha costado diez minutos.
+  en: In English the important words of a title take capitals; in Spanish only the first word and the proper names do, and that small detail has cost me ten minutes.
+- Llevo tres horas en el primer capítulo, y las réplicas dirigidas a alguien son donde empiezan los problemas.
+  en: I have spent three hours on the first chapter, and the lines addressed to someone are where the problems begin.
+- El inglés tiene una sola forma para todo, y el español tiene tú, usted, vosotros y ustedes; cada vez que aparece, tengo que elegir.
+  en: English has one form for everything, and Spanish has tú, usted, vosotros and ustedes; every time it appears, I have to choose.
+- En el primer capítulo, la madre de Nell le dice a su hija una frase que en inglés suena cálida. ¿Tú o usted?
+  en: In the first chapter, Nell's mother says to her daughter a line that sounds warm in English. Tú or usted?
+- Entre madre e hija, en una novela de nuestros días, no tengo dudas: tú.
+  en: Between a mother and her daughter, in a novel set in our own time, I have no doubt: tú.
+- Pero la misma madre habla con el casero, y ahí el usted pesa más, porque la distancia es la que el texto quiere.
+  en: But the same mother speaks to the landlord, and there usted weighs more, because the distance is what the text wants.
+- El casero le dice a Nell que debe irse, y en español la orden se queda sin matiz si no decido la forma.
+  en: The landlord tells Nell that she must go, and in Spanish the order loses its nuance if I do not choose a form.
+- Decido usted, porque un casero que da una orden a una inquilina no le habla de tú, ni en la novela ni en la calle.
+  en: I decide on usted, because a landlord who gives an order to a tenant does not speak to her in tú, either in the novel or in the street.
+- Miércoles, 11 de marzo. Hoy he notado que a veces el pronombre no se refiere a nadie en concreto, y en español eso se dice con uno o con la forma impersonal.
+  en: Wednesday, 11 March. Today I noticed that sometimes the pronoun refers to no one in particular, and in Spanish that is said with uno or with the impersonal form.
+- Aquí aparece el posesivo que el español suele callar: se lavó las manos, y no «se lavó sus manos».
+  en: Here is the possessive that Spanish usually drops: se lavó las manos, where English keeps "her hands" in the sentence.
+- La novela tiene también un problema de pasiva. En inglés la pasiva se hace con ser, y en español la frase cambia: se escribió la carta, o la carta fue escrita, o alguien la escribió, y cada una suena distinta.
+  en: The novel also has a passive problem. English writes "the letter was written", and in Spanish the sentence changes: se escribió la carta, or la carta fue escrita, or someone wrote it, and each sounds different.
+- Lo que más me cuesta es el gerundio: el inglés lo pone en casi cada frase, y en español suele bastar una frase que avanza sin él.
+  en: What costs me most is the gerund: English puts it into almost every sentence, and in Spanish a plain sentence that moves forward is usually enough.
+- Cuando el gerundio se queda, es porque suena natural: «subió las escaleras pensando en él».
+  en: When the gerund stays, it is because it sounds natural, as in "subió las escaleras pensando en él".
+- En el capítulo cuatro aparece una palabra inglesa para un calor de chimenea y de té, y en español no hay una sola que la cubra.
+  en: In chapter four there is an English word for the warmth of a fire and of tea, and Spanish has no single word that covers it.
+- Jueves, 12 de marzo. Esta mañana he pasado un rato con el diccionario, y el resultado es «acogedor», que no basta: hay que decir «un calor de hogar con té» y perder la ligereza.
+  en: Thursday, 12 March. This morning I spent a while with the dictionary, and the result is acogedor, which is not enough: I would need to say "un calor de hogar con té" and lose the lightness.
+- Decido «acogedor» y dejo el resto en una nota, porque una nota puede explicar lo que la frase no dice.
+  en: I choose acogedor and put the rest in a note, because a note can explain what the sentence cannot say.
+- Vuelvo al primer capítulo, que todavía me pide cuentas. Nell da un agradecimiento seco, y en español la fórmula cambia según la cortesía: gracias, muchas gracias, o un «gracias por» con su motivo.
+  en: I go back to the first chapter, which still owes me an answer. Nell gives a dry thanks, and in Spanish the formula changes with the courtesy: gracias, muchas gracias, or a gracias por with its reason.
+- Viernes, 13 de marzo. Entrego el segundo capítulo a la editora, con una nota que pide que la madre siga de tú hasta el final y que el casero siga de usted.
+  en: Friday, 13 March. I hand the second chapter to the editor, with a note asking that the mother stay on tú to the end and that the landlord stay on usted.
+- Esa coherencia pesa más que nada: si alguien cambia de tratamiento sin motivo, el lector lo nota.
+  en: That consistency weighs more than anything: if someone changes form of address for no reason, the reader notices.
+- Por eso anoto la regla de cada personaje en el margen de la nota, como una ley de la casa.
+  en: That is why I write each character's rule in the margin of the note, like a house law.
+- El último problema del día es el posesivo, que el español suele callar y el inglés mantiene: «se puso el abrigo», no «se puso su abrigo».
+  en: The last problem of the day is the possessive, which Spanish usually leaves out and English keeps: "se puso el abrigo", not "se puso su abrigo".
+- Cierro el día con el título en la portada del archivo: «Un invierno en Hallam Row», y me quedo tranquila.
+  en: I close the day with the title on the cover of the file: "Un invierno en Hallam Row", and I feel calm about it.
+- Sábado, 14 de marzo. Hoy una lectora me escribe desde Oviedo para preguntarme por qué traduje como usted la fórmula de la escena del tren.
+  en: Saturday, 14 March. Today a reader writes to me from Oviedo to ask why I translated the form of address in the train scene as usted.
+- Le respondo que la revisora no conoce a Nell y que, en un tren de cercanías, la distancia es la norma.
+  en: I reply that the ticket inspector does not know Nell, and that on a commuter train distance is the rule.
+- Escribo la respuesta en tres líneas y la releo dos veces, porque la lectora tiene razón en una cosa: el usted llega un poco tarde en la escena.
+  en: I write the reply in three lines and read it twice, because the reader is right about one thing: the usted comes a little late in the scene.
+- Y apunto a lápiz la lección de la semana: el pronombre de la novela no decide nada por sí mismo; quien decide es el personaje.
+  en: And I write in pencil the lesson of the week: the pronoun in the novel decides nothing by itself; the character decides.
+
+notes.en:
+1. "Un invierno en Hallam Row" (sentence 3): English capitalises the important words of a title. Spanish capitalises the first word and the proper names, so the English "A Winter at Hallam Row" becomes this form, with Hallam Row kept as a name.
+2. "una preposición que en inglés no hace falta" (sentence 2): the English title needs no word for the relation between the winter and the place. Spanish needs en to join them.
+3. "tú, usted, vosotros y ustedes" (sentence 6): the English "you" covers all four in Spanish. A translator chooses one for each speaker, and the choice follows the relation between the speakers.
+4. "Entre madre e hija" (sentence 8): in Spain a mother and a daughter in a novel of today normally use tú with each other. The choice is the usual one, and the translator does not need a reason to make it.
+5. "el usted pesa más" (sentence 9): usted between a landlord and a tenant shows the distance the text wants. A form of address can say something the English pronoun does not.
+6. "debe irse" (sentence 10): the English must go is a firm order. In Spanish the form of address, not the verb, carries the tone.
+7. "uno" and the impersonal form (sentence 12): the general you in English, which refers to no one, becomes uno or the impersonal se in Spanish, as in se dice.
+8. "se lavó las manos" (sentence 13): with a reflexive verb and a part of the body, Spanish uses the article, not the possessive. English keeps "her hands", so the possessive is the difference.
+9. "se escribió la carta" (sentence 14): the English passive is rendered in three ways in Spanish: a reflexive se, the passive with ser, or an active sentence with a subject. Each one changes the emphasis.
+10. "el gerundio" (sentence 15): English uses the gerund far more often than Spanish, and Spanish keeps it for an action that goes on at the same time as the main verb.
+11. "subió las escaleras pensando en él" (sentence 16): here the gerund names a second action done at the same time, which Spanish allows. It stays because it reads well.
+12. "un calor de chimenea y de té" (sentence 17): the English word is a warm, homely sense. Spanish has acogedor, which is close but lighter, so the translator explains the rest in a note.
+13. "acogedor" (sentence 19): the translator chooses the nearest word and explains the loss in a note.
+14. "gracias por" (sentence 20): the formula gracias por with its reason is the fuller thanks, and muchas gracias is the warmer one. The choice follows the courtesy of the speaker.
+15. "de tú hasta el final" (sentence 21): the note to the editor asks for a rule that holds from the first line to the last, which is how a form of address is kept consistent.
+16. "se puso el abrigo" (sentence 24): the English possessive is kept in the English sentence, and Spanish uses the article with a reflexive verb. The note gives the same contrast as the washed hands.
+17. "la revisora" (sentence 27): a ticket inspector on a commuter train, cercanías. The reader's question is about the form of address, and the translator's answer is about the distance between the characters.
+
+ex1:
+- Señora Pryce, ¿le importa firmar aquí, por favor?
+  en: Mrs Pryce, would you mind signing here, please?
+- Hija, ven a cenar antes de que se enfríe la sopa.
+  en: Love, come and eat before the soup goes cold.
+- Se escribieron cartas durante años, aunque nadie las leyó en voz alta.
+  en: Letters were written for years, although nobody read them aloud.
+- Se puso el abrigo, cogió las llaves y salió sin cerrar la puerta.
+  en: She put on her coat, picked up her keys and went out without closing the door.
+- Subió las escaleras pensando en lo que le había dicho el casero.
+  en: She went up the stairs thinking about what the landlord had said to her.
+
+ex2:
+- Me [hace] falta un abrigo nuevo.
+  en: I need a new coat.
+- Nos [pusimos] de acuerdo en el precio.
+  en: We agreed on the price.
+- Nos [echamos] de menos cuando te fuiste.
+  en: We missed you when you left.
+- Se [quedó] con la casa de sus padres.
+  en: She ended up with her parents' house.
+- Me [pongo] el abrigo antes de salir.
+  en: I put my coat on before going out.
+
+tasks:
+- El casero la miró desde la puerta y dijo que no podía quedarse en el piso. Nell mantuvo la vista en la tetera. Me iré antes del viernes, contestó, y se lavó las manos en el fregadero, despacio, como si el agua fuera lo único de la habitación que todavía la escuchaba.
+  task.en: Translate this paragraph into Spanish. Then comment in English on two choices: the form of address to the landlord, and the way you render the possessive in "washed her hands".
+  rubric.en: meaning: the landlord's order and Nell's answer are kept, and the slow final image stays; register: usted to the landlord, with the reply that needs no pronoun; structure: the sentences follow the English order without loss; idiom: se lavó las manos and the article with a reflexive verb are used as Spanish uses them; effect: the last clause keeps the slowness of the image; the comment gives reasons for both choices.
+
+== 98 C2
+kind: revision
+numeral: Lección noventa y ocho
+title: Revisión y notas
+title.en: Revision and notes
+
+dialogue:
+- Tomás: Antes del brindis, lo de siempre: la carta de 1605. Harriet, ya sabes lo que te espera.
+  en: Before the toast, the usual thing: the letter of 1605. Harriet, you know what to expect.
+  refs: 94
+- Harriet: Lo sé. Tu familia la lee en cada boda desde que el papel salió del cajón de Triana.
+  en: I know. Your family has read it at every wedding since the paper came out of the drawer in Triana.
+  refs: 94
+- Richard: Yo la tengo traducida en la tarjeta, Tomás, línea por línea. Nada se ha perdido.
+  en: I have it translated on the card, Tomás, line by line. Nothing has been lost.
+  refs: 97
+- Mauro: Nada, dice. ¿Y la posdata?
+  en: Nothing, he says. And the postscript?
+  refs: 94
+- Richard: La posdata es de familia, no de invitados. La dejé fuera de la lectura.
+  en: The postscript is for the family, not for the guests. I left it out of the reading.
+  refs: 94
+- Mauro: Pues Tomás la va a leer igual, que el chocolate es lo que más gusta a la tía.
+  en: Well, Tomás is going to read it all the same, because chocolate is what the aunt likes most.
+  refs: 94
+- Tomás: Empiezo, pues. «Hermano mío de mi alma: con esta mía, escrita en Sevilla a diez de agosto de mil seiscientos y cinco, doy a vuestra merced noticia de mi salud, que es buena, loado sea Dios.»
+  en: Then I begin. "My dear brother: with this letter of mine, written in Seville on the tenth of August 1605, I give your worship news of my health, which is good, God be praised."
+  refs: 94
+- Harriet: ¿Y cuando dice «beso las manos de vuestra merced»? ¿Eso lo dice alguien hoy?
+  en: And when he writes "I kiss your worship's hands", does anyone say that today?
+  refs: 94
+- Tomás: En la carta sí, en la vida no. Mi abuela lo decía al despedirse de los mayores, y nadie la corregía.
+  en: In the letter yes, in life no. My grandmother said it when she took leave of the elders, and nobody corrected her.
+  refs: 94
+- Mauro: Ya. Y tú, que hablas de «vuestra merced» como si fuera un pariente más, deberías leer más despacio.
+  en: Right. And you, who talk about "vuestra merced" as if it were one more relative, should read more slowly.
+  refs: 94
+- Tomás: Vuestra merced acabó siendo usted, Mauro, y el usted de mi abuela tiene cuatro siglos de historia.
+  en: Vuestra merced became usted, Mauro, and my grandmother's usted has four centuries of history behind it.
+  refs: 92, 94
+- Harriet: Richard dice que cuando traduce «no crea vuestra merced que me quejo» tiene que decidir cómo suena la queja.
+  en: Richard says that when he translates "do not think, your worship, that I complain", he has to decide how the complaint sounds.
+  refs: 94, 97
+- Richard: Y es la queja de un hermano, así que la traduje con cariño, no con enfado.
+  en: And it is a brother's complaint, so I translated it kindly, not angrily.
+  refs: 94, 97
+- Tomás: Me salto lo del pleito, que eso no le importa a nadie hoy. Vamos al final.
+  en: I will skip the lawsuit, which nobody cares about today. Let us go to the end.
+  refs: 94
+- Mauro: Eso, que el pleito ya lo ganó el tiempo.
+  en: Yes, time has already won that lawsuit.
+  refs: 94
+- Tomás: «Agora no más, que el correo se va, y la tinta se me seca.»
+  en: "That is all for now, for the post is leaving and the ink is drying on my pen."
+  refs: 94
+- Harriet: Y luego la firma, ¿no? «Beso las manos de vuestra merced, su hermano y servidor.»
+  en: And then the signature, yes? "I kiss your worship's hands, your brother and servant."
+  refs: 94
+- Tomás: Andrés de Ocaña, sí. Y ahora la posdata, que es lo que se espera.
+  en: Andrés de Ocaña, yes. And now the postscript, which is what everyone expects.
+  refs: 94
+- Mauro: Léela, hombre, que ya se nos hace tarde para el brindis.
+  en: Read it, man, we are already late for the toast.
+  refs: 96
+- Tomás: «Posdata: si puede, que mande chocolate, que mi mujer lo pide cada día y yo ya no sé qué responderle.»
+  en: "Postscript: if you can, send some chocolate, for my wife asks for it every day and I no longer know what to answer her."
+  refs: 94
+- Mauro: Pues hay chocolate en la mesa, primo. Aquí todo el mundo tiene una mujer que lo pide cada día.
+  en: Well, there is chocolate on the table, cousin. Here everybody has a wife who asks for it every day.
+  refs: 96
+- Harriet: Richard, dijiste que la posdata la habías quitado de la tarjeta. Y yo la he leído esta mañana.
+  en: Richard, you said you had taken the postscript off the card. And I read it this morning.
+  refs: 97
+- Richard: La quité de la lectura, Harriet, no de la tarjeta. Está en inglés, al final, en letra pequeña.
+  en: I took it out of the reading, Harriet, not off the card. It is in English, at the bottom, in small print.
+  refs: 97
+- Mauro: ¿Y qué dice la tarjeta, Richard? Que nos lo digas tú, que la traducción es tuya.
+  en: And what does the card say, Richard? You tell us, since the translation is yours.
+  refs: 97
+- Richard: Dice que mi mujer lo pide cada día desde hace treinta años.
+  en: It says that my wife has asked for it every day for thirty years.
+  refs: 94
+
+notes.en:
+The scene is one afternoon at a wedding lunch in Triana, Seville, and the reading is the family's own custom. Each section below names its lessons and quotes their lines as they stand there.
+1. Spanish through time (lessons 92 and 93): the layers of the language and the authorities that fixed it.
+| Form | What it does | Line from lesson 92 |
+|---|---|---|
+| al- | the Arabic article, in alcalde, albañil and aldea | No son pocas: el al- es el artículo árabe, y por eso tantas palabras empiezan así: alcalde, albañil, aldea. |
+| ojalá | a wish, from an Arabic phrase meaning "if God wills" | Lo decimos cada día sin pensar en Dios: ojalá, que viene del árabe, quiere decir «si Dios quiere». |
+| Glosas Emilianenses | the marginal notes said to be among the first written traces | Las glosas emilianenses, según la tradición, están entre los primeros testimonios escritos del romance |
+
+| Form | What it does | Line from lesson 93 |
+|---|---|---|
+| compañera del imperio | the idea of the grammar's dedication, as the text reports it | La dedicó a la reina Isabel, y en el prólogo escribió que la lengua había sido siempre compañera del imperio. |
+| Limpia, fija y da esplendor | the motto of the Academy | Su lema fue «Limpia, fija y da esplendor», y sigue siendo el lema de la institución. |
+| la ch y la ll | the letters removed from the alphabet in 2010 | En 2010, la Ortografía dejó de contar el ch y la ll como letras del abecedario, y la y pasó a llamarse ye. |
+2. The letter of 1605 (lesson 94): the forms of an older letter, in modern spelling.
+| Form | What it does | Line from lesson 94 |
+|---|---|---|
+| vuestra merced | the address that became usted, with a third-person verb | Sabrá vuestra merced que su sobrino Gonzalo se ha concertado con la hija del escribano de Triana |
+| agora | the old form of ahora | Agora, que la flota se apresta para Nueva España, no quiero que el correo se vaya sin una palabra de vuestra merced. |
+| harto | very, or a great deal | Harto trabajo nos da este muchacho, que anda entre la gente del puerto y no piensa sino en sus cosas. |
+| mesmo | the old form of mismo | Ya le dije a mi mujer que la dote ha de ser de dos mil ducados, y ella dice que mesmo en la plata de las Indias no se hallan tales joyas. |
+| Posdata | the postscript, written in full | Posdata: si puede, que mande chocolate, que mi mujer lo pide cada día y yo ya no sé qué responderle. |
+3. Spanglish and the Spanish of the United States (lessons 95 and 96): words that move between the two languages.
+| Form | What it does | Line from lesson 96 |
+|---|---|---|
+| parquear | the Spanish of the United States for park, where Madrid says aparcar | Aquí se dice parquear, primo. Ponlo en la sombra, que el parking está full. |
+| la troca | a pickup or lorry in Mexican and Mexican-American Spanish | Sí, un camión, bro. Pero mira qué bonita, con la caja pintada y todo. |
+| aplicar para | a calque on apply for, which Madrid replaces with solicitar | Oye, Mauro, ¿sabes que yo ya apliqué para el trabajo de la biblioteca? Todavía no me llaman. |
+| Qué va | not at all, the answer to a question about mixing | Qué va. Me voy a hacer un poco de running antes del brunch, que hoy me porto sano. |
+4. Translating between the two (lesson 97): the choices a translator makes between the languages.
+| Form | What it does | Line from lesson 97 |
+|---|---|---|
+| tú or usted | the form of address that English "you" hides | Entre madre e hija, en una novela de nuestros días, no tengo dudas: tú. |
+| se lavó las manos | the article with a reflexive verb and a part of the body | Aquí aparece el posesivo que el español suele callar: se lavó las manos, y no «se lavó sus manos». |
+| se escribió la carta | the passive in Spanish, one of three ways to render an English passive | La novela tiene también un problema de pasiva. |
+| acogedor | the nearest word to a warmth of home and tea, with the rest left to a note | Decido «acogedor» y dejo el resto en una nota, porque una nota puede explicar lo que la frase no dice. |
+5. The week's order: a line for each lesson, so that the forms of the week can be found again.
+- Lesson 92: the history of the language begins with spoken Latin and an Arabic layer, and it ends with ojalá.
+- Lesson 93: Nebrija's grammar, the Academy and the spelling of 2010, and a motto on a bedroom door.
+- Lesson 94: an old letter, modern spelling, and a postscript about chocolate.
+- Lesson 95: Judeo-Spanish, a language kept in homes for about five centuries, and a melody recognised in a café.
+- Lesson 96: Spanish of the United States, with the English words the scene uses, and a last line about running.
+- Lesson 97: a translator's diary, and the choices behind each line.
+tasks:
+- La carta antigua se leía en cada boda de la casa, y este año la novia pidió la versión inglesa. Su padre la había traducido línea por línea, y la tarjeta pasó de mano en mano por la mesa, junto al vino de la familia. No se había dejado nada fuera, dijo, salvo la posdata, que era para la familia. —¿Quiere usted que la lea otra vez, abuela? —preguntó el novio, y ella dijo que sí. —¡Léela ya, que tenemos hambre! —gritó un primo. Cuando el novio leyó la posdata en voz alta, en español, los invitados se rieron con lo del chocolate. Entonces la novia dio la vuelta a la tarjeta, y en letra pequeña, al pie, había una línea en inglés: su mujer pedía chocolate cada día. El novio sonrió y dijo que la tarjeta siempre había sido para la familia.
+  task.en: Translate this short English story into Spanish, of about the same length, with tú for the family and usted for the grandmother, and keep the chocolate joke. Then, in English, name two of your choices. Story: The old letter was read at every wedding in the house, and this year the bride asked for the English version. Her father had translated it line by line, and the card went round the table with the family wine. Nothing was left out, he said, except the postscript, which was for the family. "Would you like it read again, Grandmother?" the groom asked, and she said yes. "Read it, you lot, we are hungry!" shouted a cousin. When the groom read the postscript aloud, in Spanish, the guests laughed at the chocolate. Then the bride turned the card over, and in small print at the bottom was a line in English: his wife asked for chocolate every day. The groom smiled and said the card had always been for the family.
+  rubric.en: meaning: the wedding, the card, the postscript and the chocolate joke are kept, and nothing is added; register: tú for the family, usted for the grandmother, the Spanish of Spain; structure: the story keeps its order, with the card turned over at the same point; idiom: the passive and the possessive are rendered as Spanish does them, with se and the article; effect: the last laugh about the chocolate lands in Spanish as it does in English.

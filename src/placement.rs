@@ -1029,6 +1029,8 @@ mod tests {
         app.open_placement("es");
         draw(&mut app);
         app.start_level_test();
+        // speaking counts only where the engine was ready when the test began
+        let speaking = app.placement.as_ref().and_then(|s| s.test.as_ref()).is_some_and(|t| !t.off.contains(&Skill::Speaking));
         let mut asked = 0;
         while app.placement.as_ref().and_then(|s| s.test.as_ref()).is_some_and(|t| !t.done) {
             draw(&mut app);
@@ -1038,7 +1040,7 @@ mod tests {
         }
         draw(&mut app);
         // three levels asked (A1, A2 passed, B1 not), speaking only where the engine is installed
-        let skills = if speech::available("es") { 4 } else { 3 };
+        let skills = if speaking { 4 } else { 3 };
         assert_eq!(asked, 3 * PER_SKILL * skills);
         assert!(app.placement.is_some(), "the result waits for the learner's choice");
         app.stop_audio();
